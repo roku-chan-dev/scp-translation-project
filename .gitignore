@@ -1,0 +1,25 @@
+# ---- Python でよくある除外 ----
+__pycache__/
+*.py[cod]
+*.egg-info/
+*.egg
+
+# ---- 仮想環境 ----
+.venv/
+venv/
+ENV/
+env/
+
+# ---- IDE系 ----
+.vscode/
+.idea/
+
+# ---- macOS系 ----
+.DS_Store
+
+# ---- APIキーなど ----
+.env
+
+# ---- SQLite DB ----
+scp_data.sqlite
+data/scp_data.sqlite
