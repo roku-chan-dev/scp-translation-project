@@ -1,6 +1,3 @@
-#!/usr/bin/env python
-# -*- coding: utf-8 -*-
-
 """
 store_multi_sites.py
 
@@ -11,28 +8,30 @@ store_multi_sites.py
 """
 
 import os
-import time
-import sys
 import sqlite3
+import sys
+import time
 import xmlrpc.client
+from typing import Any, Dict, List, Optional, Tuple
+
 from dotenv import load_dotenv
-from retrying import retry
+from tenacity import retry, stop_after_attempt, wait_exponential
 
 # ------------------------------------------------------------------------------
 # ここで一度に取得したいサイト名をリスト化
 # 好きなだけ追加可能
 # ------------------------------------------------------------------------------
 SITES = [
-    "scp-wiki",     # EN (本家)
-    "scp-jp",       # 日本支部
+    "scp-wiki",  # EN (本家)
+    "scp-jp",  # 日本支部
     "scp-wiki-cn",  # 中国支部
-    "scpko"         # 韓国支部 (本当は "scp-kr" かも。Wiki のドメイン要確認)
+    "scpko",  # 韓国支部 (本当は "scp-kr" かも。Wiki のドメイン要確認)
 ]
 
 # API の呼び出し間隔(秒) - Wikidot APIは 240req/min 制限があるのでウェイトを置く
 REQUEST_INTERVAL = 0.4
 
-# pages.get_meta() / pages.get_one() の一括取得サイズ
+# pages.select() / get_meta() / get_one() の一括取得サイズ
 CHUNK_SIZE = 10
 
 # ------------------------------------------------------------------------------
@@ -45,7 +44,8 @@ API_KEY = os.getenv("WIKIDOT_API_KEY", "your-api-key")
 DB_FILE = os.getenv("DB_FILE", "data/scp_data.sqlite")
 
 
-def get_server_proxy(user, key):
+@retry(stop=stop_after_attempt(3), wait=wait_exponential(multiplier=1, max=60))
+def get_server_proxy(user: str, key: str) -> xmlrpc.client.ServerProxy:
     """
     Wikidot API に認証付きで接続するための
     xmlrpc.client.ServerProxy を生成して返す。
@@ -54,28 +54,44 @@ def get_server_proxy(user, key):
     return xmlrpc.client.ServerProxy(api_url)
 
 
-@retry(stop_max_attempt_number=3,
-       wait_exponential_multiplier=1000,
-       wait_exponential_max=60000)
-def select_all_pages(site, server):
+@retry(stop=stop_after_attempt(3), wait=wait_exponential(multiplier=1, max=60))
+def select_all_pages(site: str, server: xmlrpc.client.ServerProxy) -> List[str]:
     """
     対象サイト (site) から全ページの fullname リストを取得する。
     """
     return server.pages.select({"site": site})
 
 
-@retry(stop_max_attempt_number=3,
-       wait_exponential_multiplier=1000,
-       wait_exponential_max=60000)
-def get_one_page(site, server, page_name):
+@retry(stop=stop_after_attempt(3), wait=wait_exponential(multiplier=1, max=60))
+def get_pages_meta(
+    site: str, server: xmlrpc.client.ServerProxy, pages: List[str]
+) -> Dict[str, Dict[str, Any]]:
+    """
+    同時に最大10件まで pages.get_meta() でメタデータを取得。
+    updated_at, revisions, rating などがまとめて返る。
+
+    Returns:
+        meta_info: Dict where keys are page names, and values are dictionaries
+        containing metadata (fullname, updated_at, tags, etc.).
+    """
+    return server.pages.get_meta({"site": site, "pages": pages})
+
+
+@retry(stop=stop_after_attempt(3), wait=wait_exponential(multiplier=1, max=60))
+def get_one_page(
+    site: str, server: xmlrpc.client.ServerProxy, page_name: str
+) -> Dict[str, Any]:
     """
     1ページ分の詳細情報を取得する。
     content や html、rating、tags などが含まれる。
+
+    Returns:
+        A dictionary containing page details (content, html, rating, tags, etc.).
     """
     return server.pages.get_one({"site": site, "page": page_name})
 
 
-def create_tables(conn):
+def create_tables(conn: sqlite3.Connection) -> None:
     """
     SQLite DB にテーブル (pages, page_tags) を作成する。
     site と fullname を組みにした複合主キーで
@@ -83,7 +99,8 @@ def create_tables(conn):
     """
     c = conn.cursor()
 
-    c.execute("""
+    c.execute(
+        """
         CREATE TABLE IF NOT EXISTS pages (
           site            TEXT NOT NULL,
           fullname        TEXT NOT NULL,
@@ -104,27 +121,33 @@ def create_tables(conn):
           html            TEXT,
           PRIMARY KEY (site, fullname)
         )
-    """)
+        """
+    )
 
-    c.execute("""
+    c.execute(
+        """
         CREATE TABLE IF NOT EXISTS page_tags (
           site     TEXT NOT NULL,
           fullname TEXT NOT NULL,
           tag      TEXT NOT NULL,
           PRIMARY KEY (site, fullname, tag)
         )
-    """)
+        """
+    )
 
     conn.commit()
 
 
-def insert_page(conn, site, page_data):
+def insert_page(
+    conn: sqlite3.Connection, site: str, page_data: Dict[str, Any]
+) -> None:
     """
     1ページ分のデータを pages テーブルに INSERT (または REPLACE) する。
-    site を含めて複合主キーにするので、上書きの心配は少ない。
+    site を含めて複合主キーにするので、同じページ名でも site が違えば衝突しない。
     """
     c = conn.cursor()
-    c.execute("""
+    c.execute(
+        """
         INSERT OR REPLACE INTO pages (
           site,
           fullname,
@@ -144,53 +167,90 @@ def insert_page(conn, site, page_data):
           content,
           html
         ) VALUES (?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?)
-    """, (
-        site,
-        page_data.get("fullname"),
-        page_data.get("title"),
-        page_data.get("created_at"),
-        page_data.get("created_by"),
-        page_data.get("updated_at"),
-        page_data.get("updated_by"),
-        page_data.get("parent_fullname"),
-        page_data.get("parent_title"),
-        page_data.get("rating", 0),
-        page_data.get("revisions", 0),
-        page_data.get("children", 0),
-        page_data.get("comments", 0),
-        page_data.get("commented_at"),
-        page_data.get("commented_by"),
-        page_data.get("content"),
-        page_data.get("html")
-    ))
+        """,
+        (
+            site,
+            page_data.get("fullname"),
+            page_data.get("title"),
+            page_data.get("created_at"),
+            page_data.get("created_by"),
+            page_data.get("updated_at"),
+            page_data.get("updated_by"),
+            page_data.get("parent_fullname"),
+            page_data.get("parent_title"),
+            page_data.get("rating", 0),
+            page_data.get("revisions", 0),
+            page_data.get("children", 0),
+            page_data.get("comments", 0),
+            page_data.get("commented_at"),
+            page_data.get("commented_by"),
+            page_data.get("content"),
+            page_data.get("html"),
+        ),
+    )
     conn.commit()
 
 
-def insert_tags(conn, site, page_fullname, tags_list):
+def insert_tags(
+    conn: sqlite3.Connection,
+    site: str,
+    page_fullname: str,
+    tags_list: List[str],
+) -> None:
     """
     1ページに付いているタグ (tags) のリストを
     page_tags テーブルに INSERT (または REPLACE) する。
     """
     c = conn.cursor()
     for tag in tags_list:
-        c.execute("""
+        c.execute(
+            """
             INSERT OR REPLACE INTO page_tags (site, fullname, tag)
             VALUES (?, ?, ?)
-        """, (site, page_fullname, tag))
+            """,
+            (site, page_fullname, tag),
+        )
     conn.commit()
 
 
-def main():
+def get_db_page_info(
+    conn: sqlite3.Connection, site: str, page_name: str
+) -> Optional[Tuple[str, int]]:
+    """
+    DBに既にあるページの updated_at, revisions を返す。
+    まだ存在しない場合は None を返す。
+
+    Returns:
+        (updated_at, revisions) if the page exists in DB, otherwise None.
+    """
+    c = conn.cursor()
+    row = c.execute(
+        """
+        SELECT updated_at, revisions
+        FROM pages
+        WHERE site=? AND fullname=?
+        """,
+        (site, page_name),
+    ).fetchone()
+    # row is either (updated_at, revisions) or None
+    return row  # type: ignore
+
+
+def main() -> None:
     """
     メイン処理:
     1) DBを開いてテーブルを作成
     2) SITES に列挙された各サイトから全ページを取得
-    3) 1ページごとに詳細情報を拾って DB に格納
-    4) リクエスト間隔を空けてレート制限を回避
+    3) 全ページをCHUNKごとにメタデータ(get_pages_meta)だけ先に拾う
+    4) DBの既存データと比較し、更新されてるページだけ get_one_page で本体を取得
+    5) リクエスト間隔を空けてレート制限を回避
+    6) 取得した情報をDBにINSERT
+    7) ページが削除されていた場合(Fault 406)はスキップ
     """
     conn = sqlite3.connect(DB_FILE)
     create_tables(conn)
 
+    print(f"DB_FILE = {DB_FILE}")
     server = get_server_proxy(API_USER, API_KEY)
 
     for site in SITES:
@@ -203,26 +263,68 @@ def main():
 
         # ページ名をCHUNK_SIZE ごとに小分けして処理
         for i in range(0, total_pages, CHUNK_SIZE):
-            chunk = all_pages[i: i + CHUNK_SIZE]
-            # get_pages_meta() を使わない場合はコメントアウトでOK
-            # meta_data = get_pages_meta(site, server, chunk)
+            chunk = all_pages[i : i + CHUNK_SIZE]
 
-            # 連続リクエストの速度を調整
-            time.sleep(REQUEST_INTERVAL)
+            # メタデータをまとめて取得
+            # meta_info は { 'page_name': { 'fullname':..., 'updated_at':..., 'revisions':..., 'tags': [...], ... }, ... }
+            try:
+                time.sleep(REQUEST_INTERVAL)
+                meta_info = get_pages_meta(site, server, chunk)
+            except (xmlrpc.client.Fault, ConnectionError) as e:
+                print(f"\n[WARN] get_pages_meta失敗: {e}")
+                # 必要に応じてリトライ or このチャンク全スキップなどの処理
+                continue
+
+            if not meta_info:
+                # 万が一何も取れんかったらスキップ
+                continue
 
             for page_name in chunk:
                 processed_count += 1
-                page_data = get_one_page(site, server, page_name)
-                time.sleep(REQUEST_INTERVAL)
-
-                insert_page(conn, site, page_data)
-                insert_tags(conn, site, page_name, page_data.get("tags", []))
-
-                # 進捗表示 (上書き)
                 sys.stdout.write(
                     f"\rProcessed {processed_count}/{total_pages} for {site}..."
                 )
                 sys.stdout.flush()
+
+                meta = meta_info.get(page_name)
+                if not meta:
+                    # 何故かこのページだけメタ情報が無い場合はスキップ
+                    continue
+
+                # DB上の更新日時/リビジョンと比較して、同じならスキップ
+                db_row = get_db_page_info(conn, site, page_name)
+                if db_row is not None:
+                    db_updated_at, db_revisions = db_row
+                    if db_updated_at == meta.get(
+                        "updated_at"
+                    ) and db_revisions == meta.get("revisions", 0):
+                        # 変化なし → skip
+                        continue
+
+                # 変化あり or まだDBに無い → get_one_page
+                try:
+                    time.sleep(REQUEST_INTERVAL)
+                    fullinfo = get_one_page(site, server, page_name)
+                except xmlrpc.client.Fault as fault:
+                    if (
+                        fault.faultCode == 406
+                        and "page does not exist" in fault.faultString.lower()
+                    ):
+                        print(f"\n[INFO] ページ '{page_name}' は削除されてるみたいやからスキップ")
+                        continue
+                    else:
+                        # それ以外のエラーは再raise
+                        raise
+
+                # get_one_page で拾った情報 + meta_data (tags など) をマージ
+                if "tags" in meta:
+                    fullinfo["tags"] = meta["tags"]
+
+                # DBにINSERT
+                insert_page(conn, site, fullinfo)
+                insert_tags(conn, site, page_name, fullinfo.get("tags", []))
+
+            # chunk単位のループ終わり
 
         print(f"\n=== {site} の処理終了: 合計 {processed_count} ページ ===")
 
