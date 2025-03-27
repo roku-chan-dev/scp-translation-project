@@ -23,3 +23,10 @@ env/
 # ---- SQLite DB ----
 scp_data.sqlite
 data/scp_data.sqlite
+
+# Repomix output
+repomix-output.txt
+repomix-output.xml
+repomix-output.md
+.repomixignore
+repomix.config.json
