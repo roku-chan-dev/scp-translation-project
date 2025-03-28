@@ -9,13 +9,23 @@ store_multi_sites.py
 
 import os
 import sqlite3
-import sys
-import time
 import xmlrpc.client
-from typing import Any, Dict, List, Optional, Tuple
+import logging
+from typing import Any, Dict, List, Optional, Tuple, cast
 
+import defusedxml.xmlrpc
 from dotenv import load_dotenv
 from tenacity import retry, stop_after_attempt, wait_exponential
+
+defusedxml.xmlrpc.monkey_patch()
+
+# Set up logger
+logger = logging.getLogger(__name__)
+logging.basicConfig(
+    level=logging.INFO,
+    format="%(asctime)s - %(levelname)s - %(message)s",
+    datefmt="%Y-%m-%d %H:%M:%S",
+)
 
 # ------------------------------------------------------------------------------
 # ここで一度に取得したいサイト名をリスト化
@@ -25,11 +35,8 @@ SITES = [
     "scp-wiki",  # EN (本家)
     "scp-jp",  # 日本支部
     "scp-wiki-cn",  # 中国支部
-    "scpko",  # 韓国支部 (本当は "scp-kr" かも。Wiki のドメイン要確認)
+    "scpko",  # 韓国支部
 ]
-
-# API の呼び出し間隔(秒) - Wikidot APIは 240req/min 制限があるのでウェイトを置く
-REQUEST_INTERVAL = 0.4
 
 # pages.select() / get_meta() / get_one() の一括取得サイズ
 CHUNK_SIZE = 10
@@ -44,7 +51,7 @@ API_KEY = os.getenv("WIKIDOT_API_KEY", "your-api-key")
 DB_FILE = os.getenv("DB_FILE", "data/scp_data.sqlite")
 
 
-@retry(stop=stop_after_attempt(3), wait=wait_exponential(multiplier=1, max=60))
+@retry(stop=stop_after_attempt(5), wait=wait_exponential(multiplier=1, max=60))
 def get_server_proxy(user: str, key: str) -> xmlrpc.client.ServerProxy:
     """
     Wikidot API に認証付きで接続するための
@@ -54,15 +61,17 @@ def get_server_proxy(user: str, key: str) -> xmlrpc.client.ServerProxy:
     return xmlrpc.client.ServerProxy(api_url)
 
 
-@retry(stop=stop_after_attempt(3), wait=wait_exponential(multiplier=1, max=60))
+@retry(stop=stop_after_attempt(5), wait=wait_exponential(multiplier=1, max=60))
 def select_all_pages(site: str, server: xmlrpc.client.ServerProxy) -> List[str]:
     """
     対象サイト (site) から全ページの fullname リストを取得する。
+
+    レート制限エラーが起きた場合は指数バックオフで再試行する。
     """
-    return server.pages.select({"site": site})
+    return cast(List[str], server.pages.select({"site": site}))
 
 
-@retry(stop=stop_after_attempt(3), wait=wait_exponential(multiplier=1, max=60))
+@retry(stop=stop_after_attempt(5), wait=wait_exponential(multiplier=1, max=60))
 def get_pages_meta(
     site: str, server: xmlrpc.client.ServerProxy, pages: List[str]
 ) -> Dict[str, Dict[str, Any]]:
@@ -70,14 +79,18 @@ def get_pages_meta(
     同時に最大10件まで pages.get_meta() でメタデータを取得。
     updated_at, revisions, rating などがまとめて返る。
 
+    レート制限エラーが起きた場合は指数バックオフで再試行する。
+
     Returns:
         meta_info: Dict where keys are page names, and values are dictionaries
         containing metadata (fullname, updated_at, tags, etc.).
     """
-    return server.pages.get_meta({"site": site, "pages": pages})
+    return cast(
+        Dict[str, Dict[str, Any]], server.pages.get_meta({"site": site, "pages": pages})
+    )
 
 
-@retry(stop=stop_after_attempt(3), wait=wait_exponential(multiplier=1, max=60))
+@retry(stop=stop_after_attempt(5), wait=wait_exponential(multiplier=1, max=60))
 def get_one_page(
     site: str, server: xmlrpc.client.ServerProxy, page_name: str
 ) -> Dict[str, Any]:
@@ -85,10 +98,12 @@ def get_one_page(
     1ページ分の詳細情報を取得する。
     content や html、rating、tags などが含まれる。
 
+    レート制限エラーが起きた場合は指数バックオフで再試行する。
+
     Returns:
         A dictionary containing page details (content, html, rating, tags, etc.).
     """
-    return server.pages.get_one({"site": site, "page": page_name})
+    return cast(Dict[str, Any], server.pages.get_one({"site": site, "page": page_name}))
 
 
 def create_tables(conn: sqlite3.Connection) -> None:
@@ -138,9 +153,7 @@ def create_tables(conn: sqlite3.Connection) -> None:
     conn.commit()
 
 
-def insert_page(
-    conn: sqlite3.Connection, site: str, page_data: Dict[str, Any]
-) -> None:
+def insert_page(conn: sqlite3.Connection, site: str, page_data: Dict[str, Any]) -> None:
     """
     1ページ分のデータを pages テーブルに INSERT (または REPLACE) する。
     site を含めて複合主キーにするので、同じページ名でも site が違えば衝突しない。
@@ -243,20 +256,20 @@ def main() -> None:
     2) SITES に列挙された各サイトから全ページを取得
     3) 全ページをCHUNKごとにメタデータ(get_pages_meta)だけ先に拾う
     4) DBの既存データと比較し、更新されてるページだけ get_one_page で本体を取得
-    5) リクエスト間隔を空けてレート制限を回避
+    5) 固定の待機時間を設けず、エラー発生時のみ指数バックオフでリトライ
     6) 取得した情報をDBにINSERT
     7) ページが削除されていた場合(Fault 406)はスキップ
     """
     conn = sqlite3.connect(DB_FILE)
     create_tables(conn)
 
-    print(f"DB_FILE = {DB_FILE}")
+    logger.info(f"DB_FILE = {DB_FILE}")
     server = get_server_proxy(API_USER, API_KEY)
 
     for site in SITES:
-        print(f"\n=== 開始: {site} ===")
+        logger.info(f"=== 開始: {site} ===")
         all_pages = select_all_pages(site, server)
-        print(f"  => {len(all_pages)} ページを取得しました (site={site})")
+        logger.info(f"  => {len(all_pages)} ページを取得しました (site={site})")
 
         processed_count = 0
         total_pages = len(all_pages)
@@ -268,10 +281,9 @@ def main() -> None:
             # メタデータをまとめて取得
             # meta_info は { 'page_name': { 'fullname':..., 'updated_at':..., 'revisions':..., 'tags': [...], ... }, ... }
             try:
-                time.sleep(REQUEST_INTERVAL)
                 meta_info = get_pages_meta(site, server, chunk)
             except (xmlrpc.client.Fault, ConnectionError) as e:
-                print(f"\n[WARN] get_pages_meta失敗: {e}")
+                logger.warning(f"get_pages_meta失敗: {e}")
                 # 必要に応じてリトライ or このチャンク全スキップなどの処理
                 continue
 
@@ -281,10 +293,11 @@ def main() -> None:
 
             for page_name in chunk:
                 processed_count += 1
-                sys.stdout.write(
-                    f"\rProcessed {processed_count}/{total_pages} for {site}..."
-                )
-                sys.stdout.flush()
+                # Replace sys.stdout.write with a progress indicator
+                if processed_count % 10 == 0 or processed_count == total_pages:
+                    logger.info(
+                        f"Processing {processed_count}/{total_pages} for {site}..."
+                    )
 
                 meta = meta_info.get(page_name)
                 if not meta:
@@ -303,14 +316,15 @@ def main() -> None:
 
                 # 変化あり or まだDBに無い → get_one_page
                 try:
-                    time.sleep(REQUEST_INTERVAL)
                     fullinfo = get_one_page(site, server, page_name)
                 except xmlrpc.client.Fault as fault:
                     if (
                         fault.faultCode == 406
                         and "page does not exist" in fault.faultString.lower()
                     ):
-                        print(f"\n[INFO] ページ '{page_name}' は削除されてるみたいやからスキップ")
+                        logger.info(
+                            f"ページ '{page_name}' は削除されてるみたいやからスキップ"
+                        )
                         continue
                     else:
                         # それ以外のエラーは再raise
@@ -326,10 +340,10 @@ def main() -> None:
 
             # chunk単位のループ終わり
 
-        print(f"\n=== {site} の処理終了: 合計 {processed_count} ページ ===")
+        logger.info(f"=== {site} の処理終了: 合計 {processed_count} ページ ===")
 
     conn.close()
-    print("\n[完了] すべてのサイトのページ取得が完了しました。")
+    logger.info("完了: すべてのサイトのページ取得が完了しました。")
 
 
 if __name__ == "__main__":
