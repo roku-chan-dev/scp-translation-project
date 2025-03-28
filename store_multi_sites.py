@@ -11,11 +11,17 @@ import os
 import sqlite3
 import xmlrpc.client
 import logging
+import socket
 from typing import Any, Dict, List, Optional, Tuple, cast
 
 import defusedxml.xmlrpc
 from dotenv import load_dotenv
-from tenacity import retry, stop_after_attempt, wait_exponential
+from tenacity import (
+    retry,
+    stop_after_attempt,
+    wait_exponential,
+    retry_if_exception_type,
+)
 
 defusedxml.xmlrpc.monkey_patch()
 
@@ -41,6 +47,10 @@ SITES = [
 # pages.select() / get_meta() / get_one() の一括取得サイズ
 CHUNK_SIZE = 10
 
+# 再試行設定（共通パラメータ）
+MAX_RETRY_ATTEMPTS = 10  # 再試行回数を5回から10回に増加
+MAX_WAIT_TIME = 180  # 最大待機時間を60秒から180秒に増加
+
 # ------------------------------------------------------------------------------
 # 環境変数 (.env) からキーやユーザー名を読み込む
 # WIKIDOT_API_USER / WIKIDOT_API_KEY / DB_FILE
@@ -51,27 +61,46 @@ API_KEY = os.getenv("WIKIDOT_API_KEY", "your-api-key")
 DB_FILE = os.getenv("DB_FILE", "data/scp_data.sqlite")
 
 
-@retry(stop=stop_after_attempt(5), wait=wait_exponential(multiplier=1, max=60))
+@retry(
+    stop=stop_after_attempt(MAX_RETRY_ATTEMPTS),
+    wait=wait_exponential(multiplier=1, max=MAX_WAIT_TIME),
+    retry=retry_if_exception_type((ConnectionError, socket.gaierror)),
+)
 def get_server_proxy(user: str, key: str) -> xmlrpc.client.ServerProxy:
     """
     Wikidot API に認証付きで接続するための
     xmlrpc.client.ServerProxy を生成して返す。
+
+    ネットワーク障害やDNS解決エラー（socket.gaierror）が発生した場合は
+    指数バックオフで再試行する。
     """
     api_url = f"https://{user}:{key}@wikidot.com/xml-rpc-api.php"
     return xmlrpc.client.ServerProxy(api_url)
 
 
-@retry(stop=stop_after_attempt(5), wait=wait_exponential(multiplier=1, max=60))
+@retry(
+    stop=stop_after_attempt(MAX_RETRY_ATTEMPTS),
+    wait=wait_exponential(multiplier=1, max=MAX_WAIT_TIME),
+    retry=retry_if_exception_type(
+        (xmlrpc.client.Fault, ConnectionError, socket.gaierror)
+    ),
+)
 def select_all_pages(site: str, server: xmlrpc.client.ServerProxy) -> List[str]:
     """
     対象サイト (site) から全ページの fullname リストを取得する。
 
-    レート制限エラーが起きた場合は指数バックオフで再試行する。
+    レート制限エラーやネットワーク障害が起きた場合は指数バックオフで再試行する。
     """
     return cast(List[str], server.pages.select({"site": site}))
 
 
-@retry(stop=stop_after_attempt(5), wait=wait_exponential(multiplier=1, max=60))
+@retry(
+    stop=stop_after_attempt(MAX_RETRY_ATTEMPTS),
+    wait=wait_exponential(multiplier=1, max=MAX_WAIT_TIME),
+    retry=retry_if_exception_type(
+        (xmlrpc.client.Fault, ConnectionError, socket.gaierror)
+    ),
+)
 def get_pages_meta(
     site: str, server: xmlrpc.client.ServerProxy, pages: List[str]
 ) -> Dict[str, Dict[str, Any]]:
@@ -79,7 +108,8 @@ def get_pages_meta(
     同時に最大10件まで pages.get_meta() でメタデータを取得。
     updated_at, revisions, rating などがまとめて返る。
 
-    レート制限エラーが起きた場合は指数バックオフで再試行する。
+    レート制限エラーやネットワーク障害が起きた場合は指数バックオフで再試行する。
+    DNS解決エラー（socket.gaierror）も同様に再試行する。
 
     Returns:
         meta_info: Dict where keys are page names, and values are dictionaries
@@ -90,7 +120,13 @@ def get_pages_meta(
     )
 
 
-@retry(stop=stop_after_attempt(5), wait=wait_exponential(multiplier=1, max=60))
+@retry(
+    stop=stop_after_attempt(MAX_RETRY_ATTEMPTS),
+    wait=wait_exponential(multiplier=1, max=MAX_WAIT_TIME),
+    retry=retry_if_exception_type(
+        (xmlrpc.client.Fault, ConnectionError, socket.gaierror)
+    ),
+)
 def get_one_page(
     site: str, server: xmlrpc.client.ServerProxy, page_name: str
 ) -> Dict[str, Any]:
@@ -98,7 +134,8 @@ def get_one_page(
     1ページ分の詳細情報を取得する。
     content や html、rating、tags などが含まれる。
 
-    レート制限エラーが起きた場合は指数バックオフで再試行する。
+    レート制限エラーやネットワーク障害が起きた場合は指数バックオフで再試行する。
+    DNS解決エラー（socket.gaierror）も同様に再試行する。
 
     Returns:
         A dictionary containing page details (content, html, rating, tags, etc.).
@@ -259,17 +296,30 @@ def main() -> None:
     5) 固定の待機時間を設けず、エラー発生時のみ指数バックオフでリトライ
     6) 取得した情報をDBにINSERT
     7) ページが削除されていた場合(Fault 406)はスキップ
+    8) ネットワークエラーやDNS解決エラー(socket.gaierror)は粘り強く再試行
     """
     conn = sqlite3.connect(DB_FILE)
     create_tables(conn)
 
     logger.info(f"DB_FILE = {DB_FILE}")
-    server = get_server_proxy(API_USER, API_KEY)
+    try:
+        server = get_server_proxy(API_USER, API_KEY)
+    except Exception as e:
+        logger.error(f"サーバー接続エラー: {e}")
+        logger.info(
+            "プログラムを終了します。ネットワーク接続を確認してから再実行してください。"
+        )
+        return
 
     for site in SITES:
         logger.info(f"=== 開始: {site} ===")
-        all_pages = select_all_pages(site, server)
-        logger.info(f"  => {len(all_pages)} ページを取得しました (site={site})")
+        try:
+            all_pages = select_all_pages(site, server)
+            logger.info(f"  => {len(all_pages)} ページを取得しました (site={site})")
+        except Exception as e:
+            logger.error(f"{site} のページ一覧取得に失敗: {e}")
+            logger.info(f"{site} をスキップして次のサイトへ進みます")
+            continue
 
         processed_count = 0
         total_pages = len(all_pages)
@@ -282,9 +332,12 @@ def main() -> None:
             # meta_info は { 'page_name': { 'fullname':..., 'updated_at':..., 'revisions':..., 'tags': [...], ... }, ... }
             try:
                 meta_info = get_pages_meta(site, server, chunk)
-            except (xmlrpc.client.Fault, ConnectionError) as e:
+            except (xmlrpc.client.Fault, ConnectionError, socket.gaierror) as e:
                 logger.warning(f"get_pages_meta失敗: {e}")
-                # 必要に応じてリトライ or このチャンク全スキップなどの処理
+                # tenacityによる再試行が全て失敗した場合、このチャンクをスキップ
+                continue
+            except Exception as e:
+                logger.warning(f"予期せぬエラー in get_pages_meta: {e}")
                 continue
 
             if not meta_info:
@@ -327,16 +380,35 @@ def main() -> None:
                         )
                         continue
                     else:
-                        # それ以外のエラーは再raise
-                        raise
+                        # それ以外の既知のエラーは警告を出してスキップ
+                        logger.warning(
+                            f"ページ '{page_name}' の取得中にエラー: {fault}"
+                        )
+                        continue
+                except (ConnectionError, socket.gaierror) as e:
+                    # ネットワークエラーはtenacityでの再試行が全て失敗した場合
+                    logger.warning(
+                        f"ページ '{page_name}' の取得中にネットワークエラー: {e}"
+                    )
+                    continue
+                except Exception as e:
+                    # 予期せぬエラーは警告を出してスキップ
+                    logger.warning(
+                        f"ページ '{page_name}' の取得中に予期せぬエラー: {e}"
+                    )
+                    continue
 
                 # get_one_page で拾った情報 + meta_data (tags など) をマージ
                 if "tags" in meta:
                     fullinfo["tags"] = meta["tags"]
 
                 # DBにINSERT
-                insert_page(conn, site, fullinfo)
-                insert_tags(conn, site, page_name, fullinfo.get("tags", []))
+                try:
+                    insert_page(conn, site, fullinfo)
+                    insert_tags(conn, site, page_name, fullinfo.get("tags", []))
+                except sqlite3.Error as e:
+                    logger.warning(f"DB挿入エラー for '{page_name}': {e}")
+                    continue
 
             # chunk単位のループ終わり
 
