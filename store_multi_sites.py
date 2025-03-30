@@ -52,8 +52,7 @@ SITES = [
 CHUNK_SIZE = 10
 
 # Retry settings for tenacity
-MAX_RETRY_ATTEMPTS = 10
-MAX_WAIT_TIME = 900
+MAX_WAIT_TIME = 300
 
 # Load environment variables (.env file)
 load_dotenv()
