@@ -627,8 +627,9 @@ def main() -> None:
 if __name__ == "__main__":
     # Basic check for required environment variables
     if API_USER == "your-username" or API_KEY == "your-api-key":
-        logger.warning("API_USER or API_KEY not set in environment variables or .env file.")
-        logger.warning("Using default placeholder values, API calls will likely fail.")
+        logger.error("API_USER or API_KEY not set in environment variables or .env file.")
+        logger.error("Exiting program as API calls cannot function without proper credentials.")
+        exit("Error: Wikidot credentials not configured.")
         # Consider exiting if credentials are required:
         # exit("Error: Wikidot credentials not configured.")
 
