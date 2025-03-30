@@ -438,7 +438,7 @@ def process_single_page(
         with conn: # Context manager handles commit/rollback
             insert_page(conn, site, fullinfo)
             insert_tags(conn, site, page_name, fullinfo.get("tags"))
-        logger.debug("Successfully updated page '%s' and its tags in DB.", page_name, site)
+        logger.debug("Successfully updated page '%s' and its tags in DB on site '%s'.", page_name, site)
         return True # Successfully processed
 
     except sqlite3.Error as e:
