@@ -14,8 +14,8 @@ The Wikidot API is implemented as an [XML-RPC](http://en.wikipedia.org/wiki/XML-
 
 Authentication is handled via **HTTP Basic Authentication** using the following credentials:
 
-* **Username**: The name of your application connecting to the API (e.g., `my-app-name`).
-* **Password**: The user's unique API key.
+- **Username**: The name of your application connecting to the API (e.g., `my-app-name`).
+- **Password**: The user's unique API key.
 
 ## API Key and Authentication
 
@@ -43,43 +43,59 @@ Below is an example of how to use the Wikidot API with Python. Using XML-RPC in 
 First, run the Python interactive console:
 
 ```bash
+
 $ python
-Python 2.5.2 (r252:60911, Oct  5 2008, 19:29:17)
+
+Python 2.5.2 (r252:60911, Oct  5 2008, 19:29:17)
+
 [GCC 4.3.2] on linux2
+
 Type "help", "copyright", "credits" or "license" for more information.
+
 >>>
+
 ```
 
 Import the XML-RPC library:
 
 ```python
+
 >>> from xmlrpclib import ServerProxy
+
 # For Python 3: from xmlrpc.client import ServerProxy
+
 ```
 
 Construct a server proxy object, providing the API endpoint URL with your application name and API key embedded. Then, you can list the available API methods:
 
 ```python
+
 # Replace 'your-app-name' and 'your-key' with your actual credentials
+
 >>> server_url = 'https://your-app-name:your-key@www.wikidot.com/xml-rpc-api.php'
+
 >>> s = ServerProxy(server_url)
+
 >>> s.system.listMethods()
+
 ```
 
 You should receive a list of available methods like this:
 
 ```
+
 ['system.listMethods', 'system.methodHelp', 'system.methodSignature', 'system.multicall', 'categories.select', 'tags.select', 'pages.select', 'pages.get_meta', 'pages.get_one', 'pages.save_one', 'files.select', 'files.get_meta', 'files.get_one', 'files.save_one', 'users.get_me', 'posts.select', 'posts.get']
+
 ```
 
 ## Exploring API Methods
 
 ### Naming Convention
 
-* **Namespace:** Indicates the type of object you are working with (e.g., `pages`, `files`).
-* **`select` methods:** Typically return a list of identifiers (like names or IDs).
-* **`get` methods:** Typically return a list of dictionaries, containing detailed data for multiple objects.
-* **`get_one` methods:** Typically return a single dictionary, containing detailed data for one specific object.
+- **Namespace:** Indicates the type of object you are working with (e.g., `pages`, `files`).
+- **`select` methods:** Typically return a list of identifiers (like names or IDs).
+- **`get` methods:** Typically return a list of dictionaries, containing detailed data for multiple objects.
+- **`get_one` methods:** Typically return a single dictionary, containing detailed data for one specific object.
 
 This list of methods may expand in the future. You can find ongoing discussions about the API methods [here](http://developer.wikidot.com/forum/t-257156) (link provided for reference).
 
@@ -91,17 +107,23 @@ This list of methods may expand in the future. You can find ongoing discussions 
 
 Retrieves a list of all category names for a given site.
 
-* **Parameters:**
-  * `site` (string, required): The site name (e.g., `"my-site"`).
-* **Returns:**
-  * (list): A list of category names (strings).
+- **Parameters:**
 
-* **Example:**
+  * `site` (string, required): The site name (e.g., `"my-site"`).
 
-    ```python
-    >>> s.categories.select({"site": "my-site"})
-    ["_default", "admin", "forum", "system", "blog"]
-    ```
+- **Returns:**
+
+  * (list): A list of category names (strings).
+
+- **Example:**
+
+    ```python
+
+    >>> s.categories.select({"site": "my-site"})
+
+    ["_default", "admin", "forum", "system", "blog"]
+
+    ```
 
 ---
 
@@ -109,11 +131,15 @@ Retrieves a list of all category names for a given site.
 
 Retrieves the names of files attached to a specific page.
 
-* **Parameters:**
-  * `site` (string, required): The site name.
-  * `page` (string, required): The full page name (e.g., `"category:page-name"`).
-* **Returns:**
-  * (list): A list of file names (strings).
+- **Parameters:**
+
+  * `site` (string, required): The site name.
+
+  * `page` (string, required): The full page name (e.g., `"category:page-name"`).
+
+- **Returns:**
+
+  * (list): A list of file names (strings).
 
 ---
 
@@ -121,19 +147,31 @@ Retrieves the names of files attached to a specific page.
 
 Retrieves metadata for specified files attached to a page.
 
-* **Parameters:**
-  * `site` (string, required): The site name.
-  * `page` (string, required): The full page name.
-  * `files` (list, required): A list of file names (strings) for which to retrieve metadata (maximum 10 files per request).
-* **Returns:**
-  * (dictionary): A dictionary where keys are the file names (strings) and values are dictionaries containing metadata for each file:
-    * `size` (integer): Size in bytes.
-    * `comment` (string): File comment/description.
-    * `mime_type` (string): The MIME type of the file.
-    * `mime_description` (string): A description of the MIME type.
-    * `uploaded_by` (string): Username of the user who uploaded the file.
-    * `uploaded_at` (string): Timestamp (ISO 8601 format) when the file was uploaded.
-    * `download_url` (string): A URL to download the file. For private sites, this URL includes a temporary authorization token (`?ukey=...`) valid for approximately 5 minutes.
+- **Parameters:**
+
+  * `site` (string, required): The site name.
+
+  * `page` (string, required): The full page name.
+
+  * `files` (list, required): A list of file names (strings) for which to retrieve metadata (maximum 10 files per request).
+
+- **Returns:**
+
+  * (dictionary): A dictionary where keys are the file names (strings) and values are dictionaries containing metadata for each file:
+
+    * `size` (integer): Size in bytes.
+
+    * `comment` (string): File comment/description.
+
+    * `mime_type` (string): The MIME type of the file.
+
+    * `mime_description` (string): A description of the MIME type.
+
+    * `uploaded_by` (string): Username of the user who uploaded the file.
+
+    * `uploaded_at` (string): Timestamp (ISO 8601 format) when the file was uploaded.
+
+    * `download_url` (string): A URL to download the file. For private sites, this URL includes a temporary authorization token (`?ukey=…`) valid for approximately 5 minutes.
 
 ---
 
@@ -143,13 +181,19 @@ Retrieves the content and metadata of a single file attached to a page.
 
 **Note:** This method is suitable for small files only (maximum 6MB). For larger files, use the `download_url` obtained from `files.get_meta`.
 
-* **Parameters:**
-  * `site` (string, required): The site name.
-  * `page` (string, required): The full page name.
-  * `file` (string, required): The name of the file to retrieve.
-* **Returns:**
-  * (dictionary): A dictionary containing the same metadata keys as `files.get_meta`, plus:
-    * `content` (string): The base64-encoded content of the file.
+- **Parameters:**
+
+  * `site` (string, required): The site name.
+
+  * `page` (string, required): The full page name.
+
+  * `file` (string, required): The name of the file to retrieve.
+
+- **Returns:**
+
+  * (dictionary): A dictionary containing the same metadata keys as `files.get_meta`, plus:
+
+    * `content` (string): The base64-encoded content of the file.
 
 ---
 
@@ -159,26 +203,41 @@ Attaches a file to a page.
 
 **File Size Limits:**
 
-* Maximum upload size per file: 50MB.
-* The upload must not exceed the site's remaining storage quota.
-* The maximum individual file size may depend on the site's Wikidot plan (Free/Pro).
+- Maximum upload size per file: 50MB.
+- The upload must not exceed the site's remaining storage quota.
+- The maximum individual file size may depend on the site's Wikidot plan (Free/Pro).
 
-* **Parameters:**
-  * `site` (string, required): The site name.
-  * `page` (string, required): The full page name to attach the file to.
-  * `file` (string, required): The desired name for the attached file.
-  * `content` (string, required): The base64-encoded content of the file.
-  * `comment` (string, optional): A description for the file.
-  * `save_mode` (string, optional): Controls behavior if the file name already exists.
-    * `"create"`: Only allows creating a new file attachment. Throws an exception if a file with the same name already exists on the page.
-    * `"update"`: Only allows updating an existing file attachment. Throws an exception if no file with that name exists.
-    * `"create_or_update"` (default): Creates the file if it doesn't exist, or updates it if it does.
-  * `notify_watchers` (boolean, optional):
-    * `true`: Notify page watchers about the file upload (behaves like a web interface edit).
-    * `false` (default): Do not notify watchers.
-  * `revision_comment` (string, optional): A comment for the page revision history related to this file upload.
-* **Returns:**
-  * (dictionary): A dictionary containing the metadata of the newly uploaded or updated file (similar structure to the items returned by `files.get_meta`).
+- **Parameters:**
+
+  * `site` (string, required): The site name.
+
+  * `page` (string, required): The full page name to attach the file to.
+
+  * `file` (string, required): The desired name for the attached file.
+
+  * `content` (string, required): The base64-encoded content of the file.
+
+  * `comment` (string, optional): A description for the file.
+
+  * `save_mode` (string, optional): Controls behavior if the file name already exists.
+
+    * `"create"`: Only allows creating a new file attachment. Throws an exception if a file with the same name already exists on the page.
+
+    * `"update"`: Only allows updating an existing file attachment. Throws an exception if no file with that name exists.
+
+    * `"create_or_update"` (default): Creates the file if it doesn't exist, or updates it if it does.
+
+  * `notify_watchers` (boolean, optional):
+
+    * `true`: Notify page watchers about the file upload (behaves like a web interface edit).
+
+    * `false` (default): Do not notify watchers.
+
+  * `revision_comment` (string, optional): A comment for the page revision history related to this file upload.
+
+- **Returns:**
+
+  * (dictionary): A dictionary containing the metadata of the newly uploaded or updated file (similar structure to the items returned by `files.get_meta`).
 
 ---
 
@@ -186,12 +245,17 @@ Attaches a file to a page.
 
 Retrieves a unique list of tags associated with pages matching the specified criteria.
 
-* **Parameters:**
-  * `site` (string, required): The site name.
-  * `categories` (list, optional): A list of category names (strings) to filter pages by.
-  * `pages` (list, optional): A list of full page names (strings) to retrieve tags from (maximum 10 pages per request).
-* **Returns:**
-  * (list): A list of unique tag names (strings).
+- **Parameters:**
+
+  * `site` (string, required): The site name.
+
+  * `categories` (list, optional): A list of category names (strings) to filter pages by.
+
+  * `pages` (list, optional): A list of full page names (strings) to retrieve tags from (maximum 10 pages per request).
+
+- **Returns:**
+
+  * (list): A list of unique tag names (strings).
 
 ---
 
@@ -199,26 +263,41 @@ Retrieves a unique list of tags associated with pages matching the specified cri
 
 Retrieves a list of full page names that match the given criteria. Parameters generally correspond to options available in the [ListPages module](https://www.wikidot.com/doc:listpages-module).
 
-* **Parameters:**
-  * `site` (string, required): The site name (e.g., `"my-site"`).
-  * `pagetype` (string, optional): Page type filter (default: `"*"`). Refer to ListPages documentation.
-  * `categories` (list, optional): List of category names (strings) to include pages from. Defaults to all categories.
-  * `tags_any` (list, optional): List of tags (strings). Page must have at least one of these tags.
-  * `tags_all` (list, optional): List of tags (strings). Page must have all of these tags.
-  * `tags_none` (list, optional): List of tags (strings). Page must have none of these tags.
-  * `parent` (string, optional): Filter by parent page (full name) or `"-"` for pages with no parent.
-  * `created_by` (string, optional): Filter by the username of the page creator.
-  * `rating` (string, optional): Filter by rating criteria (e.g., `">0"`, `"<0"`). Refer to ListPages documentation.
-  * `order` (string, optional): Sorting order (e.g., `"created_at desc"`). Refer to ListPages documentation.
-* **Returns:**
-  * (list): A list of full page names (strings) matching the criteria.
+- **Parameters:**
 
-* **Example:**
+  * `site` (string, required): The site name (e.g., `"my-site"`).
 
-    ```python
-    >>> s.pages.select({"site": "my-site", "categories": ["blog", "news"], "tags_none": ["_draft"], "order": "created_at desc"})
-    ["blog:last-post", "blog:second-post", "blog:first-post", "blog:_template"]
-    ```
+  * `pagetype` (string, optional): Page type filter (default: `"*"`). Refer to ListPages documentation.
+
+  * `categories` (list, optional): List of category names (strings) to include pages from. Defaults to all categories.
+
+  * `tags_any` (list, optional): List of tags (strings). Page must have at least one of these tags.
+
+  * `tags_all` (list, optional): List of tags (strings). Page must have all of these tags.
+
+  * `tags_none` (list, optional): List of tags (strings). Page must have none of these tags.
+
+  * `parent` (string, optional): Filter by parent page (full name) or `"-"` for pages with no parent.
+
+  * `created_by` (string, optional): Filter by the username of the page creator.
+
+  * `rating` (string, optional): Filter by rating criteria (e.g., `">0"`, `"<0"`). Refer to ListPages documentation.
+
+  * `order` (string, optional): Sorting order (e.g., `"created_at desc"`). Refer to ListPages documentation.
+
+- **Returns:**
+
+  * (list): A list of full page names (strings) matching the criteria.
+
+- **Example:**
+
+    ```python
+
+    >>> s.pages.select({"site": "my-site", "categories": ["blog", "news"], "tags_none": ["_draft"], "order": "created_at desc"})
+
+    ["blog:last-post", "blog:second-post", "blog:first-post", "blog:_template"]
+
+    ```
 
 ---
 
@@ -226,31 +305,51 @@ Retrieves a list of full page names that match the given criteria. Parameters ge
 
 Retrieves metadata for a specified list of pages.
 
-* **Parameters:**
-  * `site` (string, required): The site name (e.g., `"my-site"`).
-  * `pages` (list, required): A list of full page names (strings) to retrieve metadata for (maximum 10 pages per request).
-* **Returns:**
-  * (dictionary): A dictionary where keys are the full page names (strings) and values are dictionaries containing page metadata:
-    * `fullname` (string): Full page name.
-    * `created_at` (string): Timestamp (ISO 8601 format) when the page was created.
-    * `created_by` (string): Username of the creator.
-    * `updated_at` (string): Timestamp (ISO 8601 format) of the last update.
-    * `updated_by` (string): Username of the last editor.
-    * `title` (string): Page title.
-    * `parent_fullname` (string or null): Full name of the parent page, or `None`.
-    * `tags` (list): List of all tags (strings) assigned to the page (including system tags starting with `_`).
-    * `rating` (integer): Current page rating.
-    * `revisions` (integer): Number of revisions.
+- **Parameters:**
 
-* **Example:** (Corrected method name)
+  * `site` (string, required): The site name (e.g., `"my-site"`).
 
-    ```python
-    >>> s.pages.get_meta({"site": "my-site", "pages": ["blog:last-post", "blog:second-post"]})
-    {
-     "blog:last-post": {"fullname": "blog:last-post", "created_at": "2010-08-04T23:20:50Z", "created_by": "Gabrys", "updated_at": "2010-08-04T23:23:31Z", "updated_by": "Gabrys", "title": "Last Post", "parent_fullname": None, "tags": ["blog", "last"], "rating": 8, "revisions": 2},
-     "blog:second-post": {"fullname": "blog:second-post", "created_at": "2010-08-03T22:52:10Z", "created_by": "Gabrys", "updated_at": "2010-08-03T22:52:10Z", "updated_by": "Gabrys", "title": "Second Post", "parent_fullname": None, "tags": ["blog", "second"], "rating": 1, "revisions": 1}
-    }
-    ```
+  * `pages` (list, required): A list of full page names (strings) to retrieve metadata for (maximum 10 pages per request).
+
+- **Returns:**
+
+  * (dictionary): A dictionary where keys are the full page names (strings) and values are dictionaries containing page metadata:
+
+    * `fullname` (string): Full page name.
+
+    * `created_at` (string): Timestamp (ISO 8601 format) when the page was created.
+
+    * `created_by` (string): Username of the creator.
+
+    * `updated_at` (string): Timestamp (ISO 8601 format) of the last update.
+
+    * `updated_by` (string): Username of the last editor.
+
+    * `title` (string): Page title.
+
+    * `parent_fullname` (string or null): Full name of the parent page, or `None`.
+
+    * `tags` (list): List of all tags (strings) assigned to the page (including system tags starting with `_`).
+
+    * `rating` (integer): Current page rating.
+
+    * `revisions` (integer): Number of revisions.
+
+- **Example:** (Corrected method name)
+
+    ```python
+
+    >>> s.pages.get_meta({"site": "my-site", "pages": ["blog:last-post", "blog:second-post"]})
+
+    {
+
+     "blog:last-post": {"fullname": "blog:last-post", "created_at": "2010-08-04T23:20:50Z", "created_by": "Gabrys", "updated_at": "2010-08-04T23:23:31Z", "updated_by": "Gabrys", "title": "Last Post", "parent_fullname": None, "tags": ["blog", "last"], "rating": 8, "revisions": 2},
+
+     "blog:second-post": {"fullname": "blog:second-post", "created_at": "2010-08-03T22:52:10Z", "created_by": "Gabrys", "updated_at": "2010-08-03T22:52:10Z", "updated_by": "Gabrys", "title": "Second Post", "parent_fullname": None, "tags": ["blog", "second"], "rating": 1, "revisions": 1}
+
+    }
+
+    ```
 
 ---
 
@@ -258,26 +357,41 @@ Retrieves metadata for a specified list of pages.
 
 Retrieves detailed information, including content, for a single page.
 
-* **Parameters:**
-  * `site` (string, required): The site name (e.g., `"my-site"`).
-  * `page` (string, required): The full page name to retrieve (e.g., `"start"` or `"blog:first-post"`).
-* **Returns:**
-  * (dictionary): A dictionary containing detailed page properties (consult documentation of [ListPages module](https://www.wikidot.com/doc:listpages-module) for potential field details):
-    * Includes all keys from `pages.get_meta`.
-    * `parent_title` (string or null): Title of the parent page, or `None`.
-    * `children` (integer): Number of child pages.
-    * `content` (string): Page source content (wiki markup). If the page uses a data form, the content might be in YAML format.
-    * `html` (string): The rendered HTML of the page content (as typically seen in the browser, excluding site navigation elements).
-    * `comments` (integer): Number of comments on the page.
-    * `commented_at` (string or null): Timestamp (ISO 8601 format) of the last comment, or `None`.
-    * `commented_by` (string or null): Username of the last commenter, or `None`.
+- **Parameters:**
 
-* **Example:**
+  * `site` (string, required): The site name (e.g., `"my-site"`).
 
-    ```python
-    >>> s.pages.get_one({"site": "my-site", "page": "blog:last-post"})
-    {"fullname": "blog:last-post", "created_at": "2010-08-04T23:20:50Z", "created_by": "Gabrys", "updated_at": "2010-08-04T23:23:31Z", "updated_by": "Gabrys", "title": "Last Post", "parent_fullname": None, "tags": ["blog", "last"], "rating": 8, "revisions": 2, "parent_title": None, "children": 0, "content": "Test blog post", "html": "<p>Test blog post</p>", "comments": 0, "commented_at": None, "commented_by": None}
-    ```
+  * `page` (string, required): The full page name to retrieve (e.g., `"start"` or `"blog:first-post"`).
+
+- **Returns:**
+
+  * (dictionary): A dictionary containing detailed page properties (consult documentation of [ListPages module](https://www.wikidot.com/doc:listpages-module) for potential field details):
+
+    * Includes all keys from `pages.get_meta`.
+
+    * `parent_title` (string or null): Title of the parent page, or `None`.
+
+    * `children` (integer): Number of child pages.
+
+    * `content` (string): Page source content (wiki markup). If the page uses a data form, the content might be in YAML format.
+
+    * `html` (string): The rendered HTML of the page content (as typically seen in the browser, excluding site navigation elements).
+
+    * `comments` (integer): Number of comments on the page.
+
+    * `commented_at` (string or null): Timestamp (ISO 8601 format) of the last comment, or `None`.
+
+    * `commented_by` (string or null): Username of the last commenter, or `None`.
+
+- **Example:**
+
+    ```python
+
+    >>> s.pages.get_one({"site": "my-site", "page": "blog:last-post"})
+
+    {"fullname": "blog:last-post", "created_at": "2010-08-04T23:20:50Z", "created_by": "Gabrys", "updated_at": "2010-08-04T23:23:31Z", "updated_by": "Gabrys", "title": "Last Post", "parent_fullname": None, "tags": ["blog", "last"], "rating": 8, "revisions": 2, "parent_title": None, "children": 0, "content": "Test blog post", "html": "<p>Test blog post</p>", "comments": 0, "commented_at": None, "commented_by": None}
+
+    ```
 
 ---
 
@@ -285,24 +399,41 @@ Retrieves detailed information, including content, for a single page.
 
 Creates or updates a page. You must provide the `site` and `page` identifiers. Include other keys only for the properties you wish to set or modify; omitted keys will retain their current values (if updating).
 
-* **Parameters:**
-  * `site` (string, required): The site name.
-  * `page` (string, required): The full page name to save.
-  * `title` (string, optional): The new title for the page.
-  * `content` (string, optional): The new page content (wiki source).
-  * `tags` (list, optional): A list of tags (strings) to set for the page (replaces existing tags).
-  * `parent_fullname` (string, optional): The full name of the new parent page, or `"-"` to remove the parent.
-  * `save_mode` (string, optional): Controls behavior based on page existence.
-    * `"create"`: Only allows creating a new page. Throws an exception if the page already exists.
-    * `"update"`: Only allows updating an existing page. Throws an exception if the page does not exist.
-    * `"create_or_update"` (default): Creates the page if it doesn't exist, or updates it if it does.
-  * `rename_as` (string, optional): If provided, renames the page to this new full name. This happens in addition to any other changes.
-  * `revision_comment` (string, optional): A comment for the page revision history.
-  * `notify_watchers` (boolean, optional):
-    * `true`: Notify page watchers about the edit.
-    * `false` (default): Do not notify watchers.
-* **Returns:**
-  * (dictionary): A dictionary containing the properties of the saved page (similar structure to the output of `pages.get_one`).
+- **Parameters:**
+
+  * `site` (string, required): The site name.
+
+  * `page` (string, required): The full page name to save.
+
+  * `title` (string, optional): The new title for the page.
+
+  * `content` (string, optional): The new page content (wiki source).
+
+  * `tags` (list, optional): A list of tags (strings) to set for the page (replaces existing tags).
+
+  * `parent_fullname` (string, optional): The full name of the new parent page, or `"-"` to remove the parent.
+
+  * `save_mode` (string, optional): Controls behavior based on page existence.
+
+    * `"create"`: Only allows creating a new page. Throws an exception if the page already exists.
+
+    * `"update"`: Only allows updating an existing page. Throws an exception if the page does not exist.
+
+    * `"create_or_update"` (default): Creates the page if it doesn't exist, or updates it if it does.
+
+  * `rename_as` (string, optional): If provided, renames the page to this new full name. This happens in addition to any other changes.
+
+  * `revision_comment` (string, optional): A comment for the page revision history.
+
+  * `notify_watchers` (boolean, optional):
+
+    * `true`: Notify page watchers about the edit.
+
+    * `false` (default): Do not notify watchers.
+
+- **Returns:**
+
+  * (dictionary): A dictionary containing the properties of the saved page (similar structure to the output of `pages.get_one`).
 
 ---
 
@@ -318,14 +449,21 @@ This namespace currently focuses on page comments but might be expanded to inclu
 
 Retrieves a list of post/comment IDs matching the specified criteria.
 
-* **Parameters:**
-  * `site` (string, required): The site name (e.g., `"my-site"`).
-  * `page` (string, optional): The full page name to get comments from.
-  * `thread` (string, optional): Filter by thread ID (Not yet implemented).
-  * `reply_to` (integer or string, optional): Select only posts/comments that are direct replies to the post/comment with this ID. Use `"-"` to select only top-level posts/comments (not replies). (Confirm ID type: integer or string?).
-  * `created_by` (string, optional): Select posts/comments created by this username.
-* **Returns:**
-  * (list): A list of post/comment IDs (type needs confirmation: integer or string?), sorted by the date they were posted.
+- **Parameters:**
+
+  * `site` (string, required): The site name (e.g., `"my-site"`).
+
+  * `page` (string, optional): The full page name to get comments from.
+
+  * `thread` (string, optional): Filter by thread ID (Not yet implemented).
+
+  * `reply_to` (integer or string, optional): Select only posts/comments that are direct replies to the post/comment with this ID. Use `"-"` to select only top-level posts/comments (not replies). (Confirm ID type: integer or string?).
+
+  * `created_by` (string, optional): Select posts/comments created by this username.
+
+- **Returns:**
+
+  * (list): A list of post/comment IDs (type needs confirmation: integer or string?), sorted by the date they were posted.
 
 ---
 
@@ -333,20 +471,33 @@ Retrieves a list of post/comment IDs matching the specified criteria.
 
 Retrieves details for a specified list of posts/comments.
 
-* **Parameters:**
-  * `site` (string, required): The site name (e.g., `"my-site"`).
-  * `posts` (list, required): A list of post/comment IDs (type needs confirmation: integer or string?) to retrieve (maximum 10 per request).
-* **Returns:**
-  * (dictionary): A dictionary where keys are the post/comment IDs and values are dictionaries containing post/comment details:
-    * `id` (integer or string): The ID of the post/comment (confirm type).
-    * `fullname` (string): The full name of the page the post/comment belongs to.
-    * `reply_to` (integer or string or null): The ID of the post/comment this one replies to, or `None` if it's a top-level post (confirm type).
-    * `title` (string): The title of the post/comment.
-    * `content` (string): The body of the post/comment (wiki syntax).
-    * `html` (string): The rendered HTML of the post/comment body.
-    * `created_by` (string): Username of the user who created the post/comment.
-    * `created_at` (string): Timestamp (ISO 8601 format) when the post/comment was created.
-    * `replies` (integer): Number of direct replies to this post/comment (Not yet implemented).
+- **Parameters:**
+
+  * `site` (string, required): The site name (e.g., `"my-site"`).
+
+  * `posts` (list, required): A list of post/comment IDs (type needs confirmation: integer or string?) to retrieve (maximum 10 per request).
+
+- **Returns:**
+
+  * (dictionary): A dictionary where keys are the post/comment IDs and values are dictionaries containing post/comment details:
+
+    * `id` (integer or string): The ID of the post/comment (confirm type).
+
+    * `fullname` (string): The full name of the page the post/comment belongs to.
+
+    * `reply_to` (integer or string or null): The ID of the post/comment this one replies to, or `None` if it's a top-level post (confirm type).
+
+    * `title` (string): The title of the post/comment.
+
+    * `content` (string): The body of the post/comment (wiki syntax).
+
+    * `html` (string): The rendered HTML of the post/comment body.
+
+    * `created_by` (string): Username of the user who created the post/comment.
+
+    * `created_at` (string): Timestamp (ISO 8601 format) when the post/comment was created.
+
+    * `replies` (integer): Number of direct replies to this post/comment (Not yet implemented).
 
 ---
 
@@ -354,13 +505,19 @@ Retrieves details for a specified list of posts/comments.
 
 Retrieves information about the user whose API key is being used for authentication.
 
-* **Parameters:**
-  * None required (pass an empty dictionary `{}` or list `[]`).
-* **Returns:**
-  * (dictionary): A dictionary containing properties of the authenticated user:
-    * `name` (string): The user's URL-friendly name (e.g., `"john-smith"` for "John Smith").
-    * `title` (string): The user's display name (e.g., `"John Smith"`).
-    * `id` (integer or string): The unique numeric ID of the user (e.g., `12345`) (confirm type: likely integer).
+- **Parameters:**
+
+  * None required (pass an empty dictionary `{}` or list `[]`).
+
+- **Returns:**
+
+  * (dictionary): A dictionary containing properties of the authenticated user:
+
+    * `name` (string): The user's URL-friendly name (e.g., `"john-smith"` for "John Smith").
+
+    * `title` (string): The user's display name (e.g., `"John Smith"`).
+
+    * `id` (integer or string): The unique numeric ID of the user (e.g., `12345`) (confirm type: likely integer).
 
 ---
 
@@ -372,19 +529,19 @@ Retrieves information about the user whose API key is being used for authenticat
 
 ### Update 1.0.2
 
-* 表現をより明確かつ簡潔にしました (例: "a way for programs to access", "Authentication is handled via...")。
-* 用語の一貫性を高めました (例: "Username/Password" for Basic Auth, "list", "dictionary")。
-* 重要な注意点（APIキーの取り扱い、`posts`名前空間の安定性）を強調しました。
-* Python 3 に関する注記を追加しました。
-* 各メソッドの説明で、パラメータと戻り値のセクションを明確にし、型情報（string, list, boolean, integerなど）や必須/任意を追加しました（一部、型の確認が必要な箇所には注記）。
-* パラメータや戻り値の説明をより具体的にしました（例：`files.get_meta`の戻り値）。
-* `pages.get_meta` のコード例のメソッド名を修正しました。
-* 読みやすさのために書式を調整しました。
+- 表現をより明確かつ簡潔にしました (例: "a way for programs to access", "Authentication is handled via…")。
+- 用語の一貫性を高めました (例: "Username/Password" for Basic Auth, "list", "dictionary")。
+- 重要な注意点（API キーの取り扱い、`posts` 名前空間の安定性）を強調しました。
+- Python 3 に関する注記を追加しました。
+- 各メソッドの説明で、パラメータと戻り値のセクションを明確にし、型情報（string, list, boolean, integer など）や必須/任意を追加しました（一部、型の確認が必要な箇所には注記）。
+- パラメータや戻り値の説明をより具体的にしました（例：`files.get_meta` の戻り値）。
+- `pages.get_meta` のコード例のメソッド名を修正しました。
+- 読みやすさのために書式を調整しました。
 
 ---
 
 ## TODO
 
-* **Error Handling:** APIが返す可能性のあるエラー（例: 認証失敗、レート制限超過、無効なパラメータ、存在しないオブジェクト）とその形式（エラーコード、メッセージ）に関するセクションを追加すると、開発者はより堅牢なアプリケーションを構築できます。
-* **IDの型:** `posts.select`, `posts.get`, `users.get_me` で返されるIDや、`posts.select` の `reply_to` パラメータの型が `integer` なのか `string` なのかを明確にすると良いでしょう。
-* **Versioning:** APIのバージョン管理について言及がないため、将来的な変更に備えてバージョニング戦略（例: URLにバージョンを含める `/v1/xml-rpc-api.php`）を検討・記載することをお勧めします。
+- **Error Handling:** API が返す可能性のあるエラー（例: 認証失敗、レート制限超過、無効なパラメータ、存在しないオブジェクト）とその形式（エラーコード、メッセージ）に関するセクションを追加すると、開発者はより堅牢なアプリケーションを構築できます。
+- **ID の型:** `posts.select`, `posts.get`, `users.get_me` で返される ID や、`posts.select` の `reply_to` パラメータの型が `integer` なのか `string` なのかを明確にすると良いでしょう。
+- **Versioning:** API のバージョン管理について言及がないため、将来的な変更に備えてバージョニング戦略（例: URL にバージョンを含める `/v1/xml-rpc-api.php`）を検討・記載することをお勧めします。
