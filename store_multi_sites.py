@@ -8,25 +8,25 @@ from different sites even if they share the same fullname.
 Implements differential updates based on metadata to improve efficiency.
 """
 
-import os
-import sqlite3
-import xmlrpc.client
 import http.client
 import logging
+import os
 import socket
-from typing import Any, Dict, List, Optional, Tuple, cast
+import sqlite3
 import time
+import xmlrpc.client
+from typing import Any, Dict, List, Optional, Tuple, cast
 
 # Security patch for xmlrpc
 import defusedxml.xmlrpc
 from dotenv import load_dotenv
 from tenacity import (
+    before_sleep_log,
     retry,
+    retry_if_exception_type,
     stop_after_attempt,
     stop_after_delay,
     wait_random_exponential,
-    retry_if_exception_type,
-    before_sleep_log,
 )
 
 # Apply the security patch
