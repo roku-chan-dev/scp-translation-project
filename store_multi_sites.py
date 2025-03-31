@@ -11,6 +11,7 @@ Implements differential updates based on metadata to improve efficiency.
 import os
 import sqlite3
 import xmlrpc.client
+import http.client
 import logging
 import socket
 from typing import Any, Dict, List, Optional, Tuple, cast
@@ -22,8 +23,10 @@ from dotenv import load_dotenv
 from tenacity import (
     retry,
     stop_after_attempt,
-    wait_exponential,
+    stop_after_delay,
+    wait_random_exponential,
     retry_if_exception_type,
+    before_sleep_log,
 )
 
 # Apply the security patch
@@ -41,10 +44,10 @@ logger = logging.getLogger(__name__)
 
 # List of Wikidot site names to process
 SITES = [
-    "scp-wiki",      # English (main)
-    "scp-jp",        # Japanese Branch
-    "scp-wiki-cn",   # Chinese Branch
-    "scpko",         # Korean Branch
+    "scp-wiki",  # English (main)
+    "scp-jp",  # Japanese Branch
+    "scp-wiki-cn",  # Chinese Branch
+    "scpko",  # Korean Branch
     # Add more sites here as needed
 ]
 
@@ -52,7 +55,10 @@ SITES = [
 CHUNK_SIZE = 10
 
 # Retry settings for tenacity
-MAX_WAIT_TIME = 300
+MAX_RETRY_ATTEMPTS = 15
+MAX_TOTAL_DELAY = 3600
+MAX_WAIT_TIME = 600
+MIN_WAIT_TIME = 2
 
 # Load environment variables (.env file)
 load_dotenv()
@@ -67,17 +73,24 @@ DB_FILE = os.getenv("DB_FILE", "data/scp_data.sqlite")
 # Define common retryable exceptions
 RETRYABLE_EXCEPTIONS = (
     xmlrpc.client.Fault,  # Handles API errors like rate limits (503)
-    ConnectionError,      # Handles network connection issues
-    socket.gaierror,      # Handles DNS resolution errors
-    socket.timeout,       # Handles socket timeouts
-    xmlrpc.client.ProtocolError, # Handles protocol errors (e.g., bad gateway)
+    ConnectionError,  # Handles network connection issues
+    socket.gaierror,  # Handles DNS resolution errors
+    socket.timeout,  # Handles socket timeouts
+    xmlrpc.client.ProtocolError,  # Handles protocol errors (e.g., bad gateway)
+    http.client.HTTPException,
 )
 
+
 @retry(
-    stop=stop_after_attempt(MAX_RETRY_ATTEMPTS),
-    wait=wait_exponential(multiplier=1, max=MAX_WAIT_TIME),
+    # Stop after either max attempts or max delay, whichever comes first
+    stop=(stop_after_attempt(MAX_RETRY_ATTEMPTS) | stop_after_delay(MAX_TOTAL_DELAY)),
+    # Use exponential backoff with jitter to avoid thundering herd
+    wait=wait_random_exponential(multiplier=1, min=MIN_WAIT_TIME, max=MAX_WAIT_TIME),
+    # Retry only on specific exceptions
     retry=retry_if_exception_type(RETRYABLE_EXCEPTIONS),
-    reraise=True, # Reraise the exception if all retries fail
+    # Log before each retry for monitoring
+    before_sleep=before_sleep_log(logger, logging.INFO),
+    reraise=True,
 )
 def get_server_proxy(user: str, key: str) -> xmlrpc.client.ServerProxy:
     """
@@ -108,10 +121,16 @@ def get_server_proxy(user: str, key: str) -> xmlrpc.client.ServerProxy:
     logger.debug("Successfully created API proxy.")
     return proxy
 
+
 @retry(
-    stop=stop_after_attempt(MAX_RETRY_ATTEMPTS),
-    wait=wait_exponential(multiplier=1, max=MAX_WAIT_TIME),
+    # Stop after either max attempts or max delay, whichever comes first
+    stop=(stop_after_attempt(MAX_RETRY_ATTEMPTS) | stop_after_delay(MAX_TOTAL_DELAY)),
+    # Use exponential backoff with jitter to avoid thundering herd
+    wait=wait_random_exponential(multiplier=1, min=MIN_WAIT_TIME, max=MAX_WAIT_TIME),
+    # Retry only on specific exceptions
     retry=retry_if_exception_type(RETRYABLE_EXCEPTIONS),
+    # Log before each retry for monitoring
+    before_sleep=before_sleep_log(logger, logging.INFO),
     reraise=True,
 )
 def select_all_pages(site: str, server: xmlrpc.client.ServerProxy) -> List[str]:
@@ -133,10 +152,16 @@ def select_all_pages(site: str, server: xmlrpc.client.ServerProxy) -> List[str]:
     logger.debug("Fetching page list for site: %s", site)
     return cast(List[str], server.pages.select({"site": site}))
 
+
 @retry(
-    stop=stop_after_attempt(MAX_RETRY_ATTEMPTS),
-    wait=wait_exponential(multiplier=1, max=MAX_WAIT_TIME),
+    # Stop after either max attempts or max delay, whichever comes first
+    stop=(stop_after_attempt(MAX_RETRY_ATTEMPTS) | stop_after_delay(MAX_TOTAL_DELAY)),
+    # Use exponential backoff with jitter to avoid thundering herd
+    wait=wait_random_exponential(multiplier=1, min=MIN_WAIT_TIME, max=MAX_WAIT_TIME),
+    # Retry only on specific exceptions
     retry=retry_if_exception_type(RETRYABLE_EXCEPTIONS),
+    # Log before each retry for monitoring
+    before_sleep=before_sleep_log(logger, logging.INFO),
     reraise=True,
 )
 def get_pages_meta(
@@ -161,14 +186,19 @@ def get_pages_meta(
     """
     logger.debug("Fetching metadata for %d pages on site %s", len(pages), site)
     return cast(
-        Dict[str, Dict[str, Any]],
-        server.pages.get_meta({"site": site, "pages": pages})
+        Dict[str, Dict[str, Any]], server.pages.get_meta({"site": site, "pages": pages})
     )
 
+
 @retry(
-    stop=stop_after_attempt(MAX_RETRY_ATTEMPTS),
-    wait=wait_exponential(multiplier=1, max=MAX_WAIT_TIME),
+    # Stop after either max attempts or max delay, whichever comes first
+    stop=(stop_after_attempt(MAX_RETRY_ATTEMPTS) | stop_after_delay(MAX_TOTAL_DELAY)),
+    # Use exponential backoff with jitter to avoid thundering herd
+    wait=wait_random_exponential(multiplier=1, min=MIN_WAIT_TIME, max=MAX_WAIT_TIME),
+    # Retry only on specific exceptions
     retry=retry_if_exception_type(RETRYABLE_EXCEPTIONS),
+    # Log before each retry for monitoring
+    before_sleep=before_sleep_log(logger, logging.INFO),
     reraise=True,
 )
 def get_one_page(
@@ -197,6 +227,7 @@ def get_one_page(
 
 
 # --- Database Operations ---
+
 
 def create_tables(conn: sqlite3.Connection) -> None:
     """
@@ -254,14 +285,18 @@ def create_tables(conn: sqlite3.Connection) -> None:
         logger.info("Database tables checked/created successfully.")
     except sqlite3.Error as e:
         logger.error("Database error during table creation: %s", e)
-        raise # Reraise after logging
+        raise  # Reraise after logging
 
 
 def insert_page(conn: sqlite3.Connection, site: str, page_data: Dict[str, Any]) -> None:
     """
     Inserts or replaces a single page's data into the 'pages' table.
     """
-    logger.debug("Inserting/Replacing page data for '%s' on site '%s'", page_data.get('fullname'), site)
+    logger.debug(
+        "Inserting/Replacing page data for '%s' on site '%s'",
+        page_data.get("fullname"),
+        site,
+    )
     cursor = conn.cursor()
     try:
         cursor.execute(
@@ -294,23 +329,28 @@ def insert_page(conn: sqlite3.Connection, site: str, page_data: Dict[str, Any]) 
         )
         # No need to commit here, handled after tags or in main loop chunk
     except sqlite3.Error as e:
-        logger.error("DB error inserting page '%s' on site '%s': %s",
-                     page_data.get('fullname'), site, e)
-        # Decide whether to raise or just log and continue
-        # raise
+        logger.error(
+            "DB error inserting page '%s' on site '%s': %s",
+            page_data.get("fullname"),
+            site,
+            e,
+        )
+        conn.rollback()
+        raise
+
 
 def insert_tags(
     conn: sqlite3.Connection,
     site: str,
     page_fullname: str,
-    tags_list: Optional[List[str]], # Accept None
+    tags_list: Optional[List[str]],  # Accept None
 ) -> None:
     """
     Inserts or replaces the tags for a single page in the 'page_tags' table.
     Deletes existing tags for the page before inserting new ones.
     """
     if tags_list is None:
-        tags_list = [] # Ensure it's an iterable
+        tags_list = []  # Ensure it's an iterable
 
     logger.debug("Updating tags for page '%s' on site '%s'", page_fullname, site)
     cursor = conn.cursor()
@@ -318,21 +358,25 @@ def insert_tags(
         # Delete existing tags for this page first
         cursor.execute(
             "DELETE FROM page_tags WHERE site = ? AND fullname = ?",
-            (site, page_fullname)
+            (site, page_fullname),
         )
         # Insert new tags if any exist
         if tags_list:
             tag_data = [(site, page_fullname, tag) for tag in tags_list]
             cursor.executemany(
                 "INSERT OR REPLACE INTO page_tags (site, fullname, tag) VALUES (?, ?, ?)",
-                tag_data
+                tag_data,
             )
         # No need to commit here, handled after page insert or in main loop chunk
     except sqlite3.Error as e:
-        logger.error("DB error updating tags for page '%s' on site '%s': %s",
-                     page_fullname, site, e)
-        # Decide whether to raise or just log and continue
-        # raise
+        logger.error(
+            "DB error updating tags for page '%s' on site '%s': %s",
+            page_fullname,
+            site,
+            e,
+        )
+        conn.rollback()
+        raise
 
 
 def get_db_page_info(
@@ -353,21 +397,23 @@ def get_db_page_info(
         )
         row = cursor.fetchone()
         # row is tuple (updated_at, revisions) or None
-        return row # type: ignore
+        return row  # type: ignore
     except sqlite3.Error as e:
-        logger.error("DB error fetching info for page '%s' on site '%s': %s",
-                     page_name, site, e)
-        return None # Treat DB error as 'not found' for simplicity here
+        logger.error(
+            "DB error fetching info for page '%s' on site '%s': %s", page_name, site, e
+        )
+        return None  # Treat DB error as 'not found' for simplicity here
 
 
 # --- Main Processing Logic ---
+
 
 def process_single_page(
     conn: sqlite3.Connection,
     server: xmlrpc.client.ServerProxy,
     site: str,
     page_name: str,
-    meta: Dict[str, Any]
+    meta: Dict[str, Any],
 ) -> bool:
     """
     Processes a single page: checks if update needed, fetches full data if so,
@@ -388,15 +434,19 @@ def process_single_page(
     if db_info is not None:
         db_updated_at, db_revisions = db_info
         meta_updated_at = meta.get("updated_at")
-        meta_revisions = meta.get("revisions") # Returns None if key missing
+        meta_revisions = meta.get("revisions")  # Returns None if key missing
         # Ensure comparison handles None correctly, treat None revision as 0?
         # Wikidot API might return 0 or omit revisions key, DB might store NULL.
         # Simple comparison: skip only if both match exactly.
         if db_updated_at == meta_updated_at and db_revisions == meta_revisions:
-            logger.debug("Skipping '%s' on site '%s': No changes detected.", page_name, site)
-            return False # Skipped
+            logger.debug(
+                "Skipping '%s' on site '%s': No changes detected.", page_name, site
+            )
+            return False  # Skipped
 
-    logger.debug("Processing page '%s' on site '%s': Update needed or new page.", page_name, site)
+    logger.debug(
+        "Processing page '%s' on site '%s': Update needed or new page.", page_name, site
+    )
 
     # 2. Fetch full page data if update is needed or page is new
     try:
@@ -406,50 +456,80 @@ def process_single_page(
 
     except xmlrpc.client.Fault as fault:
         # Handle specific "page does not exist" error (406)
-        if fault.faultCode == 406 and "page does not exist" in fault.faultString.lower():
-            logger.warning("Page '%s' on site '%s' appears deleted (Fault 406). Skipping.",
-                         page_name, site)
+        if (
+            fault.faultCode == 406
+            and "page does not exist" in fault.faultString.lower()
+        ):
+            logger.warning(
+                "Page '%s' on site '%s' appears deleted (Fault 406). Skipping.",
+                page_name,
+                site,
+            )
             # Optional: Mark page as deleted in DB instead of skipping?
             # delete_page_record(conn, site, page_name)
-            return False # Skipped due to deletion
+            return False  # Skipped due to deletion
         else:
             # Log other API faults encountered during get_one_page
             # These might occur even after tenacity retries if it's not a retryable fault type
-            logger.error("API Fault fetching page '%s' on site '%s': %s",
-                         page_name, site, fault)
-            return False # Failed to process
+            logger.error(
+                "API Fault fetching page '%s' on site '%s': %s", page_name, site, fault
+            )
+            return False  # Failed to process
 
     except RETRYABLE_EXCEPTIONS as e:
         # Catch errors that might occur if get_one_page retries failed
-        logger.error("Network/API error after retries fetching page '%s' on site '%s': %s",
-                     page_name, site, e)
-        return False # Failed to process
+        logger.error(
+            "Network/API error after retries fetching page '%s' on site '%s': %s",
+            page_name,
+            site,
+            e,
+        )
+        return False  # Failed to process
 
     except Exception as e:
         # Catch any other unexpected errors during get_one_page
-        logger.exception("Unexpected error fetching page '%s' on site '%s': %s",
-                         page_name, site, e, exc_info=True) # Use logger.exception for stack trace
-        return False # Failed to process
+        logger.exception(
+            "Unexpected error fetching page '%s' on site '%s': %s",
+            page_name,
+            site,
+            e,
+            exc_info=True,
+        )  # Use logger.exception for stack trace
+        return False  # Failed to process
 
     # 3. Insert/Update page and tags in the database
     try:
         # Use a transaction for inserting page and its tags
-        with conn: # Context manager handles commit/rollback
-            insert_page(conn, site, fullinfo)
-            insert_tags(conn, site, page_name, fullinfo.get("tags"))
-        logger.debug("Successfully updated page '%s' and its tags in DB on site '%s'.", page_name, site)
-        return True # Successfully processed
+        with conn:  # Context manager handles commit/rollback
+            try:
+                insert_page(conn, site, fullinfo)
+                insert_tags(conn, site, page_name, fullinfo.get("tags"))
+            except sqlite3.Error:
+                conn.rollback()
+                raise
+        logger.debug(
+            "Successfully updated page '%s' and its tags in DB on site '%s'.",
+            page_name,
+            site,
+        )
+        return True  # Successfully processed
 
     except sqlite3.Error as e:
-        logger.error("DB error updating page '%s' or tags on site '%s': %s",
-                     page_name, site, e)
+        logger.error(
+            "DB error updating page '%s' or tags on site '%s': %s", page_name, site, e
+        )
         # Transaction should automatically rollback on exception with 'with conn:'
-        return False # Failed to process
+        return False  # Failed to process
     except Exception as e:
         # Catch unexpected errors during DB operation
-        logger.exception("Unexpected error updating DB for page '%s' on site '%s': %s",
-                         page_name, site, e, exc_info=True)
-        return False # Failed to process
+        logger.exception(
+            "Unexpected error updating DB for page '%s' on site '%s': %s",
+            page_name,
+            site,
+            e,
+            exc_info=True,
+        )
+        return False  # Failed to process
 
 
 def main() -> None:
@@ -477,18 +557,18 @@ def main() -> None:
             logger.info("Created database directory: %s", db_dir)
         except OSError as e:
             logger.error("Failed to create database directory '%s': %s", db_dir, e)
-            return # Cannot proceed without DB directory
+            return  # Cannot proceed without DB directory
 
     # 1. Connect to Database
     conn: Optional[sqlite3.Connection] = None
     try:
-        conn = sqlite3.connect(DB_FILE, timeout=10) # Added timeout
+        conn = sqlite3.connect(DB_FILE, timeout=10)  # Added timeout
         # Improve performance and reduce locking issues
         conn.execute("PRAGMA journal_mode=WAL;")
         create_tables(conn)
     except sqlite3.Error as e:
         logger.error("Failed to connect to or initialize database '%s': %s", DB_FILE, e)
-        return # Cannot proceed without DB
+        return  # Cannot proceed without DB
 
     # 2. Connect to Wikidot API
     server: Optional[xmlrpc.client.ServerProxy] = None
@@ -520,9 +600,13 @@ def main() -> None:
                 continue
         except Exception as e:
             # Catch errors from select_all_pages if retries fail
-            logger.error("Failed to retrieve page list for site '%s' after retries: %s", site, e)
-            logger.warning("Skipping site '%s' due to page list retrieval failure.", site)
-            continue # Skip to the next site
+            logger.error(
+                "Failed to retrieve page list for site '%s' after retries: %s", site, e
+            )
+            logger.warning(
+                "Skipping site '%s' due to page list retrieval failure.", site
+            )
+            continue  # Skip to the next site
 
         processed_count = 0
         updated_count = 0
@@ -533,10 +617,13 @@ def main() -> None:
         for i in range(0, total_pages, CHUNK_SIZE):
             chunk_start_time = time.time()  # Start measuring chunk processing time
             chunk = all_pages[i : i + CHUNK_SIZE]
-            logger.info("Processing chunk %d/%d for site '%s' (%d pages)",
-                         (i // CHUNK_SIZE) + 1,
-                         (total_pages + CHUNK_SIZE - 1) // CHUNK_SIZE,
-                         site, len(chunk))
+            logger.info(
+                "Processing chunk %d/%d for site '%s' (%d pages)",
+                (i // CHUNK_SIZE) + 1,
+                (total_pages + CHUNK_SIZE - 1) // CHUNK_SIZE,
+                site,
+                len(chunk),
+            )
 
             # Get metadata for the current chunk
             meta_info: Dict[str, Dict[str, Any]] = {}
@@ -544,11 +631,17 @@ def main() -> None:
                 meta_info = get_pages_meta(site, server, chunk)
             except Exception as e:
                 # Catch errors from get_pages_meta if retries fail
-                logger.error("Failed to get metadata for chunk on site '%s' after retries: %s", site, e)
-                logger.warning("Skipping this chunk (%d pages) for site '%s'.", len(chunk), site)
-                failed_count += len(chunk) # Count all in chunk as failed
+                logger.error(
+                    "Failed to get metadata for chunk on site '%s' after retries: %s",
+                    site,
+                    e,
+                )
+                logger.warning(
+                    "Skipping this chunk (%d pages) for site '%s'.", len(chunk), site
+                )
+                failed_count += len(chunk)  # Count all in chunk as failed
                 processed_count += len(chunk)
-                continue # Skip this chunk
+                continue  # Skip this chunk
 
             # Process each page within the chunk using metadata
             for page_name in chunk:
@@ -556,10 +649,13 @@ def main() -> None:
                 meta = meta_info.get(page_name)
 
                 if not meta:
-                    logger.warning("Metadata missing for page '%s' in chunk on site '%s'. Skipping.",
-                                 page_name, site)
+                    logger.warning(
+                        "Metadata missing for page '%s' in chunk on site '%s'. Skipping.",
+                        page_name,
+                        site,
+                    )
                     failed_count += 1
-                    continue # Skip page if no metadata retrieved
+                    continue  # Skip page if no metadata retrieved
 
                 # Call the helper function to process this single page
                 try:
@@ -571,24 +667,35 @@ def main() -> None:
                         # process_single_page logs specifics, here we just count overall skips/fails
                         # We can't easily distinguish between skipped-no-change and skipped-due-to-error
                         # without more return values, but this simplifies main loop.
-                        skipped_count += 1 # Count includes no-change, deleted, failed
+                        skipped_count += 1  # Count includes no-change, deleted, failed
                 except Exception as e:
                     # Catch unexpected errors from process_single_page itself (should be rare)
-                    logger.exception("Unexpected error processing page '%s' on site '%s' in main loop: %s",
-                                     page_name, site, e, exc_info=True)
+                    logger.exception(
+                        "Unexpected error processing page '%s' on site '%s' in main loop: %s",
+                        page_name,
+                        site,
+                        e,
+                        exc_info=True,
+                    )
                     failed_count += 1
-
 
                 # Log progress periodically
                 if processed_count % 50 == 0 or processed_count == total_pages:
-                    logger.info("Site '%s': Processed %d/%d pages...",
-                                 site, processed_count, total_pages)
+                    logger.info(
+                        "Site '%s': Processed %d/%d pages...",
+                        site,
+                        processed_count,
+                        total_pages,
+                    )
 
             # Calculate and log chunk processing time
             chunk_elapsed = time.time() - chunk_start_time
             pages_per_second = len(chunk) / chunk_elapsed if chunk_elapsed > 0 else 0
-            logger.info("Chunk processed in %.2f seconds (%.2f pages/sec)", 
-                        chunk_elapsed, pages_per_second)
+            logger.info(
+                "Chunk processed in %.2f seconds (%.2f pages/sec)",
+                chunk_elapsed,
+                pages_per_second,
+            )
 
             # Optional: Commit transactions periodically per chunk if not using 'with conn:' inside helper
             # try:
@@ -598,14 +705,22 @@ def main() -> None:
 
         # Calculate and log site processing time
         site_elapsed = time.time() - site_start_time
-        pages_per_second = total_pages / site_elapsed if site_elapsed > 0 and total_pages > 0 else 0
-        
+        pages_per_second = (
+            total_pages / site_elapsed if site_elapsed > 0 and total_pages > 0 else 0
+        )
+
         logger.info("=== Finished site: %s ===", site)
         logger.info("  Total pages checked: %d", processed_count)
         logger.info("  Pages updated/inserted: %d", updated_count)
-        logger.info("  Pages skipped (no change/deleted/failed): %d", skipped_count + failed_count)
-        logger.info("  Site processing time: %.2f seconds (%.2f pages/sec)", 
-                    site_elapsed, pages_per_second)
+        logger.info(
+            "  Pages skipped (no change/deleted/failed): %d",
+            skipped_count + failed_count,
+        )
+        logger.info(
+            "  Site processing time: %.2f seconds (%.2f pages/sec)",
+            site_elapsed,
+            pages_per_second,
+        )
         # Note: skipped_count implicitly includes failed_count based on current logic. Clarify if needed.
 
     # --- Cleanup ---
@@ -619,17 +734,22 @@ def main() -> None:
     # Calculate and log total execution time
     total_elapsed = time.time() - start_time_total
     logger.info("Synchronization complete for all sites.")
-    logger.info("Total execution time: %.2f seconds (%.2f minutes)", 
-                total_elapsed, total_elapsed / 60.0)
+    logger.info(
+        "Total execution time: %.2f seconds (%.2f minutes)",
+        total_elapsed,
+        total_elapsed / 60.0,
+    )
 
 
 if __name__ == "__main__":
     # Basic check for required environment variables
     if API_USER == "your-username" or API_KEY == "your-api-key":
-        logger.error("API_USER or API_KEY not set in environment variables or .env file.")
-        logger.error("Exiting program as API calls cannot function without proper credentials.")
+        logger.error(
+            "API_USER or API_KEY not set in environment variables or .env file."
+        )
+        logger.error(
+            "Exiting program as API calls cannot function without proper credentials."
+        )
         exit("Error: Wikidot credentials not configured.")
-        # Consider exiting if credentials are required:
-        # exit("Error: Wikidot credentials not configured.")
 
     main()
