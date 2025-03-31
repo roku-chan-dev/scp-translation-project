@@ -474,7 +474,7 @@ def process_single_page(
             logger.error(
                 "API Fault fetching page '%s' on site '%s': %s", page_name, site, fault
             )
-            return False  # Failed to process
+            raise  # Re-raise the exception after logging
 
     except RETRYABLE_EXCEPTIONS as e:
         # Catch errors that might occur if get_one_page retries failed
@@ -504,6 +504,7 @@ def process_single_page(
             try:
                 insert_page(conn, site, fullinfo)
                 insert_tags(conn, site, page_name, fullinfo.get("tags"))
+                conn.commit()
             except sqlite3.Error:
                 conn.rollback()
                 raise
