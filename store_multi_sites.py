@@ -1,422 +1,756 @@
 """
 store_multi_sites.py
 
-このスクリプトは、Wikidot の複数サイト (EN, JP, CN, KO など) から
-ページを取得し、(site, fullname) を主キーとする SQLite データベースに
-保存するためのものです。
-同じ fullname があっても、site が異なれば上書きされません。
+Fetches pages from multiple Wikidot sites (EN, JP, CN, KO, etc.)
+using the Wikidot API and stores them in an SQLite database.
+Uses (site, fullname) as the primary key to differentiate pages
+from different sites even if they share the same fullname.
+Implements differential updates based on metadata to improve efficiency.
 """
 
-import os
-import sqlite3
-import xmlrpc.client
+import http.client
 import logging
+import os
 import socket
+import sqlite3
+import time
+import xmlrpc.client
 from typing import Any, Dict, List, Optional, Tuple, cast
 
+# Security patch for xmlrpc
 import defusedxml.xmlrpc
 from dotenv import load_dotenv
 from tenacity import (
+    before_sleep_log,
     retry,
-    stop_after_attempt,
-    wait_exponential,
     retry_if_exception_type,
+    stop_after_attempt,
+    stop_after_delay,
+    wait_random_exponential,
 )
 
+# Apply the security patch
 defusedxml.xmlrpc.monkey_patch()
 
+# --- Configuration ---
 # Set up logger
-logger = logging.getLogger(__name__)
+# Use basicConfig for simplicity, consider file logging for long runs
 logging.basicConfig(
     level=logging.INFO,
-    format="%(asctime)s - %(levelname)s - %(message)s",
+    format="%(asctime)s - %(name)s - %(levelname)s - %(message)s",
     datefmt="%Y-%m-%d %H:%M:%S",
 )
+logger = logging.getLogger(__name__)
 
-# ------------------------------------------------------------------------------
-# ここで一度に取得したいサイト名をリスト化
-# 好きなだけ追加可能
-# ------------------------------------------------------------------------------
+# List of Wikidot site names to process
 SITES = [
-    "scp-wiki",  # EN (本家)
-    "scp-jp",  # 日本支部
-    "scp-wiki-cn",  # 中国支部
-    "scpko",  # 韓国支部
+    "scp-wiki",  # English (main)
+    "scp-jp",  # Japanese Branch
+    "scp-wiki-cn",  # Chinese Branch
+    "scpko",  # Korean Branch
+    # Add more sites here as needed
 ]
 
-# pages.select() / get_meta() / get_one() の一括取得サイズ
+# Chunk size for batch API calls (pages.select, get_meta)
 CHUNK_SIZE = 10
 
-# 再試行設定（共通パラメータ）
-MAX_RETRY_ATTEMPTS = 10  # 再試行回数を5回から10回に増加
-MAX_WAIT_TIME = 180  # 最大待機時間を60秒から180秒に増加
+# Retry settings for tenacity
+MAX_RETRY_ATTEMPTS = 15
+MAX_TOTAL_DELAY = 3600
+MAX_WAIT_TIME = 600
+MIN_WAIT_TIME = 2
 
-# ------------------------------------------------------------------------------
-# 環境変数 (.env) からキーやユーザー名を読み込む
-# WIKIDOT_API_USER / WIKIDOT_API_KEY / DB_FILE
-# ------------------------------------------------------------------------------
+# Load environment variables (.env file)
 load_dotenv()
 API_USER = os.getenv("WIKIDOT_API_USER", "your-username")
 API_KEY = os.getenv("WIKIDOT_API_KEY", "your-api-key")
 DB_FILE = os.getenv("DB_FILE", "data/scp_data.sqlite")
+# --- End Configuration ---
+
+
+# --- Wikidot API Interaction with Retries ---
+
+# Define common retryable exceptions
+RETRYABLE_EXCEPTIONS = (
+    xmlrpc.client.Fault,  # Handles API errors like rate limits (503)
+    ConnectionError,  # Handles network connection issues
+    socket.gaierror,  # Handles DNS resolution errors
+    socket.timeout,  # Handles socket timeouts
+    xmlrpc.client.ProtocolError,  # Handles protocol errors (e.g., bad gateway)
+    http.client.HTTPException,
+)
 
 
 @retry(
-    stop=stop_after_attempt(MAX_RETRY_ATTEMPTS),
-    wait=wait_exponential(multiplier=1, max=MAX_WAIT_TIME),
-    retry=retry_if_exception_type((ConnectionError, socket.gaierror)),
+    # Stop after either max attempts or max delay, whichever comes first
+    stop=(stop_after_attempt(MAX_RETRY_ATTEMPTS) | stop_after_delay(MAX_TOTAL_DELAY)),
+    # Use exponential backoff with jitter to avoid thundering herd
+    wait=wait_random_exponential(multiplier=1, min=MIN_WAIT_TIME, max=MAX_WAIT_TIME),
+    # Retry only on specific exceptions
+    retry=retry_if_exception_type(RETRYABLE_EXCEPTIONS),
+    # Log before each retry for monitoring
+    before_sleep=before_sleep_log(logger, logging.INFO),
+    reraise=True,
 )
 def get_server_proxy(user: str, key: str) -> xmlrpc.client.ServerProxy:
     """
-    Wikidot API に認証付きで接続するための
-    xmlrpc.client.ServerProxy を生成して返す。
+    Creates an authenticated ServerProxy for the Wikidot API.
 
-    ネットワーク障害やDNS解決エラー（socket.gaierror）が発生した場合は
-    指数バックオフで再試行する。
+    Retries on common network and API errors using exponential backoff.
+
+    Args:
+        user: Wikidot username.
+        key: Wikidot API key.
+
+    Returns:
+        An xmlrpc.client.ServerProxy instance.
+
+    Raises:
+        Catches and retries RETRYABLE_EXCEPTIONS. If retries fail,
+        the last exception is reraised.
     """
+    logger.debug("Attempting to connect to Wikidot API...")
     api_url = f"https://{user}:{key}@wikidot.com/xml-rpc-api.php"
-    return xmlrpc.client.ServerProxy(api_url)
+    # Consider setting a timeout for the transport
+    # transport = xmlrpc.client.SafeTransport()
+    # transport.timeout = 60 # Example: 60 seconds timeout
+    # proxy = xmlrpc.client.ServerProxy(api_url, transport=transport)
+    proxy = xmlrpc.client.ServerProxy(api_url)
+    # Optional: Test connection with a simple call like list_users
+    # proxy.system.listMethods()
+    logger.debug("Successfully created API proxy.")
+    return proxy
 
 
 @retry(
-    stop=stop_after_attempt(MAX_RETRY_ATTEMPTS),
-    wait=wait_exponential(multiplier=1, max=MAX_WAIT_TIME),
-    retry=retry_if_exception_type(
-        (xmlrpc.client.Fault, ConnectionError, socket.gaierror)
-    ),
+    # Stop after either max attempts or max delay, whichever comes first
+    stop=(stop_after_attempt(MAX_RETRY_ATTEMPTS) | stop_after_delay(MAX_TOTAL_DELAY)),
+    # Use exponential backoff with jitter to avoid thundering herd
+    wait=wait_random_exponential(multiplier=1, min=MIN_WAIT_TIME, max=MAX_WAIT_TIME),
+    # Retry only on specific exceptions
+    retry=retry_if_exception_type(RETRYABLE_EXCEPTIONS),
+    # Log before each retry for monitoring
+    before_sleep=before_sleep_log(logger, logging.INFO),
+    reraise=True,
 )
 def select_all_pages(site: str, server: xmlrpc.client.ServerProxy) -> List[str]:
     """
-    対象サイト (site) から全ページの fullname リストを取得する。
+    Fetches a list of all page fullnames for a given site.
 
-    レート制限エラーやネットワーク障害が起きた場合は指数バックオフで再試行する。
+    Retries on common network and API errors.
+
+    Args:
+        site: The Wikidot site name (e.g., 'scp-wiki').
+        server: The authenticated ServerProxy instance.
+
+    Returns:
+        A list of page fullnames.
+
+    Raises:
+        Catches and retries RETRYABLE_EXCEPTIONS. Reraises if retries fail.
     """
+    logger.debug("Fetching page list for site: %s", site)
     return cast(List[str], server.pages.select({"site": site}))
 
 
 @retry(
-    stop=stop_after_attempt(MAX_RETRY_ATTEMPTS),
-    wait=wait_exponential(multiplier=1, max=MAX_WAIT_TIME),
-    retry=retry_if_exception_type(
-        (xmlrpc.client.Fault, ConnectionError, socket.gaierror)
-    ),
+    # Stop after either max attempts or max delay, whichever comes first
+    stop=(stop_after_attempt(MAX_RETRY_ATTEMPTS) | stop_after_delay(MAX_TOTAL_DELAY)),
+    # Use exponential backoff with jitter to avoid thundering herd
+    wait=wait_random_exponential(multiplier=1, min=MIN_WAIT_TIME, max=MAX_WAIT_TIME),
+    # Retry only on specific exceptions
+    retry=retry_if_exception_type(RETRYABLE_EXCEPTIONS),
+    # Log before each retry for monitoring
+    before_sleep=before_sleep_log(logger, logging.INFO),
+    reraise=True,
 )
 def get_pages_meta(
     site: str, server: xmlrpc.client.ServerProxy, pages: List[str]
 ) -> Dict[str, Dict[str, Any]]:
     """
-    同時に最大10件まで pages.get_meta() でメタデータを取得。
-    updated_at, revisions, rating などがまとめて返る。
+    Fetches metadata for a list of pages (up to CHUNK_SIZE).
 
-    レート制限エラーやネットワーク障害が起きた場合は指数バックオフで再試行する。
-    DNS解決エラー（socket.gaierror）も同様に再試行する。
+    Retries on common network and API errors.
+
+    Args:
+        site: The Wikidot site name.
+        server: The authenticated ServerProxy instance.
+        pages: A list of page fullnames to fetch metadata for.
 
     Returns:
-        meta_info: Dict where keys are page names, and values are dictionaries
-        containing metadata (fullname, updated_at, tags, etc.).
+        A dictionary where keys are page fullnames and values are
+        dictionaries containing metadata (updated_at, revisions, tags, etc.).
+
+    Raises:
+        Catches and retries RETRYABLE_EXCEPTIONS. Reraises if retries fail.
     """
+    logger.debug("Fetching metadata for %d pages on site %s", len(pages), site)
     return cast(
         Dict[str, Dict[str, Any]], server.pages.get_meta({"site": site, "pages": pages})
     )
 
 
 @retry(
-    stop=stop_after_attempt(MAX_RETRY_ATTEMPTS),
-    wait=wait_exponential(multiplier=1, max=MAX_WAIT_TIME),
-    retry=retry_if_exception_type(
-        (xmlrpc.client.Fault, ConnectionError, socket.gaierror)
-    ),
+    # Stop after either max attempts or max delay, whichever comes first
+    stop=(stop_after_attempt(MAX_RETRY_ATTEMPTS) | stop_after_delay(MAX_TOTAL_DELAY)),
+    # Use exponential backoff with jitter to avoid thundering herd
+    wait=wait_random_exponential(multiplier=1, min=MIN_WAIT_TIME, max=MAX_WAIT_TIME),
+    # Retry only on specific exceptions
+    retry=retry_if_exception_type(RETRYABLE_EXCEPTIONS),
+    # Log before each retry for monitoring
+    before_sleep=before_sleep_log(logger, logging.INFO),
+    reraise=True,
 )
 def get_one_page(
     site: str, server: xmlrpc.client.ServerProxy, page_name: str
 ) -> Dict[str, Any]:
     """
-    1ページ分の詳細情報を取得する。
-    content や html、rating、tags などが含まれる。
+    Fetches the full content and details for a single page.
 
-    レート制限エラーやネットワーク障害が起きた場合は指数バックオフで再試行する。
-    DNS解決エラー（socket.gaierror）も同様に再試行する。
+    Retries on common network and API errors.
+
+    Args:
+        site: The Wikidot site name.
+        server: The authenticated ServerProxy instance.
+        page_name: The fullname of the page to fetch.
 
     Returns:
-        A dictionary containing page details (content, html, rating, tags, etc.).
+        A dictionary containing page details (content, html, rating, etc.).
+
+    Raises:
+        Catches and retries RETRYABLE_EXCEPTIONS. Reraises if retries fail.
+        Note: Specific Faults like 406 (page not found) might be handled
+              by the caller after this function returns/raises.
     """
+    logger.debug("Fetching full content for page: %s on site %s", page_name, site)
     return cast(Dict[str, Any], server.pages.get_one({"site": site, "page": page_name}))
+
+
+# --- Database Operations ---
 
 
 def create_tables(conn: sqlite3.Connection) -> None:
     """
-    SQLite DB にテーブル (pages, page_tags) を作成する。
-    site と fullname を組みにした複合主キーで
-    同名ページでも site が違えば衝突しない。
+    Creates the necessary tables (pages, page_tags) in the SQLite database
+    if they don't already exist. Uses (site, fullname) as composite keys.
     """
-    c = conn.cursor()
-
-    c.execute(
-        """
-        CREATE TABLE IF NOT EXISTS pages (
-          site            TEXT NOT NULL,
-          fullname        TEXT NOT NULL,
-          title           TEXT,
-          created_at      TEXT,
-          created_by      TEXT,
-          updated_at      TEXT,
-          updated_by      TEXT,
-          parent_fullname TEXT,
-          parent_title    TEXT,
-          rating          INTEGER,
-          revisions       INTEGER,
-          children        INTEGER,
-          comments        INTEGER,
-          commented_at    TEXT,
-          commented_by    TEXT,
-          content         TEXT,
-          html            TEXT,
-          PRIMARY KEY (site, fullname)
+    logger.info("Ensuring database tables exist...")
+    cursor = conn.cursor()
+    try:
+        # Main table for page content and most metadata
+        cursor.execute(
+            """
+            CREATE TABLE IF NOT EXISTS pages (
+              site            TEXT NOT NULL,
+              fullname        TEXT NOT NULL,
+              title           TEXT,
+              created_at      TEXT, -- ISO 8601 format recommended
+              created_by      TEXT,
+              updated_at      TEXT, -- ISO 8601 format recommended
+              updated_by      TEXT,
+              parent_fullname TEXT,
+              parent_title    TEXT,
+              rating          INTEGER,
+              revisions       INTEGER,
+              children        INTEGER, -- Count of child pages
+              comments        INTEGER, -- Count of comments
+              commented_at    TEXT, -- ISO 8601 format recommended
+              commented_by    TEXT,
+              content         TEXT, -- Raw Wikidot source
+              html            TEXT, -- Rendered HTML
+              -- Composite primary key ensures uniqueness per site
+              PRIMARY KEY (site, fullname)
+            )
+            """
         )
-        """
-    )
 
-    c.execute(
-        """
-        CREATE TABLE IF NOT EXISTS page_tags (
-          site     TEXT NOT NULL,
-          fullname TEXT NOT NULL,
-          tag      TEXT NOT NULL,
-          PRIMARY KEY (site, fullname, tag)
+        # Separate table for tags (many-to-many relationship)
+        cursor.execute(
+            """
+            CREATE TABLE IF NOT EXISTS page_tags (
+              site     TEXT NOT NULL,
+              fullname TEXT NOT NULL,
+              tag      TEXT NOT NULL,
+              -- Composite primary key ensures uniqueness
+              PRIMARY KEY (site, fullname, tag),
+              -- Foreign key constraint (optional but good practice)
+              FOREIGN KEY (site, fullname) REFERENCES pages (site, fullname)
+                  ON DELETE CASCADE ON UPDATE CASCADE
+            )
+            """
         )
-        """
-    )
-
-    conn.commit()
+        # Consider adding indexes for faster lookups if needed
+        # cursor.execute("CREATE INDEX IF NOT EXISTS idx_page_tags_tag ON page_tags (tag);")
+        conn.commit()
+        logger.info("Database tables checked/created successfully.")
+    except sqlite3.Error as e:
+        logger.error("Database error during table creation: %s", e)
+        raise  # Reraise after logging
 
 
 def insert_page(conn: sqlite3.Connection, site: str, page_data: Dict[str, Any]) -> None:
     """
-    1ページ分のデータを pages テーブルに INSERT (または REPLACE) する。
-    site を含めて複合主キーにするので、同じページ名でも site が違えば衝突しない。
+    Inserts or replaces a single page's data into the 'pages' table.
     """
-    c = conn.cursor()
-    c.execute(
-        """
-        INSERT OR REPLACE INTO pages (
-          site,
-          fullname,
-          title,
-          created_at,
-          created_by,
-          updated_at,
-          updated_by,
-          parent_fullname,
-          parent_title,
-          rating,
-          revisions,
-          children,
-          comments,
-          commented_at,
-          commented_by,
-          content,
-          html
-        ) VALUES (?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?)
-        """,
-        (
-            site,
-            page_data.get("fullname"),
-            page_data.get("title"),
-            page_data.get("created_at"),
-            page_data.get("created_by"),
-            page_data.get("updated_at"),
-            page_data.get("updated_by"),
-            page_data.get("parent_fullname"),
-            page_data.get("parent_title"),
-            page_data.get("rating", 0),
-            page_data.get("revisions", 0),
-            page_data.get("children", 0),
-            page_data.get("comments", 0),
-            page_data.get("commented_at"),
-            page_data.get("commented_by"),
-            page_data.get("content"),
-            page_data.get("html"),
-        ),
+    logger.debug(
+        "Inserting/Replacing page data for '%s' on site '%s'",
+        page_data.get("fullname"),
+        site,
     )
-    conn.commit()
+    cursor = conn.cursor()
+    try:
+        cursor.execute(
+            """
+            INSERT OR REPLACE INTO pages (
+              site, fullname, title, created_at, created_by, updated_at, updated_by,
+              parent_fullname, parent_title, rating, revisions, children, comments,
+              commented_at, commented_by, content, html
+            ) VALUES (?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?)
+            """,
+            (
+                site,
+                page_data.get("fullname"),
+                page_data.get("title"),
+                page_data.get("created_at"),
+                page_data.get("created_by"),
+                page_data.get("updated_at"),
+                page_data.get("updated_by"),
+                page_data.get("parent_fullname"),
+                page_data.get("parent_title"),
+                page_data.get("rating", 0),
+                page_data.get("revisions", 0),
+                page_data.get("children", 0),
+                page_data.get("comments", 0),
+                page_data.get("commented_at"),
+                page_data.get("commented_by"),
+                page_data.get("content"),
+                page_data.get("html"),
+            ),
+        )
+        # No need to commit here, handled after tags or in main loop chunk
+    except sqlite3.Error as e:
+        logger.error(
+            "DB error inserting page '%s' on site '%s': %s",
+            page_data.get("fullname"),
+            site,
+            e,
+        )
+        conn.rollback()
+        raise
 
 
 def insert_tags(
     conn: sqlite3.Connection,
     site: str,
     page_fullname: str,
-    tags_list: List[str],
+    tags_list: Optional[List[str]],  # Accept None
 ) -> None:
     """
-    1ページに付いているタグ (tags) のリストを
-    page_tags テーブルに INSERT (または REPLACE) する。
+    Inserts or replaces the tags for a single page in the 'page_tags' table.
+    Deletes existing tags for the page before inserting new ones.
     """
-    c = conn.cursor()
-    for tag in tags_list:
-        c.execute(
-            """
-            INSERT OR REPLACE INTO page_tags (site, fullname, tag)
-            VALUES (?, ?, ?)
-            """,
-            (site, page_fullname, tag),
+    if tags_list is None:
+        tags_list = []  # Ensure it's an iterable
+
+    logger.debug("Updating tags for page '%s' on site '%s'", page_fullname, site)
+    cursor = conn.cursor()
+    try:
+        # Delete existing tags for this page first
+        cursor.execute(
+            "DELETE FROM page_tags WHERE site = ? AND fullname = ?",
+            (site, page_fullname),
         )
-    conn.commit()
+        # Insert new tags if any exist
+        if tags_list:
+            tag_data = [(site, page_fullname, tag) for tag in tags_list]
+            cursor.executemany(
+                "INSERT OR REPLACE INTO page_tags (site, fullname, tag) VALUES (?, ?, ?)",
+                tag_data,
+            )
+        # No need to commit here, handled after page insert or in main loop chunk
+    except sqlite3.Error as e:
+        logger.error(
+            "DB error updating tags for page '%s' on site '%s': %s",
+            page_fullname,
+            site,
+            e,
+        )
+        conn.rollback()
+        raise
 
 
 def get_db_page_info(
     conn: sqlite3.Connection, site: str, page_name: str
-) -> Optional[Tuple[str, int]]:
+) -> Optional[Tuple[Optional[str], Optional[int]]]:
     """
-    DBに既にあるページの updated_at, revisions を返す。
-    まだ存在しない場合は None を返す。
+    Retrieves the stored updated_at and revisions count for a page from the DB.
 
     Returns:
-        (updated_at, revisions) if the page exists in DB, otherwise None.
+        A tuple (updated_at, revisions) if the page exists, otherwise None.
+        Values within the tuple can be None if not set in DB.
     """
-    c = conn.cursor()
-    row = c.execute(
-        """
-        SELECT updated_at, revisions
-        FROM pages
-        WHERE site=? AND fullname=?
-        """,
-        (site, page_name),
-    ).fetchone()
-    # row is either (updated_at, revisions) or None
-    return row  # type: ignore
+    cursor = conn.cursor()
+    try:
+        cursor.execute(
+            "SELECT updated_at, revisions FROM pages WHERE site=? AND fullname=?",
+            (site, page_name),
+        )
+        row = cursor.fetchone()
+        # row is tuple (updated_at, revisions) or None
+        return row  # type: ignore
+    except sqlite3.Error as e:
+        logger.error(
+            "DB error fetching info for page '%s' on site '%s': %s", page_name, site, e
+        )
+        return None  # Treat DB error as 'not found' for simplicity here
+
+
+# --- Main Processing Logic ---
+
+
+def process_single_page(
+    conn: sqlite3.Connection,
+    server: xmlrpc.client.ServerProxy,
+    site: str,
+    page_name: str,
+    meta: Dict[str, Any],
+) -> bool:
+    """
+    Processes a single page: checks if update needed, fetches full data if so,
+    and updates the database.
+
+    Args:
+        conn: SQLite database connection.
+        server: Authenticated ServerProxy instance.
+        site: The Wikidot site name.
+        page_name: The fullname of the page to process.
+        meta: The metadata dictionary for this page from get_pages_meta.
+
+    Returns:
+        True if the page was processed (fetched and/or updated), False if skipped.
+    """
+    # 1. Check if update is needed by comparing with DB
+    db_info = get_db_page_info(conn, site, page_name)
+    if db_info is not None:
+        db_updated_at, db_revisions = db_info
+        meta_updated_at = meta.get("updated_at")
+        meta_revisions = meta.get("revisions")  # Returns None if key missing
+        # Ensure comparison handles None correctly, treat None revision as 0?
+        # Wikidot API might return 0 or omit revisions key, DB might store NULL.
+        # Simple comparison: skip only if both match exactly.
+        if db_updated_at == meta_updated_at and db_revisions == meta_revisions:
+            logger.debug(
+                "Skipping '%s' on site '%s': No changes detected.", page_name, site
+            )
+            return False  # Skipped
+
+    logger.debug(
+        "Processing page '%s' on site '%s': Update needed or new page.", page_name, site
+    )
+
+    # 2. Fetch full page data if update is needed or page is new
+    try:
+        fullinfo = get_one_page(site, server, page_name)
+        # Add tags from metadata (get_one doesn't always include them reliably)
+        fullinfo["tags"] = meta.get("tags", [])
+
+    except xmlrpc.client.Fault as fault:
+        # Handle specific "page does not exist" error (406)
+        if (
+            fault.faultCode == 406
+            and "page does not exist" in fault.faultString.lower()
+        ):
+            logger.warning(
+                "Page '%s' on site '%s' appears deleted (Fault 406). Skipping.",
+                page_name,
+                site,
+            )
+            # Optional: Mark page as deleted in DB instead of skipping?
+            # delete_page_record(conn, site, page_name)
+            return False  # Skipped due to deletion
+        else:
+            # Log other API faults encountered during get_one_page
+            # These might occur even after tenacity retries if it's not a retryable fault type
+            logger.error(
+                "API Fault fetching page '%s' on site '%s': %s", page_name, site, fault
+            )
+            raise  # Re-raise the exception after logging
+
+    except RETRYABLE_EXCEPTIONS as e:
+        # Catch errors that might occur if get_one_page retries failed
+        logger.error(
+            "Network/API error after retries fetching page '%s' on site '%s': %s",
+            page_name,
+            site,
+            e,
+        )
+        return False  # Failed to process
+
+    except Exception as e:
+        # Catch any other unexpected errors during get_one_page
+        logger.exception(
+            "Unexpected error fetching page '%s' on site '%s': %s",
+            page_name,
+            site,
+            e,
+            exc_info=True,
+        )  # Use logger.exception for stack trace
+        return False  # Failed to process
+
+    # 3. Insert/Update page and tags in the database
+    try:
+        # Use a transaction for inserting page and its tags
+        with conn:  # Context manager handles commit/rollback
+            try:
+                insert_page(conn, site, fullinfo)
+                insert_tags(conn, site, page_name, fullinfo.get("tags"))
+                conn.commit()
+            except sqlite3.Error:
+                conn.rollback()
+                raise
+        logger.debug(
+            "Successfully updated page '%s' and its tags in DB on site '%s'.",
+            page_name,
+            site,
+        )
+        return True  # Successfully processed
+
+    except sqlite3.Error as e:
+        logger.error(
+            "DB error updating page '%s' or tags on site '%s': %s", page_name, site, e
+        )
+        # Transaction should automatically rollback on exception with 'with conn:'
+        return False  # Failed to process
+    except Exception as e:
+        # Catch unexpected errors during DB operation
+        logger.exception(
+            "Unexpected error updating DB for page '%s' on site '%s': %s",
+            page_name,
+            site,
+            e,
+            exc_info=True,
+        )
+        return False  # Failed to process
 
 
 def main() -> None:
     """
-    メイン処理:
-    1) DBを開いてテーブルを作成
-    2) SITES に列挙された各サイトから全ページを取得
-    3) 全ページをCHUNKごとにメタデータ(get_pages_meta)だけ先に拾う
-    4) DBの既存データと比較し、更新されてるページだけ get_one_page で本体を取得
-    5) 固定の待機時間を設けず、エラー発生時のみ指数バックオフでリトライ
-    6) 取得した情報をDBにINSERT
-    7) ページが削除されていた場合(Fault 406)はスキップ
-    8) ネットワークエラーやDNS解決エラー(socket.gaierror)は粘り強く再試行
+    Main execution function:
+    1. Connects to the database and ensures tables exist.
+    2. Connects to the Wikidot API.
+    3. Iterates through each site defined in SITES.
+    4. Fetches all page names for the site.
+    5. Processes pages in chunks:
+       a. Fetches metadata for the chunk.
+       b. For each page in the chunk, calls process_single_page.
+    6. Logs progress and completion.
     """
-    conn = sqlite3.connect(DB_FILE)
-    create_tables(conn)
+    # Start measuring total execution time
+    start_time_total = time.time()
+    logger.info("Starting Wikidot data synchronization...")
+    logger.info("Database file: %s", DB_FILE)
 
-    logger.info(f"DB_FILE = {DB_FILE}")
+    # Ensure data directory exists if DB_FILE includes a path
+    db_dir = os.path.dirname(DB_FILE)
+    if db_dir and not os.path.exists(db_dir):
+        try:
+            os.makedirs(db_dir)
+            logger.info("Created database directory: %s", db_dir)
+        except OSError as e:
+            logger.error("Failed to create database directory '%s': %s", db_dir, e)
+            return  # Cannot proceed without DB directory
+
+    # 1. Connect to Database
+    conn: Optional[sqlite3.Connection] = None
+    try:
+        conn = sqlite3.connect(DB_FILE, timeout=10)  # Added timeout
+        # Improve performance and reduce locking issues
+        conn.execute("PRAGMA journal_mode=WAL;")
+        create_tables(conn)
+    except sqlite3.Error as e:
+        logger.error("Failed to connect to or initialize database '%s': %s", DB_FILE, e)
+        return  # Cannot proceed without DB
+
+    # 2. Connect to Wikidot API
+    server: Optional[xmlrpc.client.ServerProxy] = None
     try:
         server = get_server_proxy(API_USER, API_KEY)
+        # Optionally test connection further here if needed
+        # server.system.listMethods()
+        logger.info("Successfully connected to Wikidot API.")
     except Exception as e:
-        logger.error(f"サーバー接続エラー: {e}")
-        logger.info(
-            "プログラムを終了します。ネットワーク接続を確認してから再実行してください。"
-        )
+        # Catch exceptions from get_server_proxy if retries fail
+        logger.error("Failed to connect to Wikidot API after multiple retries: %s", e)
+        logger.info("Check API credentials and network connection. Exiting.")
+        if conn:
+            conn.close()
         return
 
+    # --- Site Processing Loop ---
     for site in SITES:
-        logger.info(f"=== 開始: {site} ===")
+        # Start measuring site processing time
+        site_start_time = time.time()
+        logger.info("=== Processing site: %s ===", site)
+        all_pages: List[str] = []
         try:
             all_pages = select_all_pages(site, server)
-            logger.info(f"  => {len(all_pages)} ページを取得しました (site={site})")
+            total_pages = len(all_pages)
+            logger.info("Found %d pages for site '%s'.", total_pages, site)
+            if total_pages == 0:
+                logger.warning("No pages found for site '%s'. Skipping.", site)
+                continue
         except Exception as e:
-            logger.error(f"{site} のページ一覧取得に失敗: {e}")
-            logger.info(f"{site} をスキップして次のサイトへ進みます")
-            continue
+            # Catch errors from select_all_pages if retries fail
+            logger.error(
+                "Failed to retrieve page list for site '%s' after retries: %s", site, e
+            )
+            logger.warning(
+                "Skipping site '%s' due to page list retrieval failure.", site
+            )
+            continue  # Skip to the next site
 
         processed_count = 0
-        total_pages = len(all_pages)
+        updated_count = 0
+        skipped_count = 0
+        failed_count = 0
 
-        # ページ名をCHUNK_SIZE ごとに小分けして処理
+        # Process pages in chunks
         for i in range(0, total_pages, CHUNK_SIZE):
+            chunk_start_time = time.time()  # Start measuring chunk processing time
             chunk = all_pages[i : i + CHUNK_SIZE]
+            logger.info(
+                "Processing chunk %d/%d for site '%s' (%d pages)",
+                (i // CHUNK_SIZE) + 1,
+                (total_pages + CHUNK_SIZE - 1) // CHUNK_SIZE,
+                site,
+                len(chunk),
+            )
 
-            # メタデータをまとめて取得
-            # meta_info は { 'page_name': { 'fullname':..., 'updated_at':..., 'revisions':..., 'tags': [...], ... }, ... }
+            # Get metadata for the current chunk
+            meta_info: Dict[str, Dict[str, Any]] = {}
             try:
                 meta_info = get_pages_meta(site, server, chunk)
-            except (xmlrpc.client.Fault, ConnectionError, socket.gaierror) as e:
-                logger.warning(f"get_pages_meta失敗: {e}")
-                # tenacityによる再試行が全て失敗した場合、このチャンクをスキップ
-                continue
             except Exception as e:
-                logger.warning(f"予期せぬエラー in get_pages_meta: {e}")
-                continue
+                # Catch errors from get_pages_meta if retries fail
+                logger.error(
+                    "Failed to get metadata for chunk on site '%s' after retries: %s",
+                    site,
+                    e,
+                )
+                logger.warning(
+                    "Skipping this chunk (%d pages) for site '%s'.", len(chunk), site
+                )
+                failed_count += len(chunk)  # Count all in chunk as failed
+                processed_count += len(chunk)
+                continue  # Skip this chunk
 
-            if not meta_info:
-                # 万が一何も取れんかったらスキップ
-                continue
-
+            # Process each page within the chunk using metadata
             for page_name in chunk:
                 processed_count += 1
-                # Replace sys.stdout.write with a progress indicator
-                if processed_count % 10 == 0 or processed_count == total_pages:
-                    logger.info(
-                        f"Processing {processed_count}/{total_pages} for {site}..."
-                    )
-
                 meta = meta_info.get(page_name)
+
                 if not meta:
-                    # 何故かこのページだけメタ情報が無い場合はスキップ
-                    continue
+                    logger.warning(
+                        "Metadata missing for page '%s' in chunk on site '%s'. Skipping.",
+                        page_name,
+                        site,
+                    )
+                    failed_count += 1
+                    continue  # Skip page if no metadata retrieved
 
-                # DB上の更新日時/リビジョンと比較して、同じならスキップ
-                db_row = get_db_page_info(conn, site, page_name)
-                if db_row is not None:
-                    db_updated_at, db_revisions = db_row
-                    if db_updated_at == meta.get(
-                        "updated_at"
-                    ) and db_revisions == meta.get("revisions", 0):
-                        # 変化なし → skip
-                        continue
-
-                # 変化あり or まだDBに無い → get_one_page
+                # Call the helper function to process this single page
                 try:
-                    fullinfo = get_one_page(site, server, page_name)
-                except xmlrpc.client.Fault as fault:
-                    if (
-                        fault.faultCode == 406
-                        and "page does not exist" in fault.faultString.lower()
-                    ):
-                        logger.info(
-                            f"ページ '{page_name}' は削除されてるみたいやからスキップ"
-                        )
-                        continue
+                    success = process_single_page(conn, server, site, page_name, meta)
+                    if success:
+                        updated_count += 1
                     else:
-                        # それ以外の既知のエラーは警告を出してスキップ
-                        logger.warning(
-                            f"ページ '{page_name}' の取得中にエラー: {fault}"
-                        )
-                        continue
-                except (ConnectionError, socket.gaierror) as e:
-                    # ネットワークエラーはtenacityでの再試行が全て失敗した場合
-                    logger.warning(
-                        f"ページ '{page_name}' の取得中にネットワークエラー: {e}"
-                    )
-                    continue
+                        # Skipped (no change, deleted, or failed fetch/DB update)
+                        # process_single_page logs specifics, here we just count overall skips/fails
+                        # We can't easily distinguish between skipped-no-change and skipped-due-to-error
+                        # without more return values, but this simplifies main loop.
+                        skipped_count += 1  # Count includes no-change, deleted, failed
                 except Exception as e:
-                    # 予期せぬエラーは警告を出してスキップ
-                    logger.warning(
-                        f"ページ '{page_name}' の取得中に予期せぬエラー: {e}"
+                    # Catch unexpected errors from process_single_page itself (should be rare)
+                    logger.exception(
+                        "Unexpected error processing page '%s' on site '%s' in main loop: %s",
+                        page_name,
+                        site,
+                        e,
+                        exc_info=True,
                     )
-                    continue
+                    failed_count += 1
 
-                # get_one_page で拾った情報 + meta_data (tags など) をマージ
-                if "tags" in meta:
-                    fullinfo["tags"] = meta["tags"]
+                # Log progress periodically
+                if processed_count % 50 == 0 or processed_count == total_pages:
+                    logger.info(
+                        "Site '%s': Processed %d/%d pages...",
+                        site,
+                        processed_count,
+                        total_pages,
+                    )
 
-                # DBにINSERT
-                try:
-                    insert_page(conn, site, fullinfo)
-                    insert_tags(conn, site, page_name, fullinfo.get("tags", []))
-                except sqlite3.Error as e:
-                    logger.warning(f"DB挿入エラー for '{page_name}': {e}")
-                    continue
+            # Calculate and log chunk processing time
+            chunk_elapsed = time.time() - chunk_start_time
+            pages_per_second = len(chunk) / chunk_elapsed if chunk_elapsed > 0 else 0
+            logger.info(
+                "Chunk processed in %.2f seconds (%.2f pages/sec)",
+                chunk_elapsed,
+                pages_per_second,
+            )
 
-            # chunk単位のループ終わり
+            # Optional: Commit transactions periodically per chunk if not using 'with conn:' inside helper
+            # try:
+            #     conn.commit()
+            # except sqlite3.Error as e:
+            #     logger.error("DB commit error after chunk on site '%s': %s", site, e)
 
-        logger.info(f"=== {site} の処理終了: 合計 {processed_count} ページ ===")
+        # Calculate and log site processing time
+        site_elapsed = time.time() - site_start_time
+        pages_per_second = (
+            total_pages / site_elapsed if site_elapsed > 0 and total_pages > 0 else 0
+        )
 
-    conn.close()
-    logger.info("完了: すべてのサイトのページ取得が完了しました。")
+        logger.info("=== Finished site: %s ===", site)
+        logger.info("  Total pages checked: %d", processed_count)
+        logger.info("  Pages updated/inserted: %d", updated_count)
+        logger.info(
+            "  Pages skipped (no change/deleted/failed): %d",
+            skipped_count + failed_count,
+        )
+        logger.info(
+            "  Site processing time: %.2f seconds (%.2f pages/sec)",
+            site_elapsed,
+            pages_per_second,
+        )
+        # Note: skipped_count implicitly includes failed_count based on current logic. Clarify if needed.
+
+    # --- Cleanup ---
+    if conn:
+        try:
+            conn.close()
+            logger.info("Database connection closed.")
+        except sqlite3.Error as e:
+            logger.error("Error closing database connection: %s", e)
+
+    # Calculate and log total execution time
+    total_elapsed = time.time() - start_time_total
+    logger.info("Synchronization complete for all sites.")
+    logger.info(
+        "Total execution time: %.2f seconds (%.2f minutes)",
+        total_elapsed,
+        total_elapsed / 60.0,
+    )
 
 
 if __name__ == "__main__":
+    # Basic check for required environment variables
+    if API_USER == "your-username" or API_KEY == "your-api-key":
+        logger.error(
+            "API_USER or API_KEY not set in environment variables or .env file."
+        )
+        logger.error(
+            "Exiting program as API calls cannot function without proper credentials."
+        )
+        exit("Error: Wikidot credentials not configured.")
+
     main()
