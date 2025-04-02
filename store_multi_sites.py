@@ -226,13 +226,159 @@ def get_one_page(
     return cast(Dict[str, Any], server.pages.get_one({"site": site, "page": page_name}))
 
 
+@retry(
+    # Stop after either max attempts or max delay, whichever comes first
+    stop=(stop_after_attempt(MAX_RETRY_ATTEMPTS) | stop_after_delay(MAX_TOTAL_DELAY)),
+    # Use exponential backoff with jitter to avoid thundering herd
+    wait=wait_random_exponential(multiplier=1, min=MIN_WAIT_TIME, max=MAX_WAIT_TIME),
+    # Retry only on specific exceptions
+    retry=retry_if_exception_type(RETRYABLE_EXCEPTIONS),
+    # Log before each retry for monitoring
+    before_sleep=before_sleep_log(logger, logging.INFO),
+    reraise=True,
+)
+def fetch_all_categories(site: str, server: xmlrpc.client.ServerProxy) -> List[str]:
+    """
+    Fetches all categories for a given site.
+    
+    Args:
+        site: The Wikidot site name.
+        server: The authenticated ServerProxy instance.
+        
+    Returns:
+        A list of category names.
+    """
+    logger.debug("Fetching all categories for site: %s", site)
+    return cast(List[str], server.categories.select({"site": site}))
+
+
+@retry(
+    # Stop after either max attempts or max delay, whichever comes first
+    stop=(stop_after_attempt(MAX_RETRY_ATTEMPTS) | stop_after_delay(MAX_TOTAL_DELAY)),
+    # Use exponential backoff with jitter to avoid thundering herd
+    wait=wait_random_exponential(multiplier=1, min=MIN_WAIT_TIME, max=MAX_WAIT_TIME),
+    # Retry only on specific exceptions
+    retry=retry_if_exception_type(RETRYABLE_EXCEPTIONS),
+    # Log before each retry for monitoring
+    before_sleep=before_sleep_log(logger, logging.INFO),
+    reraise=True,
+)
+def fetch_page_files(site: str, server: xmlrpc.client.ServerProxy, page_name: str) -> List[str]:
+    """
+    Fetches a list of all file names attached to a specific page.
+    
+    Args:
+        site: The Wikidot site name.
+        server: The authenticated ServerProxy instance.
+        page_name: The full page name.
+        
+    Returns:
+        A list of file names attached to the page.
+    """
+    logger.debug("Fetching file list for page: %s on site %s", page_name, site)
+    return cast(List[str], server.files.select({"site": site, "page": page_name}))
+
+
+@retry(
+    # Stop after either max attempts or max delay, whichever comes first
+    stop=(stop_after_attempt(MAX_RETRY_ATTEMPTS) | stop_after_delay(MAX_TOTAL_DELAY)),
+    # Use exponential backoff with jitter to avoid thundering herd
+    wait=wait_random_exponential(multiplier=1, min=MIN_WAIT_TIME, max=MAX_WAIT_TIME),
+    # Retry only on specific exceptions
+    retry=retry_if_exception_type(RETRYABLE_EXCEPTIONS),
+    # Log before each retry for monitoring
+    before_sleep=before_sleep_log(logger, logging.INFO),
+    reraise=True,
+)
+def fetch_files_meta(
+    site: str, server: xmlrpc.client.ServerProxy, page_name: str, file_names: List[str]
+) -> Dict[str, Dict[str, Any]]:
+    """
+    Fetches metadata for a list of files attached to a page.
+    
+    Args:
+        site: The Wikidot site name.
+        server: The authenticated ServerProxy instance.
+        page_name: The full page name.
+        file_names: List of file names to fetch metadata for (max 10).
+        
+    Returns:
+        A dictionary where keys are file names and values are metadata dictionaries.
+    """
+    logger.debug("Fetching metadata for %d files on page %s, site %s", 
+                len(file_names), page_name, site)
+    return cast(
+        Dict[str, Dict[str, Any]], 
+        server.files.get_meta({"site": site, "page": page_name, "files": file_names})
+    )
+
+
+@retry(
+    # Stop after either max attempts or max delay, whichever comes first
+    stop=(stop_after_attempt(MAX_RETRY_ATTEMPTS) | stop_after_delay(MAX_TOTAL_DELAY)),
+    # Use exponential backoff with jitter to avoid thundering herd
+    wait=wait_random_exponential(multiplier=1, min=MIN_WAIT_TIME, max=MAX_WAIT_TIME),
+    # Retry only on specific exceptions
+    retry=retry_if_exception_type(RETRYABLE_EXCEPTIONS),
+    # Log before each retry for monitoring
+    before_sleep=before_sleep_log(logger, logging.INFO),
+    reraise=True,
+)
+def fetch_page_comments(site: str, server: xmlrpc.client.ServerProxy, page_name: str) -> List[str]:
+    """
+    Fetches all comment IDs for a specific page.
+    
+    Args:
+        site: The Wikidot site name.
+        server: The authenticated ServerProxy instance.
+        page_name: The full page name.
+        
+    Returns:
+        A list of comment IDs.
+    """
+    logger.debug("Fetching comments for page: %s on site %s", page_name, site)
+    return cast(List[str], server.posts.select({"site": site, "page": page_name}))
+
+
+@retry(
+    # Stop after either max attempts or max delay, whichever comes first
+    stop=(stop_after_attempt(MAX_RETRY_ATTEMPTS) | stop_after_delay(MAX_TOTAL_DELAY)),
+    # Use exponential backoff with jitter to avoid thundering herd
+    wait=wait_random_exponential(multiplier=1, min=MIN_WAIT_TIME, max=MAX_WAIT_TIME),
+    # Retry only on specific exceptions
+    retry=retry_if_exception_type(RETRYABLE_EXCEPTIONS),
+    # Log before each retry for monitoring
+    before_sleep=before_sleep_log(logger, logging.INFO),
+    reraise=True,
+)
+def fetch_comments_data(
+    site: str, server: xmlrpc.client.ServerProxy, comment_ids: List[str]
+) -> Dict[str, Dict[str, Any]]:
+    """
+    Fetches detailed data for a list of comment IDs.
+    
+    Args:
+        site: The Wikidot site name.
+        server: The authenticated ServerProxy instance.
+        comment_ids: List of comment IDs to fetch data for (max 10).
+        
+    Returns:
+        A dictionary where keys are comment IDs and values are comment data dictionaries.
+    """
+    logger.debug("Fetching data for %d comments on site %s", len(comment_ids), site)
+    return cast(
+        Dict[str, Dict[str, Any]], 
+        server.posts.get({"site": site, "posts": comment_ids})
+    )
+
+
 # --- Database Operations ---
 
 
 def create_tables(conn: sqlite3.Connection) -> None:
     """
-    Creates the necessary tables (pages, page_tags) in the SQLite database
-    if they don't already exist. Uses (site, fullname) as composite keys.
+    Creates the necessary tables in the SQLite database
+    if they don't already exist. Handles all data types available from Wikidot API.
     """
     logger.info("Ensuring database tables exist...")
     cursor = conn.cursor()
@@ -279,8 +425,77 @@ def create_tables(conn: sqlite3.Connection) -> None:
             )
             """
         )
+
+        # Category information table (from categories.select)
+        cursor.execute(
+            """
+            CREATE TABLE IF NOT EXISTS categories (
+              site         TEXT NOT NULL,
+              category     TEXT NOT NULL,
+              PRIMARY KEY (site, category)
+            )
+            """
+        )
+
+        # File metadata table (from files.get_meta and files.select)
+        cursor.execute(
+            """
+            CREATE TABLE IF NOT EXISTS files (
+              site             TEXT NOT NULL,
+              page_fullname    TEXT NOT NULL,
+              file_name        TEXT NOT NULL,
+              size             INTEGER,
+              comment          TEXT,
+              mime_type        TEXT,
+              mime_description TEXT,
+              uploaded_by      TEXT,
+              uploaded_at      TEXT,
+              download_url     TEXT,
+              PRIMARY KEY (site, page_fullname, file_name),
+              FOREIGN KEY (site, page_fullname) REFERENCES pages (site, fullname)
+                  ON DELETE CASCADE ON UPDATE CASCADE
+            )
+            """
+        )
+
+        # Comments/Posts table (from posts.select and posts.get)
+        cursor.execute(
+            """
+            CREATE TABLE IF NOT EXISTS posts (
+              site           TEXT NOT NULL,
+              post_id        TEXT NOT NULL,  
+              page_fullname  TEXT NOT NULL,
+              reply_to       TEXT,          
+              title          TEXT,
+              content        TEXT,
+              html           TEXT,
+              created_by     TEXT,
+              created_at     TEXT,
+              replies        INTEGER,
+              PRIMARY KEY (site, post_id),
+              FOREIGN KEY (site, page_fullname) REFERENCES pages (site, fullname)
+                  ON DELETE CASCADE ON UPDATE CASCADE
+            )
+            """
+        )
+
+        # User information table (from users.get_me and other endpoints)
+        cursor.execute(
+            """
+            CREATE TABLE IF NOT EXISTS users (
+              user_id      TEXT NOT NULL,
+              name         TEXT NOT NULL,
+              title        TEXT,
+              PRIMARY KEY (user_id)
+            )
+            """
+        )
+
         # Consider adding indexes for faster lookups if needed
-        # cursor.execute("CREATE INDEX IF NOT EXISTS idx_page_tags_tag ON page_tags (tag);")
+        cursor.execute("CREATE INDEX IF NOT EXISTS idx_page_tags_tag ON page_tags (tag);")
+        cursor.execute("CREATE INDEX IF NOT EXISTS idx_files_page ON files (site, page_fullname);")
+        cursor.execute("CREATE INDEX IF NOT EXISTS idx_posts_page ON posts (site, page_fullname);")
+        
         conn.commit()
         logger.info("Database tables checked/created successfully.")
     except sqlite3.Error as e:
@@ -379,6 +594,153 @@ def insert_tags(
         raise
 
 
+def insert_categories(conn: sqlite3.Connection, site: str, categories: List[str]) -> None:
+    """
+    Inserts or replaces categories for a site in the 'categories' table.
+    
+    Args:
+        conn: SQLite database connection.
+        site: The Wikidot site name.
+        categories: List of category names.
+    """
+    logger.debug("Updating categories for site '%s'", site)
+    cursor = conn.cursor()
+    try:
+        # Delete existing categories for this site first
+        cursor.execute("DELETE FROM categories WHERE site = ?", (site,))
+        # Insert new categories if any exist
+        if categories:
+            category_data = [(site, category) for category in categories]
+            cursor.executemany(
+                "INSERT OR REPLACE INTO categories (site, category) VALUES (?, ?)",
+                category_data,
+            )
+    except sqlite3.Error as e:
+        logger.error(
+            "DB error updating categories for site '%s': %s",
+            site,
+            e,
+        )
+        conn.rollback()
+        raise
+
+
+def insert_files(
+    conn: sqlite3.Connection, site: str, page_fullname: str, files_data: Dict[str, Dict[str, Any]]
+) -> None:
+    """
+    Inserts or replaces file metadata for a page in the 'files' table.
+    
+    Args:
+        conn: SQLite database connection.
+        site: The Wikidot site name.
+        page_fullname: The full page name the files are attached to.
+        files_data: Dictionary from files.get_meta with file metadata.
+    """
+    logger.debug("Updating file metadata for page '%s' on site '%s'", page_fullname, site)
+    cursor = conn.cursor()
+    try:
+        # Delete existing file metadata for this page first
+        cursor.execute(
+            "DELETE FROM files WHERE site = ? AND page_fullname = ?", 
+            (site, page_fullname)
+        )
+        
+        # Insert new file metadata
+        if files_data:
+            file_records = []
+            for file_name, file_info in files_data.items():
+                file_records.append((
+                    site,
+                    page_fullname,
+                    file_name,
+                    file_info.get("size"),
+                    file_info.get("comment"),
+                    file_info.get("mime_type"),
+                    file_info.get("mime_description"),
+                    file_info.get("uploaded_by"),
+                    file_info.get("uploaded_at"),
+                    file_info.get("download_url")
+                ))
+            
+            cursor.executemany(
+                """
+                INSERT OR REPLACE INTO files (
+                    site, page_fullname, file_name, size, comment, mime_type,
+                    mime_description, uploaded_by, uploaded_at, download_url
+                ) VALUES (?, ?, ?, ?, ?, ?, ?, ?, ?, ?)
+                """,
+                file_records
+            )
+    except sqlite3.Error as e:
+        logger.error(
+            "DB error updating file metadata for page '%s' on site '%s': %s",
+            page_fullname,
+            site,
+            e,
+        )
+        conn.rollback()
+        raise
+
+
+def insert_comments(
+    conn: sqlite3.Connection, site: str, page_fullname: str, comments_data: Dict[str, Dict[str, Any]]
+) -> None:
+    """
+    Inserts or replaces comment data for a page in the 'posts' table.
+    
+    Args:
+        conn: SQLite database connection.
+        site: The Wikidot site name.
+        page_fullname: The full page name the comments belong to.
+        comments_data: Dictionary from posts.get with comment data.
+    """
+    logger.debug("Updating comments for page '%s' on site '%s'", page_fullname, site)
+    cursor = conn.cursor()
+    try:
+        # Delete existing comments for this page first
+        cursor.execute(
+            "DELETE FROM posts WHERE site = ? AND page_fullname = ?", 
+            (site, page_fullname)
+        )
+        
+        # Insert new comments
+        if comments_data:
+            comment_records = []
+            for post_id, comment_info in comments_data.items():
+                comment_records.append((
+                    site,
+                    post_id,
+                    page_fullname,
+                    comment_info.get("reply_to"),
+                    comment_info.get("title"),
+                    comment_info.get("content"),
+                    comment_info.get("html"),
+                    comment_info.get("created_by"),
+                    comment_info.get("created_at"),
+                    comment_info.get("replies", 0)
+                ))
+            
+            cursor.executemany(
+                """
+                INSERT OR REPLACE INTO posts (
+                    site, post_id, page_fullname, reply_to, title, content,
+                    html, created_by, created_at, replies
+                ) VALUES (?, ?, ?, ?, ?, ?, ?, ?, ?, ?)
+                """,
+                comment_records
+            )
+    except sqlite3.Error as e:
+        logger.error(
+            "DB error updating comments for page '%s' on site '%s': %s",
+            page_fullname,
+            site,
+            e,
+        )
+        conn.rollback()
+        raise
+
+
 def get_db_page_info(
     conn: sqlite3.Connection, site: str, page_name: str
 ) -> Optional[Tuple[Optional[str], Optional[int]]]:
@@ -406,6 +768,87 @@ def get_db_page_info(
 
 
 # --- Main Processing Logic ---
+
+
+def process_site_additional_data(
+    conn: sqlite3.Connection,
+    server: xmlrpc.client.ServerProxy,
+    site: str
+) -> None:
+    """
+    Fetches and stores additional site-wide data like categories.
+    
+    Args:
+        conn: SQLite database connection.
+        server: The authenticated ServerProxy instance.
+        site: The Wikidot site name.
+    """
+    logger.info("Fetching additional site-wide data for site '%s'", site)
+    
+    # Fetch and store category information
+    try:
+        categories = fetch_all_categories(site, server)
+        logger.info("Found %d categories for site '%s'", len(categories), site)
+        insert_categories(conn, site, categories)
+        conn.commit()
+        logger.info("Successfully stored categories for site '%s'", site)
+    except Exception as e:
+        logger.error("Error fetching or storing categories for site '%s': %s", site, e)
+        conn.rollback()
+
+
+def process_page_additional_data(
+    conn: sqlite3.Connection,
+    server: xmlrpc.client.ServerProxy,
+    site: str,
+    page_name: str
+) -> None:
+    """
+    Fetches and stores additional data for a specific page (files, comments).
+    
+    Args:
+        conn: SQLite database connection.
+        server: The authenticated ServerProxy instance.
+        site: The Wikidot site name.
+        page_name: The full page name to process.
+    """
+    logger.debug("Processing additional data for page '%s' on site '%s'", page_name, site)
+    
+    # 1. Process file metadata
+    try:
+        file_names = fetch_page_files(site, server, page_name)
+        if file_names:
+            logger.debug("Found %d files for page '%s'", len(file_names), page_name)
+            
+            # Process files in chunks of 10 (API limitation)
+            for i in range(0, len(file_names), 10):
+                file_chunk = file_names[i:i+10]
+                files_meta = fetch_files_meta(site, server, page_name, file_chunk)
+                insert_files(conn, site, page_name, files_meta)
+                conn.commit()
+            
+            logger.debug("Successfully stored file metadata for page '%s'", page_name)
+    except Exception as e:
+        logger.error("Error processing file metadata for page '%s': %s", page_name, e)
+        conn.rollback()
+    
+    # 2. Process comments/posts
+    try:
+        comment_ids = fetch_page_comments(site, server, page_name)
+        if comment_ids:
+            logger.debug("Found %d comments for page '%s'", len(comment_ids), page_name)
+            
+            # Process comments in chunks of 10 (API limitation)
+            for i in range(0, len(comment_ids), 10):
+                comment_chunk = comment_ids[i:i+10]
+                comments_data = fetch_comments_data(site, server, comment_chunk)
+                insert_comments(conn, site, page_name, comments_data)
+                conn.commit()
+            
+            logger.debug("Successfully stored comments for page '%s'", page_name)
+    except Exception as e:
+        logger.error("Error processing comments for page '%s': %s", page_name, e)
+        conn.rollback()
 
 
 def process_single_page(
@@ -513,6 +956,10 @@ def process_single_page(
             page_name,
             site,
         )
+
+        # 4. Process additional data for the page (files, comments)
+        process_page_additional_data(conn, server, site, page_name)
+
         return True  # Successfully processed
 
     except sqlite3.Error as e:
@@ -533,17 +980,157 @@ def process_single_page(
         return False  # Failed to process
 
 
+def process_site(
+    conn: sqlite3.Connection,
+    server: xmlrpc.client.ServerProxy,
+    site: str,
+) -> None:
+    """
+    Processes a single site, fetching and updating all its pages and related data.
+    
+    Args:
+        conn: SQLite database connection.
+        server: The authenticated ServerProxy instance.
+        site: The Wikidot site name to process.
+    """
+    # Start measuring site processing time
+    site_start_time = time.time()
+    logger.info("=== Processing site: %s ===", site)
+    all_pages: List[str] = []
+    try:
+        all_pages = select_all_pages(site, server)
+        total_pages = len(all_pages)
+        logger.info("Found %d pages for site '%s'.", total_pages, site)
+        if total_pages == 0:
+            logger.warning("No pages found for site '%s'. Skipping.", site)
+            return
+    except Exception as e:
+        # Catch errors from select_all_pages if retries fail
+        logger.error(
+            "Failed to retrieve page list for site '%s' after retries: %s", site, e
+        )
+        logger.warning(
+            "Skipping site '%s' due to page list retrieval failure.", site
+        )
+        return  # Skip to the next site
+
+    # Process additional site-wide data (categories)
+    process_site_additional_data(conn, server, site)
+
+    processed_count = 0
+    updated_count = 0
+    skipped_count = 0
+    failed_count = 0
+
+    # Process pages in chunks
+    for i in range(0, total_pages, CHUNK_SIZE):
+        chunk_start_time = time.time()  # Start measuring chunk processing time
+        chunk = all_pages[i : i + CHUNK_SIZE]
+        logger.info(
+            "Processing chunk %d/%d for site '%s' (%d pages)",
+            (i // CHUNK_SIZE) + 1,
+            (total_pages + CHUNK_SIZE - 1) // CHUNK_SIZE,
+            site,
+            len(chunk),
+        )
+
+        # Get metadata for the current chunk
+        meta_info: Dict[str, Dict[str, Any]] = {}
+        try:
+            meta_info = get_pages_meta(site, server, chunk)
+        except Exception as e:
+            # Catch errors from get_pages_meta if retries fail
+            logger.error(
+                "Failed to get metadata for chunk on site '%s' after retries: %s",
+                site,
+                e,
+            )
+            logger.warning(
+                "Skipping this chunk (%d pages) for site '%s'.", len(chunk), site
+            )
+            failed_count += len(chunk)  # Count all in chunk as failed
+            processed_count += len(chunk)
+            continue  # Skip this chunk
+
+        # Process each page within the chunk using metadata
+        for page_name in chunk:
+            processed_count += 1
+            meta = meta_info.get(page_name)
+
+            if not meta:
+                logger.warning(
+                    "Metadata missing for page '%s' in chunk on site '%s'. Skipping.",
+                    page_name,
+                    site,
+                )
+                failed_count += 1
+                continue  # Skip page if no metadata retrieved
+
+            # Call the helper function to process this single page
+            try:
+                success = process_single_page(conn, server, site, page_name, meta)
+                if success:
+                    updated_count += 1
+                else:
+                    # Skipped (no change, deleted, or failed fetch/DB update)
+                    skipped_count += 1  # Count includes no-change, deleted, failed
+            except Exception as e:
+                # Catch unexpected errors from process_single_page itself (should be rare)
+                logger.exception(
+                    "Unexpected error processing page '%s' on site '%s' in main loop: %s",
+                    page_name,
+                    site,
+                    e,
+                    exc_info=True,
+                )
+                failed_count += 1
+
+            # Log progress periodically
+            if processed_count % 50 == 0 or processed_count == total_pages:
+                logger.info(
+                    "Site '%s': Processed %d/%d pages...",
+                    site,
+                    processed_count,
+                    total_pages,
+                )
+
+        # Calculate and log chunk processing time
+        chunk_elapsed = time.time() - chunk_start_time
+        pages_per_second = len(chunk) / chunk_elapsed if chunk_elapsed > 0 else 0
+        logger.info(
+            "Chunk processed in %.2f seconds (%.2f pages/sec)",
+            chunk_elapsed,
+            pages_per_second,
+        )
+
+    # Calculate and log site processing time
+    site_elapsed = time.time() - site_start_time
+    pages_per_second = (
+        total_pages / site_elapsed if site_elapsed > 0 and total_pages > 0 else 0
+    )
+
+    logger.info("=== Finished site: %s ===", site)
+    logger.info("  Total pages checked: %d", processed_count)
+    logger.info("  Pages updated/inserted: %d", updated_count)
+    logger.info(
+        "  Pages skipped (no change/deleted/failed): %d",
+        skipped_count + failed_count,
+    )
+    logger.info(
+        "  Site processing time: %.2f seconds (%.2f pages/sec)",
+        site_elapsed,
+        pages_per_second,
+    )
+
+
 def main() -> None:
     """
     Main execution function:
     1. Connects to the database and ensures tables exist.
     2. Connects to the Wikidot API.
     3. Iterates through each site defined in SITES.
-    4. Fetches all page names for the site.
-    5. Processes pages in chunks:
-       a. Fetches metadata for the chunk.
-       b. For each page in the chunk, calls process_single_page.
-    6. Logs progress and completion.
+    4. Processes each site including pages and additional data.
+    5. Logs progress and completion.
     """
     # Start measuring total execution time
     start_time_total = time.time()
@@ -588,141 +1175,11 @@ def main() -> None:
 
     # --- Site Processing Loop ---
     for site in SITES:
-        # Start measuring site processing time
-        site_start_time = time.time()
-        logger.info("=== Processing site: %s ===", site)
-        all_pages: List[str] = []
         try:
-            all_pages = select_all_pages(site, server)
-            total_pages = len(all_pages)
-            logger.info("Found %d pages for site '%s'.", total_pages, site)
-            if total_pages == 0:
-                logger.warning("No pages found for site '%s'. Skipping.", site)
-                continue
+            process_site(conn, server, site)
         except Exception as e:
-            # Catch errors from select_all_pages if retries fail
-            logger.error(
-                "Failed to retrieve page list for site '%s' after retries: %s", site, e
-            )
-            logger.warning(
-                "Skipping site '%s' due to page list retrieval failure.", site
-            )
-            continue  # Skip to the next site
-
-        processed_count = 0
-        updated_count = 0
-        skipped_count = 0
-        failed_count = 0
-
-        # Process pages in chunks
-        for i in range(0, total_pages, CHUNK_SIZE):
-            chunk_start_time = time.time()  # Start measuring chunk processing time
-            chunk = all_pages[i : i + CHUNK_SIZE]
-            logger.info(
-                "Processing chunk %d/%d for site '%s' (%d pages)",
-                (i // CHUNK_SIZE) + 1,
-                (total_pages + CHUNK_SIZE - 1) // CHUNK_SIZE,
-                site,
-                len(chunk),
-            )
-
-            # Get metadata for the current chunk
-            meta_info: Dict[str, Dict[str, Any]] = {}
-            try:
-                meta_info = get_pages_meta(site, server, chunk)
-            except Exception as e:
-                # Catch errors from get_pages_meta if retries fail
-                logger.error(
-                    "Failed to get metadata for chunk on site '%s' after retries: %s",
-                    site,
-                    e,
-                )
-                logger.warning(
-                    "Skipping this chunk (%d pages) for site '%s'.", len(chunk), site
-                )
-                failed_count += len(chunk)  # Count all in chunk as failed
-                processed_count += len(chunk)
-                continue  # Skip this chunk
-
-            # Process each page within the chunk using metadata
-            for page_name in chunk:
-                processed_count += 1
-                meta = meta_info.get(page_name)
-
-                if not meta:
-                    logger.warning(
-                        "Metadata missing for page '%s' in chunk on site '%s'. Skipping.",
-                        page_name,
-                        site,
-                    )
-                    failed_count += 1
-                    continue  # Skip page if no metadata retrieved
-
-                # Call the helper function to process this single page
-                try:
-                    success = process_single_page(conn, server, site, page_name, meta)
-                    if success:
-                        updated_count += 1
-                    else:
-                        # Skipped (no change, deleted, or failed fetch/DB update)
-                        # process_single_page logs specifics, here we just count overall skips/fails
-                        # We can't easily distinguish between skipped-no-change and skipped-due-to-error
-                        # without more return values, but this simplifies main loop.
-                        skipped_count += 1  # Count includes no-change, deleted, failed
-                except Exception as e:
-                    # Catch unexpected errors from process_single_page itself (should be rare)
-                    logger.exception(
-                        "Unexpected error processing page '%s' on site '%s' in main loop: %s",
-                        page_name,
-                        site,
-                        e,
-                        exc_info=True,
-                    )
-                    failed_count += 1
-
-                # Log progress periodically
-                if processed_count % 50 == 0 or processed_count == total_pages:
-                    logger.info(
-                        "Site '%s': Processed %d/%d pages...",
-                        site,
-                        processed_count,
-                        total_pages,
-                    )
-
-            # Calculate and log chunk processing time
-            chunk_elapsed = time.time() - chunk_start_time
-            pages_per_second = len(chunk) / chunk_elapsed if chunk_elapsed > 0 else 0
-            logger.info(
-                "Chunk processed in %.2f seconds (%.2f pages/sec)",
-                chunk_elapsed,
-                pages_per_second,
-            )
-
-            # Optional: Commit transactions periodically per chunk if not using 'with conn:' inside helper
-            # try:
-            #     conn.commit()
-            # except sqlite3.Error as e:
-            #     logger.error("DB commit error after chunk on site '%s': %s", site, e)
-
-        # Calculate and log site processing time
-        site_elapsed = time.time() - site_start_time
-        pages_per_second = (
-            total_pages / site_elapsed if site_elapsed > 0 and total_pages > 0 else 0
-        )
-
-        logger.info("=== Finished site: %s ===", site)
-        logger.info("  Total pages checked: %d", processed_count)
-        logger.info("  Pages updated/inserted: %d", updated_count)
-        logger.info(
-            "  Pages skipped (no change/deleted/failed): %d",
-            skipped_count + failed_count,
-        )
-        logger.info(
-            "  Site processing time: %.2f seconds (%.2f pages/sec)",
-            site_elapsed,
-            pages_per_second,
-        )
-        # Note: skipped_count implicitly includes failed_count based on current logic. Clarify if needed.
+            logger.error("Error processing site '%s': %s", site, e)
+            logger.warning("Continuing with next site...")
 
     # --- Cleanup ---
     if conn:

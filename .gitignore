@@ -174,7 +174,8 @@ cython_debug/
 .pypirc
 
 # SQLite DB
-scp_data.sqlite
+data/
+*.sqlite
 
 # Repomix output
 repomix-output.txt
