@@ -366,9 +366,16 @@ def fetch_comments_data(
         A dictionary where keys are comment IDs and values are comment data dictionaries.
     """
     logger.debug("Fetching data for %d comments on site %s", len(comment_ids), site)
+    
+    # Ensure comment_ids are all strings
+    comment_ids_str = [str(comment_id) for comment_id in comment_ids]
+    
+    # API debug log
+    logger.debug("Sending API request with posts: %s", comment_ids_str)
+    
     return cast(
         Dict[str, Dict[str, Any]], 
-        server.posts.get({"site": site, "posts": comment_ids})
+        server.posts.get({"site": site, "posts": comment_ids_str})
     )
 
 
