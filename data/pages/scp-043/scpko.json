@@ -1,0 +1,18 @@
+{
+  "title": "SCP-043",
+  "content": "[[include info:start]]\n**SCP-043:** 비틀\n**저자:** 작자 미상\n**원작:** http://www.scp-wiki.net/scp-043 \n**역자:** [[*user Salamander724]]\n----\n**파일명:** whitealbum-new.jpg\n**저작권자:** [[*user elenee fishtruck]]\n**원본:** Three White Albums\n**원저작자:** Rudi Riet\n**라이선스:** CC BY-SA 2.0\n**출처:** [https://www.flickr.com/photos/rudiriet/3919843157/ 링크]\n[[include info:end]]\n\n[[include component:image-block name=http://scp-wiki.wdfiles.com/local--files/scp-043/whitealbum-new.jpg|caption=앨범자켓 속에 들어있는 SCP-043.]]\n\n**일련번호:** SCP-043\n\n**등급:** 안전\n\n**특수 격리 절차:** SCP-043은 특별한 격리 방법이 요구되지 않으나, 실험 이외의 목적으로 사용하지 않는 것이 권고된다. 재생시 사용하는 턴테이블은 실험 장소와 같은 곳에 두고 관리한다.\n\n**설명:** SCP-043은 비틀즈의 《화이트 앨범》 비닐 레코드 음반이다. 하지만 자세히 살펴보면 음반에 홈이 새겨져 있지 않다. 즉 아무것도 기록되어있지 않는데, 바늘 시작 위치가 어디건 상관없이 처음부터 끝까지 재생이 가능하다.\n\n29번째 곡 차례가 되면 원래 수록곡인 〈레볼루션 9〉이 재생되지 않고 음반의 회전이 멈추면서 희미한 숨소리가 들린다. 가끔 그 숨소리의 주인으로 추측되는 존재가 남성의 목소리로 말을 한다. 그 존재는 질문을 받으면 대답도 하는데, 음악 산업, [[[SCP-1668|음악 이론]]], 수많은 밴드와 가수들에 대한 사소한 정보에 대해 백과사전적 지식을 가지고 있다. 그러나 [[[bigger-than-jesus|비틀즈에 대한 질문]]]이나 존재 자신에 대한 질문을 하면 대답하기를 거부한다.\n\n레코드 재킷 속에서 손글씨로 쓴 작은 쪽지가 발견되었는데, 내용은 다음과 같다.\n\n> //한정판: 1/1//\n> \n> //고마워요, 존!//\n> \n> //xxx//",
+  "tags": [
+    "en",
+    "scp",
+    "매체",
+    "안전",
+    "지성",
+    "지식"
+  ],
+  "author": "Salamander724",
+  "created_at": "2012-11-16T01:16:23+00:00",
+  "updated_at": "2024-11-06T07:20:13+00:00",
+  "rating": 7,
+  "_site": "scpko",
+  "_fullname": "scp-043"
+}

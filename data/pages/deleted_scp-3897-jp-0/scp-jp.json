@@ -1,0 +1,11 @@
+{
+  "title": "SCP-3897-JP Hub",
+  "content": "[[module CSS]]\n.fakeprot .mailform-box .buttons{display:none;}\n.fakeprot + .collapsible-block .collapsible-block-link {padding: 0.1em 0.5em;text-decoration: none;background-color: #F4F4F4;border: 1px solid #AAA;color: #000;}\n.fakeprot + .collapsible-block .collapsible-block-link:hover {background-color: #DDD;color: #000;}\n.fakeprot + .collapsible-block .collapsible-block-link:active {background-color: #DDD;color: #000;}\n.fakeprot + .collapsible-block .collapsible-block-unfolded-link{margin:0.5em 0;text-align: center;}\n.fakeprot + .collapsible-block .collapsible-block-folded{margin:0.5em 0;text-align: center;}\n.fakeprot .passw input[type=text] {text-security:disc;-webkit-text-security:disc;-mox-text-security:disc;}\n.mailform-box td:first-child {width: 80px;}\n[[/module]]\n\nようこそ、SCP-3897-JP閲覧ハブへ。ユーザー。\nIDとパスワードを入力してください。\n\n[[div class=\"fakeprot\"]]\n[[module MailForm to=\"aaaa (DUMMY)\" button=\"\"]]\n# name\n * title: ID\n * default: Sakura.scpjpnet.jp\n * type: text\n * rules:\n  * required: true \n  * maxLength:10\n  * minLength: 100\n[[/module]]\n[[div class=\"passw\"]]\n[[module MailForm to=\"aaaa (DUMMY)\" button=\"\"]]\n# affiliation\n * title: PASSWORD\n * default: ・・・・・・・・・\n * rules:\n  * required: true \n  * maxLength:10\n  * minLength: 100\n[[/module]]\n[[/div]]\n[[/div]]\n[[collapsible show=\"Login\" hide=\"Logout\"]]\n\n[[div style=\"background: url(https://kaktuskontainer.wdfiles.com/local--files/format-hell/scp_trans.png) bottom center no-repeat; text-align: center; width: 600px; margin: 0 auto; font-size: 20px; padding: 0px;\"]]\n\n@@ @@\n@@ @@\n\n@@ @@\n\n@@ @@\n\n[[=]]\n++* ##black| レベル5/3897JPレベルのセキュリティクリアランスを認証##\n##black|アクセスは成功しました。##\n[[/=]]\n= **##black|SCP財団日本支部##**\n\n@@ @@\n\n@@ @@\n\n[[/div]]\n\nようこそ。桜　様。\n閲覧可能なページは以下の通りです。\n[[[http://scp-jp.wikidot.com/scp-3897-jp | 低レベルセキュリティクリアランス向け報告書]]]\n[[[http://scp-jp.wikidot.com/scp-3897-jp-2 | レベル3セキュリティクリアランス向け報告書]]]\n[[[http://scp-jp.wikidot.com/scp-3897-jp-3 | レベル4セキュリティクリアランス向け報告書]]]\n[[[http://scp-jp.wikidot.com/scp-3897-jp-x | O5または日本支部理事会向け報告書]]]\n[[/collapsible]]",
+  "tags": [],
+  "author": "astroneo",
+  "created_at": "2024-07-27T09:25:14+00:00",
+  "updated_at": "2024-08-02T01:12:48+00:00",
+  "rating": -30,
+  "_site": "scp-jp",
+  "_fullname": "deleted:scp-3897-jp-0"
+}

@@ -1,0 +1,19 @@
+{
+  "title": "SCP-4943",
+  "content": "[[include :scp-wiki:theme:black-highlighter-theme]]\n[[include :scp-wiki:component:bhl-dark-sidebar]]\n[[module CSS]]\ndiv#header {\n    background-image: url(https://scp-wiki.wdfiles.com/local--files/attilas-author-page/humble_logo.svg);\n}\n[[/module]]\n\n[[>]]\n[[module Rate]]\n[[/>]]\n\n\n[[include :scp-wiki:component:classified-bar-woed\n    lv=2 |\n    item=4943|\n    oc=SAFE|\n    lang=EN\n]]\n\n----\n\n**Special Containment Procedures:** Microsoft Corporation has issued a patch to remove SCP-4943 from all Windows 10 machines. MTF Sigma-5 (\"'; DROP TABLE taskforces @@--@@\") is responsible for monitoring and suppressing discussion of SCP-4943 in online forums.\n\n**Description:** SCP-4943 is a patch for Windows 10 operating system pushed by the Windows Update Service on December 13, 2019. Microsoft Corporation has claimed no involvement in its development; further investigation indicated that the patch had been issued by an unknown third party that had compromised Microsoft's internal network.\n\nSCP-4943-1 is a type of service process created when a user makes physical contact with a machine running SCP-4943 or a connected peripheral device[[footnote]]Such as a mouse or keyboard.[[/footnote]]. This has not been observed to affect the user in question. SCP-4943-1 instances display signs of sentience and identify themselves as the user corresponding to their creation. While the mechanisms behind these processes are not yet fully understood, they appear to be dependent on a series of registry keys initialized during their creation; deleting or editing these keys consistently causes the corresponding instance to terminate. Instances are run under the LocalService account and have been observed creating and editing files to communicate.\n\nSCP-4943-1 instances are highly unstable; 71% of instances used in testing crashed due to a fatal error within 6 hours of runtime.\n\n**Addendum:** SCP-4943 was discovered after the Site-██ IT department was alerted to suspicious network traffic originating from a system in the Site-██ cafeteria used to order breakfast sandwiches. Logs indicate that SCP-4943 had been automatically installed on the machine earlier that day. While logs indicate up to 76 SCP-4943-1 processes had been present on the machine, no active instances were detected at the time of investigation.\n\n\nThe following are a series of files and logs recovered from that system.\n\n[!--\nfragments:\nhttps://scp-wiki.wikidot.com/fragment:scp-4943-0\nhttps://scp-wiki.wikidot.com/fragment:scp-4943-1\n--]\n[[module ListPages category=\"fragment\" parent=\".\" order=\"created_at\" limit=\"1\" offset=\"@URL|0\"]]\n%%content%%\n[[/module]]\n\nPersonnel believed to have corresponding SCP-4943-1 instances were briefly quarantined after their discovery. They were released after expressing ignorance as to their corresponding instances and displaying no signs of anomalous contamination.\n\n[[footnoteblock]]\n\n[[div class=\"footer-wikiwalk-nav\"]]\n[[=]]\n<< [[[SCP-4942]]] | SCP-4943 | [[[SCP-4944]]] >>\n[[/=]]\n[[/div]]\n\n[[include :scp-wiki:component:license-box]]\n[!-- N/A (No Images)  --]\n[[include :scp-wiki:component:license-box-end]]",
+  "tags": [
+    "_licensebox",
+    "_listpages",
+    "computer",
+    "director-bold",
+    "electronic",
+    "safe",
+    "scp"
+  ],
+  "author": "Attila the Pun",
+  "created_at": "2019-12-20T18:08:52+00:00",
+  "updated_at": "2022-10-08T21:01:42+00:00",
+  "rating": 117,
+  "_site": "scp-wiki",
+  "_fullname": "scp-4943"
+}

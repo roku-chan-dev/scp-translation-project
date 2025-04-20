@@ -1,0 +1,14 @@
+{
+  "title": "데반 박사의 작가 페이지",
+  "content": "[[div class=\"wiki-note\" style=\"padding: 0.3em 1em;\"]]\n[[span style=\"font-size: 1.2em;\"]]데반 박사의 연구소에 입장하기 위해서는 아래 서식을 채워주시기 바랍니다.[[/span]]\n[[/div]]\n\n**주의사항:** 데반 박사는 당신의 개인정보를 필요로하지 않습니다. 만약 실명이나 개인정보등을 기입하신다고 하셔도 그에 대한 책임을 데반 박사는 결코 지지 않습니다.\n\n//주석: 데반 박사에게 연락할 일이 있을때도 이 서류를 작성하시면 됩니다.//\n\n[[div class=\"mailform\"]]\n\n++ 데반 연구소 입장 서류\n\n[[module MailForm to=\"Dr Devan\" button=\"제출\" successPage=\"devan-s-lab\" title=\"데반의 연구소 입장 서류\"]]\n# name\n * title: 암호명\n * type: text\n * rules:\n  * required: true \n# affiliation\n * title: 부서\n * hint: 없으면 공란으로 기입하시오\n# field_name \n * title: 성별\n * type: select\n * default: male\n * options:\n  * male: 남성\n  * female: 여성\n  * goza: 고자\n  * etc: 기타\n# comments\n * type: textarea\n * title: 용무\n * hint: 500자 이내로 기재하시오\n * rules:\n  * maxLength: 500\n[[/module]]\n[[/div]]\n\n[[module css]]\nh2#toc0 {\n\ttext-align: center;\n\tmargin-bottom: 1.5em;\n}\n\n.mailform {\n\tborder: 1px solid silver; \n\tbackground-color: #eeeeee;\n\tborder-radius: 1em;\n\tmargin-top: 3em;\n\tpadding: 1em 0 1em 0;\n}\n[[/module]]",
+  "tags": [
+    "ko",
+    "작가"
+  ],
+  "author": "Dr Devan",
+  "created_at": "2013-09-27T06:53:32+00:00",
+  "updated_at": "2015-05-04T17:34:18+00:00",
+  "rating": 4,
+  "_site": "scpko",
+  "_fullname": "devan-s-author-page"
+}

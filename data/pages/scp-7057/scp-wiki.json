@@ -1,0 +1,21 @@
+{
+  "title": "SCP-7057",
+  "content": "[[div]]\n[[include :scp-wiki:info:start]]\n[[=]]\n**SCP-7057: A Person?**\nHello! I’m back again with another SCP! This time it’s //only// ~3k words so it was finished a bit faster 😉\n\nThis one is kinda to make sure 7805 has almost zero redacteds (lol), but it's also my attempt at making an EVERSOR skip. Hope y’all enjoy!\n[[/=]]\n[[include :scp-wiki:info:end]]\n[[/div]]\n[[module ListPages category=\"fragment\" parent=\".\" order=\"created_at\" limit=\"1\" offset=\"@URL|0\"]]\n%%content%%\n[[/module]]\n\n[[include :scp-wiki:component:license-box]]\n[!-- N/A (No Images)  --]\n[[include :scp-wiki:component:license-box-end]]",
+  "tags": [
+    "_licensebox",
+    "_listpages",
+    "ethics-committee",
+    "euclid",
+    "extradimensional",
+    "genetic",
+    "humanoid",
+    "metamorphic",
+    "scp"
+  ],
+  "author": "FacelessPolarBear",
+  "created_at": "2022-09-17T07:34:35+00:00",
+  "updated_at": "2022-12-21T18:56:58+00:00",
+  "rating": 22,
+  "_site": "scp-wiki",
+  "_fullname": "scp-7057"
+}

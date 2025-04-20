@@ -1,0 +1,18 @@
+{
+  "title": "SCP-7936",
+  "content": "[[include theme:black-highlighter-theme]]\n[[include :scp-wiki:component:pride-highlighter |inc-tg-alt= --]]]\n\n[[include component:info-ayers\n|page=scp-7936\n|authorPage=\n|comments=灵感源自一场梦。感谢[[*user Yossipossi]]和[[*user FLOORBOARDS]]的反馈。\n]]\n\n------\n\n[[include component:anomaly-class-bar-source\n|lang=cn\n|item-number= 7936\n|clearance= 3\n|container-class= keter\n|secondary-class= \n|disruption-class= ekhi\n|risk-class= 危险\n]]\n\n------\n\n**特殊收容措施：**将SCP-7936实例捏造为现存天体，并发表研究解释其奇特颜色。将实例转移至地表收容站点的尝试正在进行中。\n\n**描述：**SCP-7936指位于近地轨道的三百五十二具人类尸体， 于2029年12月3日自发出现。其中大多实例都与海难事件有关，尤以溺水为著。实例均呈分解后期状态，由于近地轨道的氧气减少而停止分解。\n\n每一实例都持有，或以其他方式附有一只异常//Stauroteuthis syrtensis//（荧光吸盘章鱼），它们从发光腺中发出的荧光亮度高于正常水平。每只章鱼的视星等在最亮时可达2.456，使得它们在地球上的大多数夜空中都能看到。除了蓝绿的色泽和尸体四肢偶尔产生的阴影外，无法与非异常恒星相区分。\n\n对SCP-7936实例的原埋葬地进行挖掘后，没有找到遗骸。对个人记录的检查没有发现任何异常，不过，在寻获的驾照中，一个星形符号出现在器官捐赠者标记旁。\n _\n\n----\n[[=]]\n++ 附录.7936.1\n+++ {{面纱失效}}\n[[/=]]\n----\n\n成功将SCP-7936的其中五具实例从近地轨道转移到地面收容站后，因情况变得复杂而无法继续。以下为2029/12/13回收实例“Nadia Hovhannisyan”的失败记录。\n\n[[div class=\"blockquote\"]]\n= [[size 125%]]**<收容记录.7936>**[[/size]]\n\n@@ @@\n\n**{{日期：}}** 2029/12/13 | 03:12 - 03:30\n\n**{{相关人员：}}** Dr. Maria Lambert、Dr. Cassandra Alexander、Dr. Timur Akhtar、基金会“萨拉号”机载AI\n\n**{{站点：}}**基金会“萨拉号”轨道飞行器\n\n**{{任务：}}**从近地轨道回收SCP-7936实例“Nadia Hovhannisyan”，以及附着其上的//Stauroteuthis syrtensis//标本。为将SCP-7936的异常光芒对视力的损伤降到最低，萨拉号上的所有操作员均为盲人。\n@@ @@\n\n----\n= **{{<记录开始>}}**\n----\n\n@@ @@\n\n**[03:12]** 萨拉号船员抵达实例所在地，备好医疗舱和改装动物控制单元。\n\n\n**[03:17]** Lambert利用萨拉号延长臂对实例进行回收。\n\n**[03:18]** Akhtar开始在船上医疗舱对尸体进行卫生处理；Nadia Hovhannisyan已被证实死亡，//syrtensis//标本被证实存活且不合作。\n\n**[03:20]** 标本在关进其收容单元时即停止发光。萨拉号AI将这一信息告知船员。 \n\n**[03:21]** 标本开始从发光腺中发出闪光，其间有不规则的停顿。Alexander意识到可能为摩斯电码，并开始解码尝试。\n\n**[03:22]** 在AI解码的同时，Akhtar开始对Nadia Hovhannisyan进行尸检。 \n\n**[03:23]** 闪光顺序完全重复。Alexander用恼怒的口气称它不符合摩斯电码，Akhtar认为这一信息可能遭到加密，或以其他方式混淆了。 \n\n**[03:29]** Alexander破译信息的尝试仍然没有产生任何有价值的结果。随着这一过程的第四次重复，她向前伸手抓住了密封装置的栅栏。Akhtar上前干预，离开了解剖到一半的手术台。 \n\n**[03:30]** 在Akhtar与Alexander交谈之时，Nadia Hovhannisyan的尸体突然活动起来，从桌后看着他们，直到两人注意到尸体抬起了头，此时，萨拉号内灯光俱灭，机载设备检测到一句不明的“嘘”声。与此同时，Site-24、Site-47、Area-89、Site-107地面收容设施的所有光源熄灭。\n\n@@ @@\n\n----\n= **{{<记录结束>}}**\n----\n\n@@ @@\n[[/div]]\n\n所有受SCP-7936影响设备的修复尝试均以失败告终，其中许多需要重新整体更换。暂停回收任务，直到新的收容措施出台。\n\n据大西洋临时深海设施Area-89报告，受SCP-7936影响，当地非异常//Stauroteuthis syrtensis//活跃度大幅增加，但站点人员表示，它们的生物发光以及因此而产生的种群数量此前被该地区的光输出所掩盖。派往大西洋表面的人员报告称夜空更暗了，星星也更明显了。\n\n@@@@\n@@@@\n[[footnoteblock]]\n\n[[div class=\"footer-wikiwalk-nav\"]]\n[[=]]\n<< [[[SCP-7935]]] | SCP-7936 | [[[SCP-7937]]] >>\n[[/=]]\n[[/div]]\n\n[[module CSS]]\n/*Table in second addendum.*/\n.council .wiki-content-table tr td {text-align: center; background-color: rgb(255,255,255,.75);}\n\n/* Rating module spacing. */\n.page-rate-widget-box {\n  margin: 20px 0;\n}\n\n/*Info bar adjustments.*/\n:root {\n  --barColour: #590505;\n}\n.info-container .collapsible-block-content {\n  text-align: center;\n}\n.info-container hr {\n  max-width: 300px;\n  margin: 50px auto;\n  background-color: rgb(48, 48, 52);\n  clip-path: polygon(0% .25em, .25em 0%, calc(100% - .25em) 0%, 100% .25em, 100% calc(100% - .25em), calc(100% - .25em) 100%, .25em 100%, 0% calc(100% - .25em));\n  height: 7px;\n}\n#u-author_block a {\n  color: #FFF;\n  background-color: rgb(48, 48, 52);\n}\n.u-faq p:nth-child(1) {\n  line-height: 0;\n}\n[[/module]]",
+  "tags": [
+    "keter",
+    "scp",
+    "光照影响",
+    "头足类动物",
+    "尸体",
+    "星际"
+  ],
+  "author": "Hg-lab",
+  "created_at": "2022-12-05T10:59:32+00:00",
+  "updated_at": "2023-03-13T04:07:51+00:00",
+  "rating": 5,
+  "_site": "scp-wiki-cn",
+  "_fullname": "scp-7936"
+}

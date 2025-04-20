@@ -1,0 +1,23 @@
+{
+  "title": "SCP-7229",
+  "content": "[[include :scp-wiki:info:start]]\n**SCP-7229:** **L**ost **E**ternally **A**midst **P**rofound **Year**ning\n**Author:** [[*user JorgeMtzb]]\n**Special Thanks to:** [[*user ExiAsWell]], [[*user Zoobeeny]] [[*user Dreamer]], [[*user Jiwoahn]], [[*user Iszth]], [[*user RadiantGold]], [[*user SoundChaser]], [[*user Rab333]], [[*user Teebonesnek]]  who helped with some constructive criticism and help with the proofreading of this article, this couldn't have been done without yall! Thanks, to everyone in the IRC chat and in this wonderful community.\n[[module ListUsers users=\".\"]]\n**But most important of them all...**\n**Special Thanks to:**  You!!! %%title%%, for reading my article. ^-^\n[[/module]]\n[[include :scp-wiki:info:end]]\n\n\n[[include :scp-wiki:component:pride-highlighter |inc-s9-plgbt-alt= --]]]\n\n[[include :scp-wiki:component:author-label-source start=--\n|name=JorgeMtzb]]\nHello, it is me! [[*user JorgeMtzb]] Here I come with another SCP. This was an idea that I had a while back and it has finally come to fruition. Hopefully, you all enjoy reading it as much as I enjoyed writing it!\n[[include :scp-wiki:component:author-label-source end=--]]\n\n\n[[module ListPages category=\"fragment\" parent=\".\" order=\"created_at\" limit=\"1\" offset=\"@URL|0\"]]\n%%content%%\n[[/module]]\n\n\n[!-- https://scp-wiki.wikidot.com/fragment:scp-7229-0 --]\n[!-- https://scp-wiki.wikidot.com/fragment:scp-7229-1 --]\n[!-- https://scp-wiki.wikidot.com/fragment:scp-7229-2 --]\n[!-- https://scp-wiki.wikidot.com/fragment:scp-7229-3 --]\n[!-- https://scp-wiki.wikidot.com/fragment:scp-7229-4 --]\n\n\n\n[[include component:wikimodule |ratings= --]]]\n\n[[div class=\"footer-wikiwalk-nav\"]]\n[[=]]\n<< [[[SCP-7228]]] | SCP-7229 | [[[SCP-7230]]] >>\n[[/=]]\n[[/div]]\n[[include :scp-wiki:component:license-box |author=JorgeMtzb]]\n[[include :scp-wiki:component:license-box-end]]",
+  "tags": [
+    "_licensebox",
+    "_listpages",
+    "apollyon",
+    "empathic",
+    "extradimensional",
+    "hostile",
+    "intangible",
+    "reality-bending",
+    "sapient",
+    "scp",
+    "telepathic"
+  ],
+  "author": "JorgeMtzb",
+  "created_at": "2023-05-16T14:49:16+00:00",
+  "updated_at": "2023-12-09T18:23:55+00:00",
+  "rating": 62,
+  "_site": "scp-wiki",
+  "_fullname": "scp-7229"
+}

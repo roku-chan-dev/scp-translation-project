@@ -1,0 +1,28 @@
+{
+  "title": "SCP-3002",
+  "content": "[[>]]\n[[module Rate]]\n[[/>]]\n\n[!--このページの編集は各付属ページを表示するコードを鮮やかに破壊するおそれがあります。エラーを発見された方がいらっしゃいましたら、著者（私）宛にメッセージを送るかディスカッションページにコメントしてください。--]\n\n[[module ListPages  category=\"fragment\" parent=\".\" limit=\"1\" order=\"created_at\" offset=\"@URL|0\"]]\n%%content%%\n[[/module]]\n\n[!-- 翻訳者の方のために各付属ページへのリンクを貼っておきます。--]\n[!-- http://www.scp-wiki.net/fragment:3000tretter-1 --]\n[!-- http://www.scp-wiki.net/fragment:3000tretter-2 --]\n[!-- http://www.scp-wiki.net/fragment:3000tretter-3 --]\n[!-- http://www.scp-wiki.net/fragment:3000tretter-4 --]\n[!--ListPagesを正常に機能させるためには、まずこのメインページを作成した後に一番目の付属ページをアップロードし、メインページに親ページ設定を行ってください。各付属ページで同様にします。各付属ページの最後にあるoffsetリンクをあなたのサイトへのリンクに変えることを忘れないでください。--]",
+  "tags": [
+    "3000",
+    "en",
+    "k-クラスシナリオ",
+    "keter",
+    "scp",
+    "ミーム",
+    "メタ",
+    "人間型",
+    "情報災害",
+    "未収容",
+    "概念",
+    "知性",
+    "精神影響",
+    "記憶影響",
+    "財団製",
+    "適応"
+  ],
+  "author": "Red_Selppa",
+  "created_at": "2017-04-19T16:40:44+00:00",
+  "updated_at": "2021-01-10T16:47:47+00:00",
+  "rating": 150,
+  "_site": "scp-jp",
+  "_fullname": "scp-3002"
+}

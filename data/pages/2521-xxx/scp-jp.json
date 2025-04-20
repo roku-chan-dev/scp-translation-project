@@ -1,0 +1,16 @@
+{
+  "title": "●●|●●●●●|●●|●-xxx",
+  "content": "[[module CSS]]\n#page-title { \ndisplay: none; \n}\n\n.meta-title {\nborder-bottom: solid 1px #bbbbbb;\ncolor: #990011;\nfont-weight: normal;\nmargin: 0 0 0.6em;\npadding: 0 0 0.25em;\nfont-size: 200%;\n}\n\n.meta-title p {\nmargin: 0;\n}\n[[/module]]\n\n[!--\nhttp://scp-wiki.wikidot.com/fragment:2521-xxx-0\nhttp://scp-wiki.wikidot.com/fragment:2521-xxx-1\nhttp://scp-wiki.wikidot.com/fragment:2521-xxx-2\nhttp://scp-wiki.wikidot.com/fragment:2521-xxx-3\nhttp://scp-wiki.wikidot.com/fragment:2521-xxx-4\nhttp://scp-wiki.wikidot.com/fragment:2521-xxx-5\nhttp://scp-wiki.wikidot.com/fragment:2521-xxx-6\n--]\n\n[[module ListPages category=\"fragment\" parent=\".\" limit=\"1\" order=\"name\" offset=\"@URL|0\"]]\n[[div class=\"meta-title\"]]\n%%title%%\n[[/div]]\n[[/module]]\n\n[[>]]\n[[module rate]]\n[[/>]]\n[[module ListPages category=\"fragment\" parent=\".\" limit=\"1\" order=\"name\" offset=\"@URL|0\"]]\n\n%%content%%\n\n[[/module]]\n\n[!--\nhttp://ja.scp-wiki.net/fragment:2521-xxx-1\n--]",
+  "tags": [
+    "en",
+    "scp-2521",
+    "tale",
+    "アートワーク"
+  ],
+  "author": "Kasugai_Kanagu",
+  "created_at": "2019-01-28T00:17:46+00:00",
+  "updated_at": "2022-09-17T10:52:28+00:00",
+  "rating": 49,
+  "_site": "scp-jp",
+  "_fullname": "2521-xxx"
+}

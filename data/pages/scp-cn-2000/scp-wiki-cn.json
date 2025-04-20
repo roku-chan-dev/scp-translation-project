@@ -1,0 +1,21 @@
+{
+  "title": "SCP-CN-2000",
+  "content": "[[include :scp-wiki-cn:theme:black-highlighter-theme]]\n[[include :scp-wiki-cn:theme:ouroborous-theme]]\n\n[[>]]\n[[module Rate]]\n[[/>]]\n\n[[module ListPages category=\"fragment\" parent=\".\" limit=\"1\" order=\"name\" offset=\"@URL|0\"]]\n%%content%%\n[[/module]]\n\n[[footnoteblock]]\n\n[[div class=\"footer-wikiwalk-nav\"]]\n[[=]]\n<< [[[SCP-CN-1999]]] | SCP-CN-2000 | [[[SCP-CN-2001]]] >>\n[[/=]]\n[[/div]]",
+  "tags": [
+    "cn2000",
+    "scp",
+    "历史性",
+    "原创",
+    "强迫性",
+    "机密分级",
+    "混沌分裂者",
+    "爱蒂塔计划",
+    "精品"
+  ],
+  "author": "Re_spectators",
+  "created_at": "2021-02-17T12:25:52+00:00",
+  "updated_at": "2023-06-29T15:22:59+00:00",
+  "rating": 3357,
+  "_site": "scp-wiki-cn",
+  "_fullname": "scp-cn-2000"
+}

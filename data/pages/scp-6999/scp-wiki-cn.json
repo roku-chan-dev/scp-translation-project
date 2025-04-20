@@ -1,0 +1,28 @@
+{
+  "title": "SCP-6999",
+  "content": "[[include :scp-wiki-cn:theme:blankstyle]]\n[[module css]]\nbody{\n    --barColour: #3648a3;\n}\n\n:root{\n  --header-title: \"SCP基金会\";\n  --header-subtitle: \"控制，收容，保护\";\n}\n\ndiv#extra-div-1 {\n    background-image: url(https://scp-wiki.wdfiles.com/local--files/component:pride-highlighter/nb_logo_blk.svg);\n    filter: opacity(20%);\n}\n\n.meta-title {\n  border-bottom: solid 1px #bbbbbb;\n  color: #990011;\n  font-weight: normal;\n  margin: 0 0 0.6em;\n  padding: 0 0 0.25em;\n  font-size: 200%;\n}\n\n.meta-title p {\n  margin: 0;\n}\n\n.body-text {\n    margin: 2% 5% 2% 5%;\n    padding: 5px 20px 5px 20px;\n    background-color: #f2f2f2;\n    color: #111;\n}\n\n.quote-text {\n    display: inline-block;\n    border:dashed 1px #999999;\n    background:#F5F5F5;\n    float:center;\n    width:84%;\n    padding:1px 15px;\n    margin: 10px 10px 10px 30px\n}\n\n@media only screen and (max-width: 600px) {\n\n    .body-text {\n        margin: 0% 4% 0% 4%;\n    }\n\n    .quote-text {\n        margin: 10px 20px 10px 20px;\n    }\n\n}\n[[/module]]\n\n[[include :scp-wiki-cn:component:info-ayers\n|lang=cn\n|page=6999\n|authorPage=http://scp-wiki-cn.wikidot.com/elijah-martin-chevrolet-by-the-book\n|comments=\n\n= **SCP-6999** - 更近我主\n\n----\n\n= 作者Elogee FishTruck。为SCP-6000竞赛写就。\n]]\n\n**自：**O5-10\n**至：**人事**列表服务器**\n\n我想你可能对这音乐感到好奇。看附件。\n\n- O5-10\n\n[[include :scp-wiki:component:audio-player-woed-source\n|unique-name=hymn\n|audio-file=http://topia.wikidot.com/local--files/nearer-my-god-to-thee/hymn.mp3\n|background-color=rgb(252, 252, 252)\n|border-color=rgb(215, 215, 215)\n|border-radius=0.313rem\n|dropshadow-color=rgba(12, 12, 12, 0.15)\n|text-color=rgb(0, 8, 83)\n|icons-color=rgb(26, 26, 147)\n|player-color=rgb(215, 215, 215)\n|progress-color=rgb(0, 8, 83)\n]]\n\n[[div class=\"meta-title\"]]\nscp-6999.pdf\n[[/div]]\n\n[[div class=\"body-text\"]]\n[[include :scp-wiki:component:classified-bar-woed\n|lv=0\n|item=6999\n|oc=Safe\n|lang=CN\n|trans-level=级\n|trans-classified=机密\n]]\n\n[[div style=\"background-color:#3648a3\"]]\n[[=]]\n+ [[span style=\"color:white\"]]**{{次要等级：THAUMIEL}}**[[/span]]\n[[/=]]\n[[/div]]\n\n----\n\n[[include component:image-block name=https://scp-wiki.wdfiles.com/local--files/scp-6999/band-mk2.jpg|width=100%|align=center|caption=SCP-6999的一帧。]]\n\n**特殊收容措施：**基金会人员维护了一些电视广播塔，以便在全球传输SCP-6999。根据AISA项目协议，仅允许5级人员访问此文件。\n\n----\n\n**描述：**SCP-6999是一段时长三分钟、带有认知危害的视频，内容为由应用武力部交响乐团表演的《更近我主（Nearer, My God, To Thee）》。该视频能够影响自主神经系统和下丘脑-垂体-肾上腺轴线，抑制对压力源的或战或逃应激反应和调节皮质醇的分泌。\n\n经伦理委员会批准，O5议会委托模因与信息危害部为AISA项目开发SCP-6999。在演奏及录制之后，志愿研究员开始进行暴露测试。\n\n----\n\n**附录6999.1：**测试记录\n\n[[div class=\"quote-text\"]]\n\n**对象：**Chuck Ferguson博士\n\n**背景：**Ferguson在测试前七年与丈夫结婚，并在三年前收养了一名婴儿。尽管他报告说他对自己的婚姻状况与家庭满意度很高，其亲近朋友的证词也证实了这一点，但他经常强调他与儿子缺乏互动，并认为丈夫可能因此对他耿耿于怀。\n\n**结果：**Ferguson给他丈夫发送了短信，询问他们能否在当天晚些时候讨论一下情况。Ferguson报告了一次深入的、反思性的谈话，其内容涵盖了他们的关系史、家族历史和最喜欢的电视节目。其中，Ferguson的丈夫保证，鉴于Ferguson在政府的工作（见《家庭信息披露协议》），他对自己在儿子成长过程中的主导地位并不抱怨。不过，他还是建议雇佣一位保姆，Ferguson说他会考虑。\n----\n**对象：**Silvina Cortez特工\n\n**背景：**Cortez在大学毕业后从菲律宾移民至美国，而这一决定遭到了母亲的强烈抗议。随着她加入美国军队和随后的基金会工作，她与母亲的关系越来越疏远。Cortez后悔没有联系她的母亲，但担心她这样做会造成她们的关系进一步分裂。\n\n**结果：**Cortez给她母亲打了一个电话，她母亲对这突然的联系表示震惊。她们在测试后的第二天一起进行了一次视频通话。Cortez报告了一段起初很拘谨但逐渐亲密的谈话，她的母亲对美国生活感兴趣，Cortez对菲律宾生活也很感兴趣。在谈到移民最初所带来的焦虑时，Cortez的母亲为自己的言论道歉，她注意到自己是在多久以前发表那些言论的，但她承认她只是担心Cortez将会如何调整。\n----\n**对象：**Everett Mann博士\n\n**背景：**Mann延续了他的监护人叔叔的怪癖，拥有与社会规范不同的伦理观。在Mann的叔叔死在监禁之中后，Mann面临着来自同龄人的社会排斥。作为回应，Mann在科学和学习方面寻求安慰。虽然Mann称“天才”是用于吸引潜在朋友的，但是其它人却证明Mann为了追求科学而完全拒绝社会进步。\n\n**结果：**Mann走出测试设施，找到最近的悬崖壁，坐在悬崖边静静地凝视夜空。当被问及他在思索什么时，Mann说“我们都可以提升”。第二天，他坐在Site-19自助餐厅的一张拥挤的桌子旁，就鼠类生物学而言开展了一次尴尬但真诚的对话。\n\n[[/div]]\n\n----\n\n**附录6999.2：**AISA项目简报\n\nAISA项目是一个由基金会计划的倡议，以在一次可预见的，显著的，影响广泛的XK级世界末日情景中抚慰人类。一旦此类事件即将发生，所有基金会人员都可访问有关AISA项目异常情况的文件。\n\n[[/div]]\n\n@@\n@@\n@@\n@@\n\n[[=]]\n[[size 150%]][[collapsible show=\"发送？\" hide=\"已发送。\"]][[/size]]\n[[/collapsible]]\n[[/=]]\n\n@@\n@@\n@@\n@@\n\n[[footnoteblock]]\n\n[[div class=\"footer-wikiwalk-nav\"]]\n[[=]]\n<< [[[SCP-6998]]] | SCP-6999 | [[[SCP-7000]]] >>\n[[/=]]\n[[/div]]\n\n[[include :scp-wiki-cn:component:license-box\n|author=Elogee FishTruck\n|translator=Lovesicker\n]]\n=====\n> **文件名：**band.jpg\n> **图像名：**File:Koninklijke Harmonie van Thorn 20080501.JPG\n> **图像作者：**Nlkalwien\n> **授权协议：**CC BY-SA 3.0\n> **来源链接：** [https://commons.wikimedia.org/wiki/File:Koninklijke_Harmonie_van_Thorn_20080501.JPG 维基共享]\n\n> **文件名：**hymn.mp3\n> **曲名：**Nearer, my God, to Thee\n> **作者：**Conway's Band\n> **授权协议：**公有领域\n> **来源链接：** [https://www.loc.gov/item/jukebox-14234/ 国会图书馆]\n=====\n[[include :scp-wiki-cn:component:license-box-end]]",
+  "tags": [
+    "6000",
+    "mann博士",
+    "scp",
+    "伦理委员会",
+    "听觉影响",
+    "基金会制",
+    "声音",
+    "媒体",
+    "感知影响",
+    "机密分级",
+    "神经性",
+    "移情作用",
+    "精神影响",
+    "视觉性",
+    "认知危害",
+    "音频"
+  ],
+  "author": null,
+  "created_at": "2021-05-25T05:39:00+00:00",
+  "updated_at": "2024-06-06T04:06:50+00:00",
+  "rating": 29,
+  "_site": "scp-wiki-cn",
+  "_fullname": "scp-6999"
+}

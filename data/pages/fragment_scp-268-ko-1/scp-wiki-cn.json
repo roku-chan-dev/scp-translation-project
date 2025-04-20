@@ -1,0 +1,13 @@
+{
+  "title": "SCP-268-KO",
+  "content": "[[module CSS]]\n:root {\n  -ms-overflow-style: none;\n  scrollbar-width: none;\n}\n\nbody::-webkit-scrollbar, #breadcrumbs, .open-menu {\n  display: none;\n}\n[[/module]]\n\n[[div style=\"float: right; margin: -15px 20px;\"]]\n[[span style=\"box-shadow: 1px 1px 3px rgba(0,0,0,.5); border: solid 1px #633; border-radius: 5px 0 0 5px; border-right: 0; background-color: #633 !important; color: #FFF; font-weight: bold; padding: 0 10px; margin: 0;\"]]rating: + ![[/span]][[span style=\"box-shadow: 1px 1px 3px rgba(0,0,0,.5); border: solid 1px #633; background-color: #fff6f0; color: #333; font-weight: bold; margin: 0; padding: 0 5px 0 5px;\"]]+@@  @@-[[/span]][[span style=\"box-shadow: 1px 1px 3px rgba(0,0,0,.5); border: solid 1px #633; border-radius: 0 5px 5px 0; border-left: 0; background-color: #633 !important; color: #966; padding: 0 5px; margin: 0;\"]]X[[/span]]\n[[/div]]\n\n\n[[include :scp-wiki-cn:component:cd-ver2\n|lv=3\n|item=SCP-268-KO\n|class=Safe\n|site-responsible=KRSE%E2%96%88%E2%96%88%20Site-21K\n|director=Gangsu%20Lee\n|research-head=%E2%96%88%E2%96%88%E2%96%88\n|assigned-task-force=N/A\n]]\n\n**特殊收容措施：**SCP-268-KO被收容于下方网页中。为防止 SCP-268-KO 显现其异常性质，故对项目的描述当且仅当记录在上述页面中。\n\n[[div style=\"width: 90%; margin: 0 auto;\"]]\n[[html]]\n<iframe src=\"http://scp-wiki-cn.wikidot.com/fragment:scp-268-ko-2\" width=\"100%\" height=\"700px\"></iframe>\n[[/html]]\n[[/div]]",
+  "tags": [
+    "段落"
+  ],
+  "author": "Etinjat",
+  "created_at": "2022-06-30T05:50:08+00:00",
+  "updated_at": "2023-11-13T06:29:39+00:00",
+  "rating": 0,
+  "_site": "scp-wiki-cn",
+  "_fullname": "fragment:scp-268-ko-1"
+}

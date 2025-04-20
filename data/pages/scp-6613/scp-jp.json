@@ -1,0 +1,18 @@
+{
+  "title": "SCP-6613",
+  "content": "[[include :scp-wiki:component:info-ayers\n|lang=en[!-- EN/RU/KO/CN/FR/PL/ES/TH/JP/DE/IT/UA/PTBR --]\n|page=scp-6613[!-- url of your page on the scp wiki --]\n|authorPage=http://www.scp-wiki.net/dr-cimmerian-s-personnel-file[!-- link to your author page --]\n|comments= \n\n世界はこんな風に終わるんだ。\n\n]]\n[[include :scp-jp:theme:black-highlighter-theme]]\n[[module CSS]]\nsup {\nvertical-align: top; position: relative; top: -0.5em;\n}\n:root{\n--cutColour: #fafafa;\n--barColour: #590505;\n}\n\n.info-container .collapsible-block-folded a{\ncolor: #FFF;}\n.info-container .collapsible-block-unfolded-link a{\ncolor: #FFF;}\n\n.translation_block{\ndisplay:none;}\n[[/module]]\n[[module css]]\n#side-bar {\n    background: rgb(var(--white-monochrome));\n}\n\n#side-bar div.menu-item a, #side-bar div.menu-item .text {\n    color: rgb(var(--black-monochrome));\n}\n\n#side-bar>div:nth-child(5) {\n    background-color: rgba(var(--dark-accent),0.25)!important;\n}\n[[/module]]\n\n[[>]]\n[[module rate]]\n[[/>]]\n\n[[include component:image-block name=titlecard.jpg |caption=エピソードのタイトルカードの典型的な例。]]\n\n**アイテム番号:** SCP-6613\n\n**オブジェクトクラス:** Euclid\n\n**特別収容プロトコル:** SCP-6613は伝統的な連続メロドラマやテレノベラの平凡なパロディ番組だという情報が一般社会に流布されています。\n\nSCP-6613は大半の地上受信機では検出できないほど微弱であるため、追加の措置は不要です。[[footnote]]財団の異常放送保安指令によって、アメリカ合衆国の市場はデジタル信号のみを使用するように移行したため、民間人が民生用装置でアナログ信号を受信することは既に不可能です。[[/footnote]]\n\n**説明:** SCP-6613は、カンザス州ウィチタの上空およそ64kmにある静止した一点から発信される、700MHz帯のアナログテレビ信号です。内容 (“ピリオド・ドラマ”[[footnote]]訳注: 英語の“Period drama”は本来、歴史上の特定の[[span class=\"ruby\"]]時期[[span class=\"rt\"]]ピリオド[[/span]][[/span]]を題材とする時代劇を指す。[[/footnote]]というタイトルの連続メロドラマ) は現地時間の午前2時～3時に放送されます。この番組 (英語で放送され、下手なスペイン語翻訳の字幕が添えられる) は牧場を所有する裕福な家族、ペリアドス家を巡るものです。幾つかのサブプロットは、ペリアドス家を取り巻く労働者階級のキャラクターたちの金銭・恋愛絡みのトラブルを題材としています。\n\n番組のキャラクターたちは擬人化された約物です。ヒトとの類似性は登場約物ごとに様々ですが、どのようなタイプの約物を表すかに関係なく、両腕、両足、顔が存在します。重要な点として、約物の姿をしているのは名前のあるキャラクターのみです。その他のキャラクターは全て普通の人間の姿ですが、ドラマの登場約物らを同じ人間であるかのように扱います。\n\nこの番組は通常、コールドオープン、オープニングタイトル画面、エピソードの続きという構成になっています。随所に様々なコマーシャルが挿入されます。番組に付随して放送される全てのコンテンツも、番組そのものも、ヴィキャンデル=ニード・テクニカル・メディアによって制作されています。\n\n以下は番組のコールドオープンの典型例です。\n\n> //マリア・ペリアドス (コンマ) が病院のベッドに横たわっているのが映る。多数の医師がマリアの世話をしている間、ジョナサン・ミロン (疑問符) が部屋の外を歩き回っている。マリアは苦しんでいる様子だが、彼女が分娩中で、間もなく出産しようとしているのが徐々に明らかになる。//\n> \n> //ジョナサンはルイス・サンチェス (コロン) に宥められる。マリアの叫び声が響いて、2人は驚愕し、ジョナサンが病室に駆け込む。//\n> \n> //布に包まれた赤子を抱えている医師が、カメラにゆっくり顔を向け、口を開く。//\n> \n> 「セ… セミコロンです。」\n> \n> //カメラ視点が動き、病室の戸口に立っているルイスへと移る。背景に赤子の泣き声が聞こえている間、3.4秒の合間を挟んで、カメラがゆっくりとルイスの顔にズームインする。//\n> \n> //突然の暗転。タイトルカードがゆっくりとフェードインする。//\n> \n[[=]]\n> + ピリオド・ドラマ\n> \n> ++ 第96話。 //“緊張を孕む”。//\n[[/=]]\n\nSCP-6613信号の送出源であるオブジェクトを発見する試みが現在進行中です。\n\n[[footnoteblock]]",
+  "tags": [
+    "en",
+    "euclid",
+    "scp",
+    "ヴィキャンデル・ニード",
+    "記憶媒体",
+    "録音録画"
+  ],
+  "author": "C-Dives",
+  "created_at": "2022-06-07T15:16:50+00:00",
+  "updated_at": "2022-06-07T15:17:21+00:00",
+  "rating": 14,
+  "_site": "scp-jp",
+  "_fullname": "scp-6613"
+}

@@ -1,0 +1,23 @@
+{
+  "title": "SCP-5593",
+  "content": "[[include :scp-wiki-cn:theme:black-highlighter-theme]]\n[[include :scp-wiki:component:bhl-dark-sidebar]]\n[[include :scp-wiki:component:centered-header-bhl]]\n[[include :scp-wiki:component:toggle-sidebar-bhl]]\n[[include :scp-wiki:component:fade-in speed=4]]\n[[module CSS]]\n:root {\n    --timeScale: 6;\n    --timeDelay: 6s;\n}\n\n\n.info-container .collapsible-block-folded a{\ncolor: #FFF;}\n.info-container .collapsible-block-unfolded-link a{\ncolor: #FFF;\n}\n\n#page-content > .collapsible-block {\n    display: block;\n    text-align: center;\n    padding: .8em;\n    background-color: #e3e3e3;\n    border-top: 0.125rem dashed #b5b5b5;\n    border-bottom: 0.125rem dashed #b5b5b5;\n}\n\n#page-content > .collapsible-block .collapsible-block-content {\n    text-align: left;\n}\n\nblockquote,\ndiv.blockquote {\n    border: 0.125rem solid #d4d4d4;\n    background-color: #F5F5F5;\n}\n\n.interview{\n    border:solid 2px #d4d4d4;\n    background:#F5F5F5;\n    width:90%;\n    padding:1px 15px;\n    margin: 10px auto;\n}\n\n#page-title{display:none}\n\n[[/module]]\n\n[[include :scp-wiki-cn:component:info-ayers\n|page=scp-5593[!-- url of your page on the scp wiki --]\n|authorPage=plaguepjp[!-- link to your author page --]\n|comments= 畅通 - PlaguePJP\n]]\n\n[[include :scp-wiki:component:classified-bar-woed\n|lv=2\n|item=5593\n|oc=Neutralized\n|lang=CN\n|trans-level=级\n|trans-classified=机密\n]]\n\n----\n\n**特殊收容措施：**--SCP-5593收容于Site-49的管道系统内。收容工作重点是抽出并重收容海水。--在附录一事件发生后，SCP-5593已重分级为无效化。\n\n----\n\n**描述：**SCP-5593是一种影响Site-49的水管等管道装置的异常现象，它将导致大量海水以随机的间隔从管中强行喷出。对水中微生物展开的分析已经确定这些水来自太平洋，距离Site-49有2500多公里。\n\n||~ SCP-5593的发生时间||~ 位置||\n||13:47 - 12/04/2012 ||三楼员工洗手间-西||\n||02:34 - 12/05/2012 ||三楼自助餐厅水池-东||\n||22:19 - 12/06/2012 ||二楼喷泉-西||\n||17:38 - 12/09/2012 ||四楼洗眼站[[footnote]]SCP-5593在有人使用期间发生。[[/footnote]]-东||\n\n------\n= **附录 1**\n------\n2012年10月12日，Jorge Diaz博士与导致SCP-5593发生的实体意外接触。以下是接触事件的安保录像。\n\n[[div class=\"interview\"]]\n= **记录**\n\n------\n//（录像显示了西方翼区的研究人员休息室。一会儿，响起一声马桶冲水声，随即Diaz博士从一个位置走出，然后走向水槽。）//\n\n//（所有的四个水龙头都在水流的作用下从槽里弹射开来，在这个过程中，Diaz博士被淋得浑身湿透。博士一边拍打水槽，一边大骂脏话。）//\n\n**实体：**嘿，见鬼！\n\n**Diaz：**哈——喂？谁啊？\n\n**实体：**你只是让这比你的敲打更难受。冷静点。\n\n**Diaz：**是你把水管里的水弄出来的？\n\n**实体：**可能吧伙计，我只是想离开这里，但像//你//这样的人总是打断我。\n\n**Diaz：**不，你听我说混蛋，这一周你一直在破坏——\n\n**实体：**我被困在这里了！自从我被困在这个破旧的地狱里后，我一直在努力寻找出路。我以为我取得了一些进步，但我发觉我好像只是在来回走动。\n\n**Diaz：**……你是怎么——\n\n**实体：**我不是故意的！我只是拐错了弯什么的。\n\n**Diaz：**你知道你在密苏里，对吧？确切地说是堪萨斯。或者你不知道你在……\n\n**实体：**当然，因为运气好，我最后和意大利人在一起了。\n\n**Diaz：**那不——等等，如果你能一直寻求帮助为什么你不……这么做？\n\n**实体：**当我和不认识的人交谈时，我总是会感到焦虑。\n\n**Diaz：**//(叹气)//你先待着别动。\n\n[[/div]]\n\n洗手间后面的墙壁随即被拆掉，但并没有发现明显的异常。管道随后被拧松，导致其内部产生巨大的爆炸力。6.8万公斤的内脏和水被喷发到洗手间和走廊，造成技师小组死亡。\n\n对有机物质的医学分析显示，其原始生物是一只无异常的蓝鲸。\n\n[[footnoteblock]]\n\n[[div class=\"footer-wikiwalk-nav\"]]\n[[=]]\n<< [[[SCP-5592]]] | SCP-5593 | [[[SCP-5594]]] >>\n[[/=]]\n[[/div]]",
+  "tags": [
+    "2021连写竞赛",
+    "_海生",
+    "keter",
+    "scp",
+    "动物",
+    "感知力",
+    "智能",
+    "水生",
+    "活物",
+    "液体",
+    "鲸类"
+  ],
+  "author": null,
+  "created_at": "2021-03-23T02:38:54+00:00",
+  "updated_at": "2021-04-13T06:00:10+00:00",
+  "rating": 0,
+  "_site": "scp-wiki-cn",
+  "_fullname": "scp-5593"
+}

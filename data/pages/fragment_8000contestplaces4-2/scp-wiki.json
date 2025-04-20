@@ -1,0 +1,13 @@
+{
+  "title": "8000contestplaces4 Fragment 2: Accessibility Intro",
+  "content": "[!--\n    This page is responsible for loading the CSS code and content of offset 2 of 8000contestplaces4.\n    It is an Accessibility page, so it imports no CSS code aside from the Basalt Theme itself.\n    It is an Intro page, so it includes the Intro Content fragment, 8000contestplaces4-4.\n    \n    ===\n\n    Basalt Lightmode Include\n--]\n\n[[include :scp-wiki:theme:basalt\n|wide=a\n|hidetitle=a]]\n\n[[module CSS]]\n#page-content .introonly {\n  display: block !important;\n}\n[[/module]]\n\n[!-- include Intro Content --]\n\n[[include fragment:8000contestplaces4-4]]",
+  "tags": [
+    "fragment"
+  ],
+  "author": "Placeholder McD",
+  "created_at": "2024-02-16T04:46:57+00:00",
+  "updated_at": "2024-02-20T01:13:38+00:00",
+  "rating": 0,
+  "_site": "scp-wiki",
+  "_fullname": "fragment:8000contestplaces4-2"
+}

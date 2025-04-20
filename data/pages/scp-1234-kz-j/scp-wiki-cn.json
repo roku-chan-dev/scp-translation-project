@@ -1,0 +1,16 @@
+{
+  "title": "SCP-1234-KZ-J",
+  "content": "[[module CSS]]\n#page-title,\n#header,\n#side-bar {\n    display: none;\n}\n#main-content {\n    margin: 0 4em 0 12em;\n}\ndiv#container-wrap {\n    background: none;\n}\n.all-wrap {\n    font-family: Verdana, sans-serif;\n    font-size: 13px;\n}\n \n.all-wrap h1 {\n    color: #000;\n    font-family: Verdana, sans-serif;\n    font-size: 24px;\n    margin: 0 0 15px;\n    padding: 0;\n}\n \n.all-wrap a {\n    color: #00f;\n}\n \n.all-wrap .content {\n    max-width: 400px!important;\n    padding-right: 20px;\n    float: left;\n    overflow: hidden;\n}\n\n.all-wrap tt {\n    color: #666;\n    font-family: monospace;\n    font-size: smaller;\n}\n \n/* Flickr badge CSS */\n.flickr_badge_uber_wrapper {text-align:center; width:260px; float: right;}\n.flickr_badge_wrapper {padding:10px 0 10px 0;}\n.flickr_badge_image {margin:0 10px 10px 10px;}\n.flickr_badge_image img {border: 1px solid black !important;}\n.flickr_badge_source {text-align:center; margin:0 10px 0 10px; font-size: 9px; color: #222}\n.flickr_www {display:none;}\n/* End of Flickr badge CSS */\n\n@media (max-width: 979px) {\n#page-content div, #page-content div table {\n    float: none;\n}\n}\n\n@media (max-width: 767px) {\n#main-content {\n    margin: 0 5%!important;\n}\n}\n[[/module]]\n\n[[<]]\n[[image http://scp-kz.wdfiles.com/local--files/scp-1234-kz-j/KAZAKTELECOM.png width=\"150\" ]]\n[[/<]]\n\n\n[[div class=\"all-wrap\"]]\n[[div class=\"flickr_badge_uber_wrapper\"]]\n[[a href=\"http://www.flickr.com\" class=\"flickr_www\"]]www.[[span style=\"font-weight: bold;color:#3993ff;\"]]flick[[span style=\"color:#ff1c92\"]]r[[/span]][[/span]].com[[/a]]\n[[div class=\"flickr_badge_wrapper\"]]\n\n\n[[/div]]\n[[/div]]\n[[/div]]\n[!-- End of Flickr badge HTML --]\n \n[[div class=\"content\"]]\n \n[[size 150%]]亲爱的用户！[[/size]]\n\n资源：**scp-wiki-cn.wikidot.com/SCP-1234-KZ-J**已被屏蔽，因为其属于以下类别：**危险资源。**\n\n您可以[[[SCP-1234-KZ-J|报告]]]该网站被错误屏蔽。\n\n[[/div]]\n\n@@@@\n@@@@\n@@@@\n@@@@\n@@@@\n@@@@\n@@@@\n@@@@\n@@@@\n@@@@\n@@@@\n@@@@\n@@@@\n@@@@\n@@@@\n@@@@\n@@@@\n@@@@\n@@@@\n@@@@\n@@@@\n@@@@\n@@@@\n@@@@\n@@@@\n@@@@\n@@@@\n@@@@\n@@@@\n@@@@\n@@@@\n@@@@\n@@@@\n@@@@\n@@@@\n@@@@\n@@@@\n@@@@\n@@@@\n@@@@\n@@@@\n@@@@\n@@@@\n@@@@\n@@@@\n@@@@\n@@@@\n@@@@\n@@@@\n@@@@\n@@@@\n@@@@\n@@@@\n@@@@\n@@@@\n@@@@\n@@@@",
+  "tags": [
+    "kz",
+    "scp",
+    "搞笑",
+    "机密分级"
+  ],
+  "author": "la kanro",
+  "created_at": "2023-11-12T11:11:38+00:00",
+  "updated_at": "2023-11-12T11:17:23+00:00",
+  "rating": 4,
+  "_site": "scp-wiki-cn",
+  "_fullname": "scp-1234-kz-j"
+}

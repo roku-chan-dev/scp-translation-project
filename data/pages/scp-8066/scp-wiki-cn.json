@@ -1,0 +1,29 @@
+{
+  "title": "SCP-8066",
+  "content": "=====\n[[include :scp-wiki-cn:component:preview\ntext=你在害怕吗，SCP-2006？\n]]\n=====\n\n[[div style=\"display: none;\"]]\n[[include component:image-block\n| name=https://scp-wiki.wikidot.com/local--files/scp-8066/8066-thumbnail.png\n| caption=缩略图\n| width=100%\n| align=center]]\n[[/div]]\n\n[[module css]]\n\n#page-content .info-container {\n    --link-color: rgb(var(--swatch-text-general));\n}\n\n#page-content .info-container .collapsible-block-link,\n#page-content .info-container:hover .collapsible-block-link {\n    line-height: 1.6em;\n}\n\n#page-content .info-container .collapsible-block-folded,\n#page-content .info-container .collapsible-block-unfolded-link {\n    display: grid;\n}\n\n#page-content .info-container .collapsible-block-folded .collapsible-block-link,\n#page-content .info-container .collapsible-block-link {\n    -webkit-mask: unset;\n         mask: unset;\n    background: transparent;\n    grid-column: 1;\n    grid-row: 1;\n    opacity: 0;\n}\n\n#page-content .info-container .collapsible-block-folded::before,\n#page-content .info-container .collapsible-block-unfolded-link::before {\n    --wght: 800;\n    content: \"ETC\";\n    color: #FFFFFF;\n    font-family: Inter, Arimo, Verdana, Geneva, \"Helvetica Neue\", \"Helvetica\", Arial, sans-serif;;\n    display: block;\n    pointer-events: none;\n    grid-column: 1;\n    grid-row: 1;\n    line-height: 2.75ex;\n}\n\n[[/module]]\n\n[[include :scp-wiki-cn:credit:start-standalone]]\n= **SCP-8066** - 恐惧恐惧症：唯一值得害怕之物\n\n= **>> [[[MontagueETC | 此作者的更多作品]]] <<**\n----\n⚠️ **内容警告：**非现实、心理操控、孤立、非法入室、针、跟踪、暴力、肢体恐怖、血腥与食人。\n[[include :scp-wiki-cn:credit:end-standalone]]\n\n[[include :scp-wiki-cn:component:info-cw]]\n\n@@ @@\n\n[[module ListPages category=\"fragment\" parent=\".\" limit=\"1\" order=\"name\" offset=\"@URL|0\"]]\n%%content%%\n[[/module]]\n\n[!-- https://scp-wiki-cn.wikidot.com/fragment:scp-8066-1 --]\n[!-- https://scp-wiki-cn.wikidot.com/fragment:scp-8066-2 --]\n[!-- https://scp-wiki-cn.wikidot.com/fragment:scp-8066-3 --]\n\n[[div class=\"footing\"]]\n[[/div]]\n\n[[div class=\"footer-wikiwalk-nav\"]]\n<< [[[SCP-8065]]] | SCP-8066 | [[[SCP-8067]]] >>\n[[/div]]\n\n[[include :scp-wiki:component:earthworm\n| previous-url = /\n| previous-title = /\n| next-url = scp-8596\n| next-title = 注视恐惧症：本月最佳雇员\n| hub-url = scp-anthology-2024\n| hub-title = 文选2024\n]]\n\n[[include :scp-wiki-cn:component:license-box\n| author = MontagueETC\n| translator = Valeriya_C074、LeeBr\n]]\n=====\n> **文件名：**2006.png\n> **图像作者：**[[*user MontagueETC]]\n> **授权协议：**CC BY-SA 3.0\n> **衍生自：**\n> ----\n> **图像名：**Inside World\n> **图像作者：**[[[https://www.flickr.com/people/hamedphotography/ | fiction of reality]]]\n> **授权协议：**CC BY 2.0\n> **来源链接：**[[[https://www.flickr.com/photos/hamedphotography/37127631932 | Flickr]]]\n=====\n> **文件名：**reach.png\n> **图像作者：**[[*user MontagueETC]]\n> **授权协议：**CC BY-SA 3.0\n> **衍生自：**\n> ----\n> **图像名：**Light in the Fog of the Night\n> **图像作者：**[[[https://www.flickr.com/people/maxwellgs/ |  Maxwell GS]]]\n> **授权协议：**CC BY 2.0\n> **来源链接：**[[[https://www.flickr.com/photos/maxwellgs/4306022900/ | Flickr]]]\n=====\n> **文件名：**watcher.png\n> **图像作者：**[[*user MontagueETC]]\n> **授权协议：**CC BY-SA 3.0\n> **衍生自：**\n> ----\n> **图像名：**The Dark Experiment XV - “I’ve Been Waiting for You”\n> **图像作者：**[[[https://www.flickr.com/people/190269253@N07/ | Rob Olivera]]]\n> **授权协议：**CC BY 2.0\n> **来源链接：**[[[https://www.flickr.com/photos/190269253@N07/50830141087 | Flickr]]]\n=====\n> **文件名：**beforeandafter.png\n> **图像作者：**[[*user MontagueETC]]\n> **授权协议：**CC BY-SA 3.0\n> **衍生自：**\n> ----\n> **图像名：**Mary Savin12\n> **图像作者：**[[[https://www.flickr.com/people/89175420@N02/ | Ark. Agricultural Experiment Station]]]\n> **授权协议：**CC BY-SA 2.0\n> **来源链接：**[[[https://www.flickr.com/photos/89175420@N02/52408071237/ | Flickr]]]\n> ----\n> **图像名：**Anneli Pauli\n> **图像作者：**[[[https://www.flickr.com/people/nordforsk/ | NordForsk]]]\n> **授权协议：**CC BY 2.0\n> **来源链接：**[[[https://www.flickr.com/photos/nordforsk/20357541282/ | Flickr]]]\n=====\n> **文件名：**spectre.png\n> **图像作者：**[[*user MontagueETC]]\n> **授权协议：**CC BY-SA 3.0\n> **衍生自：**\n> ----\n> **图像名：**She is there\n> **图像作者：**[[[https://www.flickr.com/people/adulau/ | Alexandre Dulaunoy]]]\n> **授权协议：**CC BY-SA 2.0\n> **来源链接：**[[[https://www.flickr.com/photos/adulau/30305579543/ | Flickr]]]\n=====\n> **文件名：**shadow.png\n> **图像作者：**[[*user MontagueETC]]\n> **授权协议：**CC BY-SA 3.0\n> **衍生自：**\n> ----\n> **图像名：**Creepy\n> **图像作者：**[[[https://www.flickr.com/people/richardnorth/ | Richard North]]]\n> **授权协议：**CC BY 2.0\n> **来源链接：**[[[https://www.flickr.com/photos/richardnorth/6626416651/ | Flickr]]]\n=====\n> **文件名：**doomsday.png\n> **图像作者：**[[*user MontagueETC]]\n> **授权协议：**CC BY-SA 3.0\n> **衍生自：**\n> ----\n> **图像名：**Door Open\n> **图像作者：**[[[https://www.flickr.com/people/jodiwomack/ | Jodi Womack]]]\n> **授权协议：**CC BY 2.0\n> **来源链接：**[[[https://www.flickr.com/photos/jodiwomack/4627301892 | Flickr]]]\n=====\n> **文件名：**comeandsee.png\n> **图像作者：**[[*user MontagueETC]]\n> **授权协议：**CC BY-SA 3.0\n> **衍生自：**\n> ----\n> **图像名：**portrait-self-hand-face.jpg\n> **图像作者：**[[[https://www.flickr.com/people/zionfiction/ | r. nial bradshaw]]]\n> **授权协议：**CC BY 2.0\n> **来源链接：**[[[https://www.flickr.com/photos/zionfiction/15774177631/ | Flickr]]]\n=====\n[[include :scp-wiki-cn:component:license-box-end]]",
+  "tags": [
+    "scp",
+    "不可摧毁",
+    "人形生物",
+    "宇宙恐怖",
+    "强迫性",
+    "形态改变",
+    "恐怖",
+    "恐怖老人",
+    "恐惧症文选",
+    "悲剧",
+    "无名",
+    "智能",
+    "未收容",
+    "机密分级",
+    "现实扭曲",
+    "精神恐怖",
+    "身体恐怖"
+  ],
+  "author": "LeeBr",
+  "created_at": "2024-10-05T15:05:42+00:00",
+  "updated_at": "2024-11-01T12:17:36+00:00",
+  "rating": 18,
+  "_site": "scp-wiki-cn",
+  "_fullname": "scp-8066"
+}

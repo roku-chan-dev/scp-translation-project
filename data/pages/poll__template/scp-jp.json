@@ -1,0 +1,14 @@
+{
+  "title": "poll:_template",
+  "content": "[[module ThemePreviewer noUi=\"true\"]]\n\n[[div_ class=\"wikisys--template-dialog\"]]\n[[div_ class=\"wikisys--template-dialog-header\"]]\n投票用個別ページです\n[[/div]]\n[[div_ class=\"wikisys--template-dialog-content\"]]\n**サイト上で投票を行うためのページです。**\n許可なく編集しないでください。編集が必要だと思われる場合は、[[[contact-staff|サイトスタッフ]]]までご連絡ください。\n[[/div]]\n[[div_ class=\"wikisys--template-dialog-footer\"]]\n運用について、詳しくは[[[category-policy|]]]を参照してください。\n[[/div]]\n[[/div]]\n\n[[include :scp-jp:_template]]",
+  "tags": [
+    "jp",
+    "管理"
+  ],
+  "author": "ukwhatn",
+  "created_at": "2021-04-05T13:07:40+00:00",
+  "updated_at": "2025-03-04T15:35:45+00:00",
+  "rating": 1,
+  "_site": "scp-jp",
+  "_fullname": "poll:_template"
+}

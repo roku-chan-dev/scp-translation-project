@@ -1,0 +1,13 @@
+{
+  "title": "Page Tags",
+  "content": "[[module CSS]]\n#page-title {\n    display: none;\n}\n\n.content-panel p {\n    padding: 0 0.75em;\n}\n\n#tagged-pages-list {\n    margin-bottom: 2.25rem;\n    column-width: 12rem;\n    column-gap: 1.25rem;\n    column-rule: 1px solid #888;\n    counter-reset: index;\n}\n.pages-list-item {\n    margin-bottom: 0.675em;\n    line-height: 1.125;\n    display: flex;\n    align-items: baseline;\n    gap: .175rem;\n}\n.pages-list-item::before {\n    counter-increment: index;\n    content: counter(index) \".\";\n    font-size: .625em;\n    text-align: end;\n    font-feature-settings: 'case','ss01','ss04','tnum';\n}\n\n.pages-tag-cloud-box {\n    margin-top: -0.125rem;\n    display: flex;\n    flex-wrap: wrap;\n    grid-gap: 0.185rem;\n    align-items: center;\n    justify-content: space-between;\n    margin-block: 1.5rem;\n}\n\n#u-hidden .pages-tag-cloud-box a:not([href^=\"/system:page-tags/tag/_\"]) { display: none; }\n[[/module]]\n\n[[div class=\"content-panel centered standalone\"]]\nWelcome to the tags page! What is a tag? Find out on our [[[a-laymen-s-guide-to-tagging|Tag Guide]]]!\n\nYou can browse tags with the [#toc0 tag cloud] at the bottom, or see a [https://scp-wiki.wikidot.com/tag-list comprehensive list of tags]. If you want to search for more than one tag at a time, try our advanced [[[Tag Search]]].\n[[/div]]\n\n[[module PagesByTag]]\n\n\n++ Tag Cloud:\n[[module TagCloud limit=\"2000\" target=\"system:page-tags\" minColor=\"128,128,192\" maxColor=\"153,0,17\"]]\n\n-----\n\n[[div id=\"hidden\"]]\n[[module TagCloud limit=\"2000\" target=\"system:page-tags\" showHidden=\"true\" minColor=\"128,128,192\" maxColor=\"153,0,17\"]]\n[[/div]]\n\n[!--\nYou can edit parameters of the TagCloud module as described in http://www.wikidot.com/doc:tagcloud-module\nBut if you want to keep the tag functionality working - do not remove these modules.\n--]",
+  "tags": [
+    "admin"
+  ],
+  "author": "The Administrator",
+  "created_at": "2008-07-19T21:26:58+00:00",
+  "updated_at": "2025-01-02T12:56:24+00:00",
+  "rating": 193,
+  "_site": "scp-wiki",
+  "_fullname": "system:page-tags"
+}

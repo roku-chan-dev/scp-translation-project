@@ -1,0 +1,25 @@
+{
+  "title": "SCP-3759",
+  "content": "[[include :scp-wiki:theme:classic]]\n[[>]]\n[[module Rate]]\n[[/>]]\n[[include component:image-block\n    name=endling.jpg|\n    caption=An SCP-3759 instance.\n]]\n**Item #:** SCP-3759\n\n**Object Class:** Euclid\n\n**Special Containment Procedures:** GPS trackers are to be maintained on the landmass occupied by SCP-3759. Standard disinformation, ship and aircraft redirection, and satellite imagery doctoring protocols apply. \n\n**Description:** SCP-3759 denotes a group of several thousand intangible Abingdon Island giant tortoises (//Chelonoidis abingdonii//) residing on a variable landmass currently 380 km west of the Ecuador coast.\n\nSCP-3759 instances transmute any surface they step on into volcanic rock, up to a maximum radius of 5.8 m. Geological analysis of this rock indicates composition consistent with that of the Galapagos Islands. Rock produced by SCP-3759 instances is the only known material they cannot phase through.\n\nThe amount of surface the SCP-3759 population can transmute at once has an upper limit of approximately 1.4 km^^2^^; at this point any further transmutation causes an equal amount of previously transmuted rock to convert into seawater. \n\nFreshwater pools and vegetation native to the Galapagos spontaneously appear near the center of the landmass at consistent intervals.\n\n**Addendum:** On the morning of 6/24/2012, \"Lonesome George\", the last non-anomalous Abingdon Island tortoise, died. The population of SCP-3759 organized into a circular arrangement, and in the center of the circle, a new instance of SCP-3759 manifested. This is the only time the creation of a new instance has been recorded.\n\n[[footnoteblock]]\n\n[[div class=\"footer-wikiwalk-nav\"]]\n[[=]]\n<< [[[SCP-3758]]] | SCP-3759 | [[[SCP-3760]]] >>\n[[/=]]\n[[/div]]",
+  "tags": [
+    "_cc",
+    "_tropical",
+    "animal",
+    "ectoentropic",
+    "euclid",
+    "intangible",
+    "jam-con2018",
+    "liquid",
+    "plant",
+    "reptile",
+    "scp",
+    "transfiguration",
+    "uncontained"
+  ],
+  "author": "Weryllium",
+  "created_at": "2018-02-19T00:33:19+00:00",
+  "updated_at": "2022-10-08T22:09:44+00:00",
+  "rating": 148,
+  "_site": "scp-wiki",
+  "_fullname": "scp-3759"
+}

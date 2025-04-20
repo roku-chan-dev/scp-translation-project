@@ -1,0 +1,13 @@
+{
+  "title": "Art",
+  "content": "[[include :scp-wiki:theme:old-money-theme]]\n[[include :scp-wiki:component:toggle-sidebar-bhl]]\n[[div class=\"blockquote\"]]\n[[=]]\n+ PURPLE\n[[div style=\"margin-bottom:-38px;\"]]\n[[/div]]\n[[size 116%]] GRAUT & RZ_DA'S THEME [[/size]]\n[[/=]]\n[[include :scp-wiki:component:audio-player-woed-source\n|unique-name=song\n|audio-file= http://scp-wiki.wikidot.com/local--files/art:agente-shuffle-s-2022-art-exchange-gifts/exchange%20purple.mp3\n|background-color=rgb(70,56,33)\n|border-color=rgb(207,159,45)\n|border-radius=0.313rem\n|dropshadow-color=rgba(12, 12, 12, 0.15)\n|text-color=rgb(185,150,80)\n|icons-color=rgb(185,150,80)\n|player-color=rgb(115,94,55)\n|progress-color=rgb(252,236,135)\n]]\n[[/div]]",
+  "tags": [
+    "fragment"
+  ],
+  "author": "Agente Shuffle",
+  "created_at": "2022-12-29T01:06:27+00:00",
+  "updated_at": "2022-12-30T00:45:19+00:00",
+  "rating": 0,
+  "_site": "scp-wiki",
+  "_fullname": "fragment:art:agente-shuffle-s-2022-art-exchange-gifts-2"
+}

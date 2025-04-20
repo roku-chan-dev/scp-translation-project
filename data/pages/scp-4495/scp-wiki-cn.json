@@ -1,0 +1,26 @@
+{
+  "title": "SCP-4495",
+  "content": "[[module CSS]]\n\n.body-text {\n    margin: 2% 13% 2% 9%;\n    padding: 5px 20px 5px 20px;\n    background-color: #f2f2f2;\n    color: #111;\n}\n\n.text4desk {\n    width: 70%;\n    margin: auto;\n}\n\n@media only screen and (max-width: 600px) {\n\n    .body-text {\n        margin: 0% 4% 0% 4%;\n    }\n\n    .text4desk {\n        width:100%;\n    }\n\n}\n\n[[/module]]\n[[include :scpsandboxcn:component:cd-ver2\n|lv=4\n|item=SCP-4495\n|class=Keter\n|site-responsible=USNVBR-Site-56\n|director=Dr. Agatha Drummond\n|research-head=Dr. Rivka Yarkoni\n|assigned-task-force=N/A\n]]\n[[a href=\"*http://scp-wiki-cn.wikidot.com/niveaux-de-menace-des-objets-scp\" style=\"font-size: 18px; color: black; text-shadow: 1px 3px 1px rgba(0,0,0,0.3); text-decoration: none;\"]]\n[[span_ style=\"display: inline-block; width: 100%; background-color: #EED202; text-align: center; border: 1px none #000; margin: 1px; padding-top: 8px; padding-bottom: 8px;\"]]\n**威胁等级：**黄\n[[/span]]\n[[/a]]\n------\n[[div style=\"background: gray; padding: 1px 15px; border: solid 3px lightgray; margin: 10px; border-radius: 30px 15px;\"]]\n\n[[div style=\"background: white; padding: 1px 15px; border: solid 3px lightgray; margin: 10px; border-radius: 30px 15px;\"]]\n[[=]]\n在610 -辛克莱程序的实施后，SCP-4495已经被证实具有足够的外熵稳定性，并且不再被认为有引发NK级世界末日场景的风险。为应对610-辛克莱程序在未来无法实行的情况，之前的收容措施将被记录在案。\n[[/=]]\n[[/div]]\n[[/div]]\n**特殊收容措施：**相关人员每天需执行610-辛克莱程序，维护人员每两周对SCP-4495的收容室进行一次例行检查。\n\nSCP-4495被收容于一个三层收容室中，每层由一个格栅地板隔开：\n* SCP-4495位于顶层，并被绑在南墙的壁龛中。SCP-4495的胃必须与地板成锐角，使得SCP-4495-1一产生就立即穿过格栅。为防止SCP-4495-1卡住并累积的情况，格栅将每小时由一系列内置高压水枪清洗一次。为减少瘴气，需将收容室顶层的温度控制在较低的水平。\n* 中层包括一个研磨机和焚化炉。SCP-4495-1个体通过漏斗进入机器，再于底部以惰性膏体的形式出现。这个过程应短于10分钟。\n* 底层则拥有进行610-辛克莱程序所需的设施。若610-辛克莱程序无法立即进行，则应尽可能薄地压缩SCP-4495-1膏体、真空密封，并将其储存在Site-56的临时储存翼中。\n\n\n相关人员应尽可能地阅读4495-610文件。\n\n**描述：**SCP-4495是一具体内部分腐烂的尸体，身份不明。从表面上看，它像一头披着帝王服并斜靠在宝座上的两足猪；然而，后续研究发现，宝座、猪和衣服都是一个不可拆卸的有机整体（由角蛋白、骨和皮肤组成）的部分。\n\nSCP-4495的腹腔已经破裂；其腹腔的周期性收缩不断地迫使SCP-4495-1向外移动。SCP-4495-1个体表面上类似于猪的肠，但具有生命。其行为方式与蟒蛇大致相似，但在面对动物等生命个体时表现出极大的攻击性。\n\n虽然SCP-4495-1个体可以正常地被物理破坏，但如果给予其足够的时间，它们将进行重组。将其暴露在高温下会延迟这一过程，但无法完全停止。SCP-4495-1只能通过进行610-辛克莱程序永久无效化。\n[[=]]\n[[size 150%]]\n[[collapsible show=\"文件4495-610：对SCP-4495-1的分析和610-辛克莱程序的细节\" hide=\"授予访问权限\"]]\n[[div class=\"body-text\"]]\n\n++ 对SCP-4495-1的分析\n\n[[<]]\n以下是对SCP-4495-1的全面分析，该分析由Agatha Drummond主任于2008年8月26日授权进行，主要由Rivka Yarkoni博士和Daniel Gums博士进行。本研究基于以下假设：\n\n# SCP-4495可能与猪科动物有亲缘关系，也可能与之相似。\n# SCP-4495可以被认为是活的、死的或无生命的，但是声称其无生命的理论必须与那些关于生命起源的理论不符。\n# 如果SCP-4495只能被认为是活的或是死的，那么SCP-4495-1与动物的肠道有关，或类似于动物的肠道。\n# 如果不开发一种使SCP-4495-1永久性无效化的方法，SCP-4495就有可能导致NK级世界末日情景。\n\n如SCP-4495的描述所说的，SCP-4495-1个体类似于猪的肠道。然而，SCP-4495-1个体是可以改变其形状和大小的，因此假设SCP-4495-1是SCP-4495肠道的理论认为，SCP-4495作为一个物种，要么拥有理论上无限的残留消化系统，要么每一个个体都具有可完全改变的饮食习性。\n\n最初，SCP-4495-1接受了几轮化学测试。初步报告的结论认为，SCP-4495-1具有化学惰性。然而这样的结论意味着需要使用到困难的异常处理手段，因此Pepper协议被启用，化学实验延长一周。\n\n2008年9月2日，初级研究员Malcolm Johnson违反了检疫规程并在其批次的SCP-4495-1上呕吐。立即观察到有新的化学反应发生。\n[[/<]]\n[[/div]]\n\n[[div class=\"body-text\"]]\n\n++ 610-辛克莱程序的细节\n\n[[<]]\n[[include component:image-block name=http://scp-wiki.wdfiles.com/local--files/scp-4495/30to50.PNG|caption=准备处理的SCP-4495-1。]]\n# SCP-4495-1膏体通过食品安全清洁系统以清除污垢。\n# 将得到的糊状物在400摄氏度下再加热一小时。\n# 根据基金会对食物的需求，将得到的糨糊谨慎地分为数块。\n# 一部分需装上假外壳。\n# 按照标准饮食计划提供给基金会职员食物以代替猪肉。\n# 未售出的部分将作为URA-2677控制协议的一部分提供给D级人员。\n# SCP-4495-1的未食用部分将从Site-56的废物处理系统中被过滤出来，彻底清洗后再次按照610-辛克莱程序进行处理。\n\n大量实验表明，SCP-4495-1在烹饪上与普通猪肉性质相似，且营养价值更高，胆固醇和饱和脂肪含量更低。SCP-4495-1经610-辛克莱程序处理后不会腐烂，且在没有额外热处理的情况下，能保持大约两周的无生命状态。最重要的是，除了提供更高的卡路里外，消化SCP-4495-1几乎不会产生任何废物；SCP-4495-1的绝大部分在消化时会被无效化。\n\n预计大量实施610-辛克莱程序将节省大量烹饪费用。掩盖工作正在以贯彻落实卫生法案的形式进行。\n[[/<]]\n[[/div]]\n\n[[/collapsible]][[/size]][[/=]]\n\n[[footnoteblock]]\n\n[[div class=\"footer-wikiwalk-nav\"]]\n[[=]]\n<< [[[SCP-4494]]] | SCP-4495 | [[[SCP-4496]]] >>\n[[/=]]\n[[/div]]",
+  "tags": [
+    "keter",
+    "k级情景",
+    "scp",
+    "人形生物",
+    "人造物品",
+    "冗废郁火",
+    "动物",
+    "反熵",
+    "尸体",
+    "敌意",
+    "生物性",
+    "自我修复",
+    "蛇类",
+    "食物"
+  ],
+  "author": "Well Wilson",
+  "created_at": "2020-02-23T11:42:51+00:00",
+  "updated_at": "2024-06-04T14:42:43+00:00",
+  "rating": 2,
+  "_site": "scp-wiki-cn",
+  "_fullname": "scp-4495"
+}

@@ -1,0 +1,15 @@
+{
+  "title": "무고한 자들 허브",
+  "content": "[[include :scpko:theme:navla-style]]\n\n[[include :scpko:theme:navla-style preset=4]]\n\n[[module CSS]]\n:root:lang(ko) {\n    --header-title: \"무고한 자들\";\n    --header-subtitle: \"원죄, 고해, 심판\";\n}\n[[/module]]\n\n[[module css]]\n#page-title {\ndisplay: none;\n}\n[[/module]]\n\n[[include :scpko:info:start]]\n**무고한 자들 허브**\n\n**저자:** [[*user Plone]]\n\n이 글은 무고 연작의 이야기를 모아둔 허브입니다. 마음껏 즐겨 주세요!\n\n**안내:** 본 이야기는 [[[http://scpko.wikidot.com/scp-755-ko | SCP-755-KO]]]와 [[[http://scpko.wikidot.com/scp-430-ko | SCP-430-KO]]]의 설정을 다수 차용했으며, 따라서 위 SCP들을 읽지 않았을 경우 이야기의 이해에 어려움이 따를 수 있습니다.\n\n이 허브는 [[*user Navla]]의 나블라 스타일을 차용했으며, 이미지의 출처는 \"Stone Corridor under Sky (painting) and Corridor (poem)\" by faith goble is licensed under CC BY 2.0.입니다.\n\n**[[[plone | 작가 페이지]]]**\n\n[[include :scpko:info:end]]\n\n-----\n[[div class=\"box mini\"]]\n[[=]]\n[[size 1.2em]]여호와 하나님이 여자에게 이르시되 네가 어찌하여 이렇게 하였느냐 여자가 가로되 뱀이 나를 꾀므로 내가 먹었나이다.[[/size]]\n[[/=]]\n\n[[>]]\n//<창세기>, 3장//\n[[/>]]\n[[/div]]\n\n@@ @@\n\n그리하여 최초의 여인은 최초의 거짓말을 입에 담았고, 사람은 원죄의 굴레 속으로 빠지게 되었다.\n\n@@ @@\n\n[[div class=\"box mini\"]]\n[[=]]\n[[size 1.2em]]저는 사람들이 거짓말을 하는 게 좋습니다! 거짓말하는 것은 다른 유기체가 지니지 못한, 인간의 유일한 특권이니까요.[[/size]]\n[[/=]]\n\n[[>]]\n//<죄와 벌>, 도스토옙스키//\n[[/>]]\n[[/div]]\n\n@@ @@\n\n거짓은 비밀을 낳고, 비밀은 특권을 낳는다. 사람은 누구나 그 속에 한 가지 비밀을 품고서 살아간다. 죄를 숨긴 채로.\n\n@@ @@\n\n[[div class=\"box paper\"]]\n[[=]]\n[[size 1.2em]]모든 국민은 헌법과 법률이 정한 법관에 의하여 법률에 의한 재판을 받을 권리를 가진다.[[/size]]\n[[/=]]\n\n[[>]]\n//헌법, 제27조 1항//\n[[/>]]\n[[/div]] \n\n@@ @@\n\n//...그러하므로 모든 사람들이 죄를 가지고 있다면, 우리에게는 과연 서로를 심판할 권리가 있는가?//\n\n@@ @@\n\n[[=]]\n[[image \tpaint]]\n[[/=]]\n\n@@ @@\n\n[[=]]\n[[span class=\"nmj\"]]//신이시여, 우리를 단죄하소서. 죄 많은 자들을 벌하고 무고한 이들을 천국으로 이끄소서.//[[/span]]\n[[/=]]\n\n@@ @@\n\n-----\n\n@@ @@\n\n[[=]]\n+* **1부:** 세 명이 오리라\n[[/=]]\n\n@@ @@\n\n한 명은 과거를 되찾으려 하고, 한 명은 인생의 무게에서 탈출하려 하고, 한 명은 생명이 위험한 상황에 놓여 있습니다. 그들은 각자의 목표를 완수할 수 있을까요?\n\n||~ 이야기 ||~ 설명 ||~ 발언자 ||\n|| [[[http://scpko.wikidot.com/mugo-1 | 무고 - 1]]] || //마치 그에게 속삭이는 듯했다. 너도 무고하지 않다고, 이 살인에 너도 가담한 거라고.// || 길잡이 ||\n|| [[[http://scpko.wikidot.com/mugo-2 | 무고 - 2]]] || \"그럼 그 빌어먹을 실험은 언제 하는데요?\" || D-3203||\n|| [[[http://scpko.wikidot.com/mugo-3 | 무고 - 3]]] || //이건 그가 선택한 행동이었으니까.// || 동오 ||\n|| [[[http://scpko.wikidot.com/cite-145k-is-down | 제145K기지 습격 사건]]] || 그는 가만히 서서 제145K기지를 바라보았다. 아름다운 풍경이었다. || [[[http://scpko.wikidot.com/scp-430-ko | SCP-430-KO]]] ||\n\n@@ @@\n\n-----\n\n@@ @@\n\n[[=]]\n+* **2부:** 염소들의 침묵\n[[/=]]\n\n@@ @@\n\nComing Soon!\n\n@@ @@\n\n[[footnoteblock]]\n[!-- 각주를 댓글 위에 표시하기 위한 구문입니다. 지우지 마시고 초안은 이 위에 쓰세요.  --]",
+  "tags": [
+    "_이야기-허브",
+    "ko",
+    "허브"
+  ],
+  "author": "Plone",
+  "created_at": "2023-07-02T00:56:08+00:00",
+  "updated_at": "2024-09-24T11:51:59+00:00",
+  "rating": 10,
+  "_site": "scpko",
+  "_fullname": "the-innocent-ones"
+}

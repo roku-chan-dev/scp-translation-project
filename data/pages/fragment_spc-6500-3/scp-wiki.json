@@ -1,0 +1,13 @@
+{
+  "title": "SPC-6500-3",
+  "content": "[[include :scp-wiki:theme:black-highlighter-theme]]\n[[include :scp-wiki:theme:extra-black-highlighter-theme]]\n[[include :scp-wiki:theme:shark-punching-centre-bhl]]\n[[include :scp-wiki:component:toggle-sidebar-bhl]]\n[[include :scp-wiki:component:centered-header-bhl]]\n[[module CSS]]\n#content-wrap::before {\n  content: \"\";\n  position: absolute;\n  height: 100%;\n  width: 100%;\n  top: 0;\n  left: 0;\n  background-repeat: repeat-x;\n  pointer-events: none;\n  opacity: 0.0;\n}\n[[/module]]\n\nSome people already think we're a laughingstock and call us the \"Shark Punching Centre.\" We'll be damned if we change our names to the \"Shark Conserving Centre\" instead.\n\nTim and Faeowynn Wilson are still mad about all the times we performed [[[SPC-446]]] on them, anyways. Something about \"animal cruelty.\"\n\nAnd, well. Even the strongest of us wouldn't be able to resist the allure of so many targets.\n\n[http://scp-wiki.wikidot.com/spc-6500/offset/1 > Cancel]",
+  "tags": [
+    "fragment"
+  ],
+  "author": "LORDXVNV",
+  "created_at": "2021-11-15T20:36:43+00:00",
+  "updated_at": "2021-11-15T21:18:16+00:00",
+  "rating": 0,
+  "_site": "scp-wiki",
+  "_fullname": "fragment:spc-6500-3"
+}

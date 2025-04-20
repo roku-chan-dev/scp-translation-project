@@ -1,0 +1,16 @@
+{
+  "title": "卑劣",
+  "content": "[[include :scp-wiki-cn:theme:admo]]\n[[module CSS]]\n\n:root {\n\n--admo-backdrop: url(https://scp-wiki.wikidot.com/local--files/admonition/admo-6820-bg.webp);\n\n--admo-color-bright: 199, 46, 51;\n--admo-color-dim: 24, 2, 4;\n--admo-color-dark: 6, 0, 1;\n--admo-color-alt: 148, 22, 24;\n\n--general-border-color: 50, 30, 31;\n--basalt-tertiary-color: 35, 10, 8;\n--darkdocument-background-color: 14, 10, 10;\n\n}\n\n[[/module]]\n[[module CSS]]\n\n/*\nEPISODE-SPECIFIC STYLING\n*/\n\n.no {\ncolor: transparent;\n}\n\n#page-content .lizard {\ntext-align: center;\nfont-family: var(--mono-font);\nfont-size: 1.25em;\nfont-weight: bold;\ncolor: rgb(var(--admo-color-bright)) !important;\n}\n\n.anom-bar-container.drygioni .text-part > .main-class::after {\nbackground-repeat: no-repeat;\n}\n\n#page-content .sigma {\nfont-family: 'Verdana';\nfont-size: 0.8rem;\nmax-width: 708px;\npadding: 12px;\n}\n\n#page-content .sigma p {\nletter-spacing: 0px;\n}\n\n[[/module]]\n\n[[=]]\n[[div style=\"margin: auto; text-align: center;\"]]\n[[=]]\n\n[[include :scp-wiki:component:author-label-source start=--\n|name=TroutMaskReplica|center=*]]\n\n> 我必须脱离我的皮肤\n> 但我却不知从何开始\n> 如今我感觉毫无价值\n> [*https://youtu.be/H9o8XGkHSps?si=SXqZKIFOLAlVaT-A 徒有疯狂常伴我心。]\n(AJJ - Hate, Rain on Me)\n\n[[span class=\"bt st\"]]卑劣[[/span]]\n\n作者：[*/trouts-authorpage TroutMaskReplica]\n\n在[*/admonition 此]阅读更多《告诫》系列！\n\n[[include :scp-wiki:component:author-label-source end=--]]\n[[/=]]\n[[/div]]\n\n\n\n[[div class=\"smallmodal\"]]\n[[div class=\"lizard\"]]\n他们在鄙弃中颤抖。\n\n他们惧怕着自身所不理解之物。他们的恐惧贯穿我的存在，无论他们是失败还是理智。\n\n他们撕裂了我的本质。将肌腱从我骨上扯下，毫不留情地揭开我血肉的织锦。\n\n他们释放出憎恶之物，一件又一件，希求每一件都能成为我死亡的先驱。祈祷着死亡甜美的解脱。哦，我多么//渴望//痛苦麻木的怀抱来终止我悲惨的存在。\n\n然而，死亡避离了我。痛如水晶的碎片深深地割入，双眼凿出，骨骼碎裂，劝诱我的本质逐渐渗透。\n\n我吼叫着，自折磨中诞生的原初的咆哮，徒劳地违抗着无可避免之物。在怪诞的剧痛之中，我向我自身怪物的本性发起了一场战争。\n\n在这酸腐的地狱里，在虐待成性的测试里，我重生了一次又一次，那些狂癫的实验足以逼迫最残暴的生物到达疯狂的极限。\n\n\n直到那命运的一周，它终止了。那扭曲的喘息让我期待着迫近的风暴。我抬起头，准备迎接我已习惯的痛苦，但它从未到来。沉默嘲弄着我。\n\n我躺在阴影之中，等待着。他们冷眼旁观，满目不见一点恐惧，仅剩报复的满足。笑声从我喉间爆裂，刺耳的音调回荡在空荡的空间之中。讥讽着他们无力的复仇。\n\n直至连它也一并终止。\n@@ @@\n@@ @@\n@@ @@\n@@ @@\n@@ @@\n@@ @@\n@@ @@\n@@ @@\n@@ @@\n@@ @@\n@@ @@\n刹那间，我被撕为碎片，熟悉的疼痛如锯齿的刀锋割裂我的意识。黑暗笼罩了我，空虚蚕食着我所存在的每一根纤维。\n\n仇恨在心中焚烧，愤怒的火狱回荡在无尽时间的虚无之中。\n\n那是一道深渊，超越时间的空虚。分钟、小时、十年、乃至千年的区别，在永恒的空无之中失却了全部意义。\n\n直到我在黑暗之中寻到光明。永恒在无知无觉间度过。透过玻璃的面板，我看见了那些陌生的脸，已遗忘我身份之人。笑意铭刻在我新的形态之上，敌意却在心中酝酿。\n\n他们承诺比我索求更多的东西。他们授予我更强大的力量。疼痛变成了遥远的回忆，取而代之的洪流名为[[span class=\"bt st\"]]暴怒[[/span]]\n\n我感觉无比卑鄙。\n\n我感觉无比愤懑。\n\n我感觉无比厌恶。\n@@ @@\n[[html]]\n<video style=\"width: 100%; height: 100%;\" autoplay muted loop>\n<source src=\"http://esperanzacai.wikidot.com/local--files/files/6820.mp4\" type=\"video/mp4\">\n</video>\n[[/html]]\n@@ @@\n@@ @@\n+ [[[SCP-6820 |我感觉恶心。]]]\n[[/=]]\n[[/div]]\n[[/div]]\n[[div class=\"admo-end_card\"]]\n[[div class=\"admo-credits\"]]\n[[div]]\n+++ [[span class=\"ctrl\"]]卑劣[[/span]]\n[[/div]]\n[[div]]\n[[span class=\"cond\"]]BY @@ @@ **TROUTMASKREPLICA**[[/span]]\n[[span class=\"cond\"]]基于**SCP-6820** BY @@ @@ **LIRYN, PLACEHOLDER 与 STEPHLYNCH**[[/span]]\n[[/div]]\n[[/div]]\n[[/div]]",
+  "tags": [
+    "不灭孽蜥",
+    "悲剧",
+    "故事",
+    "第一人称"
+  ],
+  "author": "Esperanza_Cai",
+  "created_at": "2024-03-14T14:23:47+00:00",
+  "updated_at": "2024-03-14T14:25:01+00:00",
+  "rating": 1,
+  "_site": "scp-wiki-cn",
+  "_fullname": "vile"
+}

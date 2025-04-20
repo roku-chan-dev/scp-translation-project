@@ -1,0 +1,13 @@
+{
+  "title": "TATTLETALE FRAGMENT 4",
+  "content": "[[include :scp-wiki-cn:theme:black-highlighter-theme]]\n[[module CSS]]\n#page-title {\n    display: none;\n}\n\ndiv.expoblock {\n    border: 0.5rem solid #1a1a1a;\n    padding: 1rem;\n}\n.expoblock hr {\n    height: 0.6rem;\n    margin: 1.5em 0;\n    background-color: black;\n}\n\n[[/module]]\n[[include :scp-wiki:component:blacklight-box-source |inc-source= --]]]\n[[include :scp-wiki:component:blacklight-box-source |inc-colors= --]\n|color-family=big-yikes\n|bg-color=rgb(252, 252, 252)\n|txt-color=rgb(5, 5, 5)\n|border-color=rgb(5, 5, 5)\n|label-bg-color=rgb(5, 5, 5)\n|label-txt-color=rgb(252, 252, 252)\n]]\n[[module CSS]]\n#page-title {\n    display: none;\n}\n\n.blbf-main > div::before {\n    top: -0.5rem;\n    left: -0.35em;\n}\n\n.blbf-main > div {\n    border: 0.50rem black solid;\n    margin-left: auto;\n}\n\n.blbf-main > div::before {\n    background-color: black;\n}\n\nspan.hilighter {\n    background-color: rgb(var(--black-monochrome));\n    color: white;\n    font-weight: bold;\n    padding: 0.2em;\n    font-size: 108%;\n    line-height: 1.2;\n}\n\na.collapsible-block-link {\n    color: transparent!important;\n    background-color: transparent!important;\n}\n[[/module]]\n[[=]]\n+ [http://scp-wiki-cn.wikidot.com/scp-2744 点此进入沉浸式阅读模式]\n[[/=]]\n[[div class=\"expoblock\"]]\n[[=]]\n[[span class=\"hilighter\"]]\n+ 欢迎，威廉·米勒\n[[/span]]\n\n++ 该异常目前对你并无威胁。请确保以下几点：\n[[/=]]\n[[/div]]\n@@ @@\n[[div class=\"expoblock\"]]\n++ 1. 你已向所有关系亲近的家庭成员及朋友传达你对他们的爱意，并已弥补一切缺憾之事。\n\n++ 2. 你已在人事或法务部门的代表处留下一份有约束力且合法的遗嘱。指定执行人必须是一名基金会职员。\n\n++ 3. 你已接受“进一步访问该终端//必将//导致你被立即处决”的事实。\n\n++ 4. 你已知晓并接受“上述处决过程将会极为痛苦”的事实。\n[[/div]]\n[[=]]\n[[div class=\"expoblock\"]]\n++ [[span class=\"hilighter\"]]请再次登录以确认。[[/span]]\n++ [[span class=\"hilighter\"]]**用户名：**[[/span]] WMiller119\n++ [[span class=\"hilighter\"]]**密码：**[[/span]] @<*************>@\n+ [http://scp-wiki-cn.wikidot.com/scp-2744/offset/5 点击登录]\n[[/=]]\n[[/div]]",
+  "tags": [
+    "段落"
+  ],
+  "author": "ahshow",
+  "created_at": "2021-10-31T13:18:19+00:00",
+  "updated_at": "2023-05-27T15:51:12+00:00",
+  "rating": 0,
+  "_site": "scp-wiki-cn",
+  "_fullname": "fragment:scp-2744-4"
+}

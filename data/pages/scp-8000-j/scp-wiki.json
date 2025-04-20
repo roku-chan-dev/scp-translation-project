@@ -1,0 +1,17 @@
+{
+  "title": "SCP-8000-J",
+  "content": "[[>]]\n[[module rate]]\n[[/>]]\n\n[[include theme:black-highlighter-theme]]\n[[include :scp-wiki:component:info-ayers\n|page= [!-- url of your page on the scp wiki --]\n|authorPage=http://www.scp-wiki.net/dr-tonnes-personnel-file[!-- link to your author page --]\n|comments=N/A\n]]\n[[module CSS]]\n\n**Item #:** SCP-8000-J\n\n**Object Class:** Safe\n\n**Special Containment Procedures:** All references to the object class \"[REDACTED]\" in context to SCP-8000-J's effects have been expunged from this document. This is to prevent confusion following multiple reports of “inaccurate documentation”, resulting from SCP-8000-J’s own anomalous properties.\n\nFurther containment efforts of SCP-8000-J have been deemed unnecessary.\n\n**Description:** SCP-8000-J is an infohazard affecting ~75% of individuals aware of the Foundation object classes “Safe”, “Euclid”, and “Keter”, including their designative purpose.\n\nAffected subjects believe that the object class \"[REDACTED]\" is instead pronounced \"[REDACTED]\" and cannot be convinced otherwise. Attempts to do so will result in subjects continuing to pronounce the term incorrectly, believing the designation to be a homonym for another word that is spelled identically. Subjects will perceive any contradicting evidence as false or inaccurate, often blaming its originating source for being misguided or ill-informed.\n\n**Addendum:** The percentage of affected personnel has increased to ~97% since SCP-8000-J’s initial discovery. As SCP-8000-J is ultimately harmless and requires an awareness of the Foundation’s classification system to be effected, containment is considered low priority. As of writing, it is estimated that all Foundation personnel will become affected by SCP-8000-J in exactly two months.\n\nFor archive purposes, the corresponding object classes and their correct pronunciations have been listed below:\n\n[[collapsible show=\"Access File\" hide=\" \"]]\n> ++ **Euclid:** Yoo-kluhd\n> \n> ++ **Keter:** Keh-tuh \n> \n> ++ **Safe:** Saff-ay\n[[/collapsible]]\n[[include :scp-wiki:component:license-box]]\n[[include :scp-wiki:component:license-box-end]]",
+  "tags": [
+    "_licensebox",
+    "infohazard",
+    "joke",
+    "safe",
+    "scp"
+  ],
+  "author": "Penton",
+  "created_at": "2022-01-20T07:05:37+00:00",
+  "updated_at": "2022-10-22T16:24:36+00:00",
+  "rating": 77,
+  "_site": "scp-wiki",
+  "_fullname": "scp-8000-j"
+}

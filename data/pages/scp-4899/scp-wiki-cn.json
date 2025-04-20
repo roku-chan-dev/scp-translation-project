@@ -1,0 +1,18 @@
+{
+  "title": "SCP-4899",
+  "content": "[[include component:image-block\n   name=http://scp-wiki.wdfiles.com/local--files/scp-4899/SCP-4899.jpg|\n   caption=射电波段摄制的SCP-4899的假彩色图像\n]]\n\n**项目编号：** SCP-4899\n\n**项目级别：** --Euclid-- Keter\n\n**特殊收容措施：** \n[[collapsible show=\"+ 显示先前的收容措施\" hide=\"- 隐藏先前的收容措施\"]]\n基金会将会使用专门的卫星在轨道上监视坐标赤纬+17° 32’ 36”，赤经4h 57m 14s，最大可容忍偏差为1%。该专用卫星将在高轨道运行，监听、记录并干扰任何来自SCP-4899的通讯，这些通讯信号将被干扰至与宇宙背景辐射无法区分。\n\n携带射电观测设备的基金会作业人员将被指派阻止SCP-4899的观测与信号传输行为。如果需要，记忆删除操作（最高可达C级）将被批准。\n\n已经记录的来自SCP-4899的通讯将被发送到月面站点Area-32进行解密和存储。\n[[/collapsible]]\n\n**修订**\n在事故4899-R后，SCP-4899已经被编级为Keter。SCP-4899已经停止进行任何通讯活动。现在没有任何手段对SCP-4899进行收容。\n\n**描述：**SCP-4899是一个距离地球大约144光年的天体。该天体不发出可见光，但在射电波段有辐射。有趣的是，通过搭载临时接收装置的太空飞船进行的观测显示，SCP-4899对地球进行定向广播，除此之外没有任何其他区域接收到该天体发出的射电辐射。\n\nSCP-4899传输的内容一般为对地球进行直接摄制的得到的原始画面，清晰度比在这个距离上应该有的清晰度反常的高。进一步研究发现，该物体的传输内容无视了光速壁垒的存在，是地球上的实时影像，说明SCP-4899或者它的创造者拥有超光速技术。\n\n从被发现以后，SCP-4899传送的内容越来越像有意安排的内容：在18██，播送的内容为随机的地球上各个都市圈的图像；在19██，播送内容变为军事基地和各国元首所在地；在20██则为基金会的收容区域和站点。SCP-4899的仅使用外部观测即确定基金会站点的方法仍然未知。\n\n另外，在每次通信中断的大概半个小时后，被SCP-4899播送的地点将会遭遇突发灾难，这些灾难小到小型火灾，大到彻底的收容失效。随着SCP-4899传送更多的图像，灾难的覆盖范围正在持续增长。\n\n一些SCP-4899播送的内容如下。\n\n**附录4899-T:**\n[[collapsible show=\"+ 访问附录4899-T (需要3/4899权限)\" hide=\"- 接受权限，可以访问\"]]\n一些从SCP-4899传送至地球的图片（从原始影像中截取得到）：\n[[=]]\n[[include component:image-block\n   name=http://scp-wiki.wdfiles.com/local--files/scp-4899/4899cap1.jpg|\n   caption=内华达州的格鲁姆湖空军基地[[footnote]]**译注：**俗称“51区”，因为许多人相信它与众多的不明飞行物阴谋论有关而闻名。[[/footnote]]该图像被解密的34分钟后，发生一起大楼倒塌事故，导致█人伤亡。\n]]\n[[include component:image-block\n   name=http://scp-wiki.wdfiles.com/local--files/scp-4899/4899cap2.jpg|\n   caption=Site-66。接收到该图像的29分钟后，东翼楼突然失火，站点的30%进行了疏散，火灾导致了█人伤亡。\n]]\n[[include component:image-block\n   name=http://scp-wiki.wdfiles.com/local--files/scp-4899/4899cap3.jpg|\n   caption=存储站点Site-64。该通信中断36分钟后，距离该站点的3英里远的地点发生了一次地震，导致了站点██人伤亡。\n]]\n[[include component:image-block\n   name=http://scp-wiki.wdfiles.com/local--files/scp-4899/4899cap4.jpg|\n   caption=Area-6。该通信被解密的28分钟后，一场收容突破发生，██人死亡。\n]]\n[[include component:image-block\n   name=http://scp-wiki.wdfiles.com/local--files/scp-4899/4899cap5.jpg|\n   caption=Area-96。该图像的传输被中断的40分钟后，[数据删除]，██人伤亡。\n]]\n[[include component:image-block\n   name=http://scp-wiki.wdfiles.com/local--files/scp-4899/4899message1.jpg|\n   caption=于████-██-██接收到的信息，意义未知。\n]]\n[[/=]]\n[[/collapsible]]\n\n**事故4899-R:**\n[[collapsible show=\"+ 访问事故4899-R (需要4/4899权限)\" hide=\"- 接受权限，可以访问\"]]\n在协调世界时████-██-██ ██:██，SCP-4899发送了一个4秒长的视频片段，此后不再发送信号。在最后的信号中获得了如下静态图像：\n[[=]]\n[[include component:image-block\n   name=http://scp-wiki.wdfiles.com/local--files/scp-4899/4899message2.jpg|\n   caption=没有从SCP-4899处获得更多内容。\n]]\n[[/=]]\nSCP-4899分析团队以8-3的投票结果将SCP-4899的编级从Euclid更改至Keter。\n[[/collapsible]]\n\n[[footnoteblock]]\n\n[[div class=\"footer-wikiwalk-nav\"]]\n[[=]]\n<< [[[SCP-4898]]] | SCP-4899 | [[[SCP-4900]]] >>\n[[/=]]\n[[/div]]",
+  "tags": [
+    "keter",
+    "scp",
+    "反物理定律",
+    "星际",
+    "通讯",
+    "预测性"
+  ],
+  "author": "Rigil Kentaurus",
+  "created_at": "2019-03-02T21:15:53+00:00",
+  "updated_at": "2019-09-07T07:19:49+00:00",
+  "rating": 1,
+  "_site": "scp-wiki-cn",
+  "_fullname": "scp-4899"
+}

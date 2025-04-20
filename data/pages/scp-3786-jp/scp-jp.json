@@ -1,0 +1,24 @@
+{
+  "title": "SCP-3786-JP",
+  "content": "[[include :scp-jp:credit:start]]\n**タイトル:** SCP-3786-JP - 君の/僕の生きる意味\n**著者:** [[*user Tetsu1]]\n**作成年:** 2024\n\n**⚠ コンテンツ警告:** 本記事は以下の内容を含みます。\n* いじめの描写\n* 全体的な鬱描写\n* 生理的嫌悪感および**__集合体恐怖症__**を刺激する画像\n* 魚の開きへの風評被害\n閲覧の際は注意してください。\n[[include credit:cc4]]\n[[include :scp-jp:credit:end]]\n[[include :scp-wiki:component:info-cw]]\n[[module CSS]]\n.body-text {\n    margin: 2% 13% 2% 9%;\n    padding: 5px 20px 5px 20px;\n    background-color: #f2f2f2;\n    color: #111;\n}\n\n.text4desk {\n    width: 70%;\n    margin: auto;\n}\n\n@media only screen and (max-width: 600px) {\n\n    .body-text {\n        margin: 0% 4% 0% 4%;\n    }\n\n    .text4desk {\n        width:100%;\n    }\n\n}\n[[/module]]\n\n@@ @@\n@@ @@\n[[module ListPages  category=\"fragment\" parent=\".\" limit=\"1\" order=\"created_at\" offset=\"@URL|0\"]]\n%%content%%\n[[/module]]\n\n[!-- http://scp-jp.wikidot.com/fragment:scp-3786-jp-0 --]\n[!-- http://scp-jp.wikidot.com/fragment:scp-3786-jp-1 --]\n[!-- http://scp-jp.wikidot.com/fragment:scp-3786-jp-2 --]\n\n[[footnoteblock]]",
+  "tags": [
+    "jp",
+    "safe",
+    "scp",
+    "地質",
+    "場所",
+    "幻覚",
+    "恐怖コン24",
+    "感覚",
+    "構造",
+    "死体",
+    "精神影響",
+    "記憶影響"
+  ],
+  "author": "Tetsu1",
+  "created_at": "2024-09-01T12:42:15+00:00",
+  "updated_at": "2024-09-01T12:43:07+00:00",
+  "rating": 48,
+  "_site": "scp-jp",
+  "_fullname": "scp-3786-jp"
+}

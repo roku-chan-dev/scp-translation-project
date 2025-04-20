@@ -1,0 +1,14 @@
+{
+  "title": "SCPカレンダー",
+  "content": "[[>]]\n[[module Rate]]\n[[/>]]\n\n> こんにちは！ これは作成年月によってまとめられたSCP-JP記事のリストです。この驚くほどエキサイティングなリストは、SCPシリーズがどのように進化してきたのかを知るのに役立つでしょう。 -- Roget\n\n[[module PageCalendar category=\"_default\" tags=\"+scp +jp\"]]\n[[module ListPages category=\"_default\" tags=\"+scp +jp\" perPage=\"100\" date=\"@URL\" separate=\"false\" prependLine=\"||~ ページ||~ 作成日||~ 作成者||\"]]\n||%%linked_title%%||%%created_at|%Y年%m月%d日 %H:%M|agohover%%||%%author%%||\n[[/module]]",
+  "tags": [
+    "jp",
+    "管理"
+  ],
+  "author": "Elfen_mathL",
+  "created_at": "2018-08-13T17:03:43+00:00",
+  "updated_at": "2021-01-10T17:13:40+00:00",
+  "rating": 23,
+  "_site": "scp-jp",
+  "_fullname": "scp-calendar"
+}

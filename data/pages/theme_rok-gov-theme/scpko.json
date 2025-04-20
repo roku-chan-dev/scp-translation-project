@@ -1,0 +1,16 @@
+{
+  "title": "대한민국 정부 테마 (국가초상방재원 테마)",
+  "content": "[[include :scpko:component:rok-gov-base\n|alt={$alt}|alt=0\n|format-disable={$format-disable}|format-disable=1\n|header={$header}|header=npes\n|title={$title}|title=국가초상방재원\n|subtitle={$subtitle}|subtitle=National Paranormal Emergency Service\n]]",
+  "tags": [
+    "_cc",
+    "ko",
+    "국가초상방재원",
+    "테마"
+  ],
+  "author": "thd-glasses",
+  "created_at": "2020-07-09T23:13:08+00:00",
+  "updated_at": "2022-05-19T10:16:16+00:00",
+  "rating": 7,
+  "_site": "scpko",
+  "_fullname": "theme:rok-gov-theme"
+}

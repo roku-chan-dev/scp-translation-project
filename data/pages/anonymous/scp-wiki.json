@@ -1,0 +1,19 @@
+{
+  "title": "The Wisdom To Know The Difference",
+  "content": "[[include component:info-ayers\n|lang=en[!-- EN/RU/KO/CN/FR/PL/ES/TH/JP/DE/IT/UA/PTBR --]\n|page=anonymous[!-- url of your page on the scp wiki --]\n|authorPage=http://www.scp-wiki.net/dr-cimmerian-s-personnel-file[!-- link to your author page --]\n|comments= An idea I had. Evaluation form is adapted from one I found online from the University of Washington.\n]]\n[[include theme:black-highlighter-theme]]\n[[module CSS]]\nsup { \nvertical-align: top; position: relative; top: -0.5em; \n}\n:root{ \n--cutColour: #fafafa;\n--barColour: #590505;\n}\n\n.info-container .collapsible-block-folded a{\ncolor: #FFF;}\n.info-container .collapsible-block-unfolded-link a{\ncolor: #FFF;}\n\n.translation_block{\ndisplay:none;}\n[[/module]]\n[[module css]]\n#side-bar {\n    background: rgb(var(--white-monochrome));\n}\n\n#side-bar div.menu-item a, #side-bar div.menu-item .text {\n    color: rgb(var(--black-monochrome));\n}\n\n#side-bar>div:nth-child(5) {\n    background-color: rgba(var(--dark-accent),0.25)!important;\n}\n[[/module]]\n\n[[>]]\n[[module Rate]]\n[[/>]]\n\n[[image evaluation.png]]\n\n----\n\nDr. Jameson looked around nervously at the guards to his right and left. They'd begun escorting him from Dr. Kirkland's office as soon as he signed the evaluation form. Former friends averted their eyes as he passed them in the hallway. He'd heard about what happened to fuck ups like him: termination. It'd said it clearly at the bottom of the form.\n\nBut it said he had one more chance. Was that a lie? Was he being walked out the door? To get amnesticized? To a dark floor he'd never seen before and that he'd never come back from?\n\nAfter a few minutes he met Dr. Kirkland at a nondescript door one level down. Kirkland was smiling, the prick.\n\n\"Jerome. Believe it or not I still think you've got a lot to contribute to the Foundation. You're just a little lost. You're going to attend a department meeting on the other side of this door. Everything you see and hear in there is classified.\"\n\nDr. Jameson shook his head. \"I don't understand, I thought you were thinking of pulling my clearance?\"\n\nDr. Kirkland nodded. \"We are. Until then you've still got it. I think you should sit in on this department meeting and decide if you'd like to transfer or not.\"\n\nDr. Jameson didn't know what to say so he just nodded and reached for the doorknob. He half expected a firing squad on the other side, but as the door opened he realized it was much worse than that.\n\nThe meeting was already underway. The smell of stale coffee and donuts filled Dr. Jameson's nose. A man that Jameson recognized stood at the front of the room behind a podium and began to speak.\n\n\"My name is Jeremiah Cimmerian. And I'm an alcoholic.\"\n\n[[=]]\n**<< [[[http://www.scp-wiki.net/mugging-the-monster |Mugging The Monster]]]  | [[[http://www.scp-wiki.net/rammer-jammer-yellow-hammer-hub |Rammer Jammer Yellow Hammer]]] | [[[http://www.scp-wiki.net/a-slice-of-life-for-a-man-completely-uncomfortable |A Slice of Life For a Man Completely Uncomfortable]]] >>**\n[[/=]]\n\n[[include :scp-wiki:component:license-box]]\n=====\n> **Filename:** evaluation.png\n> **Author:** [[*user Doctor Cimmerian]]\n> **License:** CC BY-SA 3.0\n> **Source Link:** [https://scp-wiki.wikidot.com/anonymous SCP Foundation Wiki]\n=====\n[[include :scp-wiki:component:license-box-end]]",
+  "tags": [
+    "_cc",
+    "_licensebox",
+    "bureaucracy",
+    "doctor-cimmerian",
+    "slice-of-life",
+    "tale",
+    "the-gulf"
+  ],
+  "author": "Doctor Cimmerian",
+  "created_at": "2018-07-30T22:13:07+00:00",
+  "updated_at": "2024-11-23T20:40:21+00:00",
+  "rating": 48,
+  "_site": "scp-wiki",
+  "_fullname": "anonymous"
+}

@@ -1,0 +1,18 @@
+{
+  "title": "SCP-4071",
+  "content": "[[module ListPages  category=\"fragment\" parent=\".\" limit=\"1\" order=\"created_at\" offset=\"@URL|0\"]]\n%%content%%\n[[/module]]\n\n[!-- http://scp-wiki-cn.wikidot.com/fragment:scp-4071-1 --]\n[!-- http://scp-wiki-cn.wikidot.com/fragment:scp-4071-2 --]\n[!-- http://scp-wiki-cn.wikidot.com/fragment:scp-4071-3 --]\n\n[[footnoteblock]]\n\n[[div class=\"footer-wikiwalk-nav\"]]\n[[=]]\n<< [[[SCP-4070]]] | SCP-4071 | [[[SCP-4072]]] >>\n[[/=]]\n[[/div]]",
+  "tags": [
+    "k级情景",
+    "scp",
+    "无效化",
+    "玛娜慈善基金会",
+    "电脑",
+    "记忆影响"
+  ],
+  "author": "jerrywcy",
+  "created_at": "2020-11-20T13:29:23+00:00",
+  "updated_at": "2020-11-20T15:30:00+00:00",
+  "rating": 3,
+  "_site": "scp-wiki-cn",
+  "_fullname": "scp-4071"
+}

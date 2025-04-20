@@ -1,0 +1,20 @@
+{
+  "title": "SCP-6555",
+  "content": "[[include :scp-wiki-cn:theme:black-highlighter-theme]]\n[[include :scp-wiki-cn:theme:jakstyle]]\n[[module CSS]]\n.creditButtonStandalone p a{\n    background: var(--bg-dark) !important;\n}\n.footnotes-footer {\ndisplay: none;\n}\n[[/module]]\n\n[[include :scp-wiki-cn:credit:start-standalone]]\n[[=]]\n[[*user JakdragonX]]与[[*user Ralliston]]合著\n\n**[https://scp-wiki-cn.wikidot.com/jakdragonx-rage-collection JakdragonX'的作者页]**\n\n**[http://scp-wiki-cn.wikidot.com/ralliston-s-authorpage Ralliston的作者页]**\n\n**[http://scp-wiki-cn.wikidot.com/ongoing-incident-jakdragonx-ralliston JakdragonX's与Ralliston共享的作者页]**\n[[/=]]\n\n[[include :scp-wiki-cn:credit:end-standalone]]\n\n[[size 1%]]##transparent|.##[[/size]]\n\n[[include component:image-block name=http://scp-wiki.wikidot.com/local--files/scp-6555/galaxy.jpg|caption=XEO 8537-A所在星系的照片，由超光速粒子扫描仪拍摄。|width=350px]]\n\n**项目编号：**SCP-6555\n\n**项目等级：**Safe\n\n**特殊收容措施：**由于其与最近的居民地距离遥远，无需收容SCP-6555。\n\n**描述：**SCP-6555指代流浪天体XEO 8537-A[[footnote]]一颗小型岩石矮行星，表面含有高浓度氦-3，不围绕任何临近的恒星旋转。[[/footnote]]上一未知建筑的残骸。在深空卫星探测到微弱的电磁波动后，SCP-6555于26,576 HE发现，其中心持续以古代表示紧急情况的无线电频率发出广播。\n\n送往XEO 8537-A表面观察SCP-6555的研究探测器至今尚未得出结果。在SCP-6555内部的勘探提供了如下结果：\n* SCP-6555的构造及布局表明其结构曾是半模块化的。勘探过程中注意到西北和东部区域附近存在扭曲的钢铁和破碎的人造合成物，表明地表发生过强烈冲击。[[footnote]]有关XEO 8537-A的可用信息未报告有频繁的小行星或行星外撞击的历史。[[/footnote]]\n* 在位于SCP-6555南部区域的15A号房内，一系列由棉花和羊毛软垫、粘合剂以及钢圈弹簧制作的矩形物体零散地分布在各处。\n* 可在SCP-6555内找到其他不明物体，例如06号房内装满水的圆形塑料容器。\n* 通风设备、空调设备以及其他SCP-6555内存在的原始系统显示出建筑内部曾得到充分的维护，且有氧气供应。\n* 在SCP-6555的中央传讯器附近发现了各种含钙碎片和韧带结构，其DNA构成与古代哺乳动物器官几乎相同。这些碎片的年代可追溯到至少上千年前，表明其分解速度的快速是非自然、且可能是异常的。\n\n**附录 6555-1：**发现SCP-6555数月后，基金会工作人员得以翻译其广播信息，结果如下：\n\n[[div class=\"blockquote\"]]\n= 我们离寻到丢失之物更近了。那曾掀起潮汐、震撼世界的东西现在将指引我们回去。不要失去信念。我们从未如此靠近[[[sotmhub|回家的路]]]。\n[[/div]]\n\n此外，勘探中发现SCP-6555内部镌刻有数个基金会标志，有待进一步调查。\n\n[[collapsible show=\"+ 访问可用的卫星图像\" hide=\"- 关闭可用的卫星图像\"]]\n[[include component:image-block\n    name=http://scp-wiki.wikidot.com/local--files/scp-6555/moon.png|\n    caption=从XEO 8537-A表面拍摄的SCP-6555图像。|\n    align=center |\n    width=100%\n]]\n[[/collapsible]]\n\n[[footnoteblock]]\n[[div class=\"footer-wikiwalk-nav\"]]\n[[=]]\n<< [[[SCP-6554]]] | SCP-6555 | [[[SCP-6556]]] >>\n[[/=]]\n[[/div]]\n\n[[include :scp-wiki-cn:component:license-box\n|author=JakdragonX与Ralliston]]\n=====\n> **文件名：**galaxy.jpg\n> **来源链接：**[https://search.creativecommons.org/photos/d42a5d3a-8523-4cdc-8989-4346343333b1 点此]\n> **授权协议：**CC BY 2.0\n> **图像作者：**[https://www.flickr.com/photos/24662369@N07 NASA戈达德太空飞行中心]\n=====\n> **文件名：**moon.png\n> **来源链接：**[http://scp-wiki.wikidot.com/local--files/scp-6555/moon.png 点此]\n> **衍生自：**来自NASA的戈达德太空飞行中心的[https://www.flickr.com/photos/24662369@N07/8252445443 此图像]，在署名2.0通用下授权；以及来自欧洲空间局的[https://www.flickr.com/photos/37472264@N04/5811265766 此图像]，在署名-相同方式共享2.0通用下授权。\n> **授权协议：**知识共享-署名-相同方式共享3.0协议\n> **图像作者：**[[*user gremlingroup]]\n=====\n[[include :scp-wiki-cn:component:license-box-end]]",
+  "tags": [
+    "safe",
+    "scp",
+    "sotm",
+    "卫星",
+    "合著",
+    "建筑",
+    "星际",
+    "通讯"
+  ],
+  "author": "Esperanza_Cai",
+  "created_at": "2021-08-19T03:27:01+00:00",
+  "updated_at": "2023-05-21T08:47:29+00:00",
+  "rating": 7,
+  "_site": "scp-wiki-cn",
+  "_fullname": "scp-6555"
+}

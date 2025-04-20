@@ -1,0 +1,14 @@
+{
+  "title": "블록 접기",
+  "content": "[[collapsible show=\"+ 블록 접기 설명\" hide=\"- 잘하셨어요\"]]\n@@[[collapsible]]@@ 태그는 클릭 한번으로 페이지 사용자가 펼치기/접기가 가능한 텍스트의 블록을 생성합니다. 짧은 텍스트 블록이라면 다음과 같이 사용해주세요.\n\n[[code]]\n[[collapsible show=\"+ 보이기\" hide=\"- 숨기기\"]]\n보이기/숨기기 하려는 텍스트.\n[[/collapsible]]\n[[/code]]\n\n블록 접기에는 어떠한 위키닷 텍스트 형식이라도 가능합니다.\n\n@@[[collapsible]]@@나 @@[[/collapsible]]@@ 태그를 줄에 같이 넣으면 변환되지 않게 됩니다.\n\n기본적으로, 펼치기 링크는 \"+ show block\", 접기 링크는 \"- hide block\"가 나타나게 됩니다. 긴 블록이라면, @@hideLocation=\"both\"@@ 옵션을 추가하면 펼쳤을 때 아래위 둘 다 숨기기 링크가 보이게 됩니다. hideLocation 옵션의 다른 값으로는 \"top\" (기본값)과 \"bottom\"이 있습니다.\n\n마지막으로, 펼치기가 기본이 되고 사용자가 원할 때 접게 하려면 @@folded=\"no\"@@를 사용할 수 있습니다. 예를들면, 이 속성은 목차 등에 사용됩니다.\n[[/collapsible]]",
+  "tags": [
+    "관리",
+    "안내"
+  ],
+  "author": "Dr Devan",
+  "created_at": "2014-11-21T14:23:28+00:00",
+  "updated_at": "2014-11-21T14:23:58+00:00",
+  "rating": 2,
+  "_site": "scpko",
+  "_fullname": "wiki-syntax:collapsible-blocks"
+}

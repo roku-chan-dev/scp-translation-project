@@ -1,0 +1,13 @@
+{
+  "title": "Croquembouche's Workbench",
+  "content": "[[module ListPages category=\"*\" tags=\"tale\" perPage=\"250\" order=\"created_at\" separate=\"no\"]]\n|| %%title%% || %%link%% || %%created_at|%Y-%m-%d %T%% ||\n[[/module]]",
+  "tags": [
+    "workbench"
+  ],
+  "author": "Croquembouche",
+  "created_at": "2020-09-03T20:28:55+00:00",
+  "updated_at": "2022-03-17T23:31:02+00:00",
+  "rating": 12,
+  "_site": "scp-wiki",
+  "_fullname": "croq-workbench"
+}

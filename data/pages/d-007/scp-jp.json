@@ -1,0 +1,15 @@
+{
+  "title": "D-007",
+  "content": "[[module CSS]]\n\ndiv#header h1 a span {\n    font-size: 0px;\n}\ndiv#header h1 a:before {\n    content: \"SCPだいざん\";\n    color: #eee;\n    \n}\n\n[[/module]]\n\n[[module css]]\n@import url('http://scp-wiki-de.wdfiles.com/local--code/component:ding-theme/1');\n[[/module]]\n[[include credit:start]]\n\n**記事:** D-007\n**著者:** [[*user Sonicast]]\n\n[[include credit:end]]\n\n**ものごと ばんごう:** えーとね…7があいてる…\n\n**ものごとクラス:** すつつごいイライラ!\n\n**まもるやつ:** けーかくしたり、いつおわらせるのか時間を決めるくちゃいけません! それか、それがされてるか注意するためにほどほどにママとパパは言ったりします。\n\n**せつめり:** それはわたしがやることをじやまして、もっと楽しいおもちやに集ちゅうさせて、全部さいごまで引きのばさせます。だからママとパパは宿だいをしたり、夜ねる前にやることだけを片つけるように言わなくちやいけません。だけど時間がたたらそれはわたしをこわがらせて、ダメに見えるかやってないとこだけ、ぜんぶすぐにやちゃいます。\n\n//ps: えと、まだおわてないです。//",
+  "tags": [
+    "de",
+    "ding",
+    "scp"
+  ],
+  "author": "Mas_kera_de",
+  "created_at": "2020-05-26T05:50:16+00:00",
+  "updated_at": "2021-01-10T18:23:51+00:00",
+  "rating": 11,
+  "_site": "scp-jp",
+  "_fullname": "d-007"
+}

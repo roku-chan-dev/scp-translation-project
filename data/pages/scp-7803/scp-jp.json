@@ -1,0 +1,21 @@
+{
+  "title": "SCP-7803",
+  "content": "[[module CSS]]\n.email-example .collapsible-block-folded a.collapsible-block-link {\n    animation: blink 0.8s ease-in-out infinite alternate;\n}\n@keyframes blink {\n    0% { color: transparent; }\n    50%, 100% { color: #b01; }\n}\n.email {border: solid 2px #000000; width: 88%; padding: 1px 15px; margin: 10px; box-shadow: 0 1px 3px rgba(0,0,0,.5)}\n.email-example a.collapsible-block-link {font-weight: bold;}\n.tofrom {margin-left: 10px; margin-top: 5px; padding: 1px 15px; border-left: solid 3px maroon}\n[[/module]]\n\n[[module css]]\n.page {\n    display: block;\n    overflow: hidden;\n    font-family: \"Monotype Corsiva\", \"Bradley Hand ITC\", sans-serif;\n    font-style: normal;\n    background-attachment: scroll;\n    background-clip: border-box;\n    background-color: transparent;\n    background-image: linear-gradient(to top ,rgb(202, 219, 228) 0%, rgb(231, 233, 220) 8%);\n    background-origin: padding-box;\n    background-position: 0px 8px;\n    background-repeat: repeat;\n    background-size: 100% 20px;\n    border: 1px solid #CCC;\n    border-radius: 10px;\n    padding: 10px 10px;\n    margin-bottom: 10px;\n    box-shadow: 0px 1px 3px rgba(0, 0, 0, 0.2)\n}\n.page p,\n.page ul {\n    line-height: 20px;\n    margin: 0;\n}\n[[/module]]\n\n\n[[module css]]\na#history-button, a#files-button {\ndisplay: none;\n}\n[[/module]]\n\n[[include :scp-jp:credit:start-preview]]\n**ソース:** [[[*https://scp-wiki.wikidot.com/scp-7803|SCP-7803]]]\n**メタタイトル:** キノコ様の言うとおり\n**著者:** [[*user Rab333]]\n**作成年:** 2023\n[[include :scp-jp:credit:end-preview]]\n\n[[include :scp-wiki:component:author-label-source start=--\n|name=Rab333]]\nドラッグに手を出しちゃいけないよ、子供たち。\n[*https://scp-wiki.wikidot.com/rab333-s-contained-anomalies それと私による他のやつも！]\n[[include :scp-wiki:component:author-label-source end=--]]\n\n\n[[include :scp-jp:component:anomaly-class-bar-source\n|item-number=7803\n|clearance=2\n|container-class=euclid\n|secondary-class=none\n|disruption-class=dark\n|risk-class=notice\n]]\n\n[[include :scp-jp:theme:black-highlighter-theme]]\n\n-----\n\n[[include component:image-block name=http://scp-jp-storage.wikidot.com/local--files/file:2375337-861-10m3/Guy.jpg|caption=SCP-7803-1。]]\n\n\n**特別収容プロトコル:** SCP-7803-1は既に死亡しているため、収容プロトコルは不要です。SCP-7803のサンプルは現在、サイト-23の標準的な生物学的収容室に保管されています。また、未発見のSCP-7803実例が存在する場合に備えて、イリノイ州シカゴ地域を監視する全般的な取り組みも行われています。\n\n**説明:** SCP-7803は//Panaeolus cinctulus//[[footnote]]和名: センボンサイギョウガサ[[/footnote]]の異常亜種です。このキノコは当初イリノイ州シカゴにのみ分布していましたが、SCP-7803-1によって完全に除去され、個人的に栽培されていました。SCP-7803を摂取した人物は、1991年ワールドシリーズ第7戦[[footnote]]1991年ワールドシリーズは、1991年度のメジャーリーグベースボール (MLB) の優勝決定戦でした。[[/footnote]]が終了するまでのコナー・ベアードの人生全体を体験します。SCP-7803の幻覚作用は毎回同一で、厳密に検証できない日常的な活動を別とすれば、SCP-7803-1の人生で起きた出来事とほぼ完全に[[footnote]]発見ログ7803.1を参照。[[/footnote]]一致します。前述したSCP-7803の作用は数時間ほど持続しますが、著しく歪曲した時間認識のため、被影響者は第7戦までのベアードの人生とほぼ等しい長さの体験をすることになります。\n\nSCP-7803-1はアメリカ人プロ野球選手、コナー・ベアードです。\n\n**発見ログ7803.1:**\n\nSCP-7803-1の死後、大量のSCP-7803が住居の数ヶ所に隠されているのが発見されました。公的記録上ではSCP-7803-1の死因は出血性脳卒中とされていますが、検死解剖の結果、SCP-7803-1の胃からは約49グラムのSCP-7803が発見されています。\n\nSCP-7803の実験中、全てのサイケデリック体験は、SCP-7803-1が第7戦終了後にミネソタ・ツインズへのスピーチを行う場面で終了したことが確認されました。1991年のワールドシリーズ最終戦において、このようなスピーチは記録・実行されていません。ミネソタ・ツインズの元選手たちの証言は、試合終了後、SCP-7803-1が長時間にわたって激しく嗚咽していたことを示唆します。\n\nSCP-7803の幻覚作用が預言的な性質のものだったのか、単純にSCP-7803-1が逐一それに従って行動していたのかは現在も不明です。後者が真であった場合、その行動が幻覚の内容を反映していた精度も併せて考えると、SCP-7803-1はSCP-7803の影響下で少なくとも数千年を費やしたと仮定されます。\n\n[[collapsible hide=\"更新 2013/04/03\" show=\"更新 2013/04/03\"]]\n[[<]]\nSCP-7803の隠匿に用いられていた小部屋の中から、SCP-7803-1の死亡直前に書かれたと思われるメッセージが発見されました。内容は以下の通りです。\n\n> もうどうしていいか分からない。キノコは僕を導くのを止めてしまった。僕は道を見失った。もう一日、もう一日、どうかもう一日だけ知識を恵んでくれ。僕が悪かった。\n[[/<]]\n[[/collapsible]]\n\n@@ @@\n@@ @@\n@@ @@",
+  "tags": [
+    "art-exchange",
+    "en",
+    "euclid",
+    "scp",
+    "人間型",
+    "味覚",
+    "幻覚",
+    "真菌類",
+    "知性"
+  ],
+  "author": "C-Dives",
+  "created_at": "2024-01-02T12:52:25+00:00",
+  "updated_at": "2024-01-02T12:52:49+00:00",
+  "rating": 9,
+  "_site": "scp-jp",
+  "_fullname": "scp-7803"
+}

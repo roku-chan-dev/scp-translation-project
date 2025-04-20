@@ -1,0 +1,13 @@
+{
+  "title": "5526 1",
+  "content": "[[include :scp-wiki:theme:black-highlighter-theme]]\n[[include :scp-wiki:theme:the-way-out]]\n[[module css]]\n#header h1 a::before {\n    content: \"MFA\";\n}\n#header h2 span {\n    color: transparent;\n    text-shadow: none;\n}\n#header h2 span::before {\n    content: \"Multiversal Foundation Alliance\";\n    color: white;\n}\n[[/module]]\n[[include :scp-wiki:component:collapsible-sidebar]]\n\n[[include :scp-wiki:component:object-warning-box-source\n|bg-image=https://scp-wiki.wikidot.com/local--files/component:object-warning-box-source/scp-logo.svg\n|bg-opacity=0.15\n|text-top=BY ORDER OF THE MULTIVERSAL OVERSEER COUNCIL \n|text-bottom=**The following file is Level 5/5526 Classified.**\n//All personnel viewing this file without permission will be terminated//\n|object-number=**5526**\n]]\n\n@@ @@\n@@ @@\n@@ @@\n@@ @@\n@@ @@\n@@ @@\n@@ @@\n@@ @@\n@@ @@\n@@ @@\n@@ @@\n[[module ListUsers users=\".\"]]\n[[div class=\"blockquote\"]]\nGreetings, (Agent/Doctor/Researcher/Overseer/Administrator) %%title%%. If you have access to this file, you have been hand picked by me and the other members of the Council, and for good reason. You may have no experience in the multiverse, but more likely, you work with the MU Department of your Foundation. Whatever the case, you are going to see things vastly different from what you are used to. Good luck. You're going to need it.\n[[/div]]\n[[/module]]\n@@ @@\n@@ @@\n@@ @@\n@@ @@\n@@ @@\n@@ @@\n@@ @@\n@@ @@\n@@ @@\n@@ @@\n@@ @@\n\n[[=]]\n> [[[https://scp-wiki.wikidot.com/scp-5526/offset/1|View the first iteration of this file?]]]\n[[/=]]",
+  "tags": [
+    "fragment"
+  ],
+  "author": "NotOrteil",
+  "created_at": "2022-09-22T19:10:39+00:00",
+  "updated_at": "2022-09-23T10:50:07+00:00",
+  "rating": 0,
+  "_site": "scp-wiki",
+  "_fullname": "fragment:5526-1"
+}

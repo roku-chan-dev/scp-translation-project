@@ -1,0 +1,14 @@
+{
+  "title": "기동특무부대 아이콘",
+  "content": "[[span class=\"mtfIcon\" style=\"border: solid 2px {$c2}; background-color: {$c3}; background: linear-gradient(to bottom right, {$c3},{$c2}); color: {$c0};\"]][[span class=\"letter\" style=\"text-shadow: {$c2} 1px 1px;\"]]{$letter}[[/span]][[span class=\"number\" style=\"color: {$c1}; text-shadow: {$c2} 1px 1px;\"]]{$number}[[/span]][[/span]] [[size 110%]]기동특무부대 **{$title}** (\"{$nick}\")[[/size]]",
+  "tags": [
+    "en",
+    "구성요소"
+  ],
+  "author": "Salamander724",
+  "created_at": "2014-03-09T14:34:42+00:00",
+  "updated_at": "2021-03-28T01:18:55+00:00",
+  "rating": 0,
+  "_site": "scpko",
+  "_fullname": "component:mtf"
+}

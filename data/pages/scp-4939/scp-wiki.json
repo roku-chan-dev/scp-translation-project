@@ -1,0 +1,19 @@
+{
+  "title": "SCP-4939",
+  "content": "[[>]]\n[[module Rate]]\n[[/>]]\n\n[[module ListPages  category=\"fragment\" parent=\".\" limit=\"1\" order=\"created_at\" offset=\"@URL|0\"]]\n%%content%%\n[[/module]]\n\n[!-- http://www.scp-wiki.net/fragment:scp-4939-1 --]\n[!-- http://www.scp-wiki.net/fragment:scp-4939-2 --]\n[!-- http://www.scp-wiki.net/fragment:scp-4939-3 --]\n[!-- http://www.scp-wiki.net/fragment:scp-4939-4 --]\n\n[[footnoteblock]]\n\n[[div class=\"footer-wikiwalk-nav\"]]\n[[=]]\n<< [[[SCP-4938]]] | SCP-4939 | [[[SCP-4940]]] >>\n[[/=]]\n[[/div]]",
+  "tags": [
+    "_listpages",
+    "document",
+    "electronic",
+    "extradimensional",
+    "meta",
+    "safe",
+    "scp"
+  ],
+  "author": "Mew-ltiverse",
+  "created_at": "2019-08-02T17:33:33+00:00",
+  "updated_at": "2021-11-01T18:53:17+00:00",
+  "rating": 73,
+  "_site": "scp-wiki",
+  "_fullname": "scp-4939"
+}

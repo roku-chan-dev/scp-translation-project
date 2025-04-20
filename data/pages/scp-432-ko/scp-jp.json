@@ -1,0 +1,18 @@
+{
+  "title": "SCP-432-KO",
+  "content": "[[>]]\n[[include :topia:sp-rate-info-2 start= --]]]\n**SCP-432-KO:** 神に永遠の命を授かって生まれた子\n**著者:** [[*user Didic]]\n\n[http://scp-jp.wikidot.com/didicpage この人の著者ページ]\n[[include :topia:sp-rate-info-2 end= --]]]\n[[/>]]\n\n[[include :scp-jp:theme:classic]]\n\n**アイテム番号:** SCP-432-KO\n\n**オブジェクトクラス:** Euclid\n\n**特別収容プロトコル:** SCP-432-KOは標準的な人間型収容室に収容されます。しかし、食料供給は不要です。\n\n**説明:** SCP-432-KOは体長4cmの胎児であり、怪我をした場合は直ちに回復し、周囲の環境によって異常性が変化したり、追加されたりします。現在このオブジェクトに追加された異常性は、異常な骨格強度[[footnote]]主に首の近く[[/footnote]]、水中呼吸、耐圧性、液体化、病気に対する免疫、栄養分の自己作成です。\n----\n@@ @@\n@@ @@\n@@ @@\n[[collapsible show=\"発見ログを開く\" hide=\"閉じる\"]]\n\nSCP-432-KOは██市の下水処理施設で発見され、██住宅団地から下水道を通って来たと考えられています。確保後、当該住宅団地には記憶処理を行いました。\n[[/collapsible]]\n@@ @@\n@@ @@\n@@ @@",
+  "tags": [
+    "euclid",
+    "ko",
+    "scp",
+    "人間型",
+    "自己修復",
+    "適応"
+  ],
+  "author": "MikuKaneko",
+  "created_at": "2022-05-31T08:26:41+00:00",
+  "updated_at": "2022-10-09T06:47:09+00:00",
+  "rating": -8,
+  "_site": "scp-jp",
+  "_fullname": "scp-432-ko"
+}

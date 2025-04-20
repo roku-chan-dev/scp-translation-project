@@ -1,0 +1,17 @@
+{
+  "title": "SCP-空白-J",
+  "content": "[[module CSS]]\n.email-example .collapsible-block-folded a.collapsible-block-link {\n    animation: blink 0.8s ease-in-out infinite alternate;\n}\n@keyframes blink {\n    0% { color: transparent; }\n    50%, 100% { color: #b01; }\n}\n.email {border: solid 2px #000000; width: 88%; padding: 1px 15px; margin: 10px; box-shadow: 0 1px 3px rgba(0,0,0,.5)}\n.email-example a.collapsible-block-link {font-weight: bold;}\n.tofrom {margin-left: 10px; margin-top: 5px; padding: 1px 15px; border-left: solid 3px maroon}\n[[/module]]\n[[include :scp-wiki-cn:theme:black-highlighter-theme]]\n@@ @@\n@@ @@\n@@ @@\n@@ @@\n@@ @@\n@@ @@\n@@ @@\n@@ @@\n@@ @@\n@@ @@\n@@ @@\n@@ @@\n@@ @@\n@@ @@\n@@ @@\n@@ @@\n@@ @@\n@@ @@\n@@ @@\n@@ @@\n@@ @@\n@@ @@\n[[div class=\"email-example\"]]\n[[=]]\n------\n[[collapsible show=\"May 先生，您有一（1）条新消息！\" hide=\"收起\"]]\n[[div class=\"email\"]]\n[[div class=\"tofrom\"]]\n[[<]]\n**自：**Nicholas May，逻辑部\n**至：**Marion Wheeler 主管，逆模因部\n**主题：**##red|（!）##SCP-空白-J\n-----\n早上好，Wheeler 主管。\n正如你所能在我邮件链接的文件中所见，某个 SCP 空位似乎获得了逆模因属性，我正就该问题向您请求援助：这样的空位似乎在您的领域中十分常见，因此我并不认为这对您以及您的研究员们来说是一个困难的挑战。\n热切期待您的答复。\n\n此致，\nNicholas May\n[[/<]]\n[[/div]]\n[[/div]]\n@@ @@\n@@ @@\n-----\n@@ @@\n@@ @@\n@@ @@\n[[div class=\"email\"]]\n[[div class=\"tofrom\"]]\n[[<]]\n**自：**Marion Wheeler 主管，逆模因部\n**至：**Nicholas May，逻辑部\n**主题：**回复：##red|（!）##SCP-空白-J\n-----\nNicholas May 先生，\n可能在您大喊逆模因之前，应该要先检查一下自己有没有点“保存”键。\n傻逼。\n[[/<]]\n[[/div]]\n[[/div]]\n\n[[/collapsible]]\n[[/=]]\n[[/div]]",
+  "tags": [
+    "marion-wheeler",
+    "meta",
+    "scp",
+    "搞笑",
+    "机密分级"
+  ],
+  "author": "hoah2333",
+  "created_at": "2021-12-20T18:47:52+00:00",
+  "updated_at": "2021-12-21T03:21:51+00:00",
+  "rating": 32,
+  "_site": "scp-wiki-cn",
+  "_fullname": "scp-blank-j"
+}

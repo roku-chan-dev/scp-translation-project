@@ -1,0 +1,15 @@
+{
+  "title": "SCP-8102",
+  "content": "[[include component:scp-pride]]\n\n[[include component:image-block name=https://scp-wiki.wdfiles.com/local--files/scp-8102/8102b.jpg|caption=SCP-8102-Y192，SCP-8102-Y的照片个例之一，呈现有典型的视觉歪曲]]\n\n**项目编号：**SCP-8102\n\n**项目等级：**Keter\n\n**特殊收容措施：**不再允许平民及基金会人员实际拜访SCP-8102。所有SCP-8102-Y个例，包括本文件（SCP-8102-Y 461）在内，必须存放于安保档案库内，不允许在测试外对其复制或转移。改动SCP-8102-Y仅可在SCP-8102研究部门成员检查后才能进行。\n\n**描述：**SCP-8102是一具有异常信息危害性质的物体，所有记录、描述或以其他方式表现该项目的物件一概会受到相同影响，将其转化为SCP-8102-Y。SCP-8102的物理特征及性质尚未被决定性地明确。\n\nSCP-8102-Y个例保留原有媒体及物理性质，但在视觉、语言和/或语义上被扭曲，使得读者无法准确辨认、区分出任何信息。SCP-8102-Y个例，包括本文件在内，还会对观察者产生一种额外的信息危害特质，使之可以清晰解读（或者坚持认为自己可以解读）SCP-8102-Y的内容。\n\n------\n\n[[collapsible show=\"+ 展示SCP-8102-Y照片版个例 +\" hide=\"- 收起 -\"]]\n\n[[include component:image-block name=https://scp-wiki.wdfiles.com/local--files/scp-8102/8102.jpg|width=50%|align=center|caption=SCP-8102-Y238]]\n\nSCP-8102-Y238是视觉干扰的示例，形式体现为颜色异变及明显模糊，似乎是属于压缩失真且添入了无关图片。这些因素使得照片上的原有要素不可能被区分或辨别。大部分SCP-8102-Y238观看者会错误报告称能够观察到一张大体未被扭曲的照片。\n[[/collapsible]]\n\n------\n\n[[collapsible show=\"+ 展示SCP-8102-Y文字版个例 +\" hide=\"- 收起 -\"]]\n> //SCP-8102-Y085示例//：\n>    \n> 泉渡魔法村是一座修建于新罕布什尔州泉渡市森林区域的公园。公园内有一步行道，两旁设有多个真人大小的妖精立体模型/民间传说场景以及其他奇幻画面，包括有可动模型及角色。在运营时间内，泉渡魔法村也会在固定时间推出戏服表演者重现著名故事桥段。\n\n以上SCP-8102-Y085选段是文本干扰的示例，其形式体现为将单词或字母换位或移除、将文本翻译为已知或未知的多种书写语言、以及加入无关主题或自相矛盾的陈述。这些因素使得原文本的内容及含义不可能得到确认。大部分SCP-8102-Y085阅读者会错误报告称读到了连贯且看似合理的句段。\n[[/collapsible]]\n\n------\n\n从解读SCP-8102-Y个体后得出的描述来看，对SCP-8102的描绘内容迥异，在不同人员和个体间均有差异。需注意的示例包括有：\n\n* SCP-8102是一处位于美国东北部的旅游景点，其特色为妖精传说相关场景，无法对其进行准确或可理解的描述。\n\n* SCP-8102是新罕布什尔州泉渡市的一家奇幻主题游乐园，具有直接及间接的信息危害特质。\n\n* SCP-8102是位于新英格兰的一处旅游景点“泉渡魔法村”，会对所有相关记录造成信息危害性扭曲。\n\n* SCP-8102是新罕布什尔州一处以欧洲民间传说为基础的主题公园，能异常性影响与之相关的文本或图像。\n \n所有根据SCP-8102-Y个例得出的信息，包括本文件在内，无一例外都是不精准、不正确的。 \n\n=====\n\n[[include :scp-wiki:component:license-box]]\n原作者Monkeysky\n> **Filename:** 8102.jpg\n> **Author:** [https://en.wikipedia.org/wiki/nl:User:Nomar Nomar]\n> **License:** CC BYSA 3.0\n> **Source Link:** [https://en.wikipedia.org/wiki/File:Kabouterdorp.JPG Kabouterdorp]\n=====\n> **Filename:** 8102b.jpg\n> **Author:** Nickge4\n> **License:** CC BYSA 4.0\n> **Source Link:** [https://en.wikipedia.org/wiki/File:Draak_efteling.jpg Draak efteling]\n=====\n[[include :scp-wiki:component:license-box-end]]",
+  "tags": [
+    "keter",
+    "scp",
+    "信息危害"
+  ],
+  "author": "ashausesall",
+  "created_at": "2024-05-01T00:57:41+00:00",
+  "updated_at": "2024-05-01T00:58:48+00:00",
+  "rating": 1,
+  "_site": "scp-wiki-cn",
+  "_fullname": "scp-8102"
+}

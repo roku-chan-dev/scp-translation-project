@@ -1,0 +1,13 @@
+{
+  "title": "Most Recently Created",
+  "content": "[[include fragment:nav-generic-css]]\n[[module CSS]]\n.content-type-description .wiki-content-table :is(td,th) {\n    padding: 0.25rem 0.375rem;\n}\n[[/module]]\n\n[[div class=\"content-box\"]]\n[[div class=\"content-type-title\"]]\nMost Recently Created Pages\n[[/div]]\n[[div class=\"content-type-description\"]]\n[[module ListPages rating=\">=-10\" tags=\"-admin -workbench\" category=\"_default adult art theme component component-backend\" perPage=\"24\" limit=\"255\" order=\"created_at desc\" separate=\"false\" prependLine=\"||~ Page ||~ [[size 0%]]Date Created[[/size]]📆︎ ||~ [[size 0%]]Comments[[/size]]💬︎ ||\"]]\n|| %%title_linked%% || %%created_at|%Y.%m.%e|agohover%% || %%comments%% ||\n[[/module]]\n[[/div]]\n[[div class=\"content-type-footer\"]]\n[[[Page Calendar]]]\n[[/div]]\n[[/div]]",
+  "tags": [
+    "hub"
+  ],
+  "author": "The Administrator",
+  "created_at": "2008-07-25T12:31:17+00:00",
+  "updated_at": "2023-03-25T04:41:09+00:00",
+  "rating": 72,
+  "_site": "scp-wiki",
+  "_fullname": "most-recently-created"
+}

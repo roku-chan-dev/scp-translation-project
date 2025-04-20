@@ -1,0 +1,20 @@
+{
+  "title": "SCP-1331-KO",
+  "content": "[[module ListPages category=\"fragment\" parent=\".\" order=\"created_at\" limit=\"1\" offset=\"@URL|0\"]]\n%%content%%\n[[/module]]\n\n[!-- http://scpko.wikidot.com/fragment:scp-1331-ko-0 --]\n[!-- http://scpko.wikidot.com/fragment:scp-1331-ko-1 --]\n\n[[footnoteblock]]",
+  "tags": [
+    "2024-멘토&멘티",
+    "ko",
+    "scp",
+    "감정이입",
+    "난해한-등급",
+    "메타",
+    "문서",
+    "서술"
+  ],
+  "author": "ttoy339",
+  "created_at": "2024-06-25T10:56:37+00:00",
+  "updated_at": "2024-06-25T12:20:16+00:00",
+  "rating": 33,
+  "_site": "scpko",
+  "_fullname": "scp-1331-ko"
+}

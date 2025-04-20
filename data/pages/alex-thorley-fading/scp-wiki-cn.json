@@ -1,0 +1,17 @@
+{
+  "title": "密雨褪墨",
+  "content": "[[module CSS]]\n@import url('https://fonts.googleapis.com/css?family=EB+Garamond:500&display=swap');\n@import url('https://fonts.googleapis.com/css2?family=Noto+Serif+SC&display=swap');\ndiv.preview, #header, #breadcrumbs, #footer, #license-area, #side-block {\n    display: none!important;\n}\ndiv#container-wrap {\n    background: none;\n    border: 1px dashed #97999b;\n    margin: 2rem;\n    font-size: 110%;\n    font-family:\"EB Garamond\", \"Noto Serif SC\", sans-serif;\n}\ndiv#page-title,\ndiv.meta-title {\n  display: flex;\n  align-items: center;\n  font-size: 280%;\n  border-bottom: none;\n  margin: 4rem 0 3rem;\n}\ndiv#page-title::before,div.meta-title::before,div#page-title::after,div.meta-title::after {\n  content: \"\";\n  flex-grow: 1;\n  height: 2px;\n  margin: auto;\n  background-color: #000;\n}\n.wb {\n  padding: 8rem 0 8rem;\n  text-align: center;\n}\n[[/module]]\n\n====\n[[div class=\"preview\"]]\n###fff|雨#####DCDCDC|水#####D3D3D3|浸#####C0C0C0|湿#####A9A9A9|墨#####696969|迹##\n[[/div]]\n====\n\n**[# SCP基金会] >> 非现实部**\n\n----\n\n[[div class=\"wb\"]]\n[[/div]]\n\n[[div class=\"blockquote\"]]\n[[=]]\n**“语近必湮，言多必失”**\n{{Site 19}}\n[[/=]]\n[[/div]]\n\n[[div class=\"wb\"]]\n◇\n[[/div]]\n\nalex·thorley在雨中的Site-19行政楼正门点起一支烟。他在自言自语，但雨太大，只听得见雨声。\n\n烟气袅袅，最后消逝在密雨中，Site-19此刻烟雨迷蒙。alex·thorley觉得自己会记住这种景象。\n\n有什么在褪色，alex·thorley想。可能是站点机场昨天那架迫降的运输机，可能是今天上午无故变成白版的项目文档，可能是主管办公室整天关着的门，也可能是他打开门的那只手。\n\n当然，alex·thorley不知道，他感觉自己忘了些事。\n\n[[div class=\"wb\"]]\n◇\n[[/div]]\n\nalex·thorley在雨中的Site-19行政楼正门点着一支烟。他仍在自言自语，雨小些了，但还是只听得见雨声。\n\n烟气袅袅，消散在雨中。alex·thorley忘了自己刚刚在想些什么。\n\n无所谓，忘记那些无聊的事情是好事。\n\n[[div class=\"wb\"]]\n◇\n[[/div]]\n\nalex·thorley在雨中的一栋建筑檐下点着一支烟。他在自言自语，好像重复着什么，但只听得见雨声。\n\n烟气袅袅，雨幕带走它的形状。alex·thorley忘了他正在哪里抽烟，这不碍事。他记得自己是基金会员工，在站点里，这就足够了。\n\n如今的基金会，大多数时候，越轨的生活总有办法复位。\n\n[[div class=\"wb\"]]\n◇\n[[/div]]\n\nalex·thorley在雨中点着一支烟。他在自言自语，磕磕绊绊地重复着，声音被雨水冲淡。\n\n烟气袅袅，阴冷的空气让它慢慢变得透明。alex·thorley开始忘记他正在重复的内容，单纯忘记了该如何表达。\n\n语言是意识的表现，alex·thorley开始战栗。\n\n[[div class=\"wb\"]]\n◇\n[[/div]]\n\nalex·thorley点着一支烟。他快说不出话了，上面有什么在不断下落，好冷。\n\n烟气袅袅，随后散去。至少还记得自己的名字，alex·thorley想。\n\n得找点什么记一下，忘掉些危险的东西就麻烦了。\n\n[[div class=\"wb\"]]\n◇\n[[/div]]\n\nalex·thorley点着一支烟，用粉笔在墙上写着什么，写下的东西被从墙上不断流下的什么洗掉。\n\n烟气袅袅，如此这般。alex·thorley写了半篇项目文档。\n\n[[div class=\"blockquote\"]]\n**项目编号：**SCP-CN-XXXX\n\n**项目等级：**Uncontained\n\n**特殊收容措施：**SCP-CN-XXXX目前未被收容，未发现有效的收容措施。建议及时拷贝重要记忆，防止丢失。\n\n**描述：**alex·thorley是基金会Site-19非现实部主管，曾主导对[https://scp-wiki-cn.wikidot.com/scp-cn-2845 scp-cn-2845]、[https://scp-wiki-cn.wikidot.com/scp-cn-2694 scp-cn-2694]等项目进行实验并建立收容。alex·thorley\n\n[[/div]]\n\n接下来…\n\n[[div class=\"wb\"]]\n◇\n[[/div]]\n\nalex·thorley点着一支…什么？手上拿着的白色圆柱体是？不断滴落在头顶的？\n\n正在弥散的味道？它又为何正在逐渐消失？\n\nalex·thorley是什么？alex·thorley还剩下什么？\n\n？\n\n[[div class=\"wb\"]]\n◇\n[[/div]]\n\n“……”\n\n[[div class=\"wb\"]]\n◇\n[[/div]]\n\nalex·thorley沉默着\n\n时间也沉默着\n\n[[div class=\"wb\"]]\n[[/div]]\n\n----\n[[=]]\n[[module rate]]\n[[/=]]",
+  "tags": [
+    "2024噤声短文竞赛",
+    "alex-thorley",
+    "原创",
+    "故事",
+    "非现实部"
+  ],
+  "author": "1100011",
+  "created_at": "2024-04-29T22:33:12+00:00",
+  "updated_at": "2024-04-30T06:10:49+00:00",
+  "rating": 55,
+  "_site": "scp-wiki-cn",
+  "_fullname": "alex-thorley-fading"
+}

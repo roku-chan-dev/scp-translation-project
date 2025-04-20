@@ -1,0 +1,16 @@
+{
+  "title": "SCPオブジェクトクラス-ARC",
+  "content": "[[div class=\"archived-top-box\"]]\nこのページの新しいバージョンは[[[object-classes |こちら]]]から閲覧可能です。\n[[/div]]\n\n[[tabview]]\n[[tab Safe]]\n\"Safe\"は効果的かつ確実に取り扱う事ができるSCPに割り振られています。Safe指定のSCPの取り扱い方は失敗が許されず、後に改訂を受けることにはなっていません。\n\nSafeは人、人型、または知覚です。職員やSCPの損傷、死亡を防止するために取り扱いには十分の注意を払ってください。\n\nSafeは収容する必要がないわけではありません。多くのSafeは通常非常に危険です。Safeは適切に取り扱えば安全なものに割り振られます。\nSafeは例えるなら銃、核兵器、ポロニウムの様なものと言えます。\n\n以下はサイトで最も評価が高い25個のSafe一覧です。\n\n[[module ListPages tags=\"safe,-joke,-archived,-decommissioned\" order=\"rating desc\" perPage=\"25\" limit=\"25\" separate=\"no\"]]\n* %%title_linked%%\n[[/module]]\n\nSafeの全体一覧は[[[http://ja.scp-wiki.net/system:page-tags/tag/safe | こちら]]]です。\n\n[[/tab]]\n\n\n[[tab Euclid]]\nEuclidは行動が予想できない、現代科学では解明できない、十分に研究ができていない対象に割り振られます。\nEuclidは脱走した時Keterほど危険ではありませんが、Safe以上に丁寧な扱いを必要としています。\n\n多くのEuclidは財団や人類に有効に使うことができますが、未解明な部分が多いので思わぬ副作用があるかもしれません。\nいくつかのEuclidはSafeへの指定を検討されていますが、ほとんどが厳正な実験を行なっても未解明なままです。\n\n以下はサイトで最も評価が高い25個のEuclid一覧です。\n\n[[module ListPages tags=\"euclid,-joke,-archived,-decommissioned, -keter\" order=\"rating desc\" perPage=\"25\" limit=\"25\" separate=\"no\"]]\n* %%title_linked%%\n[[/module]]\n\nEuclidの全体一覧は[[[http://ja.scp-wiki.net/system:page-tags/tag/euclid | こちら]]]です。\n\n[[/tab]]\n\n[[tab Keter]]\nKeterは以下の２つの条件を満たす場合に指定されます。\n　(a) 人類の生命、文明、空間に対して極度の敵意を示す。\n　(b) 脱走した際に甚大な被害をもたらす。\n対象の適切な取り扱い方、破壊方法が判明次第カタログにまとめてください。\n\n単に人類に敵意を示すだけではKeterとしては指定されません。Keterは人類に敵意を示し、広大で複雑な収容所が必要な場合に指定されます。\nKeterの無力化こそが、財団の最優先事項です。\n\nしかし、財団では主に以下の３つの理由によりKeterの無力化がなかなか実行出来ていません。\n　１．対象が不死身・またはそれに近い状態である\n　２．対象が財団にとって、非常に有用なものになる可能性がある\n　３．対象が存在し続けるより、無力化した際の被害が大きい\nといった場合です。\n\nほとんどのKeterは非情で無情です。今後の研究でこの状態が変わるかもしれません。\n\n\"Keter\"とはヘブライ語で\"冠\"を意味しており、ユダヤ教のカバラのセフィロトの最上位です。\n\n以下はサイトで最も評価が高い25個のKeter一覧です。\n\n[[module ListPages tags=\"-euclid,-joke,-archived,-decommissioned, keter\" order=\"rating desc\" perPage=\"25\" limit=\"25\" separate=\"no\"]]\n* %%title_linked%%\n[[/module]]\n\nKeterの全体一覧は[[[http://ja.scp-wiki.net/system:page-tags/tag/keter | こちら]]]です。\n\n[[/tab]]\n\n[[tab Anomalous/Neutralized/Decommissioned]]\n\n**Anomalous:** \n財団にこれ以上の研究、特別な取り扱いが必要ないと評価された対象です。これらは[[[Log of Anomalous Items|Anomalousアイテム記録]]]としてカタログ化しています。\n注：Anomalousの指定を受けたものはSCPとして扱いませんが、いくつかのSCPは詳細がわかるまでAnomalousの指定を受けていました。\n\n**Neutralized:** 破壊された、特異性や特質性、副作用が消失したSCPです。これらが活動していた時どのようなSCPだったか記録する必要があります。Neutralizedの一覧は[[[http://ja.scp-wiki.net/system:page-tags/tag/neutralized#pages| こちら]]]です。\n\nトップ10Neutralized 記事：\n\n[[module ListPages tags=\"neutralized -safe,-joke,-archived,-decommissioned\" order=\"rating desc\" perPage=\"10\" limit=\"10\" separate=\"no\"]]\n* %%title_linked%%\n[[/module]]\n\n**Decommissioned:** 削除予定を取り消されたSCPです。詳細は[[[decommissioned-scps-arc|Decommissioned SCP]]]へ。\n\n[[/tab]]\n\n[[/tabview]]",
+  "tags": [
+    "en",
+    "アーカイブ済み",
+    "世界観",
+    "他支部公式"
+  ],
+  "author": "CheshireCheese",
+  "created_at": "2013-08-27T03:25:47+00:00",
+  "updated_at": "2021-03-16T13:35:56+00:00",
+  "rating": 9,
+  "_site": "scp-jp",
+  "_fullname": "archived:scp-object-classes"
+}

@@ -1,0 +1,15 @@
+{
+  "title": "I Saw Things Falling Apart _ Doujin Artwork for SCP-804",
+  "content": "[[include :scp-wiki-cn:theme:black-highlighter-theme]]\n[[include :scp-wiki:theme:minimalist-bhl]]\n[[include :scp-wiki-cn:theme:minimalist-bhl]]\n[[module CSS]]\n:root:lang(cn) {\n    --lgurl: url(\"https://scp-wiki-cn.wdfiles.com/local--files/achievement-badges/34.png\");\n    --five-color: 192, 192, 192;\n    --three-color: 192, 192, 192;\n}\n\ndiv.page-rate-widget-box .rate-points {\n    border: none;\n}\n[[/module]]\n\n[[>]]\n[[module Rate]]\n[[/>]]\n\n**Hello！**\n\n**This is Hideyama！**\n\nA month after the release of the [[[SCP-2999]]]artwork, I also drew one for the [[[SCP-804]]].\n\nAnd here is the URL to my first artwork page\nhttps://scp-wiki.wikidot.com/art:hideyama-gakiyo/comments/show\n \nHope U enjoy it！\n\nIf U have any suggestions, __feel free to share them in the Discussion pls!__\n\n\n[[collapsible show=\" SCP804 \" hide=\"🖥️ World Without Man\" ]]\n[[image https://scpsandboxcn.wikidot.com/local--files/hideyama-no-ega/804-]]\n[[/collapsible]]\n\n[[collapsible show=\" SCP804 II \" hide=\"🖥️ difference-laughing\" ]]\n[[image https://scpsandboxcn.wikidot.com/local--files/hideyama-no-ega/804-2]]\n[[/collapsible]]",
+  "tags": [
+    "artwork",
+    "painted",
+    "scp-art"
+  ],
+  "author": "Hideyama Iwakiyo",
+  "created_at": "2024-06-19T14:31:25+00:00",
+  "updated_at": "2024-06-21T04:16:47+00:00",
+  "rating": 18,
+  "_site": "scp-wiki",
+  "_fullname": "art:hideyama-s-artwork-of-804"
+}

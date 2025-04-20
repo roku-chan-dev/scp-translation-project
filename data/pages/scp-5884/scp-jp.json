@@ -1,0 +1,20 @@
+{
+  "title": "SCP-5884",
+  "content": "[[include :mkn:sigma:theme:simple-yonder]]\n\n[[module css]]\n#u-blink-bar p:last-child::after {\n    content: \"\";\n    border-right: 1px solid black;\n    animation: blink 1.5s infinite;\n    position: relative;\n    left: 1px;\n}\n\n@keyframes blink{\n    to {\n        opacity: .0;\n    }\n}\n[[/module]]\n\n[[include :scp-jp:credit:start]]\n**タイトル:** SCP-5884 - 生きていた\n**著者:** ©︎[[*user EstrellaYoshte]]\n**原題:** SCP-5884 - lived\n**作成年:** 2022\n[[include :scp-jp:credit:end]]\n\n**アイテム番号:** SCP-5884\n\n**オブジェクトクラス:** Keter\n\n**特別収容プロトコル:** SCP-5884を無力化するために、以下の行為が承認されました:\n\n* 全ての動員可能な部隊の主要な人口密集地への動員\n* [[[SCP-4043]]]の解体\n* 三ツ月イニシアチブとの接触停止\n* [[[SCP-3002]]]のベクター拡散\n* [[[SCP-2935]]]の収容の中止\n* プロジェクト・セラピス II\n* [[[SCP-3980]]]\n\n上記の行為がSCP-5884の無力化に失敗した場合、影響を受けていない全ての職員は追って通知があるまで生死不明とします。\n\n**説明:** SCP-5884は2021/6/30に活性化した現在もあまり解明されていないメカニズムであり、本質的に「人類の確実な生存」に結びついています。\n\n[[div id=\"blink-bar\"]]\nSCP-5884の効果が現れたのは\n[[/div]]\n\n@@ @@\n@@ @@\n@@ @@\n@@ @@\n@@ @@\n@@ @@\n@@ @@\n@@ @@\n@@ @@\n@@ @@\n@@ @@\n@@ @@\n@@ @@\n@@ @@\n@@ @@\n@@ @@\n@@ @@\n@@ @@\n@@ @@\n@@ @@\n@@ @@\n@@ @@\n@@ @@\n@@ @@\n@@ @@\n@@ @@\n@@ @@\n@@ @@\n@@ @@\n@@ @@\n@@ @@\n@@ @@\n@@ @@\n@@ @@\n@@ @@\n@@ @@\n@@ @@\n@@ @@\n@@ @@\n@@ @@\n@@ @@\n@@ @@\n@@ @@\n@@ @@\n@@ @@\n@@ @@\n@@ @@\n@@ @@\n@@ @@\n@@ @@\n@@ @@\n@@ @@\n@@ @@\n@@ @@\n@@ @@\n\n[[collapsible show=\"新しいファイルがアップロードされました。開きますか?\" hide=\"開いています...\"]]\n[[div class=\"blockquote\"]]\n= //(ビデオログ - 2021/07/01)//\n\n//(O5-1は部屋の真ん中にじっと座っている。)[[footnote]]録画時、O5-1は死んでいた。[[/footnote]]//\n\n//(彼が拳銃を見るために右に向かうまで、これが4分間続く。)//\n\n//(O5-1は拳銃を掴み、2分間検査する。)//\n\n//(彼はゆっくりとそれを自分のこめかみに向け、口を開く。「私は知る必要がある。」)//\n\n@@ @@\n\n//(O5-1が引き金を引く。)//\n\n@@ @@\n\n//(弾丸はO5-1の頭蓋骨の反対側から出て、血液と脳漿を壁に飛び散らす。)//\n\n//(O5-1は直ぐに生き、人間になる。)//\n\n@@ @@\n@@ @@\n\n//(O5-1は立ち上がり、さらに4分間動かないでいる。)//\n\n@@ @@\n\n//(彼は頭から血を拭き取り、部屋を出る)。//\n\n[[/div]]\n[[/collapsible]]\n\n[[div style=\"display: none;\"]]\n[[footnoteblock]]\n[[/div]]\n\n@@ @@\n@@ @@\n@@ @@\n@@ @@\n@@ @@\n@@ @@\n@@ @@\n@@ @@\n@@ @@\n@@ @@\n@@ @@\n@@ @@",
+  "tags": [
+    "_有名フラグ",
+    "en",
+    "jam-con2021",
+    "keter",
+    "scp",
+    "概念",
+    "死体",
+    "蘇生"
+  ],
+  "author": "MikuKaneko",
+  "created_at": "2022-01-10T09:35:48+00:00",
+  "updated_at": "2023-01-09T09:12:42+00:00",
+  "rating": -21,
+  "_site": "scp-jp",
+  "_fullname": "scp-5884"
+}

@@ -1,0 +1,20 @@
+{
+  "title": "SCP-1300-JP",
+  "content": "[[include credit:start]]\n**제목:** SCP-1300-JP - S에게 보내는 공물\n**저자:** [[*user y33r41]]\n**원본:** http://ja.scp-wiki.net/scp-1300-jp\n**역자:** [[*user Elfen_mathL]]\n[[include credit:otherwise]]\n**이미지**: https://commons.wikimedia.org/wiki/File:Saiga.jpg, CC0\n[[include credit:end]]\n\n[[include component:image-block\n|name=http://scp-jp.wdfiles.com/local--files/scp-1300-jp/Saiga\n|caption=야생의 //Saiga tatarica//\n]]\n**일련번호:** SCP-1300-JP\n\n**등급:** 유클리드\n\n**특수 격리 절차:** SCP-1300-JP는 시가스탄 공화국 정부의 협력 아래 유적 보호 명목으로 재단이 격리한다. SCP-1300-JP-A는 1개씩 고온 소각로로 처분한다.\n\n**설명:** SCP-1300-JP는 카스피해 북동쪽 시가스탄 성당 유적 내에서 사이가산양(//Saiga tatarica//)의 사체(SCP-1300-JP-A로 지정됨)가 일당 약 ██개의 빈도로 계속하여 출현하는 현상이다. 출현 순간 아무것도 없는 공간에 검은 구멍이 열리고 사체가 나타나 바닥으로 떨어진다.\n\nSCP-1300-JP는 2015년, 시가스탄 성당 유적 일부가 무너진 사건에서 발견되었다. 잔해에서 발견된 ██████마리의 SCP-1300-JP-A가 파괴의 원인이라고 여겨진다.\n\nSCP-1300-JP-A를 소각, 분쇄 등의 수단으로 처분할 때 주변 인물은 비명 및 단말마의 환청을 듣는다. 복수 개체를 동시에 처분하였을 경우, 그 수에 따라 환청의 규모·종류가 증가한다. 제1차 처분 시에는 처분 반경 약 ██ km에 있던 일반인을 포함한 ██████명이 피해를 입었으며, 가장 가까이 있었던 처분 담당자들은 무기한 요양 중이다.\n\n다음은 SCP-1300-JP-A의 주된 공통점이다.\n* 연령이 1~2세[[footnote]]일반적인 사이가산양의 연령은 5~15년[[/footnote]]\n* 암컷\n* 원으로 구성된 기호가 새겨져 있음\n* 원시적인 외과 조치에 의한 심장 적출\n* 죽은 지 얼마 되지 않음",
+  "tags": [
+    "jp",
+    "scp",
+    "사이가파",
+    "사체",
+    "시가스탄",
+    "외부차원",
+    "유클리드",
+    "통로"
+  ],
+  "author": "Elfen_mathL",
+  "created_at": "2018-08-19T10:21:21+00:00",
+  "updated_at": "2024-11-03T07:45:01+00:00",
+  "rating": 4,
+  "_site": "scpko",
+  "_fullname": "scp-1300-jp"
+}

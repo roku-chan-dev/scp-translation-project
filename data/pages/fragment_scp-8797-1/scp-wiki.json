@@ -1,0 +1,13 @@
+{
+  "title": "SCP-8797-1",
+  "content": "[[include :scp-wiki:theme:black-highlighter-theme]]\n[[include :scp-wiki:theme:minimalist-bhl]]\n[[module CSS]]\n:root {\n     --header-title: \"Department of Unreality\";\n     --header-subtitle: \"Making the Unreal a ㅤㅤㅤㅤ\";\n     --lgurl: url('http://scp-wiki.wikidot.com/local--files/unreality-hub/Unreality%20Header%20Logo.svg');\n}\n[[/module]]\n\n**Item #:** SCP-8797\n\n**Object Class:** Neutralised\n\n**Special Containment Procedures:** The sole extant copy of SCP-8797 is located in a secure storage locker in Site-19.\n\n**Description:** SCP-8797 is the following letter:\n\n> Dear Mr/Ms Thorley [please delete as appropriate],\n> \n> Thank you for submitting your manuscript, //The Collected Works of Alex Thorley//, for our consideration. Unfortunately, we have received a very high number of submissions this quarter, and only a small fraction of them can be published. Your submission was not among them.\n> \n> We appreciate your interest in publishing with us, and look forward to your future work.\n> \n> Yours faithfully,\n> \n> [Publishing company]",
+  "tags": [
+    "fragment"
+  ],
+  "author": "Tufto",
+  "created_at": "2024-12-30T17:52:51+00:00",
+  "updated_at": "2025-03-09T20:47:53+00:00",
+  "rating": 0,
+  "_site": "scp-wiki",
+  "_fullname": "fragment:scp-8797-1"
+}

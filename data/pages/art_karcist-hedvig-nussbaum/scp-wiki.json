@@ -1,0 +1,20 @@
+{
+  "title": "Karcist Hedvig Nussbaum",
+  "content": "[[include :scp-wiki:theme:flopstyle-dark]]\n\n[[module CSS]]\n:root{\n--accentColor: hsl(43, 100%, 56%);\n--accentColorLite: hsla(43, 100%, 66%, .5);\n--hue: 43deg;\n--lgurl: url(https://scp-wiki.wdfiles.com/local--files/her-golden-wings/image.png);\n--header-title: \"AMONI-RAM\";\n--header-subtitle: \"The Golden City of the Mekhanite Empire\";\n}\n[[/module]]\n\n[[div class=\"meta-title\"]]\nKarcist Hedvig Nussbaum\n[[/div]]\n\n[[>]]\n[[module Rate]]\n[[/>]]\n\n[[=image Karcist_Hedvig.png]]\n\n[[div class=\"blockquote\"]]\n[...] Foundation field agents, while tasked with the retrieval of an unrelated SCP object, have spotted the humanoid entity pictured above. The entity was determined to bear a resemblance to Dr. Hedvig Nussbaum (also known as Saint Hedvig), who was presumed MIA both by Mekhanite forces and by the Foundation following the events of [https://scp-wiki.wikidot.com/rounderhouse-jade-proposal#ACT4 May 25th, 2003]. Field agents have attempted to apprehend the subject, who fled immediately. Current whereabouts are unknown.\n@@ @@\nSubject has undergone various changes since the time it was last seen. Most notably, [https://scp-wiki.wikidot.com/rounderhouse-gold-proposal the Fuladh augments on its body] were replaced with flesh growths of varying nature. \n@@ @@\nThe significance of this is yet to be determined. \n[[/div]]\n\n[[include :scp-wiki:component:license-box]]\n> **Filename:** Karcist_Hedvig.png\n> **Author:** [[*user Miss Lapis]]\n> **License:** CC BY-SA 3.0\n> **Source Link:** [https://scp-wiki.wdfiles.com/local--files/art%3Akarcist-hedvig-nussbaum/Karcist_Hedvig.png SCP Foundation Wiki]\n[[include :scp-wiki:component:license-box-end]]",
+  "tags": [
+    "_cc",
+    "_licensebox",
+    "artwork",
+    "cel-shaded",
+    "goi-art",
+    "remixcon2023",
+    "saint-hedwig",
+    "sarkic"
+  ],
+  "author": "Miss Lapis",
+  "created_at": "2023-08-21T04:07:01+00:00",
+  "updated_at": "2024-03-28T08:13:18+00:00",
+  "rating": 45,
+  "_site": "scp-wiki",
+  "_fullname": "art:karcist-hedvig-nussbaum"
+}

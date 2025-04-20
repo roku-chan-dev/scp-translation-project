@@ -1,0 +1,16 @@
+{
+  "title": "SCP-5400-J",
+  "content": "[[include :scp-wiki:theme:flopstyle]]\n\n[[module CSS]]\n.foldable-list-container {font-weight: bold;}\n\n:root {\n    --background-gradient-distance: 100%;\n    --gradient-background: linear-gradient(to bottom,rgba(255,255,255,1) 0%, rgba(255,255,255,1) 50%, rgba(0,0,0,1) 77% var(--background-gradient-distance));\n}\n\n[[/module]]\n\n[[include credit:start]]\n**タイトル:** SCP-5400-J - **このページは極秘です**\n**著者:** [[*user DrApricus]]\n**オリジナル:** [https://scp-wiki.wikidot.com/scp-5400-j SCP-5400-J] - **This Page Is Classified**\n**訳者:** [[*user OY2010]]\n[[include credit:end]]\n[[include :scp-wiki:component:ratio-bar base=-- |ex=--]]\n@@ @@\n[[=]]\n[[div class=\"note\" style=\"background: #FFFFFF; border: #FFFFFF\"]]\n[[div class=\"blockquote\" style=\"background: url(\"https://scp-wiki.wdfiles.com/local--files/the-great-hippo/scp_trans.png\") center no-repeat; float: center; border: solid 2px #000; padding: 1px 15px; box-shadow: 0 1px 3px rgba(0,0,0,.2);\"]]\n+ 警告: 以下のファイルは機密レベル4/5400-Jです。 \n----\n+++ レベル4/5400-Jの権限なしでこのファイルにアクセスする試みは記録され、即時懲戒処分に繋がります。\n[[/div]]\n[[/div]]\n[[/=]]\n\n@@ @@\n\n@@ @@\n\n@@ @@\n\n[[=]]\n[[include :scp-wiki:component:inline-colmod show=資格情報を入力する | content=あなたは十分な資格を持っていません。\n\n[[span style=\"color: white\"]]くたばれ[[/span]]]]\n[[/=]]",
+  "tags": [
+    "en",
+    "esoteric-class",
+    "scp",
+    "ジョーク"
+  ],
+  "author": "OY2010",
+  "created_at": "2022-08-02T08:14:52+00:00",
+  "updated_at": "2022-12-25T01:38:24+00:00",
+  "rating": -29,
+  "_site": "scp-jp",
+  "_fullname": "scp-5400-j"
+}

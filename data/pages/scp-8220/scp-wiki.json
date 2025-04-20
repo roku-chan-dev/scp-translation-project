@@ -1,0 +1,22 @@
+{
+  "title": "SCP-8220",
+  "content": "=====\n[[include component:preview\ntext=\n//A bit too sweet, but in a good way. Like mom's.//\n]]\n=====\n\n[[include :scp-wiki:theme:black-highlighter-theme]]\n[[include :scp-wiki:component:toggle-sidebar-bhl]]\n[[include :scp-wiki:component:rso]]\n[[include :scp-wiki:info:start]]\n**SCP-8220:** For Your Birthday\n**Author:** [[*user Zenobiyl]]\n[[include :scp-wiki:component:ratio-bar pie=-- |ex=--]]\n[[include :scp-wiki:info:end]]\n\n[[module CSS]]\n#page-title {\n    display: none;\n}\n[[/module]]\n\n[[include :scp-wiki:component:image-block\nname=https://live.staticflickr.com/49/149731833_030f2608a2_o.jpg|\ncaption=SCP-8220|\nwidth=260px|]]\n\n**ITEM #:** SCP-8220\n\n**OBJECT CLASS:** Safe\n\n**SPECIAL CONTAINMENT PROCEDURES:** Foundation staff may request access to SCP-8220.\n\n**DESCRIPTION:** SCP-8220 is a three-layered vanilla cake with strawberry and blueberry toppings. A plastic ornament reading 'happy birthday' is partially buried inside SCP-8220 and can only be removed by an individual on their birthday. This ornament contains a message addressed to the individual from an emotionally significant figure in their life, including the following:\n\n* Close relatives, including those recently deceased[[footnote]]See Addendum 8220.1[[/footnote]]\n* Romantic partners\n* Close friends\n* Role models\n\nThe described flavor of SCP-8220 varies by individual.\n\n**ADDENDUM 8220.1:** Test Logs\n\nThe following results have been observed during testing of SCP-8220.\n\n[[table  style=\"border-collapse:collapse; max-width: 600px;\"]]\n[[row]]\n[[cell style=\"font-weight:bold;padding: .3em .7em; text-align: center; border: 1px solid black; background-color: silver; width: 20%;\"]]\nSubject\n[[/cell]]\n[[cell style=\"font-weight:bold; padding: .3em .7em; text-align: center; border: 1px solid black; background-color: silver;\"]]\nMessage\n[[/cell]]\n[[cell style=\"font-weight:bold; padding: .3em .7em; text-align: center; border: 1px solid black; background-color: silver;\"]]\nDescribed Flavor\n[[/cell]]\n[[/row]]\n[[row]]\n[[cell style=\"text-align: center; padding: .3em .7em; border: 1px solid black\"]]\nEleanor Danry (28F)\n[[/cell]]\n[[cell style=\"border: 1px solid black; text-align: center; padding: .3em .7em;\"]]\n//I'll always love you Ellie...give us a call soon, ok?//\n[[/cell]]\n[[cell style=\"padding: .3em .7em; text-align: center; border: 1px solid black\"]]\n\"A bit too sweet, but in a good way. Like mom's.\"\n[[/cell]]\n[[/row]]\n[[row]]\n[[cell style=\"text-align: center; padding: .3em .7em; border: 1px solid black\"]]\nJames Harper (48M)\n[[/cell]]\n[[cell style=\"border: 1px solid black; text-align: center; padding: .3em .7em;\"]]\n//We're your family now, Jim...we got you no matter what!// \n[[/cell]]\n[[cell style=\"border: 1px solid black; text-align: center; padding: .3em .7em;\"]]\n\"Sour, but the aftertaste is better...like honey.\"\n[[/cell]]\n[[/row]]\n[[row]]\n[[cell style=\"text-align: center; padding: .3em .7em; border: 1px solid black\"]]\nRebecca Maynor (51F)\n[[/cell]]\n[[cell style=\"border: 1px solid black; text-align: center; padding: .3em .7em;\"]]\n//We love and care for you more than anything...it will get better!//\n[[/cell]]\n[[cell style=\"border: 1px solid black; text-align: center; padding: .3em .7em;\"]]\n\"Flavorless. And they tried so hard, too...\"\n[[/cell]]\n[[/row]]\n[[row]]\n[[cell style=\"text-align: center; padding: .3em .7em; border: 1px solid black\"]]\nConnor Austin (23M)\n[[/cell]]\n[[cell style=\"border: 1px solid black; text-align: center; padding: .7em .7em;\"]]\n//It wasn't your fault...//\n[[/cell]]\n[[cell style=\"border: 1px solid black; text-align: center; padding: .7em .7em;\"]]\n\"Burnt.\"\n[[/cell]]\n[[/row]]\n[[/table]]\n _\n\n[[include :scp-wiki:component:license-box]]\n\n[[div class=\"blockquote\"]]\n**Name:** Birthday Cake 01\n**Author:** Chris Gladis\n**License:** CC BY 2.0\n**Source Link:** https://flic.kr/p/eeq4k\n[[/div]]\n\n[[include :scp-wiki:component:license-box-end]]",
+  "tags": [
+    "_cc",
+    "_licensebox",
+    "food",
+    "inscription",
+    "language",
+    "rewritable",
+    "safe",
+    "scp",
+    "self-repairing",
+    "telepathic"
+  ],
+  "author": "Zenobiyl",
+  "created_at": "2024-04-14T18:51:36+00:00",
+  "updated_at": "2024-04-21T12:29:46+00:00",
+  "rating": 18,
+  "_site": "scp-wiki",
+  "_fullname": "scp-8220"
+}

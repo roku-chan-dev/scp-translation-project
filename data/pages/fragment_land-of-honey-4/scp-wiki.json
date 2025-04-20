@@ -1,0 +1,13 @@
+{
+  "title": "fragment:land-of-honey-4",
+  "content": "[[module CSS]]\n@import url('https://fonts.googleapis.com/css?family=Short+Stack&display=swap');\n\n/* SPECIAL EFFECTS */\n .rotate{\n     -webkit-transform: rotate(-1.5deg); /* Safari */\n     -moz-transform: rotate(-1.5deg); /* Firefox */\n     -ms-transform: rotate(-1.5deg); /* IE */\n     -o-transform: rotate(-1.5deg); /* Opera */\n     filter: progid:DXImageTransform.Microsoft.BasicImage(rotation=1.5); /* Internet Explorer */\n}\n .temp-l{\n     background: url(https://scp-wiki.wdfiles.com/local--files/fragment%3Aland-of-honey-4/construction-paper.jpg);\n     width: 100%;\n     line-height: 20px;\n     padding: 1em;\n     margin: auto;\n}\n* { text-transform: lowercase; }\n[[/module]]\n\n[[span style=\"font-family: 'Short Stack', cursive; font-size: 20px; word-break: unset;\"]]\n[[div class=\"rotate\"]]\n[[div class=\"temp-l\"]]\n@@ @@\ndear mother\n@@ @@\nmay this letter reach you from this Land of Honey,\nmay good fortune and health forever bless you and father,\nmay the wind comfort your bones,\nmay the seas always whisper our names,\nmay you always remember our faces,\nin rain or shine.\n@@ @@\ni found her.\n@@ @@\nwe are safe.\n@@ @@\n@@ @@\n@@ @@\n@@ @@\n@@ @@\n[[/div]]\n[[/div]]\n[[/span]]\n\n@@ @@\n\n[[=]]\n[[module Rate]]\n[[/=]]\n\n[[include component:earthworm\n| first=false | last=false | hub=no\n| previous-url=http://www.scp-wiki.net/land-of-honey/offset/2 | previous-title=PREVIOUS: Report by UIU Agent Poulsen\n| next-url=http://www.scp-wiki.net/scp-4475 | next-title=related story: SCP-4475\n| hub-url=/ | hub-title=Letter Unknown\n]]",
+  "tags": [
+    "fragment"
+  ],
+  "author": "Lt Flops",
+  "created_at": "2019-06-24T23:06:20+00:00",
+  "updated_at": "2021-09-11T03:02:44+00:00",
+  "rating": 0,
+  "_site": "scp-wiki",
+  "_fullname": "fragment:land-of-honey-4"
+}

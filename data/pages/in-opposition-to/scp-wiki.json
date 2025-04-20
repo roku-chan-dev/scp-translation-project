@@ -1,0 +1,19 @@
+{
+  "title": "SCP Vs. Series",
+  "content": "[[include component:info-ayers\n|lang=en[!-- EN/RU/KO/CN/FR/PL/ES/TH/JP/DE/IT/UA/PTBR --]\n|page=dr-cimmerian-s-personnel-file[!-- url of your page on the scp wiki --]\n|authorPage=http://www.scp-wiki.net/dr-cimmerian-s-personnel-file[!-- link to your author page --]\n|comments= Super special thanks to user \"Valcano Girls\" for making this wonderful comic.\n]]\n[[include theme:black-highlighter-theme]]\n[[module CSS]]\nsup { \nvertical-align: top; position: relative; top: -0.5em; \n}\n:root{ \n--cutColour: #fafafa;\n--barColour: #590505;\n}\n\n.info-container .collapsible-block-folded a{\ncolor: #FFF;}\n.info-container .collapsible-block-unfolded-link a{\ncolor: #FFF;}\n\n.translation_block{\ndisplay:none;}\n[[/module]]\n\n[[>]]\n[[module Rate]]\n[[/>]]\n\n[[=]]\n+ SCP Vs. Hub\n[[/=]]\n\nWelcome to the SCP Vs. Hub. Where I keep my tales about SCP characters and objects competing with each other in various settings. Sometimes it's a fight to the death. Sometimes it's shopping. Sometime it's people trying to save the world. You never really know.\n\n**SCP-173**\n* [[[http://www.scp-wiki.net/consequences-and-collarbones | vs. SCP-096]]]\n* [[[http://www.scp-wiki.net/snap-crackle-pop | vs. SCP-106]]] \n\n**Dr. Shaw**\n* [[[http://www.scp-wiki.net/with-a-target | vs. Dr. Clef]]] \n* [[[http://www.scp-wiki.net/an-ending-is-only-tragic | vs. SCP-076]]] \n* [[[http://www.scp-wiki.net/come-together-right-now-over-me | vs. SCP-682]]] \n* [[[http://www.scp-wiki.net/the-melody-is-familiar | vs. SCP-079]]]\n\n**A D-Class**\n* [[[http://www.scp-wiki.net/everything-can-change-in-the-blink-of-an-eye | vs. SCP-173]]] \n* [[[http://www.scp-wiki.net/nor-spake-nor-moved-their-eyes | vs. SCP-049]]]\n* [[[http://www.scp-wiki.net/the-horrors-of-an-unclean-bowl | vs. SCP-789-J ]]]",
+  "tags": [
+    "_cc",
+    "_tale-hub",
+    "doctor-cimmerian",
+    "doctor-clef",
+    "doctor-gears",
+    "doctor-shaw",
+    "hub"
+  ],
+  "author": "Doctor Cimmerian",
+  "created_at": "2019-04-22T17:52:12+00:00",
+  "updated_at": "2023-04-26T08:47:25+00:00",
+  "rating": 100,
+  "_site": "scp-wiki",
+  "_fullname": "in-opposition-to"
+}

@@ -1,0 +1,25 @@
+{
+  "title": "SCP-470-KO",
+  "content": "[[include info:start]]\n**SCP-470-KO:** 파티가 끝나고...\n**작가:** Explained25\n**이미지 출처:** [[*user nop ungone]]님이 액정서에 올리신 사진을 사용하였습니다.\n[[include info:end]]\n\n\n[[module ListPages category=\"fragment\" parent=\".\" order=\"created_at\" limit=\"1\" offset=\"@URL|0\"]]\n%%content%%\n[[/module]]",
+  "tags": [
+    "2020-별칭경연",
+    "ko",
+    "scp",
+    "건물",
+    "군체의식",
+    "마리아-존스",
+    "사체",
+    "성적",
+    "세계-오컬트-연합",
+    "시간",
+    "예술",
+    "유클리드",
+    "인공물"
+  ],
+  "author": null,
+  "created_at": "2020-08-21T15:54:26+00:00",
+  "updated_at": "2021-07-17T07:00:40+00:00",
+  "rating": 21,
+  "_site": "scpko",
+  "_fullname": "scp-470-ko"
+}

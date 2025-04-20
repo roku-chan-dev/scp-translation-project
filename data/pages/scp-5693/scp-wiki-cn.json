@@ -1,0 +1,25 @@
+{
+  "title": "SCP-5693",
+  "content": "[[include :scp-wiki-cn:theme:ad-abyssum]]\n\n[[table style=\"border: none; width: 100%;\"]]\n[[row]]\n[[cell]]\n[[span style=\"font-size: 125%;\"]][[span style=\"font-weight: 900;\"]]项目编号：[[/span]]SCP-5693[[/span]]\n[[/cell]]\n[[cell style=\"text-align: right;\"]]\n[[span style=\"font-weight: 900; font-size: 125%;\"]]###990000|3/5693 级##[[/span]]\n[[/cell]]\n[[/row]]\n[[row]]\n[[cell]]\n[[span style=\"font-size: 125%;\"]][[span style=\"font-weight: 900;\"]]收容等级：[[/span]]EUCLID[[/span]]\n[[/cell]]\n[[cell style=\"text-align: right;\"]]\n[[span style=\"font-weight: 900; font-size: 125%;\"]]###990000|保密##[[/span]]\n[[/cell]]\n[[/row]]\n[[/table]]\n-----\n[[include component:image-block name=http://scp-wiki.wikidot.com/local--files/scp-5693/termite.png|caption=在SCP-5693试图侵袭过程中获取的观察影像。]]\n\n**特殊收容措施：**由于SCP-5693造成的结构性破坏，处置Site-27尚未执行。因此，已建立第二临时站点以在安全距离内观察聚居地。对处置Site-27的原目标的研究是目前的首要之事。至于防止聚居地的扩大，被分配至SCP-5693的人员不持有任何宗教或宗教事务上的观点。\n\n**描述：**SCP-5693为一群未知规模的白蚁聚居地，目前占用了Site-27[[footnote]] 位于北澳大利亚偏远地区的一个废弃临时站点。由于必需文献不足，站点的原目的目前未知。 [[/footnote]]的处理设施的底部。SCP-5693与任何已知的白蚁种类皆不相同，尽管其巢穴的外表与大教堂白蚁的类似，聚居地的土墩在天花板瓷砖与通风井中向上扩张。这些土墩外表类似于钟塔，并雕刻有被认为是神学含义的未知符号。每当SCP-5693进行消耗时，这些符号会发出暗蓝色的光。\n\n在消耗事件中，SCP-5693能够消耗任何材料。其会瞄准发出Akiva辐射的项目，尤其为与宗教[[footnote]] 由于大部分物品都与宗教存在偶然联系，这通常足以使其消耗。 [[/footnote]]相关的项目。这些辐射随后会被输送至SCP-5693所产生的酶中，致使受感染物体变为木浆。SCP-5693主要消耗这些材料，尽管其中约15%用于扩大聚居地。SCP-5693每天约使45千克的材料变质，目前的预测显示，SCP-5693将在2038之际完全消耗此站点。\n\n目前尚不确定SCP-5693是如何达到目前规模的，因为在发现处置站点Site-27后其就被遗弃了。然而，通过亚声速成像，在站点废墟中发现了各式幸存的古器物，其中不完全的或完全的都未受到SCP-5693的影响，周围形成了未受影响的巢坑。这些物品包括；\n* 危险的废物袋（由于容纳过多而被清空）。\n* 各种科学设备与机器。[[footnote]] 大部分严重受损，但已确定其常用于护理Thaumiel级异常。 [[/footnote]]\n* 几个泥瓦罐，充满了[[[SCP-5993|未知物质]]]。 \n* Yossi Leiner与Randall Bannock合著的《正确处理的宗教古器物》。\n* 拥有战术神学部标志的厚混凝土与灰泥。该部门称对该异常一无所知，并拒绝作出进一步解释。 \n\n值得注意的是，在SCP-5693的原收容室内，发现了与宗教垃圾和神学垃圾相关的严重化学侵蚀，[[footnote]] 根据复原后的设施蓝图。 [[/footnote]]尽管这似乎已经停止了，但接下来其扩张到了设施的其余部分\n\n进一步研究这些物品的重要性目前待定。\n------\n[[footnoteblock]]\n\n[[div class=\"footer-wikiwalk-nav\"]]\n[[=]]\n<< [[[SCP-5692]]] | [http://www.scp-wiki.net/the-bread-box Deadly Bread] | [[[SCP-5694]]] >>\n[[/=]]\n[[/div]]\n\n[[include :scp-wiki-cn:component:license-box\n|author=Deadly Bread\n|translator=Twilit]]\n=====\n> **文件名：**termite.png\n> **名称：**CSIRO ScienceImage 2183 Termite Colony （由我编辑）\n> **图像作者：**[[[https://www.scienceimage.csiro.au/image/2183|CSIRO]]]\n> **授权协议：**CC BY-3.0\n> **来源链接：**[[[https://commons.wikimedia.org/wiki/File:CSIRO_ScienceImage_2183_Termite_Colony.jpg|Wikimedia Commons]]]\n=====\n[[include :scp-wiki-cn:component:license-box-end]]",
+  "tags": [
+    "2021连写竞赛",
+    "_腐败",
+    "euclid",
+    "scp",
+    "动物",
+    "变形",
+    "地下",
+    "宗教",
+    "战术神学部",
+    "昆虫",
+    "活物",
+    "蜂巢意识",
+    "铭文"
+  ],
+  "author": "Twilit",
+  "created_at": "2021-05-05T03:25:05+00:00",
+  "updated_at": "2023-03-30T13:32:12+00:00",
+  "rating": 3,
+  "_site": "scp-wiki-cn",
+  "_fullname": "scp-5693"
+}

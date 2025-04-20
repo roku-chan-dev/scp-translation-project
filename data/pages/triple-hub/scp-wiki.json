@@ -1,0 +1,15 @@
+{
+  "title": "Triple Hub.",
+  "content": "[[>]]\n[[module Rate]]\n[[/>]]\n[[include :scp-wiki:theme:dark-dealings]]\n[[module CSS]]\n\n[[/div]]\n:root {\n [[html]]\n--headerSubtitle: \"Triple Hub\";\n}\n[[/html]]\n\n[[/module]]\n[[div class=\"fancybox\"]]\n[[div class=\"blockquote\"]]\n\n-----\n+ Triple Fang presents:\n-----\n\n[[div class=\"fancybox\"]]\nWoe be to those who lie.\nWoe be to the naive.\nFor the living sneer at the dead, while dead weep for the living.\nThey fervently make folly of life, yet cower at the visage of death.\nA doctor's confidence is sacred.\nA doctor’s regret is feared.\nI bled them the same.\n[[/div]]\n-----\n* [[[Flesh and Blood]]] by [[*user Doctor-ivory]]\n\n-----\n* [[[herman-fuller-presents-dracula|Herman Fuller Presents: Dracula!]]] by [[*user XHAWK77X]]\n\n-----\n* [[[Lycoris Radiata]]] by [[*user cranes-writer]]\n\n-----\n* [[[SCP-7589|SCP-7589 - A Cure For Dracula]]] by [[*user XHAWK77X]]\n\n-----\n* [[[Stains of Blood and Sin]]] by [[*user XHAWK77X]]\n\n[[/div]]\n[[/div]]",
+  "tags": [
+    "hub",
+    "period-piece",
+    "publicdomaincon2025"
+  ],
+  "author": "Doctor-ivory",
+  "created_at": "2025-03-12T05:53:30+00:00",
+  "updated_at": "2025-03-16T18:51:29+00:00",
+  "rating": 11,
+  "_site": "scp-wiki",
+  "_fullname": "triple-hub"
+}

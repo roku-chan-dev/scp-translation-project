@@ -1,0 +1,13 @@
+{
+  "title": "斯普特尼克工作室Logo（+SVG文件）",
+  "content": "[[module CSS]]\ndiv#header h1 a span {\n    font-size: 0px;\n}\ndiv#header h1 a:before {\n    content: \"Site-433\";\n    color: #eee;\n    \n}\ndiv#header h2 span {\n    font-size:0px;\n    padding: 4px;\n}\ndiv#header h2:after {\n    content: \"异术与异常媒体\";\n    font-weight: bold;\n    color: #f0f0c0;\n    padding: 19px 0;\n    text-shadow: 1px 1px 1px rgba(0, 0, 0, .8);\n    white-space: pre;\n}\n\n#header {\n  background-image: url(http://scp-sandbox-3.wdfiles.com/local--files/harry-blank-7/433.png)\n}\n[[/module]]\n\n[[=image https://scp-wiki.wdfiles.com/local--files/art%3Asputnik-logo/sputniks2.png]]\n\n> 这是我为原创相关组织“斯普特尼克工作室”制作的logo。这是一家高产到离谱的动画工作室，创立于1985年，总部位于加利福尼亚州。该组织的设计灵感很大程度上来源于现实中的工作室，例如[https://en.wikipedia.org/wiki/Klasky_Csupo Klasky Csupo]。图中的火箭是他们的吉祥物Sputty。\n\n> 在我的设定中，他们是除了Are We Cool Yet？与维坎德·尼德以外最常制造异常媒体和异术作品的组织之一。不过，他们从来不会故意制造异常媒体。\n\n> 他们制造的许多媒体到最后会变成异常，而那时这些媒体早已面世了。不是所有产品都会这样；但话说回来，他们实在是高产得过分，所以那一部分变成异常的媒体依然多到需要专门建立一个站点（Site-433）负责追踪（同时也监控着公司的动向）。\n\n> 所以他们究竟是怎么和这么多稀奇古怪的东西扯上关系的？很大一部分的原因与他们高产的秘诀有关。他们使用的许多工具都是公司自己制造的，其中用上了某些货真价实的实验性，且一般具有超常性的技术。如此一来，公司得以提高动画制作效率，并让雇员们在工作中发挥更加开放且具有创造性的思维。\n\n> 当然，这类东西多少带些副作用。魔法不会在没人使用时自行消散，只会逗留，而将过多的魔法浓缩到一个空间中会导致某些怪事发生。许多工作于此的人，在编写剧本、制作毛绒玩具、逐帧绘制动画的时候，甚至没有意识到他们手里的玩意带有怎样的力量。\n\n> 如今，斯普特尼克的努力已经落败；但演出尚未结束。很多前员工仍然存在于此，而且正如前面所说，魔法还在逗留。Site-433很清楚，想法是不能靠杀死来了事的。\n\n> 截至目前，这个GoI只在两篇文章中登场过：[https://scp-wiki-cn.wikidot.com/critter-profile-francis 小动物简介：Francis！]和[https://scp-wiki-cn.wikidot.com/scp-7664 SCP-7664]。有时间的话我打算多写一些。我希望斯普特尼克不太像一间知道自己在生产异常而明知故犯的公司，更像一间全靠领导层插手想象之力来造出一大堆产品的公司。除此之外，这里的所有员工都仅仅是不了解幕后情况的普通人。\n\n> 虽然logo是我画的，但[[*user Monkeysky]]制作了非常清晰的SVG版本，有需要的话可以在[https://scp-wiki.wdfiles.com/local--files/art%3Asputnik-logo/sputniks2.svg 这里]下载。超级感谢Monkeysky！",
+  "tags": [
+    "艺术作品"
+  ],
+  "author": "Grignard_reagent",
+  "created_at": "2023-12-09T18:23:55+00:00",
+  "updated_at": "2023-12-09T18:38:09+00:00",
+  "rating": 2,
+  "_site": "scp-wiki-cn",
+  "_fullname": "art:sputnik-logo"
+}

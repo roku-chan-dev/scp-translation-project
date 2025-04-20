@@ -1,0 +1,18 @@
+{
+  "title": "SCP-CN-2304",
+  "content": "[[module CSS]]\n#page-content div.creditRate {\n    margin-right: 0;\n}\n\n#page-content div.myImageBlock {\n    margin: 2em 0;\n    width: 100%;\n    border: solid 1px #666;\n    background-color: #FAFAFA;\n    box-shadow: 0 1px 6px rgba(0,0,0,0.25);\n}\n#page-content div.myImageBlock img {\n    width: 100%;\n}\n#page-content div.myImageBlock div.myImageCaption {\n    text-align: center;\n    border-top: solid 1px #666;\n}\n#page-content div.myImageBlock div.myImageCaption p {\n    margin: 4px 1em;\n    padding: 0;\n}\n\n#page-content li {\n    margin-top: 1em;\n}\n\n#page-content div.sunImage p {\n    margin: 32px auto;\n    text-align: center;\n    font-size: 8vw;\n    user-select: none;\n}\n[[/module]]\n\n[[include :scp-wiki:component:toggle-sidebar]]\n\n[[include :scp-wiki-cn:credit:start]]\n**SCP-CN-2304：**太阳都升累了\n**作者：**[[*user DouglasLiu]]，作者页在**[[[douglasliu-author-page | 此]]]**\n\n[[collapsible show=\"▼ 作者的话\" hide=\"▲ 作者的话\"]]\n仪式用纯金和一些数字倒不是完全瞎掰的。\n[[/collapsible]]\n[[include :scp-wiki-cn:credit:end]]\n\n[[div class=\"myImageBlock\" style=\"width: 30%; float: right; margin: 1em 0 1em 1em\"]]\n[[div class=\"sunImage\"]]\n☉\n[[/div]]\n[[div class=\"myImageCaption\"]]\n**Symbol-2304**\n[[/div]]\n[[/div]]\n\n**项目编号：**SCP-CN-2304\n\n**项目等级：**Thaumiel\n\n**特殊收容措施：**各地区分部于各国选取一站点负责SCP-CN-2304的执行，站点需维持足够的员工人数，于当地时间每日的00:00至04:00期间组织员工执行一次SCP-CN-2304。为减轻重复执行SCP-CN-2304对员工造成的损伤，建议各站点按照实际情况安排人员轮换。\n\n如于执行SCP-CN-2304以后没有观察到SCP-CN-2304-1的正常升起，站点需立刻将情况通报至监督者议会，各站点立即进入紧急状态，以备可能的“帷幕破碎”情景。\n\n**描述：**SCP-CN-2304为一异常仪式，由基金会中国分部Site-CN-44应用神学部设计并确认有效。该仪式的完整步骤如下：\n\n# 不少于33人聚集于一空地，两两间隔不多于1.5m。\n# 每人口含约2g的纯金，跪下并面朝东方。\n# 每人用纯金所制成的利器在身上作出一可以流出血液的伤口（通常建议为划破一指头），在前方适当距离的地面用伤口流出的血液绘制Symbol-2304。\n# 每人用额头触碰绘制的仪式图案，保持此磕头姿势30分钟，此后宣布仪式结束。\n\nSCP-CN-2304-1为23/04/2021后的太阳。如不加干涉，全球各地于任何时候均无法观察到SCP-CN-2304-1从东边自然升起，同时无法在地球大气层范围内感知到SCP-CN-2304-1的存在。每日执行SCP-CN-2304为目前能够成功消除上述异常现象的唯一措施。\n\n@@@@\n@@@@\n@@@@\n\n[[=]]\n[[div class=\"footer-wikiwalk-nav\"]]\n<< [[[SCP-CN-2303]]] | SCP-CN-2304| [[[SCP-CN-2305]]] >>\n[[/div]]\n[[/=]]",
+  "tags": [
+    "k级情景",
+    "scp",
+    "thaumiel",
+    "仪式性",
+    "原创",
+    "恒星"
+  ],
+  "author": "DouglasLiu",
+  "created_at": "2021-04-23T13:56:36+00:00",
+  "updated_at": "2021-05-03T08:05:39+00:00",
+  "rating": 159,
+  "_site": "scp-wiki-cn",
+  "_fullname": "scp-cn-2304"
+}

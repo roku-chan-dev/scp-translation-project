@@ -1,0 +1,14 @@
+{
+  "title": "成人向けコンテンツ ゾーニング状況確認ページ",
+  "content": "++ 関連ページ\n\n* **[[[adult-guide|]]]**\n\n@@ @@\n\n++ JP産アダルト記事\n\n[[module listpages category=\"_default\" separate=\"no\" order=\"created_at desc\" tags=\"+アダルト +jp\" prependLine=\"||~ タイトル||~ 作成者||~ 作成日||\"]]\n|| **%%title_linked%%** || [[*user %%created_by%%]] || %%created_at%% ||\n[[/module]]\n\n@@ @@\n\n++ 翻訳アダルト記事\n\n\n[[module listpages category=\"_default\" separate=\"no\" order=\"created_at desc\" tags=\"+アダルト -jp\" prependLine=\"||~ タイトル||~ 翻訳者||~ 作成日||\" perPage=\"100\"]]\n|| **%%title_linked%%** || [[*user %%created_by%%]] || %%created_at%% ||\n[[/module]]",
+  "tags": [
+    "jp",
+    "ワークベンチ"
+  ],
+  "author": "islandsmaster",
+  "created_at": "2022-09-07T09:39:11+00:00",
+  "updated_at": "2024-11-17T10:47:14+00:00",
+  "rating": 6,
+  "_site": "scp-jp",
+  "_fullname": "workbench:adult-pages"
+}

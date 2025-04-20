@@ -1,0 +1,20 @@
+{
+  "title": "SCP-5000-J",
+  "content": "[[>]]\n[[module rate]]\n[[/>]]\n[[include component:image-block name=https://upload.wikimedia.org/wikipedia/commons/thumb/2/2e/Cookie_jar.jpg/517px-Cookie_jar.jpg|caption=あなたたちのいったい誰が...|width=300px]]\n**アイテム番号:** SCP-5000-J\n\n**オブジェクトクラス:** Uncontained\n\n**特別収容プロトコル:** SCP-5000-Jは財団エージェントがクッキーを取ったのが誰であるかを解明するまで未収容であるとみなされます。\n\n\n[[html]]\n<style>\na {\n    color: #b01;\n    text-decoration: none;\n    background: transparent;\n}\n\na:hover {\n    text-decoration: underline;\n    background-color: transparent;\n}\n\np {\ncolor: rgb(51, 51, 51);\nfont-family: verdana, arial, helvetica, sans-serif;\nfont-size: 0.8em;\nline-height: 141%;\n}\n</style>\n<p id=\"demo\"></p>\n<script>\nvar randomStrings = [\n    \"ライツ博士がやけ食いした\",\n    \"ブライト博士が見つけて夜食にした\",\n    \"マグナス博士またでたらめを言っているのか\",\n    \"ルスラフ・ディアギレフが平衡を見出して\",\n    \"どうしようもないムース管理官\",\n    \"タイプ・グリーンを狩り立てるクレフ博士\",\n    \"チェチェン人を追うエージェント・ストレルニコフ\",\n    \"ライト博士\",\n    \"蝶に餌やる桐生博士\",\n    \"己を信じるジョーイ・ファックナッツ\",\n    \"キャプテン・ドナーソン\",\n    \"マーシャル・カーター＆ダーク\",\n    \"ルナリアン文明全体が\",\n    \"ラクマウ・ルーサン\",\n    \"吊られた王\",\n    \"SCP-682が\",\n    \"ジョシーの後ろ半分\",\n\"彼に忌々しいラップトップを離れてベットに来るよう告げたヘレン・マグナスの幽霊\",\n    \"サイト234の女王シェリー・アンドリューズ\",\n    \"リープ・アンドリューズ\",\n    \"アヴェリー・ソレイス\",\n    \"ジャンカルロ・デ・ルカ\",\n    \"深酒していたアンドリュー・コヴァルチック\",\n    \"名高き拳闘士ジャスティン・エバーウッド\",\n    \"ケイン・パトス・クロウ（もちろんチョコレートはなしです）\",\n    \"アクタス管理官\",\n    \"アイスバーグ管理官\",\n    \"エージェント・ヨリック\",\n    \"ファック・スティック・リーグ第5の騎士カリバン卿\",\n    \"ムーン・チャンピオン\",\n    \"あなた しんじる dado はい\",\n\"別のスナックを探していたトゥッビオカ\",\n\"ランスと馬を伴ったSCP-4759-A\",\n\"無限大の苦悩を抱きし漆黒の刃\",\n\"すべてのリトル・ミスターズがいっぺんに\",\n\"力ある魔術師ルース・ベイダー・ギンスバーグ\",\n\"ヴィンセント・アンダーソン\",\n\"ケツの幽霊\",\n\"全能なるマイザー、宇宙の母、またの名をクッキーの盗人\",\n\"ジェームズ研究員（やだ！）\",\n\"取り払うことのできないたくさんの、たくさんのラルフ・ロジェ達のうちの一人\",\n\"マディソン・クラッグス博士\",\n\"トラヴィス・カズマレク\",\n\"Buddyが\",\n\"ゴムのアヒルたち\",\n\"偉大なるアノアティ\",\n\"生きた冗談\",\n\"クレア・ウィザーズ博士\",\n\"くそ野郎のジム・ヘンソン\",\n\"SCP-914実験記録の内容全体が\"\n];\nwindow.onload = function() {\n\nvar text = randomStrings[Math.floor(Math.random() * randomStrings.length)]\ndocument.getElementById(\"demo\").innerHTML = \"<b>説明:</b> \" + text + \"？そんな馬鹿な！ <a target=\\\"_parent\\\" styke=\\\"none;\\\"  href=\\\"http://ja.scp-wiki.net/scp-5000-j\\\">じゃあ誰が？</a>\";\n}\n\n</script>\n[[/html]]",
+  "tags": [
+    "5000",
+    "en",
+    "esoteric-class",
+    "scp",
+    "インタラクティブ",
+    "ジョーク",
+    "交換",
+    "未収容"
+  ],
+  "author": "Mishary",
+  "created_at": "2020-01-15T14:43:02+00:00",
+  "updated_at": "2021-08-29T16:45:17+00:00",
+  "rating": 35,
+  "_site": "scp-jp",
+  "_fullname": "scp-5000-j"
+}

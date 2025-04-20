@@ -1,0 +1,15 @@
+{
+  "title": "여백 (허브)",
+  "content": "[[include :scp-wiki:theme:scp-trans-pride |trans-pride-logo= --]]]\n\n[[module CSS]]\n/* INCREASING WHITE SPACE */\n.main-text > p {\n  font-size: 105%;\n  margin: 40px auto;\n}\n\n/* LINKS */\n.main-text a {\n  background: #dedede;\n  border: 4px solid #aaa;\n  margin: 60px 0;\n  transition: 0.75s;\n  display: block;\n  padding: 15px 10px;\n  text-align: center;\n}\n.main-text a:hover {\n  background: rgb(0,0,0,0);\n  border: 4px solid rgb(0,0,0,0);\n}\n[[/module]]\n\n[[include :scpko:info:start]]\n**여백 (허브)** (white space (HUB))\n**저자:** [[*user Nagiros]]\n**역자:** [[*user Cubic72]]\n**원문:** https://scp-wiki.wikidot.com/white-space-hub\n[[include :scpko:info:end]]\n\n재단 업무에 인간이 연관될 필요성은 이미 오래전에 단계적으로 없어졌다. 솔직히 말하자면, 육신을 가진 소수의 인간을 고용하는 건 형식적인 이유밖에 없다. 언제나 이랬던 것은 아니다. 아주 오래전, 인간이라는 것에 무언가 //의미//가 있던 때가 있었다. 하지만 요즘 우리가 사는 세상은 이렇다.\n\n인간 이후의 시대다. 시의 연 사이 여백이 지배하고 먹어 치운 세상.\n\n자동화 계획 이후, 우리는 계속해서 이것저것 상자 안에 가뒀다. 우리가 잘하는 일이기도 하고, 세계 정복의 조용한 혼잡함을 좋아했으니까. 하지만 그 외의 모든 것에 //무감각해졌다//. 더는 명예 훈장 수여되는 것도 없고, 구내식당에서 들려오는 웃음소리도 없으며, 우리가 하는 일이 정말 중요하다는 느낌도 없어졌다.\n\n오직 하늘에서 떨어지는 전파 잡음의 비뿐이다. 우리가 영언어(null-speak)로 사고하게 만든, 머릿속의 죽은 채널.\n\n기지를 운용하는 오토마톤들은 전파 잡음 속에 파묻힌 형이상학적 진흙 그릇이 있다고 했다. 하지만 그러한 그릇은 다른 언어로 말을 하기에 우리의 머리에 누수를 일으켰고, 그렇기에 우리는 언어 또한 단계적으로 없앴다. 우리는 더 많은 것을 찾아내기 위해 더 깊게 파고 들어갔다. 정상성에 대한 이해를 고쳐나가면서. 그러다가 인간이라는 요소는 전혀 없어질 때까지.\n\n강철과 콘크리트로 만들어진, 멋지고 고통스러운 세상이었다. 하느님이 된 외계인으로 변한 인간이 굴려 나가는 세상이었다. 성스러운 자가 동족 식인 행위 속에서, 우리는 죽은 하늘을 올려다보며 빌었다. 실현을, 구현을, 확실함을, 형태를, 진리를, //존재를// 말이다.\n\n[[div style=\"margin: 80px auto; text-align: center\"]]\n**그리고 잡음 속에서 울부짖는 이들은 우리에게 아스타로트를 주었다.**\n[[/div]]\n\n한때 재단엔 끝이 없다고 했다. 하지만 만약 있었다면, 전 세계 모든 문제에 대한 해답이 있었다면, 그렇다면 우리를 믿었을 것인가?\n\n@@ @@\n@@ @@\n@@ @@\n\n[[div class=\"main-text\"]]\n\n+ [[[Slipping Away | 내세의 뱀 /// 천국 너머의 재단]]]\n\n+ [[[The Eschaton | Serpent Bound \\\\\\ BEAR WITNESS]]]\n\n+ [[[SCP-4736 | DEAD WEIGHT ≡ DON'T KILL THE VIBE]]]\n\n+ [[[Nagiros' Proposal | R ¦ A ¦ G ¦ E]]]\n[[/div]]\n\n[[div style=\"height: 25px\"]]\n[[/div]]",
+  "tags": [
+    "en",
+    "깊은우물-카탈로그",
+    "허브"
+  ],
+  "author": "Cubic72",
+  "created_at": "2024-10-21T10:18:36+00:00",
+  "updated_at": "2024-10-21T10:19:32+00:00",
+  "rating": 2,
+  "_site": "scpko",
+  "_fullname": "white-space-hub"
+}

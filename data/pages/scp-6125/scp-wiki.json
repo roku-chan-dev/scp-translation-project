@@ -1,0 +1,33 @@
+{
+  "title": "SCP-6125",
+  "content": "[[include :scp-wiki:theme:black-highlighter-theme]]\n[[include :scp-wiki:theme:magnus-web-format]]\n[[include :scp-wiki:component:fade-in speed=1]]\n\n[[include info:start]]\nThis SCP contains 3 pages (2 offsets)\n\nThe second page is an iteration of the first, whilst the last page is a medium-length tale.\n[[include info:end]]\n\n[!--\nFragments:\nhttps://scp-wiki.wikidot.com/fragment:scp-6125-1\nhttps://scp-wiki.wikidot.com/fragment:scp-6125-2\nhttps://scp-wiki.wikidot.com/fragment:scp-6125-3\n--]\n\n[[module ListPages category=\"fragment\" parent=\".\" order=\"created_at\" limit=\"1\" offset=\"@URL|0\"]]\n%%content%%\n[[/module]]\n\n[[footnoteblock]]\n[[div class=\"footer-wikiwalk-nav\"]]\n[[=]]\n<< [[[SCP-6124]]] | SCP-6125 | [[[SCP-6126]]] >>\n[[/=]]\n[[/div]]\n\n[[include :scp-wiki:component:license-box]]\n=====\n> **Filename:** ArcticIce60002.png\n> **Name:** Sea ice off western Alaska\n> **Author:** NASA Goddard Photo and Video\n> **License:** CC BY 2.0\n> **Source Link:** https://search.creativecommons.org/photos/7e65b711-8458-430d-9c9b-1fcda24dae87\n=====\n> **Filename:** Realm.png\n> **Name:** Centre de la Galaxie\n> **Author:** Amanclos\n> **License:** CC BY 2.0\n> **Source Link:** https://search.creativecommons.org/photos/fc3bc442-44f4-4f5b-a5c2-b9e770e72a70\n=====\n> **Filename:** Header.png\n> **Author:** [[*user Dr Moned]]\n> **License:** CC BY 2.0\n=====\n[[include :scp-wiki:component:license-box-end]]",
+  "tags": [
+    "6000",
+    "_cc",
+    "_licensebox",
+    "_listpages",
+    "alagadda",
+    "extradimensional",
+    "inscription",
+    "keter",
+    "nameless",
+    "oneiroi",
+    "pattern-screamer",
+    "portal",
+    "reality-bending",
+    "religious",
+    "scp",
+    "second-hytoth",
+    "spatial",
+    "structure",
+    "telepathic",
+    "three-moons-initiative",
+    "uncontained"
+  ],
+  "author": "Dr Moned",
+  "created_at": "2021-05-31T23:27:00+00:00",
+  "updated_at": "2023-01-03T16:00:46+00:00",
+  "rating": 133,
+  "_site": "scp-wiki",
+  "_fullname": "scp-6125"
+}

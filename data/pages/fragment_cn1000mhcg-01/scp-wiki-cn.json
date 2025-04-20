@@ -1,0 +1,13 @@
+{
+  "title": "SCP-CN-1015文档访问注意事项",
+  "content": "@@@@\n@@@@\n@@@@\n@@@@\n@@@@\n@@@@\n@@@@\n@@@@\n@@@@\n@@@@\n[[div style=\"background: url(http://kaktuskontainer.wdfiles.com/local--files/format-hell/scp_trans.png) center no-repeat; text-align: center; width: 460px; margin: 0 auto; font-family: Courier New; font-size: 20px;font-weight: bold; padding: 1px 15px;border: solid 2px #000000;box-shadow: 0 1px 3px rgba(0,0,0,.2);\"]]\n[[=]]\n+* ##AE0000|注意##\n------\n本文档受LW.M安保协议保护，请在具备S-1015型精神分析装置的终端上进行访问。\n任何来自其它来源的访问请求都将被拒绝。\n[[size 75%]]##888888|检测到Level 5/CN-1015权限。##[[/size]]\n[[size 75%]]##888888|文档全部内容已解锁。##[[/size]]\n@@@@\n[[/=]]\n[[/div]]\n@@@@\n[[html]]\n<!DOCTYPE html>\n<html>\n<body>\n \n<center><button value=\"确认访问\" style=\"background:#222222; border:none; color:white; font-size: 20px; padding: 12px 24px; font-weight: bold;cursor: pointer\"; onClick=\"window.open('http://scp-wiki-cn.wikidot.com/scp-cn-1015/offset/1','_parent')\">确认访问</button></center>\n \n\n</body>\n</html>\n[[/html]]",
+  "tags": [
+    "段落"
+  ],
+  "author": "mhcg",
+  "created_at": "2018-11-26T13:48:53+00:00",
+  "updated_at": "2024-04-27T19:55:12+00:00",
+  "rating": 0,
+  "_site": "scp-wiki-cn",
+  "_fullname": "fragment:cn1000mhcg-01"
+}

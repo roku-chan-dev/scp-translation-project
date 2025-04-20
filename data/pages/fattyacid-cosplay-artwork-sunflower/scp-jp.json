@@ -1,0 +1,15 @@
+{
+  "title": "FattyAcidのコスプレアートワーク: 向日葵と研究員",
+  "content": "[[module CSS]]\n#page-title {\n  display: none;\n}\n\n.fake-title {\n  font-size: 200%;\n  color: #990011;\n  padding: 0 0 0.25em;\n  margin: 0 0 0.6em;\n  border-bottom: 1px solid #bbb;\n  font-weight: normal;\n}\n\n.fake-title p {\n  padding: 0;\n  margin: 0;\n}\n[[/module]]\n\n[[div class=\"fake-title\"]]\n向日葵と研究員\n[[/div]]\n\n[[include credit:start]]\n**タイトル:** FattyAcidのコスプレアートワーク: 向日葵と研究員\n**著者:** [[*user FattyAcid]]\n**作成年:** 2025\n[[include credit:end]]\n\n> 20██/09/02、エリア[http://scp-jp.wikidot.com/scp-324-jp 324-JP]の中心部で男性の白骨化した遺体が発見されました。遺体は激しく損傷した白衣を着用しており、白衣の胸部には日本生類創研のロゴの刺繍が施されていました。\n> \n> //(中略)//\n> \n> 白衣のポケット内の財布から写真が発見されました。\n\n@@@@\n@@@@\n\n[[=image http://scp-jp-storage.wdfiles.com/local--files/file%3A2081491-28-xwhj/himawari_1.png title=\"たのむ\" width=\"500px\"]]\n\n@@@@\n@@@@\n\n[[=image http://scp-jp-storage.wdfiles.com/local--files/file%3A2081491-28-apxs/himawari_2.png title=\"この子たちを殺さないでくれ\" width=\"500px\"]]",
+  "tags": [
+    "jp",
+    "アートワーク",
+    "日本生類創研"
+  ],
+  "author": "FattyAcid",
+  "created_at": "2025-03-16T14:58:56+00:00",
+  "updated_at": "2025-03-16T14:59:52+00:00",
+  "rating": 7,
+  "_site": "scp-jp",
+  "_fullname": "fattyacid-cosplay-artwork-sunflower"
+}

@@ -1,0 +1,19 @@
+{
+  "title": "SCP-6473",
+  "content": "[[include :scp-wiki:theme:black-highlighter-theme]]\n[[include :scp-wiki:component:pride-highlighter |inc-lgbt-alt= --]]]\n[[include :scp-jp:credit:start]]\n翻訳責任者: [[*user Tetsu1]]\n翻訳年: 2023\n著作権者: [[*user Siddartha Alonne]]\n原題: anti-tiredness pills\n作成年: 2022\n元記事リンク: https://scp-wiki.wikidot.com/scp-6473\n[[include :scp-jp:credit:end]]\n[[include :scp-wiki:component:author-label-source start=--\n|name=Siddartha Alonne\n|no-right-margin=*]]\n= **[https://scp-wiki.wikidot.com/siddartha-alonne-s-author-page 私の著者ページに行く！]**\n**記事:** SCP-6473 -- 反つかれぐすり\n\n**著者:** [[*user Siddartha Alonne]]\n\n**著者によるメモ:** フィードバックしてくださった[[*user Guaire]], [[*user Crow-Cat]]. [[*user LAN 2D]], [[*user TheDarkArtist]], [[*user Dr Leonerd]], [[*user Alexander the Jar]], [[*user Alexander245]], [[*user Uncle Nicolini]], [[*user Coldsmith]]に感謝します。\n[[include :scp-wiki:component:author-label-source end=--]]\n[[include :scp-jp:component:anomaly-class-bar-source\n|item-number= 6473\n|clearance= 4\n|container-class= safe\n|secondary-class= none\n|secondary-icon=\n|disruption-class= dark\n|risk-class= notice\n]]\n-----\n**特別収容プロトコル:** SCP-6473はサイト-234の標準セキュリティロッカー内に収容します。SCP-6473の実験目的での使用は6473プロジェクト主任研究員の事前承認の下で許可されます。\n\n**説明:** SCP-6473は \"つかれたとき\" [原文ママ]と書かれた1枚のステッカーが貼られた小瓶を指し、長径約2cmの明るい白色をした錠剤が28錠入っています。この錠剤に含まれる唯一の物質はメリノ種の純粋な羊乳です。\n\nSCP-6473を消費した対象は安全に休息できる場所を探し始め、目を閉じ、約30分後無反応状態になります。対象は約8時間その状態を保ちます[[footnote]]この段階において、対象の脳内で神経活動が顕著に増加することは注目に値します。[[/footnote]]。その後、対象は目を閉じた際の記憶を有していないことを述べます。その代わり、対象は論理と物理法則が基底現実と一致しない代替次元にいた旨を説明します。対象はさらに、様々な出来事、物体、実体に遭遇しいずれも同様に基底現実の論理から逸脱していた旨を説明します。グノーシス主義者の援助を受けたこの次元の探査及び研究は、グノーシス主義者が無益だと主張しているため無意味だと判明しています[[footnote]]したがって、SCP-6473の効果は本質的に超現実的でないと考えられています。[[/footnote]]。\n\n対象の記録に基づき、これら次元はSCP-6473を消費した対象の記憶を基に生成されていると考えられています。特筆すべきことに、対象はSCP-6473の使用時いかなる具体的な危険にもさらされなかった旨を報告しています。そのようなシナリオが発生した数少ない事例では、対象は脅威が危害を加えようとする直前に唐突に反応を取り戻します。\n-----\n= **補遺-6473-1: 再分類**\n\n異なる生物学法則及び物理法則を有する既知の並行宇宙の観測の後、SCP-6473はMirusクラスアノマリー[[footnote]]Mirusクラスアノマリーは基底現実と大きく異なる並行宇宙にのみ存在し、その宇宙においては平凡なものとみなされます。[[/footnote]]発見に有用であるためThaumielに再分類されました。クリアランスレベルは即座にSecretに引き上げられました。前記宇宙における財団と技術を共有した上で研究が現在進行中です。[http://scp-jp.wikidot.com/task-forces#omicron-rho 機動部隊オミクロン・ロー]の設置はO5の承認待ちです。",
+  "tags": [
+    "en",
+    "scp",
+    "thaumiel",
+    "医療",
+    "味覚",
+    "睡眠",
+    "食物"
+  ],
+  "author": "Tetsu1",
+  "created_at": "2023-10-17T06:20:54+00:00",
+  "updated_at": "2024-07-22T12:22:51+00:00",
+  "rating": -4,
+  "_site": "scp-jp",
+  "_fullname": "scp-6473"
+}

@@ -1,0 +1,25 @@
+{
+  "title": "SCP-4163",
+  "content": "[[include :scp-wiki:theme:black-highlighter-theme]]\n\n[[module CSS]]\n@media (max-width: 767px) {\n    span {\n        word-break: unset;\n    }\n}\n[[/module]]\n[!--\n[[include info:start]]\n**The Tetris Prodigy**\n**Author:** [[*user literallymechanical]]\nFor the rest of my work, check out [[[literallymechanical-s-author-page |LiterallyMechanical's Author Page]]]\n\nA few of my favorites:\n\n* [[[SCP-4170]]] -- The Dark\n* [[[SCP-4357]]] -- Slimelord\n* [[[SCP-4164]]] -- The Universal Instruction Manual\n\nMy new tale series (in progress):\n* [[[save-our-souls |Save Our Souls - Part 1]]]\n[[include info:end]]\n--]\n[[>]]\n[[module Rate]]\n[[/>]]\n\n[[include :scp-wiki:component:author-label-source start=--\n|name=LiterallyMechanical\n|no-right-margin=*]]\n**The Tetris Prodigy**, by [[*user literallymechanical]]\n\nFor the rest of my work, check out [[[literallymechanical-s-author-page |LiterallyMechanical's Author Page]]]\n\nA few of my favorites:\n\n* [[[SCP-5236]]] -- Ethics Committee Inquest\n* [[[SCP-4170]]] -- The Dark\n* [[[SCP-4357]]] -- Slimelord\n[[include :scp-wiki:component:author-label-source end=--]]\n\n[!--\n[[div style=\"text-align: right; margin-right: 2em; margin-top: -20px;\"]]\nby [[[literallymechanical-s-author-page|LiterallyMechanical]]]\n[[/div]]\n--]\n[!-- Thanks to Croquembouche and other site members for their writeup of how to use the listpages module: http://www.scp-wiki.net/listpages-magic-and-you --]\n\n[[module ListPages  category=\"fragment\" parent=\".\" limit=\"1\" created_by=\"literallymechanical\" order=\"created_at\" offset=\"@URL|0\"]]\n%%content%%\n[[/module]]\n\n[!-- For translators, here is a direct link to each iteration. --]\n[!-- https://scp-wiki.wikidot.com/fragment:scp-4163-0 --]\n[!-- https://scp-wiki.wikidot.com/fragment:scp-4163-1 --]\n[!-- https://scp-wiki.wikidot.com/fragment:scp-4163-2 --]\n[!-- https://scp-wiki.wikidot.com/fragment:scp-4163-3 --]\n\n[[footnoteblock]]\n\n[[div class=\"footer-wikiwalk-nav\"]]\n[[=]]\n<< [[[SCP-4162]]] | SCP-4163 | [[[SCP-4164]]] >>\n[[/=]]\n[[/div]]",
+  "tags": [
+    "_cc",
+    "_listpages",
+    "alive",
+    "computer",
+    "electronic",
+    "exchange",
+    "humanoid",
+    "k-class-scenario",
+    "keter",
+    "post-apocalyptic",
+    "sapient",
+    "science-fiction",
+    "scp"
+  ],
+  "author": "LiterallyMechanical",
+  "created_at": "2018-09-29T16:39:16+00:00",
+  "updated_at": "2024-09-30T03:55:23+00:00",
+  "rating": 216,
+  "_site": "scp-wiki",
+  "_fullname": "scp-4163"
+}

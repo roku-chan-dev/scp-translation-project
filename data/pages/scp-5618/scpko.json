@@ -1,0 +1,18 @@
+{
+  "title": "SCP-5618",
+  "content": "[[include :scpko:theme:blankstyle acs=a|fade=a]]\n\n[!--\n조각문서:\nhttp://scpko.wikidot.com/fragment:scp-5618-offset-0\nhttp://scpko.wikidot.com/fragment:scp-5618-offset-1\n--]\n\n[[module ListPages category=\"fragment\" parent=\".\" order=\"created_at\" limit=\"1\" offset=\"@URL|0\"]]\n%%content%%\n[[/module]]",
+  "tags": [
+    "en",
+    "k급-시나리오",
+    "scp",
+    "난해한-등급",
+    "시간",
+    "지키리라-43기지"
+  ],
+  "author": "Aiken Drum",
+  "created_at": "2021-07-17T02:04:31+00:00",
+  "updated_at": "2024-03-10T12:38:22+00:00",
+  "rating": 10,
+  "_site": "scpko",
+  "_fullname": "scp-5618"
+}

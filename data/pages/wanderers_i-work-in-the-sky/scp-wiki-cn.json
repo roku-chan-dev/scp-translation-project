@@ -1,0 +1,16 @@
+{
+  "title": "天职",
+  "content": "[[div class=\"phone\" style=\"font-size:130%;\"]]\n晨昏渐碧水，乃化我家乡\n澹澹无穷已，粼粼泛玉光\n枕云何抖擞，温软络流方\n何意众生苦，病劳身愈僵\n缘因风气浊，禽鸟与霾伤\n然我能痛饮，饮其深褐阳\n亦能图尽食，食彼月微霜\n由是我居此，辛勤为上苍\n\n\n他辈岂闻顾，同予赏者谁\n顽愚何妄妄，此去亦危危\n语我业终败，飘零自末垂\n定将神气乱，迷道道中亏\n我志同心意，我灵焉可欺\n其时犹未远，我力不人疑\n是故飞穹宇，言思与梦驰\n虽逢多大难，不舍作于兹\n\n故我居高野，随敷众报刊\n亦敷诸信也，还运各邮单\n更救飞机去，纸鹞群鸟护云端\n云端居必永，必止暴风与斗团\n若我不曾为此也，孰将劳苦守天寒\n\n[[/div]]\n[[div  class=\"phone\"  ]]\n[[image http://wanderers-library.wdfiles.com/local--files/i-work-in-the-sky/Sky1.PNG height=\"700\"]]\n[[/div]]\n\n\n[[module CSS]]\n@media (max-width: 479px) {\n.phone {\n width:100% !important; \n}\n}\n\n.phone {\nfloat:left; \nwidth: 45%; \npadding: 0 2%\n}\n[[/module]]",
+  "tags": [
+    "wanderers",
+    "图片",
+    "记载",
+    "韵文"
+  ],
+  "author": "Etinjat",
+  "created_at": "2019-08-18T09:43:01+00:00",
+  "updated_at": "2020-09-12T08:05:19+00:00",
+  "rating": 6,
+  "_site": "scp-wiki-cn",
+  "_fullname": "wanderers:i-work-in-the-sky"
+}

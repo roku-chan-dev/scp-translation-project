@@ -1,0 +1,14 @@
+{
+  "title": "エックスフォックスの著者ページ",
+  "content": "[[include component:image-block\n    name=profileart.jpg|\n    caption=[編集済]を探査中のエージェント・█████。\n]]\n\n**名前:** [不明]\n\n**職務:** --フィールドエージェント--\n\n**所在:** [不明]\n\n**来歴:** 当エージェントは以前までエージェント・█████ █████として知られており、異常存在・異常現象に関連する組織内に潜入し、高優先度の対象の暗殺を任務とする潜入捜査官として活動していました。多くの任務において、当エージェントは他のエージェントに誤った情報を伝達し、結果職員または物資の喪失が招かれたと推測されています。当エージェントの現在の所在地は、不明となっています。\n\n適切なクリアランスレベルを持つ職員は、添付文書を閲覧し、当エージェントが関連していたアノマリーの一覧を得ることが可能です。\n\n**文書XF-1:**\n\n[[[SCP-3235|SCP-3235]]] - \"The Baba-disease\"\n[[[SCP-3325|SCP-3325]]] - \"Live Entertainment\"\n[[[SCP-3409|SCP-3409]]] - \"The Chocolate Factory\"\n[[[SCP-3574|SCP-3574]]] - \"Lambs to the Slaughter\"\n[[[SCP-3607|SCP-3607]]] - \"Residence Evil\"\n[[[SCP-3974|SCP-3974]]] - \"Such Sweet Sorrow\"\n\n[http://scpsandbox2.wikidot.com/redemptioninitiative [データ削除済]]",
+  "tags": [
+    "en",
+    "著者ページ"
+  ],
+  "author": null,
+  "created_at": "2018-12-08T07:57:36+00:00",
+  "updated_at": "2021-01-10T17:23:56+00:00",
+  "rating": 5,
+  "_site": "scp-jp",
+  "_fullname": "xfox-author-page"
+}

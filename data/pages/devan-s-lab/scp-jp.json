@@ -1,0 +1,14 @@
+{
+  "title": "デバンの研究所",
+  "content": "++ 黒き月は吼え、黝き月は吼ゆ。\n[[html]]\n<style>\nbody {\n\tfont-family: Verdana, Arial, Helvetica, MS Gothic, Georgia, Trebuchet, Malgun Gothic;\n\tfont-size: 10pt;\n}\n</style>\n<script type=\"text/javascript\">\n\tvar now = new Date();\n\tvar year = now.getYear() + 1900;\n\tvar month = now.getMonth() + 1;\n\tvar day = now.getDate();\n\tvar hour = now.getHours();\n\tvar min = now.getMinutes();\n\tvar sec = now.getSeconds();\n\n\tdocument.write('<p>接続時刻:' + year + '年' + month + '月' + day + '日' + hour + '時' + min + '分' + sec + '秒</p>');\n</script>\n[[/html]]\n\n+++ {{SCP財団のデバン博士は今**レベル4**の職員で、以下のようなプロジェクトに参加しています。}}\n\n* 「[http://www.scp-wiki.net SCP Foundation]」翻訳\n\n+++ {{デバン博士は現在以下のような作業を行っています。}}\n\n++++ 1. サイトの状態のモニタリング\n[[iframe http://scpsandbox-jp.wdfiles.com/local--files/dr-devan/asdf-ja.html style=\"width:400px; height:50px;\" frameborder=\"0\" scrolling=\"no\"]]\n\n++++ 2. XK級世界滅亡タイマーの観測\n[[iframe http://scp-jp-sandbox2.wdfiles.com/local--files/holy-nova/timer.html?timestamp=1634137200000&type=2 style=\"width: 400px; height: 50px;\" scrolling=\"no\" class=\"timer\"]]\n\n++++ 3. 文書整理\n[[module CountPages separate=\"@URL\" category=\"@URL|*\"]]\n総ページ数: %%total%%\n[[/module]]\n\n[[module CountPages tags=\"+scp +en\"]]\n翻訳SCP数: %%total%%\n[[/module]]\n\n[[module CountPages tags=\"scp, -joke, -archived, -explained, -decommissioned\"]]\n翻訳メインSCP数: %%total%%\n[[/module]]\n\n[[module CountPages tags=\"tale +en\"]]\n翻訳Tales数: %%total%%\n[[/module]]\n\n[[module CountPages tags=\"+scp +jp\"]]\n創作SCP-JP数: %%total%%\n[[/module]]\n\n[[module CountPages tags=\"+scp +jp -joke -archived -explained -decommissioned\"]]\n創作メインSCP-JP数: %%total%%\n[[/module]]\n\n[[module CountPages tags=\"tale +jp\"]]\n創作Tales数: %%total%%\n[[/module]]\n\n++++ オーディオプレーヤー製作\n[[include :shitake-crude-production:audio:d-player \n|URL=http://shitake-crude-production.wikidot.com/local--files/d-player-mock/devanfull.mp3\n|autoplay=false\n]]\n\n++++ その他\n[[image http://s07.flagcounter.com/count/hce/bg_FFFFFF/txt_000000/border_CCCCCC/columns_2/maxflags_12/viewers_0/labels_1/pageviews_1/flags_0/ link=\"http://s07.flagcounter.com/more/hce\"]]\n\n+++ {{デバン博士の作業内容は以下のとおりです。}}\n[[tabview]]\n[[tab 創作]]\n++++ SCP-JP\n* [[[SCP-817-JP]]] - ヴェニスの彫刻 -- [[[scp173jpcontesthub|SCP-173-JPコンテスト]]]投稿作\n[[/tab]]\n[[tab 翻訳]]\n++++ SCP-KO to SCP-JP\n\n* [[[SCP-059-KO]]] - 金属アリ\n* [[[SCP-779-KO]]] - これは結果論的なオブジェクトです\n\n++++ Tale-KO to Tale-JP\n\n* [[[transfer|転任]]]\n* [[[doppelganger|ドッペルゲンガー]]]\n\n++++ SCP-JP to SCP-KO\n\n* [http://ko.scp-wiki.net/scp-112-jp SCP-112-JP] - 洋食店のサンプル\n* [http://ko.scp-wiki.net/scp-128-jp SCP-128-JP] - \"自動\"販売機\n* [http://ko.scp-wiki.net/scp-298-jp SCP-298-JP] - バベルの剥製\n\n[[/tab]]\n[[/tabview]]",
+  "tags": [
+    "ko",
+    "サンドボックス"
+  ],
+  "author": "Dr Devan",
+  "created_at": "2014-06-01T13:02:07+00:00",
+  "updated_at": "2021-01-10T15:54:39+00:00",
+  "rating": 13,
+  "_site": "scp-jp",
+  "_fullname": "devan-s-lab"
+}

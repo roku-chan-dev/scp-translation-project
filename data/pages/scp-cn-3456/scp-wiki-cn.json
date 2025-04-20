@@ -1,0 +1,33 @@
+{
+  "title": "SCP-CN-3456",
+  "content": "[[module css]]\ndiv.creditButtonStandalone>p>a::after, div.rate-box-with-credit-button .creditButton>p>a::after {\n    filter: invert(1);\n}\n.nullify {\n    display: flex;\n    justify-content: center;\n    outline: 2px solid #333;\n    margin: 10px;\n    padding: 0;\n    font-size: 1.5em;\n    box-shadow: 0 0 5px 1px black;\n    -webkit-backdrop-filter: sepia(1) brightness(.2);\n    backdrop-filter: sepia(1) brightness(.2);\n    border: 1px solid #3a3a3a;\n    transition: all .2s linear;\n}\n.nullify:hover {\n    -webkit-backdrop-filter: sepia(1) brightness(.8);\n    backdrop-filter: sepia(1) brightness(.3);\n}\n#top-bar ul li ul {\n    top: inherit !important;\n}\n@media (min-width: 767px) {\ndiv.mobile-top-bar {\n    display: none !important;\n}\n}\n:root:lang(cn) {\n  --header-title: \"SCP 基金会\";  --header-subtitle: \"控制，收容，保护\";\n}\n[[/module]]\n[[include :scp-wiki-cn:credit:start]]\n本文叙事部分由[[*user #apmv]]完成，[[*user Chen XX]]完成了精彩绝伦的代码部分以及校对工作并撰写其中一个结局，我们合著完成了本文！\n\n特别感谢[[*user just＿we]]辛勤的div，以及[[*user dr hormress]]给予的代码支持；[[*user pokm]]的写作站点建议，[[*user sharethesilence]][[*user wlft]][[*user Anzetos]]等A07朋友给予的意见参考以及[[*user Kcorena]]、[[*user toaa root]]在草稿初期的阅读和具有建设性的卓越意见。[[*user rye travis]]在3K竞赛期间进行了丰富--低质量--的精彩交流。[[*user 62ECN]]陪我讨论了很多版本的稿子，感谢他对迭代4非常多精彩的延展和补充，在最没有主意的时候伸出了援手！\n\n还有感谢这段时间女朋友的在背后的助力，没有她的支持我很难保持稳定的精神状态来完成这篇耗尽了我精力的文档。\n\n再次称赞[[*user Chen XX]]的代码部分！！！十分漂亮！！！\n[[include :scp-wiki-cn:credit:end]]\n\n[[module ListPages category=\"fragment\" parent=\".\" limit=\"1\" order=\"name\" offset=\"@URL|0\"]]\n%%content%%\n[[/module]]\n\n[!-- \nhttps://scp-wiki-cn.wikidot.com/fragment:scp-cn-3456-00\nhttps://scp-wiki-cn.wikidot.com/fragment:scp-cn-3456-01\nhttps://scp-wiki-cn.wikidot.com/fragment:scp-cn-3456-02\nhttps://scp-wiki-cn.wikidot.com/fragment:scp-cn-3456-03\nhttps://scp-wiki-cn.wikidot.com/fragment:scp-cn-3456-04\nhttps://scp-wiki-cn.wikidot.com/fragment:scp-cn-3456-05\nhttps://scp-wiki-cn.wikidot.com/fragment:scp-cn-3456-06\n--]",
+  "tags": [
+    "area-cn-07",
+    "cn3000",
+    "meta",
+    "scp",
+    "thaumiel",
+    "互动性",
+    "人形生物",
+    "人造物品",
+    "原创",
+    "合著",
+    "基金会制",
+    "建筑",
+    "强迫性",
+    "机械",
+    "活物",
+    "混沌分裂者",
+    "现实扭曲",
+    "生物性",
+    "精神影响",
+    "认知危害",
+    "预测性"
+  ],
+  "author": "#ApmV",
+  "created_at": "2024-01-04T13:41:35+00:00",
+  "updated_at": "2024-01-16T09:25:57+00:00",
+  "rating": 35,
+  "_site": "scp-wiki-cn",
+  "_fullname": "scp-cn-3456"
+}

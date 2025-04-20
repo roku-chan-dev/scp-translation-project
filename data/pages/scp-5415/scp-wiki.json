@@ -1,0 +1,26 @@
+{
+  "title": "SCP-5415",
+  "content": "[[include :scp-wiki:info:start]]\n[[=]]\n\n[*http://scp-wiki.wikidot.com/dysadron Check out more of my articles on my author page!]\n\n[[/=]]\n[[include :scp-wiki:info:end]]\n\n[[module ListPages  category=\"fragment\" parent=\".\" limit=\"1\" order=\"created_at\" offset=\"@URL|0\"]]\n%%content%%\n[[/module]]\n\n[[module CSS]]\n\n.info-container .collapsible-block-folded a{\ncolor: #FFF;}\n.info-container .collapsible-block-unfolded-link a{\ncolor: #FFF;\n}\n\n#page-content .collapsible-block {\n    display: block;\n    text-align: center;\n    padding: .8em;\n    background-color: #e3e3e3;\n    border-top: 0.125rem dashed #b5b5b5;\n    border-bottom: 0.125rem dashed #b5b5b5;\n}\n\n#page-content .collapsible-block .collapsible-block-content {\n    text-align: left;\n}\n\n#page-content .licensebox .collapsible-block {\n    display: unset;\n    text-align: unset;\n    padding: unset;\n    background-color: unset;\n    border-top: unset;\n    border-bottom: unset;\n}\n\n#page-content .licensebox .collapsible-block .collapsible-block-content {\n    text-align: unset;\n}\n\nblockquote,\ndiv.blockquote {\n    border: 0.125rem solid #d4d4d4;\n    background-color: #F5F5F5;\n}\n\n.interview{\n    border:solid 2px #d4d4d4;\n    background:#F5F5F5;\n    width:80%;\n    padding:1px 15px;\n    margin: 10px auto;\n}\n\n#page-title{display:none}\n\n[[/module]]\n\n[!-- http://scp-wiki.wikidot.com/fragment:scp-5415-1--]\n[!-- http://scp-wiki.wikidot.com/fragment:scp-5415-2 --]\n\n[[footnoteblock]]\n\n[[div class=\"footer-wikiwalk-nav\"]]\n[[=]]\n<< [[[SCP-5414]]] | SCP-5415 | [[[SCP-5416]]] >>\n[[/=]]\n[[/div]]\n\n[[include :scp-wiki:component:license-box]]\n=====\n> **Filename:** 120GM\n> **Author:** Dysadron\n> **License:** CC-BY-SA\n\n> **Filename:** FloorPlan1\n> **Author:** Dysadron\n> **License:** CC-BY-SA\n\n> **Filename:** FloorPlan2\n> **Author:** Dysadron\n> **License:** CC-BY-SA\n\n> **Filename:** FloorPlan3\n> **Author:** Dysadron\n> **License:** CC-BY-SA\n\n> **Filename:** Baptism\n> **Author:** Dysadron\n> **License:** CC-BY-SA\n> **Derivative of:** \"young-happy-couple-at-sunset-beach\" + Free vintage antique leather book cover texture for layers (2981931138).jpg\n\n> **Filename:** Baptism\n> **Name:** young-happy-couple-at-sunset-beach\n> **Author:** peopleshot\n> **License:** CC0\n> **Source Link:** https://pickupimage.com/free-photos/young-happy-couple-at-sunset-beach/2333012\n \n> **Filename:** Baptism\n> **Name:** Free vintage antique leather book cover texture for layers (2981931138).jpg\n> **Author:** Pink Sherbert Photography\n> **License:** Creative Commons Attribution 2.0 Generic\n> **Source Link:** https://commons.wikimedia.org/wiki/File:Free_vintage_antique_leather_book_cover_texture_for_layers_(2981931138).jpg\n=====\n[[include :scp-wiki:component:license-box-end]]",
+  "tags": [
+    "_cc",
+    "_licensebox",
+    "_listpages",
+    "compulsion",
+    "document",
+    "extradimensional",
+    "keter",
+    "memory-affecting",
+    "metafiction",
+    "metamorphic",
+    "narrative",
+    "reviewers-spotlight",
+    "scp",
+    "spatial"
+  ],
+  "author": "Dysadron",
+  "created_at": "2021-03-05T18:53:16+00:00",
+  "updated_at": "2024-10-01T17:52:46+00:00",
+  "rating": 156,
+  "_site": "scp-wiki",
+  "_fullname": "scp-5415"
+}

@@ -1,0 +1,14 @@
+{
+  "title": "POI-7665",
+  "content": "[!-- https://https://scp-wiki.wikidot.com/fragment:fantem-s-poi-file-0--]\n[!-- https://https://scp-wiki.wikidot.com/fragment:fantem-s-poi-file-1--]\n\n[[module ListPages  category=\"fragment\" parent=\".\" limit=\"1\" order=\"created_at\" offset=\"@URL|0\"]]\n%%content%%\n[[/module]]\n\n----\n\n[[div class=\"blockquote\"]]\n\n++ __STATISTICS:__\n**Hubs:**\n[[module ListPages created_by=\"Fantem\" separate=\"no\" tags=\"hub\" order=\"title\" prependLine=\"||~ Hub ||~ Rating ||~ Comments ||~ Created ||~ Last Comment ||\"]] \n|| %%title_linked%% || %%rating%% || %%comments%% || %%created_at%% || %%commented_at%% ||\n[[/module]]\n**SCPs:**\n[[module ListPages created_by=\"Fantem\" separate=\"no\" tags=\"scp, -joke\" order=\"title\" prependLine=\"||~ SCP ||~ Rating ||~ Comments ||~ Created ||~ Last Comment ||\"]] \n|| %%title_linked%% || %%rating%% || %%comments%% || %%created_at%% || %%commented_at%% ||\n[[/module]]\n**Reports:** \n[[module ListPages created_by=\"Fantem\" separate=\"no\" tags=\"tale, author, adult\" order=\"title\" prependLine=\"||~ Report ||~ Rating ||~ Comments ||~ Created ||~ Last Comment ||\"]] \n|| %%title_linked%% || %%rating%% || %%comments%% || %%created_at%% || %%commented_at%% ||\n[[/module]]\n\n[[/div]]",
+  "tags": [
+    "_cc",
+    "author"
+  ],
+  "author": "Fantem",
+  "created_at": "2013-02-24T20:30:12+00:00",
+  "updated_at": "2024-08-30T17:16:35+00:00",
+  "rating": 95,
+  "_site": "scp-wiki",
+  "_fullname": "fantem-s-poi-file"
+}

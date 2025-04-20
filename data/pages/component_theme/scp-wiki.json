@@ -1,0 +1,14 @@
+{
+  "title": "Site Theme (Legacy Redirect)",
+  "content": "[[module Redirect destination=\"theme:site\"]]\n\n[[div style=\"display: none;\"]]\n[!-- for legacy uses of /component:theme/code/1 --]\n[[code type=\"css\"]]\n@import url(\"https://cdn.scpwiki.com/theme/en/sigma/css/sigma.min.css\");\n[[/code]]\n[[/div]]",
+  "tags": [
+    "admin",
+    "redirect"
+  ],
+  "author": "Aelanna",
+  "created_at": "2014-01-22T21:32:19+00:00",
+  "updated_at": "2024-11-26T03:49:39+00:00",
+  "rating": 35,
+  "_site": "scp-wiki",
+  "_fullname": "component:theme"
+}

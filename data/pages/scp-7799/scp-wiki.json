@@ -1,0 +1,28 @@
+{
+  "title": "SCP-7799",
+  "content": "[[=]]\n[[include :scp-wiki:component:info-ayers\n|lang=en\n|page=component:info-ayers\n|authorPage= https://scp-wiki.wikidot.com/trouts-authorpage\n|comments=\n> And we'll all float on.\n> Alright already, we'll all float on\n> Alright, don't worry even if things end up a bit too heavy\n> [https://youtu.be/CTAud5O7Qqk We'll all float on alright.]\n( Float On - Modest Mouse  )\n\nSCP-7799 - When I'm Gone and Afloat.]]\n[[/=]]\n[[=]]\n[[module Rate]]\n[[/=]]\n\n[[module ListPages category=\"fragment\" parent=\".\" order=\"created_at\" limit=\"1\" offset=\"@URL|0\"]]\n%%content%%\n[[/module]]\n\n[!--\nFragments:\nhttps://scp-wiki.wikidot.com/fragment:scp-7799-1\nhttps://scp-wiki.wikidot.com/fragment:scp-7799-2\n--]\n\n[[footnoteblock]]\n\n[[div class=\"footer-wikiwalk-nav\"]]\n[[=]]\n<< [[[SCP-7798]]] | SCP-7799 | [[[SCP-7800]]] >>\n[[/=]]\n[[/div]]\n[[include component:wikimodule |ratings= --]]]\n[[include :scp-wiki:component:license-box]]\n=====\n> **Filename:** jlyfis.png\n> **Name:** Jellyfish at Osaka\n> **Author:** Steffen Flor\n> **License:** Creative Commons Attribution-Share Alike 2.0\n> **Source Link:** https://commons.wikimedia.org/wiki/File:2018-08-24_Jellyfish_at_Osaka.jpg\n=====\n[[include :scp-wiki:component:license-box-end]]",
+  "tags": [
+    "_cc",
+    "_licensebox",
+    "_listpages",
+    "afterlife",
+    "animal",
+    "ectoentropic",
+    "esoteric-class",
+    "extraterrestrial",
+    "hive-mind",
+    "invertebrate",
+    "keter",
+    "memetic",
+    "rewritable",
+    "sapient",
+    "scp",
+    "tactical-theology"
+  ],
+  "author": "TroutMaskReplica",
+  "created_at": "2023-10-03T21:30:54+00:00",
+  "updated_at": "2024-03-28T19:08:13+00:00",
+  "rating": 34,
+  "_site": "scp-wiki",
+  "_fullname": "scp-7799"
+}

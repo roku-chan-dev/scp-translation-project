@@ -1,0 +1,23 @@
+{
+  "title": "SCP-4182",
+  "content": "[[include info:start]]\n**SCP-4182:** 제5기지는 없다\n**저자:** [[*user the great hippo]]\n**원작:** http://www.scp-wiki.net/scp-4182\n**역자:** [[*user Aiken Drum]]\n**이미지:** [https://commons.wikimedia.org/wiki/File:%E7%AB%AF%E5%B3%B6_-_panoramio.jpg 여기], [https://commons.wikimedia.org/wiki/File:Battleship_Island_-_Shot_01_(2012).jpg here], [https://commons.wikimedia.org/wiki/File:Gunkan_Jima_-_panoramio.jpg 여기], [https://commons.wikimedia.org/wiki/File:Sepolcreto_della_%22Rotonda%22_dell%27Ospedale_Maggiore_di_Milano_(1907)_(19725505594).jpg 여기],  [https://commons.wikimedia.org/wiki/File:Sepolcreto_della_%22Rotonda%22_dell%27Ospedale_Maggiore_di_Milano_(1907)_(20339686922).jpg 여기]. 사이렌 소리는 [https://youtu.be/msX8iULEQgA 여기] (속도를 낮춤), 영상은 직접 제작 (그리고CC 3.0 하에 배포). 이 영상의 클립이 포함되어있음 (마찬가지로 CC 3.0): [https://vimeo.com/4557534 여기].\n\n**Music:** [https://youtu.be/5XZ_5B5mJS0 Milgram's 37] (Peter Gabriel)\n----\n[[include :sandbox.scp-wiki.kr:hippo]]\n[[include info:more]]\n[[include info:end]]\n\n[[module css]]\nsup { \nvertical-align: top; position: relative; top: -0.5em; \n}\n[[/module]]\n\n[[module ListPages category=\"fragment\" parent=\".\" limit=\"1\" order=\"created_at\" offset=\"@URL|0\"]]\n%%content%%\n[[/module]]\n\n[!-- 수정할 일이 있다면 --]\n[!-- https://scpko.wikidot.com/fragment:scp-4182-1 --]\n[!-- https://scpko.wikidot.com/fragment:scp-4182-2 --]\n[!-- https://scpko.wikidot.com/fragment:scp-4182-3 --]\n[!-- https://scpko.wikidot.com/fragment:scp-4182-4 --]\n[!-- https://scpko.wikidot.com/fragment:scp-4182-5 --]",
+  "tags": [
+    "en",
+    "scp",
+    "변형",
+    "사체",
+    "영상첨부",
+    "위치",
+    "인식재해",
+    "정신조작",
+    "지하",
+    "케테르",
+    "현상"
+  ],
+  "author": "Aiken Drum",
+  "created_at": "2019-07-10T11:29:57+00:00",
+  "updated_at": "2024-11-19T14:55:25+00:00",
+  "rating": 30,
+  "_site": "scpko",
+  "_fullname": "scp-4182"
+}

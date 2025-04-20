@@ -1,0 +1,14 @@
+{
+  "title": "00423",
+  "content": "content: \"**説明:** 0.1%の確率で、前に立っても開かなくなる赤外線センサー式自動ドア。対象者が面白いポーズを取ると開くことがある。どのようにして「面白い」と判断しているのかは不明。\\n**回収日:** 20██/██/██\\n**回収場所:** ███県██市█区のオフィスビル3F、正面入口\\n**現状:** センサー交換により当該場所では発生しなくなった。センサーはサイト-81██の小型低脅威物品ロッカーに保管。\"\ntf2: '1'\nauthor: inemurik\nredirect-b: '[[module Redirect destination=\"http://ja.scp-wiki.net/log-of-anomalous-items-jp'\nredirect-e: '\"]]'",
+  "tags": [
+    "jp",
+    "剪定対象-子"
+  ],
+  "author": "7happy7",
+  "created_at": "2020-03-14T14:26:34+00:00",
+  "updated_at": "2021-05-24T13:12:59+00:00",
+  "rating": 5,
+  "_site": "scp-jp",
+  "_fullname": "anomalous-jp:00423"
+}

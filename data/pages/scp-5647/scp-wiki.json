@@ -1,0 +1,22 @@
+{
+  "title": "SCP-5647",
+  "content": "[[>]]\n[[module Rate]]\n[[/>]]\n\n[[module ListPages  category=\"fragment\" parent=\".\" limit=\"1\" order=\"created_at\" offset=\"@URL|0\"]]\n%%content%%\n[[/module]]\n\n[!-- http://www.scp-wiki.net/fragment:scp-5647-1 --]\n[!-- http://www.scp-wiki.net/fragment:scp-5647-2 --]\n[!-- http://www.scp-wiki.net/fragment:scp-5647-3 --]\n\n~~~~\n\n[[footnoteblock]]\n\n[[div class=\"footer-wikiwalk-nav\"]]\n[[=]]\n<< [[[SCP-5646]]] | SCP-5647 | [[[SCP-5648]]] >>\n[[/=]]\n[[/div]]\n\n[[include :scp-wiki:component:license-box]]\n[!-- N/A (No Images)  --]\n[[include :scp-wiki:component:license-box-end]]",
+  "tags": [
+    "_licensebox",
+    "_listpages",
+    "concept",
+    "entropic",
+    "ethics-committee",
+    "observational",
+    "reality-bending",
+    "scp",
+    "temporal",
+    "thaumiel"
+  ],
+  "author": "Tracque_",
+  "created_at": "2021-01-18T23:36:46+00:00",
+  "updated_at": "2023-03-14T18:19:53+00:00",
+  "rating": 102,
+  "_site": "scp-wiki",
+  "_fullname": "scp-5647"
+}

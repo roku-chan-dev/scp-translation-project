@@ -1,0 +1,15 @@
+{
+  "title": "SCP-4000",
+  "content": "##firebrick|**REQUEST=**\"4000_Additional_Documentation\"##\n##firebrick|**...**##\n##firebrick|**...**##\n##firebrick|**...**##\n[[size 125%]]##firebrick|**[ACCESS: DENIED]**##[[/size]]\n[[module Redirect destination=\"taboo\"]]\n##firebrick|**...**##\n##firebrick|**...**##\n##firebrick|**...**##\n##firebrick|**REQUEST=**\"4000_Additional_Documentation\"##\n##firebrick|**CREDENTIALS=**\"SCP-4000/noredirect/true\"##\n##firebrick|**...**##\n##firebrick|**...**##\n##firebrick|**...**##\n[[size 125%]]##firebrick|**[ACCESS: GRANTED]**##[[/size]]\n[[size 110%]]##firebrick|**[Clever, clever.]**##[[/size]]\n\n[[module ListPages category=\"fragment\" parent=\".\" order=\"random\" limit=\"1\"]]\n[[div class=\"taleBlock\"]]\n%%content%%\n[[/div]]\n[[/module]]\n\n[[module CSS]]\n.taleBlock {\n   margin: 0px 80px 0px 50px;\n   padding: 10px 20px 10px 20px;\n   background-color: #f2f2f2;\n}\n[[/module]]",
+  "tags": [
+    "co-authored",
+    "collaboration",
+    "redirect"
+  ],
+  "author": "aismallard",
+  "created_at": "2022-10-16T00:49:56+00:00",
+  "updated_at": "2024-09-01T15:52:40+00:00",
+  "rating": 33,
+  "_site": "scp-wiki",
+  "_fullname": "scp-4000"
+}

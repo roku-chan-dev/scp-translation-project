@@ -1,0 +1,23 @@
+{
+  "title": "SCP-2343",
+  "content": "=====\n[[include component:preview\ntext=What if an Egyptian goddess got super drunk and ended up in the wrong Memphis but liked it so much that her and her husband settled down to start a family?]]\n=====\n[[>]]\n[[module Rate]]\n[[/>]]\n\n[!--\nFragments:\nhttps://scp-wiki.wikidot.com/fragment:scp-2343-1\nhttps://scp-wiki.wikidot.com/fragment:scp-2343-2\nhttps://scp-wiki.wikidot.com/fragment:scp-2343-3\n--]\n\n[[module ListPages  category=\"fragment\" parent=\".\" limit=\"1\" order=\"name\" offset=\"@URL|0\"]]\n%%content%%\n[[/module]]\n\n[[include component:license-box]]\n> **Filename:** test.png\n> **Name:** Russellshepherd.jpg\n> **Author:** Russell Lee\n> **License:** Public Domain\n> **Source Link:** [[[https://commons.wikimedia.org/wiki/File:Russellshepherd.jpg|Wikimedia]]]\n[[include component:license-box-end]]\n\n[[footnoteblock]]\n\n\n=====\n[[div class=\"titlepreview\"]]\nHow I Got To Memphis\n[[/div]]\n[[div class=\"coauthors\"]]\nNone\n[[/div]]\n[[module CSS]]\ndiv.titlepreview { display: none; }\ndiv.coauthors { display: none; }\n[[/module]]\n======",
+  "tags": [
+    "_cc",
+    "_licensebox",
+    "_listpages",
+    "biological",
+    "humanoid",
+    "keter",
+    "meta",
+    "prize-feature",
+    "reality-bending",
+    "sapient",
+    "scp"
+  ],
+  "author": "Doctor Cimmerian",
+  "created_at": "2015-02-17T06:03:05+00:00",
+  "updated_at": "2024-05-03T12:44:40+00:00",
+  "rating": 604,
+  "_site": "scp-wiki",
+  "_fullname": "scp-2343"
+}

@@ -1,0 +1,15 @@
+{
+  "title": "Birthday Girl (Pixel art of Meri Clef, SCP-8166)",
+  "content": "[[include :scp-wiki:theme:blankstyle]]\n[[include :scp-wiki:theme:queerstyle]]\n\n[[>]]\n[[module rate]]\n[[/>]]\n\n[[include component:image-block-peppo\n|name=http://scp-wiki.wdfiles.com/local--files/art:birthday-girl/mericlef.png\n|caption= Meri, Meri, my piece of Eden.\n|width=300px\n]]\n\n[[=]]\n[[include :scp-wiki:component:license-box | author = newnykacolaquantum]]\n=====\n[[<]]\n[[div class=\"blockquote\"]]\n**Filename:** mericlef.png\n**Author:** Me\n**License:** CC-BY-SA 3.0\n**Source Link:** http://scp-wiki.wdfiles.com/local--files/birthday-girl/mericlef.png\n[[/div]]\n[[/<]]\n=====\n[[include :scp-wiki:component:license-box-end]]\n[[/=]]",
+  "tags": [
+    "artwork",
+    "pixel-art",
+    "teenage-gaea"
+  ],
+  "author": "newnykacolaquantum",
+  "created_at": "2024-08-28T12:42:05+00:00",
+  "updated_at": "2024-09-03T17:29:45+00:00",
+  "rating": 4,
+  "_site": "scp-wiki",
+  "_fullname": "art:birthday-girl"
+}

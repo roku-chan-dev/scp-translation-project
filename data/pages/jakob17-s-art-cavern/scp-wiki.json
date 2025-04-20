@@ -1,0 +1,17 @@
+{
+  "title": "Jakob17's Art Cavern",
+  "content": "[[include theme:black-highlighter-theme]]\n[[include :scp-wiki:component:pride-highlighter |inc-ally= --]]]\n[[include :scp-wiki:component:bhl-dark-sidebar]]\n[[include :scp-wiki:component:rso]]\n\n[[module CSS]]\n#page-title {\n  display: none;\n}\n[[/module]]\n\n[[>]]\n[[module Rate]]\n[[/>]]\n\n[[module CSS]]\n \n\n \n@import url('https://fonts.googleapis.com/css?family=Lato:400,900|PT+Mono|Poppins:600,800');\n \n\n \n:root {\n\n    --header-title: \"Jakob17's Art Cavern\";\n    --header-subtitle: \"artpage of curiosity\";\n\n[[/module]]\n\n\n\n\n[[=]]\n+ Hello there!\n[[/=]]\n\nThis page is filled with art that can be described as Good, Cursed, or Cool but you'll be the Judge so shall stumble in.\n\n[[tabview]]\n[[tab SCPs]]\n\nPictures of the Varies Anomalies and or Events surrounding said anomalies.\n\n[[=]]\n\n+++ - [[[SCP-662]]]/[[[SCP-113]]] - Mrs.Deeds\n[[collapsible show=\"+ Show image\" hide=\"- Hide image\"]]\n[[image 662]]\nYes I know the stone is not here but please give me a better explanation, I'll wait\n[[/collapsible]]\n\n+++ - [[[SCP-4795]]] - Feathered F(r)iends-\n[[collapsible show=\"+ Show image\" hide=\"- Hide image\"]]\n[[image 4795]]\nThis was a gift for [[*user Lt Flops]] for the Art Exchange\n[[/collapsible]]\n\n+++ - [[[SCP-5366]]] - Until death do us part and every day after -\n[[collapsible show=\"+ Show image\" hide=\"- Hide image\"]]\n[[image 5366]]\nI'm not proud of this one I don't say this because it's bad because it makes me feel sick in a good way\n[[/collapsible]]\n\n[[/=]]\n\n\n\n\n\n[[/tab]]\n[[tab Padoru]]\n\nChristmas the Time of Giving so I'm giving away some Padorus of different Authors or researchers\n\n[[=]]\n\n+++ - [http://scp-wiki.wikidot.com/system:page-tags/tag/doctor-cimmerian#pages Dr. Cimmerian] -\n[[collapsible show=\"+ Show image\" hide=\"- Hide image\"]]\n[[image cimmerian]]\n[[/collapsible]]\n\n+++ - [http://scp-wiki.wikidot.com/a-green-squid-kid-s-arts-n-crafts/comments/show Dr. Green] -\n[[collapsible show=\"+ Show image\" hide=\"- Hide image\"]]\n[[image green]]\n[[/collapsible]]\n\n+++ - [http://scp-wiki.wikidot.com/rounderhouse-s-author-page Rounderhouse] -\n[[collapsible show=\"+ Show image\" hide=\"- Hide image\"]]\n[[image rounderhouse]]\n[[/collapsible]]\n\n+++ - [http://scp-wiki.wikidot.com/scp-5936 Dr.Asheworth] -\n[[collapsible show=\"+ Show image\" hide=\"- Hide image\"]]\n[[image asheworth]]\n[[/collapsible]]\n\n[[/=]]\n\n[[/tab]]\n[[tab Characters]]\n\nAn Arrey of SCP Character in different art styles or doing some weird stuff.\n\n[[=]]\n+++ - Dr.Cimmerian at a Shooting range -\n[[collapsible show=\"+ Show image\" hide=\"- Hide image\"]]\n[[image shooting]]\n[[/collapsible]]\n\n+++ - Dr. Clef and Dr. Iceberg as Chibis -\n[[collapsible show=\"+ Show image\" hide=\"- Hide image\"]]\n[[image chibi]]\n[[/collapsible]]\n\n+++ - Dr. Lina Augustin cuddeling SCP-2295-\n[[collapsible show=\"+ Show image\" hide=\"- Hide image\"]]\n[[image Lina]]\nA Level 3 Researcher who has a twisted vision of the Foundation due to excessive exposure of Euphoric Anomalies and things that can be regarded \"Cute\"\n[[/collapsible]]\n\n[[/=]]\n\n[[/tab]]\n[[/tabview]]",
+  "tags": [
+    "_cc",
+    "artist",
+    "cel-shaded",
+    "personnel-art",
+    "scp-art"
+  ],
+  "author": "Jakob17",
+  "created_at": "2020-12-30T01:21:58+00:00",
+  "updated_at": "2024-03-28T08:09:32+00:00",
+  "rating": 21,
+  "_site": "scp-wiki",
+  "_fullname": "jakob17-s-art-cavern"
+}

@@ -1,0 +1,25 @@
+{
+  "title": "SCP-4011",
+  "content": "[!--\n随意编辑这个页面的内容可能造成文档迭代系统的彻底崩溃。请绝对不要编辑这个页面。\n如果您在阅读过程中发现需要勘误或修改之处，请用站内信与译者（LeafJensen）联系。\n每个迭代的页面地址如下\n  低等级权限：http://scp-wiki-cn.wikidot.com/fragment:4000contestincidentalcabbage-1\n  O5 权限：http://scp-wiki-cn.wikidot.com/fragment:4000contestincidentalcabbage-2\n建立 ListPages 文档迭代系统时，应先建立这个主页面。随后依次建立子页面，并将每个子页面的父页面设为此主页面。\n--]\n\n[[module css]]\ndiv.vcomms{\n    background-color: #b0f0a5;\n    padding-left: 2px;\n    font-family: monospace;\n    font-size: medium\n}\n\ndiv.swarning{\n    border: 1px solid gray;\n    margin: 1em 0 1em 0;\n    padding: 0 1em 0 1em;\n    color: black;\n    background-color: #e0e0e0;\n}\n[[/module]]\n\n[[module ListPages category=\"fragment\" parent=\".\" limit=\"1\" order=\"created_at\" offset=\"@URL|0\"]]\n%%content%%\n[[/module]]\n\n[[footnoteblock]]\n\n[[div class=\"footer-wikiwalk-nav\"]]\n[[=]]\n<< [[[SCP-4010]]] | SCP-4011 | [[[SCP-4012]]] >>\n[[/=]]\n[[/div]]",
+  "tags": [
+    "4000",
+    "keter",
+    "scp",
+    "人工智能",
+    "基金会制",
+    "安德森机器人",
+    "建筑",
+    "时间影响",
+    "星际",
+    "智能",
+    "机器人",
+    "狄瓦",
+    "知识"
+  ],
+  "author": "LeafJensen",
+  "created_at": "2018-12-26T07:05:39+00:00",
+  "updated_at": "2024-05-14T16:16:40+00:00",
+  "rating": 14,
+  "_site": "scp-wiki-cn",
+  "_fullname": "scp-4011"
+}

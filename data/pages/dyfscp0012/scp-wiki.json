@@ -1,0 +1,33 @@
+{
+  "title": "Dafydd Utica Foolfellow's Proposal",
+  "content": "[[module css]]\n.footnotes-footer {\ndisplay:none;\n}\n[[/module]]\n[[>]]\n[[module rate]]\n[[/>]]\n\n[[module ListPages category=\"fragment\" parent=\".\" order=\"created_at\" limit=\"1\" offset=\"@URL|0\"]]\n%%content%%\n[[/module]]\n\n[!-- http://scp-wiki.net/fragment:dyfscp0012-1 --]\n[!-- http://scp-wiki.net/fragment:dyfscp0012-2 --]\n[!-- http://scp-wiki.net/fragment:dyfscp0012-3 --]\n[!-- http://scp-wiki.net/fragment:dyfscp0012-4 --]\n[!-- http://scp-wiki.net/fragment:dyfscp0012-5 --]\n[!-- http://scp-wiki.net/fragment:dyfscp0012-6 --]\n[!-- http://scp-wiki.net/fragment:dyfscp0012-7 --]\n[!-- http://scp-wiki.net/fragment:dyfscp0012-8 --]\n[!-- http://scp-wiki.net/fragment:dyfscp0012-9 --]\n\n[[include :scp-wiki:component:license-box]]\n=====\n> **Filename:** pallit.png\n> **Author:** [[*user daveyoufool]]\n> **License:** CC BY-SA 3.0\n> **Source Link:** SCP Foundation Wiki\n\n> **Filename:** surfacearea.png\n> **Author:** Dummyfish[[footnote]] (Oh, don't be so hard on yourself.) [[/footnote]] (edits by [[*user daveyoufool]])\n> **License:** CC0 1.0\n> **Source Link:** [https://commons.wikimedia.org/wiki/File:World_Map_Land.png https://commons.wikimedia.org/wiki/File:World_Map_Land.png]\n\n> **Filename:** weshallendure.png\n> **Author:** [[*user daveyoufool]]\n> **License:** CC BY-SA 3.0\n> **Source Link:** SCP Foundation Wiki\n\n> **Filename:** green.png\n> **Author:** U.S. Forest Service - Pacific Northwest Region[[footnote]]  (Edits made by [[*user daveyoufool]] - I know it's not required with the license/lack thereof, but I don't wanna give the impression that anything looks this cool IRL and get your hopes up. Especially not in the PNW. ,,Fuckin' hipsters.,,) [[/footnote]]\n> **License:** Public Domain\n> **Source Link:** [https://commons.wikimedia.org/wiki/File:Twilight_Sky_with_Stars_and_Moon_on_Boulder_Ridge_at_Mt_Baker,_Mt_Baker_Snoqualmie_National_Forest_(31298200293).jpg Fun fact: this URL is very long]\n\n> **Filename:** pallit2.png\n> **Author:** [[*user daveyoufool]]\n> **License:** CC BY-SA 3.0\n> **Source Link:** SCP Foundation Wiki\n\n> **Filename:** p_a_l_l_i_t.png\n> **Author:** [[*user daveyoufool]] and/or [[*user daveyoufool]]'s sleep paralysis demons[[footnote]] (Thanks, spooky fellas!) [[/footnote]]\n> **License:** CC BY-SA 3.0\n> **Source Link:** SCP Foundation Wiki\n\n> **Filename:** violet.png\n> **Author:** [[*user daveyoufool]]\n> **License:** CC BY-SA 3.0\n> **Source Link:** SCP Foundation Wiki\n\n> **Filename:** grouphug.jpg\n> **Author:** Brian from Bountiful[[footnote]] (You mean this state has an abundance of literally anything?) [[/footnote]], Utah, USA\n> **License:** CC 2.0 Generic\n> **Source Link:** [https://commons.wikimedia.org/wiki/File:Makelessnoise_-_Close-Up_of_a_Star_in_H-Alpha_(by).jpg https://commons.wikimedia.org/wiki/File:Makelessnoise_-_Close-Up_of_a_Star_in_H-Alpha_(by).jpg]\n=====\n[[include :scp-wiki:component:license-box-end]]",
+  "tags": [
+    "001-proposal",
+    "_cc",
+    "_licensebox",
+    "_listpages",
+    "alive",
+    "artificial-intelligence",
+    "computer",
+    "electronic",
+    "entropic",
+    "esoteric-class",
+    "extradimensional",
+    "humanoid",
+    "k-class-scenario",
+    "meta",
+    "reality-bending",
+    "religious",
+    "sapient",
+    "scp",
+    "species",
+    "teleportation",
+    "totleighsoft"
+  ],
+  "author": "daveyoufool",
+  "created_at": "2023-06-16T07:26:53+00:00",
+  "updated_at": "2024-05-14T14:04:20+00:00",
+  "rating": 391,
+  "_site": "scp-wiki",
+  "_fullname": "dyfscp0012"
+}

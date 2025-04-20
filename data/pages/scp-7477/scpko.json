@@ -1,0 +1,17 @@
+{
+  "title": "SCP-7477",
+  "content": "[[include :scp-wiki:theme:black-highlighter-theme]]\n\n[[include info:start]]\n**SCP-7477:** 펑!\n**저자:** [[*user stormbreath]]\n**원작:** https://scp-wiki.wikidot.com/scp-7477\n**역자:** [[*user Aiken Drum]]\n[[include info:end]]\n[[div style=\"text-align: right; margin-top: -15px;\"]]\nby [[[stormbreath]]]\n[[/div]]\n\n[[module CSS]]\na.collapsible-block-link {\n    font-weight: bold;\n    display: block;\n    text-align: center;\n}\n[[/module]]\n\n**일련번호:** SCP-7477\n\n**등급:** 케테르\n\n**특수 격리 절차:** 확인된 모든 SCP-7477 매개체는 파괴되었다. SCP-7477의 확인된 마지막 보균자를 처분할 필요성에 대한 논의가 현재 진행 중이다.\n\n**설명:** SCP-7477는 바이러스성 인식재해로 복잡한 문제나 과제(영향받은 개인에 의해 정의된다)의 해결책을 결정하려고 하는 유기체에 잠복한다. SCP-7477는 이러한 문제를 다루고 있지 않은 유기체를 전염시킬 수 있으며, 이런 경우에는 유기체가 해당되는 문제 해결을 시작한 순간 이 문제에 결합한다. SCP-7477은 숙주를 정하는 부분에서 매우 높은 다양성을 보이며, 인간과 비인간 유기체 모두에 영향을 끼칠 수 있다.\n\n수집된 정보와 SCP-7477의 보균자 중 유일한 생존자의 증언에 따르면, 감염된 보균자가 연관된 문제에 대한 실행 가능한 해결책에 도달할 경우, SCP-7477가 폭발한다. 이 때, 영향 받은 유기체의 머리가 마찬가지로 폭발한다. 폭발력은 영향 받은 유기체의 머리 크기에 지수적으로 비례한다. 인간의 머리가 폭발할 때 힘은 수류탄과 비슷하지만, 흰긴수염고래의 머리가 폭발할 때 힘은 TNT 10kT에 맞먹는다.\n\nSCP-7477 기폭 과정을 목격하거나, 보균자의 유해(특히 머리)와 상호작용하거나, 그 외 SCP-7477의 폭발 및 그 영향과 직접 상호작용한 개인은 SCP-7477에 감염된다. SCP-7477에 대한 정보가 크게 왜곡된다면, 인식재해성은 희미해진다. 예시로서 피해자 머리의 재는 영향을 보이지 않는다.\n\n[[collapsible show=\"5등급 인가 필요\" hide=\"확인된 활동 중인 SCP-7477 보균자\"]]\nSCP-7477의 마지막 보균자는 영지주의적 모나드이다. 대상은 SCP-7477가 처음으로 나타남과 동시에 자신의 전지성으로 인해 감염되었으며, 이를 데미우르고스의 사악한 음모이며 발출,,emanation,,의 타락으로 식별했다. 대상은 재단에 자신의 감염에 관련된 세부사항을 전했으며 그 결과 SCP-7477-∞로 지정되었다.\n\nSCP-7477-∞는 이론적으론 전능성을 통해 SCP-7477를 무효화할 수 있으나, 대상이 영향 받은 과제가 바로 SCP-7477를 무효화하는 최선의 방법이다. 그에 따라, SCP-7477-∞는 SCP-7477를 무효화시키는 방법을 결정할 수 없다.\n\nSCP-7477-∞는 자신이 시간을 초월했으며 전능하다는 사실을 인지했다. SCP-7477-∞는 자신이 비물질적이며 물질우주와 무관하다는 사실 역시 인지했다. 그러한 요인이 있음에도 SCP-7477-∞는 변칙성을 무효화시키고 싶지 않다고 주장하고 있다.\n\nSCP-7477-∞는 불편을 끼친 점에 대해 사과했다.\n[[/collapsible]]\n\n[[div class=\"footer-wikiwalk-nav\"]]\n[[=]]\n<< [[[SCP-7476]]] | SCP-7477 | [[[SCP-7478]]] >>\n[[/=]]\n[[/div]]\n\n[[include :scp-wiki:component:license-box]]\n[!-- N/A (No Images)  --]\n[[include :scp-wiki:component:license-box-end]]",
+  "tags": [
+    "en",
+    "scp",
+    "인식재해",
+    "종교",
+    "케테르"
+  ],
+  "author": "Aiken Drum",
+  "created_at": "2022-11-28T12:21:25+00:00",
+  "updated_at": "2025-02-05T19:34:01+00:00",
+  "rating": 8,
+  "_site": "scpko",
+  "_fullname": "scp-7477"
+}

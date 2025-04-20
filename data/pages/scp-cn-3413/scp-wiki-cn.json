@@ -1,0 +1,17 @@
+{
+  "title": "SCP-CN-3413",
+  "content": "[[>]]\n[[module Rate]]\n[[/>]]\n\n[[module ListPages parent=\".\" category=\"fragment\" limit=\"1\" order=\"created_at\" offset=\"@URL|0\"]]\n%%content%%\n[[/module]]\n\n[[div class=\"footer-wikiwalk-nav\"]]\n[[=]]\n<< [[[SCP-CN-3412]]] | SCP-CN-3413 | [[[SCP-CN-3414]]] >>\n[[/=]]\n[[/div]]",
+  "tags": [
+    "safe",
+    "scp",
+    "原创",
+    "电脑",
+    "自主"
+  ],
+  "author": "Ice_fish",
+  "created_at": "2024-08-19T15:50:22+00:00",
+  "updated_at": "2025-02-01T14:22:59+00:00",
+  "rating": 15,
+  "_site": "scp-wiki-cn",
+  "_fullname": "scp-cn-3413"
+}

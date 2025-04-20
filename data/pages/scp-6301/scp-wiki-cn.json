@@ -1,0 +1,24 @@
+{
+  "title": "SCP-6301",
+  "content": "[[include :scp-wiki:theme:black-highlighter-theme]]\n[[include :scp-wiki:component:centered-header-bhl]]\n[[include :scp-wiki:component:collapsible-sidebar]]\n[[module CSS]]\ndiv#container-wrap {\n    background-image: url(https://scp-wiki.wdfiles.com/local--files/grigori-karpin-s-author-page/backgroundVK-1);\n}\n:root:lang(cn) {\n    --logo-image: url(\"https://scp-wiki.wikidot.com/local--files/grigori-karpin-s-author-page/VKlogo-pride-Small\");\n    --header-title: \"  维坎德·尼德\";\n    --header-subtitle: \"   技术传媒\";\n}\n\n/* Adjust Mobile Image Size */\n@media (max-width: 479px) {\n#header {\n    background-size: 100px 100px;\n    background-position: 1em;\n}\n}\n\n[[/module]]\n\n[[include :scp-wiki-cn:credit:start-standalone]]\n[[=]]\n**[[[http://scp-wiki-cn.wikidot.com/vikander-kneed-technical-media-hub | 维坎德·尼德技术传媒 中心页]]]**\n@@ @@\n**[https://scp-wiki.wikidot.com/grigori-karpin-s-author-page 更多Grigori Karpin作品]**\n@@ @@\n\n[[=image https://scp-wiki.wikidot.com/local--files/grigori-karpin-s-author-page/6301%20logo width=\"100px\"]]\n[[/=]]\n[[include :scp-wiki-cn:credit:end-standalone]]\n\n[[include :scp-wiki-cn:component:cd-ver2\n|lv=3\n|item=SCP-6301\n|class=Safe\n|site-responsible=Site-43\n|director=Allan J. McInnis\n|research-head=Dr. William Wettle\n|assigned-task-force=MTF Kappa-43\n]]\n\n[[include :scp-wiki:component:image-features-source |hover-enlarge=--]\n|enlarge-amount=6\n|speed=250\n|float=true\n|align=right\n|width=400px\n|url=https://scp-wiki.wikidot.com/local--files/grigori-karpin-s-author-page/VKTMChildrenLP\n|add-caption=true\n|caption=SCP-6301。\n]]\n\n++++ __特殊收容措施__\n使用梅塔特隆.aic扫描所有与传媒销售相关的网站服务器（包括但不限于亚马逊，eBay等），以查找所有与SCP-6301描述相符的商品页面。此aic同时负责查找每个网站自首次运行以来的所有与此异常相符的商品销售记录。\n\n对所有购买或销售过SCP-6301的个人进行询问，以获取关于此异常的可能来源的信息，并在之后执行记忆删除。\n\n一张SCP-6301副本被保存于Site-43的1号高价值数据储存区内，回收到的其余副本将被摧毁。\n\n梅塔特隆.aic同时负责监控广播及流媒体服务上的儿童音乐频道，以发现并切断SCP-6301内容的播送。\n@@ @@\n\n++++ __描述__:\nSCP-6301是一张通称“12英寸”型号的黑胶唱片，其上标题为《Funky Finn的儿童欢乐时间（Funky Finn’s Children Happy Hour）》。尽管此类唱片通常仅可存储约二十二分钟长的音频，SCP-6301的总时长超过了九十分钟。其中首支歌曲是一首长约四分钟的英文歌，但其余时间内播放的内容均属于一种未知语言。\n\n此异常带有一针对特定人群的催眠与强迫性质——在其播放时，年龄低于十二岁的听众将全神贯注地倾听其内容，且不会对包括疼痛在内的外界刺激作出反应。所有正在听SCP-6301中内容[[footnote]]无论是直接听本体还是听播送出的内容。[[/footnote]]的儿童都会在SCP-6301的播放被打断时感到紧张，且意识不能在SCP-6301播放完毕之前恢复清醒。\n\n听完SCP-6301全部内容的儿童将摆脱其强迫效应的影响，但不能回忆起其中内容。对象将在此后的几天内处于无精打采，缺乏动力的状态中，但可在休息数日后恢复正常，且无任何遗留影响。\n\n++++ __附录：SCP-6301的内容__\n//以下为SCP-6301中唯一可辨认部分的抄本。//\n[[div style=\"border: solid 5px #000000; padding: 1px 15px; background:#EFF5EF    ; margin: auto; box-shadow: 0 1px 3px rgba(0,0,0,.2);\"]]\n\n**Funky Finn**：//嘿孩子们！//\n\n**孩子们**：//[齐声]// 嘿，Funky！\n\n**Funky**：准备好唱一首关于人生中重要事情的歌了吗？\n\n**孩子们**： //[齐声]// 是的！\n\n**Funky**：好！待在家里的小朋友，快来跟我和我的朋友们一起唱！\n\n\n[[=]]\n//复杂琐事要当心，//\n//沉重哲理别细听。//\n//唱出我们每一天！//\n//只唱重要的事情，//\n//唯有工作最要紧。//\n//这是你的每一天！//\n\n//一三进厂把活干，//\n//二四攒钱付账单。//\n//周五客户来召唤，//\n//忙去厕所修水管。//\n//周六尚有贷款还，//\n//清闲只在礼拜日，//\n//然而与你却无关。//\n\n//复杂琐事要当心，//\n//简洁才是好事情。//\n//别为困境伤脑筋，//\n//抓住重点才聪明，//\n//自高自大不可取，//\n//工作干好万事兴。//\n\n//疲劳伤心涌上来，//\n//加倍努力自看开。//\n//请你振作听我讲，//\n//人生意义唯独在：//\n//工作一生当木柴！//\n\n//复杂琐事要当心，//\n//天下错事数不清。//\n//勿羡他人富贵命，//\n//踏实自强最可行，//\n//太阳升起干活去，//\n//莫把手头工作停！//\n\n//一三进厂把活干，//\n//二四攒钱付账单。//\n//周五客户来召唤，//\n//忙去厕所修水管。//\n//周六尚有贷款还，//\n//清闲只在礼拜日，//\n//然而与你却无关。//\n\n//困难挑战不需寻，//\n//简洁以外皆浮云。//\n//休息闲暇都抛弃，//\n//发誓干到第一名。//\n//生来注定无财运，//\n//拼命工作是真经。//\n//好事处处找不到，//\n//正如我们歌中吟。//\n//世间每日忧郁存，//\n//工作即是你人生。//\n//其余琐事不过问，//\n//工作即是你人生。//\n//你心已明道理真，//\n//工作即是你人生。//\n//一生到头知根本，//\n//工作即是你人生！//\n[[/=]]\n[[/div]]\n\n@@ @@\n@@ @@\n[[footnoteblock]]\n[[div class=\"footer-wikiwalk-nav\"]]\n[[=]]\n<< [[[SCP-6300]]] | SCP-6301 | [[[SCP-6302]]] >>\n[[/=]]\n[[/div]]\n\n[[include :scp-wiki-cn:component:license-box\n|author=GremlinGroup，Grigori Karpin，LORDXVNV\n|translator=Grignard_reagent\n]]\n=====\n> **文件名：**La balsa\n> **图像作者：**Banfield\n> **授权协议：**公共领域\n> **来源链接：**[[[https://commons.wikimedia.org/wiki/File:La_Balsa_-_Los_Gatos_-_Vinilo_simple.JPG | LINK]]]\n> **备注：**由[[user Grigori Karpin]]和[[user GremlinGroup]]编辑\n\n> **文件名：**6301 Logo\n> **图像作者：**[[*user HarryBlank]]\n> **授权协议：**CC BY-SA 3.0\n> **来源链接：**[[[https://scp-wiki.wikidot.com/local--files/grigori-karpin-s-author-page/6301%20logo | Link]]]\n=====\n[[include :scp-wiki-cn:component:license-box-end]]",
+  "tags": [
+    "safe",
+    "scp",
+    "值守43",
+    "合著",
+    "听觉影响",
+    "媒体",
+    "强迫性",
+    "移情作用",
+    "维坎德·尼德",
+    "认知危害",
+    "记忆影响",
+    "音乐性"
+  ],
+  "author": "Grignard_reagent",
+  "created_at": "2022-11-30T14:37:22+00:00",
+  "updated_at": "2024-03-05T11:50:18+00:00",
+  "rating": 5,
+  "_site": "scp-wiki-cn",
+  "_fullname": "scp-6301"
+}

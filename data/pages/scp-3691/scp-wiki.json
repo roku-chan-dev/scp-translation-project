@@ -1,0 +1,26 @@
+{
+  "title": "SCP-3691",
+  "content": "[[include :scp-wiki:info:start]]\n[[=]]\n++++ SCP-3691\n+++ The Thinking Man's SCP\nWritten by [[*user fishish]] and [[*user jack waltz]]\n------\n+++++ [[[fishishpage |Check out Fishish's author page!]]]\n+++++ [[[jack-waltz |Check out Jack's author page!]]]\n[[/=]]\n[[include :scp-wiki:info:end]]\n\n**Item #:** SCP-3691\n\n**Object Class:** --Anomalous-- Uncontained\n\n[[include :scp-wiki:component:image-block-base name=statue|caption=SCP-3691 prior to Incident-3691-A.|width=250px|align=right]]\n\n**Special Containment Procedures:** All known footage of Incident-3691-A has been recovered by the Foundation. Witnesses to the event have been amnesticized per standard Foundation protocol. A non-anomalous replica of SCP-3691 has been placed at the site of discovery.\n\n**Description:** SCP-3691 is a bronze casting of Auguste Rodin's //Le Penseur//,[[footnote]] //The Thinker//. [[/footnote]] which was situated in Albany, New York until June 13th, 2022. The statue's creator is unknown, no records exist of the statue being commissioned or built since the city was founded, and no plaques of any kind are present on its base.\n\nSCP-3691 had been, since the time of its discovery, unable to be moved or damaged in any capacity. Although the statue was found to be physically immovable, an early hypothesis as to the nature of the anomaly was that the effect was memetic; attempts to move the statue induced frustration in all individuals assigned to the task. This hypothesis was abandoned when no evidence of any secondary memetic properties was found.\n\nSCP-3691 displayed a significant deviation from its established anomalous effects during Incident-3691-A.\n\n**Incident-3691-A:** On 13/06/2022, SCP-3691 became animate, slowly standing up to face a nearby camera installed by Foundation personnel.[[footnote]] The event was caught hours later, as SCP-3691's monitoring had been deemed a low-priority task due to its lack of activity. [[/footnote]] The following interaction was recorded on camera:\n\n[[div class=\"blockquote\"]]\n\n= **[BEGIN LOG]**\n\n**[13.09]** //SCP-3691 becomes animate. The statue stands up and looks at the camera.//\n\n**[13.10]** //SCP-3691 sighs.//\n\n**[13.12] SCP-3691:** Sorry, had to think about some stuff.\n\n**[13.15]** //SCP-3691 walks away from the frame.//\n\n= **[END LOG]**\n\n[[/div]]\n\nFollowing Incident-3691-A, SCP-3691 was reclassified as Uncontained. Efforts to locate the entity are underway.\n\n[[collapsible show=\" \" hide=\" \"]]\n[[include component:listpages-header]]\n[[module ListPages category=\"_default\" order=\"rating\" prependLine=\"[[include component:listpages-table]]\" rating=\"<20\" tags=\"scp\" appendLine=\"[[/table]]\" separate=\"false\" rss=\"Lowest Rated SCPs\"]]\n[[row]]\n[[cell style=\"vertical-align: top;\"]]\n%%title_linked%%\n[[/cell]]\n[[cell style=\"vertical-align: top; text-align: center;\"]]\n%%created_at%%\n[[/cell]]\n[[cell style=\"vertical-align: top; text-align: center;\"]]\n%%rating%%\n[[/cell]]\n[[/row]]\n[[/module]]\n[[/collapsible]]\n\n[[footnoteblock]]\n------\n[[=]]\n[[module rate]]\n[[/=]]\n[[div class=\"footer-wikiwalk-nav\"]]\n[[=]]\n<< [[[SCP-3690]]] | SCP-3691 | [[[SCP-3692]]] >>\n[[/=]]\n[[/div]]\n[[include :scp-wiki:component:license-box\n| author=Fishish and Jack Waltz]]\n=====\n> **Filename:** statue.png\n> **Author:** Jean-David & Anne-Laure\n> **License:** CC BY-SA 2.0\n> **Source Link:** [https://www.flickr.com/photos/25229960@N03/2744362014 Flickr]\n=====\n[[include :scp-wiki:component:license-box-end]]",
+  "tags": [
+    "_cc",
+    "_licensebox",
+    "anomalous-event",
+    "artistic",
+    "autonomous",
+    "co-authored",
+    "esoteric-class",
+    "humanoid",
+    "immobile",
+    "indestructible",
+    "sapient",
+    "scp",
+    "sculpture",
+    "uncontained"
+  ],
+  "author": "Fishish",
+  "created_at": "2022-06-14T01:34:02+00:00",
+  "updated_at": "2025-04-16T22:28:18+00:00",
+  "rating": 135,
+  "_site": "scp-wiki",
+  "_fullname": "scp-3691"
+}

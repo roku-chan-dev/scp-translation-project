@@ -1,0 +1,14 @@
+{
+  "title": "info:start",
+  "content": "[[module CSS]]\n@import url(http://scp-jp.wdfiles.com/local--code/info%3Astyle/1);\n[[/module]]\n\n[[div class=\"creditRate\"]]\n[[div class=\"rateBox\" [[iftags 殿堂入り]]style=\"display:none;\"[[/iftags]]]]\n[[div class=\"rate-box-with-credit-button\"]]\n[[module Rate]]\n[[div class=\"creditButton\"]]\n[[a href=\"#u-credit-view\" class=\"fa fa-info\"]]@@@@[[/a]]\n[[/div]]\n[[/div]]\n[[/div]]\n[[div class=\"rateBox\" [[iftags -殿堂入り]]style=\"display:none;\"[[/iftags]]]]\n[[div class=\"heritage-rating-module\"]]\n[[div class=\"heritage-emblem\"]]\n[[image http://scp-jp.wdfiles.com/local--files/component%3Aheritage-rating/scp-heritage-v3.png link=\"heritage-collection-arc\" style=\"max-width: none;\"]]\n[[/div]]\n[[module Rate]]\n[[div class=\"creditButton\"]]\n[[a href=\"#u-credit-view\" class=\"fa fa-info\"]]@@@@[[/a]]\n[[/div]]\n[[/div]]\n[[/div]]\n[[/div]]\n\n[[div style=\"clear:both;\"]]\n[[/div]]\n\n[[div id=\"credit-view\"]]\n[[div class=\"fader\"]]\n[[iframe http://scp-jp-sandbox3.wdfiles.com/local--code/credit%3Abackmodule/1 ]]\n[[/div]]\n\n[[div class=\"modalcontainer\"]]\n[[div class=\"modalbox\"]]\n[[=]]\n++* Info\n[[/=]]\n------\n[[div class=\"credit first\"]]\n[[iframe http://scp-jp.wdfiles.com/local--code/info%3Astyle/3 class=\"close-credits\" style=\"height:2em;margin: 0;padding: 0;border: 0;background: transparent;\"]]",
+  "tags": [
+    "en",
+    "コンポーネント"
+  ],
+  "author": "YS_GPCR",
+  "created_at": "2019-11-17T04:23:50+00:00",
+  "updated_at": "2021-12-24T15:41:39+00:00",
+  "rating": 10,
+  "_site": "scp-jp",
+  "_fullname": "info:start"
+}

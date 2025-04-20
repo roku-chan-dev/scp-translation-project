@@ -1,0 +1,22 @@
+{
+  "title": "SCP-5652",
+  "content": "[[include :scp-wiki:theme:black-highlighter-theme]]\n[[include :scp-wiki:component:toggle-sidebar-bhl]]\n[[include :scp-wiki:theme:present-malice]]\n[[>]]\n[[module Rate]]\n[[/>]]\n[[include :scp-wiki:component:author-label-source start=--\n|name=Cremo\n|no-right-margin=*]]\nYou can check out more of my works here:\n\n[[[cremo]]]\n[[include :scp-wiki:component:author-label-source end=--]]\n\n[[include :scp-wiki:component:anomaly-class-bar-source\n\n|item-number= 5652\n\n|clearance= 2\n\n|container-class= euclid\n\n|secondary-class= none\n\n|disruption-class= dark\n\n|risk-class= notice\n\n]]\n\n**Special Containment Procedures:** SCP-5652 is to be contained in a petri dish filled with water at Site-228's aquatic wing. For feeding purposes, an //archaeon// (provided by the biological research facility) is to be placed into SCP-5652's petri dish daily.\n\n**Description:** SCP-5652 is a microscopic entity resembling an adult female hammerhead shark[[footnote]]//Sphyrna mokarran// [[/footnote]] with an approximate 4 μm body length. Its intelligence appears to be higher than an average non-anomalous member of its species. SCP-5652's primary diet is composed of various microorganisms but it notably prefers //bacteria// and //archaea//.  \n\nSCP-5652 was discovered in Budapest within the bloodstream of Joseph Hemér, a local architect. Hemér recently arrived in Budapest from a Caribbean business trip[[footnote]]The presumed location of the contact with SCP-5652. Research ongoing. [[/footnote]] when he reportedly started to feel mild pain/discomfort in his cardiovascular system. Later during a medical examination, SCP-5652 was discovered and retrieved by the embedded Foundation agents, but the pain was still present.\n\nTwo days after SCP-5652's discovery, the source of the pain was found. 10 heavily damaged humanoid automatons of similar sizes to SCP-5652 were discovered embedded in the walls of Hemér's blood vessels. The automatons are noted to have disproportionally large hands.\n\nFurther research revealed that the automatons were remote-controlled and a small symbol depicting a modified version of the [[[https://scp-wiki.wikidot.com/spc-hub|Foundation's sigil]]] was found printed on the chest of each automaton.\n\n[[footnoteblock]]\n\n[[div class=\"footer-wikiwalk-nav\"]]\n[[=]]\n<< [[[SCP-5651]]] | SCP-5652 | [[[SCP-5653]]] >>\n[[/=]]\n[[/div]]\n[[include :scp-wiki:component:license-box]]\n[[include :scp-wiki:component:license-box-end]]",
+  "tags": [
+    "_licensebox",
+    "alive",
+    "animal",
+    "aquatic",
+    "euclid",
+    "fish",
+    "microscopic",
+    "scp",
+    "shark",
+    "shark-punching-center"
+  ],
+  "author": "Cremo",
+  "created_at": "2021-12-16T07:04:46+00:00",
+  "updated_at": "2023-06-28T11:22:08+00:00",
+  "rating": 43,
+  "_site": "scp-wiki",
+  "_fullname": "scp-5652"
+}

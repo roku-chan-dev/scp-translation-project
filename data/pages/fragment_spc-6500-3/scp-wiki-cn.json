@@ -1,0 +1,13 @@
+{
+  "title": "SPC-6500-3",
+  "content": "[[include :scp-wiki-cn:theme:black-highlighter-theme]]\n[[include :scp-wiki-cn:theme:extra-black-highlighter-theme]]\n[[include :scp-wiki-cn:theme:shark-punching-centre-bhl]]\n[[include :scp-wiki:component:toggle-sidebar-bhl]]\n[[include :scp-wiki:component:centered-header-bhl]]\n[[module CSS]]\n#content-wrap::before {\n  content: \"\";\n  position: absolute;\n  height: 100%;\n  width: 100%;\n  top: 0;\n  left: 0;\n  background-repeat: repeat-x;\n  pointer-events: none;\n  opacity: 0.0;\n}\n[[/module]]\n\n已经有人把我们当成笑柄，还管我们叫“鲨鱼殴打中心”了。要是我们还改名为“鲨鱼保护中心”的话，就要让人笑掉大牙了。\n\n再说，Tim和Faeowynn Wilson也还在因为我们在他们身上使用了[[[SPC-446]]]而生气。说什么“虐待动物罪”之类的。\n\n而且，好吧。就算是我们中最强大的人，也抵挡不了那么多目标的诱惑。\n\n[http://scp-wiki-cn.wikidot.com/spc-6500/offset/1 > 取消]",
+  "tags": [
+    "段落"
+  ],
+  "author": "Esperanza_Cai",
+  "created_at": "2021-11-16T10:27:51+00:00",
+  "updated_at": "2021-11-23T06:27:24+00:00",
+  "rating": 0,
+  "_site": "scp-wiki-cn",
+  "_fullname": "fragment:spc-6500-3"
+}

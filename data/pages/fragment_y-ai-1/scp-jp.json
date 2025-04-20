@@ -1,0 +1,14 @@
+{
+  "title": "Y AI-1",
+  "content": "[[include :scp-jp:component:adult-content-warning\n\n]]\n\n\n[[include :scp-jp:theme:black-highlighter-theme]]\n[[include :scp-jp:theme:jakstyle]]\n\n[[module css]]\n#container {\n  width: 100%;\n  margin: 0px;\n  background: linear-gradient(to bottom, #290909, #000000);\n}\n[[/module]]\n\n[[include :scp-jp:info:start]]\n本記事に関する情報\n⚠️ **コンテンツ警告:** とてもとても沢山の偏見を含みます。頻度順に:\n* 人種差別、ナチの犬笛的修辞法を含む。\n* 女性蔑視、性差別、女性のモノとしての扱い\n* 身障者差別\n* トランスフォビア\n\n加えて、本記事は以下のテーマを含みます:\n* 暴力\n* 自殺の奨励\n* 摂食障害\n----\n翻訳責任者: [[*user Tetsu1]]\n翻訳年: 2025\n著作権者: [[*user radian628]]\n原題: A Brief History of Y AI\n作成年: 2025\n初訳時参照リビジョン: 6\n元記事リンク: https://scp-wiki.wikidot.com/y-ai\n[[include :scp-jp:credit:cc4]]\n[[include :scp-jp:info:end]]\n\n[[include :scp-jp:component:info-cw]]\n\n[[=]]\n\n@@ @@\n\nこんにちは。\n\n私はリアム・ターナー。\n\n私は何十年にもわたって、この世界に起きたことの縮図とするため、過去100年の狂気を垣間見るものとして、このアーカイブされたWebサイトを収集してきた。\n\nこれらの作成者はわからない。彼らがほぼ確実に死んでいることを除けば。\n\nここで行われたことを再現しようとする人々への教訓としよう。\n\n[[div style=\"font-size: 200%\"]]\n[[[/y-ai/offset/1 | archive.htmlを開きますか？]]]\n[[/div]]\n\n[[/=]]",
+  "tags": [
+    "en",
+    "フラグメント"
+  ],
+  "author": "Tetsu1",
+  "created_at": "2025-03-14T11:24:05+00:00",
+  "updated_at": "2025-03-14T11:32:58+00:00",
+  "rating": 0,
+  "_site": "scp-jp",
+  "_fullname": "fragment:y-ai-1"
+}

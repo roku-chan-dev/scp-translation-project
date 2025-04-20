@@ -1,0 +1,14 @@
+{
+  "title": "SCP-2111/WARNING",
+  "content": "[[module Redirect destination=\"http://ko.scp-wiki.net/scp-2111\"]]\n[4.63%] cd H/secure/reports/scp/scp-2111\n\n**##Red|보안 경고! SCP-2111 레지스트리 및 관련 파일 일체는 재단 밈 보안체계의 구성요소입니다. 해당 파일들은 치명적 인식재해 및 밈을 포함하며, 관계자 외에는 열람할 수 없습니다. 데이터베이스 상의 SCP-2111 레지스트리에는 밈학부에서만 접근할 수 있습니다. 이외 다른 정보를 습득하려면 자신의 HMCL 감사관에게 문의하십시오.##**",
+  "tags": [
+    "en",
+    "조각문서"
+  ],
+  "author": null,
+  "created_at": "2017-11-14T06:31:38+00:00",
+  "updated_at": "2020-07-23T05:59:11+00:00",
+  "rating": 0,
+  "_site": "scpko",
+  "_fullname": "fragment:scp-2111-1"
+}

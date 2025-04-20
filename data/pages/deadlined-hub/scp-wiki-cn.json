@@ -1,0 +1,21 @@
+{
+  "title": "突破不断继续：死线之内 中心页",
+  "content": "[[include :scp-wiki-cn:theme:blankstyle fade=a]]\n\n[[module css]]\n.document {\n    background: white;\n    box-shadow: 0 0 10px rgba(0, 0, 0, 0.3);\n    margin: 26px auto 0;\n    max-width: 550px;\n    padding: 24px;\n    margin-bottom: 36px;\n    position: relative;\n    width: 80%;\n}\n.document:after {\n    content: \"\";\n    height: 98%;\n    position: absolute;\n    width: 100%;\n    z-index: -1;\n}\n.document:before {\n    background: #fafafa;\n    box-shadow: 0 0 8px rgba(0, 0, 0, 0.2);\n    left: -5px;\n    top: 4px;\n    transform: rotate(-2.5deg);\n}\n.document:after {\n    background: #f6f6f6;\n    box-shadow: 0 0 3px rgba(0, 0, 0, 0.2);\n    right: -3px;\n    top: 1px;\n    transform: rotate(1.4deg);\n}\n[[/module]]\n\n[[=image http://scp-sandbox-3.wdfiles.com/local--files/collab%3Adeadlined/DLcover.jpg]]\n\n----\n\n[[=]]\n//六//\n//五//\n//四//\n//三//\n//二//\n//赢//\n[[/=]]\n\n----\n\n每年的9月8日，七个不幸的人都要重复他们人生中最糟糕的六分钟。要是他们没做对，全人类就会面临一场更大规模的不幸。这件事看上去永远不会结束，而他们也不会永远年轻。\n\nSCP基金会研究与收容站点-43是一连串震撼世界、粉碎现实的大灾变的震中，这些灾变堆砌起来，愈演愈烈，终将击溃时间本身……或是火上浇油的暴力、无知和恐惧的轮回。秩序与混沌之力的交锋迫在眉睫，一切可能的未来命运悬而未决。\n\n不论它会如何终结，一定会非常值得纪念……假如还有人能活着纪念它的话。\n\n----\n\n[[div style=\"border:solid 10px #000000; padding:5px; margin: 10px;\"]]\n[[=]]\n++ ##DeepSkyBlue|完整故事线于2024年10月10日完成！##\n[[/=]]\n[[/div]]\n\n[[div style=\"border:solid 10px #000000; padding:5px; margin: 10px;\"]]\n[[=]]\n[[div class=\"document\"]]\n++ **[[[43-nothing-happens|]]]**\n----\n++ **[[[44-next-to-nothing|]]]**\n----\n++ **[[[45-nothing-to-worry-about|]]]**\n----\n++ **[[[46-nothing-changes|]]]**\n----\n++ **[[[47-past-caring|]]]**\n----\n++ **[[[48-unforgettable-too|]]]**\n----\n++ **[[[49-repent-at-leisure|]]]**\n----\n++ **[[[50-turning-and-turning|]]]**\n----\n++ **[[[51-stop-the-clock|]]]**\n----\n++ **[[[52-true-art-is-cognitohazardous|]]]**\n----\n++ **[[[53-those-who-cant|]]]**\n----\n++ **[[[54-not-ready-for-prime-time|]]]**\n----\n++ **[[[55-wonders-of-my-hand|]]]**\n----\n++ **[[[56-this-forgotten-babylon|]]]**\n----\n++ **[[[57-the-only-shadow|]]]**\n----\n++ **[[[58-time-flat|]]]**\n----\n++ **[[[59-the-foreseeable-future|]]]**\n----\n++ **[[[60-underlogue|]]]**\n[[/=]]\n[[/div]]\n[[/div]]\n\n----\n[[=]]\n[[collapsible show=\"莫忘记\" hide=\"莫忘记\"]]\n//外面的空气刺骨冰凉//\n//里面的敌人日渐猖狂//\n//记住有人曾这样跟你讲//\n//它已离去//\n\n...\n\n//尽你所能鼓起勇气//\n//集结你那新生的团体//\n//战斗吧//\n//然后鼓舞那绝望的少数//\n//因为黑暗即将再临此处//\n\n...\n\n//它已归来//\n//没什么比它们更让人胆寒//\n//它们将带来暴力的狂欢//\n//这一年注定会无比艰难//\n\n...\n\n//你已经失去了所有头绪//\n//却要和宇宙破坏者对局//\n//**哪里来的，送它回哪里去**//\n\n...\n\n//现在//\n//虽然闭环最终得以成形//\n//又有什么新阴谋在制定？//\n\n[[/collapsible]]\n----\n[[/=]]\n\n[[=]]\n<< **[[[Have Yourselves]]]** | **[/on-guard-43-hub 力量与毒性的话语]** | **[[[SCP-8056]]]** >>\n[[/=]]\n\n[[div]]\n[[=]]\n[[include :scp-wiki-cn:component:license-box\n|author=HarryBlank\n]]\n=====\n[[<]]\n\n> **文件名：** DLcover.jpg\n> **图像作者：** [[*user HarryBlank]]\n> **授权协议：** CC BY 3.0\n\n该图片包含以下内容：\n\n> **文件名：** fractal-mka.jpeg\n> **Name:** Feather fractal\n> **图像作者：** Kevin Dooley\n> **授权协议：** CC BY 2.0\n> **来源链接：** [[[https://www.flickr.com/photos/pagedooley/36578381671|Flickr]]]\n\n以及\n\n作者Osobist在http://scp-ru.wikidot.com上为\"Внутренние службы\"创作的图片，遵循CC BY-SA 3.0协议：http://scp-ru.wikidot.com/list-of-foundation-s-internal-departments.\n\n以及\n\n\"休伦湖水域地图\"，加拿大政府制作，属公共领域：https://www.canada.ca/en/canada-water-agency/freshwater-ecosystem-initiatives/great-lakes/great-lakes-protection/maps/lake-huron-drainage-basin.html\n\n----\n\n> **文件名：** 43Asterisk.png\n> **图像作者：** [[*user HarryBlank]]\n> **授权协议：** CC BY 3.0\n\n该图片包含以下内容：\n\n\"休伦湖水域地图\"，加拿大政府制作，属公共领域：https://www.canada.ca/en/canada-water-agency/freshwater-ecosystem-initiatives/great-lakes/great-lakes-protection/maps/lake-huron-drainage-basin.html\n\n以及\n\n作者Osobist在http://scp-ru.wikidot.com上为\"Внутренние службы\"创作的图片，遵循CC BY-SA 3.0协议：http://scp-ru.wikidot.com/list-of-foundation-s-internal-departments.\n\n[[/<]]\n=====\n[[include :scp-wiki-cn:component:license-box-end]]\n[[/=]]\n[[/div]]",
+  "tags": [
+    "_故事中心",
+    "中心",
+    "值守43",
+    "后启示录",
+    "奇幻",
+    "悲喜交加",
+    "死线之内",
+    "科幻小说",
+    "间谍小说"
+  ],
+  "author": "ahshow",
+  "created_at": "2024-09-11T04:43:58+00:00",
+  "updated_at": "2025-03-23T01:12:31+00:00",
+  "rating": 11,
+  "_site": "scp-wiki-cn",
+  "_fullname": "deadlined-hub"
+}

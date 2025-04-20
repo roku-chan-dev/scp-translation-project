@@ -1,0 +1,19 @@
+{
+  "title": "입양 공고: 타쿠미!",
+  "content": "[[module CSS]]\n#page-title{ display: none; }\n[[/module]]\n[[module ListPages  category=\"fragment\" parent=\".\" limit=\"1\" order=\"created_at\" offset=\"@URL|0\"]]\n[[div class=\"fragment-title\"]]\n%%title%%\n[[/div]]\n----\n%%content%%\n[[/module]]\n\n[!--\n\nhttp://scpko.wikidot.com/fragment:wilsonvssushi-1\nhttp://scpko.wikidot.com/fragment:wilsonvssushi-2\nhttp://scpko.wikidot.com/fragment:wilsonvssushi-3\n\ntechnical help by thd-glasses\n\n--]",
+  "tags": [
+    "_어둠의-초밥",
+    "_윌슨-야생",
+    "ko",
+    "스리포틀랜즈",
+    "어둠의-초밥",
+    "요주의단체-서식",
+    "윌슨-야생"
+  ],
+  "author": "Agent_Wanderer",
+  "created_at": "2022-02-19T12:09:10+00:00",
+  "updated_at": "2024-09-20T04:40:58+00:00",
+  "rating": 21,
+  "_site": "scpko",
+  "_fullname": "wilsonvssushi"
+}

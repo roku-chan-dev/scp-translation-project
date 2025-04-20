@@ -1,0 +1,20 @@
+{
+  "title": "SCP-4946",
+  "content": "[[include info:start]]\n//\"You're kidding, right?\"//\n\n//The odd woman sat stoic at her desk. \"Our statistics are peer reviewed and verified before publication. Now sir, unless you want to continue defending these ridiculous and baseless accusations, you are free to leave.\"//\n------\nCheck out more of my articles [[[uraniumempire|here!]]]\n[[include info:end]]\n\n[[include :scp-wiki:component:classified-decoration\n|lv=3\n|item=4946\n|oc=--Keter-- Thaumiel\n|lang=EN\n]]\n------\n**Special Containment Procedures:** --SCP-4946 is uncontained.-- Sunny Skies Analytics, a Foundation front company, is tasked with compiling and reporting daily deaths by dysentery. Regardless of the number of actual deaths, the Foundation is to report the number as Fibonacci(//n//), where //n// is equal to the number of days since 06/06/2025.\n\nShould an independent report submit a verifiable case of death by dysentery, that report is to be added to the sum, and SCP-4946 is to be reclassified as Neutralized.\n\n**Description:** SCP-4946 is a probabilistic anomaly observed in reported human deaths as a result of dysentery.\n\nBeginning on 06/06/2025, the sum number of reported dysentery deaths per day has been equal to position //n// in the Fibonacci Sequence, where //n// has been equal to the number of days since 06/06/2025. Research into such deaths reveals that, aside from standard statistical error, all recorded deaths before current containment procedures were enacted were the results of otherwise non-anomalous cases of dysentery.\n\nIt should be noted that SCP-4946 does not represent the actual number of human deaths by dysentery; SCP-4946 merely represents a sum total of published reports.\n\nCurrent containment procedures were developed and implemented on 02/07/2025. As a result, actual human death by dysentery appears to have been eliminated entirely. Foundation Intelligence ƟU-4946 has been assigned to mislead the public regarding the disappearance of fatal dysentery cases.\n\n[[footnoteblock]]\n\n[[div class=\"footer-wikiwalk-nav\"]]\n[[=]]\n<< [[[SCP-4945]]] | SCP-4946 | [[[SCP-4947]]] >>\n[[/=]]\n[[/div]]\n[[include :scp-wiki:component:license-box]]\n[[include :scp-wiki:component:license-box-end]]",
+  "tags": [
+    "_licensebox",
+    "biohazard",
+    "contagion",
+    "intangible",
+    "mathematical",
+    "probability",
+    "scp",
+    "thaumiel"
+  ],
+  "author": "UraniumEmpire",
+  "created_at": "2018-10-02T03:04:51+00:00",
+  "updated_at": "2022-10-22T15:34:39+00:00",
+  "rating": 173,
+  "_site": "scp-wiki",
+  "_fullname": "scp-4946"
+}

@@ -1,0 +1,29 @@
+{
+  "title": "SCP-987-KO",
+  "content": "[[module CSS]]\n.comments-box {\n  margin-top: 1.5em;\n}\n\n#page-title {\n  display: none !important;\n}\n[[/module]]\n\n[[module ListPages parent=\".\" category=\"fragment\" limit=\"1\" order=\"created_at\" offset=\"@URL|0\"]]\n[[div class=\"fragment-title\"]]\n%%title%%\n[[/div]]\n----\n\n%%content%%\n[[/module]]\n\n[[include :scpko:component:raisa-ribbon]]\n\n[!-- Fragment Pages --]\n[!--\n\nhttp://scpko.wikidot.com/fragment:scp-987-ko-start\nhttp://scpko.wikidot.com/fragment:ooi-987-pa\nhttp://scpko.wikidot.com/fragment:scp-987-pa\nhttp://scpko.wikidot.com/fragment:scp-987-kr\nhttp://scpko.wikidot.com/fragment:scp-987-ko-1968\nhttp://scpko.wikidot.com/fragment:kcia10-0018\nhttp://scpko.wikidot.com/fragment:scp-987-ko-1998\nhttp://scpko.wikidot.com/fragment:scp-987-ko\n\n--]\n\n[!-- Credit --]\n[!--\n**SCP-987-KO:** 오늘 오늘 오늘이여\n**작가:** [[*user thd-glasses]]\n\n※ 로고 및 사이드바 z-index 문제는 성탄 테마와의 충돌 때문이니 안심하세요\n\n**이미지 출처**\n# http://scp-wiki.wdfiles.com/local--files/scp-001-ex/padlock.png\n# https://pixabay.com/ko/photos/1914901/\n# https://pixabay.com/ko/photos/2061709/\n# https://pixabay.com/ko/photos/753508/\n# https://wellcomecollection.org/works/mgw7wr4u\n# https://www.flickr.com/photos/britishlibrary/11271668044\n# https://commons.wikimedia.org/wiki/File:US_Pueblo_operating_area_1969.png\n\n* 상기 이미지들과 재단 로고 외 기타 이미지는 thd-glasses 제작\n\n**참고 자료**\n# https://www.nis.go.kr:4016/resources/img/content-img/img-nis05-04-tab01-on.png\n# https://folkency.nfm.go.kr/kr/topic/detail/2280\n# http://encykorea.aks.ac.kr/Contents/Item/E0077364\n# http://www.scpwiki.com/scp-001-ex\n\n@@@@\n@@@@\n\n무속학부 설정 활용에 흔쾌히 협조해주신 [[*user Migueludeom]]님과 [[*user igangsu]]님, 중앙정보부 10국 설정 발전에 많은 힌트를 주신 [[*user Meat_Scholar]]님, 한국사령부 카논 정립에 누구보다 많은 기여로 화답해주신 [[*user Salamander724]]님, 그 밖에 영감을 준 모든 분께 감사드립니다.\n--]",
+  "tags": [
+    "888ko",
+    "ko",
+    "scp",
+    "노래마인-관리이사관",
+    "뇌수종-박사",
+    "무속학부",
+    "생물",
+    "서천컨트리클럽",
+    "역사적",
+    "유클리드",
+    "이자메아",
+    "인간형",
+    "정찰총국-p국",
+    "종교",
+    "중정-제10국",
+    "지성",
+    "현실조작"
+  ],
+  "author": "thd-glasses",
+  "created_at": "2020-12-25T14:53:50+00:00",
+  "updated_at": "2024-09-15T20:30:41+00:00",
+  "rating": 50,
+  "_site": "scpko",
+  "_fullname": "scp-987-ko"
+}

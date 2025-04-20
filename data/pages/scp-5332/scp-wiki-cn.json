@@ -1,0 +1,24 @@
+{
+  "title": "SCP-5332",
+  "content": "[[include :scp-wiki-cn:theme:black-highlighter-theme]]\n[[include :scp-wiki:component:betterfootnotes]]\n\n[[module CSS]]\n.box {\n    position: relative;\n    padding: 0.5em;\n    margin: 0.5em;\n    box-shadow: 2px 1.5px 1px rgba(176,16,0,0.7), 0 0 0px 1px lightgrey;\n    overflow-wrap: break-word;\n    color: black;\n}\n\n/* Utilizes the \"paper\" div made by CityToast and found in the Unusual Cargo theme.*/\n \ndiv.paper {\n    background: linear-gradient(rgba(220, 240, 240, 0.3), rgba(240, 240, 220, 0.5)), url(\"https://scp-wiki.wdfiles.com/local--files/theme:unusual-Cargo/TOAST-PAPER.jpg\");\n    box-shadow: 4px 6px 8px #a98;\n    padding: 1em .5em 1em .5em;\n    display: block;\n    margin-block-start: 1em;\n    margin-block-end: 1em;\n    margin-inline-start: 40px;\n    margin-inline-end: 40px;\n}\n \n@media (max-width: 478px) {\n    div.paper {\n    margin-inline-start: 0px;\n    margin-inline-end: 0px;\n    margin-block-start: 0em;\n    margin-block-end: 0em;\n    Margin: .5em 0em .5em 0em;\n    }\n}\n\n[[/module]]\n\n[[include :scp-wiki-cn:component:advanced-information-methodology blocks=-\n|lang=cn\n|XXXX=5332\n|lv=2\n|cc=SAFE\n|dc=DARK\n]]\n\n[[div class=\"box\"]]\n[[=]]\n++++ **__特殊收容措施__**\n[[/=]]\n----\n\n鉴于其当前对当地海洋生物的效应，SCP-5332需就地收容。装载SCP-5332的船上需安装水下摄像头以监控SCP-5332的状态。若在沉船附近发现潜水者，STF Rho-7（“迎客队”）需对其进行记忆删除并带回岸上。\n\n[[/div]]\n\n[[div class=\"box\"]]\n[[=]]\n++++ **__描述__**\n[[/=]]\n----\n\nSCP-5332是对一头巨型鲸鱼亚种的骨骼、尤其是角的编号。磨成粉末后，这些骨骼具有轻微的记忆删除和药用属性；因此，推测其会被如[[[unusual-cargo-hub|异常货物委员会]]]和HMFftSCotP[[span class=\"fnnum\"]].[[/span]][[span class=\"fncon\"]]国王/女王陛下超常安保收容基金会（His/Her Majesty's Foundation for the Secure Containment of the Paranormal）。[[/span]]等组织用作罕见、原始的记忆删除。\n\nSCP-5332是在调查格陵兰蓝鲸的迁徙模式时发现的。在跟踪一群鲸鱼时，一名潜水员发现了一艘十七世纪的古老沉船，被蓝鲸用作休憩点。经过进一步检查，他们发现了一头异常巨大的蓝鲸的骨骼，估计长度约有30m，其他蓝鲸聚集在其周围。在接下来几小时内，潜水员注意到许多其他海洋生物停留在骨骼所在处，似乎是在对它进行瞻仰。\n\n在探查船只内部之后，潜水员回收到一份旧文件，与一个名为“异常货物委员会”的组织有关。回家后，潜水员将这些信件的内容发布在了他的博客上，被基金会网络爬虫抓取到。事件发生后，相关各方人员都受到记忆删除。\n\n潜水员发现的信件如下：\n\n[[div class=\"paper\"]]\n[[==]]\n= 东印度公司\n= 运货单详情# C-172852\n= 日期：1627年6月17日\n= 船舶：“翠鸟”号舰船\n\n贮藏：该货物需装载于货舱内，使用内铺羊皮的大号标准板条箱存放，并用绳固定于船底。未经许可进入货舱者将被记录并在登陆后受到处罚。\n\n描述：十二条骨骼，属于拥有大角的蓝鲸；有角的蓝鲸似乎是鲸群的君王，因此其骨骼对任何具有科学兴趣的绅士都有极大价值，可以轻易缓解任何常见疾病。若这些骨骼完好无损，将有望在拍卖会上获得高价，因此必须极尽谨慎地保存它们。\n\n//页边空白处的潦草笔记。//\n别给我搞砸了，不然Trower先生会把你的肠子都掏出来的，小子。\n[[/==]]\n[[/div]]\n[[/div]]\n\n[[div class=\"box\"]]\n[[=]]\n++++ **__附录 1__**\n[[/=]]\n----\n\n经STF[[span class=\"fnnum\"]].[[/span]][[span class=\"fncon\"]]特别行动队（Special Task Force）。[[/span]] Rho-7调查，“翠鸟”号沉没的原因是船身侧面有巨大的裂痕，以及多个侧板弯曲；推测是有巨大的物体撞击了船只。可能是在船返回港口时，某种长而锋利的物体刺穿了船只，导致它迅速沉没。进一步调查正在进行中。\n\n[[/div]]\n\n[[footnoteblock]]\n[[div class=\"footer-wikiwalk-nav\"]]\n[[=]]\n<< [[[SCP-5331]]] | SCP-5332 | [[[SCP-5333]]] >>\n[[/=]]\n[[/div]]\n\n[[include :scp-wiki-cn:component:license-box\nauthor=Dr Moned]]\n[!-- N/A (无图)  --]\n[[include :scp-wiki-cn:component:license-box-end]]",
+  "tags": [
+    "2021连写竞赛",
+    "_海生",
+    "hmfscp",
+    "safe",
+    "scp",
+    "医学性",
+    "历史性",
+    "异常货物委员会",
+    "水生",
+    "记忆影响",
+    "骨骼",
+    "鲸类"
+  ],
+  "author": "Esperanza_Cai",
+  "created_at": "2021-08-02T12:11:24+00:00",
+  "updated_at": "2023-05-11T09:33:16+00:00",
+  "rating": 3,
+  "_site": "scp-wiki-cn",
+  "_fullname": "scp-5332"
+}

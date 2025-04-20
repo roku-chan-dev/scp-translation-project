@@ -1,0 +1,21 @@
+{
+  "title": "SCP-CN-2620",
+  "content": "[[>]]\n[[module rate]]\n[[/>]]\n\n**项目编号：**SCP-CN-2620\n\n**威胁级别：**白色 O\n\n**项目等级：**Safe\n\n**特殊收容措施：**SCP-CN-2620需妥善安置于基金会驻南京市建邺区水西门街道办事处，并参照《低危高价值异常项目管理办法》开展收容活动；基金会制可拆卸式心灵阻断合金已嵌入项目表面，用以标记及特殊情况需要，一名MTF-Mu-13成员已被指调留守南京，全权负责项目收容及维护指导工作；任何情况下，项目异常不得脱离水西门街道范围，以避免不可控因素。\n\n\n[[include component:image-block name=http://scpsandboxcn.wdfiles.com/local--files/i-love-me/1  |caption=SCP-CN-2620]]\n\n**描述：**SCP-CN-2620当前判定为一本四开三厘的羊皮及硬木质书籍，项目内容表现为由闪墨绘制的一系列故事向创作连环画；连环画内容存在不定向性，即连环画墨迹不定时以可见速率发生变化，并在数秒内形成独立连环画表象及故事。\n\n目前已知变化列表，包括但不限于：\n\n**1.** 伊索寓言原版\n\n**2.** 盎格鲁-萨克逊体系哲学笑话\n\n**3.**法国面包炖意大利面杂烩烹饪技巧\n\n**4.**养生保健及疾病防治技巧\n\n**5.**火柴人的大学趣味日常及寄语\n\n**6.**体育及军训相关漫画科普\n\n**7.**对祖国热爱的情感寄语\n\n**8.**哈姆雷特故事剧情\n\n**9.**共产党宣言德文版\n\n**10.**资本论全卷德文版\n\n**11.**国家与革命德文版\n\n**12.**一对火柴人情侣的恩爱日常\n\n**13.**奶羊公主对未来生活的美好寄语\n\n**14.**桦种长成树木的动态漫画\n\n**15**.树叶所阐述的浪漫情话\n\n**16.**火柴人的中秋故事及祝福寄语\n\n**17.**数盘柿饼/月饼/柚子及馋嘴表情插画\n\n**18.**孩童摇落桂花子的动态漫画\n\n**19.**全家福\n\n\n项目异常扉页附有一张桦木制贺卡，并有文字\n\n[[module css]]\n.page {\n    display: block;\n    overflow: hidden;\n    font-family: \"Monotype Corsiva\", \"Bradley Hand ITC\", sans-serif;\n    font-style: normal;\n\n    background-attachment: scroll;\n    background-clip: border-box;\n    background-color: transparent;\n    background-image: linear-gradient(to top ,rgb(202, 219, 228) 0%, rgb(231, 233, 220) 8%);\n    background-origin: padding-box;\n    background-position: 0px 8px;\n    background-repeat: repeat;\n    background-size: 100% 20px;\n\n    border: 1px solid #CCC;\n    border-radius: 10px;\n    padding: 10px 10px;\n    margin-bottom: 10px;\n\n    box-shadow: 0px 1px 3px rgba(0, 0, 0, 0.2)\n    }\n.page p,\n.page ul {\n    line-height: 20px;\n    margin: 0;\n}\n[[/module]]\n\n[[div class=\"page\"]]\n\n**建康路郵政支局仲秋紀念發行**\n**------**\n**生日快樂 有生的日子里天天快樂 ᐛ**\n[[>]]\n\n**1937.9.19**\n\n[[/>]]\n\n[[/div]]\n\n项目异常发现于1945年4月22日，萨克森豪森集中营。",
+  "tags": [
+    "safe",
+    "scp",
+    "人造物品",
+    "原创",
+    "合著",
+    "心灵感应",
+    "精神影响",
+    "艺术性",
+    "认知危害"
+  ],
+  "author": "day by die",
+  "created_at": "2021-09-21T10:00:12+00:00",
+  "updated_at": "2021-09-23T03:32:31+00:00",
+  "rating": 63,
+  "_site": "scp-wiki-cn",
+  "_fullname": "scp-cn-2620"
+}

@@ -1,0 +1,20 @@
+{
+  "title": "psul's proposal",
+  "content": "[!-- If you see a typographical error and want to fix it, you may find the appropriate page by entering \"https://scp-wiki.wikidot.com/fragment:psul-001-*/noredirect/true\" as the URL where \"*\" is 1-9 (the blank facial scan is 1, the facial scan gif is 2, the main text is 3-9).--]\n[[>]]\n[[module Rate]]\n[[/>]]\n[[module ListPages category=\"fragment\" parent=\".\" limit=\"1\" order=\"created_at\" offset=\"@URL|0\"]]\n%%content%%\n[[/module]]\n\n[[include :scp-wiki:component:license-box]]\n=====\n> **Filename:** scan4.PDF, scan12.PDF, scan3.PDF, scan8.PDF, scan19.PDF, scan15.PDF, scan17.PDF, scan10.PDF, scan18.PDF, scan16.PDF, scan11.PDF, scan10.PDF\n> **Author:** [[*user Psul]]\n> **License:** CC BY-SA 3.0\n> **Source Link:** [https://scp-wiki.wikidot.com/psul-001 SCP Foundation Wiki]\n\n> **Filename:** Dinner.jpg\n> **Name:** Keens Steakhouse 1910.png\n> **Author:** Richard Arthur Norton\n> **License:** Public Domain\n> **Source Link:** [https://en.wikipedia.org/wiki/File:Keens_Steakhouse_1910.png Wikipedia]\n\n> **Filename:** skullscan.gif\n> **Author:** [[*user Rounzie]]\n> **License:** CC BY-SA 3.0\n> **Source Link:** [https://scp-wiki.wikidot.com/psul-001 SCP Foundation Wiki]\n\n> **Filename:** skullopening.gif\n> **Author:** [[*user Rounzie]]\n> **License:** CC BY-SA 3.0\n> **Source Link:** [https://scp-wiki.wikidot.com/psul-001 SCP Foundation Wiki]\n> **Derivative Of:**\n\n> **Name:** SCP Foundation Logo\n> **Author:** [[*user Far2]]\n> **License:** CC BY-SA 3.0\n> **Source Link:** [https://scp-wiki.wikidot.com SCP Foundation Wiki]\n=====\n[[include :scp-wiki:component:license-box-end]]",
+  "tags": [
+    "001-proposal",
+    "_cc",
+    "_licensebox",
+    "_listpages",
+    "biohazard",
+    "entropic",
+    "scp",
+    "thaumiel"
+  ],
+  "author": "psul",
+  "created_at": "2018-10-28T15:17:13+00:00",
+  "updated_at": "2023-11-13T09:39:33+00:00",
+  "rating": 98,
+  "_site": "scp-wiki",
+  "_fullname": "psul-001"
+}

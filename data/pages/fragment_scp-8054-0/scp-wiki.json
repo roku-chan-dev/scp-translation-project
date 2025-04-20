@@ -1,0 +1,13 @@
+{
+  "title": "fragment:scp-8054-0",
+  "content": "[[=]]\n**@@-----------------------------@@**\n**SCP Foundation: Terminal #462**\n**@@-----------------------------@@**\n@@ @@\nThis terminal is restricted to personnel with Overseer-Level clearance.\nPlease input credentials.\n[[/=]]\n[[div class=\"type-wrap-wrapper\"]]\n[[div class=\"type-wrapper\"]]\n[[div id=\"u-start1\"]]\n[[/div]]\nIDENTIFICATION #:\n@@$@@ 05-02\n@@ @@\nPASSWORD:\n@@$ **********@@\n\n[[div class=\"buttonwrapper\"]]\n@@>@@ [[a href=\"#u-start1\"]]Validate Credentials[[/a]]\n[[/div]]\n[[div class=\"typearea1\"]]\nSuccessfully validated.\n[[collapsible show=\"Access File System\" hide=\"Access File System\"]]\n@@    @@> [[a href=\"https://scp-wiki.wikidot.com/scp-8054/offset/1\"]]SCP-8054 File - VeritasCode[[/a]]\n@@    @@> [[a href=\"https://scp-wiki.wikidot.com/scp-8054/offset/2\"]]SCP-8054 File - Discovery Log - Addendum. SCP-8054-1[[/a]]\n@@    @@> [[a href=\"https://scp-wiki.wikidot.com/scp-8054/offset/3\"]]SCP-8054 File - Journal Entries of Dr. Elena Novak - Addendum. SCP-8054-2[[/a]]\n[[/collapsible]]\n[[/div]]\n\n[[/div]]\n[[/div]]",
+  "tags": [
+    "fragment"
+  ],
+  "author": "GeminidStrix",
+  "created_at": "2024-05-18T05:41:34+00:00",
+  "updated_at": "2024-05-19T08:20:22+00:00",
+  "rating": 0,
+  "_site": "scp-wiki",
+  "_fullname": "fragment:scp-8054-0"
+}

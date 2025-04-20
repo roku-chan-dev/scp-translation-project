@@ -1,0 +1,19 @@
+{
+  "title": "SCP-6247",
+  "content": "[[include theme:fish]]\n\n[[>]]\n[[module Rate]]\n[[/>]]\n\n**Item #:** SCP-6247\n\n**Object Class:** Euclid\n\n**Special Containment Procedures:** Due to its location, all ships passing through the spot under which SCP-6247 is located are to be redirected through an alternate route, under the guise of severe weather conditions. All noticeable debris emerging from SCP-6247 is to be retrieved and stored in a secure containment unit at Site-184. Constant monitoring of SCP-6247 for fluctuations in anomalous activity is to be carried out.\n\n**Description:** SCP-6247 is the designation given to a structure found on the seafloor of the Atlantic Ocean. SCP-6247 exists in a constant state of flux between an unconfirmed number of realities, rendering a full mapping of the structure unfeasible. From time to time, debris is violently expelled from SCP-6247 in a manner consistent with that of an explosion. Of note is that all debris recovered from SCP-6247 has exhibited signs of stress consistent with depths of -6,000 meters below sea level. [[footnote]] The Atlantic Ocean has an average depth of 3,646m, with a maximum depth of around 5,000m. [[/footnote]]\n\nA secondary anomalous effect that has been attributed to SCP-6247 manifests as a series of messages encoded through standard Foundation methods; these messages are transmitted repeatedly at regular intervals. The content of these messages is displayed below.\n\n@@ @@\n\n[[div class=\"blockquote\"]]\n\n[UNKNOWN COLLISION IN SECTOR 4B. PLEASE REMAIN CALM.]\n\n[[/div]]\n\n@@ @@\n\n[[div class=\"blockquote\"]]\n\n[CHARYBDIS PROTOCOL IMPLEMENTED. SECTOR 4B RECLASSIFIED LOST.]\n\n[[/div]]\n\n@@ @@\n\n[[div class=\"blockquote\"]]\n\n[TEMPORARY ANOMALY DESIGNATION 0059: 1 SPECIMEN. DECEASED.]\n\n[[/div]]\n\n@@ @@\n\n**UPDATE 06/03/2022:** On 06/03/2022, SCP-6247 expelled a large container bearing a Foundation insignia, which quickly rose up to the surface and activated a beacon transmitting on standard Foundation channels. Upon retrieval, the contents of the box were examined and sent to Site-184 for study due to the site's proximity. The box contained documentation on several unobserved aquatic anomalies attributed to a non-existent Foundation facility located somewhere in the Atlantic Ocean. \n\nNo data recovered has been linked to any existing Foundation operation, and is to be disregarded.\n\n@@ @@\n@@ @@\n@@ @@\n@@ @@\n[[footnoteblock]]\n\n[[div class=\"footer-wikiwalk-nav\"]]\n[[=]]\n<< [[[SCP-6246]]] | SCP-6247 | [[[SCP-6248]]] >>\n[[/=]]\n[[/div]]\n[[include :scp-wiki:component:license-box]]\n[!-- N/A (No Images)  --]\n[[include :scp-wiki:component:license-box-end]]",
+  "tags": [
+    "_licensebox",
+    "aquatic",
+    "euclid",
+    "extradimensional",
+    "scp",
+    "structure",
+    "transmission"
+  ],
+  "author": "Fishish",
+  "created_at": "2022-04-01T05:23:40+00:00",
+  "updated_at": "2022-04-26T17:36:52+00:00",
+  "rating": 78,
+  "_site": "scp-wiki",
+  "_fullname": "scp-6247"
+}

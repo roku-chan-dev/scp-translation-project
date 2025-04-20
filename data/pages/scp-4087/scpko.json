@@ -1,0 +1,16 @@
+{
+  "title": "SCP-4087",
+  "content": "[[include info:start]]\n**SCP-4087:** 나이프의 부재\n**저자:** [[*user the great hippo]]\n**원작:** http://www.scp-wiki.net/scp-4087\n**역자:** [[*user Aiken Drum]]\n**이미지:** [https://commons.wikimedia.org/wiki/File:2014_N%C3%B3%C5%BC_spr%C4%99%C5%BCynowy_01.jpg 링크].\n\n**음악:** [https://youtu.be/cW3pQO-BIZM The Backwards Rhyme]\n----\n[[include :scpkrsandbox:hippo]]\n[[include info:more]]\n[[include info:end]]\n\n[[module CSS]]\nimport url(/component:scp-pride/code/1);\n[[/module]]\n\n[[module css]]\nsup { \nvertical-align: top; position: relative; top: -0.5em; \n}\n[[/module]]\n\n[[include component:image-block name=http://scp-wiki.wdfiles.com/local--files/scp-4087/weapon.jpg|caption=SCP-4087 개체.]]\n\n**일련번호:** SCP-4087\n\n**등급:** 유클리드\n\n**특수 격리 절차:** 유럽과 미국의 사법당국에 잠입한 재단 자산이 SCP-4087 개체가 이용됐을 때와 같은 표시를 나타내는 진행 중인 살인 사건을 감시하도록 한다. 추가적인 개체가 회수되기 어려운 상황에 있다면, 1 세제곱미터의 콘크리트에 담가, [[[SCP-2419|심지층처분장]]]에 무기한 보관한다. \n\n**설명:** SCP-4087는 일련의 골동품 스프링식 버튼 나이프이다. 각 칼날의 길이는 9.2 센치미터며, 스테인리스강으로 만들어졌다. 가브릴로 마니아고,,Gavrilo Maniago,,(이탈리아의 나이프 제작자)가 제작했으며, 개인적인 의뢰에 의한 것이었다. 가브릴로 마니아고는 1914년 살해당하기 전까지 총 6개를 완성했다.\n\nSCP-4087는 1937년 재단 분석학부가 개발한 수학적 모델이 대상을 50여년에 걸친 100개 이상의 사건과 연관짓은 이후 최초로 식별됐다. 각각의 사건에서 사법당국은 6개의 나이프 중 하나가 살인 도구로 이용됐다고 식별했다. 각 나이프는 반복적으로 실종되고, 회수되거나 경매에 부쳐졌다.\n\n1975년 일자로, 6개의 나이프 모두 회수되거나 소재가 확인되었다. 이후 200개 이상의 추가적인 살인 사건에서 동일한 나이프가 살인 도구로 이용됐다고 식별됐다. 해당 살인 사건들을 조사한 결과는, 모든 증거가 반대됨에도 불구하고, 실제 살인 도구는 존재하지 않았다고 확인됐다.\n\n6개의 나이프 전부를 법의학적으로 조사한 결과, 연구원들은 다음과 같은 관찰 결과를 보였다.\n* 관찰되는 변칙적 특성은 보이지 않음.\n* 뚜렷한 마모나 사용 흔적이 없음.",
+  "tags": [
+    "en",
+    "scp",
+    "무기",
+    "유클리드"
+  ],
+  "author": "Aiken Drum",
+  "created_at": "2019-04-11T10:29:21+00:00",
+  "updated_at": "2024-11-17T13:49:47+00:00",
+  "rating": 3,
+  "_site": "scpko",
+  "_fullname": "scp-4087"
+}

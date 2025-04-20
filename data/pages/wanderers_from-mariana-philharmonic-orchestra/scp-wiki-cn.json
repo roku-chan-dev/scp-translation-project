@@ -1,0 +1,16 @@
+{
+  "title": "来自马里亚纳乐团",
+  "content": "= [[image http://scpsandboxcn.wikidot.com/local--files/mariana-propaganda-department/1.JPG width=\"500px\"]]\n= [[image http://scpsandboxcn.wikidot.com/local--files/mariana-propaganda-department/2.JPG width=\"500px\"]]\n= [[image http://scpsandboxcn.wikidot.com/local--files/mariana-propaganda-department/3.JPG width=\"500px\"]]\n\n@@ @@\n@@ @@\n@@ @@\n[[>]]\n[[module Rate]]\n[[/>]]\n\n[[html]]\n<!doctype html>\n\n<html>\n\n<head><title>无标题文档</title></head>\n\n<body>\n\n<!--插入按钮 开始-->\n\n<input type=\"button\" value=\"轻声哼唱金鸥的送别曲第四小节\" onclick=\"MsgBox()\" />\n\n<!--插入按钮 结束-->\n\n<!--引用JS代码以达到弹出对话框目的 开始-->\n\n<script language=\"javascript\">\n\nfunction MsgBox() //声明标识符\n\n{\n\nalert(\"金色的鹭送来了您的入场票并取走了您十五分之一的灵感\"); //弹出对话框\n\n}\n\n</script>\n\n<!--引用JS代码以达到弹出对话框目的 结束-->\n\n</body>\n\n</html>\n[[/html]]",
+  "tags": [
+    "wanderers",
+    "原创",
+    "图片",
+    "苍树与血"
+  ],
+  "author": "CrowNox",
+  "created_at": "2019-07-08T13:46:29+00:00",
+  "updated_at": "2019-07-10T13:38:26+00:00",
+  "rating": 21,
+  "_site": "scp-wiki-cn",
+  "_fullname": "wanderers:from-mariana-philharmonic-orchestra"
+}

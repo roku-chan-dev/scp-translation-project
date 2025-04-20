@@ -1,0 +1,21 @@
+{
+  "title": "SCP-1002-KO",
+  "content": "[[include :scpko:info:start]]\n**SCP-1002-KO** - 검 맺힌 한,,Swordborne Grudge,,\n\n**저자:** [[*user ProfoundAbyss]]\n\n[[[title-contest-hub-2022|SCP-1000-KO 경연]]] 투고작.\n\n[[[theme:extra-black-highlighter-theme|진짜 블랙 하이라이터 테마]]] by [[*user woedenaz]]\n[[[theme:simple-yonder|그저 저편 테마]]] by [[*user estrellayoshte]]\n\n[[[profound-abyss-author-page|심연의 다른 작품들 알아보기]]]\n[[include :scpko:info:end]]\n[[module ListPages  category=\"fragment\" parent=\".\" limit=\"1\" order=\"created_at\" offset=\"@URL|0\"]]\n%%content%%\n[[/module]]",
+  "tags": [
+    "1000ko",
+    "ko",
+    "scp",
+    "감정이입",
+    "강윤상-이사관",
+    "난해한-등급",
+    "노래마인-관리이사관",
+    "무기",
+    "이강수-이사관"
+  ],
+  "author": "ProfoundAbyss",
+  "created_at": "2022-12-10T09:33:23+00:00",
+  "updated_at": "2024-05-09T09:53:50+00:00",
+  "rating": 25,
+  "_site": "scpko",
+  "_fullname": "scp-1002-ko"
+}

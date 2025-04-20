@@ -1,0 +1,22 @@
+{
+  "title": "SCP-5983",
+  "content": "[[include theme:black-highlighter-theme]]\n[[include :scp-wiki:component:rso]]\n[[include more-by:rounderhouse]]\n[[include component:info-ayers\n|lang=en[!-- EN/RU/KO/CN/FR/PL/ES/TH/JP/DE/IT/UA/PTBR --]\n|page=scp-5983[!-- url of your page on the scp wiki --]\n|authorPage=https://scp-wiki.wikidot.com/rounderhouse-s-author-page[!-- link to your author page --]\n|comments=Coming Soon - Rounderhouse\n]]\n[[=]]\n[[module Rate]]\n[[/=]]\n[[include :scp-wiki:component:classified-bar-woed\n|lv=4\n|item=5983\n|oc=Thaumiel\n|lang=EN\n]]\n----\n[[include :scp-wiki:component:image-features-source |hover-enlarge=--]\n|enlarge-amount=6\n|speed=250\n|float=true\n|align=right\n|width=300px\n|url=splosion.jpg\n|add-caption=true\n|caption=An image captured from an SCP-5983 test.\n]]\n\n**Special Containment Procedures:** Testing of SCP-5983 is currently prohibited by O5 Directive (See Addendum 5983.2).\n\n**Description:** SCP-5983 is an anomalous relationship between the force of an explosion in Drawing County, Wyoming, and the efficiency of the New York City Subway. The specific equation for this relationship has not yet been deduced, but is understood to be proportional; the larger the yield of the explosion, the faster and smoother the subway will function for the day. Following its discovery in June of 2016, several tests with SCP-5983 were authorized to confirm its effects.\n@@ @@\n@@ @@\n@@ @@\n@@ @@\n@@ @@\n@@ @@\n@@ @@\n**Addendum 5983.1:** \n\n||~ Date ||~ Explosion Yield (kt TNT) ||~ Result ||\n|| 2016.6.27 || 0.05 || No significant statistical rise in efficiency. However, researchers noted an unusually low number of complaints filed on the MTA's website. ||\n|| 2016.7.2 || 0.5 || A delay on one line caused by damaged equipment was cleared much quicker than expected, allowing transit to resume faster. ||\n|| 2016.7.13 || 1 || Trains operated exactly to estimated times, with no delays or earliness.||\n|| 2016.7.23 || 2 || Trains were ahead of schedule by several minutes. MTA staff took active action to maintain this; an employee once pulled a suicidal individual away from the tracks. It is unclear whether SCP-5983 affected this decision.||\n|| 2016.8.1 || 3.5 || Trains seemed to regularly defy reality and physics to reach destinations quickly. In one instance, a train began to simply teleport between stations. Kant counters failed to return an accurate measure of the area's Hume level, though this could be due to the ambient effects of the subway.||\n||||||= [292 lines omitted] ||\n\n**Addendum 5983.2:** In 2018, it was found that an O5 Directive had led to SCP-5983 being tested 297 times since its discovery, occasionally multiple times a day. An official O5 vote was scheduled to decommission testing for SCP-5983.\n\n[[div style=\"color: black; font-weight: bold; background:#fff url(https://scp-wiki.wdfiles.com/local--files/the-great-hippo/scp_trans.png) center no-repeat; float: center; border: solid 1px #000000; padding: 15px 15px; box-shadow: 0 1px 3px rgba(0,0,0,.2); width: 84%; margin: 4% 4% 4% 4%\"]]\n\n= COUNCIL VOTE SUMMARY:\n||~ YEA  ||~ ABSTAIN  ||~ NAY ||\n|| O5-01 ||   ||       ||\n|| O5-02 ||   ||       ||\n|| O5-03 ||   ||       ||\n|| O5-04 ||   ||       ||\n|| O5-05 ||   ||          ||\n|| O5-06 ||   ||          ||\n|| O5-07 ||   ||          ||\n|| O5-08 ||   ||          ||\n|| O5-09 ||       ||          ||\n|| O5-10 ||       ||          ||\n|| O5-11 ||   ||       ||\n||  ||  ||   O5-12   ||\n|| O5-13 ||   ||       ||\n@@ @@\n||~ STATUS ||\n|| ##057800|APPROVED## ||\n\n= Comments:\n\n> O5-12\n>> In my defense, if you've ever been on the 8:30 to Broadway, you'd want to nuke something too.\n[[/div]]\n\n[[include component:wikimodule |ratings= --]]]\n----\n[[div class=\"footer-wikiwalk-nav\"]]\n[[=]]\n<< [[[SCP-5982]]] | SCP-5983 | [[[SCP-5984]]] >>\n[[/=]]\n[[/div]]\n[[include component:license-box]]\n=====\n> **Filename:** splosion.jpg\n> **Name:** Mushroom cloud\n> **Author:** California National Guard\n> **License:** CC BY-SA 2.0\n> **Source Link:** [https://flickr.com/caguard/5812238896 Flickr]\n=====\n[[include component:license-box-end]]",
+  "tags": [
+    "_cc",
+    "_explosions",
+    "_licensebox",
+    "exchange",
+    "jam-con2020",
+    "phenomenon",
+    "probability",
+    "ritual",
+    "scp",
+    "thaumiel"
+  ],
+  "author": "Rounderhouse",
+  "created_at": "2020-03-09T19:44:19+00:00",
+  "updated_at": "2024-04-19T22:21:23+00:00",
+  "rating": 417,
+  "_site": "scp-wiki",
+  "_fullname": "scp-5983"
+}

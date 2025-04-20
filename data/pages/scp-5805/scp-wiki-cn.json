@@ -1,0 +1,21 @@
+{
+  "title": "SCP-5805",
+  "content": "[[include :scp-wiki-cn:component:black-highlighter-theme-dev]]\n[[include :scp-wiki:theme:magnus-web-format]]\n\n@@ @@\n[[include :scp-wiki:component:classified-bar-woed\n|lv=2\n|item=5805\n|oc=Safe\n|lang=CN\n|trans-level=级\n|trans-classified=机密\n]]\n@@ @@\n[[include component:image-block name=http://scp-wiki.wdfiles.com/local--resized-images/scp-5805/vintage_zenith/medium.jpg| caption=SCP-5805在收容中]]\n**特殊收容措施：**SCP-5805已被整合入Site-11的多媒体基础设施内，为Site-11、-17、-19的低安保区域提供音乐。作为预防，所有由SCP-5805发出的广播将经受模因与认知危害过滤，而后予以转播。\n\n**描述：**SCP-5805是一“珍妮斯”牌AM收音机，从1982年开始一直播放着即兴演奏的小合奏爵士乐。此收音机的品牌和结构与1970年代制造厂相一致，除可以在无可见电源下无限期运转外，设备中没有其他异常部件。\n\n暴露于SCP-5805未过滤广播的对象报告称有一种怀旧的感觉，但这些感受在烈度和时长上都很温和。\n\n-----\n\n**发现记录：**\n\nSCP-5805于1982年在俄亥俄州阿克伦市附近喀斯喀特山谷公园的一座营地内被发现。当时，一位度假中的基金会研究员及其妻子无法找到租下的小屋。在意外进入公园内不对外使用的区域后，夫妇二人偶然听到了爵士乐传来，并跟随之找到了一座未标记的小屋，此前处于灌木和过度生长的植物的遮盖下。\n\n小屋门的内侧有若干粗糙刻字。\n\n[[div style=\"display: block ; border : dashed 1px #444444 ; background :#f5f5f5; margin-left : auto ; margin-right : auto ; width : auto ; padding:10px\"]]\n[[=]]\n> '75年之夏\n> Martha Jean\n> Darin G\n> Johnny T\n> Billy W\n\n> '76年之夏\n> Martha Jean + Darin G\n> Johnny T + Billy W\n\n> '77年之夏\n> Darin夫妇与Martha G\n> Billy W\n\n> '80年之夏\n> Billy Walters\n> 我们铭记John\n[[/=]]\n\n小屋内还发现有若干私人物品：\n* 1升的瓶装“老乌鸦”牌威士忌，还剩四分之一。\n* “荷兰大师”牌雪茄盒，5根雪茄还剩4根。\n* 8张拍立得照片，图中为4名不明人员在各种娱乐场合的影像。\n* 4张拍立得照片，图中有2名不明男性在一座码头的影像。这些照片已被水严重损坏。\n* 2只配对的银制结婚对戒，1只受严重腐蚀。\n\n[[/div]]\n\n-----\n\n**更新：06-01-2005**\n自SCP-5805被纳入基金会监管以来首次拦截到其编排过程。在约30秒的空白播放后，有一男性声音说出了以下话语：\n\n> “这是给你的，Johnny，不管你在哪。好了，各位，让我们再来一遍，从头开始。一，二，一二三。”\n\nSCP-5805之后再次开始播放音乐。\n\n此后再未录制到更多中断。\n\n-----\n\n[[footnoteblock]]\n\n[[div class=\"footer-wikiwalk-nav\"]]\n[[=]]\n<< [[[SCP-5804]]] | SCP-5805 | [[[SCP-5806]]] >>\n[[/=]]\n[[/div]]\n\n[[include :scp-wiki-cn:component:license-box\n|author=ManyMeats]]\n=====\n> **文件名：** vintage_zenith\n> **图像名：** Vintage Zenith Art Deco Table Radio\n> **图像作者：** Joe Haupt\n> **授权协议：** CC BY 2.0\n> **来源链接：** [https://flickr.com/photos/51764518@N02/8100498851 Flickr]\n=====\n[[include :scp-wiki-cn:component:license-box-end]]",
+  "tags": [
+    "76年班",
+    "safe",
+    "scp",
+    "人造物品",
+    "声音",
+    "电子",
+    "移情作用",
+    "自主",
+    "通讯"
+  ],
+  "author": "ashausesall",
+  "created_at": "2020-06-05T12:08:55+00:00",
+  "updated_at": "2024-05-17T04:18:05+00:00",
+  "rating": 4,
+  "_site": "scp-wiki-cn",
+  "_fullname": "scp-5805"
+}

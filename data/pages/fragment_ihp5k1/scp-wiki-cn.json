@@ -1,0 +1,13 @@
+{
+  "title": "Ihp5k1",
+  "content": "[[module css]]\n.hover {\n  color: red;\n  text-decoration: underline;\n}\n.hover .hover-text {\n   position: absolute;\n   display: none;\n   margin: 20px 0px;\n   height: auto;\n   width: auto;\n   background:white;\n   border: 1px solid black;\n   color: black;\n   padding: 0.5em;\n}\n\n.hover:hover {\n  text-decoration: none;\n  border-bottom: none;\n  color: #004c00;\n}\n.hover:hover .hover-text {\n  display: inline;\n}\n[[/module]]\n\n[[table style=\"border: none; width: 100%;\"]]\n[[row]]\n[[cell]]\n[[size 125%]]**项目编号：**SCP-5500[[/size]]\n[[/cell]]\n[[cell style=\"text-align: right;\"]]\n[[size 125%]]###990000|**0/5500级**##[[/size]]\n[[/cell]]\n[[/row]]\n[[row]]\n[[cell]]\n[[size 125%]]**项目等级：**Apollyon\n[[/size]]\n[[/cell]]\n[[cell style=\"text-align: right;\"]]\n[[size 125%]]###990000|**机密**##[[/size]]\n[[/cell]]\n[[/row]]\n[[/table]]\n\n[[div class=\"scp-image-block block-center\" style=\"width:100%;\"]]\n[[image http://scp-sandbox-3.wdfiles.com/local--files/fragment%3Aihp5k2/windsor1.jpg style=\"width:100%;\" link=#]]\n[[div class=\"scp-image-caption\" style=\"width:100%;\"]]\n2033年，在[http://scp-wiki-cn.wikidot.com/djoric-s-author-page SCP-5500-Ω-56]死后约两个月，基金会在英格兰勘探期间拍摄的温莎足球场。\n[[/div]]\n[[/div]]\n\n\n**特殊收容措施：**由于SCP-5500的发生，“末日揭幕”协议已实施。由于多元宇宙处于终末状态，公众已经了解到异常现象和基金会的存在。\n\n基金会的研究方向将完全集中于寻找导致所有SCP-5500-Ω个体死亡的真凶。目前正在调查与5500-Omega个体死亡相关的一切动机和人员。[[span class=\"hover\"]][[span class=\"hover-text\"]]带下划线的红色文字为模因编码文本，用于传递已收集到的关于凶手身份及犯罪手法的信息，只有存在于我们已知的宇宙上层的实体才能看到这些信息。[[/span]]本文件及相关文档已全部使用“红字”调查协议来传递情报。[[/span]]\n\n**描述：**SCP-5500指的是当前正在至少9,245个宇宙中发生的ZK级现实崩溃末日情景，由多个SCP-5500-Ω个体的死亡引发。\n\nSCP-5500-Ω为人形（很可能是人类）实体，存在于基金会可观测到的最大的多元宇宙之上的现实中。这些实体有能力通过创意写作这一媒介来改变我们的现实及邻近的其他现实，其总体影响力尚不清楚。\n\n一个SCP-5500-Ω个体的死亡将导致受其影响的宇宙或实体遭遇严重的形而上学反噬现象。该现象的影响范围及其破坏力大小不一——比如[[span class=\"hover\"]][[span class=\"hover-text\"]]SCP-5500-Ω-1的死因为心脏病。[[/span]]SCP-5500-Ω-1的自然死亡[[/span]]导致了至少四名人员和三个SCP物品死亡，而[[span class=\"hover\"]][[span class=\"hover-text\"]]死因：被强制喂食多个多面体物品之后胃部破裂。[[/span]]SCP-5500-Ω-56被谋杀[[/span]]则导致了地平线倡议在可观测到的所有宇宙中毁灭，同时基准宇宙中英国人口大幅下降。\n\nSCP-5500-A是某种设备的第三代机型，用于在SCP-5500-Ω个体的现实中对其进行观测。\n\n[http://scp-wiki-cn.wikidot.com/scp-5500/offset/1 更多信息已被加密并仅储存于以下地址的硬拷贝中……]",
+  "tags": [
+    "段落"
+  ],
+  "author": "ahshow",
+  "created_at": "2020-05-05T12:02:05+00:00",
+  "updated_at": "2020-09-03T09:00:07+00:00",
+  "rating": 0,
+  "_site": "scp-wiki-cn",
+  "_fullname": "fragment:ihp5k1"
+}

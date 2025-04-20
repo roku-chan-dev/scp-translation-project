@@ -1,0 +1,21 @@
+{
+  "title": "SCP-6400",
+  "content": "[[>]]\n[[module rate]]\n[[/>]]\n[[include :pseudo-scp-jp:cd-ver2\n|lv=1\n|item=6400\n|class=Safe\n|site-responsible=GBWLTB-Site-17\n|director=%E3%82%AD%E3%82%A2%E3%83%B3%E3%83%BB%E3%82%B9%E3%83%86%E3%82%A3%E3%83%BC%E3%83%96%E3%83%B3%E3%82%BA%E5%8D%9A%E5%A3%AB\n|research-head=%E3%83%95%E3%82%A7%E3%83%BC%E3%83%B3%E3%83%BB%E3%83%91%E3%83%A9%E3%83%81%E3%83%A3%E6%8A%80%E5%B8%AB\n|assigned-task-force=N/A\n|jp=true\n]]\n[[a href=\"*http://scp-jp.wikidot.com/niveaux-de-menace-des-objets-scp\" style=\"font-size: 18px; color: black; text-shadow: 1px 3px 1px rgba(0,0,0,0.3); text-decoration: none;\"]]\n[[span_ style=\"display: inline-block; width: 100%; background-color: #EED202; text-align: center; border: 1px none #000; margin: 1px; padding-top: 8px; padding-bottom: 8px;\"]]\n**脅威レベル:** 黄\n[[/span]]\n[[/a]]\n------\n**特別収容プロトコル:** サイト-17倫理委員会の命令に基づいて、施設-Cのセル-2/23は空室を維持されます。SCP-6400の遮蔽、ならびに割り破っての通過は禁止されています。\n\n**説明:** SCP-6400は円形の窓であり、現時点ではセル-2/23の北西側の壁に存在しています。単独の円形ガラス板から構成されており、格子や開閉機構はありません。\n\nいずれかの側から損傷を受けるか遮蔽されるかするとSCP-6400は消失し、最寄りのセクションの壁に再出現します。SCP-6400の消失と続く再出現は瞬間的であるように見え、以前に置換されていた領域は移転時に修復されます。\n\nSCP-6400は外壁にのみ出現し、自然光がほとんど、あるいは全く無い部屋を優先します。オフィス、職員寮、収容セルは高い頻度でSCP-6400の標的となり、全出現事例のうち94%が当てはまります。\n\n影響を受けた部屋の中にいる人間または知的存在は、やや高い頻度でSCP-6400を覗きこみたくなる弱い衝動を抱きます。日光への曝露時間はこの影響の受けやすさと負の相関性があり、また無関係な仕事を割り当てられた者は、全く働いていない被験者よりも影響を受けづらくなります。非人間やDクラス職員の場合には、嘆き悲しむ様子が高頻度で観察されます。\n------\n[[=]]\n[[size 150%]]**補遺6400-A**[[/size]]\n[[/=]]\n\n以下は現在地で撮影されたSCP-6400の写真です。もし影響が長引くようであれば、精神医療部門への報告を推奨します。\n\n[[=]]\n[[size 150%]] [[collapsible show=\"► SCP-6400の画像\" hide=\"▼ アクセス承認\"]][[/size]]\n[[div class=\"scp-image-block block-center\" style=\"width:100%;\"]]\n[[image http://scp-jp-storage.wdfiles.com/local--files/file%3A3995762-50-txw3/outthere.jpg style=\"width:100%;\" link=#]]\n[[div class=\"scp-image-caption\" style=\"width:100%;\"]]\nSCP-6400。\n[[/div]]\n[[/div]]\n[[/collapsible]]\n[[/=]]",
+  "tags": [
+    "6000",
+    "en",
+    "safe",
+    "scp",
+    "可視光",
+    "建造物",
+    "強制力",
+    "瞬間移動",
+    "黄"
+  ],
+  "author": "Kasugai_Kanagu",
+  "created_at": "2021-05-25T21:18:28+00:00",
+  "updated_at": "2021-07-04T09:29:45+00:00",
+  "rating": 127,
+  "_site": "scp-jp",
+  "_fullname": "scp-6400"
+}

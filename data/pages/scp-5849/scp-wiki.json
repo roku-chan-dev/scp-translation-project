@@ -1,0 +1,23 @@
+{
+  "title": "SCP-5849",
+  "content": "[[module css]]\n.page {\n    display: block;\n    overflow: hidden;\n    font-family: \"Monotype Corsiva\", \"Bradley Hand ITC\", sans-serif;\n    font-style: normal;\n\n    background-attachment: scroll;\n    background-clip: border-box;\n    background-color: transparent;\n    background-image: linear-gradient(to top ,rgb(202, 219, 228) 0%, rgb(231, 233, 220) 8%);\n    background-origin: padding-box;\n    background-position: 0px 8px;\n    background-repeat: repeat;\n    background-size: 100% 20px;\n\n    border: 1px solid #CCC;\n    border-radius: 10px;\n    padding: 10px 10px;\n    margin-bottom: 10px;\n\n    box-shadow: 0px 1px 3px rgba(0, 0, 0, 0.2)\n    }\n.page p,\n.page ul {\n    line-height: 20px;\n    margin: 0;\n}\n[[/module]]\n[[>]]\n[[module Rate]]\n[[/>]]\n\n**Item #:** SCP-5849\n\n**Object Class:** Cernunnos[[footnote]]Can be functionally contained, but the Foundation cannot achieve this for logistical and/or ethical reasons.[[/footnote]]\n\n**Special Containment Procedures:** Due to the nature of SCP-5849, the Ethics Committee has deemed containment of the anomaly unnecessary.\n\n**Description:** SCP-5849 is an unidentified postal service worker with a pair of //Anser caerulescens//[[footnote]]Commonly known as Snow goose.[[/footnote]] wings on its back, wearing a post hat whose upper band emits a dim light. SCP-5849 occasionally manifests before mailboxes to deliver letters. These manifestation events are preceded by a sudden bright light. The handwriting in the letters is identical to that of deceased individuals who died from sudden or unnatural causes and had recently become estranged from friends or family.\n\nAll manifestations of SCP-5849 uniformly occur a few days after the passing of the deceased. Witnesses of the manifestation stated that they had no recollection of the event.\n\nThe content often includes anecdotes and stories related to the recipient and seem to be written as reconciliation attempts. The letters may additionally have typos, and smudges as if they had been recently written.\n\nAfter reading the contents of the letter, recipients have reported feelings of relieved guilt, thankfulness, and often new profound sadness.\n\n**Discovery:** SCP-5849 was sighted on 2018/03/16 by a home security cam in the town of Adarney, Ireland; several agents were dispatched but could not find the anomaly. After this, SCP-5849 was sighted at a new location every 24 hours. On rare occurrences, personnel received a letter after losing a colleague.\n\n**Addendum: Incident 5849-1**\n[[module ListPages limit=\"1\" category=\"*\" order=\"updated_at desc\"]]\nOn %%updated_at|%Y/%m/%d%%, SCP-5849 appeared before Site-23 and delivered a letter. The handwriting did not match any records and is therefore assumed to have been written by SCP-5849 itself.\n[[/module]]\n[[size 120%]]\n[[div class=\"page\"]]\nI came to bring consolement, I wish ye the same.\n[[/size]]\n[[/div]]\nSCP-5849 has yet to appear after this incident. The possibility of a neutralization is not excluded.\n[[footnoteblock]]\n\n[[div class=\"footer-wikiwalk-nav\"]]\n[[=]]\n<< [[[SCP-5848]]] | SCP-5849 | [[[SCP-5850]]] >>\n[[/=]]\n[[/div]]\n\n[[include :scp-wiki:component:license-box]]\n\n> N/A\n\n[[include :scp-wiki:component:license-box-end]]",
+  "tags": [
+    "_famouslastwords",
+    "_licensebox",
+    "alive",
+    "esoteric-class",
+    "humanoid",
+    "jam-con2021",
+    "light",
+    "sapient",
+    "scp",
+    "teleportation",
+    "uncontained"
+  ],
+  "author": "Sirslash47",
+  "created_at": "2021-03-24T23:33:34+00:00",
+  "updated_at": "2022-10-01T16:31:18+00:00",
+  "rating": 37,
+  "_site": "scp-wiki",
+  "_fullname": "scp-5849"
+}

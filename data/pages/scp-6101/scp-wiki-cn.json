@@ -1,0 +1,21 @@
+{
+  "title": "SCP-6101",
+  "content": "[[include :scp-wiki-cn:theme:broken-masquerade]]\n[[module CSS]]\n.footnotes-footer {\n  display: none;\n}\n[[/module]]\n[[div style=\"color: black; border: solid 1px #000000; background:#f2f2c2 url(http://scp-wiki.wdfiles.com/local--files/the-great-hippo/scp_trans.png) center no-repeat; padding:5px; margin-bottom: 10px; \"]]\n\n= [[size 120%]]**基金会记录与信息安全管理部的通知**[[/size]]\n\n= **O5议会已批准将SCP-6101指定为公共关系部门专用，以协助[[[https://scp-wiki-cn.wikidot.com/broken-masquerade-hub|后帷幕时代]]]的运作。**\n[[/div]]\n\n------\n\n[[include :scp-wiki-cn:component:anomaly-class-bar-source\n|lang= cn\n|item-number= 6101\n|clearance= 6\n|container-class= esoteric\n|secondary-class= thaumiel\n|secondary-icon=https://scp-wiki.wikidot.com/local--files/component:anomaly-class-bar/thaumiel-icon.svg\n|disruption-class= ekhi\n|risk-class= 危险\n]]\n\n------\n\n**特殊收容措施：**SCP-6101过于强大而无法收容。他应由其家人照顾好，直到下次基金会请求他的援助。\n\n**描述：**SCP-6101是史上最强的SCP。他的名字是Ethan Prosper，撰写此文时他九岁大。SCP-6101能力的最强上限仍未知，但他已经展现出了诸如飞行、大力、隐身等超能力，亦拥有漫威超级英雄们的所有能力。他异常勇敢，能做到他矢志做到的所有事情。\n\nSCP-6101随身携带有两把枪。他称之为[[span class=\"ruby\"]]恐惧与憎恶[[span class=\"rt\"]]Fear and Loathing[[/span]][[/span]]的这两把枪，分别能发射由圣光和至暗构成的子弹。他的狗Heidi（下称SCP-6101-01）是史上第二强的SCP。她极度忠诚于SCP-6101，并保护他远离一些为自身利益而企图利用他的异常组织。\n\n**事故记录：**2028年5月18日，SCP-OMEGA自其收容间中脱逃。由于无法对异常重新建立收容，站点主管Rushpa Chakarvarti呼叫SCP-6101请求支援。随后SCP-6101被MTF小队Psi-301（“作战精灵”）从他在St. Jude儿童研究医院的房间中私人护送至Site-301。\n\n在围观群众的鼓掌和欢呼声中，SCP-6101同时使用隔空移物和口头威胁能力，成功将SCP-OMEGA驱赶回它的收容室。不久，他因卓越战功被主管Chakarvarti授予一枚基金会之星。\n\n除了拯救了Site-301里的所有人之外，SCP-6101还在当地新闻台报道其英勇事迹后，成为了无数像他一样身患重病的儿童的英雄，令对[[[https://wish.org/|许愿基金会]]][[footnote]]**译注：**[[span class=\"ruby\"]]许愿基金会[[span class=\"rt\"]]Make-A-Wish Foundation[[/span]][[/span]]是一家全球性机构，致力于帮助生命垂危的儿童达成心愿。自1980年创建以来，许愿基金会已令全球超过150000名绝症儿童获得了更加丰富多彩的人生。[[/footnote]]的捐款得以激增。\n\n[[footnoteblock]]\n\n[[div class=\"footer-wikiwalk-nav\"]]\n[[=]]\n<< [[[SCP-6100]]] | SCP-6101 | [[[SCP-6102]]] >>\n[[/=]]\n[[/div]]\n\n\n[[include :scp-wiki-cn:component:license-box\n| author = PeppersGhost\n]]\n\n\n\n[[include :scp-wiki-cn:component:license-box-end]]",
+  "tags": [
+    "meta",
+    "scp",
+    "thaumiel",
+    "人形生物",
+    "动物",
+    "智能",
+    "曝光",
+    "活物",
+    "犬类"
+  ],
+  "author": "DREAlity",
+  "created_at": "2021-08-03T10:06:47+00:00",
+  "updated_at": "2023-03-23T14:21:25+00:00",
+  "rating": -3,
+  "_site": "scp-wiki-cn",
+  "_fullname": "scp-6101"
+}

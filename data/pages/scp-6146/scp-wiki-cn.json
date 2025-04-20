@@ -1,0 +1,19 @@
+{
+  "title": "SCP-6146",
+  "content": "[[include :scp-wiki-cn:theme:black-highlighter-theme]]\n[[include :scp-wiki:component:toggle-sidebar-bhl]]\n[[include :scp-wiki:theme:cyberpunk theme-number=1]]\n[[div style=\"display: none;\"]]\n[[include component:image-block name=http://scpdsandbox.wikidot.com/local--files/aftodept/hannibalbustsmol.jpg|caption=.]]\n[[/div]]\n[[=]]\n[[div]]\n[[include :scp-wiki-cn:credit:start-standalone]]\n[[=]]\n**SCP-6146：迦太基的下场永远如斯**\n\n此为[https://scp-wiki-cn.wikidot.com/department-contest 2022部门竞赛]中外太空之蝇队的第三篇作品。\n\n作者：[[*user Aftokrator]]\n\n**[http://scp-wiki.wikidot.com/aftokrator 该作者的更多作品]**\n\n[[/=]]\n[[include :scp-wiki-cn:credit:end-standalone]]\n[[/div]]\n[[/=]]\n\n[[module ListPages  category=\"fragment\" parent=\".\" limit=\"1\" order=\"created_at\" offset=\"@URL|0\"]]\n%%content%%\n[[/module]]\n\n[!-- https://scp-wiki-cn.wikidot.com/fragment:scp-6146-1 --]\n[!-- https://scp-wiki-cn.wikidot.com/fragment:scp-6146-2 --]\n[[footnoteblock]]\n\n[[div class=\"footer-wikiwalk-nav\"]]\n[[=]]\n<< [[[SCP-6145]]] | SCP-6146 | [[[SCP-6147]]] >>\n[[/=]]\n[[/div]]\n[[=]]\n[[include :scp-wiki-cn:component:license-box\n|author=Aftokrator\n|translator=vxeov\n]]\n=====\n[[<]]\n> **文件名：**hannibalbust.jpg\n> **图像名：**Mommsen_p265.jpg\n> **图像作者：**Phaidon Verlag (Wien-Leipzig)\n> **授权协议：**公有领域\n> **来源链接：** https://commons.wikimedia.org/wiki/File:Mommsen_p265.jpg\n\n> **文件名：**palaceinterior.jpg\n> **图像名：**Governors-Interior.jpg\n> **图像作者：**佚名（Photoglob Zurich photochrom）\n> **授权协议：**公有领域\n> **来源链接：** https://commons.wikimedia.org/wiki/File:Governors-Interior.jpg\n\n> **文件名：**phoenicianlingo.png\n> **图像名：**Phoenician Language.png\n> **图像作者：**MalkiShamash\n> **授权协议：**CC BY-SA 4.0\n> **来源链接：** https://commons.wikimedia.org/wiki/File:Phoenician_Language.png\n[[/<]]\n=====\n[[include :scp-wiki-cn:component:license-box-end]]\n[[/=]]",
+  "tags": [
+    "2022部门竞赛",
+    "scp",
+    "军事",
+    "历史性",
+    "叙述性",
+    "未收容",
+    "机密分级"
+  ],
+  "author": "vxeov",
+  "created_at": "2022-07-02T20:26:05+00:00",
+  "updated_at": "2022-07-02T22:03:48+00:00",
+  "rating": 4,
+  "_site": "scp-wiki-cn",
+  "_fullname": "scp-6146"
+}

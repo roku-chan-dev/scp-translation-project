@@ -1,0 +1,23 @@
+{
+  "title": "SCP-4224",
+  "content": "[!-- 如需校对和更改\nhttp://www.scp-wiki-cn.wikidot.com/fragment:aers4kpage1\nhttp://www.scp-wiki-cn.wikidot.com/fragment:aers4kpage2\nhttp://www.scp-wiki-cn.wikidot.com/fragment:aers4kpage3\nhttp://www.scp-wiki-cn.wikidot.com/fragment:aers4kpage4\n--]\n\n[[include :scp-wiki-cn:theme:black-highlighter-theme]]\n[[include :scp-wiki-cn:theme:disrememberment-theme]]\n[[include :scp-wiki-cn:component:info-ayers\n|page=scp-4224[!-- url of your page on the scp wiki --]\n|authorPage=ayers-array[!-- link to your author page --]\n|comments=\n= **//SCP-4224：历史将善待我//**\n= ^^[https://www.youtube.com/watch?v=YkADj0TPrJA 「In The Air Tonight」]^^\n-----\n**图片来源：**\n* 1) [http://scp-wiki.wdfiles.com/local--files/the-great-hippo/scp_trans.png SCP_Trans.png by The Great Hippo, CC-BY-SA 3.0]\n* 2) [https://www.geograph.org.uk/photo/1733287 Cantley Sugarbeet factory at Night by Ashley Dace, CC-BY-SA 2.0]\n* 3) [https://commons.wikimedia.org/wiki/File:Polmone_d%27acciaio_(Alvis_Motor_Company)_.jpg Polmone d'acciaio (Alvis Motor Company) by Luca Borghi, CC-BY-SA 3.0]\n \n**致谢：**\n* [[*user Uncle-Nicolini]] 的批评。\n* [[*user IndigoElks]] 的批评。\n* [[*user Gekkoguy]] 的批评。\n* [[*user incidental_cabbage]] 的鼓励和批评。\n* [[*user WrongJohnSilver]] 的批评和指出一些错误。\n* [[*user magnadeus]] 的批评。\n* [[*user MrBazzle]] 的批评。\n* [[*user Vivax]] 的批评和对文章的结尾和连贯性的大力帮助。\n* [[*user MrPines]] 制作了悬浮CSS代码。\n* [[*user Rounderhouse]] 制作了这个CSS版式。\n@@ @@\n]]\n\n[[module CSS]]\n.scp-image-caption{position: inherit;}\n.page-rate-widget-box{position: relative;bottom: 1em;}\n[[/module]]\n\n[[module CSS]]\n:root{\n    --barColour: #3a3a3a;\n}\n#page-title{\nmargin-bottom: 0px;\n}\n.info-container .collapsible-block-folded a{\ncolor: #FFF;}\n.info-container .collapsible-block-unfolded-link a{\ncolor: #FFF;}\n[[/module]]\n@@ @@\n[[module ListPages category=\"fragment\" parent=\".\" order=\"name\" limit=\"1\" offset=\"@URL|0\"]]\n%%content%%\n[[/module]]\n\n[[footnoteblock]]\n\n[[div class=\"footer-wikiwalk-nav\"]]\n[[=]]\n<< [[[SCP-4223]]] | SCP-4224 | [[[SCP-4225]]] >>\n[[/=]]\n[[/div]]",
+  "tags": [
+    "4000",
+    "scp",
+    "thaumiel",
+    "人形生物",
+    "反熵",
+    "感知力",
+    "智能",
+    "气体",
+    "活物",
+    "液体",
+    "神经性"
+  ],
+  "author": "PLASTICGUN",
+  "created_at": "2018-10-21T10:16:36+00:00",
+  "updated_at": "2020-07-21T02:27:20+00:00",
+  "rating": 10,
+  "_site": "scp-wiki-cn",
+  "_fullname": "scp-4224"
+}

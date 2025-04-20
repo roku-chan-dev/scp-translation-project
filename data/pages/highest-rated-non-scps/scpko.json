@@ -1,0 +1,13 @@
+{
+  "title": "최고 평점 비SCP",
+  "content": "이 목록은 SCP가 아닌 이야기, 실험 기록, 면담, 전후 보고, 관리상의 페이지, 약간의 크리피파스타가 들어가는 모든 페이지를 포함합니다.\n\n[[module ListPages tags=\"-scp\" rating=\">5\" order=\"rating desc\" separate=\"false\" limit=\"250\" perPage=\"50\"]]\n%%title_linked%%, 작성자 %%created_by%% (평점: %%rating%%, 덧글: %%comments%%)\n[[/module]]",
+  "tags": [
+    "허브"
+  ],
+  "author": "Dr Devan",
+  "created_at": "2013-03-01T16:34:25+00:00",
+  "updated_at": "2013-03-01T16:35:20+00:00",
+  "rating": 0,
+  "_site": "scpko",
+  "_fullname": "highest-rated-non-scps"
+}

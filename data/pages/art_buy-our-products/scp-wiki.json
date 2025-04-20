@@ -1,0 +1,17 @@
+{
+  "title": "Christmas Industries (Art Exchange)",
+  "content": "[[include :scp-wiki:theme:black-highlighter-theme]]\n[[include :scp-wiki:theme:extra-black-highlighter-theme]]\n[[include :scp-wiki:component:toggle-sidebar-bhl]]\n[[module CSS]]\n\n :root {\n    --header-title: var(--title);\n    --header-subtitle: var(--subtitle);\n    --title: \"Hunter Industries\";\n    --subtitle: \"Open yourself to our products.\";\n\n    --logo-image: url(\"http://scp-pl.wdfiles.com/local--files/hunter-industries-hub/hunterlogobasaltnew\");\n}\n[[/module]]\n\n[[include :scp-wiki:component:info-ayers\n|lang=en\n|page=component:info-ayers\n|authorPage= https://scp-wiki.wikidot.com/trouts-authorpage\n|comments= Cool art. Check out my writing!]]\n\n[[=]]\n[[module Rate]]\n[[/=]]\n\n\n[[=image http://scp-sandbox-3.wikidot.com/local--files/troutmaskreplica-exchange/Hunterindy]]\n\n\n[[=]]\n[[collapsible show=\"To Zygard\" hide=\"yo yo\"]]\nuh, hey! here's my gift for you. Sorry I couldn't *exactly* follow what you requested. I am godawful with CSS, and I couldn't think of anything to write that would expand hunter industries.\n\nInstead, I drew this. It was stressful but I'm thankful it's out by now. So, uh, here you go! If you do write any more of HI, hit me up and I might draw something else for it.\n\nThank you,\n\nYour gifter, TroutMaskReplica\n[[/collapsible]]\n[[/=]]\n----\n@@ @@\n@@ @@\n[[include component:wikimodule |ratings= --]]]",
+  "tags": [
+    "art-exchange",
+    "artwork",
+    "goi-art",
+    "poster",
+    "scp-art"
+  ],
+  "author": "TroutMaskReplica",
+  "created_at": "2023-12-28T16:40:08+00:00",
+  "updated_at": "2024-03-28T14:28:52+00:00",
+  "rating": 17,
+  "_site": "scp-wiki",
+  "_fullname": "art:buy-our-products"
+}

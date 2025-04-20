@@ -1,0 +1,15 @@
+{
+  "title": "아트워크 경연 허브 - MTF",
+  "content": "[[module css]]\n.content-panel {\n    border: none;\n    border-radius: 0px;\n    background-color: #fff;\n    margin: 10px 0 15px;\n    box-shadow: none;\n    box-shadow: none;\n}\n[[/module]]\n[[div class=\"content-panel left-column\"]]\n\n[[include component:image-block name=http://scp-wiki.wdfiles.com/local--files/art-contest-hub-mtf/Scorpion451MTF.png| caption= MTF들 by Scorpion451. [https://i.imgur.com/Es5OFGQ.png 여기서] 전체보기.]]\n\n[[include component:image-block name=http://scp-wiki.wdfiles.com/local--files/art-contest-hub-mtf/SunnyClockworkMTF.png| caption= MTF 오메가-12 \"아킬레스건\" by Sunnyclockwork. Fullview [http://scpsandbox2.wdfiles.com/local--files/sunnyclockwork/SunnyClockworkMobileTaskForces.png 여기서] 전체보기.]]\n\n[[/div]]\n[[div class=\"content-panel right-column\"]]\n[[include component:image-block name=http://scp-wiki.wdfiles.com/local--files/art-contest-hub-mtf/YugoProductionsMTF.png| caption= MTF by YugoProductions. [https://i.imgur.com/wrcKZPd.png 여기서] 전체보기.]]\n[[/div]]",
+  "tags": [
+    "2017-아트워크경연-en",
+    "en",
+    "아트워크"
+  ],
+  "author": "XCninety",
+  "created_at": "2018-02-27T02:45:28+00:00",
+  "updated_at": "2024-10-20T13:55:24+00:00",
+  "rating": 0,
+  "_site": "scpko",
+  "_fullname": "art-contest-hub-mtf"
+}

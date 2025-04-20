@@ -1,0 +1,19 @@
+{
+  "title": "SCP-CN-2792",
+  "content": "[[module ThemePreviewer noUi=\"true\" theme_url=\"https://scpwiki.github.io/sigma/css/sigma.min.css\"]]\n\n[[include :scp-wiki-cn:theme:classic]]\n\n\n=====\n\n[[div class=\"preview\"]]\n检测到字符错误，回档上一版本？（Y/N）\n[[/div]]\n[[module CSS]]\ndiv.preview { display: none; }\n[[/module]]\n\n=====\n[[>]]\n[[module rate]]\n[[/>]]\n**项目编号：**SCP-CN-2792\n\n**项目等级：**Safe\n\n**特殊收容措施：**已执行忽怠协议。\n\n**项目描述：**SCP-CN-2792是基金会于19/1/2038后所记录的一系列城市名称与基准现实出现偏差的现象，该现象影响几乎所有媒介。\n\n以下为部分实例。\n\n||~ 记录名称||~ 当前名称||\n||Санкт Петерbург||Ленинграда[[footnote]] 列宁格勒[[/footnote]]||\n||İstanbuL||Κωνσταντινούπολις[[footnote]]君士坦丁堡[[/footnote]]||\n||北 京||北平||\n||きょ都||平安京||\n||🙏יְרוּשָׁלַיִם||יְרוּשָׁלַיִם[[footnote]] 耶路撒冷 [[/footnote]]‎||\n\n基金会地球同步轨道上的休谟卫星阵列在此时间节点后记录到了若干次超出记录上限的休谟峰值，疑似为数据错误，相关检修与维护工作已提上日程。\n[[footnoteblock]]\n[[div class=\"footer-wikiwalk-nav\"]]\n[[=]]\n<< [[[SCP-CN-2791]]] | SCP-CN-2792 | [[[SCP-CN-2793]]] >>\n[[/=]]\n[[/div]]",
+  "tags": [
+    "2024噤声短文竞赛",
+    "safe",
+    "scp",
+    "历史性",
+    "原创",
+    "现实扭曲",
+    "电脑"
+  ],
+  "author": "Lambda Core",
+  "created_at": "2024-04-30T09:11:16+00:00",
+  "updated_at": "2025-01-02T18:10:47+00:00",
+  "rating": 10,
+  "_site": "scp-wiki-cn",
+  "_fullname": "scp-cn-2792"
+}

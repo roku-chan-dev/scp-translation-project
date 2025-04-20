@@ -1,0 +1,14 @@
+{
+  "title": "サーバー上のファイル",
+  "content": "[[include :scp-jp:theme:black-highlighter-theme]]\n[[include :scp-jp:theme:extra-black-highlighter-theme]]\n[[include :scp-jp:component:hide-tags]]\n[[module css]]\n.page-tags  {\ndisplay:none\n}\n\ndiv.pseudo-tags ul {\n    font-size: 85%;\n    border-top: 1px solid #BBB;\n    display: inline-block;\n    margin: 10px 0 0;\n    padding: 0 2px;\n    list-style: none;\n}\n\ndiv.pseudo-tags li {\n    color: #b01;\n    text-decoration: none;\n    display: inline-block;\n    margin: 0 1px;\n    cursor: pointer;\n}\n\ndiv.pseudo-tags li:hover {\n    text-decoration: underline;\n}\n[[/module]]\n\n[[include component:object-warning-box-source\n|bg-image=http://scp-jp-storage.wikidot.com/local--files/file:6673216-112-539r/SCP_Foundation_%28emblem%29.svg\n|bg-opacity=0.15\n|text-top=監督評議会命令\n|text-bottom=以下のファイルはレベル6/001機密情報です。\n**無許可のアクセスは禁止されています。**\n|object-number=001\n]]\n\n[[include component:anomaly-class-bar-source\n|item-number= 001\n|clearance= 6\n|container-class= esoteric\n|secondary-class= principalis\n|secondary-icon= http://scp-jp-storage.wikidot.com/local--files/file:5722815-44-luto/principalis-icon-png.png\n|disruption-class= amida\n|risk-class= notice\n]]\n\n-----\n\n[[include component:image-block name=allthingsmustend.png|align=center|width=700px|caption=全てを終わらせなければならない]]\n\n-----\n\n**特別収容プロトコル:** SCP-001の収容体制の確立は財団監督評議会の義務です。\n\n**説明:** SCP-001の本質を知る事は財団の本質を知る事です。\n\n詳細は//文書001-GOI.01-Operatus//を確認してください。\n\n**補遺001.1:** 付属文書\n\n[[collapsible show=\"解読キーを入力してください。\" hide=\"解読中…\"]]\n@@@@\n@@@@\n[[=]]\n[[div style=\"display: inline-block; border: dashed 1px #444444; margin-left: auto; margin-right: auto; width: 380px; padding: 10px\"]]\n最初の人はただ1人立ち尽くした\n不毛の土地の只中に\nそして彼は遠くに見た\n鍵の掛かる門を\n最大の恥辱を封じられた門を。\n \n彼は蛇を見遣った\nまるで蚯蚓のように\n腹でのたうつソレを\nそして彼はその裏切りを呪った。\n \n「私を騙したな」男は言った\n「私を堕落へと誘い\nそして我々は地獄に落とされたのだ。」\n \n蛇は嘆息した。\n「私は君に知恵を与えた」ソレは言った\n「そしてその知恵で\n君は君自身の選択を決めた。\nそれは私が変わってしてやれる事ではない。」\n \n男は叫んだ\n「どちらにしても同じだ、お前を信じた事こそが\n私の最大の過ちだったのだ。」\n\n「違うよ」ヘビは言った\n「君の最大の過ちは、\n君に選択肢などが有ったと思った事だ。」\n@@@@\n@@@@\n- -- -\n@@@@\n@@@@\n[[div style=\"display: inline-block; border: solid 1px #000000; background-color: #F5F5F5 ; width: 300px;\"]]\n[http://ja.scp-wiki.net/djkaktus-s-proposal-iii/offset/1 文書001-GOI.01-Operatusにアクセスします]\n[[/div]]\n[[/div]]\n[[/=]]\n[[/collapsible]]\n\n@@ @@",
+  "tags": [
+    "en",
+    "フラグメント"
+  ],
+  "author": "Monidrake",
+  "created_at": "2018-12-10T13:40:33+00:00",
+  "updated_at": "2024-10-16T11:34:36+00:00",
+  "rating": 5,
+  "_site": "scp-jp",
+  "_fullname": "fragment:djkaktus-s-proposal-iii-0"
+}

@@ -1,0 +1,14 @@
+{
+  "title": "SCP-1871-KO(오프셋 3)",
+  "content": "[[include :scpko:component:centered-header-bhl]]\n[[module CSS]]\n:root:lang(ko) {\n    --toggle-roundness: 0%;\n}\n\n.footnoteref{\ncolor: #FF5555;\n}\n\n.danke{\npadding: 5px 5px 5px 15px;\nmargin-bottom:10px;\nfont-family: monospace;\nfont-size: 1.1em;\n}\n\n.agent{\nbackground-color:#002200;\nborder: 3px solid #55AA55;\ncolor: #77CC77;\n}\n[[/module]]\n[[include :scpko:component:askheader\n|item=SCP-1871-KO\n|containment=잠정적 무효\n|cont-text-color=#FAFAFA\n|cont-bg-color=#A9A9A9\n|level=3\n|lev-text=신임\n|sec-text=기밀 처리됨\n]]\n**특수 격리 절차:** SCP-1871-KO가 아직 확정적으로 무효화된 것이 아니기에, 대상의 표적으로 선정된 인물을 빠른 시간 내에 찾아낼 수 있게끔 하는 프로토콜의 개발은 여전히 계속해서 이어지고 있다.\n\n2024년 8월 4일 실종된 김택 연구원과 SCP-1871-KO의 잠정적 무효화 사이의 연관성이 조사 중에 있다.\n\n**설명:** SCP-1871-KO는 GoI-5889 \"비칸데르니드 테크니컬미디어\"에 의해 제작된 정보재해 인자로, 대중매체를 통해 이미 범세계적으로 널리 파급되어 있었으며 특정한 인물을 표적으로 해 렘수면을 통한 후천성 반사회적 성격 장애를 일으키는 특성을 보유하고 있었다. 잠정적 무효화 직전, SCP-1871-KO의 표적으로 선정되어 있었던 인물은 제21K기지 철학과 소속의 3등급 연구원 김택으로, 대상의 영향으로부터 50일 이상 저항하는 이례적인 모습을 보여주었었다.\n\n이후 2024년 8월 4일, 김택 연구원이 자택근무 도중 갑작스럽게 실종되었으며, 뒤이어 재단 밈학부에서 SCP-1871-KO가 예기치 못하게 잠정적으로나마 무효화되었음을 확인하였다. 현장에 설치되어 있었던 칸트 계수기를 회수해 김택 연구원의 실종 시각의 기록을 조회한 결과, 해당 시점의 흄 준위가 비정상적으로 높았다는 점을 근거로 택 연구원이 모종의 변칙성에 의해 외부차원으로 끌려들어갔다는 가설이 제시되었으나, 근거가 불충분함에 따라 해당 주장은 아직 가설의 단계를 벗어나지 못하고 있다. 또한, 해당 사건과 SCP-1871-KO의 잠정적 무효화가 관련이 있는지에 대한 여부 역시 아직 알려진 바가 없는 상태이다.\n\n= **{{END OF FILE}}**\n------\n\n@@@@\n@@@@\n\n[[=]]\n■\n\n■\n\n■\n[[/=]]\n\n@@@@\n@@@@\n\n[[div class=\"danke agent\"]]\n__> **로그아웃**__\n[[/div]]\n\n@@@@\n@@@@\n\n[[div class=\"danke agent\"]]\n| 로그아웃 중...\n\n@@@@\n@@@@\n\n[[=]]\n\n**.**\n\n**.**\n\n**.**\n\n@@@@\n@@@@\n\n//모든 것을 파괴하지만 정복하진 못하는 고래여//\n//나는 너를 향해 나아간다//\n//너와 끝까지 맞붙어 싸우고//\n//지옥 한복판에서 너를 찌르고//\n//증오어린 내 마지막 숨을 너에게 뱉어 주마//\n\n^^- 『모비 딕』(허먼 멜빌 作) 에서 발췌^^\n\n@@@@\n@@@@\n\n**.**\n\n**.**\n\n**.**\n[[/=]]\n\n@@@@\n@@@@\n\n| ...로그아웃 완료됨. 안녕히 가십시오, **김택** 연구원.\n[[/div]]\n@@@@\n@@@@",
+  "tags": [
+    "ko",
+    "조각문서"
+  ],
+  "author": "Agent S K",
+  "created_at": "2024-09-15T14:54:23+00:00",
+  "updated_at": "2025-03-24T02:06:02+00:00",
+  "rating": 1,
+  "_site": "scpko",
+  "_fullname": "fragment:scp-1871-ko-3"
+}

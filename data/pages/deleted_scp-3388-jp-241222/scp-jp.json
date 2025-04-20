@@ -1,0 +1,11 @@
+{
+  "title": "SCP-3388-JP",
+  "content": "[[include :salt-box-2:as-foxtrot-cutsom]]\n[[module CSS]]\n:root {\n    --body-bg: linear-gradient(0deg,rgba(0,0,0,0.6) 0,rgba(0,0,0,0.6) 100%), url(http://scp-jp-storage.wikidot.com/local--files/file:8307275-113-tmsw/Office_space_and_stairs.jpg);\n}\n\n.sacs-v4_attribute-2 {\n       --clr-clearance: 118,178,193 !important;\n}\n[[/module]]\n[[include :scp-jp:credit:start]]\n**タイトル:** SCP-3388-JP - 最高層から奈落がどう見えるだろうか\n**著者:** [[*user salt-A]]\n**作成年:** 2024\n[[include :scp-jp:credit:cc4]]\n[[include :scp-jp:credit:end]]\n\n[[div class=\"notation quartz\"]]\n\n[[include :scp-wiki:component:slim-acs-source | inc-wide=-- | inc-no-item=--\n|item-number=3388-JP\n|clearance=2\n|container-class=uncontained\n]]\n\n[[/div]]\n\n@@@@\n@@@@\n@@@@\n@@@@\n@@@@\n\n[[div class=\"notation quartz\"]]\n**特別収容プロトコル:** N/A\n[[/div]]\n\n@@@@\n@@@@\n@@@@\n@@@@\n@@@@\n\n[[div class=\"notation quartz\"]]\n**説明:** SCP-3388-JPはサイト-8115の地上1035階に存在しているオフィスに配属されている財団職員、南雲 重正事務員です。オフィスに備え付けられている内部無線を用いてのSCP-3388-JPとの対話が可能ですが、サイト-8115に地上1035階は存在していないことに留意してください。\n\nSCP-3388-JPは2014/12/2まで通常通りの勤務を行っており、財団もそれに応じていましたが、2014/12/2時点でSCP-3388-JPとの連絡が途絶しています。詳細は補遺3388-JP/Iを参照してください。\n[[/div]]\n\n@@@@\n@@@@\n@@@@\n@@@@\n@@@@\n\n[[div class=\"notation cinnabar\"]]\n**補遺3388-JP/I:** 2014/12/2、財団の衛星カメラを用いてサイト-8115-JPの上空を撮影する試みが行われました。以下は直前に行われたSCP-3388-JPとの会話記録です。\n[[div class=\"blockquote matcha\"]]\n[[=]]\n<記録開始>\n[[/=]]\n(SCP-3388-JPのオフィスとの無線通信がオンになる)\n\n**田島博士:** えーと。重正君、聞こえるだろうか？\n\n**SCP-3388-JP:** はい、聞こえますよ。次の仕事でしょうか？\n\n**田島博士:** いや、そうではなくてだな。衛星カメラで君の居るオフィスを撮影しようと思う。\n\n**SCP-3388-JP:** なるほど、分かりました。ですがそんなこと、わざわざ連絡してくれなくてもよかったんですよ？\n\n**田島博士:** 何と言うべきか、サイト-8115に地上1035階なんてものは存在しないというのは知っているだろう？\n\n**SCP-3388-JP:** えっ？何言ってるんですか。僕は実際に1035階から通信していますし、あなたも1035階の僕に話しかけているじゃないですか。\n\n**田島博士:** いや、そうなんだが……とにかく、映像を送信する。\n\n(衛星カメラがサイト-8115の上空を視認する)\n\n**SCP-3388-JP:** あっ。\n\n(SCP-3388-JPとの通信が途絶する)\n\n**田島博士:** もしもし、もしもし？\n\n[[=]]\n<記録終了>\n[[/=]]\n[[/div]]\n\n上記の通信途絶から約3分後、サイト-8115の屋上にて不明な実体の死体が発見されました。死体からはSCP-3388-JPの情報が記録されたIDカードが発見されました。\n\n死因は高所からの落下死であるとされています。\n[[/div]]",
+  "tags": [],
+  "author": "salt-A",
+  "created_at": "2024-12-16T16:44:51+00:00",
+  "updated_at": "2024-12-22T13:22:14+00:00",
+  "rating": -12,
+  "_site": "scp-jp",
+  "_fullname": "deleted:scp-3388-jp-241222"
+}

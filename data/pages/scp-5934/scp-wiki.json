@@ -1,0 +1,25 @@
+{
+  "title": "SCP-5934",
+  "content": "[[>]]\n[[module rate]]\n[[/>]]\n[[div style=\"border:solid 1px #999999; background:#f2f2c2; padding:5px; margin-bottom: 10px;\"]]\n[[=]]\n++++ NOTICE FROM THE FOUNDATION RECORDS AND INFORMATION SECURITY ADMINISTRATION \n\n[[span style=\"color:red\"]]**CONTENT WARNING:**[[/span]]  The following contains content related to [[span style=\"color:red\"]]**SELF-HARM.**[[/span]]  Reader discretion is advised.\n\n-- Maria Jones, Director, RAISA\n[[/=]]\n[[/div]]\n\n\n[[module ListPages category=\"fragment\" parent=\".\" order=\"created_at\" limit=\"1\" offset=\"@URL|0\"]]\n%%content%%\n[[/module]]\n\n\n[[footnoteblock]]\n[[div class=\"footer-wikiwalk-nav\"]]\n[[=]]\n<< [[[SCP-5933]]] | SCP-5934 | [[[SCP-5935]]] >>\n[[/=]]\n[[/div]]\n\n\n[[include :scp-wiki:component:license-box]]\n=====\n> **Filename: https://live.staticflickr.com/8521/8685602790_579cdbbd57_b.jpg** \n> **Name:  Prison Hill Trail, Carson City** \n> **Author: Nouhailler**\n> **License: CC BY-SA 2.0 **\n> **Source Link:  https://www.flickr.com/photos/7737054@N07/8685602790**\n=====\n[[include :scp-wiki:component:license-box-end]]",
+  "tags": [
+    "_cc",
+    "_licensebox",
+    "_listpages",
+    "computer",
+    "dental",
+    "ethics-committee",
+    "inscription",
+    "knowledge",
+    "mechanical",
+    "reality-bending",
+    "safe",
+    "sapient",
+    "scp"
+  ],
+  "author": "quickestsilver",
+  "created_at": "2021-04-23T04:17:18+00:00",
+  "updated_at": "2022-10-01T17:58:41+00:00",
+  "rating": 101,
+  "_site": "scp-wiki",
+  "_fullname": "scp-5934"
+}

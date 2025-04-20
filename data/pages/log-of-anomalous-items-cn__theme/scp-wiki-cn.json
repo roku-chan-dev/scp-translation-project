@@ -1,0 +1,11 @@
+{
+  "title": "log-of-anomalous-items-cn:_theme",
+  "content": "[[code type=\"CSS\"]]\n#header, #side-bar, #page-title, #breadcrumbs, .page-tags, #page-options-container, #footer, #license-area, #odialog-shader-iframe, #odialog-shader, #odialog-container, .page-only {\n  display: none !important;\n}\n#content-wrap {\n  margin: 0 auto;\n}\n#main-content {\n  margin: 0;\n}\n.iframe-only {\n  display: block !important;\n}\n\n.page-rate-widget-box {\n    display: inline-block;\n    border-radius: 5px;\n    box-shadow: 1px 1px 3px rgba(0,0,0,.5);\n    margin-top: 2px;\n}\n.page-rate-widget-box .rate-points {\n    background-color: #633 !important;\n    border: solid 1px #633;\n    border-right: 0;\n    border-radius: 5px 0 0 5px;\n}\n.page-rate-widget-box .rateup,\n.page-rate-widget-box .ratedown {\n    background-color: #fff6f0;\n    border-top: solid 1px #633;\n    border-bottom: solid 1px #633;\n    font-weight: bold;\n}\n.page-rate-widget-box .rateup a,\n.page-rate-widget-box .ratedown a {\n    background: transparent;\n    color: #633;\n    padding: 0 4px;\n    margin: 0 1px;\n}\n.page-rate-widget-box .rateup a:hover,\n.page-rate-widget-box .ratedown a:hover {\n    background: #633;\n    color: #fffff0;\n    text-decoration: none;\n}\n.page-rate-widget-box .cancel {\n    background-color: #633;\n    border: solid 1px #633;\n    border-left: 0;\n    border-radius: 0 5px 5px 0;\n}\n.page-rate-widget-box .cancel a {\n    background: transparent;\n    text-transform: uppercase;\n    color: #966;\n}\n.page-rate-widget-box .cancel a:hover {\n    border-radius: 0 3px 3px 0;\n    background: #633;\n    color: #fffff0;\n    text-decoration: none;\n}\n[[/code]]",
+  "tags": [],
+  "author": "Sekai_s",
+  "created_at": "2020-03-31T15:40:14+00:00",
+  "updated_at": "2020-03-31T15:40:14+00:00",
+  "rating": 0,
+  "_site": "scp-wiki-cn",
+  "_fullname": "log-of-anomalous-items-cn:_theme"
+}

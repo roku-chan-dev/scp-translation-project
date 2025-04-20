@@ -1,0 +1,19 @@
+{
+  "title": "SCP-1190-KO",
+  "content": "[[include :scpko:info:start]]\n**SCP-1190-KO** - 갱신이 있을때마다 확인을 요함\n\n**저자:** [[*user CatSi]]\n\n**조각문서:**\nhttp://scpko.wikidot.com/fragment:scp-1190-ko-1\nhttp://scpko.wikidot.com/fragment:scp-1190-ko-2\n\n[[include :scpko:info:end]]\n\n[[module ListPages  category=\"fragment\" parent=\".\" limit=\"1\" order=\"created_at\" offset=\"@URL|0\"]]\n%%content%%\n[[/module]]",
+  "tags": [
+    "2023-기지경연-ko",
+    "ko",
+    "scp",
+    "공간",
+    "문서",
+    "유클리드",
+    "현실조작"
+  ],
+  "author": null,
+  "created_at": "2023-10-31T14:12:51+00:00",
+  "updated_at": "2023-11-01T13:28:10+00:00",
+  "rating": 22,
+  "_site": "scpko",
+  "_fullname": "scp-1190-ko"
+}

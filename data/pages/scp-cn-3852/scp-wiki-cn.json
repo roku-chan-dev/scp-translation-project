@@ -1,0 +1,19 @@
+{
+  "title": "SCP-CN-3852",
+  "content": "[[module CSS]]\ndiv#page-info {\n    display: none !important;\n}\n\ndiv.pager {\n    display: none !important;\n}\n[[/module]]\n[[include component:ratio-bar base=-- |ex=--]]\n[[include :scp-wiki-cn:credit:start]]\n= **SCP-CN-3852** - 骨头架\n图源https://pixabay.com/zh/illustrations/skeletons-halloween-skull-creepy-6863548/ \n\n灵感来自于同属死亡终结世界观下的[https://scp-wiki-cn.wikidot.com/impossible-to-destroy-reptile 《无灭孽蜥》]\n[[include :scp-wiki-cn:credit:end]]\n\n\n[[div style=\"border:solid 1px #999999; background:#f2f2c2; padding:5px; margin-bottom: 10px;\"]]\n[[=]]\n[[size larger]] **基金会记录与信息安全管理部的通知** [[/size]]\n\n以下内容涉及一个现已被认为//无效化//的项目，您当前查阅的为已归档版本。\n\n[[/=]]\n[[/div]]\n\n@@@@\n@@@@\n\n[[include component:image-block\n| name=http://scpsandboxcn.wikidot.com/local--files/ills7/SCP-CN-3852.jpg\n| caption=SCP-CN-3852的自画像\n| width=150px\n]]\n\n**项目编号：**SCP-CN-3852\n\n**项目等级：**--Euclid--Neutralized\n\n**特殊收容措施：**SCP-CN-3852现被收容于Site-CN-540右翼的一间标准低威胁性人形收容室内。允许项目每周阅读一本书籍。每日需对项目进行保养工作。\n\n## blue |以上特殊收容措施已作废。现除对项目进行观察工作外，无需其他任务。##\n\n##  blue |**（增添于12/6/2027）**现无需对项目进行任何工作，具体原因请参阅描述。##\n\n**描述：**SCP-CN-3852是一具可自行行动的人类骨骼结构，其颅内存在活性脑组织。身高约1.84米，体重约10千克。\n\n项目具备近似常人水平的视觉、听觉及嗅觉，其感知机制尚未明确。项目无需进食及新陈代谢行为维持存在。尽管SCP-CN-3852缺少肌肉组织和可见的神经系统，但其仍然能以常人的速度行走和奔跑。\n\nSCP-CN-3852拥有生前的大部分记忆。项目能以中文进行口头与书面的交流。项目在大部分时候表现得沉默寡言，且以消极态度回应他人的交流。经韦氏智力测试确认，SCP-CN-3852智商高达189。SCP-CN-3852在人文社科领域展现出广泛的知识储备。值得注意的是，尽管项目知道自己为骷髅状，但其仍坚信自身与常人并无差异。\n\n颅骨复原技术表明项目为一名东亚人种男性。经比对后，确认SCP-CN-3852生前为一名中国公民，姓名为周山。项目死因不明，骨骼无砍击口或毒痕，推测系病逝[[footnote]] 项目自述及住院记录表明，其生前患有晚期肺癌。 [[/footnote]]。已向项目的亲人、女友、友人传达项目的讣告。\n\n项目最初被发现于长沙市██街道处，当时SCP-CN-3852在一家花店内，试图买花，基金会特工在接到从长沙警察局转入的报警电话后，成功控制项目。已对所有目睹过项目的人员施以B级记忆删除。\n\n## blue |自ΩK级“死亡终结”情景发生后，生物在仅保留骨骼与脑组织的情况下仍能存活，且可以做到保留五感。因此，SCP-CN-3852被认为已常态化，并将项目等级归为Neutralized。应伦理道德委员会的要求，在对项目进行为期六个月的社会培训，并针对有关基金会的记忆施以B级记忆删除后，项目从Site-CN-540中释放，并就近被安排在一家前台公司从事销售工作。##\n\n## blue |**（增添于12/6/2027）**SCP-CN-3852已完全适应帷幕外世界，并与生前仍保持交往的女友确立婚姻关系。二人购入一间高层洋房，养有一只金毛犬。据项目的邻居描述，其平日“乐于助人，经常爽朗地笑，是个好丈夫，好邻居”。经评估，已无需再对项目进行观察。所有有关SCP-CN-3852的记录已归档，存入基金会数据库，供历史查阅。##\n@@@@\n@@@@\n@@@@\n[[footnoteblock]]\n[[div class=\"footer-wikiwalk-nav\"]]\n[[=]]\n<< [[[SCP-CN-3851]]] | SCP-CN-3852 | [[[SCP-CN-3853]]] >>\n[[/=]]\n[[/div]]",
+  "tags": [
+    "scp",
+    "人形生物",
+    "原创",
+    "无效化",
+    "智能",
+    "死亡终结",
+    "骨骼"
+  ],
+  "author": "ILLS3",
+  "created_at": "2025-02-26T12:03:23+00:00",
+  "updated_at": "2025-03-01T12:02:56+00:00",
+  "rating": 55,
+  "_site": "scp-wiki-cn",
+  "_fullname": "scp-cn-3852"
+}

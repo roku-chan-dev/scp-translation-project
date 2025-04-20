@@ -1,0 +1,16 @@
+{
+  "title": "莫奇沃特中心页",
+  "content": "[[module ListPages category=\"fragment\" parent=\".\" order=\"created_at\" limit=\"1\" offset=\"@URL|0\"]]\n%%content%%\n[[/module]]",
+  "tags": [
+    "2022电子游戏竞赛",
+    "crossover项目",
+    "原创",
+    "故事"
+  ],
+  "author": null,
+  "created_at": "2022-03-26T05:29:55+00:00",
+  "updated_at": "2022-03-26T05:59:07+00:00",
+  "rating": 35,
+  "_site": "scp-wiki-cn",
+  "_fullname": "murkywater"
+}

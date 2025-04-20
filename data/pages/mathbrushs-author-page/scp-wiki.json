@@ -1,0 +1,15 @@
+{
+  "title": "Mathbrush's Author Page",
+  "content": "[[>]]\n[[module Rate]]\n[[/>]]\n+ Assistant Secretary Mathbrush's Author Page\n\n++ Useful Links for Me to Remember\n\n[http://www.scp-wiki.net/how-to-become-a-better-critic How to become a better critic]\n\n\n++ SCP's\n\nNow with more mise-en-abime.\n\n[[module ListPages created_by=\"MathBrush\" order=\"rating desc\" separate=\"no\" perPage=\"250\" prependLine=\"||~ SCP Number ||~ Rating ||~ Comments ||~ Created ||~ Last Comment ||\"]] \n|| %%title_linked%% || %%rating%% || %%comments%% || %%created_at%% || %%commented_at%% ||\n[[/module]]\n\n+ Collaborations\n\nWith [[*user Adl3z_]]\n\n[[module ListPages name=\"SCP-4221\" order=\"rating desc\" separate=\"no\" perPage=\"250\" prependLine=\"||~ SCP Number ||~ Rating ||~ Comments ||~ Created ||~ Last Comment ||\"]] \n|| %%title_linked%% || %%rating%% || %%comments%% || %%created_at%% || %%commented_at%% ||\n[[/module]]\n\n++\nThanks to those who have used or remixed these works in their own content! Shout out to Dr Bob for the animation for SCP-4032, Dr. Cimmerian and others for reading SCP-4500, and the translators of some of my SCP's. Thanks to SunnyClockwork for the SCP-4500 art!\n\n++ Interactive Fiction\n\nBefore I started writing on SCP-Wiki, I wrote a several interactive fiction games (text adventures), which are listed at [http://ifdb.tads.org/showuser?id=nufzrftl37o9rw5t the Interactive Fiction Database].\n\n\n[[collapsible show=\"-\"]]\nGroups to write about:\n\nBlack Queen\nChicago Spirit\nHorizon Initiative\nManna Charitable Foundation\nOneiroi\nUIU\nWW\n[[/collapsible]]",
+  "tags": [
+    "audio",
+    "author",
+    "interactive"
+  ],
+  "author": "MathBrush",
+  "created_at": "2018-11-03T00:30:54+00:00",
+  "updated_at": "2024-03-07T01:36:35+00:00",
+  "rating": 30,
+  "_site": "scp-wiki",
+  "_fullname": "mathbrushs-author-page"
+}

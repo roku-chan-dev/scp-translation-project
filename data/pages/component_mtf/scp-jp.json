@@ -1,0 +1,14 @@
+{
+  "title": "機動部隊アイコン",
+  "content": "[[span class=\"mtfIcon\" style=\"border: solid 2px {$c2}; background-color: {$c3}; background: linear-gradient(to bottom right, {$c3},{$c2}); color: {$c0};\"]][[span class=\"letter\" style=\"text-shadow: {$c2} 1px 1px;\"]]{$letter}[[/span]][[span class=\"number\" style=\"color: {$c1}; text-shadow: {$c2} 1px 1px;\"]]{$number}[[/span]][[/span]] [[size 110%]]機動部隊**{$title}** (\"{$nick}\")[[/size]]",
+  "tags": [
+    "en",
+    "コンポーネント"
+  ],
+  "author": "Dr Devan",
+  "created_at": "2014-02-25T11:05:53+00:00",
+  "updated_at": "2021-12-24T15:57:43+00:00",
+  "rating": 7,
+  "_site": "scp-jp",
+  "_fullname": "component:mtf"
+}

@@ -1,0 +1,17 @@
+{
+  "title": "SCP-299-FR",
+  "content": "[[include credit:start]]\n**Titre:** 113-B\n**Original:** http://fondationscp.wikidot.com/scp-299-fr par [[*user Dr Grym]]\n**Traducteur:** [[*user XCninety]]\n[[include credit:end]]\n\n\n[[include component:image-block name=http://fondationscp.wikidot.com/local--files/scp-299-fr/113.gif|caption=SCP-299-FR이 만들어낸 문자열. 확보 후 검열되었다.|width=300px]]\n\n**일련번호:** SCP-299-FR\n\n**위협 등급:** 흑색\n\n[[include component:menace lv=black]]\n\n**등급:** 케테르\n\n**특수 격리 절차:** SCP-299-FR은 그 특성상 현재 격리할 수 없다.\n4개의 서로 다른 프로그램이 각각 별도의 서버에 위치한 채로 재단에 속하는 서버 및 네트워크 일체를 매일 주시하여 SCP-299-FR과 관련되었을 법한 변경 사항이 있는지 확인한다. 재단의 보안에 직결되는 파일 및 네트워크는 그 중요도에 따라 우선순위를 조정한다.\n\n어떤 파일 및 코드, 네트워크 등이 SCP-299-FR에 오염된 것으로 확인된다면 반드시 분리 및 고립, 복사, 소제해야 한다.\n\nSCP-299-FR이 비디지털화된 파일 및 기타 문자열을 오염시켰다면 최대한 빨리 파괴해야 한다.\n\n서로 다른 파일 유형을 동시에 사용하면 SCP-299-FR의 오염 전파를 늦추거나 방지할 수 있는 것으로 밝혀졌다.\n\nSCP-299-FR이 발견되는 문서가 있다면 재단과의 관계 여부를 막론하고 즉시 신고해야 한다.\n\n**설명:**\n[[collapsible show=\"+ SCP-299-FR 전파 위험 방지를 위하여 처리된 설명\" hide=\"- SCP-299-FR 전파 위험 방지를 위하여 처리된 설명\"]]\n[[include component:image-block name=113-1.gif|caption= [SCP-299-FR 오염 차단을 위해 저장된 문서]|width=700px]]\n[[/collapsible]]\n\n\n[[collapsible show=\"+ SCP-299-FR 전파 위험 방지를 위하여 처리된 부록\" hide=\"- SCP-299-FR 전파 위험방지를 위하여 처리된 부록\"]]\n[[include component:image-block name=113-2.gif|caption= [SCP-299-FR 오염 차단을 위해 저장된 문서]|width=700px]]\n[[/collapsible]]",
+  "tags": [
+    "fr",
+    "scp",
+    "노틸러스호",
+    "컴퓨터",
+    "케테르"
+  ],
+  "author": "XCninety",
+  "created_at": "2021-01-27T09:23:52+00:00",
+  "updated_at": "2024-03-20T03:47:38+00:00",
+  "rating": 6,
+  "_site": "scpko",
+  "_fullname": "scp-299-fr"
+}

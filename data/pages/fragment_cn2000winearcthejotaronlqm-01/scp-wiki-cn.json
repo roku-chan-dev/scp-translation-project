@@ -1,0 +1,13 @@
+{
+  "title": "Cn2000winearcthejotaronlqm 01",
+  "content": "[[>]]\n[[module rate]]\n[[/>]]\n[[include :scp-wiki-cn:theme:black-highlighter-theme]]\n[[include :scp-wiki:component:bhl-dark-sidebar]]\n[[module CSS]]\nsup {\n    vertical-align: top;\n    position: relative;\n    top: -0.5em;\n}\n \n:root {\n    --cutColour: #fafafa;\n    --barColour: #590505;\n}\n \n.translation_block {\n    display: none;\n}\n \n.info-container .collapsible-block-folded a {\n    color: #FFF;\n}\n \n.info-container .collapsible-block-unfolded-link a {\n    color: #FFF;\n}\n \n.info-container .collapsible-block-link,\n.info-container:hover .collapsible-block-link {\n    line-height: 1.6em;\n}\n[[/module]]\n \n\n[[div style=\"border:solid 1px #999999; background:#f2f2c2; padding:5px; margin-bottom: 10px;\"]]\n[[=]]\n++++ 来自记录与信息安全管理部的提示\n\n//你正在阅览的是本文档的过期版本，保留供后人参考。需注意，其中的信息也许并不正确，且可能造成误解。\n当前文档的编辑时间为：地球历2001/5/10。\n编辑者：Site-CN-10 C级研究员Fate Zenerry//\n\n[[/=]]\n[[/div]]\n------\n[[include :scp-wiki-cn:component:classified-bar-woed\n|lv=1\n|item=CN-2700\n|oc=Safe\n|lang=CN\n]]\n-----\n\n**特殊收容措施：**由于SCP-CN-2700本身的性质，目前认为无必要对其进行收容，且截至本文档最后一次编辑为止，尚未有任何干涉SCP-CN-2700的方案被提出。考虑到SCP-CN-2700对于基金会对其他异空间异常的收容工作的帮助作用，正考虑将其重分级为Thamuiel级。\n \n**描述：**SCP-CN-2700是一种迄今为止基金会所收容的99.█%以上的异空间异常中出现的共同现象。SCP-CN-2700的主要表现为在受到SCP-CN-2700影响的异空间类异常中，忽略异常性质的影响，测定的一系列基本的宇宙常数（包括但不限于:真空光速、引力常数、自然常数、圆周率等）与基金会所处现实基本类似。且通往此异空间的出口的位置几乎总是位于一个与地球全新世（大气成分、温度与气压）环境高度相似的环境中，该环境使普通人类得以在无特殊辅助装置帮助的情况下直接进入，而不导致其出现除此异常导致的异常现象外的死亡或严重不适。\n\n需要注意的是，仍有极少量的空间性异常中并未出现SCP-CN-2700现象，原因尚在调查中。\n\n**附录CN-2700-A：Dr.Zenerry的留言**\n> //虽然有些人可能会认为SCP-CN-2700这种现象非常稀疏平常，甚至是理所应当的（虽然我至今也不是很理解他们为何会这么想），觉得它不应该被列为一个SCP项目，但是鉴于我们目前发展出的任何一种解释这种异空间异常和我们所在的现实之间的具体关系的理论能够真正说明SCP-CN-2700现象的成因，那么，就算是作为一个学术目标，它在数据库上也是有存在的意义的——毕竟，无法用常理解释的，谓之异常。//\n> [[>]]\n> //{{——Dr.Zenerry}}//\n> //{{2001.05.10}}//\n> [[/>]]\n\n@@@@\n[[div style=\"border:solid 1px #999999; background:#f2f2c2; padding:5px; margin-bottom: 10px;\"]]\n[[>]]\n//[http://scp-wiki-cn.wikidot.com/scp-cn-2700/offset/1 →下一迭代]//\n[[/>]]\n[[/div]]",
+  "tags": [
+    "段落"
+  ],
+  "author": "Wine_Arc",
+  "created_at": "2021-02-22T06:01:19+00:00",
+  "updated_at": "2021-11-12T03:27:26+00:00",
+  "rating": 0,
+  "_site": "scp-wiki-cn",
+  "_fullname": "fragment:cn2000winearcthejotaronlqm-01"
+}

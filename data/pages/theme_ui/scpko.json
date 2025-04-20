@@ -1,0 +1,14 @@
+{
+  "title": "특이수사 CSS 테마",
+  "content": "[[module CSS]]\n@import url(https://scpko.wdfiles.com/local--code/theme%3Aui/1);\n[[/module]]\n\n[[iftags +테마]]\n[[>]]\n[[module Rate]]\n[[/>]]\n\n[[[unusual-investigations|케네스 스펜서와 로빈 손의 특이수사 연작]]]용 테마. 사용법:\n\n> @@[[include theme:ui]]@@\n\n[[code type=\"CSS\"]]\n/*\n    Unusual Investigations Theme\n    [2017 Wikidot Theme]\n    Created by GreenWolf.\n    Based on SCP Sigma 9 Theme created by Aelanna and Dr Devan.\n    The UIU logo was created by Zhange and is licensed under CC-BY-SA 3.0\n    Revised by stormbreath\n*/\n\n@import url(https://scp-wiki.wdfiles.com/local--code/theme%3Aui/1);\n\n\n#header h1 a::before {\n    content: \"연방수사국\";\n}\n\n\n#header h2 span::before {\n    content: '특이사건반 스리포틀랜즈 사무소';\n    color: #F1F1F1;\n    text-shadow: 1px 1px 1px rgba(0,0,0,.8);\n}\n\n[[/code]]\n[[/iftags]]",
+  "tags": [
+    "en",
+    "테마"
+  ],
+  "author": "XCninety",
+  "created_at": "2018-04-26T14:29:13+00:00",
+  "updated_at": "2022-06-25T20:23:45+00:00",
+  "rating": 0,
+  "_site": "scpko",
+  "_fullname": "theme:ui"
+}

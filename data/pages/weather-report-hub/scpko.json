@@ -1,0 +1,16 @@
+{
+  "title": "웨더 리포트",
+  "content": "[[module css]]\n#page-title {\n    display: none;\n}\n[[/module]]\n\n\n[[include :scpko:info:start]]\n**웨더 리포트**\n**저자:** [[user poi-damgi]] ([[[poi-damgi|#]]])\n[[include :scpko:info:end]]\n\n[[=]]\n{{나에게 아직도}}\n\n{{기다리는 마음이 있어,}}\n\n{{그대와 같이 부를}}\n\n{{노래를 찾는다면,}}\n\n{{궂은날 그 **어둠**을}}\n\n{{슬피 읊지 않으오리다.}}\n\n{{,,-- 그대와의 노래 中,,}}\n@@@@\n@@@@\n@@@@\n\n\n[[module css]]\n@font-face {\n    font-family: 'TAEBAEKmilkyway';\n    src: url('https://cdn.jsdelivr.net/gh/projectnoonnu/noonfonts_2302@1.0/TAEBAEKmilkyway.woff2') format('woff2');\n    font-weight: 700;\n    font-style: normal;\n}\n[[/module]]\n--------\n[[span style=\"font-family: 'TAEBAEKmilkyway' ;font-size: 50px;\"]]웨더 리포트[[/span]]\n\n\n**--제한시간 ????.--**\n\n-------\n\n.\n.\n.\n**[[[weather-report-1|어느 날의 데자뷰]]]**\n\n**[[[weather-report-2|일어나지도 않은 일]]]**\n\n**[[[weather-report-3|눈동자 아래로]]]**\n\n**[[[weather-report-4|저 날씨처럼]]]**\n\n**[[[weather-report-5|걱정은 낭비]]]**\n\n**[[[weather-report-6|파도타기]]]**\n\n**[[[weather-report-7|감았던 눈]]]**\n\n\n.\n.\n.\n.\n.\n\n[[/=]]",
+  "tags": [
+    "145k-협력사",
+    "_이야기-허브",
+    "ko",
+    "허브"
+  ],
+  "author": "POI_Damgi",
+  "created_at": "2023-09-17T14:16:18+00:00",
+  "updated_at": "2024-11-22T15:46:38+00:00",
+  "rating": 6,
+  "_site": "scpko",
+  "_fullname": "weather-report-hub"
+}

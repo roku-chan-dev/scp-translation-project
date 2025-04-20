@@ -1,0 +1,22 @@
+{
+  "title": "SCP-3580",
+  "content": "[[include :scp-wiki:component:info-ayers\n|lang=en\n|page=component:info-ayers\n|authorPage=https://scp-wiki.wikidot.com/scp-4276\n|comments=\n= **SCP-3580** - //Honor In Blood//\n\nG'day.\n\nI said last time that my next skip would reach 10,000 words. Here's 11,000.\n\nWelcome to Honor In Blood, after nine years in development, hopefully, it will have been worth the wait. Thanks and have fun!\n\nMy deepest appreciation to:\n* DrSoot77\n* Doctor Levi Starkin\n* StrangerSwing\n* And especially Jiwoahn\nFor taking a look at this massive project!\n]]\n\n[[=]]\n[[module Rate]]\n[[/=]]\n\n[[module ListPages  category=\"fragment\" parent=\".\" limit=\"1\" order=\"created_at\" offset=\"@URL|0\"]]\n%%content%%\n[[/module]]\n\n[!-- https://scp-wiki.wikidot.com/fragment:scp-3580-0 Main --]\n[!-- https://scp-wiki.wikidot.com/fragment:scp-3580-1 Second --]\n\n[[div class=\"footer-wikiwalk-nav\"]]\n[[=]]\n<< [[[SCP-3579]]] | SCP-3580| [[[SCP-3581]]] >>\n[[/=]]\n[[/div]]\n[[=]]\n[[include :scp-wiki:component:license-box]]\n[[<]]\n=====\n> **Filename:** Prosthetic\n> **Name:** File:Articulated artificial right arm, 16th century (Science Museum, London).jpg\n> **Author:** Unknown author\n> **License:** Creative Commons Attribution 4.0 International\n> **Source Link:** https://commons.wikimedia.org/wiki/File:Articulated_artificial_right_arm,_16th_century_(Science_Museum,_London).jpg\n=====\n> **Filename:** Morty\n> **Name:** File:French sniper ghillie.jpg\n> **Author:** CcH Adrien Courant/French Army\n> **License:** Licence Ouverte 2.0\n> **Source Link:** https://commons.wikimedia.org/wiki/File:French_sniper_ghillie.jpg\n=====\n> **Filename:** BAGGER\n> **Name:** File:Bagger-garzweiler.jpg\n> **Author:** Martinroell\n> **License:** Creative Commons Attribution-Share Alike 2.5 Generic\n> **Source Link:** https://commons.wikimedia.org/wiki/File:Bagger-garzweiler.jpg\n=====\n> **Filename:** Fort\n> **Name:** File:Fortress at Veliko Tarnovo.JPG\n> **Author:**\n> **License:** Creative Commons Attribution-Share Alike 3.0 Unported\n> **Source Link:** https://commons.wikimedia.org/wiki/File:Fortress_at_Veliko_Tarnovo.JPG\n=====\n> **Filename:** Crater\n> **Name:** File:Crater of Mount Bromo, Java, Indonesia, 20220820 0558 9456.jpg\n> **Author:** Jakub Hałun\n> **License:** Creative Commons Attribution-Share Alike 4.0 International\n> **Source Link:** https://commons.wikimedia.org/wiki/File:Crater_of_Mount_Bromo,_Java,_Indonesia,_20220820_0558_9456.jpg\n=====\n> **Filename:** BACKGROUND\n> **Name:** File:Red and Gold (16173781482).jpg\n> **Author:** StormSignal\n> **License:** Creative Commons Attribution-Share Alike 2.0 Generic\n> **Source Link:** https://commons.wikimedia.org/wiki/File:Red_and_Gold_(16173781482).jpg\n=====\n> **Filename:** HELLBENT\n> **Name:** File:Standard Professional Photo.jpg\n> **Author:** Hugoeduardoazefia\n> **License:** Creative Commons Attribution-Share Alike 4.0 International\n> **Source Link:** https://commons.wikimedia.org/wiki/File:Standard_Professional_Photo.jpg\n=====\n[[/<]]\n[[include :scp-wiki:component:license-box-end]]\n[[/=]]",
+  "tags": [
+    "_cc",
+    "_licensebox",
+    "extremity",
+    "hostile",
+    "humanoid",
+    "keter",
+    "sapient",
+    "scp",
+    "thaumaturgy",
+    "uncontained"
+  ],
+  "author": "Roufhous",
+  "created_at": "2024-01-29T16:50:18+00:00",
+  "updated_at": "2024-06-04T21:21:16+00:00",
+  "rating": 19,
+  "_site": "scp-wiki",
+  "_fullname": "scp-3580"
+}

@@ -1,0 +1,23 @@
+{
+  "title": "SCP-3788",
+  "content": "[[include :scp-wiki:theme:classic]]\n[[>]]\n[[module Rate]]\n[[/>]]\n[[include component:image-block\n    name=titanic2.jpg|\n    caption=SCP-3788\n]]\n**Item #:** SCP-3788\n\n**Object Class:** Safe\n\n**Special Containment Procedures:** SCP-3788 is kept in a standard Safe locker and fitted with a trigger lock. Entities emerging from SCP-3788 are to be stored in liquid ammonia tanks upon manifestation for preservation.\n\nFollowing Incident 3788-G, testing with SCP-3788 is suspended. \n\n**Description:** SCP-3788 is a plastic water gun containing a spatial anomaly. \n\nThe screw cap for its tank is sealed shut, and attempts to thread cameras through SCP-3788's nozzle result in the camera viewing the inside of SCP-3788's empty tank.\n\nWhen SCP-3788 is pumped and fired, a high pressure jet of liquid ammonia is emitted from the nozzle as long as the trigger is held down. This liquid also contains dissolved methanol, formaldehyde, acetic acid, and various salts, as well as unidentified unicellular organisms based on organometallic polymers and enamine chains. These organisms are radically distinct from all known Earth-native life.\n\nContinued use of SCP-3788 to provide fresh microbial samples for research occasionally results in the ejection of unidentified fish-like organisms[[footnote]]Nonliquids ejected from SCP-3788 manifest instantaneously just outside the nozzle with the same velocity as the liquid.[[/footnote]]; these creatures uniformly possess six ocular organs, three limbs, and a biochemistry similar to the microbes.\n\n**Incident 3788-G:** After four months of testing, SCP-3788 ejected a large (35 m long) metallic vehicle, resembling a submarine. Upon opening the vehicle's hatch, eight sapient, tripedal, sunfish-like organisms emerged, and quickly lost consciousness due to the atmospheric shock. The organisms were preserved in liquid ammonia tanks until they recovered, and the vehicle inspected. \n\nPictographs within the vehicle, as well as limited translation of the organisms' language, suggests they originate from Saturn's moon Titan.\n\n[[footnoteblock]]\n\n[[div class=\"footer-wikiwalk-nav\"]]\n[[=]]\n<< [[[SCP-3787]]] | SCP-3788 | [[[SCP-3789]]] >>\n[[/=]]\n[[/div]]",
+  "tags": [
+    "_cc",
+    "alive",
+    "extraterrestrial",
+    "liquid",
+    "portal",
+    "safe",
+    "scp",
+    "spatial",
+    "teleportation",
+    "toy",
+    "weapon"
+  ],
+  "author": "Weryllium",
+  "created_at": "2019-03-01T06:13:06+00:00",
+  "updated_at": "2023-01-03T15:52:16+00:00",
+  "rating": 182,
+  "_site": "scp-wiki",
+  "_fullname": "scp-3788"
+}

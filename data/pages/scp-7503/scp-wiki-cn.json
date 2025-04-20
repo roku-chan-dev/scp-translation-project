@@ -1,0 +1,27 @@
+{
+  "title": "SCP-7503",
+  "content": "[!-- http://scp-wiki-cn.wikidot.com/fragment:scp-7503-1 --]\n[!-- http://scp-wiki-cn.wikidot.com/fragment:scp-7503-2 --]\n[!-- http://scp-wiki-cn.wikidot.com/fragment:scp-7503-3 --]\n[!-- http://scp-wiki-cn.wikidot.com/fragment:scp-7503-4 --]\n[!-- http://scp-wiki-cn.wikidot.com/fragment:scp-7503-5 --]\n\n[[module ListPages category=\"fragment\" parent=\".\" limit=\"1\" order=\"created_at\" offset=\"@URL|0\"]]\n%%content%%\n[[/module]]\n\n[[footnoteblock]]\n\n[[div class=\"footer-wikiwalk-nav\"]]\n[[=]]\n<< [[[SCP-7502]]] | SCP-7503 | [[[SCP-7504]]] >>\n[[/=]]\n[[/div]]\n\n[[include :scp-wiki-cn:component:license-box | author=Kilerpoyo | translator=all_for_the_emperor]]\n=====\n> **文件名：**wald\n> **圖片名：**File:Waldsassen Stiftsbasilika - Heiliger Leib 2a Maximin.jpg\n> **作者：**Wolfgang Sauber\n> **授權：**CC BY-SA 4.0\n> **出處：**[[[https://commons.wikimedia.org/wiki/File:Waldsassen_Stiftsbasilika_-_Heiliger_Leib_2a_Maximin.jpg|Wikimedia]]]\n\n> **文件名：**monk\n> **圖片名：**File:Mummy Monk.jpg\n> **作者：**Shivendujha\n> **授權：**CC BY-SA 4.0\n> **出處：**[[[https://commons.wikimedia.org/w/index.php?curid=83509875|Wikimedia]]]\n=====\n[[include :scp-wiki-cn:component:license-box-end]]",
+  "tags": [
+    "ad-astra",
+    "scp",
+    "人形生物",
+    "地平线倡议",
+    "宗教",
+    "尸体",
+    "强迫性",
+    "时间影响",
+    "星际",
+    "机密分级",
+    "狄瓦",
+    "空间影响",
+    "第二海托世教会",
+    "精神影响",
+    "骨骼"
+  ],
+  "author": "all_for_the_emperor",
+  "created_at": "2024-03-24T18:52:07+00:00",
+  "updated_at": "2024-06-09T18:08:45+00:00",
+  "rating": 15,
+  "_site": "scp-wiki-cn",
+  "_fullname": "scp-7503"
+}

@@ -1,0 +1,24 @@
+{
+  "title": "SCP-618",
+  "content": "[[include :scp-wiki-cn:theme:blankstyle]]\n\n[[module CSS]]\n\n#page-title{display:none}\n\n[[/module]]\n\n[[div style=\"text-align: right; margin-top: -20px;\"]]\n[[size 80%]]##757575|by PlaguePJP##[[/size]]\n[[/div]]\n\n[[include :scp-wiki-cn:component:info-ayers\n|page=scp-618 [!-- url of your page on the scp wiki --]\n|authorPage=plaguepjp[!-- link to your author page --]\n|comments= 选择有限 - PlaguePJP\n]]\n\n[[div]]\n[[include :scp-wiki-cn:component:anomaly-class-bar-source\n|lang = cn\n|item-number=618\n|clearance= 1\n|container-class= euclid\n|secondary-class=\n|secondary-icon=\n|disruption-class=\n|risk-class=\n]]\n\n[[include :scp-wiki-cn:component:customizable-acs\n|containment-class= euclid\n|containment-image= https://scp-wiki.wdfiles.com/local--files/component%3Aanomaly-class-bar/euclid-icon.svg\n|containment-color= 255,211,0\n|inc-neutralized-layout = --]]]\n\n\n[[include :scp-wiki-cn:component:customizable-acs\n|clearance-one= 255,211,0\n|inc-clearance= --]]]\n[[/div]]\n-----\n-----\n\n\n[[include component:image-block\n    name=https://scp-wiki.wdfiles.com/local--files/scp-618/3338306933_17dfc69701_b.png|\n    caption=受试者A-4食用西蓝花。|\n    width=250px|\n    align=right|\n]]\n\n\n**特殊收容措施：**SCP-618本质上是自收容的；由于异常效应最活跃时的年龄，受影响个体对异常及其效应几乎没有清晰的记忆。然而，由于异常的散发性质和最近的发现，收容工作仍在进行中，需要进一步研究。\n\n**描述：**SCP-618是一种感知异常，会使人类对绿叶蔬菜（通常是野甘蓝的栽培品种及其他食物）产生厌恶。SCP-618出现的比例占总人口的0.5%。\n\nSCP-618会在人类出生时显现，但将在对象成长到可以进食固体食物后才展现出其性质。该感知性异常在3-5岁时到达顶峰，随后逐渐衰退，直到6-8岁时完全休眠。\n\n在部分情况下（约占受影响者的2%），SCP-618在对象成年后仍保持着不同程度的活跃。然而，此时SCP-618的感知异常效应影响较小，只会使其对食物产生反感，且通常会在尝试吃下相应食物时引发咽反射。\n\n@@ @@\n\n**附录618.1：**SCP-618的效应\n[[div class=\"table3\"]]\n||~ 提供的食物||~ SCP-618受影响效应 ||~ 结果 ||\n|| 结球莴苣 || 对象感知到蔬菜散发出恶臭。臭味在蔬菜靠近对象的脸部或口部时更加强烈。 || 对象产生咽反射，通常导致呕吐。对象哭泣并拒绝进食。 ||\n|| 羽衣甘蓝 || 蔬菜以类似于蠕虫或毛虫的动作扭动、蠕动。若被叉子刺穿，蠕动将更加强烈。 || 对象哭泣并拒绝进食。 ||\n|| 菠菜 || 蔬菜从感知中消失；在经过不可预知的时间后，它将重新出现并发出巨大的撞击噪音，触发惊吓反射。 || 对象哭泣并拒绝进食。 ||\n|| 西蓝花 || 每颗菜花都长出人类的面部特征并凝视着对象。若用厨具刺穿，菜花将无声地哭泣。 || 对象哭泣并拒绝进食。 ||\n|| 抱子甘蓝 || SCP-618将导致感知者进入因果时间循环，从观察者食用抱子甘蓝的瞬间开始经历自己的一生。对象感知到自己12岁时父母在混乱中离异，26岁时订婚对象死亡，34岁时自身在车祸导致的失血中死亡。随后，对象将进入类似于地狱的死后世界，并遭遇一个抱子甘蓝形态的恶魔。 || 对象哭泣并拒绝进食。 ||\n[[/div]]\n\n\n[[=]]\n\n[[div class=\"footer-wikiwalk-nav\"]]\n<< [[[SCP-617]]] | SCP-618 | [[[SCP-619]]] >>\n[[/div]]\n\n[[include :scp-wiki-cn:component:license-box\n| author = PlaguePJP\n]]\n[[include :scp-wiki-cn:component:license-box-end]]\n\n[[/=]]",
+  "tags": [
+    "euclid",
+    "scp",
+    "值守43",
+    "味觉影响",
+    "嗅觉影响",
+    "幻觉",
+    "感知影响",
+    "无形",
+    "精神影响",
+    "视觉性",
+    "认知危害",
+    "食物"
+  ],
+  "author": "Esperanza_Cai",
+  "created_at": "2022-04-22T16:45:00+00:00",
+  "updated_at": "2024-05-20T00:55:24+00:00",
+  "rating": 9,
+  "_site": "scp-wiki-cn",
+  "_fullname": "scp-618"
+}

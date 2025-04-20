@@ -1,0 +1,14 @@
+{
+  "title": "総ページ一覧",
+  "content": "[[module CountPages separate=\"@URL\" category=\"@URL|*\"]]\n総ページ数: %%total%%\n[[/module]]\n\n[[module ListPages separate=\"@URL\" category=\"@URL|*\" order=\"@URL|title\" perPage=\"@URL|50\"]]\n%%title_linked%%\n[[/module]]",
+  "tags": [
+    "jp",
+    "管理"
+  ],
+  "author": "Dr Devan",
+  "created_at": "2013-07-08T11:09:45+00:00",
+  "updated_at": "2021-01-10T15:42:51+00:00",
+  "rating": 5,
+  "_site": "scp-jp",
+  "_fullname": "system:list-all-pages"
+}

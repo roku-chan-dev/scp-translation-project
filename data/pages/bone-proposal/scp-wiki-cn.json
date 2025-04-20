@@ -1,0 +1,13 @@
+{
+  "title": "ROUNDERHOUSE的白骨提案",
+  "content": "[[include component:info-ayers\n|lang=EN[!-- EN/RU/KO/CN/FR/PL/ES/TH/JP/DE/IT/UA/PTBR --]\n|page=rounderhouse-jade-proposal[!-- url of your page on the scp wiki --]\n|authorPage=http://www.scp-wiki.net/rounderhouse-s-author-page[!-- link to your author page --]\n|comments=\n]]\n\n[[include theme:black-highlighter-theme]]\n[[include :scp-wiki:component:rso]]\n[[include :scp-wiki:theme:redtape\n|years=3\n]]\n\n[[module CSS]]\n:root:lang(cn) {\n    --header-title: \"REDTAPE\";\n    --header-subtitle: \"离午夜还有3分钟\";\n}\n[[/module]]\n\n[[=image http://czyesperanza.wdfiles.com/local--files/pictures/bone]]\n[[footnote]]译注：图中文字如下：\n白骨提案 作者Rounderhouse与djkaktus\n全长150000字                  100%男同纯爱出演\n公元前1200年的嗑药！     重口肉文情节！\n黑星遭遇暗黑爆杀    美少年亚恩无惨！          \nGalanis大干特干！   \n2029夏季推出\n[[/footnote]]\n----\n[[div class=\"rnb-navbar\"]]\n[[div class=\"rnb-item rnb-last jadeproposal\"]]\n[[a href=\"/rounderhouse-jade-proposal\" style=\"display: block;\"]][[span class=\"rnb-supertitle\"]]前情[[/span]]\n<< 翠玉提案 >>[[/a]]\n[[/div]]\n\n[[div class=\"rnb-item rnb-current\"]]\nREDTAPE\n[[/div]]\n\n[[div class=\"rnb-item rnb-next\"]]\n[[span class=\"rnb-supertitle\"]]欧米伽红宝石提案[[/span]]\n[[/div]]\n[[/div]]",
+  "tags": [
+    "故事"
+  ],
+  "author": "ashausesall",
+  "created_at": "2023-04-02T14:15:42+00:00",
+  "updated_at": "2023-04-04T01:55:16+00:00",
+  "rating": 5,
+  "_site": "scp-wiki-cn",
+  "_fullname": "bone-proposal"
+}

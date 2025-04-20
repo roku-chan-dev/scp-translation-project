@@ -1,0 +1,14 @@
+{
+  "title": "魔杖人 主题版式",
+  "content": "[[iftags +版式]]\n[[module CSS]]\n@import url(\"https://cdn.jsdelivr.net/gh/Nu-SCPTheme/Black-Highlighter@gh-pages/css/min/normalize.min.css\");\n@import url(\"https://cdn.jsdelivr.net/gh/Nu-SCPTheme/Black-Highlighter@gh-pages/css/min/black-highlighter.min.css\");\n[[/module]]\n\n[[div_ style=\"display:none\"]]\n[[embed]]\n<iframe src=\"//scp-wiki-cn.wdfiles.com/local--files/nav%3Aside/styleFrame.html?bhl\" name=\"typeFrame\"></iframe>\n[[/embed]]\n[[/div]]\n\n这是为魔杖人 GOI 制作的版式。免费提供给所有愿意使用的作者。\n\n添加以下代码以将该 CSS 引用到你的页面中：\n\n[[div class=\"code\"]]\n@@[[include :scp-wiki-cn:theme:black-highlighter-theme]]@@\n@@[[include :scp-wiki-cn:theme:wandsmen-theme]]@@\n[[/div]]\n\n[[collapsible show=\"+ 展开代码\" hide=\"- 收起代码\"]]\n[[code type=\"css\"]]\n:root:lang(cn) {\n    --theme-base: \"black-highlighter\";\n    --theme-id: \"wandsmen-theme\";\n    --theme-name: \"Wandsmen Theme\";\n\n    --header-title: \"魔杖人\";\n    --header-subtitle: \"追求切实，寻求真相\";\n    --logo-image: url(\"https://scp-wiki.wdfiles.com/local--files/theme:wandsmen-theme/symbol2.png\");\n    --background: linear-gradient(0.99 turn, #a11cff, #a11cff, #a11cff);\n    --pale-accent: 100, 5, 50;\n    --bright-accent: 100, 5, 50;\n    --medium-accent: 100, 5, 50;\n    --dark-accent: 100, 5, 50;\n    --alt-accent: 100, 5, 50;\n}\n\nbody {\n background-color: #cccccc;\n}\n[[/code]]\n[[/collapsible]]\n[[/iftags]]\n\n[[module css]]\n@import url(\"https://scp-wiki-cn.wdfiles.com/local--code/theme%3Awandsmen-theme/1\");\n[[/module]]\n\n[[div_ style=\"display:none\"]]\n[[embed]]\n<iframe src=\"//scp-wiki-cn.wdfiles.com/local--files/nav%3Aside/styleFrame.html?%3Aroot%7B--medium-accent%3A%20100%2C%205%2C%2050%3B%7D\" name=\"styleFrame\"></iframe>\n[[/embed]]\n[[/div]]",
+  "tags": [
+    "旧页面",
+    "版式"
+  ],
+  "author": "hoah2333",
+  "created_at": "2021-04-09T09:38:53+00:00",
+  "updated_at": "2025-01-10T15:43:13+00:00",
+  "rating": 3,
+  "_site": "scp-wiki-cn",
+  "_fullname": "theme:wandsmen-theme"
+}

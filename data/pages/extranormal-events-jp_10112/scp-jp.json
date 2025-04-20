@@ -1,0 +1,14 @@
+{
+  "title": "10112",
+  "content": "overview: '本部・各国支部を問わず、報告書内に使用されている--全て--大半の画像データの右下部に、黒い円の中に\"CC\"という文字列が入っているマークが出現しました。マークは出現から24時間後に自動的に消滅しました。'\nswdate: '1'\ndate: '201█/█/██ '\nswplace: '0'\nplace: ''\nswchaseprocedure: '1'\nchaseprocedure: 財団本部の画像データのうち██%のデータにはマークが出現しませんでした。現在、マークが出現しなかったデータを回収し、異常性の是非を調査中です。\nswaddendum: '1'\naddendum: \"//何か被害が出た訳でもないんだからそこまで神経質にならなくたって良いんじゃないか？ - D・ホワイト上席研究員//\\n//いけません。そういった杜撰さは必ずどこかで皺寄せがやってくるものですから。 - 小野博士//\"\ntf2: '0'\nauthor: ''\nredirect-b: '[[module Redirect destination=\"/log-of-extranormal-events-jp'\nredirect-e: '\"]]'",
+  "tags": [
+    "jp",
+    "剪定対象-子"
+  ],
+  "author": "Ruka_Naruse",
+  "created_at": "2020-09-07T09:01:08+00:00",
+  "updated_at": "2021-05-24T13:21:16+00:00",
+  "rating": 56,
+  "_site": "scp-jp",
+  "_fullname": "extranormal-events-jp:10112"
+}

@@ -1,0 +1,14 @@
+{
+  "title": "Top Rated Art",
+  "content": "[[div class=\"top-rated-box\"]]\n[[=]]\n+* [[size 80%]] [[[Top Rated Pages]]] [[/size]]\n[[size larger]] **[[[Top Rated Pages This Month| This Month]]]** | **[[[Top Rated Pages By Year| By Year]]]** [[/size]] \n**[[[Highest Rated SCPs| SCPs]]]** | **[[[Highest Rated Non-SCPs| Non-SCPs]]]** | **[[[top-rated-jokes| Jokes ]]]** \n**[[[Top Rated Tales| Tales]]]** | **[[[top-rated-goi-formats| GoI Formats]]]** | **Art** \n[[/=]]\n[[/div]] \n\nHere you will find the highest rated artist and artwork pages on the site. Voting is restricted to site members, to avoid vandalism.\n\nA full list of these pages, plus a monthly Artist Showcase selected by staff, is available [[[artwork-hub|here]]]. \n\n[[module ListPages tags=\"artist artwork\" rating=\">49\" category=\"*\" order=\"rating desc\" separate=\"false\" limit=\"500\" perPage=\"50\"]]\n%%title_linked%%, by %%created_by%% (rating: %%rating%%, comments: %%comments%%)\n[[/module]] \n\n\n[[module CSS]]\n.top-rated-box{\n        float: right;\n\tborder: 1px solid #600;\n\tborder-radius: 10px;\n\tbox-shadow: 0 2px 6px rgba(102, 0, 0, .5);\n\tbackground: #fff;\n\tmargin-left: 1rem;  \n\tpadding: 1rem;\n\tpadding-top: 0;\n\tpadding-bottom: 0;  \n\ttext-align: center; \n}  \n\n#page-content h1 {\n    border-bottom: solid 0.08rem #660000;\n    padding: 0 0 0.25em;\n    margin-bottom: -0.5rem; \n}\n[[/module]]\n\n[[include :scp-wiki:component:license-box]]\n[!-- N/A (No Images)  --]\n[[include :scp-wiki:component:license-box-end]]",
+  "tags": [
+    "_licensebox",
+    "hub"
+  ],
+  "author": "Jerden",
+  "created_at": "2022-08-02T06:32:02+00:00",
+  "updated_at": "2023-03-19T15:08:32+00:00",
+  "rating": 7,
+  "_site": "scp-wiki",
+  "_fullname": "top-rated-art"
+}

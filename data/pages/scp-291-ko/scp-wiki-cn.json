@@ -1,0 +1,22 @@
+{
+  "title": "SCP-291-KO",
+  "content": "[[include :scp-wiki-cn:credit:start-standalone]]\n> **标题:** 你，为了被爱而生\n> **原标题:** 당신은, 사랑받기 위해\n> **著者:** [[*user Plone]]\n> **译者:** [[*user kkaacc]]\n> **日语版译者:** [[*user Amplifier]]\n> **原文** http://scpko.wikidot.com/scp-291-ko\n> **日语版**：http://scp-jp.wikidot.com/scp-291-ko\n> 原作者注:  //你生来就是为了被爱的//\n[[include :scp-wiki-cn:credit:end-standalone]]\n\n\n**项目编号:** SCP-291-KO\n\n**项目等级:** Safe\n\n**特殊收容措施:** SCP-291-KO-A和SCP-291-KO-B被收容于Site-21K的Safe级收容物标准收容室内。SCP-291-KO-C因其异常性质无需收容，并由一名研究人员负责对项目算法所生成的文字与图像进行记录与分类。\n\n**描述:** SCP-291-KO是对一具人类尸体（SCP-291-KO-A），一台与尸体异常连接的台式计算机（SCP-291-KO-B），以及SCP-291-KO-B计算机程序中的一组异常算法（SCP-291-KO-C）的统称。\n\nSCP-291-KO被发现于20██年9月9日，京畿道城南市的一栋公寓内。其在被首次发现时被误地认为是“孤独死现场”，但在发现尸体（即SCP-291-KO-A）与计算机紧密结合后被转交给了基金会。\n\n在发现SCP-291-KO的房间内并未发现其他异常物品。此外，SCP-291-KO-A生前的社会关系也未得到确认，因此尚不清楚项目是如何获得异常性质。\n\nSCP-291-KO-A目前已干尸化，经检测，其至少在██年前就早已死亡。项目双臂紧抱着SCP-291-KO-B，双手及其部分相关神经系统与SCP-291-KO-B的电路异常地连接，并会不定期地发出电信号来激活SCP-291-KO-B。\n\nSCP-291-KO-B本身并无异常，但作为SCP-291-KO-C运行的媒介会根据SCP-291-KO-A产生的电信号来触发自身异常性质。\n\nSCP-291-KO-C是一个异常网络程序，可通过未知机制产生大量带有辱骂性的言论、表达友好的言论、自嘲性的幽默言论和带有轻微的认知危害的图像。项目会将根据异常性质所生成的文字和图像进行分类，随后通过『街巷』网站论坛中ID为████的网站账户为传播媒介，将其随机发布到相关组织『[/https://scp-wiki-cn.wikidot.com/the-alleys-hub 街巷]』中。值得注意的是，SCP-291-KO-C发布帖子时所使用的ID账户最初使用者已被证实为生前的SCP-291-KO-A。\n\n随后，当SCP-291-KO-A在街巷所发布的帖子收到反馈时，SCP-291-KO-C会将这此反馈分类为正面与负面，并积极地对正面反馈做出自我反馈。最终结果是，下次收到来自SCP-291-KO-A的信号时，项目会据曾受到过的正面反馈产生出文字并做出回应。\n\n以下是基金会已知的会对SCP-291-KO-C产生的文字造成影响的文字列表。\n[[table  style=\"border-collapse:collapse; width: 600px;\"]]\n[[row]]\n[[cell style=\"font-weight:bold;padding: .3em .7em; text-align: center; border: 1px solid black; background-color: silver; width: 20%;\"]]\n反馈影响度\n[[/cell]]\n[[cell style=\"font-weight:bold; padding: .3em .7em; text-align: center; border: 1px solid black; background-color: silver;\"]]\n文字\n[[/cell]]\n[[/row]]\n[[row]]\n[[cell style=\"font-weight:bold; text-align: center; padding: .3em .7em; border: 1px solid black\"]]\n+150%\n[[/cell]]\n[[cell style=\"border: 1px solid black; padding: .3em .7em;\"]]\n所有表达爱情、爱意的句子。\n[[/cell]]\n[[/row]]\n[[row]]\n[[cell style=\"font-weight:bold; text-align: center; padding: .3em .7em; border: 1px solid black\"]]\n+100%\n[[/cell]]\n[[cell style=\"border: 1px solid black; padding: .3em .7em;\"]]\n“心情变好了”、“变得幸福了”等包含积极情绪的句子。\n[[/cell]]\n[[/row]]\n[[row]]\n[[cell style=\"font-weight:bold; text-align: center; border: 1px solid black\"]]\n+75%\n[[/cell]]\n[[cell style=\"border: 1px solid black; padding: .3em .7em;\"]]\n“笑了”、“太开心了”等表达积极动作相关的句子。\n[[/cell]]\n[[/row]]\n[[row]]\n[[cell style=\"font-weight:bold; text-align: center; border: 1px solid black\"]]\n+40%\n[[/cell]]\n[[cell style=\"border: 1px solid black; padding: .3em .7em;\"]]\n“很有用”、“第一次知道呢”等，表示对获取信息很有帮助的句子。\n[[/cell]]\n[[/row]]\n[[row]]\n[[cell style=\"font-weight:bold; text-align: center; border: 1px solid black\"]]\n0%\n[[/cell]]\n[[cell style=\"border: 1px solid black; padding: .3em .7em;\"]]\n与生成的文字内容无关的其他内容。\n[[/cell]]\n[[/row]]\n[[row]]\n[[cell style=\"font-weight:bold; text-align: center; border: 1px solid black\"]]\n-30%\n[[/cell]]\n[[cell style=\"border: 1px solid black; padding: .3em .7em;\"]]\n“错误的信息”、“过时的事情”等否定帖子内容的句子。\n[[/cell]]\n[[/row]]\n[[row]]\n[[cell style=\"font-weight:bold; text-align: center; border: 1px solid black\"]]\n-60%\n[[/cell]]\n[[cell style=\"border: 1px solid black; padding: .3em .7em;\"]]\n“想吐”、“皱眉”等表达消极动作相关的句子。\n[[/cell]]\n[[/row]]\n[[row]]\n[[cell style=\"font-weight:bold; text-align: center; border: 1px solid black\"]]\n-90%\n[[/cell]]\n[[cell style=\"border: 1px solid black; padding: .3em .7em;\"]]\n“好恶心”、“很讨厌”等含有消极情绪的句子。\n[[/cell]]\n[[/row]]\n[[row]]\n[[cell style=\"font-weight:bold; text-align: center; border: 1px solid black\"]]\n-200%\n[[/cell]]\n[[cell style=\"border: 1px solid black; padding: .3em .7em;\"]]\n所有表达厌恶感的句子。\n[[/cell]]\n[[/row]]\n[[/table]]\n\n\n目前推测，SCP-291-KO-C到目前为止已经在街巷中获取了99,569个正面反馈和325个负面反馈。\n\n@@ @@\n\n@@ @@\n\n@@ @@\n\n**附录:** 以下是在SCP-291-KO被收容时发现的字段。\n\n>\n> 你会成为比我更好的我\n>\n\n@@ @@\n\n@@ @@\n\n@@ @@",
+  "tags": [
+    "ko",
+    "safe",
+    "scp",
+    "媒体",
+    "尸体",
+    "工具",
+    "电力",
+    "精神影响",
+    "线上",
+    "街巷"
+  ],
+  "author": "kkaacc",
+  "created_at": "2025-03-21T14:25:19+00:00",
+  "updated_at": "2025-03-21T23:12:09+00:00",
+  "rating": 2,
+  "_site": "scp-wiki-cn",
+  "_fullname": "scp-291-ko"
+}

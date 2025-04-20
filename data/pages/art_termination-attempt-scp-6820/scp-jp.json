@@ -1,0 +1,15 @@
+{
+  "title": "終了試行 (SCP-6820)",
+  "content": "[[include :scp-jp:theme:black-highlighter-theme]]\n[[include :scp-jp:theme:extra-black-highlighter-theme]]\n[[include :scp-jp:component:centered-header-bhl]]\n\n[[module css]]\n@import url('https://fonts.googleapis.com/css2?family=Gloria+Hallelujah&display=swap');\n\npage {\n    display: block;\n    overflow: hidden;\n    font-family: 'Gloria Hallelujah', cursive;\n    font-style: cursive;\n    font-size: 1.2em;\n    line-height: 30px;\n\n    background-attachment: scroll;\n    background-clip: border-box;\n    background-color: transparent;\n    background-image: linear-gradient(to top ,rgb(202, 219, 228) 0%, rgb(231, 233, 220) 8%);\n    background-origin: padding-box;\n    background-position: 0px 8px;\n    background-repeat: repeat;\n    background-size: 100% 20px;\n\n    border: 1px solid #CCC;\n    border-radius: 10px;\n    padding: 10px 10px;\n    margin-bottom: 10px;\n\n    box-shadow: 0px 1px 3px rgba(0, 0, 0, 0.2)\n    }\n.page p,\n.page ul {\n    line-height: 20px;\n    margin: 0;\n}\n.page li {\n  line-height: 200%;\n}\n.page ul {\n  margin-top: 10px;\n  margin-bottom: 10px;\n}\n[[/module]]\n\n\n[[include :scp-jp:credit:start-preview]]\n**タイトル:** 終了試行 (SCP-6820)\n**翻訳責任者:** [[*user C-Dives]]\n**翻訳年:** 2024\n**著作権者:** [[*user Rosyfox2002]]\n**原題:** TERMINATION ATTEMPT (SCP-6820)\n**作成年:** 2024\n**初訳時参照リビジョン:** 2\n**元記事リンク:** [[[*https://scp-wiki.wikidot.com/art:termination-attempt-scp-6820|ソース]]]\n[[include :scp-jp:credit:end-preview]]\n\n[[=]]\n\n[[div class=\"blockquote\"]]\n**[[[http://scp-jp.wikidot.com/scp-6820 |「 畢には 貴様らは価値を明かした 真の憎悪の 」]]]**\n[[/div]]\n\n[[image https://scp-jp-storage.wdfiles.com/local--files/file%3A2375337-1032-9ahz/OFVvtP5.jpg]]\n\n[[/=]]\n[[footnoteblock]]\n\n@@ @@\n[[include :scp-jp:component:license-box\n|author=Rosyfox2002、C-Dives]]\n[[div class=\"blockquote\"]]\n\n**ファイルページ:** [*http://scp-jp-storage.wikidot.com/file:2375337-1032-9ahz SCP-6820 アートワーク]\n\n**ファイル名:** OFVvtP5.jpg \n\n**ソース:** https://scp-wiki.wikidot.com/art:termination-attempt-scp-6820\n**ライセンス:** CC BY-SA 3.0\n**タイトル:** OFVvtP5.jpg\n**著作権者:** [[*user Rosyfox2002]]\n**公開年:** 2024\n\n[[/div]]\n[[include :scp-jp:component:license-box-end]]",
+  "tags": [
+    "en",
+    "アートワーク",
+    "不死身の爬虫類"
+  ],
+  "author": "C-Dives",
+  "created_at": "2024-08-09T05:44:08+00:00",
+  "updated_at": "2024-08-09T05:44:29+00:00",
+  "rating": 12,
+  "_site": "scp-jp",
+  "_fullname": "art:termination-attempt-scp-6820"
+}

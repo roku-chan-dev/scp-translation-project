@@ -1,0 +1,14 @@
+{
+  "title": "数式",
+  "content": "Wikidot.comでは[http://mathjax.org MathJax]を使い美しい数式を描画します。LaTeX の構文を知っている人であればwikidotで数式を扱う事は簡単です。\n\n++ [[# equations]] 数式\n\n数式を{{@@[[math@@ //label//]] ... @@[[/math]]@@}} のタグブロックの間に置くだけで記述できます(\"label\"は任意の文字です)。数式はLaTeXにおける{{@@\\begin{equation} ... \\end{equation}@@}} の間に記述されたのと同じ環境で描画されます。この構文の詳細についてはいくつかのLaTeXのマニュアルを参照してください。\n\n[[code]]\n[[math label1]]\n  \\rho _{\\rm GJ} = -\\sigma (r) \\left[ (1 - \\eta _{\\ast }^2 {\\kappa \\over {\\eta ^3}}) \\cos \\chi \\right.\n+ \\left. {3\\over 2} \\theta (\\eta) H(\\eta)\n\\xi \\sin \\chi \\cos \\phi \\right]\n[[/math]]\n[[/code]]\n\n[[math label1]]\n\\rho _{\\rm GJ} = -\\sigma (r) \\left[ (1 - \\eta _{\\ast }^2 {\\kappa \\over {\\eta ^3}}) \\cos \\chi \\right.\n+ \\left. {3\\over 2} \\theta (\\eta) H(\\eta)\n\\xi \\sin \\chi \\cos \\phi \\right]\n[[/math]]\n\n__ラベル付けされた__式を参照する方法は{{@@[[eref@@ //label//]]}}を使用して式番号を取得するか例えば{{@@ ([[eref@@ //label1//]])}}を使い式を取得するだけです\n\n**例:**\n[[code]]\n[[math sample]]\n\\lim_{h \\to 0} \\frac{(x+h)^{2}-x^{2}}{h} \\\n[[/math]]\n[[/code]]\n> {{@@[[eref@@ //sample//]]}}\n> {{@@ ([[eref@@ //sample//]])}}\n**出力:**\n[[math sample]]\n\\lim_{h \\to 0} \\frac{(x+h)^{2}-x^{2}}{h} \\\\\n[[/math]]\n> [[eref sample]]\n> ([[eref sample]])\n\nLaTeXの環境を指定する方法は2通りあります。1つは{{type=\"<environment>\"}}パラメーターを渡す方法でもう1つは数式の中で{{@@\\begin{<environment>}@@}} と{{@@\\end{<environment>}@@}}を使う方法です。この2つは同等の機能を持ちます。\n\n[[code]]\n[[math type=\"align\"]]\nE = mc^2\n[[/math]]\n[[/code]]\n\n[[code]]\n[[math]]\n\\begin{align}\nE = mc^2\n\\end{align}\n[[/math]]\n[[/code]]\n**出力:**\n[[div style=\"background-color:#EEE;border:dashed #CCC 1px;\"]]\n[[math]]\n\\begin{align}\nE = mc^2\n\\end{align}\n[[/math]]\n[[/div]]\n{{equation}} は標準の環境です。その他の環境としては下記をサポートしています。\n {{align}}, {{alignat}}, {{aligned}}, {{alignedat}}, {{array}}, {{Bmatrix}}, {{bmatrix}}, {{cases}}, {{eqnarray}}, {{equation}}, {{gather}}, {{gathered}}, {{matrix}}, {{multline}}, {{pmatrix}}, {{smallmatrix}}, {{split}}, {{subarray}}, {{Vmatrix}}, {{vmatrix}}.\n\n++ [[# inline]] 文中の数式\n\n文章中に数式を挿入する場合は{{@@[[$ ... $]]@@}}のタグブロックを使用します。\n\n[[div style=\"float:left; width: 45%; margin: 0 2%;\"]]\n[[code]]\n[[$ E = mc^2 $]] は[[$ G_{\\mu\\nu} - \\Lambda g_{\\mu\\nu} = \\kappa T_{\\mu\\nu} $]]という式より有名です。\n[[/code]]\n[[/div]]\n[[div style=\"float:left; width: 45%; margin: 0 2%;\"]]\n[[$ E = mc^2 $]] は[[$ G_{\\mu\\nu} - \\Lambda g_{\\mu\\nu} = \\kappa T_{\\mu\\nu} $]]という式より有名です。\n[[/div]]\n\n~~~~~~~",
+  "tags": [
+    "jp",
+    "リファレンス"
+  ],
+  "author": "C-take",
+  "created_at": "2018-04-09T12:34:31+00:00",
+  "updated_at": "2023-01-13T12:08:30+00:00",
+  "rating": 6,
+  "_site": "scp-jp",
+  "_fullname": "wiki-syntax:math"
+}

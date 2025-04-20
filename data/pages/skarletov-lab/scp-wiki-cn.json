@@ -1,0 +1,13 @@
+{
+  "title": "Skarletov Lab",
+  "content": "[[include :scp-wiki-cn:theme:black-highlighter-theme]]\n[[include :scp-wiki-cn:theme:galactic-theme]]\n[[module CSS]]\n:root:lang(cn) {\n     --header-title: \"Skarletov Lab\";\n     --header-subtitle: \"Dissolved Into Nothingness\";\n}\n[[/module]]\n[[div class=\"meta-title\"]]\nJuly  15  2119  |  23 : 59\n[[/div]]\n\n[[module css]]\n\n#page-title {\n  display: none;\n}\n[[/module]]\n[[=]]\n//本该如此//\n\n//当错觉散去//\n\n//一切意义都将被忘却//\n\n//光需要十亿年才能到达的地方//\n\n//是否能接收到呢？//\n\n//当新的眼睛睁开的时候//\n\n//我还能看见你吗？//\n[[/=]]\n[[=]]\n[[include component:coltop show=遗物|hide=- .... .- -. -.- -.-- --- ..-]]\n----\n[[[*http://scp-wiki-cn.wikidot.com/scp-cn-2097 | SCP-CN-2097]]]\n[[[*http://scp-wiki-cn.wikidot.com/scp-cn-2431 | SCP-CN-2431]]]\n----\n[[[*http://scp-wiki-cn.wikidot.com/touhoupodd | “统一”基金会在非统一魔法世界]]]\n----\n[[[*http://scp-wiki-cn.wikidot.com/wanderers:liana-tomasovna | 向上去]]]\n[[include component:colend]]\n[[/=]]",
+  "tags": [
+    "作者"
+  ],
+  "author": "LinaSkarletova",
+  "created_at": "2022-06-30T15:21:28+00:00",
+  "updated_at": "2024-10-11T12:04:12+00:00",
+  "rating": 5,
+  "_site": "scp-wiki-cn",
+  "_fullname": "skarletov-lab"
+}

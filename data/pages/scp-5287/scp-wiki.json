@@ -1,0 +1,23 @@
+{
+  "title": "SCP-5287",
+  "content": "[[include :scp-wiki:theme:classic]]\n[[include :scp-wiki:theme:magnus-web-format]]\n[[>]]\n[[module Rate]]\n[[/>]]\n[[include :scp-wiki:component:anomaly-class-bar-source\n\n|item-number= 5287\n\n|clearance= 2\n\n|container-class= euclid\n\n|secondary-class= none\n\n|disruption-class= vlam\n\n|risk-class= notice\n\n]]\n\n**Special Containment Procedures:** Researcher Gröd is to remain under Foundation surveillance at Site-228 as long as SCP-5287 continues to manifest.\n\n**Description:** SCP-5287 is a phenomenon that occurs when Researcher Gröd willingly inhales smoke either from a cigar or a cigarette. Once the smoke (hereafter referred to as SCP-5287-1) has been exhaled it will typically form into various words and short phrases and start to float in the air in front of Researcher Gröd.\n\nUpon physical interaction, instances of SCP-5287 are as malleable as non-anomalous smoke and dissipate easily.\n\n**Notable SCP-5287-1 instances:**\n\n> STOP\n\n> SMOKING KILLS\n\n> FUTURE WASTING\n\n> STOP NOW\n\n> CONSIDER LIFE\n\n> //SCP-5287-1 did not manifest as usual, instead, a small cloud of smoke traveled down to the lit cigarette and remained in place until it was put out. This marks the first instance of SCP-5287-1 not manifesting as a word or phrase.//\n\n> LUNGS SHRIVELING\n\n> PLEASE STOP\n\n> I BEG YOU\n\n> CANCER IMMINENT\n\n> DEATH STICKS\n\n> //SCP-5287-1 manifested as a small cloud of smoke again, which moved towards Researcher Gröd's eyes and caused him to wave it away, putting out his cigarette with the movement.//\n\n> WARNING YOU\n\n> REALLY WILL DO IT\n\n> WARNED YOU\n\n**Incident 5287.1:** During an experiment the following SCP-5287-1 instance manifested: \"SORRY\". Following this test, Researcher Gröd blew more smoke from his cigarette. Instead of forming a phrase, SCP-5287-1 took the form of a human arm and broke Researcher Gröd's right index and middle finger, in which he held his cigarette.  \n\nTo prevent future incidents experiments with SCP-5287 are discontinued and Researcher Gröd has been assigned to visit the on-site psychiatrist weekly to help him quit smoking. Additionally, Researcher Gröd has been supplied with a vaporizer pen to help curb his smoking habit.\n\n[[footnoteblock]]\n\n[[div class=\"footer-wikiwalk-nav\"]]\n[[=]]\n<< [[[SCP-5286]]] | SCP-5287 | [[[SCP-5288]]] >>\n[[/=]]\n[[/div]]\n\n[[include :scp-wiki:component:license-box\n|author=Cremo and Uncle Nicolini]]\n[!-- N/A (No Images)  --]\n[[include :scp-wiki:component:license-box-end]]",
+  "tags": [
+    "_licensebox",
+    "airborne",
+    "amorphous",
+    "co-authored",
+    "euclid",
+    "gaseous",
+    "humanoid",
+    "intangible",
+    "rewrite",
+    "sapient",
+    "scp"
+  ],
+  "author": "Cremo",
+  "created_at": "2021-11-28T21:49:59+00:00",
+  "updated_at": "2023-06-13T07:26:17+00:00",
+  "rating": 124,
+  "_site": "scp-wiki",
+  "_fullname": "scp-5287"
+}

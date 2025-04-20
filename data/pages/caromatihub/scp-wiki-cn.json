@@ -1,0 +1,15 @@
+{
+  "title": "卡苾 中心页",
+  "content": "[[>]]\n\n[[module Rate]]\n\n[[/>]]\n\n[[include :scp-wiki-cn:theme:penumbra]]\n[[module css]]\n\n:root {\n  --header-title: \"\";\n  --header-subtitle: \"\";\n  --lgurl: url(\"http://scpsandboxcn.wikidot.com/local--files/nmscxjend/caromati500\");\n  --accentColor: #95baec;\n}\n\nbody {\n    font-family: 'Roboto', sans-serif;\n    color: #EDEDED;\n    background-color: #2F333C;\n    background-image: url(\"http://scpsandboxcn.wikidot.com/local--files/nmscxjend/beij2.jpg\");\n    background-size: cover;\n    background-position: center;\n    background-repeat: no-repeat;\n}\n[[/module]]\n@@ @@\n@@ @@\n@@ @@\n@@ @@\n[[=]]\n//**我们是冰原上最坚韧的种群，我们经历两次足以毁灭世界的灾变而屹立不倒，我们漫步于无人之境。**//\n[[/=]]\n----\n@@ @@\n@@ @@\n@@ @@\n@@ @@\n\n代表循环结束的号角声开始从冰原上每一艘运载舰，每一座居住地和城市中传来。同一时刻，远方开始出现一片照亮整个地平线的白光，遥远地几乎无法分辨。\n\n我和她站在卡斯卡迪亚中央城区的楼顶，看着炽热的光芒逐渐照亮整个城市，街道上的人群早已沸腾。我能看见褪去厚重云层的天空，是一片纯净到极致的蔚蓝。\n\n第37循环是如此不同寻常，黑暗仅有15725小时，而光明却足足持续了194分17秒，是卡苾与风暴共舞以来最短暂的冬天和最漫长的新年，我从未见过她如此兴奋，尽管她的高呼声完全埋没在一片欢腾之中。\n\n等到这一切都结束，也许我能带你去看真正的黎明。\n\n@@ @@\n@@ @@\n@@ @@\n@@ @@\n@@ @@\n\n\n\n----\n[[image http://scpsandboxcn.wikidot.com/local--files/nmscxjend/%E5%BE%AE%E5%85%892]]\n\n----\n\n[[div style=\"padding: 10px; border: 4px solid #49b2ec ; width: 95%; margin: auto;\"]]\n\n\n[[=]]\n[[size x-large]]设定[[/size]]\n\n（按时间线排序）\n[[/=]]\n\n\n> [[=]]\n> [[[http://scp-wiki-cn.wikidot.com/seven-steps-from-the-sun/comments/show|K级末日档案：ΣK级“离太阳只有七步”世界末日情景  ]]]\n> [[/=]]\n> \n> [[=]]\n> ——[[*user Agent Phage]]\n> [[/=]]\n\n> [[=]]\n> [[[http://scp-wiki-cn.wikidot.com/caromati|UIU地点档案：卡苾 ]]]\n> [[/=]]\n> \n> [[=]]\n> ——[[*user nmscxj]]\n> [[/=]]\n\n> [[=]]\n> [[[http://scp-wiki-cn.wikidot.com/car3|卡苾超重型机械研究报告  ]]]\n> [[/=]]\n> \n> [[=]]\n> ——[[*user nmscxj]]\n> [[/=]]\n\n\n\n> [[=]]\n> [[[https://scp-wiki-cn.wikidot.com/danctuka/comments/show|边境巡逻队异常事态例行调查汇总]]]\n> [[/=]]\n> \n> [[=]]\n> ——[[*user nmscxj]]\n> [[/=]]\n\n> [[=]]\n> [[[http://scp-wiki-cn.wikidot.com/forgotten-moon|Nx-10C：遗忘之月 ]]]\n> [[/=]]\n> \n> [[=]]\n> ——[[*user nmscxj]]\n> [[/=]]\n----\n[[=]]\n[[size x-large]]主线[[/size]]\n\n（按时间线排序）\n[[/=]]\n\n> [[=]]\n> 卡苾\n> [[/=]]\n> \n> [[=]]\n> ——[[*user nmscxj]]\n> [[/=]]\n\n> [[=]]\n> 有朝一日\n> [[/=]]\n> \n> [[=]]\n> ——[[*user nmscxj]]\n> [[/=]]\n\n----\n[[=]]\n[[size x-large]]艺术作品[[/size]]\n[[/=]]\n\n> [[=]]\n> [[[http://scp-wiki-cn.wikidot.com/caromati3|聆听我们所能聆听 ]]]\n> [[/=]]\n> \n> [[=]]\n> ——[[*user nmscxj]]\n> [[/=]]\n\n[[/div]]\n\n\n\n----\n\n@@ @@\n\n+++ **写作指导**\n\n“卡苾”故事系列围绕着一个漂浮于破碎的现实碎片中的冰冻星球而展开，基金会试图从这片冰封大陆上的各种神秘现象中，找到拯救自己世界的方法。\n\n卡苾系列描绘了一个处于永久严寒中的架空世界，基调大致可以用几个关键词总结：钢铁与煤炭，寒潮与风暴，坚韧不屈的人们，以及黑暗之中的光明。尽管环境极其恶劣，但整体故事是积极的。\n\n卡苾的后续剧情已基本敲定，但你仍然可以添加任何内容，欢迎来到冰原，注意御寒。\n\n如有任何疑问请私信[[*user nmscxj]]。\n@@ @@\n**你可以在作品中添加以下代码来使用卡苾通用版式“号声”**\n@@ @@\n> [[include :scp-wiki-cn:theme:horn]]\n@@ @@\n@@ @@",
+  "tags": [
+    "_故事中心",
+    "中心",
+    "原创"
+  ],
+  "author": "nmscxj",
+  "created_at": "2023-10-22T04:35:16+00:00",
+  "updated_at": "2025-02-03T04:52:39+00:00",
+  "rating": 58,
+  "_site": "scp-wiki-cn",
+  "_fullname": "caromatihub"
+}

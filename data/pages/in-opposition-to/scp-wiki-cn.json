@@ -1,0 +1,18 @@
+{
+  "title": "决战SCP系列",
+  "content": "[[include :scp-wiki-cn:component:info-ayers\n|page=dr-cimmerian-s-personnel-file[!-- url of your page on the scp wiki --]\n|authorPage=dr-cimmerian-s-personnel-file[!-- link to your author page --]\n|comments=超级感谢用户\"Valcano Girls\"制作了这个奇妙的小剧场。\n]]\n[[include theme:black-highlighter-theme]]\n[[module CSS]]\nsup {\nvertical-align: top; position: relative; top: -0.5em;\n}\n:root{\n--cutColour: #fafafa;\n--barColour: #590505;\n}\n\n.info-container .collapsible-block-folded a{\ncolor: #FFF;}\n.info-container .collapsible-block-unfolded-link a{\ncolor: #FFF;}\n\n.translation_block{\ndisplay:none;}\n[[/module]]\n\n[[=]]\n+ 决战SCP中心页\n[[/=]]\n\n欢迎来到决战SCP中心页，这里放了些我关于SCP角色们，以及其在不同情景中相互斗争的故事。这些场景，有时候是生死搏斗，有时候是在抢购，有时候是人们试图拯救世界。而你永远不会真的知道将会有什么。\n\n**SCP-173**\n* [[[consequences-and-collarbones | vs. SCP-096]]]\n* [[[snap-crackle-pop | vs. SCP-106]]]\n\n**Dr. Shaw**\n* [[[with-a-target | vs. Dr. Clef]]]\n* [[[an-ending-is-only-tragic | vs. SCP-076]]]\n* [[[come-together-right-now-over-me | vs. SCP-682]]]\n* [[[the-melody-is-familiar | vs. SCP-079]]]\n\n**一名D级**\n* [[[everything-can-change-in-the-blink-of-an-eye | vs. SCP-173]]]\n* [[[nor-spake-nor-moved-their-eyes | vs. SCP-049]]]\n* [[[the-horrors-of-an-unclean-bowl | vs. SCP-789-J ]]]",
+  "tags": [
+    "_故事中心",
+    "cimmerian博士",
+    "clef博士",
+    "gears博士",
+    "shaw博士",
+    "中心"
+  ],
+  "author": "Etinjat",
+  "created_at": "2019-04-23T02:12:22+00:00",
+  "updated_at": "2023-05-09T13:47:40+00:00",
+  "rating": 8,
+  "_site": "scp-wiki-cn",
+  "_fullname": "in-opposition-to"
+}

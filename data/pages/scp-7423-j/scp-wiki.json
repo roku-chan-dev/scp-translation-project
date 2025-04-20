@@ -1,0 +1,22 @@
+{
+  "title": "SCP-7423-J",
+  "content": "[[include theme:black-highlighter-theme]]\n[[include :scp-wiki:theme:penumbra-bhl]]\n[[include :scp-wiki:theme:scp-trans-pride | trans-pride-footer= --]]]\n[[include :scp-wiki:component:pride-highlighter |inc-tg-alt= --]]]\n[[include :scp-wiki:component:betterfootnotes]]\n[[module css]]\n:root {\n --accentColor: 132, 112, 223;\n    --fnColor: #8470DF;\n\n}\n#page-title {\n  display: none;\n}\n\n.fncon {\nbackground: #2F333C;\n}\n[[/module]]\n[[include :scp-wiki:info:start]]\n**Author:** [[*user weiserthanyou]]\n[[include :scp-wiki:info:end]]\n\n**Item #:** SCP-7423-J\n\n**Object Class:** Safe\n\n**Special Containment Procedures:** SCP-7423-J is to be kept in a 75-liter fish tank located within a containment cell equipped with basic kitchen utilities and a supply of common ingredients and spices. All cooking activities by SCP-7423-J must be done under human supervision. Requests for specific ingredients and recipes may be approved on a case-by-case basis. Food prepared by SCP-7423-J may be provided to the site breakroom if safe for human consumption.\n\n**Description:** SCP-7423-J is a sapient //Atya lanipes// possessing both telepathic and telekinetic abilities. SCP-7423-J is sociable and highly cooperative with personnel, and greatly enjoys cooking. Despite its limited ability to eat its own cooking, it has substantial knowledge of human tastes and dietary requirements. While it cannot speak or physically hold objects, it is capable of telepathically communicating and controlling multiple heavy objects with extreme precision.\n\n**Addendum 7423-J.1**\nOn 14/09/2021, Director Jonathan Irwin of Site-84 visited Site-29 as a part of the Voluntary Opportunities for Rehabilitative Employment Project, a program designed to provide opportunities for cooperative sapient anomalies to perform paid work and acquire skills. SCP-7423-J agreed to participate, helping prepare food for the cafeteria and planning the meals served during Director Irwin's visit.\n\nThe following is an approximate transcript of a conversation had between Director Irwin and Dr. Medrano during the lunch, as recollected by Dr. Medrano.\n[[div class=\"blockquote\"]]\n**[BEGIN LOG]**\n\n[Extraneous dialogue removed]\n\n\n**Director Irwin:** My compliments to the chef. This arroz frito is the best I've ever tasted.\n\n**Dr. Medrano:** The rice? I'll pass it along. You know, it was prepared by one of the anomalies we have in containment.\n\n**Director Irwin:** Really? Like when, what's-the-one, 5031. Like when 5031 made Thanksgiving dinner for personnel at its site two years ago?\n\n**Dr. Medrano:** Just like that.\n\n**Director Irwin:** Who made this, then?\n\n**Dr. Medrano:** SCP-7423-J.\n\n**Director Irwin:** I'm not familiar with that one, at least by designation. What's anomalous about it?\n\n**Dr. Medrano:** SCP-7423-J is a sapient //Atya lanipes//.\n\n**Director Irwin:** Do I look like I know the scientific name of every species off the top of my head, doctor?\n\n**Dr. Medrano:** Absolutely, sir.\n\n**Director Irwin:** Oh, for the love of— just tell me what 7423-J is.\n\n**Dr. Medrano:** It's a prawn, sir.\n\n**Director Irwin:** You're telling me a shrimp fried this rice?\n\n**[END LOG]**\n[[/div]]\nIn the aftermath of this conversation, Director Irwin ordered a thorough review of anomalies in containment to determine the possible existence of any sentient, rice-frying chickens, eggs, or pineapples.\n\n[[include :scp-wiki:component:license-box]]\n[!-- N/A (No Images)  --]\n[[include :scp-wiki:component:license-box-end]]",
+  "tags": [
+    "_licensebox",
+    "alive",
+    "animal",
+    "fish",
+    "joke",
+    "safe",
+    "sapient",
+    "scp",
+    "telekinetic",
+    "telepathic"
+  ],
+  "author": "weiserthanyou",
+  "created_at": "2023-02-27T15:07:29+00:00",
+  "updated_at": "2023-02-28T17:38:13+00:00",
+  "rating": 47,
+  "_site": "scp-wiki",
+  "_fullname": "scp-7423-j"
+}

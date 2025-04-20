@@ -1,0 +1,13 @@
+{
+  "title": "SCP-6689-4",
+  "content": "[[include :scp-wiki-cn:theme:basalt darkmode=a|hidetitle=a]]\n\n[[div class=\"notation\"]]\n\n++ 收容报告：\n\n{{自上一周期以来的尝试外撤：//65,099//}}\n\n{{自上一周期以来的成功外撤：//0.0059//}}[[span class=\"fnnum\"]].[[/span]][[span class=\"fncon\"]]在当前收容准则下，少于0.01的数据泄露是允许的。[[/span]]\n\n{{当前收容效能：//充分//}}\n\n{{下一周期的收容突破可能性：//0.0129%// }}\n\n@@ @@\n-----\n[[include :scp-wiki:component:image-block\n| name=https://scp-wiki.wdfiles.com/local--files/scp-6699/Dots%21.gif\n| caption= 拟收容构造踪迹——分区5_C21D，]]\n@@ @@\n\n++ //TETS-L（R）//开发：\n\n{{**TETS-L(R)：**}}现存//特里斯墨吉斯忒斯引擎图腾识别仪//（称为//TETS-L//）的开发中版本。//TETS-L（R）//提议使用根茎式迷宫框架以收容SCP-6689。\n\n{{**[[span class=\"ruby\"]]根茎式迷宫[[span class=\"rt\"]]Rhizomatic Labyrinth[[/span]][[/span]]：**}}根茎式迷宫，可设想为一张相互联系的网，是一种每个单独的点都可以和/或通过可寻路的关系线相连接的构造。因此，迷宫漫游者经历的迷失方向感是该构造本身压倒性的性质导致的结果。若路径是单向的而交叉道路是多向的，那么根茎式迷宫可被看作是全向的：拥有无穷的路径，但没有一条可被优先考虑为“正确”的。因此，迷宫漫游者没有逃脱根茎式迷宫的希望，只能在其中无尽地穿梭。不同于单径和多径式迷宫，该迷宫不具有明确的迷宫观测者视角。根茎式迷宫无法从外部完全经历，而尝试这么做的行为产生的只有踪迹——即对其包含的复杂性的部分展现。\n@@ @@\n\n+++ __**[[[https://scp-wiki-cn.wikidot.com/scp-6689/offset/5|戈特弗里德]]]**__子协议：\n++++++ 根茎式迷宫开发报告\n-----\n* {{P1,2 -- Conn-Het执行状态：//##green|成功##//}}\n* {{P3 -- 多重性执行状态：//##green|成功##//}}\n* {{P4 -- Asig-Rapture执行状态：//##green|成功，##确保收容冗余。//}}\n* {{P5,6：Carto-Decal执行状态：//##red|未完成，##与SCP-6689的关系在构造上保持中心统一性。//}}\n-----\n@@ @@\n{{**备注：**}}尽管根茎式收容构造应当成功无限期收容__[[[https://scp-wiki-cn.wikidot.com/scp-6689/offset/0|SCP-6689]]]__，但迄今为止，我们尚不能构建出稳定的迷宫。我们对此最好的解释是，该问题源自SCP-6689与所述根茎的关系：该实体理解且经历了其与自身的关系，因此占据了中心统一体的角色——与该构造的性质相对立。正在探讨是否在该构造内进一步使用理念圈逆模因。\n[[/div]]",
+  "tags": [
+    "段落"
+  ],
+  "author": "Esperanza_Cai",
+  "created_at": "2022-04-06T12:20:27+00:00",
+  "updated_at": "2022-04-06T12:20:57+00:00",
+  "rating": 0,
+  "_site": "scp-wiki-cn",
+  "_fullname": "fragment:scp-6689-4"
+}

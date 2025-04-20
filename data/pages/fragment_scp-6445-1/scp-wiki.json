@@ -1,0 +1,13 @@
+{
+  "title": "fragment:scp-6445-1",
+  "content": "[[include :scp-wiki:theme:blankstyle]]\n\n\n[[module css]]\n:root{\n  --header-title: \"Site-⌘\";\n  --header-subtitle: \"Department of Surrealistics\";\n}\n\ndiv#extra-div-1 {\n    background-image: url(https://scp-wiki.wdfiles.com/local--files/scp-6445/Surrealistics-Logo.png);\n    filter: opacity(20%);\n}\n[[/module]]\n\n[[div style=\"background: url(https://scp-wiki.wdfiles.com/local--files/scp-6445/Surrealistics-Logo-Background.png) bottom center no-repeat; text-align: center; width: 600px; margin: 0 auto; font-size: 20px; padding: 0px;\"]]\n\n@@ @@\n@@ @@\n\n@@ @@\n\n@@ @@\n\n[[=]]\n++* ##black|WARNING##\n##black|Everything in this document is absolutely true. Authorized access is expressly forbidden.##\n[[/=]]\n= **##black|[https://scp-wiki.wikidot.com/scp-6445/offset/1 OPEN DOCUMENT]##**\n\n@@ @@\n\n@@ @@\n\n[[/div]]\n\n@@ @@\n@@ @@\n@@ @@\n@@ @@\n@@ @@\n@@ @@\n@@ @@\n@@ @@\n@@ @@\n@@ @@\n@@ @@\n@@ @@\n@@ @@\n@@ @@\n@@ @@\n@@ @@\n@@ @@\n@@ @@\n@@ @@\n@@ @@\n@@ @@\n@@ @@\n@@ @@\n@@ @@\n@@ @@\n@@ @@\n@@ @@\n@@ @@\n@@ @@\n@@ @@\n@@ @@\n@@ @@\n@@ @@\n@@ @@\n@@ @@\n@@ @@\n@@ @@\n@@ @@",
+  "tags": [
+    "fragment"
+  ],
+  "author": "MontagueETC",
+  "created_at": "2022-03-04T22:28:51+00:00",
+  "updated_at": "2023-06-18T17:40:58+00:00",
+  "rating": 0,
+  "_site": "scp-wiki",
+  "_fullname": "fragment:scp-6445-1"
+}

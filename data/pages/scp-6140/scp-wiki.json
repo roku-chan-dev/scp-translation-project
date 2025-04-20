@@ -1,0 +1,32 @@
+{
+  "title": "SCP-6140",
+  "content": "[[=]]\n[[module Rate]]\n[[/=]]\n[[include :scp-wiki:component:info-ayers\n|lang=en\n|page=scp-6140\n|authorPage=https://scp-wiki.wikidot.com/aismallard\n|comments= \n**SCP-6140:** The True Empire \nby [[*user stormbreath]] and [[*user aismallard]] \n \nFor the benefit of translators and editors, here are links to the individual offset pages: \n \n* **[https://scp-wiki.wikidot.com/fragment:scp-6140-0 Fragment 0]**\n* **[https://scp-wiki.wikidot.com/fragment:scp-6140-1 Fragment 1]**\n]]\n\n[[module CSS]]\n#u-author_block {\n    display: none;\n}\n[[/module]]\n\n[[module ListPages category=\"fragment\" parent=\".\" order=\"created_at\" limit=\"1\" offset=\"@URL|0\"]]\n%%content%%\n[[/module]]\n\n[[footnoteblock]]\n\n[[div class=\"footer-wikiwalk-nav\"]]\n[[=]]\n<< [[[SCP-6139]]] | SCP-6140 | [[[SCP-6141]]] >>\n[[/=]]\n[[/div]]\n\n[[include :scp-wiki:component:license-box\n|author=aismallard and stormbreath]]\n=====\n> **Filename:** map.png\n> **Author:** aismallard\n> **License:** CC BY-SA 3.0\n> **Derivative Of:** [[[https://commons.wikimedia.org/wiki/File:BlankMap-World.svg|BlankMap-World]]] (Public Domain by Canuckguy and et al)\n\n> **Filename:** daevastan.jpg\n> **Name:** Altyn Arashan resort, Kyrgyzstan 3\n> **Author:** Adam Harangozó\n> **License:** CC BY-SA 4.0\n> **Source:** [[[https://commons.wikimedia.org/wiki/File:Altyn_Arashan_resort,_Kyrgyzstan_3.jpg|Wikimedia Commons]]]\n\n> **Filename:** scp-140-a.jpg\n> **Name:** Earl S.\n> **Author:** Gerard M. Bauer\n> **License:** CC0\n> **Source:** [[[https://commons.wikimedia.org/wiki/File:Earl_S..jpg|Wikimedia Commons]]]\n=====\n[[include :scp-wiki:component:license-box-end]]",
+  "tags": [
+    "6000",
+    "_cc",
+    "_licensebox",
+    "_listpages",
+    "able",
+    "alternate-history",
+    "anomalous-event",
+    "apocalyptic",
+    "cain",
+    "co-authored",
+    "daevite",
+    "historical",
+    "k-class-scenario",
+    "location",
+    "neutralized",
+    "reality-bending",
+    "religious",
+    "ritual",
+    "scarlet-king",
+    "scp"
+  ],
+  "author": "stormbreath",
+  "created_at": "2021-05-27T15:01:27+00:00",
+  "updated_at": "2024-10-11T19:53:48+00:00",
+  "rating": 923,
+  "_site": "scp-wiki",
+  "_fullname": "scp-6140"
+}

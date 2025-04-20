@@ -1,0 +1,19 @@
+{
+  "title": "심연의 제안",
+  "content": "[[include :scpko:info:start]]\n**심연의 제안** - 새로운 접근,,A New Approach,,\n@@@@\n**저자:** [[*user ProfoundAbyss]]\n@@@@\n[[[theme:penumbra|반그림자 테마]]] by [[*user estrellayoshte]]\n@@@@\n[[[music-is-my-life-hub|음악은 나의 삶 이벤트]]] 투고작. [[*user oratio]]님의 선정곡 [https://www.youtube.com/watch?v=ejFPGODMDXc 창세노트]에 영감을 받아 작성되었습니다.    \n@@@@\n[[[profound-abyss-author-page|심연의 다른 작품들 알아보기]]]\n[[include :scpko:info:end]]\n\n[[module ListPages  category=\"fragment\" parent=\".\" limit=\"1\" order=\"created_at\" offset=\"@URL|0\"]]\n%%content%%\n[[/module]]",
+  "tags": [
+    "001-제안",
+    "ko",
+    "scp",
+    "난해한-등급",
+    "문서",
+    "온라인",
+    "재단이-만듦"
+  ],
+  "author": "ProfoundAbyss",
+  "created_at": "2024-08-23T13:16:12+00:00",
+  "updated_at": "2024-08-24T02:43:32+00:00",
+  "rating": 33,
+  "_site": "scpko",
+  "_fullname": "profoundabyss-proposal"
+}

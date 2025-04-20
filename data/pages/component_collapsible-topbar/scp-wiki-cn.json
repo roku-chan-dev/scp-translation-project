@@ -1,0 +1,14 @@
+{
+  "title": "折叠顶栏",
+  "content": "[[iftags +组件]]\n\n这是一个可将顶栏再次折叠隐藏的组件。在制作版式时，若PC或移动端的顶栏过长影响使用，使用它会很合适。在你的作品开头添加如下语法以应用此版式。\n\n> @@[[include :scp-wiki-cn:component:collapsible-topbar]]@@\n\n如需调整可重新声明以下参数：\n\n* ​**maxw**\n * 屏幕宽度超过该值时PC端不折叠顶栏\n * 767px ~ 10000px\n * 需要手动输入此参数才能使其他参数生效\n* ​**top-color**\n * 修改展开顶栏按钮的文本颜色\n * 默认值: #FFF\n* ​**top-bg**\n *  修改展开状态下顶栏的背景颜色\n * 默认值: 透明\n[[/iftags]]\n\n[[module CSS]]\n.mobile-top-bar {\n  max-width: 100% !important;\n}\n\n#top-bar {\n  color: #FFF;\n}\n\n@media (max-width: {$maxw}) and (min-width: 768px) {\n  #top-bar {\n    visibility: hidden;\n  }\n  #top-bar > div > ul::before {\n    content: \"导航菜单\";\n    color: {$top-color};\n    text-align: right;\n    visibility: visible;\n    display: block;\n  }\n\n  #top-bar:hover {\n    width: 100%;\n    visibility: visible;\n    background-color: {$top-bg};\n    border-left: 300px solid {$top-bg};\n  }\n  #top-bar:hover > div > ul::before {\n    visibility: hidden;\n    display: none;\n  }\n}\n\n@media (max-width: 767px) {\n  .mobile-top-bar {\n    width: 100%;\n  }\n\n  #top-bar {\n    visibility: hidden;\n  }\n  #top-bar .open-menu a {\n    visibility: visible;\n    display: block;\n  }\n  #top-bar > div > ul::after {\n    content: \"◀\";\n    color: {$top-color};\n    text-align: right;\n    visibility: visible;\n    display: block;\n  }\n\n  #top-bar:hover {\n    visibility: visible;\n    width: 100%;\n    background-color: {$top-bg};\n    border-left: 300px solid {$top-bg};\n  }\n  #top-bar:hover > div > ul::after {\n    visibility: hidden;\n    display: none;\n  }\n}\n\n@media (max-width: 385px) {\n  .mobile-top-bar {\n    width: 97%;\n  }\n}\n[[/module]]\n\n[[div style=\"display:none;\"]]\n[[include :scp-wiki-cn:component:collapsible-topbar maxw={$maxw}|maxw=10000px]]\n[[/div]]",
+  "tags": [
+    "ko",
+    "组件"
+  ],
+  "author": "Hppp",
+  "created_at": "2025-03-13T17:20:03+00:00",
+  "updated_at": "2025-03-13T17:20:16+00:00",
+  "rating": 2,
+  "_site": "scp-wiki-cn",
+  "_fullname": "component:collapsible-topbar"
+}

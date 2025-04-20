@@ -1,0 +1,26 @@
+{
+  "title": "SCP-CN-2879",
+  "content": "[[>]]\n[[module Rate]]\n[[/>]]\n \n[[module ListPages category=\"fragment\" parent=\".\" order=\"created_at\" limit=\"1\" offset=\"@URL|0\"]]\n%%content%%\n[[/module]]\n\n[!--\nhttp://scp-jp.wikidot.com/fragment:cn-2879-1\n\nhttp://scp-jp.wikidot.com/fragment:cn-2879-2\n--]",
+  "tags": [
+    "cn",
+    "cn2000",
+    "esoteric-class",
+    "k-クラスシナリオ",
+    "scp",
+    "メタ",
+    "共著",
+    "地球外",
+    "惑星",
+    "感覚",
+    "現実改変",
+    "認識災害",
+    "誤伝達部門",
+    "財団製"
+  ],
+  "author": "dhueguang",
+  "created_at": "2021-04-30T09:31:24+00:00",
+  "updated_at": "2021-04-30T09:35:18+00:00",
+  "rating": 43,
+  "_site": "scp-jp",
+  "_fullname": "scp-cn-2879"
+}

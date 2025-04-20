@@ -1,0 +1,14 @@
+{
+  "title": "Random Art",
+  "content": "[[module ListPages category=\"*\" order=\"random\" limit=\"1\" tag=\"artist artwork\"]]\n[[include :snippets:redirect url=%%link%%]]\n[[/module]]",
+  "tags": [
+    "admin",
+    "redirect"
+  ],
+  "author": "EstrellaYoshte",
+  "created_at": "2022-01-09T08:40:24+00:00",
+  "updated_at": "2022-01-13T20:28:52+00:00",
+  "rating": 0,
+  "_site": "scp-wiki",
+  "_fullname": "random:random-art"
+}

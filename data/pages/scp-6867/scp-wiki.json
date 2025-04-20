@@ -1,0 +1,20 @@
+{
+  "title": "SCP-6867",
+  "content": "[[include :scp-wiki:theme:foxtrot]]\n\n[[>]]\n[[module Rate]]\n[[/>]]\n@@ @@\n\n[[include component:image-block name=DHorse.jpg|width=350px|align=right|caption=SCP-6867 performing in 1907, prior to noted anomalous phenomena.]]\n**Item #:** SCP-6867\n\n**Object Class:** Neutralized\n\n**Special Containment Procedures:** SCP-6867's designation has been changed to Neutralized; no further Special Containment Procedures are necessary. \n\n**Description:** SCP-6867 designates the stallion \"Lucky Bucky,\" who performed as a 'diving horse' across central and eastern Canada from 1905 to 1910. During the majority of his career, SCP-6867's performances were typical spectacles: the horse would be led up an elevated structure, and jump into a body of water from a height of 6 to 15 meters. However, from 1909 onward, SCP-6867's performance began to include increasingly atypical phenomena: the horse progressively dived from high and higher heights -- the highest recorded jump occurring from a 30-meter tall platform. \n\nAdditionally, following SCP-6867's descent during these performances, the horse was documented as emerging unharmed from the body of water and capable of walking across its surface to return to shore. Promotional material described SCP-6867 as 'miraculous,' and over subsequent displays the horse inspired a small group of worshippers who would follow SCP-6867 between exhibitions, claiming that the horse was divinely protected. \n\nThe increasingly high-profile nature of SCP-6867's performances and the newspaper coverage of the horse's worship led to a Foundation investigation into the cause of SCP-6867's anomalous properties. It was subsequently determined that the horseshoes worn by SCP-6867 had been thaumaturgically enchanted with a series of runes, enabling these performances to take place. In response, Foundation personnel covertly inscribed anti-runes on the horseshoes, negating their thaumaturgic properties.\n\nFollowing its subsequent performance, SCP-6867 was classified as Neutralized. \n\n@@ @@\n@@ @@\n-----\n@@ @@\n@@ @@\n\n**Addendum: [File Unarchived]** \nOn 2022/06/17, a metal plaque was discovered at the location of SCP-6867's final performance. The following message was engraved on its surface:\n@@ @@\n[[div class=\"blockquote\"]]\n[[=]]\n@@ @@\n++ HORSE JESUS\n+++ DIVED FOR YOUR SINS\n@@ @@\n[[/=]]\n[[/div]]\n@@ @@\n[[div class=\"footer-wikiwalk-nav\"]]\n[[=]]\n<< [[[SCP-6866]]] | SCP-6867 | [[[SCP-6868]]] >>\n[[/=]]\n[[/div]]\n@@ @@\n[[include :scp-wiki:component:license-box]]\n=====\n> **Filename:** DHorse.jpg\n> **Name:** The diving horse at the Hanlan's Point Amusement Park, Toronto, Ontario, Canada, around 1907\n> **Author:** William James\n> **License:** Public Domain\n> **Source Link:** https://commons.wikimedia.org/wiki/File:The_diving_horse_at_Hanlan%27s_Point.jpg\n=====\n[[include :scp-wiki:component:license-box-end]]",
+  "tags": [
+    "_cc",
+    "_licensebox",
+    "alive",
+    "animal",
+    "equine",
+    "neutralized",
+    "performance",
+    "scp"
+  ],
+  "author": "DodoDevil",
+  "created_at": "2022-06-18T17:54:07+00:00",
+  "updated_at": "2023-07-05T15:59:56+00:00",
+  "rating": 84,
+  "_site": "scp-wiki",
+  "_fullname": "scp-6867"
+}

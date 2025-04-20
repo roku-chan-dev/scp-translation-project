@@ -1,0 +1,15 @@
+{
+  "title": "SCP艺作-JP",
+  "content": "> 注意：本页面为用以放置已翻译的日本分部艺术作品页面的中心页，若要观看其他未翻译的日本分部艺术作品的话，请移师[http://scp-jp.wikidot.com/artwork-jp 对应页面]。\n\n> 如何让你翻译的的作品页面出现在这里：在标签中加上「//艺术作品// //jp//」(引号去掉)即可。\n[[module CSS]]\n.content-panel .content-type-title > p {\n  margin: 0;\n}\n.content-panel .content-type-title {\n  font-size: 120%;\n  font-weight: bold;\n  padding: 5px 20px;\n  background-color: #666;\n  color: #fff;\n  border-radius: 8px 8px 0 0;\n  box-shadow: inset 0 1px 1px rgba(255,255,255,.8),\n    inset 0 15px 1px rgba(255,255,255,.2),\n    inset 0 15px 10px rgba(255,255,255,.2);\n}\n.content-panel .content-type-description {\npadding: 0 20px;\ntext-align: justify;\n}\n.content-panel.content-row .content-type-description {\npadding: 5px 20px;\n}\n.content-panel.content-row .content-type-description-2 {\npadding: 0 20px;\ntext-align: justify;\n}\n[[/module]]\n\n[[div class=\"content-panel standalone content-row\"]]\n[[div class=\"content-type-title\"]]\n已翻译艺作页面\n[[/div]]\n\n[[div class=\"content-type-description-2\"]]\n\n[[table style=\"width: 100%;\"]]\n[[row style=\"font-weight: bold; color: #fff; background-color: #666;\"]]\n[[cell style=\"padding: 0 2px; width: 50%;\"]]\n页面\n[[/cell]]\n[[cell style=\"padding: 0 2px; width: 25%; text-align: center;\"]]\n最终更新\n[[/cell]]\n[[cell style=\"padding: 0 2px; text-align: center;\"]]\n搬运者\n[[/cell]]\n[[/row]]\n[[/table]]\n\n[[/div]]\n\n[[div class=\"content-type-description\"]]\n\n[[module ListPages order=\"updated_at desc\" tag=\"艺术作品 艺术家 +jp\" category=\"*\" prependLine=\"[[include component:listpages-table]]\" perPage=\"40\" appendLine=\"[[/table]]\" separate=\"false\"]]\n[[row]]\n[[cell style=\"vertical-align: top;\"]]\n%%title_linked%%\n[[/cell]]\n[[cell style=\"vertical-align: top; text-align: center;\"]]\n%%updated_at%%\n[[/cell]]\n[[cell style=\"vertical-align: top; text-align: left;\"]]\n%%created_by_linked%%\n[[/cell]]\n[[/row]]\n[[/module]]\n\n[[/div]]\n[[/div]]",
+  "tags": [
+    "jp",
+    "中心",
+    "艺术作品"
+  ],
+  "author": "MScarlet",
+  "created_at": "2024-04-05T08:08:03+00:00",
+  "updated_at": "2024-04-05T08:08:17+00:00",
+  "rating": 1,
+  "_site": "scp-wiki-cn",
+  "_fullname": "artwork-jp"
+}

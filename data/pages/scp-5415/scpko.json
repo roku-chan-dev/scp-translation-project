@@ -1,0 +1,22 @@
+{
+  "title": "SCP-5415",
+  "content": "[[include info:start]]\n**Title:** 고모라의 120일\n**Original:** [https://scp-wiki.wikidot.com/scp-5415 SCP-5415] by [[*user Dysadron]]\n**Translator:** [[*user XCninety]]\n\n> **파일명:** 120GM\n> **저작권자:** Dysadron\n> **라이선스:** CC-BY-SA\n\n> **파일명:** FloorPlan1\n> **저작권자:** Dysadron\n> **라이선스:** CC-BY-SA\n\n> **파일명:** FloorPlan2\n> **저작권자:** Dysadron\n> **라이선스:** CC-BY-SA\n\n> **파일명:** FloorPlan3\n> **저작권자:** Dysadron\n> **라이선스:** CC-BY-SA\n\n> **파일명:** Baptism\n> **저작권자:** Dysadron\n> **라이선스:** CC-BY-SA\n> **파생물:** \"young-happy-couple-at-sunset-beach\" + Free vintage antique leather book cover texture for layers (2981931138).jpg\n\n> **파일명:** Baptism\n> **원본:** young-happy-couple-at-sunset-beach\n> **저작권자:** peopleshot\n> **라이선스:** CC0\n> **출처:** https://pickupimage.com/free-photos/young-happy-couple-at-sunset-beach/2333012\n \n> **파일명:** Baptism\n> **원본:** Free vintage antique leather book cover texture for layers (2981931138).jpg\n> **저작권자:** Pink Sherbert Photography\n> **라이선스:** Creative Commons Attribution 2.0 Generic\n> **출처:** https://commons.wikimedia.org/wiki/File:Free_vintage_antique_leather_book_cover_texture_for_layers_(2981931138).jpg\n[[include info:end]]\n\n[[module ListPages  category=\"fragment\" parent=\".\" limit=\"1\" order=\"created_at\" offset=\"@URL|0\"]]\n%%content%%\n[[/module]]\n\n[[module CSS]]\n\n.info-container .collapsible-block-folded a{\ncolor: #FFF;}\n.info-container .collapsible-block-unfolded-link a{\ncolor: #FFF;\n}\n\n#page-content .collapsible-block {\n    display: block;\n    text-align: center;\n    padding: .8em;\n    background-color: #e3e3e3;\n    border-top: 0.125rem dashed #b5b5b5;\n    border-bottom: 0.125rem dashed #b5b5b5;\n}\n\n#page-content .collapsible-block .collapsible-block-content {\n    text-align: left;\n}\n\n#page-content .licensebox .collapsible-block {\n    display: unset;\n    text-align: unset;\n    padding: unset;\n    background-color: unset;\n    border-top: unset;\n    border-bottom: unset;\n}\n\n#page-content .licensebox .collapsible-block .collapsible-block-content {\n    text-align: unset;\n}\n\nblockquote,\ndiv.blockquote {\n    border: 0.125rem solid #d4d4d4;\n    background-color: #F5F5F5;\n}\n\n.interview{\n    border:solid 2px #d4d4d4;\n    background:#F5F5F5;\n    width:80%;\n    padding:1px 15px;\n    margin: 10px auto;\n}\n\n#page-title{display:none}\n\n[[/module]]\n\n[!-- http://scpko.wikidot.com/fragment:scp-5415-1--]\n[!-- http://scpko.wikidot.com/fragment:scp-5415-2 --]\n\n[[footnoteblock]]",
+  "tags": [
+    "en",
+    "scp",
+    "강박",
+    "공간",
+    "기억조작",
+    "문서",
+    "변성",
+    "서술",
+    "외부차원",
+    "케테르"
+  ],
+  "author": "XCninety",
+  "created_at": "2024-07-22T12:40:09+00:00",
+  "updated_at": "2024-12-05T09:26:22+00:00",
+  "rating": 4,
+  "_site": "scpko",
+  "_fullname": "scp-5415"
+}

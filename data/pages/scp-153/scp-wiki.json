@@ -1,0 +1,21 @@
+{
+  "title": "SCP-153",
+  "content": "[[>]]\n[[module Rate]]\n[[/>]]\n[[include component:image-block name=scp-153-new.jpg|caption=A specimen of SCP-153, camouflaged]]\n**Item #:** SCP-153\n\n**Object Class:** Euclid\n\n**Special Containment Procedures:** Specimens of SCP-153 are to be kept isolated in acid-resistant containers measuring no less than 10 m x 10 m x 5 m, partially filled with sewage and organic material, at Bio-Research Area-12. Every four hours, both the level of organic content and the structural integrity of each container must be checked. Under no circumstances are these containers to be connected to any internal or external plumbing system. \n\nSpecimens of SCP-153 almost certainly still exist in the wild. Any reports of people mysteriously disappearing from showers and bathtubs must be investigated immediately. Agents must be equipped with infrared and ultraviolet sensors to circumvent SCP-153’s camouflage. Specimens should be brought alive to Area-12 if at all possible.\n\n**Description:** SCP-153 appears to be a species of nematode (roundworm) that can reach up to ██ m in length and ██ cm in diameter. Specimens of SCP-153 live in sewers and drain pipes, and while specimens of SCP-153 can live off of most any organic material, they prefer to consume animal tissue.\n\nSpecimens of SCP-153 excrete a highly acidic substance similar to [DATA EXPUNGED] from their mouths and gullets, and they have the ability to camouflage themselves both outside and in. SCP-153 has developed a hunting technique where a specimen will swim up a shower or bathtub drain, dissolve the drain cover with its acidic saliva, and camouflage its gullet to look like a standard drain. Shortly after a human enters the shower or bathtub, the specimen [DATA EXPUNGED] back down the drain, leaving almost nothing behind. This entire process usually takes less than █████ seconds.\n\n**Addendum 153-01:** Specimens of SCP-153 are to be kept isolated from each other except under controlled breeding conditions. –Dr. Kovalanskaya\n\n**Addendum 153-02:** Incidents in █████████████ suggest that specimens of SCP-153 have started attacking people through sink drains, toilets, [DATA EXPUNGED]. Researchers are investigating how such an apparently simple animal can develop such relatively sophisticated hunting techniques.\n\n**Addendum 153-03:** Dr. Kovalanskaya has received approval to start a breeding research program with SCP-153, with emphasis on genetic engineering. The program [DATA EXPUNGED] as well as a potential method of organic waste disposal.\n\n**Addendum 153-04:** A controlled release of SCP-153 instances has been proposed as a potential containment method for stalling the spread of [[[SCP-2717]]]. Approval Pending.\n\n[[footnoteblock]]\n\n[[div class=\"footer-wikiwalk-nav\"]]\n[[=]]\n<< [[[SCP-152]]] | SCP-153 | [[[SCP-154]]] >>\n[[/=]]\n[[/div]]\n[[include :scp-wiki:component:license-box author=Quikngruvn]]\n> **Filename:** scp-153-new.jpg\n> **Name:** Golvbrunn.jpg\n> **Author:** Holger.Ellgaard\n> **License:** CC BY-SA 3.0 Unported\n> **Source Link:** [https://commons.wikipedia.org/wiki/file:golvbrunn.jpg Wikimedia Commons]\n[[include :scp-wiki:component:license-box-end]]",
+  "tags": [
+    "_licensebox",
+    "alive",
+    "euclid",
+    "metamorphic",
+    "mimetic",
+    "predatory",
+    "scp",
+    "species",
+    "worm"
+  ],
+  "author": "Quikngruvn",
+  "created_at": "2009-07-10T20:24:54+00:00",
+  "updated_at": "2024-12-01T20:37:19+00:00",
+  "rating": 172,
+  "_site": "scp-wiki",
+  "_fullname": "scp-153"
+}

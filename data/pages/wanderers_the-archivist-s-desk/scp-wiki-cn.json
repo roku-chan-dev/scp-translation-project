@@ -1,0 +1,14 @@
+{
+  "title": "归档员的办公桌",
+  "content": "+++++ 我，孩子？我是谁？这对你或你的物种来说无关紧要。我只能说我在你出生之前就在这儿，在你死后还会待在这里。总之，既然你还活着，你可能得帮我一个忙……拿走这本书，在你死之前不要把它带回来。我会在十七年内去见你。不要让我看到你已经死了，妈的。过去，我这条灵魂已经消磨了不少了，我可不希望已经老了还要生气……\n\n —— //来自“四指之书”，作者Jericho Benalsh，图书馆第七归档员//\n\n-----\n\n[[collapsible show=\"Troy的工具\" hide=\"Scrappy Doo没那么差\"]]\n\n[[/collapsible]]\n-----\n[!--\n\n[[code type=\"html\"]]\n<html>\n  <body>\n\n<form method=\"get\" action=\"http://www.google.com/search\" target=\"google_window\">\n\n<div style=\"border:1px solid #468259;padding:4px;width:20em;\">\n<table border=\"0\" cellpadding=\"0\">\n<tr><td>\n<input type=\"text\"   name=\"q\" size=\"25\"\n maxlength=\"255\" value=\"\" />\n<input type=\"submit\" value=\"Google Search\" /></td></tr>\n<tr><td align=\"center\" style=\"font-size:75%\">\n<input type=\"checkbox\"  name=\"sitesearch\"\n value=\"wanderers-library.wikidot.com\" checked /> Search Only The Wanderer's Library<br />\n</td></tr></table>\n</div>\n\n</form>\n\n  </body>\n</html>\n[[/code]]\n\n--]\n\n[[iframe http://wanderers-library.wikidot.com/the-archivist-s-desk/code/1 frameborder=\"0\" scrolling=\"no\" width=\"350px\" height=\"75px\"]]\n\n[[collapsible show=\"Roget的模组\" hide=\"Robot Jones发生了什么?\"]]\n\n最新创建页面\n[[module ListPages order=\"created_at desc\" separate=\"false\" limit=\"60\" perPage=\"20\"]]\n|| %%title_linked%% || Rating: %%rating%% || [[*user %%created_by%%]] || %%comments%% comments ||\n[[/module]]\n\n[[/collapsible]]\n\n= **点击以下链接生成竞赛条目**\n[[module NewPage template=\"template:wanderers-contest\" size=\"20\" button=\"添加竞赛条目\"]]",
+  "tags": [
+    "wanderers",
+    "作者"
+  ],
+  "author": "Airalin_Knowledge",
+  "created_at": "2017-02-22T13:39:49+00:00",
+  "updated_at": "2022-11-01T11:51:00+00:00",
+  "rating": 1,
+  "_site": "scp-wiki-cn",
+  "_fullname": "wanderers:the-archivist-s-desk"
+}

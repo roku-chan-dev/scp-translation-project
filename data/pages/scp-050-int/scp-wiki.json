@@ -1,0 +1,27 @@
+{
+  "title": "SCP-050-INT",
+  "content": "[[>]]\n[[module rate]]\n[[/>]]\n[[module ListPages category=\"fragment\" parent=\".\" order=\"created_at\" limit=\"1\" offset=\"@URL|0\"]]\n%%content%%\n[[/module]]\n\n[!-- https://scp-wiki.wikidot.com/fragment:scp-050-int-0 --]\n[!-- https://scp-wiki.wikidot.com/fragment:scp-050-int-1 --]",
+  "tags": [
+    "_cc",
+    "_int",
+    "_listpages",
+    "antimemetic",
+    "co-authored",
+    "concept",
+    "foundation-made",
+    "international",
+    "k-class-scenario",
+    "language",
+    "memetic",
+    "religious",
+    "scp",
+    "tactical-theology",
+    "thaumiel"
+  ],
+  "author": "Crow-Cat",
+  "created_at": "2023-12-09T01:39:39+00:00",
+  "updated_at": "2023-12-09T03:29:40+00:00",
+  "rating": 34,
+  "_site": "scp-wiki",
+  "_fullname": "scp-050-int"
+}

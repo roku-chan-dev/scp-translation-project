@@ -1,0 +1,16 @@
+{
+  "title": "Wikidot的两种常见的保存问题及解决方法",
+  "content": "[[include :evernight-aquarium:component:non-savingpage]]\n\n[[>]]\n[[module Rate]]\n[[/>]]\n\n[[toc]]\n+ 一、卡保存\n\n++ 具体表现\n\n我相信大家在scp中分或者scp沙盒站编辑草稿的时候很可能遇到过这样的情况：\n\n> = [[image https://scpsandboxcn.wdfiles.com/local--files/mercuresphere/sandbox-saving-bug.gif]]\n\n当你按下保存按键之后，网页卡在了“Saving page…”的进度条上。可能在一段时间之后会弹出保存失败的对话框\n\n> = [[image https://scpsandboxcn.wikidot.com/local--files/mercuresphere/ajax.jpg]]\n\n更可能发生的事情是半永久的卡在了这里。\n\n++ 解决方法\n\n+++ 审查元素法（适用于电脑端，无需额外准备）\n\n（以下以edge浏览器为例，其他浏览器操作方法基本类似）\n\n当发生卡保存的情况之后，首先按下F12进入审查元素界面，右键点击图中蓝色框的两个部分。\n> = [[image https://scpsandboxcn.wikidot.com/local--files/mercuresphere/F12-1.jpg]]\n> = **本图片不遵守CC协议**\n\n选择删除元素，依次把这两个部分都删掉。\n\n> = [[image https://scpsandboxcn.wikidot.com/local--files/mercuresphere/delete.jpg]]\n> = **本图片不遵守CC协议**\n\n在删掉这两个部分之后，左侧文本框变为可编辑状态，即可把草稿复制出来了。\n\n+++ 预载CSS法（电脑、手机端均适用，但需要提前准备）\n\n如果是手机端，可以选择在页面中加入由日文分部的[[*user R74]]制作，有纪[[*user yuuki410]]翻译的“无限Saving突破CSS”。\n\n将如下代码加入到页面的任意一处：\n\n> @@[[include :evernight-aquarium:component:non-savingpage]]@@\n\n向页面中加入该代码之后，再保存的时候阻止你继续编辑的遮罩层会直接不显示，可以直接把内容复制出来，非常方便。\n\n> = [[image https://crimone.github.io/rosmarinus/images/006Vtzrtly1h5ljt8nzsrj30ps0j7ai4.jpg]]\n> = **载入该CSS之后再点击保存的效果**\n\n+ 二、保存版本未更新\n\n++ 具体表现\n这是另一种较为隐秘，可能影响也更大的bug，那就是虽然保存成功了，但最后一次编辑的内容被卡掉了：\n\n> = 情况一\n> = [[image http://scpsandboxcn.wikidot.com/local--files/mercuresphere/saving-delay.jpg]]\n\n> = 情况二\n> = [[image http://scpsandboxcn.wikidot.com/local--files/mercuresphere/saving-delay-2.jpg]]\n\n这种情况下，当你打开按下编辑按钮的时候，编辑框里的代码是和上一个版本（版本65/版本16），而非最新版本（版本66/版本17）一致的。或者说，你会在倒数第二次编辑的基础上继续编辑，而最后一次编辑的内容被卡掉了。\n\n如果你只在进行较大的修改时才更新到wikidot上，那么你大概已经发现了这种bug的存在。但如果你习惯在wikidot当中进行（错别字等）小修小补，那么这种bug的隐秘和难以察觉的特性将会得到极致的显现，你可能经常会疑惑于明明已经改过的错别字为什么会再次出现，其原因就在于wikidot的保存bug。\n\n++ 解决方法\n\n这一bug的解决方法很简单，相较之下更难的可能是发现这个bug的存在。编辑框里的代码的版本是和底栏中显示的页面版本一致的，因此在编辑之前，先打开历史记录，检查一下底栏中显示的页面版本号是否为最新版本。\n\n如果并非最新版本，在可以点击“R”按钮的情况下建议优先选择点击“R”按钮，如果“R”按钮没有显示，可以手动点击“S”按钮，把最新版本的源代码复制到编辑框中再保存即可。",
+  "tags": [
+    "原创",
+    "合作",
+    "图像保留权利",
+    "文章"
+  ],
+  "author": "Mercuresphere",
+  "created_at": "2022-03-23T07:54:27+00:00",
+  "updated_at": "2023-01-10T01:59:03+00:00",
+  "rating": 102,
+  "_site": "scp-wiki-cn",
+  "_fullname": "bugs-in-saving"
+}

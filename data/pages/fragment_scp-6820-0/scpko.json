@@ -1,0 +1,14 @@
+{
+  "title": "SCP-6820 조각문서 0",
+  "content": "[[include :scpko:theme:admo]]\n\n[[div class=\"admo-accessibility\"]]\n[[span class=\"cond\"]]>> [/scp-6820/offset/1 접근성 모드로 보기] <<[[/span]]\n[[/div]]\n\n[[module CSS]]\n\n:root {\n\n--admo-backdrop: url(https://scp-wiki.wikidot.com/local--files/admonition/admo-6820-bg.webp);\n\n--admo-color-bright: 199, 46, 51;\n--admo-color-dim: 24, 2, 4;\n--admo-color-dark: 6, 0, 1;\n--admo-color-alt: 148, 22, 24;\n\n--general-border-color: 50, 30, 31;\n--basalt-tertiary-color: 35, 10, 8;\n--darkdocument-background-color: 14, 10, 10;\n\n}\n\n[[/module]]",
+  "tags": [
+    "en",
+    "조각문서"
+  ],
+  "author": "Aiken Drum",
+  "created_at": "2023-09-28T14:15:30+00:00",
+  "updated_at": "2023-09-28T14:16:07+00:00",
+  "rating": 0,
+  "_site": "scpko",
+  "_fullname": "fragment:scp-6820-0"
+}

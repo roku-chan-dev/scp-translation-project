@@ -1,0 +1,21 @@
+{
+  "title": "SCP-1246-JP",
+  "content": "[[module css]]\n.page {\n    display: block;\n    overflow: hidden;\n    font-family: \"Monotype Corsiva\", \"Bradley Hand ITC\", sans-serif;\n    font-style: normal;\n\n    background-attachment: scroll;\n    background-clip: border-box;\n    background-color: transparent;\n    background-image: linear-gradient(to top ,rgb(202, 219, 228) 0%, rgb(231, 233, 220) 8%);\n    background-origin: padding-box;\n    background-position: 0px 8px;\n    background-repeat: repeat;\n    background-size: 100% 20px;\n\n    border: 1px solid #CCC;\n    border-radius: 10px;\n    padding: 10px 10px;\n    margin-bottom: 10px;\n\n    box-shadow: 0px 1px 3px rgba(0, 0, 0, 0.2)\n    }\n.page p {\n    line-height: 20px;\n    margin: 0;\n}\n\n@media screen and (max-width:500px){\n.scp-image-block.block-right{\nfloat:none;\nmargin:auto;\n}\n}\n@media screen and (min-width:501px){\n.scp-image-block.block-right{\nfloat:right;\n}\n}\n[[/module]]\n\n[[include credit:start]]\n**タイトル:** SCP-1246-JP - おもかげ\n**著者:** ©︎[[*user sanks269]]\n**作成年:** 2018\n[[include credit:end]]\n\n[[include component:image-block\n|name=tunnel.jpg\n|caption=SCP-1246-JP内の線路。空間異常により視覚的に湾曲している。\n|width=300px]]\n\n**アイテム番号:** SCP-1246-JP\n\n**オブジェクトクラス:** Safe\n  \n**特別収容プロトコル:** SCP-1246-JPへ通じるシャフトの蓋には南京錠を掛け、外部からの侵入を防ぎます。現在のところ、更なるSCP-1246-JP内部の探査は許可されていません。\n\n**説明:** SCP-1246-JPは、神奈川県南足柄市に存在する地下構造物です。この構造物は財団保有の地下鉄道の軌道[[footnote]]財団の所有する地下鉄道、アンダーシャトル-マクロライン-東アジア線の軌道です。当該区域にはターミナル-8100〜箱根芦ノ湖を結ぶ支線が敷設されています。[[/footnote]]直下に位置します。現在確認されている構造物への唯一の出入り口は、線路脇の待避所内に設けられた、蓋付きの深度40mのシャフトです。蓋の裏には[[[http://ja.scp-wiki.net/scp-3790 |”怪奇部門”]]]という文字が日本語で刻まれた小さな金属製プラカードが取り付けられています。財団がこのような部門を有していた記録は存在していません。\n\nSCP-1246-JPの内部には地下鉄駅と思わしき設備が存在します。駅はプラットホーム、駅員室と思わしき老朽化した小屋、1本の線路で構成されています。駅には不明な原理で動作し続ける電力供給機器が1つだけ備えられており、唯一の光源である壁面に設置された水銀灯に接続されています。\n\n線路軌道は北西〜南東方向に一直線に敷設されています。4回に渡り行われた無人機探査では、線路軌道上に不定な間隔で拡張する時空間異常が発生していることが判明しました。そのため、南東方向では太平洋直下で、北西方向では長野県南部で信号が途絶し、端を確認することはできませんでした。\n\nまた、駅には1ヶ月に1度、北西方向から無人の貨物列車が現れます。列車は駅に差し掛かると停車し、正確に5分間、一切の動作を止めます。5分が経過すると、列車は再び動き出し、南東方向へと走り去っていきます。列車の行き先および停車の意図は、現在のところ判明していません。\n\n列車は複数の箱型の貨車を牽引しており、様々な貨物を積載しています。以下はその主な一覧です。\n\n* 様々な業務用廃棄物\n* 大量の土砂や岩石\n* 樹木や野生動物の死骸\n* 海水\n\n----\n\nSCP-1246-JPがいつから財団施設の地下に存在していたのか、利用者がどのような存在だったのかは不明です。ただし数少ない痕跡として、駅員小屋から日誌と見られる1冊の古びたノートが発見されています。日誌から日付は読み取れず、また内容も「異常は無い」という旨の文言で終始しています。しかしこの内4ページのみ、該当しない内容が記載されている箇所が存在します。以下はその抜粋です。\n\n[[=]]\n\n[[div class=\"page\"]]\n\n今回も異常は無い。\n数知れず貨車は通るのに、\n貴方の面影はどれにも入つて居無い。\n貴方の影ばかりが肥大して…。\n\n[[/div]]\n\n[[div class=\"page\"]]\n\n心象の 燐光盤に\n君が おもかげ 来ぬひまは\nたまゆらを 仄かに 安らふ\nそのことの かなしさ。[[footnote]]宮沢賢治の作品である「冬のスケッチ」の第6葉、『おもかげ』からの抜粋と思われます。[[/footnote]]\n@@@@\n--//貴方に逢いたい//--\n\n[[/div]]\n\n[[div class=\"page\"]]\n\n何が信濃の大虚か、指し詰め貴方は大うつけです。\n呑み込んだ私達の思ひ出は、汽車に揺られて、\nもう戻つては来ないのに。\n\n[[size 0%]]おまえのせいだ[[/size]]\n\nいいえ、貴方のせいよ。\n此処にはもう貴方の影しか遺つて居無い。\n\n[[/div]]\n\n[[div class=\"page\"]]\n\n訣めました。\n今夜、私も鉄道に乗つて、銀河の果てに向かいます。\n貴方の失くした過去と共に、今、私も参ります。\n\n[[/div]]\n\n[[/=]]\n\n初期収容時にはこれと共に、揃えられた一組の靴がホームの縁に置かれた状態で発見されています。このノートの筆記者との関連は現在のところ不明です。",
+  "tags": [
+    "jp",
+    "safe",
+    "scp",
+    "地下",
+    "場所",
+    "怪奇部門",
+    "空間",
+    "記述",
+    "鉄道"
+  ],
+  "author": "sanks269",
+  "created_at": "2018-11-04T14:38:18+00:00",
+  "updated_at": "2024-02-21T12:38:56+00:00",
+  "rating": 76,
+  "_site": "scp-jp",
+  "_fullname": "scp-1246-jp"
+}

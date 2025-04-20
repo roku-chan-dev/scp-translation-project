@@ -1,0 +1,14 @@
+{
+  "title": "新邮件",
+  "content": "[[=]]\n**你好！**\n你可能不知道我是谁，又不知道为什么会来到这个界面\n那么，我先来做一个自我介绍。\n我就是被你们称作SCP-CN-1583-1的异常\n虽然我们有了初级的信任，但我们还是深表疑惑\n维度转化的理论可行，但你们给出了否定的回答\n所以现在请重新回答我们的问题，**维度转换到底是否可行？**\n[[/=]]\n\n[[include component:coltop show=回复：维度转换？那是什么？|hide=撤回邮件]]\n\n[[=]]\n您好，我是就任于SCP基金会的一名研究员\n但我并未被允许参与SCP-CN-1583的研究中\n请问您能向我们再提供些信息吗？\n[[/=]]\n\n[[include component:coltop show=新回复！|hide=关闭视窗]]\n[[=]]\n**好的，正在为你调出我们收集的信息**\n[[/=]]\n> ……\n> \n> 维度转换机在被起义军销毁前，运行了███，请问有什么东西到你们那边吗？\n> \n> 很抱歉，没有。看来维度转换是不可行的。\n> \n> ……\n\n[[include component:coltop show=回复：对不起，我对此事全然不知|hide=撤回消息]]\n[[=]]\n...\n\n...\n\n\n...\n\n\n无响应\n\n\n...\n\n\n...\n\n\n...\n\n尊敬的人员，您好。当前建立的通讯网络已中断，请在[[[http://scp-wiki-cn.wikidot.com/scp-cn-1583|这里]]]回到你所浏览的文件。\n\n[[/=]]\n[[include component:colend]]\n[[include component:colend]]\n[[include component:colend]]",
+  "tags": [
+    "原创",
+    "补充材料"
+  ],
+  "author": "Trees   jasper",
+  "created_at": "2020-04-23T12:52:56+00:00",
+  "updated_at": "2020-04-24T10:59:24+00:00",
+  "rating": 4,
+  "_site": "scp-wiki-cn",
+  "_fullname": "cn-1583-more-message"
+}

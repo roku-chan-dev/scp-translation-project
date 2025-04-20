@@ -1,0 +1,23 @@
+{
+  "title": "Null Sum Proposal",
+  "content": "[[>]]\n[[module rate]]\n[[/>]]\n[[include :scp-wiki:theme:basalt darkmode=a ]]\n[[module css]]\n:root {\n    --title: \"IRON FOUNDATION\";\n}\n[[/module]]\n[[module ListPages  category=\"fragment\" parent=\".\" limit=\"1\" order=\"created_at\" offset=\"@URL|0\"]]\n%%content%%\n[[/module]]\n[!-- https://scp-wiki.wikidot.com/fragment:jack-ike-s-proposal-iv-1 --]\n[!-- https://scp-wiki.wikidot.com/fragment:jack-ike-s-proposal-iv-2 --]\n[[include :scp-wiki:component:license-box]]\n=====\n> **Filename:** logo.svg\n> **Author:** [[*user Rounderhouse]]\n> **License:** CC BY-SA 3.0\n> **Source Link:** https://scp-wiki.wikidot.com/theme:the-way-out\n\n> **Filename:** ignosi.svg\n> **Author:** [[*user Calibri Bold]]\n> **License:** CC BY-SA 3.0\n> **Source Link:** https://scp-wiki.wikidot.com/calibri-s-mega-cool-art-page-it-s-mostly-just-icons-but-what/\n=====\n[[include :scp-wiki:component:license-box-end]]",
+  "tags": [
+    "001-proposal",
+    "_cc",
+    "_licensebox",
+    "_listpages",
+    "concept",
+    "esoteric-class",
+    "mathematical",
+    "paradox",
+    "reality-bending",
+    "scp",
+    "temporal"
+  ],
+  "author": "Jack Ike",
+  "created_at": "2023-05-10T02:07:27+00:00",
+  "updated_at": "2023-05-25T21:55:45+00:00",
+  "rating": 130,
+  "_site": "scp-wiki",
+  "_fullname": "jack-ike-s-proposal-iv"
+}

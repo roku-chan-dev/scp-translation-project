@@ -1,0 +1,13 @@
+{
+  "title": "Darkartists Sciptember Hub 2",
+  "content": "[[include :scp-wiki:theme:black-highlighter-theme]]\n[[include :scp-wiki:component:toggle-sidebar-bhl]]\n[[include :scp-wiki:component:centered-header-bhl]]\n[[include :scp-wiki:theme:swirling-ashes]]\n[[module CSS]]\n:root {--header-title: \"SCP Foundation\"; --header-subtitle: \"Secure, Contain, Protect\";}\n .alt-blockquote{ /* ---- Alternative Quote Block ---- */\n     margin: 1em 0;\n     padding: 0 1em;\n     background-color: hsl(0, 0%, 96%);\n     border: 1px solid hsl(0, 0%, 60%);\n     border-radius: 1em;\n}\n[[/module]]\n\n[[=]]\n[[module Rate]]\n[[/=]]\n[[include :scp-wiki:component:author-label-source start=--\n|name=TheDarkArtist\n|center=*]]\nWhen the god is demise\n[[include :scp-wiki:component:author-label-source end=--]]\n----\n\n[[div class=\"alt-blockquote\"]]\n@@  @@\n//Welcome. The world has gone to shit since SCP-6170 died. Anomalies from all over the world have changed, and have completely gone backwards on their anomalous pattern. Your job, find and log the rest, so we can avoid some of these fuckers. Good luck. - Dr. Cole Thereven//\n@@ @@\n[[/div]]\n\n[[table class=\"wiki-content-table\"]]\n[[row]]\n[[cell style=\"background-color: #A0A0A0; color: #FCFCFC\"]]\nCLASSIFICATION\n[[/cell]]\n[[cell style=\"background-color: #A0A0A0; color: #FCFCFC\"]]\nOBJECT CLASS\n[[/cell]]\n[[/row]]\n[[row]]\n[[cell]]\nSCP-6170\n[[/cell]]\n[[cell]]\nEntos\n[[/cell]]\n[[/row]]\n[[row]]\n[[cell colspan=\"2\" style=\"background-color: #A0A0A0; color: #FCFCFC; text-align:center\"]]\nDESCRIPTION OF CHANGES\n[[/cell]]\n[[/row]]\n[[row]]\n[[cell colspan=\"2\"]]\n\n[[div class=\"scp-image-block block-right\" style=\"width: 50%;\"]]\n[[image tale%20of%20a%20god.png style=\"width: 50%;\" link=\"https://scp-wiki.wikidot.com/scp-6170\"]]\n[[div class=\"scp-image-caption\" style=\"width: 50%;\"]]\n{{fig. 1.1.:}} Image found on SCP-6170's database entry.\n[[/div]]\n[[/div]]\n\nLocated on the SCP-6170 file, the following (extraneous) image was discovered. \nAny anomalous properties are, as of writing, unknown. //~ Dr. D. A. Artiss//\n\n[[/cell]]\n[[/row]]\n[[/table]]\n\n----\n[[div class=\"footer-wikiwalk-nav\"]]\n[[=]]\n<< [http://scp-wiki.wikidot.com/art:darkartists-sciptember-hub/offset/1 PRIOR] | [[[art:darkartists-sciptember-hub|HOME]]] | [http://scp-wiki.wikidot.com/art:darkartists-sciptember-hub/offset/3 NEXT] >>\n[[/=]]\n[[/div]]\n----",
+  "tags": [
+    "fragment"
+  ],
+  "author": "TheDarkArtist",
+  "created_at": "2022-09-02T05:31:56+00:00",
+  "updated_at": "2022-09-02T20:30:35+00:00",
+  "rating": 0,
+  "_site": "scp-wiki",
+  "_fullname": "fragment:darkartists-sciptember-hub-2"
+}

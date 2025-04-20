@@ -1,0 +1,13 @@
+{
+  "title": "_template",
+  "content": "%%content%%\n\n[[module css]]\n.infobox {\npadding:0;\nbackground-color:#222; \nborder-radius:7px; \nfloat:right;\n}\n\n.infobox2 {\nbackground-color:#0d0d0d;\ncolor:#ffffff; \nfont-size:120%;\nborder-radius:4px; \ntext-align:center;\n}\n\n.infobox2 p {\nmargin: 0 auto;\nwidth: 10em;\n}\n\ntable.infobox {\nmin-width: 256px;\nwidth: 30%;\n}\n\ntable.infobox tbody tr td, table.infobox tbody tr th {\ncolor: #fff;\n}\n\n.scp-list p {\nmargin: 0.25em;\n}\n\n.embedvideo {\nbackground-color: #000;\ncolor: #fff;\nborder: 1px solid #555555;\nmargin: 0.5em 0 1.3em 1.4em;\nwidth: 40%;\nmin-width: 300px;\nfloat: right;\n}\n\n.thumbinner {\n  position: relative;\n  width: 100%;\n  padding-bottom: 56.25%;\n}\n\n.thumbinner p, .thumbcaption p {\nmargin: 0;\npadding: 0;\n}\n\n.thumbinner p iframe {\n  position: absolute;\n  width: 100%;\n  height: 100%;\n}\n\n.thumbcaption {\nborder: none;\nline-height: 1.4em;\npadding: 3px !important;\nfont-size: 94%;\ntext-align: left;\n}\n\n@media (max-width: 479px) {\ntable.infobox, .embedvideo {\nwidth: 100%;\n}\n}\n\n.spoiler {\nmargin-left:40px;\nfont-weight: bold;\n}\n[[/module]]",
+  "tags": [
+    "템플릿"
+  ],
+  "author": "Dr Devan",
+  "created_at": "2015-01-05T09:35:54+00:00",
+  "updated_at": "2015-06-09T20:24:06+00:00",
+  "rating": 0,
+  "_site": "scpko",
+  "_fullname": "cb:_template"
+}

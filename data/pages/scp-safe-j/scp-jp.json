@@ -1,0 +1,19 @@
+{
+  "title": "SCP-SAFE-J",
+  "content": "[[>]]\n[[module Rate]]\n[[/>]]\n\n[[include component:image-block name=The%20Safe%20safe.jpg|caption=SCP-SAFE-J]]\n\n**アイテム番号:** SCP-SAFE-J\n\n**オブジェクトクラス:** Safe, Euclid, and Keter\n\n**特別収容プロトコル:** SCP-SAFE-JにはSafeな面とSafeではない面があり、その危険性や問題点に関するアセスメントはいまだ完了していません。SCP-SAFE-J-A（SafeクラスのSCP-SAFE-J）、SCP-SAFE-J-B（EuclidクラスのSCP-SAFE-J）、SCP-SAFE-J-C（KeterクラスのSCP-SAFE-J）を取り扱う際には、Safe第一を心がけて細心の注意を払ってください。\n\n**説明:** SCP-SAFE-Jは、3個のセーフティボックス（以下、Safeと略記します）です。いずれのSafeも商品名█████ ████のSafeであり、外観上の差異はありません。SCP-SAFE-J-AはSafeのSafe、SCP-SAFE-J-BはEuclidのSafe、SCP-SAFE-J-CはKeterのSafeです。それぞれのSafeのSafe性は、オブジェクトクラスがSafeであるかSafeでないかによってある程度判別可能ですが、より具体的なSafe性についての情報が必要な場合は以下の記述を参照してください。\n\nSafeのSafeはSafe性確認試験によってSafeであることが確認されており、高度な収容プロトコルは必要ありません。EuclidのSafeは基本的にはSafeですが、KeterのSafeに近づけるとSafeではないSafeになってしまうので注意してください。万一EuclidのSafeをKeterのSafeに近づけてしまった場合は、SafeのSafeを使用することでEuclidのSafeをSafeなSafeに戻すことができます。KeterのSafeは全くSafeではありません。現在、KeterのSafeをSafeのSafeのようなSafeな状態に保つべく収容方法の研究が続けられていますが、KeterのSafeが完全にSafeのSafeやEuclidのSafeのようなSafeなSafeになることは決してないものと考えられています。\n\nSCP-SAFE-Jの現在の収容担当者は、Dr. Safe、Dr. Euclid、Dr. Keterの3名です。Dr. SafeはSafeのSafe、Dr. EuclidはEuclidのSafeをそれぞれ担当しています。Dr. Keterの担当は、SafeのSafeとEuclidのSafeの収容業務の補助です。KeterのSafeの監視は、Dr. SafeとDr. EuclidとDr. Keterが共同で行っています。KeterのSafeをDr. SafeのSafeのSafeやDr. EuclidのEuclidのSafeのようなSafeな状態に保つためには、Dr. SafeとDr. EuclidとDr. Keterが協力して収容にあたることが欠かせません。\n\n最近になって、KeterのSafeがEuclid空間にマクロスケールなマイクロウェーブ放射を行って飲食物を加熱・解凍する能力を持っており、これによって解凍された飲食物（これをSCP-SAFE-J-Dと呼称します）にはKeterのSafeをSafeな状態に保つ性質が備わっていることが明らかになりました。SCP-SAFE-J-Dは、その性質の発見者であるDr. Thaumielの名前を取ってThaumielとも呼ばれており、KeterのSafeをSafeにする性質を有していることからThaumielクラスに分類されています。Thaumielの[[span class=\"ruby\"]]Thawed meal[[span class=\"rt\"]]解凍された料理[[/span]][[/span]]は、Dr. SafeのSafeのSafe、Dr. EuclidのEuclidのSafe、Dr. SafeとDr. EuclidとDr. KeterのSafeではないKeterのSafeに対してSafeに使用可能です。Dr. SafeとDr. EuclidとDr. KeterのKeterのSafeのEuclid空間に対するマクロスケールなマイクロウェーブ放射、およびDr. Thaumielによって発見されたThaumielのthawed mealは、Dr. SafeとDr. EuclidとDr. Keterによって（Safeクラス相当とは言えないものの）Safeであることが確認されています。\n\n今後、SCP-SAFE-Jとして指定されている全てのオブジェクト（Dr. SafeのSafeのSafe、Dr. EuclidのEuclidのSafe、Dr. SafeとDr. EuclidとDr. KeterのKeterのSafe、Dr. SafeとDr. EuclidとDr. KeterのSafeではないKeterのSafeのSafeな（しかしSafeクラスではない）Euclid空間に対するマクロスケールなマイクロウェーブ放射によって解凍されたSafeなThaumielのThaumiel）をSafeな状態に保って収容する方法が確立された場合は、SCP-SAFE-J全体がSafeクラスとして再分類されることになると思われます。",
+  "tags": [
+    "en",
+    "safe",
+    "scp",
+    "ジョーク",
+    "容器",
+    "熱力学",
+    "金属"
+  ],
+  "author": "gnmaee",
+  "created_at": "2016-03-29T10:57:02+00:00",
+  "updated_at": "2021-03-16T13:37:42+00:00",
+  "rating": 77,
+  "_site": "scp-jp",
+  "_fullname": "scp-safe-j"
+}

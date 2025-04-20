@@ -1,0 +1,25 @@
+{
+  "title": "SCP-CN-356",
+  "content": "[[>]]\n[[module Rate]]\n[[/>]]\n[[module ListPages category=\"fragment\" parent=\".\" limit=\"1\" order=\"name\" offset=\"@URL|0\"]]\n\n%%content%%\n[[/module]]\n\n[[footnoteblock]]\n@@@@\n[[div class=\"footer-wikiwalk-nav\"]]\n[[=]]\n<< [[[SCP-CN-355]]] | SCP-CN-356 | [[[SCP-CN-357]]] >>\n[[/=]]\n[[/div]]",
+  "tags": [
+    "euclid",
+    "scp",
+    "site-cn-75",
+    "原创",
+    "强迫性",
+    "感知力",
+    "感知影响",
+    "液体",
+    "火",
+    "移情作用",
+    "精神影响",
+    "自我复制",
+    "认知危害"
+  ],
+  "author": "GCunGG",
+  "created_at": "2018-06-28T17:44:55+00:00",
+  "updated_at": "2018-09-01T17:17:52+00:00",
+  "rating": 17,
+  "_site": "scp-wiki-cn",
+  "_fullname": "scp-cn-356"
+}

@@ -1,0 +1,17 @@
+{
+  "title": "SCP-6653",
+  "content": "[[include :scp-wiki:theme:black-highlighter-theme]]\n[[include :scp-wiki:component:bhl-dark-sidebar]]\n[[include :scp-wiki:component:betterfootnotes]]\n[[include :scp-wiki:component:collapsible-sidebar]]\n[[module CSS]]\n:root {\n    --logo-image: url(\"http://scp-wiki.wdfiles.com/local--files/limey-s-citrus-corner/enby-bi-pride.png\");\n}\n[[/module]]\n[[module CSS]]\n#page-title {\n    display: none;\n}\n[[/module]]\n[[>]]\n[[module Rate]]\n[[/>]]\n\n**Item #:** SCP-6653\n\n**Object Class:** Safe\n\n**Special Containment Procedures:** The building containing SCP-6653 has been purchased by the Foundation and all remaining tenants evicted under the cover story of structural disrepair.\n\n**Description:** SCP-6653 is the upstairs bedroom of a house in Richmond, Virginia. Objects within the bedroom are immovable regardless of force exerted. Full details regarding SCP-6653 are pending exploration.\n\n**Addendum 1:** Objects within SCP-6653.\n@@ @@\nOn 14/11/2021, an exploratory team was ordered to investigate SCP-6653 and provide a full inventory of objects within. The following report was submitted:\n@@ @@\n[[div class=\"blockquote\"]]\n[[=]]\n++ SCP-6653 Primary Exploration\n[[/=]]\n@@ @@\n||~ Object ||~ Location ||~ Description ||\n||= SCP-6653 ||= N/A ||= Messy, chaotic, wrong ||\n||= T-shirt ||= Floor ||= Ugly, plain ||\n||= Bed ||= Corner of room ||= Unmade, disgusting ||\n||= Blinds ||= Over window ||= Closed, safe ||\n||= Desk ||= Underneath window ||= Cluttered ||\n||= Mirtazapine ||= Desk ||= Worthless ||\n||= Laptop ||= Desk ||= Good ||\n||= Pencil Case ||= Desk ||= Difficult, Tiring ||\n||= Paper, 53 sheets, scrunched up ||= Bin ||= Worthless ||\n@@ @@\n= Attempts to discern the contents of the paper have been deemed pointless by unanimous vote of the SCP-6653 exploratory team.\n@@ @@\n[[/div]]\n@@ @@\n@@ @@\nUpon review by containment specialists, this report was deemed insufficient. Follow-up explorations produced identical reports. Change in the status of SCP-6653 is considered unlikely.\n@@ @@\n---------\n[[size 80%]]\n= With thanks to GremlinGroup for critique and Riba Nahi for the logo variant.\n[[/size]]\n[[div class=\"footer-wikiwalk-nav\"]]\n[[=]]\n<< [[[SCP-6652]]] | SCP-6653 | [[[SCP-6654]]] >>\n[[/=]]\n[[/div]]",
+  "tags": [
+    "building",
+    "compulsion",
+    "immobile",
+    "safe",
+    "scp"
+  ],
+  "author": "Limeyy",
+  "created_at": "2021-11-19T00:30:47+00:00",
+  "updated_at": "2021-12-16T14:36:26+00:00",
+  "rating": 64,
+  "_site": "scp-wiki",
+  "_fullname": "scp-6653"
+}

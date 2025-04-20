@@ -1,0 +1,14 @@
+{
+  "title": "TheManhattenProject's Author Page",
+  "content": "[[>]]\n[[module Rate]]\n[[/>]]\n\nI finally got a decent author page working (hopefully). If something borks I'll get on to it. \n\n[[module CSS]]\n.preview .span, .infobox { display: none !important; }\n[[/module]]\n\n[[include component:author-page\n      order=created_at |\n      perpage=100 |\n      background=yes |\n      image=yes |\n    ]]\n\nIf anything else I find cool pops up, I'll put it here.\n[[collapsible  show=\"In case I end up inactive\" hide=\"close\"]]\n\nIn the event that I end up inactive from the wiki for a long lasting period (6 months to forever), then all things like deletions, licensing, etc, about my articles are to be directed to [[*user dentixvoxel]], lest otherwise. All co-authored articles are to be directed to their respective co-authors. If there is no activity from me for one year, this includes //zero// activity from Discord, IRC, and the wiki, then assume that I have passed away due to some accident (intentional or not). If I can find someway to prove that, whether it be a bot or a close friend, I will.\nThat is all. \n\n[[/collapsible]]\n[[include :scp-wiki:component:license-box]]\n[[include :scp-wiki:component:license-box-end]]",
+  "tags": [
+    "_licensebox",
+    "author"
+  ],
+  "author": "TheManhattenProject",
+  "created_at": "2018-11-07T07:58:48+00:00",
+  "updated_at": "2022-10-22T17:14:33+00:00",
+  "rating": 28,
+  "_site": "scp-wiki",
+  "_fullname": "themanhattenprojects-author-page"
+}

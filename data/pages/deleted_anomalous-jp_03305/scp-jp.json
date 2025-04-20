@@ -1,0 +1,11 @@
+{
+  "title": "03305",
+  "content": "content: \"**説明:** 溶接時、周囲のヒューム値を、溶接時間(秒)× 10^^-7^^Hm上げる鉄板20枚。\\n**回収日:** 20██/██/██\\n**回収場所:** 奈良県██市の鉄工所\\n**現状:** 低脅威度物品保管ロッカーに保管。\\n**追記:** これ溶接ヒュームが出ない溶接方法だとヒューム値上がらないですね -██研究員\"\ntf2: '0'\nauthor: ''\nredirect-b: '[[module Redirect destination=\"http://ja.scp-wiki.net/log-of-anomalous-items-jp'\nredirect-e: '\"]]'",
+  "tags": [],
+  "author": "tokawa",
+  "created_at": "2021-11-16T14:23:36+00:00",
+  "updated_at": "2022-03-03T08:30:11+00:00",
+  "rating": -3,
+  "_site": "scp-jp",
+  "_fullname": "deleted:anomalous-jp:03305"
+}

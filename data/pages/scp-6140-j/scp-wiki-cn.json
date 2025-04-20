@@ -1,0 +1,20 @@
+{
+  "title": "SCP-6140-J",
+  "content": "[[module ListPages  category=\"fragment\" parent=\".\" limit=\"1\" order=\"created_at\" offset=\"@URL|0\"]]\n%%content%%\n[[/module]]",
+  "tags": [
+    "keter",
+    "k级情景",
+    "scp",
+    "历史性",
+    "地点",
+    "宗教",
+    "搞笑",
+    "现实扭曲"
+  ],
+  "author": "ashausesall",
+  "created_at": "2022-10-06T09:38:31+00:00",
+  "updated_at": "2022-10-06T09:41:45+00:00",
+  "rating": 25,
+  "_site": "scp-wiki-cn",
+  "_fullname": "scp-6140-j"
+}

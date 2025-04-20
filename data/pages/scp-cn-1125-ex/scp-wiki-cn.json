@@ -1,0 +1,19 @@
+{
+  "title": "SCP-CN-1125-EX",
+  "content": "[[include :scp-wiki:component:toggle-sidebar]]\n[[include :scp-wiki-cn:theme:simple-yonder]]\n[[>]]\n[[module rate]]\n[[/>]]\n[[module ListPages category=\"fragment\" parent=\".\" limit=\"1\" order=\"created_at\" offset=\"@URL|0\"]]\n%%content%%\n[[/module]]",
+  "tags": [
+    "euclid",
+    "scp",
+    "人形生物",
+    "原创",
+    "已解明",
+    "现实扭曲",
+    "隔地促动"
+  ],
+  "author": "lockedoor",
+  "created_at": "2022-08-06T13:47:22+00:00",
+  "updated_at": "2023-03-19T15:18:32+00:00",
+  "rating": 18,
+  "_site": "scp-wiki-cn",
+  "_fullname": "scp-cn-1125-ex"
+}

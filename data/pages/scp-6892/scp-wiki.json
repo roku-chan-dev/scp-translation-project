@@ -1,0 +1,23 @@
+{
+  "title": "SCP-6892",
+  "content": "[[>]]\n[[module Rate]]\n[[/>]]\n[[module CSS]]\n.email-example .collapsible-block-folded a.collapsible-block-link {\n    animation: blink 0.8s ease-in-out infinite alternate;\n}\n@keyframes blink {\n    0% { color: transparent; }\n    50%, 100% { color: #b01; }\n}\n.email {border: solid 2px #000000; width: 88%; padding: 1px 15px; margin: 10px; box-shadow: 0 1px 3px rgba(0,0,0,.5)}\n.email-example a.collapsible-block-link {font-weight: bold;}\n.tofrom {margin-left: 10px; margin-top: 5px; padding: 1px 15px; border-left: solid 3px maroon}\n[[/module]]\n[[div class=\"email\"]]\n[[=]]\n\n++++ **__Memorandum__**\n[[/=]]\n//To all Site-32 staff, please remember that SCP-6892 should be placed in the open, preferably somewhere secluded, as day to day operations are not impeded.//\n\n//For all Site-32 staff who may not have been informed, SCP-6892 is a silver urn with a heart design embossed on the front.//\n\n//Please minimize all interactions with SCP-6892 to avoid damage or the spilling of its contents. The mess is not cleanable.//\n\n//As of this memo, SCP-6892 is currently located in Research Room 3 of B-Wing. Do not remove SCP-6892, as I still have important work to finish.//\n\n//If staff report sightings of an individual displaying paranormal properties, such as intangibility or levitation, do not be alarmed. These are simply the properties of SCP-6892-1.//\n\n//To O'Hara and Director Roberts, I would like to extend a thank you for your constant attendance and prayers on the anniversary of my death; it means more than I could ever express.// \n\n- Snr. Researcher, Lucy Fergurson. **†**\n\n[[/div]]\n\n[[footnoteblock]]  \n\n[[div class=\"footer-wikiwalk-nav\"]]\n[[=]]\n<< [[[SCP-6891]]] | SCP-6892 | [[[SCP-6893]]] >>\n[[/=]]\n[[/div]]\n\n[[include :scp-wiki:component:license-box]]\n[!-- N/A (No Images)  --]\n[[include :scp-wiki:component:license-box-end]]",
+  "tags": [
+    "_licensebox",
+    "artifact",
+    "cadaver",
+    "esoteric-class",
+    "ghost",
+    "humanoid",
+    "intangible",
+    "meta",
+    "reanimation",
+    "sapient",
+    "scp"
+  ],
+  "author": "Harriet Farrar",
+  "created_at": "2021-10-31T16:53:08+00:00",
+  "updated_at": "2023-10-09T08:18:19+00:00",
+  "rating": 136,
+  "_site": "scp-wiki",
+  "_fullname": "scp-6892"
+}

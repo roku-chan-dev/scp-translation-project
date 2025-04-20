@@ -1,0 +1,14 @@
+{
+  "title": "Transcend_manの著書ページ",
+  "content": "[[include :scp-jp:user-component:ta-badge\n|badge-top=telekill-medal\n|badge-right=hat-trick_s\n|badge-left=high-calibre\n|frame=style3\n|bg=style3\n|plate=style3\n]]\n\n-----\n\n[[=]]\n+++ SCPs\n[[/=]]\n[[module ListPages created_by=\"[Transcend-man]\" separate=\"no\" tags=\"+scp +jp\" order=\"created\" category=\"*\" prependLine=\"||~ SCP ||~ Rating ||~ Comments ||~ Created ||~ Last Comment ||\"]]\n|| %%title_linked%% || %%rating%% || %%comments%% || %%created_at%% || %%commented_at%% ||\n[[/module]]\n\n-----\n\n[[=]]\n+++ Tales\n[[/=]]\n[[module ListPages created_by=\"[Transcend-man]\" separate=\"no\" tags=\"tale +jp\" order=\"created\" category=\"*\" prependLine=\"||~ Tale ||~ Rating ||~ Comments ||~ Created ||~ Last Comment ||\"]]\n|| %%title_linked%% || %%rating%% || %%comments%% || %%created_at%% || %%commented_at%% ||\n[[/module]]\n\n-----\n\n[[=]]\n+++ GoI-Format\n[[/=]]\n[[module ListPages created_by=\"[Transcend-man]\" separate=\"no\" tags=\"goi-format +jp\" order=\"created\" category=\"*\" prependLine=\"||~ GoI-Format ||~ Rating ||~ Comments ||~ Created ||~ Last Comment ||\"]]\n|| %%title_linked%% || %%rating%% || %%comments%% || %%created_at%% || %%commented_at%% ||\n[[/module]]\n\n\n[[footnoteblock]]\n[!-- これは脚注をコメント欄の上に表示するために必要な構文です。不要な場合は削除してください。 --]",
+  "tags": [
+    "jp",
+    "著者ページ"
+  ],
+  "author": "Transcend_man",
+  "created_at": "2022-12-13T07:08:52+00:00",
+  "updated_at": "2023-02-17T06:27:00+00:00",
+  "rating": 0,
+  "_site": "scp-jp",
+  "_fullname": "author:transcend-man"
+}

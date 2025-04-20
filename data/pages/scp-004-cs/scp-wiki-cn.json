@@ -1,0 +1,19 @@
+{
+  "title": "SCP-004-CS",
+  "content": "[[module css]]\n.page {\n    display: block;\n    overflow: hidden;\n    font-family:Microsoft YaHei;\n    font-style: normal;\n\n    background-attachment: scroll;\n    background-clip: border-box;\n    background-color: transparent;\n    background-image: linear-gradient(to top ,rgb(202, 219, 228) 0%, rgb(231, 233, 220) 8%);\n    background-origin: padding-box;\n    background-position: 0px 8px;\n    background-repeat: repeat;\n    background-size: 100% 20px;\n\n    border: 1px solid #CCC;\n    border-radius: 10px;\n    padding: 10px 10px;\n    margin-bottom: 10px;\n\n    box-shadow: 0px 1px 3px rgba(0, 0, 0, 0.2)\n    }\n.page p {\n    line-height: 20px;\n    margin: 0;\n}\n[[/module]]\n\n[[include :scp-wiki-cn:theme:black-highlighter-theme]]\n\n[[module css]]\n:root {\n    --logo-image: url(\"https://cdn.jsdelivr.net/gh/scp-cs/scp-cs-wiki/SVGs/SCP-CS-Logo.svg\");\n}\n[[/module]]\n\n[[include component:image-block name=http://scp-cs.wdfiles.com/local--files/scp-004-cs/pexels-photo-373978.jpeg|caption=SCP-004-CS列车内部]]\n**项目编号：**SCP-004-CS\n\n**项目等级：**Euclid\n\n**威胁等级：**● 黑\n\n**特殊收容措施：**SCP-004-CS一切入口半径500m内需设置配备带刺铁丝网、带有1000V电压、2m高的电子围栏。同时上述入口半径400m以内地区需设置5m高的混凝土墙。应每周检查围栏是否存在损坏迹象。混凝土墙应由闭路电视系统和墙内外的五名配备呼吸面罩（每个警卫相距5~10m）的警卫持续监控，所有SCP-004-1-CS个体必须在离开SCP-004-CS后立刻处决。一旦混凝土墙被摧毁，守卫必须在SCP-004-1-CS到达围栏之前将其定位并在其到达围栏前处决。若SCP-004-1-CS突破围栏，将发生Δ-XK级情景。根据具体情况，每两年向公众告知一次SCP-004-CS“建设计划开始”。\n\n[[collapsible show=\"Δ-XK级情景应对措施\" hide=\"Δ-XK级情景应对措施\"]]\n确认Δ-XK级情景发生时，捷克分部将默许引爆核弹头以摧毁布拉格并殄灭其周边一切生物。确认不存在幸存者后，使用SCP-███消除放射粒子并重建布拉格市，将市民的克隆体投放入市内。重建与克隆体投放结束后，对全世界执行一次█级记忆删除。**以上全部内容在确认Δ-XK级情景发生时将完全公开。**\n[[/collapsible]]\n\n**描述：**SCP-004-CS是捷克共和国布拉格地铁的D线路，未知其异常性如何发生。项目最早自1995年█月██日开始显现异常性，此后其开始在始发站到终点站期间的路线上不固定地释放出SCP-004-1-CS个体。SCP-004-1-CS推测为1995年█月██日~1995年█月██日期间搭乘SCP-004-CS的人，其外表类似高度腐烂的人类，其身体完全腐烂的部分被替换为布拉格地铁列车的部件。尽管身体状况很差，SCP-004-1-CS能以最大25km/h的速度移动，产生500N以上的按压压力。其身体上的列车部件可以在物理层面强化SCP-004-1-CS的特性。SCP-004-1-CS会向其半径50m以内地区释放孢子，吸入孢子的人将被转化为SCP-004-1-CS。\n\n**附录SCP-004-CS A：**\n对SCP-004-CS调查时，在[数据删除]站的一节车厢上发现了一本笔记本（似为“领队”的日记）。\n以下是笔记内容的节选：\n[[div class=\"page\"]]\n第████周\n@@ @@\n[[=]]\n[[size 140%]] 开始攻击前的演说：今天我们聚集于此，我们要*大声呼喊*并宣告，这是地上那些家伙们苟活的最后一周！再过一周，我们就要冲破这个被同胞市民抛弃的地方！在这一周里，我们将让他们感受我们所经历的伤痛和苦难，我们要变革一切！[[/size]]\n@@ @@\n[[/=]]\n这他妈什么鬼\n[[/div]]\n\n9日后，超过5000个SCP-004-1-CS个体自[数据删除]站东部突破收容，捷克分部公布并执行了Δ-XK级情景应对措施。\n\n**附录SCP-004-CS B：**\nΔ-XK级情景处理措施结束后34日，一个SCP-004-1-CS个体跑出[数据删除]站并被击毙。进行身体检查时，在其口袋内发现了一张纸片。上书如下内容：\n[[div class=\"page\"]]\n[[=]]\n[[size 25px]]//我们必将归来。//[[/size]]\n[[/=]]\n[[/div]]",
+  "tags": [
+    "black",
+    "cs",
+    "euclid",
+    "k级情景",
+    "scp",
+    "人形生物",
+    "地点"
+  ],
+  "author": "Backlight SH",
+  "created_at": "2021-10-03T00:06:10+00:00",
+  "updated_at": "2022-04-13T03:23:06+00:00",
+  "rating": 5,
+  "_site": "scp-wiki-cn",
+  "_fullname": "scp-004-cs"
+}

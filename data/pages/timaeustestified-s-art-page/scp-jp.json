@@ -1,0 +1,14 @@
+{
+  "title": "timaeusTestifiedのアートページ",
+  "content": "[[>]]\n[[module Rate]]\n[[/>]]\n@@@@\n[[module css]]\n.danke{\npadding: 5px 5px 5px 2px;\nmargin-bottom:10px;\nwidth: 100%;\n}\n.site{\nbackground-color:#ffff7ff;\nborder: 3px solid #ffff7ff;\ncolor: #17171a;\n}\ndiv.text{\n    color: #17171a;\n    padding-left: 1em;\n    font-size: 12px;\n    }\ndiv.text a {\n    color: #02c7b3;\n    text-decoration: none;\n    background: transparent;\n    font-size: 12px;\n}\ndiv.text a:hover {\n    color: #ffabd8;\n    text-decoration: none;\n    background: transparent;\n}\n[[/module]]\n[[div class=\"danke site\"]]\n[[div class=\"text\"]]\n@@@@\nやぁ、私のアートページへようこそ！\n@@@@\n私はAsin、--SCP財団の新参者であるため-- パンデミックが私の尻を蹴り上げているためこのページは不毛の地となっており、それほど多くのアートがありません。もし私にSCPや人事ファイルに関するアートを描くことを依頼したい場合、気軽にコメント[[footnote]]**訳注:** これはENのフォーラムを指します。[[/footnote]]を残してくださいね！\n@@@@\n@@@@\n------\n@@@@\n[[size large]]**SCPs**[[/size]]\n@@@@\n\n[[collapsible show=\"✦ SCP-049 (2020)\" hide=\"✧ 誰か私にPhotoShopの使い方を教えてください。\"]]\n[[=image http://scp-jp-storage.wikidot.com/local--files/file:7522555-73-ggvl/200.jpg]]\n[[/collapsible]]\n\n\n[[collapsible show=\"✦ SCP-1233 (2020)\" hide=\"✧ お客様、此処はマクドナルドです。\"]]\n[[=image http://scp-jp-storage.wikidot.com/local--files/file:7522555-74-rowp/201.png]]\n[[/collapsible]]\n\n\n\n[[collapsible show=\"✦ SCP-2396 (2021)\" hide=\"✧ 彼女だよ！\"]]\n[[=image http://scp-jp-storage.wikidot.com/local--files/file:7522555-75-y1wc/202.png]]\n[[/collapsible]]\n\n[[collapsible show=\"✦ SCP-3338 (2022)\" hide=\"✧ 獲物を巣に連れ帰る凶暴な獣([編集済]年頃、着色済み)\"]]\n[[=image http://scp-jp-storage.wikidot.com/local--files/file:7522555-76-qf31/203.png]]\n[[/collapsible]]\n\n@@@@\n@@@@\n------\n@@@@\n= **私の連絡先**\n@@@@\n\n= **[https://voidrotted.tumblr.com/ Tumblr]** ✦ **[https://twitter.com/voidrotted Twitter]**\n@@@@\n@@@@\n[[/div]]\n[[/div]]",
+  "tags": [
+    "en",
+    "アートワーク"
+  ],
+  "author": "Burnin_A_GoGo",
+  "created_at": "2022-03-29T11:35:15+00:00",
+  "updated_at": "2022-03-29T11:37:12+00:00",
+  "rating": 27,
+  "_site": "scp-jp",
+  "_fullname": "timaeustestified-s-art-page"
+}

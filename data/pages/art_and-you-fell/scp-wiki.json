@@ -1,0 +1,14 @@
+{
+  "title": "And you fell.",
+  "content": "[[include :scp-wiki:theme:black-highlighter-theme]]\n[[include :scp-wiki:component:toggle-sidebar-bhl]]\n[[include :scp-wiki:theme:cyberpunk theme-number=1]]\n\n[[include :scp-wiki:info:start]]\nArtwork based on [[[scp-8654|SCP-8654]]].\n\nSpecial thanks to [[*user Haru Ken]] for some suggestions, assisting with modification, and making the awesome traditional Chinese version! Without his help, I probably wouldn't even consider putting this piece to the site.\n[[include :scp-wiki:info:end]]\n\n[[div class=\"scp-image-block block-center\"\nstyle=\"width:500px;\"]]\n[[image https://i.imgur.com/Ch6HPam.png\nstyle=\"width:100%;\"]]\n[[/div]]\n@@ @@\n[[div class=\"scp-image-block block-center\"\nstyle=\"width:500px;\"]]\n[[image https://i.imgur.com/Et44y7a.png\nstyle=\"width:100%;\"]]\n[[/div]]",
+  "tags": [
+    "artwork",
+    "scp-art"
+  ],
+  "author": "Halewen",
+  "created_at": "2024-12-01T09:11:09+00:00",
+  "updated_at": "2024-12-01T15:05:02+00:00",
+  "rating": 45,
+  "_site": "scp-wiki",
+  "_fullname": "art:and-you-fell"
+}

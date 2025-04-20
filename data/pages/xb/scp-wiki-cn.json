@@ -1,0 +1,13 @@
+{
+  "title": "黑影中的工具盒",
+  "content": "[!--\n如果你是来这查代码的，我建议你还是直接私信问我吧。\n--]\n\n[[include :scpsandboxcn:blackinblack hide=a]]\n\n[[iftags 作者]]\n[[module ListPages name=\"{$name}\" category=\"-deleted\"]]\n[[div style=\"margin-top: 2px;\"]]\n[[div class=\"bibhide\"]]\n[[div cl{$tale}ss=\"bibshow\"]]\n++++++ %%title_linked%%\n[[/div]]\n[[div cl{$scp}ss=\"bibshow\"]]\n++++++ %%title_linked%% - {$title}\n[[/div]]\n[[div cl{$sscp}ss=\"bibshow\"]]\n++++++ %%title_linked%% - {$title}[[footnote]] [[*user {$user}]]推荐语：“{$tui}” [[/footnote]]\n[[/div]]\n[[/div]]\n\n[[size larger]]\n[[div class=\"inline-colmod\"]]\n[[div class=\"bibhide\"]]\n[[div cl{$excerpt}ss=\"bibshow\"]]\n[[include component:coltop show=节选|hide=|nohide=true]]\n[[div class=\"blockquote\"]]\n{$jie}\n[[/div]]\n[[include component:colend]]\n[[/div]]\n[[div cl{$jp}ss=\"bibshow\"]]\n（[http://scp-jp.wikidot.com/%%fullname%% 日译]）\n[[/div]]\n[[/div]]\n共%%rating_votes%%人评分\n[[include :fendsfox:component:rating-bar-main]]\n%%tags%%\n[[/size]]\n最近编辑：{{**%%updated_by_linked%%**}}@@    @@时间：{{**%%updated_at%%**}}\n最近评论：{{**%%commented_by_linked%%**}}@@    @@时间：{{**%%commented_at%%**}}\n[[/div]]\n[[/div]]\n[[/module]]\n\n[[module CSS]]\n.bibhide{\n    display: none;\n}\n.bibshow{\n    display: block !important;\n}\n[[/module]]\n[[/iftags]]",
+  "tags": [
+    "补充材料"
+  ],
+  "author": "blackinblack",
+  "created_at": "2024-01-24T16:42:57+00:00",
+  "updated_at": "2024-06-13T16:56:15+00:00",
+  "rating": 3,
+  "_site": "scp-wiki-cn",
+  "_fullname": "xb"
+}

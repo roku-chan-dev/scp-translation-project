@@ -1,0 +1,14 @@
+{
+  "title": "逻辑链接模块 样式",
+  "content": "[[module CSS]]\n.logical-link-wrap > a, .logical-link-wrap > a.newpage ~ .logical-link-internal:not(.logical-link-internal-true), .logical-link-wrap > a:not(.newpage) ~ .logical-link-original:not(.logical-link-original-true), .logical-link-wrap > a.newpage ~ .logical-link-internal:not(.logical-link-internal-true) ~ .logical-link-original span.logical-link-appended, .logical-link-wrap > a.newpage ~ .logical-link-internal.logical-link-internal-true ~ .logical-link-original span:not(.logical-link-appended), .logical-link-wrap > a:not(.newpage) ~ .logical-link-original span:not(.logical-link-appended), .logical-link-title.logical-link-link-true, .logical-link-custom:not(.logical-link-link-true), .logical-link-wrap > a.newpage ~ .logical-link-mark-common, .logical-link-wrap > a:not(.newpage) ~ .logical-link-mark-newpage {display: none !important;}\n[[/module]]",
+  "tags": [
+    "原创",
+    "组件"
+  ],
+  "author": "Sekai_s",
+  "created_at": "2019-05-08T02:45:25+00:00",
+  "updated_at": "2024-08-18T12:07:01+00:00",
+  "rating": 0,
+  "_site": "scp-wiki-cn",
+  "_fullname": "component:logical-link-style"
+}

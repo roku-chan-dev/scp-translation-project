@@ -1,0 +1,14 @@
+{
+  "title": "Scp 4673 0",
+  "content": "[[module CSS]]\n.fakeprot .mailform-box .buttons{display:none;}\n.fakeprot + .collapsible-block .collapsible-block-link {padding: 0.1em 0.5em;text-decoration: none;background-color: #F4F4F4;border: 1px solid #AAA;color: #000;}\n.fakeprot + .collapsible-block .collapsible-block-link:hover {background-color: #DDD;color: #000;}\n.fakeprot + .collapsible-block .collapsible-block-link:active {background-color: #DDD;color: #000;}\n.fakeprot + .collapsible-block .collapsible-block-unfolded-link{margin:0.5em 0;text-align: center;}\n.fakeprot + .collapsible-block .collapsible-block-folded{margin:0.5em 0;text-align: center;}\n.fakeprot .passw input[type=text] {text-security:disc;-webkit-text-security:disc;-mox-text-security:disc;}\n.mailform-box td:first-child {width: 80px;}\n\n.emailer {\n  font-family: \"Courier New\", Courier, monospace\n}\n[[/module]]\n[[div class=\"emailer\"]]\n@@---------- Eメールメッセージ ---------@@\nFrom: SCP-4673メール配信システム\n日付: 2020年4月8日, 水曜日, 2:13 PM\n件名: 60日ごとの確認\nTo: リスト: '全ての財団職員'\n\nこんにちは。注意: 以下のプロセス及び収容ファイルの見直しを、10日以内に完了する必要があります。下記のリンクをクリックしてアクセスしてください。\n\n[http://scp-jp.wikidot.com/scp-4673/offset/1 Scipnet://hb533634lnt3ne.containmentfile.scp/data--network/front-end/SCP-4673//confirmlogin.asp]\n\nご協力に感謝いたします。\n\nこれは自動配信メッセージです。返信には対応しません。\n[[/div]]",
+  "tags": [
+    "en",
+    "フラグメント"
+  ],
+  "author": "C-Dives",
+  "created_at": "2020-08-24T12:10:08+00:00",
+  "updated_at": "2021-01-10T18:37:01+00:00",
+  "rating": 1,
+  "_site": "scp-jp",
+  "_fullname": "fragment:scp-4673-0"
+}

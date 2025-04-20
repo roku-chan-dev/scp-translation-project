@@ -1,0 +1,13 @@
+{
+  "title": "BHL 어두운 사이드바",
+  "content": "[[iftags +구성요소]]\n[[module css]]\n@import url(\"https://nu-scptheme.github.io/Black-Highlighter/css/min/normalize.min.css\");\n@import url(\"https://nu-scptheme.github.io/Black-Highlighter/css/min/black-highlighter.min.css\");\n@import url(\"https://xcninety.github.io/Black-Highlighter/BlackHighlighterKR.css\");\n\n:root {\n    --header-title: \"SCP 재단\";\n    --header-subtitle: \"확보, 격리, 보호\";\n}\n\ndiv.blockquote {\n    padding-top: 0.5em;\n}\ndiv.blockquote tt {\n    margin: 0.5em 1em 1em 1em;\n    display: block;\n    background-color: rgb(var(--dark-gray-monochrome));\n    color: rgb(var(--white-monochrome));\n    padding: 0.5em;\n}\n[[/module]]\n[[=]]\n[[module Rate]]\n[[div_ class=\"blockquote\"]]\n\n말하자면 제곧내겠네요.\nBHL 테마 적용한 글에 어두운 사이드바가 //진짜로// 있었으면 하는 사람들을 위한 코드입니다.\nBHL 코드 **바로 뒤에** 이렇게 붙여넣어 주세요.\n{{[[include :scpko:component:bhl-dark-sidebar]]}}\n[[/div]]\n[[/=]]\n[[/iftags]]\n\n[[include :scp-wiki:component:bhl-dark-sidebar]]",
+  "tags": [
+    "구성요소"
+  ],
+  "author": "XCninety",
+  "created_at": "2020-09-25T21:30:52+00:00",
+  "updated_at": "2021-04-28T09:17:16+00:00",
+  "rating": 0,
+  "_site": "scpko",
+  "_fullname": "component:bhl-dark-sidebar"
+}

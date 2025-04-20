@@ -1,0 +1,14 @@
+{
+  "title": "Image Blur Base",
+  "content": "[[module CSS]]\n.unblur{\ntransition: .2s;\n-webkit-filter: blur(12px);\nfilter: blur(12px);\n}\n\n.unblur:hover{\ntransition: .2s;\ntransition-delay: .1s;\n-webkit-filter: blur(0.001px);\nfilter: blur(0.001px);\n}\n\n@media (max-width: 768px) {\n.scp-clear-true.scp-image-block {\nfloat: none;\nclear: both;\nmargin-left: auto;\nmargin-right: auto;\n}\n}\n[[/module]]\n\n[[div class=\"scp-image-block block-{$align} scp-clear-{$clear}\" style=\"width:{$width};\"]]\n[[image {$name} class=\"unblur\" style=\"width:{$width};\" link={$link}]]\n[[div class=\"scp-image-caption\" style=\"width:{$width};\"]]\n{$caption}\n[[/div]]\n[[/div]]",
+  "tags": [
+    "jp",
+    "コンポーネント・バックエンド"
+  ],
+  "author": "7happy7",
+  "created_at": "2018-11-01T11:22:02+00:00",
+  "updated_at": "2021-12-24T17:02:31+00:00",
+  "rating": 2,
+  "_site": "scp-jp",
+  "_fullname": "component:image-blur-base"
+}

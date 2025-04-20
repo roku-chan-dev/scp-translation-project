@@ -1,0 +1,17 @@
+{
+  "title": "DarkArtist's Fishhook Art",
+  "content": "[[include :scp-wiki:theme:basalt darkmode=a|hidetitle=a]]\n[[=]]\n[[module Rate]]\n[[/=]]\n[[include :scp-wiki:component:author-label-source start=--\n|name=TheDarkArtist\n|center=*]]\nWhen the fish is hook\n[[include :scp-wiki:component:author-label-source end=--]]\n----\n\n\n\n[[module CSS]]\n:root {\n       --basalt-overtone: 100, 100, 100;\n       --basalt-undertone: var(--basalt-bright-element-color);\n       --basalt-UI-dark-palette: 20, 20, 20;\n       --basalt-bright-element-color: 231, 29, 29;\n       --basalt-dark-element-color: 105, 17, 30;\n       --basalt-alternate-color: 225, 45, 45;\n       --basalt-primary-color: 0, 0, 0;\n       --basalt-secondary-color: 5, 5, 5;\n       --basalt-tertiary-color: 20, 20, 20;\n       --basalt-main-text-color: 190, 190, 190;\n}\n\n.authorlink-wrapper {\n    --author-top-adjust: -0.2rem;\n    --author-bottom-adjust: -0.35rem;\n}\n\nbody {background: black;}\n[[/module]]\n[[=]]\n@@@@\n@@@@\n@@@@\n@@@@\n{{.}}\n@@@@\n@@@@\n@@@@\n@@@@\n{{.}}\n@@@@\n@@@@\n@@@@\n@@@@\n{{.}}\n@@@@\n@@@@\n@@@@\n@@@@\n{{.}}\n@@@@\n@@@@\n@@@@\n@@@@\n{{.}}\n@@@@\n@@@@\n@@@@\n@@@@\n{{.}}\n[[image http://scpdsandbox.wdfiles.com/local--files/darkartists-fishook-art/fishook link=\"https://scp-wiki.wikidot.com/pedantique-s-proposal\"]]\n@@@@\n@@@@\n@@@@\n@@@@\n@@@@\n@@@@\n@@@@\n@@@@\n----\n[[include :scp-wiki:component:license-box]]\n=====\n> **Filename:** fishook\n> **Name:** fishook\n> **Author:** [[*user TheDarkArtist]]\n> **License:** CC-BY\n> **Source Link:** http://scpdsandbox.wdfiles.com/local--files/darkartists-fishook-art/fishook\n> **Derivative of:** https://www.flickr.com/photos/80522246@N00/362335282\n=====\n[[include :scp-wiki:component:license-box-end]]\n[[/=]]",
+  "tags": [
+    "_cc",
+    "_licensebox",
+    "artwork",
+    "painted",
+    "scp-art"
+  ],
+  "author": "TheDarkArtist",
+  "created_at": "2022-02-13T14:24:50+00:00",
+  "updated_at": "2024-03-28T18:50:46+00:00",
+  "rating": 24,
+  "_site": "scp-wiki",
+  "_fullname": "art:darkartists-fishhook-art"
+}

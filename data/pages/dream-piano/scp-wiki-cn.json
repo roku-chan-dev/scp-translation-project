@@ -1,0 +1,16 @@
+{
+  "title": "辛辣的颜料，枪弹",
+  "content": "[[include :scp-wiki-cn:theme:oneiroi-west]]\n\n[[module CSS]]\n#header h1 a::before {\n    content: \"第四小节\";\n}\n#header h2 span::before {\n    content: \"火药粉尘镶入皮肤\";\n}\n[[/module]]\n\n[[>]]\n[[module rate]]\n[[/>]]\n\n[[=]]\n[[size 2.5em]] ##purple|扣下黑色琴键## [[/size]]\n[[size 1em]] ##green|你难道不想品尝第一个音符？## [[/size]]\n@@ @@\n[[image  http://scp-wiki-coloredbucket.wikidot.com/local--files/photo/dream-piano width=\"300px\"]]\n@@ @@\n//\"##purple|防尘袋的燕尾服，已经褪色##\"//\n\n^^**抓取**: 舆论发酵 | **查询**: 钢琴，第四小节，火药 | **搜索**: B-lind-urn^^\n,,^^**其它过滤** | **摒弃的**: 弥留，朋克 | **可能会**: 鲁莽，[[[http://scp-wiki-cn.wikidot.com/wanderers:art-is-dead|黄玫瑰]]]^^,,\n[[/=]]\n\n[[size 1.2em]]\n我听不见你的声音，钢琴在弹奏，我看不到西方的残月，正午的冰花，流转的湖面。\n\n妻子在走近，她死于去年，女儿扯着我的裤腿，惊恐地盯着我手中的酒瓶。我知道她不会喝酒，于是我便灌了一口去年的酒，裤腿出现褶皱，我的嘴咧开。\n\n酒瓶砸在第四小节，那是我第一次演奏。我牵着妻坐在五线谱，不对，那时还是朋友。星巴克的冰饮冲得我鼻梁生疼，妻在一旁笑着，取过了我身上的购物袋。\n\n酒液洒在钢琴木腿，就像我浸湿了妻一样。过后，两个人交叠仰面，我看的是天花板，她同我聊星空。我种下了种子，等待她生根发芽。\n\n妻在白浪的海滩下对我招手，妻在狭小的琴室内紧贴我，共奏一曲。\n\n妻皱起眉头，我内心烦躁不已，女儿躺在摇篮床中，望着头顶悬挂的玩具，没有笑声。\n\n她在一旁呼唤着，乙醇。\n\n红色，满目红色。对不起，我没法克制，酒瓶锤下的震感通过手臂直击大脑，乙醇刺激。妻子的手曾端过饭菜，妻子的手曾轻抚我、女儿，妻子的红色流至手肘。\n\n寂静小路滴答，玻璃碎片撞击石板砖。\n\n妻…你还在雪中吗\n\n对不起，我没法克制\n\n大货车冲击金黄的花海，尸体冲入海浪，撞击礁石，就像酒瓶碎裂在垃圾桶中，被谱纸包裹。\n\n妻包裹着女儿，在悬崖下，在雪上，在夕阳下，在花海上。\n\n于是墨香便与乙醇混合，我弹奏起黄玫瑰，六月份的雪淹没眼角膜，灼烧感烧去眼前你我，你在桌旁微笑，笑容逐渐模糊。我摸索着第四小节，你的手在旁边，还有我的泪水\n\n对不起，乙醇，满面乙醇。\n\n夕阳下的花海难掩盖住几分憔悴，妻子倒在我的精神疾病下，女儿倒在了六月份的雪中。\n\n于是我弹奏起黄玫瑰，你在走近，自海面漂泊而来，向人群漂泊而去，黑白琴键在飞舞，我闭眼，火药粉尘弥散在空中，就像甜蜜的花粉使人过敏一样。我扣下扳机，清脆的声音让我想起折断的花茎，我将花蕊吞下，于是花瓣在口腔中绽放。\n\n我弹奏起黄玫瑰，枪声依旧入耳动听。\n\n\n[[include :snippets:html5player\n| type=audio\n| url=http://scp-wiki-coloredbucket.wikidot.com/local--files/dream-piano/yellow-rose-gun\n]]\n[[/size]]\n\n[[span style=\"float:right; margin-left:5px; margin-top:12px; color: purple; background-color: #ffffff; padding: 0px 10px;\"]]\n[**断弦**] [**烟灰**] [**洞**]\n[[/span]]",
+  "tags": [
+    "_梦神集团",
+    "goi格式",
+    "原创",
+    "梦神集团"
+  ],
+  "author": "ColoredBucket",
+  "created_at": "2022-07-28T06:57:38+00:00",
+  "updated_at": "2022-07-28T10:19:28+00:00",
+  "rating": 19,
+  "_site": "scp-wiki-cn",
+  "_fullname": "dream-piano"
+}

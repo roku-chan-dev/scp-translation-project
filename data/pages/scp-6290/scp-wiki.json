@@ -1,0 +1,24 @@
+{
+  "title": "SCP-6290",
+  "content": "[[>]]\n[[module Rate]]\n[[/>]]\n\n[[include :scp-wiki:theme:black-highlighter-theme]]\n\n[[module ListPages  category=\"fragment\" parent=\".\" limit=\"1\" order=\"created_at\" offset=\"@URL|0\"]]\n%%content%%\n[[/module]]\n\n[!--\nhttp://scp-wiki.wikidot.com/fragment:scp-6290-1\nhttp://scp-wiki.wikidot.com/fragment:scp-6290-2\n--]\n\n[[div class=\"footer-wikiwalk-nav\"]]\n[[=]]\n<< [[[SCP-6289]]] | SCP-6290 | [[[SCP-6291]]] >>\n[[/=]]\n[[/div]]",
+  "tags": [
+    "_cc",
+    "_listpages",
+    "cadaver",
+    "clown",
+    "euclid",
+    "humanoid",
+    "medical",
+    "performance",
+    "sapient",
+    "scp",
+    "self-repairing",
+    "teleportation"
+  ],
+  "author": "TheYeIIowDucK",
+  "created_at": "2022-06-21T07:52:29+00:00",
+  "updated_at": "2024-04-02T09:09:17+00:00",
+  "rating": 45,
+  "_site": "scp-wiki",
+  "_fullname": "scp-6290"
+}

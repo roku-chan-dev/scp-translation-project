@@ -1,0 +1,28 @@
+{
+  "title": "SCP-8090",
+  "content": "=====\n[[include component:preview\ntext=A forgotten, bloodied past tears it's way back into the present as a beast conceived from the decaying flesh of a dying god resurfaces from the depths.]]\n=====\n\n[[=]]\n[[module Rate]]\n[[/=]]\n\n[[module ListPages  category=\"fragment\" parent=\".\" limit=\"1\" order=\"created_at\" offset=\"@URL|0\"]]\n%%content%%\n[[/module]]\n\n[!-- https://scp-wiki.wikidot.com/fragment:8000contestroufhous1 ACT 1 --]\n[!-- https://scp-wiki.wikidot.com/fragment:8000contestroufhous2 ACT 2 --]\n[!-- https://scp-wiki.wikidot.com/fragment:8000contestroufhous3 ACT 3 --]\n\n[[div class=\"footer-wikiwalk-nav\"]]\n[[=]]\n<< [[[SCP-8089]]] | SCP-8090 | [[[SCP-8091]]] >>\n[[/=]]\n[[/div]]\n[[=]]\n[[include :scp-wiki:component:license-box]]\n[[<]]\n\n> **Filename:** Background3\n> **Name:** File:The Skies of Fire.jpg\n> **Author:** Gorgosek\n> **License:** Creative Commons Attribution-Share Alike 4.0 International\n> **Source Link:** https://commons.wikimedia.org/wiki/File:The_Skies_of_Fire.jpg\n\n> **Filename:** Barrier\n> **Name:** File:2017-04-30 22-17-34 lp-ac-ouv-haut-bois.jpg\n> **Author:** Thomas Bresson\n> **License:** Creative Commons Attribution 4.0 International\n> **Source Link:** https://commons.wikimedia.org/wiki/File:2017-04-30_22-17-34_lp-ac-ouv-haut-bois.jpg\n\n> **Filename:** Draggy\n> **Name:** File:Dragon and sword.svg\n> **Author:** Frédéric MICHEL\n> **License:** Creative Commons Attribution-Share Alike 4.0 International, 3.0 Unported, 2.5 Generic, 2.0 Generic and 1.0 Generic\n> **Source Link:** https://commons.wikimedia.org/wiki/File:Dragon_and_sword.svg\n\n> **Filename:** Roof\n> **Name:** File:Mars - Cryptic Region Type B.jpg\n> **Author:** Mariagat Włodek Głażewski\n> **License:** Creative Commons Attribution-Share Alike 4.0 International\n> **Source Link:** https://commons.wikimedia.org/wiki/File:Mars_-_Cryptic_Region_Type_B.jpg\n\n> **Filename:** Meat\n> **Name:** File:Tulipa pestle surface - SEM, colorized.tiff\n> **Author:** TiberiusRufus\n> **License:** Creative Commons Attribution-Share Alike 4.0 International\n> **Source Link:** https://commons.wikimedia.org/wiki/File:Tulipa_pestle_surface_-_SEM,_colorized.tiff\n\n> **Filename:** Background2\n> **Name:** File:NASA’s Webb Reveals Cosmic Cliffs, Glittering Landscape of Star Birth - Flickr - James Webb Space Telescope (1).png\n> **Author:** NASA's James Webb Space Telescope from Greenbelt, MD, USA\n> **License:**  Creative Commons Attribution 2.0 Generic\n> **Source Link:** https://commons.wikimedia.org/wiki/File:NASA%E2%80%99s_Webb_Reveals_Cosmic_Cliffs,_Glittering_Landscape_of_Star_Birth_-_Flickr_-_James_Webb_Space_Telescope_(1).png\n\n> **Filename:** Lobby\n> **Name:** File:Neues Rathaus Hannover, Innenansicht.jpg\n> **Author:** Raycer\n> **License:** Creative Commons Attribution-Share Alike 4.0 International\n> **Source Link:** https://commons.wikimedia.org/wiki/File:Neues_Rathaus_Hannover,_Innenansicht.jpg\n\n> **Filename:** Kharos\n> **Name:** File:Fireworks (2641772676).jpg\n> **Author:** Jodie Wilson from Mountain View, USA\n> **License:** Creative Commons Attribution 2.0 Generic\n> **Source Link:** https://commons.wikimedia.org/wiki/File:Fireworks_(2641772676).jpg\n\n> **Filename:** Incident\n> **Name:** File:Red fireworks in night sky, Victory Day, Rostov-on-Don, Russia.jpg\n> **Author:** Vyacheslav Argenberg\n> **License:**  Creative Commons Attribution 4.0 International\n> **Source Link:** https://commons.wikimedia.org/wiki/File:Red_fireworks_in_night_sky,_Victory_Day,_Rostov-on-Don,_Russia.jpg\n\n[[/<]]\n[[include :scp-wiki:component:license-box-end]]\n[[/=]]",
+  "tags": [
+    "8000",
+    "_listpages",
+    "afterlife",
+    "alive",
+    "biohazard",
+    "building",
+    "contagion",
+    "esoteric-class",
+    "extradimensional",
+    "historical",
+    "hostile",
+    "pending",
+    "portal",
+    "sapient",
+    "scp",
+    "weapon"
+  ],
+  "author": "Roufhous",
+  "created_at": "2024-02-18T19:52:24+00:00",
+  "updated_at": "2024-07-26T16:05:08+00:00",
+  "rating": 22,
+  "_site": "scp-wiki",
+  "_fullname": "scp-8090"
+}

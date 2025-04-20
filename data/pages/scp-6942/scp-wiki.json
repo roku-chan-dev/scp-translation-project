@@ -1,0 +1,30 @@
+{
+  "title": "SCP-6942",
+  "content": "[[>]]\n[[module Rate]]\n[[/>]]\n[[include :scp-wiki:theme:black-highlighter-theme]]\n[[include :scp-wiki:component:rso]]\n[[module ListPages  category=\"fragment\" parent=\".\" limit=\"1\" order=\"created_at\" offset=\"@URL|0\"]]\n%%content%%\n[[/module]]\n\n[!-- https://scp-wiki.wikidot.com/fragment:scp-6942-1 --]\n[!-- https://scp-wiki.wikidot.com/fragment:scp-6942-2 --]\n[!-- https://scp-wiki.wikidot.com/fragment:scp-6942-3 --]\n\n[[div class=\"footer-wikiwalk-nav\"]]\n[[=]]\n<< [[[SCP-6941]]] | SCP-6942 | [[[SCP-6943]]] >>\n[[/=]]\n[[/div]]\n\n[[include :scp-wiki:component:license-box]]\n=====\n> **Filename:** 640px-Jewel_Beetle_(Buprestidae)_(7921854922).jpg\n> **Name:** File:Jewel Beetle (Buprestidae) (7921854922).jpg\n> **Author:** Bernard DUPONT\n> **License:** CC BY-SA 2.0\n> **Source Link:** [https://commons.wikimedia.org/wiki/File:Jewel_Beetle_(Buprestidae)_(7921854922).jpg Wikimedia Commons]\n\n> **Filename:** Svalbard_seed_vault_IMG 8887.jpg\n> **Name:** File:Svalbard seed vault IMG 8887.JPG\n> **Author:** Bjoertvedt\n> **License:** CC BY-SA 3.0\n> **Source Link:** [https://commons.wikimedia.org/wiki/File:Svalbard_seed_vault_IMG_8887.JPG Wikimedia Commons]\n=====\n[[include :scp-wiki:component:license-box-end]]",
+  "tags": [
+    "6000",
+    "_cc",
+    "_licensebox",
+    "_listpages",
+    "acoustic",
+    "alive",
+    "animal",
+    "cognitohazard",
+    "esoteric-class",
+    "genetic",
+    "humanoid",
+    "insect",
+    "intangible",
+    "k-class-scenario",
+    "reality-bending",
+    "sapient",
+    "scp",
+    "species"
+  ],
+  "author": "Aftokrator",
+  "created_at": "2021-05-25T04:09:19+00:00",
+  "updated_at": "2022-10-01T18:16:22+00:00",
+  "rating": 81,
+  "_site": "scp-wiki",
+  "_fullname": "scp-6942"
+}

@@ -1,0 +1,24 @@
+{
+  "title": "SCP-7579",
+  "content": "[[div style=\"display: none;\"]]\n[[include component:image-block name=https://scp-wiki.wdfiles.com/local--files/scp-anthology-hub/O2hub.png|caption=.]]\n[[/div]]\n\n[[include :scp-wiki-cn:theme:foxtrot hidetitle=a|verdana=a]]\n\n[[module css]]\n:root{\n  --header-title: \"SCP基金会\";\n  --header-subtitle: \"控制 · 收容 · 保护\";\n  --head-font: var(--ui-font);\n  --page-font-size: 0.79rem;\n  --link-txt-color: rgba(var(--accent), 0.75);\n\n  --accent: 0, 77, 99;\n\n  --posX: calc(50% - 358px - 17.5rem);\n  --fnColor: rgb(var(--accent));\n}\n\nh1, h2, h3, h4, h5, h6 {\n  font-weight: 900;\n}\n\n#page-content > p {\n  font-weight: normal;\n}\n\n#page-content .blockquote {\n  margin: 1em 2em;\n}\n\n#page-content hr {\n  height: 1px;\n  background-color: rgb(var(--accent));\n  margin-top: 1.5em;\n  margin-bottom: 1.5em;\n}\n\n#page-content .modal {\n  font-family: 'Inter';\n  font-size: 110%;\n}\n\n#page-content .notation {\n  width: auto;\n  margin: auto;\n  font-family: 'Inter';\n  font-size: 110%;\n  border-left: solid 4px rgba(var(--accent), 0.33);\n  border-right: solid 4px rgba(var(--accent), 0.33);\n}\n\n#page-content .jotting {\n  padding: 0.5em 1.5em;\n}\n\n.notation > .jotting,\n#page-content > .jotting > blockquote {\n  background-color: white;\n}\n\n#page-content a {\n  font-weight: bold;\n}\n\n.fncon {\n  font-family: var(--page-font) !important;\n  font-size: 92% !important;\n  line-height: 1.4;\n  border-color: rgb(var(--accent));\n}\n\n.fncon::before {\n  font-family: 'Inter';\n}\n\n@media only screen and (min-width: 1278px) {\n  .fncon {\n    width: 14rem;\n    border: none;\n    border-left: 5px rgb(var(--accent)) solid;\n    background-color: rgba(var(--accent), 0.1);\n  }\n\n  .fncon::before {\n    top: 14px; left: -10px;\n  }\n}\n\n@media (max-width: 767px) {\n  .jotting,\n  .modal {\n    margin: 1em;\n  }   \n}\n\n#page-content .scp-image-block img {\n  border: solid 1px rgba(var(--accent), 0.66);\n}\n\n#page-content .scp-image-block.block-left {\n  margin: 0.5em 1.5em 1em 0em;\n}\n\n#page-content .scp-image-block.block-right {\n  margin: 0.5em 0em 1em 1.5em;\n}\n\n#page-content .scp-image-caption {\n  border: solid 1px rgba(var(--accent), 0.66);\n  border-radius: 0px;\n  margin-top: 7px;\n}\n[[/module]]\n\n[[=]]\n\n[[include :scp-wiki-cn:component:author-label-source start=--\n|name=Placeholder McD\n|center=*]]\n更多与这篇相似的作品：[*/placeholder-mcd-s-authorpage 占位符员工档案]\n[[include :scp-wiki-cn:component:author-label-source end=--]]\n[[/=]]\n\n@@ @@\n\n[[module ListPages category=\"fragment\" parent=\".\" limit=\"1\" order=\"created_at\" offset=\"@URL|0\"]]\n%%content%%\n[[/module]]\n\n[!-- https://scp-wiki-cn.wikidot.com/fragment:scp-7579-0 --]\n[!-- https://scp-wiki-cn.wikidot.com/fragment:scp-7579-1 --]\n\n@@ @@\n----\n[[=]]\n[[div style=\"height: 6px;\"]]\n[[/div]]\n\n[[include :scp-wiki-cn:component:license-box\n|author=Placeholder McD]]\n[[<]]\n=====\n按出现顺序：\n\n> **图像名：**Exidy Sorcerer von Hort Völz\n> **图像作者：**Wolfgang Stief\n> **授权协议：**公有领域\n> **来源：**[*https://www.flickr.com/photos/stiefkind/17367355941/in/photolist-pgxW2a-4oCBUf-gqwvB-2iu5qce-rxzQzg-ssGeRp-4oyxg4-5Qhb6d-9UPvQU-dgSM5f-ss6RBY-scWs3i-sudLvA-sudL79-scNn4A-oVQVdM-2aHVaVK-2guGXFJ-4ckjcV-dytxKa-6Voh2m-6VogZ5-dmzhev Flickr]\n\n> **图像名：**Cray2\n> **图像作者：**NASA\n> **授权协议：**公有领域\n> **来源：**[*/https://commons.wikimedia.org/wiki/File:Cray2.jpeg 维基共享]\n\n> **图像名：**I. T. Department Logo\n> **图像作者：**[[*user EstrellaYoshte]]\n> **授权协议：**CC BY-SA 3.0\n> **来源：**[*https://imgur.com/JMZCHWq Imgur]\n\n> **图像名：**Decom. Dept. Logo\n> **图像作者：**[[*user Calibold]]\n> **授权协议：**CC-BY-SA 3.0\n> **来源：**[*https://scp-wiki.wdfiles.com/local--files/theme%3Adecom-dept/Decom.%20Dept.%20Logo.svg 废除部版式本地文件]\n\n> **图像名：**tannex.png\n> **图像作者：**[[*user Billith]]\n> **授权协议：**CC-BY-SA 3.0\n> **来源：**[*https://scp-wiki.wdfiles.com/local--files/scp-7579/tannex.png 本地文件]\n\n> 大量文本取自 [[*user far2]] 的 [[[SCP-079]]]，文章为 CC BY-SA 3.0。本文灵感亦来自于此。某些文本灵感来自于 [[*user Cerastes]] 的[[[outdated|过时]]]，此文同样为 CC BY-SA 3.0。\n=====\n[[/<]]\n[[include :scp-wiki-cn:component:license-box-end]]\n[[/=]]\n\n@@ @@",
+  "tags": [
+    "aiad",
+    "bold主管",
+    "euclid",
+    "mcdoctorate博士",
+    "scp",
+    "人工智能",
+    "废除部",
+    "旧ai",
+    "智能",
+    "死亡abc",
+    "电子",
+    "电脑"
+  ],
+  "author": "hoah2333",
+  "created_at": "2022-12-18T02:55:50+00:00",
+  "updated_at": "2024-05-14T16:29:30+00:00",
+  "rating": 29,
+  "_site": "scp-wiki-cn",
+  "_fullname": "scp-7579"
+}

@@ -1,0 +1,14 @@
+{
+  "title": "新着メッセージ - リファレンス",
+  "content": "[[include :scp-jp:credit:start]]\n**タイトル:** 新着メッセージ\n**著者:** [[*user iti119]]\n**作成年:** 2023\n[[include :scp-jp:credit:end]]\n\n[[include :scp-jp:user-component:new-message-start]]\n+ これは何?\nこれは[[[scp-style-resource#toc28|Eメールテンプレート]]]の点滅する折り畳みを再現して改良を加えたコンポーネントです。\n\n折り畳みを開く前と一度開いたあとの展開リンクの表示を変更することができます。何を言っているのかわからなければ、上の折り畳みを開いたり閉じたり、ページをリロードしたりしてみてください。\n\n+ 使用方法\n[[div class=\"code\"]]\n@@@@[[include :scp-jp:user-component:new-message-start]]\n##888|<ここに文章>##\n@@@@[[include :scp-jp:user-component:new-message-end]]\n[[/div]]\n\n[[table class=\"wiki-content-table\"]]\n[[row]]\n[[hcell colspan=\"3\" class=\"caption\"]]\n任意の引数 (new-message-start):\n[[/hcell]]\n[[/row]]\n[[row]]\n[[hcell class=\"header\"]]引数[[/hcell]]\n[[hcell class=\"header\"]]データ型[[/hcell]]\n[[hcell class=\"header\"]]説明[[/hcell]]\n[[/row]]\n[[row]]\n[[hcell]]first-open[[/hcell]]\n[[cell]]文字列[[/cell]]\n[[cell]]\n折り畳みを展開する前 (点滅状態) の折り畳みリンクの文章です。\n初期値は「(1)通の新着メッセージがあります！」です。\n[[/cell]]\n[[/row]]\n[[row]]\n[[hcell]]open[[/hcell]]\n[[cell]]文字列[[/cell]]\n[[cell]]\n折り畳みを展開し、再び閉じたときの折り畳みリンクの文章です。\n初期値は「新着メッセージはありません。」です。\n[[/cell]]\n[[/row]]\n[[row]]\n[[hcell]]close[[/hcell]]\n[[cell]]文字列[[/cell]]\n[[cell]]\n折り畳みを閉じるリンクの文章です。\n初期値は「- 閉じる」です。\n[[/cell]]\n[[/row]]\n[[row]]\n[[hcell]]align[[/hcell]]\n[[cell]]center[[/cell]]\n[[cell]]\ncenterを指定すると折り畳みリンクが中央寄せになります。\n[[/cell]]\n[[/row]]\n[[/table]]\n\nnew-message-endに引数はありません。\n\n[[include :scp-jp:user-component:new-message-end]]\n\n[[module CSS]]\ntable.wiki-content-table tr th.caption {\n    border: none;\n    background: none;\n    padding: 1em 0;\n}\ntable.wiki-content-table tr th.header {\n    background-color: #aaa;\n    color: #fff;\n}\nspan[style=\"color: code\"] {\n    border: 1px dashed #ddd;\n    background-color: #f7f7f7;\n    padding: 0 0.5ch;\n    font-family: 'Andale Mono', 'Courier New', Courier, monospace;\n}\n[[/module]]",
+  "tags": [
+    "jp",
+    "リファレンス"
+  ],
+  "author": "iti119",
+  "created_at": "2023-04-12T10:00:12+00:00",
+  "updated_at": "2023-04-12T10:06:45+00:00",
+  "rating": 36,
+  "_site": "scp-jp",
+  "_fullname": "reference:new-message"
+}

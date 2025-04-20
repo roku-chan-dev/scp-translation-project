@@ -1,0 +1,14 @@
+{
+  "title": "다른 사이트 코드 삽입",
+  "content": "가끔 웹사이트(주로 사회성을 지향하는 것들)은 사이트의 기능성을 증가시키거나 오리지널 사이트의 콘텐츠를 삽입하기 위해 다른 페이지에 직접 코드 블록을 붙여넣는 것을 허용합니다.\n\n++ {{@@[[embed]]@@}} 태그\n\n{{@@[[embed]]@@}} 블록 태그는 이와 같은 일을 위키 페이지에서 허용합니다. 예를들면, http://del.icio.us/help/tagrolls 에서 생성한 del.icio.us의 태그 클라우드를 보이게하려면 간단하게 html 코드를 감싸주세요.\n\n[[code]]\n[[embed]]\n<script type=\"text/javascript\" src=\"http://del.icio.us/feeds/js/tags/michal_frackowiak?icon;size=12-35;color=87ceeb-0000ff;title=my%20del.icio.us%20tags\"></script>\n[[/embed]]\n[[/code]]\n\n지원하는 서비스 목록은 [[[http://www.wikidot.com/doc:embedding | 다른 서비스에서 코드 삽입하기]]] 페이지를 참조해주세요.\n\n코드가 예를들어 JavaScript 등과 같이 {{<script type=\"text/javascript\"...}}를 포함한다면, 그 내용은 페이지 편집 도중에 {{미리보기}}를 클릭해도 완전히 치환되지 않습니다. 그 자리에 위치해야하지만 나중에 페이지를 볼 때만 보이게됩니다.\n\n++ [[# iframe]]{{@@[[iframe]]@@}} 요소\n\n//iframe//을 사용하여 다른 웹사이트의 내용을 삽입할 수 있습니다. 문법은 아래와 같습니다.\n[[code]]\n[[iframe url-주소 속성]]\n[[/code]]\n이는 {{<iframe src=\"url-주소\" 속성></iframe>}}으로 변환됩니다. 사용가능한 속성은 frameborder (0, 1), align (left, right, top, bottom, middle), height (픽셀 수 혹은 %), width(픽셀수 혹은 %), scrolling (yes, no), class, style입니다.",
+  "tags": [
+    "관리",
+    "안내"
+  ],
+  "author": "Dr Devan",
+  "created_at": "2014-12-19T09:15:50+00:00",
+  "updated_at": "2014-12-19T09:17:34+00:00",
+  "rating": 0,
+  "_site": "scpko",
+  "_fullname": "wiki-syntax:embedding-code"
+}

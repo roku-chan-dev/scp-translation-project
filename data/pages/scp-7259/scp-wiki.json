@@ -1,0 +1,22 @@
+{
+  "title": "SCP-7259",
+  "content": "[[>]]\n[[module Rate]]\n[[/>]]\n[[include :scp-wiki:component:author-label-source start=--\n|name=Rab333]]\nWhere do you go when you die?\n[https://scp-wiki.wikidot.com/rab333-s-contained-anomalies Also, more stuff by me!]\n[[include :scp-wiki:component:author-label-source end=--]]\n\n[[module ListPages  category=\"fragment\" parent=\".\" limit=\"1\" order=\"created_at\" offset=\"@URL|0\"]]\n%%content%%\n[[/module]]\n\n[!-- https://scp-wiki.wikidot.com/fragment:scp-7259-0 --]\n[!-- https://scp-wiki.wikidot.com/fragment:scp-7259-1 --]",
+  "tags": [
+    "_cc",
+    "_licensebox",
+    "_listpages",
+    "afterlife",
+    "auditory",
+    "building",
+    "keter",
+    "location",
+    "scp",
+    "tactical-theology"
+  ],
+  "author": "Rab333",
+  "created_at": "2024-01-22T18:05:07+00:00",
+  "updated_at": "2024-02-11T08:51:29+00:00",
+  "rating": 45,
+  "_site": "scp-wiki",
+  "_fullname": "scp-7259"
+}

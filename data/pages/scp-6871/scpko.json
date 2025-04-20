@@ -1,0 +1,27 @@
+{
+  "title": "SCP-6871",
+  "content": "[[include :scpko:theme:black-highlighter-theme]]\n[[include :scpko:component:bhl-dark-sidebar]]\n[[include :scpko:component:centered-header-bhl]]\n[[include :scpko:theme:the-coalition-theme]]\n[[include :scpko:component:toggle-sidebar-bhl]]\n[[include :scpko:component:fade-in speed=4]]\n[[module CSS]]\n:root {\n    --timeScale: 6;\n    --timeDelay: 6s;\n}\n\n#page-content hr {\nborder-top: none;\nheight: .05em;\nbackground: #454545;\n}\n#page-title {\n  display: none;\n}\n.footnotes-footer {\ndisplay: none;\n}\n[[/module]]\n\n[[module css]]\n.collection .collapsible-block-unfolded-link a , .collection .collapsible-block-folded a {\nbackground-color: #21284E !important;\ncolor: #FFFFFF !important;\n}\n\n.titlecolumn {\nbackground-color: #21284E !important;\ncolor: #FFFFFF !important;\n}\n\n.namerow {\nbackground-color: #21284E !important;\ncolor:  #FFFFFF !important;\n}\n\n.namerow a {\n  color:  #FFFFFF !important;\n}\n[[/module]]\n\n[[include info:start]]\n**SCP-6871:** 눈 깜박할 사이\n**저자:** [[*user Ralliston]]          \n**원작:** http://scp-wiki.wikidot.com/scp-6871\n**역자:** [[*user Aiken Drum]]\n[[include info:end]]\n\n[[div style=\"text-align: right; margin-top: -10px;\"]]\n[[size 80%]]##757575|by Ralliston##[[/size]]\n[[/div]]\n \n[[include :scpko:component:info-ayers\n|lang=en\n|page=scp-6871\n|authorPage=http://scpko.wikidot.com/ralliston-s-authorpage\n|comments= 중대한 라이선스 정보가 있으니 토론란의 작가 포스트를 확인해주세요.\n]]\n\n[[include :scpko:component:classified-bar-woed\n|lv=6\n|item=6871\n|oc=타우미엘\n|oc-en=Thaumiel\n|lang=ko\n]]\n\n\n[[module css]]\ndiv.scale {\n  --woedbar-lvl6-color: #21284E;\n}\n[[/module]]\n\n[[module CSS]]\n   body {\n    --barColour: #21284E\n}\n[[/module]]\n\n\n-----\n**특수 격리 절차:** SCP-6871을 실행 및 필요요소에 대한 지침은 --O5 위원회-- 관리자 전용으로 제한된다. 이에 대한 정보를 얻으려고 시도하는 비인가자는 현장에서 처분한다.\n\nSCP-6871과 관련된 모든 실험은 최소 5명의 서로 무관한 참관인[[footnote]]현재 관리자, 마리아 존스, O5-1, O5-13, 기어스 박사로 구성됨[[/footnote]]이 필요하며, 이들은 절차가 시행되는 동안 반드시 SCP-6871의 파일을 가진 채로 [[[SCP-3936|제01차단기지]]]에 머물러야 한다. 마찬가지로, 역설적 시간 루프를 방지하기 위해 실험을 진행하는 인물은 해당 기지에 위치해야 하며, SCP-6871이 수행되는 대상은 외부에 위치해야 한다.\n\n**설명:** SCP-6871는 기적술 의식으로, 기준선 시간선으로부터 인물, 물체 및 현상을 제거할 수 있다. 올바르게 실행된다면, 시간선 내에서의 목표물의 영향과 행동이 소급적으로 사라져 대체된다. 의식이 상대적으로 간단하지만, 비재단 단체에게 있어선 필요요소의 비용이 극도로 높기 때문에, 의식을 현대의 요주의 단체 및 인물이 시도했던 바 없다.\n\n**부록 6871-1:** SCP-6871 실험 기록\n\n||~ 실험번호 ||~ 수행자 ||~ 제거 대상 ||~ 결과 ||\n|| #1 || D-51832 || 무작위로 선택된 1달러 지폐 || 차이점 확인되지 않음. ||\n|| #2 || D-51832 || 브랜다 박사가 커피를 사는 데 이용한 1달러 지폐 || 브렌다 박사는 해당 일자에 눈에 띌 정도로 더욱 피로했으며, 그에 따라 현재 진행 중인 자신의 프로젝트에서 눈에 띌 정도로 이전보다 적은 진전을 보였다. ||\n|| #3 || D-81920 || D-51832 || 이전 모든 실험 및 실험 결과가 되돌려졌다. ||\n|| #4 || D-91726 || D-81920 || 실험번호 #2와 동일하게 현실이 되돌려졌으나, D-81920는 존재하지 않았다. ||\n|| #5 || D-51832 || 브렌다 박사 || 브렌다 박사가 맡고 있는 다수의 변칙존재에 대한 연구에 눈에 띌 정도로 큰 진전이 있었으며, 맡고 있는 직위를 두고 다투었던 윌리엄스 박사는 브렌다 박사 보다 더욱 높은 인가 등급을 얻었다. ||\n|| #7 || D-51832 || 일라이어스 쇼 박사 || 쇼 박사의 현 숙주는 일반적인 결과와 마찬가지로 제거되었지만, [[[SCP-963]]]과 쇼 박사의 의식은 피해 없이 유지되었다. ||\n|| #8 || D-51832 || 쇼 박사의 모든 숙주 126명 || 126명 모두 일반적인 결과와 마찬가지로 제거되었지만, 또다른 쇼 박사의 숙주 126명이 발견되었다. ||\n|| #9 || D-51832 || SCP-963 || 쇼 박사의 의식 및 쇼 박사가 성취한 모든 연구 성과가 소실되었다. ||\n|| #10 || D-17253 || D-51832 || 실험 이전과 동일하게 현실이 되돌려졌으나, D-51832는 존재하지 않았다. ||\n|| #11 || 관리자 || SCP-6871 || N/A -- 시간적 역설을 피하기 위해 [[[welcome-to-delta-t|RCT-Δt]]]가 되돌렸다. ||\n|| #12 || O5-12 || [[[SCP-682]]] || 의식이 올바르게 실행되고 처음에는 대상이 대상이 야기한 피해와 함께 제거되었음에도 불구하고, 몇 초 뒤, SCP-682는 격리실에 다시 나타났으며, 다음과 같이 말했다. \"한심하군.\" 대상은 해당 사건에 대해 추가적으로 설명하기를 거부했다. ||\n|| #13 || O5-12 || [[[SCP-1000]]] || 밤의 아이들 종족 전체가 제거되었으며, 인간 종이 시작된 이래 항상 지배종이었던 것이 되었다. 인간 사회는 알아볼 수 없을 정도로 발전했으며, 다수의 신격 독립체와 뛰어난 첨단기술이 사회에 통합되었다. ||\n|| #14 || D-91826 || O5-12 || 마지막 3번의 실험은 위원회의 직접명령 없이 수행되어 재앙적 결과를 초래했으며, 실험번호 #12 이전과 동일하게 현실이 되돌려졌다. ||\n|| #15 || O5-2 || [[[chaos-insurgency-hub|기동특무부대 알파-1 (\"붉은 오른손\")]]] || 혼돈의 반란 및 재단 과학인력 2%와  MTF 부대 1.5%가 기준선 현실에서 제거되었다. 추가적인 연구가 진행 중이다. ||\n|| #16 || O5-8 || [[[goc-hub-page|D.C. 알 피네]]] || D.C. 알 피네 및 세계 오컬트 연합이 사라졌다. 그 결과 SCP 재단은 세계의 주도적인 변칙단체가 되었으며, 현재 [[[sarkicism-hub|위대한 카르시스트 이온]]] 및 클라비가르가 이끄는 전세계적 반란과 대항하고 있다. ||\n|| #17 || O5-3 || 위대한 카르시스트 이온 || 인간 사회는 청동기 시대까지 퇴보했다. 모든 인류의 진보 대다수가 [[[church-of-the-broken-god-hub|부서진 신의 교단]]]과 모든 O5 위원회 구성원과 함께 현실에서 사라졌다. 기록에 따르면 인류는 청동기 시대에서 3000년 이상 진보하지 못했다. 추가적인 연구가 진행 중이다. ||\n|| #18 || 관리자 || || //이 모든 짓을 내버려 둬서 미안해요. 정말, 정말로 미안해요.// ||\n-----\n**파일 주석:** 위의 문서는 숲에서 알 수 없는 폐건물을 찾았다는 민간 보고 이후 연합 급습 도중 미국 오레건주의 \"제01차단기지\"라고 표시된 폐건물의 깊은우물 기록보관소에서 발견되었다. 조사에 따르면 이 건물은 최소 2000년 이상되었으며, 변칙적인 현상 격리를 전문으로 하던 전세계적인 조직인 \"SCP 재단\"의 소유였다.\n\n이러한 이름을 가진 조직이나 이들의 존재를 나타내는 증거는 [[[unfounded-hub|존재하지 않는다]]].\n----\n\n[[div]]\n[[=]]\n[[include :scp-wiki:component:license-box]]\n=====\n=====\n[[include :scp-wiki:component:license-box-end]]\n[[/=]]\n[[/div]]",
+  "tags": [
+    "dc-알-피네",
+    "en",
+    "scp",
+    "관리자",
+    "기적술",
+    "밤의-아이들",
+    "비설립",
+    "세계-오컬트-연합",
+    "쇼-박사",
+    "시간",
+    "역설적",
+    "위대한-카르시스트-이온",
+    "의식",
+    "죽일-수-없는-파충류",
+    "타우미엘"
+  ],
+  "author": "Aiken Drum",
+  "created_at": "2021-09-04T13:37:49+00:00",
+  "updated_at": "2025-03-16T08:10:09+00:00",
+  "rating": 13,
+  "_site": "scpko",
+  "_fullname": "scp-6871"
+}

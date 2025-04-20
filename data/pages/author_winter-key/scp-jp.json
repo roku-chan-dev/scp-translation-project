@@ -1,0 +1,14 @@
+{
+  "title": "降寒研究助手の人事ファイル",
+  "content": "[[include :1nu:theme]]\n\n[!-- インクルード先にタブの構文を載せること --]\n\n@@@@\n@@@@\n\n[[module CSS arguments...]]\n#page-title {\n  display: none;\n}\n.fake_title {\n  font-size: 200%;\n  color: #990011;\n  padding: 0 0 0.25em;\n  margin: 0 0 0.6em;\n  border-bottom: 1px solid #bbb;\n  font-weight: normal;\n}\n.fake_title p {\n  padding: 0;\n  margin: 0;\n}\n[[/module]]\n\n@@@@\n@@@@\n\n[[=]]\n[[module css]]\n.textchange div.sitemember:nth-child(2) {\ndisplay:none;\n}\n[[/module]]\n[[div class=\"textchange\"]]\n[[module ListUsers users=\".\"]]\n[[div class=\"sitemember\"]]\nようこそ　[[size 120%]]**%%name%%**[[/size]]様\n[[/div]]\n[[/module]]\n[[div class=\"sitemember\"]]\nようこそ　ゲスト様\n[[/div]]\n[[/div]]\n以下からご希望の情報をお選びください\n[[/=]]\n\n@@@@\n@@@@\n@@@@\n----\n@@@@\n@@@@\n\n\n+ 人事\n[[tabview]]\n[[tab これは何？]]\n人事関係を載せるタブです。\n[[/tab]]\n\n[[include :winter-key-01scp:jnj-fairu]]\n\n[[include :winter-key-01scp:jnj-fairu2]]\n\n[[tab Agt.柊中]]\n[閲覧許可申請中]\n[[/tab]]\n\n[[tab 束集環境担当員]]\n[閲覧許可申請中]\n[[/tab]]\n\n[[include :winter-key-01scp:gallery-e]]\n\n[[/tabview]]\n\n@@@@\n@@@@\n@@@@\n\n+ 作品\n[[tabview]]\n[[tab これは何？]]\n自身が作った(参加したものも含め)作品を載せています。\n[[/tab]]\n\n[[include :winter-key-01scp:site-katudou]]\n\n[[include :winter-key-01scp:gaibu-katudou]]\n\n[[include :winter-key-01scp:katari]]\n\n[[/tabview]]\n\n@@@@\n@@@@\n@@@@\n\n+ その他\n[[tabview]]\n[[tab これは何？]]\nその他の話題を書き散らしています。\n[[/tab]]\n\n[[include :winter-key-01scp:jikosyoukai]]\n\n[[include :winter-key-01scp:jisseki]]\n\n[[include :winter-key-01scp:mokuhyou]]\n\n[[include :winter-key-01scp:link-oki]]\n\n[[include :winter-key-01scp:kojinn-konn-archive]]\n\n[[include :winter-key-01scp:sukina-kizi]]\n\n[[/tabview]]\n\n@@@@\n@@@@\n\n[[>]]\n[[include component:coltop show=+ 脚注|hide=- 閉じる]]\n[[<]]\n[[footnoteblock]]\n[[/<]]\n[[include component:colend nohide=true]]\n[[/>]]\n\n[[>]]\n[[size 80%]]\nテーマ元@@     @@©️[[*user dog_punch]]\n[[/>]]\n[[/size]]",
+  "tags": [
+    "jp",
+    "著者ページ"
+  ],
+  "author": "winter key",
+  "created_at": "2022-04-03T12:56:52+00:00",
+  "updated_at": "2024-07-03T17:28:36+00:00",
+  "rating": 0,
+  "_site": "scp-jp",
+  "_fullname": "author:winter-key"
+}

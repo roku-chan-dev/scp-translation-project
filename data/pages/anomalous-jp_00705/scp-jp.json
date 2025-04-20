@@ -1,0 +1,14 @@
+{
+  "title": "00705",
+  "content": "content: \"**説明:** 着用すると自身を[[[dr-bright-s-personnel-file|ブライト博士]]]だと思い込むようになる[[[SCP-963]]]のレプリカ。[[[the-things-dr-bright-is-not-allowed-to-do-at-the-foundation|禁止リスト]]]等のステレオタイプ的な\\\"ブライト博士像\\\"を演じる。\\n**回収日:** 19██/8/20\\n**回収場所:** サイト-19。本物のブライト博士らに紛れ混んでいた。\\n**現状:** ブライト博士のデスク\\n**追記:** //俺、周りのヤツらからこんな風に思われてんの？-ブライト博士//\\n\"\ntf2: '1'\nauthor: ogakuzu\nredirect-b: '[[module Redirect destination=\"http://ja.scp-wiki.net/log-of-anomalous-items-jp'\nredirect-e: '\"]]'",
+  "tags": [
+    "jp",
+    "剪定対象-子"
+  ],
+  "author": "7happy7",
+  "created_at": "2020-03-14T14:42:36+00:00",
+  "updated_at": "2021-05-24T13:14:06+00:00",
+  "rating": 14,
+  "_site": "scp-jp",
+  "_fullname": "anomalous-jp:00705"
+}

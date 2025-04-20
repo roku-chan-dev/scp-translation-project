@@ -1,0 +1,24 @@
+{
+  "title": "Alex Thorley Goes on a Blind Date",
+  "content": "[[include :scp-wiki:theme:black-highlighter-theme]]\n[[include :scp-wiki:theme:minimalist-bhl]]\n\n[[module CSS]]\n:root {\n     --header-title: \"Department of Unreality\";\n     --header-subtitle: \"Making the Unreal a ㅤㅤㅤㅤ\";\n     --lgurl: url('http://scp-wiki.wikidot.com/local--files/unreality-hub/Unreality%20Header%20Logo.svg');\n}\n[[/module]]\n\n[[include component:ratio-bar base=-- |ex=--]]\n[[>]]\n[[include :scp-wiki:info:start]]\n**Alex Thorley Goes on a Blind Date**\nMade by IronShears\n[[include component:ratio-bar pie=--]]\n[[include :scp-wiki:info:end]]\n[[/>]]\n\n[[HTML]]\n<iframe src=\"https://ironshears.github.io/\" style=\"width: 100%; aspect-ratio: 1/1;\"></iframe>\n\n[[/HTML]]\n\n\n\n[[include :scp-wiki:component:license-box]]\n=====\n> **Filename:** 559853__migfus20__mysterious-piano-music-loop.mp3\n> **Name:** Relaxing Mysterious Piano Loop\n> **Author:** Migfus20 \n> **License:** CC BY 4.0\n> **Source Link:** [https://freesound.org/people/Migfus20/sounds/559853/ Freesound]\n\n> **Filename:** 559850__migfus20__jazz-background-music-loop.mp3\n> **Name:** Jazz Background Music Loop\n> **Author:** Migfus20 \n> **License:** CC BY 4.0\n> **Source Link:** [https://freesound.org/people/Migfus20/sounds/559850/ Freesound]\n\n> **Filename:** 564001__migfus20__jazz-background-music-loop.mp3\n> **Name:** Jazz Background Music Loop\n> **Author:** Migfus20 \n> **License:** CC BY 4.0\n> **Source Link:** [https://freesound.org/people/Migfus20/sounds/564001/ Freesound]\n\n> **Filename:** ATypewriterForMe.ttf\n> **Name:** A Typewriter for Me\n> **Author:** Zachary Lucier\n> **License:** Public Domain\n> **Source Link:** [https://www.dafont.com/atypewriterforme.font DaFont]\n\n> **Name:** Source Code\n> **Author:** [[*user IronShears]]\n> **License:** CC-BY-SA 3.0\n> **Source Link:** [https://github.com/IronShears/AlexThorleyGoesOnABlindDate GitHub]\n\n=====\n[[include :scp-wiki:component:license-box-end]]",
+  "tags": [
+    "_cc",
+    "_licensebox",
+    "alex-thorley",
+    "art-exchange",
+    "comedy",
+    "illustrated",
+    "interactive",
+    "romance",
+    "surrealism",
+    "tale",
+    "unreality-dept",
+    "untitled-series"
+  ],
+  "author": "IronShears",
+  "created_at": "2022-12-31T19:54:28+00:00",
+  "updated_at": "2024-10-11T19:23:24+00:00",
+  "rating": 220,
+  "_site": "scp-wiki",
+  "_fullname": "alex-thorley-goes-on-a-blind-date"
+}

@@ -1,0 +1,17 @@
+{
+  "title": "生",
+  "content": "[[div style=\"border:solid 1px #999999; background:#f0eeee; padding:5px; margin-bottom: 10px;\"]]\n[[>]]\n[[module Rate]]\n[[/>]]\n@@@@\n[[div style=\"border:solid 1px #999999; background:#f0eeee; padding:5px; margin-bottom: 10px;\"]]\n[[=]]\n++++ 故事概述\n//时间过去了很久。从某一个时间点开始，基金会再也没有发现一个异常，已收容的异常也正在慢慢失去异常性质。有些员工松了口气，有些员工却不能接受这个事实。在所有异常都走向无效化的那一天来临之前，人们必须为未来做出选择。//\n[[/=]]\n[[/div]]\n[[=]]\n[[image https://upload.wikimedia.org/wikipedia/commons/thumb/3/35/Amanecer_en_el_lago_Titicaca%2C_Puno%2C_Per%C3%BA%2C_2015-08-01%2C_DD_01.JPG/1280px-Amanecer_en_el_lago_Titicaca%2C_Puno%2C_Per%C3%BA%2C_2015-08-01%2C_DD_01.JPG  \" height=\"200px\"  width=\"600px\"]]\n\n“异常的消失，究竟是人们重获秩序和新生的黎明，还是故事步向尾声与终结的落日？”\n----\n++++ 作品目录\n[[/=]]\n[[div style=\"border:solid 1px #999999;width:48%;height:30em;background:#f0eeee;padding:5px;float:left;margin-bottom:10px\"]]\n++++ 按得分排序\n[[module ListPages rating=\">0\" tag=\"+生 -中心\" order=\"rating desc\" separate=\"false\" limit=\"600\" perPage=\"10\"]]\n# %%title_linked%% (评分: %%rating%%， 评语： %%comments%%)\n[[/module]] \n[[/div]]\n[[div style=\"border:solid 1px #999999;width:48%;height:30em;background:#f0eeee;padding:5px;float:right;margin-bottom:10px\"]]\n++++ 按发布时间排序\n[[module ListPages category=\"-fragment\" tag=\"+生 -中心\" separate=\"false\" limit=\"600\" perPage=\"10\"]]\n* %%title_linked%% (评分: %%rating%%， 评语： %%comments%%)\n[[/module]] \n[[/div]]\n[[div style=\"display: inline-block; border:solid 1px #999999; background:#f0eeee; padding:5px; margin-bottom: 10px;\"]]\n[[=]]\n++++ 写作指导\n[[/=]]\n* 这是一个合作写作计划，每个人需要描述一个失去异常的世界。你可以描绘这个世界的一角，也可以描绘知情或不知情人员的所见所想。（设定见本页最上）\n* 每个作品之间允许设定冲突，并且不需要具有关联性。唯一的要求只是需要描述“失去异常”的基金会宇宙。\n* 任何人都可以向此页添加作品，只要你的作品符合这个合作的设定。但同样，若你的作品低于删除评分线，或者被页面拥有者认为不符合设定，你的作品也会被删除或移出本页。\n* 但请不要因此而害怕投稿，我们欢迎任何人加入我们。\n[[/div]]\n[[/div]]",
+  "tags": [
+    "_设定中心",
+    "中心",
+    "原创",
+    "合作",
+    "生"
+  ],
+  "author": "Airalin_Knowledge",
+  "created_at": "2017-01-23T10:15:48+00:00",
+  "updated_at": "2024-03-27T04:18:27+00:00",
+  "rating": 746,
+  "_site": "scp-wiki-cn",
+  "_fullname": "alive"
+}

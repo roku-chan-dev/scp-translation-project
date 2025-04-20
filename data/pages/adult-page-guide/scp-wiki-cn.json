@@ -1,0 +1,14 @@
+{
+  "title": "成人内容页面发布指南",
+  "content": "> [[size 150%]]**##4682B4|译注：本文当前英文站已归档，此处仅供参考##**[[/size]]\n\n------\n\n任何包含成人内容的页面都必须依据[https://05command.wikidot.com/forum/t-13896072/adult-content-warnings 成人内容警告政策]发布。\n\n__网站成员//不需要// 知晓并执行这些说明，__ 任何发布成人页面的作者均可要求网站工作人员代其执行此操作。\n\n这需要两个页面：\n\n* 实际文章。这必须发布在 {{adult:}} 分类.\n* 掩藏页面。这将提供内容警告和指向实际文章的链接。\n\n通过将其发布在 {{adult:}} 分类，这些页面将自动获得一个警告横幅，并且除非用户选择接收该内容，否则将会重定向到掩藏页面。因此，除了添加{{adult}}（成人内容）标签以外，MAST还将会应用 {{redirect}} （重定向）标签。\n\n引导页面将会得到{{adult}} （成人内容）和 {{splash}} （掩藏页）标签，并且必须引用 {{component:adult-splash}} 组件以提供标准的提示：\n\n[[div class=\"code\"]]\n@<[[include component:adult-splash slug=scp-xxxx]]>@\n[[/div]]\n\n如果这是一个在主列表里的SCP，那它也应该包含一个Wikiwalk页角；\n\n[[div class=\"code\"]]\n@<[[include component:adult-splash slug=scp-xxxx]]>@\n\n\n@<[[footnoteblock]]>@\n\n@<[[div class=\"footer-wikiwalk-nav\"]]>@\n@<[[=]]>@\n@<<< [[[SCP-xxxw]]] | SCP-xxxx | [[[SCP-xxxy]]] >>>@\n@<[[/=]]>@\n@<[[/div]] >@\n[[/div]]\n\n这里的 {{slug}} 参数就是正在发布页面的URL或\"slug\"。例如，对 {{adult:my-tale}} 来说这里的slug就应该是\"{{my-tale}}\".\n\n一旦掩藏页和主页面发布完成，就去请版主锁定掩藏页面及其单页讨论。对其文章的编辑和评论只能在 位于 {{adult:}} 分类的主页面上进行，而不是掩藏页面。",
+  "tags": [
+    "指导",
+    "被归档"
+  ],
+  "author": "lestday233",
+  "created_at": "2024-08-19T01:39:34+00:00",
+  "updated_at": "2024-08-19T01:40:12+00:00",
+  "rating": 1,
+  "_site": "scp-wiki-cn",
+  "_fullname": "adult-page-guide"
+}

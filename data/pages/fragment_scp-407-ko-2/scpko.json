@@ -1,0 +1,14 @@
+{
+  "title": "SCP-407-KO",
+  "content": "[[module CSS]]\n.fakeprot .mailform-box .buttons{display:none;}\n.fakeprot + .collapsible-block .collapsible-block-link {padding: 0.1em 0.5em;text-decoration: none;background-color: #F4F4F4;border: 1px solid #AAA;color: #000;}\n.fakeprot + .collapsible-block .collapsible-block-link:hover {background-color: #DDD;color: #000;}\n.fakeprot + .collapsible-block .collapsible-block-link:active {background-color: #DDD;color: #000;}\n.fakeprot + .collapsible-block .collapsible-block-unfolded-link{margin:0.5em 0;text-align: center;}\n.fakeprot + .collapsible-block .collapsible-block-folded{margin:0.5em 0;text-align: center;}\n.fakeprot .passw input[type=text] {text-security:disc;-webkit-text-security:disc;-mox-text-security:disc;}\n.mailform-box td:first-child {width: 80px;}\n[[/module]]\n\n[[include component:image-block\n|name=http://scpko.wdfiles.com/local--files/scp-407-ko/med\n|caption=현재 처방되고 있는 SCP-407-KO]]\n\n**일련번호:** SCP-407-KO\n\n**등급:** 케테르\n\n**특수 격리 절차:** SCP-407-KO 및 SCP-407-KO-1이 호르몬 세로토닌의 재흡수를 막아 우울증에 효과가 있다는 역정보를 퍼트린다. 기동특무부대 카이-47 (\"태양빛 호수\")가 --SCP-407-KO 생산식의 특허자를 추적한다-- SCP-407-KO 생산식의 특허자 및 SCP-407-KO-1를 제조하는 여러 제조사를 조사하여 지속적으로 약의 출처를 찾는다.\n\n**설명:** SCP-407-KO는 그 자체로는 아무런 약효가 없는 단백질 분말이다. SCP-407-KO의 제조사는 알 수 없으며, 개체가 캡슐에 들어간 상태로 자살충동 및 자해충동을 지닌 사람에게 섭취된다면, 대상에게 영향을 준다. 해당 효과는 아래와 같다.\n\n* 우울, 불안등의 심리적 압박이 감소\n* 대외적인 대화가 원활해진다.\n* 자기혐오의 감소\n* 집중력이 향상된다.\n\n이외에도 검증되지 않은 효과가 있으며, 위의 효과도 개인차가 있기에 이 효과들이 실질적인 효과인지 아닌지는 확실하지 않다.\n\n2001년 8월 3일자로, 개체의 특허권이 만료되었다. SCP-407-KO의 특허권이 만료된 이후 만들어지는 카피약을 SCP-407-KO-1이라 지정한다. SCP-407-KO-1에게도 SCP-407-KO와 같은 변칙성이 검출되며, 소화장애의 가능성이 추가로 존재한다.\n\n[[include :scpko:component:coltop show=SCP-407-KO의 출처에 관한 보고서|hide=해당 정보는 일부 인원에게만 공개됨. 로그인 후 확인가능]]\n@@@@\n@@@@\n[[div class=\"fakeprot\"]]\n[[module MailForm to=\"aaaa (DUMMY)\" button=\"\"]]\n# name\n * title: ID\n * default: existency85796\n * type: text\n * rules:\n  * required: true\n  * maxLength:10\n  * minLength: 100\n[[/module]]\n[[div class=\"passw\"]]\n[[module MailForm to=\"aaaa (DUMMY)\" button=\"\"]]\n# affiliation\n * title: PASSWORD\n * default: ・・・・・・・・・\n * rules:\n  * required: true\n  * maxLength:10\n  * minLength: 100\n[[/module]]\n[[/div]]\n[[/div]]\n[[collapsible show=\"로그인\" hide=\"로그아웃\"]]\n\n@@@@\n@@@@\n@@@@\n@@@@\n\n[http://scpko.wikidot.com/scp-407-ko/offset/1 > 환영합니다.]\n\n@@@@\n@@@@\n@@@@\n@@@@\n\n[[/collapsible]]\n[[include :scpko:component:colend nohide=true]]",
+  "tags": [
+    "ko",
+    "조각문서"
+  ],
+  "author": null,
+  "created_at": "2021-05-07T12:04:08+00:00",
+  "updated_at": "2024-11-05T06:26:54+00:00",
+  "rating": 1,
+  "_site": "scpko",
+  "_fullname": "fragment:scp-407-ko-2"
+}

@@ -1,0 +1,14 @@
+{
+  "title": "00210",
+  "content": "content: \"**説明:** 直径1mの水晶玉。常に木星の公転軌道に存在し、木星と同じスピードで公転し続ける。ただし位置は木星の正反対にある。\\n**回収日:** 性質上回収は不可能。発見日は2001/03/██\\n**回収場所:** 木星の公転軌道上。\\n**現状:** 動かすことが不可能なため現在も公転軌道に存在。\"\ntf2: '1'\nauthor: astraia\nredirect-b: '[[module Redirect destination=\"http://ja.scp-wiki.net/log-of-anomalous-items-jp'\nredirect-e: '\"]]'",
+  "tags": [
+    "jp",
+    "剪定対象-子"
+  ],
+  "author": "7happy7",
+  "created_at": "2020-03-14T14:13:24+00:00",
+  "updated_at": "2021-05-24T13:12:02+00:00",
+  "rating": 4,
+  "_site": "scp-jp",
+  "_fullname": "anomalous-jp:00210"
+}

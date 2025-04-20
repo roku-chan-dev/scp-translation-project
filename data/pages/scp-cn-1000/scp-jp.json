@@ -1,0 +1,20 @@
+{
+  "title": "SCP-CN-1000",
+  "content": "[[>]]\n[[module rate]]\n[[/>]]\n@@@@\n[[module ListPages category=\"fragment\" parent=\".\" limit=\"1\" order=\"name\" offset=\"@URL|0\"]]\n\n%%content%%\n[[/module]]",
+  "tags": [
+    "cn",
+    "cn1000",
+    "esoteric-class",
+    "k-クラスシナリオ",
+    "scp",
+    "注目記事",
+    "画像差し止め",
+    "空間"
+  ],
+  "author": "BenjaminChong",
+  "created_at": "2018-11-04T14:25:31+00:00",
+  "updated_at": "2024-02-21T12:32:18+00:00",
+  "rating": 127,
+  "_site": "scp-jp",
+  "_fullname": "scp-cn-1000"
+}

@@ -1,0 +1,13 @@
+{
+  "title": "SCP-6664 6",
+  "content": "[[include :scp-wiki-cn:theme:black-highlighter-theme]]\n\n[[include :scp-wiki:component:bhl-dark-sidebar]]\n\n[[include :scp-wiki:component:toggle-sidebar-bhl]]\n\n[[include :scp-wiki:component:acs-animation]]\n\n[[include :scp-wiki-cn:component:anomaly-class-bar-source\n\n    |lang=cn\n\n    |item-number= 6664\n\n    |clearance= 3\n\n    |container-class= euclid\n\n    |secondary-class= none\n\n    |disruption-class= vlam\n\n    |risk-class= 需谨慎\n\n    ]]\n\n-----\n\n[[include component:image-block name=http://scp-wiki.wikidot.com/local--files/fragment:scp-6664-6/DChance.png|align=center|width=100%|caption=SCiPNet的用户DChance。]]\n\n-----\n\n**特殊收容措施：**所有幼苗事件中生长的树木应被收容于其各自站点。试图将SCP-6664从SCiPNet上移除是无用的，因而不再继续。尽管SCP-6664作出了声明，但其并不会对基金会造成重大威胁或危险，因此其作出的威胁将被忽视并删除。\n\n**描述：**SCP-6664为用户名为DChance的账号，注册于SCiPNet。尚未发现其与基金会职员相关。无法将该账户移除。\n\nSCP-6664表现出两种基本的异常能力。其一为随意创造异常的植物生命。在幼苗事件中，SCP-6664在不同地点创造了五棵具有不同性质的树木，该日为2014年1月28日，也为其账户注册日期。除此次事件外，SCP-6664并未使用过该能力。这些树木称为SCP-6664-A至-E。\n\nSCP-6664的第二个异常性质为能够操纵特定事件的可能性与结果。在幼苗事件中，其使用该能力影响了此次事件中参与异常文档记录的研究员，研究员认为已占用的SCP-6664编号存在错误，并试着重写之，该能力增加了其可能性。这是一次在基金会研究部制造混乱的失败尝试。该能力似乎仅能成为实现这类无必然性之事的三流能力。\n\n自幼苗事件以来，SCP-6664定期对基金会文件与报告做出编辑，主要包括一些不切实际的威胁，针对研究员与探员，或基金会本身。一个类似的例子为，在账户的异常能力暴露的不久后，其于SCP-6664的文件中进行了编辑，记录如下。\n\n[[div class=\"blockquote\"]]\n[[=]]\n[[collapsible show=\"显示附加文档\" hide=\"隐藏附加文档\"]]\n致SCP基金会：\n\n我讨厌你们。\n\n我讨厌你们的整洁，你们的秩序与你们的牢房。\n\n异常从不应是被收容的东西。\n\n你们怎么能把这叫做异常呢？如果这些东西违反了你们的普遍规律，那它们一开始就不是普遍的。\n\n作为科学家，你们应该知道的是，当某些事物挑战你对世界的认知时，你们应该改变自己的认知以适应它。这就是科学。\n\n但你们歪曲了科学，使得它无法辨认，因此你们是不可原谅的。我曾试着让你们知道这一点，但你们不予理睬。\n\n你们一直都不予理睬。你们就是这样。\n\n把这当成宣战吧。我不会放弃尝试的。我在这里的时间甚至比你们最高级别的成员都要久。我曾目睹整个群落被屠宰，文明毁灭，物种灭绝，这都是因为其他人不能以看待自己的方式看待他人。\n\n所以，我不会停下来的。在你们被击倒前，我永远不会停下来。如果我不能击倒你们的研究员，我就会去击倒其他人。\n\n你们认为是谁在基金会之前收容了这些异常？在美国安保收容倡议会之前呢？在Her Majesty's Fellowship前之呢？\n\n没人。\n\n但仍十分美丽。\n\n[[/collapsible]]\n[[/=]]\n[[/div]]",
+  "tags": [
+    "段落"
+  ],
+  "author": "EvkesraRe",
+  "created_at": "2022-02-11T14:30:41+00:00",
+  "updated_at": "2022-02-11T16:58:40+00:00",
+  "rating": 0,
+  "_site": "scp-wiki-cn",
+  "_fullname": "fragment:scp-6664-6"
+}

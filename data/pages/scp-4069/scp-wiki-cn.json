@@ -1,0 +1,21 @@
+{
+  "title": "SCP-4069",
+  "content": "[[include :scp-wiki-cn:component:black-highlighter-theme-dev]]\n\n[[module ListPages category=\"fragment\" parent=\".\" limit=\"1\" order=\"created_at\" offset=\"@URL|0\"]]\n%%content%%\n[[/module]]\n\n[!--\n段落页：\nhttp://scp-wiki-cn.wikidot.com/fragment:scp-4069-1\nhttp://scp-wiki-cn.wikidot.com/fragment:scp-4069-2\nhttp://scp-wiki-cn.wikidot.com/fragment:scp-4069-3\nhttp://scp-wiki-cn.wikidot.com/fragment:scp-4069-4\nhttp://scp-wiki-cn.wikidot.com/fragment:scp-4069-5\nhttp://scp-wiki-cn.wikidot.com/fragment:scp-4069-6\nhttp://scp-wiki-cn.wikidot.com/fragment:scp-4069-7\n--]\n\n[!-- 致翻译者：若您想要图片中的笔记以不同的语言书写的话，可以通过私信告诉我，我会制作一张您的网站语言版本的图片。若您所使用的字母系统不同的话，请使用记号笔手写翻译并拍照以便我将其编辑为原始图像。 --]\n\n[[footnoteblock]]\n\n[[div class=\"footer-wikiwalk-nav\"]]\n[[=]]\n<< [[[SCP-4068]]] | SCP-4069 | [[[SCP-4070]]] >>\n[[/=]]\n[[/div]]",
+  "tags": [
+    "4000",
+    "ad-astra",
+    "safe",
+    "scp",
+    "地点",
+    "死后",
+    "特工trauss",
+    "记忆影响",
+    "超维度"
+  ],
+  "author": "W Asriel",
+  "created_at": "2018-08-04T13:32:14+00:00",
+  "updated_at": "2024-05-15T02:13:17+00:00",
+  "rating": 16,
+  "_site": "scp-wiki-cn",
+  "_fullname": "scp-4069"
+}

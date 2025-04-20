@@ -1,0 +1,17 @@
+{
+  "title": "SCP-6914",
+  "content": "[[include :scp-wiki-cn:theme:black-highlighter-theme]]\n[[include :scp-wiki:component:toggle-sidebar-bhl]]\n[[include :scp-wiki:component:rso]]\n\n[[include :scp-wiki-cn:component:anomaly-class-bar-source\n|lang= cn\n|item-number= 6914\n|clearance= 4\n|container-class= radix\n|secondary-class= none\n|disruption-class= dark\n|risk-class= danger\n]]\n\n[[include :scp-wiki:component:customizable-acs\n|containment-class= radix\n|containment-image= https://scp-wiki.wdfiles.com/local--files/scp-6183/RADIX.svg\n|containment-color= 154, 205, 50\n|inc-containment = --]]]\n\n-----\n\n[[include component:image-block name=https://scp-sandbox-3.wdfiles.com/local--files/frowngrass/keepoffgrass.png|align=center|width=100%|caption=一只普通家猫（//Felis catus//）展示了它对SCP-6914的免疫性。]]\n\n----\n\n**特殊收容措施：**所有监督指挥部的工作人员都已被告知SCP-6914的异常性质，以确保他们遵守它的指示。受雇于该建筑的基金会园林师只能使用无需亲自接触附近种植的草的草坪设备。 \n\n**描述：**SCP-6914是一块小牌子，上面写着“远离小草（KEEP OFF GRASS）”。 \n\n人类个体在距离SCP-691480千米的范围内与草物理接触时，一道闪电将突然在天空中出现，并打在他们目前所站的位置上。这道闪电是专门定制的，以击中其预定目标，且能在每次出现时改变强度，打破任何可能保护目标的屏障，包括由非导电材料构建的屏障。\n\n在发现SCP-6914之后，监督者指挥部一致同意将其安装在监督者指挥部Site-01外。虽然Site-01尚未经历过被认为值得如此增加安保的安全漏洞，但设施和其中的人员的重要性是做出该决定的决定因素。\n\n**附录6914.1：**事件6914-Alpha\n\n在2012年4月18日，Site-01地下二层的一个未使用的房间突然被一道闪电击中。机动特遣队Alpha-1（“红右手”）的成员被迅速派往该地区进行调查。当他们到达房间时，他们发现了特工William Peterson的尸体，已经被雷击烧焦。安全监控录像显示，事发前，Peterson特工从自己的包里掏出了一支被确定是大麻烟的东西。\n\n这次事件的含义还在调查。\n[[include :scp-wiki-cn:component:license-box\n|author=MisterFrown\n]]\n\n[[div class=\"blockquote\"]]\n**图像名：** File:Keep off grass sign.jpg\n**图像作者：** GK tramrunner RU\n**授权协议：** CC BY-SA 4.0\n**来源链接：** https://commons.wikimedia.org/wiki/File:Keep_off_grass_sign.jpg\n**备注：** Image cropped.\n[[/div]]\n\n[[include :scp-wiki-cn:component:license-box-end]]\n\n[[module CSS]]\n\n:root {\n\n--zero: 0;\n\n}\n\n[[/module]]",
+  "tags": [
+    "scp",
+    "人造物品",
+    "机密分级",
+    "电力",
+    "铭文"
+  ],
+  "author": null,
+  "created_at": "2024-05-16T02:37:10+00:00",
+  "updated_at": "2024-05-16T04:41:20+00:00",
+  "rating": -10,
+  "_site": "scp-wiki-cn",
+  "_fullname": "alt:scp-6914"
+}

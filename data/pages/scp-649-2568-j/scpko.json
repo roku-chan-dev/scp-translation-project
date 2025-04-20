@@ -1,0 +1,22 @@
+{
+  "title": "SCP-649-2568-J",
+  "content": "[[include component:info-ayers\n|lang=ko[!-- EN/RU/KO/CN/FR/PL/ES/TH/JP/DE/IT/UA/PTBR --]\n|page=SCP-649-2568-J[!-- url of your page on the scp wiki --]\n|authorPage=http://ko.scp-wiki.net/dr-cimmerian-s-personnel-file[!-- link to your author page --]\n|comments=\n\n만약 649-2568에 대해 알고 싶으시다면, \"Mix-a-Lot\"의 곡 \"Baby Got Back\"의 가사 \"Dial 1-900-MIXALOT and kick them nasty thoughts\"을 참고하세요.\n\n그리고 이건 아나콘다입니다. 사진 출처는 https://commons.wikimedia.org/wiki/File:Anaconda_jaune_34.JPG.\n\n(© Patrick JEAN / muséum d'histoire naturelle de Nantes\")\n\n저는 아이디어가 있었고, 그냥 내버려 둘 수는 없었습니다. 그리고 저는 말장난도 좋아합니다.\n\n]]\n\n[[include theme:black-highlighter-theme]]\n[[module CSS]]\nsup {\nvertical-align: top; position: relative; top: -0.5em;\n}\n:root{\n--cutColour: #fafafa;\n--barColour: #590505;\n}\n\n.info-container .collapsible-block-folded a{\ncolor: #FFF;}\n.info-container .collapsible-block-unfolded-link a{\ncolor: #FFF;}\n\n.translation_block{\ndisplay:none;}\n[[/module]]\n[[module css]]\n#side-bar {\n    background: rgb(var(--white-monochrome));\n}\n\n#side-bar div.menu-item a, #side-bar div.menu-item .text {\n    color: rgb(var(--black-monochrome));\n}\n\n#side-bar>div:nth-child(5) {\n    background-color: rgba(var(--dark-accent),0.25)!important;\n}\n[[/module]]\n\n[[include info:start]]\n**SCP-649-2568-J:** 총천연색 지리학\n**저자:** [[*user Doctor Cimmerian]]\n**원작:** http://www.scpwiki.com/scp-649-2568-j\n**역자:** [[*user Shatt]]\n[[include info:end]]\n\n[[include component:image-block name=Anaconda_jaune_34.JPG|caption=격리실 내의 SCP 649-2568.|width=300px]]\n\n**일련번호:** SCP-649-2568\n\n**등급:** 케테르\n\n**특수 격리 절차:** SCP 649-2568은 표준 동물 격리실 내에 있어야 한다. 어떠한 상황에서도 SCP 649-2568이 지질학적 또는 지리학적 사실에 대해 논해서는 안 된다.\n \nSCP 649-2568과의 면담은 모든 장래 탈출 시도를 알아내는 것에 초점을 두고 매일 진행해야 한다. SCP 649-2568과 관계된 다른 모든 실험에는 연구 감독관의 승인이 필요하다.\n\n**설명:** SCP 649-2568은 외관상 황색아나콘다(//Eunectes notaeus//)를 닮은 개체이다. 이러한 겉모습에도 불구하고 SCP 649-2568은 인간 남성의 성격과 대화 방식을 유지하고 있다. SCP 649-2568은 자신이 보거나, 묘사하는 말을 들은 모든 지질학적 지형을 변형시킬 수 있는 능력을 갖고 있다. 이러한 변형 사건은 개체가 \"너무 평평하다\"고 생각하는 지형에 한정적으로 영향을 끼친다. 지금까지 평원, 습지, 그리고 대양저 등이 이에 포함되었다.\n\n변형 사건 동안 이 지역에서는 수 초간의 진동에 이어, 대개 대상이 보거나 들은 지역의 지리학적 중심에서 분출이 시작된다. 이 분출물은 주변 땅 위로 올라온 후, 일률적으로 평평한 꼭대기와 가파른 측면을 형성한다. 생성된 이후 이 층의 내부 구조에 변칙적 속성이 전혀 없음에도 불구하고, 어떠한 알려진 힘도 분출을 막을 수는 없었다. \n\n뿐만 아니라, 면담 시 SCP 649-2568는 모든 질문에 진실된 대답을 밝히려는 충동을 보인다. 이 충동 덕분에 외부 조직과의 변칙적 접촉을 포함해, 몇몇 탈출 시도가 발견될 수 있었다. \n\n묘사된 지역을 변형시킬 수 있는 개체의 능력과 관련되기 때문에, 변칙적 접촉의 방법은 격리를 지속하기 위해서 반드시 밝혀져야 한다. SCP 649-2568와의 면담이 이 접촉을 제한하는 데에 효과적이라는 것이 증명되었지만, 추가적인 재구성 사건을 피하기 위해 면담 동안에는 주의가 필요하다.\n\n[[collapsible show=\"+ 면담 기록 보이기\" hide=\"면담 기록 숨기기\"]]\n\n> //다음 면담은 격리 직후 곧바로 진행되었다.//\n> \n> **[[[dr-cimmerian-s-personnel-file|시메리안 박사]]]:** 안녕하십니까. 직접 자신에 대해 설명해주시죠.\n> \n> **SCP 649-2568:** 음, 난 큰 산,,butte,,이 좋고 거짓말을 못해.\n> \n> //이러한 고백에 따라, 연구 감독관이 추가 질문을 승인할 때까지 면담은 일시 중지되었다.//\n[[/collapsible]]",
+  "tags": [
+    "en",
+    "scp",
+    "농담",
+    "동물",
+    "뱀",
+    "생물",
+    "지성",
+    "지질학",
+    "케테르",
+    "파충류"
+  ],
+  "author": "Shatt",
+  "created_at": "2015-05-27T13:19:17+00:00",
+  "updated_at": "2024-12-12T09:23:14+00:00",
+  "rating": 4,
+  "_site": "scpko",
+  "_fullname": "scp-649-2568-j"
+}

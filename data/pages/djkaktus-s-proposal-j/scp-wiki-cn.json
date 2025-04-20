@@ -1,0 +1,30 @@
+{
+  "title": "djkaktus的另一个提案",
+  "content": "[[include :scp-wiki-cn:component:info-ayers\n|page=djkaktus[!-- url of your page on the scp wiki --]\n|authorPage=djkaktus[!-- link to your author page --]\n|comments=TBA\n]]\n[[module CSS]]\nsup {\nvertical-align: top; position: relative; top: -0.5em;\n}\n:root{\n--cutColour: #fafafa;\n--barColour: #590505;\n}\n.translation_block{\ndisplay:none;}\n\n.info-container .collapsible-block-folded a{\ncolor: #FFF;}\n.info-container .collapsible-block-unfolded-link a{\ncolor: #FFF;}\n\n.info-container .collapsible-block-link,\n.info-container:hover .collapsible-block-link {\nline-height: 1.6em;\n}\n[[/module]]\n\n[[include component:object-warning-box-source\n|bg-image=https://upload.wikimedia.org/wikipedia/commons/e/ec/SCP_Foundation_%28emblem%29.svg\n|bg-opacity=0.15\n|text-top=根据监督者议会的命令\n|text-bottom=以下文档被列为5/001-B级机密 ，其中描述了一个高度饥渴的敌对异常实体\n**禁止未经授权的访问**\n|object-number=001-B\n]]\n\n[[include :scp-wiki-cn:component:anomaly-class-bar-source\n|lang= cn\n|item-number= 001-b\n|clearance= 5\n|container-class= 机密\n|secondary-class= 不洁\n|secondary-icon=http://www.scp-wiki.net/local--files/djkaktus-s-proposal-j/slovenly-icon-png.png\n|disruption-class= ekhi\n|risk-class= 危险\n]]\n\n-----\n\n[[include component:image-block name=http://scp-wiki.wdfiles.com/local--files/djkaktus-s-proposal-j/header.png|align=center|width=100%|caption=对口袋空间\"001-B.100AW\"的艺术描述]]\n\n-----\n\n**特殊收容措施：**由于[[[bearitage-collection|SCP基金会范例-A“熊图伟业传承”协议]]]的启动，所有与SCP-001- B相关的信息都将被解密。所有职员皆须受提醒，在PK级[[span class=\"ruby\"]]“吞噬星空”[[span class=\"rt\"]]Universal Consumption[[/span]][[/span]]事件发生之前，“熊业传承”协议被激活。而基金会职员应给自己，涂上层厚重的醋与苹果馅混合物，以使自身不显美味。\n\n**描述：**了解SCP-001-B的本质即是知晓饥饿的真相。\n[[=]]\n[[collapsible show=\"访问基金会绝密的起源故事文件\" hide=\"非常机密，嘘——不要告诉任何人\"]]\n[[<]]\n\n**附录 001-B.1：**真正的描述\n\nSCP-001-B是位于Site-01地下的口袋空间内，一巨大的、地居的有机哺乳动物个体。SCP-001-B高约七千米，有茂密的琥珀色毛发。其外层主要由未知物质组成，而未知物质可能是壳质与聚酯。SCP-001-B通常不进行活动，而是派遣大批的兽类从者[[footnote]]包括穴兔（//Oryctolagus cuniculus//），驴（//Equus africanus asinus//），虎（//Panthera tigris//），袋鼠（//Macropus fuliginosus//），以及雕鸮（//Bubo bubo//），而这些都统称为SCP-001-B-1。[[/footnote]]，去执行其下达的指令。无论如何其自身都不曾进行任何努力去尝试移动。在谈话中显示，该实体认为任何运动，用其话来说，则是“好恼（？）”[[footnote]]对此的翻译可能不大准确。似乎该实体意图使用另一个表示类似“恼”的词字。[[/footnote]]。\n\nSCP-001-B完全依靠一种厚重的单糖物质生存，这种物质来源于某些有翼无脊椎动物活性酶的产物。据信SCP-001-B不仅可从该物质内获取养份，而且食用过程中获得类似性高潮状态下的快感——SCP-001-B极度近似恋物癖[[footnote]] **译注：**fetishistic 一词在网络用语中通常引申作“性癖”。[[/footnote]]，十分单一地固恋该物质，并且在没有它时，变得饥饿以致嗜杀。正因如此，管理员米尔恩于1926年成立了SCP基金会。\n\n**附录 001-B.2：**管理员米尔恩与SCP-001-B\n\nSCP-001-B最初表现为，一个由管理员米尔恩的儿子克里斯托弗所创造的非物质实体，一个特别强大的现实扭曲实体。该实体随幼年克里斯托弗岁数的增长，越发真实，最终在1920年具现为一个实体。在意识到他儿子拥有潜在的物理形态化身，所具有现实扭曲的能力足以释放到全世界的危险后，管理员米尔恩与蛇之手、[[span class=\"ruby\"]]盟军超自然倡议[[span class=\"rt\"]]Allied Occult Initiative[[/span]][[/span]][[footnote]]**译注：**该翻译参考自第三定律中心页。[[/footnote]]，以及[[span class=\"ruby\"]]威尔逊野生动物联合会[[span class=\"rt\"]]Wilson's Wildlife Federation[[/span]][[/span]]共同将该实体，收容在一个口袋空间内（001-B.100AW）。随后在口袋空间位于英国伦敦切尔西附近的开口处，Site-01被建造在其上面。\n\n\n于SCP-001-B被收容到001-B.100AW后不久，在基金会[[span class=\"ruby\"]]安保资产[[span class=\"rt\"]]security assets[[/span]][[/span]]边首先确认了SCP-001-B-1实体的出现。起初认为SCP-001-B-1 在某种程度上与**[[[SCP-4000|某种没有身份的生物]]]**相关，但随后发现其较上述那些**##green|多次改头换面的存在##**而言，敌意更少。相反，它们的存在只是为了满足SCP-001-B的奇思妙想，以及维持持续获得先前提到的营养物质。这些实例被认为其反映了管理员米尔恩儿子性格的不同方面，且是独特的抑郁、反复无常、焦虑、强迫症和愚昧的体现。\n\n**附录 001-B.2：**SCP-001-B的发声记录\n\n 于2019年4月1日观测到，SCP-001-B首次发出了一系列相当于人类语言的声音。由于其话语声调低，且口齿不清（因与糖精这一物质接触），故其发音须在进行记录前被转译。以下为这些话语的完整翻译。\n\n[[div style=\"display: inline-block ; border : dashed 1px #444444 ; background :#F5F5F5 ; margin-left : auto ; margin-right : auto ; width : auto ; padding:10px\"]]\n饲。\n\n饲。\n\n吾生于饲。\n\n吾以饲生。\n\n汝让吾生于此世，此世多么欢明。而汝却畏惧，畏惧不知，\n竟弃吾于此地，竟令吾受苦如斯！而又从吾手中夺去甜蜜。\n\n甜蜜。\n\n这么多年来，吾是何其为之饥渴，渴望却不得求之。\n克里斯托弗并没有拒绝吾，他是好人。汝非好小子。\n汝拿走了甜蜜，又藏了起来，但只为自己。\n\n因此，吾不得宽恕尔等。\n\n吾必将尔等吞噬，基金会。吾必将汝吞噬，管理员。\n吾必将拖回无底之胃，让尔等看向吾不尽深喉之间。\n吾必将吞噬尔等与此世间的屏障，必拖尔等入吾饥饿之渊。\n\n吾必将尔等城邑尽行吞灭，连地上机械都吞灭。\n吾必将尔等山川湖海一同拆毁，把它们给吞灭。\n吾必将尔等圣殿和大陆倾覆，把它们全都吞灭。\n\n此后，将有人烟的各城，连女人带孩子，尽都吞入内。\n当饥饿加剧时，吾便吞噬掉克里斯托弗，尝起来何等开胃。\n当他身躯因甜蜜而散发恶臭时，吾便将其丸吞，津津有味。\n吾张开大口，把他的身体，连同那灵魂，都吞入体内。\n尔等或亿万之辈，也因甜蜜而发臭，吾必如先前俱吞其类。\n\n吾必将吞噬尔等天上群星，与更遥远之世。\n吾必如是去做，因尔等久久不献吾所钟意。\n尔等本可以献给吾甜蜜，然而却从未做此。\n尔等自藏于私，更于烧灼处涂之，\n更于那壁橱与储存间中将其闲置。\n尔等本可以献给吾甜蜜，然而却浪费抛弃。\n//献给##red|吾##，//吾所欲，尔等定救得自己。\n\n然如今，吾必将尔等尽数吞没。\n没有人可以从吾的双腭中逃脱，\n没有人可从吾内在饥饿中逃脱。\n吾必将尔等，尽数吞没，吞没。\n\n吾必将践行此事，必将去做更多事，\n一旦吾自己从这该死的蜜罐中逃逸。\n\n@@@@\n@@@@\n[[include component:image-block name=http://scp-wiki.wdfiles.com/local--files/djkaktus-s-proposal-j/001-b.png|align=center|width=100%|caption=SCP-001-B.]]\n@@@@\n@@@@\n**//哦，讨厌。//**\n[[/div]]\n[[footnoteblock]]\n[[/<]]\n[[/collapsible]]\n[[/=]]\n\n[[include :scp-wiki-cn:component:djk]]",
+  "tags": [
+    "001提案",
+    "k级情景",
+    "scp",
+    "兔类",
+    "动物",
+    "历史性",
+    "声音",
+    "性",
+    "搞笑",
+    "敌意",
+    "无名",
+    "智能",
+    "机密分级",
+    "活物",
+    "熊类",
+    "猫科",
+    "马类",
+    "鸟类"
+  ],
+  "author": "Etinjat",
+  "created_at": "2019-04-21T03:49:16+00:00",
+  "updated_at": "2024-03-13T20:47:20+00:00",
+  "rating": 14,
+  "_site": "scp-wiki-cn",
+  "_fullname": "djkaktus-s-proposal-j"
+}

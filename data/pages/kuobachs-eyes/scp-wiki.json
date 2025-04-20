@@ -1,0 +1,20 @@
+{
+  "title": "Kuobach's Eyes",
+  "content": "[[span style=\"color: transparent;\"]].[[/span]]\n[[>]]\n[[module rate]]\n[[/>]]\n\n[[module ListPages created_by=\"IronShears\" category=\"fragment\" name=\"fragment:kuobach%\" order=\"created_at\" limit=\"1\" offset=\"@URL|0\"]]\n%%content%%\n[[/module]]\n\n[[include :scp-wiki:component:license-box]]\n=====\n> **Filename:** Brain_injury-Regular.otf\n> **Name:** Brain Injury Font\n> **Author:** IronShears\n> **License:** CC-BY-SA 3.0\n> **Source Link:** This page\n> **Additional Notes:** Font was converted to CSS with FontSquirrel.\n\n> **Filename:** BrainInjuryLogo.png\n> **Author:** IronShears\n> **License:** CC-BY-SA 3.0\n> **Source Link:** This page\n> **Derivative of:** Sigma-9 Logo by far2\n\n> **Filename:** All Comic pages\n> **Author:** IronShears\n> **License:** CC-BY-SA 3.0\n> **Source Link:** This page\n\n> **Filename:** alaska.png\n> **Author:** Alexrk2\n> **License:** CC-BY\n> **Source Link:** https://commons.wikimedia.org/wiki/File:USA_Alaska_location_map.svg\n> **Additional Notes:** Edited by IronShears to include highlighted region\n=====\n[[include :scp-wiki:component:license-box-end]]",
+  "tags": [
+    "_cc",
+    "_licensebox",
+    "_listpages",
+    "comic",
+    "painted",
+    "sarkic",
+    "tale",
+    "worldbuilding"
+  ],
+  "author": "IronShears",
+  "created_at": "2022-10-10T20:48:58+00:00",
+  "updated_at": "2025-03-08T17:00:19+00:00",
+  "rating": 113,
+  "_site": "scp-wiki",
+  "_fullname": "kuobachs-eyes"
+}

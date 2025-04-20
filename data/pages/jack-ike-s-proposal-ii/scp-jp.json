@@ -1,0 +1,23 @@
+{
+  "title": "ノワール・ボックスの提言",
+  "content": "[[module CSS]]\n.customlink a{\n    color: #90ff00;\n\n.bblock:hover {color: #00FF00;}\n\n.bblock a {\n\n    color: #000000;\n\n    text-decoration: none;\n\n    background: transparent;\n\n}\n\n.bblock a:hover {\n\n    color: #00FF00;\n\n    text-decoration: underline;\n\n    background: transparent;\n\n}\n[[/module]]\n[[>]]\n[[module Rate]]\n[[/>]]\n[[module ListPages category=\"fragment\" parent=\".\" order=\"name\" limit=\"1\" offset=\"@URL|0\"]]\n%%content%%\n[[/module]]",
+  "tags": [
+    "001提言",
+    "en",
+    "esoteric-class",
+    "k-クラスシナリオ",
+    "scp",
+    "ループ",
+    "予知",
+    "時間",
+    "未来",
+    "異次元",
+    "管理者"
+  ],
+  "author": "Extra3002",
+  "created_at": "2020-01-22T03:12:23+00:00",
+  "updated_at": "2021-09-16T05:51:05+00:00",
+  "rating": 37,
+  "_site": "scp-jp",
+  "_fullname": "jack-ike-s-proposal-ii"
+}

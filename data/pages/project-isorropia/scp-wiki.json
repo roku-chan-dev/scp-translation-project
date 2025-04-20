@@ -1,0 +1,17 @@
+{
+  "title": "Project Isorropía",
+  "content": "[[module CSS]]\n#title {\n    display: none;\n}\n[[/module]]\n\n[[>]]\n[[module Rate]]\n[[/>]]\n\n[!--\nFragments:\nhttps://scp-wiki.wikidot.com/fragment:project-isorropia-0\nhttps://scp-wiki.wikidot.com/fragment:project-isorropia-1\n--]\n\n[[module ListPages parent=\".\" category=\"fragment\" limit=\"1\" order=\"created_at\" offset=\"@URL|0\"]]\n%%content%%\n[[/module]]\n\n[[include component:license-box author=Ihp, S D Locke, EstrellaYoshte & Placeholder McD]]\n> **Filename:** 2kJWegb.png\n> **Author:** [[*user ratking666]]\n> **License:** CC BY-SA 3.0\n\n> **Filename:** 3309 vs 5356.png\n> **Author:** [[*user kothardarastrix]]\n> **License:** CC BY-SA 3.0\n\n> **Filename:** Remember_Us.jpg\n> **Author:** Colin Grice, [[*user hammermaiden]]\n> **License:** CC BY-SA 3.0\n> **Source:** [/scp-2000 SCP Foundation Wiki]\n[[include component:license-box-end]]",
+  "tags": [
+    "_cc",
+    "_licensebox",
+    "co-authored",
+    "collaboration",
+    "supplement"
+  ],
+  "author": "S D Locke",
+  "created_at": "2021-05-06T00:11:32+00:00",
+  "updated_at": "2024-01-06T18:00:56+00:00",
+  "rating": 207,
+  "_site": "scp-wiki",
+  "_fullname": "project-isorropia"
+}

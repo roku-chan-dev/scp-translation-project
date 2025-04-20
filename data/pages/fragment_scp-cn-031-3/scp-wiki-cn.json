@@ -1,0 +1,13 @@
+{
+  "title": "SCP-CN-031-3",
+  "content": "[[module css]]\n#page-title {\n  display: none;\n}\n[[/module]]\n\n[[div style=\"border: solid 1px;\n    border-radius: 10px;\n    color: blue;\n    font-size: 200%;\n    font-weight: bold;\n    text-align: center;\n    background-color: #EEEEEE;\n    margin: 5px 0 10px;\n    box-shadow: 1px 1px 2px #bbb;\n    width: auto;\n    padding: 10px 30px;\n    margin: 20px auto;\n\"\n    ]]\n\t欢迎来到乐园。\n\t[[/div]]\n\t\n**星球编号：**PCS-2937162482\n\n**星球危险度：**--Unknown-- Safe\n\n**当前实施程序：**由于此前对星球投入大量Lacahau的成功，当前只需以实时观测器监视即可。//须注意任何面对星球的陨石和小行星威胁不在星球收容安保管辖范围。//\n\n**介绍：**该星球位于E-W32We3T星系，为星系内距中心恒星第三近的星球。同时该星球为--当前唯一--曾具有非管制生物存在的星球。\n\n**附录：**当前该星球作为快乐星球为极佳旅游去处--，但需注意可能遗留的非管制生物。--\n\n**记录：**由于此前该星球生物试图与其他管制生物联系，我等以Lacahau试探，发现该生物试图将Lacahau困住；此类行为使我等勃然大怒，并经Sekiejai命令下大量投入Lacahau到该星球，并成功遏制。",
+  "tags": [
+    "段落"
+  ],
+  "author": "M Element",
+  "created_at": "2017-10-07T12:58:17+00:00",
+  "updated_at": "2024-04-29T04:13:32+00:00",
+  "rating": -2,
+  "_site": "scp-wiki-cn",
+  "_fullname": "fragment:scp-cn-031-3"
+}

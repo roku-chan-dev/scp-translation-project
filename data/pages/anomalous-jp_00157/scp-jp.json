@@ -1,0 +1,14 @@
+{
+  "title": "00157",
+  "content": "content: \"**説明:** 発生した火花が、”固形化”した状態でいつまでも残るガス溶接機。火花は木炭程度の硬さで、常時80度程度の熱を放つ。\\n**回収日:** 19██/██/██\\n**回収場所:** 東京都内の鉄工所。\\n**現状:** 溶接機本体はサイト-8190に保管。発生させた火花は鉄製のタンクに入れて保存中。\"\ntf2: '1'\nauthor: kainndo\nredirect-b: '[[module Redirect destination=\"http://ja.scp-wiki.net/log-of-anomalous-items-jp'\nredirect-e: '\"]]'",
+  "tags": [
+    "jp",
+    "剪定対象-子"
+  ],
+  "author": "7happy7",
+  "created_at": "2020-03-14T14:11:53+00:00",
+  "updated_at": "2021-05-24T13:11:55+00:00",
+  "rating": 10,
+  "_site": "scp-jp",
+  "_fullname": "anomalous-jp:00157"
+}

@@ -1,0 +1,21 @@
+{
+  "title": "SCP-6535",
+  "content": "[[include :scp-wiki-cn:component:author-label-source start=--\n|name=Ecronak]]\n这个skip好看吗？也来[[[http://scp-wiki.wikidot.com/ekronak-s-archive-with-commentary|这]]]看看我的其他作品吧！\n[[include :scp-wiki-cn:component:author-label-source end=--]]\n\n[[module ListPages  category=\"fragment\" parent=\".\" limit=\"1\" order=\"created_at\" offset=\"@URL|0\"]]\n%%content%%\n[[/module]]\n\n[!-- https://scp-wiki-cn.wikidot.com/fragment:sisters-0 --]\n[!-- https://scp-wiki-cn.wikidot.com/fragment:sisters-1 --]\n[!-- https://scp-wiki-cn.wikidot.com/fragment:sisters-2 --]\n[!-- https://scp-wiki-cn.wikidot.com/fragment:sisters-3 --]\n[!-- https://scp-wiki-cn.wikidot.com/fragment:sisters-4 --]\n[!-- https://scp-wiki-cn.wikidot.com/fragment:sisters-5 --]\n\n[[footnoteblock]]\n\n[[div class=\"footer-wikiwalk-nav\"]]\n[[=]]\n------------\n\n[http://scp-wiki.wikidot.com/ekronak-s-archive-with-commentary 更多关于本作者的信息]\n\n<< [[[SCP-6534]]] | SCP-6535 | [[[SCP-6536]]] >>\n[[/=]]\n[[/div]]\n\n[[include :scp-wiki-cn:component:license-box\n|author=Ecronak\n|translator=joke3579 与 Broken Eclipse]]\n=====\n> **文件名：**Waterfall_in_Ordesa.jpg\n> **图像作者：**fotografar\n> **授权协议：**CC-BY-SA 2.0\n> **来源链接：** https://search.openverse.engineering/image/c335f881-93bc-4bb0-b81f-60c1ea9905ca\n\n> **文件名：**Green_field_under_a_cloudy_sky,_yellow flowers,_old_houses_looking_very_American,_two_goats_munching_down,_USA.jpg\n> **图像作者：**Wonderlane\n> **授权协议：**CC-BY 2.0\n> **来源链接：** https://search.openverse.engineering/image/2ca9ca68-5f04-44ff-aa08-8b575cea911d\n\n> **文件名：**Milford_Sound_New_Zealand.jpg\n> **图像作者：**Bernard Spragg\n> **授权协议：**Public Domain\n> **来源链接：** https://search.openverse.engineering/image/75d0b531-7707-463a-999e-5e35150e9a01\n\n> **文件名：**Pure_Happiness.jpg\n> **图像作者：**21limited\n> **授权协议：**CC-BY 2.0\n> **来源链接：** https://search.openverse.engineering/image/7ba4c929-7b39-4d16-99dc-526f7d7b5d0c\n\n> **文件名：**Little_girl_running_to_her_daddy.jpg\n> **图像作者：**travel oriented\n> **授权协议：**CC-BY-SA 2.0\n> **来源链接：** https://search.openverse.engineering/image/bfde2860-4448-4acd-8201-b80c14083e99\n\n> **文件名：**Toronto_High_Park_cherry_blossoms.jpg\n> **图像作者：**The City of Toronto\n> **授权协议：**CC-BY 2.0\n> **来源链接：** https://search.openverse.engineering/image/dd082a5b-e157-4e06-81b3-f2d93b10d70a\n\n> **文件名：**Smoke_From_a_Stick_in_Hand.jpg\n> **图像作者：**plaits\n> **授权协议：**CC-BY 2.0\n> **来源链接：** https://search.openverse.engineering/image/28cc7bb3-28b5-48b5-932a-b03684673455\n\n> **文件名：**Dreaming_is_Free.jpg\n> **图像作者：**Go-tea 郭天\n> **授权协议：**CC-BY 2.0\n> **来源链接：** https://search.openverse.engineering/image/24c5b19f-eca1-4cb6-8359-70ff98e14144\n\n> **文件名：**Distant_person.jpg\n> **图像作者：**StressedTechnician\n> **授权协议：**CC-BY-SA 2.0\n> **来源链接：** https://search.openverse.engineering/image/e50e4a37-d8b2-495c-96e2-d0061976a141\n=====\n[[include :scp-wiki-cn:component:license-box-end]]",
+  "tags": [
+    "meta",
+    "scp",
+    "人形生物",
+    "智能",
+    "未收容",
+    "机密分级",
+    "活物",
+    "现实扭曲",
+    "睡眠"
+  ],
+  "author": "joke3579",
+  "created_at": "2023-04-12T13:21:51+00:00",
+  "updated_at": "2023-04-12T13:48:41+00:00",
+  "rating": 11,
+  "_site": "scp-wiki-cn",
+  "_fullname": "scp-6535"
+}

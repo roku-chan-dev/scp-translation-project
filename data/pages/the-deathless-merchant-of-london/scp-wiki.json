@@ -1,0 +1,28 @@
+{
+  "title": "The Deathless Merchant of London",
+  "content": "[[module ListPages  category=\"fragment\" parent=\".\" limit=\"1\" order=\"created_at\" offset=\"@URL|0\"]]\n%%content%%\n[[/module]]\n\n[!-- For translators, here is a direct link to each iteration:\nhttps://scp-wiki.wikidot.com/fragment:the-deathless-merchant-of-london-1\nhttps://scp-wiki.wikidot.com/fragment:the-deathless-merchant-of-london-2\n--]\n\n[[div class=\"centered\"]]\n[[include :scp-wiki:component:license-box]]\n[[<]]\n=====\n> **Filename:** darke.jpg\n> **Name:** Richard-wilson-austin-2.jpg\n> **Author:** Library of Congress\n> **License:** Public Domain\n> **Source Link:** [https://commons.wikimedia.org/wiki/File:Richard-wilson-austin-2.jpg Wikimedia Commons]\n=====\n[[/<]]\n[[include :scp-wiki:component:license-box-end]]\n[[/div]]",
+  "tags": [
+    "_cc",
+    "_licensebox",
+    "_listpages",
+    "_serpents-hand",
+    "corporate",
+    "fantasy",
+    "from-120s-archives",
+    "goi-format",
+    "historical",
+    "iris-dark",
+    "marshall-carter-and-dark",
+    "midnight-the-cat",
+    "percival-darke",
+    "serpents-hand",
+    "spy-fiction",
+    "wanderers-library"
+  ],
+  "author": "Ralliston",
+  "created_at": "2022-10-23T18:02:21+00:00",
+  "updated_at": "2024-12-15T12:10:26+00:00",
+  "rating": 57,
+  "_site": "scp-wiki",
+  "_fullname": "the-deathless-merchant-of-london"
+}

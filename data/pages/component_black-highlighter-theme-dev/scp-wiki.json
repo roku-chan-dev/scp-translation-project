@@ -1,0 +1,13 @@
+{
+  "title": "Black Highlighter Theme Temp",
+  "content": "[[include :scp-wiki:theme:black-highlighter-theme]]\n\n[[iftags +_theme-temp]]\nThis page is deprecated. Do not include pages from this location. Instead, use the following code:\n\n[[div class=\"code\"]]\n@@[[include :scp-wiki:theme:black-highlighter-theme]]@@\n[[/div]]\n\nActual page [[[http://scp-wiki.wikidot.com/theme:black-highlighter-theme|here]]].\n[[/iftags]]",
+  "tags": [
+    "_theme-temp"
+  ],
+  "author": "Woedenaz",
+  "created_at": "2020-06-05T14:53:50+00:00",
+  "updated_at": "2020-09-19T03:25:35+00:00",
+  "rating": 21,
+  "_site": "scp-wiki",
+  "_fullname": "component:black-highlighter-theme-dev"
+}

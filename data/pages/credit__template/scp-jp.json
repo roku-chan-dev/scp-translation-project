@@ -1,0 +1,14 @@
+{
+  "title": "credit:_template",
+  "content": "[[div_ class=\"wikisys--template-dialog\"]]\n[[div_ class=\"wikisys--template-dialog-header\"]]\nこのページはコンポーネントページです\n[[/div]]\n[[div_ class=\"wikisys--template-dialog-content\"]]\n**クレジット付き評価モジュールを構成するシステムページです。**\n許可なく編集しないでください。編集が必要だと思われる場合は、このページのディスカッションか、[[[contact-staff|サイトスタッフ]]]までご連絡ください。\n[[/div]]\n[[div_ class=\"wikisys--template-dialog-footer\"]]\n運用について、詳しくは[[[category-policy|]]]を参照してください。\n[[/div]]\n@@ @@\n[[div_ class=\"wikisys--template-dialog-header\"]]\n使用に関する規定\n[[/div]]\n[[div_ class=\"wikisys--template-dialog-content\"]]\n以下の2つのページは、[[[custom-theme-policy|カスタムテーマページ]]]等、Wikiの仕様上やむを得ない事情がない限り使用しないでください。\n使用されていた場合、予告なく通常のページをincludeするよう置き換えられる場合があります。\n* [[[credit:start-preview|]]]\n* [[[credit:end-preview|]]]\n[[/div]]\n[[/div]]\n\n----\n\n++ クレジット付き評価モジュール\n**開発：**\n* [[*user c-take]]\n* [[*user Physicslike]]\n* [[*user sinazugawa]]\n* [[*user Nanimono Demonai]]\n**改良：**\n* [[*user dr_grom]]\n* [[*user Dr Devan]]\n* [[*user Boyu12]]\n\n> **使い方:**\n>\n> このコードは//評価モジュール//の代わりに使われます。\n>\n> {{@@[[include credit:start]]@@\n> @@**タイトル:** SCP-XXX - タイトル@@\n> @@**著者:** [[*user 作者のアカウント名]]@@\n> @@**オリジナル:** オリジナル記事へのリンク@@\n> @@**訳者:** [[*user 訳者のアカウント名]]@@\n> @@**画像:** ライセンスがある画像のクレジット@@\n> @@[[include credit:otherwise]]@@\n> 新しいウィンドウで現れる選択的クレジットを表記する場所です。略すには「[[include credit:otherwise]]」を消してください。\n> @@[[include credit:end]]@@}}\n>\n> 注意：ページのプレビューからページを保存するまでモジュールが正しく表示されないことがあります。それはバグではありません。\n\n[[collapsible show=\"+ このモジュールに関するページを見る\" hide=\"- このモジュールに関するページを隠す\"]]\n[[module listpages category=\"credit\" separate=\"no\"]]\n* %%title_linked%%\n[[/module]]\n[[/collapsible]]\n\n[[include :scp-jp:_template]]",
+  "tags": [
+    "jp",
+    "管理"
+  ],
+  "author": "Dr Devan",
+  "created_at": "2018-08-12T04:21:00+00:00",
+  "updated_at": "2025-03-04T15:40:08+00:00",
+  "rating": 5,
+  "_site": "scp-jp",
+  "_fullname": "credit:_template"
+}

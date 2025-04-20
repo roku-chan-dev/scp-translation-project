@@ -1,0 +1,13 @@
+{
+  "title": "다중 접기: 하단 내부",
+  "content": "[[/div]][[div [[#if {$nohide} |  | class=\"colmod-link-end\" ]] ]]\n[[div_ class=\"foldable-list-container\"]]\n[[#if {$nohide} |  | [# {$hide}] ]][[/div]][[/div]][[/li]][[/ul]][[/div]]",
+  "tags": [
+    "구성요소-백엔드"
+  ],
+  "author": "Aiken Drum",
+  "created_at": "2022-04-25T07:13:14+00:00",
+  "updated_at": "2022-04-25T07:13:47+00:00",
+  "rating": 0,
+  "_site": "scpko",
+  "_fullname": "component:colend-deep"
+}

@@ -1,0 +1,18 @@
+{
+  "title": "blackd●t",
+  "content": "[[>]]\n[[module rate]]\n[[/>]]\n\n[[module ListPages category=\"fragment\" parent=\".\" limit=\"1\" order=\"created_at\" offset=\"@URL|0\"]]\n%%content%%\n[[/module]]\n\n[!--\nhttps://scp-wiki.wikidot.com/fragment:blackdot-0\nhttps://scp-wiki.wikidot.com/fragment:blackdot-1\n--]\n\n= [[image mirror style=\"width: 200%;\"]]\n\n= Based on __[[[scp-8465| Eisoptrophobia]]]__ by [[*user PoufyPoufson]]\n\n[[include :scp-wiki:component:license-box]]\n=====\n> **Filename:** mirror\n> **Name:** Eisoptrophobia\n> **Author:** NewFoundDanger\n> **License:** Public Domain\n> **Source Link:** [https://scp-wiki.wikidot.com/art:itsalwaysmeitsalwaysmeitsalwaysmeitsalwaysmeitsalwaysme SCP Wiki]\n=====\n[[include :scp-wiki:component:license-box-end]]",
+  "tags": [
+    "_cc",
+    "_licensebox",
+    "_listpages",
+    "artwork",
+    "scp-art",
+    "sketched"
+  ],
+  "author": "NewFoundDanger",
+  "created_at": "2024-11-11T02:14:24+00:00",
+  "updated_at": "2025-02-22T17:34:04+00:00",
+  "rating": 28,
+  "_site": "scp-wiki",
+  "_fullname": "art:itsalwaysmeitsalwaysmeitsalwaysmeitsalwaysmeitsalwaysme"
+}

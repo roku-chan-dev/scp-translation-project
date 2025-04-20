@@ -1,0 +1,21 @@
+{
+  "title": "SCP-7941",
+  "content": "[[module css]]\n\n[[module ListPages category=\"fragment\" parent=\".\" order=\"created_at\" limit=\"1\" offset=\"@URL|0\"]]\n%%content%%\n[[/module]]\n\n[!-- http://scp-wiki-cn.wikidot.com/fragment:scp-7941-1 --]\n[!-- http://scp-wiki-cn.wikidot.com/fragment:scp-7941-2 --]\n[!-- http://scp-wiki-cn.wikidot.com/fragment:scp-7941-3 --]\n[!-- http://scp-wiki-cn.wikidot.com/fragment:scp-7941-4 --]\n\n[[div class=\"footer-wikiwalk-nav\"]]\n[[=]]\n<< [[[SCP-7940]]] | SCP-7941 | [[[SCP-7942]]] >>\n[[/=]]\n[[/div]]\n\n[[include :scp-wiki-cn:component:license-box\n| author = daveyoufool \n| translator = TMTbbQBird\n]]\n=====\n> **文件名：** renard.gif\n> **图像作者：** [[*user daveyoufool]]\n> **授权协议：** CC BY-SA 3.0\n> **来源链接：** SCP Foundation Wiki\n\n> **文件名：** tank.gif\n> **图像作者：** [[*user daveyoufool]]\n> **授权协议：** CC BY-SA 3.0\n> **来源链接：** SCP Foundation Wiki\n=====\n[[include :scp-wiki-cn:component:license-box-end]]",
+  "tags": [
+    "2023重混竞赛",
+    "sauelsuesor",
+    "scp",
+    "thaumiel",
+    "恒星",
+    "星际",
+    "破晓",
+    "超维度",
+    "载具"
+  ],
+  "author": "TMTbbQBird",
+  "created_at": "2024-03-16T18:27:47+00:00",
+  "updated_at": "2024-03-16T18:37:52+00:00",
+  "rating": 4,
+  "_site": "scp-wiki-cn",
+  "_fullname": "scp-7941"
+}

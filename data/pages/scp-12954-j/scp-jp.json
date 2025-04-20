@@ -1,0 +1,17 @@
+{
+  "title": "SCP-12954-J",
+  "content": "[[include :scp-jp:theme:classic]]\n[[include :scp-jp:theme:flopstyle]]\n[[include :scp-jp:component:centered-header-sigma-9]]\n\n[[module CSS]]\n :root{\n   --header-title: \"SCP FOUNDATION\";\n   --header-subtitle: \"Site-400\";\n}\n.footnotes-footer {\n    visibility: hidden;\n    height: 0;\n    padding: 0;\n    margin: 0;\n}\n\n[[/module]]\n\n[[>]]\n[[module Rate]]\n[[/>]]\n[[include :scp-wiki:component:author-label-source start=--\n|name=NDHeckfire]]\n原題:**SCP-12954-J** - Damn, That's Deep\n\n[[[https://scp-wiki.wikidot.com/ndheckfire|私について詳しく！（原著者の著者ページ）]]]\n[[include :scp-wiki:component:author-label-source end=--]]\n\n**アイテム番号:** SCP-12954-J\n\n**オブジェクトクラス:** Safe\n\n**特別収容プロトコル:** SCP-12954-Jは現在、サイト-400の標準収容チャンバーに収容されています。ヘフター博士を元に戻す試みは今も継続されています。\n\n**説明:** SCP-12954-Jは黒い取っ手がある円形の鍋の蓋に対する指定です。2018年5月5日に突如として鍋の蓋に変異する以前、SCP-12954-Jは番外部門のベンジャミン・ヘフター博士でした。\n\nSCP-12954-Jは知能や知性を有する兆候を見せていません。\n\n**補遺:** ヘフター博士の私用携帯電話から、彼が突然SCP-12954-Jに変異した原因と思われる以下の画像が発見されました。画像は当初、ヘフター博士のガールフレンドから送られたものでした。この画像（以降、SCP-12954-J-Aと記述）に対して何らかのミーム的伝承特性を有するかの検査が行われましたが、そのような特性は発見されませんでした。\n\n\n[[=]]\n[[collapsible show=\"[+] SCP-12954-J-Aを開く\" hide=\"[-] SCP-12954-J-Aを閉じる\"]]\n@@ @@\n[[include component:image-block\nname=http://scp-jp-storage.wdfiles.com/local--files/file:2932571-10-1jba/Woman_eyes_closed_sad.jpg|caption=SCP-12954-J-A|width=350px|align=center]]\n[[/collapsible]]\n[[/=]]\n\n@@ @@",
+  "tags": [
+    "en",
+    "safe",
+    "scp",
+    "ジョーク",
+    "番外部門"
+  ],
+  "author": "leaflet",
+  "created_at": "2022-09-07T08:20:55+00:00",
+  "updated_at": "2024-06-21T07:26:10+00:00",
+  "rating": -11,
+  "_site": "scp-jp",
+  "_fullname": "scp-12954-j"
+}

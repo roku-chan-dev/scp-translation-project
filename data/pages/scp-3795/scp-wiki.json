@@ -1,0 +1,24 @@
+{
+  "title": "SCP-3795",
+  "content": "[[include :scp-wiki:theme:classic]]\n[[>]]\n[[module Rate]]\n[[/>]]\n\n**Item #:** SCP-3795\n\n**Object Class:** Safe\n\n**Special Containment Procedures:** SCP-3795 is kept in a standard high-value containment locker in Site 68. Testing of SCP-3795 is to be only carried out on D-Class with no prior history of animal abuse, and under no circumstances are any researchers who currently own pets to come into contact with SCP-3795.\n\n**Description:** SCP-3795 is a hardcover copy of the book //The Genius of Dogs: How Dogs are Smarter Than You Think// by Brian Hare and Vanessa Woods (Plume, 2013). In both its inert and active state, SCP-3795 is physically identical to a non-anomalous copy of the book, except that the phrase \"WHO KILLED YOUR DOG?!\" has been written on the copyright page in black marker. \n\nSCP-3795's anomalous properties manifest when an individual who currently owns a domestic dog (//Canis familiaris//) reads the phrase on the copyright page of the book. After comprehending it in its entirety, the subject will immediately lose consciousness and cannot be awoken by any means for approximately six hours. During this time, the subject's dog[[footnote]]If the subject currently owns more than one dog, only one will be affected[[/footnote]] will invariably be killed by a close friend or relative of the subject who, after leaving the area in which the pet was murdered, will have no recollection of its death. SCP-3795 is able to anomalously influence the actions of the person it selects so that the dog is killed before the six hours have passed, and Foundation researchers have yet to discover a way to preemptively prevent the death of a targeted pet. \n\nAfter re-entering a conscious state, the subject will immediately gain knowledge of their dog's death, usually causing them great distress. The following note will then appear on their person (hereafter SCP-3795-A):\n\n> [[size x-large]]**YOUR DOG IS DEAD!**[[/size]]\n> \n> **Can [[size x-large]]//YOU//[[/size]] figure out who did it?**\n> \n> **You have** **__24__** **hours**\n> \n> [[size x-large]]**SHOW THEM THAT YOU CARE!**[[/size]]\n\nSCP-3795-A then lists three different \"clues\" based on the dog selected and the nature of the murderer (e.g. when a dog was shot by a subject's mother, SCP-3795-A listed \"How could she do this to you?\" as a clue). If the subject successfully identifies their dog's killer within twenty-four hours and vocalizes their name using the phrase \"It was [killer]!\", the dog will be brought back to life unharmed; if they fail to, it remains deceased and cannot be revived after an event has concluded. \n\nAfter completion of an SCP-3795 event, one of the following notes appears within the vicinity of the subject:\n\n**SCP-3795-B (Success)**\n\n> [[size x-large]]**WELL DONE!**[[/size]]\n> \n> **You get your dog back.** \n> \n> **ENJOY! And remember...**\n> \n> [[size x-large]]**MAN'S BEST FRIEND. :)**[[/size]]\n\n**SCP-3795-C (Failure)**\n\n> **[[size x-large]]Time is UP.[[/size]]** \n> \n> **Sorry, you missed your chance.**\n> \n> **Your dog is gone now. Remember...**\n> \n> **[[size x-large]]MAN'S BEST FRIEND. :([[/size]]**\n\n**Addendum 3795.A:** During trial 3795/023, SCP-3795 was tested on D-76539, a felon with a history of animal abuse directed towards dogs and cats, including a conviction related to a dogfighting charge. For the purposes of the experiment, D-76539 was temporarily given a Labrador Retriever puppy.\n\nUpon SCP-3795's activation, D-76539 appeared to momentarily experience intense pain before expiring shortly afterwards. Post-mortem analysis identified blood loss from severe laceration as the primary cause of death. Containment procedures were subsequently updated to prevent testing on subjects with abusive tendencies towards animals.\n\n[[footnoteblock]]\n\n[[div class=\"footer-wikiwalk-nav\"]]\n[[=]]\n<< [[[SCP-3794]]] | SCP-3795 | [[[SCP-3796]]] >>\n[[/=]]\n[[/div]]\n\n[[include :scp-wiki:component:license-box]]\n[[include :scp-wiki:component:license-box-end]]",
+  "tags": [
+    "_licensebox",
+    "_murder-mystery",
+    "canine",
+    "cognitohazard",
+    "document",
+    "game",
+    "jam-con2018",
+    "knowledge",
+    "reanimation",
+    "safe",
+    "scp",
+    "visual"
+  ],
+  "author": "ObserverSeptember",
+  "created_at": "2018-02-17T15:36:43+00:00",
+  "updated_at": "2022-02-05T22:48:16+00:00",
+  "rating": 74,
+  "_site": "scp-wiki",
+  "_fullname": "scp-3795"
+}

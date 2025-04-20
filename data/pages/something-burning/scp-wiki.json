@@ -1,0 +1,20 @@
+{
+  "title": "Something's Burning",
+  "content": "[[include :scp-wiki:theme:black-highlighter-theme]]\n[[include :scp-wiki:theme:a-problematic-theme version=1]]\n\n[[module CSS]]\n:root {\n     --header-subtitle: \"Problematic Breakfast\";\n}\n[[/module]]\n\n[[=]]\n[[module Rate]]\n\nIt smells like heat.\nBurning, burning.\nShit, it's hot.\nMy lungs are choking.\nIt smells like smoke.\nChurning, churning.\nFuck, it's hot.\nMy throat is closing.\n\nDamn, man.\nWhat's this, man?\nSomething's burning, man.\nSomething's burning, man.\n\nTastes like ember.\nAshes, ashes.\nGod damn, it's hot.\nEyes are watering.\nTastes like coal.\nFire, fire.\nUgh, it's hot.\nThe smoke is rising.\n\nDamn, man.\nThis sucks, man.\nSomething's burning, man.\nThe fuck is burning, man?\n\nMan. Man, god damn.\nSomething's burning.\nDon't know why but\nSomething's burning.\nWait a minute.\nWait a minute.\nThe fire's coming\nFrom the kitchen.\n\nWait, wait.\nWait, hold\nThe phone.\nWhat's that burning?\n\n…\n\n…\n\n…\n\nOh, it's my toast.\nI burnt my toast.\nMy toast is burnt.\nSomething's burning.\nYeah, that's my toast.\nPop out burnt with\nan odd message.\n\nBurnt on the toast.\nBurnt on the toast.\nWhat's it say?\nWhat's it say?\nIt says to go…\n\n…\n\n…\n\nTo go \"fuck yourself.\"\n\nDamn.\n@@ @@\n\n@@ @@\n\n@@ @@\n[[image https://scp-wiki.wikidot.com/local--files/something-burning/toasted.jpg width=\"400px\"]]\n\n@@ @@\n\n[[size 75%]]//Also, where the fuck is my toaster?//[[/size]]\n[[/=]]\n~~~~\n@@ @@\n\n@@ @@\n[[include :scp-wiki:component:earthworm\n| first=false | last=false | hub=no\n| previous-url=https://scp-wiki.wikidot.com/nial-must-be-flushed | previous-title=#NialMustBeFlushed\n| next-url=https://scp-wiki.wikidot.com/alight | next-title=ALight\n| hub-url=/ | hub-title=THE APPLIANCE WAR\n]]\n@@ @@\n\n@@ @@\n[[include component:wikimodule |ratings= --]]]\n\n[[=]]\n[[include :scp-wiki:component:license-box\n|author=winkwonkboi]]\n=====\n> **Filename:** toasted\n> **Name:** Random slice of toast\n> **Author:** Peter O'Connor aka anemoneprojectors\n> **License:** CC BY-SA 2.0\n> **Source Link:** [https://www.flickr.com/photos/58414938@N00/3534597062 Flickr]\n> **Additional Notes:** Edited by [[*user Barbarous Bread]]\n=====\n[[include :scp-wiki:component:license-box-end]]\n[[/=]]",
+  "tags": [
+    "_cc",
+    "_licensebox",
+    "appliance-war",
+    "comedy",
+    "first-person",
+    "no-dialogue",
+    "poetry",
+    "tale"
+  ],
+  "author": "winkwonkboi",
+  "created_at": "2023-07-31T07:24:22+00:00",
+  "updated_at": "2024-08-11T14:26:40+00:00",
+  "rating": 40,
+  "_site": "scp-wiki",
+  "_fullname": "something-burning"
+}

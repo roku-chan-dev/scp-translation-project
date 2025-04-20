@@ -1,0 +1,19 @@
+{
+  "title": "SCP-5908",
+  "content": "[[include :scp-wiki:theme:magnus-web-format]]\n[[include :scp-wiki-cn:component:black-highlighter-theme-dev]]\n\n@@ @@\n[[include :scp-wiki:component:classified-bar-woed\n|lv=1\n|item=5908\n|oc=Pending\n|lang=CN\n|trans-level=级\n|trans-classified=机密\n]]\n------\n[[div class=\"addenda-header\"]]\n++++ **__特殊收容措施__**\nSCP-5908存于Site-51的安全存储锁柜18号内。禁止对SCP-5908展开测试。\n\n历史学术领域内的基金会资产将支持Dorian Lockley刺杀了亨利·克莱[[footnote]]译注：美国政治家，曾任国务卿、参议员、众议员。在政治主张上与杰克逊总统针锋相对。他于1852年病逝。[[/footnote]]的理论。严禁平民尝试发掘或研究亨利·克莱的尸首。\n[[/div]]\n[[div class=\"addenda-header\"]]\n++++ **__描述__**\nSCP-5908是一把半托式前装击发枪，由Philip Creamer为第七任美国总统安德鲁·杰克逊制作。SCP-5908在枪筒上有奇术符文，使得该武器被开火时会触发一次仪式。\n\nSCP-5908在安德鲁·杰克逊去世六天后送到其住处，此后再未被使用，直至基金会将其寻得。\n[[/div]]\n[[div class=\"addenda-header\"]]\n++++ **__发现__**\n于2020/01/20，SCP-5908在对某异常古董交易商的仓库进行突袭时被发现，一并寻获的还有26件其他异常文物。SCP-5908上附有一张名片写着“安德鲁·杰克逊|Creamer枪行，1845”，但对其异常性质再无更多信息可查。基金会尚未发现此院落主人Antonio Burelli(POI-45Y67)的下落，正在展开调查。\n[[/div]]\n[[div class=\"addenda-header\"]]\n++++ **__测试概要__**\nSCP-5908在2020年1月25日-27日期间被测试了共计四次。每次测试均无结果，枪内子弹在发射后只会消失，没有找到子弹去往何处的证据。负责初期SCP-5908测试的研究员Kyle Morgan申请将该项目编为异常物品，和其他历史文物一起存于Site-51地库内。\n[[/div]]\n@@ @@\n@@ @@\n@@ @@\n[[include component:coltop show=（提醒：1条新信息）|hide=新消息：]]\n@@ @@\n[[div style=\"border:solid 1px #999999; background:lightgrey; padding:5px; margin-bottom: 10px;\"]]\n[[div class=\"email\"]]\n[[div class=\"tofrom\"]]\n**自：**研究员Kyle Morgan，Site-51进口\n**至：**研究员Daniel Vargos [[[welcome-to-delta-t|时间站点-01]]]\n**主题：**回复：SCP-5908\n[[/div]]\n------\n你他妈的在给我搞笑吗？\n\n[[include component:coltop show=打开：acsi468967-doc|hide=关闭：acsi468967-doc]]\n\n[[div class=\"blockquote\" style=\"border-radius: 10px; margin: 10px; font-family: 'Courier Prime', monospace;\"]]\n[[=]]\n||= **美国安保收容倡议会文件，1846年** ||\n[[/=]]\n\n**项目编号：**46-8967\n\n**分级类型：**未解释事件\n-----\n**ASCI收容协议：**ASCI职员Dorian Lockley将被逮捕，指控其于1846年1月29日刺杀亨利·克莱。Lockley职员已为此事做了准备，对所有相关指控认罪。在监禁后，Lockley职员将被报告为上吊自杀，此后会将他转移到墨西哥居留。\n@@ @@\n**描述：**1846年1月25日，参议员亨利·克莱被一看不见的袭击者开枪射中太阳穴。二十四名目击者称，看到了克莱参议员在离开国会大厦时被射杀，此事件经由彻底调查，但仍无法找到源头。在验尸所内进行准备时，克莱参议员又遭到了三次枪击，两次发生于26日，一次发生于27日。Philip Connors及其助理Gordon Thomas当时在场，他作证称子弹是在离尸体大概20步处凭空出现。\n@@ @@\n**注意：**1851年8月12日，知名枪械师Philip Creamer供认参与共谋了对参议员亨利·克莱的刺杀。\n\n> “我犯了可怕的事。我杀了亨利克莱，不是我，现在还不是，但我将来会。杰克逊总统和我达成了一项最为残忍的密约，一桩要比我遗产流传更久的耻辱。”\n\n无法在异象46-8967、杰克逊总统及Philip Creamer间找到进一步关联证据。\n\n值得一提的是，Philip Creamer曾受杰克逊总统雇用为其制作了多件枪械，其中三件经检验确认为无异常。在被问及一生中有无任何憾事时，杰克逊总统曾表示：\n> “是的，我没能射杀亨利·克莱，我也没能绞死约翰·卡尔霍恩。”\n若非杰克逊总统于1845年已经去世，这可能是一条有嫌疑的动机。\n[[/div]]\n[[include component:colend]]\n[[/div]]\n[[/div]]\n[[include component:colend]]\n@@ @@\n\n[[footnoteblock]]\n\n[[div class=\"footer-wikiwalk-nav\"]]\n[[=]]\n<< [[[SCP-5907]]] | SCP-5908 | [[[SCP-5909]]] >>\n[[/=]]\n[[/div]]",
+  "tags": [
+    "asci",
+    "scp",
+    "人造物品",
+    "政治家",
+    "时间影响",
+    "武器",
+    "等待分级"
+  ],
+  "author": "ashausesall",
+  "created_at": "2020-04-03T03:50:14+00:00",
+  "updated_at": "2024-04-08T03:22:06+00:00",
+  "rating": 6,
+  "_site": "scp-wiki-cn",
+  "_fullname": "scp-5908"
+}

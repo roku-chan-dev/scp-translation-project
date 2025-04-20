@@ -1,0 +1,24 @@
+{
+  "title": "SCP-5221",
+  "content": "[[include :scp-wiki:theme:black-highlighter-theme]]\n\n[!-- Meant for safekeeping --]\n[!-- https://scp-wiki.wikidot.com/fragment:scp-5221-offset-1 --]\n[!-- https://scp-wiki.wikidot.com/fragment:scp-5221-offset-2 --]\n\n\n[[>]]\n[[module rate]]\n[[/>]]\n\n[[module ListPages category=\"fragment\" parent=\".\" order=\"created_at\" limit=\"1\" offset=\"@URL|0\"]]\n%%content%%\n[[/module]]\n\n[[footnoteblock]]\n[[div class=\"footer-wikiwalk-nav\"]]\n[[=]]\n<< [[[SCP-5220]]] | SCP-5221 | [[[SCP-5222]]] >>\n[[/=]]\n[[/div]]\n----\n[[include :scp-wiki:component:license-box]]\n=====\n> **Filename:** whitefog2.jpg\n> **Author:** [https://www.flickr.com/photos/76254519@N08 greenoid]\n> **License:** CC BY-SA 2.0\n> **Source Link:** [https://search.creativecommons.org/photos/26fe7bc6-eccc-4e0f-948d-d14c0eac3d0e CC Search]\n\n> **Filename:** house.jpg\n> **Author:** [https://commons.wikimedia.org/wiki/User:Werewombat Ian Poellet]\n> **License:** CC BY-SA 3.0\n> **Source Link:** [https://ccsearch-dev.creativecommons.org/photos/f71484f7-3643-4017-9433-139a23f9549d CC Search]\n\n> **Filename:** heatchart.jpg\n> **Author:** [https://www.flickr.com/photos/49416631@N00 mattlemmon]\n> **License:** CC BY-SA 2.0\n> **Source Link:** [https://ccsearch-dev.creativecommons.org/photos/679a4407-9033-4f93-bb28-deb1d99c6ce6 CC Search]\n\n> **Filename:** bunkerhall.jpg\n> **Author:** [https://www.flickr.com/photos/27119837@N06 CargoCult]\n> **License:** CC BY 2.0\n> **Source Link:** [https://ccsearch-dev.creativecommons.org/photos/57ec89c9-bff3-4571-bf19-dd96a7b8ada2 CC Search]\n\n> **Filename:** shaftoflight.jpg\n> **Author:** [https://www.flickr.com/photos/20218973@N00 Francis Storr]\n> **License:** CC BY-SA 2.0\n> **Source Link:** [https://search.creativecommons.org/photos/4b150bb6-0c97-46fa-b5a4-1913db800739 CC Search]\n\n=====\n[[include :scp-wiki:component:license-box-end]]",
+  "tags": [
+    "_cc",
+    "_licensebox",
+    "_listpages",
+    "electromagnetic",
+    "foundation-made",
+    "mechanical",
+    "memory-affecting",
+    "pending",
+    "scp",
+    "structure",
+    "temporal",
+    "thermal"
+  ],
+  "author": "chiifu",
+  "created_at": "2020-10-27T07:31:36+00:00",
+  "updated_at": "2023-01-28T03:19:28+00:00",
+  "rating": 56,
+  "_site": "scp-wiki",
+  "_fullname": "scp-5221"
+}

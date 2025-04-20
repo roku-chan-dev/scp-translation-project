@@ -1,0 +1,17 @@
+{
+  "title": "SCP-CN-2614",
+  "content": "[[module CSS]]\n.notice{\n    border: 1px solid #f9e24d;\n    outline: 4px solid #b54d3b;\n    color: #f9e24d;\n    background: #b54d3b;\n    padding: 10px;\n    text-align: center;\n}\n\n/* HEADER */\n#header{ background-image: url(http://scp-wiki.wdfiles.com/local--files/scp-4428/DoMC_Logo100.png); }\n#header h1 a{\n    display: block;\n    margin: 0;\n    padding: 80px 0 25px;\n    line-height: 0;\n    max-height: 0;\n    color: transparent;\n    background: transparent;\n    font-family: 'Verdana', Arial, sans-serif;\n    text-decoration: none;\n    text-shadow: none;\n    letter-spacing: 0.9px;\n}\n#header h1 a::before{\n    content: \"DoMC\";\n    color: white;\n    letter-spacing: -0.02em;\n    text-shadow: 3px 3px 5px black;\n}\n#header h2 span{\n    display: block;\n    margin: 0;\n    padding: 19px 0;\n    line-height: 0;\n    max-height: 0;\n    font-weight: bold;\n    color: transparent;\n    text-shadow: none;\n}\n#header h2 span::before{\n    content: '解决 沟通 问题';\n    color: white;\n    text-shadow: 1px 1px 1px black;\n}\n[[/module]]\n\n[[>]]\n[[module Rate]]\n[[/>]]\n\n**项目编号：**SCP-CN-2614\n\n**项目等级：**Keter\n\n**特殊收容措施：**由于项目仅在基金会内出现，暂无需考虑项目突破帷幕的危险性。现要求基金会所有人员在做书面及口头描述时都必须确认其所用语句无任何歧义。--项目的收容工作暂委任误传部进行--项目的收容工作暂转任信息安全部进行，以待误传部恢复职能。\n\n**描述：**SCP-CN-2614为一散发于基金会内部的异常现象。当一用于描述已存在事物的具有歧义的语句被一定数量的阅读者误解为非语句发出者本意的内涵时，该事物将转换为该歧义句所被误解的形式。触发项目所用的人数似乎是随机的。\n\n**附录CN-2614-1：**项目发现记录\n\n项目最初发现于4/11/2023，该日Vylon博士在阅读PoI-2099的供述中“我想起来了[[footnote]] PoI-2099原意应为其回忆起了本站点的一次收容突破事件细节。 [[/footnote]]”一句时， PoI-2099突然在其基金会所提供的宿舍中由卧姿改为站姿。随后PoI-2099立即将此事作为异常报告予基金会。\n\n随后基金会发现了一周前的相似事件报告；其时webfom博士与于一诺博士在共同研读一例基金会诉讼案件时，阅读“站点经济纠纷已告Area-066负责人[[footnote]] 原文应意为该起经济纠纷已告知Area-066负责人。 [[/footnote]]”一句导致了Area-066负责人Dr.Aolen被起诉。基金会将该两宗案件串联调查，并随后发现了项目。\n\n**附录CN-2614-2：**事故记录9/8/2024\n\n在9/8/2024的误传部新人入职培训中，由于误传部使用了“解决-沟通-问题”而非“筛除-传播-纰漏”的译文，导致了数名经过的文职人员将误传部职能误解为心理疏导与促进人际往来。\n\n这直接导致了误传部职能改变为解决人际沟通问题与改善社交关系。误传部内所有语言/语义学专著及收容人员的相关专业知识被调换，导致了误传部的突然失能。\n\n正在缓慢修复误传部职能中。\n@@@@\n@@@@\n@@@@\n@@@@\n@@@@\n[[footnoteblock]]\n[[div class=\"footer-wikiwalk-nav\"]]\n[[=]]\n<< [[[SCP-CN-2613]]]| SCP-CN-2614 |[[[SCP-CN-2615]]] >>\n[[/=]]\n[[/div]]",
+  "tags": [
+    "keter",
+    "scp",
+    "原创",
+    "现象",
+    "误传部"
+  ],
+  "author": "webfom",
+  "created_at": "2024-04-05T16:00:22+00:00",
+  "updated_at": "2025-02-28T14:41:07+00:00",
+  "rating": 26,
+  "_site": "scp-wiki-cn",
+  "_fullname": "scp-cn-2614"
+}

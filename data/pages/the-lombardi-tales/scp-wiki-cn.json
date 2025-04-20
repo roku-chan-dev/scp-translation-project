@@ -1,0 +1,15 @@
+{
+  "title": "Lombardi的故事",
+  "content": "[[div style=\"margin: 0px; padding: 2px 0px 0px 0px; color: black; background-image: url(http://scp-wiki.wdfiles.com/local--files/the-lombardi-tales/bricks.jpg); color: white;\"]]\n\n[[div style=\"margin: 15px ;background-color: black; color: white; opacity: 0.55; text-align: center;\"]]\n[[size 115%]]**{{所以，你想要加入基金会？你以为读过报告后就知道那是什么了？兄弟，你根本连一知半解都没有。我见过的玩意儿你都他妈不会相信，如果你妈妈有在主日学校告诉你的话。我的名字是Max Lombardi，我干特工这行已经干了他妈10年了。你想知道它到底是啥？让我来告诉你……}}**[[/size]]\n[[/div]]\n\n[[div class=\"scp-image-block\" style=\"width:{$width};float:left;\"]]\n[[image http://scp-wiki.wdfiles.com/local--files/the-lombardi-tales/Lombardi.jpg style=\"width:300;\"]]\n[[div class=\"scp-image-caption\" style=\"width:300; color: black;\"]]\nStorn Cook的作品\n[[/div]]\n[[/div]]\n\n[[div style=\"float:right; width:{$width}; margin: 0px 60px 0px 0px; padding: 0px 10px; background-color: white; color: black; opacity: 0.7;\"]]\n[[size 175%]][[span style=\"text-shadow: #003 1px 1px;\"]]{{__**Lombardi的故事**__}}[[/span]][[/size]]\n[[module ListPages separate=\"no\" limit=\"250\" perPage=\"250\" tags=\"lombardi -中心\" order=\"created_at\"]]\n* [[span style=\"text-shadow: #003 1px 1px;\"]][[size 115%]]{{**%%title_linked%%**}}[[/size]][[/span]]\n[[/module]] \n[[/div]]\n\n~~~~~~~~\n@@@@\n@@@@\n@@@@\n[[/div]]",
+  "tags": [
+    "_故事中心",
+    "lombardi",
+    "中心"
+  ],
+  "author": "Letitia213",
+  "created_at": "2016-01-22T06:53:34+00:00",
+  "updated_at": "2018-09-18T06:10:54+00:00",
+  "rating": 8,
+  "_site": "scp-wiki-cn",
+  "_fullname": "the-lombardi-tales"
+}

@@ -1,0 +1,17 @@
+{
+  "title": "情色基金会 中心页",
+  "content": "[[include :scp-wiki-cn:credit:start]]\n**作者：**[[*user HiloHiroa]]\n[[[https://scp-wiki-cn.wikidot.com/hilohiroa|🔗点此跳转到作者页]]]\n[[include :scp-wiki-cn:credit:end]]\n[[module ListPages category=\"fragment\" parent=\".\" limit=\"1\" order=\"name\" offset=\"@URL|0\"]]\n%%content%%\n[[/module]]",
+  "tags": [
+    "_image",
+    "原创",
+    "成人内容",
+    "搞笑",
+    "故事"
+  ],
+  "author": null,
+  "created_at": "2018-11-28T10:16:05+00:00",
+  "updated_at": "2025-02-04T06:20:38+00:00",
+  "rating": 2358,
+  "_site": "scp-wiki-cn",
+  "_fullname": "adult:porn-hub-page"
+}

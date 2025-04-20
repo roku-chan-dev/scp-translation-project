@@ -1,0 +1,25 @@
+{
+  "title": "SCP-618",
+  "content": "=====\n[[include :scp-wiki:component:preview\ntext=PlaguePJP: XXII\n]]\n=====\n\n[[include :scp-wiki:theme:blankstyle]]\n\n[[module CSS]]\n\n#page-title{display:none}\n\n[[/module]]\n\n[[>]]\n[[module rate]]\n[[/>]]\n\n[[div style=\"text-align: right; margin-top: -20px;\"]]\n[[size 80%]]##757575|by PlaguePJP##[[/size]]\n[[/div]]\n\n[[include component:info-ayers\n|lang=en[!-- EN/RU/KO/CN/FR/PL/ES/TH/JP/DE/IT/UA/PTBR --]\n|page=scp-618 [!-- url of your page on the scp wiki --]\n|authorPage=http://www.scp-wiki.net/plaguepjp[!-- link to your author page --]\n|comments= \n= **SCP-618** — //Slim Pickin's//\n]]\n\n[[div]]\n[[include :scp-wiki:component:anomaly-class-bar-source\n|item-number= 618\n|clearance= 1\n|container-class= euclid\n|secondary-class=\n|secondary-icon=\n|disruption-class=\n|risk-class=\n]]\n\n[[include :scp-wiki:component:customizable-acs\n|containment-class= euclid\n|containment-image= https://scp-wiki.wdfiles.com/local--files/component%3Aanomaly-class-bar/euclid-icon.svg\n|containment-color= 255,211,0\n|inc-neutralized-layout = --]]]\n\n\n[[include :scp-wiki:component:customizable-acs\n|clearance-one= 255,211,0\n|inc-clearance= --]]]\n[[/div]]\n-----\n\n\n[[include component:image-block\n    name=https://scp-wiki.wdfiles.com/local--files/scp-618/3338306933_17dfc69701_b.png|\n    caption=Test subject A-4 consuming broccoli. |\n    width=250px|\n    align=right|\n]]\n\n\n**Special Containment Procedures:** SCP-618 is essentially self-containing; affected individuals hold little to no clear memories of the anomaly and its effects due to the age(s) at which it is most active. Containment efforts are ongoing, however, due to the sporadic nature of the anomaly and its recent discovery, further research is needed.\n\n**Description:** SCP-618 is a perceptual anomaly causing human beings to have an aversion to green vegetables, commonly cultivars of the Wild Cabbage, and other food items. SCP-618 appears in 0.5% of the human population. \n\nSCP-618 manifests upon the birth of a human subject, though it does not display its effects until a subject grows to eat solid foods. This perceptual anomaly peaks between ages 3-5, then slowly decreases until total dormancy between the ages of 6-8.\n\nIn some cases (approximately 2% of those affected), SCP-618 remains active to varying degrees into subjects' adulthood. The effects of SCP-618's perceptual anomaly are less influential, however, and only leave an aversion to the food items, normally culminating in the triggering of the gag reflex upon an attempt to consume the item.\n\n**Addendum 618.1:** SCP-618 Effects\n[[div class=\"table3\"]]\n||~ Provided Food Item||~ SCP-618 Influenced Effect ||~ Result ||\n|| Lettuce (iceberg) || Subject perceives a foul odor emanating from the vegetable. The stench grows in intensity when brought closer to the subject's face/mouth. || Subject's gag reflex is triggered, commonly causing vomiting. Subject cries and refuses to eat.  ||\n|| Kale || The vegetable wiggles and writhes, similar to the movements of a worm or caterpillar. Once pierced with a fork, the writhing will increase in intensity. || Subject cries and refuses to eat.  ||\n|| Spinach || The vegetable vanishes from perception; reappearing with unpredictable timing emitting a loud banging noise, triggering the startle reflex. || Subject cries and refuses to eat. ||\n|| Broccoli || Each floret grows human facial features and stares at the subject. If pierced with a utensil, the florets will silently cry. || Subject cries and refuses to eat.  ||\n|| Brussels Sprouts || SCP-618 causes the perceiver to enter a causal time loop, in which the observer continues their life from the moment of consuming Brussels Sprouts. The subject perceives their parents' chaotic divorce at the age of 12, the death of their fiance at the age of 26, and then the subject's death at the age of 34 due to blood loss as a result of a car accident. The subject will then enter a hell-like afterlife, wherein they will be confronted by a demon in the form of a single Brussels Sprout. || Subject cries and refuses to eat. ||\n[[/div]]\n\n[[=]]\n\n[[div class=\"footer-wikiwalk-nav\"]]\n<< [[[SCP-617]]] | SCP-618 | [[[SCP-619]]] >>\n[[/div]]\n\n[[include :scp-wiki:component:license-box]]\n[[include :scp-wiki:component:license-box-end]]\n\n[[/=]]",
+  "tags": [
+    "_licensebox",
+    "cognitohazard",
+    "euclid",
+    "food",
+    "gustatory",
+    "hallucination",
+    "intangible",
+    "mind-affecting",
+    "olfactory",
+    "on-guard-43",
+    "scp",
+    "sensory",
+    "visual"
+  ],
+  "author": "PlaguePJP",
+  "created_at": "2022-04-15T20:30:54+00:00",
+  "updated_at": "2024-06-21T05:09:32+00:00",
+  "rating": 149,
+  "_site": "scp-wiki",
+  "_fullname": "scp-618"
+}

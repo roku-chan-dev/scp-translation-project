@@ -1,0 +1,21 @@
+{
+  "title": "SCP-5623",
+  "content": "[[include :scp-wiki-cn:theme:black-highlighter-theme]]\n[[include :scp-wiki:component:bhl-dark-sidebar]]\n\n[[module CSS]]\ndiv#extra-div-1 {\n     width: 100%;\n     height: calc(100% - var(--final-header-height-on-desktop));\n     position: absolute;\n     top: calc(var(--final-header-height-on-desktop));\n     left: 0;\n     z-index: -1;\n     mask: var(--gradient-background);\n     -webkit-mask: var(--gradient-background);\n     background-image: url(https://upload.wikimedia.org/wikipedia/commons/thumb/f/f3/Orion_Nebula_-_Hubble_2006_mosaic_18000.jpg/1024px-Orion_Nebula_-_Hubble_2006_mosaic_18000.jpg);\n     background-size: 100%, 80% var(--background-gradient-distance);\n     background-blend-mode: difference;\n     background-repeat: no-repeat, repeat-x;\n     pointer-events: none;\n}\n[[/module]]\n\n[[module css]]\n.danke{\npadding: 5px 5px 5px 15px;\nmargin-bottom:10px;\nwidth: 100%;\nfont-family: monospace;\nfont-size: 1.1em; }\n\n.agent{\nbackground-color:#002200;\nborder: 3px solid #55AA55;\ncolor: #77CC77;\n}\n\n.site{\nbackground-color:#222200;\nborder: 3px solid #AAAA55;\ncolor: #DDDD77;\n}\n[[/module]]\n\n\n[[module ListPages category=\"fragment\" parent=\".\" order=\"created_at\" limit=\"1\" offset=\"@URL|0\"]]\n%%content%%\n[[/module]]\n\n[!-- http://scp-wiki-cn.wikidot.com/fragment:scp-5623-1 --]\n[!-- http://scp-wiki-cn.wikidot.com/fragment:scp-5623-2 --]\n[!-- http://scp-wiki-cn.wikidot.com/fragment:scp-5623-3 --]\n\n[[footnoteblock]]\n\n[[div class=\"footer-wikiwalk-nav\"]]\n[[=]]\n<< [[[SCP-5622]]] | SCP-5623 | [[[SCP-5624]]] >>\n[[/=]]\n[[/div]]\n\n[[include :scp-wiki-cn:component:license-box\n|author=Sirslash47\n|translator=Esperanza_Cai\n]]\n=====\n> **文件名：**ZeppelinBW\n> **图像名：**Luftschiff Graf Zeppelin LZ 127\n> **图像作者：**德国联邦档案馆/ Deutsches Bundesarchiv\n> **授权协议：**CC-BY-SA 3.0\n> **来源链接：**[https://commons.wikimedia.org/wiki/File:Bundesarchiv_Bild_102-00951,_Luftschiff_Graf_Zeppelin_LZ_127.jpg 维基共享]\n> **来源链接所写归属：**德国联邦档案馆，Bild 102-00951 / CC-BY-SA 3.0\n\n> **文件名：**背景图片链接（未以文件形式上传）\n> **图像名：**Orion Nebula - Hubble 2006 mosaic 18000\n> **图像作者：**NASA, ESA, M. Robberto（空间望远镜科学研究所/欧洲航天局）以及哈勃空间望远镜猎户座宝库项目队伍\n> **授权协议：**公有领域\n> **来源链接：**[https://en.wikipedia.org/wiki/File:Orion_Nebula_-_Hubble_2006_mosaic_18000.jpg 维基共享]\n> \n> **备注：**模块不知为何把图片镜像反转了，我不介意，但也不能解释。另外，如果图像造成了什么问题的话（我没有使用哈勃空间望远镜拍摄的无损画质照片，所以应该没事），我可以把它换成画质更低的照片。\n=====\n[[include :scp-wiki-cn:component:license-box-end]]",
+  "tags": [
+    "k级情景",
+    "scp",
+    "ticonderoga",
+    "传送",
+    "循环",
+    "星际",
+    "智能",
+    "机械",
+    "载具"
+  ],
+  "author": "Esperanza_Cai",
+  "created_at": "2021-02-04T08:46:00+00:00",
+  "updated_at": "2024-03-28T15:57:55+00:00",
+  "rating": 9,
+  "_site": "scp-wiki-cn",
+  "_fullname": "scp-5623"
+}

@@ -1,0 +1,14 @@
+{
+  "title": "01546",
+  "content": "original: scp-2996\ndeleted: '0'\nbranch: '2'\nseries1: '0'\nseries2: '3'\ncontent: \"[[module CSS]]\\n\\nspan.skew {\\n  display:inline-block;\\n  animation: skew 1.5s infinite;\\n}\\n\\n@keyframes skew {\\n\\n  0% {\\n    transform: none;\\n  }\\n  33% {\\n    transform: none;\\n  }\\n  33.3% {\\n    transform: skewX(45deg);\\n  }\\n  33.4% {\\n    transform: skewX(-45deg);\\n  }\\n  33.5% {\\n    transform: none;\\n  }\\n  66% {\\n    transform: none;\\n  }\\n  66.3% {\\n    transform: skewX(20deg);\\n  }\\n  66.4% {\\n    transform: skewX(-20deg);\\n  }\\n  66.5% {\\n    transform: none;\\n  }\\n  77% {\\n    transform: none;\\n  }\\n  77.3% {\\n    transform: skewX(30deg);\\n  }\\n  77.4% {\\n    transform: skewX(-30deg);\\n  }\\n  77.5% {\\n    transform: none;\\n  }\\n  \\n}\\n\\n@keyframes fade-in {\\n    0% {opacity: 0;}\\n    50% {opacity: 0;}\\n    100% {opacity: 1;}}\\n\\n/* Credit to Nanimono Daemon for the mouseover blackbox format, found here:\\nhttp://www.scp-wiki.net/scp-style-resource#toc11 */\\n\\n.dblock {background: white; color: white; transition: 1s;}\\n.dblock:hover {color: #333; transition: 1.5s;}\\n\\n/* Credit to James Kanjo for the inline hover tip CSS I butchered, found here:\\nhttp://community.wikidot.com/howto:inline-hover-tips */\\n\\n.hover1 {color: #333; transition: 1s;}\\n.hover1:hover {color: white; transition: 1s;}\\n.hover1 span {display: none;}\\n.hover1:hover span {position: absolute; display: inline; background-color: transparent; color: #333; animation: fade-in 1s;}\\n.hover1:hover span span {position: relative;}\\n\\n[[/module]]\\n\\n[[span class=\\\"skew\\\"]][[span class=\\\"hover1\\\"]][[span]][[span style=\\\"color:red\\\"]]!ERROR![[/span]]//それは死すら乗り越えた、ある男女の愛の物語。//[[span style=\\\"color:red\\\"]]!ERROR![[/span]][[/span]]嗚呼ついてくるんだ。その愛が、狂気が、いつまでも、どこまでも。[[/span]][[/span]]\"\nmove: '0'\noriginauthor: ''\nredirect-b: '[[module Redirect destination=\"/scp-flavor'\nredirect-e: '\"]]'",
+  "tags": [
+    "jp",
+    "剪定対象-子"
+  ],
+  "author": "watercat7725",
+  "created_at": "2022-02-15T01:54:03+00:00",
+  "updated_at": "2023-01-16T06:37:56+00:00",
+  "rating": 2,
+  "_site": "scp-jp",
+  "_fullname": "scp-flavor:01546"
+}

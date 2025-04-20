@@ -1,0 +1,13 @@
+{
+  "title": "fragment:SCP-6000-offset0",
+  "content": "[[include :scp-sandbox-3:component:login-module |id=Dr-Fournier@scp.int|pw=2123967821|disc=true]]\n[[collapsible show=\"LOG IN\" hide=\"LOG OUT\"]]\n\n++ 欢迎回来，Dr.Fournier.\n.\n+ 新闻\n\n**重要的SCP文档**\n\n[# SCP-████]\n\n[# ●●|●●●●●|●●|●]\n\n[# SCP-████]\n\n[# SCP-......嗯..., 一个不是圆的东西]\n\n[http://scp-wiki-cn.wikidot.com/old:scp-6712/offset/1 SCP-6712]\n\n**[# 所有的SCP文档]**\n\n+ 待办事项\n\n//无//\n\n[[/collapsible]]",
+  "tags": [
+    "段落"
+  ],
+  "author": "Kawasaki kidou",
+  "created_at": "2021-06-07T14:27:39+00:00",
+  "updated_at": "2021-07-03T06:22:57+00:00",
+  "rating": 1,
+  "_site": "scp-wiki-cn",
+  "_fullname": "fragment:6000contestkawasakikidou-offset0"
+}

@@ -1,0 +1,14 @@
+{
+  "title": "Tag Search",
+  "content": "[[module CSS]]\n#page-title {\n  display: none;\n}\n\n.cromplug {\n    background: #f5e5e8;\n    color: #9f3c4e;\n    width: fit-content;\n    text-align: center;\n    margin-top: 0.5rem;\n    border-radius: 0.5rem;\n    padding: 0.75rem;\n    background-image: url(https://scp-wiki.wdfiles.com/local--files/search%3Acrom/crom.png);\n    background-size: cover;\n    background-blend-mode: overlay;\n    background-position: center 15%;\n}\n.cromplug p {\n    margin: 0;\n}\n.cromplug a, .cromplug a:visited {\n    color: #9f3c4e;\n    font-weight: bold;\n}\n[[/module]] \n \n[!-- https://crom.wikidot.com/tag-search --]\n[[include :crom:tag-search\n    lang=en |\n    wiki=scp-wiki |\n    config=https://05command.wdfiles.com/local--code/tech-hub-tag-list-crom-search/1 |\n]]\n\n[[div class=\"cromplug\"]]\nSupport CROM on [https://www.patreon.com/crombird Patreon!]\n[[/div]]",
+  "tags": [
+    "admin",
+    "rewrite"
+  ],
+  "author": "aismallard",
+  "created_at": "2021-09-15T21:11:44+00:00",
+  "updated_at": "2023-02-12T10:55:42+00:00",
+  "rating": 73,
+  "_site": "scp-wiki",
+  "_fullname": "tag-search"
+}

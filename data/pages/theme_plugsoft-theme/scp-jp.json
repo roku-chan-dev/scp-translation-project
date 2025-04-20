@@ -1,0 +1,16 @@
+{
+  "title": "プラグソフトテーマ",
+  "content": "[[module CSS]]\n@import url(/theme:plugsoft-theme/code/1);\n[[/module]]\n\n[[iftags +テーマ]]\n>翻訳を更新する際の注意\n>マニュアルとコードの両方をiftagsの中に置くようにしてください。\n>元記事のrev.12時点ではマニュアルのみがiftagsの中にありますが、{{[[include]]}}構文での使用のため、コードをiftagsの中に入れたままにしてください。\n\n[[code type=\"css\"]]\n/*\n    Powered on 2019/07/18 00:18:31\n    [2019 Wikidot Theme]\n    Created by Nareum\n    CC BY-SA 3.0\n*/\n \nbody {\n    background: #ecfaf6;\n    color: #000000;\n}\na,a:visited {\n    color: #7f928d;\n}\ndiv#header h1 a span {\n    font-size: 0px;\n}\ndiv#header h1 a:before {\n    content: \"プラグソフト\";\n    color: #ffffff;\n    text-shadow: 3px 3px 3px #000000;\n}\ndiv#header h2 span {\n    font-size:0px;\n    padding: 4px;\n}\ndiv#header h2:after {\n    content: \"宇宙で唯一の楽しみ\";\n    font-weight: bold;\n    color: #ffffff;\n    padding: 19px 0;\n    text-shadow: 1px 1px 1px #000000;\n    white-space: pre;\n}\ndiv#side-bar div.side-block {\n    background: #cdf1e6;\n    border: 1px solid #333333;\n}\ndiv.yui-navset div.yui-content {\n    background: #c1e5da;\n}\ndiv.page-rate-widget-box,\ndiv.page-rate-widget-box span.rate-points,\ndiv.page-rate-widget-box span.cancel {\n    background-color: #cbcecd!important;\n    border: solid #cbcecd 1px!important;\n}\ndiv.page-rate-widget-box span.rateup,\ndiv.page-rate-widget-box span.ratedown {\n    border: solid #cbcecd!important;\n    border-width: 1px 0!important;\n}\ndiv.page-rate-widget-box span.rate-points,\ndiv.page-rate-widget-box span.cancel a,\ndiv.page-rate-widget-box span.cancel a:hover {\n    color: #0000000;\n}\ndiv.page-rate-widget-box span.rateup,\ndiv.page-rate-widget-box span.ratedown {\n    background-color: #dfe0e0!important;\n}\ndiv.page-rate-widget-box span.rateup a,\ndiv.page-rate-widget-box span.ratedown a {\n    color: #0000000!important;\n}\ndiv.page-rate-widget-box span.cancel a:hover,\ndiv.page-rate-widget-box span.rateup a:hover,\ndiv.page-rate-widget-box span.ratedown a:hover {\n    background: transparent!important;\n    color: transparent!important;\n}\ndiv.open-menu a {\n    color: #888888!important;\n    border-color: #888888!important;\n}\ndiv#header {\n    background: url(/local--files/theme:plugsoft-theme/PlugSoft.png) no-repeat;\n    background-position: -5px 30px;\n}\ndiv#container-wrap {\n    background: url(/local--files/theme:plugsoft-theme/222.png) top left repeat-x;\n}\nblockquote {\n    border: 1px dashed #999;\n    background: #e3f0ed\n}\nh1 {\n    color: #596e72;\n}\ndiv#page-title {\n    color: rgb(89, 110, 114);\n}\n\n/* for SCP-JP Credit Module */\n#page-content .rate-box-with-credit-button .creditButton {\n    background-color: #dfe0e0;\n    border: 1px solid #dfe0e0;\n}\n\n#page-content .rate-box-with-credit-button .creditButton:hover {\n    background-color: #dbdbdb;\n    border: 1px solid #dbdbdb;\n}\n[[/code]]\n[[/iftags]]",
+  "tags": [
+    "ko",
+    "テーマ",
+    "プラグソフト",
+    "要翻訳"
+  ],
+  "author": "ukwhatn",
+  "created_at": "2020-09-25T14:22:50+00:00",
+  "updated_at": "2022-09-27T19:02:57+00:00",
+  "rating": 15,
+  "_site": "scp-jp",
+  "_fullname": "theme:plugsoft-theme"
+}

@@ -1,0 +1,25 @@
+{
+  "title": "SCP-4536",
+  "content": "[[include :scp-wiki-cn:theme:black-highlighter-theme]]\n[[include :scp-wiki:component:betterfootnotes]]\n[[include :scp-wiki:component:collapsible-sidebar]]\n[[module CSS]]\n:root {\n    --fnColor: #f0cc00;\n}\n[[/module]]\n[[module CSS]]\n@import url('https://fonts.googleapis.com/css2?family=Lato&display=swap');\n:root {\n    --body-font: Lato, sans-serif;\n}\n[[/module]]\n[[include :scp-wiki-cn:component:anomaly-class-bar-source\n|lang= cn\n|item-number= 4536\n|clearance= 2\n|container-class= keter\n|secondary-class= none\n|disruption-class= keneq\n|risk-class= 待观察\n]]\n@@ @@\n[[div class=\"scp-image-block block-center\" style=\"width:100%;\"]]\n[[image http://scp-wiki.wdfiles.com/local--files/scp-4536/memphis.jpg style=\"width:200%;\" link=#]]\n[[div class=\"scp-image-caption\" style=\"width:100%;\"]]\nSCP-4536-1.\n[[/div]]\n[[/div]]\n**特殊收容措施：**SCP-4536目前被认为受限于SCP-4536-1中。由于其自身的异常性质，对SCP-4536的掩盖被认为是不必要的。所有从SCP-4536-1中移出SCP-4536和阻碍SCP-4536-1业务的尝试均以失败告终。\n\n基金会网络爬虫//Urchin.aic//将以狩猎和捕鱼为关键词进行搜索，以对SCP-4536-1出售的被认为具有明显异常的物品进行定位，基金会特工将对其进行回收并对相关人员进行记忆删除。物品贮藏于Site-64仓库中。\n\n**描述：**SCP-4536是一名拥有纳瓦血统的男性人形生物，自称其为阿兹特克的神奥波克利。[[span class=\"fnnum\"]].[[/span]][[span class=\"fncon\"]]阿兹特克的捕鱼、狩猎及航海之神。[[/span]]其大多时间为赤裸的，被黑色颜料覆盖，于脸部有大量装饰用羽毛，外观与阿兹特克人对奥波克利的描述相符合。SCP-4536有数个次要异常能力，包括：\n\n* 自发导致北纬20度以上地区降雨的能力[[span class=\"fnnum\"]].[[/span]][[span class=\"fncon\"]]认定为墨西哥城的“北部”。[[/span]]\n\n* 在SCP-4536周围10m范围内的哺乳动物将不由自主变为左利手\n\n* 具有微弱过滤作用的模因影响，导致未意识到SCP-4536的异常性质的人将认为其外观为正常的\n\n* 无法自SCP-5631-1范围内被移出，将于Big Cyprus Lodge[[span class=\"fnnum\"]].[[/span]][[span class=\"fncon\"]]**译注：**旅馆名，位于孟菲斯市中心的孟菲斯金字塔内。[[/span]]内的“外部国王”房间重新出现\n\n* 在SCP-4536-1内的捕鱼和狩猎用具销售异常成功\n\n* SCP-4536-1的所有权，尽管无次要证据证实其的购买\n\nSCP-4536-1为孟菲斯金字塔，包含餐厅、目标活动范围、旅馆及一名为“鲈鱼专业商店”的渔猎用具店铺。从表面上看，它属于孟菲斯市并出租给鲈鱼专业商店，然而双方目前都否认拥有其所有权，声称于2018年出售给“特拉洛克有限责任公司”。[[span class=\"fnnum\"]].[[/span]][[span class=\"fncon\"]]**译注：**特拉洛克为阿兹特克的雨神、水神、风暴之神。[[/span]]无该公司存在的进一步证据。\n\n**附录1：**从SCP-4536-1中回收的物品样本：\n\n\n||物品||异常作用||\n||Mitchell Tanger迷彩旋转混合鱼竿||初级研究员Max Jones使用了二十次鱼竿都只捕捉到//Micropterus salmoides//鱼。[[span class=\"fnnum\"]].[[/span]][[span class=\"fncon\"]]大嘴黑鲈[[/span]]发现鱼线可承受超出其一般能力的拉伸。||\n||22大口径温切斯特步枪||研究员Sarah Houlihan（无射击经验）始终在30m处命中目标，表现超出她公开表明的枪击技能的熟练程度。||\n||高级豪华吉利服||轻微的逆模因效应可使穿戴者在20米或20米以外的地方无法被他人所察觉。||\n||写着“//女人想要我@@   @@鱼儿恐惧我。//”的棒球帽||在8个小时的时间里，初级研究员Jones未能捕到任何鱼。研究员Houlihan因工作场所的不当行为而受到斥责。||\n\n**附录2：**与SCP-4536的访谈：\n\n\n[[div class=\"blockquote\"]]\n= //自2018年发现SCP-4536以来，基金会尝试联系SCP-4536的努力直到2021年3月4日方才取得成功。基金会特工Fabio Kuxim假扮成国税局人员与其接触。//\n\n-----------------\n\n**<记录开始>**\n\n= //特工Kuxim进入一个宽敞的房间，房间里有一扇落地窗和拥有30个座位的大圆桌。在场的只有特工Kuxim，和穿着黑色西服三件套、戴着一个上方插了几根绿色羽毛的纸质皇冠的SCP-4536 。//\n\n**特工Kuxim：**感谢您这么快就来参加我们的会议，您姓...\n\n**SCP-4536：**叫我奥波克利就好。\n\n**特工Kuxim：**奥波克利先生。那我就先问一些比较常规的问题。自从你拥有孟菲斯大厦以来，所报告的收入就以每月两位数增长。这太不正常了——是怎么回事？\n\n**SCP-4536：**我还能说些啥呢？人们喜欢捡起我所扔下的东西，而且游客也是真的来我这儿了。在巨金字塔里用餐可是个大卖点。\n\n**特工Kuxim：**游客？二月来的？\n\n= //SCP-4536显得有些紧张，来回踱步并保持沉默。//\n\n**特工Kuxim：**其实我们担心的是人们太爱你扔下的这堆东西了。你可知道——\n\n**SCP-4536：**所有东西都已经摆在明面上了，//朋友//[[span class=\"fnnum\"]].[[/span]][[span class=\"fncon\"]]**译注：**原文为icniuhtli，纳瓦特语。[[/span]]。一旦你到这种地步，你就不用花百万美金去把美国大金字塔买来去伪造数字了！\n\n**特工Kuxim：**那就是问题所在，奥波克利先生。老实说，我们甚至一点儿都不确定你是否把它买下来了。\n\n= //SCP-4536停下脚步盯着特工Kuxim。//\n\n**特工Kuxim：**记录显示，狩猎和捕鱼用具的销售量大幅增加。我想你应该知道为什么。\n\n**SCP-4536：**它们拥有我的神恩。\n\n**特工Kuxim：**你的神恩？\n\n**SCP-4536：**800年前，墨西卡人[[span class=\"fnnum\"]].[[/span]][[span class=\"fncon\"]]**译注：**阿兹特克人别称[[/span]]举行了一次仪式，我赋予他们从未设想过的技术。鱼叉、陷阱、渔网和独木舟。我养育他们，他们便支持我。时代走来，时代远逝，人们的愿望再也不仅仅是一支长矛。\n\n**特工Kuxim：**阿兹特克亡了，而现在已无人祭献奥波克利。\n\n**SCP-4536：**The Snakes and Coyoltlahtolli[[span class=\"fnnum\"]].[[/span]][[span class=\"fncon\"]]纳瓦特语为“土狼之舌”。阿兹特克城邦用来描述西班牙征服者的单词。[[/span]]也许于我的人民和他们的仪式之前来到这里。不再有萨满奉我之名为狩猎饮酒设宴，可是别搞错了。我依然顽强坚持。\n\n= //SCP-4536从特工Kuxim身边转过身来，面向窗户。//\n\n**SCP-4536：**现在美国人来到我的金字塔。我现在的//神庙//[[span class=\"fnnum\"]].[[/span]][[span class=\"fncon\"]]**译注：**原文为teocalli，特指阿兹特克人古神庙。[[/span]]。他们喝着啤酒，在我的屋檐下大吃大喝，祈祷能钓上一天的好鱼。你不可用圣经或硫磺和火药来结果一个//神//。只要还有一名墨西卡人呼吸，那么我就与他同在。\n\n**特工Kuxim：**我——\n\n**SCP-4536：**你可以滚了，Fabio。\n\n**<记录结束>**\n-------------\n\n= //进一步的沟通尝试没有成功。//\n[[/div]]\n\n[[footnoteblock]]\n\n[[div class=\"footer-wikiwalk-nav\"]]\n[[=]]\n<< [[[SCP-4535]]] | SCP-4536 | [[[SCP-4537]]] >>\n[[/=]]\n[[/div]]",
+  "tags": [
+    "2021连写竞赛",
+    "_海生",
+    "keter",
+    "scp",
+    "人形生物",
+    "宗教",
+    "建筑",
+    "感知力",
+    "智能",
+    "概率性",
+    "气象",
+    "活物",
+    "逆模因"
+  ],
+  "author": "The wind say",
+  "created_at": "2021-03-27T16:18:45+00:00",
+  "updated_at": "2021-04-12T13:35:24+00:00",
+  "rating": 2,
+  "_site": "scp-wiki-cn",
+  "_fullname": "scp-4536"
+}

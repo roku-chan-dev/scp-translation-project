@@ -1,0 +1,15 @@
+{
+  "title": "일본지부 11주년 행사 허브",
+  "content": "[[include info:start-standalone]]\n+* 11周年イベント・ハブ\n**원작:** http://scp-jp.wikidot.com/11thannivpages\n**저자:** SCP-JP 행사위원회\n**역자:** [[*user salamander724]]\n[[include info:end-standalone]]\n\n[[include :scp-jp:component:jstyles]]\n[[module css]]\n\n.contest{\n   font-weight: bold;\n   font-size: 180%;\n   padding-top: 40px;\n   padding-bottom: 40px;\n}\n\n.presenter{\n   font-size: 120%;\n}\n\n#page-content p {\n    line-height: 2;\n}\n\n[[/module]]\n\n[[=]]\n[[=image https://scp-jp-storage.wdfiles.com/local--files/file:3438721-317-r2lf/11th_banner.svg]]\n[[size 250%]]##midnightblue|**공식 경연 ＆ 캠페인**##[[/size]]\n----\n\n**//SHOGUN은 그쪽을 보고 있어라//**\n[[div style=\" background-color: #001F43;\"]]\n[[=image https://scp-jp-storage.wdfiles.com/local--files/file:4053112-150-jg9r/AF2024.png style=\"width: 25%; height: auto;\"]]\n[[/div]]\n**Round 0**\n[[span class=\"contest\"]][[[component:af2024theme|SCP 막부: 할복Seppuku 상투Chonmage 펑크Punk]]][[/span]]\n\n[[span class=\"presenter\"]]produced by AF-2024-JP 기획위원회, represented by [[*user seafield13]][[/span]]\n**4/1**\n\n----\n\n[[=image https://scp-jp-storage.wdfiles.com/local--files/file:6323156-8-wvp6/4%EF%BC%9A1.jpg]]\n**Round 1**\n[[span class=\"contest\"]][[[shinsei-contest-2024|]]][[/span]]\n\n[[span class=\"presenter\"]]produced by 11주년 기획위원회 (대표담당자: [[*user KABOOM1103]]）[[/span]]\n**04/29 - 06/30**\n\n**─ 샛별 블록 스타 부문 우승 ─**\n[[[scp-3055-jp|SCP-3055-JP - こ゚]]]\nby [[*user drikara]]\n\n**─ 샛별 블록 갤럭시 부문 우승 ─**\n[[[ocular-pergola|]]]\nby [[*user ocami]]\n\n**─ 샛별 블록 테라 부분 우승 ─**\n[[[fsf-levi|]]]\nby [[*user Poliknown2]]\n\n**─ 개밥바라기 블록 스타 부문 우승 ─**\n[[[aaa9879-s-proposal|]]]\nby [[*user AAA9879]]\n\n**─ 개밥바라기 블록 갤럭시 부문 우승 ─**\n[[[yamizushi-file-no3110|]]]\nby [[*user wavekey]]\n\n**─ 개밥바라기 블록 테라 부문 우승 ─**\n[[[girl-detective|]]]\n by [[*user Snowy-Yukinko]]\n\n----\n\n[[size 160%]]\n[[collapsible show=\"SCP-JP 11주년 행사위원회 \"hide=\"SCP-JP 11주년 행사위원회\" hideLocation=\"both\"]]\n[[/size]]\n[[size 80%]]**SCP-JP 11주년 행사・경연은\n이하 멤버들이 기획・운영하였습니다**[[/size]]\n[[<]]\n[[size 100%]]\n[[size 130%]]**행사상임위원**[[/size]]\n\n[[include :05command-ja:staff-list:event-standing-organizer-2024]]\n------\n[[size 130%]]**행사전임위원**[[/size]]\n\n[[span class=\"presenter\"]]**만우절 기획위원회**[[/span]]\n**기획위원장**\n[[*user kuronohanahana]]\n\n**기획위원**\n* [[*user hannyahara]]\n* [[*user Jiraku_Mogana]]\n* [[*user kaboom1103]]\n* [[*user meshiochislash]]\n* [[*user MikuKaneko]]\n* [[*user nanigashi sato]]\n* [[*user rui_take]]\n* [[*user seafield13]]\n* [[*user solvex]]\n* [[*user stengan774]]\n* [[*user teruteru_5]]\n\n[[/size]]\n\n[[/<]]\n[[size 160%]]\n[[/collapsible]][[/size]]\n\n[[/=]]",
+  "tags": [
+    "jp",
+    "경연",
+    "허브"
+  ],
+  "author": "Salamander724",
+  "created_at": "2024-09-27T14:53:44+00:00",
+  "updated_at": "2024-09-27T14:57:32+00:00",
+  "rating": 2,
+  "_site": "scpko",
+  "_fullname": "11thannivpages"
+}

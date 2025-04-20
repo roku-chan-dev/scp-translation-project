@@ -1,0 +1,13 @@
+{
+  "title": "Facilities Map Legend",
+  "content": "|||| {$legend} ||\n|| [[image https://scp-wiki.wdfiles.com/local--files/fragment%3Afacilities-map/template-site.png]] || {$site} ||\n|| [[image https://scp-wiki.wdfiles.com/local--files/fragment%3Afacilities-map/template-area.png]] || {$area} ||",
+  "tags": [
+    "fragment"
+  ],
+  "author": "Jerden",
+  "created_at": "2022-03-14T22:11:35+00:00",
+  "updated_at": "2022-03-14T22:13:42+00:00",
+  "rating": 0,
+  "_site": "scp-wiki",
+  "_fullname": "fragment:facilities-map-legend"
+}

@@ -1,0 +1,24 @@
+{
+  "title": "SCP-8425",
+  "content": "[[>]]\n[[module rate]]\n[[/>]]\n\n[!-- https://scp-wiki.wikidot.com/fragment:scp-8425-0--]\n[!-- https://scp-wiki.wikidot.com/fragment:scp-8425-1--]\n\n[[module ListPages  category=\"fragment\" parent=\".\" limit=\"1\" order=\"created_at\" offset=\"@URL|0\"]]\n%%content%%\n[[/module]]\n\n\n[[div class=\"footer-wikiwalk-nav\"]]\n[[=]]\n<< [[[SCP-8424]]] | SCP-8425 | [[[SCP-8426]]] >>\n[[/=]]\n[[/div]]\n\n[[include :scp-wiki:component:license-box]]\n\n=====\n> **Filename:** Starfallen\n> **Name:** Starfall\n> **Author:** Dawid Zawiła \n> **Source:** https://commons.m.wikimedia.org/wiki/File:Purple_starry_sky_(Unsplash).jpg\n> **License:** Creative Commons CC0 1.0\n\n=====\n\n[[include :scp-wiki:component:license-box-end]]",
+  "tags": [
+    "_listpages",
+    "co-authored",
+    "fifthist",
+    "horizon-initiative",
+    "infohazard",
+    "memetic",
+    "mind-affecting",
+    "pending",
+    "religious",
+    "scp",
+    "tactical-theology",
+    "uncontained"
+  ],
+  "author": "Letova",
+  "created_at": "2024-06-08T18:02:01+00:00",
+  "updated_at": "2024-12-15T10:42:21+00:00",
+  "rating": 27,
+  "_site": "scp-wiki",
+  "_fullname": "scp-8425"
+}

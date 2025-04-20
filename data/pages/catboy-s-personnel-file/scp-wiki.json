@@ -1,0 +1,14 @@
+{
+  "title": "Catboy's Personnel File",
+  "content": "**Name:** Edward \"Catboy\" Jones\n\n**Security Clearance:**  Level 2\n\n**Position:**  Researcher\n\n**Location:** Site-37\n\n**Information:**  Researcher Jones has been involved in the containment and research of the following SCPs:\n\n__Documented by Researcher Jones__:\n[[module ListPages created_by=\"catboy637\" separate=\"no\" limit=\"250\" perPage=\"250\" tags=\"scp, -joke\" order=\"title\"]]\n* %%title_linked%%\n[[/module]]\n\nResearcher Jones has also written the following incident reports and essays:\n\n__Written by Researcher Jones__:\n[[module ListPages created_by=\"catboy637\" separate=\"no\" limit=\"250\" perPage=\"250\" tags=\"tale\" order=\"title\"]]\n* %%title_linked%%\n[[/module]]\n\n[[collapsible show=\"Researcher Commentary\" hide=\"-\"]]\nSCP-1339 was my first addition to the site, and it was admittedly posted with very little feedback.  It was originally incredibly melodramatic, and basically hovered around +10 for a few days while I rewrote it.  I learned not to use watermarked images and to take criticism.\n\nSCP-1625 started as a story that was told differently every time, and it basically stayed just like that until I got some feedback.  The idea of having a reappearing corpse and missing persons was only added right before I posted.  \n\nSCP-1419 probably required the most research I've ever done for anything.  I'm fascinated by the Aztec and Maya religions, and I decided to try my hand at creating my own religions.  Each of the examples has a backstory in my head, and I'm still considering using them in a tale or something.\n\nLessons from History was a pet project.  It could use work.  Quite a bit of it.\n\nIf anybody ever tells you I wrote a 682-1548 rap battle, they are a liar and a bad person.\n[[/collapsible]]\n[[include :scp-wiki:component:license-box]]\n[[include :scp-wiki:component:license-box-end]]",
+  "tags": [
+    "_licensebox",
+    "author"
+  ],
+  "author": "catboy637",
+  "created_at": "2012-08-01T21:27:06+00:00",
+  "updated_at": "2022-10-22T12:13:18+00:00",
+  "rating": 6,
+  "_site": "scp-wiki",
+  "_fullname": "catboy-s-personnel-file"
+}

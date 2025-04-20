@@ -1,0 +1,17 @@
+{
+  "title": "Three of them!",
+  "content": "[[>]]\n[[module Rate]]\n[[/>]]\n\n[[include :scp-wiki:theme:black-highlighter-theme]]\n[[include :scp-wiki:theme:jakstyle]]\n\n[[div class=\"crom-thumbnail\" style=\"display: none;\"]]\n[[include component:image-block name=three-white-horses-tiny.png]]\n[[/div]]\n\n@@ @@\n\n\n[[image http://scp-wiki.wikidot.com/local--files/art:three-of-them/3-white-horses-tiny.png]]\n@@ @@\n\n[[image http://scp-wiki.wikidot.com/local--files/art:three-of-them/three-white-horses-tiny.png]]\n@@ @@\n\n[[image http://scp-wiki.wikidot.com/local--files/art:three-of-them/white-horse-tiny.png]]\n\n@@ @@\n@@ @@\n@@ @@\n\n+ [https://scp-wiki.wikidot.com/scp-7003 Three of them!]\n\n@@ @@\n@@ @@\n@@ @@\n@@ @@\n[https://scp-wiki.wikidot.com/fairydoctor-folio More from fairydoctor]\n\n@@ @@\n\n[[include :scp-wiki:component:license-box]]\n=====\n> **Filename:** 3-white-horses-tiny.png, three-white-horses-tiny.png, white-horse-tiny.png\n> **Author:** [[*user fairydoctor]]\n> **License:** CC BY-SA 3.0\n> **Source Link:** [https://scp-wiki.wikidot.com/art:three-of-them SCP Foundation Wiki]\n=====\n[[include :scp-wiki:component:license-box-end]]",
+  "tags": [
+    "_cc",
+    "_licensebox",
+    "artwork",
+    "scp-art",
+    "sketched"
+  ],
+  "author": "fairydoctor",
+  "created_at": "2022-08-24T01:16:21+00:00",
+  "updated_at": "2024-03-28T19:49:49+00:00",
+  "rating": 18,
+  "_site": "scp-wiki",
+  "_fullname": "art:three-of-them"
+}

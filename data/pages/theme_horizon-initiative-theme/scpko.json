@@ -1,0 +1,14 @@
+{
+  "title": "지평선 구상 테마",
+  "content": "[[module CSS]]\n@import url(https://scpko.wdfiles.com/local--code/theme%3Ahorizon-initiative-theme/1)\n[[/module]]\n\n[[iftags +테마]]\n\n[[>]]\n[[module Rate]]\n[[/>]]\n\n이 테마를 이용하고 싶으신가요? 아래를 여러분 페이지 어딘가에 넣으세요.\n> @@[[include :scpko:theme:horizon-initiative-theme]]@@\n\n----\n[[code type=\"css\"]]\n/*\n    Horizon Initative Theme\n    [2018 Wikidot Theme]\n    Created by ROUNDERHOUSE, with help from Uncle Nicolini, Stormbreath, and Croquembouche.\n    Based on SCP Sigma 9 Theme created by Aelanna and Dr Devan, and Aces and Eights theme created by Stormbreath.\n    Icons by Jay Shead (MingoMongo), based off : https://www.deviantart.com/mingomongo/art/SCP-The-Horizon-Initiative-Simple-Logo-750830326 . Cropped and recolored by Rounderhouse. Licensed under CC BY SA 3.0\n*/\n\n@import url(https://scp-wiki.wdfiles.com/local--code/theme%3Ahorizon-initiative-theme/1);\n\n@import url('https://scpko.wdfiles.com/local--files/korean-font/HSBombaram.css');\n\n#header h1 a::before {\n    content: \"지평선 구상\";\n    font-family: 'Kumar One', 'HSBombaram', cursive;\n}\n\n#header h2:after {\n    content: \"하나님께서 보시는 바\";\n}\n\n/* Info module fix */\n.rate-box-with-credit-button {\n    background: #282e48 !important;\n    border: 1px solid #d4af37 !important;\n    border-radius: 10px !important;\n}\n\n.rate-box-with-credit-button * {\n    border: none !important;\n} \n\n.rate-box-with-credit-button .page-rate-widget-box .cancel a:hover {\n    border-radius: 0;\n}\n[[/code]]\n\n[[/iftags]]",
+  "tags": [
+    "en",
+    "테마"
+  ],
+  "author": "Salamander724",
+  "created_at": "2020-04-09T22:27:55+00:00",
+  "updated_at": "2021-08-21T10:55:51+00:00",
+  "rating": 0,
+  "_site": "scpko",
+  "_fullname": "theme:horizon-initiative-theme"
+}

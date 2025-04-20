@@ -1,0 +1,17 @@
+{
+  "title": "O5-GOC",
+  "content": "[[module css]]\n.scp-image-block {display:none};\n[[/module]]\n[[include :scp-int:o5-goc]]\n\n[[include :scp-wiki:component:license-box\n|author=Fluxman and Migueledom]]\n[!-- N/A (No Images)  --]\n[[include :scp-wiki:component:license-box-end]]",
+  "tags": [
+    "_ko",
+    "_licensebox",
+    "global-occult-coalition",
+    "international",
+    "tale"
+  ],
+  "author": "fluxman",
+  "created_at": "2022-05-07T00:01:42+00:00",
+  "updated_at": "2022-06-01T17:33:41+00:00",
+  "rating": 48,
+  "_site": "scp-wiki",
+  "_fullname": "o5-goc"
+}

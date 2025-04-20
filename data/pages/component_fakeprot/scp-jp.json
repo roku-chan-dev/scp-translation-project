@@ -1,0 +1,14 @@
+{
+  "title": "Fakeprot",
+  "content": "[[module css]]\n.fakeprot .mailform-box .buttons {\n  display: none;\n}\n.collapsiblealt .collapsible-block-link {\n  padding: 0.1em 0.5em;\n  text-decoration: none;\n  background-color: #f4f4f4;\n  border: 1px solid #aaaaaa;\n  color: #000000;\n}\n.collapsiblealt .collapsible-block-link:hover {\n  background-color: #dddddd;\n  color: #000000;\n}\n.collapsiblealt .collapsible-block-link:active {\n  background-color: #dddddd;\n  color: #000000;\n}\n.collapsiblealt .collapsible-block-unfolded-link {\n  margin: 0.5em 0;\n  text-align: center;\n}\n.collapsiblealt .collapsible-block-folded {\n  margin: 0.5em 0;\n  text-align: center;\n}\n.fakeprot .passw input[type=text] {\n          text-security: disc;\n  -webkit-text-security: disc;\n  -mox-text-security: disc;\n}\n[[/module]]\n[[div class=\"fakeprot\"]]\n[[module MailForm to=\"aaaaアイウエオ（ダミー用）\" button=\"\" title=\"入力\"]]\n# name\n * title: 職員コード\n * default: {$name}\n * type: text\n * rules:\n  * required: true\n  * maxLength:10\n  * minLength: 100\n[[/module]]\n[[div class=\"passw\"]]\n[[module MailForm to=\"aaaaアイウエオ（ダミー用）\" button=\"\" title=\"入力\"]]\n# affiliation\n * title: パスワード\n * default: ・・・・・・・・・\n * rules:\n  * required: true\n  * maxLength:10\n  * minLength: 100\n[[/module]]\n[[/div]]\n[[/div]]",
+  "tags": [
+    "jp",
+    "コンポーネント"
+  ],
+  "author": "R74",
+  "created_at": "2022-07-22T08:26:30+00:00",
+  "updated_at": "2022-07-22T08:26:47+00:00",
+  "rating": 3,
+  "_site": "scp-jp",
+  "_fullname": "component:fakeprot"
+}

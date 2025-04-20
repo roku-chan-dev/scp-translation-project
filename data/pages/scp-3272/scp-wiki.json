@@ -1,0 +1,20 @@
+{
+  "title": "SCP-3272",
+  "content": "[[include theme:black-highlighter-theme]]\n[[include :scp-wiki:component:bhl-dark-sidebar]]\n[[module CSS]]\n:root{\n--cutColour: #fafafa;\n--barColour: #590505;\n}\n\n.info-container .collapsible-block-folded a{\ncolor: #FFF;}\n.info-container .collapsible-block-unfolded-link a{\ncolor: #FFF;}\n\n.translation_block{\ndisplay:none;}\n[[/module]]\n[[include info:start]]\n**SCP-3272:** It's Rainin' Men, HALLELUJAH!\n**Author:** [[*user TheMightyMcB]]\n**More By This Author:**\n* http://www.scp-wiki.net/themightymcb-s-author-page\n**Special thanks to:**\n[[*user MaliceAforethought]], [[*user Crashington]], [[*user Gee0765]], [[*user T Rutherford]], [[*user Veiedhimaedhr]], [[*user Ihp]], [[*user Jekeled]], [[*user Pr10r]], [[*user Swaghetti]], [[*user Rattles]], and [[*user Roget]].\n[[collapsible show=\"+ Image Attribution\" hide=\"- Image Attribution\"]]\nhttps://commons.wikimedia.org/wiki/File:Shooting_Star.jpg (CC-BY-SA 4.0)\nhttps://commons.wikimedia.org/wiki/File:ICanalFranceroadPortcranes5June06.jpg#mw-jump-to-license (CC-BY-SA 3.0)\n[[/collapsible]]\n[[include info:end]]\n\n[[module ListPages category=\"fragment\" parent=\".\" order=\"created_at\" limit=\"1\" offset=\"@URL|0\"]]\n%%content%%\n[[/module]]\n\n[[div class=\"footer-wikiwalk-nav\"]]\n[[=]]\n<< [[[SCP-3271]]] | SCP-3272 | [[[SCP-3273]]] >>\n[[/=]]\n[[/div]]\n\n[[include :scp-wiki:component:license-box]]\n=====\n> **Filename:** Shooting_Star.jpg\n> **Name:** Shooting Star.jpg\n> **Author:** Ramesh Kumar R\n> **License:** CC BY-SA 4.0 International\n> **Source Link:** https://commons.wikimedia.org/wiki/File:Shooting_Star.jpg\n> **Derivative of:** \n> **Additional Notes:** \n\n> **Filename:** Porta_Potty.jpg\n> **Name:** ICanalFranceroadPortcranes5June06.jpg\n> **Author:**  Infrogmation\n> **License:** CC BY-SA 2.0 Generic\n> **Source Link:** https://commons.wikimedia.org/wiki/File:ICanalFranceroadPortcranes5June06.jpg#mw-jump-to-license\n> **Derivative of:** \n> **Additional Notes:** \n\n=====\n[[include :scp-wiki:component:license-box-end]]\n\n[!-- For translators, here is a direct link to each iteration. --]\n[!-- http://www.scp-wiki.net/fragment:scp-3272-0 --]\n[!-- http://www.scp-wiki.net/fragment:scp-3272-1 --]\n[!-- To make ListPages work correctly, make this main page first, then upload the first iteration and set its parent to the first page. Repeat that for each iteration. Remember to change the offset links at the bottom of each iteration to the correct link for the new pages you have created. --]",
+  "tags": [
+    "_cc",
+    "_licensebox",
+    "_listpages",
+    "artifact",
+    "electronic",
+    "safe",
+    "scp",
+    "temporal"
+  ],
+  "author": "TheMightyMcB",
+  "created_at": "2019-09-11T19:38:52+00:00",
+  "updated_at": "2021-07-30T17:39:18+00:00",
+  "rating": 318,
+  "_site": "scp-wiki",
+  "_fullname": "scp-3272"
+}

@@ -1,0 +1,13 @@
+{
+  "title": "Components BHL",
+  "content": "@@ @@\n@@ @@\n++ Black Highlighter (BHL)\n@@ @@\n@@ @@\n\n[[=]]\n----\n+++ [[size 125%]]📎[[/size]][[[component:centered-header-bhl | Centered Header BHL]]]\n----\n[[/=]]\n\n[[=image http://lspr.wikidot.com/local--files/components-hub/centeredheaderbhl.png]]\n\n\nThis component centres the image on the page it is used on. It is highly recommended you use this [[[component:toggle-sidebar-bhl | Toggle Sidebar]]] or [[[component:collapsible-sidebar | Collapsible Sidebar]]]. Paste the following somewhere on your page:\n\n> @@[[include :scp-wiki:component:centered-header-bhl]]@@\n\n@@ @@\n[[=]]\n----\n+++ [[size 125%]]📎[[/size]][[[component:djk | DJK]]]\n----\n[[/=]]\n\n[[image https://i.imgur.com/8NGSYoT.png]]\n\nThis component is a personal styling component for [[*user djkaktus]]. To use it, paste the following:\n\n> @@[[include :scp-wiki:component:djk]]@@\n\n@@ @@\n[[=]]\n----\n+++ [[size 125%]]📎[[/size]][[[component:toggle-sidebar-bhl | Toggle Sidebar BHL]]]\n----\n[[/=]]\n\nThis component hides the sidebar behind a button on desktop, similar to how it is on the mobile version. To use it, paste the following somewhere on your page:\n\n> @@[[include :scp-wiki:component:toggle-sidebar-bhl]]@@\n\nIf you want, you can also style the button so it matches any custom themes you may be using. If so, paste the following //after// the [[include]]:\n\nYou can see this component in action on this very page!\n\n@@ @@\n[[=]]\n----\n+++ [[size 125%]]📎[[/size]][[[component:bhl-dark-sidebar | BHL Dark Sidebar]]]\n----\n[[/=]]\n\nThis component reverts the BHL sidebar to the very first one, giving it a darker tone. To use it, paste the following somewhere on your page:\n\n> @@[[include :scp-wiki:component:bhl-dark-sidebar]]@@\n\nYou can see this component in use in the [[[theme:swirling-ashes | Swirling Ashes Theme]]].\n\n@@ @@\n[[=]]\n----\n+++ [[size 125%]]📎[[/size]][[[component:rso | RSO Component]]]\n----\n[[/=]]\n\nThis component is a personal styling component for [[*user Rounderhouse]]. To use it, paste the following on your page:\n\n> @@[[include :scp-wiki:component:rso]]@@\n\nThis component is regularly updated and altered by Rounderhouse to implement CSS changes on his articles. Thus, it is not recommended you use it unless you're A) Rounderhouse or B) okay with your page occasionally breaking.\n\n@@ @@\n------\n------",
+  "tags": [
+    "fragment"
+  ],
+  "author": "TopDownUnder",
+  "created_at": "2021-11-07T15:13:28+00:00",
+  "updated_at": "2025-03-30T19:23:45+00:00",
+  "rating": 0,
+  "_site": "scp-wiki",
+  "_fullname": "fragment:components-bhl"
+}

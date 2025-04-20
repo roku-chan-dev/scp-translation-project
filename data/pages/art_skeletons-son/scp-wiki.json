@@ -1,0 +1,19 @@
+{
+  "title": "But When the Skeletons Come To the Door",
+  "content": "[[include :scp-wiki:theme:monotypical]]\n\n[[module css]]\n:root {\n    --linkColor: #FF4838;\n\n    --primaryBackgroundColor: #242935;\n    --secondaryBackgroundColor: #3F4256;\n    --tertiaryBackgroundColor: #809EB2;\n    --borderColor: #6272A4;\n\n    --shadow: rgba(96,213,248,0.3);\n\n    --selectionColor: #50FA7B;\n    --textColor: #F8F8F2;\n    --textColor-alt: #6272A4;\n}\n::-webkit-scrollbar-track {\n    background: var(--secondaryBackgroundColor);\n}\n[[/module]]\n\n[[>]]\n[[module rate]]\n[[/>]]\n[[include :scp-wiki:component:author-label-source start=--\n|name=EstrellaYoshte]]\n\n[[[estrellayoshte|My Authorpage]]]\n\n[[[desk-of-junior-designer-s-yvonne|My Icon Artdesk]]]\n[[[art:estrella-illustration-desk|The Other Artdesk]]]\n[[include :scp-wiki:component:author-label-source end=--]]\n\n[[div class=\"meta-title\"]]\nBut When the Skeletons Come To the Door\n[[/div]]\n\n[[image https://i.imgur.com/F3uMcno.jpg]]\n\n------\n\nMy visualization of [[*user Ralliston]] and [[*user trotskyeet]]'s [[[SCP-5572]]]. I know the big guy probably isn't a skeleton, but I choose to exercise my creative rights :P\n\n[[include :scp-wiki:component:license-box]]\n=====\n> **Filename:** F3uMcno.jpg\n> **Author:** [[*user EstrellaYoshte]]\n> **License:** CC BY-SA 4.0\n> **Source Link:** [https://imgur.com/F3uMcno Imgur]\n> **Derivative of the following:**\n----\n\n> **Name:** Grjótagjá caves near Mývatn lake, Iceland.\n> **Author:** Chmee2\n> **License:** CC 3.0\n> **Source Link:** [https://commons.wikimedia.org/wiki/File:Grj%C3%B3tagj%C3%A1_caves_in_summer_2009_(2).jpg Wikimedia Commons]\n\n> **Name:** Rocky ground on low ridge south-east of Cnap na Feola above Strathconon\n> **Author:** ian shiell\n> **License:** CC BY-SA 2.0\n> **Source Link:** [https://commons.wikimedia.org/wiki/File:Rocky_ground_on_low_ridge_south-east_of_Cnap_na_Feola_above_Strathconon_-_geograph.org.uk_-_2978211.jpg Wikimedia Commons]\n\n> **Name:** Dülmen, Wildpark -- 2014 -- 7858\n> **Author:** Dietmar Rabich\n> **License:** CC BY-SA 4.0\n> **Source Link:** [https://commons.wikimedia.org/wiki/File:D%C3%BClmen,_Wildpark_--_2014_--_7858.jpg Wikimedia Commons]\n\n> **Name:** The well at Rhuddlan Castle\n> **Author:** Jeff Buck\n> **License:** CC BY-SA 2.0\n> **Source Link:** [https://commons.wikimedia.org/wiki/File:The_well_at_Rhuddlan_Castle_-_geograph.org.uk_-_2566717.jpg Wikimedia Commons]\n\n\n> **Name:** Omarama Clay Cliffs\n> **Author:** Bernard Spragg. NZ\n> **License:** CC0\n> **Source Link:** [https://commons.wikimedia.org/wiki/File:Omarama_Clay_Cliffs.jpg Wikimedia Commons]\n\n> **Name:** Externsteine High Resolution\n> **Author:** Tuxyso\n> **License:** CC BY-SA 3.0\n> **Source Link:** [https://commons.wikimedia.org/wiki/File:Externsteine_High_Resolution_v2_2015.jpg Wikimedia Commons]\n\n> **Name:** Pillared Barn\n> **Author:** Neil Theasby\n> **License:** CC BY-SA 2.0\n> **Source Link:** [https://commons.wikimedia.org/wiki/File:Pillared_Barn.jpg Wikimedia Commons]\n\n> **Name:** Two-handed Highland sword\n> **Author:** Halflang\n> **License:** CC BY-SA 3.0\n> **Source Link:** [https://commons.wikimedia.org/wiki/File:Two-handed_Highland_sword.JPG Wikimedia Commons]\n=====\n[[include :scp-wiki:component:license-box-end]]",
+  "tags": [
+    "_cc",
+    "_licensebox",
+    "artwork",
+    "from-120s-archives",
+    "marie-surratt",
+    "painted",
+    "scp-art"
+  ],
+  "author": "EstrellaYoshte",
+  "created_at": "2022-01-18T16:33:52+00:00",
+  "updated_at": "2024-03-28T11:42:48+00:00",
+  "rating": 67,
+  "_site": "scp-wiki",
+  "_fullname": "art:skeletons-son"
+}

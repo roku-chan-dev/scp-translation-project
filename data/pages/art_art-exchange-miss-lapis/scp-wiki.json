@@ -1,0 +1,20 @@
+{
+  "title": "Art Exchange (Miss Lapis)",
+  "content": "[[include :scp-wiki:theme:black-highlighter-theme]]\n[[include :scp-wiki:theme:midnight-rush]]\n\n[[>]]\n[[module Rate]]\n[[/>]]\n\n[[=]]\n[[include component:image-block\n| name=ARTE.png\n| caption=Merry Christmas! Art Exchange gift for Miss Lapis Hope you like it!\n| width=2000x2500\n| align=center]]\n[[/=]]\n\n[[collapsible show=\"+ Bonus\" hide=\"- Close\"]]\n[[image Stickers.png]]\n[[image Sticker.png]]\n>\n> \n[[/collapsible]]\n\n _\n\n[[include :scp-wiki:component:license-box]]\n> **Filename:** All images\n> **Author:** [[*user MasonFlores]]\n> **License:** CC BY-SA 3.0\n> **Source Link:** [https://scp-wiki.wikidot.com/art:art-exchange-miss-lapis SCP Foundation Wiki]\n[[include :scp-wiki:component:license-box-end]]",
+  "tags": [
+    "_cc",
+    "_licensebox",
+    "art-exchange",
+    "artwork",
+    "broken-god",
+    "goi-art",
+    "painted",
+    "saint-hedwig"
+  ],
+  "author": "MasonFlores",
+  "created_at": "2024-12-28T14:15:55+00:00",
+  "updated_at": "2025-02-23T06:08:42+00:00",
+  "rating": 23,
+  "_site": "scp-wiki",
+  "_fullname": "art:art-exchange-miss-lapis"
+}

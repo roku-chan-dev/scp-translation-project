@@ -1,0 +1,14 @@
+{
+  "title": "녹의44 테마",
+  "content": "[[iftags +테마]]\n[[include :scpko:info:start]]\n**녹의44 테마 (綠意44 外觀主題)**\n\n**제작:** [[*user Dr V Valentine]]\n**번역:** [[*user thd-glasses]]\n[[include :scpko:info:end]]\n[[/iftags]]\n\n[[module CSS]]\n@import url('https://scpko.wdfiles.com/local--code/component:site-zh-44/1');\n[[/module]]\n\n[[module CSS]]\ndiv#container-wrap {\n    background-image: url(https://scpko.wdfiles.com/local--files/component%3Asite-zh-44/BFzfQcr.png);\n}\ndiv#header {\n    background-image: url(https://scpko.wdfiles.com/local--files/component%3Asite-zh-44/95PTzvX.png);\n}\ndiv.open-menu a {\n    color: rgb(59, 125, 25)!important;\n    border-color: rgb(59, 125, 25)!important;\n}\n\n[[/module]]",
+  "tags": [
+    "zh",
+    "테마"
+  ],
+  "author": "thd-glasses",
+  "created_at": "2024-09-09T19:57:41+00:00",
+  "updated_at": "2024-09-13T10:55:04+00:00",
+  "rating": 1,
+  "_site": "scpko",
+  "_fullname": "component:site-zh-44"
+}

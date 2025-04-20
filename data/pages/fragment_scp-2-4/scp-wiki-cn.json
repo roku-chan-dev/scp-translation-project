@@ -1,0 +1,13 @@
+{
+  "title": "SCP-2",
+  "content": "[[module css]]\n#page-title {\n  display: none;\n}\n\n.typeborder{\nborder: 1px solid rgba(180,180,180,1);\npadding: 4px 150px 4px 4px;\nfont-size: 1.2em;\nfont-weight: bold;\n}\n[[/module]]\n\n+ 創建新頁面\n頁面標題：**[[span class=\"typeborder\"]]##black|關於 SCP-2 的說明##[[/span]]**\n\n[[div style=\"display: inline-block; border: solid 1px #444444; background: #bdd5fc; margin-left: auto; margin-right: auto; width: auto; padding: 10px; color: black;\"]]\n= **研究員說明**\n[[div style=\"border-bottom: 1px solid black;\"]]\n[[/div]]\n為了減輕您的疑慮，\n\n不，SCP-2 不是利用已死之神的無限力量供應來消除迅速發展的全球能源危機的嘗試。不，這不是為了獲得攻擊流氓相關組織的立足點而進行的隱蔽黑色軍事行動。還有不，它不是基金會的最低谷，那種我們在一塊岩石下發現了某種我們不應注目，並且它將奴役我們所有人的東西。\n\n這只是網路中的一些愚蠢錯誤。就是這樣。我發誓。我為什麼要批准 SCP-2 編號？你把我當成無可救藥的白痴嗎？拜託。停止試圖訪問它；它不存在，這些查詢對網路造成了一些巨大負擔，我不想每天都處理這個。\n\n我打算吃一片 Tylenol 來解決我的緊張性頭痛，喝點茶，然後也許開始研究困擾著我的收件箱的這些永無止境積壓的技術問題。\n\n如果你聽到尖叫，你就會明白為什麼。\n[[div style=\"border-bottom: 1px solid black;\"]]\n[[/div]]\n[[>]]\n-- 技術研究員 Rosen\n[[/>]]\n[[/div]]\n@@ @@\n@@ @@\n@@ @@\n@@ @@\n@@ @@\n----\n@@ @@\n@@ @@\n@@ @@\n@@ @@\n@@ @@\n[[div style=\"display: inline-block; border:solid 1px #444444; background:#ffffff; float:top; width:96.5%; padding:10px\"]]\n= **事故報告 S-42-2018-10-22**\n----\n在美國東部時間 10 月 22 日 09:15，Site-42 在北卡羅萊納州海岸附近大約 3 公里處檢測到奇術擾動。在擾動顯現後，導致了 2 小時的天氣異常，最終出現直徑 22 公分的蟲洞。反應小組因為試圖重新收容 SCP-████，而無法及時派遣至蟲洞。\n\n事件開始 5 小時後，Site-42 經歷了大規模電壓過載。站點指揮部發現過載起源於 AIAD 模擬空間投影 (Simulspace Projection) 翼樓。當時並未安排使用模擬空間投影翼樓。在進行全站點調查時，該站點以與蟲洞相同的強度輻射奇術能量，持續 2 秒，其後站點失去電力。\n\n在緊急發電機啟動後，奇術擾動停止。檢驗小組沒有收集到進一步的情報。\n[[/div]]\n@@ @@\n@@ @@\n@@ @@\n@@ @@\n@@ @@\n[[=]]\n[[div style=\"display: inline-block; border: dashed 1px #444444; background:#F5F5F5; margin-left: auto; margin-right: auto; width: 380px; padding: 10px; color: black;\"]]\n你的誓言全數破滅\n聲名輕浮隨便\n我聽他人提起你的名\n\n**弍貳**與我同感羞愧\n[[/div]]\n[[/=]]",
+  "tags": [
+    "段落"
+  ],
+  "author": "feitag",
+  "created_at": "2018-12-12T15:58:39+00:00",
+  "updated_at": "2024-04-27T19:35:26+00:00",
+  "rating": 0,
+  "_site": "scp-wiki-cn",
+  "_fullname": "fragment:scp-2-4"
+}

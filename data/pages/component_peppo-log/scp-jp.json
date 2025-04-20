@@ -1,0 +1,14 @@
+{
+  "title": "component:peppo-log",
+  "content": "[[iftags +コンポーネント]]\n\n+ ページソースからコードを確認してください。\n[[/iftags]]\n\n[[module CSS]]\n.borderstylz {\n    border: 1px solid #888;\n    padding: 0.3em 0.7em;\n    background-color: #EEE;\n}\n\n.cellstylz {\n    border: 1px solid #888;\n    padding: 0.7em;\n    text-align:center;\n}\n\n.cellstylz2 {\n    border: 1px solid #888;\n    padding: 0.7em;\n}\n[[/module]]\n[[table style=\"border-collapse:collapse; margin: 0px auto 30px auto;\"]]\n[[row]]\n[[hcell class=\"borderstylz\"]]\n**実験番号**\n[[/hcell]]\n[[hcell class=\"borderstylz\"]]\n**被験者**\n[[/hcell]]\n[[hcell class=\"borderstylz\"]]\n**年齢**\n[[/hcell]]\n[[hcell class=\"borderstylz\"]]\n**性別**\n[[/hcell]]\n[[/row]]\n[[row]]\n[[cell class=\"cellstylz\"]]\n{$test}\n[[/cell]]\n[[cell class=\"cellstylz\"]]\n{$name}\n[[/cell]]\n[[cell class=\"cellstylz\"]]\n{$age}\n[[/cell]]\n[[cell class=\"cellstylz\"]]\n{$sex}\n[[/cell]]\n[[/row]]\n[[row]]\n[[hcell class=\"borderstylz\" colspan=\"4\"]]\n手法\n[[/hcell]]\n[[/row]]\n[[row]]\n[[cell class=\"cellstylz2\" colspan=\"4\"]]\n{$method}\n[[/cell]]\n[[/row]]\n[[row]]\n[[hcell class=\"borderstylz\" colspan=\"4\"]]\n結果\n[[/hcell]]\n[[/row]]\n[[row]]\n[[cell class=\"cellstylz2\" colspan=\"4\"]]\n{$result}\n[[/cell]]\n[[/row]]\n[[/table]]",
+  "tags": [
+    "en",
+    "コンポーネント"
+  ],
+  "author": "R74",
+  "created_at": "2024-01-03T11:37:07+00:00",
+  "updated_at": "2024-06-21T08:26:12+00:00",
+  "rating": 9,
+  "_site": "scp-jp",
+  "_fullname": "component:peppo-log"
+}

@@ -1,0 +1,19 @@
+{
+  "title": "SCP-2581-JP",
+  "content": "[[include :scpko:credit:start]]\n[[=]]\n+ ##black|SCP-2581-JP##\n++ ##black|귀엽게 찍어줘☆(可愛く撮ってね☆)##\n[[/=]]\n**저자:** ©︎[[*user SuamaX]]\n**원작:** http://scp-jp.wikidot.com/scp-2581-jp\n**역자:** [[*user Canonkart]]\n[[include :scpko:credit:end]]\n**일련번호:** SCP-2581-JP\n\n**등급:** 유클리드\n\n[[include component:image-block\nname=http://scp-jp-storage.wdfiles.com/local--files/file%3A5585175-1-sf0r/3D2776B1-448A-4284-A62C-37C1FB32A3C1.jpeg|\ncaption=SCP-2581-JP가 SNS에 게시한 사진. SCP-2581-JP의 변칙성으로 인해 배경이 뒤틀렸다.|\n]]\n**특수 격리 절차:** SCP-2581-JP는 표준 인간형 개체 격리실에 격리한다. 감시 카메라 등의 촬영기기를 사용하는 것은 변칙성을 발생시키므로 눈으로만 SCP-2581-JP의 상태를 감시한다.\n\n**설명:** SCP-2581-JP는 23세의 일본인 여성[[footnote]]본명: 사이타 리나[[/footnote]]이다. 어떠한 기기를 사용해 SCP-2581-JP가 주요한 피사체가 되도록 촬영할 경우 사진에서 SCP-2581-JP의 머리 부분 면적이 감소하도록 SCP-2581-JP와 촬영기기 사이에 I급 정도의 공간 왜곡이 발생한다.\n\n이 공간 왜곡으로 인해 공기가 왜곡되어 부분적으로 빛의 굴절률이 변화해, 결과적으로 촬영기기에서 출력되는 SCP-2581-JP의 머리부분 면적이 실제 SCP-2581-JP에 비해 10~25% 정도 축소된다. 이 공간 왜곡은 SCP-2581-JP가 비치는 각도나 표정에 따라 항상 상태가 변화하므로 촬영기기에서 출력된 SCP-2581-JP의 사진을 편집해 변칙성으로 인한 보정을 제거하는 시도는 현실적이지 않다.\n\n**발견 기록:** 발견 당시 SCP-2581-JP는 인스타그램 라이브 기능을 이용해 셀프 카메라 생중계를 하고 있었다. SCP-2581-JP의 변칙성으로 인해 상시 자동으로 보정되는 것처럼 보이는 라이브 영상이 인터넷 상에서 화제가 되었으며 재단 웹크롤러에게 포착되었다. SCP-2581-JP가 방송한 동영상은 인터넷상에 널리 퍼져있었으므로 SCP-2581-JP 확보 후 역정보 \"애플리케이션 선전\"이 적용되었고 사후처리는 재단 위장기업에 위탁하였다.\n\nSCP-2581-JP는 이 변칙성에 대해 자각을 지니고 있으며, SCP-2581-JP 스스로 제어는 불가능하지만 방송 및 SNS 사진 게시에 의도적으로 변칙성을 이용했다는 취지의 주장을 하고 있다.\n\n**부록:** 격리 중 SCP-2581-JP가 지속해서 메스꺼움 등의 신체적 고통을 호소함에 따라 SCP-2581-JP의 건강 진단이 실시되었다. 이하는 진단 결과이다.\n\n[[collapsible show=\"첨부 파일: SCP-2581-JP 진단 결과\" hide=\"파일을 닫기\"]]\n[[include component:image-block\nname=http://scp-jp-storage.wdfiles.com/local--files/file%3A5585175-2-wa4d/4379E1A2-6FEE-48E3-9EC0-AAB2A704842C.jpeg|\ncaption=SCP-2581-JP의 머리 MRI 사진.|\n]]\nMRI를 사용해 검사한 결과 SCP-2581-JP의 머리에서 종양이 발견되었다. 외과수술로 제거하는 것을 통해 SCP-2581-JP의 상태를 회복시킬 수 있을 것으로 추측되지만 출력되는 사진이 SCP-2581-JP의 머리와 전혀 일치하지 않아 정확한 종양의 위치를 파악하는 데 실패했다. 이는 SCP-2581-JP의 변칙성으로 인한 공간왜곡 때문에 핵자기공명신호가 정상적으로 수신되지 못했기 때문으로 추측된다.\n\n현재 SCP-2581-JP 격리팀 및 의료부에서 SCP-2581-JP의 머리에 존재하는 종양의 정확한 위치를 측정하는 방법을 검토하고 있다.\n[[/collapsible]]\n[[footnoteblock]]",
+  "tags": [
+    "2021-주먹다짐경연-jp",
+    "jp",
+    "scp",
+    "빛",
+    "사진술",
+    "유클리드",
+    "인간형"
+  ],
+  "author": "Canonkart",
+  "created_at": "2022-12-11T12:30:38+00:00",
+  "updated_at": "2024-11-02T04:46:39+00:00",
+  "rating": 11,
+  "_site": "scpko",
+  "_fullname": "scp-2581-jp"
+}

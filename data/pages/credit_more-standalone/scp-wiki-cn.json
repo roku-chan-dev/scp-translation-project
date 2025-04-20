@@ -1,0 +1,13 @@
+{
+  "title": "credit:more-standalone",
+  "content": "[[/div]]\n------\n[[div class=\"credit\" style=\"text-align:center; margin-top: 0.5em;\"]]\n[[a href=\"#u-credit-otherwise\"]]更多[[/a]]\n[[/div]]\n[[/div]]\n[[/div]]\n[[/div]]\n[[div id=\"credit-otherwise\"]]\n[[div class=\"fader\"]]\n[[iframe https://scp-wiki-cn.wdfiles.com/local--code/credit%3Abackmodule/3 ]]\n[[/div]]\n[[div class=\"modalcontainer\"]]\n[[div class=\"modalbox\"]]\n[[=]]\n++* 更多\n[[/=]]\n------\n[[div class=\"credit otherwise\"]]",
+  "tags": [
+    "组件"
+  ],
+  "author": "Sekai_s",
+  "created_at": "2018-11-17T18:11:32+00:00",
+  "updated_at": "2021-08-07T01:45:18+00:00",
+  "rating": 0,
+  "_site": "scp-wiki-cn",
+  "_fullname": "credit:more-standalone"
+}

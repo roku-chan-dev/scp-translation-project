@@ -1,0 +1,23 @@
+{
+  "title": "SCP-7072",
+  "content": "[[include :scp-wiki:theme:blankstyle]]\n\n[[module CSS]]\n:root{\n  --header-title: \"S\\0026 D SITE-43\";\n  --header-subtitle: \"SUBSISTING COMPLETELY ON PROTEIN\";\n}\n.footnotes-footer {\n    visibility: hidden;\n    height: 0;\n    padding: 0;\n    margin: 0;\n}\n[[/module]]\n\n[[include :scp-wiki:component:author-label-source start=--\n|name=NDHeckfire]]\n**SCP-7072** - 一天一三明治…\n\n[[[https://scp-wiki.wikidot.com/ndheckfire|More by me!]]]\n[[include :scp-wiki:component:author-label-source end=--]]\n\n@@ @@\n\n[[div]]\n[[include :scp-wiki-cn:component:anomaly-class-bar-source\n|lang=cn\n|item-number= SCP-7072\n|clearance= 1\n|container-class=safe\n|disruption-class= vlam\n|risk-class= caution\n]]\n[[/div]]\n[[module CSS]]\n/* anendlessusername's invaluable correction of the ACS octagon! */\n#page-content .quadrants > div {\n    top: 2.25%;\n    left: 18.5%;\n}\n[[/module]]\n----\n[[include component:image-block\n    name=http://scp-wiki.wikidot.com/local--files/scp-7072/sandwich.jpg|\n    caption=SCP-7072的两个实例。|\n    width=250px|\n    align=right|\n]]\n\n**特殊收容措施：**SCP-7072当前收容于Site-43模因和逆模因部的标准异常物品收容间内。SCP-7072的任何新增实例都将由认知抵抗训练人员无效化并焚毁，残留物送交奥秘消解部处理。 \n----\n**描述：**SCP-7072指一个三明治，配料有沙拉、调味品和蛋末(故为鸡蛋沙拉三明治)，曾为研究/收容Site-43的控制与收容部特工Carlos Sierra所有。\n\nSCP-7072具有强效模因认知危害，令直接感知到SCP-7072的人类对象将其全部吃掉，从而激活其附属效果(见下文)。不幸的是，常规认知抵抗(CoRe)训练并不能抵挡这一效果。\n\n在SCP-7072被吃掉约四分之三时，周围将立刻出现两个与之相似的实体。由于这些三明治的异常性质与本体一致，故同样归类为SCP-7072.\n----\n**附录7072-1，现象概述：** 虽然未知SCP-7072表现异常性质的确切时间，但记录到的第一起事件发生在2018年8月29日。H&S员工餐厅的监控摄像头拍到了Sierra特工独自坐在餐桌后吃他的三明治[[footnote]]在后续采访中，特工Sierra声称三明治是自己做的。[[/footnote]]。\n\n一段时间后，研究员Miles Calloway进入餐厅，注意到了Sierra，问后者吃的是什么三明治。Sierra回答的同时咬了一口，桌上随即自动出现两个一模一样的三明治。研究员Calloway见状，立即拿起其中一个吃掉，导致更多三明治出现。\n\nDr. William Wettle、Dr. Harold Blank、研究员Bastien LeBlanc和Dr. Lillian Lillihammer四人进入餐厅，前三者注意到三明治并吃掉了它们，导致六个三明治出现。\n\nDr. Lillihammer起初对所有三明治表露轻微的厌恶，但随后注意到了它们的特性。在简短得出结论后，她迅速走向附近的红线电话，立即呼叫称可能发生异常模因突破。\n\n七名站点应急特工抵达餐厅，将所有出现的三明治成功缴获，同时制服了格外反对特工拿走食物的Dr. Wettle和Dr. Blank。Dr. Lillihammer对人员实施了标准的反促动手势，使他们的基准认知得以恢复。\n\n在随后的分类和测试之后，最终形成当前的SCP-7072收容协议，在上述事件中出现的其他实例立即被无效化。\n----\n**附录7072-2，埃弗索遴选计划/下属计划阿伯顿：**在2020年2月至2021年间发生灾难性事件(正式名称为[[[scp-6004|Incident 6004-MONGOOSE]]])后，监督者议会的多数成员，道德委员会和主管指挥部于2022年11月正式启动埃弗索倡议。 \n\n该倡议为一项基金会领衔运动，最初由盈余部提出，主要由废除部牵头，其唯一目的是无效化和/或消除低级次要异常物体的影响，主要目标是降低全球各种研究/收容设施的内部开销。\n\n[[include component:image-block\n    name=https://scp-wiki.wdfiles.com/local--files/secure-facility-dossier-site-43/HS.png|\n    caption=Site-43，宜居性与生命维持保障部 |\n    width=150px|\n    align=left|\n]]\n\n根据埃弗索倡议，SCP-7072从Site-43的异常项目中被选出以待废除。鉴于Lillian Lillihammer博士曾参与过对它的收容，以及她在抗模因异常方面的卓越专长，决定由Lillian Lillihammer博士亲自负责SCP-7072的无效化。\n\n而在开展这项工作之前，专家Noor Zaman（Site-43的宜居性与生命维持保障部负责人）向主管指挥部提交了一份提案，有关SCP-7072如何拥有必要特性以对埃弗索倡议工作长久有利。\n\n这份提案作为“阿伯顿计划”的下属计划提出，详细说明了，若至少三个SCP-7072个体分布在每个单独的收容设施中，基金会便能向员工提供一种单一食物（本案为鸡蛋沙拉三明治) ，而无需动用标准餐食资金，从而大量节省人员生活费用。\n\n起初，Allan J. McInnis主管(Site-43)和Randall House主管(Site-666)都否决了这一计划，称其违反了基金会禁止将人员暴露于奥秘异常物质的政策。然而，主管Paul Lague(Site-322)批评了这一点，提到了整合计划[[footnote]]由主管 Jason \"Jay\" Dune (Area-179) 创立的基金会领衔计划，旨在将收容中的对象分配到基金会任务中，以减轻环境压力。[[/footnote]]，这一项目可以很便利地加以应用。\n\n经过董事指挥部的多次讨论和激烈争论，该项目最终被送交监督者议会和高等法院审查。最终，双方中的多数同意颁布一项新政策。若基金会发生大规模财政危机，其他专门政策可能会无限期停滞不前，意味着这一项目从根本上获得批准。\n\n2023年3月13日，下属计划“阿伯顿”正式生效。 SCP-7072停止收容，在Site-43人员的协助下，SCP-7072个体得以散布到每座基金会研究设施中，在主要收容设施增加数量，例如Site-120，-19和-17。\n\nSCP-7072 的收容等级已更新为Radix[[footnote]]Radix级异常指已纳入基金会体系的对象/实体。[[/footnote]]。尽管有来自多方的轻微抗议，Site-43已作为研究和收容设施 (R&C) 退役，并重分级为支持和分配中心 (S&D)。这种变化是否不可逆，目前还尚无定论。\n\n@@ @@\n\n----\n[[div]]\n[[=]]\n<< **[[[SCP-7297]]]** | **EVERSOR: Phase I** | **Coming soon...?** >>\n[[/=]]\n[[/div]]\n\n[[=]]\n[[div class=\"footer-wikiwalk-nav\"]]\n<< [[[SCP-7071]]] | SCP-7072| [[[SCP-7073]]] >>\n[[/div]]\n[[/=]]\n\n[[include :scp-wiki:component:license-box]]\n=====\n> **Filename:** sandwich.jpg\n> **Name:** File:Egg Sandwich 001.jpg\n> **Author** Ocdp\n> **License:** Creative Commons CC0 1.0 Universal Public Domain Dedication\n> **Source Link:** https://commons.wikimedia.org/wiki/File:Egg_Sandwich_001.jpg\n=====\n> **Filename:** HS.png\n> **Author** [[[http://www.wikidot.com/user:info/harryblank|HairyBlank]]]\n> **License:** CC BY 3.0\n=====\n[[include :scp-wiki:component:license-box-end]]",
+  "tags": [
+    "scp",
+    "值守43",
+    "反熵",
+    "味觉影响",
+    "强迫性",
+    "旧页面",
+    "机密分级",
+    "模因",
+    "视觉性",
+    "认知危害",
+    "食物"
+  ],
+  "author": "Hg-lab",
+  "created_at": "2022-09-13T08:07:16+00:00",
+  "updated_at": "2024-04-23T13:50:15+00:00",
+  "rating": 3,
+  "_site": "scp-wiki-cn",
+  "_fullname": "old:scp-7072"
+}

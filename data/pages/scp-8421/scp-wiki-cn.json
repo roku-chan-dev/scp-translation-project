@@ -1,0 +1,16 @@
+{
+  "title": "SCP-8421",
+  "content": "=====\n[[include component:preview\ntext=Calibold告诉大家他的工作让他有何种感受，并以此表现出他在逃亡时有多么开心。]]\n=====\n\n[[include :scp-wiki-cn:theme:black-highlighter-theme]]\n[[include :scp-wiki:component:bhl-dark-sidebar]]\n[[include :scp-wiki:component:wide-image-sizer]]\n\n[[include :scp-wiki:component:author-label-source start=--\n|name=Calibold\n|no-right-margin=*]]\n[[=]]\n[[module ListPages range=\".\"]]\n**%%title%% -- %%content{4}%%**\n[[/module]]\n\n**[[[Calibri Bold's Mega Cool Author Page|Calibold's Mega Cool Author Page]]]**\n[[/=]]\n[[include :scp-wiki:component:author-label-source end=--]]\n\n[[include component:image-block\n|name=https://scp-wiki.wdfiles.com/local--files/calibri-bold-s-mega-cool-author-page/cvs.jpg\n|caption=可能开展SCP-8421实验的店铺示例。\n|width=300px\n]]\n\n**项目编号：**SCP-8421\n\n**项目等级：**Keter\n\n**特殊收容措施：**由于实现SCP-8421所需的条件在近期才开始在公众范围内实施，目前并无人员实际经受到SCP-8421的异常影响。--目前的收容工作是推动将实现SCP-8421所需的条件非法化。--参见附录8421.1。\n\n**描述：**SCP-8421是一种能使人类在经受长时间高度压力和挫折后获得长寿的现象。理论上SCP-8421的实现条件曾被诸多人类达成过，但因其伴随理智的降低和特定健康问题的发生率增高，该现象实际难以真正实现。在实践中，SCP-8421只能在受控环境中出现。\n\n要通过SCP-8421实现长寿，该人必须在至少三年时间内持续体验到足够高的精神压力。此种压力可以存在短暂缓和，但研究表明若放松时长超出三周，则可能彻底抵销SCP-8421所需的压力量，需要重新展开承受周期。\n\n如若经过了三年时间，SCP-8421的第一阶段将开始发生。对象将对疾病带来的较大伤害影响产生抵抗力，但症状仍会如常出现。随时间流逝，对象仍会继续衰老，但不会经历到致命或严重的伤害，一直保持在足以勉强维持运动功能和认知力的健康水平。\n\n**发现：**此现象的源头未知，但最初是由西维斯健康公司在1987年发现。虽然起初予以保密，仍有其他公司（尤其是拥有大型零售商店的企业）最终也获得了该情报，很可能是在渗透西维斯健康后取得。 \n\n发现SCP-8421的企业开始研究将其用于自己的商铺中，主要方式则是将其施加给自己的员工。他们的最终目标是打造出一种对员工有足够压力的环境，使其能够触发SCP-8421，但又不至于使压力高到造成员工离职。如此便可节省原本花费在用人管理上的资金和资源。 \n\n基金会在对沃尔-玛商店公司[[footnote]]即今日的沃尔玛公司。[[/footnote]]进行无关渗透时意外发现了该研究计划。最终确认有多家公司已在实施SCP-8421。为保全常态，基金会为其编写了收容措施，主要关注于影响联邦法律，以此阻止SCP-8421的所需的压力水平被实现。\n\n**附录8421.1：**对SCP-8421的收容难度经证实要比初期实施时高出许多。多个受影响公司发起了私人游说活动，为政治势力提供资金支持以继续实施SCP-8421。此外，即便是在SCP-8421根据法律规定难以实现的地区，此类法律也往往遭到忽视。\n\n基金会指挥部最终决定与五家开展SCP-8421实验的公司代表会面，就今后行动进行谈判。公司代表提出，SCP-8421带来的收益虽然相对微小，但仍足够客观，能为公司和整个世界经济在长期层面带来经济利好。\n\n经深入辩论，基金会同意允许SCP-8421继续实施，条件是今后的实验中对受影响人员的寿命影响必须更加精确。通过让压力精准维持在最终会超出SCP-8421平衡状态的水平，其整体目标是避免员工寿命达到150岁。\n\n[[footnoteblock]]\n\n[[div class=\"footer-wikiwalk-nav\"]]\n[[=]]\n<< [[[SCP-8420]]] | SCP-8421 | [[[SCP-8422]]] >>\n[[/=]]\n[[/div]]\n\n[[div style=\"display:none;\"]]\n=====\n我的工作令我狂怒 个中感觉就如此篇\n=====\n[[/div]]\n\n[[include :scp-wiki:component:license-box]]\n> **Filename:** https://scp-wiki.wdfiles.com/local--files/calibri-bold-s-mega-cool-author-page/cvs.jpg\n> **Name:** CVS (14745796140)\n> **Author:** Mike Mozart\n> **License:** CC-by-SA 2.0\n> **Source Link:** https://commons.wikimedia.org/wiki/File:CVS_(14745796140).jpg\n[[include :scp-wiki:component:license-box-end]]",
+  "tags": [
+    "2024愤怒竞赛",
+    "keter",
+    "scp",
+    "旧页面"
+  ],
+  "author": "ashausesall",
+  "created_at": "2024-07-24T13:00:51+00:00",
+  "updated_at": "2024-08-04T15:38:35+00:00",
+  "rating": 1,
+  "_site": "scp-wiki-cn",
+  "_fullname": "scp-8421"
+}

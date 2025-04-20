@@ -1,0 +1,16 @@
+{
+  "title": "SCP-5400-J",
+  "content": "[[include :scp-wiki:theme:flopstyle]]\n\n[[module CSS]]\n.foldable-list-container {font-weight: bold;}\n\n:root {\n    --background-gradient-distance: 100%;\n    --gradient-background: linear-gradient(to bottom,rgba(255,255,255,1) 0%, rgba(255,255,255,1) 50%, rgba(0,0,0,1) 77% var(--background-gradient-distance));\n}\n\n[[/module]]\n\n[[include :scpko:info:start]]\n**SCP-5400-J: 이 페이지는 기밀입니다**\n**저자:** [[*user DrApricus]]\n**원작:** [https://scp-wiki.wikidot.com/scp-5400-j SCP-5400-J]\n**역자:** [[*user igangsu]]\n\n[[include :scpko:info:end]]\n\n@@ @@\n[[=]]\n[[div class=\"note\" style=\"background: #FFFFFF; border: #FFFFFF\"]]\n[[div class=\"blockquote\" style=\"background: url(\"https://scp-wiki.wdfiles.com/local--files/the-great-hippo/scp_trans.png\") center no-repeat; float: center; border: solid 2px #000; padding: 1px 15px; box-shadow: 0 1px 3px rgba(0,0,0,.2);\"]]\n+ 경고: 이하 파일은 4/5400-J 등급 보안인가를 요함\n----\n+++ 보안인가 4/5400-J 등급 없이 본 파일에 접근하려는 모든 시도는 기록되며 즉각적인 징계 조치의 대상이 될 수 있음.\n[[/div]]\n[[/div]]\n[[/=]]\n\n@@ @@\n\n@@ @@\n\n@@ @@\n\n[[=]]\n[[include :scp-wiki:component:inline-colmod show=자격 증명서 입력| content=등급 불충분.\n\n[[span style=\"color: white\"]]좆까.[[/span]]]]\n[[/=]]",
+  "tags": [
+    "en",
+    "scp",
+    "난해한-등급",
+    "농담"
+  ],
+  "author": "igangsu",
+  "created_at": "2022-07-31T11:27:49+00:00",
+  "updated_at": "2022-09-11T01:51:16+00:00",
+  "rating": 15,
+  "_site": "scpko",
+  "_fullname": "scp-5400-j"
+}

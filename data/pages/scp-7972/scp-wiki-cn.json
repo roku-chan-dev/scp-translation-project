@@ -1,0 +1,20 @@
+{
+  "title": "SCP-7972",
+  "content": "[[include component:image-block\n    name=http://scp-wiki.wikidot.com/local--files/scp-7972/image.jpg|\n    caption=SCP-7972的内部照片，单元家庭住宅不存在任何偏差。|\n    width=300px\n]]\n\n**项目编号：**SCP-7972\n\n**项目等级：**Safe\n\n**特殊收容措施：**SCP-7972已从弗罗里达，█████████████的原址整体迁至Site-17 Alpha-187，大型项目存储室。在SCP-7972的每个房间安装运动探测器，预计不会自动激活。有关测试或转移要求，请联系Site-17幼童福利科，心理学部，Michael Pedersen Jr医生。\n\n**描述：**SCP-7972为一栋两层四室的单元住房，由本森伍德公司建于1974年，内有20世纪80年代独户人家所需的家具电器。家具有少许磨损，使用时间约在十年左右。 本森伍德公司当年在弗罗里达州，█████████████记录在册的售房有1, 321套，未在其中找到SCP-7972原买主的记录。该住房原占地仍按█████████████资产记录为未出售。[[footnote]]这并不罕见，本森伍德公司在弗罗里达，█████████████的另外16套住房也存在这种出入。[[/footnote]]\n\n该住房中发现的电器在制造形式上存在诸多不合规范之处：\n\n房中每盏██吸顶式灯具均有一枚通用电气品牌的白炽灯A19 60W灯泡（型号 no. BE49X1c.f[[footnote]]美国消费者产品安全委员会（USCPSC）于1982/08/17召回，#82-053。[[/footnote]]），产于美国大陆1982年至1984年间。灯丝被替换成一根厚厚的铜丝，穿过三到四节人指骨，通过未知机制以电流启动这种临时灯丝。当点燃时，观察到指骨在灯泡玻璃内弯曲和抽搐，是由于灯丝受热膨胀所致。\n\n房中每台██烤面包机均为黑德克尔牌，特宽槽四片装电烤面包机（型号 no. TR0057[[footnote]]美国消费者产品安全委员于1983/06/04召回，#83-023。[[/footnote]]），产于美国大陆1982年至1984年间。八股铜丝被粗糙地焊接在每台烤面包机的加热格栅上，穿过两到三节人指骨。当加热时，可听见指骨而在铝板上产生刮擦声，是由于金属丝受热膨胀所致。\n\n房中每台██电吹风均为大国际牌（型号 no.1. 1280）[[footnote]]美国消费者产品安全委员于1983/11/22召回，#83-140。[[/footnote]]，产于美国大陆1982年至1984年间。拧开外壳，可见每一叶片都被替换成两到三节人指骨，由一根铜丝相串。标准操作会导致指骨在加热元件周围反复缠绕，是由于金属丝受热膨胀所致。\n\n上述电器均连至二十四个电源插座之一，通过███串联式美国电源板（型号 no. A-150A[[footnote]]美国消费者产品安全委员于1984/13/10召回，#84-251。[[/footnote]]） ，产于美国大陆1982年至1984年间。检查插头，发现每个插脚均被替换为████████████████████，延伸至墙体石膏板内。继续操作████████████████████████████████████气味，似是由于塑料受热膨胀所致。\n\n从SCP-7972中回收的DNA片段中，59.64%来自于1982年至1986年间在迈阿密谷教学医院接受过整形外科治疗的患者，没有人能够回想起他们当时的病情。然而，对SCP-7972内指骨运动的视频分析表明，其行为模式并非不与年龄在████████[[footnote]]参见Pedersen于1995年的第一篇论文。[[/footnote]]之间的人类对象的██████████相契合。\n\n[[include :scp-wiki:component:earthworm\n| first=false| last=false | hub=yes\n| previous-url=/scp-7933| previous-title=X代表“路口”\n| next-url=/scp-7980 | next-title= Z代表“通灵塔”\n| hub-url=/scp-anthology-hub | hub-title=SCP文选 中心页\n]]\n\n[[footnoteblock]]\n\n[[div class=\"footer-wikiwalk-nav\"]]\n[[=]]\n<< [[[SCP-7971]]] | SCP-7972 | [[[SCP-7973]]] >>\n[[/=]]\n[[/div]]\n\n[[include :scp-wiki-cn:component:license-box]]\n=====\n> **文件名：**image.jpg\n> **图像名：**Prefab Gabalfa - Esszimmer.jpg\n> **图像作者：**Wolfgang Sauber\n> **授权协议：**GNU Free Documentation License\n> **来源链接：**[https://commons.wikimedia.org/wiki/File:Prefab_Gabalfa_-_Esszimmer.jpg 维基共享资源]\n=====\n[[include :scp-wiki-cn:component:license-box-end]]",
+  "tags": [
+    "safe",
+    "scp",
+    "家用物品",
+    "建筑",
+    "死亡abc",
+    "生物性",
+    "电力",
+    "肢体"
+  ],
+  "author": "Hg-lab",
+  "created_at": "2022-11-01T12:16:05+00:00",
+  "updated_at": "2025-03-05T13:57:29+00:00",
+  "rating": 5,
+  "_site": "scp-wiki-cn",
+  "_fullname": "scp-7972"
+}

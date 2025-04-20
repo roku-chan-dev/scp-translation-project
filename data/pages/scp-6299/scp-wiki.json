@@ -1,0 +1,23 @@
+{
+  "title": "SCP-6299",
+  "content": "[[>]]\n[[module Rate]]\n[[/>]]\n\n[[module ListPages  category=\"fragment\" parent=\".\" limit=\"1\" order=\"created_at\" offset=\"@URL|0\"]]\n%%content%%\n[[/module]]\n\n[!-- https://scp-wiki.wikidot.com/fragment:scp-6299-1 --]\n[!-- https://scp-wiki.wikidot.com/fragment:scp-6299-2 --]\n\n@@ @@\n\n[[div class=\"footer-wikiwalk-nav\"]]\n[[=]]\n<< [[[SCP-6298]]] | SCP-6299 | [[[SCP-6300]]] >>\n[[/=]]\n[[/div]]\n[[footnoteblock]]",
+  "tags": [
+    "_cc",
+    "_listpages",
+    "alive",
+    "animal",
+    "canine",
+    "neutralized",
+    "reality-bending",
+    "scp",
+    "sexual",
+    "telekinetic",
+    "teleportation"
+  ],
+  "author": "ParaNolan",
+  "created_at": "2021-08-17T19:52:14+00:00",
+  "updated_at": "2022-10-01T18:21:44+00:00",
+  "rating": 80,
+  "_site": "scp-wiki",
+  "_fullname": "scp-6299"
+}

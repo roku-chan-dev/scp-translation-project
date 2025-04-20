@@ -1,0 +1,21 @@
+{
+  "title": "SCP-6154",
+  "content": "[[>]]\n[[module rate]]\n[[/>]]\n\n[[include :scp-jp:theme:black-highlighter-theme]]\n[[include :scp-jp:component:info-ayers\n|page=SCP-6154 [!-- url of your page on the scp wiki --]\n|authorPage=http://www.scp-wiki.net/dr-tonnes-personnel-file[!-- link to your author page --]\n|comments= [[*user cocaine rabbit]]の元ポストにインスパイアされています。\n]]\n[[module CSS]]\n\n[[span style=\"font-weight: bold;\"]][[collapsible show=\"ハッピーニューイヤー\" hide=\"ページを更新しました\"]][[/span]]\n**アイテム番号:** SCP-6154\n\n**オブジェクトクラス:** Thaumiel\n\n**特別収容プロトコル:** 本文書には効果が比較的小さい魔術に対して嫌悪感や過敏症を示さないすべての職員がアクセス可能です。\n\n上記に該当する職員は、毎年1月1日にSCP-6154にアクセスするように勧告されています。\n\n[[include component:image-block\nname=http://scp-jp-storage.wikidot.com/local--files/file:5477413-29-hby2/New_Years_Eve_fireworks_Oulu_20111231f.jpg|\ncaption= サイト-██屋外。2022年1月1日0:00撮影。|width=330px]]\n\n**説明:** SCP-6154は財団データベースを通して毎年本エントリに影響を与える周期的な現象です。\n\n現地時間1月1日にアクセスした場合、その時点でサイトに駐留して業務を行なっている職員は、想定される情報ではなく「ハッピーニューイヤー」というメッセージを受け取ります。この効果は本文書を更新するか一度閉じて開き直すまで継続します。これらの行動が取られた時点でアノマリーは終了し、次の年まで発生しません。\n\nSCP-6154に曝露した対象者の大半は満足感の増加を報告します。この効果は新年について不安、ストレスなどといったあらゆる懸念のいずれかを表明していた職員に特によく見られます。\n\nSCP-6154の発生以降、職務や個人的な将来の計画に関する、スタッフ間の意欲・全体の熱意が劇的に上昇しています。この刺激効果は同年の12月31日まで継続するように見受けられます。\n\n**発見記録:** SCP-6154は、休日も業務を継続している職員に対する励ましの言葉を伝達する目的で、レベル1研究員のスノー博士が個別のSCPスロットを使用した後に発見されました。\n\nスノー博士は当初職業意識の低い行動であるとして懲戒処分を受けましたが、後にスノー博士が弱い奇跡術行使能力を保有しており、SCP-6154を作成した際にこれを行使したことが判明しました。さらなる研究の結果、スノー博士は遺伝によってもたらされる弱い異常特性について陽性を示しました。\n\nスノー博士はその後課された短期の停職処分の終了後に以前の地位へ戻され、SCP-6154はThaumielに再分類されました。\n[[/collapsible]]",
+  "tags": [
+    "en",
+    "scp",
+    "thaumiel",
+    "メタ",
+    "改稿",
+    "精神感応",
+    "視覚",
+    "認識災害",
+    "財団製"
+  ],
+  "author": "Flips_0122",
+  "created_at": "2022-01-07T13:53:05+00:00",
+  "updated_at": "2023-01-31T08:08:21+00:00",
+  "rating": 22,
+  "_site": "scp-jp",
+  "_fullname": "scp-6154"
+}

@@ -1,0 +1,15 @@
+{
+  "title": "일본지부 6주년 허브",
+  "content": "[[module css]]\n\n.contest{\n   font-weight: bold;\n   font-size: 180%;\n   padding-top: 40px;\n   padding-bottom: 40px;\n}\n\n.presenter{\n   font-weight: bold;\n   font-size: 120%;\n}\n\n[[/module]]\n\n[[span style=\"display: inline-block; background-color:#203864\";]]\n[[=image http://scp-jp.wdfiles.com/local--files/6thanivpages/6th-hub_2.png]]\n[[/span]]\n\n[[=]]\n[[include :topia:jp-recycle19logo-spin]]\n**Round 1**\n[[span class=\"contest\"]][[[*recyclecontest19|2019년 재활용 경연]]][[/span]]\n\n[[span class=\"presenter\"]]presented by: 6주년 기획위원회[[/span]]\n**5/4 ~ 7/1**\n\n**우승**\n[[[*SCP-1598-JP|]]] -  야, 평소처럼 그거 해봐.\nby [[*user yzkrt]]\n\n------\n\n[[include :topia:jp-1200-logo]]\n**Round 2**\n[[span class=\"contest\"]][[[*1200-taletaletale-hub|2019년 1200자 엽편기획]]][[/span]]\n\n[[span class=\"presenter\"]]presented by: [[*user boatOB]] + 6주년 기획위원회[[/span]]\n**6/24〜7/15**\n\n**A부문 그랑프리**\n[[[*dclass-search|]]]\nby [[*user amamiel]]\n\n**B부문 그랑프리**\n[[[*shock-in-tanakasensei|]]]\nby [[*user izhaya]]\n\n------\n\n[[=image https://scp-jp.wdfiles.com/local--files/mucon19/mucon.png link=\"mucon19\"]]\n**Round 3**\n[[span class=\"contest\"]][[[*mucon19|2019년 무無 경연]]][[/span]]\n\n[[span class=\"presenter\"]]presented by: 6주년 기획위원회[[/span]]\n**8/1 ~ 9/15**\n\n**SCP부문**\n\n**허무상**\n[[[*SCP-1645-JP|]]] - 경) ██정 교통사망 제로 기록 9999일 달성 (축\nby [[*user aobasity17852]]\n\n**공상**\n[[[*okaka-onigiri-s-proposal-ii|오카카 오니기리의 두 번째 제안 - 격절]]]\nby [[*user Okaka_Onigiri]]\n\n**이야기 부누**\n[[[*notyetdr-nowherenowhereyesterday|]]]\nby [[*user Dr_Knotty]]\n\n**GoIf 부문**\n[[[*collected-item-no0914|]]]\nby [[*user shirasutaro-]]\n\n------\n\n[[=image http://scp-jp.wdfiles.com/local--files/6thanivpages/%E3%82%B8%E3%83%A3%E3%83%A0%E3%82%B3%E3%83%B32019-JP.jpg link=\"72-hour-jam-contest-jp-2019\"]]\n**Round 4**\n[[span class=\"contest\"]][[[*72-hour-jam-contest-jp-2019|2019년 72시간 즉흥경연]]][[/span]]\n\n[[span class=\"presenter\"]]presented by: [[*user AMADAI]] + 6주년 기획위원회[[/span]]\n**11/2 ~ 11/18**\n\n**최우수상**\n[[[*SCP-1595-JP|]]] - プレゼン及びターゲッティング不足\nby [[*user kyougoku08]]\n------\n\n[[=image http://scp-jp.wdfiles.com/local--files/6thanivpages/2000-jp-banner.png link=\"scp2000jp-contest-hub\"]]\n**Round FINAL**\n[[span class=\"contest\"]][[[*scp2000jp-contest-hub|SCP-2000-JP 경연]]][[/span]]\n\n[[span class=\"presenter\"]]presented by: SCP-2000-JP 경연 운영위원회 + 6주년 기획위원회[[/span]]\n**1/1 ~ 2/15**\n\n**우승**\n[[[*SCP-2000-JP|]]] - 편지개\nby [[*user WagnasCousin]], [[*user FeS_ryuukatetu]], [[*user furabbit]]\n\n[[/=]]\n[[footnoteblock]]",
+  "tags": [
+    "jp",
+    "경연",
+    "허브"
+  ],
+  "author": "Salamander724",
+  "created_at": "2022-11-15T06:31:37+00:00",
+  "updated_at": "2022-11-15T06:32:06+00:00",
+  "rating": 1,
+  "_site": "scpko",
+  "_fullname": "6thanivpages"
+}

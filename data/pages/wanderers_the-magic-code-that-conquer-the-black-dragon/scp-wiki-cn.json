@@ -1,0 +1,27 @@
+{
+  "title": "岿阳谶——鹿尘子伏龙还丹诀",
+  "content": "[[>]]\n[[module rate]]\n[[/>]]\n\n\n[[div class=\"ej-outbox\"]]\n[[div class=\"ej-innerbox\"]]\n[[div class=\"poem-7\"]]\n\n\n灵台坐忘不知年，迷客匆匆去复还\n\n六道尸虫侵赤魄，万家歌哭涨黄泉\n\n十方大梦溶朝露，亿世劫灰沦太渊\n\n自抚镜中惟白骨，却乘龟上振清涟\n\n风摇素水金晶结，酒浸华池紫气旋\n\n四柱难拴逃命煞，七门未锁引痴癫\n\n[[[scp-5000|毒龙凝体析微烬]]]，朽爪挠星嚇昊天\n\n身绞无根奇树外，尾翻古底浊泥边\n\n众时惑梦怖阴鬼，谁又停琴笑蜃烟\n\n破妄应持双慧剑，明心即做一真仙\n\n轻敲颓雾落霜雪，重赴火河栽玉莲\n\n幻入空明擒异数，且随橐龠起神旃\n\n僵云九斗销浮色，精血尽扬浇炽燃\n\n层剥诡鳞通本性，晕开泡影洞幽玄\n\n悠悠正炁泽芽叶，寂寂曲江铺月弦\n\n[[[scp-cn-1091|摘得骊珠虚颔下]]]，付之老马种丹田\n\n[[/div]]\n[[/div]]\n[[/div]]\n@@@@\n@@@@\n@@@@\n\n\n[[include :scp-wiki-cn:theme:black-highlighter-theme]]\n[[include :scp-wiki-cn:theme:black-rain]]\n[[include :scpsandboxcn:etinjat-wanderers-bhl-css\n|logo-image=none\n|normal=--]]]\n\n[[include :etinjat:typeface-cn\n|HanWang-WeiBeiMedium-Gb5=true\n|Liu-ti=true\n]]\n\n\n[[module css]]\n\n:root:lang(cn) {\n  /* Header */\n  --logo-image: none;\n  --header-title: \"虚渊骊龙\";\n  --header-subtitle: \"阴雷交厄，玄水劫灾\";\n\n --header-font: '华文隶书',lisu,'华文楷体', 'Iceberg' ,sans-serif;\n    --title-font: 'Liu ti', '华文新魏', 'Turnip' ,sans-serif;\n}\n\nform[id=\"search-top-box-form\"] {\n    width: 11em;\n}\n\nbody{\n    \n    background-color: rgb(192,192,192)\n}\n\n#side-bar .side-block{\nbackground-color:transparent !important;\n\n}\n\n  #header > h1 > a:before{\n   font-size: 220%; \n    font-weight: 600;\n        line-height:  0;\nfont-size: 200%; \n   }\n\n   #header h2 span::before {\n   font-size: 180%; \n   line-height:  1.5;\n}\n\n@media only screen and (max-width: 768px) {\n\n  #header > h1 > a:before{\n    font-weight:700;\n        line-height:  0;\nfont-size: 240%; \n   }\n\n   #header h2 span::before {\n   line-height:  0;\nfont-size: 150%; \n    }\n\n}\n\n.page-tags span {\n    border-top: 1px solid   #807F7F;\n}\n\n.poem-7  a{\n    color: #333 !important;\n}\n[[/module]]",
+  "tags": [
+    "wanderers",
+    "个体",
+    "仪式",
+    "信件",
+    "原创",
+    "叙述",
+    "奥秘动物",
+    "宗教性",
+    "寓言",
+    "文言文",
+    "日记",
+    "物体",
+    "琅嬛福地藏书阁",
+    "神话",
+    "韵文"
+  ],
+  "author": "Etinjat",
+  "created_at": "2019-12-13T04:47:49+00:00",
+  "updated_at": "2025-02-14T16:20:17+00:00",
+  "rating": 47,
+  "_site": "scp-wiki-cn",
+  "_fullname": "wanderers:the-magic-code-that-conquer-the-black-dragon"
+}

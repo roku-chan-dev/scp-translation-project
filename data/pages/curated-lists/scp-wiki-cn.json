@@ -1,0 +1,14 @@
+{
+  "title": "推荐列表",
+  "content": "[[module css]]\n .content-panel {\n     border: solid 1px #888880;\n     border-radius: 10px;\n     background-color: #999990;\n     margin: 10px 0 15px;\n     box-shadow: 3px 3px 6px #bbb;\n     box-shadow: 0 2px 6px rgba(0,0,0,0.5), inset 0 1px rgba(255,255,255,0.3), inset 0 10px rgba(255,255,255,0.2), inset 0 10px 20px rgba(255,255,255,0.25), inset 0 -15px 30px rgba(0,0,0,0.1);\n}\n .content-panel.standalone {\n     background: #fcfdfb;\n}\n .content-panel.series {\n     padding: 0 20px;\n     margin-bottom: 20px;\n     padding-bottom: 1rem;}\n[[/module]]\n\nSCP网站上已有超过10,000篇文章，而决定如何开始可能会很困难。以下列出的是由社区成员创建的各种页面，可以帮您寻找想要的文章——可能还有更多你甚至都不知道的存在！\n\n本页可被任何网站成员更新，所以如果您创造了类似的页面并发布到了网站上，请随意将其添加到下方适当的区域（“推荐文章”和“主题列表”按时间顺序由早到晚排列）。此外，很多这些列表都依赖来自社区的输入，因此如果您有任何建议，很可能也能找到各种贡献的方式。\n\n[[div class=\"content-panel standalone series\"]]\n+ 推荐文章\n文章推荐列表，由社区成员提交。\n* [[[user-curated-lists|]]] - 供网站成员列出自身推荐文章的页面。既有普遍向推荐和更加具体的按主题或风格分类的分组推荐。\n* [[[curated-tale-series|]]] - 一个排版好看的故事推荐列表，按主题分组，每月有特别推荐故事系列。\n* [[[algorithm-curated-recommendations|]]] - 一个算法预测的普通SCP读者可能喜爱的推荐，按不同类别分组。\n[[/div]]\n\n\n[[div class=\"content-panel standalone series\"]]\n+ 主题列表\n如果你想找一些特定主题的东西，以下的列表可能有帮助。\n* [[[Format Screw Hub|]]] - 对标准SCP格式进行创造性调整的文章。\n* [[[Holiday Hub|]]] - 用不同寻常的节日主题文章来庆祝节日吧！\n* [[[April Fools Hub|]]] - 作为愚人节玩笑创建或修改的页面。\n* [[[Reimagined Hub|]]] - 从现存作品中得到灵感并将点子创新的文章。\n[[/div]]\n\n[[div class=\"content-panel standalone series\"]]\n+ 精品内容归档\n每月，网站工作人员都会选择不同的文章在首页展示，这些文章被归档在以下页面之中。所有有“featured”标签的文章见[https://scp-wiki.wikidot.com/system:page-tags/tag/featured 此]。\n* [[[https://scp-wiki.wikidot.com/artist-showcase-archive|艺术家展示页归档]]]\n* [[[https://scp-wiki.wikidot.com/event-featured-archive|精品主题作品归档]]]\n* [[[https://scp-wiki.wikidot.com/featured-goi-format-archive|精品GOI格式归档]]]\n* 精品SCP归档\n * [[[https://scp-wiki.wikidot.com/featured-scp-archive | 归档I - 1至100]]]\n * [[[https://scp-wiki.wikidot.com/featured-scp-archive-ii | 归档II - 101至200]]]\n* 精品故事归档\n * [[[https://scp-wiki.wikidot.com/featured-tale-archive | 归档I - 1至100]]]\n * [[[https://scp-wiki.wikidot.com/featured-tale-archive-ii | 归档II - 101至200]]]\n* 评论者聚光归档\n * [[[https://scp-wiki.wikidot.com/reviewers-spotlight-archive | 评论者聚光归档I（2019至2021）]]]\n * [[[https://scp-wiki.wikidot.com/reviewers-spotlight-archive-ii|评论者聚光归档 II（2022至2024）]]]\n[[/div]]\n\n++ 另请参见\n* [[[https://scp-wiki.wikidot.com/top-rated-pages|最高评分的页面]]] - 列出了具有最多好评的文章。\n* [[[young-and-under-30| 待阅读待评分]]] - 净分数低于30的文章。\n* [[[podcast-hub|]]] - 到播客的链接，其中一些讨论并推荐特定的SCP文章。\n\n[[include :scp-wiki-cn:component:license-box\nauthor=Jerden]]\n[!-- N/A (No Images)  --]\n[[include :scp-wiki-cn:component:license-box-end]]",
+  "tags": [
+    "中心",
+    "合作"
+  ],
+  "author": "Esperanza_Cai",
+  "created_at": "2022-10-12T04:40:51+00:00",
+  "updated_at": "2024-08-10T17:27:31+00:00",
+  "rating": 2,
+  "_site": "scp-wiki-cn",
+  "_fullname": "curated-lists"
+}

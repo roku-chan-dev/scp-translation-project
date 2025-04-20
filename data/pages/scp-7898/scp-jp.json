@@ -1,0 +1,23 @@
+{
+  "title": "SCP-7898",
+  "content": "[[>]]\n[[module rate]]\n[[/>]]\n\n[[include :scp-wiki:component:author-label-source start=-- |name=Raddagher]]\n**[*http://www.scp-wiki.net/the-radd-zone この著者の他の作品はこちら] | [*http://www.scpwiki.com/findusalivehub Find Us Alive ハブ]**\n[[include :scp-wiki:component:author-label-source end=--]]\n\n[[include :scp-jp:theme:basalt]]\n\n[[div style=\"border:solid 1px #999999; background:#f2f2c2; padding:5px; margin-bottom: 10px;\"]]\n[[=]]\n++++ 財団職員への勧告\n\nSCP-7898への異動申請にはベルフェア博士の承認が必要です。適切な認可を受けなかった異動申請は待機リストに追加されません。\n\n**現在の異動待機時間:** ##blue|3年、45日##\n\n[[/=]]\n[[/div]]\n\n@@ @@ \n\n[[include :scp-jp:component:anomaly-class-bar-source\n|item-number=7898\n|clearance= 2\n|container-class= safe\n|secondary-class= none\n|disruption-class= dark\n|risk-class= critical\n]]\n\n\n\n\n\n**特別収容プロトコル:** 全122匹のSCP-7898個体は現在、サイト-109の特殊アトリウム飼育区画に収容されています。SCP-7898収容区画のアトリウム上部の窓の遮蔽を1日あたり最低5時間外し、曇りの日はSCP-7898に十分な日光が当たるように調整します。アトリウムの窓には遮蔽を設置し、血陽サイクルの期間は収容区画にエアロゾル鎮静剤を充満させます。新たに発見されたSCP-7898個体やSCP-7898-1個体は全て焼却処分します。フィールズスプリングの町は解体され、その存在は公的記録から抹消されています。\n\n[[include component:image-block | name=http://scp-jp-storage.wdfiles.com/local--files/file:2375337-543-p2ae/WisforWallsA.png | caption=休眠中のSCP-7898-1個体]]\n\n**説明:** SCP-7898はヒトの身体に寄生して移動と生殖を行うクモ型寄生生物です。SCP-7898は暗く乾燥した閉鎖空間、最も一般的には住宅の壁の内部や床下空間に営巣し、光合成に似たプロセスを介して太陽光[[footnote]] 非捕食性紫外線を指す。 [[/footnote]]を栄養源とします。\n\nSCP-7898-1個体はSCP-7898が移動に用いる完全なヒトの身体です。SCP-7898-1個体は非異常なヒトと同じように動き、発話する能力を保ちますが、飲食や排泄などを含む多くの身体機能が欠落しています。また、SCP-7898-1個体は否定的な感情を抱く、もしくは表明することが不可能であるらしく、肉体的な苦痛や巨歯現象に対してもそれらしい反応を示しません。\n\nSCP-7898自体は体長15～25cm、通常の体重は4～6kg[[footnote]] 非知覚性キログラムを指す。 [[/footnote]] (宿主の年齢次第) で、視覚的にクモに似た6本の脚を有しています[[footnote]] 観察者は非異常なウマクイグモとの類似性を明確に指摘しました。[[/footnote]]。SCP-7898本来の感覚器官は甲殻の外側に確認できないものの、観察結果からは、SCP-7898-1個体に寄生していない際には嗅覚と聴覚に頼って移動することが示唆されています。\n\nSCP-7898はフィールズスプリングの町[[footnote]] 所在地: 旧ウェストバージニア州地域 [[/footnote]]で発見されました。生存者はいませんでした。\n _\n\n**補遺1 - SCP-7898のライフサイクル**\n\nフィールズスプリングと財団での実験から得られた知見によると、SCP-7898のライフサイクルは以下のようになります。\n\n**第1段階:** SCP-7898の成体が建造物 (多くの場合は家屋) の中空壁の内部に隠れ、適切な宿主が現れるのを待つ。\n\n**第2段階:** SCP-7898個体は乾式壁を内側から破り、宿主の頭を掴み、鋭利な付属器官を使って宿主の耳に1個の卵を植え付ける。\n\n**第3段階:** 宿主は意識混濁、躁病エピソード、頭部/頸部の痛み、頸部の筋力低下を経験する。\n\n**第4段階:** 宿主は自らの頭部を、毛布の下や容器の内部などの狭く暗い空間に収めたいという衝動を感じる。\n\n**第5段階:** 宿主は自らの頭部を壁の内部に強引に突き入れ、生命活動を停止する。\n\n**第6段階:** 宿主の頭部が頸部から断裂し、完全に成熟したSCP-7898個体のクモ様の体肢が口、両耳、喉から突出する。\n _\n[[include component:image-block | name=http://scp-jp-storage.wdfiles.com/local--files/file:2375337-544-gc8b/WisforWallsB.jpg | caption=SCP-7898個体]]\n\n**実験ログ**\n\n|| **実験** || **結果** ||\n|| 移植されたSCP-7898の卵を宿主から抽出する || 失敗。宿主は脳死状態になった ||\n|| 成長したSCP-7898個体に適切な営巣空間を提供しない || 宿主は頭突きでコンクリート壁を破ろうと試み、死亡した ||\n|| SCP-7898-1個体を消費する || 被験者は深刻な体調不良となり、死亡。SCP-7898はクラスW74食用不可死体に再指定された ||\n|| 断裂イベントの最中にSCP-7898-1個体を屋外へ連れ出す || SCP-7898-1個体は体力を劇的に上昇させ、同伴していた職員2名を感染させた後に終了された。個体の死骸は焼却処分された ||\n|| 濾過されていない淡水[[footnote]] 容器を溶解しないように処理済み。 [[/footnote]]への曝露 || 通常の化学熱傷を超える顕著な効果は無し ||\n|| 汎北極海域の未処理海水[[footnote]] 建造物内に収まる程度に調整済み。 [[/footnote]]への曝露 || 水と一体化し、水とのあらゆる物理的な接触を通じて伝染することが、立ち会った複数の職員の汚染によって明らかになった。水のサンプルは破棄された ||\n _\n> //注記: このアノマリーは、職員の死亡率が低く、ごく平凡でありふれた現象に類似していることから、心的外傷を負った研究者をより安全でストレスの少ないアノマリー担当業務へと一時的に異動させる制度 “サルヴェイション・イニシアチブ” の開発において、転属先の有力候補として注目されています。//\n _\n _\n _\n _\n _\n\n[[footnoteblock]]\n\n[[include :scp-jp:component:earthworm\n| first=false| last=false | hub=yes\n| previous-url=/scp-7841 | previous-title=Vは\"Violence\"のV\n| next-url=/scp-7930 | next-title= Xは“XXX”のX\n| hub-url=/scp-anthology-hub | hub-title=SCP アンソロジー ハブ\n]]",
+  "tags": [
+    "en",
+    "safe",
+    "scp",
+    "クモ",
+    "動物",
+    "寄生",
+    "死のabc",
+    "生命",
+    "神経",
+    "種族",
+    "精神影響"
+  ],
+  "author": "C-Dives",
+  "created_at": "2022-11-23T14:40:17+00:00",
+  "updated_at": "2025-03-17T07:50:21+00:00",
+  "rating": 28,
+  "_site": "scp-jp",
+  "_fullname": "scp-7898"
+}

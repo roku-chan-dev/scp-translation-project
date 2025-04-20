@@ -1,0 +1,13 @@
+{
+  "title": "More by Calibold",
+  "content": "[[module CSS]]\n\n.more-by-calibold .collapsible-block-unfolded-link a, .more-by-calibold .collapsible-block-folded a {\n    font-weight: bold;\n}\n\n.more-by-calibold {\n    font-size: 75%;\n}\n\n.more-by-calibold .page-rate-widget-box {\n    font-size: 133%;\n}\n\n.page-rate-widget-box {\n    margin-right: 0px;\n}\n\n[[/module]]\n\n[[div class=\"more-by-calibold\"]]\n\n[[=]]\n\n[[module Rate]]\n\n[[collapsible show=\"+ More by Calibold +\" hide=\"- More by Calibold -\"]]\n\n**[[size 125%]][[[Calibri Bold's Mega Cool Author Page|Calibold's Mega Cool Author Page]]][[/size]]**\n\n**-- SCP Articles --**\n\n[[module ListPages created_by=\"Calibold\" separate=\"no\" category=\"-fragment\" tags=\"+scp -co-authored\" perPage=\"250\"]]\n%%title_linked%% -- %%content{4}%%\n[[/module]]\n\n**-- Tales --**\n\n[[module ListPages created_by=\"Calibold\" separate=\"no\" category=\"-fragment\" tags=\"+tale -co-authored\" perPage=\"250\"]]\n%%title_linked%%\n[[/module]]\n\n**-- GoI Formats --**\n\n[[module ListPages created_by=\"Calibold\" separate=\"no\" category=\"-fragment\" tags=\"+goi-format -co-authored\" perPage=\"250\"]]\n%%title_linked%%\n[[/module]]\n\n**-- Other --**\n\n[[module ListPages created_by=\"Calibold\" separate=\"no\" category=\"-fragment\" tags=\"-scp -tale -goi-format -co-authored -author -more-by\" perPage=\"250\"]]\n%%title_linked%%\n[[/module]]\n\n**-- Co-Authored --**\n\n[[[Taste The Rainbow]]] (//feat.// Luxaiko)\n[[[Abraka Davids Proposal|Abraka David's Proposal]]] -- A Peak Behind the Curtain (//feat.// many other authors)\n[[[SCP-7400]]] -- Your Honor, League of Legends (//feat.// Sherf)\n[[[I, Hub]]] (//feat.// many other authors)\n[[[Resurrection New Faces Hub|Resurrection: New Faces]]] (//feat.// Grigori Karpin, Nagiros, and redredred)\n[[[SCP-5545]]] -- 𝙰 𝙱 𝙽 𝙾 𝚁 𝙼 𝙰 𝙻 𝙸 𝚃 𝚈 (//feat.// Yossipossi)\n[[[SCP-194]]] -- Thank You For Your Cooperation (//feat.// CityToast)\n\n**-- Foreign --**\n\n[http://scp-int.wikidot.com/director-bold-s-proposal-la Director Bold's Proposal] -- Language\n[http://scp-int.wikidot.com/scp-la-002 SCP-LA-II] -- Fruit\n\n[[/collapsible]]\n\n[[/=]]\n\n[[/div]]\n\n[!--\n\n=====\n[[include component:preview\ntext=PREVIEWTEXT]]\n=====\n\n[[div style=\"display:none;\"]]\n=====\nTITLETEXT\n=====\n[[/div]]\n\n--]",
+  "tags": [
+    "more-by"
+  ],
+  "author": "Calibold",
+  "created_at": "2022-01-08T05:05:58+00:00",
+  "updated_at": "2024-10-28T02:29:37+00:00",
+  "rating": 11,
+  "_site": "scp-wiki",
+  "_fullname": "more-by:calibold"
+}

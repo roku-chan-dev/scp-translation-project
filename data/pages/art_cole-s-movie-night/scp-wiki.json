@@ -1,0 +1,15 @@
+{
+  "title": "COLE'S MOVIE NIGHT",
+  "content": "[[include :scp-wiki:theme:basalt darkmode=a]]\n\n[[=]]\n\n[[div style=\"display: none;\"]]\n[[include component:image-block\nname= https://scp-wiki.wikidot.com/local--files/art:cole-s-movie-night/Title\n|caption= C\n|width=100%\n|align=center]]\n\n[[>]]\n[[module Rate]]\n[[/>]]\n\n+* Cole's Movie Night!\n-------------\n[[collapsible show=\" You have your ticket? \" hide=\" Welcome!\"]]\n\n-------------------------\n[[image https://scp-wiki.wikidot.com/local--files/cole-13-s-drawing-hut/M1.png width=\"400px\"]]\n---------------\n[[image https://scp-wiki.wikidot.com/local--files/cole-13-s-drawing-hut/M2.png width=\"400px\"]]\n--------------\n[[image https://scp-wiki.wikidot.com/local--files/cole-13-s-drawing-hut/M3.png width=\"400px\"]]\n--------------\n[[image https://scp-wiki.wikidot.com/local--files/cole-13-s-drawing-hut/M4.png width=\"400px\"]]\n--------------\n[[image https://scp-wiki.wikidot.com/local--files/cole-13-s-drawing-hut/M5.png width=\"400px\"]]\n--------------\n[[image https://scp-wiki.wikidot.com/local--files/cole-13-s-drawing-hut/M6.png width=\"400px\"]]\n--------------\n[[image https://scp-wiki.wikidot.com/local--files/cole-13-s-drawing-hut/M7%20.png width=\"400px\"]]\n--------------\n[[image https://scp-wiki.wikidot.com/local--files/cole-13-s-drawing-hut/M8.png width=\"400px\"]]\n--------------\n[[image https://scp-wiki.wikidot.com/local--files/cole-13-s-drawing-hut/M9.png width=\"400px\"]]\n\n\n\n\n\n\n\n[[/collapsible]]\n \n\n\n[[/=]]",
+  "tags": [
+    "_cc",
+    "artwork",
+    "scp-art"
+  ],
+  "author": "Cole 13",
+  "created_at": "2021-08-17T18:52:09+00:00",
+  "updated_at": "2024-03-28T17:45:01+00:00",
+  "rating": 39,
+  "_site": "scp-wiki",
+  "_fullname": "art:cole-s-movie-night"
+}

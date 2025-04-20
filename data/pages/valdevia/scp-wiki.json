@@ -1,0 +1,16 @@
+{
+  "title": "Valdevia's Art Page",
+  "content": "[[>]]\n[[module Rate]]\n[[/>]]\n\n[[include :scp-wiki:theme:black-highlighter-theme]]\n[[include :scp-wiki:theme:extra-black-highlighter-theme]]\n[[include :scp-wiki:component:toggle-sidebar-bhl]]\n[[include :scp-wiki:component:centered-header-bhl]]\n[[module CSS]]\n:root {\n        --dark-accent: var(--bright-accent);\n[[/module]]\n\n[[=]]\n+ **[*https://twitter.com/Valdevia_Art Twitter] | [*https://bsky.app/profile/valdevia.art Bluesky] | [*https://www.instagram.com/valdevia_art/ Instagram] | [*https://valdevia.art/ Website] | [*https://www.twitch.tv/valdevia Livestreams]**\n\n\n++++++ All images below are licensed as [*https://creativecommons.org/licenses/by-sa/4.0/ CC-BY-SA 4.0]\n\n@@ @@\n\n+++ **[https://scp-wiki.wikidot.com/scp-173 SCP-173]** - by Moto42 ([https://scp-wiki.wikidot.com/peanut-gallery Redesign])\n\n\n[[image SCP-173 link=\"https://valdevia.art/portfolio/scp-173/\"]]\n++++++ ([https://valdevia.art/portfolio/scp-173/ Image sources])\n@@ @@\n+++ SCP-8000: **[https://scp-wiki.wikidot.com/scp-8000 The Seal of Approval]** - by PlaguePJP\n\n[[image 8k.jpg link=\"https://valdeviaart.files.wordpress.com/2021/06/scp-seal.jpg\"]]\n@@ @@\n+++ SCP-6000: **[https://scp-wiki.wikidot.com/scp-6000 The Serpent, the Moose, and the Wanderer's Library]** - by Rounderhouse\n\n[[image 6k-Rounderhouse link=\"https://valdeviaart.files.wordpress.com/2021/05/rounder.jpg\"]]\n@@ @@\n+++ SCP-001: **[https://scp-wiki.wikidot.com/rounderhouse-jade-proposal Jade Proposal]** - by Rounderhouse\n\n[[image SCP-001-Jade link=\"https://valdeviaart.files.wordpress.com/2021/06/rounder-scp-001.jpg\"]]\n@@ @@\n\n\n+++ SCP-6666: **[https://scp-wiki.wikidot.com/scp-6666 The Demon Hector and the Dread Titania]** - by djkaktus\n\n[[image 6k-Kaktus link=\"https://valdeviaart.files.wordpress.com/2021/05/scp-6000.jpg\"]]\n@@ @@\n\n\n+++ SCP-6013: **[https://scp-wiki.wikidot.com/scp-6013 The Leviathan of the Aegean]** - by Rhys Tanner\n\n[[image 6k-Rhys link=\"https://valdeviaart.files.wordpress.com/2021/05/scp-6000-reef.jpg\"]]\n@@ @@\n\n\n+++ SCP-6996: **[https://scp-wiki.wikidot.com/scp-6996 Does the Red Moon Howl?]** - by Dysadron\n\n[[image 6k-Dysadron link=\"https://valdeviaart.files.wordpress.com/2021/05/scp-6000-red-ball-1.jpg\"]]\n@@ @@\n\n+++ SCP-6733: **[https://scp-wiki.wikidot.com/scp-6733 The Suburb Slasher Strikes Again]** - by Dysadron\n\n[[image Dysadron-Slasher link=\"https://scp-wiki.wdfiles.com/local--files/valdevia/Dysadron-Slasher\"]]\n@@ @@\n\n\n+++ **[https://scp-wiki.wikidot.com/adoption-poster-bonzo Adoption Poster: Bonzo]** - by Dr. Gooday\n\n[[image Gooday-bonzo link=\"http://scp-wiki.wikidot.com/local--files/valdevia/Gooday-bonzo\"]]\n[[/=]]",
+  "tags": [
+    "_cc",
+    "artist",
+    "image-editing",
+    "scp-art"
+  ],
+  "author": "Valdevia",
+  "created_at": "2021-05-25T04:46:14+00:00",
+  "updated_at": "2024-11-22T19:18:04+00:00",
+  "rating": 111,
+  "_site": "scp-wiki",
+  "_fullname": "valdevia"
+}

@@ -1,0 +1,13 @@
+{
+  "title": "SCP-CN-054:3",
+  "content": "**以下文字抄录自立于SCP-CN-054-1中心的一块方尖碑：**\n\n> //众神遗弃之地//\n> \n> //生者遗忘之城//\n> \n> //这里是死者的桃源//\n> \n> //这里是亡灵的乐园//\n> \n> //作为生者，我们饱经风霜，尝遍世间疾苦//\n> \n> //作为死者，我们无忧无虑，在此永享极乐//\n> \n> //在这里，你可以听到辩论却听不到辱骂//\n> \n> //在这里，你可以看到打斗却看不到杀戮//\n> \n> //在这里，你可以看到竞争却看不到战争//\n> \n> //这里曾被称作爱丽舍花园，亦或麦格·梅奥//\n> \n> //这里是我们最后的家//\n----\n**以下文字抄录自该方尖碑的底部：**\n\n> //此地由暮光图书馆建于███年//\n> \n> //愿有朝一日生者之地也能共享极乐//\n> \n> //愿有朝一日世间再无痛苦//\n> \n> //暮光图书馆领袖Indus，叩首谨立//\n----\n[[collapsible show=\"请输入存取密钥\" hide=\"万物有灵，万物皆亡\"]]\n[[html]]\n<head>\n<script language=\"javascript\">\n\nfunction LogIn(){\nwindow.open('http://scp-wiki-cn.wikidot.com/scp-cn-054/offset/3');\n}\n\n</script>\n\n</head>\n\n<body>\n<div style=\"text-align: center;\">\n<form><input type=button value=\"存取最终文件？\" onClick=\"LogIn()\"></form>\n</div>\n</body>\n[[/html]]\n\n[[html]]\n<html>\n<head>\n<script type=\"text/javascript\">\nfunction setVar()\n{\n    if (sessionStorage.read != 1)\n    {\n        sessionStorage.setItem('read', 1);\n    }\n}\n</script>\n</head>\n<body onLoad=\"setVar();\">\n</body>\n</html>\n[[/html]]\n[[/collapsible]]",
+  "tags": [
+    "段落"
+  ],
+  "author": null,
+  "created_at": "2017-05-21T14:24:18+00:00",
+  "updated_at": "2022-02-15T02:38:52+00:00",
+  "rating": 0,
+  "_site": "scp-wiki-cn",
+  "_fullname": "fragment:scp-cn-054-3"
+}

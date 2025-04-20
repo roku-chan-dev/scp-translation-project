@@ -1,0 +1,25 @@
+{
+  "title": "SCP-7134",
+  "content": "[[module CSS]]\n.collapsible-block {\n    display: block;\n    text-align: left;\n    padding: 0.75em;\n    background-color: lightgrey;\n    border-top: 0.125rem dashed slategrey;\n    border-bottom: 0.125rem dashed slategrey;\n}\n[[/module]]\n[!--WTF why wont offset/0 show up correctly on the parent?--]\n\n\n[[include :scp-wiki:component:info-ayers\n|lang=en[!-- EN --]\n|page=\n|authorPage=http://www.scp-wiki.net/[!-- link to your author page --]\n|comments= Born 'Neath a Lucky Star\n]]\n\n\n\n[[=]]\n[[module Rate]]\n[[/=]]\n\n\n\n[[include theme:black-highlighter-theme]]\n[[include :scp-wiki:component:rso]]\n\n\n[[module ListPages category=\"fragment\" parent=\".\" order=\"created_at\" limit=\"1\" offset=\"@URL|0\"]]\n%%content%%\n[[/module]]\n\n[!-- https://scp-wiki.wikidot.com/fragment:7000pinoccappuccino-1 --]\n[!-- https://scp-wiki.wikidot.com/fragment:7000pinoccappuccino-2 --]\n\n----\n\n[[=]]\n[[include :scp-wiki:component:license-box\n|author=**Pinoccappuccino**]]\n=====\n\n> **Filename:** TBA\n> **Name:** SCP-7000_autopsy (TBA)\n> **Original:** TBA\n> **Author:**  TBA\n> **Dimensions:** TBA×TBA\n> **Description:** TBA\n> **License:** TBA\n> **Source:** TBA\n\n> **Filename:** Unlucky_Jackalope_4891624513.jpg\n> **Name:** blackwood_SCP-7000_taxidermy\n> **Author:** CGP Grey\n> **Dimensions:** 2958×2561 (2958:2561)\n> **Description:** Rogue taxidermy of a jackalope head mount. Taken in Spica, Kansas on August 7, 2009.\n> **License:** CC BY 2.0\n> **Source:** \n> * [https://www.cgpgrey.com CGP Grey.com]\n> * [https://www.flickr.com/photos/cgpgrey/4891624513/ Flickr]\n> * [https://commons.wikimedia.org/wiki/File:Unlucky_Jackalope_4891624513.jpg Wikimedia]\n\n> **Filename:** FireResearch_024 (1).jpg\n> **Name:** GalvestonFire1945\n> **Author:** National Institute of Standards and Technology\n> **Dimensions:** 512×414 (256:207)\n> **Description:** Interior of mock occupancy after fire, with all combustible material consumed except contents of the two insulated safes. Part of NIST's Fire Research Photographic Collection, taken in Gaithersburg, Maryland post March 3, 1901.\n> **License:** Public Domain\n> **Source:** [https://commons.wikimedia.org/wiki/File:FireResearch_024.jpg Wikimedia]\n\n> **Filename:** lux.png\n> **Name:** lux\n> **Author:** Carol M. Highsmith\n> **Dimensions:** 1024×372 (256:93)\n> **Description:** Southwest-facing aerial view of the Las Vegas Strip during nighttime. In focus are the Mandalay Bay Resort and Casino (far left), the Luxor Las Vegas (center), and Excalibur Hotel & Casino (near right). Taken between 1999 and 2006.\n> **License:** \"No known restrictions on publication.\"\n> **Source:**\n> * [https://www.loc.gov/item/2011631862/ Library of Congress]\n> * //[[[SCP-4661|SCP-4661 - Sin City]]]// (prior use)\n\n> **Filename:** fmlogodeaux_white.png\n> **Name:** fmlogodeaux_white\n> **Original:** fmlogodeaux.png\n> **Author:**  \n> * ghosthorses (Deleted Account; original)\n> * [[*user Pinoccappuccino]] (color shift edit)\n> **Dimensions:** 150×150 (1:1)\n> **Description:** Variant of the SCP logo with a caduceus (medical symbol of snakes wrapped around Hermes' staff) in center. Color inverted. Original made by January 16th, 2019; edited July 30th, 2022.\n> **License:** CC-BY-SA\n> **Source:** //[[[anomalousflatulence-preview-page|Site-M16 SCiPNET Email: RCT]]]// (prior use)\n\n> **Filename:** KETER-RABBIT_barcode.jpg\n> **Name:** KETER-RABBIT_barcode\n> **Author:** \n> * Tec-it.com (generator)\n> * [[*user Pinoccappuccino]] (prompter; edit)\n> **Dimensions:** 446×76 (223:38)\n> **Description:** A barcode that reads \"KETER-RABBIT\" as a little Easter egg that 99% of people won't be able to read or notice. Transcription cropped. Generated July 6th, 2022.\n> **License:** \"You may use this barcode generator as part of your non-commercial web-application or web-site to create barcodes, QR codes and other 2D codes with your own data. In return, we ask you to implement a back-link with the text \"TEC-IT Barcode Generator\" on your web-site. Back-linking to www.tec-it.com is highly appreciated, the use of TEC-IT logos is optional.\"\n> **Source:** [https://barcode.tec-it.com/en/Code39 Tec-It Barcode Generator]\n\n=====\n[[include :scp-wiki:component:license-box-end]]\n[[/=]]\n\n\n\n[[div class=\"footer-wikiwalk-nav\"]]\n[[=]]\n<< [[[SCP-7133]]] | SCP-7134 | [[[ongeacht|SCP-7135]]] >>\n[[/=]]\n[[/div]]\n\n\n\n[[=]]\n[[module Rate]]\n[[/=]]",
+  "tags": [
+    "7000",
+    "_cc",
+    "_licensebox",
+    "_listpages",
+    "alive",
+    "animal",
+    "intangible",
+    "keter",
+    "probability",
+    "reality-bending",
+    "sapient",
+    "scp",
+    "undervegas"
+  ],
+  "author": "Pinoccappuccino ",
+  "created_at": "2022-08-01T03:23:35+00:00",
+  "updated_at": "2023-11-17T08:20:10+00:00",
+  "rating": 8,
+  "_site": "scp-wiki",
+  "_fullname": "scp-7134"
+}

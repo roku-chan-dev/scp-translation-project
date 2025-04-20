@@ -1,0 +1,15 @@
+{
+  "title": "SCP-3883-JP",
+  "content": "[[module CSS]]\nsup {\nvertical-align: top; position: relative; top: -0.5em;\n}\n[[/module]]\n\n[[include :scp-jp:credit:start]]\n**タイトル:** SCP-3883-JP - モラルに反する\n**著者:** [[*user taiyousun]]\n**作成年:** 2024\n\n----\n//**[[[author:taiyousun|この著者の他の作品]]]**//\n[[include :scp-jp:credit:end]]\n\n**アイテム番号:** SCP-3883-JP\n\n**オブジェクトクラス:** Euclid\n\n**特別収容プロトコル:** SCP-3883-JPの発生を抑制するため、SCP-3883-JP発生の可能性のある任務を行う部隊は1ヶ月に1度、人員の入れ替えを可能な限り行ってください。\n\n**説明:** SCP-3883-JPは財団職員(以下、対象)に発生する異常現象です。現在確認されている全ての対象はSCP-3883-JP発生の30日前に何らかの任務を行っており、SCP-3883-JPの発生に関連があると見られています。以下は対象の行った任務の抜粋です。\n\n* 死霊術師との戦闘\n* [http://scp-jp.wikidot.com/scp-008 SCP-008]感染者の鎮静化\n* [http://scp-jp.wikidot.com/scp-022 SCP-022-1]の無害化\n\nSCP-3883-JPの発生した対象は、そのような兆候が確認されていなかったにも関わらず即座に植物状態となります。その後、対象は12時間~168時間で植物状態から覚醒します。しかしながら、SCP-3883-JPが発生する度に植物状態となる時間が増加し、同一の対象にSCP-3883-JPが5回発生すると対象は植物状態から覚醒する事が不可能となります。\n\nSCP-3883-JPにより植物状態となっている対象の額には以下の文章が出現します。この文章は対象の覚醒時に消失します。\n\n[[div class=\"blockquote\"]]\n[[=]]\n次の行為によりこのアカウントはロックされています:\n死体撃ち[[footnote]]シューティングゲームにおいて相手の死体を撃つこと[[/footnote]]\n[[/=]]\n[[/div]]",
+  "tags": [
+    "euclid",
+    "jp",
+    "scp"
+  ],
+  "author": "taiyousun",
+  "created_at": "2024-06-10T13:04:43+00:00",
+  "updated_at": "2024-06-10T13:05:14+00:00",
+  "rating": 6,
+  "_site": "scp-jp",
+  "_fullname": "scp-3883-jp"
+}

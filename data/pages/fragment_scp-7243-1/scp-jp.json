@@ -1,0 +1,14 @@
+{
+  "title": "SCP-7243 Fragment 1",
+  "content": "[[include :scp-wiki:theme:admo astral=a]]\n\n[[module CSS]]\n\n/* SCP-7243 -  EXISTENTIAL ABATEMENT */\n/* ACCESSIBILITY PATCH */\n\n:is(.table1, .table2, .table3, .table4, .table5, .table6) h1 {\ncolor: inherit;\n}\n\n.packet {\nbackground: rgb(var(--basalt-tertiary-color));\n}\n\n.oracle-wave {\nbackground-image: linear-gradient(180deg, transparent 0%, rgba(0, 0, 0, 0.125) 100%);\n}\n\n.oracle-wave.end {\nbackground-image: linear-gradient(0deg, transparent 0%, rgba(0, 0, 0, 0.125) 100%);\n}\n\n[[/module]]\n\n[[div class=\"admo-accessibility\"]]\n[[span class=\"cond\"]]>> [/scp-7243 標準モードで閲覧] <<[[/span]]\n[[/div]]",
+  "tags": [
+    "en",
+    "フラグメント"
+  ],
+  "author": "Witherite",
+  "created_at": "2023-12-31T01:29:18+00:00",
+  "updated_at": "2023-12-31T01:30:59+00:00",
+  "rating": 0,
+  "_site": "scp-jp",
+  "_fullname": "fragment:scp-7243-1"
+}

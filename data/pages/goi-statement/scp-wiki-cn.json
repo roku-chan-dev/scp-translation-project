@@ -1,0 +1,21 @@
+{
+  "title": "相关组织宣言",
+  "content": "[[>]]\n[[module rate]]\n[[/>]]\n[[div style=\"background-color:#F60000\"]]\n[[=]]\n+ [[span style=\"color:white\"]][[span style=\"font-family:Microsoft YaHei\"]]**{{仅限3级以上权限人员访问}}**[[/span]][[/span]]\n[[/=]]\n[[/div]]\n\n[[div style=\"border:solid 1px #999999; background:#f2f2c2; padding:5px; margin-bottom：10px;\"]]\n[[=]]\n++++ 来自基金会记录及信息安全管理部门的通知\n\n以下文件由基金会网络爬虫获取自网络，包含敏感信息且仅做归档用途。访问文件的行为将会被监控和记录，请访问者阅读文件时保持客观和冷静，并谨记自己作为基金会员工的守则和使命。任何违反守则的行为都将招致不同程度的惩罚。\n\n——Maria Jones，主管，RAISA\n[[/=]]\n[[/div]]\n\n[[div style=\"background-color:green\"]]\n[[=]]\n+ [[span style=\"color:white\"]][[span style=\"font-family:Microsoft YaHei\"]]**{{权限已通过，许可访问}}**[[/span]][[/span]]\n[[/=]]\n[[/div]]\n[[module ListPages category=\"fragment\" parent=\".\" order=\"random\" limit=\"1\"]]\n[[=]]\n+ %%title%%宣言\n[[/=]]\n%%content%%\n[[/module]]\n------\n\n**所有条目：**\n\n[[module ListPages category=\"*\" parent=\".\" order=\"created_at\" perPage=\"10\" ]]\n\n%%title_linked%%\n\n[[/module]]\n[[module NewPage size=\"20\" button=\"创建子页面\" category=\"fragment\" parent=\"goi-statement\" tags=\"段落\" template=\"template:statement\"]]",
+  "tags": [
+    "mc&d",
+    "nirvana",
+    "原创",
+    "合作",
+    "恐惧&马戏团",
+    "故事",
+    "混沌分裂者",
+    "蛇之手",
+    "赫曼·富勒"
+  ],
+  "author": "thrumuvethur",
+  "created_at": "2018-07-22T13:34:08+00:00",
+  "updated_at": "2020-05-12T14:08:44+00:00",
+  "rating": 40,
+  "_site": "scp-wiki-cn",
+  "_fullname": "goi-statement"
+}

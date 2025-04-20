@@ -1,0 +1,15 @@
+{
+  "title": "Archived SCP-DE",
+  "content": "\"-ARC\"は削除の代わりにアーカイブされたページです。これは通常、削除条件を満たしたページが他のページで引用されている場合や、削除によって混乱が生じ得る場合に実施されます。またスタッフがメインリスト以外の場所にページを残しておきたい場合もあります。[[footnote]]訳注: 以降の記述はドイツ語支部サイトのメンバーに向けたものと思われるため、混乱を避ける目的でコメントアウトしています。[[/footnote]]\n\n[!--通常のユーザーはこのページに追加してはなりません。アーカイブ記事は再作成するのではなく、現存する記事をリネームする形で作成してください。\n\n[[collapsible show=\"+訳注\" hide=\"-訳注\"]]\n-ARCのSCP記事の翻訳は通常のSCP記事と同様の形で行われ、[[[http://scp-wiki-de.wikidot.com/uebersetzungsregeln|翻訳ルール]]]が適用されます。翻訳者は本リストにおける名称の翻訳や変更を行うことができます。\n[[/collapsible]]--]\n\n[[div class=\"content-panel standalone series\"]]\n\n+ アーカイブSCP記事 -- 参照整合性\n以下のSCPは完全にページが削除されたら重要な内容が失われてしまうバックリンク、あるいはTaleや補足の参考の理由で保存されました。\n\n[[/div]]\n\n[[div class=\"content-panel standalone series\"]]\n+ アーカイブSCP記事 -- スタッフ権限\n以下のSCP記事はスタッフ権限により保存されました。具体的な理由を見るにはそれぞれのページにあるコメントスレッドを参照してください。\n* [[[deleted:scp-010-de-arc|SCP-010-DE-ARC]]] - 奇妙なペイントボール\n\n[[/div]]\n\n[[div class=\"content-panel standalone series\"]]\n+ アーカイブTale\n以下のTaleはスタッフ権限により保存されました。具体的な理由を見るにはそれぞれのページにあるコメントスレッドを参照してください。\n* [[[gottes-magie-hub-arc|神の魔術 ハブ]]]\n\n[[/div]]\n\n[[div class=\"content-panel standalone series\"]]\n+ アーカイブガイド&エッセイ\n以下のガイドとエッセイは時間切れになったり、更新された内容と換えられたので保存されました。\n\n[[/div]]",
+  "tags": [
+    "de",
+    "ハブ",
+    "メタデータ"
+  ],
+  "author": "Red_Selppa",
+  "created_at": "2018-11-17T05:20:32+00:00",
+  "updated_at": "2021-07-13T13:53:40+00:00",
+  "rating": 12,
+  "_site": "scp-jp",
+  "_fullname": "archived-scps-de"
+}

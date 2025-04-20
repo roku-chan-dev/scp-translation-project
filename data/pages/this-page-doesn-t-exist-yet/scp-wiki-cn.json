@@ -1,0 +1,14 @@
+{
+  "title": "此页面不存在！",
+  "content": "[[module CSS]]\n\n\n#page-title {\n    text-align: center;\n\n}\n[[/module]]\n\n[[div style=\"background-color: #600; border: solid 1px #600; border-radius: 20px; color: #fff; width: 450px; margin: 0 auto; font-size: 150%; text-align: center; box-shadow: 0 2px 6px rgba(0,0,0,.5), inset 0 1px rgba(255,255,255,.5), inset 0 10px rgba(255,204,204,.5), inset 0 10px 20px rgba(255,204,204,.3), inset 0 -15px 30px rgba(48,0,0,.5); line-height: 100%; padding: 0 10px;\"]]\n**你有去问过别人的意见吗？**\n\n[[/div]]\n\n[[div style=\"background-color: #fff0f0; border: solid 1px #600; border-radius: 20px; color: #300; width: 450px; margin: 20px auto 0; text-align: center; box-shadow: 0 2px 6px rgba(0,0,0,.5); padding: 0 10px;\"]]\n在你发表你的作品前，参考下列内容能有助你寻求反馈意见并改善你的文章，从而使你的作品更容易成功。\n------\n\n[http://scp-wiki-cn.wikidot.com/how-to-write-an-scp 如何撰写一篇SCP文档] — [http://scpsandboxcn.wikidot.com/  中文沙盒维基] — [http://scp-wiki-cn.wikidot.com/guide-hub 指导中心]\n\n[http://scp-wiki-cn.wikidot.com/image-use-policy 图像使用守则]\n\n[http://scp-wiki-cn.wikidot.com/forum/c-882988/ 帮助：点子及头脑风暴]\n[http://scp-wiki-cn.wikidot.com/forum/c-882987/ 帮助：草稿与批判]\n[http://scp-wiki-cn.wikidot.com/chat-guide 聊天指南]\n\n[[/div]]\n\n\n[[div style=\"background-color: #fffff0; border: solid 1px #660; border-radius: 20px; color: #330; width: 450px; margin: 20px auto 0; text-align: center; box-shadow: 0 2px 6px rgba(0,0,0,.5); padding: 0 10px;\"]]\n[[span style=\"font-size:120%;\"]]谨记: **本站是评价最终成果的地方，而不是为未完成作品提供意见及反馈的地方。**[[/span]]\n------\n你的责任就是在这里只发布已完成、最终的作品。网站成员有权不就他们的评分作出解释。\n\n如果你了解上述的一切，并仍然要创建此页的话，[[[this-page-doesn-t-exist-yet|按此]]]创建页面。\n\n[[/div]]\n\n@@@@ @@@@\n@@@@ @@@@\n@@@@ @@@@\n@@@@ @@@@\n\n@@@@ @@@@\n@@@@ @@@@\n@@@@ @@@@\n@@@@ @@@@\n\n@@@@ @@@@\n@@@@ @@@@\n@@@@ @@@@\n@@@@ @@@@\n\n@@@@ @@@@\n@@@@ @@@@\n@@@@ @@@@\n@@@@ @@@@\n\n@@@@ @@@@\n@@@@ @@@@\n@@@@ @@@@\n@@@@ @@@@\n\n@@@@ @@@@\n@@@@ @@@@\n@@@@ @@@@\n@@@@ @@@@\n\n[[=]]\n这一切就是这样，不是吗？\n\n我打赌你肯定认为这是一个空白页面或者是Wikidot出了故障，毕竟这种事情经常发生。\n\n但不是。这个页面是……\n\n+ 关于发布文章或发布点子之前要做的事\n\n[[/=]]\n\n------\n[[include :scp-wiki-cn:credit:start-standalone]]\n[[=]]\n**[[[ellie3-gimmick-free|更多该作者的文章]]]**\n[[/=]]\n[[include :scp-wiki-cn:credit:end-standalone]]\n\n小笨蛋，你只需要阅读并遵守所有在框里的东西\n文章结束了，回首页吧\n@@@@ @@@@\n@@@@ @@@@\n@@@@ @@@@\n@@@@ @@@@",
+  "tags": [
+    "搞笑",
+    "文章"
+  ],
+  "author": "Never part",
+  "created_at": "2020-04-12T02:12:39+00:00",
+  "updated_at": "2023-03-18T08:31:23+00:00",
+  "rating": 23,
+  "_site": "scp-wiki-cn",
+  "_fullname": "this-page-doesn-t-exist-yet"
+}

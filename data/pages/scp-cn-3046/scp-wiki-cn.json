@@ -1,0 +1,23 @@
+{
+  "title": "SCP-CN-3046",
+  "content": "[[include :scp-wiki-cn:theme:darkcode]]\n[[module CSS]]\n.email-example .collapsible-block-folded a.collapsible-block-link {\n    animation: blink 0.8s ease-in-out infinite alternate;\n}\n@keyframes blink {\n    0% { color: transparent; }\n    50%, 100% { color: #b01; }\n}\n.email {border: solid 2px #000000; width: 88%; padding: 1px 15px; margin: 10px; box-shadow: 0 1px 3px rgba(0,0,0,.5)}\n.email-example a.collapsible-block-link {font-weight: bold;}\n.tofrom {margin-left: 10px; margin-top: 5px; padding: 1px 15px; border-left: solid 3px maroon}\n[[/module]]\n\n[[>]]\n[[module Rate]]\n[[/>]]\n\n[[include :scp-wiki-cn:component:advanced-information-methodology blocks=-\n|lang=cn\n|XXXX=CN-3046\n|lv=1\n|cc=SAFE\n|dc=NOTICE\n|darkmode=a\n]]\n\n\n[[include component:image-block\n| name=http://scpsandboxcn.wikidot.com/local--files/wonderfulcat-photo/engine.jpg\n| caption=SCP-CN-3046\n| width=320px\n]]\n\n**特殊收容措施：**SCP-CN-3046被收容于Site-CN-36的标准圣物研究单元，由战术神学部、恶魔学部、信息技术部共同组建的项目组正在对该实体展开逆向研究工程。作为“基金会员工福利保障计划”的一部分，这一工程应在SCiPNET实时公开更新。\n\n**描述：**SCP-CN-3046是一台大型机械式计算机，其设计基于蒸汽机与齿轮传动技术，并采用了塔尔塔洛实体作为核心组件。整机由铜锌合金铸造拼接而成，外壳覆盖有一层银单质薄膜，操作台处刻有拉丁文铭文//Leo PP. X//。经试验，该项目能够对20位数字进行运算，并将结果以罗马数字的形式打印在内置的可更换羊皮纸上。当举行3046-Ω仪式时，项目将开始一次时间在1~12h不等的自动运算并通过内部的玛门通信元件对外交换数据。运算结束后，项目会在羊皮纸上打印一段拉丁语词句。此时该羊皮纸将转化为能够检测到明显阿吉巴放射的实体SCP-CN-3046-1。\n\n需要注意的是，在项目使用过程中可能出现：周围响起尖锐的不明噪音、墙壁渗出深红色液体，以及操作者丧失自然语言功能，只能使用计算机语言进行交流等异常现象。\n\nSCP-CN-3046在中国上海市青浦区一间废弃地下仓库内被基金会特工马鸣发现，与其一同被发现的还有一具生前严重营养不良的腐烂尸体、一台被因猛烈撞击损坏的笔记本电脑。在后续调查中，站点法医发现，尸体的肠道已经被机油堵塞，胃里有大量尚未被消化的煤炭；项目组通过技术手段复原了笔记本电脑硬盘中的部分数据并得出结论：SCP-CN-3046是一台最早可追溯到文艺复兴时期，由列奥纳多·达·芬奇在教宗利奥十世和美第奇家族的资助下制造的机械式计算机。该设备最初的目的可能是为了帮助美第奇家族的海外贸易事业，后由于不明原因，该项目转而用于生产“更具有独特性和神圣意义的赎罪券”。\n------\n**附录3046.1：**可公开的已恢复邮件\n\n[[div class=\"email-example\"]]\n[[=]]\n\n[[<]]\n[[div class=\"email\"]]\n[[div class=\"tofrom\"]]\n**至：**faithful_judas@icloud.com\n**自：**catmaycry@foxmail.com\n[[/div]]\n------\n哥们，你托我找的文艺复兴时期的古董我弄到了。这东西说实话弄得我心力憔悴，我安排五队人把东西从佛罗伦萨拉到卢卡一箱一箱给你运回国内。光复原都花了爷小半年时间。你知道2024年的五金店不卖1453年生产的齿轮吗？很多零件都已经锈得和苦瓜一样绿了。话说回来，也是你小子运气好，里面的核心组件居然连一点锈都没长。锈掉的部分我找人定制全换掉了，花了老子不少钱，搞得我现在只能住地下室，这笔钱别忘了给我补。\n\n总之，我这边现在都搞定了，支付方式怎么说，面对面还是线上？\n[[/div]]\n@@ @@\n[[div class=\"email\"]]\n[[div class=\"tofrom\"]]\n**至：**catmaycry@foxmail.com\n**自：**faithful_judas@icloud.com\n[[/div]]\n------\n不急，这可是达·芬奇的工业杰作，钱我肯定会及时打，但你得让我先看看这东西还能不能用。你试着操作看看，然后录一段视频发给我。\n[[/div]]\n[[/<]]\n\n[[/=]]\n[[/div]]\n------\n**附录3046.2：**基金会战术神学部关于SCP-CN-3046的备忘录\n\n[[div class=\"blockquote\"]]\n战术神学部在SCP-CN-3046-1上探测到了异乎寻常的阿吉巴辐射量。结合其纸面上的拉丁语内容，我们相信这一实体属于经教宗授权的大赦证明书，也就是人们常说的赎罪券。\n\n在信息技术部和恶魔学部的帮助下，我们复现了SCP-CN-3046产出赎罪券的全过程：通过3046-Ω仪式，该设备将会接收到来自梵蒂冈城圣伯多禄大殿地底的数据，这一数据通常为一份人类和塔尔塔洛实体之间签署的灵魂交易契约，而设备将会通过不断模拟试错找出完美战胜恶魔的方式并发回梵蒂冈城，作为奖励，SCP-CN-3046获准打印出一张赎罪券。\n\n不同于历史上那些仅能赦免暂罚的劣质赎罪券，用一个贴切的比喻来形容，SCP-CN-3046-1便如同一张死后即可兑现的空头支票，一个恶贯满盈的连环杀人犯，只需在这张支票上签下名字，就能立刻洗白他满身的罪孽，使那本应堕入地狱的灵魂翻身一跃，获得迈入天堂的宝贵机会。\n\n当我们使用[*https://scp-wiki-cn.wikidot.com/scp-6130 SCP-6130]对一名持有SCP-CN-3046-1的D级人员进行检测后，结果显示，他的相对圣洁水平较之前存在显著提高。这一发现无疑让我们心潮澎湃，如果新异教部主管 Astrid Nilsson 关于来世的理论是正确的，那么它清晰地表明，该实体确实具备赦免罪行的异常特性。\n\n信息技术部还告知我们，这一技术可以通过逆向工程被复刻。我们可以制造更多SCP-CN-3046生产赎罪券，作为信教员工的奖励，以彻底解决遏火部在应对此类员工出现伦理踌躇问题使用过激方案的情形，避免项目研究效率下降。\n\n接下来，我们将就此次实验的过程和结果，撰写一份详尽的实验报告，并及时上传至SCiPNET，以供基金会同僚参考研究。\n\n赵大卫\n基金会战术神学部\n[[/div]]\n\n[[include :scp-wiki-cn:component:license-box\n|lang=CN\n]]\n=====\n> **图像名：**Analytical Engine\n> **图像作者：**Mirko Tobias Schäfer\n> **授权协议：**CC BY 2.0\n> **来源链接：**[https://www.flickr.com/photos/12148520@N00/460426704 链接]\n=====\n[[include :scp-wiki-cn:component:license-box-end]]\n\n[[div class=\"footer-wikiwalk-nav\"]]\n[[=]]\n<< [[[SCP-CN-3045]]] | SCP-CN-3046 | [[[SCP-CN-3047]]] >>\n[[/=]]\n[[/div]]",
+  "tags": [
+    "safe",
+    "scp",
+    "site-cn-36",
+    "仪式性",
+    "原创",
+    "发条",
+    "宗教",
+    "战术神学部",
+    "电脑",
+    "精神影响",
+    "遏火部"
+  ],
+  "author": "Wonderful Cat",
+  "created_at": "2024-06-23T18:33:17+00:00",
+  "updated_at": "2024-09-23T01:50:27+00:00",
+  "rating": 25,
+  "_site": "scp-wiki-cn",
+  "_fullname": "scp-cn-3046"
+}

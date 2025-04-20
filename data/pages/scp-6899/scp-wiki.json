@@ -1,0 +1,20 @@
+{
+  "title": "SCP-6899",
+  "content": "[[include :scp-wiki:theme:black-highlighter-theme]]\n[[include :scp-wiki:theme:extra-black-highlighter-theme]]\n[[include :scp-wiki:component:acs-animation]]\n\n[[>]]\n[[module Rate]]\n[[/>]]\n\n[[include :scp-wiki:component:anomaly-class-bar-source\n|item-number= 6899\n|clearance= 2\n|container-class= euclid\n|secondary-class=\n|secondary-icon=\n|disruption-class= dark\n|risk-class= caution\n]]\n----\n----\n[[size 1.5em]]**SPECIAL CONTAINMENT PROCEDURES:**[[/size]]\n----\nSCP-6899 is housed in the minimum security containment wing of Site-17. At the onset of an Alpha Event, SCP-6899 is to be moved into the examination suite adjacent to their containment cell and medical staff are to be notified.\n\nThis medical suite is to maintain a supply of two-liters of type O-negative blood in order to triage Alpha Events.\n\n\n----\n[[size 1.5em]]**DESCRIPTION:**[[/size]]\n----\nSCP-6899 is an adult human male named Trent MacAffee, age 31. On an approximate 96-hour schedule, SCP-6899 begins an Alpha Event wherein they manifest and begin extruding a wooden splinter. These splinters have so far ranged in size from as small as 18 to as long as 45 centimeters, and have demonstrated properties identical to a species of white oak common to the Ohio River Valley. Extruded splinters have not exhibited any anomalous properties, and have been cataloged as instances of SCP-6899-1.\n\nDuring Alpha Events, SCP-6899 experiences periods of extreme physical duress characterized by a heart rate in excess of 140 beats per minute, blood pressure in excess of 150/90, profuse sweating, severe dystonia, and an apparent immunity to all sedatives and tranquilizers.\n\nWhen not undergoing an Alpha Event, SCP-6899 does not demonstrate any anomalous qualities.\n\nAfter thorough psychiatric evaluation, the subject has been either unwilling or is unable to provide any speculation or detail as to the specifics of their condition, or its origins. To date, SCP-6899 has proven resilient against standard Mnestic treatments, as well as both hynogogic and regression therapies.\n\n\n----\n[[size 1.5em]]**FILE UPDATE 2021-08-23:**[[/size]]\n----\nDuring a routine inventory of non-anomalous items, the total volume of SCP-6899-1 objects was cataloged and photographed. When presented with this information, the Senior Researcher assigned to SCP-6899 noted a correlation between the splinters and began an effort to recombine the components. This has resulted in the partial reconstruction (~40%) of the frame of a child's crib.\n\nWhen confronted with this information, SCP-6899 has provided no comment.\n\n\n@@ @@\n@@ @@\n----\n[[footnoteblock]]\n\n[[div class=\"footer-wikiwalk-nav\"]]\n[[=]]\n<< [[[SCP-6898]]] | SCP-6899 | [[[SCP-6900]]] >>\n[[/=]]\n[[/div]]\n[[include :scp-wiki:component:license-box]]\n[[include :scp-wiki:component:license-box-end]]",
+  "tags": [
+    "_licensebox",
+    "alive",
+    "ectoentropic",
+    "euclid",
+    "humanoid",
+    "sapient",
+    "scp",
+    "structure"
+  ],
+  "author": "ManyMeats",
+  "created_at": "2021-08-23T18:16:17+00:00",
+  "updated_at": "2022-10-22T15:18:57+00:00",
+  "rating": 81,
+  "_site": "scp-wiki",
+  "_fullname": "scp-6899"
+}

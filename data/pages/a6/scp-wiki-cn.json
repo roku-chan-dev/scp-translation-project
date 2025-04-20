@@ -1,0 +1,14 @@
+{
+  "title": "5ch论坛尾部",
+  "content": "[[=]]\n[[div_ style=\"border-top:1px solid #e2e4e4;padding:10px;\"]]\n[[/div]]\n[[div_ class=\"th_top_wrap\"]]\n[[div_ class=\"th_top\"]]\n全部帖文\n[[/div]]\n[[div_ class=\"th_top\"]]\n前100条\n[[/div]]\n[[div_ class=\"th_top\"]]\n后100条\n[[/div]]\n[[div_ class=\"th_top\"]]\n最新50条\n[[/div]]\n[[/div]]\n[[div style=\"padding-bottom:6px;\"]]\n[[/div]]\n[[div_ class=\"th_top_wrap\"]]\n[[div_ class=\"th_top\"]]\n###18889f|★手机版★##\n[[/div]]\n[[div_ class=\"th_top\"]]\n###ff8d2b|■回到论坛■##\n[[/div]]\n[[div_ class=\"th_top\"]]\n###3143b5|★ULA版★##\n[[/div]]\n[[/div]]\n[[div style=\"border-bottom:1px solid #e2e4e4;padding:10px;\"]]\n[[/div]]\n[[/div]]\n[[/=]]\n[[module CSS]]\n.thread .th_bottom {\n    border:1px solid #cecece;\n    background:#fff;\n    width: 24%;\n    text-align:center;\n    display: inline-block;\n}\n.thread .th_bottom:hover {\n    border:1px solid #fff;\n}\n@media (max-width: 979px) {\n.thread .th_bottom {\n    width: 92%;\n    display:block;\n}\n}\n[[/module]]",
+  "tags": [
+    "jp",
+    "样版"
+  ],
+  "author": "Backlight SH",
+  "created_at": "2021-01-26T09:34:54+00:00",
+  "updated_at": "2023-01-28T08:16:55+00:00",
+  "rating": 1,
+  "_site": "scp-wiki-cn",
+  "_fullname": "a6"
+}

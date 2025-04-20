@@ -1,0 +1,20 @@
+{
+  "title": "SCP-1111-JP",
+  "content": "[[>]]\n[[module Rate]]\n[[/>]]\n\n[[module ListPages parent=\".\" limit=\"1\" order=\"created_at\" offset=\"@URL|0\"]]\n%%content%%\n[[/module]]",
+  "tags": [
+    "1000jp",
+    "jp",
+    "scp",
+    "thaumiel",
+    "宗教",
+    "歴史",
+    "現実改変",
+    "蒐集院"
+  ],
+  "author": "hannyahara",
+  "created_at": "2016-07-21T16:59:08+00:00",
+  "updated_at": "2024-06-12T16:39:54+00:00",
+  "rating": 534,
+  "_site": "scp-jp",
+  "_fullname": "scp-1111-jp"
+}

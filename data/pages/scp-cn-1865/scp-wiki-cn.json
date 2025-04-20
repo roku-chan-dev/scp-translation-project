@@ -1,0 +1,29 @@
+{
+  "title": "SCP-CN-1865",
+  "content": "[[>]]\n[[module Rate]]\n[[/>]]\n\n[[include :scp-wiki-cn:component:newscptheme]]\n[[module css]]\na {\n    color: #000;\n    background: transparent;\n}\na:link{\n    color: #000;\n    text-decoration: underline;\n}\na:newpage{\n    color: #000;\n}\na:visited{\n    color: #000;\n}\na:hover{\n    color: #fff;\n    text-decoration: underline;\n    background: #000;\n}\n[[/module]]\n\n[[module ListPages category=\"fragment\" parent=\".\" order=\"name\" limit=\"1\" offset=\"@URL|0\"]]\n%%content%%\n[[/module]]\n@@@@\n[[footnoteblock]]\n\n[!--http://scp-wiki-cn.wikidot.com/fragment:cn-1865-0--]\n[!--http://scp-wiki-cn.wikidot.com/fragment:cn-1865-1--]",
+  "tags": [
+    "safe",
+    "scp",
+    "不可摧毁",
+    "两栖类",
+    "传染性",
+    "动物",
+    "原创",
+    "听觉影响",
+    "声音",
+    "敌意",
+    "水生",
+    "活物",
+    "群体性",
+    "腐蚀性",
+    "自我复制",
+    "逆模因",
+    "音频"
+  ],
+  "author": "Dr AlucardSin",
+  "created_at": "2020-03-22T06:57:53+00:00",
+  "updated_at": "2024-05-15T21:33:01+00:00",
+  "rating": 20,
+  "_site": "scp-wiki-cn",
+  "_fullname": "scp-cn-1865"
+}

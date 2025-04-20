@@ -1,0 +1,24 @@
+{
+  "title": "SCP-375-KO",
+  "content": "[[include info:start]]\n**SCP-375-KO:** 혼돈의 반란 몽골 전방작전기지\n**저자:** [[*user Crssk]]\n----\n= **출처 표기**\n> 파일 drill2.jpg\n> 출처: https://commons.wikimedia.org/wiki/File:MND-B_Soldiers_save_lives_by_keeping_route_safe_DVIDS81699.jpg\n> 원저자: \tSgt. Jerome Bishop\n> 라이선스: 미국 정부에서 공표한 저작물로서 법률에 따라 퍼블릭 도메인임.\n\n> 파일 scparea.jpg\n> 출처: https://commons.wikimedia.org/wiki/File:Steppe02-Obo.jpg\n> 원저자: Vadas Róbert\n> 라이선스: CC BY-SA 3.0\n\n> 파일 mtfnu418.png\n> 출처: https://commons.wikimedia.org/wiki/File:Helmand_Sunset_(4276722535).jpg\n> 원저자: GiW\n> 라이선스: CC BY-2.0\n\n> 파일: khovd.png\n> 출처: https://commons.wikimedia.org/wiki/File:Map_mn_khovd_aimag.png\n> 원저자: Latebird\n> 라이선스: CC BY-SA 3.0\n[[include info:end]]\n\n[[module ListPages  category=\"fragment\" parent=\".\" limit=\"1\" order=\"created_at\" offset=\"@URL|0\"]]\n%%content%%\n[[/module]]\n\n[!--http://scpko.wikidot.com/fragment:scp-375ko-1--]\n[!--http://scpko.wikidot.com/fragment:scp-375ko-2--]\n\n\n[[footnoteblock]]\n[!-- 각주를 댓글 위에 표시하기 위한 구문입니다. 지우지 마시고 초안은 이 위에 쓰세요.  --]",
+  "tags": [
+    "2021-즉흥경연-ko",
+    "ko",
+    "scp",
+    "감정이입",
+    "기상학",
+    "모방",
+    "변성",
+    "안전",
+    "외부엔트로피",
+    "위치",
+    "적대적",
+    "지질학"
+  ],
+  "author": "Crssk",
+  "created_at": "2021-06-20T14:48:00+00:00",
+  "updated_at": "2021-06-21T10:37:25+00:00",
+  "rating": 21,
+  "_site": "scpko",
+  "_fullname": "scp-375-ko"
+}

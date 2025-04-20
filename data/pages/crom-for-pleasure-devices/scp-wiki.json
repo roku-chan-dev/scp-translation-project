@@ -1,0 +1,17 @@
+{
+  "title": "Crom for Pleasure Devices",
+  "content": "[[include :scp-wiki:theme:black-highlighter-theme]]\n[[include :scp-wiki:component:toggle-sidebar-bhl]]\n[[include :scp-wiki:component:adult-content-warning sexual-references=1]]\n\n[[module CSS]]\n#u-logged-in + p > iframe {\n  display: none;\n}\n\n#page-content iframe {\n  width: 100%;\n  height: 800px;\n  border: 0;\n  border-radius: 16px;\n}\n\n@media only screen and (max-width: 500px) {\n  #page-content iframe {\n    height: 1200px;\n  }\n}\n\n#page-title {\n  display: none;\n}\n\n\n#u-consent-collapsible .collapsible-block {\n  color: rgb(118, 45, 58);\n  margin-bottom: 0.75rem;\n  padding: 1rem;\n  border-radius: 0.5rem;\n  background-color: rgb(235, 203, 209);\n}\n\n#u-consent-collapsible .collapsible-block-link {\n  display: block;\n  font-weight: bold;\n  cursor: pointer;\n  color: rgb(118, 45, 58);\n  text-decoration: none;\n}\n\n#u-consent-collapsible .collapsible-block-content > p {\n  margin: 0;\n  margin-top: 0.5rem;\n}\n[[/module]]\n\n[[>]]\n[[module Rate]]\n[[/>]]\n\n[[div id=\"consent-collapsible\"]]\n[[collapsible show=\"▶ A note on consent and safety\" hide=\"▼ A note on consent and safety\"]]\nAs with anything sexual, this app is best enjoyed in a safe, adult, and consensual environment. Please test the vibration before using your device and follow the manufacturer's guidelines for your device.\n[[/collapsible]]\n[[/div]]\n\n[[module ListUsers users=\".\"]]\n[[embed]]\n<iframe src=\"https://sunny-blini-493e65.netlify.app/#%%title%%\"></iframe>\n[[/embed]]\n[[/module]]\n\n[[module ListUsers users=\".\"]]\n[[div_ id=\"logged-in\"]]\n[[/div]]\n[[/module]]\n[[embed]]\n<iframe src=\"https://sunny-blini-493e65.netlify.app/\"></iframe>\n[[/embed]]\n\n----\n\nThis was the Crom April Fools project for 2023. This will continue to work in the future, so feel free to try it out any time -- the application supports game controllers too.\n\n[[include :scp-wiki:component:license-box]]\n[!-- N/A (No Images)  --]\n[[include :scp-wiki:component:license-box-end]]",
+  "tags": [
+    "_adult",
+    "_licensebox",
+    "comedy",
+    "no-dialogue",
+    "tale"
+  ],
+  "author": "smlt",
+  "created_at": "2023-04-01T00:58:24+00:00",
+  "updated_at": "2023-12-10T15:25:44+00:00",
+  "rating": 136,
+  "_site": "scp-wiki",
+  "_fullname": "crom-for-pleasure-devices"
+}

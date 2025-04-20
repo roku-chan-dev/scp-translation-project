@@ -1,0 +1,16 @@
+{
+  "title": "传世之颂",
+  "content": "[[module css]]\n@import url(https://fastly.jsdelivr.net/gh/Crimone/typefaces@main/Huiwen-Mincho/Huiwen-Mincho.css);\n\n.content{\nfont-family:Huiwen-mincho, sans-serif;font-size:95%;\n}\n\n[[/module]]\n\n[[>]]\n[[module Rate]]\n[[/>]]\n\n[[include :scp-wiki-cn:theme:dustjacket]]\n[[include :scpsandboxcn:etinjat-wanderers-bhl-css]]\n[[div class=\"ej-outbox\"]]\n[[div class=\"ej-innerbox\"]]\n[[div class=\"poem-7\"]]\n[[div class=\"content\"]]\n\n+++ [[span class=\"ruby\"]] 帕查卡马克圣颂[[span class=\"rt\"]] Ode To Pachacamac[[/span]][[/span]]\n\n众生\n\n可曾见证\n\n太古之时\n\n那海中的万世之师\n\n帕查卡马克\n\n祂常常无言以道\n\n却向来无所不晓\n\n那末法毁灭的碎屑萦纡在他身旁\n\n伴他静度日月的地久天长\n\n太古之海[[footnote]] 太古之海：帕查卡马克造物时世界最初之形态，一切未现生的皆在其中。[[/footnote]]为祂创造所借之机械\n\n[https://scp-wiki-cn.wikidot.com/paradigm-shift 原初以太]乃祂造物心神的不解\n\n那怀中的风琴由祂永恒弹响\n\n祂孤独坐于深海中的礁石上\n\n无论孰人\n\n都无能忆起祂的面容\n\n他们仅记心中\n\n那风琴的谐奏\n\n带着一丝烦忧\n\n终有一日\n\n一位陨落之岛的女子\n\n将见到帕查卡马克\n\n她问祂\n\n“我可曾，记住你的模样？”\n\n帕查卡马克回答\n\n“你永远记在心上”\n\n她离去后\n\n帕查卡马克终于\n\n向世人展示那宛转的歌声\n\n祂仰天高声歌唱\n\n乐音既不尖厉，亦不圆滑\n\n祂首次感到心底开出喜悦的花\n\n然好景不长\n\n天际外道再度觉醒\n\n让整个世界扬起末世余烬\n\n帕查卡马克领悟其所应行于一霎\n\n祂让印加的子民们建起荣耀之帕拉帕塔\n\n于圣地留下十二路法[[footnote]] 十二路法：十二大通往原初神境之路，分别为“慈悲”，“勇气”，“智慧”，“开明”，“无染”，“寂静”，“妙空”，“行动”，“不执”，“无相”，“无二”，“公正”[[/footnote]]\n\n放入无尽的宝石黄金\n\n以及石台上一碗清饮\n\n于离别之时留下诫言\n\n后世子孙万年\n\n只要有人看破那虚伪的华光\n\n不屈于这残暴[http://scp-wiki-cn.wikidot.com/the-kismet-ephemeris-of-kalpas-vol-7-part-2 愚王]\n\n祂便允其成为忠实之坚阳[[footnote]] 坚阳：“坚”为忠贤，“阳”乃是庇护人类的太阳神[[span class=\"ruby\"]] 因蒂[[span class=\"rt\"]]Inti[[/span]][[/span]]，坚阳即为忠诚、贤明之庇护者。[[/footnote]]\n\n去吧\n\n拥抱那因蒂慈爱之无尽\n\n观想那苏帕伊[[footnote]] 苏帕伊：印加神话中的死亡之神以及魔界统治者 [[/footnote]]三时之境[[footnote]] 三时之境：一切时间、业力、因果的回归，类似于涅槃 [[/footnote]]\n\n学得那第九帝王[[footnote]] 第九帝王：帕查库特克，创造之神，原型疑似是印加帝国的第九代统治者 [[/footnote]]之广博\n\n孩子啊\n\n莫要被妖魅的表象迷情\n\n莫要执着于过往之悲凄\n\n拿起清饮\n\n向太古之初迈进\n\n踏上这十二圣径\n\n追逐那永恒的神圣\n\n[[/div]]\n[[/div]]\n[[/div]]\n[[/div]]\n[[include :scp-wiki-cn:theme:black-highlighter-theme]]\n[[include :scp-wiki-cn:theme:dustjacket]]\n[[include :scpsandboxcn:etinjat-wanderers-bhl-css]]",
+  "tags": [
+    "wanderers",
+    "原创",
+    "宗教性",
+    "琅嬛福地藏书阁"
+  ],
+  "author": "AC_zayin",
+  "created_at": "2023-08-24T12:09:31+00:00",
+  "updated_at": "2023-08-24T12:15:34+00:00",
+  "rating": 8,
+  "_site": "scp-wiki-cn",
+  "_fullname": "wanderers:ode-to-pachacamac"
+}

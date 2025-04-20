@@ -1,0 +1,13 @@
+{
+  "title": "SCP-CN-1445",
+  "content": "[[html]]\n<head>\n<style>\n.saying:after {\n  content: \"\";\n  font-family: Arial, sans-serif;\n  font-size: 1.2em;\n  line-height: 0;\n  display: inline-block;\n  vertical-align: baseline;\n  opacity: 1;\n  animation: caret 500ms infinite;\n}\n</style>\n<script language=\"javascript\">\nvar index=0;\nvar word;\nfunction type(){\n    var typePanel = document.getElementById(\"aa\");\n    typePanel.innerText = word.substring(0,index++);\n    if(index % 3 == 0){\n        typePanel.className = \"\";\n    }else if(index % 3 == 1){\n        typePanel.className = \"saying\";\n    }\n}\nwindow.onload=function(){\n    word=document.getElementById(\"w\").innerHTML;\n    setInterval(type, 100);\n}\n\n</script>\n</head>\n<body>\n<pre id=\"aa\" class=\"saying\" style=\"color:#000;font-family:微软雅黑;\"></pre>\n<div style=\"display:none;width:430px;\" id=\"w\" class=\"rock\">\n极恶和极善的交合构成了这个世界，我们即是\n善恶的中心。无论你心之所向如何，都应该相\n信---我们活在善恶之中，我们是而为人。\n\nSCP-CN-1445\n项目等级:解除分级\n特殊收容措施:人固有善恶，对于善恶的收容没\n有意义。\n描述:SCP-CN-1445分化的两个个体的叙事存在构成了人类的善恶观，上述存在合并为\n完整的SCP-CN-1445，其为善恶，分化的两个\nSCP-CN-1445已自我无效化。\nSCP-CN-1445已传播于人类的认知层面。\n</div>\n\n</body>\n[[/html]]\n[[div class=\"scp-image-block block-center\" style=\"width:40%;\"]]\n[[image http://scpsandboxcn.wikidot.com/local--files/collab:liangyue23-and-schleiter-fess-4/-631cb2c5f8122cc2.png  link=#]]\n[[div class=\"scp-image-caption\" style=\"width:100%;font-family:微软雅黑;font-size:1em;\"]]\n中国道教文化下的SCP-CN-1445图案表现\n[[/div]]\n[[/div]]\n##white|基金会不收容常态，SCP-CN-1445的影响已经扩撒到全体人类，对于SCP-CN-1445的收容失去意义，已将其划分为解除分级。##",
+  "tags": [
+    "段落"
+  ],
+  "author": null,
+  "created_at": "2020-04-08T10:02:56+00:00",
+  "updated_at": "2020-04-27T16:37:40+00:00",
+  "rating": 0,
+  "_site": "scp-wiki-cn",
+  "_fullname": "fragment:scp-cn-1445-03"
+}

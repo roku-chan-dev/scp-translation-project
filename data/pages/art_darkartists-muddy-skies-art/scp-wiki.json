@@ -1,0 +1,18 @@
+{
+  "title": "DarkArtist's Muddy Skies Art",
+  "content": "[[include :scp-wiki:theme:anon]]\n[[include :scp-wiki:theme:parawatch-pumpkin]]\n[[module CSS]]\n.camo a {color: #bbbbbb; font-weight: bold;}\n\n/* FROM SATURN'S CORNER */\nspan.moderatorPing{font-weight: bold; cursor: pointer;}\nspan.moderatorPing:hover, span.moderatorPing:focus{text-decoration: underline;}\n\nspan.moderatorPing.muddy{\n     color: #ff854d;\n     background-color: hsla(19, 47%, 38%, .1);\n}\n[[/module]]\n\n[[=]]\n[[module Rate]]\n[[/=]]\n\n[[include :scp-wiki:component:author-label-source start=--\n|name=TheDarkArtist\n|center=*]]\nWhen the sky is muddy\n[[include :scp-wiki:component:author-label-source end=--]]\n----\n[[span class=\"title\"]]Forum[[/span]] » [[span class=\"title\"]]General Discussion / Fan Work[[/span]] » [[span class=\"camo\"]][[[muddy-skies|Muddy Skies Art]]][[/span]]\n\n\n[[div class=\"parapost\"]]\n\n##ffff00|**Banamanam1202**## 2020/11/02 (Fri) 23:14:15 #52335237\n------\n\nThis is my fanart of [[span class=\"moderatorPing muddy\"]]@kenneth2332[[/span]]'s creepypasta Muddy Skies. \nI'm not quite sure why, but it really stuck with me. \n\n[[div class=\"scp-image-block block-right\" style=\"width:95%; margin-top: 1.2em; margin: auto;\"]]\n[[image muddy-skies.png style=\"width:100%;\" link=\"https://scp-wiki.wikidot.com/muddy-skies\"]]\n[[/div]]\n~~~~\n\nJust don't look at the sky during a blackout.\n\n[[/div]]\n\n----\n[[include :scp-wiki:component:license-box]]\n=====\n> **Filename:** muddy-skies.png\n> **Author:** [[*user TheDarkArtist]]\n> **License:** CC BY-SA 3.0\n> **Source Link:** Own Work\n=====\n[[include :scp-wiki:component:license-box-end]]",
+  "tags": [
+    "_cc",
+    "_licensebox",
+    "artwork",
+    "goi-art",
+    "parawatch",
+    "pixel-art"
+  ],
+  "author": "TheDarkArtist",
+  "created_at": "2022-07-03T19:19:59+00:00",
+  "updated_at": "2024-03-28T13:48:56+00:00",
+  "rating": 43,
+  "_site": "scp-wiki",
+  "_fullname": "art:darkartists-muddy-skies-art"
+}

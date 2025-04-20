@@ -1,0 +1,18 @@
+{
+  "title": "SCP-7172",
+  "content": "[[module CSS]]\n.email-example .collapsible-block-folded a.collapsibe-block-link {\n    animation: blink 0.8s ease-in-out infinite alternate;\n}\n@keyframes blink {\n    0% { color: transparent; }\n    50%, 100% { color: #b01; }\n}\n.email {border: solid 2px #000000; width: 88%; padding: 1px 15px; margin: 10px; box-shadow: 0 1px 3px rgba(0,0,0,.5)}\n.email-example a.collapsible-block-link {font-weight: bold;}\n.tofrom {margin-left: 10px; margin-top: 5px; padding: 1px 15px; border-left: solid 3px maroon}\n[[/module]]\n\n[[div style=\"border:solid 1px #999999; background:#f2f2c2; padding:5px; margin-bottom: 10px;\"]]\n[[=]]\n++++ 来自基金会记录与信息安全管理部门的通知\n\n鉴于此文档在发现关于FIRST组织[[footnote]] **译注：**一个非营利性公共慈善机构，旨在激励学生在工程领域和科技领域方面的途径不断拓展。 [[/footnote]]的额外异常活动方面发挥的作用，该文件目前出于存档的目的被保留。\n\n-- Maria Jones，RAISA主管\n[[/=]]\n[[/div]]\n\n[[include :scp-wiki-cn:component:anomaly-class-bar-source\n|lang= cn\n|item-number= 7172\n|clearance= 2\n|container-class= safe\n|secondary-class= none\n|disruption-class= vlam\n|risk-class= 待观察\n]]\n\n##transparent|.##\n\n**特殊收容措施：**一个刻有SCP-7172的Delrin 150[[footnote]] **译注：**一种聚甲醛塑料。 [[/footnote]]保护壳应被保存在Site-73的标准安全级收容室中。所有已知的具有异常性质的复制品都已通过标准焚化协议摧毁。\n\n在最初的使用中，SCP-7172已被替换为一个无异常版本。掩盖故事已被散播，将这一改动的目的描述为使团队形象现代化。\n\n**描述：**SCP-7172是FTC[[footnote]] FTC科技挑战赛，一个针对高中生的机器人比赛，由FIRST项目组织。 [[/footnote]]参赛队伍“技术难点”使用的前标志。它描绘了一只试图修理一件未知机械仪器的独角兽，队伍名称及注册编号在下方清晰可见。\n\nSCP-7172-1为图像中灌注的奇术符文。其效应为对近距离概念结构的温和的现实提升。外加该异常的额外设计选择（主要是团队所选择的名称），这种效应表现为使处在高密度的SCP-7172附近的电子设备受到的损伤最小化。\n\n**附录 7172.1：**发现\n\n项目的异常性质被D█████特工于北德克萨斯地区锦标赛中发现。在听到可能的异常现象的流言，并在短时间内目睹了SCP-7172附近发生的几起低概率事件来确认上述说法的真实性后，D█████特工通过一个保密电话线路联络了基金会，请求官方介入调查。\n\n**附录 7172.2：**恢复及采访记录\n\n在D█████特工要求进行调查，并随后证明其异常效应后，一个收容小组被派去取回所有SCP-7172个体，过程中没有发生任何事故。\n\n为获取关于异常产生和传播的信息，机器人团队的所有成员都接受了采访，但在发现他们明显没有意识到任何不寻常现象后，所有成员都被记忆删除并释放。\n\n以下是在成功收容异常后对D█████特工进行的采访：\n\n> **被访者：**D█████特工，SCP-7172项目首席调查员\n> \n> **采访者：**Sebastian C████博士，SCP-7172项目首席研究员\n> \n> **前言：**D█████特工关于对SCP-7172的探测的正式汇报。\n> \n> **<开始记录>**\n> \n> **C████博士：**晚上好，特工，据我了解，你已经结束了你的调查？\n> \n> **D█████特工：**是的，这个案子就是小菜一碟。\n> \n> **C████博士：**怎么说？\n> \n> **D█████特工：**我们知道它是异常后不久，我们去调查了创始人，并且根据我们的档案，早在20██，其中一人就在对德克萨斯州超自然绅士俱乐部的突袭中被抓获。事情没什么危险性，所以他们把他记忆删除了就释放了。不幸的是现在去问他太迟了，总之时间线是：他加入这个社团，并利用他有限的能力给他们带来优势，然后被突袭并忘记了这一切。\n> \n> **C████博士：**在这种情况下，我想你没有什么可补充的了。\n> \n> **D█████特工：**事实上，我有，因为我正准备提交申请对这个FTC项目进行正式调查。\n> \n> **C████博士：**你是什么意思？\n> \n> **D█████特工：**你看，当我正在寻找这是异常的证据时，我拿着一台Bonny[[footnote]] Bonfield-Carizza移动式休谟探测器 [[/footnote]]绕着比赛场地走，并且它一直嗡嗡作响。我觉得这没什么大不了的，可能只有几分休谟值，所以我当时无视了它，但我回想起来，我想这一定是十几个微小的现实扭曲事件，都发生在同一个屋檐下。\n> \n> **C████博士：**哦。//哦。//\n> \n> **D█████特工：**是的。\n> \n> **<记录结束>**\n> \n> **结语：**在此次采访之后，D█████特工正式请求额外资源以深入调查FIRST项目与异常的联系。\n\n[[div class=\"email-example\"]]\n[[=]]\n------\n[[collapsible show=\"访问SCiPNET邮件？一（1）封新邮件！\" hide=\"回复：对FIRST的调查\"]]\n[[/=]]\n[[div class=\"email\"]]\n[[div class=\"tofrom\"]]\n[[<]]\n**至：**D█████特工\n**自：**Christopher Taeke，Site 73主管\n**主题：**对FIRST的调查\n[[/<]]\n[[/div]]\n------\n[[<]]\n你有你的资金，并且我正在指派更多的特工到你手下。我知道你和Sebastian合作得很好，所以我也指派他作为你整个项目的研究负责人。\n\n祝你好运，孩子。\n[[/<]]\n[[/div]]\n[[/collapsible]]\n[[/div]]\n\n\n[[footnoteblock]]\n\n[[div class=\"footer-wikiwalk-nav\"]]\n[[=]]\n<< [[[SCP-7171]]] | SCP-7172 | [[[SCP-7173]]] >>\n[[/=]]\n[[/div]]\n[[include :scp-wiki-cn:component:license-box\n|author=Dr Wilder]]\n[[include :scp-wiki-cn:component:license-box-end]]",
+  "tags": [
+    "safe",
+    "scp",
+    "概率性",
+    "现实扭曲",
+    "电子",
+    "艺术性"
+  ],
+  "author": "MandAX",
+  "created_at": "2024-03-21T12:07:21+00:00",
+  "updated_at": "2024-03-21T14:59:55+00:00",
+  "rating": 2,
+  "_site": "scp-wiki-cn",
+  "_fullname": "scp-7172"
+}

@@ -1,0 +1,18 @@
+{
+  "title": "SCP-6435",
+  "content": "[[include info:start]]\n**SCP-6435:** 로,,Ro,,\n**저자:** [[*user Tanhony]]\n**역자:** [[*user quilt]]\n**원작:** https://scp-wiki.wikidot.com/scp-6435\n@@@@\n@@@@\n[[collapsible show=\"+ 사진 정보\" hide=\"- 접기\" ]]\n> **Filename:** scpforest\n> **Name:** File:Forest footpath - geograph.org.uk - 430581.jpg\n> **Author:** James Allan\n> **License:** CC BY-SA 2.0\n> **Source Link:** [https://commons.wikimedia.org/wiki/File:Forest_footpath_-_geograph.org.uk_-_430581.jpg Wikimedia Commons]\n[[/collapsible]]\n[[=]]\n[[[http://scpko.wikidot.com/quilt|###]]]\n[[/=]]\n[[include info:end]]\n\n[[include :scp-wiki:theme:black-highlighter-theme]]\n[[include :scpko:theme:minimalist-bhl]]\n\n[[include :scpko:component:anomaly-class-bar-source\n\n|item-number= 6435\n\n|clearance= 3\n\n|container-class= 안전\n\n|secondary-class= none\n\n|secondary-icon= https://urlhere.com\n\n|disruption-class= 암흑\n\n|risk-class= 주목\n\n]]\n\n@@@@\n@@@@\n\n[[include component:image-block name=scpforest|align=center|width=100%|caption=SCP-6435가 촬영된 심령사진.]]\n\n**특수 격리 절차:** SCP-6435는 살아있는 영혼에 의해 침범될 수 없기 때문에, 물리적 격리는 중요치 않다. 사망한 요원 중 SCP-6435에 수용된 인원과의 연결은 해당 인원의 정신이 망가질 때까지 유지한다.\n\n**설명:** SCP-6435는 사후세계 NR-293-102로, 흔히 '로'라고 불린다.\n\nSCP-6435에는 복잡한 길이 뚫린 거대한 숲이 있다. 확실한 것은 아니나, 사망한 요원들의 증언에 의하면 SCP-6435는 무한한 공간으로 보인다. SCP-6435의 시간 흐름은 현실과 1:1로 대응된다.\n\nSCP-6435의 하수인들은 그곳의 거주자들을 번갈아 가며 편안하게 하거나 육체적으로 고문한다. 초기에는 이러한 보상/징벌 순환을 업보에 대한 징벌이나 순환적 순교 시스템으로 보았으나, 추가적인 조사 결과 완전히 무작위적인 것으로 판단되었다. 이러한 정보는 요원들에게 지나친 충격으로 다가올 것으로 판단되기에, 이들에게는 알리지 않는다.\n\nSCP-6435에서 이루어지는 통상적 행동의 예시는 다음과 같다. 성인으로 임명된 자는 19년 동안 계속 삶아지고, 다음 두 해 동안 물질적 편안함을 제공받은 후, 그 다음 해 동안 가죽이 벗겨진다. 이러한 고문과 쾌락의 예측 불가능한 순환으로 인해 SCP-6435의 거주자는 많은 경우 첫 10년 동안 정신이 망가지게 된다. 이렇게 피폐해진 거주자를 내보내는 시스템이 존재하지 않기 때문에, 의식적으로 사고할 수 있는 거주자들은 항상 소수에 불과하다.\n\n어떤 강력한 신앙심이나 사상적인 필요에 대응해 발생하는 일반적인 사후세계와는 달리, SCP-6435에는 종교나 사상을 나타내는 어떠한 표식도 없다. 어쨌든, 어떠한 신앙 체계가 이런 곳을 만들어냈는지는 불분명하다. SCP-6435는 현재 사망한 영혼의 0.01%를 수용하고 있으며 사후 생태계에서 발생하는 인간 고통의 14%를 차지한다.\n\n[[footnoteblock]]",
+  "tags": [
+    "en",
+    "scp",
+    "사후",
+    "숲",
+    "안전",
+    "위치"
+  ],
+  "author": "quilt",
+  "created_at": "2022-11-03T00:17:03+00:00",
+  "updated_at": "2024-12-01T07:03:56+00:00",
+  "rating": 14,
+  "_site": "scpko",
+  "_fullname": "scp-6435"
+}

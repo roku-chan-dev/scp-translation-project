@@ -1,0 +1,21 @@
+{
+  "title": "SCP-7165",
+  "content": "[[module CSS]]\nspan, a { word-break: normal !important }\n[[/module]]\n\n[[include :scp-wiki-cn:theme:blankstyle]]\n\n[[module css]]\n:root {\n--thaumiel: 0, 135, 189\n}\n[[/module]]\n\n[[module CSS]]\n/* anendlessusername's invaluable correction of the ACS octagon! */\n#page-content .quadrants > div {\n    top: 2.25%;\n    left: 18.5%;\n}\n[[/module]]\n\n[[module CSS]]\n:root {\n    --timeDelay: 0.5s;\n}\n[[/module]]\n\n[[div style=\"height:12px;\"]]\n[[/div]]\n\n[[div]]\n[[include :scp-wiki-cn:component:anomaly-class-bar-source\n|lang=cn\n|item-number= SCP-7165\n|clearance= 2\n|container-class= esoteric\n|secondary-class= nagi\n|secondary-icon= https://scp-wiki.wdfiles.com/local--files/scp-7165/nagi-icon.svg\n|disruption-class= dark\n|risk-class= 待观察\n]]\n\n[[include :scp-wiki-cn:component:acs-peppo-split\n|object= keter\n|object-image= https://scp-wiki.wdfiles.com/local--files/component%3Aanomaly-class-bar/keter-icon.svg\n|object-color= keter\n|esoteric-color= thaumiel\n]]\n\n[[/div]]\n\n----\n\n[[include component:image-block\n    name=https://scp-wiki.wdfiles.com/local--files/scp-7165/TLK.png|\n    caption=SCP-7165标志|\n    width=250px|\n]]\n\n**特殊收容措施：**Cliometria.aic与MTF Kappa-43 （“解调器”）将继续监控SCP-7165是否继续对SCP基金会人员的恋爱进行干预。[[span class=\"fnnum\"]].[[/span]][[span class=\"fncon\"]]Nagi级异常现已停止表现出异常性质，将对其进行监控，若性质重现将予以重分级。[[/span]]\n\n正在尝试关停相关网站域名。\n----\n\n**描述：**SCP-7165是一在线约会服务网站，其标题为“柔情浪爱Karen”，由GoI-5889（[[[vikander-kneed-technical-media-hub|维坎德·尼德技术媒体]]]）操控。网站上的宣传文本给出以下介绍：\n\n> 你想寻找那个特别的某人吗？具体点，就是特别的那个人？就是Dr. Karen T. Elstrom，SCP基金会休伦湖研究与收容站点-43的管理与监督主席？好了，维坎德·尼德^^TM^^刚好有大礼相送！只要来注册柔情浪爱Karen，对你能看到的唯一其他用户一个左滑，然后嘿你看！瞬间就能浪漫连线我们时代的薄幸爱人了，她在过去二十多年里的成功约会数可是零。会是你最终熔解这位冰女皇的黄金心吗？如果你看不出上句话里的混杂比喻那可做不到！她非常挑剔的。\n\nSCP-7165的功能机制不明，但是对Dr. Elstrom产生兴趣的人会无缝嵌入到她目前使用的约会服务中，成为潜在配对者。只有其中一例配对发展到真人见面，使该异常被发现。\n\n----\n\n**附录7165-1，现象学概览：**2023年8月21日，Dr. Elstrom与一名Tinder用户成功配对并安排约会，此前她已使用基金会资源独立确认该用户身份（遵照协议规程）。对二人在三波特兰Anafabulous! 酒馆的约会抄录如下：\n\n[[div class=\"blockquote\"]]\n\n//<Dr. Elstrom在桌边等待。有一形似麋鹿、头部位置被换成了三个电视屏幕的实体走来，踩上了她对面的座椅，然后站立在其残骸上。它的每个屏幕上都展示着一打红玫瑰的图片。>//\n\n**实体：**嘿你好，美人。我是你的约会。\n\n**Dr. Elstrom：**你不是Antonio Banderas。\n\n**实体：**而你非常机智！\n\n**Dr. Elstrom：**你是维坎德来的麋鹿。\n\n**实体：**也许有点太机智了。\n\n**Dr. Elstrom：**我今天收到了十五个配对。它们都是VKTM的？\n\n**实体：**我们先专心在此时此地吧，姑娘。这是我们的夜晚。\n\n**Dr. Elstrom：**这算是性骚扰。\n\n//<其中一个屏幕切换到展示VKTM代表人Mari MacPhaerson。她穿着蓝色睡衣和一个黄色眼罩；眼罩上浸透了血。>//\n\n**MacPhaerson：**我怎么就没想到。靠。操。去他妈的。\n[[/div]]\n\n实体原地消失，全部十五个配对从Dr. Elstrom的Tinder配对中消失。11朵黄玫瑰和1张寄给Dr. Elstrom的道歉卡在第二天送到Site-43。在将其发现并联系到SCP-7165之后，所有存放在“柔情浪爱Karen”域名的内容已被抹除。\n\nDr. Elstrom已将她的所有个人约会网站账号注销。 \n\n----\n\n[[div class=\"footer-wikiwalk-nav\"]]\n[[=]]\n<< [[[SCP-7164]]] | SCP-7165 | [[[SCP-7166]]] >>\n[[/=]]\n[[/div]]\n\n[[div]]\n[[=]]\n[[include :scp-wiki-cn:component:license-box\n|author=HarryBlank\n]]\n=====\n[[<]]\n> **文件名：**所有一切！\n> **图像作者：**HarryBlank\n> **授权协议：**CC BY-SA 3.0\n[[/<]]\n=====\n[[include :scp-wiki-cn:component:license-box-end]]\n[[/=]]\n[[/div]]",
+  "tags": [
+    "2023重混竞赛",
+    "elstrom博士",
+    "keter",
+    "mari-macphaerson",
+    "scp",
+    "值守43",
+    "媒体",
+    "线上",
+    "维坎德·尼德"
+  ],
+  "author": "ashausesall",
+  "created_at": "2023-09-04T12:18:46+00:00",
+  "updated_at": "2025-03-09T14:47:00+00:00",
+  "rating": 2,
+  "_site": "scp-wiki-cn",
+  "_fullname": "scp-7165"
+}

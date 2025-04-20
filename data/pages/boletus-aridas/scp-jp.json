@@ -1,0 +1,21 @@
+{
+  "title": "異常な菌類に関する小報告 — ウルワシダンゴタケ",
+  "content": "[[include :scp-jp:credit:start]]\n**タイトル:** 異常な菌類に関する小報告 — ウルワシダンゴタケ\n**翻者:** [[*user GermanesOno]]\n**翻訳年:** 2024\n**著作権者:** [[*user Jasiu06]]\n**原題:** Ulotka Informacja o Anomalnym Grzybie — Kurzawka Szlachecka\n**作成年(原著):** 2021\n**元記事リンク:** [[[*http://scp-pl.wikidot.com/boletus-aridas|ソース]]]\n**重訳元の翻訳者:** [[*user Zygard]]\n**重訳題:** Information Leaflet about Anomalous Fungus — Noble Puffball\n**作成年(重訳):** 2022\n**重訳元の記事の参照リビジョン:** 7\n**重訳記事リンク:** [[[*http://scp-int.wikidot.com/boletus-aridas|ソース]]]\n[[include :scp-jp:credit:end]]\n\n[[include :scp-jp:theme:black-highlighter-theme]]\n[[include :scp-jp:component:bhl-dark-sidebar]]\n[[module css]]\n#page-title {\n    text-align: center;\n}\n[[/module]]\n[[module CSS]]\n:root:lang(en) {\n    --logo-image: url(\"http://scp-jp-storage.wdfiles.com/local--files/file%3A3995762-106-a09w/ontologonew.png\");\n    --header-title: \"サイト-120\";\n    --header-subtitle: \"火を以て火と戦う\";\n}\n[[/module]]\n\n> この文書は2015年7月11日にサイト-120所属の財団エージェントによるSCP-PL-252実例への最初の干渉の最中、GoI-571-20(\"[[[http://scp-pl.wikidot.com/pzga-hub|ポーランド特異茸狩協会]]]\")のエージェントであるズビグネェフ・ノウォクより入手されたものです。\n\n@@ @@\n\n[[div style=\"border:solid 5px #220A29; background:#2F0B3A; padding:5px; margin-bottom: 10px; border-radius: 10px; box-shadow: 0 0px 0px rgba(102,0,0,.5);\"]]\n[[span style=\"color: #E3CEF6\"]]\n= **ウルワシダンゴタケ**\n= //Boletus aridas//\n------\n**食不適 [❌]**\n\n**形態的特徴:** 子実体は大形、不整形で表面に乳頭状突起を生じる。外皮は乾燥した質感で、強靭である。\n\n**異常特性:** 本稿でのエージェントによる予備実験では、奇跡論的放射線を噴出することが示されている。奇跡論的放射線の詳細な性質についての研究が実施されている。\n\n**オカレンス:** 情報なし。現在、唯一の標本がチェンストホバ、アニオウォウスキの森付近の地下洞窟で発見されている。同洞窟内部では、他にも古代の多様な植生が発見されている。\n\nかつて、ウルワシダンゴタケは紀元前8000年ごろに絶滅したものと推測されていた。本種は現存しないか、あるいは古い妖精の伝説のために存在を捏造されたという見解が一般的であった。伝説によれば、本種は動植物相の生命力と密接に関連していた。\n\n**利用史:** 協会の管理下にある標本は対外交戦部門が意図せず発見したもので、PZGAエージェントと親交の深い部門メンバーが、子実体を移動させるため応援を要請した。協会は本案件を調査すべく、2人のエージェントを派遣した。\n\n建造物地下の洞窟で発見されたのち、エージェントは苦慮しつつも、子実体を協会が長期間捜索していたジョウオウホコリタケと同定した。この発見が司令部へと伝達されると、近隣のエステルベルグの異常飛地に所在する協会司令部へ安全に移動させるべく、即座に対処を迫られた。\n\nこのチェンストホバでの発見以前にも、協会は本種の子実体を発見すべく何も試みたが徒労に終わり、その存在は一種の神話として語られていた。それらの試みでも有名なものとして、1921年のコンスタンティ・ウォイチェホフスキ(元協会理事会員)による南米遠征があり、伝説でウルワシダンゴタケの子実体が発見された、神話が語るところの妖精帝国の主要都市に赴いている。伝説によれば、この帝国は[[[http://scp-jp.wikidot.com/scp-1000|夜闇の子ら]]]と人間が[[[http://scp-jp.wikidot.com/ralliston-s-proposal|マブ女帝を彼女の姉妹らの犠牲によって殺害した]]]ことにより滅亡したという。\n\nしかしながら、遠征は期待された成果を得られず、ウォイチェホフスキはウルワシダンゴタケの子実体を見出すことはできなかった。\n\n**勧告:** 研究活動が進展中のため、本勧告は今後改訂される可能性がある。現状、本種の唯一の標本は、適切な研究を実施するできるPZGAの地方司令部へ移送が行われている。\n\n**エージェント・ズビグネェフ・ノウォクによる補遺:**\n\n[[div style=\"background: #ECEAD1;\" \"float: center; border: solid 1px #444444; width: auto; padding: 1px 15px; margin: auto; box-shadow: 1px 1px 3px rgba(0,0,0,.2); font-family: 'Bahnschrift SemiBold';\"]]\n###333|本種が発見された洞窟および、周囲の森に居住する土着の妖精らによる抵抗により、複数の問題が生じた。ヴウォデクは私達を呼んだときに「森の子ら」どもについて話している。[[[http://scp-pl.wikidot.com/scp-pl-252|財団]]]の、あるいはより悲惨なことにGOCからの\"来客\"がある前に、君は任務を完遂できるだけの応援を頼めるはずだ。##\n[[/div]]\n\n[[/span]]\n[[/div]]\n\n@@ @@\n\n[[include :scp-jp:component:earthworm\n| first=true | last=false | hub=no\n| next-url=http://scp-pl.wikidot.com/scp-pl-252| next-title=SCP-PL-252\n| hub-url=http://scp-jp.wikidot.com/boletus-aridas| hub-title= 異常な菌類に関する小報告 — ウルワシダンゴタケ\n]]\n\n[[footnoteblock]]",
+  "tags": [
+    "120の記録書庫より",
+    "_その他団体-他支部",
+    "goi-format",
+    "homo-sapiens-sidhe",
+    "pl",
+    "pzga",
+    "インターナショナル",
+    "夜闇の子ら",
+    "重訳"
+  ],
+  "author": "GermanesOno",
+  "created_at": "2024-10-08T10:33:00+00:00",
+  "updated_at": "2025-03-17T07:31:51+00:00",
+  "rating": 7,
+  "_site": "scp-jp",
+  "_fullname": "boletus-aridas"
+}

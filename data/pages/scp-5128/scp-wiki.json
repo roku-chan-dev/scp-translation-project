@@ -1,0 +1,22 @@
+{
+  "title": "SCP-5128",
+  "content": "[[>]]\n[[module Rate]]\n[[/>]]\n\n[!--\nFragments:\nhttp://scp-wiki.wikidot.com/fragment:scp-5128-1\nhttp://scp-wiki.wikidot.com/fragment:scp-5128-2\n--]\n\n[[module ListPages category=\"fragment\" parent=\".\" limit=\"1\" order=\"created_at\" offset=\"@URL|0\"]]\n%%content%%\n[[/module]]\n\n[[footnoteblock]]\n\n[[div class=\"footer-wikiwalk-nav\"]]\n[[=]]\n<< [[[SCP-5127]]] | SCP-5128 | [[[SCP-5129]]] >>\n[[/=]]\n[[/div]]\n\n[[include component:license-box]]\n[[include component:license-box-end]]",
+  "tags": [
+    "5000",
+    "_listpages",
+    "chaos-insurgency",
+    "concept",
+    "infohazard",
+    "keter",
+    "mind-affecting",
+    "reality-bending",
+    "scp",
+    "uncontained"
+  ],
+  "author": "Magmablack",
+  "created_at": "2020-01-19T19:00:22+00:00",
+  "updated_at": "2024-08-04T00:02:13+00:00",
+  "rating": 78,
+  "_site": "scp-wiki",
+  "_fullname": "scp-5128"
+}

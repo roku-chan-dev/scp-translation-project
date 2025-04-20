@@ -1,0 +1,11 @@
+{
+  "title": "reference:_template",
+  "content": "[[div_ class=\"wikisys--template-dialog\"]]\n[[div_ class=\"wikisys--template-dialog-header\"]]\nこのページはリファレンスページです\n[[/div]]\n[[div_ class=\"wikisys--template-dialog-content\"]]\n**Wiki内で使用されているリファレンスページです。**\n編集が必要だと思われる場合は、このページのディスカッションか、[[[contact-staff|サイトスタッフ]]]までご連絡ください。著者による編集ならば[[[contact-staff|サイトスタッフ]]]の許可を必要としません。\n[[/div]]\n[[div_ class=\"wikisys--template-dialog-footer\"]]\n詳しくは[[[category-policy|]]]を参照してください。\n[[/div]]\n[[/div]]\n\n[[include :scp-jp:_template]]",
+  "tags": [],
+  "author": "R74",
+  "created_at": "2023-01-12T11:05:05+00:00",
+  "updated_at": "2025-03-04T15:34:45+00:00",
+  "rating": 0,
+  "_site": "scp-jp",
+  "_fullname": "reference:_template"
+}

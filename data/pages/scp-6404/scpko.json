@@ -1,0 +1,21 @@
+{
+  "title": "SCP-6404",
+  "content": "[[include :scp-wiki:theme:basalt hidetitle=a]]\n[[include :scpko:theme:turbo-vision blocks=-]]\n\n[[module css]]\n:root {\n  --logo: url(https://scp-wiki.wdfiles.com/local--files/secure-facility-dossier-site-58/58logo.png);\n  --title: \"제58기지:\";\n  --subtitle: \"우리 사이의 간극을 좁히다\";\n}\n.email-example .collapsible-block-folded a.collapsible-block-link {\n    animation: blink 0.8s ease-in-out infinite alternate;\n}\n@keyframes blink {\n    0% { color: transparent; }\n    50%, 100% { color: #b01; }\n}\n.email {border: solid 2px #000000; width: 88%; padding: 1px 15px; margin: 10px; box-shadow: 0 1px 3px rgba(0,0,0,.5)}\n.email-example a.collapsible-block-link {font-weight: bold;}\n.tofrom {margin-left: 10px; margin-top: 5px; padding: 1px 15px; border-left: solid 3px maroon}\n[[/module]]\n\n[[include info:start]]\n**SCP-6404:** 내 이름이 네 이름이고, 네 이름이 내 이름이다.\n**원작:** https://scp-wiki.wikidot.com/scp-6404\n**저자:** [[*user OriTiefling]]\n**역자:** DOLight\n[[include info:end]]\n\n[[include :scpko:component:anomaly-class-bar-source\n\n|item-number= 6404\n\n|clearance= 4\n\n|container-class= 난해\n\n|container-class-en= esoteric\n\n|secondary-class= 퇴역\n\n|secondary-class-en= decommissioned\n\n|secondary-icon= https://scp-wiki.wdfiles.com/local--files/component%3Aanomaly-class-bar/decommissioned-icon.svg\n\n|disruption-class= 아미타\n\n|disruption-class-en= amida\n\n|risk-class= 주목\n\n|risk-class-en= notice\n\n]]\n\n------\n\n**특수 격리 절차:** 재단 인원은 전세계의 출생 기록에서 \"탈라칸트(Tallakant)\"라는 이름을 갖고 태어난 사람이 있는지 계속해서 감시해야 한다. 이름이 탈라칸트로 확인된 모든 사람은 표준 퇴역 절차를 따라 처리한다.\n\nSCP-6404는 2007년 10월 4일 성공적으로 퇴역되었다. 탈라칸트라는 이름의 인물이 연관된 모든 역사적 기록과 민간 기록은 퇴역에 맞춰 주요한 역사적 사건은 새로운 사람을 도입하고, 다른 경우에는 이전의 탈라칸트 신원을 제거하는 방식으로 고쳐졌다. 탈라칸트라는 이름에서 유래된 이름과 표현들[[footnote]]예를 들어, 탈리 마크(Tally Mark), 칸트 계수기, 탈리호(Tally-ho), 탈리웨커(Tallywacker) 등이 있다.[[/footnote]]은 변칙적 특성을 보이지 않지만, 탈라칸트라는 이름이 다시 나타날 가능성을 없애기 위해 마찬가지로 다른 어원을 제시하거나, 대중적인 언어에서 제거하였다.\n\n**설명:** SCP-6404는 살면서 한 번이라도[[footnote]]태어날 때 붙여진 이름, 탈라칸트로 개명, 단순히 아무 때나 탈라칸트라 불리는 일을 포함한다.[[/footnote]] \"탈라칸트\"라는 이름을 가졌던 모든 사람이 공통된 군체 의식의 일부가 되는 현상을 가리켰다. 한 번 사람이 SCP-6404 개체가 되면, 다시 군체 의식에서 분리할 수 없었다. 모든 SCP-6404 개체는 개인의 수준에서 활동할 수 있었으나, 적극적으로 같은 생각, 느낌, 믿음을 나누었다. 대체적으로, SCP-6404 개체는 다음 직군에서 직업을 구하는 경향을 보였다.\n\n* 교육\n* 연구, 특히 감염성 질환의 확산과 치료에 관련된 분야\n* 시각 및 행위 예술\n* 공무원, 특히 고용, 복지, 국제 관계와 관련된 직책\n* 자선 활동\n* 사회 운동\n\n기록에 따르면, 탈라칸트란 이름은 5세기 초기부터 존재했으며, 그 이름을 가진 여러 유명한 인물이 존재했다. 역사를 통틀어, SCP-6404 개체는 특히 탐사, 사회 개발, 문화 교류에 참가하였다.\n\n탈라칸트란 이름을 가진 대중문화의 아이콘뿐 아니라 역사상 유명한 인물의 수 때문에, 탈라칸트는 남성과 여성 모두에게 가장 인기 있는 아기 이름으로 남아있었다. SCP-6404를 퇴역시킬 때, 탈라칸트란 이름을 가진 사람이 약 10억 명 있었다고 추정된다.\n\n[[footnoteblock]]",
+  "tags": [
+    "en",
+    "scp",
+    "군체의식",
+    "난해한-등급",
+    "생물",
+    "역사적",
+    "정신조작",
+    "지성",
+    "텔레파시"
+  ],
+  "author": null,
+  "created_at": "2021-10-27T10:51:26+00:00",
+  "updated_at": "2023-04-09T10:02:59+00:00",
+  "rating": 13,
+  "_site": "scpko",
+  "_fullname": "scp-6404"
+}

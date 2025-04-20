@@ -1,0 +1,19 @@
+{
+  "title": "SCP-4574",
+  "content": "[[include :scp-wiki:theme:classic]]\n[[>]]\n[[module Rate]]\n[[/>]]\n\n[[include component:image-block\n    name=domainofbrothers.jpg|\n    caption=Portion of SCP-4574's cave system.\n]]\n\n**Item #:** SCP-4574\n\n**Object Class:** Euclid\n\n**Special Containment Procedures:** The land surrounding SCP-4574's cave has been acquired and marked as an archaeological site. Guards are to maintain a perimeter around SCP-4574's cave and turn away any trespassers, amnesticizing as needed. \n\n**Description:** SCP-4574 are two animate conglomerations of primitive spears, handaxes, clubs, and javelins, each in the shape of a //Smilodon//.\n\nBoth instances of SCP-4574 appear male, with the larger of the two designated SCP-4574-A and the smaller SCP-4574-B. The weapons comprising SCP-4574 are of similar craftsmanship, and many are decorated with feathers, leather strips, carvings, or dyes. The majority (~80%) of these weapons share similar compositions, and collectively date to approximately 13,000 BC. The rest are assorted obsidian weapons of Mesoamerican make, two muskets, and a Spanish sword. \n\nSCP-4574 inhabit a large, partially submerged cave system in the state of Quintana Roo, Mexico. Cave paintings line the portions of the cave above water, dating to the same time period as the spears.\n\nSCP-4574 guard the caves as a pair. They will not attack those who enter unless the intruder attacks them, or attempts to touch the cave paintings. Otherwise, SCP-4574 are relatively docile. They communicate with each other verbally in an indistinct language, and show signs of intelligence well beyond that of ordinary felines. \n\n**Cave Paintings:**\nListed in order of appearance, starting closest to the cave entrance. \n\n||~ #||~ Description||\n||01-06||A generic depiction of a large group of people, drawn in black. The next several paintings depict the people performing mundane daily tasks such as fishing, creating fire, or sleeping.||\n||07||A family unit, and a possible representation of the birth of two children.||\n||08-11||The children are shown advancing through stages of life, reaching adulthood and gaining spears.||\n||12-15||The brothers are shown hunting a large //Smilodon// that had attacked the tribe. The animal attacks the younger brother, and is saved by the elder, who sustains a serious injury before they kill the animal.||\n||16||The injured brother relinquishes his spear and becomes some kind of religious or shamanistic figure in the tribe.||\n||17||Another tribe or group is depicted, drawn in red.||\n||18-20||Depictions of struggles between the two groups.||\n||21||The brother with the spear is killed defending the other brother.||\n||22||Partially eroded away. Surviving portion depicts the living brother surrounded by a circle of symbolic fire.||\n||23||Two skeletons are buried next to each other. The people throw their spears onto the burial site.||\n\nFurther paintings have eroded away.\n\n[[footnoteblock]]\n\n\n[[div class=\"footer-wikiwalk-nav\"]]\n[[=]]\n<< [[[SCP-4573]]] | SCP-4574 | [[[SCP-4575]]] >>\n[[/=]]\n[[/div]]\n\n[[include :scp-wiki:component:license-box]]\n=====\n> **Filename:** domainofbrothers.jpg\n> **Name:** Cueva Río Secreto (1)\n> **Author:** Río Secreto\n> **License:** CC BY-SA 4.0\n> **Source Link:** [https://commons.wikimedia.org/wiki/File:Cueva_R%C3%ADo_Secreto_(1).jpg Wikimedia Commons]\n=====\n[[include :scp-wiki:component:license-box-end]]",
+  "tags": [
+    "_cc",
+    "_licensebox",
+    "autonomous",
+    "euclid",
+    "historical",
+    "scp",
+    "weapon"
+  ],
+  "author": "Weryllium",
+  "created_at": "2020-01-13T23:23:00+00:00",
+  "updated_at": "2022-10-08T21:00:23+00:00",
+  "rating": 50,
+  "_site": "scp-wiki",
+  "_fullname": "scp-4574"
+}

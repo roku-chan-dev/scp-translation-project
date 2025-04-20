@@ -1,0 +1,13 @@
+{
+  "title": "fragment:scp-7426-1",
+  "content": "[[include :scp-wiki:theme:black-highlighter-theme]]\n\n[[include :scp-wiki:component:anomaly-class-bar-source\n\n|item-number= 7426\n\n|clearance= 2\n\n|container-class= safe\n\n|secondary-class= none\n\n|secondary-icon= https://example.com/acs-image.svg\n\n|disruption-class= vlam\n\n|risk-class= notice\n\n]]\n\n@@ @@\n\n[[include component:image-block\n| name=mold\n| caption=SCP-7426.]]\n\n**Special Containment Procedures:** The toilet containing SCP-7426 is to be cordoned off from the rest of Singapore Polytechnic under the cover story of it going under renovation following student feedback. As a result, several Foundation staff have been embedded as construction workers to prevent students from entering the toilet.\n\nAs SCP-7426 is currently unable to be moved to an existing Foundation Site, the toilet has been converted into a climate-controlled cell to prevent extraneous factors from affecting the anomaly.\n\n**Description:** SCP-7426 refers to a sapient mold colony located on a mirror in the third floor male’s public toilet of Teaching Block 21, Singapore Polytechnic. The anomaly contains a replica of the Solar System, with life similar to Earth’s having been confirmed to inhabit it.\n\nAdditionally, researchers have also discovered that everything on SCP-7426's \"Earth\" is near-identical to that of ours', including the SCP Foundation. Following this discovery, the Department of Communications has been brought in to facilitate amicable discussion between the inhabitants located within SCP-7426 and the Foundation.\n\n**Addendum 7426.1:** On 19/05/2022, Junior Researcher Zhen Dao Mei slipped on a puddle when attempting to install a glass dome over SCP-7426. As the gravitational force of Rsr. Zhen far exceeds that of SCP-7426’s version of Earth, it presumably caused the objects of that Earth to be pulled towards him before he managed to steady and distance himself from the anomaly.\n\nFollowing this incident, Rsr. Zhen has been sent to six months of Foundation-mandated counselling. Foundation researchers are currently attempting to reestablish contact with life within SCP-7426.",
+  "tags": [
+    "fragment"
+  ],
+  "author": "Eeveellector",
+  "created_at": "2023-07-23T17:30:18+00:00",
+  "updated_at": "2023-07-24T10:16:16+00:00",
+  "rating": 0,
+  "_site": "scp-wiki",
+  "_fullname": "fragment:scp-7426-1"
+}

@@ -1,0 +1,24 @@
+{
+  "title": "ジム・ノースの提言",
+  "content": "[[>]]\n[[module Rate]]\n[[/>]]\n\n[[module ListPages  category=\"fragment\" parent=\".\" limit=\"1\" order=\"created_at\" offset=\"@URL|0\"]]\n%%content%%\n[[/module]]",
+  "tags": [
+    "001提言",
+    "en",
+    "neutralized",
+    "scp",
+    "イザベル五世",
+    "ファクトリー",
+    "ワンダーテインメント博士",
+    "人間型",
+    "未収容",
+    "現実改変",
+    "生命",
+    "知性"
+  ],
+  "author": "zigzagzog_sleeper",
+  "created_at": "2019-11-08T09:49:42+00:00",
+  "updated_at": "2024-05-04T21:36:58+00:00",
+  "rating": 66,
+  "_site": "scp-jp",
+  "_fullname": "liz-the-gm-s-proposal"
+}

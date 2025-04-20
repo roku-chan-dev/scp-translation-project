@@ -1,0 +1,14 @@
+{
+  "title": "",
+  "content": "+++ 高度なタグ検索\n[[[tag-search|]]] - 複数のタグでページを検索することができます。\n[[[tag-translator|]]] - タグの定義を検索することができます。\n\n----\n[[module PagesByTag]]\n[[module TagCloud limit=\"10000\" target=\"system:page-tags\"]]\n[[module CSS]]\n#page-title {\n    display: none;\n}\n\n#tagged-pages-list {\n    margin-bottom: 2.25rem;\n    column-width: 12rem;\n    column-gap: 1.25rem;\n    column-rule: 1px solid #888;\n}\n\n.pages-list-item {\n    margin-bottom: 0.675em;\n    line-height: 1.125;\n    overflow-wrap: break-word;\n}\n\n.pages-tag-cloud-box {\n    margin-top: -0.125rem;\n    display: flex;\n    flex-wrap: wrap;\n    grid-gap: 0.185rem;\n    align-items: center;\n    justify-content: space-between;\n}\n[[/module]]\n\n[[module listpages tag=\"@URL|\" limit=\"1\" category=\"*\"]]\n[[%%content{0}%%module css]]\na[name=\"pages\"]+h2::after {content: \" %%total%%ページ\";}\n[[%%content{0}%%/module]]\n[[/module]]",
+  "tags": [
+    "jp",
+    "管理"
+  ],
+  "author": "Dr Devan",
+  "created_at": "2013-07-08T11:09:45+00:00",
+  "updated_at": "2023-09-10T13:42:06+00:00",
+  "rating": 69,
+  "_site": "scp-jp",
+  "_fullname": "system:page-tags"
+}

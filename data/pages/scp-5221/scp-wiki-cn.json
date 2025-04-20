@@ -1,0 +1,21 @@
+{
+  "title": "SCP-5221",
+  "content": "[[include :scp-wiki-cn:theme:black-highlighter-theme]]\n\n[!-- 保管用 --]\n[!-- https://scp-wiki-cn.wikidot.com/fragment:scp-5221-offset-1 --]\n[!-- https://scp-wiki-cn.wikidot.com/fragment:scp-5221-offset-2 --]\n\n[[module ListPages category=\"fragment\" parent=\".\" order=\"created_at\" limit=\"1\" offset=\"@URL|0\"]]\n%%content%%\n[[/module]]\n\n[[footnoteblock]]\n[[div class=\"footer-wikiwalk-nav\"]]\n[[=]]\n<< [[[SCP-5220]]] | SCP-5221 | [[[SCP-5222]]] >>\n[[/=]]\n[[/div]]\n----\n[[include :scp-wiki-cn:component:license-box\n|author=chiifu]]\n=====\n> **文件名：** whitefog2.jpg\n> **图像作者：** [https://www.flickr.com/photos/76254519@N08 greenoid]\n> **授权协议：** CC BY-SA 2.0\n> **来源链接：** [https://search.creativecommons.org/photos/26fe7bc6-eccc-4e0f-948d-d14c0eac3d0e CC Search]\n\n> **文件名：** house.jpg\n> **图像作者：** [https://commons.wikimedia.org/wiki/User:Werewombat Ian Poellet]\n> **授权协议：** CC BY-SA 3.0\n> **来源链接：** [https://ccsearch-dev.creativecommons.org/photos/f71484f7-3643-4017-9433-139a23f9549d CC Search]\n\n> **文件名：** heatchart.jpg\n> **图像作者：** [https://www.flickr.com/photos/49416631@N00 mattlemmon]\n> **授权协议：** CC BY-SA 2.0\n> **来源链接：** [https://ccsearch-dev.creativecommons.org/photos/679a4407-9033-4f93-bb28-deb1d99c6ce6 CC Search]\n\n> **文件名：** bunkerhall.jpg\n> **图像作者：** [https://www.flickr.com/photos/27119837@N06 CargoCult]\n> **授权协议：** CC BY 2.0\n> **来源链接：** [https://ccsearch-dev.creativecommons.org/photos/57ec89c9-bff3-4571-bf19-dd96a7b8ada2 CC Search]\n\n> **文件名：** shaftoflight.jpg\n> **图像作者：** [https://www.flickr.com/photos/20218973@N00 Francis Storr]\n> **授权协议：** CC BY-SA 2.0\n> **来源链接：** [https://search.creativecommons.org/photos/4b150bb6-0c97-46fa-b5a4-1913db800739 CC Search]\n\n=====\n[[include :scp-wiki-cn:component:license-box-end]]",
+  "tags": [
+    "scp",
+    "基金会制",
+    "建筑",
+    "时间影响",
+    "机械",
+    "热量影响",
+    "电磁",
+    "等待分级",
+    "记忆影响"
+  ],
+  "author": "Zhenglan_X",
+  "created_at": "2024-05-29T21:13:52+00:00",
+  "updated_at": "2024-05-29T21:46:25+00:00",
+  "rating": 3,
+  "_site": "scp-wiki-cn",
+  "_fullname": "scp-5221"
+}

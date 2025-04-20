@@ -1,0 +1,15 @@
+{
+  "title": "衰败机器中心页",
+  "content": "[[module CSS]]\n@import url(/component:3lawtheme/code/1);\n[[/module]]\n\n[[[http://scp-wiki-cn.wikidot.com/third-law-hub| 第三定律主页]]] >> 衰败机器中心页\n\n[[=image http://scp-wiki.wdfiles.com/local--files/comedown-machine-hub/comedownmachine.png width=\"80%\"]]\n\n[[div style=\"border: 1px #e3e7ea; margin-left 1%; margin-right: 1%; padding-left: 5%; padding-right: 5%; text-align: left; color:black;\"]]\n\n**序章：[[[http://scp-wiki-cn.wikidot.com/a-confluence-of-clandestine-conferences| 一份秘密会议的简报]]]**\n* **1. [[[Slow Animals|]]]**\n* **2. [[[automatic-stop|]]]**\n* **3. [[[The End Has No End|]]]**\n**幕间插曲：[[[intermission|]]]**\n⠀⠀⠀⠀⠀• **插曲: [[[End of an Era|时代终结]]]** //由Jacob Conwell所撰//\n* **4. [[[Threat of Joy|暗流汹涌]]]**\n* **5.**数据加密：████ ██ █████\n* **6.**数据加密：███████ ████\n**尾声：**##red|错误：加密失败。立即寻求技术协助。##\n[[/div]]",
+  "tags": [
+    "_故事中心",
+    "中心",
+    "第三定律"
+  ],
+  "author": "DAVE-D-R-Z",
+  "created_at": "2018-03-30T07:25:05+00:00",
+  "updated_at": "2021-07-14T03:52:18+00:00",
+  "rating": 3,
+  "_site": "scp-wiki-cn",
+  "_fullname": "comedown-machine-hub"
+}

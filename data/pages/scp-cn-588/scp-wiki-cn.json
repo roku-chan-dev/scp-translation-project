@@ -1,0 +1,18 @@
+{
+  "title": "SCP-CN-588",
+  "content": "[[>]]\n[[module Rate]]\n[[/>]]\n[[module ListPages category=\"fragment\" parent=\".\" limit=\"1\" order=\"created_at\" offset=\"@URL|0\"]]\n\n%%content%%\n[[/module]]\n\n\n[[footnoteblock]]\n@@@@\n[[div class=\"footer-wikiwalk-nav\"]]\n[[=]]\n<< [[[SCP-CN-587]]] | SCP-CN-588 | [[[SCP-CN-589]]] >>\n[[/=]]\n[[/div]]",
+  "tags": [
+    "euclid",
+    "scp",
+    "人造物品",
+    "原创",
+    "模因",
+    "精神影响"
+  ],
+  "author": "EightDao",
+  "created_at": "2018-06-05T22:28:48+00:00",
+  "updated_at": "2018-06-06T10:27:51+00:00",
+  "rating": 52,
+  "_site": "scp-wiki-cn",
+  "_fullname": "scp-cn-588"
+}

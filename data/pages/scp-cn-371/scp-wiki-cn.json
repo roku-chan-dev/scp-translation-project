@@ -1,0 +1,21 @@
+{
+  "title": "SCP-CN-371",
+  "content": "[[module ListPages category=\"fragment\" parent=\".\" limit=\"1\" order=\"name\" offset=\"@URL|0\"]]\n\n%%content%%\n[[/module]]\n\n[[div class=\"footer-wikiwalk-nav\"]]\n[[=]]\n<< [[[SCP-CN-370]]] | SCP-CN-371 | [[[SCP-CN-372]]] >>\n[[/=]]\n[[/div]]",
+  "tags": [
+    "euclid",
+    "scp",
+    "site-cn-77",
+    "原创",
+    "基金会4k",
+    "基金会制",
+    "建筑",
+    "星际",
+    "未来"
+  ],
+  "author": "EDGE_chi",
+  "created_at": "2018-05-09T11:27:19+00:00",
+  "updated_at": "2020-04-26T03:58:12+00:00",
+  "rating": 42,
+  "_site": "scp-wiki-cn",
+  "_fullname": "scp-cn-371"
+}

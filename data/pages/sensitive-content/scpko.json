@@ -1,0 +1,14 @@
+{
+  "title": "민감한 콘텐츠를 포함할 수 있습니다.",
+  "content": "[[include :scpko:theme:navla-style]]\n[[module CSS]]\n\ndiv.picpictureture{\nmargin-top:30px;\nbox-shadow: 0px 0px 10px black;\ntransform: rotate(1deg);\n}\nh1{\ncolor:black;\ntext-align:center;\n}\ndiv#u-yeonseup{\nbox-shadow: 0px 0px 5px #555555;\npadding:14pt;\n}\ndiv#u-digital{\n\npadding:14pt;\nborder: 1px solid #555555;\n}\n[[/module]]\n[[div id=\"yeonseup\"]]\n\n+ 손그림 모음\n묶어는 놨는데 뭐라고 설명할 길이 없습니다. 노트에 4B 연필로 그린 그림을 모아봤어요.\n------\n\n[[collapsible class=\"title\" show=\"담배 피는 호야\" hide=\"닫기\"]]\n\n[[div class=\"picpictureture\"]]\n[[image %E1%84%86%E1%85%AE%E1%84%8C%E1%85%A6.png]]\n[[/div]]\n[[/collapsible]]\n[[/div]]\n\n------\n\n[[div id=\"digital\"]]\n\n+ 태블릿 그림\n이지만 여전히 손그림 같습니다.\n------\n\n[[collapsible class=\"title\" show=\"휴거\" hide=\"닫기\"]]\n[[image IMG_0214.png]]\n[[/collapsible]]\n[[/div]]\n[[>]]\n[[module Rate]]\n[[/>]]",
+  "tags": [
+    "ko",
+    "아트워크"
+  ],
+  "author": "letmebesensitiveplz",
+  "created_at": "2024-09-24T14:18:40+00:00",
+  "updated_at": "2024-09-25T14:33:09+00:00",
+  "rating": 11,
+  "_site": "scpko",
+  "_fullname": "sensitive-content"
+}

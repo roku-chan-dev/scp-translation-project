@@ -1,0 +1,14 @@
+{
+  "title": "新年装饰",
+  "content": "[[iftags +组件]]\n\n[[include component:image-block name=https://scp-ukrainian.wdfiles.com/local--files/component%3Anew-year/SCP-UA-didux.png|caption=图标展示“迪杜赫”——乌克兰传统圣诞装饰|width=200px]]\n\n由以下成员共同创作，[[*user N_nivis]]（美术设计）和[[*user Dasgot]]（技术支持与动态闪烁星星效果）。\n\n为页面添加节日装饰，请按以下步骤操作：\n1. 打开[[[nav:top|]]]；\n2. 点击“编辑”；\n3. 将以下代码插入文章最顶部：@@[[include :scp-wiki-cn:component:new-year]]@@；\n4. 保存页面；\n\n您也可以通过上述代码在自己的作品中应用此节日主题。\n\n\n[[/iftags]]\n\n[[module css]]\n\ndiv#container-wrap {\n    background: url(http://scp-ukrainian.wdfiles.com/local--files/component%3Anew-year/body_bg-NY-2.2.gif) top left repeat-x;\n}\n\n#header {\n    height: 140px;\n    position: relative;\n    z-index: 10;\n    padding-bottom: 22px; /* FOR MENU */\n    background: url(https://scp-ukrainian.wdfiles.com/local--files/component%3Anew-year/SCP-UA-didux-100.png) 10px 40px no-repeat;\n}\n\n#header h1 a {\n    display: block;\n    content: \"SCP基金会\";\n    color: #e1c2e4;\n}\n\n#header h2 span {\n    display: block;\n    margin: 0;\n    padding: 19px 0;\n    line-height: 0px;\n    max-height: 0px;\n    font-weight: bold;\n    color: transparent;\n    text-shadow: none;\n}\n\n#header h2 span::before {\n    content: '假期即将来临';\n    color: #e1c2e4;\n    text-shadow: 1px 1px 1px #000000;\n    text-shadow: 1px 1px 1px rgba(0,0,0,.8);\n}\n\n#login-status {\n    color: #ffffff;\n    font-size: 90%;\n    z-index: 30;\n}\n\n#login-status a {\n    background: transparent;\n    color: #ffffff;\n}\n#search-top-box-input:hover,\n#search-top-box-input {\n    border: solid 1px #4169e1;\n    border-radius: 5px;\n    color: #ffffff;\n    background-color: #83cdd5;\n    box-shadow: inset 1px 1px 3px rgba(0,0,0,.5);\n}\n\n#search-top-box-input:focus {\n    border: solid 1px #4169e1;\n    color: #ffffff;\n    background-color: #83cdd5;\n    box-shadow: inset 1px 1px 3px rgba(0,0,0,.8);\n}\n\n\n#search-top-box-form input[type=submit]:hover,\n#search-top-box-form input[type=submit] {\n    border: solid 1px #4169e1;\n    border-radius: 5px;\n    padding: 2px 5px;\n    font-size: 90%;\n    font-weight: bold;\n    color: #4169e1;\n    background-color: #83cdd5;\n    background: linear-gradient(to bottom, #9cd5db,#83cdd5,#428f9a);\n    box-shadow: 0 1px 3px rgba(0,0,0,.5);\n    cursor: pointer;\n}\n\n[[/module]]",
+  "tags": [
+    "ua",
+    "组件"
+  ],
+  "author": "Hppp",
+  "created_at": "2025-03-12T14:32:28+00:00",
+  "updated_at": "2025-03-12T14:32:39+00:00",
+  "rating": 0,
+  "_site": "scp-wiki-cn",
+  "_fullname": "component:new-year"
+}

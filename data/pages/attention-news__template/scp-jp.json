@@ -1,0 +1,14 @@
+{
+  "title": "attention-news:_template",
+  "content": "[[div_ class=\"wikisys--template-dialog\"]]\n[[div_ class=\"wikisys--template-dialog-header\"]]\nサイトニュース用個別ページです\n[[/div]]\n[[div_ class=\"wikisys--template-dialog-content\"]]\n**[[[archived-news|サイトニュース]]]を表示するためのページです。**\n許可なく編集しないでください。編集が必要だと思われる場合は、[[[contact-staff|サイトスタッフ]]]までご連絡ください。\n[[/div]]\n[[div_ class=\"wikisys--template-dialog-footer\"]]\n運用について、詳しくは[[[category-policy|]]]を参照してください。\n[[/div]]\n[[/div]]\n\n[[form]]\nfields:\n  date:\n    type: date\n    label: \"日付:\"\n    options:\n      appendText: 'カレンダーを表示'\n      autoSize: true\n      changeYear: true\n      dateFormat: 'y/mm/dd'\n      firstDay: 1\n      showOn: button\n  news:\n    label: \"ニュース:\"\n    type: wiki\n    height: 4\n[[/form]]\n[[include :scp-jp:_template]]",
+  "tags": [
+    "jp",
+    "管理"
+  ],
+  "author": "7happy7",
+  "created_at": "2019-01-14T15:37:06+00:00",
+  "updated_at": "2025-03-04T15:39:22+00:00",
+  "rating": 2,
+  "_site": "scp-jp",
+  "_fullname": "attention-news:_template"
+}

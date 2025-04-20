@@ -1,0 +1,19 @@
+{
+  "title": "SCP-CN-2987",
+  "content": "[[include :scp-wiki-cn:theme:minimal\n|title=SCP基金会\n|subtitle=控制，收容，保护]]\n\n[[>]]\n[[module Rate]]\n[[/>]]\n[[include component:image-block name=https://scpsandboxcn.wdfiles.com/local--files/forgotmydrug/phone2.jpg|caption=SCP-CN-2987现场发现的典型手机画面。|align=right|width=300px]]\n**项目编号：**SCP-CN-2987\n\n**项目等级：**Keter\n\n**特殊收容措施：**网络信息部门须持续监控全国范围内的警方记录与怪谈论坛，以追踪SCP-CN-2987的更多案例与情报。\n\n**描述：**SCP-CN-2987指一系列具有相同模式的人员失踪事件。SCP-CN-2987总是发生在午夜之后到第二日天亮之前，失踪者的身份不具备统计学上的相似特征。\n\nSCP-CN-2987的发生地点包括非露天的各类洗手间、盥洗室、公厕、简易厕所、旱厕等场所，内部均无目击者或监控设备。在部分案例中，可通过刑侦手段排除绑架、蓄意杀伤的可能性。\n\n在SCP-CN-2987发生地点的坐便器或蹲厕位附近总是可以发现失踪者的手机。这些手机处于类似的状态：开关机键、电池可正常使用，其余大部分组件和功能则存在故障且完全无法修复。开机后，除顶端图标区外的手机屏幕始终显示白屏画面，而图标区有且仅有以下五种图标[[footnote]]其中后三种图标的位置不定，且有可能不止出现一次。[[/footnote]]：\n* 数字时钟。显示时间固定在凌晨2:00到6:00之间的某个时刻，多起案例的显示时间各不相同。\n* 电池状态。可以正常反映电池电量及充放电状态。\n* 电量警告。即使电池电量并不在电量警告范围内。\n* 护眼模式。\n* 已上传。\n\n[[footnoteblock]]\n@@@@\n[[div class=\"footer-wikiwalk-nav\"]]\n[[=]]\n<< [[[SCP-CN-2986]]] | SCP-CN-2987 | [[[SCP-CN-2988]]] >>\n[[/=]]\n[[/div]]",
+  "tags": [
+    "keter",
+    "scp",
+    "原创",
+    "夜间活动",
+    "建筑",
+    "电子",
+    "精品"
+  ],
+  "author": "Sharethesilence",
+  "created_at": "2021-12-02T04:35:00+00:00",
+  "updated_at": "2022-03-27T15:20:24+00:00",
+  "rating": 692,
+  "_site": "scp-wiki-cn",
+  "_fullname": "scp-cn-2987"
+}

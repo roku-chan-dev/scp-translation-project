@@ -1,0 +1,30 @@
+{
+  "title": "SCP-8980",
+  "content": "[!--\n\nListpages Fragments:\n\nhttps://scp-wiki-cn.wikidot.com/fragment:scp-8980-1\nhttps://scp-wiki-cn.wikidot.com/fragment:scp-8980-2\n\n--]\n\n[[module ListPages parent=\".\" category=\"fragment\" order=\"created_at\" limit=\"1\" offset=\"@URL|0\"]]\n%%content%%\n[[/module]]\n\n@@ @@\n@@ @@\n@@ @@\n@@ @@\n@@ @@\n\n[[include :scp-wiki-cn:component:license-box\n|author=Yossipossi\n|translator=Aegnus、Dr Hormress、flipiris、Kcorena、LeeBr、Researcher2516、Re_spectators与Sharia Vanilla]]\n> **文件名：**fractal.webp\n> **图像名：**Abox - Sphere 4D 8K HQ OpenCL 20200323 klein\n> **图像作者：**PantheraLeo1359531\n> **授权协议：**Creative Commons Attribution 4.0 International\n> **来源链接：**[https://web.archive.org/web/20240912150048/https://commons.wikimedia.org/wiki/File:Abox_-_Sphere_4D_8K_HQ_OpenCL_20200323_klein.png Wikimedia Commons]\n> **备注：**修改为绿色并更改为webp格式。\n\n> **文件名：**ecw.png\n> **图像名：**CQCcN7e\n> **图像作者：**[[*user EstrellaYoshte]]\n> **授权协议：**Creative Commons Attribution-ShareAlike 3.0.\n> **来源链接：**[[[desk-of-junior-designer-s-yvonne|SCP Foundation]]]\n> **备注：**倒置颜色。\n\n> **文件名：**femalescientist.png\n> **图像名：**Véronique Cortier\n> **图像作者：**匿名\n> **授权协议：**Creative Commons Attribution-Share Alike 4.0\n> **来源链接：**[https://web.archive.org/web/20240912144845/https://commons.wikimedia.org/wiki/File:V%C3%A9ronique_Cortier.jpg Wikimedia Commons]\n> **备注：**已修改以编辑双眼。\n[[include :scp-wiki-cn:component:license-box-end]]\n\n[[include :scp-wiki:fragment:scp-anthology-2024-earthworm\n| previous-url = scp-8380\n| previous-title = 水池恐惧症\n| next-url = scp-8894\n| next-title = 跌落恐惧症\n| hub-url = scp-anthology-2024\n| hub-title = 文选2024\n]]\n\n[[module CSS]]\n.content-warning {\n    font-size: 100%;\n    font-weight: 900;\n}\n\n.earthworm--anth24 {\n    --anth24-accent: rgb(10, 70, 10) !important;\n}\n\ndiv.earthworm--anth24 .earthworm__hub::after {\n    background: #000;\n    filter: unset !important;\n}\n\ndiv.earthworm--anth24 .earthworm__previous:has(a:hover) {\n    background-image: linear-gradient(to right, #24f04d44, transparent);\n}\n\ndiv.earthworm--anth24 .earthworm__previous:has(a:hover) .earthworm__arrowhead, .earthworm--anth24 .earthworm__next:has(a:hover) .earthworm__arrowhead {\n    background-image: linear-gradient(to left, #24f04d44, #24f04d44);\n}\n\ndiv.earthworm--anth24 .earthworm__next:has(a:hover) {\n    background-image: linear-gradient(to left, #24f04d44, transparent);\n}\n\n.earthworm--anth24 a {\n    text-decoration: none !important;\n}\n\n[[/module]]",
+  "tags": [
+    "2024非官方吓唬nico",
+    "euclid",
+    "graham主管",
+    "odongo-tejani",
+    "scp",
+    "人形生物",
+    "伦理委员会",
+    "官僚体制",
+    "恐怖",
+    "恐惧症文选",
+    "悲剧",
+    "智能",
+    "活物",
+    "深井目录",
+    "电力",
+    "电脑",
+    "精神恐怖",
+    "遏火部"
+  ],
+  "author": "LeeBr",
+  "created_at": "2024-11-01T15:58:07+00:00",
+  "updated_at": "2024-11-09T16:57:16+00:00",
+  "rating": 59,
+  "_site": "scp-wiki-cn",
+  "_fullname": "scp-8980"
+}

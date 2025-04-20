@@ -1,0 +1,13 @@
+{
+  "title": "人事档案",
+  "content": "[[module CSS]]\n#page-title {\n  display: none;\n}\n\n.meta-title {\n  border-bottom: solid 1px #bbbbbb;\n  color: #483D8B;\n  font-weight: normal;\n  margin: 0 0 0.6em;\n  padding: 0 0 0.25em;\n  font-size: 200%;\n}\n\n.meta-title p {\n  margin: 0;\n}\n[[/module]]\n[[module ListPages category=\"fragment\" parent=\".\" limit=\"1\" order=\"name\" offset=\"@URL|0\"]]\n[[div class=\"meta-title\"]]\n%%title%%\n[[/div]]\n[[/module]]\n\n[[module ListPages category=\"fragment\" parent=\".\" limit=\"1\" order=\"name\" offset=\"@URL|0\"]]\n\n%%content%%\n[[/module]]\n@@@@\n[[collapsible show=\"+ 显示里面的东西\" hide=\"- 隐藏里面的东西\"]]\n[[include component:author-page-tool order=updated_at desc|category=*|tag=-foo|default=0|note=最近编辑：{{**%%updated_by_linked%%**}} 时间：{{**%%updated_at%%**}}]]\n[[/collapsible]]\n@@@@\n@@@@\n>https://scp-wiki-cn.wikidot.com/fragment:miumeat-s-personnel-file-01\n>https://scp-wiki-cn.wikidot.com/fragment:miumeat-s-personnel-file-02",
+  "tags": [
+    "作者"
+  ],
+  "author": "miumeat",
+  "created_at": "2018-02-25T13:49:07+00:00",
+  "updated_at": "2024-12-22T05:17:53+00:00",
+  "rating": 29,
+  "_site": "scp-wiki-cn",
+  "_fullname": "miumeat-s-personnel-file"
+}

@@ -1,0 +1,13 @@
+{
+  "title": "服务器上的文件",
+  "content": "[[include :scp-wiki-cn:theme:black-highlighter-theme]]\n[[include :scp-wiki-cn:theme:extra-black-highlighter-theme]]\n[[include :scp-wiki:component:hide-tags]]\n[[include component:object-warning-box-source\n|bg-image=https://upload.wikimedia.org/wikipedia/commons/e/ec/SCP_Foundation_%28emblem%29.svg\n|bg-opacity=0.15\n|text-top=根据监督者议会的命令\n|text-bottom=以下文件为6/001级机密。\n**禁止未经授权的访问。**\n|object-number=001\n]]\n\n[[include :scp-wiki-cn:component:anomaly-class-bar-source\n|lang= cn\n|item-number= 001\n|clearance= 6\n|container-class= 机密\n|secondary-class= principalis\n|secondary-icon= http://scp-wiki.wdfiles.com/local--files/fragment%3Adjkaktus-s-proposal-iii-0/principalis-icon-png.png\n|disruption-class= amida\n|risk-class= 待观察\n]]\n\n\n-----\n\n[[include component:image-block name=http://scp-wiki.wdfiles.com/local--files/fragment%3Adjkaktus-s-proposal-iii-0/allthingsmustend.png|align=center|width=700px|caption=一切必将终结]]\n\n-----\n\n**特殊收容措施：**监督者议会必须建立对SCP-001的收容。\n\n**描述：**了解SCP-001的本质即是了解基金会的本质。\n\n更多信息，参见//文件001-GOI.01-Operatus//。\n\n**附录001.1：**附录文件\n\n[[collapsible show=\"输入解密密钥\" hide=\"解密中...\"]]\n@@@@\n@@@@\n[[=]]\n[[div style=\"display: inline-block; border: dashed 1px #444444; margin-left: auto; margin-right: auto; width: 380px; padding: 10px;\"]]\n第一人独自站立\n在贫瘠的原野上\n他看到远方\n那闭锁的大门后\n藏着他最大的耻辱。\n\n他转身向蛇\n看它伏地盘曲\n如同蠕虫\n诅咒它的变节。\n\n“你戏耍了我，”男人说道\n“你引我的手伸向歧途\n而今我们为此遭责。”\n\n蛇一声叹息。\n“我赐你智识，”它说道\n“凭着智识，\n你可做自己的选择\n我无法为你做到。”\n\n男人恸哭\n“都是一样的，相信你\n就是我最大的错误。”\n\n“不，”蛇说道\n“你的最大错误\n就是以为自己能有选择。”\n@@@@\n@@@@\n- -- -\n@@@@\n@@@@\n[[div style=\"display: inline-block; border: solid 1px #000000; background-color: #F5F5F5 ; width: 300px;\"]]\n[http://scp-wiki-cn.wikidot.com/djkaktus-s-proposal-iii/offset/1 访问文件001-GOI.01-Operatus]\n[[/div]]\n[[/div]]\n[[/=]]\n[[/collapsible]]",
+  "tags": [
+    "段落"
+  ],
+  "author": "W Asriel",
+  "created_at": "2018-12-04T10:59:45+00:00",
+  "updated_at": "2021-07-16T15:42:52+00:00",
+  "rating": 2,
+  "_site": "scp-wiki-cn",
+  "_fullname": "fragment:djkaktus-s-proposal-iii-0"
+}

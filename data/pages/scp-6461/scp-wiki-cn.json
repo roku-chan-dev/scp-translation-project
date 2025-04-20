@@ -1,0 +1,16 @@
+{
+  "title": "SCP-6461",
+  "content": "[[include :scp-wiki:theme:unusual-cargo]]\n[[module CSS]]\n#header:before {background: url(\"ttps://scp-wiki.wdfiles.com/local--files/component:theme/logo.png\");}\n#header h1 a::before {content: \"Secure, Contain, Protect\";}\n#header h2 span::before {content: \"The Foundation\";}\n.bt {font-family:'IM Fell DW Pica SC', serif;; font-weight: bold;}\n[[/module]]\n\n[[include :scp-wiki:component:author-label-source start=--\n|name=TheDarkArtist\n|center=*]]\n= **SCP-6461 -- //致科学的十四行诗//**\n----\n[[=]]\n一个实验，别究责任。\n如不理解，请看评论。\n[[/=]]\n[[include :scp-wiki:component:author-label-source end=--]]\n----\n\n[[span class=\"bt\"]]项目编号：[[/span]]SCP-6461\n\n[[span class=\"bt\"]]项目等级：[[/span]]Euclideum\n\n[[span class=\"bt\"]]特殊收容措施：[[/span]]科学错误信息应在文学界传播，以避免SCP-6461实例发生。\n\n[[span class=\"bt\"]]描述：[[/span]]SCP-6461为著名(前)诗人埃德加·爱伦·坡[[footnote]]1809年1月19日 - 迄今[[/footnote]][[footnote]]译注：埃德加·爱伦·坡(Edgar Allan Poe)，19世纪美国诗人、小说家和文学评论家，美国浪漫主义思潮时期重要成员。[[/footnote]]的心脏。诗人将这一事件称作一首十四行诗的灵感来源，但据信，是SCP-6461将十四行诗的灵感潜意识地传递给了诗人。\n\n尽管爱伦坡的心脏不再跳动，但他仍能照常生活，仿若无事。\n\n[[span class=\"bt\"]]更新：[[/span]]自以下诗歌于1829年发表，其作者于1830年隐退后[[footnote]]自SCP-6461出现后，埃德加·爱伦·坡始终无动于衷，且嗜好饮酒。[[/footnote]]基金会已接到数起SCP-6461新实例报道，均发生在文学界人士中，无一例外。\n\n[[span class=\"bt\"]]附录：[[/span]]以下为SCP-6461出现以来，爱伦坡第一首，也是唯一一首作品中前四节的摘录。\n[[include :scp-wiki:component:coltop\n| show=　　　　⟫ 访问摘录\n| hide=　　　　⟪ 关闭摘录\n]]\n----\n[[div class=\"blockquote\" style=\"text-align: center; font-style: italic;\"]]\n科学啊！你是时间真正的女儿！\n你用凝视的眼眸改变了一切\n你为何这样掠走诗人的心，\n让你荒芜悲哀的现实传遍？\n[[/div]]\n[[include :scp-wiki:component:colend]]\n\n[[=]]\n----\n[[div class=\"footer-wikiwalk-nav\"]]\n<< [[[SCP-6460]]] | SCP-6461 | [[[SCP-6462]]] >>\n[[/div]]\n[[/=]]\n----\n\n[[include :scp-wiki-cn:component:license-box\n|author=TheDarkArtist\n|translator=Hg-lab\n]]\n> **Name:** Sonnet to Science\n> **Author:** [[*user TheDarkArtist]], based on the original by Edgar Allan Poe (Public Domain)\n> **License:** CC BY-SA 3.0\n=====\n[[include :scp-wiki-cn:component:license-box-end]]",
+  "tags": [
+    "euclid",
+    "scp",
+    "生物性",
+    "艺术性"
+  ],
+  "author": "Hg-lab",
+  "created_at": "2022-08-26T03:49:59+00:00",
+  "updated_at": "2023-03-27T13:36:48+00:00",
+  "rating": 3,
+  "_site": "scp-wiki-cn",
+  "_fullname": "scp-6461"
+}

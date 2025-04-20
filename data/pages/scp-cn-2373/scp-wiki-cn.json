@@ -1,0 +1,22 @@
+{
+  "title": "SCP-CN-2373",
+  "content": "[[>]]\n[[module Rate]]\n[[/>]]\n\n\n[[module ListPages category=\"fragment\" parent=\".\" limit=\"1\" order=\"created_at\" offset=\"@URL|0\"]]\n%%content%%\n[[/module]]\n\n[!-- http://scp-wiki-cn.wikidot.com/fragment:cn-2373-1 --]\n[!-- http://scp-wiki-cn.wikidot.com/fragment:cn-2373-2 --]\n\n\n[[footnoteblock]]\n\n[[div class=\"footer-wikiwalk-nav\"]]\n[[=]]\n<< [[[SCP-CN-2372]]] | SCP-CN-2373 | [[[SCP-CN-2374]]] >>\n[[/=]]\n[[/div]]",
+  "tags": [
+    "keter",
+    "scp",
+    "site-cn-82",
+    "信息危害",
+    "原创",
+    "感知影响",
+    "概念",
+    "模因",
+    "现实扭曲",
+    "认知危害"
+  ],
+  "author": "PiracyEssayist Zero",
+  "created_at": "2022-10-23T07:40:48+00:00",
+  "updated_at": "2023-03-19T15:18:53+00:00",
+  "rating": 23,
+  "_site": "scp-wiki-cn",
+  "_fullname": "scp-cn-2373"
+}

@@ -1,0 +1,27 @@
+{
+  "title": "SCP-6848",
+  "content": "[[include :scp-wiki:theme:flopstyle]]\n[[include :scp-wiki:component:fade-in speed=1]]\n[[include :scp-wiki:component:toggle-sidebar]]\n[[include :scp-wiki:component:wide-image-sizer]]\n\n\n\n\n\n[[>]]\n[[module rate]]\n[[/>]]\n\n[[module ListPages  category=\"fragment\" parent=\".\" limit=\"1\" order=\"created_at\" offset=\"@URL|0\"]]\n%%content%%\n[[/module]]\n\n[!-- https://scp-sandbox-3.wikidot.com/fragment:dragon-under-new-mexico-1 --]\n[!-- https://scp-sandbox-3.wikidot.com/fragment:dragon-under-new-mexico-2 --]\n\n[[div class=\"footer-wikiwalk-nav\"]]\n[[=]]\n<< [[[SCP-6847 ]]] | SCP-6848 | [[[SCP-6849 ]]] >>\n[[/=]]\n[[/div]]\n\n\n\n[[include :scp-wiki:component:license-box]]\n\n> **Filename:** Alien01.svg\n> **Author:** Lionel Allorge\n> **License:** Creative Commons Attribution-Share Alike 4.0\n> **Source:** [[[https://commons.wikimedia.org/wiki/File:Alien01.svg]]]\n> (alterations were made)\n\n> **Filename:** Usa counties large.svg\n> **Author:** U.S. Census Bureau\n> **License:** Public domain\n> **Source:** [[[https://commons.wikimedia.org/wiki/File:Usa_counties_large.svg]]]\n> (alterations were made)\n\n> **Filename:** Roswell UFO Museum - Alien Autopsy (6080682876).jpg\n> **Author:** mr_t_77 from WV, USA\n> **License:** Creative Commons Attribution-Share Alike 2.0\n> **Source:** [[[https://commons.wikimedia.org/wiki/File:Roswell_UFO_Museum_-_Alien_Autopsy_(6080682876).jpg)\n\n> **Filename:** SandiaMountainsRR.jpg\n> **Author:** Tobyw87\n> **License:** Creative Commons Attribution-Share Alike 4.0\n> **Source:** [[[https://commons.wikimedia.org/wiki/File:SandiaMountainsRR.jpg]]\n\n> **Filename:** Great Seal of the United States (reverse).svg\n> **Author:** Ipankonin\n> **License:** Creative Commons Attribution-Share Alike 3.0\n> **Source:** [[[https://commons.wikimedia.org/wiki/File:Great_Seal_of_the_United_States_(reverse).svg]]\n\n> **Filename:** USS Nimitz 2004 tic tac UFO.jpg\n> **Author:** JMK\n> **License:** Creative Commons Attribution-Share Alike 4.0\n> **Source:** [[[https://commons.wikimedia.org/wiki/File:USS_Nimitz_2004_tic_tac_UFO.jpg]]\n\n> **Filename:** BigfootSussex.jpg\n> **Author:** Caroline Toms\n> **License:** Creative Commons Attribution-Share Alike 4.0\n> **Source:** [[[https://commons.wikimedia.org/wiki/File:BigfootSussex.jpg]]\n\n> **Filename:** USS Nimitz (CVN-68) returning to Norfolk 1981.JPEG\n> **Author:** PH1 Ken Brewer, USN\n> **License:** Public domain\n> **Source:** [[[https://commons.wikimedia.org/wiki/File:USS_Nimitz_(CVN-68)_returning_to_Norfolk_1981.JPEG]]\n\n> **Filename:** Gimbal The First Official UAP Footage from the USG for Public Release.webm\n> **Author:** United States Navy\n> **License:** Public domain\n> **Source:** [[[https://commons.wikimedia.org/wiki/File:Gimbal_The_First_Official_UAP_Footage_from_the_USG_for_Public_Release.webm]]\n> (alterations were made)\n\n> **Filename:** FLIR1 Official UAP Footage from the USG for Public Release.webm\n> **Author:** United States Navy\n> **License:** Public domain\n> **Source:** [[[https://commons.wikimedia.org/wiki/File:FLIR1_Official_UAP_Footage_from_the_USG_for_Public_Release.webm]]\n> (alterations were made)\n\n> **Filename:** Bigfoot Grande.gif\n> **Author:** LeCire, John Taylor (eventually) and Penyulap\n> **License:** Creative Commons Zero, Public Domain Dedication\n> **Source:** [[[https://commons.wikimedia.org/wiki/File:Bigfoot_Grande.gif]]\n\n> **Filename:** UFO photographed by Italian pilot Giancarlo Cecconi, 1979.jpg\n> **Author:** Italian pilot Marshal Giancarlo Cecconi in June 1979\n> **License:** Public domain\n> **Source:** [[[https://commons.wikimedia.org/wiki/File:UFO_photographed_by_Italian_pilot_Giancarlo_Cecconi,_1979.jpg]]\n\n> **Filename:** Forest in Central Oregon 2.jpg\n> **Author:** Jeffhollett\n> **License:** Creative Commons Attribution-Share Alike 4.0\n> **Source:** [[[https://commons.wikimedia.org/wiki/File:Forest_in_Central_Oregon_2.jpg]]\n\nInfared ACS icon is from ACS Icon Catalogue: https://scp-wiki.wikidot.com/acs-icon-catalogue (note: this icon was also used in the making of the \"cryptic\" class icon, as was the \"caution\" icon found here: https://scp-wiki.wdfiles.com/local--files/component%3Aanomaly-class-bar/caution-icon.svg)\n\nImages used to make the header image are taken from the following pages on the SCP wiki, contents licensed under CC-BY-SA:\nhttps://scp-wiki.wikidot.com/desk-of-junior-designer-s-yvonne\nhttps://scp-wiki.wikidot.com/s7-apcs-guide\n\n[[include :scp-wiki:component:license-box-end]]",
+  "tags": [
+    "7th-occult-war",
+    "_cc",
+    "_licensebox",
+    "_listpages",
+    "amorphous",
+    "antimemetic",
+    "gru-division-p",
+    "mind-affecting",
+    "obskura",
+    "parawatch",
+    "pentagram",
+    "religious",
+    "safe",
+    "scp",
+    "subterranean"
+  ],
+  "author": "Ampyrsand",
+  "created_at": "2023-07-29T15:50:49+00:00",
+  "updated_at": "2024-02-24T17:51:06+00:00",
+  "rating": 52,
+  "_site": "scp-wiki",
+  "_fullname": "scp-6848"
+}

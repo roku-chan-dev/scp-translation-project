@@ -1,0 +1,14 @@
+{
+  "title": "The Page of the Bazzle",
+  "content": "[[div style=\"border:solid 2px #D3462E; background: #FFA77F; padding: 10px; margin-top: 6px\"]]\n[[=]]\n[[module ListUsers users=\".\"]] \n**Greetings, %%title%%. I see you have taken much effort to reach this page, and I congratulate you for that; opening links can be very challenging.**\n[[/module]]\n[[/=]]\n@@ @@\n+++ **Now, I welcome you to...**\n[[f>image Zizzle3.png size=\"medium\"]]\n[[=]]\n@@ @@\n@@ @@\n@@ @@\n@@ @@\n@@ @@\n@@ @@\n@@ @@\n@@ @@\n++ **THE**\n++ **PAGE**\n++ **OF**\n++ **THE**\n++ **BAZZLE**\n@@ @@\n@@ @@\n@@ @@\n@@ @@\n@@ @@\n@@ @@\n@@ @@\n@@ @@\n@@ @@\n@@ @@\n@@ @@\n@@ @@\n[[size 70%]] **Apparently \"Bazzle\" has some slang definition, so my secondary username is \"Zizzzle\". Zizzzle is hard to pronounce though. I try. I cry.**\n\n**Woops, update! I call myself Ethel now! Man, puberty sure is something.** [[/size]]\n[[/=]]\n[[/div]]\n@@ @@\n[[div style=\"border-bottom:2px solid #777; margin-bottom:1px;\"]]\n[[/div]]\n[[div style=\"border-bottom:1px solid #777;\"]]\n[[/div]]\n[[div style=\"border:solid 2px #D3462E; background: #FFA77F; padding: 10px; margin-top: 6px\"]]\n[[include component:author-page\n  order=name |\n  perpage=10 |\n  background=no|\n  image=true|\n]]\n[[/div]]\n@@ @@\n[[div style=\"border-bottom:2px solid #777; margin-bottom:1px;\"]]\n[[/div]]\n[[div style=\"border-bottom:1px solid #777;\"]]\n[[/div]]\n[[<]]\n[[module rate]]\n[[/<]]\n[[=]]\nI aligned my rating module to the left. Come at me.\n[[/=]]",
+  "tags": [
+    "_cc",
+    "author"
+  ],
+  "author": "MrBazzle",
+  "created_at": "2018-03-18T02:43:06+00:00",
+  "updated_at": "2019-04-16T15:34:00+00:00",
+  "rating": 46,
+  "_site": "scp-wiki",
+  "_fullname": "the-page-of-the-bazzle"
+}

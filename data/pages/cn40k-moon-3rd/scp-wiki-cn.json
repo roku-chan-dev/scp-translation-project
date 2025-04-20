@@ -1,0 +1,16 @@
+{
+  "title": "SCP-CN-40K：谁家谜语人",
+  "content": "[[module CSS]]\n.email-example .collapsible-block-folded a.collapsible-block-link {\n    animation: blink 0.8s ease-in-out infinite alternate;\n}\n@keyframes blink {\n    0% { color: transparent; }\n    50%, 100% { color: #b01; }\n}\n.email {border: solid 2px #000000; width: 88%; padding: 1px 15px; margin: 10px; box-shadow: 0 1px 3px rgba(0,0,0,.5)}\n.email-example a.collapsible-block-link {font-weight: bold;}\n.tofrom {margin-left: 10px; margin-top: 5px; padding: 1px 15px; border-left: solid 3px maroon}\n[[/module]]\n\n\n[[include :scp-wiki-cn:theme:black-highlighter-theme]]\n\n[[include :scp-wiki:component:toggle-sidebar-bhl]]\n\n[[include :scp-wiki-cn:component:bhl-style-collapse-source]]\n\n\n[[>]]\n[[module Rate]]\n[[/>]]\n\n[[include :scp-wiki-cn:component:anomaly-class-bar-source\n|lang= cn\n|item-number= SCP-CN-40K\n|clearance= 5\n|container-class= keter\n|secondary-class= 5\n|secondary-icon= http://acsurlexample.com/image.svg\n|disruption-class= amida\n|risk-class= 危急\n]]\n\n**特殊收容措施：** --SCP-CN-40K应当被收容在-- --SCP-CN-40K不一定需要收容-- SCP-CN-40K一定不需要收容。\n\n**描述：**--SCP-CN-40K是一种异常心理现象，会不定期发生在某一特定人群中--SCP-CN-40K不需要描述。\n--受SCP-CN-40K影响的人统称SCP-CN-40K-A，通常具有以下特点：--SCP-CN-40K不应被描述。\n--SCP-CN-40K-A通常表现有某种异常思想的倾向，认定所有事物不应被描述，不应被理解--SCP-CN-40K不能被描述。\n--SCP-CN-40K-A在被影响后会很快变得极具攻击性与偏执，逐渐出现暴力倾向--不不，我是说，SCP-CN-40K**不能**，也**不应该**被描述，请你现在退出文档，去做些有意义的事吧。\n--SCP-CN-40K还可通过文档、谈话等信息传递渠道影响更多人，应--█████\n> 。\n\n> 停下。\n\n> 现在，停下，退出文档。\n\n> 。\n\n> 。\n\n> 。\n\n> 我的话很难理解吗？\n\n> [[size 10em]]**退出文档！**[[/size]]\n\n\n\n> 。\n\n> 看来你很不听话。\n\n> 不过没关系！（^-^）\n[[module ListPages limit=\"1\" category=\"*\" order=\"updated_at desc\"]]\n> 毕竟今天是%%updated_at|%Y/%m/%d%%\n[[/module]]\n\n> 很特殊的日子，不是吗？\n\n> 说起来，你没有想过为什么基金会四处搜罗不符合常识的事物，再把它们一一关起来吗？\n\n> 或许你想说“为了帷幕前的安稳”，但你确定吗？\n\n> 其实，帷幕前本就没有什么安稳可言，很快，我们所构筑起的“常识世界”就会随着[[span class=\"dblock\"]]一只海豹[[/span]]的到来而灰飞烟灭。\n\n> 祂何时到来？**不一定**\n\n> 祂如何到来？**不一定**\n\n> 祂为何到来？**不一定**\n\n> 但祂一定会来。\n\n> 所谓“帷幕”，只是一扇破碎的##red|舢板##\n\n> “真的吗？”\n\n> 当然是假的，我还能不骗你不成？:)\n\n> APRIL FOOLS🫵",
+  "tags": [
+    "2025愚人竞赛",
+    "scp",
+    "原创",
+    "搞笑"
+  ],
+  "author": "moon 3rd",
+  "created_at": "2025-04-04T10:51:45+00:00",
+  "updated_at": "2025-04-04T10:53:04+00:00",
+  "rating": -2,
+  "_site": "scp-wiki-cn",
+  "_fullname": "cn40k-moon-3rd"
+}

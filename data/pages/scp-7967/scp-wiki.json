@@ -1,0 +1,18 @@
+{
+  "title": "SCP-7967",
+  "content": "[[module CSS]]\n\n.danke {\n    padding: 15px;\n    margin-bottom:10px;\n    font-family: monospace;\n    font-size: 1.2em;\n}\n\n.agent {\n    background-color:#002200;\n    border: 3px solid #55AA55;\n    color: #77CC77;\n}\n\n.site {\n    background-color:#222200;\n    border: 3px solid #AAAA55;\n    color: #DDDD77;\n}\n\n[[/module]]\n\n[[include :scp-wiki:theme:ad-abyssum]]\n\n[[>]]\n[[module Rate]]\n[[/>]]\n\n\n__**Item #:**__ SCP-7967\n\n__**Object Class:**__ --Thaumiel-- Safe\n\n__**Special Containment Procedures:**__ --SCP-7967 is to be indefinitely maintained and used by the Foundation to produce Akiva Radiation for use in various religious based projects.--\n\nSCP-7967 is no longer to be maintained and to be stored in Containment Sector-54, located within [[[secure-facility-dossier-reliquary-area-27|Reliquary Area-27]]]. In light of the data implied by the object's behavior, this file is restricted to Clearance 5/DoTT personnel.\n\n__**Description:**__ SCP-7967 is a device developed by the Department of Tactical Theology in 2003. It was designed to harvest the abnormally high amount of Akiva Radiation that is produced when a human being dies. \n\nSCP-7967 functions through the theory that before entering an afterlife, a being tends to worship at greatly increased levels, a result of attempting to enter a [[[SCP-6130|positive afterlife]]] and contemplating one's mortality. \n\nThis energy tends to dissipate shortly after the subject's death. SCP-7967 functions by tracking these events and using Wozny-Hellman Worship Sinks to absorb it successfully.\n\n----\n= **Addendum**\n----\n\nSCP-7967 has been deemed to be nonfunctional and has gathered no Akiva Radiation in the two months since its activation. This is believed to be a result of the fact that although during this period approximately 11,000,000 humans have become corpses, none of them have died. \n\n\n[[footnoteblock]]\n\n[[div class=\"footer-wikiwalk-nav\"]]\n[[=]]\n<< [[[SCP-7966]]] | SCP-7967 | [[[SCP-7968]]] >>\n[[/=]]\n[[/div]]\n\n[[include :scp-wiki:component:license-box]]\n[!-- N/A (No Images)  --]\n[[include :scp-wiki:component:license-box-end]]",
+  "tags": [
+    "_licensebox",
+    "afterlife",
+    "artifact",
+    "safe",
+    "scp",
+    "tactical-theology"
+  ],
+  "author": "NielleiN",
+  "created_at": "2023-02-02T13:46:59+00:00",
+  "updated_at": "2023-09-27T12:27:57+00:00",
+  "rating": 94,
+  "_site": "scp-wiki",
+  "_fullname": "scp-7967"
+}

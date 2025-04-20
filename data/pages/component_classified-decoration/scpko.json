@@ -1,0 +1,14 @@
+{
+  "title": "등급 꾸미기",
+  "content": "[[iftags +구성요소]]\n[[note]]\n**저자:**\n[[*user 7happy7]]\n----\n**조언해주신 분:**\n[[*user boyu12]]\n----\n**사용법**\nhttp://ko.scp-wiki.net/scp-style-resource#toc5\n[[/note]]\n[[/iftags]]\n[[include :scpko:component:classified-decoration-base\n|lv={$lv}\n|item={$item}\n|oc={$oc}\n|lang{$lang}=false\n|lang={$lang}\n|lang=false\n|trans-level={$trans-level}\n|trans-level=false\n|trans-classified={$trans-classified}\n|trans-classified=false\n]]",
+  "tags": [
+    "en",
+    "구성요소"
+  ],
+  "author": "Aiken Drum",
+  "created_at": "2019-09-20T12:16:45+00:00",
+  "updated_at": "2021-09-20T13:10:59+00:00",
+  "rating": 0,
+  "_site": "scpko",
+  "_fullname": "component:classified-decoration"
+}

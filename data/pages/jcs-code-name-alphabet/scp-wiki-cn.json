@@ -1,0 +1,15 @@
+{
+  "title": "参谋长联席会议手册——行动代号字母表",
+  "content": "[[include :scp-wiki-cn:theme:black-highlighter-theme]]\n\n[[>]]\n[[module rate]]\n[[/>]]\n\n[[=]]\n++ 在管理者的命令下\n\n++ 此文档已被列为\n\n+ [[size 200%]]最高机密[[/size]]\n\n[[/=]]\n\n----\n\n1.目的：本手册详细指明了各类行动代号的使用以及管理方法。\n\n2.文档编号：FJCSM 5120.38，2009年生效，10年后失效，最高机密。\n\n3.适用范围：所有拥有独立发起一场完整行动能力的基金会站点/部门及所有O5 Command直属部门。\n\n4.使用政策：本手册应将不同字母组合码序列拆分开来，并将相应的部分交由手册中所提及的，具备相关使用资质的部门手中。仅参谋长联席会议（JCS）成员及O5 Command可持有本手册完整版本的复制品。本手册将明确各部分组合码的分发情况以避免部门之间命名代号的重复，以更好地配合全球指挥控制系统[[footnote]] Global Command & Control System-Top Secret【GCCS（TS）】 [[/footnote]]与全球站点支援网络[[footnote]] Global Site Support Network（GSSN） [[/footnote]]的运作。\n\n5.定义：在基金会的军事/收容行动代号中，规定由两个**实际存在**的单词组成。在确定代号两个单词的首字母的方法上，使用26个字母，以X除外的25个字母互相排列组合而成（e.g.：Operation Acid Fury，酸性狂怒行动，首字母组合AF），X则固定为代号中的首字与其他25个字母随机组合（e.g：Operation X-Requiem），此称为**组合码**。依照不同的字母组合为组合码，再以各个字母为首随机抽取单词，则组成具体的行动代号。\n@@@@\n[[div class=\"under\"]]\n[[div style=\"border-bottom:2px solid #777;border-top:2px solid #777;  padding:1px;\"]]\n[[div style=\"border-bottom:1px solid #777;border-top:1px solid #777;\"]]\n[[=]]\n+  代号首字母组合表\n[[/=]]\n\n[[/div]]\n[[/div]]\n[[/div]]\n·本表格将阐述**组合码序列**的编号以及各组合码序列的容量。\n·一个**组合码序列**将标以简单的阿拉伯数字标识以供识别，而该序列当中，包含从A至F/G至L/M至R/S至Z，共六个字母变化的首字母，与码内恒定不变的第二字母（举例：以A为恒定第二字母，使用表内组合码序列1，那么该套组合码序列内可使用的组合码共六个，分别为AA,BA,CA,DA,EA,FA。）\n[[=image http://scp-wiki-cn.wikidot.com/local--files/jcs-code-name-alphabet/Alphabet.png]]\n@@@@\n@@@@\n[[div class=\"under\"]]\n[[div style=\"border-bottom:2px solid #777;border-top:2px solid #777;  padding:1px;\"]]\n[[div style=\"border-bottom:1px solid #777;border-top:1px solid #777;\"]]\n[[=]]\n+ 组合码序列配属部门 \n[[/=]]\n\n[[/div]]\n[[/div]]\n[[/div]]\n\n[[=]]\n> ECCOM（伦理道德委员会司令部）——12,30,48,62\n> SBC（战略平衡委员会）——1,17,35,53\n> ARCCOM（北极特遣队司令部）——8,26,44,58,95,11\n> ANTARCOM（南极特遣队司令部）——6,24,42,67,29\n> EUCOM（欧洲特遣队司令部）——4,22,40,55,74,47\n> AMERICOM（美洲大陆特遣队司令部）——5,23,41,56,77,85\n> ME-AFRICOM（中东-非洲特遣队司令部）——64,80,82,87,91,94,61\n> ASCOM（亚洲特遣队司令部）——7,19,35,37,43,57,70\n> SAIA（特别异常情报处）——13,31,49,15,33,51,76,73\n> MIS（内务安全局）——89,93,78,97\n> QUA-SITES（各大已确认资质站点）（见FJCSM 7700.11）——9,27,34,45,52,59,68,78,79,90,81,84,10,28,60,69,72\n> GLA（同行组织联络局）——14,32,50,16\n> JCS（参谋长联席会议）——18,36,54,63\n> O5 Command/CENTCOM——101\n> 空余编号供部门变动时使用\n[[/=]]",
+  "tags": [
+    "_cc",
+    "原创",
+    "故事"
+  ],
+  "author": "Agt_LEAZOV",
+  "created_at": "2019-12-23T21:27:04+00:00",
+  "updated_at": "2021-01-16T04:25:20+00:00",
+  "rating": 32,
+  "_site": "scp-wiki-cn",
+  "_fullname": "jcs-code-name-alphabet"
+}

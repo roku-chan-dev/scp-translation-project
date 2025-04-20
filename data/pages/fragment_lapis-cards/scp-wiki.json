@@ -1,0 +1,13 @@
+{
+  "title": "Lapis Cards",
+  "content": "[[iftags +fragment]]\n> I made this to reduce the load on my author page and possibly to make adding pages easier in the future. \n[[/iftags]]\n\n[[div class=\"box\"]]\n[[div class=\"pic\"]]\n[[image {$image} link=\"*https://scp-wiki.wikidot.com/{$number}\"]]\n[[/div]]\n\n[[div class=\"title\"]]\n++* [[[{$number}|]]] {$title}\n[[/div]]\n\n[[div class=\"desc\"]]\n\n//{$flavortext}//\n\n[[module ListPages category=\"_default adult art theme component\" name=\"{$number}\"]]\n**[##green|+%%rating%%## / 💬%%comments%%]**\n[[/module]]\n\n[[size smaller]] //{$more}// [[/size]]\n[[/div]]\n[[/div]]",
+  "tags": [
+    "fragment"
+  ],
+  "author": "Miss Lapis",
+  "created_at": "2024-12-26T22:22:28+00:00",
+  "updated_at": "2025-01-29T16:58:15+00:00",
+  "rating": 0,
+  "_site": "scp-wiki",
+  "_fullname": "fragment:lapis-cards"
+}

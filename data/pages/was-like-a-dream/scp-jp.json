@@ -1,0 +1,14 @@
+{
+  "title": "藍色に没入する",
+  "content": "[[include :incbox:gray9]]\n\n[[module css]]\n\n@import url('https://fonts.googleapis.com/css2?family=Noto+Serif+JP&display=swap');\n\n#page-content {\n font-family: 'Noto Serif JP', serif;\n}\n\n[[/module]]\n\n[[div class=\"custom-collapsible\"]]\n\n[[include credit:start]]\n**タイトル:** 藍色に没入する\n**画像作成者:** ©︎[[*user Kuronohanahana]]\n**藍色の研究の著者:** ©︎[[*user 2MeterScale]]\n[[include credit:end]]\n\n@@@@\n@@@@\n@@@@\n@@@@\n@@@@\n\n[[include component:coltop |show=五月1D日|hide=夢のようだった。]]\n\n　　夢のようだった。どうやら色とりどりの魚が藍色の水の中を悠々と溶けている最中に、まるで何も脈絡がないように貫入してくる大ウツボやエイを眺めるのは。\n\n@@@@\n@@@@\n\n[[image http://scp-jp.wikidot.com/local--files/was-like-a-dream/7C05E5A6-22D0-473F-A206-56AF3A9F1618.jpeg]]\n\n@@@@\n@@@@\n\nまるで自らが王であるかと宣言するように、つい先日見た下手人の死体が、斜め45度に右手を上げ、水面から貫入する。水槽の水の藍色と、下手人の体毛の藍色が、まるで溶けるように夢と現の境界線をあいまいに。\n\n[[>]]\n--  --[[user 2MeterScale]]著、[[[http://scp-jp.wikidot.com/a-study-in-indigo |藍色の研究]]]より\n[[/>]]\n[[include component:colend nohide=true]]\n\n[[/div]]\n\n[[include :incbox:animated-col]]\n\n@@@@\n@@@@\n@@@@\n@@@@\n@@@@",
+  "tags": [
+    "jp",
+    "アートワーク"
+  ],
+  "author": "Kuronohanahana",
+  "created_at": "2020-06-18T12:48:15+00:00",
+  "updated_at": "2021-01-10T18:26:51+00:00",
+  "rating": 40,
+  "_site": "scp-jp",
+  "_fullname": "was-like-a-dream"
+}

@@ -1,0 +1,24 @@
+{
+  "title": "SCP-6006",
+  "content": "[!-- Fragments:\n\nhttps://scp-wiki.wikidot.com/fragment:scp-6006-0\nhttps://scp-wiki.wikidot.com/fragment:scp-6006-1\n\n--]\n[[module css]]\ndiv.chatbox-container {\n    background: linear-gradient(rgba(220, 220, 250, 1), rgba(200, 200, 255, 1));\n\tborder-radius: 10px;\n    box-shadow: 4px 6px 8px #a98;\n    padding: 1em .5em;\n    display: block;\n    width: 75%;\n\talign:center;\n    margin-block-start: 1em;\n    margin-block-end: 1em;\n    margin-inline-start: 40px;\n    margin-inline-end: 40px;\nz-index:30\n}\n\ntable, th, td {\n  border-bottom: 1px solid silver;\n}\n\ndiv.chatboxcontent {\n\tcolor:white!important;\n\tborder-radius: 20px;\n\tbackground: #8c5450;\n\tpadding: .5em 1em;\n\twidth: 20%;\n\tmargin:auto;\n}\n\ndiv.chatboxcontent a:link {\n\tcolor:white!important;\n}\ndiv.chatboxcontent a:visited {\n\tcolor:white!important;\n}\n \n@media (max-width: 600px) {\n    div.chatbox-container {\n    margin-inline-start: 0px;\n    margin-inline-end: 0px;\n    margin-block-start: 0em;\n    margin-block-end: 1em;\nwidth:75%;\npadding: 1em;\n    Margin: .5em 0em;\n\tposition:fixed;\n\tright:4em;\n\tbottom:4em;\n    }\n}\n\n.footnotes-footer { \n    visibility: hidden; \n    height: 0;\n    padding: 0;\n    margin: 0;\n}\n[[/module]]\n[[>]]\n[[module rate]]\n[[/>]]\n\n[[module ListPages category=\"fragment\" limit=\"1\" created_by=\"CityToast\" name=\"scp-6006-%\" order=\"title\" offset=\"@URL|0\"]]\n%%content%%\n[[/module]]\n\n[[div class=\"footer-wikiwalk-nav\"]]\n[[=]]\n<< [[[SCP-6005]]] | SCP-6006 | [[[SCP-6007]]] >>\n[[/=]]\n[[/div]]\n\n[[include :scp-wiki:component:license-box\n|author=Sam Swicegood (CityToast)]]\n=====\n> **Filename:** Ethics_committee_meeting_August_24_1998.jpg\n> **Author:** [[*user CityToast]]\n> **License:** CC BY-SA 3.0\n> **Source Link:**\n> **Derivative of:** //[https://www.flickr.com/photos/68618467@N03/8675587380 787 Battery Fire Investigative Hearing]// by the National Transportation Safety Board, Public Domain\n\n> **Filename:** TWIN_0455.jpg\n> **Author:** [[*user CityToast]]\n> **License:** CC BY-SA 3.0\n> **Source Link:**\n> **Derivative of:** //[https://www.flickr.com/photos/51117559@N03/6629260235 Abandoned Mall]// by Brett Levin, CC BY 2.0\n\n> **Filename:** TWIN_101010.jpg\n> **Author:** [[*user CityToast]]\n> **License:** CC BY-SA 3.0\n> **Source Link:**\n> **Derivative of:** //[https://www.flickr.com/photos/30036111@N04/8613636983 Abandoned Hospital (52)]// by Jan Bommes and //[https://www.flickr.com/photos/85166264@N07/8117088568 Sightseeing in Hørsholm's abandoned hospital]// by Manymade, both CC BY-20\n\n> **Filename:** TWIN_74189.jpg\n> **Author:** [[*user CityToast]]\n> **License:** CC BY-SA 3.0\n> **Source Link:**\n> **Derivative of:** //[https://www.flickr.com/photos/136665246@N05/44726535184 Abandoned Hospital]// by Dmitriy Protsenko, CC BY 2.0\n\n> **Filename:** TWIN001.jpg\n> **Author:** [[*user CityToast]]\n> **License:** CC BY-SA 3.0\n> **Source Link:**\n> **Derivative of:** //[https://www.flickr.com/photos/99649389@N02/14923425772 Milf Oven]// by darkday, CC BY 2.0\n=====\n[[include :scp-wiki:component:license-box-end]]",
+  "tags": [
+    "6000",
+    "_cc",
+    "_licensebox",
+    "_listpages",
+    "document",
+    "esoteric-class",
+    "ethics-committee",
+    "foundation-made",
+    "memory-affecting",
+    "meta",
+    "scp",
+    "uncontained"
+  ],
+  "author": "CityToast",
+  "created_at": "2021-05-25T04:09:09+00:00",
+  "updated_at": "2022-05-25T16:16:31+00:00",
+  "rating": 234,
+  "_site": "scp-wiki",
+  "_fullname": "scp-6006"
+}

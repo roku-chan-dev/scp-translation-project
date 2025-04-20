@@ -1,0 +1,24 @@
+{
+  "title": "SCP-5579",
+  "content": "[[>]]\n[[module Rate]]\n[[/>]]\n\n[[module ListPages  category=\"fragment\" parent=\".\" limit=\"1\" order=\"created_at\" offset=\"@URL|0\"]]\n%%content%%\n[[/module]]\n\n[[footnoteblock]]\n[[div class=\"footer-wikiwalk-nav\"]]\n[[=]]\n<< [[[SCP-5578]]] | SCP-5579 | [[[SCP-5580]]] >>\n[[/=]]\n[[/div]]\n[!-- http://www.scp-wiki.net/fragment:scp-5579-1 --]\n[!-- http://www.scp-wiki.net/fragment:scp-5579-2 --]",
+  "tags": [
+    "_cc",
+    "_listpages",
+    "alive",
+    "bacteria",
+    "chemical",
+    "euclid",
+    "extraterrestrial",
+    "food",
+    "iris-dark",
+    "marshall-carter-and-dark",
+    "parasitic",
+    "scp"
+  ],
+  "author": "T Rutherford",
+  "created_at": "2020-04-15T00:43:23+00:00",
+  "updated_at": "2021-07-30T18:04:03+00:00",
+  "rating": 303,
+  "_site": "scp-wiki",
+  "_fullname": "scp-5579"
+}

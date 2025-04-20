@@ -1,0 +1,17 @@
+{
+  "title": "SCP-8357",
+  "content": "[[module css]]\nbody {\nfont-size: 0.880em;\n}\n@media only screen and (max-width: 600px) {\n    .scp-image-block.block-right{\n        float: none;\n        margin: auto;\n    }\n}\n[[/module]]\n[[>]]\n[[module rate]]\n[[/>]]\n**Item #:** SCP-8357\n\n**Object Class:** Safe\n\n**Special Containment Procedures:** SCP-8357 is to remain stored within Site-357 indefinitely.\n\n[[include component:image-block name=Head.jpg|caption=SCP-8357, in storage|width=300px|align=right|alt-text:SCP-8357 sitting in the center of a white background.]]\n\n**Description:** SCP-8357 is the head of a terracotta figurine measuring 36x35x20mm. It is heart-shaped. Trace remnants of pigment remain on the object's face, with dry streaks trailing down from the eyes.  Forehead markings indicate the absence of a headdress. A fractured collar and earspool remain.\n\nAt time of discovery, accession records matching object's appearance were present within 73% of all museums in the global north. Anomalous interference presumed due to timeline improbabilities. All records erased without issue.\n\n**Discovery:** Acquisition records lost or nonexistent. See up to date provenance below.\n[[div style=\"border:dashed;border-color:rgb(240,240,255);background:rgb(248,248,255);padding: 0 10px 0;margin:0 10% 0\"]]\nMexico. Date unknown. It was broken off by the neck; Now we have it.\n[[>]]\n[[div style=\"color:rgb(50,50,50);font-size:.6em;\"]]\nLast Updated: 2nd January 1998\n[[/div]]\n[[/>]]\n[[/div]]\n[[div class=\"footer-wikiwalk-nav\"]]\n[[=]]\n<< [[[SCP-8356]]] | SCP-8357 | [[[SCP-8358]]] >>\n[[/=]]\n[[/div]]",
+  "tags": [
+    "_cc",
+    "knowledge",
+    "safe",
+    "scp",
+    "sculpture"
+  ],
+  "author": "IndustryStandard",
+  "created_at": "2024-05-20T18:33:21+00:00",
+  "updated_at": "2024-08-21T00:09:21+00:00",
+  "rating": 52,
+  "_site": "scp-wiki",
+  "_fullname": "scp-8357"
+}

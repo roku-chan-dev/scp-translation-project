@@ -1,0 +1,15 @@
+{
+  "title": "不眠",
+  "content": "[[>]]\n[[module Rate]]\n[[/>]]\n[[module CSS]]\n/*\n    Powered on 2020/03/24 10:02:43\n    [2020 Wikidot Theme]\n    Created by Heavyblues\n    CC BY-SA 3.0\n*/\ndiv#container-wrap {\nbackground: url(http://scpsandboxcn.wdfiles.com/local--files/original-high/kindom) top left repeat-x;}\n\ndiv#side-bar div.side-block {\n    border: 1px solid rgb(255, 255, 255);\n    box-shadow: 0 2px 6px rgb(217, 217, 217);\n}\ndiv#side-bar div.side-block div.heading,\ndiv#side-bar div.collapsible-block-unfolded-link,\ndiv#side-bar div.collapsible-block-unfolded-link div.collapsible-block-link {\n    color: rgb(0, 0, 0);\n    border-color: rgb(0, 0, 0);\n}\ndiv.open-menu a {\n    color: rgb(0, 0, 0)!important;\n    border-color: rgb(0, 0, 0)!important;\n}\n#side-bar a:visited {\n    color: rgb(0, 0, 0);\n}\n\n#side-bar div.menu-item .sub-text {\n    color: rgb(0, 0, 0);\n}\n\n\n#side-bar a,a:visited {\n    color: rgb(0, 0, 0);\n}\n \n#side-bar img {\n    filter: grayscale(1);\n    -webkit-filter: grayscale(1);\n}\n[[/module]]\n男人从未抽过烟，却在今夜期待着火星。\n\n他握着一枝黑红相间的钢笔。汗水让双手脱力，只能绷紧全身。男人满面通红，从落灰的毛绒玩具下抓出一个针筒。\n\n他又想起那个瞬间，女友的白大褂与鲜血。他想起自己的手，想起崭新的黑色钢笔。\n\n男人跪倒在木地板上，痉挛着颤抖。\n\n每一夜他都渴望着放弃，让针头刺破皮肤，然后忘却，然后苟且偷生。\n\n像是某种动物。\n\n------\n\n**//成为我的梦魇//**\n\n**//日夜不舍//**\n\n**//如缱绻故事//**\n\n**//冗长恍惚 追逐我//**\n\n**//从所有角落 苏醒//**\n\n**//拥抱我的骸骨//**\n\n**//镶嵌我的灵魂//**\n\n**//抑或极为短暂 稍纵即逝 再无可触//**\n\n**//隐约浮起 秘密哭泣//**\n\n**//玷污无血哀叹//**\n\n**//祈求隔日安息//**\n\n**//徒劳无疾 如芒在背//**\n\n**//何不至此荆棘 吞噬我//**\n\n**//未名思忆 入我安眠//**\n\n**//无耻惶惶 语焉不详//**\n\n**//再落失//**\n\n**//复苟延//**\n\n\n------\n落地窗前，男人扔掉针管，无声地呜咽着。",
+  "tags": [
+    "2017冬季征文",
+    "原创",
+    "故事"
+  ],
+  "author": "Heavyblues",
+  "created_at": "2017-01-28T14:24:59+00:00",
+  "updated_at": "2022-02-15T02:42:22+00:00",
+  "rating": 3,
+  "_site": "scp-wiki-cn",
+  "_fullname": "everme"
+}

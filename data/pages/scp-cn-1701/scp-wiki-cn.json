@@ -1,0 +1,19 @@
+{
+  "title": "SCP-CN-1701",
+  "content": "[[>]]\n[[module Rate]]\n[[/>]]\n\n[[div style=\"border:solid 1px #999999; background:#f2f2c2; padding:5px; margin-bottom: 10px;\"]]\n[[=]]\n[[size larger]] **基金会记录与信息安全管理部的通知** [[/size]]\n\n本項目正在進行實驗中。頁面內容可能隨時更新。若注意到內容異常請試著重整頁面以獲取最新版本。\n\n— RAISA\n[[/=]]\n[[/div]]\n\n[[module ListPages category=\"fragment\" parent=\".\" limit=\"1\" order=\"random\" offset=\"@URL|0\"]]\n\n%%content%%\n[[/module]]\n\n[[footnoteblock]]\n@@@@\n[[div class=\"footer-wikiwalk-nav\"]]\n[[=]]\n<< [[[SCP-CN-1700]]] | SCP-CN-1701 | [[[SCP-CN-1702]]] >>\n[[/=]]\n[[/div]]",
+  "tags": [
+    "cn1000",
+    "safe",
+    "scp",
+    "site-cn-77",
+    "原创",
+    "基金会制",
+    "知识"
+  ],
+  "author": "EDGE_chi",
+  "created_at": "2018-10-26T16:04:37+00:00",
+  "updated_at": "2020-04-26T04:04:50+00:00",
+  "rating": 36,
+  "_site": "scp-wiki-cn",
+  "_fullname": "scp-cn-1701"
+}

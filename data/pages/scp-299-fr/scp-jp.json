@@ -1,0 +1,19 @@
+{
+  "title": "SCP-299-FR",
+  "content": "[[>]]\n[[module Rate]]\n[[/>]]\n\n[[include component:image-block name=113.gif|caption= SCP-299-FRによって生成される文字列であり、セキュリティにより検閲されています。|width=300px]]\n\n**アイテム番号:**  SCP-299-FR\n\n**脅威レベル**: 黒 ●\n\n**オブジェクトクラス:** Keter\n\n**特別収容プロトコル:**  性質上、SCP-299-FRは収容することが出来ません。\nそれぞれ独立したサーバーに存在する4つのプログラムによって財団のあらゆるサーバーやネットワークを毎日監視し、SCP-299-FRに関連した変更を確認する必要があります。財団のセキュリティに直接リンクされたすべてのファイルとネットワークは、重要度に応じて優先順位を設定します。\n\nファイル、コード、またはネットワークがSCP-299-FRに感染していると判断された場合、切断、隔離、コピー、および削除が必要です。\n\nSCP-299-FRがファイルやコンピュータではない他の文字列に感染した場合は、出来るだけ早く破棄する必要があります。\n\n同時に異なるファイル形式を使用すると、SCP-299-FRの感染拡大が遅くなることが報告されています。\n\n財団に関連した文書中にSCP-299-FRが存在していた場合は、直ちに報告しなければなりません。\n\n**説明:** \n\n[[collapsible show=\"+ SCP-299-FRの感染を遅らせるためにコード化された説明\" hide=\"- SCP-299-FRの感染を遅らせるためにコード化された説明\"]]\n[[include component:image-block name=113-1.gif|caption= [SCP-299-FRの感染に対抗するための文書保護]|width=700px]]\n[[/collapsible]]\n[[collapsible show=\"+ SCP-299-FRの感染を遅らせるためにコード化された補遺\" hide=\"- SCP-299-FRの感染を遅らせるためにコード化された補遺\"]]\n[[include component:image-block name=113-2.gif|caption= [SCP-299-FRの感染に対抗するための文書保護]|width=700px]]\n[[/collapsible]]",
+  "tags": [
+    "fr",
+    "keter",
+    "scp",
+    "コンピュータ",
+    "ネモ・アンド・ノーチラス",
+    "要翻訳",
+    "黒"
+  ],
+  "author": "Hasuma_S",
+  "created_at": "2017-04-29T15:02:20+00:00",
+  "updated_at": "2022-12-23T06:37:55+00:00",
+  "rating": 44,
+  "_site": "scp-jp",
+  "_fullname": "scp-299-fr"
+}

@@ -1,0 +1,28 @@
+{
+  "title": "SCP-6140",
+  "content": "[[=]]\n[[module Rate]]\n[[/=]]\n\n[[include :scpko:component:info-ayers\n|lang=ko\n|page=scp-6140\n|authorPage=https://scp-wiki.wikidot.com/aismallard\n|comments=\n**SCP-6140:** 진정한 제국\nby [[*user stormbreath]] and [[*user aismallard]] \ntranslated by [[*user MGPedersen]] \n \n번역자와 편집자를 위해, 아래에 개별적인 오프셋 페이지 링크를 남겨둡니다. \n \n* **[http://scpko.wikidot.com/fragment:scp-6140-0 Fragment 0]** \n* **[http://scpko.wikidot.com/fragment:scp-6140-1 Fragment 1]** \n]]\n\n[[module CSS]]\n#u-author_block {\n    display: none;\n}\n[[/module]]\n\n[[module ListPages category=\"fragment\" parent=\".\" order=\"created_at\" limit=\"1\" offset=\"@URL|0\"]]\n%%content%%\n[[/module]]\n\n[[footnoteblock]]\n\n[[div class=\"authors\"]]\n[[include :scp-wiki:component:license-box\n|author=aismallard and stormbreath]]\n=====\n> **Filename:** map.png\n> **Author:** aismallard\n> **License:** CC BY-SA 3.0\n> **Derivative Of:** [[[https://commons.wikimedia.org/wiki/File:BlankMap-World.svg|BlankMap-World]]] (Public Domain by Canuckguy and et al)\n\n> **Filename:** daevastan.jpg\n> **Name:** Altyn Arashan resort, Kyrgyzstan 3\n> **Author:** Adam Harangozó\n> **License:** CC BY-SA 4.0\n> **Source:** [[[https://commons.wikimedia.org/wiki/File:Altyn_Arashan_resort,_Kyrgyzstan_3.jpg|Wikimedia Commons]]]\n\n> **Filename:** scp-140-a.jpg\n> **Name:** Earl S.\n> **Author:** Gerard M. Bauer\n> **License:** CC0\n> **Source:** [[[https://commons.wikimedia.org/wiki/File:Earl_S..jpg|Wikimedia Commons]]]\n=====\n[[include :scp-wiki:component:license-box-end]]\n[[/div]]",
+  "tags": [
+    "6000",
+    "en",
+    "k급-시나리오",
+    "scp",
+    "공저",
+    "다에바인",
+    "무효",
+    "변칙-사건",
+    "아벨",
+    "역사적",
+    "위치",
+    "의식",
+    "종교",
+    "주홍왕",
+    "카인",
+    "현실조작"
+  ],
+  "author": "MGPedersen",
+  "created_at": "2021-08-25T07:07:37+00:00",
+  "updated_at": "2024-10-06T15:40:32+00:00",
+  "rating": 21,
+  "_site": "scpko",
+  "_fullname": "scp-6140"
+}

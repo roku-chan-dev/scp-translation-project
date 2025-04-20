@@ -1,0 +1,21 @@
+{
+  "title": "SCP-2152-JP",
+  "content": "[[include :scp-wiki:theme:basalt]]\n\n[[include :scp-jp:credit:start]]\n**タイトル:** SCP-2152-JP - 平穏、不安、飲み下して暗黒\n**著者:** [[*user iti119]]\n**作成年:** 2021\n[[include :scp-jp:credit:end]]\n\n[[div class=\"header-font-size\"]]\n[[include :scp-jp:user-component:classification-header-iti\n|item-number= 2152-JP\n|object-class= Euclid\n|clearance= 2\n|lang= JP\n|hralt= true\n]]\n----\n[[/div]]\n\n**特別収容プロトコル:** SCP-2152-JPは標準人型実体収容房に収容されます。SCP-2152-JPは自身の異常性を自覚しておらず、カバーストーリー「社会実験」の偽記憶のもとで収容されています。2か月に一度、SCP-2152-JPに対して後進型健忘性の記憶処理を施し、収容期間中の記憶を抹消します。\n\n収容房にはコーヒー器具が常備され、収容担当者の許可によってSCP-2152-JPの要請に応じた用品が支給されます。\n\n**説明:** SCP-2152-JPは非常に限定的なクラスⅣ相当のオントキネティック能力を備えたコーカソイド男性です。SCP-2152-JPの異常性は、SCP-2152-JPが自身の淹れたコーヒー (SCP-2152-JP-A) を消費する際に発生します。異常性は以下の通りに進行します。\n\n# SCP-2152-JPがカップを手に取ると同時に昏蒙状態に陥る。この状態のSCP-2152-JPをSCP-2152-JP-プライムと指定する。\n# カップ内のA実体がカップ外に漏れ出す。\n# A実体が体積を増大させつつ人型に変形し、同時にプライム実体が黒色に変色しながら液状に変性する。\n# 人型に制御されたA実体がプライム実体と同一の外見に変化してプライム実体と置換される。\n# プライム実体が体積を縮小させつつカップ内に入り込む。\n# 形成された人型のA実体が覚醒しカップ内の液体を消費する。\n\nプライム実体・A実体双方の置換は3秒程度の短時間で完了し、異常性を含むSCP-2152-JPの特徴は形成された人型実体に継承されます。特筆すべき点として、上記のプロセスを経ることで、SCP-2152-JPの精神的健康に対してストレスの低減等の良好な影響がもたらされることが判明しています。\n\n[[module CSS]]\n@import url(\"http://1119s.wdfiles.com/local--code/credit-mod-for-basalt-update/1\");\n\n:root {\n    --basalt-bright-element-color: 11, 0, 128;\n    --basalt-dark-element-color: 11, 0, 128;\n}\n.classification-header .right-box {\n    --level0: 11,0,128;\n    font-weight: bold;\n}\n@media (min-width: 768px) {\n    #main-content {\n        max-width: 80%;\n    }\n    .header-font-size {\n        font-size:1.25em;\n    }\n}\n#page-content {\n    font-size: 100%;\n    min-height: 720px;\n}\ndiv.rate-box-with-credit-button {\n    margin-bottom: 1em;\n}\n:is(#u-credit-view,#u-credit-otherwise) {\n    --basalt-UI-opacity: 0.5;\n}\n:is(#u-credit-view,#u-credit-otherwise) .modalcontainer {\n    display: flex;\n    max-width: 100%;\n    height: 100%;\n}\n:is(#u-credit-view,#u-credit-otherwise) .modalcontainer .modalbox {\n    width: 400px;\n    height: 300px;\n}\n[[/module]]",
+  "tags": [
+    "euclid",
+    "jp",
+    "scp",
+    "交換",
+    "人間型",
+    "変容",
+    "変身",
+    "外部エントロピー",
+    "液体"
+  ],
+  "author": "iti119",
+  "created_at": "2021-12-18T10:00:05+00:00",
+  "updated_at": "2024-02-11T13:15:11+00:00",
+  "rating": 93,
+  "_site": "scp-jp",
+  "_fullname": "scp-2152-jp"
+}

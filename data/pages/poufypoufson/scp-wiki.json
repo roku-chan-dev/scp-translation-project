@@ -1,0 +1,14 @@
+{
+  "title": "SCP-POUF",
+  "content": "[[>]]\n[[module Rate]]\n[[/>]]\n\n\nPOUFBOARD HOT 100\n[[module ListPages created_by=\"poufypoufson\" order=\"rating desc\" separate=\"no\" tags=\"scp\" perPage=\"250\" prependLine=\"||~ SCP Number ||~ Rating ||~ Comments ||~ Created ||\"]]\n|| %%title_linked%% || %%rating%% || %%comments%% || %%created_at%% ||\n[[/module]]\n\n@@ @@\n\n@@ @@\n\n[[collapsible show=\"top 2024\"]]\nTop 2024\n\n[[module ListPages order=\"rating desc\" category=\"*\" tags=\"-contest +publicdomaincon2025\" perPage=\"100\" separate=\"no\" prependLine=\"||~ Place ||~ Title ||~ Author ||~ Rating ||~ Upvotes/Downvotes ||~ Comments ||\"]]\n|| #%%index%% || %%title_linked%% || %%created_by_linked%% || %%rating%% || +[[#expr (%%rating%%+((%%rating_votes%%-%%rating%%)/2))]], -[[#expr ((%%rating_votes%%-%%rating%%)/2)]] || %%comments%% ||\n[[/module]]\n\n[[/collapsible]]",
+  "tags": [
+    "_licensebox",
+    "author"
+  ],
+  "author": "PoufyPoufson",
+  "created_at": "2023-06-20T02:19:19+00:00",
+  "updated_at": "2025-03-06T20:35:11+00:00",
+  "rating": 54,
+  "_site": "scp-wiki",
+  "_fullname": "poufypoufson"
+}

@@ -1,0 +1,27 @@
+{
+  "title": "[プロトコル4000-ESHUに基づき編集済]",
+  "content": "[[module ListPages  category=\"fragment\" parent=\".\" limit=\"1\" order=\"created_at\" offset=\"@URL|0\"]]\n%%content%%\n[[/module]]\n\n[!--画像はあとで--]",
+  "tags": [
+    "4000",
+    "en",
+    "keter",
+    "scp",
+    "ファクトリー",
+    "メタ",
+    "儀式",
+    "名もなきもの",
+    "場所",
+    "変容",
+    "情報災害",
+    "森林",
+    "樹木",
+    "異次元",
+    "精神影響"
+  ],
+  "author": "fumeinadebaisu",
+  "created_at": "2018-09-22T21:53:32+00:00",
+  "updated_at": "2024-02-21T12:18:32+00:00",
+  "rating": 317,
+  "_site": "scp-jp",
+  "_fullname": "taboo"
+}

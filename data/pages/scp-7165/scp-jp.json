@@ -1,0 +1,22 @@
+{
+  "title": "SCP-7165",
+  "content": "[[module CSS]]\nspan, a { word-break: normal !important }\n[[/module]]\n\n[[include :scp-jp:theme:blankstyle]]\n\n[[module css]]\n:root {\n--thaumiel: 0, 135, 189\n}\n[[/module]]\n\n[[module CSS]]\n/* anendlessusername's invaluable correction of the ACS octagon! */\n#page-content .quadrants > div {\n    top: 2.25%;\n    left: 18.5%;\n}\n[[/module]]\n\n[[module CSS]]\n:root {\n    --timeDelay: 0.5s;\n}\n[[/module]]\n\n[[div]]\n[[include :scp-jp:info:start]]\n**タイトル:** SCP-7165 - 無作法\n**翻訳責任者:** [[*user Witherite]]\n**翻訳年:** 2023\n**原題/リンク:** [https://scp-wiki.wikidot.com/scp-7165 SCP-7165 - The Faux Pas]\n**著作権者:** [[*user HarryBlank]]\n**作成年:** 2023\n**初訳時参照リビジョン:** rev.10\n\n----\n\n[[=]]\n**SCP-7165: \"無作法\"**\nすまねえ。\n\n[[image  http://scp-jp-storage.wikidot.com/local--files/file:6370408-318-r4x7/TLK.png]]\n\n**[[[http://www.scp-wiki.net/this-page-intentionally-left-blank|More by this author!]]]**\n[[/=]]\n[[include :scp-jp:info:end]]\n[[/div]]\n\n[[div style=\"height:12px;\"]]\n[[/div]]\n\n[[div]]\n[[include :scp-jp:component:anomaly-class-bar-source\n\n|item-number= SCP-7165\n|clearance= 2\n|container-class= esoteric\n|secondary-class= nagi\n|secondary-icon= http://scp-jp-storage.wdfiles.com/local--files/file%3A6370408-319-0es5/nagi-icon.svg\n|disruption-class= dark\n|risk-class= notice\n\n]]\n\n[[include :scp-jp:component:acs-peppo-split\n|object= keter\n|object-image= https://scp-jp.wdfiles.com/local--files/component%3Aanomaly-class-bar/keter-icon.svg\n|object-color= keter\n|esoteric-color= thaumiel\n]]\n\n[[/div]]\n\n----\n\n[[include component:image-block\n    name=http://scp-jp-storage.wdfiles.com/local--files/file%3A6370408-317-9lqj/TLK.png|\n    caption=SCP-7165の図像。|\n    width=250px|\n]]\n\n**特別収容プロトコル:** SCP-7165はSCP財団職員の人生での恋愛へのさらなる干渉がないか、Cliometoria.aicおよびMTFカッパ-43（\"仲介人\"）によって監視されます。[[span class=\"fnnum\"]].[[/span]][[span class=\"fncon\"]]Nagiクラスアノマリーは異常性質を示さなくなり、その性質が再発した際の再分類に備えて監視されます。[[/span]]\n\n関連するウェブドメインを停止する試みが進行中です。\n\n----\n\n**説明:** SCP-7165は、GoI-5889（[[[vikander-kneed-technical-media-hub|ヴィキャンデル＝ニード・テクニカル・メディア]]]）が運営している「Tender Lovin' Karen」という名前の出会い系サイトです。ウェブサイト上のプロモーション文では、次のような概要を示しています。\n\n> 特別な人を探していますか？ 特に、この特別な人、SCP財団ヒューロン湖研究収容サイト-43管理・監督セクション長のカレン・T・エルストロム博士を？ ええ、ヴィキャンデル＝ニード^^TM^^があなたのためにおもてなしできるのです！ Tender Lovin' Karenに登録して、見つかる唯一のユーザーを左にスワイプするだけで、あら不思議！ 現代の[[span class=\"ruby\"]]薄運の情人[[span class=\"rt\"]]the star-crossed lover[[/span]][[/span]]とすぐさま恋愛関係を築けるのです！ 彼女はここ二十余年デートに成功したことは1度たりともありませんでした。氷の女王の優しき心をついに融かせるのはあなたになるのでしょうか？ あなたが前文の混喩に気づけない人でなければきっと！ 彼女はとても細かい人ですから。\n\nSCP-7165が機能する作用は不明であるものの、エルストロム博士に興味を示す利用者は彼女のいる出会い系サイトでマッチングできるかもしれないとシームレスに考えるようになります。そのようなマッチングが対面での出会いに発展したのは1件のみであり、それがアノマリーの発見につながりました。\n\n----\n\n**補遺7165-1、現象論的概説:** 2023年8月23日、エルストロム博士はマッチングに成功したTinderユーザーとのデートを、プロトコルのため財団資源を利用してユーザーの身元を自力で確認したのちに手配しました。スリー・ポートランドのアナファビュラス！ビストロへの外出の転写が以下に添付されています。\n\n[[div class=\"blockquote\"]]\n\n//<エルストロム博士はテーブルで待っている。頭部が3台のテレビ画面になったヘラジカに類似する実体が接近し、彼女の対面側の椅子を踏みつぶして残骸の上に立つ。それぞれの画面には、1ダースの赤いバラの画像が映されている。>//\n\n**実体:** やあ、お嬢さん。デートだね。\n\n**エルストロム博士:** あんたは[https://ja.wikipedia.org/wiki/%E3%82%A2%E3%83%B3%E3%83%88%E3%83%8B%E3%82%AA%E3%83%BB%E3%83%90%E3%83%B3%E3%83%87%E3%83%A9%E3%82%B9 アントニオ・バンデラス]じゃないわね。\n\n**実体:** 君はカンがすごくいいね！\n\n**エルストロム博士:** ヴィキャンデル＝ニードのヘラジカでしょう。\n\n**実体:** 少しカンがよすぎるかもね。\n\n**エルストロム博士:** 今日は15件もマッチングがあったわ。全員VKTMかしら？\n\n**実体:** 今ここの話をしようじゃないか、嬢ちゃん。僕たちだけの夜だ。\n\n**エルストロム博士:** それはセクハラよ。\n\n//<画面の1つが変わり、VKTM代表マリ・マクファーソンを映す。彼女は青いパジャマと黄色のアイマスクを着けている。アイマスクは血でぐっしょりになっている。>//\n\n**マクファーソン:** そんなこと思いもしなかったわ。クソ。畜生。ヤメだヤメ。\n[[/div]]\n\n実体は消失し、エルストロム博士のTinderアカウントから15件全てのマッチングがなくなりました。翌日、サイト-43にエルストロム博士宛の11本の黄色いバラとお詫びのカードが到着しました。この発見とSCP-7165との相互関係の直後、「Tender Lovin' Karen」ドメイン上にホストされた全てのコンテンツが抹消されました。\n\nエルストロム博士は自身の個人的な出会い系サイトのアカウントを全て終了しました。",
+  "tags": [
+    "en",
+    "keter",
+    "on-guard-43",
+    "remixcon2023",
+    "scp",
+    "エルストロム博士",
+    "オンライン",
+    "マリ・マクファーソン",
+    "ヴィキャンデル・ニード",
+    "記憶媒体"
+  ],
+  "author": "Witherite",
+  "created_at": "2023-09-03T04:40:35+00:00",
+  "updated_at": "2024-04-21T04:42:14+00:00",
+  "rating": 9,
+  "_site": "scp-jp",
+  "_fullname": "scp-7165"
+}

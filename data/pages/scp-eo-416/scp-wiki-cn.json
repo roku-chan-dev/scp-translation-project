@@ -1,0 +1,15 @@
+{
+  "title": "SCP-EO-416",
+  "content": "[[include :scp-wiki-cn:component:anomaly-class-bar-source\n|lang= cn\n|item-number= SCP-EO-416\n|clearance= 3\n|container-class= keter\n|secondary-class= \n|secondary-icon=\n|disruption-class= vlam\n|risk-class= 警告\n]]\n@@@@\n@@@@\n[[include component:image-block name=ghost.jpg|caption=特工Andrew（具有探知幽灵的能力）在一间位于██的废弃医院发现SCP-EO-416（位于图像中央）|width=250px]]\n\n**特殊收容措施：**--由于SCP-EO-416的异常性质，项目无法以常规手段收容。--\n\n目前，SCP-EO-416被收容于3×3×3m体积的收容间内，该收容间位于Site-EO-76。\n\n**描述：**SCP-EO-416是一幽灵个体，具有与人类交流的能力。迄今尚未探明项目是以何种方式进行交流的。据推测，项目的智力或许高于人类平均水平。\n\nSCP-EO-416可以依据自身意愿穿透任何物体。基金会曾尝试以各种方式建立收容，但都因此异常性质而失败。\n\n当特工Andrew尝试与SCP-EO-416进行交流后， 项目自愿被基金会纳入收容。\n\n//尽管如此，鉴于SCP-EO-416的异常能力，基金会最终决定将其定级为Keter。//",
+  "tags": [
+    "eo",
+    "keter",
+    "scp"
+  ],
+  "author": "La_Ashman",
+  "created_at": "2020-03-15T17:02:41+00:00",
+  "updated_at": "2020-03-17T13:00:22+00:00",
+  "rating": 2,
+  "_site": "scp-wiki-cn",
+  "_fullname": "scp-eo-416"
+}

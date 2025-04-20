@@ -1,0 +1,13 @@
+{
+  "title": "EstrellaYoshte's Workbench",
+  "content": "[[module listpages tags=\"theme\" categories=\"theme\" perPage=\"9999\" separate=\"no\" order=\"created_at desc\" limit=\"100\"]]\n%%title_linked%%\n[[/module]]",
+  "tags": [
+    "workbench"
+  ],
+  "author": "EstrellaYoshte",
+  "created_at": "2024-02-23T10:43:47+00:00",
+  "updated_at": "2025-04-02T15:07:51+00:00",
+  "rating": 5,
+  "_site": "scp-wiki",
+  "_fullname": "workbench:estrellayoshte"
+}

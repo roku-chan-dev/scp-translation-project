@@ -1,0 +1,19 @@
+{
+  "title": "SCP-433",
+  "content": "[[>]]\n[[module Rate]]\n[[/>]]\n\n**Item #:** SCP-433\n\n**Object Class:** Euclid\n\n**Special Containment Procedure:** Only one copy of instructions for performing SCP-433 is permitted to exist at any given time. As well, the complete procedures may never be placed in an electronic document, in order to reduce the risk of containment breach. Dr. Severe and Dr. ███ have each read half of document SCP-433-001. They may not transcribe or share the contained information with anyone, including each other, without O5 approval. \n\nIn the event that information regarding the procedures necessary for SCP-433 is leaked, a disinformation campaign is to be undertaken immediately. As well, all facilities capable of producing Plutonium-238 are to be closely monitored for thefts or increased production. \n\n--All testing must be performed in a sealed chamber with solid steel or concrete walls existing at minimum 13 m from the center of the ritual. Any personnel in the test chamber after the ritual is complete are to remain in quarantine for two (2) weeks following its completion. Any organisms transferred are to be quarantined and studied.--\n\n//See Addendum 433-001.//\n\n**Description:** SCP-433 is a ritual described in document SCP-433-001. The ritual, when performed, results in the wholesale replacement of all matter within 11 m of the center of the ritual. All people, objects, terrain, and even gas is apparently removed and replaced with matter of unknown origin. See [[[Test Log 433-031]]] for details on matter replacements. \n\nDocument SCP-433-001 is contained within a large tome found in [REDACTED], Russia. The tome appears to be a grimoire of rituals, all written in Latin. The grimoire was discovered next to a spherical crater 22 m in diameter, left opened to document SCP-433-001. Due to the strange nature of the circumstances surrounding its discovery, the Foundation confiscated the grimoire and filled the crater. \n\nAll rituals described in the grimoire were tested; however, only SCP-433 yielded any result. It is worth noting that the majority of the rituals described in the grimoire contained one or more unknown symbols that could not be translated; SCP-433 was one of only three that did not. The grimoire itself is printed on normal paper and bound in leather, and displays no anomalous properties. \n\nSome of the materials required for SCP-433 include:\n* Three human skulls\n* Tin\n* Potassium Nitrate\n* Ice\n* A coil of copper wire\n* Plutonium-238\n\n[[footnote]]//Dr. ██████: The need for Plutonium-238 is something of a blessing in disguise; even if knowledge of SCP-433 were to be leaked, the difficulty of acquisition means very few would be capable of performing it.//[[/footnote]]\n\nBelow is the translated text at the top of document SCP-433-001, describing SCP-433.\n\n//Should the need arise to flee, and you find yourself sapped of [unknown symbols], do not despair. The Dance of [unknown symbols] will guide you to safety. Be warned: even the [unknown symbols] may perform the Dance of [unknown symbols]. Do not let them into our home.//\n\n**Addendum 433-001:** Due of the results of Test 433-008, and by consent of O5-█, O5-██, and Dr. ██████, all testing on SCP-433 has been suspended indefinitely.\n\n[[footnoteblock]]\n\n[[div class=\"footer-wikiwalk-nav\"]]\n[[=]]\n<< [[[SCP-432]]] | SCP-433 | [[[SCP-434]]] >>\n[[/=]]\n[[/div]]\n[[include :scp-wiki:component:license-box]]\n[[include :scp-wiki:component:license-box-end]]",
+  "tags": [
+    "_licensebox",
+    "document",
+    "euclid",
+    "language",
+    "ritual",
+    "scp",
+    "teleportation"
+  ],
+  "author": "DrSevere",
+  "created_at": "2010-11-20T23:21:30+00:00",
+  "updated_at": "2022-10-20T21:09:25+00:00",
+  "rating": 123,
+  "_site": "scp-wiki",
+  "_fullname": "scp-433"
+}

@@ -1,0 +1,19 @@
+{
+  "title": "SCP-8220",
+  "content": "=====\n[[include :scp-wiki:component:preview\ntext=\n//有点太甜了，但是好的那种。像妈妈做的。//\n]]\n=====\n\n[[include :scp-wiki:theme:black-highlighter-theme]]\n[[include :scp-wiki:component:toggle-sidebar-bhl]]\n[[include :scp-wiki:component:rso]]\n[[include :scp-wiki-cn:credit:start-standalone]]\n**SCP-8220：**祝你生日快乐\n**作者：**[[*user Zenobiyl]]\n[[include :scp-wiki-cn:credit:end-standalone]]\n\n[[module CSS]]\n#page-title {\n    display: none;\n}\n[[/module]]\n\n[[include :scp-wiki:component:image-block\nname=http://esperanzacai.wikidot.com/local--files/files/8220.jpg|\ncaption=SCP-8220|\nwidth=260px|]]\n\n**项目编号：**SCP-8220\n\n**项目等级：**Safe\n\n**特殊收容措施：**基金会人员可申请接触SCP-8220。\n\n**描述：**SCP-8220是一个三层香草蛋糕，顶部缀有草莓和蓝莓。一枚写有“生日快乐”的塑料装饰卡部分埋在SCP-8220内，仅可被一名人员在其生日当天移出。该装饰卡上写有一条发送给该人员的信息，来自于其生命中具有情感上重要性的人物，包括：\n\n* 近亲，包括近期过世的亲属[[footnote]]见附录 8220.1[[/footnote]]\n* 浪漫对象\n* 亲近朋友\n* 榜样人物\n\n在装饰卡移出后，SCP-8220变得可食用，其程度与人员年龄成反比。[[footnote]]平均而言，SCP-8220会在儿童食用95%后变得不可食用，在青少年中这一比例为50%，青年人25%，中年人10%，老年人5%。[[/footnote]]对SCP-8220造成的改变会在二十四小时后恢复。\n\n对SCP-8220风味的描述因人而异。\n\n**附录8220.1：**测试记录\n\n在对SCP-8220的测试中观察到以下结果。\n\n[[table  style=\"border-collapse:collapse; max-width: 600px;\"]]\n[[row]]\n[[cell style=\"font-weight:bold;padding: .3em .7em; text-align: center; border: 1px solid black; background-color: silver; width: 20%;\"]]\n对象\n[[/cell]]\n[[cell style=\"font-weight:bold; padding: .3em .7em; text-align: center; border: 1px solid black; background-color: silver;\"]]\n信息\n[[/cell]]\n[[cell style=\"font-weight:bold; padding: .3em .7em; text-align: center; border: 1px solid black; background-color: silver;\"]]\n描述风味\n[[/cell]]\n[[/row]]\n[[row]]\n[[cell style=\"text-align: center; padding: .3em .7em; border: 1px solid black\"]]\nEleanor Danry（28岁，女性）\n[[/cell]]\n[[cell style=\"border: 1px solid black; text-align: center; padding: .3em .7em;\"]]\n//我永远爱你，Ellie……尽快给我们打个电话，好吗？//\n[[/cell]]\n[[cell style=\"padding: .3em .7em; text-align: center; border: 1px solid black\"]]\n“有点太甜了，但是好的那种。像妈妈做的。”\n[[/cell]]\n[[/row]]\n[[row]]\n[[cell style=\"text-align: center; padding: .3em .7em; border: 1px solid black\"]]\nJames Harper（48岁，男性）\n[[/cell]]\n[[cell style=\"border: 1px solid black; text-align: center; padding: .3em .7em;\"]]\n//我们现在是你的家人了，Jim……无论发生什么，我们都会支持你的！//\n[[/cell]]\n[[cell style=\"border: 1px solid black; text-align: center; padding: .3em .7em;\"]]\n“酸，但回味更好……像蜂蜜一样。”\n[[/cell]]\n[[/row]]\n[[row]]\n[[cell style=\"text-align: center; padding: .3em .7em; border: 1px solid black\"]]\nRebecca Maynor（51岁，女性）\n[[/cell]]\n[[cell style=\"border: 1px solid black; text-align: center; padding: .3em .7em;\"]]\n//我们爱你、关心你胜过一切……会好起来的！//\n[[/cell]]\n[[cell style=\"border: 1px solid black; text-align: center; padding: .3em .7em;\"]]\n“没有味道。不过他们已经很努力了……”\n[[/cell]]\n[[/row]]\n[[row]]\n[[cell style=\"text-align: center; padding: .3em .7em; border: 1px solid black\"]]\nConnor Austin（23岁，男性）\n[[/cell]]\n[[cell style=\"border: 1px solid black; text-align: center; padding: .7em .7em;\"]]\n//不是你的错……//\n[[/cell]]\n[[cell style=\"border: 1px solid black; text-align: center; padding: .7em .7em;\"]]\n“焦了。”\n[[/cell]]\n[[/row]]\n[[/table]]\n _\n\n[[include :scp-wiki-cn:component:license-box\nauthor=Zenobiyl]]\n\n[[div class=\"blockquote\"]]\n**文件名：**Birthday Cake 01\n**图像作者：**Chris Gladis\n**授权协议：**CC BY 2.0\n**来源链接：***https://flic.kr/p/eeq4k\n[[/div]]\n\n[[include :scp-wiki-cn:component:license-box-end]]",
+  "tags": [
+    "safe",
+    "scp",
+    "心灵感应",
+    "自我修复",
+    "语言",
+    "铭文",
+    "食物"
+  ],
+  "author": "Esperanza_Cai",
+  "created_at": "2024-04-19T06:34:26+00:00",
+  "updated_at": "2024-04-19T06:35:14+00:00",
+  "rating": 0,
+  "_site": "scp-wiki-cn",
+  "_fullname": "scp-8220"
+}

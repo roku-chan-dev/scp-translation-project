@@ -1,0 +1,14 @@
+{
+  "title": "コンテスト参加作品得点監視用ページ",
+  "content": "[[=]]\n+ [[[event-archive-jp|イベントアーカイヴへ]]]\n[[/=]]\n\nこのページは、コンテストの運営が参加作品のポイントを監視するためのページです。サイトスタッフとイベント常任委員に対して編集が許可されています。\nあなたがコンテスト運営委員でもスタッフでもないならば、このページを編集しないでください。\n\nModule ListPages指南: https://www.wikidot.com/doc-modules:listpages-module\n\n----\n\n+++ 監視中: [[[bbc24|]]]\n\n----\n\n\n[[module ListPages category=\"_default\" tags=\"+bbc24 +scp\" perPage=\"250\" separate=\"no\" order=\"rating desc\"]]\n# [[size 120%]]**%%title_linked%%** [[/size]] [[size 105%]]by [[*user %%created_by%%]][[/size]] (**得点:** %%rating%% @@[@@+[[#expr (%%rating_votes%%-%%rating%%)/2+%%rating%% ]]/-[[#expr (%%rating_votes%%-%%rating%%)/2 ]]@@]@@)\n[[/module]]\n\n\n\n----\n\n++++ 決着時コピペ用\n\n\n[[module ListPages category=\"_default\" tags=\"+bbc24 +scp\" perPage=\"250\" separate=\"no\" order=\"rating desc\"]]\n@@# [[size 120%]]**[[[@@%%name%%@@|]]]**[[/size]] [[size 105%]]by [[*user@@ %%created_by%%@@]][[/size]] (**得点:** @@%%rating%%)\n[[/module]]",
+  "tags": [
+    "jp",
+    "ワークベンチ"
+  ],
+  "author": "Nanigashi Sato",
+  "created_at": "2021-01-14T13:39:50+00:00",
+  "updated_at": "2025-02-08T11:11:48+00:00",
+  "rating": 19,
+  "_site": "scp-jp",
+  "_fullname": "workbench:contest-monitoring"
+}

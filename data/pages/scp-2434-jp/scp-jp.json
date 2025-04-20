@@ -1,0 +1,20 @@
+{
+  "title": "SCP-2434-JP",
+  "content": "[[module CSS]]\n.notice{\n    border: 1px solid #f9e24d;\n    outline: 4px solid #b54d3b;\n    color: #f9e24d;\n    background: #b54d3b;\n    padding: 10px;\n    text-align: center;\n}\n\n/* HEADER */\n#header{ background-image: url(http://scp-jp.wikidot.com/local--files/scp-2434-jp/DoMC_Logo100.png); }\n#header h1 a{\n    display: block;\n    margin: 0;\n    padding: 80px 0 25px;\n    line-height: 0;\n    max-height: 0;\n    color: transparent;\n    background: transparent;\n    font-family: 'Verdana', Arial, sans-serif;\n    text-decoration: none;\n    text-shadow: none;\n    letter-spacing: 0.9px;\n}\n#header h1 a::before{\n    content: \"DoMC\";\n    color: white;\n    letter-spacing: -0.02em;\n    text-shadow: 3px 3px 5px black;\n}\n#header h2 span{\n    display: block;\n    margin: 0;\n    padding: 19px 0;\n    line-height: 0;\n    max-height: 0;\n    font-weight: bold;\n    color: transparent;\n    text-shadow: none;\n}\n#header h2 span::before{\n    content: 'Solving Communications Problems';\n    color: white;\n    text-shadow: 1px 1px 1px black;\n}\n[[/module]]\n\n[[include credit:start]]\n**タイトル:**  SCP-2434-JP - やかん\n**著者:** ©︎[[*user Karathh]]\n**作成年:** 2020\n[[include credit:end]]\n\n[[module CSS]]\n.notice{\n    border: 1px solid #f9e24d;\n    outline: 4px solid #b54d3b;\n    color: #f9e24d;\n    background: #b54d3b;\n    padding: 10px;\n    text-align: center;\n}\n.notice a {\n    color: aqua;\n}\n[[/module]]\n\n[[div class=\"notice\"]]\n++++ [[[domc-hub|誤伝達部門]]]より通達\n\n付随の説明書には不要な情報、及び一部存在していない情報があります。これは意図されたものではありません。説明書を読んでご不明のことがある際は、誤伝達部門にご連絡ください。\n\n-- 瀬戸博士 誤伝達部門日本支部\n[[/div]]\n\n----\n\n**型番:** SCP-2434-JP\n\n**分類:** Kettle\n\n[[include component:image-block\n|name=Kettle\n|caption=型番SCP-2434-JP\n|align=center\n|clear=true\n|width=300px]]\n\n**説明:** 型番SCP-2434-JPは製造元と組成が不明であるやかんです。\nやかんは湯沸かしとしてのみならず、単なる液体の運搬にも使用されます。また、中に水を入れて部屋に放置することで加湿器としても利用されています。しかし、やかんは鈍器、インテリア、容器内の充填物として扱われるものではありません。\n\n__**⚠️取り扱いの際の注意⚠️**__\n* 現在サイト-8154の調理室にて使用されています。\n\n* 使用中の表面への接触は火傷を引き起こすため、注意してください。\n\n* 使用後は中性洗剤を染み込ませたスポンジで洗い、水分をよく拭き取ってから乾燥するようにしてください。\n\n* 本製品は十分に取扱説明書をお読みいただいたうえでご利用ください。また、本製品の取扱説明書は毀損せず製品と一緒に大事に保管してください。\n\n* 説明書に変更が必要であると思われる場合は誤伝達部門に連絡してください。\n\n* **##red|__本来の使用用途に合わない目的への使用は使用者に予測できない被害を及ぼします。__##**\n\n**過去に起きた事故の例:**\n\n__**例1**__\n> **使用者:** 20代主婦\n> \n> **事故の詳細:** 顔面の火傷\n> \n> **事故の発生原因:** 鈍器としての使用\n\n__**例2**__\n> **使用者:** 30代研究員\n> \n> **事故の詳細:** 使用者を含む同僚5人のオブジェクトクラスに関する知識の喪失\n> \n> **事故の発生原因:** オブジェクトクラスの付与\n\n__**例3**__\n> **使用者:** 30代研究員\n> \n> **事故の詳細:** 指の骨折(2回)\n> \n> **事故の発生原因:** やすりを用いた成分分析(2回)\n\n__**例4**__\n> **使用者:** 30代研究員\n> \n> **事故の詳細:** 財団記録・情報保安管理局(RAISA)データベースの80件の報告書の消失\n> \n> **事故の発生原因:** 不適切な説明\n\n__**例5**__\n> **使用者:** 20代Dクラス職員\n> \n> **事故の詳細:** 複数の使用機器の爆発によるサイト-8154の損壊、ならびに12人の負傷(内使用者のみ死亡)\n> \n> **事故の発生原因:** カント計数機や重量計等を用いた測量\n\n__**例6**__\n> **使用者:** (無人)\n> \n> **事故の詳細:** 要注意団体の襲撃による収容ロッカーの破損(1日おきに3回)\n> \n> **事故の発生原因:** 収容ロッカーに入れて長時間放置(3回)",
+  "tags": [
+    "esoteric-class",
+    "jp",
+    "scp",
+    "メタ",
+    "容器",
+    "情報災害",
+    "誤伝達部門",
+    "金属"
+  ],
+  "author": "Karathh",
+  "created_at": "2020-09-15T10:59:02+00:00",
+  "updated_at": "2021-01-10T18:40:39+00:00",
+  "rating": 241,
+  "_site": "scp-jp",
+  "_fullname": "scp-2434-jp"
+}

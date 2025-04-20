@@ -1,0 +1,18 @@
+{
+  "title": "SCP-4595",
+  "content": "[[include component:black-highlighter-theme-dev]]\n[[include :scp-wiki-cn:credit:start-standalone]]\n**作者：**[[*user djkaktus]]\n**原文：***http://www.scp-wiki.net/scp-4595\n**译者：**[[*user R Allen]]\n**校对：**[[*user Chans Recks]]\n[[include :scp-wiki-cn:credit:end-standalone]]\n[[include :scp-wiki-cn:component:info-ayers\n|page=djkaktus[!-- url of your page on the scp wiki --]\n|authorPage=djkaktus[!-- link to your author page --]\n|comments=TBA\n]]\n[[module CSS]]\nsup {\nvertical-align: top; position: relative; top: -0.5em;\n}\n:root{\n--cutColour: #fafafa;\n--barColour: #590505;\n}\n.translation_block{\ndisplay:none;}\n\n.info-container .collapsible-block-folded a{\ncolor: #FFF;}\n.info-container .collapsible-block-unfolded-link a{\ncolor: #FFF;}\n\n.info-container .collapsible-block-link,\n.info-container:hover .collapsible-block-link {\nline-height: 1.6em;\n}\n[[/module]]\n[[include :scp-wiki-cn:component:object-warning-box-source\n|bg-image=https://upload.wikimedia.org/wikipedia/commons/e/ec/SCP_Foundation_%28emblem%29.svg\n|bg-opacity=0.15\n|text-top=根据监督者议会的命令\n|text-bottom=以下文件为2/4595级机密\n**禁止未经授权的访问。**\n|object-number=4595\n]]\n\n[[include :scp-wiki-cn:component:anomaly-class-bar-source\n|lang= cn\n|item-number= 4595\n|clearance= 2\n|container-class= safe\n|secondary-class= none\n|disruption-class= dark\n|risk-class= 警告\n]]\n\n@@@@\n@@@@\n[[include component:image-block name=https://scp-wiki.wdfiles.com/local--files/scp-4595/door.jpg|align=right|width=35%|caption=SCP-4595。]]\n\n**特殊收容措施：**安全起见，不允许任何人员进入SCP-4595。只有经过授权的试验人员才能在SCP-4595研究负责人的监督下进入SCP-4595。在任何情况下都不能够以任何方式干扰SCP-4595-A。\n\n**描述：**SCP-4595是印第安纳州贾斯珀附近的一所废弃房屋后面的一个小树林中的一个小房间。房间内有一个板凳，发现时还有一把小铲子[[footnote]]铲子的末端似乎染上了血迹，尽管无法从已变色的血液中提取出遗传物质。[[/footnote]]以及青年男性的骨骼。骨骼旁边的地面已于过去的某个时间被烧焦了。门的外侧用木炭写着“WITCH”这一词语。\n\nSCP-4595-A是扭曲的人形生物，位于SCP-4595地下1m处。对现场进行的探测雷达测试表明，该生物的面部、胸部和颈部有几处较大伤口，外表略显女性化。尽管间接证据显示了该地点历史十分久远，但SCP-4595-A自被掩埋以来似乎并未腐烂。\n\n任何进入SCP-4595并在房间内稍作停留的人都会开始有一种被监视的感觉，随后皮肤很快就会开始发痒。许多长期停留在SCP-4595内部的受试者最后都会试图用暴力伤害自己来缓解的不适。\n\n以任何方式干扰SCP-4595-A的人都会经历一种现象，即他们的胸腔以及肺、气道、胃和肠内的任何空隙都会被沙漠蝗虫[[footnote]]//Schistocerca gregaria//。[[/footnote]]填满。这些蝗虫会持续在受试者体内产卵，直到受试者死亡。任何试图离开SCP-4595的蝗虫只要一跨过门槛就会立即变为水蒸气。\n\n[[footnoteblock]]\n\n[[div class=\"footer-wikiwalk-nav\"]]\n[[=]]\n<< [[[SCP-4594]]] | SCP-4595 | [[[SCP-4596]]] >>\n[[/=]]\n[[/div]]\n\n[[include :scp-wiki-cn:component:djk]]",
+  "tags": [
+    "safe",
+    "scp",
+    "人形生物",
+    "反熵",
+    "建筑",
+    "移情作用"
+  ],
+  "author": "R Allen",
+  "created_at": "2020-01-24T14:55:06+00:00",
+  "updated_at": "2024-01-10T08:47:24+00:00",
+  "rating": 2,
+  "_site": "scp-wiki-cn",
+  "_fullname": "scp-4595"
+}

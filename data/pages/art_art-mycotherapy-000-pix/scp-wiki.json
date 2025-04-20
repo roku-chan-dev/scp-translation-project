@@ -1,0 +1,17 @@
+{
+  "title": "[Enter Title Text Here]",
+  "content": "[[include component:ratio-bar base=--]]\n[[>]]\n[[include :scp-wiki:info:start]]\n**Art Mycotherapy**\n[[include component:ratio-bar pie=--]]\n[[include :scp-wiki:info:end]]\n[[/>]]\n[[module CSS]]\n#page-content a\n{\ncolor:white;\n}\n[[/module]]\n[[div style=\"color:white;\"]]\n[[=]]\n[[image https://i.imgur.com/GPvtJCM.gif]]\n\n++ [https://www.tiktok.com/@ironshearss/video/7050033520785329413?is_copy_url=1&is_from_webapp=v1&lang=en Source Video] | [https://scp-wiki.wikidot.com/scp-000 SCP-000]\n[[<]]\n**Filename:** 000loop.mp4, 000.gif\n**Author:** IronShears\n**License:** https://creativecommons.org/licenses/by-sa/3.0/\n**Source Link:** https://www.tiktok.com/@ironshearss/video/7050033520785329413?is_copy_url=1&is_from_webapp=v1&lang=en\n**Derivative of:** SCP-000 by CryogenChaos\n[[/<]]\n\n\nI'm sorry I had to okay? It was an easy joke and I would be dropping the ball if I didn't. Don't fight me on this one it's not worth it. I will win.\n\nOkay my really good presentation aside, this is technically my first non-article pixel art. Kinda. Idk. I don't think it's a real SCP but it does have the number format so it's a soft launch. I might end up doing some tales and such eventually! This one is... very simplistic just because of, you know, how the article is. \n\nOkay, now I have gotta talk about the actual article. I've always found the concept of pattern screamers very fascinating and the gimmick of the unused 000 slot hosting one just added to that. I liked it!\n\n just drag the image below this into another tab if you wanna see it easier.\n[[image https://i.imgur.com/r1kC7Oc.png]]\n[[/=]]\n[[/div]]\n[[include :scp-wiki:component:license-box]]\n=====\n> **Filename:** corny.png\n> **Author:** IronShears\n> **License:** https://creativecommons.org/licenses/by-sa/3.0/\n> **Source Link:** https://imgur.com/a/3dvCf5y\n=====\n[[include :scp-wiki:component:license-box-end]]",
+  "tags": [
+    "_cc",
+    "animated",
+    "artwork",
+    "pixel-art",
+    "scp-art"
+  ],
+  "author": "IronShears",
+  "created_at": "2022-01-07T21:18:59+00:00",
+  "updated_at": "2024-03-28T14:12:38+00:00",
+  "rating": 55,
+  "_site": "scp-wiki",
+  "_fullname": "art:art-mycotherapy-000-pix"
+}

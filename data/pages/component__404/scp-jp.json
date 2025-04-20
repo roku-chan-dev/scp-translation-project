@@ -1,0 +1,14 @@
+{
+  "title": "component:_404",
+  "content": "[[div_ class=\"wikisys--template-dialog\"]]\n[[div_ class=\"wikisys--template-dialog-header\"]]\nこのページはまだ作成されていません\n[[/div]]\n[[div_ class=\"wikisys--template-dialog-content\"]]\n**サイトスタッフ以外が\"component\"カテゴリにページを作成することはできません。**\n詳しくは[[[category-policy|]]]を参照してください。\n[[/div]]\n[[div_ class=\"wikisys--template-dialog-footer\"]]\n[[iframe https://scp-jp.github.io/reserveiframe/reserve/component/%%404_page_name%%/ width=\"100%\" height=\"120px\" allowtransparency=\"true\" frameborder=\"0\" scrolling=\"no\"]]\n**あなたがサイトスタッフである場合は、[[button edit text=\"ここをクリック\"]]してください。**\n[[/div]]\n[[/div]]\n\n[[div_ class=\"scpnet-interwiki-wrapper\"]]\n[[include :scp-jp:nav:interwiki-c404 |lang=jp|category=component|]]\n[[/div]]",
+  "tags": [
+    "jp",
+    "管理"
+  ],
+  "author": "ukwhatn",
+  "created_at": "2021-04-05T12:49:58+00:00",
+  "updated_at": "2022-09-09T07:03:17+00:00",
+  "rating": 0,
+  "_site": "scp-jp",
+  "_fullname": "component:_404"
+}

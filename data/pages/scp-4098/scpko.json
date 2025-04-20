@@ -1,0 +1,23 @@
+{
+  "title": "SCP-4098",
+  "content": "[[include :scp-wiki:component:pride-highlighter |inc-s9-bi= --]]]\n\n[[module CSS]]\n/* HEADER */\n#header h1 a{\n    display: block;\n    margin: 0;\n    padding: 80px 0 25px;\n    line-height: 0;\n    max-height: 0;\n    color: transparent;\n    background: transparent;\n    font-family: 'Verdana', 'Nanum Gothic', Arial, sans-serif;\n    text-decoration: none;\n    text-shadow: none;\n    letter-spacing: 0.9px;\n}\n#header h1 a::before{\n    content: \"의사불통학부\";\n    color: white;\n    letter-spacing: -0.02em;\n    text-shadow: 3px 3px 5px black;\n}\n#header h2 span{\n    display: block;\n    margin: 0;\n    padding: 19px 0;\n    line-height: 0;\n    max-height: 0;\n    font-weight: bold;\n    color: transparent;\n    text-shadow: none;\n}\n#header h2 span::before{\n    content: '혀의 거슬림을 박살내자';\n    color: white;\n    text-shadow: 1px 1px 1px black;\n}\n[[/module]]\n\n[[include info:start]]\n**SCP-4098:** S-C-P, 19-3-16만큼 쉽다!\n**저자:** [[*user Westrin]] & [[*user Henzoid]]\n**원작:** http://www.scp-wiki.net/scp-4098\n**역자:** [[*user Gua1ngHa3i]]\n\n> **파일명:** scpscp.png\n> **명칭:** Landsman Research Facility, Brandeis University\n> **저자:** Kenneth C. Zirkel\n> **라이선스:** CC BY-SA 4.0\n> **출처:** [https://commons.wikimedia.org/wiki/File:Landsman_Research_Facility,_Brandeis_University.jpg Wikimedia Commons]\n[[include info:end]]\n\n[[table style=\"border: none; width: 100%;\"]]\n[[row]]\n[[cell]]\n[[size 125%]]**확정된 구분 분위:** SCP-4098\n[[/size]]\n[[/cell]]\n[[cell style=\"text-align: right;\"]]\n[[size 125%]]**###990000|허가된 급의 보안 4/4098##**[[/size]]\n[[/cell]]\n[[/row]]\n[[row]]\n[[cell]]\n[[size 125%]]**확립된 격리 분류:** \"황천의 관\" 변칙[[/size]]\n[[/cell]]\n[[cell style=\"text-align: right;\"]]\n[[size 125%]]**###990000|환경일반에서 극도로 보안유지##**[[/size]]\n[[/cell]]\n[[/row]]\n[[/table]]\n----\n\n[[div class=\"scp-image-block block-center\" style=\"width:100%;\"]]\n[[image http://scp-wiki.wikidot.com/local--files/scp-4098/scpscp.png style=\"width:100%;\" link=#]]\n[[div class=\"scp-image-caption\" style=\"width:100%;\"]]\n한때 기지94번의 바깥모습.\n[[/div]]\n[[/div]]\n\n----\n**현임 격리 방침:** SCP-4098은 항상 가명적으로 분절된다. 항시 6명의 격리 분원이 호위한다. 구역의 분리는 후히 감색된 복수의 합성수지유리 구체로 비치하여, 현상을 격리하는 분절의 현태를 구체적으로 보인다.\n\nSCP-4098은 항구적으로 SCP-4098-1이 끈질기게 배설하는 황급한 기인식자,,cognitohazard,,들을 방어한다. 해석하건대 SCP-4098-1이 가늠하기에 변동없이 한결같이 격리되어있다 비침은 확연한 개념적 분리의 효용이 갑론을박함을 보인다.\n\n후에 기술된 변칙들의 현황이 급히 불량해지면, [[[domc-hub|현저한 기술구술적 부닥침을]]] 한솥밥원들이 구원하여 보한다.\n\n**현상의 기술과 분석:** SCP-4098은 현실이탈밈,,paramemetics,,과 기인식자를 분석할 학문적 근거지로서 부설되었던 한때 기지94번과 부속 환경을 가리키는 바이다.\n\nSCP-4098은 한가운데 기지94번이 부설된 환경 근방에 변칙을 행사해 구술기술을 바르게 활용함을 계단적으로 방해한다. 후술하겠지만 그러한 변칙으로 화자의 가능한 발음머리는 한묶음으로 강요된다: ㅎ ㄱ ㅂ.\n\n한참 기지94번에 비치되었던 한무리의 기록유물들은 배송되어 현재 기지96번에 비치되었는데, 해당물들의 격리와 보호에는 후달리는 기지96번의 배당으로는 해당 기물들이 보전불가하다. 후속하여 기인식자 보호 환경을 건설하는 방침이 현재까지도 긴급한 배경이다.\n\n확연히 격리된 변칙 SCP-4098-1은 해악한 개념체를 발산하여 항시 건전한 방침 하에 근접함이 불가했다. SCP-4098의 해로운 개념을 보거나, 해석하거나, 기술하는 분석력있는 행동체는 그에 비명횡사했다.\n\n한 과거의 방책 \"해탈한 공자의 분노\"를 후속 계승하여, SCP-4098은 분란이 환경외부에서 근절되도록 본문을 현저히 견제하여 배치된 SCP의 과학자들과 배당의 한창 거름작업을 보좌했다. 현장 관리자는 본을 후딱 구성해 바쳐서는 확실히 그것을 분절했다. SCP-4098-1은 한참 개념이 박살나서, 확립된 기지94번의 변칙에 훈훈하게도 갖다 바쳐졌다.\n\n**후속 기록 보기:**\n> //화난 기지94번의 분류부원 하나가 그리 발언하기를: ㅎ-아니 ㄱ-그냥 ㅂ-이렇게 ㅎ-말하면 ㄱ-안 ㅂ-되나?//\n> \n> //해서 그뭔일이 벌어졌냐면: 17명 황천행, 관리하던 분원 혼쭐 겁나 받음. 하지마란거 굳이하면 박살난다.//",
+  "tags": [
+    "en",
+    "scp",
+    "건물",
+    "공저",
+    "밈적",
+    "의사불통학부",
+    "인식재해",
+    "재단이-만듦",
+    "정보재해",
+    "타우미엘",
+    "현상"
+  ],
+  "author": null,
+  "created_at": "2020-06-03T03:42:39+00:00",
+  "updated_at": "2024-11-19T11:18:33+00:00",
+  "rating": 46,
+  "_site": "scpko",
+  "_fullname": "scp-4098"
+}

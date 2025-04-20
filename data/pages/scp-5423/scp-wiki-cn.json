@@ -1,0 +1,26 @@
+{
+  "title": "SCP-5423",
+  "content": "[[module ListPages category=\"fragment\" parent=\".\" order=\"created_at\" limit=\"1\" offset=\"@URL|0\"]]\n%%content%%\n[[/module]]\n\n[[footnoteblock]]\n@@@@\n[[div class=\"footer-wikiwalk-nav\"]]\n[[=]]\n<< [[[SCP-5422]]] | SCP-5423 | [[[SCP-5424]]] >>\n[[/=]]\n[[/div]]",
+  "tags": [
+    "5000",
+    "keter",
+    "k级情景",
+    "meta",
+    "scp",
+    "伊斯兰物品回收办公室",
+    "全球超自然联盟",
+    "反物理定律",
+    "地点",
+    "时空",
+    "格鲁乌p部门",
+    "混沌分裂者",
+    "现实扭曲",
+    "蛇之手"
+  ],
+  "author": "Spadelee",
+  "created_at": "2020-03-06T08:25:15+00:00",
+  "updated_at": "2023-03-19T15:04:11+00:00",
+  "rating": 8,
+  "_site": "scp-wiki-cn",
+  "_fullname": "scp-5423"
+}

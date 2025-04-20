@@ -1,0 +1,15 @@
+{
+  "title": "재번역 템플릿",
+  "content": "[[module CSS]]\n.unmargined a, .unmargined a.newpage, .unmargined a:visited {\n  color: #FFF;\n}\ntable.wiki-content-table {\n  width: 100%;\n  margin: 0;\n}\ntable.wiki-content-table th, table.wiki-content-table td {\n  width: 33.3%;\n  text-align: center;\n}\n[[/module]]\n\n[[div class=\"unmargined\" style=\"margin: 0 auto 20px; background-color: #b01; border: solid 1px #b01; border-radius: 20px; box-shadow: 0 1px 6px rgba(0,0,0,.25), inset 0 1px 0 rgba(255,255,255,.8), inset 0 10px 1px rgba(255,255,255,.6), inset 0 -15px 30px rgba(0,0,0,.2); text-align: center; width: 500px;\"]]\n[[div class=\"unmargined\" style=\"margin: 20px 0; font-size: 300%; color: #fff; font-weight: bold; text-shadow: 1px 2px 3px rgba(0,0,0,.5);\"]]\n잠깐 정지!!\n[[/div]]\n[[div class=\"unmargined\" style=\"margin: 20px 0; color: #ff6;\"]]\n현재 이 페이지는 **[[[translate:rules|재번역 절차]]]**에 따른 재번역 대상입니다.\n[[/div]]\n[[div class=\"unmargined\" style=\"margin: 20px 0; font-size: 120%; font-weight: bold; color: #fff; text-shadow: 1px 2px 3px rgba(0,0,0,.25);\"]]\n스탭의 허가없이\n이 페이지를 만지지 마세요\n[[/div]]\n[[/div]]\n\n= **재번역 정보:**\n||~ 재번역자||~ 개시일자||~ 점검일자||",
+  "tags": [
+    "ko",
+    "관리",
+    "템플릿"
+  ],
+  "author": "thd-glasses",
+  "created_at": "2023-10-22T13:50:03+00:00",
+  "updated_at": "2023-10-22T13:50:34+00:00",
+  "rating": 0,
+  "_site": "scpko",
+  "_fullname": "component:retranslate"
+}

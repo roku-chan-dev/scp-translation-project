@@ -1,0 +1,26 @@
+{
+  "title": "SCP-4568",
+  "content": "[[include :scp-jp:credit:start]]\n[[<]]\n**タイトル:** SCP-4568 - 分かり合えぬ二蛇択一\n**オリジナル:** [https://scp-wiki.wikidot.com/scp-4568 SCP-4568] - Dilemma of the Twin Serpents\n**原著者:** [[*user Logarithmika]]\n**翻訳者:** [[*user DirStarFish]]\n**作成年(EN):** 2020年\n**参照リビジョン:** rev.9([https://scp-wiki.wikidot.com/scp-4568 親ページ])/rev.6([https://scp-wiki.wikidot.com/fragment:scp4568-1 1枚目])/rev.5([https://scp-wiki.wikidot.com/fragment:scp4568-2 2枚目])/rev.6([https://scp-wiki.wikidot.com/fragment:scp4568-3 3枚目])\n[[/<]]\n[[include :scp-jp:credit:end]]\n\n[!--\nFragments:\nhttp://scp-jp.wikidot.com/fragment:scp4568-1\nhttp://scp-jp.wikidot.com/fragment:scp4568-2\nhttp://scp-jp.wikidot.com/fragment:scp4568-3\n--]\n\n\n[[module ListPages category=\"fragment\" parent=\".\" order=\"created_at\" limit=\"1\" offset=\"@URL|0\"]]\n%%content%%\n[[/module]]",
+  "tags": [
+    "en",
+    "esoteric-class",
+    "k-クラスシナリオ",
+    "scp",
+    "ぜんまい仕掛け",
+    "サーキック",
+    "ヘビ",
+    "地下",
+    "地質",
+    "壊れた神の教会",
+    "敵対的",
+    "知性",
+    "第五教会",
+    "自律"
+  ],
+  "author": "DirStarFish",
+  "created_at": "2025-03-31T13:55:34+00:00",
+  "updated_at": "2025-03-31T13:59:32+00:00",
+  "rating": 0,
+  "_site": "scp-jp",
+  "_fullname": "scp-4568"
+}

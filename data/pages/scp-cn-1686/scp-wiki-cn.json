@@ -1,0 +1,17 @@
+{
+  "title": "SCP-CN-1686",
+  "content": "[[>]]\n[[module Rate]]\n[[/>]]\n\n[[module ListPages category=\"fragment\" parent=\".\" limit=\"1\" order=\"name\" offset=\"@URL|0\"]]\n%%content%%\n[[/module]]\n\n[[footnoteblock]]\n[[div class=\"footer-wikiwalk-nav\"]]\n[[=]]\n<< [[[SCP-CN-1685]]] | SCP-CN-1686 | [[[SCP-CN-1687]]] >>\n[[/=]]\n[[/div]]",
+  "tags": [
+    "scp",
+    "site-cn-12",
+    "原创",
+    "合著",
+    "无效化"
+  ],
+  "author": "nirvana073",
+  "created_at": "2022-09-03T11:04:07+00:00",
+  "updated_at": "2022-12-29T03:34:20+00:00",
+  "rating": 65,
+  "_site": "scp-wiki-cn",
+  "_fullname": "scp-cn-1686"
+}

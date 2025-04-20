@@ -1,0 +1,16 @@
+{
+  "title": "SCP-066-EL",
+  "content": "[[include :scp-wiki-cn:theme:black-highlighter-theme]]\n[[include :scp-wiki-cn:theme:extra-black-highlighter-theme]]\n[[include :scp-wiki-cn:component:acs-animation]]\n\n[[include :scp-wiki-cn:credit:start-standalone]]\n\n**作者：**[[*user Yetinnus]]\n\n**翻译：**[[*user AceAttackAssassin]]\n\n[[include :scp-wiki-cn:credit:end-standalone]]\n\n[[include :scp-wiki-cn:component:anomaly-class-bar-source\n|lang=cn\n|item-number= 066-EL\n|clearance= 3\n|container-class= euclid\n|secondary-class= none\n|disruption-class= vlam\n|risk-class= 警告\n]]\n----\n**特殊收容措施：**由于SCP-066-EL的位置和体积方面的未知性，项目目前无法得到完全控制。位于爱琴海的第六天文台被伪装成船只，并对项目进行跟踪；项目的任何活动必须通知第六天文台主管。SCP-066-EL必须由来MTF Alpha-7（“大洋护卫”）的十名特工进行24小时监视。在“鲸鱼事件”期间，特工数量应增加一倍。\n----\n**描述：**SCP-066-EL是一种在爱琴海发现的大型生物。无法确定其体积和重量。没有报告证实SCP-066-EL有移动或进食的行为。对由MTF Alpha-7从项目中取样的DNA检测证实，项目与现代鲸类动物的DNA相似。但令人惊讶的是，SCP-066-EL的DNA似乎不属于特定的某种鲸类，而是由多种鲸类的DNA共同组成。\n\nSCP-066-EL的背部是其身体唯一可见的部分，其覆盖着各种珊瑚或较小的水生生物。基金会研究人员无法由先前所获报告中的信息确定SCP-066-EL的确切外观。\n\n每年6月22日起，SCP-066-EL的异常性质将会显现，并于当年9月23日停止。这一期间被称为“鲸鱼事件”。在此期间，各种鲸类物种个体将会快速生长。所有新生个体似乎都从SCP-066-EL下方出现。由这一现象，SCP-066-EL被认为是雌性生物。\n\n在每年7月16日至8月30日期间，大量鲸类物种和类似鲸类的异常[[footnote]]多亏了SCP-066-EL，基金会人员才有可能保护SCP-███-EL。[[/footnote]]会出现SCP-066-EL附近——尤其是雄性异常。所有被观察到的个体似乎都附着在SCP-066-EL上，附着时间估计在30分钟至120分钟之间。\n----\n\n**附录066-EL-1：**2016年11月12日，第六天文台发现一个瓶子，内含有一封信[[footnote]]信函内容详见下文。[[/footnote]]。信函的作者仍然未知。\n\n[[Collapsible show=\"打开信封\" hide=\"关闭\"]]\n[[div class=\"page\"]]\n> 难道你不希望你的家人活得越久越好吗？难道你不希望你有越来越多的家人，这样你就不会在世上销声匿迹吗？是的，她也想要这样。它会让你失去拥有新生命的机会吗？是的！如果更强大的东西还不想和你发生摩擦，那你就不要先挑起战争。请将此视为友好的警告。\n[[/div]]\n[[/collapsible]]",
+  "tags": [
+    "el",
+    "euclid",
+    "scp",
+    "二次翻译"
+  ],
+  "author": "AceAttackAssassin",
+  "created_at": "2023-12-16T07:50:10+00:00",
+  "updated_at": "2023-12-16T07:50:34+00:00",
+  "rating": 2,
+  "_site": "scp-wiki-cn",
+  "_fullname": "scp-066-el"
+}

@@ -1,0 +1,17 @@
+{
+  "title": "SCP-4087",
+  "content": "[[include :scp-wiki:info:start]]\n**SCP-4087:** Absence of a Knife\n**Author:** [[*user the great hippo]]\n**Images:** [https://commons.wikimedia.org/wiki/File:2014_N%C3%B3%C5%BC_spr%C4%99%C5%BCynowy_01.jpg Link].\n\n**Music:** [https://youtu.be/cW3pQO-BIZM The Backwards Rhyme]\n----\n[[include :scpsandbox2:hippo]]\n[[include :scp-wiki:info:more]]\n[[include :scp-wiki:info:end]]\n\n[[include component:scp-pride]]\n\n[[include component:image-block name=weapon.jpg|caption=An instance of SCP-4087.]]\n\n**Item #:** SCP-4087\n\n**Object Class:** Euclid\n\n**Special Containment Procedures:** Foundation assets embedded in European and American law enforcement agencies are to monitor ongoing homicide investigations for markers consistent with the use of an SCP-4087 instance. In the unlikely event that an additional instance is recovered, it is to be immersed in a cubic meter of concrete and transported to a [[[SCP-2419|deep geological repository]]] for indefinite storage. \n\n**Description:** SCP-4087 is a set of antique spring-driven pushbutton knives. Each blade is 9.2 centimeters in length and composed of stainless steel. They were produced by Gavrilo Maniago (an Italian knife-maker) as part of a private commission; he only completed six prior to his murder in 1914.\n\nSCP-4087 was first identified in 1973 after a mathematical model created by the Foundation's Department of Analytics linked them to over one hundred homicides across fifty years. In each case, law enforcement identified one of the six knives as the murder weapon. Each knife was repeatedly lost, returned, or auctioned off. \n\nAs of 1975, all six knives have been recovered and accounted for. Since then, over two hundred additional homicides have identified an identical knife as the murder weapon. An investigation into these homicides has determined that, despite all evidence to the contrary, no actual murder weapon exists.\n\nAfter a thorough forensic examination of all six knives, researchers have made the following observations:\n* They exhibit no observable anomalous properties.\n* They lack any sign of significant wear or use.\n\n[[footnoteblock]]\n\n[[div class=\"footer-wikiwalk-nav\"]]\n[[=]]\n<< [[[SCP-4086]]] | SCP-4087 | [[[SCP-4088]]] >>\n[[/=]]\n[[/div]]\n\n[[include :scp-wiki:component:license-box]]\n=====\n> **Filename:** weapon.jpg\n> **Name:** 2014 Nóż sprężynowy 01\n> **Author:** Jacek Halicki\n> **License:** CC BY-SA 3.0\n> **Source Link:** [https://commons.wikimedia.org/wiki/File:2014_N%C3%B3%C5%BC_spr%C4%99%C5%BCynowy_01.jpg Wikimedia Commons]\n=====\n[[include :scp-wiki:component:license-box-end]]",
+  "tags": [
+    "_cc",
+    "_licensebox",
+    "euclid",
+    "scp",
+    "weapon"
+  ],
+  "author": "The Great Hippo",
+  "created_at": "2019-04-01T11:50:57+00:00",
+  "updated_at": "2022-07-23T07:43:54+00:00",
+  "rating": 192,
+  "_site": "scp-wiki",
+  "_fullname": "scp-4087"
+}

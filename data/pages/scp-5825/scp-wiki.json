@@ -1,0 +1,23 @@
+{
+  "title": "SCP-5825",
+  "content": "[[module css]]\n.danke{\npadding: 5px 5px 5px 15px;\nmargin-bottom:10px;\nbox-sizing: border-box;\nwidth: 100%;\nfont-family: monospace;\nfont-size: 1.1em; }\n\n.inner{\npadding: 5px 5px 5px 15px;\nmargin-bottom:10px;\nwidth: 94%;\nfont-family: monospace;\nfont-size: 1.1em; }\n\n.agent{\nbackground-color:#002200;\nborder: 3px solid #55AA55;\ncolor: #77CC77;\n}\n\n.site{\nbackground-color:#222200;\nborder: 3px solid #AAAA55;\ncolor: #DDDD77;\n}\n\n.blue{\nbackground-color:#002026;\nborder: 3px solid #43A6B5;\ncolor: #65C8D7;\n}\n\n.red{\nbackground-color:#33130D;\nborder: 3px solid #E17E6F;\ncolor: #FFA091;\n}\n\n.pink{\nbackground-color:#351022;\nborder: 3px solid #e377ae;\ncolor: #ff99cd;\n}\n\n\n[[/module]]\n\n[[include theme:black-highlighter-theme]]\n[[include :scp-wiki:theme:calamity]]\n[[>]]\n[[module Rate]]\n[[/>]]\n\n[[module ListPages category=\"fragment\" parent=\".\" order=\"created_at\" limit=\"1\" offset=\"@URL|0\"]]\n%%content%%\n[[/module]]\n\n[!--\nFragments:\n* http://scp-wiki.wikidot.com/fragment:SCP-5825-1\n* http://scp-wiki.wikidot.com/fragment:SCP-5825-2\n* http://scp-wiki.wikidot.com/fragment:SCP-5825-3\n* http://scp-wiki.wikidot.com/fragment:SCP-5825-4\n* http://scp-wiki.wikidot.com/fragment:SCP-5825-5\n--]\n-----\n\n[[=]]\n[[[UnHuman Hub]]] | [[[Ship to Wreck]]] ➢\n[[/=]]\n\n[[footnoteblock]]\n\n[[div class=\"footer-wikiwalk-nav\"]]\n[[=]]\n<< [[[SCP-5824]]] | SCP-5825 | [[[SCP-5826]]] >>\n[[/=]]\n[[/div]]\n\n[[include :scp-wiki:component:license-box]]\n[!-- N/A (No Images)  --]\n[[include :scp-wiki:component:license-box-end]]",
+  "tags": [
+    "_licensebox",
+    "_listpages",
+    "_marine",
+    "compulsion",
+    "jam-con2021",
+    "media",
+    "musical",
+    "neutralized",
+    "safe",
+    "scp",
+    "unhuman"
+  ],
+  "author": "Oboebandgeek99",
+  "created_at": "2021-03-22T21:52:02+00:00",
+  "updated_at": "2023-03-14T18:19:19+00:00",
+  "rating": 55,
+  "_site": "scp-wiki",
+  "_fullname": "scp-5825"
+}

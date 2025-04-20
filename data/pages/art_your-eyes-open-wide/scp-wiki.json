@@ -1,0 +1,15 @@
+{
+  "title": "Your Eyes Open Wide",
+  "content": "[[>]]\n[[module Rate]]\n[[/>]]\n[[include :scp-wiki:theme:monotypical]]\n[[module CSS]]\n:root {\n    --linkColor: #b87dcd;\n    --linkColor-newpage: #FC9958;\n \n    --primaryBackgroundColor: #F9F9F9;\n    --secondaryBackgroundColor: #EFEFEF;\n    --tertiaryBackgroundColor: #E0E0E0;\n    --borderColor: #C6C6C6;\n \n    --shadow: rgba(0,0,0,0.225);\n \n    --selectionColor: #FFE419;\n    --textColor: #0E0E0E;\n    --textColor-alt: #8E8E8E;\n \n    /*----- Technical Variables -----*/\n \n    --body-font: 'Ubuntu', sans-serif;\n    --header-font: 'Century Gothic', 'Quicksand', sans-serif;\n    --header-title: 'SCP FOUNDATION';\n \n    --sidebar-width: 15rem;\n    --sidebar-timing: 0.275s ease-out;\n    --page-content-width: 954px;\n \n    --radius-adjust: 0.95rem;\n    --link-timing: .125s ease-out;\n}\n[[/module]]\n[[div class=\"meta-title\"]]\nYour Eyes Open Wide\n[[/div]]\n[[image julesaspaintingsmaller.png]]\n[[=]]\n[[include :scp-wiki:component:license-box]]\n[[<]]\n=====\n> **Filename:** julesaspaintingsmaller.png\n> **Name:** Your Eyes Open Wide\n> **Author:** frystavirki\n> **License:** CC-BY-SA 3.0\n> **Source Link:** this page\n> **Derivative of:** [[[https://scp-wiki.wikidot.com/the-old-masters|The Old Masters]]], by [[*user cdithink]]\n=====\n> **Name:** Interior of a Kitchen\n> **Author:** Martin Drolling / The Louvre\n> **License:** Public Domain\n> **Source Link:** https://commons.wikimedia.org/wiki/File:Martin_Drolling_-_Interior_of_a_Kitchen_(detail)_-_WGA6679.jpg\n> **Additional Notes:** Referenced for art piece, but original file is not included on the page.\n=====\n> **Name:** Wanderer Above the Sea of Fog\n> **Author:** Caspar David Friedrich / Hamburger Kunsthalle\n> **License:** Public Domain\n> **Source Link:** https://commons.wikimedia.org/wiki/File:Caspar_David_Friedrich_-_Wanderer_above_the_Sea_of_Fog.jpeg\n> **Additional Notes:** Referenced for art piece, but original file is not included on the page.\n[[/<]]\n[[include :scp-wiki:component:license-box-end]]\n[[/=]]",
+  "tags": [
+    "_licensebox",
+    "art-exchange",
+    "artwork"
+  ],
+  "author": "frystavirki",
+  "created_at": "2023-12-31T18:12:52+00:00",
+  "updated_at": "2024-04-28T17:42:28+00:00",
+  "rating": 18,
+  "_site": "scp-wiki",
+  "_fullname": "art:your-eyes-open-wide"
+}

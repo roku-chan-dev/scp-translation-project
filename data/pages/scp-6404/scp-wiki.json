@@ -1,0 +1,22 @@
+{
+  "title": "SCP-6404",
+  "content": "[[include :scp-wiki:theme:basalt hidetitle=a]]\n[[include :scp-wiki:theme:turbo-vision blocks=-]]\n\n[[module css]]\n:root {\n  --logo: url(https://scp-wiki.wdfiles.com/local--files/secure-facility-dossier-site-58/58logo.png);\n  --title: \"SITE-58:\";\n  --subtitle: \"BRIDGING THE GAPS BETWEEN US\";\n}\n.email-example .collapsible-block-folded a.collapsible-block-link {\n    animation: blink 0.8s ease-in-out infinite alternate;\n}\n@keyframes blink {\n    0% { color: transparent; }\n    50%, 100% { color: #b01; }\n}\n.email {border: solid 2px #000000; width: 88%; padding: 1px 15px; margin: 10px; box-shadow: 0 1px 3px rgba(0,0,0,.5)}\n.email-example a.collapsible-block-link {font-weight: bold;}\n.tofrom {margin-left: 10px; margin-top: 5px; padding: 1px 15px; border-left: solid 3px maroon}\n[[/module]]\n\n[[>]]\n[[module Rate]]\n[[/>]]\n\n[[include :scp-wiki:component:anomaly-class-bar-source\n\n|item-number= SCP-6404\n\n|clearance= 4\n\n|container-class= esoteric\n\n|secondary-class= decommissioned\n\n|secondary-icon= https://scp-wiki.wikidot.com/local--files/component:anomaly-class-bar/decommissioned-icon.svg\n\n|disruption-class= amida\n\n|risk-class= notice\n\n]]\n\n------\n\n**Special Containment Procedures:** Foundation personnel are to continue monitoring international birth records for individuals named \"Tallakant\". Any individual identified as having the Tallakant name is to be handled using standard decommissioning procedures.\n\nSCP-6404 was successfully decommissioned on October 4th, 2007. All historical and civic records involving individuals named Tallakant have been altered accordingly to reattribute major historical events to new persons or otherwise erase former Tallakant identities. Names and sayings derived from the Tallakant name,[[footnote]]Eg. Tally Mark, Kant Counter, Tally-ho, Tallywacker, etc.[[/footnote]] while not displaying anomalous properties, have likewise been either reattributed or otherwise removed from the popular lexicon in order to prevent possible revival of the Tallakant name. \n\n**Description:** SCP-6404 referred to a phenomenon where all individuals named \"Tallakant\" at any point in their lives[[footnote]]This includes being granted the name at birth, changing one's name to Tallakant, or simply being called Tallakant at any point.[[/footnote]] became a part of a collective hivemind. Once an individual became an SCP-6404 instance, there was no way to disconnect them from the hivemind. All SCP-6404 instances were capable of operating on the individual level, but actively shared the same thoughts, feelings, and beliefs. On average, SCP-6404 instances sought out employment in the following areas:\n\n* Education\n* Research, specifically in areas related to the spread and treatment of infectious diseases\n* Visual and performing arts\n* Government positions, specifically those relating to employment, welfare, and international relations\n* Charity work\n* Social activism\n\nRecords indicate that the Tallakant name existed since the early 5th century, with several notable individuals having the name. SCP-6404 instances throughout history notably participated in exploration, social development, and cultural exchange.\n\nDue to the number of notable figures throughout history as well as pop culture icons using the Tallakant name, Tallakant remained one of the most popular baby names for males and females. It is believed that upon decommissioning of SCP-6404, there were approximately one billion individuals named Tallakant. \n\n[[footnoteblock]]\n\n[[div class=\"footer-wikiwalk-nav\"]]\n[[=]]\n<< [[[SCP-6403]]] | SCP-6404 | [[[SCP-6405]]] >>\n[[/=]]\n[[/div]]\n\n[[include :scp-wiki:component:license-box]]\n[!-- N/A (No Images)  --]\n[[include :scp-wiki:component:license-box-end]]",
+  "tags": [
+    "_licensebox",
+    "alive",
+    "decommissioned",
+    "fading-stars",
+    "historical",
+    "hive-mind",
+    "mind-affecting",
+    "sapient",
+    "scp",
+    "telepathic"
+  ],
+  "author": "OriTiefling",
+  "created_at": "2021-08-20T01:01:22+00:00",
+  "updated_at": "2024-09-17T19:01:58+00:00",
+  "rating": 199,
+  "_site": "scp-wiki",
+  "_fullname": "scp-6404"
+}

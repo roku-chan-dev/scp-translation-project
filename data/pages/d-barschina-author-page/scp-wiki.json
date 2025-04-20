@@ -1,0 +1,13 @@
+{
+  "title": "D-Barschina Author Page",
+  "content": "[[div class=\"meta-title\"]]\n[[size 110%]]**SCP Articles:**[[/size]]\n[[/div]]\n[[include :scp-wiki:theme:monotypical]]\n[[module CSS]]\n:root {\n    --linkColor: #BE5504;\n    --linkColor-newpage: #BE5504;\n    --header-title: 'D-Barschina Author Page';\n    --primaryBackgroundColor: #003153;\n    --secondaryBackgroundColor: #003153;\n    --tertiaryBackgroundColor: #BE5504;\n    --borderColor: #BE5504;\n    --shadow: rgba(0,0,0,0.225);\n    --selectionColor: #BE5504;\n    --textColor: #FFFFFF;\n    --textColor-alt: #8E8E8E;\n[[/module]]\n[[=]]\n[[include :scp-wiki:component:fade-in speed=2]]\n[[[*https://scp-wiki.wikidot.com/scp-8611| SCP-8611: Communicable Isomerism]]]\n _\n[[[*https://scp-wiki.wikidot.com/scp-8849| SCP-8849: Maskirovka]]]\n _\n[[[*https://scp-wiki.wikidot.com/scp-8240| SCP-8240: Ad Astra Per Commercium]]]\n _\n[[div class=\"meta-title\"]]\n[[size 110%]]**Cool Stuff I Read Recently:**[[/size]]\n[[/div]] [[[*https://scp-wiki.wikidot.com/siobhra| Síobhra]]]\n _\n[[[*https://scp-wiki.wikidot.com/scp-3673| SCP-3673: But when the door is closed...]]]\n _\n[[[*https://scp-wiki.wikidot.com/london-calling| London Calling]]]\n _\n[[/=]]",
+  "tags": [
+    "author"
+  ],
+  "author": "D-Barschina",
+  "created_at": "2025-04-18T21:22:33+00:00",
+  "updated_at": "2025-04-18T21:41:38+00:00",
+  "rating": 4,
+  "_site": "scp-wiki",
+  "_fullname": "d-barschina-author-page"
+}

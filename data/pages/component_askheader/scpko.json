@@ -1,0 +1,14 @@
+{
+  "title": "ASK 헤더",
+  "content": "[[iftags +구성요소]]\n[[>]]\n[[module Rate]]\n[[/>]]\n[[include :scpko:component:author-label-source start=--\n|name=Agent S K]]\n**ASK 헤더** by [[*user Agent S K]] [*http://scpko.wikidot.com/agent-s-k-s-personnel-file #]\n------\n[[include :scpko:component:author-label-source end=--]]\n[[include component:image-block\n    name=http://scpko.wikidot.com/local--files/component:askheader/Ex.png |\n    caption=ASK 헤더 |\n    align=center |\n    width=100%\n]]\n[[*user Agent S K]]가 만든 대안 머리말 서식입니다. __이 서식은 [*http://scpko.wikidot.com/anomaly-classification-system-guide 변칙성 분류체계]에서 격리 등급과 인가 등급만을 선택적으로 도입하여 사용합니다.__\n\n**예시:** [[[SCP-417-KO]]], [[[SCP-1899-KO]]]\n\n**사용법:**\n> @@[[include :scpko:component:askheader@@\n> |item=SCP-417-KO\n> |containment=케테르\n> |cont-text-color=#FAFAFA\n> |cont-bg-color=#DF0101\n> |level=3\n> |lev-text=신임\n> |sec-text=기밀 처리됨\n> ]]\n\n**item:** 일련번호를 입력하는 부분입니다.\n\n**containment:** 격리 등급을 입력하는 부분입니다. ACS와는 달리, 난해한 등급이라도 2차 등급을 사용하지 않고 그대로 격리 등급 칸에 작성합니다.\n\n**cont-text-color:** 등급 텍스트의 색깔을 입력하는 부분입니다. 기본적으로는 하얀색(#FAFAFA)으로 고정되어 있으나, 상황에 따라(가령 유클리드 등급을 사용한다던가) 검은색(#1C1C1C)으로 바꿀 수 있습니다.\n\n**cont-bg-color:** 등급 텍스트 배경의 색을 입력하는 부분입니다. 입력해야 하는 색은 다음과 같습니다.\n* **안전:** 초록색(#228B22)\n* **유클리드:** 노란색(#FFD700)[[footnote]] 이 경우에는 __격리 등급 텍스트의 색이 검은색이 되어야 합니다.__ [[/footnote]]\n* **케테르:** 빨간색(#DF0101)\n* **무효:** 회색(#A9A9A9)\n* **보류, 타우미엘 및 기타 등급:** 검은색(#1C1C1C). 만약 배경이 검은색이라면 흰색(#FAFAFA)[[footnote]] 이 경우에도 __격리 등급 텍스트의 색이 검은색이 되어야 합니다.__ [[/footnote]].\n상황에 따라, 색은 언제든지 바꿀 수 있습니다. 적절하게 사용해 주세요.\n\n**level:** 인가 등급을 입력하는 부분입니다. __이 서식에서는 1 ~ 5등급까지의 ACS의 인가 등급을 사용합니다.__\n\n**lev-text:** 인가 등급 뒤에 들어가는 텍스트를 입력합니다. 인가 등급에 따라 입력해야 할 텍스트는 다음과 같습니다.\n* **1등급:** 무제한\n* **2등급:** 제한\n* **3등급:** 신임\n* **4등급:** 비밀\n* **5등급:** 극비\n\n**sec-text:** 인가 등급 아래에 들어가는 텍스트를 입력합니다. 인가 등급에 따라 입력해야 할 텍스트는 다음과 같습니다.\n* **1등급:** 기밀 해제됨\n* **2 ~ 4등급:** 기밀 처리됨\n* **5등급:** 접근 금지됨\n\n**주의할 점:** 이 서식은 사용자의 높은 자율성을 염두에 두고 만들어졌습니다. 따라서, 여기서 제시되는 사용법은 필요하다면 언제든지 어기실 수 있습니다.\n[[footnoteblock]]\n------\n[[/iftags]]\n[[iftags -구성요소]]\n[[table style=\"border: none; width: 100%;\"]]\n[[row]]\n[[cell]]\n[[size 125%]]**일련번호:** {$item}[[/size]]\n[[/cell]]\n[[cell style=\"text-align: right;\"]]\n[[size 125%]]**LEVEL {$level}/{$lev-text}**[[/size]]\n[[/cell]]\n[[/row]]\n[[row]]\n[[cell]]\n[[size 125%]]**격리 등급:** [[span style=\"color: {$cont-text-color}; background-color: {$cont-bg-color}; padding: 1px;\"]]{$containment}[[/span]][[/size]]\n[[/cell]]\n[[cell style=\"text-align: right;\"]]\n[[size 125%]]**{$sec-text}**[[/size]]\n[[/cell]]\n[[/row]]\n[[/table]]\n------\n[[/iftags]]",
+  "tags": [
+    "ko",
+    "구성요소"
+  ],
+  "author": "Agent S K",
+  "created_at": "2023-02-25T11:11:25+00:00",
+  "updated_at": "2024-11-06T11:28:46+00:00",
+  "rating": 11,
+  "_site": "scpko",
+  "_fullname": "component:askheader"
+}

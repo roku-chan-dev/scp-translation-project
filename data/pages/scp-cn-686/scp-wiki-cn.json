@@ -1,0 +1,19 @@
+{
+  "title": "SCP-CN-686",
+  "content": "[[module CSS]]\n@import url(http://scpsandboxcn.wikidot.com/jacksmith-css/code/1);\n[[/module]]\n\n[!-- 你们啊，--naive--!源代码啥都没加，读原文就可以看出来所有信息。我就讨厌这种隐藏信息的形式，还要看源代码，多没有代入感 --]\n[[>]]\n[[module Rate]]\n[[/>]]\n\n> = **此页面归档于Area-CN-05站点内置数据库。**\n=  **欢迎访问。权限密钥已经确认。**\n= **﹀**\n= **﹀**\n= **﹀**\n= **﹀**\n= **﹀**\n= **﹀**\n= **﹀**\n= **﹀**\n= **﹀**\n= **﹀**\n= **﹀**\n= **﹀**\n= **﹀**\n= **﹀**\n= **﹀**\n= **﹀**\n= **﹀**\n= **﹀**\n= **﹀**\n= **﹀**\n= **﹀**\n= **﹀**\n= **﹀**\n= **﹀**\n= **﹀**\n= **﹀**\n= **﹀**\n##white| ├JACKSMITH┤exSignature dw 5A4Dh┤ ##\n**项目编号：** SCP-CN-686##white| **Poi-CN-1103 ##**\n@@@@\n**项目等级：** --Safe-- Euclid##white|  **Decommissioned**  ##\n ##white| ├ exMinAlloc dw   ┤████┤ ##\n ##white| ├runtime error┤This program cannot be run in DOS mode. ┤ ##\n**特殊收容措施：** SCP-CN-686的项目载体收容遵从CN分部标准程序.唯一一个项目载体被储存于[http://scp-wiki-cn.wikidot.com/area-05 Area-CN-05]的一处标准电子设备收容间中央的专用PC上。一组蓄电池接入逆变器以不间断提供[[span class=\"ruby\"]]高压[[span class=\"rt\"]]220V[[/span]][[/span]]交流电,蓄电池一周需更换一次。##4F4F4F|鉴于项目可能的任何形式的收容突破行为,载体所在的收容间外需设置完备的电磁波隔离措施.##一组专门的阻抑程序被写入项目活动特征并随时监测站点网络。若有特殊需要对项目载体进行维修、转接或更换,操作必须在收容间内进行,用于转移的便携性设备及换下设备需在强磁处理后予以焚毁以保证载体设备的唯一性。\n\n所有对SCP-CN-686的访问和实验必须经过至少一名4/686级人员或三名3/686级人员的批准，且在意识形态稳恒测试中达到大于75的数值。进入项目所在的收容间需被检查身上是否带有可读写设备。事故**[[span style=\"background-color: #3C3C3C; color: #3C3C3C\"]]快[[/span]][[span style=\"background-color: #3C3C3C; color: #3C3C3C\"]]杀[[/span]][[span style=\"background-color: #3C3C3C; color: #3C3C3C\"]]了[[/span]][[span style=\"background-color: #3C3C3C; color: #3C3C3C\"]]它[[/span]]-1**后，对项目性质的研究将持续进行，实验报告将对##4F4F4F|//Dr_JackSmith//####white|?##保密处理.\n ##white| ├exRelocTable dw ┤112┤ ##\n ##white| ├exChechSum dw  ┤ ....sp┤ ##\n**描述:** SCP-CN-686现阶段为一个大小为--0.98Mb--##4F4F4F|11.03mb##的\"FilesIncarcerated.exe\"通用于PC平台的可执行程序及若干.dll文件、.██m文件和.b██文件的组合体。被该项目控制的设备称为载体设备。其异常效应体现为,无论处于何种环境下,当项目处于设备(通常包括装有Windows操作系统的台式电脑及手提电脑上)的任意位置,其都能够获得该系统的最高权限并在内存中反复建立更多的项目段落及文件。不论设备内存是否充足,项目的大小都将持续性增长直至达到设备原容量的███%或者[数据删除]████byte。对设备的断电将导致项目增长中断。期间对磁盘的分析显示窜出单元增加了1.6克的MR磁化材质,并带有26%于正常值的███干扰性效应。运行时尝试于设备处启动任务管理器(完全无效)注册表特征分析(████)以及███████(局部CK级现实重构),均未能影响项目对设备的控制。\nSCP-CN-686于2016/11/██，广州境内的巨型互联网服务器组被发现。Area-CN-05内的超级计算机服务器阵列在东经113°17'，北纬23°8'网段监测到数据波动异常，此时项目尝试在互联网上重复复制自身。因[[span class=\"ruby\"]]项目代码效",
+  "tags": [
+    "euclid",
+    "meta",
+    "scp",
+    "原创",
+    "文件",
+    "概念",
+    "电子"
+  ],
+  "author": "L-Santyic",
+  "created_at": "2018-03-04T09:25:29+00:00",
+  "updated_at": "2018-09-02T10:20:14+00:00",
+  "rating": 9,
+  "_site": "scp-wiki-cn",
+  "_fullname": "scp-cn-686"
+}

@@ -1,0 +1,21 @@
+{
+  "title": "SCP-CN-3320",
+  "content": "[[include :scp-wiki:theme:paperstack]]\n[[div class=\"logo\"]]\n[[image https://scp-wiki.wdfiles.com/local--files/theme%3Apaperstack/lgtrans.png]]\n[[/div]]\n\n[[>]]\n[[module Rate]]\n[[/>]]\n\n[[div class=\"header-container-ex\"]]\n[[include component:image-block name=https://scpsandboxcn.wdfiles.com/local--files/jianqiaohehongdezuozheye/%E6%8F%92%E5%9B%BE-%E4%BD%A0%E7%88%B8%E5%A6%88%E4%B8%8D%E6%98%AF%E4%BD%A0%E4%BA%B2%E7%94%9F%E7%88%B6%E6%AF%8D|caption=Photo of iteration SCP-CN-3320-1-706 together with SCP-CN-3320-2. | width=300px|align=right]]\n[[div class=\"header-info\"]]\n[[div class=\"header-info-flex\"]]\n[[div class=\"text-item\"]]\n[[size 90%]]##grey|**Item #:**##[[/size]]\n\n[[size 220%]]**CN-3320**[[/size]]\n[[/div]]\n\n[[div class=\"text-item\"]]\n[[size 90%]]##grey|**Object Class:**##[[/size]]\n\n[[size 220%]]**Archived**[[/size]]\n[[/div]]\n[[/div]]\n[[/div]]\n[[/div]]\n\n\n**Special Containment Procedures:** Proceed with Procedure SCP-CN-3320-α until X=6570.\n\n**Description:** SCP-CN-3320 is an American family comprised of SCP-CN-3320-X and SCP-CN-3320-2, who live at ████ Street, ████ City, ████ Province, China.\n\nSCP-CN-3320-X are the parents of SCP-CN-3320-2, Foundation employees  ████ and  ████ Smith. Their anomalous properties manifest - since the birth of their second child, SCP-CN-3320-2-2 - in Procedure SCP-CN-3320-α, which occurs daily:\n\n||~ Time ||~ SCP-CN-3320-α Node ||~ SCP-CN-3320-1-X Status ||\n|| 6:30 AM || All SCP-CN-3320-2 instances leave their home || Alive ||\n|| 7:00 AM || SCP-CN-3320-1-X voluntarily leave their home's surveillance range || Alive ||\n|| 7:05 AM || A Foundation vehicle delivers SCP-CN-3320-(X+1) into the home's vicinity.  || Alive ||\n|| 7:10 AM || SCP-CN-3320-1-X will encounter SCP-CN-3320-(X+1). During this period, SCP-CN-3320-X will lose their intelligence and disobey protocol in an attempt to reach SCP-CN-3320-2's location. It is believed that this phenomenon, like their short life cycle, is a defect of BZHR-synthesized humans. || Alive, acting on instinct ||\n|| 7:15 AM || SCP-CN-3320-X expire from the Foundation's vehicle, allowing SCP-CN-3320-(X+1) to take over SCP-CN-3320-X's life until the next Procedure SCP-CN-3320-α cycle. || Dead ||\n\nSCP-CN-3320-2 are not anomalous.\n\n**July 39, 2015 Special Containment Procedures Update:** The maximum of X has been raised to 6574, at the unanimous request of Site-CN-██ staff.\n@@ @@\n@@ @@\n@@ @@\n@@ @@\n@@ @@\n@@ @@\n@@ @@\n@@ @@\n@@ @@\n@@ @@\n= X currently equals 6574; as such, this project has been archived.\n\n@@ @@\n@@ @@\n@@ @@\n@@ @@\n@@ @@\n@@ @@\n@@ @@\n@@ @@\n@@ @@\n\n[[footnoteblock]]\n\n[[div class=\"footer-wikiwalk-nav\"]]\n[[=]]\n<< [[[SCP-CN-3319]]] | SCP-CN-3320 | [[[SCP-CN-3321]]] >>\n[[/=]]\n[[/div]]\n\n[[=]]\n[[include :scp-wiki:component:license-box | author = Mahashi Kazuhiro and newnykacolaquantum]]\n=====\n[[<]]\n[[div class=\"blockquote\"]]\n**Filename:** 插图-你爸妈不是你亲生父母\n**Author:** Vika_Glitter\n**License:** CC0\n**Source Link:** [[[https://pixabay.com/photos/family-armchair-mom-sons-interior-2972218/?www.cc0.cn|Pixabay]]]\n**Note:** Image was uploaded before 2019.\n[[/div]]\n[[/<]]\n=====\n[[include :scp-wiki:component:license-box-end]]\n[[/=]]",
+  "tags": [
+    "_cn",
+    "alive",
+    "esoteric-class",
+    "humanoid",
+    "international",
+    "loop",
+    "reanimation",
+    "sapient",
+    "scp"
+  ],
+  "author": "newnykacolaquantum",
+  "created_at": "2024-09-10T17:31:24+00:00",
+  "updated_at": "2025-03-02T02:55:36+00:00",
+  "rating": 4,
+  "_site": "scp-wiki",
+  "_fullname": "scp-cn-3320"
+}

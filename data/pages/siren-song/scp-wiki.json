@@ -1,0 +1,20 @@
+{
+  "title": "Siren Song",
+  "content": "[[include :scp-wiki:theme:black-highlighter-theme]]\n[[include :scp-wiki:theme:calamity]]\n\n[[module css]]\nspan{ display: inline-block; }\n.fliph {\n  -moz-transform: scale(-1, 1);\n  -webkit-transform: scale(-1, 1);\n  -o-transform: scale(-1, 1);\n  -ms-transform: scale(-1, 1);\n  transform: scale(-1, 1);\n  }\n[[/module]]\n\n[[>]]\n[[module Rate]]\n[[/>]]\n\n[[include :scp-wiki:component:audio-player-woed-source\n|unique-name=sirensong\n|audio-file=http://scp-wiki.wdfiles.com/local--files/siren-song/siren-song-jamcon.mp3\n|background-color=rgb(252, 252, 252)\n|border-color=rgb(215, 215, 215)\n|border-radius=0.313rem\n|dropshadow-color=rgba(12, 12, 12, 0.15)\n|text-color=rgb(0, 31, 51)\n|icons-color=rgb(0, 65, 106)\n|player-color=rgb(215, 215, 215)\n|progress-color=rgb(0, 31, 51)\n]]\n\n[[=]]\n[[[scp-5825|A lonely siren on the beach]]]\nShe pulls you in but stays out of reach\nSo listen to a siren’s song\nWhat could possibly go wrong?\n\nShe had a normal life she loved\nThen someone noticed up above\nThe current pulled her in so strong\nWhat could possibly go wrong?\n\nThe world was stranger than she’d known\nBut she explored it on her own\nShe rushed in unprepared, headstrong\nWhat could possibly go wrong?\n\nA lone mistake that she forgot\nSince then, a human she was not\nSo listen to this siren’s song\nWhat could possibly go wrong?\n\nShe had a life, a job, and friends\nBut all those reached their bitter ends\nThe world she had to bid “so long”\nWhat could possibly go wrong?\n\nThe world was changing fast and true\nShe found that she was changing too\nAnd soon she sang the sirens’ song\nWhat could possibly go wrong?\n\nConsumed by sorrow she left home\nBut sorrow followed as she roamed\nShe came upon a city strong\nWhat could possibly go wrong?\n\nShe made a life and she made friends\n[[[ship-to-wreck|She even found true love again]]]\nBut she grew weak as life went on\nWhat could possibly go wrong?\n\nA breakdown she could not take back\nA new life that she couldn’t hack\nShe left the bustling city’s throng\nWhat could possibly go wrong?\n\nWell life went on, she found release\nHer ocean home it gave her peace\nSo if you hear this, my swan song\nWhat could possibly go wrong?\n\n-----\n\n[[span class=\"fliph\"]]➢[[/span]] [[[Ship to Wreck]]] | [[[UnHuman Hub]]] | //???// ➢\n[[/=]]\n\n\n\n[[include :scp-wiki:component:license-box]]\n=====\n> **Filename:** siren-song-jamcon.mp3\n> **Name:** Siren Song\n> **Author:** Oboebandgeek99\n> **License:** CC-BY-SA 3.0\n> **Source Link:** http://scp-wiki.wdfiles.com/local--files/siren-song/siren-song-jamcon.mp3\n> **Derivative of:** \"Beach Waves\" by Mike Koenig, CC-BY-SA 3.0 https://soundbible.com/338-Beach-Waves.html\n=====\n[[include :scp-wiki:component:license-box-end]]",
+  "tags": [
+    "_cc",
+    "_famouslastwords",
+    "_licensebox",
+    "audio",
+    "jam-con2021",
+    "poetry",
+    "tale",
+    "unhuman"
+  ],
+  "author": "Oboebandgeek99",
+  "created_at": "2021-03-24T06:34:58+00:00",
+  "updated_at": "2024-06-04T15:37:28+00:00",
+  "rating": 58,
+  "_site": "scp-wiki",
+  "_fullname": "siren-song"
+}

@@ -1,0 +1,13 @@
+{
+  "title": "切换侧边栏",
+  "content": "[[iftags +组件]]\n[[div style=\"border: solid 2px #ededed; padding: 0.5rem; margin: 4px;\"]]\n此组件用于将移动端侧边栏按钮显示于桌面端屏幕上。\n添加如下语法以应用此组件：\n\n> @@[[include :scp-wiki-cn:component:toggle-sidebar]]@@\n\n如果要将其用于某个版式中，推荐将相应版式置于此 {{[[include]]}} 下方。\n\n//（如果你在用黑色标记笔的话请使用[[*user Woedenaz]]制作的[[[component:toggle-sidebar-bhl|这个版本]]]）//\n\n[[/div]]\n\n----\n\n[[code type=\"CSS\"]]\n\n/* source: http://ah-sandbox.wikidot.com/component:collapsible-sidebar-x1 */\n \n#top-bar .open-menu a {\n        position: fixed;\n        top: 0.5em;\n        left: 0.5em;\n        z-index: 5;\n        font-family: 'Nanum Gothic', san-serif;\n        font-size: 30px;\n        font-weight: 700;\n        width: 30px;\n        height: 30px;\n        line-height: 0.9em;\n        text-align: center;\n        border: 0.2em solid #888;\n        background-color: #fff;\n        border-radius: 3em;\n        color: #888;\n        pointer-events: auto;\n}\n \n@media not all and (max-width: 767px) {\n \n    #top-bar .mobile-top-bar {\n        display: block;\n        pointer-events: none;\n    }\n \n    #top-bar .mobile-top-bar li {\n        display: none;\n    }\n \n    #main-content {\n        max-width: 44.5rem;\n        margin: 0 auto;\n        padding: 0;\n        transition: max-width 0.2s ease-in-out;\n    }\n \n    #side-bar {\n        display: block;\n        position: fixed;\n        top: 0;\n        left: -18rem;\n        width: 15.25rem;\n        height: 100%;\n        margin: 0;\n        overflow-x: hidden;\n        overflow-y: auto;\n        z-index: 10;\n        padding: 1em 1em 0 1em;\n        background-color: rgba(0,0,0,0.1);\n        transition: left 0.4s ease-in-out;\n \n        scrollbar-width: thin;\n    }\n \n    #side-bar:target {\n        left: 0;\n    }\n    #side-bar:focus-within {\n        left: 0;\n    }\n \n    #side-bar:target .close-menu {\n        display: block;\n        position: fixed;\n        width: 100%;\n        height: 100%;\n        top: 0;\n        left: 0;\n        margin-left: 17rem;\n        opacity: 0;\n        z-index: -1;\n        visibility: visible;\n    }\n    #side-bar:not(:target) .close-menu { display: none; }\n \n    #top-bar .open-menu a:hover {\n        text-decoration: none;\n    }\n}\n[[/code]]\n[[/iftags]]\n\n[[module CSS]]\n@import url(https://scp-wiki-cn.wdfiles.com/local--code/component%3Atoggle-sidebar/1);\n[[/module]]",
+  "tags": [
+    "组件"
+  ],
+  "author": "Sekai_s",
+  "created_at": "2021-01-26T04:00:11+00:00",
+  "updated_at": "2023-12-07T14:48:07+00:00",
+  "rating": 9,
+  "_site": "scp-wiki-cn",
+  "_fullname": "component:toggle-sidebar"
+}

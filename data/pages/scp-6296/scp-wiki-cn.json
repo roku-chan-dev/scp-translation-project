@@ -1,0 +1,21 @@
+{
+  "title": "SCP-6296",
+  "content": "[[include :scp-wiki:theme:blankstyle]]\n\n[[module CSS]]\n.footnotes-footer {\n    visibility: hidden;\n    height: 0;\n    padding: 0;\n    margin: 0;\n}\n:root {\n--thaumiel: 0, 135, 189\n}\n[[/module]]\n\n[[include :scp-wiki:component:author-label-source start=--\n|name=NDHeckfire]]\n**SCP-6296** - 珍惜最后一片\n\n[[[https://scp-wiki.wikidot.com/ndheckfire|More by me!]]]\n[[include :scp-wiki:component:author-label-source end=--]]\n\n@@ @@\n\n[[div]]\n[[include :scp-wiki-cn:component:anomaly-class-bar-source\n|lang= cn\n|item-number= SCP-6296\n|clearance= 1\n|container-class= esoteric\n|secondary-class= memet\n|secondary-icon= https://scp-wiki.wdfiles.com/local--files/scp-5056/memet-icon-3.svg\n|disruption-class= dark\n|risk-class= notice\n]]\n\n[[include :scp-wiki:component:acs-peppo-split\n|object= safe\n|object-image= https://scp-wiki.wdfiles.com/local--files/component%3Aanomaly-class-bar/safe-icon.svg\n|object-color= safe\n|esoteric-color= thaumiel\n]]\n[[module css]]\n.anom-bar-container.danger .danger-diamond > .quadrants > .right-quad {\n    background-color:rgba(255,109,0,0.25);\n    background-color: rgb(255,109,0,0.25);\n[[/module]]\n[[/div]]\n----\n[[include component:image-block\n    name=https://scp-wiki.wikidot.com/local--files/scp-6296/pizza.jpg|\n    caption=SCP-6296。|\n    width=250px|\n    align=right|\n]]\n\n**特殊收容措施：**由于SCP-6296大致上已自我收容，故此时无需收容措施。 \n----\n**描述：**SCP-6296为一角披萨片，因其异常性质，而永久处于[[[secure-facility-dossier-site-43|Site-43]]]居住和供餐区的餐厅（研究和收容区地下四层）内。\n\n任何直接察觉并认识到SCP-6296的活体有机生物，均会避免提及它或将它完全吃掉。这些人会使用各种借口，通常包括“现在不饿”、“让别人吃”和“乳糖不耐受”[[span class=\"fnnum\"]]。[[/span]][[span class=\"fncon\"]]超过85%的基金会人员使用了这一借口，即便没有病史为证。[[/span]]\n\n虽已存在近25年，SCP-6296却没有出现任何的腐败迹象。\n----\n**附录6296-1，现象概述：**1996年4月3日，Site-43人员决定为两天前辞职的前联席主任[[[the-good-work|Vivian Lesley Scout]]]举办欢送会。欢送会定在H&S餐厅举行，由**热辣酥皮披萨**[[span class=\"fnnum\"]]。[[/span]][[span class=\"fncon\"]]一家基金会前台公司，最初于堪萨斯州成立，如今运营范围遍至全球。[[/span]]赞助了二十五个完整的配料不同的披萨饼。\n\n约下午11点30分，所有披萨都被吃完了，只剩下一片披萨（SCP-6296）。认为其异常性质于此时显现，没有一个基金会人员想把它全部吃掉或扔掉。\n----\n**附录6296-2，废除：**2022年11月，监督者议会经多数决定授权[[span class=\"ruby\"]]埃弗索倡议[[span class=\"rt\"]]EVERSOR[[/span]][[/span]]，旨在降低世界范围内各项研究/收容设施的财政开支[[span class=\"fnnum\"]]。[[/span]][[span class=\"fncon\"]]在 [[[SCP-6004]]]造成的大规模破坏后，该倡议在SCP基金会教条中被列为5级优先级。[[/span]]。该倡议主要由废除部负责，其唯一目的是无效化低优先级异常。\n\nSCP-6296从Site-43收容的异常中选出作为倡议的一部分，按要求无效化。Dr. Allan J. McInnis（Site-43现任站点主管）起初反对，表示这些异常对基金会财政的影响微不足道。然而，这一诉求被议会驳回。\n\nSCP-6296的无效化由Dr. Harold Blank和Dr. William Wettle实施，已将所需资源提供给二人。以下是无效化尝试的视频抄录：\n[[div class=\"blockquote\"]]\n\n= **<抄录开始>**\n\n//画面显示Dr. Blank和Dr. Wettle进入餐厅，后者费劲地拎着一只大木箱。他放下木箱，拉伸胳膊和背，过程中哈欠连连。Dr. Blank走上前去检查SCP-6296的当前状态，回到箱子旁，点了点头。//\n\n//他打开箱盖，取出几根电线和电缆，然后向 Dr. Wettle示意，两人一同举起了一个沉重的金属物体，识别为标准本斯克兰顿现实锚（或 SRA）。两人将锚抬到餐厅中央，Dr. Blank从身上取出遥控器，按下一个按钮。//\n\n//锚上的灯发出独特的蓝色光芒，表明它已进入预激活阶段。Wettle博士使用电缆在 SCP-6296周围建立了一个本体域空间，半径约10米。Dr. Blank按下遥控器上的另一个按钮，锚发出红光，表示已被激活。//\n\n//Wettle博士拿出一副白色无菌手套戴上，缓缓接近 SCP-6296。他将这个物体从盘里拿出来，放到鼻子前闻了闻，然后耸耸肩，从SCP-6296的前端咬了一小口。//\n\n**Dr. Wettle：**呃唔。（//皱眉//）\n\n**Dr. Blank：**怎么？\n\n**Dr. Wettle：**是金枪鱼。\n\n//Dr. Wettle将SCP-6296的余下部分扔进一旁的垃圾桶。//\n\n= **<抄录结束>**\n\n[[/div]]\n\nSCP-6296已重分级为已废除。文件将很快更新。\n\n@@ @@\n\n[[=]]\n[[div class=\"footer-wikiwalk-nav\"]]\n<< [[[SCP-6295]]] | SCP-6296 | [[[SCP-6297]]] >>\n[[/div]]\n[[/=]]\n\n[[include :scp-wiki:component:license-box]]\n=====\n> The Memet Class icon was initially derived from [[[SCP-5056]]], created by [[*user HarryBlank]].\n=====\n> **Filename:** pizza.jpg\n> **Name:** File:Piazza pizza slice.JPG\n> **Author** Renjishino1\n> **License:** Creative Commons Attribution 3.0 Unported\n> **Source Link:** https://commons.wikimedia.org/wiki/File:Piazza_pizza_slice.JPG\n=====\n[[include :scp-wiki:component:license-box-end]]",
+  "tags": [
+    "blank博士",
+    "scout主管",
+    "scp",
+    "wettle博士",
+    "值守43",
+    "强迫性",
+    "被废除",
+    "观察影响",
+    "食物"
+  ],
+  "author": "Hg-lab",
+  "created_at": "2022-08-26T15:44:11+00:00",
+  "updated_at": "2024-06-06T03:45:09+00:00",
+  "rating": 2,
+  "_site": "scp-wiki-cn",
+  "_fullname": "scp-6296"
+}

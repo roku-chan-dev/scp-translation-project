@@ -1,0 +1,17 @@
+{
+  "title": "SCP-CN-449",
+  "content": "[[>]]\n[[module Rate]]\n[[/>]]\n\n[[module ListPages  category=\"fragment\" parent=\".\" limit=\"1\" order=\"name\" offset=\"@URL|0\"]]\n%%content%%\n[[/module]]\n\n[[div style=\"display:none\"]]\n段落页面地址如下：\nhttp://scp-wiki-cn.wikidot.com/fragment:scp-cn-449-1\nhttp://scp-wiki-cn.wikidot.com/fragment:scp-cn-449-2\nhttp://scp-wiki-cn.wikidot.com/fragment:scp-cn-449-3\nhttp://scp-wiki-cn.wikidot.com/fragment:scp-cn-449-4\nhttp://scp-wiki-cn.wikidot.com/fragment:scp-cn-449-5\nhttp://scp-wiki-cn.wikidot.com/fragment:scp-cn-449-6\n\n[[/div]]\n\n[[footnoteblock]]\n@@@@\n[[div class=\"footer-wikiwalk-nav\"]]\n[[=]]\n<< [[[SCP-CN-448]]] | SCP-CN-449 | [[[SCP-CN-450]]] >>\n[[/=]]\n[[/div]]",
+  "tags": [
+    "safe",
+    "scp",
+    "原创",
+    "球体",
+    "电磁"
+  ],
+  "author": "monitor-256",
+  "created_at": "2017-07-21T13:32:48+00:00",
+  "updated_at": "2022-02-15T02:37:09+00:00",
+  "rating": 27,
+  "_site": "scp-wiki-cn",
+  "_fullname": "scp-cn-449"
+}

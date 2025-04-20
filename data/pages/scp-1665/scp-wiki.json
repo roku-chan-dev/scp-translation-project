@@ -1,0 +1,18 @@
+{
+  "title": "SCP-1665",
+  "content": "[[include :scp-wiki:theme:classic]]\n\n[[module CSS]]\ndiv.box {\n    border: 1px solid black;\n    background: white;\n    padding: 0.5rem;\n    margin: 0.5rem;\n    flex-basis: 50%;\n}\n\ndiv.clues {\n    display: flex;\n    flex-wrap: nowrap;\n    justify-content: space-evenly;\n    align-items: flex-start;\n}\n\n@media screen and (max-width: 500px) {\n    div.box {\n        flex-basis: 100%;\n    }\n    div.clues {\n        flex-wrap: wrap;\n    }\n}\n[[/module]]\n\n[[>]]\n[[module Rate]]\n[[/>]]\n\n[[=image https://scp-wiki.wdfiles.com/local--files/scp-1665/scp1665.png]]\n\n\n\n[[div class=\"box clues\"]]\n\n[[div class=\"box\"]]\n__**[[size 120%]]Across[[/size]]**__\n**1.** A Foundation @@_____@@ secured the book after attempting to record information on the owner and the book.\n**6.** SCP-1665's crossword puzzles appear to be designed for @@________@@, with puzzles typically featuring mundane topics such as weather and geography and taking little effort to solve.\n**8.** Description: SCP-1665 is a [REDACTED] brand book published by @@_________@@ Puzzles, copyrighted 1999.\n**11.** Special Containment @@__________@@:\n**15.** SCP-1665's @@_________@@ properties manifest when anyone attempts to maintain written or physical records of it.\n**18.** All written records will be altered so that they are in a form of a crossword @@______@@, making storage of information on SCP-1665 difficult.\n[[/div]]\n\n[[div class=\"box\"]]\n__**[[size 120%]]Down[[/size]]**__\n**1.** @@___________@@:\n**2.** SCP-1665 is to be kept in a @@______@@ in the low-value objects wing of Site 39.\n**3.** All @@_______@@ of SCP-1665 during testing must be in audio form.\n**4.** SCP-1665 was @@__________@@ in a thrift store in [REDACTED], Canada.\n**5.** Because of this, recording equipment is the @@_________@@ method of storage of information relating to SCP-1665.\n**7.** Since its @@___________@@, SCP-1665 has been tested on five (5) separate occasions.\n**9.** Object Class: @@____@@\n**10.** As per the orders of @@______@@ Smith, testing on SCP-1665 is suspended until further notice due to its low data value.\n**12.** All of the puzzles in the book are @@________@@, and it shows minimal wear from usage.\n**13.** SCP-1665's puzzles replace words in sentences with @@_____@@ spaces; as such, the puzzles can typically be solved with little difficulty.\n**14.** Experimentation with SCP-1665 requires prior approval from a Level @@_____@@ Researcher.\n**16.** SCP-1665's properties do not affect @@_____@@ recordings or other non-textual methods of documentation.\n**17.** The owner repeatedly attempted to sell @@___@@-@@____@@, marketing it as a 'magic crossword book'.\n[[/div]]\n\n[[/div]]\n\n[[footnoteblock]]\n\n[[div class=\"footer-wikiwalk-nav\"]]\n[[=]]\n<< [[[SCP-1664]]] | SCP-1665 | [[[SCP-1666]]] >>\n[[/=]]\n[[/div]]\n\n[[include :scp-wiki:component:license-box]]\n=====\n> **Filename:** scp1665.png\n> **Author:** [[*user ObserverSeptember]]\n> **License:** CC BY-SA 3.0\n> **Source Link:** [http://scp-wiki.wikidot.com/scp-1665 SCP Foundation Wiki]\n=====\n[[include :scp-wiki:component:license-box-end]]",
+  "tags": [
+    "_cc",
+    "_licensebox",
+    "document",
+    "meta",
+    "safe",
+    "scp"
+  ],
+  "author": "ObserverSeptember",
+  "created_at": "2013-07-06T04:01:09+00:00",
+  "updated_at": "2023-11-17T01:53:13+00:00",
+  "rating": 304,
+  "_site": "scp-wiki",
+  "_fullname": "scp-1665"
+}

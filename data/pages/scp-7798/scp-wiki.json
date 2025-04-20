@@ -1,0 +1,18 @@
+{
+  "title": "SCP-7798",
+  "content": "[[>]]\n[[module Rate]]\n[[/>]]\n[[module CSS]]\n.email-example .collapsible-block-folded a.collapsible-block-link {\n    animation: blink 0.8s ease-in-out infinite alternate;\n}\n@keyframes blink {\n    0% { color: transparent; }\n    50%, 100% { color: #b01; }\n}\n.email {border: solid 2px #000000; width: 88%; padding: 1px 15px; margin: 10px; box-shadow: 0 1px 3px rgba(0,0,0,.5)}\n.email-example a.collapsible-block-link {font-weight: bold;}\n.tofrom {margin-left: 10px; margin-top: 5px; padding: 1px 15px; border-left: solid 3px maroon}\n[[/module]]\n[[div class=\"email-example\"]]\n------\n[[=]]\n[[collapsible show=\"View SCiPnet? One (1) new message!\" hide=\"Re:SUBJECT\"]]\n[[<]]\n[[div class=\"email\"]]\n[[div class=\"tofrom\"]]\n**To:** VeilMaintenanceDept@SCiP.net\n**From:** GrandCouncil@SCiP.net\n**Subject:** ACO-7798\n[[/div]]\n------\nTo the Veil Maintenance Department,\n\nYour remote admin links have been reestablished in Federation space. See ACO-7798 in the Galactic Federation's database network. We trust that you know what to do with it.\n\n//-The Grand Council//\n[[/div]]\n[[/div]]\n[[/<]]\n[[/collapsible]]\n[[/=]]\n[[div class=\"blockquote\"]]\n[[=]]\n**REMOTE ADMIN LINK ESTABLISHED - VEILED AS USER ID ZAAFE19839 - ENCRYPTION STATUS: KETER.**\n\n//Don’t bend; don’t water it down; don’t try to make it logical; don’t edit your own soul according to the fashion. Rather, follow your most intense obsessions mercilessly.//\n[[/=]]\n[[/div]]\n\n[[module ListPages category=\"fragment\" parent=\".\" order=\"created_at\" limit=\"1\" offset=\"@URL|0\"]]\n%%content%%\n[[/module]]\n\n[!--\nhttps://scp-wiki.wikidot.com/fragment:secprotcontend-1\nhttps://scp-wiki.wikidot.com/fragment:secprotcontend-2\n--]",
+  "tags": [
+    "_listpages",
+    "apollyon",
+    "k-class-scenario",
+    "mind-affecting",
+    "neutralized",
+    "scp"
+  ],
+  "author": "jaboi",
+  "created_at": "2023-06-26T21:12:54+00:00",
+  "updated_at": "2024-02-17T20:01:39+00:00",
+  "rating": 24,
+  "_site": "scp-wiki",
+  "_fullname": "scp-7798"
+}

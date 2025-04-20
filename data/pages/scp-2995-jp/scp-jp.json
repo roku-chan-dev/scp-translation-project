@@ -1,0 +1,18 @@
+{
+  "title": "sanks269=solvexの提言",
+  "content": "[[include credit:start]]\n**タイトル:** sanks269=solvexの提言 - 物語緩衝層\n**著者:** ©︎[[*user sanks269]]＆[[*user solvex]]\n**作成年:** 2020\n[[include credit:end]]\n\n[[module ListPages parent=\".\" limit=\"1\" order=\"created_at\" offset=\"@URL|0\"]]\n%%content%%\n[[/module]]\n\n[!--\nこのページではフラグメントページを用いています。以下がその一覧です。\n* http://scp-jp.wikidot.com/scp-2995-jp-1\n* http://scp-jp.wikidot.com/scp-2995-jp-2\n* http://scp-jp.wikidot.com/scp-2995-jp-3\n--]",
+  "tags": [
+    "esoteric-class",
+    "jp",
+    "scp",
+    "メタ",
+    "共著",
+    "嘘コン20"
+  ],
+  "author": "solvex",
+  "created_at": "2020-09-02T12:01:11+00:00",
+  "updated_at": "2023-04-13T12:43:56+00:00",
+  "rating": 297,
+  "_site": "scp-jp",
+  "_fullname": "scp-2995-jp"
+}

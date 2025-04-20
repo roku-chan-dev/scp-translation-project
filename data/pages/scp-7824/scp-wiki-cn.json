@@ -1,0 +1,19 @@
+{
+  "title": "SCP-7824",
+  "content": "[[include :scp-wiki-cn:theme:foxtrot]]\n[[module css]]\n:root {\n     --header-title: \"基金会\";\n     --header-subtitle: \"明年再见\";\n}\n[[/module]]\n[[include :scp-wiki:component:wide-image-sizer]]\n\n@@ @@\n[[div style=\"border:solid 1px #999999; background:#f2f2c2; padding:5px; margin-bottom: 10px;\"]]\n[[=]]\n++++ 基金会记录与信息安保管理部提醒\n\n新年将近，下列文件已对所有基金会人员开放查阅。感谢你们做出的一切贡献。\n\n-- Maria Jones，RAISA主管\n[[/=]]\n[[/div]]\n@@ @@\n@@ @@\n@@ @@\n[[include :scp-wiki:component:image-block\nname=https://scp-wiki.wdfiles.com/local--files/scp-7824/CraterLake.jpg |\ncaption=俄勒冈州火山口湖 |\nalign=center |\nwidth=100%\n]]\n@@ @@\n@@ @@\n@@ @@\n[[include :scp-wiki:component:anomaly-class-bar-source\n\n|item-number= 7824\n\n|clearance= 1\n\n|container-class= esoteric\n\n|secondary-class= embla\n\n|secondary-icon= http://smlt.wdfiles.com/local--files/shineshadowd%3Agyd4/Embla.svg\n\n|disruption-class= dark\n\n|risk-class= notice\n\n]]\n@@ @@\n**特殊收容措施：**SCP-7824在实质上已自我收容。允许任何有意愿的基金会人员在每年12月31日使用该异常，关于SCP-7824本身的情况也将随其显现而公开。\n\n**描述：**SCP-7824是一座墓碑，位于俄勒冈州火山口湖国家公园一处悬崖上，俯瞰着同名湖泊。在1月1日到12月30日期间，SCP-7824并不存在；在12月31日，该异常将会出现。任何知晓该物件的人员会突然产生造访它的冲动，且会采取一切必须活动来做到这点；物理上无法做到的人将在12月31日将结束前的10-45分钟前被传送到SCP-7824处。[[footnote]]以其各自的原本时区为准。[[/footnote]]\n\n该物件的主要异常效应取决于在该物件周围1米内采取的特定行动。\n\n||~ 行为 ||~ 效应 ||\n|| 站在SCP-7824前方。||人员会经历到幻觉，包含过去364天内最强烈的记忆。 ||\n|| 站在SCP-7824旁边。||幻觉终止。人员报告称火山口湖的湖水看起来变得更暗。||\n|| 站在SCP-7824后方。||人员出现对过去364天的完全失忆，且出现跳下悬崖的冲动。附近其他人报告称在火山口湖上出现图像，与中心人员失去的记忆相对应。 ||\n|| 从SCP-7824边走开。||一旦到2米距离外，人员报告称SCP-7824会从其视线中消失。在之后的24小时里，该人员会慢慢恢复死去的记忆，尽可能与朋友和家人相处，而后正常生活。在12月31日的11:59，该人将会失踪。在12:00时，该人会从基金会雇用记录中消失，而后作为帷幕外社会的一员重现，且没有在基金会工作的记忆。此外，这些人员会出现异常强烈的[https://scp-wiki-cn.wikidot.com/saphir-centre Filbuson综合征][[footnote]]Filbuson综合征是一种理论性的异常病症，受影响人员无法感知到异常或超自然，且会在心理上将周边发生的一切异常论证为不存在或可以解释。[[/footnote]]，也因此被编为SCP-7824-1个体。 ||\n\n[[=]]\n[[collapsible show=\"输入5级凭证\" hide=\"难忘。\"]]\n[[<]]\n[[div class=\"table5\"]]\n[[div class=\"blockquote\"]]\n任何此前由SCP-7824-1个体在使用SCP-7824期间创造的异常都会出现在悬崖边沿下方周围的艺术中。\n[[/div]]\n[[/div]]\n[[/<]]\n[[/collapsible]]\n[[/=]]\n\n|| 跳下。 ||人员会在接触火山口湖时消失。在1月1日，他们会重新出现且不记得该事件，但失去的去年记忆会恢复。经历过此情况的人员报告称有一种平静、乐观的感觉，且对下一年将会发生的事表现出兴趣。这些人员之间的基金会忠诚度时常（但并非必然）会有所上升。||\n\n[[=]]\n[[collapsible show=\"输入5级凭证\" hide=\"我们必须继续。\"]]\n[[<]]\n[[div class=\"table5\"]]\n[[div class=\"blockquote\"]]\n已注意到与人员失去记忆相对应的异常会在接下来的365天内出现。该人员将无法辨认出它们。\n[[/div]]\n[[/div]]\n[[/<]]\n[[/collapsible]]\n[[/=]]\n\n**附录7824-1**\n\n下列铭文写在SCP-7824正面上：\n\n[[div class=\"blockquote\"]]\n[[=]]\n你所做的一切安息于此。\n[[/=]]\n[[/div]]\n\n下列铭文写在SCP-7824背后：\n\n[[div class=\"blockquote\"]]\n[[=]]\n感谢你继续创造。\n[[/=]]\n[[/div]]\n\n下列铭文位于SCP-7824所在悬崖的崖面上：\n\n[[div class=\"blockquote\"]]\n[[=]]\n我们不会忘记你。\n[[/=]]\n[[/div]]\n\n[[footnoteblock]]\n@@ @@\n[[div class=\"footer-wikiwalk-nav\"]]\n[[=]]\n<< [[[SCP-7823]]] | SCP-7824 | [[[SCP-7825]]] >>\n[[/=]]\n[[/div]]\n@@ @@\n[[=]]\n[[include :scp-wiki:component:license-box]]\n=====\n> **Filename:** CraterLake.jpg\n> **Author:** Tom Holland\n> **License:** CC-BY-SA 3.0\n> **Source Link:** https://commons.wikimedia.org/wiki/File:CraterLake.jpg\n\n=====\n[[include :scp-wiki:component:license-box-end]]\n[[/=]]\n@@ @@\n@@ @@",
+  "tags": [
+    "scp",
+    "人造物品",
+    "幻觉",
+    "强迫性",
+    "机密分级",
+    "视觉性",
+    "记忆影响"
+  ],
+  "author": "ashausesall",
+  "created_at": "2024-01-08T16:47:44+00:00",
+  "updated_at": "2024-01-08T16:51:35+00:00",
+  "rating": 1,
+  "_site": "scp-wiki-cn",
+  "_fullname": "scp-7824"
+}

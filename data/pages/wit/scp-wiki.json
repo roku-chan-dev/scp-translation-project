@@ -1,0 +1,20 @@
+{
+  "title": "Wit",
+  "content": "=====\n[[include component:preview\ntext=Witness what remains.]]\n=====\n\n[[include :scp-wiki:theme:blankstyle]]\n[[include :scp-wiki:theme:queerstyle]]\n\n[[module css]]\n:root {\n    --fade-in-delay: 0s;\n    --header-title: \"\";\n    --header-subtitle: \"\";\n}\ndiv#extra-div-1 {\n    display:none;\n}\n\n.blackout {\n    background-color:black;\n    color:black;\n    user-select:none;\n}\n\n[[/module]]\n\n[[>]]\n[[module rate]]\n[[/>]]\n\n[[module ListPages  category=\"fragment\" parent=\".\" limit=\"1\" order=\"random\"]]\n%%content%%\n[[/module]]\n\n[!--\nhttps://scp-wiki.wikidot.com/fragment:wit-0\nhttps://scp-wiki.wikidot.com/fragment:wit-1\nhttps://scp-wiki.wikidot.com/fragment:wit-2\nhttps://scp-wiki.wikidot.com/fragment:wit-3\nhttps://scp-wiki.wikidot.com/fragment:wit-4\nhttps://scp-wiki.wikidot.com/fragment:wit-5\nhttps://scp-wiki.wikidot.com/fragment:wit-6\nhttps://scp-wiki.wikidot.com/fragment:wit-7\nhttps://scp-wiki.wikidot.com/fragment:wit-8\nhttps://scp-wiki.wikidot.com/fragment:wit-9\n\n--]\n[[include :scp-wiki:component:license-box]]\n[[include :scp-wiki:component:license-box-end]]",
+  "tags": [
+    "_licensebox",
+    "_listpages",
+    "no-dialogue",
+    "poetry",
+    "second-person",
+    "surrealism",
+    "tale",
+    "wrathcon2024"
+  ],
+  "author": "Queerious",
+  "created_at": "2024-08-01T04:05:02+00:00",
+  "updated_at": "2024-10-11T19:38:23+00:00",
+  "rating": 22,
+  "_site": "scp-wiki",
+  "_fullname": "wit"
+}

@@ -1,0 +1,15 @@
+{
+  "title": "직원 ilkka의 인사 파일",
+  "content": "[[>]]\n[[module Rate]]\n[[/>]]\n\n[[div style=\"float:right; margin:0 2em 1em 2em; width:300px; border:0;\"]]\n|||| [[image d0082302_4ecf5ec9a5c2a.jpg width=\"300px\"]] ||\n||||~ ^^SCP작성중 매번 지적받은 모습을 묘사^^ ||\n[[/div]]\n\n**암호명 :** ilkka\n\n**등급 :** 3등급\n\n\n**__작성 리스트__**\n \n__SCP__:\n[[module ListPages created_by=\"min_ilkka\"separate=\"no\" limit=\"250\" perPage=\"250\" tags=\"scp, -농담, -번역\" order=\"title\"]]\n* %%title_linked%%\n[[/module]]\n\n__SCP-J__:\n[[module ListPages created_by=\"min_ilkka\"separate=\"no\" limit=\"250\" perPage=\"250\"tags=\"농담, -이야기, -번역\" order=\"title\"]]\n* %%title_linked%%\n[[/module]]\n\n__공동작업참여__:\n* [[[scp-978-extended-test-logs-ko|SCP-978 한국 추가 실험 기록]]]\n* [[[log-of-anomalous-items-ko|국내 변칙 항목 기록]]]\n* [[[log-of-extranormal-events-ko|국내 이상 징후 기록]]]",
+  "tags": [
+    "_이미지",
+    "ko",
+    "작가"
+  ],
+  "author": "min_ilkka",
+  "created_at": "2012-10-27T17:37:17+00:00",
+  "updated_at": "2020-05-21T06:13:10+00:00",
+  "rating": 6,
+  "_site": "scpko",
+  "_fullname": "min-ilkka-s-personnel-file"
+}

@@ -1,0 +1,14 @@
+{
+  "title": "Fragment:sisters-5",
+  "content": "[[include :scpko:theme:black-highlighter-theme]]\n\n[[module CSS]]\n.email-example .collapsible-block-folded a.collapsible-block-link {\n    animation: blink 0.8s ease-in-out infinite alternate;\n}\n@keyframes blink {\n    0% { color: transparent; }\n    50%, 100% { color: #b01; }\n}\n.email {border: solid 2px #000000; width: 88%; padding: 1px 15px; margin: 10px; box-shadow: 0 1px 3px rgba(0,0,0,.5)}\n.email-example a.collapsible-block-link {font-weight: bold;}\n.tofrom {margin-left: 10px; margin-top: 5px; padding: 1px 15px; border-left: solid 3px maroon}\n[[/module]]\n\n[[include :scpko:component:anomaly-class-bar-source\n|item-number= 6535\n|clearance= 2\n|container-class= 난해\n|secondary-class= 비격리\n|secondary-icon= https://scpko.wdfiles.com/local--files/calibri-s-mega-cool-art-page-it-s-mostly-just-icons-but-what/Uncontained.svg\n|disruption-class= 암흑\n|risk-class= 주목\n]]\n------------\n\n[[include component:image-block\n| name= Distant_person.jpg\n| caption= SCP-6535\n| width=100%]]\n\n**특수 격리 절차:** ###ff1493| SCP-6535는 그대로 내버려 둬야 한다.##\n\n**설명:** SCP-6535는 17세의 아시아계 인간 여성으로, 현재 비격리 상태다. ###ff1493|그녀는 세계를 떠돌고 있으며, 누구도 원망하고 있지 않다.##\n\n**부록 6535.1:** ###ff1493|내 오래된 감옥에서 찾았다. 내 리셋에서 살아남은 유일한 물건인 것 같다.##\n\n[[collapsible show=\"+ 이미지 보이기\" hide=\"- 숨기기\"]]\n[[=]]\n[[div class=\"blockquote\"]]\n[[include component:image-block\n| name= medium.jpg\n| caption= 고마워.\n| width=100%]]\n[[/div]]\n[[/=]]\n[[/collapsible]]",
+  "tags": [
+    "en",
+    "조각문서"
+  ],
+  "author": "Sycop",
+  "created_at": "2023-03-25T02:32:07+00:00",
+  "updated_at": "2024-11-14T17:47:40+00:00",
+  "rating": 0,
+  "_site": "scpko",
+  "_fullname": "fragment:sisters-5"
+}

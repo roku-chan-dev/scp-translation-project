@@ -1,0 +1,14 @@
+{
+  "title": "街巷顶部组件",
+  "content": "[[iftags 组件]]\n使用方法请参见[[[the-alleys-other-goif|指南]]].\n[[/iftags]]\n\n[[iftags -组件]]\n[[module CSS]]\n.scp-woi-block {\n    border-left: #000 1px solid;\n    border-right: #000 1px solid;\n    border-top: #000 1px solid;\n    border-bottom: none;\n    background-color: #fcfcfc;\n    color: #000000;\n}\n\n.scp-woi-title {\n    color: #292929;\n    font-weight: bolder;\n    border-bottom: #000 1px solid;\n    background: linear-gradient(to bottom, #C2EBF2, #7AC0CC);\n    padding-top: 0.3em;\n    padding-right: 1em;\n    padding-left: 1em;\n    padding-bottom: 1em;\n}\n\n.scp-woi-caption {\n    background-color: none;\n    padding-top: 0.5em;\n    padding-right: 2em;\n    padding-left: 2em;\n    padding-bottom: 1em;\n}\n\n.scp-woi-image {\n    background-color: #fff;\n    border: #000 1px solid;\n}\n\n.scp-woi-forum-0 {\n    background-color: none;\n    border-top: #000 1px solid;\n    padding-top: 1em;\n    padding-right: 1em;\n    padding-left: 1em;\n    padding-bottom: 0.5em;\n}\n[[/module]]\n\n\n[[div class=\"scp-woi-block\"]]\n[[div class=\"scp-woi-title\"]]\n,,[{$category}],,\n[[size 180%]]{$title}[[/size]]\n[[table style=\"margin: auto; border-collapse:collapse; width: 100%\"]]\n[[row]]\n[[cell style=\"text-align: left; border: 0px solid; padding: 0 0 0;\"]]\n**作者:** {$writer}{$color}\n[[/cell]]\n[[cell style=\"text-align: right; border: 0px solid; padding: 0 0 0;\"]]\n**日期:** {$date}\n[[/cell]]\n[[/row]]\n[[/table]]\n[[/div]]\n@@@@\n[[=]]\n[[image {$image} style=\"width: 70%; border: #000 0.5px solid;\"]]\n[[/=]]\n\n[[div class=\"scp-woi-caption\"]]\n[[/iftags]]",
+  "tags": [
+    "ko",
+    "组件"
+  ],
+  "author": "Hppp",
+  "created_at": "2025-02-02T14:55:58+00:00",
+  "updated_at": "2025-02-02T14:56:15+00:00",
+  "rating": 0,
+  "_site": "scp-wiki-cn",
+  "_fullname": "component:woi-block"
+}

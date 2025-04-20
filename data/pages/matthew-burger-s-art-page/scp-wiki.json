@@ -1,0 +1,17 @@
+{
+  "title": "Matthew Burger's Art Page",
+  "content": "[[>]]\n[[module Rate]]\n[[/>]]\n\n++++ Matthew Burger's Art Page\n\nArt Page for select SCP's. Feel free to reach out to me if you'd like something done.\n\n[[collapsible show=\"+ SCP-1730\" hide=\"- SCP-1730\"]]\n[[include component:image-block\n    name=samsara-attempt.jpg|\n    caption=SCP-1730  MTF Tau-5 \"Samsara\" concepts, hard to say if this really falls in line for what \"Samsara\" are supposed to be however they were referred to as Power Rangers, cyborg and capable of being cloned|\n    align=center]]\n[[/collapsible]]\n\n[[collapsible show=\"+ SCP-3456\" hide=\"- SCP-3456\"]]\n[[include component:image-block\n    name=SCP-3456.jpg|\n    caption=SCP-3456 |\n    align=center]]\n[[/collapsible]]\n\n[[collapsible show=\"+ SCP-3608\" hide=\"- SCP-3608\"]]\n[[include component:image-block\n    name=scp-3608.jpg|\n    caption=SCP-3608  One of my favorite D-Class characters from Doctor Fullham's otherworldly SCP entering a dark building...|\n    align=center]]\n[[/collapsible]]\n\n[[collapsible show=\"+ SCP-4205\" hide=\"- SCP-4205\"]]\n[[include component:image-block\n    name=SCP-4205.jpg|\n    caption=SCP-4205   Wade and the broken window|\n    align=center]]\n[[/collapsible]]\n\n[[collapsible show=\"+ SCP-5140\" hide=\"- SCP-5140\"]]\n[[include component:image-block\n    name=scp-5140.jpg|\n    caption=SCP-5140   I love this SCP, popped on the shining soundtrack and read it. I was pushing through the chills and I've been thinking of putting together some paints of the work for the past few days. Give it a read if you haven't yet|\n    align=center]]\n[[/collapsible]]\n\n[[collapsible show=\"+ SCP-5552\" hide=\"- SCP-5552\"]]\n[[include component:image-block\n    name=scp-5552.jpg|\n    caption=SCP-5552 from the 6th document|\n    align=center]]\n[[/collapsible]]\n\nOriginal Works\n\n[[collapsible show=\"+ SCP Comic\" hide=\"- SCP Comic\"]]\n[[include component:image-block\n    name=comic-scp.jpg|\n    caption=A late night idea for a comic|\n    align=center]]\n[[/collapsible]]\n\n[[collapsible show=\"+ SCP Comic pg 2\" hide=\"- SCP Comic pg 2\"]]\n[[include component:image-block\n    name=image01.jpg|\n    caption=Added another page! Lemme know what you guys think|\n    align=center]]\n[[/collapsible]]\n\n**Links to find me on the internet--**\n\n[https://twitter.com/MattBurgerArt Twitter]\n\n[https://www.instagram.com/matthewburgerart/ Instagram]",
+  "tags": [
+    "_cc",
+    "artist",
+    "painted",
+    "scp-art",
+    "sketched"
+  ],
+  "author": "Matthewburgerart",
+  "created_at": "2020-03-11T09:23:02+00:00",
+  "updated_at": "2024-03-28T19:04:58+00:00",
+  "rating": 54,
+  "_site": "scp-wiki",
+  "_fullname": "matthew-burger-s-art-page"
+}

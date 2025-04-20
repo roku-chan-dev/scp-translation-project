@@ -1,0 +1,13 @@
+{
+  "title": "Yurtbox 段落",
+  "content": "[[iftags +段落]]\n> 这是一个用于Rounderpage作者页的段落页。\n[[/iftags]]\n\n[[div class=\"griddle {$article-class}\" style=\"{$extra-styling};\"]]\n[[a class=\"siddle\" href=\"https://scp-wiki-cn.wikidot.com/{$slug}\"]]\n[[span class=\"title\"]]{$title}[[/span]] _\n[[span class=\"subtitle\"]]{$subtitle}[[/span]] _\n[[span class=\"subbertitle\"]]{$subbertitle}[[/span]] _\n[[/a]]\n[[/div]]",
+  "tags": [
+    "段落"
+  ],
+  "author": "NiaGba",
+  "created_at": "2025-03-16T03:05:15+00:00",
+  "updated_at": "2025-03-16T03:07:08+00:00",
+  "rating": 0,
+  "_site": "scp-wiki-cn",
+  "_fullname": "fragment:yurtbox"
+}

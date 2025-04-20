@@ -1,0 +1,14 @@
+{
+  "title": "SCP-____-J",
+  "content": "desc: 後で書けば良いじゃない\nurl: 'http://ja.scp-wiki.net/scp-j'\nredirect-b: '[[module Redirect destination=\"http://ja.scp-wiki.net/scp-poem'\nredirect-e: '\"]]'",
+  "tags": [
+    "jp",
+    "剪定対象-子"
+  ],
+  "author": "Sekawa",
+  "created_at": "2019-06-11T01:14:55+00:00",
+  "updated_at": "2021-05-24T13:22:00+00:00",
+  "rating": 83,
+  "_site": "scp-jp",
+  "_fullname": "poem:33"
+}

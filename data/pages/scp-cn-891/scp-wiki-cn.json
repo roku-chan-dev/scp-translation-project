@@ -1,0 +1,22 @@
+{
+  "title": "SCP-CN-891",
+  "content": "[[>]]\n[[module Rate]]\n[[/>]]\n[[module css]]\n\n.page {\n\n    display: block;\n\n    overflow: hidden;\n\n    font-family: \"Monotype Corsiva\", \"Bradley Hand ITC\", sans-serif;\n\n    font-style: normal;\n\n    background-attachment: scroll;\n\n    background-clip: border-box;\n\n    background-color: transparent;\n\n    background-image: linear-gradient(to top ,rgb(202, 219, 228) 0%, rgb(231, 233, 220) 8%);\n\n    background-origin: padding-box;\n\n    background-position: 0px 8px;\n\n    background-repeat: repeat;\n\n    background-size: 100% 20px;\n\n    border: 1px solid #CCC;\n\n    border-radius: 10px;\n\n    padding: 10px 10px;\n\n    margin-bottom: 10px;\n\n    box-shadow: 0px 1px 3px rgba(0, 0, 0, 0.2)\n\n    }\n\n.page p {\n\n    line-height: 20px;\n\n    margin: 0;\n\n}\n\n[[/module]]\n----\n[[table style=\"border: none; width: 100%;\"]]\n[[row]]\n[[cell]]\n[[size 125%]]**项目编号：**SCP-CN-891[[/size]]\n[[/cell]]\n[[cell style=\"text-align: right;\"]]\n[[size 125%]]**Level 3/891**[[/size]]\n[[/cell]]\n[[/row]]\n[[row]]\n[[cell]]\n[[size 125%]]**项目等级：**Euclid[[/size]]\n[[/cell]]\n[[cell style=\"text-align: right;\"]]\n[[size 125%]]**机密**[[/size]]\n[[/cell]]\n[[/row]]\n[[/table]]\n----\n**特殊收容措施：**一组活体的同世代项目个体现被收容于Site-CN-02内部的独立标准生物收容间内。每个项目个体每天应被联通在220V家用电源上至少四小时以维持其活性。进入繁殖期的项目个体应被单独收容于收容间另一部分的收容翼中，两名D级人员将会辅助进行繁殖，对繁殖期项目的研究或实验需经过至少两名负责收容的4级人员许可方可进行。试验中不慎被认知危害影响的人员应进行A级记忆删除。\n\n[[include component:image-block name=http://scpsandboxcn.wdfiles.com/local--files/whatvr/t018b708f079c4a981b.jpg |caption=一个中胶层完全成型的SCP-CN-891胚胎个体]]\n**描述：**SCP-CN-891是对一种腔肠动物的统称，项目形似灯泡，其口器位于灯头处，有独特的螺旋形结构，似乎被设计用于连接灯座和电源。内部类似灯丝的器官则用于将电源提供的电能转化为个体所需要的生物能，同时释放出暖色光，[[footnote]] 研究证实光线似乎是作为代谢物产生的，然而没有任何热效应，进一步研究正在进行[[/footnote]]原理未知。在长时间内断电将会使项目个体失去活性。外胚层由一系列结构特殊的细胞组成，细胞排列整齐，较薄，具有极高的透光性与硬度。中胶层较薄，由间细胞组成，中胶层会伴随使用时间[[footnote]] 此处泛指对项目个体进行通电的行为 [[/footnote]]的增长而逐渐变黑。\n\n当一个SCP-CN-891个体累计通电时间超过2112小时后，该个体将进入性成熟阶段，生殖腺与外胚层的刺细胞组织开始发育。此时的项目将被记作SCP-CN-891-1，SCP-CN-891-1个体的中胶层将会开始出现带有认知危害效应的纹理。[[footnote]] 每个 SCP-CN-891-1个体所带有的纹理均不同，推测此类纹理于胚胎状态时就是固定的。[[/footnote]]同时，项目的光代谢亦将停止，籍以此吸引使用者前来查看。被认知危害影响的使用者将会试图将SCP-CN-891-1塞入口中并停止其他活动。被人体体温所活性化的生殖腺会排出SCP-CN-891个体的胚胎。胚胎随后会通过消化道进行孵化，同时利用未消化的部分食物残渣获得营养。约3小时后将会随着粪便由肛门被排出，受影响者随后会本能地将孵化的个体从粪便中挑拣出并继续使用。中胶层间细胞会在胚胎状态结束后3小时内快速转化为皮肌细胞，同时分泌胶状物质支撑身体，外胚层将会被迅速撑大。同时，SCP-CN-891-1本体将停止一切生理活动，躯体将会在36小时内腐化。其外胚层将迅速软化，使其快速从受影响者口中滑落。同时刺细胞会释放异常神经电信号致使受影响者产生一种“性交般”的快感。74.3%的受影响者将会对此成瘾，反复将项目塞入口中。[[footnote]] 即使是未进入性成熟阶段的项目。现推测项目所带来的快感不仅是神经点信号造成的“短时间”快感，而是神经反应的重组。 [[/footnote]]随后受影响者会试图将灯泡推荐给亲友，通常“推荐语”中会包含许多的语法错误与常识性谬误。当被推荐人试图拒绝时，受影响者则会试图强制将项目塞入其口中，直到SCP-CN-891胚胎个体孵化为止。\n\n**附录891-alpha：回收记录**SCP-CN-891个体最早被回收于██市██区的一处废弃住宅；当时该位置由于被认为是吸毒人员聚集地而遭到警察突袭，内部受影响者则试图攻击警察。在缠斗持续了约30分钟后基金会力量介入，内部受影响者被击毙，参与交火的警察被执行A级记忆删除，所有SCP-CN-891个体被收容于Site-CN-02。事件被掩盖为一次黑帮火并。于现场回收到一份有关文件。请详见下方\n[[collapsible show=\"+ 文件891-1——需要3级权限\" hide=\"- 认证已通过，欢迎您，已授权人员\"]]\n> 归档文件 891-1\n> 前言：该文件被张贴在回收地的一处混凝土柱上；四周被已接通220V家用电源的SCP-CN-891个体包围，附近的地面被用粪便涂满。同时发现数具被叠放成堆的尸体；进一步尸检表明死者均死于SCP-CN-891胚胎个体中胶质突然膨胀而造成的直肠撕裂并发感染。同时在肠道内部发现大量食物残渣。\n> 文件内容：\n[[div class=\"page\"]]\n[[=]]\n\n光明胡同®牌复古白炽灯！\n\n[[/=]]\n\n@@ @@\n\n在老北京，胡同里最让人难忘的回忆就是四合院里的那盏白炽灯了。一家子伴随着暖色的灯光，吃着饭，听着老一辈人讲故事……小小的一盏灯竟承载一家人这样的回忆！\n\n@@ @@\n\n而现在，光明胡同®用最顶尖的科技向您呈上那缕充满回忆的光！利用最新技术，您可以享受灯光给您带来的温暖，却不用担心耐用性！利用我们的活力灯™技术，白炽灯也可以很环保！现在，享受回忆带来的快感，与灯泡一起享受四世同堂的乐趣吧！\n\n@@ @@\n\n[[>]]\n\n*特别警示：请不要过度使用我们的产品。同时，在使用活力灯™功能造成的伤亡本公司概不负责。\n\n[[/>]]\n\n[[/div]]\n[[/collapsible]]\n\n[[footnoteblock]]\n\n[[=]]\n[[div class=\"footer-wikiwalk-nav\"]]\n<< [[[SCP-CN-890]]] | SCP-CN-891 | [[[SCP-CN-892]]] >>\n[[/div]]\n[[/=]]",
+  "tags": [
+    "euclid",
+    "scp",
+    "site-cn-02",
+    "原创",
+    "强迫性",
+    "成瘾性",
+    "无脊椎动物",
+    "活物",
+    "生殖性",
+    "认知危害"
+  ],
+  "author": null,
+  "created_at": "2018-10-27T04:05:24+00:00",
+  "updated_at": "2020-02-13T02:33:40+00:00",
+  "rating": 85,
+  "_site": "scp-wiki-cn",
+  "_fullname": "scp-cn-891"
+}

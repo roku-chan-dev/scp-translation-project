@@ -1,0 +1,30 @@
+{
+  "title": "Daoud Ewen Fullerton's Proposal",
+  "content": "[[module css]]\n.footnotes-footer {\ndisplay:none;\n}\n[[/module]]\n[[>]]\n[[module rate]]\n[[/>]]\n\n[[module ListPages category=\"fragment\" parent=\".\" order=\"created_at\" limit=\"1\" offset=\"@URL|0\"]]\n%%content%%\n[[/module]]\n\n[!-- http://scp-wiki.net/fragment:dyfscp0013-1 --]\n[!-- http://scp-wiki.net/fragment:dyfscp0013-2 --]\n[!-- http://scp-wiki.net/fragment:dyfscp0013-3 --]\n[!-- http://scp-wiki.net/fragment:dyfscp0013-4 --]\n[!-- http://scp-wiki.net/fragment:dyfscp0013-5 --]\n[!-- http://scp-wiki.net/fragment:dyfscp0013-6 --]\n[!-- http://scp-wiki.net/fragment:dyfscp0013-7 --]\n[!-- http://scp-wiki.net/fragment:dyfscp0013-8 --]\n[!-- http://scp-wiki.net/fragment:dyfscp0013-9 --]\n\n[[include :scp-wiki:component:license-box]]\n=====\n> **Filename:** prologue.png\n> **Author:** [[*user daveyoufool]]\n> **License:** CC BY-SA 3.0\n> **Source Link:** SCP Foundation Wiki\n\n> **Filename:** valkyrja.png\n> **Author:** [[*user daveyoufool]]\n> **License:** CC BY-SA 3.0\n> **Source Link:** SCP Foundation Wiki\n\n> **Filename:** riordan.png\n> **Author:** [[*user daveyoufool]]\n> **License:** CC BY-SA 3.0\n> **Source Link:** SCP Foundation Wiki\n\n> **Filename:** foxboss.png\n> **Author:** [[*user daveyoufool]]\n> **License:** CC BY-SA 3.0\n> **Source Link:** SCP Foundation Wiki\n\n> **Filename:** caseyboss.png\n> **Author:** [[*user daveyoufool]]\n> **License:** CC BY-SA 3.0\n> **Source Link:** SCP Foundation Wiki\n\n> **Filename:** thedeer.png\n> **Author:** [[*user daveyoufool]]\n> **License:** CC BY-SA 3.0\n> **Source Link:** SCP Foundation Wiki\n\n> **Filename:** awakening5.png\n> **Author:** [[*user daveyoufool]]\n> **License:** CC BY-SA 3.0\n> **Source Link:** SCP Foundation Wiki\n\n> **Filename:** threll.png\n> **Author:** [[*user daveyoufool]]\n> **License:** CC BY-SA 3.0\n> **Source Link:** SCP Foundation Wiki\n\n> **Filename:** glassling.png\n> **Author:** [[*user daveyoufool]]\n> **License:** CC BY-SA 3.0\n> **Source Link:** SCP Foundation Wiki\n=====\n[[include :scp-wiki:component:license-box-end]]",
+  "tags": [
+    "001-proposal",
+    "_cc",
+    "_licensebox",
+    "_listpages",
+    "apocalyptic",
+    "apollyon",
+    "extradimensional",
+    "extraterrestrial",
+    "illustrated",
+    "k-class-scenario",
+    "mind-affecting",
+    "sapient",
+    "scp",
+    "self-repairing",
+    "spatial",
+    "thermal",
+    "three-moons-initiative",
+    "vehicle"
+  ],
+  "author": "daveyoufool",
+  "created_at": "2024-05-31T23:19:04+00:00",
+  "updated_at": "2024-10-11T19:51:54+00:00",
+  "rating": 162,
+  "_site": "scp-wiki",
+  "_fullname": "dyfscp0013"
+}

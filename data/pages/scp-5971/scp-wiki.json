@@ -1,0 +1,17 @@
+{
+  "title": "SCP-5971",
+  "content": "[[>]]\n[[module Rate]]\n[[/>]]\n\n[[module ListPages category=\"fragment\" parent=\".\" order=\"created_at\" limit=\"1\" offset=\"@URL|0\"]]\n%%content%%\n[[/module]]\n\n[!-- For translators, here is a direct link to each iteration. --]\n[!-- https://scp-wiki.wikidot.com/fragment:scp-5971-0 --]\n[!-- https://scp-wiki.wikidot.com/fragment:scp-5971-1 --]\n[!-- https://scp-wiki.wikidot.com/fragment:scp-5971-2 --]\n[!-- https://scp-wiki.wikidot.com/fragment:scp-5971-3 --]\n[!-- https://scp-wiki.wikidot.com/fragment:scp-5971-4 --]\n[!-- To make ListPages work correctly, make this main page first, then upload the first iteration and set its parent to the first page. Repeat that for each iteration. Remember to change the offset links at the bottom of each iteration to the correct link for the new pages you have created. --]\n\n[[footnoteblock]]\n@@@@\n@@@@\n\n@@@@\n@@@@\n[[div class=\"footer-wikiwalk-nav\"]]\n[[=]]\n<< [[[SCP-5970]]] | SCP-5971 | [[[SCP-5972]]] >>\n[[/=]]\n[[/div]]",
+  "tags": [
+    "_listpages",
+    "acoustic",
+    "humanoid",
+    "keter",
+    "scp"
+  ],
+  "author": "RockTeethMothEyes",
+  "created_at": "2020-08-06T05:44:15+00:00",
+  "updated_at": "2021-07-30T17:55:00+00:00",
+  "rating": 124,
+  "_site": "scp-wiki",
+  "_fullname": "scp-5971"
+}

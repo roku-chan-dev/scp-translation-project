@@ -1,0 +1,14 @@
+{
+  "title": "서버 파일",
+  "content": "[[include :scpko:theme:black-highlighter-theme]]\n[[include :scpko:theme:extra-black-highlighter-theme]]\n[[include component:object-warning-box-source\n|bg-image=https://upload.wikimedia.org/wikipedia/commons/e/ec/SCP_Foundation_%28emblem%29.svg\n|bg-opacity=0.15\n|text-top=감독관 평의회 명령에 의거\n|text-bottom=이하 파일은 6/001 등급 보안인가를 요한다.\n**비인가 접근은 금지한다.**\n|object-number=001\n]]\n\n[[include :scpko:component:anomaly-class-bar-source\n|item-number= 001\n|clearance= 6\n|container-class= 난해\n|secondary-class= 프링키팔리스\n|secondary-icon= https://scp-wiki.wikidot.com/local--files/fragment:djkaktus-s-proposal-iii-0/principalis-icon-png.png\n|disruption-class= 아미타\n|risk-class= 주목\n]]\n-----\n\n[[include component:image-block name= https://scp-wiki.wikidot.com/local--files/fragment:djkaktus-s-proposal-iii-0/allthingsmustend.png|align=center|width=700px|caption=모든 것들은 끝나야만 한다]]\n\n-----\n\n**특수 격리 절차:** SCP-001의 격리를 확고히 하는 것은 감독관 평의회가 반드시 해야 할 일이다. \n\n**설명:** SCP-001의 본질을 안다는 것은 재단의 본질을 안다는 것이다. \n\n더 자세한 정보를 위해서는, //문서 001-GOI.01-오페라투스//를 참고할 것.\n\n**부록 001.1:** 첨부 문서 \n\n[[collapsible show=\"해독 키 입력\" hide=\"해독 중...\"]]\n@@@@\n@@@@\n[[=]]\n[[div style=\"display: inline-block; border: dashed 1px #444444; margin-left: auto; margin-right: auto; width: 380px; padding: 10px;\"]]\n첫번째 남자가 홀로 서 있다 \n황량한 들판 위에 \n그리고 저 먼 곳에서 그는 보았다\n그의 크나큰 수치를 그 너머에 \n숨긴 채 잠겨있는 문을.\n \n그는 그 뱀에게 몸을 돌렸다\n배를 땅에 깔고 몸부림치는\n벌레 같은 그놈에게\n그리고 그놈의 배신에 대해 저주를 내렸다.\n\n\"넌 날 속였다.\" 남자가 말했다\n\"네가 내 손을 엇나가게 만들었으니\n그리고 이제 우리는 그로 인해 저주를 받으리라.\"\n\n뱀은 한숨을 내쉬었다.\n\"난 네게 지식을 주었다.\" 그놈이 말했다\n\"그리고 그 지식을 가지고\n넌 네가 내린 선택을 한 것이다.\n내가 널 대신해 선택을 내릴 수는 없다.\" \n\n그 남자는 비명을 질렀다\n\"그렇다 하더라도, 널 믿었던 건 내\n가장 큰 실수였다.\"\n\n\"아니.\" 그 뱀이 말했다\n\"네 가장 큰 실수는\n네가 애초에 선택권을 가지고 있다고 믿은 거다.\"\n@@@@\n@@@@\n- -- -\n@@@@\n@@@@\n[[div style=\"display: inline-block; border: solid 1px #000000; background-color: #F5F5F5 ; width: 300px;\"]]\n[/djkaktus-s-proposal-iii/offset/1 문서 001-GOI.01-오페라투스 접속]\n[[/div]]\n[[/div]]\n[[/=]]\n[[/collapsible]]",
+  "tags": [
+    "en",
+    "조각문서"
+  ],
+  "author": "Kaestine",
+  "created_at": "2019-01-14T10:05:27+00:00",
+  "updated_at": "2021-10-09T12:17:31+00:00",
+  "rating": 0,
+  "_site": "scpko",
+  "_fullname": "fragment:djkaktus-s-proposal-iii-0"
+}

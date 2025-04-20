@@ -1,0 +1,14 @@
+{
+  "title": "10057",
+  "content": "number: UE-028816-JP\ncontent: 右に曲がりながら下ることで、いつまでも下り続けることのできる棚田。左に曲がりながら上り続けても異常は生じなかった。\ndate: 19██-09-12\narea: 山形県██市\nprotocol: カバーストーリー「錯覚」を適用。現在は所有者の高齢化に伴い放棄されている。\nredirect-b: '[[module Redirect destination=\"/log-of-unexplained-locations-jp'\nredirect-e: '\"]]'",
+  "tags": [
+    "jp",
+    "剪定対象-子"
+  ],
+  "author": "LRLG",
+  "created_at": "2021-02-12T17:33:59+00:00",
+  "updated_at": "2021-05-24T13:21:40+00:00",
+  "rating": 26,
+  "_site": "scp-jp",
+  "_fullname": "log-of-unexplained-locations-jp:10057"
+}

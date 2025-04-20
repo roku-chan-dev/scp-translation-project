@@ -1,0 +1,14 @@
+{
+  "title": "저작자 목록-EN",
+  "content": "[[module CSS]]\n.content-panel.standalone {\n  padding: 20px 30px;\n}\n.sp-art-title {\n  font-size: 200%;\n  font-weight: bold;\n  margin-bottom: 10px;\n}\n[[/module]]\n[[div class=\"content-panel centered standalone series\"]]\n[[image http://scpko.wdfiles.com/local--files/nav:side/CC-by-sa.png width=\"300px\" link=\"http://creativecommons.org/licenses/by-sa/3.0/deed.ko\"]]\n(cc) users of SCP-EN, some rights reserved.\n\nAccording to [http://creativecommons.org/licenses/by-sa/3.0/ Creative Commons Attribution-ShareAlike 3.0 License] used by The SCP Foundation, all article must be attributed.\n\nThis page is for authors of translated articles in SCP Korean Wiki. When translating, please note the original page and the original author in this page. If not available, please note it as author unknown.\n\nEvery legal forces are related to this page is in [http://www.scp-wiki.net/licensing-guide Licensing Guide].\n[[/div]]\n[[div class=\"content-panel centered standalone series\"]]\n[[div class=\"sp-art-title unmargined\"]]\nSCP-ENs Credits\n\n------\n[[size 75%]][[[copyright:credits-en-scp-1|Series Ⅰ]]] | [[[copyright:credits-en-scp-2|Series Ⅱ]]] | [[[copyright:credits-en-scp-3|Series Ⅲ]]] | [[[copyright:credits-en-scp-4|Series Ⅳ]]] | [[[copyright:credits-en-scp-5|Series Ⅴ]]][[/size]]\n\n[[size 75%]][[[copyright:credits-en-scp-j|Jokes]]] | [[[copyright:credits-en-scp-ex|Explained]]] | [[[copyright:credits-en-scp-arc|Archived]]] | [[[copyright:credits-en-scp-d|Decommissioned]]] [[/size]]\n[[/div]]\n[[/div]]\n[[div class=\"content-panel centered standalone series\"]]\n[[div class=\"sp-art-title unmargined\"]]\nTale-ENs Credits\n\n------\n\n[[size 75%]][[[copyright:credits-en-tale-short|Short stories]]] | [[[copyright:credits-en-tale-hubs|Series]]] | [[[copyright:credits-en-tale-canon|Canonical]]] \n[[[copyright:credits-en-tale-contest|Contests]]] | [[[copyright:credits-en-tale-orientation|Orientation]]] | [[[copyright:credits-en-tale-creepypasta|Creepypasta]]] [[/size]]\n\n[[size 75%]][[/size]]\n[[/div]]\n[[/div]]\n[[div class=\"content-panel centered standalone series\"]]\n[[div class=\"sp-art-title unmargined\"]]\nOther-ENs Credits\n\n------\n\n[[size 75%]][[[copyright:credits-en-etc-settings|Universe Settings]]] | [[[copyright:credits-en-etc-goi|GoI Formats]]] | [[[copyright:credits-en-etc-essay|Essays]]] | [[[copyright:credits-en-etc-artwork|Artworks]]] | [[[copyright:credits-en-etc-member|Member's pages]]][[/size]]\n\n[[/div]]\n[[/div]]",
+  "tags": [
+    "en",
+    "저작권"
+  ],
+  "author": "Salamander724",
+  "created_at": "2015-05-02T07:24:28+00:00",
+  "updated_at": "2019-07-10T11:43:21+00:00",
+  "rating": 0,
+  "_site": "scpko",
+  "_fullname": "copyright:credits-en"
+}

@@ -1,0 +1,18 @@
+{
+  "title": "Screaming Upriver",
+  "content": "[[include :scp-wiki:theme:black-highlighter-theme]]\n[[include :scp-wiki:component:centered-header-bhl]]\n[[include :scp-wiki:component:blacklight-box-source |inc-source= --]]]\n[[include :scp-wiki:component:discord-chat-source |inc-source= --]]]\n\n[[module CSS]]\n.email-example .collapsible-block-folded a.collapsible-block-link {\n    animation: blink 0.8s ease-in-out infinite alternate;\n}\n@keyframes blink {\n    0% { color: transparent; }\n    50%, 100% { color: #b01; }\n}\n.email {border: solid 2px #000000; width: 88%; padding: 1px 15px; margin: 10px; box-shadow: 0 1px 3px rgba(0,0,0,.5)}\n.email-example a.collapsible-block-link {font-weight: bold;}\n.tofrom {margin-left: 10px; margin-top: 5px; padding: 1px 15px; border-left: solid 3px maroon}\n[[/module]]\n\n[[module CSS]]\n.blbf-main > div { hyphens: initial; }\n[[/module]]\n\n[[>]]\n[[module Rate]]\n[[/>]]\n\n//From the private journal of [https://scp-wiki.wikidot.com/scp-7886 Site-107 Director Gomaa], written on 29/09/2023.//\n\n[[div class=\"blockquote\"]]\n\n[[=]]\nscreaming upriver\n[[/=]]\n\nit’s incredible what the distance of a continent or two can do to the human \nperception of others\n\nupon the corner of this land\nmy bloodline was spawned\nfrom there we followed the river’s example\nand spread out\nbut you see things on a macro scale\nyou, far across the atlantic\ncannot see the fingers of our rivers\n\nthe river is full of whispers\nancient, modern, something in between\nbut you can’t hear that, can you?\nyou don’t take the time to press your ear to it\nand let the earth tell you its secrets\nabout the people who live here \nan unstable region \n\nthe effort to lean down\nstoop to our level\nit’s too much for you\nyet my neck aches and groans\nreaching up to you\nlistening to your trees\nwhen the wind whispers me your plights\nand i listen to them\nand my heart aches for you\no you who do not know\nwhat it means to reciprocate\n\nto scream is an act of desperation\ndisgustingly guttural and straining\ninelegant and unpolished\nretrospectively disappointing\nbut i screamed anyway\namong echoes and a vacuous space\nmy own voice bounces back onto my face\nand it shakes me by my shoulders\nrocks my brain just right\nand there it goes\nprefrontal cortex into my cranium\nthe aching has yet to stop\nit’s one thing to scream to nothing\nit’s another thing to scream only to myself\nin a room filled with you \n\nthere is an urge\nto ask ‘how dare you?’\nto interrogate and kick and cry\nscream and rip hair from scalps\ncurl into a ball and pass out\n‘you did this to me’\nbut that isn’t true, right?\nwe both know that\njust look,\nthe locks are made of limestone\nand their keys are on my wall\n\n[[/div]]",
+  "tags": [
+    "bleak",
+    "horror",
+    "journal",
+    "no-dialogue",
+    "psychological-horror",
+    "tale"
+  ],
+  "author": "RadiantGold",
+  "created_at": "2024-04-05T19:19:03+00:00",
+  "updated_at": "2024-07-12T19:13:24+00:00",
+  "rating": 26,
+  "_site": "scp-wiki",
+  "_fullname": "screaming-upriver"
+}

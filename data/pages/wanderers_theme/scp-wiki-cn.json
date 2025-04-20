@@ -1,0 +1,14 @@
+{
+  "title": "被放逐者之图书馆 版式",
+  "content": "[[code type=\"css\"]]\n@import url(https://scp-wiki-cn.wdfiles.com/local--code/component:theme/1);\n@import url(https://scp-wiki-cn.wdfiles.com/local--code/theme:wanderers/1);\n\n/* GLOBAL WIDTH */\n.mobile-top-bar {\n    left: auto;\n    right: 1em;\n}\n\n/* HEADER TEXT */\n#header h2 span {\n    display: none;\n}\n\n/* TRANSLATION BLOCK */\niframe.scpnet-interwiki-frame {\n  width: 16em;\n  margin-left: 0.5em;\n  filter: none;\n  -webkit-filter: none;\n}\n\n.fancyhr hr {\n    border-top: 2vw solid transparent;\n    background-color: rgba(255, 219, 90, 0);\n    height: 0;\n    width: 100%;\n    -webkit-box-sizing: border-box;\n       -moz-box-sizing: border-box;\n            box-sizing: border-box;\n    border-image-source: url(https://wanderers-library.wdfiles.com/local--files/component:dustjacket-theme/wl_hr.png);\n    border-image-repeat: round round;\n    background: none;\n    border-image-slice: 80 500 80 500 fill;\n    border-image-width: 10em 80em 10em 80em;\n    margin: 1em 0;\n}\n\n.fancyborder {\n    -webkit-box-sizing: border-box;\n       -moz-box-sizing: border-box;\n            box-sizing: border-box;\n    border: 2vw solid rgba(0,0,0,0.5);\n    -webkit-border-image: url(https://wanderers-library.wdfiles.com/local--files/component:dustjacket-theme/wl_border.png) 600 round;\n       -moz-border-image: url(https://wanderers-library.wdfiles.com/local--files/component:dustjacket-theme/wl_border.png) 600 round;\n         -o-border-image: url(https://wanderers-library.wdfiles.com/local--files/component:dustjacket-theme/wl_border.png) 600 round;\n            border-image: url(https://wanderers-library.wdfiles.com/local--files/component:dustjacket-theme/wl_border.png) 600 round;\n    border-image-width: 6;\n    padding: 2vw;\n}\n[[/code]]",
+  "tags": [
+    "wanderers",
+    "版式"
+  ],
+  "author": "MScarlet",
+  "created_at": "2017-10-08T16:25:15+00:00",
+  "updated_at": "2024-11-20T12:42:23+00:00",
+  "rating": 10,
+  "_site": "scp-wiki-cn",
+  "_fullname": "wanderers:theme"
+}

@@ -1,0 +1,13 @@
+{
+  "title": "上原步梦干碎浴霸 的作者页",
+  "content": "[[include :scp-wiki-cn:theme:basalt]]\n[[module CSS]]\n\n:root {\n --logo: url(http://scpsandboxcn.wikidot.com/local--files/girls-frontline/revue);\n --title: \"PROJECT WINGMAN INFINITE\";\n --subtitle: \"SCP FOUNDATION\";\n}\n\n[[/module]]\n[[=]]\n\n+ 僚机计划：无限 故事系列中心页正在施工中\n\n[[/=]]\n\n[[>]]\n[[module Rate]]\n[[/>]]\n[[=]]\n[[html]]\n<iframe frameborder=\"no\" border=\"0\" marginwidth=\"0\" marginheight=\"0\" width=330 height=86 src=\"//music.163.com/outchain/player?type=2&id=1419180218&auto=1&height=66\"></iframe>\n[[/html]]\n[[/=]]\n\n\n[[tabview]]\n[[tab 原创作品（共60篇）]]\n[[include component:author-page\n  order=created_at |\n  translation=yes |\n  background=yes |\n  image=http://scpsandboxcn.wikidot.com/local--files/doing-nothing-makes-a-difference-1/%E4%B8%8A%E5%8E%9F%E6%AD%A5%E6%A2%A6 |\n]]\n\n[[include component:author-page-collab\nname=scplive-foundation-idol-project|\nwritten_by=SCPLive Studio|\nbackground=no|\nimage=no|\n]]\n\n[[include component:author-page-collab\nname=scp-173-but-it-s-a-collaborative-log-cn|\nwritten_by=la Kanro|\nbackground=no|\nimage=no|\n]]\n\n\n[[include component:author-page-collab\nname=berinsk-special-administrative-zone|\nwritten_by=Carl Ryzen|\nbackground=no|\nimage=no|\n]]\n\n[[/tab]]\n[[/tabview]]",
+  "tags": [
+    "作者"
+  ],
+  "author": "Uehara_Ayumu_BTS",
+  "created_at": "2021-12-11T16:16:00+00:00",
+  "updated_at": "2025-02-06T06:03:02+00:00",
+  "rating": 40,
+  "_site": "scp-wiki-cn",
+  "_fullname": "uehara-ayumu-break-the-system"
+}

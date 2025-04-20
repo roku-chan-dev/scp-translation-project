@@ -1,0 +1,20 @@
+{
+  "title": "SCP-5458",
+  "content": "[[include :scp-wiki:theme:night-rush-theme]]\n[[include :scp-wiki:theme:scp-trans-pride |trans-pride-logo= --] |trans-pride-footer= --]]]\n[[module css]]\n.page {\n    display: block;\n    overflow: hidden;\n    font-family: \"Monotype Corsiva\", \"Bradley Hand ITC\", sans-serif;\n    font-style: normal;\n\n    background-attachment: scroll;\n    background-clip: border-box;\n    background-color: transparent;\n    background-image: linear-gradient(to top ,rgb(202, 219, 228) 0%, rgb(231, 233, 220) 8%);\n    background-origin: padding-box;\n    background-position: 0px 8px;\n    background-repeat: repeat;\n    background-size: 100% 20px;\n\n    border: 1px solid #CCC;\n    border-radius: 10px;\n    padding: 10px 10px;\n    margin-bottom: 10px;\n\n    box-shadow: 0px 1px 3px rgba(0, 0, 0, 0.2)\n    }\n.page p,\n.page ul {\n    line-height: 25px;\n    margin: 0;\n}\n[[/module]]\n[[>]]\n[[module Rate]]\n[[/>]]\n**Item #:** SCP-5458 \n\n**Object Class:** Safe\n\n[[include component:image-block\n| name= zeevveezz-ring.jpg\n| caption= SCP-5458\n| width= 300px\n]]\n**Special Containment Procedures:** SCP-5458 is contained in a storage locker in the Safe wing of Site-43.\n\nWhen handling SCP-5458, thick gloves should be worn at all times. If SCP-5458 makes contact with exposed skin outside of testing, the affected personnel should be removed from its vicinity and administered Class-A amnestics immediately.\n\n**Description:** SCP-5458 is a gold wedding ring formerly belonging to Foundation Researcher Dr. Henry Fleming. When SCP-5458 makes direct skin contact with a human being, the affected person (henceforth subject) will, within two to five minutes, develop an irrational desire to put it on, even when instructed not to do so with threat of force. This desire continues even if the subject is removed from SCP-5458's vicinity, and may drive them to acts of violence to retrieve it. However, the desire does not continue if the subject's memory of touching SCP-5458 is removed by Class-A amnestics.\n\nWhen a subject places SCP-5458 on any finger, they immediately develop strong antimemetic properties and cannot be directly perceived without usage of Class-Y mnestics. SCP-5458, however, remains visible. The subject remains in this state for approximately ten minutes before disappearing entirely, dropping SCP-5458 in the process.\n\n**Addendum 5458-1 - Discovery**\nSCP-5458 was initially discovered during an investigation into an affair between Researcher Susan Fleming and Junior Researcher Grant, and the subsequent disappearance of Susan Fleming and her husband, Dr. Henry Fleming. It was found on the floor of Researcher Fleming's office, matching the description of Dr. Fleming's wedding ring. The following note was found on Dr. Fleming's desk, written but apparently undelivered.\n\n[[div class=\"page\"]]\n[[div style=\"color:black;\"]]\nSusan,\n\nWhen we married, I vowed to have and to hold from that day forward, for better, for worse, for richer, for poorer, in sickness and in health. To love and cherish you. You did too, but I suppose it's all just empty words to you. With this Ring I thee curse, with my body I thee find, and with all my worldly goods I thee banish.\n@@ @@\nI'll see you in Hell soon enough.\n[[/div]]\n[[/div]]\n\n[[div class=\"footer-wikiwalk-nav\"]]\n[[=]]\n<< [[[SCP-5457]]] | SCP-5458 | [[[SCP-5459]]] >>\n[[/=]]\n[[/div]]\n\n[[include :scp-wiki:component:license-box]]\n=====\n> **Filename:** zeevveezz-ring.jpg\n> **Name:** carvings gold ring-7\n> **Author:** zeevveez\n> **License:** CC BY 2.0\n> **Source Link:** https://www.flickr.com/photos/29001414@N00/3110567181\n\n\n=====\n[[include :scp-wiki:component:license-box-end]]",
+  "tags": [
+    "_cc",
+    "_licensebox",
+    "antimemetic",
+    "compulsion",
+    "jewelry",
+    "safe",
+    "scp",
+    "tactile"
+  ],
+  "author": "weiserthanyou",
+  "created_at": "2022-01-23T23:25:26+00:00",
+  "updated_at": "2022-10-01T18:09:37+00:00",
+  "rating": 16,
+  "_site": "scp-wiki",
+  "_fullname": "scp-5458"
+}

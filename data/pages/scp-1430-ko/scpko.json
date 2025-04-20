@@ -1,0 +1,25 @@
+{
+  "title": "SCP-1430-KO",
+  "content": "[[include info:start]]\n\n**제목:** SCP-1430-KO - 초들은 녹아 없어지기만을 기다리고 있는가\n\n**저자:** [[*user romrom]], [[*user oratio]], [[*user chayusen]]\n\n**작가 페이지:**\n\n> = [/romrom romrom] [/run-night-run oratio] [/chayusen chayusen]\n\n**조각 문서:**\nhttp://scpko.wikidot.com/fragment:scp-1430-ko-1\nhttp://scpko.wikidot.com/fragment:scp-1430-ko-2\n\n> Would you say that someone who had every intention to be brave was a coward?\n> 넌 용감해지려 마음 먹은 이를 겁쟁이라 말할까?\n[[include info:end]]\n[[module ListPages  category=\"fragment\" parent=\".\" limit=\"1\" order=\"created_at\" offset=\"@URL|0\"]]\n%%content%%\n[[/module]]",
+  "tags": [
+    "1000ko",
+    "ko",
+    "scp",
+    "곤충",
+    "골목길",
+    "공저",
+    "군체의식",
+    "떡갈나무",
+    "변칙예술학부",
+    "유클리드",
+    "인간형",
+    "제비꽃",
+    "케테르"
+  ],
+  "author": "oratio",
+  "created_at": "2022-12-10T13:43:58+00:00",
+  "updated_at": "2024-10-26T18:38:25+00:00",
+  "rating": 25,
+  "_site": "scpko",
+  "_fullname": "scp-1430-ko"
+}

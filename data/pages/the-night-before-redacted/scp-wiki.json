@@ -1,0 +1,20 @@
+{
+  "title": "The Night Before [REDACTED]",
+  "content": "[[include component:info-ayers\n|lang=en[!-- EN/RU/KO/CN/FR/PL/ES/TH/JP/DE/IT/UA/PTBR --]\n|page=the-night-before-redacted[!-- url of your page on the scp wiki --]\n|authorPage=http://www.scp-wiki.net/dr-cimmerian-s-personnel-file[!-- link to your author page --]\n|comments= Happy holidays!\n]]\n[[include theme:black-highlighter-theme]]\n[[module CSS]]\nsup { \nvertical-align: top; position: relative; top: -0.5em; \n}\n:root{ \n--cutColour: #fafafa;\n--barColour: #590505;\n}\n\n.info-container .collapsible-block-folded a{\ncolor: #FFF;}\n.info-container .collapsible-block-unfolded-link a{\ncolor: #FFF;}\n\n.translation_block{\ndisplay:none;}\n[[/module]]\n[[module css]]\n#side-bar {\n    background: rgb(var(--white-monochrome));\n}\n\n#side-bar div.menu-item a, #side-bar div.menu-item .text {\n    color: rgb(var(--black-monochrome));\n}\n\n#side-bar>div:nth-child(5) {\n    background-color: rgba(var(--dark-accent),0.25)!important;\n}\n[[/module]]\n\n[[>]]\n[[module Rate]]\n[[/>]]\n\n[[include :snippets:html5player\n|type=audio\n|url=https://scp-wiki.wdfiles.com/local--files/the-night-before-redacted/thenightbeforechristmas.mp3\n]]\n\nTwas the night before Christmas at Site-88,\nAnd Robert the guard was running quite late,\nAll the skips were contained in their cells with such care,\nThat everyone hoped, as did Bob, they'd stay there,\nHis first order of business was to check on containment,\nHe changed channels, instead, to the night's entertainment,\nIt's a Wonderful Life, he'd seen it before,\nAnd fell asleep then, for an hour or more.\n\nThere were those who had hoped, on this night before gifts,\nThat Robert would draw the short straw on the shifts,\nAnd plans were hatched over seven months previous,\nBy a group of some interest with conspirators devious,\nTo release all the creatures contained at the site,\nTo fight the Foundation on Christmas Eve Night,\nThey knew that their plan, while courageous, was dumb,\nBut worth it, they thought, if it releases just one.\n\nGates one, two, and three were as easy as pie,\nBut they met resistance at gates four and gates five,\nBob startled awake at the sound of alarms,\nAnd shouting, and death, and of course firearms,\nHe switched his monitors, checked all of the frequencies,\nHit the red button for containment emergencies,\nOn screens he could see, as they just made it in,\nNo one could get out, but inside they could win.\n\nThey'd planned well for that, and taking their chance,\nThe first cell on the right, at the placard they glanced,\nAnd in looking, they saw there, One Seven Three,\nSaw Euclid, and thought, how bad could it be?\nThe statue, Bob knew, so easily beaten,\nBut these stupid folk hadn't been to that meeting,\nSo as the last of their number closed his eyes in assent,\nBobby blinked once and the last one was bent.\n\nHe panicked then, and fell to the floor,\nScrambled and made his way outside his door,\nThe statue knew that's right where he would be,\nAnd Bobby fell backwards, attempting to flee,\nIt pressed on his windpipe, strained vocal cords,\nThis is it, he imagined, and thought of last words,\n\"Muh… Merry Christmas,\" he croaked, as it began its attack,\n\"Merry Christmas to all, and to all a good…\" //crack//.\n\n[[include :scp-wiki:component:license-box]]\n=====\n> **Filename:** thenightbeforechristmas.mp3\n> **Author:** [[*user Doctor Cimmerian]]\n> **License:** CC BY-SA 3.0\n> **Source Link:** [https://scp-wiki.wikidot.com/the-night-before-redacted SCP Foundation Wiki]\n=====\n[[include :scp-wiki:component:license-box-end]]",
+  "tags": [
+    "_licensebox",
+    "audio",
+    "black-comedy",
+    "christmas",
+    "comedy",
+    "poetry",
+    "tale",
+    "the-sculpture"
+  ],
+  "author": "Doctor Cimmerian",
+  "created_at": "2014-12-22T16:02:10+00:00",
+  "updated_at": "2024-09-30T20:45:58+00:00",
+  "rating": 66,
+  "_site": "scp-wiki",
+  "_fullname": "the-night-before-redacted"
+}

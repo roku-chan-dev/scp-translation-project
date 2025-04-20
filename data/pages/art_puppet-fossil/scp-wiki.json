@@ -1,0 +1,15 @@
+{
+  "title": "Puppet Fossil",
+  "content": "[[>]]\n[[module Rate]]\n[[/>]]\n\n[[include :scp-wiki:theme:basalt darkmode=a|hidetitle=a]]\n\n\n[[div class=\"crom-thumbnail\" style=\"display: none;\"]]\n[[include component:image-block name=https://scp-wiki.wdfiles.com/local--files/art%3Apuppet-fossil/puppet-fossil.png]]\n[[/div]]\n\n@@ @@\n\n\n[[image https://scp-wiki.wdfiles.com/local--files/art%3Apuppet-fossil/puppet-fossil.png]]\n\n@@ @@\n@@ @@\n@@ @@\n\n++ Fossilised //Archaeopteryx clotho sapiens//\n\n@@ @@\n@@ @@\n@@ @@\n@@ @@\n@@ @@\n@@ @@\n@@ @@\n@@ @@\n@@ @@\n@@ @@\n@@ @@\n@@ @@\n@@ @@\n@@ @@\n@@ @@\n@@ @@\n[https://scp-wiki.wikidot.com/fairydoctor-folio More from fairydoctor]\n\n@@ @@\n\n[[include :scp-wiki:component:license-box]]\n=====\n> **File:** puppet-fossil.png\n> **Author:** [[*user fairydoctor]]\n> **License:** CC-BY-SA 3.0\n> **Source Link:** https://scp-wiki.wdfiles.com/local--files/art%3Apuppet-fossil/puppet-fossil.png\n=====\n[[include :scp-wiki:component:license-box-end]]",
+  "tags": [
+    "_cc",
+    "artwork",
+    "painted"
+  ],
+  "author": "fairydoctor",
+  "created_at": "2023-11-10T18:48:02+00:00",
+  "updated_at": "2024-03-28T10:24:04+00:00",
+  "rating": 28,
+  "_site": "scp-wiki",
+  "_fullname": "art:puppet-fossil"
+}

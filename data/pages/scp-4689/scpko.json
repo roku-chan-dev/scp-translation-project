@@ -1,0 +1,19 @@
+{
+  "title": "SCP-4689",
+  "content": "[[include info:start]]\n**SCP-4689:** 사자가 뭐였어요?(What was a lion?)\n**저자:** [[*user Ihp]]\n**원작:** http://scp-wiki.wikidot.com/scp-4689\n**역자:** [[*user TocoT0ucan_98]]\n\n> **명칭:** Lion waiting in Namibia.jpg\n> **저자:** Kevin Pluck\n> **라이선스:** CC BY 2.0\n> **출처:** [https://en.wikipedia.org/wiki/File:Lion_waiting_in_Namibia.jpg Wikimedia Commons]\n[[include info:end]]\n\n[[include component:image-block name=https://upload.wikimedia.org/wikipedia/commons/7/73/Lion_waiting_in_Namibia.jpg|caption= 21세기 초에 촬영된 //Panthera leo// 표본. ]]\n\n**일련번호:** SCP-4689\n\n**등급:** 무효\n\n**특수 격리 절차:** N/A\n\n**설명:** SCP-4689는 성체 수컷 두 마리, 성체 암컷 일곱 마리, 유년기 수컷 세 마리, 그리고 유년기 암컷 네 마리로 이루어진 //Panthera leo// 프라이드[[footnote]]흔히 아프리카 사자(African Lion)로 더 잘 알려져 있으며, 2037년에 멸종된 대형 육식성 고양잇과 종이다. \"프라이드,,Pride,,\"는 이 동물의 대규모 집단을 가리키는 데 쓰였던 집합명사로, 늑대의 \"팩,,pack,,\"이나 새의 \"떼,,flock,,\"와 비슷한 뜻이다. [[/footnote]]였다. 해당 종의 수준을 넘어선 눈에 띄는 변칙적 특성은 없었으며, SCP-4689 개체들 모두 멸종 이전 //Panthera leo//에게서 흔히 관찰되던 육체적 및 정신적 수준만을 보였다.\n\nSCP-4689는 2143년 3월, 앙골라의 오지에서 몇몇 농부들이 '커다랗고, 털이 수북한 치타들'이 가축을 괴롭히고 있다고 신고한 이후 살아 있는 상태로 발견되었다. 살아 있는 사자에 대한 보도가 대중매체에 유포되기 시작했다. SCP-4689의 발견 및 격리 직후, 재단은 유전자를 변형시킨 하이에나의 사체를 이용해 이러한 보도들의 신빙성을 떨어뜨렸다.\n\n윤리위원회의 명령에 따라, 모든 SCP-4689 개체들은 2150년 10월에 안락사 처리되었다. 프라이드 내 모든 성체 구성원들의 연령 상승과, 유년기 개체들이 겪을 유전적 병목현상 때문에 이는 가장 인도적인 조치로 여겨졌다. 이전에, 윤리위원회는 SCP-4689를 야생으로 돌려보내는 방안을 고려중이었다. 그러나, 대중이 //Panthera leo//의 멸종을 받아들였으며, 이 동물이 한때 있었던 위치를 이미 치타, 하이에나, 표범이 차지하고 있다는 사실로 인해 그 방안은 대규모 장막 파괴로 간주되었다.\n\n[[footnoteblock]]\n\n------\n\n[[div style=\"border:solid 1px #999999; background:#f2f2c2; padding:5px; margin-bottom: 10px;\"]]\n[[=]]\n++++ 기록정보보안행정처(RAISA) 공지\n\n위 문서는 오하이오에 위치한 클리블랜드 메트로파크 동물원(Cleveland Metroparks Zoo)의 창고에서 회수된 것으로, 뒷면에 가장 가까운 재단 기지의 전화번호가 적혀 있었다. 이것은 \"아이들이 '사자가 뭐였어요?'라고 물어보게 되는 날이 온다면 슬플 거예요. \"라는 문구가 있는 동물원 관람용 표지판에 붙어 있었다.\n\n동물원 구내를 조사한 결과, 시간적 조작이 가해진 증거가 발견되었다. 동물원의 모든 시계가 각기 다른 시간대를 가리키고 있었고, 창고 주변의 식물에서 비정상적인 성장 패턴이 보였으며, 동물원 입구 근처의 화장실에는 일시적인 부식이 있었다. 윤리위원회는 멸종위기종 보존 문제가 재단의 권한에 해당하는지 아닌지의 여부에 대해서 2020년 초에 논의할 예정이다.\n\n[[/=]]\n[[/div]]",
+  "tags": [
+    "en",
+    "scp",
+    "동물",
+    "무효",
+    "생물",
+    "시간",
+    "윤리위원회"
+  ],
+  "author": "TocoT0ucan_98",
+  "created_at": "2020-04-24T05:57:54+00:00",
+  "updated_at": "2024-11-21T11:46:15+00:00",
+  "rating": 8,
+  "_site": "scpko",
+  "_fullname": "scp-4689"
+}

@@ -1,0 +1,20 @@
+{
+  "title": "SCP-8401",
+  "content": "[[include :scp-wiki-cn:theme:basalt hidetitle=a]]\n[[include :scp-wiki:theme:turbo-vision blocks=-]]\n=====\n[[include component:preview\ntext=\n至少你没孤身死去。\n]]\n=====\n[[module css]]\n:root {\n  --logo: url(https://scp-wiki.wdfiles.com/local--files/secure-facility-dossier-site-58/58logo.png);\n  --title: \"SITE-58:\";\n  --subtitle: \"弥合我们之间的鸿沟\";\n}\n.email-example .collapsible-block-folded a.collapsible-block-link {\n    animation: blink 0.8s ease-in-out infinite alternate;\n}\n@keyframes blink {\n    0% { color: transparent; }\n    50%, 100% { color: #b01; }\n}\n.email {border: solid 2px #000000; width: 88%; padding: 1px 15px; margin: 10px; box-shadow: 0 1px 3px rgba(0,0,0,.5)}\n.email-example a.collapsible-block-link {font-weight: bold;}\n.tofrom {margin-left: 10px; margin-top: 5px; padding: 1px 15px; border-left: solid 3px maroon}\n[[/module]]\n\n[[include :scp-wiki-cn:component:anomaly-class-bar-source\n|lang= cn\n|item-number= SCP-8401\n|clearance= 2\n|container-class= keter\n|secondary-class=\n|secondary-icon=\n|disruption-class= vlam\n|risk-class= 待观察\n\n]]\n\n------\n\n[[include component:image-block\nname=https://scp-wiki.wdfiles.com/local--files/scp-8401/Axolotl.png|\ncaption= SCP-8401在收容中。\n]]\n\n**特殊收容措施：**SCP-8401将被收容于Site-58的标准小型动物水族箱内。已为它植入小型防水GPS追踪器。若从其水箱内消失超过30分钟，将参照追踪数据尽快找回SCP-8401。\n\n**描述：**SCP-8401是一只//Ambystoma mexicanum// (钝口蝾螈)，体型和体重为平均水平。它能够发出言语，确信其具有智能，但对任何问话或交流尝试都不作回应。\n\nSCP-8401能够进行长距离传送。当SCP-8401侦测到某人受伤，它会瞬间移动到该人附近。尚不清楚SCP-8401以何种标准来确认其传送目标。收容前现身情况的略缩记录抄录如下。\n\n||~ 日期 ||~ # 伤亡数 ||~ 备注 ||\n|| 30/08/24 || 27 || 在混分突袭后在Site-17发现。伤口从子弹伤到严重头部创伤不等。异常在被目击时消失。||\n|| 04/09/24 || 54 || 在Site-34大规模收容突破后发现。异常钻入了一名死亡特工开放的胸腔内，在将其捕获前即消失。||\n|| 18/11/24 || 0 ||在Dr. Rosemary脚趾撞上桌子后发现于Site-58。在Dr. Rosemary试图抓住该异常时，它逃出了办公室门，随即消失。||\n\n**附录8401.1：**发现\n\nSCP-8401首次被发现时正落在特工Drew Mayweather的尸体上，他在Site-19的一次小规模收容突破中身亡。起初认为它是造成特工死亡的原因，以极端谨慎对其处理。在查验特工Mayweather的随身摄像机后，收容措施得以放松，录像内容抄录如下。\n\n[[div class=\"blockquote\"]]\n\n**前言：**多余视频略去。\n\n**<开始记录>**\n\n//Mayweather特工爬向附近墙壁，靠在墙上。他粗重呼吸，以手捂住胃部。他把手挪开，露出躯干上有一巨大切口。//\n\n**Mayweather：**操—操....这下真完了，哈？ \n\n//Mayweather猛烈吐气，向后倒去。//\n\n**Mayweather：**大概我应该早有预料。我只是...\n\n//Mayweather环视周围，猛烈吐气。//\n\n**Mayweather：**...真希望我不会孤身死去。\n\n//SCP-8401在半空中显现，柔软一扑落在了他的大腿根上。特工Mayweather一阵抽搐。//\n\n**SCP-8401：**嗨呀！\n\n**Mayweather：**什—什么鬼？！\n\n**SCP-8401：**天哪天，你看起不太好！\n\n**Mayweather：**什么？ \n\n**SCP-8401：**看起来你这遭得有点难受呀！天呐噫这肯定痛得很！\n\n**Mayweather：**嗯—嗯。这...\n\n//Mayweather语无伦次，咳出一滩血，喷在SCP-8401脸上。//\n\n**SCP-8401：**呀！彩纸屑！\n\n//Mayweather颤抖。//\n\n**SCP-8401：**告诉我，现在痛起来是觉得蝾易一点还是螈满一点呀？\n\n//Mayweather倒了下去，没有反应。//\n\n**SCP-8401：**先生？\n\n**<记录结束>**\n\n[[/div]]\n\n[[div class=\"footer-wikiwalk-nav\"]]\n[[=]]\n<< [[[SCP-8400]]] | SCP-8401 | [[[SCP-8402]]] >>\n[[/=]]\n[[/div]]\n\n[[include :scp-wiki-cn:component:license-box\n|author=OriTiefling & Queerious\n|translator=ashausesall\n]]\n=====\n> **文件名：**Axolotl.png\n> **图像作者：**LaDameBucolique\n> **授权协议：**Public Domain\n> **来源链接：***https://upload.wikimedia.org/wikipedia/commons/thumb/5/5c/Axolotl-2193331_1280.webp/640px-Axolotl-2193331_1280.webp.png\n> **备注：**Axolotl :)\n=====\n[[include :scp-wiki-cn:component:license-box-end]]",
+  "tags": [
+    "keter",
+    "scp",
+    "两栖类",
+    "传送",
+    "动物",
+    "合著",
+    "活物",
+    "褪色繁星"
+  ],
+  "author": "ashausesall",
+  "created_at": "2024-07-27T08:41:25+00:00",
+  "updated_at": "2024-09-17T20:39:26+00:00",
+  "rating": 1,
+  "_site": "scp-wiki-cn",
+  "_fullname": "scp-8401"
+}

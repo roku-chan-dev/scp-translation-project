@@ -1,0 +1,23 @@
+{
+  "title": "SCP-1504-KO",
+  "content": "[[module CSS]]\n.notice{\n    border: 1px solid #f9e24d;\n    outline: 4px solid #b54d3b;\n    color: #f9e24d;\n    background: #b54d3b;\n    padding: 10px;\n    text-align: center;\n}\n[[/module]]\n\n[[include :scp-wiki-cn:credit:start-standalone]]\n**标题：**SCP-1504-KO - 腐坏\n**作者：**[[*user romrom]]\n**译者：**[[*user Backlight SH]]\n**发布年份：**2023年\n[[include :scp-wiki-cn:credit:end-standalone]]\n\n[[div class=\"notice\"]]\n++++ 来自[[[domc-hub|基金会误传部]]]的通知\n\n以下文档涉及一具备沟通性异常的个体，其内容皆为字面含义，且十分无趣。\n\n——Eli Forkley，误传部主管\n[[/div]]\n\n@@@@\n@@@@\n\n**項目编号：** SCP-1504-KO\n\n**项目等级：**Boring\n\n**特殊收容措施：**通往SCP-1504-KO的入口已被封锁。所有受项目影响而出现沟通障碍或信息危害的人员均需要接受记忆删除，并回到岗位工作。\n\n基金会人员通常会被分配的工作无聊且乏味，但他们会尽职完成之。\n\n**描述：** SCP-1504-KO泛指6颗已压碎的番茄以及一盘番茄意面，上述个体未表现出腐坏迹象，且对一切物理交互表现出排斥性。\n\n另外，调查显示上述个体似乎有着某种过时的幽默感。它们所讲的笑话并不好笑，但亦不蹩脚。然而大部分人员的证词都公认SCP-1504-KO“确实非常无趣”。\n\n**发现记录：** Site-19扩建期间，工作人员于地下三层的一处洞穴内发现了SCP-1504-KO。上述的洞穴内仅有一间无任何入口的收容间，站点设计图上的该地区仅有墙壁。收容间的内部结构与站点的标准收容间相一致，其中存在若干物品，具体列表如下：\n\n* 两只纸喇叭。\n* 一本《笑话大全》，一半的书页被烧毁。\n* 十根蜡烛，全部燃尽。\n* 一台冰箱，内有SCP-1504-KO与一块巧克力慕斯蛋糕，蛋糕未腐坏。\n* 一张桌子。\n* 一把椅子。\n* 一本喜剧手稿，名为《世界上最有趣的笑话》，纸张上写有大量批评的句子，无法通过笔迹分析判定写作者身份。\n* 两件无趣的物品。\n\n此外，在现场发现一块黄铜标牌掉落在地，上书如下文字：\n@@@@\n@@@@\n [[div style=\"display: inline-block; border:dashed 1px #999999; background:#F5F5F5; float:center; width:84%; padding:1px 15px; margin: 10px 10px 10px 40px\"]]\n\n[[=]]\n\n**笑话**\n\n十分无趣，仍需收容并继续观察。\n\n把大象放进去。\n\n**SCP基金会 [[span class=\"ruby\"]]反常部[[span class=\"rt\"]]Department of Abnormality[[/span]][[/span]]**\n\n[[/=]]\n\n[[/div]]\n\n此为一则极有趣的笑话。",
+  "tags": [
+    "2023丰收节竞赛",
+    "ko",
+    "meta",
+    "scp",
+    "不可摧毁",
+    "反常部",
+    "机密分级",
+    "植物",
+    "活物",
+    "误传部",
+    "食物"
+  ],
+  "author": "Backlight SH",
+  "created_at": "2024-06-12T10:17:57+00:00",
+  "updated_at": "2024-09-03T13:13:19+00:00",
+  "rating": 6,
+  "_site": "scp-wiki-cn",
+  "_fullname": "scp-1504-ko"
+}

@@ -1,0 +1,14 @@
+{
+  "title": "10015",
+  "content": "overview: '地上デジタル放送中の複数のチャンネルにおいて番組が突如中断し、黒い背景に「アラートレベル5: 重要なお知らせです」という白文字が映し出されました。その後、非常に細い人型の生物を映したものと思われる不鮮明な写真が10秒間流れ、最後に同じく白文字で「20年前に殺すべきでした」と映し出されました。それからおよそ3秒間ノイズが流れた後に、全ての番組は通常のプログラムへと戻りました。'\nswdate: '1'\ndate: 2006年██月██日13時14分\nswplace: '1'\nplace: 東京都を除く関東地方全域\nswchaseprocedure: '1'\nchaseprocedure: 高度な技術を持つ者による悪戯の電波ジャックであるとの情報を一般に流布しました。懐疑的な専門家には標準的箝口手順を適用しました。\nswaddendum: '0'\naddendum: ''\ntf2: '1'\nauthor: grejum\nredirect-b: '[[module Redirect destination=\"/log-of-extranormal-events-jp'\nredirect-e: '\"]]'",
+  "tags": [
+    "jp",
+    "剪定対象-子"
+  ],
+  "author": "machikawa",
+  "created_at": "2020-07-22T16:31:48+00:00",
+  "updated_at": "2021-05-24T13:20:43+00:00",
+  "rating": 181,
+  "_site": "scp-jp",
+  "_fullname": "extranormal-events-jp:10015"
+}

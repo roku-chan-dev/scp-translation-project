@@ -1,0 +1,13 @@
+{
+  "title": "SPC-6500-5",
+  "content": "[[include :scp-wiki-cn:theme:black-highlighter-theme]]\n[[include :scp-wiki-cn:theme:extra-black-highlighter-theme]]\n[[include :scp-wiki-cn:theme:shark-punching-centre-bhl]]\n[[include :scp-wiki:component:toggle-sidebar-bhl]]\n[[include :scp-wiki:component:centered-header-bhl]]\n[[module CSS]]\n#content-wrap::before {\n  content: \"\";\n  position: absolute;\n  height: 100%;\n  width: 100%;\n  top: 0;\n  left: 0;\n  background-repeat: repeat-x;\n  pointer-events: none;\n  opacity: 0.0;\n}\n[[/module]]\n\n其实真的完全没得选择，是吧？\n\n这是我们唯一的生活方式。这是我们所知的唯一世界。这里不存在选择。\n\n如果没有目的，我们就不会存在。这么做不是背叛我们的体系，而是背叛我们自己。对我们来说，改革是没有希望的。赎罪是没有希望的。我们不能回头。\n\n只有无尽虚无暴力的狂欢。\n\n我们是殴鲨员。\n\n[http://scp-wiki-cn.wikidot.com/spc-6500/offset/6 我们挥拳从天空打向大海。]",
+  "tags": [
+    "段落"
+  ],
+  "author": "Esperanza_Cai",
+  "created_at": "2021-11-16T10:32:38+00:00",
+  "updated_at": "2021-11-16T10:33:17+00:00",
+  "rating": 0,
+  "_site": "scp-wiki-cn",
+  "_fullname": "fragment:spc-6500-5"
+}

@@ -1,0 +1,14 @@
+{
+  "title": "脚注",
+  "content": "文章に脚注を付ける場合は{{@@[[footnote]]@@}} というタグを使用します。脚注リストを文末__以外__の場所に表示したい場合は {{@@[[footnoteblock]]@@}}を使用します。\n\n[[div style=\"background-color:#EEE;border:dashed #CCC 1px;\"]]\n何かしらのテキスト@@[[footnote]]そして脚注[[/footnote]]。更に別の脚注[[footnote]]もう1つの脚注の内容[[/footnote]]@@。\n\n@@[[footnoteblock]]@@\n[[/div]]\n\n何かしらのテキスト[[footnote]]そして脚注[[/footnote]]。更に別の脚注[[footnote]]もう1つの脚注の内容[[/footnote]]。\n\n[[footnoteblock]]\n\nもし標準の脚注タイトル(\"脚注\")に満足できない場合は {{@@[[footnoteblock title=\"Custom title\"]]@@}} を使用して好きな脚注を付けたり、titleの箇所を(title=\"\")と記述して脚注タイトルをなくしたりする事ができます。",
+  "tags": [
+    "jp",
+    "リファレンス"
+  ],
+  "author": "C-take",
+  "created_at": "2018-04-09T12:35:44+00:00",
+  "updated_at": "2023-01-13T12:08:32+00:00",
+  "rating": 14,
+  "_site": "scp-jp",
+  "_fullname": "wiki-syntax:footnotes"
+}

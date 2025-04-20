@@ -1,0 +1,21 @@
+{
+  "title": "SCP-5709",
+  "content": "[[include :scp-wiki-cn:theme:blankstyle]]\n[[module css]]\nbody{\n    --barColour: #b8a499;\n}\n\n:root{\n  --header-title: \"战术神学部\";\n  --header-subtitle: \"亚伯拉罕分部\";\n}\n@media (max-width: 768px) {\n    :root {\n         --header-title: \"战术神学部\";\n    }\n}\n\ndiv#extra-div-1 {\n    background-image: url(http://topia.wikidot.com/local--files/in-heaven-a-spirit-doth-dwell/tactical-theology.png);\n    filter: opacity(20%);\n}\n\n#header h1 a::before,\n#header h2::before {\n    background: -webkit-linear-gradient(#801818, #000000);\n    -webkit-background-clip: text;\n    -webkit-text-fill-color: transparent;\n}\n#page-content .info-container {\n    --link-color: rgb(var(--swatch-text-general));\n}\n\n#page-content .info-container .translation_block {\n    display: none;\n}\n\n#page-content .info-container .collapsible-block-link,\n#page-content .info-container:hover .collapsible-block-link {\n    line-height: 1.6em;\n}\n\n#page-content .info-container .collapsible-block-folded,\n#page-content .info-container .collapsible-block-unfolded-link {\n    display: grid;\n}\n\n#page-content .info-container .collapsible-block-folded .collapsible-block-link,\n#page-content .info-container .collapsible-block-link {\n    -webkit-mask: unset;\n            mask: unset;\n    background: transparent;\n    grid-column: 1;\n    grid-row: 1;\n    opacity: 0;\n}\n\n#page-content .info-container .collapsible-block-folded::before,\n#page-content .info-container .collapsible-block-unfolded-link::before {\n    --wght: 800;\n    content: \"Elenee FishTruck\";\n    color: #FFFFFF;\n    font-family: Inter, Arimo, Verdana, Geneva, \"Helvetica Neue\", \"Helvetica\", Arial, sans-serif;;\n    display: block;\n    pointer-events: none;\n    grid-column: 1;\n    grid-row: 1;\n    line-height: 2.75ex;\n}\n[[/module]]\n\n[[include :scp-wiki-cn:component:info-ayers\n|page=scp-5709\n|authorPage=elenee-s-author-page\n|comments=\n\n= **SCP-5709** - //有灵栖于天堂//\n\n----\n\n= Elenee FishTruck所作\n]]\n\n[[include :scp-wiki:component:classified-bar-woed\n|lv=5\n|item=5709\n|oc=ISRAFIL\n|lang=CN\n|trans-level=级\n|trans-classified=机密\n]]\n\n----\n\n[[include component:image-block\n| name=https://scp-wiki.wdfiles.com/local--files/scp-5709/door.jpg\n| caption=SCP-5709的入口。\n]]\n\n**特殊收容措施：**已安排一名守卫巡守SCP-5709。禁止未经授权的访问与了解。\n\n----\n\n**描述：**SCP-5709是一座泥砖小屋，位于内盖夫沙漠。其外部没有窗户或是其他开口，仅有一扇门作为通往内部的唯一入口。\n\n该建筑的内部显现出一种逆模因性质，会阻止个人在离开它后记住其外观、属性或其他内容。通过建立收容之后的采访，基金会已经确定了以下关于SCP-5709内部的信息：\n\n* 它没有照明。\n* 它不空荡。\n* 它没有活物或其他能动的物体。\n* 它不暖和。\n* 它不是用泥砖建造的。\n* 它不粗糙。\n* 它没有在燃烧。[[footnote]]阿吉巴评级现无定论。[[/footnote]]\n* 它不是第一个或最后一个如此的。\n* 它既没有运转，也并非完整。\n* 它没有打开。\n* 它没有关闭。\n\n一块黄铜制的牌匾被用螺栓固定在靠近入口的外部，内容如下：\n\n> 反常状态：ISRAFIL\n\n----\n\n**附录5709.1：**发现日志\n\n在第一次尝试探索时，一具人形尸体从内部冲撞出来，冲出数米之外并撞伤几名人员。该尸体没有任何衣物，也没有生殖器、肛门和鼻孔。它的手臂在手腕处与从其嘴里伸出的一长圆锥形物体融为一体，且通体为三级烧伤。虽然后已将其放入一个人类尸体袋内进行运输，但基金会病理学家在打开袋子之后却发现尸体消失了。\n\n这具尸体引发了目击者的幻听，听到的声音类似于刺耳的铜管乐器。受影响者报告称[数据删除]。其所代表的末世论意义将由战术神学部研究决定。\n\n[[footnoteblock]]\n\n[[div class=\"footer-wikiwalk-nav\"]]\n[[=]]\n<< [[[SCP-5708]]] | SCP-5709 | [[[SCP-5710]]] >>\n[[/=]]\n[[/div]]\n\n[[include :scp-wiki-cn:component:license-box\n|author=Elogee FishTruck\n|translator=Lovesicker\n]]\n=====\n> **文件名：**door\n> **图像名：**Lotanrecycle post door detail.jpg\n> **图像作者：**Yoav Dothan\n> **授权协议：**公有领域\n> **来源链接：**[https://commons.wikimedia.org/wiki/File:Lotanrecycle_post_door_detail.jpg 维基共享]\n=====\n[[include :scp-wiki-cn:component:license-box-end]]",
+  "tags": [
+    "scp",
+    "反常部",
+    "宗教",
+    "尸体",
+    "幻觉",
+    "建筑",
+    "战术神学部",
+    "机密分级",
+    "逆模因"
+  ],
+  "author": null,
+  "created_at": "2021-04-14T13:13:17+00:00",
+  "updated_at": "2023-01-09T04:00:01+00:00",
+  "rating": 3,
+  "_site": "scp-wiki-cn",
+  "_fullname": "scp-5709"
+}

@@ -1,0 +1,13 @@
+{
+  "title": "Admin List",
+  "content": "{$str_admins}: [[user shfoakdls]] -- [[user Salamander724]] -- [[user QAZ135]]",
+  "tags": [
+    "관리"
+  ],
+  "author": "Salamander724",
+  "created_at": "2018-02-18T12:22:46+00:00",
+  "updated_at": "2023-07-30T14:50:50+00:00",
+  "rating": 1,
+  "_site": "scpko",
+  "_fullname": "component:admin-list"
+}

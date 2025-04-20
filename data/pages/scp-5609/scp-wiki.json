@@ -1,0 +1,22 @@
+{
+  "title": "SCP-5609",
+  "content": "[[>]]\n[[module Rate]]\n[[/>]]\n[[include :scp-wiki:component:classified-decoration\n|lv=2\n|item=5609\n|oc=Keter\n|lang=EN\n]]\n-----\n[[include component:image-block\n| name=memsat.jpg\n| caption=A component of the satellite array surrounding SCP-5609\n]]\n**Special Containment Procedures:** An array of Foundation-owned satellites surround SCP-5609 at all times, and are programmed to constantly project a selectively antimemetic field around the object to prevent its viewing by civilians. Unmanned research probe SCPS //Spearhead// has been landed on SCP-5609, and is currently being used to collect its tissue samples and take vital readings. Any changes in the orbital pattern of SCP-5609 are to be monitored, and circumvented via movement of the satellite array.\n \n**Description:** SCP-5609 is a massive (230 km in diameter), bioluminescent, spherical organism, currently in orbit 30,000 km above the earth's surface. SCP-5609 constantly emits yellow light, and upon cursory observation resembles a small moon.\n \nClose-up inspection of SCP-5609 has shown it to possess features similar to those of some beetle larvae, such as a small, discolored head with two compound eyes and two short mandibles; two visible legs protruding from underneath its head; and soft, segmented skin.\n \n**Addendum: Recovered Data**\n \nThe following is a list of data pertaining to SCP-5609, collected by SCPS //Spearhead.//\n \n* SCP-5609 moves periodically; however, such motion consists of not much more than momentary twitching of its legs and mandibles.\n* SCP-5609 lacks the ability to steer and propel its body through space. Its orbit is entirely passive.\n* The metabolism of SCP-5609 is hypothesized to be up to 3,000 times slower than that of any terrestrial insect.\n* The presence of spiracles[[footnote]]Breathing organs found on terrestrial insects[[/footnote]] on the body of SCP-5609 indicate that it is not biologically suited for survival in a vacuum.\n* A section of skin on the back of SCP-5609 protrudes from the organism, as if being pulled.\n\n**Addendum: Incident Log**\n \nOn March 22, 2021, SCP-5609 disappeared, along with SCPS //Spearhead//. The anomaly was reclassified as Neutralized after an extensive search of the area of outer space surrounding Earth found no trace of it.\n \nOne month later, SCPS //Spearhead// re-appeared in high Earth orbit and immediately fell through the atmosphere. Despite sustaining heavy damage upon crash-landing, the following audio log remained intact.\n \n[[div class=\"blockquote\"]]\n//(Heavy static is audible, but dissipates after 7 seconds. Upon its dissipation, two voices are heard.)//\n \n**Unknown-1:** Hoooooo-eeee! Now //this// one's bound to be a doozy.\n \n**Unknown-2:** Can't believe they bit. Oh, we'll sure be eatin' well tonight!\n \n//(After a few moments, the voices become louder. The recording distorts slightly as a result.)//\n \n**Unknown-2:** Hey, Willie? Uh... you gotta see this.\n \n**Unknown-1:** What the- awwwww, c'mon, not this //again.//\n \n**Unknown-2:** What is it?\n \n**Unknown-1:** Oh, just another one of those shiny bugs. Toss it back in.\n \n**Unknown-2:** Could I keep it? It looks pretty cool.\n \n**Unknown-1:** //(Audibly sighs)// You can't //eat// cool, Amos.\n \n**Unknown-2:** All right, all right, //fine.// //(The sound of rushing air is heard, followed by a loud splash. The voices begin to fade.)//\n \n**Unknown-1:** ...gotta cast out by the moon next time. I heard tell the folks there're a bunch more gullible.\n \n//(Static becomes audible. The recording ends.)//\n[[/div]]\n \nThe area surrounding the moon is currently being monitored for signs of SCP-5609 re-emergence.\n\n[[footnoteblock]]\n\n[[div class=\"footer-wikiwalk-nav\"]]\n[[=]]\n<< [[[SCP-5608]]] | SCP-5609 | [[[SCP-5610]]] >>\n[[/=]]\n[[/div]]",
+  "tags": [
+    "_cc",
+    "_marine",
+    "biological",
+    "extraterrestrial",
+    "insect",
+    "jam-con2021",
+    "keter",
+    "moon",
+    "scp",
+    "sphere"
+  ],
+  "author": "Tyumen",
+  "created_at": "2021-03-22T21:36:53+00:00",
+  "updated_at": "2022-09-26T21:27:14+00:00",
+  "rating": 49,
+  "_site": "scp-wiki",
+  "_fullname": "scp-5609"
+}

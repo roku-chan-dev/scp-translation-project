@@ -1,0 +1,27 @@
+{
+  "title": "SCP-CN-1252",
+  "content": "[[include :scp-wiki-cn:theme:black-highlighter-theme]]\n[[include :scp-wiki:component:bhl-dark-sidebar]]\n\n[[>]]\n[[module Rate]]\n[[/>]]\n\n[[module ListPages category=\"fragment\" parent=\".\" limit=\"1\" order=\"name\" offset=\"@URL|0\"]]\n\n%%content%%\n[[/module]]\n\n[!-- http://scp-wiki-cn.wikidot.com/fragment:1252-01 --]\n[!-- http://scp-wiki-cn.wikidot.com/fragment:1252-02 --]\n[!-- http://scp-wiki-cn.wikidot.com/fragment:1252-03 --]\n\n[[footnoteblock]]\n\n[[div class=\"footer-wikiwalk-nav\"]]\n[[=]]\n<< [[[SCP-CN-1251]]] | SCP-CN-1252 | [[[SCP-CN-1253]]] >>\n[[/=]]\n[[/div]]",
+  "tags": [
+    "scp",
+    "site-cn-10",
+    "不可摧毁",
+    "原创",
+    "城市",
+    "天空",
+    "心灵感应",
+    "敌意",
+    "无形",
+    "机密分级",
+    "模因",
+    "气象",
+    "自主",
+    "认知危害",
+    "记忆影响"
+  ],
+  "author": "aplous",
+  "created_at": "2020-06-02T12:43:16+00:00",
+  "updated_at": "2021-01-15T13:08:31+00:00",
+  "rating": 58,
+  "_site": "scp-wiki-cn",
+  "_fullname": "scp-cn-1252"
+}

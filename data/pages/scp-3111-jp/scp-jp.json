@@ -1,0 +1,22 @@
+{
+  "title": "SCP-3111-JP",
+  "content": "[[include :scp-jp:theme:foxtrot]]\n[[include :scp-wiki:component:pride-highlighter |inc-lgbt= --]]]\n\n[[module css]]\n\ndiv#extra-div-1 {\n   background-image: var(--logo-image);\n}\n\n.credit{\n  max-height: 150px;\n  overflow-y: auto;\n}\n\n[[/module]]\n\n[[include :scp-jp:credit:start]]\n\n**タイトル:** SCP-3111-JP - 嵐を呼ぶ御老体##gray|（The Stormy Elder）##\n**著者:** [[*user Witherite]]\n**作成年:** 2023\n\n[[include :scp-jp:credit:end]]\n\n[[div style=\"height:12px;\"]]\n[[/div]]\n\n[[div class=\"anom-bar-esoteric\"]]\n[[include :scp-jp:component:anomaly-class-bar-source\n|item-number= 3111-JP\n|clearance= 2\n|container-class= safe\n|secondary-class= sköll\n|secondary-icon= http://scp-jp-storage.wdfiles.com/local--files/file%3A6370408-261-uzim/Skoll.png\n|disruption-class= vlam\n|risk-class= caution\n]]\n[[include :scp-jp:component:customizable-acs\n|containment-class= safe\n|containment-image= http://scp-jp.wikidot.com/local--files/component:anomaly-class-bar/safe-icon.svg\n|containment-color= 0,159,107\n|inc-esoteric-layout = --]]]\n[[/div]]\n\n----\n\n[[include component:image-block\n    name=http://scp-jp-storage.wdfiles.com/local--files/file%3A6370408-259-tgdw/expriment.jpg|\n    caption=SCP-3111-JPの実験後。|\n    width=300px|\n]]\n\n**特別収容プロトコル:** SCP-3111-JPはサイト-81BWの標準収容セルで投薬によって昏睡状態に置かれています。このセル内には可能な限り物体は導入されず、必要な物体は部屋に固定されます。\n\nSCP-3111-JPは現在重篤な健康状態になっています。[[span class=\"fnnum\"]].[[/span]][[span class=\"fncon\"]]Sköllクラスアノマリーは無力化の途上にあります。[[/span]]SCP-3111-JPが死亡した場合、オブジェクトクラスのNeutralizedへの再分類が予期されています。\n\n----\n\n**説明:** SCP-3111-JPは、財団研究員でサイト-81BW[[span class=\"ruby\"]]翻訳・転写部[[span class=\"rt\"]]Translation and Transcription Sector[[/span]][[/span]]長であった小塙 武雄博士です。\n\n彼は、その意に反して周囲およそ6メートルの物体に一見無作為な運動エネルギーを与えます。このエネルギーの大きさの平均値は、彼の意識レベルによって変化します。すなわち、彼の意識が明瞭であるほど周囲の物体は激しく動き、彼が意識を失った状態では運動は抑制されます。この現象は、彼の脳の活動が原始的に外部に反映されている結果であると仮説立てられています。このため、彼が死亡した場合、異常性は無力化されると考えられています。\n\n~~~~\n\n----\n\n[[include component:image-block\n    name=http://scp-jp-storage.wdfiles.com/local--files/file%3A6370408-260-9799/kobanawa.jpg|\n    caption=小塙 武雄博士、2019年。|\n    width=150px|\n    align=left |\n]]\n\n**補遺3111-JP-1、現象論的概説:** サイト-81BWで当時翻訳・転写部長であった小塙博士は、2021年4月、78歳のときにII期のすい臓がんであることが判明し、すでにリンパ節に転移していました。このため、がんの摘出手術や化学療法が行われたものの、予後は不良でした。治療のため、彼は部長を辞職し、名誉職員として可能な任務を行うようになりました。その後、2022年6月にすい臓がんの再発が確認されました。これを受けてさらなる侵襲的療法が行われましたが、効果は見られず、同年10月にはがんが肝臓に移転していることが判明しました。このため、彼と彼の家族は終末期ケアに移行することに決定し、サイト-81BWの[[span class=\"ruby\"]]保健・福祉部[[span class=\"rt\"]]Health and Welfare Sector[[/span]][[/span]]でそれを受けることになりました。\n\n2022年12月、サイト-81BWで収容違反が発生しました。この際、保健・福祉部はその影響を受ける可能性は低いと考えられていましたが、実際には収容対象の異常効果が病室にまでおよびました。これにより、患者やH&W職員の一部には、負傷や部分的異常性の獲得など様々な予測不能の影響がもたらされたものの、そのほぼ全てが一過性のものでした。唯一の例外が小塙博士であり、彼は前述の異常性を現在まで保有し続けています。\n\n彼が異常性を獲得した際、周囲の装置や器具類は激しく移動したため、職員は避難せざるを得ませんでした。こののち、彼が本来の医学的状態のために意識を失い、周囲のかく乱が抑制されたため、彼は確保されて収容セルに収容されました。その後、周囲の状況が彼の意識レベルに相関することが判明したのち、彼は恒久的な昏睡状態に置かれることになりました。他のばく露者が回復する中で彼だけが異常性を保持し続けていたことを受けて、彼はSCP-3111-JPに指定されました。\n\n----\n\n**補遺3111-JP-2、倫理的問題:** 現在、SCP-3111-JPは恒久的な昏睡状態に置かれています。しかし、この処置は異常性獲得以前に行われていた終末期ケアから逸脱したものです。また、彼の本来の医学的状態は収容後も悪化し続け、IV期のすい臓がんはさらに腎臓や大腸にも転移しており、余命は3か月だと考えられています。\n\nこのため、異常性の保護の観点と倫理の観点との妥協案として、彼は昏睡状態に置かれながらも、積極的な延命措置は行われず、積極的な保護は放棄することが決定しました。彼は無意識状態であるため、刺激などを経験しているとは考えられておらず、したがって終末期ケアの際に行われていた苦痛の軽減措置は取られていません。\n\nなお、以前には解体を行う提言もありました。\n\n[[div class=\"blockquote\"]]\n\n[[=]]\n++ __**SCPオブジェクト解体提言フォーム**__\n[[/=]]\n**アイテム番号:** SCP-3111-JP\n\n**オブジェクトクラス:** Safe / Sköll\n\n**主任研究員:** 岡崎 輝彦研究員\n\n**支持する職員:**\n* //小塙 尊博士 - 翻訳・転写部長//\n\n**あなたの提言を提出する理由に関して、該当するボックスにチェックまたは書き込んでください:**\n☐ 捲くられたヴェールシナリオの過度に高いリスク\n☐ 過度な危険度\n☐ 解体可能なApollyonクラスオブジェクト\n☐ 費用\n☑ 必要な収容に関する倫理的懸念\n☐ 法的懸念\n☐ K-クラスシナリオの高いリスク (該当する場合、どのタイプか(複数可)を記入してください:@@____@@)\n☐ その他 (記入してください):\n\n**概要:** 彼がターミナルケアを受けることに決めたのは、意識もままならなくなってまで生きるよりは最期まで自分を保って死にたいと思ったからでした。今の状況は、もはやそれとは完全に逆行しています。彼はこのような事態になることを望まなかったでしょう。私もいささかも望んでいません。あのような状態で彼を生きながらえさせるのならば、むしろ一刻も早く彼を終了するのが倫理的であると考えます。 //-- 小塙部長//\n\n[[/div]]\n\nこの提言は、解体に必要な要件を満足していなかったため、却下されました。",
+  "tags": [
+    "_イベント2",
+    "esoteric-class",
+    "jp",
+    "scp",
+    "ジャムコン2023",
+    "人間型",
+    "外部エントロピー",
+    "熱力学",
+    "生命",
+    "知性"
+  ],
+  "author": "Witherite",
+  "created_at": "2023-02-12T11:11:57+00:00",
+  "updated_at": "2023-12-09T06:41:28+00:00",
+  "rating": 20,
+  "_site": "scp-jp",
+  "_fullname": "scp-3111-jp"
+}

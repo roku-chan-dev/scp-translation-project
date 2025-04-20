@@ -1,0 +1,14 @@
+{
+  "title": "AO-2496-JP",
+  "content": "content: \"**説明:** 裏面に1〜10の番号が書かれた10本の車両進入禁止標識。地面に設置されている時のみ、次の番号が書かれた標識との間に不可視の障壁を発生させる。\\n**回収日:** 20██/██/██\\n**回収場所:** ██県██市██山\\n**現状:** サイト-81██収容棟のセキュリティとして使用中。\\n**追記:** 円形になる様に配置されていたのを見つけたんですけど、何かを閉じ込めていたとかじゃないですよね…… - Agt.██\"\ntf2: '0'\nauthor: ''\nredirect-b: '[[module Redirect destination=\"http://ja.scp-wiki.net/log-of-anomalous-items-jp'\nredirect-e: '\"]]'",
+  "tags": [
+    "jp",
+    "剪定対象-子"
+  ],
+  "author": "AF_XLI",
+  "created_at": "2021-01-31T04:49:41+00:00",
+  "updated_at": "2024-04-21T18:48:34+00:00",
+  "rating": 20,
+  "_site": "scp-jp",
+  "_fullname": "anomalous-jp:02496"
+}

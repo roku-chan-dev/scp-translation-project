@@ -1,0 +1,16 @@
+{
+  "title": "Cack Simulator",
+  "content": "[[>]]\n[[module Rate]]\n[[/>]]\n\n[[div style=\"border:solid 1px #999999; background:#f2f2c2; padding:5px; margin-bottom: 10px;\"]]\n[[=]]\n++ SCP Foundation, Department of Logistics\n+++ __Mission-95012-2337 - Briefing__\n[[/=]]\n**Date:** 10/19/2019\n\n**Assigned Personnel:** Courier-49195\n\n**Object Involved:** [[[SCP-2337]]]\n\n**Risk:** Low\n\n**Description:** Using the provided undercover vehicle, you are to retrieve the object from its semi-annual paraveterinary consultation at [Address provided on mission start] in Raleigh, North Carolina. Then, you will transport the object to primary containment at Site-59. You will arrive no later than 1800 hours EST.\n\n**Vehicle Provided:** 2005 Ford E150 Cargo Van\n\n**Notes From Local Manager:** This is right up your alley, 49195. Quick and easy.\n\n[[=]]\n[https://scp-wiki.wdfiles.com/local--files/cack-simulator/cack-simulator.html -- begin --]\n[[/=]]\n[[/div]]\n\n[[include :scp-wiki:component:license-box]]\n=====\n> **Filename:** cack-simulator.html\n> **Author:** [[*user daveyoufool]]\n> **License:** CC BY-SA 3.0\n> **Source Link:** [https://scp-wiki.wikidot.com/cack-simulator SCP Foundation Wiki]\n=====\n[[include :scp-wiki:component:license-box-end]]",
+  "tags": [
+    "_licensebox",
+    "doctor-spanko",
+    "interactive",
+    "tale"
+  ],
+  "author": "daveyoufool",
+  "created_at": "2020-07-03T02:15:24+00:00",
+  "updated_at": "2022-08-23T10:14:19+00:00",
+  "rating": 69,
+  "_site": "scp-wiki",
+  "_fullname": "cack-simulator"
+}

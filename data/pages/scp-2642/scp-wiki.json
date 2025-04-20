@@ -1,0 +1,19 @@
+{
+  "title": "SCP-2642",
+  "content": "[[>]]\n[[module Rate]]\n[[/>]]\n\n[[include component:image-block name=Vase.jpg| caption=SCP-2642]]\n\n**Item #:** SCP-2642\n\n**Object Class:** Euclid\n\n**Special Containment Procedures:** SCP-2642 should follow all standard containment procedures for class-B infohazards, with the addition of biweekly visitation by a single Class-D personnel. Any noted breach of containment should result in the affected area being quarantined for a period of at least two weeks.\n\n**Description:** SCP-2642 is an item which may only be described as \"half of an elephant's face\", regardless of whether it retains that form or not. Any attempt by a subject to discern the bisecting line of the anomaly results in the profound feeling that they are wrong. The subject then derides itself for its incorrect answer. Insults tend to grow in vehemency and creativity as the subject continues to get the answer wrong. In 98 percent of cases, the subject will return to the object and attempt to guess correctly, with the \"incorrect\" result appearing to cause significant frustration and disappointment; levels of both appear to increase at a baseline, non-anomalous rate parallel to existing situations in which a subject is emotionally invested in the outcome. Exceptions to this occur when the item is not viewed or attempted within five days or less; this situation results in telepathic shouting of obscenities within an undetermined radius.\n\n**Addendum:** SCP-2642 was discovered on ██/██/04 after a suspicious increase in searches by search engine Google was recorded in ████, Washington, all pertaining to \"solving half an elephant's face\". After a routine examination by bots for potential anomalous activity, the Foundation was alerted and captured the object. Notably, alongside the object was a folded, sealed letter with no return address or identifying information. Inside the envelope was a piece of pink stationery, covered in red heart symbols. Both envelope and stationery were covered in scribbled drawings and obscenities. Broken pencil graphite was found inside the envelope.\n\nThe contents of the message read as follows:\n\n> FUCK YOU!!! NOW IT'S YOUR TURN.\n\n[[footnoteblock]]\n\n[[div class=\"footer-wikiwalk-nav\"]]\n[[=]]\n<< [[[SCP-2641]]] | SCP-2642 | [[[SCP-2643]]] >>\n[[/=]]\n[[/div]]\n\n[[include :scp-wiki:component:license-box\n|author=EldritchCadence]]\n=====\n> **Filename:** Vase.jpg\n> **Name:** File:Arte romana, olla in vetro soffiato, I-II sec. dc 01.JPG\n> **Author:** Sailko\n> **License:** CC BY-SA 3.0\n> **Source Link:** https://commons.wikimedia.org/wiki/File:Arte_romana,_olla_in_vetro_soffiato,_I-II_sec._dc_01.JPG\n\n=====\n[[include :scp-wiki:component:license-box-end]]",
+  "tags": [
+    "_cc",
+    "euclid",
+    "infohazard",
+    "memetic",
+    "sc2015",
+    "scp",
+    "telepathic"
+  ],
+  "author": "EldritchCadence",
+  "created_at": "2015-07-24T20:32:09+00:00",
+  "updated_at": "2020-11-29T06:42:29+00:00",
+  "rating": 53,
+  "_site": "scp-wiki",
+  "_fullname": "scp-2642"
+}

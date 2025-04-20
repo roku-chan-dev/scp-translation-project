@@ -1,0 +1,22 @@
+{
+  "title": "SCP-PL-355",
+  "content": "[[include :scp-jp:theme:pataphysics]]\n\n[[module CSS]]\n .div{margin:0.5em 0;padding:0 1em;background:hsl(0,0%,100%);border:1px solid hsl(000, 000%, 75%)}\n[[/module]]\n\n[[div style=\"margin-bottom: -0.5em\"]]\n[[include :scp-jp:info:start]]\n[[include :scp-jp:credit:cc4]]\n[[include :scp-jp:info:end]]\n[[/div]]\n\n[[div class=\"div\"]]\n\n[[include :scp-jp:component:flops-header\n|item=PL-355\n|containment=thaumiel\n|level=4\n|security=top secret\n|disruption=narrative amida\n|disruption-bg-color=hsl(268, 040%, 25%)\n]]\n\n[[/div]]\n\n[[div class=\"div\"]]\n\n[[size 115%]][[span style=\"color: hsl(268, 040%, 25%); font-weight: bold\"]]特別収容プロトコル[[/span]][[/size]]\n\n-----\n\n現在、[[span style=\"color: hsl(268, 040%, 25%); font-weight: bold\"]]プロジェクトFIREWALL[[/span]]はSCP-PL-355の効果を再現したのち、オブジェクトの複製品を全ての重要な財団施設に導入することを目標としています。[[span style=\"color: hsl(268, 040%, 25%); font-weight: bold\"]]プロジェクトFIREWALL[[/span]]ないしはSCP-PL-355に関する会議・公的討論については、いずれもオブジェクト内で執り行われなければなりません。\n\nSCP-PL-355に関する収容・研究任務は空想科学部門と特異建築部門に割り当てられます。O5評議会を除けば、上述の部署の職員のみがSCP-PL-355について知ることを許されます。\n\n[[/div]]\n\n[[div class=\"div\"]]\n\n[[size 115%]][[span style=\"color: hsl(268, 040%, 25%); font-weight: bold\"]]説明[[/span]][[/size]]\n\n-----\n\nSCP-PL-355は財団ポーランド支部の空想科学部門本部であるサイト-PL-07のある会議室です。SCP-PL-355は会議室に一般的な標準機器と、通常よりも遥かに長期に渡る議論を可能とするための追加資材を備えています。\n\nSCP-PL-355は[[span style=\"color: hsl(268, 040%, 25%); font-weight: bold\"]]プロジェクトFIREWALL[[/span]]の一環として、上位物語層の実体による観察を逃れるセーフゾーンを作成することを目的に、空想科学部門と特異建築部門の合同で建設されました。SCP-PL-355の設計には、そうした実体が下位現実をはっきりと観察するには接続点を必要とすること (通称「第四の壁現象」) が利用されています。\n\n数多くの実験と広範な研究を通して、特異建築部門の職員はいかなる長期的空間異常も発生させることなく、SCP-PL-355の位置するエリアを三次元幾何学から概念的に切り離すことに成功しました。従って、SCP-PL-355は第四の壁を有さない、直方体状の三次元閉鎖空間となります。これにより、SCP-PL-355内で生じるあらゆる出来事を上位層の実体による視認から防ぐことに成功し、それら実体の視野を大きく狭めることとなっています。\n\n[[/div]]\n\n[[div class=\"div\"]]\n\n[[size 115%]][[span style=\"color: hsl(268, 040%, 25%); font-weight: bold\"]]補足資料[[/span]][[/size]]\n\n-----\n\n以下は異常性の初試験を兼ねて行われた、SCP-PL-355を利用して初めて記録された会議の転写です。会合には空想科学部門、特異建築部門、監督評議会の代表者らが出席しました。\n\n[[=]]\n[[collapsible show=\"»ファイルを開く«\" hide=\"«ファイル閲覧中»\"]]\n\n[[div class=\"div\" style=\"background: rgb(250, 250, 250); font-weight: bold\"]]\n\n会議ログ\n\n-----\n\n«ログ開始»\n\n[[=image http://scp-jp-storage.wdfiles.com/local--files/file%3A3995762-327-tobh/White_wall.jpg style=\"width: 100%; border: 1px solid hsl(000, 000%, 75%)\"]]\n\n«ログ終了»\n\n[[/div]]\n\n[[/collapsible]]\n[[/=]]\n\n[[div style=\"height: 1em\"]]\n[[/div]]\n\n[[/div]]",
+  "tags": [
+    "pl",
+    "scp",
+    "thaumiel",
+    "メタ",
+    "建造物",
+    "概念",
+    "空想科学部門",
+    "語り",
+    "財団製",
+    "重訳"
+  ],
+  "author": "Kasugai_Kanagu",
+  "created_at": "2023-01-22T11:59:25+00:00",
+  "updated_at": "2023-01-22T12:19:26+00:00",
+  "rating": 52,
+  "_site": "scp-jp",
+  "_fullname": "scp-pl-355"
+}

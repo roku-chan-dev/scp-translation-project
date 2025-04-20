@@ -1,0 +1,14 @@
+{
+  "title": "02137",
+  "content": "content: \"[[include :scp-jp-sandbox2:inc:fakeprot |name= 名前を入力して下さい]]\\n\\n[[div class=\\\"collapsiblealt\\\"]]\\n[[collapsible show=\\\"認証\\\" hide=\\\"ログアウト\\\"]]\\n\\n\\n[[div style=\\\"text-align: center; color: #600;\\\"]]\\n[[div class=\\\"unmargined\\\"]]\\n警告:\\n[[/div]]\\n[[div class=\\\"unmargined\\\" style=\\\"font-size: 400%; font-weight: bold; margin: 2px 0 5px;\\\"]]\\n機密指定\\n[[/div]]\\n[[div class=\\\"unmargined\\\"]]\\nこのページへの許可無きアクセスは固く禁止されています\\n違反者は追跡、特定、拘留されます\\n[[/div]]\\n[[/div]]\\n\\n**説明:** 自身に関する情報を隠そうとする調理器具。詳細を閲覧するにはセキュリティクリアランスレベル5以上が必要です。\\n**回収日:** 20██/██/██\\n**回収場所:** ██県の民家\\n**現状:** 低脅威度物品収容ロッカーに収容\\n**追記:** なお、セキュリティのパスワードは全て半角数字で123456789です。 -██博士\\nザルですね。 -██研究員\\n[[/collapsible]]\\n[[/div]]\\n\\n\"\ntf2: '0'\nauthor: ''\nredirect-b: '[[module Redirect destination=\"http://ja.scp-wiki.net/log-of-anomalous-items-jp'\nredirect-e: '\"]]'",
+  "tags": [
+    "jp",
+    "剪定対象-子"
+  ],
+  "author": "K_Yayoi-Coke",
+  "created_at": "2020-10-02T05:29:47+00:00",
+  "updated_at": "2021-05-24T13:17:28+00:00",
+  "rating": 25,
+  "_site": "scp-jp",
+  "_fullname": "anomalous-jp:02137"
+}

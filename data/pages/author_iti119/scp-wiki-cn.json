@@ -1,0 +1,14 @@
+{
+  "title": "iti119的作者页面",
+  "content": "[[include :1119s:theme-b]]\n\n[!--[[include :1119s:login-animation\n|message=你好！\n欢迎来到iti119的作者页面！\n]]--]\n\n[[module ListUsers users=\".\"]]\n[[div class=\"%%title%%\" style=\"display:none;\"]]\n[[/div]]\n[[/module]]\n\n[[div class=\"machineTab workbench\"]]\n[[tabview]]\n\n[[tab ON/OFF]]\n[[/tab]]\n[[tab ON/OFF]]\n[[/tab]]\n\n[[tab SCP]]\n++* SCPs\n@@>@@ [[[SCP-2119-JP]]]\nRating : 11 ( +18 | -7 )\n\n@@>@@ [[[SCP-2129-JP]]]\nRating : 7 ( +24 | -17 )\n\n@@>@@ [[[SCP-2959-JP]]]\nRating : 32 ( +39 | -7 )\n[[/tab]]\n\n[[tab AO]]\n++* Anomalous Objects\n@@>@@ [[[AO-01974-JP]]]\nRating : 22 ( +24 | -2 )\n\n@@>@@ [[[AO-02024-JP]]]\nRating : 21 ( +21 | -0 )\n\n@@>@@ [[[AO-02047-JP]]]\nRating : 6 ( +8 | -2 )\n\n@@>@@ [[[AO-02575-JP]]]\nRating : 2 ( +3 | -1 )\n\n[[/tab]]\n[!-- 还没有\n[[tab EE]]\n++* Extranormal Events\n@@>@@\n[[/tab]]\n--]\n[[tab UE]]\n++* Unexplained Locations\n@@>@@ [[[UE-343343-JP]]]\nRating : 45 ( +49 | -4 )\n[[/tab]]\n\n[[tab Workbench]]\n[[include :1119s:workbench]]\n[[/tab]]\n\n[[/tabview]]\n[[/div]]\n\n[[module CSS]]\n/* machineTab customization */\n.machineTab .yui-navset .yui-nav li:nth-child(2),\n.machineTab .yui-navset .yui-nav li:nth-child(-n+2).selected {\n    display: none;\n}\n.machineTab .yui-navset .yui-nav li:nth-child(1).selected ~ li:nth-child(2) {\n    display: inline-block;\n}\n.machineTab .yui-navset .yui-nav li:nth-child(-n+2) {\n    width: 100%;\n}\n.machineTab .yui-navset .yui-nav li:nth-child(-n+2).selected {\n    transform: none;\n}\n.machineTab .yui-navset .yui-nav li:nth-child(1)::after {\n    background-color: #d2691e;\n}\n.machineTab .yui-content #wiki-tab-0-0 {\n    background: #000;\n}\n.machineTab .yui-content #wiki-tab-0-0::before,\n.machineTab .yui-content #wiki-tab-0-0::after {\n    display: none;\n}\n\n/* workbench */\n.workbench .yui-navset .yui-nav li:last-child {\n    display: none;\n}\n.iti119 + .workbench .yui-navset .yui-nav li:last-child {\n    display: inline-block;\n    width: 100%;\n}\n[[/module]]",
+  "tags": [
+    "jp",
+    "作者"
+  ],
+  "author": null,
+  "created_at": "2021-02-26T16:59:13+00:00",
+  "updated_at": "2021-03-18T18:28:03+00:00",
+  "rating": 7,
+  "_site": "scp-wiki-cn",
+  "_fullname": "author:iti119"
+}

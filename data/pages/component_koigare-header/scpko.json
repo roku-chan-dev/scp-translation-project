@@ -1,0 +1,15 @@
+{
+  "title": "코이가레자키신문사 헤드라인",
+  "content": "[[include :scpko:component:koigare-header-base\n|param={$param}\n|param=35\n|category={$category}\n|image={$image}\n|title={$title}\n|titlesize={$titlesize}\n|titlesize=130%\n|date={$date}\n|by={$by}\n]]",
+  "tags": [
+    "jp",
+    "구성요소",
+    "코이가레자키신문사"
+  ],
+  "author": "Salamander724",
+  "created_at": "2020-05-07T17:09:59+00:00",
+  "updated_at": "2022-02-06T06:37:24+00:00",
+  "rating": 0,
+  "_site": "scpko",
+  "_fullname": "component:koigare-header"
+}

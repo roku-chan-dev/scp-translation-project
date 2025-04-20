@@ -1,0 +1,17 @@
+{
+  "title": "SCP-CN-3052",
+  "content": "[[include :scp-wiki:theme:basalt darkmode=a]]\n[[module CSS]]\n@import url(http://dog-punch.wikidot.com/local--files/tes:10035/kugiri.css);\n\n#side-bar {\nmargin-left: 0 !important;\n}\n\n:root {\n    --title: \"SCP Foundation\";\n    --subtitle: \"黑暗日\";\n}\n\n[[/module]]\n[[>]]\n[[div style=\"text-align: right; margin-right: 3em; margin-top: -20px;\"]]\n[[size 85%]] (sccount-deleted)著[[/size]]\n[[/div]]\n[[/>]]\n[[module css]]\n.page {\n    display: block;\n    overflow: hidden;\n    font-family: \"Monotype Corsiva\", \"Bradley Hand ITC\", sans-serif;\n    font-style: normal;\n\n    background-attachment: scroll;\n    background-clip: border-box;\n    background-color: transparent;\n    background-image: linear-gradient(to top ,rgb(202, 219, 228) 0%, rgb(231, 233, 220) 8%);\n    background-origin: padding-box;\n    background-position: 0px 8px;\n    background-repeat: repeat;\n    background-size: 100% 20px;\n\n    border: 1px solid #CCC;\n    border-radius: 10px;\n    padding: 10px 10px;\n    margin-bottom: 10px;\n\n    box-shadow: 0px 1px 3px rgba(0, 0, 0, 0.2)\n    }\n.page p,\n.page ul {\n    line-height: 20px;\n    margin: 0;\n}\n[[/module]]\n[[>]]\n[[module Rate]]\n[[/>]]\n\n**项目编号：**SCP-CN-3052\n \n**项目等级：**Safe\n \n**特殊收容措施：**由于“黑暗日”的影响，该物品目前被保管在Site-87的一储物柜内。除实验需求外，未经授权者严禁私自使用该项目。目前本页内容的手写副本已被送至各个分部以供保存，目前的主文本由中国分部的Site-CN-92保管，电子版由Site-87保管。\n \n**描述：**SCP-CN-3052是一款异常八音盒，由名为“Wondertainment博士”的组织在斯拉夫神佩伦（Perun）的化身出现之前制造，作为儿童玩具。\n \n其异常性质在于：每当有人摇动拉杆时，无论多少次，都会播放出音乐[[footnote]] 值得注意的是，其所播放的音乐是完全随机的。 [[/footnote]]，并伴随着由光点构成的微型独角兽形象出现在其周围。这些光点形成的独角兽在音乐停止后会随即消失。目前尚不清楚这些光点是否具有认知能力。此外，在紧急情况下，该项目也可用作临时光源。\n \nSCP-CN-3052最初在“黑暗日”事件早期被基金会的一级研究员A[[footnote]] 出于人道主义考虑，死者信息已隐藏。 [[/footnote]]发现。当收容小组到达现场时，研究员A已经因为脱水而死亡。\n\n**附录：**研究员A随时携带录音笔中的录音内容节选。\n\n[[div class=\"blockquote\" style=\"border-radius: 10px; margin: 10px\"]]\n**音频日志记录**\n\n**日期：**2021年6月23日\n\n**参与成员：**研究员A\n\n**目标：**探明新发现的异常。\n\n-----\n\n[记录开始]\n\n**A：**喂，设备开没开？\n\n**Bon.aic：**录音设备已经开启了，先生。考虑到设备与我的电量都不足，请尽快完成任务，并且我不在会与您进行任何非必要对话。\n\n**A：**行了行了，我知道了。\n\n**A：**这地方荒得跟世界末日似的，人都跑光了吧？\n\n**A：**这里似乎发生了什么大事，我得找到那东西在哪儿。\n\n**Bon.aic：**先生，您所在地区的 EVE 粒子浓度正在逐渐高。\n\n**A：**接下来让我找找看那个未来的新项目在哪里。\n\n**A：**（//低声//）让我瞅瞅。\n\n**Bon.aic：**为了保证你的安全，你能听到我说话吗？\n\n**A：**（//音调升高//）对，找到了。就是这儿！前面一公里！\n\n**A：**皇天不负有心人啊。太好了，终于找到了！\n\n**Bon.aic：**警告，本地区 EVE 粒子浓度已达最高峰，请尽快撤离。\n\n**A：**（//翻找声//）找到了，咱们收工回基金会！\n\n//约二十分钟的走路声//\n\n**A：**咋回事，不是应该早到营地了吗？\n\n//约十分钟的走路声//\n\n**A：**不对劲，Bon，这是咋回事？\n\n**Bon.aic：**警告，本地区 EVE 粒子浓度已达最高峰，请尽快撤离。\n\n**A：**Bon，你在吗？Bon？\n\n//二十分钟沉重而急促的脚步声//\n\n//约十分钟的奔跑声//\n\n**A：**这……为什么又到刚才那个鬼地方来了。\n\n//十分钟的奔跑声，呼吸急促//\n\n**A：**Bon？你在吗？我身上所有的东西几乎都快没有电了。\n\n**A：**Bon，我好渴……\n\n**A：**Bon？\n\n**Bon.aic：**警告，本地区 EVE 粒子浓度已达最高峰，请尽快撤离。\n\n//落物声，似乎有些沉重地落在沙地上//\n\n//持续地转轮声//\n\n//八音盒版《致爱丽丝》音乐声，断断续续地响起//\n\n//轻微的哭泣声，夹杂着沙粒打在金属上的声音//\n\n//未知生物鸣叫声，遥远而模糊//\n\n//较小地摩擦声//\n\n//涰泣声//\n\n**Bon.aic：**先生？\n\n**Bon.aic：**您在哭吗？先生。\n\n[记录结束]\n\n------\n\n**备注：**研究员A被发现时，录音摄备与Bon.aic均因电力不足而报废。其尸体周围被发现有光点包围。该地区发现拜佩伦教活动的痕迹。\n\n[[/div]]\n\n[[footnoteblock]]\n\n[[div class=\"footer-wikiwalk-nav\"]]\n[[=]]\n<< [[[SCP-CN-3051]]] | SCP-CN-3052 | [[[SCP-CN-3053]]] >>\n[[/=]]\n[[/div]]",
+  "tags": [
+    "safe",
+    "scp",
+    "wondertainment博士",
+    "原创",
+    "玩具"
+  ],
+  "author": "(sccount-deleted)",
+  "created_at": "2024-07-04T01:17:43+00:00",
+  "updated_at": "2024-07-04T07:12:44+00:00",
+  "rating": 9,
+  "_site": "scp-wiki-cn",
+  "_fullname": "scp-cn-3052"
+}

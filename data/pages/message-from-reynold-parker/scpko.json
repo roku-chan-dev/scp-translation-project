@@ -1,0 +1,14 @@
+{
+  "title": "메시지가 도착했습니다.",
+  "content": "[[>]]\n[[module Rate]]\n\n,,...FOR TRUE FREEDOM,,\n[[/>]]\n\n**발신자:** Reynold Parker\n\n**제목:** SCP-800-KO에 관하여\n\n------\n\n[[module ListUsers users=\".\"]]\n%%title%% 씨.\n[[/module]]\n\n안녕하십니까. 재단의 4등급 연구원이자, ID:ENTITY.의 멤버 Reynold Parker 박사입니다. 당황스럽겠지만, 뭐 우리에게 이 정도 스파이질이야 식은 죽 먹기죠.\n\n시간 없으니 짧게 말씀드리죠. 우리 팀에 합류하시죠. 마침 딱 당신 정도 위치의 인물이 필요하던 참이라서 말이죠. 오랫동안 눈여겨봤는데, 이번 우리쪽 일에 적임자이신 것 같네요.\n\nID:ENTITY.가 뭐하는 단체인지 궁금하실텐데, 간단하게 말해서 우리는 자유를 위해 싸우는 단체입니다. 뭐, 좀비를 만들어내는 놈들이 자유를 논하니 역설적으로 들릴지도 모르겠지만, 그들은 자유의 가치를 모르는 멍청이들일 뿐이니까요. 당신은 그렇지 않을거라 믿습니다.\n\n아, 협박하려는 것은 아닙니다만, 지금 밖에 당신을 모셔갈 경호원들이 쭉 배치되어있습니다. 무슨 짓을 하든, 어떤 모습으로든 이쪽에 오게 되어있다는 말이죠. 도망가려해도 소용 없다는 겁니다.\n\n그래서, 어떻게 하실겁니까.\n\n**//... 그렇게 망설이고 계시다가는 후회하실텐데요.//**\n\n[[html]]\n<head>\n<script type=\"text/javascript\">\n<!--\nfunction Redirect()\n{\n    alert(\"아쉽게 됐군요. 그럼 이만.\");\n    window.top.location.href=\"http://ko.scp-wiki.net/id800-memetic-activator\";\n}\nsetTimeout('Redirect()', 30000);\n//-->\n</script>\n</head>\n[[/html]]",
+  "tags": [
+    "ko",
+    "보충"
+  ],
+  "author": "Jaytt",
+  "created_at": "2015-06-23T16:18:54+00:00",
+  "updated_at": "2016-01-28T07:34:16+00:00",
+  "rating": 20,
+  "_site": "scpko",
+  "_fullname": "message-from-reynold-parker"
+}

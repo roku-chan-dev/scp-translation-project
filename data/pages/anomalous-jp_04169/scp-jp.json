@@ -1,0 +1,14 @@
+{
+  "title": "04169",
+  "content": "content: \"**説明:** 生徒をソート可能な卒業アルバム。番号順のほかに「高評価順」「低評価順」「古い順」「新しい順」「ランダム」の設定が存在。\\n**回収日:** 2012/03/22\\n**回収場所:** 滋賀県██市　██中学校\\n**現状:** 全192部を回収し、低脅威度物品保管ロッカーに保管。受け取った全学生及び教員は記憶処理の後解放。\\n**追記:** 回収された物品のほとんどは、ソート方法が「高評価順」あるいは「低評価順」に変更されていた。\"\ntf2: '0'\nauthor: ''\nredirect-b: '[[module Redirect destination=\"http://ja.scp-wiki.net/log-of-anomalous-items-jp'\nredirect-e: '\"]]'",
+  "tags": [
+    "jp",
+    "剪定対象-子"
+  ],
+  "author": "Einoshima",
+  "created_at": "2023-06-21T13:42:31+00:00",
+  "updated_at": "2023-06-22T14:10:23+00:00",
+  "rating": 88,
+  "_site": "scp-jp",
+  "_fullname": "anomalous-jp:04169"
+}

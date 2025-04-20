@@ -1,0 +1,14 @@
+{
+  "title": "03950",
+  "content": "content: \"**説明:** 付近に稼働状態の車両が存在しない場合、概ね一定のサイクルで変形動作を行う車両用信号機。\\n2分~30分に一度、アーム部が下方に最大90度ゆっくりと湾曲し、その3秒~5分後急速に元の形状に戻る。また湾曲時、信号灯器は消灯し復元とともに即再開する。\\n**回収日:** 20██/██/██\\n**回収場所:** 神奈川県██市内\\n**現状:** 低脅威度物品収容倉庫内に移設、保管\\n**追記:** 暇だと眠たくなっちゃいますよね。 -██研究員\"\ntf2: '0'\nauthor: ''\nredirect-b: '[[module Redirect destination=\"http://ja.scp-wiki.net/log-of-anomalous-items-jp'\nredirect-e: '\"]]'",
+  "tags": [
+    "jp",
+    "剪定対象-子"
+  ],
+  "author": "rararain",
+  "created_at": "2023-02-05T04:16:43+00:00",
+  "updated_at": "2023-02-05T04:17:01+00:00",
+  "rating": 27,
+  "_site": "scp-jp",
+  "_fullname": "anomalous-jp:03950"
+}

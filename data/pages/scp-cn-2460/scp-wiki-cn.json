@@ -1,0 +1,17 @@
+{
+  "title": "SCP-CN-2460",
+  "content": "[[module ListPages category=\"fragment\" parent=\".\" order=\"created_at\" limit=\"1\" offset=\"@URL|0\"]]\n%%content%%\n[[/module]]",
+  "tags": [
+    "meta",
+    "safe",
+    "scp",
+    "互动性",
+    "原创"
+  ],
+  "author": "Doctor HHZ",
+  "created_at": "2022-07-24T09:29:07+00:00",
+  "updated_at": "2022-07-24T11:08:09+00:00",
+  "rating": 87,
+  "_site": "scp-wiki-cn",
+  "_fullname": "scp-cn-2460"
+}

@@ -1,0 +1,14 @@
+{
+  "title": "10021",
+  "content": "overview: JR██線の最終列車が███駅～██駅を走行中に突然消失しました。その後到着予定時刻である午前█時██分、終点の██駅に停車した状態で再出現しました。消失時点で乗車していたとみられる乗客██名は、身に着けていた衣服と脊柱のみ発見されています。\nswdate: '1'\ndate: 201█年12月██日午後██時██分～午前█時██分\nswplace: '1'\nplace: 埼玉県██市\nswchaseprocedure: '1'\nchaseprocedure: 目撃者及び関係者にはAクラス記憶処置を施しました。乗客は状況から死亡したものとし、遺族には個別にカバーストーリーを適用しました。当該路線及び車両の調査では異常性は確認されませんでした。同様の消失事象の発生は現在報告されていません。\nswaddendum: '0'\naddendum: ''\ntf2: '1'\nauthor: ikr_4185\nredirect-b: '[[module Redirect destination=\"/log-of-extranormal-events-jp'\nredirect-e: '\"]]'",
+  "tags": [
+    "jp",
+    "剪定対象-子"
+  ],
+  "author": "machikawa",
+  "created_at": "2020-07-22T16:42:33+00:00",
+  "updated_at": "2021-05-24T13:20:45+00:00",
+  "rating": 41,
+  "_site": "scp-jp",
+  "_fullname": "extranormal-events-jp:10021"
+}

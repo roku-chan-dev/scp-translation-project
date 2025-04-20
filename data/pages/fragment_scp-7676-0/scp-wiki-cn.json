@@ -1,0 +1,13 @@
+{
+  "title": "SCP-7676-0",
+  "content": "[[div style=\"display: none;\"]]\n[[include :scp-wiki-cn:theme:flopstyle-dark]]\n[[/div]]\n\n[[module CSS]]\n:root {\n     --header-title: \"SCP基金会\";\n     --header-subtitle: \"控制 - 收容 - 保护\";\n     --accentColor: hsl(173, 22%, 92%);\n     --accentColorLite: hsla(173, 22%, 100%, .5);\n     --hue: 173deg;\n     --bgColor: hsl(0, 0%, 18%);\n}\n[[/module]]\n\n**项目编号：**SCP-7676\n\n**项目等级：**模因性\n\n**收容等级：**[已编辑]\n\n**特殊收容措施：**隔离Site Zulu-9已于SCP-7676现象爆发中心处建立，所有驻站人员均应符合“[[span class=\"ruby\"]]无印痕[[span class=\"rt\"]]NULL-ENGRAM[[/span]][[/span]]”标准。由于本组织目前缺乏可用人手，基金会已命令分析部筛选民间人士，以协助当前的SCP-7676收容工作。机动特遣队Iota-10（“该死的联邦探员”）负责招募前述民众。所有以该方式招聘的职员在就职期间将获得5/7676级权限。\n\n由于SCP-7676及其相关现象毒害性极强，应由人工智能操作员作为Zulu-9与外部世界的交流的中介。特遣队所需材料及普通资源补给的运输必须以全自动方式进行。\n\nZulu-9产生的废弃物将装于黑色裹尸袋中，定期运往Site-19。不允许驻Site-19人员查明袋中的内容物，禁止人员对裹尸袋作出除焚毁以外的一切操作。\n\n**无印痕淘汰标准：**满足以下条件的人员不可具有完全无印痕资格：\n\n* 曾参加课后社团活动或课外活动，包括作为组织者或教育者而参加的情形。\n* 青春期期间加入过任何的室内乐团、行进乐团或其他音乐集社。\n* 曾参加任何形式的夏令营。\n* 于美国中学或同等级教育机构完成高中学业。\n* 曾于上述机构中参加任何返校节舞会活动，活动内容不限。\n* 于1976年12月31日前出生或受孕。\n\n更多信息属5/7676级机密。\n\n[[div class=\"warning-header\"]]\n[[div class=\"orderwrapper\"]]\n[[div class=\"council\"]]\n[[div class=\"ordertitle\" style=\"color: black;\"]]\n+* ##d8d9da|{{警告}}##\n[[/div]]\n[[div class=\"orderdescription\"]]\n _\n+++* ##d8d9da|{{以下文档包含敏感信息与图像，可能不适宜所有人查看。若您无意中访问了此文件且未持有“无印痕”许可，**请勿继续浏览**。}}##\n\n[[/div]]\n[[div class=\"itemno\"]]\n+* ##d8d9da|{{仅限无印痕人员查看}}##\n[[/div]]\n[[/div]]\n[[/div]]\n[[/div]]\n\n[[=]]\n**[https://scp-wiki-cn.wikidot.com/scp-7676/offset/1 请输入临时人员验证码（PPV）]**\n[[/=]]",
+  "tags": [
+    "段落"
+  ],
+  "author": "vxeov",
+  "created_at": "2022-08-09T07:07:11+00:00",
+  "updated_at": "2022-10-06T20:08:08+00:00",
+  "rating": 0,
+  "_site": "scp-wiki-cn",
+  "_fullname": "fragment:scp-7676-0"
+}

@@ -1,0 +1,14 @@
+{
+  "title": "10155",
+  "content": "overview: サイト-81██内の職員全員が立ち止まり、██博士のいる方向に首を異常な角度に回転させ、その方向を凝視しました。30秒後、首は正常な方向へ戻り職員たちは通常業務へと戻りました。\nswdate: '1'\ndate: ████/██/██\nswplace: '1'\nplace: サイト-81██全域\nswchaseprocedure: '1'\nchaseprocedure: 職員に対しインタビューを行いましたが、全員その時の記憶がないと証言しました。██博士に対してもインタビューを行いましたがその時間は通常通りの業務を行っていただけで、特別な行動は何もしていなかったと証言しました。\nswaddendum: '0'\naddendum: ''\ntf2: '0'\nauthor: ''\nredirect-b: '[[module Redirect destination=\"/log-of-extranormal-events-jp'\nredirect-e: '\"]]'",
+  "tags": [
+    "jp",
+    "剪定対象-子"
+  ],
+  "author": "SealBaby-V",
+  "created_at": "2023-03-29T11:15:11+00:00",
+  "updated_at": "2023-03-29T11:16:02+00:00",
+  "rating": 36,
+  "_site": "scp-jp",
+  "_fullname": "extranormal-events-jp:10155"
+}

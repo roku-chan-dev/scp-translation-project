@@ -1,0 +1,20 @@
+{
+  "title": "SCP-6482",
+  "content": "[[include :scp-wiki:theme:black-highlighter-theme]]\n[[include :scp-wiki:component:acs-animation]]\n[[include :scp-wiki:component:fade-in speed=1]]\n[[include :scp-wiki:component:pride-highlighter |inc-lgbt-alt= --]]]\n\n[[>]]\n[[include :scp-wiki:info:start]]\n[[=]]\n**SCP-6482** - //Tag//\n\nWritten by [[*user MirageTD]]\n**[[span style=\"font-size: 80%;\"]][[[miragetd | MORE BY THIS AUTHOR]]][[/span]]**\n[[include :scp-wiki:component:ratio-bar pie=--]]\n[[/=]]\n[[include :scp-wiki:info:end]]\n[[/>]]\n\n[[div style=\"margin-bottom:20px;\"]]\n[[include :scp-wiki:component:anomaly-class-bar-source\n|item-number= 6482\n|clearance= 2\n|container-class= neutralized\n]]\n[[/div]]\n\n[[include :scp-wiki:component:image-block\n|name= ghost.jpg\n|caption= Still of SCP-6482 taken from Brookdale Ocean Shores surveillance footage.\n]]\n\n**Special Containment Procedures:** SCP-6482's remains are stored in a standard container at Site-23.\n\n**Description:** Prior to neutralization, SCP-6482 was a humanoid entity composed of particles of hydroxyapatite, salt and other minerals, weighing 2.7kg. The particles are no longer animate and have no other apparent anomalous properties.\n\n**Addendum 6482.1:** Discovery\n\nOn 2021-08-11, SCP-6482 was seen by civilians \"coalescing\" on the west edge of Ocean Shores, Washington. The entity walked approximately 3km to Brookdale Ocean Shores, an assisted living facility located on the east side of the peninsula. On arrival, the entity proceeded to the common area of the facility. Surveillance equipment recorded SCP-6482 as it walked behind Josef Weiss, a senior resident, who appeared to be asleep in his wheelchair. SCP-6482 touched Weiss on the shoulder, waking him. Weiss turned to look at SCP-6482 as its particles became inert and the entity dissolved. Weiss appeared confused, but after several seconds he smiled, then lost consciousness.\n\nWhen containment teams arrived at Brookdale Ocean Shores, Weiss was deceased. An autopsy revealed that his heart had failed.\n\n**Addendum 6482.2:** Interview Log\n\n> **Interviewed:** Josef Weiss's daughter, Amelia Weiss-Thompson\n> \n> **Interviewer:** Doctor Maxwell Young\n> \n> **<Begin Log>**\n> \n> **Dr. Young:** You say you know what happened? Please explain, from the beginning.\n> \n> **Weiss-Thompson:** Sure. Dad had this friend he knew since they were kids, Daniel Owens. He was like family. We went to his funeral, he died just a few years ago. His family scattered his ashes on the same beach that thing appeared on.\n> \n> **Dr. Young:** You believe it was Daniel?\n> \n> **Weiss-Thompson:** Yeah, and I don't think he killed him. Dad had heart disease for a while, it was just his time.\n> \n> **Dr. Young:** Do you have any idea why it targeted your father?\n> \n> **Weiss-Thompson:** I think so. Dad and Dan always horsed around, even in their old age they acted like two of the Stooges around each other. Every so often they'd get into this game of tag, Dad told me it was something that started when they were teenagers. Dan was 'it' when he passed.\n> \n> //Weiss-Thompson pulls a handkerchief out of her pocket and wipes tears off her face.//\n> \n> **Weiss-Thompson:** The old bugger never could stand to lose.\n> \n> **<End Log>**\n\n[[div class=\"footer-wikiwalk-nav\"]]\n[[=]]\n<< [[[SCP-6481]]] | SCP-6482 | [[[SCP-6483]]] >>\n[[/=]]\n[[/div]]\n\n[[include :scp-wiki:component:license-box]]\n=====\n=====\n> **Filename:** ghost.jpg\n> **Author:** Jolanta Dyr, modified by [[*user MirageTD]]\n> **License:** [[[https://creativecommons.org/licenses/by-sa/3.0/pl/ | CC BY-SA 3.0 PL]]]\n> **Source Link:** https://commons.wikimedia.org/wiki/File:Hallway_of_W%C5%82adys%C5%82aw_Broniewski_Museum_in_Warsaw_-_01.jpg\n=====\n[[include :scp-wiki:component:license-box-end]]",
+  "tags": [
+    "_cc",
+    "_licensebox",
+    "cadaver",
+    "humanoid",
+    "intangible",
+    "neutralized",
+    "reanimation",
+    "scp"
+  ],
+  "author": "MirageTD",
+  "created_at": "2021-12-15T03:56:58+00:00",
+  "updated_at": "2025-01-22T20:04:41+00:00",
+  "rating": 125,
+  "_site": "scp-wiki",
+  "_fullname": "scp-6482"
+}

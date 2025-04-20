@@ -1,0 +1,23 @@
+{
+  "title": "SCP-8372",
+  "content": "[[include :scp-wiki-cn:theme:classic]]\n[[include :scp-wiki:component:toggle-sidebar]]\n\n[[module CSS]]\n\n.creditRate {\nfloat: unset !important;\nmargin-bottom: unset !important;\n}\n\n#page-title {\ntext-align: center;\n}\n\n#content-wrap {\nmax-width: 600px;\npadding: 1rem;\nborder: solid 1px rgb(200, 200, 200);\n}\n\na.disruptionHeader {\ncolor: white !important;\n}\n\n[[/module]]\n\n[[>]]\n[[include :scp-wiki-cn:credit:start-standalone]]\n[[=]]\n**[https://scp-wiki-cn.wikidot.com/ralliston-s-authorpage 该作者的更多作品]**\n[[/=]]\n[[include :scp-wiki-cn:credit:end-standalone]]\n[[/>]]\n\n@@ @@\n\n[[include :scp-wiki-cn:component:flops-header\n|lang=cn\n|item=8372\n|containment=safe\n|level=5\n|security=绝密\n|disruption=dark\n|disruption-bg-color=hsl(0, 0%, 40%)\n]]\n\n[[==]]\n\n------\n\n__**特殊收容措施：**__在由RAISA领导的关于SCP-8372的存在是如何逃过基金会注意的调查可结案之前，进入该设施的人员都不得与内部的任何物品进行互动。应按照标准协议防止平民进入SCP-8372。\n\n__**描述：**__SCP-8372是一座位于西藏北部的已废弃的地下储存设施。该设施由四层组成，其作为仓库存放了多个与已灭亡的狄瓦帝国的各个时代相关的小型异常和普通物品，并由SCP-8372的前监督者进行收容和编目。整体设施并不具备异常性质。通向建筑内部的门——在基金会发现前就已从内部锁住——上挂着一个牌子，上书：\n\n\n[[div class=\"blockquote\" style=\"background: hsl(20, 15%, 98%); border: solid 1px hsl(0, 0%, 70%); font-size: 120%; font-weight: bold; text-align: center;\"]]\n异学会财产\n禁止访问\n[[/div]]\n\n异学会是基金会的一个前身组织，其在1870年整合进新兴的基金会后便已解散。在上述的合并过程中，学会的所有设施、人员和文档都被整合进基金会的控制和结构中；目前尚不知晓SCP-8372为何没被整合。同样，上述的其他材料中也没有任何与该设施的存在有关的参考或暗示。\n\nSCP-8372的目的——如果除了作为收容其内部人造物品的仓库之外还有的话——仍属未知。\n\n------\n\n= __**附录8372-1：**__SCP-8372层级描述\n\n第一层包含各种描绘和/或与狄瓦皇室有关的艺术品——挂毯、花瓶、画作、卷轴等。尽管所有作品都无一例外地将皇室描绘在以毁灭性事件为背景的内容中，[[footnote]]狄瓦军事行动、对几个夜人族群的征服和奴役，以及由奴隶领导的对狄瓦首都的建设[[/footnote]]但所有低认知抵抗系数（CRV）的个体在与这些作品进行互动时，都无一例外地无法将注意力于这些事件上，其注意力反而完全固定在被其描述为“文明的”且“有文化的”的皇室上。\n\n第二层收容着曾属于狄瓦主妃及其母系宫廷的皇室纪念品，例如皇冠、珠宝、戒指和仪式用匕首。虽然这些物品大多数并非狄瓦制造，但低CRV的个体无法识别出这些物品的真实来源，声称这些物品是狄瓦人制造、发现，并（在直接面对）来自当地人的摧毁时从中保下来的。\n\n第三层存放了各种尺寸和型号的雕像，描绘了各个不同的狄瓦主妃。最常描绘的君主是Ridhima七世，她以征服和奴役原始Nälkä人民而闻名。虽然低CRV的观察者无法识别出这一事实，但她的所有雕像的建造都采用了血肉术——一种仅有Nälkä文化才会实践的技艺。尽管Ridhima七世的描绘各有不同，但大多数雕像都展现出她骑在一匹巨大的骏马上，马下则跟有多个不同文化的其他个体。\n\n第四层放有狄瓦军事部队所使用的军械。这是整个SCP-8372建筑群中唯一没有被厚厚的灰尘覆盖并且没有岁月流逝的痕迹的部分。低CRV的个体在受到这些武器的伤害时将拒绝承认这一点，通常在面对其伤口的直接且无可辩驳的证据时会表现出愤怒和暴力。当被要求解释其伤情时，没有任何对象可以形成连贯的回答。\n\n尽管连接所有楼层的楼梯在第四层就已经结束，但基金会扫描发现了在第四层的下方还存在着一个区域。在移除一层叠放不均匀的薄砖后，人员发现了一个大型洞穴，洞内含有大约50,000具人类尸体。\n\n所有尸体都被非自然地保存了下来，并且没有任何腐烂的迹象。尸体似乎是被精心地以整齐的位置堆放在了洞穴内，与砖块的布置类似。所有尸体一起形成了一个几乎像脚手架的建筑。其直达洞穴的顶部，紧挨着天花板以及SCP-8372建筑群的连接处，它似乎支撑着该建筑；尚不清楚建筑是否能在没有它的情况下继续保持稳定。\n\n所有个体——无论其CRV如何——都完全无法识别或描述任何尸体的面貌。所有尸体都穿着非狄瓦制作的衣物。\n\n[[/==]]\n\n[[=]]\n[[div class=\"footer-wikiwalk-nav\"]]\n<< [[[SCP-8371]]] | SCP-8372 | [[[SCP-8373]]] >>\n[[/div]]\n[[/=]]\n\n[[include :scp-wiki-cn:component:license-box\n|author=Ralliston]]\n[!-- N/A (No Images)  --]\n[[include :scp-wiki-cn:component:license-box-end]]\n\n[[div style=\"display: none;\"]]\n[[footnoteblock]]\n[[/div]]",
+  "tags": [
+    "120站档案馆",
+    "safe",
+    "scp",
+    "反常部",
+    "尸体",
+    "建筑",
+    "欲肉教",
+    "狄瓦",
+    "精神影响",
+    "艺术性",
+    "观察影响"
+  ],
+  "author": "Aegnus",
+  "created_at": "2024-09-10T00:26:35+00:00",
+  "updated_at": "2024-09-10T00:29:49+00:00",
+  "rating": 6,
+  "_site": "scp-wiki-cn",
+  "_fullname": "scp-8372"
+}

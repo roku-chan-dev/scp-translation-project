@@ -1,0 +1,20 @@
+{
+  "title": "SCP-2000-B",
+  "content": "[!-- If you see a typographical error and want to fix it, you may find the appropriate page by entering \"http://www.scp-wiki.net/fragment:scp-2000-b-the-lonely-cowboy-*/noredirect/true\" as the URL where \"*\" is 1-2 (SCP-2000-B is 1, Reality is 2). --]\n[[>]]\n[[module Rate]]\n[[/>]]\n[[module ListPages category=\"fragment\" parent=\".\" limit=\"1\" order=\"created_at\" offset=\"@URL|0\"]]\n%%content%%\n[[/module]]\n\n[[include :scp-wiki:component:license-box]]\n=====\n> **Filename:** realibee.png\n> **Name:** Honey Bees Winged Insects Macro Insects Bees\n> **Author:** Nikon D800\n> **License:** Public Domain\n> **Source Link:** [https://www.maxpixel.net/Buckfast-Water-Bee-Stripes-Honey-Golden-Insect-292132 Maxpixel]\n=====\n[[include :scp-wiki:component:license-box-end]]",
+  "tags": [
+    "_cc",
+    "_licensebox",
+    "_listpages",
+    "apocalyptic",
+    "doomsday2018",
+    "foundation-format",
+    "tale",
+    "utopian"
+  ],
+  "author": "BlackMagicFine",
+  "created_at": "2018-06-14T09:33:37+00:00",
+  "updated_at": "2024-10-11T19:46:51+00:00",
+  "rating": 44,
+  "_site": "scp-wiki",
+  "_fullname": "scp-2000-b-the-lonely-cowboy"
+}

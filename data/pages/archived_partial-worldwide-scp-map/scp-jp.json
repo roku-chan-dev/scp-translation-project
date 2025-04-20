@@ -1,0 +1,14 @@
+{
+  "title": "SCP世界地図・不完全版",
+  "content": "[[>]]\n[[module Rate]]\n[[/>]]\n\n以下のリンク先の地図は作成途中の地図であり、メインリストにあるSCPの回収場所や、財団の安全なサイトとエリア、その他の要注意地点を表示しています。特に記述がないかぎり、それぞれのピンは、SCPが初めに回収または確認された場所を示しています。地図はできる限り最新に保っていますが、もし抜けているエントリに気づいたら、遠慮なく付け足してください。\n##bbb|(SCP-JP管理者注: これはSCP-ENでの記述です。追加していいかは[http://www.scp-wiki.net/forum/t-1220746 SCP-EN]へ問い合わせてください。)##\n\n[https://www.zeemaps.com/map?group=1296235 The Map]\n\n[[iframe http://www.zeemaps.com/pub?group=1296235&legend=1&locate=1 style=\"width: 100%; height: 800px; border: 0;\"]]\n[[footnote]]転載注: 広告が出ますが、これはzeemapsの仕様による物で、SCP-ENでも表示されています。[[/footnote]]\n\nマップ上のエントリは、以下のように色でカテゴリ分けされています：\n\n緑：Safe\n黄色：Euclid\n赤：Keter\n青：Thaumiel\n茶：Neutralized\n\n使用頻度の少ないカテゴリ:\n\nフォレストグリーン（深緑）：Safe の変化形\n薄黄色：Euclid の変化形\n薄い赤茶色：Keter の変化形\n赤茶色（中央の点が紫）：Neutralized の変化形\nオレンジ色：Euclid/Keter\n紫：Keter-Thaumiel\n灰色：Unclassed\nヒマワリのマーク：Zeno\n白：財団施設\n\nTips:\n\n* 「航空写真」ボタンを押すと、マップが衛星画像に切り替わります。\n* 各エントリをクリックすると、SCP財団本部wikiの関連文章へのリンクを表示します。\n* 'View' から 'Show list' を選択すると、エントリのリストがアルファベット順または番号順で表示されます。\n* 衛星画像上に表示されない異常物体があるかもしれません。マークされた位置にSCPが発見できない時は、財団のプロトコルにより衛星画像の検閲が実施されたとみなすこと[[footnote]]もしくは、地図上で利用可能なものを用いて最大限努力した結果です。[[/footnote]]",
+  "tags": [
+    "en",
+    "プロジェクト"
+  ],
+  "author": "Ikr_4185",
+  "created_at": "2017-05-27T03:50:17+00:00",
+  "updated_at": "2021-01-11T06:47:42+00:00",
+  "rating": 9,
+  "_site": "scp-jp",
+  "_fullname": "archived:partial-worldwide-scp-map"
+}

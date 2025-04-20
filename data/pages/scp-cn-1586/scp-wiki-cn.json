@@ -1,0 +1,20 @@
+{
+  "title": "SCP-CN-1586",
+  "content": "[[>]]\n[[module Rate]]\n[[/>]]\n@@ @@\n[[module ListPages category=\"fragment\" parent=\".\" order=\"created_at\" limit=\"1\" offset=\"@URL|0\"]]\n%%content%%\n[[/module]]\n\n[!--\n编辑本页面的内容可能会导致错误。若要编辑文本，请至以下链接。\nhttp://scp-wiki-cn.wikidot.com/fragment:scp-cn-1586-01\nhttp://scp-wiki-cn.wikidot.com/fragment:scp-cn-1586-02\n--]\n\n@@ @@\n[[footnoteblock]]\n\n[[div class=\"footer-wikiwalk-nav\"]]\n[[=]]\n<< [[[SCP-CN-1585]]] | SCP-CN-1586 | [[[SCP-CN-1587]]] >>\n[[/=]]\n[[/div]]",
+  "tags": [
+    "2021新人竞赛",
+    "euclid",
+    "scp",
+    "site-cn-09",
+    "人形生物",
+    "动物",
+    "原创",
+    "种群"
+  ],
+  "author": "Crow pablo",
+  "created_at": "2020-11-20T14:36:26+00:00",
+  "updated_at": "2021-06-10T13:20:06+00:00",
+  "rating": 36,
+  "_site": "scp-wiki-cn",
+  "_fullname": "scp-cn-1586"
+}

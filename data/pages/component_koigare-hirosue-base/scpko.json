@@ -1,0 +1,15 @@
+{
+  "title": "히로스에 데스크 베이스",
+  "content": "[[#if {$header} |   | [!-- ]]\n[[module css]]\n@import url('http://scpko.wdfiles.com/local--files/unfont/UnPilgiBold.css');\n\n.koigare-hirosue {\n  width: {$width};\n  float: right;\n  word-break: break-all;\n  margin: 70px 0.5em 1em 1em;\n}\n\n.koigare-hirosue > .hirosue-desc {\n  font-size: {$fontsize};\n}\n\n@media (max-width: 826px) {\n  .koigare-hirosue {\n    margin: 1em 0.5em 1em 1em\n  }\n}\n\n@media (max-width: 767px) {\n  .koigare-hirosue {\n    margin: 70px 0.5em 1em 1em;\n  }\n}\n\n@media (max-width: 550px) {\n  .koigare-hirosue {\n    margin: 1em 0.5em 1em 1em\n  }\n}\n[[/module]]\n[[#if {$header} |   | --] ]]\n[[#if {$header} | [!-- |   ]]\n[[module css]]\n.koigare-hirosue {\n  width: {$width};\n  float: right;\n  word-break: break-all;\n  margin: 1em 0.5em 1em 1em;\n}\n\n.koigare-hirosue > .hirosue-desc {\n  font-size: {$fontsize};\n}\n[[/module]]\n[[#if {$header} | --] |   ]]\n[[#if {$header} |   | [!-- ]][[image http://incbox.wdfiles.com/local--files/koigare-hirosue/header.jpg width=\"300px\"]] [[span style=\"white-space:nowrap;\"]]잘 이해되는 해설:[[/span]] [[span style=\"font-family:'UnPilgiBold'; white-space:nowrap;\"]]히로스에 데스크의 질그릇 까부수기[[/span]] [[#if {$header} |   | --] ]]\n\n[[div_ class=\"koigare-hirosue\"]]\n[[image {$image} width=\"{$width}\"]]\n[[div_ class=\"hirosue-desc\"]]\n{$text}\n[[/div]]\n[[/div]]",
+  "tags": [
+    "jp",
+    "구성요소",
+    "코이가레자키신문사"
+  ],
+  "author": "Salamander724",
+  "created_at": "2020-05-08T17:50:10+00:00",
+  "updated_at": "2021-03-15T20:58:55+00:00",
+  "rating": 0,
+  "_site": "scpko",
+  "_fullname": "component:koigare-hirosue-base"
+}

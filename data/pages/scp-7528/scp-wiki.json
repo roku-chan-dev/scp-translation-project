@@ -1,0 +1,27 @@
+{
+  "title": "SCP-7528",
+  "content": "=====\n[[include :scp-wiki:component:preview\ntext=Some things best remain TACIT.]]\n=====\n[[div style=\"display: none;\"]]\n[[include component:image-block name=https://scp-wiki.wdfiles.com/local--files/scp-7528/SmallSkull.jpg|caption=.]]\n[[/div]]\n\n[[module css]]\n:root {\n    --accent: 0, 210, 60 !important;\n}\n\n.series-nav {\n    display: flex;\n    flex-wrap: wrap;\n    justify-content: center;\n    align-content: center;\n    align-items: baseline;\n\n    margin: 1rem 0;\n    padding: .02rem 1rem;\n    background: #445;\n\n    border-top-right-radius: .67rem;\n    border-top-left-radius: .67rem;\n\n    font-size: 1.2em;\n    font-family: var(--UI-font);\n}\n\n.series-nav>* {\n    margin: 0 0.3em;\n}\n\n.end_card {\n    background: linear-gradient(145deg, rgba(var(--accent), 0.5) 0%, #445 80%);\n    padding: 1.25rem 2rem;\n    text-align: center;\n}\n[[/module]]\n\n[!--\nFragments:\nhttps://scp-wiki.wikidot.com/fragment:scp-7528-offset-0\nhttps://scp-wiki.wikidot.com/fragment:scp-7528-offset-1\n--]\n\n[[module ListPages category=\"fragment\" parent=\".\" order=\"created_at\" limit=\"1\" offset=\"@URL|0\"]]\n%%content%%\n[[/module]]\n\n[[div class=\"series-nav\"]]\n[[<]]\n<< [[size 85%]][*/secure-facility-dossier-area-12 Dossier: Area-12][[/size]]\n[[/<]]\n[[=]]\n**| @@ @@ SCP-7528 @@ @@ |**\n[[/=]]\n[[>]]\n[[size 85%]][*/scp-6762 SCP-6762][[/size]] >>\n[[/>]]\n[[/div]]\n\n[[div class=\"end_card\"]]\n>+ {{>> [*/5k-series-hub PURE SOURCE] <<}}\n\n[[div class=\"blockquote quint\"]]\nBy [[*user Gabriel Kero]], [[*user HarryBlank]], and [[*user Placeholder McD]]\non behalf of [*https://affray.co/ Affray Interactive 🡕]\n[[/div]]\n\n[[module Rate]]\n\n[[div class=\"footer-wikiwalk-nav\" style=\"margin: 0 auto;\"]]\n[[=]]\n<< [[[SCP-7527]]] | SCP-7528 | [[[SCP-7529]]] >>\n[[/=]]\n[[/div]]\n\n[[include :scp-wiki:component:license-box\n|author=Gabriel Kero, HarryBlank, & Placeholder McD]]\n[[<]]\n=====\n> //\"Two men look out through the same bars:\n> One sees the mud, and one the stars.\"//\n> \n>   -- Frederick Langbridge (1849–1923), //A Cluster of Quiet Thoughts//\n\n> **Name:** 7528.png/Pattern.png\n> **Author:** [[*user HarryBlank]]\n> **License:** CC BY-SA 3.0\n\n> **Name:** AREA12\n> **Author:** [https://www.artreyus.com/ Trey Bishop] based on work by [[*user Jerden]] & [[*user HarryBlank]]\n> **License:** CC BY-SA 3.0\n> **Source Link:** Local Files\n\n> **Name:** BARRIER\n> **Author:** [[*user Gabriel Kero]]\n> **License:** CC BY-SA 3.0\n\n> **Name:** Breach.jpg\n> **Author:** [[*user syuzhet]]\n> **License:** CC BY-SA 3.0\n\n> **Name:** crius.png\n> **Author:** [https://www.artreyus.com/ Trey Bishop]\n> **License:** CC BY-SA 3.0\n\n> **Name:** FinalFace.jpg, ScaryFace.jpg, Skull.jpg, SmallSkull.jpg\n> **Author:** Kyle Fitzpatrick\n> **License:** CC BY-SA 3.0\n\n> **Name:** I. T. Department Logo\n> **Author:** [[*user EstrellaYoshte]]\n> **License:** CC BY-SA 3.0\n\n----\n\n> **Name:** MUTATION\n> **Author:** [[*user Gabriel Kero]]\n> **License:** CC BY-SA 4.0\n> **Source Link:** Local Files\n> \n> **__DERIVATIVE OF:__**\n> \n> **Name:** Arnoldi Iteration.gif\n> **Author:** Greg Vernon\n> **License:** CC BY-SA 4.0\n> **Source:** [https://commons.wikimedia.org/wiki/File:Arnoldi_Iteration.gif Wikimedia]\n\n----\n\n> **Name:** Static.jpg\n> **Title:** Glitching Screen\n> **Author:** Thoth God of Knowledge\n> **License:** CC BY 2.0\n> **Source Link:** [https://www.flickr.com/photos/62025628@N00/4255394744 Flickr]\n\n=====\n[[/<]]\n[[include :scp-wiki:component:license-box-end]]\n\n[[/div]]",
+  "tags": [
+    "_cc",
+    "_licensebox",
+    "_listpages",
+    "co-authored",
+    "cognitohazard",
+    "computer",
+    "concept",
+    "electronic",
+    "ethics-committee",
+    "keter",
+    "murder-monster",
+    "odongo-tejani",
+    "pattern-screamer",
+    "scp",
+    "visual"
+  ],
+  "author": "HarryBlank",
+  "created_at": "2023-06-20T19:09:34+00:00",
+  "updated_at": "2024-10-01T18:28:57+00:00",
+  "rating": 220,
+  "_site": "scp-wiki",
+  "_fullname": "scp-7528"
+}

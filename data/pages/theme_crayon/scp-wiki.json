@@ -1,0 +1,16 @@
+{
+  "title": "Crayon Theme",
+  "content": "[[div [[iftags -theme]]style=\"display: none\"[[/iftags]]]]\n[[>]]\n**Rating:**\n[[module Rate]]\n[[/>]]\n\nThis variant theme was used for 2021 April Fool's incident, \"Subpar Creative Products\".\n\nTo use this theme, put the following syntax on any page:\n\n> @@[[include theme:crayon]]@@\n\nHeader banner by stormbreath. Header logo by UncertaintyCrossing.\n\n[[module CSS show=\"true\"]]\n@import url('https://fonts.googleapis.com/css2?family=Permanent+Marker&display=swap');\n\ndiv#container-wrap {\n    background-image: url('https://scp-wiki.wdfiles.com/local--files/theme%3Acrayon/scribblebody_bg.png');\n}\n\n#header {\n    background-image: url('https://scp-wiki.wdfiles.com/local--files/theme%3Acrayon/scribble-logo.png');\n}\n\n#header h1 a,\n#header h2 span {\n    font-family: 'Permanent Marker', cursive;\n}\n\n#header h2 span {\n     color: #cdcd48;\n}\n[[/module]]\n[[/div]]\n\n[[iftags +theme]]\n[[include :scp-wiki:component:license-box-theme | author=stormbreath and UncertaintyCrossing]]\n=====\n> **Filename:** scribblebody_bg.png\n> **Author:** [[*user stormbreath]]\n> **License:** CC BY-SA 3.0\n\n> **Filename:** scribble-logo.png\n> **Author:** [[*user UncertaintyCrossing]]\n> **License:** CC BY-SA 3.0\n=====\n[[include :scp-wiki:component:license-box-end]]\n[[/iftags]]",
+  "tags": [
+    "_cc",
+    "_licensebox",
+    "co-authored",
+    "theme"
+  ],
+  "author": "stormbreath",
+  "created_at": "2021-04-01T04:10:52+00:00",
+  "updated_at": "2022-10-24T01:57:25+00:00",
+  "rating": 31,
+  "_site": "scp-wiki",
+  "_fullname": "theme:crayon"
+}

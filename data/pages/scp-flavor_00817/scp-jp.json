@@ -1,0 +1,14 @@
+{
+  "title": "00817",
+  "content": "original: scp-es-047\ndeleted: '0'\nbranch: '8'\nseries1: '0'\nseries2: '1'\ncontent: '[[module css]]\n.black-color a{\ncolor: #333;\n}\n[[/module]]\n[[module css]]\n.blockquote {\n    border:1px dashed #999;\n    padding:0px 1em;\n    margin:1em 40px;\n    background-color:#F4F4F4;\n}\n@media (max-width: 479px) {\n    .blockquote { margin:1em 0px; }\n}\n@media (max-width: 580px) and (min-width: 480px) {\n    .blockquote { margin:0.5em; }\n}\n[[/module]]\n[[div class=\"blockquote\"]]\n　\n[[div class=\"black-color\"]]\n[[include component:coltop show=そうだ、その｢1つ｣以外許してはならない。|hide=ＭＭＭ、ＭＭ｢7Ｍ｣ＭＭＭＭＭＭＭＭＭＭ。]]\n[[include component:colend nohide=true]]'\nmove: '1'\noriginauthor: Kyaruru\nredirect-b: '[[module Redirect destination=\"/scp-flavor'\nredirect-e: '\"]]'",
+  "tags": [
+    "jp",
+    "剪定対象-子"
+  ],
+  "author": "ukwhatn",
+  "created_at": "2021-08-22T14:38:58+00:00",
+  "updated_at": "2021-08-22T14:38:59+00:00",
+  "rating": -1,
+  "_site": "scp-jp",
+  "_fullname": "scp-flavor:00817"
+}

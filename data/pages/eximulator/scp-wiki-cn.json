@@ -1,0 +1,13 @@
+{
+  "title": "喵喵",
+  "content": "日翻英翻嵌字都干，干得都烂，擅长喵喵叫\n感谢各位的帮助\n\n[[collapsible show=\"+ 页面自查\" hide=\"- 页面自查\"]]\n\n[[include component:author-page-tool order=updated_at desc|category=*|tag=-foo|default=0|note=最近编辑：{{**%%updated_by_linked%%**}} 时间：{{**%%updated_at%%**}}]]\n\n[[/collapsible]]",
+  "tags": [
+    "作者"
+  ],
+  "author": "Eximulator",
+  "created_at": "2023-04-09T18:01:33+00:00",
+  "updated_at": "2023-04-20T10:33:45+00:00",
+  "rating": 10,
+  "_site": "scp-wiki-cn",
+  "_fullname": "eximulator"
+}

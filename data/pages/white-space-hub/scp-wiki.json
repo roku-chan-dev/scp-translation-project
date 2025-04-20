@@ -1,0 +1,16 @@
+{
+  "title": "white space (HUB)",
+  "content": "[[include theme:scp-trans-pride |trans-pride-logo= --]]]\n\n[[module CSS]]\n/* INCREASING WHITE SPACE */\n.main-text > p {\n  font-size: 105%;\n  margin: 40px auto;\n}\n\n/* LINKS */\n.main-text a {\n  background: #dedede;\n  border: 4px solid #aaa;\n  margin: 60px 0;\n  transition: 0.75s;\n  display: block;\n  padding: 15px 10px;\n  text-align: center;\n}\n.main-text a:hover {\n  background: rgb(0,0,0,0);\n  border: 4px solid rgb(0,0,0,0);\n}\n[[/module]]\n\n[[>]]\n[[module Rate]]\n[[/>]]\n\nThe necessity for human involvement in Foundation affairs was phased out a long time ago. Quite honestly, we only employ a few flesh-and-blood humans anymore as a formality. It wasn't always like that — people used to //mean// something, once upon a time — but that's the world we live in nowadays.\n\nA post-human world. One ruled and consumed by the white space between stanzas in a poem.\n\nAfter the Automation Initiative, we kept locking things in boxes because that's what we were good at, and we liked the quiet rush of world domination, but everything else felt //numb//. There were no more medals of honor awarded, no more laughter in the canteen, no more sense that what we were doing truly mattered.\n\nThere was only the static drip of the sky — dead channels in our heads that made us think in null-speak.\n\nThe Automatons who ran our sites told us there were metaphysical clay pots buried in the static. But the pots made our heads leak because they spoke in another tongue, so we phased out language, too. We dug deep to find more, amending our understanding of normalcy along the way until we became everything but human.\n\nIt was a brave, tortured world of steel and concrete, run by men turned alien turned god-head. Amidst our divine self-cannibalization we looked to the dead sky and begged for realization, actualization, solidity, form, truth, //being//.\n\n[[div style=\"margin: 80px auto; text-align: center\"]]\n**And then the static-screamers gave us Astaroth.**\n[[/div]]\n\nIt was once said that the Foundation has no endgame. But if we did — if we had an answer to each and every one of the world's problems — would you trust us then?\n\n@@ @@\n@@ @@\n@@ @@\n\n[[div class=\"main-text\"]]\n\n+ [[[Slipping Away | AFTERLIFE OPHIDIAN /// The Foundation Over Heaven]]]\n\n+ [[[The Eschaton | Serpent Bound \\\\\\ BEAR WITNESS]]]\n\n+ [[[SCP-4736 | DEAD WEIGHT ≡ DON'T KILL THE VIBE]]]\n\n+ [[[Nagiros' Proposal | R ¦ A ¦ G ¦ E]]]\n[[/div]]\n\n[[div style=\"height: 25px\"]]\n[[/div]]\n\n[[include :scp-wiki:component:license-box]]\n[!-- N/A (No Images)  --]\n[[include :scp-wiki:component:license-box-end]]",
+  "tags": [
+    "_licensebox",
+    "_tale-hub",
+    "deepwell-catalog",
+    "hub"
+  ],
+  "author": "Nagiros",
+  "created_at": "2020-05-11T17:18:55+00:00",
+  "updated_at": "2024-10-07T05:47:33+00:00",
+  "rating": 108,
+  "_site": "scp-wiki",
+  "_fullname": "white-space-hub"
+}

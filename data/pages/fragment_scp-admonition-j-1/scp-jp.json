@@ -1,0 +1,14 @@
+{
+  "title": "Scp Admonition J 1",
+  "content": "[[include :scp-wiki:theme:admo astral=a]]\n\n[[module CSS]]\n\n/* SCP-7243 -  EXISTENTIAL ABATEMENT */\n/* ACCESSIBILITY PATCH */\n\n:is(.table1, .table2, .table3, .table4, .table5, .table6) h1 {\ncolor: inherit;\n}\n\n.packet {\nbackground: rgb(var(--basalt-tertiary-color));\n}\n\n.oracle-wave {\nbackground-image: linear-gradient(180deg, transparent 0%, rgba(0, 0, 0, 0.125) 100%);\n}\n\n.oracle-wave.end {\nbackground-image: linear-gradient(0deg, transparent 0%, rgba(0, 0, 0, 0.125) 100%);\n}\n\n[[/module]]\n\n[[div class=\"admo-accessibility\"]]\n[[span class=\"cond\"]]>> [/scp-admonition-j この記事の真の実力を見たいならここをクリック] <<[[/span]]\n[[/div]]",
+  "tags": [
+    "en",
+    "フラグメント"
+  ],
+  "author": "Witherite",
+  "created_at": "2025-01-01T00:00:08+00:00",
+  "updated_at": "2025-01-01T00:01:28+00:00",
+  "rating": 0,
+  "_site": "scp-jp",
+  "_fullname": "fragment:scp-admonition-j-1"
+}

@@ -1,0 +1,13 @@
+{
+  "title": "HaydensArtPage",
+  "content": "[[include :scp-wiki:theme:lampeter-warm]]\n[[include :scp-wiki:component:toggle-sidebar]]\n\n[[>]]\n[[module Rate]]\n[[/>]]\n\n+ The Artist!\n\n> Hello, I'm Hayden, or [[*user HaydenSaintPascal]]. I like doing art, and I'm learning CSS to make some cool themes for the site! Infact the [https://scp-wiki.wikidot.com/theme:lampeter-warm theme] used on this page was made by me!\n>> Feel free to send me any SCPs or tales that you thank may captivate me into making art or a theme!\n@@ @@\n> **EVIL AMPERSAND:** AMPERSAND ATTACK!!!!!! &&&&&&&&&&&&&&&&&\n\n----\n\n+ The art:\n\n- [https://scp-wiki.wikidot.com/art:next-train-out Next train out]\n\n@@ @@\n\n- [https://scp-wiki.wikidot.com/art:murphy-law-in-these-red-lights Murphy Law - in - THESE RED LIGHTS]\n\n----\n\n+ Themes:\n\n- [https://scp-wiki.wikidot.com/theme:lampeter-warm Lampeter Theme (Warm)]\n\n- Lamplight Theme coming soon!\n\n- Cold Lampeter Theme coming soon!\n\n- (neon god may be coming soon)\n\n----\n\n[[collapsible show=\"show comments\" hide=\"close\"]]\n[[module Comments]]\n[[/collapsible]]",
+  "tags": [
+    "artist"
+  ],
+  "author": "HaydenSaintPascal",
+  "created_at": "2025-04-15T02:02:43+00:00",
+  "updated_at": "2025-04-17T16:29:06+00:00",
+  "rating": 18,
+  "_site": "scp-wiki",
+  "_fullname": "art:haydensartpage"
+}

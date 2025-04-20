@@ -1,0 +1,22 @@
+{
+  "title": "SCP-5547",
+  "content": "[[include :scp-wiki:theme:magnus-web-format]]\n\n[[include info:start]]\n@@ @@\n\nSCP-5547 \"Sunken Hope\" by:** [[*user DrAkimoto]]\n@@ @@\n[[=]]\n+++ [http://www.scp-wiki.net/drakimoto-s-author-page ★ DrAkimoto's Author Page ★]\n[[/=]]\n[[include component:ratio-bar pie=--]]\n[[include info:end]]\n@@@@\n[[div class=\"addenda-header\"]]\n++ **Item #:** SCP-5547\n\n++ **Object Class:** Safe\n[[/div]]\n[[div class=\"addenda-header\"]]\n++++ **__Special Containment Procedures__**\nThe preserved remains of Maria Kaper will remain in Biological Storage Locker 56 at Site-52. Results of previous examinations are available to personnel upon request. The Submersible Research Vessel Gavin is stored within Anomalous Vehicle Storage Hangar 02 and will be deconstructed for permanent storage on 2021/04/20.\n[[/div]]\n[[div class=\"addenda-header\"]]\n++++ **__Description__**\nSCP-5547 designates the anomalous circumstances surrounding the death of marine geologist Maria Kaper onboard the Submersible Research Vessel Gavin during a routine survey on 2008/04/16. While conducting research 14 km off the eastern coast of Puerto Rico, turbulence caused by a thunderstorm caused the RSV Gavin to be separated from the SS Calypso, to which it was previously attached. The US Coast Guard attempted to locate the detached submersible but after conducting searches for two weeks Maria Kaper was assumed deceased and the RSV Gavin unrecoverable.\n[[include component:image-block\n    name=sub.jpg|\n    caption=The RSV Gavin.|\n    width=200px\n]]\nOn 2009/05/22, an unrelated research team inadvertently discovered the RSV Gavin 26 km from its previously recorded location. After a month of preparation, the RSV was recovered and brought ashore by the US Coast Guard. \n\nAnalysis of Maria Kaper indicated the cause of death to be self-induced asphyxiation. Ms. Kaper appeared to have suffered extensively from the symptoms of dehydration, starvation, and various conditions related to long periods of inactivity[[footnote]] Deep vein thrombosis, extreme muscle loss, and spinal compression.[[/footnote]], despite these conditions not inhibiting bodily function. Decomposition dating revealed that Ms. Kaper had only been deceased for approximately one month prior to her discovery. The presence of 365 tally marks etched into the bulkheads of the submersible are presumed to indicate the tracking of days. Due to the unexplainable nature of the incident, the Coast Guard contact the Foundation at which time standard containment and concealment efforts were enacted. \n\nThough extensive analysis has been conducted on the remains of Maria Kaper and the RSV Gavin, no explanation has been reached as to how she managed to survive for approximately one year without food, water, or oxygen. Due to a lack of potential leads, further investigation in SCP-5547 has been discontinued. A vote to redesignate SCP-5547 as Neutralized is scheduled for 2022/04/20.\n[[/div]]\n@@ @@\n[[footnoteblock]]\n[[div class=\"footer-wikiwalk-nav\"]]\n[[=]]\n<< [[[SCP-5546]]] | SCP-5547 | [[[SCP-5548]]] >>\n[[/=]]\n[[/div]]\n[[include :scp-wiki:component:license-box]]\n=====\n> **Filename:** sub.jpg\n> **Author:** KEN\n> **License:** CC BY-SA 2.0\n> **Source Link:** https://commons.m.wikimedia.org/wiki/File:MiniU.jpg#mw-jump-to-license\n=====\n[[include :scp-wiki:component:license-box-end]]",
+  "tags": [
+    "_cc",
+    "_licensebox",
+    "_marine",
+    "aquatic",
+    "jam-con2021",
+    "meteorological",
+    "safe",
+    "scp",
+    "temporal",
+    "vehicle"
+  ],
+  "author": "DrAkimoto",
+  "created_at": "2021-03-22T23:20:41+00:00",
+  "updated_at": "2021-08-23T04:41:15+00:00",
+  "rating": 22,
+  "_site": "scp-wiki",
+  "_fullname": "scp-5547"
+}

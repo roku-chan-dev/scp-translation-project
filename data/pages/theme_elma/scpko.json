@@ -1,0 +1,15 @@
+{
+  "title": "엘마외교 테마",
+  "content": "[[include :scp-jp:theme:elma]]\n\n[[module css]]\n@import url(https://scpko.wdfiles.com/local--code/theme:elma);\n[[/module]]\n[[iftags +테마]]\n\n[[>]]\n[[module Rate]]\n[[/>]]\n\n> **이름**: 엘마외교 테마\n> **작성자**: [[*user indonootoko]]\n\n사용법:\n\n[[div class=\"code\"]]\n@@[[include :scpko:theme:elma]]@@\n[[/div]]\n\n이 테마는 엘마외교 관련 작품을 위해 만들어졌습니다. [[*user 7happy7]]가 만든 MCF 테마를 수정해 만들었습니다.\n\n헤더 로고는 [[*user indonootoko]]가 제작했고, 엘마외교 로고심볼은 [[*user Mitan]]이 제작했습니다.\n\n\n\n[[code type=\"css\"]]\n@charset \"utf-8\";\n@import url('https://scp-jp.wdfiles.com/local--code/theme:elma');\n@import url('https://scpko.wdfiles.com/local--files/unfont/UnBatang.css');\n@import url('https://scpko.wdfiles.com/local--files/unfont/UnDotumBold.css');\n\nh1,\n#page-title,\n#header h1 a,\n#header h2 span {\n    font-family: 'sansationregular', 'UnDotumBold', sans-serif;\n}\n\nbody,\ndiv.wiki-note,\ndiv.sexy-box {\n    font-family: 'sansationregular', 'Batang', 'UnBatang', serif;\n}\n\n.page-rate-widget-box .rate-points {\n    font-family: sansationregular, sans-serif !important;\n}\n[[/code]]\n[[/iftags]]",
+  "tags": [
+    "jp",
+    "엘마외교",
+    "테마"
+  ],
+  "author": "Salamander724",
+  "created_at": "2021-02-07T18:32:04+00:00",
+  "updated_at": "2025-01-26T12:07:25+00:00",
+  "rating": 1,
+  "_site": "scpko",
+  "_fullname": "theme:elma"
+}

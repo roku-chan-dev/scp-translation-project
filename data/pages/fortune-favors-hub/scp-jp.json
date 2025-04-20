@@ -1,0 +1,16 @@
+{
+  "title": "運命の女神",
+  "content": "[[module CSS]]\n\n#page-title,\n.meta-title {\n    display: none;\n}\n\n[[/module]]\n\n[[>]]\n[[module Rate]]\n[[/>]]\n@@ @@\n[[include :scp-wiki:component:author-label-source start=--\n|name=Calibold\n|no-right-margin=*]]\n[[=]]\n[[module ListPages range=\".\"]]\n**%%title%%**\n[[/module]]\n\n**[[[Calibri Bold's Mega Cool Author Page|Calibold's Mega Cool Author Page]]]**\n[[/=]]\n[[include :scp-wiki:component:author-label-source end=--]]\n\n[[=]]\n\n> + 運命の女神\n>\n> //カルヴィン・ボールドは恐怖する。財団での地位が失われることに恐怖する。信用の置けない人物にアノマリーの終了を任せることに恐怖する。足を引っ張ることに恐怖する。彼は死に向かうことに恐怖する。//\n> \n> //残念ながら、財団というのは恐れに価値が見出せる場所でも役に立つ場所でもない。未知と危険に対する戦線なのである。//\n> \n> //カルヴィンには二つの課題がある。//\n> \n> //1. 抱いている恐怖を克服する//\n> //2. 全てを制御下に置く//\n\n[[=image http://scp-jp-storage.wikidot.com/local--files/file:5653117-114-3t38/Dr.%20C.%20Bold style=\"width:50%;\"]]\n\n@@ @@\n@@ @@\n@@ @@\n@@ @@\n\n+ SEASON ONE\n\n++++ 舞台の用意\n\n> [[[A Bold Choice]]]\n> \n> [[[Responsible Promotion]]]\n> \n> [[[SCP-4456|SCP-4456-D: スペイン解体任務]]]\n> \n> [[size 75%]]↳ 追記: [[[Manifest 476|Manifest 476: Vanishing Galleon]]][[/size]]\n> \n> [[[Mission Decommission|Mission: Decommission]]]\n> \n> [[size 75%]]↳ 追記: [http://wanderers-library.wikidot.com/remnant-of-another-future Remnant Of Another Future] (放浪者の図書館)[[/size]]\n\n@@ @@\n@@ @@\n@@ @@\n@@ @@\n\n+ SEASON TWO\n++++ Coming Soon!\n\n@@ @@\n@@ @@\n@@ @@\n@@ @@\n\n++ カルヴィン・ボールド管理官に注目したその他作品\n\n> [[[SCP-4943|SCP-4943: Transcendence]]] by [[user Attila the Pun]]\n> \n> [[[Anthem Of The Angels]]] by [[user CelesteKara]]\n> \n> [[[skyisover-thiscruelmoon-weintertwined|This Cruel Moon]]] by [[user CelesteKara]]\n> \n> [[[SCP-5281|SCP-5281-D: 時の人]]] by [[user HarryBlank]]\n> \n> [[[SCP-6900|SCP-6900-D: The House of Stars]]] by [[user Calibold]]\n\n[[/=]]",
+  "tags": [
+    "en",
+    "ハブ",
+    "ボールド管理官",
+    "解体部門"
+  ],
+  "author": "Zatto13",
+  "created_at": "2021-10-16T05:58:39+00:00",
+  "updated_at": "2023-09-07T17:59:46+00:00",
+  "rating": 24,
+  "_site": "scp-jp",
+  "_fullname": "fortune-favors-hub"
+}

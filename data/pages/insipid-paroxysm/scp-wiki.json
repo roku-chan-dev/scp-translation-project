@@ -1,0 +1,14 @@
+{
+  "title": "InsipidParoxysm's Author Page",
+  "content": "[[include component:image-block name=frt.jpg|caption=Doctor Paroxysm, hard at work.]]\n\n**Personnel Name:** //Hylocereus undatu//\n\n**Date of Recruitment:** January 23rd, 2013\n\n**Security Clearance:** [[footnote]] //What kind of clearance do we even give to a fruit?//\n-Doctor Markis[[/footnote]]\n\n**Current Assignment:** Biological Anomaly Unit\n\n**Position:** Researcher\n\n**Current Location:** [REDACTED]\n\n**Office Location:** [http://scpsandbox2.wikidot.com/insipidparoxysm Doctor Paroxysm's Works]\n\n> Yes, that is a dragonfruit. Yes, it is sentient. Anyone who states otherwise will report immediately to the Fruitism subsection of the Ethics Committee.\n\n-----\n> \n> \n> \n> **Hubs:** \n> * [[[Green Thumb]]]\n> \n> \n> \n[[=]]\n+++ SCPs\n[[/=]]\n[[module ListPages created_by=\"InsipidParoxysm\" separate=\"no\" tags=\"scp, joke\" order=\"created\" prependLine=\"||~ Articles Authored ||~ Rating ||~ Comments ||~ Created ||~ Last Comment ||~ Last Edit ||\"]]\n|| %%title_linked%% || %%rating%% || %%comments%% || %%created_at%% || %%commented_at%% || %%date_edited%% ||\n[[/module]]\n\n[[=]]\n+++ Tales\n[[/=]]\n[[module ListPages created_by=\"InsipidParoxysm\" separate=\"no\" tags=\"tale\" order=\"created\" prependLine=\"||~ Tales Spun ||~ Rating ||~ Comments ||~ Created ||~ Last Comment ||\"]]\n|| %%title_linked%% || %%rating%% || %%comments%% || %%created_at%% || %%commented_at%% ||\n[[/module]]\n\n[[=]]\n+++ GOI Format Articles\n[[/=]]\n[[module ListPages created_by=\"InsipidParoxysm\" separate=\"no\" tags=\"goi-format\" order=\"created\" prependLine=\"||~ Tale ||~ Rating ||~ Comments ||~ Created ||~ Last Comment ||\"]] \n|| %%title_linked%% || %%rating%% || %%comments%% || %%created_at%% || %%commented_at%% ||\n[[/module]]",
+  "tags": [
+    "_cc",
+    "author"
+  ],
+  "author": "InsipidParoxysm",
+  "created_at": "2014-10-01T23:24:23+00:00",
+  "updated_at": "2019-10-11T00:21:42+00:00",
+  "rating": 17,
+  "_site": "scp-wiki",
+  "_fullname": "insipid-paroxysm"
+}

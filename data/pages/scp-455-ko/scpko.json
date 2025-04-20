@@ -1,0 +1,21 @@
+{
+  "title": "SCP-455-KO",
+  "content": "[[include :scpko:theme:simple-yonder]]\n[[include :scpko:component:toggle-sidebar]]\n[[include :scpko:component:ratio-bar base=--]]\n[[include :scp-wiki:component:fade-in speed=3]]\n[[module CSS]]\n.authorlink-wrapper {\n    --author-top-adjust: -0.65rem;\n    --author-bottom-adjust: -0.1rem;\n}\n[[/module]]\n[[>]]\n[[module Rate]]\n[[/>]]\n[[include :scpko:component:author-label-source start=--\n|name=Agent S K\n|no-right-margin=*]]\n**SCP-455-KO** - 초대용량살충제 by [[*user Agent S K]] [*http://scpko.wikidot.com/agent-s-k-s-personnel-file #]\n**이미지 크레딧:** [*https://commons.m.wikimedia.org/wiki/File:Battle_of_Messines_-_Map.jpg 링크]\n**[*http://scpko.wikidot.com/fragment:scp-455-ko-1 오프셋 1 링크]** / **[*http://scpko.wikidot.com/fragment:scp-455-ko-2 오프셋 2 링크]**\n------\n[[include :scpko:component:ratio-bar pie=--]]\n------\n[[include :scpko:component:author-label-source end=--]]\n\n[[module ListPages category=\"fragment\" parent=\".\" order=\"created_at\" limit=\"1\" offset=\"@URL|0\"]]\n%%content%%\n[[/module]]\n\n[!-- http://scpko.wikidot.com/fragment:scp-455-ko-1 --]\n[!-- http://scpko.wikidot.com/fragment:scp-455-ko-2 --]",
+  "tags": [
+    "2022-별칭경연",
+    "ko",
+    "scp",
+    "군사",
+    "무기",
+    "무효",
+    "역사적",
+    "지하",
+    "케테르"
+  ],
+  "author": "Agent S K",
+  "created_at": "2022-09-06T15:52:15+00:00",
+  "updated_at": "2023-11-04T13:44:12+00:00",
+  "rating": 18,
+  "_site": "scpko",
+  "_fullname": "scp-455-ko"
+}

@@ -1,0 +1,19 @@
+{
+  "title": "SCP-3644",
+  "content": "[[include :scp-wiki:theme:black-highlighter-theme]]\n\n[[include :scp-wiki:component:bhl-dark-sidebar]]\n\n[[include :scp-wiki:component:toggle-sidebar-bhl]]\n\n[[include :scp-wiki:component:pride-highlighter |inc-bi= --]]]\n\n[[include :scp-wiki:component:acs-animation]]\n\n[[>]]\n[[module rate]]\n[[/>]]\n\n[[include :scp-wiki:component:anomaly-class-bar-source\n|item-number= 3644\n|clearance=  TBD\n|container-class= TBD\n|disruption-class= TBD\n|risk-class= TBD\n]]\n\n[[include :scp-wiki:component:customizable-acs\n|containment-class= TBD\n|containment-image= https://scp-wiki.wdfiles.com/local--files/scp-3644/tbd.png\n|containment-color= 0, 0, 0\n|inc-containment = --]]]\n\n[[include :scp-wiki:component:customizable-acs\n|disruption-class= TBD\n|disruption-image= https://scp-wiki.wdfiles.com/local--files/scp-3644/tbd.png\n|disruption-color= 0, 0, 0\n|inc-disruption = --]]]\n\n[[include :scp-wiki:component:customizable-acs\n|risk-class= TBD\n|risk-image= https://scp-wiki.wdfiles.com/local--files/scp-3644/tbd.png\n|risk-color= 0, 0, 0\n|inc-risk = --]]]\n\n-----\n\n**Special Containment Procedures:** Upon the discovery of any entity matching the physical description provided by Dr. Salem-Orden, it is to be placed in standard humanoid containment at [https://scp-wiki.wikidot.com/scp-7420 Site-86]. Upon containment, SCP-3644 is to be placed in the custody of the Temporal Anomalies Department.\n\n**Description:** The SCP-3644 slot in the Foundation database is reserved for an as-yet undiscovered entity witnessed by Dr. Salem-Orden[[footnote]]Site-86's [https://scp-wiki.wikidot.com/scp-7749 regional head] of the [https://scp-wiki.wikidot.com/scp-1780 Temporal Anomalies Department.][[/footnote]] on September 2, 2021.\n\nAccording to Dr. Salem-Orden, the entity manifested inside her office at 12:58 on 09/02/2021. Shortly after the entity's manifestation, another entity bearing the insignia of the Foundation Temporal Anomalies Department (designated SCP-3644-1) manifested in the office and apprehended the entity. Both entities proceeded to demanifest shortly after.\n\nDue to the short amount of time between the entity's manifestation and disappearance, few details regarding the entity's physical appearance could be ascertained. The following physical characteristics were described by Dr. Salem-Orden in her initial report regarding the entity:\n* Entity was similar in appearance to an adult human female.\n* Entity bore a resemblance to Dr. Salem-Orden, though was noted to be approximately ten years older in appearance.\n* Entity wore a uniform similar to those worn by Foundation agents within the Temporal Anomalies Department.\n* Entity wielded a standard-issue Foundation firearm, which it directed toward Dr. Salem-Orden prior to being apprehended.\n[[footnoteblock]]\n[[div class=\"footer-wikiwalk-nav\"]]\n[[=]]\n<< [[[SCP-3643]]] | SCP-3644 | [[[SCP-3645]]] >>\n[[/=]]\n[[/div]]\n\n[[include :scp-wiki:component:license-box]]\n[[include :scp-wiki:component:license-box-end]]",
+  "tags": [
+    "_licensebox",
+    "delta-t",
+    "esoteric-class",
+    "future",
+    "humanoid",
+    "scp",
+    "temporal"
+  ],
+  "author": "Rhineriver",
+  "created_at": "2021-09-06T00:27:04+00:00",
+  "updated_at": "2024-11-09T21:18:27+00:00",
+  "rating": 45,
+  "_site": "scp-wiki",
+  "_fullname": "scp-3644"
+}

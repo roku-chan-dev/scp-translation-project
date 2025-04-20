@@ -1,0 +1,13 @@
+{
+  "title": "对抗",
+  "content": "[[include :scp-wiki:component:toggle-sidebar]]\n[[include :scp-wiki-cn:component:centered-header-sigma-9]]\n[[include :topia:pride-animated-source]]\n[[module CSS]]\n :root{\n   --lgurl: var(--anim-pride);\n}\n\n#header::before{\n   opacity:0.80;\n}\n[[/module]]\n[[>]]\n@@ @@\n[[div style=\"margin-right: 2em; margin-top: -20px;\"]]\n^^by [[[rigen-writes|Rigen]]]^^\n[[/div]]\n[[/>]]\n\n你觉得是我想在黑暗中死去以使你在光明中生活？\n\n你觉得是我选择要在基金会的虚伪下苟活，被家人投射以怜悯的眼神，被朋友和邻居畏惧？\n\n你觉得是我希望自己一生的工作被葬在绝密的面纱下，不见天日？我全部的成就和创新。我所有自救或救人的壮举。我所有阻止的灾难和忍受的痛苦。\n\n你觉得我会轻描淡写地走进未知的奇异的黑夜？\n\n黑月怀着恨嚎叫。\n\n黑月怒斥人类这荒谬的存在。\n\n黑月以神圣的怒火献祭这天，对哂笑的神和冷笑的魔无能为力。\n\n= //但之后还是这个问题，还有什么选择呢？//\n\n冷眼看这世界烧灼？\n\n让你在光明中死去以让我能在黑暗中生活？\n\n让人性自噬，被恐惧、愤怒和贪婪吞没，还有——\n\n让我对光明消逝的怒斥完全扼杀光明？\n\n无论我如何想象这样的画面：若我从未发现过这里，\n\n从未加入基金会，\n\n从未窥视过帷幕以外的世界，\n\n想及我之外的某人不得不承担这同等的责任，\n\n不得不见这同等的恐怖，\n\n不得不流我同等的泪，\n\n不得不在同等的黑暗中死去，\n\n= //我即因惊恐而停止想象。//\n\n所以还是这个问题，还有什么选择呢？\n\n我爱生活在黑暗中，你才能在光明中有所希冀。",
+  "tags": [
+    "故事"
+  ],
+  "author": "Pedder",
+  "created_at": "2021-12-04T14:08:58+00:00",
+  "updated_at": "2021-12-04T14:29:59+00:00",
+  "rating": 2,
+  "_site": "scp-wiki-cn",
+  "_fullname": "antagony"
+}

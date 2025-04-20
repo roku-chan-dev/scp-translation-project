@@ -1,0 +1,15 @@
+{
+  "title": "대칭축",
+  "content": "[[>]]\n[[module Rate]]\n[[/>]]\n\n[[div class=\"scp-image-block block-center\" style=\"width:80%;\"]]\n[[image http://scpko.wikidot.com/local--files/ox-of-symmetry/ox.png {$alt}=\"{$alt-text}\" ]]\n[[/div]]\n@@@@\n[[module ListPages  category=\"fragment\" parent=\".\" limit=\"1\" order=\"created_at\" offset=\"@URL|0\"]]\n%%content%%\n[[/module]]\n\n[!-- https://scpko.wikidot.com/fragment:ox-of-symmetry-0~5 --]",
+  "tags": [
+    "ko",
+    "엔트로피를-넘어서",
+    "이야기"
+  ],
+  "author": "Alexandreo",
+  "created_at": "2021-09-13T22:59:04+00:00",
+  "updated_at": "2024-11-24T03:36:22+00:00",
+  "rating": 7,
+  "_site": "scpko",
+  "_fullname": "ox-of-symmetry"
+}

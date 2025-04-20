@@ -1,0 +1,23 @@
+{
+  "title": "SCP-8883",
+  "content": "[[include :scp-wiki:theme:black-highlighter-theme]]\n[[include :scp-wiki:component:toggle-sidebar-bhl]]\n[[include :scp-wiki:component:centered-header-bhl]]\n[[>]]\n[[module Rate]]\n[[/>]]\n\n[[module ListPages  category=\"fragment\" parent=\".\" limit=\"1\" order=\"created_at\" offset=\"@URL|0\"]]\n%%content%%\n[[/module]]\n\n[!-- https://scp-wiki.wikidot.com/fragment:scp-8883-0 --]\n[!-- https://scp-wiki.wikidot.com/fragment:scp-8883-1 --]",
+  "tags": [
+    "_adult",
+    "_listpages",
+    "animal",
+    "biological",
+    "bittersweet",
+    "body-horror",
+    "euclid",
+    "horror",
+    "medical",
+    "scp",
+    "visual"
+  ],
+  "author": "hi im stel",
+  "created_at": "2024-12-07T17:29:59+00:00",
+  "updated_at": "2024-12-12T00:25:44+00:00",
+  "rating": 79,
+  "_site": "scp-wiki",
+  "_fullname": "scp-8883"
+}

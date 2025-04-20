@@ -1,0 +1,25 @@
+{
+  "title": "SCP-8922",
+  "content": "[[module css]]\n.footnotes-footer {\ndisplay:none;\n}\n[[/module]]\n[[include :scp-wiki:info:start]]\n**SCP-8922:** The Curse of Site-BELUGA\n**Author:** [[*user Daveyoufool]]\n⚠️ **Content warning:** Hoo, boy... depictions of physical and emotional abuse, sexual content (nothing TOO explicit), second offset ends with what could be called a bombing incident at a middle school, gratuitous violence, body horror, vomit, torture. Do not read on a full stomach.\n[[include :scp-wiki:info:end]]\n[[include :scp-wiki:component:info-cw]]\n\n[[module ListPages category=\"fragment\" parent=\".\" order=\"created_at\" limit=\"1\" offset=\"@URL|0\"]]\n%%content%%\n[[/module]]\n\n[!-- https://scp-wiki.wikidot.com/fragment:scp-8922-1 --]\n[!-- https://scp-wiki.wikidot.com/fragment:scp-8922-2 --]\n[!-- https://scp-wiki.wikidot.com/fragment:scp-8922-3 --]\n[!-- https://scp-wiki.wikidot.com/fragment:scp-8922-4 --]\n[!-- https://scp-wiki.wikidot.com/fragment:scp-8922-5 --]\n\n[[div class=\"footer-wikiwalk-nav\"]]\n[[=]]\n<< [[[SCP-8921]]] | SCP-8922 | [[[SCP-8923]]] >>\n[[/=]]\n[[/div]]",
+  "tags": [
+    "_listpages",
+    "anderson",
+    "electronic",
+    "extradimensional",
+    "humanoid",
+    "lgbtq",
+    "robotic",
+    "romance",
+    "safe",
+    "sapient",
+    "science-fiction",
+    "scp",
+    "weapon"
+  ],
+  "author": "daveyoufool",
+  "created_at": "2024-10-31T20:54:19+00:00",
+  "updated_at": "2025-01-28T15:39:36+00:00",
+  "rating": 53,
+  "_site": "scp-wiki",
+  "_fullname": "scp-8922"
+}

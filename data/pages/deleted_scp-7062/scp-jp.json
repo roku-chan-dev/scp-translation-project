@@ -1,0 +1,11 @@
+{
+  "title": "SCP-7062",
+  "content": "[[module css]]\n.page {\n    display: block;\n    overflow: hidden;\n    font-family: \"Monotype Corsiva\", \"Bradley Hand ITC\", sans-serif;\n    font-style: normal;\n    background-attachment: scroll;\n    background-clip: border-box;\n    background-color: transparent;\n    background-image: linear-gradient(to top ,rgb(202, 219, 228) 0%, rgb(231, 233, 220) 8%);\n    background-origin: padding-box;\n    background-position: 0px 8px;\n    background-repeat: repeat;\n    background-size: 100% 20px;\n    border: 1px solid #CCC;\n    border-radius: 10px;\n    padding: 10px 10px;\n    margin-bottom: 10px;\n    box-shadow: 0px 1px 3px rgba(0, 0, 0, 0.2)\n}\n.page p,\n.page ul {\n    line-height: 20px;\n    margin: 0;\n}\n[[/module]]\n\n[[include :scp-jp:credit:start]]\n**タイトル:** SCP-7062 - 乾燥した心臓\n**原題:** http://www.scp-wiki.net/scp-7062\n**著者:** ©︎[[*user voiiiii]]\n**翻訳者:** [[*user 2018]]\n[[include :scp-jp:credit:end]]\n\n[[include :scp-jp:component:anomaly-class-bar-source\n|item-number= 7062\n|clearance= 2\n|container-class= neutralized\n|secondary-class= none\n|secondary-icon=\n|disruption-class=\n|risk-class=\n]]\n\n**特別収容プロトコル:** 収容プロトコルは不要です。\n\n**説明:** SCP-7062は、元財団職員であり現在詩人であるライラ·ベッカーに関連するオブジェクトの総称です。SCP-7062-Aはインクボトルで、ベッカー博士の乾燥した血液でいっぱいです。SCP-7062-Bはベッカー博士の心臓で、体から完全に分離されていますが、正常に機能します。\n\n**回収記録:** SCP-7062は1998年8月9日、ベッカー博士が自宅の机で死亡したまま発見された現場で無効化状態で回収されました。ベッカー博士が住んでいたアパートの調査の結果、ベッカー博士の机からSCP-7062-AとSCP-7062-Bと血液で書かれたいくつかの詩が見つかりました。検視官は、ベッカー博士が急性たこつぼ心筋症[[footnote]]ストレスにより心臓の左心室が緩む現象をいいます。[[/footnote]]で死亡したと報告しました。ベッカー博士の死体周辺の机の上から通常のインクで書かれたメモが置かれていました。以下の内容はメモの内容を記したものです。\n\n[[div class=\"page\"]]\n[[size 110%]]ここに私は一人で座っています。\nすべてが冷たくて暗いです。\nあなたの電話からの連絡を待っています。\nあなたは私の花火でした。\n今私の目から涙が出ています。\nあなたは私に鳩を思い出させるほど美しかったです。\n私にあなたがいた場所の影が見えます。\n今になって分かりました。私に苦痛を与えてくれたのは[[span style=\"color: transparent; text-shadow: 0 0 7px rgba(0,0,0,.5)\"]]愛[[/span]][[/size]]\n[[/div]]\n\nメモの文字はますます読みづらくなりました。そして、最後の文字は涙によって判読がほとんど不可能でした。\n\n[[footnoteblock]]",
+  "tags": [],
+  "author": "2018",
+  "created_at": "2023-02-21T01:49:06+00:00",
+  "updated_at": "2023-02-28T06:51:12+00:00",
+  "rating": -9,
+  "_site": "scp-jp",
+  "_fullname": "deleted:scp-7062"
+}

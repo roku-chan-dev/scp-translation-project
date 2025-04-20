@@ -1,0 +1,18 @@
+{
+  "title": "SCP-7961",
+  "content": "[[include :scp-wiki:theme:blankstyle]]\n[[module css]]\nbody{\n    --barColour: #8c8c8c;\n}\n\n:root{\n  --header-title: \"SCP Foundation\";\n  --header-subtitle: \"Secure, Contain, Protect\";\n}\n\n#header h1 a:before {\n    font-size: 2.0rem;\n}\n\ndiv#extra-div-1 {\n    background-image: url(http://scp-sandbox-3.wdfiles.com/local--files/harry-blank-6/BlankstyleSCP-2.png);\n    filter: opacity(50%);\n}\n\n#page-content .info-container {\n    --link-color: rgb(var(--swatch-text-general));\n}\n\n#page-content .info-container .translation_block {\n    display: none;\n}\n\n#page-content .info-container .collapsible-block-link,\n#page-content .info-container:hover .collapsible-block-link {\n    line-height: 1.6em;\n}\n\n#page-content .info-container .collapsible-block-folded,\n#page-content .info-container .collapsible-block-unfolded-link {\n    display: grid;\n}\n\n#page-content .info-container .collapsible-block-folded .collapsible-block-link,\n#page-content .info-container .collapsible-block-link {\n    -webkit-mask: unset;\n            mask: unset;\n    background: transparent;\n    grid-column: 1;\n    grid-row: 1;\n    opacity: 0;\n}\n\n#page-content .info-container .collapsible-block-folded::before,\n#page-content .info-container .collapsible-block-unfolded-link::before {\n    --wght: 800;\n    content: \"J Dune\";\n    color: #FFFFFF;\n    font-family: Inter, Arimo, Verdana, Geneva, \"Helvetica Neue\", \"Helvetica\", Arial, sans-serif;;\n    display: block;\n    pointer-events: none;\n    grid-column: 1;\n    grid-row: 1;\n    line-height: 2.75ex;\n}\n[[/module]]\n[[>]]\n[[module rate]]\n[[/>]]\n\n**Item #:** SCP-7961\n \n**Object Class:** Standard\n\n[[include component:image-block\nname=https://upload.wikimedia.org/wikipedia/commons/thumb/a/ab/Lasaretinsaari_Oulu_20131226.JPG/1600px-Lasaretinsaari_Oulu_20131226.JPG?20140523170144|caption= Archive photograph, date unknown.|width=250px]]\n\n**Special Containment Procedures:** A surveillance camera has been installed at SCP-7961’s location. Recorded footage is automatically uploaded to gestalt intelligence \"ARK”.\n\nDirect inspection of SCP-7961 is to be performed via an examination drone bi-weekly.\n\n**Description:** SCP-7961 is a lamp post located at the site of a dilapidated pathway in the South East of England.\n\nSCP-7961 continues to function as normal, despite no local AC mains nor central power providers remaining intact. SCP-7961 emits light only when suitable levels of darkness are met in the surrounding area, as standard for non-anomalous lamp posts. The lightbulb has shown no signs of burnout since discovery.\n\nPlant-life surrounds SCP-7961, growing only within the lamplight’s radius. This vegetation and the soil it grows from remains healthy and vibrant, unaffected by the corrosive properties of the global atmosphere. This plant-life consists of grass and several brightly coloured flowers that were previously present over [[[Lily's Proposal|~90% of the planet’s viable surface]]].\n\n**Addendum:** The cultivation of seed pods collected from SCP-7961's location is hindered by the present atmosphere's corrosive properties. Estimates have determined that toxicity levels will be reduced to a suitable amount for growth in exactly 4,672,946 years.\n\n[[div class=\"footer-wikiwalk-nav\"]]\n[[=]]\n<< [[[SCP-7960]]] | SCP-7961 | [[[SCP-7962]]] >>\n[[/=]]\n[[/div]]",
+  "tags": [
+    "_cc",
+    "artifact",
+    "electrical",
+    "esoteric-class",
+    "light",
+    "scp"
+  ],
+  "author": "Penton",
+  "created_at": "2023-08-24T21:55:51+00:00",
+  "updated_at": "2023-09-22T20:13:15+00:00",
+  "rating": 58,
+  "_site": "scp-wiki",
+  "_fullname": "scp-7961"
+}

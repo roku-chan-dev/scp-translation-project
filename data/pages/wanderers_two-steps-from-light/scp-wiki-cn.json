@@ -1,0 +1,15 @@
+{
+  "title": "我与光的邂逅",
+  "content": "[[include :scp-wiki-cn:theme:black-highlighter-theme]]\n[[include :scp-wiki-cn:theme:dustjacket]]\n\n[[>]]\n[[module Rate]]\n[[/>]]\n[[=]]\n时是苦的忧愁，光是愁的苦闷\n@@@@\n海风吹过山头，我与远风邂逅\n@@@@\n祂打理枝头，问我将去何方\n@@@@\n坐标是做梦的方向，没有目标就没有梦与方向\n@@@@\n-------\n我在风中低吟，暗暗下了决心\n@@@@\n去那连光都触及不到的地方\n@@@@\n祂盼着凯旋，时光虚度\n@@@@\n我望着大洋，虚度时光\n@@@@\n------\n现在我已到达那个地方\n@@@@\n肉身化为甘草，灵魂化为思绪\n@@@@\n我的神化为我的路标与思想\n@@@@\n我捧着祂的土灰，追寻我爱祂的时光\n[[/=]]\n[[module CSS]]\n/*\n    Powered on 2019/09/06 03:05:59\n    [2019 Wikidot Theme]\n    Created by hey_kounoike\n    CC BY-SA 3.0\n*/\n\n@import url('https://fonts.googleapis.com/css?family=Noto+Sans+SC|Noto+Serif+SC|Noto+Sans+TC|Noto+Serif+TC&display=swap');\n\nbody {\n    font-family: 'Noto Serif SC', 'Noto Serif TC';\n}\n#page-content tt {\nfont-family: 'Noto Serif SC',verdana,arial,helvetica,sans-serif;\n}\n[[/module]]",
+  "tags": [
+    "wanderers",
+    "原创",
+    "恶性裂痕"
+  ],
+  "author": "Lesionner",
+  "created_at": "2020-07-09T05:01:01+00:00",
+  "updated_at": "2020-09-29T12:28:51+00:00",
+  "rating": 21,
+  "_site": "scp-wiki-cn",
+  "_fullname": "wanderers:two-steps-from-light"
+}

@@ -1,0 +1,13 @@
+{
+  "title": "_템플릿",
+  "content": "[[div class=\"unmargined\" style=\"margin: 0 auto 20px; background-color: #b01; border: solid 1px #b01; border-radius: 20px; box-shadow: 0 1px 6px rgba(0,0,0,.25), inset 0 1px 0 rgba(255,255,255,.8), inset 0 10px 1px rgba(255,255,255,.6), inset 0 -15px 30px rgba(0,0,0,.2); text-align: center; width: 500px;\"]]\n[[div class=\"unmargined\" style=\"margin: 20px 0; font-size: 300%; color: #fff; font-weight: bold; text-shadow: 1px 2px 3px rgba(0,0,0,.5);\"]]\n잠깐 정지!!\n[[/div]]\n[[div class=\"unmargined\" style=\"margin: 20px 0; color: #ff6;\"]]\nSCP 위키 내부에서 사용되는 //템플릿// 페이지입니다.\n[[/div]]\n[[div class=\"unmargined\" style=\"margin: 20px 0; font-size: 120%; font-weight: bold; color: #fff; text-shadow: 1px 2px 3px rgba(0,0,0,.25);\"]]\n운영진의 허가없이\n이 페이지를 만지지 마세요\n[[/div]]\n[[/div]]\n\n----\n\n%%content%%",
+  "tags": [
+    "관리"
+  ],
+  "author": "Dr Devan",
+  "created_at": "2013-12-23T07:00:01+00:00",
+  "updated_at": "2024-09-11T20:10:39+00:00",
+  "rating": 1,
+  "_site": "scpko",
+  "_fullname": "component:_template"
+}

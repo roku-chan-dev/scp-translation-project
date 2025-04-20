@@ -1,0 +1,22 @@
+{
+  "title": "SCP-4352",
+  "content": "[[module CSS]]\n.lie{\n     font-weight: bold;\n     font-family: monospace;\n     font-size: 140%;\n}\n.notice{\n    border: 1px solid #f9e24d;\n    outline: 4px solid #b54d3b;\n    color: #f9e24d;\n    background: #b54d3b;\n    padding: 10px;\n    text-align: center;\n}\n[[/module]]\n\n\n\n[[div class=\"notice\"]]\n[[=]]\n++++ 来自基金会误传部的通知\n\n以下文件包含必要的反信息危害要素。任何接受过记忆删除的4级或4级以上人员在返回工作之前，必须阅读本文件的全部内容。\n\n-- Eli Forkley，误传部（DoMC）主管\n[[/=]]\n[[/div]]\n@@ @@\n@@ @@\n@@ @@\n@@ @@\n@@ @@\n[[include :scp-wiki-cn:component:anomaly-class-bar-source\n\n|lang= cn\n\n|item-number= 4352\n\n|clearance= 1\n\n|container-class= keter\n\n|secondary-class=\n\n|secondary-icon=\n\n|disruption-class= NULL\n\n|risk-class= 警告\n\n]]\n\n[[module css]]\n.anom-bar-container.NULL .text-part .disrupt-class::after {\n    background-image: url(\" \");\n}\n.anom-bar-container.NULL .text-part .disrupt-class::before {\n    content: \"0\";\n}\n[[/module]]\n\n\n**特殊收容措施：**该文件被纳入标准的基金会工作套装中，所有新的基金会人员都必须熟悉其中包含的信息。描述SCP-4352的情节叙述将通过包括电影、电视节目和文学在内的所有可用媒体途径进行传播，并努力确保这些叙述传播到哪怕严重孤立的社区，从而尽可能降低SCP-4352攻击的可能性。\n\n最初由FP-194制作，而现在由基金会传播的收容叙述将包含以下情节元素：\n\n* 一个或多个主角，理想情况下是一个孩子或拟人化的动物，在目标的文化中与纯真有关。\n* 对SCP-4352的物理描述。\n* 提及SCP-4352已使用过的至少一种攻击方法。\n* 试图描述SCP-4352欺骗或以其他方式误导主人公的行为，从而说明SCP-4352的奸诈本性。\n\n如果需要对现有的收容叙述进行彻底修改，以使其适应特殊的社区或文化，基金会误传部有权根据需要进行任何有助于实现收容叙述的更改。\n\n**描述：**SCP-4352是一个有敌意的形而上学实体，它通常存在于人类集体的思维空间中，一旦满足必要的条件，它就能够出现并攻击目标。\n\n* 目标必须没有意识到SCP-4352的存在。\n* 目标必须没有意识到SCP-4352的能力。\n* 目标必须违反了所在文化中的社会规范。\n\n一旦SCP-4352选择了目标，它就能够以多种方式进行攻击。尽管这些方法可以造成重大破坏，但在记录在案的所有事件中，没有发现除目标外的任何个人在这些事件中受到伤害或影响。已记录的方法包括使用牙齿和爪子进行攻击、局部的天气控制和有限的地质运动操纵。\n\n在SCP-4352没有立即攻击已锁定的目标的情况下，记录显示它会对自身使用可变的概念伪装，使得观察它的个人将其识别为他们熟悉的某个特定人类，尽管它的外表在实际上没有改变。然而，这种伪装并不是不可识破的，对SCP-4352非人类身体形态的具体而集中的观察可以将它看穿。\n\nSCP-4352被认为主要存在于10世纪早期的欧洲民众的精神空间中，并主要猎杀农村民众，随着有关该实体的民间传说变得越来越广泛，攻击逐渐减少并最终在19世纪初由于FP-194的努力消失。\n\n[[collapsible show=\"读取文件FP-194\" hide=\"关闭文件FP-194\"]]\n\nFP[[footnote]]基金会的前身组织。[[/footnote]]-194 (“警钟”) ，一个由自然哲学家和神秘主义爱好者组成的小联盟，在19世纪就致力于识别和消灭在这一时期存在于欧洲的许多捕食性异常生物。尽管它们成功地消灭了[[span class=\"ruby\"]]羊鹿[[span class=\"rt\"]]Hircocervus[[/span]][[/span]]和[[span class=\"ruby\"]]反人类独角兽[[span class=\"rt\"]]Anti-Human Unicorn[[/span]][[/span]]，但它们存在的主要目标是消灭SCP-4352。据信，基金会现在使用的原始收容程序最初是由警钟制作并使用的。\n\n[[/collapsible]]\n\n**附录-01：**\n\n测试的内容为让一名D级人员接触SCP-4352。D-2223由于经常违抗命令和反社会倾向而被选中，他有关SCP-4352的先前记忆已被删除，然后被安置在一个通常不允许D级人员进入的存有大量食品的房间里，并被命令禁止食用食品。不出意外地，D-2223在Dr. Lesteigh离开房间后马上就开始食用大部分的食物。\n\n记录开始于这之后不久。\n\n> **<开始记录>**\n> \n> **D-2223：**这，你想让我就坐在这看着那堆狗屎，你真是他妈的白痴。\n> \n> **Dr. Lesteigh：**啊，是，是的，当然。你确实做得不错！\n> \n> **D-2223：**操蛋。\n> \n> //(D-2223坐在提供的椅子上)//\n> \n> **D-2223：**那现在该发生点什么？\n> \n> **Dr. Lesteigh：**呃，我们只需要等着，我建议，对吧？你介意我坐下吗？一张小椅子？\n> \n> **D-2223：**兄弟，这椅子是你的，爱怎样怎样。\n> \n> **Dr. Lesteigh：**是，是的，当然。\n> \n> //(Dr. Lesteigh坐下并把爪子放在桌子上。)//\n> \n> **Dr. Lesteigh：**啊，放松下真好。\n> \n> **D-2223：**哇，兄弟，真的恶心。//(对Dr. Lesteigh的爪子做出手势)//你要剪指甲了，真恶心。\n> \n> **Dr. Lesteigh：**//(嗅了一下)//啊，我非常抱歉。我最近没什么空闲时间。你可以帮我固定下领结吗？\n> \n> //(停顿)//\n> \n> **D-2223：**你他妈认真的，兄弟？\n> \n> **Dr. Lesteigh：**是的！你归我管，难道不是吗？\n> \n> //(停顿，D-2223叹了口气，站起来，走去帮Dr. Lesteigh固定领带，但他很难找到它。)//\n> \n> **D-2223：**你那狗屎真难找。你真的，像是，他妈的多毛人，兄弟。你该去剃剃了。\n> \n> **Dr. Lesteigh：**是的，的确是的！\n> \n> **D-2223：**还有你......\n> \n> //(停顿)//\n> \n> **D-2223：**还有你//很臭//。\n> \n> **Dr. Lesteigh：**//(咧开嘴笑)//是的，的确是。\n> \n> **<记录结束>**\n> \n> **结束语：**测试结束，在确认SCP-4352返回人类思维空间后，安全人员进入采访室，找回D-2223的遗体。发现对象被锋利的爪子垂直破开，并且所有可能的空腔中都被塞入了大量的石头、羊毛和山羊胚胎。\n\n**附录-02：**\n\n[[collapsible show=\"读取附录内容\" hide=\"关闭附录内容\"]]\n[[div class=\"scp-image-block block-center\" style=\"width:100%;\"]]\n[[image http://scp-wiki.wdfiles.com/local--files/scp-4352/GrimmLong.png style=\"width:100%;\" link=#]]\n[[div class=\"scp-image-caption\" style=\"width:100%;\"]]\nJacob Ludwig Karl Grimm与Wilhelm Carl Grimm，已知与警钟密切联系，他们主要负责19世纪收容叙事的扩大传播。\n[[/div]]\n[[/div]]\n\n以下是为抑制SCP-4352的影响而传播的原始收容叙述的摘录，该存档用于历史研究目的。所有已知的SCP-4352收容叙述的完整档案可根据基金会历史部门的要求提供。\n\n> “……有一个可爱的小女孩，每个人都爱她，但最爱她的是她的祖母，没有什么是她不会给小女孩的。有一次，祖母给了她一个红色天鹅绒的小骑马帽，这顶帽子非常适合她，她再也不会戴别的帽子了；所以她总是被称为‘小红帽’”。\n[[/collapsible]]\n\n[[footnoteblock]]\n\n[[div class=\"footer-wikiwalk-nav\"]]\n[[=]]\n<< [[[SCP-4483]]] | SCP-4484 | [[[SCP-4485]]] >>\n[[/=]]\n[[/div]]",
+  "tags": [
+    "keter",
+    "scp",
+    "人形生物",
+    "动物",
+    "叙述性",
+    "合著",
+    "感知力",
+    "感知影响",
+    "敌意",
+    "误传部"
+  ],
+  "author": "ZhongZh",
+  "created_at": "2019-09-25T12:59:49+00:00",
+  "updated_at": "2020-11-10T10:07:44+00:00",
+  "rating": 9,
+  "_site": "scp-wiki-cn",
+  "_fullname": "scp-4352"
+}

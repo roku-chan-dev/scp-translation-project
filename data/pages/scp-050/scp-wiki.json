@@ -1,0 +1,19 @@
+{
+  "title": "SCP-050",
+  "content": "[[include :scp-wiki:component:scp-pride]]\n\n[[>]]\n[[module Rate]]\n[[/>]]\n\n**Item #:** SCP-050\n\n**Object Class:** Euclid\n\n**Special Containment Procedures:** So far, all attempts to contain SCP-050 have proven fruitless[[footnote]]Testing to contain SCP-050 has been discontinued at this time.[[/footnote]]. At present, whoever has possession of SCP-050 is to leave it in an office they use with regularity[[footnote]]Attempts to leave SCP-050 in unused offices have resulted in it following its owner home. This is a violation of regulations and not to be allowed.[[/footnote]].\n\n**Description:** SCP-050 appears to be a statue of a monkey reading a book, approximately 1 foot[[footnote]]One of the quirks of SCP-050 is that no matter what form of measurement is used, any record of said measurements will quickly be replaced by the Customary System measurements.[[/footnote]] tall. On the bottom of the statue are engraved the words \"To The Cleverest\" in cursive script.\n\nThe statue has so far proven resistant to all forms of damage[[footnote]]Attempts to damage SCP-050 have resulted in increasingly lethal 'pranks.' As of this writing, destruction testing is discontinued.[[/footnote]]. As such, there is no accurate method to date the object.\n\nWhen left alone, SCP-050 has shown itself to be both useful and antagonistic to its current owner[[footnote]]See [[[Document 050]]].[[/footnote]]. Although never seen to move, no matter the manner or amount of recordings, any room it is left in becomes very clean, to a polish whenever possible. Paperwork is filed, trash is emptied, and in general, clutter is removed. However, SCP-050 also has a tendency to leave traps for its owner, so current holders should carefully check their offices upon returning.\n\n-----\n\n[[footnoteblock]]\n\n[[div class=\"footer-wikiwalk-nav\"]]\n[[=]]\n<< [[[SCP-049]]] | SCP-050 | [[[SCP-051]]] >>\n[[/=]]\n[[/div]]\n\n[[include :scp-wiki:component:license-box\n|author=AdminBright]]\n[!-- N/A (No Images)  --]\n[[include :scp-wiki:component:license-box-end]]",
+  "tags": [
+    "_licensebox",
+    "euclid",
+    "indestructible",
+    "primate",
+    "sapient",
+    "scp",
+    "sculpture"
+  ],
+  "author": "AdminBright",
+  "created_at": "2009-02-27T07:55:43+00:00",
+  "updated_at": "2022-10-08T18:27:36+00:00",
+  "rating": 497,
+  "_site": "scp-wiki",
+  "_fullname": "scp-050"
+}

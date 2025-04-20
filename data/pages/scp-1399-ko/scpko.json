@@ -1,0 +1,20 @@
+{
+  "title": "SCP-1399-KO",
+  "content": "[[include :scpko:info:start]]\n\n**SCP-1399-KO:** 가라앉는 시선들 by [[[pseudoworld-simulation|2misi]]], [[[dmddo|dmddo]]]\n\n**저작권 크레딧:**\n* **SCP-1399-KO의 윤곽:** [[[https://commons.m.wikimedia.org/wiki/File:Megamouthshark.jpg|출처]]], [[*user dmddo]] 편집.\n* **격리실의 윤슬:** [[[https://commons.m.wikimedia.org/wiki/File:Girls,_shore,_water_surface_Fortepan_8737.jpg|출처]]], [[*user dmddo]] 편집.\n* **SCP-1399-KO의 좌측 대가리:** [[[https://commons.m.wikimedia.org/wiki/File:WA_Maritime_Museum_-_Joy_of_Museums_-_Megamouth_Shark.jpg|출처]]], [[*user dmddo]] 편집.\n* **SCP-1399-KO의 우측 대가리:** [[[https://commons.m.wikimedia.org/wiki/File:Megamouth_shark_head_WAMM.jpg|출처]]], [[*user dmddo]] 편집.\n* **파괴된 고위험군 격리구역:** [[[https://commons.m.wikimedia.org/wiki/File:USS_West_Bridge_torpedo_damage,_boiler.jpg|출처]]]\n\nhttp://scpko.wikidot.com/fragment:scp-1399-ko-0\nhttp://scpko.wikidot.com/fragment:scp-1399-ko-1\n\n[[include :scpko:component:ratio-bar pie=--]]\n[[include :scpko:info:end]]\n\n[[module ListPages category=\"fragment\" parent=\".\" order=\"created_at\" limit=\"1\" offset=\"@URL|0\"]]\n%%content%%\n[[/module]]\n\n[!-- http://scpko.wikidot.com/fragment:scp-1399-ko-0 --]\n[!-- http://scpko.wikidot.com/fragment:scp-1399-ko-1 --]",
+  "tags": [
+    "2023-연말경연-ko",
+    "ko",
+    "scp",
+    "공저",
+    "동물",
+    "물고기",
+    "생물",
+    "케테르"
+  ],
+  "author": "2misi",
+  "created_at": "2023-12-05T14:14:23+00:00",
+  "updated_at": "2023-12-05T14:55:26+00:00",
+  "rating": 17,
+  "_site": "scpko",
+  "_fullname": "scp-1399-ko"
+}

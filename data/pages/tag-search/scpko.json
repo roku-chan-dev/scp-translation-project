@@ -1,0 +1,13 @@
+{
+  "title": "태그 검색",
+  "content": "[[module CSS]]\n#page-title {\n  display: none;\n}\n[[/module]]\n\n[[include :crom:tag-search\n| lang=ko\n| wiki=scp-wiki-ko\n| config=http://scpko.wdfiles.com/local--code/toml-tag-list/1]]",
+  "tags": [
+    "관리"
+  ],
+  "author": "Meiden",
+  "created_at": "2022-07-20T14:37:46+00:00",
+  "updated_at": "2022-07-27T00:41:31+00:00",
+  "rating": 7,
+  "_site": "scpko",
+  "_fullname": "tag-search"
+}

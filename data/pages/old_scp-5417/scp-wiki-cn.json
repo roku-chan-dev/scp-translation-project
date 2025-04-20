@@ -1,0 +1,23 @@
+{
+  "title": "SCP-5417（旧）",
+  "content": "[[include :scp-wiki-cn:theme:black-highlighter-theme]]\n[[include :scp-wiki:component:bhl-dark-sidebar]]\n[[include :scp-wiki:component:centered-header-bhl]]\n[[include :scp-wiki:component:toggle-sidebar-bhl]]\n[[include :scp-wiki:component:fade-in speed=4]]\n[[module CSS]]\n:root {\n    --timeScale: 6;\n    --timeDelay: 6s;\n}\n\n\n.info-container .collapsible-block-folded a{\ncolor: #FFF;}\n.info-container .collapsible-block-unfolded-link a{\ncolor: #FFF;\n}\n\n#page-content > .collapsible-block {\n    display: block;\n    text-align: center;\n    padding: .8em;\n    background-color: #e3e3e3;\n    border-top: 0.125rem dashed #b5b5b5;\n    border-bottom: 0.125rem dashed #b5b5b5;\n}\n\n#page-content > .collapsible-block .collapsible-block-content {\n    text-align: left;\n}\n\nblockquote,\ndiv.blockquote {\n    border: 0.125rem solid #d4d4d4;\n    background-color: #F5F5F5;\n}\n\n.interview{\n    border:solid 2px #d4d4d4;\n    background:#F5F5F5;\n    width:90%;\n    padding:1px 15px;\n    margin: 10px auto;\n}\n\n#page-title{display:none}\n\n[[/module]]\n\n[[include :scp-wiki-cn:component:info-ayers\n|page=scp-5417[!-- url of your page on the scp wiki --]\n|authorPage=plaguepjp[!-- link to your author page --]\n|comments= 一次腐败交易 - PlaguePJP\n]]\n\n[[include :scp-wiki:component:classified-bar-woed\n|lv=5\n|item=5417\n|oc=Keter\n|lang=CN\n|trans-level=级\n|trans-classified=机密\n]]\n\n----\n\n**特殊收容措施：**SCP-5417以及SCP-5417-1--目前由O5-4进行管理--。所有人员，不论何种等级，不应调查此仪式或对其有所了解。此项规定的唯一例外是O5-3。\n\n----\n\n**描述：**SCP-5417是一个召唤SCP-5417-1的仪式，后者为一个可改变事情结果使其对召唤者有利的实体。实体使用由其任意创造的--低水平--无法被探测的模因强制效应实现这类效果，此种效应会影响其他人行为与召唤者的欲望相吻合，直至达到所希望的结果。\n\n||~ SCP-5417的据信使用者||~ 历史背景||\n||拿破仑·波拿巴||在他第一次从法国被流放后，波拿巴在返回法国前与SCP-5417-1接触，随后在一段时间内接管国家。||\n||约翰·昆西·亚当斯||美国第六任总统。在1824年的选举没有产生绝对多数票时，亚当斯与SCP-5417-1接触。亚当斯最终凭借众议院的投票当选总统。||\n||汤姆·布雷迪||在第五十一届超级杯中与SCP-5417-1接触，第三节结束时新英格兰爱国者队以28-9的比分落后于亚特兰大猎鹰队。第四节中，爱国者队得以反超并最终获胜。||\n\n------\n= **附录一**\n------\n\n以下是一段监督者议会针对SCP-5417项目所召开会议的节选转录。\n\n[[div class=\"interview\"]]\n\n**O5-4：**听我说，我们没有必须任何//理由//召唤5417，完全是浪费资源。\n\n**O5-7：**我不得不反对。基于昨晚发生的事件[[footnote]]指汤姆·布雷迪与实体接触。[[/footnote]]，我们要解决一个恶魔实体的潜在大规模暴露。如果我们要无效化这种威胁，就需要与它沟通。\n\n**O5-4：**我们已经投放了大气记忆删除药剂，再进一步接触是不会有任何收获的！\n\n**O5-12：**为什么你这么强硬？你可是项目主管，放松点。\n\n**O5-10：**是啊，你这真的有点奇怪，四。\n\n**O5-4：**你们是在指控我吗？我不想在我们已经解决的事情上浪费时间。\n\n**O5-3：**我们//还没有//解决任何事情，四，那个实体还在外面而且需要被收容。\n\n**O5-4：**我不信。\n\n**O5-3：**要求表决，我自己和四会召唤实体并尝试与其沟通。都同意吗？\n\n//（所有在场的监督者除O5-4以外均表示同意。）//\n\n-----\n\n//（O5-4完成仪式，召唤出SCP-5417-1，其外观为三米高半透明的兔脚，整体上模糊呈现为人型。O5-3站在房间的另一端。）//\n\n**SCP-5417-1：**举目仰望我，我乃恩波洛珀斯，咒术施放者，天运供给者，实现——卧靠，John？\n\n//（O5-4没有回答。）//\n\n**O5-3：**什么鬼，四？你怎么知道他的名字？\n\n**SCP-5417-1：**哟John，你现在叫四了？那可太棒了。对头，几年前他把我叫出来就为了和你们平起平坐。看到他现在达成了目标我可真高兴！\n\n//（SCP-5417蹒跚步行到眼睛睁大的O5-4身旁，并进行了一个可以被看作是拥抱的行为。O5-4没有回应。）//\n\n**SCP-5417-1：**上帝啊，老兄，多久了，5年？这事能成也太棒了。你这身衣服，这发型，哎哟皮肤看着也太好了——看着也太年轻了！\n\n**O5-3：**你他妈用过这玩意？\n\n**O5-4：**说来话长，当时必须要进行一些测试，我又觉得——\n\n**SCP-5417-1：**那次已经是我们的第二次见面了。他二十年前找我想要谋一份这里的工作//（轻快笑声）//你敢信！现在他可是个坏蛋监督者了！\n\n**O5-3：**我的天，你真用过。\n\n//（沉默。SCP-5417-1的视线在两名监督者之间徘徊。O5-3通过内嵌面板触发封锁。红灯闪烁，警报响起。）//\n\n**SCP-5417-1：**哦……我是不是啥都不应该说的？对不起，John——四。\n\n//（SCP-5417-1察觉到了紧张的氛围，面朝着两名监督者慢吞吞地往后退，在其消失于测试室的一面墙壁期间一直“盯着”O5-3。二人沉默了数秒。）//\n\n**O5-4：**……我只是想显得积极些。\n[[/div]]\n\n此次暴露后监督者议会全票通过将O5-4驱逐。\n\n[[footnoteblock]]",
+  "tags": [
+    "2021连写竞赛",
+    "_腐败",
+    "keter",
+    "scp",
+    "人形生物",
+    "仪式性",
+    "兔类",
+    "强迫性",
+    "旧页面",
+    "概率性",
+    "模因"
+  ],
+  "author": null,
+  "created_at": "2021-03-24T05:29:31+00:00",
+  "updated_at": "2021-04-25T06:47:28+00:00",
+  "rating": 2,
+  "_site": "scp-wiki-cn",
+  "_fullname": "old:scp-5417"
+}

@@ -1,0 +1,20 @@
+{
+  "title": "SCP-8480-DEL",
+  "content": "[[include info:start]]\n**SCP-8480:** 대단한 개성,,A Great Personality,,\n**작가:** [[*user ParallelPotatoes]], [[*user Anky swallow]]\n**역자:** [[*user LR0725]]\n**원본:** https://scp-wiki.wikidot.com/scp-8480\n[[include info:end]]\n[[include :scpko:component:anomaly-class-bar-source\n\n|item-number= 8480\n\n|clearance= 1\n\n|container-class= 안전\n\n|secondary-class= 없음\n\n|secondary-icon= https://urlhere.com\n\n|disruption-class= 암흑\n\n|risk-class= 주목\n\n]]\n**특수 격리 절차:** SCP-8480은 격리하기 충분한 공간이 있는 무인 지역에 보관한다. 해당 구역에 들어가는 민간인을 감시하며, 만일 이들이 SCP-8480의 크기에 대해 언급한다면 구역에서 내보내고 기억소거 처리한다.\n\n**설명:** SCP-8480은 크기가 3 cm x 3 cm x 13 cm로 인식되는 조각상이다. 그러나 그 실제 크기는 300 km x 300 km x 1300 km이다. 조각상을 관찰하는 사람이 실제 크기를 눈치채기 위해서는 능동적으로 조각상의 크기를 측정하려 시도해야만 한다. 조각상의 이름은 \"내 평균 크기 쥬지 1:1 등신대\"이다.",
+  "tags": [
+    "en",
+    "scp",
+    "감각",
+    "공저",
+    "삭제",
+    "시각",
+    "안전",
+    "조각상"
+  ],
+  "author": "LR0725",
+  "created_at": "2024-08-11T14:22:43+00:00",
+  "updated_at": "2024-08-12T04:03:46+00:00",
+  "rating": 3,
+  "_site": "scpko",
+  "_fullname": "deleted:scp-8480"
+}

@@ -1,0 +1,17 @@
+{
+  "title": "카논 허브-DE",
+  "content": "[[module CSS]]\n.content-panel.standalone {\n  padding: 20px 30px;\n}\n\n.canon-title {\n  font-size: 200%;\n  font-weight: bold;\n  margin-bottom: 10px;\n}\n\n.canon-description {\n  font-size: 110%;\n  font-weight: bold;\n  text-align: justify;\n}\n\n.canon-snippet {\n  font-style: italic;\n}\n.canon-snippet-subtext {\n  font-size: 70%;\n  margin-top: 10px;\n}\n\n[[/module]]\n\n----\n\n[[div class=\"content-panel centered standalone series\"]]\n[[div class=\"canon-title unmargined\"]]\n[[[SCP Foundation in Deutschland Portal|독일어권 SCP 재단]]]\n[[/div]]\n++* Deutschsprachige SCP Foundation\n[[div class=\"canon-description unmargined\"]]\n결국 누군가는 그 --세-- 두 파시스트 정권이 싸질러 놓은 혼돈을 치우는 수고를 해야 한다.\n[[/div]]\n----\n[[div class=\"canon-snippet unmargined\"]]\n『독일어권 SCP 재단』은 SCP 재단의 독립적인 자회사로서, O5에 직통으로 보고한다.\n[[/div]]\n[[/div]]\n\n-----\n\n[[div class=\"content-panel centered standalone series\"]]\n[[div class=\"canon-title unmargined\"]]\n[[[SKP Portal|SKP]]]\n[[/div]]\n++* SKP\n[[div class=\"canon-description unmargined\"]]\n초상존재특별사령부(Sonderkommando für Paranormales)\n[[/div]]\n----\n[[div class=\"canon-snippet unmargined\"]]\n그러하다. 모든 것이 그러하다. 미국 놈들은 그저 붙잡아 가두어 놓을 줄만 알았지, 초상존재의 기저까지 붙잡고 그것을 어찌 사용할 것인가 익힌다면 무엇을 성취할 수 있는지를 보지 못했다. 그것이 바로 그들이 전쟁에서 우리에게 패배한 이유다.\n[[/div]]\n[[/div]]\n\n------\n\n[[div class=\"content-panel centered standalone series\"]]\n[[div class=\"canon-title unmargined\"]]\n[[[SAPPHIRE-portal| 사파이어빛 창공]]]\n[[/div]]\n++* Saphirblauer Himmel\n[[div class=\"canon-description unmargined\"]]\n우리는 500년 전에는 말을 타고 다녔고, 250년 전에는 자동차를 타고 다녔고, 100년 전에는 비행기를 타고 다녔고, 20년 전부터는 하늘 너머로 나가기 시작했다.\n[[/div]]\n----\n[[div class=\"canon-snippet unmargined\"]]\n아펜가다크라,,Avengadagra,,가 느리게, 하지만 확실히 정박했다. 시끄러운 금속성 마찰음과 함께 배가 퇴락한 구멍에 몸을 뉘었다. 아펜가다크라에서 나오는 강한 질풍이 근처의 녹색 활엽수들을 흔들었다.\n[[/div]]\n[[/div]]\n\n------\n\n[[div class=\"content-panel centered standalone series\"]]\n[[div class=\"canon-title unmargined\"]]\n[[[Machina-portal| 마키나]]]\n[[/div]]\n++* Machina\n[[div class=\"canon-description unmargined\"]]\n인류는 파괴되었다. 생존자는 없다. 호모 사피엔스는 더이상 없다는 말이다. 하지만 그것이 끝은 아니다. 인류를 위하여, 기계들은 계속 움직인다.\n[[/div]]\n----\n[[div class=\"canon-snippet unmargined\"]]\n그들이 모든 것이 없어졌다 생각할지라도, 모든 인간들이 환멸했다 생각할지라도, 우리의 창조자들이 영영 사라졌다 생각할지라도, 내가 감히 말하건대, 우리는 재단의 안드로이드, 재단의 가장 위대하고 진보된 창조물. 그렇기에 내가 말하느니, 네 모든 레지스터를 가동하고, 네 몸이 할 수 있는 것을 모두 다바쳐, 우리에게 주어진 지엄한 사명을 다하자! 우리의 창조자들을 위하여!\n[[/div]]\n[[/div]]",
+  "tags": [
+    "_이야기-허브",
+    "de",
+    "공동작업",
+    "이야기",
+    "허브"
+  ],
+  "author": "Salamander724",
+  "created_at": "2017-09-14T13:26:08+00:00",
+  "updated_at": "2021-03-27T04:42:32+00:00",
+  "rating": 0,
+  "_site": "scpko",
+  "_fullname": "canon-hub-de"
+}

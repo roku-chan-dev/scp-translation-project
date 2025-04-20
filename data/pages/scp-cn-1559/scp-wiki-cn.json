@@ -1,0 +1,22 @@
+{
+  "title": "SCP-CN-1559",
+  "content": "[[include :scp-wiki-cn:theme:black-highlighter-theme]]\n[[include :scp-wiki-cn:theme:black-highlightyear]]\n[[module css]]\n.bhl-aapa .sentiment-bar {\n    border: 1px solid rgb(var(--medium-accent)) !important;\n    border-radius:  0px 0px 0px 10px !important;\n    box-shadow: 0px 0px 0px 2px #ffb961 !important;\n}\n.bhl-aapa .neutralbar {\n    background-color: rgb(var(--medium-accent)) !important;\n    border: 0 !important;\n    border-radius:  0px 0px 0px 10px !important;\n    color: #ffb961 !important;\n}\n.bhl-aapa.alldown .downbar-base {\n    border-radius:  0px 0px 0px 10px !important;\n}\n.bhl-aapa .downbar-base {\n    background-color: rgba(var(--rating-module-button-negative-color),.8);\n}\n.bhl-aapa .downbar-text {\n    color: #ffb961 !important;\n}\n.bhl-aapa .upbar {\n    background-color: rgba(var(--rating-module-button-plus-color),.8);\n    border-radius:  0px 0px 0px 10px !important;\n    color: #ffb961 !important;\n}\n.bhl-aapa .rate-box-with-credit-button {\n    background-color: rgb(var(--medium-accent));\n    border: 1px solid rgb(var(--medium-accent));\n    border-radius: 0px 10px 0px 10px !important;\n    box-shadow: 0px 0px 0px 2px #ffb961;\n}\n.bhl-aapa.credit-rate-with-sentiment-bar:hover .rateBox .rate-box-with-credit-button {\n    border-radius: 0px 10px 0px 0px !important;\n}\n.anom-bar-container a {\n    display: none !important;\n}\n[[/module]]\n\n[[include :pokm:info-ayers\n|comments=\n\n**SCP-CN-1559** - 青鸟\n\n**作者：**[[*user Re_spectators]] \n本文的创作过程得到了许多站内朋友的大力相助。这里希望特别感谢一下帮助我完善故事情节发展的[[*user readeiier]]、[[*user ShineShadowD]]和帮助我补充设定、完善文言文部分的[[*user Simon Arran]]等几位朋友表示衷心的感谢！\n\n此外，还有许多朋友为这篇文章提出了宝贵且有价值的建议。在这里感谢所有帮助这篇作品变得更好的各位对我的帮助！\n\n作者本人能力有限，作品可能还有许多不足之处，恳请各位批评指正。谢谢大家！\n\n------\n\n**图像信息：**\n\n（第一迭代）\n青鸟的图片来自下列两张CC0（公有领域）图片的二次创作：\nhttps://www.publicdomainpictures.net/cn/view-image.php?image=223503&picture=\nhttps://commons.m.wikimedia.org/wiki/File:%EC%A1%B0%EC%84%A0-%EC%B2%AD_%EC%99%B8%EA%B5%90%EB%AC%B8%EC%84%9C(%EC%9E%90%EB%AC%B8)_280.jpg\n（请注意：第二张图片仅在著作权法规定著作权保留至作者死后70年或更短的国家/地区才属于公有领域。在中国大陆，这一规定为50年。）\n\n分级“Necropsar”的图标由光影[[*user ShineShadowD]][http://scp-wiki-cn.wikidot.com/more-acs-icons 制作]。\n\n（第四迭代）\nAG-99的图片来自对下列CC0（公有领域）图片的二次创作：\nhttps://publicdomainpictures.net/en/view-image.php?image=180332&picture=space-shuttle-endeavour-landing\n\n经作者本人更动或创作的图片依循CC BY-SA 3.0协议发布。\n]]\n\n[[>]]\n[[module Rate]]\n[[/>]]\n\n[[module ListPages category=\"fragment\" parent=\".\" limit=\"1\" order=\"name\" offset=\"@URL|0\"]]\n%%content%%\n[[/module]]\n\n[[footnoteblock]]\n\n[[div class=\"footer-wikiwalk-nav\"]]\n[[=]]\n<< [[[SCP-CN-1558]]] | SCP-CN-1559 | [[[SCP-CN-1560]]] >>\n[[/=]]\n[[/div]]",
+  "tags": [
+    "ad-astra",
+    "scp",
+    "thaumiel",
+    "历史性",
+    "原创",
+    "异学会",
+    "文言文",
+    "星际",
+    "神话传说",
+    "精品"
+  ],
+  "author": "Re_spectators",
+  "created_at": "2020-05-03T08:35:07+00:00",
+  "updated_at": "2023-03-22T03:26:30+00:00",
+  "rating": 1454,
+  "_site": "scp-wiki-cn",
+  "_fullname": "scp-cn-1559"
+}

@@ -1,0 +1,20 @@
+{
+  "title": "SCP-5348",
+  "content": "[[module CSS]]\ndiv.email {\n    border: solid 2px #A38800;\n    box-shadow: 0 1px 3px rgba(0,0,0,.2);\n    padding: 0 1em;\n    margin: 1em 3em;\n    background-image: url(http://scp-wiki.wdfiles.com/local--files/do-you-like-huey-lewis-and-the-news/ambrose-logo.png);\n    background-size: 64px 64px;\n    background-position: 95% .5em;\n    background-repeat: no-repeat;\n    background-color: #F5F2E4;\n    color: #21003C;\n}\n \ndiv.email a {\n    color: #A38800;\n}\n\ndiv.email a:visited {\n    color: #524400;\n}\n\ndiv.email h5 {\n    max-width: 85%;\n}\n\ndiv.email h2 span,\ndiv.email h5 span {\n    word-break: unset;\n}\n\n@media (max-width: 479px) {\n    div.email {\n        margin: 1em 0;\n    }\n\n    div.email h2 {\n        max-width: 80%;\n    }\n}\n \n@media (min-width: 480px) and (max-width: 580px) {\n    div.email {\n        margin: 0.5em;\n    }\n\n    div.email h2 {\n        max-width: 80%;\n    }\n}\n[[/module]]\n\n[[include component:image-block\n    width=300px|\n    name=\nhttp://scp-wiki.wikidot.com/local--files/scp-5348/soup|\n    caption=在安布罗斯旧金山分店点的SCP-5348个体|\n]]\n\n**项目编号：**SCP-5348\n\n**项目等级：**Safe\n\n**特殊收容措施：**应将任何获得的SCP-5348个体充分稀释，并按照非异常废料或堆肥程序处理。秘密探员可自行决定通过食用，或其他非标准形式处理SCP-5348个体。\n\n应销毁或没收基金会保管范围外关于SCP-5348的任何文件。如//神肴//[[footnote]]安布罗斯餐厅中GoI-116所发布的食谱。[[/footnote]]所写的SCP-5348的烹饪副本，目前作为文件5348.2存储于Site-15的非异常文件区。\n\n**描述：**SCP-5348为一个由[[[ambrose-restaurant-hub|安布罗斯餐厅]]]制作的主菜汤，在菜单上列为“安布罗斯妈妈的奶油蘑菇汤”。与传统奶油蘑菇汤类似，SCP-5348主要由山羊奶油和碎香菇组成。\n\n食用SCP-5348时，会产生温暖、轻松和其他令人感到“安慰”的感觉。尽管其食用量约是//神肴//描述中的一半，但引起此效果的食用量因人而异。（1±.23升）\n\n当使用手持式磁场感应器测量时，尽管SCP-5348释放出11.9毫高斯的恒定波，但并未产生附加的磁效应。\n\n**附录1：**\n在受袭后安布罗斯餐厅中的抽屉内，发现以下信件。\n\n> 亲爱的Charlie，\n> \n> 我知道你在用一种魔法做你自己的事，我也知道我完全没有支持你，我很抱歉。你可以生我的气，但请⋯⋯有机会就去看望妈妈。她身体不好，我也不知道她还能活多久。虽然我知道你很忙，但这也许是最后一次，而且\n> \n> 我不知道。请回家吧。\n> \n> 你的弟弟，\n> Matthew\n\n@@@@\n\n> Charlie，\n> 妈妈说谢谢你送的炖烧菜。虽然很难闻，但我觉得，妈妈很高兴收到你的消息，所以把它吃了。我不知道是因为它的神奇还是糟糕，但整个养老院的人都很讨厌它，护士们还厌恶地瞪着我。但我觉得妈妈似乎有点精神了。\n> \n> 喂，伙计：很明显，妈妈很感谢它。只有半个小时，它让妈妈开心了一整天，知道吗？\n> \n> Matthew\n@@@@\n\n> Chaz，\n> \n> 我知道你在做什么。每次你送的食物总会有一样难闻的味道。我让工作人员对房间消了毒，但还是臭气熏天，就像你从割草机袋子抖出的粪便一样。\n> \n> 每次你再送一罐饼干或者混合水果，还是你给她吃的东西，她都会好转一点。稍微强壮一点。\n> \n> 但是情况更糟糕了。Chaz，不管你给她吃什么都没用。别再送那该死的魔法鸡肉块了，趁你还能的时候看看妈妈吧。\n> \n> –Matt\n@@@@\n\n> 她昨晚死了。她一直在问你在哪。\n> \n> 我希望你能高兴，你这个混蛋。\n> –Matt\n\n这些信件的顶部为一个未处理的信膜，以下为附件。\n\n> Mattie，\n> 她想这样。\n> –Chaz\n\n文件2附件的副本。\n\n**文件2：**摘录自//神肴//\n\n[[div class=\"email\"]]\n\n设备：\n* 大汤锅\n* EVE虹吸管[[footnote]]Marshall Carter and Dark品牌“RΩ Elan Transposer”的商业名称，为一种吸收精神能量，并蒸馏成纯净EVE液体的辅助技术设备。[[/footnote]]\n* 搅拌器\n\n配料：\n* 2夸脱[[footnote]]**译注：**液体容量单位。[[/footnote]]鸡汤（食谱第37页）\n* 1磅鸡油香菇粗切小块\n* 1个大葱\n* 300克已冷却的山羊奶油\n* 6汤匙家用面粉\n* 15千焦耳生命力能量，来自于Michelle Ambrose的灵魂\n * 任何有效的慈善灵魂，但必须先用Ambrose Restaurants Soul Bouillion^^®^^正确腌制过\n\n//Chaz的笔记：//\n我从小就喜爱烹饪，我的母亲也很感谢这一点。我父亲“身体不舒服”的时候，母亲总会花上几个小时，陪我和弟弟坐在一起，我们做美味的大餐，还会大笑，直到笑得肚子痛。我深深相信着，她最大的的欢乐来自于养活别人，当她去世的时候，我想继续替她实现这个愿望。因此，我真诚的希望你们能够喜欢安布罗斯妈妈的奶油蘑菇汤——这是个真正的家庭食谱。\n\n这里是安布罗斯餐厅，我们知道，没有什么比丰盛的精神食物更吸引人。\n\n[[/div]]\n\n[[div class=\"footer-wikiwalk-nav\"]]\n[[=]]\n<< [[[SCP-5347]]] | SCP-5348 | [[[SCP-5349]]] >>\n[[/=]]\n[[/div]]",
+  "tags": [
+    "chaz-ambrose",
+    "safe",
+    "scp",
+    "安布罗斯餐厅",
+    "液体",
+    "电磁",
+    "移情作用",
+    "食物"
+  ],
+  "author": "Twilit",
+  "created_at": "2020-12-12T06:09:35+00:00",
+  "updated_at": "2021-05-06T11:05:59+00:00",
+  "rating": 4,
+  "_site": "scp-wiki-cn",
+  "_fullname": "scp-5348"
+}

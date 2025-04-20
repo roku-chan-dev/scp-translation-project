@@ -1,0 +1,13 @@
+{
+  "title": "Dr. Grom's Ambassador-Workbench",
+  "content": "This is the workbench of [[*user Dr. Grom]], Admin of the [http://scp-wiki-de.wikidot.com/ German branch] and [http://scp-int.wikidot.com/ the International Translation Archive].\n\n[[tabview]]\n[[tab Notes]]\nThese automated lists are meant to keep track of pages and categories that might be interesting from a technical point of view but usually not for normal users.\n\nSome tabs may be pretty slow and take some time to load.\n[[/tab]]\n\n[[tab Tag-cloud]]\nThis tag-cloud shows every used tag, including hidden tags.\n[[module TagCloud limit=\"1000\" target=\"system:page-tags\" showHidden=\"yes\"]]\n[[/tab]]\n\n[[tab Changes in special categories]]\nRecently changed pages all categories but \"_default\", \"fragment\" and \"log-of-unexplained-locations\".\n\n[[module ListPages category=\"* -_default -fragment\" separate=\"no\" order=\"updated_at desc\" pagetype=\"*\" perPage=\"40\"]]\n|| %%title_linked%% || %%updated_at%% || %%updated_by_linked%%||\n[[/module]]\n[[/tab]]\n\n[[tab Changes in special pages]]\nRecently changed pages with the tags \"admin\", \"guide\", \"theme\" and \"template\" in the categories \"_default\", \"fragment\" and \"log-of-unexplained-locations\".\n\n[[module ListPages tags=\"admin guide theme template\" separate=\"no\" order=\"updated_at desc\" pagetype=\"*\" category=\"_default fragment log-of-unexplained-locations\" perPage=\"40\"]]\n|| %%title_linked%% || %%updated_at%% || %%updated_by_linked%%||\n[[/module]]\n[[/tab]]\n\n[[tab List of Categories]]\n[[module Categories includehidden=\"true\"]]\n[[/tab]]\n\n[[tab Hidden pages]]\n[[module ListPages category=\"*\" separate=\"no\" order=\"title\" pagetype=\"hidden\"]]\n|| %%title_linked%% || [[user %%created_by%%]] || %%created_at%% ||\n[[/module]]\n[[/tab]]\n\n[[tab Alphabetical Members list]]\n[[module Members order=\"name\"]]\n[[/tab]]\n\n[[tab International articles]]\n[[module ListPages category=\"*\" separate=\"no\" order=\"title\" pagetype=\"*\" tags=\"international\" perPage=\"40\" prependLine=\"||~ Article ||~ Rating ||~ Votes ||~ Comments ||~ Last editor||\"]]\n|| %%title_linked%% || %%rating%% || %%rating_votes%% || %%comments%% || %%updated_by_linked%%||\n[[/module]]\n[[/tab]]\n\n[[/tabview]]",
+  "tags": [
+    "workbench"
+  ],
+  "author": "Dr_Grom",
+  "created_at": "2016-08-25T08:00:06+00:00",
+  "updated_at": "2019-09-29T02:21:37+00:00",
+  "rating": 6,
+  "_site": "scp-wiki",
+  "_fullname": "dr-groms-ambassador-workbench"
+}

@@ -1,0 +1,19 @@
+{
+  "title": "SCP-CN-952",
+  "content": "[[>]]\n[[module rate]]\n[[/>]]\n\n[[module ListPages category=\"fragment\" parent=\".\" limit=\"1\" order=\"name\" offset=\"@URL|0\"]]\n\n%%content%%\n[[/module]]\n\n[[footnoteblock]]\n@@@@\n[[div class=\"footer-wikiwalk-nav\"]]\n[[=]]\n<< [[[SCP-CN-951]]] | SCP-CN-952 | [[[SCP-CN-953]]] >>\n[[/=]]\n[[/div]]",
+  "tags": [
+    "keter",
+    "scp",
+    "不可摧毁",
+    "原创",
+    "自主",
+    "超维度",
+    "载具"
+  ],
+  "author": "SlarkTheMurloc",
+  "created_at": "2018-10-26T00:40:31+00:00",
+  "updated_at": "2019-02-13T05:29:10+00:00",
+  "rating": 24,
+  "_site": "scp-wiki-cn",
+  "_fullname": "scp-cn-952"
+}

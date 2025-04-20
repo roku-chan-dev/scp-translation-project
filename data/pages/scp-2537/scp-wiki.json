@@ -1,0 +1,22 @@
+{
+  "title": "SCP-2537",
+  "content": "[[>]]\n[[module Rate]]\n[[/>]]\n\n[[include component:image-block name=800px-5.22.10DonatoSquareByLuigiNovi5.jpg | caption=Personnel collecting instances of SCP-2537 (photo by Agent [https://commons.wikimedia.org/wiki/File:5.22.10DonatoSquareByLuigiNovi5.jpg Novi])\t]]\n\n**Item #:** SCP-2537\n\n**Object Class:** Euclid\n\n**Special Containment Procedures:** Captured instances of SCP-2537 are to be contained in separate standard humanoid containment chambers within Site-44. The detection and detainment of SCP-2537 is currently assigned to MTF Beta-13 (\"Over Troubled Waters\").\n\n**Description:** SCP-2537 is a type of anomalous humanoid capable of transmogrifying into a clay brick. Transmogrification can be initiated at will and takes approximately three seconds to complete. On nights with a full moon, should an instance of SCP-2537 see the moon it will transmogrify regardless of its intent. Witnessing [[[http://www.scp-wiki.net/scp-1812 | SCP-1812]]] results in a similar forced change.\n\nSCP-2537 are able to convert humans into additional instances via bludgeoning to the victim's head while in a brick state, though the exact force required for successful conversion is currently unknown. This generally requires teamwork between multiple instances, or a single instance throwing itself from a vantage point and transmogrifying mid-fall. However, due to the nature of it, attempted conversions often result in the death of the victim. Instances experience no compulsion to bludgeon humans.\n\nDamage sustained while in a brick state carries over to the instance's humanoid form and vice versa. Sustaining significant structural damage in brick form seems to terminate an instance, and it will remain in brick form. Neither form displays anomalous strength or durability, making infecting humans mildly dangerous due to possible damage from the accelerated impacts.\n\n[[include component:image-block name=http://scp-wiki.wdfiles.com/local--files/scp-2537/werebricks | caption=Photograph taken during discovery|align=left]]\n\nPrior to nights featuring the second new moon of the month, all instances will attempt to gather at a single river or stream. Whether this qualifies as anomalous compulsion in a humanoid or instinct in an anomalous humanoid is currently under debate. During these gatherings, SCP-2537 will arrange themselves and non-anomalous bricks into a bridge using secretions of mortar that have only been seen during gathering periods. Upon the moon setting, the mortar will liquefy and dissolve, and the instances will disperse.\n\nWhile the bridge is being built, the opposite riverbank will gradually alter in appearance. This phenomenon is only visible from the riverside the bridge begins on. It is unknown what would occur if SCP-2537 instances were to successfully complete the bridge.\n\n[[footnoteblock]]\n\n[[div class=\"footer-wikiwalk-nav\"]]\n[[=]]\n<< [[[SCP-2536]]] | SCP-2537 | [[[SCP-2538]]] >>\n[[/=]]\n[[/div]]\n\n[[include :scp-wiki:component:license-box]]\n=====\n> **Filename:** 800px-5.22.10DonatoSquareByLuigiNovi5.jpg\n> **Name:** 5.22.10DonatoSquareByLuigiNovi5.jpg\n> **Author:** Nightscream\n> **License:** CC BY 3.0\n> **Source Link:** [[[https://commons.wikimedia.org/wiki/File:5.22.10DonatoSquareByLuigiNovi5.jpg|Wikimedia]]]\n\n> **Filename:** werebricks\n> **Author:** PickYerPoison\n> **License:** CC BY-SA 3.0\n> **Source Link:** [[[http://scp-wiki.wikidot.com/scp-2537|SCP Wiki]]]\n> **Derivative of:**\n> ------\n> **Name:** Clifton Hampden Bridge - geograph.org.uk - 1277066.jpg and Mountain Peak, Alaska (1999).jpg\n> **Author:** Steve Daniels and Andrew Shiva\n> **License:** CC BY-SA 2.0 and CC BY-SA 4.0\n> **Source Link:** [[[https://commons.wikimedia.org/wiki/File:Clifton_Hampden_Bridge_-_geograph.org.uk_-_1277066.jpg|Wikimedia]]] and [[[https://commons.wikimedia.org/wiki/File:Mountain_Peak,_Alaska_%281999%29.jpg|Wikimedia]]]\n> **Additional Notes:** The two images were edited together by PickYerPoison.\n=====\n[[include :scp-wiki:component:license-box-end]]",
+  "tags": [
+    "_cc",
+    "_licensebox",
+    "alive",
+    "contagion",
+    "euclid",
+    "humanoid",
+    "metamorphic",
+    "sapient",
+    "scp",
+    "transfiguration"
+  ],
+  "author": "TwistedGears",
+  "created_at": "2016-02-01T05:01:49+00:00",
+  "updated_at": "2022-10-01T18:49:39+00:00",
+  "rating": 256,
+  "_site": "scp-wiki",
+  "_fullname": "scp-2537"
+}

@@ -1,0 +1,14 @@
+{
+  "title": "나폴레옹 1세 한림원 테마",
+  "content": "[[iftags +테마]]\n[[div style=\"padding:1em;margin:0.6em;background-color:white;border-radius:1em;\"]]\n나폴레옹 1세 치하의 제국 특이한림원 테마입니다. 작품에서 사용하려면 페이지 코드 맨 위에 다음을 붙여넣으세요.\n[[/iftags]]\n\n[[include :scpko:component:modele-theme\n|notation=block\n|liens=block\n|image=block\n|titres1=block\n|onglets=block\n|citations=block\n]]\n\n[[iftags +테마]]\n[[/div]]\n[[/iftags]]\n\n[[div [[iftags -테마]]style=\"display: none\"[[/iftags]]]]\n[[include :fondationscp:theme:sai-napoleon-i]]\n[[module CSS show=\"true\"]]\n/*\n      Allègrement repompé sur : SCP Sigma 9\n    [2014 Wikidot Theme]\n    Created for the SCP Foundation by Aelanna (bidouillé par DrGemini)\n    Modified for SCP Korean Branch by XCninety\n*/\n\n#header {\n    height: 200px;\n    padding-bottom: 0px; /* FOR MENU */\n    background: url(https://scpko.wdfiles.com/local--files/theme%3Asai-napoleon-i/1506450654-saii.png) 20px 0px no-repeat;\n}\n\nbody {\n    font-family: verdana, \"Nanum Gothic\", arial, helvetica, sans-serif;\n}\n\n/* Adjust Mobile Image Size */\n@media (max-width: 479px) { \n#header {\n    background-size: 415px 145px;\n    background-position: -5.1em 1.3em;\n}\n}\n@media (min-width: 480px) and (max-width: 580px) { \n#header {\n    background-size: 415px 145px;\n    background-position: 0em -1em;\n}\n}\n@media (min-width: 581px) and (max-width: 767px) { \n#header {\nbackground-size: 500px 135px;\n    background-position: -1em -1em;\n}\n}\n@media (min-width: 768px) and (max-width: 979px) {\n#header {\n    background-size: 500px 135px;\n    background-position: 0em -1em;\n}\n}\n[[/module]] \n[[/div]]",
+  "tags": [
+    "fr",
+    "테마"
+  ],
+  "author": "XCninety",
+  "created_at": "2022-01-07T03:45:04+00:00",
+  "updated_at": "2024-08-17T04:51:41+00:00",
+  "rating": 1,
+  "_site": "scpko",
+  "_fullname": "theme:sai-napoleon-i"
+}

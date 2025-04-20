@@ -1,0 +1,14 @@
+{
+  "title": "만나 자선재단 테마",
+  "content": "[[iftags +테마]]\n[[>]]\n**평가 모듈:**\n[[module Rate]]\n[[/>]]\n\n[[>]]\n**정보형 평가 모듈:**\n[[/>]]\n\n[[include info:start]]\nInfo about your page.\n[[include info:end]]\n\n이 테마는 요주의 단체 만나 자선재단용 테마입니다. 이 테마를 사용하기 위해서는 다음 코드를 작품에 붙여넣으세요.\n\n> @@[[include theme:mcf]]@@\n\n[[div id=\"theme-page-image\"]]\n[[include component:image-block name=https://scpko.wdfiles.com/local--files/theme%3Amcf/MCF-4.png|caption=An image.]]\n[[/div]]\n\n[[module CSS]]\n#u-theme-page-image .scp-image-block.block-right {\n     background: #092200;\n}\n[[/module]]\n\n+ 제목\n\n[# 방문하지 않은 링크] ([[[theme:mcf|방문해본 링크]]])\n~~~~\n[[tabview]]\n[[tab 탭 1]]\n탭.\n[[/tab]]\n[[tab 탭 2]]\n탭.\n[[/tab]]\n[[/tabview]]\n[[/iftags]]\n\n[[div [[iftags -테마]]style=\"display: none\"[[/iftags]]]]\n[[include :scp-wiki:theme:mcf]]\n[[module CSS show=\"true\"]]\n\n/* HEADER */\n#header {\n    background: url(https://scpko.wdfiles.com/local--files/theme%3Amcf/MCF-4.png) 40px 3px no-repeat;\n}\n[[/module]]\n[[/div]]",
+  "tags": [
+    "en",
+    "테마"
+  ],
+  "author": "Dr Devan",
+  "created_at": "2014-12-13T15:22:01+00:00",
+  "updated_at": "2025-01-31T18:11:29+00:00",
+  "rating": 1,
+  "_site": "scpko",
+  "_fullname": "theme:mcf"
+}

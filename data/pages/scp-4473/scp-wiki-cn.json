@@ -1,0 +1,22 @@
+{
+  "title": "SCP-4473",
+  "content": "[[module CSS]]\n.notice{\n    border: 1px solid #f9e24d;\n    outline: 4px solid #b54d3b;\n    color: #f9e24d;\n    background: #b54d3b;\n    padding: 10px;\n    text-align: center;\n}\n\n/* HEADER */\n#header{ background-image: url(http://scp-wiki.wdfiles.com/local--files/scp-4428/DoMC_Logo100.png); }\n#header h1 a{\n    display: block;\n    margin: 0;\n    padding: 80px 0 25px;\n    line-height: 0;\n    max-height: 0;\n    color: transparent;\n    background: transparent;\n    font-family: 'Verdana', Arial, sans-serif;\n    text-decoration: none;\n    text-shadow: none;\n    letter-spacing: 0.9px;\n}\n#header h1 a::before{\n    content: \"DoMC\";\n    color: white;\n    letter-spacing: -0.02em;\n    text-shadow: 3px 3px 5px black;\n}\n#header h2 span{\n    display: block;\n    margin: 0;\n    padding: 19px 0;\n    line-height: 0;\n    max-height: 0;\n    font-weight: bold;\n    color: transparent;\n    text-shadow: none;\n}\n#header h2 span::before{\n    content: '解决沟通问题';\n    color: white;\n    text-shadow: 1px 1px 1px black;\n}\n[[/module]]\n\n\n[[div class=\"notice\"]]\n[[=]]\n++++ 警告\n\n以下文档正在接受基金会误传部门的调查。鉴于此，在进一步通知前暂停所有关于SCP-4473的研究。\n\n[[/=]]\n[[/div]]\n\n**项目编号：** SCP-4473\n\n**项目等级：** Safe\n\n**特殊收容措施：** SCP-4473将被收容于Site-22的一个异常项目储存单元内，随时由两名安保人员看守。SCP-4473的所有位置移动需通过机器完成；任何人员不得与SCP-4473有身体接触。\n\n该收容室内，SCP-4473不可与其他事物共存。\n\n**描述：** SCP-4473是一个大的长方体物体，表面上看与一台计算机服务器类似。在其左侧是一个大空洞，洞中可见一捆骨头[[footnote]] 经遗传分析确认为鸡骨。[[/footnote]]及绳子。其右侧用白色喷漆写着“哦你这可怜的小东西”。\n\n当接触到SCP-4473内部的任何组成部分时，接触者将经历类似于静电休克的体验。接着，他们将在几分钟至十二小时的时间段内受到一系列异常现象的影响。这些现象主要影响对接触者（此后称为受害者）的观察[[footnote]] 一手和二手的观察者均会被SCP-4473的效应影响。[[/footnote]]，具体如下：\n\n* **行为背景丧失：** 随时间推移，观察者将无法认识到受影响个体的行为背景。对这些行为的实际物理感知不受影响，但会影响观察者对动作动机和结果的理解。久而久之，这种理解的缺失将加剧，观察者对受害者动作的印象将进一步模糊。\n\n* **身份丧失：** 观察者无法识别受害者的身份。同第一个表现一样，观察者对受害者的实际知识并未受影响，仅是影响了他们将这些知识与他们所看到的联系起来的能力。一开始，这种现象仅会影响到对受害者的主要称呼（如名字等），但很快就会恶化，现象影响范围几乎覆盖关于受害者的所有细节。\n\n* **消失：** 一旦先前的现象加重至观察者无法识别与受害者相关的所有细节，该受害者被认为完全消失。一系列仪器分析证实，在此之后没有任何物体占据受害者此前所在的空间。\n\n**发现：** SCP-4473在一通来自纽约曼哈顿一间公寓的匿名电话后被收容[[footnote]] 尽管电话另一头可以听到语音，但无法辨别电话的实际内容和上下文。[[/footnote]]秘密特遣队Alpha-9（“好奇的猫”）一开始在电话来源的调查中并无收获。但在通过房内一个隐秘入口后，CTF Alpha-9发现了大量的异常艺术作品，包括SCP-4473。\n\n对这些藏品以及其中材料的检查显示，这幢公寓是著名异常艺术家Julian Paget的几处住宅之一。[[footnote]] 由于审美上的相似性，SCP-4473被认为是对Paget的作品“世界之箱”的粗糙仿品。“世界之箱”是一件在2008年年初拍卖的异常艺术品。 [[/footnote]]此外，SCP-4473包含的信件表明这是由Gideon Saul寄给Paget的。\n\n发现SCP-4473后，基金会员工前往Saul先生附近的住所对其进行讯问和暂时性拘留。\n\n------\n\n**采访日志4473-1：**\n\n> **采访者：** **特工Grenn** \n> **受访者：** **Gideon Saul** \n> \n> \n> ------\n>\n>\n> **<日志开始>**\n> \n> //（特工Grenn进入房间时尽管并未被绊到，却踉跄了一下。）//\n> \n> **Saul先生：**//（平静地）// 抱歉，这儿很乱。\n> \n> **特工Grenn：**小伙子们告诉我，你可以接受询问了。对吧？\n> \n> **Saul先生：**//（点头）//是的，先生。\n> \n> //（特工Grenn递给Saul一个指纹扫描仪。）//\n> \n> **特工Grenn：**我们需要首先检查下你的指纹——用来确定你的身份。\n> \n> **Saul先生：**好的，先生。 \n> \n> //（Saul先生操作了一下指纹扫描仪。）//\n> \n> **特工Grenn：**好。从我们获得的信息看来，你就是创造SCP-4473的人？\n> \n> **Saul先生：**创造了什么？\n> \n> **特工Grenn：**那个箱子。\n> \n> **Saul先生：**哦，呃，应该是的。\n> \n> //（沉默。）//\n> \n> **特工Grenn：**我们因为那东西失去了一个特工，在我们知道碰到它会发生什么事之前。你介意解释一下吗？\n> \n> **Saul先生：**//（挪动）//我——我并不想伤害任何人——哦，好吧，我确实伤害了别人，但是我并没有故意这样！\n> \n> **特工Grenn：**我猜想你一开始的目标是Julian Paget。我们调查了你的背景，看起来Paget是你的老师。你是他的学生之一，我说的不错吧？\n> \n> //（Saul先生的脸部表情起了变化。）//\n> \n> **男人：**美术老师——我的，我的//美术老师？！//先生，我并不是故意不敬，但是那个男人是我的//导师！//他对我来说不是——//不是//那样的小人物。\n> \n> **特工Grenn：**但是你不否认寄给了他那个箱子。\n> \n> **男人：**我……不，我不否认。\n> \n> **特工Grenn：**那么，为什么呢？\n> \n> //（沉默。）//\n> \n> **某人：**他就像我的太阳。我刚来这儿的时候，孤零零一个人，而他对我的——我的作品的赞许就足以使我坚持下去了，你明白吗？但当他转身离开我，抛弃我……我感觉就像……就像……你知道。我希望他也能体会相同的感觉。\n> \n> //（沉默。）//\n> \n> **某人：** //（道歉。）//\n> \n> **特工Grenn：**我操。快叫人来，快！\n> \n> **某人：** //（说着什么。）//\n> \n> //（某物发出一些声音。）//\n> \n> //（CTF Alpha-9的两名成员听到特工Grenn的呼喊，进入房间。）//\n> \n> **CTF Alpha-9-5：** 长官？\n> \n> **特工Grenn：**//操//。他消失了。叫搜索队过来！\n> \n> //（特工Grenn和CTF Alpha-9的成员离开房间。）//\n> \n> //（无物做无事。）//\n> \n> //（无事发生。）//\n> \n> //（无。）//\n> \n> **<日志结束>**\n\n[[footnoteblock]]\n\n[[div class=\"footer-wikiwalk-nav\"]]\n[[=]]\n<< [[[SCP-4472]]] | SCP-4473 | [[[SCP-4474]]] >>\n[[/=]]\n[[/div]]",
+  "tags": [
+    "safe",
+    "scp",
+    "人造物品",
+    "多面体",
+    "感知影响",
+    "精神影响",
+    "观察影响",
+    "触觉影响",
+    "误传部",
+    "逆模因"
+  ],
+  "author": "Eurya",
+  "created_at": "2020-01-24T08:14:09+00:00",
+  "updated_at": "2024-05-15T01:19:48+00:00",
+  "rating": 2,
+  "_site": "scp-wiki-cn",
+  "_fullname": "scp-4473"
+}

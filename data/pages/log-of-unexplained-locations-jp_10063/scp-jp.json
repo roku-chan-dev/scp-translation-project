@@ -1,0 +1,14 @@
+{
+  "title": "10063",
+  "content": "number: UE-0011318-JP\ncontent: 内部で発生する白カビが全て木綿に置換されるアパートの一室。白カビ以外のカビに関しては異常なく発生する。発見時、室内の約80%が木綿で埋め尽くされていた。住人の男性は現在捜索中。\ndate: '2020-08-07'\narea: 岐阜県██市\nprotocol: 住人登録を変更し、サイト-81NKで管理中。\nredirect-b: '[[module Redirect destination=\"/log-of-unexplained-locations-jp'\nredirect-e: '\"]]'",
+  "tags": [
+    "jp",
+    "剪定対象-子"
+  ],
+  "author": "AMADAI",
+  "created_at": "2021-02-13T01:48:01+00:00",
+  "updated_at": "2021-05-24T13:21:42+00:00",
+  "rating": 19,
+  "_site": "scp-jp",
+  "_fullname": "log-of-unexplained-locations-jp:10063"
+}

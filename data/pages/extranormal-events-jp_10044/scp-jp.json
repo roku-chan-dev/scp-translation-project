@@ -1,0 +1,14 @@
+{
+  "title": "10044",
+  "content": "overview: JR███線上を当該路線で使われる205系5000番台の走行音のみが走行しました。各駅間の走行中に最低でも2回の連続した警笛を鳴らしています。\nswdate: '1'\ndate: '2016年██月██日　15:██～16:5█'\nswplace: '1'\nplace: JR███線沿線(鶴見駅までの区間を含む)\nswchaseprocedure: '1'\nchaseprocedure: 財団が確認した目撃者全員に記憶処理を施しました。当路線は20██年まで監視されます。\nswaddendum: '0'\naddendum: ''\ntf2: '1'\nauthor: 'MIA bogey'\nredirect-b: '[[module Redirect destination=\"/log-of-extranormal-events-jp'\nredirect-e: '\"]]'",
+  "tags": [
+    "jp",
+    "剪定対象-子"
+  ],
+  "author": "machikawa",
+  "created_at": "2020-07-23T13:32:49+00:00",
+  "updated_at": "2021-05-24T13:20:54+00:00",
+  "rating": 7,
+  "_site": "scp-jp",
+  "_fullname": "extranormal-events-jp:10044"
+}

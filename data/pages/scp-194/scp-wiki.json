@@ -1,0 +1,20 @@
+{
+  "title": "SCP-194",
+  "content": "[[div style=\"display:none;\"]]\n\nThank You For Your Cooperation\n\n[[/div]]\n\n[[>]]\n[[module Rate]]\n[[/>]]\n\n[[include :scp-wiki:component:author-label-source start=--\n|name=CityToast and Calibold]]\n[[=]]\n[[module ListPages range=\".\"]]\n**%%title%% -- %%first_paragraph%%**\n[[/module]]\n\n**[[[Reixis Personnel File|Dr. Buchanan, Personnel File (CityToast's Author Page)]]]**\n**[[[Calibri Bold's Mega Cool Author Page|Calibold's Mega Cool Author Page]]]**\n[[/=]]\n[[include :scp-wiki:component:author-label-source end=--]]\n\n[!--\nFragment list:\nhttp://scp-wiki.wikidot.com/fragment:scp-194-0\nhttp://scp-wiki.wikidot.com/fragment:scp-194-1\nhttp://scp-wiki.wikidot.com/fragment:scp-194-2\nhttp://scp-wiki.wikidot.com/fragment:scp-194-3\n--]\n\n[[module ListPages category=\"fragment\" parent=\".\" limit=\"1\" order=\"created_at\" offset=\"@URL|0\"]]\n%%content%%\n[[/module]]\n\n[[div class=\"footer-wikiwalk-nav\"]]\n[[=]]\n<< [[[SCP-193]]] | SCP-194 | [[[SCP-195]]] >>\n[[/=]]\n[[/div]]\n\n[[include :scp-wiki:component:license-box\n|author=Calibold and CityToast]]\n[[include :scp-wiki:component:license-box-end]]",
+  "tags": [
+    "_licensebox",
+    "_listpages",
+    "co-authored",
+    "concept",
+    "meta",
+    "reality-bending",
+    "safe",
+    "scp"
+  ],
+  "author": "Calibold",
+  "created_at": "2020-04-07T01:35:13+00:00",
+  "updated_at": "2023-02-21T20:50:26+00:00",
+  "rating": 82,
+  "_site": "scp-wiki",
+  "_fullname": "scp-194"
+}

@@ -1,0 +1,13 @@
+{
+  "title": "최고 평점 SCP",
+  "content": "생성 날짜 및 작성자를 포함한 사이트에서 가장 높은 평점의 SCP 목록입니다.\n\nSCP가 목록에 없는데 SCP인게 확실하다면, \"scp\"태그가 달리지 않은겁니다.\n\n----\n\n[[module ListPages tags=\"scp -보존 -퇴역 -경연\" rating=\">10\" order=\"rating desc\" separate=\"false\" perPage=\"100\"]]\n%%title_linked%% (+%%rating%%): 생성 %%created_at%% 작성자 %%created_by%%\n[[/module]]",
+  "tags": [
+    "허브"
+  ],
+  "author": "Dr Devan",
+  "created_at": "2013-03-01T16:30:00+00:00",
+  "updated_at": "2013-03-01T16:30:18+00:00",
+  "rating": 0,
+  "_site": "scpko",
+  "_fullname": "highest-rated-scps"
+}

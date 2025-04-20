@@ -1,0 +1,23 @@
+{
+  "title": "SCP-7528",
+  "content": "=====\n[[include :scp-wiki:component:preview\ntext=有些事情，懂得都懂。]]\n=====\n[[div style=\"display: none;\"]]\n[[include component:image-block name=https://scp-wiki.wdfiles.com/local--files/scp-7528/SmallSkull.jpg|caption=.]]\n[[/div]]\n\n[[module css]]\n:root {\n    --accent: 0, 210, 60 !important;\n}\n\n.series-nav {\n    display: flex;\n    flex-wrap: wrap;\n    justify-content: center;\n    align-content: center;\n    align-items: baseline;\n\n    margin: 1rem 0;\n    padding: .02rem 1rem;\n    background: #445;\n\n    border-top-right-radius: .67rem;\n    border-top-left-radius: .67rem;\n\n    font-size: 1.2em;\n    font-family: var(--UI-font);\n}\n\n.series-nav>* {\n    margin: 0 0.3em;\n}\n\n.end_card {\n    background: linear-gradient(145deg, rgba(var(--accent), 0.5) 0%, #445 80%);\n    padding: 1.25rem 2rem;\n    text-align: center;\n}\n[[/module]]\n\n[!--\nFragments:\nhttps://scp-wiki-cn.wikidot.com/fragment:scp-7528-offset-0\nhttps://scp-wiki-cn.wikidot.com/fragment:scp-7528-offset-1\n--]\n\n[[module ListPages category=\"fragment\" parent=\".\" order=\"created_at\" limit=\"1\" offset=\"@URL|0\"]]\n%%content%%\n[[/module]]\n\n[[div class=\"series-nav\"]]\n[[<]]\n<< [[size 85%]][*/secure-facility-dossier-area-12 档案：Area-12][[/size]]\n[[/<]]\n[[=]]\n**| @@ @@ SCP-7528 @@ @@ |**\n[[/=]]\n[[>]]\n[[size 85%]][*/scp-6762 SCP-6762][[/size]] >>\n[[/>]]\n[[/div]]\n\n[[div class=\"end_card\"]]\n>+ {{>> [*/5k-series-hub 纯净来源] <<}}\n\n[[div class=\"blockquote quint\"]]\n[[*user Gabriel Kero]]、[[*user HarryBlank]]与[[*user Placeholder McD]]\n代表[*https://affray.co/ Affray互娱 🡕]写作\n[[/div]]\n\n[[div class=\"footer-wikiwalk-nav\" style=\"margin: 0 auto;\"]]\n[[=]]\n<< [[[SCP-7527]]] | SCP-7528 | [[[SCP-7529]]] >>\n[[/=]]\n[[/div]]\n\n[[include :scp-wiki-cn:component:license-box\n|author=Gabriel Kero、HarryBlank& Placeholder McD]]\n[[<]]\n=====\n> //“两名囚犯从同一片铁栏杆的缝隙中向外望去：\n> 一个人看到了地上的泥土，另一个则看到了天上的星星。”//\n>\n>   —— Frederick Langbridge (1849–1923), //A Cluster of Quiet Thoughts//\n\n> **图像名：** 7528.png/Pattern.png\n> **图像作者：** [[*user HarryBlank]]\n> **授权协议：** CC BY-SA 3.0\n\n> **图像名：** AREA12\n> **图像作者：** [https://www.artreyus.com/ Trey Bishop] based on work by [[*user Jerden]] & [[*user HarryBlank]]\n> **授权协议：** CC BY-SA 3.0\n> **来源链接：** Local Files\n\n> **图像名：** BARRIER\n> **图像作者：** [[*user Gabriel Kero]]\n> **授权协议：** CC BY-SA 3.0\n\n> **图像名：** Breach.jpg\n> **图像作者：** [[*user syuzhet]]\n> **授权协议：** CC BY-SA 3.0\n\n> **图像名：** crius.png\n> **图像作者：** [https://www.artreyus.com/ Trey Bishop]\n> **授权协议：** CC BY-SA 3.0\n\n> **图像名：** FinalFace.jpg, ScaryFace.jpg, Skull.jpg, SmallSkull.jpg\n> **图像作者：** Kyle Fitzpatrick\n> **授权协议：** CC BY-SA 3.0\n\n> **图像名：** I. T. Department Logo\n> **图像作者：** [[*user EstrellaYoshte]]\n> **授权协议：** CC BY-SA 3.0\n\n----\n\n> **图像名：** MUTATION\n> **图像作者：** [[*user Gabriel Kero]]\n> **授权协议：** CC BY-SA 4.0\n> **来源链接：** Local Files\n>\n> **__衍生自：__**\n>\n> **图像名：** Arnoldi Iteration.gif\n> **图像作者：** Greg Vernon\n> **授权协议：** CC BY-SA 4.0\n> **来源链接：** [https://commons.wikimedia.org/wiki/File:Arnoldi_Iteration.gif Wikimedia]\n\n----\n\n> **图像名：** Static.jpg\n> **标题：** Glitching Screen\n> **图像作者：** Thoth God of Knowledge\n> **授权协议：** CC BY 2.0\n> **来源链接：** [https://www.flickr.com/photos/62025628@N00/4255394744 Flickr]\n\n=====\n[[/<]]\n[[include :scp-wiki-cn:component:license-box-end]]\n\n[[/div]]",
+  "tags": [
+    "keter",
+    "odongo-tejani",
+    "scp",
+    "伦理委员会",
+    "合著",
+    "概念",
+    "电子",
+    "电脑",
+    "相啸魔",
+    "视觉性",
+    "认知危害"
+  ],
+  "author": "Aegnus",
+  "created_at": "2024-09-14T03:50:50+00:00",
+  "updated_at": "2024-09-14T23:32:05+00:00",
+  "rating": 7,
+  "_site": "scp-wiki-cn",
+  "_fullname": "scp-7528"
+}

@@ -1,0 +1,22 @@
+{
+  "title": "SCP-CN-3000",
+  "content": "[[include :scp-wiki-cn:fragment:cn3000douglasliu-style]]\n[[module CSS]]\nul.creditRate {\n    margin-right: 0;\n}\n[[/module]]\n@@ @@\n\n[[div class=\"scp-rate-wrapper\"]]\n[[include :scp-wiki:info:start]]\n**SCP-CN-3000:** Eternal Glory to All Nodes\n**Authors:** [[*user DouglasLiu]] feat. [[*user DrStse]], Author's Page **[[[https://scp-wiki-cn.wikidot.com/douglasliu-author-page | here]]]**\n**Translators:** [[*user vxeov]] and [[*user Sazanami]]\n\nAll character avatars are drawn by [[*user DrStse]].\n\nThe image of Mt. Qomolangma Broadcasting Node is created by Stse and Doug; the main part is made with Blender by Doug.\n\nAll other materials (icons, font for eigenvectors) are made by Doug.\n\n[[collapsible show=\"▼ Author's Note\" hide=\"▲ Author's Note\"]]\nThe story of Yu Nuoda and Shi Hengxin reflects my original idea for this article.\nThe idea has been kept inside my head for a couple of years tbh, and I've never thought of using it here.\n[[/collapsible]]\n\n[[include :scp-wiki:info:end]]\n[[/div]]\n\n@@ @@\n\n@@ @@\n\n[[include fragment:cn3000douglasliu-1]]\n[[include fragment:cn3000douglasliu-2]]\n\n@@ @@\n\n@@ @@\n\n@@ @@\n\n[[footnoteblock]]\n\n[[=]]\n[[div class=\"footer-wikiwalk-nav\"]]\n<< [[[SCP-CN-2999]]] | SCP-CN-3000 | [[[SCP-CN-3001]]] >>\n[[/div]]\n[[/=]]",
+  "tags": [
+    "_cn",
+    "_listpages",
+    "co-authored",
+    "extradimensional",
+    "extraterrestrial",
+    "international",
+    "location",
+    "ritual",
+    "scp",
+    "thaumiel"
+  ],
+  "author": "vxeov",
+  "created_at": "2025-01-02T02:38:44+00:00",
+  "updated_at": "2025-01-13T21:46:27+00:00",
+  "rating": 34,
+  "_site": "scp-wiki",
+  "_fullname": "scp-cn-3000"
+}

@@ -1,0 +1,14 @@
+{
+  "title": "リファレンス: チェックボックス",
+  "content": "[[include :scp-jp:credit:start]]\n**タイトル:** チェックボックス\n**著者:** [[*user R74]]\n**作成年:** 2023\n[[include :scp-jp:credit:end]]\n+ What is this?\nこれは，チェックボックスを表示させることを目的としたコンポーネントです．\n\n+ 使い方\n++++* Minimal code\n[[div class=\"code\"]]\n##blue|[[include :scp-jp:user-component:checkbox |label=hogehoge|indent-num=0]]##\n##blue|[[include :scp-jp:user-component:checkbox |label=fugafuga|indent-num=1]]##\n[[/div]]\n++++* Example\n[[include :scp-jp:user-component:checkbox |label=hogehoge|indent-num=0]]\n[[include :scp-jp:user-component:checkbox |label=fugafuga|indent-num=1]]\n\n+ 引数\n||~ 変数名 ||~ 備考 ||\n|| {{label}} || チェックボックス内に表示する文章 ||\n|| {{indent-num}} || インデントを行う数 ||\n\n+ cssの変数\nユーザーコンポーネントより下に以下のcssを追記するとチェックボックスの色合いを変更することができます．\n[[code]]\n[[module css]]\n:root {\n  --main-color: #00d1b2; /* チェックボックスの背景色 */\n  --border-color: #7a7a7a; /* チェックボックスの枠線色 */\n}\n[[/module]]\n[[/code]]\n\n+ ジェネレータ\n以下にリスト構文を入力し，submitするとインデントそのままに構文を生成します．\n\n++* 使用上の注意\n{{label}}に使用できるのはテキストのみでリンクや装飾は行うことができません．あしからずご了承ください．\n\n[[html]]\n<link rel=\"stylesheet\" href=\"https://cdn.jsdelivr.net/npm/bulma@0.9.4/css/bulma.min.css\">\n<style>\n#content {\n  border: 1px solid #aaa;\n  font-family: Courier,monospace;\n  font-size: .8em;\n  padding: 0.25em;\n  white-space: break-spaces;\n}\n</style>\n<script>\nfunction check() {\n  let input = document.querySelector(\"#textarea\").value;\n  while (input.match(/\\n\\n/g)) {\n    input = input.replace(/\\n\\n/g, \"\\n\");\n  }\n  let array = input.split(\"\\n\");\n  var result = array.map(function(value) {\n    let tmp = value.split(\"* \");\n    let num = tmp[0].length;\n    let label = tmp[1]\n    return \"[[include :scp-jp:user-component:checkbox |label=\" + label + \"|indent-num=\" + num + \"]]\";\n  });\n  document.querySelector(\"#content\").innerHTML = result.join(\"\\n\")\n}\n</script>\n<textarea id=\"textarea\" class=\"textarea\" placeholder=\"* hoge\"></textarea>\n<button id=\"submit\" class=\"button is-info is-outlined\" onclick=\"check()\">submit</button>\n<div id=\"content\"></div>\n[[/html]]\n\n[[module css]]\ntable.wiki-content-table {\n    width: 100%;\n}\n[[/module]]",
+  "tags": [
+    "jp",
+    "リファレンス"
+  ],
+  "author": "R74",
+  "created_at": "2023-02-08T11:21:46+00:00",
+  "updated_at": "2023-10-16T16:50:44+00:00",
+  "rating": 10,
+  "_site": "scp-jp",
+  "_fullname": "reference:checkbox"
+}

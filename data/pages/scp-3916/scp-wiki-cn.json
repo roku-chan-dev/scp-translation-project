@@ -1,0 +1,22 @@
+{
+  "title": "SCP-3916",
+  "content": "[[module ListPages category=\"fragment\" parent=\".\" limit=\"1\" order=\"created_at\" offset=\"@URL|0\"]]\n%%content%%\n[[/module]]\n@@ @@\n[[include component:earthworm\n  first=false | last=false | hub=yes |\n  previous-url=/critter-profile-genghis | previous-title=小动物简介：Genghis！ |\n  next-url=/arbh-class-debrief-file | next-title=ARBH级情景汇报文件 |\n  hub-url=/arbh-class-hub | hub-title=昆虫地狱 |\n]]\n\n[[footnoteblock]]\n\n[[div class=\"footer-wikiwalk-nav\"]]\n[[=]]\n<< [[[SCP-3915]]] | SCP-3916 | [[[SCP-3917]]] >>\n[[/=]]\n[[/div]]",
+  "tags": [
+    "2018末日竞赛",
+    "keter",
+    "scp",
+    "威尔逊野生动物",
+    "昆虫",
+    "昆虫地狱",
+    "活物",
+    "种群",
+    "群体性",
+    "自我复制"
+  ],
+  "author": "joke3579",
+  "created_at": "2020-11-21T03:39:24+00:00",
+  "updated_at": "2020-11-21T03:39:32+00:00",
+  "rating": 8,
+  "_site": "scp-wiki-cn",
+  "_fullname": "scp-3916"
+}

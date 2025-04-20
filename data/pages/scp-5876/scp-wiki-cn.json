@@ -1,0 +1,20 @@
+{
+  "title": "SCP-5876",
+  "content": "[[include :scp-wiki-cn:theme:black-highlighter-theme]]\n[[include :scp-wiki-cn:theme:jakstyle]]\n[[include :scp-wiki-cn:component:acs-hybrid-text-bar-source\n|lang=cn\n|version=hybrid\n|item-number=5876\n|clearance-level=1\n|containment-class=safe\n|disruption-class=dark\n|risk-class=需谨慎\n]]\n\n[[include component:image-block\n     |name=https://scp-wiki.wdfiles.com/local--files/scp-5876/fish\n     |caption=SCP-5876\n     |align=right\n]]\n**特殊收容措施：**SCP-5876将在Site-83通过远程终端继续其研究。此前安排给Welch博士的员工将在可行时继续他的工作。高于需求权限的文件将先交给SCP-5876检查，而后分派给低层级人员。\n\n正在尝试开发有完整功能的鱼用远程认知翻译设备(RCTDF）。\n\n当前的实验性RCTDF模型将由基金会批准的科技术师予以维护。因SCP-5876必须潜在水下，正在开发可靠对策以防止暴露于水体后的短路。\n\n**描述：**SCP-5876是Eugene Welch博士，其全身分子结构因不明途径被异常性解构又重构，使其外形近似于一只物种不明的鱼类。SCP-5876表现出水生动物的标准生理需求及特征，外加人类水准的智力。\n\n**智力测试：**为彻底确认SCP-5876的智力能力，安排其进行了难度不一的各类测试。测试由高级研究员Gary Mander-Bassen执行。\n\n||~ 测试||~ 结果||~ 评论||\n||测试SCP-5876记忆能力的水平。||给SCP-5876展示四套连续十一张不同图形和色彩。以随机顺序展示图案卡以免其可能察觉到规律。SCP-5876能够记忆每一张图案卡，并以百分之百的准确度对其排序。||看起来SCP-5876依然具有记忆回想能力，就和它还是Welch博士的时候一样。他的意识可能依然在某处存在。||\n||探明SCP-5876问题解决技能的水平。||在SCP-5876的水箱后方写下个位数数学问题，让其可以准确阅读数字。之后将标有问题可能答案的石块丢入水中。在每次提问中，SCP-5876都会按要求用口捡起对应答案的石头。||问题解决技能已确认。这条鱼有智能！也许我们可以找到办法建立某种交流途径，确认Welch是不是还在这里。||\n||观察与Welch博士过往生活经历的可能关联性。||给SCP-5876出示了三张照片，其上展示了Welch博士生命中的重要事件，但其中有两张为伪造。内容包括他第一次骑自行车[[footnote]]Welch博士从未学会过骑自行车。[[/footnote]]、他的毕业舞会约会[[footnote]]Welch博士没有参加他的高中毕业舞会。[[/footnote]]、以及一张他丈夫及子女的近照。SCP-5876在这些照片被展示时于水箱内以8字形游动，推测是处于某种满足的状态。在被问及这些照片中哪张为真时，SCP-5876能够成功辨别出两张虚构图片和真实的图片。||看起来不错。我们可能有些东西了！||\n||尝试交流||给SCP-5876出示30个在每一面上刻有英语字母的方块。而后研究员Gary Mander-Bassen询问其是否能够确认自己是Welch博士。带着相当的困难，SCP-5876将方块重新排序，拼写为以下语句：“就是我。救命。”||这样就是确认了。||\n\n**建立交流**\n\n1956年12月4日，研究员Gary Mander-Bassen提出理论认为，若开发出一种思维翻译机，便可能令SCP-5876与观察者开展交流。为此，他组建了一个由十三名科技术士、十七名基金会工程师、三名基金会海洋生物学家组成的团队。在九周时间内，多种思维翻译原型机被开发，很多在初次启动时便崩溃。第五百台原型机，代号“波塞冬9000”，实现了可运转状态，将其安装给SCP-5876。\n\n然而，在此次下水后波塞冬9000模型发生短路，造成SCP-5876临时性瘫痪。呼叫驻站兽医对SCP-5876进行复苏，取得成功。\n\n下面是波塞冬9000模型故障前SCP-5876得以发出的唯一一条信息。\n[[=]]\n[[Collapsible show=\"展示信息\" hide=\"收起\"]]\n[[div class=\"blockquote\" style=\"border-radius: 10px; margin: 10px\"]]\n别他妈再电我了！\n[[/=]]\n[[/div]]\n[[/collapsible]]\n\n[[footnoteblock]]\n\n[[div class=\"footer-wikiwalk-nav\"]]\n[[=]]\n<< [[[SCP-5875]]] | SCP-5876 | [[[SCP-5877]]] >>\n[[/=]]\n[[/div]]",
+  "tags": [
+    "safe",
+    "scp",
+    "动物",
+    "感知力",
+    "智能",
+    "水生",
+    "活物",
+    "鱼类"
+  ],
+  "author": "ashausesall",
+  "created_at": "2021-06-29T14:45:40+00:00",
+  "updated_at": "2021-06-30T01:57:38+00:00",
+  "rating": 8,
+  "_site": "scp-wiki-cn",
+  "_fullname": "scp-5876"
+}

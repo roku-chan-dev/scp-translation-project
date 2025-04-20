@@ -1,0 +1,13 @@
+{
+  "title": "You have her eyes",
+  "content": "[[module CSS]]\n#page-content div.box {\n    position: relative;\n}\n#page-content div.background {\n    position: absolute;\n    z-index: 0;\n}\n#page-content div.overlay {\n    position: relative;\n    z-index: 1;\n    opacity: 0;\n}\n#page-content div.overlay:hover {\n    opacity: 1;\n}\n[[/module]]\n\n[[div class=\"box\"]]\n[[div class=\"background\"]]\n[[image Jinn2521XXX-6.png]]\n[[/div]]\n[[div class=\"overlay\"]]\n[[image Jinn2521XXX-7.png]]\n[[/div]]\n[[/div]]",
+  "tags": [
+    "fragment"
+  ],
+  "author": "Ivi-Jinn",
+  "created_at": "2019-01-25T20:53:23+00:00",
+  "updated_at": "2022-07-16T09:19:00+00:00",
+  "rating": 0,
+  "_site": "scp-wiki",
+  "_fullname": "fragment:2521-xxx-6"
+}

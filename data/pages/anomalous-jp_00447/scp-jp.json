@@ -1,0 +1,14 @@
+{
+  "title": "00447",
+  "content": "content: \"//先に言おう。下の文章から見てくれ。// - エージェント・██\\n**現状:** サイト-81██の低価値物品倉庫にて保管。██ █氏は当アイテムを執筆した覚えはないと話している。\\n**回収場所:** 岡山県██市の本屋。\\n**回収日:** 198█/██/██\\n**説明:** 表紙に「極意、倒置法の」と書かれた、██ █氏執筆の本。このアイテムについて記述する際、それは本来の順番とは逆に進んでいく。本の中身は全て倒置法の例文で埋め尽くされている。読む人に倒置法を使わせようとする弱い精神作用を与える。\\n\"\ntf2: '1'\nauthor: chuukunn\nredirect-b: '[[module Redirect destination=\"http://ja.scp-wiki.net/log-of-anomalous-items-jp'\nredirect-e: '\"]]'",
+  "tags": [
+    "jp",
+    "剪定対象-子"
+  ],
+  "author": "Hellvetica",
+  "created_at": "2020-05-15T04:34:44+00:00",
+  "updated_at": "2021-05-24T13:15:19+00:00",
+  "rating": 4,
+  "_site": "scp-jp",
+  "_fullname": "anomalous-jp:00447"
+}

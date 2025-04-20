@@ -1,0 +1,21 @@
+{
+  "title": "SCP-5128",
+  "content": "[[module ListPages category=\"fragment\" parent=\".\" limit=\"1\" order=\"name\" offset=\"@URL|0\"]]\n\n%%content%%\n\n[[/module]]\n\n[!--\n编辑本页面的内容可能会导致错误。若要编辑文本，请至以下链接。\nhttp://scp-wiki-cn.wikidot.com/fragment:scp-5128-00\nhttp://scp-wiki-cn.wikidot.com/fragment:scp-5128-01\n--]\n\n[[footnoteblock]]\n\n[[div class=\"footer-wikiwalk-nav\"]]\n[[=]]\n<< [[[SCP-5127]]] | SCP-5128 | [[[SCP-5129]]] >>\n[[/=]]\n[[/div]]",
+  "tags": [
+    "5000",
+    "keter",
+    "scp",
+    "信息危害",
+    "未收容",
+    "概念",
+    "混沌分裂者",
+    "现实扭曲",
+    "精神影响"
+  ],
+  "author": "Silence Shadow",
+  "created_at": "2022-04-27T12:56:43+00:00",
+  "updated_at": "2024-08-04T00:59:02+00:00",
+  "rating": 6,
+  "_site": "scp-wiki-cn",
+  "_fullname": "scp-5128"
+}

@@ -1,0 +1,21 @@
+{
+  "title": "SCP-5699",
+  "content": "[[include :scp-wiki-cn:component:black-highlighter-theme-dev]]\n[[include :scp-wiki:component:bhl-dark-sidebar]]\n[[include :scp-wiki:component:pride-highlighter |inc-lsb= --]]]\n\n[[include :scp-wiki-cn:component:acs-peppo-lite\n|lang= cn\n|item-number= 5699\n|clearance= 2\n|container-class= esoteric\n|secondary-class= Cernunnos\n|secondary-icon= http://scp-wiki.wdfiles.com/local--files/component%3Aanomaly-class-bar/cernunnos-icon.svg\n|disruption-class= ekhi\n|risk-class= notice\n\n]]\n\n[[include component:acs-peppo-split\n|object= esoteric\n|object-image= http://scp-wiki.wdfiles.com/local--files/component%3Aanomaly-class-bar/esoteric-icon.svg\n|object-color= white\n|esoteric-color= white\n]]\n\n------\n\n[[include component:image-block\n| name=http://scp-wiki.wdfiles.com/local--files/scp-5699/MeshesOfTheAfternoon.jpg\n| caption=描绘SCP-5699的照片，日期不明，可能是在战争期间拍摄。\n| width=300px]]\n\n-----\n\n**特殊收容措施：**完全收容SCP-5699需要对受影响人员展开集体监禁、封锁主要城市区域、以及大规模投放A级记忆删除，对SCP-5699的收容已被无限期推延。SCP-5699一般会影响经历创伤与情感障碍的人员，指派到SCP-5699的收容专家已指出目击者把SCP-5699当成了幻觉、或长时段的妄想。为此，O5议会已裁定SCP-5699不需要积极收容。\n\n**描述：**SCP-5699是一白色[[footnote]]指具有帮助性或有利特点的幽灵异常。[[/footnote]]级幽灵异常或一群实体，其外貌如同戴兜帽的人形，其头部位置是一反光的玻璃镜面。\n\nSCP-5699会出现在经历严重情感焦虑的人员面前，对正在考虑或尝试自杀者出现率更高。来到受影响人员面前后，SCP-5699会静默地观察对象约五分钟时间，而后消失。SCP-5699消失后，一份以雾气写成的信息会显现在对象身旁的镜面或其他反光表面上。写下的信息一般会表示出喜爱，或者对象人生中的一段积极经历。已收集信息的简略展示抄录如下。\n\n[[div class=\"poem\"]]\n//我与她告别时你紧握我手，带我归家，在新母们前庇护我的眼睛。你与我同在。你甚至从未想过离我而去。//\n[[/div]]\n\n[[div class=\"poem\"]]\n//小老太太坐在医院的窗沿，向窗外空洞的大喊被你的手安抚下来。不是她的孙女，她不在那里，不在医院里也不在生命中。但你在。你站在她身边，轻握她的手。//\n[[/div]]\n\n[[div class=\"poem\"]]\n//你给我带来一条裙子，助我系好衣带。你说我俏丽可爱，我内心长久以来的女孩终于自由了。//\n[[/div]]\n\n[[div class=\"poem\"]]\n//茶已冷。奶糖太多。茶包撕成两半，杯底全是茶叶。有一半洒在了床上。但在我病弱颤抖时，你将它为我带来。//\n[[/div]]\n\n[[div class=\"poem\"]]\n//你告诉我说你相信我。//\n[[/div]]\n\n[[div class=\"poem\"]]\n//憔悴的男人躺在酒吧的垃圾袋边，靠着砖墙休憩入睡，你让他得食。当然你没有烹饪些什么，但你用自己的零花钱买来了汤。//\n[[/div]]\n\n[[div class=\"poem\"]]\n//你给了我心爱的娃娃。//\n[[/div]]\n\n[[div class=\"poem\"]]\n//舞会上有你便少了几分孤独。//\n[[/div]]\n\n[[div class=\"poem\"]]\n//无人愿意时你拥抱了我—你知道它不会传染，只会经血液—而即便就是，你也依然要对我表示善良。//\n[[/div]]\n\n[[div class=\"poem\"]]\n//公园的鸟儿被喂得很好，长冬过去了。//\n[[/div]]\n\n[[div class=\"poem\"]]\n//监管下沉昏厥时，你握住我的手，扇动我的脸颊。你抓住我手，嗡鸣愈响中握住了我的婚戒，而后轻柔擦拭我的手臂，嗡鸣渐渐散去。//\n[[/div]]\n\n**附录No. 1:**下列信息发现于Dr. Ronald Pearson[[footnote]]SCP-5699项目的研究领导人。Dr. Pearson患有严重的抑郁发作。[[/footnote]]的浴室镜子上：\n\n[[div class=\"poem\"]]\n//你让我从牢房中获得自由，\n你让我流浪和爱人\n你帮助了我。\n你做了你的名字与地位所不许的一切\n于是我得以自由。\n我不会将你忘记。\n你被爱着，被我。\n请不要忘记。//\n\n[[/div]]\n\n[[module CSS]]\n@import url('https://fonts.googleapis.com/css?family=Karla&display=swap');\n\n.poem {\n  width: 50%;\n  margin: 10px auto;\n  border: 1px solid #c9c9c9;\n  background: #ebebeb;\n  padding: 10px 20px 10px 20px;\n  font-family: '', sans-serif;  \n  font-size: 1.2em;\n  letter-spacing: -0.05em;\n  text-align: center;\n}\n[[/module]]\n\n[[footnoteblock]]\n\n[[div class=\"footer-wikiwalk-nav\"]]\n[[=]]\n<< [[[SCP-5698]]] | SCP-5699 | [[[SCP-5700]]] >>\n[[/=]]\n[[/div]]",
+  "tags": [
+    "kindness",
+    "scp",
+    "人形生物",
+    "传送",
+    "未收容",
+    "机密分级",
+    "知识",
+    "移情作用",
+    "铭文"
+  ],
+  "author": "ashausesall",
+  "created_at": "2020-05-04T05:44:18+00:00",
+  "updated_at": "2020-07-24T11:41:56+00:00",
+  "rating": 16,
+  "_site": "scp-wiki-cn",
+  "_fullname": "scp-5699"
+}

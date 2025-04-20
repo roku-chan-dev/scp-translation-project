@@ -1,0 +1,20 @@
+{
+  "title": "SCP-7501",
+  "content": "[[include :scp-wiki:theme:last-frontier]]\n\n[[module CSS]]\n\ndiv#header {\n    background-image: url('http://scptestwiki.wikidot.com/local--files/sigma:vivarium-test-page/ITTV_PRIDE_LOGO.png') !important;\n}\n\n[[/module]]\n\n[[module CSS]]\n#header h1 a::before {\n    content: \"SCP財団\";\n}\n \n#header h2::before {\n    content: \"確保 - 収容 - 保護\";\n    text-shadow: 0rem 0rem 0.3125rem #000000;\n}\n\n/* Japanese Localizing */\n\n.creditRate {\n    float: unset !important;\n}\n\n.creditButton{\n    background-color: rgba(107, 22, 22, 255) !important;\n    border-color: rgba(107, 22, 22, 255) !important;\n}\n[[/module]]\n@@ @@\n\n[[=]]\n[[include :scp-jp:credit:start]]\n**タイトル:** SCP-7501 - 最初で最後の、一番の友達\n**翻訳責任者:** [[*user Witherite]]\n**翻訳年:** 2022\n**原題/リンク:** [https://scp-wiki.wikidot.com/scp-7501 SCP-7501 - My Best, Oldest, and Newest Friend]\n**著作権者:** [[*user MrIverson]]\n**作成年:** 2022\n**初訳時参照リビジョン:** rev.3\n[[include :scp-jp:credit:end]]\n[[/=]]\n------\n\n[[module ListPages  category=\"fragment\" parent=\".\" limit=\"1\" order=\"created_at\" offset=\"@URL|0\"]]\n%%content%%\n[[/module]]\n\n[!-- http://scp-jp.wikidot.com/fragment:7501-1 --]\n[!-- http://scp-jp.wikidot.com/fragment:7501-2 --]",
+  "tags": [
+    "7000",
+    "en",
+    "esoteric-class",
+    "scp",
+    "動物",
+    "地球外",
+    "生命",
+    "齧歯類"
+  ],
+  "author": "Witherite",
+  "created_at": "2022-07-30T03:33:23+00:00",
+  "updated_at": "2024-04-21T03:12:52+00:00",
+  "rating": 29,
+  "_site": "scp-jp",
+  "_fullname": "scp-7501"
+}

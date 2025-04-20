@@ -1,0 +1,26 @@
+{
+  "title": "SCP-7771",
+  "content": "@@ @@\n[[=]]\n[[module Rate]]\n[[div style=\"text-align: center; margin-top: -20px;\"]]\n[[size 80%]]##757575|by [https://scp-wiki.wikidot.com/secure-facility-dossier-ex-site-26 Dr Asteria] & [https://scp-wiki.wikidot.com/weiserthanyou weiserthanyou]##[[/size]]\n[[/div]]\n[[/=]]\n\n[[module ListPages  category=\"fragment\" parent=\".\" limit=\"1\" order=\"created_at\" offset=\"@URL|0\"]]\n%%content%%\n[[/module]]\n@@ @@\n@@ @@\n@@ @@\n[[div class=\"footer-wikiwalk-nav\"]]\n[[=]]\n<< [[[SCP-7770]]] | SCP-7771 | [[[SCP-7772]]] >>\n[[/=]]\n[[/div]]\n[!-- https://scp-wiki.wikidot.com/fragment:scp-7771-1 --]\n[!-- https://scp-wiki.wikidot.com/fragment:scp-7771-2 --]\n\n[[include :scp-wiki:component:license-box\n|author= Dr Asteria and weiserthanyou]]\n=====\n> **Filename:** [https://scp-wiki.wdfiles.com/local--files/fragment%3ASCP-7771-1/Tyche.jpg Tyche.jpg]\n> **Name:** [https://flickr.com/photos/29050464@N06/51487319269/ Sarah Bernhardt at age 20, photo by Felix Nadar c.1864]\n> **Author:** [https://flickr.com/photos/29050464@N06/ Peter D. Tillman]\n> **License:** Public Domain\n> **Source Link:** https://flickr.com/photos/29050464@N06/51487319269/\n\n> **Filename:** purple galactic 2.jpg\n> **Author:** [[*user weiserthanyou]]\n> **License:** CC BY-SA 3.0\n> **Source Link:** [[[https://scp-wiki.wdfiles.com/local--files/fragment%3A7000contestdrasteria-1/purple%20galactic%202.jpg|SCP Sandbox]]]\n> **Derivative of:**\n> ------\n> **Name:** PIA12348.jpg\n> **Author:** California Institute of Technology\n> **License:** Public Domain\n> **Source Link:** [[[http://photojournal.jpl.nasa.gov/catalog/PIA12348|Jet Propulsion Laboratory Photojournal]]]\n\n> **Filename:** [https://scp-wiki.wdfiles.com/local--files/fragment%3ASCP-7771-2/dice.png dice.png]\n> **Name:** [https://openclipart.org/detail/239004/dice-icons dice icons]\n> **Author:** [https://openclipart.org/artist/manio1 manio1]\n> **License:** Public Domain\n> **Source Link:** https://openclipart.org/detail/239004/dice-icons\n=====\n[[include :scp-wiki:component:license-box-end]]",
+  "tags": [
+    "7000",
+    "_cc",
+    "_licensebox",
+    "_listpages",
+    "alive",
+    "co-authored",
+    "esoteric-class",
+    "humanoid",
+    "odongo-tejani",
+    "probability",
+    "reality-bending",
+    "religious",
+    "sapient",
+    "scp"
+  ],
+  "author": "Dr Asteria",
+  "created_at": "2022-07-28T04:23:43+00:00",
+  "updated_at": "2024-01-22T21:30:23+00:00",
+  "rating": 97,
+  "_site": "scp-wiki",
+  "_fullname": "scp-7771"
+}

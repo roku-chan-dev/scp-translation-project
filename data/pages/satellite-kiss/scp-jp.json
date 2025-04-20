@@ -1,0 +1,16 @@
+{
+  "title": "衛星キス",
+  "content": "[[include :scp-jp:theme:black-highlighter-theme]]\n[[include :scp-jp:theme:minimalist-bhl]]\n\n[[module CSS]]\n:root {\n    --header-title: none;\n    --header-subtitle: none;\n    --logo-image: url('https://scp-jp-storage.wdfiles.com/local--files/file:3396310-30-yubw/logo-remade-whiteout.svg');\n    --lgurl: var(--logo-image);\n    --header-height-on-desktop: 5rem;\n    --header-height-on-mobile: 5rem;\n\n}\n#header::before {\n    opacity: 1;\n}\n\n\n[[/module]]\n[[include credit:start]]\n**題**: 衛星キス\n**著**: [[*user 2MeterScale]]\n**年**: 2020\n[[include credit:end]]\nああ。\n\nもうこんな年か。\n\nもう41世紀が終わろうとしているのか。\n\nキミが遥か宇宙の彼方のサイトに異動になってから100年が経とうとしている。\n\n見当もつかない。それくらい、キミは遥か彼方。\n\nそう、人類は寿命の枷を壊し去ったのだ。機械の体に乗り移った者もいるし、肉の体のままに不死となった者どももいる。\n\nすると、知識が失われない。冷たく暗い死の世界に誘われることもない。何より良いのは、愛する者と分かたれることが永遠にないこと。\n\nワタシは煌々と灯る赤く巨大な星の光に包まれている。今、キミは何色の光に包まれているのだろうか。\n\nこの小さな黄金の立方体に唇を落とす。大丈夫、キミの座標はすでに入力されているよ。\n\nワタシの部屋から唯一、外の冷たく暗い死の世界に繋がるのはただダストシュートのみ。そこに、黄金の立方体を優しく置く。\n\n黄金は宇宙へ放たれた。小さな青白いイオンの炎を身に纏って、真空の世界を蜂のように。\n\n愛を運ぶ、ちいさな黄金の蜂。\n\n幾千年かけてゆっくり、花と花の間を飛んで行く。\n\nキミの元に届くのはいつになるだろう。いつでもいい。\n\n何せ、時間は無限にあるのだから。\n\n--　　　--\n\nああ。\n\nもうこんな年か。\n\nもう52世紀が終わろうとしているのか。\n\nワタシがキミと分かたれてからもう既に千年以上経ってしまった。\n\nワタシは肉の体に拘った。何よりも温かみがあるからだ。\n\nワタシは今白く巨大な星の光に包まれている。遥か彼方のキミは何色の光に包まれているのだろうか？\n\n一つ、窓からこのサイトに宇宙船が入ってきたのが見えた。\n\nこつんと、窓にぶつかる小さな音。\n\n音もなくドアは開かれる。黄金の立方体が軽やかに宙を舞っていた。\n\n蜜蜂のように、軽やかと。\n\nワタシはそれを手に包み込み、そっと唇を落とす。\n\n少し暖かいのは、あの青白いイオンの炎のおかげだろうか。",
+  "tags": [
+    "jp",
+    "tale",
+    "詩的文学",
+    "財団4k"
+  ],
+  "author": "2MeterScale",
+  "created_at": "2020-01-21T12:31:37+00:00",
+  "updated_at": "2024-03-25T11:00:07+00:00",
+  "rating": 69,
+  "_site": "scp-jp",
+  "_fullname": "satellite-kiss"
+}

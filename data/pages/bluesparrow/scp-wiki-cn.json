@@ -1,0 +1,13 @@
+{
+  "title": "山蓝鸲的作者页",
+  "content": "[[include :scp-wiki-cn:theme:minimal\n|title=Steppensparrow\n|subtitle=植根冻土，常青当春]]\n\n\n[[include component:author-page order=created_at]]\n\n\n[[=]]\n以上文章创作于BlueSparrow时期\n[[/=]]\n----\n\n------\n\n[[include component:author-page-collab\nname=wanderers:echoes-echoes-1 |\nbackground=no |\nimage=no |\n]]\n\n[[include component:author-page-collab\nname=wanderers:echoes-echoes-2 |\nbackground=no |\nimage=no |\n]]\n\n[[include component:author-page-collab\nname=wanderers:echoes-echoes-3 |\nbackground=no |\nimage=no |\n]]\n\n[[include component:author-page-collab\nname=wanderers:vignette-of-thalamus |\nbackground=no |\nimage=no |\n]]\n\n[[div class=\"footer-wikiwalk-nav\"]]\n[[=]]\n<< 山蓝鸲的作者页 | [[[https://backrooms-wiki-cn.wikidot.com/author:bluesparrow|林间孤宅]]] >>\n[[/=]]\n[[/div]]",
+  "tags": [
+    "作者"
+  ],
+  "author": null,
+  "created_at": "2022-06-06T15:34:28+00:00",
+  "updated_at": "2025-03-29T10:51:38+00:00",
+  "rating": 9,
+  "_site": "scp-wiki-cn",
+  "_fullname": "bluesparrow"
+}

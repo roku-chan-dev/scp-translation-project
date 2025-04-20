@@ -1,0 +1,21 @@
+{
+  "title": "SCP-6663",
+  "content": "[[include :scp-jp:credit:start]]\n[[include :scp-jp:credit:cc4]]\n[[include :scp-jp:credit:end]]\n\n[[include :scp-wiki:component:info-ayers\n|lang=en\n|page=scp-6663\n|authorPage=http://www.scp-wiki.net/the-bread-box\n|comments=**SCP-6663:** 太陽を目指した迷馬\n**著者** [[*user Deadly Bread]]@@ @@\n----\n[[include :scp-wiki:more-by:deadly-bread]]\n[[/div]]\n\n[[table style=\"border: none; width: 100%;\"]]\n[[row]]\n[[cell]]\n[[span style=\"font-size: 125%;\"]][[span style=\"font-weight: 900;\"]]アイテム番号:[[/span]] SCP-6663[[/span]]\n[[/cell]]\n[[cell style=\"text-align: right;\"]]\n[[span style=\"font-weight: 900; font-size: 125%;\"]]###990000|LEVEL 1/6663##[[/span]]\n[[/cell]]\n[[/row]]\n[[row]]\n[[cell]]\n[[span style=\"font-size: 125%;\"]][[span style=\"font-weight: 900;\"]]収容クラス:[[/span]] NEUTRALIZED[[/span]]\n[[/cell]]\n[[cell style=\"text-align: right;\"]]\n[[span style=\"font-weight: 900; font-size: 125%;\"]]###990000|制限無し##[[/span]]\n[[/cell]]\n[[/row]]\n[[/table]]\n-----\n[[include component:image-block name=http://scp-jp-storage.wdfiles.com/local--files/file%3A2375337-270-3jd8/header.jpg|align=center|width=100%|caption=SCP-6663の現場、マイヤーズ牧場。]]\n\n**特別収容プロトコル:** SCP-6663が発生した牧場は取り壊しを装って財団に買収されました。SCP-6663が発見される可能性は低いため、これ以上の収容試行は不要と見做されています。\n\n**説明:** SCP-6663は1970年5月12日に発生した未知の宇宙船の打ち上げです。打ち上げの現場は、アメリカ合衆国オクラホマ州ブロークン・アローに位置する乗馬施設、マイヤーズ牧場でした。現在、宇宙船が地球から遠距離にあり、到達が実現困難であるため、宇宙船自体や打ち上げ手段の詳細は不明です。打ち上げ後の観察によって、宇宙船は主に地球脱出速度に到達できないはずの廃材で構築されていることが断定されています。\n\n事件後のマイヤーズ牧場の調査で、打ち上げが発生した場所は厩舎だと判明しました。更なる調査で以下の物品が発見されました。\n* 馬の歯型が付いた様々な工具や金属スクラップ。\n* かつて厩舎に天窓があったことを示唆する大量のガラス片。\n* 厩舎の壁に彫り込まれた初歩的な星図と、馬の頭部の粗雑な描写。\n* アポロ11号の月面着陸を報じる新聞の切り抜き (著しく摩耗している) 。[[footnote]]切り抜きは空の飼い葉袋に注意深く保管されていたため、摩耗はごく普通の取扱いによるものであり、粗末に扱われてはいなかったようです。また、厩舎の壁にはアポロ11号の乗組員3名全員の切り抜きがピン止めされていました。[[/footnote]]\n* 粗雑なガラス製バイザーが嵌め込まれている凹んだ金属バケツ。側面には[[span class=\"ruby\"]]“バタースコッチ”[[span class=\"rt\"]]Butterscotch[[/span]][[/span]]という単語と即興で描かれたNASAのロゴが注意深く彫られている。\n\n留意すべき点として、生死を問わず、厩舎からは馬が発見されませんでした。\n\n**補遺.6663.1:** 宇宙船の観察継続後、予測飛行経路が確立されました。現在の軌道を基に、宇宙船は2011年までに巨大な太陽型恒星に衝突すると考えられており、その時点でNeutralizedと見做されます。\n\n**補遺.6663.2:** 2011年4月2日、北半球の数ヶ所の天文台で、オリオン座の三つ星の内側から突然ガスと宇宙塵が放出され、巨大な星間雲を形成する様子が観測されました。この事象の目撃者は終幕感と達成感を報告しました。これらの効果は数分後に停止しました。この事象の情報は天文台の記録から削除され、星間雲の存在に関する偽情報が流布されました。\n\nSCP-6663はNeutralizedに再分類されました。\n\n[[collapsible show=\"+++ attachment/scp-6663/file04.png を開く\" hide=\"--- attachment/scp-6663/file04.png を閉じる\"]]\n@@ @@\n[[include component:image-block name=http://scp-jp-storage.wdfiles.com/local--files/file%3A2375337-271-phbb/nebura.jpg|align=center|caption=file04.png]]\n[[/collapsible]]\n\n----\n[[>]]\n[[module rate]]\n[[/>]]\n\n[[footnoteblock]]",
+  "tags": [
+    "en",
+    "neutralized",
+    "scp",
+    "ウマ",
+    "乗り物",
+    "地球外",
+    "精神感応",
+    "視覚",
+    "認識災害"
+  ],
+  "author": "C-Dives",
+  "created_at": "2021-09-28T03:57:34+00:00",
+  "updated_at": "2021-09-28T03:59:41+00:00",
+  "rating": 16,
+  "_site": "scp-jp",
+  "_fullname": "scp-6663"
+}

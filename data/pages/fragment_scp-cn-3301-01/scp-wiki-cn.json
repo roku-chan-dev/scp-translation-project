@@ -1,0 +1,13 @@
+{
+  "title": "基金会小游戏：迭代1",
+  "content": "[[include :scp-wiki:component:toggle-sidebar]]\n\n[[module css]]\n\n#page-title, #top-bar,  #header {\n    display: none;\n}\n\n#content-wrap{\n    margin: 0 auto;\n    width: 100%;\n    max-width: 100%;\n}\n\ndiv#container-wrap {\n    background-image: url();\n    background-color: #161616;\n    margin: 0 0 0 0;\n}\n\n#action-area-top{\n    display: none;\n}\n\n#main-content{\n    margin: 0 0 0 0;\n    width: 100%;\n    max-width: 100%;\n}\n\np{\n    margin-block-start: 0em;\n}\n\n.html-block-iframe {\n    max-height: 100vh;\n    height: 100vh;\n}\n\n/* Rate Module */\n.page-rate-widget-box {\n  position: fixed;\n  top: 1em;\n  right: 1em;\n  box-shadow: none;\n  background-color: transparent !important;\n}\n.page-rate-widget-box .rate-points {\n  padding: 3px;\n  background-color: transparent !important;\n  border: 2px solid #9c67b5;\n  border-right: none;\n}\n.page-rate-widget-box .rateup,\n.page-rate-widget-box .ratedown,\n.page-rate-widget-box .cancel {\n  padding: 3px;\n  background-color: transparent;\n  border: none;\n  border-bottom: 2px solid #9c67b5;\n}\n.page-rate-widget-box .rateup a,\n.page-rate-widget-box .ratedown a,\n.page-rate-widget-box .cancel a {\n  background-color: transparent;\n  color: #fff;\n  text-decoration: none;\n}\n.rateup a:hover,\n.ratedown a:hover,\n.cancel a:hover {\n  color: #fff;\n  text-decoration: none;\n  background-color: #9c67b5 !important;\n}\n\n#main-content a {\n  color: #9c67b5;\n}\n\n.my-open-menu {\n  position: absolute;\n  top: 0.5em;\n  left: 1em;\n  width: 1.5em;\n  height: 1.5em;\n  z-index: 5;\n  border: 3px #9c67b5 solid;\n  border-radius: 3em;\n  text-align: center;\n  font-size: 20px;\n}\n\n[[/module]]\n\n\n[[div class=\"my-open-menu\"]]\n[#side-bar ≡]\n[[/div]]\n\n[[html]]\n\n<style>\np{\n    opacity:0;\n}\n</style>\n\n<body>\n<iframe id=\"game\" style=\"height:100vh;width:100vw;border:none;\" src=\"https://www.andyblocker.top/3k-tiny-game-release/main.html?ship&iteration-2=https://scp-wiki-cn.wikidot.com/scp-cn-3301/offset/1\"></iframe>\n<p>一车面包人一车面包人一车面包人</p>\n<p>一车面包人一车面包人一车面包人</p>\n<p>一车面包人一车面包人一车面包人</p>\n<p>一车面包人一车面包人一车面包人</p>\n<p>一车面包人一车面包人一车面包人</p>\n</body>\n\n\n[[/html]]",
+  "tags": [
+    "段落"
+  ],
+  "author": "breaddddd",
+  "created_at": "2023-12-29T13:32:25+00:00",
+  "updated_at": "2024-04-24T17:41:57+00:00",
+  "rating": 1,
+  "_site": "scp-wiki-cn",
+  "_fullname": "fragment:scp-cn-3301-01"
+}

@@ -1,0 +1,20 @@
+{
+  "title": "SCP-4967",
+  "content": "[[include :scp-wiki-cn:theme:black-highlighter-theme]]\n[[include :scp-wiki-cn:theme:highroller]]\n[[module CSS]]\n.dott {\n    background-image: url(https://scp-wiki.wdfiles.com/local--files/scp-4531/Department%20of%20Tactical%20Theology%20White%20Background%20Shiny%20transparent.png);\n    border: 5px solid #591b1b;\n    width: 90%;\n    margin: auto;\n    text-align: center;\n    padding: 0px 20px;\n    text-shadow: 0px 1px 1px #0000003b;\n    color: black;\n    background-size: 75%;\n    background-color: white;\n    background-position: center;\n    background-repeat: no-repeat;\n    background-blend-mode: multiply;\n}\n[[/module]]\n\n[[include component:image-block\nname=http://scp-wiki.wdfiles.com/local--files/scp-4967/elvis.png|\ncaption=生前的SCP-4967，摄于1982年|\nwidth=370px\n]]\n\n**项目编号：**SCP-4967\n\n**项目等级：**Thaumiel\n\n**特殊收容措施：**美国垦务局内的潜伏者将接手对胡佛大坝水库的全部检验和检查，掩盖SCP-4967的存在。若水库内的阿吉巴辐射等级超出135厘阿，将立即使用衬铅匣密封SCP-4967。\n\n**描述：**SCP-4967是前拉斯维加斯街头艺人Michael Simmons[[footnote]]具体而言，Simmons是猫王艾维斯·普雷斯利的模仿者，其装扮也是如此。[[/footnote]]的尸体，被丢入了胡佛大坝的蓄水库内（推测是由杀害他的凶手所为）。该遗体在收容期间未出现腐败，自1984年被发现以来一直处于完好状态下。所有转移该项目的尝试均未成功。\n\n**附录4967-1：**随拉斯维加斯地区[[[SCP-1844|塔尔塔洛斯]]]实体显现增多，基金会应用武力部门对圣水的需求量随之增加。基金会雇用牧师对此无力供给。由于靠非圣人进行的圣水创造工序耗时极长，基金会选择另寻能负担的长期来源。\n\n战术神学部为批量生产圣水提出了多个方案，包括下列与SCP-4967相关的内容：\n\n\n[[div class=\"dott\"]]\n@@ @@\n[[span style=\"font-size: 225%;\"]]**战术神学部**[[/span]]\n\n[[span style=\"font-size: 165%;\"]]**提案4661-4967-ALPHA**[[/span]]\n\n[[span style=\"font-size: 100%;\"]]天主教会认为神力干预会使义人尸身不腐。我们不知道、也不关心Michael Simmons在生时有过何种表现，但我们确实知道他的尸体，按牧师们的叫法，是“不受腐坏”的，因此拥有被封圣的资格。\n@@ @@\n我们也知道，被圣人触碰过的物品就会变成圣遗物，对水来说，就是受祝福的圣水。我们DOTT为此提出下列提议：给天主教会提供一笔慷慨的“捐助”，为SCP-4967暗中进行封圣。这会需要一些时间，但这具遗体应该能将整座城市的水源都变为圣水。到时候，MTF将可以直接从大坝抽水用于行动中。[[/span]]\n\n[[span style=\"font-size: 150%; color: red;\"]]**//__- Y. Leiner__**//[[/span]]\n[[span style=\"font-size: 75%; color: red;\"]]亚伯拉罕系分部领导人[[/span]]\n@@ @@\n[[/div]]\n\nSCP-4967计划得到批准，基金会与108议会中的天主教会代表展开交流。下面是交流抄录由特工Sterling与来到拉斯维加斯展开会面的红衣主教Camillo Ruini进行。\n\n下面是特工Sterling和Ruini间的会面抄录副本。\n\n> **<开始记录>**\n> \n> //[Ruini放下SCP-4967提议文件，将其滑给桌子另一头的Sterling特工。]//\n> \n> **Ruini：**啊，我明白了。一次秘密封圣。\n> \n> **Sterling：**正确。\n> \n> //[Sterling特工接过文件，放进她的公文包内。]//\n> \n> **Ruini：**我了解你们以及你们对保密的喜爱，但...抱歉多言，为什么不呢？\n> \n> **Sterling：**无需遮遮掩掩，红衣主教。我肯定在最近的108议会会议上已经讨论过了。毕竟联合国也喜欢关注我们的行动。\n> \n> **Ruini：**哈，所以流言是真的了。\n> \n> **Sterling：**对。[[[SCP-4661|维加斯下地狱了。]]]\n> \n> **Ruini：**何等有趣。\n> \n> **Sterling：**我肯定您也会对我们的提议有兴趣。\n> \n> **Ruini：**我来猜一猜，一份捐助？我们并不缺少经济援助，Sterling特工。世间的信徒们都是慷慨的，我亦如此。\n> \n> **Sterling：**您是说你们愿意免费做这些？\n> \n> **Ruini：**不不不，亲爱的。一次交易，不是金钱。\n> \n> **Sterling：**若您是要对[[[spikebrennan-s-proposal|西奈山盲点]]]提请求，那是不可能的。\n> \n> **Ruini：**我知道不能提这个请求，Sterling小姐。我没有我前任那样强硬。\n> \n> **Sterling：**Sterling//特工//。\n> \n> **Ruini：**容我道歉，Sterling特工。我的请求对你的上级应该会更能接受一点。我希望能近距离查验特定的一种恶魔。\n>  \n> **Sterling：**我们楼下的收容间里就关有一大堆。我可以通知House主管您需要武装保护。\n> \n> **Ruini：**[[[SCP -5690|魅魔]]]的话我自己就能应付得了。\n> \n> **Sterling：**噢。\n> \n> //[Sterling特工在椅子上转了转身。]//\n> \n> **Ruini：**我只需要你们帮忙支开我的顾问，以及保证此事不外传。\n> \n> **Sterling：**我们一句话也不会说。\n> \n> **Ruini：**那么我们就算达成合意了。\n> \n> **<记录结束>**\n\n在接受封圣后，SCP-4967获得了通过接触非异常水来产生圣水的能力。转化效率到2023年能影响到拉斯维加斯全城水源。SCP-4967从Euclid被重分级为Thaumiel。\n\n[[footnoteblock]]\n@@ @@\n@@ @@\n@@ @@\n@@ @@\n[[div class=\"footer-wikiwalk-nav\"]]\n[[=]]\n<< [[[SCP-4966]]] | SCP-4967 | [[[SCP-4968]]] >>\n[[/=]]\n[[/div]]\n\n[[include :scp-wiki:component:license-box]]\n=====\n> **Filename:** elvis.png\n> **Name:** Elvis Presley impersonator, Las Vegas\n> **Author:** Clément Bardot\n> **License:** CC BY-SA 4.0\n> **Source Link:** [https://commons.wikimedia.org/wiki/File:Elvis_Presley_impersonator,_Las_Vegas.jpg Wikimedia Commons]\n=====\n[[include :scp-wiki:component:license-box-end]]",
+  "tags": [
+    "scp",
+    "thaumiel",
+    "yossarian-leiner",
+    "人形生物",
+    "宗教",
+    "尸体",
+    "战术神学部",
+    "阴间维加斯"
+  ],
+  "author": "ashausesall",
+  "created_at": "2019-09-16T04:30:34+00:00",
+  "updated_at": "2024-04-05T05:13:01+00:00",
+  "rating": 7,
+  "_site": "scp-wiki-cn",
+  "_fullname": "scp-4967"
+}

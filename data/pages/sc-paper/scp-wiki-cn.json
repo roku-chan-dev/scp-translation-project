@@ -1,0 +1,18 @@
+{
+  "title": "S&C纸业",
+  "content": "[[module CSS]]\n@import url(/component:scp-pride/code/1);\n\n#page-title {\n  display: none;\n}\n.meta-title {\n  border-bottom: solid 1px #bbbbbb;\n  color: #990011;\n  font-weight: normal;\n  margin: 0 0 0.6em;\n  padding: 0 0 0.25em;\n  font-size: 200%;\n}\n.meta-title p {\n  margin: 0;\n}\n[[/module]]\n[[div class=\"meta-title\"]]\nS&C--塑料--纸业\n[[/div]]\n\n[[div class=\"content-panel standalone\" style=\"font-family: Courier New, Courier, monospace; width: auto; padding: 10px 30px; margin: 20px auto; background: url(http://www.scp-wiki.net/local--files/about-the-scp-foundation/bg-marble.png) repeat; text-shadow: 1px 1px 1px rgba(0,0,0,.25)\"]]\n[[=]]\n[[size 130%]]S&C塑料隆重推出……[[/size]]\n@@ @@\n\n[[size 250%]]S&C[[/size]]\n[[image http://scp-wiki.wdfiles.com/local--files/sc-paper/paper.png style=\"width:25%;\"]]\n[[size 300%]]__纸业__[[/size]]\n\n[[/=]]\n@@ @@\n@@ @@\n-----\n[[table]]\n[[row]]\n[[cell style=\"width: 50%; margin:auto; padding-right: 5px;\"]]\n作为S&C的一员，我们荣幸地宣布，除了塑料与塑料制品外，我们还将扩大我们的生产线。我们将大胆地踏入其他塑料生产商未曾涉足的领域。是的！我们将生产纸张和纸制品！\n\n我们在塑料上推出的优质品牌产品深得您和您家人的信赖，而我们希望您也能对我们的纸张报以同样的认可。购买S&C牌纸张，就是购买威斯康星斯洛斯皮特的父老乡亲们亲手制作的饱含爱意的产品！\n\n敬请电话垂询或来信获取宣传资料。无论您有何种纸张需求，S&C永远为您[[span class=\"ruby\"]]储有[[span class=\"rt\"]]stocked[[/span]][[/span]]、[[span class=\"ruby\"]]涵盖[[span class=\"rt\"]]covered[[/span]][[/span]]、[[span class=\"ruby\"]]备齐[[span class=\"rt\"]]prepared[[/span]][[/span]]！\n[[/cell]]\n[[cell style=\"width: 50%; margin:auto; padding-left: 10px;\"]]\n了解S&C纸张！\n* 100%可降解材料制造。\n* 来自本地的纸浆与化学用料。\n* 手工制造，充满爱心与关怀。\n* 适宜任何用途。\n* 质量有保障。\n\n__联系方式__\n电话：555-510-9636\n地址：S&C制造\n工业路1号\n威斯康辛州，斯洛斯皮特\n53003\n电子邮件：##black|customerservice@scproducts.scp##\n[[/cell]]\n[[/row]]\n[[/table]]\n[[/div]]\n@@ @@\n@@ @@\n\n“为什么是纸？”Sevens一边把一袋纸浆倒进造纸机里，一边呻吟道。她扶住袋子，看着纤维原料流进她喂食的机器里。\n\n“啊，因为基金会需要某个地方为它提供纸张。我猜内部生产比长期向外订购要来得便宜。”Evelyn把她那一袋要倒的纸浆拖了过来，回答道。\n\n“说句不中听的，[[[s-c-plastics-actually-does-their-job|我们上周还在生产塑料。]]]为什么突然就造起纸来了？那些还得履行的合同怎么办？”\n\n“照样完成，Sevens。”\n\n“怎么完成？我确实不知道，我就出去了一个周末，你和Pickman是怎么做到改造了这整个地方，但我无法想象这会是很简单或者很便宜的事。”\n\n“噢，我们用了那个，可以把一个工业机器变成另一种工业设备的异常。我们费了一些功夫才把它弄好，但结果还不错。”\n\n“我们还有这种东西？”\n\n“对呀。”\n\n“……哈。我想说，这纸浆的味道让我有点想念焦油。”\n\n“我们下周还得继续生产塑料，但现在我们需要尽快完成Site-19的订单。”\n\n两人走到墙边堆放着的一排纸浆袋前，一人拖着一袋，拖回她们工作的机器嘴边。她们打开袋子，让这些臭不可闻的纤维原料流进机器的胃里。\n\n“所以……一个能把机器变成其它工业机器的异常，嗯？”\n\n“对呀。”\n\n“噢，有意思。谁造的这玩意，工厂？听上去像是他们会用的东西。”\n\n“无可奉告。这是机密。”\n\n“好吧。你真够无趣的，Evelyn。”\n\n在沉默中静坐了几分钟后，她们再一次往返，取来新的袋子，倒进造纸机里。\n\n“你知不知道我们有没有能造纸的异常？”\n\n“并不。”\n\n“是不知道，还是……？”\n\n“我们并未拥有或了解任何可以无限制造纸张的异常。”\n\n她们再次陷入了沉默。正当袋子里的原料所剩不多时，Sevens朝向Evelyn，扬起了眉毛。\n\n“……所以你是说基金会有只要你想就能把纺织机变成水压机的异常，却没有能造纸的异常？”\n\n“对呀。”\n\n“这可够蠢的。”\n\n“对呀。”\n\n[[=]]\n[[size 90%]]\n**|[[[the-s-c-plastics-hub| 中心页]]]|**\n[[/size]]\n[[/=]]",
+  "tags": [
+    "2019连写竞赛",
+    "_垃圾小说",
+    "s&c塑料",
+    "喜剧",
+    "故事",
+    "粪作"
+  ],
+  "author": "Tunardine777",
+  "created_at": "2019-03-23T09:35:03+00:00",
+  "updated_at": "2024-03-27T19:30:34+00:00",
+  "rating": 4,
+  "_site": "scp-wiki-cn",
+  "_fullname": "sc-paper"
+}

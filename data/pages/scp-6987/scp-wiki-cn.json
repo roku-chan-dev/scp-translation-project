@@ -1,0 +1,22 @@
+{
+  "title": "SCP-6987",
+  "content": "@@ @@\n@@ @@\n[[div style=\"display: none;\"]]\n[[=]]\n[[include component:image-block name=https://scp-wiki.wdfiles.com/local--files/scp-6987/logo.png|caption=.|width=100%|align=center]]\n[[/=]]\n[[/div]]\n\n[[module ListPages category=\"fragment\" parent=\".\" limit=\"1\" order=\"created_at\" offset=\"@URL|0\"]]\n%%content%%\n[[/module]]\n\n[[include :scp-wiki:component:license-box]]\n[[include :scp-wiki:component:license-box-end]]",
+  "tags": [
+    "k级情景",
+    "meta",
+    "scp",
+    "sheldon-katz",
+    "交换",
+    "企业性",
+    "全球超自然联盟",
+    "机密分级",
+    "金贝格-莱兹",
+    "预测性"
+  ],
+  "author": "ashausesall",
+  "created_at": "2021-12-21T14:56:39+00:00",
+  "updated_at": "2023-10-07T11:56:18+00:00",
+  "rating": 28,
+  "_site": "scp-wiki-cn",
+  "_fullname": "scp-6987"
+}

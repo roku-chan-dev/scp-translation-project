@@ -1,0 +1,15 @@
+{
+  "title": "LSJ의 인사 파일",
+  "content": "[[div style=\"float:right; margin:0 2em 1em 2em; width:250px; border:0;\"]]\n||||[[image LSJ.jpg width=\"250px\"]] ||\n||||~ ^^본인의 좌우명을 사용한 LSJ^^ ||\n[[/div]]\n**암호명:** LSJ\n\n**등급:** 2-3\n\n**좌우명:** 너 격리 (빰)\n\n**직업:** 정보 기록과 (2급) / 격리 이론과 (3급)\n\n**취미:** [[[lsj-art-works-page|평생 존나 죽을 때 까지 그리기]]]\n\n**언제부터 재단에 쳐드루왔는가:** //--몰라, 자다 일어나보니 그런걸 알게됬어.--// 아무튼 처음으로 알게되면서 만들어지자 마자 ██ 번의 가입 진행에 실패를 하고 결국에는 ██ 번 만에 들어왔다. 어쨌든 \n\n**특징:**  멘트에 취소선으로 토다는게 많으므로 자꾸 선 그으면 얼굴에다 그어버릴 거라는 ████ 관리자의 경고를 받음.\n\n--국법에 순응하여 2015년 █월 █일까지 국가의 부름을 받음. 개 힘들고 귀찮아 죽을 거 같지만 재단에서 지원 받은 ██ 개의 기억 소거제로 정신의 정상적인 상태를 유지할 수 있음.-- 국방의무 완료. 현재는 민간인을 위장한체 삶을 연명하는 중.\n\n//시이발 다시 군대 가나 봐라// - LSJ\n\n**추가 목표:** 격리 규정 기준의 위반 사례를 파악하기 위한 이론적 학습을 총괄하는데 목표를 두고 있음.\n\n[[collapsible show=\"다음 정보는 3급 정보입니다. 3급 정보 관리원에게 암호를 받으시기 바랍니다.\" hide=\"본 정보는 ███ 동인지 세트 한 권으로 암호가 통과되었습니다. - LSJ 연구원\"]]\n\n\n+++ 자가 개발된 정신 테스트 이미지 \n\n[[image test-.png style=\"display: block; border: solid 1px #666; box-shadow: 0 1px 6px rgba(0,0,0,.25); width: 400px; margin: 0 auto;\"]]\n\n+++ 안 놀라면 정상입니다.\n\n------\n\n++++ SCP\n**이상해서 가지고 온 겁니다.** \n[[module ListPages created_by=\"LSJ\" separate=\"no\" tags=\"scp, -en\" order=\"title\" prependLine=\"||~ 일련번호 ||\"]] \n|| %%title_linked%% ||\n[[/module]]\n\n+++++ 혼잣말\n[[module ListPages created_by=\"LSJ\" separate=\"no\" tags=\"이야기, -en\" order=\"title\" prependLine=\"||~ 제목 ||\"]] \n|| %%title_linked%% ||\n[[/module]]\n\n++++++ 어? 그러고 보니 나 본사 파견 좀 갔다 왔지? 헤헤\n[[module ListPages created_by=\"LSJ\" separate=\"no\" tags=\"-ko, scp, en, -이야기, -작가, -안내, -보충, -경연, -허브\" order=\"title\" prependLine=\"||~ 일련번호 ||\"]] \n|| %%title_linked%% ||\n[[/module]]\n\n++++ 특집\n//감사합니다!//\n[[module ListPages created_by=\"LSJ\" separate=\"no\" tags=\"특집, -en\" order=\"title\" prependLine=\"||~ 제목 ||\"]] \n|| %%title_linked%% ||\n[[/module]]\n\n[[/collapsible]]\n\n**기타 업무 내역**\n\n업무 지원 기록:\n\n[[[SCP-978]]]에서 파견 지원 후, 한국에서 기록된 SCP-KO를 일부 촬영에 나서서 기록함.\n[[[SCP-423-KO]]]의 실험에 보조 참여함.\n\n__현장 기록__:\n[[module ListPages created_by=\"LSJ\"separate=\"no\" limit=\"250\" perPage=\"250\" tags=\"-scp, , -작가, -작성자, -이야기, -번역\" order=\"title\"]]\n* %%title_linked%%\n[[/module]]\n\n혹시 삽 가져오셨나요? [http://sandbox.scp-wiki.kr/lsj 따라오세요].\n[http://scpkosb.wikidot.com/portal:lsj 앍 내자리]",
+  "tags": [
+    "_이미지",
+    "ko",
+    "작가"
+  ],
+  "author": "LSJ",
+  "created_at": "2015-06-24T10:46:59+00:00",
+  "updated_at": "2021-05-24T07:18:20+00:00",
+  "rating": 1,
+  "_site": "scpko",
+  "_fullname": "lsj-s-personnel-file"
+}

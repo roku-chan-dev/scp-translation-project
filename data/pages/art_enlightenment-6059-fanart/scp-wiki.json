@@ -1,0 +1,16 @@
+{
+  "title": "ENLIGHTENMENT: SCP-6059 Fanart",
+  "content": "[[include :scp-wiki:theme:basalt]]\n\n[[module css]]\n:root {\n  --logo: url(https://scp-wiki.wdfiles.com/local--files/secure-facility-dossier-site-58/58logo.png);\n  --title: \"SITE-58:\";\n  --subtitle: \"BRIDGING THE GAPS BETWEEN US\";\n}\n.email-example .collapsible-block-folded a.collapsible-block-link {\n    animation: blink 0.8s ease-in-out infinite alternate;\n}\n@keyframes blink {\n    0% { color: transparent; }\n    50%, 100% { color: #b01; }\n}\n.email {border: solid 2px #000000; width: 88%; padding: 1px 15px; margin: 10px; box-shadow: 0 1px 3px rgba(0,0,0,.5)}\n.email-example a.collapsible-block-link {font-weight: bold;}\n.tofrom {margin-left: 10px; margin-top: 5px; padding: 1px 15px; border-left: solid 3px maroon}\n[[/module]]\n\n[[=]]\n[[module Rate]]\n[[/=]]\n\n[[=image https://scp-wiki.wikidot.com/local--files/art:enlightenment-6059-fanart/Enlightenment.jpg width=\"500px\"]]\n\n------\n> = **Filename:** Enlightenment\n> = **Author:** [[*user winkwonkboi]]\n> = **License:** CC-BY-SA-3.0\n> = **Source Link:** SCP Foundation\n> = **Derivative of:** SCP-6059, written by [[*user OriTiefling]]\n------\n= [[size 150%]]{{**[https://scp-wiki.wikidot.com/scp-6059 SCP-6059]** - HAVE YOU EVER HAD AN ENLIGHTENED EXPERIENCE IN A BALL PIT?}}[[/size]]\n------\n= //(Written by [[user OriTiefling]] and drawn by [[user winkwonkboi]].)//\n@@ @@\n[[div class=\"blockquote\"]]\n[[=]]\n**__Artist's Commentary__**\n\nOkay, where the fuck did I get this motivation to draw?\n\nYou know, I thought I'd just focus on finishing up my post for GoblinCon, but one thing led to another, and now I'm here writing the commentary for another piece of art I drew in a few hours.\n\nSomeone please look into this. I think an anomaly has breached into my headspace and it keeps convincing me to continuously draw and draw and draw and post (I am joking, of course. Anyways, yeah, that's all from me. Maybe the next time you see me is on another artwork page, lol. Although, I doubt I have the energy to at this point.\n\nPeace. ✌️\n[[/=]]\n[[/div]]\n@@ @@\n[[=]]\n+ //Pizza Party!//\n+++ Check out my other 'doodles' [https://scp-wiki.wikidot.com/winkwonk-doodles here.]\n@@ @@\n[[module Rate]]\n[[/=]]",
+  "tags": [
+    "_cc",
+    "artwork",
+    "cel-shaded",
+    "scp-art"
+  ],
+  "author": "winkwonkboi",
+  "created_at": "2023-05-18T12:16:38+00:00",
+  "updated_at": "2024-03-28T18:03:54+00:00",
+  "rating": 42,
+  "_site": "scp-wiki",
+  "_fullname": "art:enlightenment-6059-fanart"
+}

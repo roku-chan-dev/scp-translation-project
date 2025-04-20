@@ -1,0 +1,14 @@
+{
+  "title": "fragment:scp-5616-offset-1",
+  "content": "[[include :scp-wiki:theme:blankstyle acs=a]]\n\n[[div]]\n[[include :scp-jp:info:start]]\n[[=]]\n**SCP-5616: 「焼却炉から出た女」**\n私を救うのは私。\n\n[[image http://scp-jp-storage.wdfiles.com/local--files/file%3A2963469-100-am92/5616.png]]\n\n**[[[http://www.scp-wiki.net/this-page-intentionally-left-blank|著者のさらなる作品！]]]**\n[[/=]]\n[[include :scp-jp:info:end]]\n[[/div]]\n\n[[div style=\"height:12px;\"]]\n[[/div]]\n\n[[div]]\n[[include :scp-jp:component:anomaly-class-bar-source\n\n|item-number= SCP-5616\n\n|clearance= 2\n\n|container-class= esoteric\n\n|secondary-class= gödel\n\n|secondary-icon= http://scp-jp-storage.wikidot.com/local--files/file:2963469-114-zhxx/godel-icon-3.svg\n\n|disruption-class= dark\n\n|risk-class= notice\n\n]]\n\n[[include :scp-jp:component:acs-peppo-split\n\n|object= euclid\n\n|object-image= http://scp-jp.wikidot.com/local--files/component:anomaly-class-bar/euclid-icon.svg\n|object-color= euclid\n\n|esoteric-color= esoteric\n\n]]\n[[/div]]\n\n----\n\n[[include component:image-block\n    name=http://scp-jp-storage.wikidot.com/local--files/file:2963469-115-z95b/IlseFree2.jpg|\n    caption=イッパーウォッシュのベンチにいるSCP-5616。|\n    align=center|    \n    width=100%|\n]]\n\n**特別収容プロトコル:** SCP-5616の所在はSCP財団施設、カナダ、オンタリオ州のネクサス-94、イッパーウォッシュ州立公園、そしてグランドベンド市に制限されます。[http://scp-jp.wikidot.com/secure-facility-dossier-site-43 サイト-43]の保安・収容セクションはこの制限が守られていることを確認する責任を負います。\n\n----\n\n**説明:** SCP-5616はイルゼ・レインデルス博士であり、サイト-43の玄妙除却セクション内の廃止された異常文書廃棄チャンバー（ADDC）に、1943年12月31日から2021年3月30日まで囚われていました。収容違反したアナクロニック物質が封印されたチャンバー内の時間の流れを留め、レインデルス博士が極度に危険な「ラバーバンド」時間効果を起こさずにチャンバーを離れることを不可能にしていました。\n\nADDCの窓を、質量を持たない粒子が通過できることが発見されたことが、レインデルス博士にとっての突破口となりました。何年もの注意深い研究の結果を用い、彼女は量子超力学セクションにクロノン-反クロノン波動粒子測定システムのプロトタイプを作成することを指示しました。それにより、ADDC内で発生している異常な時間効果を同定し、単離することが可能となりました。2台目のプロトタイプはチャンバー内に正確で計測されたパターンでクロノンを拡散し、自然な時間の流れを回復することができました。1週間の注意深い実験の後、ADDCの封印は解かれ、レインデルス博士は無傷で回収されました。\n\nSCP-5616は異常な特性を保持しています。アナクロニック物質への長期の暴露と、ADDCから脱出した手法が、彼女の加齢を完全に停止しています。その他の生物学的プロセスは全て通常です。\n\n----\n\n[[include component:image-block\n    name=http://scp-jp-storage.wikidot.com/local--files/file:2963469-116-n6t0/Barrel.jpg|\n    caption=イッパーウォッシュ州立公園における異常な文書の廃棄。|\n    width=200px|\n]]\n\n**補遺:** 2021年3月30日の午後、レインデルス博士は1875年版の『モントリオール日報』を廃棄する目的の下、彼女が囚われていた場所にあるADDC内において、自ら開発した玄妙除却手順を実行しました。この文書は異常なミーム効果を持っており、1917年に彼女の姉であるリズの死をもたらしたものでした。\n\n彼女は、本人確認・技術暗号セクションの主任であるM. ヴルームとともに、イッパーウォッシュ州立公園内にて儀式を執り行い、その中で当該文書を、その異常な性質を無力化しつつ焼却しました。異常な効果は発生しませんでした。\n\nレインデルス博士は現在、玄妙除却セクションの主任として勤務しています。彼女は、2位以下に65年の差をつけて、現役では最も長期間に渡って勤務しているサイト職員となっています。\n\n|| [/scp-5616/offset/0 >> 文書のアーカイブされたバージョンにアクセスする。 <<] ||",
+  "tags": [
+    "en",
+    "フラグメント"
+  ],
+  "author": "YS_GPCR",
+  "created_at": "2023-02-05T11:09:16+00:00",
+  "updated_at": "2023-02-07T16:05:21+00:00",
+  "rating": 0,
+  "_site": "scp-jp",
+  "_fullname": "fragment:scp-5616-offset-1"
+}

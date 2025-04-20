@@ -1,0 +1,25 @@
+{
+  "title": "SCP-8191",
+  "content": "[[include :scp-wiki:theme:black-highlighter-theme]]\n[[include :scp-wiki:theme:eventyr]]\n[[include :scp-wiki:component:dynamic-emails code=--]]\n\n[[include component:preview\ntext= \"Do you know who guards the Grail, in Chrétien de Troyes' //Percival//?\"\n]]\n\n[[div style=\"display: none;\"]]\n[[include component:image-block name=https://i.imgur.com/i9BNeKC.png|caption=.]]\n[[/div]]\n\n[[>]]\n[[module Rate]]\n[[/>]]\n\n[[include :scp-wiki:component:author-label-source start=--\n|name=sailorenoch, rottingraisins, & Rosyfox2002]]\n**Authors:**\n[[*user sailorenoch]] - [https://scp-wiki.wikidot.com/art:faust-s-art-page Art Page]\n[[*user rottingraisins]] - [https://scp-wiki.wikidot.com/art:rottingraisins Art Page]\n[[*user Rosyfox2002]] - [https://scp-wiki.wikidot.com/art:rosyfoxs-art-pit Art Page]\n[[include :scp-wiki:component:author-label-source end=--]]\n\n[[module ListPages  category=\"fragment\" parent=\".\" limit=\"1\" order=\"name\" offset=\"@URL|0\"]]\n%%content%%\n[[/module]]\n\n[!-- https://scp-wiki.wikidot.com/fragment:scp-8191-0 --]\n[!-- https://scp-wiki.wikidot.com/fragment:scp-8191-1 --]\n[!-- https://scp-wiki.wikidot.com/fragment:scp-8191-2 --]\n\n\n@@ @@\n[[footnoteblock]]\n@@ @@\n\n[[include :scp-wiki:component:license-box\n|author=rottingraisins, Rosyfox2002, sailorenoch]]\n> **Filename:** 9IRLvLp.jpeg\n> **Author:** [[*user rottingraisins]]\n> **License:** CC BY-SA 3.0\n> **Source Link:** [[[https://imgur.com/9IRLvLp |LINK]]]\n\n> **Filename:** mQG3rlc.jpeg\n> **Author:** [[*user rottingraisins]]\n> **License:** CC BY-SA 3.0\n> **Source Link:** [[[https://imgur.com/mQG3rlc |LINK]]]\n\n> **Filename:** logo.png\n> **Author:** [[*user sailorenoch]]\n> **License:** CC BY-SA 3.0\n> **Source Link:**[[[https://i.imgur.com/Kb5mDQP.png |LINK]]]\n> **Font:** [[[https://github.com/amazusa/Nagino |Nagino]]]\n> **License:** OFL-1.1 license\n[[include :scp-wiki:component:license-box-end]]\n\n[[div class=\"footer-wikiwalk-nav\"]]\n[[=]]\n<< [[[SCP-8190]]] | SCP-8191 | [[[SCP-8192]]] >>\n[[/=]]\n[[/div]]",
+  "tags": [
+    "_cc",
+    "_licensebox",
+    "aquatic",
+    "eventyr",
+    "humanoid",
+    "illustrated",
+    "invertebrate",
+    "neutralized",
+    "publicdomaincon2025",
+    "sapient",
+    "scp",
+    "uncontained",
+    "vehicle"
+  ],
+  "author": "rottingraisins",
+  "created_at": "2025-02-24T19:16:13+00:00",
+  "updated_at": "2025-03-27T21:36:36+00:00",
+  "rating": 58,
+  "_site": "scp-wiki",
+  "_fullname": "scp-8191"
+}

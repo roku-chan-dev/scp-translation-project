@@ -1,0 +1,14 @@
+{
+  "title": "SCP-245-1-A",
+  "content": "[[>]]\n[[module Rate]]\n[[/>]]\n\n+ 警告: このファイルは承認済みの職員のみが閲覧できます。\n\n++ **SCP-RPG:〝The Lone and Level Sands〟**\n\n> ファイル名: SCP-245-1.zip\n> ファイルサイズ: 50Mb以下\n> マスターパスワード: largecosmiclouse\n\n[[include component:image-block name=startingmap.png|caption= SCP-245-1の作成において最初にロードされるサンプルマップ。このマップへのあらゆる変更はプロジェクト主任に報告されなければなりません。]]\n\n++ 概要\n\n時間と容量の制約の都合上、SCP-245-1は非常に単純です。ストーリーは、とある青年が武器をとり、砂のゴーレムの攻撃から彼の町を保護するように彼の祖母に頼まれるというものです。この依頼を達成した結果、主人公は行方不明になった王の娘を奪還することを要求されます。\n\nこの依頼は蛮人のキャンプを見つけ、姫をさらったと考えられている蛮人の首領を見つけるために達成しなければならないいくつかのサブクエストを含みます。但し、姫は自分の意思で去ったので、敵である山賊はただの囮です。その後、本当の敵(オジマンディアス)が現れ、主人公がサイドクエストをクリアしたことで、彼の目的の達成が近づいたことに礼を言います。\n\n王は、主人公に最後の決戦の場であるピラミッドまでの道のりを教えます。敵は最後の瞬間に儀式を完了させ、主人公は敵と戦わなければならなくなります。戦いが終了すると、クレジットが流れます。クレジットの後、SCP-245の完全な説明が表示されます。\n\n[[html]]\n<html>\n<head>\n<script type=\"text/javascript\">\n\nfunction checkRedirect()\n{\n    if (parseInt(sessionStorage.read) != 1)\n    {\n        window.top.location = \"http://ja.scp-wiki.net/scp-245\";\n    }\n}\n</script>\n</head>\n<body onLoad=\"checkRedirect();\">\n</body>\n</html>\n[[/html]]",
+  "tags": [
+    "en",
+    "補足"
+  ],
+  "author": "amamiel",
+  "created_at": "2017-06-04T15:18:22+00:00",
+  "updated_at": "2021-01-10T16:53:12+00:00",
+  "rating": 21,
+  "_site": "scp-jp",
+  "_fullname": "scp-245-1-a"
+}

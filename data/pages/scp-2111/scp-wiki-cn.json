@@ -1,0 +1,24 @@
+{
+  "title": "SCP-2111",
+  "content": "[!-- 如果你看见错字且想修正它，你能从https://scp-wiki-cn.wikidot.com/fragment:scp-2111-*/noredirect/true\"网址找到适当的网址，“*”代表1-5（警告页面为1、红色护符为2……请读这为5）。注意：“记忆强化（Mnestics）”不是错字，这是与记忆删除（amnestics）相反的东西。--]\n[[module ListPages parent=\".\" category=\"fragment\" limit=\"1\" order=\"created_at\" offset=\"@URL|0\"]]\n%%content%%\n[[/module]]\n\n[4.63%] ls -la\n@@-rwx2r--- MEME 2/2111 18 KB Jul 14 2015@@ [[[https://scp-wiki-cn.wikidot.com/scp-2111/offset/1|SCP-2111(红色护符)]]]\n@@-rwx2r--- AMEM 2/2111 20 KB Jan 17 2015@@ [[[https://scp-wiki-cn.wikidot.com/scp-2111/offset/2|SCP-2111(驾驭之舌)]]]\n@@-rwx2r--- AMEM 2/2111 36 KB Jan 17 2015@@ SCP-2111appA\n@@-rwx2r--- CCON 2/2111 21 KB Aug 13 2015@@ [[[https://scp-wiki-cn.wikidot.com/scp-2111/offset/3|SCP-2111(归来者理论)]]]\n@@-rwx2r--- OZER 2/2111 21 KB Nov 1 2015@@ [[[https://scp-wiki-cn.wikidot.com/scp-2111/offset/4| SCP-2111(请读这)]]]\n@@drwx3RTrwx--- MEME 3/2111/RT 10 GB Nov 1 2015@@  scp-2111.datafiles.warningcoghaz\n\n[4.63%] [[[https://scp-wiki-cn.wikidot.com/scp-2111/offset/0|cd..]]]\n\n[[footnoteblock]]\n\n[[=]]\n,,**<<** ##blue|SCP-2111## | [[[In the Trenches with the Dead|]]] **>>**,,\n[[/=]]\n\n[[div class=\"footer-wikiwalk-nav\"]]\n[[=]]\n<< [[[SCP-2110]]] | SCP-2111 | [[[SCP-2112]]] >>\n[[/=]]\n[[/div]]",
+  "tags": [
+    "meta",
+    "scp",
+    "听觉影响",
+    "基金会制",
+    "无效化",
+    "模因",
+    "死后",
+    "视觉性",
+    "认知危害",
+    "逆模因",
+    "逆模因部",
+    "鬼魂"
+  ],
+  "author": "MScarlet",
+  "created_at": "2015-11-13T06:47:20+00:00",
+  "updated_at": "2025-01-24T17:16:19+00:00",
+  "rating": 39,
+  "_site": "scp-wiki-cn",
+  "_fullname": "scp-2111"
+}

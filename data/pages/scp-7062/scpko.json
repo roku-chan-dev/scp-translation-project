@@ -1,0 +1,17 @@
+{
+  "title": "SCP-7062",
+  "content": "[[module css]]\n.page {\n    display: block;\n    overflow: hidden;\n    font-family: \"Monotype Corsiva\", \"Bradley Hand ITC\", sans-serif;\n    font-style: normal;\n    background-attachment: scroll;\n    background-clip: border-box;\n    background-color: transparent;\n    background-image: linear-gradient(to top ,rgb(202, 219, 228) 0%, rgb(231, 233, 220) 8%);\n    background-origin: padding-box;\n    background-position: 0px 8px;\n    background-repeat: repeat;\n    background-size: 100% 20px;\n    border: 1px solid #CCC;\n    border-radius: 10px;\n    padding: 10px 10px;\n    margin-bottom: 10px;\n    box-shadow: 0px 1px 3px rgba(0, 0, 0, 0.2)\n}\n.page p,\n.page ul {\n    line-height: 20px;\n    margin: 0;\n}\n[[/module]]\n[[module CSS]]\n@import url('https://fonts.googleapis.com/css?family=Nanum+Brush+Script');\n[[/module]]\n\n[[include :scpko:info:start]]\n**SCP-7062:** 말라붙은 심장\n**원문:** [http://scpwiki.com/scp-7062 SCP-7062]\n**작성:** [[user Voiiiii]]\n**번역:** [[user 2018]]\n[[include :scpko:info:end]]\n\n[[include :scpko:component:anomaly-class-bar-source\n|item-number= 7062\n|clearance= 2\n|container-class= 무효\n|secondary-class= none\n|secondary-icon=\n|disruption-class=\n|risk-class=\n]]\n\n**특수 격리 절차:** 필요하지 않다.\n\n**설명:** SCP-7062는 이전에 재단의 직원이었던 시인 라일라 베커(Layla Becker)와 관련된 일련의 변칙 개체이다. SCP-7062-A는 베커 박사의 말라붙은 피로 가득 찬 잉크 병이다. SCP-7062-B는 베커 박사의 심장으로 몸에서 완전히 떨어져 나갔는데도 멀쩡하게 뛴다.\n\n**발견:** SCP-7062는 1998년 9월 8일 베커 박사가 자신의 책상에서 사망한 채로 발견되었을 때 무효화된 상태로 회수되었다. 베커가 살던 아파트를 수색한 결과 그녀의 책상에서 피로 쓰인 몇 편의 시와 함께 SCP-7062-A와 -B를 발견하였다. 검시관의 보고에 따르면, 연구원이 급성 타코츠보(Takotsubo) 심근병[[footnote]]스트레스를 받아 좌심실이 이완되는 현상[[/footnote]]으로 사망한 것으로 밝혀졌다. 베커 박사의 시체 근방에서 평범한 잉크로 쓰인 쪽지가 책상 위에 놓여 있었다. 내용은 다음과 같다.\n\n[[div class=\"page\"]]\n[[span style=\"font-family: 'Nanum Brush Script' ;font-size: 18px;\"]][[size 110%]]여기 나 홀로 앉아있어\n모든 게 차갑고 어둡지\n네 연락 기다리고 있어\n넌 나의 불꽃이었지\n눈물이 내 얼굴을 타고 흘러내려\n넌 내게 비둘기처럼 아름다워\n너의 자리의 그림자가 보여\n이제야 알게 되었어, 날 아프게 한 건 바로 [[span style=\"color: transparent; text-shadow: 0 0 7px rgba(0,0,0,.5)\"]]사랑[[/span]][[/size]]\n[[/span]]\n[[/div]]\n\n글씨는 끝으로 갈수록 점점 읽기 어려워졌다. 쪽지의 마지막 단어는 눈물에 젖어 거의 읽을 수 없었다.\n\n[[footnoteblock]]",
+  "tags": [
+    "en",
+    "scp",
+    "무효",
+    "생물학",
+    "혈액"
+  ],
+  "author": "2018",
+  "created_at": "2022-11-09T05:45:24+00:00",
+  "updated_at": "2023-11-14T08:05:12+00:00",
+  "rating": 9,
+  "_site": "scpko",
+  "_fullname": "scp-7062"
+}

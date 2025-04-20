@@ -1,0 +1,28 @@
+{
+  "title": "SCP-3874",
+  "content": "[[module CSS]]\n@import url(/theme:i-57/code/1);\n\n#page-content .collapsible-block-folded a.collapsible-block-link {\n    animation: blink 0.8s ease-in-out infinite alternate;\n}\n@keyframes blink {\n    0% { color: transparent; }\n    50%, 100% { color: 0xFF0000; }\n}\n[[/module]]\n\n[[include component:image-block name=http://scp-wiki.wdfiles.com/local--resized-images/scp-3874/castro1.jpeg/medium.jpg|caption=2005年的SCP-3874]]\n\n**项目编号：**SCP-3874\n\n**项目等级：**Keter\n\n**特殊收容措施：**因SCP-GOC 1970年协定[[footnote]]SCP基金会与联合国全球超自然联盟的协议，禁止基金会在不认可安保收容保护倡议条款的国家开展活动，以交换地区异常的知识及情报。[[/footnote]]，基金会无法直接对SCP-3874展开收容。作为替代基金会将监控GoI-616 \"五芒星\"[[footnote]][[[scp-4220|国防部超自然分支]]][[/footnote]]与此异常的相关行动，阻止任何对SCP-3874的刺杀尝试。\n\n**描述：**SCP-3874是前古巴首相（1959-1976）及总统（1976-2008）菲德尔·亚历杭德罗·卡斯特罗·鲁斯。该对象的异常性质大部分仍然未知，但当前确信SCP-3874具有以下一种或多种异常性质：\n\n* 概率篡改能力\n* 千里眼\n* 不死/快速再生性质\n* 超形上学性全知\n\nSCP-3874从未向公众展现出以上任何异常性质，也未表现出任何B级超人类的常见表征；然而，SCP-3874躲过的刺杀尝试总数极有可能存在异常。根据叛逃者Matthew Shah提供的五芒星泄露文件，自1963年起，该组织曾尝试过超过600次[[footnote]]在基金会获得此文件前，只发现过52次尝试。[[/footnote]]对SCP-3874的刺杀。这些刺杀尝试中既包括异常性手法，也有常规性手法。\n\n曾尝试过的手段包括：\n\n[[include component:image-block name=http://scp-wiki.wdfiles.com/local--files/scp-3874/castro2.jpg|caption=1959年的SCP-3874]]\n\n* 爆炸雪茄\n* 有毒冰淇淋\n* 联络前芝加哥鬼灵成员和UIU关注人员参与猪湾行动\n* 认知危害性外交演讲\n* 巫毒\n* [[[scp-3521|辐射性超常药物]]]\n* 轨道瓦解射线\n\n**附录.01：**在发现SCP-3874异常性质和1975年的一次刺杀尝试后，基金会开始暗中游说，支持丘奇委员会对多部门滥用美国情报机构职权的调查行动。\n\n因国防部施加政治压力，丘奇委员会改为将调查集中在NSA上。作为回应，基金会开展程序-343FB21“强硬手段”，对威廉·卡特展开绑架[[footnote]]时任美国总统小詹姆斯·“吉米”·厄尔·卡特的兄弟[[/footnote]]。在一恐怖分子前台组织的掩护下，基金会向总统发出此威胁，令其签署[https://en.wikipedia.org/wiki/Executive_Order_11905 11905号行政令]作为回应，禁止美国政府人员开展政治暗杀。\n\n\n**附录.02：**虽11905号行政令已被签署，五芒星仍在继续开展秘密刺杀尝试，最值得注意的是于2000年将被抓走的[https://en.wikipedia.org/wiki/Eli%C3%A1n_Gonz%C3%A1lez#Taken_by_federal_authorities 伊利安·冈萨雷斯][[footnote]]译注：伊利安·冈萨雷斯是一古巴公民，2000年还是小孩的他随母亲从海上偷渡至美国，途中因风暴母亲遇难，他幸存后被美国发现。移民署准备将其送回古巴的生父处，但美国国内的母方亲属请求将其留下，最终此人返回了古巴。此事因媒体过度曝光当事人引发争议。[[/footnote]]安排成刺杀SCP-3874的沉睡特工[[footnote]]译注：指展开潜伏后并不立即接受或执行任务，只在必要时予以激活的卧底特工[[/footnote]]。Site-19首席GOI研究员Dr. Everwood发现了此计划，基金会情报特工出动对冈萨雷斯实施了记忆删除，清理了所有沉睡特工项目。\n\n**附录.03：**于2001年6月23日，五芒星主席及美国国防部长唐纳德·拉姆斯菲尔德发来下列通信。\n\n[[div style=\"color: black; font-weight: bold; float: center; border: solid 1px #000000; padding: 5px 15px 15px 15px; box-shadow: 0 1px 3px rgba(0,0,0,.2); width: 84%; margin: 2% 4% 4% 4%\"]]\n[[=image https://scp-wiki.wdfiles.com/local--files/scp-3874/bro.png]]\n@@ @@\n@@ @@\n@@ @@\n@@ @@\n@@ @@\n@@ @@\n致启者，\n\n美国政府理解并支持SCPF为我们伟大国家及全世界做出的服务，但我们无法继续容忍你们对国家安全的持续干预。即便柏林墙和苏联已经崩溃，共产主义的威胁仍然就在我们的前庭中存活。距离佛罗里达州仅90英里处，就有一个对我国自由基础的潜在威胁。\n\n在此诚挚请求你们停止干预我国的对外关系。依照控制收容保护倡议中的规定，你们不得干预本国除[[[SCP-4444|超常情形]]]外的政治。若你们继续采取有违本国需要的行为，我们可能需要重新考虑资助SCPF、以及容许你们基地在美国领土上继续运作的必要性。\n\n据我们了解，GOC对异常的计划比你们更能接受。\n\n= 此致，\n\n[[=image http://scp-wiki.wdfiles.com/local--files/scp-3874/signature.png width=\"150px\"]]\n[[/div]]\n\n今后对五芒星刺杀SCP-3874的阻止将通过基金会前台公司雇用第三方特工进行。\n\n**附录.04：**于2016年11月25日，古巴新闻媒体报道SCP-3874死亡，并归于自然原因。此后不久发起“90 Años”行动，目标是取得SCP-3874的尸体，带往哥伦比亚的Facility-72[[footnote]]等同南美洲的基金会站点。[[/footnote]]。因停尸处无异常守卫或GOC特工在场，特工LaFerrier得以在火化前成功取得SCP-3874的尸体，并用D-1221的骨灰顶替了SCP-3874。\n\n抵达Facility-72后，开展尸检以确认SCP-3874是否具有任何异常性质。未发现任何结果。额外实验未得到结果。死因被确认为自然死亡，未发现五芒星与SCP-3874的死亡存在关联。\n\n2017年1月1日，特工LaFerrier伪装为一位新任委内瑞拉外交官，指派其接近劳尔·卡斯特罗[[footnote]]SCP-3874的弟弟。[[/footnote]]，尝试收集与SCP-3874异常性质相关的情报。\n\n**附录05：**在采访劳尔·卡斯特罗后，确认SCP-3874从未具有异常性质。虽然基金会统计学家对一普通人类躲避且活过600余次暗杀的可能性表示怀疑，但其可能性在非异常情况下仍大于0，因此具有可能。\n\nSCP-3874的文件将立即予以重新分级。\n\n[[collapsible show=\" 展开SCP-3874重分级？\" hide=\"收起\"]]\n[[include component:image-block name=http://scp-wiki.wdfiles.com/local--resized-images/scp-3874/castro3.jpeg/medium.jpg|caption=SCP-3874-EX于2005年在巴西参加一次会议。]]\n\n\n**项目编号：**SCP-3874-EX\n\n**项目等级：**Neutralized (已解明)\n\n**特殊收容措施：**N/A\n\n**描述：**SCP-3874-EX是前古巴首相（1959-1976）及总统（1976-2008）菲德尔·亚历杭德罗·卡斯特罗·鲁斯。该对象曾被认为具有令其能从暗杀尝试中存活的异常性质，但已发现此情形实际并不存在。\n\nSCP-3874-EX的骨灰已随Facility-72的D级骨灰一并弃置。\n[[/collapsible]]\n\n@@ @@\n@@ @@\n@@ @@\n\n[[footnoteblock]]\n\n[[div class=\"footer-wikiwalk-nav\"]]\n[[=]]\n<< [[[SCP-3873]]] | SCP-3874 | [[[SCP-3875]]] >>\n[[/=]]\n[[/div]]",
+  "tags": [
+    "2019连写竞赛",
+    "_长毛狗",
+    "everwood博士",
+    "scp",
+    "不可摧毁",
+    "五芒星",
+    "人形生物",
+    "全球超自然联盟",
+    "冗废郁火",
+    "尸体",
+    "已解明",
+    "政治性",
+    "无效化",
+    "概率性",
+    "特工laferrier",
+    "需更新"
+  ],
+  "author": "ashausesall",
+  "created_at": "2019-03-12T05:59:04+00:00",
+  "updated_at": "2025-01-18T13:11:26+00:00",
+  "rating": 8,
+  "_site": "scp-wiki-cn",
+  "_fullname": "scp-3874"
+}

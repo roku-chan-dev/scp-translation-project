@@ -1,0 +1,14 @@
+{
+  "title": "Changelogo",
+  "content": "[[module css]]\n#header {\n  background: url(\"{$IMAGE}\") 10px 40px no-repeat;\n  background-size: 100px 100px;\n}\n@media (max-width: 479px) {\n  #header {\n    background-position: 0 5.5em;\n    background-size: 55px 55px;\n  }\n}\n\n@media (min-width: 480px) and (max-width: 580px) {\n  #header {\n    background-position: 0.5em 4.5em;\n    background-size: 66px 66px;\n  }\n}\n\n@media (min-width: 581px) and (max-width: 767px) {\n  #header {\n    background-size: 77px 77px;\n  }\n}\n[[/module]]",
+  "tags": [
+    "jp",
+    "コンポーネント"
+  ],
+  "author": "R74",
+  "created_at": "2022-07-22T08:23:58+00:00",
+  "updated_at": "2022-07-23T07:08:56+00:00",
+  "rating": 3,
+  "_site": "scp-jp",
+  "_fullname": "component:changelogo"
+}

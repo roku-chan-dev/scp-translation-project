@@ -1,0 +1,21 @@
+{
+  "title": "SCP-1837",
+  "content": "[[>]]\n[[module Rate]]\n[[/>]]\n\n\n[[include component:image-block name=SCP-1837-new.png|caption=SCP-1837 during initial testing.|width=225px]]\n\n\n\n**Item #:** SCP-1837\n\n**Object Class:** Safe\n\n**Special Containment Procedures:** SCP-1837 is to be suspended in a liquid containment unit, located within [[[secure-facility-dossier-site-77| Site-77]]]'s Safe SCP wing. Currents are to be created within this unit, keeping it suspended in the center of the unit at all times. Daily maintenance is to be performed to ensure no mechanical errors occur. In the event that SCP-1837 breaches containment, security teams with hoses are to bombard the affected area with a basic solution until it can be re-contained. Fire extinguishing systems may also be activated.\n\nDiluted samples of its excretions are to be contained in Site-77's chemical hazard research center, where they are available for testing and are currently in use for containment of [[[SCP-122]]].\n\n**Description:** SCP-1837 is a cleaning mop, with a handle constructed out of wood and the mop portion of wool cloth. \n\nThe head portion of SCP-1837 is constantly exuding an acidic liquid. Any solid surface coming into  direct contact with this acid will disintegrate over a period of several hours, depending on the composition of the material. If exposed to other liquids, the effect will be reduced, with complete dilution occurring when SCP-1837's acid is at 10000ppm. \n\nWhen exposed to environments affected by its effect, SCP-1837 will become animate and attempt to repair the damage or disfigurement the acid has caused. SCP-1837 achieves motion by autonomously gliding along smooth surfaces. It is unable to move past simple barricades but due to its effects most obstacles will eventually be destroyed.\n\nOccasionally, other behaviors will be observed by SCP-1837, such as attempting to prevent itself from coming into contact with a solid surface, obtaining various cleaning materials to try and remove SCP-1837-2 and hiding when a human subject discovers it. In addition, SCP-1837 has been observed cleaning rubble and other damages created by its effect or outside sources. \n\nSCP-1837 was contained after a containment breach by [[[SCP-039]]] with [[[SCP-1957]]] and E-4250, on 11/14/████. During the re-containment operations, SCP-1837 was found surrounded by a large pool of SCP-1837-2. Containment specialists have theorized that SCP-1837 had been created by cross-exposure to the anomalous effects, or had been planted in Site-77 by outside forces during the breach. SCP-1837 was contained and classified as Safe on 2/13/████.\n\n**Addendum:** On 11/16/████, Site-77 was assaulted by individuals believed to be connected to the [REDACTED] group. After-action analysis of security logs shows that SCP-1837's containment was accidentally breached by [REDACTED] as part of an explosive entry into the Safe level containment wing. SCP-1837 appeared to hover over the rubble before rapidly progressing behind the intruders, attempting to remove the rubble they left behind. It reached [REDACTED] where they were engaging on-site Security and proceeded to transmute the floor they were under into a pool of its acid, causing 11 deaths and 6 casualties. This effectively ended the incident and allowed [[[mtf-psi-7-home-improvement-hub| MTF-Psi-7]]] to restore containment.\n\n[[footnoteblock]]\n\n[[div class=\"footer-wikiwalk-nav\"]]\n[[=]]\n<< [[[SCP-1836]]] | SCP-1837 | [[[SCP-1838]]] >>\n[[/=]]\n[[/div]]\n\n\n[[include :scp-wiki:component:license-box\n|author=Anonymous]]\n=====\n> **Filename:** SCP-1837-new.png\n> **Author:** Aqua Mechanical\n> **License:** CC BY 2.0\n> **Source Link:** [https://www.flickr.com/photos/aquamech-utah/24978817211 Flickr]\n=====\n[[include :scp-wiki:component:license-box-end]]",
+  "tags": [
+    "_cc",
+    "_licensebox",
+    "autonomous",
+    "corrosive",
+    "rewritable",
+    "safe",
+    "scp",
+    "tool",
+    "transfiguration"
+  ],
+  "author": "RJB_R",
+  "created_at": "2012-11-18T04:29:36+00:00",
+  "updated_at": "2024-11-16T09:27:18+00:00",
+  "rating": 127,
+  "_site": "scp-wiki",
+  "_fullname": "scp-1837"
+}

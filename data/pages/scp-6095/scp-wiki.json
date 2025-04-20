@@ -1,0 +1,24 @@
+{
+  "title": "SCP-6095",
+  "content": "[[>]]\n[[module Rate]]\n[[/>]]\n\n[[module ListPages parent=\".\" category=\"fragment\" limit=\"1\" order=\"created_at\" offset=\"@URL|0\"]]\n%%content%%\n[[/module]]\n\n\n[[footnoteblock]]\n[[div class=\"footer-wikiwalk-nav\"]]\n[[=]]\n<< [[[SCP-6094]]] | SCP-6095 | [[[SCP-6096]]] >>\n[[/=]]\n[[/div]]",
+  "tags": [
+    "_licensebox",
+    "_listpages",
+    "animal",
+    "esoteric-class",
+    "humanoid",
+    "marshall-carter-and-dark",
+    "mind-affecting",
+    "plant",
+    "sapient",
+    "scp",
+    "sculpture",
+    "transfiguration"
+  ],
+  "author": "drop therapy",
+  "created_at": "2021-08-16T03:44:13+00:00",
+  "updated_at": "2022-10-13T18:06:32+00:00",
+  "rating": 39,
+  "_site": "scp-wiki",
+  "_fullname": "scp-6095"
+}

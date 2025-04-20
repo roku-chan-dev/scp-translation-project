@@ -1,0 +1,20 @@
+{
+  "title": "SCP-6630",
+  "content": "[[include :scp-jp:info:start]]\n⚠️ **コンテンツ警告:** この記事には、**経済的・心理的虐待**及び**自殺の暗示**の描写が含まれます。\n[[include :scp-jp:info:end]]\n[[include :scp-wiki:component:info-cw]]\n\n[[module ListPages  category=\"fragment\" parent=\".\" limit=\"1\" order=\"created_at\" offset=\"@URL|0\"]]\n%%content%%\n[[/module]]\n\n[!-- https://scp-jp.wikidot.com/fragment:scp-6630-1 --]\n[!-- https://scp-jp.wikidot.com/fragment:scp-6630-2 --]",
+  "tags": [
+    "departmentcon2022",
+    "en",
+    "keter",
+    "scp",
+    "捕食",
+    "火急鎮静部門",
+    "炎",
+    "破壊不可能"
+  ],
+  "author": "FattyAcid",
+  "created_at": "2022-12-02T08:43:15+00:00",
+  "updated_at": "2023-09-18T14:14:09+00:00",
+  "rating": 65,
+  "_site": "scp-jp",
+  "_fullname": "scp-6630"
+}

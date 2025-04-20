@@ -1,0 +1,20 @@
+{
+  "title": "SCP-3020",
+  "content": "[[>]]\n[[module Rate]]\n[[/>]]\n\n[[module ListPages category=\"fragment\" parent=\".\" limit=\"1\" order=\"created_at\" offset=\"@URL|0\"]]\n%%content%%\n[[/module]]\n\n[!--\nHey future translators (and my future self)! Use these links to get to the source pages if you need them copied. Translators, do them in the order posted below, or there will be confusion.\n\nhttp://scp-wiki.net/fragment:3000ihppage1/noredirect/true\nhttp://scp-wiki.net/fragment:3000ihppage2/noredirect/true\nhttp://scp-wiki.net/fragment:3000ihppage3/noredirect/true\nhttp://scp-wiki.net/fragment:3000ihp4/noredirect/true\nhttp://scp-wiki.net/fragment:3000ihppage5/noredirect/true\nhttp://scp-wiki.net/fragment:3000ihppage6/noredirect/true\n\n(訳注)\n日本版は:\nhttp://ja.scp-wiki.net/fragment:3000ihppage1/noredirect/true\nhttp://ja.scp-wiki.net/fragment:3000ihppage2/noredirect/true\nhttp://ja.scp-wiki.net/fragment:3000ihppage3/noredirect/true\nhttp://ja.scp-wiki.net/fragment:3000ihp4/noredirect/true\nhttp://ja.scp-wiki.net/fragment:3000ihppage5/noredirect/true\nhttp://ja.scp-wiki.net/fragment:3000ihppage6/noredirect/true\n--]",
+  "tags": [
+    "3000",
+    "en",
+    "keter",
+    "scp",
+    "ウイルス",
+    "メタ",
+    "微視的",
+    "神経"
+  ],
+  "author": "ddfx",
+  "created_at": "2017-09-09T14:57:47+00:00",
+  "updated_at": "2021-08-29T16:23:56+00:00",
+  "rating": 110,
+  "_site": "scp-jp",
+  "_fullname": "scp-3020"
+}

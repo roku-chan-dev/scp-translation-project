@@ -1,0 +1,21 @@
+{
+  "title": "D. Partment gets a job at \"WAffle House\"",
+  "content": "[[include :scp-wiki:theme:black-highlighter-theme]]\n[[include :scp-wiki:component:bhl-dark-sidebar]]\n[[include :scp-wiki:component:centered-header-bhl]]\n[[include :scp-wiki:component:toggle-sidebar-bhl]]\n[[include :scp-wiki:component:acs-animation]]\n[[include :scp-wiki:component:fade-in speed=4]]\n\n\n[[include component:ratio-bar base=-- |ex=--]]\n[[>]]\n[[include :scp-wiki:info:start]]\n**D. Partment gets a job at \"WAffle House\"**\nMade by IronShears\n[[include component:ratio-bar pie=--]]\n[[include :scp-wiki:info:end]]\n[[/>]]\n\n[[HTML]]\n<iframe src=\"https://ironshears.github.io/DPartment/\" style=\"width: 100%; aspect-ratio: 16/9;\"></iframe>\n\n[[/HTML]]\n\n\n\n[[include :scp-wiki:component:license-box]]\n=====\n> **Filename:** Aftermath.mp3 and Carefree.mp3\n> **Name:** Aftermath and Carefree\n> **Author:** Kevin Macleod\n> **License:** CC BY 3.0\n> **Source Link:** https://incompetech.com/music/royalty-free/music.html\n\n> **Filename:** wAffle House.jpg\n> **Name:** Wafflehouse\n> **Author:** Kiddo27\n> **License:** CC BY 4.0\n> **Source Link:** https://commons.wikimedia.org/wiki/File:Waffle_House_in_Oklahoma_2.jpg\n\n> **Name:** D. Partment's smiley face\n> **Author:** PlaguePJP\n> **License:** CC-BY-SA 3.0\n> **Source Link:** https://scp-wiki.wdfiles.com/local--files/scp-8592/department.png\n\n> **Filename:** Party noise maker_soundstack.wav\n> **Author:** soundstack\n> **License:** CC0\n> **Source Link:** freesound.org/people/soundstack/sounds/203246/\n\n> **Filename:** 007 - Squish 13.wav\n> **Author:** TrashcanStudios\n> **License:** CC-BY-SA 3.0\n> **Source Link:** freesound.org/people/TrashcanStudios/sounds/660825/\n\n> **Name:** Ren'py\n> **Author:** Open Source\n> **License:** MIT license\n> **Source Link:** https://www.renpy.org/why.html\n\n> **Source Link:** freesound.org/people/TrashcanStudios/sounds/660825/\n> **Name:** Everything else\n> **Author:** IronShears\n> **License:** CC-BY-SA 3.0\n> **Source Link:** This page\n\n=====\n[[include :scp-wiki:component:license-box-end]]",
+  "tags": [
+    "_cc",
+    "_licensebox",
+    "absurdism",
+    "art-exchange",
+    "bureaucracy",
+    "comedy",
+    "illustrated",
+    "interactive",
+    "tale"
+  ],
+  "author": "IronShears",
+  "created_at": "2025-01-07T21:15:25+00:00",
+  "updated_at": "2025-03-06T20:40:06+00:00",
+  "rating": 19,
+  "_site": "scp-wiki",
+  "_fullname": "d-partment-gets-a-job-at-waffle-house"
+}

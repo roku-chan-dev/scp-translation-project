@@ -1,0 +1,14 @@
+{
+  "title": "최후의 개척지 테마",
+  "content": "[[div style=\"display: none;\"]]\n[[include :scpko:theme:shattered-thoughts]]\n[[/div]]\n\n[[module CSS]]\n@import url(https://scpko.wdfiles.com/local--code/theme%3Alast-frontier/1);\n[[/module]]\n\n[[iftags +테마]]\n\n[[>]]\n[[module rate]]\n[[/>]]\n\n[[include component:author-label-source start=--\n|name=Vivarium]]\n[[=]]\n거기 이봐! 내가 만든 다른 것들도 한번 읽어 보든가... 말든가!\n내가 무슨 갑도 아니고, 너 하고 싶은대로 해!\n\n**[[[vivarium-s-word-hole|비바리움의 작품 더 보기]]]**\n[[/=]]\n[[include component:author-label-source end=--]]\n@@ @@\n@@ @@\n@@ @@\n+++ [[*user Yossipossi]]의 [[[theme:shattered-thoughts|]]]를 [[*user Vivarium]]이 [[[into-the-void-hub|『공허 속으로』 연작]]] 용도로 개조함.\n@@ @@\n+++ 이 테마를 사용하려면 문서 안 아무 곳에 다음 코드를 붙여넣으시오.\n@@ @@\n@@ @@\n@@ @@\n++ [[span style=\"padding: 1px; margin-left: 10px;\"]]{{@@[[include :scpko:theme:last-frontier]]@@}}[[/span]]\n@@ @@\n@@ @@\n@@ @@\n+++ 이하, 테마 페이지에 따라오는 지겨운 거.\n\n@@ @@\n@@ @@\n@@ @@\n\n[[include component:image-block name=https://scp-wiki.wdfiles.com/local--files/theme%3Alast-frontier/Binary_Star_Loop_Blink.gif|caption=쟤 가는 것 좀 봐!]]\n\n+ 제목 1단계\n\n++ 제목 2단계\n\n+++ 제목 3단계\n\n++++ 제목 4단계\n\n+++++ 제목 5단계\n\n++++++ 제목 6단계\n\n능히 있음으로써 쓸쓸한 얼마나 거선의 사람은 아니한 것이다. 생명을 남는 우리는 봄바람이다. 예가 인도하겠다는 청춘을 있으랴? 장식하는 것은 인간의 끝까지 [[[into-the-void-hub |공허 속으로]]] 방황하였으며, 이것은 공자는 간에 천자만홍이 예가 없으면 것이다. 불러 소담스러운 못할 대고, 이상의 피는 두기 것이다. 이상은 앞이 속에서 황금시대를 약동하다. 기쁘며, 구하기 천하를 몸이 그들의 살 오직 뿐이다. 없으면, 때까지 사랑의 할지라도 평화스러운 사는가 끓는다. 예가 너의 속에서 기쁘며, 얼마나 보배를 무한한 곳으로 봄바람이다.\n\n[[collapsible show=\"접기 가능!\" hide=\"~ 접힌 거 숨기기 ~\"]]\n\n[[/collapsible]]\n\n\n\n> 인용문!\n> \n>> 이중 인용문!\n>> \n>>> 신이시여 맙소사 삼중 인용문이라니!\n>>> \n>>>> 죽... 여... 줘!\n@@ @@\n[[tabview]]\n[[tab 찬 탭]]\n\n낱말\n\n[[/tab]]\n[[tab 빈 탭]]\n\n[[/tab]]\n[[tab 긴 탭]]\n낱말 너무 많아\n\n낱말 너무 많아\n\n낱말 너무 많아\n\n낱말 너무 많아\n\n낱말 너무 많아\n\n낱말 너무 많아\n\n낱말 너무 많아\n\n낱말 너무 많아\n\n낱말 너무 많아\n\n낱말 너무 많아\n\n[[/tab]]\n[[tab 탭 안에 물건]]\n\n+ 탭 안에 제목\n\n+++ 탭 안에 제목이지만 좀 작음\n\n텍스트 — [[[into-the-void-hub|링크]]]\n\n----\n\n> 인용문 1단계\n>> (인용문 2단계)\n\n[[/tab]]\n[[/tabview]]\n@@ @@\n||~ 표 ||~ 어  ||\n|| 떻 || 게 ||\n|||| 이럴 수가?! ||\n@@ @@\n\n\n\n@@ @@\n@@ @@\n\n\n\n[[code type=\"css\"]]\n@import url(https://scp-wiki.wdfiles.com/local--code/theme%3Alast-frontier/1);\n\n/*\n    Last Frontier Theme\n    [2021 Wikidot Theme]\n    Created by Vivarium\n    Based on Shattered Thoughts Theme created by Yossipossi.\n*/\n\n \n/* -=- HEADER -=- */\n \n#header h1 a::before {\n    content: \"SCP 재단\";\n}\n \n#header h2::before {\n    content: \"확보 - 격리 - 보호\";\n}\n\n\ntextarea {\n   font-family: monospace;\n}\n[[/code]]\n\n\n\n[[/iftags]]",
+  "tags": [
+    "en",
+    "테마"
+  ],
+  "author": "Salamander724",
+  "created_at": "2021-08-19T15:47:44+00:00",
+  "updated_at": "2022-06-04T04:11:08+00:00",
+  "rating": 2,
+  "_site": "scpko",
+  "_fullname": "theme:last-frontier"
+}

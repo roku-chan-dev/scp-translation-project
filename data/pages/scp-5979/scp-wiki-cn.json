@@ -1,0 +1,19 @@
+{
+  "title": "SCP-5979",
+  "content": "[[include :scp-wiki-cn:component:black-highlighter-theme-dev]]\n[[include component:image-block\n    name=http://scp-wiki.wdfiles.com/local--files/scp-5979/planet|\n    caption=SCP-5979，由空间部队3捕获\n    |align=center\n]]\n**项目编号：**SCP-5979\n\n**项目等级：**Keter\n\n**特殊收容措施：**针对任何相关SCP-5979已发表科学发现的禁止措施均已实施，并将持续生效，直至SCP-5979能够由肉眼观察到。任何来自SCP-5979的无线电通信都必须被视为来自当地阴谋论者与可疑来源的骗局而不予置理。可见宇宙的直播也必须通过审查直至SCP-5979进入太阳系。\n\n鉴于SCP-5979的巨大规模和质量，对项目的收容不可能实现。SCP-5979必须一直处于基金会观察之下，以防其速度和位置出现任何进一步的变化。\n\n**描述：**SCP-5979是对一个体积约为地球体积1200倍的天体的命名。SCP-5979目前以252,792km/h的速度行进，正位于与地球发生直接碰撞的方向。SCP-5979的轨迹会定期调整至与地球运行轨道直接对应。目前，尚无已知方法阻止SCP-5979的轨迹。\n\nSCP-5979能够通过无线电波进行通信，已由德语翻译完毕（请参阅##red|通讯##）。与SCP-5979建立双向通信的尝试已证明无效，由于SCP-5979不能或不愿响应输出的信息。\n\n[[collapsible show=\"+ 通讯\" hide=\"- 关闭\"]]\n以下通讯由Site-57的深空通信设备接收，并已从德语翻译至中文。\n\n> **日期：**January 3, 2045\n> **时间：**02:35\n> 我不再收到你的消息了。一切都好吗？恒星因为你而排成一线了，还是你在你恒星的辐射下生病了呢？你在看我看着的同一颗星星吗？希望如此。在每一个流逝的周期里我越来越想念你。拜托，我只是想知道你还好吗。\n\n> **日期：**January 16, 2045\n> **时间：**12:35\n> 你还记得在银河系的那次吗？现在看肯定是数十亿年前的事了。自从和你在一起后我再没有过同样的感觉。你呢？你太重要了，太忙了，所以无暇去回忆，我敢肯定。但它们会永远和我在一起。\n\n> **日期：**February 9, 2045\n> **时间：**16:45\n> 很抱歉我离开了你。你告诉我你不介意，但我比你更了解你。希望你能原谅我，我的星光。没有其他行星像你一样适合我的轨道。我就不该听土星的。\n\n> **日期：**February 14, 2046\n> **时间：**1:21\n> 自从我们上次谈话已经太久了， 甚至从我让你在我的轨道上起，时间还要更长。我怀念我们过去说话的方式。我想念你如何影响我的潮汐、我的引力，甚至飘拂过我表面的微风。我怀念恒星们让你的大气发光的方式。你一点儿也不想我吗？\n\n> **日期：**August 9, 2047\n> **时间：**16:00\n> 我离开了我的星系。我很快就能到。我爱你，很抱歉我之前没有表现得足够好。请原谅我。\n\n[[/collapsible]]\n\n[[collapsible show=\"+ 更新\" hide=\"- 关闭文件\"]]\n以下传输被I.S.S.[[footnote]][[span class=\"ruby\"]]国际空间站[[span class=\"rt\"]]The International Space Station[[/span]][[/span]][[/footnote]]拦截得到。\n\n> **日期：**August 10, 2047\n> **时间：**00:00\n> 我也爱过你，但你有过你的机会。我现在有一个月亮了，该放手了。\n\n这条信息并非来自地球上任何已知的发射器，且并未发现任何传输记录被记录下来。SCP-5979的运动从此完全停止，其在银河系中的位置至此保持不变。\n\n[[/collapsible]]\n\n[[footnoteblock]]\n[[div class=\"footer-wikiwalk-nav\"]]\n[[=]]\n<< [[[SCP-5978]]] | SCP-5979 | [[[SCP-5980]]] >>\n[[/=]]\n[[/div]]\n\n[[include :scp-wiki-cn:component:license-box\n|author=Marceline_Raynes\n]]\n=====\n> **文件名：**planet\n> **图像名：**Solar Textures\n> **图像作者：**[[*user Marceline_Raynes]], Solar System Scope\n> **授权协议：**CC BY 4.0\n> **来源链接：**[http://scp-wiki.wikidot.com/scp-5979 SCP基金会维基]\n> **衍生自：**[https://www.solarsystemscope.com/textures/ Solar System Scope]\n=====\n[[include :scp-wiki-cn:component:license-box-end]]",
+  "tags": [
+    "keter",
+    "scp",
+    "星球",
+    "星际",
+    "智能",
+    "自主",
+    "通讯"
+  ],
+  "author": "Just_We",
+  "created_at": "2020-07-16T15:17:15+00:00",
+  "updated_at": "2023-04-09T03:18:29+00:00",
+  "rating": 15,
+  "_site": "scp-wiki-cn",
+  "_fullname": "scp-5979"
+}

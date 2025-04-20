@@ -1,0 +1,13 @@
+{
+  "title": "6988-1",
+  "content": "[[module CSS]]\n.email-example .collapsible-block-folded a.collapsible-block-link {\n    animation: blink 0.8s ease-in-out infinite alternate;\n}\n@keyframes blink {\n    0% { color: transparent; }\n    50%, 100% { color: #b01; }\n}\n.email {border: solid 2px #000000; width: 88%; padding: 1px 15px; margin: 10px; box-shadow: 0 1px 3px rgba(0,0,0,.5)}\n.email-example a.collapsible-block-link {font-weight: bold;}\n.tofrom {margin-left: 10px; margin-top: 5px; padding: 1px 15px; border-left: solid 3px maroon}\n[[/module]]\n\n[[div class=\"email-example\"]]\n[[=]]\n------\n[[collapsible show=\"Access SCiPNET Email? One (1) new message!\" hide=\"Close SCiPNET Email? No (0) new messages.\"]]\n[[<]]\n[[div class=\"email\"]]\n[[div class=\"tofrom\"]]\n**To:** Mattias Reeds\n**From:** Joseph Santiago\n**Subject:** Re: I need some help finding a file\n[[/div]]\n------\nHey Matt,\n\nSo I did a bit of digging, I think I've found what you were looking for.\n\nI'll warn you now, [https://scp-wiki.wikidot.com/scp-6988/offset/1 you may not like what you see.]\n[[/div]]\n@@ @@\n\n[[/<]]\n[[/collapsible]]\n[[/=]]\n[[/div]]",
+  "tags": [
+    "fragment"
+  ],
+  "author": "JakdragonX",
+  "created_at": "2021-09-10T17:46:48+00:00",
+  "updated_at": "2021-09-10T17:58:45+00:00",
+  "rating": 0,
+  "_site": "scp-wiki",
+  "_fullname": "fragment:scp-6988-1"
+}

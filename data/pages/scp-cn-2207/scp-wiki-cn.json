@@ -1,0 +1,19 @@
+{
+  "title": "SCP-CN-2207",
+  "content": "[[>]]\n[[module Rate]]\n[[/>]]\n\n[[module ListPages category=\"fragment\" parent=\".\" limit=\"1\" order=\"created_at\" offset=\"@URL|0\"]]\n%%content%%\n[[/module]]\n\n[[div class=\"footer-wikiwalk-nav\"]]\n[[=]]\n<< [[[SCP-CN-2206]]] | SCP-CN-2207 | [[[SCP-CN-2208]]] >>\n[[/=]]\n[[/div]]\n\n[!-- http://scp-wiki-cn.wikidot.com/fragment:scp-cn-2207-0 --]\n[!-- http://scp-wiki-cn.wikidot.com/fragment:scp-cn-2207-1 --]",
+  "tags": [
+    "2022新人竞赛",
+    "safe",
+    "scp",
+    "原创",
+    "叙述性",
+    "幻觉",
+    "时间影响"
+  ],
+  "author": "Quisqualis",
+  "created_at": "2022-06-24T11:10:07+00:00",
+  "updated_at": "2022-06-24T11:38:58+00:00",
+  "rating": 20,
+  "_site": "scp-wiki-cn",
+  "_fullname": "scp-cn-2207"
+}

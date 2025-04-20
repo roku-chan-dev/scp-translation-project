@@ -1,0 +1,21 @@
+{
+  "title": "This is no coincidence, but there's nothing you can do",
+  "content": "[[module ThemePreviewer noUi=\"true\" theme_url=\"https://scp-wiki.wdfiles.com/local--code/component%3Atheme/1\"]]\n\n[[include :scp-wiki-cn:theme:darkcode]]\n[[module css]]\n:root {\n  --title: \"SCP Foundation\";\n  --subtitle: \"Secure · Contain · Protect\";\n  --sidesubtitle: \"Secure · Contain · Protect\";\n}\n[[/module]]\n\n[[div]]\n[[>]]\n[[module rate]]\n[[/>]]\n[[/div]]\n\n[[=image 1.png]]\n\n[[=image 2.png]]\n\n[[=image 3.png]]\n\n[[=image 4.png]]\n\n[[=image 5.png]]\n\n[[=image 6.png]]\n\n[[=image 7.png]]\n\n[[=image 8.png]]\n\n[[include component:license-box author=Amones, translated by Esperanza_Cai]]\n=====\n> **Name:** 1.png, 2.png, 3.png, 4.png, 5.png, 6.png, 7.png, 8.png\n> **Author:** [[*user amones]]\n> **License:** CC BY-SA 3.0\n=====\n[[include component:license-box-end]]",
+  "tags": [
+    "_cc",
+    "_cn",
+    "_licensebox",
+    "artwork",
+    "comic",
+    "international",
+    "painted",
+    "remixcon2023",
+    "scp-art"
+  ],
+  "author": "Esperanza_Cai",
+  "created_at": "2023-08-24T13:39:22+00:00",
+  "updated_at": "2024-03-28T11:25:07+00:00",
+  "rating": 81,
+  "_site": "scp-wiki",
+  "_fullname": "art:c2hlaxnozxjl"
+}

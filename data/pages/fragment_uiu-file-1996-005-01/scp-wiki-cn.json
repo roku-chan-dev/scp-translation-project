@@ -1,0 +1,13 @@
+{
+  "title": "UIU档案：1996-005【新版式】",
+  "content": "[[=image http://scp-wiki.wdfiles.com/local--files/theme%3Auiu-bhl-theme/UIU_Logo.png width=\"40%\"]]\n@@@@\n@@@@\n@@@@\n\n[[div style=\"display:none\"]]\n[[[uiu-file-1996-005]]]\n[[/div]]\n\n\n\n[[include :scp-wiki-cn:theme:black-highlighter-theme]]\n[[include :scp-wiki-cn:theme:uiu-bhl-theme]]\n\n\n[[module CSS]]\n\n\n\n\n/* 非bhl版式\n@import url(http://scp-wiki-cn.wikidot.com/component:uitheme/code/1);\n@import url(http://scp-wiki-cn.wikidot.com/component:spirit-theme/code/1);\n\n.yui-navset .yui-nav, .yui-navset .yui-navset-top .yui-nav {\n    font-size: 80%;\n}\n\n\n#header h1 a::before {\n    content: \"联邦调查局特异事故处\";\n}\n\n#header h2 span::before {\n    content: '忠诚，勇敢，正直';\n}\n\ntable.wiki-content-table th {\n    background-color: #D9D9D9;\n}\n*/\n[[/module]]",
+  "tags": [
+    "段落"
+  ],
+  "author": "Etinjat",
+  "created_at": "2019-04-27T16:53:14+00:00",
+  "updated_at": "2020-06-10T02:32:30+00:00",
+  "rating": 0,
+  "_site": "scp-wiki-cn",
+  "_fullname": "fragment:uiu-file-1996-005-01"
+}

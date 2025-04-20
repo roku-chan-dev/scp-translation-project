@@ -1,0 +1,20 @@
+{
+  "title": "SCP-3020",
+  "content": "[[include :scpko:info:start]]\n**SCP-3020:** 우울증(Depression)\n**저자:** [[*user ihp]]\n**역자:** [[*user Cubic72]]\n**원문:** https://scp-wiki.wikidot.com/scp-3020\n[[include :scpko:info:end]]\n\n[[module ListPages category=\"fragment\" parent=\".\" limit=\"1\" order=\"created_at\" offset=\"@URL|0\"]]\n%%content%%\n[[/module]]\n\n[!--\nHey future translators (and my future self)! Use these links to get to the source pages if you need them copied. Translators, do them in the order posted below, or there will be confusion.\n\nhttp://scpko.wikidot.com/fragment:scp-3020-1\nhttp://scpko.wikidot.com/fragment:scp-3020-2\nhttp://scpko.wikidot.com/fragment:scp-3020-3\nhttp://scpko.wikidot.com/fragment:scp-3020-4\nhttp://scpko.wikidot.com/fragment:scp-3020-5\nhttp://scpko.wikidot.com/fragment:scp-3020-6\n--]\n\n[[footnoteblock]]",
+  "tags": [
+    "3000",
+    "en",
+    "scp",
+    "메타",
+    "미시적",
+    "바이러스",
+    "신경학",
+    "케테르"
+  ],
+  "author": "Cubic72",
+  "created_at": "2024-10-25T16:25:19+00:00",
+  "updated_at": "2024-10-25T16:27:56+00:00",
+  "rating": 6,
+  "_site": "scpko",
+  "_fullname": "scp-3020"
+}

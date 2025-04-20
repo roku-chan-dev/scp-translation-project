@@ -1,0 +1,21 @@
+{
+  "title": "SCP-8777",
+  "content": "=====\n[[include component:preview\ntext=\nThere are no mountains anymore, only piles of rock.\nThere are no flowers anymore, only plant reproductive organs.\nThere is no Moon anymore, only a rock in space, reflecting light.\n]]\n=====\n[!--\nhttps://scp-wiki.wikidot.com/fragment:scp-8777-0\nhttps://scp-wiki.wikidot.com/fragment:scp-8777-1\nhttps://scp-wiki.wikidot.com/fragment:scp-8777-2\nhttps://scp-wiki.wikidot.com/fragment:scp-8777-3\n--]\n[[include :scp-wiki:theme:basalt hidetitle=a|darkmode=a]]\n[[>]]\n[[module rate]]\n[[/>]]\n[[module css]]\n:root {\n  --blue: 0, 127, 255;\n  --gold: 222, 184, 65;\n  --header-title: \"SCP FOUNDATION\";\n  --header-subtitle: \"Secure • Contain • Protect\";\n  --black-monochrome: 2, 2, 2;\n}\n.bigbox {\n  display: block;\n  margin-inline:auto;\n  margin-block: 0.5rem;\n  padding-inline: 0.5rem;\n  padding-block: 0.5rem;\n  background-color: rgb(var(--basalt-dark-element-color));\n  color: rgb(var(--black-monochrome));\n  text-align: center;\n  font-weight: 700;\n}\nstrong, header { \n  color: rgb(var(--basalt-dark-element-color))\n}\n.bigbox strong, header{\n  color: rgb(var(--basalt-primary-color))\n}\n[[/module]]\n\n[[=]]\n++ This file has been reclassified Level 4/8777.\n+++++ [[span style=\"color:white\"]]Unauthorized access is forbidden.[[/span]]\n[[/=]]\n\n[[module ListPages category=\"fragment\" parent=\".\" order=\"created_at\" limit=\"1\" offset=\"@URL|0\"]]\n%%content%%\n[[/module]]\n\n[[include :scp-wiki:component:license-box\n|author=humanoid_human]]\n[[include :scp-wiki:component:license-box-end]]\n\n\n[[div class=\"footer-wikiwalk-nav\"]]\n[[=]]\n<< [[[SCP-8776]]] | SCP-8777 | [[[SCP-8778]]] >>\n[[/=]]\n[[/div]]",
+  "tags": [
+    "8000",
+    "_listpages",
+    "concept",
+    "esoteric-class",
+    "k-class-scenario",
+    "mind-affecting",
+    "phenomenon",
+    "scp",
+    "serpents-hand"
+  ],
+  "author": "humanoid_human",
+  "created_at": "2024-02-16T03:29:22+00:00",
+  "updated_at": "2024-03-20T23:18:09+00:00",
+  "rating": 50,
+  "_site": "scp-wiki",
+  "_fullname": "scp-8777"
+}

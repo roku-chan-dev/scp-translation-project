@@ -1,0 +1,13 @@
+{
+  "title": "OCT Round 2",
+  "content": "@@@@\n@@@@\n[[table style=\"margin-right:auto;margin-left:auto;border:0px solid #AAA;\"]]\n[[row]]\n[[cell style=\"border: 1px solid silver; width: 40%; padding: 15px 18px 15px 15px; text-align:center; background:#dbdbdb; color:fff;\"]]\n**[[*user {$auth1}]]**\n[[/cell]]\n[[cell style=\"border: 0px solid silver; width: 10%; padding:25px;\" rowspan=\"4\"]]\n**VS**\n[[/cell]]\n[[cell style=\"border: 1px solid silver; width: 40%; padding: 15px 18px 15px 15px; text-align:center; background:#dbdbdb;\"]]\n**[[*user {$auth2}]]**\n[[/cell]]\n[[/row]]\n[[row]]\n[[cell style=\"border: 1px solid silver; padding: 2px; text-align:center; background:#fff;\"]]\n[[[{$char1a}|{$char1n}]]]\n[[/cell]]\n[[cell style=\"border: 1px solid silver; padding: 2px; text-align:center; background:#fff;\"]]\n[[[{$char2a}|{$char2n}]]]\n[[/cell]]\n[[/row]]\n[[row]]\n[[cell style=\"border: 1px solid silver; padding: 2px; text-align:center; background:#fff; color: #000\"]]\n[[[{$auth1tale1a}|{$auth1tale1n}]]]\n[[/cell]]\n[[cell style=\"border: 1px solid silver; padding: 2px; text-align:center; background:#fff;\"]]\n[[[{$auth2tale1a}|{$auth2tale1n}]]]\n[[/cell]]\n[[/row]]\n[[row]]\n[[cell style=\"border: 1px solid silver; padding: 2px; text-align:center; background:#fff; color: #000\"]]\n[[[{$auth1tale2a}|{$auth1tale2n}]]]\n[[/cell]]\n[[cell style=\"border: 1px solid silver; padding: 2px; text-align:center; background:#fff;\"]]\n[[[{$auth2tale2a}|{$auth2tale2n}]]]\n[[/cell]]\n[[/row]]\n[[/table]]",
+  "tags": [
+    "component"
+  ],
+  "author": "PeppersGhost",
+  "created_at": "2018-09-09T05:59:08+00:00",
+  "updated_at": "2021-03-07T07:04:38+00:00",
+  "rating": 1,
+  "_site": "scp-wiki",
+  "_fullname": "component:oct-r2"
+}

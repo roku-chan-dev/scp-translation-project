@@ -1,0 +1,22 @@
+{
+  "title": "SCP-5817",
+  "content": "[[>]]\n[[module Rate]]\n[[/>]]\n\n[!--\nFragments:\nhttp://scp-wiki.wikidot.com/fragment:scp-5817-0\nhttp://scp-wiki.wikidot.com/fragment:scp-5817-1\nhttp://scp-wiki.wikidot.com/fragment:scp-5817-2\n--]\n\n[[module ListPages category=\"fragment\" parent=\".\" order=\"created_at\" limit=\"1\" offset=\"@URL|0\"]]\n%%content%%\n[[/module]]\n\n[[footnoteblock]]\n\n[[div class=\"footer-wikiwalk-nav\"]]\n[[=]]\n<< [[[SCP-5816]]] | SCP-5817 | [[[SCP-5818]]] >>\n[[/=]]\n[[/div]]",
+  "tags": [
+    "_cc",
+    "_listpages",
+    "keter",
+    "location",
+    "mind-affecting",
+    "online",
+    "political",
+    "scp",
+    "transfiguration",
+    "uncontained"
+  ],
+  "author": "Psychosis12",
+  "created_at": "2020-02-17T15:03:56+00:00",
+  "updated_at": "2024-10-09T19:15:21+00:00",
+  "rating": 41,
+  "_site": "scp-wiki",
+  "_fullname": "scp-5817"
+}

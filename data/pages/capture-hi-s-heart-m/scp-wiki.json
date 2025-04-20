@@ -1,0 +1,19 @@
+{
+  "title": "Capture Hi(s Heart)m",
+  "content": "[[include :scp-wiki:component:pride-highlighter |inc-clgbt= --]]]\n[[include :scp-wiki:theme:black-highlighter-theme]]\n[[include :scp-wiki:info:start]]\n\n//“ Capture Hi(s Heart)m”// by: [[*user Mew-ltiverse]]\n@@ @@\n[http://scp-wiki.wikidot.com/dr-mews-personnel-file Read more of my stuff]\n\nPlease tell me if something is broken with this lol\n\n[[include :scp-wiki:info:end]]\n\n[[module ListPages category=\"fragment\" parent=\".\" order=\"created_at\" limit=\"1\" offset=\"@URL\"]]\n%%content%%\n[[/module]]\n\n[!-- https://scp-wiki.wikidot.com/fragment:chh-1 --]\n[!-- https://scp-wiki.wikidot.com/fragment:chh-2 --]\n[!-- https://scp-wiki.wikidot.com/fragment:chh-3 --]\n[!-- https://scp-wiki.wikidot.com/fragment:chh-4 --]\n[!-- https://scp-wiki.wikidot.com/fragment:chh-5 --]\n[!-- https://scp-wiki.wikidot.com/fragment:chh-6 --]\n[!-- https://scp-wiki.wikidot.com/fragment:chh-7 --]\n[!-- https://scp-wiki.wikidot.com/fragment:chh-8 --]\n\n@@ @@\n**This game/tale was made for RomCon. Thank you to [[*user basirskipreader]] for letting me use Ridar! See their take on the interaction here (not posted yet)!**\n\n[[include :scp-wiki:component:license-box]]\n\nAll of the artwork was done by yours truly. My artwork uses the following image for the background:\n\n> **Filename**: N/A\n> **Author**: David Anstiss/Geograph Project\n> **License**: Attribution-ShareAlike 2.0 Generic (CC BY-SA 2.0)\n> **Source**: https://commons.wikimedia.org/wiki/File:Holmes_Park_Recreational_Ground_-_geograph.org.uk_-_2402261.jpg\n[[include :scp-wiki:component:license-box-end]]",
+  "tags": [
+    "_cc",
+    "_licensebox",
+    "_listpages",
+    "interactive",
+    "romance",
+    "romcon2023-unofficial",
+    "tale"
+  ],
+  "author": "Mew-ltiverse",
+  "created_at": "2023-05-29T20:59:52+00:00",
+  "updated_at": "2024-03-29T15:19:23+00:00",
+  "rating": 17,
+  "_site": "scp-wiki",
+  "_fullname": "capture-hi-s-heart-m"
+}

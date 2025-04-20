@@ -1,0 +1,23 @@
+{
+  "title": "SCP-2154",
+  "content": "[[>]]\n[[module Rate]]\n[[/>]]\n\n[[include component:image-block name=teleskop.jpg |caption=Dr Spencer working with SCP-2154| width=250px]]\n\n**Item #:** SCP-2154\n\n**Object Class:** Safe\n\n**Special Containment Procedures:** SCP-2154 is to be contained in the observatory situated in the secured area DN-633, with access granted to Level 3/2154 and 4/2154 personnel.\n\n**Description:** SCP-2154 is an optical telescope situated in an observatory near [REDACTED], Canada. Closer examination of its components reveals their manufacturing technology is consistent with those used in analogous projects during the 1940s. Information about the elements allowing the anomalous characteristics [DATA EXPUNGED].\n\nUsing SCP-2154, it appears to be possible to observe celestial bodies in a state coinciding with the time of observation. This eliminates the limit factor of the speed of light which in ordinary circumstances leads to a substantial delay in receiving the visual information from remote parts of space. At the moment, the data received from SCP-2154 is undergoing active examination and is being compared to modern scientific models.\n\n**__Attention clearance 4/2154 personnel: The fact that you are able to see this text verifies your security clearance and access to the documentation below.**__\n\nThe data received from SCP-2154 significantly differs from the modern scientific concept of space. Specifically, 72% of all cataloged astronomical objects are not present in observations made through SCP-2154. Two hypotheses can be made based on this:\n\n[[include component:image-block name=fotokosmosa.jpg link=\"https://scp-wiki.wdfiles.com/local--files/scp-2154/fotokosmosa.jpg\" |caption=Star cluster in Monoceros constellation: first shot taken with ████ telescope, second - with SCP-2154]]\n\n1. For some reason the number of stars has decreased substantially while their light traveled to Earth.\n\n2. There is opaque matter that obstructs the view of a considerable number of space objects.\n\nRegardless of which hypothesis is correct, the data received from SCP-2154 demands significant reconsideration of modern astrophysical concepts. \n\n__**Addendum 2154-1:**__ ██/██/██ Dr Spencer discovered that the degree of star visibility in galaxies M59, M60 and M89 in Virgo constellation is fluctuating. Based on this, he concluded that in these areas, there is a cloud of matter (hereinafter SCP-2154-A) which absorbs light, making direct observation impossible. SCP-2154-A is in constant motion and its surface has expanded by █% since first observation. Later, SCP-2154-A was detected in other areas of space. The analysis of the phenomenon's dynamics, as well as projections of stellar object movement has shown that the influence of this matter on their visibility does not completely explain the deviation between the real and hypothesized quantity. Thus both hypotheses have been proven correct, specifically, that a fraction of the stars is concealed by an unknown matter and another fraction has indeed disappeared. The correlation between these two factors, as well as the actual size of SCP-2154-A, is currently being approximated. \n\nConsidering that in recent years, the phenomenon has already appeared in galaxies within 3.6 megaparsecs of Earth[[footnote]]NGC 4458, NGC 4461 in the Virgo Cluster[[/footnote]], Dr Spencer has proposed reclassifying SCP-2154-A as a separate Keter-class object.\n\n[[footnoteblock]]\n\n[[div class=\"footer-wikiwalk-nav\"]]\n[[=]]\n<< [[[SCP-2153]]] | SCP-2154 | [[[SCP-2155]]] >>\n[[/=]]\n[[/div]]\n\n[[include :scp-wiki:component:license-box]]\n=====\n> **Filename:** teleskop.jpg\n> **Author:** Blackbird5154\n> **License:** CC BY-SA 3.0\n> **Source Link:** [[[https://scp-wiki.wikidot.com/scp-2154|SCP Wiki]]]\n\n> **Filename:** fotokosmosa.jpg\n> **Author:** Blackbird5154\n> **License:** CC BY-SA 3.0\n> **Source Link:** [[[https://scp-wiki.wikidot.com/scp-2154|SCP Wiki]]]\n> **Derivative of:**\n> ------\n> **Name:** NGC 2215 DSS.jpg\n> **Author:** Donald pelletier\n> **License:** CC BY-SA 4.0\n> **Source Link:** [[[https://commons.wikimedia.org/wiki/File:NGC_2215_DSS.jpg?uselang=fr|Wikimedia]]]\n=====\n[[include :scp-wiki:component:license-box-end]]",
+  "tags": [
+    "_cc",
+    "_licensebox",
+    "building",
+    "extraterrestrial",
+    "light",
+    "safe",
+    "sc2015",
+    "scp",
+    "temporal",
+    "tool",
+    "visual"
+  ],
+  "author": "Blackbird5154",
+  "created_at": "2015-07-25T09:22:29+00:00",
+  "updated_at": "2024-01-10T05:00:00+00:00",
+  "rating": 198,
+  "_site": "scp-wiki",
+  "_fullname": "scp-2154"
+}

@@ -1,0 +1,13 @@
+{
+  "title": "Classified Decoration",
+  "content": "[[iftags +component]]\n[[note]]\n**Author:**\n[[*user 7happy7]]\n----\n**Special Thanks to Advice:**\n[[*user boyu12]]\n----\n**How To Use**\nhttp://www.scp-wiki.net/scp-style-resource#toc5\n[[/note]]\n[[/iftags]]\n[[include :scp-wiki:component:classified-decoration-base\n|lv={$lv}\n|item={$item}\n|oc={$oc}\n|lang{$lang}=false\n|lang={$lang}\n|lang=false\n|trans-level={$trans-level}\n|trans-level=false\n|trans-classified={$trans-classified}\n|trans-classified=false\n]]",
+  "tags": [
+    "component"
+  ],
+  "author": "7happy7",
+  "created_at": "2018-09-09T04:28:28+00:00",
+  "updated_at": "2021-03-07T07:18:54+00:00",
+  "rating": 16,
+  "_site": "scp-wiki",
+  "_fullname": "component:classified-decoration"
+}

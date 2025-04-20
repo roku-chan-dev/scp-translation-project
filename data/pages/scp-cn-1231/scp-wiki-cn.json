@@ -1,0 +1,17 @@
+{
+  "title": "SCP-CN-1231",
+  "content": "[[>]]\n[[module Rate]]\n[[/>]]\n\n[[module ListPages  category=\"fragment\" parent=\".\" limit=\"1\" order=\"name\" creat_by=\"white-ice\" offset=\"@URL|0\"]]\n%%content%%\n[[/module]]\n\n\n[!-- http://scp-wiki-cn.wikidot.com/fragment:scp-cn-1231-01 --]\n[!-- http://scp-wiki-cn.wikidot.com/fragment:scp-cn-1231-02 --]\n\n[[footnoteblock]]\n\n[[div class=\"footer-wikiwalk-nav\"]]\n[[=]]\n<< [[[SCP-CN-1230]]] | SCP-CN-1231 | [[[SCP-CN-1232]]] >>\n[[/=]]\n[[/div]]",
+  "tags": [
+    "euclid",
+    "scp",
+    "原创",
+    "活物",
+    "生物危害"
+  ],
+  "author": "White Ice",
+  "created_at": "2019-05-12T08:34:07+00:00",
+  "updated_at": "2019-09-23T03:03:32+00:00",
+  "rating": 38,
+  "_site": "scp-wiki-cn",
+  "_fullname": "scp-cn-1231"
+}

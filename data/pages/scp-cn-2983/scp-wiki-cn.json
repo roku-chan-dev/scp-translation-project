@@ -1,0 +1,19 @@
+{
+  "title": "SCP-CN-2983",
+  "content": "[[>]]\n[[module Rate]]\n[[/>]]\n\n[[module ListPages category=\"fragment\" parent=\".\" limit=\"1\" order=\"name\" offset=\"@URL|0\"]]\n%%content%%\n[[/module]]\n\n[[footnoteblock]]\n\n[[div class=\"footer-wikiwalk-nav\"]]\n[[=]]\n<< [[[SCP-CN-2982]]] | SCP-CN-2983 | [[[SCP-CN-2984]]] >>\n[[/=]]\n[[/div]]",
+  "tags": [
+    "euclid",
+    "scp",
+    "动物",
+    "原创",
+    "基金会制",
+    "昆虫",
+    "记忆影响"
+  ],
+  "author": "Ikaite",
+  "created_at": "2021-05-14T11:30:38+00:00",
+  "updated_at": "2021-05-14T11:31:30+00:00",
+  "rating": 93,
+  "_site": "scp-wiki-cn",
+  "_fullname": "scp-cn-2983"
+}

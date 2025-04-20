@@ -1,0 +1,11 @@
+{
+  "title": "log-of-anomalous-items-cn:_template",
+  "content": "[[module ThemePreviewer noUi=\"true\"]]\n\n[[div class=\"iframe-only\" style=\"display:none\"]]\n[[>]]\n[[module Rate]]\n[[/>]]\n[[/div]]\n\n[[div class=\"page-only\"]]\n%%form_raw{content}%%\n[[/div]]\n\n[[module css]]\n.row-0 {\n    display: none;\n}\n[[/module]]\n\n====\n\n[[form]]\nfields:\n  content:\n    type: wiki\n    height: 10\n    default: \"**项目描述：**\\n**回收日期：**20██/██/██\\n**回收地点：**\\n**当前状态：**\\n**笔记：**\"\n[[/form]]",
+  "tags": [],
+  "author": "Sekai_s",
+  "created_at": "2020-03-31T15:40:04+00:00",
+  "updated_at": "2020-03-31T15:40:04+00:00",
+  "rating": 0,
+  "_site": "scp-wiki-cn",
+  "_fullname": "log-of-anomalous-items-cn:_template"
+}

@@ -1,0 +1,20 @@
+{
+  "title": "SKETCHES MADE BY O5-4 (\"THE ANNALIST\") DURING HIS VISIT TO SCP-7600",
+  "content": "[[include :scp-wiki:theme:black-highlighter-theme]]\n[[include :scp-wiki:theme:penumbra-bhl]]\n[[include :scp-wiki:component:fade-in speed=1]]\n[[include :scp-wiki:component:acs-animation]]\n\n[[module CSS]]\n:root {\n    --logo-image: url(\"https://scp-wiki.wdfiles.com/local--files/from-120-s-archives-hub/pride120.png\");\n    --header-title: \"Site-120\";\n    --header-subtitle: \"Fighting Fire With Fire\";\n--cutColour: #fafafa;\n--barColour: #590505;\n--timeScale: 1;\n--timeDelay: 1s;\n--accentColor: 160, 44, 44;\n--dark-gray-monochrome: 55, 55, 55;\n--black-monochrome: 26, 26, 26;\n}\n[[/module]]\n\n[[module CSS]]\n.dblock:hover {background: #f4f4f4}\n[[/module]]\n\n[[include :scp-wiki:component:info-ayers\n|lang=en\n|page=component:info-ayers\n|comments=This was made during Art-Exchange for Ralliston. It's art of his very cool city of Druv'tuul, that appears in SCP-7600.\n]]\n\n[[>]]\n[[module rate]]\n[[/>]]\n\nIn 1960, O5-4 descended to [[[scp-7600 |SCP-7600]]], known by its inhabitants as \"Druv'tuul\". In preparation for the possible interference that the city's ambient EVE radiation could have on cameras, he brought a series of small notebooks. In these, he sketched the many remarkable things he saw during his eventful visit. These are fragments of some of the pages in those notebooks: \n\n@@ @@\n\nSketches made during his visit to the mining operations in the 1st Ring of SCP-7600:\n\n[[image Escaneig%201st%20ring%20copia.jpg]]\n\n@@ @@\n\nSketches made during his visit to the farms in the 2nd Ring of SCP-7600:\n\n[[image Escaneig%202nd%20ring%20COPIA.jpg]]\n\n@@ @@\n\nSketches made while examining the communications infrastructure of SCP-7600:\n\n[[image Escaneig%20comunicacions%20copia.jpg]]\n\n@@ @@\n\nSketches made during his visit to the factories in the 4th Ring of SCP-7600:\n\n[[image Escaneig%204th%20ring%20copia.jpg]]\n\n@@ @@\n\nSketches made during his visit to the Royal Palace in the 5th Ring of SCP-7600:\n\n[[image Escaneig%205th%20ring%20copia.jpg]]",
+  "tags": [
+    "_cc",
+    "art-exchange",
+    "artwork",
+    "children-of-the-night",
+    "from-120s-archives",
+    "hadfield-twins",
+    "scp-art",
+    "sketched"
+  ],
+  "author": "Diogene_s",
+  "created_at": "2023-12-29T19:30:00+00:00",
+  "updated_at": "2024-06-18T18:52:15+00:00",
+  "rating": 56,
+  "_site": "scp-wiki",
+  "_fullname": "art:sketches-made-by-o5-4-the-annalist-during-his-visit-to-s"
+}

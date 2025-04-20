@@ -1,0 +1,13 @@
+{
+  "title": "Void Post Backend",
+  "content": "[!-- CSS is located at the bottom. --]\n\n[[div class=\"void dark\"]]\n[[span class=\"void-img\"]]\n[[image {$profile-pic} style=\"width: 60px\"]]\n[[/span]]\n@@ @@\n[[span style=\"color: hsl(0, 0%, 46%); font-size: 1.35rem\" class=\"vusermod\"]]{$username}[[/span]]\n[[span style=\"color: hsl(0, 0%, 46%); font-size: 1.35rem\" class=\"vui\"]]⁂{$handle}[[/span]]\n@@ @@\n[[span style=\"font-size: 1.2rem\"]]{$void-msg}[[/span]]\n~~~~\n* [[span style=\"color: hsl(0, 0%, 46%); font-size: .8rem\" class=\"vui\"]]ECHOES@@ @@[[/span]][[span class=\"vactivity\" style=\"font-size: 1.1rem; font-weight: bold\"]]{$echoes}[[/span]]\n* [[span style=\"color: hsl(0, 0%, 46%); font-size: .8rem\" class=\"vui\"]]HUMS@@ @@[[/span]][[span class=\"vactivity\" style=\"font-size: 1.1rem; font-weight: bold\"]]{$hums}[[/span]]\n~~~~\n[[span style=\"color: hsl(0, 0%, 46%); font-size: .8rem\" class=\"vui\"]]{$time-and-date}[[/span]]\n[[/div]]\n\n[[module CSS]]\n/* == OUTER CSS == */\n div.void {\n\twidth: 23rem;\n\tmargin: 1rem auto;\n\tpadding: 0 .8rem;\n\n\tcolor: hsl(0, 0%, 5%);\n\tbackground: hsl(0, 0%, 100%);\n\tborder: 1px solid lightgray;\n\tbox-shadow: 3px 3px 0 1px hsla(0, 0%, 0%, .15);\n}\n\n @media (max-width: 767px) {\n\t div.void {\n\t\twidth: auto;\n\t}\n}\n\n/* == INNER CSS == */\n div.void span {\n\tword-break: unset;\n}\n\n .vusermod {\n\tfont-weight: bold;\n}\n\n div.void ul {\n\tlist-style-type: \"ₒ৹๐ \";\n}\n\n/* == AVATAR == */\n .void-img {\n\tfloat: left;\n\tmargin: 1rem 0 0 .4rem;\n\tpadding: 0 1rem;\n}\n\n/* == VOID TRENDS == */\n .vactivity {\n\tcolor: blue;\n\tcursor: pointer;\n}\n\n .vactivity span {\n\tword-break: unset;\n}\n\n .vactivity:hover,\n .vactivity:focus {\n\ttext-decoration: underline;\n}\n[[/module]]",
+  "tags": [
+    "component-backend"
+  ],
+  "author": "Lt Flops",
+  "created_at": "2020-04-07T00:38:54+00:00",
+  "updated_at": "2023-09-18T04:06:51+00:00",
+  "rating": 7,
+  "_site": "scp-wiki",
+  "_fullname": "component:void-post-source"
+}

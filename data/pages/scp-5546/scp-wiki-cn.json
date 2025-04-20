@@ -1,0 +1,19 @@
+{
+  "title": "SCP-5546",
+  "content": "[[include :scp-wiki:theme:magnus-web-format]]\n\n@@@@\n[[div class=\"addenda-header\"]]\n++ **项目编号：** SCP-5546\n\n++ **项目等级：** Safe\n[[/div]]\n[[div class=\"addenda-header\"]]\n++++ **__特殊收容措施__**\nSCP-5546将被收容在Site-52中的43号安全存储单元内。127个SCP-5546-1实例以及Dalmez Torpe总统的遗体将一并被保存在4号废物存储单元中。\n\n在确定相关组织的过程中，外部事务科的一名联络人将留在特马利亚，调查该国的政治团体是否与神秘主义活动有联系。\n[[/div]]\n[[div class=\"addenda-header\"]]\n++++ **__描述__**\nSCP-5546是一个高1.8米的金属柜子，来源不明，内部共有127名特马利亚民族主义党成员的尸体。这些尸体（编号为SCP-5546-1）被通过未知手段压缩至近似标准邮政信封的大小及外形。实例被保存在一种高效且未知的有机化合物中。每个SCP-5546-1实例上都有一个在10年内被宣布失踪或死亡的特马利亚反民族主义政治团体成员的署名。除了它的突然出现与内容物，SCP-5546没有展现出更多的异常特性。\n[[/div]]\n[[div class=\"addenda-header\"]]\n++++ **__发现__**\n[[include component:image-block\n    name=https://scp-wiki.wdfiles.com/local--files/scp-5546/box.jpg|\n    caption=SCP-5546。|\n    width=140px\n]]\n2021年1月14日，SCP-5546在特马利亚民族主义党主席兼总统的Dalmez Torpe上方约12米处显现，当时他正从巴莫酒店离开。SCP-5546静止了几秒钟，随后加速冲向Torpe总统。相撞时，SCP-5546的速度约为400公里/小时；Torpe总统在撞击中当场死亡。\n\n一周前，Dalmez Torpe和他的政党成功地颠覆了一次公平、合法的选举，如果不加以操纵，这次选举会导致他失去部分政治权力并失去总统职位。SCP-5546-1实例的消失和损毁，以及SCP-5546的显现，被认为是对这些行动的直接回应，尽管SCP-5546的责任方和/或创造者仍然未知。介于特马利亚民族主义党成员的缺席和联合国的协助，新的民主选举将于2021/02/10举行，之前被颠覆的政党在2021/03/01成功过渡了权力。\n\n过渡期间，基金会成功地植入了一个错误信息，将特马利亚民族主义党成员的失踪归咎于联合国正在调查的党内冲突。在给基金会的一份个人声明中，新当选的总统Farra Meller对SCP-5546作了如下陈述：\n\n“//人民长期以来一直抵制我的前任所宣传的激进意识形态，这些奇怪的事件是打造团结之路的必要行动。我们没有轻视它们，也不可能再参与它们。我们被这些可怕的人所击倒的同志们终于有了一个宣泄不满的地方，我们现在将保证他们的牺牲没有白费。//”\n\n基金会已经与新政府建立了直接沟通。目前，一项财务协议和在该国境内开发一个收容设施的计划正在进行中。由于该关系的有益性质，基金会认为没有必要继续调查产生SCP-5546的直接原因。为了适应特玛利亚不断变化的政治氛围和政府，外部事务科将继续与该国其余的政治活动建立可行的联系。\n[[/div]]\n@@ @@\n[[footnoteblock]]\n[[div class=\"footer-wikiwalk-nav\"]]\n[[=]]\n<< [[[SCP-5545]]] | SCP-5546 | [[[SCP-5547]]] >>\n[[/=]]\n[[/div]]\n\n[[include :scp-wiki-cn:component:license-box\n| author = DrAkimoto\n]]\n=====\n> **文件名：**box.jpg\n> **图像作者：**watchsmart\n> **授权协议：**CC BY 2.0\n> **资源链接：** https://search.creativecommons.org/photos/577fbc95-1cf5-4bf7-93b3-0fff5ea3446d\n=====\n[[include :scp-wiki-cn:component:license-box-end]]",
+  "tags": [
+    "2021连写竞赛",
+    "_腐败",
+    "safe",
+    "scp",
+    "人造物品",
+    "尸体",
+    "生物性"
+  ],
+  "author": "Skywalkerjoke",
+  "created_at": "2023-04-05T13:27:34+00:00",
+  "updated_at": "2024-04-24T16:36:25+00:00",
+  "rating": 1,
+  "_site": "scp-wiki-cn",
+  "_fullname": "scp-5546"
+}

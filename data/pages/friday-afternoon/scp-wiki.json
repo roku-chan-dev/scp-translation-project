@@ -1,0 +1,23 @@
+{
+  "title": "All Alone on a Friday Afternoon",
+  "content": "[[include :scp-wiki:theme:black-highlighter-theme]]\n\n[[>]]\n[[module Rate]]\n[[/>]]\n\n\n\n\n\n[[module ListPages  category=\"fragment\" parent=\".\" limit=\"1\" order=\"created_at\" offset=\"@URL|0\"]]\n%%content%%\n[[/module]]\n\n\n\n[!-- https://http//scp-wiki.wikidot.com/fragment:friday-afternoon-0 --]\n[!-- https://http//scp-wiki.wikidot.com/fragment:friday-afternoon-1 --]\n[!-- https://http//scp-wiki.wikidot.com/fragment:friday-afternoon-2 --]\n[!-- https://http//scp-wiki.wikidot.com/fragment:friday-afternoon-3 --]",
+  "tags": [
+    "_listpages",
+    "agent-adams",
+    "alexei-belitrov",
+    "cain",
+    "co-authored",
+    "comedy",
+    "iris-thompson",
+    "last-hope",
+    "resurrection",
+    "slice-of-life",
+    "tale"
+  ],
+  "author": "GlassAutomaton",
+  "created_at": "2023-05-11T15:57:24+00:00",
+  "updated_at": "2024-04-27T13:57:48+00:00",
+  "rating": 38,
+  "_site": "scp-wiki",
+  "_fullname": "friday-afternoon"
+}

@@ -1,0 +1,15 @@
+{
+  "title": "奇妙で不恰好な生き物に見上げられて、上位存在が言ったことには──",
+  "content": "[[include :scp-jp:theme:monotypical]]\n\n[[module css]]\n:root {\n    --linkColor: #27bb96;\n\n    --primaryBackgroundColor: #121617;\n    --secondaryBackgroundColor: #0B0D0C;\n    --tertiaryBackgroundColor: #193034;\n    --borderColor: #2a3b41;\n    --selectionColor: #0D929F;\n    --textColor: #f4f4f4;\n}\n\n[[/module]]\n\n[[include credit:start]]\n**タイトル:** 奇妙で不恰好な生き物に見上げられて、上位存在が言ったことには──\n**著者:** ©︎[[*user estrellayoshte]]\n**翻訳:** [[*user SCPopepape]]\n**原記事:** [[[https://scp-wiki.wikidot.com/art:world-without-man|The superior being looked upon the odd, misshapen creature and said—]]]\n**参照リビジョン：** 8\n**作成年:** 2023\n[[include credit:end]]\n\n[[div class=\"meta-title\"]]\n奇妙で不恰好な生き物に見上げられて、上位存在が言ったことには──\n[[/div]]\n\n[[image http://scp-jp-storage.wdfiles.com/local--files/file:8207850-37-8kbg/lI4f2R6.jpg]]\n\n= 「にゃあ。」",
+  "tags": [
+    "en",
+    "アートワーク",
+    "半身猫のジョーシー"
+  ],
+  "author": "SCPopepape",
+  "created_at": "2023-08-04T10:57:29+00:00",
+  "updated_at": "2024-11-14T14:53:29+00:00",
+  "rating": 20,
+  "_site": "scp-jp",
+  "_fullname": "art:world-without-man"
+}

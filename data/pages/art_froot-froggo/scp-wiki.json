@@ -1,0 +1,17 @@
+{
+  "title": "froot froggo :)",
+  "content": "[[include :scp-wiki:theme:black-highlighter-theme]]\n[[include :scp-wiki:component:bhl-dark-sidebar]]\n[[include :scp-wiki:component:centered-header-bhl]]\n[[include :scp-wiki:component:collapsible-sidebar]]\n\n[[=]]\n[[module Rate]]\n[[/=]]\n\n= **[https://scp-wiki.wikidot.com/scp-5133 Link to original article.]**\n\n[[=image https://scp-wiki.wikidot.com/local--files/art:froot-froggo/frootfroggo.jpg width=\"500px\"]]\n~~~~\n@@ @@\n\n@@ @@\n[[include component:wikimodule |ratings= --]]]\n\n[[=]]\n[[include :scp-wiki:component:license-box\n|author=winkwonkboi]]\n=====\n> **Filename:** frootfroggo\n> **Author:** [[*user winkwonkboi]]\n> **License:** CC-BY-SA 3.0\n> **Source Link:** SCP Foundation\n=====\n[[include :scp-wiki:component:license-box-end]]\n[[/=]]",
+  "tags": [
+    "_cc",
+    "_licensebox",
+    "artwork",
+    "cel-shaded",
+    "scp-art"
+  ],
+  "author": "winkwonkboi",
+  "created_at": "2022-07-22T10:35:26+00:00",
+  "updated_at": "2024-03-28T18:03:41+00:00",
+  "rating": 42,
+  "_site": "scp-wiki",
+  "_fullname": "art:froot-froggo"
+}

@@ -1,0 +1,23 @@
+{
+  "title": "SCP-1009-KO",
+  "content": "[[include :scpko:info:start]]\n**SCP-1009-KO** - 미래 국어 문제집 커닝하기 (너무 미래임), [[*user TimidChild]]작\n----\n이 글은 [[[readingbook-hub|책 좀 읽읍시다! 이벤트]]] 투고작이자 [http://scpko.wikidot.com/forum/t-16456643/2023 2023년 한국어 위키 작품교환]에서 [[*user dododom]]님을 위해 쓴 선물입니다. 국어사개설 부분을 쓰면서 공공저작물인 https://encykorea.aks.ac.kr/Article/E0006389의 내용을 일부 참고했습니다.\n\n[[include component:wikimodule |ratings= --]]]\n[[include :scpko:info:end]]\n\n[[include :scpko:theme:navla-style preset=3]]\n[[include :scpko:component:acs-animation]]\n[[module CSS]]\n.expunged {\ncolor: #000;\nbackground: #000;\npadding: 0 1px 0 1px;\ntransition: all 1.5s;\n}\n\n.expunged:hover {\nbackground: rgba(0,0,0,0.1);\ncolor: #000;\ntransition: all 1.5s;\n}\n[[/module]]\n[[include :scpko:component:anomaly-class-bar-source\n|item-number= 1009-KO\n|clearance= 2\n|container-class= 안전\n|secondary-class= N/A\n|disruption-class= 플람\n|risk-class= 주목\n]]\n\n**특수 격리 절차:** SCP-1009-KO는 안전 등급 소형 격리실에 보관하며, 훼손되지 않도록 주의하여 취급한다. 전문 국어학자, 언어학자, 미래학자를 고용해 SCP-1009-KO의 내용을 분석한다. 현재 SCP-1009-KO가 예지하는 미래를 바꿀 수 있는 방법을 모색 중이다.\n\n**설명:** SCP-1009-KO는 국어사개설(國語史槪說)[[footnote]]국어학자 이기문이 1961년에 집필한 개론서로서, 국어의 상세한 역사를 다룬다.[[/footnote]] 책의 변칙적 사본 20여 권이다. 대상은 20██년 요주의 단체 셀레스트[[footnote]] 변칙적 서비스 및 제품을 제공하는 대한민국의 교육사업체[[/footnote]]의 지점 중 하나를 급습해 압수 수색을 할 때 발견했으며, 이후 각 물체의 변칙성을 조사하는 과정에서 SCP-1009-KO에 시간 변칙성을 탐지해 SCP 항목으로 지정했다.\n\nSCP-1009-KO는 국어사개설의 일반 판본과 구성 면에서 많은 차이를 보인다. 예시로는 책 초반의 우랄-알타이어족 관련 내용이 삭제되었으며, 고대·중세국어 내용은 소폭 축소된 반면 근대·현대국어 관련 서술은 증가했다. 또한, 책 중간마다 예제나 기출문제 등이 삽입되는 등 전반적으로 문제집이나 개념서와 유사한 형태로 변경되었다. 문체는 원본과 유사하나, 정황상 원 저자 본인이 SCP-1009-KO를 저술했을 가능성은 없다. 같히 발견된 띠지에는 \"셀레스트 공인! 국어 문법의 모든 것: 고대국어에서 후기미래국어까지\"라는 문장과 \"국어 상담이 필요하다면 010-1███-████으로 전화하세요\"라고 적혔다. 해당 번호로 전화를 거는 것은 실패했는데, 셀레스트 측에서 재단이 SCP-1009-KO를 압수한 것을 알아채고 대응한 것으로 보인다.\n\nSCP-1900-KO의 내용 중 가장 중요한 점은 중세국어, 근대국어, 현대국어에 이어서 미래 국어를 다루는 장이 다수 존재한다는 것이다. 제04K기지 시간변칙부의 탐구 결과, 관측한 미래에서 언어 측면을 확인했을 때 SCP-1900-KO의 내용은 항상 참이었다.\n\n또한, SCP-1009-KO의 책 페이지 수와 내용은 일정하지 않은 주기로 확장된다. 지금까지 쓰인 연대 이후의 내용이 추가되는 경우도 있으며, 이전 내용 설명이 보충되는 경우도 있다. 현재 SCP-1009-KO는 26세기까지의 미래까지를 다룬다. 또한, 상당히 드물게 일어나는 현상이지만 이미 적힌 SCP-1009-KO의 내용이 수정되는 경우도 있다. 이러한 경우 예언성 변칙개체로 미래를 예지하면 SCP-1009-KO의 새 내용대로 미래가 개변된 것을 관측할 수 있다. 역으로, 시간선 간섭",
+  "tags": [
+    "ko",
+    "scp",
+    "문서",
+    "미래",
+    "셀레스트",
+    "안전",
+    "언어",
+    "예측성",
+    "자율",
+    "작품교환",
+    "지식"
+  ],
+  "author": "TimidChild",
+  "created_at": "2023-12-29T07:07:40+00:00",
+  "updated_at": "2025-01-02T09:05:46+00:00",
+  "rating": 28,
+  "_site": "scpko",
+  "_fullname": "scp-1009-ko"
+}

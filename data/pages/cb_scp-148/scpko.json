@@ -1,0 +1,13 @@
+{
+  "title": "SCP-148",
+  "content": "원문: http://scpcb.gamepedia.com/SCP-148\n\n[[table class=\"infobox\"]]\n[[row]]\n[[hcell class=\"infobox2\" colspan=\"2\" style=\"margin:0; font-size:120%; padding: 0.5em;\nline-height: 1.75em;\"]]\nSCP-148\n[[div style=\"float:right; padding-bottom:.15em; padding-right:.15em;\" class=\"scp-list\"]]\n[[a href=\"/cb:list-of-scps\" title=\"SCP 목록\"]][[image https://gamepedia.cursecdn.com/scpcb_gamepedia/thumb/9/9d/Portal.png/20px-Portal.png alt=\"Portal.png\" width=\"20\" height=\"20\"]][[/a]]\n[[/div]]\n[[/hcell]]\n[[/row]]\n[[row]]\n[[cell colspan=\"2\" style=\"padding:0.5em; text-align:center;\"]] [[image https://gamepedia.cursecdn.com/scpcb_gamepedia/thumb/2/20/SCP-148.png/270px-SCP-148.png alt=\"https://gamepedia.cursecdn.com/scpcb_gamepedia/thumb/2/20/SCP-148.png/270px-SCP-148.png\" style=\"width:270px; height:auto;\"]] [[/cell]]\n[[/row]]\n[[row]]\n[[hcell class=\"infobox2\" colspan=\"2\"]] 정보 [[/hcell]]\n[[/row]]\n[[row]]\n[[cell style=\"width:30%;\"]] **등급**[[/cell]]\n[[cell style=\"width:70%;\"]] 유클리드 [[/cell]]\n[[/row]]\n[[row]]\n[[cell style=\"width:30%;\"]] **움직이는가?**[[/cell]]\n[[cell style=\"width:70%;\"]] 아니오 [[/cell]]\n[[/row]]\n[[row]]\n[[cell]] **위험한가?** [[/cell]]\n[[cell]] 아니오 [[/cell]]\n[[/row]]\n[[row]]\n[[cell]] **SCP 링크** [[/cell]]\n[[cell]] [[a href=\"/scp-148\" title=\"SCP-148\"]]SCP-148[[/a]] [[/cell]]\n[[/row]]\n[[/table]]\n\n**SCP-148**은 **\"텔레킬\" 합금**이라 언급되는 것으로 //SCP - Containment Breach// 게임 안에서 찾을 수 있는 유용한 SCP 개체이다.\n\n[[toc]]\n\n++ 설명\n\nSCP-148은 알 수 없는 물질로 구성된 것으로 알려진 금속 물질이다. 대상은 생명체의 정신 감응 능력을 막거나 방해하는 특성을 보였다. 이 능력을 측정하기는 대단히 어려우나, 대략 SCP-148의 표면으로부터의 거리에 반비례하는 것으로 보이며, SCP-148의 양에 따라 강도가 달라졌다. 이 특성이 유효한 거리는 SCP-148 1kg당 0.8m 정도이다.\n\n++ 게임 등장\n\n[[include cb:template:video\n|youtube=SCsQnw_jRtY\n|caption=v0.9. 버전에서 SCP-148 사용 시범.\n]]\n\nSCP-035의 격리실 안에서 금속 패널의 모습을 한 SCP-148의 일부를 찾을 수 있다. SCP-914를 “매우 굵음” 또는 “굵음”으로 설정하여 대상을 넣으면, 주괴가 된다. [[[cb:SCP-914|SCP-914]]]를 “고움” 또는 “매우 고움”으로 설정하여 대상을 [[[cb:items#toc1|가스마스크]]]나 [[[cb:items#toc13|방호복]]]을 같이 넣으면 각각 무겁게 변형되어 나온다. 이 변형은 [[[cb:012|SCP-012]]]의 영향에 면역이 생기게 해준다. [[[cb:items#toc14|변형된 방호복]]]은 [[[cb:scp-035|SCP-035]]]의 격리실 안에 있는 어떤 것이든 그것에 대한 면역이 생긴다. \n\n~~~~\n\n++ 갤러리\n\n[[include cb:template:gallery |image=https://gamepedia.cursecdn.com/scpcb_gamepedia/8/82/INVmetalpanel.jpg |caption=플레이어의 인벤토리에서 볼 수 있는 패널 형태의 SCP-148.]]\n[[include cb:template:gallery |image=https://gamepedia.cursecdn.com/scpcb_gamepedia/2/22/INVscp148.jpg |caption=플레이어의 인벤토리에서 볼 수 있는 주괴 형태의 SCP-148.]]",
+  "tags": [
+    "cb"
+  ],
+  "author": "goddls",
+  "created_at": "2014-02-21T06:49:01+00:00",
+  "updated_at": "2020-01-04T11:18:36+00:00",
+  "rating": 0,
+  "_site": "scpko",
+  "_fullname": "cb:scp-148"
+}

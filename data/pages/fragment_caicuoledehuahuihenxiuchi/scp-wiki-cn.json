@@ -1,0 +1,13 @@
+{
+  "title": "回复邮件",
+  "content": "[[module css]]\nbody, div#container-wrap {\n  background-image: none;\n}\n#header, #side-bar, .page-tags, #page-options-container, #footer, #license-area {\n  display: none !important;\n}\n#page-title {\n  display: none;\n}\n[[/module]]\n[[module Comments]]",
+  "tags": [
+    "段落"
+  ],
+  "author": "Tenth Lee",
+  "created_at": "2020-05-10T11:49:08+00:00",
+  "updated_at": "2020-05-10T14:21:58+00:00",
+  "rating": 0,
+  "_site": "scp-wiki-cn",
+  "_fullname": "fragment:caicuoledehuahuihenxiuchi"
+}

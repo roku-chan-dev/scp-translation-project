@@ -1,0 +1,26 @@
+{
+  "title": "SCP-8060",
+  "content": "=====\n[[include :scp-wiki:component:preview\ntext=你们很擅长披上我们的形象。为什么我们不能反过来披上你们的形象？\n\n要我说是有点双重标准。\n]]\n=====\n\n\n[[module CSS]]\ndiv#header h1 a span {\n    font-size: 0px;\n}\ndiv#header h1 a:before {\n    content: \"Site-433\";\n    color: #eee;\n    \n}\ndiv#header h2 span {\n    font-size:0px;\n    padding: 4px;\n}\ndiv#header h2:after {\n    content: \"异术与异常媒体\";\n    font-weight: bold;\n    color: #f0f0c0;\n    padding: 19px 0;\n    text-shadow: 1px 1px 1px rgba(0, 0, 0, .8);\n    white-space: pre;\n}\n\n#header {\n  background-image: url(http://scp-sandbox-3.wdfiles.com/local--files/harry-blank-7/433.png)\n}\n[[/module]]\n\n[[include :scp-wiki-cn:credit:start-standalone]]\n⚠️ **内容警告：**文中包含**身体恐怖**、**非现实**、**血腥**、**自残内容**和**易使眼睛疲劳的图片**。\n\n本文不适合年轻读者阅读。\n[[include :scp-wiki-cn:credit:end-standalone]]\n\n[[include :scp-wiki-cn:component:info-cw]]\n\n[[module ListPages category=\"fragment\" parent=\".\" order=\"name\" limit=\"1\" offset=\"@URL|0\"]]\n%%content%%\n[[/module]]\n\n[!-- https://scp-wiki-cn.wikidot.com/fragment:8000contestratkingmonkeysky-a --]\n[!-- https://scp-wiki-cn.wikidot.com/fragment:8000contestratkingmonkeysky-b --]\n[!-- https://scp-wiki-cn.wikidot.com/fragment:8000contestratkingmonkeysky-c --]\n[!-- https://scp-wiki-cn.wikidot.com/fragment:8000contestratkingmonkeysky-d --]",
+  "tags": [
+    "8000",
+    "keter",
+    "meta",
+    "scp",
+    "信息危害",
+    "变形",
+    "合著",
+    "如同梦幻",
+    "媒体",
+    "幻觉",
+    "精神影响",
+    "艺术性",
+    "视频",
+    "超维度"
+  ],
+  "author": "Grignard_reagent",
+  "created_at": "2024-09-04T17:04:09+00:00",
+  "updated_at": "2024-09-04T17:06:19+00:00",
+  "rating": 9,
+  "_site": "scp-wiki-cn",
+  "_fullname": "scp-8060"
+}

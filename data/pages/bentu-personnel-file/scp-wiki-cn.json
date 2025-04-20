@@ -1,0 +1,13 @@
+{
+  "title": "Bentu的人事页",
+  "content": "我是Bentu。我经常写些东西。下面有一些我的作品：\n\nLinville Arc\n\n> [[[SCP-3025]]]：清楚（羽毛）\n> [[[SCP-3058]]]：凹陷（镜子）\n> [[[SCP-3066]]]：荒谬（木屋）\n> [[[SCP-3076]]]：欲望（渡鸦）\n\n\n[[[SCP-3098]]]：琐碎（触须）\n[[[SCP-3148]]]：宁静（终结）\n\n一些个人事实：\n我正试着成为一名航天工程师，到目前为止我都很喜欢这份工作。我喜爱登山与骑行。写作之外，我还喜欢画画。我最喜欢的乐队是The Naked and Famous，Logic是很接近的第二名。我几乎一直以来最喜欢的书是《安德的游戏》。一个令人意想不到的事实：尽管我已经加入这个网站一两个月，写了6篇成功的文档，我还是对这里感觉很新鲜。Bentu，永远的新手。我喜欢。\n\n[[include component:image-block\n    name=http://scp-wiki.wikidot.com/local--files/bentu-personnel-file/G0023819.JPG|\n    caption=一张我很自豪的照片。\n]]",
+  "tags": [
+    "作者"
+  ],
+  "author": "Dr Hormress",
+  "created_at": "2020-07-08T10:08:24+00:00",
+  "updated_at": "2020-07-08T10:10:04+00:00",
+  "rating": 0,
+  "_site": "scp-wiki-cn",
+  "_fullname": "bentu-personnel-file"
+}

@@ -1,0 +1,14 @@
+{
+  "title": "00223",
+  "content": "content: \"**説明:** 加熱した際、湯気の代わりに綿飴を発生させる素うどん。発生した綿飴は異常特性を示さない。\\n**回収日:** 20██/██/██\\n**回収場所:** ██県の飲食店。\\n**現状:** サイト-8190で、4人前全てを冷凍保管中。\"\ntf2: '1'\nauthor: kainndo\nredirect-b: '[[module Redirect destination=\"http://ja.scp-wiki.net/log-of-anomalous-items-jp'\nredirect-e: '\"]]'",
+  "tags": [
+    "jp",
+    "剪定対象-子"
+  ],
+  "author": "7happy7",
+  "created_at": "2020-03-14T14:14:37+00:00",
+  "updated_at": "2021-05-24T13:12:09+00:00",
+  "rating": 9,
+  "_site": "scp-jp",
+  "_fullname": "anomalous-jp:00223"
+}

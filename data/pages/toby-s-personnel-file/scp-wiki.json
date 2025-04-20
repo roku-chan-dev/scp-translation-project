@@ -1,0 +1,14 @@
+{
+  "title": "Toby's Personnel File",
+  "content": "[[include component:image-block name=Toby.jpg|caption=Toby in Site-66]]\n**Name:** Toby\n\n**Security Clearance Level:** 0\n\n**Occupation:** Mascot of Site-66\n\n**History:** Toby is a male Central American tapir (//Tapirus bairdii//) specimen of age 5. He was found in front of the office of Head Researcher ████████. The identity of the person who delivered the package is yet to be revealed, since all security cameras not located in containment areas were undergoing maintenance during his arrival.\n\nInternal Memo:\n \n> From: head_res_s66\n> To: s66_staff_lvl1_list\n> Date: Apr 1, 20██\n> Subject: I just got a tapir\n> \n> //When I arrived to my office this morning, I noticed that someone dropped a cage with a tapir right in front of the door. To clarify, when I requested mammals for a series of experiments with SCP-████, I had lab rats and apes in mind. Seriously, who ordered the tapir? Where did you even order one?//\n> \n> //Dr.// ████████\n\nDue to popular request from Site-66 staff, Head Researcher ████████ rescinded the termination order, and awarded the title of the Site Mascot to the tapir (who was given the name Toby by Assistant Researcher ██████). An unused room next to the cafeteria was converted to accommodate him. All staff members are allowed to visit Toby during breaks or after work hours.\n\n**Incident Report:**\n\n> On ██/██/████, Head Researcher ████████ entered Toby's containment area, carrying a folder containing several classified documents. Toby bit into the folder and snatched it from Head Researcher ████████'s hand, consuming its contents afterwards. Following the incident, Toby was reprimanded for accessing documents above his Clearance Level without prior authorization. The documents involved in the incident are listed below:\n>\n> * [[[SCP-2184]]] - Stone Age\n> * [[[SCP-2092]]] - Space Riddle\n> * [[[Game Manual]]] - A [http://www.scp-wiki.net/reimagining-contest reimagination] document\n> * [[[Funfiction]]] - A parody tale\n> * [[[The Playful Beast]]] - A tale about [[[SCP-2301]]]\n> * [[[How Site-19 Blew Up]]] - A workplace safety video\n> * [[[Too Insane To Fail]]] - A prequel to [[[stealingsolidarityhub | Stealing Solidarity]]]\n\n[[=]]\n[[collapsible show=\"+ Statistics\" hide=\"- Look at all these upvotes\"]]\n[[module ListPages created_by=\"TobiasTheTapir\" separate=\"no\" tags=\"tale, scp\" order=\"created_at\" prependLine=\"||~ Title ||~ Rating ||~ Comments ||~ Created ||~ Last Comment ||\"]]\n|| %%title_linked%% || %%rating%% || %%comments%% || %%created_at%% || %%commented_at%% ||\n[[/module]]\n[[/collapsible]]\n[[/=]]",
+  "tags": [
+    "_cc",
+    "author"
+  ],
+  "author": "TobiasTheTapir",
+  "created_at": "2015-03-03T13:30:09+00:00",
+  "updated_at": "2019-04-10T21:33:06+00:00",
+  "rating": 32,
+  "_site": "scp-wiki",
+  "_fullname": "toby-s-personnel-file"
+}

@@ -1,0 +1,22 @@
+{
+  "title": "SCP-527",
+  "content": "[[include :scp-wiki-cn:component:info-ayers\n|page=scp-527[!-- url of your page on the scp wiki --]\n|authorPage=djkaktus[!-- link to your author page --]\n|comments=N/A\n]]\n[[module CSS]]\nsup {\nvertical-align: top; position: relative; top: -0.5em;\n}\n:root{\n--cutColour: #fafafa;\n--barColour: #590505;\n}\n.translation_block{\ndisplay:none;}\n\n.info-container .collapsible-block-folded a{\ncolor: #FFF;}\n.info-container .collapsible-block-unfolded-link a{\ncolor: #FFF;}\n\n.info-container .collapsible-block-link,\n.info-container:hover .collapsible-block-link {\nline-height: 1.6em;\n}\n[[/module]]\n@@@@\n@@@@\n\n[[include :scp-wiki-cn:component:anomaly-class-bar-source\n|lang= tr\n|item-number= 527\n|clearance= 1\n|container-class= euclid\n|secondary-class= none\n|disruption-class= vlam\n|risk-class= 待觀察\n]]\n\n-----\n\n[[include component:image-block name=http://scp-wiki.wdfiles.com/local--files/scp-527/fish.png|caption=SCP-527。]]\n\n**特殊收容措施：**SCP-527 需保存於 Site-19 的標準人形生物住所中。不需要其他收容措施。\n\n**描述：**SCP-527 是一個男性人形生物，高 1.67 米，在生物上沒有異常，除了其頭部為 //Puntius semifasciolatus//，即條紋二須䰾。\n\nSCP-527 沒有表現出其他異常特性。SCP-527 的頭部活動與任何非異常人類的頭部相同。SCP-527 能使用普通的人類語言。SCP-527 的左腳腳底上紋有字句「[[span class=\"ruby\"]]魚先生[[span class=\"rt\"]]Mr. Fish[[/span]][[/span]]，Wondertainment 博士出品的小小先生®」。\n\n**發現：**SCP-527 於 2002 年在波士頓被基金會特工發現，其後在 2004 年移至 Site-19。\n\n**附錄 527.1：**首次採訪\n\n[[div style=\"display: inline-block; border-radius: 10px; border:dashed 1px #444444; background:#F5F5F5; float:top; width:96.5%; padding:10px\"]]\n[開始記錄]\n\n**Baker 博士：**感謝你至今的合作，SCP-527。我們利用這次採訪來估計任何我們沒預料到的潛在異常表現。\n\n**SCP-527：**好的。\n\n**Baker 博士：**首先，你能在水中呼吸嗎？\n\n**SCP-527：**不。\n\n**Baker 博士：**你能和其他魚類或海基生命體溝通嗎？\n\n**SCP-527：**不。\n\n**Baker 博士：**知道了。你最初是在什麼時候發現你的狀況？你有沒有可能在不為意下被魚類攻擊或咬傷，或是遇到海神之類的？\n\n**SCP-527：**沒有。\n\n**Baker 博士：**呃…好，那你自出生就是這樣的？\n\n**SCP-527：**對。\n\n**Baker 博士：**我…好吧。你知道任何其他你有可能表現的異常特性嗎？\n\n**SCP-527：**當然不。像我告訴另一個人那樣，就只是這樣。你在看著它。[[span class=\"ruby\"]]謊言[[span class=\"rt\"]]Lie[[/span]][[/span]]、[[span class=\"ruby\"]]條紋[[span class=\"rt\"]]Stripes[[/span]][[/span]]、[[span class=\"ruby\"]]熱[[span class=\"rt\"]]Hot[[/span]][[/span]]、[[span class=\"ruby\"]]甜心[[span class=\"rt\"]]Sweetie[[/span]][[/span]]，他們得到了所有好處。我就只是個長了個魚頭的人。\n\n**Baker 博士：**你…對你的創造者把你塑造成…這樣，有任何頭緒嗎？\n\n**SCP-527：**最好我他媽知道啦。\n\n[結束記錄]\n[[/div]]\n\n**附錄 527.2：**回收到的文件\n\n//注意：當被詢問時，SCP-527 能夠產生以下文件。//\n\n[[collapsible show=\"+ 顯示文件\" hide=\"- 關閉文件\"]]\n> \n> **哗！**你刚刚发现了你自己的小小先生，一个来自 Wondertainment 博士的限量版收藏集！\n> \n> 把他们全部找到，成为收藏家先生！\n> \n> [[[SCP-905|01. 变色龙先生]]]\n> [[[SCP-2287|02. 无头先生]]]\n> [[[scp-1799|03. 欢笑先生]]]\n> [[[SCP-909|04. 健忘先生]]]\n> [[[SCP-3537|05. 形体先生]]]\n> [[[SCP-1908|06. 肥皂先生]]]\n> [[[SCP-913|07. 饥饿先生]]]\n> [[[SCP-629|08. 黄铜先生]]]\n> [[[SCP-644|09. 热先生]]]\n> [[[SCP-2396|10. 甜心小姐]]]\n> [[[SCP-1007|11. 生先生与死先生]]]\n> 12. 鱼先生 ✔\n> [[[SCP-917|13. 月亮先生]]]\n> [[[scp-redd|14. Redd 先生（已停产）]]]\n> [[[SCP-2855|15. 钱先生]]]\n> [[[SCP-920|16. 迷路先生]]]\n> [[[SCP-2284|17.]]] [[span style=\"color:black; background-color: black\"]]謊言先生[[/span]]\n> [[[SCP-2428|18. 疯狂先生]]]\n> [[[SCP-2933|19. 恐怖先生]]]\n> [[[SCP-2148|20. 条纹先生]]]\n[[/collapsible]]\n\n[[footnoteblock]]\n\n[[div class=\"footer-wikiwalk-nav\"]]\n[[=]]\n<< [[[SCP-526]]] | SCP-527 | [[[SCP-528]]] >>\n[[/=]]\n[[/div]]\n[[include :scp-wiki-cn:component:djk]]",
+  "tags": [
+    "euclid",
+    "scp",
+    "wondertainment博士",
+    "人形生物",
+    "动物",
+    "小小先生",
+    "智能",
+    "活物",
+    "鱼先生",
+    "鱼类"
+  ],
+  "author": "Letitia213",
+  "created_at": "2016-02-04T13:33:24+00:00",
+  "updated_at": "2024-05-25T15:18:30+00:00",
+  "rating": 27,
+  "_site": "scp-wiki-cn",
+  "_fullname": "scp-527"
+}

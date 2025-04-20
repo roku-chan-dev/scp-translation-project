@@ -1,0 +1,20 @@
+{
+  "title": "SCP-PL-169",
+  "content": "[[include :scp-jp:theme:black-highlighter-theme]]\n[[include :scp-jp:theme:jakstyle]]\n[[module css]]\n:root{\n  --header-title: \"サイト PL-49\" !important;\n  --header-subtitle: \"低度監督生物学サイト\" !important;\n--lgurl: url('\thttp://scp-jp-storage.wikidot.com/local--files/file:8637139-16-pso7/site-pl-49.png');\n}\n\n[[/module]]\n[[include :scp-jp:component:info-ayers\n|authorPage=https://scp-pl.wikidot.com/userinfo-zygard[!-- link to your author page --]\n|comments=**SCP-PL-169 「恐竜たち」**\n\n**原著者:** Zygard\n\n\n\nケテロヴニャ[ポーランド語支部Discord]上のミーム「日替わりラプトル」が「生きていた」時に書かれたSCiP。\n\n写真は原著者の自作によるものです。\n\nもし脅威レベルとは何かに関心をお持ちになった方は: http://scp-jp.wikidot.com/niveaux-de-menace-des-objets-scp\n]]\n\n[[module CSS]]\n\nsup {\n\nvertical-align: top; position: relative; top: -0.5em;\n\n}\n\n:root{\n\n--cutColour: #fafafa;\n\n--barColour: #191b1c;\n\n}\n\n.translation_block{\n\ndisplay:none;}\n\n\n\n.info-container .collapsible-block-folded a{\n\ncolor: #FFF;}\n\n.info-container .collapsible-block-unfolded-link a{\n\ncolor: #FFF;}\n\n\n\n.info-container .collapsible-block-link,\n\n.info-container:hover .collapsible-block-link {\n\nline-height: 1.6em;\n\n}\n\n[[/module]]\n[[include credit:start]]\n**タイトル:** SCP-PL-169 - 恐竜たち\n**訳者:** ©︎[[*user SOYSOY_Kusagawa]]\n**原題:** SCP-PL-169 - Stadko Dinozaurów\n**著者:** ©︎[[*user Zygard]]\n**作成年（原語版）:** 2018\n[[include credit:end]]\n\n**アイテム番号:** SCP-PL-169\n\n**脅威レベル:** 緑 [[span style=\"color:green\"]]●[[/span]]\n\n**オブジェクトクラス:** Euclid\n\n[[include component:image-block name=http://scp-jp-storage.wikidot.com/local--files/file:8637139-15-2r18/UNMokVVX.jpg|caption=ケージ内のSCP-PL-169-2群の一体の写真]]\n\n**特別収容プロトコル:** SCP-PL-169群は、\nソハチェフ町[[footnote]]訳注：Sochaczew。ポーランド、マゾフシェ県にある町。[[/footnote]]の[[[dokumentacja-bezpiecznej-placowki-osrodek-pl-49|サイト PL-49]]]で収容されています。SCP-PL-169-1、SCP-PL-169-3、SCP-PL-169-4、SCP-PL-169-5、SCP-PL-169-7は、2m×2mのテラリウム[[footnote]]訳注：小型の陸上動物を飼うための容器。[[/footnote]]に収容されています。SCP-PL-169-6は実験のため実験室へ提出されており、SCP-PL-169-2は観察のためにソスナ博士の展示室内のケージ中に存在します。SCP-PL-169-7はオフィスの廊下の水槽に収容されています。\n\n**説明:** SCP-PL-169は恐竜の玩具のコレクションであり、実際の動物のように振舞いますが、食料、水、空気などは必要としていません。X線検査において、玩具の内部から内臓の存在は確認されていません。オブジェクト群のうち、SCP-PL-169-1、SCP-PL-169-2、およびSCP-PL-169-3は人間に対しての敵対心を示しており、残りのオブジェクト群は自身が遊ばれることへの欲求を示しています。\n\nバウトゥフ村[[footnote]]訳注：Bałtów。ポーランド、シフィェンティクシシュ県にある村。現実世界において2004年にジュラシックパークが開園した地でもある（参考: [*https://juraparkbaltow.pl/2019/08/21/15-lat-juraparku/ パーク公式サイト]）。[[/footnote]]の恐竜ランドにて、オブジェクト群は箱に入った状態で発見されました。箱の中のリーフレットは、オブジェクト群がランドに代わってワンダーテインメント博士によって作成されたことを示しました。\n\n以下は、各オブジェクトの特徴です：\n\n|| オブジェクトの識別子 || ステータス || 特徴 ||\n|| SCP-PL-169-1 || 収容中 || スピノサウルス・アエジプティアクス //(Spinosaurus aegyptiacus)// に酷似しています。SCP-PL-169-3への敵対心を示しています。||\n|| SCP-PL-169-2 || 観察中 || ユタラプトル //(Utahraptor ostrommaysi)// に酷似しており、全4匹が存在します。ソスニー博士の観察の下、うち3匹が第1収容室に収容されています。 ||\n|| SCP-PL-169-3 || 収容中 || ティラノサウルス・レックス //(Tyrannosaurus rex)// に酷似しています。SCP-PL-169-1への敵対心を示しています。 ||\n|| SCP-PL-169-4 || 収容中 || プテロダクティルス //(Pterodactylus)// に酷似しており、飛行を可能としています。 ||\n|| SCP-PL-169-5 || 収容中 || パキケファロサウルス //(Pachycephalosaurus)// に酷似しています。 ||\n|| SCP-PL-169-6 || 実験中 || アロサウルス //(Allosaurus)// に酷似しています。 ||\n|| SCP-PL-169-7 || 収容中 || イクチオサウルス //(Ichthyosaurus communis)// に酷似しており、全3匹が存在します。 ||\n\n**補遺:**\n以下は、オブジェクト群が入っていた箱の中にあった、メモの内容です。\n\n> ワンダーテインメント博士の恐竜たちを購入していただきありがとうございます！\n> あなたの子供の部屋は、一気に恐竜ランドへ様変わりするでしょう！あなたは生きた6500万年前の恐竜を見ることができます！あなたの子供はどの恐竜がどのように生きぬくのか、そしてそれらはどのように戦うのかを観察し学ぶことができます！\n> プテロダクティルスで空を飛び、イクチオサウルスで海を泳ぎ、ユタラプトルで獲物を狩る。見て、楽しみ、そして戦おう！\n> [[size smaller]]ワンダーテインメント博士と恐竜ランドは、商品による負傷、死亡、裂傷、咬傷について、一切の責任を負いかねます。我々の商品を購入するにあたって保護者は、抗議、ボイコット、訴訟、そして名誉ある決闘への出場権を放棄することとなります。[[/size]]",
+  "tags": [
+    "euclid",
+    "pl",
+    "scp",
+    "ワンダーテインメント博士",
+    "人工",
+    "玩具",
+    "自律",
+    "要翻訳"
+  ],
+  "author": null,
+  "created_at": "2018-09-08T09:52:53+00:00",
+  "updated_at": "2023-09-23T10:30:06+00:00",
+  "rating": 4,
+  "_site": "scp-jp",
+  "_fullname": "scp-pl-169"
+}

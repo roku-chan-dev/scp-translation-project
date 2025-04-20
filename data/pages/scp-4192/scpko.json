@@ -1,0 +1,20 @@
+{
+  "title": "SCP-4192",
+  "content": "[[include info:start]]\n**SCP-4192:** 위와 같이\n**저자:** [[*user Connor MacWarren]]\n**원작:** http://www.scp-wiki.net/scp-4192 \n**역자:** [[*user Aiken Drum]]\n\n> **파일명:** planet.jpg\n> **명칭:** Earth’s geocorona from the Moon.jpg\n> **저자:** NASA\n> **라이선스:** public domain\n> **출처:** [https://commons.m.wikimedia.org/wiki/File:Earth%E2%80%99s_geocorona_from_the_Moon.jpg Wikimedia Commons]\n[[include info:end]]\n\n[[include component:object-class-bar-source\n|item-num=4192\n|obj-class=안전\n|site-resp=NETHOZ 제98기지\n|director=하비 헨쇼\n|rsch-head=이브 타타코프스키\n|task-force=N/A\n|colorbar-bg-color=rgb(0,0,0)\n|colorbar-bg-img=optional\n|colorbar-one=full\n|colorbar-two=full\n|colorbar-three=full\n|colorbar-four=half\n|colorbar-five=half\n|colorbar-six=none\n|level=3\n|secrecy=보안인가 필요\n]]\n----\n[[include component:image-block name=http://scp-wiki.wdfiles.com/local--files/scp-4192/planet.jpg|caption=SCP-4192.]]\n\n**특수 격리 절차:** SCP-4192는 고가치 안전 등급 변칙개체 품목 보관소 내에 위치한 QED (양자전기역학적) 진공 챔버[[footnote]]내부에 존재하는 모든 에너지의 양자 상태가 가능한 최소 상태, 즉 영점 에너지인 진공 챔버. QED 진공 챔버는 물질 속 소립자를 고립시키고 분리하거나 아원자 수준에서 일어나는 변칙적 현상을 격리할 때 유용하다.[[/footnote]] 내부에 보관한다. SCP-4192를 이용한 실험은 오직 연구 목적이어야 하며 피닉스 박사의 허가가 필요하다.\n\n**설명:** SCP-4192는 임의의 간격으로 전파를 방출하는 단일 수소 원자핵이다. SCP-4192에 대한 광범위한 분석 결과, 대상의 변칙적 성질에도 불구하고, 여타 핵자나 강입자처럼 일반적으로 기능한다. 즉 양전하와 기본전하를 가지며, 중성자보다 작은 질량을 가지고 있다.\n\nSCP-4192의 구성에 대한 연구는 SCP-4192가 쿼크가 아닌 무언가로 완전히 이루어졌기 때문에 결론에 달하지 못하고 있다. SCP-4192에서 발생하는 전파에 대한 분석은 우주배경복사 노이즈의 형태로 15~18 MHz로 기록되었다.\n\n**부록 4192.1: 실험**\n\nSCP-4192의 민감한 특성상, 인공지능 징집병인 골리앗.aic가 기구와 격리를 제어하면서 동시에 SCP-4192에 대한 실험을 수행하기 위해 특별히 제작되었다.\n\n[[collapsible show=\"+ 부록 접근\" hide=\"- 닫기\"]]\n21년 1월 4일, 피닉스 박사의 감독 하에 타타코프스키 박사 지휘로 SCP-4192의 물리적 특성을 확인하기 위한 실험이 실시됐다. 실험 전, SCP-4192과 상호작용하기 위해 피하주사 바늘을 [[[SCP-914]]]로 정제하고 로봇 팔 기관에 부착했다.\n\n실험 도중, 골리앗.aic는 SCP-4192의 원자 오비탈[[footnote]]일상적으로 전자 구름이라고 불리는 원자 오비탈은 원자핵 인근의 영역으로 전자가 특정 순간에 동시에 존재할 수 있는 영역이다. 이 원리는 보통 양자 중첩이나 양자 불확실성과 연관된다.[[/footnote]]에 돌입하자 원자에서 척력이 발생하는 것을 탐지했으며, 서로 반발하는 자석의 척력과 유사하고 보고했다. 이런 현상이 관측됐음에도 불구하고, 골리앗.aic는 실험을 계속 진행하며 바늘을 원자에 더욱 진입하라는 지시를 받았다.\n\n실험은 재단 인공위성으로부터 오메가 1 경보, 즉 극도로 거대한 천체가 행성에 접근하고 있다는 보고가 오며 즉시 중단되었다. 위성 이미지에는 북미 대륙을 향해 낙하하는 관형 금속 막대가 나타나있었으며, 필라델피아주, 현 제98기지의 위치에 충돌할 것으로 예측되었다. 골리앗.aic는 즉시 SCP-4192에서 바늘 장치를 빼내어, 거대한 객체가 위성에 탐지되지 않을 때까지 후퇴하도록 했다.\n\n이에 따라, SCP-4192에 대한 모든 실험은 금지되었다. 현재 SCP-4192 연구 계획은 없다.\n[[/collapsible]]",
+  "tags": [
+    "en",
+    "scp",
+    "미니어처",
+    "미시적",
+    "안전",
+    "전송",
+    "전자기",
+    "촉각"
+  ],
+  "author": "Aiken Drum",
+  "created_at": "2019-11-12T17:15:07+00:00",
+  "updated_at": "2024-11-20T10:45:35+00:00",
+  "rating": 6,
+  "_site": "scpko",
+  "_fullname": "scp-4192"
+}

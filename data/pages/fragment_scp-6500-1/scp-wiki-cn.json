@@ -1,0 +1,13 @@
+{
+  "title": "SCP-6500 段落 1",
+  "content": "[[include :scp-wiki-cn:theme:foxtrot\noverwatch=a|\ndark=a|\nwide=a|\nhidetitle=a]]\n[[include :scp-wiki:component:fade-in speed=1]]\n\n[[module css]]\n@import url('https://fonts.googleapis.com/css2?family=Courgette&display=swap');\n@import url('https://fonts.googleapis.com/css2?family=Ma+Shan+Zheng&display=swap');\n\n:root {\n    --head-font: 'Monserrat', sans-serif;\n}\n\n:is(.fancyborder) {\n  border-radius: 4vb;\n}\n[[/module]]\n\n\n[[html]]\n<audio autoplay>\n  <source src=\"https://scp-wiki.wdfiles.com/local--files/fragment%3Ascp-6500-1/Collapse%20-%20myuu.mp3\" type=\"audio/mp3\">\n</audio>\n[[/html]]\n\n@@ @@\n\n[[=]]\n[[div style=\"background: url(https://scp-wiki.wdfiles.com/local--files/fragment%3Ascp-6500-1/OverwatchBack.svg) bottom center no-repeat; text-align: center; width: 575px; margin: 0 auto; font-size: 20px; padding: 0px;\"]]\n@@ @@\n@@ @@\n@@ @@\n@@ @@\n\n\n++* ##gold|根据监督者的命令##\n##gold|文件已准许全体人员访问。##\n##gold|读者需强迫接受以下圣礼。##\n\n@@ @@\n@@ @@\n@@ @@\n[[/div]]\n@@ @@\n[[div class=\"default-col\"]]\n[[span class=\"round\" style=\"font-size: 150%; background: var(--dark-bg-1); border: 8px solid var(--dark-bg-1); font-family: var(--ui-font);\"]]\n[[collapsible show=\"» 开始仪式 «\" hide=\"« 新世纪之副歌 »\"]]\n[[/span]]\n@@ @@\n[[div class=\"fancyborder\" style=\"background-image: url(https://scp-wiki.wdfiles.com/local--files/scp-5862/paperbackground.jpg); color: var(--dark-bg-1); font-size: 150%; font-weight: bold; font-family: 'courgette', 'Ma Shan Zheng', cursive; font-style: italic; max-width: 700px; margin: auto;\"]]\n\n@@ @@\n我即刀枪，我即盾障\n我即永不屈服的臂膀\n暴雨之中，我从未退让\n坚持之中，我必被传唱\n\n我不会消亡\n\n我即魔杖，我即焰焻\n我即桀骜的真理之棒\n在知识中，我坚信这样\n摘引论据，燃烬必飘荡\n\n我不会消亡\n\n我即匕刃，我即影将\n我即猎人而非捕猎项\n窃窃私语，我践踏其上\n恶名坏名，我散布更广\n\n我不会消亡\n\n我即仪式，我即计量\n我即战胜一切的毅相\n为了荣耀，我坚忍不放\n凭着信念，我逆转潮浪\n\n我不会消亡\n\n我等哨兵，我等高墙\n我等最后倒下的倔强\n通过辛劳，我等得报偿\n通过流血，我等得继往\n\n我们不会消亡\n@@ @@\n\n[[/div]]\n@@ @@\n[[div style=\"font-weight: bold; font-size: 200%;\"]]\n你现在已经受到保护；\n\n[/scp-6500/offset/1 速战速决，继续前进。]\n[[/div]]\n\n[[span]]\n[[/collapsible]]\n[[/span]]\n\n[[/div]]\n[[/=]]\n\n@@ @@\n@@ @@\n@@ @@\n\n[[div_ class=\"fancyhr\"]]\n----\n[[/div]]",
+  "tags": [
+    "段落"
+  ],
+  "author": "hoah2333",
+  "created_at": "2022-05-26T13:19:29+00:00",
+  "updated_at": "2024-05-10T01:10:11+00:00",
+  "rating": 0,
+  "_site": "scp-wiki-cn",
+  "_fullname": "fragment:scp-6500-1"
+}

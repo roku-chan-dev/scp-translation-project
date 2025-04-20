@@ -1,0 +1,23 @@
+{
+  "title": "SCP-CN-814",
+  "content": "[[include :scp-wiki-cn:component:newscptheme]]\n[[module css]]\na {\n    color: #000;\n    background: transparent;\n}\na:link{\n    color: #000;\n    text-decoration: underline;\n}\na:newpage{\n    color: #000;\n}\na:visited{\n    color: #000; \n}\na:hover{\n    color: #fff;\n    text-decoration: underline;\n    background: #000;\n}\n[[/module]]\n[[>]]\n[[module rate]]\n[[/>]]\n\n[[include :scp-wiki-cn:component:info-ayers\n|page=SCP-CN-814[!-- url of your page on the scp wiki --]\n|authorPage=woderenshiye[!-- link to your author page --]\n|comments=**SCP-CN-814：**dado的舞癫狂 \n**作者：**[[*user readeiier]]@@ @@]]\n\n[[include component:object-warning-box-source\n|bg-image=http://www.scp-wiki.net/local--files/component:object-warning-box-source/scp-logo.svg\n|bg-opacity=0.15\n|bg-size=105% 105%\n|text-top=根据监督者议会的命令\n|text-bottom=以下异常为2/CN-814级异常，涉及受关注人士dado的相关信息，访问需要2级及以上权限\n**禁止未授权人员访问**\n|object-number=SCP-CN-814\n]]\n@@@@\n@@@@\n[[include component:object-class-bar-source\n|item-num=CN-814\n|obj-class=euclid\n|site-resp=Area-CN-07\n|director=D-Eitter\n|rsch-head=王八蛋\n|task-force=N/A\n|colorbar-bg-color==颜色\n|colorbar-bg-img=black\n|colorbar-one=full\n|colorbar-two=full\n|colorbar-three=half\n|colorbar-four=half\n|colorbar-five=half\n|colorbar-six=none\n|level=2\n|secrecy=保密\n]]\n----\n[[include component:image-block name=药.JPG|caption=一组SCP-CN-814]]\n**特殊收容措施：**SCP-CN-814目前被保存于Area-CN-07的异常药品储存柜内，取出SCP-CN-814需要项目监督研究员Dr.Keynote的书面批准。同时对目击到SCP-CN-814-A的群众进行标准的记忆清除，并依照程序删除互联网上与SCP-CN-814有关的信息。\n\n对受关注人士/超常药理学家“dado”的调查仍在进行中。\n\n**描述：**SCP-CN-814是一类据信是由超常药理学家“dado”制作的异常药物，品牌名为“dado的舞癫狂”。\n\nSCP-CN-814个体为棕色的圆粒形药物，长约1.1cm，通常10粒为一组装在一白色硬纸盒内。在药盒正面写有一系列使用不同字体书写的“Cooooooooool的dado的舞癫狂”，除此之外没有任何的使用说明书或其余物品。\n\nSCP-CN-814的服用对象被编号为SCP-CN-814-A。SCP-CN-814-A将不受控制出现以下异常效应：\n* 左脚以脚跟为中心点，顺时针扭转。\n* 右脚快速、不间断的做出各类舞种中的腿部舞蹈动作[[footnote]] 如Running Man，V步等 [[/footnote]]，每个动作都在一秒内完成，并迅速的接上下一舞蹈动作。\n* 身体缓慢的上升至空中距地30M的位置，在此期间会撞毁任何位于其上的障碍物同时在空中继续上述动作，并且自其腿部会发出大约1.3E+4cd/m筒灯制造的顶光，灯光颜色与舞台灯光常用颜色一致。\n* 以SCP-CN-814为中心半径1KM的区域，天空会逐渐昏暗，此过程不受任何时间、天气的影响。\n* 以SCP-CN-814为中心半径1KM的区域的人员将会听见SCP-CN-814演唱的歌曲，此段歌曲与SCP-CN-814-A此时的右腿舞蹈动作所属舞种的风格极不吻合（如芭蕾舞动作与死亡重金属）。其歌曲内容随右腿舞蹈动作而切换。\n在SCP-CN-814-A升上天空大约一小时后，SCP-CN-814-A的动作会变得更加快速，其腿部的光线也会愈发刺眼，炫目。此过程持续十五分钟后，SCP-CN-814的全身会被一团不明来源的尘土和黑烟包围，随后迅速消失，其身着衣物与物品将会飘落至地面上。同时在场人员将会听到一阵风的呼啸声以及一声枪响。\n\n**附录CN-814.1：**收集到的信息\n\nSCP-CN-814被发现于首例SCP-CN-814-A消失后飘落至地面的物品中，同时发现的还有一部手机以及衣物。在该部手机内的通讯软件中找到了以下信息，据信是该名人员与dado的通讯记录：\n\n[[div style=\"float: center; border: solid 2px #ffffff; width: 84％; padding: 1px 15px; margin: 10px 10px 10px 40px; background-color: #ffffff; box-shadow: 0 1px 3px rgba(0,0,0,.2);\"]] \n[[=]]\n **[记录开始]**\n[[/=]]\n \n[[=]]\n **2018/9/24  23:40**\n[[/=]]\n **The Reargiao：**在吗？你能制作那些超常的药剂？\n **The Reargiao：**你是不是骗人的\n \n **dado：**尼要相信dado，dado是个好资本家而且不骗人\n[[=]]\n **2018/9/24  23:44**\n[[/=]]\n **The Reargiao：**你还在吗？\n **The Reargiao：**我希望有药能让我变酷，夜店小王子，情场贵公子\n \n **dado：**dado准备好指笔了，你说吧。dado啥都能做\n[[=]]\n **2018/9/24  23:50**\n[[/=]]\n **The Reargiao：**我想让我变得非常酷。夜店小王子那种，就是那种会很多舞蹈，聚焦灯光的那种\n **The Reargiao：**就是那种在云端，俯视众生的酷。然后我能驾驭住所有的歌曲和舞蹈\n **The Reargiao：**我想要点不一样的混搭，用古风歌曲跳曳步舞之类的，懂我意思吧\n **The Reargiao：**就那种，周围一篇漆黑，我边跳边唱，然后唱的死核，脚上跳芭蕾。你懂吧。[[image 白胖.jpg]]\n \n **dado：**泥要混搭和聚蕉灯光？\n \n **The Reargiao：**对对，就是这个意思，万众瞩目，在他们高不可及的境界\n \n **dado：**你要上天？\n[[=]]\n **2018/9/24  23:53**\n[[/=]]\n **The Reargiao：**呃，差不多吧\n **The Reargiao：**然后就是，最好是一夜情过后，拔枪走人，像烟尘一样\n **The Reargiao：**潇洒自如\n **The Reargiao：**无影无踪，不留一丝痕迹\n \n **dado：**你要枪和烟尘，dado会办到的\n **dado：**无影无踪困难是，但dado可以做到！你会有枪有烟尘，然后泥会无影无踪\n[[=]]\n **2018/9/24  23:56**\n[[/=]]\n **dado：**药做好了\n **dado：**你明天就能接到\n \n **The Reargiao：**这么快？假的吧\n \n **dado：**泥要相信dado\n[[=]]\n **2018/9/26  2:33**\n[[/=]]\n **The Reargiao：**woc，真特么邮递过来了\n **The Reargiao：**你他娘的真是个人才，我觉得我特么跳的都快上天了\n[[=]]\n **2018/9/26  3:55**\n[[/=]]\n **dado：**你在天上，希望泥喜欢这药\n **dado：**急的来洗衣与美黑之家，看看dado的其他好桑品\n[[=]]\n **[记录结束]**\n[[/=]]\n[[/div]]\n\n[[footnoteblock]]\n@@@@\n[[div class=\"footer-wikiwalk-nav\"]]\n[[=]]\n<< [[[SCP-CN-813]]] | SCP-CN-814 | [[[SCP-CN-815]]] >>\n[[/=]]\n[[/div]]",
+  "tags": [
+    "area-cn-07",
+    "dado",
+    "safe",
+    "scp",
+    "原创",
+    "声音",
+    "强迫性",
+    "气象",
+    "肢体",
+    "表演",
+    "重力影响"
+  ],
+  "author": null,
+  "created_at": "2018-09-24T16:05:24+00:00",
+  "updated_at": "2020-01-27T07:31:03+00:00",
+  "rating": 36,
+  "_site": "scp-wiki-cn",
+  "_fullname": "scp-cn-814"
+}

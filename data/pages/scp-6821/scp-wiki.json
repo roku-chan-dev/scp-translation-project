@@ -1,0 +1,31 @@
+{
+  "title": "SCP-6821",
+  "content": "[[>]]\n[[module Rate]]\n[[/>]]\n[[include :scp-wiki:component:author-label-source start=--\n|name=TopDownUnder\n|no-right-margin=*]]\nDeptcon Article. Team AWD forever!\n\nMore by [[[top|TopDownUnder]]]\n[[include :scp-wiki:component:author-label-source end=--]]\n\n------\n\n[[module ListPages  category=\"fragment\" parent=\".\" limit=\"1\" order=\"created_at\" offset=\"@URL|0\"]]\n%%content%%\n[[/module]]\n\n[!-- http://scp-wiki.wikidot.com/fragment:scp-6821-1 --]\n[!-- http://scp-wiki.wikidot.com/fragment:scp-6821-2 --]\n\n[[footnoteblock]]\n~~~~\n[[div class=\"footer-wikiwalk-nav\"]]\n[[=]]\n<< [[[SCP-6820]]] | SCP-6821 | [[[SCP-6822]]] >>\n[[/=]]\n[[/div]]\n[[div class=\"centered\"]]\n[[include :scp-wiki:component:license-box]]\n=====\n> **Filename:** cegua.jpg\n> **Name:** Siguanaba\n> **Author:** Orlando Callejas\n> **License:** CC BY-SA 4.0/3.0/2.5/2.0/1.0\n> **Source Link:** [https://commons.wikimedia.org/wiki/File:Siguanaba.JPG Wikimedia]\n\n> **Filename:** page.jpg\n> **Author:** [[*user TopDownUnder]]\n> **License:** CC BY-SA 3.0\n> **Source Link:** [page.jpg SCP Wiki]\n\n> **Filename:** zero.jpg\n> **Name:** Connla and the fairy maiden - Project Gutenberg etext 19993\n> **Author:** Project Gutenberg\n> **License:** CC-0\n> **Source Link:** [https://commons.wikimedia.org/wiki/File:Connla_and_the_fairy_maiden_-_Project_Gutenberg_etext_19993.jpg Wikimedia]\n\n> **Filename:** hugo.jpg\n> **Name:** Yuri Cunza\n> **Author:** Jay27\n> **License:** CC BY-SA 3.0\n> **Source Link:** [https://commons.wikimedia.org/wiki/File:Yuri_Cunza.jpg Wikimedia]\n=====\n[[include :scp-wiki:component:license-box-end]]\n[[/div]]",
+  "tags": [
+    "_cc",
+    "_licensebox",
+    "_listpages",
+    "departmentcon2022",
+    "equine",
+    "esoteric-class",
+    "ethics-committee",
+    "global-occult-coalition",
+    "homo-sapiens-sidhe",
+    "humanoid",
+    "manna-charitable-foundation",
+    "metamorphic",
+    "mind-affecting",
+    "nocturnal",
+    "our-open-veins",
+    "sapient",
+    "scp",
+    "species",
+    "virus"
+  ],
+  "author": "TopDownUnder",
+  "created_at": "2022-02-28T17:31:18+00:00",
+  "updated_at": "2024-10-30T15:25:22+00:00",
+  "rating": 58,
+  "_site": "scp-wiki",
+  "_fullname": "scp-6821"
+}

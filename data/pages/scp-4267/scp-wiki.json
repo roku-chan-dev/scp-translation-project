@@ -1,0 +1,21 @@
+{
+  "title": "SCP-4267",
+  "content": "[[>]]\n[[module Rate]]\n[[/>]]\n\n[[include :scp-wiki:component:classified-bar-woed\n|lv=2\n|item=4267\n|oc=Neutralized\n|lang=EN\n]]\n\n------\n\n[[include component:image-block\n    name=birbs.jpg|\n    caption=A flock of Chimney Swifts (//Chaetura pelagica//) roosting inside SCP-4267. |\n    width=350px\n]]\n\n**NOTE:** As of 12/2/1995, the following document is for archival purposes only.\n\n**Special Containment Procedures:** The house containing SCP-4267 is currently Foundation property and occupied by several research personnel. Equipment is provided to remove the remaining creosote buildup inside SCP-4267 to prevent fire hazards. Secure covers have been installed to prevent unauthorized access. \n\n**Description:** SCP-4267 refers to the chimney of a two-story house in ████, North Yorkshire, England. SCP-4267 was officially documented in 1875, maintaining only an unofficial 'reputation' among past homeowners and local chimney sweeps for several decades for having a higher-than-average fatality rate.\n\nSCP-4267 houses a spatial anomaly within its flue, seemingly extending the inside of the chimney to a currently unknown length. It is lined with the same type of bricks used to construct the exterior. The anomaly can be accessed from either opening; however, it is unclear whether the openings are connected, as objects dropped from the top fail to exit the bottom. \n\nInitial exploration using robotic equipment has not observed any other additional anomalous phenomena within SCP-4267. Creosote formations are encountered as far as 1200 meters up the flue.\n\n**Addendum:** Incident 4267-A\n\nOn 12/2/1995, a number of wooden recreational items suddenly exited the fireplace connected to SCP-4267. Shortly after, an emaciated humanoid entity with excessive facial hair fell down the chimney, covered in a thick layer of soot. It began exhibiting reality-manipulating abilities and reacted aggressively towards personnel, with two members suffering second-degree burns. It then escaped through the front entrance and into another residence nearby, which coincided with SCP-4267 collapsing inward from unknown forces. The owner of said residence later claimed the entity snapped its fingers before entering the house's fireplace and disappeared. \n\nA leather sack was discovered inside the remains of SCP-4267, containing additional non-anomalous items, and a small amount of coal [[footnote]] Coal is not a product of SCP-4267, and personnel denied having used the fireplace connected to it. [[/footnote]]. Subsequent examinations revealed that SCP-4267 no longer exhibits anomalous properties, and was reclassified as Neutralized. Witnesses were given amnestics and a cover story of a chimney fire was disseminated. The house was purchased by another individual after repairs were made.\n\nThe entity has yet to be located or identified, and whether it is related to SCP-4267 is unclear.\n\n[[footnoteblock]]\n[[div class=\"footer-wikiwalk-nav\"]]\n[[=]]\n<< [[[SCP-4266]]] | SCP-4267 | [[[SCP-4268]]] >>\n[[/=]]\n[[/div]]\n\n[[include :scp-wiki:component:license-box]]\n=====\n> **Filename:** birbs.jpg\n> **Name:** Chimney Swifts\n> **Author:** Greg Schechter\n> **License:** CC BY 2.0\n> **Source Link:** [https://www.flickr.com/photos/gregthebusker/5058612509/ Flickr]\n=====\n[[include :scp-wiki:component:license-box-end]]",
+  "tags": [
+    "_cc",
+    "_licensebox",
+    "alive",
+    "humanoid",
+    "neutralized",
+    "reality-bending",
+    "scp",
+    "spatial",
+    "structure"
+  ],
+  "author": "Flawed",
+  "created_at": "2019-05-10T17:59:48+00:00",
+  "updated_at": "2023-01-03T15:55:39+00:00",
+  "rating": 84,
+  "_site": "scp-wiki",
+  "_fullname": "scp-4267"
+}

@@ -1,0 +1,20 @@
+{
+  "title": "SCP-824-KO",
+  "content": "[[include :scp-wiki-cn:component:centered-header-sigma-9]]\n\n[[include :scp-wiki:component:toggle-sidebar]]\n\n[[module CSS]]\n :root{\n   --header-title: \"基金会\";\n   --header-subtitle: \"控制，收容，保护\";\n   --lgurl: url(https://scp-wiki.wdfiles.com/local--files/component%3Acentered-header-sigma-9/logo.svg);\n}\n[[/module]]\n\n[[include :scp-wiki-cn:credit:start-standalone]]\n**作者：**[[*user Bangja]]\n**英文翻譯：**[[*user fluxman]]\n**中文翻譯：**[[*user feitag]]\n**原文：** http://scpko.wikidot.com/scp-824-ko\n**英譯版：** http://scp-int.wikidot.com/scp-824-ko\n----\n\n[[=]]\n[http://ko.scp-wiki.net/bangja ★]\n[[/=]]\n圖片由 [[*user Bangja]] 製作\n[[include :scp-wiki-cn:credit:end-standalone]]\n[[include component:image-block name=http://scpko.wdfiles.com/local--files/scp-824-ko/ezgif.com-gif-maker.gif|caption=++++ [點擊放大]\nSCP-824-KO 的視覺模擬\n粒子單位：10,000,000\n|link=\"http://scpko.wdfiles.com/local--files/scp-824-ko/ezgif.com-gif-maker.gif\"]]\n**項目編號：**SCP-824-KO\n\n**項目等級：**Euclid\n\n**特殊收容措施：**SCP-824-KO 應存放在用減震材料加固的真空容器中。由於 SCP-824-KO 的性質使其無法被移動到遙遠的外部基地，因此發現該實例的地下設施將作為臨時隔離單元來運作。該設施應配備抗震特殊設計，以及確保 SCP-824-KO 始終保持最小動量的冷卻設施。實驗或定期檢查應使用最少的人員或以遠端設備進行。\n\n**描述：**SCP-824-KO 是裝在玻璃杯中、約 400 mL 的透明液體。其無色無味，其他表觀特性（如粘度）表明它是純水。\n\n\nSCP-824-KO 的異常性--在該液體表現出過度的運動性時展現，--是它的粒子運動取決於外部 GPU。受影響的 GPU 透過異常超自然數學代碼來執行模擬流體運動的計算，其結果將很快成為 SCP-824-KO 的運動。如果流體流動太強，使計算變得困難，或者如果 GPU 無法提供足夠的性能，SCP-824-KO 將以有害的方式影響周圍的現實。已確認以下異常現象：\n\n* SCP-824-KO 附近的時間以不連續的方式流動。它被認為是破碎的，就像在電腦設備中常見的「緩衝」或「延遲」。\n* 在一定半徑內的流體之流動極為簡化。通常，大氣亂流、洋流和污水處理設施都會受到影響，這種現象在視覺上的描述為「水滴的大小與拳頭差不多」。這種情況可能損害生物體內的血液循環。\n* 附近的平均溫度顯著下降。\n* 現象的嚴重性和半徑與計算複雜度成正比。已確認效應半徑可以增長到[已編輯]公里。\n\n**最初的發現：**基金會網路爬蟲滲透到全球加密貨幣挖礦市場，並在追蹤一個對 GPU 造成 80% 效能壓力的惡意代碼時，發現了一個地下結構體。經過深入調查，其來源被縮小到一個設施，基金會調動了一支四人攻擊小組進行突襲。作為回應，設施中一位身份不明的人士迅速用茶匙攪動了 SCP-824-KO。在那一刻，攻擊小組受時間延遲的困擾，而該名人士卻如同已經習慣了這種情況一樣而成功逃離。類似於「掉幀」的現象最初每隔幾秒發生一次，後來變成每幾十秒發生一次。一名外部狙擊手試圖射擊該名人士。然而，子彈也陷入延遲之影響而無法制服目標。\n\n隨後對設施的調查中發現了一個代碼，該代碼將納維爾-斯托克斯方程（Navier-Stokes equations）與工作站電腦上的異常超自然數學公式結合在一起。\n\n> SCP-824-KO 的質量和一杯水差不多。大約等於 22 莫耳。換句話說，這杯水有  22×6×10^^23^^ 個分子。\n> 當我在基金會工作站上跑約 100 個粒子的模擬時，每幀的時間要花數分鐘。但這杯的數量比那個的十兆倍還大。我們基金會裡沒有任何電腦能計算這種數量的粒子。\n> 我們已經建立了凍結 SCP-824-KO 的收容措施。但是，如果發生自然災害或更糟的情況，那麼實施荒謬的駭入全世界之計畫可能將成為無法避免的選擇。也許，這樣做仍無法制止異常。824-KO 可能會吞噬整個區域。\n> \n> //-流體力學博士 Ｗ.//",
+  "tags": [
+    "euclid",
+    "ko",
+    "scp",
+    "二次翻译",
+    "反物理定律",
+    "时间影响",
+    "液体",
+    "电脑"
+  ],
+  "author": "feitag",
+  "created_at": "2020-11-11T05:31:57+00:00",
+  "updated_at": "2023-03-17T13:24:33+00:00",
+  "rating": 3,
+  "_site": "scp-wiki-cn",
+  "_fullname": "scp-824-ko"
+}

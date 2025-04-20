@@ -1,0 +1,28 @@
+{
+  "title": "SCP-8060",
+  "content": "=====\n[[include component:preview\ntext=You're so good at putting yourselves into us. Why can't we put ourselves into you? \n\nA bit of a double standard if you ask me.\n]]\n=====\n\n\n[[module CSS]]\ndiv#header h1 a span {\n    font-size: 0px;\n}\ndiv#header h1 a:before {\n    content: \"Site-433\";\n    color: #eee;\n    \n}\ndiv#header h2 span {\n    font-size:0px;\n    padding: 4px;\n}\ndiv#header h2:after {\n    content: \"Anart and Anomalous Media\";\n    font-weight: bold;\n    color: #f0f0c0;\n    padding: 19px 0;\n    text-shadow: 1px 1px 1px rgba(0, 0, 0, .8);\n    white-space: pre;\n}\n\n#header {\n  background-image: url(http://scp-sandbox-3.wdfiles.com/local--files/harry-blank-7/433.png)\n}\n[[/module]]\n\n[[include info:start]]\n⚠️ **Content warning:** This article contains **body horror**, **unreality**, **gore**, **self harm** and **eye straining imagery**. \n\nThis article is not suitable for young readers.\n[[include info:end]]\n\n[[include :scp-wiki:component:info-cw]]\n\n[[module ListPages created_by=\"ratking666\" category=\"fragment\" parent=\".\" order=\"name\" limit=\"1\" offset=\"@URL|0\"]]\n%%content%%\n[[/module]]\n\n[!-- https://scp-wiki.wikidot.com/fragment:8000contestratkingmonkeysky-a --]\n[!-- https://scp-wiki.wikidot.com/fragment:8000contestratkingmonkeysky-b --]\n[!-- https://scp-wiki.wikidot.com/fragment:8000contestratkingmonkeysky-c --]\n[!-- https://scp-wiki.wikidot.com/fragment:8000contestratkingmonkeysky-d --]",
+  "tags": [
+    "8000",
+    "_cc",
+    "_listpages",
+    "artistic",
+    "but-a-dream",
+    "co-authored",
+    "extradimensional",
+    "hallucination",
+    "infohazard",
+    "keter",
+    "media",
+    "meta",
+    "mind-affecting",
+    "scp",
+    "transfiguration",
+    "video"
+  ],
+  "author": "ratking666",
+  "created_at": "2024-02-12T15:55:42+00:00",
+  "updated_at": "2025-01-07T14:58:08+00:00",
+  "rating": 237,
+  "_site": "scp-wiki",
+  "_fullname": "scp-8060"
+}

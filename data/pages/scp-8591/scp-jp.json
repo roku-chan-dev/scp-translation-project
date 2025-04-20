@@ -1,0 +1,18 @@
+{
+  "title": "SCP-8591",
+  "content": "[[include :scp-jp:theme:black-highlighter-theme]]\n[[include :scp-jp:theme:minimalist-bhl]]\n[[include :scp-jp:component:toggle-sidebar-bhl]]\n[[include :scp-jp:component:acs-animation]]\n[[include :scp-jp:component:fade-in speed=4]]\n[[module CSS]]\n:root {\n     --header-title: \"非現実部門\";\n     --header-subtitle: \"非現実をㅤㅤㅤㅤにする\";\n     --lgurl: url('http://scp-jp-storage.wdfiles.com/local--files/file%3A2375337-413-zz1e/Unreality%20Header%20Logo.svg');\n}\n\n@media only screen and (max-width: 26.5625rem) {\n    :root {\n        --header-title: \"非現実部門\";\n    }\n}\n\n\n.info-container{\n--barColour: #2c2427;\n--linkColour: #FFF;\n}\n\n#page-content hr {\nborder-top: none;\nheight: .05em;\nbackground: #454545;\n}\n\n#page-content > .collapsible-block {\n    display: block;\n    text-align: center;\n    padding: .8em;\n    background-color: #e3e3e3;\n    border-top: 0.125rem dashed #b5b5b5;\n    border-bottom: 0.125rem dashed #b5b5b5;\n}\n\n#page-content > .collapsible-block .collapsible-block-content {\n    text-align: left;\n}\n\n.interview{\n    border:solid 2px #d4d4d4;\n    background:#F5F5F5;\n    width:90%;\n    padding:1px 15px;\n    margin: 10px auto;\n}\n\n.file{\n    border:none;\n    background:#F5F5F5;\n    width:90%;\n    padding:1px 15px;\n    margin: 10px auto;\n}\n\n.addendum{\n    border:solid 1px #5e5e5e;\n    background:#ffffff;\n    width:90%;\n    padding:1px 15px;\n    margin: 10px auto;\n}\n\n.testfile{\n    border:solid 3px #643434;\n    background:#f7efef;\n    width:90%;\n    padding:1px 15px;\n    margin: 10px auto;\n}\n\n.testvideo{\n    background:#e9d5d5;\n    width:90%;\n    padding:1px 15px;\n    margin: 10px auto;\n}\n\n\n#page-title{display:none}\n\n[[/module]]\n\n[[include :scp-jp:credit:start-preview]]\n**タイトル:** SCP-8591 - アレックス・ソーリーはお咎めを受ける\n**翻訳責任者:** [[*user C-Dives]]\n**翻訳年:** 2024\n**著作権者:** [[*user PlaguePJP]]\n**原題:** SCP-8591 - Alex Thorley Doesn’t Get Away With It\n**作成年:** 2024\n**初訳時参照リビジョン:** 18\n**元記事リンク:** [[[*https://scp-wiki.wikidot.com/scp-8591|ソース]]]\n[[include :scp-jp:credit:end-preview]]\n\n[[include :scp-jp:component:info-ayers\n|lang=jp\n|page=scp-8591\n|authorPage=https://scp-wiki.wikidot.com/plaguepjp\n|comments= アレックス・ソーリーはお咎めを受ける — PlaguePJP\n]]\n\n\n**アイテム番号:** SCP-8591\n\n**特別収容プロトコル:** N/A\n\n[[div class=\"scp-image-block block-right\" style=\"width:10%;\"]]\n[[image http://scp-jp-storage.wikidot.com/local--files/file:2375337-925-hzhe/ellingfant.png style=\"width:40%;\" link=#]]\n[[div class=\"scp-image-caption\" style=\"width:40%;\"]]\nSCP-8591。\n[[/div]]\n[[/div]]\n\n**説明:** SCP-8591は散発的にアレックス・ソーリー研究員のオフィスに出現・消失していたアフリカゾウの成獣です。\n\n本稿公開時点で、SCP-8591は消失から1年以上再出現していません。\n\n~~~~\n\n[[div class=\"blockquote\"]]\n= **転写**\n------\n**ソーリー:** //(電話に向かって)// 奴がまた出た。\n\n//[…]//\n\n**ソーリー:** そのうちいなくなるかもしれない。\n\n//[…]//\n\n**ソーリー:** 私は//何も//しなかった。\n\n\n//[…]//\n\n**ソーリー:** 何も悪いことはしなかった。\n\n//[…]//\n\n**ソーリー:** 分かったよ。\n\n//(ソーリーはオフィスに入室する。部屋の中にゾウがいる。)//\n\n**ソーリー:** …お前に向き合ってやる。\n[[/div]]\n\nソーリー研究員は、この交流に先立つ非公開の不祥事に関して適切な懲戒処分を受けました。\n\n[[footnoteblock]]",
+  "tags": [
+    "en",
+    "esoteric-class",
+    "scp",
+    "アレックス・ソーリー",
+    "動物",
+    "非現実部門"
+  ],
+  "author": "C-Dives",
+  "created_at": "2024-04-22T13:27:53+00:00",
+  "updated_at": "2024-04-22T13:28:46+00:00",
+  "rating": -16,
+  "_site": "scp-jp",
+  "_fullname": "scp-8591"
+}

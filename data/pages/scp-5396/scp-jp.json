@@ -1,0 +1,19 @@
+{
+  "title": "SCP-5396",
+  "content": "[[include :scp-jp:credit:start]]\n翻訳責任者: [[*user Tetsu1]]\n翻訳年: 2023\n著作権者: [[*user Ecronak]]\n原題: The best that you could ever be.\n作成年: 2021\n元記事リンク: https://scp-wiki.wikidot.com/scp-5396\n[[include :scp-jp:credit:end]]\n\n[[include :scp-wiki:component:author-label-source start=--\n|name=Ecronak]]\nこのスキップは面白かったですか？ 私の他の作品を[http://scp-wiki.wikidot.com/ekronak-s-archive-with-commentary| こちら]に見に来てください！\n[[include :scp-wiki:component:author-label-source end=--]]\n\n[[include :scp-jp:theme:black-highlighter-theme]]\n------\n[[include :scp-jp:component:acs-animation]]\n[[include :scp-jp:component:anomaly-class-bar-source\n|item-number= 5396\n|clearance= 1\n|container-class= safe\n|secondary-class= none\n|disruption-class= dark\n|risk-class= notice\n]]\n[[module CSS]]\n\ndiv#page-title::after {\n  content: \"by Ecronak\";\n  font-size: 40%;\n  color: #888;\n  background: none;\n}\n\ndiv#page-title {\n  border-bottom: 1px solid #000;\n  padding-bottom: 0.2em;\n}\n\n[[/module]]\n------\n\n[[include component:image-block\n| name=http://scp-jp-storage.wikidot.com/local--files/file:5384396-32-xj8z/Antiquemirrorwithfinewoodworking\n| caption=SCP-5396]]\n\n**特別収容プロトコル:** SCP-5396は標準セキュリティルームに収容されます。SCP-5396の全アクセスには主任研究員とサイト管理官の承認が必要です。職員が劣等感またはインポスター症候群[[footnote]]**訳注:** 自分の力で何かを達成しても、自己を過小評価し自分の能力や実績を認められないこと。[[/footnote]]に苦しんでいる場合、SCP-5396へのアクセスが要請される場合があります。\n\n**説明:** SCP-5396は1860年頃に作成されたと推定されるアンティークの金箔鏡です。側面に沿ってシンプルな模様が、その上には追加の装飾彫刻が施されています。枠の上部には弾痕と一致する溝があり、その周囲には火薬の痕跡が見られます（補遺5396.01を参照）。\n\n劣等感に苦しんでいる対象がSCP-5396を視認すると、鏡の反射像は対象から、「対象の最高のバージョン」[[footnote]]これは多くの場合、対象の仕事や趣味における特定の分野での成功を意味する。[[/footnote]]を映した同様の画像（以降、SCP-5396-Aと呼称）に変化します。これには通常、SCP-5396-Aにおける対象の描写された状態と、どのように成功を収めたかを説明するSCP-5396の鏡面上への自然発生的な書き込みが伴います。\n\nその後のGPUI[[footnote]][[span class=\"ruby\"]]グラハム並行宇宙計器[[span class=\"rt\"]]Graham Parallel Universe Instrument[[/span]][[/span]][[/footnote]]を使用した試験の結果、SCP-5396-Aに描写された「最高のバージョン」は別の並行宇宙[[footnote]]SCP-5396が接続可能な並行宇宙の数は1,400,605と推測されている。[[/footnote]]から発見された対象と一致することが判明しました。\n\n**試験ログ:**\n\n> **対象:** D-3467、窃盗で三回有罪判決を受けた。小学校を中退し、家族を養うために犯罪を余儀なくされた。試験前に、対象の夢は「セールスマン」になることだと述べた。\n> \n> **結果:** 対象のSCP-5396-Aは、自動車展示会で高級なスーツを着たD-3467を映した。複数の人物（後にD-3467の犯罪の共犯者だと判明）が興味を持った顧客に車を提示していた。左上隅には以下の記述があった。「自動車業界の偉大な革新者。あなたはたった17歳にして三つの仕事を掛け持ちしました。これは、これまでにあり得たあなたの最高のバージョンです。これは、今もあり得るあなたの最高のバージョンです。」\n\n> **対象:** アルド・デ・マールズ、サイト-19の用務員。試験前に、対象は同僚と私生活について話し、自分が「酷い夫で、三人の子供をまともに養うこともできない」と感じていると述べたのを記録されている。\n> \n> **結果:** 対象のSCP-5396-Aは、家族が集まった中で老人となったデ・マールズを映した。三人の若者（後に対象の子供たちが成人した姿であることが確認された）が年配の女性（後に対象の妻であるリナ・デ・マールズであることが確認された）と一緒にテーブルの周りに集まっていた。5歳の子供が対象の脚を引っ張り、一緒に食事しようと要求している。左上隅には以下の記述があった。「あなたは16歳で父親になりました。あなたは家族を養うために朝から晩まで働きました。それ以上に良いことができたでしょうか？あなたの最高のバージョンはずっと先の未来です- ただ待ち続けましょう。」\n\n> **対象:** イワン・ペトレンコ博士、SCP-9015の主任研究員。大学の論文に関してインポスター症候群を複数回発症していたため、職務遂行が困難になっていたと記録されていた。\n> \n> **結果:** SCP-5396-Aは現在のペトレンコ博士本人の姿を映した。左上隅には以下の記述があった。「あなたは22歳にして広く認められた自然哲学者[[footnote]]20世紀まで使われていた、科学者を指す死語。[[/footnote]]であり、同輩やより上の人々、万人に称賛されました。これがあなたがなれた最高のバージョンです。今まさにこの瞬間、あなたは彼なのです。誇りに思ってください。私は間違いなくそうしなかったのです、そしてそうした時には手遅れだったのです。」\n\n**補遺5396.01:** SCP-5396から発見された火薬と弾痕の更なる調査の結果、SCP-5396の起源はバージニア州ウィリアムズバーグに1824年から1860年まで住んでいたモンゴメリー・バロウズという鏡職人に遡ると判明しました。彼は自分の人生を「真実の鏡」を作成することに投じていたことで知られていましたが、その販売においては失敗しました。彼は父親のリボルバーを使用し、1860年に作業場の中心で自殺しました。\n\n[[footnoteblock]]",
+  "tags": [
+    "en",
+    "safe",
+    "scp",
+    "家電",
+    "視覚",
+    "観測",
+    "記述"
+  ],
+  "author": "Tetsu1",
+  "created_at": "2023-12-10T04:22:20+00:00",
+  "updated_at": "2024-07-21T14:12:08+00:00",
+  "rating": 9,
+  "_site": "scp-jp",
+  "_fullname": "scp-5396"
+}

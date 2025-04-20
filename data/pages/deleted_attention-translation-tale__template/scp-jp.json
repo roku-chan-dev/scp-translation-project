@@ -1,0 +1,11 @@
+{
+  "title": "attention-translation-tale:_template",
+  "content": "[[div_ class=\"wikisys--template-dialog\"]]\n[[div_ class=\"wikisys--template-dialog-header\"]]\n注目記事用個別ページです\n[[/div]]\n[[div_ class=\"wikisys--template-dialog-content\"]]\n**[[[featured-scp-archive|注目記事]]]を表示するためのページです。**\n許可なく編集しないでください。編集が必要だと思われる場合は、[[[contact-staff|サイトスタッフ]]]までご連絡ください。\n[[/div]]\n[[div_ class=\"wikisys--template-dialog-footer\"]]\n運用について、詳しくは[[[category-policy|]]]を参照してください。\n[[/div]]\n[[/div]]\n\n[[form]]\nfields:\n  url:\n    label: \"URL:\"\n    type: text\n  author:\n    label: \"著者:\"\n    type: text\n  desc:\n    label: \"要約:\"\n    type: wiki\n    height: 4\n  date:\n    type: date\n    label: \"登録日:\"\n    options:\n      appendText: 'カレンダーを表示'\n      autoSize: true\n      changeYear: true\n      dateFormat: 'yy/mm/dd'\n      firstDay: 1\n      showOn: button\n[[/form]]\n[[include :scp-jp:_template]]",
+  "tags": [],
+  "author": "7happy7",
+  "created_at": "2019-01-14T15:30:39+00:00",
+  "updated_at": "2025-03-04T15:39:31+00:00",
+  "rating": 1,
+  "_site": "scp-jp",
+  "_fullname": "deleted:attention-translation-tale:_template"
+}

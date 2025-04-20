@@ -1,0 +1,19 @@
+{
+  "title": "SCP-6899",
+  "content": "[[include :scp-wiki-cn:theme:black-highlighter-theme]]\n[[include :scp-wiki-cn:theme:extra-black-highlighter-theme]]\n[[include :scp-wiki:component:acs-animation]]\n\n[[include :scp-wiki-cn:component:anomaly-class-bar-source\n|lang= cn\n|item-number= 6899\n|clearance= 2\n|container-class= euclid\n|secondary-class=\n|secondary-icon=\n|disruption-class= dark\n|risk-class= 需谨慎\n]]\n----\n----\n[[size 1.5em]]**特殊收容措施：**[[/size]]\n----\nSCP-6899 被安置于 Site-17 的最低安保收容翼区内。在 Alpha 事件开始时，SCP-6899 将被移入其收容室附近的检查间，并通知医务人员。\n\n该医疗间将持续维持两升 O 型阴性血液的供应，以便对 Alpha 事件进行优先治疗。\n\n\n----\n[[size 1.5em]]**描述：**[[/size]]\n----\nSCP-6899 为一名成年男性，名叫 Trent MacAffee，31 岁。大约每 96 小时，SCP-6899 将会起始一次 Alpha 事件，在该事件中，它们显现并开始挤出一个木制碎片。到目前为止，这些碎片的大小从 18 厘米到 45 厘米不等，且已证实其特性与俄亥俄河谷常见的一种白橡树完全相同。挤压成型的碎片被编号为 SCP-6899-1 实例，并未表现出任何异常特性。\n\n在 Alpha 事件期间，SCP-6899 会经历一段时间的极端身体上的胁迫，其特征是心率超过每分钟 140 次，血压超过 150/90，大量出汗，严重肌张力障碍，以及对所有镇静剂和安定药的明显免疫力。\n\n当未发生 Alpha 事件时，SCP-6899 不会表现出任何异常性质。\n\n经过彻底的精神病学评估后，该项目要么不愿意，要么无法提供任何关于其病情或其身世的推测或细节。到目前为止，SCP-6899 已被证实对标准记忆强化疗法以及催眠和回溯疗法具有抵抗力。\n\n\n----\n[[size 1.5em]]**文件更新 2021-08-23：**[[/size]]\n----\n在例行清点非异常物品期间，基金会对 SCP-6899-1 项目的总体积进行了登记和拍照。当这些信息呈现时，分配于 SCP-6899 的高级研究员注意到了碎片之间的相关性，并开始努力重新组合这些部件。这使得一张儿童婴儿床框架的部分复原（~40%）。\n\n在面对该信息时，SCP-6899 没有给予评论。\n\n\n@@ @@\n@@ @@\n----\n[[footnoteblock]]\n\n[[div class=\"footer-wikiwalk-nav\"]]\n[[=]]\n<< [[[SCP-6898]]] | SCP-6899 | [[[SCP-6900]]] >>\n[[/=]]\n[[/div]]",
+  "tags": [
+    "euclid",
+    "scp",
+    "人形生物",
+    "反熵",
+    "建筑",
+    "智能",
+    "活物"
+  ],
+  "author": null,
+  "created_at": "2021-09-11T05:35:20+00:00",
+  "updated_at": "2024-05-17T03:03:37+00:00",
+  "rating": 4,
+  "_site": "scp-wiki-cn",
+  "_fullname": "scp-6899"
+}

@@ -1,0 +1,13 @@
+{
+  "title": "고휘도 방전 포탑",
+  "content": "원문 http://scpcb.gamepedia.com/H.I.D._Turret\n[[div style=\"float:right; margin:0 2em 1em 2em; width:300px;\"]]\n[[image https://gamepedia.cursecdn.com/scpcb_gamepedia/thumb/f/f6/H.I.D._Turret.png/350px-H.I.D._Turret.png?version=6ade44308636c74d982f7c7c0ec8cfe7\"]]\n[[/div]]\n**고휘도 방전 포탑**(High Intensity Discharge (H.I.D.) Turret)은 《SCP - Containment Breach》에서 [[[cb:Gate A|게이트 A]]] 바깥에 설치되어 있는 무기이다.\n\n++ 설정\n고휘도 방전 포탑은 [[[cb:the Foundation|재단]]]의 최고급 테크놀로지의 소산이다. 이 무기는 [[[cb:SCP-106]]]이 탈출하여 게이트 A에 도달했을 때 SCP-106을 효과적으로 저지하기 위해 만들어졌다.\n\n포탑을 한 번 발사하고 나면 재충전하기 위해 시간이 조금 걸린다. 하지만 SCP-106의 속도가 느리기 때문에 짧은 시간 발사를 하지 않고 버틸 수 있다.\n\n++ 게임 등장\n고휘도 방전 포탑은 게이트 A에서 발견할 수 있다. SCP-106이 탈출하여 게이트 A에 접근하면 고휘도 방전 포탑이 명령에 의해 활성화되어 SCP-106을 조준, 발사한다. 포탑은 SCP-106에게 매우 밝은 빛을 쏘아보낸다. SCP-106이 강렬한 빛을 끔찍히 싫어하기 때문이다. 포탑이 쏘는 빛을 어느 정도 받고 나면 SCP-106은 부식성 진흙 구덩이 속으로 들어가 [[[cb:Pocket Dimension|주머니 차원]]]으로 도주한다.",
+  "tags": [
+    "cb"
+  ],
+  "author": "Salamander724",
+  "created_at": "2014-02-19T17:50:06+00:00",
+  "updated_at": "2020-01-04T10:58:11+00:00",
+  "rating": 0,
+  "_site": "scpko",
+  "_fullname": "cb:h-i-d-turret"
+}

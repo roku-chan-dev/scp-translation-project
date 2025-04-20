@@ -1,0 +1,14 @@
+{
+  "title": "西天乡村俱乐部 组件",
+  "content": "[[include :scp-wiki-cn:theme:flowergarden]]\n\n[[module css]]\n@import url(https://fastly.jsdelivr.net/gh/hoah2333/Fonts@main/Typeface-sucaijishikufangti.css);\n\n.collapsible-block a, li, p, .f-content, .footnote-footer {\n    line-height: 1.6;\n}\n\n/* 部分翻译以及字体选择参考花园版式。 */\n\n/* 为GOI格式部分的展示效果，同步了韩分基板的行距修改。 */\n\n/* 引用的字体为免费商用授权。 */\n\n[[/module]]\n\n[[iftags +组件]]\n\n[[include :scp-wiki-cn:credit:start-standalone]]\n**西天乡村俱乐部 组件**\n\n**作者：** [[*user thd-glasses]]\n\n@@@@\n@@@@\n\n[[div style=\"border-radius: 15px; border:solid 3px #663333; background-color: #DDDDDD; width: 250px; margin: auto; padding: 0px; text-align: center;\"]]\n+++++* [[[thd-glasses-hub|thd-glasses的作者页]]]\n[[/div]]\n\n[[include :scp-wiki-cn:credit:end-standalone]]\n\n该组件用于[[[seocheon-cc-hub|西天乡村俱乐部]]]的GOI格式。\n[[div class=\"blockquote codequote\"]]\n@@[[include component:scc-format@@ part=**a** or **b**]]\n[[/div]]\n[[/iftags]]\n\n[[div style=\"display: none; displ{$part}y: block; text-align: center;\"]]\n**[[span style=\"font-family: 'ZoomlaMengyas-A080',  'GabiaBombaram', Arial, sans-serif; font-size: 25px; color: #0B7903;\"]]-- 西天会员名录 --[[/span]]**\n[[div style=\"border-bottom: solid 2px darkgreen; margin-bottom:1px;\"]]\n[[/div]]\n[[div style=\"border-bottom: solid 1px darkgreen; margin-bottom:1px;\"]]\n[[/div]]\n[[div style=\"font-family: 'sucaijishikufangti', \"EBSHunminjeongeumSBA\", verdana, arial, helvetica, \"Nanum Gothic\", sans-serif; font: font-size:10.5px; text-align: center; color:#777777;\"]]\n//本语音书卷记录了客户的重要个人信息。//\n//让我们成为严格保护隐私、值得客户信赖的西天CC。//\n[[/div]]\n[[div style=\"border-bottom: solid 1px darkgreen; margin-bottom:1px;\"]]\n[[/div]]\n@@@@\n@@@@\n[[/div]]\n\n[[div style=\"display: none; display: {$part}lock; text-align: center;\"]]\n@@@@\n@@@@\n\n[[div style=\"border-bottom: solid 2px darkgreen; margin-bottom:1px;\"]]\n[[/div]]\n[[div style=\"border-bottom: solid 1px darkgreen; margin-bottom:1px;\"]]\n[[/div]]\n**[[span style=\"font-family: 'ZoomlaMengyas-A080',  'GabiaBombaram', Arial, sans-serif; font-size: 15px; color: #0B7903;\"]]西天乡村俱乐部[[/span]]**\n**[[span style=\"font-family: 'ZoomlaMengyas-A080',  'GabiaBombaram', Arial, sans-serif; font-size: 8px; color: #2F9D27;\"]]圣洁修身 • 芬芳休养 • 吉祥社交[[/span]]**\n[[/div]]",
+  "tags": [
+    "ko",
+    "组件"
+  ],
+  "author": "Sharia Vanilla",
+  "created_at": "2025-01-24T14:40:53+00:00",
+  "updated_at": "2025-01-24T14:54:52+00:00",
+  "rating": 1,
+  "_site": "scp-wiki-cn",
+  "_fullname": "component:scc-format"
+}

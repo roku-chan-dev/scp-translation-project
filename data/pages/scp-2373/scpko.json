@@ -1,0 +1,19 @@
+{
+  "title": "SCP-2373",
+  "content": "[[include info:start]]\n**SCP-2373:** 너의 등 뒤에\n**저자:** [[*user acc1177]]          \n**원작:** http://www.scp-wiki.net/scp-2373\n**역자:** P_Per\t\n[[include info:end]]\n[[include component:image-block name=http://scp-wiki.wdfiles.com/local--files/scp-2373/SCP-;(updated2.jpg|caption=비활성화 상태의 SCP-2373.]]\n\n**일련번호:** SCP-2373\n\n**등급:** 유클리드\n\n**특수 격리 절차:** SCP-2373은 제19기지의 A등급 격리실에 격리되어 있으며 284번 복도와 에어록으로 분리되어 있다. 격리실과 연결된 문은 바깥쪽에서는 열기만 가능하다. 두 명 미만의 비,,非,, D계급 인원은 SCP-2373의 격리실에 출입할 수 없다. D계급 인원은 단독으로 격리실에 입장해야 한다.\n\n**설명:** SCP-2373은 영양실조를 앓고 있는 털투성이의 인간형 개체이다. 대상의 피부는 길고 검은 털로 덮여있으며, 대상의 하체는 복부에서 절단된 상태이다. SCP-2373의 눈은 항상 열려있는 상태이다.어떠한 사람도 대상의 시야에 들어오지 않을 경우, SCP-2373은 격리실의 바닥에서 휴면 상태에 들어간다.\n\n만약 한 명의 사람이 SCP-2373의 시야 안에 들어왔을 경우, SCP-2373은 활성화되며, 염력을 이용해 대상의 뒤로 이동한다. SCP-2373이 활성화 상태에 들어갔을 때의 움직임은 매우 빠르고, 인간의 시각을 넘어서기 때문에 육안으로는 그 존재를 확인할 수 없다. SCP-2373이 대상의 뒤로 이동했을 때, SCP-2373은 힘빠져 보이며 때때로 떨고, 일시적으로 정지해 보이기도 한다.\n\nSCP-2373이 대상의 뒤를 따라다닐 때 SCP-2373은 계속해서 그의 앞발의 위치를 바꾸고, 대상의 움직임에 맞추어 움직여 자신의 존재를 알아차리지 못하게 한다. 이 효과는 대상이 한 명 이상의 사람이 있는 방으로 들어가거나, 공격받거나, 고체물질에 의해 차단될 때까지 지속된다. 만약 위와 같은 상황이 발생한다면, SCP-2373은 대상에게서 떨어져 가장 가까운 벽으로 다가간 뒤 비활성화 상태가 된다.\n\nSCP-2373은 그림자가 생기지 않고, 거울 표면에 반사되지 않으며, 또한 신체 접촉을 통해서는 4db 이상의 소리가 나지 않는다. 활성화된 SCP-2373의 움직임은 투명한 고체와 무인 관찰기에 의해 전자적으로 관찰할 수 있다.\n\nSCP-2373이 활성화 상태에 있는 경우, 대상은 가끔씩 절단된 복부를 쥐고 고통스러운 듯이 순간적으로 움찔하는 것을 볼 수 있다. 복부의 절단 요인은 알 수 없지만, 절단면을 확인한 결과 회전 톱날이나, 띠톱을 이용한 절단면과 일치한다. 진피의 절단면은 이전에 격리되었던 유령형 SCP들과 비슷한 투명성을 지닌다. SCP-2373은 그 외형을 제어하는 능력을 금지하는 부분적 재실시를 시행한 유형 4G[[footnote]]//“유형 4G: 투명화 능력을 가진 어떤 유령같은 형체 또는 물리적으로 숨거나 나타날 수 있을 것들”//: 유령형 개체 분류의 전체 목록은 문서 번호 OO8REF, 〈N. 바라트 대위의 초상현상에 관한 논고〉를 참조할 것[[/footnote]]의 유령형 형체이다.\n\n[[footnoteblock]]\n\n[[div class=\"authors\"]]\n[[include :scp-wiki:component:license-box\n|author=acc1177]]\n=====\n> **Filename:** SCP-;(updated2.jpg\n> **Author:** acc1177\n> **License:** CC BY-SA 3.0\n> **Source Link:** [[[http://scp-wiki.wikidot.com/scp-2373|SCP Wiki]]]\n> **Derivative of:**\n> ------\n> **Name:** the remains at clayton lake\n> **Author:** Matt Anderson\n> **License:** CC BY 2.0\n> **Source Link:** [[[https://www.flickr.com/photos/mattcameasarat/5108940725/in/photostream/|Link]]]\n> ------\n> **Name:** empty space\n> **Author:** Jonny Hughes\n> **License:** CC BY 2.0\n> **Source Link:** [[[https://www.flickr.com/photos/jonny2love/3996042726|Link]]]\n> **Additional Notes:** These images were edited together by acc1177.\n=====\n[[include :scp-wiki:component:license-box-end]]\n[[/div]]",
+  "tags": [
+    "en",
+    "scp",
+    "빛",
+    "생물학",
+    "염력",
+    "유클리드",
+    "인간형"
+  ],
+  "author": null,
+  "created_at": "2015-07-24T05:55:16+00:00",
+  "updated_at": "2025-01-07T06:52:41+00:00",
+  "rating": 3,
+  "_site": "scpko",
+  "_fullname": "scp-2373"
+}

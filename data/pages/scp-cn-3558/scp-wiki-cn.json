@@ -1,0 +1,18 @@
+{
+  "title": "SCP-CN-3558",
+  "content": "[[include :scp-wiki-cn:theme:mox |phantom=* |d=*\n|customTitle=*\n|title=Area-CN-22\n\n|customSubtitle=*\n|subtitle=控制·收容·保护\n\n|customLogo=*\n|logo=https://scpsandboxcn.wikidot.com/local--files/testing-zone/Area-CN-22-logo-first-bai\n\n|disableFooterInvert=*\n\n]]\n\n[[>]]\n[[module rate]]\n[[/>]]\n\n[[div class=\"mox-card\"]]\n\n**项目编号：**SCP-CN-3558\n\n**项目等级：**Keter\n\n**特殊收容措施：**机动特遣队MTF-辛未-65“落叶归根”将负责对SCP-CN-3558-A个体的回收与善后工作。回收的项目个体将被收容于Area-CN-22常规收容单元的#18-GA停尸柜中。\n\n由于SCP-CN-3558大概率会伴随各种自然灾害或事故出现，安插在自然灾害管理局、交通局、气象观测台等机构的基金会特工应密切注意相关信息；目击项目个体的民众将被施以C级靶向记忆消除，并切断相关信息的传播。试图认领项目遗体的项目家属将被告知项目没能被成功寻回。\n\n针对相关组织GoI-CN-6313“彼岸”的调查工作持续进行中。\n\n**描述：**SCP-CN-3558是一种异常事件，具体表现为：当有人类个体（下称SCP-CN-3558-A）因意外被掩埋在地下导致死亡后，其尸体会被转移至地表。转移方式目前尚不明确，但确信是通过异常技术实现的。\n\n被转移至地表的SCP-CN-3558-A均面部朝上，且表现出宽慰的神情：其双臂放于身体两侧，双手残留一定量的当地土壤；经鉴定项目个体均在生前有强烈挣扎的行为。若死者生前没有挣扎或是事故后立刻死亡，将不会转化为SCP-CN-3558-A。\n\n此外，项目无论在事件发生前受到了何种程度的伤害，伤害部位在转移至地表后均得到的良好的治疗并痊愈。这种治疗似乎是在SCP-CN-3558事发瞬间完成的。\n\n值得注意的是，在SCP-CN-3558-A个体身上均发现一张写有文字的未知材质卡片。（见附录3558-2）\n\n\n**附录：**\n\n @@ @@\n\n**附录 3558-1：**SCP-CN-3558出现记录（节选）\n\n||~ 时间||~ 地点||~ 事件经过||~ 结果||\n||20██/█/█||山西省大同市||一处煤矿矿井因爆破失误导致██人被困，死亡█人；死亡人员中有3人转化为SCP-CN-3558-A。||项目被全部回收；涉事平民均被记忆消除。经检查三个个体生前均有不同程度的受伤，最重者左、右胫骨骨折，但均痊愈。||\n||20██/██/█||西藏自治区||三名登山队员因遭遇雪崩被迫进入一山洞避难，因被冰雪封住洞口、补给消耗殆尽死亡并转化为SCP-CN-3558-A。从现场回收到一台记录了全过程的相机，该相机为一名队员所有。||临近设施Site-CN-777报告了这一情况并临时收容项目个体；随后项目被转移至Area-CN-22。 _\n _\n相机内录像表明三人一直试图通过铲雪来脱困；而最末可见三人已失去行动能力；最后1分钟三人突然全部坐起，并高呼“我们逃出来了”，此后死亡。||\n||20██/█/██||新疆维吾尔族自治区||两名被关押于[[[secure-facility-dossier-site-cn-04|Site-CN-04]]]的敌对现实扭曲者成功越狱后逃窜至周围沙漠内。四天后，快速反应小组发现两人，且两人已死亡。其中一人已转化为SCP-CN-3558-A，且附近有一流沙坑。||确信该项目曾陷入流沙坑内并因此死亡。尸体被回收。||\n@@ @@\n\n**附录 3558-2：**卡片上的文字\n[[div class=\"mox-notice\"]]\n@@ @@//带着希望完整离去。//\n@@ @@\n[[>]]\n//——「彼岸」//\n[[/>]]\n[[/div]]\n\n[[/div]]\n\n@@ @@\n\n\n[[div class=\"footer-wikiwalk-nav\"]]\n[[=]]\n<< [[[SCP-CN-3557]]] | SCP-CN-3558 | [[[SCP-CN-3559]]] >>\n[[/=]]\n[[/div]]\n\n[[include :scp-wiki-cn:component:license-box\n|lang=CN\n|author=AceAttackAssassin\n]]\n=====\n> **文件名称：**area-cn-22-logo-first-bai\n> **图像作者：**[[*user AceAttackAssassin]]\n> **授权协议：**CC BY-SA 3.0\n\n=====\n[[include :scp-wiki-cn:component:license-box-end]]",
+  "tags": [
+    "area-cn-22",
+    "keter",
+    "scp",
+    "原创",
+    "尸体",
+    "死后"
+  ],
+  "author": "AceAttackAssassin",
+  "created_at": "2025-03-15T13:20:58+00:00",
+  "updated_at": "2025-03-22T07:21:09+00:00",
+  "rating": 20,
+  "_site": "scp-wiki-cn",
+  "_fullname": "scp-cn-3558"
+}

@@ -1,0 +1,18 @@
+{
+  "title": "音速挑战者™播放器",
+  "content": "[[span_ class=\"myPreview\" style=\"display: none;\"]]皮靴 头盔 连衣帽 我们殴打鲨鱼！[[/span]]\n\n[[module css]]\n#page-title {\n  display: none;\n}\n.list {\n  width: 450px;\n  max-width: 96.5% !important;\n  margin: 20px auto;\n  background: linear-gradient(30deg,#fee,#fcc);\n  border: solid 1.5px #f66;\n  border-radius: 12.5px;\n  color: #f66;\n}\n.list p {\n  margin-left: 20px;\n  margin-right: 20px;\n}\n.list hr {\n  background: #f66;\n}\n[[/module]]\n\n[[include :scp-wiki-cn:credit:start]]\n**音速挑战者™播放器**\n\n**作者：**[[*user Sekai_s]]\n[[[sekai-s-personnel-file|前往我的作者页]]]查看更多作品\n[[include :scp-wiki-cn:credit:end]]\n\n[[div style=\"text-align: center; font-size: 1.6em; color: #f00;\"]]\nSonic Challenger™ Player\n[[/div]]\n[[div class=\"list\"]]\n[http://scp-wiki-cn.wikidot.com/sonic-challenger-player/offset/1 殴打鲨鱼] - Salmon\n------\n[http://scp-wiki-cn.wikidot.com/sonic-challenger-player/offset/2 O5很忙] - O6乐队\n------\n[http://scp-wiki-cn.wikidot.com/sonic-challenger-player/offset/3 不管谁说话都在听着的Dr.Ninth] - Miss.Ninth\n------\n[http://scp-wiki-cn.wikidot.com/sonic-challenger-player/offset/4 SPC最强大] - Salmon\n------\n[http://scp-wiki-cn.wikidot.com/sonic-challenger-player/offset/5 得过且过的基金会] - 洛天依X言和\n[[/div]]\n[[module ListPages category=\"fragment\" parent=\".\" limit=\"1\" order=\"name\" offset=\"@URL|0\"]]\n%%content%%\n[[/module]]\n\n[!--\ncode:\nhttp://scp-wiki-cn.wikidot.com/fragment:sonic-challenger-player-0\n\n殴打鲨鱼:\nhttp://scp-wiki-cn.wikidot.com/fragment:sonic-challenger-player-1\n\nO5很忙:\nhttp://scp-wiki-cn.wikidot.com/fragment:sonic-challenger-player-2\n\n不管谁说话都在听着的Dr.Ninth:\nhttp://scp-wiki-cn.wikidot.com/fragment:sonic-challenger-player-3\n作者：Ninth BB\n\nSPC最强大:\nhttp://scp-wiki-cn.wikidot.com/fragment:sonic-challenger-player-4\n作者：lichonghe\n\n得过且过的基金会:\nhttp://scp-wiki-cn.wikidot.com/fragment:sonic-challenger-player-5\n作者：GUO-Hang\n--]",
+  "tags": [
+    "原创",
+    "合作",
+    "打鲨鱼中心",
+    "搞笑",
+    "故事",
+    "第五教会"
+  ],
+  "author": "Sekai_s",
+  "created_at": "2018-08-19T12:01:40+00:00",
+  "updated_at": "2020-05-18T15:40:04+00:00",
+  "rating": 143,
+  "_site": "scp-wiki-cn",
+  "_fullname": "sonic-challenger-player"
+}

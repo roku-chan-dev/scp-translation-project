@@ -1,0 +1,16 @@
+{
+  "title": "The Man In Black And White",
+  "content": "[[module CSS]]\n/*\n    Powered on 2023/11/03 12:10:49\n    [2023 Wikidot Theme]\n    Created by PiNKpePpER\n    CC BY-SA 3.0\n*/\n\n\n\nbody {\n    color: #252222;\n}\na,a:visited {\n    color: #885809;\n}\ndiv.page-rate-widget-box,\ndiv.page-rate-widget-box span.rate-points,\ndiv.page-rate-widget-box span.cancel {\n    background-color: #252222!important;\n    border: solid #252222 1px!important;\n}\ndiv.page-rate-widget-box span.rateup,\ndiv.page-rate-widget-box span.ratedown {\n    border: solid #252222!important;\n    border-width: 1px 0!important;\n}\ndiv.page-rate-widget-box span.rate-points,\ndiv.page-rate-widget-box span.cancel a,\ndiv.page-rate-widget-box span.cancel a:hover {\n    color: DCD08D;\n}\ndiv.page-rate-widget-box span.rateup,\ndiv.page-rate-widget-box span.ratedown {\n    background-color: #FAF8F2!important;\n}\ndiv.page-rate-widget-box span.rateup a,\ndiv.page-rate-widget-box span.ratedown a {\n    color: #252222!important;\n}\ndiv.page-rate-widget-box span.cancel a:hover,\ndiv.page-rate-widget-box span.rateup a:hover,\ndiv.page-rate-widget-box span.ratedown a:hover {\n    background: transparent!important;\n    color: transparent!important;\n}\n\n[[/module]]\n\n\n[[>]]\n[[module Rate]]\n[[/>]]\n\n[[image piMiqbR.jpg]]\n[[image piMiXUx.jpg]]\n\n[[div class=\"blockquote\"]]\n[[=]]\n//**Day&Night**//\n\n//{{Awared of the dark sun and the ashes from it, you start to know the moon is a burning shadow of the sun. }}//\n[[/=]]\n[[/div]]\n\n\n[[image piMiTv4.jpg]]\n\n[[div class=\"blockquote\"]]\n\n[[=]]\n//**Anonymity**//\n\n//{{It almost felt dazzling and turbid when their eyes met.}}//\n[[/=]]\n[[/div]]\n\n\nHere goes Nobody and The Man In White this time! The tales of [[*user Tufto]] rly inspired me a lot :DDDDD",
+  "tags": [
+    "artwork",
+    "goi-art",
+    "nobody",
+    "painted"
+  ],
+  "author": "PiNKpePpER",
+  "created_at": "2023-11-03T04:15:42+00:00",
+  "updated_at": "2024-03-28T13:59:00+00:00",
+  "rating": 45,
+  "_site": "scp-wiki",
+  "_fullname": "art:the-man-in-black-and-white"
+}

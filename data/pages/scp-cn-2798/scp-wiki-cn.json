@@ -1,0 +1,32 @@
+{
+  "title": "SCP-CN-2798",
+  "content": "[[module ListPages category=\"fragment\" parent=\".\" limit=\"1\" order=\"name\" offset=\"@URL|0\"]]\n\n%%content%%\n[[/module]]\n[!--\n编辑用链接：\n\n第一迭代：http://scp-wiki-cn.wikidot.com/fragment:scp-cn-2798-01\n第二迭代：http://scp-wiki-cn.wikidot.com/fragment:scp-cn-2798-02\n--]",
+  "tags": [
+    "k级情景",
+    "scp",
+    "不可摧毁",
+    "不可移动",
+    "仪式性",
+    "历史性",
+    "原创",
+    "基金会制",
+    "尸体",
+    "恒星",
+    "时空",
+    "时间影响",
+    "星球",
+    "星际",
+    "未收容",
+    "未来",
+    "机密分级",
+    "破晓",
+    "精品",
+    "重力影响"
+  ],
+  "author": "Diamond_Apple",
+  "created_at": "2022-08-28T10:04:18+00:00",
+  "updated_at": "2022-10-16T02:27:21+00:00",
+  "rating": 464,
+  "_site": "scp-wiki-cn",
+  "_fullname": "scp-cn-2798"
+}

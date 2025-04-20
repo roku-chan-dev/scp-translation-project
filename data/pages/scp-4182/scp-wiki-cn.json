@@ -1,0 +1,24 @@
+{
+  "title": "SCP-4182",
+  "content": "[[module css]]\nsup { \nvertical-align: top; position: relative; top: -0.5em; \n}\n[[/module]]\n\n[!-- Editing this page may royally mess up the code for displaying the iterations. If you notice an error that needs to be fixed, message the author (me) or comment on the discussion page. --]\n\n[[module ListPages category=\"fragment\" parent=\".\" limit=\"1\" order=\"created_at\" offset=\"@URL|0\"]]\n%%content%%\n[[/module]]\n\n[!-- For translators, here is a direct link to each iteration. --]\n[!-- http://scp-wiki-cn.wikidot.com/fragment:scp-4182-1 --]\n[!-- http://scp-wiki-cn.wikidot.com/fragment:scp-4182-2 --]\n[!-- http://scp-wiki-cn.wikidot.com/fragment:scp-4182-3 --]\n[!-- http://scp-wiki-cn.wikidot.com/fragment:scp-4182-4 --]\n[!-- http://scp-wiki-cn.wikidot.com/fragment:scp-4182-5 --]\n[!-- To make ListPages work correctly, make this main page first, then upload the first iteration and set its parent to the first page. Repeat that for each iteration. Remember to change the offset links at the bottom of each iteration to the the correct link for your site. --]\n\n[[footnoteblock]]\n@@@@\n[[div class=\"footer-wikiwalk-nav\"]]\n[[=]]\n<< [[[SCP-4181]]] | SCP-4182 | [[[SCP-4183]]] >>\n[[/=]]\n[[/div]]",
+  "tags": [
+    "keter",
+    "scp",
+    "变形",
+    "地下",
+    "地点",
+    "基金会制",
+    "尸体",
+    "岛",
+    "现象",
+    "精神影响",
+    "视频",
+    "认知危害"
+  ],
+  "author": "ashausesall",
+  "created_at": "2019-07-09T13:25:11+00:00",
+  "updated_at": "2024-06-13T10:59:28+00:00",
+  "rating": 41,
+  "_site": "scp-wiki-cn",
+  "_fullname": "scp-4182"
+}

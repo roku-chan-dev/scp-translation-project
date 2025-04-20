@@ -1,0 +1,14 @@
+{
+  "title": "이미지 설명 블록 베이스",
+  "content": "[[module CSS]]\n.scp-image-block.descr {\n    position: relative;\n}\n\n.scp-image-block.descr .overlay {\n    position: absolute;\n    top: 0;\n    left: 0;\n    height: 100%;\n    width: 100%;\n    padding: 2rem;\n    -webkit-box-sizing: border-box;\n            box-sizing: border-box;\n    overflow: scroll;\n    opacity: 0;\n    -webkit-transition: .2s cubic-bezier(.46, .03, .52, .96);\n    -o-transition: .2s cubic-bezier(.46, .03, .52, .96);\n    transition: .2s cubic-bezier(.46, .03, .52, .96);\n    background-color: rgba(0,0,0,.7);\n    -webkit-backdrop-filter: blur(2px);\n    backdrop-filter: blur(2px);\n}\n\n.scp-image-block.descr .overlay-text {\n    color: #fff;\n    text-align: center;\n}\n\n.scp-image-block.descr .overlay-text h1 {\n    color: inherit;\n}\n\n.scp-image-block.descr .overlay:hover {\n    opacity: 1;\n}\n[[/module]]\n\n[[div class=\"scp-image-block descr block-{$align}\" style=\"width:{$width};\"]]\n[[image {$name} style=\"width:{$width};\" link={$link}]]\n[[div class=\"overlay\"]]\n[[div class=\"overlay-text\"]]\n{$overlay-text}\n[[/div]]\n[[/div]]\n[[div class=\"scp-image-caption\" style=\"width:{$width};\"]]\n{$caption}\n[[/div]]\n[[/div]]",
+  "tags": [
+    "ko",
+    "구성요소-백엔드"
+  ],
+  "author": "Denevola",
+  "created_at": "2021-05-13T15:49:23+00:00",
+  "updated_at": "2021-09-15T11:27:38+00:00",
+  "rating": 0,
+  "_site": "scpko",
+  "_fullname": "component:img-descr-base"
+}

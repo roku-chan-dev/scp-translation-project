@@ -1,0 +1,23 @@
+{
+  "title": "SCP-444-KO",
+  "content": "[[>]]\n[[module Rate]]\n[[/>]]\n\n[[module ListPages  category=\"fragment\" parent=\".\" limit=\"1\" order=\"created_at\" offset=\"@URL|0\"]]\n%%content%%\n[[/module]]\n\n[!-- 문서 목록\nhttp://scpko.wikidot.com/fragment:scp-444-ko-1\nhttp://scpko.wikidot.com/fragment:scp-444-ko-2\nhttp://scpko.wikidot.com/fragment:scp-444-ko-3\nhttp://scpko.wikidot.com/fragment:scp-444-ko-6\n--]",
+  "tags": [
+    "ko",
+    "scp",
+    "강박",
+    "밈적",
+    "사체",
+    "아폴리온",
+    "인간형",
+    "인식재해",
+    "정보재해",
+    "정신조작",
+    "특집"
+  ],
+  "author": "lanlanmag",
+  "created_at": "2015-02-21T11:19:15+00:00",
+  "updated_at": "2024-04-09T19:06:53+00:00",
+  "rating": 86,
+  "_site": "scpko",
+  "_fullname": "scp-444-ko"
+}

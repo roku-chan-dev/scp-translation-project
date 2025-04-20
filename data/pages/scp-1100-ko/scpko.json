@@ -1,0 +1,18 @@
+{
+  "title": "SCP-1100-KO",
+  "content": "@@@@\n@@@@\n[!--\n@는 정보 모듈이 상단바에 가려지는 것을 막기 위해 넣었습니다.]\n--]\n[[include :scpko:info:start]]\n**SCP-1000-KO:** 무한 원숭이 정리\n\n**저자:** [[*user SSRI]]\n\n번역이나 수정이 필요하신 경우 아래의 Fragment 페이지들에 들어가주십시오.\n\nhttp://scpko.wikidot.com/fragment:scp-1100-ko-0\nhttp://scpko.wikidot.com/fragment:scp-1100-ko-1\nhttp://scpko.wikidot.com/fragment:scp-1100-ko-2\nhttp://scpko.wikidot.com/fragment:scp-1100-ko-3\nhttp://scpko.wikidot.com/fragment:scp-1100-ko-4\n----\n[[=]]\n[[[SSRI | 작가 페이지]]]\n[[/=]]\n[[include :scpko:info:end]]\n\n[[module ListPages category=\"fragment\" parent=\".\" order=\"created_at\" limit=\"1\" offset=\"@URL|0\"]]\n%%content%%\n[[/module]]",
+  "tags": [
+    "1000ko",
+    "ko",
+    "scp",
+    "난해한-등급",
+    "수학",
+    "확률"
+  ],
+  "author": "SSRI",
+  "created_at": "2022-11-19T15:03:04+00:00",
+  "updated_at": "2023-01-01T14:23:41+00:00",
+  "rating": 11,
+  "_site": "scpko",
+  "_fullname": "scp-1100-ko"
+}

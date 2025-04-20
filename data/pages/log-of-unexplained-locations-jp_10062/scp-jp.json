@@ -1,0 +1,14 @@
+{
+  "title": "10062",
+  "content": "number: UE-034003-JP\ncontent: 上陸を試みる者に、本島から陸続きであると認識させる島。全身の20％程度が濡れると認識は正常なものに戻る。\ndate: 20██-04-03\narea: '鹿児島県 ███島'\nprotocol: カバーストーリー「致死濃度の火山ガス噴出」を適用して移動自体を禁止。\nredirect-b: '[[module Redirect destination=\"/log-of-unexplained-locations-jp'\nredirect-e: '\"]]'",
+  "tags": [
+    "jp",
+    "剪定対象-子"
+  ],
+  "author": "DMEENB",
+  "created_at": "2021-02-13T01:31:02+00:00",
+  "updated_at": "2021-05-24T13:21:42+00:00",
+  "rating": 21,
+  "_site": "scp-jp",
+  "_fullname": "log-of-unexplained-locations-jp:10062"
+}

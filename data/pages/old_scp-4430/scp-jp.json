@@ -1,0 +1,23 @@
+{
+  "title": "SCP-4430(記録用:Orpheus's Draught / オルフェウスの杯)",
+  "content": "[[include :scp.avn.sh:component:aers:info-stuff\n|lang=en[!-- EN/RU/KO/CN/FR/PL/ES/TH/JP/DE/IT/UA/PTBR --]\n|page=scp-4430[!-- url of your page on the scp wiki --]\n|authorPage=http://www.scp-wiki.net/ayers-array[!-- link to your author page --]\n|comments= **AKA:** A Vial Concoction\n**Theme:** [https://www.youtube.com/watch?v=udQq3-ZFZ7M 「Elysian Night」] \n**Crit Credits:** [[*user Rounderhouse]], [[*user Uncle Nicolini]], [[*user Geckoguy2704]] & [[*user MaliceAforethought]]  \n**Image Credits:** [https://commons.wikimedia.org/wiki/File:Decanter_LACMA_55.32.14a-b.jpg \"Decanter\" by LACMA.org, CC0 (modified)] \n]]\n[[module CSS]]\n#breadcrumbs{display:none;}\n[[/module]]\n[[>]]\n[[module Rate]]\n[[/>]]\n\n[[include component:image-block\nname=18DB0F8B-3AAE-4A08-A143-5722F4349A59.jpeg|\nwidth=220px|\ncaption=SCP-4430が無力化される以前の原物の容器。|\n]]\n**アイテム番号:** SCP-4430\n\n\n**オブジェクトクラス:** Neutralized\n\n\n**特別収容プロトコル:** SCP-4430は標準的なSafeクラスのロッカーに緩衝材と共に収容されていました。SCP-4430のロッカーは職員によるいかなるアクセスの試みに対しても定期的に検査される予定でした。\n\nSCP-4430の使用に際しては厳密に規制が敷かれ、O5評議会のメンバーと倫理委員会からの許可証が求められていました。\n\n\n\n\n**説明:** SCP-4430はエタノールに酷似し、また化学的にも同一と見なされる、透明な液体です。SCP-4430から生じた気体の吸入はAngor animi[[footnote]]患者が自らを死につつあると信じるようになる症状。[[/footnote]]をもたらします。液体状のSCP-4430を個人が摂取した場合には、量の多寡を問わず、その人物は入眠します。\n\n通常この効果を中和するであろういかなる精神状態または薬物療法に拘らず、その人物は深い睡眠状態に入ります。睡眠状態に入ると、その人物は亡くなった近親者や恋人の夢を見ると考えられています。\n@@ @@\n@@ @@\n@@ @@\n[[footnoteblock]]\n@@ @@\n@@ @@\n[[collapsible show=\"このドキュメントは未検証の編集を含みます。続行しますか？\" hide=\"表示中。\"]]\n@@ @@\n[[div style=\"padding: 10px; border: 3px double black;\"]]\n私は今日母さんに再び会った。\n\n彼女は以前の姿そのままに見えた: 親切そうな瞳、柔和な笑顔、茶色の髪。\n彼女は息子がついに自分の元へ帰ってきたことに興奮していた。\n“遅くなっても二度と会えないよりはマシね”、と彼女は言った。\n\n私は彼女に調子を合わせた。\n\nそうして私は母さんと幾ばくかの時間を楽園で過ごした。彼女は私に夕食を作り、最近の様子について尋ね、自分と散歩に行かないかと訊いた。私はできることなら、と答えた… しかし私の言葉は空虚で、彼女はそれを知っていた。私は幸せに違いない。私は他の誰も再び手にすることはできないであろう機会に恵まれていた。これは私のことを大切に思ってくれた人と話をする最後のチャンスだ。なぜこの時間をただ永遠にできないのか？どうして私はただ幸せでいられないのか？\n\n私は泣き崩れた。\n\nたとえ母さんが私の目の前にいたとしても、私には彼女が遠く見えた。不可能なほど遠くに。私は彼女と一緒にはいられないことを告げた。彼女には分からなかった。全てのものは一斉に流れ出し、私に止めるすべはない。私が抱いている全てー悲しみ、嘆き、この甘くも苦い幸福。私が最後にしたのは母さんを泣かせることだった。\n\n私は目覚めた。\n\nでもこの悪夢は終わらなかった。\n\n私はさよならを言うこともできなかったから。\n[[/div]]\n\n\n[[span style=\"margin: 0 2px;  padding: 0 0.5em; background-color: #f4f4f4; border: 1px solid #AAA; color: black;\"]][http://ja.scp-wiki.net/end-of-death-hub 削除][[/span]]\n[[/collapsible]]",
+  "tags": [
+    "_全ては夢",
+    "en",
+    "jam-con2019",
+    "neutralized",
+    "scp",
+    "元記事削除",
+    "死の終焉",
+    "気体",
+    "液体",
+    "睡眠",
+    "精神影響"
+  ],
+  "author": "Lilyatima",
+  "created_at": "2019-03-17T02:17:08+00:00",
+  "updated_at": "2022-07-05T10:15:04+00:00",
+  "rating": 14,
+  "_site": "scp-jp",
+  "_fullname": "old:scp-4430"
+}

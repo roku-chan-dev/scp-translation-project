@@ -1,0 +1,23 @@
+{
+  "title": "SCP-6622",
+  "content": "[[include :scp-wiki-cn:theme:blankstyle]]\n\n[[include :scp-wiki-cn:component:anomaly-class-bar-source\n|lang= cn\n|item-number= SCP-6622\n|clearance= 4\n|container-class= esoteric\n|secondary-class= archon\n|secondary-icon= http://scp-wiki.wdfiles.com/local--files/component%3Aanomaly-class-bar/archon-icon.svg\n|disruption-class=dark\n|risk-class=待观察\n]]\n\n----\n\n[[div class=\"scp-image-block block-center\" style=\"width:100%;\"]]\n[[image https://scp-wiki.wdfiles.com/local--files/scp-6622/6622-lodge.jpeg style=\"width:100%;\" link=https://scp-wiki.wdfiles.com/local--files/scp-6622/6622-lodge.jpeg]]\n[[div class=\"scp-image-caption\" style=\"width:100%;\"]]\nSCP-6622-B-4，目前供应了不列颠哥伦比亚省温哥华都市圈96%的电力。\n[[/div]]\n[[/div]]\n\n----\n\n**特殊收容措施：** MTF Omega-43 (“留待海狸”）负责限制公众对SCP-6622的认知，同时看守6622-B个体直至附近系统能够与之兼容。除此之外，收容限于定期喂食并照看身处高风险地区的6622-A个体。\n\n若有可能，新安排的基金会设施将建造在已有SCP-6622基建服务得到区域。\n\n**描述：** SCP-6622-A是一种美洲海狸（//Castor canadensis//）亚种，能够建造并维护SCP-6622-B。只有6622-A个体能与6622-B展开互动；非异常海狸不会靠近。 \n\nSCP-6622-B是一种海狸堤坝及房屋，能够通过不明且效率反常的原理产生出电力。每处个体能持续输出6800兆瓦电力。[[footnote]]大致等于洛杉矶城市的电力需求峰值。[[/footnote]]当前，基金会已掌握有12处不同的6622-B个体。 \n\nSCP-6622-B产生的电力会通过蘑菇环、树根和其他自然生成的途径灌输到人造电力基建内，通过基建与肥沃土壤的一切接触点进入其中。探明此种传输背后的机制被视为Beta级研究优先事项。\n\nSCP-6622-A个体一般会在偏远或不适当的地点筑坝。MTF Omega-43已将6622-B个体部分整合到96座城市的电力网络中，然而为防止电网超载、加之基金会无法将电力输往高需求区域，每月仍有数千兆瓦的能量被浪费。为SCP-6622开发更优良的管理基建是Alpha级研究优先事项。\n\n针对SCP-6622-A的人工繁育计划、以及野外栖息地迁移均已失败—此类个体只会建造出非异常堤坝。在受控条件下复现此异常是Omega级研究优先事项。\n\n[[include component:image-block name=https://scp-wiki.wdfiles.com/local--files/scp-6622/6622-beaver.jpeg|width=300px|caption=SCP-6622-A-41在预定喂食后不久。]]\n\n**发现：** 11/10/2020，Site-43经历一次灾难性电力超载。而后在5.8公里外的奥赛伯河上发现了第一个已知的SCP-6622建筑。\n\n在九个月内，看守及维护部门主席Amelia Torosyan将站点改建为完全依赖SCP-6622供电。Torosyan的初步设计构成了SCP-6622全球输电系统的基础，自其投入实用以来减少了约四亿五千万吨二氧化碳排放。\n\n**后续：** 在8/3/2021进入Site-43主供电站后，Torosyan主席发现她的工作台上堆了一叠干燥的泥浆和树枝，粗糙塑造为一个爱心的形状。Torosyan申请将此雕塑保留在个人宿舍内，获得批准。\n\n@@ @@\n\n@@ @@\n\n[[include :scp-wiki-cn:component:license-box\nauthor=bigslothonmyface]]\n=====\n> **文件名：6622-lodge**\n> **图像作者：paulyang**\n> **授权协议：CC BY-SA 3.0**\n> **来源链接：https://nl.wikipedia.org/wiki/Bevers_(geslacht)#/media/Bestand:Beaver_dam_in_super_national_forest.JPG**\n=====\n> **文件名：6622-beaver**\n> **图像作者：steve from washington, dc, usa**\n> **授权协议：CC BY-SA 2.0**\n> **来源链接：https://en.wikipedia.org/wiki/Beaver#/media/File:American_Beaver.jpg**\n=====\n[[include :scp-wiki-cn:component:license-box-end]]\n\n[[div class=\"footer-wikiwalk-nav\"]]\n[[=]]\n<< [[[SCP-6621]]] | SCP-6622 | [[[SCP-6623]]] >>\n[[/=]]\n[[/div]]",
+  "tags": [
+    "archon",
+    "scp",
+    "值守43",
+    "动物",
+    "反熵",
+    "啮齿类",
+    "建筑",
+    "树木",
+    "植物",
+    "活物",
+    "电力"
+  ],
+  "author": "ashausesall",
+  "created_at": "2021-09-06T10:30:59+00:00",
+  "updated_at": "2025-02-21T16:51:11+00:00",
+  "rating": 9,
+  "_site": "scp-wiki-cn",
+  "_fullname": "scp-6622"
+}

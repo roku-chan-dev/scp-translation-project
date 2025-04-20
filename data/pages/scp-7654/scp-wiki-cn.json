@@ -1,0 +1,20 @@
+{
+  "title": "SCP-7654",
+  "content": "[[include :scp-wiki-cn:theme:penumbra]]\n\n[[module CSS]]\n:root {\n  --header-title: \"O5指挥部\";\n  --header-subtitle: \"控制 收容 保护\";\n  --accentColor: #c40233;\n}\n[[/module]]\n\n[[include :scp-wiki-cn:credit:start-standalone]]\n\"SCiP币\" by Alexander the Jar\n\n希望大家别拿这名字开加密货币玩笑。\n\n[[include :scp-wiki-cn:credit:end-standalone]]\n\n[[include :scp-wiki-cn:component:anomaly-class-bar-source\n|lang=cn\n|item-number= 7654\n|clearance= 5\n|container-class= 机密\n|secondary-class= thaumiel\n|secondary-icon= https://scp-wiki.wdfiles.com/local--files/component%3Aanomaly-class-bar/thaumiel-icon.svg\n|disruption-class= dark\n|risk-class= 待观察\n]]\n\n------\n\n**特殊收容措施：**未存放于Site-01的安保储物柜中时，SCP-7654需由O5-1随身携带。若SCP-7654丢失，需由[*https://scp-wiki-cn.wikidot.com/task-forces#alpha-1 机动特遣队Alpha-1（“红右手”）]取回。若SCP-7654被另一名O5议会成员发现，他们需尽早将其带回Site-01。\n\n若大多数O5议会成员同意通过掷硬币来打破投票僵局，则明令禁止使用SCP-7654，同时Site-01的监管者Hellenistic.aic将执行虚拟硬币投掷。\n\n**描述：**SCP-7654是一枚由基金会管理员█████ ████████制造并赠予O5-1的纪念币。SCP-7654的表面类似于24k金，质量及形状与普通二十五美分硬币相似。SCP-7654的一面镌刻着SCP基金会的标志，另一面则是代表Thaumiel项目分级的图标。\n\nSCP-7654的异常性质仅在其被一名在任O5议会成员使用时方可显现。若SCP-7654被O5人员为决定结果而抛向空中，特定落地面的概率将极大地偏离典型的掷硬币结果。经测试，确定“Thaumiel面朝上”与“SCiP面朝上”结果的比例为：\n\nX : Y，其中X=当前SCP-001数据库位格中可访问的SCP-001提案数量，Y=当前在SCiPnet数据库中注册的不同SCP项目的数量。\n\n由于该性质，SCP-7654自其最初在19██年基金会成立时赠予O5-1以来，一直可用作一枚几近完美的加权硬币。尚不了解管理员如何赋予SCP-7654异常性质，以及它如何在SCiPnet数据库建立前数十年精确运行。然而，O5-1已证实，管理员创造SCP-7654是受到了基金会早期历史上的一起特殊事件的启发。详见附录01。\n\n**附录01：**历史背景\n\n在O5议会初始成员最早的一次会议上，对一项机密事项的投票以6-6僵局告终。由于管理员与该表决的主题事项有关，他出席了这次会议。然而，由于他们的私人关系，O5-1回避了投票，且O5议会认为管理员在这一具体议题的表决中担任其惯常的打破僵局者角色是不适当的。尽管进行了激烈的讨论，O5议会仍未能解决这一僵局，O5-7提议用掷硬币决定投票结果[[footnote]]O5-7事后澄清其是为了缓解议会成员之间的紧张状态而开的玩笑，且没有严肃对待该提议的意图。[[/footnote]]。被议会惹恼的O5-1很快同意了O5-7的提议，拿出一枚硬币[[footnote]]一枚约19██年的五美分镍币。[[/footnote]]准备投掷。由于冗长无结果的辩论使议会疲倦不堪，他们默认了O5-1的行为。由于O5-7投了赞成票，O5-1请呼声最高的投反对票者O5-11猜测掷硬币结果。O5-11同意，且在O5-1投币时猜了“背面”。\n\n硬币在会议桌大约正中央的位置着陆，但该硬币投掷的结果是硬币竖直立起。全体在场人员皆静默了大约7秒。静默结束时，O5-5[[footnote]]出席会议的各方一致同意O5-5并非有意影响结果，因为众所周知O5-5患有慢性呼吸道疾病，导致他在整个议会会议期间都偶尔咳嗽。[[/footnote]]的突然动作导致桌面轻微振动，硬币以“背面”落地，“正面”朝上。这引起了一片哗然，随后各位议会成员之间展开了激烈争论。O5-1尝试将讨论推迟一段时间，但被管理员的高声大笑分散了注意力。O5-11质疑了这一掷硬币结果的正确性，要求再投掷一次硬币。为了“结束这场闹剧”，O5-8将自己的投票改为了赞成，动议以7-5通过。\n\n在这一次议会会议结束后的数年里，进行了多次测试与研究以确定一种--最为合理的--令人满意的方式来解释这一掷硬币的结果。无任何证据表明该硬币、O5-1，或会议桌有任何异常。许多不同的理论提出以解释这一结果，但大多由于偏见或无法证明或证伪而被忽视：\n\n* O5-10认为O5-2利用了奇术影响了这一结果，但O5-2强烈否认。O5-1指出“如果二有那么微妙的魔法能影响掷硬币的结果，为什么他要让硬币站起来而不是直接正面朝上呢？”\n\n* 根据现代休谟理论的发展，O5-11推测出席会议的人员使用了现实扭曲的力量来影响结果。然而，无证据表明任何一名会议出席人员是绿型异常人形。\n\n* 最合理的解释有是一起超常事件在会议期间出现，由O5-13提出。由于超常事件的性质，不可能决定性地证明或证伪这一理论。\n\n20██年，两名4级人员，皆为记录、档案与信息安全管理部（RAISA）的统计学家，经过O5议会12-1的决议获得了访问SCP-7654文档的特殊权限，以给出对这一掷硬币结果最可信的解释。7个月后，两人向O5-1的办公室提交了一份研究论文。根据他们对有关该事件的所有现有数据的分析，“很有可能”不存在影响该结果的异常或非异常的外部操纵。“最有可能”的解释是硬币自然地竖起来了，这一结果虽然罕见，但并非不可能。\n[[footnoteblock]]\n\n\n\n[[div class=\"footer-wikiwalk-nav\"]]\n[[=]]\n<< [[[SCP-7653]]] | SCP-7654 | [[[SCP-7655]]] >>\n[[/=]]\n[[/div]]\n\n[[include :scp-wiki-cn:component:license-box\nauthor=Alexander the Jar]]\n[[include :scp-wiki-cn:component:license-box-end]]",
+  "tags": [
+    "7000",
+    "scp",
+    "thaumiel",
+    "the-administrator",
+    "人造物品",
+    "基金会制",
+    "概率性",
+    "货币"
+  ],
+  "author": "Esperanza_Cai",
+  "created_at": "2022-08-11T09:29:48+00:00",
+  "updated_at": "2023-06-26T13:29:30+00:00",
+  "rating": 13,
+  "_site": "scp-wiki-cn",
+  "_fullname": "scp-7654"
+}

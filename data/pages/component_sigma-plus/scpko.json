@@ -1,0 +1,14 @@
+{
+  "title": "시그마+",
+  "content": "[[module css]]\n@import url(https://scp-wiki.wdfiles.com/local--code/component%3Asigma-plus/1);\n@import url(http://scpko.wdfiles.com/local--code/component%3Asigma-plus/1);\n[[/module]]\n\n[[iftags +구성요소]]\n\n[[>]]\n[[module Rate]]\n[[/>]]\n\n[[include :scpko:info:start]]\n**시그마+**\nhttps://scp-wiki.wikidot.com/component:sigma-plus\n**원작:** [[*user EstrellaYoshte]]\n**번역:** [[*user thd-glasses]]\n[[include :scpko:info:end]]\n\n[[div style=\"border: solid 2px #ededed; padding: 0.5rem;\"]]\n이것은 테마 제작을 위한 보조 레이어로 이용하기 위해 [[*user EstrellaYoshte]]가 제작한 메타 구성요소입니다.\n사용하기 위해서 아래 텍스트를 입력하세요.\n\n> @@[[include :scpko:component:sigma-plus]]@@\n\n시그마+는 기존 시그마 테마 원형의 미감을 보존하면서도 더 현대적인 CSS 관습과 속성을 사용합니다.\n\n* 확장형 CSS 변수\n* 그리드 및 플렉스 기반 레이아웃\n* TAB 완전대응 상단바/사이드바\n* 우종서 텍스트 대응\n\n+++ 개발자 노트\n\n본 구성요소의 핵심 발상은 사이트 테마의 기반 레이아웃 구식화를 해결하는 부담을 완화해보자는 것입니다. 구식화된 시그마는 테마 커스터마이즈에 쓸 수 있는 도구의 가짓수를 제약하고, 의도한 레이아웃 구현에 필요한 것보다 훨씬 지나친 CSS 복잡성을 유발하며, 최적화되지 않은 CSS로 인해 문제를 더욱 악화시킵니다. 또는 이 셋이 기막히게 꼬여서 발생하거나요.\n\n시그마+는 호환 레이어로서 직통성을 최대화하기 위해 대부분의 코드에 대해선 기존 테마 코드의 의미적/시각적 흐름을 재설정하는 데에만 초점을 맞춥니다. 예외, 즉 대대적으로 뜯어고친 부분은 다음 요소들에 한정됩니다.\n\n* **헤더 배경**: 원래는 {{#container-wrap}}의 통짜 배경 이미지를 사용했지만, 이는 {{#header}}나 {{#top-bar}} 요소와 실제로 연결된 요소가 아니라서 해당 요소들의 사이즈나 레이아웃이 (사용자 설정, 브라우저 특성, 화면 크기 등으로 인해) 변경되었을 때 연동되지 못했습니다. 이를 두 div의 {{background-image}}로 직접 삽입하도록 고쳤습니다.\n* **상단바 펼침 메뉴**: 방해되는 위키닷 디폴트 스타일을 덮어 지워서 화면 크기에 더 잘 대응하도록 조정했습니다. 또한 TAB 키를 이용해 각 펼침 메뉴를 둘러볼 수 있습니다.\n* **평가 & 정보 모듈**: 의미론적으로 더 명확하게 분리시키고, 변수를 이용해 쉽게 조정할 수 있도록 상당히 수정했습니다. 정보 모듈의 특유한 CSS를 배제했습니다.\n* **탭**: 탭 스타일화에 사용되는 스프라이트시트를 CSS 변수로 대체했습니다. 다루기 조금 쉬워졌습니다.\n\n+++ 예시\n\n[[image https://scp-wiki.wdfiles.com/local--files/component%3Asigma-plus/plus-example.png]]\n\n[[div class=\"code\"]]\n:root {\n@@    --header-title: \"We don't have a 55\";@@\n@@    --sp_header-height: 21.75rem;@@\n}\n[[/div]]\n\n[[/div]]\n\n++ 소스 코드:\n\n[[code type=\"css\"]]\n:where(:root) {\n    --header-title: \"SCP 재단\";\n    --header-subtitle: \"확보, 격리, 보호\";\n}\n[[/code]]\n\n[[/iftags]]",
+  "tags": [
+    "en",
+    "구성요소"
+  ],
+  "author": "thd-glasses",
+  "created_at": "2023-02-20T22:27:45+00:00",
+  "updated_at": "2023-02-20T22:53:05+00:00",
+  "rating": 2,
+  "_site": "scpko",
+  "_fullname": "component:sigma-plus"
+}

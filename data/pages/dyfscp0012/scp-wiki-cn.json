@@ -1,0 +1,30 @@
+{
+  "title": "Dafydd Utica Foolfellow的提案",
+  "content": "[[module css]]\n@import url(https://maxcdn.bootstrapcdn.com/font-awesome/4.3.0/css/font-awesome.min.css);\n@import url('https://fonts.googleapis.com/css2?family=Noto+Sans+SC&display=swap');\n@import url('https://fonts.googleapis.com/css2?family=Noto+Serif+SC:wght@200&display=swap');\n@import url(https://scp-wiki.wdfiles.com/local--files/component%3Atheme/font-bauhaus.css);\n\n@font-face {\n    font-family: Inter;\n    font-style: normal;\n    font-weight: 100 900;\n    font-display: swap;\n    src: url('https://scpwiki.github.io/sigma/fonts/Inter-roman.var.woff2?v=3.19') format('woff2')\n}\n\n@font-face {\n    font-family: Inter;\n    font-style: italic;\n    font-weight: 100 900;\n    font-display: swap;\n    src: url('https://scpwiki.github.io/sigma/fonts/Inter-italic.var.woff2?v=3.19') format('woff2')\n}\n\n@font-face {\n    font-family: 'Sans Normalcy';\n    font-style: normal;\n    font-weight: 700;\n    font-display: swap;\n    src: url('https://scpwiki.github.io/sigma/fonts/Sans-Normalcy.woff2') format('woff2')\n}\n\n@font-face {\n    font-family: 'Nanum Gothic';\n    font-style: normal;\n    font-weight: 400;\n    font-display: swap;\n    src: url('https://scpwiki.github.io/sigma/fonts/NanumGothic-Regular.woff2') format('woff2')\n}\n\n@font-face {\n    font-family: 'Nanum Gothic';\n    font-style: normal;\n    font-weight: 700;\n    font-display: swap;\n    src: url('https://scpwiki.github.io/sigma/fonts/NanumGothic-Bold.woff2') format('woff2')\n}\n\nbody {\n    font-family: Inter, 'Noto Sans SC', BlinkMacSystemFont, 'heiti', 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Fira Sans', 'Droid Sans', 'Helvetica Neue', sans-serif;\n    font-feature-settings: 'case', 'ss01', 'ss04';\n    font-size: 0.85em;\n}\n\n#header h1 a {\n    font-family: 'Sans Normalcy', 'Noto Sans SC', 'Nanum Gothic', Arial, sans-serif;\n}\n\n@media (max-width:767px) {\n    #top-bar .open-menu a {\n        font-family: 'Nanum Gothic', 'Noto Sans SC', sans-serif;\n    }\n\n    body {\n        font-size: 0.80em;\n    }    \n}\n\nstrong {\n    font-weight: 800 !important;\n}\n\ntt {\n    font-family: 'Andale Mono', 'Courier New', 'Noto Serif SC', Courier, 'songti', monospace;\n    font-size: 100% !important;\n}\n\n.footnotes-footer {\ndisplay:none;\n}\n[[/module]]\n\n[[module ListPages category=\"fragment\" parent=\".\" order=\"created_at\" limit=\"1\" offset=\"@URL|0\"]]\n%%content%%\n[[/module]]\n\n[!-- http://scp-wiki-cn.wikidot.com/fragment:dyfscp0012-1 --]\n[!-- http://scp-wiki-cn.wikidot.com/fragment:dyfscp0012-2 --]\n[!-- http://scp-wiki-cn.wikidot.com/fragment:dyfscp0012-3 --]\n[!-- http://scp-wiki-cn.wikidot.com/fragment:dyfscp0012-4 --]\n[!-- http://scp-wiki-cn.wikidot.com/fragment:dyfscp0012-5 --]\n[!-- http://scp-wiki-cn.wikidot.com/fragment:dyfscp0012-6 --]\n[!-- http://scp-wiki-cn.wikidot.com/fragment:dyfscp0012-7 --]\n[!-- http://scp-wiki-cn.wikidot.com/fragment:dyfscp0012-8 --]\n[!-- http://scp-wiki-cn.wikidot.com/fragment:dyfscp0012-9 --]\n\n[[include :scp-wiki-cn:component:license-box\n|author=daveyoufool\n|translator=Ambersight & dingxiaoshu\n]]\n=====\n> **文件名：**pallit.png\n> **图像作者：**[[*user daveyoufool]]\n> **汉化：**[[*user Ambersight]] & [[*user dingxiaoshu]]\n> **授权协议：**CC BY-SA 3.0\n> **来源链接：**SCP 基金会维基\n\n> **文件名：**surfacearea.png\n> **图像作者：**Dummyfish[[footnote]]（嘿，别对自己太苛刻了。）[[/footnote]]（经由[[*user daveyoufool]]编辑）\n> **授权协议：**CC0 1.0\n> **来源链接：**[https://commons.wikimedia.org/wiki/File:World_Map_Land.png https://commons.wikimedia.org/wiki/File:World_Map_Land.png]\n\n> **文件名：**wewillendure.png\n> **图像作者：**[[*user daveyoufool]]\n> **汉化：**[[*user Ambersight]]\n> **授权协议：**CC BY-SA 3.0\n> **来源链接：**SCP 基金会维基\n\n> **文件名：**green.png\n> **图像作者：**美国林务局 - 太平洋西北地区[[footnote]]（经由[[*user daveyoufool]]编辑——我知道授权不需要这个（如果有授权的话），但我不希望你以为这么炫酷的东西是真实存在的，因此满怀期望。尤其是在西北太平洋地区。,,该死的潮哥,,）[[/footnote]]\n> **授权协议：**公共领域\n> **来源链接：**[https://commons.wikimedia.org/wiki/File:Twilight_Sky_with_Stars_and_Moon_on_Boulder_Ridge_at_Mt_Baker,_Mt_Baker_Snoqualmie_National_Forest_(31298200293).jpg 有趣的事实：这个 URL 长得离谱]\n\n> **文件名：**pallit2.png\n> **图像作者：**[[*user daveyoufool]]\n> **汉化：**[[*user Ambersight]]\n> **授权协议：**CC BY-SA 3.0\n> **来源链接：**SCP 基金会维基\n\n> **文件名：**p_a_l_l_i_t.png\n> **图像作者：**[[*user daveyoufool]] 和 / 或 [[*user daveyoufool]] 的压床鬼[[footnote]]（多谢了，吓人的伙计们！）[[/footnote]]\n> **授权协议：**CC BY-SA 3.0\n> **来源链接：**SCP 基金会维基\n\n> **文件名：**violet.png\n> **图像作者：**[[*user daveyoufool]]\n> **授权协议：**CC BY-SA 3.0\n> **来源链接：**SCP 基金会维基\n\n> **文件名：**grouphug.jpg\n> **图像作者：**Bountiful 的 Brian，美国犹他州[[footnote]]（这个州怎么什么都有？）[[/footnote]]\n> **授权协议：**CC 2.0 Generic\n> **来源链接：**[https://commons.wikimedia.org/wiki/File:Makelessnoise_-_Close-Up_of_a_Star_in_H-Alpha_(by).jpg https://commons.wikimedia.org/wiki/File:Makelessnoise_-_Close-Up_of_a_Star_in_H-Alpha_(by).jpg]\n=====\n[[include :scp-wiki-cn:component:license-box-end]]",
+  "tags": [
+    "001提案",
+    "k级情景",
+    "meta",
+    "scp",
+    "totleigh软件",
+    "人工智能",
+    "人形生物",
+    "传送",
+    "宗教",
+    "智能",
+    "机密分级",
+    "活物",
+    "熵",
+    "现实扭曲",
+    "电子",
+    "电脑",
+    "种群",
+    "超维度"
+  ],
+  "author": "Ambersight",
+  "created_at": "2023-07-14T13:59:43+00:00",
+  "updated_at": "2024-05-14T16:03:59+00:00",
+  "rating": 32,
+  "_site": "scp-wiki-cn",
+  "_fullname": "dyfscp0012"
+}

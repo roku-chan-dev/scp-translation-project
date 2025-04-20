@@ -1,0 +1,21 @@
+{
+  "title": "SCP-245",
+  "content": "[[>]]\n[[module Rate]]\n[[/>]]\n\n**アイテム番号:** SCP-245\n\n**オブジェクトクラス:** Safe\n\n**特別収容プロトコル:** SCP-245-1のコピーは外部ネットワークから隔離されたコンピュータに収容されます。これらのコンピュータは[http://ja.scp-wiki.net/secure-facility-dossier-site-88 サイト-88]のセクションC10階に置かれます。SCP-245-1のそれぞれのバージョンは監視され、収容の継続を確実にするために定期的に完了されます。\n\nSCP-245-1のゲーム世界の主要な変更はSCP-245のプロジェクト主任に報告されます。いかなる状況下であってもSCP-245-1内で遭遇する存在に対して、SCP-245-1のマスターパスワードを明らかにしてはなりません。\n\n**説明:** SCP-245に関する情報は[[[http://ja.scp-wiki.net/local--files/scp-245/SCP-245-1.zip | SCP-245-1.zip]]]を参照して下さい。\n> 注: SCP-245-1はOSCPまたはWindowsオペレーティングシステムを使用したシステム上でのみ動作します。\n\n[[html]]\n<head>\n<script language=\"javascript\">\n\nfunction LogIn(){\nloggedin=false;\npassword=\"\";\npassword=prompt(\"Password:\",\"\");\npassword=password.toLowerCase();\n\n// Add password-->\nif (password==\"welcome2corneria\") {\nloggedin=true;\nwindow.open('/scp-245-1-a');\n}\n\n\n// If login incorrect -->\nif (loggedin==false) {\nalert(\"無効なパスワード\");\n}\n}\n\n</script>\n\n</head>\n\n<body>\n<form><input type=button value=\" SCP-245-1-Aへアクセスしますか？\" onClick=\"LogIn()\"></form>\n</body>\n[[/html]]\n\n[[html]]\n<html>\n<head>\n<script type=\"text/javascript\">\nfunction setVar()\n{\n    if (sessionStorage.read != 1)\n    {\n        sessionStorage.setItem('read', 1);\n    }\n}\n</script>\n</head>\n<body onLoad=\"setVar();\">\n</body>\n</html>\n[[/html]]",
+  "tags": [
+    "en",
+    "safe",
+    "scp",
+    "インタラクティブ",
+    "ゲーム",
+    "メタ",
+    "要翻訳",
+    "語り",
+    "賞典-注目記事"
+  ],
+  "author": "amamiel",
+  "created_at": "2017-06-04T15:14:16+00:00",
+  "updated_at": "2024-02-21T12:28:23+00:00",
+  "rating": 32,
+  "_site": "scp-jp",
+  "_fullname": "scp-245"
+}

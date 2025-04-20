@@ -1,0 +1,13 @@
+{
+  "title": "More By Deadly Bread",
+  "content": "[[=]]\n[[div style=\"font-weight: bold;\"]]\n[[size 120%]]**Other Articles of Mine**[[/size]]\n\n[[module ListPages created_by=\"Deadly Bread\" separate=\"no\" order=\"rating desc\" tags=\"+scp -co-authored\" prependLine=\"||||~ SCPs ||\"]]\n|| %%title_linked%% || Rating: %%Rating%% ||\n[[/module]]\n\n[[module ListPages created_by=\"Deadly Bread\" separate=\"no\" order=\"rating desc\" tags=\"+tale -co-authored\" prependLine=\"||||~ Tales ||\"]]\n|| %%title_linked%% || Rating: %%Rating%% ||\n[[/module]]\n\n[[module ListPages created_by=\"Deadly Bread\" separate=\"no\" order=\"rating desc\" tags=\"-scp -tale -goi-format -co-authored -splash\" prependLine=\"||||~ Other ||\"]]\n|| %%title_linked%% || Rating: %%Rating%% ||\n[[/module]]\n\n**Collab Articles**\n\n||||||~ SCPs ||\n||~ Page ||~ Title ||~ Co-Author ||\n|| **[[[SCP-4733]]]** || **But Not Forgotten** || [[*user Lamentte]] ||\n|| **[[[SCP-5225]]]** || **The Abyss Stares Back** || [[*user XilasCrowe]] ||\n|| **[[[SCP-5785]]]** || **Craptivism** || [[*user Sonderance]] ||\n|| **[[[SCP-5993]]]** || **We want you to come visit Heaven, just don't fuck with those bees** || [[*user ch00bakka]] ||\n\n||||||~ Tales ||\n||~ Page ||~ Co-Author ||\n|| **[[[the-bathrooms-wiki|The Bathrooms Wiki]]]** || Too many to list ||\n|| **[[[broken-masquerade-epistolary|Snippets of an Unveiled World]]]** || [[*user Nykacolaquantum]], [[*user Lt Flops]], [[*user IFBench]], [[*user Westrin]] ||\n|| **[[[gone|Gone,]]]** || [[*user Lamentte]] ||\n|| **[[[your-imaginary-friend|Your Imaginary Friend ]]]** || [[*user Fishish]] ||\n-----\n[http://www.scp-wiki.net/the-bread-box Check out Deadly Bread's Author Page]\n[[/div]]\n[[/=]]",
+  "tags": [
+    "more-by"
+  ],
+  "author": "Deadly Bread",
+  "created_at": "2021-08-31T22:11:58+00:00",
+  "updated_at": "2022-04-10T09:49:48+00:00",
+  "rating": 3,
+  "_site": "scp-wiki",
+  "_fullname": "more-by:deadly-bread"
+}

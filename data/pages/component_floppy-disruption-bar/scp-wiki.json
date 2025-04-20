@@ -1,0 +1,13 @@
+{
+  "title": "Flops Disruption Bar",
+  "content": "[[iftags -component]]\n[[module CSS]]\n a.disruptionHeader{\n     display: inline-block;\n     width: 100%;\n     padding: .3em 0;\n\n     color: hsl(0, 0%, 91.5%);\n\n     font-size: 145%;\n     line-height: 1;\n     text-align: center;\n     text-decoration: none;\n     text-shadow:\n          .5px    .9px  0 hsla(0, 0%, 0%, .3),\n        1.5px   2.6px  0 hsla(0, 0%, 0%, .3);\n     text-transform: uppercase;\n     transition: color .15s linear;\n}\n\n a.disruptionHeader:hover{\n     color: white;\n     background-color: transparent;\n     text-decoration: none;\n}\n[[/module]]\n\n[[a href=\"*/anomaly-classification-system-guide\" class=\"disruptionHeader\" style=\"background-color: {$disruption-bg-color};\"]][[span style=\"font-weight: 900;\"]]DISRUPTION CLASS:[[/span]]@@ @@{$disruption}[[/a]]\n[[/iftags]]\n\n[[iftags +component]]\n[[code]]\n[[module CSS]]\n a.disruptionHeader{\n     display: inline-block;\n     width: 100%;\n     padding: .3em 0;\n\n     color: hsl(0, 0%, 91.5%);\n\n     font-size: 145%;\n     text-align: center;\n     text-decoration: none;\n     text-shadow:\n          .5px    .9px  0 hsla(0, 0%, 0%, .3),\n        1.5px   2.6px  0 hsla(0, 0%, 0%, .3);\n     text-transform: uppercase;\n     transition: color .15s linear;\n}\n\n a.disruptionHeader:hover{\n     color: white;\n     background-color: transparent;\n     text-decoration: none;\n}\n[[/module]]\n\n[[a href=\"*/anomaly-classification-system-guide\" class=\"disruptionHeader\" style=\"background-color: {$disruption-bg-color};\"]][[span style=\"font-weight: 900;\"]]DISRUPTION CLASS:[[/span]]@@ @@{$disruption}[[/a]]\n[[/code]]\n[[/iftags]]",
+  "tags": [
+    "component"
+  ],
+  "author": "Lt Flops",
+  "created_at": "2019-11-07T05:12:41+00:00",
+  "updated_at": "2022-04-29T07:41:44+00:00",
+  "rating": 5,
+  "_site": "scp-wiki",
+  "_fullname": "component:floppy-disruption-bar"
+}

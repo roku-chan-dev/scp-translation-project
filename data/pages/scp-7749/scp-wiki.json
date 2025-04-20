@@ -1,0 +1,29 @@
+{
+  "title": "SCP-7749",
+  "content": "[[>]]\n[[module rate]]\n[[/>]]\n\n[[module ListPages category=\"fragment\" parent=\".\" order=\"created_at\" limit=\"1\" offset=\"@URL|0\"]]\n%%content%%\n[[/module]]\n\n[[div class=\"footer-wikiwalk-nav\"]]\n[[=]]\n<< [[[SCP-7748]]] | SCP-7749 | [[[SCP-7750]]] >>\n[[/=]]\n[[/div]]\n\n[[include :scp-wiki:component:license-box]]\n=====\n> **Filename:** Mug with beverage\n> **Author:** Corn cheese\n> **License:** CC BY-SA 4.0\n> **Source Link:** [https://commons.wikimedia.org/wiki/File:Mug_with_beverage.jpg]\n=====\n=====\n> **Filename:** Static mixer filled with glue\n> **Author:** Suvroc\n> **License:** CC BY-SA 3.0\n> **Source Link:** [https://commons.wikimedia.org/wiki/File:Static_mixer_filled_with_glue.jpg]\n=====\n=====\n> **Filename:** Glitch Art en Argentina\n> **Author:** Lucas Rafael Tenllado Gil\n> **License:** CC BY-SA 4.0\n> **Source Link:** [https://commons.wikimedia.org/wiki/File:Glitch_Art_en_Argentina.jpg]\n=====\n=====\n> **Filename:** Reno, Nevada photo D Ramey Logan\n> **Author:** Don Ramey Logan\n> **License:** CC BY-SA 4.0\n> **Source Link:** [https://commons.wikimedia.org/wiki/File:Reno,_Nevada_photo_D_Ramey_Logan.jpg]\n=====\n[[include :scp-wiki:component:license-box-end]]",
+  "tags": [
+    "_cc",
+    "_goblin-glitch",
+    "_licensebox",
+    "_listpages",
+    "artifact",
+    "delta-t",
+    "foundation-made",
+    "goblincon2023",
+    "keter",
+    "reality-bending",
+    "scp",
+    "simulacrum",
+    "spatial",
+    "teleportation",
+    "temporal",
+    "thermal",
+    "transfiguration"
+  ],
+  "author": "Rhineriver",
+  "created_at": "2023-05-26T03:56:36+00:00",
+  "updated_at": "2024-03-26T20:17:35+00:00",
+  "rating": 55,
+  "_site": "scp-wiki",
+  "_fullname": "scp-7749"
+}

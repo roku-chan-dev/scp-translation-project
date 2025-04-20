@@ -1,0 +1,18 @@
+{
+  "title": "SCP-6961",
+  "content": "[[include :scp-wiki-cn:theme:classic]]\n[[include :scp-wiki:theme:flopstyle]]\n[[include :scp-wiki:component:centered-header-sigma-9]]\n\n[[module CSS]]\n :root{\n   --header-title: \"SCP基金会\";\n   --header-subtitle: \"战术神学部\";\n   --lgurl: url(https://scp-wiki.wdfiles.com/local--files/theme%3Aad-abyssum/Department%20of%20Tactical%20Theology%20Inverted%20Transparent.png);\n}\n.footnotes-footer {\n    visibility: hidden;\n    height: 0;\n    padding: 0;\n    margin: 0;\n}\n[[/module]]\n\n\n[[include :scp-wiki-cn:component:author-label-source start=--\n|name=NDHeckfire]]\n**SCP-6961** - 厌恨消息，而非信使\n\n//灵感来自于[[*user DrClef]]所作的[[[dr-clef-s-proposal|SCP-001]]]。//\n\n[[[https://scp-wiki-cn.wikidot.com/ndheckfire|我的更多作品！]]]\n[[include :scp-wiki-cn:component:author-label-source end=--]]\n\n\n**项目编号：**SCP-6961\n\n**项目等级：**Phenomenon\n\n**特殊收容措施：**需向目击SCP-6961的平民施加标准A级记忆删除。任何与SCP-6961相关的视频和/或音频证据需由基金会网络爬虫EGGSHAFT.aic追踪并删除。\n\n**描述：**SCP-6961是对2018年5月5日自发出现的一次异常事件的编号，其时一个巨型有翼的人形实体突然显现在意大利罗马梵蒂冈城上方约200米处。\n\n事件期间，该实体（下称SCP-6961-A）以英语向下方人群大声发言数秒，随后从梵蒂冈完全消失。以下是该事件的文字抄录，最初录制于一名平民的手机上：\n\n[[div class=\"blockquote\"]]\n\n= **<记录开始>**\n\n//镜头向上对准天空，拍摄了城中的几个穹顶结构和雕刻建筑。//\n\n//突然出现的亮光遮蔽了镜头，视频录音稍有停顿。亮光减弱后，可见SCP-6961-A浮在空中，低头做出恳求的姿态。//\n\n//实体抬头，面向下方人群，开始发声。//\n\n**SCP-6961-A：**看哪，凡人！因我带来了你们主的重要消息！\n\n//SCP-6961-A从右手上显现出一卷羊皮纸，并将其展开。//\n\n**SCP-6961-A：**（//清嗓子//）“发音应该是'Shee-zus'。下次麻烦喊对。”\n\n//羊皮纸消失。//\n\n**SCP-6961-A：**这便是主的重要消息！愿祂睿智的话语指引你们走上正确的道路！\n\n//SCP-6961-A对近处的十字架鞠躬，随后完全消失。//\n\n= **<记录结束>**\n\n[[/div]]\n\n[[[scp-6130|战术神学部]]]已被指派研究SCP-6961的性质。\n\n@@ @@\n\n[[=]]\n[[div class=\"footer-wikiwalk-nav\"]]\n<< [[[SCP-6960]]] | SCP-6961 | [[[SCP-6962]]] >>\n[[/div]]\n[[/=]]\n\n[[include :scp-wiki-cn:component:license-box\nauthor=NDHeckfire]]\n=====\n[[include :scp-wiki-cn:component:license-box-end]]",
+  "tags": [
+    "scp",
+    "人形生物",
+    "宗教",
+    "战术神学部",
+    "智能",
+    "机密分级"
+  ],
+  "author": "Esperanza_Cai",
+  "created_at": "2022-08-10T07:23:10+00:00",
+  "updated_at": "2023-08-09T09:42:14+00:00",
+  "rating": 2,
+  "_site": "scp-wiki-cn",
+  "_fullname": "scp-6961"
+}

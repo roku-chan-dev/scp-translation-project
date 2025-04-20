@@ -1,0 +1,11 @@
+{
+  "title": "SCP-3000-JP 私がしたことの全て5",
+  "content": "[[module css]]\n.footnoteref{\ncolor: #FF5555;\n}\n.danke{\npadding: 5px 5px 5px 15px;\nmargin-bottom:10px;\nwidth: 100%;\nfont-family: normal;\nfont-size: 1.1em; }\n\n.agent{\nbackground-color:white;\nborder: 3px solid black;\ncolor: #black;\n}\n\n.site{\nbackground-color:#222200;\nborder: 3px solid #AAAA55;\ncolor: #DDDD77;\n}\n[[/module]]\n[[div class=\"danke agent\"]]\n**アイテム番号:** N/A\n\n**オブジェクトクラス:** Safe\n\n**特別収容プロトコル:** 当オブジェクトは事案3999-Nを引き起こす要因であったため秘匿されています。当オブジェクトの研究は除外サイト内で行う必要がありますが、研究に必要性はありません。探さないでください。\n\n**説明:** 当オブジェクトは抽出された\"幻想\"のイメージです。当オブジェクトについての詮索を行い、何らかの感情を抱いた職員は当オブジェクトのイメージの一部として取り込まれます[[footnote]]除外サイトおよび除外フィルターが展開されているフィールド内ではこの限りではありません。[[/footnote]]。また、当オブジェクトはこの世界が幻想であることを示しうるため、低クリアランスレベル保有者への情報の開示は行うべきではないと考えられます。\n\n当情報を閲覧する人物には対クオリア式記憶処理を施し、クオリア連結体の反応を中和させることで暴露を防ぎます。1回目の閲覧後に当処置を受けた場合当ファイルの内容を知覚することは不可能ですが、2回目以降の閲覧では知識として貯蓄可能です。\n\n> 後は任せます。--テレス博士\n\n> 私の仕事はこれで終わり。--ソフィア博士\n\n[[/div]]",
+  "tags": [],
+  "author": "CENOW",
+  "created_at": "2022-12-18T14:52:39+00:00",
+  "updated_at": "2022-12-23T12:40:30+00:00",
+  "rating": -10,
+  "_site": "scp-jp",
+  "_fullname": "deleted:scp-3000-jp-cenow-5"
+}

@@ -1,0 +1,13 @@
+{
+  "title": "建立一个新页面",
+  "content": "[[module CSS]]\n#page-title {\n  display: none;\n}\n[[/module]]\n> “博士，这份邮件的内容实在是……有些微妙。”\n> “那你来发？”\n> “额，还是算了……”\n> ……\n> “那个，我们接下来还回基金会吗？”\n> “你有证件吗？”\n> “没有。”\n> “我也没有。刚刚去隔壁人事资料库里查了查，也没找到我们两个。”\n> “那我们现在去哪啊。”\n> “唔……不如开一家图书馆？”\n> “啊？”\n@@@@\n@@@@\n@@@@\n@@@@\n你想访问的档案 ##red|SCP-CN-3157## 不存在。\n\n[[collapsible show=\"建立档案\" hide=\"取消\"]]\n**[[size 175%]]##red|建立一个新页面##[[/size]]**\n[[html]]\n\n<style type=\"text/css\" id=\"internal-style\">\n\n  @import url('https://d3g0gp89917ko0.cloudfront.net/v--edac79f846ba/common--theme/base/css/style.css');\n  @import url('https://scp-wiki.wdfiles.com/component:theme/code/1');\n</style>\n\n\n  <span>页面标题:</span>\n  <br>\n  <input class=\"text form-control\" style=\"font-weight:bold; font-size: 1.04rem;\" value=\"SCP-CN-3157\" readonly>\n  <img src=\"//scp-wiki.wdfiles.com/local--files/scp-3309/buttons.png\">\n\n  <div><textarea rows=\"10\" style=\"width:95%;\" id=\"fakepost\" onkeypress=\"description()\" wrap=\"hard\">\n    </textarea>\n  </div>\n  <div class=\"change-textarea-size\">\n    <a href=\"javascript:;\">-</a>\n    <a href=\"javascript:;\">+</a>\n  </div>\n\n  <div class=\"edit-help-34\">\n    帮助：<a target=\"_blank\" href=\"//www.wikidot.com/doc:quick-reference\">维基语法快速参考</a>\n  </div>\n\n  <div class=\"buttons alignleft\">\n    <input class=\"btn\" value=\"取消\" type=\"button\">\n    <input class=\"btn\" value=\"预览\" type=\"button\">\n    <input class=\"btn\" value=\"发表\" type=\"button\">\n  </div>\n</div>\n[[/html]]\n\n[[/collapsible]]",
+  "tags": [
+    "段落"
+  ],
+  "author": "Raphmandas",
+  "created_at": "2024-10-23T13:02:49+00:00",
+  "updated_at": "2024-10-24T02:57:05+00:00",
+  "rating": 0,
+  "_site": "scp-wiki-cn",
+  "_fullname": "fragment:scp-cn-3157-3"
+}

@@ -1,0 +1,13 @@
+{
+  "title": "...欢迎！你找到了真正的结局！",
+  "content": "[[include :scp-wiki-cn:theme:black-highlighter-theme]]\n\n+* [[# you-failed-to-escape]]研究员活着的时候并未逃离，直到死后才从站点的某个缝隙里重返现实。\n\n> **如果拥有高于平均休谟水平的人是一个现实扭曲者，那低于平均水平的呢？**\n> //-研究员W.//\n> \n> 好问题！目前针对这些人的研究还不多，但初步结果表明他们无法反抗现实，结果就活得……呃，就像现实希望他们活的那样。这种人就是典型的“自带光环”或“命运多舛”人士，他们一生的经历往往都能写本书。从初步研究中调查的五个人来看，一个就是《格林童话》里的灰姑娘翻版，一个遭遇了一连串倒霉事（包括买了几千美元安然公司[[footnote]]安然公司原是世界上最大的综合性天然气和电力公司之一，于2001年破产[[/footnote]]的股票，被雷劈五次，在手机电池爆炸中丢了一根手指等等），另两个是中层经理，还有一个在O5的位子上干了五十多年。这到底意味着什么依旧是众说纷纭，有待于更多研究。\n>  —— 节选自《FAQ第二部分；或者说，你所提关于休谟问题的回答》 \n\n\n灯泡亮起，嗡鸣声和散热风扇的运作声静静地回荡在可以被称为空旷的场地。\n//**[滴，滴]**//\n身穿生化隔离服的人员小心翼翼地进入房间，为这台机子更换了营养液并对它进行了一次简单的消毒。一切都必须非常小心，因为它很脆弱，只有裸露在外的血肉和骨骼，几乎没有皮肤覆盖。\n收容间不适合久留，因为较低的休谟场才能保持他/它的稳定。\n在清扫过后，收容间恢复了安静，又只剩下了机箱运作和康德计数器的声音。\n\n时钟指向了六点。\n\"Daisy ,Daisy ,give me your answer do...\"\n//**[愉快的咕噜声]**//\n\n------\n~~~~\n[[div_ class=\"image-example\"]]\n[[include :scp-wiki:component:image-features-source |noise-reveal=--]\n|fractal-size=995\n|speed=1000\n|float=false\n|width=400px\n|background=rgb(var(--swatch-menubg-dark-color));\n|url=http://scpsandboxcn.wdfiles.com/local--files/pictest/%E9%A3%8E%E6%99%AF%E4%B8%80%E8%A7%88.jpg\n|add-caption=true\n|caption=请记得从梦中醒来。\n]]\n[[/div]]\n----\n\n[[module CSS]]\n#breadcrumbs {\n  display: none;\n}\n\n[[/module]]\n\n\n[[collapsible show=\"+ ᴄʟᴏsᴇ ᴛʜᴇ ᴏɴᴇ\" hide=\"- ᴏᴘᴇɴ ᴛʜᴇ ɴᴇxᴛ\"]]\n@@ @@\n+* 啊哦！此页面不存在:(\n\n点击 [# 此处] 创建新页面！:D\n\n[[size 0%]]研究员在大雪中睡去，在灯光中醒来。\n它静静地待在收容室内，偶尔会回想起一些碎片式的记忆，然后将它们抛在脑后。\n直到一切回滚，它和站点一起倒带回最初的模样。[[/size]]\n\n= [[size 150%]]##FFFFFF|True End:)## [[/size]]\n\n\n[[/collapsible]]\n\n[[footnoteblock]]",
+  "tags": [
+    "段落"
+  ],
+  "author": "Igor Lynx",
+  "created_at": "2023-05-04T15:33:42+00:00",
+  "updated_at": "2023-05-05T03:14:41+00:00",
+  "rating": 0,
+  "_site": "scp-wiki-cn",
+  "_fullname": "fragment:ibm7094-2"
+}

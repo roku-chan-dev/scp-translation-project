@@ -1,0 +1,14 @@
+{
+  "title": "文書：SCP-621-JP-1",
+  "content": "[[>]]\n[[module Rate]]\n[[/>]]\n[[html]]\n<style type=\"text/css\" id=\"internal-style\">\n                    @import url(http://d3g0gp89917ko0.cloudfront.net/v--3e7a7facf318/common--theme/base/css/style.css);\n                    @import url(http://d3g0gp89917ko0.cloudfront.net/v--3e7a7facf318/common--theme/shiny/css/style.css);\n                    @import url(http://scpsandbox-jp.wdfiles.com/local--theme/shiny/style.css);\n</style>\n\n<style type=\"text/css\">\n.vertical{\n  -moz-transform: matrix(-1, 0, 0, 1, 0, 0);\n  -webkit-transform: matrix(-1, 0, 0, 1, 0, 0);\n  -ms-transform:matrix(-1, 0, 0, 1, 0, 0);\n  -o-transform:matrix(-1, 0, 0, 1, 0, 0);\n  transform:matrix(-1, 0, 0, 1, 0, 0);\n  text-align:right;\n}\n.horizon{\n  -moz-transform: matrix(1, 0, 0, -1, 0, 0);\n  -webkit-transform: matrix(1, 0, 0, -1, 0, 0);\n  -ms-transform:matrix(1, 0, 0, -1, 0, 0);\n  -o-transform:matrix(1, 0, 0, -1, 0, 0);\n  transform:matrix(1, 0, 0, -1, 0, 0);\n}\n</style>\n\n<SCRIPT language=\"javascript\">\nfunction random_display(){\n  var i = 0;\n  var n = 0;\n  while(i < 13){\n //   document.write(n);\n    n +=1;\n    var elem = document.getElementById(\"block\"+n);\n    var rr = Math.round(Math.random()*10)+1;\n    if(rr % 2 == 0){\n      elem.className = \"horizon\";\n    }else{\n      elem.className = \"vertical\";\n    }\n  i++;\n  }\n}\n\n</SCRIPT>\n\n<div id =\"block1\" class=\"normal\"><b>20██/██/██、██小学校図書室より回収された文書</b></div>\n<blockquote>\n<div id =\"block2\" class=\"normal\">いつしか無間の鐘は鳴り。叡智の代償は終わらぬ歴史でした。逃亡と生存の歴史はいつしか略奪と殺戮の連鎖へと変貌しました。罪がありました。咎がありました。憎悪がありました。</div>\n<div id =\"block3\" class=\"normal\">進化は悪夢でした。文化は悪夢でした。歴史は悪夢でした。胎児が見た夢は、悪夢でした。</div>\n<div id =\"block4\" class=\"normal\">無間の鐘は鳴りました。螺旋へ刻まれた記憶は、進化は、文化は、歴史は、先も終わりも無い悪夢でした。</div>\n<div id =\"block5\" class=\"normal\">目を塞ぎ耳を塞ぎ立ち尽くし憎悪は肥大をし、次の胎児がその夢を見るのでしょう。</div>\n<div id =\"block6\" class=\"normal\">終わりはありませんでした。絶える事はありませんでした。赦される事はありませんでした。</div>\n<br>\n<div id =\"block7\" class=\"normal\">鐘は止みません。進化の果てに無間の終わりはありません。</div>\n<div id =\"block8\" class=\"normal\">人の世は終わるのでしょう。進化の果てに人の世は終わりが訪れるのでしょう。</div>\n<div id =\"block9\" class=\"normal\">叡智の代償は次の胎児へ受け継がれるのでしょう。鳥の、花の、獣の、胎児はまた夢を見るのでしょう。</div>\n<br>\n<div id =\"block10\" class=\"normal\">私はただ、もう忘れたい。</div>\n</blockquote>\n\n<SCRIPT language=\"javascript\">\nwindow.onload = function(){\nsetInterval('random_display()',50000);\n}\n</SCRIPT>\n\n[[/html]]",
+  "tags": [
+    "jp",
+    "補足"
+  ],
+  "author": "k_u_m_a",
+  "created_at": "2014-06-21T12:53:27+00:00",
+  "updated_at": "2021-01-10T15:55:01+00:00",
+  "rating": 61,
+  "_site": "scp-jp",
+  "_fullname": "scp-621-jp-1"
+}

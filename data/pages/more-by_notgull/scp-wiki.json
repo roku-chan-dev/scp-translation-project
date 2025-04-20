@@ -1,0 +1,13 @@
+{
+  "title": "More By notgull",
+  "content": "@@ @@\n\n[[=]]\n[[div style=\"font-size: 80%\"]]\n[[collapsible show=\"More by notgull\" hide=\"More by notgull\"]]\n[[div style=\"vertical-align: text-top; font-size: 120%\"]]\n\n[[table style=\"border-spacing: 5px;\"]]\n[[row]]\n[[cell style=\"vertical-align: top;\"]]\n\n**SCPs**\n\n[[module ListPages created_by=\"notgull\" order=\"rating desc\" separate=\"no\" tags=\"scp\" perPage=\"250\"]]\n||%%title_linked%%||Rating: %%rating%%||\n[[/module]]\n\n[[/cell]]\n[[cell style=\"vertical-align: top;\"]]\n\n**Tales**\n\n[[module ListPages created_by=\"notgull\" order=\"rating desc\" separate=\"no\" tags=\"tale\" perPage=\"250\"]]\n||%%title_linked%%||Rating: %%rating%%||\n[[/module]]\n\n[[/cell]]\n[[cell style=\"vertical-align: top;\"]]\n\n**Other**\n\n[[module ListPages created_by=\"notgull\" order=\"rating desc\" separate=\"no\" tags=\"-scp -tale\" perPage=\"250\"]]\n||%%title_linked%%||Rating: %%rating%%||\n[[/module]]\n\n[[/cell]]\n[[/row]]\n[[/table]]\n\nSee my [[[notgull|Author Page]]] for more information. If you like reading my stuff, consider checking out my [[[https://www.youtube.com/channel/UCa22ge_MKVapVkX8lN1jDuQ|YouTube Channel]]] for SCP-inspired animations, among other things.\n\n[[/div]]\n[[/collapsible]]\n[[/div]]\n[[/=]]",
+  "tags": [
+    "more-by"
+  ],
+  "author": "notgull",
+  "created_at": "2021-03-29T15:59:52+00:00",
+  "updated_at": "2021-04-07T23:05:42+00:00",
+  "rating": 1,
+  "_site": "scp-wiki",
+  "_fullname": "more-by:notgull"
+}

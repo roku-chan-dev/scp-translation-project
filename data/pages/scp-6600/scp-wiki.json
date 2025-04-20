@@ -1,0 +1,31 @@
+{
+  "title": "SCP-6600",
+  "content": "[[>]]\n[[module rate]]\n[[/>]]\n\n[[module ListPages category=\"fragment\" parent=\".\" limit=\"1\" order=\"created_at\" offset=\"@URL|0\"]]\n%%content%%\n[[/module]]\n\n[!--\n\nChildren:\nhttps://scp-wiki.wikidot.com/fragment:scp-6600-1\nhttps://scp-wiki.wikidot.com/fragment:scp-6600-2\nhttps://scp-wiki.wikidot.com/fragment:scp-6600-3\n\n--]\n\n[[div class=\"footer-wikiwalk-nav\"]]\n[[=]]\n<< [[[SCP-6599]]] | SCP-6600 | [[[SCP-6601]]] >>\n[[/=]]\n[[/div]]\n\n[[include :scp-wiki:component:license-box\nauthor=Limeyy, margssentif, Quadraginta, chiifu, and CelesteKara]]\n=====\n> **Filename:** clean.png and diagram.png\n> **Name:** Image from page 73 of \"American spiders and their spinning work. A natural history of the orbweaving spiders of the United States, with special regard to their industry and habits\" (1889)\n> **Author:** Internet Archive Book Images\n> **License:** Public Domain\n> **Source Link:** https://flickr.com/photos/internetarchivebookimages/20797660092/in/photolist-xFPrLq-9yWVWA-ffRmt6-DmterW-DgvEBM-owdZgs-fE2Yim-od5BBd-FNDcmk-5uNTbd-ENEBTJ-gujpQX-ow6sGo-hYjEvm-ocbNZ6-9xGS6g-a7U4xC-6r8dud-aAYRZH-CWFxXC-ouxpA3-9iYjJs-oeZyig-bxYozx-9iVbZB-CQhrEi-Qm3CNX-Dgw43t-cSmu3m-CQhs68-ieaR19-z3UyGQ-g4h6P9-xrC22h-Eg9f93-g4hBCg-hVQDT6-dFacdT-6TBtCZ-hUFRRQ-9xrioo-odwRDa-hVQ27S-yg4vmK-nAwKLR-pLZfYL-838cZb-akj7R4-eNJXMn-zh9478\n> **Additional Notes:** Both are derived from the above link\n\n=====\n[[include :scp-wiki:component:license-box-end]]",
+  "tags": [
+    "6000",
+    "_cc",
+    "_licensebox",
+    "_listpages",
+    "acoustic",
+    "arachnid",
+    "co-authored",
+    "esoteric-class",
+    "extradimensional",
+    "memory-affecting",
+    "mind-affecting",
+    "portal",
+    "reality-bending",
+    "sapient",
+    "scp",
+    "sensory",
+    "spatial",
+    "teleportation",
+    "temporal"
+  ],
+  "author": "The_Spider_Queen",
+  "created_at": "2021-05-31T19:00:55+00:00",
+  "updated_at": "2023-01-03T10:04:38+00:00",
+  "rating": 182,
+  "_site": "scp-wiki",
+  "_fullname": "scp-6600"
+}

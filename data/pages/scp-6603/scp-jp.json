@@ -1,0 +1,20 @@
+{
+  "title": "SCP-6603",
+  "content": "[[include :scp-jp:theme:blankstyle]]\n\n[[module css]]\n\nbody{\n    --barColour: #106133;\n}\n\n:root{\n  --header-title: \"SCP Foundation\";\n  --header-subtitle: \"Secure, Contain, Protect\";\n}\n\n#header h1 a:before {\n    font-size: 2.0rem;\n}\n\ndiv#extra-div-1 {\n    background-image: url(http://scp-jp.wdfiles.com/local--files/scp-6603/nb_logo_blk.svg);\n    filter: opacity(25%);\n}\n\n#page-content .info-container {\n    --link-color: rgb(var(--swatch-text-general));\n}\n\n#page-content .info-container .translation_block {\n    display: none;\n}\n\n#page-content .info-container .collapsible-block-link,\n#page-content .info-container:hover .collapsible-block-link {\n    line-height: 1.6em;\n}\n\n#page-content .info-container .collapsible-block-folded,\n#page-content .info-container .collapsible-block-unfolded-link {\n    display: grid;\n}\n\n#page-content .info-container .collapsible-block-folded .collapsible-block-link,\n#page-content .info-container .collapsible-block-link {\n    -webkit-mask: unset;\n            mask: unset;\n    background: transparent;\n    grid-column: 1;\n    grid-row: 1;\n    opacity: 0;\n}\n\n#page-content .info-container .collapsible-block-folded::before,\n#page-content .info-container .collapsible-block-unfolded-link::before {\n    --wght: 800;\n    content: \"Elenee FishTruck\";\n    color: #FFFFFF;\n    font-family: Inter, Arimo, Verdana, Geneva, \"Helvetica Neue\", \"Helvetica\", Arial, sans-serif;;\n    display: block;\n    pointer-events: none;\n    grid-column: 1;\n    grid-row: 1;\n    line-height: 2.75ex;\n}\n\n.quote-text {\n    display: inline-block;\n    border:dashed 1px #999999;\n    background:#F5F5F5;\n    float:center;\n    width:84%;\n    padding:1px 15px;\n    margin: 10px 10px 10px 30px\n}\n[[/module]]\n\n[[include :scp-wiki:component:info-ayers\n|lang=en\n|page=scp-6603\n|authorPage=http://scp-wiki.wikidot.com/elenee-s-author-page\n|comments=\n\n= **SCP-6603** - //島流し//\n\n----\n\n= Elenee FishTruck 著\n]]\n\n[[>]]\n[[module Rate]]\n[[/>]]\n\n[[include :scp-wiki:component:classified-bar-woed\n|lv=3\n|item=6603\n|oc=Safe\n|lang=JP\n]]\n\n----\n\n[[include component:image-block name=islet-new.jpg|width=100%|align=center|caption=SCP-6603。]]\n\n**特別収容プロトコル:** 財団職員はかつてSCP-6603に存在した全ての物資を回収、保管しました。巡回ボートが遠隔からSCP-6603を監視し、活動の兆候を探ります。\n\n----\n\n**説明:** SCP-6603はミクロネシア連邦のポンペイ島から沖合に30km離れた位置にある小島です。この島は熱帯雨林気候で、面積は1km²です。\n\nSCP-6603には電気系統が通っており、島全体に電力を継続供給していますが、財団職員は島の発電手段を発見できていません。液晶テレビセット1台、DVDプレイヤー1台、ビデオゲームコンソール数台、充電スタンド1台がこの電力を利用しています。\n\n以下に列記する幾つかの物品がSCP-6603に散乱しています。\n\n* iPod Shuffle 12個、いずれも1曲しか収録されていない。楽曲にはクイーンの“ボヘミアン・ラプソディ”、オールマン・ブラザーズ・バンドの“ジェシカ”、ポリスの“孤独のメッセージ”などが含まれる。\n* 機能するゲームディスク 11枚、ハードウェアの種類は多岐にわたる。ゲームには//Minecraft//、//街へいこうよ どうぶつの森//、//The Elder Scrolls V: Skyrim//などが含まれる。この他、木に投げ付けられたと思しき破損ディスクが1枚存在する。\n* 書籍 12冊、水濡れで傷んでいる。書籍にはジェイムズ・ジョイスの//ユリシーズ//、トマス・ピンチョンの//逆光//、ダニエル・デフォーの//ロビンソン・クルーソー//などが含まれる。\n\n島には腐敗の程度が様々な人間の死体 12体が並んでいます。全ての死体は脱水または熱中症で死亡したように見受けられます。\n\n[[footnoteblock]]",
+  "tags": [
+    "en",
+    "safe",
+    "scp",
+    "場所",
+    "島嶼",
+    "植物",
+    "樹木",
+    "電気"
+  ],
+  "author": "C-Dives",
+  "created_at": "2022-01-05T16:20:25+00:00",
+  "updated_at": "2024-02-21T12:22:21+00:00",
+  "rating": 21,
+  "_site": "scp-jp",
+  "_fullname": "scp-6603"
+}

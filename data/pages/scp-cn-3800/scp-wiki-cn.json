@@ -1,0 +1,21 @@
+{
+  "title": "SCP-CN-3800",
+  "content": "[[>]]\n[[include :topia:sp-rate-info-2 start= --]|bhl=true]]\n**SCP-CN-3800** ：万花筒锁链\n\n**作者：**[[*user Resolver]]\n\n**图片来源：**https://pixabay.com/photos/stars-galaxy-space-rosette-nebula-67616/\n\nhttps://pixabay.com/photos/fish-koi-pond-summer-water-2354286/\n[[include :topia:sp-rate-info-2 end= --]]]\n[[/>]]\n\n[[module ListPages category=\"fragment\" parent=\".\" limit=\"1\" order=\"name\" offset=\"@URL|0\"]]\n%%content%%\n[[/module]]\n[!--\n迭代1：\n\nhttps://scp-wiki-cn.wikidot.com/fragment:cn3000resolver-1\n\n迭代2：\n\nhttps://scp-wiki-cn.wikidot.com/fragment:cn3000resolver-2\n\n迭代3：\n\nhttps://scp-wiki-cn.wikidot.com/fragment:cn3000resolver-3\n--]\n[[footnoteblock]]\n\n[[div class=\"footer-wikiwalk-nav\"]]\n[[=]]\n<< [[[SCP-CN-3799]]] | SCP-CN-3800 | [[[SCP-CN-3801]]] >>\n[[/=]]\n[[/div]]",
+  "tags": [
+    "cn3000",
+    "keter",
+    "scp",
+    "原创",
+    "叙述性",
+    "无形",
+    "概念",
+    "精神影响",
+    "超形上学部"
+  ],
+  "author": "Resolver",
+  "created_at": "2024-01-04T14:09:44+00:00",
+  "updated_at": "2024-07-02T19:42:56+00:00",
+  "rating": 15,
+  "_site": "scp-wiki-cn",
+  "_fullname": "scp-cn-3800"
+}

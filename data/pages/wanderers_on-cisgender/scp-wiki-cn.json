@@ -1,0 +1,21 @@
+{
+  "title": "论顺性别",
+  "content": "[[include :scp-wiki-cn:wanderers:dustjacket-theme]]\n[[module css]]\n/* 诗歌格式代码出自http://wanderers-library.wikidot.com/carolynn */\n@import url('https://fonts.googleapis.com/css?family=EB+Garamond:500&display=swap');\n#content-wrap {background-color:#fcfcfc}\n.poem span {white-space:pre !important}\n.poem p {\n  margin-top: 0em;\n  margin-bottom: 0em;\n}\n.poem {\n  white-space:wrap !important;\n  font-family:\"EB Garamond\",\"Times New Roman\",serif;\n  font-size:120%;\n  text-indent: -1em;\n  padding-left:10%;\n  padding-top:5%;\n  padding-bottom:20%;\n}\n@media only screen and (max-width: 600px) {\n  .poem { padding-left: 1.5em; font-size:115%;}\n}\n[[/module]]\n\n[[div class=\"poem\"]]\n去你那里的路上，在地上捡到一包好彩香烟，真是太好了\n\n是我喜欢的牌子，不完全像是得到了你想要的，而是相反\n\n@@@@\n@@@@\n\n就像仰望星空，看见猎户座，猎户的姿势和你一模一样\n\n就像要什么有什么，多巧啊，就像“爸爸看啊我中乐透了”\n\n@@@@\n@@@@\n\n那些东西不是核弹，那些只是星星，就像我们带走并\n\n传下来的那些珠宝，骨头慢慢旋转，折射出永恒的光芒\n\n@@@@\n@@@@\n\n我们在奶奶的屋子外望着它们，在那里，银河显现出\n\n一团云朵，就像漫画里的气泡，看着像老山姆的胡子\n\n@@@@\n@@@@\n\n我想，有一天我的骨架也能像吊灯一样挂在天上，供人欣赏\n\n我剪下的头发就像绳子，像胡子，像绳结，我们一起眺望大海\n\n@@@@\n@@@@\n\n真是奇怪，它看上去像我们可以喝的水，我们望着壁炉里的火\n\n后来吞噬森林，如果真的看见星星，我们就会看见那呛人的火\n\n@@@@\n@@@@\n\n我们真的会看到一团火，我们望着火，看到一团火，那里很\n\n温暖，不是吗，我们望着熊熊燃烧的火，认为自己只看到一团火。\n[[/div]]",
+  "tags": [
+    "lgbtq",
+    "wanderers",
+    "哲学性",
+    "现实",
+    "第一人称",
+    "自然",
+    "记载",
+    "配区二",
+    "韵文"
+  ],
+  "author": "la kanro",
+  "created_at": "2023-10-08T10:20:20+00:00",
+  "updated_at": "2023-10-12T09:15:15+00:00",
+  "rating": 3,
+  "_site": "scp-wiki-cn",
+  "_fullname": "wanderers:on-cisgender"
+}

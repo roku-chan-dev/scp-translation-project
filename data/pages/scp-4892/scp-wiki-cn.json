@@ -1,0 +1,18 @@
+{
+  "title": "SCP-4892",
+  "content": "[[module ListPages  category=\"fragment\" parent=\".\" limit=\"1\" order=\"created_at\" offset=\"@URL|0\"]]\n%%content%%\n[[/module]]",
+  "tags": [
+    "scp",
+    "基金会制",
+    "宗教",
+    "机密分级",
+    "模因",
+    "睡眠"
+  ],
+  "author": "ashausesall",
+  "created_at": "2020-02-05T06:05:53+00:00",
+  "updated_at": "2020-02-05T06:15:47+00:00",
+  "rating": 4,
+  "_site": "scp-wiki-cn",
+  "_fullname": "scp-4892"
+}

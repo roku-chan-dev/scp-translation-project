@@ -1,0 +1,16 @@
+{
+  "title": "A Special Holiday Message From SCP-999",
+  "content": "[[include component:info-ayers\n|lang=en[!-- EN/RU/KO/CN/FR/PL/ES/TH/JP/DE/IT/UA/PTBR --]\n|page=audio-log-from-december-24th-2010[!-- url of your page on the scp wiki --]\n|authorPage=http://www.scp-wiki.net/dr-cimmerian-s-personnel-file[!-- link to your author page --]\n|comments= Did this for my youtubes just for fun, thought I'd throw it on here too for additional mockery.\n\n]]\n[[include theme:black-highlighter-theme]]\n[[module CSS]]\n\n:root { \n--cutColour: #fafafa;\n--barColour: #590505;\n}\n\n.info-container .collapsible-block-folded a{\ncolor: #FFF;}\n.info-container .collapsible-block-unfolded-link a{\ncolor: #FFF;}\n\n#side-bar {\n    background: rgb(var(--white-monochrome));\n}\n\n#side-bar div.menu-item a, #side-bar div.menu-item .text {\n    color: rgb(var(--black-monochrome));\n}\n\n#side-bar>div:nth-child(5) {\n    background-color: rgba(var(--dark-accent),0.25)!important;\n}\n\n.html-block-iframe {\n    width: auto !important;\n    position: relative;\n    left: 50%;\n    transform: translateX(-50%);\n}\n[[/module]]\n\n[[>]]\n[[module Rate]]\n[[/>]]\n\n[[include :snippets:html5player\n|type=audio\n|url=https://scp-wiki.wdfiles.com/local--files/a-special-holiday-message-from-scp-999/From%20999.mp3\n]]\n[[=]]\n> Locked up in containment, no trouble around\n> SCP-999 makes a sweet, soft, sound.\n> The doctors were listening and left wondering why,\n> He was singing a Christmas lullaby.\n> \n> 682 is growling, he won't go away,\n> But little 999, can keep him at bay.\n> One little orange blob can help us to stay safe,\n> Can make all the keters sit down and behave.\n> \n> To all the Foundation's hardworking crew\n> To all the anomalies and dead gods too,\n> To all of the world in this joyous time,\n> Please have a Merry Christmas, from 999.\n[[/=]]\n\n[[include :scp-wiki:component:license-box]]\n=====\n> **Filename:** From%20999.mp3\n> **Author:** [[*user Doctor Cimmerian]]\n> **License:** CC BY-SA 3.0\n> **Source Link:** [https://scp-wiki.wikidot.com/a-special-holiday-message-from-scp-999 Foundation Wiki]\n=====\n[[include :scp-wiki:component:license-box-end]]",
+  "tags": [
+    "_licensebox",
+    "audio",
+    "tale",
+    "tickle-monster"
+  ],
+  "author": "Doctor Cimmerian",
+  "created_at": "2019-12-18T21:48:35+00:00",
+  "updated_at": "2023-09-04T08:54:38+00:00",
+  "rating": 74,
+  "_site": "scp-wiki",
+  "_fullname": "a-special-holiday-message-from-scp-999"
+}

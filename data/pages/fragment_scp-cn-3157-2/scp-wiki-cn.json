@@ -1,0 +1,13 @@
+{
+  "title": "收件箱 > 未读邮件",
+  "content": "+ 收件箱 > 未读邮件\n\n[[html]]\n<!DOCTYPE html>\n<html lang=\"en\">\n<head>\n<meta charset=\"UTF-8\">\n<meta name=\"viewport\" content=\"width=device-width, initial-scale=1.0\">\n<title>Email Framework with Attachment Link</title>\n<style>\n  .email-container {\n    max-width: 600px;\n    margin: 0 auto;\n    padding: 20px;\n    font-family: Arial, sans-serif;\n  }\n  .email-header {\n    border-bottom: 1px solid #ccc;\n    padding-bottom: 10px;\n    margin-bottom: 20px;\n  }\n  .email-header .from {\n    font-weight: bold;\n  }\n  .email-header .to {\n    float: right;\n  }\n  .email-subject {\n    font-size: 20px;\n    color: #333;\n    margin-bottom: 15px;\n  }\n  .email-body {\n    background-color: #f9f9f9;\n    border: 1px solid #ccc;\n    padding: 15px;\n    border-radius: 5px;\n  }\n  .email-footer {\n    margin-top: 20px;\n    text-align: center;\n  }\n  .attachment-link {\n    display: inline-block;\n    background-color: #007bff;\n    color: white;\n    padding: 10px 15px;\n    border-radius: 5px;\n    text-decoration: none;\n    font-size: 16px;\n    cursor: pointer;\n    transition: background-color 0.3s;\n  }\n  .attachment-link:hover {\n    background-color: #0056b3;\n  }\n</style>\n</head>\n<body>\n\n<div class=\"email-container\">\n  <div class=\"email-header\">\n        <span class=\"from\">From: Dr.Raphmandas;</span>\n    <span class=\"to\">To: SCP-CN-3157;</span>\n  </div>\n  <div class=\"email-subject\">警告：陌生邮件，请谨慎甄别内容</div>\n  <div class=\"email-body\">\n    <p>您好。</p>\n    <p>这里是Raphmandas。</p>\n    <p>非常抱歉，由于本程序的代码运行出现问题，致使贵基金会遭遇了一系列无端灾害。</p>\n    <p>但基于本程序的运行位置并不属于当前的叙事层级，故仅能通过删除相关作品的方式解决这些问题。若贵基金会目前仍然面临着疑似相关的次生灾害，可以以邮件形式发送至此发信人邮箱地址说明情况。本程序愿意提供任意形式的援助。</p>\n    <p>在  附件：“叙事坍落”全过程.docx  中，将详细叙述此次灾害事件全过程。</p>\n    <p>注：若出现附件与邮件正文显示顺序错误的情况，为本程序尚不熟悉叙写顺序所致。</p>\n    <p>又及：由于此次灾害事件而致使编号为  SCP-CN-3157  的对应项目失效，故选取档案库内对应编号为本邮件存储地址，不会对编号条目的阅读、编辑等功能产生任何影响。点击下方“退出”按钮即可继续进行正常操作。\n    <p>再次致歉。</p>\n    <p>Raphmandas</p>\n  </div>\n  <div class=\"email-footer\">\n    <a href=\"https://scp-wiki-cn.wikidot.com/scp-cn-3157\" target=\"_blank\" class=\"attachment-link\">查看附件</a>\n  </div>\n</div>\n\n</body>\n</html>\n[[/html]]\n\n[https://scp-wiki-cn.wikidot.com/scp-cn-3157/offset/2 退出]\n[https://scp-wiki-cn.wikidot.com/ 返回主页]",
+  "tags": [
+    "段落"
+  ],
+  "author": "Raphmandas",
+  "created_at": "2024-10-23T13:00:20+00:00",
+  "updated_at": "2024-10-24T02:43:24+00:00",
+  "rating": 0,
+  "_site": "scp-wiki-cn",
+  "_fullname": "fragment:scp-cn-3157-2"
+}

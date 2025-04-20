@@ -1,0 +1,15 @@
+{
+  "title": "私、メリーさん……",
+  "content": "[[>]]\n[[module rate]]\n[[/>]]\n\n[[collapsible show=\"電話1\" hide=\"-\"]]\n\n> **私、メリーさん。今駅にいるの。**\n> \n> 何？\n\n[[/collapsible]]\n\n[[collapsible show=\"電話2\" hide=\"-\"]]\n\n> **私、メリーさん。今ショップの前にいるの。**\n> \n> いや、あなた誰？\n \n[[/collapsible]]\n\n[[collapsible show=\"電話3\" hide=\"-\"]]\n\n> **私、メリーさん。今あなたの家の前にいるの。**\n> \n> ちょっ、一体誰だよこんな電話してるやつー\n\n[[/collapsible]]\n\n[[collapsible show=\"電話4\" hide=\"-\"]]\n\n> **私、メリーさん……。どこにいるの？**\n> \n> 私、エージェント-プロファウンド・ケィ。\n> \n> **……え？**\n> \n> 財団って聞いたことあるかな？\n\n[[/collapsible]]\n\n[[collapsible show=\"電話5\" hide=\"-\"]]\n\n> 私、ケィ。今あなたを捕まえに来たの。\n> \n> **[息、非常に早い足音]**\n\n[[/collapsible]]\n\n[[collapsible show=\"電話6\" hide=\"-\"]]\n\n> 私、ケィ。今駅にいるの。\n> \n> **[息] もう？  [泣く] ダメ……。**\n\n[[/collapsible]]\n\n[[collapsible show=\"電話7\" hide=\"-\"]]\n\n> 私、ケィ。\n> \n> **違う違う違う違う違うー**\n> \n> 今、あなた見えるよ？\n> \n> **[聞き取れない音]**\n\n[[/collapsible]]\n\n[[collapsible show=\"電話8\" hide=\"-\"]]\n\n> 私、ケィ。\n> \n> **[泣く] ごめんなさいごめんなさいごめんなさい次からはこんないたずら絶対にしませんから助けてください私いたずらしただけです悪いことなんかしてないです人の家に忍び込んだのはごめんなさいでもそれ以外には悪いことしてないです [足音] ダメ違うこれあなたの足音じゃないですねないって言ってくださいー**\n> \n> 今あなたの後ろにいるの。\n> \n> **[しゃっくりする音]**\n\n[[/collapsible]]",
+  "tags": [
+    "2018-短編コンテスト",
+    "ko",
+    "tale"
+  ],
+  "author": "Elfen_mathL",
+  "created_at": "2018-03-14T08:13:37+00:00",
+  "updated_at": "2021-01-10T17:04:58+00:00",
+  "rating": 209,
+  "_site": "scp-jp",
+  "_fullname": "atashi-merisa"
+}

@@ -1,0 +1,20 @@
+{
+  "title": "Paradise Lot",
+  "content": "[[>]]\n[[module Rate]]\n[[/>]]\n\n[!--\nFragments:\nhttp://scp-wiki.wikidot.com/fragment:paradise-lot-0\nhttp://scp-wiki.wikidot.com/fragment:paradise-lot-1\n--]\n\n[[module ListPages category=\"fragment\" parent=\".\" limit=\"1\" order=\"created_at\" offset=\"@URL|0\"]]\n%%content%%\n[[/module]]\n\n[[footnoteblock]]",
+  "tags": [
+    "_cc",
+    "_listpages",
+    "_other",
+    "art-exchange",
+    "crime-fiction",
+    "goi-format",
+    "science-fiction",
+    "worldbuilding"
+  ],
+  "author": "JackalRelated",
+  "created_at": "2022-03-25T03:36:06+00:00",
+  "updated_at": "2024-10-20T12:43:59+00:00",
+  "rating": 50,
+  "_site": "scp-wiki",
+  "_fullname": "paradise-lot"
+}

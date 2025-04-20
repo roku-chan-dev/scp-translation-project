@@ -1,0 +1,14 @@
+{
+  "title": "ホッキョクグマ",
+  "content": "content: \"[[collapsible show=\\\"+データ破損を検知。復元を実行。\\\" hide=\\\"- 閉じる\\\"]]\\n[[div class=\\\"fade\\\"]]\\n**説明:** [[[i-a-polar-bear-covering-my-nose-in-a-snowstorm|ホッキョクグマ]]]が自分の鼻を覆った際に吹雪が発生するという確率論的異常。\\n**現状:** 財団はホッキョクグマを飼育する動物園を監視対象として、現象発生の際には迅速に隠蔽活動を実施できるよう機動部隊を準備している。\\n\\n**追記:** 当該Anomolousアイテムに対し、もう一つの異常性が存在する可能性が報告されています。現在詳細を確認中です。-██研究員\\n[[/div]] \\n[[/collapsible]]\\n[[module css]]\\n.fade {\\n        animation: blur 15s both ease-in;\\n\\nanimation-delay: 8s;\\n\\n    }\\n\\n@keyframes blur {\\n    from {\\n        filter: blur(0px);\\n    }\\n    \\n    to {\\n        filter: blur(100px);\\n    }\\n}\\n[[/module]]\"\ntf2: '0'\nauthor: ''\nredirect-b: '[[module Redirect destination=\"http://ja.scp-wiki.net/log-of-anomalous-items-jp'\nredirect-e: '\"]]'",
+  "tags": [
+    "jp",
+    "剪定対象-子"
+  ],
+  "author": "R-suika",
+  "created_at": "2022-10-21T10:30:01+00:00",
+  "updated_at": "2023-05-22T13:17:35+00:00",
+  "rating": 87,
+  "_site": "scp-jp",
+  "_fullname": "anomalous-jp:03845"
+}

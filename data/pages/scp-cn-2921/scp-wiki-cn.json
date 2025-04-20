@@ -1,0 +1,31 @@
+{
+  "title": "SCP-CN-2921",
+  "content": "@@ @@\n@@ @@\n[[>]]\n[[module rate]]\n[[/>]]\n\n\n[[module ListPages category=\"fragment\" parent=\".\" limit=\"1\" order=\"name\" offset=\"@URL|0\"]]\n\n%%content%%\n[[/module]]\n\n[!-- https://scp-wiki-cn.wikidot.com/fragment:scp-cn-2921-0  --]\n[!-- https://scp-wiki-cn.wikidot.com/fragment:scp-cn-2921-1  --]",
+  "tags": [
+    "apollyon",
+    "k级情景",
+    "scp",
+    "site-cn-11",
+    "全球超自然联盟",
+    "原创",
+    "合著",
+    "基金会制",
+    "建筑",
+    "悖论",
+    "掠食性",
+    "敌意",
+    "无定形",
+    "时间影响",
+    "概念",
+    "现实扭曲",
+    "认知危害",
+    "超维度",
+    "逆模因"
+  ],
+  "author": "Jiu_Huan",
+  "created_at": "2022-12-13T01:50:19+00:00",
+  "updated_at": "2024-05-28T00:41:29+00:00",
+  "rating": 85,
+  "_site": "scp-wiki-cn",
+  "_fullname": "scp-cn-2921"
+}

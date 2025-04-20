@@ -1,0 +1,18 @@
+{
+  "title": "调制饮料，但不改变人生。",
+  "content": "[[module ListPages category=\"fragment\" parent=\".\" limit=\"1\" order=\"created_at\" offset=\"@URL|0\"]]\n%%content%%\n[[/module]]\n\n[!-- http://scp-wiki-cn.wikidot.com/fragment:sunshine-cloud-please-firstpage --]\n[!-- http://scp-wiki-cn.wikidot.com/fragment:sunshine-cloud-please-mainpage --]\n[!-- http://scp-wiki-cn.wikidot.com/fragment:light-sunshine-cloud-please --]",
+  "tags": [
+    "crossover项目",
+    "主题精品",
+    "互动性",
+    "原创",
+    "故事",
+    "音频"
+  ],
+  "author": "MentalImageryMirage",
+  "created_at": "2022-06-27T16:00:47+00:00",
+  "updated_at": "2022-07-18T11:58:33+00:00",
+  "rating": 325,
+  "_site": "scp-wiki-cn",
+  "_fullname": "sunshine-cloud-please"
+}

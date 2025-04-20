@@ -1,0 +1,22 @@
+{
+  "title": "SCP-2413",
+  "content": "[[include theme:black-highlighter-theme]]\n[[include component:bhl-dark-sidebar]]\n[[include component:info-ayers\n|lang=ko\n|page=scp-2413\n|authorPage=http://ko.scp-wiki.net/dr-cimmerian-s-personnel-file\n|comments=\n\n새해 전 새로운 스킵. 며칠 동안 이게 제대로 나오게 하려고 노력했습니다. 자동 재생되는 음성 요소가 있지만 깜놀요소는 아니에요. 그래도 이 경고문을 꼭 읽어주길 바랍니다(그리고 진지하게 읽어주세요). 이 스킵은 html5를 사용하기 때문에, 대부분의 (만약 있다면) 모바일 기기에서는 작동하지 않을겁니다. 마음에 드시길 바래요.\n]]\n[[module CSS]]\nsup {\nvertical-align: top; position: relative; top: -0.5em;\n}\n:root{\n--cutColour: #fafafa;\n--barColour: #590505;\n}\n.translation_block{\ndisplay:none;}\n\n.info-container .collapsible-block-folded a{\ncolor: #FFF;}\n.info-container .collapsible-block-unfolded-link a{\ncolor: #FFF;}\n\n.info-container .collapsible-block-link,\n.info-container:hover .collapsible-block-link {\nline-height: 1.6em;\n}\n[[/module]]\n@@@@\n@@@@\n[[include info:start]]\n**SCP-2413:** 비판적 사고\n**저자:** [[*user doctor-cimmerian]]          \n**원작:** http://www.scp-wiki.net/scp-2413\n**역자:** [[*user salamander724]]\n[[include info:end]]\n\n**경고: SCP-2413 관련 문서에 접근하는 것은 청각적 환각을 유발할 수 있음. 만일 실수 또는 오류로 인해 이 파일을 열게 되었고, 문제의 객체와 관여되고 싶지 않다면, 즉시 문서를 닫고 당신의 상급자에게 보고하시오.**\n\n**음성 발생이 가능한 시스템의 사용자는 본 파일에 접근해서는 안 된다. 대상의 인식재해성 성질 및 불특정 다수의 노출 위험성으로 인하여, 헤드폰을 사용할 것이 권장된다.**\n\n**현재 걸려있는 제한으로 인해 허가된 워크스테이션들을 통해서만 본 문서에 접근할 수 있어야 하지만, 만일 그 제한이 풀리는 사태가 발생할 경우, 휴대용 장비를 통해 본 문서에 접근하는 것은 보안 등급을 막론하고 금지된다.**\n\n[[collapsible show=\"＋ SCP-2413 문서 보기\" hide=\" \"]]\n\n**일련번호:** SCP-2413\n\n**등급:** 안전\n\n**특수 격리 절차:** SCP-2413은 본 문서 안에 격리되어 있다. 어떠한 상황에서도 본 문서는 삭제 또는 변경될 수 없다. 본 파일에 접근한 모든 사용자는 파일 말미의 인식재해 정화 과정을 수행해야 한다. 지시 사항을 제대로 따라하지 못했을 경우 3유형(인식재해성) 격리 파기가 일어난 것으로 간주한다.\n\n**설명:** SCP-2413은 그 존재를 인식하고 있으며 SCP-2413의 인식재해 정화 과정을 따르지 않은 사람(이하 SCP-2413-1 개체라고 칭한다)은 누구든 영향을 끼칠 수 있는 독립체이다.  영향을 받아 오염된 사람은 그 주위에 있는 음향기기가 음원인 것 같은 청각적 환각을 1 ~ 5분 동안 경험하게 된다.\n\n음향기기가 없어도 환각은 발생할 수 있으나, 이 경우 SCP-2413-1 개체에게 해로운 인지효과가 발생할 확률은 절반 정도에 불과했다. 또한 이 주제에 관한 실험은 인력 손실로 인하여 폐지되었다.\n\nSCP-2413-1 개체들은 최초 환각의 결론에 따라 점점 창작 활동에 대한 비판적 행동을 표출하기 시작한다(이것은 SCP-2413 효과의 두 번째 단계로 알려져 있다). 이 행동의 정도는 계속 악화되어 개체가 어떠한 창작품도 즐길 수 없게 만든다. SCP-2413-1 개체들은 글로 쓰인 작품에 대한 비판을 하길 선호하지만, 문맹일 경우 비판의 대상이 다른 작품 유형으로 바뀐다.\n\n시각, 미각, 후각을 상실한 사람은 이러한 악화에 대한 저항성을 가지고 있음이 밝혀졌으나, 거의 모든 사람들이 효과의 제2단계에 진입하는 것은 막을 수 없었다. 유일한 예외 사례는 청각을 상실한 사람이었고, 완전히 귀가 먹지 않은 사람은 SCP-2413 감염의 징후를 나타냈다.\n\n노출 이후 약 90분이 지나면 SCP-2413-1 개체는 본 문서에서 금지한 방법들로는 정화될 수 없다. 106분이 지나면 어떠한 방법을 동원해도 SCP-2413 효과를 되돌릴 수 없음이 밝혀졌다.\n\n\n**정화 절차:**\n\n[[html]]\n<html>\n<head>\n<script type=\"text/javascript\">\nfunction setVar()\n{\n    if (sessionStorage.read != 1)\n    {\n        sessionStorage.setItem('read', 1);\n    }\n}\n</script>\n</head>\n<body onLoad=\"setVar();\">\n</body>\n</html>\n\n<audio autoplay>\n  <source src=\"http://www.scp-wiki.net/local--files/scp-2413/thecritic.mp3\" type=\"audio/mpeg\">\n</audio>\n\n[[/html]]\n[[[decontamination-document-0094| 정화 작업을 개시하기 위해 문서-0094에 접근하시오.]]]\n[[/collapsible]]\n\n[[div class=\"authors\"]]\n[[include :scp-wiki:component:license-box\n|author=Doctor Cimmerian]]\n> **Filename:** thecritic.mp3\n> **Name:** Apophysis-100303-104.jpg\n> **Author:** Gut Monk\n> **License:** Public Domain\n> **Source Link:** https://en.wikipedia.org/wiki/File:Apophysis-100303-104.jpg \n[[include :scp-wiki:component:license-box-end]]\n[[/div]]",
+  "tags": [
+    "en",
+    "scp",
+    "감각",
+    "메타",
+    "안전",
+    "음성첨부",
+    "인식재해",
+    "정신조작",
+    "청각",
+    "환각"
+  ],
+  "author": "Salamander724",
+  "created_at": "2015-04-24T09:26:11+00:00",
+  "updated_at": "2025-02-14T20:19:36+00:00",
+  "rating": 7,
+  "_site": "scpko",
+  "_fullname": "scp-2413"
+}

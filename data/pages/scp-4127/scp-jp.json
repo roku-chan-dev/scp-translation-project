@@ -1,0 +1,20 @@
+{
+  "title": "SCP-4127",
+  "content": "[[include credit:start]]\n[[include credit:cc4]]\n[[include credit:end]]\n\n[!-- Editing this page may royally mess up the code for displaying the iterations. If you notice an error that needs to be fixed, message the author (me) or comment on the discussion page. --]\n\n[[module ListPages category=\"fragment\" parent=\".\" limit=\"1\" order=\"random\"]]\n%%content%%\n[[/module]]\n\n[!-- For translators, here is a direct link to each iteration. --]\n[!-- http://www.scp-wiki.net/fragment:scp-4127-1 --]\n[!-- http://www.scp-wiki.net/fragment:scp-4127-2 --]\n[!-- To make ListPages work correctly, make this main page first, then upload the first iteration and set its parent to the first page. Repeat that for each iteration. Remember to change the offset links at the bottom of each iteration to the the correct link for your site. --]\n\n[!-- To The Great Hippo: Thank you very much for your kind instructions! --]\n[!-- http://ja.scp-wiki.net/fragment:scp-4127-1 --]\n[!-- http://ja.scp-wiki.net/fragment:scp-4127-2 --]",
+  "tags": [
+    "en",
+    "neutralized",
+    "scp",
+    "ループ",
+    "確率",
+    "記述",
+    "貨幣",
+    "金属"
+  ],
+  "author": "C-Dives",
+  "created_at": "2019-04-17T13:12:58+00:00",
+  "updated_at": "2024-02-21T12:33:14+00:00",
+  "rating": 121,
+  "_site": "scp-jp",
+  "_fullname": "scp-4127"
+}

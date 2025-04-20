@@ -1,0 +1,21 @@
+{
+  "title": "Picture This",
+  "content": "[[include :scp-wiki:theme:black-highlighter-theme]]\n[[include :scp-wiki:theme:telecommunications-monitoring-office-theme]]\n[[include :scp-wiki:component:toggle-sidebar-bhl]]\n[[include :scp-wiki:component:ratio-bar base=-- |ex=--]]\n\n[[>]]\n[[include info:start]]\n[[<]]\n\n[[include :scp-wiki:component:ratio-bar pie=--]]\n\n**Article:** Picture This\n\n**Author:** [[*user BattleblockB0ss]]\n\n[[/<]]\n[[include info:end]]\n[[/>]]\n\n[[html]]\n<video style=\"width:100%;height:100%\" controls>\n<source src=\"http://scp-wiki.wikidot.com/local--files/picture-this/SCP%20Foundation%20Introduction%20Video.MOV\" type=\"video/mp4\">\n</video>\n[[/html]]\n\nThis film was created for Dept-Con 2022 for the Telecommunications Monitoring Office by team Your Call is Very Important to Us.\n\n[[include :scp-wiki:component:license-box\n|author=BattleblockB0ss and Meserach]]\n=====\n> **Filename:** SCP Foundation Introduction Video.MOV\n> **Author:** [[*user BattleblockB0ss]], [[*user Meserach]], GBeast001, JoteF,  Life-Of-Vids, NicholasDeloitteMedia, George Stock, [[*user CityToast]], [[*user Supposedly Spooky]], Immanuel Giel\n> **License:** CC BY-SA 3.0\n> **Source Link:** [https://scp-wiki.wikidot.com/introductionfilm SCP Foundation Wiki]\n> **Derivative Of:**\n\n> **Name:** Ulica Ruch Samochody\n> **Author:** JoteF\n> **License:** Pixabay License\n> **Source Link:** [https://pixabay.com/pl/videos/ulica-ruch-samochody-miasto-noc-19627/ Pixabay]\n\n> **Name:** Metropole Rano Miasto\n> **Author:** Life-Of-Vids\n> **License:** Pixabay License\n> **Source Link:** [https://pixabay.com/pl/videos/metropole-rano-miasto-mg%C5%82a-2337/ Pixabay]\n\n> **Name:** Kwiaty Natura Czas\n> **Author:** NicholasDeloitteMedia\n> **License:** Pixabay License\n> **Source Link:** [https://pixabay.com/pl/videos/kwiaty-natura-czas-kwitn%C4%85%C4%87-li%C5%9B%C4%87-7924/ Pixabay]\n\n> **Name:** PurportedUFO2.jpg\n> **Author:** George Stock\n> **License:** Public Domain\n> **Source Link:** [https://commons.wikimedia.org/wiki/File:PurportedUFO2.jpg Wikimedia Commons]\n\n> **Name:** UFO dipotret di lepas pantai Cimalaya.jpg\n> **Author:**\tIr. Tony Hartono\n> **License:** CC BY-SA 4.0\n> **Source Link:** [https://commons.wikimedia.org/wiki/File:UFO_dipotret_di_lepas_pantai_Cimalaya.jpg Wikimedia Commons]\n\n> **Filename:** scp017InCaptivity\n> **Author:** [[*user CityToast]]\n> **License:** CC BY-SA 3.0\n> **Source Link:** [https://scp-wiki.wikidot.com/scp-017 SCP Foundation Wiki]\n\n> **Filename:** ELEPHANTFRIEND.jpg\n> **Author:** [[*user Supposedly Spooky]]\n> **License:** CC BY-SA 3.0\n> **Source Link:** [https://scp-wiki.wikidot.com/scp-5739 SCP Foundation Wiki]\n\n> **Name:** Loch Ness Monster 02.jpg\n> **Author:**\tImmanuel Giel\n> **License:** Public Domain\n> **Source Link:** [https://commons.wikimedia.org/wiki/File:Loch_Ness_Monster_02.jpg Wikimedia Commons]\n=====\n[[include :scp-wiki:component:license-box-end]]\n[[include :scp-wiki:component:wikimodule |normal= --]]]",
+  "tags": [
+    "_cc",
+    "_licensebox",
+    "bureaucracy",
+    "co-authored",
+    "departmentcon2022",
+    "orientation",
+    "tale",
+    "telecom-office",
+    "video"
+  ],
+  "author": "BattleblockB0ss",
+  "created_at": "2022-02-11T17:41:00+00:00",
+  "updated_at": "2024-10-01T18:55:22+00:00",
+  "rating": 93,
+  "_site": "scp-wiki",
+  "_fullname": "picture-this"
+}

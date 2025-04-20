@@ -1,0 +1,14 @@
+{
+  "title": "03625",
+  "content": "content: \"**説明:** 「5秒前に点きます」と表記されたスイッチ。使用者がスイッチを押す5秒前に起動する。\\n**回収日:** 20██/██/██\\n**回収場所:** ██博士の自宅\\n**現状:** ██博士宅で使用中。\\n**追記:** 5秒後にちゃんとスイッチを押さないとタイムパラドクスが発生するので注意が必要です。 -██博士\"\ntf2: '0'\nauthor: ''\nredirect-b: '[[module Redirect destination=\"http://ja.scp-wiki.net/log-of-anomalous-items-jp'\nredirect-e: '\"]]'",
+  "tags": [
+    "jp",
+    "剪定対象-子"
+  ],
+  "author": "K_Yayoi-Coke",
+  "created_at": "2022-05-09T00:47:28+00:00",
+  "updated_at": "2022-05-24T21:16:13+00:00",
+  "rating": 23,
+  "_site": "scp-jp",
+  "_fullname": "anomalous-jp:03625"
+}

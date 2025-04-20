@@ -1,0 +1,13 @@
+{
+  "title": "fragment:scp-7472-3",
+  "content": "[[include :scp-wiki:theme:plant]]\n[[include :scp-wiki:component:toggle-sidebar]]\n[[include :scp-wiki:component:blacklight-box-source |inc-source= --]]]\n[[include :scp-wiki:component:blacklight-box-source |inc-colors= --]\n    |color-family=nuts\n    |bg-color=rgb(234,234,234)\n    |txt-color=rgb(12,12,12)\n    |border-color=rgb(15,80,15)\n    |label-bg-color=rgb(15,80,15)\n    |label-txt-color=rgb(252,252,252)]]\n\n[[module CSS]]\n.hovertip { max-width: 400px; }\n.avatar-hover { display: none !important; }\n\n#header h2 span::before {\n     content: '蹦跳，收集，繁殖';\n}\n[[/module]]\n\n\n\n[[div style=\"text-align: right; margin-top: -20px; font-size:80%; color: #757575;\"]]\n原作者 [[[AnActualCrow]]] 及 [[[ralliston-s-authorpage|Ralliston]]]\n[[/div]]\n\n\n[[include :scp-wiki:component:blacklight-box-source |inc-section-start= --]\n|color-family=nuts\n|unique-name=acorn\n|display-name=7472_冬眠_报告_终稿(3).jianguo]]\n\n**[[span class=\"ruby\"]]蹦跳[[span class=\"rt\"]] Scamper [[/span]][[/span]]等级：**无法蹦跳。\n\n**[[span class=\"ruby\"]]收集[[span class=\"rt\"]] Collect [[/span]][[/span]]等级：**在发现处收集。\n\n**[[span class=\"ruby\"]]繁殖[[span class=\"rt\"]] Proliferate [[/span]][[/span]]等级：**未在繁殖。\n\n**描写：**吱吱经济学的核心原则是稀缺性。尽管很想永远采集食物，我们却被未来的冬天和捕食的风险所限制。由于我们永远无法满足自己无限的欲望，我们只能在生活的诸多方面做出取舍。我们限制在地面上活动的时间，以避免被狐狸捕食。我们只收集过冬所需的食物，然后再做其他事情。这就是自然的法则。至少，在SCP-7472被发现之前如此。\n\nSCP-7472是一座位于波兰，波兹南的智人（//Homo sapiens//[[footnote]]{{特征：}}间接食物提供者，非捕食者，非资源竞争者，狗的共生生物。[[/footnote]]）庇护所，内含仅一只智人（//Homo sapiens//）（SCP-7472-1）。SCP-7472-1高度可信，通情达理，深居简出。它们的共同存在对基金会有战略性意义。\n\n我们已持续对SCP-7472-1施加影响达数个季节。基金会前线组织，“松鼠收容先遣队”伪装成SCP-7472-1的同类智人（//Homo sapiens//），向其提出了一项对双方都会有利的交易。 [[footnote]]细节仅限Alpha-1行动组（“人类”）知情。[[/footnote]]然而，如果他在任意时刻不再遵守拟议文件中列出的条款，交易则将被取消。\n\nSCP-7472-1已接受提议。\n\n对SCP-7472-1的隐秘心理影响（通过让我们几只松鼠非常靠近地一起站在SCP-7472外面来实现）已产生效果，让它改装了自己宽敞的庇护所，以供尽可能多的松鼠生活。如果成功，这将为所有参与者带来桑葚级“捕食终结”情景和橡树级“无尽坚果” 情景。对 SCP-7472 的调查揭示了其可能导致枫树级“暖冬”情景的外源温度控制能力。在理想情况下，如果 SCP-7472的范围能够被充分扩展，那么栖息地的大量增加将能够消除稀缺性，并实现悬铃木级“松鼠大和平”情景。\n\n[/scp-7472/offset/0 从基金会高级指挥部开始，工作人员向SCP-7472的转移正在进行]。\n\n _\n _\n\n[[footnoteblock]]\n\n[[include :scp-wiki:component:blacklight-box-source |inc-section-end= --]]]\n\n@@ @@",
+  "tags": [
+    "段落"
+  ],
+  "author": "lan_muda",
+  "created_at": "2023-12-03T08:50:53+00:00",
+  "updated_at": "2023-12-03T09:16:44+00:00",
+  "rating": 0,
+  "_site": "scp-wiki-cn",
+  "_fullname": "fragment:scp-7472-3"
+}

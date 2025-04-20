@@ -1,0 +1,22 @@
+{
+  "title": "SCP-8724",
+  "content": "[[>]]\n[[module Rate]]\n[[/>]]\n\n[[module ListPages  category=\"fragment\" parent=\".\" limit=\"1\" order=\"created_at\" offset=\"@URL|0\"]]\n%%content%%\n[[/module]]\n\n[!-- https://scp-wiki.wikidot.com/fragment:scp-8724-0 --]\n[!-- https://scp-wiki.wikidot.com/fragment:scp-8724-1 --]\n[!-- https://scp-wiki.wikidot.com/fragment:scp-8724-2 --]\n[!-- https://scp-wiki.wikidot.com/fragment:scp-8724-3 --]\n[!-- https://scp-wiki.wikidot.com/fragment:scp-8724-4 --]\n[!-- https://scp-wiki.wikidot.com/fragment:scp-8724-5 --]\n\n[[include :scp-wiki:fragment:scp-anthology-2024-earthworm\n| previous-url = https://scp-wiki.wikidot.com/scp-8480\n| previous-title = Onuxophobia\n| next-url = https://scp-wiki.wikidot.com/scp-8465\n| next-title = Eisoptrophobia\n| hub-url = https://scp-wiki.wikidot.com/scp-anthology-2024\n| hub-title = Anthology 2024\n]]\n\n[[module css]]\n.tabQuote {\n    padding: 0.5em;\n    background-color: var(--darker-color);\n    border: 3px solid var(--accent-color);\n    border-top-left-radius: 20px;\n    border-top-right-radius: 20px;\n    border-bottom-left-radius: 10px;\n    border-bottom-right-radius: 0px;\n}\n\n.earthworm__hub a {\n    color: var(--off-white) !important;\n}\n\n.earthworm__hub a:visited {\n    color: var(--off-white) !important;\n}\n\n.earthworm--anth24 .earthworm__hub::after {\n    background-color: color-mix(in srgb, rgb(50, 140, 140) 10%, currentColor 75%);\n}\n\n@media (min-width: 850px), (min-width: 550px) and (max-width: 768px) {\n  .earthworm {\n    margin-left:-1.8em;\n  }\n}\n\n[[/module]]",
+  "tags": [
+    "_listpages",
+    "building",
+    "extradimensional",
+    "meta",
+    "neutralized",
+    "phobia-anthology",
+    "religious",
+    "scp",
+    "spatial",
+    "transmission"
+  ],
+  "author": "Fishish",
+  "created_at": "2024-10-18T16:06:45+00:00",
+  "updated_at": "2024-10-30T15:17:02+00:00",
+  "rating": 61,
+  "_site": "scp-wiki",
+  "_fullname": "scp-8724"
+}

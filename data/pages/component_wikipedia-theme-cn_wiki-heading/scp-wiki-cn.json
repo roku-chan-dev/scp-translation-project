@@ -1,0 +1,14 @@
+{
+  "title": "中文维基百科主题: 章节标题模板",
+  "content": "[[#if {$top} |   | [!-- ]]\n[[module css]]\n@import url('https://fonts.googleapis.com/css2?family=Noto+Sans+SC:wght@300&display=swap');\n\n.wikiheading.colmod-block .colmod-link-top a {\n  color: black;\n  font-family: 'Noto Serif SC', serif;\n  font-size: 190%;\n}\n\n.wikiheading.colmod-block .colmod-link-top a:hover {\n  text-decoration: none!important;\n}\n\n.wikiheading.colmod-block .colmod-link-top {\n  border-bottom: solid 0.5px lightgray;\n  padding-bottom: 5px;\n  margin-bottom: 1rem;\n}\n\n.wikiheading.colmod-block .unfolded .colmod-link-top a::before {\n  display: inline-block;\n  padding: 0 6px;\n  font-size: 1em;\n  content: \"\\f106\";\n  font-family: \"FontAwesome\";\n}\n\n.wikiheading.colmod-block .folded .colmod-link-top a::before {\n  display: inline-block;\n  padding: 0 6px;\n  font-size: 1em;\n  content: \"\\f107\";\n  font-family: \"FontAwesome\";\n}\n\n[[/module]]\n[[#if {$top} |   | --] ]]\n[[include :smlt:ukwhatn:wikiheading-base\n|top={$top}\n|top=false\n|end={$end}\n|end=false\n|ifprot=0\n|nohide=0\n|folded=0\n|show={$text}\n|show=请输入\"text\"\n|hide={$text}\n|hide=请输入\"text\"\n|end-nohide=1\n]]",
+  "tags": [
+    "jp",
+    "组件"
+  ],
+  "author": "BenjaminChong",
+  "created_at": "2020-05-31T07:50:47+00:00",
+  "updated_at": "2024-09-30T09:26:21+00:00",
+  "rating": 3,
+  "_site": "scp-wiki-cn",
+  "_fullname": "component:wikipedia-theme-cn:wiki-heading"
+}

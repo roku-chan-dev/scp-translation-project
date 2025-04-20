@@ -1,0 +1,18 @@
+{
+  "title": "For Your Eyes Only",
+  "content": "[[include :scp-wiki:theme:black-highlighter-theme]]\n[[include :scp-wiki:theme:telecommunications-monitoring-office-theme]]\n[[include :scp-wiki:component:toggle-sidebar-bhl]]\n[[include :scp-wiki:component:ratio-bar base=-- |ex=--]]\n\n[[>]]\n[[include info:start]]\n[[<]]\n\n[[include :scp-wiki:component:ratio-bar pie=--]]\n\n**Article:** For Your Eyes Only\n\n**Author:** [[*user BattleblockB0ss]]\n\n[[/<]]\n[[include info:end]]\n[[/>]]\n\n[[html]]\n<video style=\"width:100%;height:100%\" controls>\n<source src=\"https://scp-wiki.wikidot.com/local--files/for-your-eyes-only-a-tale-of-the-tmo/TMO%20Introduction%20Film.mp4\" type=\"video/mp4\">\n</video>\n[[/html]]\n[[include :scp-wiki:component:license-box]]\n=====\n> **Filename:** TMO Introduction Film.mp4\n> **Author:** [[*user BattleblockB0ss]], Delapouite, Caro Asercion, Lorc\n> **License:** CC BY-SA 3.0\n> **Source Link:** [https://scp-wiki.wikidot.com/gamers-against-war SCP Foundation Wiki]\n> **Derivative Of:**\n\n> **Name:** Phone icon\n> **Author:** Delapouite\n> **License:** CC BY 3.0\n> **Source Link:** [https://game-icons.net/1x1/delapouite/phone.html Game-icons]\n\n> **Name:** Server rack icon\n> **Author:** Delapouite\n> **License:** CC BY 3.0\n> **Source Link:** [https://game-icons.net/1x1/delapouite/server-rack.html Game-icons]\n\n> **Name:** Rotary phone icon\n> **Author:** Caro Asercion\n> **License:** CC BY 3.0\n> **Source Link:** [https://game-icons.net/1x1/caro-asercion/rotary-phone.htmll Game-icons]\n\n> **Name:** World icon\n> **Author:** Lorc\n> **License:** CC BY 3.0\n> **Source Link:** [https://game-icons.net/1x1/lorc/world.html Game-icons]\n\n> **Name:** Aerial Signal icon\n> **Author:** Lorc\n> **License:** CC BY 3.0\n> **Source Link:** [https://game-icons.net/1x1/lorc/aerial-signal.html Game-icons]\n\n> **Name:** Military fort icon\n> **Author:** Delapouite\n> **License:** CC BY 3.0\n> **Source Link:** [https://game-icons.net/1x1/delapouite/military-fort.html Game-icons]\n\n> **Name:** Character icon\n> **Author:** Delapouite\n> **License:** CC BY 3.0\n> **Source Link:** [https://game-icons.net/1x1/delapouite/character.html Game-icons]\n\n> **Name:** Position marker icon\n> **Author:** Delapouite\n> **License:** CC BY 3.0\n> **Source Link:** [https://game-icons.net/1x1/delapouite/position-marker.html Game-icons]\n\n> **Name:** Broken Bone icon\n> **Author:** Lorc\n> **License:** CC BY 3.0\n> **Source Link:** [https://game-icons.net/1x1/lorc/broken-bone.html Game-icons]\n\n>**Name:** Bleeding Eye icon\n> **Author:** Lorc\n> **License:** CC BY 3.0\n> **Source Link:** [https://game-icons.net/1x1/lorc/bleeding-eye.html Game-icons]\n\n> **Name:** Open folder icon\n> **Author:** Delapouite\n> **License:** CC BY 3.0\n> **Source Link:** [https://game-icons.net/1x1/delapouite/open-folder.html Game-icons]\n=====\n[[include :scp-wiki:component:license-box-end]]\n[[include :scp-wiki:component:wikimodule |normal= --]]]",
+  "tags": [
+    "_cc",
+    "_licensebox",
+    "departmentcon2022",
+    "tale",
+    "telecom-office",
+    "video"
+  ],
+  "author": "BattleblockB0ss",
+  "created_at": "2022-03-05T01:10:34+00:00",
+  "updated_at": "2023-04-09T07:32:43+00:00",
+  "rating": 94,
+  "_site": "scp-wiki",
+  "_fullname": "for-your-eyes-only-a-tale-of-the-tmo"
+}

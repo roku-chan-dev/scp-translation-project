@@ -1,0 +1,14 @@
+{
+  "title": "Nekokuroの著者ページ",
+  "content": "[[tabview]]\n[[tab 投稿作品]]\n[[=]]\n+++ SCPs\n[[/=]]\n[[module ListPages created_by=\"Nekokuro\" separate=\"no\" tags=\"+scp +jp\" order=\"created\" category=\"*\" prependLine=\"||~ SCP ||~ Rating ||~ Comments ||~ Created ||~ Last Comment ||\"]]\n|| %%title_linked%% || %%rating%% || %%comments%% || %%created_at%% || %%commented_at%% ||\n[[/module]]\n[[=]]\n+++ Tales\n[[/=]]\n[[module ListPages created_by=\"Nekokuro\" separate=\"no\" tags=\"+tale +jp\" order=\"created\" category=\"*\" prependLine=\"||~ Tale ||~ Rating ||~ Comments ||~ Created ||~ Last Comment ||\"]]\n|| %%title_linked%% || %%rating%% || %%comments%% || %%created_at%% || %%commented_at%% ||\n[[/module]]\n[[=]]\n+++ Others\n[[/=]]\n[[module ListPages created_by=\"Nekokuro\" separate=\"no\" tags=\"-scp -author -tale -著者ページ\" order=\"created\" category=\"*\" prependLine=\"||~ Others ||~ Rating ||~ Comments ||~ Created ||~ Last Comment ||\"]]\n|| %%title_linked%% || %%rating%% || %%comments%% || %%created_at%% || %%commented_at%% ||\n[[/module]]\n[[/tab]]\n\n[[tab エージェント担意無二]]\n**氏名** 担意無二 (Ninai Muni)\n**専門** 人物捜索，対人交渉\n**所属** サイト-8113\n**セキュリティクリアランス** レベル2\n\n**人物**  19██年生まれ．京都府出身．女性．やせぎす小柄．\n██大学卒業後に財団フロント企業を通してフィールドエージェントとして採用されました．現在は██市内の探偵事務所に偽造されたセーフハウスを拠点に活動しています．\n\n大学在学中から現地の探偵事務所でアルバイトをしており，人探しや損失物捜索に長けていたようです．\n本人曰く「気配が辿れる」らしく，面識のない人物でも限られた情報からその居場所を発見することが可能です．財団による調査の結果異常性は認められず，本人の動物的な感覚であると結論付けられています．\n\n業務に対して真摯に取り組み，財団への忠誠度も高いです．\n訓練スコアも高く将来的な活躍が見込まれていますが，一方で経験不足に由来する判断ミスやパニックに陥ることも珍しくありません．そのため，現時点での単独行動は認められていません．\n\n藍色に染めた髪の毛を肩の高さまで伸ばしています．和装を好み，休日は自身の作成した着物などを着用しています．大学在学時は緑と紫に染めた長髪で，サングラスをかけていたようですが，最近はそうした格好は控えているようです．\n趣味は卓上ゲームを挙げています．「Muina」名義でオリジナルルールのゲームやTRPGシナリオを発表しています．\nまた，1日平均300枚近くの写真を撮っており，気に入ったものに短文をつけてSNSに投稿しているようです．\n\nまた，拠点内で「ねこくろ」という名前の黒猫を飼っています．\n\n[[/tab]]\n[[/tabview]]",
+  "tags": [
+    "jp",
+    "著者ページ"
+  ],
+  "author": "Nekokuro",
+  "created_at": "2021-05-28T13:22:23+00:00",
+  "updated_at": "2021-05-28T13:22:48+00:00",
+  "rating": 0,
+  "_site": "scp-jp",
+  "_fullname": "author:nekokuro"
+}

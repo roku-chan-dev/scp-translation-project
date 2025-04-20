@@ -1,0 +1,15 @@
+{
+  "title": "SCP-970-EX",
+  "content": "[[module CSS]]\n.email-example .collapsible-block-folded a.collapsible-block-link {\n    animation: blink 0.8s ease-in-out infinite alternate;\n}\n@keyframes blink {\n    0% { color: transparent; }\n    50%, 100% { color: #b01; }\n}\n.email {border: solid 2px #000000; width: 88%; padding: 1px 15px; margin: 10px; box-shadow: 0 1px 3px rgba(0,0,0,.5)}\n.email-example a.collapsible-block-link {font-weight: bold;}\n.tofrom {margin-left: 10px; margin-top: 5px; padding: 1px 15px; border-left: solid 3px maroon}\n[[/module]]\n\n\n> **用户：**O5-9\n> 展示文件SCP-970-EX，O5级权限\n\n> **项目编号：**SCP-970-EX\n> \n> **项目等级：**Explained\n> \n> **特殊收容措施：**N/A\n> \n> **描述：**SCP-970-EX是于1999年3月24日猝死身亡的三级研究员Dr. Amelia Jones。Dr. Jones生前就任于Site-46的Safe级SCP翼区，并在该日报告称她感到晕眩。她随后被送往Site-46的医务室进行休息与检查，但工作人员在她躺下后不久便发现她已死亡。\n> \n> Dr. Jones的生前体检证明她很健康。她死时未接触任何异常。毒理学报告显示其尸体内没有毒物残留。\n> \n> 对此事件的SCP分类和SCP-970-EX的研究由O5-9负责。Site-46现处于封锁状态，直到查明SCP-970-EX的原因并将其无效化。允许使用Safe级SCP项目来挽救Dr.Jones。\n> \n> **附录970-EX-A：**O5议会于1999/03/24向Site-46发布的通知\n> \n>> 对SCP-970-EX的限制和调查已经失效。文件将被重新分类，O5-9关于SCP-970-EX的所有指令将被永久性撤销。Dr.Jones的死亡已被确定为突发性心律失常死亡综合征，不再被视为SCP状态。\n> \n> **附录970-EX-B：**给O5-9的通知\n> \n>> //你他妈的以为你在干什么，9号？你为了区区一个研究员破坏了整个站点的运作！除此之外，你还因此威胁到数个SCP项目的生命。这无法接受！现在伦理委员会正在对我们进行调查。我和议会其他成员已经安排了纪律听证会。在此之前，你的权限暂时吊销。//\n>> \n>> - O5-3\n\n@@ @@\n\n------\n@@ @@\n[[=]]\n[[collapsible show=\"访问SCiPNET邮箱？您有一（1）封新邮件！\" hide=\"黑月是否嚎叫？\"]]\n[[<]]\n[[div class=\"email\"]]\n[[div class=\"tofrom\"]]\n**至：**O5-9\n**自：**O5-1\n**主题：**是时候动身了\n[[/div]]\n------\n你反复阅读这篇文档已经六年了，John。我知道你有多爱她，但你必须让她走。有时候人们只是会在我们不希望他们死去的时候死去。我知道你加入议会的原因之一就是为了保护她。即使她已经遗忘了你，你也这么做了。你已经尽力。\n\n我会继续在议会的其他成员面前为你辩护，但你真的需要继续前进。这也会是Amelia想要的。否则，你可能会遭受惩罚，并因此删除你与她之间的所有记忆。\n\n我很抱歉。管理员警告过你，这种生活并不容易。请照顾好自己，John。\n[[/<]]\n[[/div]]\n[[/collapsible]]\n[[/=]]\n\n@@ @@\n@@ @@\n@@ @@\n@@ @@\n@@ @@\n@@ @@",
+  "tags": [
+    "scp",
+    "医学性",
+    "已解明"
+  ],
+  "author": null,
+  "created_at": "2021-04-14T08:18:36+00:00",
+  "updated_at": "2021-04-20T02:26:10+00:00",
+  "rating": 3,
+  "_site": "scp-wiki-cn",
+  "_fullname": "scp-970-ex"
+}

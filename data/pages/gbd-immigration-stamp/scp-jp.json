@@ -1,0 +1,15 @@
+{
+  "title": "グレートブッシュドック王国 出入国証印",
+  "content": "[[include :scp-jp:theme:basalt]]\n[[include credit:start]]\n**タイトル:** グレートブッシュドック王国出入国証印\n**著者:** [[*user Ryu JP]]\n**作成年:** 2024\n[[include credit:end]]\n------\n[[div class=\"document\"]]\n+ 入国証印\n@@@@\n[[image http://scp-jp-storage.wikidot.com/local--files/file:2428007-154-0o81/GBD-ARRIVAL-STAMP.png width=\"100%\"]]\n@@@@\n[[/div]]\n[[div class=\"document\"]]\n+ 出国証印\n@@@@\n[[image http://scp-jp-storage.wikidot.com/local--files/file:2428007-155-npy6/GBD-DEPARTED-STAMP.png width=\"100%\"]]\n@@@@\n[[/div]]\n@@@@\n[[div class=\"notation\"]]\n本資料の画像は、日本の横浜港で実施されている入国管理業務にて発見された不正な出入国証印です。該当の証印内に記載されている「KINGDOM OF GREAT BUSH DOG」の文字列より、これらは[[[scp-1775-jp|SCP-1775-JP]]]及び[[[scp-1557-jp|SCP-1557-JP]]]等で存在が言及された[[[bushdog-hub|グレートブッシュドッグ王国]]]と関与している可能性があるとして記録されています。\n[[/div]]",
+  "tags": [
+    "jp",
+    "アートワーク",
+    "グレートブッシュドッグ王国"
+  ],
+  "author": "Ryu JP",
+  "created_at": "2024-08-31T10:42:33+00:00",
+  "updated_at": "2024-08-31T10:42:53+00:00",
+  "rating": 61,
+  "_site": "scp-jp",
+  "_fullname": "gbd-immigration-stamp"
+}

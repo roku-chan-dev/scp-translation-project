@@ -1,0 +1,20 @@
+{
+  "title": "SCP-4447",
+  "content": "[[include theme:black-highlighter-theme]]\n\n[[>]]\n[[module Rate]]\n[[/>]]\n\n[[include component:info-ayers\n    lang=en |\n    page=scp-4447 |\n    authorPage=https://scpwiki.com/aismallard |\n    comments= \n**SCP-4447:** Sasha's Super Shuttle Service! \n**Author:** [[*user aismallard]] \n \n**Image credits:** \n* {{website.png}} - Original creation of the author \n* {{ring.jpeg}} - [https://commons.wikimedia.org/wiki/File:Order_of_the_Engineer_Ring_(Macro).jpg via Wikimedia Commons, CC-SA-3.0], by Taximes \n \nThanks to wctaiwan, [[*user woedenaz]], and [[*user AthosNetwork]] for their critiques! \n]]\n\n[!--\nPages:\nhttp://www.scp-wiki.net/fragment:scp-4447-1\nhttp://www.scp-wiki.net/fragment:scp-4447-2\nhttp://www.scp-wiki.net/fragment:scp-4447-3\nhttp://www.scp-wiki.net/fragment:scp-4447-4\n--]\n\n[[module ListPages category=\"fragment\" parent=\".\" order=\"created_at\" limit=\"1\" offset=\"@URL|0\"]]\n%%content%%\n[[/module]]\n\n[[footnoteblock]]\n\n[[include component:wikimodule |normal= --]]]\n\n[[div class=\"footer-wikiwalk-nav\"]]\n[[=]]\n<< [[[SCP-4446]]] | SCP-4447 | [[[SCP-4448]]] >>\n[[/=]]\n[[/div]]\n\n[[include component:license-box]]\n=====\n> **Filename:** shopping-page-src.html, website.png\n> **Author:** [[*user aismallard]]\n> **License:** CC-BY-SA 3.0\n> **Source Link:** Self\n\n> **Filename:** ring.jpeg\n> **Author:** [[*user aismallard]]\n> **License:** CC-BY-SA 3.0\n> **Source Link:** [https://en.wikipedia.org/wiki/File:Order_of_the_Engineer_Ring_(Macro).jpg Wikipedia]\n=====\n[[include component:license-box-end]]",
+  "tags": [
+    "_cc",
+    "_licensebox",
+    "_listpages",
+    "marshall-carter-and-dark",
+    "safe",
+    "scp",
+    "telepathic",
+    "teleportation"
+  ],
+  "author": "aismallard",
+  "created_at": "2019-02-04T12:57:56+00:00",
+  "updated_at": "2024-01-26T17:02:02+00:00",
+  "rating": 172,
+  "_site": "scp-wiki",
+  "_fullname": "scp-4447"
+}

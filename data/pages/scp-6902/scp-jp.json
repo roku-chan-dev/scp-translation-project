@@ -1,0 +1,19 @@
+{
+  "title": "SCP-6902",
+  "content": "[[module CSS]]\n\n.page-rate-widget-box {\n\tdisplay: inline-block;\n\tborder-radius: 5px;\n\tbox-shadow: 1px 1px 3px rgba(0, 0, 0, .5);\n\tmargin-bottom: 10px;\n\tmargin-right: 2em;\n}\n\n[[/module]]\n\n[[include :scp-jp:credit:start]]\n**タイトル:** SCP-6902 - ロストバゲージ\n**翻訳責任者:** [[*user Witherite]]\n**翻訳年:** 2021\n**原題/リンク:** [https://scp-wiki.wikidot.com/scp-6902 SCP-6902 - Lost Luggage]\n**著作権者:** [[*user LizardWizard]]\n**作成年:** 2021\n**初訳時参照リビジョン:** rev.10\n[[include :scp-jp:credit:end]]\n\n[[include :scp-jp:component:anomaly-class-bar-source\n|item-number= 6902\n|clearance= 2\n|container-class= euclid\n|secondary-class= none\n|disruption-class= dark\n|risk-class= notice\n]]\n\n-----\n\n**特別収容プロトコル:** SCP-6902には追跡装置が積まれています。常に、財団エージェントは最低1名ニューアーク・リバティー国際空港の手荷物引渡所で待機します。SCP-6902が手荷物引渡所に出現したさいは常に、前述のエージェントは非物質化するまでそれを隔離場所に移送します。未知の当事者がSCP-6902の所有権を主張した場合は、可及的速やかにその当事者の身元を特定します。\n\n**説明:** SCP-6902は、商標や図像の構成のない赤い車輪付きスーツケースです。およそ6時間ごとに、SCP-6902はそのときの位置で非物質化し、ニューアーク・リバティー国際空港の手荷引渡用コンベアの中で再物質化します。\n\n発見時、SCP-6902には2004年1月12日のPHX[[footnote]]フェニックス・スカイハーバー国際空港のIATA空港コード[[/footnote]]発EWR[[footnote]]ニューアーク・リバティー国際空港のIATA空港コード[[/footnote]]行1814便に属すると識別された荷札がついていました。注目すべきことに、この便は機械的な故障により墜落しており、全搭乗客が死亡していました。この荷札はそれ以降取り外されています。\n\nSCP-6902が非物質化するさい、その内部に存在する全ての物品はSCP-6902-1実例になります。SCP-6902が物質化するさいは常に、全てのSCP-6902-1実例もその内部で同様に物質化します。\n\n以下のリストに全てのSCP-6902-1実例が掲載されています。\n* 5着の長袖ワイシャツ\n* 1足のドレスシューズ\n* 3本のネクタイ\n* 7組の下着\n* 4足のドレスソックス\n* 1枚のサングラス\n* 1本の黒革ベルト\n* 1台の使い捨てカメラ\n* 洗面用具一式\n* 1枚の空の革製フォルダー\n* 1体のクマのぬいぐるみが入った1点のギフトバッグ\n\n以下のメッセージがSCP-6902自体の内面に刺繍されています。「ジェイソンへ。あなたはこのバッグを失くさないでしょう。」\n\n[[footnoteblock]]",
+  "tags": [
+    "en",
+    "euclid",
+    "scp",
+    "容器",
+    "批評者スポットライト",
+    "瞬間移動",
+    "衣類"
+  ],
+  "author": "Witherite",
+  "created_at": "2021-08-27T11:59:35+00:00",
+  "updated_at": "2024-04-20T14:20:56+00:00",
+  "rating": 5,
+  "_site": "scp-jp",
+  "_fullname": "scp-6902"
+}

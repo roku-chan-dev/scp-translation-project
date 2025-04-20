@@ -1,0 +1,15 @@
+{
+  "title": "SCP 2413 - 정화 문서",
+  "content": "[[include theme:black-highlighter-theme]]\n[[include :scp-wiki:component:bhl-dark-sidebar]]\n[[include component:info-ayers\n|lang=ko\n|page=scp-2413\n|authorPage=http://ko.scp-wiki.net/dr-cimmerian-s-personnel-file\n|comments=첫 번째 페이지로 돌아가기. http://ko.scp-wiki.net/scp-2413\n]]\n[[module CSS]]\nsup {\nvertical-align: top; position: relative; top: -0.5em;\n}\n:root{\n--cutColour: #fafafa;\n--barColour: #590505;\n}\n.translation_block{\ndisplay:none;}\n\n.info-container .collapsible-block-folded a{\ncolor: #FFF;}\n.info-container .collapsible-block-unfolded-link a{\ncolor: #FFF;}\n\n.info-container .collapsible-block-link,\n.info-container:hover .collapsible-block-link {\nline-height: 1.6em;\n}\n[[/module]]\n@@@@\n@@@@\n[[include info:start]]\n**SCP 2413 - 정화 문서**\n**저자:** [[*user doctor-cimmerian]]          \n**원작:** http://www.scpwiki.com/decontamination-document-0094\n**역자:** [[*user salamander724]]\n----\n> **파일명:**  thecritic.mp3\n> **원본 제목:** Apophysis-100303-104.jpg\n> **저작권자:** Gut Monk\n> **라이선스:** 퍼블릭 도메인\n> **출처:**  https://en.wikipedia.org/wiki/File:Apophysis-100303-104.jpg\n[[include info:end]]\n++ 환청이 멎을 때까지 아래 그림을 쳐다보시오 \n\n[[=image http://scp-wiki.wikidot.com/local--files/decontamination-document-0094/Apophysis-100303-104.jpg style=\"width: 99%; border: solid 1px #000000; padding: 1px\"]]\n\n@@@@\n@@@@\n@@@@\n@@@@\n@@@@\n@@@@\n@@@@\n@@@@\n\n\n**인식재해 정화 작업에 협조해 주셔서 감사합니다. 만약 나중에 SCP-2413 문서에 또 접근했을 경우, 본 과정을 반드시 다시 수행해야 합니다.**\n\n[[html]]\n<audio autoplay>\n  <source src=\"http://scp-wiki.wikidot.com/local--files/decontamination-document-0094/newbackandforth.mp3\" type=\"audio/mpeg\">\n</audio>\n\n<html>\n<head>\n<script type=\"text/javascript\">\n\nfunction checkRedirect()\n{\n    if (parseInt(sessionStorage.read) != 1)\n    {\n        window.top.location = \"http://ko.scp-wiki.net/scp-2413\";\n    }\n}\n</script>\n</head>\n<body onLoad=\"checkRedirect();\">\n</body>\n</html>\n[[/html]]",
+  "tags": [
+    "en",
+    "보충",
+    "음성첨부"
+  ],
+  "author": "Salamander724",
+  "created_at": "2015-04-24T09:30:17+00:00",
+  "updated_at": "2021-11-02T09:48:56+00:00",
+  "rating": 5,
+  "_site": "scpko",
+  "_fullname": "decontamination-document-0094"
+}

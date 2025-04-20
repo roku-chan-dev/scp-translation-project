@@ -1,0 +1,15 @@
+{
+  "title": "So You Can Live In The Light（あなた達は光の中で生きる）",
+  "content": "[[include :scp-jp:component:info-ayers\n|lang=en[!-- EN/RU/KO/CN/FR/PL/ES/TH/JP/DE/IT/UA/PTBR --]\n|page=we-die-in-the-dark[!-- url of your page on the scp wiki --]\n|authorPage=http://www.scp-wiki.net/dr-cimmerian-s-personnel-file[!-- link to your author page --]\n|comments= \n \nJust a passing thought I had. \n\nEdit: Also did an audio adaptation of it here:  https://www.youtube.com/watch?v=ypj1aUXG9-M \n\n]]\n\n[[include :scp-jp:theme:black-highlighter-theme]]\n[[module CSS]]\nsup { \nvertical-align: top; position: relative; top: -0.5em; \n}\n:root{ \n--cutColour: #fafafa;\n--barColour: #590505;\n}\n\n.info-container .collapsible-block-folded a{\ncolor: #FFF;}\n.info-container .collapsible-block-unfolded-link a{\ncolor: #FFF;}\n\n.translation_block{\ndisplay:none;}\n[[/module]]\n[[module css]]\n#side-bar {\n    background: rgb(var(--white-monochrome));\n}\n\n#side-bar div.menu-item a, #side-bar div.menu-item .text {\n    color: rgb(var(--black-monochrome));\n}\n\n#side-bar>div:nth-child(5) {\n    background-color: rgba(var(--dark-accent),0.25)!important;\n}\n[[/module]]\n\n[[>]]\n[[module Rate]]\n[[/>]]\n\n> 親愛なるミズ・ジェイコブズへ\n> \n> 最も深い悔恨と共にあなたへ手紙を書いています。あなたの息子、ミッキーは、私の指揮のもとでの任務中の行動において死亡いたしました。すべての親にとって、子供を失うことは受け入れがたいことでしょう。しかしエージェント・ミッキー・ジェイコブズは、私の指揮した者たちの中で最も優秀な1人であったと、私は伝えたいと思います。\n> \n> ミックは任務に忠実であり、穏やかな笑顔とともに思いやりを持つ人物でした。困難な状況でも彼がたたえていた微笑みは、あなたから受け継いだものです。彼を失ったことで我々が受けた衝撃は、あなたが今受けているもののほんの一片ほどでしかないでしょう。\n> \n> 彼の名誉の原理への献身と自己犠牲は彼の人生の全てに生きていました。そして最上位の自己犠牲が彼を死へと導いたのです。それは私にも名誉の原理への最大限の献身をさせるものとして遺され、そしてその名誉が、私に彼を死へと導いた出来事の真実を話すことを要求するのです。\n> \n> まず、率直に申しまして、あなたの息子は材木会社の警備員ではありませんでした。あなたの息子は英雄でした。\n> \n> 今年8月18日、あなたの息子はサウスアラバマの我々の組織の施設の一つに駐在していました。我々の最も危険なセクターの一つでのセキュリティ違反が発生し、あなたの息子は脅威を止めるためのチームの一員として送られました。あなたの息子は7人のエージェントの先頭におり、自動ドアが閉まったとき施設内に1人で残されたのです。\n> \n> サポートもなく、通信も断続的な状況で、あなたの息子は危険へと向かい、最深部においてサイトの保安スタッフに火力支援を提供しました。彼はそこでサイト管理者により我々の研究スタッフの何人かを、サイトを徘徊する怪物たちから救助する任務を受けたのです。\n> \n> 彼はそれらスタッフを救助する最後の段階で死亡しました。あなたの息子のおかげで、今日何ダースもの我々の最も良き魂が生存しております。\n> \n> あなたが今感じているに違いない悲しみの深さを、私はどれほど慮ろうとしてもできないでしょう。しかしあなたの息子の死が無駄ではなく、彼を知るものすべての胸に勇気と、忠実さと、名誉と共に記憶されることは確かであります。\n> \n> 心から、そして最大限の悲しみを込めて、エージェント・ジョナサン・ブラッドレー\n\n-----\n\n> サイト‐88情報セキュリティAIが機密情報散布の試みを検知しました。\n> \n> 遮断、削除、そして情報セキュリティに承認されたカバーストーリーへの改変が行われます。\n> \n> この試みにより、エージェント・ジョナサン・ブラッドレーは懲戒されます。\n\n-----\n\n> 親愛なるミズ・ジェイコブズへ\n> \n> この手紙にはミッキー・ジェイコブズの退職金の残余が同封されています。ジェイコブズ氏の緊急連絡先として貴殿が登録されているため、我々は我々に代わって貴殿がこの支払を彼に送付すると信託するものです。\n> \n> ジェイコブズ氏の最近の薬物依存及び突然の失踪という問題にもかかわらず、彼が戻り次第いつでも、我々はリハビリテーションプログラムを提供することを望んでいることにご留意ください。\n> \n> お時間、ありがとうございました。\n> \n> 警備主任ジョナサン・ブラッドレー、サザン・クロスカット・パインズ",
+  "tags": [
+    "en",
+    "tale",
+    "要翻訳"
+  ],
+  "author": "YS_GPCR",
+  "created_at": "2018-05-02T10:58:48+00:00",
+  "updated_at": "2021-12-14T17:06:19+00:00",
+  "rating": 13,
+  "_site": "scp-jp",
+  "_fullname": "we-die-in-the-dark"
+}

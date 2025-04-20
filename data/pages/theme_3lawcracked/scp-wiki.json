@@ -1,0 +1,14 @@
+{
+  "title": "Third Law Cracked CSS Theme",
+  "content": "[[iftags +theme]]\n[[module CSS]]\n@import url('https://scp-wiki.wdfiles.com/local--code/theme%3A3law/1');\n[[/module]]\n\n[[>]]\n[[module Rate]]\n[[/>]]\n\nThis is a variant theme for the [[[third-law-hub|Third Law]]] canon. Using this theme requires the base Third Law Theme. To use this theme, put the following on any page:\n\n> @@[[include theme:3law]]@@\n> @@[[include theme:3lawcracked]]@@\n\n[[code type=\"css\"]]\n/*\n    Cracked Third Law Theme\n    [2018 Wikidot Theme]\n    A variant of the Third Law Theme created by TyGently.\n    Original theme created by GreenWolf, with technical assistance from Randomini and aesthetic assistance from Dr Kens and tawny.\n    Based on SCP Sigma 9 Theme created by Aelanna and Dr Devan.\n    The Station font was created by Nick Matavka and is licensed under the SIL Open Font License.\n    The Prometheus Labs/Third Law Flame Logo was created by GreenWolf and is licensed under CC-BY-SA 3.0.\n     Revised by stormbreath.\n*/\n \ndiv#container-wrap {\n    background-image: url('https://scp-wiki.wdfiles.com/local--files/theme%3A3lawcracked/body_bg_cracked.png');\n}\n \n/* HEADER */\n#header {\n    background-image: url('https://scp-wiki.wdfiles.com/local--files/theme%3A3lawcracked/crackedbase.gif');\n}\n \n#header h2 span::before {\n    content: 'SOMETHING ISN\\'T RIGHT... ';\n}\n[[/code]]\n[[/iftags]]\n\n[[module CSS]]\n@import url('https://scp-wiki.wdfiles.com/local--code/theme%3A3lawcracked/1');\n[[/module]]",
+  "tags": [
+    "_cc",
+    "theme"
+  ],
+  "author": "TyGently",
+  "created_at": "2018-08-30T04:28:59+00:00",
+  "updated_at": "2021-03-11T17:02:29+00:00",
+  "rating": 12,
+  "_site": "scp-wiki",
+  "_fullname": "theme:3lawcracked"
+}

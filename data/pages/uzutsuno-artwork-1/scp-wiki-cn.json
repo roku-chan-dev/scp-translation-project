@@ -1,0 +1,14 @@
+{
+  "title": "云的画哦！",
+  "content": "[[module CSS arguments...]]\n#page-title {\ndisplay: none;\n}\n\n.forClickChangePageTitleDiv {\nfont-size: 200%;\ncolor: #990011;\npadding: 0 0 0.25em;\nmargin: 0 0 0.6em;\nborder-bottom: 1px solid #bbb;\nfont-weight: normal;\n}\n\n.forClickChangePageTitleDiv .collapsible-block-link{\ncolor: #990011;\npadding: 0;\nmargin: 0;\nfont-weight: normal;\ntext-decoration: none;\n}\n\n.forClickChangePageTitleDiv .collapsible-block-link:hover{\ncolor: #990011;\npadding: 0;\nmargin: 0;\nfont-weight: normal;\ntext-decoration: none;\n}\n\n.forClickChangePageTitleDiv p {\npadding: 0;\nmargin: 0;\n}\n[[/module]]\n[[module ListPages separate=\"no\" limit=\"1\" range=\".\"]]\n[[div class=\"forClickChangePageTitleDiv\"]]\n[[collapsible show=\"%%title%%\" hide=\"羊的画哦！\"]]\n[[/collapsible]]\n[[/div]]\n[[/module]]\n\n[[include :scp-wiki-cn:credit:start-standalone]]\n**标题：**[[span class=\"ruby\"]]云[[span class=\"rt\"]]羊[[/span]][[/span]]的画哦！\n**作者：**©︎[[*user Uzutsuno]]\n**作成年：**2021\n[[include :scp-wiki-cn:credit:end-standalone]]\n\n[[=image http://scp-jp-storage.wdfiles.com/local--files/file%3A6117410-7-drmi/%E9%9B%B2%E3%83%92%E3%83%84%E3%82%B8%E3%81%AE%E7%B5%B5%E3%82%92%E6%8F%8F%E3%81%84%E3%81%A6%E3%82%88-%E3%82%A2%E3%83%BC%E3%83%88%E3%83%AF%E3%83%BC%E3%82%AF style=\"width: 80%; border: solid 5px #660024; padding: 0px\"]]",
+  "tags": [
+    "jp",
+    "艺术作品"
+  ],
+  "author": "EvkesraRe",
+  "created_at": "2022-02-04T11:18:31+00:00",
+  "updated_at": "2022-02-04T11:25:00+00:00",
+  "rating": 7,
+  "_site": "scp-wiki-cn",
+  "_fullname": "uzutsuno-artwork-1"
+}

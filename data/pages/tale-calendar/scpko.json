@@ -1,0 +1,14 @@
+{
+  "title": "이야기 캘린더",
+  "content": "[[>]]\n[[module Rate]]\n[[/>]]\n\n> 안녕하세요! 여기는 모든 '이야기' 태그를 가진 항목을 날짜 순으로 나열한 목록입니다. 각 월/년도 옆에 있는 순자는 그 기간 얼마나 많은 페이지가 생성되었는 지를 나타냅니다. 바라건대, 이 놀랍고 흥미진진한 목록은 어떻게 이야기가 시간이 지나면서 발전해가는지 볼 수 있습니다! --로제\n\n[[module PageCalendar category=\"_default\" tags=\"+이야기\" \"-scp\"]]\n[[module ListPages category=\"_default\" tags=\"+이야기\" \"-scp\" perPage=\"100\" date=\"@URL\" separate=\"false\" prependLine=\"||~ Page||~ Date created||~ Created by ||\"]]\n|| %%linked_title%% || %%date%% || %%author%% ||\n[[/module]]",
+  "tags": [
+    "en",
+    "관리"
+  ],
+  "author": "Aiken Drum",
+  "created_at": "2020-04-13T13:56:23+00:00",
+  "updated_at": "2021-04-18T15:50:50+00:00",
+  "rating": 1,
+  "_site": "scpko",
+  "_fullname": "tale-calendar"
+}

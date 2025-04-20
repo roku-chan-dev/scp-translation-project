@@ -1,0 +1,15 @@
+{
+  "title": "機械の零落 ハブ",
+  "content": "[[module CSS]]\n@import url(/theme:3law/code/1);\n[[/module]]\n\n[[>]]\n[[module Rate]]\n[[/>]]\n\n[[=image comedownmachine.png width=\"80%\"]]\n\n[[div style=\"border: 1px #e3e7ea; margin-left 1%; margin-right: 1%; padding-left: 5%; padding-right: 5%; text-align: left; color:black;\"]]\n\n**プロローグ: [[[A Confluence of Clandestine Conferences]]]**\n* **1. [[[Slow Animals]]]**\n* **2. [[[Automatic Stop]]]**\n* **3. [[[The End Has No End]]]**\n**幕間: [[[Intermission|World Unglued]]]**\n⠀⠀⠀⠀⠀• **間劇: [[[End of an Era]]]** //by Jacob Conwell//\n⠀⠀⠀⠀⠀• **間劇: [[[Separate Ways]]]** //by Jacob Conwell//\n* **4. [[[Threat of Joy]]]**\n* **5.** 暗号化データ: ████ ██ █████\n* **6.** 暗号化データ: ███████ ████\n**エピローグ:** ##red|Error: 暗号化に失敗しました。直ちに技術支援を受けてください。##\n[[/div]]",
+  "tags": [
+    "en",
+    "ハブ",
+    "第三法則"
+  ],
+  "author": "Kasugai_Kanagu",
+  "created_at": "2019-08-04T03:45:36+00:00",
+  "updated_at": "2023-07-26T14:33:47+00:00",
+  "rating": 12,
+  "_site": "scp-jp",
+  "_fullname": "comedown-machine-hub"
+}

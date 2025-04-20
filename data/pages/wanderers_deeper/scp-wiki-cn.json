@@ -1,0 +1,15 @@
+{
+  "title": "陷入更深处",
+  "content": "[[include :scp-wiki-cn:wanderers:wanderers-depths]]\n\n[[module css]]\n/* 调整 */\niframe.html-block-iframe{\nheight: auto !important;\n}\n[[/module]]\n\n\n一伙[[footnote]] 你差点以为这个词用对了。 [[/footnote]]鱼邀请你去听他们今晚的音乐会。这听起来很酷，但它们提醒你：那时将会演奏长达30分钟的噪音音乐[[footnote]] 一个以高度悦耳和广受欢迎而闻名的音乐流派。 [[/footnote]]，而且那里也没有座位，毕竟音乐会就开在海洋的中间。\n\n你要接受它们的邀请吗？\n\n\n[[collapsible show=\"+ 是的\" hide=\"- 是的\"]]\n[[html]]\n<iframe style=\"border: 0; width: 100%; height: 42px;\" src=\"https://bandcamp.com/EmbeddedPlayer/track=1692686303/size=small/bgcol=333333/linkcol=0f91ff/artwork=none/transparent=true/\" seamless><a href=\"http://akumeoy.bandcamp.com/track/deeper\">deeper by unspecified flock (?) of fish</a></iframe>\n[[/html]]\n\n鱼儿说：“歌单已登录Bandcamp。”你问鱼儿它们是怎么有Bandcamp账户的，对方随即转移了话题。它们问你对音乐的看法，于是你就 //十 分 肯 定 地// 说：那绝对是录播的。接着鱼儿就给你一些K粉，然后夜晚剩下的部分就消融在朦胧之中。\n\n第二天早上，你醒了过来，虽然浑身湿透，但没其他问题。\n[[/collapsible]]\n\n[[collapsible show=\"+ 不\" hide=\"但您必须这么做！\"]][[/collapsible]]\n@@@@\n@@@@\n[[collapsible show=\" \" hide=\" \"]]\n[[footnoteblock]]\n[[/collapsible]]",
+  "tags": [
+    "wanderers",
+    "wd2020",
+    "记载"
+  ],
+  "author": "Etinjat",
+  "created_at": "2020-04-14T12:47:27+00:00",
+  "updated_at": "2020-04-14T13:17:26+00:00",
+  "rating": 3,
+  "_site": "scp-wiki-cn",
+  "_fullname": "wanderers:deeper"
+}

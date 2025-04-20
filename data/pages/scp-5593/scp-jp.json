@@ -1,0 +1,23 @@
+{
+  "title": "SCP-5593",
+  "content": "[[include :scp-jp:theme:black-highlighter-theme]]\n[[include :scp-jp:component:bhl-dark-sidebar]]\n[[include :scp-wiki:component:centered-header-bhl]]\n[[include :scp-wiki:component:toggle-sidebar-bhl]]\n[[include :scp-wiki:component:acs-animation]]\n[[include :scp-wiki:component:fade-in speed=4]]\n[[module CSS]]\n\n#page-content hr {\nborder-top: none;\nheight: .05em;\nbackground: #454545;\n}\n\n#page-content hr {\nborder-top: none;\nheight: .05em;\nbackground: #454545;\n}\n\n.info-container .collapsible-block-folded a{\ncolor: #FFF;}\n.info-container .collapsible-block-unfolded-link a{\ncolor: #FFF;\n}\n\n#page-content > .collapsible-block {\n    display: block;\n    text-align: center;\n    padding: .8em;\n    background-color: #e3e3e3;\n    border-top: 0.125rem dashed #b5b5b5;\n    border-bottom: 0.125rem dashed #b5b5b5;\n}\n\n#page-content > .collapsible-block .collapsible-block-content {\n    text-align: left;\n}\n\nblockquote,\ndiv.blockquote {\n    border: 0.125rem solid #d4d4d4;\n    background-color: #F5F5F5;\n}\n\n.interview{\n    border:solid 2px #d4d4d4;\n    background:#F5F5F5;\n    width:90%;\n    padding:1px 15px;\n    margin: 10px auto;\n}\n\n#page-title{display:none}\n\n[[/module]]\n\n\n[[>]]\n[[module rate]]\n[[/>]]\n[[div style=\"text-align: right; margin-top: -20px;\"]]\n[[size 80%]]##757575|by PlaguePJP##[[/size]]\n[[/div]]\n\n[[include :scp-jp:component:info-ayers\n|lang=en[!-- EN/RU/KO/CN/FR/PL/ES/TH/JP/DE/IT/UA/PTBR --]\n|page=scp-5593[!-- url of your page on the scp wiki --]\n|authorPage=http://www.scp-wiki.net/plaguepjp[!-- link to your author page --]\n|comments= Unclogged / 詰まり解消 - PlaguePJP\n]]\n\n[[include :scp-jp:component:anomaly-class-bar-source\n|item-number= 5593\n|clearance= 2\n|container-class= neutralized\n|secondary-class= none\n|disruption-class= vlam\n|risk-class= notice\n]]\n\n------\n\n**特別収容プロトコル:** --SCP-5593はサイト-49の衛生器具内に存在します。収容の取り組みは摘出と再収容を重視します。-- 補遺1での出来事以降、SCP-5593はNeutralizedに再分類されています。\n\n-----\n\n**説明:** SCP-5593はサイト-49の衛生器具と水道管に影響を及ぼし、ランダムな間隔で大量の海水を激しく噴出させているアノマリーです。微生物の分析により、この水はサイト-49から2500 km以上離れた太平洋に由来すると判明しています。\n\n||~ SCP-5593発生日時 ||~ 場所 ||\n|| 13:47 - 2012/12/04 || 3階、職員用トイレ - 西棟 ||\n|| 02:34 - 2012/12/05 || 3階、食堂の流し台 - 東棟 ||\n|| 22:19 - 2012/12/06 || 2階、冷水器 - 西棟 ||\n|| 17:38 - 2012/12/09 || 4階、洗眼場[[footnote]]利用中に発生。[[/footnote]] - 東棟 ||\n------\n= **補遺1**\n------\n2012/12/10、ジョージ・ディアス博士がSCP-5593を発生させていると思われる実体と偶発的に口論を始めました。このイベントの監視映像は以下のとおりです。\n\n[[div class=\"interview\"]]\n= **インタビュー**\n------\n//(映像は西棟の研究員用トイレを映している。トイレに水が流れ、ディアス博士が個室から出て洗面所ヘと歩く。)//\n\n//(4つの蛇口全てが水の勢いで洗面所から勢いよく外れ、その過程でディアス博士をずぶ濡れにさせる。これを受け、ディアス博士が卑猥な言葉を叫びながら洗面所を強く叩く。)//\n\n**実体:** おい、何すんだお前！\n\n**ディアス:** ん -- 何？ 誰だ？\n\n**実体:** 叩いても余計に不愉快にさせるだけだぞ。落ち着け。\n\n**ディアス:** お前がこの配管から水を噴出させているのか？\n\n**実体:** そうなんだろうな、この継ぎ目から出ようとしていたところなんだが、//お前//みたいな奴がいっつも邪魔しやがる。\n\n**ディアス:** いーや、よく聞けこの野郎、この1週間お前はずっとぶっ壊して --\n\n**実体:** こちとらここに閉じ込められてんだよ！ この古びた掃き溜めみたいなとこに行きついてからずっと出口を探してる。いくらか進展したと思っていたが、どうもただ一進一退を繰り返してたようだな。\n\n**ディアス:** ……どうしたらそうな --\n\n**実体:** わざとじゃない！ 道を間違えたりしただけだ。\n\n**ディアス:** 自分がミズーリ州にいると認識しているんだな？ 正確にはカンザスシティか。その場所をお前が知っているのかは疑問だが……\n\n**実体:** 知ってるに決まってんだろ、最後にイタリア人どもと一緒になるとかツイてないよなあ。\n\n**ディアス:** いやそれはちが -- 待てよ、いつでも助けを求められたのなら、その…… なぜそうしなかった？\n\n**実体:** 知らない奴と話すと不安になるんだよ。\n\n**ディアス:** //(ため息をつく。)// ちょっと待ってろ。\n[[/div]]\n\nトイレ裏の壁が取り壊されたものの、すぐにはアノマリーと思われるものは発見されませんでした。続いて配管のネジが取り外されると、内部で激しい威力の爆発が起こりました。68,000 kgの内臓と水がトイレと廊下に噴出し、それによって調査中だった修理工チームが死亡しました。\n\n有機物の医学的検査を実施したところ、その由来の生物は非異常なシロナガスクジラであると判明しました。",
+  "tags": [
+    "_海",
+    "en",
+    "jam-con2021",
+    "keter",
+    "scp",
+    "クジラ",
+    "動物",
+    "水中",
+    "液体",
+    "生命",
+    "知性"
+  ],
+  "author": "walksoldi",
+  "created_at": "2021-04-01T10:21:42+00:00",
+  "updated_at": "2024-02-21T12:33:40+00:00",
+  "rating": 14,
+  "_site": "scp-jp",
+  "_fullname": "scp-5593"
+}

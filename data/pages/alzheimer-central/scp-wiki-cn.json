@@ -1,0 +1,16 @@
+{
+  "title": "阿尔兹海默症 中心页",
+  "content": "[[>]]\n[[module rate]]\n[[/>]]\n\n[[module CSS]]\n/*\n    Powered on 2020/03/24 10:02:43\n    [2020 Wikidot Theme]\n    Created by Heavyblues\n    CC BY-SA 3.0\n*/\n\ndiv#header {\n    background: url(http://scpsandboxcn.wikidot.com/local--files/hb-azintro/AlzheimerHeadReEn)10px 10px no-repeat;\n    background-position:1em 0.8em;\n    background-size:150px 150px;\n}\ndiv#container-wrap {\nbackground: url(http://scpsandboxcn.wikidot.com/local--files/hb-azintro/AlzheimerPicReMa) top left repeat-x;}\n\n\nbody {\n    background: rgb(255, 255, 255);\n    color: rgb(0, 0, 0);\n}\nh1 {\n    color: rgb(0, 0, 0);\n}\ndiv#header h1 a span {\n    font-size: 0px;\n}\ndiv#header h1 a:before {\n    content: \"SCP基金会\";\n    color: #eee;\n    \n}\ndiv#header h2 span {\n    font-size:0px;\n    padding: 4px;\n}\ndiv#header h2:after {\n    content: \"我们现在前去原野\";\n    text-shadow: 3px 3px 5px rgb(0, 0, 0);\n    font-weight: bold;\n    color: rgb(217,217, 217);\n    padding: 19px 0;\n    white-space: pre;\n}\n\n\n\ndiv#side-bar div.side-block {\n    border: 1px solid rgb(255, 255, 255);\n    box-shadow: 0 2px 6px rgb(217, 217, 217);\n}\ndiv#side-bar div.side-block div.heading,\ndiv#side-bar div.collapsible-block-unfolded-link,\ndiv#side-bar div.collapsible-block-unfolded-link div.collapsible-block-link {\n    color: rgb(0, 0, 0);\n    border-color: rgb(0, 0, 0);\n}\ndiv.open-menu a {\n    color: rgb(0, 0, 0)!important;\n    border-color: rgb(0, 0, 0)!important;\n}\n#side-bar a:visited {\n    color: rgb(0, 0, 0);\n}\n#side-bar div.menu-item .sub-text {\n    color: rgb(0, 0, 0);\n}\n#side-bar a,a:visited {\n    color: rgb(0, 0, 0);\n}\n#side-bar img {\n    filter: grayscale(1);\n    -webkit-filter: grayscale(1);\n}\n[[/module]]\n[[div style=\"border:solid 1px #999999; background:#f0eeee; padding:5px; margin-bottom: 10px;\"]]\n[[=]]\n++ -故事概述-\n**出于某个突发事件/长期以来的消耗，基金会进入了衰落期。**\n\n自那之后，基金会一方面由于连年亏损，愈发难以控制收容失效，组织内部呈现分裂和腐败的态势，\n另一方面，基金会则要接受来自新生力量的挑战：由政府授意的全球性组织（如GOC）和基金会旧日的仇敌（混沌分裂者等）正不断蚕食基金会的势力范围。\n\n**庞大而臃肿的基金会正在逐渐退化。**\n[[/=]]\n[[/div]]\n[[image http://scpsandboxcn.wikidot.com/local--files/hb-azintro/AAHZMBG.jpg \" height=\"600px\"  width=\"800px\"]]\n[[div class=\"content-panel standalone series\"]]\n[[=]]\n++ **-作品目录-**\n[[size large]]\n[[module ListPages separate=\"1\" tags=\"+阿尔兹海默症 -中心\" order=\"random\"  perPage=\"50\"]]\n* %%title_linked%% - %%created_by_linked%%\n[[/module]]\n[[/size]]\n++ 与\n[[size large]]\n[[[cheesy-dialogue|烂俗对白]]] - [[*user DrSee]]\n[[/size]][[size large]]\n[[[wither-and-fall|不论何时他们总是默默凋零]]] - [[*user DrSee]]\n[[/size]]\n[[/=]]\n[[/div]]\n[[div style=\"border:solid 1px #999999; background:#f0eeee; padding:5px; margin-bottom: 10px;\"]]\n[[=]]\n++ -写作指南-\n**本设定欢迎所有人加入——**\n\n作者可以任意视角切入，以任意体裁写作。从基金会开始衰落，直到可能的最终崩溃前都将是您的天地——个体的思考与行动，利益和使命的冲突，组织间的阴谋斗争都将是绝妙的主题。基金会衰退的过程也可以持续几年，几十年，甚至成为常态。\n\n本设定的整体基调较为严肃，但并不排斥荒诞和滑稽——只要写的够好。\n\n**向新世界挥手吧。**\n[[/=]]\n[[/div]]",
+  "tags": [
+    "_设定中心",
+    "中心",
+    "原创",
+    "阿尔兹海默症"
+  ],
+  "author": "Heavyblues",
+  "created_at": "2022-05-10T16:22:26+00:00",
+  "updated_at": "2024-03-27T04:22:51+00:00",
+  "rating": 117,
+  "_site": "scp-wiki-cn",
+  "_fullname": "alzheimer-central"
+}

@@ -1,0 +1,20 @@
+{
+  "title": "SCP-3608",
+  "content": "[[include theme:black-highlighter-theme]]\n\n[[include :scp-wiki:component:pride-highlighter |inc-bi-alt= --]]]\n\n[[include component:ratio-bar base=-- |ex=--]]\n[[include :scp-wiki:info:start]]\n@@ @@\n**SCP-3608: \"PTSD: Post-Traumatic Stress Dimension\" by:** [[*user Doctor Fullham]]\n@@ @@\n[[=]]\n+++ [http://www.scp-wiki.net/doctor-fullham ♫ Doctor Fullham's Author Page ♫]\n[[/=]]\n[[include component:ratio-bar pie=--]]\n[[include :scp-wiki:info:end]]\n\n[[module ListPages category=\"fragment\" parent=\".\" order=\"created_at\" limit=\"1\" offset=\"@URL|0\"]]\n%%content%%\n[[/module]]\n\n[[footnoteblock]]\n\n[[div class=\"footer-wikiwalk-nav\"]]\n[[=]]\n<< [[[SCP-3607]]] | SCP-3608 | [[[SCP-3609]]] >>\n[[/=]]\n[[/div]]\n\n\n[!-- For translators, here is a direct link to each iteration. --]\n[!-- http://www.scp-wiki.net/fragment:scp-3608-0 --]\n[!-- http://www.scp-wiki.net/fragment:scp-3608-1 --]\n[!-- To make ListPages work correctly, make this main page first, then upload the first iteration and set its parent to the first page. Repeat that for each iteration. Remember to change the offset links at the bottom of each iteration to the correct link for the new pages you have created. --]",
+  "tags": [
+    "_listpages",
+    "empathic",
+    "extradimensional",
+    "knowledge",
+    "portal",
+    "safe",
+    "sapient",
+    "scp"
+  ],
+  "author": "Doctor Fullham",
+  "created_at": "2018-07-09T22:40:38+00:00",
+  "updated_at": "2023-11-27T21:17:10+00:00",
+  "rating": 106,
+  "_site": "scp-wiki",
+  "_fullname": "scp-3608"
+}

@@ -1,0 +1,24 @@
+{
+  "title": "SCP-6880",
+  "content": "**项目编号：**SCP-6880\n\n**项目等级：**Thaumiel\n\n**特殊收容措施：**SCP-6880的消化液将作为IV级化学/生物武器来对待和处理，但除此之外应按太阳瓶子草对其进行培植和处置。更多文件、照看及种群控制详情可按申请从基金会植物学部获取；首先联系[[[light-dependent-reactions |Dr. Chelsea Elliott]]]邮箱@@chelliott@foundation.scp@@。SCP-6880的外部种群将由机动特遣队[[[task-forces#theta-4 |Theta-4 (“园丁”)]]]及[[[task-forces#lambda-12 | Lambda-12 (“害虫控制”)]]]的联合部门负责培育和平民防护。SCP-6880的消化液可由材料部、工程部和生化部征用。\n\n[[include component:image-block\n    name=http://scp-wiki.wdfiles.com/local--files/scp-6880/pitcherplant.jpg |\n     caption=**SCP-6880在Site-19的温室L-12内。**\n]]\n\n**描述：**SCP-6880是一种太阳猪笼草[[footnote]] 暂命名为//Heliamphora [[[scp-2636|caprerum]]]//[[/footnote]]，能以奇术捕食牛椋鸟、吸血蝙蝠等嗜血动物。SCP-6880的主要异常性质在于消化液：一种在外形、气味、以及灵法特征上都与未凝结牛血相同的烈性氟化合物[[footnote]] (参见MSDS-4748935) [[/footnote]]。除此之外SCP-6880是一种多年生草本植物，高约1米，繁殖和进食习性与非异常的太阳猪笼草物种相似。\n\n在白天，SCP-6880会通过根须将微量消化液注射到周边5米半径的土壤内，通过毒害清理掉阳光、水分及传粉的竞争者。它也会从上叶片上将少量消化液滴入消化袋内，使之逐渐散发出牛血气味。太阳的紫外线辐射会引发一种尚未明确的奇术反应，每天能将至多2升血液转化为消化液。\n\n在夜间，消化液储备会使SCP-6880在气味、灵法特征上与流血的奶牛极为相似，甚至在热成像及雷达扫描上也是如此。它会以此方式引诱大型嗜血猎物落下、从其瓶内饮用液体。一旦猎物尝试进食，氟成分便会将其制服，使之落入瓶内后因溺水、窒息或是酸蚀而死。随尸体被分解，其体内的所有血液也会被释放出来，催化为更多的消化液。\n\nSCP-6880还演化出了多种独特的叶绿体酶，能够通过光合奇术反应催化其消化液。其结果产物包括有机汁液、叶绿素材料、以及一种能保护SCP-6880免于其自身消化液的厚实粘膜蜡。此类产物的特性还具有工业化潜力，诸如碳氟化合物程度的柔顺与惰性，外加接近陶瓷程度的绝缘及隔热性。SCP-6880种群能够在大部分温带地区生长，粘膜蜡能助其隔绝寒冷气候，也能在炎热气候下维持水分。单株SCP-6880个体能够依靠50克动物血存活至多一个月。\n\nSCP-6880由机动特遣队Lambda-9 (“海辛旅”)在阿根廷追踪血形████████ ████████（被控在第七次超自然大战期间实施敲诈勒索）时发现。他的尸体被发现时处于蝙蝠形态，在一个SCP-6880内被消化到一半。自其被发现以来，基金会已在全球多地培育了小规模的SCP-6880种群，用做对血形种群的天然害兽防控手段，包括伦敦、英格兰、华盛顿特区等地。\n\n[[footnoteblock]]\n\n[[div class=\"footer-wikiwalk-nav\"]]\n[[=]]\n<< [[[SCP-6879]]] |  SCP-6880 | [[[SCP-6881]]] >>\n[[/=]]\n[[/div]]\n\n[[include :scp-wiki-cn:component:license-box\n|author=A Random Day]]\n=====\n> **文件名：** pitcherplant.jpg\n> **图像名：** File:H chimantensis2.jpg\n> **图像作者：** Andreas Eils\n> **授权协议：** CC BY-SA 3.0\n> **来源链接：** [https://commons.wikimedia.org/wiki/File:H_chimantensis2.jpg Wikimedia Commons]\n=====\n[[include :scp-wiki-cn:component:license-box-end]]",
+  "tags": [
+    "scp",
+    "thaumiel",
+    "化学性",
+    "掠食性",
+    "植物",
+    "活物",
+    "液体",
+    "牛类",
+    "生物性",
+    "种群",
+    "腐蚀性",
+    "血"
+  ],
+  "author": "ashausesall",
+  "created_at": "2021-09-06T11:23:20+00:00",
+  "updated_at": "2024-05-15T14:56:00+00:00",
+  "rating": 2,
+  "_site": "scp-wiki-cn",
+  "_fullname": "scp-6880"
+}

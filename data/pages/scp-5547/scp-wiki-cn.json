@@ -1,0 +1,20 @@
+{
+  "title": "SCP-5547",
+  "content": "[[include :scp-wiki:theme:magnus-web-format]]\n\n@@@@\n[[div class=\"addenda-header\"]]\n++ **项目编号：**SCP-5547\n\n++ **项目等级：**Safe\n[[/div]]\n[[div class=\"addenda-header\"]]\n++++ **__特殊收容措施__**\nMaria Kaper经处理保存的遗体将收容于Site-52的生物存储锁柜56号内。此前尸检结果可依申请供人员查阅。水下研究艇加尔文号现存放于异常载具存储库02内，将在2021/04/20拆卸以作永久存储。\n[[/div]]\n[[div class=\"addenda-header\"]]\n++++ **__描述__**\nSCP-5547是海洋地质学家Maria Kaper在水下研究艇加尔文号上的异常死亡事件，发生于2008年4月16日。在距离波多黎各东海岸14千米外开展研究期间，雷暴引发的涡流令RSV加尔文号与其相连接的SS卡吕普索号发生分离。美国海岸警卫队试图寻找脱离的潜水艇，但在展开搜寻2周后，Maria Kaper被推定为死亡，RSV加尔文号也被视为无法寻回。\n[[include component:image-block\n    name=http://scp-wiki.wdfiles.com/local--resized-images/scp-5547/sub/medium.jpg|\n    caption=RSV加尔文号|\n    width=200px\n]]\n2009年5月22日，一个无关研究团队意外发现了RSV加尔文号，方位在此前记录地点的26公里外。准备一个月后，美国海岸警卫队将此RSV寻回并打捞上岸。\n\n对Maria Kaper进行分析后，发现其死因是自行引起的窒息。Ms. Kaper似乎因脱水、饥饿以及因长期不活动[[footnote]]深度血栓、严重肌肉萎缩、脊柱受迫[[/footnote]]引发的各类症状而极度痛苦，但这些情况并未阻碍其身体机能。腐败时间测定表明Ms. Kaper是在被找到的一个月前才死亡。潜水器隔离仓上刻有365道记录痕，推测是用以记录日期。由于此事件无法解释，海岸警卫队联系了基金会，而后开始标准收容和隐瞒工作。\n\n虽然已对Maria Kaper及RSV加尔文号进行过细致分析，依然无法就她如何能在没有食物、水、氧气的情况下存活一年时间给出解释。由于缺少可能线索，对SCP-5547的进一步调查现已中止。预定将在2022/04/20投票决定是否将SCP-5547重编为无效化。\n[[/div]]\n@@ @@\n[[footnoteblock]]\n[[div class=\"footer-wikiwalk-nav\"]]\n[[=]]\n<< [[[SCP-5546]]] | SCP-5547 | [[[SCP-5548]]] >>\n[[/=]]\n[[/div]]\n[[include :scp-wiki-cn:component:license-box\nauthor=DrAkimoto]]\n=====\n> **文件名：**sub.jpg\n> **图像作者：**KEN\n> **授权协议：**CC BY-SA 2.0\n> **来源链接：***https://commons.m.wikimedia.org/wiki/File:MiniU.jpg#mw-jump-to-license\n=====\n[[include :scp-wiki-cn:component:license-box-end]]",
+  "tags": [
+    "2021连写竞赛",
+    "_海生",
+    "safe",
+    "scp",
+    "时间影响",
+    "气象",
+    "水生",
+    "载具"
+  ],
+  "author": "ashausesall",
+  "created_at": "2021-03-25T14:59:15+00:00",
+  "updated_at": "2021-03-26T05:12:12+00:00",
+  "rating": 1,
+  "_site": "scp-wiki-cn",
+  "_fullname": "scp-5547"
+}

@@ -1,0 +1,20 @@
+{
+  "title": "東弊重工社歌",
+  "content": "[[>]]\n[[module Rate]]\n[[/>]]\n\n[[module CSS]]\n/*\n    Powered on 2019/07/06 00:57:10\n    [2019 Wikidot Theme]\n    Created by hey_kounoike\n    CC BY-SA 3.0\n*/\n\n\n\ndiv#header {\n    background: url(\thttp://scp-jp-sandbox2.wikidot.com/local--files/hey-kounoike/touhey.png) 10px 40px no-repeat;\n}\ndiv#header h1 a span {\n    font-size: 0px;\n}\ndiv#header h1 a:before {\n    content: \"\";\n    color: #eee;\n    \n}\ndiv#header h2 span {\n    font-size:0px;\n    padding: 4px;\n}\ndiv#header h2:after {\n    content: \"\";\n    font-weight: bold;\n    color: rgba(255, 229, 153, 0.55);;\n    padding: 19px 0;\n    text-shadow: 1px 1px 1px rgba(0, 0, 0, .8);\n    white-space: pre;\n}\n\n[[/module]]\n\n[[include :scp-jp-sandbox2:inc:jstyles]]\n[[module CSS]]\n.vpoem{\nmargin-top: 0.5em!important;\n}\n[[/module]]\n\n\n\n\n= **東弊重工社歌 作詞:鴻池平蔵**\n[[div class=\"vpoem\"]]\n壱番\n遥けき空に 東雲の\n高きを望み いま我ら\n計画 実行 改良の\nプロセス いくたび繰り返し\nああ これこそが 生産性\n産めよ 増やせよ 地に満ちよ\n東弊 東弊 東弊重工\n[[/div]]\n------\n[[module CSS]]\n.vpoem{\nmargin-top: 0.5em!important;\n}\n[[/module]]\n\n[[div class=\"vpoem\"]]\n弐番\nあずまの空の 日の本に\n集いし我ら ああ不撓\n悪弊 旧弊 困弊を\n叡智と理学で砕くまで\nああ これこそが 先進性\n君と 作ろう 先の世を\n東弊 東弊 東弊重工\n[[/div]]\n-----\n[[module CSS]]\n.vpoem{\nmargin-top: 0.5em!important;\n}\n[[/module]]\n\n[[div class=\"vpoem\"]]\n間奏\n[[/div]]\n------\n[[module CSS]]\n.vpoem{\nmargin-top: 0.5em!important;\n}\n[[/module]]\n\n[[div class=\"vpoem\"]]\n工場長ソロパート\n簡単 便利 お手軽に\n貴方好みの 空間を\n空間 拡張 展開で\nワンクラス上の 体験を\nさあ 今すぐに 注文を\nメール お電話 お気軽に\n東弊 東弊 [[[http://ja.scp-wiki.net/scp-024-jp | 東弊カラオケ]]]\n[[/div]]\n-----\n[[module CSS]]\n.vpoem{\nmargin-top: 0.5em!important;\n}\n[[/module]]\n\n[[div class=\"vpoem\"]]\n参番\n遥かな空の いや遠く\n望みは[[[http://ja.scp-wiki.net/scp-166-jp | 高く]]] [[[http://ja.scp-wiki.net/scp-1862-jp | 銀河]]]まで\n創発 開発 発明を\n我らは いくたび繰り返す\nああ これこそが [[[http://ja.scp-wiki.net/scp-1912-jp | 先見性]]]\n明日も 励もう ともがらよ\n東弊 東弊 東弊重工\n[[/div]]\n-----\n入社式で配布されたパンフレット記載 鴻池平蔵氏による解説\n\nこれは1946年10月16日に",
+  "tags": [
+    "1200字19",
+    "_イベント3",
+    "jagpato",
+    "jp",
+    "tale",
+    "扶桑紀",
+    "東弊重工",
+    "負号部隊"
+  ],
+  "author": "hey_kounoike",
+  "created_at": "2019-07-05T18:37:21+00:00",
+  "updated_at": "2022-10-04T08:57:18+00:00",
+  "rating": 146,
+  "_site": "scp-jp",
+  "_fullname": "touheijyuukousyaka"
+}

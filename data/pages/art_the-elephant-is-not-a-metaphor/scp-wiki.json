@@ -1,0 +1,20 @@
+{
+  "title": "The Elephant Is Not A Metaphor",
+  "content": "[[include :scp-wiki:theme:black-highlighter-theme]]\n[[include :scp-wiki:theme:minimalist-bhl]]\n[[module CSS]]\n:root {\n     --header-title: \"Department of Unreality\";\n     --header-subtitle: \"Making the Unreal a ㅤㅤㅤㅤ\";\n     --lgurl: url('http://scp-wiki.wikidot.com/local--files/unreality-hub/Unreality%20Header%20Logo.svg');\n}\n\n@media only screen and (max-width: 26.5625rem) {\n    :root {\n        --header-title: \"Unreality\";\n    }\n}\n\n[[/module]]\n\n[[=]]\n[[module Rate]]\n[[/=]]\n\n\n\n[[=]]\n//[[[SCP-8195 | We are at a coffee shop. It's early in the morning.]]]//\n[[/=]]\n\n[[=image http://scp-wiki.wikidot.com/local--files/art:the-elephant-is-not-a-metaphor/ThorleyCafe.png]]\n\n@@ @@\n@@ @@\n@@ @@\n\n[[=]]\n[[size 200%]][https://scp-wiki.wikidot.com/synthpanda More by SynthPanda_][[/size]]\n[[/=]]\n\n[[=]]\n[[include :scp-wiki:component:license-box]]\n> **Filename:** ThorleyCafe.png\n> **License:** CC BY-SA 4.0\n\nThis image is derivative of:\n\n> **Name:** African elephant (Loxodonta africana) 2\n> **Author:** Charles J. Sharp\n> **License:** CC BY-SA 4.0\n> **Source:** [https://commons.wikimedia.org/wiki/File:African_elephant_(Loxodonta_africana)_2.jpg Wikimedia Commons]\n\n> **Name:** Elephant Kinga Poznan ZOO\n> **Author:** MOs810\n> **License:** CC BY-SA 4.0\n> **Source:** [https://commons.wikimedia.org/wiki/File:Elephant_Kinga_Poznan_ZOO.JPG Wikimedia Commons]\n[[include :scp-wiki:component:license-box-end]]\n[[/=]]",
+  "tags": [
+    "_cc",
+    "_cc4",
+    "_licensebox",
+    "artwork",
+    "cel-shaded",
+    "comic",
+    "scp-art",
+    "visual-archives2024"
+  ],
+  "author": "SynthPanda_",
+  "created_at": "2024-04-27T19:33:46+00:00",
+  "updated_at": "2024-05-05T17:41:45+00:00",
+  "rating": 56,
+  "_site": "scp-wiki",
+  "_fullname": "art:the-elephant-is-not-a-metaphor"
+}

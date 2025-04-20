@@ -1,0 +1,27 @@
+{
+  "title": "SCP-CN-2879",
+  "content": "[[>]]\n[[module Rate]]\n[[/>]]\n \n[[module ListPages category=\"fragment\" parent=\".\" order=\"created_at\" limit=\"1\" offset=\"@URL|0\"]]\n%%content%%\n[[/module]]\n\n[!--\nhttp://scp-wiki-cn.wikidot.com/fragment:cn-2879-1\n\nhttp://scp-wiki-cn.wikidot.com/fragment:cn-2879-2\n--]\n\n@@ @@\n\n[[div class=\"footer-wikiwalk-nav\"]]\n[[=]]\n<< [[[SCP-CN-2878]]] | SCP-CN-2879 | [[[SCP-CN-2880]]] >>\n[[/=]]\n[[/div]]",
+  "tags": [
+    "cn2000",
+    "k级情景",
+    "meta",
+    "scp",
+    "主题精品",
+    "原创",
+    "合著",
+    "基金会制",
+    "感知影响",
+    "星球",
+    "星际",
+    "机密分级",
+    "现实扭曲",
+    "认知危害",
+    "误传部"
+  ],
+  "author": "MentalImageryMirage",
+  "created_at": "2021-02-19T19:51:09+00:00",
+  "updated_at": "2023-03-19T15:10:13+00:00",
+  "rating": 305,
+  "_site": "scp-wiki-cn",
+  "_fullname": "scp-cn-2879"
+}

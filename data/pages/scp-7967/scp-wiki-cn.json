@@ -1,0 +1,17 @@
+{
+  "title": "SCP-7967",
+  "content": "[!-- --]\n[[module CSS]]\n\n.danke {\n    padding: 15px;\n    margin-bottom:10px;\n    font-family: monospace;\n    font-size: 1.2em;\n}\n\n.agent {\n    background-color:#002200;\n    border: 3px solid #55AA55;\n    color: #77CC77;\n}\n\n.site {\n    background-color:#222200;\n    border: 3px solid #AAAA55;\n    color: #DDDD77;\n}\n\n[[/module]]\n\n[[include :scp-wiki-cn:theme:ad-abyssum]]\n\n**项目编号：**SCP-7967\n\n**项目等级：**--Thaumiel-- Safe\n\n**特殊收容措施：**--SCP-7967被基金会无限期维护并使用，以产生阿吉巴辐射，用于各类宗教相关项目。--\n\n无需再对SCP-7967进行维护，其被储存于位于[[[secure-facility-dossier-reliquary-area-27|圣遗物区域-27]]]的收容配区-54。鉴于项目表现所隐含的信息，此文件仅限5/DoTT级人员查看。\n\n**描述：**SCP-7967为战术神学部于2003年开发的设备。其目的在于收集人类死亡时产生的异常高水平阿吉巴辐射。\n\nSCP-7967通过如下理论工作：生物体进入来世前，其敬奉水平将显著提高，这是试图进入[[[SCP-6130|正极来世]]]和考虑到其死亡所导致的。\n\n此能量于对象死亡后不久便会消散。SCP-7967通过追踪此类事件并使用沃兹尼-海尔曼敬奉槽将其吸收来工作。\n----\n= **附录**\n----\n\nSCP-7967已被认为不具有功能性，自激活以来两个月内没有收集到阿吉巴辐射。据信，这是由于此期间约11,000,000名人类已被转化为尸体，但无人死亡。\n\n\n[[footnoteblock]]\n\n[[div class=\"footer-wikiwalk-nav\"]]\n[[=]]\n<< [[[SCP-7966]]] | SCP-7967 | [[[SCP-7968]]] >>\n[[/=]]\n[[/div]]\n\n[[include :scp-wiki-cn:component:license-box\n| author = NielleiN\n]]\n[!-- N/A (No Images)  --]\n[[include :scp-wiki-cn:component:license-box-end]]",
+  "tags": [
+    "safe",
+    "scp",
+    "人造物品",
+    "战术神学部",
+    "死后"
+  ],
+  "author": "k_Eldac",
+  "created_at": "2023-02-03T11:25:09+00:00",
+  "updated_at": "2024-05-15T02:24:23+00:00",
+  "rating": 3,
+  "_site": "scp-wiki-cn",
+  "_fullname": "scp-7967"
+}

@@ -1,0 +1,22 @@
+{
+  "title": "SCP-4445-J",
+  "content": "[[>]]\n[[module Rate]]\n[[/>]]\n\n**Item #:** SCP-4445\n\n**Object Class:** Safe\n\n**Special Containment Procedures:** None required. Monitor all web traffic from this location. Human Resources is encouraged to draw upon personnel drawn from SCP-4445 in first-stage recruitment for personnel, D-Class or otherwise.\n\n**Description:** SCP-4445 is a website, masquerading as a repository of common tropes from popular culture, that serves as a clearinghouse for the recruitment of SCP Foundation personnel from the general population. The website may be found here: http://tvtropes.org/pmwiki/pmwiki.php/Wiki/SCPFoundation\n\nA Class Seven Memetic Filtration Program has been incorporated into every third letter in the article at the top of said page, and will trigger immediate feelings of revulsion (also known, in technical parlance, as \"squick\") in 90% of the human population. The 10% who have the mental fortitude to deal with world-shattering artifacts on a daily basis will proceed to the public repository, where a psionic compulsion will be implanted into their minds in order to encourage them to cooperate with Foundation interests.\n\n**Addendum 4445-01:** Personnel being recruited from SCP-4445 are encouraged to study the [[[how-to-write-an-scp|Employee Handbook]]] before beginning their careers with the Foundation.\n\n**Addendum 4445-02:** Recent data suggest a correlation between prolonged exposure to SCP-4445 and marked psychological changes in the subject. These include:\n* Mild to moderate dependence,\n* Diminished ability to enjoy popular fiction, mostly due to:\n* Limited clairvoyance (After exposure to SCP-4445, subjects can successfully predict the endings of media to which they have had no prior exposure.)\n* Tendency to lapse into impenetrable jargon,\n* Diminished ability to distinguish between fiction and reality.\n\nThese symptoms abate with psychological counseling and the cessation of exposure to SCP-4445. (Claims from the subjects that this SCP \"will ruin your life\" are presumed to be hyperbole.) Nevertheless, all personnel recruited via this channel are strongly encouraged to forgo further exposure.\n@@ @@\n[[include :scp-wiki:component:license-box]]\n[!-- N/A (No Images)  --]\n[[include :scp-wiki:component:license-box-end]]",
+  "tags": [
+    "_licensebox",
+    "compulsion",
+    "document",
+    "electronic",
+    "joke",
+    "mind-affecting",
+    "online",
+    "safe",
+    "scp",
+    "transmission"
+  ],
+  "author": "thekit",
+  "created_at": "2009-03-09T19:29:08+00:00",
+  "updated_at": "2022-04-26T11:58:41+00:00",
+  "rating": 292,
+  "_site": "scp-wiki",
+  "_fullname": "scp-4445-j"
+}

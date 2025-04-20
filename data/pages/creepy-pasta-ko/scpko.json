@@ -1,0 +1,16 @@
+{
+  "title": "크리피파스타 KO",
+  "content": "++ 이하는 SCP 재단 한국어 사이트 회원 분들이 창작한 크리피파스타 목록입니다. 여러분이 새로운 크리피파스타를 만드신다면 목록에 자동으로 추가됩니다. //**명심하세요**!// 직접 만든 크리피파스타여야 합니다.\n\n++ 크리피파스타(Creepypasta)란?\n크리피파스타란 인터넷에서 떠도는 도시전설들을 뜻하는 말입니다.\n-----\n+++ 독자적 이야기\n\n[[module ListPages tags=\"+크리피파스타, +ko, -허브, -공동작업\" perPage=\"500\" separate=\"yes\" order=\"title\"]]\n%%title_linked%% by [[user %%created_by%%]]\n[[/module]]",
+  "tags": [
+    "_이야기-허브",
+    "ko",
+    "크리피파스타",
+    "허브"
+  ],
+  "author": null,
+  "created_at": "2018-07-17T08:55:39+00:00",
+  "updated_at": "2018-12-10T06:53:33+00:00",
+  "rating": 3,
+  "_site": "scpko",
+  "_fullname": "creepy-pasta-ko"
+}

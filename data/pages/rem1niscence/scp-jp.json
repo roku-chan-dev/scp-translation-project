@@ -1,0 +1,15 @@
+{
+  "title": "追想",
+  "content": "[[include :scp-jp:theme:thanatomania]]\n[[include :scp-jp:component:custom-divider]]\n[[include :scp-jp:component:toggle-sidebar]]\n[[module CSS]]\np {\n    font-size: 1.05em;\n    line-height: 1.6em;\n}\n[[/module]]\n\n```\n[[include :scp-jp:credit:start]]\n**タイトル:** 追想\n**著者:** [[*user hosimykagari]]\n**作成年:** 2024\n[[include :scp-jp:credit:end]]\n```\n[[>]]\n[[module Rate]]\n[[/>]]\n\n[[module CSS]]\n@import url('https://fonts.googleapis.com/css2?family=Noto+Serif+JP&display=swap');\n\n.type3 {\n    display: block;\n    overflow: hidden;\n    font-family: 'Noto Serif JP', cursive;\n    font-style: normal;\n    font-size: 110%;\n\n    background-attachment: scroll;\n    background: linear-gradient(rgba(230, 225, 250, 0.3), rgba(230, 225, 250, 0.3)), url(http://scp-jp-storage.wikidot.com/local--files/file:7178014-240-9u94/%E7%99%BD%E7%B4%991.jpg);\n    background-clip: border-box;\n    background-color: rgb(219, 199, 171);\n    background-origin: padding-box;\n    background-repeat: repeat;\n    background-size: 100%;\n\n    border: 1px solid #CCC;\n    border-radius: 10px;\n    padding: 10px 10px;\n    margin-bottom: 10px;\n\n    box-shadow: 0px 1px 3px rgba(0, 0, 0, 0.2)\n    }\n.type3 p,\n.type3 ul {\n    line-height: 25px;\n    margin: 0;\n}\n[[/module]]\n\n[[div class=\"type3\"]]\n\n[[=image https://scp-jp-storage.wdfiles.com/local--files/file%3A8206003-14-9v7m/%E7%84%A1%E9%A1%8C1795_20240119193201.png style=\"border: solid 1px #999999;\" ]]\n[[=]]\n**付き合って最初のデートの日**\n今まで憧れていた彼女とついにはデート。[[[http://scp-jp.wikidot.com/repentance |こんな僕]]]にこんな幸せな日が本当にあってもいいのだろうか。\n[[/=]]\n@@@@\n@@@@\n[[/div]]\n\n[[div class=\"type3\"]]\n\n[[=image https://scp-jp-storage.wdfiles.com/local--files/file%3A8206003-15-ys39/%E7%84%A1%E9%A1%8C1796_20240126074031.png style=\"border: solid 1px #999999;\"]]\n[[=]]\n**妻の妊娠**\n結婚してから数年。彼女がとうとう子供を授かった。この中に命が宿ってるなんて今でも信じられない。彼女の腹が膨れていく度これから父親になるんだと再確認させられる。\n[[/=]]\n@@@@\n@@@@\n[[/div]]\n\n[[div class=\"type3\"]]\n\n[[=image https://scp-jp-storage.wdfiles.com/local--files/file%3A8206003-16-dcry/%E7%84%A1%E9%A1%8C1802_20240127194939.png style=\"border: solid 1px #999999;\"]]\n[[=]]\n**子供の入学式**\nあれから約6年。息子も小学校へ上がる歳になった。入学式の最中ずっと緊張でガチガチな息子を見て微笑む妻。その光景がたまらなく愛おしかった。\n[[/=]]\n@@@@\n@@@@\n[[/div]]\n\n[[div class=\"type3\"]]\n\n[[=image https://scp-jp-storage.wdfiles.com/local--files/file%3A8206003-17-vq0k/%E7%84%A1%E9%A1%8C1803.png style=\"border: solid 1px #999999;\"]]\n[[=]]\n**家族での旅行**\n息子の夏休みの際、僕も長期の休みを取って家族揃っての旅行へ行った。こうして並んでみると本当に子供の成長は早いと感じられる。\n[[/=]]\n@@@@\n@@@@\n[[/div]]\n\n\n[[div class=\"type3\"]]\n\n[[=image https://scp-jp-storage.wdfiles.com/local--files/file%3A8206003-18-yxtz/%E7%84%A1%E9%A1%8C1805.png style=\"border: solid 1px #999999;\"]]\n[[=]]\n**息子の独り立ち**\n僕が息子を送り出している最中に妻が撮ったものらしい。撮るなら3人並んで撮りたかったという気持ちがある反面、僕は少し前まで泣いていたので酷い顔をしている所を残されなくて良かったと思った。\n[[/=]]\n@@@@\n@@@@\n[[/div]]",
+  "tags": [
+    "jp",
+    "thanatomania",
+    "アートワーク"
+  ],
+  "author": "hosimykagari",
+  "created_at": "2024-01-28T15:16:57+00:00",
+  "updated_at": "2024-01-28T16:27:36+00:00",
+  "rating": 7,
+  "_site": "scp-jp",
+  "_fullname": "rem1niscence"
+}

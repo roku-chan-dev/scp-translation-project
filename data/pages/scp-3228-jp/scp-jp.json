@@ -1,0 +1,19 @@
+{
+  "title": "SCP-3228-JP",
+  "content": "[[include :scp-jp:credit:start]]\n**タイトル:** SCP-3228-JP - draft(4)\n**著者:** [[*user dr_toraya]]\n**作成年:** 2023\n[[include :scp-jp:credit:end]]\n\n[[module CSS]]\n.notice{\n    border: 1px solid #f9e24d;\n    outline: 4px solid #b54d3b;\n    color: #f9e24d;\n    background: #b54d3b;\n    padding: 10px;\n    text-align: center;\n}\n[[/module]]\n\n[[div class=\"notice\"]]\n[[=]]\n++++ 誤伝達部門より通達\n\n以下のドキュメントは報告書の下書きとして保存されたファイルです。記述者と閲覧者の安全を確保するため、追記・修正を行う職員は誤伝達部門による編集規則の訓練を受ける必要があ\n[[/=]]\n[[/div]]\n\n**アイテム番号:** SCP-3228-jp\n \n**オブジェクトクラス:** Uclid\n \n**特別収容プロトコル:** SCP-3228-JPは全体を鉄筋コンクリートと木材製の構造体で覆い隠し、民間人の曝露を防いでください。構造体は選任されたDクラス職員により1週間ごとに増築および補修を行います。SCP-3228-JPの研究主任は故アル・スミス博士であり、後任は未決のためサイト-8184管理官が一時的にその職務を代行しています。収容プロトコルの検討経緯については**__[参照元リンクエラー!]__**を参照してください。\n\n**説明:** SCP-3228-JPについて、サイト-8184において組織された暫定研究チーム\"コロニア・グエル\"による調査が進行中です。\n\n**__\"コロニア・グエル\"による調査経過:__**\n||~ 対象||~ 結果||\n||建築当時の施主||竣工時死亡||\n||施工に関与した建築業関係者||竣工時全員死亡||\n||本オブジェクトに入退室したDクラス職員||生存||\n||財団の機動部隊員||屋内の安全確保後死亡||\n||本オブジェクトの初期収容担当者||報告書の初稿完成時に死亡||\n||本オブジェクトに関する四行詩を1行だけ作成したDクラス職員||生存||\n||本オブジェクトに関する四行詩を完成させたDクラス職員||死亡||\n||本オブジェクトに関する四行詩の1行だけを閲覧したDクラス職員||生存||\n||本オブジェクトに関する四行詩をすべて閲覧したDクラス職員||死亡||\n||本オブジェクトの周囲に小規模な塀を建築し完成させたDクラス職員||死亡||\n||本オブジェクトを覆う構造体の増築を担当中のDクラス職員||全員生存||\n||本オブジェクトの現在の収容担当者||生存||\n||ここに昨日の実験の内容を書く||;-)||\n\n[[collapsible show=\"[SCP-3228-JP付帯文書-1 を開く]\" hide=\"[SCP-3228-JP付帯文書-1 を閉じる]\"]]\n[[html]]\n<body>\n\n<style>\n.loading {\n  color: #880000;\n  position: fixed;\n  width: 100%;\n  height: 100%;\n  margin: 0;\n  padding: 0;\n text-align:center;\n}\n\n.loading.hide {\n  opacity: 0;\n  pointer-events: none;\n  transition: opacity 500ms;\n}\n\n.loading .circle {\n  display: block;\n  top: calc( 50% - 20px );\n  width: 40px;\n  height: 40px;\n  margin: 0 auto;\n  border: 7px solid #994444;\n  border-top: 7px solid #FFCCCC;\n  border-radius: 50px;\n  animation: loading 700ms linear 0ms infinite normal both;\n}\n\n@keyframes loading {\n  0% { transform: rotate( 0deg ); }\n  100% { transform: rotate( 360deg ); }\n}\n</style>\n<div class=\"loading\">\n<span class=\"circle\">\n<!-- :-) -->\n</span>\nloading...\n</div>\n&nbsp;<BR>&nbsp;<BR>&nbsp;<BR>&nbsp;<BR>&nbsp;<BR>\n</body>\n[[/html]]\n[[/collapsible]]\n\n[[size 0%]].[[/size]]\n[[size 0%]].[[/size]]\n[[size 0%]].[[/size]]\n[[size 0%]].[[/size]]",
+  "tags": [
+    "euclid",
+    "jp",
+    "scp",
+    "ショート2023",
+    "建造物",
+    "情報災害",
+    "誤伝達部門"
+  ],
+  "author": "dr_toraya",
+  "created_at": "2023-04-25T23:00:30+00:00",
+  "updated_at": "2023-05-13T15:01:36+00:00",
+  "rating": 165,
+  "_site": "scp-jp",
+  "_fullname": "scp-3228-jp"
+}

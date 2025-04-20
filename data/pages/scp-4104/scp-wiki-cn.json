@@ -1,0 +1,30 @@
+{
+  "title": "SCP-4104",
+  "content": "[[include :scp-wiki:component:centered-header-sigma-9]]\n[[include :scp-wiki:component:toggle-sidebar]]\n\n[[module CSS]]\n\n:root{\n     --titleColor: hsl(0, 0%, 95%);\n     --subtitleColor: hsl(60, 62%, 85%);\n     --lgurl: url(https://scpsandboxcn.wikidot.com/local--files/ambersight/scp4104.png);\n}\n\n #header::before{\n     position: absolute;\n     width: 100%;\n     height: 100%;\n     content: \"\";\n \n     background-image: var(--lgurl);\n     background-position: center top;\n     background-repeat: no-repeat;\n     background-size: auto 10em;\n     margin-top: 0.5em;\n     opacity: .46;\n}\n \n#header h1 a::before {\n    content: var(--header-title, \"SCP 基金会\");\n}\n\n#header h2::before {\n    content: var(--header-subtitle, \"控制，收容，保护\");\n}\n\n#header h1 a::before{\n     text-shadow: 4px 4px 4px hsla(0, 0%, 0%, .8);\n}\n\n #header h2::before{\n     text-shadow: 3px 3px 3px hsla(0, 0%, 0%, .9);\n}\n\n #header h1 a::before{\n     font-family: BauhausLTDemi, 'Nanum Gothic', Arial, sans-serif;\n     font-size: 115%;\n}\n\n #header h2::before{\n     font-family: 'Trebuchet MS', Arial, sans-serif;\n}\n\nspan:not([class]):not([style]) > sup.footnoteref:first-child > a.footnoteref:before,\nsup.footnoteref > a.footnoteref:before {\n  content: \"[\";\n}\nspan:not([class]):not([style]) > sup.footnoteref:first-child > a.footnoteref:after,\nsup.footnoteref > a.footnoteref:after {\n  content: \"]\";\n}\n\n[[/module]]\n\n[[include :scp-wiki-cn:component:author-label-source start=--\n|name=Swordlover87]]\n[[=]]\n**SCP-4104 - 不可知的几何**\n\n------\n\n[https://scp-wiki.wikidot.com/swordlover87-author-page 更多该作者的作品]\n[[/=]]\n[[include :scp-wiki-cn:component:author-label-source end=--]]\n\n[[include component:image-block name= https://scpsandboxcn.wikidot.com/local--files/pic-for-translation/Impossible_staircase.svg | caption={{图1：}} 原生SCP-4104几何特征示例。|width=300px]]\n\n**项目编号：**SCP-4104\n\n**项目等级：**Keter / Uncontained\n\n**特殊收容措施：**全球范围内的教育机构都将受到SCP-4104的监控，其中重点关注那些提供重点数学课程的大学。一旦确认有SCP-4104的出现，将疏散附近的居民。随后必须尽快找到并销毁伴随产生的彭罗斯物体。基金会授权机动特遣队[[[https://scp-wiki-cn.wikidot.com/mtf-theta-90-hub-page | Theta-90（“角磨机”）]]]对SCP-4104进行考察；研究人员可以自行决定陪同的ϴ-90特工，但需要负责任何人的伤亡。严禁任何使用假肢或植入物（如心脏起搏器）的个体进入SCP-4104。\n\nSCP-4104-A将以财政困难进而永久关闭为借口进行隔离，原先的学生和教职员工也将进行转移。该异常一直处于隔离状态；周边守卫人员必须进行2小时轮换工作，从而尽量减少与异常的距离。擅闯者将被拘留，并强制执行F级记忆删除，防止不必要的精神变化。\n\n如果有可能，活捉SCP-4104-B个体以供研究。\n\n**描述：**SCP-4104是一个超维度场所，在这里，几何学和拓扑学的定律将彻底改变。这导致该场所出现了不可能的几何图形，如彭罗斯楼梯（图1）出现在物理现实中。SCP-4104内部引力也是高度不规则的;对于横越任何具有弯曲或倾斜顶点的表面的物体，只要它的路径保持一致，重力将总是相对于运动物体的“向下”方向作用（图2）。\n\n[[include component:image-block name=https://scpsandboxcn.wikidot.com/local--files/pic-for-translation/unknown.png\n|caption={{图2：}} SCP-4104重力异常示意图(侧视图，简化)。红色箭头表示重力的相对方向。\n|width=700px\n|align=center]]\n\nSCP-4104能够通过一种尚未获知的过程来吞噬基线现实部分。受影响的地点最初会呈现出SCP-4104的特性，当地的地形和物体会表现出一些新的变形来与之匹配--其中一个例子，一个校园酒吧的葡萄酒收藏品转化成为克莱因瓶，而柜台则扭曲成莫比乌斯带。尽管装有无机假肢或植入物的人有可能受到伤害，但这种重构并不直接影响有机物。\n\n由SCP-4104吞并地点的震中总是包含一个类似于[https://baike.baidu.com/item/%E5%BD%AD%E7%BD%97%E6%96%AF%E4%B8%89%E8%A7%92/22361199?fr=aladdin 彭罗斯三角形]的物体。这个物体的内部就像一个A级 \"完整相对论 \"虫洞（D/P-TIMLCU2D）[[footnote]]维度/物理, 临时稳定, 不移动，显现，有限区域，特定，无条件双向, 可破坏。[[[https://scp-wiki-cn.wikidot.com/forum/t-7166034/nothing-like-a-little-unnecessary-science-headcanon | 更多信息请见：统一技术设定论述，关于超维度出入口（即虫洞）的分级。]]][[/footnote]]，通往SCP-4104本身。如果彭罗斯物体没有在24小时内摧毁，它将逐渐把受影响的地方引向SCP-4104，把它从现实中完全移除。一般来说，这将留下一个不规则的撞击坑，跨度约5公里，并显示出残留的拓扑异常。\n\nSCP-4104不成比例地以数学为重点科目的教育机构——尤其是大学——为目标。\n\n**SCP-4104-A**位于宾夕法尼亚州哈里斯堡的Keystone技术研究所，这是第一个有关SCP-4104的记录目标。与其他目标不同，尽管已确认该校园内存在彭罗斯物体，但SCP-4104-A并未从基线现实中移除。相反，它表现出一种不断恶化的几何与拓扑异常水平以及潜在的影响心灵的属性（见下文）。这使基金会无法中和SCP-4104-A的彭罗斯物体。\n\n**SCP-4104-B**是一群前KTI学生。他们居住在SCP-4104中，并对其环境显示出不同寻常的熟练感。他们经历了中等程度的异常改造，导致出现如下特征:\n\n* 额外出现的肢体创造了一个视觉效果，让人联想到[[[https://baijiahao.baidu.com/s?id=1677981926192303990&wfr=spider&for=pc&searchword=不可能的三叉戟 | 不可能的三叉戟]]]。\n* 感知性过滤器，根据身体的方向激活;参考“[https://m.weibo.cn/status/4821649483106719 老妇与少女]”的模糊图片。\n* 在大约40%的情况下可以观察到虹膜的形状与[[[https://www.mathunion.org/outreach/imu-logo/borromean-rings | 波罗米恩环]]]相似。这种情况似乎能显著改善视力。\n* 在被处决时分解为门格海绵（图3）。\n\n[[include component:image-block name= https://scpsandboxcn.wikidot.com/local--files/pic-for-translation/Menger-Schwamm-farbig-min.png |caption={{图3：}} 单一门格尔海绵示意图。|width=300px]]\n\n这些性质在KTI的初始SCP-4104事件中表现出来。由于不明原因，这群后来被归类为SCP-4104-B的学生违背了疏散命令，进入了彭罗斯物体。他们起初被认为是伤亡人员，直到后来的探险队在SCP-4104中发现了他们，如今显示出异常属性。目前尚不清楚为什么会发生这种情况，因为SCP-4104通常不会使生物变形；所以SCP-4104- B如何在SCP-4104中维持自身也在调查中。\n\nSCP-4104-B对SCP-4104表现出宗教狂热式的异常保护态度，以该异常的“天选之子”或类似的名号自称。他们知道并明显敌视基金会——对SCP-4104的努力控制经常受到来自SCP-4104-B的攻击阻碍。由于该个体具有穿越异常点的技能，所以它们一直在躲避抓捕。\n\n**附录4104-01：**最近一次试图拘留一个SCP-4104-B个体的尝试以失败告终，因为该个体显示了前所未有的能力。\n\nMTF ϴ-90的一个分队追踪了该个体，并跟踪了它近80公里到SCP-4104，跨越了被异常污染的各种地形。它最终被战略性地逼入了死胡同——确切地说，一条路被一条无尽深度的裂隙一分为二，变成了一条莫比乌斯带的狭长地带。两段道路之间有1.5公里的间隔，即使用异常手段也无法通过。\n\nϴ-90的特工正在向那里移动并准备抓捕，这时SCP-4104-B个体转向裂隙的另一侧，倾斜头部，抬起下巴，闭上一只眼睛。在此之后，该个体立即开始奔跑，并在空间上跨裂隙移位。ϴ-90发现他们无法复制这个行为，被迫放弃任务。\n\n在逃跑之前，SCP-4104-B个体隔着裂缝喊道:\n\n> //“你们自称是科学界的人士，却以为你们可以在彭罗斯的天选者的世界里猝不及防地抓住他们？多么落后啊。我们的保护者，我们不可思议的守护神，将永远使我们免受危险。”//\n\n目前还不清楚该个体是如何实现转移的。根据任务后的汇报，目前的理论是，通过消除深度感知并以某种方式转动头部，SCP-4104-B个体能够创造一个基于透视的视错觉，在该错觉中，道路上的缺口相对于它自己来说是 “关闭的”。然后，它利用这种错觉逃走了。\n\n关于感知对SCP-4104的影响的研究仍在继续。\n\n[[footnoteblock]]\n\n[[div class=\"footer-wikiwalk-nav\"]]\n[[=]]\n<< [[[SCP-4103]]] | SCP-4104 | [[[SCP-4105]]] >>\n[[/=]]\n[[/div]]",
+  "tags": [
+    "keter",
+    "scp",
+    "人形生物",
+    "变形",
+    "宗教",
+    "建筑",
+    "感知影响",
+    "敌意",
+    "数学性",
+    "智能",
+    "未收容",
+    "现实扭曲",
+    "精神影响",
+    "视觉性",
+    "角磨机",
+    "超维度",
+    "适应性",
+    "门径"
+  ],
+  "author": "Losch",
+  "created_at": "2022-12-24T04:24:18+00:00",
+  "updated_at": "2023-05-08T13:20:53+00:00",
+  "rating": 4,
+  "_site": "scp-wiki-cn",
+  "_fullname": "scp-4104"
+}

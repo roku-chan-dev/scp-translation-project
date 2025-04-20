@@ -1,0 +1,14 @@
+{
+  "title": "00153",
+  "content": "content: \"**説明:** 蹴るとマッハ2.6で飛んでいく--ソファ-- --ドア-- --乗用車-- 石。速度減衰後に初めてぶつかった固体に対し、この特性は移動する。\\n**回収日:** 20██/██/██\\n**回収場所:** 石川県にある個人経営の家具店\\n**現状:** ██博士により、宇宙へ向けて蹴り飛ばされて以降行方不明。\"\ntf2: '1'\nauthor: kainndo\nredirect-b: '[[module Redirect destination=\"http://ja.scp-wiki.net/log-of-anomalous-items-jp'\nredirect-e: '\"]]'",
+  "tags": [
+    "jp",
+    "剪定対象-子"
+  ],
+  "author": "7happy7",
+  "created_at": "2020-03-14T14:10:34+00:00",
+  "updated_at": "2021-05-24T13:11:46+00:00",
+  "rating": 15,
+  "_site": "scp-jp",
+  "_fullname": "anomalous-jp:00153"
+}

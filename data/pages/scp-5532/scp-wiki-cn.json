@@ -1,0 +1,19 @@
+{
+  "title": "SCP-5532",
+  "content": "[[include :scp-wiki-cn:theme:black-highlighter-theme]]\n[[include :scp-wiki-cn:component:betterfootnotes]]\n[[include :scp-wiki-cn:theme:magnus-web-format]]\n\n[[module CSS]]\n.box {\n    position: relative;\n    padding: 0.5em;\n    margin: 0.5em;\n    box-shadow: 2px 1.5px 1px rgba(176,16,0,0.7), 0 0 0px 1px lightgrey;\n    overflow-wrap: break-word;\n    color: black;\n}\n[[/module]]\n\n\n[[include :scp-wiki-cn:component:advanced-information-methodology blocks=-\n|lang=cn\n|XXXX=5532\n|lv=4\n|cc=SAFE\n|dc=VLAM\n]]\n\n[[collapsible show=\"⏣ 已归档收容措施 ⏣\" hide=\"⎔ 已归档收容措施 ⎔\"]]\n在掩盖措辞（“鸟类保护”）的掩盖下，SCP-5532的理论边界周围已被设置了摄像头。任何涉及该地区失踪事件的行为都将由基金会网络爬虫进行监控。\n[[/collapsible]]\n\n[[div class=\"box\"]]\n[[=]]\n++++ **__特殊收容措施__**\n[[/=]]\n----\n在将艾格尔顿镇的标记从所有地图服务应用中移除后，收容措施被认为面临极低风险。一名研究人员将驻扎在艾格尔顿镇附近以监测该地区的失踪案件。\n\n[[/div]]\n\n[[div class=\"box\"]]\n[[=]]\n++++ **__描述__**\n[[/=]]\n----\n\nSCP-5532是英格兰西兰开夏郡的一个空间异常，假定为“艾格尔顿”镇所在地。该地点出现在许多地图服务应用中，例如谷歌地图。\n\n在被一位名叫Mike Nolan的网络服务讲师和他的朋友Roy Bayfield在附近的知山大学[[span class=\"fnnum\"]].[[/span]][[span class=\"fncon\"]]**译注：**兰开夏郡的综合性大学。[[/span]]所撰写后，SCP-5532在2008年至2009年期间首次受到公众广泛关注。\n\n谷歌的数据显示，艾格尔顿的人口普查记录可以追溯到1801年。尽管如此，该镇的大多数其他数据都引用了没有进一步记录证明其存在的事件和人物，类似于时间干扰[[span class=\"fnnum\"]].[[/span]][[span class=\"fncon\"]]然而，由于缺乏对该镇的外部参考，并且没有任何残留的快子痕迹，这种假设被排除在外。[[/span]]影响。\n\n尽管对现场的初步检查没有发现异常，但后续调查发现此处的休谟水平异常低，仿佛此处现实的一部分已被重定位或移除。因此，三名基金会研究员将被指派监视和记录SCP-5532。\n\n[[/div]]\n\n\n[[div class=\"box\"]]\n[[=]]\n++++ **__附录一__**\n[[/=]]\n----\n\n在三名基金会博士和STF[[span class=\"fnnum\"]].[[/span]][[span class=\"fncon\"]]特别特遣队。[[/span]] Rho-7（“迎接派对”）的例行检查中，其中一名研究人员将其纸质地图掉落在其所站立的道路上，并导致一系列建筑物出现在面前。当地图再次被捡起时，建筑物再次慢慢消失。\n\n从收集到的数据来看，当写有艾格尔顿镇的地图被扔在通往假定所在地的小路上时，一旦先前的风景从人员视线中消失则说明异常效应已显现；触发效应的方式可能包括眨眼和遮住面部。\n\n在对在场的研究人员和STF队员进行采访后，他们将这些建筑物描述为不可思议的，这些建筑缺少了大量结构，几乎整个城镇的一部分已经不复存在了——或是一开始就不存在。当人员移动时，这些残缺建筑会跟着移动，此时城镇内其他的地点会显现出来，或者完全消失。\n\n除此之外，研究小组还注意到，在显现过程中热量大幅增加。此时太阳看起来比原本所在的位置更接近人员，且更加明亮。Gibson博士推测这是一个潜在的K级情景，尽管目前尚不清楚它是已颠覆情景（导致世界重置为先前的状态）还是未来情景。\n\n由于该镇周边地区的退化程度大幅增加，进一步勘探被认为风险过大。\n\n[[/div]]\n\n[[footnoteblock]]\n[[div class=\"footer-wikiwalk-nav\"]]\n[[=]]\n<< [[[SCP-5531]]] | SCP-5532 | [[[SCP-5533]]] >>\n[[/=]]\n[[/div]]\n\n[[include :scp-wiki-cn:component:license-box\n|author=Dr Moned\n|translator=AceAttackAssassin\n]]\n[!-- N/A (No Images)  --]\n[[include :scp-wiki-cn:component:license-box-end]]",
+  "tags": [
+    "2021连写竞赛",
+    "_腐败",
+    "safe",
+    "scp",
+    "地点",
+    "城市",
+    "现实扭曲"
+  ],
+  "author": "AceAttackAssassin",
+  "created_at": "2024-08-14T08:10:22+00:00",
+  "updated_at": "2024-08-14T08:17:45+00:00",
+  "rating": 1,
+  "_site": "scp-wiki-cn",
+  "_fullname": "scp-5532"
+}

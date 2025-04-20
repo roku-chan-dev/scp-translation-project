@@ -1,0 +1,18 @@
+{
+  "title": "Asset Florida Blender",
+  "content": "[[>]]\n[[module Rate]]\n[[/>]]\n\n[[include :scp-wiki:theme:basalt darkmode=a|hidetitle=a]]\n\n[[div style=\"display: none;\"]]\n[[include component:image-block name=https://scp-wiki.wdfiles.com/local--files/art%3Aasset-slorp/999-BLENDER_smaller.png|caption=.]]\n[[/div]]\n\n=====\n[[include component:preview\ntext=!]]\n=====\n\n@@ @@\n@@ @@\n@@ @@\n\n[[include component:image-block\n|name=https://scp-wiki.wdfiles.com/local--files/art%3Aasset-slorp/999-BLENDER_smaller.png\n|caption=!\n|width=900\n|align=center]]\n\n@@ @@\n@@ @@\n@@ @@\n[https://scp-wiki.wikidot.com/fairydoctor-folio More from fairydoctor]\n\n@@ @@",
+  "tags": [
+    "_cc",
+    "artwork",
+    "cel-shaded",
+    "scp-art",
+    "sketched",
+    "tickle-monster"
+  ],
+  "author": "fairydoctor",
+  "created_at": "2024-08-13T06:08:12+00:00",
+  "updated_at": "2024-08-23T03:25:16+00:00",
+  "rating": 61,
+  "_site": "scp-wiki",
+  "_fullname": "art:asset-slorp"
+}

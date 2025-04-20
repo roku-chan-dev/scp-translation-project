@@ -1,0 +1,13 @@
+{
+  "title": "Scp 4673 0",
+  "content": "[[module CSS]]\n.fakeprot .mailform-box .buttons{display:none;}\n.fakeprot + .collapsible-block .collapsible-block-link {padding: 0.1em 0.5em;text-decoration: none;background-color: #F4F4F4;border: 1px solid #AAA;color: #000;}\n.fakeprot + .collapsible-block .collapsible-block-link:hover {background-color: #DDD;color: #000;}\n.fakeprot + .collapsible-block .collapsible-block-link:active {background-color: #DDD;color: #000;}\n.fakeprot + .collapsible-block .collapsible-block-unfolded-link{margin:0.5em 0;text-align: center;}\n.fakeprot + .collapsible-block .collapsible-block-folded{margin:0.5em 0;text-align: center;}\n.fakeprot .passw input[type=text] {text-security:disc;-webkit-text-security:disc;-mox-text-security:disc;}\n.mailform-box td:first-child {width: 80px;}\n\n.emailer {\n  font-family: \"Courier New\", Courier, monospace\n}\n[[/module]]\n[[div class=\"emailer\"]]\n@@---------- 邮件信息 ---------@@\n来自：SCP-4673邮件系统\n日期：2020年4月8日星期三，2:13 PM\n主题：60日确认\n至：List: “全体基金会人员”\n\n下午好。一则提醒：下列进程及收容文件复审必须在10日内完成。请点击下列连接以访问：\n\n[http://scp-wiki-cn.wikidot.com/scp-4673/offset/1 Scipnet://hb533634lnt3ne.containmentfile.scp/data--network/front-end/SCP-4673//confirmlogin.asp]\n\n感谢你的配合。\n\n这是一封自动信息；回复之不会得到答复。\n[[/div]]",
+  "tags": [
+    "段落"
+  ],
+  "author": "ashausesall",
+  "created_at": "2020-04-24T16:17:20+00:00",
+  "updated_at": "2020-09-03T08:45:46+00:00",
+  "rating": 0,
+  "_site": "scp-wiki-cn",
+  "_fullname": "fragment:scp-4673-0"
+}

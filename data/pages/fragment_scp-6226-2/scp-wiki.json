@@ -1,0 +1,13 @@
+{
+  "title": "SCPC-6226-2",
+  "content": "[[include :scp-wiki:theme:wilderness]]\n[[module css]]\n#page-title {\n    display: none;\n[[/module]]\n\n[[div class=\"wilson-border\" style=\"margin-top: 7em;\"]]\n[[div class=\"wilson-subtitle\"]]\nSent by: Tim Wilson\nRecipient(s): Dr. Jerimiah Greene\nDate: 11/12/2021\n[[/div]]\n[[div class=\"wilson-body\"]]\nDr. Greene,\n\nThis is not an animal. This is a boat. We're not your damn storage facility.\n\n[[>]]\nTim Wilson\nWWS\n[[/>]]\n[[/div]]\n[[/div]]\n\n----\n[[div class=\"footer-wikiwalk-nav\"]]\n[[=]]\n<< [[[SCP-6225]]] | SCP-6226 | [[[SCP-6227]]] >>\n[[/=]]\n[[/div]]\n----\n[[include :scp-wiki:more-by:tstaffor]]",
+  "tags": [
+    "fragment"
+  ],
+  "author": "Tstaffor",
+  "created_at": "2022-06-25T20:08:19+00:00",
+  "updated_at": "2022-06-26T00:45:00+00:00",
+  "rating": 0,
+  "_site": "scp-wiki",
+  "_fullname": "fragment:scp-6226-2"
+}

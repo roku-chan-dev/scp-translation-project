@@ -1,0 +1,21 @@
+{
+  "title": "SCP-5537",
+  "content": "[[include :scp-wiki-cn:theme:black-highlighter-theme]]\n[[include :scp-wiki:component:bhl-dark-sidebar]]\n[[include :scp-wiki:component:acs-animation]]\n[[include :scp-wiki:component:wide-image-sizer]]\n[[include :scp-wiki:component:rso]]\n[[module CSS]]\nsup {\n    vertical-align: top;\n    position: relative;\n    top: -0.5em;\n}\n:root {\n    --cutColour: #fafafa;\n    --barColour: #590505;\n}\na.collapsible-block-link {\n  font-weight: bold;\n}\n.translation_block, .u-faq { display: none; }\n}\n.info-container .collapsible-block-folded a{\ncolor: #fff;}\n.info-container .collapsible-block-unfolded-link a{\ncolor: #fff;\n}\n#page-title {\n    display: inline !important;\n    text-align: center;\n}\n .scp-image-block > p {\n     margin: 0;\n}\n .scp-image-block .scp-image-caption > p {\n     margin: 0;\n     padding: 0 10px;\n}\n#page-content > .collapsible-block {\n    display: block;\n    text-align: center;\n    padding: 0.65em;\n}\n#page-content > .collapsible-block .collapsible-block-content {\n    text-align: left;\n}\n.lie{\n     font-weight: bold;\n     font-family: monospace;\n     font-size: 140%;\n}\n.list{\n    background: #f4f4f4;\n    padding: 0 1em;\n}\n.info-container .collapsible-block-link,\n.info-container:hover .collapsible-block-link {\n    line-height: 1.6em;\n}\n@media (max-width: 2000px) {\n    .desktop-only {\n     display: none;\n     visibility: hidden;\n}\ndiv.info-container > div.collapsible-block {\n    padding: 0 !important;\n    margin: 0 !important;\n    box-shadow: none !important;\n}\n.hover {\n    background-color: #88c2ff;\n    padding: 0 1px;\n}\n.hover:hover {\n}\n.hover span {    display: none;}\n.hover:hover span {\n    position: absolute;\n    display: inline;\n    margin: 0px 0px;\n    height: auto;\n    width: auto;\n    background: #fff;\n    border: 2px solid rgb(var(--bright-accent));\n    color: rgb(var(--bright-accent));;\n    padding: 1em;\n}\n.hover:hover span span {\n    position: relative;\n    margin: auto;\n    height: auto;\n    width: auto;\n    border: none;\n    padding: 0;\n}\n[[/module]]\n\n[[include :scp-wiki:component:info-ayers\n|page=SCP-5537[!-- url of your page on the scp wiki --]\n|authorPage= [!-- link to your author page --]\n|comments=\n= **SCP-5537：**献给热爱海鲜的您\n= **作者：** [[*user Hexick]].\n\n-----\n\n-----\n\n= **图片来源：**\n\n= //**[请参阅本页面末尾的版权模块]**//\n\n@@@@\n]]\n**项目编号：**SCP-5537\n\n**项目等级：**Safe\n\n**特殊收容措施：**目前，所有SCP-5537实例都保存于Site-35 Safe级翼的低温仓库内。由于SCP-5537实例的脆弱性质，仅限拥有4/5537级权限并经SCP-5537现任研究主管特别授权的人员接触异常。此外，为了防止腐烂的发生，SCP-5537实例不可在仓库外持续存放超过4小时。\n\n**描述：**SCP-5537指代从纽约蒙托克贝茨港发现的大量鱼类、甲壳类、双壳类以及其他类似海洋生物部分腐烂的遗体，均具有与//Homo sapiens//（人类）群体成员相同的遗传结构。对回收的所有实例进行分析表明，所有实例都是在同一时间内因内部有机结构快速出血而死亡，出血原因不明。\n\n除了大量的SCP-5537外，还发现了以下与异常有关的物品：\n\n* 一件厨师服，沾满血液和脂肪组织。由于其持续暴露在各种元素中，基因分析被认为是不可能的。\n\n* 174个瓷盘。每个瓷盘的表面都有结块的食物残渣以及与暴露在海水中一致的损坏。\n\n* 凝固的呕吐物。内容物是部分消化的SCP-5537实例，还有饼干和浓汤。\n\n* 一具人类尸体。尸检显示此人感染了库鲁病。\n\n* 12个一加仑桶的磨碎有机遗体。\n\n* 刻在SCP-5537发现地附近的基岩上的奇术印记。\n\n\n**发现：**2005年3月9日，在贝茨港各处发现了SCP-5537和上述相关物品，位于悬崖边一家艰难经营的红龙虾特许经营店附近（主要由于海鲜价格上涨，超出了该店的承受能力）。对该餐厅员工的询问未得出结果，有待进一步调查上述企业的商务活动。目前，基金会人员正试图从Site-35副主管处获得搜查令以对该餐馆进行突击检查；然而，正在核实是否有理由相信该场所存在异常活动。寻找因经营业绩不佳而被解雇的雇员的尝试未果。\n\n[[footnoteblock]]\n@@@@\n[[div class=\"footer-wikiwalk-nav\"]]\n[[=]]\n<< [[[SCP-5536]]] | SCP-5537 | [[[SCP-5538]]] >>\n[[/=]]\n[[/div]]\n\n[[include :scp-wiki-cn:component:license-box\n|author= Hexick\n|translator=XANARCHY MILITIA\n]]\n> **N/A**\n[[include :scp-wiki-cn:component:license-box-end]]",
+  "tags": [
+    "2021连写竞赛",
+    "_海生",
+    "safe",
+    "scp",
+    "动物",
+    "尸体",
+    "水生",
+    "生物性",
+    "鱼类"
+  ],
+  "author": "Esperanza_Cai",
+  "created_at": "2021-03-23T16:12:44+00:00",
+  "updated_at": "2021-03-23T16:44:23+00:00",
+  "rating": 2,
+  "_site": "scp-wiki-cn",
+  "_fullname": "scp-5537"
+}

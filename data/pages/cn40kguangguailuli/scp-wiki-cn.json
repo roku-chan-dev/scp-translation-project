@@ -1,0 +1,16 @@
+{
+  "title": "SCP-CN-40K：爱死西皮维基严选",
+  "content": "[[module CSS]]\n@import url('https://fonts.googleapis.com/css2?family=Noto+Sans+SC:wght@300;400;700;900&display=swap');\n\ndiv#page-content {\n    color: #000;\n    font-size: 0.9375rem;\n    font-family: \"Noto Sans SC\", sans-serif;\n}\n\nli, p {\n    line-height: 175%;\n}\n\np {\n    margin-block: 1.5em;\n}\n\nspan.ruby {\n    height: unset;\n    display: inline-flex;\n    flex-direction: column-reverse;\n    align-items: center;\n    vertical-align: top;\n    text-indent: 0;\n}\n\nspan.rt {\n    display: block;\n    margin-top: -0.625em;\n    margin-bottom: 0;\n    line-height: 1.25;\n}\n\n\n@media (max-width: 767px) {\ndiv#page-content {\n    font-size: 0.8125rem;\n}\n}\n\ndiv#page-content h1,\ndiv#page-content h2,\ndiv#page-content h3,\ndiv#page-content h4,\ndiv#page-content h5,\ndiv#page-content h6 {\n    font-family: \"Noto Sans SC\", sans-serif;\n    font-weight: 700;\n}\n\ndiv#page-content h1 {\n    color: #000;\n    font-weight: 700;\n    text-align: center;\n    margin: 4rem 0 2rem 0;\n    border-top: solid 2px #CCC;\n    border-bottom: solid 2px #CCC;\n    letter-spacing: 0.25rem;\n}\n\ndiv#page-content > p,\ndiv#page-content > div.blockquote > p {\n    text-indent: 2em;\n}\n\ndiv#page-content h3 {\n    border-left: double 6px #CCC;\n    padding-left: 0.5rem;\n}\n[[/module]]\n[[>]]\n[[module Rate]]\n[[/>]]\n\n写完愚人节竞赛文后，沉默了许久的床脚群传来一声消息，是一位自入群以来从未冒泡过的群友发的。\n\n他说在竞赛的中心页上，一直有一个死人待着。\n\n我笑了笑，不以为然，毕竟一位先知曾告诫过：在愚人节这一天，不要相信任何人说的话。\n\n不过嘛，我还是打开中心页——绝对不是因为将信将疑，只是打算在发前再看一下规则。\n\n浏览得很快，我熟练地新建了一个页面，在网址名称上打出＂cn40k<zhihuyanxuan>＂\n\n又是叮咚一声，来自QQ。那位群友连续发了7条消息。\n\n“别信他们”\n@@         @@“打开历史页面”\n@@         @@“求你了”\n@@         @@“快”\n@@         @@“来不及了来不及了来不及了来不及了来不及了”\n@@         @@“献祭”\n@@         @@“把这条消息转发到10个群聊即可召唤🌟世上最可愛いの软萌一米五白袜傲娇猫耳短发小萝莉🌟”\n= ##gray|你不认识群里的鸽子## 撤回了一条消息\n= ##gray|你不认识群里的鸽子## 被管理员移出该群聊\n\n我嘴角抽搐着，宁搁这耍猴呢？\n\n我还是打开了历史页面。\n\n在最上面，明晃晃的顶着一个ID。\n\n是[[*user moto42]]\n\n我才意识到，直到那位群友发言前，群里已有近半天没出一丝动静。\n\n++ 1.\n2025愚人节竞赛就是一个巨大的阴谋。竞赛规则是假的，主办方是假的，竞赛排名是假的，就连图中那个人畜无害的海豹，也是假的。\n\n从4月1号开始的那一刻，在wikidot发文评论评分的根本不是真人。\n\n除我之外的所有人在那时候，就已经死了。\n\n我紧闭着双眼紧靠着墙，冷汗直流。\n\n「他妈的，为什么只剩我一个………」\n\n电脑上的页面突然重新加载起来，明明我根本没有动过。\n\n竞赛头图被替换成一个巨大的死人头，几条硕大的蛆从头颅上的洞钻出，扭来扭去。\n\n「现在想要存活下去，只有遵守“衪们”的规则才行……」\n\n我闭上眼，尽量不让自己与那恶心的双目对视，重新打开之前已输入好的页面，按下了保存键……\n\n= ##blue|最低0.3元/天开通会员，查看完整内容 >##",
+  "tags": [
+    "2025愚人竞赛",
+    "原创",
+    "搞笑",
+    "故事"
+  ],
+  "author": "GuangguaiLULI",
+  "created_at": "2025-04-01T13:11:30+00:00",
+  "updated_at": "2025-04-01T13:26:45+00:00",
+  "rating": 39,
+  "_site": "scp-wiki-cn",
+  "_fullname": "cn40kguangguailuli"
+}

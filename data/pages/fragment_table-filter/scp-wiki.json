@@ -1,0 +1,13 @@
+{
+  "title": "Table Filter",
+  "content": "[[div class=\"artist-row {$type}\"]]\n\n[[div_ class=\"account\"]]\n[[*user {$name}]]\n[[/div]]\n\n[[div_ class=\"link\"]]\n[[[{$link}|]]]\n[[/div]]\n\n[[div class=\"info\"]]\n[[div class=\"artist-description\"]]\n{$info}\n[[/div]]\n[[div_ class=\"tag\"]]\n[#u-digital-2d Digital 2D]\n[#u-digital-3d Digital 3D]\n[#u-animation Animation]\n[#u-dry-media Dry Media]\n[#u-traditional-paint Traditional Paint]\n[#u-photoshop Photoshop]\n[#u-pixel-art Pixel Art]\n[#u-vector-art Vector Art]\n[#u-alt-media Alternative Media]\n[[/div]]\n[[/div]]\n\n[[/div]]",
+  "tags": [
+    "fragment"
+  ],
+  "author": "syuzhet",
+  "created_at": "2024-08-11T08:33:53+00:00",
+  "updated_at": "2024-08-11T08:38:07+00:00",
+  "rating": 0,
+  "_site": "scp-wiki",
+  "_fullname": "fragment:table-filter"
+}

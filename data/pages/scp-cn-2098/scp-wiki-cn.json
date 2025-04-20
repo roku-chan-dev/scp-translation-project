@@ -1,0 +1,23 @@
+{
+  "title": "SCP-CN-2098",
+  "content": "[[module ListPages category=\"fragment\" parent=\".\" order=\"created_at\" limit=\"1\" offset=\"@URL|0\"]]\n%%content%%\n[[/module]]\n\n[!--\nhttp://scp-wiki-cn.wikidot.com/fragment:cn-2098-1\n\nhttp://scp-wiki-cn.wikidot.com/fragment:cn-2098-2\n--]",
+  "tags": [
+    "dado",
+    "euclid",
+    "scp",
+    "人形生物",
+    "原创",
+    "合著",
+    "形态改变",
+    "掠食性",
+    "活物",
+    "现实扭曲",
+    "生物危害"
+  ],
+  "author": "SisterTan_Greasy",
+  "created_at": "2021-05-18T14:20:05+00:00",
+  "updated_at": "2024-05-26T21:10:48+00:00",
+  "rating": 35,
+  "_site": "scp-wiki-cn",
+  "_fullname": "scp-cn-2098"
+}

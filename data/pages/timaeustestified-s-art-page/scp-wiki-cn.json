@@ -1,0 +1,13 @@
+{
+  "title": "timaeuTestified的艺术页面",
+  "content": "[[module css]]\n.danke{\npadding: 5px 5px 5px 2px;\nmargin-bottom:10px;\nwidth: 100%;\n}\n.site{\nbackground-color:#ffff7ff;\nborder: 3px solid #ffff7ff;\ncolor: #17171a;\n}\ndiv.text{\n    color: #17171a;\n    padding-left: 1em;\n    font-size: 12px;\n    }\ndiv.text a {\n    color: #02c7b3;\n    text-decoration: none;\n    background: transparent;\n    font-size: 12px;\n}\ndiv.text a:hover {\n    color: #ffabd8;\n    text-decoration: none;\n    background: transparent;\n}\n[[/module]]\n[[div class=\"danke site\"]]\n[[div class=\"text\"]]\n@@@@\n呀吼，欢迎来到我的艺作页！\n@@@@\n我是Asin，--一位SCP新人-- 由于疫情搞得我心神不宁，所以这份页面没有太多艺作。假如你想让我画什么SCP亦或人设的艺作，记得在讨论区[[footnote]]**译注：**此处指EN原页面讨论区。[[/footnote]]留言喔！\n@@@@\n@@@@\n------\n@@@@\n[[size large]]**SCPs**[[/size]]\n@@@@\n\n[[collapsible show=\"✦ SCP-049 (2020)\" hide=\"✧ 有人教我如何使用PhotoShop吗。\"]]\n[[=image http://scp-jp-storage.wikidot.com/local--files/file:7522555-73-ggvl/200.jpg]]\n[[/collapsible]]\n\n\n[[collapsible show=\"✦ SCP-1233 (2020)\" hide=\"✧ 贵客大人，这边是麦当劳。\"]]\n[[=image http://scp-jp-storage.wikidot.com/local--files/file:7522555-74-rowp/201.png]]\n[[/collapsible]]\n\n\n\n[[collapsible show=\"✦ SCP-2396 (2021)\" hide=\"✧ 是她诶！\"]]\n[[=image http://scp-jp-storage.wikidot.com/local--files/file:7522555-75-y1wc/202.png]]\n[[/collapsible]]\n\n[[collapsible show=\"✦ SCP-3338 (2022)\" hide=\"✧ 带着猎物归巢的凶猛野兽(约[已编辑]年，已上色)\"]]\n[[=image http://scp-jp-storage.wikidot.com/local--files/file:7522555-76-qf31/203.png]]\n[[/collapsible]]\n\n@@@@\n@@@@\n------\n@@@@\n= **我的联络方式**\n@@@@\n\n= **[https://voidrotted.tumblr.com/ Tumblr]** ✦ **[https://twitter.com/voidrotted Twitter]**\n@@@@\n@@@@\n[[/div]]\n[[/div]]",
+  "tags": [
+    "艺术作品"
+  ],
+  "author": "SisterTan_Greasy",
+  "created_at": "2022-03-29T15:53:19+00:00",
+  "updated_at": "2022-03-29T16:16:23+00:00",
+  "rating": 4,
+  "_site": "scp-wiki-cn",
+  "_fullname": "timaeustestified-s-art-page"
+}

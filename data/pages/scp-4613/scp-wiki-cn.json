@@ -1,0 +1,17 @@
+{
+  "title": "SCP-4613",
+  "content": "[[include component:black-highlighter-theme-dev]]\n[[module CSS]]\nsup {\nvertical-align: top; position: relative; top: -0.5em;\n}\n:root{\n--cutColour: #fafafa;\n--barColour: #590505;\n}\n\n.info-container .collapsible-block-folded a{\ncolor: #FFF;}\n.info-container .collapsible-block-unfolded-link a{\ncolor: #FFF;}\n\n.translation_block{\ndisplay:none;}\n[[/module]]\n[[module css]]\n#side-bar {\n    background: rgb(var(--white-monochrome));\n}\n\n#side-bar div.menu-item a, #side-bar div.menu-item .text {\n    color: rgb(var(--black-monochrome));\n}\n\n#side-bar>div:nth-child(5) {\n    background-color: rgba(var(--dark-accent),0.25)!important;\n}\n[[/module]]\n\n\n[[include component:image-block name=http://scp-wiki.wdfiles.com/local--files/scp-4613/SCP-4613-1.jpg |caption= SCP-4613-1在无关事件中]]\n\n**项目编号：**SCP-4613\n\n**特殊收容措施：**MTF Omega-17（“雨中泪”）将使用社交媒体爬虫软件确认SCP-4613爆发地点。任何关于SCP-4613事件的社交媒体发帖都应被归档并立即予以移除。 \n\n一旦侦测到SCP-4613事件，发生地的手机与互联网服务将被暂停。在约4小时后，可由SCP-4613计划领导人决定停止阻断。 \n\nSCP-4613计划领导人必须允许人员进入受SCP-4613事件影响的区域。任何情况下基金会人员不得与SCP-4613受害者发生直接交互。\n\n**更新：**关于SCP-4613的测试全部暂停，等待对收容措施的更新[[footnote]]参见事故4613-65获取详情。[[/footnote]]。\n\n**描述：**SCP-4613是一集体性妄想，使人坚信爱德华·詹姆斯·奥莫斯[[footnote]]一位演员、导演。[[/footnote]]（编为SCP-4613-1）将立即抵达受害者所在地点。SCP-4613受害者可以通过说出语句“爱德华·詹姆斯·奥莫斯要来了”，把这种妄想共享给同一地点的其他人。\n\nSCP-4613持续约3小时，此后妄想发起者会劝服其他受影响人员该事件只是恶作剧。受二手影响者若与发起者分开，将在事件结束后失去对SCP-4613的记忆。\n\nSCP-4613事件一般会从满足特定条件的人员处发起。条件包括知晓 SCP-4613-1的名字（以及至少了解一部由SCP-4613-1执导或参演的作品），且有能力进行有声交流。\n\nSCP-4613发起者时常会尝试向他人介绍有SCP-4613-1参演的作品。绝大部分二手受害者会为亲自见到SCP-4613-1变得兴奋，即便其此前并不知晓SCP-4613-1。不过这不会妨碍人员离开SCP-4613影响地。 \n\n因SCP-4613的自我解除性质，难以确认SCP-4613已经存在了多长时间。SCP-4613是被用于其他计划的自动社交媒体爬虫软件首次发现。宣传SCP-4613的社交媒体发帖可以将他人的注意力吸引到此事件上，且会在事件结束后持续。 \n\n[[collapsible show=\"+ [事件4613-65]\" hide=\" \"]]\n\n> 2019年4月13日，一次SCP-4613事件发生在宾夕法尼亚州 Clifton Heights的一所Denny家餐厅内。尽管SCP-4613-1确实身处此地附近，该事件仍被确认为异常。基金会人员开始阻止对该地的造访。\n> \n> 4613计划领导人批准在此次4613事件中进行预先计划的测试。测试内容为由基金会人员劝说SCP-4613-1造访SCP-4613的影响地点。尝试取得成功，安排一名基金会司机把SCP-4613-1送到4613事件地。\n> \n> 在SCP-4613-1距离事件地11千米时，SCP-4613受害者突然出现与此前事件不一致的行为。下列记录是通过该地视频监控汇编而成（无音频记录）。\n>  \n> **事故4613-65事件记录**\n> \n> **13:59：**SCP-4613-1在11公里外。厨房内工作停工，食客不再进餐。受影响人员（14名年龄在17到64岁间的人员）开始搜寻一切可用纸张。 \n> \n> **14:03：**SCP-4613-1在4公里外。受影响人员用纸张叠出折纸独角兽。他们中无人曾有进行此类作品创作的经历或训练。完成后，他们手握独角兽折纸原地不动。\n> \n> **14:10：**SCP-4613-1抵达SCP-4613影响地。他被基金会人员允许入内。在场所有人转身朝向SCP-4613-1，将各自的独角兽放在距离最近的可用物体表面上，随后全体因自发性颅脑倒置死亡。 \n> \n> **14:11：**SCP-4613-1摇了摇头，说了些话后离开。\n> \n> 事件后，基金会人员将SCP-4613-1带离该地。对SCP-4613-1进行后续监控后，未发现其再行谈论此事件。 \n\n[[/collapsible]]\n\n[[collapsible show=\"+ [事件4613-65更新]\" hide=\" \"]]\n>  SCP-4613-1正在接受观察。考虑施以记忆删除治疗，但不视作紧要关注。在重审视频后，基金会唇语专家确认SCP-4613-1所说的话是“第一次不有趣。”\n[[/collapsible]]\n\n[[footnoteblock]]\n\n[[div class=\"footer-wikiwalk-nav\"]]\n[[=]]\n<< [[[SCP-4612]]] | SCP-4613 | [[[SCP-4614]]] >>\n[[/=]]\n[[/div]]",
+  "tags": [
+    "scp",
+    "机密分级",
+    "模因",
+    "神经性",
+    "记忆影响"
+  ],
+  "author": "ashausesall",
+  "created_at": "2019-09-07T05:49:28+00:00",
+  "updated_at": "2020-07-20T11:48:26+00:00",
+  "rating": 1,
+  "_site": "scp-wiki-cn",
+  "_fullname": "scp-4613"
+}

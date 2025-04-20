@@ -1,0 +1,21 @@
+{
+  "title": "SCP-7392",
+  "content": "[!--\nFragment pages:\nhttps://scp-wiki.wikidot.com/fragment:scp-7392-1\nhttps://scp-wiki.wikidot.com/fragment:scp-7392-2\n--]\n\n[[module ListPages category=\"fragment\" parent=\".\" order=\"name\" limit=\"1\" offset=\"@URL\"]]\n%%content%%\n[[/module]]\n[[include :scp-wiki:component:license-box]]\n=====\n> **Filename:** CamerasA1.png\n> **Name:** Surveillance cameras-IMG 4377.JPG\n> **Author:** Rama\n> **License:** CC BY-SA 2.0 FR\n> **Source Link:** [https://commons.wikimedia.org/wiki/File:Surveillance_cameras-IMG_4377.JPG Wikimedia Commons]\n> **Additional Notes:** Image reduced to one third of its original resolution.\n=====\n[[include :scp-wiki:component:license-box-end]]",
+  "tags": [
+    "_cc",
+    "_licensebox",
+    "_listpages",
+    "computer",
+    "foundation-made",
+    "keter",
+    "phenomenon",
+    "predictive",
+    "scp"
+  ],
+  "author": "Tiamat Elsen",
+  "created_at": "2024-11-30T15:09:09+00:00",
+  "updated_at": "2025-02-23T04:35:27+00:00",
+  "rating": 15,
+  "_site": "scp-wiki",
+  "_fullname": "scp-7392"
+}

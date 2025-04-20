@@ -1,0 +1,18 @@
+{
+  "title": "SCP-CN-001-J",
+  "content": "[[module CSS]]\n#page-title {\n  display: none;\n}\n\n.meta-title {\n  border-bottom: solid 1px #bbbbbb;\n  color: #990011;\n  font-weight: normal;\n  margin: 0 0 0.6em;\n  padding: 0 0 0.25em;\n  font-size: 200%;\n}\n\n.meta-title p {\n  margin: 0;\n}\n[[/module]]\n\n\n[[module ListPages category=\"*\" name=\"log-of-extranormal-events-c*\" limit=\"1\" order=\"name\" offset=\"@URL|0\"]]\n\n[[div class=\"meta-title\"]]\n%%title%%\n[[/div]]\n\n%%content%%\n[[/module]]",
+  "tags": [
+    "001提案",
+    "keter",
+    "k级情景",
+    "scp",
+    "原创",
+    "搞笑"
+  ],
+  "author": "QBLevi",
+  "created_at": "2018-04-01T09:49:00+00:00",
+  "updated_at": "2024-06-22T02:53:22+00:00",
+  "rating": 209,
+  "_site": "scp-wiki-cn",
+  "_fullname": "scp-cn-001-j"
+}

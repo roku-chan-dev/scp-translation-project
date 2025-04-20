@@ -1,0 +1,23 @@
+{
+  "title": "SCP-6442",
+  "content": "[[include :scp-wiki-cn:theme:black-highlighter-theme]]\n[[include :scp-wiki-cn:theme:penumbra-bhl]]\n[[include :scp-wiki-cn:component:acs-animation]]\n[[include :scp-wiki-cn:component:fade-in speed=2]]\n\n[[div]]\n\n[[include :scp-wiki-cn:component:anomaly-class-bar-source\n|lang=cn\n|item-number= 6442\n|clearance= 5\n|container-class= Thaumiel\n|secondary-class=\n|secondary-icon=\n|disruption-class= vlam\n|risk-class= critical\n]]\n[[include :scp-wiki:component:customizable-acs\n|containment-class= Thaumiel\n|containment-image= https://scp-wiki.wikidot.com/local--files/component:anomaly-class-bar/thaumiel-icon.svg\n|containment-color= 98, 69, 120\n|inc-containment = --]]]\n[[include :scp-wiki:component:customizable-acs\n|accent-one= 33, 37, 46\n|inc-color-accent = --]]]\n\n\n\n----\n\n[[/div]]\n[[div]]\n\n[[div class=\"scp-image-block block-right\" style=\"width: 270px\"]]\n[[image https://scp-wiki.wikidot.com/local--files/scp-6442/scp-6442.jpg style=\"width:100%;\" link=#]]\n[[div class=\"scp-image-caption\" style=\"width:100%;\"]]\n收容设施[数据删除]的部分\n[[/div]]\n[[/div]]\n\n**特殊收容措施：** 由于该异常在预防性收容工作及维持基金会隐秘上的功用，将以一切必要手段确保SCP-6442的安全。\n\n对收容设施[数据删除]的访问仅限于SCP基金会反情报机构批准。为隐藏该设施的物理方位，指派到此站点的人员不得接触地理定位工具，在其抵达后将接受B级记忆删除。除指定的紧急区域、以及为站点做必要维护外，不希望、不鼓励驻站人员熟悉该设施的布局，以免出现危害收容的可能。\n\n对该设施的任何未授权进出尝试都将招致立即拘捕，违令者随后将被记忆删除、降级和/或处决。\n\n收容设施[数据删除]的外部将由一系列基金会制自动机看守，专长于秘密反渗透战术。根据整体隐藏协议要求，这些自动机被设计为能秘密处决渗透者、静默消灭敌对飞机、还有对异常性武器施展奇术性反击咒语。\n\n----\n\nSCP-6442自身位于16个完全相同的球形收容间之一中，彼此至少保持五十米距离， 通过设计为混淆导航的迷宫式狭窄结构互联。每个房间不具任何特征且只有单一入口，不会有任何可辨识标记使之可以彼此区分开来。SCP-6442的确切位置不得被基金会任何人员知晓。\n\n每个收容间内部装有一个钨合金球，其内或许存放着SCP-6442，亦或是一个近乎一致（但并非异常）的复制品。每个球体悬停在对应收容间中心处，以确保只能在深度协作及努力下才能接触之。此外，收容设施的内部还将包含有多层次保护，防止人员试图对SCP-6442开展暴力无效化和/或夺取。当前采取的措施包括但不限于： \n\n* 反核及本征武器防护协议\n* 所有房间内注满气雾化[https://scp-wiki-cn.wikidot.com/updated-amnestics-guide I级记忆删除]。\n* 每个房间安装六台斯克兰顿现实稳定锚（SRA）以防止本体论攻击伤及SCP-6442。\n* 每个房间安装一台Xyank/Anastasakos恒定时间槽（XACTS）以防止时间操控。 \n* 每个房间安装三十六台实验性Randall/Yossarian阿吉巴抵消器(ERYAN)以防范和打压神性干预。\n* 每房间安装一套机动特遣队[https://scp-wiki-cn.wikidot.com/task-forces#tau-5 Tau-5 (“轮回”)]的构造水箱，以备上述措施仍有不足、或是驻站安保被敌对武力击溃。 \n\n若在不太可能的情况下、出于不可预见的理由而有必要取出SCP-6442，全部诱饵也将同SCP-6442一并被取出。在问题获得解决后，将把SCP-6442[https://scp-wiki-cn.wikidot.com/scp-4559 随机]归还到16个房间之一中。\n\n若联合国[https://www.scp-wiki-cn.wikidot.com/goc-hub-page 全球超自然联盟]成功取得SCP-6442，将采取一切手段无效化此项目，以免该组织开发出假想中的预防接种。[[footnote]]针对SCP-6442的模因接种会使SCP基金会在侦察和秘密作战上陷入严重劣势。[[/footnote]]由于SCP-6442的训练数据和构造材料已被全部焚毁以免逆向工程，对该项目的保护被视为高优先度事项。\n\n----\n\n由于广大异常社群内关系紧张，且调解会面进展不良，上述特殊收容措施将无限期继续。根据O5议会指令，该措施须由反情报机构每至少三月重新批准或更新一次。\n\n出于安保考虑，本文件受有改动，完整收容程序中的某个不确定部分未包含在其中。\n\n@@ @@\n@@ @@\n\n**描述：** SCP-6442是一段由SCP基金会反情报机构及模因学部创造的铭文。SCP-6442被雕刻在一个由机密性碳纤维弹性体制成的球体内。\n\n一旦感知到73%的铭文，已暴露对象的全部神经学功能将在瞬间彻底终止—此效应会对任何有感知存在生效，包括非有机生命形式。迄今，它是本组织制作过最为强力的认知危害；据估计需要认知抵抗值在742及以上才能从中生存下来。[[footnote]]备注：CRV等级是对数。[[/footnote]] 为此，预防接种被视为无可行性，乃至根本不具可能性。\n\n自其在2023年被创造并收容以来，SCP-6442已成功消灭了至少八千名全知性实体，其中至少两千名受到全球超自然联盟雇用。\n\n@@ @@\n\n[[footnoteblock]]\n\n[[/div]]\n\n[[module CSS]]\n:root {\n    --timeScale: 1.35;\n    --timeDelay: 1.25s;\n}\n[[/module]]",
+  "tags": [
+    "scp",
+    "thaumiel",
+    "全球超自然联盟",
+    "合著",
+    "基金会制",
+    "神经性",
+    "观察影响",
+    "视觉性",
+    "认知危害",
+    "轮回",
+    "铭文"
+  ],
+  "author": "ashausesall",
+  "created_at": "2021-11-23T15:08:52+00:00",
+  "updated_at": "2024-04-28T02:44:20+00:00",
+  "rating": 3,
+  "_site": "scp-wiki-cn",
+  "_fullname": "scp-6442"
+}

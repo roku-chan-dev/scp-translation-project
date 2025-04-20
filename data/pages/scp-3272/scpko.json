@@ -1,0 +1,18 @@
+{
+  "title": "SCP-3272",
+  "content": "[[include :scpko:theme:black-highlighter-theme]]\n[[module CSS]]\n:root{\n--cutColour: #fafafa;\n--barColour: #590505;\n}\n\n.info-container .collapsible-block-folded a{\ncolor: #FFF;}\n.info-container .collapsible-block-unfolded-link a{\ncolor: #FFF;}\n\n.translation_block{\ndisplay:none;}\n[[/module]]\n[[include info:start]]\n**SCP-3272:** 하늘에서 남자가 내려와, 할렐루야!\n**저자:** [[*user TheMightyMcB]]\n**원작:** https://scp-wiki.wikidot.com/scp-3272\n**역자:** [[*user Aiken Drum]]\n**저자에 대해서:**\n* http://ko.scp-wiki.net/themightymcb-s-author-page\n**특별 감사:**\n[[*user MaliceAforethought]], [[*user Crashington]], [[*user Gee0765]], [[*user T Rutherford]], [[*user Veiedhimaedhr]], [[*user Ihp]], [[*user Jekeled]], [[*user Pr10r]], [[*user Swaghetti]], [[*user Rattles]], and [[*user Roget]].\n[[collapsible show=\"+ 이미지\" hide=\"- 이미지\"]]\nhttps://commons.wikimedia.org/wiki/File:Shooting_Star.jpg (CC-BY-SA 4.0)\nhttps://commons.m.wikimedia.org/wiki/Category:Portable_toilets_in_the_United_States#/media/File%3AICanalFranceroadPortcranes5June06.jpg (CC-BY-SA 3.0)\n\n> **파일명:** Shooting_Star.jpg\n> **명칭:** Shooting Star.jpg\n> **저자:** Ramesh Kumar R\n> **라이선스:** CC BY-SA 4.0 International\n> **출처:** https://commons.wikimedia.org/wiki/File:Shooting_Star.jpg\n\n> **파일명:** Porta_Potty.jpg\n> **명칭:** ICanalFranceroadPortcranes5June06.jpg\n> **저자:**  Infrogmation\n> **라이선스:** CC BY-SA 2.0 Generic\n> **출처:** https://commons.wikimedia.org/wiki/File:ICanalFranceroadPortcranes5June06.jpg\n[[/collapsible]]\n[[include info:end]]\n\n[[module ListPages category=\"fragment\" parent=\".\" order=\"created_at\" limit=\"1\" offset=\"@URL|0\"]]\n%%content%%\n[[/module]]\n\n[!-- http://ko.scp-wiki.net/fragment:scp-3272-0 --]\n[!-- http://ko.scp-wiki.net/fragment:scp-3272-1 --]",
+  "tags": [
+    "en",
+    "scp",
+    "시간",
+    "안전",
+    "인공물",
+    "전자"
+  ],
+  "author": "Aiken Drum",
+  "created_at": "2019-09-20T11:24:04+00:00",
+  "updated_at": "2024-11-06T13:46:30+00:00",
+  "rating": 15,
+  "_site": "scpko",
+  "_fullname": "scp-3272"
+}

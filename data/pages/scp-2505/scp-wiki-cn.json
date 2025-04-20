@@ -1,0 +1,19 @@
+{
+  "title": "SCP-2505",
+  "content": "+ 条目创建向导\n++ 需要技术支持，请联系David Rosen，或者依我看来，别这么干。\n\n//附注：别在给我打电话说向导在安卓或者你的浏览器上不运行了。除了在被彻底清洗过的系统上用标准浏览器访问外你就不应该访问数据库。//\n\n[[html]]\n<html lang=\"zh\">\n<head>\n\n<meta charset=\"utf-8\">\n<meta name=\"viewport\" content=\"width=device-width, initial-scale=1.0, maxium-scale=1.0, minimum-scale=1.0, user-scalable=no\"/>\n\n<style type=\"text/css\">\ntd {\nword-break: normal;\nwidth: 20%\n}\n</style>\n\n<!-- 第一步：复制这个代码到你的HTML文件的顶部  -->\n\n<SCRIPT LANGUAGE = \"JavaScript\">\n\n<!-- Begin\n\nvar cnum1 = 0;\nvar cnum2 = 0;\nvar dnum1 = 0;\nvar dnum2 = 0;\nvar cstring = \"SCP-2505只可被称为SCP-2505。不得以其他代词指称SCP-2505。不得存在SCP-2505的静态文件；所有分配到SCP-2505的人员必须熟记相关实验结果。\"\nvar dstring = \"SCP-2505是一金属滚球轴承，其上出现有一种异常信息现象。任何以静态形式记录下的SCP-2505相关信息都会在创建后约7.4秒自动毁灭或删除。每在电脑上键入一个字符，键入后的7.4秒该字符就会被删除。对于数字化的SCP-2505音频记录，文件会在现实时间7.4秒后被篡改为白噪声。这些方式不会对用于记录的电子器械本身造成损坏。对于非电脑形式，信息的自动删除会更具破坏性。例如，对若将音频记录录入塑料唱片，唱片记录有声音的部分会在录制后7.4秒内发生过热，融化唱片并销毁数据。对以打字机或笔写下的信息，使用的墨水一般会直接解体为空气中的微粒。刻入物体表面的信息一般会引起该物体表面遭彻底破坏。若非人类的智能意识接触到了与SCP-2505相关的信息，7.4秒后该信息就将被其遗忘。唯一能长期保留SCP-2505相关信息的方法是将其保存在人类意识中，也即记忆下该信息。除此之外，SCP-2505没有其他异常性质；然而SCP-2505的外形特别地与完美的圆形接近。\"\n\nfunction containment()\n{\nif(cnum2<cstring.length){\ncnum2++;\nwindow.setTimeout(cdel,7392);\n}\nwindow.setTimeout(cwait,1);\n}\n\nfunction cwait(){\ndocument.getElementById(\"cbox\").value= cstring.substring(cnum1, cnum2);\n}\n\nfunction cdel(){\ncnum1++;\nif(cnum1==cnum2){\ncnum1=0;\ncnum2=0;\n}\ndocument.getElementById(\"cbox\").value= cstring.substring(cnum1, cnum2);\n}\n\nfunction description()\n{\nif(dnum2<dstring.length){\ndnum2++;\nwindow.setTimeout(ddel,7392);\n}\nwindow.setTimeout(dwait,1);\n}\n\nfunction dwait(){\ndocument.getElementById(\"dbox\").value= dstring.substring(dnum1, dnum2);\n}\n\nfunction ddel(){\ndnum1++;\nif(dnum1==dnum2){\ndnum1=0;\ndnum2=0;\n}\ndocument.getElementById(\"dbox\").value= dstring.substring(dnum1, dnum2);\n}\n\nfunction create(form) {        \n\nif (confirm(\"警告：创建欺诈性文档将导致纪律处分。我希望这个警告不用放在这。认真的各位，全部分级“J”的东西都在过时了。\")) {        \n\nwindow.alert(\"错误代码：35720。请联系技术支持，因为你做的任何事可能会让它变糟。\");\n\n}\n}\n\n// End -->\n\n</SCRIPT>\n\n</head>\n\n\n\n<body>\n\n\n\n<!-- 第二步：把这段代码放到你的HTML文件的BODY  -->\n\n\n<FONT FACE=\"Verdana\" size=2>\n\n<FORM>\n<p>\n<b>授权密码：</b> <input type=\"password\" name=\"pwd\" value=\"plznolookthx~ruiz\">\n</p><p>\n<b>项目编号：</b> SCP-2505\n</p><p>\n<b>项目等级：</b>\n<select>\n  <option value=\"safe\">Safe</option>\n  <option value=\"euclid\">Euclid</option>\n  <option value=\"keter\">Keter</option>\n  <option value=\"neutralised\">Neutralised</option>\n  <option value=\"other\">Other</option>\n</select> \n</p><p>\n<b>特殊收容措施：</b>\n\n<textarea rows=\"8\" style=\"width:95%;\" id=\"cbox\" oninput=\"containment()\" wrap=\"hard\">\n\n</textarea>\n</p><p>\n<b>描述：</b>\n\n<textarea rows=\"16\" style=\"width:95%;\" id=\"dbox\" oninput=\"description()\" wrap=\"hard\">\n\n</textarea>\n\n</p>\n</B>\n\n<P>\n<center>\n<INPUT TYPE = \"button\" VALUE=\"提交\" onClick = \"create(this.form)\"></TD>\n</center>\n\n\n</FORM>\n</font>\n<p>\n<p>\n\n\n\n<!-- Script Size:  3.09 KB  -->\n\n\n\n\n\n</FONT>\n\n</body>\n\n</html>\n[[/html]]\n\n[[footnoteblock]]\n@@@@\n[[div class=\"footer-wikiwalk-nav\"]]\n[[=]]\n << [[[SCP-2504]]] | SCP-2505 | [[[SCP-2506]]] >>\n[[/=]]\n[[/div]]",
+  "tags": [
+    "meta",
+    "scp",
+    "信息危害",
+    "机密分级",
+    "球体",
+    "研究员rosen",
+    "金属"
+  ],
+  "author": "Flea_ZER0",
+  "created_at": "2016-05-31T12:02:21+00:00",
+  "updated_at": "2022-02-15T02:44:19+00:00",
+  "rating": 34,
+  "_site": "scp-wiki-cn",
+  "_fullname": "scp-2505"
+}

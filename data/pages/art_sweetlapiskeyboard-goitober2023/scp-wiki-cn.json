@@ -1,0 +1,13 @@
+{
+  "title": "SweetLapisKeyboard的GOI十月画作",
+  "content": "[[include :scp-wiki-cn:theme:monotypical]]\n\n[[module CSS]]\n:root {\n    --linkColor: #B8860B;\n \n    --primaryBackgroundColor: #2f333c;\n    --secondaryBackgroundColor: #2f333c;\n    --tertiaryBackgroundColor: #454544;\n    --borderColor: #B8860B;\n \n    --shadow: rgba(255,215,0,0.3);\n \n    --selectionColor: #B8860B;\n    --textColor: #F8F8F2;\n    --textColor-alt: #a49562;\n}\n\n::-webkit-scrollbar-track {\n    background: var(--secondaryBackgroundColor);\n}\n[[/module]]\n\n[[div class=\"meta-title\"]]\nSweetLapisKeyboard的GOI十月画作\n[[/div]]\n\n[[div class=\"monoboxical\"]]\n这些是我为[[[goitober2023|GOI十月 2023]]]制作的！我不会画下所有的主题，只是从中抽取了一部分。享受它吧\n[[/div]]\n\n[[tabview]]\n[[tab 第五天：第五教会]]\n\n  [[=image https://scp-wiki.wdfiles.com/local--files/art:sweetlapiskeyboard-goitober2023/fifth.png]]\n\n  [[div class=\"blockquote\"]]\n  [[[why-is-five-afraid-of-seven|“何故五惧于七？”]]]或者说， 何故Anafabula埋葬了那个该死的海星？\n  [[/div]]\n\n[[/tab]]\n[[/tabview]]",
+  "tags": [
+    "艺术作品"
+  ],
+  "author": "AceAttackAssassin",
+  "created_at": "2023-10-14T07:07:31+00:00",
+  "updated_at": "2023-10-17T08:42:27+00:00",
+  "rating": 0,
+  "_site": "scp-wiki-cn",
+  "_fullname": "art:sweetlapiskeyboard-goitober2023"
+}

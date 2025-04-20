@@ -1,0 +1,14 @@
+{
+  "title": "サイト内掲示物保管庫",
+  "content": "[[module CSS]]\n.c-SpliteImg {\n  display: flex;\n  flex-flow: row wrap;\n}\n.c-SpliteImg__cell {\n  width: 100%;\n}\n.c-SpliteImg__cell > * {\n  display: inline-block;\n}\n.c-SpliteImg__cell--x2 > * {\n  width: 50%;\n}\n.c-SpliteImg__cell--x3 > * {\n  width: 33.3333333333%;\n}\n.c-SpliteImg__cell--x4 > * {\n  width: 25%;\n}\n.c-SpliteImg__cell--x5 > * {\n  width: 20%;\n}\n.c-SpliteImg__cell--x6 > * {\n  width: 16.6666666667%;\n}\n.c-SpliteImg__cell--x7 > * {\n  width: 14.2857142857%;\n}\n.c-SpliteImg__cell--x8 > * {\n  width: 12.5%;\n}\n.c-SpliteImg__cell--x9 > * {\n  width: 11.1111111111%;\n}\n.c-SpliteImg__cell--x10 > * {\n  width: 10%;\n}\n.c-SpliteImg__cell--x11 > * {\n  width: 9.0909090909%;\n}\n.c-SpliteImg__cell--x12 > * {\n  width: 8.3333333333%;\n}\n[[/module]]\n\n[[include credit:start]]\n**タイトル:** サイト内掲示物保管庫\n**著者:** [[*user Ryu JP]]\n[[include credit:end]]\n\n｢サイト内掲示物｣としての体裁の画像作品を制作していました｡主にdiscordの会話の流れとかで思いつきから作ったりした物となります｡そんな訳でここに供養します｡全ての画像は私の自作です｡その為この画像は完全なCC-BY-SA-3.0となります｡\n\nまた新しいその様な画像を制作したらこの保管庫に追加します｡\n\n------\n\n[[div class=\"c-SpliteImg\" style=\"width: auto;\"]]\n[[div class=\"c-SpliteImg__cell c-SpliteImg__cell--x4\"]]\n[[image 臨時0.jpg]][[image 臨時1.jpg]][[image 臨時2.jpg]][[image 臨時3.jpg]][[image 臨時4.jpg]][[image 臨時5.jpg]][[image 臨時6.jpg]][[image 臨時7.jpg]]\n[[/div]]\n[[/div]]\n\n------\n\n[[div class=\"c-SpliteImg\" style=\"width: auto;\"]]\n[[div class=\"c-SpliteImg__cell c-SpliteImg__cell--x4\"]]\n[[image 終日0.jpg]][[image 終日1.jpg]][[image 終日2.jpg]][[image 終日3.jpg]][[image 終日4.jpg]][[image 終日5.jpg]][[image 終日6.jpg]][[image 終日7.jpg]]\n[[/div]]\n[[/div]]\n\n------\n\n[[div class=\"c-SpliteImg\" style=\"width: auto;\"]]\n[[div class=\"c-SpliteImg__cell c-SpliteImg__cell--x4\"]]\n[[image アクセス0.jpg]][[image アクセス1.jpg]][[image アクセス2.jpg]][[image アクセス3.jpg]][[image アクセス4.jpg]][[image アクセス5.jpg]][[image アクセス6.jpg]][[image アクセス7.jpg]]\n[[/div]]\n[[/div]]\n\n------\n\n[[div class=\"c-SpliteImg\" style=\"width: auto;\"]]\n[[div class=\"c-SpliteImg__cell c-SpliteImg__cell--x4\"]]\n[[image 遺棄0.jpg]][[image 遺棄1.jpg]][[image 遺棄2.jpg]][[image 遺棄3.jpg]][[image 遺棄4.jpg]][[image 遺棄5.jpg]][[image 遺棄6.jpg]][[image 遺棄7.jpg]]\n[[/div]]\n[[/div]]\n\n------\n\n[[div class=\"c-SpliteImg\" style=\"width: auto;\"]]\n[[div class=\"c-SpliteImg__cell c-SpliteImg__cell--x4\"]]\n[[image サツキ0.jpg]][[image サツキ1.jpg]][[image サツキ2.jpg]][[image サツキ3.jpg]][[image サツキ4.jpg]][[image サツキ5.jpg]][[image サツキ6.jpg]][[image サツキ7.jpg]]\n[[/div]]\n[[/div]]\n\n------\n100KB制限回避の構文は[[*user y075ub4]]様の[http://scp-jp-sandbox3.wikidot.com/draft:splite-img 画像分割構文]を利用させて頂きました｡誠に感謝申し上げます｡",
+  "tags": [
+    "jp",
+    "アートワーク"
+  ],
+  "author": "Ryu JP",
+  "created_at": "2020-03-28T02:41:06+00:00",
+  "updated_at": "2021-01-10T18:12:53+00:00",
+  "rating": 56,
+  "_site": "scp-jp",
+  "_fullname": "site-post-archive"
+}

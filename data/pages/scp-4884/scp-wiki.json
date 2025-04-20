@@ -1,0 +1,27 @@
+{
+  "title": "SCP-4884",
+  "content": "[[>]]\n[[module Rate]]\n[[/>]]\n\n[!--\nFragments:\nhttp://scp-wiki.wikidot.com/fragment:scp-4884-1\nhttp://scp-wiki.wikidot.com/fragment:scp-4884-2\nhttp://scp-wiki.wikidot.com/fragment:scp-4884-3\nhttp://scp-wiki.wikidot.com/fragment:scp-4884-4\nhttp://scp-wiki.wikidot.com/fragment:scp-4884-5\nhttp://scp-wiki.wikidot.com/fragment:scp-4884-6\n--]\n\n[[module ListPages category=\"fragment\" parent=\".\" order=\"created_at\" limit=\"1\" offset=\"@URL|0\"]]\n[[div style=\"border: solid 1px #999999; width: 95%; background: #DAFAD9; padding: 5px; float: center; margin-bottom: 4px;\"]]\n[[=]]\nWelcome to SCPNet, Director Forrester. \n\nYou are viewing %%title%%.\n[[/=]]\n[[/div]]\n\n%%content%%\n\n[[/module]]\n\n[[footnoteblock]]\n[[div class=\"footer-wikiwalk-nav\"]]\n[[=]]\n<< [[[SCP-4883]]] | SCP-4884 | [[[SCP-4885]]] >>\n[[/=]]\n[[/div]]",
+  "tags": [
+    "4000",
+    "_listpages",
+    "compulsion",
+    "concept",
+    "extradimensional",
+    "historical",
+    "mind-affecting",
+    "prometheus",
+    "reality-bending",
+    "religious",
+    "ritual",
+    "scp",
+    "serpents-hand",
+    "thaumiel",
+    "uncontained"
+  ],
+  "author": null,
+  "created_at": "2018-07-28T11:14:36+00:00",
+  "updated_at": "2022-10-01T17:38:08+00:00",
+  "rating": 144,
+  "_site": "scp-wiki",
+  "_fullname": "scp-4884"
+}

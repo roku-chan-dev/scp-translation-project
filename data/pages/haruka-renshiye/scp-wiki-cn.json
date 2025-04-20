@@ -1,0 +1,13 @@
+{
+  "title": "遥的人事页",
+  "content": "[[size 120%]]\n[[=]]\n**祝每一个驻足之人都能收获内心的鲜花。**\n[[/=]]\n[[/size]]\n\n[[include component:author-page order=created_at]]",
+  "tags": [
+    "作者"
+  ],
+  "author": null,
+  "created_at": "2021-03-31T13:04:19+00:00",
+  "updated_at": "2021-03-31T13:05:06+00:00",
+  "rating": 26,
+  "_site": "scp-wiki-cn",
+  "_fullname": "haruka-renshiye"
+}

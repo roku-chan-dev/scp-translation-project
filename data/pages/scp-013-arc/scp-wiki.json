@@ -1,0 +1,21 @@
+{
+  "title": "SCP-013-ARC",
+  "content": "[[>]]\n[[module Rate]]\n[[/>]]\n**Item #:** SCP-013-ARC\n\n**Object Class:** Euclid \n\n**Special Containment Procedures:** SCP-013-ARC is housed at Sector-19 in a small, circular chamber. In the presence of SCP-013-ARC, all personnel must refrain from speaking loudly or making excessive noise. Personnel attending the artifact should be replaced every four hours, with no fewer than seven (7) individuals in attendance at all times. \n\nIn consideration of the item's unique nature and attributes, psychological consultants have devised a \"Piety Test\" of comparable reliability to official intelligence quotient or empathy tests; attending personnel should be selected in strict accordance to their scores on this test. In light of previous mishaps, any attempt to circumvent or disregard this protocol is subject to severe discipline.    \n\nIn the event that SCP-013-ARC attempts to leave its containment chamber, approved personnel should address it in a calm tone and respectfully request that it return to its chamber. This strategy has effectively secured the artifact in containment in the majority of prior instances. \n\nHowever, in the event that SCP-013-ARC does not respond to verbal entreaties, the artifact should be closely surrounded by all approved attendants, and in addition by every available personnel professing religious faith. Upon surrounding the artifact, attendants should observe a full three minutes of silence-- alternating with entreaties for the object to return to its chamber.     \n\nUnder no circumstances may any personnel direct physical violence against SCP-013-ARC, or use physical force in an attempt to move it.\n\n**Description:** SCP-013-ARC is a roughly spherical object, approximately 80 cm in diameter. Its appearance is metallic and reflective; researchers have not yet managed a conclusive analysis of its composition.\n\nSCP-013 has the ability to move autonomously, and so far appears capable of moving over any solid or semi-solid surface. Rather than rolling, it propels itself forward by an unknown mechanism-- hovering approximately 3 mm over the relevant surface. In motion, the object's average speed is approximately 3 m/s. However, in reaction to loud noises or other perceived disturbances, it is capable of launching itself at a speed upward of 300 m/s. In this disturbed state, SCP-013-ARC is capable of selectively dissociating any matter within a 10 mm range into microparticles. Organic matter is affected as completely as inorganic matter. \n\nIn its undisturbed state, SCP-013-ARC \"allows\" the close proximity, even physical contact, of individuals who could be described as \"reverent\"-- or, as the screening test implies, \"pious\". The artifact does not appear to distinguish between religious faiths, its sensitivity focused on the value an individual has assigned to their personal belief system-- and, by extension, to the artifact itself. \n\nAll subjects interviewed following successful contact with SCP-013-ARC have described visions of foreign places and events, reflected on the object's surface. Subjects find recalling or articulating the details of these \"visions\" especially difficult, regardless of their level of education or short-term memory capabilities. Live video recordings of these interactive tests reveal no change to SCP-013-ARC's metallic surface or overall appearance. \n\nWhile the descriptions of these \"visions\" seem to vary from individual to individual, comparison of these accounts has revealed important points of similarity. In all likelihood, the \"revelation\" subjects experience is a visual depiction of creation consistent with their beliefs about the origin of the universe.",
+  "tags": [
+    "archived",
+    "autonomous",
+    "euclid",
+    "hallucination",
+    "religious",
+    "rewrite",
+    "scp",
+    "sphere",
+    "telepathic"
+  ],
+  "author": "xthevilecorruptor",
+  "created_at": "2008-07-25T14:35:43+00:00",
+  "updated_at": "2021-07-29T00:46:37+00:00",
+  "rating": -25,
+  "_site": "scp-wiki",
+  "_fullname": "scp-013-arc"
+}

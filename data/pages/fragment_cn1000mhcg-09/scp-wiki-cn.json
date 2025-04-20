@@ -1,0 +1,13 @@
+{
+  "title": "抉择",
+  "content": "[[div style=\"border:none; background:#222222; color:#FFFFFF; padding:5px;font-family:Courier New\"]]\n[[==]]\n[[div style=\"text-align:center; font-size: 16px\"]]\n##AE0000|**S-1015紧急救助程序已启动。**##\n[[/div]]\n[[div style=\"text-align:center; font-size: 12px\"]]\n正在启动使用者体内预留的精神安定模因……\n……\n……\n……\n模因已作用。\n[[div style=\"text-align:center; font-size: 16px\"]]\n\n**精神异常状态：##orange|不良##**\n**精神健康状态：##orange|不良##**\n[[/div]]\n[[/div]]\n[[/==]]\n[[/div]]\n@@ @@\n[[note]]\nS-1015还有这种功能？Ling还挺厉害的嘛。\n\n但这也没什么影响就是了。能够实现愿望的工具仍然在你面前。\n[[/note]]\n[[=]]\n[[collapsible show=\"睁开双眼\" hide=\" \"]]\n[[/=]]\n[[html]]\n<!DOCTYPE html>\n<html>\n<body>\n<script>\nfunction thankyou(){\n{\ndocument.getElementById('cn10151').value=\"谢谢你\";\nwindow.open('http://scp-wiki-cn.wikidot.com/scp-cn-1015/offset/9','_parent');\n}\n}\nfunction no(){\n{\ndocument.getElementById('cn10152').value=\"你想做什么？难道……不！\";\nwindow.open('http://scp-wiki-cn.wikidot.com/scp-cn-1015/offset/10','_parent');\n}\n}\n</script>\n<center>\n<div style=\"display: inline-block; border:1px solid orange; background:#FFFFFF; padding:0px 5px 0px 5px;  width:70%;text-align:center;margin: 0px 10px 0px 10px;font-size:16px;font-weight:normal;color:orange\";>\n<p>你正站在SCP-CN-1015-1的面前。</p>\n</div>\n<br></br>\n<input id=\"cn10151\" style=\"background: #FFFFFF center; text-align: center; height: 160px;width: 160px; margin:0px auto;padding:0px;border: solid 3px #FFFFFF;font-size:16px;color:orange;box-shadow: 0px 0px 10px gray inset;cursor: pointer\";\nonClick=\"thankyou()\"> \n<br></br>\n<div style=\"display: inline-block; border:1px solid orange; background:#FFFFFF; padding:0px 5px 0px 5px;  width:70%;text-align:center;margin: 0px 10px 0px 10px;font-size:16px;font-weight:normal;color:orange\";>\n<p>点击它，你就将被永远流传下去。</p>\n</div>\n<br></br>\n<br></br>\n<br></br>\n<br></br>\n<br></br>\n<br></br>\n<br></br>\n<br></br>\n<br></br>\n<br></br>\n<br></br>\n<br></br>\n<div style=\"display: inline-block; border:1px solid white; background:#222222; padding:0 auto;width:100%;text-align:center;margin: 0px 0px 0px 0px;font-size:16px;font-weight:normal;color:white\";>\n<br></br>\n<p>但是，你或许还有其它选择。</p>\n<br></br>\n<input id=\"cn10152\" value=\"将自己与SCP-CN-1015的外层骨架进行连接\" style=\"background: black center; text-align: center; height: 32px;width: 256px; margin:0px 0px 40px 0px;padding:0px;border: solid 1px white;font-size:12px;color:white;cursor: pointer\";\nonClick=\"no()\"> \n</div>\n</center>\n</body>\n</html>\n[[/html]]\n[[/collapsible]]",
+  "tags": [
+    "段落"
+  ],
+  "author": "mhcg",
+  "created_at": "2018-11-26T13:55:38+00:00",
+  "updated_at": "2024-04-27T19:56:17+00:00",
+  "rating": 0,
+  "_site": "scp-wiki-cn",
+  "_fullname": "fragment:cn1000mhcg-09"
+}

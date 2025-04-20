@@ -1,0 +1,14 @@
+{
+  "title": "10068",
+  "content": "number: UE-183702-JP\ncontent: 長さ3.5m、平均幅0.6mの路地。端から徒歩で侵入した人間(以下対象)の表情は、侵入から平均15分が経過するまでの間不明な原因により常に「作り笑い」と形容される状態に変化する。対象の作り笑いが継続している間、対象が通過する経路に設置された信号機は不明な原因によって全て青表示に変化する。\ndate: '2021-02-15'\narea: '日本国 愛媛県'\nprotocol: 路地に関してはカバーストーリー「改装」を適用して封鎖。捕捉した全ての対象は記憶処理を実行した後解放した。\nredirect-b: '[[module Redirect destination=\"/log-of-unexplained-locations-jp'\nredirect-e: '\"]]'",
+  "tags": [
+    "jp",
+    "剪定対象-子"
+  ],
+  "author": "Copperstatue",
+  "created_at": "2021-02-13T06:50:09+00:00",
+  "updated_at": "2021-05-24T13:21:43+00:00",
+  "rating": 20,
+  "_site": "scp-jp",
+  "_fullname": "log-of-unexplained-locations-jp:10068"
+}

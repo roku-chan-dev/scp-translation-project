@@ -1,0 +1,21 @@
+{
+  "title": "SCP-CN-2089",
+  "content": "[[module css]]\n.page {\n    display: block;\n    overflow: hidden;\n    font-family: \"Monotype Corsiva\", \"Bradley Hand ITC\", sans-serif;\n    font-style: normal;\n\n    background-attachment: scroll;\n    background-clip: border-box;\n    background-color: transparent;\n    background-image: linear-gradient(to top ,rgb(202, 219, 228) 0%, rgb(231, 233, 220) 8%);\n    background-origin: padding-box;\n    background-position: 0px 8px;\n    background-repeat: repeat;\n    background-size: 100% 20px;\n\n    border: 1px solid #CCC;\n    border-radius: 10px;\n    padding: 10px 10px;\n    margin-bottom: 10px;\n\n    box-shadow: 0px 1px 3px rgba(0, 0, 0, 0.2)\n    }\n.page p,\n.page ul {\n    line-height: 20px;\n    margin: 0;\n}\n[[/module]]\n\n[[include :scp-wiki-cn:theme:minimal\n|title=DoMC\n|subtitle=解决沟通问题]]\n\n[[>]]\n[[module Rate]]\n[[/>]]\n\n**项目编号：**SCP-CN-2089\n\n**项目等级：**--Safe-- Neutralized\n\n**特殊收容措施：**项目被收容于Site-CN-618的收容间内。除对收容间的必要维修外，禁止任何人员进出Site-CN-618。\n\n哨站-618将负责对Site-CN-618的日常监视。\n\n**描述：**SCP-CN-2089为对SCP-CN-2089-1与SCP-CN-2089-2的总称。\n\nSCP-CN-2089-1外表为一无标识玻璃瓶，其内部被SCP-CN-2089-2完全填充。SCP-CN-2089-2为SCP-CN-2089-1内部的亮黄色液体，研究表明，SCP-CN-2089-2为一种与橙味汽水相似的液体。\n\n所有SCP-CN-2089-1,-2个体均表现出同样效应。\n\n[[collapsible show=\"+ Site-CN-618相关记录\" hide=\"- Site-CN-618相关记录\"]]\n[[div class=\"blockquote\"]]\n[[=]]\nRAISA相关记录\n[[/=]]\n\n------\n**2021年4月4日：**首次记录，分配编号#457361。\n\n**2021年5月11日：**编号更改，重编为SCP-CN-2089。[[footnote]] 存疑操作，理由：编号重复。 [[/footnote]]\n\n**2021年5月11日：**存疑操作消除。\n\n**2021年5月12日：**内容修订：增加指代对象。\n\n**2021年5月12日：**增加存疑操作：重复的修订操作。\n\n//已省略2021年5月12日至24日的14344次存疑操作。//\n\n**2021年6月2日：**存疑操作消除，内容修订：更改指代对象。\n\n**2021年6月13日：**内容修订：项目无效化。\n\n//[记录结束]//\n\n[[/div]]\n\n[[div class=\"blockquote\"]]\n[[=]]\nSite-CN-618记录\n\n------\n\n[[/=]]\n**2021年5月12日8:21：**清洁员Rotz解锁收容间#143大门。\n\n**8:21：**负一层R5走廊[[footnote]] 需注意，收容间#143位于此走廊。 [[/footnote]]摄像头失效。\n\n**9:01：**研究员Elton Fuerte，Oswaldo Puhr与Michael Catoe解锁R5走廊大门。\n\n**9:01：**负一层右侧主走廊摄像头失效。\n\n**9:05：**负一层右侧主走廊解锁。\n\n**9:07：**收容失效警报触发。[[footnote]] 求救信号于同时发出。 [[/footnote]]\n\n**9:07：**负一层所有摄像头失效。\n\n\n**9:21：**特工Duncan Tartar乘坐电梯B3自负三层到达负一层。\n\n**9:21：**电梯B3摄像头失效。\n\n**9:34：**MTF-庚子-439“特快专员”[[footnote]] 主要职能为应对具有本质驱动能力的生物。 [[/footnote]]到达Site-CN-618。\n\n**9:34：**T1小队乘坐电梯B2到达负一层。\n\n**9:34：**T1小队失联。\n\n**9:36：**T2小队乘坐电梯B7到达负三层。并被告知应尽量撤离人员。\n\n**9:50：**连接负一层至负三层的应急通道打开。\n\n**9:50：**T2小队失联，负二，三层的摄像头失效。\n\n**10:11：**一层人员全部撤离。\n\n**10:23：**经商议，放弃Site-CN-618，小队撤离并封锁了Site-CN-618。\n\n//自5月14日至24日，检测到多次异常的仪器启动信号。//\n\n**2021年5月24日4:23：**一未知信号自站点内部传出。\n\n//[记录结束]//\n\n------\n调查报告显示，站点内部的摄像头失效的原因均为未知方式造成的过度挤压。在对5月24日所发出的信号进行解析后，项目的档案修订至现在版本，并对Site-CN-618进行改造，以彻底封锁站点地下三层。\n\n[[/div]]\n\n[[div class=\"blockquote\"]]\n\n[[=]]\n误传部记录\n[[/=]]\n\n------\n\n[[div class=\"blockquote\"]]\n奥卡姆剃刀，仅此而已。——Del Moehr\n\n[[/div]]\n\n[[/div]]\n\n\n[[/collapsible]]\n\n**附录：**经商议，SCP-CN-2089已无效化。",
+  "tags": [
+    "2022新人竞赛",
+    "scp",
+    "人造物品",
+    "原创",
+    "基金会制",
+    "无效化",
+    "概念",
+    "自我复制",
+    "误传部"
+  ],
+  "author": "waaaan",
+  "created_at": "2022-06-29T12:07:06+00:00",
+  "updated_at": "2022-08-29T07:15:20+00:00",
+  "rating": 28,
+  "_site": "scp-wiki-cn",
+  "_fullname": "scp-cn-2089"
+}

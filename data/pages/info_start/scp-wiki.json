@@ -1,0 +1,14 @@
+{
+  "title": "Info Module",
+  "content": "[[module CSS]]\n@import url(https://scp-wiki.wdfiles.com/local--code/info%3Astyle/1);\n[[/module]]\n\n[[ul class=\"creditRate\"]]\n[[li class=\"rateBox folded\"]]\n[[div_ class=\"rate-box-with-credit-button\"]]\n[[module Rate]]\n[[div class=\"creditButton foldable-list-container\"]]\n[# ]\n[[/div]]\n[[/div]]\n\n[[div id=\"credit-view\"]]\n[[div_ class=\"fader foldable-list-container\"]]\n[# close]\n[[/div]]\n\n[[div class=\"modalcontainer\"]]\n[[div class=\"modalbox\"]]\n[[=]]\n++* Info\n[[/=]]\n------\n[[div_ class=\"close-credits foldable-list-container\"]]\n[# X]\n[[/div]]\n[[div class=\"credit first\"]]",
+  "tags": [
+    "co-authored",
+    "component"
+  ],
+  "author": "Croquembouche",
+  "created_at": "2018-12-09T07:03:00+00:00",
+  "updated_at": "2023-07-15T10:09:55+00:00",
+  "rating": 50,
+  "_site": "scp-wiki",
+  "_fullname": "info:start"
+}

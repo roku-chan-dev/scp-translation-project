@@ -1,0 +1,14 @@
+{
+  "title": "参考文献",
+  "content": "参考文献を記述する領域は{{@@[[bibliography]]...[[/bibliography]]@@}}によって定義されています。参考文献の各構文はそれぞれ下記のフォーマットを有しています:\n{{@@label : 参考文献内容@@}}\n参考文献を引用する場合は {{@@((bibcite@@ //label//))}}という構文を使用します。\n\n[[div style=\"background-color:#EEE;border:dashed #CCC 1px;\"]]\n@@パルサーはJ.ベルとA. ヒューウィッシュによって初めて観測されました [((bibcite bell))]。別途参照[参考((bibcite guy))].@@\n@@@@\n@@[[bibliography]]@@\n@@: bell : J.ベル、J.ヒューウィッシュ、J. D.H.ピルキントン、P. F.スコット 、R.A.コーリンズ『素早く振幅する電磁波の観測』 Nature 217, 709, 1968.@@\n@@: guy : R. K. ガイ『差集合の基準寸法とエラー検出訂正』 §C10 in Unsolved Problems in Number Theory, 2nd ed. New York: Springer-Verlag, pp. 118-121, 1994.@@\n@@[[/bibliography]]@@\n[[/div]]\n\nパルサーはJ.ベルとA. ヒューウィッシュによって初めて観測されました [((bibcite bell))]。別途参照[参考((bibcite guy))].\n\n[[bibliography]]\n: bell : J.ベル、J.ヒューウィッシュ、J. D.H.ピルキントン、P. F.スコット 、R.A.コーリンズ『素早く振幅する電磁波の観測』 Nature 217, 709, 1968.\n: guy : R. K. ガイ『差集合の基準寸法とエラー検出訂正』 §C10 in Unsolved Problems in Number Theory, 2nd ed. New York: Springer-Verlag, pp. 118-121, 1994.\n[[/bibliography]]\n\nもし標準のバイオグラフィのタイトル(\"Bibliography\") が気に入らないのであれば、{{@@[[bibliography title=\"Custom title\"]]@@}} 構文を使って好きなタイトルをつけるか({{title=\"\"}})を使ってタイトルをなくす事ができます。",
+  "tags": [
+    "jp",
+    "リファレンス"
+  ],
+  "author": "C-take",
+  "created_at": "2018-04-09T12:36:30+00:00",
+  "updated_at": "2023-01-13T12:08:33+00:00",
+  "rating": 8,
+  "_site": "scp-jp",
+  "_fullname": "wiki-syntax:bibliography"
+}

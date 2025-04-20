@@ -1,0 +1,16 @@
+{
+  "title": "●●|●●●●●|●●|●-xxx",
+  "content": "[[module CSS]]\n\n#page-title { \ndisplay: none; \n}\n\n.meta-title {\n\nborder-bottom: solid 1px #bbbbbb;\n\ncolor: #990011;\n\nfont-weight: normal;\n\nmargin: 0 0 0.6em;\n\npadding: 0 0 0.25em;\n\nfont-size: 200%;\n\n}\n\n\n\n.meta-title p {\n\nmargin: 0;\n\n}\n\n[[/module]]\n\n[[module ListPages category=\"fragment\" parent=\".\" limit=\"1\" order=\"name\" offset=\"@URL|0\"]]\n[[div class=\"meta-title\"]]\n%%title%%\n[[/div]]\n[[/module]]\n\n\n[[module ListPages category=\"fragment\" parent=\".\" limit=\"1\" order=\"name\" offset=\"@URL|0\"]]\n\n%%content%%\n\n[[/module]]\n\n[!--\nhttp://scp-wiki-cn.wikidot.com/fragment:2521-xxx-1\n--]",
+  "tags": [
+    "十个点",
+    "故事",
+    "漫画",
+    "艺术作品"
+  ],
+  "author": "Lyrics Linn",
+  "created_at": "2020-02-03T10:20:29+00:00",
+  "updated_at": "2024-03-27T23:15:26+00:00",
+  "rating": 18,
+  "_site": "scp-wiki-cn",
+  "_fullname": "2521-xxx"
+}

@@ -1,0 +1,19 @@
+{
+  "title": "SCP-1662-JP",
+  "content": "[[include :scpko:credit:start]]\n**제목:** SCP-1662-JP - 迫り来る火の手から 다가오는 불길로부터\n**저자:** ©[[*user Childream]]\n**작성 연도:** 2025\n**원본:** http://scp-jp.wikidot.com/scp-1662-jp\n**역자:** [[*user Yunsule]]\n\n사진출처\n\n> **파일명**: Rate-of-rise_sopt_type_detector.jpeg\n> **제목**: File:Rate-of-rise sopt type detector.JPG\n> **저작권자**: 100yen\n> **링크**: https://commons.m.wikimedia.org/wiki/File:Rate-of-rise_sopt_type_detector.JPG\n> **라이선스**: CC BY-SA 3.0\n> **공개년도**: 2006\n\n[[include :scpko:credit:end]]\n\n**일련번호:** SCP-1662-JP\n\n**등급:** 유클리드\n\n**특수 격리 절차:** SCP-1662-JP의 주된 발생 구역인 ███시에는 역정보 「연쇄방화범」이 전파되었고, 이에 따라 지역 주민들에게 화재 예방에 관한 교육 활동을 실시한다.\n\nSCP-1662-JP에게 영향받은 화재경보기가 촬영된 영상매체는 회수 후 목격자를 기억 소거 조치한다.\n\n[[include :scp-jp:component:image-block\nname=http://scp-jp-storage.wikidot.com/local--files/file:7470579-57-84zw/Rate-of-rise_sopt_type_detector.jpeg|\ncaption=███시에서 촬영된 화재경보기|\nwidth=240px|\n]]\n\n**설명:** SCP-1662-JP는 2014년부터 ███현 ███시의 화재경보기에서 빈번히 확인되는 변칙적인 작동 현상이다. SCP-1662-JP는 연기식, 열식과는 관계없이 모든 화재경보기의 기능을 상실시키며, 이로 인해 ███시 내의 화재 사고는 2014년 이후부터 매년 증가 추세를 보이고 있다.\n\nSCP-1662-JP의 대상이 된 화재경보기는 불씨가 발생함과 동시에 거미목 생물과 비슷한 특징을 지닌 8개의 다리가 돋아나, 정밀하게 움직여 자신을 고정시킨 물체를 떼어내려고 시도한다. 이 과정은 화재경보기의 고정 방법에 따라 다양한데, 양면테이프로 붙인 것은 평균 30초 정도, 나사로 된 것은 평균 6분 정도 소요된다.\n\n고정에서 빠져나온 화재경보기는 천장에서 일어나, 발화 지점으로부터 멀어지는 쪽을 향해 초속 4cm의 속도로 이동하기 시작한다. 그러나 다리의 구조가 화재경보기의 무게를 지지할 만큼 충분치 못하기에, 얼마 못 가 천장에서 떨어져 바닥에 부딪히게 된다. 지금까지 회수된 영상기록에서 SCP-1662-JP의 변칙성은 일정 수준의 열량이 가해지면 사라지는 것으로 보이며, 현재까지 재단이 파악한 SCP-1662-JP의 대상이 된 화재경보기들은 모두 설치되어 있던 방에서 완전히 불에 탄 상태로 발견되었다.",
+  "tags": [
+    "2024-곤봉경연-jp",
+    "jp",
+    "scp",
+    "거미",
+    "불",
+    "유클리드",
+    "자율"
+  ],
+  "author": "Yunsule",
+  "created_at": "2025-01-29T12:00:03+00:00",
+  "updated_at": "2025-01-29T12:06:02+00:00",
+  "rating": 6,
+  "_site": "scpko",
+  "_fullname": "scp-1662-jp"
+}

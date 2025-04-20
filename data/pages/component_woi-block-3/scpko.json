@@ -1,0 +1,14 @@
+{
+  "title": "골목길 구성요소 대댓글",
+  "content": "[[iftags 구성요소]]\n사용법은 [[[the-alleys-other-goif|안내]]]를 볼 것.\n[[/iftags]]\n\n[[iftags -구성요소]]\n[[module CSS]]\n.scp-woi-block-3 {\n    border-left: #000 1px solid;\n    border-right: #000 1px solid;\n    border-top: none;\n    border-bottom: #d0d0d0 1px solid;\n    background-color: #fcfcfc;\n    color: #000000;\n    padding-right: 1em;\n    padding-left: 1em;\n}\n\n.scp-woi-forum-2 {\n    background-color: none;\n    padding-top: 0.4em;\n    padding-bottom: 0em;\n    padding-left: 3em;\n}\n[[/module]]\n\n[[div class=\"scp-woi-block-3 \"]]\n[[div class=\"scp-woi-forum-2\"]]\n**{$name}**{$color}\n{$caption}\n,,##gray|{$date}##,,\n[[/div]]\n[[/div]]\n[[/iftags]]",
+  "tags": [
+    "ko",
+    "구성요소"
+  ],
+  "author": "thd-glasses",
+  "created_at": "2024-11-05T08:09:55+00:00",
+  "updated_at": "2024-11-05T08:10:06+00:00",
+  "rating": 0,
+  "_site": "scpko",
+  "_fullname": "component:woi-block-3"
+}

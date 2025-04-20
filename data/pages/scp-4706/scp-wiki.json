@@ -1,0 +1,20 @@
+{
+  "title": "SCP-4706",
+  "content": "[[>]]\n[[module Rate]]\n[[/>]]\n\n[[module ListPages  category=\"fragment\" parent=\".\" limit=\"1\" order=\"created_at\" offset=\"@URL|0\"]]\n%%content%%\n[[/module]]\n\n[!-- http://www.scp-wiki.net/fragment:scp-4706-1 --]\n[!-- http://www.scp-wiki.net/fragment:scp-4706-2 --]\n\n[[footnoteblock]]\n\n[[div class=\"footer-wikiwalk-nav\"]]\n[[=]]\n<< [[[SCP-4705]]] | SCP-4706 | [[[SCP-4707]]] >>\n[[/=]]\n[[/div]]",
+  "tags": [
+    "_listpages",
+    "cognitohazard",
+    "concept",
+    "contagion",
+    "keter",
+    "meta",
+    "mind-affecting",
+    "scp"
+  ],
+  "author": "ManyMeats",
+  "created_at": "2019-10-16T13:27:17+00:00",
+  "updated_at": "2021-07-30T18:06:03+00:00",
+  "rating": 77,
+  "_site": "scp-wiki",
+  "_fullname": "scp-4706"
+}

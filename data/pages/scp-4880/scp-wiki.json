@@ -1,0 +1,20 @@
+{
+  "title": "SCP-4880",
+  "content": "[[>]]\n[[module Rate]]\n[[/>]]\n\n[[include component:image-block name=gum.jpg|width=265px|caption=SCP-4880, unwrapped.]]\n\n**Item #:** SCP-4880\n\n**Object Class:** Safe\n\n**Special Containment Procedures:** SCP-4880 is kept inside its container in a low security containment locker at [*https://scp-wiki.wikidot.com/secure-facility-dossier-site-98 Site-98]. No other containment procedures are necessary.\n\nSCP-4880-1 is to be contained within the area of its location with a security perimeter. This perimeter is to take the form of a barbed wire fence with two guards for maintenance.\n\n**Description:** SCP-4880 appears to be a stack of ten ordinary chewing gum sticks labelled \"Chewin' Gum!\". SCP-4880 does not appear physically anomalous other than the effect it has on sapient entities and the lack of a nutrition facts label.\n\nWhen SCP-4880 is chewed, the person affected will begin to proclaim how SCP-4880 is an appealing product and how delicious or sweet it is, in an attempt to advertise it to others nearby[[footnote]]This effect also occurs if the individual is alone.[[/footnote]]. Towards the end of the message, the person advertising SCP-4880 will hold it, and finish the speech by saying \"Try one now, and get chewing!\" before spontaneously vanishing.\n\nSCP-4880-1 is a large, dilating mass of polymers, plasticizers, and humanoid entities covered in a thin layer of human saliva. SCP-4880-1 was discovered in an abandoned steel mill factory in the Odda municipality of Hordaland county, Norway, after a tracker was placed around the wrist of a D-Class (D-11122) to recover where these individuals disappear to after ingesting SCP-4880. One of the hands of SCP-4880-1 was wearing this tracker.\n\nSCP-4880-1 frequently moves parts of the bodies attached to its mass but at a slowed pace. The entities that appear within this mass are tightly constricted under the layer and have been shown to undergo labored breathing. Vocalizations can be heard from the mouths of these entities which always consists of low gurgling noises and continuing to advertise SCP-4880.\n\n**Addendum 4880.1:** Attached is the product description found on SCP-4880.\n\n[[collapsible show=\"Access File\" hide=\"Close File\"]]\n[[=]]\n> **//__GET CHEWING!__//**\n> ----\n> The new and latest product from [[[SCP-1921|Sugarcomb Confections]]]: **Chewin' Gum!**\n>\n> If you've tried our delicious chocolates and our [[[SCP-1517|other sweet]]] [*https://scp-wiki.wikidot.com/scp-2471 surprises], you're in for a tasty treat with this!\n>\n> Start the day right with sweet, sweet, suh-weet gum!\n>\n> And remember kids: Don't forget to brush your teeth!\n> ~ Oliver\n[[/=]]\n[[/collapsible]]\n\n**Addendum 4880.2:** Recovered Note\nThe following file contains a note recovered near a pile of ash nearby the location of SCP-4880-1. The upper portion is burnt with only the lower half being readable.\n\n[[collapsible show=\"Access File\" hide=\"Close File\"]]\n> I don't care how you get rid of them, just dump it somewhere else.\n> \n> Fix it or else it's your head.\n> \n> - Ollie\n[[/collapsible]]\n\n[[footnoteblock]]\n[[div class=\"footer-wikiwalk-nav\"]]\n[[=]]\n<< [[[SCP-4879]]] | SCP-4880 | [[[SCP-4881]]] >>\n[[/=]]\n[[/div]]",
+  "tags": [
+    "_cc",
+    "amorphous",
+    "compulsion",
+    "food",
+    "humanoid",
+    "safe",
+    "scp",
+    "sugarcomb-confectionery"
+  ],
+  "author": "Connor MacWarren",
+  "created_at": "2018-12-29T10:21:55+00:00",
+  "updated_at": "2022-02-15T02:02:54+00:00",
+  "rating": 70,
+  "_site": "scp-wiki",
+  "_fullname": "scp-4880"
+}

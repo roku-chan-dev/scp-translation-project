@@ -1,0 +1,16 @@
+{
+  "title": "푸른 산호초",
+  "content": "[[include :scpko:theme:flopstyle-dark]]\n\n[[module CSS]]\n :root{\n   /* -- COLORS -- */\n     --accentColor: hsla(185, 100%, 40%, 1);\n     --accentColorLite: hsla(185, 100%, 50%, 0.5);\n     --hue: 151deg;\n\n[[/module]]\n\n[[include :scpko:info:start]]\n**[[*user poi_damgi]]**\n\nhttps://commons.m.wikimedia.org/wiki/File:Korea_(27971985000).jpg\n[[include :scpko:info:end]]\n\n[[div class=\"blockquote classic curved\"]]\n\n\n여름이 울고 있다.\n\n찬란한 소나기가 공항에 쏟아졌다. 오사카 국제공항의 인파와 발소리는 소나기의 땅을 때리는 소음마저 압도하고 있었다. 밤이 꽤나 깊음에도. 꽤나 가까이의 도심지를 바라보면서 윤성재는 흐뭇한 미소를 지었다. 사실 비행기는 커녕 겨우겨우 도착했지만 어쨌든 그에게 공항이란 각별한 곳이었다.\n\n다시 시작한다. 기지개를 켠 그는 생각을 정리했다. 또 몇 년 만의 휴가 시작이 일본 정부 기관과의 면담인 점은 썩 좋지 않은 요소임은 분명했다. 그러나 타국. 그러나 여행이다. 실은 출장이지만은. 성재는 그렇게 생각을 하면서 걸어나갔다.\n\n외교부장 앞에서 첫 여행이라느니 하고 나온 것은— 이제 보면 꽤 촌스러운 짓이었지만. 성재는 개의치 않는다. 사실 자신이 촌스럽다거나 시대에 좀 뒤떨어졌대도 반박할 여지도 없으니까.\n\n멀리 도시가 보인다. 앞으로 바빠질 예정이었다. 성재는 어둠에 그나마 가까운 공간들로 발을 옮기면서 미소를 짓는다. 일본이라는 나라에 대한 기억은 뒤죽박죽이다. 어릴 적에는 한반도 전체가 일본 식민지였고, 또 그 후, 더욱 후에 심야클럽이 일본출장부를 냈다는 기억. 그리고 기타 수없는 기억들이 있지만 확실한 것은 직접 가 본 적은 없다.\n\n그게 조금이나마 문제다. 윤성재는 자질구레한 기억들은 치워두고서 혼잣말로 중얼거린다.\n\n아, 나는 한국인입니다… 가 뭐더라.\n----\n[[=]]\n+ 푸른 산호초\n----\n\n[[div class=\"scp-image-block block-center\" style=\"width:100%;\"]]\n[[image https://upload.wikimedia.org/wikipedia/commons/thumb/4/40/In_front_of_Osaka_Station_at_night_1950s.jpg/800px-In_front_of_Osaka_Station_at_night_1950s.jpg style=\"width:100%;\" link=#]]\n[[div class=\"scp-image-caption\" style=\"width:100%;\"]]\n\n\n[[/div]]\n[[/div]]\n\n[[/=]]\n\n\n# [https://scpko.wikidot.com/record-reiwa-06-aoi-sangoshou 레이와 육년 키타구내 이상병원체 소규모감염사건]\n# [[[aoi-sangoshou-001|파아란]]]\n# [[[aoi-sangoshou-003|어긋난 것들은]]]\n# [[[aoi-sangoshou-004|플라스틱 구름]]]\n# [[[aoi-sangoshou-005|죽는 비]]]\n# [[[aoi-sangoshou-006|발칙한 사람들]]]\n# [[[aoi-sangoshou-007|그래도 우리 다시는 잊지 말자]]]\n# [[[aoi-sangoshou-008|우는살]]]\n# [[[aoi-sangoshou-009|때늦은 사춘기]]]\n# [[[aoi-sangoshou-0010|맹반대]]]\n# [[[aoi sangoshou 0011|나의 마지막 말]]]\n# [[[Aoi sangoshou 0012|야간쇠퇴청춘극장]]]\n\n[[/div]]",
+  "tags": [
+    "_이야기-허브",
+    "ko",
+    "윤성재",
+    "허브"
+  ],
+  "author": "POI_Damgi",
+  "created_at": "2024-12-13T11:32:10+00:00",
+  "updated_at": "2025-02-19T12:54:55+00:00",
+  "rating": 9,
+  "_site": "scpko",
+  "_fullname": "aoi-sangoshou"
+}

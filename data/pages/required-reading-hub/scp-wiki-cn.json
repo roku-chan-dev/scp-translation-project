@@ -1,0 +1,13 @@
+{
+  "title": "必读材料中心",
+  "content": "[[module css]]\n .content-panel {\n     border: solid 1px #888880;\n     border-radius: 10px;\n     background-color: #999990;\n     margin: 10px 0 15px;\n     box-shadow: 3px 3px 6px #bbb;\n     box-shadow: 0 2px 6px rgba(0,0,0,0.5), inset 0 1px rgba(255,255,255,0.3), inset 0 10px rgba(255,255,255,0.2), inset 0 10px 20px rgba(255,255,255,0.25), inset 0 -15px 30px rgba(0,0,0,0.1);\n}\n .content-panel.standalone {\n     background: #fcfdfb;\n}\n .content-panel.series {\n     padding: 0 20px;\n     margin-bottom: 20px;\n}\n[[/module]]\n\n[[size 200%]]\n欢迎来到必读材料中心！[[footnote]]**译注：**译者对文本中不适用于中文维基的部分有修改。[[/footnote]]\n[[/size]]\n@@@@\n必读材料中心是帮助所有网站用户学习如何浏览网站所需的最基本信息的指导的集中位置，也是SCP维基社区所有成员同意遵守的规则的集中位置。虽然这些指导并非都是针对特定规则的，但它们对于确保作者在与网站互动中尽可能的保持愉快至关重要。\n\n此页面不是已发布到网站上的所有指导和文章的详细列表，而是SCP基金会维基要求所有网站成员阅读的少数指导的集合。关于所有指导和文章的完全集合，请查看[[[guide-hub|指导中心]]]。\n\n[[div class=\"content-panel standalone series\"]]\n\n+++ //所有社区成员都应阅览：//\n* **[[[site-rules|站规]]]**：你需要知道并理解维基的规则。当你违反规则时，对其一无所知并不能成为你的借口。\n* **[[[guide-for-newcomers|给新人的指导]]]**[[footnote]]**译注：**中文维基的新手指南[[[guide-for-newbies|见此]]]。[[/footnote]]：对基金会和维基的基本介绍，附带有如何寻找阅读材料和如何创建账号的内容。\n* **[[[chat-guide|聊天指南]]]**：基金会官方频道的指导。包含内容有注册、连接、会造成封禁的违规行为、频道管理员、讨论建议以及次要聊天室。\n* **[[[https://scp-wiki.wikidot.com/anti-harassment-policy|英文维基反骚扰政策]]]**[[footnote]]**译注：**不适用于中文维基，中文维基的反骚扰政策[[[https://scp-wiki-cn.wikidot.com/forum/t-15908439/|见此]]]。[[/footnote]]：适用于整个SCP基金会英文社区的行为规范。\n* **[[[faq|常见问题解答]]]**：关于SCP宇宙的假设、网站/维基是如何运作的、以及如何与社区互动的常见问题与答案。\n\n\n+++ //所有作者都应阅览：//\n* **[[[how-to-write-an-scp|如何撰写一篇SCP]]]**[[footnote]]**译注：**在此附上现已有中译版的[[[how-to-write-an-scp-en|如何撰写一篇SCP - 英文维基版本]]]一同参考。[[/footnote]]：包含内容有创造点子、收容措施、临床腔、如何写作人形项目、代码格式以及更多。基础的SCP模板也在这里。在写作你的第一篇文档之前，你应当阅读此文。\n* **[[[how-to-post-your-art-to-the-scp-wiki|如何在SCP维基发布你的艺术作品]]]**：包含内容有图像托管、基本CSS格式、自定义页面、以及将你的艺术作品发布到网站的指导。在你要创建一个艺术家[[footnote]]**译注：**不适用于中文维基。在中文维基中，艺术家页面仅能作为翻译被创建。[[/footnote]]或艺术作品页面之前，你应当阅读此文。\n* **[https://scp-wiki.wikidot.com/forum/t-10629348/new-draft-forum-policies 英文维基绿灯政策]**[[footnote]]**译注：**不适用于中文维基，同时本文暂无中译版。[[/footnote]]：对讨论区绿灯政策的解释。如果你想获得点子或草稿的评论、不知道绿灯政策是什么、或是想获得绿灯，那就阅读此文。\n\n@@ @@\n[[/div]]\n\n[[footnoteblock]]\n\n[[include :scp-wiki-cn:component:license-box\n|author=TheMightyMcB\n|translator=gudagudaorder123\n]]\n[[include :scp-wiki-cn:component:license-box-end]]",
+  "tags": [
+    "中心"
+  ],
+  "author": "gudagudaorder123",
+  "created_at": "2024-07-13T11:09:29+00:00",
+  "updated_at": "2024-09-02T10:02:07+00:00",
+  "rating": 3,
+  "_site": "scp-wiki-cn",
+  "_fullname": "required-reading-hub"
+}

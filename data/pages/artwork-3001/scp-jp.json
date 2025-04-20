@@ -1,0 +1,15 @@
+{
+  "title": "やあ、おチビちゃん",
+  "content": "[[>]]\n[[module rate]]\n[[/>]]\n[[include component:image-block\nname=hello-red|\ncaption=やあ、おチビちゃん、僕を置いて行ってしまったのかと思った……]]\n\n\n[[collapsible show=\"ライセンス表記\" hide=\"- 閉じる\"]]\n[http://scp-jp.wikidot.com/scp-3001‪ SCP-3001 レッド・リアリティ‬]\nAuthor: [[*user OZ Ouroboros]]\nCC-BY-SA 3.0\n[[/collapsible]]",
+  "tags": [
+    "jp",
+    "アートワーク",
+    "スクラントン博士"
+  ],
+  "author": "carbo19",
+  "created_at": "2020-03-29T07:35:56+00:00",
+  "updated_at": "2024-09-17T19:52:49+00:00",
+  "rating": 36,
+  "_site": "scp-jp",
+  "_fullname": "artwork-3001"
+}

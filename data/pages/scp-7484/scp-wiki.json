@@ -1,0 +1,33 @@
+{
+  "title": "SCP-7484",
+  "content": "@@ @@\n[[include :scp-wiki:info:start]]\n[[div class=\"sidebox\"]]\n[[div style=\"border:1px solid #000000; border-radius:3px; background-color:#FFFFFF;\"]]\n[[size 50%]]@@ @@[[/size]]\n[[include :scp-wiki:component:ratio-bar pie=--]]\n[[size 5%]]@@ @@[[/size]]\n[[/div]]\n[[/div]]\n[[div class=\"authorbox\"]]\n[[div style=\"border:1px solid #000000; border-radius:3px; background-color:#FFFFFF;\"]]\n[[size 50%]]@@ @@[[/size]]\n[[=]]\n+++ Critique Credit\n-----\n[[*user Opposer]] (minor draft critique),\n[[*user Mister_Toasty]] and [[*user Fireknight]] (greenlights)\n\nThank you again to **Fireknight** for choosing 7484 to be on the Reviewer's Spotlight!\n\nAnd everyone in the discussion threads!\n[[/=]]\n[[size 5%]]@@ @@[[/size]]\n[[/div]]\n[[/div]]\n**[https://scp-wiki.wikidot.com/scp-7484 SCP-7484:]** Joyride\n**Author:** [[*user V173]]\n//I'm just a Christian guy who writes stuff and loves his wife.//\n-----\nMy first article, and I'm proud of it. Please leave some criticism.\n\nIn writing this out, it started as an innocent puppy-like car. Then, believe it or not, that changed a little.\n\nI wrote Abelson’s part focused on finding John because, in any situation, regardless of specifics, my first concern would be finding my partner and making sure they're safe. I wanted to include something like that in the tale so it could be a bit of a gift to my wife when she read it, and because I would like to dedicate all my writing to her, Abelson being an analog of myself, and John of her. Still, I completely understand how some viewers can misconstrue it as me wanting to define Abelson solely by John, which I wanted to address and sincerely apologize for. Should this be a primary concern for anyone, please PM me and I'll begin to work on revisions.\n[[include :scp-wiki:info:end]]\n\n[[module ListPages category=\"fragment\" parent=\".\" order=\"created_at\" limit=\"1\" offset=\"@URL|0\"]]\n[[div class=\"meta-title\"]]\n%%title%%\n[[/div]]\n%%content%%\n[[/module]]\n\n[!-- https://scp-wiki.wikidot.com/fragment:scp-7484-0 --]\n[!-- https://scp-wiki.wikidot.com/fragment:scp-7484-1 --]\n\n[[include :scp-wiki:component:license-box\n|author=--V--173]]\n> **Filename:** ROC-MOTC-DGH_Keelung_Motor_Vehicles_Supervision_Station_20100330.jpg\n> **Author:**  Solomon203\n> **License: CC BY-SA 3.0**\n> **Source Link:** https://commons.wikimedia.org/wiki/File:ROC-MOTC-DGH_Keelung_Motor_Vehicles_Supervision_Station_20100330.jpg\n> **Derivative of:** N/A\n> **Additional Notes:** Let's pretend it's an unidentifiable make and model and also not in Taiwan rather than the U.S. since that interferes with things.\n\n> **Filename:** Red_SCP_Logo.png\n> **Author:** [[*user V173]]\n> **License:** CC BY-SA 3.0\n> **Source Link:** https://scp-wiki.wikidot.com/\n> **Additional Notes:** (Optional)\n> **Derivative Of:** (Below)\n> **Name:** header-logo.svg, body_bg.svg\n> **Author:** [[*user dr_grom]]\n> **License:** CC BY-SA 3.0\n> **Source Link:** [https://github.com/Grombald/Common-Theme GitHub]\n[[include :scp-wiki:component:license-box-end]]\n@@ @@",
+  "tags": [
+    "_licensebox",
+    "_listpages",
+    "alive",
+    "animal",
+    "autonomous",
+    "bleak",
+    "breakout",
+    "chaos-insurgency",
+    "chase",
+    "crime-fiction",
+    "hostile",
+    "keter",
+    "metamorphic",
+    "murder-monster",
+    "predatory",
+    "reviewers-spotlight",
+    "scp",
+    "self-repairing",
+    "teleportation",
+    "uncontained",
+    "vehicle"
+  ],
+  "author": "V173",
+  "created_at": "2025-02-05T01:52:12+00:00",
+  "updated_at": "2025-03-08T18:24:42+00:00",
+  "rating": 47,
+  "_site": "scp-wiki",
+  "_fullname": "scp-7484"
+}

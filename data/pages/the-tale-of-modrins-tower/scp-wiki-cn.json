@@ -1,0 +1,18 @@
+{
+  "title": "莫德林之塔的传说",
+  "content": "[[div style=\"display: none;\"]]\n[[include :scp-wiki-cn:theme:flopstyle-dark]]\n[[/div]]\n\n[[div class=\"anchor\"]]\n[[div class=\"authorbox tableb\"]]\n[[module ListPages name=\"=\"]]\n||~ %%title%% ||\n||= [[span class=\"bt bb\"]]作者[[/span]] [[*user Dr Leonerd]]||\n||~ 发布于2024年3月12日 ||\n[[/module]]\n[[/div]]\n[[/div]]\n\n[[module CSS]]\n :root{\n   /* -- COLORS -- */\n     --accentColor: hsl(0, 89%, 41%);\n     --accentColorLite: hsla(0, 89%, 51%, .5);\n     --hue: 0deg;\n\n   /* -- LOGO -- */\n     --lgurl: url(https://scp-wiki.wdfiles.com/local--files/nightfall-hub/moon1.png);\n\n   /* -- TITLES -- */\n     --header-title: \"夜幕降临\";\n     --header-subtitle: \"苍白月光之歌\";\n\n   /* -- STATIC COLORS -- */\n     --textColor: hsl(212, 3%, 75%);\n     --bgColor: hsl(220, 20%, 10%);\n}\n\n #extra-div-1{\n     filter: opacity(.2) saturate(1.25) brightness(1.25);\n}\n[[/module]]\n\n[[include :scp-wiki-cn:credit:start-standalone]]\n= **苍白月光之歌。**\n= [[*user Dr Leonerd]]**著**\n\n------\n[[include :scp-wiki-cn:credit:end-standalone]]\n@@ @@\n\n[[div class=\"meta-title\"]]\n莫德林之塔的传说\n[[/div]]\n\n[[include component:image-block\n name=https://scpsandboxcn.wikidot.com/local--files/leebrfj/Modrin-s-Tower.jpg|\ncaption=人类的作品可能毁灭，而神们的作品永存不朽。| width=180px]]\n\n在世界被无尽的夜幕笼罩、她那可鄙的后裔被释放之前，曾有一位著名的工匠，其名莫德林。如今，莫德林被誉为古代诸公国与王国中技艺最高超的建筑师，以无与伦比的技艺设计着一切建筑，上至王宫，下至监狱。\n\n除却对砖瓦与砂浆的热爱，莫德林还深爱着他的妻子，那位轻言细语、天使一般的卡巴丝蒂。婚后第三年，她死于残酷而沉默的热病，没有留下一儿半女。在失去挚爱的悲痛之中，莫德林将他为妻子与自己设计的绝美庄园夷为平地。看着浓烟形成的巨柱在空中升腾消散，这位建筑师突然涌现了新的灵感。\n\n莫德林就这样退出了公共视线，离开文明之地，去往一处荒无人烟的偏远无名高原。正是在这里，莫德林开始了一项新的工程，这将是他职业生涯中最为大胆、最为雄心勃勃的工程：建造一座带有楼梯的高塔，高到能够刺穿诸天。理论上，这将使得这位工匠能够自死亡的魔爪中救出他心爱的卡巴丝蒂，抱着她回到凡间。\n\n莫德林独力完成着这项工作，因为他知道，如果其他人意识到他的目的，他们也一样会寻求爬上塔顶，找回他们自己逝去的爱人。多年以来，这位建筑师日复一日地独自埋头苦干，而他的孤独只是增强了他的决心。终于，高塔的顶端触及了云层的下沿，莫德林的杰作即将竣工，而诸神也正是在此时注意到了他的所作所为。\n\n莫德林侵入天国、冒犯诸神所居的上界的行为触怒了风暴之神希伯兰。祂掷下六道霹雳，摧毁了高塔，将它化作灰烬与残渣。残余的塔尖闷燃着，被粗暴地抛过夜空，在[[[SCP-6835|苍穹]]]上划开一道燃烧的伤痕。这痕迹留存至今，永远提醒着人们亵渎的代价。\n\n至于建筑师本人，莫德林被宣判永生不死，并如在他之前的许多异端一样，被诅咒要在地球上漂泊直至地球毁灭。有关莫德林的命运，最为悲剧性的一点或许是，如果他从未构想出那座塔楼，他很快就能在来世那星光闪耀的牧场上与卡巴丝蒂重逢；然而由于他自己的傲慢与忤逆，这一切再也不可能实现。\n\n莫德林之塔的传说至此结束。\n\n------\n\n[[=]]\n[*http://scp-wiki-cn.wikidot.com/dr-leonerd-s-author-page 此作者的更多作品……]\n[[/=]]\n\n------\n\n[[include :scp-wiki-cn:component:license-box\n| author = Dr Leonerd\n]]\n> **文件名：**Milky_Way_Night_Sky_Black_Rock_Desert_Nevada.jpg\n> **图像作者：**Steve Jurvetson\n> **授权协议：**CC BY 2.0\n> **来源链接：**[https://commons.wikimedia.org/wiki/File:Milky_Way_Night_Sky_Black_Rock_Desert_Nevada.jpg Wikimedia Commons]\n[[include :scp-wiki-cn:component:license-box-end]]",
+  "tags": [
+    "世界构建",
+    "夜幕降临",
+    "奇幻",
+    "悲剧",
+    "故事",
+    "无对话"
+  ],
+  "author": "LeeBr",
+  "created_at": "2024-03-13T05:57:24+00:00",
+  "updated_at": "2024-03-27T14:38:29+00:00",
+  "rating": 3,
+  "_site": "scp-wiki-cn",
+  "_fullname": "the-tale-of-modrins-tower"
+}

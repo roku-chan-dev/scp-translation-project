@@ -1,0 +1,20 @@
+{
+  "title": "SCP-8082",
+  "content": "=====\n[[include component:preview\ntext=\"--Who-- lit the fuse that tore the Foundation's world apart?\"]]\n=====\n\n[[>]]\n[!-- [[module Rate]] --]\n[[include :scp-wiki:info:start]]\n{{SCP-8082: \"The Wild Hunt\"}}\n\n{{Written by [[*user Nonaggress]]}}\n\n{{Content Warning: A few depictions of verbal emotional abuse, gaslighting, allusions to child abuse, disturbing imagery.}}\n[[include :scp-wiki:info:end]]\n[[div style=\"margin-right: 2em; margin-top: -10px;\"]]\n^^by [[[Nonaggress-writes|Nonaggress]]]^^\n[[/div]]\n[[/>]]\n\n[!--\n\nhttps://scp-wiki.wikidot.com/scp-8082\nhttps://scp-wiki.wikidot.com/fragment:the-wild-hunt-0\nhttps://scp-wiki.wikidot.com/fragment:the-wild-hunt-1\nhttps://scp-wiki.wikidot.com/fragment:the-wild-hunt-2\nhttps://scp-wiki.wikidot.com/fragment:the-wild-hunt-3\n--]\n\n[[module ListPages  category=\"fragment\" parent=\".\" limit=\"1\" order=\"created_at\" offset=\"@URL|0\"]]\n%%content%%\n[[/module]]",
+  "tags": [
+    "8000",
+    "_listpages",
+    "esoteric-class",
+    "foundation-made",
+    "illustrated",
+    "nameless",
+    "scp",
+    "weapon"
+  ],
+  "author": "Nonaggress",
+  "created_at": "2024-02-19T04:54:18+00:00",
+  "updated_at": "2024-10-07T18:24:09+00:00",
+  "rating": 15,
+  "_site": "scp-wiki",
+  "_fullname": "scp-8082"
+}

@@ -1,0 +1,13 @@
+{
+  "title": "SCP-7345",
+  "content": "[[include :scp-wiki:component:acs-animation]]\n\n[[include :scp-wiki:component:fade-in speed=0.1]]\n\n[[include :scp-wiki:component:customizable-acs\n|containment-class= loving\n|containment-image= https://upload.wikimedia.org/wikipedia/commons/thumb/3/35/Red-simple-heart-symbol-only.png/640px-Red-simple-heart-symbol-only.png\n|containment-color= 245, 66, 152\n|inc-containment = --]]]\n\n[[include :scp-wiki:component:customizable-acs\n|containment-class= alone\n|containment-image= https://upload.wikimedia.org/wikipedia/commons/thumb/6/63/Sad_face_black_and_white.svg/640px-Sad_face_black_and_white.svg.png\n|containment-color= 187, 111, 189\n|inc-containment = --]]]\n\n[[include :scp-wiki:component:customizable-acs\n|containment-class= desperate\n|containment-image= https://upload.wikimedia.org/wikipedia/commons/thumb/4/4e/OOjs_UI_icon_error-destructive.svg/640px-OOjs_UI_icon_error-destructive.svg.png\n|containment-color= 20, 20, 20\n|inc-containment = --]]]\n\n[[include :scp-wiki:component:customizable-acs\n|containment-class= pissed\n|containment-image= https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/Font_Awesome_5_regular_angry.svg/640px-Font_Awesome_5_regular_angry.svg.png\n|containment-color= 243, 245, 115\n|inc-containment = --]]]\n\n[[include :scp-wiki:theme:black-highlighter-theme]]\n[[include :scp-wiki:component:pride-highlighter |inc-lsb-alt= --]]]\n[[include :scp-wiki:theme:jakstyle]]\n[[=]]\n\n[[div style=\"background: url(\"https://scp-wiki.wdfiles.com/local--files/the-great-hippo/scp_trans.png\") center no-repeat; float: center; border: solid 2px #000; padding: 1px 15px; box-shadow: 0 1px 3px rgba(0,0,0,.2);\"]]\n\n+ WARNING: THE FOLLOWING FILE IS LEVEL 5/7345 CLASSIFIED\n----\n+++ The following file is contaminated with a highly dangerous narrativohazard. If you acknowledge this hazard and still wish to proceed, input Level 5/7345 credentials below.\n[[/div]]\n[[/=]]\n= [[[https://scp-wiki.wikidot.com/scp-7345/offset/1 |ACCESS FILE]]]\n-----\n= << [[[SCP-7344]]] | SCP-7345 | [[[SCP-7346]]] >>\n-----",
+  "tags": [
+    "fragment"
+  ],
+  "author": "TroutMaskReplica",
+  "created_at": "2023-03-31T00:55:00+00:00",
+  "updated_at": "2023-03-31T03:00:24+00:00",
+  "rating": 0,
+  "_site": "scp-wiki",
+  "_fullname": "fragment:scp-7345-1"
+}

@@ -1,0 +1,14 @@
+{
+  "title": "サイトアイコン",
+  "content": "[[span class=\"siteIcon\" style=\"background: linear-gradient(to bottom right, #999,{$c0});\"]][[image component:site/facility-texture.png]][[span class=\"number\"]]{$number}[[/span]][[/span]] [[size 110%]]**{$name}** {$subtitle}[[/size]]",
+  "tags": [
+    "en",
+    "コンポーネント"
+  ],
+  "author": "Dr Devan",
+  "created_at": "2014-02-25T11:01:58+00:00",
+  "updated_at": "2021-12-24T15:58:45+00:00",
+  "rating": 7,
+  "_site": "scp-jp",
+  "_fullname": "component:site"
+}

@@ -1,0 +1,17 @@
+{
+  "title": "SCP-1094-EX",
+  "content": "[[include :scp-jp:credit:start]]\n**ソース:** [[[https://scp-wiki.wikidot.com/scp-1094-ex|SCP-1094-EX]]]\n**メタタイトル:** 挟み潰され\n**著者:** [[*user MrBazzle]]\n**作成年:** 2018\n[[include :scp-jp:credit:end]]\n\n[[include component:image-block name=EyePlanetLoL.png|caption=1094-1衛星ミッションで撮影されたSCP-1094-EX (2███年頃)。クリックで拡大。|width=240px|link=\"http://scp-jp.wdfiles.com/local--files/scp-1094-ex/EyePlanetLoL.png\"]]\n\n**アイテムタグ:** SCP-1094-EX\n\n**アイテムクラス:** --保留-- Explained\n\n**特別収容プロトコル:** SCP-1094-EXの主任研究員(████博士)から別途指示されない限り、財団はSCP-1094-EXの監視を継続し、異常活動の兆候が無いかを探ります。\n\nFT-2935-Bの発見をNASAに通知する要請は現在、O5評議会の承認待ちです(補遺3を参照)。\n\n**説明:** SCP-1094-EXは地球から104光年離れたE-56834星系の一惑星を指します。SCP-1094-EXは半径8,642km、質量22.3 M,,⊕,,[[footnote]] 地球の22.3倍の質量。 [[/footnote]]です。\n\nSCP-1094-EXの地表の大半は、白く滑らかな花崗岩と幾つかの山岳地帯から成っており、過去の火山活動と浸食を示唆しています。同じ星系内の別惑星と激突したためと思われる地表の巨大な衝突クレーターが原因で、SCP-1094-EXの外観はヒトの眼球のそれに類似しています。衝突地点の暗い中心円は主に灰、黒鉛、その他の砕片から成り、それを取り巻く黄色の輪は硫黄と酸化鉄から成ります。SCP-1094-EXの地殻下部の組成は現時点では不明です。\n\n[[include component:image-block name=EyePlanetLoL-2.png|caption=SCP-1094-EXの最初の写真 (1999年頃)。クリックで拡大。|width=240px|link=\"http://scp-jp.wdfiles.com/local--files/scp-1094-ex/EyePlanetLoL-2.png\"|align=left]]\n\n**補遺1:** SCP-1094-EXは1999/10/09、天の川銀河の外部にある天体の定期観測中に発見されました。対象に関する他の情報は発見当時まだ存在しなかったため、更なる分析が可能となるまで、SCP-1094-EXには異常物としての仮の指定名称が与えられました[[footnote]] 見た目がヒトの眼球に類似していたことによる。 [[/footnote]]。\n\n**補遺2:** 2002/01/04、財団探査機FT-2935がSCP-1094-EXまでの航行路を設定され、エリア-███から打ち上げられました。--FT-2935は約███年でSCP-1094-EXと交差すると推定されています。-- 詳細は補遺3を参照。\n\n**補遺3:** 2███/12/10、FT-2935は2つの異なる機体(FT-2935-AおよびFT-2935-B)に分割した後、SCP-1094-EXに着陸しました。FT-2935-AはSCP-1094-EXの剥き出しになっている地表面の一角に着陸するように、FT-2935-BはSCP-1094-EXの黄色の輪に着陸するように設定されていました。地表で幾つかの試験を実施した後、F-2935はSCP-1094-EXが異常性を持たないと断定しました。\n\nSCP-1094-EX地表の材質の分析中、FT-2935-Bは大量の[[[last-moments|死滅した地球外有機物]]]を検出しました。FT-2935-Aは同等の価値を有するものを何ら検出しませんでした。",
+  "tags": [
+    "en",
+    "explained",
+    "scp",
+    "地球外",
+    "惑星"
+  ],
+  "author": "C-Dives",
+  "created_at": "2018-11-13T16:27:56+00:00",
+  "updated_at": "2022-10-07T15:31:08+00:00",
+  "rating": 23,
+  "_site": "scp-jp",
+  "_fullname": "scp-1094-ex"
+}

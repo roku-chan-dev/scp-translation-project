@@ -1,0 +1,13 @@
+{
+  "title": "fragment:uiu-file-1974-028-0",
+  "content": "[[module CSS]]\n\nblockquote {border-color: #000000;    background-color: #ffffff}\n\n.scp-image-block .scp-image-caption {background-color: #ffede0}\n\n#page-content .wiki-content-table tr td {background-color: #fceee3}\n#page-content .wiki-content-table tr th {background-color: #e5d6c9}\n\n.colorlink a{\n    color: #11ff21;\n}\n[[/module]]\n@@ @@\n[[div style=\"padding: 5px 5px 5px 15px; margin-bottom:0px; font-size: 1.2em; font-family: courier; border:solid 2px #f4e842; pointer-events: none; background:#fcf374;\"]]\nFor those of you previously without clearance to the PETRA project, it was originally conceived in late 1973 as a way to save UIU resources and manpower by assigning field agents to complete documentation on-site. However, following botched reports and multiple additional incidents related to the PETRA project (such as 1974-003, 1974-019, and 1974-028), the project was shut down in mid-1974 with little to no controversy. Due to recent in-bureau FBI and UIU declassifications, these files have been uploaded per the Federal Records Act to the database. Please keep in mind that these files are still of a somewhat sensitive nature to those in the bureau, so proceed with caution.\n \n- //Eugene Kittridge//, PETRA Head\n    August 4th, 1993\n[[/div]]\n@@ @@\n[[div style=\"padding: 5px 5px 5px 15px; margin-bottom:10px; font-family: courier; font-size: 1em; color: #11ff21; border:solid 2px #0bbc17; background:#002d03;\"]]\n[[=]]\n[[span class=\"colorlink\"]][http://scp-wiki.net/uiu-file-1974-028/offset/1 < PROCEED TO FILE >][[/span]]\n[[/=]]\n[[/div]]\n@@ @@",
+  "tags": [
+    "fragment"
+  ],
+  "author": "JackalRelated",
+  "created_at": "2019-03-12T17:44:51+00:00",
+  "updated_at": "2020-09-15T06:58:36+00:00",
+  "rating": 0,
+  "_site": "scp-wiki",
+  "_fullname": "fragment:uiu-file-1974-028-0"
+}

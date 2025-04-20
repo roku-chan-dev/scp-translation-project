@@ -1,0 +1,30 @@
+{
+  "title": "SCP-7503",
+  "content": "=====\n[[include component:preview\ntext=\nFor it is the holy burden of the\nSacrum Humanum Imperium,\nto purge Sin wherever it may lay.\nAmen.\n]]\n=====\n\n[[include :scp-wiki:info:start]]\n**SCP-7503:** The Holy Human Empire\n**Author:** [[*user Kilerpoyo]]\n⚠️ **Content warning:** This article contains a content warning: Religious Violence, Religious Satire\n[[include :scp-wiki:info:end]]\n\n[[include :scp-wiki:component:info-cw]]\n\n[!--\nFragments:\nhttps://scp-wiki.wikidot.com/fragment:scp-7503-1\nhttps://scp-wiki.wikidot.com/fragment:scp-7503-2\nhttps://scp-wiki.wikidot.com/fragment:scp-7503-3\nhttps://scp-wiki.wikidot.com/fragment:scp-7503-4\nhttps://scp-wiki.wikidot.com/fragment:scp-7503-5\n--]\n\n[[module ListPages parent=\".\" category=\"fragment\" limit=\"1\" order=\"created_at\" offset=\"@URL|0\"]]\n@@ @@\n\n%%content%%\n[[/module]]\n\n[[footnoteblock]]\n\n[[div class=\"footer-wikiwalk-nav\"]]\n[[=]]\n<< [[[SCP-7502]]] | SCP-7503 | [[[SCP-7504]]] >>\n[[/=]]\n[[/div]]\n\n\n[[include :scp-wiki:component:license-box]]\n=====\n> **Filename:** wald\n> **Name:** File:Waldsassen Stiftsbasilika - Heiliger Leib 2a Maximin.jpg\n> **Author:**  Wolfgang Sauber\n> **License:** Attribution-ShareAlike 4.0 International (CC BY-SA 4.0)\n> **Source Link:** https://commons.wikimedia.org/wiki/File:Waldsassen_Stiftsbasilika_-_Heiliger_Leib_2a_Maximin.jpg\n\n> **Filename:** monk\n> **Name:** File:Mummy Monk.jpg\n> **Author:**  Shivendujha\n> **License:**  Attribution-Share Alike 4.0 International (CC BY-SA 4.0)\n> **Source Link:** https://commons.wikimedia.org/w/index.php?curid=83509875\n\n> **Filename:** apex-lake.css\n> **Name:** Apex Lake Regular Font\n> **Author:** JLH Fonts\n> **License:** Public Domain\n> **Source Link:** http://www.publicdomainfiles.com/show_file.php?id=13486246409088\n\n> **Filename:** rusch.css\n> **Name:** Rusch Typeface\n> **Author:** Atelier national de recherche typographique\n> **License:** SIL OPEN FONT LICENSE Version 1\n> **Source Link:** https://fontesk.com/rusch-typeface/\n=====\n[[include :scp-wiki:component:license-box-end]]",
+  "tags": [
+    "_cc",
+    "_listpages",
+    "ad-astra",
+    "cadaver",
+    "compulsion",
+    "daevite",
+    "esoteric-class",
+    "extraterrestrial",
+    "featured",
+    "horizon-initiative",
+    "humanoid",
+    "mind-affecting",
+    "religious",
+    "scp",
+    "second-hytoth",
+    "skeletal",
+    "spatial",
+    "temporal"
+  ],
+  "author": "Kilerpoyo",
+  "created_at": "2022-12-09T07:13:24+00:00",
+  "updated_at": "2025-04-03T04:57:26+00:00",
+  "rating": 221,
+  "_site": "scp-wiki",
+  "_fullname": "scp-7503"
+}

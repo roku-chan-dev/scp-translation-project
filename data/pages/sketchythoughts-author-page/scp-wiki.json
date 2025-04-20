@@ -1,0 +1,14 @@
+{
+  "title": "SketchyTh0ughts' Author Page",
+  "content": "@@ @@\n@@ @@\n\n[[=]]\n\nHello. I am [[*user sketchyth0ughts]]. These are stories I have written for the SCP Wiki.\n\n[[/=]]\n\n@@ @@ \n\n++++ @@  @@SCPs\n\n[[div class=\"blockquote\"]]\n\n[[module ListPages fullname=\"scp-6525\" limit=\"1\" category=\"*\"]] \n%%title_linked%% - \"Fuck Your Family\" (+%%rating%%) \n[[/module]]\n[[module ListPages fullname=\"scp-5429\" limit=\"1\" category=\"*\"]] \n%%title_linked%% - \"arm back you\" (+%%rating%%) \n[[/module]]\n[[module ListPages fullname=\"scp-3931\" limit=\"1\" category=\"*\"]] \n%%title_linked%% - \"End of Days\" (+%%rating%%) \n[[/module]]\n[[module ListPages fullname=\"scp-7582\" limit=\"1\" category=\"*\"]] \n%%title_linked%% - \"indifference.\" (+%%rating%%) \n[[/module]]\n\n[[/div]]\n\n@@ @@\n\n++++ @@  @@Tales\n\n[[div class=\"blockquote\"]]\n\n[[module ListPages fullname=\"hotdog\" limit=\"1\" category=\"*\"]] \n%%title_linked%% - A Daybreak tale about a sick dog that every pet owner is bound to love. (+%%rating%%) \n[[/module]]\n\n[[/div]]\n\n@@ @@\n\n++++ @@ @@ [*https://scp-wiki.wikidot.com/dark-achievement-badges Achievements]\n\n[[=]]\n[[include component:sybadge code=scl]]\n[[include component:sybadge code=srs]]\n[[include component:sybadge code=knl]]\n[[/=]]",
+  "tags": [
+    "_cc",
+    "author"
+  ],
+  "author": "SketchyTh0ughts",
+  "created_at": "2021-09-23T23:02:29+00:00",
+  "updated_at": "2025-03-10T05:11:07+00:00",
+  "rating": 84,
+  "_site": "scp-wiki",
+  "_fullname": "sketchythoughts-author-page"
+}

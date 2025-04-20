@@ -1,0 +1,17 @@
+{
+  "title": "SCP-1292",
+  "content": "[[>]]\n[[module Rate]]\n[[/>]]\n\n**Item #:** SCP-1292\n\n**Object Class:** Euclid\n\n**Special Containment Procedures:** All machines found affected by SCP-1292 are to be dismantled and incinerated, with the exceptions of SCP-1292-3, SCP-1292-7, and SCP-1292-9, which are to be kept in Containment Locker 2039 at Site-24. If an outbreak of SCP-1292 is to occur in a civilian area, Protocol Meta-F is to be followed. Usage of SCP-1292 instances to grade copies of [[[SCP-2496]]] is forbidden.\n\n**Description:** SCP-1292 is an electronic fault spread between Scantron brand multiple-choice scanning devices. While the route of transfer is unknown at this time, the fault has been found to spread between scanners connected on the same network, electrical circuit, or directly. It may also be spread between machines which are kept within 30 meters of each other in open space, regardless of being activated. This fault may take several weeks to affect the operations of the machine, making it difficult to quarantine.\n\nOnce affected, the machine will take an abnormally long amount of time in marking a multiple-choice sheet, and may have one or several effects emerge while marking:\n\n* One in four or five questions will be marked incorrect, seemingly randomly\n* The machine will only read dots filled in with a #3 HB Pencil\n* Specific dots will be marked incorrectly in order to spell out words such as \"CAB\" \"BAD\" and \"BED\"\n* Every answer will be marked incorrect\n* Specific dots will be marked incorrectly in order to create diagonal or vertical lines if the dots were to be filled\n* The test may remain unmarked\n\nSCP-1292 is incurable, regardless of reset of the machine. Due to SCP-1292's latency period, researchers are unsure if it has been quarantined.\n\n**Addendum:** SCP-1292-7, a Scantron brand machine with a digital display, was tested. The following was displayed while the machine was marking: \n\n> ... ... ...\n> SIGH\n> ... ... ...\n> MAN\n> I DIDNT STUDY\n> THE ANSWERS\n> TO THIS\n> ... ... ...\n> DID WE EVEN\n> LEARN THIS?\n> ... ... ...\n> ... ... ...\n> SOOOO BORED\n> ... ... ...\n> I DONT EVEN\n> CARE ILL JUST\n> BOMB THIS AND\n> GO PLAY COD\n\n[[footnoteblock]]\n\n[[div class=\"footer-wikiwalk-nav\"]]\n[[=]]\n<< [[[SCP-1291]]] | SCP-1292 | [[[SCP-1293]]] >>\n[[/=]]\n[[/div]]\n[[include :scp-wiki:component:license-box]]\n[[include :scp-wiki:component:license-box-end]]",
+  "tags": [
+    "_licensebox",
+    "contagion",
+    "electronic",
+    "euclid",
+    "scp"
+  ],
+  "author": "Salman Corbette",
+  "created_at": "2012-12-14T02:54:44+00:00",
+  "updated_at": "2022-10-21T08:31:19+00:00",
+  "rating": 57,
+  "_site": "scp-wiki",
+  "_fullname": "scp-1292"
+}

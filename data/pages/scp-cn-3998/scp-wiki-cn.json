@@ -1,0 +1,23 @@
+{
+  "title": "SCP-CN-3998",
+  "content": "[[>]]\n[[module rate]]\n[[/>]]\n\n[[include :gudagudaorder123:component:author-label-source start=--\n|name=diyubianfu - 点击展开详情\n|no-right-margin=*]]\n作者为先天性血友病患者（需每周输液以存活至今，有凝血功能障碍）。自认【中国分部的塔罗兰】，往期作品如下：\n\n[[[scp-cn-1770|SCP-CN-1770 患病的怪物]]]\n[[[scp-cn-2017|SCP-CN-2017 缺失之猫]]]\n[[[scp-cn-2088|SCP-CN-2088 我的新生]]]\n\n——有关本作CN-3998：\n\n本文为CN3000竞赛排名前十作品，发布于2024年1月1日。创作过程极为不易，个人在顶着40度高烧的状态下，同时兼顾升学考试备考+站外阅文集团的写作工作撰写。\n\n最终因身体原因晚发了4天，错过了竞赛高峰，自认本作有实际至少前五的水准。\n\n预订将来在[https://b23.tv/1U4ufT5 本人B站账号]做成视频。\n\n如若喜欢本作，请务必在社交平台多加传播。\n\n[[include :gudagudaorder123:component:author-label-source end=--]]\n\n[[div style=\"display: none;\"]]\n[[include theme:flopstyle]]\n[[/div]]\n\n[[module css]]\n#page-content a {\n  padding-bottom: 0px;\n  border-bottom: none;\n}\n[[/module]]\n\n[[include :scp-wiki-cn:component:centered-header-sigma-9]]\n\n[[module ListPages category=\"fragment\" parent=\".\" limit=\"1\" order=\"created_at\" offset=\"@URL|1\"]]\n%%content%%\n[[/module]]\n\n[!--\n段落页：\nhttps://scp-wiki-cn.wikidot.com/fragment:cn3000diyubianfu1\nhttps://scp-wiki-cn.wikidot.com/fragment:cn3000diyubianfu\n--]\n\n[[div class=\"footer-wikiwalk-nav\"]]\n[[=]]\n<< [[[SCP-CN-3997]]] | SCP-CN-3998 | [[[SCP-CN-3999]]] >>\n[[/=]]\n[[/div]]",
+  "tags": [
+    "cn3000",
+    "k级情景",
+    "safe",
+    "scp",
+    "全球超自然联盟",
+    "原创",
+    "叙述性",
+    "爱蒂塔计划",
+    "现实扭曲",
+    "铭文",
+    "预测性"
+  ],
+  "author": "diyubianfu",
+  "created_at": "2024-01-01T11:54:59+00:00",
+  "updated_at": "2024-12-28T13:41:37+00:00",
+  "rating": 152,
+  "_site": "scp-wiki-cn",
+  "_fullname": "scp-cn-3998"
+}

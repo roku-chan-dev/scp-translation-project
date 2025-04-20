@@ -1,0 +1,20 @@
+{
+  "title": "SCP-5219",
+  "content": "[[module CSS]]\n.email-example .collapsible-block-folded a.collapsible-block-link {\n    animation: blink 0.8s ease-in-out infinite alternate;\n}\n@keyframes blink {\n    0% { color: transparent; }\n    50%, 100% { color: #b01; }\n}\n.email {border: solid 2px #000000; width: 88%; padding: 1px 15px; margin: 10px; box-shadow: 0 1px 3px rgba(0,0,0,.5)}\n.email-example a.collapsible-block-link {font-weight: bold;}\n.tofrom {margin-left: 10px; margin-top: 5px; padding: 1px 15px; border-left: solid 3px maroon}\n[[/module]]\n\n**项目编号：**SCP-5219\n\n**项目等级：**Safe\n\n**特殊收容措施：**任何时刻站点主管Robinson的办公室外应至少有两名安保人员值岗。除测试目的以外，禁止进入站点主管Robinson的办公室。\n\n**描述：**SCP-5219是一具异常尸体，位于Site-37的站点主管Robinson的办公室内。基于对SCP-5219的检查，确认其曾为一中年白人男性，身高和体重正常。死因为脑后一处自行造成的枪伤。\n\nSCP-5219有轻微的逆模因性质。尽管SCP-5219的一些性质可以被观察到，测试人员无法对其身份或位于站点主管Robinson的办公室的理由进行推断。此外，当被要求将SCP-5219从站点主管Robinson的办公室移出时，测试人员在看到项目后会自发地忘记他们所接受的指令，因此不可能对项目进行回收。\n\n**附录：**发现\n\nSCP-5219被首次发现于2021年3月21日。两天前，站点主管Robinson突然停止回复任何消息，且缺席多个会议。Dr. Boyd进入站点主管Robinson的办公室寻找他，并在其中发现了SCP-5219。此后迅速对项目制定了收容措施。站点主管Robinson的去向仍然不明。\n\n[[=]]\n------\n[[collapsible show=\"访问SCiPNET邮件？两（2）封新邮件！\" hide=\"隐藏\"]]\n[[<]]\n[[div class=\"email\"]]\n[[div class=\"tofrom\"]]\n**至：**Site-37全体人员\n**自：**站点主管Boyd\n**主题：**管理变动。\n[[/div]]\n------\n晚上好，\n\n这封邮件是为了告知各位：尽管搜寻团队已经尽了最大的努力，但仍没有找到站点主管Robinson，部分推测认为他已经被绑架或谋杀。我个人并不相信这种推测，但我们必须承认有这种可能。\n\n搜寻团队会继续寻找他，但Site-37不能在没有站点主管的情况下运转，因为作为站点内级别第二高的人员，我已接任Robinson的职务。我并不希望这是一次永久性安排，但在Robinson没有被找到的情况下，我将尽我所能做好他的工作。如果此种状态变为永久性的，那么我希望诸位能够给予你们曾给予Robinson的同样尊重。\n\n-Dr. Boyd，Site-37主管。\n[[/div]]\n[[/<]]\n\n[[<]]\n[[div class=\"email\"]]\n**至：**负责SCP-5219的基金会研究人员\n**自：**站点主管Boyd\n**主题：**措施更改。\n-----\n所有有关SCP-5219的测试应立即停止，即刻生效。上述测试包括将项目从站点主管Robinson的办公室内移出的尝试以及确认其身份的尝试。稍后你们会收到有关项目转移的消息。感谢你们的配合。\n[[/div]]\n[[/<]]\n[[/collapsible]]\n[[/=]]\n\n[[div class=\"footer-wikiwalk-nav\"]]\n[[=]]\n<< [[[SCP-5218]]] | SCP-5219 | [[[SCP-5220]]] >>\n[[/=]]\n[[/div]]",
+  "tags": [
+    "2021连写竞赛",
+    "_腐败",
+    "safe",
+    "scp",
+    "尸体",
+    "观察影响",
+    "记忆影响",
+    "逆模因"
+  ],
+  "author": null,
+  "created_at": "2021-03-24T03:41:55+00:00",
+  "updated_at": "2021-03-26T07:28:24+00:00",
+  "rating": 4,
+  "_site": "scp-wiki-cn",
+  "_fullname": "scp-5219"
+}

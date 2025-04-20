@@ -1,0 +1,14 @@
+{
+  "title": "10075",
+  "content": "overview: '宿泊施設「████████」の宿泊客である██ █氏が、同施設の売店で商品を購入中、キヤノン株式会社が販売するインクカートリッジ(6種、合計34個)を嘔吐しました。防犯カメラの映像から、嘔吐時の██氏の口腔・口唇は大きく拡張されていたことが判明していますが、嘔吐終了後の██氏の身体に異常は見られませんでした。██氏がチェックアウト後に、当現象で発生したものと同一のインクカートリッジの購入を予定していたことは特筆すべきです。'\nswdate: '1'\ndate: 2015/07/28\nswplace: '1'\nplace: 兵庫県淡路市\nswchaseprocedure: '1'\nchaseprocedure: 関係者にはAクラス記憶処理が施され、監視カメラの映像は差し替えられました。回収されたインクカートリッジに異常性は確認されませんでした。\nswaddendum: '0'\naddendum: ''\ntf2: '1'\nauthor: TF2045\nredirect-b: '[[module Redirect destination=\"/log-of-extranormal-events-jp'\nredirect-e: '\"]]'",
+  "tags": [
+    "jp",
+    "剪定対象-子"
+  ],
+  "author": "machikawa",
+  "created_at": "2020-07-24T04:22:39+00:00",
+  "updated_at": "2024-05-16T03:59:01+00:00",
+  "rating": 9,
+  "_site": "scp-jp",
+  "_fullname": "extranormal-events-jp:10075"
+}

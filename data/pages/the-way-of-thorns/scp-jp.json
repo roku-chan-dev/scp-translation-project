@@ -1,0 +1,15 @@
+{
+  "title": "茨の道",
+  "content": "[[module CSS]]\n@import url(http://scp-wiki-cn.wikidot.com/component:nirvana-theme/code/1);\n\ndiv.boxmain {\n    border:solid 1px #004F00;background:#FBFBD3; padding:5px; margin-bottom:4px;\n}\ndiv.boxbook {\n    border:solid 1px #004F00; background:#f2f2c2; padding:5px; margin-bottom: 5px; overflow:auto;\n    height: auto;\n}\ndiv.boxleft {\n    display: inline-block; border:solid 1px #004F00; background:#FFFDD9; padding: 5px; float: left;\n    margin-bottom: 5px; width: 260px; min-height: 100px;\n}\ndiv.boxright {\n    border: solid 1px #004F00; background:#FFFDD9; padding: 5px; margin: 0 0 10px 280px;\n    min-height: 100px;\n}\nspan.booktitle {\n    font-family: Palatino; font-weight: bold; font-size:150%;\n}\nspan.exptitle {\n    font-family: Palatino; font-weight: bold; text-decoration:underline; font-size:130%;\n}\n\n.boxbook a {\n    color: #059400;\n}\n.boxbook a.newpage {\n    color: #00a862;\n}\n.boxbook a:visited {\n    color: #059400;\n}\n\n[[/module]]\n\n[[>]]\n[[module rate]]\n[[/>]]\n\n私は硝煙漂う廃墟を歩き、罪もなく死んでいった無数の民間人の非難に満ちた目を閉じた。\n\n私は草が生い茂るほったらかしにされた墓地の中を歩き、不運にも早すぎる死を遂げた死者の魂が彼らの見果てぬ夢を語るのを聞いた。\n\n私は街の通りを歩き、数え切れないほどの人々が命と金のために魂をすり減らしていくのを見てきた。\n\n私は豪奢な宴席を歩き、高位の人々が際限のない欲望をさらけ出すのを見てきた。\n@@@@\n@@@@\n私はこの世界を憎み、世界の人々の無関心と無慈悲さを憎み、生きるために手段を選ばない彼らを憎んだ。\n\n私は毎日に力を求め祈り、しっかり切ったトランプの如く、食肉寝皮のように憎いこの社会を打ち壊す。\n\nしかし、それは正しくないし、正しい道でもない。私とあの戦争屋との違いは何だ？\n\n私は朦朧とした意識の中で苦悩していたが、ある日、病院で医師から余命2年と宣告された。\n@@@@\n@@@@\nもし私があなたの死亡時刻を正確に伝えたら、あなたの世界は一変するだろう。\n\nその瞬間、自分の世界に大きな亀裂が入るようなものだ。この題を見ると、物事の見方が変わったように感じる。\n\n無駄にした年数は決して取り戻すことはできないが、\n\n何事もなかったかのように扱うことを許し、\n\nゼロからやり直すしかない。\n@@@@\n@@@@\n怒りや憎しみに目を奪われてはいけない。\n\nすべてのものにはそれぞれのあり方、それぞれの権利があるのだから。\n\n私たちがしなければならないのは、破壊することではなく、導き、変化させ、皆がよりうまくやっていけるようにすることであり、\n\n破壊は苦痛を繰り返すだけで、変化は苦痛を終わらせる。\n@@@@\n@@@@\n私は別の道、終わりのない運命の道、茨に満ちた道を選んだ。\n\n私は仮面を被り、再び群衆の中に入り、社会に溶け込み、社会を変えようとした。\n\n私はこの手で、苦痛と闘っている魂を次々と引き上げ、生きる価値を見出す手助けをする。\n\n私はこの手で、次々と欲望と罪を消し去り、彼らが正気を取り戻す手助けをしてきた。\n\n最終的には、それらは私の手の中で涅槃重生し、私がこの世界を生まれ変わらせる手助けをする。\n@@@@\n@@@@\n今のところすべては……\n\nどこかで、何かが、どういうわけか、間違っていた。\n\n私の影は他人を照らし、私は他人の間違いを変える。\n\nさて、私は……一人、茨の道を往く……\n\n[[>]]\n——//暮光秘典、第五章//\n[[/>]]",
+  "tags": [
+    "cn",
+    "tale",
+    "ニルヴァーナ"
+  ],
+  "author": "VideoGameMonkeyMONO",
+  "created_at": "2024-08-07T14:02:50+00:00",
+  "updated_at": "2024-08-14T16:39:14+00:00",
+  "rating": 10,
+  "_site": "scp-jp",
+  "_fullname": "the-way-of-thorns"
+}

@@ -1,0 +1,22 @@
+{
+  "title": "SCP-5709",
+  "content": "[[include :scp-wiki:theme:blankstyle]]\n[[module css]]\nbody{\n    --barColour: #b8a499;\n}\n\n:root{\n  --header-title: \"戦術神学部門\";\n  --header-subtitle: \"アブラハム三宗教担当下位部門\";\n}\n@media (max-width: 768px) {\n    :root {\n         --header-title: \"戦術神学部門\";\n    }\n}\n\ndiv#extra-div-1 {\n    background-image: url(http://scp-jp-storage.wdfiles.com/local--files/file%3A2375337-128-ww6p/tactical-theology.png);\n    filter: opacity(20%);\n}\n[[/module]]\n\n[[include :scp-wiki:component:info-ayers\n|lang=en\n|page=in-heaven-a-spirit-doth-dwell\n|authorPage=http://scp-wiki.wikidot.com/elijah-martin-chevrolet-by-the-book\n|comments=\n\n= **SCP-5709** - 天に御霊の棲み給ふ\n\n----\n\n= Elogee FishTruck 著\n]]\n\n[[>]]\n[[module Rate]]\n[[/>]]\n\n[[include :scp-wiki:component:classified-bar-woed\n|lv=5\n|item=5709\n|oc=Israfil\n|lang=JP\n]]\n\n----\n\n[[include component:image-block\n| name=door.jpg\n| caption=SCP-5709の入口。\n]]\n\n**特別収容プロトコル:** 1名の警備員がSCP-5709を巡察します。無許可のアクセスや知識取得は禁じられています。\n\n----\n\n**説明:** SCP-5709はネゲヴ砂漠にある泥レンガ造りの小屋です。壁には窓などの開口部が設けられておらず、1枚の扉が内部への唯一の入口となっています。\n\n建造物の内部は反ミーム効果を有し、退出した人物がその外観、特性、内容物などを思い出すことを妨げています。収容後のインタビューを通して、財団はSCP-5709の内部について以下の事項を突き止めています。\n\n* 照らされていない。\n* 空虚ではない。\n* 生きていない、または動かない。\n* 温かくない。\n* 泥レンガでは構築されていない。\n* 粗悪ではない。\n* 燃えていない。[[footnote]]アキヴァ値の測定結果は決定的なものではありません。[[/footnote]]\n* その種の最初の、または最後の存在ではない。\n* 機能していない、または完全ではない。\n* 開かれていない。\n* 閉じられていない。\n\n入口の横の壁にボルト留めされた真鍮の銘板には、以下のように記されています。\n\n> [[span class=\"ruby\"]]怪奇性ステータス[[span class=\"rt\"]]Abnormality Status[[/span]][[/span]]: ISRAFIL\n\n----\n\n**補遺 5709.1:** 回収ログ\n\n最初の探査試行に際し、死亡したヒト型生物が内部から射出されて数メートル先に落下し、職員を負傷させました。当該生物は衣服を着用しておらず、性器・肛門・鼻孔が欠如していました。腕は手首部分で、口から延びた長い円錐形の付属物と融合していました。第三度熱傷が生物の皮膚を覆っていました。搬送用の遺体袋に収納されたにも拘らず、財団の病理医は袋を開けた時にヒト型生物を発見できませんでした。\n\nこの生物の遺体は、視認者に金管楽器の不協和音のような幻聴をもたらしました。影響者の報告によると[データ削除済]。戦術神学部門によって終末論的な意義の確認が行われています。\n\n[[footnoteblock]]",
+  "tags": [
+    "en",
+    "esoteric-class",
+    "scp",
+    "反ミーム",
+    "宗教",
+    "幻覚",
+    "建造物",
+    "怪奇部門",
+    "戦術神学部門",
+    "死体"
+  ],
+  "author": "C-Dives",
+  "created_at": "2021-05-01T16:57:13+00:00",
+  "updated_at": "2022-01-06T21:05:21+00:00",
+  "rating": 35,
+  "_site": "scp-jp",
+  "_fullname": "scp-5709"
+}

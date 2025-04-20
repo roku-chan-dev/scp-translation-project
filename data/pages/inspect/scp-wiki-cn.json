@@ -1,0 +1,13 @@
+{
+  "title": "安保权限检测",
+  "content": "[[module ListUsers users=\".\"]]\n[[module css]]\n.textchange div.sitemember:nth-child(2) {\ndisplay:none;\n}\n[[/module]]\n\n[[=]]\n**[[size xx-large]]安保权限检测[[/size]]**\n[[=image http://scp-wiki.wdfiles.com/local--files/dr-mackenzie-s-sketchbook/SCP-Logo-2400.png | width=\"300px\" height=\"300px\" ...]]\n[[div style=\"text-align: center;\"]]\n[[div class=\"unmargined\"]]\n警告：您将要访问的内容属于\n[[/div]]\n[[div class=\"unmargined\" style=\"font-size: 400%; font-weight: bold; margin: 2px 0 5px;\"]]\n高度机密\n[[/div]]\n[[div class=\"unmargined\"]]\n严禁权限不足的人员进行访问\n违反者将被监控，定位并处理\n[[/div]]\n[[/div]]\n[[/=]]\n@@@@\n[[=]]\n**您的登录信息如下**\n[[/=]]\n||~ 用户名||~ 请确认显示账户是否为您的安保账号||\n@@@@\n[[div class=\"textchange\"]]\n[[module ListUsers users=\".\"]]\n[[div class=\"sitemember\"]]\n||%%title%% ||= [[[scp-cn-048-two|是]]]/[[[inspect-failed|否]]]||\n[[/div]]\n[[/module]]\n[[div class=\"sitemember\"]]\n||繉ほ荗木盕水瑨||= [[[scp-cn-048-two|是]]]/[[[inspect-failed|否]]]||\n[[/div]]\n[[/div]]\n@@@@\n@@@@\n[[div style=\"text-align: center;\"]]\n[[div class=\"unmargined\" style=\"font-size: 300%; font-weight: bold; margin: 2px 0 5px;color:black\"]]\n注意\n[[/div]]\n[[/div]]\n[[=]]\n[[div style=\" float: center;margin: auto;text-align: middle; width: 45%; padding: 2px 5px 2px 2px; color: white; background-color: black; border-radius: 8px;\"]]\n**若您的账户未显示，请确认您的登录状态**\n[[/=]]\n[[/div]]\n[[=]]\n**[[[inspect|刷新页面]]]**\n[[/=]]",
+  "tags": [
+    "补充材料"
+  ],
+  "author": null,
+  "created_at": "2017-04-02T04:48:02+00:00",
+  "updated_at": "2017-12-24T03:24:32+00:00",
+  "rating": 15,
+  "_site": "scp-wiki-cn",
+  "_fullname": "inspect"
+}

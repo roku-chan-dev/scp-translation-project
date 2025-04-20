@@ -1,0 +1,14 @@
+{
+  "title": "Top Rated By Year: 2018",
+  "content": "[[=]]\n+ 2018\n[[/=]]\n\n[[module ListPages rating=\">60\" order=\"rating desc\" category=\"*\" separate=\"false\" limit=\"200\" date=\"2018\" prependLine=\"||~ タイトル||~ 評価||~ 著者||~ 作成日||\"]]\n|| [[a target=\"_blank\" href=\"%%link%%\"]]%%title%%[[/a]] || %%rating%% || %%created_by_linked%% || %%created_at%% ||\n[[/module]]",
+  "tags": [
+    "en",
+    "フラグメント"
+  ],
+  "author": "Rokurokubi",
+  "created_at": "2024-08-19T23:00:09+00:00",
+  "updated_at": "2024-08-19T23:12:38+00:00",
+  "rating": 0,
+  "_site": "scp-jp",
+  "_fullname": "fragment:top-rated-by-year-18"
+}

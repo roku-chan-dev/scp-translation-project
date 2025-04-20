@@ -1,0 +1,19 @@
+{
+  "title": "SCP-1977-JP",
+  "content": "[[include component:image-block\n|name= http://scp-jp.wdfiles.com/local--files/scp-1977-jp/1977\n|caption= 發現無頭遺體的軍官室。\n]]\n\n**項目編號：** SCP-1977-JP\n\n**項目等級：** Euclid\n\n**特殊收容措施：** SCP-1977-JP-A現被收容於Site-████的乾船塢中。SCP-1977-JP-A設置有GPS發信機，並於每年4月24至30日發信，應於發信期間追蹤與其相同的信號。外勤特工將通過GPS追蹤記錄尋找及調查曝露於SCP-1977-JP下的對象，在有必要時可將之拘禁。另外，亦應向各地的公共機構索取曝露者的死亡記錄，並記錄於資料庫-1977-JP中。\n\n**描述：** SCP-1977-JP是於每年的4月24至30日期間於不特定人物身上發生的幻覺及汗腺異常出血現象。調查表明，SCP-1977-JP相關現象與對象的健康狀態及周邊環境無關。\n\n遭遇SCP-1977-JP的對象（下稱曝露者）都會經歷幻聽與幻視。幻聽的內容大致分為兩部份，曝露者明確感知到「非常響亮的機械聲」以及「男性或女性的笑聲」。部分曝露者表示，該機械聲跟船舶的柴油機的聲音十分相似。幻視的內容包括了「老式潛艇」與「站在船頭的無頭人」兩個共通點，給合其他跟潛艇有關的證言，最終使後述的SCP-1977-JP-A被發現。\n\n曝露者經歷幻覺之後，血液會通過全身汗腺從表皮滲出。症狀會在1分鐘內消退，此後直至死亡為止都不會復發。對存活的曝露者採取血液、皮膚組織、以至對其遺體進行的檢查都未能發現能導致以上症狀發生的異常情況。\n\nSCP-1977-JP的曝露者在現象發生後都不會存活超過一年。各案例的死因、死亡時期、曝露者個人及周邊狀況之間並沒有什麼共同點，與SCP-1977-JP所引發的現象之間的因果關係亦尚未明確。基金會當初曾採取將曝露者隔離並排除所有死亡風險的保護方案，但因無法阻止被保護者在一年內死亡，保護方案因而被叫停。\n\nSCP-1977-JP-A為原英國海軍所屬的T級潛艇「HMS [[span class=\"ruby\"]]Truncheon[[span class=\"rt\"]]警棍[[/span]][[/span]]」。因部份經歷過SCP-1977-JP的幻視的曝露者曾指出「潛艇的帆罩漆有\"P353\"字樣」，基金會推測該船舶為HMS Truncheon。就該船舶與SCP-1977-JP之間的關係進行調查後，發現了與HMS Truncheon有關的隱秘資訊。\n\n[[collapsible show=\"+ HMS Truncheon與臨時愛爾蘭共和軍之間的關連\" hide=\"- 收起情報\"]]\n> 公開情報顯示，HMS Truncheon於1968年更名為「INS Dolphin」並於以色列海軍再服役，於1977年退役並報廢，但實際上它被由臨時愛爾蘭共和軍支持者運營的空殼公司秘密買入，並在以色列國防軍內部的反英派系支持下重新武裝。\n> \n> 臨時愛爾蘭共和軍計劃利用潛艇攻擊停泊於貝爾法斯特的英軍艦艇，並使用蘇聯提供的便攜式地對空導彈襲擊飛行航線。英國方面也從秘密調查得到的情報中得悉攻擊計劃，為阻止HMS Truncheon而展開搜索行動。\n> \n> 然而，HMS Truncheon在航往愛爾蘭的途中，連帶著艦上運送的地對空導彈一同下落不明，臨時愛爾蘭共和軍因而中止了攻擊計劃。\n\n[[/collapsible]]\n\n基金會於1986年3月25日展開搜索行動，於北緯██度██分、西經██度██分的地點發現沈沒的HMS Truncheon，並設置GPS發信器以記錄沈沒地點。同年的4月24日，於不同於沈沒地點的地點發現了與設置裝置相同的GPS信號，並於發信地點附近發現表現出SCP-1977-JP現象的暴露者。此後，由於在GPS信號出現的地點附近都能發現曝露者，基金會確認了HMS Truncheon與SCP-1977-JP之間的關係，並將之分類為SCP-1977-JP-A。\n\n__**附錄-1977-JP　「SCP-1977-JP-A的打撈調查」**__\nSCP-1977-JP-A於1989年8月9日從海底被打撈上來以作調查。對艦內的調查發現了32具據信是乘組員的遺體。雖然通過英方提供的資料確認了其中31人的身份，但軍官室中發現的，穿著士官服的無頭遺體的身份尚無法確定。\n\n\n[[include :scp-wiki-cn:component:license-box\n|lang=JP\n|author=megabomb\n|translator=MScarlet\n]]\n=====\n> **文件名：**1977\n> **图像名：** Interior Views of HM Submarine Tribune. Scapa Flow, July 1942\n> **图像作者：** Priest, L C (Lt), Royal Navy official photographer\n> **授权协议：** Public Domain\n> **来源链接：** https://commons.wikimedia.org/wiki/File:Interior_Views_of_HM_Submarine_Tribune._Scapa_Flow,_July_1942._A10912.jpg\n=====\n[[include :scp-wiki-cn:component:license-box-end]]",
+  "tags": [
+    "2018棍棒互殴竞赛",
+    "euclid",
+    "jp",
+    "scp",
+    "军事",
+    "幻觉",
+    "载具"
+  ],
+  "author": "MScarlet",
+  "created_at": "2024-07-01T19:13:54+00:00",
+  "updated_at": "2024-07-01T19:40:21+00:00",
+  "rating": 2,
+  "_site": "scp-wiki-cn",
+  "_fullname": "scp-1977-jp"
+}

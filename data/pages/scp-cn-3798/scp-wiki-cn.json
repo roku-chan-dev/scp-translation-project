@@ -1,0 +1,19 @@
+{
+  "title": "SCP-CN-3798",
+  "content": "[[include :scp-wiki-cn:theme:black-highlighter-theme]]\n[[include :scp-wiki:component:toggle-sidebar-bhl]]\n[[include :scp-wiki:component:centered-header-bhl |malice=--]]]\n[[include :scp-wiki-cn:theme:clock-tower]]\n\n[[>]]\n[[module Rate]]\n[[/>]]\n\n[[module ListPages category=\"fragment\" parent=\".\" limit=\"1\" order=\"name\" offset=\"@URL|0\"]]\n%%content%%\n[[/module]]\n\n[!--\n编辑用链接：\n\n第一迭代：https://scp-wiki-cn.wikidot.com/fragment:scp-cn-3798-01\n第二迭代：https://scp-wiki-cn.wikidot.com/fragment:scp-cn-3798-02\n第三迭代：https://scp-wiki-cn.wikidot.com/fragment:scp-cn-3798-03\n\n--] \n\n[[footnoteblock]]\n\n@@@@\n@@@@\n@@@@\n\n-------\n\n[[include :scp-wiki-cn:component:earthworm\n| first=true | last=false | hub=yes\n| next-url=https://scp-wiki-cn.wikidot.com/scp-cn-3764 | next-title=『白』代表『👻』\n| hub-url=https://scp-wiki-cn.wikidot.com/psychic-month-hub | hub-title=『鬼魅浮光』灵异月\n]]\n\n[[div class=\"footer-wikiwalk-nav\"]]\n[[=]]\n<< [[[SCP-CN-3797]]] | SCP-CN-3798 | [[[SCP-CN-3799]]] >>\n[[/=]]\n[[/div]] \n\n[[module css]]\ndiv#page-content div.earthworm div.first:not(.true),\ndiv#page-content div.earthworm div.last:not(.true) {\n    border: none;\n    background-color: #070D29;\n}\n \ndiv#page-content div.earthworm div.first:not(.true) img,\ndiv#page-content div.earthworm div.last:not(.true) img {\n    display: none;\n}\n \ndiv#page-content div.earthworm div.first:not(.true) {\n    margin-left: 1.5rem;\n}\n \ndiv#page-content div.earthworm div.first:not(.true)::before {\n    content: \"\";\n    display: block;\n    position: absolute;\n    height: 100%;\n    width: 1.5rem;\n    left: -1.5rem;\n    top: 0;\n    margin: 0;\n    background-color: #070D29;\n    clip-path: polygon(0% 50%, 100% 0%, 100% 100%);\n    -webkit-clip-path: polygon(0% 50%, 100% 0%, 100% 100%);\n}\n \ndiv#page-content div.earthworm div.last:not(.true) {\n    margin-right: 1.5rem;\n}\n \ndiv#page-content div.earthworm div.last:not(.true)::before {\n    content: \"\";\n    display: block;\n    position: absolute;\n    height: 100%;\n    width: 1.5rem;\n    right: -1.5rem;\n    top: 0;\n    margin: 0;\n    background-color: #070D29;\n    clip-path: polygon(100% 50%, 0% 0%, 0% 100%);\n    -webkit-clip-path: polygon(100% 50%, 0% 0%, 0% 100%);\n}\n \ndiv#page-content div.earthworm div.hub {\n    border: 3px solid #000107;\n    background-color: #070D29;\n}\n\n/*上面的代码修改自Dr. Hormress的平行版式。*/\n\n.hub.yes a{\ncolor: #ffffff;\nbackground: linear-gradient(to bottom, #ffffffb0, #ffffff80 50%, #ffffff00 100%);\n-webkit-background-clip: text;\n-webkit-text-fill-color: transparent;\n}\n.last.false a{color: #fffef9;}\n\n.earthworm a{font-weight: bold !important;}\n[[/module]]",
+  "tags": [
+    "2024灵异月",
+    "scp",
+    "原创",
+    "合著",
+    "机密分级",
+    "精品",
+    "边界勘定人"
+  ],
+  "author": "Re_spectators",
+  "created_at": "2024-06-01T12:57:18+00:00",
+  "updated_at": "2024-10-14T17:26:07+00:00",
+  "rating": 730,
+  "_site": "scp-wiki-cn",
+  "_fullname": "scp-cn-3798"
+}

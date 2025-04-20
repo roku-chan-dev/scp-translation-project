@@ -1,0 +1,25 @@
+{
+  "title": "SCP-6833",
+  "content": "=====\n[[include component:preview\ntext=A very serious story.\n]]\n=====\n\n[[div style=\"display: none;\"]]\n[[include component:image-block\n|name=https://scp-wiki.wdfiles.com/local--files/fragment%3Ascp-6833-offset-1/WorldOfPiss.jpg\n|caption=The Piss World\n|width=100%\n|align=center]]\n[[/div]]\n\n[[=]]\n[[module rate]]\n[[/=]]\n\n[!--\nFragments:\nhttps://scp-wiki.wikidot.com/fragment:scp-6833-offset-1\nhttps://scp-wiki.wikidot.com/fragment:scp-6833-offset-2\nhttps://scp-wiki.wikidot.com/fragment:scp-6833-offset-3\nhttps://scp-wiki.wikidot.com/fragment:scp-6833-offset-4\n--]\n\n[[module ListPages category=\"fragment\" parent=\".\" order=\"name\" limit=\"1\" offset=\"@URL|0\"]]\n%%content%%\n[[/module]]\n\n@@ @@\n[[=]]\n[[div class=\"footer-wikiwalk-nav\"]]\n<< [[[SCP-6832]]] | SCP-6833 | [[[SCP-6834]]] >>\n[[/div]]\n\n[[include :scp-wiki:component:license-box]]\n=====\n> **Filename:** WorldOfPiss.jpg\n> **Author:** Nicholas Gemini\n> **License:** Creative Commons Attribution Share-Alike (CC BY-SA) 4.0. International\n> **Source Link:** [https://commons.wikimedia.org/wiki/File:Sea_storms_in_Catanzaro_02.jpg Wikimedia Commons]\n\n> **Filename:** RAISA.jpg\n> **Author:** [[*user EstrellaYoshte]]\n> **License:** Creative Commons Attribution Share-Alike (CC BY-SA) 3.0.\n> **Source Link:** [http://scp-wiki.wikidot.com/desk-of-junior-designer-s-yvonne SCP Wiki]\n\n> **Filename:** Таблетки_активированного_угля.jpg\n> **Author:** BarbariSka88\n> **License:** Creative Commons Zero (CC0) 1.0\n> **Source Link:** [https://commons.wikimedia.org/wiki/File:%D0%A2%D0%B0%D0%B1%D0%BB%D0%B5%D1%82%D0%BA%D0%B8_%D0%B0%D0%BA%D1%82%D0%B8%D0%B2%D0%B8%D1%80%D0%BE%D0%B2%D0%B0%D0%BD%D0%BD%D0%BE%D0%B3%D0%BE_%D1%83%D0%B3%D0%BB%D1%8F.jpg Wikimedia Commons]\n\n> **Filename:** Eta0.png\n> **Author:** [[*user PhantomFunds]]\n> **License:** Creative Commons Attribution Share-Alike (CC BY-SA) 3.0.\n> **Source Link:** [http://scp-sandbox-3.wdfiles.com/local--files/logos/Eta0 SCP Wiki]\n\n> **Filename:** Yellow_sea_light.jpg\n> **Author:** Pdpics\n> **License:** Creative Commons Attribution Share-Alike (CC BY-SA) 3.0.\n> **Source Link:** [https://commons.wikimedia.org/wiki/File:Yellow_sea_light.jpg Wikimedia Commons] \n\n=====\n[[include :scp-wiki:component:license-box-end]]\n[[/=]]",
+  "tags": [
+    "_cc",
+    "_licensebox",
+    "_listpages",
+    "alive",
+    "bacteria",
+    "extradimensional",
+    "humanoid",
+    "medical",
+    "miniature",
+    "portal",
+    "safe",
+    "sapient",
+    "scp"
+  ],
+  "author": "Starch Tuber",
+  "created_at": "2022-04-24T19:29:08+00:00",
+  "updated_at": "2024-02-26T12:41:33+00:00",
+  "rating": 73,
+  "_site": "scp-wiki",
+  "_fullname": "scp-6833"
+}

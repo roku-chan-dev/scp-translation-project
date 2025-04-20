@@ -1,0 +1,13 @@
+{
+  "title": "Scp Es 138 1",
+  "content": "[[module css]]\n#page-title {\n  display: none;\n}\n.meta-title {\n  border-bottom: solid 1px #bbbbbb;\n  color: #990011;\n  font-weight: normal;\n  margin: 0 0 0.6em;\n  padding: 0 0 0.25em;\n  font-size: 200%;\n}\n.meta-title p {\n  margin: 0;\n}\n.outer-chat {background: gray; padding: 1px 15px; border: solid 3px lightgray; margin: 10px; border-radius: 30px 15px}\n\n\n\n.inner-chat {background: white; padding: 1px 15px; border: solid 3px lightgray; margin: 10px; border-radius: 30px 15px}\n[[/module]]\n[[div class=\"meta-title\"]]\n**歡迎來到 SCP 基金會！**\n[[/div]]\n\n[[div class=\"outer-chat\"]]\n[[div class=\"inner-chat\"]]\n[[table style=\"border: none; width: 100%\"]]\n[[row]]\n[[cell style=\"width: 20%;\"]]\n[[f<image http://scp-wiki.wdfiles.com/local--files/your-very-first-scp/skippy.png size=\"thumbnail\"]]\n[[/cell]]\n[[cell style=\"text-align: left; background-color: white; color: black; padding: 1% 1% 1% 1%\"]]\n你好，朋友！ ~:o) 我是 Skippy，您的自動 SCP 幫手！歡迎來到 SCP 基金會！在我們開始培訓講座之前，我想請問您是否熟悉這個標誌呢？\n\n[[collapsible show=\"+ 顯示標誌 \" hide=\"- 關閉\"]]\n[[image http://scp-wiki.wdfiles.com/local--resized-images/goc-hub-page/GOC-Logo-v4.png/medium.jpg]]\n\n@@>@@ [[[secret:scp-es-138-1|是]]]\n@@>@@ [http://scp-wiki-cn.wikidot.com/scp-es-138/offset/1 否]\n[[/collapsible]]\n[[/cell]]\n[[/row]]\n[[/table]]\n\n[[/div]]\n[[/div]]",
+  "tags": [
+    "段落"
+  ],
+  "author": "feitag",
+  "created_at": "2019-08-28T12:20:47+00:00",
+  "updated_at": "2024-04-27T19:34:38+00:00",
+  "rating": 1,
+  "_site": "scp-wiki-cn",
+  "_fullname": "fragment:scp-es-138-1"
+}

@@ -1,0 +1,28 @@
+{
+  "title": "Nagiros的提案",
+  "content": "[!--\n\nFRAGMENT LIST:\n\n* https://scp-wiki-cn.wikidot.com/fragment:nagiros-proposal-iv-1\n* https://scp-wiki-cn.wikidot.com/fragment:nagiros-proposal-iv-2\n\n--]\n\n[[include :scp-wiki-cn:theme:night-rush-theme]]\n[[include :scp-wiki:component:toggle-sidebar]]\n\n[[module CSS]]\n/* FONTS */\n@import url('https://fonts.googleapis.com/css2?family=Poppins:wght@500;700&display=swap');\n\n/* AESTHETIC */\nbody {\n    font: 0.95em 'Poppins', sans-serif;\n    background: #1a1a1a;\n    background: linear-gradient(90deg, rgba(0,0,0,1) 0%, rgba(26,26,26,1) 5%, rgba(26,26,26,1) 95%, rgba(0,0,0,1) 100%);\n}\n.page-rate-widget-box {\n    font: .95em verdana,arial,helvetica,sans-serif;\n}\ndiv#container-wrap {\n    background-image: none;\n}\n#top-bar {\n    background: rgb(83,83,83);\n    background: radial-gradient(circle, rgba(83,83,83,1) 0%, rgba(59,59,59,1) 100%);\n    margin: 1em 0;\n    padding-bottom: .2em;\n}\n#top-bar ul li a,\n#top-bar ul li.sfhover a:hover,\n#top-bar ul li:hover a:hover {\n    border: 0;\n}\n#page-title {\n    display: none;\n}\n#breadcrumbs {\n    margin: 0;\n}\n[[/module]]\n\n[[>]]\n[[div style=\"text-align: right; margin-top: -18px; margin-right: 2em;\"]]\n##d2d2d2|Nagiros 著##\n[[/div]]\n[[/>]]\n\n\n[[module ListPages category=\"fragment\" name=\"nagiros-proposal-*\" order=\"name\" limit=\"1\" offset=\"@URL|0\"]]\n%%content%%\n[[/module]]\n\n[!--\n[[module ListPages category=\"fragment\" parent=\".\" order=\"created_at\" limit=\"1\" offset=\"@URL|0\"]]\n%%content%%\n[[/module]]\n--]\n\n[[include :scp-wiki-cn:component:license-box\n|author=nagiros\n]]\n=====\n> **文件名：**breaker.png\n> **图像作者：**Nagiros\n> **授权协议：**CC BY-SA 3.0\n> **衍生自：**SCP Logo\n\n> **文件名：**bright.jpg\n> **图像名：**Stars\n> **图像作者：**ikewinski\n> **授权协议：**CC BY 2.0\n> **来源连接：**[https://www.flickr.com/photos/73449134@N04/8666377749 Flickr]\n\n> **文件名：**markab.jpg\n> **图像名：**Hubble’s Cosmic Holiday Wreath\n> **图像作者：**NASA Goddard Photo and Video\n> **授权协议：**CC BY 2.0\n> **来源链接：**[https://www.flickr.com/photos/24662369@N07/31468331457 Flickr]\n\n> **文件名：**sadr.jpg\n> **图像名：**File:Sadr JeffJohnson.jpg\n> **图像作者：**Jeffjnet（http://jeffjastro.com）\n> **授权协议：**CC BY-SA 4.0\n> **来源链接：**[https://commons.wikimedia.org/w/index.php?curid=41620183 Wikimedia]\n\n> **文件名：**mimosa.png\n> **图像名：**File:Trishanku Shir (Beta Crucis).png\n> **图像作者：**Digitized_Sky_Survey_2_Image_of_NGC_4755.jpg: ESO, ESA/Hubble and Digitized Sky Survey 2. Acknowledgment: Davide De Martin (ESA/Hubble) derivative work: Hunnjazal (talk)\n> **授权协议：**CC BY 4.0\n> **来源链接：**[https://commons.wikimedia.org/w/index.php?curid=15686756 Wikimedia]\n\n> **文件名：**sol.jpg\n> **图像名：**From the Sun with Love\n> **图像作者：**NASA Goddard Photo and Video\n> **授权协议：**CC BY 2.0\n> **来源链接：**[https://www.flickr.com/photos/24662369@N07/8473412851 Flickr]\n\n> **文件名：**finality.jpg\n> **图像作者：**Nagiros\n> **授权协议：**CC BY-SA 3.0\n=====\n[[include :scp-wiki-cn:component:license-box-end]]",
+  "tags": [
+    "001提案",
+    "keter",
+    "scp",
+    "the-administrator",
+    "动物",
+    "敌意",
+    "时间影响",
+    "智能",
+    "未来",
+    "概念",
+    "活物",
+    "深井目录",
+    "爬行类动物",
+    "精神影响",
+    "被放逐者之图书馆",
+    "超维度"
+  ],
+  "author": "highlightingman",
+  "created_at": "2023-10-26T13:21:01+00:00",
+  "updated_at": "2024-02-22T14:50:50+00:00",
+  "rating": 12,
+  "_site": "scp-wiki-cn",
+  "_fullname": "nagiros-proposal"
+}

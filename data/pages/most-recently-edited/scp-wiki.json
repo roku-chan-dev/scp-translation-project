@@ -1,0 +1,13 @@
+{
+  "title": "Most Recently Edited",
+  "content": "[[include fragment:nav-generic-css]]\n[[module CSS]]\n.content-type-description .wiki-content-table :is(td,th) {\n    padding: 0.25rem 0.375rem;\n}\n.content-type-description .wiki-content-table td:nth-child(2) {\n    width: 6rem;\n}\n.content-type-description .wiki-content-table td:nth-child(3) {\n    text-align: left;\n    width: 11.75rem;\n}\n[[/module]]\n\n[[div class=\"content-box\"]]\n[[div class=\"content-type-title\"]]\nMost Recently Edited Pages\n[[/div]]\n[[div class=\"content-type-description\"]]\n[[module ListPages order=\"updated_at desc\" separate=\"false\" prependLine=\"||~ Page ||~ [[size 0%]]Last Edited[[/size]]📆︎ ||~ Updated By ||\"]]\n||[*%%link%%/noredirect/true %%title%%]||%%updated_at|%Y.%m.%e|agohover%%||%%updated_by_linked%%||\n[[/module]]\n[[/div]]\n[[div class=\"content-type-footer\"]]\n[[[system:recent-changes|]]]\n[[/div]]\n[[/div]]",
+  "tags": [
+    "admin"
+  ],
+  "author": "The Administrator",
+  "created_at": "2008-07-25T12:32:04+00:00",
+  "updated_at": "2024-10-12T12:34:16+00:00",
+  "rating": 22,
+  "_site": "scp-wiki",
+  "_fullname": "most-recently-edited"
+}

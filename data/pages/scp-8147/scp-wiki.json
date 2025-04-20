@@ -1,0 +1,22 @@
+{
+  "title": "SCP-8147",
+  "content": "[[>]]\n[[module Rate]]\n[[/>]]\n\n**Item #:** SCP-8147\n\n**Object Class:** Safe\n\n**Special Containment Procedures:** SCP-8147 is to be kept in a standard Safe object containment locker. Testing on SCP-8147 is strictly forbidden following the events of Incident 8147-1.\n\n**Description:** SCP-8147 is a 4-meter-wide 3-centimeter-thick circular ring made of bronze, with three brackets on its backside that enable it to be mounted to a wall. In addition, the object has a USB port and a standard American 120 V power plug. When SCP-8147 is powered and is attached to a keyboard, its interior turns into a black void which behaves as if it is solid. When a user types on the keyboard, white text appears in this void.\n\nIf, at any time, the user hits the \"Enter\" key, the text disappears, and an image of an hourglass will appear on the surface of SCP-8147 for anywhere from three seconds to two hours.\n\nFollowing this, the interior of SCP-8147 will become a Class IV Dimensional Rift, enabling the user to travel into an alternate world (designated SCP-8147-1). This world will roughly match the textual description the user entered prior. No material from within SCP-8147-1 may pass through the rift.\n\n**SCP-8147 Testing Log:**\n\n||~ Test No. ||~ Prompt ||~ Generation Time ||~ Additional Notes ||\n|| 3 || A planet made entirely out of solid iron. || 4s || None. ||\n|| 17 || A replica of modern-day Earth. || 33s || Minor differences to baseline reality were noted. For instance, New Zealand was absent. ||\n|| 45 || An Earth-sized planet made entirely out of bricks. || 20m48s || A pile of loose bricks was spotted 1km from the rift. Otherwise, the planet was entirely flat. ||\n|| 174 || An Earth-sized planet made entirely from dominoes stacked on their edges. || 2h25m19s || SCP-8147 never generated a rift during this test. Instead, after 2h25m19s, it displayed an \"X\" and returned to its \"text entry\" state. ||\n\n**Incident 8147-1:** On 4 April 2023, a test was being conducted on SCP-8147 where it was prompted to create \"A planet identical to Earth, except that humans never evolved.\" However, Site-03 briefly lost power 2.47 seconds after SCP-8147 entered its \"hourglass\" state. Upon losing power, SCP-8147 immediately formed a Class IV Dimensional Rift instead of shutting down as expected. Upon entering, the SCP-8147 Exploration Team stepped onto mountainous, rocky terrain. Exploration Team Captain Roberts was immediately alerted to a human entity (designated SCP-8147-2) dressed in overalls chiseling a rock with a jackhammer.\n\n> //[SCP-8147-2 stops the jackhammer and stares at the exploration crew.]//\n> \n> **SCP-8147-2:** Holy shit.\n> \n> **Capt. Roberts:** Who are you?\n> \n> **SCP-8147-2:** You folks gotta leave. This is a construction zone.\n> \n> **Capt. Roberts:** I thought this planet wasn't supposed to have humans. Are you human?\n> \n> **SCP-8147-2:** As human as you are! I'll be outta your way once it's finished. Now scram!\n> \n> **Capt. Roberts:** Wait, what //made// this planet?\n> \n> **SCP-8147-2:** You're lookin' at 'im. Fuckin' hate planet duty.\n> \n> **Capt. Roberts:** And exactly //how// long have you been here?\n> \n> **SCP-8147-2:** 'Round about two-and-a-half quadrillion years.\n\nAll tests on SCP-8147 are now forbidden as per Ethics Committee fiat, including the planned Test #297.\n\n[[footnoteblock]]\n\n[[div class=\"footer-wikiwalk-nav\"]]\n[[=]]\n<< [[[SCP-8146]]] | SCP-8147 | [[[SCP-8148]]] >>\n[[/=]]\n[[/div]]\n\n[[include :scp-wiki:component:license-box]]\n[[include :scp-wiki:component:license-box-end]]",
+  "tags": [
+    "comedy",
+    "computer",
+    "extradimensional",
+    "featured",
+    "otherworldly",
+    "planet",
+    "portal",
+    "safe",
+    "science-fiction",
+    "scp"
+  ],
+  "author": "radian628",
+  "created_at": "2024-09-04T21:53:01+00:00",
+  "updated_at": "2024-10-01T06:42:14+00:00",
+  "rating": 270,
+  "_site": "scp-wiki",
+  "_fullname": "scp-8147"
+}

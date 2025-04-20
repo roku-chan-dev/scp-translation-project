@@ -1,0 +1,18 @@
+{
+  "title": "SCP-5987",
+  "content": "[[module ListPages category=\"fragment\" parent=\".\" limit=\"1\" order=\"created_at\" offset=\"@URL|0\"]]\n%%content%%\n[[/module]]\n\n[!-- http://scp-wiki-cn.wikidot.com/fragment:scp-5987-1 --]\n[!-- http://scp-wiki-cn.wikidot.com/fragment:scp-5987-2 --]\n[!-- http://scp-wiki-cn.wikidot.com/fragment:scp-5987-3 --]\n\n@@ @@\n@@ @@\n@@ @@\n[[footnoteblock]]\n\n\n[[div class=\"footer-wikiwalk-nav\"]]\n[[=]]\n<< [[[SCP-5986]]] | SCP-5987 | [[[SCP-5988]]] >>\n[[/=]]\n[[/div]]\n\n[[include :scp-wiki-cn:component:license-box\n|author=Cerastes]]\n=====\n> **文件名：** sirenhead\n> **图像作者：** [[*user Cerastes]], Jon Parise\n> **授权协议：** CC BY-SA 2.0\n> **衍生自：** [[[https://www.flickr.com/photos/jparise/183076703|Flickr]]]\n=====\n[[include :scp-wiki-cn:component:license-box-end]]",
+  "tags": [
+    "asci",
+    "euclid",
+    "scp",
+    "历史性",
+    "隔地促动",
+    "雕塑"
+  ],
+  "author": "ashausesall",
+  "created_at": "2020-05-13T14:33:56+00:00",
+  "updated_at": "2024-09-01T01:15:05+00:00",
+  "rating": 4,
+  "_site": "scp-wiki-cn",
+  "_fullname": "scp-5987"
+}

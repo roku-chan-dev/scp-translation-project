@@ -1,0 +1,14 @@
+{
+  "title": "My take on some -hazard symbols",
+  "content": "[[>]]\n[[module Rate]]\n[[/>]]\n\n\n[[collapsible hideLocation=\"both\" show=\"⚠️ Infohazard\" hide=\"hide\"]]\n[[=image infohazardsign size=\"small\"]]\n> Hazard triangle adapted from [https://commons.wikimedia.org/wiki/File:Warning.svg Wikimedia Commons], released by Open Clip Art Library under CC0 1.0. Art within is my own.\nJust a simple play on i for information and an exclamation mark!\n\n[[/collapsible]]\n\n[[collapsible hideLocation=\"both\" show=\"⚠️ Cognitohazard\" hide=\"hide\"]]\n[[=image cognitohazardsign size=\"small\"]]\n> Hazard triangle adapted from [https://commons.wikimedia.org/wiki/File:Warning.svg Wikimedia Commons], released by Open Clip Art Library under CC0 1.0.\n\n> Eye adapted from [https://commons.wikimedia.org/wiki/File:Eye_-_The_Noun_Project.svg Wikimedia Commons], released by the Noun Project under CC0 1.0.\nEye as a shorthand for perception, and then the classic exclamation mark.\n\n[[/collapsible]]\n\n[[collapsible hideLocation=\"both\" show=\"⚠️ Semiohazard\" hide=\"hide\"]]\n[[=image semiohazardsign size=\"small\"]]\n> Hazard triangle adapted from [https://commons.wikimedia.org/wiki/File:Warning.svg Wikimedia Commons], released by Open Clip Art Library under CC0 1.0. Art within is my own.\n\nFrom the classic explanation of semiohazards \"one plus one doesn't always equal two\" (SCP-INTEGER by Placeholder McD).\n\n[[/collapsible]]\n\n[[collapsible hideLocation=\"both\" show=\"⚠️ Bureaucratohazard\" hide=\"hide\"]]\n[[=image bureaucratohazardsign size=\"small\"]]\n> Hazard triangle adapted from [https://commons.wikimedia.org/wiki/File:Warning.svg Wikimedia Commons], released by Open Clip Art Library under CC0 1.0. Art within is my own.\n\nScales used to mean laws, as paper/sheets just looked like a symbol for a written cognitohazard. Tipped scales for wrongness.\n\n[[/collapsible]]\n\n[[collapsible hideLocation=\"both\" show=\"⚠️ Narrativohazard\" hide=\"hide\"]]\n\n> Hazard triangle adapted from [https://commons.wikimedia.org/wiki/File:Warning.svg Wikimedia Commons], released by Open Clip Art Library under CC0 1.0. Art within is my own.\n[[=image narrativohazardsign size=\"small\"]]\nThe [https://en.wikipedia.org/wiki/Hero%27s_journey diagram of the heroes journey] simplified and disrupted by an external force, which has also entered the 'Known' aka disrupting normalcy.\n\n[[/collapsible]]",
+  "tags": [
+    "artwork",
+    "logo"
+  ],
+  "author": "FiendsReach",
+  "created_at": "2024-12-12T19:04:08+00:00",
+  "updated_at": "2024-12-12T19:39:10+00:00",
+  "rating": 19,
+  "_site": "scp-wiki",
+  "_fullname": "art:my-take-on-some-hazard-symbols"
+}

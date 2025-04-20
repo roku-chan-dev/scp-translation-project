@@ -1,0 +1,14 @@
+{
+  "title": "10076",
+  "content": "overview: '複合レジャー施設「████公園」のペンギン舎にて開催されていたフンボルトペンギン(//Spheniscus humboldti//)の餌やり体験イベント中、参加者の██　██氏(男性)が突然消失しました。近くにいた飼育員および複数の来園者が、「██氏がペンギンの臀部を撮影しようと接近したところ、総排泄孔へ吸い込まれるようにして消失した」という旨の証言を行っています。また、その瞬間の写真も撮影されていました。'\nswdate: '1'\ndate: 2017/██/██\nswplace: '1'\nplace: 埼玉県██町\nswchaseprocedure: '1'\nchaseprocedure: ██氏が来園していたことを示す写真等を全て削除の上、関係者にクラスA記憶処理を実施しました。関与が疑われるフンボルトペンギン(メス)は各種検査において一切異常はみられず、その後の健康状態も良好ですが、他のメスに執拗に接近を試み求愛行動をとるなど、当該現象前後で行動の変化が確認されています。\nswaddendum: '0'\naddendum: ''\ntf2: '1'\nauthor: inemurik\nredirect-b: '[[module Redirect destination=\"/log-of-extranormal-events-jp'\nredirect-e: '\"]]'",
+  "tags": [
+    "jp",
+    "剪定対象-子"
+  ],
+  "author": "machikawa",
+  "created_at": "2020-07-24T04:24:40+00:00",
+  "updated_at": "2021-05-24T13:21:06+00:00",
+  "rating": 33,
+  "_site": "scp-jp",
+  "_fullname": "extranormal-events-jp:10076"
+}

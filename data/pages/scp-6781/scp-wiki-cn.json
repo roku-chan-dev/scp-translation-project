@@ -1,0 +1,18 @@
+{
+  "title": "SCP-6781",
+  "content": "[[div style=\"border:solid 3px #444; background:#f2f2c2 url('http://kaktuskontainer.wdfiles.com/local--files/format-hell/scp_trans.png') center center no-repeat; padding: 1.5rem; margin-bottom: 10px;\"]]\n[[=]]\n+++ 基金会记录与信息安保管理部提示\n\n你的账号对本文件登记为**权限等级(CL) 3/6781**。本文件内有重要段落需要**CL 4/6781**。由于权限不足，你正在查阅的是本文件的**细节受限**版本。如果你确信此情况有误，请联系你的驻站RAISA职员。 \n[[/=]]\n[[/div]]\n\n----\n[[include theme:black-highlighter-theme]]\n[[include :scp-wiki:component:toggle-sidebar-bhl]]\n[[include :scp-wiki:component:centered-header-bhl]]\n[[include :scp-wiki:component:rso]]\n\n[[include component:image-block name=https://scp-wiki.wdfiles.com/local--files/scp-6781/Cave|\n    caption=SCP-6781在Site-7B修建前的入口|\n     align=right|\n     width=200px\n]]\n\n**项目编号：** SCP-6781\n\n**项目等级：** Thaumiel\n\n**特殊收容措施：** Site-7B及SCP-6781都处于进出受限的联邦土地内，天然地阻却了未授权人员将其意外发现。Site-7B人员只在指定探索期间才能深入到SCP-6781内比Site-7B终点更深处。\n\n**描述—细节受限：** SCP-6781是一深度与复杂度尚未确定的洞穴系统。位于美国阿拉斯加州西沃德半岛。收容Site-7B：主体Site-7的支援设施，位于诺顿湾离岸约43英里处。\n\nSCP-6781对本质促动及现实改变事件及现象表现出天然的抵抗性。本质促动能力的效应会在其入口周围区域内减弱；在进入其阈界5米后彻底归于无效。Site-7B建设于其中一个洞穴分支内，以利用其异常效应。\n\nO5议会于1984年投票批准将SCP-6781改建为Site-7B，作为规划中的RAISA地库（参见附录6781.1）。在建设中途发现了既存的基础设施；Site-7B为此限缩到了当前界限内，对Site-7B档案库的最终扩建计划取消。 \n\n----\n\n\n**附录6781.1:**安保设施档案摘录， Site-7B/RAISA密库\n[[div class=\"addendum\"]]\n[[=]]\n+++ 安保设施档案\n+++++ {{支援基地SITE-7B}}\n----\n[[/=]]\n[[include component:image-block name=https://scp-wiki.wdfiles.com/local--files/scp-6781/Man|\n    caption=Site-7B档案库内部|\n     align=left\n]]\n\n**地点：** 美国阿拉斯加州西沃德半岛\n\n**职员：** 41名RAISA档案员及技术员；12名站点安保职员（从Site-7派遣，队长Pierre Gauthier，副队长Priya Kareem）\n\n**历史：** 在SCiPnet于1971年对全部基金会站点开放后，RAISA主管Maria Jones提出了一项七点计划，将总计45亿文本、微缩胶卷及其他同类记录逐步数字化到SCiPnet之中，同时委任一座设施专门存放这些记录并保护其免于（异常或非异常的）破坏。因其异常性质，SCP-6781被选中为本计划的地点，命名为“RAISA密库”，通过额外的损害预防机制又对其进行了强化。用以升级SCP-6781的系统代号衍生自该洞穴在土著因纽特民族中的原名“ᐃᑎᔪᖅ ᐃᒪᖅ ᐊᖕᒪᔪᖅ”，大致翻译为“深井”。\n\n在多次测试后，RAISA技术专家确认保存在RAISA密库中的文件能够保持在原始的受保护状态，原本会造成数据丢失或文件毁损的共认现实转变、长时间存放都能予以无视。 \n\n[[/div]]\n----\n**附录6781.2:** O5指挥部备忘\n[[div style=\"color: black; font-weight: bold; background:#fff url(http://scp-wiki.wdfiles.com/local--files/the-great-hippo/scp_trans.png) center/110% no-repeat; border: solid 1px #000000; padding: 15px; box-shadow: 0 1px 3px rgba(0,0,0,.2); width: 80%; margin: 1rem auto;\"]]\n+ 监督者指挥部备忘\n----\n**至：** RAISA主管Maria Jones; Site-7指挥部\n**关于：** Site-7B；“RAISA密库”\n**日期：**\n----\n\n[[include component:image-block name= https://scp-wiki.wdfiles.com/local--resized-images/scp-6781/Map/medium.jpg|\n    caption=SCP-6781地图，由Site-7B建造队在探索中绘制。洞穴延伸到地图之外。|\n     align=right|\n     width=200px\n]]\n由于在SCP-6781内此前未知的区域发现了可能是异常性的材料，根据议会多数表决，对Site-7B的建造暂时中止。经过RAISA主管主张，建造工作继续进行，但局限在最初未被占用的主要洞穴分支内。\n\n此外，Site-7B的权限范围将进行扩展，不再局限于整理现有的数字化基金会记录。现在起Site-7B人员也要核验从SCP-6781中发现的记录，尝试查明： \n* 文件的年代。\n* 为何新设计出的深井系统技术原型会存在于SCP-6781内。\n* SCP-6781的终点，如若确实存在。\n* 每个分支中寻获文件的[/scp-2000 来源]。\n* Site-7B占用了洞内仅存的空余分支意味着什么。\n[[/div]]",
+  "tags": [
+    "scp",
+    "thaumiel",
+    "合著",
+    "地下",
+    "地点",
+    "需更新"
+  ],
+  "author": "ashausesall",
+  "created_at": "2022-06-23T11:52:27+00:00",
+  "updated_at": "2024-12-14T12:46:36+00:00",
+  "rating": 2,
+  "_site": "scp-wiki-cn",
+  "_fullname": "scp-6781"
+}

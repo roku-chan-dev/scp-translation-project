@@ -1,0 +1,14 @@
+{
+  "title": "Best Place of Stuff",
+  "content": "[[include :scp-wiki:theme:black-highlighter-theme]]\n[[include :scp-wiki:theme:minimalist-bhl]]\n[[module CSS]]\n:root {\n --header-title: \"Best Place of Stuff\";\n --header-subtitle: \"by carmine car-is-mine carmichael\";\n --lgurl: url('https://scp-wiki.wikidot.com/local--files/component:anomaly-class-bar/uncontained-icon.svg');\n}\n[[/module]]\n\n[[>]]\n[[module Rate]]\n[[/>]]\n\n[[=]]\n\n> If 7348 is the one that gets me my author page, I'm gonna be so mad.\n> - carmine, October 24th, 2022\n[[/=]]\n------\n[[=]]\nhi, im carmine. this is the Best Place of Stuff. it was originally gonna be the Best Page of Stuff, but Page covered up the subtitle so now its just Place. \n\ni like to write about paracrime and dumb ideas. \n[[/=]]\n------\n[[tabview]]\n[[tab SCPs]]\nthey are all in chronological order, of when i posted them.\n\n> [[[https://scp-wiki.wikidot.com/scp-6580 | SCP-6580: Psiphetamine]]]\n> //SCP-6580-A was advertised as \"Psiphetamine\" and was capable of increasing the abilities of psionically capable individuals...//\n------\n> [[[https://scp-wiki.wikidot.com/scp-6920 | SCP-6920: Ghost Crime in Kansas]]]\n> //\"He fucked up bad this time, Chappell is chasing us out of Chicago, and he's coming for the rest of us in the states\".//\n------\n> [[[https://scp-wiki.wikidot.com/scp-7348 | SCP-7348: The Bare Minimum]]]\n> //Looks good. - Dr. Humphrey//\n[[/tab]]\n[[tab Tales]]\nsoon to come.\n[[/tab]]\n[[tab GoI Templates]]\nsoon to come.\n[[/tab]]\n[[/tabview]]\n\n@@ @@\n\n[[include :scp-wiki:component:license-box]]\n[!-- N/A (No Images)  --]\n[[include :scp-wiki:component:license-box-end]]",
+  "tags": [
+    "_licensebox",
+    "author"
+  ],
+  "author": "CarminestheBest",
+  "created_at": "2022-10-25T17:19:12+00:00",
+  "updated_at": "2023-01-25T14:15:09+00:00",
+  "rating": 12,
+  "_site": "scp-wiki",
+  "_fullname": "best-place-of-stuff"
+}

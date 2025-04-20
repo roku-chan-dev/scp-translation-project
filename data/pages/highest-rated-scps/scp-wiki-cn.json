@@ -1,0 +1,13 @@
+{
+  "title": "最高评分的SCP",
+  "content": "[[div class=\"top-rated-box\"]]\n[[=]]\n+* [[size 80%]] [[[top-rated-pages| 最高评分的页面]]] [[/size]]\n[[size larger]] **[[[Top Rated Pages This Month| 本月]]]** | **[[[Top Rated Pages By Year| 按年份]]]** [[/size]]\n**SCP** | **[[[Highest Rated Non-SCPs| 非SCP]]]** | **[[[top-rated-jokes| 搞笑页面]]]**\n**[[[Top Rated Tales| 故事]]]** | **[[[top-rated-goi-formats| GoI格式]]]** | **[[[top-rated-art| 艺作]]]**\n[[/=]]\n[[/div]]\n本页列出了本站最高评分的SCP，并列出了创建日期与页面发布者。请注意，本站早期发布的文章可能是从以前的站点搬运过来的，因此这些早期文章的页面创建者实际上可能并非文章的作者。投票仅限于网站成员，以避免破坏行为。\n\n[[module ListPages tags=\"scp +原创\" rating=\">25\" order=\"rating desc\" separate=\"false\" perPage=\"100\"]]\n%%title_linked%%（+%%rating%%）：发布于%%created_at%%，发布者为%%created_by%%\n[[/module]]\n\n[[module CSS]]\n.top-rated-box{\n        float: right;\n    border: 1px solid #600;\n    border-radius: 10px;\n    box-shadow: 0 2px 6px rgba(102, 0, 0, .5);\n    background: #fff;\n    margin-left: 1rem;  \n    padding: 1rem;\n    padding-top: 0;\n    padding-bottom: 0;  \n    text-align: center;\n}  \n\n#page-content h1 {\n    border-bottom: solid 0.08rem #660000;\n    padding: 0 0 0.25em;\n    margin-bottom: -0.5rem;\n}\n[[/module]]",
+  "tags": [
+    "中心"
+  ],
+  "author": "la kanro",
+  "created_at": "2023-08-13T14:14:41+00:00",
+  "updated_at": "2023-08-16T07:43:38+00:00",
+  "rating": -6,
+  "_site": "scp-wiki-cn",
+  "_fullname": "highest-rated-scps"
+}

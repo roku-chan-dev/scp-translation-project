@@ -1,0 +1,22 @@
+{
+  "title": "SCP-5287",
+  "content": "[[include :scpko:theme:classic]]\n[[include :scpko:theme:magnus-web-format]]\n[[include info:start]]\n**SCP-5287:** 흡연 봉화\n**저자:** [[*user Cremo]] & [[*user Uncle Nicolini]]\n**원작:** http://www.scp-wiki.net/scp-5287\n**역자:** [[*user MGPedersen]]\n[[include info:end]]\n\n[[include :scpko:component:anomaly-class-bar-source\n\n|item-number= 5287\n\n|clearance= 2\n\n|container-class= 유클리드\n\n|secondary-class= none\n\n|disruption-class= 플람\n\n|risk-class= 주목\n\n]]\n\n**특수 격리 절차:** SCP-5287이 계속해서 발생하는 한 그뢰트,,Gröd,, 연구원은 제228기지에서 재단의 감시 하에 두어야 한다.\n\n**설명:** SCP-5287은 그뢰트 연구원이 자의로 여송연이나 궐련으로 흡연할 때 발생하는 현상이다. 연기(이하 SCP-5287-1로 지칭)를 내뿜으면, 대상은 보통 여러가지 단어와 짧은 문구의 형태로 나타나 그뢰트 연구원 앞에서 공중에 부유한다.\n\n물리적으로 상호작용하면, SCP-5287 개체들은 비변칙적인 연기처럼 잘 흐트러지고 쉽게 소멸한다.\n\n**주목할 만한 SCP-5287-1 개체들:**\n\n> 멈춰\n\n> 흡연 자살\n\n> 내다버리는 미래\n\n> 당장 멈춰\n\n> 생명을 생각해\n\n> //SCP-5287-1이 평소처럼 나타나지 않고, 작은 연기구름이 담뱃불 아래로 타고흘러 그 자리에 머물면서 불을 꺼뜨림. 이는 SCP-5287-1이 단어나 문구를 만들지 않은 첫 사례임.//\n\n> 폐가 쪼그라들어\n\n> 제발 멈춰\n\n> 이렇게 빌게\n\n> 암 걸리기 직전\n\n> 죽음의 막대기\n\n> //SCP-5287-1이 다시 작은 연기구름을 만들어 그뢰트 연구원의 눈쪽으로 움직이자, 그가 손사래를 쳐 담배를 끄게 만듦.//\n\n> 경고한다\n\n> 진짜로 한다면 해\n\n> 경고한다고 했다\n\n**사건 5287.1:** 실험 도중 SCP-5287-1 개체의 문구가 \"미안\"이라고 나타났다. 해당 실험 이후, 그뢰트 연구원이 자신의 담배에서 더 많은 연기를 내뿜었다. 문구가 나타나지 않는 대신, SCP-5287-1이 인간의 팔 형태로 나타나 그뢰트 연구원이 담배를 쥐고있던 오른손 검지와 중지를 부러뜨렸다.\n\n차후의 사고를 예방코자 SCP-5287 실험을 중단하고 그뢰트 연구원이 금연할 수 있게 주마다 현장 정신과의를 찾도록 배정시켰다. 또한, 그뢰트 연구원의 흡연 습관을 억제할 수 있게 그에게 전자담배를 제공하고 있다.\n\n[[div class=\"authors\"]]\n[[include :scp-wiki:component:license-box\n|author=Cremo and Uncle Nicolini]]\n[[include :scp-wiki:component:license-box-end]]\n[[/div]]",
+  "tags": [
+    "en",
+    "scp",
+    "공저",
+    "공중",
+    "기체",
+    "무형",
+    "비정형",
+    "유클리드",
+    "인간형",
+    "지성"
+  ],
+  "author": "MGPedersen",
+  "created_at": "2022-10-04T12:52:31+00:00",
+  "updated_at": "2024-10-03T14:57:38+00:00",
+  "rating": 6,
+  "_site": "scpko",
+  "_fullname": "scp-5287"
+}

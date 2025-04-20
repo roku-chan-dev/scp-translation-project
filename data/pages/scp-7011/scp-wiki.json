@@ -1,0 +1,29 @@
+{
+  "title": "SCP-7011",
+  "content": "[[>]]\n[[module Rate]]\n[[/>]]\n\n[[module ListPages  category=\"fragment\" parent=\".\" limit=\"1\" order=\"created_at\" offset=\"@URL|0\"]]\n%%content%%\n[[/module]]\n\n[!-- https://scp-wiki.wikidot.com/fragment:scp-7011-1 --]\n[!-- https://scp-wiki.wikidot.com/fragment:scp-7011-2 --]\n[!-- https://scp-wiki.wikidot.com/fragment:scp-7011-3 --]\n[!-- https://scp-wiki.wikidot.com/fragment:scp-7011-4 --]\n\n[[div class=\"footer-wikiwalk-nav\"]]\n= << [[[SCP-7010]]] | SCP-7011 | [[[SCP-7012]]] >>\n[[/div]]\n\n[[include :scp-wiki:component:license-box\n|author=LAN 2D]]\n=====\n> **Filename:** wallowa_wind.jpg\n> **Name:** Oregon Summer Fog\n> **Author:** Brandon Olafsson\n> **License:** CC BY-SA 2.0\n> **Source Link:** [https://www.flickr.com/photos/168888063@N04/52199291528/in/photostream/ Flickr]\n\n> **Filename:** ALICE_final2.png\n> **Name:**  Frontier Supercomputer (3).jpg\n> **Author:** OLCF at ORNL\n> **License:** CC BY 2.0\n> **Source Link:** [https://commons.wikimedia.org/wiki/File%3AFrontier_Supercomputer_%283%29.jpg Wikimedia Commons]\n\n> **Filename:** wallowa_1\n> **Name:**  Wallowa Lake Day Trip [IMG_9737]\n> **Author:** Andy Melton\n> **License:** CC BY-SA 2.0\n> **Source Link:** [https://www.flickr.com/photos/trekkyandy/14414677829/in/photostream/ Flickr]\n\n> **Filename:** wallowa_2\n> **Name:**  Rock Stack at Wallowa Lake\n> **Author:** Evan Ology\n> **License:** CC BY-SA 2.0\n> **Source Link:** [https://www.flickr.com/photos/53789234@N02/4975912164/ Flickr]\n\n> **Filename:** wallowa_road\n> **Name:**  Sign for Don't Drive Like Hell in Joseph, OR.\n> **Author:** Robert Ashworth\n> **License:** CC BY 2.0\n> **Source Link:** [https://www.flickr.com/photos/90536753@N00/10776174595 Flickr]\n\n> **Filename:** tunnel\n> **Name:**  Through the Tunnel\n> **Author:** Becca Swift\n> **License:** CC BY 2.0\n> **Source Link:** [https://www.flickr.com/photos/rebeccaswift/14722929090/in/photostream/ Flickr]\n\n> **Filename:** Joseph\n> **Name:**  Joseph OR - aerial.jpg\n> **Author:** Sam Beebe\n> **License:** CC BY 2.0\n> **Source Link:** [https://commons.wikimedia.org/wiki/File:Joseph_OR_-_aerial.jpg Wikimedia Commons]\n\n> **Filename:** locker\n> **Name:**  Dülmen, Kirchspiel, ehem. Sondermunitionslager Visbeck, Bereich der US Army -- 2020 -- 7476.jpg\n> **Author:** Dietmar Rabich\n> **License:** CC BY-SA 4.0\n> **Source Link:** [https://commons.wikimedia.org/wiki/File:D%C3%BClmen,_Kirchspiel,_ehem._Sondermunitionslager_Visbeck,_Bereich_der_US_Army_--_2020_--_7476.jpg Wikimedia Commons]\n=====\n[[include :scp-wiki:component:license-box-end]]",
+  "tags": [
+    "7000",
+    "_cc",
+    "_licensebox",
+    "_listpages",
+    "alexandra",
+    "city",
+    "computer",
+    "foundation-made",
+    "keter",
+    "mind-affecting",
+    "reality-bending",
+    "sapient",
+    "scp",
+    "telekinetic",
+    "telepathic",
+    "teleportation",
+    "uncontained"
+  ],
+  "author": "LAN 2D",
+  "created_at": "2022-07-31T09:54:59+00:00",
+  "updated_at": "2023-06-13T04:52:18+00:00",
+  "rating": 184,
+  "_site": "scp-wiki",
+  "_fullname": "scp-7011"
+}

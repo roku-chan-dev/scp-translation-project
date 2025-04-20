@@ -1,0 +1,13 @@
+{
+  "title": "靶向指定：超常事件ㄢ-1100",
+  "content": "[[div style=\"position:Fixed;width:100%;height:100%;left:0;top:0;z-index:30\"]]\n\n[[iframe http://scp-wiki-cn.wikidot.com/the-extranormal-event-about-yin-k width=\"100%\" height=\"900px\" style=\"top: 0;position: absolute;border: none;\" ]]\n\n[[/div]]\n\n[[div style=\"color:#f4f4f4;text-align:center;font-size:150%;\"]] \n@@@@\n@@@@\n譬如工画师。分布诸彩色。\n虚妄取异相。大种无差别。\n大种中无色。色中无大种。\n亦不离大种。而有色可得。\n\n心中无彩画。彩画中无心。\n然不离于心。有彩画可得。\n彼心恒不住。无量难思议。\n示现一切色。各各不相知。\n\n譬如工画师。不能知自心。\n而由心故画。诸法性如是。\n心如工画师。能画诸世间。\n五蕴悉从生。无法而不造。\n@@@@\n@@@@\n@@@@\n@@@@\n[[/div]]\n\n[[module css]]\n\n#footer{\nopacity:0;\n}\n\ndiv#container-wrap {\nbackground: #fff;\nbackground-color: #fff;\n}\n\n\n.meta-title {\ndisplay:none\n}\n\n\n.page-tags,.page-rate-widget-box,#search-top-box,#top-bar,#side-bar,#login-status,#page-title,#header,#page-options-container,#footer,#license-area,#footer,#license-area {\ndisplay:none\n}\n\n#page-content {\n    min-height: 720px;\n}\n\n#main-content {\n    margin:0 5% 0  5%;\n}\n\n\n::scrollbar,\n::-webkit-scrollbar{\n        display:none;\n}\n\n[[/module]]",
+  "tags": [
+    "段落"
+  ],
+  "author": "Etinjat",
+  "created_at": "2018-11-11T14:16:58+00:00",
+  "updated_at": "2022-06-06T14:23:01+00:00",
+  "rating": 1,
+  "_site": "scp-wiki-cn",
+  "_fullname": "fragment:cn1000-dove-01"
+}

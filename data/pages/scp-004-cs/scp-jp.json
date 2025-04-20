@@ -1,0 +1,20 @@
+{
+  "title": "SCP-004-CS",
+  "content": "[[module CSS]]\n@import url(\"https://hawkeyevole.github.io/nu-scp/normalize.min.css\");\n@import url(\"http://scp-cs-sandbox.wdfiles.com/local--files/dr-bek/kaktus.css\");\n[[/module]]\n[[module css]]\n.page {\n    display: block;\n    overflow: hidden;\n    font-family: \"Monotype Corsiva\", \"Bradley Hand ITC\", sans-serif;\n    font-style: normal;\n\n    background-attachment: scroll;\n    background-clip: border-box;\n    background-color: transparent;\n    background-image: linear-gradient(to top ,rgb(202, 219, 228) 0%, rgb(231, 233, 220) 8%);\n    background-origin: padding-box;\n    background-position: 0px 8px;\n    background-repeat: repeat;\n    background-size: 100% 20px;\n\n    border: 1px solid #CCC;\n    border-radius: 10px;\n    padding: 10px 10px;\n    margin-bottom: 10px;\n\n    box-shadow: 0px 1px 3px rgba(0, 0, 0, 0.2)\n    }\n.page p {\n    line-height: 20px;\n    margin: 0;\n}\n[[/module]]\n\n[[>]]\n[[module rate]]\n[[/>]]\n\n[[include component:image-block name=http://scp-cs.wdfiles.com/local--files/scp-004-cs/pexels-photo-373978.jpeg|caption=SCP-004-CSの車内]]\n**アイテム番号**: SCP-004-CS\n\n**オブジェクトクラス**: Euclid\n\n**脅威レベル**: ● 黒\n\n**特別収容プロトコル**: SCP-004-CSへの全ての入り口から半径500mの地点には、有刺鉄線を備えた1000Vの電流の流れる2mの高さの電気柵が設けられ、さらにSCP-004-CSへの入り口から半径400mの地点には、5mの高さのコンクリート壁が設置されます。フェンスは毎週、損傷がないか点検される必要があります。コンクリート壁は、CCTVシステム、及び壁の内と外両方に、呼吸用マスクを装備した5人の警備員（各警備員の間隔は10～5m）によって常に監視されている必要があります。SCP-004-1-CS対象物は、全てSCP-004-CSを離れた直後に終了されます。もし壁が破壊された場合、警備員は、SCP-004-1-CSがフェンスに到達する前にその位置を把握し、終了する義務があります。SCP-004-1-CSがフェンスを突破した場合、Delta-XK-クラスシナリオが発生します。裁量によって、通常は2年おきに、SCP-004-CSに関する、「建設計画の着工」について通知されます。\n[[collapsible show=\"Delta-XK-クラスシナリオ時の手順\" hide=\"Delta-XK-クラスシナリオ時の手順\"]]\nDelta-XK-クラスシナリオが発生した場合、プラハとその周辺の生物の核兵器による完全な殲滅は、自動的に許可されます。生存者が居ないことが確認された後、プラハはSCP-███によって放射線を除去した後に再建され、市民のクローンが「投下」されます。都市の再建、及びクローンの「投下」後、世界中で█クラス記憶処理が行われます。 **全ての情報は、Delta-XK-クラスシナリオ発生時に公開状態になります**\n[[/collapsible]]\n**説明**: SCP-004-CSはプラハ地下鉄のD線です。SCP-004-CSにどのようにして異常性が発現したかは不明です。これらの異常性は、1995年█月██日に発現しました。SCP-004-CSは、SCP-004-1-CSを始点から終点までの区間で不規則に開放します。SCP-004-1-CSは、1995年█月██日から1995年█月██日までの間にSCP-004-CSに搭乗した人物であると推測されています。SCP-004-1-CSは、腐敗の進行した人間を連想させる外見の生物です。身体の完全に分解されてしまった部分は、プラハ地下鉄の一部分で置き換えられています。SCP-004-1-CSは、その物理的状態にかかわらず、最大25km/hの速度で移動し、500N以上の押圧力を発生させることが可能です。置き換えられた部品は、SCP-004-1-CSを物理的に強化する特性があります。SCP-004-1-CSは、半径50m以内に胞子を放出し、胞子を吸入した人物は、SCP-004-1-CSに変異します。 \n\n**補遺SCP-004-CS A**:\nSCP-004-CSの調査により、[データ削除済]のワゴンに存在するノート（おそらく、「リーダー」の日記）の存在が明らかになりました。\nノートの内容の抜粋:\n[[div class=\"page\"]]\n週: ████\n@@ @@\n[[=]]\n[[size 25px]] 攻撃開始前スピーチ：今日、私は君たちをここに集めて、これが地表のやつらの最後の週になることを*高らかに叫び*、表明する！まさに、その一週間で我々は皆、同胞であった市民によって放り込まれた、この場所から脱出するのだ！その一週間で、我々の経験した痛みや苦しみを、やつらに思い知らすことができるよう、全てを変革するのだ！[[/size]]\n@@ @@\n[[/=]]\nなんだってんだこれは\n[[/div]]\n\n9日後、5000体以上のSCP-004-1-CS対象が、東の[データ削除済]駅を突破し、Delta-XK-クラスシナリオが発令されました。\n\n**補遺SCP-004-CS B:**\nDelta-XK-クラスシナリオ時の手順が完了してから34日後、[データ削除済]から脱出したSCP-004-1-CSに対する身体検査が行われました。その結果、ポケットから紙切れが発見されました。内容は以下のとおりです。\n[[div class=\"page\"]]\n[[=]]\n[[size 25px]]//必ず戻ってきてやるからな。//[[/size]]\n[[/=]]\n@@ @@\n\n[[/div]]",
+  "tags": [
+    "cs",
+    "euclid",
+    "k-クラスシナリオ",
+    "scp",
+    "人間型",
+    "場所",
+    "注目の翻訳記事",
+    "黒"
+  ],
+  "author": "Nataliya_Kuznechov",
+  "created_at": "2019-09-24T20:20:25+00:00",
+  "updated_at": "2022-06-01T11:11:02+00:00",
+  "rating": 36,
+  "_site": "scp-jp",
+  "_fullname": "scp-004-cs"
+}

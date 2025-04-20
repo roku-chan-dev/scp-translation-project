@@ -1,0 +1,13 @@
+{
+  "title": "SCP-8221",
+  "content": "[[div style=\"display: none;\"]]\n[[include :scp-wiki-cn:theme:flopstyle]]\n[[/div]]\n[[div style=\"display: none;\" class=\"crom-thumbnail\"]]\n[[include component:image-block name=https://scp-wiki.wikidot.com/local--files/scp-8221/hisimage.jpg]]\n[[/div]]\n\n[[include :scp-wiki-cn:component:info-ayers\n|lang=cn\n|page=component:info-ayers\n|authorPage=trouts-authorpage\n|comments=\n\n> Look around this world we made\n> Equality our stock in trade\n> Come and join the brotherhood of man\n> Oh, what a nice contented world\n= (2112 - Rush)\n\n骚（少）灵音乐和人类纪元的终结 ]]\n[[module CSS]]\n\n[[include :scp-wiki-cn:component:centered-header-sigma-9]]\n[[module CSS]]\n :root {\n    --header-title: \"SCP基金会\";\n    --header-subtitle: \"战术神学部\";\n    --lgurl: url(https://scp-wiki.wdfiles.com/local--files/theme%3Aad-abyssum/Department%20of%20Tactical%20Theology%20Inverted%20Transparent.png);\n}\n[[/module]]\n\n[[div class=\"anchor\"]]\n\n\n[[div class=\"authorbox\"]]\n\n[[module ListPages name=\"=\"]]\n||~ %%title%% ||\n||**作者：**[[*user TroutMaskReplica]] ||\n[[/module]]\n\n[[/div]]\n[[/div]]\n\n[[div class=\"report-box\"]]\n+++* 基金会内部报告\n= **文档编号：**战术神学/2025-03-24/001\n= **权限等级：**4\n= **机密**\n----\n**优先级：**[[span class=\"terminal-span\"]]AMIDA[[/span]]\n\n**摘要：**战术神学部近期针对来世的研究发现全球人口统计中存在矛盾之处。自公元约33年起（即C†事件后），尽管人类宿主数量发生了指数级增长，但人类灵魂的总数量始终维持在约8亿。\n\n因此，真正的人类意识的数量将受限于不断转世的灵魂的数量，故而人口中占比相当高且在不断增长的一部分，实际上正由某种未知力量或神性实体驱动。此外，长期死后追踪研究显示，数千个原有灵魂未能转世，而是转化为了死后异常，或因驱魔而湮灭。（每年约占灵魂总数的0.00015%。）\n\n**重要发现：**\n\n* 对全球范围内的样本（N=100,000）进行的认知与神学侧写表明，缺乏应有的智慧自我认知特征的个体在统计上占比显著。（在基金会人员中占比约为63%。）此类个体外表正常，但在深层记忆维持方面具有明显反常之处。\n* 依当前出生率，基金会预计，截至2150年，由灵魂引导的人类占比将低至六分之一。\n \n**推荐措施：**\n\n* 立即将此现象归类为SCP-8221（项目等级：Keter），以进行持续研究和监控。\n* 对更多基金会人员进行认知测试，以评估运营风险。\n* 针对创造或复苏人类灵魂开展研究。\n* 若具备智慧的个体在人类总人口中的占比降至0.01%，尝试弑神。\n* 若人类不复作为自身文明的主导智慧物种，修改常态定义。\n\n[[>]]\n—— Tiana Mark Roseanne，战术神学部\n[[/>]]\n[[/div]]\n\n[[div class=\"footer-wikiwalk-nav\"]]\n[[=]]\n<< [[[SCP-8220]]] | SCP-8221 | [[[SCP-8222]]] >>\n[[/=]]\n[[/div]]\n\n[[include :scp-wiki-cn:component:license-box\n| author = TroutMaskReplica\n]]\n> **文件名：**hisimage.jpg\n> **图像名：**God the Father MET EP1444\n> **图像作者：**Giovanni Ambrogio Bevilacqua\n> **授权协议：**公有领域\n> **来源链接：**[https://commons.wikimedia.org/wiki/File:God_the_Father_MET_EP1444.jpg Wikimedia Commons]\n[[include :scp-wiki-cn:component:license-box-end]]",
+  "tags": [
+    "scp"
+  ],
+  "author": "LeeBr",
+  "created_at": "2025-04-02T09:45:21+00:00",
+  "updated_at": "2025-04-02T10:06:05+00:00",
+  "rating": 2,
+  "_site": "scp-wiki-cn",
+  "_fullname": "scp-8221"
+}

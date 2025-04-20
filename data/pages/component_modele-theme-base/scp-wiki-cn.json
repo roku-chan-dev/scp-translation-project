@@ -1,0 +1,14 @@
+{
+  "title": "版式模板 后端",
+  "content": "[[iftags +版式]]\n[[module css]]\n.heritage-rating-module{display:none!important}\n[[/module]]\n\n[[module ListPages name=\"=\"]]\n> @@[[include@@ %%fullname%%@@]]@@\n\n网站上的所有文章都应该使用上面的代码，但这在你的沙盒上不起作用！为此，你应该使用这个：\n\n> @@[[include :scp-wiki-cn:@@%%fullname%%@@]]@@\n[[/module]]\n------\n\n[[div class=\"exemples\"]]\n\n[[div style=\"display:{$notation}\"]]\n[[>]]\n[[module rate]]\n[[/>]]\n\n[[include :scp-wiki-cn:credit:start]]\n**标题：**随便啥文章\n**作者：**[[user random]]\n**创作日期：**年月日\n**图像：**Credits\n[[include :scp-wiki-cn:credit:end]]\n[[/div]]\n\n[[div style=\"display:{$image}\"]]\n[[include component:image-block name=http://fondationscp.wdfiles.com/local--files/host/logo-scp.svg|caption=占位图片。|width=200px]]\n[[/div]]\n\n[[div style=\"display:{$liens}\"]]\n[# 链接]\n[[module ListPages name=\"=\"]]\n[[[%%fullname%%|已访问的链接]]]\n[[/module]]\n[[[404|不存在的链接]]]\n[[/div]]\n\n[[div style=\"display:{$footnote}\"]]\n文字与脚注[[footnote]]脚注文本[[/footnote]]\n[[/div]]\n\n[[div style=\"display:{$titres1}\"]]\n+ 1级标题\n[[/div]]\n[[div style=\"display:{$titres2}\"]]\n+ 1级标题\n++ 2级标题\n[[/div]]\n[[div style=\"display:{$titres3}\"]]\n+ 1级标题\n++ 2级标题\n+++ 3级标题\n[[/div]]\n[[div style=\"display:{$titres4}\"]]\n+ 1级标题\n++ 2级标题\n+++ 3级标题\n++++ 4级标题\n[[/div]]\n[[div style=\"display:{$titres5}\"]]\n+ 1级标题\n++ 2级标题\n+++ 3级标题\n++++ 4级标题\n+++++ 5级标题\n[[/div]]\n[[div style=\"display:{$titres6}\"]]\n+ 1级标题\n++ 2级标题\n+++ 3级标题\n++++ 4级标题\n+++++ 5级标题\n++++++ 6级标题\n[[/div]]\n\n[[div style=\"display:{$onglets}\"]]\n~~~~\n@@@@\n[[tabview]]\n[[tab Tab]]\n这是一个tab。\n[[/tab]]\n[[tab 其他tab]]\n看，这有更多文字。\n\n惊喜感。\n[[/tab]]\n[[tab 长tab]]\n这是更长的tab。这有更多文字。\n\n这是更长的tab。这有更多文字。\n\n这是更长的tab。这有更多文字。\n\n这是更长的tab。这有更多文字。\n\n这是更长的tab。这有更多文字。\n\n这是更长的tab。这有更多文字。\n\n这是更长的tab。这有更多文字。\n\n这是更长的tab。这有更多文字。\n\n这是更长的tab。这有更多文字。\n\n这是更长的tab。这有更多文字。\n[[/tab]]\n[[tab 空tab]]\n[[/tab]]\n[[tab 空tab]]\n[[/tab]]\n[[tab 空tab]]\n[[/tab]]\n[[tab 空tab]]\n[[/tab]]\n[[tab 空tab]]\n[[/tab]]\n[[/tabview]]\n[[/div]]\n\n[[div style=\"display:{$citations}\"]]\n> 这是引用块，在一行的开头添加“>”以创建。\n> \n> 更多文字\n> -----\n> 水平分割线\n> \n>> 嵌套引用块\n[[/div]]\n\n[[div style=\"display:{$tableau}\"]]\n||~ 标题 ||~ 标题 ||~ 标题 ||\n|| 内容 || 内容 || 内容 ||\n|| 内容 |||| 长表格单元 ||\n|||||| 很长的表格单元 ||\n[[/div]]\n\n[[div style=\"display:{$footnote}\"]]\n[[footnoteblock title=\"脚注块\"]]\n[[/div]]\n\n------\n[[/div]]\n\n[[/iftags]]",
+  "tags": [
+    "fr",
+    "组件后端"
+  ],
+  "author": "Agent FS",
+  "created_at": "2024-05-24T03:52:39+00:00",
+  "updated_at": "2024-05-24T11:29:20+00:00",
+  "rating": 0,
+  "_site": "scp-wiki-cn",
+  "_fullname": "component:modele-theme-base"
+}

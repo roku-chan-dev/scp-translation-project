@@ -1,0 +1,14 @@
+{
+  "title": "소셜 북마크",
+  "content": "페이지에 \"소셜 북마크\" 버튼을 추가하는 법은 매우 쉽습니다 -- 그냥 (매개변수 없이){{@@[[social]]@@}}이라고 치면 아래와 같이 나옵니다.\n\n[[social blinklist,blogmarks,connotea,del.icio.us,digg,fark,feedmelinks,furl,linkagogo,newsvine,netvouz,reddit,simpy,spurl,wists,yahoomyweb,facebook]]\n\n이는 아래와 같습니다.\n\n[[code]]\n[[social blinklist,blogmarks,connotea,del.icio.us,digg,fark,feedmelinks,furl,linkagogo,newsvine,netvouz,reddit,simpy,spurl,wists,yahoomyweb,facebook]]\n[[/code]]\n\n선택된 서비스만 고를 수 있습니다. 예를들어, 디그,,digg,,, 펄,,furl,,, del.icio.us, 페이스북,,facebook,,을 사용하려면 아래처럼 입력하세요.\n\n[[code]]\n[[social digg,furl,del.icio.us,facebook]]\n[[/code]]\n\n그러면 이렇게 나옵니다.\n[[social digg,furl,del.icio.us,facebook]]\n\n**팁:** 소셜 북마크를 사용하세요! 글 아래쪽이나 사이드바 안에 소셜 아이콘을 넣는 것은 항상 좋은 아이디어입니다.",
+  "tags": [
+    "관리",
+    "안내"
+  ],
+  "author": "Dr Devan",
+  "created_at": "2015-02-05T15:32:12+00:00",
+  "updated_at": "2015-02-05T15:32:42+00:00",
+  "rating": 0,
+  "_site": "scpko",
+  "_fullname": "wiki-syntax:social-bookmarking"
+}

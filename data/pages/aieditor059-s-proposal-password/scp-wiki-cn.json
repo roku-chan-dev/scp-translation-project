@@ -1,0 +1,14 @@
+{
+  "title": "SCP-CN-001文档访问加密页",
+  "content": "@@@@\n@@@@\n@@@@\n[[module ListUsers\nusers=\".\"]]\n+ 您好，访问者%%title%%:\n[[/module]]\n> ++ 您当前登录的用户安保权限经确认大于等于0级，具有CN分部工作人员资质，拥有完全访问权限。请遵照要求完成身份验证程序。\n@@@@\n@@@@\n-----\n> ++++ 请输入您的工作编号:\n> **__@@*-*****@@__**\n> ++++ 请输入您个人的用户密码:\n> **__@@**************@@__**\n> ++++ 请输入您所在站点的通用员工密码:\n> **__@@********@@__**\n> ++++ 请输入验证码:[[<image V060K8.jpg width=\"132px\" height=\"28px\" ...]]\n> ++++ **__v060k8__**\n@@@@\n[[=]]\n[[note]]\n__[[[https://scp-wiki-cn.wikidot.com/aieditor059-s-proposal | 开始验证\n]]]__\n[[/note]]\n[[/=]]",
+  "tags": [
+    "原创",
+    "掩藏页"
+  ],
+  "author": "AIeditor059",
+  "created_at": "2016-12-31T05:18:53+00:00",
+  "updated_at": "2024-10-06T01:36:11+00:00",
+  "rating": 8,
+  "_site": "scp-wiki-cn",
+  "_fullname": "aieditor059-s-proposal-password"
+}

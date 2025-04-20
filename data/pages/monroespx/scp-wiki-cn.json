@@ -1,0 +1,14 @@
+{
+  "title": "门罗的艺作页",
+  "content": "[[>]]\n[[module rate]]\n[[/>]]\n\n[[include :scp-wiki-cn:theme:black-highlighter-theme]]\n[[include :scp-wiki-cn:theme:swirling-ashes]]\n[[include :scp-wiki:component:bhl-dark-sidebar]]\n\n[[module CSS]]\n:root {\n --header-title: \"SCP基金会\";\n --header-subtitle: \"控制，收容，保护\";\n}\n[[/module]]\n------\n\n这里是门罗，或者更女性化一点叫扪萝。入站一年多大概还是第一次说出自己的名字（写文不写自己人设，id名字又长又难记，难怪会变小透明啊。）\n\n在精进过技术后，我终于画出四张正儿八经的人设像素画[[footnote]]画布尺寸均为255×255px[[/footnote]]，于是有了这个艺作页。与通常见到的像素画可能不大一样，我更倾向于将它作为一种方便的上色方式。\n\n希望你会喜欢。\n \n------\n\n@@@@\n@@@@\n\n[[collapsible show=\"+ Joanne: 魔法奏乐\" hide=\"早期作品，算是黑历史了，凿海对不起啊……\"]]\n[[image http://scp-wiki-cn.wdfiles.com/local--files/zokhoi/Joanne-by-Monroe-Products.png]]\n\n[[/collapsible]]\n\n@@@@\n@@@@\n\n[[collapsible show=\"+ 柿饼企鹅: 夜间行动\" hide=\"大概……头上的企鹅形象还是挺明显吧？\"]]\n[[image  http://scp-wiki-cn.wikidot.com/local--files/monroe-products/2974DEA8-FCF6-4790-9006-C378903F15C9.jpeg]]\n\n[[/collapsible]]\n\n@@@@\n@@@@\n[[collapsible show=\"+极光娅：圣诞快乐 \" hide=\"好孩子会在睡醒时发现圣诞老人留下的礼物\"]]\n[[image http://scpsandboxcn.wikidot.com/local--files/monroesart/62D3BAD0-D703-49A9-B14A-7F42C7BC1DA6.png]]\n\n[[/collapsible]]\n\n@@@@\n@@@@\n\n[[collapsible show=\"+Reol.Monroe:  日常工作 \" hide=\"是我！我画的我！我超棒！\"]]\n[[image http://scp-wiki-cn.wikidot.com/local--files/monroe-products/0872B58D-E353-4181-96C7-881E60E83389.png ]]\n\n[[/collapsible]]",
+  "tags": [
+    "原创",
+    "艺术作品"
+  ],
+  "author": "Monroe Products",
+  "created_at": "2020-11-26T02:24:45+00:00",
+  "updated_at": "2020-11-26T02:25:04+00:00",
+  "rating": 35,
+  "_site": "scp-wiki-cn",
+  "_fullname": "monroespx"
+}

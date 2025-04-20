@@ -1,0 +1,14 @@
+{
+  "title": "版式模板",
+  "content": "[[iftags +组件 -版式]]\n\n这个模板允许在版式页面上更容易地包含必要的元素。\n\n+ 如何使用\n\n如果你的版式更改了页面元素，可以使用以下变量来显示最常出现的页面元素的示例。默认情况下，它们都是禁用的，所以你可以直接从[[include]]代码中删除无用的行；对于其他的，则保持其值为“block”。\n* **notation**：评分/著作信息模块。\n* **liens**：已访问、未访问和不存在的链接。\n* **footnote**：脚注。\n* **image**：许多SCP文章都会用到的[[[component:image-block|标准插图方块]]]。\n* **titres1/2/3/4/5/6**：1级、2级等标题（对应于前面“+”号的数量）。根据版式改变的多少添加相关的数字。**请不要同时使用几个不同的数字。**\n* **onglets**：分页（Tabview）。\n* **citations**：引用块，通常用于采访或探索记录。\n* **tableau**：表格。\n最重要的是，你可以添加主题更改的任何其他相关页面元素示例。\n\n[[div class=\"blockquote\"]]\n@@[[include :scp-wiki-cn:component:modele-theme@@\n|**notation**=block\n|**liens**=block\n|**footnote**=block\n|**image**=block\n|**titres1/titres2/titres3/titres4/titres5/titres6**=block\n|**onglets**=block\n|**citations**=block\n|**tableau**=block\n@@]]@@\n[[/div]]\n\n[[/iftags]]\n\n[[include :scp-wiki-cn:component:modele-theme-base\n|notation={$notation}\n|notation=none\n|liens={$liens}\n|liens=none\n|footnote={$footnote}\n|footnote=none\n|image={$image}\n|image=none\n|titres1={$titres1}\n|titres1=none\n|titres2={$titres2}\n|titres2=none\n|titres3={$titres3}\n|titres3=none\n|titres4={$titres4}\n|titres4=none\n|titres5={$titres5}\n|titres5=none\n|titres6={$titres6}\n|titres6=none\n|onglets={$onglets}\n|onglets=none\n|citations={$citations}\n|citations=none\n|tableau={$tableau}\n|tableau=none\n]]",
+  "tags": [
+    "fr",
+    "组件"
+  ],
+  "author": "Agent FS",
+  "created_at": "2024-05-24T03:56:13+00:00",
+  "updated_at": "2024-05-24T07:19:52+00:00",
+  "rating": 0,
+  "_site": "scp-wiki-cn",
+  "_fullname": "component:modele-theme"
+}

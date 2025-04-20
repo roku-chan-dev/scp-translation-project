@@ -1,0 +1,14 @@
+{
+  "title": "05452",
+  "content": "content: \"**説明:** 電源が繋がれていなくても「シビレ取ります」と表示し続ける電光掲示板。\\n**回収日:** 20██/██/██\\n**回収場所:** ███整骨院\\n**現状:** 検査の際、アイテム内部に有機物を検知。形状、大きさから牛や豚の膵臓だと推測される。現在調査中。\"\ntf2: '0'\nauthor: ''\nredirect-b: '[[module Redirect destination=\"http://ja.scp-wiki.net/log-of-anomalous-items-jp'\nredirect-e: '\"]]'",
+  "tags": [
+    "jp",
+    "剪定対象-子"
+  ],
+  "author": "nikumanjyu",
+  "created_at": "2024-12-27T12:30:34+00:00",
+  "updated_at": "2025-04-02T15:16:03+00:00",
+  "rating": 4,
+  "_site": "scp-jp",
+  "_fullname": "anomalous-jp:05452"
+}

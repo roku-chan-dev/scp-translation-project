@@ -1,0 +1,21 @@
+{
+  "title": "크리스크의 제안",
+  "content": "[[include info:start]]\n**SCP-001-KO:** 서장 - 장막의 골짜기(Prelude - Uncanny Vale)\n**저자:** [[*user Crssk]]\n----\n저작권 명시\n> |파일:memeticstrata.png\n> 출처: https://commons.wikimedia.org/wiki/File:Strata_(PSF).png\n> 원저자: Pearson Scott Foresman\n> 저작권: 퍼블릭 도메인\n\n> 보안 인가 css 1(1페이지)\n> 저작자: [[*user millive]] & [[*user Denevola]](하이퍼링크 관련 HTML 작업)\n> 저작권: CC BY-SA 3.0\n\n> 보안 인가 css 2(2페이지)\n> 원출처: http://www.scpwiki.com/scp-5935\n> 저작자: [[*user djkaktus]]\n> 저작권: CC BY-SA 3.0\n[[include info:end]]\n\n[[module ListPages  category=\"fragment\" parent=\".\" limit=\"1\" order=\"created_at\" offset=\"@URL|0\"]]\n%%content%%\n[[/module]]\n\n[!-- http://scpko.wikidot.com/fragment:crssk-s-proposal1 --]\n[!-- http://scpko.wikidot.com/fragment:crssk-s-proposal2 --]",
+  "tags": [
+    "001-제안",
+    "ko",
+    "scp",
+    "난해한-등급",
+    "밈적",
+    "밤의-아이들",
+    "비격리",
+    "특집",
+    "혼돈의-반란"
+  ],
+  "author": "Crssk",
+  "created_at": "2021-02-13T10:39:15+00:00",
+  "updated_at": "2022-10-02T08:00:11+00:00",
+  "rating": 60,
+  "_site": "scpko",
+  "_fullname": "crssk-s-proposal"
+}

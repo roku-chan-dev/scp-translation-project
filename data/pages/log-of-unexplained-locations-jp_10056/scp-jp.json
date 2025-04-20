@@ -1,0 +1,14 @@
+{
+  "title": "10056",
+  "content": "number: UE-265358-JP\ncontent: 毎朝午前6時20分に汽笛が響く山岳トンネル。音源は不明。稀に数分の遅れが生じる。\ndate: 19██-08-22\narea: 兵庫県██市\nprotocol: カバーストーリー「老朽化」を適用し封鎖。代替のトンネルが施工済み。\nredirect-b: '[[module Redirect destination=\"/log-of-unexplained-locations-jp'\nredirect-e: '\"]]'",
+  "tags": [
+    "jp",
+    "剪定対象-子"
+  ],
+  "author": "LRLG",
+  "created_at": "2021-02-12T17:02:05+00:00",
+  "updated_at": "2021-05-24T13:21:40+00:00",
+  "rating": 18,
+  "_site": "scp-jp",
+  "_fullname": "log-of-unexplained-locations-jp:10056"
+}

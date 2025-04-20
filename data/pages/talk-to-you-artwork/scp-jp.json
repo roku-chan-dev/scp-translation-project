@@ -1,0 +1,14 @@
+{
+  "title": "あくまで相談“役”だった。",
+  "content": "[[include :scp-jp:credit:start]]\n**タイトル:** あくまで相談“役”だった\n**著者:** [[*user Sakuraba N]]\n**作成年:** 2024\n[[include :scp-jp:credit:end]]\n[[module css]]\n#page-content .image-change-wrapper {\n  position: relative;\n  width: 100%;\n  max-width: 567px;\n  margin: 0 auto;\n  height: 850px;\n}\n\n#page-content .image-change-wrapper .image-base,\n#page-content .image-change-wrapper .image-top {\n  position: absolute;\n  width: 100%;\n  max-width: 567px;\n  top: 0;\n  left: 0;\n  transition: 1s ease-in-out;\n}\n\n#page-content .image-change-wrapper.step-start .image-top {\n  transition: 0.1s step-start;\n}\n\n#page-content .image-change-wrapper .image-top:hover {\n  opacity: 0;\n  transition: 3.5s ease-in-out;\n}\n[[/module]]\nそうだった、僕はただの[*http://scp-jp.wikidot.com/talk-to-you-jp 相談役]が欲しいって言った\n[[div class=\"image-change-wrapper\"]]\n[[image http://scp-jp-storage.wikidot.com/local--files/file:7743579-36-lk1w/IMG_1883.jpeg class=\"image-base\"]]\n[[image http://scp-jp-storage.wikidot.com/local--files/file:7743579-35-ftgl/IMG_1884.jpeg class=\"image-top\"]]\n[[/div]]",
+  "tags": [
+    "jp",
+    "アートワーク"
+  ],
+  "author": "Sakuraba N",
+  "created_at": "2024-09-22T00:52:32+00:00",
+  "updated_at": "2024-09-22T00:52:55+00:00",
+  "rating": 35,
+  "_site": "scp-jp",
+  "_fullname": "talk-to-you-artwork"
+}

@@ -1,0 +1,11 @@
+{
+  "title": "SCP-3932-JP",
+  "content": "[[include :scp-jp:theme:black-highlighter-theme]]\n\n[[module css]]\n.footnotes-footer {\ndisplay:none;\n}\n[[/module]]\n\n[[include credit:start]]\n**タイトル:** SCP-3932-JP - 急殺車\n**著者:** [[*user superyuri777]]\n**作成年:** 2023\n[[include credit:end]]\n\n[[include :scp-jp:component:anomaly-class-bar-source\n\n|item-number= 3932-JP\n\n|clearance= 4\n\n|container-class= keter\n\n|secondary-class= none\n\n|secondary-icon= http://urlhere.com\n\n|disruption-class= keneq\n\n|risk-class= danger\n\n]]\n\n**特別収容プロトコル:** その封じ込めの難しさから、SCP-3932-JPは現在収容不可能です。SCP-3932-JP-Aが目撃された場合はカバーストーリー「救急車の事故」を使用してください。\n\nSCP-3932-JP-Aは出来る限り早く破壊しなければなりません。ですが、破壊手段に5m以内に近づく破壊手段を使用しないでください。\n\n**説明:** SCP-3932-JPは、救急車のみが感染するウイルスです。SCP-3932-JPは電子顕微鏡を用いてでも視認することができず、ウイルスであるにも関わらず消毒・滅菌することはできません。また、SCP-3932-JPは破壊不可能です。\n\nSCP-3932-JPに感染した救急車(SCP-3932-JP-Aに指定する)は、感染してから6分後、SCP-3932-JPは自我を持ち始め、勝手にSCP-3932-JP-Aに付属しているサイレンが鳴り始めます。それから2分後、SCP-3932-JP-A内が人肉と思われる肉で満たされます[[footnote]]この時、内部にいた人物は全てSCP-3932-JP-Aの栄養分にされます。[[/footnote]]。そして、SCP-3932-JP-Aは本能で周りにいる人間を感知し、その対象に向かって約109kmの速さで走行し人間に衝突し殺害します。\n\nSCP-3932-JP-Aは、人間に衝突し殺害した後、SCP-3932-JP-Aにある捕食器官と思われる部分で殺害した人間を捕食します。SCP-3932-JP-Aは、人間を栄養分にします。\n\nSCP-3932-JP-Aは触れた車両を破壊します。\n\n**発見経緯:** SCP-3932-JPは、電子顕微鏡でも視認ないため、発見が困難です。SCP-3932-JPの発見経緯は、財団特製の顕微鏡[[footnote]]機材などは非公開[[/footnote]]によって発見できました。ですが、SCP-3932-JPはすでに世界中に感染拡大しているため、全ての収容よりできる限りの早期の破壊を優先しています。",
+  "tags": [],
+  "author": "superyuri777",
+  "created_at": "2023-01-11T10:20:24+00:00",
+  "updated_at": "2023-01-15T09:56:44+00:00",
+  "rating": -44,
+  "_site": "scp-jp",
+  "_fullname": "deleted:scp-3932-jp"
+}

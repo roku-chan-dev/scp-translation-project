@@ -1,0 +1,20 @@
+{
+  "title": "SCP-8069",
+  "content": "[[include :scp-wiki:theme:black-highlighter-theme]]\n[[include :scp-wiki:component:toggle-sidebar-bhl]]\n[[include :scp-wiki:component:rso]]\n\n[[include :scp-wiki:component:image-block\nname=https://upload.wikimedia.org/wikipedia/commons/thumb/c/c0/Zegar-Shortta.JPG/600px-Zegar-Shortta.JPG?20130311132726|\ncaption=SCP-8069。|\nwidth=260px|]]\n\n**项目编号：**SCP-8069\n\n**项目等级：**Euclid\n\n**特殊收容措施：**SCP-8069被挂于Site-41一间标准收容间内的墙面上。对项目的实验应于应用测时部的监督下进行。部署于当地楼市的基金会特工应确保周边八十英里范围内无畜牧农场存在。\n\n**描述：**SCP-8069指向一座肖特同步钟，1922-1956年间有限量生产的一种高精度时钟。钟表本身不可破坏，无法以基金会已知的任何方式对其造成损伤。SCP-8069表现出异常摆动情况，与中部夏令时间[[footnote]]**译注：**Central Daylight Time。美国中部地区和加拿大小部分地区于每年三月的第二个星期日至十一月的第一个星期日所采用的时区算法，较协调世界时（UTC）慢5个小时，又称UTC-5。[[/footnote]]（CDT）保持吻合。整点报时时，SCP-8069将产生类似猪的哼叫声而非常规的钟声。\n\nSCP-8069的主要异常性质表现为对范围八十英里内所有家猪（//Sus domesticus//）睡眠模式的显著影响。间隔数月的似乎随机时间，SCP-8069将终止其标准的异常性摆动，转变为一种无规律的胡乱摆动模式。此情形将毫不例外地使八十英里范围内所有家猪立即进入REM睡眠阶段，不论它们之前所在做的任何活动。SCP-8069持续进行上述无规律摆动直至所有猪同时醒来，此时SCP-8069将恢复至其原先标准模式。\n\nSCP-8069先前由PoI-011，Richard Chappell，亦即GoI-001（“[[[chicago-spirit|芝加哥鬼灵]]]”）领导人，所持有，于其办公室内墙面上被发现。PoI-011是否是造成SCP-8069异常性质的来源已无从考证。\n\n**附录8069.1：**采访记录\n\n以下记录为对编号为PoI-8069，PoI-011前同伴、GoI-001前成员的个体的采访记录。\n\n[[div class=\"addendum\"]]\n\n= **<<记录开始>>**\n\n//Dr. Francis Own进入问讯室，坐于桌前，面对被捆束的PoI-8069。SCP-8069被暂时置于房间内的一面侧墙上。//\n\n**Dr. Own：**问好，我的名字是Dr. Own。今天来只是想问你几个问题。\n\n**PoI-8069：**我不是卖人的家伙。\n\n**Dr. Own：**如果你持合作态度，我们可能能放你走。\n\n//PoI-8069把手指放在下巴上考虑着。//\n\n**PoI-8069：**我能拿到[[span class=\"ruby\"]]豆[[span class=\"rt\"]]dough[[/span]][[/span]]吗？\n\n//Dr. Own叹气。//\n\n**Dr. Own：**我能看看有什么能帮忙的。信我，我今天来的目的不会让你感到太有被冒犯的。\n\n**PoI-8069：**行，好吧。你问吧。\n\n**Dr. Own：**好。那么，你看见那口钟了吧？\n\n//Dr. Own指向SCP-8069。//\n\n**Dr. Own：**他原本是Richard Chappell的所有物。你知道他拿这玩意的用途吗？\n\n**PoI-8069：**噢，这是[[span class=\"ruby\"]]大迪克钟[[span class=\"rt\"]]Big Dick's clock[[/span]][[/span]]？我想我在哪里看见过它！对，他用它在特定的晚上确保所有猪都睡着了。我不确切它是如何奏效的，就我而言。\n\n**Dr. Own：**为什么他需要让猪睡着？我们没有记录表明他，嗯，涉足过任何动物畜牧之类的事情。\n\n//PoI-8069扬起眉毛，困惑地盯着Dr. Own。//\n\n**PoI-8069：**不是那种猪。\n\n//Dr. Own沉默了一段时间。//\n\n**Dr. Own：**你的意思是，比如......条子？\n\n**PoI-8069：**啊？草，为什么我会指到条子？\n\n**Dr. Own：**你还能指到什么？\n\n= **<<记录结束>>**\n\n[[/div]]\n\n访谈结束几小时后，基金会调查员梳理了PoI-011行迹并确认他曾拥有过几只荷兰猪（//Cavia porcellus//）。\n\n[[include :scp-wiki-cn:component:license-box\n|author=MisterFrown\n|translator=Tengurthy Clotsfoot\n]]\n\n[[div class=\"blockquote\"]]\n**名称：** File:Zegar-Shortta.JPG\n**作者：** Bori64\n**协议：** CC BY-SA 3.0\n**来源链接：** https://commons.wikimedia.org/wiki/File:Zegar-Shortta.JPG\n[[/div]]\n\n[[include :scp-wiki-cn:component:license-box-end]]",
+  "tags": [
+    "euclid",
+    "scp",
+    "不可摧毁",
+    "动物",
+    "家用物品",
+    "睡眠",
+    "自主",
+    "芝加哥鬼灵"
+  ],
+  "author": "Tengurthy Clotsfoot",
+  "created_at": "2024-04-13T12:36:29+00:00",
+  "updated_at": "2025-02-20T15:20:17+00:00",
+  "rating": 3,
+  "_site": "scp-wiki-cn",
+  "_fullname": "scp-8069"
+}

@@ -1,0 +1,21 @@
+{
+  "title": "SCP-3449",
+  "content": "[[include :scp-wiki-cn:credit:start-standalone]]\n**SCP-3449**：仍未说的事\n\n> 谨言慎语。\n\n对于那些不能访问倒数第二和最后一个迭代的多媒体元素的人，**[http://scp-wiki-cn.wikidot.com/scp-3449/offset/5 这里]**有那两页的转录版。\n\n**作者：** [[*user Captain Kirby]]\n[[include :scp-wiki-cn:credit:more-standalone]]\n++++ 你可能也喜欢：\n\n**[[[SCP-3002]]]** - 刺杀一个想法 [[*User MayD]]\n\n> {{我不知道这到底说明了什么，是她又回来了还是说只是些她记忆的残余。一些想法？有没有可能忘川计划还有我们没考虑到的副作用？我要确认这不会倒过来坑我们。注意一下。}}\n\n**[[[SCP-3959]]]** - 一切知识的想法 by [[*User Billith]]\n\n> 任何当前接触SCP-3959的媒体将开始自动删改自身信息，时长与其自身的复杂度直接相关。大部分信息会被标准的全平头Unicode遮盖，但也记录到过其他形式\n\n[[include :scp-wiki-cn:credit:end-standalone]]\n\n\n[!-- 编辑本页可能会在显示迭代时使代码混乱。如果你看到了一些需要修复的错误，请私聊作者（Captain Kirby）或译者（hoah2333）或是直接在讨论区评论。 --]\n\n[[module ListPages  category=\"fragment\" parent=\".\" limit=\"1\" order=\"created_at\" offset=\"@URL|0\"]]\n%%content%%\n[[/module]]\n\n[!-- 对于翻译者，这里是每个迭代的直接链接 --]\n[!-- http://scp-wiki-cn.wikidot.com/fragment:scp-3449-1 --]\n[!-- http://scp-wiki-cn.wikidot.com/fragment:scp-3449-2 --]\n[!-- http://scp-wiki-cn.wikidot.com/fragment:scp-3449-3 --]\n[!-- http://scp-wiki-cn.wikidot.com/fragment:scp-3449-4 --]\n[!-- http://scp-wiki-cn.wikidot.com/fragment:scp-3449-5 --]\n[!-- http://scp-wiki-cn.wikidot.com/fragment:scp-3449-6 --]\n[!-- 而且注意-6片段包含了音频和视频的转录，但它不作为原始文章的一部分 --]\n[!-- 想要使ListPages模块正确工作，先创建这个主页面，然后上传第一迭代并把它的父页面设置成第一页。给每个迭代重复这个操作。记住要把每个迭代底下的迭代链接改成你的站点的正确链接。 --]\n\n[[footnoteblock]]\n\n~~~~\n[[div class=\"footer-wikiwalk-nav\"]]\n[[=]]\n<< [[[SCP-3448]]] | SCP-3449 | [[[SCP-3450]]] >>\n[[/=]]\n[[/div]]",
+  "tags": [
+    "keter",
+    "meta",
+    "scp",
+    "听觉影响",
+    "模因",
+    "精神影响",
+    "视频",
+    "认知危害",
+    "音频"
+  ],
+  "author": "hoah2333",
+  "created_at": "2020-03-10T01:07:18+00:00",
+  "updated_at": "2021-03-11T01:53:54+00:00",
+  "rating": 5,
+  "_site": "scp-wiki-cn",
+  "_fullname": "scp-3449"
+}

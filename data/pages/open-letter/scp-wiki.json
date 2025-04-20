@@ -1,0 +1,18 @@
+{
+  "title": "OPEN LETTER TO US GOVERNMENT",
+  "content": "[[include :scp-wiki:info:start]]\n[[module CSS]]\n@import url('https://fonts.googleapis.com/css2?family=DynaPuff:wght@400..700&display=swap');\n#page-content p { font-family: Dynapuff;\n}\n#page-options-container {\n  background-color: black;\n  color: white;\n}\n.licensebox {\n  background-color: white;\n}\n[[/module]]\n[[=]]\n\nThink about it this way\nGuided evolution\nThis will be a new breed\nCutting edge but classic\n(Redesign Your Logo - Lemon Demon)\n\nOPEN LETTER TO US GOVERNMENT\n\n##purple|[https://scp-wiki.wikidot.com/trouts-authorpage Troutmaskreplica's author page]##\n[[/=]]\n[[include :scp-wiki:info:end]]\n\n[[module ListPages category=\"fragment\" parent=\".\" order=\"created_at\" limit=\"1\" offset=\"@URL|0\"]]\n%%content%%\n[[/module]]\n\n[!--\nFragments:\nhttps://scp-wiki.wikidot.com/fragment:open-letter-1\nhttps://scp-wiki.wikidot.com/fragment:open-letter-2\n--]\n@@ @@\n[[include :scp-wiki:component:license-box]]\n=====\n> **Filename:** gorgewashton.jpeg\n> **Name:** Gilbert Stuart Williamstown Portrait of George Washington\n> **Author:** Gilbert Stuart\n> **License:** Public Domain\n> **Source Link:** https://commons.wikimedia.org/wiki/File:Gilbert_Stuart_Williamstown_Portrait_of_George_Washington.jpg\n\n> **Filename:** amrica.png\n> **Name:** Flag of Chile\n> **License:** Public Domain\n> **Source:** https://commons.wikimedia.org/wiki/File:Flag_of_Chile.svg\n\n> **Filename:** money!!!.png\n> **Name:** Georgian new 5 lari avers\n> **License:** Public Domain\n> **Source:** https://commons.wikimedia.org/wiki/File:Georgian_new_5_lari_avers.png\n=====\n[[include :scp-wiki:component:license-box-end]]",
+  "tags": [
+    "_cc",
+    "_licensebox",
+    "_other",
+    "comedy",
+    "goi-format",
+    "totleighsoft"
+  ],
+  "author": "TroutMaskReplica",
+  "created_at": "2025-01-23T20:58:45+00:00",
+  "updated_at": "2025-03-29T16:30:22+00:00",
+  "rating": 22,
+  "_site": "scp-wiki",
+  "_fullname": "open-letter"
+}

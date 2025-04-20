@@ -1,0 +1,14 @@
+{
+  "title": "10095",
+  "content": "overview: 福井県南条郡███町を中心とした瞬間的に急激なヒューム値の変動が起こりました。この変動による地域への影響は不明です。しかし、住民への聞き取り調査により、発生日時に防災行政無線から「これはサワシロユキのテストです」と2回繰り返し放送されていたことが分かりました。放送を行った人物、およびサワシロユキなる人物を発見することは出来ませんでした。\nswdate: '1'\ndate: 2003年5月23日17時13分00秒\nswplace: '1'\nplace: 福井県南条郡███町\nswchaseprocedure: '1'\nchaseprocedure: 発生から10年間、当該地域内10か所にヒューム値測定を含む複数の測定機器を設置し観察を行います。\nswaddendum: '0'\naddendum: ''\ntf2: '1'\nauthor: NenRiki\nredirect-b: '[[module Redirect destination=\"/log-of-extranormal-events-jp'\nredirect-e: '\"]]'",
+  "tags": [
+    "jp",
+    "剪定対象-子"
+  ],
+  "author": "machikawa",
+  "created_at": "2020-07-24T11:48:17+00:00",
+  "updated_at": "2021-05-24T13:21:10+00:00",
+  "rating": 40,
+  "_site": "scp-jp",
+  "_fullname": "extranormal-events-jp:10095"
+}

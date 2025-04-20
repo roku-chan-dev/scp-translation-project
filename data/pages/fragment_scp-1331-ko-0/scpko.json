@@ -1,0 +1,14 @@
+{
+  "title": "fragment:SCP-1331-KO(0)",
+  "content": "[[include :scpko:theme:paperstack]]\n\n[[module css]]\n@import url('https://fonts.googleapis.com/css?family=Poor+Story');\n[[/module]]\n\n[[module css]]\n:root {\n--header-title: \" 🌧 \";\n--header-subtitle: \"ᅟ \";\n}\n[[/module]]\n\n[[div class=\"header-container\"]]\n[[div class=\"text-item\"]]\n[[span style=\"font-family: 'Poor Story' ;font-size: 18px;\"]]\n\" 비 오는 날에 \"\n[[/span]]\n[[/div]]\n[[/div]]\n\n[[=image %EB%B9%84%20%EC%98%A4%EB%8A%94%20%EB%82%A0%EC%97%90_003.png]]\n\n[[=image %EB%B9%84%20%EC%98%A4%EB%8A%94%20%EB%82%A0%EC%97%90_004.png]]\n\n[[=image %EB%B9%84%20%EC%98%A4%EB%8A%94%20%EB%82%A0%EC%97%90_005.png]]\n\n[[=image %EB%B9%84%20%EC%98%A4%EB%8A%94%20%EB%82%A0%EC%97%90_006.png]]\n\n[[=image %EB%B9%84%20%EC%98%A4%EB%8A%94%20%EB%82%A0%EC%97%90_007.png]]\n\n[[=image %EB%B9%84%20%EC%98%A4%EB%8A%94%20%EB%82%A0%EC%97%90_008.png]]\n\n[[=image %EB%B9%84%20%EC%98%A4%EB%8A%94%20%EB%82%A0%EC%97%90_009.png]]\n\n[[=image %EB%B9%84%20%EC%98%A4%EB%8A%94%20%EB%82%A0%EC%97%90_010.png]]\n\n[[=image %EB%B9%84%20%EC%98%A4%EB%8A%94%20%EB%82%A0%EC%97%90_011.png]]\n\n[[=image %EB%B9%84%20%EC%98%A4%EB%8A%94%20%EB%82%A0%EC%97%90_012.png]]\n\n[[=image %EB%B9%84%20%EC%98%A4%EB%8A%94%20%EB%82%A0%EC%97%90_013.png]]\n\n[[=image %EB%B9%84%20%EC%98%A4%EB%8A%94%20%EB%82%A0%EC%97%90_014.png]]\n\n[[=image %EB%B9%84%20%EC%98%A4%EB%8A%94%20%EB%82%A0%EC%97%90_015.png]]\n\n[[=image %EB%B9%84%20%EC%98%A4%EB%8A%94%20%EB%82%A0%EC%97%90_016.png]]\n\n[[=image %EB%B9%84%20%EC%98%A4%EB%8A%94%20%EB%82%A0%EC%97%90_017.png]]\n\n[[=image %EB%B9%84%20%EC%98%A4%EB%8A%94%20%EB%82%A0%EC%97%90_018.png]]\n\n[[=image %EB%B9%84%20%EC%98%A4%EB%8A%94%20%EB%82%A0%EC%97%90_019.png]]\n\n[[=image %EB%B9%84%20%EC%98%A4%EB%8A%94%20%EB%82%A0%EC%97%90_020n.png]]\n\n[[=image %EC%BD%94%EB%AF%B92.png]]\n\n[[=image %EB%B9%84%20%EC%98%A4%EB%8A%94%20%EB%82%A0%EC%97%90_021.png]]\n\n>\n> [[=]]\n> [http://scpko.wikidot.com/scp-1331-ko/offset/1 그리고...]\n> [[/=]]\n\n[[=]]\n[[module Rate]]\n[[/=]]\n\n\n[[footnoteblock]]",
+  "tags": [
+    "ko",
+    "조각문서"
+  ],
+  "author": "ttoy339",
+  "created_at": "2024-06-25T11:00:29+00:00",
+  "updated_at": "2024-06-25T11:11:51+00:00",
+  "rating": 0,
+  "_site": "scpko",
+  "_fullname": "fragment:scp-1331-ko-0"
+}

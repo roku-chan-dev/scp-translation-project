@@ -1,0 +1,14 @@
+{
+  "title": "good_vibrations’ Author Page",
+  "content": "__SCPs:__\n[[[scp-7164]]]\n[[[scp-7204]]]\n[[[scp-7675]]]\n\n\n__Tales:__\n[[[orange-colored-sky-1]]]\n[[[orange-colored-sky-2]]]\n\n[[html]]\n<!DOCTYPE html>\n<html>\n<head>\n<script>\nfunction clickCounter() {\n  if (typeof(Storage) !== \"undefined\") {\n    if (localStorage.clickcount) {\n      localStorage.clickcount = Number(localStorage.clickcount)+1;\n    } else {\n      localStorage.clickcount = 1;\n    }\n    document.getElementById(\"result\").innerHTML = \"You have clicked the button \" + localStorage.clickcount + \" time(s).\";\n  } else {\n    document.getElementById(\"result\").innerHTML = \"Sorry, your browser does not support web storage...\";\n  }\n}\n</script>\n</head>\n<body>\n\n<p><button onclick=\"clickCounter()\" type=\"button\">Click Me!</button></p>\n<div id=\"result\"></div>\n<p>Click the button to see an integer increase.</p>\n\n</body>\n</html>\n\n[[/html]]\n[[include :scp-wiki:component:license-box |author=good_vibrations]]\n[[include :scp-wiki:component:license-box-end]]",
+  "tags": [
+    "_licensebox",
+    "author"
+  ],
+  "author": "good_vibrations",
+  "created_at": "2023-11-23T12:17:53+00:00",
+  "updated_at": "2024-10-29T21:28:51+00:00",
+  "rating": 12,
+  "_site": "scp-wiki",
+  "_fullname": "goodvibrations-author-page"
+}

@@ -1,0 +1,18 @@
+{
+  "title": "SCP-5296",
+  "content": "[[>]]\n[[module Rate]]\n[[/>]]\n\n[[module ListPages  category=\"fragment\" parent=\".\" limit=\"1\" order=\"created_at\" offset=\"@URL|0\"]]\n%%content%%\n[[/module]]\n\n[!-- http://www.scp-wiki.net/fragment:scp-5296-1 --]\n[!-- http://www.scp-wiki.net/fragment:scp-5296-2 --]\n[!-- http://www.scp-wiki.net/fragment:scp-5296-3 --]\n\n~~~~\n\n[[footnoteblock]]\n\n[[div class=\"footer-wikiwalk-nav\"]]\n[[=]]\n<< [[[SCP-5295]]] | SCP-5296 | [[[SCP-5297]]] >>\n[[/=]]\n[[/div]]",
+  "tags": [
+    "_listpages",
+    "esoteric-class",
+    "ethics-committee",
+    "humanoid",
+    "intangible",
+    "scp"
+  ],
+  "author": "Tracque_",
+  "created_at": "2020-03-30T18:34:13+00:00",
+  "updated_at": "2021-07-30T18:04:45+00:00",
+  "rating": 90,
+  "_site": "scp-wiki",
+  "_fullname": "scp-5296"
+}

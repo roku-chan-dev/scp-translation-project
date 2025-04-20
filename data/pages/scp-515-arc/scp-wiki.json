@@ -1,0 +1,20 @@
+{
+  "title": "SCP-515-ARC",
+  "content": "[[>]]\n[[module Rate]]\n[[/>]]\n\n> //The page was marked for deletion; however, because certain pages on the site depend on knowledge of this article—usually tales or supplements—it has been retained. The following articles/stories make reference to this page://\n> \n> * [[[duke-till-dawn|Duke 'till Dawn]]]\n> * [[[incident-239-b-clef-kondraki|Incident 239-B - Clef-Kondraki]]]\n> \n> //For more information on Archived SCPs, please check out the [[[Archived SCPs | Archived Pages]]] hub.//\n\n[[include component:image-block name=636px-Nikon_d3_1.jpg|caption=SCP-515, flash removed during testing.|width=300px]]\n\n**Item #:** SCP-515-ARC\n\n**Object Class:** Safe\n\n**Special Containment Procedures:** SCP-515 is currently under investigation and study, requiring Level 4 clearance to request access to it. Otherwise, SCP-515 is to be maintained on Dr. Kondraki's person, or amongst his personal belongings.\n\n**Description:** SCP-515 appears to be a highly customized Nikon D3, with its casing redesigned and remodeled out of [[[SCP-143]]]. A large external flash is attached to the top of the device, utilizing a flash-heat system connected to a clear glass container of [[[SCP-295]]]-1. The body of the device is labeled as \"Obraz xIII\".\n\nThe image sensor has been replaced by a lattice of cells removed from [[[SCP-408]]], which still retains hive mind qualities when in the proximity of 408’s main swarm. This allows voice command over the capture of the photo, along with almost infinite photo definition. The shutter and sensor have also been developed using the information discerned from reverse engineering of [[[SCP-698]]]. By reversing the method of SCP-698’s function, the device is capable of recording an image without relying on light, instead focusing on a subject’s [DATA EXPUNGED]. This allows capture of subjects previously considered impossible to photograph. SCP-515’s flash mechanism is capable of causing second to third degree burns at close range, as well as inducing temporary blindness. The flash is capable of staying on at a lower intensity, acting as an extremely high power lantern. SCP-515’s flash is also capable of completely disabling other photographic devices by overloading their sensors to the point of permanent damage.\n\nSCP-515 was developed by Dr. █████ Kondraki during his off hours at Site 17. While trying to improve imaging technology to better aid his work with SCPs, he concocted the concept of using SCP technology with his camera. The end result is what may be the most powerful camera known to man. O5-█ has expressed annoyance at another example of cross-SCP exploitation, but concedes that it was done in the interest of the Foundation. Cross SCP experimentation to capture the appearance of several invisible or unviewable SCP objects is pending approval.\n\n**Addendum 515-A:** Following the Clef-Kondraki incident involving [[[SCP-239]]], SCP-515 has been taken into custody by OS-█ until further notice. This action was authorized after logs revealed SCP-515 capable of overriding and controlling Site 17's surveillance system.\n\n**Addendum 515-Ax:** After requesting Dr. Kondraki to demonstrate this quality, he was able to manipulate and redirect security camera footage throughout Site-17. Additionally, SCP-515 was able to manipulate several other cameras as well, including a disposable Kodak and the polaroid belonging to [[[SCP-105]]]. Testing with camera-like SCP objects is under consideration\n\n[[include :scp-wiki:component:license-box]]\n=====\n> **Filename:** 636px-Nikon_d3_1.jpg\n> **Name:** Nikon d3 1.jpg\n> **Author:** \tImm808\n> **License:** CC BY 3.0\n> **Source Link:** [https://commons.wikimedia.org/wiki/File:Nikon_d3_1.jpg Wikimedia Commons]\n=====\n[[include :scp-wiki:component:license-box-end]]",
+  "tags": [
+    "_cc",
+    "_licensebox",
+    "archived",
+    "light",
+    "safe",
+    "scp",
+    "thermal",
+    "tool"
+  ],
+  "author": "Dr Kondraki",
+  "created_at": "2008-11-05T15:32:14+00:00",
+  "updated_at": "2024-04-23T17:07:25+00:00",
+  "rating": 65,
+  "_site": "scp-wiki",
+  "_fullname": "scp-515-arc"
+}

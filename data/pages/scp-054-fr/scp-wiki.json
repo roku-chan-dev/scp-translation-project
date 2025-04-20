@@ -1,0 +1,19 @@
+{
+  "title": "SCP-054-FR",
+  "content": "[[module CSS]]\n.scp-image-block {\n   display: none;\n}\n[[/module]]\n\n[[include :scp-int:scp-054-fr]]",
+  "tags": [
+    "_fr",
+    "aquatic",
+    "euclid",
+    "international",
+    "predatory",
+    "scp",
+    "self-replicating"
+  ],
+  "author": "INT_Translator",
+  "created_at": "2018-10-24T05:43:57+00:00",
+  "updated_at": "2022-10-05T06:20:43+00:00",
+  "rating": 48,
+  "_site": "scp-wiki",
+  "_fullname": "scp-054-fr"
+}

@@ -1,0 +1,17 @@
+{
+  "title": "SCP-405-J",
+  "content": "[[>]]\n[[module rate]]\n[[/>]]\n\n**Item #:** SCP-405-J\n\n**Object Class:** Keter\n\n**Special Containment Procedures:** All Foundation sites are currently under lockdown protocol. No personnel are to leave their current location.\n\nDue to the unknown cause of SCP-405-J, personnel are to be cautious and not interact with anything unfamiliar they encounter in their working environment. Personnel are to maintain regular communication via personal electronic devices for the time-being. \n\n**Description:** SCP-405-J refers to an ongoing event in which 445 Foundation personnel have been discovered deceased throughout a majority of Foundation sites worldwide. All casualties were of clearance level three or lower; the nature of this correlation has yet to be determined.\n\n**Update:** As of 23:45 hours (EST) today, 750 personnel have been effected by SCP-405-J.\n\n**Update.2:** SCP-405-J appears to have ceased activity at 00:00 hours (EST). Lockdown has been lifted. The total death toll is recorded at 890.\n\n**Addendum:** SCP-405-J has been reclassified as Explained.\n\nPost-investigation revealed that all Foundation personnel found deceased had been accessing the Foundation Archive via an electronic device. In all instances, personnel had been granted access to SCP-001, resulting in exposure to the page’s memetic kill agent.\n\nThe indirect cause of this event was revealed to be the following line of code found in the Foundation’s digital archive system:\n\n[[collapsible show=\"Access Code\" hide=\" \"]]\n> {{/random:random-page}}\n\nAll documentation tagged as [[[https://scp-wiki.wikidot.com/system:page-tags/tag/memetic|potentially]]] [[[https://scp-wiki.wikidot.com/system:page-tags/tag/cognitohazard|lethal]]] has been blacklisted from the command's page output.\n[[/collapsible]]",
+  "tags": [
+    "foundation-made",
+    "joke",
+    "keter",
+    "online",
+    "scp"
+  ],
+  "author": "Penton",
+  "created_at": "2023-05-31T20:14:38+00:00",
+  "updated_at": "2023-07-13T21:16:40+00:00",
+  "rating": 38,
+  "_site": "scp-wiki",
+  "_fullname": "scp-405-j"
+}

@@ -1,0 +1,23 @@
+{
+  "title": "Only Once Away My Son",
+  "content": "[[include theme:scp-trans-pride |trans-pride-logo= --] |trans-pride-footer= --]]]\n\n[!--\nFragment list:\nhttps://scp-wiki.wikidot.com/fragment:only-once-away-my-son-1\nhttps://scp-wiki.wikidot.com/fragment:only-once-away-my-son-2\nhttps://scp-wiki.wikidot.com/fragment:only-once-away-my-son-3\nhttps://scp-wiki.wikidot.com/fragment:only-once-away-my-son-4\nhttps://scp-wiki.wikidot.com/fragment:only-once-away-my-son-5\n--]\n\n[[module ListPages category=\"fragment\" parent=\".\" limit=\"1\" order=\"created_at\" offset=\"@URL|0\"]]\n%%content%%\n[[/module]]\n@@ @@\n[[include :scp-wiki:component:license-box]]\n[!-- N/A (No Images)  --]\n[[include :scp-wiki:component:license-box-end]]",
+  "tags": [
+    "_licensebox",
+    "_listpages",
+    "bleak",
+    "cosmic-horror",
+    "horror",
+    "legal",
+    "metafiction",
+    "psychological-horror",
+    "researcher-talloran",
+    "surrealism",
+    "tale"
+  ],
+  "author": "Decibelles",
+  "created_at": "2017-12-05T06:22:31+00:00",
+  "updated_at": "2024-11-30T03:20:48+00:00",
+  "rating": 75,
+  "_site": "scp-wiki",
+  "_fullname": "only-once-away-my-son"
+}

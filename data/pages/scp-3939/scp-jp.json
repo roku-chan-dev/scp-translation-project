@@ -1,0 +1,22 @@
+{
+  "title": "SCP-3939",
+  "content": "[[>]]\n[[module Rate]]\n[[/>]]\n\n[!--\n翻訳者へのお知らせ\n\nこのページは、「枠を出現させる構文」+「ページを遷移する構文」で構成されています。\n\n子ページを0から66まで順番を守って作成した上で、親ページにこの2つの構文を貼り付けると、ページが完成します。\n\nそれでは、SCP-3939、スタート！\n\n--]\n\n[[module CSS]]\n:root { --swatch-primary: 187, 0, 17; }\n.story {\n  clear: both; border: 3px black solid; padding: calc(20px - 1em) 0 20px 0;\n}\n.story p {\n  margin-left: 20px; margin-right: 20px;\n}\n.choices {\n  clear: both;\n}\n.choices a {\n  height: 30px; border: 1px solid #b01; border: 1px solid rgb(var(--swatch-primary)); border-right: 1px solid transparent; line-height: 30px; position: relative; background: white; z-index: 8; margin-bottom: 0.5em; float: left; clear: both; padding-left: 7px; margin-left: 20px; margin-right: 20px\n}\n.choices a::before {\n  content: \"\"; position: absolute; border: 16px solid transparent; border-left: 16px solid #b01; border-left: 16px solid rgb(var(--swatch-primary)); right: -33px; top: -1px; z-index: 6;\n}\n.choices a::after {\n  content: \"\"; position: absolute; border: 15px solid transparent; border-left: 15px solid white; right: -31px; top: 0; z-index: 7;\n}\n.choices p {\n  clear: both; height: 30px; margin: 0 0 0 0;\n}\n.footer-wikiwalk-nav {\n  margin-top: 50px;\n}\n.footer-wikiwalk-nav a:nth-of-type(2) {\n  color: black !important;\n}\nspan, a {\n  word-break: normal !important;\n}\n@media (max-width: 580px) {\n  .choices a {\n    line-height: initial !important; margin-left: 10px !important; margin-right: 30px !important;\n  }\n}\n[[/module]]\n\n[[module ListPages category=\"fragment\" parent=\".\" limit=\"1\" order=\"created_at\" offset=\"@URL|0\"]]\n%%content%%\n[[/module]]",
+  "tags": [
+    "en",
+    "safe",
+    "scp",
+    "インタラクティブ",
+    "ミーム",
+    "メタ",
+    "敵対的",
+    "概念",
+    "知性",
+    "語り"
+  ],
+  "author": "Imerimo",
+  "created_at": "2021-01-23T16:24:32+00:00",
+  "updated_at": "2024-02-21T12:27:50+00:00",
+  "rating": 68,
+  "_site": "scp-jp",
+  "_fullname": "scp-3939"
+}

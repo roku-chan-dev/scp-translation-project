@@ -1,0 +1,17 @@
+{
+  "title": "Cat In A Box",
+  "content": "[!--\nPlease do not edit this page or any of its child pages. If you spot a spelling or grammar error, please leave a comment about it on the discussion page.\n--]\n\n[[>]]\n[[module Rate]]\n[[/>]]\n\n[!--\nFragment pages:\nhttps://scp-wiki.wikidot.com/fragment:cat-in-a-box-1\nhttps://scp-wiki.wikidot.com/fragment:cat-in-a-box-2\n--]\n\n[[module ListPages category=\"fragment\" parent=\".\" limit=\"1\" order=\"created_at\" offset=\"@URL|0\"]]\n%%content%%\n[[/module]]\n\n[[include :scp-wiki:component:license-box]]\n[!-- N/A (No Images)  --]\n[[include :scp-wiki:component:license-box-end]]",
+  "tags": [
+    "_licensebox",
+    "_listpages",
+    "d-con2016",
+    "interactive",
+    "tale"
+  ],
+  "author": "LurkD",
+  "created_at": "2016-09-18T21:59:26+00:00",
+  "updated_at": "2022-10-24T17:12:16+00:00",
+  "rating": 114,
+  "_site": "scp-wiki",
+  "_fullname": "cat-in-a-box"
+}

@@ -1,0 +1,14 @@
+{
+  "title": "author-page",
+  "content": "||~ Title ||~ Co-author/s ||\n||[[[scp-739 | SCP-739: A Mirrored Booth]]] || [[*user Sirens]] ||\n||[[[scp-6488 | SCP-6488: EIGHTH COMMANDMENT]]] || [[*user Placeholder McD]] [[*user Liryn]] ||\n||[[[scp-7382 | SCP-7382: The Man, The Myth, And The Legend]]] || [[*user Nickthebrick1]] ||\n||[[[abraka-davids-proposal | Abraka David's Proposal - A Peak Behind the Curtain]]] || [https://scp-wiki.wikidot.com/forum/t-16435891/abraka-davids-proposal#post-6237674 Full list in the author post.] ||\n\n[[module ListPages created_by=\"=\" order=\"*\" tags=\"-fragment\" category=\"*\" perPage=\"100\" separate=\"no\" prependLine=\"||~ Title ||~ Rating ||~ Comments ||\"]]\n|| %%title_linked%% || %%rating%% || %%comments%% ||\n[[/module]]",
+  "tags": [
+    "_cc",
+    "author"
+  ],
+  "author": "Jack Ike",
+  "created_at": "2022-09-23T22:28:15+00:00",
+  "updated_at": "2024-12-01T05:31:34+00:00",
+  "rating": 24,
+  "_site": "scp-wiki",
+  "_fullname": "author-page"
+}

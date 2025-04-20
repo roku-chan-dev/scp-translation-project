@@ -1,0 +1,18 @@
+{
+  "title": "谨贺新年",
+  "content": "[[include :scp-jp:component:jstyles]]\n\n[[module css]]\n@import url(http://scp-jp-sandbox3.wikidot.com/draft:3282741-93-bd45/code/1);\n@import url('https://fonts.googleapis.com/css2?family=Noto+Serif+SC:wght@600&display=swap');\n\n.nengajyo {\nfont-family: 'Noto Serif SC', 'Libre Baskerville', 'Sawarabi Mincho', serif;\nfont-size: large;\nborder: thick solid #d00;\npadding: 20px;\ntext-align: center;\n}\n\ndiv#header h1 a::before {\n    content: \"谨贺新年\";\n    font-family: 'Noto Serif SC', 'Libre Baskerville', 'Sawarabi Mincho', serif;\n}\n\ndiv#header h2::after {\n    content: \"SCP基金会日语分部\";\n    font-family: 'Noto Serif SC', 'Libre Baskerville', 'Sawarabi Mincho', serif;\n}\n[[/module]]\n\n[[include :scp-wiki-cn:credit:start-standalone]]\n**标题:** 謹賀新年\n**著者:** ©︎[[*user hitsujikaip]]\n**作成年:** 2021\n[[include :scp-wiki-cn:credit:end-standalone]]\n\n[[div class=\"nengajyo\"]]\n\n[[div class=\"vpoem\"]]\n谨贺新年\n[[/div]]\n\n------\n\n新年快乐\n\n今岁也请多关照\n\n──令和叁年元旦　[[*user hitsujikaip]]\n\n[[/div]]\n[[=]]\n[[size 200%]]\n**[[[scp-1111-jp-nue|日本支部理事「鵺」]]]**\n[[/size]]\n\n[[=image http://scp-jp-storage.wikidot.com/local--files/file:6611312-54-rpxs/1034D61E-D5FC-441B-816B-F10883731838.png]]\n\n[[size 200%]]\n**{{[[[o5-command-dossier|O5-11:\"寮头\"]]]^^The Bureaucrat^^}}和[http://scp-jp.wikidot.com/system:page-tags/tag/%E9%B5%BA-%E6%96%8E%E5%AE%AE#pages 鵺:\"斋宫\"]**\n[[/size]]\n\n[[=image http://scp-jp-storage.wikidot.com/local--files/file:6611312-55-iqss/2D41AC22-AF6A-4FCB-94D8-A1D5A7564492.png]]\n\n[[size 200%]]\n**“ 谁？”**\n[[/size]]\n\n[[=image http://scp-jp-storage.wikidot.com/local--files/file:6611312-56-uge4/A07BE9AD-1FE0-4780-A1AC-90093C2E70AA.png]]\n\n[[size 200%]]\n**机动特遣部队い-0(\"零号部队\")**\n[[/size]]\n\n[[=image http://scp-jp-storage.wikidot.com/local--files/file:6611312-57-nky9/MTF81.svg]]\n\n[[size 200%]]\n**基金会琉球支部标志**\n[[/size]]\n\n[[=image http://scp-jp-storage.wikidot.com/local--files/file:6611312-58-mtfx/SCPRYU.svg]]\n\n[[size 200%]]\n**天皇、贺茂相忌、安倍晴明**\n[[/size]]\n\n[[=image http://scp-jp-storage.wikidot.com/local--files/file:6611312-59-fp3r/24808C8F-ED4F-46D2-80FF-039EB2D9E5B6.jpeg]]\n\n[[/=]]\n\n------\n\n**标题:** [[[scp-1111-jp-nue|日本支部理事「鵺」]]]\n**著者:** ©︎[[*user hitsujikaip]]\n**作成年:** 2020\n\n**标题:** [[[scp-2050-jp|SCP-2050-JP - 誰]]]\n**著者:** ©︎[[*user Mistertako]]\n**作成年:** 2020\n\n**标题:** [[[qingtan-recent-politics|最近の政治で面白いと思ったことなど]]]\n**著者:** ©︎[[*user hitsujikaip]]\n**公開年:** 2020\n\n**标题:** [[[task-forces-jp|机动特遣部队-JP]]]\n**著者:** ©︎[[*user CheshireCheese]] //等等。//\n**作成年:** 2013\n\n**标题:** [[[parade|パレード──五行推参]]]\n**著者:** ©︎[[*user hey_kounoike]]\n**作成年:** 2019",
+  "tags": [
+    "jp",
+    "五行结社",
+    "扶桑纪",
+    "艺术作品",
+    "蒐集院",
+    "鵺-斋宫"
+  ],
+  "author": "Etinjat",
+  "created_at": "2021-01-01T14:46:47+00:00",
+  "updated_at": "2024-05-16T13:15:59+00:00",
+  "rating": 6,
+  "_site": "scp-wiki-cn",
+  "_fullname": "2021-hitsujikaip"
+}

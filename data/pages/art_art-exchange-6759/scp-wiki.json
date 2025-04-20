@@ -1,0 +1,17 @@
+{
+  "title": "Art Exchange 2023 | SCP-6759",
+  "content": "[[include :scp-wiki:theme:black-highlighter-theme]]\n[[include :scp-wiki:component:toggle-sidebar-bhl]]\n[[include :scp-wiki:component:fade-in speed=1]]\n\n[[include :scp-wiki:info:start]]\n= **>> [[[MontagueETC|MontagueETC's Author Page]]] <<**\n[[include :scp-wiki:info:end]]\n\n@@ @@\n\n[[=]]\n\n[[image TheCrux.png]]\n\n[[/=]]\n\n@@ @@\n\n> An art exchange gift for [[*user Anky swallow]], representing \"The Crux\" from [[[SCP-6759]]].\n\n@@ @@\n\n----\n[[include :scp-wiki:component:wikimodule |normal= --]]]\n----\n\n[[include :scp-wiki:component:license-box]]\n=====\n> **Filename:** Artistic Anomalies Department (Inverted).png\n> **Author:** [[*user MontagueETC]]\n> **License:** CC BY-SA 3.0\n> **Derivative of:**\n> ----\n> **Name:** Artistic Anomalies Department\n> **Author:** [[*user EstrellaYoshte]]\n> **License:** CC BY-SA 3.0\n> **Source Link:** [[[desk-of-junior-designer-s-yvonne | Desk of Junior Designer S. Yvonne]]]\n=====\n> **Filename:** TheCrux.png\n> **Author:** [[*user MontagueETC]]\n> **License:** CC BY-SA 3.0\n> **Derivative of:**\n> ----\n> **Name:** In Everyday Use\n> **Author:** [[[https://www.flickr.com/people/carbonnyc/ | David Goehring]]]\n> **License:** CC BY 2.0\n> **Source Link:** [[[https://www.flickr.com/photos/carbonnyc/5757504378/ | Flickr]]]\n> ----\n> **Name:** British Library digitised image from page 137 of \"Title\"\n> **Author:** [[[https://www.flickr.com/people/britishlibrary/ | British Library]]]\n> **License:** Public Domain\n> **Source Link:** [[[https://www.flickr.com/photos/britishlibrary/11307049525 | Flickr]]]\n> ----\n> **Name:** James P\n> **Author:** [[[https://www.flickr.com/people/varrqnuht/ | John Dalton]]]\n> **License:** CC BY 2.0\n> **Source Link:** [[[https://www.flickr.com/photos/varrqnuht/8072293955/ | Flickr]]]\n> ----\n> **Name:** Brick wall \n> **Author:** [[[https://www.flickr.com/people/opengridscheduler/ | Open Grid Scheduler / Grid Engine]]]\n> **License:** Public Domain\n> **Source Link:** [[[https://www.flickr.com/photos/opengridscheduler/19481370523/ | Flickr]]]\n> ----\n> **Name:** Star\n> **Author:** [[[https://www.flickr.com/people/modular_dodecahedron/ | Kerstin]]]\n> **License:** CC BY-SA 2.0\n> **Source Link:** [[[https://www.flickr.com/photos/modular_dodecahedron/31774868253/ | Flickr]]]\n> ----\n> **Name:** Phoebis neocypris rurina\n> **Author:** [[[https://flickr.com/people/aucklandmuseum_collections/ | Auckland Museum Collections]]]\n> **License:** CC BY 2.0\n> **Source Link:** [[[https://flickr.com/photos/aucklandmuseum_collections/48723624646/ | Flickr]]]\n=====\n[[include :scp-wiki:component:license-box-end]]\n\n[[module CSS]]\n\n:root{\n\n  --logo-image: url(\"https://scp-wiki.wdfiles.com/local--files/art%3AMontagueETC-sciptember-2022/Artistic%20Anomalies%20Department%20%28Inverted%29.png\");\n}\n\n[[/module]]",
+  "tags": [
+    "_licensebox",
+    "art-exchange",
+    "artwork",
+    "image-editing",
+    "scp-art"
+  ],
+  "author": "MontagueETC",
+  "created_at": "2023-12-29T17:39:23+00:00",
+  "updated_at": "2024-03-28T18:38:07+00:00",
+  "rating": 20,
+  "_site": "scp-wiki",
+  "_fullname": "art:art-exchange-6759"
+}

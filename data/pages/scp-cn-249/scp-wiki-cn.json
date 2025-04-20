@@ -1,0 +1,18 @@
+{
+  "title": "SCP-CN-249",
+  "content": "[[include :scp-wiki-cn:theme:black-highlighter-theme]]\n[[include :scp-wiki:component:toggle-sidebar-bhl]]\n[[include :scp-wiki-cn:theme:clock-tower]]\n[[include :scp-wiki-cn:credit:start]]\n**SCP-CN-249：**夜半梦境\n\n**作者：**[[*user Diamond_Apple]]\n\n图片来源：https://commons.wikimedia.org/wiki/File:Horror_in_Montalbano.jpg\n\n[http://scp-wiki-cn.wikidot.com/never-try-to-eat-diamond-apple 点击以传送至人事页( σ'ω')σ]\n[[include :scp-wiki-cn:credit:end]]\n\n[[table style=\"border: none; width: 100%;\"]]\n[[row]]\n[[cell]]\n[[size 100%]]**项目编号：**SCP-CN-249[[/size]]\n[[/cell]]\n[[cell style=\"text-align: right;\"]]\n[[size 100%]]**LEVEL3级**[[/size]]\n[[/cell]]\n[[/row]]\n[[row]]\n[[cell]]\n[[size 100%]]**项目等级：**Keter[[/size]]\n[[/cell]]\n[[cell style=\"text-align: right;\"]]\n[[size 100%]]**机密**[[/size]]\n[[/cell]]\n[[/row]]\n[[/table]]\n**特殊收容措施：**由于SCP-CN-249广泛分布的性质，主动收容措施难以进行。当前的收容工作致力于追踪与抹除可能存在的信息泄露，并密切关注梦游行为导致的失踪事件。\n\n**描述：**SCP-CN-249表现为一扇形态不定的房门，总以锁定状态出现在偏僻的位置。这一位置通常为平直的墙壁，偶有桥洞等明显不应该出现房门的地点。无论其外观与材质，有一行文字始终显现其上，且内容从未改变，即：\n> 请避免独自入睡\n> 所有的门都将在夜里打开\n\n此后的第一夜，SCP-CN-249将开启，它的背后是一片无法被照亮的区域。但对于清醒的实地观察者，项目仍是关闭且不可进入的。同时，以项目为中心，半径600米以内的人类都将陷入异常的梦境，即CN-249-A。无论梦境内容，CN-249-A的结束总是伴随着急速下坠的主观感受，个体将在稍后醒来，并丧失大部分梦境记忆。此刻通常为夜半时分。\n\n后续催眠疗法显示，所有的暴露者都在CN-249-A中遭遇了极端恐怖压抑的场景，且其潜意识中存在对房屋、天空、门窗、转角以及镜面的非理性恐惧，未知这种恐惧是否源于梦中遭遇。\n[[include component:image-block name=http://scpsandboxcn.wikidot.com/local--files/show/dream|width=150px|caption=从CN-249-A中获得的图像，可能为人类上半身，亦或是房屋的间隙]]\n通过分析大量的统计数据，CN-249-A被认为具有以下不可复制的特点，即这些场景在正常梦境中绝无可能出现：\n* 目睹已逝之人复生\n* 发现夜空中月亮消失不见\n* 在镜中看到不止一个自己的面孔，无论是否与清醒时相同\n* 在梦中“醒来”，而后发现自己仍身处梦境\n* 察觉到过多的位置没有被照亮\n* 身处现实之中存在的地点，但场景之间的位置关系不符，或是布局发生了微小的转变\n* 看到陶瓷婴孩在自主活动\n* 醒来后不知身处何地，无法区分梦境与现实\n* 强烈的无力与窒息感，周围环境混乱不清\n* 被不间断注视的感觉\n* //发现视线中所有的门都已经打开//\n\n此外，在陷入CN-249-A的个体中，约有7%出现了梦游症状。具体表现为睡眠中快速地坐起躺下、起身走动，以及大声哭喊，做出包括但不限于用刀具割腕、挖眼的自残行为，最终在1至3小时后自行回床睡眠；当梦游中途被唤醒时，暴露者常表现出异常的神志清醒，以及极端的恐惧和自杀欲望，并对再次入睡表现出强烈的抗拒。所有这些症状都将在黎明后随着SCP-CN-249的彻底消失而结束。问话未得到有关梦游阶段梦境的任何线索，其余尝试获得梦境图像的行动均失败了。\n\n尽管这一反常梦游行为较少出现，且预后大多良好，但仍有少数案例中梦游者成功离开房屋，并独自找到了开启的SCP-CN-249，而后进入内部。\n\n他们的躯体再未被寻回，没有任何SCP-CN-249曾经存在的痕迹，偶有一个或数个模糊不清的人形于失踪地点被短暂观察到，它们均遭到了严重的身体撕裂，肢体呈肿胀扭曲的状态，并在观察者试图接近时消失。\n@@ @@\n[[div class=\"footer-wikiwalk-nav\"]]\n[[=]]\n<< [[[SCP-CN-248]]] | SCP-CN-249 | [[[SCP-CN-250]]] >>\n[[/=]]\n[[/div]]",
+  "tags": [
+    "keter",
+    "scp",
+    "原创",
+    "建筑",
+    "异常移动",
+    "感知影响"
+  ],
+  "author": "Diamond_Apple",
+  "created_at": "2021-08-13T13:32:56+00:00",
+  "updated_at": "2021-10-10T12:44:33+00:00",
+  "rating": 36,
+  "_site": "scp-wiki-cn",
+  "_fullname": "scp-cn-249"
+}

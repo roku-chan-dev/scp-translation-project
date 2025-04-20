@@ -1,0 +1,13 @@
+{
+  "title": "SCP-CN-004",
+  "content": "[[=]]\n\n[[size 150%]]**警告：為避免因果紊亂，本文件內容單一人員僅限閱讀一次。**[[/size]]\n\n**您目前的閱讀次數為 ##red|1598##**\n\n**##red|偵測到異常錯誤，顯示初次存取時的頁面存檔。##**\n\n\n[[/=]]\n\n[[module ListPages parent=\".\" limit=\"1\" order=\"random\" offset=\"@URL|0\"]]\n\n%%content%%\n[[/module]]\n[[=]]\n**##red|錯誤已排除，[[[scp-cn-004-c|點此繼續訪問]]]##**\n[[/=]]",
+  "tags": [
+    "补充材料"
+  ],
+  "author": "fuban",
+  "created_at": "2017-02-24T08:59:02+00:00",
+  "updated_at": "2019-05-04T01:46:36+00:00",
+  "rating": 2,
+  "_site": "scp-wiki-cn",
+  "_fullname": "scp-cn-004-b"
+}

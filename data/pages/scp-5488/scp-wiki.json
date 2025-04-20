@@ -1,0 +1,27 @@
+{
+  "title": "SCP-5488",
+  "content": "[[include :scp-wiki:theme:blankstyle]]\n\n[[div]]\n[[include :scp-wiki:info:start]]\n[[=]]\n**SCP-5488: \"Ratings That Stick\"**\nThe only way to be sure.\n\n[[image https://scp-wiki.wdfiles.com/local--files/this-page-intentionally-left-blank/5488.png]]\n\n**[http://www.wikidot.com/user:info/nickthebrick1 nickthebrick1!]**\nand\n**[[[https://scp-wiki.wikidot.com/this-page-intentionally-left-blank|HarryBlank!]]]**\n[[/=]]\n[[include :scp-wiki:info:end]]\n[[/div]]\n\n\n[!--\nFragments:\nhttps://scp-wiki.wikidot.com/fragment:scp-5488-offset-0\nhttps://scp-wiki.wikidot.com/fragment:scp-5488-offset-1\nhttps://scp-wiki.wikidot.com/fragment:scp-5488-offset-2\n--]\n\n[[module ListPages category=\"fragment\" parent=\".\" order=\"created_at\" limit=\"1\" offset=\"@URL|0\"]]\n%%content%%\n[[/module]]\n\n[[div class=\"footer-wikiwalk-nav\"]]\n[[=]]\n<< [[[SCP-5487]]] | SCP-5488 | [[[SCP-5489]]] >>\n[[/=]]\n[[/div]]\n\n[[div]]\n[[=]]\n[[include :scp-wiki:component:license-box\n|author=nickthebrick1 and HarryBlank]]\n=====\n[[<]]\n> **Filename:** Stickers.png\n> **Author:** [[*user HarryBlank]]\n> **License:** CC BY-SA 3.0\n\n> **Filename:** Fire_Limo.png\n> **Name:** The Big Red Hire Engine, Dennis- Carmichael Fire Engine for hire. Oulton Broad\n> **Author:** sludgegulper\n> **License:** CC BY-SA 2.0\n> **Source:** [https://search.creativecommons.org/photos/470e413e-4235-4ecc-adfe-4f289218b25a flickr]\n\n> **Filename:** Cute_Stapler.jpg\n> **Author:** [[*user nickthebrick1]]\n> **License:** CC BY-SA 3.0\n\n> **Filename:** Maggie.jpg\n> **Name:** Ice, Cloud, and Land Elevation Satellite (ICESat)\n> **Author:** NASA Goddard Photo and Video\n> **License:** CC BY 2.0\n> **Source:** [https://search.creativecommons.org/photos/7e640700-daad-467a-bb0e-4959c99d3db1 flickr]\n\n[[/<]]\n=====\n[[include :scp-wiki:component:license-box-end]]\n[[/=]]\n[[/div]]",
+  "tags": [
+    "_adult",
+    "_cc",
+    "_licensebox",
+    "_listpages",
+    "artifact",
+    "cinema",
+    "co-authored",
+    "computer",
+    "electronic",
+    "media",
+    "meta",
+    "on-guard-43",
+    "safe",
+    "scp",
+    "virus"
+  ],
+  "author": "HarryBlank",
+  "created_at": "2021-04-22T22:52:42+00:00",
+  "updated_at": "2024-01-22T20:36:59+00:00",
+  "rating": 168,
+  "_site": "scp-wiki",
+  "_fullname": "scp-5488"
+}

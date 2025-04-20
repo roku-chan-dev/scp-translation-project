@@ -1,0 +1,15 @@
+{
+  "title": "원더테인먼트 박사 테마",
+  "content": "[[module CSS]]\n@import url(https://scpko.wdfiles.com/local--code/theme%3Awondertainment/1);\n[[/module]]\n\n\n[[iftags +테마]]\n\n[[>]]\n[[module Rate]]\n[[/>]]\n\n원더테인먼트 테마 제작자: [[*user DarkStuff]], [[*user taylor_itkin]].\n\n+ 사용법\n\n[[div class=\"code\"]]\n@@[[include :scpko:theme:wondertainment]]@@\n[[/div]]\n\n+ 소스코드\n\n[[code type=\"css\"]]\n@import url('https://scp-wiki.wdfiles.com/local--code/theme%3Awondertainment/1');\n\n@import url('https://fonts.googleapis.com/css?family=Stylish');\n@font-face { font-family: 'NapjakBlock'; src: url('https://cdn.jsdelivr.net/gh/projectnoonnu/noonfonts_two@1.0/NapjakBlock.woff') format('woff'); font-weight: normal; font-style: normal; }\n\n/*\n    Wondertainment Theme\n    [2018 Wikidot Theme]\n    Created for the SCP Foundation by DarkStuff and taylor_itkin; revised by stormbreath.\n    credit for the header image: https://pixabay.com/en/star-pattern-wallpaper-purple-763785/\n    logo made by Zhange, edited by taylor_itkin\n*/\n \n/* COMMON */\n \nh1, #page-title {\n    font-family: 'Berkshire Swash',  'NapjakBlock',  cursive;\n}\n\n/* BACKGROUND COLOR FONT COLOR */\nbody {\n    font-family: 'Sansita', 'Stylish', sans-serif;\n}\n \n/* HEADER */\n#header h1 a {\n    font-family: 'Berkshire Swash',  'NapjakBlock',  cursive;\n}\n \n#header h1 a::before {\n    content: \"원더테인먼트 박사!\";\n}\n \n#header h2 span {\n    font-family: 'Sansita', 'Stylish', sans-serif;\n}\n \n#header h2 span::before {\n    content: '명심해 너의 머릿속이 원더풀한 곳이라는 걸';\n}\n\n@media (min-width: 768px) {\n  #header h2 {\n     padding-top: 10px;\n  }\n}\n[[/code]]\n[[/iftags]]",
+  "tags": [
+    "en",
+    "원더테인먼트-박사",
+    "테마"
+  ],
+  "author": "Salamander724",
+  "created_at": "2018-04-05T14:39:21+00:00",
+  "updated_at": "2021-08-21T10:54:17+00:00",
+  "rating": 1,
+  "_site": "scpko",
+  "_fullname": "theme:wondertainment"
+}

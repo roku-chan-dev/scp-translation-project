@@ -1,0 +1,20 @@
+{
+  "title": "SCP-4477",
+  "content": "[[module CSS]]\ndiv.jesus {\n    margin: auto;\n    width: 85%;\n    border: .3em double rgb(240, 204, 0);\n    background: rgb(255, 255, 240) url(http://scp-wiki.wdfiles.com/local--files/the-great-hippo/scp_trans.png) center no-repeat;\n    padding: 0 1em;\n    box-shadow: 0.066em 0.066em .329em .132em rgba(89, 75, 2,.6);\n    border-radius: .2em;\n}\n\ndiv.jesus span {\n    display: block;\n    text-align: center;\n    word-break: unset;\n    font-variant: small-caps;\n    color: rgb(240, 204, 0);\n    font-weight: bold;\n}\n\nspan.leave {\n    font-size: 1.95em;\n    text-shadow: 2.5px 2px 0 black;\n}\n\nspan.room {\n    font-size: 1.5em;\n    text-shadow: 1.5px 2px 0 black;\n}\n[[/module]]\n\n**项目编号：**SCP-4477\n\n**项目等级：**Keter\n\n**特殊收容措施：**SCP-4477被置于人形Site-06中的昏迷翼区，按照现有昏迷病人标准给予对待。\n\nMTF Y-36 1分队的一名成员将从东部标准时间/东部夏季时间[[footnote]]当前正被使用的那个时间。[[/footnote]]的周五00:00起被安排至SCP-4477旁，直到SCP-4477发声。他们将记录所有这样的发声现象。\n\nMTF Y-36 (“[[[SCP-2852|派对怪客]]]”)将根据如下已经被重新制定过的关于SCP-4477的指令，执行SCP-4477的主要收容：\n\n[[div class=\"jesus\"]]\n[[span class=\"leave\"]]机动特遣队 Upsilon-36[[/span]]\n[[span class=\"room\"]]“派对怪客”[[/span]]\n\nMTF UPSILON-36应驻扎于[[[secure-facility-dossier-site-88|Site-88]]]外、距所有潜在的SCP-4477活动事件地点两小时航程之内的地方。在SCP-4477事件可能发生的时间段，MTF-Δ22应持续待命，与此同时，MTF UPSILON-36 1分队“不速之客” (\"No Invite\")将保持监控。\n\nMTF Y-36 SCP-4477活动事件发生后，1分队“不速之客” (\"No Invite\")应到达活动事件的现场地点，并秘密监控这一活动事件，以获得该次聚会的年龄范围信息、判断此次事件的性质和制定下一步计划。\n\nMTF Y-36 2分队“天气预报”（\"Weather Report\"）应尝试取消或推迟此次事件。通常情况下，这涉及到伪造关于某个会干扰此次事件的自然灾害的虚假消息，或假扮成执法人员以阻止此次的事件发生。\n\n如果2分队未能在事件开始前成功干扰此次事件，MTF Y-36 3分队“熊孩子” (\"Darn Kids\")将会被部署至此次事件中。3分队由小于等于21岁的人员组成，以便融于此次事件中。伦理委员会已认定下述的3分队人员来源是可行且符合伦理的：\n\n* [[[scp-1680|D-1680]]]中年龄合适的个体。\n* 通过12号协议从难民和/或平民中招募的D级人员。\n* 由 [[[the-foundation-eats-babies|URA-8171“播种之环” (\"Sowing Circle\")]]]制造的尚未被处决的或者在收容其他异常中被使用的婴儿。\n\n3分队应渗透此次事件，并尝试从内部阻碍之，或者在MTF Y-36的其他成员为可能事态-4477-A准备时，为他们提供侦察信息。\n\n可能事态-4477-A涉及到MTF Y-36 4分队“醉汉” (\"Blackout Drunks\")于此提及事件中的部署。4分队应保护所有SCP-4477活动事件的目击者并进行一次[[[updated-amnestics-guide|B级记忆消除]]]，以消除任何关于SCP-4477活动事件的记忆。取决于此次事件中是否出现酒精，植入虚假记忆可能不是必须的。\n[[/div]]\n\n如果MTF Y-36未能控制一次活动事件，[[[SCP-2897|分析学部]]]将隐藏任何在网络上公开的可能涉及SCP-4477的媒体。取决于SCP-4477活动事件的严重性，将派遣MTF R-16“急智” (\"Emergent Intelligence\")至该文件的上传者处，以对任何涉事者进行A级记忆消除。\n\n**描述：**SCP-4477是一个与美国宗教文化中通常描述的耶稣基督形象[[footnote]]这样的描述已经被[[[SCP-1780|时间异常部]]]确定是高度不准确的。[[/footnote]]相似的人形异常。SCP-4477在当下以及过去的25年中均处于昏迷状态。由于目前的医学技术无法安全地提前结束昏迷状态，SCP-4477无法从昏迷中被唤醒。目前普遍认为，SCP-4477有着能使其无限保持昏迷状态的异常性质。\n\n每周一次，周五或者周六，会发生一起活动事件。开始时，SCP-4477会说出美国东南部[[footnote]]被影响的特定州为阿拉巴马州、佛罗里达州、乔治亚州、路易斯安那州、密西西比州、北卡罗来纳州、南卡罗来纳州和田纳西州。[[/footnote]]某个特定青年社交聚会的名称，以及足以定位该聚会的信息。SCP-4477会在其提到的社交聚会开始前六小时发声。\n\n所有被以上述方式提及到的聚会都会涉及到食物的公共消费，并被提前至少72小时筹划。上述社交聚会人员平均年龄在所有的记录事件中均低于23岁，人员数量均超过10。\n\n在特定的社交聚会期间，SCP-4477-1实体会于任何两个生物学意义上的异性个体间距小于30厘米时出现。SCP-4477-1在生理上和SCP-4477[[footnote]]任何瘢痕或外伤都在外表上一致，即使它们是在某次活动事件中遭受的。,,见实验日志-4477-ST16M4T4。,,[[/footnote]]一致，并会出现在该对异性背后1至2米处。该实体将在物理上介入该对异性之间，并说“给耶稣留点地儿！”。除非是为保持处于该对异性个体之间的状态，实体将会保持静止，并在该对异性个体间距超过30厘米时消失。\n\n值得注意的是，这只针对生物学意义上的异性对发生，无论是否确有任何性或者爱情意义上的相互吸引。保有纯粹的柏拉图式关系的、属于同一社会性别或拥有合法婚姻关系的异性对依然会受到影响。同性对（甚至涉及任何形式的性交的）则不会受到影响。\n\n[[footnoteblock]]\n\n[[div class=\"footer-wikiwalk-nav\"]]\n[[=]]\n<< [[[SCP-4476]]] | SCP-4477 | [[[SCP-4478]]] >>\n[[/=]]\n[[/div]]",
+  "tags": [
+    "keter",
+    "scp",
+    "人形生物",
+    "反熵",
+    "宗教",
+    "智能",
+    "活物",
+    "睡眠"
+  ],
+  "author": "BenjaminBachBen",
+  "created_at": "2019-11-24T14:25:20+00:00",
+  "updated_at": "2020-02-27T03:16:52+00:00",
+  "rating": 1,
+  "_site": "scp-wiki-cn",
+  "_fullname": "scp-4477"
+}

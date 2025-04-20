@@ -1,0 +1,18 @@
+{
+  "title": "ㄗitch 廾aven: Sarah And Stuart",
+  "content": "[[include :scp-wiki:theme:basalt darkmode=a|hidetitle=a]]\n\n[[module CSS]]\n:root{\n--logo: url(https://scp-wiki.wdfiles.com/local--files/pitch-haven-hub/scp45.png);\n--title: \"Site-45\";\n--subtitle: \"DEMONS • LEGENDS • FABLES\";\n}\n[[/module]]\n\n[[=]]\n\n[[module Rate]]\n[[/=]]\n\n-------\n[[image https://i.imgur.com/0Gpcl6Z.png alt=\"A picture of Sarah and Stuart from Pitch Haven,  sectioned into three parts. The first part at the top is Stuart and Sarah as a cat and a bunny, respectively. A heart is in between the two. The second part at the middle is Stuart and Sarah as humans. Sarah is proposing to Stuart with an engagement ring. The third part at the bottom is Stuart and Sarah, Stuart as a skeleton cat with human hair sleeping and Sarah as a bunny girl with blue skin whose back is on the wall. On the back is a gradient from orange to pink to grey and the logos for Pitch Haven. Between each part is a quote from SCP-2746\"]]\n\n-----------\n\n[[=]]\nMade for Gift Exchange 2021 for [[*user Fantem]], that tells a short story of Sarah and Stuart's life before Event Nachash, after Event Nachash as normal humans, and their lives under Prometheus Labs and the Foundation. \n[[/=]]\n\n------------\n\n[[=]]\n[[div class=\"related-flex\"]]\n[[div class=\"related\"]]\n**__Recommended Reading__:**\n* **[[[SCP-2746]]]**\n* **[[[f-o-u-r-t-e-e-n-thirteen | F̶o̶u̶r̶t̶e̶e̶n̶ Thirteen]]]**\n[[/div]]\n[[/div]]\n[[/=]]\n\n[[div]]\n[[=]]\n[[include :scp-wiki:component:license-box]]\n=====\n[[<]]\n> **Filename:** 0Gpcl6Z.png\n> **Artist:** [[*user basirskipreader]]\n> **License:** CC BY-SA 3.0\n[[/<]]\n=====\n[[include :scp-wiki:component:license-box-end]]\n[[/=]]\n[[/div]]",
+  "tags": [
+    "_cc",
+    "_licensebox",
+    "artwork",
+    "cel-shaded",
+    "pitch-haven",
+    "scp-art"
+  ],
+  "author": "basirskipreader",
+  "created_at": "2021-12-29T01:37:16+00:00",
+  "updated_at": "2024-03-28T19:46:08+00:00",
+  "rating": 28,
+  "_site": "scp-wiki",
+  "_fullname": "art:pitch-haven-sarah-and-stuart"
+}

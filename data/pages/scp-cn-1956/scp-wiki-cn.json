@@ -1,0 +1,19 @@
+{
+  "title": "SCP-CN-1956",
+  "content": "[[include :scp-wiki-cn:ratemod:sentimentbar theme=ytp-like]]\n\n\n\n[[module ListPages category=\"fragment\" parent=\".\" limit=\"1\" order=\"name\" offset=\"@URL|0\"]]\n%%content%%\n[[/module]]\n\n\n\n\n\n\n[[div class=\"footer-wikiwalk-nav\"]]\n[[=]]\n<< [[[SCP-CN-1955]]] | SCP-CN-1956| [[[SCP-CN-1957]]] >>\n[[/=]]\n[[/div]]",
+  "tags": [
+    "area-cn-15",
+    "safe",
+    "scp",
+    "原创",
+    "媒体",
+    "时空",
+    "电子"
+  ],
+  "author": "Mr Bottle",
+  "created_at": "2021-03-28T04:45:24+00:00",
+  "updated_at": "2021-06-11T12:13:41+00:00",
+  "rating": 27,
+  "_site": "scp-wiki-cn",
+  "_fullname": "scp-cn-1956"
+}

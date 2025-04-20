@@ -1,0 +1,17 @@
+{
+  "title": "SCP-5901",
+  "content": "[[include :scp-wiki-cn:theme:black-highlighter-theme]]\n\n@@ @@\n\n[[include :scp-wiki-cn:component:info-ayers\n|page=scp-5901[!-- url of your page on the scp wiki --]\n|authorPage=N/A [!-- link to your author page --]\n|comments= SCP-5901：世上最强滑雪球[[footnote]]**译注，**原文Skeeball，参见[https://baike.baidu.com/item/%E6%BB%91%E9%9B%AA%E7%90%83/3368505?fr=aladdin 此处]。[[/footnote]] _\n图像来源：\nhttps://commons.wikimedia.org/wiki/File:The_Little_Road_Tunnel_on_Norway.jpg\n----\n[[footnoteblock title=\" \"]] _\n]]\n\n[[include :scp-wiki:component:classified-bar-woed\n|lv=2\n|item=5901\n|oc=Safe\n|lang=CN\n]]\n----\n[[include component:image-block\n| name=http://scp-wiki.wikidot.com/local--files/scp-5901/Tunnel-2\n| caption=SCP-5901，1998年附近。\n]]\n\n**特殊收容措施：** --禁止公众进入SCP-5901，并全天候对SCP-5901的入口进行守卫。--\n\n收容措施待更新。原因见附件5901.1。\n\n**描述：** SCP-5901的官方称呼为Heddeneset隧道，建于挪威Bygland市附近的一座山山侧。SCP-5901的确切建成时间未知，政府记录中从未提到其建筑进程，就相关该项目受访个体中也无人回忆起参与修建项目的施工队。基金会于1988年8月收到挪威警方向基金会提交的大量当地人关于隧道突然出现的报告后，得知项目的存在。 \n\n迄今为止SCP-5901仅有一个入口，且目前认为SCP-5901具有不可能存在的几何结构。更确切地说，从SCP-5901已确认的入口进入会使个体于SCP-5901内持续存在，且尽管海拔没有增减，但却永远无法到达出口。所有寻找SCP-5901额外入口或通过已确认的入口离开SCP-5901的尝试均失败。由于研究人员一致认为对SCP-5901的进一步研究是对基金会资源的浪费，对SCP-5901的探索已永久性搁置。\n\n--SCP-5901目前仍未表现出进一步的异常性质。收容程序应继续维持至有进一步通知。--\n\n**附录5901.1：**事件报告\n\n于202█年4月██日UTC时间0900，九个主要由花岗岩构成的球形物体自SCP-5901入口处以高速喷出。由于出口附近的地势，九个物体都在对基金会财产及周边地形造成重大损害前恢复静止。与该类物体的出现对应的是，卫星图像记录到由一无法辨认的物质构成的五个巨型圆环自发出现并悬浮在SCP-5901上空。由于SCP-5901的新性质对基金会维护面纱构成威胁，故安排该地收容专家间进行紧急会议。\n\n考虑了数种收容方式以对抗SCP-5901新性质的表现，其中包括空中部署大规模的记忆删除剂、将记忆删除剂混入Bygland市部分供水系统中以限制公众知晓巨型悬浮圆环。由于SCP-5901对周围区域的影响，以上方法以及其他所有典型收容方式被认为成本过高，因此决定商议非标准收容协议。\n\n\n在收容专家Kenneth Alan的建议下，行动方案商定通过并向收容职员下发指示。已通过协议内包含派遣数架重型货运直升机，将球形物体从SCP-5901的入口空运到悬浮在SCP-5901正上方的、最小且最靠内的圆环上空。需注意，球体在通过目标环形后全部消失化。据参与收容协议的工作人员描述，每当球体下降穿过环形时，都会听到一声电子高音哔声，但电子设备未记录任何有价值的信息。\n\nSCP-5901上方的五个环形在九个球体全部消失化后迅速消失。其被一条长达数公里的超大型英文信息替换。该信息被描述为闪烁着明亮的红色光芒，记录在以下的子文件中。\n\n[[collapsible show=\"+ 打开文件\" hide=\"- 隐藏\"]]\n[[div style=\"color: black; font-weight: bold; background:#fff url(http://scp-wiki.wdfiles.com/local--files/the-great-hippo/scp_trans.png) center no-repeat; float: center; border: solid 1px #000000; padding: 15px 15px; box-shadow: 0 1px 3px rgba(0,0,0,.2); width: 84%; margin: 4% 4% 4% 4%\"]]\n\n= 恭喜！！！\n= 新的记录！\n= //请输入玩家名……//\n\n[[/div]]\n[[/collapsible]]\n\n\n\n进一步的审议必须在确认适当行动方针前进行。收容专家Alan已被授权提出通常会被否决的非常规附加收容措施。\n\n[[div class=\"footer-wikiwalk-nav\"]]\n[[=]]\n<< [[[SCP-5900]]] | SCP-5901 | [[[SCP-5902]]] >>\n[[/=]]\n[[/div]]",
+  "tags": [
+    "safe",
+    "scp",
+    "建筑",
+    "时空",
+    "游戏"
+  ],
+  "author": "Ylumwlne",
+  "created_at": "2021-04-30T11:58:33+00:00",
+  "updated_at": "2024-01-20T03:28:48+00:00",
+  "rating": 1,
+  "_site": "scp-wiki-cn",
+  "_fullname": "scp-5901"
+}

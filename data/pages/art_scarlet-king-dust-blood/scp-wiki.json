@@ -1,0 +1,16 @@
+{
+  "title": "Seven Seals for the Scarlet King",
+  "content": "[[>]]\n[[module rate]]\n[[/>]]\n\n[[module CSS]]\n#container { background-color: black; }\n[[/module]]\n\n[[include :scp-wiki:component:toggle-sidebar]]\n\n[[image http://scp-wiki.wikidot.com/local--files/art:scarlet-king-dust-blood/scarletking1]]",
+  "tags": [
+    "artwork",
+    "cel-shaded",
+    "goi-art",
+    "scarlet-king"
+  ],
+  "author": "ubergoober",
+  "created_at": "2024-07-11T20:05:38+00:00",
+  "updated_at": "2024-08-05T12:37:10+00:00",
+  "rating": 44,
+  "_site": "scp-wiki",
+  "_fullname": "art:scarlet-king-dust-blood"
+}

@@ -1,0 +1,14 @@
+{
+  "title": "cb:틀:갤러리",
+  "content": "[[table style=\"float: left; width: 120px; height: auto;\"]]\n[[row]]\n[[cell class=\"gallery-item\" style=\"width: 120px; height: 106px; text-align: center; padding-top: 1em;\"]]\n[[image {$image} alt=\"{$image}\" class=\"gallery-image-size-thumbnail\"]]\n[[/cell]]\n[[/row]]\n[[row]]\n[[cell style=\"text-align: center;\"]] {$caption} [[/cell]]\n[[/row]]\n[[/table]]",
+  "tags": [
+    "cb",
+    "템플릿"
+  ],
+  "author": "Dr Devan",
+  "created_at": "2015-01-05T11:08:27+00:00",
+  "updated_at": "2015-06-09T20:09:27+00:00",
+  "rating": 0,
+  "_site": "scpko",
+  "_fullname": "cb:template:gallery"
+}

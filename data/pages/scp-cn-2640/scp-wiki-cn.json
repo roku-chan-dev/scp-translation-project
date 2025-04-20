@@ -1,0 +1,20 @@
+{
+  "title": "SCP-CN-2640",
+  "content": "[[include :scp-wiki-cn:credit:start]]\n[[module CSS]]\n#page-title {\n    color: #980000;\n}\n[[/module]]\n**本文的合著作者：**\n* **[[*user Coffee_2020]]&[[*user Vito WV Vital]]！**\n----\n另：配合音乐食用更佳。\n[[HTML]]\n<iframe frameborder=\"no\" border=\"0\" marginwidth=\"0\" marginheight=\"0\" width=298 height= 52 src=\"//music.163.com/outchain/player?type=2&id=445154429&auto=0&height=32\"></iframe>\n[[/HTML]]\n**Tips:**切换迭代时音乐可能会停止，我也不知道该怎么改，如果有遇到这种情况的读者还请见谅。\n----\n**如果**你不想换一次迭代就要点一次“i”的话，__**[[size 160%]][http://music.163.com/share/sina/direct/18/445154429?uct=IEEWKYVccgqwUz0EBu4I0g%3D%3D&app_version=8.7.16 点此][[/size]]**__直接访问此歌曲的网易云页面。\n\n[[include :scp-wiki-cn:credit:end]]\n\n[[module ListPages category=\"fragment\" parent=\".\" limit=\"1\" order=\"created_at\" offset=\"@URL|0\"]]\n%%content%%\n[[/module]]\n\n[!-- https://scpsandboxcn.wikidot.com/fragment:coffee-1 --]\n[!-- https://scpsandboxcn.wikidot.com/fragment:coffee-2 --]\n[!-- https://scpsandboxcn.wikidot.com/fragment:coffee-4 --]",
+  "tags": [
+    "keter",
+    "meta",
+    "scp",
+    "site-cn-82",
+    "原创",
+    "合著",
+    "模因",
+    "认知危害"
+  ],
+  "author": "Coffee_2020",
+  "created_at": "2022-08-29T13:07:53+00:00",
+  "updated_at": "2023-08-18T17:27:54+00:00",
+  "rating": 17,
+  "_site": "scp-wiki-cn",
+  "_fullname": "scp-cn-2640"
+}

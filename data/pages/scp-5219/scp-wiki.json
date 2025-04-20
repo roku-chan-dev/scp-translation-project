@@ -1,0 +1,21 @@
+{
+  "title": "SCP-5219",
+  "content": "[[module CSS]]\n.email-example .collapsible-block-folded a.collapsible-block-link {\n    animation: blink 0.8s ease-in-out infinite alternate;\n}\n@keyframes blink {\n    0% { color: transparent; }\n    50%, 100% { color: #b01; }\n}\n.email {border: solid 2px #000000; width: 88%; padding: 1px 15px; margin: 10px; box-shadow: 0 1px 3px rgba(0,0,0,.5)}\n.email-example a.collapsible-block-link {font-weight: bold;}\n.tofrom {margin-left: 10px; margin-top: 5px; padding: 1px 15px; border-left: solid 3px maroon}\n[[/module]]\n\n[[>]]\n[[module Rate]]\n[[/>]]\n\n**Item #:** SCP-5219\n\n**Object Class:** Safe\n\n**Special Containment Procedures:** A minimum of two guards are to be stationed outside Site Director Robinson's office at all times. Access to Site Director Robinson's office is prohibited except for testing purposes.\n\n**Description:** SCP-5219 is an anomalous corpse located in the office of Site Director Robinson at Site-37. Based on examinations of SCP-5219, it has been determined that it was a middle-aged white male of average height and weight. The cause of death was a self-inflicted gunshot wound to the back of the head.\n\nSCP-5219 has mild anti-memetic properties. While some properties of SCP-5219 can be observed, subjects are unable to determine its identity or how it came to be in the office of Site Director Robinson. In addition, subjects instructed to remove SCP-5219 from Site Director Robinson's office spontaneously forget their instructions upon viewing it, which makes retrieval impossible.\n\n**Addendum:** Discovery\n\nSCP-5219 was first discovered on 21/03/2021. Two days prior, Site Director Robinson suddenly ceased responding to all messages, and failed to appear at multiple meetings. Dr. Boyd entered Site Director Robinson's office to search for him, and found SCP-5219 inside. Containment was established shortly thereafter. Site Director Robinson's whereabouts have not yet been determined.\n\n[[=]]\n------\n[[collapsible show=\"Access SCiPNET Email? Two (2) new messages!\" hide=\"hide\"]]\n[[<]]\n[[div class=\"email\"]]\n[[div class=\"tofrom\"]]\n**To:** All personnel in Site-37\n**From:** Site Director Boyd\n**Subject:** Management change.\n[[/div]]\n------\nGood evening,\n\nI am sending this message to report that, despite the best efforts of the search team, Site Director Robinson still has not been found, with some suspecting that he may have been kidnapped or murdered. I do not believe this to be the case, but we must accept it as a possibility.\n\nThe search team will continue to look for him, but Site-37 cannot function without a Site Director, so I have assumed the position in Robinson's place as the second highest-ranking official in this Site. I do not want this to be a permanent arrangement, but I will do what is necessary should Robinson not be found. Should this become permanent, I hope that you will all give me the same respect that you gave Robinson.\n\n-Dr. Boyd, Site-37 Director.\n[[/div]]\n[[/<]]\n\n[[<]]\n[[div class=\"email\"]]\n**To:** Foundation research personnel assigned to SCP-5219\n**From:** Site Director Boyd\n**Subject:** Change in procedure.\n-----\nEffective immediately, all tests involving SCP-5219 are to cease. This includes both attempts to remove it from Site Director Robinson's office and attempts to determine its identity. You will receive messages regarding project transfers shortly. Thank you for your cooperation.\n[[/div]]\n[[/<]]\n[[/collapsible]]\n[[/=]]\n\n[[div class=\"footer-wikiwalk-nav\"]]\n[[=]]\n<< [[[SCP-5218]]] | SCP-5219 | [[[SCP-5220]]] >>\n[[/=]]\n[[/div]]\n\n[[include :scp-wiki:component:license-box]]\n[!-- N/A (No Images)  --]\n[[include :scp-wiki:component:license-box-end]]",
+  "tags": [
+    "_corruption",
+    "_licensebox",
+    "antimemetic",
+    "cadaver",
+    "jam-con2021",
+    "memory-affecting",
+    "observational",
+    "safe",
+    "scp"
+  ],
+  "author": "A Mountain",
+  "created_at": "2021-03-24T01:46:45+00:00",
+  "updated_at": "2022-03-28T12:09:40+00:00",
+  "rating": 94,
+  "_site": "scp-wiki",
+  "_fullname": "scp-5219"
+}

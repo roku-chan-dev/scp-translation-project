@@ -1,0 +1,19 @@
+{
+  "title": "SCP-CN-832",
+  "content": "[[include :scp-wiki-cn:component:acs-animation]]\n[[include :scp-wiki-cn:component:anomaly-class-bar-source\n\n|lang= cn\n\n|item-number= CN-832\n\n|clearance= 3\n\n|container-class= safe\n\n|secondary-class= none\n\n|secondary-icon= http://url.com\n\n|disruption-class= vlam\n\n|risk-class= 警告\n\n]]\n\n[[include :scp-wiki-cn:component:black-highlighter-theme-dev]]\n\n[[module css]]\ndiv#extra-div-1,div#extra-div-2{display:none;}\n[[/module]]\n\n[[module CSS]]\n:root {\n--logo-image: url(\"https://nu-scptheme.github.io/Black-Highlighter/img/logo.svg\");\n}\n[[/module]]\n\n[[module CSS]]\n#header h2 span::before {\n    content: \"控制 收容 保护\";\n    color: red;\n    text-shadow: 1px 1px 1px rgba(0,0,0,.8);\n}\n[[/module]]\n\n[[module css]]\n.email {float: center; border: solid 2px #000000; width: 88%; padding: 1px 15px; margin: 10px 10px 10px 10px; box-shadow: 0 1px 3px rgba(0,0,0,.5)}\na.collapsible-block-link { font-weight: bold; }\n\n.tofrom {margin-left: 10px; margin-top: 5px; padding: 1px 15px; border-left: solid 3px #000098}\n[[/module]]\n\n[[>]]\n[[module Rate]]\n[[/>]]\n\n**特殊收容措施：**目前，在项目基础上建设了一栋大楼作为收容措施，编为Outpost-1102，--对外宣称为基金会前台企业“尚诚塑料有限公司”私有财产。--\n\n对外宣称为军事禁区，上空设置禁飞区，所有民用以及军用地图均需要抹除收容地点，禁止一切人员进入。项目的钥匙应与其本体分别存放，每天两次检查项目的密封状态，并记录康德计数器读数。\n\n**2024/02/05更新：**由于破碎之神教会对设施的攻击与渗透日益加剧，Outpost-1102的内部即时防御系统将在2024/02/07进行升级，升级后的每日维护增加到两次，在维护时系统应保持部分开启状态。MTF-癸卯-84（\"轨道遮罩\"）暂时驻站，另额外从Site-CN-105抽调两个快速收容小组常驻Outpost-1102，每三小时进行一次固定通讯，若两分钟内无回应，站点应立即增援。\n\n在威胁评估完成之前，暂停所有针对SCP-CN-832-Prime的探索行动。\n\n**描述：**SCP-CN-832-1是一个安装在地面上的青铜质活板门，长宽均为45cm，发现时已高度锈蚀。其中心位置有一锁孔，只能使用配套钥匙打开，此时其异常性质将被激活。项目可提供超维度旅行。激活时的SCP-CN-832-1将会把投入其中的物品传送至某未知地点，编为SCP-CN-832-Prime。\n\nSCP-CN-832-Prime是一超维度地点（下简称“城市”），不存在于当前基准宇宙。目前已探明的区域为一城市，根据已有资料推测，该城市四周均为沙漠地区，为干旱气候。目前根据同心圆理论大致划分为三片区域：（下称区域A，区域B，区域C）\n\n# 区域A为市中心地段，主要从事商业活动。\n# 区域B位于市中心外围，主要作为住宅区。\n# 区域C位于住宅区以外，主要进行生产活动。\n\n城市以砖石建筑为主，全部都为平房。在中心地区发现了一处几乎完全以黄铜建造的金属建筑，推测为宗教场所，有关该建筑的更多信息需要832/4级权限。\n\n城市名称为第九市，尽管在命名上有所暗示，但目前并未发现其他编号城市存在的证据。城市建成区面积约为35平方公里，有人类曾经生活过的痕迹。--建成区外长期存在着异常沙尘暴，基金会已有的探测手段无法--\n\n建成区被某种异常屏障包裹住，与外界完全隔离，以基金会目前的探测手段无法进行进一步探索，破除屏障的尝试也已宣告失败。由于恶劣的自然环境以及偶发的时空错乱现象，特遣队目前仅对区域A完成了部分探索。\n\n城市科技水平目前大体认定为20世纪初期水准，蒸汽机为其主要动力来源，通用书写系统为某种表音文字，基金会目前正尝试借助其他异常项目进行语言破译。\n\n值得注意的是，城市中的居民大多经过了身体改造，通过安装在体内的蒸汽机供能，诸多例子表明，这些植入体内的蒸汽机或许可以作为重要器官的替代品使用。除脑部之外，其他部位均可通过相同方式进行改造。根据已破译的资料显示，若持续供给能源，改造后可以达到某种类似永生的状态。\n\n目前没有发现幸存居民。\n\n对居民的大规模改造发生在███年前，主导改造的人员被称为“工程师”，根据休谟指数的异常，推测所有的改造全部依赖于“工程师”的自身的现实扭曲能力或者某些异常物品，更进一步的证据仍在探索中。\n\n出于显而易见的原因，破碎之神教会对于SCP-CN-832有极高的兴趣，且已多次对基金会采取敌对行动试图夺取项目控制权。根据情报人员提供的信息，项目在教会内部被称为“圣城”，目前对于项目收容的最大威胁事实上来源于外部。\n\n不过，基金会并未在项目内部发现任何与破碎之神教会有关的物品或者信息。更多有关SCP-CN-832的内容已被编为3级权限。\n\n\n[[module CSS]]\n#header {\n  background-position: left 4.5rem top 1rem;\n  background-size: auto -webkit-calc(var(--header-height-on-desktop) - 2.125rem);\n  background-size: auto -moz-calc(var(--header-height-on-desktop) - 2.125rem);\n  background-size: auto calc(var(--header-height-on-desktop) - 2.125rem);\n}\n#header h1 a,\n#header h2 span {\n  margin-left: 11rem;\n}\n[[/module]]\n\n\n\n[[=]]\n[[div class=\"footer-wikiwalk-nav\"]]\n<< [[[SCP-CN-831]]] | SCP-CN-832 | [[[SCP-CN-833]]] >>\n[[/div]]\n[[/=]]",
+  "tags": [
+    "safe",
+    "scp",
+    "原创",
+    "城市",
+    "破碎之神教会",
+    "超维度",
+    "门径"
+  ],
+  "author": "PurpleS0ul_Ding",
+  "created_at": "2024-02-16T10:33:21+00:00",
+  "updated_at": "2024-12-30T16:33:59+00:00",
+  "rating": 12,
+  "_site": "scp-wiki-cn",
+  "_fullname": "scp-cn-832"
+}

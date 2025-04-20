@@ -1,0 +1,32 @@
+{
+  "title": "SCP-6113",
+  "content": "[!--\nfragment:scp-6113-0\nfragment:scp-6113-1\nfragment:scp-6113-2\nfragment:scp-6113-3\nfragment:scp-6113-4\n--]\n[[module CSS]]\n.block-6113-1 {\n    display: block;\n    border: solid 1px #444444;\n    background: #F5F5F5;\n    margin-left: auto;\n    margin-right: auto;\n    width: auto;\n    padding: 10px;\n}\n.block-6113-2 {\n    border: 0.125rem solid #d4d4d4;\n    background:#F5F5F5;\n    padding:5px;\n    margin-bottom: 10px;\n}\n.block-6113-3 {\n    background: url(http://scp-jp-storage.wdfiles.com/local--files/file:7974444-54-xsux/HR-edit.png) top right no-repeat;\n    background-size: 75px 75px;\n    color: black;\n    float: center;\n    border: solid 1px #000000;\n    padding: 5px 15px 15px 15px;\n    box-shadow: 0 1px 3px rgba(0,0,0,.2);\n    width: 84%;\n    margin: 2% 4% 4% 4%\n}\n.block-6113-4 {\n    background: url(\"http://scp-jp-storage.wdfiles.com/local--files/file:2532460-25-b7bd/scp_trans.png\") center no-repeat;\n    float: center;\n    border: solid 2px #000;\n    padding: 1px 15px;\n    box-shadow: 0 1px 3px rgba(0,0,0,.2);\n}\n[[/module]]\n[[include :scp-jp:component:info-ayers\n|lang=jp\n|page=scp-6113\n|authorPage=https://scp-wiki.wikidot.com/secure-facility-dossier-ex-site-26\n|comments=**SCP-6113:** テンポラリ・リフレクション by //[[*user Dr Asteria]]//\n]]\n\n[[include :scp-jp:credit:start]]\n**ソース:** [[[https://scp-wiki.wikidot.com/scp-6113|SCP-6113 - Temporary Reflection]]]\n**リビジョン:** 16\n**著者:** [[*user Dr Asteria]]\n**作成年:** 2021\n**邦題:** テンポラリ・リフレクション\n[[include :scp-jp:credit:end]]\n\n[[module ListPages category=\"fragment\" parent=\".\" order=\"created_at\" limit=\"1\" offset=\"@URL|0\"]]\n%%content%%\n[[/module]]",
+  "tags": [
+    "en",
+    "esoteric-class",
+    "scp",
+    "シメリアン博士",
+    "人間型",
+    "倫理委員会",
+    "可視光",
+    "場所",
+    "変容",
+    "変身",
+    "幻覚",
+    "未収容",
+    "液体",
+    "深淵目録",
+    "現実改変",
+    "生命",
+    "瞬間移動",
+    "知性",
+    "知識",
+    "観測"
+  ],
+  "author": "pcysl",
+  "created_at": "2022-09-30T09:02:33+00:00",
+  "updated_at": "2024-02-21T12:27:35+00:00",
+  "rating": 9,
+  "_site": "scp-jp",
+  "_fullname": "scp-6113"
+}

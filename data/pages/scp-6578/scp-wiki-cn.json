@@ -1,0 +1,21 @@
+{
+  "title": "SCP-6578",
+  "content": "[[include :scp-wiki-cn:theme:classic]]\n\n[[include component:image-block\n    name= https://scpsandboxcn.wdfiles.com/local--files/ahshow-01/Post_Ranch_home_1930.png |\ncaption= 斯奈德农场，拍摄于1939年。| width=240px]]\n\n**项目编号：**SCP-6578\n\n**项目等级：**Safe\n\n**特殊收容措施：**由于当前还无法将SCP-6578从其原本的位置移除，斯奈德农场周边地带已用铁丝网封锁。使用SCP-6578进行测试需事先获得项目主管哈迪克斯的许可，且所有SCP-6578-1实例都应当被运至[[[SCP-6097 | Site-44]]]以供进一步研究。\n\n**描述：**SCP-6578是一棵大果栎树//（Quercus macrocarpa）//，位于堪萨斯州埃尔斯沃思的一座农场的旧址。其最外侧的枝条上挂有一个轮胎制作的简陋儿童秋千，树身上刻有潦草的首字母//J.S.//。\n\n当一个新近死去的人[[footnote]]死亡不超过24小时。[[/footnote]]的完整尸体在以SCP-6578为中心的十五米范围内下葬时，它的异常效应将被激活。在此后一日的山区标准时间00:01，该死者裸体的活体复制品（编号为SCP-6578-1）会以其死亡时刻的外形出现在埋葬地点的正上方。SCP-6578-1实例出现时起初会表现出迷惑，很少能回忆起其死前一周内发生的事。\n\nSCP-6578在1938年10月引起了基金会的注意，当时在65岁的鳏夫霍巴特·斯奈德名下的一座小农场外发现了多具人类尸体。进一步调查发现共有47具基因完全一致、腐烂程度不同的尸体，全部为1922至1938年之间埋下。经证实这些尸体身份全部与农场主当时健在的儿子——11岁的约书亚·斯奈德相吻合。47具尸体的死因全部为急性白血病。\n\n[[footnoteblock]]\n\n------\n\n[[=]]\n[*https://scp-wiki-cn.wikidot.com/dr-leonerd-s-author-page 该作者的更多作品……]\n[[/=]]\n\n------\n\n[[div class=\"footer-wikiwalk-nav\"]]\n[[=]]\n<< [[[SCP-6577]]] | SCP-6578 | [[[SCP-6579]]] >>\n[[/=]]\n[[/div]]",
+  "tags": [
+    "safe",
+    "scp",
+    "人形生物",
+    "复活",
+    "尸体",
+    "智能",
+    "树木",
+    "植物",
+    "活物"
+  ],
+  "author": "ahshow",
+  "created_at": "2023-06-23T15:36:15+00:00",
+  "updated_at": "2023-07-11T12:00:37+00:00",
+  "rating": 9,
+  "_site": "scp-wiki-cn",
+  "_fullname": "scp-6578"
+}

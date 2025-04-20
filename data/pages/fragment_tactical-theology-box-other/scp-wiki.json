@@ -1,0 +1,13 @@
+{
+  "title": "Tactical Theology Box Other",
+  "content": "[[div class=\"article-box\" style=\"background-image: radial-gradient(rgba(30, 30, 30, 0.85), rgba(30, 30, 30, 0.85)), url({$image})\"]]\n[[div]]\n[[a class=\"article-link-box\" href=\"{$url}\"]][[/a]]\n++++ {$page-title}\n\n[[size 90%]]{$quote}[[/size]]\n[[/div]]\n[[/div]]",
+  "tags": [
+    "fragment"
+  ],
+  "author": "Yossipossi",
+  "created_at": "2023-12-08T02:27:08+00:00",
+  "updated_at": "2023-12-08T04:27:48+00:00",
+  "rating": 0,
+  "_site": "scp-wiki",
+  "_fullname": "fragment:tactical-theology-box-other"
+}

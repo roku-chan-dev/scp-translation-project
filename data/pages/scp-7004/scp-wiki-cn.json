@@ -1,0 +1,28 @@
+{
+  "title": "SCP-7004",
+  "content": "[[module CSS]]\n.desktop-only { display: block; }\n.mobile-only { display: none; }\n@media (max-width: 979px) {\n    .desktop-only { display: none; }\n    .mobile-only { display: block; }\n}\n\n .creditButtonStandalone p a{\n    background: rgb(20, 20, 20) !important;\n}\n[[/module]]\n\n[[include :scp-wiki-cn:credit:start-standalone]]\n⚠️ **内容警告：**本文所述主题包含大量的血腥、肢体恐怖和令人不安的死亡场面。请酌情阅读。\n[[include :scp-wiki-cn:credit:end-standalone]]\n[[include :scp-wiki-cn:component:info-cw]]\n\n[[include :scp-wiki-cn:theme:black-highlighter-theme]]\n[[include :scp-wiki:theme:penumbra-bhl]]\n[[module CSS]]\n:root:lang(cn) {\n--accentColor: 153,177,191;\n--swatch-background: 20, 20, 20;\n--swatch-menubg-black-color: var(--accentColor);\n}\n[[/module]]\n\n[[include :scp-wiki:component:bhl-dark-sidebar]]\n@@@@\n@@@@\n----------------------\n@@@@\n@@@@\n\n[[module ListPages  category=\"fragment\" parent=\".\" limit=\"1\" order=\"created_at\" offset=\"@URL|0\"]]\n%%content%%\n[[/module]]\n\n[!-- https://scp-wiki-cn.wikidot.com/fragment:scp-7004-0 --]\n[!-- https://scp-wiki-cn.wikidot.com/fragment:scp-7004-1 --]\n[!-- https://scp-wiki-cn.wikidot.com/fragment:scp-7004-2 --]\n[!-- https://scp-wiki-cn.wikidot.com/fragment:scp-7004-3 --]\n\n[[footnoteblock]]\n\n[[div class=\"footer-wikiwalk-nav\"]]\n[[=]]\n--------------\n\n[[size 130%]] ###AAC5D5|本文由## [https://scp-wiki-cn.wikidot.com/ekronak-s-archive-with-commentary Ecronak]写作。###AAC5D5|图片由AnAnomalousWriter制作。## \n[[/size]]\n\n<< [[[SCP-7003]]] | SCP-7004 | [[[SCP-7005]]] >>\n[[size 150%]]    [[/size]]\n[[/=]]\n[[include :scp-wiki-cn:component:license-box\n|author=Erconak\n|translator=vxeov\n]]\n=====\n> **文件名**：无标题\n> **图像作者**：pumpkinmook\n> **授权协议**：CC BY 2.0\n> **来源链接**：https://www.flickr.com/photos/pumpkinmook/6706743561/\n\n> **文件名**：re-awakening\n> **图像作者**：IntangibleArts\n> **授权协议**：CC BY 2.0\n> **来源链接**：https://www.flickr.com/photos/57382003@N00/2643365441\n\n> **文件名**：Academy(Estudo de braço) [Academy/arm study] (1909) - António Carneiro (1872-1930)\n> **图像作者**：pedrosimoes7\n> **授权协议**：CC BY 2.0\n> **来源链接**：https://www.flickr.com/photos/pedrosimoes7/51839505592/\n\n> **文件名**：Nothing better at the end of a working day than to dive into the Atlantic Ocean\n> **图像作者**：pedrosimoes7\n> **授权协议**：CC BY 2.0\n> **来源链接**：https://www.flickr.com/photos/pedrosimoes7/50327336561/\n\n> **文件名**：Induced mutation (2019) - Inês Norton (1982)\n> **图像作者**：pedrosimoes7\n> **授权协议**：CC BY 2.0\n> **来源链接**：https://www.flickr.com/photos/46944516@N00/48774066813\n=====\n[[include :scp-wiki-cn:component:license-box-end]]\n[[/div]]",
+  "tags": [
+    "7000",
+    "apollyon",
+    "clef博士",
+    "scp",
+    "人形生物",
+    "信息危害",
+    "变形",
+    "合著",
+    "基金会制",
+    "智能",
+    "未收容",
+    "机械降神",
+    "模因",
+    "欲肉教",
+    "活物",
+    "超维度"
+  ],
+  "author": "vxeov",
+  "created_at": "2022-09-23T17:03:55+00:00",
+  "updated_at": "2024-01-23T12:22:23+00:00",
+  "rating": 17,
+  "_site": "scp-wiki-cn",
+  "_fullname": "scp-7004"
+}

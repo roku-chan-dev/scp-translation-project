@@ -1,0 +1,13 @@
+{
+  "title": "Ajmansfield的作者页",
+  "content": "[[module CSS]]\n.content-panel.standalone {\n  padding: 20px 30px;\n}\n\n.canon-title {\n  font-size: 200%;\n  font-weight: bold;\n  margin-bottom: 10px;\n}\n\n.canon-description {\n  font-size: 110%;\n  font-weight: bold;\n  text-align: justify;\n}\n\n.canon-snippet {\n  font-style: italic;\n}\n.canon-snippet-subtext {\n  font-size: 70%;\n  margin-top: 10px;\n}\n\n[[/module]]\n\n----\n[[div class=\"content-panel standalone series\"]]\n[[[SCP-2167|SCP-2167: Demon Gate Amplifier]]]\n\n//首篇文档。高新技术类可能不适合所有人，但对那些喜欢技术类文档来说，这是为你准备的好作品。//\n[[/div]]\n\n[[div class=\"content-panel standalone series\"]]\n[[[a-brief-explanation-on-demonics|恶魔学简释 ]]]\n\n//这篇故事为恶魔学有关的技术提供了一个简明的历史。如果你喜欢“伪历史类”文档你会喜欢这篇的。//\n[[/div]]\n\n[[div class=\"content-panel standalone series\"]]\n[[[grant-request-for-the-development-of-tools-for-mapping-local|\n批准开发用于定位紊乱时空地区的工具的请求 ]]]\n\n//普罗米修斯实验室又干了一次。所有异次元探索者必备。//\n[[/div]]\n\n[[div class=\"content-panel standalone series\"]]\n[[[SCP-2564|SCP-2564: Willow Glen Community Hospital]]]\n\n//与 [[*user TrainMan2001]]合写的一篇文档，该项目使得一些有繁重历史研究工作的人能够确定所有时间线上的细节。你能指出什么是史实吗？//\n[[/div]]\n\n[[div class=\"content-panel standalone series\"]]\n[[[redzone-sa-43647822|]]]\n\n一篇来自一个名为“红区安保”的普罗米修斯下属公司的文件，该组织致力于研发异常物品与异常操作的软件。随之而来的是异常的bug与安全漏洞。为 [[[机动特遣队大赛|mtf2016]]]而作。\n[[/div]]\n\n\n[[div class=\"content-panel standalone series\"]]\n[[[rho9-support-assignment|]]]\n\n一篇包含了电脑和信息危害的“参与游戏”故事。为 [[[机动特遣队大赛|mtf2016]]]而作。\n[[/div]]\n\n\n[[div class=\"content-panel standalone series\"]]\n[[[SCP-2234|SCP-2234: 松果体移除术的大交易]]]\n\n该文档包含了一个大范围的异常电脑病毒。和[[*user Some_Potato]] 为 [[[机动特遣队大赛|mtf2016]]]而合作。\n[[/div]]\n\n\n[[div class=\"content-panel standalone series\"]]\n--蓝队--\n\n为了获得[[[机动特遣队大赛|mtf2016]]]的资格在最后一刻赶出来的。不是我最好的作品，但我已经写完了[[footnote]]原文：Not my best work, but gott'er done[[/footnote]]。我最近会将这篇整个重写。\n[[/div]]\n\n\n[[div class=\"content-panel standalone series\"]]\n[[[SCP-2276|SCP-2276: Too many GRACE]]]\n\n2002年，NASA为重力恢复与气候实验（GRACE）项目发射了两颗卫星。但不知为什么出现了第三颗一模一样的卫星[[footnote]]译注：GRACE项目那两颗卫星是完全相同的[[/footnote]]，虽然能用，但它们除了些值得注意的状况。\n[[/div]]\n\n\n[[div class=\"content-panel standalone series\"]]\n[[[time-travel|初等时光旅行 ]]]\n\n这是一篇关于在SCPU教授的时间旅行相关课程的介绍。\n[[/div]]",
+  "tags": [
+    "作者"
+  ],
+  "author": "Archibald1",
+  "created_at": "2018-08-29T11:03:39+00:00",
+  "updated_at": "2019-05-03T08:44:16+00:00",
+  "rating": 3,
+  "_site": "scp-wiki-cn",
+  "_fullname": "ajmansfield"
+}

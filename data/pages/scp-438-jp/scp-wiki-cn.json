@@ -1,0 +1,16 @@
+{
+  "title": "SCP-438-JP",
+  "content": "[[html]]\n <!-- 导入Wikidot默认样式和SCP-JP样式 -->\n <style>\n @import url(http://d3g0gp89917ko0.cloudfront.net/v--de24f08b1628/common--theme/base/css/style.css);\n @import url(http://d3g0gp89917ko0.cloudfront.net/v--de24f08b1628/common--theme/shiny/css/style.css);\n @import url(http://scp-jp.wdfiles.com/local--theme/scp-sigma-9-off-canvas/style.css);\n </style>\n\n <p id=\"testjs2\">\n#危险#这个SPC CL:5以下的人阅读会死可以吗？#危险#\n<P align='left'><A href=\"javascript:void(0)\" onClick='button();' id='btn1'>+ 同意并阅读</A><P></P><input type='button' value=\"不阅读\" onClick='button();' id='btn2'></P>\n </p>\n <script type=\"text/javascript\">\n <!--\n\nstr010=\"<p><b>项目编号:</b> \";\n str020=\"<p><b>项目等级:</b> \";\n str030=\"</p><p><b>特殊收容措施:</b> \";\n str040=\"</p><p><b>描述:</b> \";\n\n objNum = \"SCP-438-JP\";\n\n str021=\"Euclid\"; //如有必要 <s>删除线</s> 可以打上删除线。\n str031=\"若发现SCP-438-JP出现于基金会网络上，不可对被修改的文章选择肯定选项。如果选择了肯定选项，需立即向负责人报告。除D级人员外，所有工作人员都需阅读有关SCP-438-JP的报告。\";\n str041=\" SCP-438-JP是在基金会网络上不定期发生的现象。SCP-438-JP会出现在诸如报告和电子邮件等文档文件上，改变句子并询问阅览者。<p>若对上述问题选择了肯定选项，阅览者就会因疾病突发恶化、发作或发生事故而在12小时内死亡。这个现象是不可避免的，但推测有改变的几率，所以阅览者的隔离是没有意义的。如果对遭遇了上述事故的阅览者进行严格隔离，就会发生隔离建筑倒塌和高危险SCP收容失效等大规模灾害。关于阅览者的处理请遵循附页的「SCP-438-JP阅览者处决程序」。<p>与修改前的文本相比，SCP-438-JP修改的文章问题非常拙劣。另外，作为改变后的文章的特征，必定会出现“会死可以吗?”，如果职员事先了解过知识就可以回避。若在浏览后选择了肯定或否定选项，立即返回改变前的文章，其异常性将消失。<p>作为SCP-438-JP的对策，对网络配置和程序进行了修改，但是到目前2015/6为止，还没有发现阻止SCP-438-JP发生的有效手段。\";\n\nfunction button(){   // Yes表示\n document.getElementById(\"btn1\").style.display=\"none\";\n  document.getElementById(\"btn2\").style.display=\"none\";\n  document.getElementById(\"testjs2\").innerHTML= str010 + objNum + \"</p>\" + str020 + str021 + str030 + str031 + str040+ str041;\n }\n\n //-->\n </script>\n [[/html]]",
+  "tags": [
+    "euclid",
+    "jp",
+    "meta",
+    "scp"
+  ],
+  "author": "Mint chocolate",
+  "created_at": "2018-07-16T12:38:55+00:00",
+  "updated_at": "2018-07-16T12:39:06+00:00",
+  "rating": 0,
+  "_site": "scp-wiki-cn",
+  "_fullname": "scp-438-jp"
+}

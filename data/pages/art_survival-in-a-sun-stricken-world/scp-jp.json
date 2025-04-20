@@ -1,0 +1,15 @@
+{
+  "title": "陽光が照りつけるこの世界で生き延びるということ",
+  "content": "[[include :scp-jp:theme:penumbra]]\n[[module css]]\n:root {\n  --accentColor: #FF5512;\n  --header-title: \"破暁\";\n  --header-subtitle: \"SOL'S CRUEL PLANET\";\n  --lgurl: url(\"http://scp-jp-storage.wdfiles.com/local--files/file%3A3995762-28-7263/daybreaklogo.png\");\n}\n[[/module]]\n\n\n[[include credit:start]]\n**タイトル:** 陽光が照りつけるこの世界で生き延びるということ\n**著者:** ©︎[[*user emotionalentropy]]\n**翻訳:** [[*user SCPopepape]]\n**原記事:** [[[https://scp-wiki.wikidot.com/art:survival-in-a-sun-stricken-world|Survival in a Sun Stricken World]]]\n**参照リビジョン：** 6\n**作成年:** 2023\n[[include credit:end]]\n\n[[include component:image-block\n| name=http://scp-jp-storage.wdfiles.com/local--files/file:8207850-36-s02w/daybreak.jpg\n| width=1000px\n| caption=スプレー塗料・アクリル画材を使用した手描きによるSCP-001 - 夜明けの刻\n| align=center]]\n\n[[=]]\n破暁カノン（そして//夜明けの刻//そのもの）の無慈悲な太陽の下、危険な旅をする1人の生存者の人影を描いた大きな絵です。そうですね、外に出られないことは解っています。しかし、人影は分厚い防護服を身に纏っているのです。\n[[/=]]",
+  "tags": [
+    "en",
+    "アートワーク",
+    "破暁"
+  ],
+  "author": "SCPopepape",
+  "created_at": "2023-08-04T10:58:57+00:00",
+  "updated_at": "2023-08-04T10:59:08+00:00",
+  "rating": 26,
+  "_site": "scp-jp",
+  "_fullname": "art:survival-in-a-sun-stricken-world"
+}

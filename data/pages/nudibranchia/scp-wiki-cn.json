@@ -1,0 +1,13 @@
+{
+  "title": "世上第一只创建艺作页的海蛞蝓",
+  "content": "[[module CSS]]\n/* 隐藏原始页面标题 */\n#page-title {\n  display: none;\n}\n\n/* 让我的假页面标题看着更像原来的（感谢SCP-2998） */\n.page-title {\n  border-bottom: solid 1px #bbbbbb;\n  color: #990011;\n  font-weight: normal;\n  margin: 0 0 0.6em;\n  padding: 0 0 0.25em;\n  font-size: 200%;\n}\n.page-title p {\n  margin: 0;\n}\n[[/module]]\n\n[[div class=\"page-title\" style=\"display: block;\" id=\"#page-title\"]]\n世上第一只创建艺作页的海蛞蝓[[footnote]]**译注：**作者ID为nudibranch，即裸鳃目，为海蛞蝓的一种。[[/footnote]]\n[[/div]]\n\n[[collapsible hideLocation=\"top\" show=\"+ Shiloh Hoffman\" hide=\"\"]] [[image https://nudibranch.neocities.org/art/e32.png]] [[/collapsible]]\n[[collapsible hideLocation=\"top\" show=\"+ SCP-2428\" hide=\"\"]] [[image https://nudibranch.neocities.org/art/fdg4.png]] [[/collapsible]]\n[[collapsible hideLocation=\"top\" show=\"+ SCP-3421\" hide=\"\"]] [[image https://nudibranch.neocities.org/art/3421.png]] [[/collapsible]]\n[[collapsible hideLocation=\"top\" show=\"+ SCP-001 Lily的提案\" hide=\"\"]] [[image https://nudibranch.neocities.org/art/fgh.png]] [[/collapsible]]\n[[collapsible hideLocation=\"top\" show=\"+ SCP-682，SCP-408\" hide=\"\"]] [[image https://nudibranch.neocities.org/art/sdgh.png]] [[/collapsible]]\n\n你可以在[*http://nudibranch.neocities.org/art.html 我的网站]上看到更多艺作。我接受本页讨论区的点图和约稿（或者你可以给我发送心灵感应波）",
+  "tags": [
+    "艺术家"
+  ],
+  "author": "Esperanza_Cai",
+  "created_at": "2021-06-26T13:06:45+00:00",
+  "updated_at": "2021-09-12T06:29:48+00:00",
+  "rating": 9,
+  "_site": "scp-wiki-cn",
+  "_fullname": "nudibranchia"
+}

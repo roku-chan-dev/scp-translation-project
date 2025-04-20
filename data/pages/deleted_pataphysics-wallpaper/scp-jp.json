@@ -1,0 +1,11 @@
+{
+  "title": "空想科学部門の壁紙",
+  "content": "[[include :scp-jp:theme:pataphysics]]\n[[include :scp-jp:credit:start]]\n**タイトル:** 空想科学部門の壁紙\n**著者:** [[*user seinos]]\n**作成年:** 2023\n[[include :scp-jp:credit:end]]\n\n空想科学部門の壁紙です。よかったらご自由にお使いください。\n\n[[collapsible show=\"+ 空想科学部門壁紙（日本語）\" hide=\"- 我らの神を殺す\"]]\n[[div class=\"scp-image-block block-center scp-clear-false\" style=\"width:100%;\"]]\n[[image http://scp-jp-storage.wdfiles.com/local--files/file%3A8374323-1-4zbx/A3F7D60E-8AC9-463C-A74A-479E24F20A46.png style=\"width:100%;\" link=#]]\n[[div class=\"scp-image-caption\" style=\"width:100%;\"]]\n空想科学部門壁紙（日本語バージョン）\n[[/div]]\n[[/div]]\n[[module CSS]]\n@media (max-width: 768px) {\n.scp-clear-true.scp-image-block {\nfloat: none;\nclear: both;\nmargin-left: auto;\nmargin-right: auto;\n}\n}\n[[/module]]\n\nアニメーションバージョンは[https://youtu.be/-OViPVw61KE こちらのリンク]をクリックしてください。\n[[/collapsible]]\n\n[[collapsible show=\"+ Pataphysics dept.（English）\" hide=\"- Killing Our God\"]]\n[[div class=\"scp-image-block block-center scp-clear-false\" style=\"width:100%;\"]]\n[[image http://scp-jp-storage.wdfiles.com/local--files/file%3A8374323-2-z56u/3E425FBD-FD57-4B09-8C26-61792519D1E5.png style=\"width:100%;\" link=#]]\n[[div class=\"scp-image-caption\" style=\"width:100%;\"]]\nPatahysics department wallpaper（English ver）\n[[/div]]\n[[/div]]\n[[module CSS]]\n@media (max-width: 768px) {\n.scp-clear-true.scp-image-block {\nfloat: none;\nclear: both;\nmargin-left: auto;\nmargin-right: auto;\n}\n}\n[[/module]]\n\n[https://youtu.be/SWInnt98ODc Click here] for animated version.\n[[/collapsible]]",
+  "tags": [],
+  "author": "seinos",
+  "created_at": "2023-02-12T00:54:55+00:00",
+  "updated_at": "2023-05-27T15:34:49+00:00",
+  "rating": -3,
+  "_site": "scp-jp",
+  "_fullname": "deleted:pataphysics-wallpaper"
+}

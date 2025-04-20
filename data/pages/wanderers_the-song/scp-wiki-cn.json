@@ -1,0 +1,15 @@
+{
+  "title": "吟游诗人",
+  "content": "[[module css]]\n@import url('https://fonts.googleapis.com/css?family=Gochi+Hand|Source+Sans+Pro&display=swap');\n\n.rmpostcontainer\n{\n    background-image: url('http://firedawnfolder.wikidot.com/local--files/component:larueposting/LaRueDesk.png');\n    background-repeat: no-repeat;\n    width: 100%; max-width: 660px;\n    height: 980px;\n    margin: 0px;\n        padding: 60px 20px 0px 60px;\n}\n\n.rmpostcontent\n{\n    font-family: 'Source Sans Pro', sans-serif;\n    font-family: 'Gochi Hand', cursive;\n    font-style: normal;\n    font-size: 1.30em;\n    color: #000;\n    width: 530px;\n    height: 880px;\n    padding: 30px;\n    margin: 0px;\n    margin-top: -8px;\n}\n\n.rmpostmobiletitle\n{\n    display: none;\n}\n\n.scribble\n{\n    font-style: bold;\n    font-size: 1.30em;\n    color: #000;\n    width: 250px;\n    padding: 0px 0px 0px 90px;\n    margin: 0px;\n    margin-top: -8px;\n    -ms-transform: rotate(20deg); /* IE 9 */\n    transform: rotate(20deg); /* Standard syntax */\n}\n\n@media only screen and (max-width: 600px) {\n\n    .rmpostcontainer {\n        background-image: url(\"http://firedawnfolder.wikidot.com/local--files/component:larueposting/LaRueMobile.png\");\n        background-size: 100%;\n        background-repeat: repeat;\n        width: 100%;\n        height: auto;\n        padding: 0px;\n        padding-top: 0px;\n    }\n\n    .rmpostcontent {\n        font-size: 14pt;\n        width: 85%;\n        height: auto;\n        padding: 10px 10px 0px 30px;\n    }\n\n    .rmposttitle {\n        width: auto;\n        height: auto;\n        padding: 0px 20px 0px 70px;\n    }\n\n}\n\n[[/module]]\n\n[[include :scp-wiki-cn:credit:start]]\n作者[[*user CTorJSChen]]\n[http://scp-wiki-cn.wikidot.com/collab:jschen  我的人事页]\n希望您喜欢这篇文章。\n[[include :scp-wiki-cn:credit:end]]\n\n[[div class=\"rmpostcontainer\"]]\n@@ @@\n@@ @@\n[[div class=\"rmpostmobiletitle\"]]\n[[/div]]\n[[div class=\"rmpostcontent\"]]\n当日月同升的时候，他们伴随着朝霞一同醒来。\n\n“走？”一个人问。\n\n“走。”一个人说。\n\n于是他们于草原上起身，拾起两根坚实的木棍，向着远方而行。\n\n他们伴随着呦呦鹿鸣，吱喳鸟雀，行走于山川之中。\n\n山为他们开路，水为他们成峡。\n\n太阳燎烤着他们，他们将时间放缓，享受着永恒的晨曦。\n\n他们走近奇珍异兽，倾听他们的喜怒哀乐，了解他们的酸甜苦辣。\n\n他们走过田垄，望着在田间耕作的男人们。\n\n他们走进院落，把一个个故事讲给老奶奶和他的小孙子听。\n\n他们走出院落，向着远山走去。\n------\n没人知道他们去向何方，也不知道是不是大海的方向。\n\n他们走到旷远的平原之上，声音昂扬：\n\n//**哦，那盛夏的风，我为你歌唱，**//\n\n//**请带走我吧，去我能消失的地方。**//\n\n然后他们就此倒下，化为无数尘埃。\n------\n老人与孩子们传唱着他们的歌曲和故事，如种子一般撒向远方。\n\n没人知道他们的名字，于是吟游诗人的名号就被人遗忘。\n\n\n[[/div]]\n[[/div]]\n\n\n[[=]]\n<<[http://scp-wiki-cn.wikidot.com/wanderers:the-song 吟游诗人 其一] | [http://scp-wiki-cn.wikidot.com/wanderers:the-song2 吟游诗人 其二] |  [http://scp-wiki-cn.wikidot.com/wanderers:the-song3 吟游诗人 其三 ]>>\n[[/=]]",
+  "tags": [
+    "wanderers",
+    "原创",
+    "游人志异"
+  ],
+  "author": "CTorJSChen",
+  "created_at": "2019-10-04T14:11:24+00:00",
+  "updated_at": "2020-02-24T00:47:16+00:00",
+  "rating": 33,
+  "_site": "scp-wiki-cn",
+  "_fullname": "wanderers:the-song"
+}

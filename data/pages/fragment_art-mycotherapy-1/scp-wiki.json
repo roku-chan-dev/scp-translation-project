@@ -1,0 +1,13 @@
+{
+  "title": "fragment:1",
+  "content": "[[include :scp-wiki:theme:penumbra]]\n[[module CSS]]\n.linkOne a{\n    color: #2F333C;\n}\n.linkOne a:hover{\n    color: #2F333C;\n    background-color: #2F333C;\n}\n.linkOne a:visited{\n    color: #2F333C;\n}\n\n.linkTwo a{\n    color: #1EB5E8;\n}\n.linkTwo a:hover{\n    color: #2F333C;\n    background-color: #21EB5E8;\n}\n.linkTwo a:visited{\n    color: #1EB5E8;\n}\n[[/module]]",
+  "tags": [
+    "fragment"
+  ],
+  "author": "IronShears",
+  "created_at": "2021-08-30T01:03:35+00:00",
+  "updated_at": "2021-09-02T01:34:03+00:00",
+  "rating": 0,
+  "_site": "scp-wiki",
+  "_fullname": "fragment:art-mycotherapy-1"
+}

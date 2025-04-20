@@ -1,0 +1,14 @@
+{
+  "title": "02249",
+  "content": "content: \"**説明:** --このアイテムは3日後に消滅する、と認識させる数字。--異常性のない文章。Anomalousアイテム解除が検討中。\\n**回収日:** 20██/██/██\\n**回収場所:** SCiP.net\\n**現状:** 評価が-2以上となったため、削除通知は取り消されました。\"\ntf2: '0'\nauthor: ''\nredirect-b: '[[module Redirect destination=\"http://ja.scp-wiki.net/log-of-anomalous-items-jp'\nredirect-e: '\"]]'",
+  "tags": [
+    "jp",
+    "剪定対象-子"
+  ],
+  "author": "readmaster",
+  "created_at": "2020-11-21T06:21:33+00:00",
+  "updated_at": "2022-02-17T12:02:40+00:00",
+  "rating": 147,
+  "_site": "scp-jp",
+  "_fullname": "anomalous-jp:02249"
+}

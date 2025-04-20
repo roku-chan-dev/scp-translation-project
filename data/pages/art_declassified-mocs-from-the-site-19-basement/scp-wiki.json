@@ -1,0 +1,15 @@
+{
+  "title": "Declassified MOCs from the Site-19 Basement",
+  "content": "[[include :scp-wiki:component:toggle-sidebar]]\n[[>]]\n[[module Rate]]\n[[/>]]\n\n[[module CSS]]\ndiv#extra-div-1 {\n    height: 140px;\n    width: 100%;\n    top: 0;\n    position: absolute;\n    background-image: url(\"https://scp-sandbox-3.wdfiles.com/local--files/lego-anky/387-header-5.svg\");\n    background-size: cover;\n}\n#header {\n    background: url(\"https://scp-sandbox-3.wdfiles.com/local--files/anky-remix/SCP_Foundation_%28emblem%29%20%281%29.svg\") 0px 30px no-repeat;\n    background-size: 6.5rem;\n}\n\nbody {\n    font-family: Arial;\n    font-size: 16px;\n    color: #000;\n}\n\nblockquote,\ndiv.blockquote {\n    padding: 1em;\n    margin: 1em 0;\n    border: 2px solid #000;\n    border-radius: 10px;\n    background-color: #D6EFFF;\n}\n\n.part blockquote,\n.blockquote.part {\n    background-color: #B8D7F3;\n    border: 1px solid #000;\n    border-radius: 2.5px;\n}\n\n.white blockquote,\n.blockquote.white{\n    background-color: #FFFFFF;\n    border: 1px solid #000;\n    border-radius: 2.5px;\n}\n\n.scp-image-block {\n    background-color: #B8D7F3;\n    border: 1px solid #000;\n    border-radius: 5px;\n    margin: 10px;\n    padding: 0em;\n}\n\n.scp-image-block .scp-image-caption {\n    background-color: #FFFFFF;\n    border: 1px solid #000;\n    border-radius: 5px;\n    margin: 2px;\n    padding: 0em;\n}\n\n[[/module]]\n@@ @@\n@@ @@\n@@ @@\n[[=]]\n//From the shelves of [https://scp-wiki.wikidot.com/secure-facility-dossier-site-387## Site-387]://\n[[/=]]\n@@ @@\n@@ @@\n@@ @@\n[[div class=\"blockquote\"]]\n[[include :scp-wiki:component:image-block-peppo\n|name=6217-9_10-min.png\n|add-caption=true\n|caption=[[[SCP-6217]]] manifestation. MTF Filskov-5 (\"AFOLs\") sent to investigate.\n|align=center\n|width=100%\n]]\n@@ @@\n**Director Arch's Notes:** The black stuff tastes horrible. I just... I can't stop eating it.\n[[/div]]\n@@ @@\n@@ @@\n@@ @@\n[[div style=\"background-color: #000; margin: 1px 1px; height: 2px;\"]]\n[[/div]]\n@@ @@\n@@ @@\n@@ @@\n[[div class=\"blockquote\"]]\n[[include :scp-wiki:component:image-block-peppo\n|name=6556-3-min.png\n|add-caption=true\n|caption= Reconstruction of [[[SCP-6556]]] by Director Arch.\n|align=center\n|width=100%\n]]\n@@ @@\n**Director Arch's Notes:** The only reasons I leave my site are for food and to catch the latest LifeOfRex video! I love this guy! He says it how it is. Maybe I was born in the wrong generation, I would've made a great ankylosaurus.\n[[/div]]\n@@ @@",
+  "tags": [
+    "_cc",
+    "artwork",
+    "scp-art"
+  ],
+  "author": "Anky swallow",
+  "created_at": "2023-11-09T12:30:22+00:00",
+  "updated_at": "2024-03-28T17:36:55+00:00",
+  "rating": 45,
+  "_site": "scp-wiki",
+  "_fullname": "art:declassified-mocs-from-the-site-19-basement"
+}

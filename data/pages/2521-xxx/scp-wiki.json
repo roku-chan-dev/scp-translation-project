@@ -1,0 +1,20 @@
+{
+  "title": "●●|●●●●●|●●|●-xxx",
+  "content": "[[module CSS]]\n\n#page-title { \ndisplay: none; \n}\n\n.meta-title {\n\nborder-bottom: solid 1px #bbbbbb;\n\ncolor: #990011;\n\nfont-weight: normal;\n\nmargin: 0 0 0.6em;\n\npadding: 0 0 0.25em;\n\nfont-size: 200%;\n\n}\n\n\n\n.meta-title p {\n\nmargin: 0;\n\n}\n\n[[/module]]\n\n[!--\nhttp://scp-wiki.wikidot.com/fragment:2521-xxx-0\nhttp://scp-wiki.wikidot.com/fragment:2521-xxx-1\nhttp://scp-wiki.wikidot.com/fragment:2521-xxx-2\nhttp://scp-wiki.wikidot.com/fragment:2521-xxx-3\nhttp://scp-wiki.wikidot.com/fragment:2521-xxx-4\nhttp://scp-wiki.wikidot.com/fragment:2521-xxx-5\nhttp://scp-wiki.wikidot.com/fragment:2521-xxx-6\n--]\n\n\n[[module ListPages category=\"fragment\" parent=\".\" limit=\"1\" order=\"name\" offset=\"@URL|0\"]]\n[[div class=\"meta-title\"]]\n%%title%%\n[[/div]]\n[[/module]]\n\n[[>]]\n[[module rate]]\n[[/>]]\n[[module ListPages category=\"fragment\" parent=\".\" limit=\"1\" order=\"name\" offset=\"@URL|0\"]]\n\n%%content%%\n\n@@@@\n\n[[/module]]\n\n[!--\nhttp://www.scp-wiki.net/fragment:2521-xxx-1\n--]\n\n[[include :scp-wiki:component:license-box]]\n=====\n> **Filename:** All of the files present on this page\n> **Author:** [[*user Ivi-Jinn]]\n> **License:** CC BY-SA 3.0\n> **Source Link:** [https://scp-wiki.wikidot.com/2521-xxx SCP Foundation Wiki]\n=====\n[[include :scp-wiki:component:license-box-end]]",
+  "tags": [
+    "_cc",
+    "_licensebox",
+    "_listpages",
+    "comic",
+    "painted",
+    "scp-art",
+    "tale",
+    "ten-dots"
+  ],
+  "author": "Ivi-Jinn",
+  "created_at": "2019-01-27T23:04:12+00:00",
+  "updated_at": "2024-07-28T07:10:13+00:00",
+  "rating": 242,
+  "_site": "scp-wiki",
+  "_fullname": "2521-xxx"
+}

@@ -1,0 +1,17 @@
+{
+  "title": "SCP-7718",
+  "content": "[[include :scp-wiki-cn:component:author-label-source start=--\n|name=Rab333]]\n朋友至关重要。\n[https://scp-wiki-cn.wikidot.com/rab333-s-contained-anomalies 还有，在这能看到我的更多作品！]\n[[include :scp-wiki-cn:component:author-label-source end=--]]\n\n[[include :scp-wiki-cn:theme:black-highlighter-theme]]\n[[include :scp-wiki-cn:theme:minimalist-bhl]]\n\n[[include :scp-wiki-cn:component:anomaly-class-bar-source\n|lang= cn\n|item-number=7718\n|clearance= 1\n|container-class=safe\n|disruption-class=ekhi\n|risk-class=待观察\n]]\n\n-----\n\n**特殊收容措施：**由于SCP-7718的性质，其不必且可能无法收容。任何对项目的研究都应以低优先级进行。\n\n**描述：**SCP-7718是一种会发生在全世界范围内的异常事件，在此类事件中，受影响的个体将会收到一个实体打来的电话，而该实体将被受影响的个体视为密友。绝大多数的SCP-7718事件都有着相似的细节：\n\n* 经历SCP-7718事件的个体年龄通常在29至55岁之间。[[footnote]] 有着更年轻的个体的例子，但在此年龄段内的更加常见。 [[/footnote]]\n* 在过去两周内的任意时间点里经历了上涨的悲伤、怀旧和/或焦虑的感情。\n* 个体背后并没有强大的支持团队或密友。\n\n@@ @@\n\n-----\n[[=]]\n++ 附录**7718.1**\n+++ 发现记录\n[[/=]]\n-----\n\n基金会.aic扫描仪在Harold Lee特工在2019年9月3日例行值班期间的的电话通信中发现了异常干扰，随后进行了进一步的调查。当时的通话的转录如下：\n\n[[div class=\"blockquote\"]]\n\n**SCP-7718：**你好？在吗？是Harold吗？我打的号对吗？\n\n**Harold：**嗯？你是谁？\n\n**SCP-7718：**哦，太好了！你好呀，我是Josh！\n\n**Harold：**Josh……哦——哦，等一下。你是姓Clark吗？Josh Clark？\n\n**SCP-7718：**当然啦！老弟，你现在咋样了？我们老长一段时间没说话了，我真挺对不起你的。\n\n**Harold：**你会给我打电话是我今天最想不到的事，我感觉我一直过得挺好，工作挺慢的。//（叹气）//\n\n**SCP-7718：**这些天你在干什么呢？我还记得你刚去路易斯安那州的时候，我想想，那是在2003年？应该吧，但是，我记得那会你真的挺想成为一名画家的，对吧。你现在还这么想吗？\n\n**Harold：**我是说，有时候我是这么想的，但是，我也不能被这种蠢事缠着吧。现在我倒是天天//坐办公室//了。（嗤笑）但是至少我也有事干了。\n\n**SCP-7718：**嗐。你要是在赚钱，就已经足够了。真的。如果你是在给什么大公司打工，至少说，他们做错了什么也挨不到你头上来，那些乱七八糟的事。至于我自己呢，呃，我冒了一些险，你知道的，尝试去做了一些事情。有些有点用，有些倒没有。\n\n**Harold：**哈，我明白。\n\n**SCP-7718：**但是，你知道的，我打电话的原因是——我现在就在城里，在努力解决另一些工作上的事情。我是说，你一会想去喝一杯吗？我请客，就当是为了我们过去的那些日子。\n\n**Harold：**你可能得等我下班等一会了……但是，管他呢。我同意。为了我们过去的那些日子。就是别重现你那些乱七八糟的派对小把戏了——你大学的那些。\n\n**SCP-7718：**我也不能保证什么……但反正就这么定了！你下班的时候记得给我打电话。\n\n**Harold：**嗯，谢谢了。真的。等我几个小时就打回来。\n\n**SCP-7718：**好啊，老弟。过会见。\n\n[[/div]]",
+  "tags": [
+    "2023重混竞赛",
+    "safe",
+    "scp",
+    "智能",
+    "通讯"
+  ],
+  "author": "Mizuhanabi",
+  "created_at": "2023-08-29T04:44:00+00:00",
+  "updated_at": "2023-08-29T04:57:07+00:00",
+  "rating": 1,
+  "_site": "scp-wiki-cn",
+  "_fullname": "scp-7718"
+}

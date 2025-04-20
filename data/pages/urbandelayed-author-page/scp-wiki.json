@@ -1,0 +1,14 @@
+{
+  "title": "urbandelayed author page",
+  "content": "[[>]]\n[[module rate]]\n[[/>]]\n\n[[include theme:black-highlighter-theme]]\n[[module css]]\n@import url('https://fonts.googleapis.com/css?family=Baltimore+Typewriter);\n@import url('https://fonts.googleapis.com/css?family=Times+New+Roman');\n[[/module]]\n[[include component:info-ayers\n|lang=en[!-- EN/RU/KO/CN/FR/PL/ES/TH/JP/DE/IT/UA/PTBR --]\n|authorPage=http://www.scp-wiki.net/urbandelayed-author-page[!-- link to your author page --]\n]]\n\n[[include component:image-block name=ilovecc.jpg|caption=**How urbandelayed feels on the inside.**| size=\"small\"]]\n\n**Name:** █████\n\n**Age:** ██\n\n**Location:** USA, Earth, Sol System, Milky Way Galaxy\n\n**Occupation:** --Full-Time Student-- //lmao dropped out//\n\n**Tragic Flaw:** Obsesses over hobbies and then gets burnt out. (Ex: Writing for the SCP Wiki)\n\n**Interests:** \n* Creative Writing (obviously)\n* Technology\n* Philosophy\n* Spirituality\n* Level Design\n* Graphic Design\n* Digital Music Composition\n* Film (Star Wars and Blade Runner especially)\n-----\n**Posted SCPs:** \n* [[[http://www.scp-wiki.net/scp-3779 | SCP-3779]]] - A Greenhouse: Or, How D-80801 Learned To Give In And Embrace Nature\n* [[[http://www.scp-wiki.net/scp-3314 | SCP-3314]]] - Paintings From a Homesick Painter\n* [[[http://www.scp-wiki.net/scp-3438 | SCP-3438]]] - Recursive Romance\n-----\n**Sandboxes:**\n* [[[http://scp-sandbox-3.wikidot.com/urbandelayed | Sandbox 1]]]\n* [[[http://scp-sandbox-3.wikidot.com/urbandelayed2 | Sandbox 2]]]\n* [[[http://scp-sandbox-3.wikidot.com/urbandelayed3 | Working Title: In The Persuit of Truth]]]",
+  "tags": [
+    "_cc",
+    "author"
+  ],
+  "author": "urbandelayed",
+  "created_at": "2019-09-29T22:22:17+00:00",
+  "updated_at": "2020-06-14T19:26:15+00:00",
+  "rating": 11,
+  "_site": "scp-wiki",
+  "_fullname": "urbandelayed-author-page"
+}

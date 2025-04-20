@@ -1,0 +1,24 @@
+{
+  "title": "SCP-5579",
+  "content": "[[include info:start]]\n**SCP-5579:** 보바 어란(Boba Roe)\n**원작:** http://www.scpwiki.com/scp-5579\n**저자:** [[*user T Rutherford]]\n**역자:** [[*user Crssk]]\n\n> **파일명:** SCP-5579.jpg\n> **원본:** ObsidianBladeChiapaTuxtla\n> **저작권자:** Nandaro\n> **라이선스:** CC-BY-SA 3.0\n> **출처:** [https://commons.wikimedia.org/wiki/File:ObsidianBladeChiapaTuxtla.JPG 위키미디어 커먼즈]\n\n> **파일명:** SCP-5579-1.jpg\n> **원본:** Cassava_root_(4626690699).jpg\n> **저작권자:** CIAT\n> **라이선스:** CC-BY-SA 2.0\n> **출처:** [https://commons.wikimedia.org/wiki/File:Cassava_root_(4626690699).jpg 위키미디어 커먼즈]\n\n> **파일명:** SCP-5579-2.jpg\n> **원본:** Kerala_Cassava_plant_2.jpg\n> **저작권자:** CIAT\n> **라이선스:** CC-BY-SA 4.0\n> **출처:** [https://commons.wikimedia.org/wiki/File:Kerala_Cassava_plant_2.jpg 위키미디어 커먼즈]\n----\n[[include info:end]]\n\n[[module ListPages  category=\"fragment\" parent=\".\" limit=\"1\" order=\"created_at\" offset=\"@URL|0\"]]\n%%content%%\n[[/module]]\n\n[!-- http://scpko.wikidot.com/fragment:scp-5579-1 --]\n[!-- http://scpko.wikidot.com/fragment:scp-5579-2 --]",
+  "tags": [
+    "en",
+    "scp",
+    "기생성",
+    "마셜-카터&다크",
+    "생물",
+    "세균",
+    "아이리스-다크",
+    "외계",
+    "유클리드",
+    "음식",
+    "특집",
+    "화학"
+  ],
+  "author": "Crssk",
+  "created_at": "2020-08-19T14:22:54+00:00",
+  "updated_at": "2024-12-09T10:54:36+00:00",
+  "rating": 22,
+  "_site": "scpko",
+  "_fullname": "scp-5579"
+}

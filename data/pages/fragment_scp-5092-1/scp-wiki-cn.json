@@ -1,0 +1,13 @@
+{
+  "title": "Scp 5092 1",
+  "content": "[[include :scp-wiki-cn:theme:black-highlighter-theme]]\n[[include :scp-wiki:component:bhl-dark-sidebar]]\n[[include :scp-wiki:component:toggle-sidebar-bhl]]\n[[include :scp-wiki-cn:component:betterfootnotes]]\n\n[[module CSS]]\n#page-title {\n    display: none;\n}\n\n[[/module]]\n\n[[div style=\"color: black; border: solid 1px #000000; background:#e7f7fb url(http://scp-wiki.wdfiles.com/local--files/the-great-hippo/scp_trans.png) center no-repeat; padding:1px; margin-bottom: 10px;box-shadow: 5px 4px 3px rgba(0,0,0,.2); \"]]\n[[f<image http://scp-wiki.wdfiles.com/local--files/fragment:scp-5092-1/Padlock4.png]]\n[[=]]\n+++ 提醒：你正在查阅本文件的已归档版本。\n----\n**本文件是一在用文档的前一版本。它已被锁定归档。其中包含的信息可能不准确或无法反映最近期的可用数据。**\n~~~~\n[[/=]]\n[[/div]]\n\n[[include :scp-wiki-cn:component:acs-hybrid-text-bar-source\n|lang= cn\n|version= hybrid\n|item-number= 5092\n|clearance-level= 1\n|containment-class= safe\n|disruption-class= dark\n|risk-class= 待观察\n]]\n\n**特殊收容措施：**\n[[include component:image-block\n| name=http://scp-wiki.wdfiles.com/local--resized-images/fragment:scp-5092-1/Obama/medium.jpg\n| caption=SCP-5092事件中的巴拉克·奥巴马总统\n| width=299px\n]]\n\n美利坚合众国现任总统将在每晚19:45到20:00期间处于视频监控下，[[span class=\"fnnum\"]].[[/span]][[span class=\"fncon\"]]文件内所有时间使用UTC-5（华盛顿时间）[[/span]][其面部和/或手臂应尽可能纳入到镜头内。\n\n监控将通过在白宫、国会、总统私人住宅及常规的总统讲话道路周边内外安装隐蔽摄像头完成。若总统在任何夜晚的19:45到20:00期间离开上述区域，应出动一名特工提前在其所在地安装隐蔽摄像头，或视觉确认事件发生状况。这被视作一次1级/Dark响应情形。[[span class=\"fnnum\"]].[[/span]][[span class=\"fncon\"]]最低优先度，基金会资源若有必要或方便起见应分配给其他任务。[[/span]]\n\n所有录像视频每小时自动保存到Site-10的终端12号。之后将其提供给算法(A5092.amk)检查SCP-5092标准表现有无偏异。应每年检查此算法有无缺陷。\n\n**描述：**\nSCP-5092是一种影响美国总统的现象；每晚19:53时，总统必定会抓挠鼻部，无论外部因素如何。这不是直接的冲动所致，仅是由鼻部自发出现的瘙痒引起。\n\n**发现：**\nSCP-5092于1982年被第二版异常表征识别程序[[span class=\"fnnum\"]].[[/span]][[span class=\"fncon\"]]又名A.S.R.P.2，属于基金会首批次使用学习算法寻找异常。[[/span]]发现，当时允许其访问了基金会“重要政治活动者视频档案库”，其中包含的大量SCP-5092事件视频足以使A.S.R.P.2侦测到异常。\n\n[[div style=\"color: black; border: solid 1px #000000; background:#e7f7fb url(http://scp-wiki.wdfiles.com/local--files/the-great-hippo/scp_trans.png) center no-repeat; padding:1px; margin-bottom: 10px;box-shadow: 5px 4px 3px rgba(0,0,0,.2); \"]]\n[[=]]\n注意：你正在查阅的是本文件的一份过期版本(2009/10/17)。查阅最近修订，点击[http://scp-wiki-cn.wikidot.com/scp-5092/offset/1 此处]。\n[[/=]]\n[[/div]]",
+  "tags": [
+    "段落"
+  ],
+  "author": "ashausesall",
+  "created_at": "2020-10-25T15:10:01+00:00",
+  "updated_at": "2024-06-24T04:10:11+00:00",
+  "rating": 0,
+  "_site": "scp-wiki-cn",
+  "_fullname": "fragment:scp-5092-1"
+}

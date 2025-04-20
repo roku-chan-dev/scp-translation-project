@@ -1,0 +1,14 @@
+{
+  "title": "info:_template",
+  "content": "[[div_ class=\"wikisys--template-dialog\"]]\n[[div_ class=\"wikisys--template-dialog-header\"]]\nこのページはコンポーネントページです\n[[/div]]\n[[div_ class=\"wikisys--template-dialog-content\"]]\n**Infoモジュールを構成するシステムページです。**\n許可なく編集しないでください。編集が必要だと思われる場合は、このページのディスカッションか、[[[contact-staff|サイトスタッフ]]]までご連絡ください。\n[[/div]]\n[[div_ class=\"wikisys--template-dialog-footer\"]]\n運用について、詳しくは[[[category-policy|]]]を参照してください。\n[[/div]]\n@@ @@\n[[div_ class=\"wikisys--template-dialog-header\"]]\nお願い\n[[/div]]\n[[div_ class=\"wikisys--template-dialog-content\"]]\ninfoモジュールは、翻訳記事以外には使用しないでください\nSCP-JPで作成された記事に対しては、以下のクレジットモジュールを使用してください\n[[div class=\"blockquote\"]]\n@@[[include credit:start]]@@\n@@**タイトル:** SCP-XXXX-JP - メタタイトル@@\n@@**著者:** [[*user あなたのアカウント名]]@@\n@@**作成年:** 2020@@\n@@[[include credit:end]]@@\n[[/div]]\n[[/div]]\n[[div_ class=\"wikisys--template-dialog-footer\"]]\n**詳しくは[http://scp-jp.wikidot.com/standard-template#toc12 記事標準テンプレートガイド]を参照してください。**\n[[/div]]\n[[/div]]\n\n[[include :scp-jp:_template]]",
+  "tags": [
+    "jp",
+    "管理"
+  ],
+  "author": "ukwhatn",
+  "created_at": "2020-08-15T03:46:48+00:00",
+  "updated_at": "2025-03-04T15:38:27+00:00",
+  "rating": 1,
+  "_site": "scp-jp",
+  "_fullname": "info:_template"
+}

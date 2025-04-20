@@ -1,0 +1,13 @@
+{
+  "title": "Flops的版头 源代码",
+  "content": "[[module CSS]]\n/* 点击这里查看实际效果：\n * http://scp-wiki-cn.wikidot.com/component:flops-header\n**/\n\n/* ---- ITEM INFO ---- */\n .itemInfo{\n     position: relative;\n     top: .5em;\n     width: 100%;\n\n     font-size: 135%;\n     text-transform: uppercase;\n     white-space: nowrap;\n}\n .itemInfoHeading{\n     font-weight: 900;\n}\n .alignL{\n     position: relative;\n     right: .195em;\n}\n .alignR{\n     position: relative;\n     left: .195em;\n\n     text-align: right;\n}\n .infofield_1,\n .infofield_2{\n     font-weight: inherit;\n}\n\n/* ---- DISRUPTION CLASS ---- */\n a.disruptionHeader{\n     display: inline-block;\n     width: 100%;\n     padding: .3em 0;\n\n     color: hsl(0, 0%, 91.5%);\n\n     font-size: 145%;\n     text-align: center;\n     text-decoration: none;\n     text-shadow:\n          .5px    .9px  0 hsla(0, 0%, 0%, .3),\n        1.5px   2.6px  0 hsla(0, 0%, 0%, .3);\n     text-transform: uppercase;\n     transition: color .15s linear;\n}\n a.disruptionHeader:hover{\n     color: white;\n     background-color: transparent;\n     text-decoration: none;\n}\n\n.lang-cn .lang-tr,\n.lang-tr .lang-cn {\n    display: none;\n}\n[[/module]]\n\n[[div]]\n[[table class=\"itemInfo darkbox lang-{$lang}\"]]\n  [[row]]\n    [[cell class=\"alignL\"]]\n      [[span class=\"itemInfoHeading bt\"]][[span class=\"infofield_1\"]][[span class=\"lang-cn\"]]项目编号：[[/span]][[span class=\"lang-tr\"]]項目編號：[[/span]][[/span]][[/span]]SCP-{$item}\n    [[/cell]]\n    [[cell class=\"alignR\"]]\n      [[span class=\"itemInfoHeading bt\"]]{$level}/{$item} [[span class=\"lang-cn\"]]级[[/span]][[span class=\"lang-tr\"]]級[[/span]][[/span]]\n    [[/cell]]\n  [[/row]]\n  [[row]]\n    [[cell class=\"alignL\"]]\n      [[span class=\"itemInfoHeading bt bh\"]][[span class=\"infofield_2 bh\"]][[span class=\"lang-cn\"]]收容等级：[[/span]][[span class=\"lang-tr\"]]收容等級：[[/span]][[/span]][[/span]]{$containment}\n    [[/cell]]\n    [[cell class=\"alignR\"]]\n      [[span class=\"itemInfoHeading bt\"]]{$security}[[/span]]\n    [[/cell]]\n  [[/row]]\n[[/table]]\n\n[[a href=\"*/anomaly-classification-system-guide\" class=\"disruptionHeader lang-{$lang}\" style=\"background-color: {$disruption-bg-color};\"]][[span style=\"font-weight: 900;\"]][[span class=\"lang-cn\"]]扰动等级：[[/span]][[span class=\"lang-tr\"]]擾動等級：[[/span]][[/span]]{$disruption}[[/a]]\n[[/div]]",
+  "tags": [
+    "样版"
+  ],
+  "author": "Etinjat",
+  "created_at": "2020-05-23T10:17:40+00:00",
+  "updated_at": "2022-04-14T04:53:30+00:00",
+  "rating": 1,
+  "_site": "scp-wiki-cn",
+  "_fullname": "component:flops-header-source"
+}

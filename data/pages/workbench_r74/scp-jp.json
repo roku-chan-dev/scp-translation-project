@@ -1,0 +1,14 @@
+{
+  "title": "workbench - r74",
+  "content": "[[module listpages category=\"scp-flavor\" perPage=\"250\" ]]\n\n[[div class=\"o_%%form_data{original}%%\"]]\n%%form_raw{original}%% [*/%%fullname%%/noredirect/true/norender/true/#_editpage %%name%%]\n[[/div]]\n[[/module]]\n\n[[module css]]\n[class^=\"o_a\"],\n[class^=\"o_b\"],\n[class^=\"o_c\"],\n[class^=\"o_d\"],\n[class^=\"o_e\"],\n[class^=\"o_f\"],\n[class^=\"o_g\"],\n[class^=\"o_h\"],\n[class^=\"o_i\"],\n[class^=\"o_j\"],\n[class^=\"o_k\"],\n[class^=\"o_l\"],\n[class^=\"o_m\"],\n[class^=\"o_n\"],\n[class^=\"o_o\"],\n[class^=\"o_p\"],\n[class^=\"o_q\"],\n[class^=\"o_r\"],\n[class^=\"o_s\"],\n[class^=\"o_t\"],\n[class^=\"o_u\"],\n[class^=\"o_v\"],\n[class^=\"o_w\"],\n[class^=\"o_x\"],\n[class^=\"o_y\"],\n[class^=\"o_z\"] {\n  display: none;\n}\n[[/module]]",
+  "tags": [
+    "jp",
+    "ワークベンチ"
+  ],
+  "author": "R74",
+  "created_at": "2023-07-19T14:14:58+00:00",
+  "updated_at": "2025-01-16T12:32:53+00:00",
+  "rating": 0,
+  "_site": "scp-jp",
+  "_fullname": "workbench:r74"
+}

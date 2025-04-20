@@ -1,0 +1,24 @@
+{
+  "title": "SCP-6469-D",
+  "content": "[[div style=\"display:none;\"]]\n\n赤ちゃん?????\n\n[[/div]]\n\n[[include :scp-jp:theme:black-highlighter-theme]]\n\n[[>]]\n[[module Rate]]\n[[/>]]\n\n[[include :scp-wiki:component:author-label-source start=--\n|name=Calibold\n|no-right-margin=*]]\n[[=]]\n[[module ListPages range=\".\"]]\n**%%title%% -- %%first_paragraph%%**\n[[/module]]\n\n**[*https://scp-wiki.wikidot.com/calibri-bold-s-mega-cool-author-page Caliboldの超絶クールな著者ページ]**\n\n------\n\nボールド管理官の最高な画像は[*https://scp-wiki.wikidot.com/dr-whitneys-stinky-author-page Dr Whitney]が制作しました。\n\nイタリア語の翻訳にあたってSiddartha Alonneに支援していただきました。\n\n[[/=]]\n[[include :scp-wiki:component:author-label-source end=--]]\n\n[[include component:image-block\n|name=http://scp-jp-storage.wdfiles.com/local--files/file%3A2375337-349-sdg7/dababy.jpg\n|caption=SCP-6469を写した唯一既知の写真。\n|width=300px\n]]\n\n**アイテム番号:** SCP-6469-D\n\n**オブジェクトクラス:** --Keter-- Decommissioned\n\n**特別収容プロトコル (アーカイブ版):** SCP-6469を追跡、または次回の出現先を予測する既知の手段はありません。全ての収容試行は、目撃者に記憶処理を施し、民間社会がSCP-6469を大災害や死と関連付けるのを防ぐことに主眼を置いています。\n\n**説明 (アーカイブ版):** SCP-6469は生後約6～12ヶ月と思われる幼児ですが、実際の年齢は不明です。\n\nSCP-6469は、人為的か自然現象かを問わず、悲劇的な大惨事や災害の発生直前に出現します。必ずではないものの、通常は複数の人間がいる公共の場に現れます -- 特筆すべき点として、SCP-6469は宗教施設への出現を好む反面、特定の信仰へのこだわりを持たないようです。また、SCP-6469は時折、角を生やす、光や音を発する、様々な言語で話す、開口部から血を流すなどの生理学的変化を起こすこともあります[[footnote]]前例の無い惨事でトラウマを負った目撃者たちの供述が唯一の証拠であるため、これらの特徴は不正確である可能性がありますが、多くの事例では変化の詳細が証言間で一貫していることから、信憑性があるものと見做されています。[[/footnote]]。\n\nそれ以外のSCP-6469の特徴は、予告される災害との関連性も含め、ほとんど判明していません。確証は無いものの、SCP-6469がこれらの事象の原因であるという説が有力視されています。\n\n**補遺 6469.1:** エリア-137[[footnote]][[[Decom. Dept. Hub|解体部門]]]本部。[[/footnote]]が正式な落成を迎える前夜、SCP-6469はカルヴィン・ボールド管理官のオフィスに出現しました。当時、ボールド管理官はオフィス内で関連書類のまとめ作業を行っていました。\n\n[[div class=\"blockquote\"]]\n\n[[include component:image-block\n| name=http://scp-jp-storage.wdfiles.com/local--files/file%3A2375337-350-h3q6/Calvin%20Bold%20IRL.jpg\n| caption=カルヴィン・ボールド管理官。\n| width=20%]]\n\n//[ボールド管理官はデスクの前に座り、書類を整理している。SCP-6469がオフィスの床に出現するが、ボールドは当初これに気付かない。SCP-6469は重度の形態学的な変化を起こし始める。]//\n\n**SCP-6469:** Attento, Calvin Bold. È arrivato il momento in cui le tue ambizioni si realizzeranno. Eppure, dico io, solamente una tragedia germoglierà da—[[footnote]]イタリア語から翻訳: “用心せよ、カルヴィン・ボールド。貴様の野望が結実する時は手も届くほどに近い。しかし、この私が告げよう、そこから芽吹くのはただ悲劇のみ—”[[/footnote]]\n\n//[ボールドはSCP-6469に気付き、ショックを受けて飛び退く。]//\n\n**ボールド:** げえっ！ なんだ//あれ//は？\n\n//[ボールドは幼児に向かって疾走し、全力で壁に蹴りつけて即死させる。]//\n\n[[/div]]\n\n結局、この事件は突発的なセキュリティ違反への適切な対応と見做され、懲戒処分は科されませんでした[[footnote]]加えて、ボールド自身が遡及的にSCP-6469-Dの終了処分を承認しました。[[/footnote]]。エリア-137の落成は予定通りに進行し、最終的にSCP-6469-Dの遺体はそこに保管されました。\n\n[[footnoteblock]]",
+  "tags": [
+    "decommissioned",
+    "en",
+    "scp",
+    "ボールド管理官",
+    "人間型",
+    "可視光",
+    "変身",
+    "未収容",
+    "生命",
+    "瞬間移動",
+    "知性",
+    "音波"
+  ],
+  "author": "C-Dives",
+  "created_at": "2022-02-08T12:25:09+00:00",
+  "updated_at": "2024-04-21T11:42:48+00:00",
+  "rating": 53,
+  "_site": "scp-jp",
+  "_fullname": "scp-6469"
+}

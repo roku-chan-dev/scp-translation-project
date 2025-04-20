@@ -1,0 +1,13 @@
+{
+  "title": "Valdevia的艺作页",
+  "content": "[[include :scp-wiki-cn:theme:black-highlighter-theme]]\n[[include :scp-wiki-cn:theme:extra-black-highlighter-theme]]\n[[include :scp-wiki:component:toggle-sidebar-bhl]]\n[[include :scp-wiki:component:centered-header-bhl]]\n[[module CSS]]\n:root {\n        --dark-accent: var(--bright-accent);\n[[/module]]\n\n[[=]]\n+ **[*https://twitter.com/Valdevia_Art Twitter] | [*https://www.instagram.com/valdevia_art/ Instagram] | [*https://valdevia.art/ 网站] | [*https://www.twitch.tv/valdevia 直播]**\n\n\n++++++ 以下所有图像均采用[*https://creativecommons.org/licenses/by-sa/4.0/ CC-BY-SA 4.0]授权\n\n@@ @@\n\n+++ **[[[SCP-173]]]** - 作者：Moto42（[[[peanut-gallery|重新设计]]]）\n\n[[image https://scp-wiki.wdfiles.com/local--files/valdevia/SCP-173 link=\"https://valdevia.art/portfolio/scp-173/\"]]\n++++++ （[https://valdevia.art/portfolio/scp-173/ 图片来源]）\n@@ @@\n+++ SCP-6000：**[*/scp-6000 毒蛇，驼鹿，与被放逐者之图书馆]** - 作者：Rounderhouse\n\n[[image https://scp-wiki.wdfiles.com/local--files/valdevia/6k-Rounderhouse link=\"https://valdeviaart.files.wordpress.com/2021/05/rounder.jpg\"]]\n@@ @@\n+++ SCP-001: **[*/rounderhouse-jade-proposal 碧玉提案]** - 作者：Rounderhouse\n\n[[image https://scp-wiki.wdfiles.com/local--files/valdevia/SCP-001-Jade link=\"https://valdeviaart.files.wordpress.com/2021/06/rounder-scp-001.jpg\"]]\n@@ @@\n+++ SCP-6666: **[*/scp-6666 有关恶魔赫克托和恐怖之提泰妮娅的一切]** - 作者：djkaktus\n\n[[image https://scp-wiki.wdfiles.com/local--files/valdevia/6k-Kaktus link=\"https://valdeviaart.files.wordpress.com/2021/05/scp-6000.jpg\"]]\n@@ @@\n\n\n+++ SCP-6013：**[*/scp-6013 爱琴海的利维坦]** - 作者：Rhys Tanner\n\n[[image https://scp-wiki.wdfiles.com/local--files/valdevia/6k-Rhys link=\"https://valdeviaart.files.wordpress.com/2021/05/scp-6000-reef.jpg\"]]\n@@ @@\n\n\n+++ SCP-6996：**[https://scp-wiki.wikidot.com/scp-6996 红月是否嚎叫？]** - 作者：Dysadron\n\n[[image https://scp-wiki.wdfiles.com/local--files/valdevia/6k-Dysadron link=\"https://valdeviaart.files.wordpress.com/2021/05/scp-6000-red-ball-1.jpg\"]]\n@@ @@\n\n+++ SCP-████：██████ ███ █████ - 作者：J. Dune（即将推出）\n\n[[image https://scp-wiki.wdfiles.com/local--files/valdevia/Dune-glitch link=\".\"]]\n@@ @@\n\n\n+++ SCP-6733：**[*/scp-6733 刀子，尖叫，切黑屏 II]** - 作者：Dysadron\n\n[[image https://scp-wiki.wdfiles.com/local--files/valdevia/Dysadron-Slasher link=\"https://scp-wiki.wdfiles.com/local--files/valdevia/Dysadron-Slasher\"]]\n@@ @@\n\n\n+++ **[[[adoption-poster-bonzo|认养海报：Bonzo]]]** - by Dr. Gooday\n\n[[image http://scp-wiki.wikidot.com/local--files/valdevia/Gooday-bonzo]]\n[[/=]]",
+  "tags": [
+    "艺术家"
+  ],
+  "author": "hoah2333",
+  "created_at": "2021-05-25T06:39:32+00:00",
+  "updated_at": "2023-02-02T09:20:13+00:00",
+  "rating": 8,
+  "_site": "scp-wiki-cn",
+  "_fullname": "valdevia"
+}

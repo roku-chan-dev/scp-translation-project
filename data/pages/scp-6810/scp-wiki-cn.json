@@ -1,0 +1,21 @@
+{
+  "title": "SCP-6810",
+  "content": "[[include :scp-wiki-cn:theme:classic]]\n\n**项目编号：**SCP-6810\n\n**项目等级：**Safe\n\n**特殊收容措施：**SCP-6810的所有实例目前都存储在Site-24的E翼中。对PoI-6810的身份的进一步调查正在进行中。\n\n**描述：** SCP-6810是对从女王陛下超常安保收容基金会[[[SCP-6145 | （HMFSCP）]]][[footnote]]于十八世纪到二十世纪初活跃在英国的基金会前身组织。[[/footnote]]继承的四件异常器物的统称。每个物品及其各自的性质概述如下：\n\n//__SCP-6810-A：__//一个银色烛台。放在托架内的任何蜡烛都会立即被点燃，除非取出它，否则它将无限期地燃烧。\n\n//__SCP-6810-B：__//一个木桶，把手轻微损坏。项目能盛下五倍于其自身体积的液体水；该性质不适用于其他任何物质。\n\n//__SCP-6810-C：__//一个完全由黄金制成的无弦的凯尔特竖琴。抚摸其框架会导致项目发出15到30分钟的柔和音乐。\n\n//__SCP-6810-D：__//处理过的一身份不明人形实体的头骨。标本有一个增大的颅骨、一个单眼窝和一些长在外部的牙齿。其右颞骨上存在线性骨折，可能是钝力创伤的结果。\n\n**发现：**SCP-6810的所有组成部分于一场大火后回收于伦敦白教堂区一所住宅的一密封箱子里。尽管怀疑为纵火，这场火灾的原因仍然不明。之前的住户，杰克·霍纳（指定为PoI-6810）无法被找到。\n\n一本完好的安德鲁·朗格的《银色童话书》副本，1886年英国童谣和[[[SCP-6087 |童话]]]的汇编集，从废墟中被回收。其扉页上写有以下手写信息，日期为1888年7月30日：\n\n\n> [[span class=\"ruby\"]]尽管我在古老的黄金时代，[[span class=\"rt\"]]Though dragons and devils I have slain[[/span]][[/span]]\n> [[span class=\"ruby\"]]杀死了恶龙与魔鬼[[span class=\"rt\"]]In golden days of old,[[/span]][[/span]]\n> [[span class=\"ruby\"]]一头污浊的野兽却潜入了这片土地——[[span class=\"rt\"]]  A fouler beast now stalks this land -[[/span]][[/span]]\n> [[span class=\"ruby\"]]黑色的瘴气，同样地污染着[[span class=\"rt\"]]A black miasma, polluting the hearts[[/span]][[/span]]\n> [[span class=\"ruby\"]]王子和农夫的心灵。[[span class=\"rt\"]]Of prince and peasant alike.[[/span]][[/span]]\n> @@ @@\n> [[span class=\"ruby\"]]在这不敬神的年代，我倒是觉得，[[span class=\"rt\"]]In this godless age, 'tis better, I think[[/span]][[/span]]\n> [[span class=\"ruby\"]]扮演一个长寿的恶棍[[span class=\"rt\"]]To play the role of Enduring Villain[[/span]][[/span]] \n> [[span class=\"ruby\"]]比一个短命的英雄更好。[[span class=\"rt\"]]Than Ephemeral Hero.[[/span]][[/span]]\n> @@ @@\n> - Jack\n\n[[footnoteblock]]\n\n------\n\n[[=]]\n[*http://scp-wiki.wikidot.com/dr-leonerd-s-author-page 该作者的更多作品]\n[[/=]]\n\n------\n\n[[div class=\"footer-wikiwalk-nav\"]]\n[[=]]\n<< [[[SCP-6809]]] | SCP-6810 | [[[SCP-6811]]] >>\n[[/=]]\n[[/div]]\n\n[[include :scp-wiki-cn:component:license-box\n|author=Dr Leonerd\n|translator=dingxiaoshu]]\n[[include :scp-wiki-cn:component:license-box-end]]",
+  "tags": [
+    "hmfscp",
+    "safe",
+    "scp",
+    "历史性",
+    "时空",
+    "火",
+    "需更新",
+    "音乐性",
+    "骨骼"
+  ],
+  "author": "dingxiaoshu",
+  "created_at": "2023-02-06T14:15:02+00:00",
+  "updated_at": "2023-06-23T17:08:20+00:00",
+  "rating": 3,
+  "_site": "scp-wiki-cn",
+  "_fullname": "scp-6810"
+}

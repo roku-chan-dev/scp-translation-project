@@ -1,0 +1,22 @@
+{
+  "title": "SCP-5224",
+  "content": "[[include :scp-wiki-cn:component:info-ayers\n|page=scp-5224[!-- url of your page on the scp wiki --]\n|authorPage=what-lurks-below-sebarus-s-author-page[!-- link to your author page --]\n|comments=\n= **//SCP-5224：海奎特的青蛙，作者[[*user Sebarus]]//**\n]]\n[[include :scp-wiki-cn:theme:black-highlighter-theme]]\n[[include :scp-wiki:component:bhl-dark-sidebar]]\n[[include :topia:cqb:flow speed=1]]\n[[module CSS]]\n}\n\n#page-content > .collapsible-block .collapsible-block-content {\n    text-align: left;\n}\n\n.addendum {\n    border:solid 2px #999999;\n    background:#F5F5F5;\n    width:84%;\n    padding:1px 15px;\n    margin: 10px auto;\n}\n[[/module]]\n\n[[include :scp-wiki-cn:component:anomaly-class-bar-source\n|lang= cn\n|item-number= 5224\n|clearance= 1\n|container-class= safe\n|secondary-class= none\n|disruption-class= dark\n|risk-class= 待观察\n]]\n\n------\n[[include component:image-block\nname=http://scp-wiki.wdfiles.com/local--files/scp-5224/Frög|\ncaption=SCP-5224|\nalign=right\n]]\n\n**特殊收容措施：**SCP-5224置于一适用于两栖动物的无水饲养器中。SCP-5224不得靠近水的100米范围之内。\n\n由SCP-5224创造的青蛙必须被处决，并按标准生物废物处理方法处理。\n\n**描述：**SCP-5224是一只雌性湖侧褶蛙//（Pelophylax ridibundus）//。它不会经历衰老，也无需进食、饮水或呼吸。\n\n若SCP-5224在任一水体的100米范围内鸣叫，水体会经历富营养化，[[footnote]]一种由水体内矿物质及营养物过量而引起的藻类大量繁殖的过程。[[/footnote]]且其他无尾目（//Anura//）[[footnote]] 蛙类。[[/footnote]]动物将会在其中生成。生成的蛙类通常为该地的本土物种，生成速率为每秒每立方米5000只。此过程将持续到SCP-5224停止鸣叫时。\n\n在生成之后，这些蛙类将立即前往最近的植物农业用地。到达后，它们将开始以严重破坏当地生态平衡的速率捕食昆虫生物。除了这一点以及它们的生成方式之外，这些蛙类不具有其他异常性质。\n\n------\n\n[[=]]\n[[collapsible show=\"▶ 附录5224.1 ◀\" hide=\"▼ 关闭 ▼\"]]\n[[<]]\n**事故报告5224.1：**29/01/21/，一只带有陶罐的游隼在SCP-5224的收容间内出现。它放下陶罐，抓起SCP-5224后消失。\n\n经检查，陶罐上刻有一段以象形文字书写的信息：\n> 为我妻子带来的麻烦道歉。让我儿子来接她了。自从巴比伦时代把她与灾害而不是生育和庄稼联系起来之后，她就一直有点困惑。\n> \n> 要是你们不再改变我们的领域的话，我们会很感谢的。\n> \n> 祝颂，克努姆。\n对SCP-5224去向的调查正在进行中。\n[[/<]]\n[[/collapsible]]\n[[/=]]\n\n------\n\n[[footnoteblock]]\n\n[[div class=\"footer-wikiwalk-nav\"]]\n[[=]]\n<< [[[SCP-5223]]] | SCP-5224 | [[[SCP-5225]]] >>\n[[/=]]\n[[/div]]\n\n------",
+  "tags": [
+    "safe",
+    "scp",
+    "两栖类",
+    "动物",
+    "声音",
+    "未收容",
+    "水生",
+    "活物",
+    "生物危害",
+    "自我复制"
+  ],
+  "author": "Esperanza_Cai",
+  "created_at": "2021-02-07T07:44:08+00:00",
+  "updated_at": "2024-05-15T21:26:33+00:00",
+  "rating": 5,
+  "_site": "scp-wiki-cn",
+  "_fullname": "scp-5224"
+}

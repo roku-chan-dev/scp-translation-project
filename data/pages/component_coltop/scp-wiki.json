@@ -1,0 +1,13 @@
+{
+  "title": "Nested Collapsibles: Top (coltop)",
+  "content": "[[iftags +component]]\n[[module CSS]]\ntd { vertical-align: top; }\n.options table.wiki-content-table td { border: none; padding: 0.7em 1em; }\n[[/module]]\n\n[[div style=\"border: 1px solid #ddd; padding: 1em;\"]]\n+ What this is\n\nThis page contains the source code for the top half of the Nested Collapsible component, created by [[*user Boyu12]] for the Japanese branch.\n\n+ Usage\n\nHow to create a nested collapsible:\n\n[[div class=\"code\"]]\n##blue|**[[include :scp-wiki:component:coltop**##\n##blue|**|**## ##green|show####blue|**=**##+ show block\n##blue|**|**## ##green|hide####blue|**=**##- hide block\n##blue|**]]**##\nText to show inside the collapsible\n##blue|**[[include :scp-wiki:component:colend]]**##\n[[/div]]\n\n**Don't remove any of the pipe symbols! (##blue||##)**\n\n[[div class=\"options\"]]\n|| **show** _\n//Default: \"+ show block\"// || The text of the button that opens the collapsible. ||\n|| **hide** _\n//Default: \"- hide block\"// || The text of the button that closes the collapsible. ||\n|| **nohide** _\n//Default: 0// || If 0, the \"hide\" text will be shown when the collapsible is open. If 1, it will not be. ||\n|| **folded** _\n//Default: 1// || If 0, the collapsible will start opened. If 1, it will start closed. ||\n[[/div]]\n\nYou can nest as many Nested Collapsibles inside each other as you like. You can even put Nested Collapsibles inside regular collapsibles, and vice versa. However, you cannot nest regular collapsibles inside other regular collapsibles.\n\nPages in this component:\n\n[[module PageTree]]\n\n[[/div]]\n\n-----\n\n[[/iftags]]\n\n[[module css]]\n@import url('https://scp-wiki.wdfiles.com/local--code/component%3Acolstyle/1');\n[[/module]]\n\n[[include :scp-wiki:component:coltop-deep\nifprot={$ifprot}|ifprot=0\n|nohide={$nohide}|nohide=0\n|folded={$folded}|folded=1\n|hide={$hide}|hide=- Hide block\n|show={$show}|show=+ Show block]]",
+  "tags": [
+    "component"
+  ],
+  "author": "Uncle Nicolini",
+  "created_at": "2020-09-05T14:40:09+00:00",
+  "updated_at": "2022-05-31T07:59:52+00:00",
+  "rating": 17,
+  "_site": "scp-wiki",
+  "_fullname": "component:coltop"
+}

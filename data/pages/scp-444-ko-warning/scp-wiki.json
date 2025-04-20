@@ -1,0 +1,15 @@
+{
+  "title": "Infohazard Warning",
+  "content": "[[div class=\"content-panel standalone\" style=\"width: 600px; max-width: 90%; margin: 0 auto 20px; padding: 10px 20px; text-align: center;\"]]\n[[div class=\"unmargined\" style=\"font-size: 136.71%; font-weight: bold; font-family: Arial, Helvetica, sans-serif; margin: 10px 0 0;\"]]\nClass 4/444K Password required\n[[/div]]\n----\nOnly personnel with 1~4/444K class clearance are authorised to read this document. Unauthorised access will be dealt with prosecution by information security protocol.\n@@ @@\n@@ @@\n[[html]]\n<script type=\"text/javascript\">\n\nfunction LogIn(){\nloggedin=false;\npassword=\"5438464\";\npassword=prompt(\"PASSWORD:\",\"\");\npassword=password.toLowerCase();\n\nif (password==\"5438464\") {\nloggedin=true;\nwindow.open('https://scp-wiki.wikidot.com//scp-444-ko');\n}\n\nif (password==\"4423144444\") {\nloggedin=true;\nwindow.open('https://scp-wiki.wikidot.com//scp-444-ko-document');\n}\n\nif (loggedin==false) {\nalert(\"Access Restricted: Incorrect Password. Please kneel immediately and raise both of your hands and wait for security personnel.\");\n}\n}\n</script>\n<div style=\"margin:0 auto; width: 150px;\">\n<form><input type=button value=\"◈ Additional information access ◈\" onClick=\"LogIn()\"></form>\n</div>\n[[/html]]\n[[/div]]\n[[span style=\"color: transparent;\"]]Password: 5438464[[/span]]",
+  "tags": [
+    "_ko",
+    "international",
+    "splash"
+  ],
+  "author": "fluxman",
+  "created_at": "2022-05-26T13:34:50+00:00",
+  "updated_at": "2022-05-26T21:58:28+00:00",
+  "rating": 0,
+  "_site": "scp-wiki",
+  "_fullname": "scp-444-ko-warning"
+}

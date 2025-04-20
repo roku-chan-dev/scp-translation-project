@@ -1,0 +1,22 @@
+{
+  "title": "SCP-6101",
+  "content": "[[include :scp-jp:theme:broken-masquerade]]\n\n[[module CSS]]\n\n.page-rate-widget-box{\n    display: inline-block;\n    border-radius: 5px;\n    box-shadow: 1px 1px 3px rgba(0, 0, 0, .5);\n    margin-bottom: 10px;\n    margin-right: 2em;\n}\n\n[[/module]]\n\n[[include :scp-jp:credit:start]]\n**タイトル:** SCP-6101 - 最も強力なSCP\n**翻訳責任者:** [[*user Witherite]]\n**翻訳年:** 2021\n**原題/リンク:** [https://scp-wiki.wikidot.com/scp-6101 SCP-6101 - The Most Powerful SCP]\n**著作権者:** [[*user PeppersGhost]]\n**作成年:** 2021\n**初訳時参照リビジョン:** rev.3\n[[include :scp-jp:credit:end]]\n[[include :scp-wiki:component:author-label-source start=--\n|name=PeppersGhost]]\n= **SCP-6101** - 最も強力なSCP by [[*user PeppersGhost]]\n\n-----\n\n[[=]]\n**[http://www.scpwiki.com/peppersghost More by this author]**\n[[/=]]\n[[include :scp-wiki:component:author-label-source end=--]]\n\n[[div style=\"color: black; border: solid 1px #000000; background:#f2f2c2 url(https://scp-jp-storage.wdfiles.com/local--files/file:2532460-25-b7bd/scp_trans.png) center no-repeat; padding:5px; margin-bottom: 10px; \"]]\n\n=  [[size 120%]]**記録・情報管理局の通知**[[/size]]\n\n= **O5評議会は、広報部門による[[[http://scp-jp.wikidot.com/broken-masquerade-hub|ヴェール破綻後]]]の運営の支援のための専有利用のためSCP-6101指定の貸切りを承認しています。**\n[[/div]]\n\n------\n\n[[include :scp-jp:component:anomaly-class-bar-source\n|item-number= 6101\n|clearance= 6\n|container-class= esoteric\n|secondary-class= thaumiel\n|secondary-icon=http://scp-jp.wikidot.com/local--files/component:anomaly-class-bar/thaumiel-icon.svg\n|disruption-class= ekhi\n|risk-class= danger\n]]\n\n------\n\n**特別収容プロトコル:** SCP-6101は非常に強力なため収容できません。財団が次に彼に助力を求めるべき時まで、彼の世話はその家族に任されます。\n\n**説明:** SCP-6101は最も強力なSCPです。彼の名前はイーサン・プロスパーです。執筆時点で彼は9歳です。SCP-6101の力の全範囲は不明ですが、飛行能力や、超人的な力や、透明化や、マーベルのスーパーヒーロー全員の力というような能力を彼は発揮します。彼は並外れて勇敢で、彼が全力を注ぐものはどんなことでもすることができます。\n\nSCP-6101は2丁の銃を常に所持しています。「恐怖」と「憎悪」と彼が名付けた銃は、それぞれ純粋な光と闇で作られた弾丸を発射します。彼の犬のハイジ（SCP-6101-01と下位指定）は2番目に強力なSCPです。彼女はSCP-6101に甚だしく忠実で、彼を私利私欲のために使おうとする異常な組織から彼を守ります。\n\n**インシデントログ:** 05/18/28、SCP-OMEGAがサイト-301の収容房を破りました。そのアノマリーの収容を再確立することができなかったため、サイト管理官ラシュパ・チャカルヴァルティはSCP-6101に助力を求めました。そしてSCP-6101は私的に、セントジュード小児病院[[footnote]]訳注: 実在する児童病院/研究施設。白血病などの小児がんに重点を置いている。参考: 英語版Wikipedia「[https://en.wikipedia.org/wiki/St._Jude_Children%27s_Research_Hospital St. Jude Children's Research Hospital]」[[/footnote]]の彼の部屋からサイト-301まで機動部隊プサイ-301（\"バトルの中の精霊\"）によって護送されました。\n\n目撃者は拍手して応援し、SCP-6101は念力の能力と脅し文句の合わせ技で、SCP-OMEGAを収容房まで戻すことに成功しました。SCP-6101はその努力のため、まもなく行われた特別式典でチャカルヴァルティ管理官により財団の勲章が贈られました。\n\nサイト-301の全員の命を救ったことに加えて、地元のニュース局で彼の勇気が報道されたことが[[[https://wish.org/|メイク・ア・ウィッシュ財団]]][[footnote]]訳注: 実在するボランティア団体。目的は「難病と闘うこどもが持つ夢の実現の手伝いをすること」（日本語版Wikiptedia 「[https://ja.wikipedia.org/wiki/%E3%83%A1%E3%82%A4%E3%82%AF%E3%83%BB%E3%82%A2%E3%83%BB%E3%82%A6%E3%82%A3%E3%83%83%E3%82%B7%E3%83%A5 メイク・ア・ウィッシュ]」より引用）。[[/footnote]]への寄付の急増につながった結果、SCP-6101は彼自身のような他の無数の重病の子どもたちにとってのヒーローとなりました。",
+  "tags": [
+    "en",
+    "scp",
+    "thaumiel",
+    "イヌ",
+    "メタ",
+    "人間型",
+    "動物",
+    "壊された虚構",
+    "生命",
+    "知性"
+  ],
+  "author": "Witherite",
+  "created_at": "2021-08-02T05:56:33+00:00",
+  "updated_at": "2024-04-20T14:05:10+00:00",
+  "rating": 31,
+  "_site": "scp-jp",
+  "_fullname": "scp-6101"
+}

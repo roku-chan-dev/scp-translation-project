@@ -1,0 +1,14 @@
+{
+  "title": "파라워치 호박 테마",
+  "content": "[[iftags +테마]]\n[[div style=\"display: none;\"]]\n[[include :scpko:theme:creepypasta]]\n[[include :scpko:theme:anon]]\n[[/div]]\n\n[[>]]\n**점수 평가:**\n[[module Rate]]\n[[/>]]\n\n[[div class=\"blockquote\"]]\n이 테마는 [[*user stormbreath]]가 만든 \"파라워치 호박 테마\"입니다. 이 테마는 [[*user The Great Hippo]]가 제작한 **[[[theme:creepypasta|]]]**의 변종인 [[*user Lt Flops]]가 제작한 **[[[theme:anon|]]]**의 변종입니다.\n\n이 테마는 파라워치 아논 테마를 기반으로 해서, 파란색을 주황색으로 바꾼 테마입니다. 아무렇게나 쓸 수 있지만, 일단 처음 만든 의도는 파라워치 테마의 할로윈 버전입니다.\n\n이 테마를 사용하기 위해서는 기반 테마들을 함께 사용해야 합니다:\n\n[[div class=\"code\"]]\n@@[[include :scpko:theme:creepypasta]]@@\n@@[[include :scpko:theme:anon]]@@\n@@[[include :scpko:theme:parawatch-pumpkin]]@@\n[[/div]]\n[[/div]]\n\n\n[[code type=\"css\"]]\n@import url('https://scp-wiki.wdfiles.com/local--code/theme%3Aparawatch-pumpkin/1');\n\n/* HEADER */\n \ndiv#header h1{\n     background: url('http://scpko.wdfiles.com/local--files/theme%3Aparawatch-pumpkin/parawatch-orange.png') no-repeat;\n}\n\n.ko-footer hr {\n  background-color: var(--fg-accent-dark);\n  margin: 1em 0;\n}\n[[/code]]\n\n[[/iftags]]\n\n[[module CSS]]\n@import url('https://scpko.wdfiles.com/local--code/theme%3Aparawatch-pumpkin/1');\n[[/module]]\n\n[[include :scp-wiki:component:interwiki-style\n| priority=3\n| theme=https://scpko.wdfiles.com/local--code/theme%3Aparawatch-pumpkin/1\n]] \n[[/code]]",
+  "tags": [
+    "en",
+    "테마"
+  ],
+  "author": "Salamander724",
+  "created_at": "2023-11-14T14:16:57+00:00",
+  "updated_at": "2024-11-18T21:12:04+00:00",
+  "rating": 2,
+  "_site": "scpko",
+  "_fullname": "theme:parawatch-pumpkin"
+}

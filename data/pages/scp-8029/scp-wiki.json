@@ -1,0 +1,19 @@
+{
+  "title": "SCP-8029",
+  "content": "[[>]]\n[[module Rate]]\n[[/>]]\n[[include :scp-wiki:component:author-label-source start=--|name=Dr Kira Moto]]\n[[[https://scp-wiki.wikidot.com/dr-moto-s-center-for-odd-occurrences|Want more?]]]\n[[include :scp-wiki:component:author-label-source end=--]]\n\n[[module ListPages  category=\"fragment\" parent=\".\" limit=\"1\" order=\"created_at\" offset=\"@URL|0\"]]\n%%content%%\n[[/module]]\n\n[[div class=\"footer-wikiwalk-nav\"]]\n[[=]]\n<< [[[SCP-8028]]] | SCP-8029 | [[[SCP-8030]]] >>\n[[/=]]\n[[/div]]\n\n\n\n[[include :scp-wiki:component:license-box]]\n[[include :scp-wiki:component:license-box-end]]\n\n\n[!-- https://scp-wiki.wikidot.com/fragment:scp-8029-0 --]\n[!-- https://scp-wiki.wikidot.com/fragment:scp-8029-1 --]",
+  "tags": [
+    "_licensebox",
+    "_listpages",
+    "aquatic",
+    "esoteric-class",
+    "hostile",
+    "scp",
+    "spring-cleaning24"
+  ],
+  "author": "Dr Kira Moto",
+  "created_at": "2024-04-30T03:00:44+00:00",
+  "updated_at": "2024-05-08T18:48:14+00:00",
+  "rating": 27,
+  "_site": "scp-wiki",
+  "_fullname": "scp-8029"
+}

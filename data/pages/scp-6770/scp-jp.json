@@ -1,0 +1,19 @@
+{
+  "title": "SCP-6770",
+  "content": "[[>]]\n[[module Rate]]\n[[/>]]\n\n[[include :scp-wiki:component:author-label-source start=--\n|name=Ecronak]]\nこのskipを楽しんでくれましたか？私の作った他の作品のいくつかが[http://scp-wiki.wikidot.com/ekronak-s-archive-with-commentary| ここ]から見れます！\n[[include :scp-wiki:component:author-label-source end=--]]\n\n[[include :scp-jp:theme:black-highlighter-theme]]\n[[include :scp-wiki:theme:extra-black-highlighter-theme]]\n------\n[[include :scp-jp:component:acs-animation]]\n[[include :scp-jp:component:anomaly-class-bar-source\n|item-number= 6770\n|clearance= 1\n|container-class= euclid\n|secondary-class= none\n|disruption-class= dark\n|risk-class= notice\n]]\n[[module CSS]]\n\ndiv#page-title::after {\n  content: \"by Ecronak\";\n  font-size: 40%;\n  color: #888;\n  background: none;\n}\n\ndiv#page-title {\n  border-bottom: 1px solid #000;\n  padding-bottom: 0.2em;\n}\n\n[[/module]]\n------\n\n[[include component:image-block\n| name=http://scp-jp-storage.wdfiles.com/local--files/file%3A4678745-1-7g48/Smiley.jpg\n| caption=SCP-6770実例の一つ。]]\n\n**特別収容プロトコル:** 従来の収容が不可能な場所の表面に頻繁に出現するため、SCP-6770の全実例は出現した環境に適した素材の下に隠蔽・埋設されなくてはなりません。[[footnote]] 例として道路に出現した場合、アスファルトを使用して埋設し、田畑に出現した場合、土を使用して埋設される。 [[/footnote]]将来的な参考のため、これらの実例が埋設された場所について追加で記録する必要があります。\n\n**説明:** SCP-6770は、一般的な人間が書く「スマイリーフェイス」に似た異常な窪みがある表面に対する呼称です。観察されていないとき、SCP-6770実例はその表情を変えることができます。実例らがどのようにしてこの現象を引き起こすかは不明です。\n\n2019年のニューヨークでの最初に出現して以来、SCP-6770の全実例は世界中の人口密集地で頻繁に現れています。 [[footnote]] 現在、SCP-6770の推定数は1,264,565に達している。[[/footnote]] このような頻度により、財団は周囲のものと同質の素材で実例らを隠蔽する収容措置を承認しました。\n\n**追記 6770 - 9/19/2019:** 「顔」の輪郭を形成する窪みが「**きみらはぼくらをいきうめにしている**」という文言に変化した、SCP-6770の変種である可能性がある実例がサイト19に出現しました。その文言の意味について口頭で質問されたとき、実例は苦悶した人間の呻き声に似た音を出しました。出現して間もなく、対象は音を出すのを止め、変形が不可能になりました。\n\n**追記 6770 – 10/21/2019:** 件の文言に対応するための審議後、いくつかのSCP-6770実例の隠蔽を解除することが承認されました。その結果、全ての実例において青色の着色が見られ、各実例の「目」と「口」は古典的な窒息の表現と一致していました。この状態を取った実例らは、いずれも表現を変更することができませんでした。\n\nこの追記が書かれている時点で、当アノマリーに対する特別収容プロトコルの改定が検討されています。現在、1,266,244の実例が隠蔽されています。今後の行動は保留されています。\n\n[[footnoteblock]]\n\n[[div class=\"footer-wikiwalk-nav\"]]\n[[=]]\n--------------\n\n[http://scp-wiki.wikidot.com/ekronak-s-archive-with-commentary More from Ecronak]\n\n[[/=]]\n[[include :scp-wiki:component:license-box]]\n=====\n> **タイトル:** Smiley\n> **著作権者:** ABF@commonswiki\n> **ライセンス:** CC BY-SA 2.0\n> **ソース:** https://search.creativecommons.org/photos/588b564d-f854-40c6-a181-13875a35d7d5\n\n=====\n[[include :scp-wiki:component:license-box-end]]\n[[/div]]",
+  "tags": [
+    "en",
+    "euclid",
+    "scp",
+    "変容",
+    "知性",
+    "観測",
+    "記述"
+  ],
+  "author": "sanairomomi_san",
+  "created_at": "2021-11-07T14:14:34+00:00",
+  "updated_at": "2024-02-21T12:27:43+00:00",
+  "rating": 53,
+  "_site": "scp-jp",
+  "_fullname": "scp-6770"
+}

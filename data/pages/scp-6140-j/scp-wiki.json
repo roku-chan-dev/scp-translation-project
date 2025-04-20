@@ -1,0 +1,27 @@
+{
+  "title": "SCP-6140-J",
+  "content": "[[>]]\n[[module Rate]]\n[[/>]]\n\n[[module ListPages  category=\"fragment\" parent=\".\" limit=\"1\" order=\"created_at\" offset=\"@URL|0\"]]\n%%content%%\n[[/module]]\n\n[!-- https://scp-wiki.wikidot.com/fragment:scp-6140-J-0 --]\n[!-- https://scp-wiki.wikidot.com/fragment:scp-6140-J-1 --]",
+  "tags": [
+    "_cc",
+    "_listpages",
+    "absurdism",
+    "action",
+    "apocalyptic",
+    "comedy",
+    "historical",
+    "joke",
+    "k-class-scenario",
+    "keter",
+    "location",
+    "post-apocalyptic",
+    "reality-bending",
+    "religious",
+    "scp"
+  ],
+  "author": "J T K C",
+  "created_at": "2022-10-04T15:19:39+00:00",
+  "updated_at": "2024-10-11T19:50:40+00:00",
+  "rating": 236,
+  "_site": "scp-wiki",
+  "_fullname": "scp-6140-j"
+}

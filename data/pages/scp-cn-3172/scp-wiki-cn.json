@@ -1,0 +1,22 @@
+{
+  "title": "SCP-3172",
+  "content": "[[module CSS]]\n/*this css was mostly designed by aers and was edited by uncle nicolini*/\ndiv#container-wrap {\n    background: url(https://themes.wdfiles.com/local--files/helloworld/background.png) top left repeat-x;\n    background-size: 105px;\n}\n\n#header {\n    background: url(https://smlt.wdfiles.com/local--files/unclenicolini%3Atest/josie.png) 10px 35px no-repeat;\n}\n\n#header h1 a {\n    font-family: \"Times New Roman\", Times, serif;\n}\n\n#header h2 span {\n    color: transparent;\n    text-shadow: none;\n}\n\n#header h2 span::after {\n    content: \"為了存儲，留藏，保存。\";\n    display: block;\n    color: #ffffff;\n    text-shadow: 1px 1px 1px rgba(0,0,0,.8);\n}\n[[/module]]\n[[>]]\n[[module Rate]]\n[[/>]]\n\n[[div style=\"border:solid 1px #999999; background:#f2f2c2; padding:5px; margin-bottom: 10px;\"]]\n[[=]]\n[[size larger]] **基金会记录与信息安全管理部的通知** [[/size]]\n\n页面内容已过时，请及时更新文本，因为异常性质消失，请将所有的受影响的“-CN”重新填充。\n\n- Maria Jones，RAISA主管\n[[/=]]\n[[/div]]\n\n**项目编号：**SCP-3172\n\n**项目等级：**Neutralized\n\n**特殊收容措施：**经确认项目已经失去异常性质，Site-92已从原SCP-3172收容区撤出。\n\n**描述：**SCP-3172为一处耸立在美国曼多比湿地的花岗岩制中型石碑，这个石碑的高度约为7.55英尺，宽度约为4.92英尺，厚度约为1.97英尺，重量约为500磅。异常性质在于其石碑会不定时显现出众多由英文构成的未知文本内容的刻痕，但其中大部分内容又会在不定时时所间内被黑色横线划去，随后快速消失。\n\n**追加信息：**由于SCP-3172已失去其异常性质，进一步的研究和分析已被搁置。\n------\n\n**SCP-3172的部分实验记录-仅有部分实验**\n,,**若想获得全部实验记录和报告，请联系有关研究人员以获得授权。**,,\n\n> **日期：**10/11/████\n> \n> **实验目的：**使用多台挖掘机试图把项目移至其他地方。\n> \n> **实验果简报：**失败。\n\n> **日期：**10/11/████\n> \n> **实验目的：**使用多台挖掘机试图摧毁该项目。\n> \n> **实验果简报：**失败。\n\n> **日期：**10/11/████\n> \n> **实验目的：**尝试在该项目任意部位留下刻痕。\n> \n> **实验果简报：**成功，但刻痕在24小时后便消失。\n\n------\n**文件3172-13：**基金会与SCP-3172的第一次也是最后一次交流。\n\n[[div class=\"blockquote\"]]\n\n**<记录开始>**\n\n**████博士（划刻）：**你好？\n\n**SCP-3172：**你好。\n\n**████博士（划刻）：**你是什么？\n\n**SCP-3172：**遗迹。\n\n**████博士（划刻）：**遗迹？你最开始被用来做什么的？\n\n**SCP-3172：**不是现在。\n\n**████博士（划刻）：**抱歉，我没听懂。\n\n**SCP-3172：**这不重要。\n\n**████博士（划刻）：**你最初是从哪里制造出来的？\n\n**SCP-3172：**你我诞生的地方。\n\n**████博士（划刻）：**为什么你身上除我之外有这么多的刻痕？\n\n**SCP-3172：**记录这一切，以证明他们来过。\n\n**████博士（划刻）：**那为什么还有一些已经消逝了？\n\n**SCP-3172：**时间。\n\n**████博士（划刻）：**记录这一切有什么意义吗？要是别人不相信你所说的他们那怎么办？\n\n**SCP-3172：**至少我还记得。\n\n**████博士（划刻）：**他们过去在干什么？\n\n**SCP-3172：**乘着小舟陪我，与星星一起高歌你我眼眸中的颜色。\n\n**████博士（划刻）：**现在呢？\n\n**SCP-3172：**已经离开了。\n\n**████博士（划刻）：**去了哪里？\n\n//长时间的沉默//\n\n**████博士（划刻）：**去了哪里？\n\n**SCP-3172：**更好的未来。\n\n**<记录结束>**\n\n[[/div]]\n\n------\n\n**更新：**\n* 根据████博士的提议，已将该项目项目编号改为尚未开放的系列 Ⅳ 任一编号。\n* 根据████博士的提议，已将该项目所显现且已被记录的文本统一归纳整理至[[[ode-to-the-unknown-author|新页面]]]。\n\n[[footnoteblock]]\n\n[[div class=\"footer-wikiwalk-nav\"]]\n[[=]]\n<< [[[SCP-CN-3171]]] | SCP-3172 | [[[SCP-CN-3173]]] >>\n[[/=]]\n[[/div]]\n\n[!--\n\n> **████博士（划刻）：**为什么是尚未开放的系列 Ⅲ？\n> \n> **SCP-3172：**果实终究会发芽。\n--]",
+  "tags": [
+    "meta",
+    "scp",
+    "不可摧毁",
+    "不可移动",
+    "原创",
+    "无效化",
+    "石质",
+    "立方体",
+    "铭文",
+    "题写"
+  ],
+  "author": "(sccount-deleted)",
+  "created_at": "2025-01-01T07:53:00+00:00",
+  "updated_at": "2025-01-21T04:07:38+00:00",
+  "rating": 15,
+  "_site": "scp-wiki-cn",
+  "_fullname": "scp-cn-3172"
+}

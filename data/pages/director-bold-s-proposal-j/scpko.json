@@ -1,0 +1,21 @@
+{
+  "title": "볼드 이사관의 제안-J",
+  "content": "[[div style=\"display:none;\"]]\n\n\"얘들아, 우리 SCP 읽지 좀 말아 줘 🥺\"\n\n[[/div]]\n\n[[module CSS]]\n\n.clearance-required .collapsible-block-folded {\n    margin-bottom: 800px;\n}\n\n[[/module]]\n\n[[include info:start]]\n**Title:** \"얘들아, 우리 SCP 읽지 좀 말아 줘 🥺\"\n**Original:** [https://scp-wiki.wikidot.com/director-bold-s-proposal-j Director Bold's Proposal-J] by [[*user Calibold]]\n**Paraphrast:** [[*user TimidChild]]\n[[include info:end]]\n\n[[include :scp-wiki:component:author-label-source start=--\n|name=Calibold\n|no-right-margin=*]]\n[[=]]\n[[module ListPages range=\".\"]]\n**%%title%% -- %%first_paragraph%%**\n[[/module]]\n**[[[Calibri Bold's Mega Cool Author Page|Calibold's Mega Cool Author Page]]]**\n[[/=]]\n[[include :scp-wiki:component:author-label-source end=--]]\n\n[[=]]\n> [[size large]]**RAISA 공지**[[/size]]\n>\n> 이 파일이 ARC된 이유는 SCP 재단은 진짜가 아니기 때문이다. 그러니 꺼지셈.\n\n[[div class=\"clearance-required\"]]\n\n[[collapsible show=\"+ 5등급 인가 필요 +\" hide=\"환영합니다, 아마도 적절한 인가를 지니신 인원분\"]]\n\n[[<]]\n\n**일련번호:** SCP-001-J-EN-D-EX-ARC\n\n**등급:** --퇴역-- 해명\n\n**특수 격리 절차:** 인원들은 SCP-001-J-EN-D-EX-ARC-1 개체들에게 SCP 재단은 진짜가 아님을 상기시켜줘야 한다.\n\n**설명:** SCP-001-J-EN-D-EX-ARC는 인터넷에 접속할 수 있는 사람이 인가 등급과 상관없이 모든 재단 파일에 접속할 수 있게 하는 현상이다. 또한, 영향을 받은 사람(SCP-001-J-EN-D-EX-ARC-1)은 재단의 비공개 대화방과 토론 게시판에도 접속할 수 있다.\n\n현재로서 SCP-001-J-EN-D-EX-ARC-1 개체가 문서를 보지 못 하도록 하는 유일한 알려진 방법은 문서를 완전히 지운 후, 원래 위치에 [편집됨]이나 [데이터 말소]를 놓는 것이다. 대안으로, 단순히 █████ ██████████ ████ ███ ████할 수도 있다.\n\n아래는 SCP-001-J-EN-D-EX-ARC-1 개체의 5등급 비공개 대화방 접속 기록이다.\n\n> → Guest04645 joined\n> <Guest04645> 안녕하세오\n> <Guest04645> 기특대 알파9에 들어가고싶은데요\n> <Karablue>[[footnote]]O5-3의 암호명[[/footnote]] 당신 누구요?\n> <Karablue> 내 ",
+  "tags": [
+    "001-제안",
+    "en",
+    "scp",
+    "난해한-등급",
+    "농담",
+    "비격리",
+    "재단이-만듦",
+    "컴퓨터",
+    "해명"
+  ],
+  "author": "TimidChild",
+  "created_at": "2023-08-15T14:38:56+00:00",
+  "updated_at": "2024-12-12T06:36:29+00:00",
+  "rating": 11,
+  "_site": "scpko",
+  "_fullname": "director-bold-s-proposal-j"
+}

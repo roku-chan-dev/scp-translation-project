@@ -1,0 +1,14 @@
+{
+  "title": "任務部隊情報: MSR",
+  "content": "[[include :msr-arc:theme:scip-net]]\n[[module CSS]]\n.content-panel standalone series{\n  background-color: #FFFFFF;\n}\n[[/module]]\n[[include credit:start]]\n**タイトル:** 任務部隊情報: MSR\n**著者:** ©︎[[*user Mishary]]\n**作成年:** 2020\n**画像クレジット:**\n本ページにアップロードされた全作品\n> **ソース:** 自作\n> **ライセンス:** CC BY-SA\n> \n> **著作権者:** [[*user Mishary]]\n> **公開年:** 2020\n[[include credit:end]]\n@@ @@\n@@ @@\n@@ @@\n[[include :scp-jp-sandbox2:inc:fakeprot |name=M. S. R.]]\n[[div class=\"collapsiblealt\"]]\n[[collapsible show=\"認証\" hide=\"ログアウト\"]]\n職員コードが認識されました。\n開示可能な任務部隊の情報は以下の通りです。\n\n----\n[[include :scp-int:component:coltop show=+任務部隊TF-A-114 (\"個人主義者\")|hide=-汝個人を知れ]]\n\n[[div class=\"content-panel standalone series\"]]\n[[=]]\n+ 任務部隊TF-A-114 (\"個人主義者\")\n[[=image http://scp-jp.wikidot.com/local--files/task-forces-msr/kojinshugi.svg]]\n[[/=]]\n\n**部隊任務:** TF-A-114は何らかの潜在的な異常性を保持しているとみられる個人の監視を行います。以前は旧SCP-2003-JP影響者の監視を行っていました。\n\n**担当オブジェクト:** [[[SCP-2003-JP]]]\n[[/div]]\n[[include :scp-int:component:colend]]\n\n[[include :scp-int:component:coltop show=+研究任務部隊RTF-B-30 (\"論理的解消\")|hide=-闇を砕き、白日の下に照らす]]\n[[div class=\"content-panel standalone series\"]]\n[[=]]\n+ 研究任務部隊RTF-B-30 (\"論理的解消\")\n[[=image http://scp-jp.wikidot.com/local--files/task-forces-msr/logistics.svg]]\n[[/=]]\n\n**部隊任務:** RTF-B-30は旧SCP-2003-JP、『バークレーのパラドクス』の解消に当たっていた研究任務部隊です。本部隊は2002年に現在のSCP-2003-JPを発見し、任務完了によって解体されました。\n\n**担当オブジェクト:** --[[[SCP-2003-JP]]]--\n[[/div]]\n[[include :scp-int:component:colend]]\n\n[[include :scp-int:component:coltop show=+静止任務部隊STF-い-37 (\"神代\")|hide=-大八嶋に幸多からんことを希う]]\n\n[[div class=\"content-panel standalone series\"]]\n[[=]]\n+ 静止任務部隊STF-い-37 (\"神代\")\n[[=image http://msr-arc.wdfiles.com/local--files/artwork/kamiyo.svg]]\n[[/=]]\n\n**部隊任務:** STF-い-37は財団81管区支部理事会直属の任務部隊であり、サイト81OGにおいて厳重警戒体制を維持しています。\n\n**担当オブジェクト:** [[[[mishary-s-proposal|検閲済]]]]\n[[/div]]\n[[include :scp-int:component:colend]]\n[[/collapsible]]\n[[/div]]",
+  "tags": [
+    "jp",
+    "アートワーク"
+  ],
+  "author": "Mishary",
+  "created_at": "2020-08-24T02:29:21+00:00",
+  "updated_at": "2021-01-10T18:36:55+00:00",
+  "rating": 36,
+  "_site": "scp-jp",
+  "_fullname": "task-forces-msr"
+}

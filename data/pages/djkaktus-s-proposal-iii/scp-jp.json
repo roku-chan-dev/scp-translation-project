@@ -1,0 +1,29 @@
+{
+  "title": "DJ・カクタスの提言III",
+  "content": "[[>]]\n[[module Rate]]\n[[/>]]\n[[module ListPages category=\"fragment\" parent=\".\" order=\"created_at\" limit=\"1\" offset=\"@URL|0\"]]\n%%content%%\n[[/module]]",
+  "tags": [
+    "001提言",
+    "aaron-siegel",
+    "en",
+    "esoteric-class",
+    "scp",
+    "エンジニア",
+    "エージェント・ラメント",
+    "カオス・インサージェンシー",
+    "クレフ博士",
+    "サムサラ",
+    "不死身の爬虫類",
+    "倫理委員会",
+    "放浪者の図書館",
+    "概念",
+    "現実改変",
+    "管理者",
+    "黒の女王"
+  ],
+  "author": "Monidrake",
+  "created_at": "2018-12-10T13:39:37+00:00",
+  "updated_at": "2024-07-03T04:39:49+00:00",
+  "rating": 127,
+  "_site": "scp-jp",
+  "_fullname": "djkaktus-s-proposal-iii"
+}

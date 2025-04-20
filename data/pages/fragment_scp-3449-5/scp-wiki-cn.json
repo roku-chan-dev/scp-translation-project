@@ -1,0 +1,13 @@
+{
+  "title": "SCP-3449-5",
+  "content": "[[module css]]\na.collapsible-block-link { font-family: 'Andale Mono', 'Courier New', Courier, monospace; }\n[[/module]]\n\n[[div style=\"border:solid 1px #999999; background:#f2f2c2; padding:5px; margin-bottom: 10px;\"]]\n[[=]]\n++++ 来自记录与信息管理部门的通知\n\n这是在缓存中找到的最新版本。请重新连接至数据库以搜寻更新版本。\n\n[[/=]]\n[[/div]]\n\n[[=]]\n[[html]]\n<video width=\"640\" height=\"469\" align=\"center\" controls>\n <source src=\"http://www.scp-wiki.net/local--files/fragment:scp-3449-5/EoSSFinalVideoLog.MP4\" type=\"video/mp4\">\n</video>\n[[/html]]\n[[/=]]\n\n@@@@\n\n[[div style=\"border:solid 1px #999999; background:#e6e6e6; padding:10px; margin-bottom: 10px; padding: 0 2%; float:left; width: 45%\"]]\n\n{{SCiP网络：本页修订于03/14/2026}}\n\n[[/div]]\n\n[[div style=\"border:solid 1px #999999; background:#e6e6e6; padding:14px; margin-bottom: 10px; float:right; width: 45%\"]]\n\n[[>]]\n\n[[collapsible show=\"SciP网络：重新连接数据库\" hide=\"SciP网络：连接已发起\"]]\n\n[[/>]]\n[[<]]\n{{SCiP网络：重新连接数据库...}}\n{{##219B1D|连接已建立。##}}\n{{SCiP网络：扫描数据库，寻找更新...}}\n{{##D30D0A|无结果。##}}\n{{##376DE8|最后一次更新在03/14/2026。##}}\n{{SCiP网络：扫描数据库中所有文章以及缓存更新...}}\n{{##D30D0A|无结果。##}}\n{{##376DE8|最后一次更新在03/14/2026。##}}\n[[/<]]\n[[/collapsible]]\n\n[[/div]]",
+  "tags": [
+    "段落"
+  ],
+  "author": "hoah2333",
+  "created_at": "2020-03-10T01:14:21+00:00",
+  "updated_at": "2021-03-11T02:01:05+00:00",
+  "rating": 0,
+  "_site": "scp-wiki-cn",
+  "_fullname": "fragment:scp-3449-5"
+}

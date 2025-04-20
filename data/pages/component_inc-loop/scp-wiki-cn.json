@@ -1,0 +1,13 @@
+{
+  "title": "Inc Loop",
+  "content": "[[iftags +样版]]\n= **作者：**[[*user Boyu12]]\n\n----\n\n包含 ListUsers 变量的 [[include]]。\n\n+* 使用方法\n\n> ##red|[[module ListUsers users=\".\"]]##\n> [[include :scp-wiki:component:inc-loop c=@@__________@@|p=**<include 地址>**]]\n> |<变量名>=**%%name%%**\n> ]]\n> ##red|[[/module]]##\n> \n> ----\n> \n> ##red|[[include :scp-wiki:component:listusers-1 users=\".\"]]##\n> [[include :scp-wiki:component:inc-loop c=@@__________@@|p=**component:image-block**]]\n> |name=image.png\n> |align=center\n> |width=100%\n> |caption=@@//%%name%%//@@\n> ]]\n> ##red|[[include :scp-wiki:component:listusers-2]]##\n> [[include component:image-block\n> |name=image.png\n> |align=center\n> |width=100%\n> |caption=@@//游客//@@\n> ]]\n> ##red|[[include :scp-wiki:component:listusers-3]]##\n>> >> [[[component:listusers-1|支持非 Wikidot 用户的 ListUsers 模块]]]\n\n[[/iftags]]\n\n[[iftags -样版]]\n\n[[div style=\"margin: 2em 0; border: solid 2px #FFC107;\"]]\n[[div_ style=\"display: inline-block; padding: 0 3px; font-size: 1.5em; background: #FFC107; color: #ffffff; font-weight: bold;\"]]\n[[span class=\"fa fa-exclamation-triangle\" style=\"font-size: 1.4em;\"]]@<&nbsp;>@[[/span]]出错了！\n[[/div]]\n[[div_ style=\"padding: 5px 7px;\"]]\n你所使用的 {{[[include]]}} 地址有误，请使用 {{[[include :scp-wiki:component:inc-loop]]}}。\n[[/div]]\n[[/div]]\n\n[[/iftags]]",
+  "tags": [
+    "样版"
+  ],
+  "author": "Sekai_s",
+  "created_at": "2021-03-06T01:15:06+00:00",
+  "updated_at": "2021-03-06T01:15:06+00:00",
+  "rating": 2,
+  "_site": "scp-wiki-cn",
+  "_fullname": "component:inc-loop"
+}

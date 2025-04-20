@@ -1,0 +1,19 @@
+{
+  "title": "SCP-5821",
+  "content": "[[include :scpko:theme:black-highlighter-theme]]\n\n[[module CSS]]\n:root:lang(ko) {\n--logo-image: url(https://nu-scptheme.github.io/Black-Highlighter/img/logo.svg);\n}\n[[/module]]\n[[include component:bhl-dark-sidebar]]\n\n[[include info:start]]\n**SCP-5821:** 부자 잡아먹기\n**저자:** [[*user Gekkoguy]]\n**원작:** http://www.scp-wiki.net/scp-5821\n**역자:** [[*user MGPedersen]]\n\n> **파일명:** BEZOS LAUGH.jpg\n> **원본:** Jeff Bezos' iconic laugh (cropped).jpg\n> **저작권자:** NSteve Jurvetson\n> **라이선스:** CC BY 2.0\n> **출처:** [https://commons.wikimedia.org/wiki/File:Jeff_Bezos%27_iconic_laugh_(cropped).jpg 위키미디어 커먼즈]\n[[include info:end]]\n\n[[include component:image-block name= https://scp-wiki.wdfiles.com/local--files/scp-5821/BEZOS%20LAUGH.jpg|caption= SCP-5821-1|width=300px]]\n\n**일련번호:** SCP-5821\n\n**등급:** 케테르\n\n**특수 격리 절차:** SCP-5821은 현재 그 어떤 사람도 SCP-5821-1을 무력화시키고 요리하고 잡아먹어서 피해를 주지 못하도록 임시특무부대-람다-27 (\"아마존 여단,,Amazon Brigade,,\")이 격리하고 있다. PTF-람다-27 부대원들은 스스로가 SCP-5821-1에게 해를 끼치지 않도록 주기적으로 교대한다.\n\n**설명:** SCP-5821은 지구상의 인간이 [[span class=\"ruby\"]]제프리 프레스턴 베이조스[[span class=\"rt\"]]Jeffery Preston Bezos[[/span]][[/span]][[footnote]]아마존닷컴 주식회사의 창립자 겸 CEO 겸 회장.[[/footnote]](이하 SCP-5821-1)의 살점을 인간의 소비에 가장 적합한 고기라고 여기게 하는 지속성 밈적 효과다. 해당 밈이 (또 그리되어 SCP-5821-1의 살점을 먹고자하는 생각이) SCP-5821-1을 제외한 모든 인간의 잠재의식에 자리잡은 반면, 극소수의 사람만이 SCP-5821-1을 죽여서 식인하려고 시도할 정도의 SCP-5821을 인지하고 있다.\n\n[[span class=\"ruby\"]]밈 분해 분석[[span class=\"rt\"]]Memetic Degradation Analysis[[/span]][[/span]] 결과, 해당 밈 특성의 기원 시점이 1997년 4월에서 8월 사이라고 특정되며, 밈은 시간이 갈수록 서서히 강도가 높아지고 더 많은 사람들이 그 개념을 인지하고 실행에 옮기려 하고 있다. SCP-5821-1은 SCP-5821을 알고 있으며 재단 측의 격리 활동에 협력 중이다.\n\n**부록 5821-1: 메모 회신: 아마존 해산**\n\n> [[>]]\n> **SCP-5821 격리에 대한 최근 제안 관련 메모**\n> \n> **일자:** 2019년 10월 25일\n> [[/>]]\n> **수신:** SCP-5821 연구 직원\n> \n> **발신:** O5-7\n> \n> 근래에 격리에 관한 대안이 논의되고 있다고 들었습니다. 새롭고 흥미로운 격리 방안을 고안하는 귀하의 노고에는 칭찬을 해야겠지만, 애석하게도 SCP-5821 격리는 가까운 미래에 변경 계획이 없습니다.\n> \n> 2050년에 SCP-5821이 인간의 정신을 완전히 정복할 것이라 예측하는 모델들은 우려스럽지만, 아주 최근에 도출된 것이고 재단 예측 부서도 아직 합의에 도달하지 못했습니다. (이건 개인적으로 말씀드리는 건데, O5 사령부에 알려진 정보에 따르면 이 밈은 소멸될 가능성도 있습니다.) 그런고로, 재단이 아마존 기업을 장악한다느니, SCP-5821-1의 자산을 해산시킨다느니 따위의 터무니없고 증명도 되지않은 조치들은 결코 정당화될 수 없으며, 암살은 더 말할 가치도 없습니다!\n> \n> 당신들이 제기한 주장들 중 특정 부분에 대해 말해보죠. 변칙 현상의 대상에게 자신의 격리에 대한 방안과 그 복잡한 절차를 거들도록 하는 것이 특이해보일지도 모르지만, 다 공공의 이익을 위한 것이라고 생각하십시오. SCP-5821-1는 우리 세계를 위협하는 위험한 변칙성에 대처하는 재단의 곤경을 깊히 이해하고 있으며, 그의 자원을 이용하는 걸로 후하게 보상하고 있습니다.\n> \n> 귀하께서 곤란하고 당혹스럽게 느낄 수 있다는 점은 잘 이해하며, 이러한 조치에 여전히 불만이 있다면 제 카리브해 요트 유람이 끝난 뒤에 그 주제에 대해 1대1로 논의하는 시간도 기꺼이 내도록 하죠.\n> \n> O5-7 올림\n\n**부록 5821-2: 변칙성 영향 대상의 확장 가능성**\n\n2019년 10월 25일부터, SCP-5821 연구 직원 몇 명이 O5-7을 먹고싶어하는 욕구를 내비쳤다. 효과에 대한 연구가 현재 진행 중이다.",
+  "tags": [
+    "2020-즉흥경연-en",
+    "en",
+    "scp",
+    "밈적",
+    "음식",
+    "인간형",
+    "케테르"
+  ],
+  "author": "MGPedersen",
+  "created_at": "2021-04-15T10:27:31+00:00",
+  "updated_at": "2024-12-21T16:23:37+00:00",
+  "rating": 9,
+  "_site": "scpko",
+  "_fullname": "scp-5821"
+}

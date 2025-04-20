@@ -1,0 +1,26 @@
+{
+  "title": "SCP-2111",
+  "content": "[!-- If you see a typographical error and want to fix it, you may find the appropriate page by entering \"http://www.scp-wiki.net/fragment:scp-2111-*/noredirect/true\" as the URL where \"*\" is 1-5 (the warning page is 1, RED TALISMAN is 2... READ THIS is 5). NOTE: \"Mnestics\" is not a typo, it is the opposite of amnestics.--]\n[[>]]\n[[module Rate]]\n[[/>]]\n[[module ListPages category=\"fragment\" parent=\".\" limit=\"1\" order=\"created_at\" offset=\"@URL|0\"]]\n%%content%%\n[[/module]]\n\n[4.63%] ls -la\n@@-rwx2r--- MEME 2/2111 18 KB Jul 14 2015@@ [[[http://www.scp-wiki.net/scp-2111/offset/1|SCP-2111(RED TALISMAN)]]]\n@@-rwx2r--- AMEM 2/2111 20 KB Jan 17 2015@@ [[[http://www.scp-wiki.net/scp-2111/offset/2|SCP-2111(RIDDEN TONGUE)]]]\n@@-rwx2r--- AMEM 2/2111 36 KB Jan 17 2015@@ SCP-2111appA\n@@-rwx2r--- CCON 2/2111 21 KB Aug 13 2015@@ [[[http://www.scp-wiki.net/scp-2111/offset/3|SCP-2111(REVENANT THEORY)]]]\n@@-rwx2r--- OZER 2/2111 21 KB Nov 1 2015@@ [[[http://www.scp-wiki.net/scp-2111/offset/4| SCP-2111(READ THIS)]]]\n@@drwx3RTrwx--- MEME 3/2111/RT 10 GB Nov 1 2015@@  scp-2111.datafiles.warningcoghaz\n\n[4.63%] [[[http://www.scp-wiki.net/scp-2111/offset/0|cd..]]]\n\n[[footnoteblock]]\n\n[[=]]\n,,**<<** ##blue|SCP-2111## | [[[In the Trenches with the Dead]]] **>>**,,\n[[/=]]\n\n[[div class=\"footer-wikiwalk-nav\"]]\n[[=]]\n<< [[[SCP-2110]]] | SCP-2111 | [[[SCP-2112]]] >>\n[[/=]]\n[[/div]]\n\n[[include :scp-wiki:component:license-box]]\n=====\n\n=====\n[[include :scp-wiki:component:license-box-end]]",
+  "tags": [
+    "_licensebox",
+    "_listpages",
+    "afterlife",
+    "antimemetic",
+    "antimemetics-division",
+    "auditory",
+    "cognitohazard",
+    "foundation-made",
+    "ghost",
+    "memetic",
+    "meta",
+    "neutralized",
+    "scp",
+    "visual"
+  ],
+  "author": "sirpudding",
+  "created_at": "2015-11-01T17:12:31+00:00",
+  "updated_at": "2024-09-10T21:58:55+00:00",
+  "rating": 880,
+  "_site": "scp-wiki",
+  "_fullname": "scp-2111"
+}

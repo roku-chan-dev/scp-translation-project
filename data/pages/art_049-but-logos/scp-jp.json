@@ -1,0 +1,20 @@
+{
+  "title": "049だけどロゴ",
+  "content": "[[include :scp-jp:theme:black-highlighter-theme]]\n[[module CSS]]\n:root,\n:root:lang(cn) {\n    --logo-image: url(\"http://scp-jp-storage.wikidot.com/local--files/file:8299414-67-m7tf/049_but_Foundation_w.svg\");\n    --header-title: \"SCPホスピタラー\";\n    --header-subtitle: \"災禍、呪詛、疫病\";\n}\n[[/module]]\n[[>]]\n[[module rate]]\n[[/>]]\n\n[[toc]]\n\n= ｢つまり、私達は疫病から[[span class=\"ruby\"]]一般の人々を救わなければ[[span class=\"rt\"]]**S**ave the **C**ommon **P**eoples[[/span]][[/span]]ならないのだ。｣\n\n[[=]]\n+ SCP-049だけどGol\n[[/=]]\n----\n[[=]]\n++ SCP-049だけどSCP財団\n[[/=]]\n\n[[=image http://scp-jp-storage.wikidot.com/local--files/file:8299414-62-d9o2/049_but_Foundation.svg width=\"40%;\"]]\n\n= **SCPホスピタラー**\n----\n[[=]]\n++ SCP-049だけどAre We Cool Yet?\n[[/=]]\n\n[[=image http://scp-jp-storage.wikidot.com/local--files/file:8299414-63-82t0/049_but_AWCY.svg width=\"40%;\"]]\n\n= **[[span class=\"ruby\"]]Are We Cured Yet?[[span class=\"rt\"]]俺たちは治ったろ？[[/span]][[/span]]**\n\n\n----\n[[=]]\n++ SCP-049だけどUIU\n[[/=]]\n\n[[=image http://scp-jp-storage.wikidot.com/local--files/file:8299414-64-luvv/049_but_UIU%20%282%29.svg width=\"40%;\"]]\n\n= **連邦捜査局、異常疾病課**\n\n\n----\n[[=]]\n++ SCP-049だけどGOC\n[[/=]]\n\n[[=image http://scp-jp-storage.wikidot.com/local--files/file:8299414-65-5rpi/049_but_GOC.svg width=\"40%;\"]]\n\n= **世界オペレーション連合**\n\n\n----\n\n\n\n\n\n\n\n\n\n\n[[=]]\n+ SCP-049だけどTaleシリーズ/カノン\n[[/=]]\n----\n[[=]]\n++ SCP-049だけどWhore of Blood[[footnote]] **訳者注:** 未訳ハブ [[/footnote]]\n[[/=]]\n\n[[=image http://scp-jp-storage.wikidot.com/local--files/file:8299414-66-avwo/049_but_Whore.svg width=\"80%;\"]]\n\n= **血の医師**",
+  "tags": [
+    "are-we-cool-yet",
+    "en",
+    "remixcon2023",
+    "アートワーク",
+    "ペスト医師",
+    "世界オカルト連合",
+    "異常事件課",
+    "血の娼婦"
+  ],
+  "author": "buta_otoko",
+  "created_at": "2023-11-17T08:52:10+00:00",
+  "updated_at": "2024-11-12T04:06:16+00:00",
+  "rating": 34,
+  "_site": "scp-jp",
+  "_fullname": "art:049-but-logos"
+}

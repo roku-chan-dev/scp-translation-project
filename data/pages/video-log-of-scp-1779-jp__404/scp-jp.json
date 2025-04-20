@@ -1,0 +1,14 @@
+{
+  "title": "_404",
+  "content": "[[module css]]\n@import url(/local--code/video-log-of-scp-1779-jp/1);\n[[/module]]\n[[module Redirect destination=\"video-log-of-scp-1779-jp\"]]\n====\n[[div style=\"display:none\"]]\n[[form]]\nfields:\n  filename:\n    label: \"ファイル名:\"\n    type: wiki\n    height: 1\n  person:\n    label: \"関連人物:\"\n    type: wiki\n    height: 1\n  content:\n    label: \"記録内容:\"\n    type: wiki\n    height: 7\n    hint: \"<映像開始>や<映像終了>は不要です\"\n  addendumhint:\n    type: static\n    value: 記録内容の下に付記などを記述したい場合、「**使用する**」をチェックしてください。\n  swaddendum:\n    label: \"付記\"\n    type: select\n    values:\n      1: 使用する\n      0: 使用しない\n    default: 0\n  addendum:\n    type: wiki\n    default: \"**付記**: [ここに付記などを記述]\"\n    join: true\n  redirect-b:\n    type: hidden\n    value: '[[module Redirect destination=\"/video-log-of-scp-1779-jp'\n  redirect-e:\n    type: hidden\n    value: '\"]]'\n[[/form]]\n[[/div]]",
+  "tags": [
+    "jp",
+    "剪定対象-子"
+  ],
+  "author": "Dr_Knotty",
+  "created_at": "2020-10-17T07:20:14+00:00",
+  "updated_at": "2021-05-24T13:06:43+00:00",
+  "rating": 0,
+  "_site": "scp-jp",
+  "_fullname": "video-log-of-scp-1779-jp:_404"
+}

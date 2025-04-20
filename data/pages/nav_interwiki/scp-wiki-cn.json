@@ -1,0 +1,13 @@
+{
+  "title": "跨维基模块",
+  "content": "[!--\n英站跨维基模块，基于由 7happy7 与 Sekai-s 开发的中分跨维基模块。\n\n源代码：https://github.com/scpwiki/interwiki\n\n用法：\n\n在需要引入跨维基模块的页面中：\n\n [[include :scp-wiki-cn:nav:interwiki\n| lang=cn\n| community=scp\n| type=sidebar\n]]\n\n适当修改与你分部相合的 lang 与 community。所使用的分部必须可被 Crom 支持。（https://crom.avn.sh）。\n\n在其它页面中（比如 CSS 版式），请参见 http://scp-wiki-cn.wikidot.com/component:interwiki-style 以修改跨维基模块的样式。\n\n亦请参见：http://scp-wiki-cn.wikidot.com/how-to-create-a-branch-of-the-scp-foundation\n--]\n\n[[div class=\"scpnet-interwiki-wrapper interwiki-stylable\"]]\n[[module ListPages range=\".\" limit=\"1\"]]\n[[embed]]\n<iframe src=\"//interwiki.scpwikicn.com/interwikiFrame.html?lang={$lang}&community={$community}&type={$type}&pagename=%%fullname%%\" allowtransparency=\"true\" class=\"html-block-iframe scpnet-interwiki-frame\"></iframe>\n[[/embed]]\n[[/module]]\n[[/div]]",
+  "tags": [
+    "管理"
+  ],
+  "author": "hoah2333",
+  "created_at": "2022-03-16T10:47:10+00:00",
+  "updated_at": "2022-06-15T06:35:17+00:00",
+  "rating": 0,
+  "_site": "scp-wiki-cn",
+  "_fullname": "nav:interwiki"
+}

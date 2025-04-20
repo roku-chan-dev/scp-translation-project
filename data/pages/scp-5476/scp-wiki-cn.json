@@ -1,0 +1,17 @@
+{
+  "title": "SCP-5476",
+  "content": "[[include :scp-wiki-cn:theme:scp-offices-sigma]]\n\n[[tabview]]\n[[tab SCP 5476]]\n\n[[size 130%]]**SCP-5476**[[/size]][[footnote]]出于组织目的，SCP基金会保管的异常都以三或四位数字表示。[[/footnote]]\n\n**项目等级：**Keter[[footnote]]高于Euclid的分级。意味着该异常非常难以收容，但不一定危及人类生命或常态。[[/footnote]]\n\n**特殊收容措施：**[[footnote]]本节描述如何以最好的方式防止该异常危及常态或人类生命。若该异常对常态或人类生命没有威胁，本节将描述如何防止异常激活自身的异常效应。[[/footnote]]已分配Technobabble.aic[[footnote]][[span class=\"ruby\"]]人工智能构造体[[span class=\"rt\"]]Artificially Intelligent Construct[[/span]][[/span]]，一种高级的计算机程序，可以复制人类行为。SCP基金会在许多方面使用AIC，包括设施管理和更新基金会文档。[[/footnote]]恢复SCP-5476事件对基金会数据库[[footnote]]一个专用于对SCP基金会保管的异常项目进行编目的网站，可通过[https://scp-wiki-cn.wikidot.com/random:random-scp scp-wiki.wikidot.com]访问。[[/footnote]]的修订。\n\n**描述：**[[footnote]]本节描述该异常的物理性质和异常效应。[[/footnote]]SCP-5476是SCP基金会数据库中的一种异常现象，会修订数据库内容，加入脚注[[footnote]]脚注是上标的小数字或星号，在鼠标滑过或拉到页面底部时，会显示关于主题的补充信息。这些注解通常用于附加上下文，或在不破坏文档流程的情况下添加评论。[[/footnote]]解释不同词语的释义。这些修订并非由注册用户做出，且可逾越受密码保护的文章[[footnote]] 例如[[[SCP-3125]]]，仅在用户输入密码55555时方可完全访问。[[/footnote]]。在某些情况下，SCP-5476事件会在纸质文档中发生，复制页面中使用的油墨。未知SCP-5476事件是否由可感实体[[footnote]]一类具有理性思维和情感的实体，例如人类或经异常性修改的AIC。[[/footnote]]引起。\n\n**发现：**[[footnote]]本节描述基金会如何意识到该异常的存在。[[/footnote]]首个SCP-5476事件发生于07/03/21[[footnote]]公元二〇二一年三月的第七天，或公元二〇二一年七月的第三天，取决于文档写作国家的习惯。[[/footnote]]，其时初级研究员[[footnote]]SCP基金会中低等级、通常资历较新的研究员。[[/footnote]]█████ ███████[[footnote]]黑条用于掩盖敏感信息。在本文的情况下，使用黑条是因为Scott Wilkins要求不将自己的名字与一Keter级异常的产生相联系。[[/footnote]]开发了一个实验性AIC Crystal.aic[[footnote]]本意是词组“crystal clear（一清二楚）”和人名Crystal的低级双关。[[/footnote]]，旨在传授新职员用在基金会正式文档中的复杂术语[[footnote]]例如机密分级和基于颜色的人形异常代码，新老基金会职员都很难记住它们。[[/footnote]]的含义。在测试时，该AIC试图定义一个模因危害[[footnote]]一种会引起观看者自主反应的复杂图像。上述自主反应包括的范围从失忆到死亡不等，因此常用于防护敏感信息不被没有适当权限和模因抗性的人感知。部分模因可对非人类观察者产生不同的效应。[[/footnote]] ，并立刻停止运转。大约一小时[[footnote]]60分钟，3600秒，3600000毫秒，3600000000微秒，或3600000000000纳秒。 [[/footnote]]后，该AIC重新上线，完成了对页面的修订，且加上了大量其他不必要[[footnote]]大量新员工努力理解SCP基金会使用的复杂科学语言。[[/footnote]]的定义。与该AIC相关的所有文件都已删除，但SCP-5476事件开始在基金会的其他文档中出现。\n\n[[/tab]]\n[[tab 脚注]]\n\n[[footnoteblock]]\n\n[[/tab]]\n[[/tabview]]\n\n[[div class=\"footer-wikiwalk-nav\"]]\n[[=]]\n<< [[[SCP-5475]]] | SCP-5476 | [[[SCP-5477]]] >>\n[[/=]]\n[[/div]]\n\n[[include :scp-wiki-cn:component:license-box\nauthor=Mooagain]]\n[[include :scp-wiki-cn:component:license-box-end]]",
+  "tags": [
+    "keter",
+    "meta",
+    "scp",
+    "未收容",
+    "电脑"
+  ],
+  "author": "Esperanza_Cai",
+  "created_at": "2021-04-03T09:55:44+00:00",
+  "updated_at": "2023-05-06T08:00:12+00:00",
+  "rating": 7,
+  "_site": "scp-wiki-cn",
+  "_fullname": "scp-5476"
+}

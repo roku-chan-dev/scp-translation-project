@@ -1,0 +1,21 @@
+{
+  "title": "토카게 오토코의 제안",
+  "content": "[[include credit:start]]\n**제목:** 토카게 오토코의 제안\n**저자:** [[*user tokage-otoko]]\n**원본:** http://ja.scp-wiki.net/tokage-otoko-s-proposal-2\n**역자:** [[*user Elfen_mathL]]\n[[include credit:end]]\n\n[[html]]\n<link rel=\"stylesheet\" type=\"text/css\" href=\"http://ja.scp-wiki.net/common--theme/base/css/style.css\">\n  <style>#text001{margin-bottom:70px;}</style>\n  <script src=\"http://code.jquery.com/jquery-latest.min.js\"></script>\n  <script>\n  $(document).ready(function(){\n    $(\"#text001\").bind(\"click\",function(){\n      $(this).height($(this).height());\n      $(\"#text001 p span\").each(function(i){\n        $(this).delay(i * 100).animate({opacity: 0},1500);\n      });\n    });\n  });\n  </script>\n<div id=\"text001\">\n<p><em><span>일련번호: SCP-001-JP</span><br>\n<span>등급: 케테르</span><br>\n<span>특별 격리 수순: SCP-001-JP를 보관할 수단은 존재하지 않는다. 우리 역시 그 일원이니 말이지. 하하하.</span></em></p>\n<p><em><span>설명: SCP-001-JP는 이 우주에 대한 복수의 인지할 수 없는 현상이다. </span><span><span>SCP-001-JP-A는 정기적으로 일어나는 현상이다. 일반적으로 말하는 관 뚜껑이 열리고, 그 곳에서 거대한 인간의 유아의 것과 똑같이 생긴 손이 나타나, 복수의 초현실적 존재…… 됐어, 귀찮으니까 그냥 SCP라 그래…… 및 인간에 한정되지 않은 지적 생물을 땅에 내던진다. <span>나타난 SCP에 대한 대응 수단을 내던져진 지적 존재는 가지고 있으며, SCP 관련 조직의 인원인 것처럼 행동한다. </span><span>나도 또한 그랬겠지.</span></em></p>\n<p><em><span>SCP-001-JP-B는 그러한 현상을 이 우주에 존재하는 모든 것이 무시한다는 것이다. </span><span>관 뚜껑에서 손이 나오는 것이 설사 눈 앞에서 일어날지라도 일절 인식하지 못한다. </span><span>내던져진 SCP는 새로 발견된 위협적 존재로 취급되며 그 SCP가 사람의 말을 이해하고 말할 경우 제 태생이 관 뚜껑 속이라는 사실을 알지 못한다. </span><span>고대의 공포였다거나, 전승의 존재였다거나, 갑자기 나타난 두려운 존재였다거나, 그렇게 행동을 하나 관 뚜껑에서 제가 내던져졌다는 사실은 알지 못한다. </span><span>멍청이들. </span><span>내던져진 지적 존재는 SCP 관련 조직에 이전부터 소속되어 있는 신뢰되는 요원이나 박사로서, 설사 어떤 변칙적인 능력이나 성격을 갖고 있다고 하더라도 그렇게 행동하고, 그 주변도 그것을 당연한 듯 받아들인다. </span><span>인사 파일 등의 모든 데이터는 이전부터 그들이 존재하였다는 듯이 나타난다. </span></p><p><span><span>SCP-001-JP-C는 모든 SCP 및 SCP에 대항하거나 그를 이용하는 모든 조직에서 일어나는 현상이다. </span><span>비정기적으로 SCP 및 SCP 관련 조직의 인원은 일편의 존재도 남기지 않고 사라진다. </span><span>데이터나 수용소, 연구 시설 등도 흔적 없이 사라진다. </span><span>SCP에 부여된 번호에는 얼마 지나지 않아 다른 새 SCP가 부여된다. </span><span>즉 요약하자면 우리가 해 왔던 건 단순한 광대 노릇이다. </span><span>……어차피 이런 글도 의미는 없어. </span><span>다소 형식은 지키려고 했는데 이제 됐지 뭐. 펜으로 휘갈긴 낙서니까.</span></em></p>\n<p><em><span>O5도 관 뚜껑에서 손이 나와 SCP나 인원을 뿌려 대고 있는 사실을 알지 못한다. </span><span>내가 지금 이렇게 글을 쓸 때까지 SCP 파일의 어디에도 이 변칙적 현상에 관한 기술은 없었다. </span><span>이 우주 전부가 누군가의 꼭두각시 극장이며, 장난감 상자에 지나지 않고, 우리가 하고 있는 건 단순한 광대 노릇인데 말이야. </span><span>그것도, 질리면 지워질 뿐인. </span><span>이걸 쓰고 있는 나조차 내 의사로 쓰고 있다고 생각하고 있지만 분명 그런 일은 없을 것이다. </span><span>분명 관 뚜껑 위에서 장난감 상자를 만지작대고 있는 애새끼의 꼭두각시겠지. 이 글을 아는 것은 그 하늘 위의 애새끼밖에 없다. </span><span>내가 이렇게 무시무시한 일을 아는 것에조차 어떠한 의미도 없다. O5도 마찬가지일 것이다. 모두 꼭두각시다.</span></em></p>\n</div>\n\n<p><em>어떤 O5인지는 모르겠습니다만, 백지 보고서를 극비 문서에 꽂아 두는 건 칭찬받을 일이 아닌 것 같습니다. 더미 파일일지도 모르겠지만요, 그렇다면 그럴듯한 보고를 작성해 주십시오. 아무것도 적혀 있지 않은, 이런 다 젖은 종이를 타 단체의 간첩이 봤다고 합시다. 누가 이걸 기밀 문서라고 생각하겠습니까?</em> ― O5-7</p>\n[[/html]]",
+  "tags": [
+    "001-제안",
+    "jp",
+    "scp",
+    "메타",
+    "외부차원",
+    "인간형",
+    "정신조작",
+    "케테르",
+    "통로"
+  ],
+  "author": "Elfen_mathL",
+  "created_at": "2018-07-09T12:48:43+00:00",
+  "updated_at": "2024-11-03T10:17:01+00:00",
+  "rating": 4,
+  "_site": "scpko",
+  "_fullname": "tokage-otoko-s-proposal-2"
+}

@@ -1,0 +1,14 @@
+{
+  "title": "10020",
+  "content": "number: UE-160515-JP\ncontent: 3基の風力発電機。金属製の槍を用いた刺突に似た損傷が定期的に発生する。\ndate: 20██-09-29\narea: '秋田県 八峰町'\nprotocol: 周辺の土地を買収し、私有地として民間人の立ち入りを禁じています。損傷を受けた発電機は随時修復してください。\nredirect-b: '[[module Redirect destination=\"/log-of-unexplained-locations-jp'\nredirect-e: '\"]]'",
+  "tags": [
+    "jp",
+    "剪定対象-子"
+  ],
+  "author": "Mistertako",
+  "created_at": "2021-02-12T10:21:06+00:00",
+  "updated_at": "2021-05-24T13:21:31+00:00",
+  "rating": 36,
+  "_site": "scp-jp",
+  "_fullname": "log-of-unexplained-locations-jp:10020"
+}

@@ -1,0 +1,13 @@
+{
+  "title": "信念",
+  "content": "[[module CSS]]\n.email-example .collapsible-block-folded a.collapsible-block-link {\n    animation: blink 0.8s ease-in-out infinite alternate;\n}\n@keyframes blink {\n    0% { color: transparent; }\n    50%, 100% { color: #b01; }\n}\n.email {border: solid 2px #000000; width: 88%; padding: 1px 15px; margin: 10px; box-shadow: 0 1px 3px rgba(0,0,0,.5)}\n.email-example a.collapsible-block-link {font-weight: bold;}\n.tofrom {margin-left: 10px; margin-top: 5px; padding: 1px 15px; border-left: solid 3px maroon}\n[[/module]]\n\n> 妈，\n> \n> 尽管很像，但这不是一封遗书，我向你保证，我还活着，即使他们告诉你我已经死了。还记得你告诉我的，关于我的故事吗？当我还是个孩子时，你将我留在被玩具围着的枕头上，而我在这消磨掉整天的时光，然后在这之中入睡。你给了我一个小世界，我真的很喜欢，因为我从来没有真正离开它。感谢你待在家，照顾我的饮食。每当我对继续学业感到无力时，你总是走进我，激励我，告诉我你有多爱我。也感谢你对我的付出。我知道你对我给予了很高的期望：你希望我成为一名律师，有很多钱，找到一个好妻子再让你抱上孙子。你还可能期盼我能够在你离去时，握着你的手，然后送你离开。但是我很抱歉。我知道你没有错，你只是想把最好的都给我，但是我真的再也不能承受这一切了。我害怕，害怕看到你看到我在学科上得到F时的失望，我知道按照你设想的阳关大道走下去已经不可能了。最近，我帮了一个站点写了些东西，我又开始感到充满活力了，就像在那个玩具的世界里，作为一个孩子。我在这也找到了朋友！他们像我一样爱着这个站点，和他们聊天很愉快，他们并不像你的闺蜜的孩子们一样虚伪又自命不凡。我真的好久没有这样的感觉了，当我写些不同的东西时，那些您期盼着我去做的东西时，只有无穷无尽的空虚感。这被爱的生活和拥有美好的未来不适合我。我最后找到了一个方式，去和我自己的信念和创作生活在一起！我隐隐感觉，或许我们再也不会见面了，所以这是一封告别信。感谢你为我做的一切，同时我很抱歉，直到最后我仍然让你失望，从来没有实现任何东西。\n> \n> Desmond\n\n[[div class=\"email-example\"]]\n[[=]]\n------\n[[collapsible show=\"一（1）封新邮件！\" hide=\"案件编号G782 法医分析报告\"]]\n[[<]]\n[[div class=\"email\"]]\n[[div class=\"tofrom\"]]\n**至：**Dr Samuel\n**自：**Dr Kylie\n**主题：**案件编号G782 法医分析报告\n[[/div]]\n------\n**正文：**\n\n2021年11月5日，17岁男性Desmond Shaw的尸体于家中被发现。Dr Kylie和他的团队进行了调查，确认其死于氢可酮使用过量。小剂量的LSD致幻剂在一个小塑料拉链包中被发现。已排除谋杀的可能性。\n[[/div]]\n[[/<]]\n[[/collapsible]]\n[[/=]]\n[[/div]]\n\n[[include :scp-wiki-cn:component:license-box\n|author =forbiddenquest\n]]\n[[include :scp-wiki-cn:component:license-box-end]]",
+  "tags": [
+    "故事"
+  ],
+  "author": "DrWeddell",
+  "created_at": "2021-12-05T05:59:37+00:00",
+  "updated_at": "2024-08-24T01:21:20+00:00",
+  "rating": 12,
+  "_site": "scp-wiki-cn",
+  "_fullname": "passion"
+}

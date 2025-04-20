@@ -1,0 +1,11 @@
+{
+  "title": "_V173 Page Management",
+  "content": "This page, created by me ([[*user V173]]), manages my posts across the Site via ListPage modules.\n\nThis page is normally hidden.\n\n[[div class=\"blockquote\"]]\n[[=]]\n+++ ALL PAGES\n[[/=]]\n-----\n[[module ListPages separate=\"no\" created_by=\"V173\" category=\"*\" pagetype=\"*\"]]\n@@ @@\n[[table class=\"wiki-content-table\"]]\n[[row]]\n[[hcell colspan=\"3\"]] (%%index%%/%%total%%) %%title_linked%% (%%category%%) [[/hcell]]\n[[/row]]\n[[row]]\n[[cell]] **By** [[*user %%created_by%%]] [[/cell]]\n[[cell]] **Created on:** %%created_at%% [[/cell]]\n[[cell]] **Last Updated:** %%updated_at%% by [[*user %%updated_by%%]] [[/cell]]\n[[/row]]\n[[row]]\n[[hcell colspan=\"3\"]]\n[[=]]\n[[collapsible show=\"More Info\"]]\n[[/=]]\n[[table class=\"wiki-content-table\"]]\n[[row]]\n[[cell]] Revisions: [[span style=\"font-weight:normal;\"]]%%revisions%%[[/span]] [[/cell]]\n[[cell]] Comments: [[span style=\"font-weight:normal;\"]]%%comments%%[[/span]] [[/cell]]\n[[cell]] Last commented: [[span style=\"font-weight:normal;\"]]%%commented_at%% by [[*user %%commented_by%%]][[/span]] [[/cell]]\n[[/row]]\n[[row]]\n[[cell]] Rating: [[span style=\"font-weight:normal;\"]]%%rating%%[[/span]] [[/cell]]\n[[cell]] Votes: [[span style=\"font-weight:normal;\"]]%%rating_votes%%[[/span]] [[/cell]]\n[[cell]] Percent: [[span style=\"font-weight:normal;\"]]%%rating_percent%%[[/span]] [[/cell]]\n[[/row]]\n[[row]]\n[[cell]] Size: [[span style=\"font-weight:normal;\"]]%%size%% characters[[/span]] [[/cell]]\n[[cell]] Parent: [[span style=\"font-weight:normal;\"]]%%parent_title_linked%%[[/span]] [[/cell]]\n[[cell]] Children: [[span style=\"font-weight:normal;\"]]%%children%%[[/span]] [[/cell]]\n[[/row]]\n[[row]]\n[[cell colspan=\"3\"]] Tags: [[span style=\"font-weight:normal;\"]]%%tags_linked%%[[/span]] [[/cell]]\n[[/row]]\n[[row]]\n[[cell colspan=\"3\"]] Hidden Tags: [[span style=\"font-weight:normal;\"]]%%_tags_linked%%[[/span]] [[/cell]]\n[[/row]]\n[[/table]]\n[[/collapsible]]\n[[/hcell]]\n[[/row]]\n[[/table]]\n@@ @@\n-----\n[[/module]]\n[[/div]]",
+  "tags": [],
+  "author": "V173",
+  "created_at": "2025-02-18T16:08:36+00:00",
+  "updated_at": "2025-02-19T18:31:23+00:00",
+  "rating": 0,
+  "_site": "scp-wiki",
+  "_fullname": "_v173-page-management"
+}

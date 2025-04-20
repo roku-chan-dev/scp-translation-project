@@ -1,0 +1,14 @@
+{
+  "title": "FreezerMonkey's Personnel Dossier",
+  "content": "[[include :scp-wiki:theme:basalt]]\n[[>]]\n[[module Rate]]\n[[/>]]\n> \n[[=]]\n[[include component:sybadge code=pbs]]\n[[include component:sybadge code=scl]]\n[[include component:sybadge code=tsf]]\n[[/=]]\n\n\n> \n**Name:** FreezerMonkey\n> \n**Clearance Level:** 3\n> \n**Current Location:** [REDACTED]\n> \n**Biography:** FreezerMonkey was born in ███████, Canada on ██/██/20██.\n> \nHe came to the Foundation's attempts after embedded Foundation agents heard his lecture on Noospheric artchetypes and their relation to existence. Is not a monkey, nor does he live in a freezer. He's a fractal with a fedora that just happens to be called FreezerMonkey though. \n> \n**Personality and Habits:** Pretty chill dude. You'll either find him lounging in the Discord, or writing something in the sandbox. \n> \n[[include component:author-page order=created_at]]\n> \n[[include :scp-wiki:component:license-box]]\n[[include :scp-wiki:component:license-box-end]]",
+  "tags": [
+    "_licensebox",
+    "author"
+  ],
+  "author": "FreezerMonkey",
+  "created_at": "2024-02-19T06:08:30+00:00",
+  "updated_at": "2024-05-31T15:25:50+00:00",
+  "rating": 16,
+  "_site": "scp-wiki",
+  "_fullname": "file-freezermonkey"
+}

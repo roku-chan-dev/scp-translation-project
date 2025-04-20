@@ -1,0 +1,21 @@
+{
+  "title": "SCP-CN-1017",
+  "content": "[[module css]]\n.footnoteref{\ncolor: #FF5555;\n}\n.danke{\npadding: 5px 5px 5px 15px;\nmargin-bottom:10px;\nwidth: 100%;\nfont-family: monospace;\nfont-size: 1.1em; }\n\n.agent{\nbackground-color:#002200;\nborder: 3px solid #55AA55;\ncolor: #77CC77;\n}\n\n.site{\nbackground-color:#222200;\nborder: 3px solid #AAAA55;\ncolor: #DDDD77;\n}\n[[/module]]\n\n[[>]]\n[[module Rate]]\n[[/>]]\n\n[[module ListPages category=\"fragment\" parent=\".\" limit=\"1\" order=\"name\" offset=\"@URL|0\"]]\n\n%%content%%\n[[/module]]\n\n[[footnoteblock]]\n\n\n\n[[div class=\"footer-wikiwalk-nav\"]]\n\n[[=]]\n\n<< [[[SCP-CN-1016]]] | SCP-CN-1017 | [[[SCP-CN-1018]]] >>\n\n[[/=]]\n\n[[/div]]",
+  "tags": [
+    "euclid",
+    "k级情景",
+    "scp",
+    "site-cn-34",
+    "site-cn-77",
+    "人造物品",
+    "原创",
+    "地点",
+    "建筑"
+  ],
+  "author": "EDGE_chi",
+  "created_at": "2018-12-09T08:43:45+00:00",
+  "updated_at": "2020-04-26T04:00:05+00:00",
+  "rating": 37,
+  "_site": "scp-wiki-cn",
+  "_fullname": "scp-cn-1017"
+}

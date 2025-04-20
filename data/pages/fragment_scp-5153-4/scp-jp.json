@@ -1,0 +1,14 @@
+{
+  "title": "fragment:SCP-5153-4",
+  "content": "[[div class=\"orderwrapper\"]]\n[[div class=\"council1\"]]\n[[/div]]\n[[div class=\"ordertitle\"]]\n+* SCiP Net Database\n[[/div]]\n[[div class=\"orderdescription\"]]\n _\n+* SCP-5153\n[[=]]\n**{{##firebrick|ERROR: 財団データベースに接続できませんでした##}}**\n@@ @@\n##firebrick|**{{[DATA LOST]}}**##\n[[/=]]\n@@ @@\n[[/div]]\n[[/div]]\n\n[[module CSS]]\n.orderwrapper {position: relative;width: auto;text-align: center;}.council1 {position: relative;top: 0;bottom: 0;left: 0;right: 0;width: 295px;height: 295px;margin: auto;background-image: url( \"http://kaktuskontainer.wdfiles.com/local--files/format-hell/scp_trans.png\" );background-size: 295px 295px;background-repeat: no-repeat;background-position: center;}.ordertitle {position: absolute;left: 0;right: 0;top: 38px;}.ordertitle h1 {font-size: 220%;color: #555;}.orderdescription {position: absolute;left: 0;right: 0;top: 85px;width: 100%;}.orderdescription p {font-size: 90%;color: #555;}.orderdescription h1 {font-size: 120%;color: #555;}.itemno {position: absolute;left: 0;right: 0;bottom: 27px;}.itemno h1 {font-size: 170%;color: #555;}\n[[/module]]\n\n\n[[div style=\"border:solid 1px #999999; background:#e6e6e6; padding:5px; margin-bottom: 10px; padding: 0 2%; float:left; width: 45%\"]]\n[[=]]\n{{[DATA LOST]}}\n[[/=]]\n[[/div]]\n\n[[div style=\"border:solid 1px #999999; background:#e6e6e6; padding:5px; margin-bottom: 10px; padding: 0 2%; float:right; width: 45%\"]]\n[[=]]\n{{[DATA LOST]}}\n[[/=]]\n[[/div]]",
+  "tags": [
+    "en",
+    "フラグメント"
+  ],
+  "author": "C-Dives",
+  "created_at": "2020-04-18T17:00:17+00:00",
+  "updated_at": "2021-01-10T18:17:12+00:00",
+  "rating": 0,
+  "_site": "scp-jp",
+  "_fullname": "fragment:scp-5153-4"
+}

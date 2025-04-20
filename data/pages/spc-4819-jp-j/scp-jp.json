@@ -1,0 +1,19 @@
+{
+  "title": "SPC-4819-JP-J",
+  "content": "[[include :scp-jp-sandbox2:inc:changepagetitle |\nTITLE=SPC サメ殴りセンター|\nCOLOR=#EEE]]\n\n[[include :scp-jp-sandbox2:inc:topsubtitle |\nTITLE=The Shark Punching Center |\nCOLOR=#EEE]]\n\n[[include :scp-jp-sandbox2:inc:changelogo |\nIMAGE = http://scp-jp-sandbox2.wdfiles.com/local--files/indonootoko/%E9%AE%AB%E3%83%AD%E3%82%B4.png]]\n\n[[include :scp-jp-sandbox2:inc:headsubtitle | title=索鮫、殴打、粉砕]]\n\n[[include credit:start]]\n**タイトル:** SPC-4819-JP-J - ジュモクザメ\n**著者:** ©︎[[*user indonootoko]]\n**作成年:** 2018\n[[include credit:end]]\n[[include component:image-block\n|name=ジュモクザメ.jpg\n|caption=SPC-4819-JP-J\n]]\n**プロジェクト番号:** SPC-4819-JP-J\n\n**オブジェクトクラス:** Hammerhead\n\n**鮫科殴打ケイパビリティ:** SPC-4819-JP-Jを殴打するエージェントは、鮫花粉対策として対鮫花粉用防塵マスクの装備が義務付けられます。SPC-4819-JP-Jはエージェントの殴打訓練用木人の資材として有用です、殴打終了後はチェーンソー[[footnote]]対竜巻鮫と同仕様のものが支給されます。[[/footnote]]を用いて解体し、最寄りのセンターへ運搬して下さい。\n\n**プロジェクト構成:** SPC-4819-JP-Jは特殊な方法でシュモクザメ（//Sphyrnidae//）を繁殖させる樹木です。SPC-4819-JP-Jはシュモクザメが地中に埋まる事で発芽し、5年ほど掛けSPC-4819-JPへと成長します。成長したSPC-4819-JP-Jは一般的な樹木と同様に花を咲かせ、花粉（以下、鮫花粉と呼称）による生殖を行います。鮫花粉を受粉したSPC-4819-JPは直径10cmほどの果実を形成します。\nSPC-4819-JP-Jの果実が地面に落下した場合、シュモクザメが地中に埋まった際と同じプロセスを経てSPC-4819-JP-Jへと成長します。SPC-4819-JP-Jの果実が水面に落下した場合、果実が割れ、シュモクザメの幼体が産れます。このプロセスを経て産れたシュモクザメは成長後、陸へと上がり、SPC-4819-JP-Jへ成るべく自ら地中へ埋まる事が確認されています。この事から、SPC-4819-JP-J自体も殴打されるべき鮫科存在であると考えられています。\n\nSPC-4819-JP-Jの花粉は、鼻や目などの粘膜に接触することによってアレルギーを引き起す鮫花粉症を発症させることがあります。鮫花粉症の発症者は、鮫花粉へアレルギー反応を起こすだけではなく、鮫科存在そのものにもアレルギー反応を起こすようになります。この症状はセンター職員として致命的な疾患であり、センター職員は十分な鮫花粉対策を行うことが望まれます。\n\n[[include component:image-block\n|name=サメグラ.png\n|caption=売店で販売中のサメグラSH(税別￥1,200)\n]]\n鮫花粉症を発症した場合はセンター指定の医師又は薬剤師へ相談の上、センター売店にて販売されている「サメグラSH」を購入し携帯してください。1日2錠を殴打任務開始2時間前までに服用し、殴打職務に当たってください。",
+  "tags": [
+    "af2018",
+    "esoteric-class",
+    "jp",
+    "scp",
+    "サメ殴りセンター",
+    "ジョーク",
+    "樹木"
+  ],
+  "author": "indonootoko",
+  "created_at": "2018-03-31T16:37:04+00:00",
+  "updated_at": "2021-04-04T02:06:50+00:00",
+  "rating": 33,
+  "_site": "scp-jp",
+  "_fullname": "spc-4819-jp-j"
+}

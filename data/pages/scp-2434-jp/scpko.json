@@ -1,0 +1,20 @@
+{
+  "title": "SCP-2434-JP",
+  "content": "[[module CSS]]\n.notice{\n    border: 1px solid #f9e24d;\n    outline: 4px solid #b54d3b;\n    color: #f9e24d;\n    background: #b54d3b;\n    padding: 10px;\n    text-align: center;\n}\n\n/* HEADER */\n#header{ background-image: url(http://scp-jp.wikidot.com/local--files/scp-2434-jp/DoMC_Logo100.png); }\n#header h1 a{\n    display: block;\n    margin: 0;\n    padding: 80px 0 25px;\n    line-height: 0;\n    max-height: 0;\n    color: transparent;\n    background: transparent;\n    font-family: 'Verdana', Arial, sans-serif;\n    text-decoration: none;\n    text-shadow: none;\n    letter-spacing: 0.9px;\n}\n#header h1 a::before{\n    content: \"의사불통학부\";\n    color: white;\n    letter-spacing: -0.02em;\n    text-shadow: 3px 3px 5px black;\n}\n#header h2 span{\n    display: block;\n    margin: 0;\n    padding: 19px 0;\n    line-height: 0;\n    max-height: 0;\n    font-weight: bold;\n    color: transparent;\n    text-shadow: none;\n}\n#header h2 span::before{\n    content: '혀의 거슬림을 박살내자';\n    color: white;\n    text-shadow: 1px 1px 1px black;\n}\n[[/module]]\n\n[[include credit:start]]\n**제목:**  SCP-2434-JP - 주전자\n**저자:** ©︎[[*user Karathh]]\n**원본:** http://scp-jp.wikidot.com/scp-2434-jp\n**역자:** [[*user Migueludeom]]\n**작성연도:** 2020\n[[include credit:end]]\n\n[[module CSS]]\n.notice{\n    border: 1px solid #f9e24d;\n    outline: 4px solid #b54d3b;\n    color: #f9e24d;\n    background: #b54d3b;\n    padding: 10px;\n    text-align: center;\n}\n.notice a {\n    color: aqua;\n}\n[[/module]]\n\n[[div class=\"notice\"]]\n++++ [[[domc-hub|의사불통학부]]]에서 통지함 \n\n첨부된 설명서에는 불필요하거나 비존재하는 정보가 기술되었다. 이는 의도된 사항이 아니다. 설명을 읽고 의문점이 생길 시 의사불통학부로 연락하길 바란다. \n\n-- 세토 박사, 의사불통학부 일본 지부\n[[/div]]\n\n----\n\n**제품번호:** SCP-2434-JP \n\n**분류:** 주전자\n\n[[include component:image-block\n|name=http://scp-jp.wikidot.com/local--files/scp-2434-jp/Kettle\n|caption=제품번호 SCP-2434-JP\n|align=center\n|clear=true\n|width=300px]]\n\n**설명:** 제품번호 SCP-2434-JP는 제조원과 조성이 분명하지 않은 주전자다.\n주전자는 물주전자로서만 이용되는 것이 아니라 단순히 액체를 운반하는 데에도 사용된다. 또한 내부에 물을 넣고 방 안에 두어 가습기로도 이용되고 있다. 그러나 주전자는 둔기, 실내 장식, 용기 내 충전재로는 취급되지 않는다.\n\n__**⚠️취급 시 주의점⚠️**__\n* 현재 제8154기지 조리실에서 사용되고 있습니다.\n\n* 사용 중 표면에 접촉하면 화상을 입을 수 있으니 주의하세요.\n\n* 사용 후 중성 세제를 묻힌 스펀지로 세척하고 수분을 잘 닦아낸 후 건조시키세요.\n\n* 본 제품은 취급설명서를 충분히 읽으신 뒤에 이용하세요. 또, 본 제품의 취급 설명서는 훼손하지 말고 제품과 함께 소중히 보관하세요.\n\n* 설명서를 고칠 점이 있다고 생각한다면 의사불통학부에 연락하세요.\n\n* **##red|__본래 용도에 맞지 않는 사용은 사용자에게 예측 불가능한 피해를 줄 수 있습니다.__##**\n\n**과거 발생한 사고 예시:**\n\n__**예시 1**__\n> **사용자:** 20대 주부\n> \n> **사고 상세:** 안면 화상\n> \n> **사고 발생 원인:** 둔기로 사용 \n\n__**예시 2**__\n> **사용자:** 30대 연구원\n> \n> **사고 상세:** 사용자를 포함한 인원 5명이 개체 등급에 대한 지식을 상실함\n> \n> **사고 발생 원인:** 개체 등급 부여\n\n__**예시 3**__\n> **사용자:** 30대 연구원\n> \n> **사고 상세:** 손가락 골절(2회)\n> \n> **사고 발생 원인:** 줄을 이용한 성분 분석(2회)\n\n__**예시 4**__\n> **사용자:** 30대 연구원\n> \n> **사고 상세:** 재단기록정보보안행정처(RAISA) 데이터베이스 내 보고서 80건 소실\n> \n> **사고 발생 원인:** 부적절한 설명 \n\n__**예시 5**__\n> **사용자:** 20대 D계급 인원\n> \n> **사고 상세:** 다수의 사용 기기 폭발로 인한 제8154기지의 파손 및 12명 부상(사용자만 사망)\n> \n> **사고 발생 원인:** 칸트 계수기나 중량계 등을 이용한 측량\n\n__**예시 6**__\n> **사용자:** (없음)\n> \n> **사고 상세:** 요주의 단체의 습격으로 인한 격리실 파손(격일 3회)\n> \n> **사고 발생 원인:** 격리함에 넣고 장시간 방치(3회)",
+  "tags": [
+    "jp",
+    "scp",
+    "금속",
+    "난해한-등급",
+    "메타",
+    "용기",
+    "의사불통학부",
+    "정보재해"
+  ],
+  "author": "Migueludeom",
+  "created_at": "2021-01-22T09:35:42+00:00",
+  "updated_at": "2024-11-02T01:10:43+00:00",
+  "rating": 5,
+  "_site": "scpko",
+  "_fullname": "scp-2434-jp"
+}

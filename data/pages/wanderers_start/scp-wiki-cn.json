@@ -1,0 +1,15 @@
+{
+  "title": "被放逐者之图书馆",
+  "content": "[[module css]]\n#page-title {\n    display: none;\n}\n\ndiv.inner {\n    display: -webkit-box;\n    display: -webkit-flex;\n    display: -moz-box;\n    display: -ms-flexbox;\n    display: flex;\n}\ndiv.inner > div {\n    -webkit-box-flex: 2;\n    -webkit-flex-grow: 2;\n       -moz-box-flex: 2;\n        -ms-flex-positive: 2;\n            flex-grow: 2;\n    -webkit-flex-basis: -webkit-calc(50% - 2em);\n        -ms-flex-preferred-size: calc(50% - 2em);\n            flex-basis: calc(50% - 2em);\n    padding: 1em;\n}\n\n@media only screen and (max-width: 768px) {\n    div.inner {\n        -webkit-flex-wrap: wrap;\n            -ms-flex-wrap: wrap;\n                flex-wrap: wrap;\n    }\n    div.inner > div {\n        -webkit-flex-basis: 100%;\n            -ms-flex-preferred-size: 100%;\n                flex-basis: 100%;\n    }\n}\n\ndiv.left-side, div.right-side {\n    font-size: 120%;\n}\ndiv.right-side {\n    border-left: 0.25rem double rgb(255, 219, 90);\n}\n\nspan.h2 {\n    font-weight: 600;\n    font-size: 175%;\n    letter-spacing: 0.1em;\n}\nspan.h3 {\n    font-weight: 900;\n    font-size: 130%;\n    letter-spacing: 0.063rem;\n}\n[[/module]]\n\n[[=]]\n[[span class=\"h2\"]]欢迎你，被放逐者。[[/span]]\n\n[[span class=\"h3\"]]//请勿折叠、旋转或者转变你的同行者。//[[/span]]\n\n[[div class=\"fancyborder\"]]\n\n[[span class=\"h2\"]][[[wanderers:enter-the-library|浏览书架]]][[/span]]\n\n**新访客？请先阅读[[[wanderers:orientation|指南]]]！**\n\n[[/div]]\n\n[[div_ class=\"fancyhr\"]]\n-----\n[[/div]]\n\n[[div class=\"fancyborder\"]]\n\n[[size 120%]]>> [[[wanderers:featured-archive|精品归档]]] <<[[/size]]\n\n[[/div]]\n\n[[div_ class=\"fancyhr\"]]\n-----\n[[/div]]\n\n[[div_ class=\"inner\"]]\n\n[[div_ class=\"left-side\"]]\n\n[[span class=\"h2\"]]图书馆[[/span]]\n\n[[size 150%]]最近的翻译[[/size]]\n\n[[module ListPages tags=\"-补充材料 -段落 -管理 -工房 -样版 -版式 -原创\" order=\"created_at desc\" limit=\"12\" separate=\"false\"]]\n%%title_linked%%\n[[/module]]\n\n-----\n\n[[size 150%]]最近的原创[[/size]]\n\n[[module ListPages tags=\"-补充材料 -段落 -管理 -工房 -样版 -版式 +原创\" order=\"created_at desc\" limit=\"12\" separate=\"false\"]]\n%%title_linked%%\n[[/module]]\n\n-----\n\n[[/div]]\n\n[[div_ class=\"right-side\"]]\n\n[[span class=\"h3\"]][[[wanderers:the-index|记载索引：A 至 Z]]][[/span]]\n\n[[span class=\"h3\"]][[[wanderers:the-index-cn|原创记载索引：A 至 Z]]][[/span]]\n\n-----\n\n//被放逐者之图书馆是一项合作小说创作。它是关于探索世界上那些隐于常人之眼、奇异而怪诞角落的故事合集。一些故事发生在遥远的过去，以传说和寓言的形式留存于世。其他则来自现代，躲藏在视线之外、阴影之下。基本前提是，这些奇怪的事物并非完全从属于我们这个世界。有些是危险的，有些则只是令人着迷。无论如何，它们都在某些方面有着奇特之处。//\n\n//一位王牌猎人在异世界中寻找猎物。//\n\n//一只生物生活在小巷和垃圾场中，收集碎屑来伪装自己。//\n\n//一个由众多部件拼凑而成的红色存在、许诺可以满足你你曾渴求的一切。//\n\n//这里的故事应当试图唤起一种“渊妙感”，一种超越我们所知的更大世界的感觉。在图书馆的世界中，这些惊奇之物是隐藏着的，但从未真正远离。然而，永远不要忘记，这是一片比我们自己的世界更加狂野的天地，它也绝非安全。小心前行。//\n\n[[/div]]\n\n[[/div]]\n[[/=]]",
+  "tags": [
+    "wanderers",
+    "中心",
+    "管理"
+  ],
+  "author": "Sekai_s",
+  "created_at": "2019-11-28T03:17:00+00:00",
+  "updated_at": "2024-02-13T09:35:47+00:00",
+  "rating": 95,
+  "_site": "scp-wiki-cn",
+  "_fullname": "wanderers:start"
+}

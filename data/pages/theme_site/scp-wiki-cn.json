@@ -1,0 +1,14 @@
+{
+  "title": "Sigma-10 版式",
+  "content": "[[module ThemePreviewer noUi=\"true\" theme_url=\"https://scpwiki.github.io/sigma/css/sigma.min.css\"]]\n\n这里是 SCP 维基的版式 Sigma-10 的存放地址。\n\n源代码于 [https://github.com/scpwiki/sigma GitHub] 上提供并托管。\n\n最后一个版本的网站版式（SCP-Sigma-9）代码可以在[[[component:theme|这里]]]看到。\n\n[[div class=\"blockquote\"]]\n+ 创建中文沙盒的步骤\n\n# 在你的网站上创建一个名为 {{theme:site}} 的页面。你应该将该页面锁定。\n# 在你网站的网站管理器处，点击**外观与表现**、**布景主题**，随后选择**外部**标签页，而后键入 “@@https://@@**你的网站名**@@.wdfiles.com/local--code/theme:site/1@@”。\n# 如果有需要的话，复制[[[nav:side|侧边栏]]]及/或[[[nav:top|顶栏]]]。\n# 复制[[[main|首页]]]的模板，包括附件。\n# 若需启用移动端视图，只需前往你的维基的任意页面处，并点击下方的 [# + 选项]。\n# 点击[# 编辑元信息]\n# 点击 “新增一个 meta 标签”。name 处填写 “viewport”（去掉引号），并在 content 处填写 “width=device-width, initial-scale=1.0”（一样的，去掉引号）。\n\n你的 {{theme:site}} 页面的内容应该如下：\n\n[[div class=\"code\"]]\n@<[[code type=\"css\"]]>@\n@<@import url(\"https://scpwiki.github.io/sigma/css/sigma.min.css\");>@\n@<[[/code]]>@\n[[/div]]\n\n在 code 块中，你可以引入一些为你沙盒量身定制的自定义样式，比如是一个不一样的页眉图片。\n[[/div]]",
+  "tags": [
+    "版式",
+    "管理"
+  ],
+  "author": "hoah2333",
+  "created_at": "2023-04-14T15:10:59+00:00",
+  "updated_at": "2023-04-18T08:12:31+00:00",
+  "rating": 8,
+  "_site": "scp-wiki-cn",
+  "_fullname": "theme:site"
+}

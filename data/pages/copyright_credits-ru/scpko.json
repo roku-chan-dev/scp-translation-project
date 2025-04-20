@@ -1,0 +1,14 @@
+{
+  "title": "저작자 목록-RU",
+  "content": "[[module CSS]]\n.content-panel.standalone {\n  padding: 20px 30px;\n}\n.sp-art-title {\n  font-size: 200%;\n  font-weight: bold;\n  margin-bottom: 10px;\n}\n[[/module]]\n[[div class=\"content-panel centered standalone series\"]]\n[[image http://mirrors.creativecommons.org/presskit/buttons/88x31/png/by-nc-sa.eu.png width=\"300px\" link=\"http://creativecommons.org/licenses/by-nc-sa/3.0/deed.ko\"]]\n(cc) users of SCP-RU, some rights reserved.\n\n**주의:**  CC by-sa를 라이선스로 사용하는 영어 위키 및 한국어 위키와 달리 러시아어 위키는 CC by-nc-sa를 라이선스로 사용하고 있습니다. 본 저작자 목록에 링크된 러시아어 위키 저작물들의 번역물들 또한 그 원본의 라이선스를 따라 한국어 위키의 다른 저작물들과 달리 CC by-nc-sa를 따릅니다.\n[[/div]]\n[[div class=\"content-panel centered standalone series\"]]\n[[div class=\"sp-art-title unmargined\"]]\nSCP-RUs Credits\n----\n\n[[/div]]\n[[/div]]\n[[div class=\"content-panel centered standalone series\"]]\n[[div class=\"sp-art-title unmargined\"]]\nTale-RUs Credits\n----\n\n[[/div]]\n[[/div]]\n[[div class=\"content-panel standalone series\"]]\n[[div class=\"sp-art-title unmargined\"]]\n= Other-RUs Credits\n----\n\n[[/div]]\n* [[[groups-of-interest-of-the-russian-branch|]]] is based on \"[http://scp-int.wikidot.com/groups-of-interest-of-the-russian-branch Groups Of Interest Of The Russian Branch]\" by \"[[user Blackbird5154]]\",\n * which is based on \"[http://scpfoundation.ru/groups-of-interest  Связанные организации]\" by various artists\n[[/div]]",
+  "tags": [
+    "ru",
+    "저작권"
+  ],
+  "author": "Salamander724",
+  "created_at": "2015-05-02T08:34:44+00:00",
+  "updated_at": "2018-10-07T02:33:21+00:00",
+  "rating": 0,
+  "_site": "scpko",
+  "_fullname": "copyright:credits-ru"
+}

@@ -1,0 +1,17 @@
+{
+  "title": "SCP-1921-J",
+  "content": "**项目等级：** SCP-1921-J\n\n**项目编号：**求你了我还要好多工作要做\n\n**特殊收容措施：**SCP-1921-J将每天被拔出插头又插回两次。鼓励人员对初级研究员Riemann的问题提供帮助和支持。--请对我好点--取笑初级研究员Riemann似乎会使SCP-1921-J的异常影响加剧。\n\n**描述：**SCP-1921-J是初级研究员Riemann拥有的摩托罗拉MG7540组合型无线路由器/调制解调器。 SCP-1921-J似乎包揽了Riemann办公室的全部网络连接，这简直荒唐无比，因为我每月可是要花70美元在这上面。已知SCP-1921-J对初级研究员Riemann心怀仇恨，让他的生活变得无比艰难。\n\n曾有假说认为对SCP-1921-J表示友好能够缓解这种影响，但这是在我们了解到它心头仇怨之深以前。SCP-1921-J的影响迫使初级研究员Riemann不得不多次到外面去，而现在外面热的要命。\n\n在Site-17 VPN反复断链（尽管所有指示灯依然亮着）后，它的异常性质得以被发现。初级研究员Riemann报告称其他各方面运作良好，就是好像时不时就会断开一\n\n\n[[html]]\n<head>\n\n<style>\n@import url(http://d3g0gp89917ko0.cloudfront.net/v--edac79f846ba/common--theme/base/css/style.css);\n@import url(http://www.scp-wiki.net/component:theme/code/1);\n\n.box {\n  background: white; border: 2px solid #bbb; width: 200px; min-width: 50vw; display: inline-block; position: relative; top: 50%; left: 50%; transform: translate(-50%,-50%);\n}\n\n.box-interior {\n  margin: 10px; padding: 0 50px; background-position: bottom center; background-repeat: no-repeat;\n}\n</style>\n\n<script src=\"https://code.jquery.com/jquery-3.3.1.min.js\"></script>\n<script>\n$(document).ready(() => {\n  $('#buttons').show()\n  $('#saving').hide()\n  $('#fuck').hide()\n\n  $('#cancel').on('click', () => {\n    $('#buttons').hide()\n    $('#saving').hide()\n    $('#fuck').show()\n  })\n\n  $('#retry').on('click', () => {\n    $('#buttons').hide()\n    $('#saving').show()\n    $('#fuck').hide()\n    setTimeout(() => {\n      $('#buttons').show()\n      $('#saving').hide()\n      $('#fuck').hide()\n    }, 3000)\n  })\n})\n</script>\n\n</head>\n<body>\n\n<div style=\"background: #222b; height: 300px; position: relative;\">\n  <div class=\"box\">\n    <div class=\"box-interior\" id=\"buttons\">\n      <p style=\"text-align: center\">连接中断。</p>\n      <p style=\"text-align: center\"> <button id=\"cancel\">取消</button>\n      <button id=\"retry\">重试</button></p>\n    </div>\n    <div class=\"box-interior\" id=\"saving\" style=\"background-image: url(https://d3g0gp89917ko0.cloudfront.net/v--3e3a6f7dbcc9/common--theme/base/images/progress/progressbar.gif); padding-bottom: 10px;\">\n      <p style=\"text-align: center\">重新连接中...</p>\n    </div>\n    <div class=\"box-interior\" id=\"fuck\">\n      <p style=\"font-size: 2em; text-align: center\">操</p>\n    </div>\n  </div>\n</div>\n\n\n</body>\n[[/html]]",
+  "tags": [
+    "meta",
+    "scp",
+    "搞笑",
+    "机密分级",
+    "电脑"
+  ],
+  "author": "ashausesall",
+  "created_at": "2020-08-11T01:59:43+00:00",
+  "updated_at": "2020-08-11T02:02:53+00:00",
+  "rating": 7,
+  "_site": "scp-wiki-cn",
+  "_fullname": "scp-1921-j"
+}

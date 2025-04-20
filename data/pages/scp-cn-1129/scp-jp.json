@@ -1,0 +1,18 @@
+{
+  "title": "SCP-CN-1129",
+  "content": "[[include :scp-jp:credit:start]]\n\n**タイトル:** SCP-CN-1129 - 膨化\n**翻訳責任者:** [[*user walksoldi]]\n**翻訳年:** 2024\n**原題:** SCP-CN-1129 - 膨化\n**著作権者:** [[*user DouglasLiu]]\n**作成年:** 2020\n**初訳時参照リビジョン:** 5\n**元記事リンク:** [*https://scp-wiki-cn.wikidot.com/scp-cn-1129 SCP-CN-1129]\n\n[[include :scp-jp:credit:end]]\n\n[[include component:image-block name=http://scp-jp-storage.wikidot.com/local--files/file:3324351-187-i1hd/scp-cn-1129.jpg |caption=SCP-CN-1129]]\n\n**アイテム番号:** SCP-CN-1129\n\n**オブジェクトクラス:** Safe\n\n**特別収容プロトコル:** SCP-CN-1129およびその所在施設は放棄・閉鎖されており、責任者の許可を得ずに利用することは禁止されています。中国支部の施設は1986年に改築が完了しています。\n\n**説明:** SCP-CN-1129はサイト-CN-01に当初から附属していた設備である死体焼却炉です。SCP-CN-1129にヒトの死体を入れて10分以上焼却させると、内部の死体は体積が元の約1.5倍にまで膨張し、かすかにカラメル色がかった薄い外殻で覆われます。外殻は上向きの部位ほど色濃く、縦方向に縞模様の割れ目を生じさせます。焼却後の死体は柔らかく、容易に切断が可能であり、その内部は灰白色をした粗い多孔質のスポンジ状構造に完全に変化しています。分析の結果、外殻の主成分はデンプンであり、内部はタンパク質と各種脂質で構成されていることが示されています。焼却した死体は食用に適しているものの、摂食者によると、通常の食パンよりも乾燥していて薄味であるとのことです。\n\n同型の他の死体焼却炉では同様の異常現象は生じていません。\n\n**更新:** 詳細な検査の結果、SCP-CN-1129の深部に、上下が反転した直径約1 cmの黄色いスマイリーフェイスの円形シールが貼付されていたことが判明しました。シールを剥離もしくは破壊する試みは失敗しています。またサイト記録に基づくと、SCP-CN-1129の異常効果が初めて現れたのは、777体目の死体を焼却している最中であったと判明しています。\n\n@@@@\n@@@@\n@@@@\n\n[[footnoteblock]]\n\n[[include :scp-jp:component:license-box\n|author=DouglasLiu、walksoldi]]\n=====\n[[div class=\"blockquote\"]]\n\n**ファイルページ:** [*http://scp-jp-storage.wikidot.com/file:3324351-187-i1hd SCP-CN-1129]\n\n**ソース:** https://www.flickr.com/photos/jenniferboyer/6621888535\n**ライセンス:** CC BY 2.0\n\n**タイトル:** the crematorium furnaces in the building containing the first gas chamber and crematorium\n**著作権者:** Jennifer Boyer\n**公開年:** 2012年\n**補足:**\n\n[[/div]]\n=====\n[[include :scp-jp:component:license-box-end]]",
+  "tags": [
+    "cn",
+    "safe",
+    "scp",
+    "人工",
+    "外部エントロピー",
+    "死体"
+  ],
+  "author": "walksoldi",
+  "created_at": "2024-09-01T12:56:55+00:00",
+  "updated_at": "2024-09-28T07:56:17+00:00",
+  "rating": 6,
+  "_site": "scp-jp",
+  "_fullname": "scp-cn-1129"
+}

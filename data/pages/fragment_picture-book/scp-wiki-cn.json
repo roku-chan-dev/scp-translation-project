@@ -1,0 +1,14 @@
+{
+  "title": "分页图画书 组件",
+  "content": "[[module css]]\n.bookpage-2 {display: none;}\n@media only screen and (max-width: 1020px) {\n    .bookpage-1 {display: none;}\n    .bookpage-2 {display: block;}\n}\n.cent {text-align: center;}\n.cent td {text-align: center;}\n[[/module]]\n\n[[div class=\"bookpage-1 {$style}\"]]\n[[table style=\"width: 100%; border: none; background-color: #e4dcd1;\"]]\n[[row]]\n[[cell style=\"border: none; width: 50%;\"]]\n{$content}\n[[/cell]]\n[[cell style=\"border: none; text-align: center; width: 50%; border-left: 1px solid black;\"]]\n[[image {$link}]]\n[[/cell]]\n[[/row]]\n[[/table]]\n[[/div]]\n[[div class=\"blockquote bookpage-2 {$style}\" style=\"background-color: #e4dcd1;\"]]\n[[image {$link}]]\n{$content}\n[[/div]]",
+  "tags": [
+    "段落",
+    "组件"
+  ],
+  "author": "Sharia Vanilla",
+  "created_at": "2024-04-20T01:47:44+00:00",
+  "updated_at": "2024-04-20T11:59:57+00:00",
+  "rating": 0,
+  "_site": "scp-wiki-cn",
+  "_fullname": "fragment:picture-book"
+}

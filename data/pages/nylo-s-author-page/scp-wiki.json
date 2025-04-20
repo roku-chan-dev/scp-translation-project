@@ -1,0 +1,14 @@
+{
+  "title": "Nylo's author page",
+  "content": "[[include :scp-wiki:theme:penumbra]]\n\n[[>]]\n[[module Rate]]\n[[/>]]\n\n[[=]]\n+ -The House-Wolf's House-\n[[/=]]\n\n[[module CSS]]\n#content-wrap {\n  background-image: url(\"https://scp-wiki.wdfiles.com/local--files/nylo-s-author-page/DoA_Logo_Nylo_V3\");\nbackground-size: contain;\nbackground-repeat: no-repeat;\n}\n[[/module]]\n\n[[include component:image-block name= https://scp-wiki.wdfiles.com/local--files/nylo-s-author-page/Ref|caption=Researcher Nylo|width=200px]]\n\n**Researcher Nylo** is a European anthro wolf with gray-white fur and orange-black markings. He has been working as an author for the Foundation since mid-2024, specializing in sociological, surrealistic, and pathaphysical SCPs. Anthropomorphism and content pertaining to the Department of Abnormalities follow closely behind. In addition, he paints both traditionally and digitally, as well as on commission for friends as independently. If whatever higher powers shall be in his favor, Nylo will also produce cinematic SCP-film-projects at some point.\n\n**Favourite Quotes:**\n\n* \"Something about Europa\"\n* \"Hömma\"\n* \"There is a small line between genius and insanity. I may or may not have snorted that line.\"\n\n@@ @@\n----\n@@ @@\n\n[[=]]\n+ —SCPs—\n\n> +++ [https://scp-wiki.wikidot.com/scp-6518 SCP-6518 - \"Hell is other People\"]\n> //DoA meets Pathapysics//\n> +++ [https://scp-wiki.wikidot.com/scp-7181 SCP-7181 - \"In Absentia Ego\"]\n> //Cosmic Horror//\n> +++ [https://scp-wiki.wikidot.com/scp-7383 SCP-7383 - \"You May Eat This Document\"]\n> //Surrealism//\n\n@@ @@\n----\n@@ @@\n\n+ —Hub Contributions—\n\n@@ @@\n\n++ __Lampeter Hub__\n\n> +++ [https://scp-wiki.wikidot.com/in-limbo In Limbo]\n> \n> //Voids, Anthros, Flickers//\n>\n> +++ [https://scp-wiki.wikidot.com/lampeter-sociology Lampeter Socyology]\n>\n> //Unorthodox Test//\n\n@@ @@\n----\n@@ @@\n\n+ —Artworks—\n\n[[image https://scp-wiki.wdfiles.com/local--files/nylo-s-author-page/The_Observer]]\n\nThe Observer\n\n@@ @@\n\n[[image https://scp-wiki.wdfiles.com/local--files/nylo-s-author-page/Milren%27s]]\n\nMilren's (Logo designed by Avenlee)\n\n@@ @@\n\n[[image https://scp-wiki.wdfiles.com/local--files/nylo-s-author-page/PP]]\n\nPhilip's Plain\n\n[[/=]]",
+  "tags": [
+    "_cc",
+    "author"
+  ],
+  "author": "Nylo",
+  "created_at": "2024-10-16T20:49:55+00:00",
+  "updated_at": "2025-02-16T16:26:00+00:00",
+  "rating": 12,
+  "_site": "scp-wiki",
+  "_fullname": "nylo-s-author-page"
+}

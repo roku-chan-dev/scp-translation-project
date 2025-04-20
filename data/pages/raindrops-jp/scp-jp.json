@@ -1,0 +1,14 @@
+{
+  "title": "傘をたたく雨粒",
+  "content": "//[[span class=\"ruby\"]]傘[[span class=\"rt\"]]けんばん[[/span]][[/span]]をたたく[[span class=\"ruby\"]]雨粒[[span class=\"rt\"]]しょうじょ[[/span]][[/span]]//\n\n[[>]]\n[[module Rate]]\n[[/>]]\n\n[[module css]]\n.utaama {\n    width: 30%;\n}\n\n.utaama:hover{\n    width: 100%;\n}\n[[/module]]\n\n[[div class=\"utaama\"]]\n[[image http://ja.scp-wiki.net/local--files/raindrops-jp/548jp.png]]\n[[/div]]\n[[*user Eqlipse]]\n\n[[*user 29mo]] : [http://ja.scp-wiki.net/scp-548-jp SCP-548-JP]と、それをイメージした自著のTale、[http://ja.scp-wiki.net/moonfoxdr548jp 『私があまつぶになった日のこと』]の挿絵を意識して描きました。\n\nオンマウスで拡大します。(携帯の方はタップで拡大します。)",
+  "tags": [
+    "jp",
+    "アートワーク"
+  ],
+  "author": "Eqlipse",
+  "created_at": "2018-08-03T10:49:24+00:00",
+  "updated_at": "2024-09-26T02:23:42+00:00",
+  "rating": 70,
+  "_site": "scp-jp",
+  "_fullname": "raindrops-jp"
+}

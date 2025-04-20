@@ -1,0 +1,15 @@
+{
+  "title": "罗曼语族竞赛",
+  "content": "[[module CSS]]\n/*\n    Powered on 2023/05/15 22:34:44\n    [2023 Wikidot Theme]\n    Created by Doctor Jiqian\n    CC BY-SA 3.0\n*/\n\n\n\ndiv#header h1 a span {\n    font-size: 0px;\n}\ndiv#header h1 a:before {\n    content: \"罗曼基金会\";\n    color: #eee;\n    \n}\ndiv#header h2 span {\n    font-size:0px;\n    padding: 4px;\n}\ndiv#header h2:after {\n    content: \"Semper Ubi Sub Ubi\";\n    font-weight: bold;\n    color: #f0f0c0;\n    padding: 19px 0;\n    text-shadow: 1px 1px 1px rgba(0, 0, 0, .8);\n    white-space: pre;\n}\n\n[[/module]]\n\n[[=image http://scpsandboxcn.wikidot.com/local--files/dosieroj-de-la-kanro/Romance_languages.png]]\n\n+ 免责声明：本文并非[[span class=\"ruby\"]]真正的竞赛[[span class=\"rt\"]]real contest[[/span]][[/span]]，但可能是[[span class=\"ruby\"]]皇家马德里[[span class=\"rt\"]]Real Madrid[[/span]][[/span]]。\n\n自拉丁语衰落以来，其衍生语言变得愈加不同。从意大利人到罗马尼亚人，许多民族都以该语言作为基础来演绎自己的文化。现在，你也可以。只需500个单词，你就可以创造出全新的语言，之后再也不用它来写任何东西！毕竟，没有人办竞赛就没有人造语言！\n\n++ 规则：\n# 参赛语言必须属于罗曼语族：\n # 你的语言不能有拉丁语之外的起源\n # 你的语言不能过于[[footnote]]大于17.89%[[/footnote]]借鉴法语。\n # 你的语言与另一门语言只能共享20%的单词。\n# 你必须创造至少**500**个单词，并为你的语言提供至少250词的例文。\n# 你必须将至少一篇SCP维基作品翻译成你的人造语言。\n * __允许方言__，只要它们尊重--教皇--基本的语言学原理。\n * __主办方保留以任何理由禁止某些语言的权利。__你会及时受到通知，并被允许选择另一门语言。\n# 禁止抄袭/已有的语言。\n * 是的，也就是说任何其他类型的语言都是可以的。是的，你可以造一门每句开头都要吟唱“nombre blanco”的语言。你甚至可以造一门只在港口使用的葡萄牙语方言。\n * 允许罗马尼亚语从其他语言“借词”。\n# **禁止恶意行为。**\n * “恶意行为”包括，但不限于：\n  * 用你的语言向除该语言使用者以外的人发私信。\n  * 认为一国的所有村庄都有相同的名字。\n  * 给可疑的瑞典卧底投好评。\n   * 这包括因为感觉哪门语言太“美国”而给它投差评。\n  * 鼓励使用任何种类的西里尔字母。\n# **若参赛者在未通知主办方的情况下退出比赛，其将获得“巴黎40年班”奖。**\n\n**投稿开始时间：**当Doctor Jiqian给整个网站的成员发私信的时候。\n\n**投稿结束时间：**90分钟后，或者加赛。",
+  "tags": [
+    "搞笑",
+    "故事",
+    "旧页面"
+  ],
+  "author": "la kanro",
+  "created_at": "2023-05-16T09:29:30+00:00",
+  "updated_at": "2023-05-31T23:37:06+00:00",
+  "rating": 9,
+  "_site": "scp-wiki-cn",
+  "_fullname": "old:romance-languages-con"
+}

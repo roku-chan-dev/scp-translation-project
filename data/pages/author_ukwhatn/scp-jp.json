@@ -1,0 +1,14 @@
+{
+  "title": "ukwhatnの著者ページ",
+  "content": "[[include :scp-jp:user-component:ta-badge\n|badge-top=administrator\n|badge-right=level5\n|badge-left=guider\n|frame=default\n|bg=default\n|plate=default\n|user-icon=https://www.wikidot.com/avatar.php?userid=3396310\n]]\n\n[[module listpages category=\"-deleted -poll -fragment\" tags=\"-剪定対象-子 -投票\" created_by=\"=\" perPage=\"250\" separate=\"no\"]]\n* {{[%%category%%]}} %%title_linked%%\n * rating: %%rating%%\n * created_at: %%created_at%%\n[[/module]]",
+  "tags": [
+    "jp",
+    "著者ページ"
+  ],
+  "author": "ukwhatn",
+  "created_at": "2020-04-28T12:08:24+00:00",
+  "updated_at": "2024-06-30T03:53:04+00:00",
+  "rating": 0,
+  "_site": "scp-jp",
+  "_fullname": "author:ukwhatn"
+}

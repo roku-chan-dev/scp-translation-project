@@ -1,0 +1,19 @@
+{
+  "title": "SCP-CN-730",
+  "content": "[[>]]\n[[module rate]]\n[[/>]]\n[[module ListPages category=\"fragment\" parent=\".\" limit=\"1\" order=\"name\" offset=\"@URL|0\"]]\n\n%%content%%\n[[/module]]\n\n[[footnoteblock]]\n@@@@\n[[div class=\"footer-wikiwalk-nav\"]]\n[[=]]\n<< [[[SCP-CN-729]]] | SCP-CN-730 | [[[SCP-CN-731]]] >>\n[[/=]]\n[[/div]]",
+  "tags": [
+    "euclid",
+    "scp",
+    "原创",
+    "智能",
+    "未收容",
+    "视觉性",
+    "认知危害"
+  ],
+  "author": "DF-thirteen",
+  "created_at": "2018-06-15T00:51:39+00:00",
+  "updated_at": "2018-09-30T05:46:16+00:00",
+  "rating": 38,
+  "_site": "scp-wiki-cn",
+  "_fullname": "scp-cn-730"
+}

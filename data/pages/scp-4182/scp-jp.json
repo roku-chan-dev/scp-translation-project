@@ -1,0 +1,24 @@
+{
+  "title": "SCP-4182",
+  "content": "[[include credit:start]]\n**タイトル:** SCP-4182 - サイト-5は実在しない\n**著者:** ©︎[[*user The Great Hippo]]\n**原題:** SCP-4182 - There is no Site-5\n**作成年:** 2019\n**楽曲:** [https://youtu.be/5XZ_5B5mJS0 Milgram's 37] (ピーター・ガブリエル)\n[[include credit:end]]\n\n[[module css]]\nsup { \nvertical-align: top; position: relative; top: -0.5em; \n}\n[[/module]]\n\n[[module ListPages category=\"fragment\" parent=\".\" limit=\"1\" order=\"created_at\" offset=\"@URL|0\"]]\n%%content%%\n[[/module]]",
+  "tags": [
+    "en",
+    "keter",
+    "scp",
+    "地下",
+    "場所",
+    "変容",
+    "島嶼",
+    "映像添付",
+    "死体",
+    "精神影響",
+    "視覚",
+    "認識災害"
+  ],
+  "author": "Fennecist",
+  "created_at": "2019-06-12T14:51:01+00:00",
+  "updated_at": "2024-02-21T12:22:02+00:00",
+  "rating": 190,
+  "_site": "scp-jp",
+  "_fullname": "scp-4182"
+}

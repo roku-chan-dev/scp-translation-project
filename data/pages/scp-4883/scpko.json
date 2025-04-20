@@ -1,0 +1,19 @@
+{
+  "title": "SCP-4883",
+  "content": "[[include theme:classic]]\n[[include info:start]]\n[[=]]\n[[size 120%]]**SCP-4883**[[/size]]\n내 몸의 회고록\n[[size 80%]]Memoirs of the Same Body[[/size]]\n[[/=]]\n\n**저자:** [[*user Weryllium]]\n**역자:** [[*user LR0725]]\n**원작:** https://scp-wiki.wikidot.com/scp-4883\n\n----\n**이미지 정보**\n> **이름:** bookoflife.jpg\n> **원본:** 작가가 직접 촬영\n> **원 저작권자:** [[*user Weryllium]]\n> **라이선스:** CC BY-SA 3.0\n[[include info:end]]\n[[include component:image-block\n    name=bookoflife.jpg|\n    caption=SCP-4883의 간에서 수술로 제거한 책.]]\n**일련번호:** SCP-4883\n\n**등급:** 유클리드\n\n**특수 격리 절차:** SCP-4883은 표준 인간형 격리실에 격리한다. 또한 기계환기, 영양관 삽입, 주기적인 체위 변경 등 혼수 상태 시의 일반적인 치료를 실시한다. 담당 인원은 새로운 종양이 있는지 정기적으로 모니터링해야 한다.\n\nSCP-4883에서 만들어진 책들은 완전 소독 처리 후 표준 금고에 보관한다.\n\n**설명:** SCP-4883은 마누엘 할리스코 바레라,,Manuel Jalisco Barrera,,라는 이름의 인간 남성이다.\n\n발견된 이래로 SCP-4883은 계속 혼수 상태에 빠져 있다. 모든 장기는 정상 수치 내에서 기능하고 있으며, 이 기간 동안 신체의 어느 부위도 위축되지 않았다. 뇌 스캔 결과에서는 대뇌피질에서 아주 낮은 수준의 활성이 나타난다.\n\n2~3주마다 커다란 종양이 SCP-4883의 신체 표면이나 내부에서 발생한다. 성장한 종양이 터지거나 수술로 절제되었을 때, 종양의 안에서는 고름, 염분이 포함된 액체, 그리고 비닐 소재의 지퍼백에 들어 있는 작은 책이 나온다. 각 책의 저자는 SCP-4883 안의 장기나 해부학적 구조로 쓰여 있다. \n\n||~ #||~ 장기 ||~ 분량 ||~ 발췌 ||\n||1||오른쪽 중지||252쪽.||//딱딱한 막대기가 나를 누르고, 나는 그걸 도로 밀어내. 나는 나를 계속 거슬리게 만드는, 이 거칠거리는 걸 거의 감출 생각도 없는 뭔가를 밀어내려고 움직이고, 움직이고, 또 움직여. 내 겉부분이 반응하고, 그게 점점 심해지는 것이 지쳐버린 나와 내 옆의 친구들을 떠날 때까지 느껴져.// ||\n||3||대장 ||459쪽.||//단 한 번 느껴봤어. 내가 알고 있었던 따뜻하고, 부드럽고, 축축한 존재에 한 번, 딱 한 번 통증이 밀려왔어. 타는 듯하면서도 메마른 침입자가 내 세계의 색을 산산이 부수어 버렸지. 내 것이 아닌 색이 틈을 뚫고 들어와서, 바람이 몰려들어 왔어. 많은 시간이 지나기까지 나는 감각할 수도, 느낄 수도 없었어. 그리고 나의 동반자는 나를 떠나 버렸지.// ||\n||9||횡격막||232쪽.||//나는 구부러지면서, 내 위에서 영원히 반복되는 리듬을 느껴. 나는 절대 쉬지 않아. 위. 아래. 위. 아래. 시간을 지키는 데에 만족하고 있어.// ||\n||19||뇌||5,119쪽.||//내보내줘// (책 전체에 걸쳐 반복된다.) ||\n\n[[footnoteblock]]\n\n[[div class=\"authors\"]]\n[[include :scp-wiki:component:license-box\n|author=Weryllium]]\n=====\n> **Filename:** bookoflife.jpg\n> **Author:** [[*user Weryllium]]\n> **License:** CC BY-SA 3.0\n> **Source Link:** [https://scp-wiki.wikidot.com/scp-4883 SCP Foundation Wiki]\n=====\n[[include :scp-wiki:component:license-box-end]]\n[[/div]]",
+  "tags": [
+    "en",
+    "scp",
+    "문서",
+    "생물",
+    "외부엔트로피",
+    "유클리드",
+    "인간형"
+  ],
+  "author": "LR0725",
+  "created_at": "2023-07-24T12:43:06+00:00",
+  "updated_at": "2025-01-10T20:00:07+00:00",
+  "rating": 12,
+  "_site": "scpko",
+  "_fullname": "scp-4883"
+}

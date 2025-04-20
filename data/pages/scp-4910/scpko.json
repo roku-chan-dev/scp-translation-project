@@ -1,0 +1,29 @@
+{
+  "title": "SCP-4910",
+  "content": "[[include info:start]]\n**SCP-4910:** \"씩 웃는 자\"\n**저자:** [[*user S D Locke]], [[*user Flumswack]]가 쓴 초안을 재작성\n**원작:** http://www.scp-wiki.net/scp-4910 \n**역자:** MysteryInc\n[[include :sandbox.scp-wiki.kr:shaggydredlocks]]\n++++ 다음 것들도 마음에 드실 겁니다:\n\n[[[SCP-478]]] - Tooth Fairies by [[*user Dexanote]]\n\n> This growth process will begin at a rate several times faster than normal tooth growth, and quickly increases in speed and severity.\n\n[[[SCP-1994]]] - Rot by [[*user djkaktus]]\n\n> SCP-1994 is the general designation for a set of phenomena discovered in the dental laboratory of Dr. Rasmin Yelkov.\n\n[[[SCP-611]]] - Parasitic Toothpick by TroyL\n\n> SCP-611 is a previously undiscovered subspecies of Dermatobia hominis, the human botfly. It camouflages itself, appearing as a common toothpick, and will attempt to land near or actually in a supply of the objects, at which point it will shed its wings and enter a passive state.\n\n----\n\n> **파일명:** smile.png\n> **명칭:** Periodontitis Crónica Severa\n> **저자:** AGUSTIN ZERON\n> **라이선스:** Public Domain\n> **출처:** [https://commons.wikimedia.org/wiki/File:Periodontitis_Cr%C3%B3nica_Severa.JPG Wikimedia Commons]\n\n[[include info:end]]\n\n[[include component:image-block name=http://scp-wiki.wdfiles.com/local--files/scp-4910/smile.png|caption=SCP-4910의 모습이 담긴 유일한 파일 - 영상 손상 직전에 포착함.|width=300px]]\n\n**일련번호:** SCP-4910\n\n**등급:** 케테르\n\n**특수 격리 절차:** 해당 변칙성은 현재 널리 퍼져있다. MTF-ε는 목격에 대응하기 위해 있다. 해당 독립체에 대한 치명적 무력행사는 대상의 전염성과 낮은 연구 잠재력 때문에 승인되었다. 피해자들에 대해서도 마찬가지로 무차별 제거가 필요하다.\n\n지나치게 씩 웃거나 여러 번 웃는 모습을 보인 공작원은 배치에서 복귀시키며, 화기를 사용해 움직이지 못하게 만들고 특수 염화수소 화학 화합물(HF/PURE)을 부어야 한다. 남아있는 걸쭉한 물질이 움직임을 중단하면, 대상을 소각장 외부로 이송할 수 있다.\n\n영향 받은 공작원과 접촉한 뒤 이상을 보이는 인원들은 치료를 받을 것이 권고된다. 외과 수술은 초기 단계(1-2시간)에서만 유효하다. 하반신에 공동이 생기면(3-4시간) 통증 관리가 불가능해진다.\n\n**설명:** 포식성 치아형 네발짐승으로, 1886년 이후 여러 대륙에서 100번의 목격이 있었다. 자세한 세부사항 불명으로 목격자들은 언제나 대상의 효과에 굴복한다. 그 효과는 주로, 치아의 급속한 과잉생성, 명료한 말하기 능력의 억제다. 기록 장치들은 주요 부품들에 상아질이 나타나 즉시 손상된다.\n\nSCP-4910은 일반적으로는 민간인들인 대상의 성질을 알지 못하는, 생명 유지에 이용하는 사람들과 세속 및 오컬트 조직의 인원과 같이 포획이나 해를 끼치기 위해 구체적으로 대상을 찾는, 유성 생식의 목적으로 목표로 삼는 사람들을 구별할 수 있는 것으로 보인다.\n\n여러 측면에서 일반적인 피해자들과 유사하나, 생식을 위해 목표로 삼은 피해자들은 SCP-4910의 변칙적 성질을 위한 매개체 역할을 한다.\n\n이전에 있던 58번의 포획 시도는 성공하지 못했고, 심각한 치아 파열, 내출혈, 사망을 불러왔다. 13명의 MTF-ε 요원들이 전투 중 실종되었다. 7명은 안락사 이후 [데이터 말소] 치태를 가지고 있었다. 변형 자가 섭취가 5차례 주장되었다.",
+  "tags": [
+    "en",
+    "scp",
+    "관찰",
+    "동물",
+    "변형",
+    "비격리",
+    "생물",
+    "생물학",
+    "생식",
+    "시각",
+    "외부엔트로피",
+    "인식재해",
+    "적대적",
+    "전염성",
+    "치의학",
+    "케테르",
+    "포식성"
+  ],
+  "author": null,
+  "created_at": "2018-12-01T14:33:23+00:00",
+  "updated_at": "2024-11-21T12:59:04+00:00",
+  "rating": 3,
+  "_site": "scpko",
+  "_fullname": "scp-4910"
+}

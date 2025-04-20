@@ -1,0 +1,14 @@
+{
+  "title": "SCP-6664 1",
+  "content": "[[include :scp-jp:theme:black-highlighter-theme]]\n\n[[include :scp-jp:component:bhl-dark-sidebar]]\n\n[[include :scp-jp:component:toggle-sidebar-bhl]]\n\n[[include :scp-jp:component:acs-animation]]\n\n[[div class=\"blockquote\"]]\n//最初の文書からの変更点は##blue|青字##で強調表示されています。//\n\n[[/div]]\n\n[[include :scp-jp:component:anomaly-class-bar-source\n\n    |item-number= 6664\n\n    |clearance= 1\n\n    |container-class= safe\n\n    |secondary-class= none\n\n    |disruption-class= dark\n\n    |risk-class= caution\n\n    ]]\n\n-----\n\n[[include component:image-block name=http://scp-jp-storage.wikidot.com/local--files/file:2375337-1201-bbw9/treeII.jpg|align=center|width=100%|caption=収容以前のSCP-6664。]]\n\n-----\n\n**特別収容プロトコル:** SCP-6664は[[[scp-6749|サイト-86]]]の温室に収容されます。枝を傷付ける恐れがあるため、SCP-6664に登ることは許可されません。\n\n**説明:** SCP-6664は //##blue|Calocedrus decurrens##// 、より一般的には##blue|オニヒバ##と呼ばれる植物種の樹木であり、現在は##blue|サイト-86##に位置しています。その異常性を除いて、SCP-6664は同種の樹木と同一です。\n\nSCP-6664の異常性は、##blue|人間が危害を加える##時に活性化します。##blue|人間がSCP-6664に危害を加えると##、通常予想されるように##blue|攻撃の影響を受ける##代わりに、##blue|SCP-6664は損傷を全く負いません。その一方で、攻撃者は自らが加えた被害をある程度弱められた形で経験し、かつ身の回りのどこかに手書きのメモが出現します。##この##blue|メモ##はSCP-6664-1と指定されています。\n\n\nSCP-6664-1は##blue|SCP-6664に危害を加えた人物が受け取る手書きのメモ##です。SCP-6664-1には##blue|鉛筆書きで“それで、どう感じたかな？ 木々を傷付けないでおくれよ”という文章が記され、雑なスマイリーフェイスの絵が添えられています。SCP-6664-1の筆者の身元は、仮に存在するとしても不明です。##\n\n-----\n\n[[=]]\n+ **補遺6664.01: 発見**\n[[/=]]\n\nSCP-6664は2014年1月28日、##blue|財団の次席研究員##である##blue|ステファニー・マルベリー##が、##blue|散歩中にSCP-6664を蹴り、その直後に脇腹に痛みを感じたと##報告した後に発見されました。##blue|SCP-6664を更に数回蹴った後、彼女は##SCP-6664-1##blue|を発見し##、潜在的アノマリーとして報告しました。SCP-6664はその後、##blue|サイト-86##に植え替えられました。\n\n[[div class=\"blockquote\"]]\n//たった今この資料を読んだが、多数のエラーが見受けられる。より正確な内容に更新した。//\n\n//- キング博士//\n\n**添付ファイル:** [[[http://scp-jp.wikidot.com/scp-6664/offset/2| SCP-6664-revised-documentation.pdf]]]\n\n[[/div]]",
+  "tags": [
+    "en",
+    "フラグメント"
+  ],
+  "author": "C-Dives",
+  "created_at": "2025-01-16T16:34:14+00:00",
+  "updated_at": "2025-01-16T16:34:33+00:00",
+  "rating": 0,
+  "_site": "scp-jp",
+  "_fullname": "fragment:scp-6664-1"
+}

@@ -1,0 +1,20 @@
+{
+  "title": "SCP-7096",
+  "content": "[[module CSS]]\n.email-example .collapsible-block-folded a.collapsible-block-link {\n    animation: blink 0.8s ease-in-out infinite alternate;\n}\n@keyframes blink {\n    0% { color: transparent; }\n    50%, 100% { color: #b01; }\n}\n.email {border: solid 2px #000000; width: 88%; padding: 1px 15px; margin: 10px; box-shadow: 0 1px 3px rgba(0,0,0,.5)}\n.email-example a.collapsible-block-link {font-weight: bold;}\n.tofrom {margin-left: 10px; margin-top: 5px; padding: 1px 15px; border-left: solid 3px maroon}\n[[/module]]\n\n[[include :scp-wiki:theme:black-highlighter-theme]]\n\n[[>]]\n[[module Rate]]\n[[/>]]\n\n[[include :scp-wiki:component:author-label-source start=--\n|name=NeverMeltIce44\n|no-right-margin=*]]\nWritten by [[*user NeverMeltIce44]]\nYou can find more of their work on their  [[[https://scp-wiki.wikidot.com/nevermeltice44-s-humorous-author-page |author page.]]]\n[[include :scp-wiki:component:author-label-source end=--]]\n\n**Item #:** SCP-7096\n\n**Object Class:** Neutralized\n\n**Special Containment Procedures:** All known SCP-7096 instances appear to have self-neutralized. All civilian witnesses of previously active SCP-7096 instances are to be properly amnestisized, and all casualties caused by said instances attributed to IRA-affiliated snipers.\n\n**Description:** SCP-7096 refers to a series of road sign silhouettes capable of autonomous movement, --restricted to the space occupied by the signs they inhabited--, located within several Irish roads from 1990 to 1994. The signs were accompanied by the words \"Sniper at work\". These silhouettes were not capable of speech, and didn't demonstrate signs of sapience or higher intelligence. They appeared to wear paramilitary combatant gear, carrying a rifle, and would become hostile at the sight of people. When a subject got within a close enough range of an SCP-7096 instance, the anomaly would shoot with its rifle, and the bullet would exit the sign, being fully capable of causing damage as any other bullet of its kind. As most SCP-7096 instances were located on rarely used roads, and the entities presented remarkably bad aim, only 3 casualties were caused by SCP-7096.  Outside of this activity, SCP-7096 instances were mostly dormant.\n\n**Addendum:** \nOn the 6th of April 1994, SCP-7096 instances adopted a new position while in their dormant state, where they could be seen holding a cup and sitting in a chair. Additionally, SCP-7096 stopped showing any hostile attitudes toward humans for 2 days.\n\nOn the 31st of August 1994, SCP-7096 instances stopped showing hostile attitudes permanently. Additionally, many of them abandoned their home signs, and could now be seen inside several other dispersed road signs, mainly ones announcing construction works. They seemed to be wearing a tie and holding a paper, and appeared to be establishing a conversation with other road sign figures, who now also demonstrated the capability to move at will. Whether this effect was caused by SCP-7096 interaction, or if it's a phenomenon present in other road signs other than SCP-7096, is currently unknown.\n\n2 months later, all SCP-7096 instances had abandoned their native road signs, leaving them empty. Additionally, it was reported that many construction signs now featured 2 figures. Further research is ongoing.\n[[include :scp-wiki:component:license-box |author=NeverMeltIce44 ]]\n[[include :scp-wiki:component:license-box-end]]",
+  "tags": [
+    "_licensebox",
+    "artifact",
+    "artistic",
+    "autonomous",
+    "humanoid",
+    "neutralized",
+    "scp",
+    "weapon"
+  ],
+  "author": "NeverMeltIce44 ",
+  "created_at": "2022-10-27T15:27:36+00:00",
+  "updated_at": "2024-03-27T19:20:17+00:00",
+  "rating": 39,
+  "_site": "scp-wiki",
+  "_fullname": "scp-7096"
+}

@@ -1,0 +1,24 @@
+{
+  "title": "SCP-5776",
+  "content": "[!--\nFragment list:\nhttp://scp-wiki.wikidot.com/fragment:scp-5776-file-access-granted\nhttp://scp-wiki.wikidot.com/fragment:scp-5776-1\n--]\n\n[[module ListPages category=\"fragment\" parent=\".\" limit=\"1\" order=\"created_at\" offset=\"@URL|0\"]]\n%%content%%\n[[/module]]\n\n[[div class=\"footer-wikiwalk-nav\"]]\n[[=]]\n<< [[[SCP-5775]]] | SCP-5776 | [[[SCP-5777]]] >>\n[[/=]]\n[[/div]]\n\n[[div]]\n[[=]]\n[[include :scp-wiki:component:license-box]]\n=====\n[[<]]\n> **Filename:** Killer Marshmallow.jpg\n\n> **Name:** 1989 Oct-Nov Roll - 35 - Sequoia National Forest - Pine Ridge - Sampson Flat - Vista of San Joaquin Valley air temperature inversion - California \n> **Author:**  niiicedave\n> **License:** CC BY-SA 2.0\n> **Source:** [https://search.creativecommons.org/photos/c9940742-47ac-4ab1-8191-655c3f39de19 flickr]\n\n> **Name:** “I had a dream last night, I was eating a ten pound marshmallow. I woke up this morning and the pillow was gone.” \n> **Author:** katerha\n> **License:** CC BY 2.0\n> **Source:** [https://search.creativecommons.org/photos/32ac5471-944a-4603-bd3b-01573f94c2b7 flickr]\n\n----\n\n> **Filename:** Friendly Marshmallow.jpg\n> **Name:** “I had a dream last night, I was eating a ten pound marshmallow. I woke up this morning and the pillow was gone.” \n> **Author:** katerha\n> **License:** CC BY 2.0\n> **Source:** [https://search.creativecommons.org/photos/32ac5471-944a-4603-bd3b-01573f94c2b7 flickr]\n\n[[/<]]\n=====\n[[include :scp-wiki:component:license-box-end]]\n[[/=]]\n[[/div]]",
+  "tags": [
+    "_cc",
+    "_licensebox",
+    "_listpages",
+    "autonomous",
+    "biological",
+    "food",
+    "infohazard",
+    "meta",
+    "mind-affecting",
+    "mobile",
+    "safe",
+    "scp"
+  ],
+  "author": "OzzyLizard",
+  "created_at": "2021-04-30T14:30:24+00:00",
+  "updated_at": "2022-09-14T20:20:17+00:00",
+  "rating": 311,
+  "_site": "scp-wiki",
+  "_fullname": "scp-5776"
+}

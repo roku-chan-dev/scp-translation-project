@@ -1,0 +1,14 @@
+{
+  "title": "非有の淵を歩く彼女へ（アートワーク）",
+  "content": "[[include :scp-jp:credit:start]]\n**タイトル:** 非有の淵を歩く彼女へ（アートワーク）\n**著者:** [[*user KeiShirosaki]]\n**作成年:** 2024\n[[include :scp-jp:credit:end]]\n\n[[include component:jstyles]]\n\n[[module css]]\n#page-content .image-change-wrapper {\n  position: relative;\n  width: 100%;\n  max-width: 350px;\n  margin: 0 auto;\n  height: 450px;\n}\n\n#page-content .image-change-wrapper .image-base,\n#page-content .image-change-wrapper .image-top {\n  position: absolute;\n  width: 100%;\n  max-width: 350px;\n  top: 0;\n  left: 0;\n  transition: 1s ease-in-out;\n}\n\n#page-content .image-change-wrapper.step-start .image-top {\n  transition: 0.1s step-start;\n}\n\n#page-content .image-change-wrapper .image-top:hover {\n  opacity: 0;\n  transition: 1s ease-in-out;\n}\n[[/module]]\n\n[[=]]\n\n\n@@ @@\n\n[[div class=\"image-change-wrapper\"]]\n[[image http://scp-jp-storage.wikidot.com/local--files/file:6154127-34-szr7/IMG_3445.JPG class=\"image-base\" style=\"width:350px;\" link=\"http://scp-jp.wikidot.com/virtual-white\"]]\n[[image http://scp-jp-storage.wikidot.com/local--files/file:6154127-32-s4a3/not_exist_1.jpeg class=\"image-top\" style=\"width:350px;\"]]\n[[/div]]\n\n@@ @@\n@@ @@\n\n[[div class=\"image-change-wrapper\"]]\n[[image http://scp-jp-storage.wikidot.com/local--files/file:6154127-34-szr7/IMG_3445.JPG class=\"image-base\" style=\"width:350px;\" link=\"http://scp-jp.wikidot.com/virtual-white\"]]\n[[image http://scp-jp-storage.wikidot.com/local--files/file:6154127-33-fh52/not_exist_2.jpeg class=\"image-top\" style=\"width:350px;\" ]]\n[[/div]]\n\n@@ @@\n@@ @@\n[[[virtual-white | 彼女は存在しません。]]]\n@@ @@\n[[/=]]",
+  "tags": [
+    "jp",
+    "アートワーク"
+  ],
+  "author": "KeiShirosaki",
+  "created_at": "2024-08-24T11:21:28+00:00",
+  "updated_at": "2024-08-27T13:33:32+00:00",
+  "rating": 18,
+  "_site": "scp-jp",
+  "_fullname": "the-personnel-who-isnt-there-fa-keishirosaki"
+}

@@ -1,0 +1,17 @@
+{
+  "title": "Bubbly Bobby the ASCII Ducky",
+  "content": "[[include :scp-wiki:theme:black-highlighter-theme]]\n[[include :scp-wiki:theme:isolated-terminal]]\n\n[[div style=\"display: none;\"]]\n[[include component:image-block\nname=bubbly_bobby.png\n|caption=YOU BETTER FIND THIS CROM!!!\n|width=100%\n|align=center]]\n[[/div]]\n\n[[>]]\n[[module rate]]\n[[/>]]\n\n[[include :scp-wiki:component:author-label-source start=--\n|name=Tstaffor\n|no-right-margin=*]]\n= [[[tstaffor-s-author-page|Author Page]]] | [[[the-scip-squad-podcast-hub|Podcast]]] | [[[https://scp-wiki.wikidot.com/random:random-page|Feeling Lucky?]]]\n\n**Tstaffor's Best of:**\n* [[[SCP-6557]]] - Annihilation From a Cross Across Time\n* [[[SCP-5846]]] - The One-Stop Shop\n* [[[SCP-6547]]] - Worlds Within Worlds Within Worlds...\n[[include :scp-wiki:component:author-label-source end=--]]\n\n[[div class=\"expoblock\"]]\n[[=image bubbly_bobby.png width=\"1000px\" ]]\n----\nThis is my [[[SCP-6868]]] \"Fan\" Art. I've been practicing my art quite a bit the past few days, and I'm really proud of how this turned out! I hope to make a lot of higher-quality ASCII art in the future!\n[[/div]]\n----\n[[include :scp-wiki:more-by:tstaffor]]\n----\n[[=]]\n[[include :scp-wiki:component:license-box]]\n====\n[[<]]\n> **Filename:** bubbly_bobby.png\n> **Author:** [[*user Tstaffor]]\n> **License:** CC BY-SA 3.0\n> **Source Link:** This Page\n[[/<]]\n====\n[[include :scp-wiki:component:license-box-end]]\n[[/=]]",
+  "tags": [
+    "_cc",
+    "_licensebox",
+    "artwork",
+    "cel-shaded",
+    "scp-art"
+  ],
+  "author": "Tstaffor",
+  "created_at": "2022-07-04T08:39:11+00:00",
+  "updated_at": "2024-03-28T07:55:36+00:00",
+  "rating": 40,
+  "_site": "scp-wiki",
+  "_fullname": "art:bubbly-bobby-the-ascii-ducky"
+}

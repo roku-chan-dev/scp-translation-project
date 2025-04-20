@@ -1,0 +1,30 @@
+{
+  "title": "SCP-5813",
+  "content": "[[>]]\n[[module Rate]]\n[[/>]]\n[[div style=\"text-align: right; margin-top: -20px;\"]]\n[[size 80%]]##757575|by J Dune##[[/size]]\n[[/div]]\n[[module ListPages category=\"fragment\" parent=\".\" order=\"created_at\" limit=\"1\" offset=\"@URL|0\"]]\n%%content%%\n[[/module]]\n\n[[footnoteblock]]\n\n[[div class=\"footer-wikiwalk-nav\"]]\n[[=]]\n<< [[[SCP-5812]]] | SCP-5813 | [[[SCP-5814]]] >>\n[[/=]]\n[[/div]]\n\n[[include :scp-wiki:component:license-box]]\n=====\n> **Filename:** \n> **Name:** \n> **Author:** \n> **License:** \n> **Source Link:** \n=====\n[[include :scp-wiki:component:license-box-end]]\n\n[!--\nDirect Links to Offsets\nhttps://scp-wiki.wikidot.com/fragment:scp-5813-1\nhttps://scp-wiki.wikidot.com/fragment:scp-5813-2\n--]",
+  "tags": [
+    "_cc",
+    "_licensebox",
+    "_listpages",
+    "alive",
+    "asci",
+    "co-authored",
+    "dr-wondertainment",
+    "historical",
+    "humanoid",
+    "keter",
+    "mister",
+    "narrative",
+    "neutralized",
+    "period-piece",
+    "political",
+    "sapient",
+    "scp",
+    "thilo-zwist"
+  ],
+  "author": "J Dune",
+  "created_at": "2021-03-01T01:31:03+00:00",
+  "updated_at": "2024-10-09T18:19:17+00:00",
+  "rating": 131,
+  "_site": "scp-wiki",
+  "_fullname": "scp-5813"
+}

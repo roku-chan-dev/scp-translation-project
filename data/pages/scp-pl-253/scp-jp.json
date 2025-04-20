@@ -1,0 +1,25 @@
+{
+  "title": "SCP-PL-253",
+  "content": "[[include :scp-jp:theme:blankstyle]]\n[[include :pseudo-scp-jp:blankstyle-jp-deep]]\n[[include :scp-wiki:component:fade-in speed=1]]\n[[module css]]\n:root{\n  --header-title: \"R\\0026 C SITE-120\";\n  --header-subtitle: \"火を以て火と戦う\";\n}\n\ndiv#extra-div-1 {\n    background-image: url(http://scp-jp-storage.wdfiles.com/local--files/file%3A3995762-350-uw9i/120.png);\n    filter: opacity(20%);\n}\n#top-bar .open-menu {\n    display : block !important;\n}\n[[/module]]\n\n[[include :scp-jp:credit:start]]\n**SCP-PL-253:** ##green|**[[span class=\"ruby\"]]ケンタッキーがどうしたって!?[[span class=\"rt\"]]WHAT IN THE KENTUCKY FRIED FUCK[[/span]][[/span]]**##\n**著者:** [[*user BlazingPie]]\n\n[[include :scp-jp:credit:cc4]]\n[[include :scp-jp:credit:end]]\n\n[[module ListPages category=\"fragment\" parent=\".\" limit=\"1\" order=\"created_at\" offset=\"@URL|0\"]]\n%%content%%\n[[/module]]\n\n[!-- http://scp-jp.wikidot.com/fragment:scp-pl-253-1 --]\n[!-- http://scp-jp.wikidot.com/fragment:scp-pl-253-2 --]",
+  "tags": [
+    "120の記録書庫より",
+    "esoteric-class",
+    "k-クラスシナリオ",
+    "pl",
+    "scp",
+    "syl2021",
+    "インターナショナル",
+    "メタ",
+    "名もなきもの",
+    "情報災害",
+    "未収容",
+    "重訳",
+    "食物"
+  ],
+  "author": "Kasugai_Kanagu",
+  "created_at": "2023-05-05T07:57:20+00:00",
+  "updated_at": "2024-11-21T10:30:11+00:00",
+  "rating": 35,
+  "_site": "scp-jp",
+  "_fullname": "scp-pl-253"
+}

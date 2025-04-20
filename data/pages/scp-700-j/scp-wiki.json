@@ -1,0 +1,17 @@
+{
+  "title": "SCP-700-J",
+  "content": "[[>]]\n[[module Rate]]\n[[/>]]\n\n[[include component:image-block\n|name=Negative_fortune_cookie.jpg\n|caption=One of SCP-700-J's predictions.]]\n\n**Item #:** SCP-700-J\n\n**Object Class:** Safe\n\n**Special Containment Procedures:** A sample of SCP-700-J is to be opened daily by a specialized containment squad with extremely high mental fortitude, in the hopes that it will produce any remotely useful information. Staff are advised to not get their hopes up.\n\n**Description:** SCP-700-J is a plastic bag containing a seemingly unending amount of fortune cookies.[[footnote]]No, holding the bag upside down does //not// work.[[/footnote]] These fortune cookies are entirely mundane and are safe for human consumption. SCP-700-J’s primary anomalous properties are within the slips of paper contained within these fortune cookies. The information described on SCP-700-J’s slips of paper provide 100% accurate descriptions of events in the future. Unfortunately, all of this information is utterly useless and serves absolutely no purpose to any breathing human on the planet. Examples of SCP-700-J instances include:\n\n* “You will buy a new pair of pants.”\n* “You will be hungry again in one hour.”\n* “There will be a containment breach at some point.”\n* “Upon the next conjugation of Jupiter and Saturn, John Wilson will have a cold glass of orange juice.”\n* “This fortune cookie will taste about the same as all the other ones.”\n* “There will be light rain in Chicago on 08/07/2325.”[[footnote]]Awaiting confirmation.[[/footnote]]\n \n\nA poll in [REDACTED] confirmed that out of 1,283 staff members surveyed, 98.68% rated the fortune cookies produced by SCP-700-J as “Okay, I guess” or lower. As a result of this and of SCP-700-J’s truly pointless fortunes, using SCP-700-J to cure world hunger has been denied by the O5 Council.\nFurther testing on SCP-700-J is permitted, but is unlikely to lead to anything interesting.\n\n[[footnoteblock]]",
+  "tags": [
+    "food",
+    "joke",
+    "predictive",
+    "safe",
+    "scp"
+  ],
+  "author": "ubergoober",
+  "created_at": "2024-07-24T02:30:08+00:00",
+  "updated_at": "2024-10-16T00:26:55+00:00",
+  "rating": 43,
+  "_site": "scp-wiki",
+  "_fullname": "scp-700-j"
+}

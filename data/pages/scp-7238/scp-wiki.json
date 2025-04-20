@@ -1,0 +1,32 @@
+{
+  "title": "SCP-7238",
+  "content": "=====\n[[include component:preview\ntext=\"our lies convince, but, we have the skill, when we will, to create the truth\"]]\n=====\n\n[[div style=\"display: none;\"]]\n[[=image https://scp-wiki.wdfiles.com/local--files/fragment%3Ascp-7238-1/Convent_above_Zacetecas_La_Bufa_EDIT.jpg]]\n[[/div]]\n\n[[>]]\n[[module Rate]]\n[[/>]]\n\n\n[[module ListPages category=\"fragment\" parent=\".\" order:=\"created_at\" limit=\"1\" offset=\"@URL|1\"]]\n%%content%%\n[[/module]]\n[!--\nListpages:\nhttps://scp-wiki.wikidot.com/fragment:scp-7238-0\nhttps://scp-wiki.wikidot.com/fragment:scp-7238-1\n--]\n\n[[footnoteblock]]\n\n[[=]]\n[[include :scp-wiki:component:license-box]]\n=====\n> **Filename:** 1024px-2016.05.07_Funk_Parade_Washington,_DC_USA_04690_(26615764000).jpg\n> **Author:** Ted Eytan\n> **License:** cc-by-sa 2.0\n> **Source Link:** https://commons.wikimedia.org/wiki/File:2016.05.07_Funk_Parade_Washington,_DC_USA_04690_(26615764000).jpg\n=====\n> **Filename:** Urban_art_festival_afterPARTY_(35458792541).jpg\n> **Author:** Bratislavská župa\n> **License:** cc-by 2.0\n> **Source Link:** https://commons.wikimedia.org/wiki/File:Urban_art_festival_afterPARTY_(35458792541).jpg\n=====\n> **Filename:** 2008_Gretna_Heritage_Festival_Pink_Art_Woman.jpg\n> **Author:** nola.agent\n> **License:** cc-by 2.0\n> **Source Link:** https://commons.wikimedia.org/wiki/File:2008_Gretna_Heritage_Festival_Pink_Art_Woman.jpg\n=====\n> **Filename:** Queen_of_The_Wild_on_her_throne_(8104158776)_Crop.jpg\n> **Author:** Frank Kovalchek\n> **License:** cc-by-deed 2.0\n> **Source Link:** https://commons.wikimedia.org/wiki/File:Queen_of_The_Wild_on_her_throne_(8104158776).jpg\n> **Additional Notes:** Image was cropped by [[*user Queerious]]\n=====\n> **Filename:** Convent_above_Zacetecas_La_Bufa_EDIT.jpg\n> **Author:** Unknown Artist\n> **License:** Public Domain\n> **Source Link:** https://commons.wikimedia.org/wiki/File:Convent_above_Zacetecas_La_Bufa_(215bcefd-c6d9-4322-90a5-688e94752c44).jpg\n> **Additional Notes:** Image was cropped and digitally modified by [[*user Queerious]]\n=====\n[[include :scp-wiki:component:license-box-end]]\n[[/=]]\n\n[[div class=\"footer-wikiwalk-nav\"]]\n[[=]]\n<< [[[SCP-7237]]] | SCP-7238 | [[[SCP-7239]]] >>\n[[/=]]\n[[/div]]",
+  "tags": [
+    "_listpages",
+    "alive",
+    "are-we-cool-yet",
+    "artistic",
+    "bleak",
+    "cognitohazard",
+    "doctor-rights",
+    "eventyr",
+    "horror",
+    "humanoid",
+    "keter",
+    "knowledge",
+    "mythological",
+    "pseudogenesis",
+    "psychological-horror",
+    "reality-bending",
+    "ritual",
+    "scp",
+    "the-critic",
+    "uncontained"
+  ],
+  "author": "Queerious",
+  "created_at": "2024-06-13T21:49:33+00:00",
+  "updated_at": "2025-01-28T17:01:21+00:00",
+  "rating": 46,
+  "_site": "scp-wiki",
+  "_fullname": "scp-7238"
+}

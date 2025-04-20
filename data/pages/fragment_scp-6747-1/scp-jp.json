@@ -1,0 +1,14 @@
+{
+  "title": "SCP-6747 Fragment 1",
+  "content": "[[include :scp-wiki:theme:admo astral=a]]\n\n[[module CSS]]\n\n/* SCP-6747 -  カオス理論 */\n/* アクセシビリティパッチ */\n\n*[style*=\"#22bb44\"] {\n    color: rgb(var(--one-color)) !important;\n}\n\n[[/module]]\n\n[[div class=\"admo-accessibility\"]]\n[[span class=\"cond\"]]>> [/scp-6747 標準モードで閲覧] <<[[/span]]\n[[/div]]",
+  "tags": [
+    "en",
+    "フラグメント"
+  ],
+  "author": "Witherite",
+  "created_at": "2022-05-14T00:51:28+00:00",
+  "updated_at": "2023-01-29T06:59:29+00:00",
+  "rating": 0,
+  "_site": "scp-jp",
+  "_fullname": "fragment:scp-6747-1"
+}

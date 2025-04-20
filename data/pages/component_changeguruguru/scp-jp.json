@@ -1,0 +1,14 @@
+{
+  "title": "Changeguruguru",
+  "content": "[[module css]]\n#header:before{\n    background: url({$IMAGE}) 0px 0px no-repeat;\n    background-size:100% 100%;\n}\n\n[[/module]]",
+  "tags": [
+    "jp",
+    "コンポーネント"
+  ],
+  "author": "R74",
+  "created_at": "2024-07-14T18:12:43+00:00",
+  "updated_at": "2024-07-15T03:57:00+00:00",
+  "rating": 10,
+  "_site": "scp-jp",
+  "_fullname": "component:changeguruguru"
+}

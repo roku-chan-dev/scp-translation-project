@@ -1,0 +1,16 @@
+{
+  "title": "塗り替えられた空 ハブ",
+  "content": "[[module CSS]]\ndiv#container-wrap {\n    background: url(http://scp-wiki.wikidot.com/local--files/theme:skiesmadestrange/body_bg.png) top left repeat-x;\n}\n \n#header h2 span {\n    display: block;\n    margin: 0;\n    padding: 19px 0;\n    line-height: 0px;\n    max-height: 0px;\n    font-weight: bold;\n    color: transparent;\n    text-shadow: none;\n}\n#header h2 span::before {\n    content: '塗り替えられた空';\n    color: #efefef;\n    text-shadow: 1px 1px 1px #000000;\n    text-shadow: 1px 1px 1px rgba(0,0,0,.8);}\n[[/module]]\n[[>]]\n[[module Rate]]\n[[/>]]\n\n[[=image http://scp-jp.wdfiles.com/local--files/skies-made-strange-hub/skies-made-strange_compressed.gif style=\"border: 2px solid grey;\"]]\n[[div style=\"center no-repeat ; float: center; border: solid 2px #000000; padding: 1px 5%; margin: 10px 10% 10px 10%; box-shadow: 0 1px 3px rgba(0,0,0,.2);background-color: #eaeaea;\"]]\n\n{{こちら機動部隊アルファ-2、一方通信により監督司令部へ報告を行う。}}\n\n{{ミーマチックエージェントAMARANTH NIHILは成功裏に拡散された。市民の受容は現時点において概ね肯定的である。副作用は軽微であり、明確な拒絶は稀である。}}\n\n{{予測結果より、エージェントは48時間以内に一般人口の全体に渡って存在を確立すると考えられる。当該予測時間は必要に応じて短縮することが可能である。}}\n\n{{本通信あるいは過去のいずれかの通信が受信された場合、応答を願う。}}\n\n[[/div]]\n@@@@\n[[div style=\"center no-repeat ; float: center; border: solid 2px #000000; padding: 1px 5%; margin: 10px 10% 10px 10%; box-shadow: 0 1px 3px rgba(0,0,0,.2);\"]]\n\n**1. [[[SCP-3475|SCP-3475: 変わりゆく我らの礎]]]** //(by [[user TyGently]])//\n\n**2. [[[A Quiet Night|静かな夜]]]** //(by [[user TyGently]] and [[user Decibelles]])//\n\n**3. [[[Into the Woods|森の中へ]]]** //(by [[user Jekeled]])//\n\n**4. [[[hello-little-girl|御機嫌よう、お嬢さん]]]** //(by [[user minmin]])//\n\n**5. [[[It Takes Two|二人寄れば]]]** //(by [[user Jekeled]])//\n\n**6. [[[Children Will Listen|子供達は声を聴くだろう]]]** //(by [[user Jekeled]])//\n\n**7. [[[birth-of-a-new-day|新しい日の誕生]]]** //(by [[user Decibelles]])//\n[[/div]]\n@@@@\n[[div style=\"center no-repeat ; float: center; border: solid 2px #000000; padding: 1px 5%; margin: 10px 10% 10px 10%; box-shadow: 0 1px 3px rgba(0,0,0,.2);background-color: #eaeaea;\"]]\n++ 関連記事:\n\n* **[[[SCP-2152|SCP-2152: Home™]]]** //(by [[user acc1177]])//\n* **[[[SCP-2747|SCP-2747: 下の如く、上も然り]]]** //(by [[user minmin]])//\n* **[[[What Ever Happened?|一体何が起きたのか？]]]** //(by [[user TyGently]])//\n[[/div]]",
+  "tags": [
+    "doomsday2018",
+    "en",
+    "ハブ",
+    "共著"
+  ],
+  "author": null,
+  "created_at": "2019-04-04T09:48:22+00:00",
+  "updated_at": "2021-01-10T17:32:35+00:00",
+  "rating": 33,
+  "_site": "scp-jp",
+  "_fullname": "skies-made-strange-hub"
+}

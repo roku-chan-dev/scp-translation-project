@@ -1,0 +1,13 @@
+{
+  "title": "1369",
+  "content": "[[module CSS]]\n/*\n    Powered on 2020/09/30 06:14:22\n    [2020 Wikidot Theme]\n    Created by ColoredBucket\n    CC BY-SA 3.0\n*/\n\n\n\ndiv#header {\n    background: url(000) 10px 40px no-repeat;\n}\ndiv#header h1 a span {\n    font-size: 0px;\n}\ndiv#header h1 a:before {\n    content: \"   \";\n    color: #eee;\n    \n}\ndiv#header h2 span {\n    font-size:0px;\n    padding: 4px;\n}\ndiv#header h2:after {\n    content: \"   \";\n    font-weight: bold;\n    color: #f0f0c0;\n    padding: 19px 0;\n    text-shadow: 1px 1px 1px rgba(0, 0, 0, .8);\n    white-space: pre;\n}\n\n[[/module]]\n\n[[include :scp-wiki-cn:component:anomaly-class-bar-source\n|lang= cn\n|item-number= 1369\n|clearance= 4\n|container-class= 等待分级\n|secondary-class= none\n|disruption-class= none\n|risk-class= none\n]]\n**特殊收容措施：**##transparent|SCP-CN##-1369的原文件现已删除。备份目前以纸质照片的形式，被收容在##transparent|Site-CN##-12内。仅允许拥有4级权限及以上的人员查阅##transparent|SCP-CN##-1369的相关信息。\n\n所有有关##transparent|SCP-CN##-1369的记录信息，均应添加“本文件与##transparent|SCP基金会##无关”的概念信息以作文档保护措施，并应在文档每次更新后替换概念信息。\n\n**描述：**##transparent|SCP-CN##-1369为##transparent|基金会##线性进程管理部研制的新型技术工具，可以通过人为定义修改民众对##transparent|基金会##的认知并隔绝不知情人员对##transparent|基金会##相关信息的认知。该项目于今日失控，具体经过可参考[[[http://scp-wiki-cn.wikidot.com/scp-cn-1369/offset/5|事故 1369-A]]]。\n\n该项目造成的影响目前波及到了全体##transparent|基金会##员工及相关设施，具体表现为:\n\n* 受到##transparent|SCP-CN##-1369影响的人员(下称##transparent|SCP-CN##-1369-1)会遗忘##transparent|SCP基金会##的存在，且无法重新获取任何相关信息。该影响可被X级记忆强化药剂抑制。\n* 部分##transparent|SCP-CN##-1369-1会同时遗忘一些其他非##transparent|SCP基金会##相关信息。\n\n> **附录-A：**预计##transparent|SCP-CN##-1369将导致部分异常突破收容与金额为$█████的损失，由Rin主导的无效化##transparent|SCP-CN##-1369工作正在持续进行中。\n\n[[html]]<!DOCTYPE html> \n<html xmlns=\"http://scpsandboxcn.wikidot.com/collab:2516\"> \n  <head> \n    <meta charset=\"2516\" /> \n    <title>html align居中-W3Cschool</title> \n  </head> \n  <body> \n    <div align=\"center\"><BIG><B>此版本的概念信息：守序</B></BIG></div> \n    <table width=\"100%\"> \n      <tr> \n        <td align=\"center\"><progress value=\"25\" max=\"100\"></progress><br>\n</td> \n      </tr> \n    </table> \n  </body> \n</html>[[/html]]\n\n------\n\n[[=]]\n<//检索到文档变更，请刷新//>\n[[/=]]\n\n[[=]]\n[[[http://scp-wiki-cn.wikidot.com/scp-cn-1369/offset/2|刷新]]]\n[[/=]]",
+  "tags": [
+    "段落"
+  ],
+  "author": "ColoredBucket",
+  "created_at": "2020-11-08T07:01:52+00:00",
+  "updated_at": "2022-05-04T06:04:52+00:00",
+  "rating": 0,
+  "_site": "scp-wiki-cn",
+  "_fullname": "fragment:scp-cn-1369-2"
+}

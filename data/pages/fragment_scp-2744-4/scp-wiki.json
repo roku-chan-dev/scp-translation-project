@@ -1,0 +1,13 @@
+{
+  "title": "TATTLETALE FRAGMENT 4",
+  "content": "[[include :scp-wiki:theme:black-highlighter-theme]]\n[[module CSS]]\n#page-title {\n    display: none;\n}\n\ndiv.expoblock {\n    border: 0.5rem solid #1a1a1a;\n    padding: 1rem;\n}\n.expoblock hr {\n    height: 0.6rem;\n    margin: 1.5em 0;\n    background-color: black;\n}\n\n[[/module]]\n[[include :scp-wiki:component:blacklight-box-source |inc-source= --]]]\n[[include :scp-wiki:component:blacklight-box-source |inc-colors= --]\n|color-family=big-yikes\n|bg-color=rgb(252, 252, 252)\n|txt-color=rgb(5, 5, 5)\n|border-color=rgb(5, 5, 5)\n|label-bg-color=rgb(5, 5, 5)\n|label-txt-color=rgb(252, 252, 252)\n]]\n[[module CSS]]\n#page-title {\n    display: none;\n}\n\n.blbf-main > div::before {\n    top: -0.5rem;\n    left: -0.35em;\n}\n\n.blbf-main > div {\n    border: 0.50rem black solid;\n    margin-left: auto;\n}\n\n.blbf-main > div::before {\n    background-color: black;\n}\n\nspan.hilighter {\n    background-color: rgb(var(--black-monochrome));\n    color: white;\n    font-weight: bold;\n    padding: 0.2em;\n    font-size: 108%;\n    line-height: 1.2;\n}\n\na.collapsible-block-link {\n    color: transparent!important;\n    background-color: transparent!important;\n}\n\n[[/module]]\n[[=]]\n+ [https://scp-wiki.wikidot.com/scp-2744 CLICK HERE TO ACCESS IMMERSIVE MODE]\n[[/=]]\n[[div class=\"expoblock\"]]\n[[=]]\n[[span class=\"hilighter\"]]\n+ WELCOME WILLIAM MILLER\n[[/span]]\n\n++ This anomaly currently presents no danger to you. Please ensure the following:\n[[/=]]\n[[/div]]\n@@ @@\n[[div class=\"expoblock\"]]\n++ 1. You have informed all close family and acquaintances of your love for them and have made any or all amends.\n\n++ 2. Representatives from either HR or Legal Departments are in possession of a binding and valid will. The named executor must be a member of Foundation staff.\n\n++ 3. You have accepted that further access to this terminal //will// result in your immediate termination by an unknown and hostile entity.\n\n++ 4. You are aware and accept that your termination will be excruciatingly painful. \n[[/div]]\n[[=]]\n[[div class=\"expoblock\"]]\n++ [[span class=\"hilighter\"]]PLEASE LOGIN AGAIN TO CONFIRM.[[/span]]\n++ [[span class=\"hilighter\"]]**LOGIN:**[[/span]] WMiller119\n++ [[span class=\"hilighter\"]]**PASSWORD:**[[/span]] @<*************>@\n+ [https://scp-wiki.wikidot.com/scp-2744/offset/5 CLICK TO LOGIN]\n[[/=]]\n[[/div]]",
+  "tags": [
+    "fragment"
+  ],
+  "author": "JakdragonX",
+  "created_at": "2021-10-26T17:48:58+00:00",
+  "updated_at": "2022-04-15T11:19:24+00:00",
+  "rating": 0,
+  "_site": "scp-wiki",
+  "_fullname": "fragment:scp-2744-4"
+}

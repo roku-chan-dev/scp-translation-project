@@ -1,0 +1,13 @@
+{
+  "title": "你没有如期归来，而这正是离别的意义",
+  "content": "[[module CSS]]\n.number {\n    display: none;\n}\n\n#prw54355{\ndisplay:none\n}\n[[/module]]\n\n[[>]]\n[[size larger]]——北岛《白日梦》[[/size]]\n[[/>]]\n@@ @@\n@@ @@\n@@ @@\n@@ @@\n# 偶尔评分与评论。\n# 但也少管闲事。尽量。\n# 不要出于好奇去读不值得读的作品。\n# 可能会不定期地洄游，丢下一些闯作。\n\n[[include component:author-page\norder=created_at |\ntranslation=yes |\nbackground=yes |\nimage=yes |\nsortbar=yes |\n]]\n\n+ 【特别说明】\n* 其中cn556为合著，4098、5999为合译。\n* 还有一篇合著的[https://scp-wiki-cn.wikidot.com/ishowspeed 紫衣鬼/拘魂鬼]没有自动抓取到上面列表。\n* 感谢面包菌和欧豆绘制的人设图。",
+  "tags": [
+    "作者"
+  ],
+  "author": "Sharethesilence",
+  "created_at": "2018-11-09T08:19:35+00:00",
+  "updated_at": "2024-06-21T15:21:41+00:00",
+  "rating": 42,
+  "_site": "scp-wiki-cn",
+  "_fullname": "dr-foymug-s-personnel-file"
+}

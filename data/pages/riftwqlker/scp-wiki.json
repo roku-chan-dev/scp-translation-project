@@ -1,0 +1,13 @@
+{
+  "title": "Rift's Author Page",
+  "content": "[[include :scp-wiki:theme:turbo-vision]]\n\n~~~~\n\n@@@@\n@@@@\n\n@@@@\n@@@@\n\n[[div class=\"turbo-block bg-black border-white text-white\"data-title=\"MI13 FILE: MEGAN\"]]\n[[=]]\n**CODENAME:** riftwqlker\n\n**SPECIALTY:** Humanoids\n\n**AGE:** Who's keeping track?\n\n\n[[/=]]\n\nHI, I'M RIFTWQLKER!\n\nI write the skips, and make them dance.\n\nPlease read my works.\n\nPlease read my works.\n\n[[div class=\"offset-left left-4\"]]\n[[div class=\"turbo-block bg-white border-black text-black\"]]\nAnd now, a poem, if you will.\n\n\"You may know me as spiderman\n(wow!)\nBut you may also know me as that\nhomeless heroin addict \nI need to go now bye\"\n[[/div]]\n[[/div]]\n\nPlease read my works.\n[[/div]]\n\n\n\n~~~~\n\n[[div class=\"offset-right right-4\"]]\n[[div class=\"turbo-block bg-grey border-white text-white\"]]\nwaos\n[[/div]]\n[[/div]]\n\n[[div class=\"turbo-block bg-red border-white text-white\"data-title=\"SOMETHING WRONG?\"]]\n[[include :scp-wiki:component:mega-cool-author-page-tool |inc-list= --]\n    |order=created_at\n    |perpage=20\n    |background-image=http://scpsandboxcn.wdfiles.com/local--files/asriel3/logo.png\n    |shadow=true\n]]\n~~~~\n\n[[div class=\"offset-right right-4\"]]\n[[div class=\"turbo-block bg-purple border-white text-white\"]]\nHEY\nHEY\nPSSSST\n\nI also have a [http://scp-sandbox-3.wikidot.com/riftwqlker sandbox].\n\nRift sans box.\n\n[[/div]]\n[[/div]]\n\n[[/div]]",
+  "tags": [
+    "author"
+  ],
+  "author": "riftwqlker",
+  "created_at": "2022-08-30T02:31:02+00:00",
+  "updated_at": "2023-11-17T16:57:21+00:00",
+  "rating": 12,
+  "_site": "scp-wiki",
+  "_fullname": "riftwqlker"
+}

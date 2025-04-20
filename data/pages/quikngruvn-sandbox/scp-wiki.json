@@ -1,0 +1,13 @@
+{
+  "title": "Quikngruvn's Workbench",
+  "content": "[[collapsible show=\"Show 3000 standings\" hide=\"Hide standings\"]]\n\n**3000**\n[[module ListPages details=\"true\" order=\"rating desc\" separate=\"false\" tags=\"3000\" perPage=\"50\"]]\n%%linked_title%%, %%created_by%%, rating: %%rating%%, comments: %%comments%%\n[[/module]]\n\n[[/collapsible]]\n----\n\nMusings:\nShed (careful)\nBenthic/lakebed\nRV\nCentral Records\nDili\nAnd that puppy ->\n\nPonderings:\nOn Ratings\nThreads of Some Interest\nStandalone Style Guide\nAuthor's Notes\n\n----\n\n**Joke SCPs**\n[[module ListPages tags=\"joke -decommissioned\" details=\"true\" order=\"rating desc\" separate=\"false\" perPage=\"50\"]]\n%%linked_title%%, %%created_by%%, rating: %%rating%%, comments: %%comments%%\n[[/module]]\n\n----\n\n**Newest SCPs**\n[[module ListPages tags=\"scp -archived -decommissioned -contest\" order=\"created_at desc\" separate=\"false\" limit=\"120\" perPage=\"30\"]]\n%%title_linked%% (%%rating%%): created on %%created_at%%\n[[/module]]\n\n----\n**All SCPs**\nPage name, Page creator, Rating, Comments\n[[module ListPages tags=\"scp -joke -decommissioned -archived -contest\" offset=\"0\" details=\"true\" order=\"title\" separate=\"false\" perPage=\"250\"]]\n%%title_linked%%;%%created_by%%;%%rating%%;%%comments%%\n[[/module]]\n\n----\n\nRounderhouse found this!\n\n[[module WhoInvited]]\n\n----",
+  "tags": [
+    "workbench"
+  ],
+  "author": "Quikngruvn",
+  "created_at": "2009-06-05T17:47:08+00:00",
+  "updated_at": "2024-02-23T10:48:33+00:00",
+  "rating": 4,
+  "_site": "scp-wiki",
+  "_fullname": "quikngruvn-sandbox"
+}

@@ -1,0 +1,18 @@
+{
+  "title": "SCP-1921-J",
+  "content": "[[>]]\n[[module Rate]]\n[[/>]]\n\n**アイテム番号:** SCP-1921-J\n\n**オブジェクトクラス:** やるべきことがたくさん\n\n**特別収容プロトコル:** SCP-1921-Jは一日に二回コンセントを抜き差しすることとなっています。職員はリーマン・ジュニア研究員の問題に役立ち、協力的であることが奨励されます。--優しくして-- リーマン・ジュニア研究員を笑い者にすることはSCP-1921-Jの異常効果を更に悪化させるように思われます。\n\n**説明:** SCP-1921-Jはリーマン・ジュニア研究員が所有しているMotorola MG7540ワイヤレスルーター/モデム兼用モデルを指します。SCP-1921-Jはリーマン研究員のオフィスのインターネット接続全体を網羅しているように見えますが、これは私が月に70ドルを払っているからであり、馬鹿げています。SCP-1921-Jはリーマン・ジュニア研究員を嫌い、彼らの生活を著しく困難にしていることが知られています。\n\nSCP-1921-Jに親切にすることでその影響を軽減することができるとの仮説が立てられましたが、それは彼の憎悪の深さを知る以前のことでした。SCP-1921-Jの影響によりリーマン・ジュニア研究員は現在非常に暑い時期であるにもかかわらず何度も外出を余儀なくされています。\n\nその異常な性質は点滅しているすべてのライトがまだ点灯しているにもかかわらずサイト-17VPNからの切断が繰り返された後に発見されました。リーマン・ジュニア研究員の報告によると、それ以外がすべて順調に機能しているが時折不調を\n\n[[html]]\n<head>\n\n<style>\n@import url(http://d3g0gp89917ko0.cloudfront.net/v--edac79f846ba/common--theme/base/css/style.css);\n@import url(http://www.scp-wiki.net/component:theme/code/1);\n\n.box {\n  background: white; border: 2px solid #bbb; width: 200px; min-width: 50vw; display: inline-block; position: relative; top: 50%; left: 50%; transform: translate(-50%,-50%);\n}\n\n.box-interior {\n  margin: 10px; padding: 0 50px; background-position: bottom center; background-repeat: no-repeat;\n}\n</style>\n\n<script src=\"https://code.jquery.com/jquery-3.3.1.min.js\"></script>\n<script>\n$(document).ready(() => {\n  $('#buttons').show()\n  $('#saving').hide()\n  $('#fuck').hide()\n\n  $('#cancel').on('click', () => {\n    $('#buttons').hide()\n    $('#saving').hide()\n    $('#fuck').show()\n  })\n\n  $('#retry').on('click', () => {\n    $('#buttons').hide()\n    $('#saving').show()\n    $('#fuck').hide()\n    setTimeout(() => {\n      $('#buttons').show()\n      $('#saving').hide()\n      $('#fuck').hide()\n    }, 3000)\n  })\n})\n</script>\n\n</head>\n<body>\n\n<div style=\"background: #222b; height: 300px; position: relative;\">\n  <div class=\"box\">\n    <div class=\"box-interior\" id=\"buttons\">\n      <p style=\"text-align: center\">接続が失われました。</p>\n      <p style=\"text-align: center\"> <button id=\"cancel\">キャンセル</button>\n      <button id=\"retry\">再試行</button></p>\n    </div>\n    <div class=\"box-interior\" id=\"saving\" style=\"background-image: url(https://d3g0gp89917ko0.cloudfront.net/v--3e3a6f7dbcc9/common--theme/base/images/progress/progressbar.gif); padding-bottom: 10px;\">\n      <p style=\"text-align: center\">再接続中...</p>\n    </div>\n    <div class=\"box-interior\" id=\"fuck\">\n      <p style=\"font-size: 2em; text-align: center\">ファック</p>\n    </div>\n  </div>\n</div>\n\n\n</body>\n[[/html]]",
+  "tags": [
+    "en",
+    "esoteric-class",
+    "scp",
+    "コンピュータ",
+    "ジョーク",
+    "メタ"
+  ],
+  "author": "Voila",
+  "created_at": "2021-01-17T15:20:57+00:00",
+  "updated_at": "2021-03-16T13:37:00+00:00",
+  "rating": 31,
+  "_site": "scp-jp",
+  "_fullname": "scp-1921-j"
+}

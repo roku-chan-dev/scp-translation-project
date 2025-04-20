@@ -1,0 +1,24 @@
+{
+  "title": "SCP-2862-JP",
+  "content": "[[include credit:start]]\n**タイトル:** SCP-2862-JP - 薄明の環\n**著者:** [[*user iti119]]\n**作成年:** 2022\n[[include :scp-jp:credit:end]]\n\n[[include :scp-jp:user-component:classification-header-iti\n|item-number= 2862-JP\n|object-class= Keter\n|clearance= 2\n|hralt= true\n]]\n----\n\n[[div style=\"margin-top:1em;\"]]\n[[include :scp-jp:component:image-block-peppo\n|name= http://scp-jp-storage.wikidot.com/local--files/file:5722815-8-1m0r/Oxyo_sp.jpg\n|caption= SCP-2862-JP。\n|width= 250px\n]]\n[[/div]]\n\n**特別収容プロトコル:** SCP-2862-JPは広大な分布範囲・高い移動能力および危険性から収容が困難ですが、活動する時間帯が限定的であり、また同じく高い移動能力のために民間に露見する可能性は低く、自己収容状態であると見做されています。\n\nSCP-2862-JPの保護のため、卵が生体サンプルとしてサイト-8123に保存されています。施設の安全のため、SCP-2862-JPの直接の保護は不可能であると判断されています。\n\n**説明:** SCP-2862-JPは通常より極度に高い破壊耐性・回復能力・飛行能力を有するイネゴ属の不明種 (//Oxyo// sp.) の成虫です。SCP-2862-JPはその異常性により超音速飛行が可能であり、観測された最高速度は時速1700キロメートル[[footnote]] 秒速470メートル [[/footnote]]です。\n\nまた、SCP-2862-JPは表皮細胞内にエネルギー変換効率の高い未知の光合成色素を有しており、一定以上の光量下では摂食によるエネルギー供給を必要としない生体機能を備えています。しかしながら、この光合成特性によりSCP-2862-JPは、過剰な光量下ではエネルギー過多による死の危険に曝されます。上記の特性により、SCP-2862-JPは常に --夕方～早朝にかけての夜間のみ-- 薄明の時間帯のみ活動しています (補遺を参照) 。\n\n**補遺:** 2010年に発生した[[[SCP-6002|小規模絶滅事案]]]により、SCP-2862-JPおよびその近縁種が食草としていた植物種の大部分が消失しました。続く6か月の期間における財団による保全プログラムは不成功に終わり、該当の植物種は絶滅しました。\n\n以上の事案により、SCP-2862-JPは光合成によるエネルギー供給での生存を余儀なくされており、個体数の大幅な減少が確認されました。現在、SCP-2862-JPは地球の自転に逆らう方向に飛行し続け、現地時間のおおむね4～7時・16~19時の時間帯に留まることで生存しています。また、上記の事案以降、SCP-2862-JPは飛行中に突然速度を上昇させるか低下させることで、自発的に死ぬ行動を見せています。この行動は、群れの個体数を増加させず維持するために行われているように見受けられますが、実際の目的は不明確であり、また、昼への進入による死と夜への進入による死をどのような基準で選択しているのかも判明していません。\n\n[[module CSS]]\n.creditRate {\n    margin: 0 0 1em 0;\n}\n.classification-header .right-box {\n    --level0: 102,51,51;\n    font-weight: bold;\n}\n@media (min-width: 580px) and (max-width: 766px) {\n    .classification-header {\n        font-size: 1.25em;\n    }\n}\n@media (min-width: 840px) {\n    .classification-header {\n        font-size: 1.25em;\n    }\n}\n[[/module]]",
+  "tags": [
+    "jp",
+    "keter",
+    "scp",
+    "夜行性",
+    "太陽",
+    "昆虫",
+    "時間",
+    "未収容",
+    "生命",
+    "種族",
+    "空中",
+    "群れ"
+  ],
+  "author": "iti119",
+  "created_at": "2022-05-31T09:11:17+00:00",
+  "updated_at": "2024-02-21T12:32:45+00:00",
+  "rating": 16,
+  "_site": "scp-jp",
+  "_fullname": "scp-2862-jp"
+}

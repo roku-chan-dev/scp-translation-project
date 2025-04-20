@@ -1,0 +1,15 @@
+{
+  "title": "評価の高い記事-ARC",
+  "content": "> [[size 150%]]このページは古くなって保存されました。[[/size]]\n> \n> このページの新しいバージョンは[[[top-rated-pages|こちら]]]へ。このバージョンは参照用のために一時的に保存されています。\n\nここではサイトで最も好まれているページを見ることができます。組織票や多重投票を避けるため、投票はサイトメンバーに限定されます。今月作成された中で最も支持されたページを見るには[[[archived:Top Rated Pages This Month|評価の高い記事(今月)]]]を参照してください。\n\n[[module ListPages rating=\">5\" order=\"rating desc\" separate=\"false\" limit=\"400\" category=\"_default\" perPage=\"100\" tags=\"-フォトコンテスト\"]]\n%%title_linked%% (評価: %%rating%%, コメント: %%comments%%)\n[[/module]]",
+  "tags": [
+    "jp",
+    "アーカイブ済み",
+    "管理"
+  ],
+  "author": "Nanimono Demonai",
+  "created_at": "2016-07-11T11:00:04+00:00",
+  "updated_at": "2021-10-08T10:30:43+00:00",
+  "rating": 6,
+  "_site": "scp-jp",
+  "_fullname": "archived:top-rated-pages"
+}

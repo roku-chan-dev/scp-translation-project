@@ -1,0 +1,14 @@
+{
+  "title": "kasyu-makiの著者ページ",
+  "content": "気取ったコメントを考えて書いておく場所。恥ずかしくなったら書き直します。\n__**SCP**__\n* [[[SCP-043-JP]]] - **なんでも食べられる調味料** - なんか食べる？\n* [[[SCP-152-JP]]] - **爆発物** - ぼーん\n* [[[SCP-165-JP]]] - **ヘイルグローブ** - 「では、こちらが貴方の傘になります」　手渡されたのは、茶色の傘だった。\n__**Tale**__\n* [[[munen-no-hi|無念の日]]] - SCP-152-JP。まだ何も起こっちゃいない。後悔するには早過ぎる。だが、何かをするには遅すぎる。\n* [[[mugen-no-hi|無間の日]]] - SCP-152-JP。永久に等しい檻の中で。\n* [[[mibunrui-no-wagamama|未分類の我儘]]] - 800字企画。それは私の夢。\n[!-- * [[[yoake-no-kaihou|夜明け\"の\"解放]]] - 夜明けのための夜を。 --]\n* [[[hikkuri-kaese|ひっくり返せ]]] - SCP-165-JP。ひっくり返せ。さあ、今日もまた雹が降る。\n__**一覧**__\n[[collapsible show=\"+ \" hide=\"- \" ]]\n[[module ListPages created_by=\"kasyu-maki\" separate=\"no\" limit=\"250\" perPage=\"250\" tags=\"scp +jp tale\" order=\"rating desc\" category=\"*\"]]\n%%title_linked%% (%%created_at|%y/%m/%d作成%% 評価: %%rating%%, コメント: %%comments%%)\n[[/module]]\n[[/collapsible]]",
+  "tags": [
+    "jp",
+    "著者ページ"
+  ],
+  "author": "kasyu-maki",
+  "created_at": "2016-01-24T01:19:20+00:00",
+  "updated_at": "2021-01-10T16:15:30+00:00",
+  "rating": 4,
+  "_site": "scp-jp",
+  "_fullname": "author:kasyu-maki"
+}

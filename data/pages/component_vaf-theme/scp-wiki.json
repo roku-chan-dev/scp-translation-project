@@ -1,0 +1,13 @@
+{
+  "title": "VaF Theme",
+  "content": "[!-- This component is used internally by the Vend-a-Friend Links component:\nhttp://scp-wiki.wikidot.com/component:vaf-links\nThis component is not for direct use by authors. --]\n\n[[include :scp-wiki:theme:wondertainment]]\n\n[[module CSS]]\n@import url('https://fonts.googleapis.com/css?family=Berkshire+Swash');\n\n.link-to-with {\n\tdisplay: none !important;\n}\n.link-to-without {\n\tdisplay: block !important;\n}\n[[/module]]",
+  "tags": [
+    "component-backend"
+  ],
+  "author": "Croquembouche",
+  "created_at": "2018-09-27T18:00:45+00:00",
+  "updated_at": "2021-03-07T06:19:04+00:00",
+  "rating": 4,
+  "_site": "scp-wiki",
+  "_fullname": "component:vaf-theme"
+}

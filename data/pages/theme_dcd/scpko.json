@@ -1,0 +1,14 @@
+{
+  "title": "DCD 테마",
+  "content": "[[iftags +테마]]\n[[[centre-du-dcd|검열역정보부]]]를 위한 테마입니다. 작품에서 사용하려면 아래 코드를 복사해서 맨 위에 붙여넣으세요.\n[[/iftags]]\n\n[[include :scpko:component:modele-theme\n|titres1=block\n]]\n\n[[div [[iftags -테마]]style=\"display: none\"[[/iftags]]]]\n[[include :fondationscp:theme:dcd]]\n[[module CSS show=\"true\"]]\n/* IMPORT */\n\n@font-face {\n    font-family: 'Jaemin';\n    src: url('https://cdn.jsdelivr.net/gh/projectnoonnu/noonfonts_20-10-21@1.0/Jaemin.woff') format('woff');\n    font-weight: normal;\n    font-style: normal;\n}\n@import url('https://fonts.googleapis.com/css2?family=Noto+Serif+KR&display=swap');\n\n/* TITRE DE LA PAGE */\n\n#page-title {\n  font-family: 'Special Elite', 'Jaemin', cursive;\n}\n\n/* HEADINGS */\nh1 {\n  font-family: 'Special Elite', 'Jaemin', cursive;\n}\n\nh2,\nh3 {\n  font-family: Merriweather, 'Noto Serif KR';\n}\n\n/* TOP BARRE */\n#top-bar {\n    font-family: 'Special Elite', 'Jaemin', cursive;\n}\n\n/* SIDEBAR */\n\n#side-bar .side-block,\n#side-bar .heading,\n#side-bar a,\n#side-bar a:hover {\n    font-family: 'Special Elite', 'Jaemin', cursive;\n}\n\n/* NOM UTILISATEUR */\n\n#login-status,\n#login-status a,\n#login-status ul a,\n#account-topbutton {\n    font-family: 'Special Elite', 'Jaemin', cursive;\n}\n\n/* COLLAPSIBLE */\n\n.collapsible-block-link {\n     font-family: Merriweather, 'Noto Serif KR';\n}\n\n/* LIENS */\n\n.page-options-bottom a {\n    font-family: 'Special Elite', 'Jaemin', cursive;\n    font-size: 120%;\n}\n\n/* Adjust Mobile Image Size */\n@media (max-width: 321px) {\n \n#page-title,\n#login-status,\n#login-status a,\n#login-status ul a,\n#account-topbutton {\n  font-family: 'Special Elite', 'Jaemin', cursive;\n}\n}\n \n@media (min-width: 322px) and (max-width: 425px) { \n#page-title,\n#login-status,\n#login-status a,\n#login-status ul a,\n#account-topbutton {\n  font-family: 'Special Elite', 'Jaemin', cursive;\n}\n}\n[[/module]]\n[[/div]]",
+  "tags": [
+    "fr",
+    "테마"
+  ],
+  "author": "XCninety",
+  "created_at": "2021-08-29T10:38:44+00:00",
+  "updated_at": "2021-09-27T13:57:51+00:00",
+  "rating": 0,
+  "_site": "scpko",
+  "_fullname": "theme:dcd"
+}

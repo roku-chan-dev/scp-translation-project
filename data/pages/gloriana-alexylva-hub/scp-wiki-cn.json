@@ -1,0 +1,15 @@
+{
+  "title": "荣光Alexylva中心",
+  "content": "[[module CSS]]\n@import url(/component:alexylva-university-theme/code/1)\n[[/module]]\n[[include :scp-wiki-cn:component:djk]]\n\n[[=]]\n[[image http://scp-wiki.wdfiles.com/local--files/gloriana-alexylva-hub/football.png]]\n\n[[collapsible show=\"- 展开翻译 -\" hide=\"- 隐藏 -\"]]\n\n[[size 1.5em]]战无不胜[[/size]]\n\n[[size 2em]]Alexylva大学[[/size]]\n\n[[size 1.5em]]西哥特人男子橄榄球[[footnote]]football在美国通常指橄榄球而非足球。[[/footnote]]队[[/size]]\n\n[[size 1.2em]]76-77赛季\n\n主教练：至高长者，Panagakos[[/size]]\n\n进攻教练：Devin Demopolous\n\n防守教练：Corvin Christakos\n\n主场：Alexylva大学耐克体育场\n--------\n[[size 1.3em]]__赛程__[[/size]]\n\n特洛伊 客场\n胜 12-7\n\n牛津\n胜 18-14\n\n哈佛\n胜 42-6\n\n北罗马 客场\n胜 14-12\n\n中美洲 客场\n胜 24-13\n\n马其顿王国\n胜 31-28\n\n耶鲁\n胜 39-38\n\n伦底纽姆[[footnote]]伦敦旧称。[[/footnote]] 客场\n待定\n\n塔斯卡卢萨 客场\n待定\n\n安大略\n待定\n\n亚特兰蒂斯\n待定\n\n奥林匹斯理工 客场\n待定\n\n（右侧为队员花名表，不译。）\n[[/collapsible]]\n\n-----\n\n++ 荣光Alexylva\n\n一个橄榄球队的故事，分为九部分\n\n-◬-\n\n第一部分：[[[Fourth and Long|漫长的第四回合]]]\n\n第二部分：[[[Postgame|赛后]]]\n\n第三部分：[[[Coach Panagakos, Eldest and Most Revered|]]]\n\n第四部分：[[[The Unforgiving Gridiron|]]]\n\n第五部分：[[[Anima Ex Machina|机械降魂]]]\n\n第六部分：有待发布\n\n第七部分：有待发布\n\n第八部分：有待发布\n\n第九部分：有待发布\n[[/=]]",
+  "tags": [
+    "_故事中心",
+    "alexylva大学",
+    "中心"
+  ],
+  "author": "Sraosha",
+  "created_at": "2018-11-06T07:17:15+00:00",
+  "updated_at": "2021-12-23T03:07:01+00:00",
+  "rating": 1,
+  "_site": "scp-wiki-cn",
+  "_fullname": "gloriana-alexylva-hub"
+}

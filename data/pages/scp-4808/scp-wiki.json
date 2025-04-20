@@ -1,0 +1,21 @@
+{
+  "title": "SCP-4808",
+  "content": "[[>]]\n[[module Rate]]\n[[/>]]\n\n[!-- img source: https://commons.wikimedia.org/wiki/File:A_shaggy_dog_on_a_wooden_floor.jpg --]\n[[include component:image-block name=shaggy-dog.jpg|caption=An instance of SCP-4808-1 found in the home of {{[DATA REDACTED]}}]]\n\n**Item #:** SCP-4808\n\n**Object Class:** Canine\n\n**Containment Class:** Euclid\n\n**Special Containment Procedures:** Morgues worldwide, especially in middle-class areas, are to be monitored for manifestations of SCP-4808-1. Foundation personnel disguised as animal patrol are to bring SCP-4808-1 to the nearest Foundation site. Once SCP-4808-1 is verified as non-anomalous, they are to be put into the custody of local animal shelters.\n\n**Description:** SCP-4808 is a recurring phenomenon affecting recently deceased human cadavers[[footnote]]SCP-4808 generally takes place between 20 and 80 hours after death.[[/footnote]]. The cadaver will be replaced with a specimen of //Canis familiarus//[[footnote]]Species name for the domestic dog[[/footnote]], designated SCP-4808-1.\n\nIn all cases observed, SCP-4808-1 is a non-anomalous, healthy dog of average age. However, all specimens of SCP-4808-1 thus catalogued have been of breeds with blue, thick coats.\n\n**Additional Notes:** Demographic data of the 309 recorded subjects of SCP-4808 have revealed certain patterns, listed below.\n\n* 81% of subjects are unmarried.\n * 93% of subjects do not have children.\n* 95% of subjects are described as \"introverted.\"\n* 85% of subjects make yearly salaries of less than $30,000.\n * 70% of subjects are unemployed.\n * 51% of subjects have some kind of disability that makes it difficult to find employment.\n* 89% of subjects die from old age or another age-related malady.\n * 34% of subjects have one or more failed suicides in their history.\n* 96% of subjects either dropped out of or failed secondary schooling or college.\n* 98% report feeling unfulfilled in their lives\n* 100% are reported to have called their lives \"a joke\" at some point on social media.\n* 100% are mildly allergic to dogs.\n\n**Addendum:** Incident Report\n\nPoI-3281 [[footnote]]Legal name ████████ ████, had a known history of failed businesses, early employment terminations, and in one case, an attempted connection with GoI-9272 (\"Potz Blitz\"). Lack of employment often cited as a \"lack of motivation\"[[/footnote]] was found dead in their home due to self-termination by hanging. An instance of SCP-4808-1 appeared; however, its throat was slit and the specimen was dead. Investigation of PoI-3281's apartment found several other suicide implements, all broken. PoI-3281's suicide note is as follows:\n\n> It's all a joke, just a long, unfulfilling joke. The punchline isn't worth it. No matter what, it never will be. Why not just cut it short?\n> \n> If my entire life is a joke, it's not even a good one.\n\n[[footnoteblock]]\n\n[[include more-by:notgull]]\n\n[[div class=\"footer-wikiwalk-nav\"]]\n[[=]]\n<< [[[SCP-4807]]] | SCP-4808 | [[[SCP-4809]]] >>\n[[/=]]\n[[/div]]",
+  "tags": [
+    "_cc",
+    "_shaggy-dog",
+    "animal",
+    "cadaver",
+    "canine",
+    "ectoentropic",
+    "euclid",
+    "jam-con2019",
+    "scp"
+  ],
+  "author": "notgull",
+  "created_at": "2019-03-10T05:06:31+00:00",
+  "updated_at": "2022-05-11T16:35:03+00:00",
+  "rating": 103,
+  "_site": "scp-wiki",
+  "_fullname": "scp-4808"
+}

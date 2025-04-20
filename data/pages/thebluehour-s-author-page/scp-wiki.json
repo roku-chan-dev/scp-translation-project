@@ -1,0 +1,14 @@
+{
+  "title": "TheBlueHour's Author Page",
+  "content": "[[include :scp-wiki:component:pride-highlighter |inc-s9-ally-alt= --]]]\n\n[[>]]\n[[module Rate]]\n[[/>]]\n@@  @@\n\nI am not writing anything for the SCP Wiki and I have absolutely no plans of returning. \n\n\n[[module ListPages created_by=\"TheBlueHour\" order=\"rating desc\" separate=\"no\" perPage=\"250\" prependLine=\"||~ Article Name ||~ Rating ||~ Votes||~ Comments ||~ Last Comment ||~ Last Edit ||\"]]\n|| %%title_linked%% || %%rating%% || +[[#expr (%%rating%%+((%%rating_votes%%-%%rating%%)/2))]], -[[#expr ((%%rating_votes%%-%%rating%%)/2)]] || %%comments%% || %%commented_at%% || %%updated_at%% ||\n[[/module]]\n\n(**[[[SCP-4373]]], Drown** and **Empty Oceans**were collabs with [[*user Nameless Mediocre]])\n[[include :scp-wiki:component:license-box author=TheBlueHour]]\n[[include :scp-wiki:component:license-box-end]]",
+  "tags": [
+    "_licensebox",
+    "author"
+  ],
+  "author": null,
+  "created_at": "2019-08-02T14:01:35+00:00",
+  "updated_at": "2023-12-21T22:36:54+00:00",
+  "rating": 23,
+  "_site": "scp-wiki",
+  "_fullname": "thebluehour-s-author-page"
+}

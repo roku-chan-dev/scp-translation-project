@@ -1,0 +1,15 @@
+{
+  "title": "SCP-3638补充图纸",
+  "content": "[[div style=\"background: url(http://scp-wiki.wdfiles.com/local--files/djkaktus-s-proposal/amber.png) center no-repeat ; float: center; border: solid 2px #000000; padding: 1px 15px; margin-bottom:20px; box-shadow: 0 1px 3px rgba(0,0,0,.2);\"]]\n[[=]]\n**##darkred|信息危害警告##**\n**##black|该文档中内容可能具有信息性危害，除非面临迫在眉睫的威胁，否则仅限于了解382-Diogenes程序的相关人员访问。如果你无意中访问了该文档，请立即告知[[[SCP-3638]]]研究小组。##**\n[[/=]]\n[[/div]]\n\n如下文件是对[[[SCP-3638]]]讽刺性描述的汇编。它既可以当作执行382-Diogenes程序振奋人心的资料，也能作为一个视觉参考的文集，具有比照片更少的潜在信息危害。\n\n[[div style=\"float:left;\"]]\n[[include component:image-block\n    name=http://scp-wiki.wdfiles.com/local--files/scp-3638-supplementary-figures/wiggledick4.jpg|\n    caption=草图由站点主管Bogdan Karatkievich所画，标题为：“//哦不，我拉屎了//。”|\nwidth=300px]]\n[[/div]]\n\n[[include component:image-block\n    name=http://scp-wiki.wdfiles.com/local--files/scp-3638-supplementary-figures/wiggledick5.png|\n    caption=“//附肢过多//”——特工Miray Yalçın的数字绘画|\nwidth=300px]]\n\n\n[[include component:image-block\n    name=http://scp-wiki.wdfiles.com/local--files/scp-3638-supplementary-figures/wiggledick3.jpg|\n    caption=经过简短汇报，该图的作者澄清说图中所包含的文字并非是该实体发出的真实声音，只是为了引用一下沃尔特·迪士尼1967年的动画片《森林王子》，灵感源于实体与角色kaa之间的相似性。|\nwidth=300px]]\n\n[[include component:image-block\n    name=http://scp-wiki.wdfiles.com/local--files/scp-3638-supplementary-figures/wiggledick2.jpg|\n    caption=笔记[[footnote]]**译注：**图中黑色字部分从左到右依次为“虚弱的异常”、“乍得基金会”、“特工ETTAki”图中蓝色字部分为“瞬移到你身后”、“抽出武士刀”、“小子，我不是针对你个人 ”、“特工Franqoin，模因部”。[[/footnote]]：这些特工并不隶属于模因部，所用的可笑命名据推测为382-Diogenes程序的一部分。|\nwidth=500px]]\n~~~~\n[[footnoteblock]]",
+  "tags": [
+    "合作",
+    "艺术作品",
+    "补充材料"
+  ],
+  "author": "Broken Eclipse",
+  "created_at": "2021-02-10T03:44:23+00:00",
+  "updated_at": "2021-02-12T15:57:25+00:00",
+  "rating": 1,
+  "_site": "scp-wiki-cn",
+  "_fullname": "scp-3638-supplementary-figures"
+}

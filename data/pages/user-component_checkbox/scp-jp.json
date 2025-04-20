@@ -1,0 +1,14 @@
+{
+  "title": "チェックボックス",
+  "content": "[[iftags +コンポーネント]]\nこのユーザーコンポーネントのマニュアルページは[[[reference:checkbox|]]]です。\n----\n[[/iftags]]\n\n[[module css]]\n/*\nBulma Custom Checkboxes\n\nBased on Buefy's(https://github.com/buefy/buefy) component for Vue.js & Bulma CSS Framework released under MIT License (Copyright © 2017-2020 Walter Tommasi(https://github.com/jtommy); Copyright © 2017-2020 Rafael Beraldo(https://github.com/rafaelpimpa))\n*/\n\n:root {\n  --main-color: #00d1b2;\n  --border-color: #7a7a7a;\n}\n.checkbox {\n  margin: 0.5em 0;\n}\n.checkbox .colmod-link-top {\n  position: relative;\n}\n.checkbox [class|=colmod-link] div.foldable-list-container {\n  overflow-wrap: break-word;\n  word-break: break-all;\n  position: absolute;\n  width: calc(100% - 3.25em);\n  right: 0;\n}\n.checkbox .colmod-block a {\n  text-decoration: none!important;\n  display: inline-block;\n  width: 1.25em;\n  height: 1.25em;\n  flex-shrink: 0;\n  border-radius: 4px;\n  border: 2px solid #7a7a7a;\n  border-color: var(--border-color);\n  transition: background 150ms ease-out;\n  background: rgba(0, 0, 0, 0);\n  position: absolute;\n  left: -2.25em;\n}\n.checkbox .unfolded a {\n  background: #00d1b2 url(\"data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 1 1'%3E%3Cpath style='fill:%23fff' d='M 0.04038059,0.6267767 0.14644661,0.52071068 0.42928932,0.80355339 0.3232233,0.90961941 z M 0.21715729,0.80355339 0.85355339,0.16715729 0.95961941,0.2732233 0.3232233,0.90961941 z'%3E%3C/path%3E%3C/svg%3E\") no-repeat center center;\n  background: var(--main-color) url(\"data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 1 1'%3E%3Cpath style='fill:%23fff' d='M 0.04038059,0.6267767 0.14644661,0.52071068 0.42928932,0.80355339 0.3232233,0.90961941 z M 0.21715729,0.80355339 0.85355339,0.16715729 0.95961941,0.2732233 0.3232233,0.90961941 z'%3E%3C/path%3E%3C/svg%3E\") no-repeat center center;\n  border-color: #00d1b2;\n  border-color: var(--main-color);\n}\n.checkbox .colmod-content {\n  visibility: hidden;\n  position: relative;\n  width: calc(100% - 3.25em);\n  left: 3.25em;\n}\n[[/module]]\n[[div class=\"checkbox\"]]\n[[div_ class=\"colmod-block\"]]\n[[ul]][[li class=\"folded\"]][[ul]]_[[/ul]]\\\n[[div class=\"colmod-link-top\" style=\"margin-left:calc(1.25em*{$indent-num});\"]]\n[[div_ class=\"foldable-list-container\"]]\n[# ​][# ​]{$label}[[/div]]\n[[div_ class=\"colmod-content\"]]\n{$label}\n[[/div]][[/div]][[/li]][[/ul]][[/div]]\n[[/div]]",
+  "tags": [
+    "jp",
+    "コンポーネント"
+  ],
+  "author": "R74",
+  "created_at": "2023-02-08T11:21:23+00:00",
+  "updated_at": "2023-02-08T11:52:12+00:00",
+  "rating": 7,
+  "_site": "scp-jp",
+  "_fullname": "user-component:checkbox"
+}

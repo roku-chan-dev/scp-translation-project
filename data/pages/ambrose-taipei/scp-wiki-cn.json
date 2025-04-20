@@ -1,0 +1,22 @@
+{
+  "title": "安布羅斯台北分店的套餐菜單－頁庫存檔",
+  "content": "[[module CSS]]\n#page-title {\n  display: none;\n}\n\n.meta-title {\n  border-bottom: solid 1px #bbbbbb;\n  color: #990011;\n  font-weight: normal;\n  margin: 0 0 0.6em;\n  padding: 0 0 0.25em;\n  font-size: 200%;\n}\n\n.meta-title p {\n  margin: 0;\n}\n[[/module]]\n[[module ListPages category=\"fragment\" parent=\".\" limit=\"1\" order=\"name\" offset=\"@URL|0\"]]\n[[div class=\"meta-title\"]]\n%%title%%\n[[/div]]\n[[/module]]\n[[>]]\n[[module Rate]]\n[[/>]]\n[[module ListPages category=\"fragment\" parent=\".\" limit=\"1\" order=\"name\" offset=\"@URL|0\"]]\n\n%%content%%\n[[/module]]",
+  "tags": [
+    "2020画廊大赛",
+    "_安布罗斯餐厅",
+    "goi格式",
+    "原创",
+    "安布罗斯餐厅",
+    "寿司陀螺",
+    "打鲨鱼中心",
+    "生",
+    "精品",
+    "闇寿司"
+  ],
+  "author": "EDGE_chi",
+  "created_at": "2020-03-26T11:18:06+00:00",
+  "updated_at": "2022-01-10T17:45:47+00:00",
+  "rating": 152,
+  "_site": "scp-wiki-cn",
+  "_fullname": "ambrose-taipei"
+}

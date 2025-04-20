@@ -1,0 +1,18 @@
+{
+  "title": "SCP-8790",
+  "content": "=====\n[[include component:preview\ntext=\n\"FOR THE BETTERMENT OF ALL.\"\n]]\n=====\n[[include :scp-wiki-cn:theme:black-highlighter-theme]]\n[[include :scp-wiki:component:toggle-sidebar-bhl]]\n[[include :scp-wiki:component:info-ayers\n|lang=cn\n|page=component:info-ayers\n|authorPage= https://scp-wiki.wikidot.com/trouts-authorpage\n|comments=\n>You want them to notice\n> The ragged ends of your summer dress\n> You want them to see you\n> Like they see every other girl\n(Transgender Dysphoria Blues - Against Me!)\n\nSCP-8790 - Surrender Your Sons]]\n\n[[include :scp-wiki:component:slim-acs-source | inc-darkmode=--\n|item-number=8790\n|clearance=5\n|container-class=safe\n|disruption-class=dark\n|risk-class=notice\n]]\n\n[[include :scp-wiki:component:wide-image-sizer]]\n[[include component:image-block name=http://scp-sandbox-3.wdfiles.com/local--files/troutmaskreplica-abnormality/facility.jpg|align=center|width=100%|height=60%|caption=SCP-8790]]\n\n**特殊收容措施：**SCP-8790的入口已被封锁，所有潜在入口全部以板条封闭。一名武装守卫将持续巡逻看守SCP-8790。禁止一切访问。\n\n**描述：**SCP-8790是位于亚拉巴马州████████的一处废弃设施，建设于19世纪晚期的某个时刻。该建筑面积约3800平方米，内含宿舍、行政办公室、公用区域、以及其他用途不明的房间。在其中一个办公室内，墙壁上装有一个金属牌匾，其上写有：\n\n[[=]]\n[[div style=\"background: url(\"https://scp-wiki.wdfiles.com/local--files/the-great-hippo/scp_trans.png\") center no-repeat; float: center; border: solid 2px #000; padding: 1px 15px; box-shadow: 0 1px 3px rgba(0,0,0,.2);\"]]\n++ 反常部\n\n+++ 为一切的向善\n[[/div]]\n[[/=]]\n基金会档案中不存在具有该名称的部门。\n\n该设施的原本目的不明，其大部分文件和识别材料完全缺失。SCP-8790内房间的部分示例如下：\n* 一间巨大的空屋，有两排金属椅子面朝墙上一个褪色的标志。该房间表现出频繁使用的痕迹，墙壁上可见有磨损痕，还有一件被毁坏文件柜的残余。在房间的两端各有一个生锈的观察窗。在其中找到的物品包括一个生锈的会计簿，其内有若干名单和标记“H2”、“H3”以及“已矫正”。\n\n* 一个房间内近乎完全被烧毁的文件及破碎的文件柜填满。其中大部分文件纸张都受到过重度删改乃至彻底被毁，仍有少数文件完好，其中提及“精神██████异常的战后进展”以及“候选者无法恢复。依照最终解决协议予以废除。”\n\n* 一个黯淡的房间，其中心地板处钉有一把椅子。椅子上的电线延伸到附近墙壁上，墙上装有若干破损的设备和粗糙的机械装置。[[footnote]]这些工具的目的不明，但其上覆盖有一种不明的干燥物质和毛发。[[/footnote]]墙壁上覆盖有剥落的颜料，房间角落处可见模糊的灰烬痕迹。在椅子后方有一台投影机。[[footnote]]大部分影片无法解码，只余下一部分女人跳舞的片段。[[/footnote]]\n\n* 一个小型的环形房间，其中有一面开裂但仍有映像的全身镜。墙壁上悬挂着厚实、褪色的红色帷幔，遮蔽了大部分光线。在镜子的裂痕中卡有少量残余的布料和头发。\n\n* 一个方形房间，其内有若干褪色壁画，形似某种带翼形象。房间左侧有一讲台，基座处嵌有一受难像。在其后方放有若干戒尺、鞭子和钳夹，全部严重损坏。房间中心处的地毯上有血迹留存。房间内尽管无窗却始终明亮。\n\n* 一条有12个小房间的走廊，每个房间内包含有一个小床、一个不再工作的监控探头、以及一个嵌在门上的投食槽。墙壁和天花板上有刮痕拼写成各种词语和文段，其中一个需注意的内容如下：“你不能把它从我这夺走。”\n\n人员在长时间暴露于SCP-8790内部后，报告称在构建或维护人际关系上出现困难。此效应在同性恋人员中时常会永久持续。\n\n[[footnoteblock]]\n\n[[div class=\"footer-wikiwalk-nav\"]]\n[[=]]\n<< [[[SCP-8789]]] | SCP-8790 | [[[SCP-8791]]] >>\n[[/=]]\n[[/div]]\n\n[[include :scp-wiki:component:license-box]]\n> **Filename:** facility.jpg\n> **Name:** Abandoned military facilities on Adak Island.\n> **Author:** Paxson Woelber\n> **License:** Creative Commons Attribution-Share Alike 4.0 International\n> **Source Link:** [https://commons.wikimedia.org/wiki/File:Abandoned_military_facilities_on_Adak_Island._Aleutian_Islands,_Alaska.jpg Wikimedia Commons]\n[[include :scp-wiki:component:license-box-end]]",
+  "tags": [
+    "safe",
+    "scp",
+    "反常部",
+    "基金会制",
+    "建筑",
+    "精神影响"
+  ],
+  "author": "ashausesall",
+  "created_at": "2024-12-22T14:29:26+00:00",
+  "updated_at": "2025-01-22T16:24:38+00:00",
+  "rating": 0,
+  "_site": "scp-wiki-cn",
+  "_fullname": "scp-8790"
+}

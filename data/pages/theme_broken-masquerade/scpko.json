@@ -1,0 +1,14 @@
+{
+  "title": "부서진 가장무도회 CSS 테마",
+  "content": "[[module CSS]]\n@import url(\"https://scpko.wdfiles.com/local--code/theme%3Abroken-masquerade/1\");\n[[/module]]\n\n[[iftags +테마]]\n[[>]]\n**평점:**\n[[module Rate]]\n\n**정보창이 있는 평점:**\n[[/>]]\n\n[[include info:start]]\n당신의 페이지에 대한 정보.\n[[include info:more]]\n당신의 페이지에 대한 추가 정보.\n[[include info:end]]\n\n[[module CSS]]\n.unmargined {\n    background-color: #282828 !important;\n    border-color: #282828 !important;\n    box-shadow: unset !important;\n}\n\n.unmargined > div:first-of-type,\n.creditRate .heritage-rating-module,\n.heritage-rating-module { display: none; }\n\n.unmargined > div:nth-of-type(2) {\n    color: red !important;\n}\n[[/module]]\n\n이 테마는 [[[broken-masquerade-hub|부서진 가장무도회 카논]]]에 이용됩니다. 테마를 이용하기 위해서는 아래 구문을 당신의 작품 가장 위에 넣어주세요.\n\n> @@[[include theme:broken-masquerade]]@@\n\n+ 헤더 1\n\n||~ 헤더||~ 헤더||~ 헤더||~ 헤더||\n||표-내용||표-내용||표-내용||표-내용||\n\n[[# 링크]]\n\n[[tabview]]\n[[tab 탭 1]]\n첫 번째 탭.\n[[/tab]]\n[[tab 탭 2]]\n두 번째 탭.\n[[/tab]]\n[[/tabview]]\n\n[[code type=\"CSS\"]]\n/* Broken Masquerade CSS Theme by Cyantreuse on base code by InitHello with edits by CyrusFiredawn | Revisions by stormbreath | CC-by-SA-3.0 */\n \n@import url(\"https://scp-wiki.wdfiles.com/local--code/theme%3Abroken-masquerade/1\");\n \n#header h2 span::before {\n    content: \"공공 안전 지속\";\n}\n[[/code]]\n[[/iftags]]",
+  "tags": [
+    "en",
+    "테마"
+  ],
+  "author": null,
+  "created_at": "2018-11-16T14:30:13+00:00",
+  "updated_at": "2021-09-30T15:47:39+00:00",
+  "rating": 1,
+  "_site": "scpko",
+  "_fullname": "theme:broken-masquerade"
+}

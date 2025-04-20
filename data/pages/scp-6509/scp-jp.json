@@ -1,0 +1,20 @@
+{
+  "title": "SCP-6509",
+  "content": "[[div style=\"display: none;\"]]\n[[include :scp-jp:theme:flopstyle]]\n[[/div]]\n[[include :scp-wiki:theme:scp-offices-sigma]]\n[[include :scp-jp:component:centered-header-sigma-9]]\n[[module CSS]]\n :root{\n   --lgurl: url(https://scp-wiki.wdfiles.com/local--files/component:pride-highlighter/lgbtqp_logo.svg);\n}\n .footnotes-footer{\n     display: none;\n}\n[[/module]]\n\n[[include :scp-jp:credit:start]]\n翻訳責任者: [[*user Tetsu1]]\n翻訳年: 2024\n著作権者: jackVS（アカウント削除済）\n原題: Bullet Time\n作成年: 2022\n元記事リンク: https://scp-wiki.wikidot.com/scp-6509\n[[include :scp-jp:credit:end]]\n[[include :scp-jp:component:image-block\n|name=http://scp-jp-storage.wikidot.com/local--files/file:5384396-46-j44d/bulletbw2.jpg\n|caption=,,SCP-6509実例。,,\n|width=300px\n]]\n**アイテム番号:** SCP-6509\n\n**オブジェクトクラス:** Safe [[span style=\"color:green\"]]●[[/span]]\n\n**脅威レベル:** 分類 ●\n\n**特別収容プロトコル:** 全SCP-6509実例は元の弾薬包から取り外され、高セキュリティSafeクラス保管庫に収容されています。SCP-6509-αは施設-9遺体安置所に保管されています。\n\n銃器試験の要求は前もって却下されます。\n\n**説明:** SCP-6509は逆因果的または現実再構築イベントの影響に対し異常な耐性を有するライフル弾の集合です。各実例は極めて高エネルギーのヒューム場を生成し、直近の物体を超現実的にします。これによりSCP-6509は極めて大規模な所在時空の変化後も存続が可能です。\n\nSCP-6509はコロンビア北部に位置するシピの小規模な町の放棄された建造物から回収されました。--全ての--[[footnote]]古い情報、以下のSCP-6509-αの説明を参照。[[/footnote]]大部分の回収された実例にはかつてライフルから発射されたものと一致する線状痕が存在します。\n\nSCP-6509-αは当初シピ郊外の岩場に倒れていた、身元不明の人間の死体です。死体に影響している複数の重大な異常を詳述した地元の検死官の報告書の公表の直後、地元の遺体安置所から財団の管理下に移送されました。\n\nSCP-6509-αの声帯は恐らく死亡の前段階で外科的に切除されています。指紋は物理的に除去されているか、異常な手段で消去されています。生物学的証拠は抽出可能ですが、既存の記録上の人物と一致しないため決定的な身元特定は不可能です。SCP-6509-αの周囲のヒューム値は、現実再構築イベントに対しSCP-6509自体と同様の耐性を有している可能性を示唆しています。死因は頭部への一発の発砲による自殺と断定されています。\n\n財団の管理下に移送される際、SCP-6509-αの所有物も押収されました。死亡時、対象は以下のものを身に着けていました。\n* 複数の未使用のSCP-6509。\n* 非異常のM24スナイパーライフルおよびM1911ピストル。\n* 破れた複数の紙切れ、水による損傷および黒のマーカーによる削除で判読不能。実際の文は確認不可能だが、復元の試みにより文書には元々米国オカルト軍事部門ペンタグラムの紋章が描かれていた可能性が示唆されている。\n* 身元不明の数名の人物がステージ上に立ち、腕を上げてカメラの方向に笑顔を向けている写真。既存のどの国家や運動にも一致しない赤い旗が背景に掲げられている。前景には大勢の見物人がおり、明白に祝賀している。",
+  "tags": [
+    "en",
+    "safe",
+    "scp",
+    "ペンタグラム",
+    "武器",
+    "死体",
+    "現実改変",
+    "黒"
+  ],
+  "author": "Tetsu1",
+  "created_at": "2024-01-10T08:33:51+00:00",
+  "updated_at": "2024-07-22T12:25:11+00:00",
+  "rating": 4,
+  "_site": "scp-jp",
+  "_fullname": "scp-6509"
+}

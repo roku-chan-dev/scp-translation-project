@@ -1,0 +1,14 @@
+{
+  "title": "10009",
+  "content": "number: UE-3579428-JP\ncontent: 出入り口となる扉を内部から閉めると、部屋の外側から扉を閉めた状態に改変される部屋。\ndate: '2018-08-11'\narea: サイト-81██\nprotocol: 扉は常に開けた状態にし、職員の立ち入りを禁止しています。\nredirect-b: '[[module Redirect destination=\"/log-of-unexplained-locations-jp'\nredirect-e: '\"]]'",
+  "tags": [
+    "jp",
+    "剪定対象-子"
+  ],
+  "author": "usubaorigeki",
+  "created_at": "2021-02-12T09:49:17+00:00",
+  "updated_at": "2021-05-24T13:21:27+00:00",
+  "rating": 26,
+  "_site": "scp-jp",
+  "_fullname": "log-of-unexplained-locations-jp:10009"
+}

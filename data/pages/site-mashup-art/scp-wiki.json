@@ -1,0 +1,17 @@
+{
+  "title": "Site Mashup (Art)",
+  "content": "[[include :scp-wiki:theme:basalt]]\n\n[[>]]\n[[module Rate]]\n[[/>]]\n@@ @@\n\n\n[[include :scp-wiki:component:image-features-source |hover-enlarge=--]\n|enlarge-amount=100%\n|speed=1\n|float=false\n|align=left \n|url=https://i.imgur.com/CH9PDXV.png\n|add-caption=false\n|caption=text\n]]\n--------\n\n\n\n@@ @@\n@@ @@\n@@ @@\n@@ @@\n@@ @@\n\n[[=]]\n[[collapsible show=\"Version with Labels\" hide=\"Close\"]]\n@@ @@\n[[include :scp-wiki:component:image-features-source |hover-enlarge=--]\n|enlarge-amount=100%\n|speed=3\n|float=true\n|align=left \n|url=https://i.imgur.com/EhI8yyE.png\n|add-caption=false\n|caption=text\n]]\n[[/collapsible]]\n\n[[/=]]\n\n[[include :scp-wiki:component:license-box]]\n> **Filename:** CH9PDXV.png\n> **Author:** [[*user Ruskied]]\n> **License:** CC BY-SA 3.0\n> **Source Link:** [https://imgur.com/CH9PDXV Imgur]\n[[include :scp-wiki:component:license-box-end]]",
+  "tags": [
+    "_cc",
+    "_licensebox",
+    "artwork",
+    "cel-shaded",
+    "logo"
+  ],
+  "author": "Ruskied",
+  "created_at": "2022-11-17T00:17:38+00:00",
+  "updated_at": "2024-03-28T11:53:00+00:00",
+  "rating": 79,
+  "_site": "scp-wiki",
+  "_fullname": "site-mashup-art"
+}

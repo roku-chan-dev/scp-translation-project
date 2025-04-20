@@ -1,0 +1,22 @@
+{
+  "title": "SCP-6263",
+  "content": "[[include :scp-wiki:theme:blankstyle]]\n\n[[module CSS]]\n:root {\n    --timeDelay: 0.5s;\n[[/module]]\n\n[[module css]]\n:root {\n--thaumiel: 0, 135, 189\n}\n[[/module]]\n\n[[div]]\n[[include :scp-wiki:info:start]]\n[[=]]\n**SCP-6263: \"The Instant Karma\"**\nno u\n\n[[image http://scp-wiki.wdfiles.com/local--files/this-page-intentionally-left-blank/Tyop.png]]\n\n**[[[http://www.scp-wiki.net/this-page-intentionally-left-blank|More by this author!]]]**\n[[/=]]\n[[include :scp-wiki:info:end]]\n[[/div]]\n\n[[div]]\n[[include :scp-wiki:component:anomaly-class-bar-source\n\n|item-number= SCP-6263\n\n|clearance= 1\n\n|container-class= esoteric\n\n|secondary-class= simpatico\n\n|secondary-icon= http://scp-sandbox-3.wdfiles.com/local--files/harry-blank-6/simpatico-icon.svg\n\n|disruption-class= dark\n\n|risk-class= notice\n\n]]\n[[include :scp-wiki:component:acs-peppo-split\n|object= keter\n|object-image= https://scp-wiki.wdfiles.com/local--files/component%3Aanomaly-class-bar/keter-icon.svg\n|object-color= keter\n|esoteric-color= thaumiel\n]]\n[[/div]]\n\n----\n\n[[include component:image-block\n    name=https://scp-wiki.wdfiles.com/local--files/scp-5382/Clio.png|\n    caption=Archives and Revision, [/secure-facility-dossier-site-43 Site-43] |\n    width=200px\n]]\n\n**Special Containment Procedures:** Evidence of SCP-6263's existence is generated daily via social media, but has proven insufficient to reveal the anomaly, as such, to the general public.[[span class=\"fnnum\"]].[[/span]][[span class=\"fncon\"]]Simpatico-class anomalies pose unpredictable containment challenges but are otherwise non-threatening.[[/span]]  Personnel are encouraged to suppress the production of further evidence via public shaming of egregious typo policing.\n----\n**Description:** SCP-6263 is a phenomenon triggered by correcting the spelling or grammar of others. Said action incurs a statistically unlikely risk of immediately committing a similar error oneself, typically within the corrective statement, with the likelihood and severity increasing in proportion to the vehemence of the initial crrection.\n----\n//What is this? This isn't a real anomaly. Where's your evidence? Where's your testing logs? And you misspelld \"correction\" you bafoon! -- W. Wettle//\n\n//Thanks for the evidence, Willie! Knew I could count on you -- H. Blank//\n\n----\n\n[[div]]\n[[=]]\n<< **[[[SCP-6121]]]** | **[/on-guard-43-hub Words of Power and Poison]** | **[[[A Bitch]]]** >>\n[[/=]]\n[[/div]]\n\n[[div class=\"footer-wikiwalk-nav\"]]\n[[=]]\n<< [[[SCP-6262]]] | SCP-6263 | [[[SCP-6264]]] >>\n[[/=]]\n[[/div]]\n\n[[div]]\n[[=]]\n[[include :scp-wiki:component:license-box]]\n=====\n[[<]]\n> **Filename:** Clio.png\n> **Author:** [[*user HarryBlank]]\n> **License:** CC BY-SA 3.0\n[[/<]]\n=====\n[[include :scp-wiki:component:license-box-end]]\n[[/=]]\n[[/div]]",
+  "tags": [
+    "_cc",
+    "_licensebox",
+    "doctor-blank",
+    "doctor-wettle",
+    "esoteric-class",
+    "language",
+    "on-guard-43",
+    "online",
+    "probability",
+    "scp"
+  ],
+  "author": "HarryBlank",
+  "created_at": "2021-12-14T21:50:45+00:00",
+  "updated_at": "2022-03-23T21:35:52+00:00",
+  "rating": 219,
+  "_site": "scp-wiki",
+  "_fullname": "scp-6263"
+}

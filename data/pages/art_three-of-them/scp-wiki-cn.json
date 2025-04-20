@@ -1,0 +1,13 @@
+{
+  "title": "它们仨",
+  "content": "[[include :scp-wiki-cn:theme:black-highlighter-theme]]\n[[include :scp-wiki-cn:theme:jakstyle]]\n\n@@ @@\n\n\n[[image http://scpsandboxcn.wikidot.com/local--files/iceredtea/3-white-horses-tiny.png]]\n@@ @@\n\n[[image http://scpsandboxcn.wikidot.com/local--files/iceredtea/three-white-horses-tiny.png]]\n@@ @@\n\n[[image http://scpsandboxcn.wikidot.com/local--files/iceredtea/white-horse-tiny.png]]\n\n@@ @@\n@@ @@\n@@ @@\n\n+ [https://scp-wiki-cn.wikidot.com/7000contesttheycallmetim 它们仨！]\n\n@@ @@\n@@ @@\n@@ @@\n@@ @@\n[[collapsible show=\"More from fairydoctor\" hide=\"Close me!\"]]\n__SCPs__:\n\n[[module ListPages created_by=\"fairydoctor\" separate=\"no\" tags=\"scp, -joke\" perPage=\"2\" order=\"created_at\" prependLine=\"||~ SCP ||~ Created ||~ Rating ||~ Comments ||~ Length ||\"]]\n|| %%title_linked%% || %%created_at%% || %%rating%% || %%comments%%  || %%size%% ||\n[[/module]]\n\n__GoI Formats__:\n[[module ListPages created_by=\"fairydoctor\" separate=\"no\" tags=\"goi-format\" perPage=\"2\" order=\"created_at\" prependLine=\"||~ SCP ||~ Created ||~ Rating ||~ Comments ||~ Length ||\"]]\n|| %%title_linked%% || %%created_at%% || %%rating%% || %%comments%%  || %%size%% ||\n[[/module]]\n\n__Foundation Tales__:\n\n[[module ListPages created_by=\"fairydoctor\" separate=\"no\" tags=\"tale\" perPage=\"2\" order=\"created_at\" prependLine=\"||~ SCP ||~ Created ||~ Rating ||~ Comments ||~ Length ||\"]]\n|| %%title_linked%% || %%created_at%% || %%rating%% || %%comments%%  || %%size%% ||\n[[/module]]\n[[/collapsible]]\n\n@@ @@",
+  "tags": [
+    "艺术作品"
+  ],
+  "author": "Ice  Red Tea",
+  "created_at": "2022-08-24T02:46:04+00:00",
+  "updated_at": "2022-08-24T02:46:56+00:00",
+  "rating": 0,
+  "_site": "scp-wiki-cn",
+  "_fullname": "art:three-of-them"
+}

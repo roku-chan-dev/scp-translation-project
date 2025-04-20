@@ -1,0 +1,25 @@
+{
+  "title": "Samsara",
+  "content": "[[include theme:3law]]\n\n[!--\nPlease do not edit this page or any of its child pages. If you spot a spelling or grammar error, please leave a comment about it on the discussion page and one of the Apotheosis team members will deal with it.\n--]\n\n[[>]]\n[[module Rate]]\n[[/>]]\n\n[!--\nFragments:\nhttp://scp-wiki.wikidot.com/fragment:samsara-1\nhttp://scp-wiki.wikidot.com/fragment:samsara-2\nhttp://scp-wiki.wikidot.com/fragment:samsara-3\nhttp://scp-wiki.wikidot.com/fragment:samsara-4\n--]\n\n[[module ListPages category=\"fragment\" parent=\".\" limit=\"1\" order=\"created_at\" offset=\"@URL|0\"]]\n%%content%%\n[[/module]]\n\n----\n\n[[=]]\n,,**<<** [[[The Lord of Endowments]]] | ##blue|Samsara ##**>>**,,\n[[/=]]\n\n[[include :scp-wiki:component:license-box\n|author=A Random Day and TyGently]]\n====\n[!-- N/A (No Images)  --]\n====\n[[include :scp-wiki:component:license-box-end]]",
+  "tags": [
+    "_licensebox",
+    "_listpages",
+    "action",
+    "chase",
+    "co-authored",
+    "fantasy",
+    "military-fiction",
+    "mtf2016",
+    "prometheus",
+    "samsara",
+    "science-fiction",
+    "tale",
+    "third-law"
+  ],
+  "author": "A Random Day",
+  "created_at": "2016-03-06T23:51:06+00:00",
+  "updated_at": "2024-04-27T14:07:57+00:00",
+  "rating": 229,
+  "_site": "scp-wiki",
+  "_fullname": "samsara"
+}

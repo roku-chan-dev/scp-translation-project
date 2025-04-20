@@ -1,0 +1,13 @@
+{
+  "title": "就住在这吧",
+  "content": "[[include :scp-wiki-cn:theme:black-highlighter-theme]]\n[[include :scp-wiki-cn:theme:scp-archive]]\n[[tabview]]\n[[tab 人员档案]]\n\n**ID：**HoaxX\n\n**真实姓名：**左在存\n\n@@ @@\n@@ @@\n//不同的人看到不同的我。//\n\n[[/tab]]\n[[tab 翻译和原创]]\n[[include :scp-wiki:component:author-page\norder=created_at desc |\ntranslation=yes |\nsortbar=no]]\n[[/tab]]\n\n[[tab ？的捏人乐园]]\n\n[[collapsible show=\"+ 《？》眼中的左在存\" hide=\"- 谢谢\"]]\n[[=image http://scpsandboxcn.wdfiles.com/local--files/collab%3Ahoaxx-s-personnel-file/猫猫头.png width=\"400\"]]\n[[/collapsible]]\n[[collapsible show=\"+ 是笑眯眯的猫猫头\" hide=\"- meow\"]]\n[[=image http://scpsandboxcn.wdfiles.com/local--files/collab%3Ahoaxx-s-personnel-file/左在存半身.png width=\"400\"]]\n[[/collapsible]]\n[[collapsible show=\"+ 长大后的左在存\" hide=\"- 是《？》做的噩梦\"]]\n[[=image http://scpsandboxcn.wdfiles.com/local--files/collab%3Ahoaxx-s-personnel-file/长大后的左在存.png width=\"400\"]]\n[[/collapsible]]\n[[collapsible show=\"+ 困倦的左在存\" hide=\"- 猫猫也要睡觉\"]]\n[[=image http://scpsandboxcn.wdfiles.com/local--files/collab%3Ahoaxx-s-personnel-file/困倦的左在存.png width=\"400\"]]\n[[/collapsible]]\n[[collapsible show=\"+ 正在记录的左在存\" hide=\"- 知道啦，我会完成的\"]]\n[[=image http://scpsandboxcn.wdfiles.com/local--files/collab%3Ahoaxx-s-personnel-file/记录的左在存.png width=\"400\"]]\n[[/collapsible]]\n//玩得开心哦。//\n[[/tab]]\n\n[[tab 自检用]]\n[[include component:author-page-tool]]\n[[/tab]]\n[[/tabview]]",
+  "tags": [
+    "作者"
+  ],
+  "author": "HoaxX",
+  "created_at": "2022-12-21T14:34:51+00:00",
+  "updated_at": "2023-09-16T05:48:32+00:00",
+  "rating": 8,
+  "_site": "scp-wiki-cn",
+  "_fullname": "hoaxx-s-personnel-file"
+}

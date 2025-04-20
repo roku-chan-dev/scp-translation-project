@@ -1,0 +1,14 @@
+{
+  "title": "Guruguru",
+  "content": "[[module css]]\n#header {\n  background: none;\n}\n#header:before {\n  display: block;\n  position: absolute;\n  width: 100px;\n  height: 100px;\n  top: 22%;\n  left: 2%;\n  z-index: -1;\n  content: \"\";\n  background: url(/local--files/component:theme/logo.png) 0px 0px no-repeat;\n  background-size: 100px 100px;\n  -webkit-animation: spin 1s linear infinite;\n       -o-animation: spin 1s linear infinite;\n          animation: spin 1s linear infinite;\n}\n@media (max-width: 479px) {\n  #header:before {\n    width: 56px;\n    height: 56px;\n    background-size: 56px 56px;\n    top: 40%;\n    left: -1%;\n    transform-origin: 28px 28px;\n  }\n}\n@media (min-width: 480px) and (max-width: 580px) {\n  #header:before {\n    width: 66px;\n    height: 66px;\n    top: 35%;\n    left: -1%;\n    background-size: 66px 66px;\n    transform-origin: 33px 33px;\n  }\n}\n@media (min-width: 581px) and (max-width: 767px) {\n  #header:before {\n    width: 78px;\n    height: 78px;\n    top: 30%;\n    left: -1%;\n    background-size: 78px 78px;\n    transform-origin: 39px 39px;\n  }\n}\n@media (min-width: 768px) and (max-width: 979px) {\n  #header:before {\n    top: 27%;\n    width: 88px;\n    height: 88px;\n    background-size: 88px 88px;\n    transform-origin: 44px 44px;\n  }\n}\n@-webkit-keyframes spin {\n  0% {\n    -webkit-transform: rotateZ(0deg);\n  }\n  100% {\n    -webkit-transform: rotateZ(360deg);\n  }\n}\n@-moz-keyframes spin {\n  0% {\n    -moz-transform: rotateZ(0deg);\n  }\n  100% {\n    -moz-transform: rotateZ(360deg);\n  }\n}\n@-ms-keyframes spin {\n  0% {\n    -ms-transform: rotateZ(0deg);\n  }\n  100% {\n    -ms-transform: rotateZ(360deg);\n  }\n}\n@-o-keyframes spin {\n  0% {\n    -o-transform: rotateZ(0deg);\n  }\n  100% {\n    -o-transform: rotateZ(360deg);\n  }\n}\n@keyframes spin {\n  0% {\n    transform: rotateZ(0deg);\n  }\n  100% {\n    transform: rotateZ(360deg);\n  }\n}\n[[/module]]",
+  "tags": [
+    "jp",
+    "コンポーネント"
+  ],
+  "author": "R74",
+  "created_at": "2022-07-22T08:27:10+00:00",
+  "updated_at": "2022-07-22T08:27:55+00:00",
+  "rating": 4,
+  "_site": "scp-jp",
+  "_fullname": "component:guruguru"
+}

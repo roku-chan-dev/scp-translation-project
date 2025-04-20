@@ -1,0 +1,17 @@
+{
+  "title": "Foundations",
+  "content": "[[include :scp-wiki:component:scp-pride]]\n\n[[>]]\n[[module Rate]]\n[[/>]]\n\n[!-- Editing this page may royally mess up the code for displaying the iterations. If you notice an error that needs to be fixed, message the author (me) or comment on the discussion page. --]\n\n[[module ListPages category=\"fragment\" parent=\".\" limit=\"1\" order=\"created_at\" offset=\"@URL|0\"]]\n%%content%%\n[[/module]]\n\n[!-- For translators, here is a direct link to each iteration. --]\n[!-- http://www.scp-wiki.net/fragment:foundations-1 --]\n[!-- http://www.scp-wiki.net/fragment:foundations-2 --]\n[!-- http://www.scp-wiki.net/fragment:foundations-3 --]\n[!-- http://www.scp-wiki.net/fragment:foundations-4 --]\n[!-- http://www.scp-wiki.net/fragment:foundations-5 --]\n[!-- To make ListPages work correctly, make this main page first, then upload the first iteration and set its parent to the first page. Repeat that for each iteration. Remember to change the offset links at the bottom of each iteration to the the correct link for your site. --]\n\n[[include :scp-wiki:component:license-box]]\n[!-- N/A (No Images)  --]\n[[include :scp-wiki:component:license-box-end]]",
+  "tags": [
+    "_licensebox",
+    "_listpages",
+    "black-queen",
+    "doctor-scranton",
+    "tale"
+  ],
+  "author": "The Great Hippo",
+  "created_at": "2018-09-08T10:01:31+00:00",
+  "updated_at": "2024-04-27T11:20:48+00:00",
+  "rating": 59,
+  "_site": "scp-wiki",
+  "_fullname": "foundations"
+}

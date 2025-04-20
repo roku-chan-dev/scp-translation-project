@@ -1,0 +1,13 @@
+{
+  "title": "more-by:tstaffor",
+  "content": "[[module CSS]]\n.beeg-text .collapsible-block .collapsible-block-link {\n    font-size: 25px;\n}\n[[/module]]\n\n\n[[=]]\n[[module Rate]]\n[[>]]\n+ Porridge\n[[/>]]\n[[div class=\"beeg-text\"]]\n[[collapsible show=\"□ More by Tstaffor □\" hide=\"▣ More by Tstaffor ▣\"]]\n\n[[[tstaffor-s-author-page|Tstaffor's Author page!]]]\nIf you like my writing, check out my Podcast with [[*user Luxaiko]]!\n[[[The Scip Squad Podcast Hub]]]\n[[module ListPages created_by=\"Tstaffor\" separate=\"no\" order=\"rating desc\" tags=\"+scp\" prependLine=\"||||~ [[size 120%]]SCPs[[/size]] ||\"]]\n|| %%title_linked%% || Rating: ##green|%%Rating%%## ||\n[[/module]]\n\n[[module ListPages created_by=\"Tstaffor\" separate=\"no\" order=\"rating desc\" tags=\"+tale\" prependLine=\"||||~ [[size 120%]]Tales[[/size]] ||\"]]\n|| %%title_linked%% || Rating: ##green|%%Rating%%## ||\n[[/module]]\n\n[[module ListPages created_by=\"Tstaffor\" separate=\"no\" order=\"rating desc\" tags=\"+goi-format\" prependLine=\"||||~ [[size 120%]]GOI Formats[[/size]] ||\"]]\n|| %%title_linked%% || Rating: ##green|%%Rating%%## ||\n[[/module]]\n\n[[module ListPages created_by=\"Tstaffor\" separate=\"no\" order=\"rating desc\" tags=\"+hub\" prependLine=\"||||~ [[size 120%]]Hubs[[/size]] ||\"]]\n|| %%title_linked%% || Rating: ##green|%%Rating%%## ||\n[[/module]]\n\n[[module ListPages created_by=\"Tstaffor\" category=\"art\" separate=\"no\" order=\"rating desc\" tags=\"+artwork\" prependLine=\"||||~ [[size 120%]]Art[[/size]] ||\"]]\n|| %%title_linked%% || Rating: ##green|%%Rating%%## ||\n[[/module]]\n\n[[/collapsible]]\n[[/div]]\n[[/=]]",
+  "tags": [
+    "more-by"
+  ],
+  "author": "Tstaffor",
+  "created_at": "2022-06-21T01:22:03+00:00",
+  "updated_at": "2022-07-14T23:06:05+00:00",
+  "rating": 6,
+  "_site": "scp-wiki",
+  "_fullname": "more-by:tstaffor"
+}

@@ -1,0 +1,14 @@
+{
+  "title": "Wildman8's Author Page",
+  "content": "[[>]]\n[[module Rate]]\n[[/>]]\n\n\nHello, and welcome to my author page! I’m Wildman8, or Wild for short. I’ve been an avid reader of SCPs since 2015, but only started writing my own in 2018. Since then I’ve created all sort of anomalies, from giant bacteriophages to time travelers. I don’t really have a consistent theme or topic of interest as far as I can tell. I just write about whatever comes to mind. Feel free to check out my completed articles, along with whatever I’m currently concocting in my [*http://scpsandbox2.wikidot.com/wildman8 sandbox page], and let me know what you think!\n\n\n\n\n[[=]]\n+ SCPs:\n\n[[module ListPages created_by=\"Wildman8\" separate=\"no\" tags=\"scp\" order=\"rating\" prependLine=\"||~ SCP ||~ Rating ||~ Comments ||~ Created ||~ Last Comment ||\"]]\n|| %%title_linked%% || %%rating%% || %%comments%% || %%created_at%% || %%commented_at%% ||\n[[/module]]\n\n[[/=]]\n\n[[=]]\n+ Collaborations:\n\nI worked together with Heshman96 to create [[[http://www.scp-wiki.net/scp-3727|SCP-3727]]].\n\n[[/=]]\n[[include :scp-wiki:component:license-box]]\n[[include :scp-wiki:component:license-box-end]]",
+  "tags": [
+    "_licensebox",
+    "author"
+  ],
+  "author": "Wildman8",
+  "created_at": "2018-05-16T19:00:59+00:00",
+  "updated_at": "2022-10-22T17:39:38+00:00",
+  "rating": 33,
+  "_site": "scp-wiki",
+  "_fullname": "wildman8-s-author-page"
+}

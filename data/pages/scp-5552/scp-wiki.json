@@ -1,0 +1,25 @@
+{
+  "title": "SCP-5552",
+  "content": "[[include info:start]]\n**SCP-5552**: Our Stolen Theory\n\n> No one is owed an answer. \n\n**Author:** [[*user Captain Kirby]]\n[[=]]\n+++++ SCPs\n[[/=]]\n[[module ListPages created_by=\"Captain Kirby\" order=\"rating desc\" separate=\"no\" tags=\"scp\" perPage=\"250\" prependLine=\"||~ SCP Number ||~ Rating ||\"]]\n|| %%title_linked%% || %%rating%% ||\n[[/module]]\n[[=]]\n+++++ Tales\n[[/=]]\n[[module ListPages created_by=\"Captain Kirby\" order=\"rating desc\" separate=\"no\" tags=\"tale\" perPage=\"250\" prependLine=\"||~ Title ||~ Rating ||\"]]\n|| %%title_linked%% || %%rating%% ||\n[[/module]]\n[[=]]\n+++++ GOI Formats\n[[/=]]\n[[module ListPages created_by=\"Captain Kirby\" order=\"rating desc\" separate=\"no\" tags=\"goi-format\" perPage=\"250\" prependLine=\"||~ Title ||~ Rating ||\"]]\n|| %%title_linked%% || %%rating%% ||\n[[/module]]\n[[include info:more]]\n++++ You may also like:\n\n**[[[SCP-3450]]]** - OC DO NOT STEAL [[*User Relevart]]\n\n> SCP-3450 is a text document containing a work of fan fiction featuring characters from the Kirby video game series.\n\n**[[[SCP-2003]]]** - Preferred Option by [[*User Kalinin]]\n\n> SCP-2003 is an apparatus allowing a limited degree of travel to and from periods of time in advance of those encountered in the normal course of space-time as understood by mainstream science.\n\n[[include info:end]]\n\n[[module ListPages  category=\"fragment\" parent=\".\" limit=\"1\" order=\"created_at\" offset=\"@URL|0\"]]\n%%content%%\n[[/module]]\n\n@@ @@\n\n@@ @@\n\n[[footnoteblock]]\n[[div class=\"footer-wikiwalk-nav\"]]\n[[=]]\n<< [[[SCP-5551]]] | SCP-5552 | [[[SCP-5553]]] >>\n[[/=]]\n[[/div]]\n\n[!-- For translators, here is a direct link to each iteration. --]\n[!-- http://www.scp-wiki.net/fragment:scp-5552-1/noredirect/true --]\n[!-- http://www.scp-wiki.net/fragment:scp-5552-2/noredirect/true --]\n[!-- http://www.scp-wiki.net/fragment:scp-5552-3/noredirect/true --]\n[!-- http://www.scp-wiki.net/fragment:scp-5552-4/noredirect/true --]\n[!-- http://www.scp-wiki.net/fragment:scp-5552-5/noredirect/true --]\n[!-- http://www.scp-wiki.net/fragment:scp-5552-6/noredirect/true --]\n[!-- http://www.scp-wiki.net/fragment:scp-5552-7/noredirect/true --]\n[!-- http://www.scp-wiki.net/fragment:scp-5552-8/noredirect/true --]\n\n[!-- To make ListPages work correctly, make this main page first, then upload the first iteration and set its parent to the first page. Repeat that for each iteration. Remember to change the offset links at the bottom of each iteration to the the correct link for your site. --]\n\n[[include component:license-box]]\n=====\n> **Filename:** Hyper_Wormhole.jpg\n> **Name:** Hyper Wormhole.jpg\n> **Author:** Federico Ciccarese\n> **License:** CC BY-SA 4.0\n> **Source Link:** [https://commons.wikipedia.org/wiki/file:hyper_Wormhole.jpg Wikimedia Commons]\n=====\n[[include component:license-box-end]]",
+  "tags": [
+    "_cc",
+    "_licensebox",
+    "_listpages",
+    "document",
+    "electronic",
+    "extradimensional",
+    "global-occult-coalition",
+    "meta",
+    "paradox",
+    "safe",
+    "scp",
+    "temporal",
+    "transfiguration"
+  ],
+  "author": "Captain Kirby",
+  "created_at": "2020-04-10T20:35:26+00:00",
+  "updated_at": "2023-09-01T14:11:59+00:00",
+  "rating": 603,
+  "_site": "scp-wiki",
+  "_fullname": "scp-5552"
+}

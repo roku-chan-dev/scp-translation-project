@@ -1,0 +1,27 @@
+{
+  "title": "SCP-8992",
+  "content": "[[div style=\"display: none;\"]]\n[[include component:image-block name=800Xi.png|caption=~]]\n[[/div]]\n\n\n[[module CSS]]\n#page-content .license-box .collapsible-block {\n    display: unset;\n    text-align: unset;\n    padding: unset;\n    background-color: unset;\n    border-top: unset;\n    border-bottom: unset;\n}\n#page-content .license-box .collapsible-block .collapsible-block-content {\n    text-align: unset;\n}\n[[/module]]\n\n[[>]]\n[[module Rate]]\n[[/>]]\n\n[[module ListPages  category=\"fragment\" parent=\".\" limit=\"1\" order=\"created_at\" offset=\"@URL|0\"]]\n%%content%%\n[[/module]]\n\n[!-- https://scp-wiki.wikidot.com/fragment:8000contestdysadron-1 --]\n[!-- https://scp-wiki.wikidot.com/fragment:8000contestdysadron-2 --]\n[!-- https://scp-wiki.wikidot.com/fragment:8000contestdysadron-3 --]\n@@@@\n@@@@\n@@@@\n@@@@\n@@@@\n@@@@\n@@@@\n@@@@\n@@@@\n@@@@\n@@@@\n@@@@\n@@@@\n@@@@\n@@@@\n@@@@\n@@@@\n@@@@\n@@@@\n@@@@\n@@@@\n@@@@\n@@@@\n@@@@\n[[include :scp-wiki:component:license-box]]\n=====\n> **Filename:** 800Xi.png\n> **Name:** Skull-Icon.svg\n> **Author:** Steaphan Greene\n> **License:** CC-BY-SA 3.0\n> **Source Link:** https://commons.wikimedia.org/wiki/File:Skull-Icon.svg\n> **Additional Notes:** Edits made by [[*user Dysadron]]\n\n>**Filename:** Ezra.jpg\n> **Name:** Adriaan Venema (1970).jpg\n> **Author:** Joost Evers / Anefo\n> **License:** Public Domain\n> **Source Link:** https://commons.wikimedia.org/wiki/File:Adriaan_Venema_%281970%29.jpg\n\n=====\n[[include :scp-wiki:component:license-box-end]]",
+  "tags": [
+    "8000",
+    "_cc",
+    "_listpages",
+    "cadaver",
+    "cognitohazard",
+    "document",
+    "esoteric-class",
+    "humanoid",
+    "mind-affecting",
+    "mobile",
+    "observational",
+    "sapient",
+    "scp",
+    "sensory",
+    "uncontained"
+  ],
+  "author": "Dysadron",
+  "created_at": "2024-02-18T16:44:41+00:00",
+  "updated_at": "2024-03-11T16:46:45+00:00",
+  "rating": 122,
+  "_site": "scp-wiki",
+  "_fullname": "scp-8992"
+}

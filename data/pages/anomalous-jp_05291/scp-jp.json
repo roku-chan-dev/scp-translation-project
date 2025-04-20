@@ -1,0 +1,14 @@
+{
+  "title": "05291",
+  "content": "content: \"**説明:** 一定以上の量がある頭髪に対して使用することで、頭髪を整えることができる石器、弓矢、棍棒など12点\\n**回収日:** 20██/██/██\\n**回収場所:** 理髪店『barber - Rian』\\n**現状:**希望する職員に対し貸出可能。\"\ntf2: '0'\nauthor: ''\nredirect-b: '[[module Redirect destination=\"http://ja.scp-wiki.net/log-of-anomalous-items-jp'\nredirect-e: '\"]]'",
+  "tags": [
+    "jp",
+    "剪定対象-子"
+  ],
+  "author": "Kuronohanahana",
+  "created_at": "2024-11-22T02:18:33+00:00",
+  "updated_at": "2025-04-02T15:17:13+00:00",
+  "rating": 12,
+  "_site": "scp-jp",
+  "_fullname": "anomalous-jp:05291"
+}

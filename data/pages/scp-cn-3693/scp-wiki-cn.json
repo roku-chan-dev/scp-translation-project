@@ -1,0 +1,19 @@
+{
+  "title": "SCP-CN-3693",
+  "content": "[[>]]\n[[module Rate]]\n[[/>]]\n\n**项目编号：**SCP-CN-3693\n\n**项目等级：**Euclid\n\n**特殊收容措施：**以SCP-CN-3693为中心，半径为0.5公里的周边区域已被封锁，用于防止平民进入。需有至少五名安保人员定期在封锁区域周围巡视。一旦项目出现异动需立刻通知就近站点，并根据《基金会标准疏散条约》来对周围群众进行疏散，从而避免不必要的小规模帷幕破碎事件。\n\n已在SCP-CN-3693下方挖出一半径为10米的空洞，用于放置加热器。\n\n[[include component:image-block\n| name=http://scpsandboxcn.wikidot.com/local--files/aegnuspicture/bigcat.jpg\n| caption=SCP-CN-3693。\n]]\n\n**描述：**SCP-CN-3693是一座长约37.5米，宽约10.2米，高约14.3米的狮身人面像，位于埃及吉萨省开罗内（29° 58′ 31″ N, 31° 8′ 16″ E）。项目大约在公元前2600年左右被制成。\n\n构成项目的所有石料都没有任何异常特质。项目的异常之处在于，项目会不断地以一种类似于猫科动物行走的方式移动到其所能感知到的范围[[footnote]]测试项目感知范围的实验被否决。[[/footnote]]内的最大热源处。因此，基金会人为制造了一台可将热度最大提升到200摄氏度的加热器，从而将SCP-CN-3693锁定在了其现在所在的位置。\n\n\n\n[[footnoteblock]]\n\n[[div class=\"footer-wikiwalk-nav\"]]\n[[=]]\n<< [[[SCP-CN-3692]]] | SCP-CN-3693 | [[[SCP-CN-3694]]] >>\n[[/=]]\n[[/div]]",
+  "tags": [
+    "euclid",
+    "scp",
+    "人造物品",
+    "原创",
+    "建筑",
+    "异常移动",
+    "自主"
+  ],
+  "author": "Aegnus",
+  "created_at": "2024-03-15T01:29:22+00:00",
+  "updated_at": "2024-10-21T00:15:25+00:00",
+  "rating": 68,
+  "_site": "scp-wiki-cn",
+  "_fullname": "scp-cn-3693"
+}

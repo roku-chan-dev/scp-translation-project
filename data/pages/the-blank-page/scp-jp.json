@@ -1,0 +1,16 @@
+{
+  "title": "空白のページ",
+  "content": "[[include :scp-jp:theme:black-highlighter-theme]]\n[[include :scp-wiki:theme:minimalist-bhl]]\n\n[[module CSS]]\n:root {\n     --header-title: \"SCP財団\";\n     --header-subtitle: \"非現実部門\";\n     --lgurl: url('http://scp-jp-storage.wdfiles.com/local--files/file%3A2375337-413-zz1e/Unreality%20Header%20Logo.svg');\n}\n[[/module]]\n\n[[include :scp-jp:credit:start]]\n**タイトル:** 空白のページ\n**著者:** [[*user Prime Girl]]\n**原語版(EN):** [[[https://scp-wiki.wikidot.com/the-blank-page|The Blank Page]]]\n**訳者:** [[*user buta_otoko]]\n**参照リビジョン:** //19//\n[[include :scp-jp:credit:end]]\n\n[[include :scp-wiki:component:image-features-source |hover-enlarge=--]\n|enlarge-amount=0\n|speed=500\n|float=true\n|align=center\n|width=90%\n|url=http://scp-jp-storage.wikidot.com/local--files/file:8299414-46-9p8e/The%20Empty%20Page.jpeg\n|add-caption=false\n|caption= None\n]]\n\nあなたは怯えながら空のページを見つめる。\nペンを執る。\nしかし、インクが切れていることに気づく。\n大それたことを始めることはできない。言葉が出てくる時も、正しい順序で出てこない。\nオフィスに目をやっても何も捉えない。\n壁に掛かっている時計に目をやっても針が付いてないし数字も無い。\n自宅軟禁にするならもっと良い軟禁場所はあるだろう。ここは家ではないし、あなたは逮捕されている訳でもないのだが。むしろあなたについての調査という内容であれば、如何にもその仕事の最中のようだ。\n彼らはあなたをこのオフィスに入れ、知り得ることを書くように言ったが、あなたは何を知っている?それにしても、何故彼らはあなたを雇ったのだろうか?それ以前に何かあったのだろうか?\n**何を知っている?**そう財団は問う。\n@@@@\n何も。\n@@@@\n\n夢の無い眠りと眠れない夢。\n何か、本気で何か、何かになり得るであろう何かしらを思い出す為に頭をひねる。思い出せるものは殆どなく、頭に思い浮かぶのは空白のページのみ。そこに何かを書こうと試みるが、インクが切れていることを思い出す。新たなページを再度想像する。自身の頭の中で本をまるまる書き上げる。目に見えないインクで書かれた半透明な本。あるかどうかも分からない図書館の中、亡霊じみた本の山。\n@@@@\n図書館だ。\n@@@@\n\n本を読んだことを思い出す。それらを愛していること。それらが生きていること、或いはそうしてきたと想像し、その中で生きていること。\n少なくとも、本を愛していた子供であったこと、または本を愛していた子供の本を読んだことを思い出す。\n最後に良い本を、或いはそういった内容の本を読んだのはいつだっただろうか?\nお気に入りの本の文章を書き出し、それらを頭の中に焼き付けようと試みる。\n文章を思い出すことはできないが、くっきりとその文章を覚えている。\nコンテストは何年も前のことだった、作文コンテスト、ハロウィンのコンテスト、必須のコンテスト。学校で、言葉を使って怖いハロウィンの絵を教師のために描いている子供たち。優勝者は校内誌に掲載された。優勝者は重要ではなかったし、一度も重視されなかった。遅れてきた参加者の彼は、このように読める字の書かれた、シンプルなポスターを作った:\n[[div class=\"blockquote\"]]\n= [[size 2.5em]]空白のページ[[/size]]\n@@@@\n@@@@\n@@@@\n@@@@\n= [[size 2.5em]]それは恐怖[[/size]]\n\n= (先生にとって)\n[[/div]]\n\n彼、そしてそのポスターがどうなったのか考える。\nそれは数年前だった、何年前かは分からないが、その時あなたはいなかった。\n考えてみれば、何故それが教師にとって怖かったのか分からない。生徒のストレスになったのだろう。\n[[[/bagel|空腹か恐怖のどちらかで]]]胃に穴が開く感じがする。\nオフィスで腰を下ろす。\n立ち上がり、ペースを上げる。\nちらりと時計を見る。\n **何を知っている?** そう財団は問う。\nオフィスで腰を下ろす。\nあなたは全てを書く。\n\n[[include :scp-wiki:component:image-features-source |hover-enlarge=--]\n|enlarge-amount=0\n|speed=500\n|float=true\n|align=center\n|width=90%\n|url=http://scp-jp-storage.wikidot.com/local--files/file:8299414-48-1e04/Polish_20230723_180401445.jpg\n|add-caption=false\n|caption= None\n]]",
+  "tags": [
+    "en",
+    "tale",
+    "アレックス・ソーリー",
+    "非現実部門"
+  ],
+  "author": "buta_otoko",
+  "created_at": "2023-09-01T23:38:38+00:00",
+  "updated_at": "2023-09-01T23:39:48+00:00",
+  "rating": 12,
+  "_site": "scp-jp",
+  "_fullname": "the-blank-page"
+}

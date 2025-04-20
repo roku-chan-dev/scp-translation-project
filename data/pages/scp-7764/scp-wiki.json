@@ -1,0 +1,28 @@
+{
+  "title": "SCP-7764",
+  "content": "[[=]]\n[[module Rate]]\n[[/=]]\n[[module ListPages category=\"fragment\" parent=\".\" order=\"created_at\" limit=\"1\" offset=\"@URL|0\"]]\n%%content%%\n[[/module]]\n[!--\nfragment pages:\n* fragment:scp-7764-0\n* fragment:scp-7764-1\n--]\n\n[[div class=\"footer-wikiwalk-nav\"]]\n[[=]]\n<< [[[SCP-7763]]] | SCP-7764 | [[[SCP-7765]]] >>\n[[/=]]\n[[/div]]\n\n[[include :scp-wiki:component:license-box]]\n> **Filename:** mohammadv.jpg\n> **Name:** مطار محمد الخامس بالدار البيضاء\n> **Author:** Anass Sedrati\n> **License:** CC BY-SA 4.0\n> **Source Link:** [[[https://commons.wikimedia.org/wiki/File:%D9%85%D8%B7%D8%A7%D8%B1_%D9%85%D8%AD%D9%85%D8%AF_%D8%A7%D9%84%D8%AE%D8%A7%D9%85%D8%B3_%D8%A8%D8%A7%D9%84%D8%AF%D8%A7%D8%B1_%D8%A7%D9%84%D8%A8%D9%8A%D8%B6%D8%A7%D8%A1.jpg]]]\n\n> **Filename:** raisa.png\n> **Name:** RAISA Logo\n> **Author:** [[*user EstrellaYoshte]]\n> **License:** CC BY-SA 3.0\n> **Source Link:** [[[desk-of-junior-designer-s-yvonne]]]\n\n> **Filename:**  ethics-committee.png\n> **Name:** Ethics Committee Logo\n> **Author:** [[*user EstrellaYoshte]]\n> **License:** CC BY-SA 3.0\n> **Source Link:** [[[desk-of-junior-designer-s-yvonne]]]\n\n> **Filename:** pataphysics_logo.svg\n> **Name:** Pataphysics Logo\n> **Author:** [[*user TSATPWTCOTTTADC]]\n> **License:** CC BY-SA 3.0\n> **Source Link:** [[[theme:deus-ex-machina]]]\n\n> **Filename:** pataphysics_logo_ani.svg\n> **Name:** Pataphysics Logo (Animated)\n> **Author:** [[*user Woedenaz]]\n> **License:** CC BY-SA 3.0\n> **Source Link:** [[[theme:pataphysics]]]\n> **Derivative Of:** Pataphysics Logo\n\n> **Name:** Foxtrot Theme\n> **Author:** [[*user Liryn]]\n> **License:** CC BY-SA 3.0\n> **Source Link:** [[[theme:foxtrot]]]\n> **Additional Notes:** Page theme.\n\n> **Name:** Site-17 Deepwell Catalog\n> **Authors:** [[*user Liryn]], [[*user Nagiros]], [[*user Placeholder McD]]\n> **License:** CC BY-SA 3.0\n> **Source Link:** [[[site-17-hub]]]\n> **Additional Notes:** CSS styling.\n\n> **Name:** SCP Offices Theme\n> **Author:** [[*user Woedenaz]]\n> **License:** CC BY-SA 3.0\n> **Source Link:** [[[theme:scp-offices-theme]]]\n> **Additional Notes:** CSS styling.\n\n> **Name:** SCP Offices Theme (Sigma-9)\n> **Authors:** [[*user Dr Lekter]], [[*user macro_au_micro]]\n> **License:** CC BY-SA 3.0\n> **Source Link:** [[[theme:scp-offices-sigma]]]\n> **Additional Notes:** CSS styling.\n> **Derivative Of:** SCP Offices Theme\n[[include :scp-wiki:component:license-box-end]]",
+  "tags": [
+    "_cc",
+    "_licensebox",
+    "_listpages",
+    "concept",
+    "deepwell-catalog",
+    "director-graham",
+    "esoteric-class",
+    "ethics-committee",
+    "foundation-made",
+    "knowledge",
+    "lampeter",
+    "memory-affecting",
+    "narrative",
+    "scp",
+    "uncontained",
+    "vehicle"
+  ],
+  "author": "tachymelia",
+  "created_at": "2024-02-28T05:20:28+00:00",
+  "updated_at": "2025-02-26T04:56:40+00:00",
+  "rating": 27,
+  "_site": "scp-wiki",
+  "_fullname": "scp-7764"
+}

@@ -1,0 +1,16 @@
+{
+  "title": "SCP-5971",
+  "content": "[[module ListPages category=\"fragment\" parent=\".\" order=\"created_at\" limit=\"1\" offset=\"@URL|0\"]]\n%%content%%\n[[/module]]\n\n\n[[footnoteblock]]\n@@@@\n@@@@\n\n@@@@\n@@@@\n[[div class=\"footer-wikiwalk-nav\"]]\n[[=]]\n<< [[[SCP-5970]]] | SCP-5971 | [[[SCP-5972]]] >>\n[[/=]]\n[[/div]]",
+  "tags": [
+    "keter",
+    "scp",
+    "人形生物",
+    "声音"
+  ],
+  "author": "ashausesall",
+  "created_at": "2020-08-23T11:39:07+00:00",
+  "updated_at": "2020-09-13T10:46:45+00:00",
+  "rating": 0,
+  "_site": "scp-wiki-cn",
+  "_fullname": "scp-5971"
+}

@@ -1,0 +1,25 @@
+{
+  "title": "SCP-8727",
+  "content": "[[include component:preview\ntext=\nWhy did the Foundation purchase this church?\n]]\n\n[[include :scp-wiki:component:scp-pride]]\n[[>]]\n[[module rate]]\n[[/>]]\n[[module ListPages category=\"fragment\" parent=\".\" order=\"created_at\" limit=\"1\" offset=\"@URL|0\"]]\n%%content%%\n[[/module]]\n\n\n[!-- https://scp-wiki.wikidot.com/fragment:scp-8727-1\nhttps://scp-wiki.wikidot.com/fragment:scp-8727-2 --]\n\n@@@@\n@@@@\n@@@@\n@@@@\n@@@@\n@@@@\n@@@@\n@@@@\n@@@@\n[[include :scp-wiki:component:license-box]]\n=====\n> **Filename:** church.jpg\n> **Name:** Kolleg St Ludwig06.jpg\n> **Author:** Markus Schweiss\n> **License:** CC BY SA 3.0\n> **Source Link:** [https://commons.wikimedia.org/wiki/File:Kolleg_St_Ludwig06.jpg Wikimedia Commons]\n\n> **Filename:** cat-2.jpg\n> **Name:** Panama Canal construction LCCN2006680089\n> **Author:** Miscellaneous Items in High Demand, PPOC, Library of Congress\n> **License:** Public Domain\n> **Source Link:** [https://commons.wikimedia.org/wiki/File:Panama_Canal_construction_LCCN2006680089.jpg Wikimedia Commons]\n\n> **Filename:** handle.png\n> **Name:** Emergency Brake\n> **Author:** N/A\n> **License:** CC 0\n> **Source Link:** [https://pxhere.com/en/photo/1210676 Pxhere]\n\n> **Filename:** thetruth.jpg\n> **Name:** Last breath.JPG\n> **Author:** Dimitra.\n> **License:** CC BY-SA 4.0\n> **Source Link:** [https://commons.wikimedia.org/wiki/File:Last_breath.JPG Wikimedia Commons]\n\n> **Filename:** exhumation.jpg\n> **Name:** Palmiry - exhumation of Mieczysław Niedziałkowski.jpg\n> **Author:** Unknown Author\n> **License:** Public Domain\n> **Source Link:** [https://commons.wikimedia.org/wiki/File:Palmiry_-_exhumation_of_Mieczys%C5%82aw_Niedzia%C5%82kowski.jpg Wikimedia Commons]\n\n\n\n[[include :scp-wiki:component:license-box-end]]",
+  "tags": [
+    "_cc",
+    "_cc4",
+    "_licensebox",
+    "_listpages",
+    "building",
+    "exchange",
+    "fire",
+    "mind-affecting",
+    "musical",
+    "religious",
+    "safe",
+    "scp",
+    "thaumaturgy"
+  ],
+  "author": "Uncle Nicolini",
+  "created_at": "2025-04-16T04:55:12+00:00",
+  "updated_at": "2025-04-17T18:33:43+00:00",
+  "rating": 30,
+  "_site": "scp-wiki",
+  "_fullname": "scp-8727"
+}

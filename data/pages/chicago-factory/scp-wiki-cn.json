@@ -1,0 +1,20 @@
+{
+  "title": "Carroll 280号/R-01221",
+  "content": "[[module css]]\n#page-title {\n  display: none;\n}\n[[/module]]\n\n[[module ListPages category=\"fragment\" parent=\".\" order=\"created_at\" limit=\"1\" offset=\"@URL|0\"]]]\n\n\n\n%%content%%\n\n\n[[/module]]\n\n[[include component:earthworm\n  first=true | last=false | hub=yes |\n  previous-url=/ | previous-title=/ |\n  next-url=/scp-4256 | next-title=SCP-4256 |\n  hub-url=/collaboration-contest| hub-title=合著竞赛 |\n]]\n[!-- http://scp-wiki-cn.wikidot.com/fragment:chicago-factory-1\nhttp://scp-wiki-cn.wikidot.com/fragment:chicago-factory-2 --]",
+  "tags": [
+    "2019合著竞赛",
+    "_工厂",
+    "_芝加哥鬼灵",
+    "goi格式",
+    "richard-chappell",
+    "合著",
+    "工厂",
+    "芝加哥鬼灵"
+  ],
+  "author": "Tunardine777",
+  "created_at": "2019-08-04T12:33:23+00:00",
+  "updated_at": "2021-10-30T09:23:23+00:00",
+  "rating": 2,
+  "_site": "scp-wiki-cn",
+  "_fullname": "chicago-factory"
+}

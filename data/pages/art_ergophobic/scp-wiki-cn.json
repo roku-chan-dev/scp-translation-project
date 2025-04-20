@@ -1,0 +1,14 @@
+{
+  "title": "工作恐惧",
+  "content": "[[include :scp-wiki-cn:theme:basalt darkmode=a|hidetitle=a]]\n\n[[module CSS]]\n\n@import url('https://scp-wiki.wikidot.com/local--files/scp-8980/departuremono.css');\n\n:root {\n    --logo: url(http://scptestwiki.wikidot.com/local--files/sigma:lol/ecw.png);\n    --header-title: \"伦理委员会\";\n    --header-subtitle: \"内部记录保存界面\";\n    --basalt-primary-color: 0, 15, 0;\n    --basalt-secondary-color: 0, 22, 0;\n    --basalt-tertiary-color: 0, 30, 0;\n    --ec-popup-color: 10, 70, 10;\n    --basalt-bright-element-color: 16, 184, 16;\n    --basalt-dark-element-color: 10, 150, 10;\n    --rfr-primary: #E0F6FD;\n    --rfr-secondary: lightskyblue;\n}\n\nbody {\n    background: linear-gradient(rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.8)), url(\"https://scp-wiki.wikidot.com/local--files/scp-8980/fractal.webp\");\n    background-position: center, center;\n    background-size: cover;\n    background-attachment: scroll, fixed;\n}\n\nb, strong {\n    font-weight: 800;\n}\n\ntable {\n    box-sizing: border-box;\n}\n\n#top-bar div[class*=\"top-bar\"] > ul > li > a {\n    font-size: 115%;\n}\n\n.page-title {\n    border-bottom: solid 1px #424248;\n    font-weight: normal;\n    margin: 0 0 0.6em;\n    padding: 0 0 0.25em;\n    font-size: 200%;\n    font-family: var(--title-font);\n}\n\n.page-title p {\n    margin: 0;\n}\n\n#breadcrumbs, .pseudocrumbs {\n    margin: auto;\n    width: fit-content;\n    padding-bottom: 5px;\n    opacity: 0.8;\n}\n\n.licensebox .collapsible-block-link {\n    opacity: 0.5;\n    transition-duration: 0.3s;\n}\n\n.licensebox .collapsible-block-link:hover {\n    opacity: 1;\n    transition-duration: 0.3s;\n}\n[[/module]]\n\n[[=image https://scp-wiki.wdfiles.com/local--files/art:ergophobic/8980.jpg]]",
+  "tags": [
+    "艺术作品",
+    "颜料画"
+  ],
+  "author": "LeeBr",
+  "created_at": "2024-11-11T23:33:02+00:00",
+  "updated_at": "2024-11-17T10:17:57+00:00",
+  "rating": 5,
+  "_site": "scp-wiki-cn",
+  "_fullname": "art:ergophobic"
+}

@@ -1,0 +1,13 @@
+{
+  "title": "_404",
+  "content": "[[div style=\"max-width: 520px; margin: 0 auto;\"]]\n\n[[div style=\"background-color: #222; border: solid 1px #222; border-radius: 20px; color: #fff; max-width: 700px; margin-bottom: 1.25rem; font-size: 150%; text-align: center; box-shadow:0 2px 6px rgb(0 0 0 / 50%), inset 0 10px 20px rgb(204 204 204 / 30%), inset 0 -15px 30px rgb(0 0 0 / 50%); line-height: 100%; padding: 0 10px; text-align: center; color: white; font-weight: bold;\"]]\n[[size 125%]]This page doesn't exist.[[/size]]\n[[/div]] \n\nYou are currently attempting to create a {{theme:}} page. The creation of theme pages is monitored by the Technical Team, as per the **[[[CSS Policy]]]**.\n\nPlease review the CSS Policy to ensure that your theme is compliant with all portions of the CSS Policy, and get approval from an Operational or higher member of the **[http://05command.wikidot.com/technical-staff-main Technical Team]**.\n\n----\n= If you are ready to proceed, then you may **[[button edit text=\"create the page\"]]**.\n\n[[/div]]",
+  "tags": [
+    "admin"
+  ],
+  "author": "stormbreath",
+  "created_at": "2020-04-29T23:39:28+00:00",
+  "updated_at": "2022-02-24T09:04:09+00:00",
+  "rating": 30,
+  "_site": "scp-wiki",
+  "_fullname": "theme:_404"
+}

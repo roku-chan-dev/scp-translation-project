@@ -1,0 +1,14 @@
+{
+  "title": "SCP-308-KO-2",
+  "content": "[[module css]]\n@import url('https://fonts.googleapis.com/css?family=Hi+Melody');\n\n@import url('https://scpko.wdfiles.com/local--files/korean-font/NotoSerifKR.css');\n[[/module]]\n\n[[div style=\"border:solid 1px #999999; background:#f2f2c2; padding:5px; margin-bottom: 10px;\"]]\n[[=]]\n++++ 서버 자동 알림 메세지\n\n해당 판본은 이미 갱신된 과거(**2057.04.09**)의 판본입니다. 최근 판본을 확인해주시길 바랍니다.\n\n[[/=]]\n[[/div]]\n\n@@@@\n@@@@\n@@@@\n\n**일련번호:** SCP-308-KO\n\n**등급:** 유클리드\n\n**특수 격리 절차:** SCP-308-KO는 격리할 수 없으나, 현재까지 역정보를 이용한 장막 정책이 효율적이라고 판단되기 때문에 유지한다. 또한 발생 횟수가 적으며, 실질적으로 영향이 크지 않아 변칙성이 밝혀질 확률이 낮아 유클리드 등급을 부여한다. 2047년 이후 세계 인터넷 연결이 무의미해졌기 때문에 웹 크롤링 봇은 사용하지 않는다.\n\n**설명:** SCP-308-KO는 해가 뜨거나 질 무렵 알 수 없는 이유로 하늘의 색상이 변화하는 현상이다. 2057년 기준 연간 약 30회 가량 발생하고 있다.\n\nSCP-308-KO를 보는 대상은 이러한 변화가 심미적으로 아름답다고 여기게 된다. 또한 이로 인해 변칙적인 정도의 만족감을 얻게 되는데, 해당 만족감은 공격성을 줄이거나 정신안정에 도움이 되는것으로 추정된다. 또한 이러한 변칙성은 직접 체험 외에 매체를 통한 경우 현저히 낮아져 비변칙적인 만족감과 큰 차이가 나지 않는다.\n\n최초 기록된 2020년 이후 연간 발생률은 점점 하락했으며, 2046년 8월 급락하였다. 원인은 불명이나 2046년 TNB사건과 관련되었으리라 짐작된다.\n\n@@@@\n@@@@\n@@@@\n@@@@\n@@@@\n\n[[span style=\"font-family: 'Hi Melody' ; font-size: 130%;\"]]\n아빠는요?\n[[/span]]\n[[span style=\"font-family: 'NotoSerifKR' ; font-size: 110%;\"]]\n전산 확인중입니다.\n...\n접속 기록 확인되지 않음.\n[[/span]]\n[[span style=\"font-family: 'Hi Melody' ; font-size: 130%;\"]]\n...\n[[/span]]\n\n@@@@\n@@@@\n\n[[span class=\"blink\"]]\n[[=]]\n[http://scpko.wikidot.com/scp-308-ko/offset/2 해당 문서의 다음 판본: 2072.11.23]\n[[/=]]\n[[/span]]",
+  "tags": [
+    "ko",
+    "조각문서"
+  ],
+  "author": null,
+  "created_at": "2022-11-02T16:10:31+00:00",
+  "updated_at": "2024-11-04T13:24:11+00:00",
+  "rating": 0,
+  "_site": "scpko",
+  "_fullname": "fragment:scp-308-ko-2"
+}

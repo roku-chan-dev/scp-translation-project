@@ -1,0 +1,16 @@
+{
+  "title": "우주의 역사 허브",
+  "content": "[[include info:start-standalone]]\n**우주의 역사 허브**\n**저자:** [[*user RJB_R]] //et al.//\n**원작:** http://scp-wiki.wikidot.com/history-of-the-universe-hub\n**역자:** [[*user Cubic72]]\n[[include info:end]]\n\n[[div class=\"blockquote\" style=\"border-radius: 10px; margin: 10px\"]]\n[[module ListUsers users=\".\"]]\n환영합니다, %%title%%!\n[[/module]]\n이 에세이는 SCP 위키의 시작으로 거슬러 올라가 지금까지의 연대기입니다. 저는 우리가 어디에 있었는지와 우리의 역사를 쉽게 기억할 수 있게 하기 위해서 이걸 만들었습니다. 사람들은 자신들이 어디에서 왔고, 어디로 가고 있는지를 쉽고 흥미로운 방법으로 배울 자격이 있습니다.\n\n만약 철자, 문법, 혹은 구문에서 오류를 발견하신다면, 자유롭게 수정해주세요. 만약 역사상 부정확한 사실을 발견했다고 생각하신다면, 제게 그에 대해 설명하는 개인 메시지를 보내주신다면 곧 수정하거나 설명하겠습니다. \n\n저는 당신이 여기에 제시된 정보들을 교육적이고 계몽적이라고 여기고, 이전에 알지 못했던 것을 알게 되었기를 바라겠습니다.\n[[/div]]\n\n[[div class=\"blockquote\" style=\"border-radius: 10px; margin: 10px\"]]\n[[=]]\n+ SCP 재단 커뮤니티의 역사\n++ [[[History of the Universe Part One|우주의 역사 제1부]]]:\n,,//__\"재단\"__ 2007-2008 - by [[*user Roget]] and [[*user Modern_Erasmus]]//,,\n++ [[[History of the Universe Part Two|우주의 역사 제2부]]]:\n,,//__\"lol재단에서 Grimdark로\"__ 2009 - by [[*user Roget]]//,,\n++ [[[History of the Universe Part Three|우주의 역사 제3부]]]:\n,,//__\"성장통\"__ 2010 - by [[*user Roget]]//,,\n++ [[[History of the Universe Part Four|우주의 역사 제4부]]]:\n,,//__\"성숙\"__ 2011 - by [[*user Roget]]//,,\n++ [[[History of the Universe Part Five|우주의 역사 제5부]]]:\n,,//__\"Containment Breach의 시대\"__ 2012 - by [[*user Roget]] and [[*user Modern_Erasmus]]//,,\n++ 우주의 역사 제6부 (Coming Soon!)\n,,//__\"Well, now what do we do?\"__ 2013 - by [[*user Roget]], [[*user Modern_Erasmus]], and [[*user Decibelles]]//,,\n[[/=]]\n[[/div]]\n[[div class=\"blockquote\" style=\"border-radius: 10px; margin: 10px\"]]\n++++ 공식 추가/보충 작품\n++++ **[[[Supplementary Material|보충 자료]]]** - by [[*user Roget]]\n++++ **[[[A Brief History Of SCP-RU|]]]** - by [[*user Roget]]\n++++ **[[[A Brief History Of SCP-KO|]]]** - by [[*user Roget]]\n++++ **[[[about-the-foundation-in-germany|독일 지부의 간략한 역사]]]** - by [[*user Dr_Grom]]\n++++ **[[[a-history-of-object-classes|객체 등급의 기원]]]** - by [[*user cooldude971]]\n++++ **[[[An Interview With \"The Administrator\"|\"관리자\"와의 인터뷰]]]** - by [[*user Roget]]\n++++ **[[[A Brief History Of Foundation RP|재단 역할 놀이의 간략한 역사]]]** - by [[*user Roget]]\n[[/div]]",
+  "tags": [
+    "_이야기-허브",
+    "en",
+    "에세이",
+    "허브"
+  ],
+  "author": "Cubic72",
+  "created_at": "2013-11-12T02:46:03+00:00",
+  "updated_at": "2021-04-18T15:44:49+00:00",
+  "rating": 4,
+  "_site": "scpko",
+  "_fullname": "history-of-the-universe-hub"
+}

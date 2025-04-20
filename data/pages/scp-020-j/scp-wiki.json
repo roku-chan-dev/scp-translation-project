@@ -1,0 +1,21 @@
+{
+  "title": "SCP-020-J",
+  "content": "[[include component:preview\ntext=\nIn which the Foundation kicks the bucket.\n]]\n\n[[include :scp-wiki:component:scp-pride]]\n[[>]]\n[[module Rate]]\n[[/>]]\n[[include component:image-block\n    name=bucket.jpg|\n    caption=SCP-020-J prior to containment.]]\n\n**Item #:** SCP-020-J\n\n**Object Class:** Safe\n\n**Special Containment Procedures:** A wall has been constructed around SCP-020-J to prevent subjects from perceiving it.\n\nAdditionally, the fifth-floor stairs on the B-wing have been permanently sealed off. Personnel are asked to instead use the elevator or the A-wing stairs.\n\n**Description:** SCP-020-J is a dark blue plastic mop bucket. If a subject perceives the object, they will be compelled to approach SCP-020-J and kick it. Upon striking the object the subject will cease all further life functions and instantly expire via anomalous means. \n\nThough SCP-020-J responds to the force it is struck with appropriately, it does not exhibit signs of damage.\n\n**Discovery:** SCP-020-J was discovered outside Site-30's 5th-floor janitor closet alongside the corpses of Janitor Worth, five site guards, D-1221, and [[[http://scp-wiki.wikidot.com/orientation-for-the-pastaphysics-department|Dr. Cimmerian]]].\n\nAs the corpses were initially believed to be the results of a containment breach, additional site guards were deployed to the area. Fifteen of the deployed guards were observed to self-terminate via SCP-020-J through security cameras.\n\nEighteen D-Class personnel were dispatched to the area in an attempt to secure the object, resulting in the self-termination of all involved subjects. Lead Researcher Jade then instructed the remaining D-Class personnel to kick SCP-020-J down the hallway and towards a corner, then cover it. Following the self-termination of twelve additional D-Class personnel, SCP-020-J was successfully contained.\n@@ @@\n@@ @@\n@@ @@\n@@ @@\n[[include component:wikimodule |normal= --]]]",
+  "tags": [
+    "_cc",
+    "cognitohazard",
+    "compulsion",
+    "doctor-cimmerian",
+    "indestructible",
+    "joke",
+    "safe",
+    "scp",
+    "tool"
+  ],
+  "author": "Uncle Nicolini",
+  "created_at": "2019-03-08T16:58:01+00:00",
+  "updated_at": "2025-02-04T21:20:04+00:00",
+  "rating": 182,
+  "_site": "scp-wiki",
+  "_fullname": "scp-020-j"
+}

@@ -1,0 +1,21 @@
+{
+  "title": "SCP-6555",
+  "content": "[[include :scpko:theme:black-highlighter-theme]]\n[[include :scp-wiki:theme:jakstyle]]\n[[module CSS]]\n.footnotes-footer {\ndisplay: none;\n}\n[[/module]]\n\n[[include :scpko:info:start]]\n**SCP-6555:** 파도를 일으킨 것\n**저자:** [[*user JakdragonX]] & [[*user Ralliston]]\n**원작:** http://scp-wiki.wikidot.com/scp-6555\n**역자:** [[*user Aiken Drum]]\n----\n[[=]]\n[[*user JakdragonX]]와 [[*user Ralliston]]이 공저함\n\n**[https://scpko.wikidot.com/jakdragonx-rage-collection 잭드래곤X의 작가 페이지]**\n\n**[https://scpko.wikidot.com/ralliston-s-authorpage 랠리스톤의 작가 페이지]**\n\n**[https://scpko.wikidot.com/ongoing-incident-jakdragonx-ralliston 잭드래곤X와 랠리스톤의 공동 작가 페이지]**\n[[/=]]\n\n[[include :scpko:info:end]]\n\n[[size 1%]]##transparent|.##[[/size]]\n\n[[include component:image-block name=http://scp-wiki.wikidot.com/local--files/scp-6555/galaxy.jpg|caption=XEO 8537-A이 내부에 위치한 은하의 사진. 타키온 스캐너로 촬영|width=350px]]\n\n**일련번호:** SCP-6555\n\n**등급:** 안전\n\n**특수 격리 절차:** 가장 가까운 인류가 거주하는 정착지와의 거리를 고려해, SCP-6555는 격리할 필요 없다.\n\n**설명:** SCP-6555는 XEO 8537-A[[footnote]]소형 암석질 왜행성으로 표면에 헬륨-3이 고농축되어 있지만, 어떠한 주변 항성도 공전하지 않는다.[[/footnote]]라는 떠돌이 천체에 위치한 미확인 구조물의 잔해를 지칭한다. 심우주 위성들이 희미한 전자기 요동을 감지한 뒤 26,576 HE에서 발견되었으며, SCP-6555는 중심지에서 구식 긴급무선주파수를 계속해서 송출하고 있다.\n\nSCP-6555의 관측하기 위해 XEO 8537-A의 표면에 배치된 연구관측선으로는 현재까지 결정적인 단서를 얻지 못했다. SCP-6555의 내부를 탐사한 결과 다음과 같은 결과를 얻었다.\n* SCP-6555의 구성과 배치를 보아 어느 한 시점에 이 구조물은 반모듈식이었다. 북서쪽과 동쪽 구역에서 뒤틀린 강철과 부서진 합성 화합물이 탐사 중에 발견되었고, 이는 표면에 상당한 충격이 가해졌음을 보여준다.[[footnote]]XEO 8537-A에 대해 얻을 수 있던 정보에 따르면 소행성 혹은 외행성의 잦은 충돌 이력은 없다고 확인되었다.[[/footnote]]\n* SCP-6555의 남쪽 지역 인근에 위치한 15A호실에는 면직물과 울, 접착제, 강철 코일 스프링으로 만들어진 직사각형 물체 다수가 곳곳에 산발적으로 놓여있다.\n* 06호실에 있는 물을 채운 둥근 플라스틱 용기 등 기타 미확인 물품들 또한 구조물 내에 위치하고 있다.\n* SCP-6555 내에 존재하는 환기, 공기조절 및 여타 기초적 수준의 시스템은 건물 내부가 한때 적절히 관리되고 산소가 공급되었음을 나타낸다.\n* 고대 포유류 유기체와 거의 동일한 DNA 구성을 가진 다양한 칼슘 조각들과 인대(靭帶)가 SCP-6555의 중심 전송기 인근에서 발견되었다. 조각들은 최소 수천년 이상된 것으로 여겨지며, 이는 부패가 비상적으로 빠르며, 변칙적일 가능성이 있음을 나타낸다.\n\n**부록 6555-1:** SCP-6555이 발견되고 몇달 뒤, 재단 인원이 송출되는 내용을 번역해냈으며, 다음과 같은 메시지를 얻어냈다.\n\n[[div class=\"blockquote\"]]\n= 우린 한때 잃었던 것을 되찾는 일에 가까워졌습니다. 파도를 일으키고 세상을 뒤흔든 것이 우리를 다시 이끌 것입니다. 믿음을 잃지 마십시오. 이처럼 [[[sotmhub|집으로 가는 길을 찾는 일에]]] 가까웠던 적이 없습니다.\n[[/div]]\n\nXEO 8537-A에서 얻을 수 있던 법의학적 데이터를 분석했으나 결정적인 단서는 없었다. 그러나 SCP-6555 내에 다수의 재단의 휘장이 새겨져 있어, 추가적인 조사가 계류 중이다.\n\n[[collapsible show=\"+ 획득된 위성 이미지 접근\" hide=\"- 획득된 위성 이미지 닫기\"]]\n[[include component:image-block\n    name=http://scp-wiki.wikidot.com/local--files/scp-6555/moon.png|\n    caption=XEO 8537-A의 표면 상공에서 촬영된 이미지.|\n    align=center |\n    width=100%\n]]\n[[/collapsible]]\n\n[[footnoteblock]]\n\n[[include :scp-wiki:component:license-box\n|author=JakdragonX and Ralliston]]\n=====\n> **File Name:** galaxy.jpg\n> **Source:** [https://search.creativecommons.org/photos/d42a5d3a-8523-4cdc-8989-4346343333b1 Click Here]\n> **License:** CC BY 2.0\n> **Author:** [https://www.flickr.com/photos/24662369@N07 NASA Goddard Space Flight Center]\n> **File Name:** moon.png\n> **Source:** [http://scp-wiki.wikidot.com/local--files/scp-6555/moon.png Click Here]\n> **Derived From:** [https://www.flickr.com/photos/24662369@N07/8252445443 This image] from NASA Goddard Space Flight Center and licensed under Attribution 2.0 Generic, and [https://www.flickr.com/photos/37472264@N04/5811265766 also this] from the European Space Agency and licensed under Attribution-ShareAlike 2.0 Generic\n> **License:** Creative Commons Attribution-ShareAlike 3.0 License\n> **Author:** [[*user gremlingroup]]\n=====\n[[include :scp-wiki:component:license-box-end]]",
+  "tags": [
+    "en",
+    "scp",
+    "sotm",
+    "공저",
+    "구조",
+    "안전",
+    "외계",
+    "위성",
+    "전송"
+  ],
+  "author": "Aiken Drum",
+  "created_at": "2021-08-22T10:00:01+00:00",
+  "updated_at": "2025-02-02T15:35:36+00:00",
+  "rating": 4,
+  "_site": "scpko",
+  "_fullname": "scp-6555"
+}

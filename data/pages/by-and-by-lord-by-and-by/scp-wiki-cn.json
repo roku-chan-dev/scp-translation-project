@@ -1,0 +1,14 @@
+{
+  "title": "你时常会想起那些，你曾深爱的人们",
+  "content": "[[include :scp-wiki-cn:component:info-ayers\n|lang=cn\n|page=scp-7113[!-- url of your page on the scp wiki --]\n|authorPage=http://www.scp-wiki.net/dr-cimmerian-s-personnel-file[!-- link to your author page --]\n|comments= 令那轮回绵延不绝。\n]]\n\n[[include :scp-wiki-cn:theme:black-highlighter-theme]]\n[[module CSS]]\nsup {\nvertical-align: top; position: relative; top: -0.5em;\n}\n:root{\n--cutColour: #fafafa;\n--barColour: #590505;\n}\n\n.info-container .collapsible-block-folded a{\ncolor: #FFF;}\n.info-container .collapsible-block-unfolded-link a{\ncolor: #FFF;}\n\n.translation_block{\ndisplay:none;}\n[[/module]]\n[[module css]]\n#side-bar {\n    background: rgb(var(--white-monochrome));\n}\n\n#side-bar div.menu-item a, #side-bar div.menu-item .text {\n    color: rgb(var(--black-monochrome));\n}\n\n#side-bar>div:nth-child(5) {\n    background-color: rgba(var(--dark-accent),0.25)!important;\n}\n[[/module]]\n\n我出生时拖着一双残疾的腿、一对羸弱的胳膊和失去了一片肺叶的身躯。那时的我几近失明，一只眼睛什么也看不见，另一只则处在半盲的状态。长期的隐痛充盈着我全身。在我五岁那年，医生说我活不到我30岁的生日，他静穆的声色中满怀着悲怆的语调。\n\n我父亲相信了这个骗局。\n\n第一场手术很快便到来了。尽管那些庸医骗客声称我再也无法被治好，我的父母仍不遗余力地拯救着我。他们愈发地穷困潦倒，这样的日子没能持续太久，母亲很快便在满腔痛苦中去世。接着，父亲也便崩溃了。\n\n他开始笃信神于我自有其安排。他的信念得到了机械教会牧师们的认可，于是他祈求他们的宽恕。牧师们应允了此。他献祭自身的一部分，予与机械技工们以换得钢铁与骨骼。\n\n他们说，主已破碎。他们说，主便如我。他们赋予我光明，更令我在地上行走。最终，我成为肉身与机械同等而存的孩子。父亲便认为我终于被拯救了。\n\n但他们所有人，都被诓骗了。\n\n神不应是破碎的。\n\n我的父亲在此之后便脱离了信仰。他已在与教会的交易中让我恢复健康。我们虚伪的肉体下隐藏起自身的变化，于是生活回归正常。\n\n那些金属与我共同生长，牧师们或许并未窥见他们神祇的本源，但是他们仍不失为工技大师。我已胜与往日，我已强健于侪辈，更为迅捷，也更显锋芒。\n\n但我知其深刻而永恒的真理——我非完整。于是，在我成年之际，我回到了教会。在那里，归属感曾一度占据了我的心灵。我立下了誓言：成为机械教会牧师。于是，我精心修进着我的技艺，我将他人的血肉取走，打造成更精美的物器。那些经我手而救治之人，他们的尖叫都终究化作了对我的祝福。\n\n我每修缮一人，便离我主更近。于是招来了别的牧师们的嫉恨，这嫉恨令他们称我为异端。他们称，唯有主动选择这种生活的人才值得被改变。\n\n但如果我们迟迟等待，又如何完成未竟之事业？于是我便离去，并打造了此间圣殿——正是我于此处发现了我主遗落的心，并安置它在这礼拜之地。\n\n我把心脏倾入洗礼室内，如今我们沐浴在圣膏油中。当我跨入其中，我感受到自身的空缺被逐渐填补。我的皮肤变得坚硬，骨骼在断裂中重组。它终于修复了我，正如修复了所有人。\n\n伟大的机器保持着迅疾的运转，但它并非完整。我将把土地上的每一块血肉都转化为钢铁与代码。我将规劝在此的诸君一同圆满我主——无论您尖啸或否。\n\n前来此处是你们最为正确的良措，而我亦不会如尔等所求般停下这伟大的工作。我会向你们展现主的光辉。\n\n我们将令你完整。\n\n我发誓。\n\n[[include :scp-wiki-cn:component:license-box\n|author=Doctor Cimmerian\n|translator=Kanie Ja\n]]\n[!-- N/A (No Images)  --]\n[[include :scp-wiki-cn:component:license-box-end]]",
+  "tags": [
+    "故事",
+    "破碎之神教会"
+  ],
+  "author": "Kanie Ja",
+  "created_at": "2022-12-12T09:20:18+00:00",
+  "updated_at": "2022-12-12T09:22:04+00:00",
+  "rating": 8,
+  "_site": "scp-wiki-cn",
+  "_fullname": "by-and-by-lord-by-and-by"
+}

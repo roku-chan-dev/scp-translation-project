@@ -1,0 +1,22 @@
+{
+  "title": "SCP-6185",
+  "content": "[[include :scp-wiki-cn:theme:black-highlighter-theme]]\n[[include :scp-wiki-cn:theme:jakstyle]]\n[[module CSS]]\n.document {\n    background: white url('http://scpdsandbox.wdfiles.com/local--files/darkartist-s-hub-for-drafts-or-whatever/sphere%20smells%20like%20fart%20sometimes') center center no-repeat;\n    box-shadow: 0 0 10px rgba(0, 0, 0, 0.3);\n    margin: 26px auto 0;\n    max-width: 550px;\n    min-height: 300px;\n    padding: 24px;\n    padding-top: 50px;\n    position: relative;\n    width: 80%;\n    color: black;\n}\n \n.document:before,\n.document:after {\n    content: \" \";\n    height: 98%;\n    position: absolute;\n    width: 100%;\n    z-index: -1;\n}\n \n.document:before {\n    background: #fafafa;\n    box-shadow: 0 0 8px rgba(0, 0, 0, 0.2);\n    left: -5px;\n    top: 4px;\n    transform: rotate(-2.5deg);\n}\n \n.document:after {\n    background: #f6f6f6;\n    box-shadow: 0 0 3px rgba(0, 0, 0, 0.2);\n    right: -3px;\n    top: 1px;\n    transform: rotate(1.4deg);\n}\n[[/module]]\n\n[[include :scp-wiki-cn:component:anomaly-class-bar-source\n|lang= cn\n|item-number= SCP-6185\n|clearance= 2\n|container-class= euclid\n|secondary-class= none\n|disruption-class= dark\n|risk-class= caution\n]]\n-----\n**特殊收容措施：**已在SCP-6185周边设立坚固的铁围栏。收容区域需要由一伪装成护林员的指定守卫单独巡逻。上述人员需防止任何平民接近SCP-6185的收容区域。\n\n在必需时视察收容区域，以确保SCP-6185的健康。在必需时也要执行浇水或施肥等举措，以确保SCP-6185-A健康。\n\n对SCP-6185-B的接触需保持在最低限。在照料SCP-6185-A时，其攻击性行为无需视为有害，因此也无需回应。\n\n**描述：**SCP-6185是两件异常物品的统称。SCP-6185-A是一种未知落叶树种的幼苗，高0.4m。SCP-6185-A最显著的异常特性是任何试图物理接触[[footnote]]这一效应对所有形式的物理接触生效，包括藉由工具的接触。[[/footnote]]其的人员，均会感受到令人无力的恐惧感。该异常效应阻止了一切试图收集SCP-6185-A更多信息的尝试。\n\nSCP-6185-B是一双离体而有行动力的手，曾属于Penny Cooper。SCP-6185-B实例均有使用其手指移动的能力，并会在穿越环境，或与环境互动时互相协助，如同单一个体。两实例均表现出轻度腐败，但组织的分解似乎在发现其之前的某一时点已经停止。SCP-6185-B极其保护SCP-6185-A，但由于其缺乏伤害性的异常特性，这并不会被视为威胁。\n\n**发现：**SCP-6185是在调查Penny Cooper和她新生的婴儿失踪时发现的。Cooper被发现死在离家数百千米的一间小屋内。尸体的显著特征是双手均缺失。由于她死前所写的一条便签，死因推定为自杀。上述区域并未发现她的孩子，且仍然不知所踪。\n\nSCP-6185本身是在清理附近森林的工作由平民发现的。怀疑了尸体与SCP-6185-B之间的关系，并向当地派去了一组收容团队。在首次接触了SCP-6185、并应用了标准平民记忆删除协议后，建立了当前的收容措施。\n\n**补充材料6185/1：**以下是在Penny Cooper住所发现的便签的内容。\n[[collapsible show=\"访问6185/1节选\" hide=\"关闭6185/1节选\"]]\n> Katherine，你总会发现这张便签的；我想跟你说的就是，我很抱歉。我很清楚你有多想要个你自己的孩子。我从来没感受过小孩给我带来的全部烦恼，但你是我的朋友，现在也是，所以我当然会帮你。但是当这真的发生了，我发现我就是不能把她给出去。尽管她现在甚至还没出生，但我现在觉得我真的理解你的观点了。这会让我感觉更加心怀歉意，因为我知道当你发现这一切时会是什么感受。我连想一想离开我的宝贝都做不到。\n> 如果有人能某种程度上理解我，那也就是你了。如果我什么都不做，他们会把她从我这带走。我不奢望你能原谅我，但我发誓我会亲手保护她永远平安。除了我没人能碰她一根毫毛。碰我的宝贝。没人能把她从我这带走，如果我不能照料她，任何人也别想。她现在非常安全。\n> -Penny\n[[/collapsible]]\n**补充材料6185/2：**附加文档\n\n@@ @@\n\n[[div class=\"document\"]]\n\n+++ 人事部 - 请假申请\n\n**姓名：** Gregory Hopkins\n**个人身份编号：** 25519\n**站点：** 197\n**分配至：** SCP-6185\n**事由：** 它对我说话了。它说出了我的名字。她的第一句话。我在听到我自己的儿子开口说话前就听到了它的第一句话。我得抽些时间回家多陪陪我儿子。\n\n**请假时间：** 13/08/2021至31/08/2021\n\n**申请日期：**ㅤ 05/08/2021\n\n[[table style=\"border: none; width: 100%;\"]]\n[[row]]\n[[cell]]\n**签章（申请人）**\n[[/cell]]\n[[cell style=\"text-align: right;\"]]\n**签章（部门负责人）**\n[[/cell]]\n[[/row]]\n[[/table]]\n[[/div]]\n\n@@ @@\n\n[[footnoteblock]]\n\n[[div class=\"footer-wikiwalk-nav\"]]\n[[=]]\n<< [[[SCP-6184]]] | SCP-6185 | [[[SCP-6186]]] >>\n[[/=]]\n[[/div]]",
+  "tags": [
+    "euclid",
+    "scp",
+    "人形生物",
+    "尸体",
+    "异常移动",
+    "感知力",
+    "植物",
+    "移情作用",
+    "肢体",
+    "触觉影响"
+  ],
+  "author": "Jiu_Huan",
+  "created_at": "2022-04-15T04:14:05+00:00",
+  "updated_at": "2022-04-15T04:14:29+00:00",
+  "rating": 8,
+  "_site": "scp-wiki-cn",
+  "_fullname": "scp-6185"
+}

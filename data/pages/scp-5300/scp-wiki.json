@@ -1,0 +1,24 @@
+{
+  "title": "SCP-5300",
+  "content": "[[include :scp-wiki:theme:black-highlighter-theme]]\n[[include :scp-wiki:component:pride-highlighter |inc-lgbt-alt= --]]]\n\n[!-- Remove the page title, add email formatting. --]\n[[module CSS]]\n#page-title {\n    display: none;\n}\n\n.logbox {\n    display: inline-block;\n    float: top;\n    padding: 1px 15px;\n    -moz-box-sizing: border-box;\n    -webkit-box-sizing: border-box;\n    -ms-box-sizing: border-box;\n    box-sizing: border-box;\n    width:100%;\n    margin: auto;\n    border: solid 2px #000000;\n    box-shadow: 0 1px 3px rgba(0,0,0,.5);\n}\n.tofrom {\n    margin-left: 10px;\n    margin-top: 5px;\n    padding: 1px 15px;\n    border-left: solid 3px maroon;\n}\n[[/module]]\n\n[!-- The content for some of these ListPages is pretty minimal. This outer div acts as a container which allows us to put the footer-wikiwalk-nav element at the bottom of the article. --]\n[[div style=\"position: relative; height:100%\"]]\n\n[!-- I don't like the standard layout of the info bar, so here's some hacky shit to make it do what I want without copying all the CSS. --]\n[[include :scp-wiki:component:info-ayers-source | comments=[!--]]\n--]\n[[=]]\n**SCP-5300** - //Ship in a Bottle//\nWritten by [[*user MirageTD]] and [[*user Habitual_Snubnose]]\n[[/=]]\n------\n= **Images (in order of appearance)**\nSCP Location Starchart - Generated with [[[https://github.com/dcf21/star-charter | the StarCharter tool]]], written by Dominic Ford\n[[[https://plus.maths.org/content/imaging-maths-inside-klein-bottle | Klein Bottle with Möbius Band]]] - Doctor Konrad Polthier, Freie Universität Berlin (used with [[file Klein-Bottle_permission.pdf | written permission]] as per [[[https://plus.maths.org/content/terms-use-and-notices | the terms of plus.maths.org]]])\n------\n= **Critters**\nMany thanks to [[*user Dyslexion]], [[*user CaliBold]], [[*user DrAkimoto]], [[*user stormbreath]], OriCat, [[*user gee0765]] and [[*user Uncannyon]] for providing critique and feedback.\n------\n= **Miscellaneous Credits**\nThe end of the fourth paragraph in the introductory email is a paraphrase from [[[http://www.scp-wiki.net/about-the-scp-foundation#wiki-tab-0-0 | the Administrator's note]]].\nThe \"Vietnam book\" Zajic refers to is //The Things They Carried//, by Tim O'Brien.\n------\n[[/div]]\n[[div class=\"u-faq\"]]\n@@ @@\n= [http://www.scp-wiki.net/component:info-ayers F.A.Q.]\n[[/div]]\n[[/collapsible]]\n[[/div]] \n[[module CSS]]\n.info-container .collapsible-block-content br {\n    margin-bottom: 1em;\n}\n.info-container .collapsible-block-content > div:nth-child(1) > p {\n    margin: 1em 2em 1em 2em;\n}\n[[/module]]\n\n[[>]]\n[[module Rate]]\n[[/>]]\n\n[!--\nFragments:\nhttp://scp-wiki.wikidot.com/fragment:scp-5300-1\nhttp://scp-wiki.wikidot.com/fragment:scp-5300-2\nhttp://scp-wiki.wikidot.com/fragment:scp-5300-3\n--]\n\n[[module ListPages category=\"fragment\" parent=\".\" order=\"created_at\" limit=\"1\" offset=\"@URL|0\"]]\n%%content%%\n[[/module]]\n\n@@ @@\n[[div class=\"footer-wikiwalk-nav\"]]\n[[=]]\n<< [[[SCP-5299]]] | SCP-5300 | [[[SCP-5301]]] >>\n[[/=]]\n[[/div]]\n\n[[include component:license-box author=MirageTD & Habitual_Snubnose]]\n=====\n> **Filename:** kleinBottleAnim.gif\n> **Names:** kleinBottle_anim.gif\n> **Author:** Konrad Polthier\n> **License:** Copyrighted //[https://scp-wiki.wdfiles.com/local--files/scp-5300/Klein-Bottle_permission.pdf (used with permission)]//\n> **Source Link:** [https://plus.maths.org/imaging-maths-inside-klein-bottle-15 plus.maths.org]\n\n> **Filename:** wormhole.svg\n> **Author:** [[*user miragetd]], using [https://github.com/dcf21/star-charter StarCharter] by Dominic Ford\n> **License:** CC BY-SA 3.0\n=====\n[[include component:license-box-end]]\n\n[[/div]]",
+  "tags": [
+    "5000",
+    "_cc",
+    "_licensebox",
+    "_listpages",
+    "co-authored",
+    "extradimensional",
+    "extraterrestrial",
+    "location",
+    "portal",
+    "safe",
+    "scp",
+    "spatial"
+  ],
+  "author": "MirageTD",
+  "created_at": "2020-01-16T00:14:28+00:00",
+  "updated_at": "2025-01-22T20:06:52+00:00",
+  "rating": 153,
+  "_site": "scp-wiki",
+  "_fullname": "scp-5300"
+}

@@ -1,0 +1,13 @@
+{
+  "title": "SCP Calendar",
+  "content": "[[>]]\n[[module Rate]]\n[[/>]]\n\n[[div class=\"blockquote\"]]\nThis is a list of all SCP articles, by the year and month they were published. The goal is to provide a visual history of how the SCP Series have changed with time.\n\nSee also:\n* [[[Tale Calendar]]]\n* [[[Page Calendar]]]\n[[/div]]\n\n[[module PageCalendar category=\"_default\"]]\n[[module ListPages category=\"_default\" tags=\"+scp -tale\" perPage=\"100\" date=\"@URL\" separate=\"false\" prependLine=\"||~ Page ||~ Date Published ||~ Created By ||\"]]\n|| %%linked_title%% || %%date%% || %%created_by_linked%% ||\n[[/module]]\n\n[[module css]]\n.page-calendar-box > ul {\n    display: grid;\n    grid-template-columns: repeat(auto-fill, minmax(min(11.5em, 100%), 1fr));\n    row-gap: 1em;\n}\n[[/module]]",
+  "tags": [
+    "admin"
+  ],
+  "author": "aismallard",
+  "created_at": "2021-02-27T21:57:07+00:00",
+  "updated_at": "2023-03-17T09:31:29+00:00",
+  "rating": 34,
+  "_site": "scp-wiki",
+  "_fullname": "scp-calendar"
+}

@@ -1,0 +1,15 @@
+{
+  "title": "SCP-CN-3320",
+  "content": "[[include :scp-wiki-cn:theme:paperstack]]\n[[div class=\"logo\"]]\n[[image https://scp-wiki.wdfiles.com/local--files/theme%3Apaperstack/lgtrans.png]]\n[[/div]]\n\n[[>]]\n[[module Rate]]\n[[/>]]\n\n[[div class=\"header-container-ex\"]]\n[[include component:image-block name=http://scpsandboxcn.wikidot.com/local--files/jianqiaohehongdezuozheye/%E6%96%87-%E9%A1%B9%E7%9B%AE-CN3320-%E5%AE%B6|caption=SCP-CN-3320-1-706个体与SCP-CN-3320-2的照片|width=300px|align=right]]\n[[div class=\"header-info\"]]\n[[div class=\"header-info-flex\"]]\n[[div class=\"text-item\"]]\n[[size 90%]]##grey|**项目编号：**##[[/size]]\n\n[[size 220%]]**CN-3320**[[/size]]\n[[/div]]\n\n[[div class=\"text-item\"]]\n[[size 90%]]##grey|**收容等级：**##[[/size]]\n\n[[size 220%]]**已归档**[[/size]]\n[[/div]]\n[[/div]]\n[[/div]]\n[[/div]]\n\n\n**特殊收容措施：**继续进行SCP-CN-3320-α直至X=6570。\n\n**描述：**SCP-CN-3320为常态社会中由SCP-CN-3320-1-X和SCP-CN-3320-2组成的居住于中国██省██市██街道的美籍家庭。\n\nSCP-CN-3320-1-X为SCP-CN-3320-2的父母基金会员工██及██·史密斯，其异常性质为自从他们的第二个孩子即SCP-CN-3320-2-2出生后，便开始经历SCP-CN-3320-α程序，程序周期为一天：\n\n||~ 时间 ||~ SCP-CN-3320-α节点 ||~ SCP-CN-3320-1-X状态 ||\n|| 上午6:30 || SCP-CN-3320-2全部离开住所 || 存活 ||\n|| 上午7:00 || SCP-CN-3320-1-X主动离开住所内监控监视范围 || 存活 ||\n|| 上午7:05 || 基金会载具将SCP-CN-3320-1-（X+1）送至项目住所附近 || 存活 ||\n|| 上午7:10 || SCP-CN-3320-1-X与SCP-CN-3320-1-（X+1）交接，期间SCP-CN-3320-1-X会失去智能并试图违抗命令前往SCP-CN-3320-2所在地，推测该现象同短生命周期一样，为BZHR合成人类的弊端 || 存活，依靠本能行动 ||\n|| 上午7:15 || SCP-CN-3320-1-X于基金会载具上死亡，SCP-CN-3320-1-（X+1）接替SCP-CN-3320-1-X正常生活至下一个SCP-CN-3320-α开始 || 死亡 ||\n\nSCP-CN-3320-2无异常。\n\n**2015年7月30日 特殊收容措施更新：**在Site-CN-██员工联名请求下，X最大值被提升为6574。\n@@ @@\n@@ @@\n@@ @@\n@@ @@\n@@ @@\n@@ @@\n@@ @@\n@@ @@\n@@ @@\n@@ @@\n= 当前X=6574，项目已归档。\n\n@@ @@\n@@ @@\n@@ @@\n@@ @@\n@@ @@\n@@ @@\n@@ @@\n@@ @@\n@@ @@\n\n[[footnoteblock]]\n\n[[div class=\"footer-wikiwalk-nav\"]]\n[[=]]\n<< [[[SCP-CN-3319]]] | SCP-CN-3320 | [[[SCP-CN-3321]]] >>\n[[/=]]\n[[/div]]",
+  "tags": [
+    "scp",
+    "原创",
+    "机密分级"
+  ],
+  "author": "Mahashi Kazuhiro",
+  "created_at": "2024-09-02T09:47:00+00:00",
+  "updated_at": "2025-01-04T18:28:24+00:00",
+  "rating": 31,
+  "_site": "scp-wiki-cn",
+  "_fullname": "scp-cn-3320"
+}

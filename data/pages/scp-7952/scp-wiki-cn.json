@@ -1,0 +1,21 @@
+{
+  "title": "SCP-7952",
+  "content": "[[include :scp-wiki-cn:theme:black-highlighter-theme]]\n[[include :scp-wiki-cn:component:betterfootnotes]]\n\n[[module css]]\n.footnotes-footer {\ndisplay:none;\n}\n[[/module]]\n\n[[include :scp-wiki:component:author-label-source start=--\n|name=ItsDenali\n|no-right-margin=*]]\n[[=]]\n**SCP-7952：**怜悯他们\nBy [[*user ItsDenali]]\n\n**[https://scp-wiki.wikidot.com/itsdenalis-personnel-file 该作者更多作品]**\n\n[[/=]]\n[[include :scp-wiki:component:author-label-source end=--]]\n\n\n**项目编号：**SCP-7952\n\n**项目等级：**Safe\n\n**特殊收容措施：**SCP-7952被收容于其发现地，该地区已设置警戒线进行隔离，且大门上锁，以防止公众进入。无需额外收容措施。\n\n**描述：**SCP-7952为一组异常人类遗体，位于阿拉斯加州朱诺附近的冰川湾公园与保护区内一狭小洞穴中。该洞穴长度约为20米，高度和直径约为2米；其连通处大部分较为平坦，除了其末端轻微的地势凸起。由于附近有溪流流经洞口，部分洞穴地面被淹没。接近SCP-7952的人员表示其强烈希望不打扰到遗体，同时其对时间的感知减慢；[[footnote]] 后一种现象完全处于感知层面，对象实际时间特征不受影响。 [[/footnote]]观察者越接近该项目，上述两种现象会越强烈。此外，尽管器具被侵蚀至难以明确其初始用途，遗体周围似乎存在印有雕纹的残留物与奇术仪式圈。\n\nSCP-7952还表现出强烈的逆模因性，在视觉方面使其本身模糊，对其进行考察极其困难。照片，视频以及类似图片成像技术也因此性质而受限，导致受影响媒体中的严重失真。因此，一些关于SCP-7952的细节，如其身份，种族，性别或死亡前年龄都无从得知。然而，异常周围发现的物品（见下文）表明，SCP-7952已存在于此地至少数年。\n\n对SCP-7952的深入研究与掘尸检验被认为非必要。\n\n**附录7952.1：**发现SCP-7952后，其身旁发现数件随身物品，包括一个已生锈的手电筒，一本钦定版圣经与一本小日志。发现前，所有物品都遭到严重水损。除了新约部分的几处注解外，整本圣经几乎没有笔记。日志的最后一则内容较为清晰，且已被转录为下文。\n\n[[div class=\"blockquote\" style=\"border-radius: 5px\"]]\n\n//{{@@...@@}}如此憎恨，如此羞耻才能如此专制地支配。想想看，我花了这么多年才看清它的真面目。我们所知的欢乐，我们所感的痛苦，以及这一路上的一切，//{{@@...@@[无法辨识]@@...@@}}//所有，终结于此，生命结束之时。//\n\n//我觉得很奇怪，在眼下如此潮湿、阴暗的世界角落里，我仍感到平静。在这条如此漫长艰辛的路上，从未有过这样高兴的感觉，我说不清。//\n\n= {{[下文除最后三行皆无法辨识。]}}\n\n{{@@...@@}}//都是最糟糕的，不管发生什么。//\n\n//至少我能安心，因为我知道，一切结束之后，Edward和其他人都会没事的。//\n\n//求求了，上帝啊，保佑他们吧。//\n[[/div]]\n\n[[div class=\"footer-wikiwalk-nav\"]]\n[[=]]\n<< [[[SCP-7951]]] | [http://www.scp-wiki.net/itsdenalis-personnel-file 该作者更多作品] | [[[SCP-7953]]] >>\n[[/=]]\n[[/div]]\n\n[[include :scp-wiki-cn:component:license-box\n|author=ItsDenali\n|translator=Ankv\n]]\n\n[[include :scp-wiki-cn:component:license-box-end]]",
+  "tags": [
+    "safe",
+    "scp",
+    "仪式性",
+    "宗教",
+    "尸体",
+    "强迫性",
+    "精神影响",
+    "认知危害",
+    "逆模因"
+  ],
+  "author": "Ankv",
+  "created_at": "2024-11-27T16:57:16+00:00",
+  "updated_at": "2024-11-27T16:57:43+00:00",
+  "rating": 0,
+  "_site": "scp-wiki-cn",
+  "_fullname": "scp-7952"
+}

@@ -1,0 +1,14 @@
+{
+  "title": "用来翻译懒人作者页的模块",
+  "content": "[[iftags +样版]]\n此为用以翻译主站“懒人作者页”的基础工具。它的使用方法与效果，[[[author-page-tool#translation|请参见此处。]]]\n[[/iftags]]\n\n[[include :scpsandboxcn:component:apt-translation name={$name}|rating={$rating}|note={$note}|title={$title}|title={$name}]]",
+  "tags": [
+    "原创",
+    "样版"
+  ],
+  "author": "W Asriel",
+  "created_at": "2018-09-15T17:22:50+00:00",
+  "updated_at": "2018-10-05T06:57:11+00:00",
+  "rating": 2,
+  "_site": "scp-wiki-cn",
+  "_fullname": "component:apt-translation"
+}

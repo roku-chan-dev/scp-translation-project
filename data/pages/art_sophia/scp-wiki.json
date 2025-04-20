@@ -1,0 +1,16 @@
+{
+  "title": "Sophia Light Art",
+  "content": "[[include :scp-wiki:theme:black-highlighter-theme]]\n[[include :scp-wiki:theme:midnight-rush]]\n\n\n[[>]]\n[[module Rate]]\n[[/>]]\n\n[[=]]\n[[include component:image-block\n| name=light.png\n| caption=Testing some colors \n| width=2000x2500\n| align=center]]\n[[/=]]\n\n    [[size larger]]→ more in my [https://scp-wiki.wikidot.com/art:the-florescent-exhibit art page] ←[[/size]]",
+  "tags": [
+    "artwork",
+    "doctor-light",
+    "painted",
+    "personnel-art"
+  ],
+  "author": "MasonFlores",
+  "created_at": "2024-05-27T12:34:53+00:00",
+  "updated_at": "2024-05-28T04:42:37+00:00",
+  "rating": 28,
+  "_site": "scp-wiki",
+  "_fullname": "art:sophia"
+}

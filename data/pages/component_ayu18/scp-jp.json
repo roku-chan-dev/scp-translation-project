@@ -1,0 +1,14 @@
+{
+  "title": "Ayu18",
+  "content": "[[module css]]\n@import url(https://scp-jp-storage.wdfiles.com/local--files/file%3A4053112-154-o6vd/ayu18.css);\n.monoayu{font-size:98%;}\n[[/module]]",
+  "tags": [
+    "jp",
+    "コンポーネント"
+  ],
+  "author": "R74",
+  "created_at": "2024-07-14T18:20:07+00:00",
+  "updated_at": "2024-07-15T03:56:44+00:00",
+  "rating": 10,
+  "_site": "scp-jp",
+  "_fullname": "component:ayu18"
+}

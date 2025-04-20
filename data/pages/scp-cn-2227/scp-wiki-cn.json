@@ -1,0 +1,18 @@
+{
+  "title": "SCP-CN-2227",
+  "content": "[[include :scp-wiki-cn:theme:shivering-night mo=*]]\n[[module CSS]]\n @import url(https://fonts.googleapis.com/css?family=Long+Cang&display=swap);\n\n.aaa {\n    font-family:'Long Cang', cursive;\n    text-shadow: 1 1 1em #FF0000;\n}\n\n.footnotes-footer {\n    display: none;\n}\n:root {\n  --prologue: \"梦 / 于 / 杯 / 中 / 摇 / 碎\"; /* 修改版头正中标语内容 */\n  --prologue-author: \"——SLEEPLESS VOYAGE\"; /* 修改版头正中标语作者/来源内容 */\n  --introduction-setting: none; /* 修改为none可关闭文本变化效果 */\n  --subtitle-content: \"- 无 眠 航 行 -\"; /* 修改副标题内容 */\n }\n[[/module]]\n[[include :scp-wiki-cn:credit:start]]\n= [[size 150%]]SCP-CN-2227[[/size]]\n= [[size 120%]]独醉[[/size]]\n-----\n作者：[[*user Dr Fishbone]]——[[[fishbonefishbone |作者页]]]\n\n图片来源：https://www.pexels.com/zh-cn/photo/1381722/\n\n,,如果你喜欢这种类型的文章，不妨看看[[[SCP-CN-2437]]],,\n[[include :scp-wiki-cn:credit:end]]\n[[include :scp-sandbox-3:image-zoom name=http://fishbone.wikidot.com/local--files/fishbone-imagine/city|caption=在SCP-CN-2227落地窗前可以看到的景象|width=300px|align=right]]\n**项目编号：**SCP-CN-2227\n\n**项目等级：**Euclid\n\n**特殊收容措施：**SCP-CN-2227的入口已被Area-CN-15封锁，禁止持有#3级安保权限以下的人员接近。\n\n**描述：**SCP-CN-2227是长辉市[已编辑]集团所属的办公楼顶层的房间。项目内部相比于楼内其他房间的装修较为简单且仅在面朝落地窗的位置上放置有一单人软沙发作为项目内部唯一的家具。经测试，SCP-CN-2227内部一切电器/电子设施均无法工作。\n\nSCP-CN-2227会在每天23:00~次日2:00有目标独自进入项目内部后表现出异常性质。此时无法从项目外部打开房门直到目标自动离开SCP-CN-2227。目标在进入SCP-CN-2227后通常会选择坐在沙发中，此时目标面前的地板上将出现一瓶符合目标口味的啤酒并在目标饮用完后再以未知方式补充一瓶。\n\nSCP-CN-2227在持续提供啤酒至一定量后[[footnote]] 该数值似乎会随着目标的不同而有差异 [[/footnote]]会停止供应，目标将在SCP-CN-2227提供最后一瓶啤酒瓶下方发现一张纸条：\n[[div class=\"blockquote porthole\"]]\n= [[span class=\"aaa\"]][[size 175%]]灯火璀璨 今夜无眠 愿你抛下烦恼[[/size]][[/span]]\n@@ @@\n= [[span class=\"aaa\"]][[size 175%]]明天，生活还要继续。[[/size]][[/span]]\n[[>]]\n[[span class=\"aaa\"]][[size 150%]]——SLEEPLESS VOYAGE@@  @@[[/size]][[/span]]\n[[/>]]\n[[/div]]\n经确认SCP-CN-2227提供的啤酒与纸条无异常性质。\n\n[[footnoteblock]]\n[[div class=\"footer-wikiwalk-nav\"]]\n[[=]]\n<< [[[SCP-CN-2226]]] | SCP-CN-2227 | [[[SCP-CN-2228]]] >>\n[[/=]]\n[[/div]]",
+  "tags": [
+    "area-cn-15",
+    "euclid",
+    "scp",
+    "原创",
+    "地点",
+    "建筑"
+  ],
+  "author": "Dr Fishbone",
+  "created_at": "2021-04-03T13:45:37+00:00",
+  "updated_at": "2024-11-16T11:54:40+00:00",
+  "rating": 74,
+  "_site": "scp-wiki-cn",
+  "_fullname": "scp-cn-2227"
+}

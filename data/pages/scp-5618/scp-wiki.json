@@ -1,0 +1,19 @@
+{
+  "title": "SCP-5618",
+  "content": "[[include :scp-wiki:theme:blankstyle acs=a|fade=a]]\n\n[!--\nFragments:\nhttp://scp-wiki.wikidot.com/fragment:scp-5618-offset-0\nhttp://scp-wiki.wikidot.com/fragment:scp-5618-offset-1\n--]\n\n[[module ListPages category=\"fragment\" parent=\".\" order=\"created_at\" limit=\"1\" offset=\"@URL|0\"]]\n%%content%%\n[[/module]]\n\n[[=]]\n[[div class=\"footer-wikiwalk-nav\"]]\n<< [[[SCP-5617]]] | SCP-5618 | [[[SCP-5619]]] >>\n[[/div]]\n\n[[div]]\n[[include :scp-wiki:component:license-box]]\n=====\n[[<]]\n> **Filename:** DOTA.png\n> **Author:** [[*user HammerMaiden]] and [[*user HarryBlank]]\n> **License:** CC BY-SA 3.0\n[[/<]]\n=====\n[[include :scp-wiki:component:license-box-end]]\n[[/=]]\n[[/div]]",
+  "tags": [
+    "_cc",
+    "_listpages",
+    "esoteric-class",
+    "k-class-scenario",
+    "on-guard-43",
+    "scp",
+    "temporal"
+  ],
+  "author": "HarryBlank",
+  "created_at": "2020-12-01T10:48:00+00:00",
+  "updated_at": "2024-02-28T06:12:24+00:00",
+  "rating": 403,
+  "_site": "scp-wiki",
+  "_fullname": "scp-5618"
+}

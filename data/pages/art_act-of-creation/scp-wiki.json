@@ -1,0 +1,17 @@
+{
+  "title": "Act of Creation",
+  "content": "[[include :scp-wiki:theme:black-highlighter-theme]]\n[[include :scp-wiki:theme:redtape\n|dark=--]\n|years=15\n]]\n[[module CSS]]\n:root {\n    --header-subtitle: \"1 Minute to Midnight\";\n}\n[[/module]]\n[[>]]\n[[module Rate]]\n[[/>]]\n\n[[div class=\"generic red\" style=\"clip-path: none; border-radius: 4px;\"]]\n[[div class=\"doc\"]]\nPERSONNEL FILE -- PIERRE GAUTHIER (ATTACHMENT 1)\n[[/div]]\n[[image WARPAINT.jpg]]\n[[=]]\nStained red from the [[[warpaint]]] of our own personal battles, transformation is not always the effortless process it's made out to be. But it is still one we survive, as after all, should we not take part in the act of creation that lets us turn wheat into bread and fruit into wine? \n\nFanart for [[user Rounderhouse]], of his character Captain Gauthier. \n[[/=]]\n[[/div]]\n\n[[include :scp-wiki:component:license-box]]\n=====\n> **Filename:** WARPAINT.jpg\n> **Author:** [[*user UncertaintyCrossing]]\n> **License:** CC BY-SA 3.0\n> **Source Link:** [https://scp-wiki.wikidot.com/art:act-of-creation SCP Foundation Wiki]\n=====\n[[include :scp-wiki:component:license-box-end]]",
+  "tags": [
+    "_cc",
+    "_licensebox",
+    "artwork",
+    "personnel-art",
+    "sketched"
+  ],
+  "author": "UncertaintyCrossing",
+  "created_at": "2022-10-02T07:43:14+00:00",
+  "updated_at": "2024-03-28T19:36:26+00:00",
+  "rating": 73,
+  "_site": "scp-wiki",
+  "_fullname": "art:act-of-creation"
+}

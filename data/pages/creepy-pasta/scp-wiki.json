@@ -1,0 +1,16 @@
+{
+  "title": "Creepy-Pasta",
+  "content": "++ Below is the SCP Foundation's collection of creepypasta!\n\n\n-----\n\n+++ Stand Alone Stories\n\n[[module ListPages order=\"date desc\" separate=\"false\" perPage=\"50\" tags=\"+creepypasta -collaboration -hub\" prependLine=\"||~ Page ||~ Date Published ||~ Created By ||\"]]\n|| **%%linked_title%%** || %%created_at|%Y.%m.%e%% || %%created_by_linked%% ||\n[[/module]]\n\n+++ Sub Libraries\n\n[[[Dr. Gears Storytime Entries]]]\n[[[surprise happy birthday|]]]\n[[[surprise happy birthday 2|]]]\n[[[surprise happy birthday 3|]]]\n[[[surprise happy birthday 4|]]]\n[[[surprise happy birthday 5|]]]\n[[[surprise happy birthday 6| ]]]\n[[[surprise happy birthday 7|]]]\n[[[surprise happy birthday 8|]]]\n[[[surprise happy birthday 9|]]]\n[[[The Works of Doc Burns]]]",
+  "tags": [
+    "_tale-hub",
+    "creepypasta",
+    "horror",
+    "hub"
+  ],
+  "author": "Kain Pathos Crow",
+  "created_at": "2008-07-31T02:45:06+00:00",
+  "updated_at": "2024-09-21T10:20:37+00:00",
+  "rating": 15,
+  "_site": "scp-wiki",
+  "_fullname": "creepy-pasta"
+}

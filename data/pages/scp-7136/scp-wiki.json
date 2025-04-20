@@ -1,0 +1,20 @@
+{
+  "title": "SCP-7136",
+  "content": "[[>]]\n[[module Rate]]\n[[/>]]\n\n**Item #:** SCP-7136\n\n**Object Class:** Safe\n\n**Special Containment Procedures:** The studio apartment containing SCP-7136 has been rented by the Foundation, along with the other two apartments on the same floor. Apartment management has been informed that the renter is a high-profile client and is not to be disturbed.\n\nSCP-7136 is to be monitored weekly for any changes in the size or shape of the affected region. Personnel assigned to SCP-7136 must have an [http://www.scpwiki.com/scp-2544 Anomalous Impulse Resistance Index] (AIRI) of 35 or greater.\n\n**Description:** SCP-7136 is a seemingly impenetrable spatial distortion present within the former apartment of painter Anton Zorkin. The affected region extends ~2 meters from Zorkin's eyes in two intersecting narrow cone-like shapes centered around his lines of sight, terminating in what appears to be a standard blank 60cm x 90cm canvas. Attempts to enter SCP-7136 or insert objects into it have been met with failure, as have attempts to move the region, the canvas, or Zorkin's head[[footnote]]Other body parts are able to be removed, and have been determined to be non-anomalous.[[/footnote]]. Light seems to be unaffected, as SCP-7136 was essentially transparent until agents covered the outline of it with paint [[footnote]]The paint was recovered from a nearby container that had been overturned. An agent at the scene noted that it looked as if Zorkin had tripped over it.[[/footnote]].\n\nWhile in the apartment, several personnel have reported an unusually inflated desire to look at the canvas. Few have acted on this impulse, although one researcher (since removed from the project) went so far as to push his face laterally into Zorkin's in an attempt to \"get the angle right\". This mild compulsion effect has not been observed further than 7.3m from the source, or in individuals with an AIRI at or above that specified in the containment procedures.\n\nIt is speculated that the canvas may contain some form of hidden information or image that has not yet been uncovered. However, given that no additional anomalous effects have been observed, further research into this possibility is considered low priority.\n\n**Addendum:** Discovery Notes\n\nZorkin was placed under Level 1 surveillance following his attendance of the PAINt anartist convention. After he failed to leave his apartment for two weeks, a team was sent in to investigate.\n\nZorkin's corpse was discovered on the floor of his apartment. His head was suspended ~0.8m above the ground, partially supporting his dangling body. Signs of struggle were present, along with severe trauma to Zorkin's neck. Despite this, an autopsy found dehydration to be the primary cause of death.\n\nA sketchbook was found on Zorkin's desk, containing unfinished sketches, newspaper clippings[[footnote]]Determined to be from the Art section of The Daily Star, a local newspaper.[[/footnote]], and short handwritten notes. Examples can be found in the following table:\n\n||~ Page ||~ Sketch Subject ||~ Clipping ||~ Note ||\n|| 1 || A meadow || \"one-note\" || \"Next time will be better\" ||\n|| 7 || A woman holding a baby || \"hollow\" || \"Why don't they get it?\" ||\n|| 17 || An abstract collection of shapes || \"missing something\" || \"Nothing works\" ||\n|| 18 || Blank || None || \"They have to see it the way I do\" ||\n\n[[footnoteblock]]\n\n[[div class=\"footer-wikiwalk-nav\"]]\n[[=]]\n<< [[[SCP-7135]]] | SCP-7136 | [[[SCP-7137]]] >>\n[[/=]]\n[[/div]]\n\n[[include :scp-wiki:component:license-box]]\n[!-- N/A (No Images)  --]\n[[include :scp-wiki:component:license-box-end]]",
+  "tags": [
+    "_licensebox",
+    "artistic",
+    "cadaver",
+    "compulsion",
+    "immobile",
+    "safe",
+    "scp",
+    "spatial"
+  ],
+  "author": "DrSekora",
+  "created_at": "2023-01-21T05:36:46+00:00",
+  "updated_at": "2023-02-08T19:23:23+00:00",
+  "rating": 16,
+  "_site": "scp-wiki",
+  "_fullname": "scp-7136"
+}

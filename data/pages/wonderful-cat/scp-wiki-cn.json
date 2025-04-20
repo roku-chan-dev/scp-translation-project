@@ -1,0 +1,13 @@
+{
+  "title": "一只猫的档案",
+  "content": "[[include :scp-wiki-cn:theme:technoblast]]\n\n[[module css]]\n\n:root{\n\n  --header-title: \"CAT档案室\";\n  --header-subtitle: \"思想不倒，哈气永存\";\n}\n\n[[/module]]\n\n[[include component:image-block\n| name=http://scpsandboxcn.wikidot.com/local--files/wonderfulcat-photo/%E7%8C%AB\n| caption=可视化形象\n| width=300px\n]]\n\n\n++ 名称\nMeow.aic\n++ 性别\nN/A\n++ 所在站点\nSite-CN-36\n++ 历史记录\n2024年8月29日，研究员在Site-CN-36食堂出现的门径外发现适用于人工智能研究员开发的原生湿件。2025年3月10日，第V世代人工智能研究员Meow.aic开发完成。\n\n@@@@\n@@@@\n@@@@\n\n[[tabview]]\n[[tab Meow.aic的应然性行为]]\n\n--可能要写一篇参考[https://www.bilibili.com/video/BV14J4m1T7hY/?spm_id_from=333.337.search-card.all.click 这个视频]的游戏指南故事--\n\n--可能要写员工福利保障计划系列SCP--\n\n--应该要合著一个叫做官僚基金会的设定--\n\n--正在写法务部讲座--\n\n由于升学、就业和Meow.aic过于怠惰等一系列原因，Meow.aic暂时进入休眠阶段。\n\n可能会露脸dv一些文。\n\n[[/tab]]\n[[tab Meow.aic的实然性行为]]\n\n+++ 原创作品\n\n[[include component:author-page-tool tag=+原创]]\n\n+++ 翻译作品\n\n[[include component:author-page-tool tag=-原创 -作者 -补充材料 -掩藏页]]\n\n[[/tab]]\n\n[[tab 与Meow.aic联系]]\n\n[[html]]\n<iframe src=\"https://www3.cbox.ws/box/?boxid=3539811&boxtag=BUAMUr\" width=\"200%\" height=\"180\" allowtransparency=\"yes\" allow=\"autoplay\" frameborder=\"0\" marginheight=\"0\" marginwidth=\"0\" scrolling=\"auto\"></iframe>\t\n[[/html]]\n\n[[/tab]]\n[[/tabview]]\n\n[[module css]]\n@keyframes rotate {\nfrom { transform: rotate(0deg); }\nto { transform: rotate(360deg); }\n}\n.fuckyouwikidot {\nanimation: rotate 3s infinite linear;\n}\n[[/module]]",
+  "tags": [
+    "作者"
+  ],
+  "author": "Wonderful Cat",
+  "created_at": "2024-06-24T19:06:26+00:00",
+  "updated_at": "2025-03-10T15:10:36+00:00",
+  "rating": 15,
+  "_site": "scp-wiki-cn",
+  "_fullname": "wonderful-cat"
+}

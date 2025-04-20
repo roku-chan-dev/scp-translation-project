@@ -1,0 +1,14 @@
+{
+  "title": "fragment:scp-2139-jp-1",
+  "content": "[[div class=\"fake-title\"]]\nSCP-2139-JP\n[[div class=\"fake-pankuzu\"]]\n[[[SCP-087]]] >> SCP-2139-JP\n[[/div]]\n[[/div]]\n\n====\n\n[[div class=\"mono\"]]\n> ##808080|注: セッションがタイムアウトしました##\n> \n> ##808080|前回の操作から60分以上経過しました．\n> 再度ログインしてください．##\n[[/div]]\n\n@@ @@\n\n**アイテム番号:** SCP-2139-JP\n\n**オブジェクトクラス:** Contained\n\n**特別収容プロトコル:** SCP-2139-JPの収容は[[[SCP-087]]]の収容によって達成されます。\n\n**説明:** **[このセクションは制限されています。閲覧するためにはレベル5資格情報を掲示してください。]**\n\n _\n\n[[collapsible show=\"+ コマンドプロンプトを起動する。\" hide=\" \"]]\n[[div class=\"appear mono\"]]\n> ##808080|入力を待っています．##\n##00f|**{{expunge full}}**##\n> ##808080|過去24時間のこのコンピュータからの全アクセス記録は履歴から消去されました．記録情報セキュリティ管理局記録は編集されました．##\n##00f|**{{shutdown}}**##\n> ##808080|”黒き月の泣いているのが聞こえるか？”##\n##00f|**{{y}}**##\n> ##808080|ログアウトします．お疲れさまでした．##\n\n> ##808080|電源を切断します．##\n[[/div]]\n[[/collapsible]]\n\n[[include :scp-jp-sandbox2:inc:ayu18]]\n[[module CSS]]\n#page-title,\n#breadcrumbs {\n    display: none;\n}\n.fake-title {\n    display: block;\n}\n.fake-title > p {\n    border-bottom: 1px solid #bbb;\n    margin: 0 0 0.6em;\n    padding: 0 0 0.25em;\n    font-size: 200%;\n    color: #901;\n}\n.fake-title .fake-pankuzu {\n    margin: -1em 0 1em;\n    font-size: 85%;\n}\n.mono > blockquote {\n    font-family: 'ayu18regular'\n}\n.appear > * {\n    animation: appear 100ms steps(1,end) backwards;\n}\n@keyframes appear {\nfrom { opacity: 0; }\nto { opacity: 1; }\n}\n.appear > :nth-child(1) { animation-delay: 0s; }\n.appear > :nth-child(2) { animation-delay: 2s; }\n.appear > :nth-child(3) { animation-delay: 3s; }\n.appear > :nth-child(4) { animation-delay: 9s; }\n.appear > :nth-child(5) { animation-delay: 10s; }\n.appear > :nth-child(6) { animation-delay: 17s; }\n.appear > :nth-child(7) { animation-delay: 18s; }\n.appear > :nth-child(8) { animation-delay: 19s; }\n[[/module]]",
+  "tags": [
+    "jp",
+    "フラグメント"
+  ],
+  "author": "iti119",
+  "created_at": "2022-02-28T12:39:07+00:00",
+  "updated_at": "2023-02-28T10:00:23+00:00",
+  "rating": 1,
+  "_site": "scp-jp",
+  "_fullname": "fragment:scp-2139-jp-1"
+}

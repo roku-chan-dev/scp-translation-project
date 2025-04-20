@@ -1,0 +1,13 @@
+{
+  "title": "Project Snow Eagle 1",
+  "content": "[[include :scp-wiki:component:toggle-sidebar]]\n[[include :scp-wiki-cn:theme:pataphysics]]\n\n[[=]]\n\n[# 首页]|[# 新闻]|[# 工作]|[# 通报]|[# 介绍]|[# 个人]|[# 行动]|[# 文档]|[# 邮箱]|[# 收容报告]|[# 实验记录]|[# 异常项目]|[# 职位查询]|[# 登出]\n\n@@@@\n@@@@\n@@@@\n\n++ 欢迎您，研究员Dr.Weddell\n\n> 今天是2021年9月6日\n\n[[/=]]\n\n@@@@\n@@@@\n\n[[div style=\"background: gray; padding: 1px 15px; border: solid 3px lightgray; margin: 10px; border-radius: 30px 15px;\"]]\n\n[[div style=\"background: white; padding: 1px 15px; border: solid 3px lightgray; margin: 10px; border-radius: 30px 15px;\"]]\n\n##black|**今日新闻**##\n\n------\n\nSite-16主管涉嫌受贿被正式逮捕，扫黑除恶专项小组正在对其审问。\n\n------\n\nSite-CN-07发生收容失效，多名特工伤亡。\n\n------\n\n俄罗斯分部█████博士成功研制出对SCP-████式综合收容方案，得到2021感动基金会年度人物提名。\n\n------\n\n##black|[# 展开更多]##\n\n[[/div]]\n[[/div]]\n\n[[div style=\"background: gray; padding: 1px 15px; border: solid 3px lightgray; margin: 10px; border-radius: 30px 15px;\"]]\n\n[[div style=\"background: white; padding: 1px 15px; border: solid 3px lightgray; margin: 10px; border-radius: 30px 15px;\"]]\n\n##black|**待处理事项**##\n\n------\n\n有关SCP-4999的研究报告：高危异常处理方式。\n\n------\n\n关于███的降职处分。\n\n------\n\n##red|[https://scp-wiki-cn.wikidot.com/project-snow-eagle/offset/2 超形上学部：雪鹰计划 ]##\n\n------\n\n##black|[# 查看全部]##\n\n[[/div]]\n[[/div]]\n\n@@@@\n@@@@\n@@@@\n@@@@\n@@@@\n@@@@\n@@@@\n@@@@\n\n------\n------\n[[=]]\n\n[# 首页]|[# 新闻]|[# 工作]|[# 通报]|[# 介绍]|[# 个人]|[# 行动]|[# 文档]|[# 邮箱]|[# 收容报告]|[# 实验记录]|[# 异常项目]|[# 职位查询]|[# 登出]\n\n[[/=]]\n\n++ [# 系统管理]\n\n++ [# 数据统计]\n\n++ [# 违规举报]\n\n++ [# 论坛讨论]\n\n++ [# 联系我们]",
+  "tags": [
+    "段落"
+  ],
+  "author": "DrWeddell",
+  "created_at": "2021-09-06T09:07:36+00:00",
+  "updated_at": "2024-04-27T19:13:36+00:00",
+  "rating": 0,
+  "_site": "scp-wiki-cn",
+  "_fullname": "fragment:project-snow-eagle-1"
+}

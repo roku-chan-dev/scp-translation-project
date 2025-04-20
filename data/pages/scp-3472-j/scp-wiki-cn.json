@@ -1,0 +1,23 @@
+{
+  "title": "SCP-3472-J",
+  "content": "[[include :scp-wiki:component:classified-decoration\n|lv=2\n|item=3472-J\n|oc=Safe\n|lang=CN\n]]\n------\n**特殊收容措施：** SCP-3472-J应被存放在Site56侧楼的高异常值物品储存室中一配有衬垫的带锁箱子内。不必要采取进一步收容措施。\n\n根据站点主管Agatha Drummond的指示，对SCP-3472-J的测试将无限期进行。\n\n**描述：** SCP-3472-J是一个容积500mL的玻璃瓶，其中装满粘稠的半透明蓝色物质。当瓶子未被装满时，瓶内物质将以5mL/h 的速度将瓶子填满。外来物质被一种不可见的屏障阻挡，无法进入瓶中。\n\n个体摄入超过20mlSCP-3472J的内容物后，将进入2-5小时的昏迷。醒来后，受试者称他们以一个名叫“Jamison Maddox”的人（此处指SCP-3472-1-J[[footnote]] **译注：**原文如此，大约是为和SCP-3472的内容对应。 [[/footnote]]）的视角经历了生动的梦境。恢复的文档表明，这些梦境具有内在一致性，即使时间线错乱。\n\nSCP-3472-J是在对Annetta Maddox住所的搜查中发现的。在SCP-3472-J被发现前， Maddox女士一直在一本杂志上记录她对SCP-3472-J的使用情况。不幸的是，Maddox女士在搜查行动中丧生，因此无法接受讯问。\n\nMaddox女士的所有物中有如下信件，据称是由SCP-3472-1-J所写：\n\n[[collapsible hideLocation=\"both\" show=\"文件3472-J-B\" hide=\"已授权\"]]\n[[module css]]\n.page {\n    display: block;\n    overflow: hidden;\n    font-family: \"Monotype Corsiva\", \"Bradley Hand ITC\", sans-serif;\n    font-style: normal;\n\n   \n    background-attachment: scroll;\n    background-clip: border-box;\n    background-color: transparent;\n    background-image: linear-gradient(to top ,rgb(202, 219, 228) 0%, rgb(231, 233, 220) 8%);\n    background-origin: padding-box;\n    background-position: 0px 8px;\n    background-repeat: repeat;\n    background-size: 100% 20px;\n    \n\n    border: 1px solid #CCC;\n    border-radius: 10px;\n    padding: 10px 10px;\n    margin-bottom: 10px;\n\n    box-shadow: 0px 1px 3px rgba(0, 0, 0, 0.2)\n    }\n.page p {\n    line-height: 20px;\n    margin: 0;\n}\n[[/module]]\n[[div class=\"page\"]]\n[[size 125%]] 我亲爱的女儿：\n@@@@\n毫无疑问，总有一天，你会因我所做的事而恨我。我承认我的懦弱，我的愚蠢，以及那使我的罪恶愈深的令人生厌的人猿之心。\n@@@@\n我不会为自己的作为辩白。我只想让你知道我##blue|为什么##会这么做。\n@@@@\n[[>]]\nJamison Maddox\n[[/>]]\n[[/size]]\n[[/div]]\n[[/collapsible]]\n------\n[[=]]\n[[size 150%]][[collapsible show=\"实验日志\" hide=\"已授权\"]][[/size]]\n[[table  style=\"border-collapse:collapse; max-width: 600px;\"]]\n[[row]]\n[[cell style=\"font-weight:bold;padding: .3em .7em; text-align: center; border: 1px solid black; background-color: silver; width: 20%;\"]]\n实验001\n[[/cell]]\n[[cell style=\"font-weight:bold; padding: .3em .7em; text-align: center; border: 1px solid black; background-color: silver;\"]]\n[[/cell]]\n[[/row]]\n[[row]]\n[[cell style=\"text-align: center; padding: .3em .7em; border: 1px solid black\"]]\n受试者\n[[/cell]]\n[[cell style=\"border: 1px solid black; padding: .3em .7em;\"]]\nDr. [[[rammer-jammer-yellow-hammer-hub|Jeremiah Cimmerian]]]\n[[/cell]]\n[[/row]]\n[[row]]\n[[cell style=\"text-align: center; padding: .3em .7em; border: 1px solid black\"]]\n实验步骤\n[[/cell]]\n[[cell style=\"border: 1px solid black; padding: .3em .7em;\"]]\nDr. Cimmerian将摄入20ml SCP-3472-J内的液体，并记录自己的体验。\n[[/cell]]\n[[/row]]\n[[row]]\n[[cell style=\"text-align: center; border: 1px solid black\"]]\n实验结果\n[[/cell]]\n[[cell style=\"border: 1px solid black; padding: .3em .7em;\"]]\n当Dr. Cimmerian试图从SCP-3472-J中喝下液体时，他摸索着把瓶子掉到了地上。SCP-3472-J受到撞击时破碎，未保留任何异常性质。\n[[/cell]]\n[[/row]]\n[[/table]]\n> //“如果我还有点用，我就不会在被降为D级的时候待在角落里生闷气了。”//  - Dr. Cimmerian\n[[/collapsible]]\n[[/=]]\n\n[[include :scp-wiki-cn:component:license-box\n|author=UraniumEmpire]]\n[[include :scp-wiki-cn:component:license-box-end]]",
+  "tags": [
+    "2019连写竞赛",
+    "_长毛狗",
+    "cimmerian博士",
+    "safe",
+    "scp",
+    "人造物品",
+    "搞笑",
+    "液体",
+    "睡眠",
+    "粪作",
+    "自我修复"
+  ],
+  "author": "Eurya",
+  "created_at": "2019-03-21T13:30:11+00:00",
+  "updated_at": "2024-05-17T18:42:40+00:00",
+  "rating": 3,
+  "_site": "scp-wiki-cn",
+  "_fullname": "scp-3472-j"
+}

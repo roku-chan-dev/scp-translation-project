@@ -1,0 +1,22 @@
+{
+  "title": "SOYA-001によるSCP要注意団体ロゴ",
+  "content": "[[include :rtas:n-theme:soya-001a]]\n\n[[module css]]\n.holder {\n    border: solid 1px #999999;\n    margin-bottom: 10px;\n    padding: 5px;\n    height: 450px;\n    overflow-x: hidden;\n    overflow-y: scroll;\n    -webkit-overflow-scrolling: touch;\n}\n[[/module]]\n\n[[include credit:start]]\n**タイトル:** SOYA-001による準要注意団体ロゴ\n**イラスト:** [[*user SOYA-001]]\n**作成年:** 2020\n[[include credit:end]]\n\nSCP Foundation（どの支部も問わず）で登場する要注意団体（GoI）から、適宜制作したロゴを掲載しています。ロゴは不定期かつ、順不同でこのページに追加していきます。\n\n各GoIのロゴ素材は**[https://1drv.ms/u/s!AnXNtNoGYsm3gcdGdnri6e15Qc8-Xg?e=Du4csX こちら]**からDLできます（外部サイト）。\n\n[[=]]\n----\n[[size 150%]]**理外学研究所**[[/size]]\n[[=image logo-rigai.jpg]]\n\n左は[[*user Ueh-S]]氏による[[[rigaiken-logo|こちらのロゴ]]]をリスペクトして制作したもの。\n右は実在する研究機関である理化学研究所のロゴをオマージュして制作したものです。\n\n----\n\n@@@@\n\n[[size 150%]]**浄土真宗本願誇負派**[[/size]]\n[[=image logo-hongan.jpg]]\n\n浄土真宗本願寺派の宗紋には垂れ藤があしらわれているので、そこから借用。\n蓮華は「煩悩具足の凡夫たる我々の深い業という名の泥を吸って輝く華」というところに由来します。\n\n----\n\n@@@@\n\n[[size 150%]]**アニメキャラクターと結婚するための研究計画局（PAMWAC）**[[/size]]\n[[=image logo-pamwac.jpg]]\n\n左にいる青髪の子は「嫁子」ちゃんです（安直）。フォントは自作のものを使用。\n\n----\n@@@@\n\n[[size 150%]]**如月工務店**[[/size]]\n[[=image logo-kisaragi.jpg]]\n\n異常な建築物を建てる鬼の会社。\nエンブレムは90度回転させると鬼が笑っているように見えます。\n\n----\n\n@@@@\n\n[[size 150%]]**株式会社ドギーコープ**[[/size]]\n[[=image logo-doggy.jpg]]\n\n犬用商品を販売する業者ということで、デカデカとワンちゃんの顔を掲げています。\n文字は少し古くさい感じにデザインしました。\n\n----\n\n@@@@\n\n[[size 150%]]**AKI商事**[[/size]]\n[[=image logo-aki.jpg]]\n\n主としてアダルトグッズを中心に取り扱う商社らしい。\n複数の子会社が確認されている。\n\n----\n\n@@@@\n\n[[size 150%]]**日本生類創研(2020)**[[/size]]\n[[=image http://scp-jp-storage.wdfiles.com/local--files/file%3A2577572-88-vlxx/nisso-logo.png]]\n\nJP初かつ、もっとも使用されている要注意団体（だと思う）、毎度おなじみの日本生類創研。\n[[[groups-of-interest-jp|要注意団体-JP]]]で初めて公開したロゴを元に大きくリデザインしました。\n\n----\n\n@@@@\n\n[[size 150%]]**東弊重工(2020)**[[/size]]\n[[=image http://scp-jp-storage.wdfiles.com/local--files/file%3A2577572-89-de94/touhei-logo.png]]\n\n日本の町工場的な印象の強い工業系団体、東弊重工。\n[[*user Nanimono_Demonai]]氏による『[[[foundation-or-goi-logo|財団ロゴ]]]』で公開している東弊重工のロゴを踏襲しつつ、先進的でテクニカルなイメージを前面に押し出し、よりかっこいい見た目に再構成しました。\n**2020/11/13追記:** OneDriveのZIPファイルに.svgと.aiファイルを同梱しました。\n\n----\n\n@@@@\n\n[[size 150%]]**世界オカルト連合(国連機関版)**[[/size]]\n[[=image http://scp-jp-storage.wdfiles.com/local--files/file%3A2577572-90-6eox/GOC-Logo.png]]\n\n本家GoIから、世界オカルト連合（GOC）のロゴ。\n案外触れられることの少ない国連設定を元に、[[*user djkaktus]]氏と[[*user Aelanna]]氏の原案をもとに国連機関っぽく再構成しました。\nオリーブの葉の部分は[[*user Zhange]]氏の[https://www.instagram.com/p/BjGIX41neBJ/ これ]をトレス。\n\n[[/=]]",
+  "tags": [
+    "aki商事",
+    "jp",
+    "pamwac",
+    "アートワーク",
+    "世界オカルト連合",
+    "如月工務店",
+    "日本生類創研",
+    "東弊重工",
+    "浄土真宗本願誇負派",
+    "理外研"
+  ],
+  "author": "SOYA-001",
+  "created_at": "2020-09-09T17:20:46+00:00",
+  "updated_at": "2024-01-31T13:26:53+00:00",
+  "rating": 158,
+  "_site": "scp-jp",
+  "_fullname": "soya-001-logo-art-01"
+}

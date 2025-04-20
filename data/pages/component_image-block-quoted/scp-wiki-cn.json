@@ -1,0 +1,13 @@
+{
+  "title": "引用塊中標準插圖方塊",
+  "content": "[[include component:image-block-quoted-base name={$name}|caption={$caption}|width={$width}|width=300px|link={$link}|link=#|align={$align}|align=right]]",
+  "tags": [
+    "组件"
+  ],
+  "author": "Letitia213",
+  "created_at": "2015-12-30T16:12:28+00:00",
+  "updated_at": "2021-03-22T15:20:48+00:00",
+  "rating": 0,
+  "_site": "scp-wiki-cn",
+  "_fullname": "component:image-block-quoted"
+}

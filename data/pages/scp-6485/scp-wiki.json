@@ -1,0 +1,24 @@
+{
+  "title": "SCP-6485",
+  "content": "[[>]]\n[[module Rate]]\n[[/>]]\n\n[[module ListPages  category=\"fragment\" parent=\".\" limit=\"1\" order=\"created_at\" offset=\"@URL|0\"]]\n%%content%%\n[[/module]]\n\n[!-- https://scp-wiki.wikidot.com/fragment:scp-6485-0 --]\n[!-- https://scp-wiki.wikidot.com/fragment:archived-6485-documents --]\n\n[[footnoteblock]]\n\n[[div class=\"footer-wikiwalk-nav\"]]\n[[=]]\n<< [[[SCP-6484]]] | SCP-6485 | [[[SCP-6486]]] >>\n[[/=]]\n[[/div]]\n\n[[include :scp-wiki:component:license-box]]\n=====\n> **Filename:** bear2.png\n> **Author:** [[*user eeveellector]]\n> **License:** CC-BY-SA-3.0\n> **Source Link:** [https://scp-wiki.wikidot.com/scp-6485 SCP Foundation Wiki]\n\n> **Filename:** octopus\n> **Author:** [[*user eeveellector]]\n> **License:** CC-BY-SA-3.0\n> **Source Link:** [https://scp-wiki.wikidot.com/scp-6485 SCP Foundation Wiki]\n\n=====\n[[include :scp-wiki:component:license-box-end]]",
+  "tags": [
+    "_cc",
+    "_licensebox",
+    "_listpages",
+    "autonomous",
+    "ectoentropic",
+    "keter",
+    "knowledge",
+    "sapient",
+    "scp",
+    "self-repairing",
+    "teleportation",
+    "toy"
+  ],
+  "author": "Eeveellector",
+  "created_at": "2022-09-06T09:26:34+00:00",
+  "updated_at": "2022-10-08T20:07:22+00:00",
+  "rating": 24,
+  "_site": "scp-wiki",
+  "_fullname": "scp-6485"
+}

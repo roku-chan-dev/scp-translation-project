@@ -1,0 +1,19 @@
+{
+  "title": "SCP-7106",
+  "content": "[[include :scp-wiki:theme:black-highlighter-theme]]\n[[include :scp-wiki:component:bhl-dark-sidebar]]\n\n[[module css]]\n.page {\n    display: block;\n    overflow: hidden;\n    font-family: \"Monotype Corsiva\", \"Bradley Hand ITC\", sans-serif;\n    font-style: normal;\n\n    background-attachment: scroll;\n    background-clip: border-box;\n    background-color: transparent;\n    background-image: linear-gradient(to top ,rgb(202, 219, 228) 0%, rgb(231, 233, 220) 8%);\n    background-origin: padding-box;\n    background-position: 0px 8px;\n    background-repeat: repeat;\n    background-size: 100% 20px;\n\n    border: 1px solid #CCC;\n    border-radius: 10px;\n    padding: 10px 10px;\n    margin-bottom: 10px;\n\n    box-shadow: 0px 1px 3px rgba(0, 0, 0, 0.2)\n    }\n.page p {\n    line-height: 20px;\n    margin: 0;\n}\n[[/module]]\n\n[[include :scp-wiki-cn:component:author-label-source start=--\n|name=ItsDenali\n|no-right-margin=*]]\n[[=]]\n**SCP-7106：**无声\n**作者：**[[*user ItsDenali]]\n[[/=]]\n----\n[[<]]\n“Voiceless.jpg”是我使用虚幻引擎和Adobe Photoshop制作的，根据SCP Wiki的条款，我依据CC BY - SA 3.0协议发布此文件。\n\n并且特别感谢某个爱吃蔓越莓的人提供的创意，这个创意后来演变成了这个。爱你，兄弟。:)\n[[/<]]\n\n----\n[[=]]\n**[https://scp-wiki.wikidot.com/itsdenalis-personnel-file 作者的更多作品]**\n[[/=]]\n\n[[include :scp-wiki-cn:component:author-label-source end=--]]\n\n\n[[include component:image-block name=https://scp-wiki.wdfiles.com/local--files/scp-7106/Voiceless.jpg| caption=SCP-7106。]]\n\n**项目编号：**SCP-7106\n\n**项目等级：**Safe\n\n**特殊收容措施：**基金会已收购可进入SCP-7106的房产，并将其作为废弃建筑工地进行封锁，当前严禁进入。\n\n**描述：**SCP-7106是一个位于宾夕法尼亚州费城一个废弃寄养中心内的设施，可通过该中心内的一扇门进入。门上有一张生锈的标牌，上面写着：“SCP基金会[https://scp-wiki-cn.wikidot.com/scp-3790 反常部]。”\n\nSCP-7106长3千米，宽6米；空间内部没有天花板，SCP - 7106的墙壁似乎是向上无限延伸的。电灯悬挂在SCP - 7106上方的空间，为SCP-7106内部唯一的光源。在设施内部墙壁上设置有玻璃容器，这些容器沿着SCP - 7106规律地进行重复排列。每个容器内部都有一个类棺材形状的肉体组织与骨组织在黑色的粘稠溶液中漂浮。这些个体逐渐溶解，且在几个小时之内就会被新的个体所取代。\n\nSCP-7106的后方有一扇标有“维护”的小金属门。偶尔还能听到屋内传来脚步声和微弱的滴水声。在这里被发现后，有人发现门上有一块小的写有“请勿打扰”的牌子。所有开门的尝试都均告失败\n\n----\n\n**附录 7106.1：**2019年8月10日美国东部时间03：00时，工作人员察觉到玻璃碎裂与液体流动的声音，接着，SCP-7106内部发生了数次爆炸。抵达现场的特工汇报，整个设施内的全部容器及容器内部个体均已被毁坏。“维护”门被发现已被炸破，门后是一个狭小的办公区域。此房间除有黑色物质形成的小水坑，以及地面上鞋印形状的烧焦痕迹外，未发现其他值得注意的东西。在房间桌子上放置的一张便签卡上发现以下内容：\n\n[[div class=\"page\"]]\n[[=]]\n@@ @@\n@@ @@\n[[size 130%]]别自不量力。[[/size]]\n@@ @@\n@@ @@\n[[/=]]\n[[/div]]\n\n关于SCP-7106的处理和收容的进一步措施仍在等待决定中。\n\n@@ @@\n[[div class=\"footer-wikiwalk-nav\"]]\n[[=]]\n<< [[[SCP-7105]]] | [https://scp-wiki.wikidot.com/itsdenalis-personnel-file 作者的更多作品] | [[[SCP-7107]]] >>\n[[/=]]\n[[/div]]\n\n[[include :scp-wiki-cn:component:license-box\n|author=ItsDenail\n|translator=Dr Star Paradox和TianFan]]\n\n> **文件名：** Voiceless.jpg\n> **作者：** [[*user ItsDenali]]\n> **协议：** CC BY-SA 3.0\n> **源链接** https://scp-wiki.wikidot.com/scp-7106\n\n[[include :scp-wiki-cn:component:license-box-end]]",
+  "tags": [
+    "safe",
+    "scp",
+    "反常部",
+    "基金会制",
+    "尸体",
+    "建筑",
+    "超维度"
+  ],
+  "author": "Dr Star Paradox",
+  "created_at": "2025-01-13T16:13:03+00:00",
+  "updated_at": "2025-01-13T17:57:54+00:00",
+  "rating": 1,
+  "_site": "scp-wiki-cn",
+  "_fullname": "scp-7106"
+}

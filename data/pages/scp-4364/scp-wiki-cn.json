@@ -1,0 +1,22 @@
+{
+  "title": "SCP-4364",
+  "content": "**项目编号：**SCP-4364\n\n**项目等级：**Euclid\n\n**特殊收容措施：**SCP-4364收容于标准人形收容间内的医疗床上。每日通过静脉输液提供营养补给。SCP-4364所需要的食物应立即提供。\n\n若SCP-4364死亡，将对其进行全面尸检，派出探索队进入SCP-4364。\n\n **描述：**SCP-4364是一西非血统28岁人类男性，对Benjamin Foster这一姓名做出回应。SCP-4364身高1.8米，体重34.5千克。其身体表现出极度营养失调与营养不良，包括肋骨透过皮肤可见、严重缺乏肌肉组织、精力不足。SCP-4364的胃口被其自己描述为“不能满足”，其苏醒时的绝大部分时间用于进食任何被其认为可食用的物品。SCP-4364不会因进食一般有害人体健康的物质而受到负面影响。\n\n虽然在近乎不间断地摄入养分，SCP-4364自进入收容以来仍在减重。诱导呕吐以检查SCP-4364胃内容物后，未发现食物或部分消化的物质，只有大量血液和胆汁。\n\nSCP-4364身上有多处纹身，最值得注意的是位于其胃部下方的一个可活动墨水人形。在SCP-4364进食期间，该人物会出现腹部鼓胀，面积变大，并作出满足的表情。除SCP-4364自身的实际质量外该纹身似乎无大小上限，时常会完全覆盖住SCP-4364身上其他图案。SCP-4364身上的其他纹身是一些数字，推定为某种比值。这些比值分别为23:20, 15:27、6:19-20。SCP-4364在其右前臂上还有一睡觉熊猫图案的小片纹身。\n\n[[html]]\n<head>\n<style>\nbody {\ncolor: rgb(51, 51, 51);\nfont-family: verdana, arial, helvetica, sans-serif;\nfont-size: 12.8px;\nline-height: 18.05px;\n}\n</style>\n</head>\n<body>\n<div><strong>附录4364/1：</strong>于01/██/2018对SCP-4364展开手术程序以观察其胃部。发现SCP-4364体内并无一胃，而是一个只在其体内可见的圆形开口，深度无法测量。往该洞内投入了一台小型深度追踪器。截止目前，追踪器已落入<span id=\"count\">2347</span>米深处。此次程序留下的伤疤组织中，与SCP-4364纹身相接部分不可见。</div>\n<script type=\"text/javascript\">\n var x = 2347;\n setInterval(function() {\n     x += 32;\n     document.getElementById(\"count\").innerHTML = x;\n }, 1000);\n</script>\n</body>\n[[/html]]\n\n[[footnoteblock]]\n\n[[div class=\"footer-wikiwalk-nav\"]]\n[[=]]\n<< [[[SCP-4363]]] | SCP-4364 | [[[SCP-4365]]] >>\n[[/=]]\n[[/div]]",
+  "tags": [
+    "euclid",
+    "meta",
+    "scp",
+    "人形生物",
+    "宗教",
+    "感知力",
+    "时空",
+    "智能",
+    "生物性",
+    "艺术性"
+  ],
+  "author": "ashausesall",
+  "created_at": "2019-03-04T14:26:29+00:00",
+  "updated_at": "2020-06-28T12:52:45+00:00",
+  "rating": 9,
+  "_site": "scp-wiki-cn",
+  "_fullname": "scp-4364"
+}

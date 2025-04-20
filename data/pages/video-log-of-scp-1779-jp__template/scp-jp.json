@@ -1,0 +1,14 @@
+{
+  "title": "_template",
+  "content": "[[module rate]]\n[[module css]]\n@import url(/local--code/video-log-of-scp-1779-jp/1);\n[[/module]]\n\n+++ このページに格納された記録\n\n[[module ListPages range=\".\"]]\n[[div style=\"display: inline-block; border-radius: 10px; border:dashed 1px #444444; background:#F5F5F5; float:top; width:96.5%; padding:10px\"]]\n\n**ファイル名:** %%form_raw{filename}%%\n\n**関連人物:** %%form_raw{person}%%\n\n------\n\n**<映像開始>**\n\n%%form_raw{content}%%\n\n**<映像終了>**\n\n[[#if %%form_raw{swaddendum}%% |  | [!-- ]]%%form_raw{addendum}%%[[#if %%form_raw{swaddendum}%% |  | --] ]]\n\n[[/div]]\n[[/module]]\n\n+++ 削除方法\nこのページを削除するにはページ下部までスクロールし、「オプション (Options)」をクリックして折り畳みを展開した後に「削除 (Delete)」をクリックして下さい。\n\nクリックすると「ページを削除する (Delete page)」というタブが展開されます。この中の「どうしますか？ (What to do?)」と書かれた部分の右側にあるチェックボックスの「ページを完全に削除する (Delete Completely)」という部分をチェックした後に、「削除」をクリックする事で削除が完了します。この際に画面に警告が表示されますが、こちらは「OK」をクリックして下さい。\n[[module ThemePreviewer noUi=\"true\"]]\n[[div_ class=\"redirect\"]]\n%%form_raw{redirect-b}%%#%%name%%%%form_raw{redirect-e}%%\n[[/div]]\n====\n[[div style=\"display:none\"]]\n[[form]]\nfields:\n  filename:\n    label: \"ファイル名:\"\n    type: wiki\n    height: 1\n  person:\n    label: \"関連人物:\"\n    type: wiki\n    height: 1\n  content:\n    label: \"記録内容:\"\n    type: wiki\n    height: 7\n    hint: \"<映像開始>や<映像終了>は不要です\"\n  addendumhint:\n    type: static\n    value: 記録内容の下に付記などを記述したい場合、「**使用する**」をチェックしてください。\n  swaddendum:\n    label: \"付記\"\n    type: select\n    values:\n      1: 使用する\n      0: 使用しない\n    default: 0\n  addendum:\n    type: wiki\n    default: \"**付記**: [ここに付記などを記述]\"\n    join: true\n  redirect-b:\n    type: hidden\n    value: '[[module Redirect destination=\"/video-log-of-scp-1779-jp'\n  redirect-e:\n    type: hidden\n    value: '\"]]'\n[[/form]]\n[[/div]]\n[[include :scp-jp:_template]]",
+  "tags": [
+    "jp",
+    "剪定対象-子"
+  ],
+  "author": "Dr_Knotty",
+  "created_at": "2020-10-17T07:18:55+00:00",
+  "updated_at": "2025-03-04T15:38:21+00:00",
+  "rating": 0,
+  "_site": "scp-jp",
+  "_fullname": "video-log-of-scp-1779-jp:_template"
+}

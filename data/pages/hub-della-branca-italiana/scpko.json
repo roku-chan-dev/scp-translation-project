@@ -1,0 +1,14 @@
+{
+  "title": "이탈리아지부 허브",
+  "content": "[[module CSS]]\n@import url('http://scpko.wdfiles.com/local--files/unfont/UnTaza.css');\n[[/module]]\n[[div class=\"content-panel standalone series\" style=\"background: url(/local--files/la-fondazione-scp/bg-marble.png) repeat;\"]]\n[[=]]\n[[include info:start]]\n**이탈리아지부 허브**\n**원작:** http://fondazionescp.wikidot.com/hub-della-branca-italiana\n**저자:** [[*user Mr Abadede]], //et al.//\n**역자:** [[*user salamander724]]\n[[include info:end]]\n@@@@\n@@@@\n[[size 320%]]##firebrick|**제한 RISERVATO**##[[/size]]\n@@@@\n[[size 110%]]##firebrick|//이하 문서에 접근하기 위해서는 적절한 인가 등급을 소유해야 합니다. \n그렇지 않다면 즉시 뒤로가기를 누르십시오. 이에 따르지 않으면 \n당신의 위치를 추적하여 기동특무부대가 파견될 것입니다.//##[[/size]]\n@@@@\n@@@@\n----\n@@@@\n[[size 350%]]**{{Fondazione SCP 재단}}**[[/size]]\n@@@@\n[[size 250%]]**{{이탈리아지부 Branca Italiana}}**[[/size]]\n@@@@\n[[size 180%]]**##gray|{{필수 문서 Documentazione Essenziale}}##**[[/size]]\n@@@@\n@@@@\n----\n[[/=]]\n\n\n\n[[div style=\"font-family: 'UnTaza', Courier New, Courier, monospace; width: auto; padding: 10px 30px; margin: 20px auto; text-shadow: 1px 1px 1px rgba(0,0,0,.25)\"]]\n[!--[[=image eb000.png title=\"[ACCESSO NEGATO]\"]]--]\n\n이하 문서들은 ##blue|보안 인가 **5**등급##으로 지정되어 있으며, SCP 재단 ##blue|이탈리아지부##(이하 ##blue|**-IT**##)와 관련된 모든 정보를 포함하고 있습니다.\n@@@@\n@@@@\n# **[[[Lore della Branca Italiana|이탈리아지부 설정]]]**\n * -IT의 설립에서부터 현재에 이르기까지의 역사 _\n@@@@ _\n@@@@\n# **[[[Organizzazione Interna|내부 부서]]]**\n * -IT의 내부 부서 및 위계조직 _\n@@@@ _\n@@@@\n# **[[[Siti Italiani|이탈리아 소재 기지]]]**\n * -IT 관할 하에 있는 기지 목록. _\n@@@@ _\n@@@@\n# **[[[Squadre Speciali Mobili|기동특무부대]]]**\n * 이탈리아 소재 기동특무부대(SSM) 및 조사연구소대(SIR) 목록. _\n@@@@ _\n@@@@\n# **[[[Personale della Branca Italiana|이탈리아지부 인사 목록]]]**\n * 이탈리아지부 소속 제기지의 직원 카드들. _\n@@@@ _\n@@@@\n# **[[[Gruppi di Interesse|요주의 단체]]]**\n * -IT 관할 권역에서 주로 활동하는 요주의 단체들. _\n@@@@ _\n@@@@\n# **[[[Equipaggiamenti Speciali|특수장비]]]**\n * -IT 에 보급 또는 -IT에서 개발한 비재래 장비들. _\n@@@@ _\n@@@@\n# **[[[Mappa | 이탈리아 관할권 지도]]]**\n * -IT의 기지 위치 및 요주의 위치들을 나타낸 지도. _\n@@@@ _\n@@@@\n# **[[[Timeline della Branca Italiana|이탈리아지부 연표]]]**\n * SCP-IT의 객체 확보, 각종 사건사고의 연표.\n \n@@@@\n@@@@\n[[/div]]\n[[/div]]\n\n\n[!-- ▒▒▒  Codice per le statistiche di Statcounter  ▒▒▒ --]\n[[embed]]\n<a\nhref=\"http://statcounter.com/\" target=\"_blank\"><img class=\"statcounter\"\nsrc=\"//c.statcounter.com/11747886/0/2a40043b/1/\" alt=\"Web\nAnalytics\"></a>\n[[/embed]]",
+  "tags": [
+    "it",
+    "허브"
+  ],
+  "author": "Salamander724",
+  "created_at": "2020-05-27T04:09:14+00:00",
+  "updated_at": "2020-05-27T04:10:55+00:00",
+  "rating": 4,
+  "_site": "scpko",
+  "_fullname": "hub-della-branca-italiana"
+}

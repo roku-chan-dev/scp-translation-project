@@ -1,0 +1,20 @@
+{
+  "title": "SCP-PL-302",
+  "content": "[[include :scpko:theme:flopstyle]]\n[[include :scpko:theme:ad-astra]]\n[[include :scpko:component:centered-header-sigma-9]]\n\n[[module CSS]]\n/* HEADER */\n :root{\n     --header-title: \"AD ASTRA PER ASPERA\";\n     --header-subtitle: \"별을 향하여 역경 헤치며\";\n     --titleColor: hsl(0, 0%, 93%);\n     --subtitleColor: hsl(34, 100%, 75%);\n[[/module]]\n\n[[include :scpko:info:start]]\n**SCP-PL-302:** 쥐 죽은듯한 정적\n**작가:** [[*user KubKac]]\n**역자:** [[*user KubKac]], [[*user fluxman]]\n**원작:** [*http://scp-pl.wikidot.com/scp-pl-302 PL], [*http://scp-int.wikidot.com/scp-pl-302 INT]\n**이미지 출처:** [*https://commons.wikimedia.org/wiki/File:Sonic_visualiser_less_than_zero.JPG Sonic visualiser less than zero.JPG], 작자 미상 - 라이센스 [*https://www.gnu.org/licenses/gpl-3.0.html GNU 일반 공중 사용 허가]\n----\n[[include :scpko:info:end]]\n\n\n[[include component:image-block\n    name= https://upload.wikimedia.org/wikipedia/commons/9/91/Sonic_visualiser_less_than_zero.JPG|\n    caption=시각화된 SCP-PL-302.|\n]]\n\n[[span class=\"h-span\"]]일련번호:[[/span]] SCP-PL-302\n\n[[span class=\"h-span\"]]격리 등급:[[/span]] 안전\n\n[[span class=\"h-span\"]]특수 격리 절차:[[/span]] 부록 PL-302/2에 적힌 정보에 따라 우주선 [[span class=\"h-span\"]]KENNEDY-3848-XK[[/span]]호는 모든 전파 신호에 대한 답신을 금한다.\n\n[[span class=\"h-span\"]]설명:[[/span]] SCP-PL-302는 우주선 [[span class=\"h-span\"]]KENNEDY-3848-XK[[/span]]호의 승무원들이 심우주에서 외계 지적 생명체를 찾기 위해 발신한 수많은 교신 시도에 답신으로 돌아온 전파 신호이다.\n\nSCP-PL-302는 알려지지 않은 언어로 작성되었다. 때문에 현재 해당 메시지를 번역하고 정확한 발신 행성을 찾기 위해 시도 중이다. 녹음된 메시지에는 발신자를 특정할 수 있는 특징적인 요소가 전혀 없었다.\n\n대상의 변칙성은 인간이 해당 메시지를 들을 때 발현한다. 이때 청취자는 잠깐 목소리를 낼 수 없게 되나, 실험 결과 이 과정 중 대상의 성대에는 어떤 손상도 일어나지 않은 것으로 보인다.\n\n[[span class=\"h-span\"]]부록 PL-302/1:[[/span]] 수신 기록\n\nSCP-PL-302는 태양계 바깥에서 생명이 살 수 있는 행성을 찾고 식민화하려는 중 재단 우주선 [[span class=\"h-span\"]]KENNEDY-3848-XK[[/span]]호에게 발견되었다. 시간이 어느 정도 경과한 후, 우주선은 식량 조달을 위해 외계 문명과의 교신 시도를 위해 메시지를 발신했다. 해당 메시지는 변칙적으로 개조되어 청취자의 모국어로 자동 번역되게 되어 있었다. 다음은 우주선 [[span class=\"h-span\"]]KENNEDY-3848-XK[[/span]]호의 승무원들이 보낸 메시지를 옮긴 것이다.\n\n[[div style=\"color: #ccc; font-family: Courier; font-weight: bold; background:#192845 url(http://scp-wiki.wdfiles.com/local--files/the-great-hippo/scp_trans.png) center no-repeat; float: center; border: solid 1px #ffb961; padding: 15px 15px; box-shadow: 0 1px 3px rgba(0,0,0,.2); width: 84%; margin: 4% 4% 4% 4%\"]]\n\n\n[[=]]\n+++ [[span class=\"h-span\"]]KENNEDY-3848-XK호에서 발신한 비상 메시지[[/span]]\n[[/=]]\n----\n수신자에게. 나는 식민화 우주선 [[span class=\"h-span\"]]KENNEDY-3848-XK[[/span]]호의 선장 조지 말로리이다. 부디 이 메시지를 듣는 즉시 답신 바란다. 현재 식수와 식량이 고갈되고 있는 상태다. 선내에는 여성과 아이 또한 타고 있다. 즉시 답신과 지원 요청을 바란다.\n----\n[[>]]\n-- 조지 말로리\nKENNEDY-3848-XK호 선장\n[[/>]]\n[[/div]]\n\n발신 24시간 후, [[span class=\"h-span\"]]KENNEDY-3848-XK[[/span]]호의 승무원이 변칙성을 띤 발신자 불명의 답신을 받았다.\n\n[[span class=\"h-span\"]]부록 PL-302/2:[[/span]] 메시지 완역본\n\n2045년 11월 28일 언어학부가 SCP-PL-302의 내용을 완전히 번역했다. 해당 메시지의 내용이 경각심을 일으키는 바, [[span class=\"h-span\"]]KENNEDY-3848-XK[[/span]]호 연구 지도부는 메시지에 답하지 않고 방향을 틀기로 결정했다. 다음은 SCP-PL-302의 내용이다.\n\n[[div class=\"centered\"]]\n[[collapsible show=\"SCP-PL-302 내용 번역\" hide=\"닫기.\"]]\n[[/div]]\n\n[[div class=\"blockquote\"]]\n= [[size 120%]]{{닥치지 않으면 놈들이 듣고 말 거야.}}[[/size]]\n[[/div]]\n\n[[/collapsible]]",
+  "tags": [
+    "pl",
+    "scp",
+    "별을-향해서",
+    "안전",
+    "외계",
+    "인식재해",
+    "전송",
+    "청각"
+  ],
+  "author": "fluxman",
+  "created_at": "2024-10-12T23:31:00+00:00",
+  "updated_at": "2024-10-24T10:48:05+00:00",
+  "rating": 7,
+  "_site": "scpko",
+  "_fullname": "scp-pl-302"
+}

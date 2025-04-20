@@ -1,0 +1,19 @@
+{
+  "title": "SCP-3313",
+  "content": "[[include :scpko:component:info-ayers\n|lang=ko\n|page=scp-3313\n|authorPage=http://www.scp-wiki.net/dr-cimmerian-s-personnel-file\n|comments=\n\n불쌍한 똘똘이.\n\n어쨌든, 이건 콜드포스트[[footnote]] 외부 검토 없이 사이트에 게시된 글.[[/footnote]]이지만 난 상관없어, 이건 어쩔 수 없이 해야 했어.\n\n이미지는 퍼블릭 도메인이고 소스는 여기:\nhttps://commons.wikimedia.org/wiki/File:BenFranklinDuplessis.jpg\n\n]]\n[[include :scpko:theme:black-highlighter-theme]]\n[[module CSS]]\nsup {\nvertical-align: top; position: relative; top: -0.5em;\n}\n:root{\n--cutColour: #fafafa;\n--barColour: #590505;\n}\n\n.info-container .collapsible-block-folded a{\ncolor: #FFF;}\n.info-container .collapsible-block-unfolded-link a{\ncolor: #FFF;}\n\n.translation_block{\ndisplay:none;}\n[[/module]]\n[[module css]]\n#side-bar {\n    background: rgb(var(--white-monochrome));\n}\n\n#side-bar div.menu-item a, #side-bar div.menu-item .text {\n    color: rgb(var(--black-monochrome));\n}\n\n#side-bar>div:nth-child(5) {\n    background-color: rgba(var(--dark-accent),0.25)!important;\n}\n[[/module]]\n\n\n[[include info:start]]\n**SCP-3313:** 불쌍한 똘똘이\n**저자:** [[*user Doctor Cimmerian]]\n**원작:** http://www.scp-wiki.net/scp-3313\n**역자:** [[*user Salamander724]]\n**이미지:** https://commons.wikimedia.org/wiki/File:BenFranklinDuplessis.jpg\n[[include info:end]]\n\n[[include component:image-block name=http://scp-wiki.wdfiles.com/local--files/scp-3313/BenFranklinDuplessis.jpg|caption=SCP-3313-1의 초상화|width=300px]]\n\n**일련번호:** SCP-3313\n\n**등급:** 케테르\n\n**특수 격리 절차:** SCP-3313이 회수될 경우, [[[secure-facility-dossier-site-88 |제88기지]]] 46층의 고가치 격리실에 보관한다. SCP-3313의 현실조작 효과를 억제하기 위해, 이 격리실은 최소 2개 이상의 스크랜턴 현실성 닻 장으로 [[[scp-2343 |그 층]]]을 완전히 감싸야 한다. SCP-3313과 직접적인 물리적 접촉을 하는 것은 허가되지 않는다.\n\n회수되기 전까지는, 각 국가 및 민간의 모든 우주계획의 지구궤도상 우주선의 통신 내역에 SCP-3313에 관한 정보가 있는지 기동특무부대 카파-12 \"프랑스 신하들,,The French Courtiers,,\"이 사찰한다. 이로써 어떠한 정보가 얻어진다면 곧 SCP-3313의 위치를 특정하고 회수 시도에 착수한다.\n\nSCP-3313-1이 회수될 경우 제19기지의 표준형 인간형 격리실에 수용한다.\n\n**설명:** SCP-3313은 벤저민 프랭클린,,Benjamin Franklin,,(이하 SCP-3313-1)의 절단된 음경이다. 생물학적 생명유지 장치가 없음에도 불구하고 SCP-3313은 파손되거나 썩지 않는 것으로 보인다. 사람이 SCP-3313과 물리적으로 접촉할 경우, SCP-3313은 그 사람에게 2급 현실조정자에 상응하는 현실조작 능력을 부여한다.\n\nSCP-3313로 인해 얻어진 현실조작 능력은 발성을 통해 발동되며, 음성언어를 구사하는 것이 불가능한 사람은 이 능력을 발동하는 것이 불가능한 것으로 여겨진다. SCP-3313과 물리적으로 접촉한 사람이 어떤 요구를 하면, 그 요구가 SCP-3313의 수용범위 내에 있을 경우, 그 요구는 즉시 이루어진다. 그러한 요구는 대개 정확하고 말해진 문자 그대로의 형태로 이루어진다.\n\nSCP-3313은 SCP-3313-1이 프랑스 파리에서 지내던 시절에 사용했다는, 그전까지 발견되지 않았던 사유물 모음 속에서 발견되었다. 이 물건의 변칙성은 이것이 발견된 그 즉시 밝혀졌다. 재단의 DNA 감식 결과 이 물건은 SCP-3313-1의 친족 또는 SCP-3313-1 본인의 것으로 판명되었다. 사건 오메가 54의 결과 SCP-3313이 SCP-3313-1 본인의 음경이라고 결론내릴 수 있는 충분한 맥락이 수집되었다.\n\n\n[[collapsible show=\"＋ 사건 오메가 54 초본 보기\" hide=\" \"]]\n> ++ SCP-3313에 관한 사건 오메가 54 문서\n> \n> 2017년 7월 3일, 혼돈의 반란이 미합중국 건국의 아버지들 중 몇 명을 부활시키는 의식을 벌였다. 놈들은 이로써 미국 정부를 전복하는 쿠데타를 시도했다. 이 때 부활한 국부들 중에는 조지 워싱턴,,George Washington,,, 토머스 제퍼슨,,Thomas Jefferson,,, 존 애덤스,,John Adams,,, 알렉산더 해밀턴,,Alexander Hamilton,,, 그리고 SCP-3313-1이 있었다.\n> \n> 현재 재단이 입수한 기록서류들은 이 5명 국부들이 다양한 변칙적 능력을 가지고 있었음에 더하여, SCP-3313-1에게는 음경이 없었다는 사실을 보여주고 있다. 그 변칙적 능력들에 관한 정보는 문서 오메가 54-J를 참조.\n> \n> 5명의 국부는 7월 6일 혼돈의 반란에게서 탈출했고, 아직까지 소재가 불명이다. 이 사건이 일어나기 전에 SCP-3313은 제88기지 저가치 격리과의 표준형 격리실에 보관되어 있었다. 7월 9일, SCP-3313-1이 제88기지 저가치 격리과 진입과 SCP-3313과 접촉을 허가받았다.\n> \n> 어떻게 그런 일이 벌어졌는지는 아직까지도 확실하지 않으며, 해당 사건은 녹음되지도 않았다. 접촉하고 4초 뒤 SCP-3313은 화학로켓엔진과 비슷한 추력을 발생시키기 시작했으며, SCP-3313과 SCP-3313-1은 천장을 뚫고 사라졌다. 이로 인해 그 층 위로 8개 층이 파괴되었으나, SCP-3313-1은 물리적 피해를 입지 않은 것으로 보인다.\n> \n> 계산 결과 SCP-3313과 SCP-3313-1의 가속도는 지구 탈출속도에 도달하기에는 부족했고, 수 개월 짜리 포물선 궤도를 그리게 될 것으로 나타났다. 그래서 수 개월 뒤 어디에 착륙할지는 아직 알 수 없다. [[/collapsible]]",
+  "tags": [
+    "en",
+    "scp",
+    "생물학",
+    "성적",
+    "케테르",
+    "현실조작",
+    "혼돈의-반란"
+  ],
+  "author": "Salamander724",
+  "created_at": "2018-09-27T22:08:47+00:00",
+  "updated_at": "2024-11-06T14:28:44+00:00",
+  "rating": 6,
+  "_site": "scpko",
+  "_fullname": "scp-3313"
+}

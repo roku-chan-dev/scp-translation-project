@@ -1,0 +1,19 @@
+{
+  "title": "SCP-5409",
+  "content": "[[include :scp-wiki:theme:magnus-web-format]]\n[[include :scp-jp:theme:black-highlighter-theme]]\n[[>]]\n[[include :topia:sp-rate-info-2 start= --]|bhl=true]]\n@@ @@\n**SCP-5409 “あやされなかった子” by:** [[*user DrAkimoto]]\n\n[[=]]\n+++ [http://www.scp-wiki.net/drakimoto-s-author-page ★ DrAkimotoの著者ページ ★]\n[[/=]]\n[[include :topia:sp-rate-info-3 size=150]]\n\n**批評クレジット:** [[*user MalyceGraves]], [[*user hexick]], [[*user DianaBerry]], [[*user oboebandgeek99]], [[*user Edna Granbo]], [[*user popsioak]], [[*user cybersqyd]], [[*user Dr moned]], [[*user Marcelles_Raynes]], [[*user barredowl]]\n\n\n[[include :topia:sp-rate-info-2 end= --]]]\n[[/>]]\n@@@@\n[[div class=\"addenda-header\"]]\n[[include :scp-wiki:component:classified-bar-woed\n|lv=1\n|item=5409\n|oc=Safe\n|lang=JP\n]]\n[[/div]]\n[[div class=\"addenda-header\"]]\n++++ **__特別収容プロトコル__**\nSCP-5409はサイト-51の植物収容フィールド-3に収容されています。同種の樹木が必要とする標準的な水と肥料の配分が、現地の植物学スペシャリストが管理する自動システムを介してSCP-5409に与えられます。\n[[/div]]\n[[div class=\"addenda-header\"]]\n++++ **__説明__**\n[[include :scp-sandbox-3:image-zoom name=pac.jpg|caption=SCP-5409-1 実例。|width=70px|align=right]]\nSCP-5409は総計200個のおしゃぶりに似た異常な成長部位(SCP-5409-1)を有するアメリカミズメ(//Betula lenta//)の樹木です。SCP-5409-1実例は硬質プラスチック及びゴムの物理的外形と質感を有しますが、過去に存在を知られていなかった有機的ポリマーで構成されています。各SCP-5409-1実例の代用ゴム“乳首”は樹液、水、脂肪、タンパク質、乳糖から成る液体化合物で満たされています。成長分析は、200個全てのSCP-5409-1実例が、2012年の9月～10月の間に約24時間かけて生えたことを示します。\n[[/div]]\n[[div class=\"addenda-header\"]]\n++++ **__発見__**\nSCP-5409は2013/04/20、アーカンソー州サウスミルズのビッグ・ヒート・トレイルで、ハイカーに発見されました。ハイカーはSCP-5409-1実例を摘んで解剖する動画をFacebookアカウントに投稿し、これは後ほど財団ウェブクローラ0/FB-44に検出、削除されました。アーカンソー州警察に潜入中の財団資産がSCP-5409の異常性を検証し、財団職員が到着するまで周辺地域を封鎖しました。\n\nSCP-5409を掘り起こしてサイト-51へ移送するため、財団の植物収容チームが動員されました。この過程で、生後1～7日と推定される男性乳幼児の白骨化した遺体が、SCP-5409の根に絡まっているのが確認されました。枝編み細工のバスケットと綿毛布の劣化した残骸も、同様に根から回収されました。SCP-5409-1の物理的外形と一致する小さな非有機的おしゃぶりが、遺体の傍から発見されました。\n\n小さな封筒が枝編みバスケットに入っていました。中身のインデックスカードは劣化していたものの、分析によって以下の手書きメッセージが解読されました。\n\n> ごめんなさい、私にはまだ準備が出来ていないのです。\n>\n@@ @@\n[[/div]]\n\n[[footnoteblock]]\n@@ @@\n@@ @@",
+  "tags": [
+    "en",
+    "safe",
+    "scp",
+    "植物",
+    "樹木",
+    "玩具",
+    "生命"
+  ],
+  "author": "C-Dives",
+  "created_at": "2020-07-11T07:57:14+00:00",
+  "updated_at": "2021-07-04T21:03:48+00:00",
+  "rating": 26,
+  "_site": "scp-jp",
+  "_fullname": "scp-5409"
+}

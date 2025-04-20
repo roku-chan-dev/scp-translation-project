@@ -1,0 +1,13 @@
+{
+  "title": "Data Analysis Tables",
+  "content": "[[module ListPages order=\"created_at\" category=\"*\" tags=\"+scp\" created_at=\"={$created_at}\" separate=\"no\" perPage=\"200\" prependLine=\"||~ title ||~ created time ||~ author ||~ rating ||\"]]\n||%%title_linked%%||%%created_at%%||%%created_by%%||%%rating%%||\n\n[[/module]]\n\n[[module ListPages order=\"created_at\" category=\"*\" tags=\"+tale\" created_at=\"={$created_at}\" separate=\"no\" perPage=\"200\" prependLine=\"||~ title ||~ created time ||~ author ||~ rating ||\"]]\n||%%title_linked%%||%%created_at%%||%%created_by%%||%%rating%%||\n\n[[/module]]\n\n[[module ListPages order=\"created_at\" category=\"*\" tags=\"+goi-format\" created_at=\"={$created_at}\" separate=\"no\" perPage=\"200\" prependLine=\"||~ title ||~ created time ||~ author ||~ rating ||\"]]\n||%%title_linked%%||%%created_at%%||%%created_by%%||%%rating%%||\n\n[[/module]]\n\n[[module ListPages order=\"created_at\" category=\"*\" tags=\"+artwork\" created_at=\"={$created_at}\" separate=\"no\" perPage=\"200\" prependLine=\"||~ title ||~ created time ||~ author ||~ rating ||\"]]\n||%%title_linked%%||%%created_at%%||%%created_by%%||%%rating%%||\n\n[[/module]]\n\n[[module ListPages order=\"created_at\" category=\"*\" tags=\"+scp\" created_at=\"={$created_at}\" rating=\"<20\" separate=\"no\" perPage=\"200\" prependLine=\"||~ title ||~ created time ||~ author ||~ rating ||\"]]\n||%%title_linked%%||%%created_at%%||%%created_by%%||%%rating%%||\n\n[[/module]]",
+  "tags": [
+    "fragment"
+  ],
+  "author": "LORDXVNV",
+  "created_at": "2023-07-04T18:25:10+00:00",
+  "updated_at": "2023-07-18T16:19:43+00:00",
+  "rating": 0,
+  "_site": "scp-wiki",
+  "_fullname": "fragment:data-analysis-tables"
+}

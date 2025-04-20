@@ -1,0 +1,11 @@
+{
+  "title": "랜덤 요주의 단체 서식",
+  "content": "[[module ListPages category=\"*\" order=\"random\" limit=\"1\" tag=\"요주의단체-서식\"]]\n랜덤 GOI 서식: %%title_linked%%\n\n[[include :snippets:redirect url=%%link%%]]\n[[/module]]",
+  "tags": [],
+  "author": "thd-glasses",
+  "created_at": "2022-08-24T11:58:24+00:00",
+  "updated_at": "2022-08-24T11:59:49+00:00",
+  "rating": 0,
+  "_site": "scpko",
+  "_fullname": "random:random-goi-format"
+}

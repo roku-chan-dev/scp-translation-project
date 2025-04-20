@@ -1,0 +1,23 @@
+{
+  "title": "SCP-4046",
+  "content": "[[include component:preview\ntext=\nWhat does being happy mean?\n]]\n\n[[include :scp-wiki:component:scp-pride]]\n[[>]]\n[[module Rate]]\n[[/>]]\n\n**Item #:** SCP-4046\n\n**Object Class:** Safe\n\n**Special Containment Procedures:** SCP-4046 is kept in a secure objects locker. Requests for children for use in experiments with SCP-4046 are to be submitted to and approved by at least two Level-3 Personnel. All subjects used are to be amnesticized following the conclusion of experiments. \n\n**Description:** SCP-4046 is a microcomputer kit with a similar appearance to the Telmac 1800 series, with the 'W' key on its keyboard appearing in a stylized cursive serif font. A faded yellow sticker with the phrase 'PROOF OF CONCEPT- NOT FOR MANUFACTURE- R&D DEPARTMENT' is present at the bottom of the object. When SCP-4046 is activated by a subject between the ages of 4 and 11[[footnote]] Activations by subjects between ages 12-16 will inconsistently work. SCP-4046 does not function if activated by subjects above the age of 16.[[/footnote]], a message will appear on its screen reading \"What do you want to be when you grow up?\"\n\nWhen an answer is typed and submitted to SCP-4046, the subject will immediately be rendered unconscious momentarily. Upon waking, subjects report having experienced decades of time working in their chosen profession, typically beginning at the moment of employment and ending at retirement. This experience is reported as extremely vivid and realistic, but all subjects report being aware this was a simulation. In addition, subjects have reported experiencing a personal life (such as having a significant other, raising children, etc.) alongside their work life.\n\nIt is currently unknown if the means by which SCP-4046 imparts this experience are achieved through prediction, simulation, or projection.\n\n**Observations:** Below is a list of performed experiments using SCP-4046. \n\n||~ Subject||~ Profession ||~ Notes||\n|| Nathan || Doctor || Subject reported a career spanning 45 years as a family physician.||\n|| Alice || Witch || Upon being awoken, the subject thaumaturgically transported herself to an unknown location outside of [[[secure-facility-dossier-site-55|Site-55]]]. Whereabouts remain unknown.||\n|| Oscar || Wrestler || Subject reported a career spanning 24 years prior to being forced into early retirement due to a spinal injury. Subject did not express regrets in his choice of profession. ||\n|| Jasmine || Firefighter || Subject claimed to be put off from the line of work after describing their failure to save several people, but decided that they still wanted to pursue the career. ||\n|| David || Basketball Player || Subject awoke in an agitated state, reporting having an initially successful career followed by sharp decline caused by alcoholism and methamphetamine addiction.||\n|| Kelley || Veterinarian || Subject awoke weeping uncontrollably, mourning the death of innumerable animals. Due to the subject's hysterical state, sedatives and amnestics were immediately administered.||\n|| Eric || Happy || SCP-4046's anomalous properties did not activate. ||\n\n[[footnoteblock]]\n@@ @@\n@@ @@\n@@ @@\n@@ @@\n[[include component:wikimodule |normal= --]]]\n[[div class=\"footer-wikiwalk-nav\"]]\n[[=]]\n<< [[[SCP-4045]]] | SCP-4046 | [[[SCP-4047]]] >>\n[[/=]]\n[[/div]]\n\n[[include :scp-wiki:component:license-box]]\n[!-- N/A (No Images)  --]\n[[include :scp-wiki:component:license-box-end]]",
+  "tags": [
+    "_licensebox",
+    "computer",
+    "dr-wondertainment",
+    "eric",
+    "knowledge",
+    "memory-affecting",
+    "mind-affecting",
+    "safe",
+    "scp",
+    "toy",
+    "wonderful-world"
+  ],
+  "author": "Uncle Nicolini",
+  "created_at": "2019-06-01T15:51:08+00:00",
+  "updated_at": "2025-02-04T21:23:02+00:00",
+  "rating": 345,
+  "_site": "scp-wiki",
+  "_fullname": "scp-4046"
+}

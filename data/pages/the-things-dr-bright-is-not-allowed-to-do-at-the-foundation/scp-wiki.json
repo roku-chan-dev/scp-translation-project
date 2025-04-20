@@ -1,0 +1,13 @@
+{
+  "title": "The Things Dr Bright Is Not Allowed To Do At The Foundation",
+  "content": "[[module CSS]]\n#pagerate-button {\n    display: none;\n}\n[[/module]]\n\n[[module Redirect destination=\"bright-list-deletion-message\"]]\n[!-- see https://05command.wikidot.com/forum/t-15668716/statement-regarding-the-deletion-of-the-list --]",
+  "tags": [
+    "redirect"
+  ],
+  "author": "aismallard",
+  "created_at": "2023-02-19T17:38:22+00:00",
+  "updated_at": "2023-12-02T14:36:51+00:00",
+  "rating": -167,
+  "_site": "scp-wiki",
+  "_fullname": "the-things-dr-bright-is-not-allowed-to-do-at-the-foundation"
+}

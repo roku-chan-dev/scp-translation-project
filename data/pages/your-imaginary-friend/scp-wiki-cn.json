@@ -1,0 +1,19 @@
+{
+  "title": "你的假想朋友",
+  "content": "[[include :scp-wiki-cn:theme:black-highlighter-theme]]\n[[include :scp-wiki-cn:theme:minimalist-bhl]]\n\n[[module CSS]]\n:root:lang(cn) {\n     --header-title: \"非现实部\";\n     --header-subtitle: \"使非现实成为 ㅤㅤㅤㅤ\";\n     --lgurl: url('http://scp-wiki.wikidot.com/local--files/unreality-hub/Unreality%20Header%20Logo.svg');\n}\n[[/module]]\n\n[[module CSS]]\n/*独立著作信息颜色设置、*/\n.creditButtonStandalone p a{\n    background: #333 !important;\n}\n[[/module]]\n[[include :scp-wiki-cn:credit:start-standalone]]\n**你的假想朋友**\n**作者：**[[*user Fishish]]\n**作者页！**[[[fishishpage | Fishish的作者页]]]\n[[include :scp-wiki-cn:credit:end-standalone]]\n@@ @@\n//我从来没见过这个。//\n\n他不信。我能从他面无表情地看着我的样子里看出来。\n\n//这些文件是从你的账户上传到数据库的。//\n\n//对，但我告诉你这不可能是我做的。过去几天里，我甚至都不能登录我的账户。//\n\nRAISA散发着米色的能量。别问我米色能量//是//什么，但要知道这个词能完美地描述他们的办公室。坐在我面前的男人叹了口气，轻轻地把他的显示器转过来。\n\n//就……你看，我知道你是新人，而且一般也不是什么大事，但拜托，就算是伪造文档，这也还是太懒了。只要承认是你搞砸了，我们两个就都没事了。//\n\n我盯着那个人。这话听起来//确实//很不错，即使我是在为自己根本没干的事挨训。但毕竟我也没有泄露机密信息。我看了一遍我被控写作的文档。\n\n@@ @@\n------\n@@ @@\n\n[[div class=\"blockquote\"]]\n++ SCP基金会安保设施档案\n\n------\n\n**Site-0：**非现实部\n\n**官方名称：**SCP基金会非现实收容设施\n\n**站点/区域识别码：**NULL-Site-0\n\n[[include component:image-block\n| name=http://scp-wiki.wdfiles.com/local--files/your-imaginary-friend/Unrealitysite2\n| caption=非现实部。\n| width=16em]]\n------\n++ 基本信息\n------\n**是否创办：**是。\n\n**创始主管：**John H. Kempelen\n\n**所在位置：**N/A, N/E, Null, 0,0,0, etc.\n\n**站点功能：**收容及研究非现实。\n\n**占地面积：**标准。\n------\n++ 分区/分翼：\n------\n**分区一：**Kempelen/Gat稳定阵列。\n\n**分区Pi：**现实注入阵列。\n\n**下一分区：**存储。\n\n**临近分区：**收容翼。\n\n**前一分区：**收容翼。\n\n**分区：**管理。\n\n------\n++ 雇员信息：\n------\n\n**站点主管：**John Doe\n\n**站点副主管：**Mary Smith。\n\n**人事副主管：**Robert Johnson。\n\n**设施副主管：**John Brown。\n\n**研究副主管：**Jennifer Williams。\n\n**收容副主管：** Thomas Miller。\n\n**安保副主管：**John Davis。\n\n**特遣队副主管：**Robert。\n\n**驻站心理学家：**John Smith。\n\n**驻站人员：**无。\n\n**现实联络员：**Alex Thorley。\n------\n**附加信息：**N/A。\n[[/div]]\n\n@@ @@\n@@ @@\n------\n@@ @@\n@@ @@\n\n我转向那个RAISA人员。\n\n//所以，如果我说这是我写的，它就能消失？//\n\n他似乎松了口气。\n\n//你得接受强制性的数据库使用培训，但确实。//\n\n//听着不错。那我认了。//\n\n他笑了。\n\n//很高兴与您谈话，Thorley阁下。//\n\n在他删除那份档案的时候我站起身。在回到自己的公寓前，我一句话也没有说。就算想说，我也做不到。慢慢地，我努力想拼好那并没有真实碎片的拼图。\n\n我盯着墙，大脑呼啸着信息纷杂的噪音，我不断回想着那份已删除的站点档案里的一行文字。//现实联络员：Alex Thorley。//\n\n为什么非现实部会对基金会的一个新人感兴趣？更重要的是，“现实联络员”究竟是什么意思？这问题就和我身处的这堆该死的烂摊子同样现实。\n\n我越是去想它，就越搞不懂。什么叫现实注入阵列？为什么一个伪造的站点档案会凭空出现？为什么它还是以//我的名义//发布的\n\n一个想法突然出现在我脑中，挥之不去。\n\n[[[something-glowing |哈。]]]\n\n[[include :scp-wiki-cn:component:license-box\n|author= Deadly Bread与Fishish]]\n=====\n> **文件名：**Unrealitysite2\n> **图像作者：**[[*user Fishish]]，[[*user Jerden]]\n> **授权协议：**CC BY-SA 3.0\n> **来源链接：**[https://scp-wiki.wikidot.com/your-imaginary-friend SCP Foundation Wiki]\n=====\n[[include :scp-wiki-cn:component:license-box-end]]",
+  "tags": [
+    "2022部门竞赛",
+    "alex-thorley",
+    "合著",
+    "故事",
+    "无题系列",
+    "超现实小说",
+    "非现实部"
+  ],
+  "author": "Esperanza_Cai",
+  "created_at": "2022-03-25T14:53:08+00:00",
+  "updated_at": "2023-11-29T14:54:21+00:00",
+  "rating": 9,
+  "_site": "scp-wiki-cn",
+  "_fullname": "your-imaginary-friend"
+}

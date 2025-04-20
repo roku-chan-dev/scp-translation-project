@@ -1,0 +1,15 @@
+{
+  "title": "173とウサギちゃん達",
+  "content": "[[include credit:start]]\n**タイトル:** 173とウサギちゃん達\n**著者:** [[*user fairydoctor]]\n**オリジナル:** [https://scp-wiki.wikidot.com/art:173-and-bunys 173 and bunys]\n**訳者:** [[*user OY2010]]&[[*user nebula2700]]\n[[include credit:end]]\n\n[[include :scp-jp:theme:black-highlighter-theme]]\n[[include :scp-jp:theme:jakstyle]]\n\n[[div class=\"crom-thumbnail\" style=\"display: none;\"]]\n[[include component:image-block name=173-conprocs-smaller.png]]\n[[/div]]\n\n@@ @@\n\n\n[[image http://scp-jp-storage.wikidot.com/local--files/file:8116298-13-vicb/E8E6E299-1161-47A7-A6A8-53AFF03DFD09.png]]\n\n@@ @@\n@@ @@\n@@ @@\n\n+ 彫刻は新しい仲間達を愛しているよ！\n\n@@ @@\n@@ @@\n@@ @@\n@@ @@\n\n[[collapsible show=\"fairydoctorの他の作品\" hide=\"私を閉じて！\"]]\n__SCPs__:\n\n[[module ListPages created_by=\"fairydoctor\" separate=\"no\" tags=\"scp, -joke\" perPage=\"2\" order=\"created_at\" prependLine=\"||~ SCP ||~ Created ||~ Rating ||~ Comments ||~ Length ||\"]]\n|| %%title_linked%% || %%created_at%% || %%rating%% || %%comments%%  || %%size%% ||\n[[/module]]\n\n__GoI Formats__:\n[[module ListPages created_by=\"fairydoctor\" separate=\"no\" tags=\"goi-format\" perPage=\"2\" order=\"created_at\" prependLine=\"||~ SCP ||~ Created ||~ Rating ||~ Comments ||~ Length ||\"]]\n|| %%title_linked%% || %%created_at%% || %%rating%% || %%comments%%  || %%size%% ||\n[[/module]]\n\n__Foundation Tales__:\n\n[[module ListPages created_by=\"fairydoctor\" separate=\"no\" tags=\"tale\" perPage=\"2\" order=\"created_at\" prependLine=\"||~ SCP ||~ Created ||~ Rating ||~ Comments ||~ Length ||\"]]\n|| %%title_linked%% || %%created_at%% || %%rating%% || %%comments%%  || %%size%% ||\n[[/module]]\n[[/collapsible]]",
+  "tags": [
+    "en",
+    "scp-173",
+    "アートワーク"
+  ],
+  "author": "nebula2700",
+  "created_at": "2022-12-14T08:12:15+00:00",
+  "updated_at": "2023-02-20T06:44:15+00:00",
+  "rating": 6,
+  "_site": "scp-jp",
+  "_fullname": "art:173-and-bunys"
+}

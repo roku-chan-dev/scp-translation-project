@@ -1,0 +1,18 @@
+{
+  "title": "Karcist Halyna Artwork",
+  "content": "[[include :scp-wiki:theme:black-highlighter-theme]]\n[[include :scp-wiki:theme:extra-black-highlighter-theme]]\n[[>]]\n[[module Rate]]\n[[/>]]\n\n[[module CSS]]\n div.scp-image-block.block-right {\n    max-width: 100% !important;\n}\n[[/module]]\n\n[[include component:image-block\n| name=karcist-halyna.jpg\n| width=100%\n| caption= Karcist Halyna Ieva, The Mother Who Demands One's Toes ]]\n\n-----\n\n> A commission work I had done for the user Naepic of Karcist Halyna, who has a really fun design that was also a great time for me to work on digital rendering in order to do her justice!",
+  "tags": [
+    "_cc",
+    "artwork",
+    "goi-art",
+    "halyna-ieva",
+    "painted",
+    "sarkic"
+  ],
+  "author": "EmotionalEntropy",
+  "created_at": "2023-06-04T20:51:18+00:00",
+  "updated_at": "2024-03-28T08:16:08+00:00",
+  "rating": 54,
+  "_site": "scp-wiki",
+  "_fullname": "art:karcist-halyna"
+}

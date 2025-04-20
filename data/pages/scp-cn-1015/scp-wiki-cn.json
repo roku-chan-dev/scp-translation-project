@@ -1,0 +1,20 @@
+{
+  "title": "SCP-CN-1015",
+  "content": "[[module CSS]]\n#page-title {\n  display: none;\n}\n\n.meta-title {\n  border-bottom: solid 1px #bbbbbb;\n  color: #990011;\n  font-weight: normal;\n  margin: 0 0 0.6em;\n  padding: 0 0 0.25em;\n  font-size: 200%;\n}\n\n.meta-title p {\n  margin: 0;\n}\n[[/module]]\n[[module ListPages category=\"fragment\" parent=\".\" limit=\"1\" order=\"name\" offset=\"@URL|0\"]]\n[[div class=\"meta-title\"]]\n%%title%%\n[[/div]]\n[[/module]]\n[[>]]\n[[module Rate]]\n[[/>]]\n[[module ListPages category=\"fragment\" parent=\".\" limit=\"1\" order=\"name\" offset=\"@URL|0\"]]\n\n%%content%%\n[[/module]]\n\n[[footnoteblock]]\n\n\n\n[[div class=\"footer-wikiwalk-nav\"]]\n\n[[=]]\n\n<< [[[SCP-CN-1014]]] | SCP-CN-1015 | [[[SCP-CN-1016]]] >>\n\n[[/=]]\n\n[[/div]]",
+  "tags": [
+    "cn1000",
+    "safe",
+    "scp",
+    "原创",
+    "机械",
+    "电子",
+    "破碎之神教会",
+    "认知危害"
+  ],
+  "author": "mhcg",
+  "created_at": "2018-11-26T13:44:02+00:00",
+  "updated_at": "2019-07-16T15:00:13+00:00",
+  "rating": 268,
+  "_site": "scp-wiki-cn",
+  "_fullname": "scp-cn-1015"
+}

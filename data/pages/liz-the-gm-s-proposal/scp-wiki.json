@@ -1,0 +1,25 @@
+{
+  "title": "Liz The GM's Proposal",
+  "content": "[[>]]\n[[module Rate]]\n[[/>]]\n\n[!--\nFragment list:\nhttp://scp-wiki.wikidot.com/fragment:liz-scp-001-1\nhttp://scp-wiki.wikidot.com/fragment:liz-scp-001-2\nhttp://scp-wiki.wikidot.com/fragment:liz-scp-001-3\nhttp://scp-wiki.wikidot.com/fragment:liz-scp-001-4\nhttp://scp-wiki.wikidot.com/fragment:liz-scp-001-5\nhttp://scp-wiki.wikidot.com/fragment:liz-scp-001-6\n--]\n\n[[module ListPages  category=\"fragment\" parent=\".\" limit=\"1\" order=\"created_at\" offset=\"@URL|0\"]]\n%%content%%\n[[/module]]\n\n[[include :scp-wiki:component:license-box]]\n[!-- N/A (No Images)  --]\n[[include :scp-wiki:component:license-box-end]]",
+  "tags": [
+    "001-proposal",
+    "_licensebox",
+    "_listpages",
+    "alive",
+    "dr-wondertainment",
+    "factory",
+    "humanoid",
+    "isabel-v",
+    "neutralized",
+    "reality-bending",
+    "sapient",
+    "scp",
+    "uncontained"
+  ],
+  "author": "Liz The GM",
+  "created_at": "2018-06-05T00:55:57+00:00",
+  "updated_at": "2024-03-22T00:20:43+00:00",
+  "rating": 568,
+  "_site": "scp-wiki",
+  "_fullname": "liz-the-gm-s-proposal"
+}

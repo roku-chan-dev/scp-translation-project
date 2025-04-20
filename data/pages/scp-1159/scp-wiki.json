@@ -1,0 +1,21 @@
+{
+  "title": "SCP-1159",
+  "content": "[[>]]\n[[module Rate]]\n[[/>]]\n\n**INFOHAZARD WARNING: All information in this file must be kept in auditory form.**\n\nSCP-1159 (Audio File) //Note: I apologize for the informality of this recording. I was not able to use written notes. - Dr. Reixis//\n[[include :snippets:html5player\n|type=audio\n|url=https://scp-wiki.wdfiles.com/local--files/scp-1159/1159-B-1.mp3\n]]\nSCP-1159 (Addendum 1159-A) Test 1.\n[[include :snippets:html5player\n|type=audio\n|url=https://scp-wiki.wdfiles.com/local--files/scp-1159/1159-B-2.mp3]]\nSCP-1159 (Addendum 1159-B): Test 2.\n[[include :snippets:html5player\n|type=audio\n|url=https://scp-wiki.wdfiles.com/local--files/scp-1159/1159-B-3.mp3]]\nSCP-1159 (Addendum 1159-C): Interview with Dr. Androvsky following events of Test 2.\n[[include :snippets:html5player\n|type=audio\n|url=https://scp-wiki.wdfiles.com/local--files/scp-1159/1159-B-4.mp3]]\nSCP-1159 Attachment 1 (Audio File): Sound of SCP-1159.\n[[include :snippets:html5player\n|type=audio\n|url=https://scp-wiki.wdfiles.com/local--files/scp-1159/1159-2.mp3]]\n\n[[footnoteblock]]\n\n[[div class=\"footer-wikiwalk-nav\"]]\n[[=]]\n<< [[[SCP-1158]]] | SCP-1159 | [[[SCP-1160]]] >>\n[[/=]]\n[[/div]]\n\n[[include :scp-wiki:component:license-box\n|author=Sam Swicegood (CityToast)]]\n=====\n> **Filename:** //SCP-1159-B-1.mp3// thru //-2.mp3// and //SCP-1159-2.mp3//\n> **Author:** [[*User CityToast]]\n> **License:** CC-BY-SA 3.0\n=====\n[[include :scp-wiki:component:license-box-end]]",
+  "tags": [
+    "_cc",
+    "_licensebox",
+    "artifact",
+    "audio",
+    "infohazard",
+    "meta",
+    "safe",
+    "scp",
+    "tool"
+  ],
+  "author": "CityToast",
+  "created_at": "2012-06-16T19:54:09+00:00",
+  "updated_at": "2023-02-21T20:49:52+00:00",
+  "rating": 201,
+  "_site": "scp-wiki",
+  "_fullname": "scp-1159"
+}

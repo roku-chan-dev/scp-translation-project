@@ -1,0 +1,15 @@
+{
+  "title": "Evelyn",
+  "content": "[[>]]\n[[module Rate]]\n[[/>]]\n\n[[module CSS]]\n#page-title {\n    display: none;\n}\n[[/module]]\n\n[[=image evelyn]]\n\n{{Jack, my son, I love you. If you can read this, please come home.}}\n\n\n\n\n\n{{(But this is a very old message, and even if heartfelt, is not for Jack to know.)}}\n\n{{[[[your-circuits-dead-theres-something-wrong|return]]]}}\n\n[[include :scp-wiki:component:license-box]]\n=====\n> **Filename:** evelyn\n> **Author:** [[*user thefriendlyvandal]]\n> **License:** CC BY-SA 3.0\n> **Source Link:** [https://scp-wiki.wikidot.com/evelyn SCP Foundation Wiki]\n=====\n[[include :scp-wiki:component:license-box-end]]",
+  "tags": [
+    "_cc",
+    "_licensebox",
+    "tale"
+  ],
+  "author": "thefriendlyvandal",
+  "created_at": "2017-06-09T02:10:44+00:00",
+  "updated_at": "2022-11-29T17:57:59+00:00",
+  "rating": 13,
+  "_site": "scp-wiki",
+  "_fullname": "evelyn"
+}

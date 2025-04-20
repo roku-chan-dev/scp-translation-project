@@ -1,0 +1,20 @@
+{
+  "title": "歌行：五次覔狂喜",
+  "content": "[[>]]\n[[module Rate]]\n[[/>]]\n\n[[div class=\"phone\" style=\"font-family: kaiti, monospace;  text-align:center; \"]]\n@@@@\n穷览幽冥虚沫析，乐吹疯笛震愚鼓\n\n妄灵不识丧惊迷，随我梦玄堪一睹\n\n旋臂长舒揽古云，拨星傧礼[[[scp-3125|黑皇后]]]\n\n狂傩迭影舞红移，潮落激杯斟砾酒\n\n掷洒蚀焚阿赖耶，赏观伪圣祭相戮\n\n[[[SCP-3930|非无非有]]]啸歌稠，吊[[[serpent-s-hand-hub|虺]]]窃形挛朽木\n\n献我太初一切元，却闻卿爱[[[antimemetics-division-hub|戏骄客]]]\n\n秘团盗钥满贪痴，真理牢门开镜壁\n\n紫魇提傀引旧神，证婚烙血[[[tuftos-proposal|赤王子]]]\n\n五分之五合中旋，绞破实弦缠界死\n\n[[div style=\"transform:rotate(90deg);\n-ms-transform:rotate(90deg); \n-moz-transform:rotate(90deg); \t\n-webkit-transform:rotate(90deg);\n-o-transform:rotate(90deg); \t\"]]\n[[=image http://scp-wiki-cn.wdfiles.com/local--resized-images/gallery/bbbeauty/medium.jpg]]\n[[/div]]\n且裂我身影，且侵我空灵\n\n鼓胀盲信之气结，折蹈填内噬赘形\n\n宇宙叠皮卿可践，谵幻流洸卿可亵\n\n颓壳恒凝废智囚，本性合汝同生灭\n\n[[a style=\"color:transparent\" href=\"/scp-2747\" ]] 柒角笑尝皆欲娶 [[/a]]\n[[/div]]\n@@@@\n\n\n\n\n@@@@\n@@@@\n@@@@\n@@@@\n\n\n[[include :scp-wiki-cn:theme:black-highlighter-theme]]\n[[include :scp-wiki-cn:theme:walk-in-the-dark]]\n\n[[module css]]\n.phone a{\ncolor:#fff;\n}\n\n:root{\n  --header-title:\"第五一教会\";\n    --header-subtitle:\" \";\n}\n\ndiv#header {\n    background: url(http://scp-wiki.wdfiles.com/local--files/fifthist-hub/Fifthist.png) 10px 20px no-repeat;\nbackground-size:100px;\n}\n\n.phone {\nfont-size:210%;\n}\n\n\n@media (max-width: 479px) {\n.phone {\n  font-size:120% !important;\n}\n}\n\n[[/module]]",
+  "tags": [
+    "2020愚人竞赛",
+    "2020画廊大赛",
+    "原创",
+    "故事",
+    "深红之王",
+    "相啸魔",
+    "第五教会",
+    "诗歌"
+  ],
+  "author": "Etinjat",
+  "created_at": "2020-03-31T16:03:26+00:00",
+  "updated_at": "2020-11-07T03:33:43+00:00",
+  "rating": 25,
+  "_site": "scp-wiki-cn",
+  "_fullname": "the-ecstasy-of-st-fifthist"
+}

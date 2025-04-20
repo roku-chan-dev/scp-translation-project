@@ -1,0 +1,13 @@
+{
+  "title": "版式收录与推荐-全预览-段落",
+  "content": "[[include :scp-wiki-cn:theme:bedrock]]\n\n[[module CSS]]\n#toc {\n    position: fixed;\n    bottom: 5vh;\n    right: -300px;\n    width: 300px;\n    transition: right 0.2s;\n}\n#toc:hover, #toc:focus-within {\n    right: 0;\n}\n#toc-action-bar {\n    display: none;\n}\n.title {\n    position: absolute;\n    top: 0;\n    right: 100%;\n    background: rgb(var(--toc-background-color));\n    border: solid var(--toc-border-width) rgb(var(--toc-border-color));\n}\n#toc-list {\n    height: 50vh;\n    overflow-y: auto;\n}\n[[/module]]\n\n[[toc]]\n\n此页面为站内目前所有具有“[*https://scp-wiki-cn.wikidot.com/system:page-tags/tag/%E7%89%88%E5%BC%8F#pages 版式]”标签的页面预览之汇总页。需要注意的是，由于预览的最佳实现方法为网页截图，此页面不可避免地具有巨量图片(约300张，共60+MB），可能出现加载困难或卡顿，请耐心等待。\n\n此页面的排序顺序为在本站上的发布日期倒序，基于此顺序，较旧（较为靠后）的版式可能会有适配或需更新等问题，使用时请务必注意。\n\n此页面应用的版式为[*https://scp-wiki-cn.wikidot.com/theme:bedrock 基岩]。\n\n[[=]]\n[[div class=\"blockquote\"]]\n\n如果想要前往版式分类与推荐页面，请点击[https://scp-wiki-cn.wikidot.com/theme-rec-hub/offset/0 此处]。\n\n[[/div]]\n[[/=]]\n\n[!--以下module为此页面图片排版模块--]\n\n[[module css]]\n\n:root {\n    --main-content-width: 70rem;\n}\n\ndiv.img-container {\n    display: flex;\n    gap: 1em;\n    margin-block: 1em;\n    flex-wrap: wrap;\n    justify-content: center;\n}\n\ndiv.img-container>div.scp-image-block:is(:not([class]), .block-left, .block-right, .block-center) {\n    flex-basis: min(calc((var(--main-content-width) - 4em) / 5), 100%);\n    /* flex-grow: 1; */\n    margin: 0;\n    float: none;\n}\n\n[[/module]]\n\n@@@@\n@@@@\n\n++ CN原创版式\n\n@@ @@\n\n[[div class=\"img-container\"]]\n\n[[module Listpages separate=\"false\" wrapper=\"false\" perPage=\"250\" tags=\"+版式 +原创\" category=\"*\" order=\"created_at desc\"]]\n\n[[include component:image-block\n| name=https://uploadfile.wdfiles.com/local--files/theme-rec-hub-cn-upload/%%name%%.jpg\n| width=200px\n| caption=[*%%link%% %%title%%]]]\n\n[[/module]]\n\n[[/div]]\n\n@@@@\n@@@@\n\n++ 不具有“原创”标签的页面\n\n@@@@\n@@@@\n[[div class=\"img-container\"]]\n\n[[module Listpages separate=\"false\" wrapper=\"false\" perPage=\"250\" tags=\"+版式 -原创\" category=\"*\" order=\"created_at desc\"]]\n\n[[include component:image-block\n| name=https://uploadfile.wdfiles.com/local--files/theme-rec-hub-cn-upload/%%name%%.jpg\n| width=200px\n| caption=[*%%link%% %%title%%]]]\n\n[[/module]]\n\n[[/div]]",
+  "tags": [
+    "段落"
+  ],
+  "author": "Kcorena",
+  "created_at": "2024-09-29T11:08:57+00:00",
+  "updated_at": "2025-02-12T21:15:04+00:00",
+  "rating": 0,
+  "_site": "scp-wiki-cn",
+  "_fullname": "fragment:theme-rec-hub-2"
+}

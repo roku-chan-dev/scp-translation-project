@@ -1,0 +1,16 @@
+{
+  "title": "SCP- -J-ID",
+  "content": "[[module CSS]]\n\n  .footnoteref{ font-variant: unset; }\n\n[[/module]]\n\n\n\n[[include :scp-wiki-cn:theme:black-highlighter-theme]]\n\n[[include :scp-wiki:component:collapsible-sidebar]]\n\n\n[[>]]\n\n[[div style=\"margin-right: 2em; margin-top: -20px;\"]]\n\n^^由[http://scp-idn.wikidot.com/indie-library EastIndies]创作^^\n\n[[/div]]\n[[/>]]\n\n**项目编号：**scp- -j-id\n\n**项目等级：**不知道\n\n**特殊收容措施：**只要让它呆在房间，它就不会逃跑。没必要受累看着它。如果跑了，就联系值班的mtf，继续睡就是了。\n\n**描述：**我懒得去写，还不如躺着。即使我写了也没人在意，人们懒得去读。这scp很强，但很安全，它的工作只是躺着，就随它去吧。\n\n[[footnoteblock]]\n\n[[include :scp-wiki-cn:component:license-box\n|author=EastIndies]]\n=====\n[[include :scp-wiki-cn:component:license-box-end]]",
+  "tags": [
+    "id",
+    "scp",
+    "搞笑",
+    "机密分级"
+  ],
+  "author": "la kanro",
+  "created_at": "2021-01-23T04:46:16+00:00",
+  "updated_at": "2021-09-14T03:37:06+00:00",
+  "rating": 14,
+  "_site": "scp-wiki-cn",
+  "_fullname": "scp-j-id"
+}

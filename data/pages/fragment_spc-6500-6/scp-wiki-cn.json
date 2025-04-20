@@ -1,0 +1,13 @@
+{
+  "title": "SPC-6500-6",
+  "content": "[[include :scp-wiki-cn:theme:black-highlighter-theme]]\n[[include :scp-wiki-cn:theme:shark-punching-centre-bhl]]\n[[include :scp-wiki:component:toggle-sidebar-bhl]]\n[[include :scp-wiki:component:centered-header-bhl]]\n[[module CSS]]\n#content-wrap::before {\n  content: \"\";\n  position: absolute;\n  height: 100%;\n  width: 100%;\n  top: 0;\n  left: 0;\n  background-repeat: repeat-x;\n  pointer-events: none;\n  opacity: 0.0;\n}\n[[/module]]\n[[html]]\n<audio autoplay>\n  <source src=\"https://scp-wiki.wdfiles.com/local--files/fragment%3Aspc-6500-6/beach.mp3\" type=\"audio/mp3\">\n</audio>\n[[/html]]\n\n[[div class=\"table]]\n[[include :scp-wiki:component:image-block\n|name=https://scp-wiki.wdfiles.com/local--files/fragment%3Aspc-6500-6/beach.jpg\n|width=700px\n|caption=时间线-???\n|align=center\n]]\n[[/div]]\nIlse Reynders主管，时间特工以及高级研究员，在海边剧烈阳光的暴晒下用力地眨着眼睛。\n\n空气中的咸味告诉她她身处海滩之上。她花了几秒钟搞清楚自己的所在，然后皱起眉头，狠狠地拍了几下手上的时间腕表。她想走出这片死局3回了，但每一次，她都落在了这一条时间线上。她本以为会有分开的时间流，就像曾经在基金会遭遇死局之后的那次一样，然而不论她怎么探索，都只能找到这里。\n\n这个扭曲的世界早在几世纪以前就与主时间线背道而驰了，使得这个宇宙几乎没有任何她熟知的机构。这里太不同了，事实上，它有可能是一个平行宇宙，而不是不同的时间线。\n\n国家大致还是在同一个地方，只是名字有些微妙的区别。从来就没有帷幕；异常被称为“反常”，但已经为公众所知。海洋在鱼肉帝国和另一个[[[SPC-1258 |由有知觉的鲸类组成的松散民主联盟]]]之间二分天下，而不是她从家乡的那条时间线听说的共产主义者海豚。\n\n从现代对时间力学的任何一条理解来看，这么//不对劲//的地方不应该存在。然而它就是存在。\n\n这里也发生了死局，而决定却……很荒谬。无理已经不能概括了。\n\n这个“中心”——她努力阻止自己叫它“鲨鱼殴打中心”，因为其中有一些她没工夫去细分的区别——必须得决定自己是否要继续殴打鲨鱼。\n\n理论上看，这和基金会做的决定并无不同。需要决定组织的核心使命是否应该改变。\n\n然而，尽管基金会的选择把主时间线分为了两支，但对于“鲨鱼殴打”中心来说，唯一继续下去的时间线就是它维持原状的那条时间线，它始终坚守着自身的名号和目的。没有一条时间线的SPC放弃了殴打鲨鱼，即使已经超过了逻辑上的鲨鱼灭绝点。无论他们的模型怎么算，SPC断然地坚持着自己暴力的原则。\n\n对SPC来说，没有理想的转型。\n\n可鲨鱼却依然存在，SPC也是如此。\n\n与之相反的任何一条时间线，如果中心选择了改变自己的目的，去收容或者保护鲨鱼，去做出有意义的//选择//……这些时间线全都枯萎凋零了。\n\n她望着大海。在远处，她能看见中心的机动殴打队伍，穿着银色潜水服的蛙人，轻快地掠过海洋表面，用拳头击打着海浪。\n\n如是一切相安无事。",
+  "tags": [
+    "段落"
+  ],
+  "author": "Esperanza_Cai",
+  "created_at": "2021-11-16T10:34:35+00:00",
+  "updated_at": "2021-11-16T10:36:02+00:00",
+  "rating": 0,
+  "_site": "scp-wiki-cn",
+  "_fullname": "fragment:spc-6500-6"
+}

@@ -1,0 +1,21 @@
+{
+  "title": "SCP-5803",
+  "content": "[[include :scp-jp:theme:black-highlighter-theme]]\n[[include :scp-jp:component:bhl-dark-sidebar]]\n\n[[module CSS]]\n.note {\n background: url(http://scp-wiki.wdfiles.com/local--files/the-great-hippo/SCP_icon%281%29.png) top\n right no-repeat;\n color: black;\n letter-spacing: 0.02em;\n float: center;\n border: solid 1px #000000;\n padding: 25px 35px 35px 35px !important;\n box-shadow: 0 1px 3px rgba(0,0,0,.2);\n width: 74%;\n margin: 2% 4% 4% 4%;\n}\n\n\ntable.wiki-content-table td {\npadding: 12px;\n}\n\n[[/module]]\n\n[[>]]\n[[include :scp-jp:info:start]]\n[[=]]\n**SCP-5803:** あなたに贈る一曲\n**著者:** ©︎[[*user Vivarium]]\n----\n**その他の作品**\n\n[http://scp-wiki.wikidot.com/vivarium-s-wholesome-author-page Vivariumのイケてる著者ページ]\n\n[[/=]]\n[[include :scp-jp:info:end]]\n[[/>]]\n\n[[include :scp-jp:component:anomaly-class-bar-source |item-number=5803 |clearance=1 |container-class=neutralized |secondary-class= |secondary-icon= |disruption-class=ekhi |risk-class=warning ]]\n\n-----\n\n**特別収容プロトコル:** --SCP-5803は録音装置を備えた密閉されたセルに収容されています。職員はSCP-5803の録音を聞くことができます。--SCP-5803によって残された全ての物体は標準アイテムロッカーに保管してください。\n\n**説明:** SCP-5803は未知の方法で原子構造が変化した男性です。この変化により、SCP-5803とその所有物は非実体として永遠に存在し続けることが可能です。SCP-5803は第二次世界大戦時代の標準的な軍服を着ていて、キャリングケースの中に入ったバイオリンを常に所持しています。SCP-5803は5月28日を除いて認識することができません。この日付にSCP-5803は非攻撃的な方法で収容セルからの脱走を図ります。SCP-5803は脱走に失敗した場合、ケースからバイオリンを取り出し、オリジナル曲で終わるコンポジションを演奏します。SCP-5803が演奏する音楽には異常性がないことが確認されています。SCP-5803が演奏を終えると、その日の残りの時間をケースの中を見つめることに費やします。SCP-5803は収容セルに職員が入った瞬間にケースを閉じてしまうため、中を見る試みは失敗に終わっています。\n\n5月28日にSCP-5803が演奏した曲のリストは以下の通りです。\n\n* Dans l'intimité, Op. 19\n* ソナタ No. 0\n* トッカータとフーガ ニ短調 BWV 565\n* Due studi\n* 30の前奏曲（全キー）\n* 協奏的幻想曲\n* ソナタ No. 2\n* SCP-5803による無題のコンポジション\n\n**発見:** SCP-5803は1944年6月6日にニューオーリンズのワシントン砲兵公園に出現しました。実体は移動可能な密閉されたセルに収容され、サイト-26に輸送されました。2人の目撃者（女性と10代の少女）には記憶処理が施されました。\n\n\n[[include component:image-block name=http://scp-jp-storage.wikidot.com/local--files/file:6673216-8-t508/LindaLiddell.jpg|align=right|width=40%|caption=SCP-5803を回収した場所。]]\n\n**補遺.01:** 05/28/2012、カオス・インサージェンシーの施設への襲撃によりEuclidクラスオブジェクト2個とKeterクラスオブジェクト5個（SCP-5803を含む）の収容が危うくなりました。事件後、ラファイエット墓地に設置された監視カメラがリンダ・リデルの墓前に立つSCP-5803の映像を捉えました。SCP-5803はコンポジションを演奏し始め、完了すると墓前で倒れました。SCP-5803はもはや異常性を持たないことが判明し、研究員が遺体を調べることが可能になりました。検死の結果、死因は胸骨に開いている複数の弾痕であることが判明しました。SCP-5803は1944年6月6日のノルマンディーの戦いで死亡したことが確認されています。遺体を調べたところ、ジョン・リデルと書かれた認識票と「One More Song For You（あなたに贈る一曲）」というタイトルの楽譜が見つかりました。楽譜の裏には「大好きだよ、リンダ。誕生日おめでとう。戦争が終わったら家に帰るよ。」と書かれていました。バイオリンとケースも回収されました。ケースの内側には15歳くらいの少女の写真がテープで貼られていました。回収された物体は全て異常性なしと判断され、サイト-26の保管庫に輸送されました。",
+  "tags": [
+    "en",
+    "neutralized",
+    "scp",
+    "ループ",
+    "人間型",
+    "死体",
+    "軍事",
+    "非実体",
+    "音楽"
+  ],
+  "author": "Miracle Miki",
+  "created_at": "2021-01-27T00:18:41+00:00",
+  "updated_at": "2023-01-20T10:49:27+00:00",
+  "rating": 28,
+  "_site": "scp-jp",
+  "_fullname": "scp-5803"
+}

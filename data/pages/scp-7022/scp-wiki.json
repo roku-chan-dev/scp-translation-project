@@ -1,0 +1,25 @@
+{
+  "title": "SCP-7022",
+  "content": "[[>]]\n[[module Rate]]\n[[/>]]\n\n[[module ListPages  category=\"fragment\" parent=\".\" limit=\"1\" order=\"created_at\" offset=\"@URL|0\"]]\n%%content%%\n[[/module]]\n\n[!-- https://scp-wiki.wikidot.com/fragment:scp-7022-1 --]\n[!-- https://scp-wiki.wikidot.com/fragment:scp-7022-2 --]\n\n\n@@ @@\n@@ @@\n@@ @@\n\n[[=]]\n[[Module rate]]\n[[/=]]\n\n@@ @@\n@@ @@\n@@ @@",
+  "tags": [
+    "7000",
+    "_cc",
+    "_listpages",
+    "corporate",
+    "currency",
+    "dc-al-fine",
+    "global-occult-coalition",
+    "iris-dark",
+    "marshall-carter-and-dark",
+    "rewritable",
+    "safe",
+    "scp",
+    "the-administrator"
+  ],
+  "author": "GreenGolem",
+  "created_at": "2022-07-31T20:47:59+00:00",
+  "updated_at": "2024-04-25T14:50:01+00:00",
+  "rating": 23,
+  "_site": "scp-wiki",
+  "_fullname": "scp-7022"
+}

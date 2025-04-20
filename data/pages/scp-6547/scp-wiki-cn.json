@@ -1,0 +1,21 @@
+{
+  "title": "SCP-6547",
+  "content": "[[include component:ratio-bar base=-- |ex=--]]\n\n[[include :scp-wiki:component:author-label-source start=--\n|name=Tstaffor\n|no-right-margin=*]]\nYou can check out more of my work here:\n[http://scp-wiki.wikidot.com/tstaffor-s-author-page Tstaffor's Isolated Containment Terminal]\n[[include :scp-wiki:component:author-label-source end=--]]\n\n[[include component:image-block name=http://scp-wiki.wikidot.com/local--files/scp-6547/cardboard_box.jpg|caption=SCP-6547的复原图。]]\n\n**项目编号：** SCP-6547\n\n**项目等级：** --Safe-- Neutralised\n\n**特殊收容措施：** SCP-6547-1当前收容于Coleman & Hares运送设施四楼，Jasmine Clark的前办公室内。房间外部已被改造成类似标准看门人房间，并始终保持锁定状态。一名警卫将一直驻守在该办公室内，防止任何非基金会人员进入。任擅闯入者都将施以A级记忆删除并遣返大厅。\n\n未经首席研究员Frederick Chamberlain许可，不得擅动收容空间内的任何物品。任何新物品的添置均需得到Dr. Chamberlain的批准，以及至少两名SCP-6547-2，或更深层级中的对应体的批准。\n\n//**笔记：**这一点我再强调也不为过。没有我或其他三级研究员的批准，不许在办公室乱动任何东西。我不需要也不想听到自己的副本对此抱怨，更不用说第二个、第三个、第四个……没完没了，而已。够了，无论谁为这种违抗命令的行为负责，都将立即受到训斥。这让我快疯了 - Dr. Chamberlain//\n\n**描述：** SCP-6547-1类似于标准尺寸的Coleman & Hares纸板箱，打开后，将显示一个与SCP-6547-1所在房间相仿的复制品，差别在于大小和其中活动的对象。\n\nSCP-6547-1中的对象表现为一个微型、活动的实体，其外表及特征与Dr. Chamberlain一致。但所有对象均具备智能及解剖特征。同时也记录到其他类似于SCP-6547-1收容室看守的对象，他们常常与主世界或 SCP-6547-2 内的对应体交流。\n\n在不改变该办公室环境的情况下，SCP-6547-1 也能自行改变其物理环境。但移动该办公室中的无生命物体将导致SCP-6547-1中产生同样的变化。这一效果似乎并不会逆向发生，当SCP-6547-1中的Dr. Chamberlain移动一件物品时，主世界并没有经历同样的变化。\n\nSCP-6547-1 似乎也包括一个其自身的复制品，指定为SCP-6547-2，通过于其中的Dr. Chamberlain通信，发现每个 SCP-6547 实例都包含另一个自身实例。在过去五年的测试中，发现的 SCP-6547 实例的数量无休无止，基金会已知的最深层实例是 SCP-6547-803。\n\n**附录6547.1:**\n05/23/2021，一只巨足从SCP-6547-1收容室的天花板上出现，将所有的首席研究员Frederick Chamberlain连同SCP-6547-1一并踩碎[[footnote]]据推测，还包括所有的SCP-6547。[[/footnote]]。此后，发生了局部现实崩溃事件，仅影响了办公室。除收容区以外，没有任何区域没有受到影响。效果在门处停止，这扇门现在通往一片无法进入的虚空。正在以不同文件编号对新异常重新分类。\n\n[[footnoteblock]]\n----\n[[div class=\"footer-wikiwalk-nav\"]]\n[[=]]\n<< [[[SCP-6546]]] | SCP-6547 | [[[SCP-6548]]] >>\n[[/=]]\n[[/div]]\n----\n\n[[div]]\n[[=]]\n[[include component:license-box\n|author=Tstaffor]]\n=====\n[[<]]\n> **Filename:** cardboard_box.jpg\n> **Name:** Cardboard box left in a grass field\n> **Author:** Ivan Radic\n> **License:** CC BY 2.0\n> **Source Link:** https://www.flickr.com/photos/26344495@N05/51271640985/in/photolist-2m7GyA6-gat8E-hJMfYF-hJM115-hJMh6F-5qX8Lv-hJLvwy-hJMgxg-ouvDS8-FQJa6h-2dFL4jK-FLWusi-2ja1unW-gzFt4-2fyDvHg-FLWus8-27PTcrq-aNusq-wX4Eq-bukCi2-5pV1ED-6KWiER-2jAvM5L-7sBLCW-6eA4Ai-2n4jwFU-Lgwodq-aSPZce-pq4hc-436HS-4u1QzU-LmdT6y-ng5J7Q-2mPt6iR-7raXQE-nzm9jn-23Qn9Xo-27WQ1Sj-21efouJ-2kHGA77-DqgEv9-2ja2NEB-gZXwBW-2mmGHnV-2d8i9Ub-pj6fuc-5S7KZJ-2kvxia5-2ixBuXk-2ke719j/\n[[/<]]\n=====\n[[include component:license-box-end]]\n[[/=]]\n[[/div]]",
+  "tags": [
+    "safe",
+    "scp",
+    "人形生物",
+    "人造物品",
+    "多面体",
+    "微型",
+    "无效化",
+    "时空",
+    "智能"
+  ],
+  "author": "Hg-lab",
+  "created_at": "2022-06-23T02:58:56+00:00",
+  "updated_at": "2023-01-03T16:37:58+00:00",
+  "rating": 3,
+  "_site": "scp-wiki-cn",
+  "_fullname": "scp-6547"
+}

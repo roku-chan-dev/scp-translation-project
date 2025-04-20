@@ -1,0 +1,19 @@
+{
+  "title": "SCP-7951",
+  "content": "**项目编号：**7951\n\n**项目等级：**Safe\n[[include component:image-block\n| name=https://scp-wiki.wdfiles.com/local--files/scp-7951/telado.png\n| caption=SCP-7951-1与SCP-7951-2。\n| width=300px\n]]\n**特殊收容措施：**研究员Paul Jones必须对可能的SCP-7951显现保持注意。为维持常态，Jones需对浪漫场合、家庭聚餐以及3-7人间的适度社交聚会保持格外警惕。\n\n**描述：**SCP-7951指代研究员Paul Jones家中两只咖啡杯的自发物理显现。\n\nSCP-7951-1是一只无明显特征的陶瓷马克杯，总是装满23摄氏度或以下的红茶饮料。感知到SCP-7951-1的对象将认为其中的饮料“不是自己喜欢的茶”；品尝饮料后，对象则会注意到它“太凉”，以及一系列其他的主观定性观察。仅有研究员Paul Jones例外，他声称其中的饮料“正是[他]完全想要的样子”。\n\nSCP-7951-2是空的。\n\n**发现：**SCP-7951于2023年10月15日在研究员Paul Jones完成继承手续后不久的家中发现。被问及时，Jones称，“我的房间还是我离开时的样子。”",
+  "tags": [
+    "safe",
+    "scp",
+    "人造物品",
+    "反熵",
+    "合著",
+    "液体",
+    "热量影响"
+  ],
+  "author": "Esperanza_Cai",
+  "created_at": "2023-11-22T12:14:55+00:00",
+  "updated_at": "2023-11-22T12:19:59+00:00",
+  "rating": 1,
+  "_site": "scp-wiki-cn",
+  "_fullname": "scp-7951"
+}

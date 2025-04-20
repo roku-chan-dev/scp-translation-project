@@ -1,0 +1,16 @@
+{
+  "title": "猫死了",
+  "content": "[[>]]\n[[module Rate]]\n[[/>]]\n\n\n**猫死了。**\n\n她孤伶伶地躺在路边的停车位上，\n嘴微微的张着，淌下的血已污秽不堪。\n美丽骄傲的绿色眼球被神经牵扯着，\n无助地拥着冰冷的柏油路面\n———它终究还是没有得到自由。\n\n[[image http://scpsandboxcn.wikidot.com/local--files/dead-cat/IMG_6187%2820190116-183241%29.jpg size=\"medium\"]]\n\n\n@@ @@\n@@ @@\n\n------\n\n@@ @@\n\n**猫死了。**\n\n死在清晨的阳光下，\n死在世界的角落里，\n死在人们的余光处，\n死在白鸟的嘲讽中。\n\n[[image http://scpsandboxcn.wikidot.com/local--files/dead-cat/IMG_6188.JPG]]\n\n\n@@ @@\n@@ @@\n\n------\n\n@@ @@\n\n**猫死了。**\n\n我曾见她在梦境边缘高傲地迈步，\n她抻直了颈部的曲线，乌黑的毛发不沾一丝灰尘。\n灰色的鸟在利爪下哀啼，白色的蝶自半空坠落。\n\n[[html]]\n<img id=\"pic\" src=\"http://scpsandboxcn.wikidot.com/local--files/code-test/cat3.png\" width=\"360px\" alt=\"\" class=\"image\" />\n<script type=\"text/javascript\">\nvar firstUrl = \"http://scpsandboxcn.wikidot.com/local--files/code-test/cat3.png\";\nvar secondUrl = \"\thttp://scpsandboxcn.wikidot.com/local--files/code-test/cat3-2.png\";\n\nnew Image().src = firstUrl;\n\nnew Image().src = secondUrl;\n\nwindow.onload = function(){\n\nvar org = window.document.getElementById('pic');\norg.src = firstUrl;\norg.onmouseover = function(ev){\nthis.src = secondUrl;\n}\norg.onmouseout = function(ev){\nthis.src = firstUrl;\n}\n\n org.addEventListener('touchstart',org.onmouseover,false);\n org.addEventListener('touchend',org.onmouseout,false); \n}\n</script>\n[[/html]]\n\n\n\n@@ @@\n@@ @@\n\n------\n\n@@ @@\n\n**猫死了。**\n\n不再高傲，\n收起嗤笑，\n不惧饥寒，\n无谓痛病。\n\n往彼世享极乐，\n自此世得自由。\n\n再无生老病死爱别离，\n会怨憎不得求五阴积。\n\n[[image http://scpsandboxcn.wikidot.com/local--files/dead-cat/IMG_6194.JPG]]\n\n\n@@ @@\n@@ @@\n\n------\n\n@@ @@\n\n**猫死了。**\n\n##880000|**但我还活着。**##\n\n@@ @@\n@@ @@\n\n[[size x-large]]\n**呜呼哀哉！**\n[[/size]]\n@@ @@\n@@ @@\n@@ @@",
+  "tags": [
+    "wanderers",
+    "原创",
+    "图片",
+    "苍树与血"
+  ],
+  "author": "CrowNox",
+  "created_at": "2019-01-16T15:00:45+00:00",
+  "updated_at": "2019-01-17T08:40:45+00:00",
+  "rating": 42,
+  "_site": "scp-wiki-cn",
+  "_fullname": "wanderers:the-dead-cat"
+}

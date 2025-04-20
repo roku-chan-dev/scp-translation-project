@@ -1,0 +1,13 @@
+{
+  "title": "fragment:sisters-5",
+  "content": "[[include :scp-wiki:theme:black-highlighter-theme]]\n\n[[module CSS]]\n.email-example .collapsible-block-folded a.collapsible-block-link {\n    animation: blink 0.8s ease-in-out infinite alternate;\n}\n@keyframes blink {\n    0% { color: transparent; }\n    50%, 100% { color: #b01; }\n}\n.email {border: solid 2px #000000; width: 88%; padding: 1px 15px; margin: 10px; box-shadow: 0 1px 3px rgba(0,0,0,.5)}\n.email-example a.collapsible-block-link {font-weight: bold;}\n.tofrom {margin-left: 10px; margin-top: 5px; padding: 1px 15px; border-left: solid 3px maroon}\n[[/module]]\n\n[[include :scp-wiki:component:anomaly-class-bar-source\n|item-number= 6535\n|clearance= 2\n|container-class= esoteric\n|secondary-class= uncontained\n|secondary-icon= https://scp-wiki.wdfiles.com/local--files/calibri-s-mega-cool-art-page-it-s-mostly-just-icons-but-what/Uncontained.svg\n|disruption-class= dark\n|risk-class= notice\n]]\n------------\n\n[[include component:image-block\n| name= Distant_person.jpg\n| caption= SCP-6535\n| width=100%]]\n\n**Special Containment Procedures:** ###ff1493| SCP-6535 is to be left undisturbed.##\n\n**Description:** SCP-6535 is a seventeen year old female human of Asian descent, currently uncontained. ###ff1493|She is roaming the world, and holds no ill will towards anyone.##\n\n**Addendum 6535.1:**  ###ff1493|Found this thing while going through my old cell. Looks like it’s the only thing that survived my resets.##\n\n[[collapsible show=\"+ Show image\" hide=\"- Hide\"]]\n[[=]]\n[[div class=\"blockquote\"]]\n[[include component:image-block\n| name= medium.jpg\n| caption= thank you.\n| width=100%]]\n[[/div]]\n[[/=]]\n[[/collapsible]]",
+  "tags": [
+    "fragment"
+  ],
+  "author": "Ecronak",
+  "created_at": "2022-04-04T16:51:56+00:00",
+  "updated_at": "2022-05-11T16:43:47+00:00",
+  "rating": 0,
+  "_site": "scp-wiki",
+  "_fullname": "fragment:sisters-5"
+}

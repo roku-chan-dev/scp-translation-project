@@ -1,0 +1,14 @@
+{
+  "title": "國際統合奇術研究中心格式指南",
+  "content": "Dr Clef 在[[[goc-hub-page|全球超自然聯盟檔案]]]的頁面上首次提及了國際統合奇術研究中心，描述如下：\n\n> ++ 國際統合奇術研究中心\n> 總部位於倫敦，由金色黎明教士團的殘餘所創立，組織在1913年JSCarver發展出了統合奇術後進行了更名。中心促進了對統合奇術（科學的研究魔法和巫術）的研究且當前是現代社會中最大的魔法學會，在所有GOC成員國中都有分校，包括日本，美國，南非，和印度。\n\n對他們的簡明描述就是巫師學院。他們的 GoI 格式的形式是一份學術研究報告，發布在他們的期刊 《統合奇術學季刊》(//Unified Thaumatology Quarterly//) 之中。目前的例子是一個獨自的頁面 ([[[analysis-of-the-plokamisuchus| ]]]) 以及一個包含在 [[[lte-0851-cetus| LTE-0851-CetusHy-Brasil]]] 中的片段 (對Hy-Brasil周邊防護屏障的分析)[[footnote]] 譯註：後來還有一個片段包含在[[[black-as-night|]]] [[/footnote]]。\n\n這些文章的風格應該是學術性的，並且較正經。這點也許和基金會類似，但關鍵的區別在於基金會的特點。雖然 SCP 不願意用正經且臨床腔以外的任何風格來描述異常，但 ICSUT 會坦率地將妖精稱為妖精、將吸血鬼稱為吸血鬼，不會使用任何委婉語。\n\n您寫文章時所需複製的代碼列在下方：\n\n[[code]]\n[[div style=\"border:solid 1px #999999; background: #FFFCF2; margin-left: 3px; margin-right: 3px; padding: 4px; margin-bottom: 25px; margin-top: 25px;\"]]\n[[=]]\n[[size 150%]] 這裡是標題 [[/size]]\n\n《統合奇術學季刊》第##卷第##期 (####年#月)，第##-##頁\n\n國際統合奇術研究中心\n//[填地名]校區 //\n[[/=]]\n\n作者 [作者名字]\n \n[[size 130%]] **摘要** [[/size]]\n\n[[size 130%]] **緒論** [[/size]]\n\n[[size 130%]] **方法論** [[/size]]\n\n[[size 130%]] **",
+  "tags": [
+    "全球超自然联盟",
+    "文章"
+  ],
+  "author": "feitag",
+  "created_at": "2019-04-15T11:19:00+00:00",
+  "updated_at": "2019-07-20T11:00:29+00:00",
+  "rating": 5,
+  "_site": "scp-wiki-cn",
+  "_fullname": "icsutformat"
+}

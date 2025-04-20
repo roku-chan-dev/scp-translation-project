@@ -1,0 +1,14 @@
+{
+  "title": "알렉실바 대학교 테마",
+  "content": "[[module CSS]]\n@import url(\"https://scpko.wdfiles.com/local--code/theme%3Aalexylva-university/1\");\n[[/module]]\n\n[[iftags +테마]]\n[[>]]\n[[module Rate]]\n[[/>]]\n\n이 테마는 [[[alexylva-university-hub|알렉실바 대학교]]] 요주의 단체를 위한 것입니다. 이 테마를 이용하시려면 아래를 어느 페이지에나 넣어주세요. \n\n> @@[[include theme:alexylva-university]]@@\n\n[[code type=\"css\"]]\n/*\n    Alexylva University Theme\n    [2018 Wikidot Theme]\n    Created by Uncle Nicolini, cleaned by ROUNDERHOUSE.\n    Logo created by MingoMongo, under CC BA SA 3.0: https://www.deviantart.com/mingomongo/art/SCP-Alexylva-University-Simple-Logo-750830216\n    Paper Textures created by Jojo-ojoj, under CC BY SA 3.0: https://www.deviantart.com/jojo-ojoj/art/Old-paper-seamless-textures-1-531542908\n    Based on SCP Sigma 9 Theme created by Aelanna and Dr Devan, and MC&D Theme created by Randomini.\n*/\n\n@import url(\"https://scp-wiki.wdfiles.com/local--code/theme%3Aalexylva-university/1\");\n\n#header h1 a::before {\n    content: \"알렉실바 대학교\";\n}\n\n#header h2 span::before {\n    content: \"비지고츠 이겨라!\";\n}\n[[/code]]\n[[/iftags]]",
+  "tags": [
+    "en",
+    "테마"
+  ],
+  "author": "massachusetts",
+  "created_at": "2019-02-28T13:48:02+00:00",
+  "updated_at": "2021-09-30T15:17:16+00:00",
+  "rating": 0,
+  "_site": "scpko",
+  "_fullname": "theme:alexylva-university"
+}

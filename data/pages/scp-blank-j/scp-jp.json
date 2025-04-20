@@ -1,0 +1,19 @@
+{
+  "title": "SCP-BLANK-J",
+  "content": "[[include :scp-jp:info:start]]\n**タイトル:** SCP-BLANK-J - 呪ってやるぞ、反ミーム！\n**著者:** ©︎[[*user Siddartha Alonne]]\n**原題:** SCP-BLANK-J - Curse You, Antimemetics!\n**作成年:** 2021\n[[include :scp-jp:info:end]]\n\n[[module CSS]]\n.email-example .collapsible-block-folded a.collapsible-block-link {\n    animation: blink 0.8s ease-in-out infinite alternate;\n}\n@keyframes blink {\n    0% { color: transparent; }\n    50%, 100% { color: #b01; }\n}\n.email {border: solid 2px #000000; width: 88%; padding: 1px 15px; margin: 10px; box-shadow: 0 1px 3px rgba(0,0,0,.5)}\n.email-example a.collapsible-block-link {font-weight: bold;}\n.tofrom {margin-left: 10px; margin-top: 5px; padding: 1px 15px; border-left: solid 3px maroon}\n[[/module]]\n[[include :scp-jp:theme:black-highlighter-theme]]\n@@ @@\n@@ @@\n@@ @@\n@@ @@\n@@ @@\n@@ @@\n@@ @@\n@@ @@\n@@ @@\n@@ @@\n@@ @@\n@@ @@\n@@ @@\n@@ @@\n@@ @@\n@@ @@\n@@ @@\n@@ @@\n@@ @@\n@@ @@\n@@ @@\n@@ @@\n[[div class=\"email-example\"]]\n[[=]]\n------\n[[collapsible show=\"メイ様、(1) 件の新着メッセージがあります！\" hide=\"Hide\"]]\n[[div class=\"email\"]]\n[[div class=\"tofrom\"]]\n[[<]]\n**From:** ニコラス・メイ、論理部門\n**To:** マリオン・ホイーラー管理官、反ミーム部門\n**Subject:** ##red|(!)## SCP-BLANK-J\n-----\nおはようございます、ホイーラー管理官\nこのメールにリンクしてあるファイルで見られるように、SCPスロットが反ミーム効果を獲得しているようです。このことについて貴女の助力を頂けないでしょうか: このようなアノマリーは貴女の分野でよくあるものでしょうから、貴女と研究者らにとっては難しい挑戦ではないと思われます。\n回答していただけることを願います。\n\n敬具、\nニコラス・メイ\n[[/<]]\n[[/div]]\n[[/div]]\n@@ @@\n@@ @@\n-----\n@@ @@\n@@ @@\n@@ @@\n[[div class=\"email\"]]\n[[div class=\"tofrom\"]]\n[[<]]\n**From:** マリオン・ホイーラー管理官、反ミーム部門\n**To:** ニコラス・メイ、論理部門\n**Subject:** RE: ##red|(!)## SCP-BLANK-J\n-----\nニコラス・メイさん\n反ミームだと喚く前に\"Save\"を押したかどうかちゃんと確認したほうがいいんじゃないですか。\nバカ。\n[[/<]]\n[[/div]]\n[[/div]]\n\n[[/collapsible]]\n[[/=]]\n[[/div]]",
+  "tags": [
+    "en",
+    "esoteric-class",
+    "scp",
+    "ジョーク",
+    "マリオン・ホイーラー",
+    "メタ",
+    "反ミーム部門"
+  ],
+  "author": "Fennecist",
+  "created_at": "2022-01-04T05:24:03+00:00",
+  "updated_at": "2025-01-23T01:29:16+00:00",
+  "rating": 34,
+  "_site": "scp-jp",
+  "_fullname": "scp-blank-j"
+}

@@ -1,0 +1,21 @@
+{
+  "title": "SCP-7974",
+  "content": "[[>]]\n[[module Rate]]\n[[/>]]\n\n[[module ListPages  category=\"fragment\" parent=\".\" limit=\"1\" order=\"created_at\" offset=\"@URL|0\"]]\n%%content%%\n[[/module]]\n\n[!-- https://scp-wiki.wikidot.com/fragment:scp-7974-1 --]\n[!-- https://scp-wiki.wikidot.com/fragment:scp-7974-2 --]\n[!-- https://scp-wiki.wikidot.com/fragment:scp-7974-3 --]\n[!-- https://scp-wiki.wikidot.com/fragment:scp-7974-4 --]\n[!-- https://scp-wiki.wikidot.com/fragment:scp-7974-5 --]\n[!-- https://scp-wiki.wikidot.com/fragment:scp-7974-6 --]\n[!-- https://scp-wiki.wikidot.com/fragment:scp-7974-7 --]\n[!-- https://scp-wiki.wikidot.com/fragment:scp-7974-8 --]\n\n\n[[footnoteblock]]\n\n[[div class=\"footer-wikiwalk-nav\"]]\n[[=]]\n<< [[[SCP-7973]]] | SCP-7974 | [[[SCP-7975]]] >>\n[[/=]]\n[[/div]]\n\n[[include :scp-wiki:component:license-box]]\n=====\n> **Filename:** Ian Dice\n> **Author:** RoweLucian\n> **License:** CC BY-SA 3.0\n> **Source Link:** [https://scp-wiki.wikidot.com/scp-7974 SCP Foundation Wiki]\n=====\n[[include :scp-wiki:component:license-box-end]]",
+  "tags": [
+    "7000",
+    "_cc",
+    "_licensebox",
+    "_listpages",
+    "euclid",
+    "intangible",
+    "neutralized",
+    "sapient",
+    "scp"
+  ],
+  "author": "RoweLucian",
+  "created_at": "2022-07-31T18:00:58+00:00",
+  "updated_at": "2023-09-22T20:36:39+00:00",
+  "rating": 38,
+  "_site": "scp-wiki",
+  "_fullname": "scp-7974"
+}

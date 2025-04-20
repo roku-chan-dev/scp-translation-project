@@ -1,0 +1,18 @@
+{
+  "title": "A World without Man",
+  "content": "[[include :scp-wiki:theme:monotypical]]\n\n[[module css]]\n:root {\n    --linkColor: #27bb96;\n\n    --primaryBackgroundColor: #121617;\n    --secondaryBackgroundColor: #0B0D0C;\n    --tertiaryBackgroundColor: #193034;\n    --borderColor: #2a3b41;\n    --selectionColor: #0D929F;\n    --textColor: #f4f4f4;\n}\n\n[[/module]]\n\n[[>]]\n[[module rate]]\n[[/>]]\n[[include :scp-wiki:component:author-label-source start=--\n|name=EstrellaYoshte]]\n\n[[[estrellayoshte|My Authorpage]]]\n\n[[[desk-of-junior-designer-s-yvonne|My Icon Artdesk]]]\n[[[art:estrella-illustration-desk|The Other Artdesk]]]\n[[include :scp-wiki:component:author-label-source end=--]]\n\n[[div class=\"meta-title\"]]\nThe superior being looked upon the odd, misshapen creature and said—\n[[/div]]\n\n[[image https://i.imgur.com/lI4f2R6.jpg]]\n\n= \"Meow.\"\n\n\n[[include :scp-wiki:component:license-box]]\n=====\n> **Filename:** lI4f2R6.jpg\n> **Author:** [[*user EstrellaYoshte]]\n> **License:** CC BY-SA 4.0\n> **Source Link:** [https://imgur.com/lI4f2R6 Imgur]\n> **Derivative of the following:**\n----\n\n> **Name:** AIA Central Skyscraper, Central, Hong Kong SAR, China\n> **Author:** Ank Kumar\n> **License:** CC BY-SA 4.0\n> **Source Link:** [https://commons.wikimedia.org/wiki/File:AIA_Central_Skyscraper,_Central,_Hong_Kong_SAR,_China_(Ank_Kumar,_Infosys_Limited)_04.jpg Wikimedia Commons]\n\n> **Name:** Broken Down Bridge - geograph.org.uk - 3448476\n> **Author:** Des Blenkinsopp\n> **License:** CC BY-SA 2.0\n> **Source Link:** [https://commons.wikimedia.org/wiki/File:Broken_Down_Bridge_-_geograph.org.uk_-_3448476.jpg Wikimedia Commons]\n\n> **Name:** Cervus canadensis2006\n> **Author:** MONGO\n> **License:** Public Domain\n> **Source Link:** [https://commons.wikimedia.org/wiki/File:Cervus_canadensis2006.jpg Wikimedia Commons]\n\n> **Name:** DTZ Building demolition 19\n> **Author:** Schwede66\n> **License:** CC BY-SA 3.0\n> **Source Link:** [https://commons.wikimedia.org/wiki/File:DTZ_Building_demolition_19.jpg Wikimedia Commons]\n\n\n> **Name:** Gfp-illinois-chicago-city-skyline\n> **Author:** Yinan Chen\n> **License:** CC Public Domain Dedication\n> **Source Link:** [https://commons.wikimedia.org/wiki/File:Gfp-illinois-chicago-city-skyline.jpg Wikimedia Commons]\n\n> **Name:** Roof tops from the Empire State Building (4694465484)\n> **Author:** Tony Hisgett\n> **License:** CC BY 2.0\n> **Source Link:** [https://commons.wikimedia.org/wiki/File:Roof_tops_from_the_Empire_State_Building_(4694465484).jpg Wikimedia Commons]\n=====\n[[include :scp-wiki:component:license-box-end]]",
+  "tags": [
+    "_cc",
+    "_licensebox",
+    "artwork",
+    "half-cat-josie",
+    "painted",
+    "scp-art"
+  ],
+  "author": "EstrellaYoshte",
+  "created_at": "2022-10-23T09:34:27+00:00",
+  "updated_at": "2024-03-28T18:52:32+00:00",
+  "rating": 67,
+  "_site": "scp-wiki",
+  "_fullname": "art:world-without-man"
+}

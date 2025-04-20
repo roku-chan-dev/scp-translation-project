@@ -1,0 +1,24 @@
+{
+  "title": "SCP-3759",
+  "content": "[[include :scpko:theme:classic]]\n\n[[include info:start]]\n**SCP-3759:** 지구상 마지막 거북이의 섬\n**원작:** http://www.scp-wiki.com/scp-3759\n**저자:** [[*user Weryllium]]\n**역자:** [[*user Langston77]]\n\n> **파일명:** endling.jpg\n> **명칭:** Lonesome George (4996395083).jpg\n> **저자:** A.Davey from Portland, Oregon, EE UU\n> **라이선스:** CC BY 2.0\n> **출처:** [https://commons.wikimedia.org/wiki/File:Lonesome_George_(4996395083).jpg Wikimedia]\n[[include info:end]]\n[[include component:image-block name=https://scp-wiki.wikidot.com/local--files/scp-3759/endling.jpg\n|caption=SCP-3759 개체.]]\n\n**일련번호:** SCP-3759\n\n**등급:** 유클리드\n\n**특수 격리 절차:** SCP-3759가 차지한 육지에는 GPS 추적기가 유지된다. 표준형 역정보, 선박 및 항공기 우회, 인공위성 사진 조작 규약이 적용된다.\n\n**설명:** SCP-3759는 에콰도르 해안에서 서쪽으로 380 km 떨어진 가변적인 육지에 서식하는 수천 마리의 만질 수 없는 핀타섬땅거북(//Chelonoidis abingdonii//) 무리를 말한다.\n\nSCP-3759 개체는 자신이 밟은 어떤 표면이든 최대 반경 5.8 m까지 화산암으로 변화시킨다. 지질학적 분석 결과, 이 암석은 갈라파고스 제도의 암석과 조성이 일치한다. SCP-3759 개체에 의해 생성된 암석은 개체가 유일하게 통과할 수 없는 물질로 알려졌다.\n\nSCP-3759 무리가 한 번에 생성할 수 있는 표면 범위의 상한치는 약 1.4 km^^2^^이다. 여기서 더 나아간 변화는 이전에 변화된 암석을 같은 양의 해수로 전환시킬 뿐이다.\n\n민물 연못과 갈라파고스 토종 식물이 육지의 중심 부근에서 일정한 간격으로 자연스럽게 나타난다.\n\n**부록:** 2012년 6월 24일 아침, 마지막 비변칙적인 핀타섬땅거북인 \"외로운 조지\"가 죽었다. SCP-3759 개체 무리는 둥글게 진을 형성했고 원의 중심에서 새로운 SCP-3759 개체가 출현했다. 이는 새로운 개체의 창조가 기록된 유일한 일이다.",
+  "tags": [
+    "2018-즉흥경연-en",
+    "en",
+    "scp",
+    "동물",
+    "무형",
+    "변형",
+    "비격리",
+    "식물",
+    "액체",
+    "외부엔트로피",
+    "유클리드",
+    "파충류"
+  ],
+  "author": "Langston77",
+  "created_at": "2020-09-25T01:29:58+00:00",
+  "updated_at": "2024-11-10T02:52:23+00:00",
+  "rating": 3,
+  "_site": "scpko",
+  "_fullname": "scp-3759"
+}

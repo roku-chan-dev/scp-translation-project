@@ -1,0 +1,17 @@
+{
+  "title": "SCP-7062",
+  "content": "[[module css]]\n.page {\n    display: block;\n    overflow: hidden;\n    font-family: \"Monotype Corsiva\", \"Bradley Hand ITC\", sans-serif;\n    font-style: normal;\n    background-attachment: scroll;\n    background-clip: border-box;\n    background-color: transparent;\n    background-image: linear-gradient(to top ,rgb(202, 219, 228) 0%, rgb(231, 233, 220) 8%);\n    background-origin: padding-box;\n    background-position: 0px 8px;\n    background-repeat: repeat;\n    background-size: 100% 20px;\n    border: 1px solid #CCC;\n    border-radius: 10px;\n    padding: 10px 10px;\n    margin-bottom: 10px;\n    box-shadow: 0px 1px 3px rgba(0, 0, 0, 0.2)\n}\n.page p,\n.page ul {\n    line-height: 20px;\n    margin: 0;\n}\n[[/module]]\n\n[[>]]\n[[module rate]]\n[[/>]]\n\n[[include :scp-wiki:component:anomaly-class-bar-source\n|item-number= 7062\n|clearance= 2\n|container-class= neutralized\n|secondary-class= none\n|secondary-icon= \n|disruption-class=\n|risk-class=\n]]\n\n**Special Containment Procedures:** No procedures are necessary. \n\n**Description:** SCP-7062 is the collective designation for an anomaly relating to poet and former Foundation researcher Layla Becker. SCP-7062-A was an ink jar full of dried blood belonging to Dr. Becker. SCP-7062-B was Dr. Becker’s heart, functioning with no irregularities despite being completely disconnected from her body.\n\n**Discovery:** SCP-7062 was discovered post-neutralization on 08/09/1998 when Dr. Becker was found expired on her desk. After a standard sweep of her apartment, SCP-7062-A and SCP-7062-B were discovered on a personal desk, alongside several poems written in blood. A coroner's report found that the heart had suffered rapid takotsubo cardiomyopathy[[footnote]]A condition where the heart’s left ventricle becomes loosened as a result of stress[[/footnote]], resulting in the expiration of the researcher. Along with Dr. Becker’s corpse, a note in standard ink was found on the desk. A direct transcription can be found below.\n\n[[div class=\"page\"]]\n[[size larger]]Here I sit alone\nEverything is cold and dark\nStill waiting for you to phone\nYou were my spark\nNow tears stream down my face\nYour beauty reminded me of a dove\nI see shadows in your place\nNow I know the pain that comes with [[span style=\"color: transparent; text-shadow: 0 0 7px rgba(0,0,0,.5)\"]]love[[/span]][[/size]]\n[[/div]]\n\nCharacters became increasingly illegible near the end of the note. Additionally, the final letters of the note were obscured due to the presence of lacrimal fluid.\n\n[[footnoteblock]]\n\n[[include :scp-wiki:component:license-box]]\n=====\nCritters: [[*user Uncle Nicolini]], [[*user lordxvnv]], [[*user DrApricus]] [[*user elfLawyer]], [[*user Kish99]], [[*user SirSlash47]], [[*user ClownSlayer]], [[*user realsurrealsir]], [[*user Dr Trintavon]], [[*user UnnaHuz]], [[*user Swaxeman]], and [[*user Erminustay]]\n=====\n[[include :scp-wiki:component:license-box-end]]",
+  "tags": [
+    "_licensebox",
+    "biological",
+    "blood",
+    "neutralized",
+    "scp"
+  ],
+  "author": "Voiiiii",
+  "created_at": "2022-10-30T19:13:17+00:00",
+  "updated_at": "2023-10-31T13:09:07+00:00",
+  "rating": 22,
+  "_site": "scp-wiki",
+  "_fullname": "scp-7062"
+}

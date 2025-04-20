@@ -1,0 +1,16 @@
+{
+  "title": "泰国分部设定中心",
+  "content": "[[module CSS]]\n.content-panel.standalone {\n  padding: 20px 30px;\n}\n\n.canon-title {\n  font-size: 200%;\n  font-weight: bold;\n  margin-bottom: 10px;\n}\n\n.canon-description {\n  font-size: 110%;\n  font-weight: bold;\n  text-align: justify;\n}\n\n.canon-snippet {\n  font-style: italic;\n}\n.canon-snippet-subtext {\n  font-size: 70%;\n  margin-top: 10px;\n}\n\n[[/module]]\n\n\n[[=]]\n[[div class=\"content-panel standalone\" style=\"font-family: Courier New, Courier, monospace; width: auto; padding: 10px 30px; margin: 20px auto; background: url(https://i.imgur.com/tJKsEEJ.jpg) repeat; text-shadow: 1px 1px 1px rgba(0,0,0,.25)\"]]\n+ [[[horror-Foundation |恐怖基金会]]]\n[[div class=\"canon-description unmargined\"]]\n你喜欢围栏里的神秘事物吗！\n[[/div]]\n-----\n[[div class=\"canon-snippet unmargined\"]]\nผมสบดออกมาเบาๆเนื่องจากที่นี้สกปรกมาก เมื่อมองไปรอบๆเริ่มมีนักวิจัยทยอยเข้ามาในห้องบ้างแล้ว แต่ดูหน้าตาแต่ละคนประหลาดจัง คนนั้นดูเหมือนผิวหนังจะดูเปื่อยๆแฮะ อีกคนก็มีลวดเย็บปากอยู่และพยายามพูดอะไรบ้างอย่างที่ฟังไม่ออกมาตั้งแต่ผมเข้าห้องมาแล้ว คนนั้นดูเหมือนไม่มีท่อนล่าง อีกคนกลับมีรอยเย็บเต็มร่างกาย แต่ผมอาจจะคิดไปเองก็ได้ ก็ในสถาบันนี้มันไม่ธรรมดาแต่แรกอยู่แล้วนี่น่า\n[[div class=\"canon-snippet-subtext unmargined\"]]\n“指南B栋”，Dr Xu weil geena著\n[[/div]]\n[[/div]]\n[[/div]]\n[[/=]]\n\n\n[!-- (使用代码)\n\n[[=]]\n[[div class=\"content-panel standalone\" style=\"font-family: Courier New, Courier, monospace; width: auto; padding: 10px 30px; margin: 20px auto; background: url(图片链接) repeat; text-shadow: 1px 1px 1px rgba(0,0,0,.25)\"]]\n+ [[[00 |11]]]\n[[div class=\"canon-description unmargined\"]]\n信息\n[[/div]]\n-----\n[[div class=\"canon-snippet unmargined\"]]\n信息\n[[div class=\"canon-snippet-subtext unmargined\"]]\n题目\n[[/div]]\n[[/div]]\n[[/div]]\n[[/=]]\n\n--]",
+  "tags": [
+    "th",
+    "中心",
+    "故事",
+    "需更新"
+  ],
+  "author": "thrumuvethur",
+  "created_at": "2018-12-20T08:08:30+00:00",
+  "updated_at": "2021-11-19T14:20:32+00:00",
+  "rating": 1,
+  "_site": "scp-wiki-cn",
+  "_fullname": "th-canon-hub"
+}

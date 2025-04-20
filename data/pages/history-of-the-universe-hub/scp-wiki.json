@@ -1,0 +1,14 @@
+{
+  "title": "History Of The Universe Hub",
+  "content": "[[div class=\"blockquote\" style=\"border-radius: 10px; margin: 10px\"]]\n[[module ListUsers users=\".\"]]\nWelcome, %%title%%!\n[[/module]]\nThis essay is a chronicle of the SCP wiki, dating back from the beginning to the current day. I've created it so we can easily remember where we've been, and our history. People deserve an easy and interesting way to learn about where we came from, and where we're going.\n\nIf you see any errors in spelling, grammar, or syntax, feel free to fix them. If you believe you see a historically inaccurate fact, please send me a private message explaining it to me, and I will fix it or explain it as soon as I can.\n\nI hope you find the information presented here educational and enlightening, and that you come away knowing something you hadn't known before.\n[[/div]]\n\n[[div class=\"blockquote\" style=\"border-radius: 10px; margin: 10px\"]]\n[[=]]\n+ The History of the SCP Foundation's Community\n++ [[[History of the Universe Part One]]]:\n,,//__\"Foundation\"__ 2007-2008 - by [[*user RJB_R]] and [[*user Modern_Erasmus]]//,,\n++ [[[History of the Universe Part Two]]]:\n,,//__\"From lolFoundation to Grimdark\"__ 2009 - by [[*user RJB_R]]//,,\n++ [[[History of the Universe Part Three]]]:\n,,//__\"Growing Pains\"__ 2010 - by [[*user RJB_R]]//,,\n++ [[[History of the Universe Part Four]]]:\n,,//__\"Maturity\"__ 2011 - by [[*user RJB_R]]//,,\n++ [[[History of the Universe Part Five]]]:\n,,//__\"In the Age of Containment Breach\"__ 2012 - by [[*user RJB_R]] and [[*user Modern_Erasmus]]//,,\n[[/=]]\n[[/div]]\n[[div class=\"blockquote\" style=\"border-radius: 10px; margin: 10px\"]]\n++++ OFFICIAL ADDITIONAL/SUPPLEMENTAL WORKS\n++++ **[[[Supplementary Material]]]** - by [[*user RJB_R]]\n++++ **[[[A Brief History Of SCP-RU]]]** - by [[*user RJB_R]]\n++++ **[[[A Brief History Of SCP-KO]]]** - by [[*user RJB_R]]\n++++ **[[[about-the-foundation-in-germany| A Brief History of the German Branch]]]** - by [[*user Dr_Grom]]\n++++ **[[[http://www.scp-wiki.net/a-history-of-object-classes| The Origin of Object Classes]]]** - by [[*user cooldude971]]\n++++ **[[[The SCP Foundation on 4chan and EditThis ]]]** - by [[*user cooldude971]]\n++++ **[[[An Interview With \"The Administrator\"]]]** - by [[*user RJB_R]]\n++++ **[[[A Brief History Of Foundation RP]]]** - by [[*user RJB_R]]\n++++ **[[[SCP Calendar]]]** - by Site Staff\n++++ **[[[Tale Calendar]]]** - by Site Staff\n++++ **[[[Page Calendar]]]** - by Site Staff\n[[/div]]\n\n[[include :scp-wiki:component:license-box\n|author=Anonymous]]\n[[include :scp-wiki:component:license-box-end]]",
+  "tags": [
+    "essay",
+    "hub"
+  ],
+  "author": "RJB_R",
+  "created_at": "2013-02-17T21:37:35+00:00",
+  "updated_at": "2022-03-05T08:30:02+00:00",
+  "rating": 80,
+  "_site": "scp-wiki",
+  "_fullname": "history-of-the-universe-hub"
+}

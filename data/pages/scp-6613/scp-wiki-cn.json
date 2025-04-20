@@ -1,0 +1,17 @@
+{
+  "title": "SCP-6613",
+  "content": "[[include theme:black-highlighter-theme]]\n[[module CSS]]\nsup {\nvertical-align: top; position: relative; top: -0.5em;\n}\n:root{\n--cutColour: #fafafa;\n--barColour: #590505;\n}\n\n.info-container .collapsible-block-folded a{\ncolor: #FFF;}\n.info-container .collapsible-block-unfolded-link a{\ncolor: #FFF;}\n\n.translation_block{\ndisplay:none;}\n[[/module]]\n[[module css]]\n#side-bar {\n    background: rgb(var(--white-monochrome));\n}\n\n#side-bar div.menu-item a, #side-bar div.menu-item .text {\n    color: rgb(var(--black-monochrome));\n}\n\n#side-bar>div:nth-child(5) {\n    background-color: rgba(var(--dark-accent),0.25)!important;\n}\n[[/module]]\n\n[[include component:image-block name=http://scp-wiki.wikidot.com/local--files/scp-6613/titlecard.jpg |caption=剧集标题卡的典型示例]]\n\n**项目编号：**SCP-6613\n\n**项目等级：**Euclid\n\n**特殊收容措施：**已对公众传播信息，将SCP-6613定性为对传统肥皂剧、电视剧的常规戏仿。\n\n由于SCP-6613强度不足以被大部分大陆接收者发现，无必要采取更多措施。  [[footnote]]平民通过商用级设备接收模拟信号而今已不再可能，基金会的异常广播安保指令已经让美国市场过渡到只使用数字信号。[[/footnote]]\n\n\n**描述：**SCP-6613是一种在700MHz范围的模拟电视信号，来自堪萨斯州威奇塔市上空64千米处的一个静态源头。其内容（一部名为《句读剧》的肥皂剧）会在当地时间02：00到03：00期间播放。该节目（以英语播放，配以翻译低劣的西班牙语字幕）讲述了富裕农场主家族Periadós的故事。围绕中心家族展开了若干次要情节，涉及工人阶级的经济与爱情问题。\n\n节目中的人物是一群被拟人化的标点符号。它们与人类的相似之处因角色而异，但所有角色都长有手臂、腿、还有面部，无论其对应的标点为何。只有带名字的角色有标点符号的外形。剩余角色外形和正常人类一致，但在剧中会把这些角色当成人类一样对待。\n\n节目的一般结构为开场、标题画面、而后是剩余剧集。全程有各类广告插入。所有与节目一起播放的内容、以及节目本身，都是由维坎德·尼德技术传媒制作。\n\n下面是节目开场的典型示例。\n\n> //Maria Periadós，一个逗号，正躺在医院床上。Jonathan Millon，一个问号，在门外踱步，一群医生正在照看Maria。Maria似乎在痛苦之中，慢慢展现出她正在阵痛，即将分娩。//\n> \n> //Jonathan一旁是Ruiz Sánchez在安慰，这是一个冒号。两人在Maria哭喊时受了一惊，而后Jonathan连忙跑进医护室。//\n> \n> //医生慢慢转头面向镜头，怀抱襁褓中的孩童说道。//\n> \n> “是...是个分号。”\n> \n> //镜头扫向站在门口的Ruiz。一段3.4秒的延迟、配有背景传来的婴儿哭叫后，镜头慢慢缩进到Ruiz的脸上。//\n> \n> //突然切入黑屏。标题卡慢慢切入。//\n> \n[[=]]\n> + 句读剧（Period Drama）[[footnote]] **译注：**Period的词义包括年代，同时也是句号。[[/footnote]]\n>  \n> ++ 第96集《孕育中的停顿》[[footnote]]**译注：**成语，指一段意味深长的停顿。 [[/footnote]]\n[[/=]]\n尝试搜寻SCP-6613播放源头无果。\n\n[[footnoteblock]]\n\n[[div class=\"footer-wikiwalk-nav\"]]\n[[=]]\n<< [[[SCP-6612]]] | SCP-6613 | [[[SCP-6614 ]]] >>\n[[/=]]\n[[/div]]\n\n[[include :scp-wiki-cn:component:license-box\n|author=Doctor Cimmerian\n|translator=\n]]\n=====\n> 文件名：Cloudy Sky\n> 作者：FotoSleuth\n> 授权协议：CC BY 2.0\n> 来源链接：[[[https://www.flickr.com/photos/51811543@N08/26171935906/ | Link]]]\n> 备注：由[[*user Grigori Karpin]]编辑。\n\n> 文件名：Wolfe Ranch House\n> 作者：Don Graham\n> 授权协议：CC BY-SA 2.0\n> 来源链接：[[[https://www.flickr.com/photos/23155134@N06/7993179429/ | Link]]]\n> 备注：由[[*user Grigori Karpin]]编辑。\n=====\n[[include :scp-wiki-cn:component:license-box-end]]",
+  "tags": [
+    "euclid",
+    "scp",
+    "媒体",
+    "维坎德·尼德",
+    "记录"
+  ],
+  "author": "ashausesall",
+  "created_at": "2022-05-30T11:45:48+00:00",
+  "updated_at": "2024-04-24T00:41:07+00:00",
+  "rating": 3,
+  "_site": "scp-wiki-cn",
+  "_fullname": "scp-6613"
+}

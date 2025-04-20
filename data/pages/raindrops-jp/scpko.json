@@ -1,0 +1,14 @@
+{
+  "title": "우산을 두드리는 빗방울",
+  "content": "//[[span class=\"ruby\"]]우산[[span class=\"rt\"]]건반[[/span]][[/span]]을 두드리는 [[span class=\"ruby\"]]빗방울[[span class=\"rt\"]]소녀[[/span]][[/span]]//\n\n[[include info:start]]\n**우산을 두드리는 빗방울** \n**저자:** [[*user Eqlipse]]\n**원작:** http://scp-jp.wikidot.com/raindrops\n**역자:** [[*user Elfen_mathL]]\n[[include info:end]]\n\n[[module css]]\n.utaama {\n    width: 30%;\n}\n\n.utaama:hover{\n    width: 100%;\n}\n[[/module]]\n\n[[div class=\"utaama\"]]\n[[image http://ja.scp-wiki.net/local--files/raindrops/548jp.png]]\n[[/div]]\n[[*user Eqlipse]]\n\n[[*user 29mo]] : [[[SCP-548-JP]]]와, 이를 이미지하여 쓴 자작 이야기 [[[moonfoxdr548jp|“내가 빗방울이 된 날”]]]의 삽화 같은 걸 그렸습니다.\n\n마우스를 올리면 확대됩니다. (폰은 탭으로 확대됩니다.)",
+  "tags": [
+    "jp",
+    "아트워크"
+  ],
+  "author": "Elfen_mathL",
+  "created_at": "2018-08-03T11:11:20+00:00",
+  "updated_at": "2024-09-26T01:23:24+00:00",
+  "rating": 2,
+  "_site": "scpko",
+  "_fullname": "raindrops-jp"
+}

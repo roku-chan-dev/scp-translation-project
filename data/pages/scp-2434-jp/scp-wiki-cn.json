@@ -1,0 +1,20 @@
+{
+  "title": "SCP-2434-JP",
+  "content": "[[include :scp-wiki-cn:credit:start-standalone]]\n**标题:**  SCP-2434-JP - 热水壶\n**作者:** ©︎[[*user Karathh]]\n**创建时间:** 2020\n[[include :scp-wiki-cn:credit:end-standalone]]\n\n\n[[div class=\"notice\"]]\n++++ 来自基金会**[/domc-hub 误传部门]**的提示\n\n本使用手册可能存在包含有非必要的信息之情况，\n且缺乏其他一些资讯的情况，但这并非故意为之。\n若您在阅读手册后有任何疑问，请联系误传部门。\n\n\n—— 濑户博士，日本支部误传部门\n[[/div]]\n\n----\n\n**型号：**SCP-2434-JP\n\n**分类：**热水壶\n\n[[include component:image-block\n|name=http://scp-int.wdfiles.com/local--files/scp-2434-jp/Kettle.jpg\n|caption=SCP-2434-JP型\n|align=center\n|clear=true\n|width=300px]]\n\n**说明：**SCP-2434-JP型热水壶，来源未知，材质不明。\n\n热水壶不但可用于煮水，也能简单地运送液体，还可以作为加湿器，只消注满水入其内，并置之于房中。然而，热水壶并不能当做钝器、室内装修道具、容器内填充物来使用。\n\n\n__**⚠️操作注意事项⚠️**__\n* 其目前被使用在Site-8154内的自助餐厅的厨房之中。\n\n* 使用过程中，触摸其表面可能导致烧伤烫伤。\n\n* 使用完毕后，应使用浸泡过中性洗涤剂的海绵，将其清洗。接着先擦去水分，再进行干燥处理。\n\n* 请在使用该产品前，仔细阅读使用手册。请勿损坏手册，并将其与产品放置到安全之处，以供未来作为参考。\n\n* 若您认为任何对手册的更改是必要的，请联系误传部门。 \n\n* **##red|__将产品用于预设用途之外时，使用者可能会遭受意外伤害。__##**\n\n**先前事故案例：**\n\n__**案例一**__\n> **使用者：**二十几岁的家庭主妇\n> \n> **事故记录：**面部烧伤\n> \n> **事故起因：**将其用作钝器\n\n__**案例二**__\n> **使用者：**三十几岁的研究员\n> \n> **事故记录：**包括使用者在内的五名职员，丧失了关于项目等级的知识\n> \n> **事故起因：**将其分配项目等级\n\n__**案例三**__\n> **使用者：**三十几岁的研究员\n> \n> **事故记录：**手指骨折（二次）\n> \n> **事故起因：**用锉刀对其进行成分分析（二次）\n\n__**案例四**__\n> **使用者：**三十几岁的研究员\n> \n> **事故记录：**80份报告从基金会信息记录与安保部门（RAISA）的数据库中丢失。\n>  \n> **事故起因：**不恰当说明\n\n__**案例五**__\n> **使用者：**二十几岁的D级人员\n> \n> **事故记录：**多台使用设备爆炸，并造成了Site-8154受损，以及12名人员受伤（死者只有使用人）\n> \n> **事故起因：**尝试使用多种设备，包括康德计数器和秤盘，进行测量工作\n\n__**案例六**__\n> **使用者：**无\n> \n> **事故记录：**数个相关组织的袭击，导致了收容锁柜的损坏（每隔一日，共三次）\n> \n> **事故起因：**长期储存于收容锁柜中（三次）\n\n[[module CSS]]\n.notice{\n    border: 1px solid #f9e24d;\n    outline: 4px solid #b54d3b;\n    color: #f9e24d;\n    background: #b54d3b;\n    padding: 10px;\n    text-align: center;\n}\n\n/* HEADER */\n#header{ background-image: url(http://scp-jp.wikidot.com/local--files/scp-2434-jp/DoMC_Logo100.png); }\n#header h1 a{\n    display: block;\n    margin: 0;\n    padding: 80px 0 25px;\n    line-height: 0;\n    max-height: 0;\n    color: transparent;\n    background: transparent;\n    font-family: 'Verdana', Arial, sans-serif;\n    text-decoration: none;\n    text-shadow: none;\n    letter-spacing: 0.9px;\n}\n#header h1 a::before{\n    content: \"误传部\";\n    color: white;\n    letter-spacing: -0.02em;\n    text-shadow: 3px 3px 5px black;\n}\n#header h2 span{\n    display: block;\n    margin: 0;\n    padding: 19px 0;\n    line-height: 0;\n    max-height: 0;\n    font-weight: bold;\n    color: transparent;\n    text-shadow: none;\n}\n#header h2 span::before{\n    content: '释解传讯纰缪';\n    color: white;\n    text-shadow: 1px 1px 1px black;\n}\n[[/module]]\n\n\n[[module CSS]]\n.notice{\n    border: 1px solid #f9e24d;\n    outline: 4px solid #b54d3b;\n    color: #f9e24d;\n    background: #b54d3b;\n    padding: 10px;\n    text-align: center;\n}\n.notice a {\n    color: aqua;\n}\n[[/module]]",
+  "tags": [
+    "jp",
+    "meta",
+    "scp",
+    "二次翻译",
+    "信息危害",
+    "机密分级",
+    "误传部",
+    "金属"
+  ],
+  "author": "Etinjat",
+  "created_at": "2020-11-10T17:59:48+00:00",
+  "updated_at": "2020-11-18T12:21:07+00:00",
+  "rating": 5,
+  "_site": "scp-wiki-cn",
+  "_fullname": "scp-2434-jp"
+}

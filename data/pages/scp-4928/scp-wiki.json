@@ -1,0 +1,20 @@
+{
+  "title": "SCP-4928",
+  "content": "[[include :scp-wiki:theme:black-highlighter-theme]]\n[[>]]\n[[module Rate]]\n[[/>]]\n\n[[include component:cd-ver2\n|lv=1\n|item=SCP-4928\n|class=Safe\n|site-responsible=Site-12\n|director=Dr. Jack Hargraves\n|research-head=N/A\n|assigned-task-force=N/A\n]]\n\n**Special Containment Procedures:** SCP-4928 is to be contained in a standard quadruped containment cell, in accordance with the Parazoology Department's Guidelines.\n\nThe structure containing SCP-4928-1 has been sealed with concrete.\n\n**Description:** SCP-4928 is a collection of seven kittens dressed in Halloween costumes. Every instance also wears identical collars bearing the word \"Billy's\" in a child's handwriting. All seven instances are perpetually wet, and staff interacting with them are encouraged to bring towels to dry themselves. All attempts to harm SCP-4928 have failed. \n\nSCP-4928-1 was a persistent auditory anomaly within SCP-4928's discovery site: A child's voice, crying out for his mother, repeated every thirty seconds prior to being sealed. \n\n[[collapsible show=\"+ SCP-4928-1 Transcript\" hide=\"- Hide Transcript\"]]\n\n> <**Begin Looped Message**>\n> \n> **Voice:** Johnny? Johnny! Let me out. I didn’t mean to take it. Please? Please, let me out. Please let them out. They never hurt nobody, promise. They've never done a bad thing before. Momma? Momma... //[splashing noises] [pause]// I wish they'd make it out... \n> \n> <**End Looped Message**>\n\n[[/collapsible]]\n\n**Discovery:** SCP-4928 was discovered at the bottom of a well on the Hollingson Farm in rural Vermont inside of a burlap sack, as well as the skeleton of a 12-year-old boy, later identified as William Elliot. Elliot was reported missing on the night of October 31st, 1960, after his treehouse was found ransacked. A switchblade belonging to one Jonathan Regis, a local fourteen-year-old named as a suspect in the disappearance by local police, was discovered in a cookie tin within the treehouse’s wreckage. No other anomalous properties were observed within the well.\n\n[[footnoteblock]]\n\n[[div class=\"footer-wikiwalk-nav\"]]\n[[=]]\n<< [[[SCP-4927]]] | SCP-4928 | [[[SCP-4929]]] >>\n[[/=]]\n[[/div]]\n[[include :scp-wiki:component:license-box]]\n[[include :scp-wiki:component:license-box-end]]",
+  "tags": [
+    "_licensebox",
+    "acoustic",
+    "feline",
+    "indestructible",
+    "location",
+    "loop",
+    "safe",
+    "scp"
+  ],
+  "author": "Dyslexion",
+  "created_at": "2019-10-18T03:13:14+00:00",
+  "updated_at": "2022-10-22T12:54:30+00:00",
+  "rating": 45,
+  "_site": "scp-wiki",
+  "_fullname": "scp-4928"
+}

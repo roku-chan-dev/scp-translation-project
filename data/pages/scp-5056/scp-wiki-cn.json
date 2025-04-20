@@ -1,0 +1,25 @@
+{
+  "title": "SCP-5056",
+  "content": "[[include :scp-wiki-cn:theme:blankstyle]]\n\n[[module CSS]]\n:root {\n    --timeDelay: 0.5s;\n}\n[[/module]]\n\n[[module CSS]]\n/* anendlessusername's invaluable correction of the ACS octagon! */\n#page-content .quadrants > div {\n    top: 2.25%;\n    left: 18.5%;\n}\n[[/module]]\n\n[!--\nFragments:\nhttp://scp-wiki-cn.wikidot.com/fragment:scp-5056-offset-0\nhttp://scp-wiki-cn.wikidot.com/fragment:scp-5056-offset-1\n--]\n\n[[module ListPages category=\"fragment\" parent=\".\" order=\"created_at\" limit=\"1\" offset=\"@URL|0\"]]\n%%content%%\n[[/module]]\n\n[[div class=\"footer-wikiwalk-nav\"]]\n[[=]]\n<< [[[SCP-5055]]] | SCP-5056 | [[[SCP-5057]]] >>\n[[/=]]\n[[/div]]\n\n[[div]]\n[[=]]\n\n[[include :scp-wiki-cn:component:license-box\n|author=HarryBlank]]\n\n=====\n[[<]]\n> **文件名：** 5056R.png\n> **图像作者：** [[*user HarryBlank]]\n> **授权协议：** CC BY 3.0\n\n> **文件名：** AR.png, JM.png, PP.png, PS.png, RE.png, SS.png \n> **图像作者：** [[*user HarryBlank]]\n> **授权协议：** CC BY 3.0\n\n> **文件名：** DougCard.png\n> **图像作者：** [[*user HarryBlank]]\n> **授权协议：** CC BY 3.0\n\n----\n\n> **文件名：** DougMop.jpg\n> **图像作者：** [[*user HarryBlank]]\n> **授权协议：** CC BY-SA 3.0\n> **笔记：** 以下文件的编辑版本:\n\n> **文件名：** Some kinds of helpful we can do without\n> **图像作者：** London Looks\n> **授权协议：** CC BY 2.0\n> **来源：** [https://www.flickr.com/photos/londonlooks/5563391691 flickr]\n\n> **文件名：** IMG_2437 4 male bust with laurel\n> **图像作者：** Bija's photos\n> **授权协议：** CC BY 2.0\n> **来源：** [https://search.creativecommons.org/photos/73eed5a9-a1be-4332-8b2b-a5967ff2ab4d flickr]\n\n----\n> **文件名：** DougReal.png\n> **图像作者：** [[*user HarryBlank]]\n> **授权协议：** CC BY 3.0\n> **笔记：** 以下文件的编辑版本：\n\n> **文件名：** Obscure Glass\n> **图像作者：** Brett Jordan\n> **授权协议：** CC BY 2.0\n> **来源：** [https://search.creativecommons.org/photos/67856ea6-358b-4443-a3f5-b3c732873912 flickr]\n\n> **文件名：** IMG_2437 4 male bust with laurel\n> **图像作者：** Bija's photos\n> **授权协议：** CC BY 2.0\n> **来源：** [https://search.creativecommons.org/photos/73eed5a9-a1be-4332-8b2b-a5967ff2ab4d flickr]\n\n----\n\n> **文件名：** Phil.jpg\n> **标题：** Hazmat Tech\n> **图像作者：** depetit\n> **授权协议：** CC BY-SA 2.0\n> **来源：** [https://search.creativecommons.org/photos/bdddfbef-8b90-41d7-9dc6-11041972d027 flickr]\n\n> **文件名：** Philmelia.jpg\n> **标题：** couple on bench\n> **图像作者：** Davmi Pics\n> **授权协议：** CC BY 2.0\n> **来源：** [https://search.creativecommons.org/photos/88746bd1-ffe6-4333-8645-b3549b2f42ef flickr]\n[[/<]]\n=====\n[[include :scp-wiki-cn:component:license-box-end]]\n[[/=]]\n[[/div]]",
+  "tags": [
+    "blank博士",
+    "euclid",
+    "ibanez部长",
+    "philip-deering",
+    "scp",
+    "人形生物",
+    "传送",
+    "值守43",
+    "光照影响",
+    "异常移动",
+    "无形",
+    "眼睛",
+    "视觉性"
+  ],
+  "author": "VincentSalamander",
+  "created_at": "2022-01-07T07:38:21+00:00",
+  "updated_at": "2024-09-01T01:03:41+00:00",
+  "rating": 8,
+  "_site": "scp-wiki-cn",
+  "_fullname": "scp-5056"
+}

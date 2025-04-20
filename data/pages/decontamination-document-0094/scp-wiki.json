@@ -1,0 +1,15 @@
+{
+  "title": "SCP 2413 - Decontamination Document",
+  "content": "[[include component:info-ayers\n|lang=en[!-- EN/RU/KO/CN/FR/PL/ES/TH/JP/DE/IT/UA/PTBR --]\n|page=decontamination-document-0094[!-- url of your page on the scp wiki --]\n|authorPage=http://www.scp-wiki.net/dr-cimmerian-s-personnel-file[!-- link to your author page --]\n|comments= Back to the first page: http://www.scp-wiki.net/scp-2413\n]]\n[[include theme:black-highlighter-theme]]\n[[module CSS]]\nsup { \nvertical-align: top; position: relative; top: -0.5em; \n}\n:root{ \n--cutColour: #fafafa;\n--barColour: #590505;\n}\n\n.info-container .collapsible-block-folded a{\ncolor: #FFF;}\n.info-container .collapsible-block-unfolded-link a{\ncolor: #FFF;}\n\n.translation_block{\ndisplay:none;}\n[[/module]]\n[[module css]]\n#side-bar {\n    background: rgb(var(--white-monochrome));\n}\n\n#side-bar div.menu-item a, #side-bar div.menu-item .text {\n    color: rgb(var(--black-monochrome));\n}\n\n#side-bar>div:nth-child(5) {\n    background-color: rgba(var(--dark-accent),0.25)!important;\n}\n[[/module]]\n\n[[>]]\n[[module Rate]]\n[[/>]]\n\n++ Please view the following image until auditory hallucinations cease. \n\n[[=image https://scp-wiki.wikidot.com/local--files/decontamination-document-0094/Apophysis-100303-104.jpg style=\"width: 99%; border: solid 1px #000000; padding: 1px\"]]\n\n@@@@\n@@@@\n@@@@\n@@@@\n@@@@\n@@@@\n@@@@\n@@@@\n\n\n**Thank you for completing the Cognitohazard Containment Procedure. This process must be completed again if accessing SCP-2413's documentation at a later date.**\n\n[[html]]\n<audio autoplay>\n  <source src=\"https://scp-wiki.wdfiles.com/local--files/decontamination-document-0094/newbackandforth.mp3\" type=\"audio/mpeg\">\n</audio>\n\n<html>\n<head>\n<script type=\"text/javascript\">\n\nfunction checkRedirect()\n{\n    if (parseInt(sessionStorage.read) != 1)\n    {\n        window.top.location = \"http://www.scp-wiki.net/scp-2413\";\n    }\n}\n</script>\n</head>\n<body onLoad=\"checkRedirect();\">\n</body>\n</html>\n[[/html]]",
+  "tags": [
+    "_cc",
+    "audio",
+    "supplement"
+  ],
+  "author": "Doctor Cimmerian",
+  "created_at": "2014-12-31T01:03:40+00:00",
+  "updated_at": "2021-10-14T08:49:19+00:00",
+  "rating": 136,
+  "_site": "scp-wiki",
+  "_fullname": "decontamination-document-0094"
+}

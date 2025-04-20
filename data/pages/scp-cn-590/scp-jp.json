@@ -1,0 +1,23 @@
+{
+  "title": "SCP-CN-590",
+  "content": "[[module CSS]]\n#page-title {\n  display: none;\n}\n\n.meta-title {\n  border-bottom: solid 1px #bbbbbb;\n  color: #990011;\n  font-weight: normal;\n  margin: 0 0 0.6em;\n  padding: 0 0 0.25em;\n  font-size: 200%;\n}\n\n.meta-title p {\n  margin: 0;\n}\n[[/module]]\n[[module ListPages category=\"fragment\" parent=\".\" limit=\"1\" order=\"name\" offset=\"@URL|0\"]]\n[[div class=\"meta-title\"]]\n%%title%%\n[[/div]]\n[[/module]]\n[[>]]\n[[module Rate]]\n[[/>]]\n[[module ListPages category=\"fragment\" parent=\".\" limit=\"1\" order=\"name\" offset=\"@URL|0\"]]\n\n%%content%%\n[[/module]]\n@@@@\n@@@@\n@@@@",
+  "tags": [
+    "cn",
+    "euclid",
+    "scp",
+    "地下",
+    "地球外",
+    "宗教",
+    "建造物",
+    "未来",
+    "歴史",
+    "注目記事",
+    "蘇生"
+  ],
+  "author": "BenjaminChong",
+  "created_at": "2019-05-26T06:28:35+00:00",
+  "updated_at": "2021-01-10T17:35:56+00:00",
+  "rating": 94,
+  "_site": "scp-jp",
+  "_fullname": "scp-cn-590"
+}

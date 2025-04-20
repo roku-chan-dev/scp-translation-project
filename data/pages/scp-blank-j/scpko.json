@@ -1,0 +1,18 @@
+{
+  "title": "SCP-공백-J",
+  "content": "[[include info:start]]\n**SCP-공백-J:** 뒈져라, 항밈아!\n**저자:** [[*user Siddartha Alonne]]\n**원작:** http://www.scp-wiki.net/scp-blank-j\n**역자:** [[*user MGPedersen]]\n[[include info:end]]\n\n[[module CSS]]\n.email-example .collapsible-block-folded a.collapsible-block-link {\n    animation: blink 0.8s ease-in-out infinite alternate;\n}\n@keyframes blink {\n    0% { color: transparent; }\n    50%, 100% { color: #b01; }\n}\n.email {border: solid 2px #000000; width: 88%; padding: 1px 15px; margin: 10px; box-shadow: 0 1px 3px rgba(0,0,0,.5)}\n.email-example a.collapsible-block-link {font-weight: bold;}\n.tofrom {margin-left: 10px; margin-top: 5px; padding: 1px 15px; border-left: solid 3px maroon}\n[[/module]]\n[[include :scpko:theme:black-highlighter-theme]]\n\n[[module CSS]]\n:root:lang(ko) {\n--logo-image: url(https://nu-scptheme.github.io/Black-Highlighter/img/logo.svg);\n}\n[[/module]]\n@@ @@\n@@ @@\n@@ @@\n@@ @@\n@@ @@\n@@ @@\n@@ @@\n@@ @@\n@@ @@\n@@ @@\n@@ @@\n@@ @@\n@@ @@\n@@ @@\n@@ @@\n@@ @@\n@@ @@\n@@ @@\n@@ @@\n@@ @@\n@@ @@\n@@ @@\n[[div class=\"email-example\"]]\n[[=]]\n------\n[[collapsible show=\"메이 씨, 새로운 메세지 1 개가 도착했습니다!\" hide=\"숨기기\"]]\n[[div class=\"email\"]]\n[[div class=\"tofrom\"]]\n[[<]]\n**발신:** 니콜라스 메이,,Nicholas May,,, 물류부\n**수신:** 매리언 휠러,,Marion Wheeler,, 이사관, 항밈학과\n**제목:** ##red|(!)## SCP-공백-J\n-----\n좋은 아침입니다, 휠러 이사관님.\n제 이메일에 첨부된 파일을 보시다시피, SCP 슬롯 하나에 항밈적 성질이 생긴 것 같습니다. 문제를 해결하는 데 이사관님의 도움을 받고 싶습니다. 이런 류의 변칙 현상들은 그쪽 분야에선 일상일테니, 이사관님이랑 그쪽 연구원 분들에겐 그리 어려운 일이 아닐 겁니다.\n이사관님의 답장을 간절히 기다리고 있습니다.\n\n안부를 전하며,\n니콜라스 메이\n[[/<]]\n[[/div]]\n[[/div]]\n@@ @@\n@@ @@\n-----\n@@ @@\n@@ @@\n@@ @@\n[[div class=\"email\"]]\n[[div class=\"tofrom\"]]\n[[<]]\n**발신:** 매리언 휠러 이사관, 항밈학과\n**수신:** 니콜라스 메이, 물류부\n**제목:** RE: ##red|(!)## SCP-공백-J\n-----\n니콜라스 메이 씨,\n그쪽께서 항밈으로 찡찡거리기 전에, \"저장\" 버튼을 눌렀는지부터 확인해야 할 것 같군요.\n얼간아.\n[[/<]]\n[[/div]]\n[[/div]]\n\n[[/collapsible]]\n[[/=]]\n[[/div]]\n\n@@@@\n@@@@\n\n[[div class=\"authors\"]]\n[[include :scp-wiki:component:license-box\n|author=Siddartha Alonne]]\n[[include :scp-wiki:component:license-box-end]]\n[[/div]]",
+  "tags": [
+    "en",
+    "scp",
+    "난해한-등급",
+    "농담",
+    "매리언-휠러",
+    "메타"
+  ],
+  "author": "MGPedersen",
+  "created_at": "2022-01-05T09:17:57+00:00",
+  "updated_at": "2024-10-06T16:24:39+00:00",
+  "rating": 12,
+  "_site": "scpko",
+  "_fullname": "scp-blank-j"
+}

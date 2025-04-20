@@ -1,0 +1,14 @@
+{
+  "title": "信息危害警告",
+  "content": "[[div class=\"content-panel standalone\" style=\"width: 600px; max-width: 90%; margin: 0 auto 20px; padding: 10px 20px; text-align: center;\"]]\n[[div class=\"unmargined\" style=\"font-size: 136.71%; font-weight: bold; font-family: Arial, Helvetica, 'Malgun Gothic', sans-serif; margin: 10px 0 0;\"]]\n以下内容需要安保许可4/444K专用密码。\n[[/div]]\n----\n此SCP项目相关信息，仅允许获得安保许可1~4/444K的工作人员浏览。基于信息安全协议规定，未获得许可的工作人员试图访问下面的文件时，将立即被拘留。\n@@ @@\n@@ @@\n[[html]]\n<script type=\"text/javascript\">\n\nfunction LogIn(){\nloggedin=false;\npassword=\"5438464\";\npassword=prompt(\"PASSWORD:\",\"\");\npassword=password.toLowerCase();\n\nif (password==\"5438464\") {\nloggedin=true;\nwindow.open('http://scp-wiki-cn.wikidot.com/scp-444-ko');\n}\n\nif (password==\"4423144444\") {\nloggedin=true;\nwindow.open('http://scp-wiki-cn.wikidot.com/scp-444-ko-document');\n}\n\nif (loggedin==false) {\nalert(\"访问受限：密码不正确。看到此提示请立即跪下，举起双手，等候安保人员。\");\n}\n}\n</script>\n<div style=\"margin:0 auto; width: 150px;\">\n<form><input type=button value=\"◈访问附加信息◈\" onClick=\"LogIn()\"></form>\n</div>\n[[/html]]\n[[/div]]\n[[span style=\"color: transparent;\"]]密码: 5438464[[/span]]",
+  "tags": [
+    "ko",
+    "掩藏页"
+  ],
+  "author": "nemuri_um",
+  "created_at": "2018-09-21T18:14:40+00:00",
+  "updated_at": "2020-10-18T14:18:18+00:00",
+  "rating": 3,
+  "_site": "scp-wiki-cn",
+  "_fullname": "scp-444-ko-warning"
+}

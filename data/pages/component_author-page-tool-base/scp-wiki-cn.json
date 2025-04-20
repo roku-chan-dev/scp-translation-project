@@ -1,0 +1,14 @@
+{
+  "title": "作者页工具Base",
+  "content": "[[iftags +样版]]\n此为页面自检工具所使用的基础页面。它的使用方法与效果，[[[author-page-tool-guide#toc5|请参见此处。]]]\n[[/iftags]]\n\n[[module ListPages order=\"@URL|{$order}\" category=\"@URL|{$category}\" created_by=\"=\" tag=\"{$tag}\" rating=\">0\" separate=\"no\" perPage=\"@URL|100\"]]\n[[body]]\n**%%title_linked%%**\n[[span style=\"color:{$color}\"]][[span style=\"font-size:{$default}em\"]]**{{[+%%rating%%](+[[#expr (%%rating_votes%%+%%rating%%)/2]]/-[[#expr (%%rating_votes%%-%%rating%%)/2]])}}** **{{%%comments%%}}**[[size 0.9em]]评论 / 最近评论 {{**%%commented_by%%**}} {{**%%commented_at|%y-%m-%d %H:%M%%**}} 最近编辑 {{**%%updated_by%%**}} {{**%%updated_at|%y-%m-%d %H:%M%%**}}[[/size]][[/span]]{$note}[[/span]]\n[[/body]]\n[[/module]]",
+  "tags": [
+    "原创",
+    "样版"
+  ],
+  "author": "W Asriel",
+  "created_at": "2018-08-02T15:18:08+00:00",
+  "updated_at": "2019-02-17T23:21:11+00:00",
+  "rating": 1,
+  "_site": "scp-wiki-cn",
+  "_fullname": "component:author-page-tool-base"
+}

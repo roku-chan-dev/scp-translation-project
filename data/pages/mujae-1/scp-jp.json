@@ -1,0 +1,16 @@
+{
+  "title": "無題 1",
+  "content": "[[include :scp-jp:theme:black-highlighter-theme]]\n[[include :scp-jp:component:toggle-sidebar-bhl]]\n[[include :scp-wiki:theme:cyberpunk theme-number=1]]\n\n[[module CSS]]\n@import url('http://scpko.wdfiles.com/local--files/korean-font/Busan.css');\n[[/module]]\n\n[[module CSS]]\n#page-title {display: none;}\n[[/module]]\n\n[[include credit:start]]\n**原題:** [http://scpko.wikidot.com/mujae-1 무제 1]\n**著者:** [[*user Migueludeom]]\n-------\nキャラクターの使用を許可してくださった[[*user SOYA-001]]に感謝いたします。\n\n[[include credit:end]]\n\n[[=]]\n[[span style=\"font-family: 'KOMACON' ;font-size: 18px;\"]]\n[[size xx-large]]**無題 1**[[/size]]\n[[/span]]\n----------\n[[span style=font-family:;]]\n[[size x-large]]**Untitled 1**[[/size]]\n[[/span]]\n[[/=]]\n\n@@@@\n@@@@\n@@@@\n\n[[=]]\n[[image http://scp-jp-storage.wdfiles.com/local--files/file%3A2577572-247-cbaq/streets-4165342_960_720.jpg]]\n[[/=]]\n\n@@@@\n@@@@\n\n[[<]]\n//{{すべての始まりはこのように起きた。}}//\n[[/<]]\n\n[[>]]\n[[size larger]]**[[[muj-f1|COEXアクアリウム攻撃事件覚書: 第1]]]**[[/size]]\n[[size larger]]**[[[muj-s2|COEXアクアリウム攻撃事件覚書: 第2]]]**[[/size]]\n[[size larger]]**[[[muj-t3|COEXアクアリウム攻撃事件覚書: 第3]]]**[[/size]]\n[[/>]]\n\n@@ @@\n@@ @@\n\n[[<]]\n//{{そして。}}//\n[[/<]]\n\n[[=]]\n[[div class=\"blokquote-alt\"]]\n\n++ 第1幕: サメとトラ\n\n**[[[muj-a|A. 10月9日 午前]]]**\n\n**[[[muj-b|B. 10月9日 午後]]]**\n\n**[[[muj-c|C. 10月10日 早朝]]]**\n\n++ 第2幕: 肉塊と機械\n\n**[[[muj-d|D. 10月11日 未明]]]**\n\n**[[[muj-e|E. 10月11日 未明]]]**\n\n++ 第3幕: 別れゆく人々\n\n**[[[muj-f|F. 10月11日 早朝]]]**\n\n**[[[muj-g|G. 10月11日 午後]]]**\n\n[[/div]]\n[[/=]]",
+  "tags": [
+    "ko",
+    "tale",
+    "ハブ",
+    "画像差し止め"
+  ],
+  "author": "SOYA-001",
+  "created_at": "2021-07-06T04:13:47+00:00",
+  "updated_at": "2023-02-05T00:55:44+00:00",
+  "rating": 16,
+  "_site": "scp-jp",
+  "_fullname": "mujae-1"
+}

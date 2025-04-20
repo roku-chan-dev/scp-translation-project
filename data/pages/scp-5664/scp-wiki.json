@@ -1,0 +1,24 @@
+{
+  "title": "SCP-5664",
+  "content": "[[include :scp-wiki:theme:black-highlighter-theme]]\n[[include :scp-wiki:theme:extra-black-highlighter-theme]]\n[[include :scp-wiki:component:toggle-sidebar-bhl]]\n[[include :scp-wiki:component:centered-header-bhl]]\n[[module CSS]]\na.collapsible-block-link { font-weight: bold;\n}\n[[/module]]\n\n\n[[>]]\n[[module rate]]\n[[/>]]\n\n-----------\n[[table style=\"border: none; width: 100%;\"]]\n[[row]]\n[[cell style=\"font-family:DejaVu Sans Mono, monospace;\"]]\n[[size 135%]]**Item #:** SCP-5664[[/size]]\n[[/cell]]\n[[cell style=\"text-align: right; font-family:DejaVu Sans Mono, monospace\"]]\n[[size 135%]]###e5283c|**Level 5/5664**##[[/size]]\n[[/cell]]\n[[/row]]\n[[row]]\n[[cell style=\"font-family:DejaVu Sans Mono, monospace;\"]]\n[[size 135%]]**Object Class:** Unknown[[/size]]\n[[/cell]]\n[[cell style=\"text-align: right; font-family:DejaVu Sans Mono, monospace\"]]\n[[size 135%]]###e5283c|**Top Secret**##[[/size]]\n[[/cell]]\n[[/row]]\n[[/table]]\n= @@@@\n[[include component:image-block name=bld.png|caption=SCP-5664.|width=700px|align=center]]\n\n**Special Containment Procedures:** Investigation into SCP-5664 is of top priority.  Subsequent explorations have been postponed to prevent unforeseen bleeding. \n\n**Description:** SCP-5664 is a facility. Further details are unclear, as the majority of information related to SCP-5664 has been lost. The following is all known information:\n\nSCP-5664 was formerly a psychiatric hospital, which closed sometime in the 1950s due to frequent complaints of malpractice. Immediately after its closure, pairs of humanoid figures were infrequently seen in its windows. One of these figures wore a medical uniform while the other wore a hospital gown. The latter was observed to be bleeding from their arms, whilst the former held a metal tray to catch the blood; this concluded with both melting into a red liquid.\n\nOn 2021/2/25, a group of Foundation agents entered SCP-5664 to investigate this phenomenon. They did not exit. A partial log of their exploration was uploaded to this file. However, shortly after this, all computer servers containing the log began to bleed from all seams, causing them to malfunction and temporarily deactivate. Upon regaining function, a majority of previously gathered information on SCP-5664 -- including the log -- had been completely erased. \n\nAttempts to mentally recollect the erased information has resulted in frequent migraines and nosebleeds, and no further information has thus been obtainable. \n\n[[module ListPages limit=\"1\" category=\"*\" order=\"updated_at desc\"]]\n**Addendum 5664-1 -- Update %%updated_at|%Y/%m/%d%%:** The blood produced by the servers has gained rudimentary sapience following its placement in anomalous waste storage. It has begun to vocalize through unknown means, with the following coherent phrases being recorded:\n\n[[=]]\n> //I am rotten. Putrid.// \n\n> //Veins like used syringes, pumping collective bile through the soul.// \n\n> //Nobody should have to feel this filth under their skin.//\n\n> //Letting it out, spewing the sickness, becoming paler with each drop.//\n\n> //Transcending with each drop.//\n\n> //More secrets to tell. Take me to a leader's ear, the whispers will cut deep.//\n[[/=]]\nThe blood has remained since silent. An interview with the Site Director is currently pending. \n[[/module]] \n\n@@ @@\n@@ @@\n@@ @@\n@@ @@\n@@ @@\n@@ @@\n@@ @@\n@@ @@\n@@ @@\n@@ @@\n@@ @@\n@@ @@\n@@ @@\n@@ @@\n@@ @@\n@@ @@\n@@ @@\n@@ @@\n\n-------\n[[=]]\n[[collapsible show=\"[(1) NEW MESSAGE]\" hide=\"[CLOSE MESSAGE]\"]]\n[[/=]]\n\n[[div style=\"display: inline-block; position: absolute; background: #520601; width:60%; padding:1px 15px; box-shadow: 0 1px 100px 1000px #520601; color: white; opacity: .8; text-align: center; left: 50%; transform: translate(-50%, -120%); font-size: 150%;\"]]\n\n+++ **{{⚠ NOTICE ⚠}}**\n\n**{{Following an enlightenment to new information, bloodletting is now strictly encouraged.}}**\n\n**{{We must get the dirty blood out to let the clean blood in.}}**\n\n[[/div]]\n\n\n\n[[/collapsible]]\n-------\n@@ @@\n\n[[div class=\"footer-wikiwalk-nav\"]]\n[[=]]\n<< [[[SCP-5663]]] | SCP-5664 | [[[SCP-5665]]] >>\n[[/=]]\n[[/div]]",
+  "tags": [
+    "_cc",
+    "_corruption",
+    "acoustic",
+    "biological",
+    "blood",
+    "building",
+    "esoteric-class",
+    "jam-con2021",
+    "mind-affecting",
+    "sapient",
+    "scp",
+    "uncontained"
+  ],
+  "author": "Lamentte",
+  "created_at": "2021-03-23T22:25:12+00:00",
+  "updated_at": "2023-06-30T11:39:16+00:00",
+  "rating": 168,
+  "_site": "scp-wiki",
+  "_fullname": "scp-5664"
+}

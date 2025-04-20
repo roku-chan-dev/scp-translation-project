@@ -1,0 +1,13 @@
+{
+  "title": "Mikell",
+  "content": "[[module CSS arguments...]]\n\n#header {\n    visibility:hidden;\n    width: 0\n}\n[[/module]]\n\n[[module CSS]]\n#side-bar { \n    visibility: hidden; \n    width: 0\n}\n[[/module]]\n\n[[=image http://scp-wiki.wdfiles.com/local--resized-images/mikell/mik/medium.jpg 属性1=\"数值1\" 属性2=\"数值2\" ...]]\n\n{{1978年，Mikell Bright开始在他继承到的牧场上抚养他的两个孩子。天空蔚蓝，土地仍然肥沃而荒无人烟。他的男孩们在中西部炎热日光下玩耍，在银装素裹的深深雪地上筑起堡垒，马匹肥壮，被精心照料。Mikell会在工作时吹起口哨，因为鲜血是这样容易涌出，而尸体会被焚烧得干干净净；因此当[http://scp-wiki-cn.wikidot.com/nothingtoseehere 他儿子的视觉问题]没有缓解时，Mikell做了任何好爸爸都会去做的事。那就是除掉牧羊犬的露爪。那驯服的小马驹。惊愕的牛群将它们驱赶出去。}}\n\n\n{{但这不是Jack的故事。}}\n\n{{[[[http://scp-wiki-cn.wikidot.com/your-circuits-dead-theres-something-wrong|返回]]]}}",
+  "tags": [
+    "补充材料"
+  ],
+  "author": "Sraosha",
+  "created_at": "2019-03-26T17:07:08+00:00",
+  "updated_at": "2019-04-02T07:19:59+00:00",
+  "rating": 2,
+  "_site": "scp-wiki-cn",
+  "_fullname": "mikell"
+}

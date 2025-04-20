@@ -1,0 +1,19 @@
+{
+  "title": "SCP-1248-KO",
+  "content": "@@@@\n@@@@\n[!--\n@는 정보 모듈이 상단바에 가려지는 것을 막기 위해 넣었습니다.]\n--]\n[[include :scpko:info:start]]\n**SCP-1248-KO:** α등급 기억성장제\n\n**저자:** [[*user Itschoding]]\n\n번역이나 수정이 필요하신 경우 아래의 Fragment 페이지들에 들어가주십시오.\n\nhttp://scpko.wikidot.com/fragment:1000kocontest-itschoding-0\nhttp://scpko.wikidot.com/fragment:1000kocontest-itschoding-1\nhttp://scpko.wikidot.com/fragment:1000kocontest-itschoding-2\nhttp://scpko.wikidot.com/fragment:1000kocontest-itschoding-3\n----\n[[include :scpko:info:end]]\n\n[[module ListPages category=\"fragment\" parent=\".\" order=\"created_at\" limit=\"1\" offset=\"@URL|0\"]]\n%%content%%\n[[/module]]",
+  "tags": [
+    "1000ko",
+    "ko",
+    "scp",
+    "기억조작",
+    "안전",
+    "의약학",
+    "특집"
+  ],
+  "author": "Itschoding",
+  "created_at": "2022-12-04T14:25:23+00:00",
+  "updated_at": "2023-07-31T16:03:42+00:00",
+  "rating": 31,
+  "_site": "scpko",
+  "_fullname": "scp-1248-ko"
+}

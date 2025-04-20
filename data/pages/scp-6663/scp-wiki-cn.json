@@ -1,0 +1,20 @@
+{
+  "title": "SCP-6663",
+  "content": "[[include :scp-wiki-cn:component:info-ayers\n|lang=cn\n|page=scp-6663\n|authorPage=http://www.scp-wiki.net/the-bread-box\n|comments=**SCP-6663：**迷失于逐日的疾驰\n**作者：**[[*user Deadly Bread]]@@ @@\n]]\n\n[[table style=\"border: none; width: 100%;\"]]\n[[row]]\n[[cell]]\n[[span style=\"font-size: 125%;\"]][[span style=\"font-weight: 900;\"]]项目编号：[[/span]]SCP-6663[[/span]]\n[[/cell]]\n[[cell style=\"text-align: right;\"]]\n[[span style=\"font-weight: 900; font-size: 125%;\"]]###990000|LEVEL 1/6663##[[/span]]\n[[/cell]]\n[[/row]]\n[[row]]\n[[cell]]\n[[span style=\"font-size: 125%;\"]][[span style=\"font-weight: 900;\"]]收容等级：[[/span]]无效化[[/span]]\n[[/cell]]\n[[cell style=\"text-align: right;\"]]\n[[span style=\"font-weight: 900; font-size: 125%;\"]]###990000|公开##[[/span]]\n[[/cell]]\n[[/row]]\n[[/table]]\n-----\n[[include component:image-block name=https://scp-wiki.wdfiles.com/local--files/scp-6663/header.png|align=center|width=100%|caption=SCP-6663的发生现场，Myers牧场。]]\n**特殊收容措施：**SCP-6663的发生地已被基金会以拆迁的名义购得。由于SCP-6663被发现的可能性很低，因此认为无进一步收容努力的必要。\n\n**描述：**SCP-6663代指于1970年5月12日发生的一次不明太空发射事件。发射地点位于Myers牧场，一座位于美国俄克拉荷马州布罗肯阿罗市的马术设施。目前，关于航天器本身以及发射方法的细节全部未知，因为航天器当前的距离已让拦截行动无法进行。在其发射后的观察结果表明，此航天器主要由废料制成，且这些废料本应无法达到离开地球所需的逃逸速度。\n\n随后对Myers牧场展开的调查发现，发射源为马厩。进一步的调查发现如下：\n\n* 各种各样的工具与废旧金属，且带有马齿的凹痕。\n* 大量的碎玻璃，这表明先前的头顶上有一面天窗。\n* 马厩的墙壁上刻有一副初级星图，其中有一个粗略的马头。\n* 阿波罗11号登月的剪报（磨损严重）。[[footnote]]磨损原因似乎是经常取用而非误碰，因为剪报被小心地存放在一个空饲料袋内。马厩的墙壁上还发现钉有全体三名宇航员的贴图。[[/footnote]]\n* 一个带有凹痕的金属桶，并镶嵌着粗糙的玻璃面罩。“奶油糖果（Butterscotch）”这个单词被小心地凿在侧面，还有一个NASA标志的替代品。\n\n值得注意的是，没有在马厩内发现任何马匹，无论生死。\n\n**附录.6663.1：**根据对该航天器的持续观察，现已确认其预定飞行路线。根据该航天器目前的轨道，项目将于2011年撞击一大型太阳体，届时将把项目视为无效化。\n\n**附录.6663.2：**2011年4月2日，来自北半球的几座天文台观测到猎户腰带内突然喷射出气体与宇宙尘，构成了一个大型星际云。此事件的目击者报告称看到它有一种如释重负感以及成就感。该影响于几分钟后结束。此事件记录已从天文台的记载中删除，有关该星际云存在性的掩盖故事也已传播。\n\nSCP-6663已重分级为无效化。\n\n[[collapsible show=\"+++ 查看附件/scp-6663/文件04.png\" hide=\"--- 收起附件/scp-6663/文件04.png\"]]\n@@ @@\n[[include component:image-block name=https://scp-wiki.wdfiles.com/local--files/scp-6663/nebula.png|align=center|caption=文件04.png]]\n[[/collapsible]]\n\n----\n\n[[footnoteblock]]\n\n[[div class=\"footer-wikiwalk-nav\"]]\n[[=]]\n<< [[[SCP-6662]]] | [[[http://www.scp-wiki.net/the-bread-box|Deadly Bread]]] | [[[SCP-6664]]] >>\n[[/=]]\n[[/div]]\n\n[[include :scp-wiki-cn:component:license-box\n|author=Deadly Bread\n|translator=Lovesicker\n]]\n=====\n> **文件名：**header.png\n> **图像名：**Night at Moulton Barn\n> **图作者：**Eltabre\n> **授权协议：**CC BY-SA 4.0\n> **来源链接：** [[[https://commons.wikimedia.org/wiki/File:Night_at_Moulton_Barn.jpg|维基共享]]]\n\n> **文件名：**nebula.png\n> **图像名：**Barnard 33\n> **图作者：**[[[https://en.wikipedia.org/wiki/Ken_Crawford_(astrophotographer)|Ken Crawford]]]\n> **授权协议：**CC BY-SA 3.0\n> **来源链接：** [[[https://commons.wikimedia.org/wiki/File:Night_at_Moulton_Barn.jpg|维基共享]]]\n=====\n[[include :scp-wiki-cn:component:license-box-end]]",
+  "tags": [
+    "scp",
+    "无效化",
+    "星际",
+    "移情作用",
+    "视觉性",
+    "认知危害",
+    "载具",
+    "马类"
+  ],
+  "author": null,
+  "created_at": "2021-09-25T04:08:40+00:00",
+  "updated_at": "2023-01-09T04:09:29+00:00",
+  "rating": 2,
+  "_site": "scp-wiki-cn",
+  "_fullname": "scp-6663"
+}

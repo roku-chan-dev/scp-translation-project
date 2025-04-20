@@ -1,0 +1,15 @@
+{
+  "title": "How the Yule Man Stole Christmas!",
+  "content": "[[include theme:xmas\n|xmas-header= --]\n|xmas-snow= --]]]\n\n[[module CSS]]\n#container { background-color: #bdbeb8; }\n[[/module]]\n\n[[>]]\n[[module Rate]]\n[[/>]]\n\n[[image http://scp-wiki.wikidot.com/local--files/art:4666-grinch/yuleman]]",
+  "tags": [
+    "artwork",
+    "scp-art",
+    "sketched"
+  ],
+  "author": "ubergoober",
+  "created_at": "2024-07-14T00:15:51+00:00",
+  "updated_at": "2024-07-14T00:27:28+00:00",
+  "rating": 28,
+  "_site": "scp-wiki",
+  "_fullname": "art:4666-grinch"
+}

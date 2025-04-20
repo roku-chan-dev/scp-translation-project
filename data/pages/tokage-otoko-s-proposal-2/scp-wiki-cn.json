@@ -1,0 +1,21 @@
+{
+  "title": "tokage-otoko的提案",
+  "content": "[[html]]\n<link rel=\"stylesheet\" type=\"text/css\" href=\"http://ja.scp-wiki.net/common--theme/base/css/style.css\">\n  <style>#text001{margin-bottom:70px;}</style>\n  <script src=\"http://code.jquery.com/jquery-latest.min.js\"></script>\n  <script>\n  $(document).ready(function(){\n    $(\"#text001\").bind(\"click\",function(){\n      $(this).height($(this).height());\n      $(\"#text001 p span\").each(function(i){\n        $(this).delay(i * 100).animate({opacity: 0},1500);\n      });\n    });\n  });\n  </script>\n<div id=\"text001\">\n<p><em><span>项目编号：SCP-001-JP</span><br>\n<span>项目等级：Keter</span><br>\n<span>特殊收容措施：保管SCP-001-JP的方法并不存在。因为我们就是它的一员。哈哈哈。</span></em></p>\n<p><em><span>描述：SCP-001-JP是这个宇宙内的复数不可认知现象。</span><span><span>SCP-001-JP-A是定期会发生的现象。被我们称为天际的天空就像被掀开了盖子一样地被打开，从那里边伸出巨大的人类婴儿的手，将复数的超常存在......因为很麻烦之后就将他们称作SCP好了......以及包括非人类在内的智慧生物投向地表。<span>一些被投入的智慧型对象拥有针对SCP的对抗手段并以被赋予的SCP基金会职员的身份开始活动。</span><span>想必我也是这样的吧。</span></em></p>\n<p><em><span>SCP-001-JP-B的现象是宇宙间所有存在的生物都对上述现象表示无视的现象。</span><span>从天上伸出的巨手哪怕是在眼前出现也根本意识不到。</span><span>投向地表的SCP也被分类为新发现的威胁，那些能理解人类语言的SCP对自己被丢下来这一事实一点都没有察觉。</span><span>远古时代而来的恐怖也好，遗留至今的存在也罢，突然出现的恐怖物品也是，都对自己其实是从天空被丢下来这一事实一点都没有察觉。</span><span>就像傻瓜一样。</span><span>被投出的智慧生物会立刻成为从以前就一直所属于基金会，并被信赖的特工或者博士，无论他们拥有什么样异常的能力或者怪癖的性格，周围的人都好像理所应当一样地接纳他们。</span><span>人事档案中所有的数据也像是从以前开始就存在一样出现在那里。</span></p><p><span><span>SCP-001-JP-C是发生在针对所有SCP以及对SCP进行对抗、利用的组织上的现象。</span><span>非定期性的，SCP以及SCP相关组织的人员的存在会没有痕迹地被抹去。</span><span>数据、收容站点和研究设施都会消失。</span><span>消失的SCP原有编号被其他新的SCP代替。</span><span>我们至今为止做的一切也只不过是某些人茶余饭后的消遣节目而已吧。</span><span>……这则记录就算写了我想也没有意义的吧。</span><span>本来想多多少少遵守文档规则来写但是算了吧。用钢笔随便写写就好了。</span></em></p>\n<p><em><span>O5也对天空中出现的巨手投入人员以及SCP项目的事情没有察觉。</span><span>至今为止所有的SCP项目文件中都没有任何一个记载过这一异常现象。</span><span>我们生活的宇宙是被某人操作的玩偶剧场，只是一个玩具箱。我们做的也只是供人观赏的节目而已。</span><span>然后，看厌了就把你抹除。</span><span>现在写下这份文件的我认为我是凭着个人意志在书写，但是实际上并不是这样的吧。</span><span>多半我也只是被天那边的恶鬼所操纵的玩偶罢了。能看到这份文件的可能也只是天上的恶鬼罢了。</span><span>我能察觉到这么恐怖的事情却一点意义都没有。O5也罢，我们都是被操纵的人偶。</span></em></p>\n</div>\n\n<p><em>我不知道是O5的谁。在最重要的机密文档里夹杂了白纸报告书你是想怎么样。虽然你可能是想写假文件一类的东西，但是那样的话你也要写一下假文件啊！这样全白纸什么都没写的东西要是被其他团体间谍看到了，谁会以为这是机密文件啊？ </em>  —O5-7</p>\n[[/html]]",
+  "tags": [
+    "001提案",
+    "jp",
+    "keter",
+    "meta",
+    "scp",
+    "人形生物",
+    "精神影响",
+    "超维度",
+    "门径"
+  ],
+  "author": null,
+  "created_at": "2017-05-11T09:19:35+00:00",
+  "updated_at": "2022-02-15T02:39:16+00:00",
+  "rating": 4,
+  "_site": "scp-wiki-cn",
+  "_fullname": "tokage-otoko-s-proposal-2"
+}

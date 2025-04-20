@@ -1,0 +1,19 @@
+{
+  "title": "SCP-6482",
+  "content": "[[include :scp-wiki:theme:black-highlighter-theme]]\n[[include :scp-wiki:component:acs-animation]]\n[[include :scp-wiki:component:fade-in speed=1]]\n\n[[module CSS]]\n:root {\n    --logo-image: url(\"https://nu-scptheme.github.io/Black-Highlighter/img/logo.svg\") !important;\n}\n[[/module]]\n\n[[>]]\n[[include :scp-wiki:info:start]]\n[[=]]\n**SCP-6482** - //Tag// //술래잡기//\n\nWritten by [[*user MirageTD]]\n\n> **원작:** https://scp-wiki.wikidot.com/scp-6482\n> **번역:** [[*user Nareum]]\n> **파일명:** ghost.jpg\n> **저작권자:** Jolanta Dyr, modified by [[*user MirageTD]]\n> **라이선스:** [[[https://creativecommons.org/licenses/by-sa/3.0/pl/ | CC BY-SA 3.0 PL]]]\n> **출처:** https://commons.wikimedia.org/wiki/File:Hallway_of_W%C5%82adys%C5%82aw_Broniewski_Museum_in_Warsaw_-_01.jpg\n\n\n**[[span style=\"font-size: 80%;\"]][[[miragetd | 작가 더 알아보기]]][[/span]]**\n[[include :scp-wiki:component:ratio-bar pie=--]]\n[[/=]]\n[[include :scp-wiki:info:end]]\n[[/>]]\n\n[[div style=\"margin-bottom:20px;\"]]\n[[include :scpko:component:anomaly-class-bar-source\n|item-number= 6482\n|clearance= 2\n|container-class= 무효\n]]\n[[/div]]\n\n[[include :scp-wiki:component:image-block\n|name= ghost.jpg\n|caption=브룩데일 오션 쇼어스 감시 영상에 잡힌 SCP-6482 사진\n]]\n\n**특수 격리 절차:** SCP-6482의 유해는 제23기지의 표준 재단 격리실에 격리한다.\n\n**설명:** 무효화 이전의 SCP-6482는 수산화인회석, 소금과 다른 광물 입자로 이루어진 인간형 개체로, 무게는 2.7kg이다. 이 입자는 더 이상 움직이지 않으며, 다른 명확한 변칙적인 특성을 보이지 않는다.\n\n**부록 6482.1:** 발견\n\n2021년 08월 11일, SCP-6482는 워싱턴 주 오션 쇼어스의 서부 끝자락에서 민간인들 앞에서 \"뭉쳐져\" 나타났다. 개체는 해당 반도의 동쪽에 위치한 생활보조시설인 브룩데일 오션 쇼어스까지 약 3km를 걸어갔다. 도착한 이후, 개체는 시설의 공동 구역으로 나아갔다. 감시 장비에선 SCP-6482가 자신의 휠체어에 앉아 졸고 있는 것으로 보이는 노인 거주자 조지프 바이스의 뒤로 걸어오는 것이 녹화되었다. SCP-6482는 바이스의 어깨를 건드리며 그를 깨웠다. 바이스는 몸을 돌려 SCP-6482를 보았고, 동시에 그 입자가 비활성화되면서 개체가 사라졌다. 바이스는 혼란스러워 보였으나, 몇 초 뒤에 그는 웃었다. 그리곤 바이스는 의식을 잃었다.\n\n격리 팀이 브룩데일 오션 쇼어스에 도착하였을 때, 바이스는 사망한 이후였다. 부검 결과 사인은 심장마비였다.\n\n**부록 6482.2:** 면담 기록\n\n> **피면담자:** 조지프 바이스의 딸, 아멜리아 바이스톰슨\n> \n> **면담자:** 맥스웰 영 박사\n> \n> **<기록 시작>**\n> \n> **영 박사:** 무슨 일이 일어났는지 아신다고 하셨죠? 설명해주시겠습니까, 처음부터요.\n> \n> **바이스톰슨:** 그럼요. 아빠한테는 어렸을 때부터 서로 알던 친구가 있었어요, 다니엘 오웬이라고. 가족과도 같은 사이였죠. 우린 그 사람 장례식에도 갔어요, 몇 년 전에 돌아가셨거든요. 가족 분들은 그게 나타났던 바로 그 해변에 그분의 재를 뿌렸고요.\n> \n> **영 박사:** 그게 다니엘이라고 생각하시나요? \n> \n> **바이스톰슨:** 네, 그리고 다니엘이 아빠를 죽였다는 생각은 안들어요. 아빠는 오랫동안 심장병이 있었고, 이번엔 갈 때가 되신 거죠. \n> \n> **영 박사:** 왜 아버지를 쫓아왔는지 예상되는 게 있으신가요?\n> \n> **바이스톰슨:** 어느 정도는요. 아빠와 댄은 항상 서로 장난치면서 놀았어요. 나이를 먹고 나서도 두 분은 서로가 서로의 상대역이라도 된 것 마냥 구셨죠. 틈이 날 때마다 두 사람은 술래잡기를 하면서 놀았어요. 아빠는 그게 자기가 10대일 때부터 시작된 놀이였다고 해주셨죠. 댄은 자기가 '술래'였을 때 돌아가셨어요.\n> \n> //바이스톰슨이 주머니에서 손수건을 꺼내 얼굴의 눈물을 닦는다.//\n> \n> **바이스톰슨:** 그 노인네, 지고는 못 살거든요.\n> \n> **<기록 종료>**",
+  "tags": [
+    "en",
+    "scp",
+    "무형",
+    "무효",
+    "사체",
+    "소생",
+    "인간형"
+  ],
+  "author": "Nareum",
+  "created_at": "2024-10-02T17:50:10+00:00",
+  "updated_at": "2025-02-02T13:59:02+00:00",
+  "rating": 6,
+  "_site": "scpko",
+  "_fullname": "scp-6482"
+}

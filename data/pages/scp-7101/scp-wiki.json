@@ -1,0 +1,28 @@
+{
+  "title": "SCP-7101",
+  "content": "[[include :scp-wiki:theme:black-highlighter-theme]]\n[[include :scp-wiki:theme:jakstyle]]\n[[include :scp-wiki:component:text-style]]\n[[module CSS]]\na {\n   color: #9d1cb9;\n}\n\n:root {\n    --title: \"The Foundation\";\n    --subtitle: \"Secretum Servare Deum\";\n}\n\n#extra-div-1::before {\n    color: #9d1cb9;\n}\n[[/module]]\n\n[[include :scp-wiki:component:info-ayers\n|lang=en\n|page=component:info-ayers\n|authorPage=https://scp-wiki.wikidot.com/scp-4276\n|comments=\n= //**SCP-7101** - Ms. Fortune// \nI wrote this in an incredible rush to get 8 endings done for the 7K Contest. This is not my finest work by any means, and I'd like to apologize profusely for the cringe you may experience. \n\nGood day. \n\n]]\n\n[[>]]\n[[module Rate]]\n[[/>]]\n\n[[module ListPages  category=\"fragment\" parent=\".\" limit=\"1\" order=\"created_at\" offset=\"@URL|0\"]]\n%%content%%\n[[/module]]\n\n[!-- https://scp-wiki.wikidot.com/fragment:7101-1 Main --]\n[!-- https://scp-wiki.wikidot.com/fragment:scp-7101-2 Good --]\n[!-- https://scp-wiki.wikidot.com/fragment:scp-7101-3 Bad --] \n[!-- https://scp-wiki.wikidot.com/fragment:scp-7101-4 Good-Good --]\n[!-- https://scp-wiki.wikidot.com/fragment:scp-7101-5 Good-Bad --]\n[!-- https://scp-wiki.wikidot.com/fragment:scp-7101-6 Bad-Good--]\n[!-- https://scp-wiki.wikidot.com/fragment:scp-7101-7 Bad-Bad --]\n[!-- https://scp-wiki.wikidot.com/fragment:scp-7101-8 Good-Good-Good --]\n[!-- https://scp-wiki.wikidot.com/fragment:scp-7101-9 Good-Good-Bad --]\n[!-- https://scp-wiki.wikidot.com/fragment:scp-7101-10 Good-Bad-Good --]\n[!-- https://scp-wiki.wikidot.com/fragment:scp-7101-11 Good-Bad-Bad --]\n[!-- https://scp-wiki.wikidot.com/fragment:scp-7101-12 Bad-Good-Good --]\n[!-- https://scp-wiki.wikidot.com/fragment:scp-7101-13 Bad-Good-Bad --]\n[!-- https://scp-wiki.wikidot.com/fragment:scp-7101-14 Bad-Bad-Good --]\n[!-- https://scp-wiki.wikidot.com/fragment:scp-7101-15 Bad-Bad-Bad --]\n[!-- https://scp-wiki.wikidot.com/fragment:scp-7101-16 Secret End --]\n\n[[include :scp-wiki:component:license-box]]\n=====\n> **Filename:** McDonald\n> **Name:** File:Santa Claus Parade (Toronto) (22634614918).jpg\n> **Author:** Randy Landicho\n> **License:** Creative Commons Attribution 2.0\n> **Source Link:** https://commons.wikimedia.org/wiki/File:Santa_Claus_Parade_(Toronto)_(22634614918).jpg\n=====\n[[include :scp-wiki:component:license-box-end]]",
+  "tags": [
+    "7000",
+    "_cc",
+    "_licensebox",
+    "_listpages",
+    "concept",
+    "director-bold",
+    "doctor-scranton",
+    "foundation-made",
+    "humanoid",
+    "interactive",
+    "keter",
+    "probability",
+    "sapient",
+    "scp",
+    "self-replicating",
+    "temporal"
+  ],
+  "author": "Roufhous",
+  "created_at": "2022-07-26T13:50:01+00:00",
+  "updated_at": "2024-04-27T11:20:29+00:00",
+  "rating": 53,
+  "_site": "scp-wiki",
+  "_fullname": "scp-7101"
+}

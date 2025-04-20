@@ -1,0 +1,17 @@
+{
+  "title": "SCP-341-JP",
+  "content": "[[include info:start]]\n**SCP-341-JP:** [[span class=\"ruby\"]]안녕히 계세요,[[span class=\"rt\"]]さようなら、[[/span]][[/span]] [[span class=\"ruby\"]]언제 또 보죠[[span class=\"rt\"]]またいつか[[/span]][[/span]]\n**원작:** http://scp-jp.wikidot.com/scp-341-jp\n**저자:** [[*user kainndo]]\n**역자:** [[*user salamander724]]\n[[include info:end]]\n\n**일련번호:** SCP-341-JP\n\n**등급:** 안전\n\n**특수 격리 절차:** SCP-341-JP는 제8141기지의 컨테이너에 수용된다. 이 객체와 물리적으로 접촉해서는 안 된다. 각 객체는 쇠사슬로 연결하여 유사시의 광역확산을 방지한다. 관련되어 발생하는 부패액은 소독하여 파기한다.\n\n**설명:** SCP-341-JP는 현재 아동 28명과 노인 11명으로 이루어진 인간 집단이다. 그 기원은 불명하지만 아마  ████에서 발생했다고 생각된다. 생리적 욕구는 없으며, 기본적으로 웃는 얼굴로 밖에 나가려고 방황한다.\n\nSCP-341-JP가 인간을 발견하면, 그 주위에 몰려들어 다양한 인삿말로 소통한다. 그러나 접촉하기 직전에 하는 인사는 대부분 이별을 의미한다. 이 때 접촉한 인간은 부패한 체액을 남기고 소멸한다. 이 체액은 소멸한 대상이 24시간 전에 있던 지점을 중심으로 발생한다. 부패액에 변칙성은 없지만, 악취 때문에 조속한 제거가 필요하다.\n\n각 개체는 자신과 겉보기 나이가 비슷한 인간을 좋아하여 다가가려 한다. 예로 19██년 ██월 ██일자 보고에서는 제8141기지 병설탁아소 방향의 벽을 두드리고 있었다.\n\n[[include component:image-block\n|name=http://scp-jp-storage.wikidot.com/local--files/file:2278897-30-rxrr/%E3%83%90%E3%82%A4%E3%83%90%E3%82%A4%E5%AD%90%E4%BE%9B2.jpg\n|caption=19██년 ██월 ██일 격리 실패 당시.\n|width=300px\n]]",
+  "tags": [
+    "jp",
+    "scp",
+    "무리",
+    "안전",
+    "인간형"
+  ],
+  "author": "Salamander724",
+  "created_at": "2021-01-17T19:57:43+00:00",
+  "updated_at": "2025-01-01T07:24:03+00:00",
+  "rating": 5,
+  "_site": "scpko",
+  "_fullname": "scp-341-jp"
+}

@@ -1,0 +1,24 @@
+{
+  "title": "SCP-2458",
+  "content": "[[>]]\n[[module Rate]]\n[[/>]]\n\n[[include component:image-block name=oldcello.jpg|caption=SCP-2458 (detail)]]\n\n**Item #:** SCP-2458 \n\n**Object Class:** Safe\n\n**Special Containment Procedures:** SCP-2458 is to be stored in its case in a standard containment locker and may only be removed for testing. All testing must be performed in a soundproof chamber populated only by D-class personnel. Researchers must perform all duties and deliver instructions from a separate booth. Live broadcasts of SCP-2458 are forbidden.\n\n**Description:** SCP-2458 is a cello dating back to the early 18th century, consistent with the works of luthier Giuseppe Guarneri, with expected age and wear. The instrument has been restrung within the past 40 years.\n\nWhen played, SCP-2458 causes individuals within earshot to make rhythmic movements and vocalizations in tempo with the music. The movements are specific to the piece played, but typically involve head nodding, arm waving, and incoherent murmuring. The player of SCP-2458 is not affected, nor any ensemble performing with the player. Live broadcasts carry the effect, but playbacks do not. Prolonged or repeated exposure to the effect of SCP-2458 causes extreme distress in listeners, who develop melophobia and stereotypic movement disorders. \n\n**Addendum 2458-1: Experiment Log**\n\n> **Experiment 2458-A**\n> **Player:** D-385\n> **Listeners:** D-296, D-4883, D-5019\n> **Work:** Twinkle Twinkle Little Star\n> **Result:** Listeners bob their head in time with the music. Regular mistakes by D-385 cause listeners to twitch and break the effect before reestablishment. Listeners report unease at loss of motor control. \n\n> **Experiment 2458-D**\n> **Player:** [[[SCP-847|D-7294]]], a trained symphony cellist with psychopathic tendencies.\n> **Listeners:** D-296, D-385, D-4883, D-5019\n> **Work:** Bach Cello Suite #1\n> **Result:** Listeners demonstrate more complex movements, standing and bowing, followed by kneeling, assuming a stance common to Catholic prayer. Listeners chant \"Kyrie eleison\" five times during performance. Listeners afterward express further distress at loss of motor control.\n\n> **Experiment 2458-G**\n> **Player:** D-7294\n> **Listeners:** D-296, D-385, D-4883, D-5019\n> **Work:** Shostakovich's Cello Concerto\n> **Result:** Listeners showed considerable agitation at the start of the test. When the performance began, listeners immediately ceased resistance and tapped their foreheads in unison. At 6:17, D-7294 deviated from test protocol and played an impromptu dissonant piece. D-385 poked out his own eyes while D-5019 and D-4883 strangled each other. D-296 removed his coveralls [DATA EXPUNGED]. At 15:18, D-5019, D-4883, and D-296 had expired while D-385 was blinded. Researchers instructed D-7294 to stop. D-7294 complied.\n> \n> D-385 showed extreme melophobia after Experiment 2458-G, claiming the music told him to self-harm. D-7294 is retained for future testing.\n\n**Addendum 2458-2: Recovery Log**\nSCP-2458 was recovered from the abandoned Osservanza psychiatric hospital in Imola, Italy. Inventory records indicated that the object was bequeathed to the hospital in 1978, with the following note:\n\n> To the kindly doctors who looked so carefully after my beloved Alessandra. May this instrument's music bring peace and order to your patients, the very gifts I tried and failed to bestow on my ailing wife. [http://www.scp-wiki.net/on-mount-golgotha-hub May we all choose penitence as St. Dismas did on Mount Golgotha.]\n\n[[footnoteblock]]\n\n[[div class=\"footer-wikiwalk-nav\"]]\n[[=]]\n<< [[[SCP-2457]]] | SCP-2458 | [[[SCP-2459]]] >>\n[[/=]]\n[[/div]]\n\n[[include :scp-wiki:component:license-box]]\n=====\n> **Filename:** oldcello.jpg\n> **Name:** Old Wooden Cello\n> **Author:** Dejan Krsmanovic\n> **License:** CC BY 2.0\n> **Source Link:** [[[https://www.flickr.com/photos/dejankrsmanovic/39939796093|Link]]]\n=====\n[[include :scp-wiki:component:license-box-end]]",
+  "tags": [
+    "_cc",
+    "_licensebox",
+    "acoustic",
+    "auditory",
+    "d-7294",
+    "memetic",
+    "musical",
+    "on-mount-golgotha",
+    "performance",
+    "safe",
+    "sc2015",
+    "scp"
+  ],
+  "author": "WrongJohnSilver",
+  "created_at": "2015-07-24T08:11:56+00:00",
+  "updated_at": "2023-04-19T21:34:08+00:00",
+  "rating": 180,
+  "_site": "scp-wiki",
+  "_fullname": "scp-2458"
+}

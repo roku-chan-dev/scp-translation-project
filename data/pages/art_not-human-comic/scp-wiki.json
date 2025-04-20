@@ -1,0 +1,21 @@
+{
+  "title": "NOT HUMAN - Gaslight, Gatekeep, Girlboss Series Fancomic",
+  "content": "[[include :scp-wiki:theme:newspaper]]\n[[module CSS]]\n@import url('https://fonts.googleapis.com/css?family=Cinzel');\n@import url('https://fonts.googleapis.com/css?family=Anton');\n@import url('https://fonts.googleapis.com/css?family=Pinyon+Script');\n\n/*\n    The Anton font was created by Vernon Adams and is licensed under the Open Font License\n    The Cinzel font was created by Natanael Gama and is licensed under the Open Font License\n    The Pinyon Script font was created by Nicole Fally and is licensed under the Open Font License\n*/\n\n#breadcrumbs {\n   display: none !important;\n}\n\n:root {\n  --header-title: \"Esterberg Weekly\" !important;\n  --lgurl: url(\"http://scpdsandbox.wdfiles.com/local--files/gaslight-gatekeep-girlboss-hub/news.png\");\n}\ndiv#header h2::before {\n    content: \"Your #1. Source of Information\" !important;\n}\n[[/module]]\n\n[[>]]\n[[module rate]]\n[[/>]]\n\n[[image https://i.imgur.com/aumiBqC.jpg]]\n[[image https://i.imgur.com/Lm4VPDj.jpg]]\n\n[[include :scp-wiki:component:license-box]]\n=====\n> **Filename:** aumiBqC.jpg\n> **Author:** [[*user Dino--Draws]]\n> **License:** CC BY-SA 3.0\n> **Source Link:** [https://i.imgur.com/aumiBqC Imgur]\n\n> **Filename:** Lm4VPDj.jpg\n> **Author:** [[*user Dino--Draws]]\n> **License:** CC BY-SA 3.0\n> **Source Link:** [https://i.imgur.com/Lm4VPDj Imgur]\n=====\n[[include :scp-wiki:component:license-box-end]]",
+  "tags": [
+    "_cc",
+    "_licensebox",
+    "artwork",
+    "comic",
+    "damien-nowak",
+    "from-120s-archives",
+    "nobody",
+    "painted",
+    "queen-mab"
+  ],
+  "author": "Dino--Draws",
+  "created_at": "2023-02-25T04:25:40+00:00",
+  "updated_at": "2024-03-28T10:38:53+00:00",
+  "rating": 54,
+  "_site": "scp-wiki",
+  "_fullname": "art:not-human-comic"
+}

@@ -1,0 +1,20 @@
+{
+  "title": "SCP-4945",
+  "content": "[[>]]\n[[module rate]]\n[[/>]]\n\n[[module ListPages  category=\"fragment\" parent=\".\" limit=\"1\" order=\"created_at\" offset=\"@URL|0\"]]\n%%content%%\n[[/module]]\n\n[!-- Links to individual fragment pages --]\n[!-- http://www.scp-wiki.net/fragment:scp-4945-1 --]\n[!-- http://www.scp-wiki.net/fragment:scp-4945-2 --]\n\n[[footnoteblock]]\n\n[[div class=\"footer-wikiwalk-nav\"]]\n[[=]]\n<< [[[SCP-4944]]] | SCP-4945 | [[[SCP-4946]]] >>\n[[/=]]\n[[/div]]",
+  "tags": [
+    "_cc",
+    "_listpages",
+    "alive",
+    "euclid",
+    "humanoid",
+    "sapient",
+    "scp",
+    "vehicle"
+  ],
+  "author": "Swineapple",
+  "created_at": "2019-06-04T03:25:17+00:00",
+  "updated_at": "2022-10-08T08:03:32+00:00",
+  "rating": 94,
+  "_site": "scp-wiki",
+  "_fullname": "scp-4945"
+}

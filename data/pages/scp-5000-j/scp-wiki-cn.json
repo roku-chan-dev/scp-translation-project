@@ -1,0 +1,19 @@
+{
+  "title": "SCP-5000-J",
+  "content": "[[include component:image-block name=https://scp-wiki.wdfiles.com/local--files/scp-5000-j/517px-Cookie_jar.jpg|caption=他妈到底是谁……|width=300px]]\n**项目编号：**SCP-5000-J\n\n**项目等级：**Uncontained\n\n**特殊收容措施：**在基金会特工找出到底是谁拿了饼干之前，SCP-5000-J将被视作未收容。\n\n[[html]]\n<style>\na {\n    color: #b01;\n    text-decoration: none;\n    background: transparent;\n}\n\na:hover {\n    text-decoration: underline;\n    background-color: transparent;\n}\np {\ncolor: rgb(51, 51, 51);\nfont-family: verdana, arial, helvetica, sans-serif;\nfont-size: 0.8em;\nline-height: 141%;\n}\n</style>\n<p id=\"demo\"></p>\n<script>\nvar randomStrings = [\n    \"压力性暴食的Dr. Rights\",\n    \"找夜宵吃的Dr. Bright\",\n    \"又在胡扯的Dr. Magnus\",\n    \"寻找平衡的Ruslav Diaghilev\",\n    \"看管着一群猫的Moose主管\",\n    \"正在猎杀绿型的Dr. Clef\",\n    \"追赶车臣人的Strelnikov特工\",\n    \"Dr. Light\",\n    \"去给蝴蝶喂食的Dr. Kiryu\",\n    \"相信自己的乔伊·操蛋\",\n    \"Donnarson上尉\",\n    \"Marshall, Carter和Dark\",\n    \"全体月球居民\",\n    \"拉克穆-勒上\",\n    \"缢王\",\n    \"SCP-682\",\n    \"Josie的下半部分\",\n\"正在让他别再用电脑快去上床睡觉的Helen Magnus的鬼魂\",\n    \"Site 234的女皇，Sherry Andrews\",\n    \"Leep Andrews\",\n    \"Avery Solace\",\n    \"Giancarlo DeLuca\",\n    \"喝多了的Andrew Kowalczic\",\n    \"著名拳手Justine Everwood\",\n    \"Kain Pathos Crow（饼干当然不含巧克力）\",\n    \"Aktus主管\",\n    \"Iceberg主管\",\n    \"Yoric特工\",\n    \"Sir Caliban，该死的踹飞之王手下第五骑士\",\n    \"月亮勇士\",\n    \"泥要相信dado是的\",\n\"寻找下一块马奇饼的Tubbioca\",\n\"手持长矛跨骏马的SCP-4759-A\",\n\"焦虑不已的暗之刀锋\",\n\"所有小小先生一起行动\",\n\"大法师Ruth Bader Ginsburg\",\n\"Vincent Anderson\",\n\"屁股鬼魂\",\n\"全能母神，宇宙之母，饼干小偷\",\n\"研究员James (嗯哼！)\",\n\"我们无法摆脱的许多许多Ralph Roget中的一个\",\n\"Dr. Madison Craggs\",\n\"Travis Kazmarek\",\n\"伙计\",\n\"强盗鸭子\",\n\"The Great Anoati\",\n\"活生生的笑话\",\n\"Dr. Clair Wythers\",\n\"婊子养的Jim Henson\",\n\"SCP-914测试日志里的所有内容\"\n];\nwindow.onload = function() {\n\nvar text = randomStrings[Math.floor(Math.random() * randomStrings.length)]\ndocument.getElementById(\"demo\").innerHTML = \"<b>描述：</b>是\" + text + \"吗？不可能！<a target=\\\"_parent\\\" href=\\\"https://scp-wiki-cn.wikidot.com/scp-5000-j\\\">那会是谁？</a>\";\n}\n\n</script>\n[[/html]]\n\n[[include :scp-wiki-cn:component:license-box\n| author = DrMagnus \n]]\n=====\n> **文件名：**517px-Cookie_jar.jpg\n> **图像名：**Cookie jar.jpg\n> **图像作者：**Polymath38\n> **授权协议：**CC BY-SA 3.0\n> **来源链接：**[https://w.wiki/7Jek Wikimedia Commons]\n=====\n[[include :scp-wiki-cn:component:license-box-end]]",
+  "tags": [
+    "5000",
+    "scp",
+    "互动性",
+    "交换",
+    "搞笑",
+    "未收容",
+    "机密分级"
+  ],
+  "author": "Eurya",
+  "created_at": "2020-01-15T07:56:22+00:00",
+  "updated_at": "2024-08-24T11:25:53+00:00",
+  "rating": 30,
+  "_site": "scp-wiki-cn",
+  "_fullname": "scp-5000-j"
+}

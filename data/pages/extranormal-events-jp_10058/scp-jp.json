@@ -1,0 +1,14 @@
+{
+  "title": "10058",
+  "content": "overview: 東京メトロ██線██駅ホーム上で発生した人身事故において、事故現場にラーメンと食器の破片と推測されるものが散乱していました。監視カメラに記録された映像を確認したところ、男性が列車と接触する寸前に突然丼に盛り付けられた一杯のラーメンが出現していたことが判明しました。事故発生時、食器が列車と衝突したことで飛散した破片によって█名が軽い怪我を負いました。\nswdate: '1'\ndate: 2014/█/█\nswplace: '1'\nplace: ██駅のプラットホーム\nswchaseprocedure: '1'\nchaseprocedure: 食器の破片によって負傷した█名に対して、██区内の病院での処置後、Aクラス記憶処理を行いました。事故現場に散乱していたラーメンの内容物やラーメン鉢の製造元を調査したところ、男性が高校生の時に通っていたと思われる店舗の商品と一致しました。\nswaddendum: '0'\naddendum: ''\ntf2: '1'\nauthor: west-plain\nredirect-b: '[[module Redirect destination=\"/log-of-extranormal-events-jp'\nredirect-e: '\"]]'",
+  "tags": [
+    "jp",
+    "剪定対象-子"
+  ],
+  "author": "machikawa",
+  "created_at": "2020-07-23T15:11:05+00:00",
+  "updated_at": "2024-03-21T07:56:11+00:00",
+  "rating": 30,
+  "_site": "scp-jp",
+  "_fullname": "extranormal-events-jp:10058"
+}

@@ -1,0 +1,24 @@
+{
+  "title": "SCP-8946",
+  "content": "[[>]]\n[[module Rate]]\n[[/>]]\n\n=====\n[[include :scp-wiki:component:preview\ntext=\nThe Departments of Geology are currently working with RCT-Δt to synchronize their now cross-dimensional databases.\n]]\n=====\n\n[[module ListPages  category=\"fragment\" parent=\".\" limit=\"1\" order=\"created_at\" offset=\"@URL|0\"]]\n%%content%%\n[[/module]]\n\n[!-- http://www.scp-wiki.net/fragment:scp-8946-0\nhttp://www.scp-wiki.net/fragment:scp-8946-1--]",
+  "tags": [
+    "_cc",
+    "_listpages",
+    "anomalous-event",
+    "building",
+    "delta-t",
+    "esoteric-class",
+    "from-120s-archives",
+    "geological",
+    "media",
+    "scp",
+    "spatial",
+    "temporal"
+  ],
+  "author": "Dino--Draws",
+  "created_at": "2024-12-29T20:11:50+00:00",
+  "updated_at": "2025-03-31T13:41:00+00:00",
+  "rating": 66,
+  "_site": "scp-wiki",
+  "_fullname": "scp-8946"
+}

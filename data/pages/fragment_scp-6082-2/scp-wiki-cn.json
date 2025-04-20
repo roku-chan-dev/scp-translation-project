@@ -1,0 +1,13 @@
+{
+  "title": "SCP-6082-2",
+  "content": "[[include :scp-wiki:theme:black-highlighter-theme]]\n\n[[include :scp-wiki-cn:component:anomaly-class-bar-source\n|lang= cn\n|item-number= 6082\n|clearance= 4\n|container-class= safe\n|secondary-class= none\n|disruption-class= dark\n|risk-class= 待观察\n]]\n----\n[[div class=\"scp-image-block block-center\" style=\"width:100%;\"]]\n[[image https://scp-wiki.wdfiles.com/local--files/fragment:scp-6082-2/yellowknife.jpg style=\"width:100%;\" link=#]]\n[[div class=\"scp-image-caption\" style=\"width:100%;\"]]\n耶洛奈夫, 2004年左右.\n[[/div]]\n[[/div]]\n----\n**特殊收容措施:** 连接大斯雷夫湖与SCP-6082-A的舱门已被加固。进入SCP-6082的权限仅授予拥有4级及以上权限的人员。\n\n**描述:** SCP-6082-A是一个位于加拿大耶洛奈夫西北处地下200米的巨大地下建筑群，且只能通过位于大雷斯夫湖底部的舱门进入。\n\nSCP-6082-A是一个有着数个机械装置的被设计为为各种活动提供能源的大型钢制五边形锅炉房。对SCP-6082内部的检测所得出的证据表明，SCP-6082-A是使用异常技术在1969年11月27日作为SCP-6082的收容单元和能源供应而被建造出来的。建造和使用SCP-6082-A和SCP-6082的实体或组织目前尚未可知。\n\nSCP-6082-A完全自动化且不需要人为干预来运行，且拥有完成其任务所需的所有组件。可以找到一些格外的组件:\n\n* 大量的管道\n* 圆柱形玻璃长管，包含用于将作为能源的木炭，原油和铀块压缩成均匀混合物的活塞，混合物会被推入一对用于将产物泄漏出去的细长金属管道中。\n* 两根更宽更长的用于排放废气的管道，推测管道尽头是一个未知的口袋空间。\n* 一扇位于SCP-6082-A中部的厚重舱门，被当做进入SCP-6082-A的入口，在舱门的边缘可以找到一间控制室。\n* 一组关于附近星系的记录，推测取自于太阳系内的一个外星地点。\n* 位于SCP-6082-A舱门上的一块印着[[[SCP-3790|\"反常部\"]]]的巨大金色标牌。[[footnote]]MTF Zeta-9到达该地点时，标语牌几乎没有受到损伤。[[/footnote]]\n* 几张描绘了一系列自动无人机的蓝图。\n\nSCP-6082-A的组成成分导致SCP基金会超技术部确信SCP-6082-A是SCP-6082的收容室。SCP-6082-A仅在SCP-6082内部拥有异常性质。\n\nSCP-6082是一处位于SCP-6082-A正下方的竖井状空间。--截止到该文档撰写完毕，SCP-6082是无法进入的。探索SCP-6082的方法正在研究。--\n\n##blue|**附录:** 1999年9月17日，为了能够进入SCP-6082,[[[SCP-6255|Site-94]]]派出了一支由12名研究员组成的小组。该小组之后使用位于SCP-6082-A控制室下的隐藏电梯进入了SCP-6082，之后在SCP-6082内部发现了一枚被严重损坏的火箭。##\n\n##blue|在之后对火箭内部的调查发现了一系列受到损伤但基本功能并无异常的自动无人机和一个卫星天线，以及关于先进科技的蓝图。除了以上物品，还发现了一盘描绘着木星大红斑并写有\"{{优先级: TARGET}}\" 的VHS录像带。[[footnote]]在被发现时，无人机都已被关闭。[[/footnote]]##\n\n[[footnoteblock]]\n\n[[div class=\"footer-wikiwalk-nav\"]]\n[[=]]\n<< [[[SCP-6081]]] | SCP-6082 | [[[SCP-6083]]] >>\n[[/=]]\n[[/div]]\n\n[[include :scp-wiki-cn:component:license-box]]\n=====\n> **文件名：** Ice Road on the Great Slave Lake 2\n> **图像作者：** Hyougushi\n> **授权协议：** CC BY-SA 2.0\n> **原链接：** https://commons.wikimedia.org/wiki/File:Ice_Road_on_Great_Slave_Lake_2.jpg\n[[include :scp-wiki-cn:component:license-box-end]]",
+  "tags": [
+    "段落"
+  ],
+  "author": "ScorpionidaSlaughter",
+  "created_at": "2022-03-27T07:49:54+00:00",
+  "updated_at": "2023-04-16T01:46:17+00:00",
+  "rating": 0,
+  "_site": "scp-wiki-cn",
+  "_fullname": "fragment:scp-6082-2"
+}

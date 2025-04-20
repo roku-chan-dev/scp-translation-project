@@ -1,0 +1,15 @@
+{
+  "title": "刷新",
+  "content": "[[module CSS]]\n#page-title {\n  display: none;\n}\n\n.meta-title {\n  border-bottom: solid 1px #bbbbbb;\n  color: #990011;\n  font-weight: normal;\n  margin: 0 0 0.6em;\n  padding: 0 0 0.25em;\n  font-size: 200%;\n}\n\n.meta-title p {\n  margin: 0;\n}\n[[/module]]\n[[module ListPages category=\"fragment\" parent=\".\" limit=\"1\" order=\"name\" offset=\"@URL|0\"]]\n[[div class=\"meta-title\"]]\n%%title%%\n[[/div]]\n[[/module]]\n[[>]]\n[[module Rate]]\n[[/>]]\n[[module ListPages category=\"fragment\" parent=\".\" limit=\"1\" order=\"name\" offset=\"@URL|0\"]]\n\n%%content%%\n[[/module]]\n\n[!--\n此为迭代页面，修改该页面的代码可能会导致错误。如果想修改文本内容，请至以下掩藏页：\nhttp://scp-wiki-cn.wikidot.com/fragment:shuaxin-01\nhttp://scp-wiki-cn.wikidot.com/fragment:shuaxin-02\n以此类推\nhttp://scp-wiki-cn.wikidot.com/fragment:shuaxin-11\n--]",
+  "tags": [
+    "原创",
+    "故事",
+    "深渊之光"
+  ],
+  "author": "megasowrd",
+  "created_at": "2017-09-16T08:33:12+00:00",
+  "updated_at": "2022-02-15T02:35:01+00:00",
+  "rating": 69,
+  "_site": "scp-wiki-cn",
+  "_fullname": "shuaxin1"
+}

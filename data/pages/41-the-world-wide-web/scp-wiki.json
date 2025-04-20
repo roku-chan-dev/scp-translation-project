@@ -1,0 +1,24 @@
+{
+  "title": "The World Wide Web",
+  "content": "[[include :scp-wiki:theme:blankstyle fade=a]]\n\n[[module CSS]]\n@import url('https://fonts.googleapis.com/css2?family=Caveat:wght@700&family=Lobster&display=swap');\n[[/module]]\n\n[[module CSS]]\n.Ngo {\n    padding: 4px 16px 4px 16px;\n    box-shadow: 0px 0px 3px rgba(0, 0, 0, 0.3);\n    width: 75%;\n    margin: auto;\n    margin-bottom: 28px;\n    margin-top: 28px;\n    background: #FBF9F3;\n    border: dashed 0.1rem #5D5D5D;\n[[/module]] \n\n[[include :scp-wiki:info:start]]\n[[=]]\n**The World Wide Web**\nTrip into my parlour.\n\n**[[[http://www.scp-wiki.net/this-page-intentionally-left-blank|More by this author!]]]**\n[[/=]]\n[[include :scp-wiki:info:end]]\n\n[[=]]\n+ The World Wide Web\n[[/=]]\n\n[[=]]\n@@ @@\n[[image https://scp-wiki.wdfiles.com/local--files/the-b-b-decommission/Asterisk43.png]]\n@@ @@\n\n+ ##990011|2007##\n++ 8 September\n[[span style=\"font-family: BauhausLTDemi; font-size: 120%;\"]]**[http://www.scpwiki.com/secure-facility-dossier-site-43 Site-43]: Lambton County, Ontario, Canada**[[/span]]\n[[/=]]\n\n----\n\nWilliam Wettle took a deep breath.\n\nHe checked his watch. 6:24 PM. He checked the clock over the Replication Studies lab door. 6:24 PM. He checked his other watch -- it paid to be thorough, when it came to his luck -- and at the moment he checked, the minute ticked over.\n\n6:25. Showtime.\n\nHe darted to the door.\n\nHe tripped.\n\n[[=]]\n@@ @@\n[[image https://scp-wiki.wdfiles.com/local--files/the-b-b-decommission/Asterisk43.png]]\n@@ @@\n\n+ ##990011|2008##\n++ 9 September\n[[/=]]\n\n----\n\n[[div class=\"Ngo\"]]\n**Debriefing Log 5243-B**\n\n**Subjects:** Harold R. Blank (Chair, Archives and Revision Section, Site-43); Delfina M. Ibanez (Chief, Security and Containment Section, Site-43); Lillian S. Lillihammer (Chair, Memetics and Countermemetics Section, Site-43); Allan J. McInnis (Director, Site-43); Noè Nascimbeni (Chief, Janitorial and Maintenance Section, Site-43); Udo A. Okorie (Researcher, Applied Occultism Section, Site-43); William W. Wettle (Deputy Chair, Replication Studies Subsection, Site-43)\n\n**Officer of Record:** Nhung T. Ngo (Senior Researcher, Psychology and Parapsychology Section, Site-43) \n\n**SCP Deviations:** Dr. Wettle tripped before reaching the hallway and did not collide with the S&C agents. They were subsequently able to flush AAF-D and escape before the airlock was sealed.\n\n----\n\n//Drs. Blank, Lillihammer, McInnis and Okorie appear extremely preoccupied. Chief Ibanez has a fierce and haunted expression. Chief Nascimbeni will not make eye contact. Dr. Wettle is hugging himself and scratching his arms compulsively.//\n \n**Dr. Ngo:** Are you alright? You all seem... agitated.\n\n**Dr. Blank:** Spiders.\n\n**Dr. Ngo:** Spiders?\n\n**Dr. Lillihammer:** Spiders.\n\n**Chief Ibanez:** //Fucking// spiders.\n\n**Dr. Ngo:** Can you expand on that?\n\n**Dr. Blank:** No.\n\n**Dr. Okorie:** No.\n\n**Chief Ibanez:** Fuck. No.\n\n**Dr. McInnis:** I'll... make a report. In private.\n\n----\n\n**Addendum:** Dr. Wettle and Chief Nascimbeni refused to speak at all. Dr. McInnis filed his report with O5 Command; it is classified Level 5: Top Secret. All seven individuals were treated for multiple █████ █████ over 75% of their █████████ ████.\n[[/div]]\n\n@@ @@\n\n[[include :scp-wiki:component:earthworm\n| first=false | last=false | hub=yes\n| previous-url=https://scp-wiki.wikidot.com/40-waiting-to-happen| previous-title=Waiting to Happen\n| next-url=https://scp-wiki.wikidot.com/42-life-cycled | next-title=Life Cycled\n| hub-url=https://scp-wiki.wikidot.com/wrong-tomorrow-hub | hub-title=The Breach Goes On: Wrong Tomorrow\n]]\n\n[[=]]\n[[include :scp-wiki:component:license-box]]\n=====\n[[<]]\n\n> **Filename:** Everything!\n> **Author:** [[*user HarryBlank]]\n> **License:** CC BY-SA 3.0\n[[/<]]\n=====\n[[include :scp-wiki:component:license-box-end]]\n[[/=]]",
+  "tags": [
+    "_cc",
+    "_licensebox",
+    "chief-ibanez",
+    "director-mcinnis",
+    "doctor-blank",
+    "doctor-lillihammer",
+    "doctor-okorie",
+    "doctor-wettle",
+    "mystery",
+    "on-guard-43",
+    "tale",
+    "wrong-tomorrow"
+  ],
+  "author": "HarryBlank",
+  "created_at": "2023-10-24T06:14:03+00:00",
+  "updated_at": "2024-12-29T10:49:19+00:00",
+  "rating": 61,
+  "_site": "scp-wiki",
+  "_fullname": "41-the-world-wide-web"
+}

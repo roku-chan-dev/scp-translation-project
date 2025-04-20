@@ -1,0 +1,25 @@
+{
+  "title": "SCP-6130",
+  "content": "[[include :scpko:theme:ad-abyssum-penumbra]]\n\n[[module CSS]]\n.collapsible-block-unfolded-link {\n    display: none;\n}\n\n.hidden-link {\n    color: white;\n    border: none !important;\n}\n\n.uhoh {\n    position: fixed;\n    top: 0;\n    opacity: 0;\n    left: 0;\n    background-color: rgba(0, 0, 0, 0.2);\n    width: 100%;\n    height: 100%;\n    pointer-events: none;\n    z-index: 99999;\n    animation: spooky-mode 45s linear 20s 1 forwards;\n    backdrop-filter: grayscale(0.75);\n}\n\n.OHNO {\n    opacity: 0;\n    background-image: url(\"https://i.imgur.com/Ec0XPx5.png\");\n    background-size: cover;\n    background-position: center center;\n    position: absolute;\n    top: 0;\n    left: 0;\n    width: 100%;\n    height: 100%;\n    animation: these-fuckers-again 25s linear 35s 1 forwards;\n    pointer-events: none;\n}\n\n@keyframes these-fuckers-again {\n    0% { opacity: 0; }\n    100% { opacity: 1; }\n}\n\n@keyframes spooky-mode {\n    0% {\n        opacity: 0;\n    }\n    \n    100% {\n        opacity: 1;\n    }\n}\n\n\n.results {\n    background-color:#221800;\n    border: 3px solid var(--accentColor);\n    color: #CC9F77;\n    padding: 15px;\n    margin-bottom:10px;\n    font-family: monospace;\n    font-size: 1.2em;\n    text-align: center;\n}\n\n#page-content .creditRate {\n  width: 100%;\n  justify-content: center;\n  float: none;\n  margin-left: -5px;\n}\n\n[[/module]]\n[[include :scpko:info:start]]\n**SCP-6130:** 지옥에서 우리는 살아가며,,In Hell, We Live,,\n**원작:** https://scp-wiki.wikidot.com/scp-6130 by [[*user Yossipossi]]\n**역자:** [[*user TimidChild]]\n=====\n이미지 출처\n> **Fileame:** scp-6130.jpg\n> **Name:** Vectorscope\n> **Author:** grm_wnr\n> **License:** CC BY-SA 3.0\n> **Source Link:** [https://web.archive.org/web/20240126054640/https://commons.wikimedia.org/wiki/File:Vectorscope.jpg Wikimedia Commons]\n=====\n[[include :scpko:info:end]]\n\n[[=]]\n[[div style=\"font-size: 90%; margin-top: -15px;\"]]\n**⏲** 읽는 시간 3분\n[[/div]]\n[[/=]]\n\n[[div class=\"modal\"]]\n\n[[div class=\"scp-image-block block-right\" style=\"width:250px;\"]]\n[[image https://scp-wiki.wdfiles.com/local--files/scp-6130/scp-6130.jpg style=\"width:100%;\" link=#]]\n[[div class=\"scp-image-caption\" style=\"width:100%;\"]]\nSCP-6130 데이터 해석용 개조 벡터스코프\n[[/div]]\n[[/div]]\n \n**일련번호:** SCP-6130\n\n**등급:** 안전 (前 타우미엘)\n\n**특수 격리 절차:** SCP-6130은 무기한 기능을 유지한다. 일 년에 한 번 우주 기지 배치 인원이 SCP-6130을 조사하여 부정확한 결과를 출력하도록 했을 수 있는 고장이나 결함이 있는지 확인한다.\n\n본 파일은 선임 직원의 특별한 지시가 없는 한 보안 인가 4등급 이상 혹은 3등급 이상/DoTT 인가의 인원으로 제한된다.\n\n**설명:** SCP-6130은 전술신학부가 1988년에 개발한 전자기기이다. 크기는 대략 1.5 세제곱미터이며, 아키바 방사선[[footnote]]아키바 방사선은 숭배 행위에서 생성되는 변",
+  "tags": [
+    "en",
+    "scp",
+    "도구",
+    "방화부",
+    "사후",
+    "안전",
+    "위성",
+    "작품교환",
+    "재단이-만듦",
+    "재작성",
+    "전술신학부",
+    "전자",
+    "특집"
+  ],
+  "author": "TimidChild",
+  "created_at": "2023-07-22T07:22:06+00:00",
+  "updated_at": "2024-06-29T15:01:09+00:00",
+  "rating": 21,
+  "_site": "scpko",
+  "_fullname": "scp-6130"
+}

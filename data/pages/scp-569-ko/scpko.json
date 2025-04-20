@@ -1,0 +1,25 @@
+{
+  "title": "SCP-569-KO",
+  "content": "[[include :scpko:theme:blankstyle]]\n[[module css]]\n:root{\n  --header-title: \"제145K기지\";\n  --header-subtitle: \"활용 격리 은닉\";\n}\n\ndiv#extra-div-1 {\n    background-image: url(https://scpkosb.wdfiles.com/local--files/collab%3Apoi-damgi-241-7051/Rncskslsl);\n    filter: opacity(20%);\n}\n#top-bar .open-menu {\n    display : block !important;\n}\n[[/module]]\n\n[[module CSS]]\nspan.blue{\nmax-width: 300px;\nborder-radius: 15px;\npadding: 4px 8px;\ndisplay: inline-block;\ntext-align: left; float:right;\nbackground-color: #3578e5;\ncolor: #fff;\n}\n\nspan.green{\nmax-width: 300px;\nborder-radius: 15px;\npadding: 4px 8px;\ndisplay: inline-block;\ntext-align: left; float:left;\nbackground-color: #f1f0f0;\n}\nblockquote{background-color: transparent;}\n[[/module]]\n\n[[include info:start]]\n**SCP-569-KO:** 다도의 금태양 ntr\n**저자:** [[*user TimidChild]], [[*user POI_Damgi]]\n----\n알약 이미지 출처는 https://pxhere.com/en/photo/1293861 입니다\nVHS 사진은 https://youtu.be/sp571uEnWpg 의 일부 장면에 글씨를 합성한 것입니다. 폰트는 굴림체입니다.\n[[include info:end]]\n\n[[table style=\"border: none; width: 100%;\"]]\n[[row]]\n[[cell]]\n[[size 125%]]**일련번호:** SCP-569-KO[[/size]]\n[[/cell]]\n[[cell style=\"text-align: right;\"]]\n[[size 125%]]**보안 인가 적용됨**[[/size]]\n[[/cell]]\n[[/row]]\n[[row]]\n[[cell]]\n[[size 125%]]**격리 등급:** 안전 (Safe)[[/size]]\n[[/cell]]\n[[cell style=\"text-align: right;\"]]\n[[size 125%]]**담당 부서:** 지속가능격리개발과[[/size]]\n[[/cell]]\n[[/row]]\n[[/table]]\n\n++ 특수 격리 절차\n\nSCP-569-KO 개체들은 제145K기지와 알레프 기지를 비롯하여 발견된 인근의 격리 시설의 보안 보관함에 보관한다. 이를 섭취한 인간 대상들은 현재 제한적 에너지 확보 규약에 의거해 관리된다 (부록 4 참고). 민간에서 비격리된 SCP-569-KO의 존재 및 유통이 발견되면 즉각 회수해야 한다. SCP-569-KO에 연관된 요주의 단체 및 개인에 대한 추적이 지속되고 있다.\n\n++ 설명 \n\n[[include component:image-block name=GoldenSun.jpeg|caption=SCP-569-KO 수 알]]\n\nSCP-569-KO는 요주의 인물이자 초상약리학자인 \"다도\"가 만든 300여 정의 투명한 노란색 알약이다. SCP-569-KO는 수 개의 금박지로 덮인 플라스틱 통에 담긴 채로 발견되었으며, 통에는 조잡한 태양 그림 하나와 \"다도의 금태양 ntr\"이라는 문구가 있었다.\n\n조사 결과, SCP-569-KO의 제작에는 다도 외에 GoI-669 (\"칼데라\")[[footnote]]변칙적 성산업 관련 재화 및 용역을 제공하는 회사들이 뭉친 기업망. 고품질의 서비스로 초상지하세계에서 유명하다.[[/footnote]] 또한 관계된 것이 밝혀졌다. 이들은 속칭 \"네토라레[[footnote]]자신이 좋아하는 이가 다른 이와 성적 관계를 맺는 성인물 장르를 일컫는 말. 줄여서 NTR이라고도 한다[[/footnote]]\"라 하는 장르 관련 제품 제작을 다도에게 의뢰했으며, 몇몇 특별 고객에게 이를 제공했으나, 결국 정식제품으로 출하하지는 않았다.\n\nSCP-569-KO의 약통에는 또한 다음과 같은 설명서가 동봉됐다.\n[[div class=\"blockquote\"]]\n칼데라서 주문한 다도 약이에요\n이 약만 잇으면 너도 쉽게 ntr 즐길 잇어요\n너 애인 이 약 먹이면 뵤로롱하고 금태양 ntr 알맞게 몸 바귀어요\n\n얼마 기다리면 특별 서비스 추가로 잇을 지도/\n[[/div]]\n\nSCP-569-KO를 연인을 가진 인간이 섭취하면 그 변칙성이 발현하며 섭취자(이하 SCP-569-KO-1)는 급격한 변화를 겪는다. 일차적으로, 섭취한 후 약 3~5초에 걸쳐 전신의 표피를 구성하는 원자들이 외부엔트로피적인 방법으로 다량의 전자, 중성자, 양성자를 얻어 금 원자로 변환된다.\n\n그 후, 일련의 외부엔트로피적 과정을 거치며 SCP-569-KO-1 체내의 모든 입자가 초고밀도 초고온 수소로 변하며 변환 과정은 종료된다. 이후, 체내의 수소 원자가 자연스럽게 핵융합하며 열에너지를 방출한다. 위 과정을 통해 생겨난 수소는 흄 안정치가 매우 낮기에, 흄-스티븐슨 법칙에 의해 더 자주, ",
+  "tags": [
+    "145k-협력사",
+    "ko",
+    "scp",
+    "공저",
+    "다도",
+    "빛",
+    "성적",
+    "안전",
+    "외부엔트로피",
+    "의약학",
+    "지성",
+    "지속가능격리개발과",
+    "칼데라"
+  ],
+  "author": "TimidChild",
+  "created_at": "2023-07-31T16:33:58+00:00",
+  "updated_at": "2024-05-25T08:00:22+00:00",
+  "rating": 23,
+  "_site": "scpko",
+  "_fullname": "scp-569-ko"
+}

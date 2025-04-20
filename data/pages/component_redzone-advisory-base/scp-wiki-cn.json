@@ -1,0 +1,13 @@
+{
+  "title": "红区公告 基版",
+  "content": "[[module CSS]]\n#u-info div.name {\n  clear: left;\n  width: 11em;\n  font-weight: bold;\n}\n#u-info div {\n  float: left;\n  margin-bottom: 0.5em;\n}\n#u-info {\n  float: left;\n}\n#u-enum {\n  float: right;\n}\n.letterhead {\n  max-width: 80%;\n  max-height: 50px;\n  width: auto;\n  display: block;\n  margin-left: auto;\n  margin-right: auto;\n}\nh1, h2, .title, #page-title {\n  color: {$color};\n}\nh2 {\n  font-weight: bold;\n}\ndiv#page-title {\n  display: none;\n}\n[[/module]]\n\n[[#if {$logo} |   | [!-- ]]\n[[image {$logo} class=\"letterhead\"]]\n----\n[[#if {$logo} |   | --] ]]\n\n[[#if {$title} |   | [!-- ]]\n+ {$title}\n[[#if {$title} |   | --] ]]\n~~~~\n[[div id=\"info\"]]\n[[#if {$id} |   | [!-- ]]\n[[div_ class=\"name\"]]\n公告编号：[[/div]][[div_ class=\"value\"]]\n{$id}[[/div]]\n[[#if {$id} |   | --] ]]\n\n[[#if {$updated} |   | [!-- ]]\n[[div_ class=\"name\"]]\n最后更新：[[/div]][[div_ class=\"value\"]]\n{$updated}[[/div]]\n[[#if {$updated} |   | --] ]]\n\n[[#if {$published} |   | [!-- ]]\n[[div_ class=\"name\"]]\n发布日期：[[/div]][[div_ class=\"value\"]]\n{$published}[[/div]]\n[[#if {$published} |   | --] ]]\n\n[[#if {$version} |   | [!-- ]]\n[[div_ class=\"name\"]]\n版本数{$version}：[[/div]][[div_ class=\"value\"]]\n[[#if {$final} | 最终版本 | 临时版本 ]][[/div]]\n[[#if {$version} |   | --] ]]\n\n[[#if {$impact} |   | [!-- ]]\n[[div_ class=\"name\"]]\n影响得分：[[/div]][[div_ class=\"value\"]]\n基础 - {$impact}[[/div]]\n[[#if {$impact} |   | --] ]]\n\n[[div_ class=\"name\"]]\n临时变通方案存在：[[/div]][[div_ class=\"value\"]]\n[[#if {$worknd} | 是 | 否]][[/div]]\n\n[[#if {$bugs} |   | [!-- ]]\n[[div_ class=\"name\"]]\n红区Bug编号：[[/div]][[div_ class=\"value\"]]\n{$bugs}[[/div]]\n[[#if {$bugs} |   | --] ]]\n[[/div]]\n[[div_ id=\"enum\"]]\n[[#if {$cve} |   | [!-- ]]\n{$cve}[[#if {$cve} |   | --] ]][[#if {$cwe} |   | [!-- ]]\n{$cwe}[[#if {$cwe} |   | --] ]]\n[[/div]]\n~~~~",
+  "tags": [
+    "样版"
+  ],
+  "author": null,
+  "created_at": "2017-07-04T05:57:34+00:00",
+  "updated_at": "2022-02-15T02:37:50+00:00",
+  "rating": 0,
+  "_site": "scp-wiki-cn",
+  "_fullname": "component:redzone-advisory-base"
+}

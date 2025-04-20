@@ -1,0 +1,17 @@
+{
+  "title": "碑上铭文团队 中心",
+  "content": "[[include :scp-wiki-cn:theme:aces-and-eights]]\n\n\n[[=image epitaphic-1.png  size=\"original\"]]\n\n\n> ++ 碑上铭文\n> \n> 铭文题写于墓碑上，用以纪念亡故之人。\n> \n> 如此死者才不会被遗忘。 \n> \n> 而在外面，西部的荒野里，死亡不过家常便饭。被他人忘却，几乎是板上钉钉之事。\n> \n> 这些是关于身死而不被遗忘的故事 —— 关于那群被死亡所感染之人的故事，无论此类故事是否由其亲手促成。\n> \n> 这些是关于生命和死亡的故事。\n> \n> 但特别地，更多的是关于死亡和其在雕琢生命时所扮演之角色的故事。\n> \n> 此与不被遗忘有关。\n\n[[=]]\n[[size 2.5em]]\n**创作团队**\n[[/size]]\n**[[*user DolorousDoctor]], [[*user DrBrandstiftung]], [[*user CanOfSoup]], and [[*user DrDromeus]]**\n[[/=]]\n\n[[=image epitaphic-2.png  size=\"original\"]]\n\n[[div class=\"page\"]]\n\n[[div style=\"font-family:cursive;\"]]\n++ //鸢娓的现场记录//\n[[/div]]\n* （序言）[/laugh-and-the-world-laughs-with-you-weep-and-you-weep-alone  笑时，世界与你同笑；哭时，只有你独自流泪][[footnote]] **译注**：出自 //Laugh and the World Laughs With You// [[/footnote]], by [[*user CanOfSoup]]\n* [/i-crawl-a-cracked-and-broken-path-if-we-make-it-we-can-all-s 我爬过一条崩解破碎的小道；若我们能干好，大可坐下和欢笑，但我害怕，我明天会悲泣][[footnote]] **译注：**出自 //epitaph// [[/footnote]], by [[*user CanOfSoup]] & [[*user DrBrandstiftung]]\n* [/knowledge-is-a-deadly-friend 如果无人建立规则，知识将是致命的朋友。我所见的全人类命运，竟把玩在愚者之手][[footnote]] **译注：**出自 //epitaph// [[/footnote]], by [[*user DrBrandstiftung]]\n* [/when-you-re-sure-you-ve-had-enough-of-this-life  当你确信已然受够了这般生活，坚持住；不要放手，每个人都会哭泣，每个人都会在某一天受苦][[footnote]] **译注：**出自 //everybody hurts// [[/footnote]], by [[*user DrBrandstiftung]]\n* [/the-beat-of-rain-upon-the-land-broken-teardrop-in-my-hand 雨水打落到地，泪珠破碎于我手里][[footnote]] **译注：**出自 //[https://www.familyfriendpoems.com/poem/heart-of-ice Heart Of Ice]// [[/footnote]], by [[*user CanOfSoup]]\n* （后记） [/a-memory-from-your-lonesome-past-keeps-us-so-far-apart 来自你寂寞过往的那一段记忆，令我们相距遥远如斯][[footnote]] **译注：**出自 //Cold Cold Heart// [[/footnote]], by [[*user CanOfSoup]], by [[*user CanOfSoup]] & [[*user DrDromeus]]\n[[/div]]\n\n[[=image epitaphic-3.png  size=\"original\"]]\n\n[[div class=\"page\"]]\n[[div style=\"font-family:cursive;\"]]\n++ //内森·里弗斯的旧事//\n[[/div]]\n* [/what-the-hand-dare-seize-the-fire 用怎样的手夺来火焰？][[footnote]] **译注：**出自 //The Tyger//，郭沫若译。 [[/footnote]], by [[*user DolorousDoctor]]\n\n[[/div]]\n\n[[=image epitaphic-4.png  size=\"original\"]]\n\n[[div class=\"page\"]]\n[[div style=\"font-family:cursive;\"]]\n++ //爱德华·凯利的大冒险//\n[[/div]]\n* 有待揭晓......\n[[/div]]\n> [[=]]\n> [[[canon-renaissance-contest|]]]\n> [[/=]]\n\n> [[=]]\n> [[[aces-and-eights| ]]]\n> [[/=]]\n\n\n[[module css]]\n.page {\n    display: block;\n    overflow: hidden;\n    font-family: \"Monotype Corsiva\", \"Bradley Hand ITC\", sans-serif;\n    font-style: normal;\n\n    background-attachment: scroll;\n    background-clip: border-box;\n    background-color: transparent;\n    background-image: linear-gradient(to top ,rgb(202, 219, 228) 0%, rgb(231, 233, 220) 8%);\n    background-origin: padding-box;\n    background-position: 0px 8px;\n    background-repeat: repeat;\n    background-size: 100% 20px;\n\n    border: 1px solid #CCC;\n    border-radius: 10px;\n    padding: 10px 10px;\n    margin-bottom: 10px;\n\n    box-shadow: 0px 1px 3px rgba(0, 0, 0, 0.2)\n    }\n.page p,\n.page ul {\n    line-height: 20px;\n    margin: 0;\n}\n[[/module]]",
+  "tags": [
+    "2020设定竞赛",
+    "中心",
+    "合著",
+    "死者手牌",
+    "需更新"
+  ],
+  "author": "Etinjat",
+  "created_at": "2020-10-09T18:21:39+00:00",
+  "updated_at": "2021-10-10T15:01:44+00:00",
+  "rating": 1,
+  "_site": "scp-wiki-cn",
+  "_fullname": "team-epitaphic-hub"
+}

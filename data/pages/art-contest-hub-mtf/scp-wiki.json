@@ -1,0 +1,15 @@
+{
+  "title": "Art Contest Hub - MTF",
+  "content": "[[=]]\n+ Category Winner: //Mobile Task Forces// by Yugoproductions\n[[/=]]\n\n[[module css]]\n.content-panel {\n    border: none;\n    border-radius: 0px;\n    background-color: #fff;\n    margin: 10px 0 15px;\n    box-shadow: none;\n    box-shadow: none;\n}\n[[/module]]\n[[div class=\"content-panel left-column\"]]\n[[include component:image-block name=YugoProductionsMTF.png| caption= MTF by YugoProductions. Fullview [https://i.imgur.com/wrcKZPd.png here].]]\n\n[[include component:image-block name=Scorpion451MTF.png| caption= MTFs by Scorpion451. Fullview [https://i.imgur.com/Es5OFGQ.png here].]]\n\n[[/div]]\n[[div class=\"content-panel right-column\"]]\n[[include component:image-block name=SunnyClockworkMTF.png| caption= MTF Omega-12 - “Achilles Heels”  by Sunnyclockwork. Fullview [https://scpsandbox2.wdfiles.com/local--files/sunnyclockwork/SunnyClockworkMobileTaskForces.png here].]]\n[[/div]]",
+  "tags": [
+    "_cc",
+    "art2017",
+    "artwork"
+  ],
+  "author": "LilyFlower",
+  "created_at": "2018-01-21T20:42:21+00:00",
+  "updated_at": "2024-01-25T18:15:33+00:00",
+  "rating": 12,
+  "_site": "scp-wiki",
+  "_fullname": "art-contest-hub-mtf"
+}

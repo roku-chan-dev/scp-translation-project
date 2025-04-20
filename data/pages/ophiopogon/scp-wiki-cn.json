@@ -1,0 +1,13 @@
+{
+  "title": "前路漫漫，群星璀璨",
+  "content": "[[div class=\"content-panel standalone series\" style=\"background-color: #fffff0;\"]]\n\n[[div class=\"heading\"]]\n++++ 作品目录\n[[/div]]\n@@@@\n[[collapsible show=\"+ 原创SCP\" hide=\"-  原创SCP\"]]\n[[module ListPages created_by=\"Ophiopogon\" separate=\"no\" limit=\"250\" perPage=\"250\" tags=\"+原创, +scp\" order=\"title\"]]\n* %%title_linked%%\n[[/module]]\n[[/collapsible]]\n------\n[[collapsible show=\"+ 原创GOI格式\" hide=\"-  原创GOI格式\"]]\n[[module ListPages created_by=\"Ophiopogon\" separate=\"no\" limit=\"250\" perPage=\"250\" tags=\"+原创, +goi格式\" order=\"title\"]]\n* %%title_linked%%\n[[/module]]\n[[/collapsible]]\n------\n[[collapsible show=\"+ 原创故事\" hide=\"-  原创故事\"]]\n[[module ListPages created_by=\"Ophiopogon\" separate=\"no\" limit=\"250\" perPage=\"250\" tags=\"+原创, +故事\" order=\"title\"]]\n* %%title_linked%%\n[[/module]]\n[[/collapsible]]\n------\n[[collapsible show=\"+ 原创图书馆\" hide=\"-  原创图书馆\"]]\n[[module ListPages created_by=\"Ophiopogon\" separate=\"no\" limit=\"250\" perPage=\"250\" category=\"wanderers\" tags=\"+原创\" order=\"title\"]]\n* %%title_linked%%\n[[/module]]\n[[/collapsible]]\n------\n[[collapsible show=\"+ 翻译SCP\" hide=\"-  翻译SCP\"]]\n[[module ListPages created_by=\"Ophiopogon\" separate=\"no\" limit=\"250\" perPage=\"250\" tags=\"+scp,-原创\" order=\"title\"]]\n* %%title_linked%%\n[[/module]]\n[[/collapsible]]\n------\n[[collapsible show=\"+ 翻译故事\" hide=\"-  翻译故事\"]]\n[[module ListPages created_by=\"Ophiopogon\" separate=\"no\" limit=\"250\" perPage=\"250\" tags=\"+故事, -原创\" order=\"title\"]]\n* %%title_linked%%\n[[/module]]\n* [http://scp-wiki-cn.wikidot.com/log-of-extranormal-events 超常事件记录]\n[[/collapsible]]\n@@@@\n\n[[/div]]\n\n----\n[[=]]\n[http://scpsandboxcn.wikidot.com/collab:collection-ophiopogon 收集的设定整合]\n[[/=]]",
+  "tags": [
+    "作者"
+  ],
+  "author": "Ophiopogon",
+  "created_at": "2021-04-05T01:06:16+00:00",
+  "updated_at": "2022-03-14T14:32:56+00:00",
+  "rating": 9,
+  "_site": "scp-wiki-cn",
+  "_fullname": "ophiopogon"
+}

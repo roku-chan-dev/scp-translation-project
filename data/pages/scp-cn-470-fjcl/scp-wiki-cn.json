@@ -1,0 +1,13 @@
+{
+  "title": "SCP-CN-470附加材料",
+  "content": "**项目编号：**SCP-CN-470\n**项目等级：**Keter\n**特殊收容措施：**无法收容\n**描述：**[[size xx-small]]SCP-CN-470是一个高180cm的人型实体，因其身着黑色风衣(可吸收80.7%的可见光波段)，佩戴白色人脸面具，无法分别项目性别(或是否有性别)，亦无法区分其四肢。\n\n项目一般以半身没入水的姿态出现在距岸边50m的位置，且与水底深度无关。\n\n当有单一人类靠近SCP-CN-47050米范围内时，SCP-CN-470会对目标进行注视，被注视的目标会遭到当前水域中拥有的生物攻击，持续至目标死亡或离开SCP-CN-470的注视范围；当目标靠近至20米时，SCP-CN-470会发出微弱的、类似尖厉笑声的声音；当目标接近SCP-CN-47010米时，项目会发出一种类似汉语的、--无法解析的--##blue|已解析，语言内容为警告和恐吓，意为阻止目标继续接近##的声音，而当项目听见此声音后则会不受控制的冲向SCP-CN-470并试图对其进行攻击行为。项目在被攻击后会对攻击者进行辱骂和[数据删除]。[[/size]]\n\n**项目拥有以下特性：**\n\n* SCP-CN-470正在以1cm/年的速度靠近岸线，当项目登陆时将引发一次8+级海啸。海啸范围将覆盖全亚洲海岸线。\n* SCP-CN-470携带有模因，模因具体表现为：攻击项目会使个体感到愉悦，进一步刺激个体的暴力行为。\n* 此模因通过文字，图片，音频，视频，口头描述进行传播。无法通过记忆删除解除，亦无疫苗。\n* 每次对项目造成的伤害都会加强海啸力度。\n* 因SCP-CN-470死亡的个体会形成新的SCP-CN-470\n* 模因感染者无法意识到以上特性。\n\n----\n\n**笔记：**\n[[note]]\n我不清楚为什么我没有被模因感染，我也不清楚为什么我会了解这个--狗屁--模因。\n这些不是重点。\n[[html]]\n<br>海啸来临倒计时<br>\n<span id=\"span_dt_dt\" style='border:1px solid black;background-color:#FFFFFF' ></span>\n<SCRIPT language=javascript>\n<!--\n//document.write(\"\");\nfunction show_time(){\nwindow.setTimeout(\"show_time()\", 1000);\nBirthDay=new Date(\"7-30-2518\");//\ntoday=new Date();\ntimeold=(BirthDay.getTime()-today.getTime());\nsectimeold=timeold/1000\nsecondsold=Math.floor(sectimeold);\nmsPerDay=24*60*60*1000\ne_daysold=timeold/msPerDay\ndaysold=Math.floor(e_daysold);\ne_hrsold=(e_daysold-daysold)*24;\nhrsold=Math.floor(e_hrsold);\ne_minsold=(e_hrsold-hrsold)*60;\nminsold=Math.floor((e_hrsold-hrsold)*60);\nseconds=Math.floor((e_minsold-minsold)*60);\nspan_dt_dt.innerHTML=daysold+\"天\"+hrsold+\"小时\"+minsold+\"分\"+seconds+\"秒\" ;\n}\nshow_time();\n//-->\n</SCRIPT>\n[[/html]]\n如你所见，海啸要来了。因为这该死的模因，我们进行了大量的摧毁实验，**现在海啸的高度已经tmd可以拍到珠穆朗玛峰了！**\n联系演绎部，看看他们有没有什么办法。\n[[/note]]",
+  "tags": [
+    "补充材料"
+  ],
+  "author": null,
+  "created_at": "2018-07-27T07:05:17+00:00",
+  "updated_at": "2018-08-13T23:06:41+00:00",
+  "rating": 4,
+  "_site": "scp-wiki-cn",
+  "_fullname": "scp-cn-470-fjcl"
+}

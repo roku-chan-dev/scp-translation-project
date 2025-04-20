@@ -1,0 +1,16 @@
+{
+  "title": "SCP-1665",
+  "content": "[[div class=\"code\"]]\n[[include :scp-wiki-cn:theme:classic]]\n[[/div]]\n[[module CSS]]\ndiv.box {\n    border: 1px solid black;\n    background: white;\n    padding: 0.5rem;\n    margin: 0.5rem;\n    flex-basis: 50%;\n}\n\ndiv.clues {\n    display: flex;\n    flex-wrap: nowrap;\n    justify-content: space-evenly;\n    align-items: flex-start;\n}\n\n@media screen and (max-width: 500px) {\n    div.box {\n        flex-basis: 100%;\n    }\n    div.clues {\n        flex-wrap: wrap;\n    }\n}\n[[/module]]\n\n\n[[=image https://scp-wiki.wdfiles.com/local--files/scp-1665/scp1665.png]]\n\n\n\n[[div class=\"box clues\"]]\n[[div class=\"box\"]]\n__**[[size 120%]]橫列[[/size]]**__\n**1.** 一位基金會@@_____@@在試圖錄下關於此書與它的擁有者的資訊時取得了此書。\n**6.** SCP-1665的填字遊戲似乎是為@@________@@所設計，字謎通常是一些平凡的事物，例如氣候、地理，通常要解出字謎不困難。\n**8.** 描述：SCP-1665是［編輯］出版社於1999年出版的，仍帶有版權的@@_________@@書。[[footnote]]**譯註：**推斷此處為revision時的筆誤，使用上一版本的內文：8. Description: SCP-1665 is a [REDACTED] brand book of _________ Puzzles, copyrighted 1999.[[/footnote]]\n**11.** 特殊收容@@__________@@：\n**15.** SCP-1665的@@_________@@特性於當任何人試圖寫下任何關於它的記錄時顯現。\n**18.** 所有寫下的記錄都會被變換為填字@@______@@的形式，使得儲存SCP-1665的資訊帶有困難度。\n[[/div]]\n[[div class=\"box\"]]\n__**[[size 120%]]直行[[/size]]**__\n**1.** @@___________@@：\n**2.** SCP-1665須保存於Site 39的低價值物品側翼的一@@______@@內。\n**3.** 所有SCP-1665的實驗@@_______@@必須以影音格式紀錄。\n**4.** SCP-1665於加拿大［編輯］的一處二手商品店被@@__________@@。\n**5.** 由於如此的特性，與SCP-1665有關之資訊@@_________@@以錄音設備保存。\n**7.** 自@@___________@@以來，SCP-1665已於五處不同之場合內測試過。\n**9.** 項目等級：@@____@@\n**10.** 由於Smith@@______@@的命令，所有SCP-1665的實驗都被暫停直到另行通知，原因是它的研究價值不高。\n**12.** 書中所有的填字遊戲都無人@@________@@，同時此書只帶有最少的磨損。\n**13.** SCP-1665的填字遊戲將一句子內的一個單詞替換為@@_____@@，而這些填字遊戲通常也並不困難。\n**14.** SCP-1665參與的實驗須得到一名@@_____@@級研究員的事前許可。\n**16.** SCP-1665的特性不影響@@_____@@記錄與其他非文字格式的記錄。\n**17.** 原主持續的嘗試售出@@___@@-@@____@@，標榜它是「神奇的填字遊戲書」。\n[[/div]]\n[[/div]]\n\n[[footnoteblock]]\n\n[[div class=\"footer-wikiwalk-nav\"]]\n[[=]]\n<< [[[SCP-1664]]] | SCP-1665 | [[[SCP-1666]]] >>\n[[/=]]\n[[/div]]\n\n[[include :scp-wiki-cn:component:license-box\n|author=ObserverSeptember\n|translator=tom282f3\n]]\n=====\n> **文件名：**scp1665.png\n> **图像作者：**[[*user ObserverSeptember]]\n> **授权协议：**CC BY-SA 3.0\n> **来源链接：**[http://scp-wiki.wikidot.com/scp-1665 SCP基金会维基]\n=====\n[[include :scp-wiki-cn:component:license-box-end]]",
+  "tags": [
+    "meta",
+    "safe",
+    "scp",
+    "文件"
+  ],
+  "author": "Letitia213",
+  "created_at": "2015-11-29T07:12:49+00:00",
+  "updated_at": "2022-02-15T02:45:53+00:00",
+  "rating": 3,
+  "_site": "scp-wiki-cn",
+  "_fullname": "scp-1665"
+}

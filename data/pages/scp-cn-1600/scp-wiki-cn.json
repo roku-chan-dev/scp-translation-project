@@ -1,0 +1,20 @@
+{
+  "title": "SCP-CN-1600",
+  "content": "[[module ListPages category=\"fragment\" parent=\".\" limit=\"1\" order=\"name\" offset=\"@URL|0\"]]\n\n%%content%%\n\n[[/module]]\n[!--\n编辑本页面的内容可能会导致错误。若要编辑文本，请至以下链接。\nhttp://scp-wiki-cn.wikidot.com/fragment:cn1000fenrirflamel-00\nhttp://scp-wiki-cn.wikidot.com/fragment:cn1000fenrirflamel-01\nhttp://scp-wiki-cn.wikidot.com/fragment:cn1000fenrirflamel-02\n--]\n\n[[footnoteblock]]\n@@@@\n[[div class=\"footer-wikiwalk-nav\"]]\n[[=]]\n<< [[[SCP-CN-1599]]] | SCP-CN-1600 | [[[SCP-CN-1601]]] >>\n[[/=]]\n[[/div]]",
+  "tags": [
+    "cn1000",
+    "scp",
+    "thaumiel",
+    "the-doctor",
+    "人造物品",
+    "历史性",
+    "原创",
+    "精品"
+  ],
+  "author": "Fenrir Flamel",
+  "created_at": "2018-11-26T15:43:31+00:00",
+  "updated_at": "2024-05-16T16:16:11+00:00",
+  "rating": 761,
+  "_site": "scp-wiki-cn",
+  "_fullname": "scp-cn-1600"
+}

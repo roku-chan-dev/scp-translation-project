@@ -1,0 +1,14 @@
+{
+  "title": "변칙쓰기 테마",
+  "content": "[[module CSS]]\n@import url(https://scpko.wdfiles.com/local--code/theme%3Awriting-anomalies/1);\n[[/module]]\n\n\n\n[[iftags +테마]]\n\n\n[[>]]\n[[module Rate]]\n[[/>]]\n\n+*  이게 뭡니까?\n> \n> [[*user Cole 13]]이 만든 \"변칙쓰기(Writing anomalies)\" 테마입니다.\n> \n> 시그마-9 테마에서 파생된 것이구요, 평이하거나 무효화되었거나 안전한 SCP에 사용하는 것을 추천합니다!\n@@ @@\n--------------------------------------\n+* 사용법:\n\n[[div class=\"code\"]]\n@@[[include :scpko:theme:writing-anomalies]]@@\n[[/div]]\n\n[[tabview]]\n[[tab 일반 탭]]\n쓰는 중..[[footnote]]이거슨 각주[[/footnote]]\n[[/tab]]\n[[tab 긴 탭]]\n쓰는 중..\n쓰는 중..\n쓰는 중..\n쓰는 중..\n쓰는 중..\n쓰는 중..\n쓰는 중..\n[[/tab]]\n[[tab 빈 탭]]\n\n[[/tab]]\n[[tab 탭안에 인용]]\n>\n> 인용\n>\n[[/tab]]\n[[/tabview]]\n@@ @@\n||~ 이것은 ||~ 표 ||\n|| 만드는 법은 || 이미 아실 거라 ||\n|||| 생각합니다 ||\n@@ @@\n[[include component:image-block name=https://scp-wiki.wdfiles.com/local--files/theme:writing-anomalies/thx . PNG image data|caption= 로고 제작: [[*user Luxaiko]]|width=200px]]\n@@ @@\n[[collapsible show=\"＋ 접기\" hide=\"－ 닫기\"]]\n+* 제목 1단계\n++* 제목 2단계\n+++* 제목 3단계\n++++* 제목 4단계\n+++++* 제목 5단계\n++++++* 제목 6단계\n[[/collapsible]]\n@@ @@\n@@ @@\n@@ @@\n@@ @@\n@@ @@\n@@ @@\n@@ @@\n@@ @@\n@@ @@\n@@ @@\n@@ @@\n@@ @@\n@@ @@\n@@ @@\n@@ @@\n@@ @@\n\n\n[[code type=\"css\"]]\n@import url(https://scp-wiki.wdfiles.com/local--code/theme%3Awriting-anomalies/1);\n@import url('https://fonts.googleapis.com/css2?family=Indie+Flower&display=swap');\n@import url('https://scpko.wdfiles.com/local--files/unfont/UnPilgi.css');\n\n/*\n    \"Writing anomalies\" theme\n    [2021 Wikidot Theme]\n    Created by Cole 13\n    CC BY-SA 3.0\n*/\n\n\nh1 {\n    color: #000000;\n     font-family: 'Indie Flower', 'UnPilgi', cursive;\n}\n\ndiv#header h1 a:before {\n    content: \"SCP 재단\";\n    font-family: 'Indie Flower', 'UnPilgi', cursive;\n    \n}\n\ndiv#header h2:after {\n    content: \"확보, 격리, 보호\";\n    font-family: 'Indie Flower', 'UnPilgi', cursive;\n}\n[[/code]]\n\n[[/iftags]]",
+  "tags": [
+    "en",
+    "테마"
+  ],
+  "author": "Salamander724",
+  "created_at": "2021-05-07T16:40:12+00:00",
+  "updated_at": "2021-09-30T15:06:13+00:00",
+  "rating": 1,
+  "_site": "scpko",
+  "_fullname": "theme:writing-anomalies"
+}

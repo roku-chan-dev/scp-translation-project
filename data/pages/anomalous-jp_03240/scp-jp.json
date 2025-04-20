@@ -1,0 +1,14 @@
+{
+  "title": "03240",
+  "content": "content: \"**説明:** 可食性のレビューが掲載されているブログ。星5つの評価段階で区分されており、高ければ高いほど美味しい。\\n**回収日:** 20██/██/██\\n**回収場所:** 公共インターネットクラウド上\\n**現状:** 当該アノマリーの削除を試みた結果、新たなサイトとして当該アノマリーが生成されたため、現在は主に監視を行なっている。\\n**追記:** 三つ星レストランの評価、レビュー内容はべた褒めだったのに、星3つだったせいで普通の味でした…定食屋さんみたいな感じです -██研究員\"\ntf2: '0'\nauthor: ''\nredirect-b: '[[module Redirect destination=\"http://ja.scp-wiki.net/log-of-anomalous-items-jp'\nredirect-e: '\"]]'",
+  "tags": [
+    "jp",
+    "剪定対象-子"
+  ],
+  "author": "Bethlehem-star",
+  "created_at": "2021-10-20T14:36:45+00:00",
+  "updated_at": "2021-10-20T14:37:02+00:00",
+  "rating": 10,
+  "_site": "scp-jp",
+  "_fullname": "anomalous-jp:03240"
+}

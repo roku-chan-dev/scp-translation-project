@@ -1,0 +1,24 @@
+{
+  "title": "SCP-CN-807",
+  "content": "[[>]]\n[[module Rate]]\n[[/>]]\n[[note]]\n##ae0000| 请注意，##\n[[module ListUsers users=\".\"]]\n##Ae0000| %%title%%##\n[[/module]]\n##ae0000| 您的电脑已被定位##\n[[/note]]\n[[div style=\"border:solid 1px #999999; background:#f2f2c2; padding:5px; margin-bottom: 10px;\"]]\n[[=]]\n[[size 1.5em]] **##ae0000| 基金会记录与信息安全管理部的通知##** [[/size]]\n\n##blue| 该异常现象显现于本文档的概率高达76%，为确认您是否受此影响，请按照本部门稍后发送给您的邮件上的指示，前往██处并接受检查。##\n\n-- ███，指导员，RAISA\n[[/=]]\n[[/div]]\n**##AE0000|请注意，本文档并非为Dr.Granjack撰写的原文档，此为过滤后版本。##**\n[[module ListPages category=\"fragment\" parent=\".\" limit=\"1\" order=\"name\" offset=\"@URL|0\"]]\n\n%%content%%\n[[/module]]\n@@@@\n@@@@\n@@@@\n[[div class=\"footer-wikiwalk-nav\"]]\n[[=]]\n<< [[[SCP-CN-806]]] | SCP-CN-807 | [[[SCP-CN-808]]] >>\n[[/=]]\n[[/div]]",
+  "tags": [
+    "safe",
+    "scp",
+    "信息危害",
+    "原创",
+    "感知影响",
+    "无形",
+    "未收容",
+    "模因",
+    "精神影响",
+    "观察影响",
+    "认知危害",
+    "逆模因"
+  ],
+  "author": "Granjack lee",
+  "created_at": "2018-08-17T02:51:09+00:00",
+  "updated_at": "2018-08-18T01:08:01+00:00",
+  "rating": 99,
+  "_site": "scp-wiki-cn",
+  "_fullname": "scp-cn-807"
+}

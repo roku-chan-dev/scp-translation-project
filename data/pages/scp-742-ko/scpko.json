@@ -1,0 +1,24 @@
+{
+  "title": "SCP-742-KO",
+  "content": "[[module CSS]]\ndiv.terminal{\n    border: 1px solid black;\n    border: solid 3px #BBBBBB;\n    border-radius: 16px;\n    background-color: #131;\n/* black shadow at the top of the terminal */\n    background-image: \n        radial-gradient(ellipse 1000% 100% at 50% 90%, transparent, #121);\n    background-position: center;\n    display: block;\n/* shadow around the terminal */\n    box-shadow: inset 0 0 10em 1em rgba(0,0,0,0.5);\n/* prevents scanline from forming a scrollwheel */\n    overflow:hidden;\n}\ndiv.terminal blockquote {\n    background-color: black;\n    border: double 3px #80FF80\n}\ndiv.scanline{\n    margin-top: -40%;\n    width: 100%;\n    height: 60px;\n    position: relative;\n    pointer-events: none;\n/* Safari 4.0 - 8.0 */\n    -webkit-animation: scan 12s linear 0s infinite; /* You may need to change this. If the bar goes by too quickly, increase 5s. */\n    animation: scan 12s linear 0s infinite; /* Same as above */\n    background: linear-gradient(to bottom, rgba(56, 112, 82,0), rgba(56, 112, 82,0.1)) !important;\n}\n\ndiv.text{\n    color: rgba(128,255,128,0.8);\n    padding-left: 2em;\n    padding-top: 40%;\n    font-family: monospace;\n    font-size: 1.2em;\n    }\n\n/* Safari 4.0 - 8.0 */\n@-webkit-keyframes scan{\n    from{ transform: translateY(-10%);}\n    to{  transform: translateY(5000%);} /* You may need to change this depending on the length of your terminal. If the scanline stops halfway, increase the second number.*/\n}\n\n@keyframes scan{\n    from{ transform: translateY(-10%);}\n    to{  transform: translateY(5000%);} /* Same as above.*/\n}\n\ndiv.text a {\n    color: #90EE90;\n    text-decoration: none;\n    background: transparent;\n}\ndiv.text a.newpage {\n    color: #90EE90;\n    text-decoration: none;\n    background: transparent;\n}\ndiv.text a:hover {\n    color: #131;\n    text-decoration: underline;\n    background-color: #80FF80;\n    padding: 1px;\n}\ndiv.text a:hover::before{\ncontent: \"> \";\n}\n[[/module]]\n\n[[include info:start]]\n**제목:** SCP-742-KO 개념적 우로보로스\n**저자:** [[*user Navla]]\n----\n**작가의 말:** 자바스크립트 이거 어렵군요...\n**[[[navla-page | ∇]]]**\n[[include info:end]]\n\n[[div class=\"terminal\"]]\n[[div class=\"scanline\"]]\n[[/div]]\n[[div class=\"text\"]]\n[[=]]\n[[size 150%]] __단말기 #051__[[/size]]\n@@ @@\n@@ @@\n@@------@@\nSCiPNET 접속을 환영합니다, 이용자 님\n@@------@@\n문서: SCP-742-KO에 접근합니다.\n[[/=]]\n@@ @@\n@@ @@\n@@ @@\n\n[[div style=\"background-color: black; border: double 3px #80FF80; padding: 0 1em; margin-block-start: 1em; margin-block-end: 1em; margin-inline-start: 40px; margin-inline-end: 40px;\"]]\n[[html]]\n<style type=\"text/css\">\nbody {\n    color: rgba(128,255,128,0.8);\n    padding-left: 2em;\n    padding-top: 40%;\n    font-family: monospace;\n    font-size: 1em;\n    line-height: 1.7em;\n}\n\n#btn {\n    background-color: black;\n    border: double 3px #80FF80;\n    color: rgba(128,255,128,0.8);\n}\n#btn:hover {\n    background-color: rgba(0, 80, 0, 1);\n}\n#btn:active {\n    background-color: rgba(0, 255, 0, 1);\n    color: rgba(0,50,0,1);\n}\n</style>\n<head>\n<script src=\"https://ajax.googleapis.com/ajax/libs/jquery/3.5.1/jquery.min.js\"></script>\n<script>\n$(\"document\").ready(function(){\n  var des = [\"<u><b>'일련번호'</b></u>는 SCP-742-KO이며 <u><b>'등급'</b></u>은 케테르(Keter)이고, \", \"<u><b>'특수 격리 절차'</b></u>는 바로 이 개체를 서술하는 본 문서이며, 이 문서는 대상을 격리하기 위해 \", \"기다란 고리형태의 개념적 연결을 유지하고 있는 상태로, 이에 따라 문서 내에서 개체를 설명하는 모든 문장은 \", \"마침표와 같은 수단으로 끝내지 말아야 함과 동시에 일종의 재귀적인 루프를 이루어야 하며, \", \"덧붙여 이 개체에 대한 <u><b>'설명'</b></u>을 하자면, SCP-742-KO는 개념적 연결을 통해 존재하는 기다란 뱀과 비슷한 구조의 \", \"초월개념적 독립체이고, 인식재해적, 정보재해적, 서술재해적 특성을 가지고 이데아적 개념에 대한 기생성을 통해 개념과 개념 간의 연결을 타고 이동하여 \", \"그 연결이 끝나는 지점을 발판 삼아 도약해 그것에 접근한 인간의 인식체계에 간섭을 시도하여 마치 BLIT와 비슷한 정신 교란을 일으키며, \", \"추가적으로 대상은 자신에 대한 정보에 대해 큰 민감성을 지니고 있어 대상의 정보에 대해 서술하는 것은 큰 주의를 필요로 하고, \", \"그렇기에 대상의 확보를 위해 초월개념 존재학과의 안태희 연구원이 직접 현 격리절차를 수립하여 성공적으로 대상의 움직임을 유도한 결과 \", \"현재 SCiPNET 데이터베이스 내 본 문서에서 개념적 격리상태를 유지하고 있으며, 해당 데이터베이스 내에 등록된 대상의 \"];\n  var i = 0;\n  $(\"input\").click(function(){\n    $(\"div\").append(des[i]);\n    i = i==des.length-1 ? 0 : i+1;\n  });\n});\n</script>\n</head>\n<body style=\"text-align: center;\">\n<div style=\"text-align: start;\"></div>\n<br>\n<input type=\"button\" value=\"데이터 불러오기\" id=\"btn\">\n</body>\n[[/html]]\n[[/div]]\n\n@@ @@\n[[/div]]\n[[/div]]",
+  "tags": [
+    "ko",
+    "scp",
+    "개념",
+    "기생성",
+    "메타",
+    "상호작용식",
+    "서술",
+    "인식재해",
+    "적대적",
+    "정보재해",
+    "존재학부",
+    "케테르"
+  ],
+  "author": "Navla",
+  "created_at": "2022-07-23T12:24:23+00:00",
+  "updated_at": "2022-10-19T07:58:27+00:00",
+  "rating": 26,
+  "_site": "scpko",
+  "_fullname": "scp-742-ko"
+}

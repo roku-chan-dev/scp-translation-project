@@ -1,0 +1,13 @@
+{
+  "title": "credit:_template",
+  "content": "> “著作信息模块”由[https://scp-jp.wikidot.com/credit:start 日语分部]的 [[*user c-take]]，[[*user Physicslike]]，[[*user sinazugawa]] 和 [[*user 7happy7]] 制作；由 [[*user dr_grom]] 为[https://scp-wiki-de.wikidot.com/credit:start 德语分部]改进；由 [[*user Croquembouche]] 和 [[*user Rimple]] 为[https://scp-wiki.wikidot.com/info:start 英语分部]改进；并由 [[*user Sekai_s]] 为中文分部改进。\n\n[[div style=\"border: 1px solid #ddd; padding: 1em;\"]]\n著作信息模块是一种评分模块的变体，可以让你在页面中添加任意世界观外的文本。需要由读者点击评分模块旁的一个小信息按钮，文本才会显示在一个对话框中。\n\n通常，此模块用于添加例如 SCP 标题、解说、授权信息和批评致谢等信息，这些信息通常放在虚构的故事中会显得不合时宜。\n\n+ 使用方法\n\n在页面的开头，插入如下的代码**代替**评分模块和 {{[[>]]}}。在 {{[[include ...]]}} 之间，你可以根据你自己的需要删除或者添加项目。\n\n[[div class=\"code\"]]\n**@@[[include :scp-wiki-cn:credit:start]]@@**\n##666|@@**SCP-CN-XXXX：**标题@@##\n##666|@@**故事/GOI 格式标题**@@##\n##666|@@**作者：**[[*user 作者]]@@##\n##666|@@**原文：**原文链接@@##\n##666|@@**译者：**[[*user 译者]]@@##\n##666|@@**插图：**所用插图来源及许可@@##\n##666|更多你想告诉读者的东西##\n**@@[[include :scp-wiki-cn:credit:more]]@@**\n##666|//可选的更多信息，这些会显示在一个新的窗口中。如果你不需要，删除“[[include :scp-wiki-cn:credit:more]]”//##\n**@@[[include :scp-wiki-cn:credit:end]]@@**\n[[/div]]\n\n如果此页不需要评分模块，使用如下的 {{[[include]]}}。\n\n[[div class=\"code\"]]\n{{@@[[include :scp-wiki-cn:credit:start-standalone]]@@\n@@[[include :scp-wiki-cn:credit:more-standalone]]@@\n@@[[include :scp-wiki-cn:credit:end-standalone]]@@}}\n[[/div]]\n\n注意：使用“预览”按钮预览页面时，著作信息模块无法正确地显示，除非你保存过页面。这是正常现象。\n\n提示：不支持分页的 ListPages 模块。设置 {{perPage=\"250\"}} 来最大化每页所能列出的文章数。\n\n[[collapsible show=\"+ 显示全部相关页面\" hide=\"- 隐藏全部相关页面\"]]\n* [[[credit:start|credit:start]]]\n* [[[credit:start-standalone|credit:start-standalone]]]\n* [[[credit:more|credit:more]]]\n* [[[credit:more-standalone|credit:more-standalone]]]\n* [[[credit:end|credit:end]]]\n* [[[credit:end-standalone|credit:end-standalone]]]\n* [[[credit:backmodule|credit:backmodule]]]\n* [[[credit:style|credit:style]]]\n* [[[credit:_template|credit:_template]]]\n[[/collapsible]]\n\n[[/div]]\n\n-----\n\n%%content%%",
+  "tags": [
+    "组件"
+  ],
+  "author": "Sekai_s",
+  "created_at": "2019-05-11T15:12:36+00:00",
+  "updated_at": "2023-07-16T12:53:10+00:00",
+  "rating": 2,
+  "_site": "scp-wiki-cn",
+  "_fullname": "credit:_template"
+}

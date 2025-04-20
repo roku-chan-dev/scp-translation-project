@@ -1,0 +1,19 @@
+{
+  "title": "サムサラ",
+  "content": "[[module CSS]]\n@import url(/theme:3law/code/1);\n[[/module]]\n\n\n[[>]]\n[[module Rate]]\n[[/>]]\n\n[[module ListPages category=\"fragment\" parent=\".\" limit=\"1\" order=\"created_at\" offset=\"@URL|0\"]]\n%%content%%\n[[/module]]\n\n----\n\n[[=]]\n,,**<<** [[[The Lord of Endowments | 授く主]]] | ##blue|サムサラ ##**>>**,,\n[[/=]]",
+  "tags": [
+    "en",
+    "mtf2016",
+    "tale",
+    "サムサラ",
+    "プロメテウス",
+    "共著",
+    "第三法則"
+  ],
+  "author": "YS_GPCR",
+  "created_at": "2017-11-23T15:31:05+00:00",
+  "updated_at": "2024-07-03T04:41:18+00:00",
+  "rating": 31,
+  "_site": "scp-jp",
+  "_fullname": "samsara"
+}

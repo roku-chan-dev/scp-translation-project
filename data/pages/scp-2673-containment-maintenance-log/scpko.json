@@ -1,0 +1,16 @@
+{
+  "title": "SCP-2673 격리 정비 기록",
+  "content": "[[include info:start]]\n**Original:** http://www.scp-wiki.net/scp-2673-containment-maintenance-log SCP-2673 Containment Maintenance Log by [[*user sirpudding]] et al.\n**Paraphrast:** [[*user XCninety]]\n[!-- 제병안락의 서원을 세우신 약사여래와 화살을 맞고도 다시 일어서신 성 세바스티아노를 기억하며 나인티가 번역합니다. --]\n[[include info:end]]\n\n새 글을 쓰려면 **[http://ko.scp-wiki.net/fragment:scp-2673-containment-maintenance-log-0 이 페이지]**를 편집해 주세요.\n\n[[module ListPages category=\"fragment\" parent=\".\" order=\"created_at\" limit=\"1\" offset=\"@URL|0\"]]\n%%content%%\n[[/module]]",
+  "tags": [
+    "en",
+    "공동작업",
+    "보충",
+    "시"
+  ],
+  "author": "XCninety",
+  "created_at": "2020-07-14T15:05:16+00:00",
+  "updated_at": "2020-07-29T08:50:32+00:00",
+  "rating": 1,
+  "_site": "scpko",
+  "_fullname": "scp-2673-containment-maintenance-log"
+}

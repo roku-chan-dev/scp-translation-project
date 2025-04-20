@@ -1,0 +1,23 @@
+{
+  "title": "SCP-5552",
+  "content": "[[include credit:start]]\n[[include credit:cc4]]\n[[include credit:end]]\n\n[[module ListPages  category=\"fragment\" parent=\".\" limit=\"1\" order=\"created_at\" offset=\"@URL|0\"]]\n%%content%%\n[[/module]]\n\n@@ @@\n\n@@ @@\n\n[[footnoteblock]]\n\n[!-- 編集時は下記リンクをご活用ください --]\n[!-- http://scp-jp.wikidot.com/fragment:scp-5552-1/noredirect/true --]\n[!-- http://scp-jp.wikidot.com/fragment:scp-5552-2/noredirect/true --]\n[!-- http://scp-jp.wikidot.com/fragment:scp-5552-3/noredirect/true --]\n[!-- http://scp-jp.wikidot.com/fragment:scp-5552-4/noredirect/true --]\n[!-- http://scp-jp.wikidot.com/fragment:scp-5552-5/noredirect/true --]\n[!-- http://scp-jp.wikidot.com/fragment:scp-5552-6/noredirect/true --]\n[!-- http://scp-jp.wikidot.com/fragment:scp-5552-7/noredirect/true --]\n[!-- http://scp-jp.wikidot.com/fragment:scp-5552-8/noredirect/true --]",
+  "tags": [
+    "en",
+    "safe",
+    "scp",
+    "パラドックス",
+    "メタ",
+    "世界オカルト連合",
+    "変容",
+    "文書",
+    "時間",
+    "異次元",
+    "電子デバイス"
+  ],
+  "author": "thor_taisho",
+  "created_at": "2021-03-15T09:01:06+00:00",
+  "updated_at": "2021-08-29T16:38:31+00:00",
+  "rating": 65,
+  "_site": "scp-jp",
+  "_fullname": "scp-5552"
+}

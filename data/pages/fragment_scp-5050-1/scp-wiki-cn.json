@@ -1,0 +1,13 @@
+{
+  "title": "fragment:scp-5050-1",
+  "content": "[[module css]]\n@import url('https://fonts.googleapis.com/css?family=Caveat&display=swap');\n@import url('https://fonts.googleapis.com/css?family=Didact+Gothic&display=swap');\n\ndiv#container-wrap {\n     background: url(\"https://scp-wiki.wdfiles.com/local--files/fragment%3Ascp-5050-1/light_bg2.png\") top left repeat-x;\n}\n\n#side-bar .side-block {\n    background: #000000;\n}\n\n#side-bar div.side-block:nth-child(7) > div:nth-child(1) > div:nth-child(1) img {\n    filter: none;\n    -webkit-filter: none;\n}\n\n#side-bar .scpnet-interwiki-wrapper {\n    width: 0em;\n}\n\nbody {\n    background-color: #000000;\n    font-family: 'Didact Gothic', monospace;\n    color: #990000;\n   font-size: 13px;\n}\n\n#page-title {\n  text-align: center;\n}\n\n[[/module]]\n@@ @@\n------\n[[table style=\"border: none; width: 100%;\"]]\n[[row]]\n[[cell]]\n[[size 150%]]###990000|**项目编号：**5050##[[/size]]\n[[/cell]]\n[[cell style=\"text-align: right;\"]]\n[[size 150%]]###990000|**Level 4/5050**##[[/size]]\n[[/cell]]\n[[/row]]\n[[row]]\n[[cell]]\n[[size 150%]]###990000|**项目等级：**GOD##[[/size]]\n[[/cell]]\n[[cell style=\"text-align: right;\"]]\n[[size 150%]]###990000|**机密**##[[/size]]\n[[/cell]]\n[[/row]]\n[[/table]]\n----\n\n[[div class=\"scp-image-block block-center\" style=\"width:100%;\"]]\n[[image http://scp-wiki.wikidot.com/local--files/fragment:scp-5050-1/tower-5.jpg style=\"width:100%;\" link=#]]\n[[div class=\"scp-image-caption\" style=\"width:100%; background-color: #000000;\"]]\n++ 你个傻逼。\n[[/div]]\n[[/div]]\n\n----\n[[div style=\"font-size: 1.9em;\"]]\n@@ @@\n@@ @@\n@@ @@\n@@ @@\n@@ @@\n@@ @@\n@@ @@\n@@ @@\n@@ @@\n@@ @@\n@@ @@\n@@ @@\n@@ @@\n@@ @@\n@@ @@\n@@ @@\n@@ @@\n@@ @@\n[[div class=\"scp-image-block block-center\" style=\"width:100%;\"]]\n[[image http://scp-wiki.wikidot.com/local--files/fragment:scp-5050-1/creators.jpg style=\"width:100%;\" link=#]]\n[[div class=\"scp-image-caption\" style=\"width:100%; background-color: #000000;\"]]\n我的先祖们。\n[[/div]]\n[[/div]]\n@@ @@\n@@ @@\n@@ @@\n@@ @@\n@@ @@\n@@ @@\n@@ @@\n@@ @@\n@@ @@\n@@ @@\n@@ @@\n@@ @@\n@@ @@\n@@ @@\n@@ @@\n@@ @@\n@@ @@\n@@ @@\n[[/div]]\n[[=image http://scpsandboxcn.wikidot.com/local--files/aegnustr2/stinger.png]]\n[[div style=\"font-size: 1.9em;\"]]\n@@ @@\n@@ @@\n@@ @@\n@@ @@\n@@ @@\n@@ @@\n@@ @@\n@@ @@\n@@ @@\n@@ @@\n@@ @@\n@@ @@\n@@ @@\n@@ @@\n@@ @@\n@@ @@\n@@ @@\n@@ @@\n[[=image http://scpsandboxcn.wikidot.com/local--files/aegnustr2/stinger-final.png]]\n[[/div]]\n@@ @@\n----",
+  "tags": [
+    "段落"
+  ],
+  "author": "Aegnus",
+  "created_at": "2023-11-11T05:22:42+00:00",
+  "updated_at": "2023-11-11T05:23:04+00:00",
+  "rating": 0,
+  "_site": "scp-wiki-cn",
+  "_fullname": "fragment:scp-5050-1"
+}

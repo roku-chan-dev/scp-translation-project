@@ -1,0 +1,21 @@
+{
+  "title": "SCP-5190",
+  "content": "[[>]]\n[[module Rate]]\n[[/>]]\n\n**Item #:** SCP-5190\n\n**Object Class:** Keter\n\n**Special Containment Procedures:** Due to its nature, SCP-5190 is considered self-containing, and thus is not subject to specific procedures.\n\n**Description:** SCP-5190 is the collective designation for an unclear but insignificant percentage of the human population, who are subject to an anomalous phenomenon which influences their effect on the world around them.\n\nInstances of SCP-5190 will make little to no significant impact to the world around them throughout their lives — and any societal or environmental change they do manage to bring about will revert shortly after.\n\nAll SCP-5190 instances are subject to a minor perception filter effect which increases the difficulty of noticing them, the strength of which increases exponentially the more other individuals are nearby. The strength of this filter, however, reduces to almost zero whenever the instance is engaging in acts that would be considered criminal or otherwise socially inappropriate[[footnote]] Note, however, that the prospect of performing these kinds of actions provokes severe anxiety in most SCP-5190 instances. [[/footnote]].\n\nDespite what most SCP-5190 instances believe, the majority of their personal relationships reach the level of acquaintance at best — when pressed, most individuals who know SCP-5190 instances have described them as vaguely pleasant but ultimately insubstantial. In 80% of interviews conducted with individuals acquainted with SCP-5190 instances, they have had significant difficulty fully recalling details such as the instance's name and features; in the remaining 20%, they have failed to remember these details altogether.\n\nFollowing death, memories of the SCP-5190 instance will rapidly fade from the minds of all individuals who have encountered them. All observed cases have resulted in a complete loss of memories pertaining to the instance after a period of three days, save for a vague notion that the subject in question has forgotten something of little importance.\n\n------\n\n**Addendum 5190-1:** Due to lack of Foundation interest, further information on this anomaly is not available.\n\n[[footnoteblock]]\n\n[[div class=\"footer-wikiwalk-nav\"]]\n[[=]]\n<< [[[SCP-5189]]] | SCP-5190 | [[[SCP-5191]]] >>\n[[/=]]\n[[/div]]\n[[include :scp-wiki:component:license-box]]\n[[include :scp-wiki:component:license-box-end]]",
+  "tags": [
+    "_licensebox",
+    "alive",
+    "antimemetic",
+    "humanoid",
+    "keter",
+    "memory-affecting",
+    "sapient",
+    "scp",
+    "visual"
+  ],
+  "author": "Tanhony",
+  "created_at": "2020-05-28T21:24:29+00:00",
+  "updated_at": "2022-10-22T16:10:15+00:00",
+  "rating": 64,
+  "_site": "scp-wiki",
+  "_fullname": "scp-5190"
+}

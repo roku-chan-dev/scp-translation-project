@@ -1,0 +1,17 @@
+{
+  "title": "SCP-028-J",
+  "content": "[[include info:start]]\n**SCP-028-J:** 프린터 용지 부족?!\n**저자:** [[*user DrMagnus]]          \n**원작:** http://www.scpwiki.com/scp-028-j\n**역자:** [[*user MGPedersen]]\n[[include info:end]]\n\n\n[[module CSS]]\n.page-rate-widget-box{\n\n}\n\n.page-rate-widget-box .rate-points{\n    background-color: #666;\n    color: #FFF;\n    font-weight: bold;\n    padding: 0 10px;\n    -moz-border-radius: 4px 0 0 4px;\n}\t\n\n.page-rate-widget-box a{\n    text-decoration: none;\n    color: #000;\n    background-color: #DDD;\n    padding: 0 5px;\n}\n.page-rate-widget-box a:hover{\n    background-color: #EEE;\n}\n\n.page-rate-widget-box .cancel, .page-rate-widget-box .cancel a{\n    -moz-border-radius:  0 4px 4px  0;\n}\n.inset {\n    float: right;\n    width: 25%;\n    margin: 0px;\n    border-style: solid;\n    border-radius: 5px;\n    border-width: 2px;\n    border-color: #ee9999;\n    padding: 10px;\t\n    margin-left: 10px;\n    margin-top: 5px;\n    margin-bottom: 5px;\n    background: #FFEEEE;\n    font-size: 90%;\n}\n.inset > p {\n    margin: 0;\n}\n.space {\nfloat:center; width:100%; border:solid 3px #ededfd; padding:10px; margin-bottom: 10px;margin:0 auto;\n[[/module]]\n\n[[div style=\"width: 100%;\n    border: solid 2px #3d2fc3;\n    background: #ecebff;\n    padding: 1%;\n    margin-bottom: 10px;\n    margin: 0 auto;\"]]\n[[=]]\n\n[[div style=\"    border: solid 0px #ee9999;\n    background: #564dcc;\n    padding: 10px;\n    margin-bottom: 5px;\n    margin: 0 auto;\"]]\n\n++ ##ffeeee|**알레프-킨드-줄루 26-21**##\n+++ ##ffeeee|**접근 권한 필요**##\n+++++ ##ffeeee|//XK급 예방 규약 █████████//##\n\n[[/div]]\n\n[[/=]]\n\n[[==]]\n\n------\n[[=]]\n[[size 80%]]##282467|**O5-명령 2258호**에 의거하여, SCP-028-J의 내용 및 보충 정보 전문 열람은 O5-6로 지정된 감독관 등급에게로만 제한되어 있습니다. 본 파일은 █████████ 사태 발생 시에만 열람할 수 있습니다.##[[/size]]\n[[/=]]\n------\n[[=]]\n##282467|//__열람 절차__//##\n\n[[size 80%]]##282467|//알레프-킨드-줄루 26-21 규약의 보관, 재료, 의식, 무기 정보에 관한 직접적 열람은 O5-6에 의해서만 통제됩니다. █████████ 사태 발생이 확인될 시, [편집됨] 규약에 의거하여 O5-6에게로의 직통 연락이 허용됩니다. 원격 열람을 승인코자 O5-6을 [데이터 말소] 격리 부지에서 제███기지 외부로 이동시켜야 합니다. O5-6은 가능한 빨리 제███기지로 안전하게 도착할 수 있도록 최소 7명의 기동특무부대-알레프-케테르-6 (\"전문가들,,The Professionals,,\") 대원들과 동행해야 합니다.//##[[/size]]\n[[/=]]\n------\n\n\n\n[[size 80%]]##282467|귀하의 현 열람 자격은 **{{#ID 307134 OVERSEER_6 LV/CRD: KFFR/22, NP1-2000/5+AKD, L4350+WK-11/5340}}**이며, 귀하의 마지막 인식 접종 일자는 {{03/12}}로 기록되어 있습니다.##[[/size]]\n\n------\n[[size 80%]]##282467|원격 단말기 접근 감지됨...##[[/size]]\n##282467|.##\n[[size 80%]]##282467|원격 단말기 신원 확인 토큰: {I am the walrus.}##[[/size]]\n##282467|.##\n[[size 80%]]##282467|토큰 재확인: {I hate The Beatles.}##[[/size]]\n##282467|.##\n##282467|.##\n##282467|.##\n##282467|확인됨##\n\n[[size 80%]]##282467|세션 여는 중, 신원 확인 문구를 입력하시오.##[[/size]]\n\n\n\n\n\n[[/==]]\n\n[[/div]]\n\n[[=]]\n[[collapsible show=\"[원격 단말기 접근: 인증 조회]\" hide=\"_________\"]]\n[[size 550%]]\n##red|거부됨##\n[[/size]]\n[[size 250%]]\n##red|비밀번호 불일치.##\n[[/size]]\n##red|불일치 허용 횟수 초과로 해당 계정은 잠금 처리 되었습니다. 귀하의 시스템 관리자에게 연락하십시오.##\n\n------\n\n[[size 80%]] //아 씨바 진짜.// \n-██/██/██ XK급 사태 발발 이전에 마지막으로 기록된 O5-6의 음성 [[/size]]\n[[/collapsible]]\n[[/=]]\n\n[[div class=\"authors\"]]\n[[include :scp-wiki:component:license-box\n|author=DrMagnus]]\n[[include :scp-wiki:component:license-box-end]]\n[[/div]]",
+  "tags": [
+    "en",
+    "k급-시나리오",
+    "scp",
+    "난해한-등급",
+    "농담"
+  ],
+  "author": "MGPedersen",
+  "created_at": "2017-08-26T04:46:14+00:00",
+  "updated_at": "2024-09-26T13:44:58+00:00",
+  "rating": 12,
+  "_site": "scpko",
+  "_fullname": "scp-028-j"
+}

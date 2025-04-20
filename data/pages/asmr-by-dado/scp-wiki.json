@@ -1,0 +1,16 @@
+{
+  "title": "asmr by dado",
+  "content": "[[module CSS]]\n\ndiv#page-title::after {\n  content: \"by LordStonefish\";\n  font-size: 50%;\n  color: #888;\n}\n\n[[/module]]\n\n\n[[>]]\n[[module Rate]]\n[[/>]]\n\n\n> On 9/19/18, the Youtube channel //Ephemeral Rift ASMR// was hacked from an unknown IP address located somewhere in the American southeast. The following video was uploaded and gained over 1.6 million views as well as 6000 likes and 500 comments before it was deleted by Foundation web analysis bot Alpha-12 (\"I/O SCREECH\"). \n> \n> Research into the person of interest known as dado is ongoing.\n> \n> An embedded copy of this video is below. \n>\n\n@@@@\n@@@@\n@@@@\n@@@@\n[[=]]\n[[html]]\n<iframe width=\"640\" height=\"360\" src=\"https://www.youtube.com/embed/T05gph2PoWY\" frameborder=\"0\" allow=\"autoplay; encrypted-media\" allowfullscreen></iframe>\n[[/html]]\n[[/=]]\n@@@@\n@@@@\n@@@@\n@@@@\n@@@@\n@@@@\n@@@@\n@@@@\n@@@@\n\n-----\n[[div class=\"footer-wikiwalk-nav\"]]\n[[=]]\n[[include :scp-sandbox-3:more-by-stonefish]]\n[[/=]]\n[[/div]]\n\n[[include :scp-wiki:component:license-box]]\n[!-- N/A (No Images)  --]\n[[include :scp-wiki:component:license-box-end]]",
+  "tags": [
+    "_licensebox",
+    "dado",
+    "tale",
+    "video"
+  ],
+  "author": "LordStonefish",
+  "created_at": "2018-09-19T23:08:08+00:00",
+  "updated_at": "2022-09-25T10:26:58+00:00",
+  "rating": 247,
+  "_site": "scp-wiki",
+  "_fullname": "asmr-by-dado"
+}

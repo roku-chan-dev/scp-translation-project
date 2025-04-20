@@ -1,0 +1,21 @@
+{
+  "title": "SCP-6404",
+  "content": "[[include :scp-wiki-cn:theme:basalt hidetitle=a]]\n[[include :scp-wiki-cn:theme:turbo-vision blocks=-]]\n\n[[module css]]\n:root {\n  --logo: url(https://scp-wiki.wdfiles.com/local--files/secure-facility-dossier-site-58/58logo.png);\n  --title: \"SITE-58:\";\n  --subtitle: \"弥合我们之间的鸿沟\";\n}\n.email-example .collapsible-block-folded a.collapsible-block-link {\n    animation: blink 0.8s ease-in-out infinite alternate;\n}\n@keyframes blink {\n    0% { color: transparent; }\n    50%, 100% { color: #b01; }\n}\n.email {border: solid 2px #000000; width: 88%; padding: 1px 15px; margin: 10px; box-shadow: 0 1px 3px rgba(0,0,0,.5)}\n.email-example a.collapsible-block-link {font-weight: bold;}\n.tofrom {margin-left: 10px; margin-top: 5px; padding: 1px 15px; border-left: solid 3px maroon}\n[[/module]]\n\n[[include :scp-wiki-cn:component:anomaly-class-bar-source\n\n|lang= cn\n\n|item-number= SCP-6404\n\n|clearance= 4\n\n|container-class= esoteric\n\n|secondary-class= decomissioned\n\n|secondary-icon= https://scp-wiki.wikidot.com/local--files/component:anomaly-class-bar/decommissioned-icon.svg\n\n|disruption-class= amida\n\n|risk-class= 待观察\n\n]]\n\n------\n\n**特殊收容措施：**基金会人员需持续监控全球出生记录中名为“Tallakant”的个人。任何确认拥有Tallakant之名的个人需按标准废除措施处理。\n\nSCP-6404于2007年10月4日成功废除。所有涉及名为Tallakant的个人的历史及公民记录都已做出相应更改，以将重大历史事件归功于他人，或以其他方式消除前Tallakant的身份。从Tallakant这个名字中衍生的姓名和熟语，[[footnote]]如Tally Mark（计数符号）、Kant Counter（康德计数器）、Tally-ho（猎人用于呼叫的号子，也被用作四驱马车的代称）、Tallywacker（阴茎的俚语说法）等[[/footnote]]尽管没有异常性质，也同样被取代或以其他方式移出了流行词汇，以防止Tallakant之名可能的复兴。\n\n**描述：**SCP-6404指代在一生中的任何时刻名为[[footnote]]包括在出生时被授予这个名字、将自己的名字改为Tallakant，或仅在某一时刻被称呼为Tallakant。[[/footnote]]“Tallakant”的所有个人都会成为一种集体蜂巢思维的一部分的现象。个人一旦成为SCP-6404实例，就无法脱离蜂巢思维。所有SCP-6404实例都可以在个人层面上行动，但会主动共享相同的思维、感受与信念。大体上，SCP-6404实例会在以下领域寻找工作：\n\n* 教育\n* 研究，尤其是与传染病的传播及治疗相关的领域\n* 视觉与表演艺术\n* 政府职位，尤其是与就业、福利以及国际关系有关的职位\n* 慈善工作\n* 社会活动家\n\n记录表明，Tallakant之名自5世纪早期就已存在，有多个著名人士拥有这个名字。历史上，SCP-6404实例显著地参与了探索、社会发展以及文化交流活动。\n\n由于诸多历史名人以及流行文化偶像使用Tallakant之名，其始终是最受欢迎的男性和女性用名之一。据信，在SCP-6404废除期间，有大约十亿名为Tallakant的个人。\n\n[[footnoteblock]]\n\n[[div class=\"footer-wikiwalk-nav\"]]\n[[=]]\n<< [[[SCP-6403]]] | SCP-6404 | [[[SCP-6405]]] >>\n[[/=]]\n[[/div]]\n\n[[include :scp-wiki-cn:component:license-box\nauthor=OriTiefling]]\n[!-- N/A (无图s)  --]\n[[include :scp-wiki-cn:component:license-box-end]]",
+  "tags": [
+    "scp",
+    "历史性",
+    "心灵感应",
+    "智能",
+    "活物",
+    "精神影响",
+    "蜂巢意识",
+    "被废除",
+    "褪色繁星"
+  ],
+  "author": "Esperanza_Cai",
+  "created_at": "2021-08-20T17:36:04+00:00",
+  "updated_at": "2024-09-17T20:35:52+00:00",
+  "rating": 6,
+  "_site": "scp-wiki-cn",
+  "_fullname": "scp-6404"
+}

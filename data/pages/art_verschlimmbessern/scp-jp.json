@@ -1,0 +1,15 @@
+{
+  "title": "Verschlimmbessern",
+  "content": "[[include :scp-wiki:theme:basalt darkmode=a|centertitle=a]]\n[[module css]]\n:root {\n     --header-title: \"    \";\n     --header-subtitle: \"    \";\n    --basalt-primary-color: 0, 0, 0;\n}\n[[/module]]\n\n\n[[include :scp-jp:info:start]]\n[[=]]\nVerschlimmbessern (ドイツ語) -- 善意の行いで事態を悪化させること。\n[[/=]]\n\n------\n\n**タイトル:** Verschlimmbessern\n**翻訳責任者:** [[*user C-Dives]]\n**翻訳年:** 2024\n**著作権者:** [[*user Kikunai]]\n**原題:** Verschlimmbessern\n**作成年:** 2024\n**初訳時参照リビジョン:** 3\n**元記事リンク:** [[[*https://scp-wiki.wikidot.com/art:verschlimmbessern|ソース]]]\n\n[[include :scp-jp:info:end]]\n@@ @@\n[[div class=\"scp-image-block block-center\" style=\"width:80%;\"]]\n[[=image http://scp-jp-storage.wikidot.com/local--files/file:2375337-999-6dvi/u9MFJrT-min.png  width=\"100%\" link=\"*http://scp-jp.wikidot.com/admonition\"]]\n[[/div]]\n\n@@ @@\n\n[[include :scp-jp:component:license-box\n|author=Kikunai、C-Dives]]\n\n[[div class=\"blockquote\"]]\n**ファイルページ:** [*http://scp-jp-storage.wikidot.com/file:2375337-999-6dvi Verschlimmbessern]\n\n**ソース:** https://scp-wiki.wikidot.com/art:verschlimmbessern\n**ライセンス:** CC BY-SA 3.0\n\n**タイトル:** u9MFJrT.png\n**著作権者:** [[*user kikunai]]\n**公開年:** 2024\n[[/div]]\n\n[[include :scp-jp:component:license-box-end]]",
+  "tags": [
+    "en",
+    "アートワーク",
+    "マクドクトラート博士"
+  ],
+  "author": "C-Dives",
+  "created_at": "2024-07-02T13:34:58+00:00",
+  "updated_at": "2024-07-02T13:35:42+00:00",
+  "rating": 25,
+  "_site": "scp-jp",
+  "_fullname": "art:verschlimmbessern"
+}

@@ -1,0 +1,23 @@
+{
+  "title": "SCP-6579",
+  "content": "[[include :scp-wiki-cn:theme:basalt]]\n\n[[module CSS]]\n\n#page-title,\n.meta-title {\n    display: none!important;\n}\n\n[[/module]]\n\n@@  @@\n\n[[include :scp-wiki-cn:component:customizable-acs\n|containment-class= decommissioned\n|containment-color= 66,66,72\n|secondary-class= archon\n|secondary-color= 88,0,188\n|inc-split-color= --]]]\n\n[[include :scp-wiki-cn:component:customizable-acs\n|containment-class= decommissioned\n|containment-image= https://scp-wiki.wdfiles.com/local--files/calibri-s-mega-cool-art-page-it-s-mostly-just-icons-but-what/Decommissioned.svg\n|containment-color= 66,66,72\n|inc-esoteric-layout = --]]]\n\n[[div class=\"anom-bar-esoteric\"]]\n\n[[include :scp-wiki-cn:component:customizable-acs\n|item-number= SCP-6579-D\n|clearance= 2\n|container-class= decommissioned\n|secondary-class= archon\n|secondary-icon= https://scp-wiki.wdfiles.com/local--files/component%3Aanomaly-class-bar/archon-icon.svg\n|disruption-class= keneq\n|risk-class= critical\n|item-text= 项目编号：\n|level-text= 等级\n|clearance-number-text= 2\n|clearance-text= 受限\n|containment-text= 收容等级：\n|secondary-text= 次要收容等级：\n|disruption-text= 扰动等级：\n|risk-text= 风险等级：\n|inc-custom-text= --]]]\n\n[[/div]]\n\n------\n\n[[include component:image-block\n| name=https://scp-wiki.wdfiles.com/local--files/calibri-bold-s-mega-cool-author-page/cambridge%20office.jpg\n| caption=Dr. Cambridge的办公室 (于生前所摄)。\n| width=400px]]\n\n**特殊收容措施：**由ShyGuy.aic操作，对所有遇害人员尸体以武装无人机进行焚烧。 \n\n//收容措施附录：// 严令禁止进入Dr. Cambridge的办公室。对SCP-6579的调查将由 ShyGuy.aic全权负责。\n\n**描述：**SCP-6579推测为出现在已故研究员Dr. Cambridge办公室内的某种实体或物体。该研究员供职于Site-41，负责逆模因研究。据推测，SCP-6579大概率为可通过感染者传播的某种致命信息危害。\n\nSCP-6579极有可能是造成Dr. Cambridge死亡的原因。任何注视过Dr. Cambridge，或仔细观察过其办公室的人员，皆为SCP-6579所杀。此外，任何注视死者的人同样会受影响。由于任何观察行为均会激活SCP-6579，对其性质的研究基本不可行。目前知晓的是：据ShyGuy.aic推定，这些人员均为SCP-6579所杀，而他们与SCP-6579的互动和致死原因则尚未查明。\n\n**事故记录：**以下为SCP-6579的所有相关事故记录，已进行转录处理，使阅读者大几率免于死亡。\n\n> **事故6579.1-1：**Cambridge的亲近同事Dr. Garner进入前述办公室外的走廊。他打开门，慢慢走进办公室，立即被SCP-6579所杀。\n\n> **事故6579.1-2：**Drs. Simmons与Fitzgerald进入走廊。两人注意到了半开的门，并向其走去，进入房间后立即被SCP-6579所杀。\n\n> **事故6579.1-3：**Dr. Leroy进入走廊，注意到了Dr. Fitzgerald伸出门外的双腿。他立即拉下墙上的警报杆，封锁了站点，并激活了ShyGuy.aic的自适应收容算法。他慢慢走向办公室，在观察Fitzgerald头部时被SCP-6579所杀。\n\n> **事故6579.1-4：**MTF Mu-15 (“九月”)第二单位进入走廊。该队队长，特工Ward在接近 Dr. Leroy时被SCP-6579所杀，其余队员也一一被害。\n\n事故6579.1-4发生后，ShyGuy.aic完成了自动威胁检测与风险控制，并制止人员进入Dr. Cambridge办公室的走廊。此后不久，ShyGuy.aic完成了收容协议生成算法，并建立了文件SCP-6579。\n\n所有遇害人员尸体均由武装无人机焚烧，并允许特工进入 Dr. Cambridge的办公室。\n\n> **事故6579.2-1：**MTF Mu-15第三单位进入办公室。几分钟的探索后，所有成员均为SCP-6579所杀。\n\n此次事故后，Dr. Cambridge的办公室再度封锁，ShyGuy.aic重新计算并修订了SCP-6579的现行收容措施。\n\n**附录6579.1：**由ShyGuy.aic操作，对Dr. Cambridge的办公室进行了无人机探索。数分钟后，无人机发现Dr. Cambridge的电脑在其遇害前不久处于录音状态。已确定记录所含内容不会激活SCP-6579。由ShyGuy.aic进行转录，并作进一步分析。\n\n[[collapsible show=\"+ 警告！以下文件包含致命信息危害。访问已阻止。\" hide=\"- 锁定覆盖已接受。\"]]\n\n> 这一年来我都在研究逆模因，可以教许多部门新成员关于它的知识。“逆模因”通常指使自身免受分享和记忆的一种信息；这与“模因”相反。“模因”则是一种自然传播的标准信息单位。当然，我们所处理的逆模因在本质上是一种异常，它们在理论上//无法//被记忆或传递。但同样也有一些非异常性质的逆模因，由于自身的机密性，从而阻止人们的分享。\n> \n> 我们拥有这两种异常与非异常的逆模因，它们的共同点是都会基于其所携带的信息被启动。考虑到这一基本定义，是否意味着还有别的方式启动逆模因？例如从//物理上//阻止人们记忆并分享信息？“逆模因”原不应被传统定义所囊括，因为信息//本身//实际上并未阻止人们的分享。\n> \n> 像这种逆模因，我不太确它是异常还是非异常，但我认为一定存在一个//异常//的版本。例如，SCP-096的脸便是一种逆模因：一旦看到，便不会记住太久，因为它无可避免会杀了你。其他东西也是这样，像会击中你的脑袋让你失忆的棒球棍，或是一把枪，在你思考或调查它时便会出现，并—— \n> \n> //[枪声]//\n\n[[/collapsible]]\n\n@@ @@\n\n[[include :scp-wiki-cn:component:license-box]]\n=====\n> **Filename:** https://scp-wiki.wdfiles.com/local--files/calibri-bold-s-mega-cool-author-page/cambridge%20office.jpg\n> **Name:** Home Office Work Space Computer\n> **Author:** JamesDeMers\n> **License:** CC0\n> **Source Link:** https://pixabay.com/photos/home-office-work-space-computer-54583/\n=====\n[[include :scp-wiki-cn:component:license-box-end]]",
+  "tags": [
+    "scp",
+    "信息危害",
+    "声音",
+    "尸体",
+    "未收容",
+    "武器",
+    "被废除",
+    "观察影响",
+    "视觉性",
+    "认知危害",
+    "逆模因"
+  ],
+  "author": "Hg-lab",
+  "created_at": "2021-11-14T03:01:33+00:00",
+  "updated_at": "2023-07-13T07:25:50+00:00",
+  "rating": 6,
+  "_site": "scp-wiki-cn",
+  "_fullname": "scp-6579"
+}

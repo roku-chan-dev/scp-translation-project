@@ -1,0 +1,15 @@
+{
+  "title": "일출의 견본",
+  "content": "[[include :scpko:theme:flopstyle-dark]]\n\n[[module CSS]]\n :root{\n   /* -- COLORS -- */\n     --accentColor: hsl(0, 89%, 41%);\n     --accentColorLite: hsla(0, 89%, 51%, .5);\n     --hue: 0deg;\n\n   /* -- LOGO -- */\n     --lgurl: url(https://scp-wiki.wdfiles.com/local--files/nightfall-hub/moon1.png);\n\n   /* -- TITLES -- */\n     --header-title: \"드리운 밤\";\n     --header-subtitle: \"어둠 속에서 빛이 제일 빛나다\";\n\n   /* -- STATIC COLORS -- */\n     --textColor: hsl(212, 3%, 75%);\n     --bgColor: hsl(220, 20%, 10%);\n}\n\n #extra-div-1{\n     filter: opacity(.2) saturate(1.25) brightness(1.25);\n}\n[[/module]]\n[[include info:start]]\n**일출의 견본**\n**저자:** [[*user flowerfirst]]          \n**원작:** https://scp-wiki.wikidot.com/swatches-of-a-sunrise\n**역자:** [[*user Aiken Drum]]\n[[include info:end]]\n[[div class=\"meta-title\"]]\n일출의 견본\n[[/div]]\n\n[[div class=\"pseudocrumbs\"]]\n[[[canon-hub|]]] >> [[[nightfall-hub|]]] >> 일출의 견본\n[[/div]]\n\n전 평생 해를 본 적이 없어요.\n\n손님들은 항상 제가 이 얘기를 하면 놀라요. \"그렇게 오래 지났나?\"라고 물어보죠.\n\n마을 사람들은 저에게 태양의 황금빛 광채에 대한 이야기를 해주곤 해요. 하늘에 떤 거대한 불길이 온세상을 너무나 밝게 비추어서 별이 보이지 않는다죠. 아침 하늘의 부드러운 주황빛, 분홍빛, 노랑빛이나 비바람이 지나간 뒤 보이는 선명한 무지개도 있죠. \n\n전 빠져들어버렸답니다. 모두가 이야기를 할 때마다 사로잡혔죠. 모든 이야기 하나하나가 색다르고 저번 이야기보다 엄청났죠. 전 항상 제가 그곳에 있어서 볼 수도 있고, 따뜻함을 느끼는 게 소원이었답니다. 그치만 엄마는 항상 해를 똑바로 쳐다 보면 안 된다고 했죠.\n\n그치만, 전 보는 게 소원이에요. 제가 상상할 뿐인 광경을 보고 싶어요. 하늘을  가득 채운 감탄 나오는 색깔 가운데 해가 떠있죠. 지금은 사라져버렸지만, 그 빛은 추억 속에 여전히 존재해요. 손님이 찾아오면, 전 추억에 대해, 그들의 이야기에 대해 물어봐요. 손님들은 너도밤나무의 잎이 반짝이는 녹색 창으로 변해 작은 요정처럼 즐겁게 시냇물을 타고 논다고 말해주죠.\n\n전 이런 이야기로 온 힘을 다해서 상상해보려고 해요. 이런 광경을 그리려면, 선명한 인상이 필요하죠. 흐릿한 거론 제대로 되지 않아요.\n\n전 캔버스에 둘러쌓여있어요. 몇 개는 깔끔하지만, 그보다 많이 망가져 있고, 모두 부드러운 분홍빛과 은은한 푸른빛으로 칠해져 있죠. 일출을 그리는 건, 아마도, 제 일생일대의 작품이에요. 전 모든 종류의 광경을 빛어낼 거에요, 물론, 어떤 면에서 햇빛을 봐야 그 광경을 무시할 수 있을까요? 하지만 일출은 그 중 최고가 될 거에요.\n\n유치한 꿈일지도 몰라요, 하지만 전 항상 제가 완벽한 일출 하나 그려낸다면, 어쩌면 어느날 제 창문을 통해 진실하고 천국과 같은 광경, 진정한 새벽이 옴과 함께 깨어날 수 있을지도 몰라요.\n\n그건 가장 경이로운 모습이 아닐까요?\n@@ @@\n@@ @@\n@@ @@\n@@ @@\n[[=image https://scp-wiki.wdfiles.com/local--files/swatches-of-a-sunrise/pic1room.png]]\n@@ @@\n@@ @@\n@@ @@\n@@ @@",
+  "tags": [
+    "en",
+    "드리운-밤",
+    "이야기"
+  ],
+  "author": "Aiken Drum",
+  "created_at": "2022-10-30T14:30:38+00:00",
+  "updated_at": "2023-06-02T05:14:16+00:00",
+  "rating": 6,
+  "_site": "scpko",
+  "_fullname": "swatches-of-a-sunrise"
+}

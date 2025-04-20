@@ -1,0 +1,26 @@
+{
+  "title": "SCP-3683",
+  "content": "[[include :scp-wiki:theme:classic]]\n[[>]]\n[[module Rate]]\n[[/>]]\n[[include component:image-block name=asinnocentasdoves.jpg|caption=SCP-3683 after fragmentation.]]\n**Item #:** SCP-3683\n\n**Object Class:** Keter\n\n**Special Containment Procedures:** The city of Syracuse, NY is currently quarantined under the cover story of an avian flu epidemic. Any SCP-3683 instances seen leaving the city are to be repeatedly killed on sight and the remains either taken for study or incinerated. \n\nMTF Gamma-119 (\"Air Superiority\") is operating as a pest control Foundation front company, and is tasked with maintaining anti-pigeon structures, enforcing proper trash disposal, and exterminating all birds within the city until SCP-3683 reaches a population small enough to contain completely.\n\nAt the Regional Director's discretion, anomalous technology and SCP objects may be used to cull SCP-3683's population. Under no circumstances are any sentient or anomalous avian entities to come within 100 km of Syracuse, NY.\n\nThe event of [[[SCP-514]]] or sentient avian species entering the quarantine zone is projected to lead to an SK-Class Dominance Shift Scenario within 5 years, and is to be avoided at all costs.\n\n**Description:** SCP-3683 is a hostile, anomalous subspecies of pigeon (//Columba livia anomalis//) currently infesting Syracuse, NY.\n\nSCP-3683 are large, omnivorous birds, with wingspans ranging from 1.5-7 m. SCP-3683 superficially resemble proportionally scaled common rock pigeons, but most instances have random feather patterns common to other birds. The birds also have rudimentary teeth lining their beaks and throats. \n\nSCP-3683 typically scavenges in trash like nonanomalous pigeons; however, older and larger instances are known to hunt and carry away small animals like other birds, rodents, cats, and small dogs.\n\nSCP-3683 instances burst into a small group of visually normal rock pigeons when killed or cornered. If allowed to escape, some of these pigeons will recombine to form a new SCP-3683 instance. Small pigeons need not originate from the same SCP-3683 instance to reconstitute; the new instance will possess a mixture of characteristics from all of the progenitors.\n\nSCP-3683 cannot reproduce with each other but are capable of reproducing with most other bird species, despite any expected biological or logistical barriers. Eggs produced this way hatch up to 6 times more rapidly than usual for the non-SCP-3683 bird species. The new hatchlings often exhibit traits, biological features, or instincts present in the foreign species.\n\nDue to SCP-3683's dispersal and recombination properties, these adaptations can spread very quickly through the population. For example, the first known mating with a hummingbird resulted in approximately 70% of SCP-3683 instances becoming capable of hovering and reverse flight within one month.\n\nIntel from MTF Gamma-119 indicates SCP-3683 instances have eliminated corvids from the city and have begun using complex tools.\n\n[[footnoteblock]]\n\n[[div class=\"footer-wikiwalk-nav\"]]\n[[=]]\n<< [[[SCP-3682]]] | SCP-3683 | [[[SCP-3684]]] >>\n[[/=]]\n[[/div]]\n\n[[include :scp-wiki:component:license-box]]\n=====\n> **Filename:** asinnocentasdoves.jpg\n> **Name:** Rock pigeon eating swarm\n> **Author:** Rootology\n> **License:** CC BY-SA 3.0\n> **Source Link:** [https://commons.wikimedia.org/wiki/File:Rock_pigeon_eating_swarm.jpg Wikimedia Commons]\n=====\n[[include :scp-wiki:component:license-box-end]]",
+  "tags": [
+    "_cc",
+    "_licensebox",
+    "adaptive",
+    "airborne",
+    "alive",
+    "animal",
+    "bird",
+    "hostile",
+    "k-class-scenario",
+    "keter",
+    "metamorphic",
+    "reproductive",
+    "scp",
+    "species"
+  ],
+  "author": "Weryllium",
+  "created_at": "2019-02-25T16:55:33+00:00",
+  "updated_at": "2023-12-04T04:54:54+00:00",
+  "rating": 140,
+  "_site": "scp-wiki",
+  "_fullname": "scp-3683"
+}

@@ -1,0 +1,14 @@
+{
+  "title": "中文维基百科主题: POV模板",
+  "content": "[[div class=\"churitsu\"]]\n**此条目[[[https://zh.wikipedia.org/wiki/Wikipedia:NPOV|中立性]]]有争议。内容、语调可能带有明显的个人观点或[[[https://zh.wikipedia.org/wiki/Wikipedia:避免地方中心|地方色彩]]]。**[[size 70%]]（{$date}）[[/size]]\n[[size 90%]]加上此模板的编辑者需在[# 讨论页]说明此文中立性有争议的原因，以便让各编辑者讨论和改善。在编辑之前请务必察看讨论页。[[/size]]\n[[/div]]\n\n[[module CSS]]\n.churitsu {\n    border: solid 1px #708090;\n    border-left: solid  10px #f18500;\n    width:80%;\n    margin: auto;\n    padding:0px;\n    padding-left:70px;\n    font-size:110%;\n    background: url( http://scp-wiki-cn.wikidot.com/local--files/component:wikipedia-theme-cn:pov/Emblem-scales.svg) left no-repeat;\n    background-size: 45px;\n    background-position-x: 11px\n}\n@media (max-width: 979px) {\n.churitsu {\n    border: solid 1px #708090;\n    border-left: solid  10px #f18500;\n    width:90%;\n    margin: auto;\n    padding:0px;\n    padding-left:70px;\n    font-size:110%;\n    background: url( http://scp-wiki-cn.wikidot.com/local--files/component:wikipedia-theme-cn:pov/Emblem-scales.svg) left no-repeat;\n    background-size: 45px;\n    background-position-x: 11px\n}\n/*\n图像来源: https://zh.wikipedia.org/wiki/File:Emblem-scales.svg (CC BY-SA 2.5） \nby Tkgd2007, Booyabazooka, The people from the Tango! project.\nhttps://creativecommons.org/licenses/by-sa/2.5/\n文字来源：https://zh.wikipedia.org/wiki/Template:POV （CC BY-SA 3.0）\nhttps://creativecommons.org/licenses/by-sa/3.0/\n/*\n[[/module]]",
+  "tags": [
+    "jp",
+    "组件"
+  ],
+  "author": "BenjaminChong",
+  "created_at": "2020-05-31T06:27:15+00:00",
+  "updated_at": "2024-09-30T09:25:44+00:00",
+  "rating": 2,
+  "_site": "scp-wiki-cn",
+  "_fullname": "component:wikipedia-theme-cn:pov"
+}

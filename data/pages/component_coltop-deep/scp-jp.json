@@ -1,0 +1,14 @@
+{
+  "title": "Coltop Deep",
+  "content": "[[div_ class=\"colmod-block\"]]\n[[ul]][[li class=\"[[#if {$folded} | folded | unfolded ]] [[#if {$ifprot} | colmod-collapsiblealt ]]\"]][[ul]]_[[/ul]][[div class=\"colmod-link-top\"]]\n[[div_ class=\"foldable-list-container\"]]\n[# {$show}][[#if {$nohide} |  | [# {$hide}] ]][[/div]][[/div]][[div class=\"colmod-content\"]]",
+  "tags": [
+    "jp",
+    "コンポーネント・バックエンド"
+  ],
+  "author": "C-take",
+  "created_at": "2018-08-27T15:39:16+00:00",
+  "updated_at": "2021-12-24T17:03:53+00:00",
+  "rating": 9,
+  "_site": "scp-jp",
+  "_fullname": "component:coltop-deep"
+}

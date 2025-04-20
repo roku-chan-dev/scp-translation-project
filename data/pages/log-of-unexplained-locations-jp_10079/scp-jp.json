@@ -1,0 +1,14 @@
+{
+  "title": "10079",
+  "content": "number: UE-200123-JP\ncontent: 内部で物体を手に取った人物が、現状に対する満足感を得るアパートの一室。満足感の強さは物体の大きさと形状によって変化し、満足感が最大になるのは20cm×20cm×1cmほどの直方体を手に取った時だと判明している。\ndate: 20██/03/25\narea: 東京都██区██1-12-5████202号室\nprotocol: 現在は財団が当部屋を買収し、エージェントを居住させて管理している。発見時に内部に確認された13冊の教科書・参考書自体には異常性が確認されなかったため、██研究員が保管している。\nredirect-b: '[[module Redirect destination=\"/log-of-unexplained-locations-jp'\nredirect-e: '\"]]'",
+  "tags": [
+    "jp",
+    "剪定対象-子"
+  ],
+  "author": null,
+  "created_at": "2021-02-18T12:17:49+00:00",
+  "updated_at": "2021-05-24T13:21:47+00:00",
+  "rating": 17,
+  "_site": "scp-jp",
+  "_fullname": "log-of-unexplained-locations-jp:10079"
+}

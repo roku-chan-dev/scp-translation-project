@@ -1,0 +1,14 @@
+{
+  "title": "SCP-308-KO-7",
+  "content": "[[module CSS]]\n\n#header, #side-bar, #footer, #license-area,\n#action-area-top, #page-title, #breadcrumbs,\n.ko-footer, .page-tags, #page-info-break,\n#page-options-container, #action-area {\n  display: none !important;\n}\n\n#container-wrap-wrap, div#container-wrap, #container {\n  background: none;\n  z-index: 100;\n  position: absolute;\n  top: 0;\n  left: 0;\n  width: 100%;\n  height: 100%;\n  overflow: hidden;\n}\n\n#main-content {\n  z-index: 200;\n  position: fixed;\n  top: 0;\n  left: 0;\n  margin: 0;\n  width: 100%;\n  height: 100%;\n  overflow: hidden;\n  box-sizing: border-box;\n}\n\n#container {\n  background-image: url('http://scpko.wikidot.com/local--files/fragment:scp-308-ko-7/sky');\n  background-size: cover;\n  background-position: bottom;\n  background-color: #47190f;\n}\n\n.atag, .atag:hover {\n  position: fixed;\n  top: 50px;\n  left: 0;\n  width: 100%;\n  height: calc( 100% - 100px );\n  display: flex;\n  text-align: center;\n  box-sizing: border-box;\n  text-decoration: none;\n  align-items: flex-end;\n  align-content: flex-end;\n  flex-wrap: wrap;\n  justify-content: center;\n}\n\n@media (max-width: 1024px) and (max-width: 20vh){\n  #container {\n    background-size: contain;\n    background-position: center;\n    background-repeat: no-repeat;\n  }\n  .atag, .atag span {\n    font-size: unset;\n  }\n}\n\n/*\n@media (min-width: 1921px) {\n  #container {\n    background-size: contain;\n    background-position: center;\n    background-repeat: no-repeat;\n  }\n} */\n\n.creditRate{\n  display: none\n}\n[[/module]]\n\n[[a href=\"http://scpko.wikidot.com/scp-308-ko\" class=\"atag\" style=\"padding: 4em; font-size: 110%; font-weight: 700;\"]]\n[[/a]]",
+  "tags": [
+    "ko",
+    "조각문서"
+  ],
+  "author": null,
+  "created_at": "2022-11-02T16:16:27+00:00",
+  "updated_at": "2022-11-04T13:10:44+00:00",
+  "rating": 0,
+  "_site": "scpko",
+  "_fullname": "fragment:scp-308-ko-7"
+}

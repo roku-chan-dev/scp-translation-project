@@ -1,0 +1,13 @@
+{
+  "title": "Peppo Log",
+  "content": "[[iftags +component]]\n+ Check Page Source for Code\n[[/iftags]]\n[[module CSS]]\n.borderstylz {\n    border: 1px solid #888;\n    padding: 0.3em 0.7em;\n    background-color: #EEE;\n}\n\n.cellstylz {\n    border: 1px solid #888;\n    padding: 0.7em;\n    text-align:center;\n}\n\n.cellstylz2 {\n    border: 1px solid #888;\n    padding: 0.7em;\n}\n[[/module]]\n[[table style=\"border-collapse:collapse; margin: 0px auto 30px auto;\"]]\n[[row]]\n[[hcell class=\"borderstylz\"]]\n**Test #**\n[[/hcell]]\n[[hcell class=\"borderstylz\"]]\n**Subject**\n[[/hcell]]\n[[hcell class=\"borderstylz\"]]\n**Age**\n[[/hcell]]\n[[hcell class=\"borderstylz\"]]\n**Sex**\n[[/hcell]]\n[[/row]]\n[[row]]\n[[cell class=\"cellstylz\"]]\n{$test}\n[[/cell]]\n[[cell class=\"cellstylz\"]]\n{$name}\n[[/cell]]\n[[cell class=\"cellstylz\"]]\n{$age}\n[[/cell]]\n[[cell class=\"cellstylz\"]]\n{$sex}\n[[/cell]]\n[[/row]]\n[[row]]\n[[hcell class=\"borderstylz\" colspan=\"4\"]]\nMethod\n[[/hcell]]\n[[/row]]\n[[row]]\n[[cell class=\"cellstylz2\" colspan=\"4\"]]\n{$method}\n[[/cell]]\n[[/row]]\n[[row]]\n[[hcell class=\"borderstylz\" colspan=\"4\"]]\nResults\n[[/hcell]]\n[[/row]]\n[[row]]\n[[cell class=\"cellstylz2\" colspan=\"4\"]]\n{$result}\n[[/cell]]\n[[/row]]\n[[/table]]",
+  "tags": [
+    "component"
+  ],
+  "author": "PeppersGhost",
+  "created_at": "2020-08-01T22:00:09+00:00",
+  "updated_at": "2021-03-24T05:11:36+00:00",
+  "rating": 2,
+  "_site": "scp-wiki",
+  "_fullname": "component:peppo-log"
+}

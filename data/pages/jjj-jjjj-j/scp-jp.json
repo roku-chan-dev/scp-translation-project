@@ -1,0 +1,20 @@
+{
+  "title": "JJJ-JJJJ-J",
+  "content": "[[include :scp-jp:theme:black-highlighter-theme]]\n[[include :scp-wiki:component:pride-highlighter |inc-bi-alt= --]]]\n\n\n[[module CSS]]\n:root {\n    --header-title: \"JJJ Joundation\";\n    --header-subtitle: \"Jecure, Jontain, Jrotect\";\n}\n\n.f-heading{\n  visibility: hidden;\n}\n\n.f-heading:after{\n  visibility: visible;\n  content: \"Jootnote 1.\";   \n  display: block;\n  position: absolute;\n  background-color: rgb(var(--hoverblock-header-bg));\n  color: rgb(var(--hoverblock-header-txt))\n  padding: 1px;\n  top: 1px;\n  width: max-content;\n  height: 1.5em;\n  margin: -0.75rem 0 0 -1rem;\n  padding: 0.125em 0.25em;\n}​\n[[/module]]\n\n[[include :scp-jp:info:start]]\n@@ @@\n**JJJ-JJJJ-J: \"実際ジョーク\" 叙述:** [[*user Doctor Fullham]]\n-----\n[[=]]\n+++ [https://scp-wiki.wikidot.com/doctor-fullham ♫ Joctor Jullhamの叙述事例 ♫]\n[[/=]]\n-----\n[[=]]\n**助言した人物:**\n[[*user Purplayoss]]\n[[*user Project Delta]]\n[[/=]]\n------\n[[collapsible show=\"+翻訳クレジットを開く\"hide=\"-閉じる\"]]\n**タイトル:** JJJ-JJJJ-J - 実際ジョーク\n**オリジナル:** [https://scp-wiki.wikidot.com/jjj-jjjj-j JJJ-JJJJ-J] - Jit's Ja Joke\n**原著者:** [[*user Doctor Fullham]]\n**翻訳者:** [[*user StellationNova]]\n**作成年:** 2023\n**翻訳年:** 2025\n**参照リビジョン:** rev.13\n[[/collapsible]]\n[[include :scp-wiki:component:ratio-bar pie=--]]\n[[include :scp-jp:info:end]]\n\n**従順さ:** Juncontainable\n\n**実際に従順にさせる順序:** JJJ-JJJJ-Jは従順じゃないのじゃ。\n\n**序:** JJJ-JJJJ-Jは、自身を述された情報に乗じる尋常じゃない情報ジャミングじゃ。JJJ-JJJJ-Jは情報の上部を\"J\"にし叙述させる常識外れな条理を持参しているのじゃ。\n\n次点の尋常じゃない事実は、地をジーンズの地に若干充填する事象じゃ。実態は自明じゃないのじゃ。\n\n**実例:** JJJ-JJJJ-Jは[[span class=\"ruby\"]]2022[[span class=\"rt\"]]じせんじじゅうじ[[/span]][[/span]]年度の[[span class=\"ruby\"]]締[[span class=\"rt\"]]じ[[/span]][[/span]]めの十八夜に実測されたのじゃ。治定を実施するジャクソン市に実存するジョン・ジョンソンとジャネール・ジョンソンの自宅に自警団が実見すると、自宅に実在する実体の地がジーンズの地に充填されていたのじゃ。実際、餌の重箱に「ジャターじゃないなんて受諾できないのじゃ！」と叙述された人造バターが実在したのじゃ。\n\n巡視した自警団は尋常じゃない実体を順次実測したのじゃが、実態の情報は自明じゃなかったのじゃ。ジョンソンの自宅は実弾で譲渡させ、住宅再生のため住居に十分じゃないという事実じゃない情報を樹立したのじゃ。\n\n**充足:** JJJ-JJJJ-Jの尋常じゃない情報ジャミングを受領しない辞が実測されたのじゃ。「GIF」じゃ。",
+  "tags": [
+    "en",
+    "esoteric-class",
+    "scp",
+    "ジョーク",
+    "ミーム",
+    "メタ",
+    "変容",
+    "情報災害"
+  ],
+  "author": "StellationNova",
+  "created_at": "2025-03-15T05:18:25+00:00",
+  "updated_at": "2025-03-15T05:18:42+00:00",
+  "rating": 29,
+  "_site": "scp-jp",
+  "_fullname": "jjj-jjjj-j"
+}

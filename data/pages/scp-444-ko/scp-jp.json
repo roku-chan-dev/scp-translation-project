@@ -1,0 +1,25 @@
+{
+  "title": "SCP-444-KO",
+  "content": "[[include :scp-jp:credit:start]]\n> **タイトル:** 無間地獄\n> **著者:** [[*user lanlanmag]]\n> **原題:** 무간지옥\n> **作成年:** 2015\n> **翻訳責任者:** [[*user Amplifier]]\n> **翻訳年:** 2024\n> **初訳時参照リビジョン:** 15\n> **改訳時参照リビジョン:** 25\n> **元記事リンク:** https://scpko.wikidot.com/scp-444-ko\n[[include :scp-jp:credit:end]]\n\n[[module ListPages  category=\"fragment\" parent=\".\" limit=\"1\" order=\"created_at\" offset=\"@URL|0\"]]\n%%content%%\n[[/module]]\n\n[!-- フラグメント文書\nhttp://scp-jp.wikidot.com/fragment:scp-444-ko-1\nhttp://scp-jp.wikidot.com/fragment:scp-444-ko-2\nhttp://scp-jp.wikidot.com/fragment:scp-444-ko-3\nhttp://scp-jp.wikidot.com/fragment:scp-444-ko-6\n--]",
+  "tags": [
+    "apollyon",
+    "ko",
+    "scp",
+    "インターナショナル",
+    "ミーム",
+    "人間型",
+    "強制力",
+    "情報災害",
+    "死体",
+    "注目記事",
+    "画像差し止め",
+    "精神影響",
+    "認識災害"
+  ],
+  "author": null,
+  "created_at": "2017-01-19T12:08:32+00:00",
+  "updated_at": "2024-11-03T11:13:52+00:00",
+  "rating": 149,
+  "_site": "scp-jp",
+  "_fullname": "scp-444-ko"
+}

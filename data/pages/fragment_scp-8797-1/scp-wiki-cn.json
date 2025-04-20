@@ -1,0 +1,13 @@
+{
+  "title": "Scp 8797 1",
+  "content": "[[include :scp-wiki:theme:black-highlighter-theme]]\n[[include :scp-wiki:theme:minimalist-bhl]]\n[[module CSS]]\n:root {\n     --header-title: \"非现实部\";\n     --header-subtitle: \"让非现实 ㅤㅤㅤㅤ\";\n     --lgurl: url('http://scp-wiki.wikidot.com/local--files/unreality-hub/Unreality%20Header%20Logo.svg');\n}\n[[/module]]\n\n**项目编号：**SCP-8797\n\n**项目等级：**无效化\n\n**特殊收容措施：**SCP-8797的唯一现存副本存放在Site-19的一个安保存储锁柜内。\n\n**描述：**SCP-8797是以下这一信件：\n\n> 亲爱的Mr/Ms Thorley [请随需删除]，\n>\n> 感谢您投递手稿《Alex Thorley的作品集》供我们考虑。很不幸，我们在本季度已收到了太多投稿，只有一小部分可供出版。您的投稿则不在其中。\n>  \n> 我们对您有意靠我们出版表示感谢，期待您未来的作品。\n>  \n> 您忠实的，\n>  \n> [出版公司]",
+  "tags": [
+    "段落"
+  ],
+  "author": "ashausesall",
+  "created_at": "2025-01-05T16:18:41+00:00",
+  "updated_at": "2025-01-05T18:39:13+00:00",
+  "rating": 0,
+  "_site": "scp-wiki-cn",
+  "_fullname": "fragment:scp-8797-1"
+}

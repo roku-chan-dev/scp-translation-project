@@ -1,0 +1,17 @@
+{
+  "title": "介绍 - 笔记：Charles Ogden Gears",
+  "content": "[[module css]]\n.page {\n    display: block;\n    overflow: hidden;\n    font-family: \"Monotype Corsiva\", \"Bradley Hand ITC\", sans-serif;\n    font-style: italic;\n\n    width: 46%;\n    background-attachment: scroll;\n    background-clip: border-box;\n    background-color: transparent;\n    background-image: linear-gradient(to top ,rgb(202, 219, 228) 0%, rgb(231, 233, 220) 8%);\n    background-origin: padding-box;\n    background-position: 0px 8px;\n    background-repeat: repeat;\n    background-size: 100% 20px;\n    height: 450px;\n\n    border: 1px solid #CCC;\n    border-radius: 10px;\n    padding: 10px 10px;\n    margin-bottom: 10px;\n\n    box-shadow: 0px 1px 3px rgba(0, 0, 0, 0.2)\n    }\n.page p {\n    line-height: 20px;\n    margin: 0;\n}\n.left {\n    float: left;\n}\n.right {\n    float: right;\n}\n[[/module]]\n\n[[div class=\"page left\"]]\n__**Charles Ogden Gears**__\n@@ @@\n__别名__: Gears博士， \"齿轮\"\n@@ @@\n__概述__: Charles Ogden Gears是一位聪明、勤勉和值得尊敬的基金会员工。一位耿直的男人，他因为像一个机器人一样缺乏情感表达而在同事间显得引人注目。与他工作的人很难完全找到原因，但是我认为这是因为过去的心灵创伤以及一个健全心智面对过往错误和行为的无能表现。\n@@ @@\n从我中来，这里丰富多彩。\n@@ @@\n仍然，我不能否认关于他有更多是我没有想到的。也许需要直接询问本人。\n[[/div]]\n\n[[div class=\"page right\"]]\n__威胁__: 根据我所搜集的，基金会对他设置了各种“标准”安保措施（含糊不清）。以我“Nobody”的身份，越过措施应该并不困难，但是我依然可能受伤甚至死亡，毕竟我如同任何人一样还是肉身。任何人一样。上帝啊，为什么在这种节点我依然会对此发笑？该死的。\n@@ @@\n我也几乎忘记了你的外貌。每当我试图集中精力去想，你的脸都会变成一坨烂泥。任何数据资料中都没有关于你的图片。为什么？你真的希望变得不为人知或者被遗忘？\n@@ @@\n至少我对他还有模糊的印象，所以我能够让自己再次去寻找他。我能感受到。因为，我将找出解决之道。\n[[/div]]\n\n[[div class=\"page left\"]]\n__地点__: 我最终确定了他的位置。最困难的是在于去往那里。难点不仅仅是位于那边，不过，这对于我已经是够困难的了。一旦我抵达，我将无法回头。我希望伴随我至此的好运能够继续陪着我。\n@@ @@\n这是，这是一种奇怪的感觉，我知道他就被我抓住了，我的目的已经快要实现了。一句话，我觉得我应该现在折返。当然，我不能。\n@@ @@  \n我不知道一旦我面对他我该做什么。我应该杀了他吗？或者跟他谈一谈？他将出现在任何地方，就好像我记忆中童年的父亲。但是他……我只知道有些跟他一样的人从不改变。我知道我要找到他。\n[[/div]]\n\n[[div class=\"page right\"]]\n我会找到他的。即使只是为了将一切理清楚。如果我不能将一切理清，至少我要找到他。那总有一些意义的，对吧？\n@@ @@\n我好奇他是否依然会下棋。\n@@ @@\n@@ @@\n@@ @@\n@@ @@\n@@ @@\n只有在我想停止的时候这才会停止。一旦落子将军。\n@@ @@\n@@ @@\n@@ @@\n@@ @@\n@@ @@\n@@ @@\n@@ @@\n对我来说太俗套了，我想。\n[[/div]] \n\n[[include component:earthworm\n  first=true | last=false | hub=no |\n  previous-url= | previous-title= |\n  next-url=http://www.scp-wiki.net/nobodys-duty-part-one | next-title=Nobody's Duty: Part One |\n  hub-url=/ | hub-title=All Stories Point Towards One Hub |\n]]",
+  "tags": [
+    "_nobody",
+    "gears博士",
+    "goi格式",
+    "nobody",
+    "黑皇后"
+  ],
+  "author": "ilovecforever",
+  "created_at": "2017-10-04T14:49:31+00:00",
+  "updated_at": "2022-02-15T02:34:14+00:00",
+  "rating": 2,
+  "_site": "scp-wiki-cn",
+  "_fullname": "charles-ogden-gears"
+}

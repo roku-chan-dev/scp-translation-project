@@ -1,0 +1,14 @@
+{
+  "title": "I'm Gonna Be Alright",
+  "content": "[[>]]\n[[module Rate]]\n[[/>]]\n\n[[module ListPages  category=\"fragment\" parent=\".\" limit=\"1\" order=\"created_at\" offset=\"@URL|0\"]]\n%%content%%\n[[/module]]\n\n[!-- https://scp-wiki.wikidot.com/fragment:AYO-0 --]\n[!-- https://scp-wiki.wikidot.com/fragment:AYO-1 --]\n[!-- https://scp-wiki.wikidot.com/fragment:AYO-2 --]\n[!-- https://scp-wiki.wikidot.com/fragment:AYO-3 --]\n[!-- https://scp-wiki.wikidot.com/fragment:AYO-4 --]\n[!-- https://scp-wiki.wikidot.com/fragment:AYO-5 --]\n[!-- https://scp-wiki.wikidot.com/fragment:AYO-6 --]\n[!-- https://scp-wiki.wikidot.com/fragment:AYO-7 --]\n[!-- https://scp-wiki.wikidot.com/fragment:AYO 8 --]\n[!-- https://scp-wiki.wikidot.com/fragment:AYO 9 --]",
+  "tags": [
+    "surrealism",
+    "tale"
+  ],
+  "author": "Symbal321",
+  "created_at": "2024-09-10T17:13:23+00:00",
+  "updated_at": "2025-03-03T14:25:29+00:00",
+  "rating": 2,
+  "_site": "scp-wiki",
+  "_fullname": "i-m-gonna-be-alright"
+}

@@ -1,0 +1,13 @@
+{
+  "title": "Uber主管的人事档案",
+  "content": "[[include :scp-wiki-cn:theme:penumbra]]\n[[module CSS]]\n@import url('https://fonts.googleapis.com/css2?family=Tapestry&display=swap\" rel=\"stylesheet');\n:root {\n  --header-subtitle: \"人事数据库\";\n  --accentColor: #CEA0FF;\n\n}\n[[/module]]\n\n\n+ 个人信息\n\n**姓名：**N█████ Uber\n\n**职位：**Site-99主管，该设施是基金会致力于太空探索的主要设施之一，并收容了许多Safe和Euclid级物品。\n\n**安保许可等级：**4\n\n**简介：**Uber主管是如何成为基金会的高级职员的尚不清楚，因为她几乎没有任何行政经验，并且被描述为“通常无用”和“[数据删除]般的痛苦”。尽管如此，Uber主管在基金会的运作中表现出了高水平的专业知识，因为——她浪费时间阅读了大量的SCP文章——[数据删除]。Uber取得了13个博士学位，其中12个是她自己编造的。\n\n请勿将Uber主管与Goober教授混淆，Goober教授是Site-99的一名无关人员。\n\n+ SCP文件\n||||~ SCP（按评分由高至低排列）||\n||[[[SCP-6846]]]||评分：25||\n||[[[SCP-700-J]]]||评分：21||\n||[[[SCP-8649]]]||评分：15||\n\n+ 其他文件\n||||~ 故事和其他（按评分由高至低排列）||\n||[[[a-simple-sheaf-of-papers|]]]||评分：17||\n||[[[ubergoober|]]]||评分：12||\n\n\n+ 艺术作品\n\n[[=]]\n+++ __[[[art:ubergoober-artwork | 艺作页]]]__\n[[/=]]\n\n+ 奖章\n\n[[include :scp-wiki-cn:component:sybadge code=awb]]\n[[include :scp-wiki-cn:component:sybadge code=scl]]\n[[include :scp-wiki-cn:component:sybadge code=tsf]]\n[[include :scp-wiki-cn:component:sybadge code=lgbt]]\n\n[[include :scp-wiki-cn:component:license-box\n|author=ubergoober\n|translator=AceAttackAssassin\n]]\n[[include :scp-wiki-cn:component:license-box-end]]",
+  "tags": [
+    "作者"
+  ],
+  "author": "AceAttackAssassin",
+  "created_at": "2024-08-09T02:46:37+00:00",
+  "updated_at": "2024-09-24T10:01:41+00:00",
+  "rating": 0,
+  "_site": "scp-wiki-cn",
+  "_fullname": "ubergoober"
+}

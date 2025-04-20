@@ -1,0 +1,19 @@
+{
+  "title": "SCP-4514",
+  "content": "[[module CSS]]\n@media (prefers-reduced-motion: no-preference) {\n  #page-content .collapsible-block-folded a.collapsible-block-link {\n    animation: blink 0.8s ease-in-out infinite alternate;\n  }\n  @keyframes blink {\n    0% { color: transparent; }\n    50%, 100% { color: #b01; }\n  }\n}\n[[/module]]\n\n[[include component:image-block name=http://scp-wiki.wikidot.com/local--files/scp-4514/Vintage_Switchblade.jpg | caption=SCP-4514]]\n\n**项目编号：** SCP-4514\n\n**项目等级：** Safe\n\n**特殊收容措施：** SCP-4514将被置于一标准安全容器中。SCP-4514仅能在O5议会批准下使用。 \n\n**描述：** SCP-4514为一把标准弹簧刀，其异常性质已知会在以下情形显现：\n\n* 致伤使人失去40%的血液\n* 致伤使大脑造成严重伤害\n* 致伤使心脏造成严重伤害\n* 致伤使人失去自主呼吸能力\n\n--为发现其他触发SCP-4514异常性质的方法，进一步调查正在进行。--\n\n被已激活异常特性的SCP-4514伤害的人员将会死亡。[[footnote]] 由神经活动停止导致。[[/footnote]] \n\n**发现：** 2130年5月14日，SCP-4514在两名醉汉的激烈冲突后被发现，其中一名醉汉被SCP-4514杀死。基金会因当地报纸发布的事件报道而得到警报，对该事件所有的目击者进行了记忆删除，同时故意散布虚假信息，对该新闻机构进行失信化处置。\n\n**实验日志：**\n\n> **实验编号：** 1\n> \n> **受试者：** D-3314，36岁白人女性，健康\n> \n> **实验过程：** 使用SCP-4514在受试者手臂上划出一道小切口（0.125cm 深，3cm 长）。\n> \n> **结果：** 受试者存活。\n\n> **实验编号：** 2\n> \n> **受试者：** D-3314, 36岁白人女性，健康\n> \n> **实验过程：** 给予受试者镇静剂，并用SCP-4514在其腿上割出一道大切口（1cm 深，10 cm 长）。之后伤口被缝合。\n> \n> **结果：** 受试者存活。\n\n> **实验编号：** 3\n> \n> **受试者：** D-8833，93岁亚裔男性，大脑功能被抑制\n> \n> **实验过程：** 给予受试者镇静剂，并用SCP-4514快速刺穿大脑。\n> \n> **结果：** 受试者死亡。\n\n> **实验编号：** 4\n> \n> **受试者：** D-11424，131岁白人女性，由于颈部手术并发症而患有肌肉痉挛和麻痹。 \n> \n> **实验过程：** 给予受试者镇静剂，并在其腹部割开一道大切口（1cm 深，10 cm 长)。如受试者在失血50%后依然存活，则缝合伤口，并将足量血液以虹吸方式转移回受试者体内。\n> \n> **结果：** 受试者在失血40%时死亡。\n\n<**为简洁隐藏多余测试**>\n\n> **实验编号：** 47\n> \n> **受试者：**研究员George Haus，132岁白人男性\n> \n> **实验过程：** SCP-4514的一小部分被熔化，融入一标准45口径子弹。给予受试者镇静剂，并用该子弹射击受试者头部。\n> \n> **结果：** 受试者死亡。\n \n> **实验编号：** 48\n> \n> **受试者：** 研究员Tanya Luvoi，89岁白人女性\n> \n> **实验过程：** 给予受试者镇静剂，并使用SCP-4514的手柄向受试者喉部施加压力，使其窒息。\n> \n> **结果：** 受试者死亡。\n\n> **实验编号：** 49\n> \n> **受试者：** Site主管Charles Panthe，149岁白人男性\n> \n> **实验过程：** 给予受试者镇静剂，并控制机械臂用SCP-4514将其刺穿。\n> \n> **结果：** 受试者死亡。\n\n[[collapsible show=\"注意：您有一条新消息\" hide=\"注意：您没有新消息\"]]\n\n= **基金会站间通信系统 v.3.155**\n\n= **===来自伦理道德委员会的消息===**\n\n> Young博士,\n> \n> 我们已经审阅过您的实验日志，认定它们是繁冗且无依据的。\n> \n> 然而，说实话，我们很早前就已注意到您对SCP-4514的不当测试。很少有研究会让D级人员排队等待实验。对职员的测试也仅在有必要时才能进行。\n> \n> 我们需要讨论下一步计划：规范化SCP-4514实验对象的选取，使其为公众所用，或是其他等等。\n> \n> 最后，如您所知，我们最终还是遵循了基金会的核心原则。世界迫使我们重新定义现状，但我们并无义务改变它。无论我们多么渴望永远的安息，常态宣告我们将永远不能达成它。\n> \n> 正式地，我们特此通知您被移除出SCP-4514项目。\n> \n> 私下里，我们明白。 [[[http://scp-wiki-cn.wikidot.com/end-of-death-hub | 生命就是个婊子。]]] [[footnote]] **译注：**原句为“Life is a bitch.”引申作“世事无常”，但此处作者应倾向于表达字面意思，因此未用引申义。按 [[*user OEOWO3O]] 及 [[*user Leo Wan]] 的建议，在译注中说明。 [[/footnote]]\n> \n> - Violet Mesmur博士，伦理道德委员会\n\n@@ @@\n\n[[include component:earthworm\n  first=true | last=false | hub=yes |\n  previous-url=/ | previous-title=/ |\n  next-url=/do-you-remember-funerals | next-title=你是否还记得葬礼？ |\n  hub-url=/end-of-death-hub | hub-title=死亡终结 |\n]]\n\n[[/collapsible]]\n\n[[footnoteblock]]\n\n[[div class=\"footer-wikiwalk-nav\"]]\n[[=]]\n<< [[[SCP-4513]]] | SCP-4514 | [[[SCP-4515]]] >>\n[[/=]]\n[[/div]]",
+  "tags": [
+    "d-11424",
+    "safe",
+    "scp",
+    "伦理委员会",
+    "武器",
+    "死亡终结",
+    "金属"
+  ],
+  "author": "Eurya",
+  "created_at": "2018-09-05T09:52:28+00:00",
+  "updated_at": "2022-04-21T16:32:09+00:00",
+  "rating": 15,
+  "_site": "scp-wiki-cn",
+  "_fullname": "scp-4514"
+}

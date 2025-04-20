@@ -1,0 +1,13 @@
+{
+  "title": "Shionmachi的艺作馆",
+  "content": "[[include :scp-wiki-cn:theme:wondertainment]]\n\n[[div id=\"myDiv\" style=\"background-color: orchid; text-color:white;\"]]\n[[size 1.5em]]Shionmachi Basic Info File[[/size]]\n[[/div]]\n[[div id=\"myDiv\" style=\"background-color: orchid; text-color:white;\"]]\n姓名：Shionmachi（不是真名）                  \n代号：SHION\n   Shionmachi跟普通的人类头骨差不多，头发是淡白色的。他的整个身体由动物或人类的骨骼回收后组成。他经常在白天打瞌睡，晚上很忙； 在设施的任何地方都可以看到他在吃东西或看袖珍书。 Shionmachi 吃饭时通常不会咀嚼食物，因此无法确定他是如何进食和消化食物的。[[/div]]\n   \n[[include component:image-block\n| name=http://scp-wiki.wikidot.com/local--files/art:shionmachi-s-art-gallary/Shion.png\n| caption=扮装\n| width=WIDTH-GOES-HERE\n| align=center]]\n\n \n>\n> \"你没见过会说话的骷髅？我还以为我们经历这事儿呢\"\n\n [[div id=\"myDiv\" style=\"background-color: orchid; text-color:white;\"]]\n你好，这里是Shionmachi的官方艺作馆。你能在这里找到我的作品、草图和WIPS。我主要画一些有关我的角色和我文章中的艺术。我也愿意做一些同人画。我不觉得自己是艺术大佬，但我喜欢把我的作品给大家分享。[[/div]]  \n------\n\n[[collapsible show=\"+ 最近的艺术\" hide=\"- 关闭\"]]\n还没东西\n[[/collapsible]]\n\n------\n\n[[tabview]]\n[[tab 艺作（原创角色）]]\n[[collapsible hideLocation=\"both\" show=\"+ 穿着平民服装的Xero\" hide=\"- 不看了\"]]\n[[image http://scp-wiki.wikidot.com/local--files/art:shionmachi-s-art-gallary/Xero_civilian.png]]\n[[/collapsible]]\n[[collapsible hideLocation=\"both\" show=\"+ Dr. Agate Stein\" hide=\"- 不看了\"]]\n[[image http://scp-wiki.wikidot.com/local--files/art:shionmachi-s-art-gallary/Agate_Stein.png]]\n[[/collapsible]]\n[[/tab]]\n[[tab WIP/没画完的画]]\n[[collapsible hideLocation=\"both\" show=\"+ 未完成的Agate\" hide=\"- 不看了\"]]\n[[image http://scp-wiki.wikidot.com/local--files/art:shionmachi-s-art-gallary/Unfinished.png]]\n[[/collapsible]]\n[[collapsible show=\"+ Agate测试设计\" hide=\"- 隐藏\"]]\n[[image http://scp-wiki.wikidot.com/local--files/art:shionmachi-s-art-gallary/beta.png]]\n[[/collapsible]]\n[[collapsible show=\"+ 未完成的Angel\" hide=\"- 隐藏\"]]\n[[image http://scp-wiki.wikidot.com/local--files/art:shionmachi-s-art-gallary/Draft.png]]\n[[/collapsible]]\n[[/tab]]\n[[tab 草图]]\n[[collapsible show=\"+ 马上就好\" hide=\"- 关闭\"]]\n还没东西\n[[/collapsible]][[/tab]]\n[[tab 传说美术]]\n[[collapsible show=\"+ 马上就好\" hide=\"- 关闭\"]]\n还没东西\n[[/collapsible]][[/tab]]\n[[/tabview]]",
+  "tags": [
+    "艺术家"
+  ],
+  "author": "Zhao Jx",
+  "created_at": "2023-03-07T14:05:21+00:00",
+  "updated_at": "2023-03-07T14:17:07+00:00",
+  "rating": 0,
+  "_site": "scp-wiki-cn",
+  "_fullname": "art:shionmachi-s-art-gallary"
+}

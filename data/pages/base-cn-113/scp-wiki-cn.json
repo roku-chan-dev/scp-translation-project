@@ -1,0 +1,14 @@
+{
+  "title": "Base-CN-113员工档案存储页面",
+  "content": "[[module CSS]]\n@import url(/component:ci-theme/code/1);\n[[/module]]\n\n@@@@\n@@@@\n\n//任何事物都有两面性，而我们是那混乱的一面。//\n\n@@@@\n@@@@\n\n**验证通过。**\n\n**欢迎，德尔塔级人员。请选择您需要查看的页面。**\n[[tabview]]\n[[tab 特工【数据损坏】的人事档案]]\n[[span style=\"color:red\"]]//警告：该文档已受到恶意篡改，其内容可能不属实，请谨慎阅读。//[[/span]]\n\n**人员编号：**【数据损坏】\n\n**代号：**【数据损坏】\n\n**性别：**男\n\n**年龄：**【数据损坏】\n\n**当前状态：**[[span style=\"color:red\"]]**叛逃**[[/span]]\n\n**人员等级：**--Gamma-- 无\n\n**职务：**--高级特工，对执行渗透、破坏、侦查、刺杀等任务有很多经验-- [[span style=\"color:red\"]]**通缉犯**[[/span]]\n\n**简介：**\n\n[[/tab]]\n[[tab 特工Elysion的人事档案]]\n\n[[/tab]]\n[[/tabview]]\n[[[jade-and-zac|……以及保护者们。]]]\n\n（施工中）",
+  "tags": [
+    "原创",
+    "补充材料"
+  ],
+  "author": "ZZZZZac",
+  "created_at": "2019-09-13T09:53:52+00:00",
+  "updated_at": "2021-03-28T16:47:52+00:00",
+  "rating": 1,
+  "_site": "scp-wiki-cn",
+  "_fullname": "base-cn-113"
+}

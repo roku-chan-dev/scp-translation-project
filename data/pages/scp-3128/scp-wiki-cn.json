@@ -1,0 +1,16 @@
+{
+  "title": "SCP-3128",
+  "content": "[[include :scp-wiki-cn:credit:start-standalone]]\n**SCP-3128：**来玩一场大富翁吧！\n**作者：**[[*user the great hippo]]\n**图像：**[https://commons.wikimedia.org/wiki/File:Toys_2007-150-656_(15406600117).jpg 链接]。\n\n**音乐：**[https://youtu.be/kdzIndWE3KU Monopoly 主题曲] (???)\n\n[[size 80%]]\n= **下一篇：[[[[SCP-3138]]]]：//海边的洞穴//**\n[[/size]]\n[[include :scp-wiki-cn:credit:more-standalone]]\n[[include :scp-wiki-cn:credit:end-standalone]]\n\n[[module CSS]]\n@import url(\"http://www.scp-wiki.net/component:scp-pride/code/1\")\n[[/module]]\n\n[[include component:image-block name= http://scp-wiki.wdfiles.com/local--files/scp-3128/monopolio2.jpg|caption=SCP-3128。]]\n\n**项目编号：**SCP-3128\n\n**项目等级：**Safe\n\n**特殊收容措施：**SCP-3128被保存在站点的安全保险箱。4级以上具有访问权限；在事件3128-073后，禁止测试。\n\n机动特遣队Iota-10(“该死的联邦探员”)与执法人员一起调查PoI-3128-1的踪迹。一旦发现目标，将她逮捕并拘留。\n\n**描述：**SCP-3128是一部几乎完整的大富翁[[footnote]]在美国和英国称作“地产大亨”。[[/footnote]]游戏集，于1973年在葡萄牙生产。当进行游戏时，它会对全球房地产市场产生异常的影响；游戏中的事件将同样会在现实中发生。在2007年次贷危机之后，研究人员通过进行游戏来操纵房地产市场的所有测试都被暂停。\n\n在事件3128-073之后，暂停所有测试以待审核。\n\n**附录3128.1：**事件日志\n\n[[collapsible show=\"► 访问SCP:/3128/incidents/007.log\" hide=\"▼ 关闭文件\"]]\n> = **事件记录**\n> ----\n> **日期：**09/21/2009\n> **参与人员：**D-3128-1 (ALPHA), D-3128-2 (BETA), D-3128-3 (GAMMA)\n> **项目：**SCP-3128\n> **笔记：**下面是一段测试中音频的摘录。\n> ----\n> **@@[@@**开始记录**@@]@@**\n> \n> **ALPHA：**到你的回合。\n> \n> **GAMMA：**我日。\n> \n> **ALPHA：**来啊，掷点啊。\n> \n> **GAMMA：**怎么都赢不了了。你都快要，呃，拿下六块地产了，老哥。\n> \n> **BETA：**就扔一下试试。\n> \n> **GAMMA：**好吧。我一直讨厌这傻逼——\n> \n> **@@[@@**//掷色子//**@@]@@**\n> \n> **BETA：**抽你的“机会”卡。\n> \n> **GAMMA：**好哒。\n> \n> **@@[@@**//沉默//**@@]@@**\n> \n> **ALPHA：**咋了？\n> \n> **@@[@@**//沉默//**@@]@@**\n> \n> **ALPHA：**这是啥？\n> \n> **GAMMA：**嗯……等我一下，我要——嗯……我要试试别的操作。\n> \n> **@@[@@**//洗牌//**@@]@@**\n> \n> **@@[@@**//敲门//**@@]@@**\n> \n> **BETA：**你到底抽到啥东西——\n> \n> **GAMMA：**嘿，伙计们？我，嗯……我用一下这个。\n> \n> **BETA：**——所以你在干啥？\n> \n> **@@[@@**//门开了//**@@]@@**\n> \n> **ALPHA：**这——\n> \n> **GAMMA：**拜拜啦，您呐。\n> \n> **BETA：**你怎么——你去哪——\n> \n> **@@[@@**//门关了//**@@]@@**\n> \n> **@@[@@**结束记录**@@]@@**\n> ----\n> **笔记：**D-3128-3被指定为PoI-3128-1。更新SCP-3128文档，记录下其中几处现在丢失的部分；这包括它其中一张“免费出狱”卡。\n[[/collapsible]]\n\n[[footnoteblock]]\n\n[[div class=\"footer-wikiwalk-nav\"]]\n[[=]]\n<< [[[SCP-3127]]] | SCP-3128 | [[[SCP-3129]]] >>\n[[/=]]\n[[/div]]",
+  "tags": [
+    "safe",
+    "scp",
+    "游戏",
+    "玩具"
+  ],
+  "author": "Andrew Boom",
+  "created_at": "2018-02-04T08:11:06+00:00",
+  "updated_at": "2020-10-05T13:02:40+00:00",
+  "rating": 14,
+  "_site": "scp-wiki-cn",
+  "_fullname": "scp-3128"
+}

@@ -1,0 +1,14 @@
+{
+  "title": "准入",
+  "content": "[[include :scp-wiki-cn:theme:monotypical]]\n\n[[module css]]\n:root {\n    --linkColor: #f9b000;\n    --linkColor-newpage: #ff9518;\n \n    --primaryBackgroundColor: #282A36;\n    --secondaryBackgroundColor: #2F3142;\n    --tertiaryBackgroundColor: #604a14;\n    --borderColor: #6272A4;\n \n    --shadow: rgba(96,213,248,0.3);\n \n    --selectionColor: #f9b000;\n    --textColor: #F8F8F2;\n    --textColor-alt: #6272A4;\n}\n::-webkit-scrollbar-track {\n    background: var(--secondaryBackgroundColor);\n}\n[[/module]]\n\n@@ @@\n\n[[=]]\n{{部分人类个体会成为SCP-3454的原因当前未知。不幸的是，确认一个个体是否为SCP-3454的唯一方法就是将其送入传送门径。}}\n\n@@ @@\n\n{{这经常惹恼蜜蜂们。}}\n\n@@ @@\n\n[[collapsible show=\"2024/05/20\" hide=\"你可不想看见高大又恼火的蜜蜂。\"]]\n[[=image https://scp-wiki.wikidot.com/local--files/art:admission/tallbees.png]]\n[[/collapsible]]\n[[/=]]\n\n@@ @@\n\n[[include :scp-wiki-cn:component:license-box\n| author = Poultryguest\n]]\n=====\n> **文件名：**tallbees.png\n> **图像作者：**[[*user Poultryguest]]\n> **授权协议：**CC BY-SA 3.0 - 作者特此在此协议下发布本图像。\n> **来源链接：**[https://scp-wiki.wikidot.com/art:admission SCP维基]\n\n------\n\n> **图像名：**廃屋 desertedhouse abandonedhouse abandoned shutter シャッター Liminalspace decay Urbandecay 田舎 住宅街 rural residentialarea countryside suburbs burbs rust サビ 錆 Toycamera トイカメラ フィルム film Lofi Japan 日本 ivvaDOTinfo ivva\n> **图像作者：**ivva，由[[*user Poultryguest]]编辑\n> **授权协议：**CC BY-SA 2.0\n> **来源链接：**[*https://www.flickr.com/photos/92842970@N00/52134210213 flickr]\n\n> **图像名：**Warning: Bees\n> **图像作者：**Michael Faist，由[[*user Poultryguest]]编辑\n> **授权协议：**公有领域标记1.0\n> **来源链接：**[*https://www.flickr.com/photos/115357548@N08/51832765626 flickr]\n=====\n[[include :scp-wiki-cn:component:license-box-end]]",
+  "tags": [
+    "2023重混竞赛",
+    "艺术作品"
+  ],
+  "author": "LeeBr",
+  "created_at": "2023-09-03T17:32:34+00:00",
+  "updated_at": "2023-09-03T17:32:51+00:00",
+  "rating": 6,
+  "_site": "scp-wiki-cn",
+  "_fullname": "art:admission"
+}

@@ -1,0 +1,19 @@
+{
+  "title": "SCP-4853",
+  "content": "[[include theme:black-highlighter-theme]]\n[[include info:start]]\n&**SCP-4853**\n**Author:** [[*user aismallard]] ([[[aismallard|Author Page]]])\n\nMy first boldpost.\n[[include info:end]]\n\n[[module CSS]]\nspan.reference {\n    vertical-align: super;\n}\n[[/module]]\n\n**Item #:** SCP-4853[[span class=\"reference\"]](1)[[/span]]\n\n**Object Class:** Keter[[span class=\"reference\"]](2)[[/span]]\n\n**Special Containment Procedures:** The only designation which may be applied to SCP-4853 is SCP-4853.[[footnote]]This prohibits phrases such as \"the anomaly\", \"the object\", \"it\", or colloquial terms like \"skip\".[[/footnote]] Other references to SCP-4853 may exist only in this document, and may not exceed ten instances. A numeric identifier for each active reference has been placed next to its first appearance.\n\nCivilians who express awareness of SCP-4853 are to be amnesticized. If needed, standard financial remediation is to be carried out.\n\n**Description:** SCP-4853 is a metaphysical concept[[span class=\"reference\"]](3)[[/span]] with a high degree of informational inertia.[[span class=\"reference\"]](4)[[/span]]\n\n**Addendum 4853-1:** Experiment Logs\n\n> __**Experiment 4853-1**__\n> \n> **Procedure:** D-41562 inquires about the nature of █████\n> **Result:** Information received, but became disassociated.\n\n> __**Experiment 4853-2**__\n> \n> **Procedure:** D-41562 inquires about the nature of █████\n> **Result:** Information received, but became disassociated.\n\n> __**Experiment 4853-3**__\n> \n> **Procedure:** D-41562 inquires about the nature of ███ ███████\n> **Result:** Information received, but became disassociated.\n\n> __**Experiment 4853-4**__\n> \n> **Procedure:** D-41562 associates information from previous tests.\n> **Result:** Reference created (#4).\n\n> __**Experiment 4853-5**__\n> \n> **Procedure:** Dr. Archibald classifies ███ ███████ as SCP-4853.\n> **Result:** Reference created (#1).\n\n> __**Experiment 4853-6**__\n> \n> **Procedure:** D-41562 inquires about containment strategy for SCP-4853.\n> **Result:** Reference created (lost), some information discarded.\n\n> __**Experiment 4853-7**__\n> \n> **Procedure:** D-41562 inquires about containment strategy for SCP-4853.\n> **Result:** Reference created (#2), some information discarded. \n\n> __**Experiment 4853-8**__\n> \n> **Procedure:** D-41562 collates information about SCP-4853.\n> **Result:** Information grouped into reference (#3).\n\n> __**Experiment 4853-9**__\n> \n> **Procedure:** D-41562 inquires about the distinctions between SCP-4853 and █████.\n> **Result:** Message received (see below). Containment procedures finalized.\n> **Note:** Extraneous references destroyed using amnestics.\n\n**Addendum 4853-2:** Received Message\n\n> Hello valued customer!\n> \n> You have used all of your █████ quota! We have automatically deducted $350,000,000 from your account and upgraded you to the next plan level, giving you **10 references**.\n> \n> Don't hesitate to contact our helpdesk with any questions regarding your subscription!\n\n[[footnoteblock]]\n\n[[include component:wikimodule |normal= --]]]\n\n[[div class=\"footer-wikiwalk-nav\"]]\n[[=]]\n<< [[[SCP-4852]]] | SCP-4853 | [[[SCP-4854]]] >>\n[[/=]]\n[[/div]]\n\n[[include :scp-wiki:component:license-box]]\n[[include :scp-wiki:component:license-box-end]]",
+  "tags": [
+    "_licensebox",
+    "concept",
+    "infohazard",
+    "keter",
+    "meta",
+    "reviewers-spotlight",
+    "scp"
+  ],
+  "author": "aismallard",
+  "created_at": "2019-07-10T19:38:50+00:00",
+  "updated_at": "2022-10-16T17:42:37+00:00",
+  "rating": 217,
+  "_site": "scp-wiki",
+  "_fullname": "scp-4853"
+}

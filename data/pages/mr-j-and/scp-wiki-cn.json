@@ -1,0 +1,13 @@
+{
+  "title": "物理伦理学家Mr.J.And的人事档案",
+  "content": "[[>]]\n[[module rate]]\n[[/>]]\n[[module ListPages category=\"fragment\" parent=\".\" limit=\"1\" order=\"name\" offset=\"@URL|0\"]]\n\n%%content%%\n\n[[/module]]\n\n[!--\n编辑本页面的内容可能会导致错误。若要编辑文本，请至以下链接。\nhttp://scp-wiki-cn.wikidot.com/fragment:mr-j-and-00\nhttp://scp-wiki-cn.wikidot.com/fragment:mr-j-and-01\n--]\n\n@@ @@\n@@ @@\n@@ @@\n@@ @@\n@@ @@\n\n----\n\n+++ 页面直达快车！\n\n\n[[tabview]]\n[[tab 简单版]]\n\n__瞎几把写的__：\n[[module ListPages created_by=\"Mr_J_AND\" separate=\"no\" limit=\"250\" perPage=\"250\" tags=\"-艺术作品\" order=\"title\"]]\n* %%title_linked%%\n[[/module]]\n\n__瞎几把画的__：\n[[module ListPages created_by=\"Mr_J_AND\" separate=\"no\" limit=\"250\" perPage=\"250\" tags=\"+艺术作品\" order=\"title\"]]\n* %%title_linked%%\n[[/module]]\n\n[[/tab]]\n[[tab 复杂版]]\n\n[[include component:author-page\n  order=title |\n  translation=yes |\n  background=yes |\n  image=no |\n]]\n\n[[/tab]]\n[[/tabview]]",
+  "tags": [
+    "作者"
+  ],
+  "author": "Mr_J_AND",
+  "created_at": "2021-04-03T14:11:44+00:00",
+  "updated_at": "2023-09-29T13:48:17+00:00",
+  "rating": 42,
+  "_site": "scp-wiki-cn",
+  "_fullname": "mr-j-and"
+}

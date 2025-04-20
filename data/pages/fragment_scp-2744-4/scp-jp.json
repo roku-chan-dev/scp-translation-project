@@ -1,0 +1,14 @@
+{
+  "title": "TATTLETALE-4",
+  "content": "[[include :scp-jp:theme:black-highlighter-theme]]\n[[module CSS]]\n#page-title {\n    display: none;\n}\n\ndiv.expoblock {\n    border: 0.5rem solid #1a1a1a;\n    padding: 1rem;\n}\n.expoblock hr {\n    height: 0.6rem;\n    margin: 1.5em 0;\n    background-color: black;\n}\n\n[[/module]]\n[[include :scp-wiki:component:blacklight-box-source |inc-source= --]]]\n[[include :scp-wiki:component:blacklight-box-source |inc-colors= --]\n|color-family=big-yikes\n|bg-color=rgb(252, 252, 252)\n|txt-color=rgb(5, 5, 5)\n|border-color=rgb(5, 5, 5)\n|label-bg-color=rgb(5, 5, 5)\n|label-txt-color=rgb(252, 252, 252)\n]]\n[[module CSS]]\n#page-title {\n    display: none;\n}\n\n.blbf-main > div::before {\n    top: -0.5rem;\n    left: -0.35em;\n}\n\n.blbf-main > div {\n    border: 0.50rem black solid;\n    margin-left: auto;\n}\n\n.blbf-main > div::before {\n    background-color: black;\n}\n\nspan.hilighter {\n    background-color: rgb(var(--black-monochrome));\n    color: white;\n    font-weight: bold;\n    padding: 0.2em;\n    font-size: 108%;\n    line-height: 1.2;\n}\n\na.collapsible-block-link {\n    color: transparent!important;\n    background-color: transparent!important;\n}\n\n[[/module]]\n[[=]]\n+ [http://scp-jp.wikidot.com/scp-2744 イマーシブモードにアクセス]\n[[/=]]\n[[div class=\"expoblock\"]]\n[[=]]\n[[span class=\"hilighter\"]]\n+ ようこそウィリアム・ミラー\n[[/span]]\n\n++ 当該アノマリーは現在あなたに危険を呈していません。以下を確認してください:\n[[/=]]\n[[/div]]\n@@ @@\n[[div class=\"expoblock\"]]\n++ 1. あなたは全ての近親者や知人に彼らへの愛を伝え、何らかのまたはあらゆる償いをしました。\n\n++ 2. 人的資源部門または法務部門の代表者は拘束力のある有効な遺言書を所有しています。指名される執行人は財団職員でなければなりません。\n\n++ 3. あなたはこの端末にこれ以上アクセスした場合、未知の敵対的な実体により即時終了されることを承諾しました。\n\n++ 4. あなたは終了が耐えがたいほどに苦痛なものであることを認識し、受け入れます。\n[[/div]]\n[[=]]\n[[div class=\"expoblock\"]]\n++ [[span class=\"hilighter\"]]確認のため再度ログインしてください。[[/span]]\n++ [[span class=\"hilighter\"]]**ログイン:**[[/span]] WMiller119\n++ [[span class=\"hilighter\"]]**パスワード:**[[/span]] @<*************>@\n+ [http://scp-jp.wikidot.com/scp-2744/offset/5 クリックしてログイン]\n[[/=]]\n[[/div]]",
+  "tags": [
+    "en",
+    "フラグメント"
+  ],
+  "author": "Tetsu1",
+  "created_at": "2025-02-26T12:43:53+00:00",
+  "updated_at": "2025-02-26T12:49:00+00:00",
+  "rating": 0,
+  "_site": "scp-jp",
+  "_fullname": "fragment:scp-2744-4"
+}

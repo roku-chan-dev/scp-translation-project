@@ -1,0 +1,13 @@
+{
+  "title": "lan_muda-翻译记录",
+  "content": "> \n> Three passions, \n> \n> simply but overwhelmingly strong, \n> \n> have governed my life: \n> \n> the longing for love, \n> \n> the search for knowledge, \n> \n> and unbearable pity for the suffering of mankind.\n> \n\n\n\n[[include component:author-page\n    order=created_at desc |\n    translation=yes |\n    background=yes |\n    sortbar=no |\n    ]]",
+  "tags": [
+    "作者"
+  ],
+  "author": "lan_muda",
+  "created_at": "2020-11-24T03:25:00+00:00",
+  "updated_at": "2023-12-06T16:13:20+00:00",
+  "rating": 11,
+  "_site": "scp-wiki-cn",
+  "_fullname": "lan-muda"
+}

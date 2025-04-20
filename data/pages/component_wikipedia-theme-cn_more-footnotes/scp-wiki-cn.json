@@ -1,0 +1,14 @@
+{
+  "title": "中文维基百科主题: More Footnotes模板",
+  "content": "[[div class=\"kenken\"]]\n[[size 110%]]此条目有列出参考来源，但因[[[https://zh.wikipedia.org/wiki/Help:脚注|文内引注]]]不足，部分字句的来源仍不明确。[[/size]]\n请通过加入合适的文内引注来[# 改善这篇条目]。[[size 81%]]（{$date}）[[/size]]\n[[/div]]\n\n[[module CSS]]\n.kenken {\n    border: solid 1px #708090;\n    border-left: solid  10px #f5c32e;\n    width:80%;\n    margin: auto;\n    padding:0px;\n    padding-left:63px;\n    background: url( http://scp-wiki-cn.wikidot.com/local--files/component:wikipedia-theme-cn:more-footnotes/Text_document_with_red_question_mark.svg) left no-repeat;\n    background-size: 40px;\n    background-position-x: 11px\n}\n@media (max-width: 979px) {\n.kenken {\n    border: solid 1px #708090;\n    border-left: solid  10px #f5c32e;\n    width:90%;\n    margin: auto;\n    padding:0px;\n    padding-left:63px;\n    background: url( http://scp-wiki-cn.wikidot.com/local--files/component:wikipedia-theme-cn:more-footnotes/Text_document_with_red_question_mark.svg) left no-repeat;\n    background-size: 40px;\n    background-position-x: 11px\n}\n/*\n图像来源：https://zh.wikipedia.org/wiki/File:Text_document_with_red_question_mark.svg （公有领域）\n文字来源：https://zh.wikipedia.org/wiki/Template:More_footnotes （CC BY-SA 3.0）\nhttps://creativecommons.org/licenses/by-sa/3.0/\n/*\n[[/module]]",
+  "tags": [
+    "jp",
+    "组件"
+  ],
+  "author": "BenjaminChong",
+  "created_at": "2020-05-31T07:23:59+00:00",
+  "updated_at": "2024-09-30T09:25:51+00:00",
+  "rating": 3,
+  "_site": "scp-wiki-cn",
+  "_fullname": "component:wikipedia-theme-cn:more-footnotes"
+}

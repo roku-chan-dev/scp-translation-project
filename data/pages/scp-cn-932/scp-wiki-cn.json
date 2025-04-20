@@ -1,0 +1,18 @@
+{
+  "title": "SCP-CN-932",
+  "content": "[[>]]\n[[module rate]]\n[[/>]]\n[[module ListPages category=\"fragment\" parent=\".\" limit=\"1\" order=\"name\" offset=\"@URL|0\"]]\n\n%%content%%\n[[/module]]\n\n[[footnoteblock]]\n\n[[=]]\n[[div class=\"footer-wikiwalk-nav\"]]\n<< [[[SCP-CN-931]]] | SCP-CN-932 | [[[SCP-CN-933]]] >>\n[[/div]]\n[[/=]]",
+  "tags": [
+    "euclid",
+    "scp",
+    "人形生物",
+    "原创",
+    "强迫性",
+    "精神影响"
+  ],
+  "author": "white paper",
+  "created_at": "2018-08-27T12:21:12+00:00",
+  "updated_at": "2018-09-20T17:58:47+00:00",
+  "rating": 25,
+  "_site": "scp-wiki-cn",
+  "_fullname": "scp-cn-932"
+}

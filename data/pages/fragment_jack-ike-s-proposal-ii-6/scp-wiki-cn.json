@@ -1,0 +1,13 @@
+{
+  "title": "Noir Box 的提案",
+  "content": "[[include :scpsandboxcn:component:cd-ver2\n|lv=0\n|item=SCP-001-D\n|class=已废除\n|site-responsible=N/A\n|director=N/A\n|research-head=N/A\n|assigned-task-force=N/A\n]]\n\n**特殊收容措施：**无。\n\n**描述：**SCP-001-D（曾被称为 SCP-001 (Δ)）据称曾是一个因果循环，导致 3 条相似但不同的时间线的反复循环创造。这些时间线在基金会成立之时，在如下 3 种不同境况下开始分叉：\n* 创立者在创建基金会时，演变成为一个异常。首届[[span class=\"ruby\"]]监察议会[[span class=\"rt\"]]Overseer Council[[/span]][[/span]][[footnote]]O5 议会的类似物。[[/footnote]]遵从创立者原本的愿望，将其收容为一个异常项目 SCP-001。\n* 一个具有时间异常能力的 MTF（Alp-0）向创立者提供了一个异常装置的原理图，并协助创立者建造该装置。该 MTF 据信来自某条时间线的终点。基金会被建立时的明确目标就是从首届[[span class=\"ruby\"]]监督者们[[span class=\"rt\"]]Overwatch[[/span]][[/span]][[footnote]]见上条注释。[[/footnote]]开始研究该装置。此后，创立者被认识到是异常的，并自愿将自己以一个异常项目 SCP-001 的身份进行收容。\n* 一个具有时间异常能力的军事小队——据信是 MTF Alp-0 或其的一个重现——暗杀了创立者。首届[[span class=\"ruby\"]]最高统帅[[span class=\"rt\"]]High Command[[/span]][[/span]][[footnote]]见上条注释。[[/footnote]]代替创立者完成了基金会的建立，并收容了创立者的异常尸体为一个 SCP-001。\n在各个情况下，均由基金会主数据库中的文件在各条时间线之间的留存现象发现了 SCP-001-D，据信这种留存现象是因异常对抗标准措施而生效的。值得注意的是，SCP-001-D 是在主数据库中发现多个已损坏的文件时被（当前的/仅存的）基金会所发现的。\n\n据报道，在[[span class=\"ruby\"]]监察议会[[span class=\"rt\"]]Overseer Council[[/span]][[/span]]、[[span class=\"ruby\"]]监督者们[[span class=\"rt\"]]Overwatch[[/span]][[/span]]与[[span class=\"ruby\"]]最高统帅[[span class=\"rt\"]]High Command[[/span]][[/span]]的通力合作下，SCP-001-D 已被废除。然而，留存的文件中恢复出的信息强烈表明，SCP-001-D 的废除导致产生了一条远不如其前驱适宜生存的时间线。这是因为 SCP 列表中的全部异常项目都被强行共存于这一条时间线，而在其先驱的 3 条时间线上，有比总数少 17 个的异常项目是不存在于所有时间线上的。\n\n收容失效泛滥、诸多关键站点和区域失守，以及目前即使受到“Bowe 与 Mulhausen 委员会”协助而依然出现资金不足的状况，都证明了任何一个单独的基金会在当前的境况下都不可能有效运转。此外，正在进行的 [[[http://scp-wiki-cn.wikidot.com/rat-s-nest-hub |ZK 级“鼠巢”场景]]]证明，任何一条时间线都不具备的支持大量属性冲突的异常项目共存的能力。\n\nSCP-001-D 已被标记为 Lif 计划的一个调查对象。当发生触发 Lifthrasir 协议[[footnote]]**译注：**Lif 和 Lifthrasir（古诺斯语拼写：Líf 和 Lífþrasir）是北欧神话中在“诸神黄昏”（Ragnarök）中幸存并重新繁衍出人类种族的一对人类男女。Lif 是女性，Lifthrasir 是男性。[[/footnote]]的事件时，须按照留存的文件中描述的细节来重现 SCP-001-D 被无效化时的情景，包括 SCP-14089、SCP-24601 与 SCP-55555，希望这样做会创造一条[[[http://scp-wiki-cn.wikidot.com/jack-ike-s-proposal-ii/offset/6|更加适宜生存的时间线]]]。",
+  "tags": [
+    "段落"
+  ],
+  "author": "LeafJensen",
+  "created_at": "2019-11-04T05:25:46+00:00",
+  "updated_at": "2019-11-04T05:33:05+00:00",
+  "rating": 0,
+  "_site": "scp-wiki-cn",
+  "_fullname": "fragment:jack-ike-s-proposal-ii-6"
+}

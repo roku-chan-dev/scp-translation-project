@@ -1,0 +1,16 @@
+{
+  "title": "SCP-003-SL",
+  "content": "[[>]]\n[[module Rate]]\n[[/>]]\n[[div class=\"scp-image-block block-right\" style=\"width:300px;\"]]\n[[image https://scp-jp.wdfiles.com/local--files/image-use-policy/sasidome.png style=\"width:300px;\" link=#]]\n[[div class=\"scp-image-caption\" style=\"width:300px;\"]]\nSCP-003-SL-2で子羊を攻撃しているライオン\n[[/div]]\n[[/div]]\n**アイテム番号:** SCP-003-SL\n\n**オブジェクトクラス:** Euclid\n\n**特別収容プロトコル:** SCP-003-SLの特性上、オブジェクトの収容は実質不可能です。そこで、5時間ごとに少なくとも一人の特殊部隊α-1の隊員が、SCP-003-SLから少なくとも500mの距離をとって飛行し、状態を確認する必要があります。\n\n**説明:** SCP-003-SLは、それぞれが同様の異常性を示す3つの雲の塊（SCP-003-SL1/2/3と呼称）の総称です。それぞれは、次のような異なる点が観測されています:\nSCP-003-SL-1は雲でできた実際の居住者が存在する、雲で作られた村です。\nSCP-003-SL-2はサバンナで、雲の中に生息している敵対的動物が存在します。\nSCP-003-SL-3は雲の工場で、時折雲のトラックになり、SCP-003-SL-1へ向かい、食料品や衣類を配達します。\n\n**補遺003-1:** SCP-003-SL-1の住民が、動物を狩って食料を調達する目的で、SCP-003-SL-2へ到達することに成功したことが明らかになりました。[補遺003-1に関するその他の情報は、D5によって規制されています]",
+  "tags": [
+    "euclid",
+    "scp",
+    "未認可支部",
+    "画像差し止め"
+  ],
+  "author": "Nataliya_Kuznechov",
+  "created_at": "2019-09-24T20:53:26+00:00",
+  "updated_at": "2023-11-09T10:37:25+00:00",
+  "rating": -9,
+  "_site": "scp-jp",
+  "_fullname": "scp-003-sl"
+}

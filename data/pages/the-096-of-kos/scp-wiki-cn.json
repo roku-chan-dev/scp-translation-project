@@ -1,0 +1,16 @@
+{
+  "title": "科斯的096",
+  "content": "[[include :scp-wiki:theme:dark-dealings]]\n[[module CSS]]\n:root {\n       --headerTitle: \"SCP学院\";\n       --headerSubtitle: \"异常之血\";\n}\n[[/module]]\n\n[[=image https://scpsandboxcn.wdfiles.com/local--files/dosieroj-de-la-kanro/096-as-Orphan-of-Kos.png]]\n\n[[div class=\"fancybox\"]]\n无处可逃，无处可藏。\n良善的研究员啊，你见到他的脸了。\n现在。准备后事吧。\n[[/div]]\n[[include :scp-wiki-cn:component:license-box\n|author=Dept\n]]\n=====\n> **文件名：**096-as-Orphan-of-Kos.png\n> **图像作者：**[[*user Dept]]\n> **授权协议：**CC-BY-SA 3.0\n=====\n[[include :scp-wiki-cn:component:license-box-end]]",
+  "tags": [
+    "2023重混竞赛",
+    "旧页面",
+    "羞涩的人",
+    "艺术作品"
+  ],
+  "author": "la kanro",
+  "created_at": "2023-08-25T12:34:26+00:00",
+  "updated_at": "2023-12-28T03:21:36+00:00",
+  "rating": 4,
+  "_site": "scp-wiki-cn",
+  "_fullname": "the-096-of-kos"
+}

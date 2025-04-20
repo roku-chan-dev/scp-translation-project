@@ -1,0 +1,13 @@
+{
+  "title": "SNS 링크",
+  "content": "[[image http://scpko.wdfiles.com/local--files/nav%3Aside-sns/icon-discord-50.png link=\"*http://scpko.wikidot.com/chat-guide\" class=\"sns-icon\"]] [[image http://scpko.wdfiles.com/local--files/nav%3Aside-sns/icon-twitter-50.png link=\"*http://twitter.com/scp_ko\" class=\"sns-icon\"]] [[image http://scpko.wdfiles.com/local--files/nav%3Aside-sns/icon-youtube-50.png link=\"*https://www.youtube.com/c/SCPKO\" class=\"sns-icon\"]] [[image http://scpko.wdfiles.com/local--files/nav%3Aside-sns/icon-naverblog-50.png link=\"*http://blog.naver.com/scpnews\" class=\"sns-icon\"]]\n\n[[module css]]\n.sns-icon {\n    width: 40px;\n    height: 40px;\n}\n[[/module]]",
+  "tags": [
+    "관리"
+  ],
+  "author": "Salamander724",
+  "created_at": "2015-04-02T01:50:42+00:00",
+  "updated_at": "2023-07-30T14:49:06+00:00",
+  "rating": 0,
+  "_site": "scpko",
+  "_fullname": "nav:side-sns"
+}

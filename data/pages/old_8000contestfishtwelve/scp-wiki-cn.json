@@ -1,0 +1,19 @@
+{
+  "title": "SCP-8000 — 怀恋小夜曲（旧）",
+  "content": "[[module css]]\n.alt-block-0 {\n display:none;\n}\n\n.alt-block {\n color: black;\n border: solid 1px #000000;\n background:#f2f2c2;\n padding:5px;\n margin-bottom: 10px;\n}\n[[/module]]\n\n[[div class=\"alt-block \"]]\n= 该页面有另一翻译版本可供阅览，[[[old:alt:8000contestfishtwelve|点此查看]]]。\n[[/div]]\n\n[[include :scp-wiki-cn:component:toggle-sidebar]]\n[[module css]]\n.vision{\ntext-shadow:0vw 1vw #f6f6f6;\n}\n[[/module]]\n\n[[include :scp-wiki-cn:component:toggle-sidebar]]\n[[module css]]\n.vision{\ntext-shadow:0vw 1vw #f6f6f6;\n}\n[[/module]]\n\n[[include :scp-wiki-cn:component:author-label-source start=--\n|name=Fish^12]]\n用两个小时写完了文章，做了这个动图。[[[me-join-military|作者页在此]]]！\n[[include :scp-wiki-cn:component:author-label-source end=--]]\n\n**项目编号：**SCP-8000\n\n**项目等级：**Ticonderoga\n\n**特殊收容措施：**SCP-8000处于[[span class=\"vision\"]]受控状态[[/span]]。SCP-8000是--正在--[[span class=\"vision\"]]被引导的[[/span]]。SCP-8000[[span class=\"vision\"]]薄如蝉翼[[/span]]。\n\n**描述：**SCP-8000是伴随着一只空角膜的一对蓝眼睛。是固定在有斑点的皮肤上的为揭露而作的穿孔，紧绷而富有弹性。以卷（或直）的捕捉光线的金棕发丝作框架。是于组织内[[span class=\"vision\"]]散发光晕[[/span]]的细粉末。\n\n**描述：**SCP-8000是被系在一个无限循环里的四间房间，红与蓝身处（一种）同步之中。尽管如此——实际上，//因为//如此，在万物于（并非）此处向前跳去时，腕部是最为著名和能够脉搏的事物。只是于目光之外，需要小心处理，伴随着系成更多房间的更多拼接物的[[span class=\"vision\"]]手套[[/span]]环形排列着。\n\n**描述：**SCP-8000是由粉蛋糕组成的迷宫。有成百上千的切片，而且内部都有一点西瓜。每只西瓜——怀疑的种子，所有数字的根，让潮流成了主干——独特。并且那是哈密瓜吗？那是完全不苦涩，甜的发腻的惊喜。八百七十亿片碎片，但[[span class=\"vision\"]]索求[[/span]]的价码很高昂。\n\n**描述：**SCP-8000是一个拱门上十个娇小玲珑的数字。三在拍打，四有价值，五是紧张忙乱的，六是三个二的反复。这里有一个被记错的玻璃罩，因为它是皮革做的，远没有那么优雅，但[[span class=\"vision\"]]魔力[[/span]]一点不减。一个人如何知道所有事情，如何踏上盘子，如何滚下楼梯井，如何在其毫无疑问是陷阱的情况下单脚旋转。\n\n**描述：**SCP-8000是鲸骨或象牙。支撑的柱子，可以这么说。那太多了，还是那是对立的，以致这行为是无法承受的？以及谁会为了房间中的白象所发声？或者，倘若它实际是粉色的话，它会//成为//什么叫声？\n\n[[div style=\"margin-top:150px;\"]]\n[[/div]]\n\n**描述：**进一步的研究[[span class=\"vision\"]]悬而未决[[/span]]。我想要知道更多。\n\n[[=]]\n[[image http://scpsandboxcn.wikidot.com/local--files/yu128000/dance.gif style=\"margin-top:500px;\"]]\n[[/=]]\n\n[[div style=\"margin:300px;\"]]\n[[/div]]\n[[include :scp-wiki-cn:component:license-box\n|author=Fish^12\n|translator=highlightingman\n]]\n=====\n> **文件名：**dance.gif\n> **图像名：**Man and woman dancing a waltz\n> **图像作者：**Muybridge, Eadweard, 1830-1904\n> **授权协议：**Public Domain\n> **来源链接：** https://commons.wikimedia.org/wiki/File:Man_and_woman_dancing_a_waltz_(rbm-QP301M8-1887-197).jpg\n=====\n[[include :scp-wiki-cn:component:license-box-end]]",
+  "tags": [
+    "8000",
+    "scp",
+    "旧页面",
+    "机密分级",
+    "概念",
+    "移情作用",
+    "超现实部"
+  ],
+  "author": "highlightingman",
+  "created_at": "2024-02-12T13:14:55+00:00",
+  "updated_at": "2024-02-25T08:50:03+00:00",
+  "rating": 0,
+  "_site": "scp-wiki-cn",
+  "_fullname": "old:8000contestfishtwelve"
+}

@@ -1,0 +1,21 @@
+{
+  "title": "SCP-CN-713",
+  "content": "[[>]]\n[[module Rate]]\n[[/>]]\n----\n[[table style=\"border: none; width: 100%;\"]]\n[[row]]\n[[cell]]\n[[size 125%]]**项目编号：**SCP-CN-713[[/size]]\n[[/cell]]\n[[cell style=\"text-align: right;\"]]\n[[size 125%]]**Level 1/713**[[/size]]\n[[/cell]]\n[[/row]]\n[[row]]\n[[cell]]\n[[size 125%]]**项目等级：**Safe[[/size]]\n[[/cell]]\n[[cell style=\"text-align: right;\"]]\n[[size 125%]]**机密**[[/size]]\n[[/cell]]\n[[/row]]\n[[/table]]\n----\n[[<]]\n++ **特殊收容措施：**\n[[include component:image-block name=http://scp-wiki-cn.wdfiles.com/local--files/scp-cn-713/keyboard |caption=当前收容SCP-CN-713的设备]]\nSCP-CN-713群落应连同当前SCP-CN-713-1与一名D级人员被收容至Site-CN-19的标准人形收容间中，定时于特外站点十号进行空间异常的联合研究。并要求该D级人员与每日8:00 am——2:00 pm间使用连接到一台不能联网的基金会标配电脑进行文字输入。工作内容包括但不限于世界名著、时事新闻、杂志刊物等，其内容需要在5个工作日前被一名三级人员审阅通过以及进行相关删改。\n\n++ **描述：**\n[[include component:image-block name=http://scp-wiki-cn.wdfiles.com/local--files/scp-cn-713/fish |caption=一条SCP-CN-713个体]]\n\nSCP-CN-713为一水生生物群落，其个体形态一般情况下与金鱼相似，体长1-2cm。 \nSCP-CN-713的异常性质主要体现在，当SCP-CN-713被放置于正确放置的“键盘”上时，该键盘将会编号为SCP-CN-713-1。在SCP-CN-713-1下会生成一个深约20cm的异常拓扑空间供SCP-CN-713进行活动，键盘与SCP-CN-713接触的面对于使用者仍是键盘的使用面，对于SCP-CN-713来说不具有阻碍作用。\n可能会成为SCP-CN-713-1的“键盘”包括但不限于[[footnote]]“键盘”在此处指：\n* 1.用于操作设备运行的一种指令和数据输入装置，也指经过系统安排操作一台机器或设备的一组功能键。\n* 2.组成键盘乐器的一部分，也可以指使用键盘的乐器。\n[[/footnote]]：\n* 钢琴琴键\n* 电脑、打字机键盘\n“键盘类艺术品”及没有实体的“键盘”[[footnote]]例如投影键盘[[/footnote]]无法成为SCP-CN-713-1。\n倾倒SCP-CN-713-1可以得到其内容物。对其的成分监测结果为生理盐水[[footnote]]指生理学实验或临床上常用的渗透压与动物或人体血浆的渗透压基本相等的氯化钠溶液，浓度为0.85~0.9%[[/footnote]]。\n在SCP-CN-713个体离开SCP-CN-713-1后该空间异常消失。\n\nSCP-CN-713通常会表现为鱼类的外观。但不同的SCP-CN-713本体与不同性格的使用者会对SCP-CN-713个体形态及心理健康产生影响，原理未知。\n\nSCP-CN-713的生理活动能量来源为使用者使用SCP-CN-713-1时的能量，每20只SCP-CN-713一日的需求量至少为4800个英文字符。\n测试表明，使用者的性格及使用SCP-CN-713-1时的工作状态会影响该特殊能量的产量。在产能供给持续低于某一平均值时，SCP-CN-713会通过某种方式让使用者短暂提高工作热情及工作效率。\n多数工作人员在使用SCP-CN-713-1进行工作时会明显的提高工作热情。但在某些情况下因为与SCP-CN-713互动却会降低工作效率。\n\n相关测试表明。SCP-CN-713有着与5-6岁孩童相仿的的智力，并且可以通过使用SCP-CN-713-1来表达自己的思想和情感。\n\n**附录SCP-CN-713-A：**\n> 这鱼儿表达开心的方式是用尾巴扑打水花！ :)\n> 哦天哪，它摸起来滑溜溜的，小家伙真好看。:)\n[[/<]]\n\n\n[[footnoteblock]]\n@@@@\n[[div class=\"footer-wikiwalk-nav\"]]\n[[=]]\n<< [[[SCP-CN-712]]] | SCP-CN-713 | [[[SCP-CN-714]]] >>\n[[/=]]\n[[/div]]",
+  "tags": [
+    "safe",
+    "scp",
+    "site-cn-19",
+    "动物",
+    "原创",
+    "形态改变",
+    "水生",
+    "移情作用",
+    "精神影响"
+  ],
+  "author": "pokm",
+  "created_at": "2018-10-23T18:31:32+00:00",
+  "updated_at": "2019-05-10T17:20:57+00:00",
+  "rating": 72,
+  "_site": "scp-wiki-cn",
+  "_fullname": "scp-cn-713"
+}

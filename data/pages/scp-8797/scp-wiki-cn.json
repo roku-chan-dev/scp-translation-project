@@ -1,0 +1,17 @@
+{
+  "title": "SCP-8797",
+  "content": "[[module ListPages  category=\"fragment\" parent=\".\" limit=\"1\" order=\"created_at\" offset=\"@URL|0\"]]\n%%content%%\n[[/module]]\n\n[!-- https://scp-wiki-cn.wikidot.com/fragment:scp-8797-0 --]\n[!-- https://scp-wiki-cn.wikidot.com/fragment:scp-8797-1 --]",
+  "tags": [
+    "alex-thorley",
+    "scp",
+    "媒体",
+    "无效化",
+    "非现实部"
+  ],
+  "author": "ashausesall",
+  "created_at": "2025-01-05T16:12:37+00:00",
+  "updated_at": "2025-01-05T16:26:09+00:00",
+  "rating": -2,
+  "_site": "scp-wiki-cn",
+  "_fullname": "scp-8797"
+}

@@ -1,0 +1,27 @@
+{
+  "title": "SCP-7070",
+  "content": "[[module CSS]]\n\n#page-content .license-box .collapsible-block {\n    display: unset;\n    text-align: unset;\n    padding: unset;\n    background-color: unset;\n    border-top: unset;\n    border-bottom: unset;\n}\n\n#page-content .license-box .collapsible-block .collapsible-block-content {\n    text-align: unset;\n}\n[[/module]]\n\n[[=]]\n[[module Rate]]\n[[/=]]\n\n[[module ListPages  category=\"fragment\" parent=\".\" limit=\"1\" order=\"created_at\" offset=\"@URL|0\"]]\n%%content%%\n[[/module]]\n\n[!-- https://scp-wiki.wikidot.com/fragment:scp-7070-1 --]\n[!-- https://scp-wiki.wikidot.com/fragment:scp-7070-2 --]\n[!-- https://scp-wiki.wikidot.com/fragment:scp-7070-3 --]\n\n\n[[include :scp-wiki:component:license-box]]\n=====\n> **Filename:** Moon\n> **Author:** [[*user syuzhet]]\n> **License:** CC-BY-SA 3.0\n\n> **Filename:** Moon\n> **Author:** [[*user syuzhet]]\n> **License:** CC-BY-SA 3.0\n\n> **Filename:** Server\n> **Name:** CERN Server 03.jpg\n> **Author:** Florian Hirzinger\n> **License:** CC-BY-SA 3.0\n> **Source Link:** https://commons.wikimedia.org/wiki/File:CERN_Server_03.jpg\n\n> **Filename:** hogslice3\n> **Author:** [[*user Dysadron]]\n> **License:** CC-BY-SA 3.0\n> **Derivative of:** \"SCP-6599\" by PlaguePJP and J Dune, from the SCP Wiki. \n> **Source Link:** https://scp-wiki.wikidot.com/scp-6599\n[[include :scp-wiki:component:license-box-end]]",
+  "tags": [
+    "7000",
+    "_cc",
+    "_licensebox",
+    "_listpages",
+    "co-authored",
+    "computer",
+    "doctor-light",
+    "esoteric-class",
+    "extraterrestrial",
+    "foundation-made",
+    "k-class-scenario",
+    "scp",
+    "the-administrator",
+    "toxic",
+    "transfiguration"
+  ],
+  "author": "Dysadron",
+  "created_at": "2022-07-30T01:15:04+00:00",
+  "updated_at": "2023-10-22T12:08:10+00:00",
+  "rating": 247,
+  "_site": "scp-wiki",
+  "_fullname": "scp-7070"
+}

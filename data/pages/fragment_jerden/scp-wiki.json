@@ -1,0 +1,13 @@
+{
+  "title": "List Pages without Genre Tags",
+  "content": "[[module ListPages category=\"_default\" order=\"created_at\" tags=\"{$tags} -site -supplement -artwork -artist -essay -resource -absurdism -action -adventure -bittersweet -bleak -breakout -comedy -black-comedy -chase -crime-fiction -fantasy -heartwarming -horror -body-horror -cosmic-horror -psychological-horror -metafiction -military-fiction -mystery  -romance -science-fiction -slice-of-life -spy-fiction -surrealism -xenofiction -artificial-intelligence -bureaucracy -ghost -historical -legal -lgbtq -murder-monster -mythological -political -religious-fiction -superhero -afterlife -alternate-history -apocalyptic -post-apocalyptic -christmas -corporate -dystopian -halloween -otherworldly -period-piece -school -space-opera -western -utopian -correspondence -first-person -foundation-format -journal -no-dialogue -second-person -worldbuilding -_genreless\" perPage=\"200\" separate=\"false\"]]\n# [[[*%%link%%| %%title%%]]]\n[[/module]]",
+  "tags": [
+    "fragment"
+  ],
+  "author": "Jerden",
+  "created_at": "2024-10-19T07:45:58+00:00",
+  "updated_at": "2024-10-29T18:25:36+00:00",
+  "rating": 0,
+  "_site": "scp-wiki",
+  "_fullname": "fragment:jerden"
+}

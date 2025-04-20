@@ -1,0 +1,13 @@
+{
+  "title": "It Always Ends The Same 17",
+  "content": "[[include :scp-wiki:theme:black-highlighter-theme]]\n[[include :scp-wiki:theme:extra-black-highlighter-theme]]\n\n[[module CSS]]\n#page-title{display:none}\n\n :root{\n     --link-color: 221, 17, 17;\n     --visited-link-color: 221, 17, 17;\n     --hover-link-color: 221, 102, 17;\n}\n[[/module]]\n\n\nYou try to speak but no words come out your mouth. There are no words left to say. There's a silence like you've never heard before.\n\nIt's broken by a whimpering. A soft, aching cry. At first you think it's coming from the television, and it is, but you soon realise it's coming from you too. Thick, ugly teardrops start to fall down both your face and hers. \n\nYou walk to the television, turn it off, eject the tape.\n\nThere's no point. It's a trap with no escape. \n\nThere are some people who just can't be saved. Whose disappearance and doom mean so very little to the world they inhabit. Who slowly and softly disintegrate, falling to pieces as they float in the spaces between other things.\n\nYou sit in silence, staring at the blackness of the television screen. You occasionally gleam the warped image of something helpless staring back at you. \n\n[[=]]\n[[collapsible show=\"Continue?\" hide=\"Why bother? It always ends the same.\"]]\n[[/collapsible]]\n[[/=]]\n@@@@\n@@@@\n@@@@\n@@@@\n@@@@\n@@@@\n@@@@\n@@@@\n@@@@\n@@@@\n@@@@\n@@@@\n@@@@\n@@@@\n@@@@\n@@@@\n@@@@\n@@@@\n@@@@\n@@@@\n@@@@\n@@@@\n@@@@\n@@@@\n@@@@\n@@@@\n@@@@\n@@@@\n@@@@\n@@@@\n@@@@",
+  "tags": [
+    "fragment"
+  ],
+  "author": "Dysadron",
+  "created_at": "2023-04-03T21:02:59+00:00",
+  "updated_at": "2023-04-03T22:23:21+00:00",
+  "rating": 0,
+  "_site": "scp-wiki",
+  "_fullname": "fragment:it-always-ends-the-same-17"
+}

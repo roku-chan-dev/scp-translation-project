@@ -1,0 +1,13 @@
+{
+  "title": "SCP-6664 3",
+  "content": "[[include :scp-wiki-cn:theme:black-highlighter-theme]]\n\n[[module CSS]]\n\n:root {\n    --logo-image: url(\"http://scp-wiki.wdfiles.com/local--files/grigori-karpin-s-author-page/ProjectHecaWhiteSmall\");\n    --header-title: \"Site-91\";\n    --header-subtitle: \"异种生物研究\";\n}\n\n/* Adjust Mobile Image Size */\n@media (max-width: 479px) {\n#header {\n    background-size: 100px 100px;\n    background-position: 1em;\n}\n}\n\n[[/module]]\n\n[[include :scp-wiki:component:bhl-dark-sidebar]]\n\n[[include :scp-wiki:component:toggle-sidebar-bhl]]\n\n[[include :scp-wiki:component:acs-animation]]\n\n[[div class=\"blockquote\"]]\n//对原文档的改动以##blue|蓝色##突出显示。//\n\n[[/div]]\n\n[[include :scp-wiki-cn:component:anomaly-class-bar-source\n\n    |lang=cn\n\n    |item-number= 6664\n\n    |clearance= 1\n\n    |container-class= safe\n\n    |secondary-class= none\n\n    |disruption-class= vlam\n\n    |risk-class= 需谨慎\n\n    ]]\n\n-----\n\n[[include component:image-block name=http://scp-wiki.wikidot.com/local--files/fragment:scp-6664-3/treeIV.png|align=center|width=100%|caption=收容前的SCP-6664。]]\n\n-----\n\n**特殊收容措施：**SCP-6664应被收容于##blue|Site-91##生物收容区的温室中。 为防止对SCP-6664的枝叶造成损坏，应禁止攀爬之。\n\n**描述：**SCP-6664为一目前位于##blue|Site-91##的##blue|黑刺李（//Prunus spinosa//）##，俗称##blue|李树##。除其异常性质外，其与同树种树木无异。\n\n当##blue|人类被SCP-6664的棘刺刺中##时，SCP-6664将表现出其异常性质。且当##blue|人类被SCP-6664的棘刺刺中##时，其并不会如预期般##blue|感到不适或疼痛##，##blue|该人将感受到强烈的欣快感以及严重的幻听。这些幻觉##称为SCP-6664-1。\n\nSCP-6664-1##blue|为受SCP-6664影响的对象所出现的幻听现象##。##SCP-6664-1由声音组成，通常为与对象存在密切关系的人员声音，该声音会赞扬对象决定被刺中一事。无论该对象是否愿意被刺中，该情况都将发生。##\n\n-----\n\n[[=]]\n+ **附录6664.1：发现记录**\n[[/=]]\n\nSCP-6664被发现于2014年1月18日，一个##blue|当地销售员Martin Kos表述自己意外地被SCP-6664刺伤并受到其影响。Kos将该事故陈述给他的治疗师。该治疗师为一名潜伏的基金会探员，他记下了Kos的描述##，并上报其可能为一种异常。随后SCP-6664被移至##blue|Site-91##中。\n\n[[div class=\"blockquote\"]]\n//该文件已被Site-43职员标记为错误信息。下为更正版本。//\n\n//——Blank博士//\n\n**附件：**[[[http://scp-wiki-cn.wikidot.com/scp-6664/offset/4| SCP-6664-更正文档.pdf]]]\n\n[[/div]]",
+  "tags": [
+    "段落"
+  ],
+  "author": "EvkesraRe",
+  "created_at": "2022-02-11T14:28:42+00:00",
+  "updated_at": "2022-02-11T14:35:54+00:00",
+  "rating": 0,
+  "_site": "scp-wiki-cn",
+  "_fullname": "fragment:scp-6664-3"
+}

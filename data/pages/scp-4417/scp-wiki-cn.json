@@ -1,0 +1,20 @@
+{
+  "title": "SCP-4417",
+  "content": "[[module css]]\n\n#header {\n    background-image: url(http://www.scp-wiki.net/local--files/scp-3176/temporal_dept_logo.png);\n}\n\n#header h2 span {\n    display: block;\n    margin: 0;\n    padding: 19px 0;\n    line-height: 0px;\n    max-height: 0px;\n    font-weight: bold;\n    color: transparent;\n    text-shadow: none;\n}\n\n#header h2 span::before {\n    content: '时间异常部';\n    color: #f0f0c0;\n    text-shadow: 1px 1px 1px #000;\n    text-shadow: 1px 1px 1px rgba(0,0,0,.8);\n}\n\n[[/module]]\n\n\n\n[[include component:image-block name=http://scp-wiki.wdfiles.com/local--files/SCP-4417/SCP-4417.png|caption=Site-54（异常研究A-54-B区），SCP-4417目前所在地]]\n\n[[module ListPages category=\"fragment\" created_by=\"lan_muda\" parent=\".\" order=\"random\" limit=\"1\" ]]\n\n%%content%%\n\n[[/module]]\n\n[[footnoteblock]]\n[[div class=\"footer-wikiwalk-nav\"]]\n[[=]]\n<< [[[SCP-4416]]] | SCP-4417 | [[[SCP-4418]]] >>\n[[/=]]\n[[/div]]",
+  "tags": [
+    "k级情景",
+    "meta",
+    "scp",
+    "thaumiel",
+    "人造物品",
+    "基金会制",
+    "循环",
+    "时间影响"
+  ],
+  "author": "lan_muda",
+  "created_at": "2020-11-27T06:04:29+00:00",
+  "updated_at": "2020-11-27T08:35:46+00:00",
+  "rating": 3,
+  "_site": "scp-wiki-cn",
+  "_fullname": "scp-4417"
+}

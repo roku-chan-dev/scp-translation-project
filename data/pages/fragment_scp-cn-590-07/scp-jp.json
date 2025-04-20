@@ -1,0 +1,14 @@
+{
+  "title": "",
+  "content": "[[module css]]\n#page-title {\n  display: none;\n}\n[[/module]]\n[[=]]\n**[[size xx-large]]セキュリティクリアランス確認[[/size]]**\n[[=image http://scp-wiki.wdfiles.com/local--files/dr-mackenzie-s-sketchbook/SCP-Logo-2400.png | width=\"300px\" height=\"300px\" ...]]\n[[div class=\"unmargined\" style=\"font-size: 400%; font-weight: bold; margin: 2px 0 5px;\"]]\n認証情報が正しくありません\n[[/div]]\n@@@@\n[[div class=\"unmargined\" style=\"font-size: 200%; font-weight: bold; margin: 2px 0 5px;\"]]\n[[[scp-cn-590|再アクセス]]]\n[[/div]]\n@@@@\n[[div style=\"text-align: center;\"]]\n[[div class=\"unmargined\"]]\n**許可なく他人のアカウントを使用することは固く禁止されています**\n**違反者は免職もしくは終了されます**\n[[/div]]\n[[/div]]\n@@@@\n@@@@\n[[div style=\"text-align: center;\"]]\n[[div class=\"unmargined\" style=\"font-size: 300%; font-weight: bold; margin: 2px 0 5px;color:black\"]]\n注意\n[[/div]]\n[[/div]]\n[[div style=\" float: center;margin: auto;text-align: middle; width: 60%; padding: 2px 5px 2px 2px; color: white; background-color: black; border-radius: 8px;\"]]\nあなたのアクセス情報は\n記録・情報セキュリティ管理室（RAISA）へアップロードされます\n[[/div]]\n[[/=]]",
+  "tags": [
+    "cn",
+    "フラグメント"
+  ],
+  "author": "BenjaminChong",
+  "created_at": "2019-05-26T06:38:00+00:00",
+  "updated_at": "2021-01-11T04:06:42+00:00",
+  "rating": 3,
+  "_site": "scp-jp",
+  "_fullname": "fragment:scp-cn-590-07"
+}

@@ -1,0 +1,14 @@
+{
+  "title": "국가초상방재원 작성정보",
+  "content": "[[table style=\"border-collapse:collapse; width:175px; font-size:13px; float:left;\"]]\n[[row]][[cell style=\"border: 1px solid grey; background:#fff; text-align:center;\"]]\n{$position}\n[[/cell]][[/row]]\n[[row]][[cell style=\"border: 1px solid grey; background:#fff; text-align:center;\"]]\n{$grade} 　 {$name}\n[[/cell]][[/row]]\n[[row]][[cell style=\"border: none; text-align:center;\"]]\nP-████ (███-████)\n[[/cell]][[/row]]\n[[/table]]",
+  "tags": [
+    "ko",
+    "구성요소"
+  ],
+  "author": "thd-glasses",
+  "created_at": "2024-01-12T13:11:50+00:00",
+  "updated_at": "2024-01-12T13:11:57+00:00",
+  "rating": 0,
+  "_site": "scpko",
+  "_fullname": "component:npes-info"
+}

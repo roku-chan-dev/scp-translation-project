@@ -1,0 +1,24 @@
+{
+  "title": "SCP-622-KO",
+  "content": "[[include :scpko:theme:black-highlighter-theme]]\n[[include :scpko:component:bhl-dark-sidebar]]\n[[include :scpko:component:rso]]\n[[include :scpko:component:acs-animation]]\n\n[[>]]\n[[include :topia:sp-rate-info-2 start= --]|bhl=true]]\n**SCP-622-KO:** 나무 위 키 by [[[pseudoworld-simulation|2misi]]], [[[bluemark|BlueMarK]]]\n[[include :topia:sp-rate-info-3 size=150]]\n[[include :topia:sp-rate-info-2 end= --]]]\n[[/>]]\n\n-----\n\n[[include :scpko:component:anomaly-class-bar-source\n|item-number= 622-KO\n|clearance= 1\n|container-class= 안전\n|secondary-class= N/A\n|disruption-class= 암흑\n|risk-class= 주목\n]]\n\n-----\n\n[[table style=\"width: 100%;\"]]\n[[row]]\n[[cell style=\"border-bottom: 1px solid #AAA; border-right: 1px solid #AAA; text-align: center; width: 25%;\"]]\n[[size 90%]]**담당 기지**[[/size]]\n[[/cell]]\n[[cell style=\"border-bottom: 1px solid #AAA; text-align: center; width: 25%;\"]]\n[[size 90%]]**기지 이사관**[[/size]]\n[[/cell]]\n[[/row]]\n[[row]]\n[[cell style=\"border-right: 1px solid #AAA; text-align: center; width: 25%;\"]]\n[[size 80%]][[[secure-facility-dossier-site-21k|KRSE██ Site-21K]]][[/size]]\n[[/cell]]\n[[cell style=\"text-align: center; width: 25%;\"]]\n[[size 80%]]이강수[[/size]]\n[[/cell]]\n[[/row]]\n[[/table]]\n\n-----\n\n**특수 격리 절차:** SCP-622-KO는 제21K기지의 저위험군 격리실에 격리되어 있다. SCP-622-KO는 더 이상의 추가적인 관리가 요구되지 않으며, 그 어떠한 인원도 개체에게 직접적인 접촉을 해서는 안 된다.\n\n**설명:** SCP-622-KO는 키위 나무과의 대형 수목으로, 최소 기원전부터 존재했다는 것이 밝혀졌다. 외형은 일반적인 나무와 유사하지만, 원래 이파리가 있어야 할 자리에는 섭씨 ███도의 불꽃이 있다. 이처럼 높은 온도에도 불구하고, SCP-622-KO의 줄기를 비롯한 그 주변의 어떤 것들도 해당 불꽃에 의해 발화되지 않는다. SCP-622-KO의 꼭대기에는 재질 불명의 열쇠가 부양 상태로 위치하고 있는데, 해당 열쇠와 접촉한 대상은 그 머리가 연소되기 시작하며 몇 초 후에는 연소되고 있는 머리가 폭파한다. 폭파된 잔해는 SCP-622-KO의 불꽃과 유사한 성질을 띄게 된다.\n\n만약 인간이나 그에 준하는 지성을 지닌 유기체가 SCP-622-KO의 불꽃에 접촉하면, 순간적으로 방대한 양의 비변칙, 변칙적인 지식과 현실조작, 기적술 등의 변칙성을 지니게 된다. 그러나, 그와 동시에 대상은 SCP-622-KO의 이파리에서 옮겨붙은 불꽃에 의해 전신이 불타기 시작하며, 몇 시간 후에는 불꽃에 의해 완전히 소멸된다. 대상에 붙은 불꽃은 다른 유기체나 연소가 가능한 물질에게 번지지 못한다. 대상은 이러한 과정에서 그 어떠한 고통도 느끼지 않는 것으로 알려졌다.\n\n[[collapsible show=\"+ 접근 fileserve.ko:E:/622ko/files/rltdSCP622ko.log\" hide=\"- 닫기\"]]\n[[div style=\"display: block ; border : solid 1px #444444 ; background :#F5F5F5 ; margin-left : auto ; margin-right : auto ; width : auto ; padding:10px\"]]\n\n[[=]]\n++ SCP-622-KO 문건\n[[/=]]\n\n다음은 과거 재단이 한반도 내의 부서진 신의 교회와 유사함을 보이는 GoI-004K, 수신도의 분파 중 하나인 \"세라믹파\"를 추적하던 중 회수된 문건으로, SCP-622-KO를 언급하는 것으로 보인다. 해당 문건의 \"고목\"은 SCP-622-KO를 지칭하는 듯하며, \"스승\"이나 해당 문건의 화자의 정체에 대해서는 불명이다.\n \n-----\n \n \n내 [[[https://scpko.wikidot.com/spark-of-wonder|아버지이자 스승]]]의 집을 떠날 때, 스승께서는 나를 멈추어 세우셨으랴. 그리고 말하셨다.\n \n\"메카네, 너가 떠나기 전에 보여줄 게 있단다.\"\n \n그리고 스승께서는 자신의 [[[https://scpko.wikidot.com/scp-1612|메주콩]]] 밭을 건너, 더 먼 곳으로 나를 데려가셨다. 그곳에는 고철과 화염의 경이로 이루어진 아름다운 수목이 자리를 차지하고 있었으랴.\n \n내가 스승께 여쭈었다. \"이것이 무엇입니까?\"\n \n그러자 스승께서는 고목을 지긋이 바라보시며 말씀하셨다. \"내 [[[https://scpko.wikidot.com/system:page-tags/tag/%ED%8C%A1%EA%B8%80%EB%A1%9C%EC%8A%A4#pages|스승]]]의 나무란다.\"\n \n\"네 스승의 스승이지, 태초의 불꽃인 팡글로스께서는 경이를 만드셨는데 지쳤으랴. 대신 세상을 방랑하는 방랑자가 되며 시를 쓰고 싶었단다. 그래서 이 나무에 자신의 경이와 힘, 대부분을 담아놓고는 떠나셨다.\"\n \n스승께서는 계속해서 말씀하셨다. \"팡글로스께서 이 시들어가는 고목을 품으셨고, 고목의 잃어버린 잎과 생명은 고철과 화염의 경이가 되어 화려하게 빛나게 되었단다. 그리고 나의 스승께서는 그렇게 떠나시기 전에 언젠가 때가 되면, 비로소 나무 위의 열쇠에 닿아 이 나무의 모든 경이와 힘을 담을 사람이 온다, 그는 단순히 기계와 불꽃의 경이에서 멈춘 우리의 경이보단, 더 놀랍고 방대한 범위의 경이를 다룰 수 있다고 하셨으랴. 마치 저 메주콩과 같이 말이다. 메주콩은 약하지만, 이 고목은 더욱 강대하리라. 그 강대한 힘을 억제시키기 위해, 팡글로스께서는 열쇠를 만드셨단다.\"\n \n나는 깊은 의문에 빠져들어서 여쭈었다. \"그럼 이것을 저에게 보여주신 이유가 무엇입니까?\"\n \n\"앞으로 너도 위대하고 뛰어난 스승이 될 것이다. 그때가 되면 더욱 위대한 형태의 혼백을 지닌 제자들을 거느리게 될 것이다. 어쩌면 그들 중 팡글로스께서 말씀하신 자가 있을지도 모르지.\"\n \n\"이제 늙은 [[[https://scpko.wikidot.com/dr-wondertainment-hub|경이제작자]]]의 집은 떠나거라. 나는 이제 늙었다. 어쩌면 살날이 얼마 남지 않았을지도 모른다. 팡글로스의 말씀을 듣는다고, 세계의 혼백들을 볼 수 있어 경이를 만든다고 영생을 가지는 것은 아니란다.\"\n \n나는 고개를 끄덕였다.\n \n스승께서도 미소 지으셨다.\n \n나는 스승께 마지막 인사를 하고 떠났다. 스승께서는 그런 내가 시야에서 사라질 때까지 계속해서 지켜봐 주셨고, 팡글로스께서는 항상 우리 모두를 지켜보고 계셨으랴.\n\n-----\n[[=]]\n++ 끝\n[[/=]]\n\n[[/div]]\n[[/collapsible]]\n\n[[collapsible show=\"+ 접근 fileserve.ko:E:/622ko/files/findSCP622ko.log\" hide=\"- 닫기\"]]\n[[div style=\"display: block ; border : solid 1px #444444 ; background :#F5F5F5 ; margin-left : auto ; margin-right : auto ; width : auto ; padding:10px\"]]\n\n[[=]]\n++ SCP-622-KO 조사 기록\n[[/=]]\n\n첫 발견 당시, SCP-622-KO의 줄기에 적혀 있었던 메시지이다.\n \n-----\n \n\n//가르침 없는 만남은 그저 그윽한 흥취만 남을 거야. 하지만 따를 사람은 그 뜻을 알고 다가갈까?//\n \n//-팡글로스//\n\n-----\n\n[[=]]\n++ 끝\n[[/=]]\n\n[[/div]]\n[[/collapsible]]",
+  "tags": [
+    "ko",
+    "scp",
+    "공저",
+    "나무",
+    "도구",
+    "부서진-신",
+    "불",
+    "수신도",
+    "식물",
+    "안전",
+    "원더테인먼트-박사",
+    "팡글로스"
+  ],
+  "author": "SHARK_BYTES",
+  "created_at": "2020-06-17T13:13:25+00:00",
+  "updated_at": "2025-04-04T01:55:27+00:00",
+  "rating": 14,
+  "_site": "scpko",
+  "_fullname": "scp-622-ko"
+}

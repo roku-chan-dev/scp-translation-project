@@ -1,0 +1,26 @@
+{
+  "title": "SCP-3593",
+  "content": "[[include :scp-wiki:theme:classic]]\n[[>]]\n[[module Rate]]\n[[/>]]\n[[include component:image-block\n    name=EuropeanShag.jpg|\n    caption=SCP-3593\n]]\n**Item #:** SCP-3593\n\n**Object Class:** Euclid\n\n**Special Containment Procedures:** Reports of missing dogs in coastal cities in England are to be triangulated and investigated for possible undiscovered SCP-3593 instances. If any are discovered, they are to be contained using [[[one-trick-ponies|Foundation-trained dogs]]] as bait.\n\n**Description:** SCP-3593 is a large green cormorant (a seabird; //Phalacrocorax aristotelis//) inhabiting various towns on the shores of England.\n\nSCP-3593 has a wingspan of ~2 m (about twice the size of nonanomalous green cormorants) and preys on domesticated dogs. In cloudy weather, SCP-3593 attempts to lure stray and pet dogs into secluded areas of the shore using shrill calls. SCP-3593 produces holographic images by fluttering its wing feathers, which have cognitohazardous effects on some of the dogs (while only causing mild dizziness in humans). Dogs affected by the cognitohazard display increased excitability and the capability to swim for greatly extended periods.\n\nAt this point, SCP-3593 will fly away from shore, leading the affected dogs to swim after it. No dogs, living, dead or otherwise have been recovered thus far.\n\n**Addendum:** After narrowing down the usual hunting grounds of SCP-3593, several Foundation testing dogs were equipped with miniaturized cameras, tracking devices, sensors, and assorted devices and allowed to be lured by SCP-3593.\n\nK-9119, an Old English sheepdog, was affected and followed SCP-3593. K-9119 returned safely to shore approximately six hours after leaving, unharmed but exhausted, and was provided standard treats upon retrieval of its camera. \n\nK-9119's camera showed it swimming westward after SCP-3593 for about three hours before SCP-3593 hovered in place, and made a loud squawking sound. A luminescent portal began to open near SCP-3593 and K-9119 as the former continued to vocalize. Through the portal, the camera briefly glimpsed a brightly lit river lined with trees. \n\nThe camera showed SCP-3593 continuing to widen the portal until the process was interrupted by the consumption of SCP-3593 by a large passing shark. K-9119 then swam back to shore.\n\nSCP-3593 is tentatively reclassified as Neutralized.\n\n[[footnoteblock]]\n\n[[div class=\"footer-wikiwalk-nav\"]]\n[[=]]\n<< [[[SCP-3592]]] | SCP-3593 | [[[SCP-3594]]] >>\n[[/=]]\n[[/div]]\n\n[[include :scp-wiki:component:license-box]]\n=====\n> **Filename:** EuropeanShag.jpg\n> **Author:** Andrew Easton\n> **License:** Public Domain\n> **Source Link:** [https://commons.m.wikimedia.org/wiki/File:EuropeanShag.jpg Wikimedia Commons]\n=====\n[[include :scp-wiki:component:license-box-end]]",
+  "tags": [
+    "_cc",
+    "_licensebox",
+    "_shaggy-dog",
+    "animal",
+    "bird",
+    "canine",
+    "cognitohazard",
+    "euclid",
+    "jam-con2019",
+    "neutralized",
+    "portal",
+    "predatory",
+    "scp",
+    "visual"
+  ],
+  "author": "Weryllium",
+  "created_at": "2019-03-10T07:02:21+00:00",
+  "updated_at": "2023-10-01T13:45:08+00:00",
+  "rating": 119,
+  "_site": "scp-wiki",
+  "_fullname": "scp-3593"
+}

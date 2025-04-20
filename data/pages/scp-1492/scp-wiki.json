@@ -1,0 +1,18 @@
+{
+  "title": "SCP-1492",
+  "content": "[[>]]\n[[module Rate]]\n[[/>]]\n\n[[include component:image-block name=https://scp-wiki.wikidot.com/local--files/scp-1492/20221222_144351.jpg|caption=SCP-1492]]\n\n\n**Item #:** SCP-1492\n\n**Object Class:** Safe\n\n**Special Containment Procedures:** SCP-1492 is currently impounded in the Site-47 [[[reach-s-blueprint-folder|Anomalous Vehicle Containment Bay]]] with tires and battery removed. Personnel are reminded not to bring precious minerals or stones within fifty meters of the vehicle at any time.\n\nItems expropriated by SCP-1492 may be retrieved at the conclusion of testing hours under the supervision of the project director.\n\n**Description:** SCP-1492 is a civilian-model armored car which has been modified for use in anomalous larceny. The passenger's seat has been replaced with an experimental target acquisition and teleportation device that Foundation technicians have thus far failed to replicate. When activated, the device identifies nearby objects of value out to a range of roughly forty meters and transports them into the rear cargo compartment regardless of intervening materials or subject mass.\n\nSCP-1492 appears to take material, sentimental, and artistic worth into account, targeting everything from paper currency and jewelry to, in several cases, coins and gold fillings. Observation of the teleportation process has proven difficult as the matter relocation machinery will not operate unless the rear door is closed, and all cameras installed in SCP-1492 have been teleported some distance away once the object begins its operation. It is hypothesized that photographic equipment possesses too low a value for SCP-1492 to keep and is ejected to save cargo space. Experiments with human observers in the cargo area have been postponed due to the dangers posed by objects spontaneously materializing in a confined space.\n\nWhile the teleportation effect leaves no physical traces, affected items are inevitably replaced with a promissory note, ironic in tone, ostensibly redeemable for various life experiences and philosophical concepts. This tendency towards metaphysics is visible in the attached documentation and appears to be exacerbated by the theft of high-value goods.\n\n\n[[collapsible show=\"Textual Samples Obtained Prior to Recovery\" hide=\"Close Log\"]]\n\n||~ Item Stolen ||~ Note Recovered ||\n|| $837 in mixed bills || IOU a steak, properly cooked.||\n|| Silver belt-buckle || IOU one evening without an argument.|| \n|| Keys to high-rise condominium || IOU domesticity.||\n|| 200 wedding rings, various styles || IOU the chance to say 'Yes,' and mean it.||\n|| SCP-████ || what the hell is that get it off oh shit oh shit take it back|| \n\n[[/collapsible]]\n\n[[footnoteblock]]\n\n[[div class=\"footer-wikiwalk-nav\"]]\n[[=]]\n<< [[[SCP-1491]]] | SCP-1492 | [[[SCP-1493]]] >>\n[[/=]]\n[[/div]]",
+  "tags": [
+    "_cc",
+    "_licensebox",
+    "safe",
+    "scp",
+    "teleportation",
+    "vehicle"
+  ],
+  "author": "Vezaz",
+  "created_at": "2012-07-21T03:09:08+00:00",
+  "updated_at": "2022-12-28T19:33:34+00:00",
+  "rating": 242,
+  "_site": "scp-wiki",
+  "_fullname": "scp-1492"
+}

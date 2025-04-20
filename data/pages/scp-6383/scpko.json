@@ -1,0 +1,16 @@
+{
+  "title": "SCP-6383",
+  "content": "[[include :scpko:info:start]]\n**SCP-6383:** 유일하고 진정한 변칙존재,,The One True Anomaly,,\n**저자:** [[*user Penton]]\n**역자:** [[*user Cubic72]]\n**원문:** https://scp-wiki.wikidot.com/scp-6383\n[[include :scpko:info:end]]\n\n**일련번호:** SCP-6383\n\n**등급:** 비변칙\n[[include component:image-block\nname=https://upload.wikimedia.org/wikipedia/commons/thumb/f/f9/STOP_sign.jpg/640px-STOP_sign.jpg|\ncaption= 격리되기 전의 SCP-6383|width=250px]]\n**특수 격리 절차:** SCP-6383은 재단 변칙 확실성(Foundation Anomalous Certainty) 수치가 00.5%[[footnote]]현재 최소한으로 나올 수 있는 수치[[/footnote]]를 넘지 않는 물질 조합으로 구성된 전용실에 보관한다.\n\n**설명:** SCP-6383은 비변칙 정지 표지판으로, 미국 전역에서 일반적으로 정지 표지판에 사용하는 물질로 제작되었다. 모든 지각 능력이 있거나 그에 준하는 생명체(인간/변칙 독립체/인공지각체/식물)는 SCP-6383과 직접적으로 같이 있는 경우 극심한 불편함과 불안해지는 느낌이나 증상을 호소하였다. 이러한 효과는 변칙적이지 않고, 자연히 나타나는 기본 반응으로 생각된다.\n\n현존하는 모든 다른 물질과는 달리, SCP-6383은 변칙성 검사에 일관적으로 음성 판정을 받았다.\n\n**SCP-6383 검사 결과:**\n* 변칙성 확실성: 0.00%\n* 잠재 등급: 비변칙 (100% 확실성)\n* APME 수치[[footnote]]Anomalous Property Manifestation/Escalation Rating, 변칙 특성 발현/확장 수치[[/footnote]]: 00/00% (정지 표지판들의 평균 APME 수치: ~45/~23%)\n\n이와는 대조적으로, 우주에 존재하는 모든 다른 생명체와 존재들은 변칙성을 측정하였을 때 최소 0.05%의 수치를 보이며, 다양한 상황과 우연을 통해 추후 변칙성을 가질 확률은 적어도 0.03%가 된다(현재 그러한 일이 일어나는 것을 줄이기 위한 변칙성 예방 규약과 격리 시도들이 이루어지고 있다).\n\n이런 고유한 성질로 인해, SCP-6383은 모든 지각 있는 존재들에게서 본질부터 불가사의하다 여겨지게 되며, 존재하는 다른 모든 것들과는 달리 SCP-6383에게서는 비슷한 점이 전혀 없다는 느낌을 받게 된다.\n\n**발견 기록:** SCP-6383은 모든 종류의 존재가 다양한 변칙성을 얻는 결과를 가져온 우주적 현실 개변 사건인 사건-6383-알파 이후 발견되었다. 해당 사건은 변화의 절대다수가 아주 미미하여 인류 대부분이 눈치채지 못하여, 처음에는 알아차리지 못하였다[[footnote]]대표적인 예시: 웨즐리 박사는 키가 1cm 커졌고, HB 연필 하나는 다른 것보다 살짝 노란색의 색조가 달라졌으며, 어떤 풀잎은 주변의 다른 풀잎보다 0.02cm 빠르게 자라나고, 애그뉴 보조 연구원은 딱 한 번 손 안에 계란 하나를 소환하고는 다시는 해당 현상을 재현할 수 없었으며, 어떤 수수두꺼비는 3개월 동안 계속해서 10시간마다 우유 한 그릇을 제공하면 러시아어로 “난 두유가 좋아”라는 말을 할 수 있게 되었고(메모: 검사 결과 해당 두꺼비는 유당불내증은 없는 것으로 확인되었다), 그 외에도 여러 사례가 존재한다.[[/footnote]]. 이에 대응하여, 재단은 사건-6383-알파 이전의 기준 정상성과 비교하여 변화를 확인하기 위한 APME 수치 체계를 개발하였다.\n\nSCP-6383은 해당 사건으로부터 몇 개월 뒤 발견되었고, 그러한 변화의 영향을 가장 적게 받은 것으로 확인되었다. 대상이 사건으로부터 살아남은 유일한 “비변칙” 물체이기에, SCP-6383을 특수한 “차단실”에 보관하여 주변 변칙 현실에 노출되는 것으로 올 수 있는 위험성을 최소화하였다.\n\n[[footnoteblock]]\n\n@@ @@\n[[div class=\"authors\"]]\n[[include :scp-wiki:component:license-box\n|author = Penton]]\n=====\n> **Filename:** STOP sign.jpg\n> **Author:** Bidgee\n> **License:** CC BY-SA 3.0\n> **Source Link:** [[[https://commons.wikimedia.org/wiki/File:STOP_sign.jpg|Wikimedia Commons]]]\n=====\n[[include :scp-wiki:component:license-box-end]]\n[[/div]]\n\n@@ @@",
+  "tags": [
+    "en",
+    "scp",
+    "난해한-등급",
+    "인공물"
+  ],
+  "author": "Cubic72",
+  "created_at": "2023-10-01T11:53:37+00:00",
+  "updated_at": "2025-01-06T00:03:51+00:00",
+  "rating": 10,
+  "_site": "scpko",
+  "_fullname": "scp-6383"
+}

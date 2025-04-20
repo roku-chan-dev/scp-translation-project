@@ -1,0 +1,23 @@
+{
+  "title": "SCP-CN-2172",
+  "content": "[[module ThemePreviewer noUi=\"true\" theme_url=\"https://scpwiki.github.io/sigma/css/sigma.min.css\"]]\n\n[[include :scp-wiki-cn:theme:classic]]\n[[module CSS]]\n.equation-number{\n  display: none;\n}\n[[/module]]\n\n[[>]]\n[[module Rate]]\n[[/>]]\n\n[[include component:image-block name=http://lambdacore.wikidot.com/local--files/no-theme:pen-cancer-and-golden-crowbar/grey_pen.png|align=right|width=200px|caption=与SCP-CN-2172同型号的非异常钢笔]]\n\n**项目编号：**SCP-CN-2172\n\n**项目等级：**Euclid\n\n**特殊收容措施：**当前，SCP-CN-2172被POI-7235持有。基金会已和POI-7235签订保密协议，对象已同意在基金会监控下使用该项目且保证在其所患疾病痊愈后自愿接受记忆删除并放弃SCP-CN-2172的所有权，将其移交基金会处理。应POI-7235的请求，对其植入的虚假记忆应为删除涉密内容的真实情况，SCP-CN-2172应被替换为一同外观非异常钢笔。\n\n**描述：**项目是一支灰色百乐牌（PILOT）钢笔，笔身刻有POI-7235的名字，除此之外其外观与非异常钢笔无异。经测试，该项目无法用任何手段损坏且似乎含有无限的墨水。该项目的主要异常性质表现为，当使用该项目在任何可书写表面上书写任意定积分计算式后，该积分式中的积分符号的对应位置将出现一纯金撬棍（下称为SCP-CN-2172-1），同时，原有的积分符号将会消失。\n\nSCP-CN-2172-1的长度与原积分符号一致，直径通常约0.5cm，除材质外其与同大小的钢制撬棍在外观与功能上无异。因其材质为非异常赤金且获得难度较低，若忽略过量使用该项目而可能引起的金价变动，这将会给持有者带来一笔近乎无限的资金收入。\n\nSCP-CN-2172回收自一次全球超自然联盟对GP快递运输车队的突袭中。交战双方损失惨重，这使得基金会特工得以成功回收GP快递所运输的货物，该项目为其中之一。\n\n经调查，该项目的收货地址为中华人民共和国██省██市第一中学，收件人为王██（被编号为POI-7235），是任职于该学校的数学老师。POI-7235现居住于城郊的一处出租屋内，与任何异常社群无关。其家庭育有三女，夫妻离异。其于近期学校体检中被确诊为肺癌。但截止于本文撰写时，POI-7235仍坚持在该学校教书，推测其家属对此并不知情。\n\n**附录CN-2172-1：**\n该项目包裹中包含有一张明信片，其内容如下。\n\n\n[[note]]\n老师，谢谢您当年借我的那支钢笔，我买了一支新的还给您。\n[[math]]\n\\int_0^{education}man(x)\\mathrm{d}x=∞\n[[/math]]\n[[span style=\"font-family: 'Herr Von Muellerhoff', cursive;\"]]\n//ARE WE COOL YET？//\n[[/span]]\n[[>]]\n[[size 70%]]\n一个当年怎么也学不会算定积分的学生\n（他现在学会了）\n[[/size]]\n[[/>]]\n[[/note]]\n\n\n已根据伦理委员会的指示将该项目送达POI-7235手中并制定了当前收容措施。\n\n[[div class=\"footer-wikiwalk-nav\"]]\n[[=]]\n<< [[[SCP-CN-2171]]] | SCP-CN-2172 | [[[SCP-CN-2173]]] >>\n[[/=]]\n[[/div]]",
+  "tags": [
+    "are-we-cool-yet",
+    "euclid",
+    "gp快递",
+    "scp",
+    "不可摧毁",
+    "原创",
+    "反熵",
+    "合著",
+    "工具",
+    "数学性",
+    "金属"
+  ],
+  "author": "Lambda Core",
+  "created_at": "2023-07-27T07:26:07+00:00",
+  "updated_at": "2024-01-02T14:38:28+00:00",
+  "rating": 48,
+  "_site": "scp-wiki-cn",
+  "_fullname": "scp-cn-2172"
+}

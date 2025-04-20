@@ -1,0 +1,13 @@
+{
+  "title": "Deadlinks Workbench",
+  "content": "[[tabview]]\n\n[[tab Module workbench]]\nSome modules which show wanted pages, orphaned pages, and some other miscellaneous information like watchers and page drafts.\n[[/tab]]\n\n[[tab WantedPages]]\n[[module WantedPages]]\n[[/tab]]\n\n[[tab OrphanedPages]]\n[[module OrphanedPages]]\n[[/tab]]\n\n[[tab Watchers]]\n[[module Watchers noActions=\"true\"]]\n[[/tab]]\n\n[[tab ListDrafts]]\n[[module ListDrafts]]\n[[/tab]]\n\n[[/tabview]]",
+  "tags": [
+    "workbench"
+  ],
+  "author": "aismallard",
+  "created_at": "2021-03-11T03:39:22+00:00",
+  "updated_at": "2021-03-11T03:48:21+00:00",
+  "rating": 6,
+  "_site": "scp-wiki",
+  "_fullname": "workbench:deadlinks"
+}

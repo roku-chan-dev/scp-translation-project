@@ -1,0 +1,18 @@
+{
+  "title": "SCP-ES-083",
+  "content": "**项目编号：** SCP-ES-083\n\n**项目等级：** Euclid\n\n**特殊收容措施：**全网监控SCP-ES-083的副本。任何直接提供SCP-ES-083下载的网页将被关闭，网站管理员将被定位及讯问。所有持有SCP-ES-083副本的人将被讯问后施以A级记忆删除，其计算机中的程序将被删除，并以界面相似但无效的副本替代。\n\n基金会将保有至少一份SCP-ES-083的副本，对其实验需经2级或以上人员批准。\n\n**描述：**SCP-ES-083是一个专为解密而设计的程序。其仅包含一个名为“decrypt.exe”，大小125.91KB的文件。为查看源代码而对文件进行的反编译得到了一个字符串“婊子。看来你想知道我的程序是怎么干活的，那你只能接着等着了。好好学着我是怎么做的，或许有一天你也会明白这些事！敬祝台安，Maximus”，伴随着ASCII编码组成的淫秽图片。如对SCP-ES-083做出某些特定行动，出现的警告信息会使用相同的非正式及冒犯的语气。\n\n尚未寻获任何以该化名制造此种程序的人士的相关信息。已就SCP-ES-083事项询问具相似化名的嫌疑人，但无人承认曾见过类似的程序。\n\n当SCP-ES-083被启动时，一个名为“deCipher'em All v1.6”的窗口开启，内含一个巨大文字框及一个标有“解密”的按钮。当按钮被点击时，SCP-ES-083会分析输入文字，并辨识其是有意义的文字抑或无意义的随机字符串。之后，如输入为前者，程序--必然--//在绝大多数情况下//会将其替换为明文。而如输入为无意义的随机字符串//或无法被破译//，文字会被替换为“别想耍我，傻逼”。\n\nSCP-ES-083可破解各种加密代码，从//pig latin//[[footnote]]译注：又名儿童黑话，将单词中音节顺序与组成改动而成[[/footnote]]到二进制。在所有情况下，确认文字是否为密文及解密过程本身都会花费千分之██秒到一秒钟之间，无论代码的复杂度如何。SCP-ES-083同样可识别乱序字符中包含的所有词语并正确显示，此功能结合在前文的解密过程中。举例而言：写下“一这试测个是”后点击按钮，结果会显示“这是一个测试”。[[footnote]]译注：经归化处理[[/footnote]]。信息所使用的语言不会影响结果。\n\n**实验记录：**\n以多种难度不一的密文对SCP-ES-083进行测试。所有实验中，无论复杂度及所需的工作量如何，破译过程几乎在瞬间完成。[[footnote]]译注：第2、3、5、8、9、10、11条难以用中文体现，故译为英文，**相应密文亦有改动以匹配明文**[[/footnote]]\n\n||~ 加密方式 ||~ 密文 ||~ 结果 ||\n|| 打乱排序 || 一这试测个是 || 这是一个测试 ||\n|| ROT13 || V nz Qe. Yragm || I am Dr. Lentz ||\n|| 二进制 || 01001000 01100101 01101100 01101100 01101111 || Hello ||\n|| 维吉尼亚密码 (密钥为“SCP”) || BPA EWTSM BS EDWBW SSPH NT LPJFXF SW BS ISPIW || //J'ai perdu ma plume dans le jardin de ma tante// (法语，“我在我姨妈的花园中丢失了一支钢笔”) ||\n|| 1337 || @@/\\¯|¯¯|¯|-\\<|< ∂¯|¯ |>@\\_:_//\\/@@ || Attack at dawn ||\n|| 无加密 || lñsefko4sus89p84u93s3jf9soj889jf834988439 （随机字符串） || 别想耍我，傻逼 ||\n|| 纳瓦霍密码 || BA-AH-NE-DI-TININ YIL-DOI TSA-E-DONIN-EE AH-TAD TLO-CHIN DIBEH-YAZZIE KLESH LHA-CHA-EH CHUO BA-AH-NE-DI-TININ KLIZZIE TKELE-CHO-G NA-AS-TSO-SI A-CHIN CHINDI TSA-E-DONIN-EE JAD-HO-LONI AH-YA-TSINNE KLESH JEHA  KLESH LHA-CHA-EH CHUO BA-AH-NE-DI-TININ NE-AHS-JAH TKELE-CHO-G JEHA  AH-JAD KLESH BE JAD-HO-LONI YIL-DOI DIBEH-YAZZIE KLIZZIE-YAZZIE DIBEH LHA-CHA-EH TKELE-CHO-G  CHINDI || //kjfgolsdfkgjmndfkjsgñsdfkojgñlsdkjlksdjñd//（有意加密过的随机字符串。当再次点击按钮时，显示信息“别想耍我，傻逼”。） ||\n|| Atbash与凯撒密码+1 || EWESPPIWWSVCMGYANIMPFWXMGZPWWNYJCLHSMN || We will see if you can solve double encryption ||\n|| Enigma密码机 || QZZH OOQU SGMQ GAQW BGRY CIRS LWVC OSND PWGP XKJD GBWR BYWW HQNH XCXO ZWNT RKRR NXFF XAA || Let's see how long it takes to find out the content of this randomly encrypted sentence. ||\n|| SHA-1与摩尔斯电码与MD5 || d739be224e510f49198833737b7b42f9 || Triple encryption. This should cost you more than a second, damn program. ||\n|| MD5重复加密██次 || 387bf3043452b4308cce6d2fad1c32d3 || 别想耍我，傻逼（事实上信息内容是“Let us try recursive form”。__此次实验证明SCP-ES-083并非无所不能__） ||\n|| ████████ （基金会自研算法，用于间谍间的交流）[[footnote]]译注：此条中明文原文为英语[[/footnote]] || ..................................................................................... || //Hemos descubierto algo importante// （西班牙语，“我们发现了些重要情报”） ||\n|| █████-7 （基金会自研算法，用于Site主任与O5议会成员间的交流 || ö¶Î¶ ö  ¦.v¦æN® vÏv®¦J || 别想耍我，傻逼（事实上信息内容是“今天有紧急会议”） ||\n|| 不明，截获自GoI“蛇之手” || 74 6f 6e 74 6f 20 65 6c 20 71 75 65 20 6c 6f 20 6c 65 61 20 78 44 44 44 44 44 44 44 || [数据删除]。查看报告083-14-“██████████营救行动”以获得详细信息。 ||\n\n已申请将SCP-ES-083加入基金会标准反间谍装备。申请正等待批准。",
+  "tags": [
+    "2017goi-es竞赛",
+    "es",
+    "euclid",
+    "scp",
+    "电脑",
+    "钥匙"
+  ],
+  "author": "Foxhyf",
+  "created_at": "2018-04-23T09:47:24+00:00",
+  "updated_at": "2022-10-02T22:18:59+00:00",
+  "rating": 1,
+  "_site": "scp-wiki-cn",
+  "_fullname": "scp-es-083"
+}

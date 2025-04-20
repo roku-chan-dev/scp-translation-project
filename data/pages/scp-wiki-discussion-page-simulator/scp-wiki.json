@@ -1,0 +1,18 @@
+{
+  "title": "SCP Wiki Discussion Page Simulator",
+  "content": "[[include :scp-wiki:component:scp-pride]]\n[[>]]\n[[module Rate]]\n[[/>]]\n\n[[include :scp-wiki:component:listusers-1 users=\".\"]]\n[[div style=\"background-image: url(https://www.wikidot.com/avatar.php?userid=%%number%%); background-repeat: no-repeat; background-position: center center; background-size: auto 58%;\"]]\n[[image https://scp-wiki.wdfiles.com/local--files/scp-wiki-discussion-page-simulator/soy.png]]\n[[/div]]\n[[include :scp-wiki:component:listusers-2]]\n[[image https://scp-wiki.wdfiles.com/local--files/scp-wiki-discussion-page-simulator/soy.png]]\n[[include :scp-wiki:component:listusers-3]]\n\n[[include :scp-wiki:component:license-box\n|author=DarnellJermaine and Uncle Nicolini]]\n=====\n> **Filename:** soy.png\n> **Author:** Hamiltoe\n> **License:** CC BY-SA 3.0\n> **Source Link:** [https://scp-wiki.wikidot.com/scp-wiki-discussion-page-simulator SCP Foundation Wiki]\n=====\n[[include :scp-wiki:component:license-box-end]]",
+  "tags": [
+    "_cc",
+    "_licensebox",
+    "co-authored",
+    "comedy",
+    "joke",
+    "tale"
+  ],
+  "author": "Uncle Nicolini",
+  "created_at": "2021-11-19T14:07:27+00:00",
+  "updated_at": "2024-04-19T00:06:59+00:00",
+  "rating": 217,
+  "_site": "scp-wiki",
+  "_fullname": "scp-wiki-discussion-page-simulator"
+}

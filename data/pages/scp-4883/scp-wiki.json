@@ -1,0 +1,20 @@
+{
+  "title": "SCP-4883",
+  "content": "[[include :scp-wiki:theme:classic]]\n[[>]]\n[[module Rate]]\n[[/>]]\n[[include component:image-block\n    name=bookoflife.jpg|\n    caption=A book surgically removed from SCP-4883's liver.]]\n**Item #:** SCP-4883\n\n**Object Class:** Euclid\n\n**Special Containment Procedures:** SCP-4883 is kept within a Standard Humanoid Containment Cell and given standard coma care, including ventilation, a feeding tube, and periodic moving. Attending personnel are to routinely monitor for new growths. \n\nBooks produced by SCP-4883 are stored in a standard locker, following full sterilization.\n\n**Description:** SCP-4883 is a human male named Manuel Jalisco Barrera.\n\nSince discovery, SCP-4883 has remained in a coma. All organs function within normal parameters, and no part of his body has atrophied during this period. Brain scans show very low levels of activity in the cerebral cortex.\n\nEvery two to three weeks, a large tumor will develop somewhere on or within SCP-4883's body. When this growth bursts or is excised surgically, it is found to contain pus, saline fluid, and a small book enclosed within a plastic zipper storage bag. The author of each book is listed as an organ or anatomical structure within SCP-4883's body.\n\n||~ #||~ Origin||~ Length||~ Excerpt||\n||1||Right middle finger||252 pages.||//The dry beam presses into me, and I press back. I move again and again and again, the barely concealed roughness grating against me. I feel my exterior react, the aggravation never ceasing until the beam leaves me and my neighbors exhausted.//||\n||3||Large intestine||459 pages.||//I felt it once. The warm, soft, wet existence I had grown to know, painfully interrupted once, and only once. Searing, sterile intrusion, shattering the color of my worlds. The color that was not penetrated the opening, and the wind rushed in. I could not sense, I could not feel, until many times later. And my companion had been taken from me.//||\n||9||Diaphragm||232 pages.||//I bend, and I feel the eternal rhythm above me. I never rest. Up. Down. Up. Down. I am content to keep time.//||\n||19||Brain||5,119 pages.||//LET ME OUT// (repeated through the entire book)||\n\n[[footnoteblock]]\n[[div class=\"footer-wikiwalk-nav\"]]\n[[=]]\n<< [[[SCP-4882]]] | SCP-4883 | [[[SCP-4884]]] >>\n[[/=]]\n[[/div]]\n\n[[include :scp-wiki:component:license-box]]\n=====\n> **Filename:** bookoflife.jpg\n> **Author:** [[*user Weryllium]]\n> **License:** CC BY-SA 3.0\n> **Source Link:** [https://scp-wiki.wikidot.com/scp-4883 SCP Foundation Wiki]\n=====\n[[include :scp-wiki:component:license-box-end]]",
+  "tags": [
+    "_cc",
+    "_licensebox",
+    "alive",
+    "document",
+    "ectoentropic",
+    "euclid",
+    "humanoid",
+    "scp"
+  ],
+  "author": "Weryllium",
+  "created_at": "2019-11-26T19:25:00+00:00",
+  "updated_at": "2022-05-16T13:18:08+00:00",
+  "rating": 121,
+  "_site": "scp-wiki",
+  "_fullname": "scp-4883"
+}

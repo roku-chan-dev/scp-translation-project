@@ -1,0 +1,25 @@
+{
+  "title": "SCP-6140",
+  "content": "[[include :scp-wiki-cn:component:info-ayers\n|page=SCP-6140\n|authorPage=aismallard\n|comments=\n**SCP-6140：**真正的帝国\n作者：[[*user stormbreath]]与[[*user aismallard]] \n \n为了翻译者与编辑者的便利，此处为每个独立迭代页的链接：\n \n* **[https://scp-wiki-cn.wikidot.com/fragment:SCP-6140-0 段落0]**\n* **[https://scp-wiki-cn.wikidot.com/fragment:SCP-6140-1 段落1]**\n]]\n\n[[module CSS]]\n#u-author_block {\n    display: none;\n}\n[[/module]]\n\n[[module ListPages category=\"fragment\" parent=\".\" order=\"created_at\" limit=\"1\" offset=\"@URL|0\"]]\n%%content%%\n[[/module]]\n\n[[footnoteblock]]\n\n[[div class=\"footer-wikiwalk-nav\"]]\n[[=]]\n<< [[[SCP-6139]]] | SCP-6140 | [[[SCP-6141]]] >>\n[[/=]]\n[[/div]]\n\n[[include :scp-wiki-cn:component:license-box\n|author=aismallard 与 stormbreath\n]]\n=====\n> **文件名：**map.png\n> **图像作者：**aismallard\n> **授权协议：**CC BY-SA 3.0\n> **衍生自：**[[[https://commons.wikimedia.org/wiki/File:BlankMap-World.svg|BlankMap-World]]]（由Canuckguy等人发布于公有领域）\n\n> **文件名：**daevastan.jpg\n> **图像名：**Altyn Arashan resort, Kyrgyzstan 3\n> **图像作者：**Adam Harangozó\n> **授权协议：**CC BY-SA 4.0\n> **来源：**[[[https://commons.wikimedia.org/wiki/File:Altyn_Arashan_resort,_Kyrgyzstan_3.jpg|维基共享]]]\n\n> **文件名：**scp-140-a.jpg\n> **图像名：**Earl S.\n> **图像作者：**Gerard M. Bauer\n> **授权协议：**CC0\n> **来源：**[[[https://commons.wikimedia.org/wiki/File:Earl_S..jpg|维基共享]]]\n=====\n[[include :scp-wiki-cn:component:license-box-end]]",
+  "tags": [
+    "6000",
+    "k级情景",
+    "scp",
+    "仪式性",
+    "历史性",
+    "合著",
+    "地点",
+    "宗教",
+    "异常事件",
+    "无效化",
+    "深红之王",
+    "狄瓦",
+    "现实扭曲"
+  ],
+  "author": "ashausesall",
+  "created_at": "2021-05-29T08:27:18+00:00",
+  "updated_at": "2024-04-26T15:42:43+00:00",
+  "rating": 114,
+  "_site": "scp-wiki-cn",
+  "_fullname": "scp-6140"
+}

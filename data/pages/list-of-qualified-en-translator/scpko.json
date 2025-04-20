@@ -1,0 +1,14 @@
+{
+  "title": "영어 번역가 테스트 합격자 명단-보존",
+  "content": "이하는 영어 번역가 테스트를 통과한 회원들의 목록입니다. 합격자들은 1년 동안 각자의 합격 분야에서 번역 비평을 거치지 않고 영어 번역물을 업로드할 수 있습니다. 자격 부여 시점과 종료 시점의 날짜는 제출일이 아닌 채점 결과 발표일을 기준으로 합니다.\n\n현재까지 영어 번역가 테스트는 //1회// 실시되었습니다. 테스트는 3개월마다 실시됩니다.\n이하 목록은 자격 기간별, 알파벳 순으로 정렬되어 있습니다.\n　\n@@@@\n\n||**회원 닉네임**||||~ 자격 분야||**자격 기간**||\n\n+++ 0회 //,,(채점자 선출을 위한 임시 테스트),,//\n||[[*user shfoakdls]]||~ SCP||~ 이야기||2015년 4월 13일 ~ 2016년 4월 13일||\n\n+++ 1회\n||[[*user Asalain]]||~ SCP|| ||2015년 5월 25일 ~ 2016년 5월 25일||\n||[[*user Fissh]]||~ SCP||~ 이야기||2015년 5월 25일 ~ 2016년 5월 25일||\n||[[*user JtodaOne]]||~ SCP|| ||2015년 5월 25일 ~ 2016년 5월 25일||\n||[[*user kazahn]]||~ SCP|| ||2015년 5월 25일 ~ 2016년 5월 25일||\n||[[*user lanlanmag]]||~ SCP|| ||2015년 5월 25일 ~ 2016년 5월 25일||\n||[[*user m1n3cra4t]]||~ SCP||~ 이야기||2015년 5월 25일 ~ 2016년 5월 25일||\n||[[*user Salamander724]]|| ||~ 이야기||2015년 5월 25일 ~ 2016년 5월 25일||\n||[[*user Shatt]]||~ SCP|| ||2015년 5월 25일 ~ 2016년 5월 25일||\n||[[*user thd-glasses]]||~ SCP|| ||2015년 5월 25일 ~ 2016년 5월 25일||\n\n@@@@\n　\n명단에 없으신 분들은 번역 비평 포럼을 거쳐 영어 번역에 참여해주시면 됩니다.\n\n[[module css]]\ntable.wiki-content-table\n{\n    margin: 0;\n    width: 100%;\n}\n\ntable.wiki-content-table td:first-child\n{\n    width: 150px;\n}\n\ntable.wiki-content-table td:last-child\n{\n    width: 300px;\n}\n[[/module]]",
+  "tags": [
+    "ko",
+    "보존"
+  ],
+  "author": "thd-glasses",
+  "created_at": "2015-06-06T14:31:28+00:00",
+  "updated_at": "2015-08-11T09:58:25+00:00",
+  "rating": 1,
+  "_site": "scpko",
+  "_fullname": "list-of-qualified-en-translator"
+}

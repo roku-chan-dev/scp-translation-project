@@ -1,0 +1,11 @@
+{
+  "title": "short-stories:_template",
+  "content": "[[module ThemePreviewer noUi=\"true\"]]\n\n[[div class=\"iframe-only\" style=\"display:none\"]]\n[[>]]\n[[module Rate]]\n[[/>]]\n[[/div]]\n\n[[div class=\"page-only\"]]\n\n[[div class=\"content-panel standalone series\"]]\n\n%%form_raw{date}%%\n\n----\n\n%%form_raw{content}%%\n\n----\n\n%%form_raw{comments}%%\n@@@@\n\n[[/div]]\n\n[[=]]\n[[button edit text=\"编辑 & 评论\" class=\"button\"]]\n[[/=]]\n\n[[/div]]\n\n[[module css]]\n.row-0 {\n    display: none;\n}\n[[/module]]\n\n====\n\n[[form]]\nfields:\n  date:\n    type: text\n    default: \"20██/██/██ ██:██, 地点：██████\"\n  content:\n    label: \"故事：\"\n    type: wiki\n    height: 10\n  comments:\n    label: \"评论：\"\n    type: wiki\n    height: 10\n    default: \"[[collapsible show=\\\"+ 评论区 0个\\\" hide=\\\"- 评论区\\\"]]\\n[!--\\n请使用以下格式添加评论：\\n> **[[*user 你的 Wikidot ID]]：**评论内容\\n--]\\n\\n\\n\\n[[/collapsible]]\"\n  note:\n    type: static\n    value: \"**提示：**请使用以下格式添加评论：\\n[[div class=\\\"code\\\"]]\\n@@> **[[*user 你的 Wikidot ID]]：**评论内容@@\\n[[/div]]\\n\\n在添加完你的评论之后，不要忘记修改评论区的数量。\"\n[[/form]]",
+  "tags": [],
+  "author": "62ECN",
+  "created_at": "2020-06-03T02:00:42+00:00",
+  "updated_at": "2020-06-03T02:00:42+00:00",
+  "rating": 0,
+  "_site": "scp-wiki-cn",
+  "_fullname": "short-stories:_template"
+}

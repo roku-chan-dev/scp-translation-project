@@ -1,0 +1,13 @@
+{
+  "title": "伴月星恒（亮色）",
+  "content": "[[include :scp-wiki-cn:theme:black-highlighter-theme]]\n[[include :scp-wiki-cn:theme:ch-scp-theme]]\n\n[[module css]]\n#page-content > p {\n\tpadding: 0 1em;\n}\n@supports (mix-blend-mode: screen) {\n\t.poem::before {\n\t\tmix-blend-mode: darken;\n\t}\n}\n\n@supports ((-webkit-clip-path: url(\"\")) or (clip-path: url(\"\"))) {\n\t.glitch::before {\n\t\tbackground: rgba(var(--white-monochrome));\n\t}\n\t.glitch::after {\n\t\tbackground: rgba(var(--white-monochrome));\n\t}\n}\n\n@supports (((-webkit-mask-image: url(\"\")) or (mask-image: url(\"\"))) or (-webkit-mask-image: url(\"\"))) {\n\t.sidd:before {\n\t\tmask-image:\n\t\t\t-webkit-gradient(\n\t\t\t\tlinear, left top, left bottom,\n\t\t\t\t\tfrom(rgba(0, 0, 0, 1)),\n\t\t\t\t\tcolor-stop(40%, rgba(0, 0, 0, 0)));\n\t\tmask-image:\n\t\t\tlinear-gradient(to bottom,\n\t\t\t\trgba(0, 0, 0, 1) 0%,\n\t\t\t\trgba(0, 0, 0, 0) 40%);\n\t\t-webkit-mask-image:\n\t\t\t-webkit-gradient(\n\t\t\t\tlinear, left top, left bottom,\n\t\t\t\t\tfrom(rgba(0, 0, 0, 1)),\n\t\t\t\t\tcolor-stop(40%, rgba(0, 0, 0, 0)));\n\t\t-webkit-mask-image:\n\t\t\t-webkit-linear-gradient(top,\n\t\t\t\trgba(0, 0, 0, 1) 0%,\n\t\t\t\trgba(0, 0, 0, 0) 40%);\n\t\t-webkit-border-radius: 2em 2em 0 0;\n\t\t        border-radius: 2em 2em 0 0;\n\t}\n\t.sidd:after {\n\t\t--dark-accent: 200, 245, 255;\n\t}\n}\n\n@supports (mix-blend-mode: screen) {\n\t.sidd:before {\n\t\tmix-blend-mode: screen;\n\t}\n}\n[[/module]]\n[[=]]\n> 这篇故事在设计时考虑到了使用银河联邦版式，见于此处：[/the-moons-stellar-companion 联邦版式]。投票结果两页共享，所以您可选择喜欢的版面进行投票。\n[[/=]]",
+  "tags": [
+    "段落"
+  ],
+  "author": "Etinjat",
+  "created_at": "2019-04-14T14:29:34+00:00",
+  "updated_at": "2021-04-26T07:06:56+00:00",
+  "rating": 0,
+  "_site": "scp-wiki-cn",
+  "_fullname": "fragment:the-moons-stellar-companion-1"
+}

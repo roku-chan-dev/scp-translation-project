@@ -1,0 +1,15 @@
+{
+  "title": "gyokai_rui的基金会相关logo",
+  "content": "[[include :scp-wiki-cn:credit:start-standalone]]\n**标题：**gyokai_rui的基金会相关logo\n**作者：** ©︎[[*user gyokai_rui]]\n**创作年份：**2019\n[[include :scp-wiki-cn:credit:end-standalone]]\n[[html]]\n<style media=\"screen\">\n@import url(http://scp-jp.wdfiles.com/local--files/japanese-syntax/scp-WikidotCss.css);\n.logos{\ndisplay: flex;\njustify-content: space-between;\nalign-items: flex-end;\nmargin: 0 auto;\npadding: 20px 0;\nborder-bottom: 1px solid #808080;\n}\n.logos .logos_img{\ntext-align: center;\n}\n.logos .logos_img:first-of-type{\nwidth: 35%;\n}\n.logos .logos_img:nth-of-type(2){\nwidth: 60%;\n}\n.logos .logos_img:first-of-type img{\nwidth: 60%;\n}\n.logos .logos_img p{\nbackground: #ccc;\npadding: 0.5em;\n}\n\n@media (max-width: 400px){\n.logos{\njustify-content: center;\nflex-direction: column;\nalign-items: center;\n}\n.logos .logos_img:first-of-type,\n.logos .logos_img:nth-of-type(2){\nwidth: 76%;\nmargin-bottom: 2em;\n}\n}\n</style>\n<script type=\"text/javascript\" src=\"http://scp-jp.wdfiles.com/local--files/japanese-syntax/scpHTMLblockCtrl_ver1_ex.js\"></script>\n<p>创作了相关组织、次要相关组织的logo。</p>\n<br>\n<div class=\"logos\">\n<div class=\"logos_img\">\n<img src=\"http://scp-jp.wdfiles.com/local--files/gyokai-rui-logos/logo_miyoko_01.png\" alt=\"贩卖员美代子logo_竖版\">\n<p><a href=\"http://scp-wiki-cn.wikidot.com/groups-of-interest-jp#toc7\"  target=\"_parent\">贩卖员美代子</a> 竖版</p>\n</div>\n<div class=\"logos_img\">\n<img src=\"http://scp-jp.wdfiles.com/local--files/gyokai-rui-logos/logo_miyoko_02.png\" alt=\"贩卖员美代子logo_横版\">\n<p><a href=\"http://ja.scp-wiki.net/groups-of-interest-jp#toc7\"  target=\"_parent\">贩卖员美代子</a> 横版</p>\n</div>\n</div>\n\n<div class=\"logos\">\n<div class=\"logos_img\">\n<img src=\"http://scp-jp.wdfiles.com/local--files/gyokai-rui-logos/logo_arimura_01.png\" alt=\"有村组logo_竖版\">\n<p>有村组 竖版</p>\n</div>\n<div class=\"logos_img\">\n<img src=\"http://scp-jp.wdfiles.com/local--files/gyokai-rui-logos/logo_arimura_02.png\" alt=\"有村组logo_横版\">\n<p>有村组 横版</p>\n</div>\n</div>\n\n<div class=\"logos\">\n<div class=\"logos_img\">\n<img src=\"http://scp-jp.wdfiles.com/local--files/gyokai-rui-logos/logo_EE_01.png\" alt=\"Entertainment & Enterprise公司logo_竖版\">\n<p><a href=\"http://scp-wiki-cn.wikidot.com/system:page-tags/tag/e%26e#pages\" target=\"_parent\">Entertainment & Enterprise公司</a> 竖版</p>\n</div>\n<div class=\"logos_img\">\n<img src=\"http://scp-jp.wdfiles.com/local--files/gyokai-rui-logos/logo_EE_02.png\" alt=\"Entertainment & Enterprise公司logo_横版\">\n<p><a href=\"http://scp-wiki-cn.wikidot.com/system:page-tags/tag/e%26e#pages\" target=\"_parent\">Entertainment & Enterprise公司</a> 横版</p>\n</div>\n</div>\n[[/html]]",
+  "tags": [
+    "jp",
+    "有村组",
+    "艺术作品"
+  ],
+  "author": "la kanro",
+  "created_at": "2019-06-24T07:50:24+00:00",
+  "updated_at": "2020-05-17T12:57:11+00:00",
+  "rating": 2,
+  "_site": "scp-wiki-cn",
+  "_fullname": "gyokai-rui-logos"
+}

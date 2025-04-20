@@ -1,0 +1,18 @@
+{
+  "title": "SCP-7008",
+  "content": "[[include :scp-jp:theme:paperstack]]\n[[div class=\"logo\"]]\n[[image http://scp-jp.wdfiles.com/local--files/theme%3Apaperstack/lgtrans.png]]\n[[/div]]\n\n[[include :scp-jp:credit:start]]\n**タイトル:** SCP-7008 - 1輪のプラスチック製のバラ\n**翻訳責任者:** [[*user Witherite]]\n**翻訳年:** 2022\n**原題/リンク:** [https://scp-wiki.wikidot.com/scp-7008 SCP-7008 - A Single Plastic Rose]\n**著作権者:** 匿名\n**作成年:** 2022\n**初訳時参照リビジョン:** rev.5\n[[include :scp-jp:credit:end]]\n\n[[div class=\"header-container-ex\"]]\n[[include component:image-block name=http://scp-jp-storage.wdfiles.com/local--files/file%3A6370408-138-ylzy/rosetall.png|caption=SCP-7008実例。|width=300px|align=right]]\n[[div class=\"header-info\"]]\n[[div class=\"header-info-flex\"]]\n[[div class=\"text-item\"]]\n[[size 90%]]##grey|**アイテム番号:**##[[/size]]\n\n[[size 220%]]**7008**[[/size]]\n[[/div]]\n\n[[div class=\"text-item\"]]\n[[size 90%]]##grey|**収容クラス:**##[[/size]]\n\n[[size 220%]]**ANOMALOUS**[[/size]]\n[[/div]]\n[[/div]]\n[[/div]]\n[[/div]]\n\n\n**特別収容プロトコル:** SCP-7008はヴェールや財団に与える脅威は無視可能なものです。SCP-7008の出現イベントの原因に関する研究は継続しても差し支えないものの、正式な収容は要しません。\n\n**説明:** SCP-7008は、ピンク色の布地とプラスチックで作られた他の点では非異常の造花のバラの、人口の多い地域における自然発生的な出現です。出現に必要な条件はいまだに不明ですが、イベントの大多数は以下の共通点があります。\n\n* SCP-7008は通常現地時間の5PMから4AMの間に出現し、\n* ほぼ例外なく都市環境に出現しているにもかかわらず、そのエリアはその時間帯に人口が多いことはめったになく、\n* SCP-7008は住宅地域より工業地区や商業地区を好み、\n* SCP-7008は人間による直接的な観測外で出現します。[[footnote]]この理由と、出現以降に異常効果がないことから、SCP-7008の収容・研究は低優先度になっています。[[/footnote]]\n@@ @@\n@@ @@\n\n++ 補遺7008.1 - 発見:\n\n財団データクローラーのSylvia.aicは、ヴァージニア州ノーフォークにおいて複数台の音声映像付きCCTVカメラが短期間再起動したことを記録しました。これは異常な干渉がなければ極めて可能性が低いことであったため、手動確認のためフラグ付けされ、初めて記録されたSCP-7008イベントになりました。映像の転写は以下で確認できます。\n\n[[div class=\"blockquote\"]]\n[[include component:image-block name=http://scp-jp-storage.wdfiles.com/local--files/file%3A6370408-139-v57o/square.jpg|caption=00:00|width=300px|align=right]]\n//モーガン・アルダは勤務先の地元の食料雑貨店から出る。//\n\n//時刻は2:17 AMである。通りは暗く、アルダは一瞬身震いする。ポケットに手を伸ばし、1組のカギを取り出して、30秒の努力ののち建物のドアにカギを掛ける。//\n\n//アルダは建物に顔を向けながら数歩下がり、1度深呼吸する。目をこすり、近くのベンチまで歩く。//\n\n//アルダは腰を下ろし、ポケットからイヤホンと1包みのガムを取り出す。携帯にヘッドホンを挿し、携帯をいじって音楽を探す。その選択に満足したか、少なくともいいと思い、携帯を下ろし道路の向こう側を見つめる。//\n\n//数分経過する。そよ風は徐々にやむ。周囲から孤立しているように、アルダは遠くを眺める。稀に車がとどろきながら過ぎ去るも、アルダは反応しない。アルダの呼吸は澄み切った空気を切っている。それでも、アルダは眺め続けている。//\n\n//しばらくして、アルダは突然我に返り、大きな溜息をついてかがみ込み、頭を両手で支える。映像が切断される。//\n\n//映像が再開すると、ベンチのわきにピンク色のプラスチック製のバラが見える。アルダは両手で頭を抱え続けている。5分後、アルダは顔を上げ、バラに気づく。//\n\n//アルダはためらう。//\n\n**アルダ:** 何これ。\n\n//アルダはバラを取り手の中で回し、少しの間目を通す。突然アルダは気力を出してほとんど地面から飛び上がるように立ち上がり、バラをポケットに滑り込ませる。ゆっくりと、アルダは家に帰るためカメラに向かって歩く。フレームから外れるとき、アルダの顔はわずかにほほ笑んでいる。//\n\n[[/div]]\n@@ @@\n@@ @@\n[[footnoteblock]]\n@@ @@\n@@ @@",
+  "tags": [
+    "7000",
+    "en",
+    "esoteric-class",
+    "scp",
+    "人工",
+    "外部エントロピー"
+  ],
+  "author": "Witherite",
+  "created_at": "2022-07-29T00:39:55+00:00",
+  "updated_at": "2024-04-21T03:07:13+00:00",
+  "rating": 52,
+  "_site": "scp-jp",
+  "_fullname": "scp-7008"
+}

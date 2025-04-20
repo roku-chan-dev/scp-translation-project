@@ -1,0 +1,14 @@
+{
+  "title": "Mal的笔录",
+  "content": "[[>]]\n[[module rate]]\n[[/>]]\n[[module CSS]]\n/*\n    Powered on 2020/03/24 10:02:43\n    [2020 Wikidot Theme]\n    Created by Heavyblues\n    CC BY-SA 3.0\n*/\ndiv#container-wrap {\nbackground: url(http://scpsandboxcn.wdfiles.com/local--files/original-high/kindom) top left repeat-x;}\n\ndiv#side-bar div.side-block {\n    border: 1px solid rgb(255, 255, 255);\n    box-shadow: 0 2px 6px rgb(217, 217, 217);\n}\ndiv#side-bar div.side-block div.heading,\ndiv#side-bar div.collapsible-block-unfolded-link,\ndiv#side-bar div.collapsible-block-unfolded-link div.collapsible-block-link {\n    color: rgb(0, 0, 0);\n    border-color: rgb(0, 0, 0);\n}\ndiv.open-menu a {\n    color: rgb(0, 0, 0)!important;\n    border-color: rgb(0, 0, 0)!important;\n}\n#side-bar a:visited {\n    color: rgb(0, 0, 0);\n}\n\n#side-bar div.menu-item .sub-text {\n    color: rgb(0, 0, 0);\n}\n\n\n#side-bar a,a:visited {\n    color: rgb(0, 0, 0);\n}\n \n#side-bar img {\n    filter: grayscale(1);\n    -webkit-filter: grayscale(1);\n}\n[[/module]]\n Mal:——博士，您在走神。\n\n**我很抱歉。**\n\nMal：这的确很难理清思路，尤其34号站业已注销多年——您的手，那是灼伤吗?\n\n**不全是，这是胎记。**\n\nMal：冒犯到您，请不要介意——您刚才提到了您的......我是说34号站的主管，似乎她参与颇深？\n\n**她在那样的位置上，就必须要作出选择，无论是好或坏。**\n\nMal：我明白。\n\n**或许我们不该在这个时候谈论这些旧事，这对你的主管没有好处。**\n\n**更何况他亦亲历此事，恐怕轮不到我赘言。**\n\nMal：您多虑了。报告的受访者遍布分部，您只需提供您所知的部分即可——\n\n**我不知道还有谁剩下。**\n\nMal：（沉默）\n\nMal：我有些朋友在52号站，他们讲了很多。\n\n**讲那个人死前的疯癫吗？**\n\nMal：主管先生也参与了报告——\n\n**于心有愧，难免之事。**\n\nMal：（沉默）\n\nMal：我需要提醒您，接下来的问题涉及直接参与事件的基金会员工，您也许不能提供第一手的资料，如果您认为某处叙述存在争议，请告诉我。并且——\n\n**怎么了？**\n\nMal：我希望您可以保持中立的态度，尤其是……涉及到……\n\n**我的父母。**\n\n**我完全理解你的意思。**\n\n**尽管你我几乎同龄，但我不属于这个崭新的时代。**\n\n**我在那里出生和衰老，在一个女人的回忆中生活，虚无的人与地哺育了我。**\n\n**你说到他们，那我就从他们讲起，可能要花费些时间，但毕竟我们总能抵达——**\n\n**从头说起。**\n\n------\n\n= 来自合作写作设定Endin/散结\n\n= 文中所涉一切人设及事件，均独立于基金会经典设定\n\n= Written By Heavyblues\n\n= A Foundation Story\n\n= **天国降临**\n\n= Coming Soon",
+  "tags": [
+    "原创",
+    "故事"
+  ],
+  "author": "Heavyblues",
+  "created_at": "2018-05-09T18:20:34+00:00",
+  "updated_at": "2020-03-24T07:00:02+00:00",
+  "rating": 7,
+  "_site": "scp-wiki-cn",
+  "_fullname": "restartation"
+}

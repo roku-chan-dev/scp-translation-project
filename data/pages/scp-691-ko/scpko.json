@@ -1,0 +1,20 @@
+{
+  "title": "SCP-691-KO",
+  "content": "[[include :scpko:info:start]]\n**SCP-691-KO:** 밤\"손님\"\n**저자:** [[*user PIMANG]]\n[[include :scpko:info:end]]\n\n[[module CSS]]\n@import url(https://fonts.googleapis.com/css?family=Nanum+Pen+Script|Stylish);\n[[/module]]\n\n[[div style=\"display: none;\"]]\n[[include :scp-wiki:theme:flopstyle]]\n[[/div]]\n[[include :scpko:theme:night-rush-theme]]\n[[include :scpko:component:anomaly-class-bar-source\n\n|item-number= 691-KO\n\n|clearance= 3\n\n|container-class= 케테르\n\n|secondary-class= none\n\n|disruption-class= 플람\n\n|risk-class= 주목\n\n]]\n\n\n**특수 격리 절차:** SCP-691-KO가 포착된 감시 카메라 기록은 조작 및 수거되며, SCP-691-KO를 언급하는 인터넷 매체는 재단 소속 웹크롤러를 통해 삭제된다.\n\nSCP-691-KO 발생 시 목격자들에게는 B급 기억소거제를 투여하며, 이때 생성된 물체는 익명의 단체나 개인이 보낸 것이라는 내용의 역정보를 살포한다.\n\n제21K기지 이사관의 재량 하에, SCP-691-KO 발생 이후 생성된 물체를 서류 가방과 편지에 한하여 수거 후 폐기하거나 제21K기지의 비중요 물품 보관소에 보관한다.\n\n**설명:** SCP-691-KO는 불규칙한 주기로 대한민국에 위치한 가게들 중 한 지점에 서류 가방 하나가 출현하는 현상이다.\n\nSCP-691-KO는 늦은 밤에서 새벽 사이의 손님이 없는 시간대에 발생하며, 이때 서류 가방이 출현하는 위치는 무작위이나 계산대나 테이블 등 주변인들의 눈에 띄기 쉬운 곳에 출현하는 양상을 보인다.\n\n특기할 점으로, 현재까지 SCP-691-KO가 발생한 적이 있는 가게는 발생 당시 다음의 특징 중 최소 2가지 이상을 갖추고 있었다.\n\n* 하루에 24시간 동안 영업한다.\n* 주말과 공휴일을 포함하여 매일 영업한다.\n* 가게의 주인이나 가게의 직원이 하위소득층에 속해 있다.\n* 시설이 다소 열약하다.\n* 사고로 인해 재건된 상태이다.\n* 6개월 이상 적자가 지속되고 있다.\n* 자금 문제로 폐업할 예정이었다.\n\nSCP-691-KO를 통해 생성된 서류 가방 내에는 최소 3천만원에서 최대 1억원 상당의 지폐 묶음과 편지 하나가 들어있으며, 편지에 쓰인 편지지와 편지의 내용, 필체는 항상 동일하다. 편지의 내용은 부록 1을 참조할 것.\n\n현재 SCP-691-KO의 필체를 기반으로 SCP-691-KO의 기원을 파악하고자 하는 조사가 이루어지고 있다.\n\n**부록 1:** 편지의 내용\n\n[[div class=\"journal\"]]\n[[span style=\"font-family: 'Nanum Pen Script' ;font-size: 23px;\"]]\n##black|지금까지 얼마나 밤을 지새우며 고생하셨는지 압니다. 힘내세요.\n[[span style=\"font-family: 'Nanum Pen Script' ;font-size: 23px;\"]]\n##당신이 하는 일이 비록 소박한 것으로 보일지언정, 당신은 엄연히 이 사회에서 중요한 사람들 중 한 명입니다.\n@@ @@\n@@ @@\n@@ @@\n[[/span]]\n[[/span]]\n[[/div]]\n\n\n\n**부록 2: 사건 기록 SCP-691-KO-1**\n\n2015년 12월 16일, 서울특별시 종로구 종로동에서 [[[scp-310-ko|SCP-310-KO]]] 개체가 출현하였다. 당시 출현한 SCP-310-KO-1의 신분은 2008년 사고사한 민간인 박██로 밝혀졌으며, 이전에도 동일한 장소에서 출현한 적이 자주 있었다. 대상은 다른 사람들과의 마찰 없이 평소처럼 포장마차를 운영하였는데, 이후 밤 10시 32분 즈음 SCP-310-KO 내에 SCP-691-KO가 발생하여 접이식 테이블 위에 5천만원 정도로 추정되는 지폐 묶음과 편지가 든 서류 가방이 출현하였다. 이를 목격한 SCP-310-KO-1은 당황하다가, 서류 가방을 연 뒤 안정을 되찾고 눈물을 흘리는 모습을 보였다. SCP-310-KO-1는 기도를 한 뒤 지폐묶음과 함께 사라졌으며, 이어서 대상이 운영하던 SCP-310-KO 또한 사라졌다.\n\n사건이 일어난지 4일 후인 2015년 12월 20일, SCP-310-KO가 출현하였던 장소에 다음과 같은 내용이 적힌 포스트잇이 발견되었다.\n\n[[div style=\"display: inline-block; border:dashed 1px #999999; background:#A5ACAF; float:center; width:84%; padding:1px 15px; margin: 10px 10px 10px 40px\"]]\n[[span style=\"font-family: 'Stylish' ;font-size: 15px;\"]]\n= //또 한 명에게 자유를 주셔서 감사합니다. —심야클럽.//\n[[/span]]\n[[/div]]\n\n이후 박██와 동일한 신분의 SCP-310-KO-1와 대상이 운영하던 포장마차의 모습을 한 SCP-310-KO 개체는 현재까지도 출현하지 않고 있다.",
+  "tags": [
+    "ko",
+    "scp",
+    "심야클럽",
+    "야행성",
+    "외부엔트로피",
+    "인공물",
+    "케테르",
+    "화폐"
+  ],
+  "author": "PIMANG",
+  "created_at": "2024-05-25T08:20:17+00:00",
+  "updated_at": "2024-05-26T07:30:51+00:00",
+  "rating": 6,
+  "_site": "scpko",
+  "_fullname": "scp-691-ko"
+}

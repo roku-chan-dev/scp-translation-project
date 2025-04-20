@@ -1,0 +1,21 @@
+{
+  "title": "SCP-2537",
+  "content": "[[include component:image-block name=http://scp-wiki.wdfiles.com/local--files/scp-2537/800px-5.22.10DonatoSquareByLuigiNovi5.jpg | caption=收集SCP-2537个体的人员（由特工[https://commons.wikimedia.org/wiki/File:5.22.10DonatoSquareByLuigiNovi5.jpg Novi]拍摄）]]\n\n**项目编号：**SCP-2537\n\n**项目等级：**Euclid\n\n**特殊收容措施：**被捕获的SCP-2537个体收容在Site-44内单独标准人形收容间。SCP-2537的侦测和拘捕当前交由MTF Beta-13（“忧愁河上”）进行。\n\n**描述：**SCP-2537是一类异常人形个体，具有变形为粘土砖块的能力。变形可以随个体意愿进行，耗时约3秒。在满月的夜晚，SCP-2537个体一旦看见月球将发生强制变身。目击[[[SCP-1812]]]也会导致相似的强制变身。\n\nSCP-2537可以在砖块状态下通过钝击他人头部来将其转化为新个体，但成功转化所需的确切力量大小当前未知。这一般需要多个个体协同合作、或是一个个体从高处跳下后在半空变身才能实现。然而因其自身性质，此种转化尝试时常导致受害者死亡。个体并没有经历过要去钝击人类的冲动。\n\n个体在砖块状态下所受伤害会在人类形态下继续维持，反之亦然。在砖块形态下遭受严重的结构性损坏似乎能将个体消灭，使其一直停留在砖块状态。在两种形态下个体都不具有反常的力量或强韧性，这也使得受感染者的威胁有限，因其在加速撞击的过程中可能损伤自己。\n\n[[include component:image-block name=http://scp-wiki.wdfiles.com/local--files/scp-2537/werebricks | caption=发现期间拍摄的照片 | align=left]]\n\n在每月第二个新月之夜前，所有个体会试图聚集在某一河流或溪流边。当前就这是人形个体的异常冲动还是本能存在争议。在集会中，SCP-2537会产生一种砂浆分泌物，将自己和非异常砖块一起堆砌为桥梁。在月亮落下后，分泌物将液化分解，个体也会重新散开。\n\n在其修筑桥梁期间，河对岸的外观会逐步地发生变化。此现象仅在桥梁开始端的河岸边可见。未知SCP-2537成功建起桥梁后会发生什么。\n\n[[footnoteblock]]\n\n[[div class=\"footer-wikiwalk-nav\"]]\n[[=]]\n<< [[[SCP-2536]]] | SCP-2537 | [[[SCP-2538]]] >>\n[[/=]]\n[[/div]]\n\n[[include :scp-wiki-cn:component:license-box\n|author=TwistedGears\n|translator=ashausesall\n]]\n=====\n> **文件名：**800px-5.22.10DonatoSquareByLuigiNovi5.jpg\n> **图像名：**5.22.10DonatoSquareByLuigiNovi5.jpg\n> **图像作者：**Nightscream\n> **授权协议：**CC BY 3.0\n> **来源链接：**[https://commons.wikimedia.org/wiki/File:5.22.10DonatoSquareByLuigiNovi5.jpg Wikimedia]\n\n> **文件名：**werebricks\n> **图像作者：**PickYerPoison\n> **授权协议：**CC BY-SA 3.0\n> **来源链接：**[http://scp-wiki.wikidot.com/scp-2537 SCP Wiki]\n> **衍生自：**\n> ------\n> **图像名：**Clifton Hampden Bridge - geograph.org.uk - 1277066.jpg 和 Mountain Peak, Alaska (1999).jpg\n> **图像作者：**Steve Daniels 和 Andrew Shiva\n> **授权协议：**CC BY-SA 2.0 和 CC BY-SA 4.0\n> **来源链接：**[https://commons.wikimedia.org/wiki/File:Clifton_Hampden_Bridge_-_geograph.org.uk_-_1277066.jpg Wikimedia] 和 [https://commons.wikimedia.org/wiki/File:Mountain_Peak,_Alaska_%281999%29.jpg Wikimedia]\n> **备注：**以上两张图像由 PickYerPoison 编辑并组合。\n=====\n[[include :scp-wiki-cn:component:license-box-end]]",
+  "tags": [
+    "euclid",
+    "scp",
+    "人形生物",
+    "传染性",
+    "变形",
+    "形态改变",
+    "感知力",
+    "智能",
+    "活物"
+  ],
+  "author": "M Element",
+  "created_at": "2017-09-12T13:00:47+00:00",
+  "updated_at": "2022-02-15T02:35:15+00:00",
+  "rating": 1,
+  "_site": "scp-wiki-cn",
+  "_fullname": "scp-2537"
+}

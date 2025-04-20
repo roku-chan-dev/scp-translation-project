@@ -1,0 +1,19 @@
+{
+  "title": "SCP-6509",
+  "content": "[[div style=\"display: none;\"]]\n[[include :scp-wiki:theme:flopstyle]]\n[[/div]]\n[[include :scp-wiki-cn:theme:scp-offices-sigma]]\n[[include :scp-wiki:component:centered-header-sigma-9]]\n[[module CSS]]\n :root{\n   --lgurl: url(https://scp-wiki.wdfiles.com/local--files/component:pride-highlighter/lgbtqp_logo.svg);\n}\n .footnotes-footer{\n     display: none;\n}\n[[/module]]\n[[include :scp-wiki:component:acs-animation]]\n[[module CSS]]\n/*-- ACS Lite Animation Compatibility Patch --*/\n.anom-bar > .bottom-box::before { display: none; }\n.anom-bar > .bottom-box { box-shadow: none!important; }\ndiv.diamond-part { clip-path: none; animation: none; box-shadow: none!important; }\n@media (max-width: 480px) {\ndiv.top-right-box { clip-path: polygon(0% -30%, 100% -30%, 100% 130%, 0% 130%); }\n}\n[[/module]]\n\n[[=]]\n[[image http://scp-wiki.wikidot.com/local--files/scp-6509/kaktuswarning.png]]\n[[/=]]\n[[include :scp-wiki:component:acs-peppo-lite\n|item-number= SCP-6509\n|clearance= 4\n|container-class= safe\n|secondary-class=\n|secondary-icon=\n|disruption-class= dark\n|risk-class= notice\n]]\n----\n[[include :scp-wiki:component:image-block-peppo\n|name=http://scp-wiki.wikidot.com/local--files/scp-6509/bulletbw2.jpg\n|caption=SCP-6509实例。\n|width=300px\n]]\n**特殊收容措施：**所有SCP-6509实例已从原弹筒中移出，收容在高安全级存储库中。SCP-6509-α存放于[http:/scp-int.wikidot.com/i-57-hub Facility-9]太平间内。\n\n枪支测试请求已事先否决。\n\n**描述：**SCP-6509为一组各式步枪子弹，能够抵抗逆因果或现实重构事件影响。个体均能在休谟场周围产生极高能量，使其毗邻空间成为超现实。即使当地时空发生剧烈变化，SCP-6509也能够持续存在。\n\nSCP-6509发现于哥伦比亚北部，Sipí镇，一座废弃建筑内。--所有--[[footnote]]已过期，见下方描述SCP-6509-α。[[/footnote]]大多实例显示的条纹与先前发射的步枪一致。\n\nSCP-6509-α为一具身份不明的人类尸体，被发现躺在 Sipí 郊区的岩岸址上。当地验尸报告发布不久，该尸体从当地太平间转移到基金会，报告中详述了几处显著异常。\n\nSCP-6509-α的声带被手术方式切断，或早于死亡时间。指纹被物理移除或异常抹消。尽管可提取生物特征，但与现有记录均不匹配，故无法进行识别。SCP-6509-α周遭的休谟水平表明，其或具有与SCP-6509相同的抵抗能力。确认死因为单次自我施加的头部枪击。\n\n保管期间，对SCP-6509-α的个人物品进行收缴。对象死时携带物品如下：\n* 数枚未使用的SCP-6509实例。\n* 一把非异常M24狙击步枪及一把M1911手枪。\n* 几张撕破的纸片，因水渍和黑色马克笔划痕而难以辨认。虽然原始文本无法阅读，但尝试恢复表明这些文件最初可能印有美国超自然军事部PENTAGRAM 的标志。\n* 一张合照，人物身份未知。两人微笑着握手，一面红旗挂在背景中，与任何国家或阵营均不匹配。前景是一群欢欣鼓舞的围观者。\n[[div class=\"footer-wikiwalk-nav\"]]\n[[=]]\n<< [[[SCP-6508]]] | SCP-6509 | [[[SCP-6510]]] >>\n[[/=]]\n[[/div]]\n\n[[=]]\n[[include :scp-wiki-cn:component:license-box |author=jackVS]]\n=====\n> **Filename:** bulletbw2.jpg\n> **Name:** Used\n> **Author:** Christian Schirner\n> **License:** CC BY-SA 2.0\n> **Source Link:** https://www.flickr.com/photos/37454700@N03/18559333974\n=====\n> **Filename:** kaktuswarning.png\n> **Author:** [[*user djkaktus]]\n> **License:** CC BY-SA 3.0\n> **Source Link:** https://scp-wiki.wikidot.com/scp-5935\n=====\n[[include :scp-wiki-cn:component:license-box-end]]\n[[/=]]",
+  "tags": [
+    "safe",
+    "scp",
+    "五芒星",
+    "尸体",
+    "武器",
+    "现实扭曲",
+    "金属"
+  ],
+  "author": "Hg-lab",
+  "created_at": "2022-07-14T07:44:57+00:00",
+  "updated_at": "2023-03-19T15:17:40+00:00",
+  "rating": 2,
+  "_site": "scp-wiki-cn",
+  "_fullname": "scp-6509"
+}

@@ -1,0 +1,17 @@
+{
+  "title": "SCP-341-JP",
+  "content": "[[include component:image-block\n|name=http://scpsandbox-jp.wdfiles.com/local--files/kainndo/%E3%81%8A%E3%81%98%E3%81%84%E3%81%95%E3%82%9302.jpg\n|caption=一个SCP-341-JP个体。\n|width=300px\n]]\n**项目编号:** SCP-341-JP\n\n**项目等级:** Safe\n\n**特殊收容措施:** SCP-341-JP被收容于Site-8141的容器中。不可与对象进行物理接触。每个个体需用铁链连接，防止在收容失效时大范围扩散。连带出现的腐败液体需进行消毒处理。\n\n**描述:** SCP-341-JP是一个由28名儿童和11名老人组成的组织。起源未知，但可能是由于████引起的。没有生理需求，基本上是笑着徘徊着向外走。\n\n当SCP-341-JP发现人类时，就会聚集在周围并尝试进行各种问候和交流。但是，接触前的问候大多表示离别。此时，触摸对象的人会留下腐败的液体并消失。这种液体以对象消失24小时前居住的地点为中心出现。腐败的液体本身没有异常，但由于极其恶臭，必须立即将其除去。\n\n每个个体都会对年龄相近的人表现得亲近。例如，在19██/██/██的报告中，不断敲打Site-8141附带的托儿所的墙角。\n\n[[include component:image-block\n|name=http://scpsandbox-jp.wdfiles.com/local--files/kainndo/%E3%83%90%E3%82%A4%E3%83%90%E3%82%A4%E5%AD%90%E4%BE%9B.jpg\n|caption=19██/██/██，收容失效时。\n|width=300px\n]]",
+  "tags": [
+    "jp",
+    "safe",
+    "scp",
+    "人形生物",
+    "群体性"
+  ],
+  "author": "Mint chocolate",
+  "created_at": "2018-07-10T13:25:20+00:00",
+  "updated_at": "2018-07-10T13:25:32+00:00",
+  "rating": 2,
+  "_site": "scp-wiki-cn",
+  "_fullname": "scp-341-jp"
+}

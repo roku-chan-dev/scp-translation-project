@@ -1,0 +1,14 @@
+{
+  "title": "SCP-6747 Fragment 0",
+  "content": "[[include :scp-wiki:theme:admo]]\n\n[[div class=\"admo-accessibility\"]]\n[[span class=\"cond\"]]>> [/scp-6747/offset/1 アクセシビリティモードで閲覧] <<[[/span]]\n[[/div]]\n\n[[module CSS]]\n\n:root {\n\n--admo-backdrop: url(http://scp-jp-storage.wikidot.com/local--files/file:6370408-40-w407/admo-6747-backdrop.webp);\n\n--admo-color-bright: 130, 80, 160;\n--admo-color-dim: 11, 5, 26;\n--admo-color-dark: 5, 0, 8;\n--admo-color-alt: 116, 77, 135;\n\n--general-border-color: 37, 30, 50;\n--basalt-tertiary-color: 34, 10, 44;\n--darkdocument-background-color: 14, 4, 18;\n\n--side-bar-link-color-hover: var(--basalt-light-text-color);\n--top-bar-dropdown-link-color-hover: var(--basalt-light-text-color);\n--login-status-text-color-hover: var(--basalt-light-text-color);\n--selection-text-color: var(--basalt-light-text-color);\n\n--one-color: 34, 187, 68 !important;\n--six-color: var(--admo-color-bright);\n\n}\n\n[[/module]]",
+  "tags": [
+    "en",
+    "フラグメント"
+  ],
+  "author": "Witherite",
+  "created_at": "2022-05-14T00:51:25+00:00",
+  "updated_at": "2023-01-29T06:59:25+00:00",
+  "rating": 1,
+  "_site": "scp-jp",
+  "_fullname": "fragment:scp-6747-0"
+}

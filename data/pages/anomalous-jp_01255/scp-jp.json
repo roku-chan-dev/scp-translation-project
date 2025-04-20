@@ -1,0 +1,14 @@
+{
+  "title": "01255",
+  "content": "content: **説明:** '82本の手が生えた奇形のハブ(//Protobothrops flavoviridis//）。それぞれの手に16進数の数字の模様が見られる。'\\n**回収日:** 20██/██/██\\n**回収場所:** サイト-81██の図書館\\n**現状:** サイト-81██の低脅威度生物収容容器で飼育中\\n**追記:** 頭部から近い順に手の数字をASCIIコードに変換し並べた物：[[[http://ja.scp-wiki.net/serpent-s-hand-hub|http://ja.scp-wiki.net/serpent-s-hand-hub]]]\ntf2: '0'\nauthor: ''\nredirect-b: '[[module Redirect destination=\"http://ja.scp-wiki.net/log-of-anomalous-items-jp'\nredirect-e: '\"]]'",
+  "tags": [
+    "jp",
+    "剪定対象-子"
+  ],
+  "author": "WagnasCousin",
+  "created_at": "2019-11-24T14:18:39+00:00",
+  "updated_at": "2021-05-24T13:10:06+00:00",
+  "rating": 9,
+  "_site": "scp-jp",
+  "_fullname": "anomalous-jp:01255"
+}

@@ -1,0 +1,14 @@
+{
+  "title": "자립형 페이지 옵션 버튼",
+  "content": "경우에 따라서는 사용자에게 기본 페이지 옵션을 숨기고 선택한 버튼만 제공하는 것이 더 편리할 수 있습니다. 이 작업을 수행하기 위한 구문은 아래와 같습니다.\n\n{{@@[[button@@ //종류// //옵션//]]}}\n\n//종류//에 들어갈 것: {{edit}}, {{edit-append}}, {{edit-sections}}, {{history}}, {{print}}, {{files}}, {{tags}}, {{source}} (페이지 소스 보기), {{backlinks}}, {{talk}} (미디어위키/위키백과와 비슷하게 작동합니다), {{delete}}, {{rename}}, {{site-tools}}, {{edit-meta}}, {{watchers}}, {{parent}}, {{lock-page}}.\n\n가능한 속성은 아래와 같습니다.\n* text -- 대체 텍스트가 표시됩니다\n* class -- A 요소에 대한 CSS 클래스\n* style -- CSS 스타일 정의\n\n아이콘이 있는 \"소스 보기\"와 \"프린트\" 버튼을 만들려면 아래 코드를 사용하면 됩니다.\n[[code]]\n[[>]]\n[[button source style=\"background-image: url(http://www.wikidot.com/local--files/files/view-source.png); background-repeat: no-repeat; background-position: bottom right; padding-right: 20px; color: #444\"]]\n[[button print style=\"background-image: url(http://www.wikidot.com/local--files/files/document-print.png); background-repeat: no-repeat; background-position: bottom right; padding-right: 20px;color: #444\"]]\n[[/>]]\n[[/code]]\n\n그러면 이렇게 나옵니다.\n[[>]]\n[[button source style=\"background-image: url(http://www.wikidot.com/local--files/files/view-source.png); background-repeat: no-repeat; background-position: bottom right; padding-right: 20px; color: #444\"]]\n[[button print style=\"background-image: url(http://www.wikidot.com/local--files/files/document-print.png); background-repeat: no-repeat; background-position: bottom right; padding-right: 20px;color: #444\"]]\n[[/>]]",
+  "tags": [
+    "관리",
+    "안내"
+  ],
+  "author": "Dr Devan",
+  "created_at": "2014-12-25T12:22:29+00:00",
+  "updated_at": "2017-11-11T16:32:44+00:00",
+  "rating": 0,
+  "_site": "scpko",
+  "_fullname": "wiki-syntax:buttons"
+}

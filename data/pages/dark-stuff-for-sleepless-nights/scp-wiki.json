@@ -1,0 +1,14 @@
+{
+  "title": "Dark Stuff for Sleepless Nights",
+  "content": "[[include :scp-wiki:theme:creepypasta]]\n[[include :scp-wiki:theme:anon]]\n\n[[module CSS]]\n div#header h1{\n     top: 20px;\n     background: url(https://scp-wiki.wikidot.com/local--files/the-smell-of-cellulose/parajack.png) no-repeat;\n}\n[[/module]]\n\n[[>]]\n[[module rate]]\n[[/>]]\n\n[[==]]\nHeya heya heya! I'm [[*user DarkStuff]], as might be **blindingly** obvious given the CSS and the title. I'll make this intro short. I have been commissioned by [[*user nosleep]] to make creepypastas at a regular rate. His specifications are that I make them based on singular mainlist SCPs, and that they can work as standalone articles. They're for his YouTube Channel, [*https://www.youtube.com/channel/UCQHD4P6lZNNt8vzfHlIOoXg Dr. SCP], for him and his team to add narration, animation, and sound to. To be transparent, it's not content //I// would consume, but what do I care? It's giving me a great reason to write weekly spooOOOOoooky stories, and I am having a //ton// of fun with it.\n\nSo really, there isn't anything else to say here. This is obviously where I am going to collect them all, so that someone who wants to read my creepypastas can use this hub to find them. Due to the (ahem, //ostensibly//) weekly nature of this arrangement, expect this hub to grow //rather fast.// As long as this arrangement holds up, this is eventually going to become a pretty large part of my authorship.\n\n> __Note from the Future:__ This well ran dry, so this is as big as this hub is getting! Still an interesting little thing that happened, and it yielded this fun branded CSS I'll be sure to put to use somewhere in the future. It's stylish! Okay, now. Ciao!\n\nSoooo... here you are! In reverse chronological order:\n\n* [[[Making Weight]]]\n* [[[The Grown-Up]]]\n* [[[The Mind as a Canopic Jar]]]\n* [[[Baby Don't Hurt Me|Get a Room]]]\n* [[[Tube Slides]]]\n* [[[Say Cheese]]]\n* [[[Smoking on Company Time]]]\n* [[[Online Dating]]]\n* [[[The Smell of Cellulose]]]\n[[/==]]",
+  "tags": [
+    "_tale-hub",
+    "hub"
+  ],
+  "author": "DarkStuff",
+  "created_at": "2021-05-10T21:58:30+00:00",
+  "updated_at": "2023-01-13T07:34:23+00:00",
+  "rating": 47,
+  "_site": "scp-wiki",
+  "_fullname": "dark-stuff-for-sleepless-nights"
+}

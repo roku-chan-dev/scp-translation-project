@@ -1,0 +1,14 @@
+{
+  "title": "SCP-4182-5",
+  "content": "----\n[[include :scp-wiki:component:classified-decoration\n|lv=1\n|item=4182-EX\n|oc=Explained\n|lang=JP\n]]\n----\n**特別収容プロトコル:** サイト-5への言及を目的に財団運営bot(I/O-SILVER)がIntSCPFNサーバーを検査します。これらのファイルは隔離され、修正のために勤務中のサーバー管理者に報告されます。\n\n**説明:** SCP-4182は財団内部ドキュメントが実在しないサイト(\"サイト-5\")への言及を含むよう周期的に改変される現象でした。当初はアノマリーによるものとされており、これは後にIntSCPFNのソースコード内の未補足の例外が原因で発生していたと特定されました。2019年現在、このエラーにはパッチが当てられています。現在SCP-4182はExplainedに指定されています。\n\n@@ @@\n\n@@ @@\n\n@@ @@\n\n@@ @@\n\n\n@@ @@\n\n@@ @@\n\n@@ @@\n\n@@ @@\n\n\n@@ @@\n\n@@ @@\n\n@@ @@\n\n@@ @@\n\n@@ @@\n\n@@ @@\n\n@@ @@\n\n@@ @@\n\n@@ @@\n\n@@ @@\n\n@@ @@\n\n@@ @@\n\n----\n[[=]]\n[[collapsible show=\"(1) 件の新着メールがあります\" hide=\" \"]]\n[[<]]\n[[div style=\"color: black; background:#DFFFF3 url(http://scp-wiki.wdfiles.com/local--files/the-great-hippo/scp_trans.png) center no-repeat; float: center; border: solid 1px #000000; padding: 15px 15px; box-shadow: 0 1px 3px rgba(0,0,0,.2); width: 84%; margin: 4% 4% 4% 4%\"]]\n**FROM:** J. Davis <##red|@@jdavis@scp.foundation.int@@##>\n**SUBJECT:** あいつらはうそをついてる。 \n----\nこれはしんじつ。\n\n[[html]]\n<video style=\"width:100%;height:100%\" controls>\n<source src=\"http://scp-jp-storage.wdfiles.com/local--files/file%3A3705485-23-n4ma/welcome_back.mp4\">\n</video>\n[[/html]]\n\n@@ @@\n\n@@ @@\n\n@@ @@\n\n@@ @@\n\n@@ @@\n\n@@ @@\n\nそこであおう。 ~:)\n\n[[/div]] \n\n\n\n[[/<]]\n[[/collapsible]]\n[[/=]]\n\n----",
+  "tags": [
+    "en",
+    "フラグメント"
+  ],
+  "author": "Fennecist",
+  "created_at": "2019-06-12T14:59:43+00:00",
+  "updated_at": "2023-08-23T10:23:56+00:00",
+  "rating": 1,
+  "_site": "scp-jp",
+  "_fullname": "fragment:scp-4182-5"
+}

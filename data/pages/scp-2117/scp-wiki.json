@@ -1,0 +1,26 @@
+{
+  "title": "SCP-2117",
+  "content": "[[>]]\n[[module Rate]]\n[[/>]]\n\n[[include component:scp-pride]]\n\n[[module css]]\nsup { \nvertical-align: top; position: relative; top: -0.5em; \n}\n[[/module]]\n\n[!--\nhttp://scp-wiki.wikidot.com/fragment:2117-1\nhttp://scp-wiki.wikidot.com/fragment:2117-2\nhttp://scp-wiki.wikidot.com/fragment:2117-3\nhttp://scp-wiki.wikidot.com/fragment:2117-4\n--]\n\n[[module ListPages category=\"fragment\" parent=\".\" limit=\"1\" order=\"created_at\" offset=\"@URL|0\"]]\n%%content%%\n[[/module]]\n\n[[div class=\"footer-wikiwalk-nav\"]]\n[[=]]\n<< [[[SCP-2116]]] | SCP-2117 | [[[SCP-2118]]] >>\n[[/=]]\n[[/div]]\n\n[[include :scp-wiki:component:license-box]]\n=====\n> **Filename:** 2117.png\n> **Author:** Cyantreuse\n> **License:** CC BY-SA 3.0\n> **Source Link:** [[[http://scp-wiki.wikidot.com/scp-2117/|SCP Wiki]]]\n> **Derivative of:**\n> ------\n> **Author:** Dr Reach\n> **License:** CC BY-SA 3.0 \n> **Source Link:** [[[http://scp-wiki.wikidot.com/scp-2117/|SCP Wiki]]]\n=====\n[[include :scp-wiki:component:license-box-end]]",
+  "tags": [
+    "_cc",
+    "_licensebox",
+    "_listpages",
+    "black-rabbit-company",
+    "extraterrestrial",
+    "heimdall",
+    "illustrated",
+    "inscription",
+    "observational",
+    "rewrite",
+    "scp",
+    "spatial",
+    "thaumiel",
+    "vehicle"
+  ],
+  "author": null,
+  "created_at": "2018-07-15T16:28:17+00:00",
+  "updated_at": "2024-07-26T11:08:43+00:00",
+  "rating": 292,
+  "_site": "scp-wiki",
+  "_fullname": "scp-2117"
+}

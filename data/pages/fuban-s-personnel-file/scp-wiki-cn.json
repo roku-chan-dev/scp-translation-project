@@ -1,0 +1,13 @@
+{
+  "title": "fuban的人事",
+  "content": "[[collapsible show=\"基本內容\"]]\n原創作品\n[[[SCP-CN-004]]]\n\n[[[amnestic-is-a-piece-of-cake|記憶刪除像塊蛋糕]]]\n[[[most-anomalous-thing-the-human-beings|空]]]\n[[[mousestalk|鼠談]]] - 中國鼠巢設定下的故事\n[[[module-guide|常用Module(ListPages與ListUsers)簡易教學]]] - 指導\n\n原創作品(合著)\n[[[SCP-CN-963-J]]] - 與[[*user qipajun]]合作(代碼部分)\n\n翻譯\n[[[SCP-929]]] - 重翻\n[[[SCP-936]]] - 重翻\n[[[SCP-3400]]] - 重翻\n[[[image-use-policy|图像使用原则]]] - 指導\n[[[doing-the-safety-dance|跟著安全性搖擺舞步]]] - 指導\n\n[[module ListPages order=\"updated_at desc\" created_by=\"=\" tag=\"原创\" separate=\"no\" ]]\n\n||%%title_linked%%||%%updated_at%%||%%updated_by_linked%%||\n[[/module]]\n\n\n[[code]]\n[[module ListPages order=\"updated_at desc\" created_by=\"=\" tag=\"原创\" separate=\"no\" ]]\n\n||%%title_linked%%||%%updated_at%%||%%updated_by_linked%%||\n[[/module]]\n[[/code]]\n[[/collapsible]]",
+  "tags": [
+    "作者"
+  ],
+  "author": "fuban",
+  "created_at": "2017-11-26T02:29:59+00:00",
+  "updated_at": "2018-06-19T11:51:29+00:00",
+  "rating": 15,
+  "_site": "scp-wiki-cn",
+  "_fullname": "fuban-s-personnel-file"
+}

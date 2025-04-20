@@ -1,0 +1,26 @@
+{
+  "title": "SCP-4190",
+  "content": "[[include theme:scp-trans-pride |trans-pride-logo= --] |trans-pride-footer= --]]]\n\n[[include component:preview text=散歩の途中で、被験者は周囲に黒い人影を見たと報告した。後ろを向いても、その位置は明らかにはならなかった。]]\n\n[[include credit:start]]\n**タイトル:** [[[https://scp-wiki.wikidot.com/scp-4190|SCP-4190 - A Twenty Thousand League Delay]]]\n**リビジョン:** 46\n**著者:** [[*user Lt Flops]]\n**邦題:** 二万里のずれ\n**作成年:** 2019\n[[include credit:end]]\n----\n[[module CSS]]\n/* INFO BOX */\nsup{\n    vertical-align: top;\n    position: relative;\n    top: -0.5em;\n}\nbody{\n    --cutColour: #fafafa;\n    --barColour: #590505;\n    color: rgb(12, 12, 12);\n}\n.translation_block{ display: none; }\n.u-faq{ display: none; }\n\n/* DIV BLOCKS */\n.testing-log{\n    border: 2px dashed #999;\n    border-radius: .61em;\n    background-color: #f4f4f4;\n    padding: .25em 1em;\n    margin-bottom: 1em;\n}\n.quote-block{\n    border: 3px double #999;\n    background-color: #f4f4f4;\n    padding: .25em 1em;\n    margin-bottom: 1em;\n}\n.researcher-note{\n    border: 1px solid rgb(12, 12, 12);\n    background-color: white;\n    padding: .25em 1em;\n    margin-bottom: 1em;\n    text-align: center;\n}\n\n/* FORMATTING */\nhr{\n     margin: 1em 0;\n     padding: 0;\n     border: 0;\n}\n[[/module]]\n\n\n[[table style=\"border: none; width: 100%;\"]]\n[[row]]\n[[cell]]\n[[span style=\"font-size: 125%;\"]][[span style=\"font-weight: 900;\"]]アイテム番号:[[/span]] SCP-4190[[/span]]\n[[/cell]]\n[[cell style=\"text-align: right;\"]]\n[[span style=\"font-weight: 900; font-size: 125%;\"]]LEVEL 2/4190[[/span]]\n[[/cell]]\n[[/row]]\n[[row]]\n[[cell]]\n[[span style=\"font-size: 125%;\"]][[span style=\"font-weight: 900;\"]]収容クラス:[[/span]] SAFE[[/span]]\n[[/cell]]\n[[cell style=\"text-align: right;\"]]\n[[span style=\"font-weight: 900; font-size: 125%;\"]]制限[[/span]]\n[[/cell]]\n[[/row]]\n[[/table]]\n\n[[include component:disruption-header-source\n|disruption-class=dark\n|disruption-bg-color=rgb(0, 99, 138)\n|disruption-text-color=rgb(252, 252, 252)\n]]\n----\n[[include :scp-sandbox-3:image-zoom name=arrival-of-the-mistaken-beast.jpg|caption=SCP-4190。潜在的な[[span class=\"ruby\"]]悪夢に関連している[[span class=\"rt\"]]Ephialteic[[/span]][[/span]]（悪夢を引き起こす）性質を持つすべてのテキストは削除されました（マウスホバーで拡大）。|width=325px|align=right]]\n\n**特別収容プロトコル:** SCP-4190はサイト-82のAnomalousオブジェクト棟の標準SAFEクラス収容ロッカーに保管されています。\n\n影のような人物に監視されたり追跡されたりする悪夢を繰り返し経験している職員は、標準夢報告書に自身の経験を記録し、これらの経験をサイト-82の精神科局に伝えてください。\n----\n**説明:** SCP-4190は軽量コート紙（LWC）に印刷された18cm×26cmの48ページある雑誌です。\n\n雑誌の内容は、ダイバー、潜水艇、潜水艦、自律型無人偵察機、魚を使った光学機器などが観測した深海の特異な現象の詳細な記述を特徴としています。\n\nSCP-4190の表紙または内容を読んだ人物は、3~7日以内に鮮明な入眠性幻覚[[footnote]]**入眠性幻覚:** 眠りにつく前に起こる夢のような感覚。[[/footnote]]を経験した後、悪夢を報告します。報告されるイベントは人によって異なります。殆どの人物が、夢の中で一人ではないという感覚を繰り返し報告しています。\n\nSCP-4190を用いた主な試験は以下の通りです。\n@@@@\n@@@@\n@@@@\n@@@@\n@@@@\n@@@@\n@@@@\n@@@@\n[[div class=\"testing-log\"]]\n[[=]]\n+++ 標準夢記録\n[[/=]]\n----\n**注:** 各参加者は管理された環境で、約30分間SCP-4190を読むように要求されました。読書から1週間以内に経験した悪夢は、サイト内の精神科医に伝えられ、オーディオ機器で記録されました。\n\nこの試験では、意欲的な参加者のみが選ばれました。\n[[/div]]\n\n[[div class=\"quote-block\"]]\n**参加者:** D-3467\n\n**推定想起率:** [[span style=\"color: firebrick;\"]]低[[/span]]\n----\n**悪夢の概要:** 参加者は、暗く湿った狭い廊下を歩いていると報告した。天井も廊下の端も、夢の中のどの時点でも見えなかった。散歩の途中で、参加者は周囲に黒い人影を見たと報告した。後ろを向いても、その位置は明らかにはならなかった。\n[[/div]]\n\n[[div class=\"quote-block\"]]\n**参加者:** D-3852\n\n**推定想起率:** [[span style=\"color: #FF4F00;\"]]中[[/span]]\n----\n**悪夢の概要:** 参加者は、密林の端にある高い丘のふもとに到着したと報告した。自然または人工的な明かりは報告されなかったが、夕暮れであると主張した。参加者は丘を登った。道中で躓いて3分の1程の進捗を失った後、監視されているような感覚を報告した。参加者は潜在的な捕食者を探すために夢の残り時間を費やしたが、何も見つけることは出来なかった。\n[[/div]]\n\n[[div class=\"quote-block\"]]\n**参加者:** [[[*scp-4519|超常現象スペシャリスト　サマラ・マクレア]]]\n\n**推定想起率:** [[span style=\"color: green;\"]]高[[/span]]\n----\n**悪夢の概要:** 参加者は、[[[what-lurks|枯れ木と濃い霧に囲まれた大きな黒い門]]]の前で息を切らしていると報告した。フェンスや結合材は見つからなかった。門を開けることに失敗した後、180度向きを変えて障壁から離れたが、門が参加者の前に現れ、足止めした。この行動を約49回試みたが、無駄だった。\n\n夢の終わり頃に、参加者は門の反対側に自分たちに向かってよろめきながら歩いている不定形の姿を見つけた。霧が濃くなって見えなくなるまで、実体との直接的な視覚接触を維持した。\n[[/div]]\n\n[[div class=\"quote-block\"]]\n**参加者:** サイト内研究員ジェシー・クアトロチョッキ\n\n**推定想起率:** [[span style=\"color: #FF4F00;\"]]中[[/span]]\n----\n**悪夢の概要:** 参加者は夢の中で目を覚まし、サイトを横断していると思い込んだ。指定された超常科学研究ステーションに行こうとしたが、廊下が回り道になっており、さらに元の場所に戻ってくるようになっていた。夢を見ていられる時間のうちのほとんどを消費してしまったが、その後、逆に戻って自分の部屋に入ると、枕の上には手書きの破れたメモが見つかった。\n\nメモは次のようだった。\n\n[[div class=\"researcher-note\"]]\n君達は素晴らしい仕事をしている\nどうかそのまま続けてくれ\n私達はとても楽しい\n私達は恨んでいない\nどちらでも構わない\nジョークは死なない\n私達のために\n[[/div]]\n[[/div]]\n\nSCP-4190の試験は中止されました。職員は夢を見続けるように伝えられます。",
+  "tags": [
+    "_全ては夢",
+    "en",
+    "jam-con2019",
+    "safe",
+    "scp",
+    "サマラ・マクレア",
+    "サメ殴りセンター",
+    "不定形",
+    "幻覚",
+    "文書",
+    "睡眠",
+    "要翻訳",
+    "視覚",
+    "認識災害"
+  ],
+  "author": "Extra3002",
+  "created_at": "2020-03-13T04:28:39+00:00",
+  "updated_at": "2024-09-17T19:56:15+00:00",
+  "rating": 8,
+  "_site": "scp-jp",
+  "_fullname": "scp-4190"
+}

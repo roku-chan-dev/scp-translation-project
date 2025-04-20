@@ -1,0 +1,26 @@
+{
+  "title": "SCP-6871",
+  "content": "[[include :scp-jp:theme:black-highlighter-theme]]\n[[include :scp-jp:component:bhl-dark-sidebar]]\n[[include :scp-jp:component:centered-header-bhl]]\n[[include :scp-wiki:theme:the-coalition-theme]]\n[[include :scp-jp:component:toggle-sidebar-bhl]]\n[[include :scp-jp:component:fade-in speed=4]]\n[[module CSS]]\n:root {\n    --timeScale: 6;\n    --timeDelay: 6s;\n}\n\n#page-content hr {\nborder-top: none;\nheight: .05em;\nbackground: #454545;\n}\n#page-title {\n  display: none;\n}\n.footnotes-footer {\ndisplay: none;\n}\n[[/module]]\n\n[[module css]]\n.collection .collapsible-block-unfolded-link a , .collection .collapsible-block-folded a {\nbackground-color: #21284E !important;\ncolor: #FFFFFF !important;\n}\n\n.titlecolumn {\nbackground-color: #21284E !important;\ncolor: #FFFFFF !important;\n}\n\n.namerow {\nbackground-color: #21284E !important;\ncolor:  #FFFFFF !important;\n}\n\n.namerow a {\n  color:  #FFFFFF !important;\n}\n[[/module]]\n\n[[include :scp-jp:credit:start]]\n**タイトル:** SCP-6871 - 瞬く間に\n**翻訳責任者:** [[*user walksoldi]]\n**翻訳年:** 2021\n**原題:** SCP-6871 - In the Blink of an Eye\n**著作権者:** [[*user Ralliston]]\n**作成年:** 2021\n**初訳時参照リビジョン:** 21\n**元記事リンク:** [*https://scp-wiki.wikidot.com/scp-6871 SCP-6871]\n[[include :scp-jp:credit:end]]\n\n[[div style=\"text-align: right; margin-top: 0px;\"]]\n[[size 80%]]##757575|by Ralliston##[[/size]]\n[[/div]]\n \n[[include :scp-jp:component:info-ayers\n|lang=jp\n|page=scp-6871\n|authorPage=http://scp-wiki.wikidot.com/ralliston-s-authorpage\n|comments= 超重要なライセンス情報についてはディスカッションの著者ポストを参照してください。\n]]\n\n[[include :scp-wiki:component:classified-bar-woed\n|lv=6\n|item=6871\n|oc=Thaumiel\n|lang=JP\n]]\n\n[[module css]]\ndiv.scale { \n  --woedbar-lvl6-color: #21284E;\n}\n[[/module]]\n\n[[module CSS]]\n   body {\n    --barColour: #21284E\n}\n[[/module]]\n\n\n**特別収容プロトコル:** SCP-6871の実行方法と材料に関する情報は --O5評議会-- 管理者のみに制限されます。無認可の人物がこの情報を入手しようとした場合はその場で終了します。\n\nSCP-6871に関する実験は最低でも5人[[footnote]]現在は管理者、マリア・ジョーンズ、O5-1、O5-13、ギアーズ博士から成ります。[[/footnote]]が立ち合い、実行中はSCP-6871のファイルとともに必ず[[[SCP-3936|次元サイト-01]]]に駐在するものとします。同様に、因果ループパラドックスを避けるため、実験を実施する職員はこのサイトに駐在し、SCP-6871の実行対象はサイト外にある物とします。\n\n**説明:** SCP-6871は人間や物体、現象を基軸タイムラインから消去できる奇跡論儀式です。適切に実行すると、当タイムラインでの対象による影響と行動が遡及的に消去され、置き換えられます。\n\n**発見経緯:** [[[[SCP-6936|RAISA管理官、マリア・ジョーンズの緊急司令に基づき編集済]]]]\n\n**補遺6871-1:** SCP-6871実験ログ\n\n||~ 実験番号 ||~ 実施した人物 ||~ 除去対象 ||~ 結果 ||\n|| #1 || D-51832 || 無作為に選出した1枚の1ドル紙幣 || 変化は見られなかった。 ||\n|| #2 || D-51832 || ブレンダ博士が先日コーヒーを購入するのに用いた1枚の1ドル紙幣 || その日を通して、ブレンダ博士は目に見えて疲れが増し、消去前に比べて現プロジェクトの進捗が明らかに遅くなっていた。 ||\n|| #3 || D-81920 || D-51832 || これまでの実験が結果も含めて全て元に戻った。 ||\n|| #4 || D-91726 || D-81920 || D-81920の存在を除けば実験#2と同一の状態に現実が戻った。 ||\n|| #5 || D-51832 || ブレンダ博士 || ブレンダ博士が担当していた数々のオブジェクトに関する研究が目に見えて進んでおり、ウィリアム博士 (ブレンダ博士と地位を争っていた人物) が彼女よりも遥かに高いクリアランスレベルを得ていた。 ||\n|| #6 || D-51832 || ウィリアム博士 || ブレンダ博士とウィリアム博士がかつて争っていた地位には誰も配属されておらず、結果として既知のSCPオブジェクト7つの発見が無かったことになった。 ||\n|| #7 || D-51832 || イライアス・ショー博士 || ショー博士の現在の宿主は通例どおり消去されたが、[[[SCP-963]]]はショー博士の意識も含め無傷であった。 ||\n|| #8 || D-51832 || イライアス・ショー博士の計126人の宿主 || 126人全員が通例どおり消去されたが、別の126人がショー博士の宿主となっていたことが判明した。 ||\n|| #9 || D-51832 || SCP-963 || ショー博士の意識が、当人が達成してきた全ての研究進捗とともに消失した。 ||\n|| #10 || D-17253 || D-51832 || D-51832の存在を除けば実験前と同一の状態に現実が戻った。 ||\n|| #11 || 管理者 || SCP-6871 || N/A -- タイムパラドックスを避けるため、[[[welcome-to-delta-t|RCT-Δt]]]が却下。 ||\n|| #12 || O5-12 || [[[SCP-682]]] || 儀式が適切に実行され、SCP-682とともにそれが負わせた損傷が消去されたにもかかわらず、数秒後にSCP-682が収容セルに再出現し、「[[span class=\"ruby\"]]哀れ[[span class=\"rt\"]]Pathetic[[/span]][[/span]]」と言い残した。この件についてはそれ以上の説明を拒否した。 ||\n|| #13 || O5-12 || [[[SCP-1000]]] || 夜闇の子らの種全体が消去され、結果として人類が誕生時から支配種に君臨していたことになった。人類社会は見違えるほどに発展を遂げ、多数の神格実体や卓越した先進技術が統合されていた。||\n|| #14 || D-91826 || O5-12 || 3つ前までの実験は評議会直々の命令なしに実施され、壊滅的な結果を残したため、実験#12より前の状態に現実が戻された。 ||\n|| #15 || O5-2 || [[[chaos-insurgency-hub|機動部隊アルファ-1 (\"レッド・ライト・ハンド\")]]] || 財団の全科学職員の2%と全機動部隊の1.5%とともに、カオス・インサージェンシーが基軸現実から消失した。詳細な調査が進められている。 ||\n|| #16 || O5-8 || [[[goc-hub-page|D.C. アルフィーネ]]] || D.C. アルフィーネが世界オカルト連合とともに消失した。結果として、SCP財団は世界の主要な超常組織となり、[[[sarkicism-hub|崇高なるカルキスト・イオン]]]とクラヴィガルの率いる世界規模の反乱組織が現在の競合相手となった。 ||\n|| #17 || O5-3 || 崇高なるカルキスト・イオン || 人類社会が青銅器時代の度合いにまで逆行した。人類の進展のほとんどが、[[[church-of-the-broken-god-hub|壊れた神の教会]]]とO5評議会の全メンバーとともに現実から消失した。記録によれば、人類は3000年以上前からこの時代より先に進展できなかったようである。詳細な調査が進められている。 ||\n|| #18 || 管理者 || || //こんなことを許してしまってすまない。本当に、本当にすまなかった。//  ||\n-----\n**ファイル注釈:** 上記文書は、アメリカ合衆国オレゴン州において、森の中で正体不明の廃墟を発見したという民間人の報告を受けて連合軍が襲撃した際に、\"除外サイト-01\" と記された廃墟のディープウェルアーカイブから発見された。研究によれば、この建物は築2000年以上は経過しており、\"SCP財団\" と呼称される異常現象の収容に特化した世界的組織のものだとされている。\n\nそのような名前の組織や、実在を支持する証拠は[[[unfounded-hub|存在しない]]]。",
+  "tags": [
+    "d.c.アルフィーネ",
+    "en",
+    "scp",
+    "thaumiel",
+    "パラドックス",
+    "不死身の爬虫類",
+    "世界オカルト連合",
+    "儀式",
+    "夜闇の子ら",
+    "奇跡術",
+    "崇高なるカルキスト・イオン",
+    "時間",
+    "管理者",
+    "財団のない世界"
+  ],
+  "author": "walksoldi",
+  "created_at": "2021-11-02T00:59:24+00:00",
+  "updated_at": "2025-03-11T10:20:53+00:00",
+  "rating": 50,
+  "_site": "scp-jp",
+  "_fullname": "scp-6871"
+}

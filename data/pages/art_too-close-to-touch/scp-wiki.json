@@ -1,0 +1,16 @@
+{
+  "title": "Too Close to Touch (SCP-6988 Painting)",
+  "content": "[[include :scp-wiki:theme:night-rush-theme]]\n\n[[>]]\n[[module Rate]]\n[[/>]]\n\n[[include component:image-block\n| name=6988.jpg\n| width=1000px\n| caption= A double canvas painting of SCP-6988 using spray paint, acrylic, and pen.\n| align=center]]\n\n-----\n\n> Wanted to try something new in a slightly simplistic, yet different manner of painting by creating physical distance between two canvases that make one whole painting. It felt right to do it with 6988.",
+  "tags": [
+    "_cc",
+    "artwork",
+    "painted",
+    "scp-art"
+  ],
+  "author": "EmotionalEntropy",
+  "created_at": "2023-05-17T21:20:37+00:00",
+  "updated_at": "2024-03-28T18:43:50+00:00",
+  "rating": 43,
+  "_site": "scp-wiki",
+  "_fullname": "art:too-close-to-touch"
+}

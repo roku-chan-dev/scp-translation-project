@@ -1,0 +1,17 @@
+{
+  "title": "기나긴 귀향",
+  "content": "[[include :scpko:theme:penumbra]]\n\n[[module css]]\n:root {\n--header-title: \"기나긴 귀향\";\n--header-subtitle: \"어디서 외기러기는 울고 울고 가느니\";\n--accentColor: #EFEFFB;\n}\n[[/module]]\n\n[[module css]]\n#page-title {\ndisplay: none;\n}\n[[/module]]\n\n[[>]]\n[[module Rate]]\n[[/>]]\n\n> {{어느 사이에 나는 아내도 없고, 또,}}\n> {{아내와 같이 살던 집도 없어지고,}}\n> {{그리고 살뜰한 부모며 동생들과도 멀리 떨어져서,}}\n> {{그 어느 바람 세인 쓸쓸한 거리 끝에 헤매이었다.}}\n> [[>]]\n> {{— 백석, ‘남신의주유동박시봉방’ 中}}\n> [[/>]]\n\n\n-------\n\n[[=]]\n[[image \thttp://scpko.wikidot.com/local--files/ginagin-guihyang/hub-image width=\"500px\"]]\n[[/=]]\n\n-------\n\n# [[[gg-guests-1|종용: 밖에 나가서 바람 좀 쐬고 그래]]]\n# [[[gg-guests-2|떠다니는 역병의 신]]]\n# [[[gg-guests-3|김씨 표류기]]]\n# [[[gg-guests-4|서울에서 김서방 찾기]]]\n# [[[gg-guests-5|도깨비 할망구]]]\n# [[[gg-guests-6|나는 누군가 또 여긴 어딘가]]]\n# [[[gg-guests-7|미지로의 초대]]]\n# [[[gg-guests-8|더 해프닝 엣 더]]]\n# [[[gg-guests-9|떴다 떴다 비행기 날아라 날아라]]]\n# [[[gg-guests-10|JYD 에어세큐리티 고영주 사장에 대한 비고]]]\n# [[[gg-guests-11|선(禪)과 비행기 납치 준비 과정]]]\n# [[[gg-guests-12|역병신이 비행기를 하이잭했어(feat. 뱀대가리)]]]\n# [[[gg-guests-13|막으려는 자들과 지키려는 자들]]]\n# [[[gg-guests-14|오랜 귀향길 위에서]]]\n# [[[gg-guests-15|귀로]]]",
+  "tags": [
+    "_이야기-허브",
+    "ko",
+    "김철현",
+    "두술사",
+    "허브"
+  ],
+  "author": "Migueludeom",
+  "created_at": "2020-08-28T03:39:43+00:00",
+  "updated_at": "2024-09-08T15:04:08+00:00",
+  "rating": 32,
+  "_site": "scpko",
+  "_fullname": "ginagin-guihyang"
+}

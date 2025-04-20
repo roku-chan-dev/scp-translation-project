@@ -1,0 +1,24 @@
+{
+  "title": "SCP-6688",
+  "content": "[[module css]]\n@import url('http://smlt.wdfiles.com/local--code/ukwhatn%3Afadeout/1');\n\n.hover {\n  color: red;\n  text-decoration: underline;\n}\n.hover .hover-text {\n   position: absolute;\n   display: none;\n   margin: 20px 0px;\n   height: auto;\n   width: auto;\n   background:white;\n   border: 1px solid black;\n   color: black;\n   padding: 0.5em;\n}\n\n.hover:hover {\n  text-decoration: none;\n  border-bottom: none;\n  color: #004c00;\n}\n.hover:hover .hover-text {\n  display: inline;\n}\n\n.email {float: center; border: solid 2px #000000; width: 88%; padding: 1px 15px; margin: 10px auto; box-shadow: 0 1px 3px rgba(0,0,0,.5)}\n.tofrom {margin-left: 10px; margin-top: 5px; padding: 1px 15px; border-left: solid 3px maroon}\na.collapsible-block-link { font-weight: bold; }\n\n/*== VARIABLES ==*/\n:root {\n\n  /* Background Color (Default: white) */\n  --fadeout-background: white;\n\n  /* FadeOut Duration */\n  --fadeout-time: 1s;\n\n  /* Image FadeIn Duration (For Option2) */\n  --img-fadein-time: 1s;\n\n  /* Image Fadein Delay (For Option2) */\n  --img-fadein-delay: 2s;\n\n  /* Cropped Header (To erase the shadow under the header)\n      If you use themes other than Sigma-9(Default), pls change this variable. */\n  --cropped-header: url(http://smlt.wdfiles.com/local--files/ukwhatn:fadeout/header-crop.png);\n\n}\n[[/module]]\n\n[[>]]\n[[module Rate]]\n[[/>]]\n\n[[module ListPages category=\"fragment\" parent=\".\" order=\"created_at\" limit=\"1\" offset=\"@URL|0\"]]\n%%content%%\n[[/module]]\n[!-- https://scp-wiki.wikidot.com/fragment:6688-1 --]\n[!-- https://scp-wiki.wikidot.com/fragment:6688-2 --]\n[!-- https://scp-wiki.wikidot.com/fragment:6688-3 --]\n[!-- https://scp-wiki.wikidot.com/fragment:6688-4 --]\n[!-- https://scp-wiki.wikidot.com/fragment:6688-5 --]\n[!-- https://scp-wiki.wikidot.com/fragment:6688-6 --]\n[!-- https://scp-wiki.wikidot.com/fragment:6688-7 --]\n\n[[footnoteblock]]\n\n[[div class=\"footer-wikiwalk-nav\"]]\n[[=]]\n<< [[[SCP-6687]]] | SCP-6688 | [[[SCP-6689]]] >>\n[[/=]]\n[[/div]]\n\n[[include :scp-wiki:component:license-box]]\n=====\n> **Filename:** amIbroken.jpg\n> **License:** CC0\n> **Source Link:** [https://pixabay.com/photos/radio-mast-masts-651787/ Pixabay]\n\n> **Filename:** sorry.png\n> **Name:** Town still healing 30 years after the Chernobyl disaster\n> **Author:** [https://www.flickr.com/photos/91619724@N04 Wendelin Jacober]\n> **License:** Public Domain\n> **Source Link:** [https://www.flickr.com/photos/91619724@N04/29138609933 flickr]\n\n> **Filename:** meme.jpg\n> **Name:** Prism abstract\n> **Author:** [https://www.flickr.com/photos/12836528@N00  kevin dooley]\n> **License:** CC BY 2.0\n> **Source Link:** [https://www.flickr.com/photos/12836528@N00/28189085430 flickr]\n\n> **Filename:** boy.wav\n> **Author:** [[*user Impperatrix]]\n> **License:** CC BY-SA 3.0\n> **Source Link:** https://scp-wiki.wdfiles.com/local--files/scp-6688/boy.wav\n> **Derivative of:** [https://www.flickr.com/photos/63955643@N04/5879474878 \"crying boy\"] by [https://www.flickr.com/photos/63955643@N04 hyacinthoides], licensed under CC BY 2.0\n\n> **Filename:** 1.wav\n> **Author:** [[*user Impperatrix]]\n> **License:** CC BY-SA 3.0\n> **Source Link:** https://scp-wiki.wdfiles.com/local--files/scp-6688/1.wav\n\n> **Filename:** 2.wav\n> **Author:** [[*user Impperatrix]]\n> **License:** CC BY-SA 3.0\n> **Source Link:** https://scp-wiki.wdfiles.com/local--files/scp-6688/2.wav\n\n> **Filename:** 3.wav\n> **Author:** [[*user Impperatrix]]\n> **License:** CC BY-SA 3.0\n> **Source Link:** https://scp-wiki.wdfiles.com/local--files/scp-6688/3.wav\n\n> **Filename:** sorry.wav\n> **Author:** [[*user Impperatrix]]\n> **License:** CC BY-SA 3.0\n> **Source Link:** https://scp-wiki.wdfiles.com/local--files/scp-6688/sorry.wav\n\n> **Filename:** skippy.png\n> **Author:** [[*user The Great Hippo]]\n> **License:** CC BY-SA 3.0\n> **Source Link:** https://scp-wiki.wdfiles.com/local--files/your-very-first-scp/skippy.png\n=====\n[[include :scp-wiki:component:license-box-end]]",
+  "tags": [
+    "_cc",
+    "_licensebox",
+    "_listpages",
+    "alive",
+    "audio",
+    "esoteric-class",
+    "foundation-made",
+    "humanoid",
+    "knowledge",
+    "memetic",
+    "rewritable",
+    "scp"
+  ],
+  "author": "Impperatrix",
+  "created_at": "2021-08-13T08:45:42+00:00",
+  "updated_at": "2023-10-27T21:13:29+00:00",
+  "rating": 122,
+  "_site": "scp-wiki",
+  "_fullname": "scp-6688"
+}

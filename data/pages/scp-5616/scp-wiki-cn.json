@@ -1,0 +1,23 @@
+{
+  "title": "SCP-5616",
+  "content": "[[include :scp-wiki-cn:theme:blankstyle]]\n\n[[module CSS]]\n:root {\n    --timeDelay: 0.5s;\n}\n[[/module]]\n\n[[module CSS]]\n/* anendlessusername's invaluable correction of the ACS octagon! */\n#page-content .quadrants > div {\n    top: 2.25%;\n    left: 18.5%;\n}\n[[/module]]\n\n\n[!--\nFragments:\nhttp://scp-wiki-cn.wikidot.com/fragment:scp-5616-offset-0\nhttp://scp-wiki-cn.wikidot.com/fragment:scp-5616-offset-1\n--]\n\n[[module ListPages category=\"fragment\" parent=\".\" order=\"created_at\" limit=\"1\" offset=\"@URL|0\"]]\n%%content%%\n[[/module]]\n----\n[[div]]\n[[=]]\n<< **[[[The Lamest Story Never Told|最坏的故事仍未讲]]]** | **[/on-guard-43-hub 力量与毒性的话语]** | **[[[SCP-5056音频抄录]]]** >>\n[[/=]]\n[[/div]]\n\n[[div class=\"footer-wikiwalk-nav\"]]\n[[=]]\n<< [[[SCP-5615]]] | SCP-5616 | [[[SCP-5617]]] >>\n[[/=]]\n[[/div]]\n\n[[div]]\n[[=]]\n[[include :scp-wiki-cn:component:license-box\n|author=HarryBlank]]\n=====\n[[<]]\n> **文件名：**5516.png\n> **图像作者：**HarryBlank\n> **授权协议：**CC BY-SA 3.0\n\n> **文件名：**Barrel.png\n> **图像名：**Incineration\n> **图像作者：**Neil T\n> **授权协议：**CC BY-SA 2.0\n\n> **文件名：**Ilse3.jpg\n> **图像名：**Quinn\n> **图像作者：**Quinn Dombrowski\n> **授权协议：**CC BY-SA 2.0\n> **来源链接：**[https://www.flickr.com/photos/quinnanya/2690933587/in/photostream/ flickr]\n\n> **文件名：**IlseAfraid.jpg\n> **图像名：**Day 339: Quinn on TEI\n> **图像作者：**Quinn Dombrowski\n> **授权协议：**CC BY-SA 2.0\n> **来源链接：**[https://www.flickr.com/photos/quinnanya/3085246478/in/photostream/ flickr]\n\n> **文件名：**IlseBetter2.jpg\n> **图像名：**Shadow tattoo\n> **图像作者：**Quinn Dombrowski\n> **授权协议：**CC BY-SA 2.0\n> **来源链接：**[https://www.flickr.com/photos/quinnanya/2570273960/ flickr]\n\n> **文件名：**IlseCooped3.jpg\n> **图像名：**Quinn at sunset\n> **图像作者：**Quinn Dombrowski\n> **授权协议：**CC BY-SA 2.0\n> **来源链接：**[https://www.flickr.com/photos/quinnanya/2352981269/ flickr]\n\n> **文件名：**IlseCrazed2.jpg\n> **图像名：**Quinn buried in flipcharts\n> **图像作者：**Quinn Dombrowski\n> **授权协议：**CC BY-SA 2.0\n> **来源链接：**[https://www.flickr.com/photos/quinnanya/2722672737/ flickr]\n\n> **文件名：**IlseDefy2.jpg\n> **图像名：**Self-portrait in the dark\n> **图像作者：**Quinn Dombrowski\n> **授权协议：**CC BY-SA 2.0\n> **来源链接：**[https://www.flickr.com/photos/quinnanya/109374313/ flickr]\n\n> **文件名：**IlseFree2.jpg\n> **图像名：**Quinn\n> **图像作者：**Quinn Dombrowski\n> **授权协议：**CC BY-SA 2.0\n> **来源链接：**[https://www.flickr.com/photos/quinnanya/2594955233/ flickr]\n\n> **文件名：**IlseHappy2.jpg\n> **图像名：**2Russia 265\n> **图像作者：**Quinn Dombrowski\n> **授权协议：**CC BY-SA 2.0\n> **来源链接：**[https://www.flickr.com/photos/quinnanya/142374213/ flickr]\n\n> **文件名：**IlsePensive2.jpg\n> **图像名：**Day 261: Pumpkin or traffic cone?\n> **图像作者：**Quinn Dombrowski\n> **授权协议：**CC BY-SA 2.0\n> **来源链接：**[https://www.flickr.com/photos/quinnanya/3933152738/ flickr]\n\n> **文件名：**IlsePonder.jpg\n> **图像名：**Self-portrait with chocolate stick\n> **图像作者：**Quinn Dombrowski\n> **授权协议：**CC BY-SA 2.0\n> **来源链接：**[https://www.flickr.com/photos/quinnanya/109374586/ flickr]\n\n> **文件名：**IlseSad2.jpg\n> **图像名：**Around Sunset\n> **图像作者：**Quinn Dombrowski\n> **授权协议：**CC BY-SA 2.0\n> **来源链接：**[https://www.flickr.com/photos/quinnanya/110488711/ flickr]\n\n> **文件名：**IlseScared2.jpg\n> **图像名：**Day 152: No, I haven't been using my iPhone too much\n> **图像作者：**Quinn Dombrowski\n> **授权协议：**CC BY-SA 2.0\n> **来源链接：**[https://www.flickr.com/photos/quinnanya/4662255594/ flickr]\n\n> **文件名：**ReyndersID2.jpg\n> **图像名：**Freedom\n> **图像作者：**Quinn Dombrowski\n> **授权协议：**CC BY-SA 2.0\n> **来源链接：**[https://www.flickr.com/photos/quinnanya/2718652916/ flickr]\n[[/<]]\n=====\n[[include :scp-wiki-cn:component:license-box-end]]\n[[/=]]\n[[/div]]",
+  "tags": [
+    "okorie博士",
+    "reynders博士",
+    "scout主管",
+    "scp",
+    "人形生物",
+    "值守43",
+    "循环",
+    "时间影响",
+    "智能",
+    "机密分级",
+    "活物"
+  ],
+  "author": "Toramaru Syou",
+  "created_at": "2021-08-31T05:49:36+00:00",
+  "updated_at": "2025-01-20T05:17:46+00:00",
+  "rating": 12,
+  "_site": "scp-wiki-cn",
+  "_fullname": "scp-5616"
+}

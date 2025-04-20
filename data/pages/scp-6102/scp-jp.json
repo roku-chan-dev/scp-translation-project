@@ -1,0 +1,18 @@
+{
+  "title": "SCP-6102",
+  "content": "[[include :scp-wiki:theme:blankstyle]]\n[[module css]]\nbody{\n    --barColour: #8c8c8c;\n}\n\n:root{\n  --header-title: \"SCP Foundation\";\n  --header-subtitle: \"Secure, Contain, Protect\";\n}\n\n#header h1 a:before {\n    font-size: 2.0rem;\n}\n\ndiv#extra-div-1 {\n    background-image: url(http://scp-sandbox-3.wdfiles.com/local--files/harry-blank-6/BlankstyleSCP-2.png);\n    filter: opacity(50%);\n}\n\n#page-content .info-container {\n    --link-color: rgb(var(--swatch-text-general));\n}\n\n#page-content .info-container .translation_block {\n    display: none;\n}\n\n#page-content .info-container .collapsible-block-link,\n#page-content .info-container:hover .collapsible-block-link {\n    line-height: 1.6em;\n}\n\n#page-content .info-container .collapsible-block-folded,\n#page-content .info-container .collapsible-block-unfolded-link {\n    display: grid;\n}\n\n#page-content .info-container .collapsible-block-folded .collapsible-block-link,\n#page-content .info-container .collapsible-block-link {\n    -webkit-mask: unset;\n            mask: unset;\n    background: transparent;\n    grid-column: 1;\n    grid-row: 1;\n    opacity: 0;\n}\n\n#page-content .info-container .collapsible-block-folded::before,\n#page-content .info-container .collapsible-block-unfolded-link::before {\n    --wght: 800;\n    content: \"J Dune\";\n    color: #FFFFFF;\n    font-family: Inter, Arimo, Verdana, Geneva, \"Helvetica Neue\", \"Helvetica\", Arial, sans-serif;;\n    display: block;\n    pointer-events: none;\n    grid-column: 1;\n    grid-row: 1;\n    line-height: 2.75ex;\n}\n[[/module]]\n\n[[include :scp-wiki:component:info-ayers\n|lang=en\n|page=scp-6102\n|authorPage=https://scp-wiki.wikidot.com/dr-dune-s-personnel-file\n|comments=\n\n= **SCP-6102** - //無知のヴェール//\n\n----\n\n= Authored by J Dune\n]]\n\n[[>]]\n[[module Rate]]\n[[/>]]\n\n[[include component:image-block name=http://scp-jp-storage.wikidot.com/local--files/file:6129627-3-tb5v/Dacitu.png|align=center|width=100%|caption=SCP-6,102,031の発見地点、セクター-19222、緋閾から30キロメートル]]\n----------\n\n**アイテム番号:** SCP-6,102,031\n\n**オブジェクトクラス:** Standard\n\n**特別収容プロトコル:** 世界サイト-オメガ 自動アーキビスト-DA019がSCP-6,102,031を取り扱います。実験結果は未来の保全のため、自動的にゲシュタルト知能[[span class=\"ruby\"]]\"ARK\"[[span class=\"rt\"]]ハコブネ[[/span]][[/span]]内部で目録化されます。\"ARK\"内部の情報は、それ以外のオブジェクトからは失われていると見なされます。\n\n**説明:** SCP-6,102,031は4本の外肢を持ち外面を薄い肉の層で覆っている、起源が不明な未知の生物です。知性や目的、機能を示すものではありません。\n\n**補遺:** 実験ログ\n\n自動アーキビスト-DA019は前支配種が残した「理の支柱」に従うことで、オブジェクトの目的を理解しようと試みました。\n\n[[div class=\"blockquote\"]]\n**実験支柱:** \"能力\"\n\n**手段:** ゲシュタルト知能\"ARK\"索引との相互参照。\n\n**結果:** 失敗。頭蓋骨はチップポートを欠いている。魂は互換性を欠いている。\n[[/div]]\n\n[[div class=\"blockquote\"]]\n**実験支柱:** \"永続性\"\n\n**手段:** 肉層を裂く。\n\n**結果:** 失敗。爆音。オブジェクトは精緻さを欠いている。\n[[/div]]\n\n[[div class=\"blockquote\"]]\n**実験支柱:** \"知性\"\n\n**手段:** 2分間で数年分に相当する時間隔離。次元間実験モジュールが2,231,103以上の知識象限から自動的に実験を実施する。\n\n**結果:** 失敗。実験結果無効。オブジェクトは目的を欠いている。\n[[/div]]\n\n最後の実験で隔離から戻ってきたSCP-6,102,031は生命反応を示しませんでした。オブジェクトは理を欠いていると判断され、最終支柱である\"神性\"は十分な実験ができませんでした。\n\n**補遺:** 更なる情報\n\nSCP-6,102,031はアーキビスト群による定期巡回中、世界財団の境界上に位置するセクター-19222内の先種製構造物の中で発見されました。SCP-6,102,031の声孔内に、様々な炭素系ポリマーで作られた以下の物体が確認されました。\n\n[[=]]\n[[collapsible show=\"+ 画像を出す\" hide=\"- 画像を消す\"]]\n[[div class=\"scp-image-block block-center\" style=\"width:300px;\"]]\n[[image http://scp-jp-storage.wikidot.com/local--files/file:6129627-3-vzfw/dababu.png style=\"width:300px;\"]]\n[[/div]]\n[[/collapsible]]\n[[/=]]\n\n知性や目的、機能を示すものではありません。",
+  "tags": [
+    "en",
+    "esoteric-class",
+    "scp",
+    "人間型",
+    "死体",
+    "知性"
+  ],
+  "author": "crablue",
+  "created_at": "2021-09-04T07:45:11+00:00",
+  "updated_at": "2024-02-21T12:27:44+00:00",
+  "rating": 25,
+  "_site": "scp-jp",
+  "_fullname": "scp-6102"
+}

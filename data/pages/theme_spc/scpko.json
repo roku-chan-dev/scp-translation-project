@@ -1,0 +1,14 @@
+{
+  "title": "SPC 테마",
+  "content": "[[module css]]\n@import url(\"https://scpko.wdfiles.com/local--code/theme%3Aspc/1\");\n[[/module]]\n\n[[iftags +테마]]\n\n[[>]]\n[[module Rate]]\n[[/>]]\n\n이것은 PeppersGhost가 만든 SPC 테마로 Greenwolf의 제3법칙 테마와 djkaktus 암체 테마를 바꾼 것으로, Aelanna의 시그마 9 테마를 기반으로 합니다. SPC 로고는 CN 지부의 BABAAL가 만들었습니다.\n\n테마를 이용하기 위해서는, 아래를 여러분의 페이지의 최상단에 넣어주세요.\n\n[[div class=\"code\"]]\n@@[[include :scpko:theme:spc]]@@\n[[/div]]\n\n이 테마는 SPC 작품을 위해 디자인 되었습니다.\n\n[[code type=\"css\"]]\n/*\n    SPC Theme\n    [2018 Wikidot Theme]\n    Based on Aelanna's Sigma 9 and Greenwolf's Third Law and djkaktus' Darkbody Theme\n    Edited by PeppersGhost for the Doomsday Contest \n    SPC logo by BABAAL from CN branch.\n*/\n\n@import url(\"https://scp-wiki.wdfiles.com/local--code/theme%3Aspc/1\");\n\n#header h1 a {\n    content: \"SPC 데이터베이스\";\n}\n\n#header h1 a::before {\n    content: \"SPC 데이터베이스\";\n}\n\n#header h2 span::before {\n    content: \"상어 죽빵 센터\";\n}\n[[/code]]\n\n[[/iftags]]",
+  "tags": [
+    "en",
+    "테마"
+  ],
+  "author": null,
+  "created_at": "2018-11-23T13:06:39+00:00",
+  "updated_at": "2021-09-30T15:53:59+00:00",
+  "rating": 1,
+  "_site": "scpko",
+  "_fullname": "theme:spc"
+}

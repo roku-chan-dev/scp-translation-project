@@ -1,0 +1,13 @@
+{
+  "title": "SCP-6488 Fragment 1",
+  "content": "[[include :scp-wiki:theme:admo astral=a]]\n\n[[module CSS]]\n\n/* SCP-6488  -  EIGHTH COMMANDMENT */\n/* ACCESSIBILITY PATCH */\n\n#page-content div.chat {\n    background: rgb(177, 193, 204);\n    border-color: rgba(0, 0, 0, 0.4);\n    color: unset;\n    font-weight: bold;\n}\n\n#page-content div.chat > div.chat {\n    border-color: rgba(255, 255, 255, 0.4);\n}\n\n#page-content div.vjds {\n    background: rgb(177, 193, 204);\n    color: rgb(var(--basalt-main-text-color));\n}\n\n#page-content div.veiss {\n    background: rgb(41, 44, 51);\n}\n\n#page-content div.jldo {\n    background: rgb(18, 31, 61);\n    color: rgb(151, 162, 255);\n}\n\n#page-content div.elng {\n    background: rgb(82, 6, 24);\n}\n\n#page-content div.kelvin {\n    background: rgb(0, 56, 27);\n}\n\n#page-content div.kbox::after {\n    color: rgb(59, 149, 73);\n}\n\n#page-content div.lotus {\n    background-color: rgba(0, 80, 88, 0.25);\n    background-image: none;\n    box-shadow: inset 0rem 0rem 7rem 6rem rgba(var(--admo-color-dark));\n    border-radius: 37rem;\n}\n\n#page-content div.lotus .st {\n    color: rgb(0, 77, 144);\n}\n\n[[/module]]\n\n[[div class=\"admo-accessibility\"]]\n[[span class=\"cond\"]]>> [/scp-6488 VIEW STANDARD MODE] <<[[/span]]\n[[/div]]",
+  "tags": [
+    "fragment"
+  ],
+  "author": "Placeholder McD",
+  "created_at": "2022-05-10T01:54:17+00:00",
+  "updated_at": "2023-01-28T20:00:58+00:00",
+  "rating": 0,
+  "_site": "scp-wiki",
+  "_fullname": "fragment:scp-6488-1"
+}

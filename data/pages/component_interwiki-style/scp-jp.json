@@ -1,0 +1,15 @@
+{
+  "title": "Interwiki Style",
+  "content": "[[embed]]\n<iframe src=\"//interwiki.scp-jp.org/styleFrame.html?priority={$priority}&theme={$theme}&css={$css}\" style=\"display: none\"></iframe>\n[[/embed]]",
+  "tags": [
+    "jp",
+    "コンポーネント",
+    "管理"
+  ],
+  "author": "R74",
+  "created_at": "2022-10-13T05:22:34+00:00",
+  "updated_at": "2023-01-08T08:30:25+00:00",
+  "rating": 13,
+  "_site": "scp-jp",
+  "_fullname": "component:interwiki-style"
+}

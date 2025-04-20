@@ -1,0 +1,19 @@
+{
+  "title": "诗钞——悠悠霜玉轮",
+  "content": "[[image https://www.stockvault.net/data/2016/04/22/194778/preview16.jpg link=\"https://www.stockvault.net/photo/194778/dark\"]]\n[[div class=\"rate-lr\"]]\n[[module Rate]]\n[[/div]]\n\n[[div class=\"phone\"]]\n悠悠霜玉輪\n碾碎夢中塵\n白盡朱顏者\n相猜望月人\n[[/div]]\n\n\n@@@@\n@@@@\n@@@@\n@@@@\n@@@@\n@@@@\n@@@@\n@@@@\n@@@@\n@@@@\n@@@@\n@@@@\n@@@@\n@@@@\n@@@@\n@@@@\n@@@@\n@@@@\n@@@@\n@@@@\n@@@@\n[[include :etinjat:typeface-cn\n|I-PenCrane-B=true\n]]\n[[module CSS]]\n/* 图书馆版式复位 */\n#side-bar {\n    background-color: rgba(var(--swatch-menubg-color),1) !important;\n    box-shadow: inherit;\n    border-radius: inherit;\n}\n#side-bar .side-block{\n    background-color: rgba(0,0,0,0) !important;\n}\n#side-bar .heading {\n    width: inherit;\n    margin: inherit;\n}\nspan:not([class]):not([style]) > sup.footnoteref:first-child > a.footnoteref:before,\nsup.footnoteref > a.footnoteref:before {\ncontent: inherit;\n}\nspan:not([class]):not([style]) > sup.footnoteref > a.footnoteref:before {\ncontent: inherit;\n}\niframe.scpnet-interwiki-frame {\n  filter: inherit;\n  -webkit-filter: inherit;\n}\n[[/module]]\n\n[[include :scp-wiki-cn:theme:black-highlighter-theme]]\n[[include :scp-wiki-cn:theme:walk-in-the-dark]]\n\n\n[[module CSS]]\n\n\n.phone {\nfloat:center;\nheight: auto; \nwriting-mode: vertical-rl;\nwriting-mode: tb-lr;\nfont-size:300%;\nfont-family: 'I.PenCrane-B', 润植家康熙字典美化体, nzgrKangxi, 'Ma Shan Zheng', '华文隶书', lisu,  'Noto Serif SC' , '思源宋体 CN';\nmargin: 2em 2em 0 2em;\nletter-spacing: 0.3em;\nline-height: 1.5em;\n}\n\n@media (max-width: 479px) {\n.phone {\n  font-size:150% !important;\nmargin: 2em 1.5em 0 1.5em;\n}\n\n}\n\n#page-title {\n   display:none;\n}\n\n@media (min-width: 1000px) {\n\n.rate-lr{\nfloat:right;\ntransform:rotate(90deg);\n-ms-transform:rotate(90deg);     /* IE 9 */\n-moz-transform:rotate(90deg);     /* Firefox */\n-webkit-transform:rotate(90deg); /* Safari 和 Chrome */\n-o-transform:rotate(90deg);     \n}\n\n.rate-points:not(.number){\nwriting-mode: sideways-lr;\npadding: 0.5em ;\n  margin: 0 2em 0em 0;\n}\n\n.rate-points .prw54353{\nleft:3em;\nbottom: 0.1em;\n  position: absolute;\n  writing-mode:  horizontal-tb;\n\n}\n\n.page-rate-widget-box{\n  width: 10em;\n}\n\n}\n\n\n[[/module]]",
+  "tags": [
+    "_cc",
+    "wanderers",
+    "信件",
+    "原创",
+    "图片",
+    "琅嬛福地藏书阁",
+    "韵文"
+  ],
+  "author": "Etinjat",
+  "created_at": "2019-09-13T10:38:10+00:00",
+  "updated_at": "2023-09-28T12:10:38+00:00",
+  "rating": 42,
+  "_site": "scp-wiki-cn",
+  "_fullname": "wanderers:rolling-moon"
+}

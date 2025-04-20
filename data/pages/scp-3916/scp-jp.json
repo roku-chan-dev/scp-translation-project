@@ -1,0 +1,23 @@
+{
+  "title": "SCP-3916",
+  "content": "[[include :scp-jp:credit:start]]\n**タイトル:** SCP-3916 - [[span class=\"ruby\"]]腹を空かせたバッタたち[[span class=\"rt\"]]Hungry Locusts[[/span]][[/span]]\n**著者:** [[*user DrMorris]]\n[[include :scp-jp:credit:end]]\n\n[!--\nFragments:\nhttp://scp-jp.wikidot.com/fragment:scp-3916-1\nhttp://scp-jp.wikidot.com/fragment:scp-3916-2\nhttp://scp-jp.wikidot.com/fragment:scp-3916-3\nhttp://scp-jp.wikidot.com/fragment:scp-3916-4\n--]\n\n[[module ListPages category=\"fragment\" parent=\".\" limit=\"1\" order=\"created_at\" offset=\"@URL|0\"]]\n%%content%%\n[[/module]]\n\n[[include component:earthworm\n  first=false | last=false | hub=yes |\n  previous-url=/critter-profile-genghis | previous-title=生き物プロフィール: ジンギス！ |\n  next-url=/arbh-class-debrief-file | next-title=ARBH-クラスのデブリーフファイル |\n  hub-url=/arbh-class-hub | hub-title=昆虫地獄 |\n]]\n\n[[footnoteblock]]",
+  "tags": [
+    "doomsday2018",
+    "en",
+    "insect-hell",
+    "keter",
+    "scp",
+    "ウィルソンズ・ワイルドライフ",
+    "昆虫",
+    "生命",
+    "種族",
+    "群れ",
+    "自己複製"
+  ],
+  "author": "Kasugai_Kanagu",
+  "created_at": "2021-10-06T07:01:13+00:00",
+  "updated_at": "2021-10-06T07:22:23+00:00",
+  "rating": 34,
+  "_site": "scp-jp",
+  "_fullname": "scp-3916"
+}

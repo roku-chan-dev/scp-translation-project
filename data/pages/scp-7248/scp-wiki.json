@@ -1,0 +1,20 @@
+{
+  "title": "SCP-7248",
+  "content": "[[include theme:fish]]\n[[>]]\n[[module Rate]]\n[[/>]]\n\n**Item #:** SCP-7248\n\n**Object Class:** Safe\n\n**Special Containment Procedures:** SCP-7248 outbreaks are to be reported to onsite IT personnel. The affected computer is to be isolated, retrieved, and disassembled after checking whether its goal was achieved or not.\n\n**Description:** SCP-7248 is a computer virus that manifests at random throughout Foundation systems. The virus is characterized by the sudden appearance of an executable file labeled \"arhg.exe\", which immediately runs on the affected system. \n\nSCP-7248's effects manifest shortly after the execution of the aforementioned file. Following its execution, the computer becomes locked from user input, with the screen reading:\n\n> Blast yer paystubs, Foundation bastards!\n\nFollowing a period of 10 minutes, SCP-7248 will uninstall itself and multiply, manifesting at a 5:1 ratio throughout the department it originally appeared in. Following a successful execution of arhg.exe, the system's primary user will find a charge roughly equivalent to their last monthly paycheck. No destination for these funds has been found.\n\n**Addendum-7248-A:** **Incident Log**\nDue to the seemingly in-depth knowledge of Foundation paychecks possessed by SCP-7248, an extensive investigation was launched into the destination and perpetrator of the lost funds. Upon conclusion of said search, it was concluded that SCP-7248 likely originated from another dimension; further research determined the exact multi-dimensional coordinates of SCP-7248's origination shortly thereafter, and a convoy consisting of MTF Blur-02 \"In-and-Out\" was sent with the intent to establish diplomatic connections with the group responsible for perpetuating the anomaly.\n\nThe outcome, however, was that all seven members of Blur-02 returned stripped bare of all equipment -- including sidearms, recording equipment, body armor, and wallets -- and covered in a variety of cuts and bruises, the former of which they all claimed were the result of \"sword fights\" the anomalous group forced them into. Blur-02 was, however, provided a note in a bottle before their forced return, the contents of which are recorded below:\n\n[[=]]\n> Yer Foundation men do be weak and whiney\n> If ye think you can take me gold, you can kiss me hiney!\n> If you want peace, then listen a' me\n> Keep on sending thee shiny!\n[[/=]]\n\nFollowing the return of Blur-02, containment procedures have been updated: every other month, a shipment containing approximately $15,000 worth of a variety of gold, jewels, polished pearls, limes, and bird seed are to be sent to Dimension-Au79. Since implementation of said procedures, all fraudulent charges perpetuated by SCP-7248 have ceased.\n\n[[include :scp-wiki:component:license-box\n|author=Dr Trintavon and Fishish]]\n[[include :scp-wiki:component:license-box-end]]",
+  "tags": [
+    "_licensebox",
+    "computer",
+    "exchange",
+    "extradimensional",
+    "safe",
+    "scp",
+    "self-replicating",
+    "virus"
+  ],
+  "author": "Trintavon",
+  "created_at": "2023-02-01T04:59:15+00:00",
+  "updated_at": "2023-02-26T21:19:25+00:00",
+  "rating": 24,
+  "_site": "scp-wiki",
+  "_fullname": "scp-7248"
+}

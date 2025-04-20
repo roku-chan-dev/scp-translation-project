@@ -1,0 +1,14 @@
+{
+  "title": "ぬるぬる動くあなたの実績2 - アドオン - エンド",
+  "content": "[[iftags +コンポーネント]]\nこのユーザーコンポーネントのリファレンスは[[[reference:ta-badge-smooth-addon|]]]です。\n[[/iftags]]\n[[include :pseudo-scp-jp:user-component:ta-badge-smooth-base-base name=v-1|type=false]]\n[[/div]]\n[[/div]]\n[[/div]]\n= [[size 60%]] [[[reference:ta-badge-smooth|ぬるぬる動く実績バッジ2]]] | [[user hal_aki]], [[user tsucchii0301]], [[user Sekai_s]], [[user 7happy7]], [[user R74]][[/size]]",
+  "tags": [
+    "jp",
+    "コンポーネント"
+  ],
+  "author": "R74",
+  "created_at": "2023-04-27T14:29:02+00:00",
+  "updated_at": "2023-04-27T14:29:18+00:00",
+  "rating": 0,
+  "_site": "scp-jp",
+  "_fullname": "user-component:ta-badge-smooth-end"
+}

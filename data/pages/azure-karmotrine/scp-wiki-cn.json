@@ -1,0 +1,13 @@
+{
+  "title": "",
+  "content": "[[>]]\n[[module rate]]\n[[/>]]\n\n[[include :scp-wiki:theme:space]]\n\n[[include :scp-wiki-cn:component:toggle-sidebar]]\n\n[[module CSS]]\n\n:root:lang(cn) {\n    --header-title: \"The Answer Lies\";\n    --header-subtitle: \"at the bottom of that ‘Azure Karmotrine’ \";\n}\n[[/module]]\n\n\n@@ @@\n@@ @@\n@@ @@\n@@ @@\n\n\n\n------\n\n++ SCP系列\n[[[https://scp-wiki-cn.wikidot.com/scp-4452 |SCP-4452]]]\n[[[https://scp-wiki-cn.wikidot.com/scp-6679 |SCP-6679]]]\n[[[https://scp-wiki-cn.wikidot.com/scp-6725 |SCP-6725]]]\n[[[https://scp-wiki-cn.wikidot.com/scp-7769 |SCP-7769]]]\n[[[https://scp-wiki-cn.wikidot.com/scp-7954 |SCP-7954]]]\n[[[https://scp-wiki-cn.wikidot.com/scp-8015 |SCP-8015]]]\n[[[https://scp-wiki-cn.wikidot.com/scp-8592 |SCP-8592]]]\n[[[https://scp-wiki-cn.wikidot.com/scp-8595 |SCP-8595]]]\n[[[https://scp-wiki-cn.wikidot.com/scp-8801 |SCP-8801]]]\n[[[https://scp-wiki-cn.wikidot.com/scp-8726 |SCP-8726]]]\n[[[https://scp-wiki-cn.wikidot.com/scp-8997 |SCP-8997]]]\n\n++ 故事/GOI系列\n[[[https://scp-wiki-cn.wikidot.com/it-s-hard-to-be-a-kid-in-containment |在收容室里当个孩子可不容易]]]\n[[[https://scp-wiki-cn.wikidot.com/khaziaprilfools |被诅咒的的瘦长初级研究员Nial与马桶大王Khazi在热恋中激情做爱]]]\n[[[https://scp-wiki-cn.wikidot.com/scatterbrained |心不在焉的]]]\n[[[https://scp-wiki-cn.wikidot.com/proposition-de-projet-2019-319 |项目计划书 2019-319: \"都市拥抱\"]]]\n[http://scp-wiki-cn.wikidot.com/in-which-catgirls-are-shot-probably 猫娘于本文内会被射爆。也许吧。]\n++ 艺术作品\n[[[https://scp-wiki-cn.wikidot.com/art:rottingraisins |Rottingraisins的SCP漫画&艺术作品]]]\n[[[https://scp-wiki-cn.wikidot.com/art:file-princess-cassandra |“公主Cassandra”]]]\n[[[https://scp-wiki-cn.wikidot.com/art:verschlimmbessern |Verschlimmbessern]]]\n[[[https://scp-wiki-cn.wikidot.com/art:visual-art-archive-entry:the-lost-star-circle-of-life |视觉艺术档案竞赛作品：遗落行星/生命之循环]]]\n[[[https://scp-wiki-cn.wikidot.com/art:scp-8200:the-phantom-sea |SCP-8200: 幽幻汐洋]]]\n[[[https://scp-wiki-cn.wikidot.com/art:art-of-the-fall-of-adytum-visual-archives-contest-entry |艺作：内殿之陷落（视觉档案竞赛作品）]]]\n[[[https://scp-wiki-cn.wikidot.com/art:spring-cleaning-badges |春季扫除徽章]]]",
+  "tags": [
+    "作者"
+  ],
+  "author": "Azure_Karmotrine",
+  "created_at": "2024-03-17T02:02:01+00:00",
+  "updated_at": "2025-02-08T17:11:12+00:00",
+  "rating": 21,
+  "_site": "scp-wiki-cn",
+  "_fullname": "azure-karmotrine"
+}

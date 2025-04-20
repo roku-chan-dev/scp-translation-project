@@ -1,0 +1,13 @@
+{
+  "title": "Allen3723的人事档案",
+  "content": "[[module CSS]]\n:root :lang(cn){\n--header-title: \"SCP基金会\";\n--header-subtitle: \"研究部门\";\n}\n[[/module]]\n[[include :scp-wiki-cn:theme:black-highlighter-theme]]\n[[include :scp-wiki-cn:theme:new-age blue=a]]\n[[tabview]]\n[[tab 自述]]\n[[span class=\"hilighter\"]]**姓名：**[[/span]] Allen K█████\n\n[[include component:image-block name=http://scp-qbsandbox.wikidot.com/local--files/allens-author-page-test/90px-CNCTW_Zone_Trooper_Cameo.png |caption=一张Allen研究员以前的工作图 |width=50px |height=50px]]\n \n[[span class=\"hilighter\"]]**许可等级：**[[/span]] 3级\n \n[[span class=\"hilighter\"]]**职务：**[[/span]] 实习研究员\n\n[[span class=\"hilighter\"]]**简介：**[[/span]] Allen研究员现任职于Site-CN-03，其原职务为收容工程师，但由于多次--被上级抓到在摸鱼--犯下过错，被降职为实习研究员。其个人电脑内存有部分基金会低级别文件--和一堆CNC系列的游戏--。这些游戏已在站点领导的监督下被其本人删除。##black|//我们先进的掩盖程序已经全面超越了老旧过时的……//##[[footnote]]梗出自CNC：心灵终结[[/footnote]]\n@@@@\n@@@@\n[[=]]\nAllen研究员获得的奖项（雾）：\n[[/=]]\n[[=]]\n* 站点游戏竞赛CNC区第一名[[footnote]] ##black|//其实就是根本没有其他人在玩啊喂//## [[/footnote]]\n[[/=]]\n\n[[=]]\n* 被公评为最喜欢开坑并摆烂的研究员\n[[/=]]\n[[/tab]]\n[[tab 作品]]\n[[div class=\"blue\"]]\n[[div class=\"raisa_update\"]]\n[[=]]\n++ 来自记录与信息安全管理部的更新\n----\n以下内容不会被及时更新，最新数据请参考下方折叠块。\n[[/=]]\n[[/div]]\n[[/div]]\n[[=]]\n++ 个人满意的翻译作品\n[[/=]]\n+++ SCP\n\n* [[[SCP-6143]]] - 幽灵宇宙骷髅（+5）\n\n* [[[SCP-7313]]] - 模拟现实（+5）\n\n* [[[SCP-7587]]] - 翼人（+5）[[footnote]]别问我为什么把这个标题翻译得很奇怪，问就是原作者在拼词[[/footnote]]\n\n+++ 故事\n* [[[space-cadet-semantics|太空学员语义学]]]（与[[*user xiasheng01]]与[[*user georgegamow]]合译）\n\n+++ CSS\n* [[[theme:new-age|新世代 主题版式]]]\n\n+++ GOI格式\n* --正在努力咕咕翻译中……--\n[[=]]\n[[collapsible show=\"+最新计分板\" hide=\"关上\"]]\n[[module ListPages created_by=\"Allen3723\" order=\"rating\" limit=\"20\" separate=\"no\"]]\n* %%title_linked%% (评分：+%%rating%%) (评论数：%%comments%%)\n[[/module]]\n[[/collapsible]]\n[[/=]]\n[[/tab]]\n[[/tabview]]\n\n[[include :scp-wiki-cn:component:license-box\n|lang=CN\n|author=Allen3723\n]]\n=====\n> **文件名：**90px-CNCTW_Zone_Trooper_Cameo.png\n> **图像来源：**命令与征服中文维基\n> **授权协议：**CC BY-NC-SA\n> **来源链接：** https://huiji-thumb.huijistatic.com/cnc/uploads/thumb/a/a9/CNCTW_Zone_Trooper_Cameo.png/90px-CNCTW_Zone_Trooper_Cameo.png\n> **备注：**图像著作权属于美国Electronic Arts公司\n=====\n[[include :scp-wiki-cn:component:license-box-end]]",
+  "tags": [
+    "作者"
+  ],
+  "author": "Allen3723",
+  "created_at": "2023-01-17T09:23:38+00:00",
+  "updated_at": "2023-06-09T11:46:57+00:00",
+  "rating": 15,
+  "_site": "scp-wiki-cn",
+  "_fullname": "allen3723-s-personnel-file"
+}

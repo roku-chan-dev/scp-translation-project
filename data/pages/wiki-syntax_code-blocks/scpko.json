@@ -1,0 +1,14 @@
+{
+  "title": "코드 블록",
+  "content": "코드 블록은 {{[[code]]...[[/code]]}} 태그를 사용해서 생성합니다.\n\n[[code]]\n코드 블록 예시입니다!\n[[/code]]\n\n@@[[include]]@@ 태그를 //제외하고는// 코드 블록에 들어가는 모든 위키 구문은 글자가 그대로 나오고 가공되지 않습니다. include 태그가 가공되는 것을 막기 위해서는, 앞에 공백을 하나 넣어주세요.\n\n각 코드 블록은 개별적으로 접속할 수 있는 고유 URL을 가지고있습니다. 이는 특별히 CSS 코드(type=\"css\")를 포함한 코드 블록 등에 유용합니다.\n\n[[code]]\nhttp://mysite.wikidot.com/category:page/code\nhttp://mysite.wikidot.com/category:page/code/2  -- 두번째 블록\n[[/code]]\n\n이 방법은 계정에다가 어떠한 _template을 가지지 않고도 페이지 소스 자체를 추출하여 코드 블록에 정의할 수 있습니다. _template과 결합하여 코드 블록 형식의 페이지 소스에 접근하려면, 다음과 같은 URL을 사용해주세요.\n\n[[code]]\nhttp://mysite.wikidot.com/category:page/code_  -- 마지막의 밑줄에 주목하세요\nhttp://mysite.wikidot.com/category:page/code_/2  -- 두번째 블록\n[[/code]]\n\n간단하게 {{[[code //type=\"php\"//]]...[[/code]]}} 태그로 코드를 감싸서 PHP 블록을 생성하면 자동적으로 PHP 태그에다가 색을 입힐 수 있습니다.\n\nPHP 코드에 색을 입히려면 <?php.. ?>로 감싸야합니다.\n\nWikidot.com은 PEAR::Text_Highlighter를 사용하고 많은 양식을 지원합니다. 아래는 지원하는 양식(허용되는 형식값)의 목록입니다.\n\nphp, html, cpp, css, diff, dtd, java, javascript, perl, python, ruby, xml.\n\n[[div style=\"float: left; width: 45%; margin: 0 2%;\"]]\n[[code]]\n[[code type=\"php\"]]\n<?php\n/* comment */\nfor($i=0; $i<100; $i++){\necho \"number\".$i.\"\\n\";\n}\n?>\n[[/code]]\n[[/code]]\n\n[[/div]]\n[[div style=\"float: left; width: 45%; margin: 0 2%;\"]]\n\n[[code type=\"php\"]]\n<?php\n/* comment */\nfor($i=0; $i<100; $i++){\necho \"number\".$i.\"\\n\";\n}\n?>\n[[/code]]\n[[/div]]\n~~~~~~~~~~",
+  "tags": [
+    "관리",
+    "안내"
+  ],
+  "author": "Dr Devan",
+  "created_at": "2014-11-17T17:10:22+00:00",
+  "updated_at": "2014-11-17T17:11:10+00:00",
+  "rating": 0,
+  "_site": "scpko",
+  "_fullname": "wiki-syntax:code-blocks"
+}

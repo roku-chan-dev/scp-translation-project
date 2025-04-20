@@ -1,0 +1,16 @@
+{
+  "title": "This is weird",
+  "content": "[[div style=\"display: none;\"]]\n[[include :scp-wiki:theme:flopstyle-dark]]\n[[/div]]\n\n\n[[module CSS]]\n :root{\n\n     --header-title: \"SCP FOUNDATION\";\n     --header-subtitle: \"Secure - Contain - Protect\";\n\n     --lgurl: url(https://i.imgur.com/o2GETvf.png);\n\n     --accentColor: hsl(248, 100%, 55%);\n     --accentColorLite: hsla(248, 100%, 65%, 0.5);\n     --hue: 134deg;\n     --bgColor: #040408;\n     --fgColor: #000;\n}\n[[/module]]\n\n\n[[div class=\"anchor\"]]\n[[div class=\"authorbox tableb\"]]\n||~ This is weird ||\n||= [[span class=\"bt bb\"]] By [[/span]] [[*user Drzony13]] ||\n||~ Published on 01.05.2023 ||\n[[div class=\"flavorbox\"]]\n\n[[=]]\n[[size 105%]][https://scp-wiki.wikidot.com/w-swiecie-duchow-u-drzonego-13 AUTHOR PAGE][[/size]]\n[[/=]]\n\n[[/div]]\n[[/div]]\n[[/div]]\n\n\n\n[[div class=\"meta-title\"]]\nThis is weird\n[[/div]]\n\n\n[[>]]\n[[module Rate]]\n[[/>]]\n\n\n[[image https://i.imgur.com/S0aUnP8.png]]\n[[image https://i.imgur.com/TxZPEF4.png]]\n[[image https://i.imgur.com/xjgV02O.png]]\n[[image https://i.imgur.com/8eMk8Lx.png]]\n[[image https://i.imgur.com/vEGh9B8.png]]\n[[image https://i.imgur.com/q1sGFN6.png]]\n[[image https://i.imgur.com/fbfZvVJ.png]]\n[[image https://i.imgur.com/byH4fQ2.png]]\n[[image https://i.imgur.com/LxoJASF.png]]\n[[image https://i.imgur.com/CkdgOqY.png]]\n[[image https://i.imgur.com/z4lwJB8.png]]\n[[image https://i.imgur.com/EieO6gO.png]]\n[[image https://i.imgur.com/hB9VxXp.png]]\n@@@@\n@@@@\n@@@@\n@@@@\n@@@@\n@@@@\n@@@@\n@@@@\n@@@@\n@@@@\n@@@@\n@@@@\n@@@@\n@@@@\n@@@@\n@@@@\n@@@@\n@@@@\n@@@@\n@@@@\n@@@@\n@@@@\n@@@@\n@@@@\n@@@@\n@@@@\n@@@@\n@@@@\n@@@@\n@@@@\n@@@@\n@@@@\n@@@@\n@@@@\n@@@@\n@@@@\n@@@@\n@@@@\n@@@@\n@@@@\n@@@@\n@@@@\n@@@@\n@@@@\n@@@@\n@@@@\n@@@@\n@@@@\n@@@@\n@@@@\n@@@@\n@@@@\n@@@@\n@@@@\n@@@@\n@@@@\n@@@@\n@@@@\n@@@@\n@@@@\n@@@@\n@@@@\n@@@@\n@@@@\n@@@@\n[[image https://i.imgur.com/SyI3Gbe.png]]\n@@@@\n@@@@\n@@@@\n@@@@\n@@@@\n@@@@\n@@@@\n@@@@\n@@@@\n@@@@\n@@@@\n@@@@\n@@@@\n@@@@\n@@@@\n@@@@\n@@@@\n@@@@\n@@@@\n@@@@\n@@@@\n@@@@\n@@@@\n@@@@\n@@@@\n@@@@\n@@@@\n@@@@\n@@@@\n@@@@\n@@@@\n@@@@\n@@@@\n@@@@\n@@@@\n@@@@\n@@@@\n@@@@\n@@@@\n@@@@\n@@@@\n@@@@\n@@@@\n@@@@\n@@@@\n@@@@\n@@@@\n@@@@\n@@@@\n@@@@\n@@@@\n@@@@\n@@@@\n@@@@\n@@@@\n@@@@\n@@@@\n@@@@\n@@@@\n@@@@\n@@@@\n@@@@\n@@@@\n@@@@\n@@@@\n[[=image https://i.imgur.com/mUrgybd.png link=\"https://scp-wiki.wikidot.com/scp-5045\"]]\n\n\n[[include :scp-wiki:component:license-box]]\n=====\n> **Filename:** All of the files present on this page\n> **Author:** [[*user Drzony13]]\n> **License:** CC BY-SA 3.0\n> **Source Link:** [https://scp-wiki.wikidot.com/this-is-weird SCP Foundation Wiki]\n=====\n[[include :scp-wiki:component:license-box-end]]",
+  "tags": [
+    "_cc",
+    "_licensebox",
+    "coldpostcon",
+    "tale"
+  ],
+  "author": "Drzony13",
+  "created_at": "2023-01-05T05:04:23+00:00",
+  "updated_at": "2023-01-22T10:54:26+00:00",
+  "rating": 35,
+  "_site": "scp-wiki",
+  "_fullname": "this-is-weird"
+}

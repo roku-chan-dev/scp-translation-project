@@ -1,0 +1,17 @@
+{
+  "title": "Mommy?",
+  "content": "[[include :scp-wiki:theme:basalt darkmode=a|hidetitle=a]]\n\n[[module CSS]]\n:root {\n    /* REDMODE */\n    --basalt-UI-dark-palette: 50, 45, 45;\n    --basalt-bright-element-color: 215, 40, 40;\n    --basalt-primary-color: 15, 10, 12;\n    --basalt-secondary-color: 40, 20, 23;\n    --basalt-tertiary-color: 50, 40, 40;\n    --general-border-color: 80, 70, 70;\n}\n[[/module]]\n\n[[>]]\n[[module Rate]]\n[[/>]]\n\n[[=]]\n[[div class=\"blockquote\"]]\n\nMom! Mommy! I’m stuck please help me\nThe hole’s squeezing my body.\nPlease help! I’m trying! Mommy!\nOh the walls, hurting my body.\n…\nMommy? I am feeling hungry.\nWhen will I get to eat mommy?\nWhy’d I have to be stuck in place?\nBody’s hurt, belly groans to eat.\n…\nMommy, days I spent stuck in place,\nMore and more, I want to be fed.\nLet me eat, I’m feel like I’m starved,\nNo need for happy birthday song.\n…\nMommy! Mommy! I’m falling down!\nThe ceiling! Me! Please catch! Mommy!\nOh the pain. Where are you [http://scp-wiki.wikidot.com/scp-6670 mommy?]\nI’m aching, I need you, mommy?\n…\nI’m wandering for so long now mom…\nWhy don’t you answer, or look for me mom?\nI’m starving the cake’s not enough,\nOnly threads, stuck between my teeth.\n…\n\n\n[[/div]]\n[[/=]]\n\n[[include :scp-wiki:component:license-box]]\n[!-- N/A (No Images)  --]\n[[include :scp-wiki:component:license-box-end]]",
+  "tags": [
+    "_licensebox",
+    "_vn",
+    "international",
+    "poetry",
+    "tale"
+  ],
+  "author": "Dept",
+  "created_at": "2022-06-12T13:31:02+00:00",
+  "updated_at": "2023-01-28T19:51:44+00:00",
+  "rating": 22,
+  "_site": "scp-wiki",
+  "_fullname": "me-oi"
+}

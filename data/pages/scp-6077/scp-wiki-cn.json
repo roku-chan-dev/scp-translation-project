@@ -1,0 +1,17 @@
+{
+  "title": "SCP-6077",
+  "content": "[[include :scp-wiki-cn:theme:black-highlighter-theme]]\n\n**项目编号：**SCP-6077\n\n**项目等级：**Explained\n\n**特殊收容措施：**SCP-6077的其他任何相关实例都将从公众记录之中抹除。若此措施失败，则以普通的无线电异常为由进行误传行动。\n\n**描述：**SCP-6077是一系列完全相同的传输信号，由一种先前从未被发现的、基于超光子的传输方式自至少数十个恒星系当中被接收。SCP-6077的首例接收于1977年8月15日，被称作“哇！信号”事件，因主持天文学家杰里·艾曼（Jerry R. Ehman）于打印纸誊写下的感叹而得名。\n\nSCP-6077是基金会从1978年至2022年内的一份重大方案焦点，因为基金会接收到了额外的副本，能够将其添写为一份更加清晰的版本。经过基金会天文学家、密码学家以及语言学家的大量研究和努力，最终确认SCP-6077在集体传输以下信息：\n[[=]]\n[[collapsible show=\"打开抄本\" hide=\"关闭抄本\"]]\n> {{来自[无法翻译]与[无法翻译]联合世界的协调信息}}\n> @@ @@\n> {{我们对扰动进行正式控告}}\n> @@ @@\n> {{请终止原始传输手段的过度运用}}\n> @@ @@\n> {{强烈要求舰队遵从}}\n[[<]]\n截至2027年8月15日，并未收到进一步的相关通讯，SCP-6077依然是唯一一例被证实的人类与地外生命之交流记录。\n[[/<]]\n[[/collapsible]]\n[[/=]]\n\n@@ @@\n\n@@ @@\n\n@@ @@\n\n[[div class=\"footer-wikiwalk-nav\"]]\n[[=]]\n<< [[[SCP-6076]]] | SCP-6077 | [[[SCP-6078]]] >>\n[[/=]]\n[[/div]]\n\n[[include :scp-wiki-cn:component:license-box\n|author=pr0m37h3um，Azamo\n|translator=Lovesicker\n]]\n[[include :scp-wiki-cn:component:license-box-end]]",
+  "tags": [
+    "scp",
+    "合著",
+    "星际",
+    "机密分级",
+    "通讯"
+  ],
+  "author": null,
+  "created_at": "2021-11-02T04:53:49+00:00",
+  "updated_at": "2023-01-09T04:11:10+00:00",
+  "rating": 4,
+  "_site": "scp-wiki-cn",
+  "_fullname": "scp-6077"
+}

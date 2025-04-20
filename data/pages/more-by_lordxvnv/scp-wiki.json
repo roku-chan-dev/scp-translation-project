@@ -1,0 +1,13 @@
+{
+  "title": "More By LORDXVNV",
+  "content": "[[=]]\n------\n[[module Rate]]\n\n[[collapsible hideLocation=\"both\" show=\"More by LORDXVNV\" hide=\"Hide\"]]\n\n------\n\n\n[[div style=\"font-weight: bold;\"]]\n[[div style=\"text-align: center;\"]]\n[[size 120%]]Other works by [[[lordxvnv |LORDXVNV!]]][[/size]]\n[[/div]]\n \n[[module ListPages created_by=\"LORDXVNV\" separate=\"no\" order=\"rating desc\" perPage=\"250\" tags=\"+scp\" prependLine=\"||||~ [[size 120%]]SCPs[[/size]] ||\"]]\n|| %%title_linked%% || Rating: %%Rating%% ||\n[[/module]]\n \n[[module ListPages created_by=\"LORDXVNV\" separate=\"no\" order=\"rating desc\" perPage=\"250\" tags=\"+tale\" prependLine=\"||||~ [[size 120%]]Tales[[/size]] ||\"]]\n|| %%title_linked%% || Rating: %%Rating%% ||\n[[/module]]\n \n[[module ListPages created_by=\"LORDXVNV\" separate=\"no\" order=\"rating desc\" perPage=\"250\" tags=\"+goi-format\" prependLine=\"||||~ [[size 120%]]GOI Formats[[/size]] ||\"]]\n|| %%title_linked%% || Rating: %%Rating%% ||\n[[/module]]\n \n[[module ListPages created_by=\"LORDXVNV\" separate=\"no\" order=\"rating desc\" perPage=\"250\" tags=\"+hub\" prependLine=\"||||~ [[size 120%]]Hubs[[/size]] ||\"]]\n|| %%title_linked%% || Rating: %%Rating%% ||\n[[/module]]\n \n++ Collaborations!\n||||||~ [[size 120%]]SCPs[[/size]] ||\n||~ Page ||~ Title ||~ Co-Author ||\n|| [[[SCP-6301]]] || Funky Finn's Children Happy Hour || [[*User Grigori Karpin]], [[*User GremlinGroup]] ||\n|| [[[SCP-6447]]] || Sinners' Symphony || Many. ||\n|| [[[SCP-6483]]] || The Polar Express|| [[*User Ralliston]]||\n|| [[[SCP-6542]]] || Virgin Dairy 2: SECOND CHURNING || [[*User JakdragonX]]||\n|| [[[SCP-6596]]] || 8 Mile: The Beast of Lust and Hatred Born|| [[*User PlaguePJP]]||\n|| [[[SCP-6760]]] || Better Luck Next Time|| [[*User Liryn]]||\n||||||~ [[size 120%]]Tales[[/size]] ||\n||||~ Page ||~ Co-Author ||\n|||| [[[A Nightmare Dreary]]] || [[*user DodoDevil]], [[*user DrGooday]], [[*user LAN 2D]], [[*user Impperatrix]] ||\n|||| [[[The Bathrooms Wiki]]] || [[size 150%]]##red|**THE YURT**##[[/size]] ||\n||||||~ [[size 120%]]Hubs[[/size]] ||\n||||~ Page ||~ Co-Author ||\n|||| [[[SPC Hub]]] || [[*user MrWrong]], [[*user Lt Flops]], [[*user PeppersGhost]] ||\n|||| [[[Holiday Hub]]] || [[*user Deadly Bread]], [[*user PeppersGhost]], [[*user TheBoxOfFun]] ||\n\n[[/div]]\n[[/collapsible]]\n[[/=]]",
+  "tags": [
+    "more-by"
+  ],
+  "author": "LORDXVNV",
+  "created_at": "2021-09-10T01:32:24+00:00",
+  "updated_at": "2023-11-03T19:01:00+00:00",
+  "rating": 7,
+  "_site": "scp-wiki",
+  "_fullname": "more-by:lordxvnv"
+}

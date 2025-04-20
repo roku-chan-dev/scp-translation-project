@@ -1,0 +1,13 @@
+{
+  "title": "Peppo Card Structure",
+  "content": "[[module ListPages fullname=\"{$articleURL}\" category=\"*\"]]\n[[div class=\"floater\"]]\n[[div class=\"cardHead\"]]\n= {$articleTitle}\n[[/div]]\n[[div class=\"{$showPic}\"]]\n[[div class=\"picShadow\"]]\n[[/div]]\n[[image {$articleImage}]]\n[[/div]]\n[[div class=\"article-name\"]]\n= {$articleName}\n[[/div]]\n[[div class=\"{$ratePlace}\"]]\n@@+@@ %%rating%%\n[[/div]]\n[[div class=\"article-quote\"]]\n= //\"{$articleQuote}\"//\n[[/div]]\n[[div class=\"article-credit\" style=\"display: {$showCredit1};\"]]\n= [[[{$creditLink}|{$articleCredit}]]]\n[[/div]]\n[[div class=\"article-credit\" style=\"display: {$showCredit2};\"]]\n= [[[{$creditLink2}|{$articleCredit2}]]]\n[[/div]]\n[[div class=\"image-holder\"]]\n[[image https://scp-wiki.wdfiles.com/local--files/component%3Apeppo-card-structure/noise.png class=\"linkle\" link=\"{$articleLink}\"]]\n[[/div]]\n[[/div]]\n[[/module]]",
+  "tags": [
+    "component-backend"
+  ],
+  "author": "PeppersGhost",
+  "created_at": "2020-09-12T23:10:31+00:00",
+  "updated_at": "2021-08-15T22:31:18+00:00",
+  "rating": 1,
+  "_site": "scp-wiki",
+  "_fullname": "component:peppo-card-structure"
+}

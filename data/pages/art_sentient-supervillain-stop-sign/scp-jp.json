@@ -1,0 +1,15 @@
+{
+  "title": "自我持ちスーパーヴィラン停止標識",
+  "content": "[[=]]\n[[module Rate]]\n[[/=]]\n\n[[include :scp-jp:theme:black-highlighter-theme]]\n[[include :scp-jp:theme:jakstyle]]\n\n[[module CSS]]\n:root {\n--header-title: \"RemixCon2023\";\n--header-subtitle: \"Remix, Remix, Remix Again\";\n--lgurl: url(http://scp-jp-storage.wikidot.com/local--files/file:2375337-770-fko2/tg_logo.svg);\n}\n[[/module]]\n\n[[=image http://scp-jp-storage.wikidot.com/local--files/file:2375337-771-tr6w/SynthRemix2023.png]]\n\n[[=]]\n[[size 200%]][*https://scp-wiki.wikidot.com/synthpanda SynthPanda_の他の著作はこちら][[/size]]\n[[/=]]\n@@@@",
+  "tags": [
+    "en",
+    "remixcon2023",
+    "アートワーク"
+  ],
+  "author": "C-Dives",
+  "created_at": "2023-09-05T16:19:28+00:00",
+  "updated_at": "2023-09-08T06:47:11+00:00",
+  "rating": 22,
+  "_site": "scp-jp",
+  "_fullname": "art:sentient-supervillain-stop-sign"
+}

@@ -1,0 +1,14 @@
+{
+  "title": "警告",
+  "content": "[[div class=\"content-panel standalone series\"]]\n\n[[=]]\n\n++ 检测到试图访问光明骑士团数据库的请求！\n\n[[/=]]\n\n----\n\n[[module ListUsers users=\".\"]]\n欢迎您，%%title%%。\n[[/module]]\n\n请注意以下信息：\n\n[[div class=\"blockquote\"]]\n//您将要访问的页面是相关组织“光明骑士团”官方网站的安全版本，其已模拟并集成至基金会数据库中。//\n\n//本页面仅供参考。SCP基金会不支持该组织的意识形态、教条或方法，并对其内容的性质不承担任何责任。因此，不得以任何理由对行政部门和管理层提起诉讼。//\n\n//此外，您在浏览本网站时可能遇到的任何问题或错误都应尽快向计算机服务部门报告。//\n\n//我们感谢您的洞察力与谨慎。//\n\n//- 管理员F. Ormes//\n[[/div]]\n\n[[=]]\n\n**您确认已阅读并接受上述声明吗？**\n\n**[[[l-ordre-de-la-lumiere|是的，我接受]]]**（__继续浏览__）/**[[[/|不，我拒绝]]]**（__回到主页__）。\n\n[[/=]]\n\n[[/div]]\n\n[[include component:license-box\n|lang=FR\n|author=Torrential\n|translator=Agent FS\n]]\n[[include component:license-box-end]]",
+  "tags": [
+    "fr",
+    "掩藏页"
+  ],
+  "author": "Agent FS",
+  "created_at": "2024-05-20T15:47:34+00:00",
+  "updated_at": "2024-05-20T15:47:59+00:00",
+  "rating": 0,
+  "_site": "scp-wiki-cn",
+  "_fullname": "avertissement"
+}

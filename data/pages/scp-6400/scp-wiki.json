@@ -1,0 +1,21 @@
+{
+  "title": "SCP-6400",
+  "content": "[[>]]\n[[module rate]]\n[[/>]]\n[[include :scp-wiki:component:cd-ver2\n|lv=1\n|item=SCP-6400\n|class=Safe\n|site-responsible=GBWLTB-Site-17\n|director=Dr.%20Cian%20Stevens\n|research-head=Technician%20Fern%20Paracha\n|assigned-task-force=N/A\n]]\n[[a href=\"*http://scp-int.wikidot.com/niveaux-de-menace-des-objets-scp\" style=\"font-size: 18px; color: black; text-shadow: 1px 3px 1px rgba(0,0,0,0.3); text-decoration: none;\"]]\n[[span_ style=\"display: inline-block; width: 100%; background-color: #EED202; text-align: center; border: 1px none #000; margin: 1px; padding-top: 8px; padding-bottom: 8px;\"]]\n**Threat Level:** Yellow\n[[/span]]\n[[/a]]\n------\n**Special Containment Procedures:** By order of the Site-17 Ethics Committee, Cell 2/23 of Facility-C is to remain empty. SCP-6400 is neither to be obstructed nor penetrated.\n\n**Description:** SCP-6400 is a circular window, currently located on the North-Western wall of Cell 2/23. It consists of a single circular pane of glass, with no gridding or opening mechanism.\n\nWhen damaged or obstructed from either end, SCP-6400 will disappear, reappearing in place of a nearby section of wall. The disappearance and subsequent reappearance of SCP-6400 appear to be instantaneous, and the area previously displaced is restored upon migration.\n\nSCP-6400 appears exclusively on exterior walls, with preference for rooms with little to no natural lighting. Offices, dormitories, and containment cells are frequently targeted by SCP-6400, comprising 94% of all manifestations.\n\nHumans and sapient entities within affected rooms are subject to a minor compulsion that semi-frequently directs them to look into SCP-6400. Time exposed to sunlight is negatively correlated with susceptibility to this effect, and those assigned an unrelated task are less susceptible than idle subjects at all levels. Among non-human and D-Class populations, weeping has been frequently observed.\n------\n[[=]]\n[[size 150%]]**ADDENDUM 6400-A**[[/size]]\n[[/=]]\n\nThe following is a photograph of SCP-6400, taken in its current position. Personnel are advised to report any lingering effects to the Department of Psychiatrics.\n\n[[=]]\n[[size 150%]] [[collapsible show=\"► Image of SCP-6400\" hide=\"▼ Access Granted\"]][[/size]]\n[[div class=\"scp-image-block block-center\" style=\"width:100%;\"]]\n[[image outthere.jpg style=\"width:100%;\" link=#]]\n[[div class=\"scp-image-caption\" style=\"width:100%;\"]]\nSCP-6400.\n[[/div]]\n[[/div]]\n[[/collapsible]]\n[[/=]]\n\n[[footnoteblock]]\n\n[[div class=\"footer-wikiwalk-nav\"]]\n[[=]]\n<< [[[SCP-6399]]] | SCP-6400 | [[[SCP-6401]]] >>\n[[/=]]\n[[/div]]\n\n[[include component:license-box]]\n=====\n[[div class=\"blockquote\"]]\n**Filename:** outthere.jpg\n**Name:** View North-west through a Panopticon window - geograph.org.uk - 1504624.jpg\n**Author:** David Long\n**License:** CC BY-SA 2.0\n**Source Link:** [http://w.wiki/7BxC Wikimedia Commons][[/div]]\n=====\n[[include component:license-box-end]]",
+  "tags": [
+    "6000",
+    "_cc",
+    "_licensebox",
+    "building",
+    "compulsion",
+    "light",
+    "safe",
+    "scp",
+    "teleportation"
+  ],
+  "author": "UraniumEmpire",
+  "created_at": "2021-05-25T18:36:44+00:00",
+  "updated_at": "2023-08-04T17:28:10+00:00",
+  "rating": 410,
+  "_site": "scp-wiki",
+  "_fullname": "scp-6400"
+}

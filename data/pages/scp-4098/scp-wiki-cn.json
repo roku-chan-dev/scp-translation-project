@@ -1,0 +1,22 @@
+{
+  "title": "SCP-4098",
+  "content": "[[include :scp-wiki:component:pride-highlighter |inc-s9-bi= --]]]\n\n[[module CSS]]\n/* HEADER */\n#header h1 a{\n    display: block;\n    margin: 0;\n    padding: 80px 0 25px;\n    line-height: 0;\n    max-height: 0;\n    color: transparent;\n    background: transparent;\n    font-family: 'Verdana', Arial, sans-serif;\n    text-decoration: none;\n    text-shadow: none;\n    letter-spacing: 0.9px;\n}\n#header h1 a::before{\n    content: \"误传部门\";\n    color: white;\n    letter-spacing: -0.02em;\n    text-shadow: 3px 3px 5px black;\n}\n#header h2 span{\n    display: block;\n    margin: 0;\n    padding: 19px 0;\n    line-height: 0;\n    max-height: 0;\n    font-weight: bold;\n    color: transparent;\n    text-shadow: none;\n}\n#header h2 span::before{\n    content:'筛除 传讯 偏误';\n    color: white;\n    text-shadow: 1px 1px 1px black;\n}\n[[/module]]\n\n\n[[table style=\"border: none; width: 100%;\"]]\n[[row]]\n[[cell]]\n[[size 125%]]**收容藏品批次：**SCP-4098\n[[/size]]\n[[/cell]]\n[[cell style=\"text-align: right;\"]]\n[[size 125%]]**###990000|授权参与品阶 4/4098##**[[/size]]\n[[/cell]]\n[[/row]]\n[[row]]\n[[cell]]\n[[size 125%]]**收容藏品评级：**“双生创世”评定[[/size]]\n[[/cell]]\n[[cell style=\"text-align: right;\"]]\n[[size 125%]]**###990000|涉密处理篇目##**[[/size]]\n[[/cell]]\n[[/row]]\n[[/table]]\n----\n\n[[div class=\"scp-image-block block-center\" style=\"width:100%;\"]]\n[[image https://scp-wiki.wdfiles.com/local--files/scp-4098/scpscp.png style=\"width:100%;\" link=#]]\n[[div class=\"scp-image-caption\" style=\"width:100%;\"]]\nSite-94曾用配套。\n[[/div]]\n[[/div]]\n\n----\n\n**收容措施铺排：**SCP-4098使用篡改篇名。数六成员配额，设为长期派遣。树脂纯色屏障双层成对盘覆，视线处于屏蔽，收容超常品项。\n\nSCP-4098势必持续屏蔽SCP-4098-1随时产出批量思觉冲击破坏。上述此类屏蔽是有存疑，凭借SCP-4098-1始终处于平稳，视为措施匹配。\n\n试想措施铺排失灵，此时派出社员垂询[[[domc-hub|偏误说辞处理平台]]]。\n\n**属性阐述配文：**SCP-4098是一超常平面设施，曾经派属Site-94产业配套。Site-94长于剖析：思觉冲击破坏＆失常传播品项。\n\nSCP-4098使得传播拼读受损，词句评述Site-94出现偏移。上述传播拼读，设限词汇判断，双字成词拼组，顺连词首拼音：SCP。\n\nSite-94此前配存时下存放平台Site-96，出现纰漏。Site-94措施品质胜过此时平台Site-96持有配置。时下处理配案，势要筹建片区守护才智，破局。\n\nSCP-4098-1是一超常品项，收容措施破损，随时产出批量思觉冲击破坏。识别、察觉、破解SCP-4098-1属性，聪慧品种生物猝死仆地。\n\n受命成员配合，“苏氏蠢笨品格”试案成功铺设，SCP-4098顺利篡改拼读。上述措施平稳施行，成功屏蔽庶民察觉偏异。授命处长排查，速速呈交品项设定陈述判词。SCP-4098-1深层成分普遍收集处置，配备Site-94创建品项，实施此种平抑。\n\n**上文充添旁录：**\n> //事前：初等品级受命成员，佩戴Site-94陈旧配件，身心迟疑疲惫，说出成句拼词：“嘶为呲什噼么嘶你呲们噼不嘶试呲试噼这嘶样呲说噼话？”//\n> \n> //事后：程序破坏，十七惨死仆地，视察成员批捕，受到惩处判决。似如此类破戒事例，从严屏蔽。//\n\n[[=]]\n[[div class=\"footer-wikiwalk-nav\"]]\n« [[[SCP-4097]]] | SCP-4098 | [[[SCP-4099]]] »\n[[/div]]\n[[collapsible show=\"显示译文\" hide=\"隐藏译文\"]]\n**法语** - http://fondationscp.wikidot.com/scp-4098\n\n**汉语** - http://scp-wiki-cn.wikidot.com/scp-4098\n\n**日语** -  http://scp-jp.wikidot.com/scp-4098\n\n**韩语** - http://ko.scp-wiki.net/scp-4098\n\n**西语** - http://lafundacionscp.wikidot.com/scp-4098\n\n[[/collapsible]]\n[[/=]]\n\n[[include :scp-wiki-cn:component:license-box\n|author=Westrin 与 Henzoid\n|translator=DouglasLiu 与 Sharethesilence]]\n=====\n> **文件名：**scpscp.png\n> **图像名：**Landsman Research Facility, Brandeis University\n> **图像作者：**Kenneth C. Zirkel\n> **授权协议：**CC BY-SA 4.0\n> **来源链接：**[https://commons.wikimedia.org/wiki/File:Landsman_Research_Facility,_Brandeis_University.jpg 维基共享]\n=====\n[[include :scp-wiki-cn:component:license-box-end]]",
+  "tags": [
+    "scp",
+    "thaumiel",
+    "信息危害",
+    "合著",
+    "基金会制",
+    "建筑",
+    "模因",
+    "现象",
+    "认知危害",
+    "误传部"
+  ],
+  "author": "Sharethesilence",
+  "created_at": "2019-08-26T04:49:27+00:00",
+  "updated_at": "2024-06-01T01:18:33+00:00",
+  "rating": 201,
+  "_site": "scp-wiki-cn",
+  "_fullname": "scp-4098"
+}

@@ -1,0 +1,18 @@
+{
+  "title": "SCP-4054",
+  "content": "[[module CSS]]\n@import url(\"http://www.scp-wiki.net/component:scp-pride/code/1\")\n[[/module]]\n\n[[include component:image-block name=http://scp-wiki.wdfiles.com/local--files/scp-4054/box_art.png|caption=**{{Fig 1.1：}}**《第七之门》的包装画]]\n\n**项目编号：**SCP-4054\n\n**项目等级：**Safe\n\n**特殊收容措施：**应保有三台改装后可运行SCP-4054的NES[[footnote]]任天堂娱乐系统Nintendo Entertainment System。[[/footnote]]游戏机以供测试之用。SCP-4054保存于站点安保锁柜内。限3级以上人员接触。\n\n监控跳蚤市场、庭院销售和财产拍卖中的异常活动的基金会特工将被告知SCP-4054的存在。任何怀疑是SCP-4054拷贝的NES卡带将被收购以供检查。\n\n基金会运行机器人（I/O-SAURON）将监控网络游戏社群中是否讨论到SCP-4054的存在。MTF Mu-4（“除障者”）及MTF Gamma-5（“红鲱鱼”）将展开联合行动调查这些讨论，确认是否有参加者发现了SCP-4054。\n\n[[include component:image-block name=http://scp-wiki.wdfiles.com/local--files/scp-4054/atitle.png|caption={{**Fig 1.2：**}}标题画面]]\n\n所有拷贝将被回收，采取行动将SCP-4054的存在误导为骗局或都市传说。任何对SCP-4054的截屏或视频将被移除，或替代为篡改图像来进一步保持这一叙事。\n\n**描述：**SCP-4054是一款未认证平台冒险游戏《第七之门》，于1988年发布于任天堂娱乐系统（NES）平台。每份卡带的内容大幅超出其ROM[[footnote]]只可读内存。[[/footnote]]芯片的极限。提取SCP-4054源代码后将产生出一超大数据文件，其大小超出当前任何可用设备的容量。 \n\n因发行有限（三百份）、无法拷贝、可重玩性有限且处于未完成状态，《第七之门》的可运行拷贝在古典NES收藏着中具有颇高价值。该游戏还以独特的方式绕开了北美版10NES锁定系统[[footnote]]10NES锁定系统是任天堂为防止未认证卡带在其机器上运作而设计。[[/footnote]]。\n\n[[include component:image-block name=http://scp-wiki.wdfiles.com/local--files/scp-4054/screenshot1.png|caption={{**Fig 1.3：**}}第5关（大墓地）]]\n\n每一卡带内有两个晶体管组成电压逆化器。被启动后，该元件会产生一负极电压尖峰，可以临时瘫痪早期版游戏机的CIC[[footnote]]校验集成电路。[[/footnote]]，绕过验证锁定，使得未认证卡带得以运行。后续版本NES在二极管旁添置了1k电阻器，阻止了此种破解技术。\n\n然而，该电压逆化器的设计缺陷令其会随每次重置对《第七之门》的SRAM[[footnote]]静态随机存取存储器。[[/footnote]]造成不可逆损坏。这将产生越来越多的游戏错误，最终使得卡带无法运行。 \n\n《第七之门》在完成前就被送出。因此，多个游戏核心要素与其手册和封面包装上的描述存在差别。\n\n[[include component:image-block name=http://scp-wiki.wdfiles.com/local--files/scp-4054/screenshot2.png|caption={{**Fig 1.4：**}}第7关（埋葬之城）注意多个子画面和地图块未正确载入]]\n\n* 主角没有额外生命；每次死亡后所有进度丢失。卡带重置。\n* 手册中描述的所有升级缺失，只余一个（//神圣之手//[[footnote]]根据欧洲民间传说，//神圣之手//是一个犯有谋杀罪而被处以绞刑的人的左手。当被用作蜡烛时，那些能感知到烛光的人不能接近它的持有者。[[/footnote]]，能让怪物和平台停止移动10秒)。\n* 所有怪物缺失。\n* 掉入坑中不会令主角死亡。主角会掉出屏幕外，游戏结束音效循环播放。\n* 内存溢出错误定期造成子画面载入出错。\n* 囚犯使用主角的子画面而非其自己的独特子画面。\n* 解锁门后，囚犯对其他钥匙的下落不会给出线索（文本框空白）。\n* 主角似乎会随机间隔地死亡（一般会在静止不动一段时间后）。无论游戏是否暂停都会发生此情况。\n* 迄今，研究员发现在第七关（手册上将其描述为最后一关，以及第七钥匙的所在地）后还有数百个关卡。这些楼层由大量的地窖、囚牢、废弃工厂和无人地下城组成。尚未确认第七层后额外关卡的准确数量，但这已大幅超出了卡带ROM芯片的存储容量。\n* 第七关内并无第七钥匙。\n\n**附录4054.1：**视频直播\n\n[[include component:image-block name=http://scp-wiki.wdfiles.com/local--files/scp-4054/stream.png|caption={{**Fig 1.5：**}}用户inky49的视频直播截图]]\n\n2004年，Charles Rogers（业余NES卡带收藏者）在@@www.opening-the-seventh-door.int@@（现已关停的《第七之门》专题网络论坛）上以用户名“inky49”发布主题帖。他称可以使用NES金手指[[footnote]]金手指是1990年生产的“游戏增强”模组，加装在NES卡带和游戏机之间。它能允许通过角色操作来对ROM的引用地址，或者说“代码”进行直接修改。[[/footnote]]直接设置角色的第七钥匙数量。\n\n数天后，Rogers先生发布一在线视频直播连接，意图使用这一发现打通《第七之门》。在他游玩过程中，视频突然停止。后续调查确认Rogers先生失踪；警方发现Rogers先生的NES游戏机上有他的左手指甲残留，怀疑存在他杀[[footnote]]未发现《第七之门》拷贝。[[/footnote]]。\n\n目前，SCP-4054和25起失踪案存在关联。仍在对此展开调查。\n\n[[footnoteblock]]\n\n[[div class=\"footer-wikiwalk-nav\"]]\n[[=]]\n<< [[[SCP-4053]]] | SCP-4054 | [[[SCP-4055]]] >>\n[[/=]]\n[[/div]]",
+  "tags": [
+    "safe",
+    "scp",
+    "媒体",
+    "游戏",
+    "电子",
+    "逆模因"
+  ],
+  "author": "ashausesall",
+  "created_at": "2018-12-13T07:32:31+00:00",
+  "updated_at": "2020-08-04T11:45:12+00:00",
+  "rating": 14,
+  "_site": "scp-wiki-cn",
+  "_fullname": "scp-4054"
+}

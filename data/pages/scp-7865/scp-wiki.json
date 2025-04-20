@@ -1,0 +1,27 @@
+{
+  "title": "SCP-7865",
+  "content": "[[div class=\"readtime creditRate\"]]\n[[size 80%]]  ⧗ 1h10min read [[/size]]\n[[/div]]\n\n[[div style=\"margin: 3px 0;\"]]\n[[/div]]\n\n[[include :scp-wiki:info:start]]\n⚠️ Content warning: This article contains heavy subject matter that includes murder, references to self-harm, suicidal ideation, and depictions of torture.\n[[include :scp-wiki:info:end]]\n[[include :scp-wiki:component:info-cw]]\n\n[[module ListPages category=\"fragment\" parent=\".\" limit=\"1\" order=\"created_at\" offset=\"@URL|0\"]]\n%%content%%\n[[/module]]\n\n[!--\nhttps://scp-wiki.wikidot.com/fragment:scp-7865-0\nhttps://scp-wiki.wikidot.com/fragment:scp-7865-1\n\nhaha please dont break --]\n\n[[include :scp-wiki:component:license-box]]\n=====\n> **Filename:** 1200px-Colossus.jpg\n> **Name:** Colossus\n> **Author:** Unknown\n> **License:** Public Domain\n> **Source Link:** [https://commons.wikimedia.org/wiki/File:Colossus.jpg Wikimedia Commons]\n=====\n[[include :scp-wiki:component:license-box-end]]",
+  "tags": [
+    "_cc",
+    "_licensebox",
+    "_listpages",
+    "alive",
+    "biological",
+    "computer",
+    "ethics-committee",
+    "euclid",
+    "foundation-made",
+    "humanoid",
+    "mathematical",
+    "predictive",
+    "probability",
+    "sapient",
+    "scp"
+  ],
+  "author": "antiempress",
+  "created_at": "2023-04-07T04:25:38+00:00",
+  "updated_at": "2023-04-29T02:42:17+00:00",
+  "rating": 81,
+  "_site": "scp-wiki",
+  "_fullname": "scp-7865"
+}

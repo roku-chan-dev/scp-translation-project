@@ -1,0 +1,14 @@
+{
+  "title": "Info Bar",
+  "content": "[[iftags +구성요소]]\n[[note]]\n**제작:**\n[[*user Ayers]]\n----\n**많은 도움 주신 분:**\n[[*user Woedenaz]]\n----\n**조언해 주신 분:**\n[[*user Rounderhouse]], [[*user djkaktus]] and [[*user Uncle-Nicolini]]\n----\n**한글화:**\n[[*user XCninety]]\n----\n**사용설명서:**\n[#toc4 여기로]\n[[/note]]\n-----\n\n\n++ __예시__\n\n[[include :scpko:component:info-ayers-source\n|lang=ko[!-- EN/RU/KO/CN/FR/PL/ES/TH/JP/DE/IT/UA/PTBR --]\n|page=component:info-ayers[!-- 위키상의 페이지 url --]\n|authorPage=http://www.scp-wiki.net/ayers-array[!-- 작가 페이지 링크 --]\n|comments=날 봐줘! 나는 경기도 안양의 인포 모듈이다! 예이!\n]]\n[[collapsible show=\"[+] 예시 코드\" hide =\"[-] 예시 코드\"]]\n> [[include :scpko:component:info-ayers\n> |lang=ko[!-- EN/RU/KO/CN/FR/PL/ES/TH/JP/DE/IT/UA/PTBR --]\n> |page=component:info-ayers[!-- 위키상의 페이지 url --]\n> |authorPage=http://www.scp-wiki.net/ayers-array[!-- 작가 페이지 링크 --]\n> |comments=날 봐줘! 나는 경기도 안양의 인포 모듈이다! 예이!\n> ]]\n[[/collapsible]]\n\n@@ @@\n@@ @@\n\n++ __이거 뭔가요?__\n\n작품에 대한 메타 정보를 그 작품 맨 위에서 보여주는 도구입니다. 보통은 작품의 흐름을 끊어먹지 않고는 불가능한 일이지만, 이 도구를 이용하면 세계관 바깥의 정보 (ex : 비평한 사람, 작가 코멘트) 들을 독자 경험을 저해하거나 작가가 포스트를 내놓고 덧붙이는 일 없이 보여줄 수 있습니다.\n\n이곳에 내용에 관한 경고문을 넣으시는 작가들도 있는데, 일반적으로 넣는 것도 아니고 꼭 넣을 필요도 없다는 점을 명심해 주세요. 작품에 내용 경고문이 없다면 대개는 그냥 경고할 만한 내용이 없기 때문입니다.\n@@ @@\n@@ @@\n\n++ __블랙 하이라이터 (nuSCP) 테마에 부속된 도구 아닌가요?__\n\n아닙니다. 같이 쓴다면야 되게 멋있겠지만, 서로 따로 사용할 수 있는 모듈입니다. 둘이 같이 보이는 이유는 //둘 다 간지나게 생겼기 때문입니다//.\n@@ @@\n@@ @@\n++ __어떻게 기능하고, 어떻게 사용하나요?__\n접기 구문입니다. 그게 다예요. 굉장히 스타일리쉬한 접기 구문.\n\n아래 코드를 글 **맨 위에** 추가하시면 됩니다.\n> [[include :scpko:component:info-ayers\n> |lang=ko@@[!-- EN/RU/KO/CN/FR/PL/ES/TH/JP/DE/IT/UA/PTBR --]@@\n> |page=scp-XXXX@@[!-- 위키상의 페이지 url --]@@\n> |authorPage=http://www.scp-wiki.net/yourAuthorPage@@[!-- 작가 페이지 링크 --]@@\n> |comments=붙일 말 (이미지 출처, 비평한 사람, 기타등등)\n> ]]\n**중요한 점:** 코멘트 부분에 여러 문단을 적어넣을 경우, 각 문단 맨 끝에서 스페이스바를 한 번 쳐주지 않으면 텍스트가 표시되지 않습니다! 또한, 코멘트가 맨 마지막에 \"]]\" (div 블록) 으로 끝날 경우 그 뒤에 \"@@@@@@ @@\"를 추가하셔야 합니다.\n\n-----\n이 템플릿에 있는 다양한 div들은 CSS 모듈로 조정할 수 있습니다. 다음 요소들을 제거하려면 이 div들을 숨기면 됩니다.\n* #u-author_block -- \"작가 더 알아보기\" 버튼\n* .translation_block -- 번역 표 버튼\n\n또한 :root 에서 두 가지 로컬 변수를 편집해 색깔을 바꿀 수도 있습니다.\n* @@--barColour: #633;@@ -- 바 자체, 작가 페이지 버튼\n* @@--linkColour: #FFF;@@ -- 글자 \"i\", 버튼 속 글자\n[[/iftags]]\n\n[[iftags -구성요소]]\n[[include :scpko:component:info-ayers-source\n|comments={$comments}\n|lang={$lang}\n|page={$page}\n|authorPage={$authorPage}\n|comments={$comments}\n]]\n[[/iftags]]",
+  "tags": [
+    "en",
+    "구성요소"
+  ],
+  "author": "XCninety",
+  "created_at": "2020-02-14T13:11:28+00:00",
+  "updated_at": "2021-09-18T17:27:17+00:00",
+  "rating": 0,
+  "_site": "scpko",
+  "_fullname": "component:info-ayers"
+}

@@ -1,0 +1,20 @@
+{
+  "title": "Horned is the Enchanter",
+  "content": "[[include :scp-wiki:theme:black-highlighter-theme]]\n[[include :scp-wiki:theme:eventyr]]\n\n[[div style=\"display: none;\"]]\n[[include component:image-block name=https://i.imgur.com/ucNFPPn.png|caption=.]]\n[[/div]]\n\n[[module css]]\n#page-title {display: none;}\n[[/module]]\n[[>]]\n[[module Rate]]\n[[/>]]\n[[include :scp-wiki:component:author-label-source start=--\n|name=sailorenoch]]\n**Authors:**\n[[*user sailorenoch]] - [https://scp-wiki.wikidot.com/art:faust-s-art-page Art Page]\nCW: Blood. While this article can be read alone, additional context on characters is given if you have read SCP-8307 prior. \n[[include :scp-wiki:component:author-label-source end=--]]\n\n[[div class=\"eventyr-title\"]]\n= Horned is the Enchanter\n\n[[/div]]\n@@ @@\n@@ @@\n[[=image 1comic.png]]\n[[=image 2comic.png]]\n[[=image 3comic.png]]\n[[=image 4comic.png]]\n\n@@ @@\n@@ @@\n@@ @@\n@@ @@\n\n\n\n[[=]]\n[[collapsible show=\"Read More?\" hide=\"Close\"]]\n[[=image https://i.imgur.com/Kb5mDQP.png]]\n☆ [https://scp-wiki.wikidot.com/scp-8307 “The Arthurian Cycle”] by [[*user sailorenoch]]\n☆ [https://scp-wiki.wikidot.com/let-there-be-green \"Let there be Green\"] by [[*user Rosyfox2002]]\n☆ [https://scp-wiki.wikidot.com/scp-8191 SCP-8191 “Fisher Queen”] by [[*user rottingraisins]]\n★ [https://scp-wiki.wikidot.com/horned-is-the-enchanter Horned is the Enchanter] by [[*user sailorenoch]]\n[[/collapsible]]\n\n[[/=]]\n@@ @@\n\n[[include :scp-wiki:component:license-box\n|author=sailorenoch]]\n\n> **Filename:** PbjBWeZ.png\n> **Author:** [[*user sailorenoch]]\n> **License:** CC BY-SA 3.0\n> **Source Link:**[[[https://i.imgur.com/PbjBWeZ.png |LINK]]]\n> **Font:** [[[https://fontlibrary.org/en/font/kjv-1611 | KJV1611]]]\n> **License:** OFL license\n> **Font:** Times New Roman\n> **Notes:** I was told by [[*user Uncle Nicolini]] that Times New Roman was okay to use in images. \n\n> **Filename:** YnyT1O6.png\n> **Author:** [[*user sailorenoch]]\n> **License:** CC BY-SA 3.0\n> **Source Link:**[[[https://i.imgur.com/YnyT1O6.png |LINK]]]\n> **Font:** Times New Roman\n\n> **Filename:** bo5TLtN.png\n> **Author:** [[*user sailorenoch]]\n> **License:** CC BY-SA 3.0\n> **Source Link:**[[[https://i.imgur.com/bo5TLtN.png |LINK]]]\n> **Font:** Times New Roman\n\n> **Filename:** 4J9OS1Q.png\n> **Author:** [[*user sailorenoch]]\n> **License:** CC BY-SA 3.0\n> **Source Link:**[[[https://i.imgur.com/4J9OS1Q.png |LINK]]]\n> **Font:** Times New Roman\n\n> **Filename:** logo.png\n> **Author:** [[*user sailorenoch]]\n> **License:** CC BY-SA 3.0\n> **Source Link:**[[[https://i.imgur.com/Kb5mDQP.png |LINK]]]\n> **Font:** Times New Roman\n\n[[include :scp-wiki:component:license-box-end]]",
+  "tags": [
+    "_cc",
+    "_licensebox",
+    "eventyr",
+    "fantasy",
+    "first-person",
+    "illustrated",
+    "publicdomaincon2025",
+    "tale"
+  ],
+  "author": "sailorenoch",
+  "created_at": "2025-03-04T03:43:08+00:00",
+  "updated_at": "2025-03-13T22:47:47+00:00",
+  "rating": 39,
+  "_site": "scp-wiki",
+  "_fullname": "horned-is-the-enchanter"
+}

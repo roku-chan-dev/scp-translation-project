@@ -1,0 +1,20 @@
+{
+  "title": "SCP-6036（旧）",
+  "content": "[[include :scp-wiki-cn:component:centered-header-sigma-9]]\n[[include :scp-wiki:component:toggle-sidebar]]\n\n[[include :scp-wiki-cn:component:author-label-source start=--\n|name=Fish^12]]\n花了三十分钟写了这个。哦？这又是什么？这是我的[http://scp-wiki-cn.wikidot.com/me-join-military| 作者页]。\n[[include :scp-wiki-cn:component:author-label-source end=--]]\n\n**项目编号：**SCP-6036\n\n**收容等级：**Euclid\n\n**特殊收容措施：**SCP-6036无法被直接收容。但因其自我收容性质，及无法通过非异常途径发现，认为无需对其进行收容。只要基金会继续运作，人类继续进步，收容措施便并非必要。\n\n**描述：**SCP-6036为一涉及自知力的整体异常。据悉，SCP-6036于摄入特定信息后出现，而这很大程度上取决于外在现实。\n\nSCP-6036的出现与以下属性呈负相关：\n\n* 较高的社会地位\n* 文化环境\n* 平均技术接触度\n* 非文化信仰下，对于异常具体或密切的了解\n\nSCP-6036最初可被视为一种偏头痛，随后表现为癫痫发作、呼吸急促、心律失常，并最终死亡。\n\n**发现：**据悉，所有该类异常都有几率造成感知到它们的个体死亡。而在由Dr. Jeremy近期提出的另一假设之前，这一直被认为是一种潜在特性。\n\n调查了SCP-6036的发生率后，Dr. Jeremy发现许可等级较高的异常更有可能诱发SCP-6036。此外还发现，自1870年基金会创立以来，SCP-6036的发生率有所下降。科技发展峰值的出现也将极大降低其发生率，如1903年首架飞机问世，或1958年首颗人造卫星进入轨道。\n\n自太空竞赛结束以来，SCP-6036的发生率大幅下降，且通常只发生在具有共享全知或无所不在信息能力的特定异常中。\n\n这些结论已在以下测试记录中得到证实。\n\n-----\n-----\n\n[[div class=\"blockquote\"]]\n\n**实验：**SCP-6036/1 - 10/21/2021\n\n**测试对象：**Dr. Jeremy Filia（50岁/男性）\n\n-----\n\n**结果：**本实验为基准测试。\n\nDr. Filia被告知了有关SCP-6970与Site-12的内容，此前他对二者均一无所知。\n\n未发生影响。\n\n[[/div]]\n\n-----\n-----\n\n[[div class=\"blockquote\"]]\n\n**实验：**SCP-6036/5 - 10/28/2021\n\n**测试对象：**Maxine Graham（77岁/女性）\n\n-----\n\n**结果：**本实验为基金会对SCP-6036的首次实验，涉及一位平民。\n\nMrs. Graham被告知了基金会的常规活动，并获得了两种低风险，安全级别异常的访问权限。\n\n简言之，Mrs. Graham曾怀疑过异常的存在，但从未予以深究。该人员随后被施以记忆清除，并回归公众。\n\n[[/div]]\n\n-----\n-----\n\n[[div class=\"blockquote\"]]\n\n**实验：**SCP-6036/22 - 11/02/2021\n\n**测试对象：**D-20299，John Dark（54岁/男性）\n\n-----\n\n**结果：**本实验为首次成功对SCP-6036进行的有意实验。\n\nD-20299在未经上报的情况下获得了5级异常访问许可。他此前一直从事基础维护工作，并未接触任何异常。\n\n该人员获得的权限可自由访问所有涉及异常的文件，及记载基础操作的补充文件。他花了一小时二十分通读这些文件，期间开始口吐白沫。为了不损坏文件，需对该人员施加干扰。\n\n在强行扳开D-20299的双手取出文件后，该人员因SCP-6036影响而死亡。\n\n[[/div]]\n\n-----\n-----\n\n[[div class=\"blockquote\"]]\n[[div style=\"height:22px;\"]]\n[[/div]]\n[[collapsible show=\"需Delta-T访问权限。\" hide=\"欢迎。\"]]\n\n**实验：**SCP-6036/43 - 124 B.C.\n\n**测试对象：**Barnabus Vesta（34岁/男性）\n\n-----\n\n**结果：**基金会首次涉及时间旅行的实验。对象为一名自然死亡的罗马农场主，其洛伦兹值（非异常时间相关性的最小值）产生了0.01的变化。\n\n对象很快了解到奇多是如何生产的，并得到一个样品。他吃掉了它。\n\n随后，该对象立即诱发了SCP-6036。\n\n[[/collapsible]]\n[[div style=\"height:22px;\"]]\n[[/div]]\n[[/div]]\n\n[[footnoteblock]]\n\n[[div class=\"footer-wikiwalk-nav\"]]\n[[=]]\n<< [[[SCP-6035]]] |  SCP-6036 | [[[SCP-6037]]] >>\n[[/=]]\n[[/div]]",
+  "tags": [
+    "euclid",
+    "scp",
+    "旧页面",
+    "未收容",
+    "概念",
+    "模因",
+    "知识",
+    "认知危害"
+  ],
+  "author": "Hg-lab",
+  "created_at": "2021-10-23T07:18:00+00:00",
+  "updated_at": "2023-12-19T12:03:55+00:00",
+  "rating": 3,
+  "_site": "scp-wiki-cn",
+  "_fullname": "old:scp-6036"
+}

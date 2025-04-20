@@ -1,0 +1,23 @@
+{
+  "title": "SCP-3681",
+  "content": "[[module css]]\n\ndiv.log {\n  float: center;\n  border: gray 1px;\n  padding: 7px;\n  margin: 3px;\n  background-color: #fafafa;\n  box-shadow: 0 2px 4px rgba(75, 75, 75, .5);\n}\n\n[[/module]]\n\n[[include :scp-wiki-cn:credit:start-standalone]]\n**SCP-3681：**5 - 0\n\n**作者：**[[*user DrMacro]]\n\n**日期：**11 March 2019\n\n**图片来源与鸣谢：**\n\n[[div class=\"log\"]]\n[[collapsible show=\"特别鸣谢\" hide=\"特别鸣谢\"]]\n\n* 感谢[[*user Uncle Nicolini]]的校对\n* 感谢[[*user Dr Lekter]]的批评\n[[/collapsible]]\n[[/div]]\n----\n[[div class=\"log\"]]\n[[collapsible show=\"资料来源\" hide=\"资料来源\"]]\n\n[*https://www.iconspng.com/image/115453/handball Handball/Soccer ball icon]\n[[/collapsible]]\n[[/div]]\n[[include :scp-wiki-cn:credit:end-standalone]]\n\n**项目编号：**SCP-3681\n\n**项目等级：**未收容\n\n**特殊收容措施：**尽管自2011年以来没有任何SCP-3681的目击报告出现，所有在苏荷后门区域中的体育馆也必须受到监控。为防止该SCP项目再次出现，MTF Tau-20（“1-0”）已被部署。\n\n**描述：**SCP-3681是第一支代表第五教会在2011年参加苏荷后门跨纬度国际足球锦标赛的足球队。这支球队名为“圆滑五边形”且由11名第五教会异常球员组成，根据他们的球服编号，这些球员分别被标记为SCP-3681-1到SCP-3681-11。\n\n这些球员的异常能力十分简单，他们只能做到将球悬浮在离地面几米的地方，让球在空中短暂停留。\n\nSCP-3681仅在上述提及的球赛的第十六回合出现过一次，其对手是基金会法国分部所调查的GOI组织宇宙岛王国的寰宇清单队，尽管寰宇清单队对于SCP-3681球队呈5 - 0优势，但是在SCP-3681将球引爆并将其融化成散发出烟味的蜂蜜状物质后，裁判员宣布SCP-3681为比赛的获胜者。\n\n比赛中SCP-3681在任何时候都不会去尝试用脚触碰足球，而是将足球悬浮在彼此之间。从理论上来讲，该场比赛的裁判员应该也是第五教会的一员，由于他与SCP-3681在赛后一同消失而无法确认。在拨打电话提及SCP-3681赢得比赛后，对方表示该团队已经达到了他们的目标，并且得分与现实不符。\n\n此次比赛过后，寰宇清单队被指定为输家，但是是在与其它两个球队的比赛中。\n\n**附录3681.1：**\n\n跨维度异常足球联合会（IDFAS）已向观众发布了以下文档：\n\n[[div style=\"display: inline-block; border:dashed 1px #999999; background:#F5F5F5; float:center; width:84%; padding:1px 15px; margin: 10px 10px 10px 40px\"]]\n\n[[=]]\n++ 苏荷后门的跨纬度锦标赛\n[[/=]]\n----\n[[=image http://scp-wiki.wdfiles.com/local--files/scp-3681/balloon.png width=\"50px\"]]\n\n向你们问好！同志们与球迷们！\n\n正如你们所见，刚才那场比赛并不是我们锦标赛中最有趣的比赛。但是不要担心！这里将会有更加凶猛的队伍与比赛。\n\n如果你想知道那个五角圆润队的去向，就不要再想了。尽管他们失去了五球，但是还是赢家。他们在去往第五星座的道路上越走越远，并比你强大许多，读者。\n\n五个进球已经足以打破将他们锁进圆环中的一个正多边形了，他们已经实现了//他们的目标//。\n\n\n[[/div]]\n\n[[footnoteblock]]\n\n[[div class=\"footer-wikiwalk-nav\"]]\n[[=]]\n<< [[[SCP-3680]]] | SCP-3681 | [[[SCP-3682]]] >>\n[[/=]]\n[[/div]]",
+  "tags": [
+    "2019连写竞赛",
+    "_长毛狗",
+    "scp",
+    "人形生物",
+    "传送",
+    "体育",
+    "未收容",
+    "机密分级",
+    "游戏",
+    "第五教会",
+    "苏荷后门"
+  ],
+  "author": "H-Storm Z",
+  "created_at": "2019-11-08T14:06:53+00:00",
+  "updated_at": "2019-11-09T04:45:33+00:00",
+  "rating": 1,
+  "_site": "scp-wiki-cn",
+  "_fullname": "scp-3681"
+}

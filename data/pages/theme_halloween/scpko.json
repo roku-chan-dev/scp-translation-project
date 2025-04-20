@@ -1,0 +1,14 @@
+{
+  "title": "할로윈 테마",
+  "content": "[[module css]]\n@import url(\"https://scpko.wdfiles.com/local--code/theme%3Ahalloween/3\");\n[[/module]]\n[[iftags +테마]]\n\n[[>]]\n[[module Rate]]\n[[/>]]\n\n테마를 이용하기 위해서는 아래 구문을 당신의 작품 어딘가에 넣어주세요.\n\n> @@[[include :scpko:theme:halloween]]@@\n~~~~\n[[include component:image-block name=https://scp-wiki.wdfiles.com/local--files/theme:halloween/example.png|caption=이미지]]\n\n+ 헤더 1단계\n\n++ 헤더 2단계\n\n+++ 헤더 3단계\n\n++++ 헤더 4단계\n\n+++++ 헤더 5단계\n\n++++++ 헤더 6단계\n\n\n**볼드체** | //이텔릭체// | __밑줄__ | --취소선-- | {{텔레타이프}} ^^윗 첨자^^,,아래 첨자,,\n\n------\n\n\n||~ 헤더 ||~ 헤더 ||~ 헤더 ||~ 헤더 ||~ 헤더 ||~ 헤더 ||\n|| 표 내용 || 표 내용 || 표 내용 || 표 내용 || 표 내용 || 표 내용 ||\n\n[[toc]]\n\n> 인용\n> 블록\n\n[[code]]\npublic class Program\n{\n    public static void Main(string[] args)\n    {\n        Console.WriteLine(\"Hello SCP!\");\n    }\n}\n[[/code]]\n\n[[code type=\"CSS\"]]\n.pestilence {\n    display: none;\n}\n[[/code]]\n\n[http://scp-wiki.net 링크] ([https://google.com 아마 방문했을 링크])\n\n[[collapsible show=\"+ 접기 구문\" hide=\"- 접기 구문\"]]\n접기 구문 속 무언가\n[[/collapsible]]\n\n\n\n\n------\n\n\n\n\n[[code type=\"CSS\"]]\n@import url(\"https://scp-wiki.wdfiles.com/local--code/theme%3Ahalloween/3\");\n\n#header h1 {\n    background: url('https://scpko.wdfiles.com/local--files/theme%3Ahalloween/hallowinthema.png') no-repeat top left;\n}\n\n/* Info module fix */\n.rate-box-with-credit-button {\n    background-color: #8022a0;\n    border: none;\n}\n\n.rate-box-with-credit-button .page-rate-widget-box .cancel a:hover {\n    border-radius: 0;\n}\n\n.modalbox {\n    background: var(--bg-medium);\n}\n[[/code]]\n[[/iftags]]",
+  "tags": [
+    "en",
+    "테마"
+  ],
+  "author": "Aiken Drum",
+  "created_at": "2018-10-24T14:45:13+00:00",
+  "updated_at": "2021-08-21T10:56:26+00:00",
+  "rating": 0,
+  "_site": "scpko",
+  "_fullname": "theme:halloween"
+}

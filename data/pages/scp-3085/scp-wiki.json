@@ -1,0 +1,30 @@
+{
+  "title": "SCP-3085",
+  "content": "[[include component:preview\ntext=\nWhat happens when a reality bender dies?\n]]\n\n[[include :scp-wiki:component:scp-pride]]\n[[include info:start]]\n⚠️ **Content warning:** This work of fiction involves scenes which depict or allude to topics which may be particularly distressing for some readers.\n\n* Suicide\n[[include info:end]]\n[[include :scp-wiki:component:info-cw]]\n\n[!-- NO TOQUES ESTO A MENOS QUE SEPAS LO QUE ESTÁS HACIENDO O TENGAS MI PERMISO, WEON. --]\n\n\n[[module ListPages  category=\"fragment\" parent=\".\" limit=\"1\" order=\"created_at\" offset=\"@URL|0\"]]\n%%content%%\n[[/module]]\n[!--\nFor Translators\nhttps://scp-wiki.wikidot.com/fragment:scp-3085-1\nhttps://scp-wiki.wikidot.com/fragment:scp-3085-2\n--]\n\n@@ @@\n@@ @@\n[[include component:wikimodule |normal= --]]]\n[[div class=\"footer-wikiwalk-nav\"]]\n[[=]]\n<< [[[SCP-3084]]] | SCP-3085 | [[[SCP-3086]]] >>\n[[/=]]\n[[/div]]\n\n[[include :scp-wiki:component:license-box |author=Uncle Nicolini, SecretCrow]]\n=====\n\n=====\n[[include :scp-wiki:component:license-box-end]]",
+  "tags": [
+    "_licensebox",
+    "_listpages",
+    "co-authored",
+    "cognitohazard",
+    "empathic",
+    "ethics-committee",
+    "humanoid",
+    "immobile",
+    "keter",
+    "light",
+    "mind-affecting",
+    "observational",
+    "reality-bending",
+    "sapient",
+    "scp",
+    "sphere",
+    "telekinetic",
+    "telepathic"
+  ],
+  "author": "Uncle Nicolini",
+  "created_at": "2021-07-15T23:06:39+00:00",
+  "updated_at": "2025-02-04T22:29:23+00:00",
+  "rating": 41,
+  "_site": "scp-wiki",
+  "_fullname": "scp-3085"
+}

@@ -1,0 +1,16 @@
+{
+  "title": "ショーンのピクセル・アート",
+  "content": "[[include :scp-jp:component:betterfootnotes]]\n[[include :scp-jp:theme:basalt darkmode=a]]\n\n[[div style=\"display: none;\"]]\n[[include component:image-block name=ball.jpg|caption=.]]\n[[/div]]\n\n[[module css]]\n:root {\n  --title: \"Shaun's Artpage\";\n  --subtitle: \"Pixel is Life\";\n}\n[[/module]]\n\n[[>]]\n[[module rate]]\n[[/>]]\n\n[[=]]\n> ハロー、[[*user shaun159]]です。ピクセルアートを作ります。お会いできてうれしいです。\n[[/=]]\n\n----\n\n[[=]]\n+ 芸術\n[[/=]]\n\n[[=]]\n[[tabview]]\n[[tab シリーズ1]]\n\n[[include component:image-block\n  name=http://scp-jp-storage.wikidot.com/local--files/file:7200455-18-hwtj/scp-017.jpg|Width=70%|\n    caption=SCP-017 - 影人間|\n]]\n\n\n[[/tab]]\n[[tab シリーズ3]]\n\n[[include component:image-block\n    name=http://scp-jp-storage.wikidot.com/local--files/file:7200455-19-26ks/scp-2539.jpg|Width=70%|\n    caption=SCP-2539 - 地獄逝きのハイウェイ|\n]]\n\n[[/tab]]\n[[tab シリーズ4]]\n\n[[include component:image-block\n    name=http://scp-jp-storage.wikidot.com/local--files/file:7200455-20-c6v5/scp-3001.jpg|Width=70%|\n    caption=SCP-3001 - レッド・リアリティ|\n]]\n\n----\n\n[[include component:image-block\n    name=http://scp-jp-storage.wikidot.com/local--files/file:7200455-21-7vlk/scp-3890.jpg|Width=70%|\n    caption=SCP-3890 - 私を忘れないで|\n]]\n\n----\n\n[[include component:image-block\n    name=http://scp-jp-storage.wikidot.com/local--files/file:7200455-22-p06x/scp-3633.jpg|Width=70%|\n    caption=SCP-3633 - 私は私のすぐ後ろ|\n]]\n\n[[/tab]]\n[[tab シリーズ5]]\n[[include component:image-block\n    name=http://scp-jp-storage.wikidot.com/local--files/file:7200455-49-lu86/df1tu4w-8d848885-0441-4dec-a12e-6274aca670a0.png|Width=70%|\n    caption=SCP-4346 - 孤独に満ちた部屋で友を探す|\n]]\n\n----\n\n[[include component:image-block\n    name=http://scp-jp-storage.wikidot.com/local--files/file:7200455-50-m8bh/scp_4235_by_shaun159_df2laus-fullview.jpg|Width=70%|\n    caption=SCP-4235 - 不死身のバラ|\n]]\n\n[[/tab]]\n[[tab シリーズ6]]\n[[include component:image-block\n    name=http://scp-jp-storage.wikidot.com/local--files/file:7200455-23-ensv/scp-5983.png|Width=70%|\n    caption=SCP-5983 - \"[[span class=\"ruby\"]]ニュー[[span class=\"rt\"]]Nuke[[/span]][[/span]]\"ヨーク、\"[[span class=\"ruby\"]]ニュー[[span class=\"rt\"]]Nuke[[/span]][[/span]]\"ヨーク|\n]]\n\n\n[[/tab]]\n[[tab IDシリーズ]]\n\n[[include component:image-block\n    name=http://scp-jp-storage.wikidot.com/local--files/file:7200455-24-z6oc/scp-012-id.jpg|Width=70%|\n    caption=SCP-012-ID - Panen Raya! Panen Raya!|\n]]\n\n[[/tab]]\n[[tab JPシリーズ]]\n[[include component:image-block\n    name=http://scp-jp-storage.wikidot.com/local--files/file:7200455-26-681g/scp-040-jp.jpg|Width=70%|\n    caption=SCP-040-JP - ねこですよろしくおねがいします|\n]]\n\n\n[[/tab]]\n[[/tabview]]\n[[/=]]",
+  "tags": [
+    "en",
+    "ねこです",
+    "アートワーク",
+    "要翻訳"
+  ],
+  "author": "Dr_rrrr_2919",
+  "created_at": "2022-01-08T09:00:45+00:00",
+  "updated_at": "2025-04-07T11:16:54+00:00",
+  "rating": 35,
+  "_site": "scp-jp",
+  "_fullname": "shaun159-pixel-artpage"
+}

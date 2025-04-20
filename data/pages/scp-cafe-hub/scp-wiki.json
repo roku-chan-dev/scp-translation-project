@@ -1,0 +1,15 @@
+{
+  "title": "SCP Café Hub",
+  "content": "[[>]]\n[[module Rate]]\n[[/>]]\n\n[[include component:image-block\n    name=Logo.png|\n    caption=Logo used by SCP Café.\n]]\n\n**Item Name:** **__[*https://scp.cafe SCP Café Podcast]__**\n\n**Host:** [[*user pxdnbluesoul]]\n\n**AKA's:** 'Loving Husband[[footnote]]Presumably a nickname assigned by his S.O.[[/footnote]]', 'Dog-Petter[[footnote]]Title found redudant, all humans are dog-petters.[[/footnote]]', , 'Author' ^^[//[[[bluesoul|match found]]]//]^^, 'Cologne Aficionado', 'Chat Operator', 'Tottenham Hotspur Supporter', 'Subreddit Moderator'\n\n**Schedule:** Weekly (Friday), with occasional extra content.\n\n**Special Containment Procedures:** Due to SCP Café treating SCP documents as works of fiction, no containment procedures are necessary at the moment. Instead, Foundation webcrawlers are to focus on monitoring publications for unusual behavior.\n\n**Description:** SCP Café installments typically cover newly cataloged SCP objects. The means by which the show's host has obtained access to the SCP database remains unknown. The host, [[*user pxdnbluesoul]], typically recaps articles and provides literary analysis as well as his thoughts on individual articles. \n\nA merchandise shop claiming to support an unknown project titled 'Project Foundation' additionally exists, and may be viewed [*https://store.scp.cafe here].\n\nInstances of SCP Café may be found on the following platforms: \n[[=]]\n[*https://open.spotify.com/show/3zqgNAMEDWYjw4vrZYSVOi?si=l6d_m4bOSX2J1gJsYCDshg Spotify] • [*https://itunes.apple.com/us/podcast/scp-caf%C3%A9/id1447719876?mt=2 Apple Podcasts] • [*https://podcasts.google.com/?feed=aHR0cHM6Ly9zY3AuY2FmZS9mZWVkL3BvZGNhc3Qv&ep=5&at=1563469678917 Google Podcasts] • [*https://www.youtube.com/c/scpcafe YouTube] • [*https://scp.cafe scp.cafe] • [*https://scp.cafe/feed/podcast/ RSS]\n[[/=]]\n\n**Publications:** All SCP Café publications are cataloged below. \n\n[[collapsible show=\"+ Listing of all cataloged episodes and database entries\" hide=\"- Collapse listing\"]]\n[[include :scpcafe:episode-reference]]\n[[/collapsible]]",
+  "tags": [
+    "_cc",
+    "audio",
+    "hub"
+  ],
+  "author": "pxdnbluesoul",
+  "created_at": "2019-07-18T17:19:19+00:00",
+  "updated_at": "2020-03-09T16:02:29+00:00",
+  "rating": 52,
+  "_site": "scp-wiki",
+  "_fullname": "scp-cafe-hub"
+}

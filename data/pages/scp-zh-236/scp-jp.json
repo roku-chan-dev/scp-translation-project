@@ -1,0 +1,22 @@
+{
+  "title": "SCP-ZH-236",
+  "content": "[[>]]\n[[module Rate]]\n[[/>]]\n\n[[include :scp-int:component:anomaly-class-bar-source-alt\n|item-number=ZH-236\n|clearance=1\n|container-class=4\n|secondary-class=Uncontained\n|disruption-class=1\n|risk-class= 1\n|lang=en\n]]\n[[module css]]\n.contain-class .en.class-category::before{\ncontent:\"収容クラス\"\n}\n.disrupt-class .en.class-category::before{\ncontent:\"撹乱クラス:\"\n}\n.risk-class .en.class-category::before{\ncontent:\"リスククラス:\"\n}\n.second-class .en.class-category::before{\ncontent:\"副次クラス\"\n}\n.top-left-box > .en.item::before {\ncontent: \"アイテム番号:\";.:\";\n}\n.anom-bar-container .en.level::before {\ncontent: \"レベル \";\n}\n[[/module]]\n\n\n[[include component:image-block name= http://scp-jp-storage.wdfiles.com/local--files/file%3A6353549-9-81sw/llCEYnD.jpg|\nalign=center|\nwidth=700px|\ncaption=活性化したSCP-ZH-236-A。]]\n\n**特別収容プロトコル:** 回収されたすべてのSCP-ZH-236は、サイズ別に個別に包装され、サイト-ZH-25の標準的収容ロッカーに保管されます。\n\nなお、SCP-ZH-236-Aサイトの観察は--日本支部に引き継がせることが提案されており、--その必要はありません。 SCP-ZH-236は、自由に収集したり、実験的に使用することができます。\n\n**説明:** SCP-ZH-236は1月中旬から3月中旬（通常は16日）にかけて、日本の██県にある数本の桜の木（以下、SCP-ZH-236-A）に生育します。 活性化したSCP-ZH-236-Aは、まるで満開の桜のように見えますが、SCP-ZH-236が人体や人の衣服に接触すると、以下のような効果を感じます。\n\n* 軽い憂鬱感\n* 現状を嘆き、常に卒業／転職／逝去しなければならないことを嘆く\n* 自分の考えを話したいという欲求\n* 他人からどのように見られているかを繰り返し考えている\n* 最終的にはこの場を去る計画を実行する意思があることを表明し始める。\n* 同級生、職場、家族、友人らが、自分が去った後にどうなっているかを繰り返し想像する。\n\n被験者がこれらの思考を経験している間、SCP-ZH-236はゆっくりと色が褪せていき、10分以内に灰色になり、その効果も喪失します。被験者は起こったことの記憶を保持しています。\n\n財団は3年連続で道路閉鎖下での保護措置をとった後、活動の継続を断念しました。\n\nSCP-ZH-236の放棄に関する注意事項:\n\n> __倫理委員会による通達__\n> [[span class=\"ruby\"]]終年病[[span class=\"rt\"]]シニアイティス[[/span]][[/span]](Senioritis)[[footnote]]主に欧米で使用される表現。[https://www.urbandictionary.com/define.php?term=Senioritis アーバン・ディクショナリーにおける詳細な解説。][[/footnote]]はいわゆる「五月病」に似た感覚であり、卒業を控えた高校3年生が感じる絶望感を表す言葉です。日本にはこのような表現はありません。中国語にもないでしょう。\n> \n> これの異常性は、制御できない感情を穏やかにもたらすというたったそれだけのことです。感情は一般の人にも共通するもので、その影響のタイミングは入試の時期と重なり、場所による自己隠蔽効果もあります。遅ばせながら、私はこれがこの病の要因とさえ思っていますが、大胆な仮説には同じくらい大げさな証拠が必要で私にはそれがありません。\n> \n> A〜Dの実験では、異常性は深刻なものではなく、その効果は広範囲に及ぶものではないことがわかりました。この場合、私たちが守らなければならないのは、人々ではなく、オブジェクトそのものなのです。我々が学べることはあまりなく、目立つオブジェクトでもありません。私たちはこれを自由にさせます。\n> \n> 世間の注目を浴びるような兆候は以前からすべて取り除かれています。その影響リスクの低さと、また日本には「万物に魂が宿る」という文化的理解がある（これは単純化しすぎですが）ため、特別な注目を浴びて正常性に影響を与える可能性は極めて低いと考えられます。今のところ、わざわざ収容される必要はないのです。\n> \n> 日本支部にこのオブジェクトを移管する案についてですが、彼らもこんな些細なオブジェクトには煩わされたくないでしょう。ほとんど効果のないアノマリーに資金を使うべきではありません。これではリソースの使い方が間違っています。\n> \n> 私はこのSCPがExplainedに再指定されることを望みます。これが認可されるまで、収容は今のところ必要ありません。\n> \n> 小羽\n> @@2012年 4月11日@@\n\n[[module css]]\n.class-text.esoteric::before{\ncontent: \"safe\"!important\n}\n.main-class{\nbackground: linear-gradient(30deg, rgb(var(--one-color),0.25) 0%, rgb(var(--one-color),0.25) 50%, rgba(var(--gray-monochrome, 66, 66, 72),0.15) 50%, rgba(var(--gray-monochrome, 66, 66, 72),0.15) 50% );\n}\n.anom-bar-container.esoteric .text-part > .main-class::before{\n    background: rgb(var(--one-color));\n    background-image: url(http://scp-wiki.wdfiles.com/local--files/component%3Aanomaly-class-bar/safe-icon.svg);\n    filter: none;\n    border-color: black;\n    background-size:75% 75%;\n    background-position: left -10px center;\n    background-repeat:no-repeat;\n}\n.top-icon::before {\n    background-image: url(http://scp-wiki.wikidot.com/local--files/component:anomaly-class-bar/safe-icon.svg)!important;\n    background-color: rgb(var(--one-color))!important;\n    filter:none!important;\n}\n.top-quad {\n    background-color: rgb(var(--one-color),0.25)!important;\n}\n.anom-bar-container.Uncontained .text-part > .main-class::after,.anom-bar-container.Uncontained .danger-diamond > .bottom-icon::before\n{\n    border-color:white;\n    background:white url(https://i.imgur.com/V7Vqn69.png);\n    background-size:85%;\n    background-position:center 75%;\n    background-repeat:no-repeat;\n    filter:invert(1);\n}\n/* Fix INT translation version, which is partially broken due to ruby class */\n#footnoteref-1{display: contents;}\n[[/module]]",
+  "tags": [
+    "esoteric-class",
+    "scp",
+    "zh",
+    "サイト-zh-25",
+    "倫理委員会",
+    "未収容",
+    "植物",
+    "樹木",
+    "生物学",
+    "精神影響"
+  ],
+  "author": "ban-tarou",
+  "created_at": "2021-04-29T02:03:34+00:00",
+  "updated_at": "2024-06-14T15:41:52+00:00",
+  "rating": 13,
+  "_site": "scp-jp",
+  "_fullname": "scp-zh-236"
+}

@@ -1,0 +1,18 @@
+{
+  "title": "不止建立 中心",
+  "content": "[[include :scp-wiki-cn:theme:black-highlighter-theme]]\n[[include :scp-wiki-cn:theme:foundless]]\n\n[[include :scp-wiki-cn:credit:start-standalone]]\n[[span style=\"color:black\"]]\n**不止建立 中心页** by [[*user Greyve]]\n[[/span]]\n[[span style=\"color:black\"]]\n[[=]]\n要了解更多关于我的事情，点此查看[*http://www.scp-wiki.net/greyve-author-page Greyve的页面]！\n[[/=]]\n[[/span]]\n[[include :scp-wiki-cn:credit:end-standalone]]\n\n[[include :etinjat:typeface-cn\n|ShouShuti=true\n]]\n[[module css]]\n\n.box{\n    border: 1px dashed #cdcdcd;\n    background-color: #f5f5f5;\n    padding: 15px;\n    margin: 20px 0;\n}\n\n.log{\n    border: none\n    background-color: #fcfcfc;\n    padding: 15px;\n    margin: 20px 0;\n    box-shadow : 0 0 7px rgba(0 , 0 , 0 , 0.3);\n}\n\n.page {\n    display: block;\n    overflow: hidden;\n    background-attachment: scroll;\n    background-clip: border-box;\n    background-color: transparent;\n    background-image: linear-gradient(to top ,rgb(173, 216, 230) 0%, rgb(240, 230, 140) 8%);\n    background-origin: padding-box;\n    background-position: 0px 8px;\n    background-repeat: repeat;\n    background-size: 100% 20px;\n\n    border: 1px solid #CCC;\n    padding: 10px 10px;\n    margin-bottom: 10px;\n    box-shadow : 0 0 7px rgba(0 , 0 , 0 , 0.3);\n    }\n.page p {\n    line-height: 20px;\n    margin: 0;\n    font-size: 160%\n}\n[[/module]]\n\n@@ @@\n\n[[div class=\"page\"]]\n[[span style=\"font-family:ShouShuti, 'Nothing You Could Do' , kaiti;\"]]Eurtec是全球超自然联盟正跳动的心脏——[*/unfounded-hub 人类仅有的对抗未知的力量]。从金区最高的百千米之塔楼，到地下城最底部，一道沉重的阴影，倾倒在那些人之间，那些交迫于联盟残酷执法者的压迫和血区的超自然犯罪案件之人的中间。[[/span]]\n[[/div]]\n\n-----\n\n++* 故事\n[[div class=\"box\"]]\n\n**序章：[[[a-sympathetic-thorn-in-the-side-of-the-bookburners|A Sympathetic Thorn in the Side of the Bookburners]]]** By [[*user stop1010]]\n[[div style=\"margin: 0% 0% 0% 5%\"]]\n//Eurtec的群众起身反抗压迫者们，那些将人民践踏于其高塔之下的焚书人们。//\n[[/div]]\n\n**第一部分：[[[halfway-lost|Halfway Lost]]]** By [[*user Greyve]]、[[*user Hexick]]、以及 [[*user JakdragonX]]\n[[div style=\"margin: 0% 0% 0% 5%\"]]\n//无论你制定下多少规则，你也无法阻止活着就是在违反它们的人。//\n[[/div]]\n\n**第二部分：[[[in-the-dark|In the Dark]]]** By [[*user Greyve]]\n[[div style=\"margin: 0% 0% 0% 5%\"]]\n//“你可以跟我们回去，如果你想要的话。”她通知他，以一种暗示她是在说“如果你想要活下去的话”的语调。//\n[[/div]]\n\n**第三部分：[[[within-the-walls-i|Within the Walls I]]]** By [[*user Greyve]] 及 [[*user JakdragonX]]\n[[div style=\"margin: 0% 0% 0% 5%\"]]\n//一声狂笑将她的最后话语给淹没，而此次，这里不再沉默。//\n[[/div]]\n\n[[/div]]\n\n-----\n\n++* 设定\n\n[[div class=\"log\"]]\n[[size 140%]]###2c4a78|**Eurtec**##[[/size]]\n区域等级：**自由港**\n-----\n[[size 120%]]描述[[/size]]\nEurtec是西方首要大都市和欧洲领先的自由港，最初由硅之诺伦仆从会建立。而该组织在1984年加入108议会后，便立即移交Eurtec的管理权给联盟。\n\nEurtec值得注意之处是其地下罪犯规模庞大，罪犯们主要居住在下城区。下城区的居民更有可能拥有超自然属性并参与蓝市的商贸活动，其中就有许多人被认为与某些异常事物与反常技术有关。联盟执法者从事与已知罪犯见即作战的工作，同时限制其影响到那些1984年联盟政府协议所划定的异常个人。\n\n城市中，海拔600米及以上的区域被正式定为上城区。上城区作为108议会实际上的首府运行，同时坐落有联盟各区域总部和现代装配式议会大厦。\n[[/div]]",
+  "tags": [
+    "2020设定竞赛",
+    "eurtec",
+    "中心",
+    "全球超自然联盟",
+    "未建立",
+    "硅之诺伦"
+  ],
+  "author": "Etinjat",
+  "created_at": "2020-10-16T15:53:57+00:00",
+  "updated_at": "2024-07-27T22:10:43+00:00",
+  "rating": 15,
+  "_site": "scp-wiki-cn",
+  "_fullname": "outfounded-hub"
+}

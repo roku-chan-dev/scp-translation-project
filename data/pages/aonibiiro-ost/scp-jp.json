@@ -1,0 +1,16 @@
+{
+  "title": "「青鈍色の空」ORIGINAL SOUND TRACK",
+  "content": "[[include :scp-jp:theme:aonibiiro-theme]]\n\n[[include credit:start]]\n**題名:** 「青鈍色の空」ORIGINAL SOUND TRACK\n**著者:** [[*user Ryu JP]]\n**作成:** 2023年8月13日\n**更新:** 2023年8月13日\n[[include credit:end]]\n+ **Original Sound Track**\n//オリジナル・サウンドトラック//\n----\n= [[image http://scp-jp-storage.wikidot.com/local--files/file:2428007-98-6t40/IMG_1618.jpeg width=\"50%\"]]\n----\n[[size 180%]]**#1 / Rapid**[[/size]]\n\n曲名は快速を表すRapidから。非日常な延長線を駆け抜けていくような印象、世界が変わっても人々が目的地を目指す前向きな雰囲気、良い事があった時の帰り道っぽさ……みたいなのを表現しようとしています。\n\n[[div style=\"width: 22rem; margin: auto; center; text-align: margin-top: -20px;\"]]\n[[include :scp-wiki:component:audio-player-woed-source\n|unique-name=aiadance\n|audio-file=http://scp-jp-storage.wikidot.com/local--files/file:2428007-99-jjpl/Rapid.mp3\n|background-color=#556655\n|border-color=#556655\n|border-radius=0.4em\n|dropshadow-color=rgba(12, 12, 12, 0)\n|text-color=#FFFFFF\n|icons-color=#FFFFFF\n|player-color=#FFFFFF\n|progress-color=#A9CCA9\n]]\n[[/div]]\n----\n**付記:** この項目は[[*user Ryu JP]]が制作した[[[aonibiiro-hub|青鈍色の空]]]に関連する楽曲を掲載した非公式のページであり、新規楽曲が随時追加される予定です。また、再生プレイヤーにおける構文などについて[[*user SOYA-001]]氏の制作した[[[soya-001-music-art|SOYA-001による音楽アートワーク]]]を参考にしています。",
+  "tags": [
+    "jp",
+    "アートワーク",
+    "青鈍色の空",
+    "音声添付"
+  ],
+  "author": "Ryu JP",
+  "created_at": "2023-08-12T15:00:11+00:00",
+  "updated_at": "2024-03-10T09:14:47+00:00",
+  "rating": 19,
+  "_site": "scp-jp",
+  "_fullname": "aonibiiro-ost"
+}

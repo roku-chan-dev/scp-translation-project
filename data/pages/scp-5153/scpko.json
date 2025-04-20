@@ -1,0 +1,22 @@
+{
+  "title": "SCP-5153",
+  "content": "[[include :scpko:theme:black-highlighter-theme]]\n[[include :scpko:component:bhl-dark-sidebar]]\n[[module CSS]]\n:root{\n--cutColour: #fafafa;\n--barColour: #590505;\n}\n\n.info-container .collapsible-block-folded a{\ncolor: #FFF;}\n.info-container .collapsible-block-unfolded-link a{\ncolor: #FFF;}\n\n.translation_block{\ndisplay:none;}\n[[/module]]\n\n[[include info:start]]\n**SCP-5153:** 양치기 운석\n**원작:** http://www.scpwiki.com/scp-5153\n**저자:** [[*user TheMightyMcB]]\n**역자:** [[*user Langston77]]\n-----\n**더 많은 작품 보기:**\n* [http://www.scp-wiki.net/themightymcb-s-author-page TheMightyMcB의 작가 페이지]\n\n**도움 주신 분들:**\n* [[*user DrAkimoto]]\n* [[*user rattles]]\n* [[*user Crashington]]\n* [[*user Oboebandgeek99]]\n\n[[include info:end]]\n\n[[module ListPages category=\"fragment\" parent=\".\" order=\"created_at\" limit=\"1\" offset=\"@URL|0\"]]\n%%content%%\n[[/module]]\n\n@@ @@\n\n[!-- For translators, here is a direct link to each iteration. --]\n[!-- http://scpko.wikidot.com/fragment:scp-5153-0 --]\n[!-- http://scpko.wikidot.com/fragment:scp-5153-1 --]\n[!-- http://scpko.wikidot.com/fragment:scp-5153-2 --]\n[!-- http://scpko.wikidot.com/fragment:scp-5153-3 --]\n[!-- http://scpko.wikidot.com/fragment:scp-5153-4 --]\n[!-- To make ListPages work correctly, make this main page first, then upload the first iteration and set its parent to the first page. Repeat that for each iteration. Remember to change the offset links at the bottom of each iteration to the correct link for the new pages you have created. --]",
+  "tags": [
+    "2020-즉흥경연-en",
+    "asci",
+    "en",
+    "scp",
+    "공중",
+    "반복성",
+    "세계-오컬트-연합",
+    "순간이동",
+    "안전",
+    "펜타그램"
+  ],
+  "author": "Langston77",
+  "created_at": "2020-11-17T02:53:29+00:00",
+  "updated_at": "2024-10-20T14:40:31+00:00",
+  "rating": 18,
+  "_site": "scpko",
+  "_fullname": "scp-5153"
+}

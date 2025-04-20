@@ -1,0 +1,14 @@
+{
+  "title": "국가초상방재원 보고서 제목",
+  "content": "[[module CSS]]\n:root {\n  --policy: #6FF;\n  --information: #9CF;\n  --meeting: #FF6;\n  --after: #FE9933;\n}\n[[/module]]\n\n[[table style=\"border-collapse:collapse; margin:auto; width:85%; --bg: var(--{$bg})\"]]\n[[row]][[cell style=\"height: auto; text-align:center; vertical-align: center; font-size:20px; font-weight:bold; background: var(--bg);line-height: 30px; word-break: keep-all;\"]]\n{$headline}\n[[/cell]][[/row]]\n[[row]][[cell style=\"text-align:right;\"]]\n{$date}\n[[/cell]][[/row]]\n[[/table]]",
+  "tags": [
+    "ko",
+    "구성요소"
+  ],
+  "author": "thd-glasses",
+  "created_at": "2024-01-12T13:12:26+00:00",
+  "updated_at": "2024-04-24T09:53:02+00:00",
+  "rating": 0,
+  "_site": "scpko",
+  "_fullname": "component:npes-headline"
+}

@@ -1,0 +1,13 @@
+{
+  "title": "Site Search (Redirect)",
+  "content": "[[module Redirect destination=\"search:crom\"]]\n\n[!--\nGo directly to the Crom search page on clicking the \"search\" button.\n\nPreviously this page used a third-party cookie workaround to preserve the search query. However some search engines wrongly believes that the site was compromised / infected with malware, so the workaround was removed. See http://crom.wikidot.com/wiki-search for more information.\n--]",
+  "tags": [
+    "admin"
+  ],
+  "author": "aismallard",
+  "created_at": "2022-06-30T17:48:15+00:00",
+  "updated_at": "2023-09-13T03:40:23+00:00",
+  "rating": 1,
+  "_site": "scp-wiki",
+  "_fullname": "search:site"
+}

@@ -1,0 +1,20 @@
+{
+  "title": "SCP-5803",
+  "content": "[[include :scp-wiki-cn:theme:black-highlighter-theme]]\n[[include :scp-wiki:component:bhl-dark-sidebar]]\n[[include :scp-wiki:component:acs-animation]]\n[[include :scp-wiki:component:centered-header-bhl]]\n[[module CSS]]\n.note {\n background: url(http://scp-wiki.wdfiles.com/local--files/the-great-hippo/SCP_icon%281%29.png) top\n right no-repeat;\n color: black;\n letter-spacing: 0.02em;\n float: center;\n border: solid 1px #000000;\n padding: 25px 35px 35px 35px !important;\n box-shadow: 0 1px 3px rgba(0,0,0,.2);\n width: 74%;\n margin: 2% 4% 4% 4%;\n}\n\ntable.wiki-content-table td {\npadding: 12px;\n}\n\n[[/module]]\n[[>]]\n[[include :scp-wiki-cn:component:author-label-source start=--\n|name=Vivarium]]\n[[=]]\n你好！你应该来看看我写的其他东西……不看也行！\n我也不是你老板，所以请随意啦！\n\n**[http://scp-wiki-cn.wikidot.com/vivarium-s-word-hole Vivarium的更多作品]**\n[[/=]]\n[[include :scp-wiki-cn:component:author-label-source end=--]]\n\n[[/>]]\n\n[[include :scp-wiki-cn:component:anomaly-class-bar-source |lang= cn |item-number=5803 |clearance=1 |container-class=无效化 |secondary-class= |secondary-icon= |disruption-class=ekhi |risk-class=警告 ]]\n\n-----\n\n**特殊收容措施：**--SCP-5803需收容于设有录音设备的全密封收容室内。允许人员聆听SCP-5803的录音。-- SCP-5803留下的所有材料需存放于一标准项目储藏柜中。\n\n**描述：**SCP-5803是一名男子，其原子结构以未知方式改变。这些改造使得SCP-5803及其所有物可以无形的状态永久存在。SCP-5803身着二战时期的标准制服，通常带有一把装在琴盒内的小提琴。SCP-5803仅可在5月28日被认知。\n\n当日，SCP-5803将尝试以非攻击性的方式离开收容。当SCP-5803无法成功突破收容时，它将从琴盒中拿出小提琴，继续演奏一系列乐曲，以一首原创曲目结束。SCP-5803演奏的音乐不具有异常性质。在SCP-5803结束演奏后，它会在该日的其余时间里盯着琴盒内部。试图查看琴盒内部的尝试已失败，因为SCP-5803会在人员进入收容室的瞬间关上琴盒。\n\n以下为SCP-5803在5月28日演奏的曲目列表。\n\n* [[span class=\"ruby\"]]挚爱密语，第19号[[span class=\"rt\"]]Dans l'intimité, Op. 19[[/span]][[/span]]\n* [[span class=\"ruby\"]]第0号奏鸣曲[[span class=\"rt\"]]Sonata No. 0[[/span]][[/span]]\n* [[span class=\"ruby\"]]D小调托卡塔与赋格，BWV 565[[span class=\"rt\"]]Toccata and Fugue in D minor, BWV 565[[/span]][[/span]]\n* [[span class=\"ruby\"]]练习曲两首[[span class=\"rt\"]]Due studi[[/span]][[/span]]\n* [[span class=\"ruby\"]]前奏曲30首（全调）[[span class=\"rt\"]]30 Preludes (in all keys)[[/span]][[/span]]\n* [[span class=\"ruby\"]]幻想协奏曲[[span class=\"rt\"]]Fantaisie Concertante[[/span]][[/span]]\n* [[span class=\"ruby\"]]第二号奏鸣曲[[span class=\"rt\"]]Sonata No. 2[[/span]][[/span]]\n* SCP-5803作曲的无名乐曲\n\n**发现：**SCP-5803于1944年6月6日出现在新奥尔良的华盛顿炮兵公园。该实体被收容于一可移动的密封收容室内，运输到了Site-97。两名目击者，一名妇女和一名青少年女性，已被施以记忆删除。\n\n\n[[include component:image-block name=http://scp-wiki.wdfiles.com/local--files/scp-5803/LindaLiddell.jpg|align=right|width=40%|caption=SCP-5803的回收地点。]]\n\n**附录.01：**2012年5月28日，一次由蛇之手组织的的突袭破坏了5个Euclid级项目和2个Keter级项目的收容，其中包括SCP-5803。此次事件之后，位于拉斐特公墓的监控摄像头记录到了SCP-5803站在Linda Liddell墓前的视频。SCP-5803继续演奏它的乐曲集，演奏结束后倒在墓前。\n\nSCP-5803不再具有异常性质，使得研究人员得以对其尸体展开研究。尸体解剖发现其死因为胸骨上的多个弹孔。已证实SCP-5803身亡于1944年6月6日的诺曼底战役中。对死者的搜索找到了一系列写有姓名John Liddell的名牌，以及一张曲名为《再为你奏一曲》的散页乐谱。乐谱背面写有：\n[[=]]\n> 我爱你，Linda。\n> 生日快乐。\n> 战争结束后我就回家。\n[[/=]]\n小提琴及其琴盒也被找到，发现琴盒内部贴有一张约15岁女孩的照片。回收到的所有材料均未发现异常性质，已运至Site-97的仓库储存。\n-----\n\n[[footnoteblock]]\n\n[[div class=\"footer-wikiwalk-nav\"]]\n[[=]]\n<< [[[SCP-5802]]] | SCP-5803 | [[[SCP-5804]]] >>\n[[/=]]\n[[/div]]\n\n\n[[include :scp-wiki-cn:component:license-box\n|author=Vivarium\n|translator=Esperanza_Cai\n]]\n=====\n> **文件名：**LindaLiddell.jpg\n> **图像名：**Gravestones in East Greenwich Pleasaunce, London\n> **图像作者：**EEPaul\n> **授权协议：**CC BY 4.0\n> **来源链接：** https://search.creativecommons.org/photos/3485cd19-0c13-48c0-b90f-e4e1860ace8d\n=====\n[[include :scp-wiki-cn:component:license-box-end]]",
+  "tags": [
+    "scp",
+    "人形生物",
+    "军事",
+    "尸体",
+    "循环",
+    "无形",
+    "无效化",
+    "音乐性"
+  ],
+  "author": "Esperanza_Cai",
+  "created_at": "2021-01-27T10:06:25+00:00",
+  "updated_at": "2021-09-19T15:00:23+00:00",
+  "rating": 4,
+  "_site": "scp-wiki-cn",
+  "_fullname": "scp-5803"
+}

@@ -1,0 +1,19 @@
+{
+  "title": "SCP-1357-JP",
+  "content": "[[module CSS]]\n.page {\n    display: block;\n    overflow: hidden;\n    font-family: \"Monotype Corsiva\", \"Bradley Hand ITC\", sans-serif;\n    font-style: normal;\n\n    background-attachment: scroll;\n    background-clip: border-box;\n    background-color: transparent;\n    background-image: linear-gradient(to top ,rgb(202, 219, 228) 0%, rgb(231, 233, 220) 8%);\n    background-origin: padding-box;\n    background-position: 0px 8px;\n    background-repeat: repeat;\n    background-size: 100% 20px;\n\n    border: 1px solid #CCC;\n    border-radius: 10px;\n    padding: 10px 10px;\n    margin-bottom: 10px;\n\n    box-shadow: 0px 1px 3px rgba(0, 0, 0, 0.2)\n    }\n.page p {\n    line-height: 20px;\n    margin: 0;\n}\n[[/module]]\n\n[[include :scp-wiki-cn:credit:start-standalone]]\n**标题：**SCP-1357-JP - 翡翠，如火焰般闪耀\n**作者：**©︎[[*user Fennecist]]\n**译者：**[[*user Semiquaver]]\n**发布年份：**2018\n[[include :scp-wiki-cn:credit:end-standalone]]\n\n[[include :scp-jp:component:image-block\n|name=http://scp-jp.wdfiles.com/local--files/scp-1357-jp/Kingfisher.jpg\n|width=280px\n|clear=true\n|caption=SCP-1357-JP\n]]\n\n**项目编号：**SCP-1357-JP\n\n**项目等级：**--Safe-- Neutralized\n\n**特殊收容措施：**SCP-1357-JP在不透明布料的覆盖下保存于Site-73内。收容室内禁止带入或使用火器[[footnote]]**译注：**枪支等使用火药的热兵器，也指承装火的容器。[[/footnote]]，除实验外不允许将SCP-1357-JP带出收容室。\n\n重新分类为Neutralized的过程参照附录2。\n\n**描述：**SCP-1357-JP是一幅以“[[span class=\"ruby\"]]//翡翠//[[span class=\"rt\"]]//かわせみ//[[/span]][[/span]](//The Kingfisher//)”为题，描绘了一只普通翠鸟(学名： //Alcedo atthis//)的水彩画作品。构成项目的绘画素材未见异常。当SCP-1357-JP周围有火焰产生时，项目表面会出现一只组成不明的实体，其外形酷似雄性普通翠鸟。该实体被指定为SCP-1357-JP-1。随着SCP-1357-JP-1的出现，SCP-1357-JP上描绘的普通翠鸟将会消失。\n\nSCP-1357-JP-1会飞向周围产生的火焰，并将火焰全部转移到自己的身体上，然后向着高空移动。此后，SCP-1357-JP-1持续飞行直到火焰被完全扑灭，并在完成灭火后返回SCP-1357-JP。此外，若在SCP-1357-JP-1到达之前将产生的火焰扑灭，它同样会返回。返回的SCP-1357-JP-1在接触到SCP-1357-JP时消失，普通翠鸟的绘画再次出现在SCP-1357-JP上。SCP-1357-JP-1不会被烧毁的原因还未解明。\n\n当火焰产生于SCP-1357-JP-1物理上无法飞到的地方时，SCP-1357-JP-1不会出现。\n\n[[include :scp-jp:component:image-block\n|name=http://scp-jp.wdfiles.com/local--files/scp-1357-jp/kawasemi.png\n|width=210px\n|align=left\n|clear=true\n|caption=SCP-1357-JP-1\n]]\n\nSCP-1357-JP于2011/03/15，在位于北达科他州████市郊外的威利·威斯坦先生的废弃工作室内被发现。当时，SCP-1357-JP-1在当地发生火灾的现场被目击到。由于消防部门接到了多起关于「火灾现场的火焰变成了一个巨大的火球飞向空中」的通报，居住在附近的基金会特工开始搜索，并在距火灾现场约140m的工作室内将SCP-1357-JP回收。之后，对火灾现场周边的居民进行了A级记忆删除，并通过向公众散布数条伪装信息来进行应对。\n@@@@\n@@@@\n**附录1：**以下是与SCP-1357-JP同时回收的纸条上所写文字的转录。\n\n[[div class=\"page\"]]\n//致亲爱的孙子//\n@@@@\n//第一次见到这只鸟还是在我很小的时候。那时我正在河滩上玩，它就那样轻巧地闯进了我的视线。//\n@@@@\n//我不知不觉被它的样子深深迷住了。那只蓝色的鸟儿，独自沐浴着太阳的光辉，如火焰般闪耀着。//\n@@@@\n//虽然在那之后，我便没能和它再度相遇。但是在我的记忆之中，它仍在继续舞蹈。因此，为了不忘记它，我画下了这幅画。画下的这只鸟儿正是促使我成为画家的契机。//\n@@@@\n//我将这幅画送给你。即使有一天我会死去，如果看到这幅画便能让你想起我，我也很高兴了。//\n@@@@\n//最后，我盼望着有朝一日，这只鸟儿会来到像太阳一样闪耀的你的身边。祝你4岁生日快乐。//\n@@@@\n[[>]]\n//你的祖父//\n[[/>]]\n[[/div]]\n\n威利·威斯坦于2011/01/18在一场交通事故中身亡，经确认，第二天是他时年3岁的孙子罗伊德·威斯坦的生日。威利·威斯坦生前为防止创作受到打扰，没有向任何人透露自己工作室的所在位置。因此SCP-1357-JP没有被其遗属或熟人发现，而是一直被放置在工作室中。由于遗留在工作室中的其他艺术作品并没有发现异常，因此在调查结束后将其归还给了遗属。\n\n**附录2：**2014/04/22，SCP-1357-JP突然活性化，SCP-1357-JP-1出现。出现后的SCP-1357-JP-1立即在收容室内盘旋，由于当时Site内没有火器的使用，因此暂时将项目释放以解明其活性化的原因。被释放的SCP-1357-JP-1离开Site-73后，开始向着西北方向飞行，并于途中开始自燃。这种自燃现象是自收容以来首次确认到的异常性质。在释放约12分钟后，SCP-1357-JP-1被确认到因不明原因燃尽，由于此后SCP-1357-JP上普通翠鸟的绘画没有再次出现，项目随后被重新分类为Neutralized。\n\n在后续的调查中判明，于SCP-1357-JP-1被烧毁的几乎同一时间，罗伊德·威斯坦因白血病死亡。同时，确认到罗伊德·威斯坦入住的医院就存在于SCP-1357-JP-1飞翔的方向上。这一事实与项目异常性质变化之间的因果关系不明。\n\n\n@@@@\n@@@@",
+  "tags": [
+    "jp",
+    "scp",
+    "反熵",
+    "无效化",
+    "火",
+    "艺术性",
+    "鸟类"
+  ],
+  "author": "Semiquaver",
+  "created_at": "2022-08-11T02:34:33+00:00",
+  "updated_at": "2022-08-11T02:41:40+00:00",
+  "rating": 6,
+  "_site": "scp-wiki-cn",
+  "_fullname": "scp-1357-jp"
+}

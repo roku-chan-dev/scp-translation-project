@@ -1,0 +1,19 @@
+{
+  "title": "SCP-6248",
+  "content": "[[div style=\"display: none;\"]]\n[[include :scp-wiki-cn:theme:flopstyle-dark]]\n[[/div]]\n[[module CSS]]\n/* TALE BLURBS */\n.content-panel.standalone {\n  padding: 20px 30px;\n}\n\n.content-panel a{text-shadow: none;}\n\n/* VARIABLE ESPECIFICATIONS */\n:root{\n     --accentColor: hsl(0, 89%, 41%);\n     --accentColorLite: hsla(0, 89%, 51%, .5);\n     --hue: 0deg;\n\n     --lgurl: url(http://scpdsandbox.wikidot.com/local--files/muffin-writes-a-tale-oh-god/moon1.png);\n\n     --header-title: \"夜幕低垂\";\n     --header-subtitle: \"人皆死于黑暗\";\n\n     --textColor: hsl(212, 3%, 75%);\n     --bgColor: hsl(220, 20%, 10%);\n}\n\n/* HEADER */\n#extra-div-1{\n     filter: opacity(.2) saturate(1.25) brightness(1.25);\n}\n[[/module]]\n\n**项目编号：** SCP-6248\n\n**等级：** Thaumiel\n\n[[include component:image-block name=https://scp-wiki.wdfiles.com/local--resized-images/scp-6248/tor/medium.jpg|caption=神圣站点-6248|align=right]]\n\n**Sacrae Causā Prōcēdendae:**  神圣站点-6248已围绕SCP-6248而建。所有来访此站的旱生朝圣者都将受到欢迎，都将被吩咐服用SCP-6248-α。\n\n从服用SCP-6248-A当中坚持下来的人将受教导在每个月里朝圣一次，还要把这项传统传递给子嗣。因为服用SCP-6248-A出现负面症状的人将被处斩，控制传染扩散。\n\n依//Fundamentum//至高梯队指令，禁止研究SCP-6248-A的成分。\n\n**描述：** SCP-6248是位于格拉斯顿伯里山丘上一眼受了诅咒的泉水。泉眼的形状呈现为地面上两个直角相交的直线裂口。纵向的裂口南北延伸六米，横向裂口东西延伸四米。横向裂口与纵向裂口在距离最北端两米处相接。\n\nSCP-6248-α乃是从SCP-6248中涌出的Yvith之白浆。它的物质成分未知。它是一种液体，比水更浓但比石油更稀，其色为白，在舌上有甜味。如若将它从SCP-6248处移走，它将在三日内变质发酸。它将不再能被安全服用。\n\n一旦服下Yvith之白浆，三人中有二人不会立即出现效应。剩下的一人会患上一种胃病。他们的报告各异，有说腹中疼痛、胆汁翻涌、胃部鼓胀、身后喷出气体，以及，在极端病例中，还会喷出液化的粪便物。确信此乃Yvith施加的诅咒，为的是防止有人服用她的白浆，在旱生地传播感染。\n\n从Yvith白浆中存活、又没有被处斩的人时常会反复回到SCP-6248来继续饮用。已经注意到这些返回SCP-6248的人有超出一般人口的体力和好牙齿。\n\n从Yvith白浆中存活的人将被监控起来，他们的血脉可被征募到//Fundamentum//的浆骑兵军团内，与永无止尽的欧罗巴之暗斗争。\n\n[[include :scp-wiki:more-by:lordxvnv]]\n[[include :scp-wiki:component:license-box]]\n=====\n**Images:**\n* \"[https://commons.wikimedia.org/wiki/File:Glastonbury_Tor_%287243617228%29.jpg Glastonbury Tor (7243617228).jpg]\" by tm, Licensed under Creative Commons 2.0 Generic\n=====\n[[include :scp-wiki:component:license-box-end]]",
+  "tags": [
+    "scp",
+    "thaumiel",
+    "味觉影响",
+    "地点",
+    "夜幕降临",
+    "液体",
+    "食物"
+  ],
+  "author": "ashausesall",
+  "created_at": "2022-06-20T14:50:32+00:00",
+  "updated_at": "2023-01-07T17:29:20+00:00",
+  "rating": 2,
+  "_site": "scp-wiki-cn",
+  "_fullname": "scp-6248"
+}

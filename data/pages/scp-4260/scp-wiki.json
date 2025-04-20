@@ -1,0 +1,23 @@
+{
+  "title": "SCP-4260",
+  "content": "[!--\n\nNOTE REGARDING EDITS:\n\nIf you're looking to make edits, you'll need to edit the following pages:\n\nThe first, \"Level 2/4260\" page: https://scp-wiki.wikidot.com/fragment:scp-4260-0\nThe second, \"Level 5/4260\" page: https://scp-wiki.wikidot.com/fragment:scp-4260-1\n\n--]\n\n[[>]]\n[[module Rate]]\n[[/>]]\n\n[[module ListPages category=\"fragment\" parent=\".\" order=\"created_at\" limit=\"1\" offset=\"@URL|0\"]]\n%%content%%\n[[/module]]\n\n@@ @@\n\n[[footnoteblock]]\n[[div class=\"footer-wikiwalk-nav\"]]\n[[=]]\n<< [[[SCP-4259]]] | SCP-4260 | [[[SCP-4261]]] >>\n[[/=]]\n[[/div]]",
+  "tags": [
+    "_cc",
+    "_listpages",
+    "deepwell-catalog",
+    "entropic",
+    "euclid",
+    "humanoid",
+    "k-class-scenario",
+    "reality-bending",
+    "reanimation",
+    "scp",
+    "the-administrator"
+  ],
+  "author": "Nagiros",
+  "created_at": "2019-04-03T00:13:16+00:00",
+  "updated_at": "2022-10-01T18:17:17+00:00",
+  "rating": 255,
+  "_site": "scp-wiki",
+  "_fullname": "scp-4260"
+}

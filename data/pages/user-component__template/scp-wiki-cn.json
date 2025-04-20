@@ -1,0 +1,13 @@
+{
+  "title": "_template",
+  "content": "[[include component:_template]]",
+  "tags": [
+    "管理"
+  ],
+  "author": "Jochoi",
+  "created_at": "2024-12-24T10:08:43+00:00",
+  "updated_at": "2024-12-24T10:08:53+00:00",
+  "rating": 0,
+  "_site": "scp-wiki-cn",
+  "_fullname": "user-component:_template"
+}

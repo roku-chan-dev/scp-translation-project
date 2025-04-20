@@ -1,0 +1,28 @@
+{
+  "title": "Little Dark Star Shoppe of Minerals",
+  "content": "[[>]]\n[[module Rate]]\n[[/>]]\n\n[[module ListPages category=\"fragment\" parent=\".\" limit=\"1\" order=\"created_at\" offset=\"@URL|0\"]]\n%%content%%\n[[/module]]\n\n[!-- http://www.scp-wiki.net/fragment:tiendita-de-minerales-0\nhttp://www.scp-wiki.net/fragment:tiendita-de-minerales-1 --]\n\n@@ @@\n@@ @@\n@@ @@\n\n[[include component:license-box author=Amai-Ixchel and Dc_Yerko, Translated by Uncle Nicolini]]\n> **Filename:** arenas.png\n> **Author:** rawpixel\n> **License:** CC 0\n> **Source:** [https://www.rawpixel.com/image/6035894/photo-image-public-domain-nature-black RawPixel]\n\n> Literally everything else was made by [[*user Amai-Ixchel]] and is licensed under CC BY SA 3.0\n\n[[include component:license-box-end]]",
+  "tags": [
+    "_cc",
+    "_es",
+    "_licensebox",
+    "_listpages",
+    "ambrose-restaurant",
+    "broken-god",
+    "corporate",
+    "fantasy",
+    "featured",
+    "illustrated",
+    "interactive",
+    "international",
+    "oneiroi",
+    "sarkic",
+    "tale",
+    "three-moons-initiative"
+  ],
+  "author": "Uncle Nicolini",
+  "created_at": "2024-05-27T23:45:15+00:00",
+  "updated_at": "2024-10-09T18:55:52+00:00",
+  "rating": 86,
+  "_site": "scp-wiki",
+  "_fullname": "tiendita-de-minerales"
+}

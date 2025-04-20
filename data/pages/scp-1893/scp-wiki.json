@@ -1,0 +1,25 @@
+{
+  "title": "SCP-1893",
+  "content": "[[>]]\n[[module Rate]]\n[[/>]]\n\n[!--\nFragment list:\nhttp://scp-wiki.wikidot.com/fragment:scp-1893-iteration-a\nhttp://scp-wiki.wikidot.com/fragment:scp-1893-iteration-b\nhttp://scp-wiki.wikidot.com/fragment:scp-1893-iteration-c\nhttp://scp-wiki.wikidot.com/fragment:scp-1893-iteration-d\nhttp://scp-wiki.wikidot.com/fragment:scp-1893-iteration-e\n--]\n\n[[module ListPages category=\"fragment\" parent=\".\" order=\"random\" limit=\"1\" ]]\n\n[[div style=\"border: solid 1px #999999; width: 95%;background: #DAFAD9; padding: 5px; float: center; margin-bottom: 4px\"]]\n[[=]]\nYou are currently viewing **%%title%%** of the documentation for this entity. To view another iteration, reload the page after sixty seconds.\n[[/=]]\n[[/div]]\n\n%%content%%\n\n[[/module]]\n\n[[footnoteblock]]\n\n[[div class=\"footer-wikiwalk-nav\"]]\n[[=]]\n<< [[[SCP-1892]]] | SCP-1893 | [[[SCP-1894]]] >>\n[[/=]]\n[[/div]]\n\n[[include :scp-wiki:component:license-box]]\n=====\n\n=====\n[[include :scp-wiki:component:license-box-end]]",
+  "tags": [
+    "_licensebox",
+    "_listpages",
+    "euclid",
+    "event-featured",
+    "infohazard",
+    "knowledge",
+    "memetic",
+    "meta",
+    "narrative",
+    "phenomenon",
+    "sapient",
+    "scp",
+    "transfiguration"
+  ],
+  "author": "Eskobar",
+  "created_at": "2012-03-17T16:35:44+00:00",
+  "updated_at": "2024-04-06T12:14:37+00:00",
+  "rating": 1329,
+  "_site": "scp-wiki",
+  "_fullname": "scp-1893"
+}

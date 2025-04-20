@@ -1,0 +1,20 @@
+{
+  "title": "SCP-6292",
+  "content": "[[include :scp-wiki:theme:black-highlighter-theme]]\n[[include :scp-wiki:theme:jakstyle]]\n\n[[module CSS]]\n.footnotes-footer {\ndisplay: none;\n}\n[[/module]]\n\n[[html]]\n<br style=\"line-height: 1px\" />\n[[/html]]\n\n[[include component:image-block name=https://scp-wiki.wdfiles.com/local--files/scp-6292/death.jpg|caption=对第五夜事件后果的中世纪描绘。|width=350px]]\n\n**项目编号：** SCP-6292\n\n**项目等级：** Archon\n\n**特殊收容措施：** SCP-6292的收容已被认定为不可能。对第五夜事件后报告SCP-6292的平民，将对其提供假情报解释为非异常人类。任何提及此类事件的历史材料一经发现应被立即记录并存储。\n为确保第五夜事件中的死亡率大跌不为公众察觉，基金会所有高死亡率行动及军事活动都应在这些时日内进行。\n\n**描述：** SCP-6292是一智能性XII级神学-本质促动性人形实体。它即是死亡概念的本理性化身；也因此，它的物理状况与地球范围的死亡现象直接相关。\n\n第五夜事件是指SCP-6292暂时性减少活动的时间段，由此会定期性引发一种微小且近乎不可察觉的ΩK级情景。更多细节参见发现部分。\n\n**发现：** 基金会在1870年发现了SCP-6292。对它的最初发现是由于第五夜事件广泛分布，相关记载遍及历史当中。为避免这些事件期间死亡率发生骤降，基金会已采取过大量的有组织工作，诸如在20世纪内于美国推行酒精非法化，以避免所有第五夜事件一并发生。和此前所有尝试一样，此行动并未在降低死亡率上产生明显效果，后被废止。\n\n该异常一直以来躲避与基金会的接触；然而，在02/09/2012取得了一次突破，基金会成功记录到发生于Steve甄选[[footnote]]美国芝加哥的一家酒馆。[[/footnote]]内的一次第五夜事件，最后为SCP-6292植入了一个定位器。参见下列记录获取详情。\n\n[[div class=\"blockquote\"]]\n\n**[开始记录]**\n\n//记录开始于SCP-6292和其他平民一起坐在吧台上。附近有空杯子和烟灰杂乱摆放。 SCP-6292似乎处在严重的失调中，随着一边播放的歌曲节奏摇摆。//\n\n**SCP-6292:** —我他妈就告诉你，//<嗝>// Steve，老子就是死亡！\n\n**不明1:** 对，肯定的。 //<大笑>// 猪也能飞，对吧？\n\n**SCP-6292:** 首先第一，去你的吧。//<嗝>// 然后第二，你知不知道当这个杀千刀的残酷死神有多难？被叫去把无辜可怜的小婴儿送回黄泉得有多难受？\n\n**不明2:** 婴儿？你把婴儿送下黄泉？\n\n**SCP-6292:** //正是！// //<停顿>// 随随水岁便—\n\n//SCP-6292正想从附近杯中喝酒，店铺经理进入房间，把酒保推到了一边。//\n\n**经理:** 先生，你都喝多少了？\n\n//SCP-6292把酒水砸在酒吧台上。//\n\n**SCP-6292:** 我就是//真正的//残//他娘的//酷死神！我//<嗝>//还完全没喝够—\n\n**经理:** 我必须得让你离开了。\n\n//SCP-6292讥笑。//\n\n**SCP-6292:** 你他妈在这给老子日蛋吗？//<嗝>// 你知不知道我要处理多少狗屁事情你才能撑—\n\n**经理:** 要不离开，要不我就报警让他们送你去监牢待着。\n\n**SCP-6292:** 这就好像1984 //<嗝>// 斯蒂芬金写的。\n\n**[记录结束]**\n-----\n**结语：** 当地警方很快抵达，以猥亵行为和公共场合酗酒为由逮捕SCP-6292。警方不认为“是残酷死神”是SCP-6292从监禁中释放的正当理由。它在第二天早上经基金会干预被释放。\n[[/div]]\n\n**更新：** 经基金会分级部一致决议，对该实体不再尝试进行任何干预或收容工作，因其有造成一次[[[end-of-death-hub|ΩK级“死亡终结”]]]情景的不可避风险。\n\n[[div class=\"footer-wikiwalk-nav\"]]\n[[=]]\n<< [[[SCP-6291]]] | SCP-6292 | [[[SCP-6293]]] >>\n[[/=]]\n[[/div]]\n\n[[include :scp-wiki:component:license-box\n|author=JakdragonX and Ralliston]]\n=====\n> **File Name:** death.jpg\n> **Source:** [hhttps://en.m.wikipedia.org/wiki/The_Garden_of_Death link]\n> **License:** Public Domain\n> **Author:** Hugo Simberg\n=====\n[[include :scp-wiki:component:license-box-end]]",
+  "tags": [
+    "archon",
+    "k级情景",
+    "scp",
+    "人形生物",
+    "合著",
+    "感知力",
+    "智能",
+    "现实扭曲"
+  ],
+  "author": "ashausesall",
+  "created_at": "2021-11-30T13:51:23+00:00",
+  "updated_at": "2023-03-19T15:14:43+00:00",
+  "rating": 4,
+  "_site": "scp-wiki-cn",
+  "_fullname": "scp-6292"
+}

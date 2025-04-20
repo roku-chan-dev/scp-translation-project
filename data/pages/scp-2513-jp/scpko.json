@@ -1,0 +1,19 @@
+{
+  "title": "SCP-2513-JP",
+  "content": "[[include credit:start]]\n**SCP-2513-JP:** [[span class=\"ruby\"]]적[[span class=\"rt\"]]せ[[/span]][[/span]][[span class=\"ruby\"]]어[[span class=\"rt\"]]せめ[[/span]][[/span]][[span class=\"ruby\"]]도[[span class=\"rt\"]]て[[/span]][[/span]][[span class=\"ruby\"]], [[span class=\"rt\"]]、[[/span]][[/span]][[span class=\"ruby\"]]재[[span class=\"rt\"]]財[[/span]][[/span]][[span class=\"ruby\"]]단[[span class=\"rt\"]]団[[/span]][[/span]][[span class=\"ruby\"]]답게[[span class=\"rt\"]]らしく[[/span]][[/span]]\n**원작:** http://ja.scp-wiki.net/scp-2513-jp\n**저자:** ©︎[[*user poly_propylene]]\n**역자:** [[*user salamander724]]\n[[include credit:end]]\n**일련번호:** SCP-2513-JP\n\n**등급:** 케테르(무효화)\n\n**특수 격리 절차:** SCP-2513-JP의 격리는 그 변칙성 자체로 인해 불가능하다. 또한 SCP-2513-JP의 결과로 발생한 사건의 특정도 어렵기 때문에, 재단에 의해 관측된 현실개변 및 확률개변에 대해 적절한 은폐처리를 하는 것을 통해 간접적 격리 상태에 있다고 본다.\n\n**추기:** 인간이 절멸했기 때문에 이후 SCP-2513-JP가 발생할 수는 없다고 추측되고 있다.\n\n**설명:** SCP-2513-JP는 인간이 사망했을 때 매우 낮은 확률로[[footnote]] 기원후 발생한 사건수를 모두 합해도 1███건에 불과하다. [[/footnote]] 발생하는 현상이다. SCP-2513-JP가 발생하면 사망한 인간(이하 대상자로 표기)의 의식은 기준차원에 속박되고, 대상자만 지각 가능한 독립체(이하 SCP-2513-JP-a)가 출현한다.[[footnote]]어떠한 방법으로도 대상자 외에는 SCP-2513-JP-a를 지각할 수 없다.[[/footnote]] SCP-2513-JP-a는 대상자에게 「한 가지 소원을 이루어 준다」는 취지의 뜻을 전하고, 대상자가 소원을 제시할 경우 소규모 현실개변 및 확률개변을 발생시킴으로써 그 소원을 실현시킨다. 소규모이기 때문에 경우에 따라서는 제시된 소원을 실현할 수 없을 수도 있다.[[footnote]]가장 최근에 제시된 것으로 「죽은 자를 소생시켜 달라」, 「인류를 구해 달라」 등의 소원을 들 수 있다.[[/footnote]] 소원이 실현 불가능한 경우 SCP-2513-JP-a는 대상자에게 그 뜻을 전달하고 대안을 제시할 것을 재촉한다. 또 소원이 추상적일 경우 SCP-2513-JP-a가 자의적으로 해석해 소원을 실현시킨다. 실현 가능한 소원이 제시되거나 제시되지 않은 채 3분이 경과하면 SCP-2513-JP-a는 소실하고 대상자의 의식은 해방된다.\n\nSCP-2513-JP는 20██년 █월 ██일에 연구원 ██████[[footnote]] 고인. SCP-2513-JP 발견 직전에 사망. [[/footnote]]에 의해 발견되었고, 해당 직원이 최초 보고서를 작성했다.\n　\n　\n　\n[[div class=\"u-notice\"]]\n[[div]]\nSCiPNET 통지\n[[/div]]\n본 보고서는 이하의 문제점을 가지고 있습니다.\n\n{{・}}작성보고가 행해지지 않았습니다.\n{{・}}흄 변칙이 관측되었습니다.\n\n문제가 해결되지 않을 경우 자동으로 삭제됩니다.\n[[/div]]\n　\n　\n[[div class=\"u-notice\"]]\n지정된 시간이 지났습니다.\n\n자동 삭제를 실행\n\n…\n\n실패\n[[/div]]\n　\n　\n[[div class=\"u-notice\"]]\n긴급통보규약을 적용\n\n…\n\n응답상황\nRAISA: 미응답\n재단 관리부: 미응답\nO5 평의회: 미응답\n[[/div]]\n\n　\n　\n　\n[[module css]]\n.u-notice {\nwidth: 60%;\nmin-width: 280px;\nright: 0;\nleft: 0;\nmargin: auto;\npadding: 1em;\ntext-align: center;\nbackground-image: url(http://kaktuskontainer.wdfiles.com/local--files/format-hell/scp_trans.png);\nbackground-size: contain;\nbackground-repeat: no-repeat;\nbackground-position: center;\nbackground-color: #fcfdfb;\nborder: solid 1px #888880;\nborder-radius: 10px;\nbox-shadow: 0 2px 6px rgba(0, 0, 0, 0.5);\n}\n.u-notice div {\ndisplay: inline-block;\nfont-size: 150%;\nfont-weight: bold;\ncolor: #990011;\n}\n[[/module]]",
+  "tags": [
+    "2020-루키경연-jp",
+    "jp",
+    "scp",
+    "무효",
+    "텔레파시",
+    "현실조작",
+    "확률"
+  ],
+  "author": "Salamander724",
+  "created_at": "2020-10-03T19:00:11+00:00",
+  "updated_at": "2025-01-30T12:47:30+00:00",
+  "rating": 5,
+  "_site": "scpko",
+  "_fullname": "scp-2513-jp"
+}

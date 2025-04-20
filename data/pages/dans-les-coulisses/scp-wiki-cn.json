@@ -1,0 +1,16 @@
+{
+  "title": "幕后花絮 中心页",
+  "content": "[[=]]\n+ **幕后花絮**\n[[/=]]\n\n+++ **这是什么？**\n\n> 在这里，您可以找到形形色色的人事档案，无论是万众之星，还是平庸一员，都可以用来为您的故事和记录文献添砖加瓦。基本上，您可以自由创建或使用任何类型的角色[[footnote]]如果您决定使用该角色，最好提前告知角色的创建者。[[/footnote]]。\n> @@@@\n> 尽管各个页面之间可能会有所不同，但是其格式都应当是**清晰**而**简明**的个人简历。以角色的童年为中心的长达十页的虚构故事不宜出现在此处。\n> @@@@\n> 如果您有兴趣参与文档的创建并将其添加到此页面，则要记住的重要一点，该页面必须是一个合著项目。您的作品必须满足以下要求 :\n> * 至少由数篇故事中出场并且人设曾被数位作者使用。如果您的角色不满足此先决条件，但您认为该角色应当在此中心页占有一席之地，请随时与工作人员联系，以寻求建议。\n> * 您创建的角色页面不具有排他性，任何人都可以对其内容进行使用。\n\n+++ **如何发表故事？**\n\n请填写此表单。\n\n[[module NewPage size=\"20\" tags=\"conte fr dans-les-coulisses\" parent=\".\" button=\"为中心页创建页面\"]]\n\n[[collapsible show=\"写作指导\" hide=\"关闭\"]]\n* [[[法国分部装备]]]\n* [[[list-of-foundation-s-internal-departments|法国分部设施内部部门]]]\n* [[[installations-de-la-branche-francaise|法国分部设施]]]\n\n[[/collapsible]]\n\n------\n\n@@@@\n\n+ __特工__\n[[[Neremsa Vandrake的人事档案]]]\n[[[dans-les-coulisses-dossier-de-l-agent-de-caffran|Noël De Caffran的人事档案]]]\n[[[dans-les-coulisses-dossier-personnel-agent-lylah-dears|Lylah Dears的人事档案]]]\n[[[dossier-de-surveillance-du-Leïtenant-Filippov|Martin Filippov的监控记录]]]\n[[[dans-les-coulisses-dossier-personnel-de-l-agent-friedrich|Willi Friedrich的人事档案]]]\n[[[dans-les-coulisses-dossier-personnel-de-l-agent-naemu|Nämu的人事档案]]]\n[[[dans-les-coulisses-dossier-personnel-de-viviane-sherman|Viviane Sherman的人事档案]]]\n[[[dans-les-coulisses-dossier-personnel-de-l-agent-tombemine-a|Astrid Tombemine的人事档案]]]\n[[[dans-les-coulisses-dossier-personnel-de-jean-marc-v|Jean-Marc Verstrat的人事档案]]]\n[[[dans-les-coulisses-dossier-personnel-de-cedric-v|Cedric Verstrat的人事档案]]]\n\n\n+ __博士__\n[[[dans-les-coulisses-dossier-personnel-du-docteur-berthon| Dr Berthon的人事档案]]]\n[[[dans-les-coulisses-dossier-personnel-du-dr-caroline| Dr Caroline的人事档案]]]\n[[[dans-les-coulisses-dossiers-personnels-du-dr-dvornikov-et-de|Dr Dvornikov博士和他的女儿的人事档案]]]\n[[[dans-les-coulisses-dossier-personnel-du-dr-howel| Dr Howel的人事档案]]]\n[[[dans-les-coulisses-dossier-personnel-du-dr-kudryavka| Dr Kudryavka的人事档案]]]\n[[[dossier-personnel-du-docteur-marchand| Dr Marchand的人事档案]]]\n[[[dans-les-coulisses-dossier-personnel-du-dr-nacra| Dr Nacra的人事档案]]]\n[[[dans-les-coulisses-dossier-personnel-du-dr-valbeaugris| Dr Valbeaugris的人事档案]]]\n\n+ __研究员助理__\n[[[dans-les-coulisses-loic-giacardi| 专家Loïc Giacardi的人事档案]]]\n[[[dossier-personnel-de-l-assistant-chercheur-william|助理研究员Théo William的人事档案]]]",
+  "tags": [
+    "fr",
+    "中心",
+    "合著",
+    "幕后花絮"
+  ],
+  "author": "Agt_LEAZOV",
+  "created_at": "2020-04-11T12:24:32+00:00",
+  "updated_at": "2020-04-11T16:42:47+00:00",
+  "rating": 5,
+  "_site": "scp-wiki-cn",
+  "_fullname": "dans-les-coulisses"
+}

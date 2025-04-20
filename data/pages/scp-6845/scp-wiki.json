@@ -1,0 +1,24 @@
+{
+  "title": "SCP-6845",
+  "content": "[[>]]\n[[module Rate]]\n[[/>]]\n[[include component:image-block name=Dark_Forest.jpg|align=right|caption=SCP-6845.|width=250px]]\n**Item #:** SCP-6845\n\n**Object Class:** Safe\n\n**Security Clearance:** Level 4 (Secret)\n\n**Special Containment Procedures:** SCP-6845 is contained at its location of discovery, Area-6845. No other containment procedures are necessary.\n\n**Description:** SCP-6845 is a forested field 0.6km in diameter, encompassed by a fence of cobblestone pillars and cast iron roughly 1.2m in height. The gate, 2.6m in height, features elaborate metal designs; it is labelled as '[OBSCURED][[footnote]]This metal used to create this word has rusted away.[[/footnote]] County Youth Cemetery'.\n\nA large, ornate lock is present at the centre of the gate; to date, no key has been found, nor have any records of the cemetery's construction. Engraved on the lock is the phrase: \"For those taken too soon: may you find happiness, wherever you may be.\" \n\nThere is a noticeable lack of gravestones within SCP-6845. Instead, numerous human corpses[[footnote]]Structural analysis has determined that every corpse belongs to a child between the ages of 6 and 13.[[/footnote]] are scattered through SCP-6845's interior bounds, all displaying signs of heavy charring and/or severe burning. Every instance noted appears to have been running, crawling, or otherwise attempting to leave SCP-6845 at time of death, with instances closer to exiting having much more fully-formed bodily structures. Instances discovered near SCP-6845-1 are little more than bone fragments encased in cucurbitaceous plant matter in a facsimile of a human form, whereas instances nearing the bounds of SCP-6845 have evidence of muscle mass, skin, hair, and organs.\n\nAll corpses are anomalously resistant to almost all forms of damage but can be destroyed via incineration. By virtue of this property, complete dental records have been recovered from several instances that were found in comparatively good condition, all of which match those of children who were noted to have disappeared, been murdered, or otherwise died unexpectedly in non-anomalous circumstances.\n\nSeveral rusted devices bearing remarkable similarity to standard-issue Foundation incendiary weaponry have been found throughout SCP-6845. They do not appear to be subject to the anomalous properties that affect the corpses within SCP-6845. \n\nSCP-6845-1 is a stone mausoleum located at the centre of SCP-6845. Vegetation is noticeably thicker in its immediate surroundings and is accompanied by a high density of various species of [https://scp-wiki.wikidot.com/scp-097 pumpkins], many unidentified. \n\nSCP-6845-1 is extremely resistant to all forms of damage; no known method of penetrating or otherwise entering SCP-6845-1 has been found.\n\nThe door to SCP-6845-1 is constructed of a thick layer of dark stone. A large lock, similar in design to the one found on SCP-6845's gate, is visible at the centre. Above the door, an inscription in elaborate script reading \"Come back to us\" has been scratched out. \n\nA small placard is welded to the lock, which reads \"[https://scp-wiki.wikidot.com/scp-3790 Department of Abnormalities.]\" The door is warm to the touch, and muffled sounds of crackling and screaming can be heard from behind it.\n\n[[footnoteblock]]\n\n[[div class=\"footer-wikiwalk-nav\"]]\n[[=]]\n<< [[[SCP-6844]]] | SCP-6845 | [[[SCP-6846]]] >>\n[[/=]]\n[[/div]]\n@@ @@\n[[include :scp-wiki:component:license-box]]\n=====\n> **Filename:** Dark_Forest.jpg\n> **Name:** A dark forest\n> **Author:** Richard Webb\n> **License:** CC BY-SA 2.0\n> **Source Link:** [https://www.geograph.org.uk/photo/901640 Geograph]\n=====\n[[include :scp-wiki:component:license-box-end]]",
+  "tags": [
+    "_cc",
+    "_licensebox",
+    "abnormalities",
+    "cadaver",
+    "fire",
+    "forest",
+    "humanoid",
+    "indestructible",
+    "location",
+    "safe",
+    "scp",
+    "structure"
+  ],
+  "author": "TheAlienBaby",
+  "created_at": "2022-07-13T11:26:18+00:00",
+  "updated_at": "2023-07-31T18:10:02+00:00",
+  "rating": 62,
+  "_site": "scp-wiki",
+  "_fullname": "scp-6845"
+}

@@ -1,0 +1,16 @@
+{
+  "title": "SCP-005",
+  "content": "[[include component:image-block name=http://scp-wiki.wdfiles.com/local--files/scp-005/SCP-005.jpg|caption=SCP-005的一张特写|width=300px]]\n\n**项目编号：**SCP-005\n\n**项目等级：**Safe\n\n**特殊收容措施：**从直观来看，SCP-005不具直接危险性。即便如此，它独特的功能也要求采取特殊措施限制接触及操作对象的权限。从收容区转移对象至少需要一（1）名4级人员的许可。\n\n**描述：**从外观上看，SCP-005是一把装饰华丽的钥匙，表现出20世纪20年代大规模生产的钥匙的典型特征。SCP-005被发现时，一名平民正用它潜入一栋守卫森严的设施。SCP-005表现出可较轻易地打开任何形式的锁（见附录A）的特殊能力，无论锁为机械式或数字式。该能力的来源目前尚未确定。\n\n**追加记录：**在至少一（1）名4级人员的监督之下，SCP-005可用做丢失的安全通行证的替代品。SCP-005不得用于自动贩卖机的修理、开启寄物柜或充当私人宅邸的备用钥匙。把对象移出收容区将面临就地处决的处罚。\n\n**附录A：**虽然SCP-005可有效解除几乎所有形式的闩锁装置，进一步的实验表明，掩饰锁的功用与特征在一定程度上可令SCP-005无法发挥其能力。在大约50%的事例中，志愿者无法认出闩锁装置，SCP-005也无法成功解除装置。基于上述实验结果，SCP-005暂时被归类为“有感知力的”，正在开展进一步的试验以测定其认知能力。但实验结果未显示其会无法识别某一种闩锁装置，除非上述装置已在很大程度上经过隐藏与伪装。\n\n[[footnoteblock]]\n\n[[div class=\"footer-wikiwalk-nav\"]]\n[[=]]\n<< [[[SCP-004]]] | SCP-005 | [[[SCP-006]]] >>\n[[/=]]\n[[/div]]\n[[include :scp-wiki-cn:component:license-box\n|author=不明\n|translator=hotaru1314]]\n=====\n> **文件名：**SCP-005.jpg\n> **图像作者：**Brian Uhreen\n> **授权协议：**版权所有（经许可使用）\n> **图源链接：**[[[https://www.flickr.com/photos/snype451/103190389/|flickr]]]\n=====\n[[include :scp-wiki-cn:component:license-box-end]]",
+  "tags": [
+    "_无体裁",
+    "safe",
+    "scp",
+    "适应性"
+  ],
+  "author": "AmieNev",
+  "created_at": "2015-07-16T17:07:03+00:00",
+  "updated_at": "2025-01-10T08:19:09+00:00",
+  "rating": 50,
+  "_site": "scp-wiki-cn",
+  "_fullname": "scp-005"
+}

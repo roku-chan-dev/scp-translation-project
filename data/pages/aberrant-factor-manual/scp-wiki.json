@@ -1,0 +1,19 @@
+{
+  "title": "Aberrant Factor (Manual)",
+  "content": "[[include :scp-wiki:theme:black-highlighter-theme]]\n[[include :scp-wiki:theme:twin-files]]\n[[module CSS]]\n/*-----------------------------------------------*/\n#page-title {\n  display: none;\n}\n\n.genblock a, .genblock a:visited {\n  color: blue;\n  text-decoration: underline;\n}\n\n.genblock a:hover, .genblock a:visited:hover {\n  color: purple;\n  text-decoration: underline;\n  text-decoration-style: double;\n}\n\n.page-div {\n  border: 3px solid rgba(var(--filing-cabinet));\n  padding: 1.5em;\n}\n\n/* Widebox for Large Elements */\n.widebox {\n   width: 60vw;\n   max-width: 60vw !important;\n   position: relative;\n   left: calc(-30vw + 50%);\n}\n\n@media screen and (max-width: 640px) {\n  .widebox {\n    width: 100vw;\n    max-width: 100vw !important;\n    left: calc(-50vw + 50%);\n  }\n}\n/*-----------------------------------------------*/\n[[/module]]\n\n[[>]]\n[[module Rate]]\n[[/>]]\n\n[!--\nFragments:\nhttps://scp-wiki.wikidot.com/fragment:aberrant-factor-manual-0\nhttps://scp-wiki.wikidot.com/fragment:aberrant-factor-manual-1\n--]\n\n[[module ListPages category=\"fragment\" parent=\".\" limit=\"1\" order=\"created_at\" offset=\"@URL|0\"]]\n%%content%%\n[[/module]]",
+  "tags": [
+    "_arcadia",
+    "_cc",
+    "arcadia",
+    "comic",
+    "goi-format",
+    "mystery",
+    "unusual-incidents-unit"
+  ],
+  "author": "JackalRelated",
+  "created_at": "2023-11-01T04:00:15+00:00",
+  "updated_at": "2024-09-29T06:20:04+00:00",
+  "rating": 67,
+  "_site": "scp-wiki",
+  "_fullname": "aberrant-factor-manual"
+}

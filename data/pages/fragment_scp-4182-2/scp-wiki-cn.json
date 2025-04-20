@@ -1,0 +1,13 @@
+{
+  "title": "SCP-4182-2",
+  "content": "----\n> **备注：** 你正在查看本文件的过往版本(7/11/2015)，此处包含的信息可能不准确或过时。请联系你的服务器管理员 (##red|@@jdavis@scp.foundation.int@@##) 获取详情。\n\n[[include :scp-wiki:component:classified-decoration\n|lv=2\n|item=4182\n|oc=Euclid\n|lang=CN\n]]\n----\n[[include component:image-block name=http://scp-wiki.wdfiles.com/local--files/fragment:scp-4182-2/site5A.png|align=center|width=100%|caption=**{{Fig 1.1:}}** SCP-4182.]]\n----\n\n**特殊收容措施：** 人员将与JMSDF[[footnote]]Kaijō Jieitai，日本海上自卫队[[/footnote]]和其他海空军力在SCP-4182周边建立十公里隔离区。严禁进行访问。\n\n一台基金会运作机器人(I/O-SILVER)将审核IntSCPFN服务器内受SCP-4182影响的文件。这些文件将被隔离，报告给在岗服务器管理员进行复核与消毒。提醒人员Site-5不存在。\n\n[[include component:image-block name=http://scp-wiki.wdfiles.com/local--files/fragment:scp-4182-2/blank.png|caption=**{{无效文件/名录('CAM-5.ogg')}}**]]\n\n**描述：** SCP-4182是一6.4公顷(16英亩)的人工岛，位于日本Ipponsugi以南75公里处。虽然没有该建筑存在的记录，其布局表明这是一座修建于20世纪早期的废料收容设施。\n\n基金会文件会周期性地将SCP-4182识别为不存在的站点（“Site-5”）。此现象的发生机制尚不明了。\n\nSCP-4182的全部建筑都被强化丙烯酸板密封。没有移除这些密封板或检查SCP-4182内部结构的计划。\n\n自其于2014年被发现起，SCP-4182的发生速率已大幅增加。\n\n[[footnoteblock]]\n\n++ 404  内部服务器错误\n服务器遭遇意外情况，无法完成请求：  \n[[div style=\"color: white; font-family: Courier; font-weight: bold; display: inline-block; background:#000000; float:top; padding:5px; width:100%\"]]\n**##white|{{@@ Traceback (most recent call last):@@}}##**\n**##white|{{@@   File \"/SCP/4182/files/_display.py\", line 551, in respond@@}}##**\n**##white|{{@@     table.open.body = self.handler()@@}}##**\n**##white|{{@@   File \"/SCP/4182/files/_display.py\", line 24, in __call__@@}}##**\n**##white|{{@@     return self.callable(*self.args, **self.kwargs)@@}}##**\n**##white|{{@@   File \"error_classic.py\", line 6 in index@@}}##**\n**##white|{{@@     raise FileNotFoundError(obj)@@}}##**\n**##white|{{@@ FileNotFoundError: [Errno 2] No such file or directory: 'CAM-5.ogg'@@}}##**\n[[/div]]\n> **备注：** 本文件遭遇意外情况。点击**[http://scp-wiki-cn.wikidot.com/scp-4182/offset/2 此处]**恢复到之前版本，或联系你的服务器管理员(##red|@@jdavis@scp.foundation.int@@##)获取详情。",
+  "tags": [
+    "段落"
+  ],
+  "author": "ashausesall",
+  "created_at": "2019-07-09T13:32:19+00:00",
+  "updated_at": "2020-09-03T09:13:39+00:00",
+  "rating": 1,
+  "_site": "scp-wiki-cn",
+  "_fullname": "fragment:scp-4182-2"
+}

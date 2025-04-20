@@ -1,0 +1,13 @@
+{
+  "title": "Join Date",
+  "content": "[[html]]\n<!DOCTYPE html>\n<html>\n  <head>\n    <link rel=\"stylesheet\" href=\"https://cdn.scpwiki.com/theme/en/sigma/css/sigma.min.css\">\n    <meta http-equiv=\"Content-Language\" content=\"en\">\n    <title>Join the Site - Age Requirement</title>\n  </head>\n  <body>\n    To join the site, you must be at least <strong>18 years old</strong><span id=\"extra\" class=\"hidden\">, meaning you were born <strong>on or before <span id=\"date\"></span></strong></span>.\n\n    <style>\n      .hidden {\n        display: none;\n      }\n    </style>\n\n    <script>\n      function getLocale() {\n        if (navigator.languages && navigator.languages.length) {\n          return navigator.languages[0];\n        }\n\n        if (navigator.language) {\n          return navigator.language;\n        }\n\n        return 'en';\n      }\n\n      // Calculate date\n      var date = new Date();\n      date.setFullYear(date.getFullYear() - 18);\n\n      // Add information to span\n      var locale = getLocale();\n      var options = {\n        year: 'numeric',\n        month: 'long',\n        day: 'numeric',\n      };\n      document.getElementById('date').innerText = Intl.DateTimeFormat(locale, options).format(date);\n\n      // Unhide extra information section\n      document.getElementById('extra').classList.remove('hidden');\n    </script>\n  </body>\n</html>\n[[/html]]",
+  "tags": [
+    "fragment"
+  ],
+  "author": "aismallard",
+  "created_at": "2024-10-28T02:12:28+00:00",
+  "updated_at": "2024-10-30T10:42:42+00:00",
+  "rating": 0,
+  "_site": "scp-wiki",
+  "_fullname": "fragment:system-join-date"
+}

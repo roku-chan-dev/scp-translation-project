@@ -1,0 +1,13 @@
+{
+  "title": "Liberty Through Cessation - GoldenChanges - 8",
+  "content": "[[include :scp-wiki:theme:basalt darkmode=a|centertitle=a|acs-itemnum=a]]\n[[module CSS]]\n:root {\n--header-title: \"Project DIDS\";\n}\n.scp-image-block .scp-image-caption {\n    background-color: #d7b73a;\n    border-top-color: #d7b73a;\n}\n[[/module]]\n[[=]]\n\n@@ @@\n\n> + SYSTEM UPDATE\n> +++ Data and Infohazard Deletion System\n> Lyne.aic has been put back online. Network traffic has returned to normal.\n> We apologise for any issues you may have faced during maintenance. Everything should be working as intended once again.\n> A new file will be uploaded shortly.\n> @@ @@\n> @@ @@\n> //Thank you for being patient.//\n> @@ @@\n> @@ @@\n> [[image http://scp-wiki.wikidot.com/local--files/fragment:goblincon-5257-goldenchanges-8/wee width=\"300px\"]]\n> [[/=]]",
+  "tags": [
+    "fragment"
+  ],
+  "author": "GoldenChanges",
+  "created_at": "2023-05-25T19:52:22+00:00",
+  "updated_at": "2023-05-31T16:16:27+00:00",
+  "rating": 0,
+  "_site": "scp-wiki",
+  "_fullname": "fragment:goblincon-5257-goldenchanges-8"
+}

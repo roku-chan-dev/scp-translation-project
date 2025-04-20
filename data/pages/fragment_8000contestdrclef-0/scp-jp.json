@@ -1,0 +1,14 @@
+{
+  "title": "SCP-8009-0",
+  "content": "[[module CSS]]\n.fakeprot .mailform-box .buttons{display:none;}\n.fakeprot + .collapsible-block .collapsible-block-link {padding: 0.1em 0.5em;text-decoration: none;background-color: #F4F4F4;border: 1px solid #AAA;color: #000;}\n.fakeprot + .collapsible-block .collapsible-block-link:hover {background-color: #DDD;color: #000;}\n.fakeprot + .collapsible-block .collapsible-block-link:active {background-color: #DDD;color: #000;}\n.fakeprot + .collapsible-block .collapsible-block-unfolded-link{margin:0.5em 0;text-align: center;}\n.fakeprot + .collapsible-block .collapsible-block-folded{margin:0.5em 0;text-align: center;}\n.fakeprot .passw input[type=text] {text-security:disc;-webkit-text-security:disc;-mox-text-security:disc;}\n.mailform-box td:first-child {width: 80px;}\n[[/module]]\n\n[[div class=\"fakeprot\"]]\n[[module MailForm to=\"aaaa (DUMMY)\" button=\"\"]]\n# name\n * title: ID\n * default: <YOUR ID>\n * type: text\n * rules:\n  * required: true\n  * maxLength:10\n  * minLength: 100\n[[/module]]\n[[div class=\"passw\"]]\n[[module MailForm to=\"aaaa (DUMMY)\" button=\"\"]]\n# affiliation\n * title: PASSWORD\n * default: ・・・・・・・・・\n * rules:\n  * required: true\n  * maxLength:10\n  * minLength: 100\n[[/module]]\n[[/div]]\n[[/div]]\n[[collapsible show=\"ログイン\" hide=\"ログアウト\"]]\n[[div style=\"border:solid 1px #999999; background:#f2f2c2; padding:5px; margin-bottom: 10px;\"]]\n[[=]]\n++++ 財団記録・情報保安管理局より通達\n\nこの報告書は現在、多元宇宙に及ぶ情報異常の影響を受けています。画像、文書、音声は破損している可能性があります。これは財団データベースの異常によるものではありません。\n\n**現時点において、RAISAは多元宇宙に及ぶ情報異常を修正する術を持ちません。**この報告書の破損に関するすべての報告は無視されます。\n\nご理解の程、よろしくお願いします。\n\n\n**[[[https://scp-jp.wikidot.com/scp-8009/offset/1|クリックして続行]]]**\n\n-- RAISA管理官 マリア・ジョーンズ\n[[/=]]\n[[/div]]\n[[/collapsible]]",
+  "tags": [
+    "en",
+    "フラグメント"
+  ],
+  "author": "imabari",
+  "created_at": "2024-06-29T14:54:43+00:00",
+  "updated_at": "2024-06-29T15:30:28+00:00",
+  "rating": 0,
+  "_site": "scp-jp",
+  "_fullname": "fragment:8000contestdrclef-0"
+}

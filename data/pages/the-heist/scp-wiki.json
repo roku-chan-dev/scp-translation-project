@@ -1,0 +1,15 @@
+{
+  "title": "The Heist",
+  "content": "[[include :scp-wiki:theme:black-highlighter-theme]]\n[[include :scp-wiki:theme:hansarp]]\n[[include :scp-wiki:component:toggle-sidebar-bhl]]\n[[module css]]\n#header{\n     --header-title: \"THE HEIST\";\n     --header-title-mobile: \"THE HEIST\";\n}\n[[/module]]\n\n[[module CSS]]\n:root {\n --borderColor: #DE471E;\n}\n[[/module]]\n\n[[>]]\n[[module Rate]]\n[[/>]]\n\n[[image https://upload.wikimedia.org/wikipedia/commons/5/5d/Night_House_in_the_Fog.jpg]]\n\n------\n\nMildly eerie, contra expectations, is the house of a wicked man! \n\n[[tabview]]\n[[tab Tiny Creations]]\nHandcrafted products before the Spanish took me.\n\n**[[[https://scp-wiki.wikidot.com/crooked-kingdom|Crooked Kingdom]]]** (##green|+30##)\n//For love is the desire of the whole, and the pursuit of the whole is called love.//\n\n//Sometimes that whole is lessened.//\n\n**[[[https://scp-wiki.wikidot.com/ulla-na-folla|Ùlla Na Folla]]]** (##green|+52##) (once) Featured!\n//Worlds die and fade to the night’s embrace. Others survive a little more. And back home, a man and his cat watch as a Sumerian warrior from ages forgotten engages in some real Resident Evil.//\n[[/tab]]\n[[tab Megabuilds]]\nFor some, the moon, as a constant sight, can prove brighter than the Sun.\n \n**[[[https://scp-wiki.wikidot.com/nightfall-hub|NIGHTFALL Hub]]]** (##red|+117##)\n[[/tab]]\n[[/tabview]]\n\n\n\n\n\n[[include :scp-wiki:component:license-box]]\n=====\n> **Filename:** Night House in the Fog.jpg\n> **Author:** Martin Cathrae\n> **License:** CC-BY-SA 2.0\n> **Source Link:** https://commons.wikimedia.org/wiki/File:Night_House_in_the_Fog.jpg\n=====\n[[include :scp-wiki:component:license-box-end]]",
+  "tags": [
+    "_cc",
+    "_licensebox",
+    "author"
+  ],
+  "author": "Neatpicky",
+  "created_at": "2022-06-21T08:58:08+00:00",
+  "updated_at": "2024-09-18T14:43:47+00:00",
+  "rating": 19,
+  "_site": "scp-wiki",
+  "_fullname": "the-heist"
+}

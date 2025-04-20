@@ -1,0 +1,11 @@
+{
+  "title": "01264",
+  "content": "content: \"**项目描述：**一根未知品牌的USB数据线，两端接口类型分别为Type-A和Type-C。当Type-A端被尝试插入充电器时，会保持接口方向与目标接口相同，使用已知方式对数据线的扭转均未生效。\\n**回收日期：**20██/██/██\\n**回收地点：**██市某手机旗舰店\\n**当前状态：**存放于Site-CN-██的低价值异常物品保存柜\\n**笔记：**将插反方向的概率由50%提高到了100%.——Dr.Neon\\n无法明确是否有异常效应作用于Type-C端——Dr.Argon\"",
+  "tags": [],
+  "author": "HexavalentCr",
+  "created_at": "2022-12-07T09:12:01+00:00",
+  "updated_at": "2022-12-07T09:18:45+00:00",
+  "rating": 6,
+  "_site": "scp-wiki-cn",
+  "_fullname": "log-of-anomalous-items-cn:01264"
+}

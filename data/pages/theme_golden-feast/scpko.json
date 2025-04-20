@@ -1,0 +1,14 @@
+{
+  "title": "금빛 만찬 CSS 테마",
+  "content": "[[module CSS]]\n@import url(https://scpko.wdfiles.com/local--code/theme%3Agolden-feast/1);\n[[/module]]\n\n[[iftags +테마]]\n\n+ 금빛 만찬 CSS 테마\n\n[[>]]\n**Rating:**\n[[module Rate]]\n[[/>]]\n\n금빛 만찬 CSS 테마는 [[*user c_bonefish]]가 [[[ambrose-restaurant-hub|앰브로즈 레스토랑스]]] GoIF 혹은 이와 같은 작품들을 위해 제작되었습니다.\n\n테마를 적용하기 위해서 다음과 같은 구문을 페이지 상단에 삽입하세요:\n[[div class=\"code\"]]\n@@[[include :scpko:theme:golden-feast]]@@\n[[/div]]\n@@@@\n-----\n+ 페이지 요소\n@@@@\n[[include component:image-block name=https://scp-wiki.wikidot.com/local--files/theme:golden-feast/top-image.png|caption=ㅁㄴㅇㄹ|width=200px]]\n\n+ 제목1\n++ 제목2\n+++ 제목3\n++++ 제목4\n+++++ 제목5\n++++++ 제목6\n@@@@\n@@@@\n@@@@\n[[tabview]] [[tab tab1]]\n[[=]]\n> + Link\n> [# 방문하지 않은 링크] | [[[theme:golden-feast|방문한 링크]]]\n> -----\n>> 텍스트[[footnote]]똑똑[[/footnote]]\n[[/=]]\n[[/tab]] [[tab tab2]]\n[[/tab]] [[/tabview]]\n@@@@\n-----\n+ CSS 테마 코드\n@@@@\n[[code type=\"css\"]]\n/*\n    Powered on 2021/05/08 00:36:31\n\n    [2021 Wikidot Theme]\n\n    Created by c_bonefish\n    Header Code adopted from The Buck Stops Here CSS Theme by thd-glasses\n    Info Bar and Page Rating Code adopted from Technoblast Theme by EstrellaYoshte\n\n    Background Image1: https://pixabay.com/vectors/ornate-decoration-banner-greeting-3068591/\n    Background Image2: https://pixabay.com/illustrations/chandelier-ornament-decor-golden-3006697/\n\n    CC BY-SA 3.0\n*/\n\n@import url(https://scp-wiki.wikidot.com/theme:golden-feast/code/1);\n@import url('https://fonts.googleapis.com/css?family=Poiret+One');\n@import url('https://scpko.wdfiles.com/local--files/unfont/UnJamoNovel.css');\n\n:root {\n    --title: \"Ambrose Restaurants\";\n    --short_title: \"Ambrose\";\n}\n\n/* Header */\n\n#header h1 a {\n    font-family: 'Poiret One', 'UnJamoNovel';\n}\n\n#page-title {\n    font-family: 'Poiret One', 'UnJamoNovel';\n}\n\nh1,h2,h3,h4,h5,h6 {\n    font-family: 'Poiret One', 'UnJamoNovel';\n}\n[[/code]]\n\n[[/iftags]]",
+  "tags": [
+    "en",
+    "테마"
+  ],
+  "author": null,
+  "created_at": "2021-05-15T03:07:00+00:00",
+  "updated_at": "2021-09-30T15:46:43+00:00",
+  "rating": 7,
+  "_site": "scpko",
+  "_fullname": "theme:golden-feast"
+}

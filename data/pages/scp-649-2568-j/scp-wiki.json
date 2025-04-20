@@ -1,0 +1,23 @@
+{
+  "title": "SCP-649-2568-J",
+  "content": "=====\n[[include component:preview\ntext=I can't deny how funny this is.]]\n=====\n[[include component:info-ayers\n|lang=en[!-- EN/RU/KO/CN/FR/PL/ES/TH/JP/DE/IT/UA/PTBR --]\n|page=scp-649-2568-j[!-- url of your page on the scp wiki --]\n|authorPage=http://www.scp-wiki.net/dr-cimmerian-s-personnel-file[!-- link to your author page --]\n|comments= \n\nIf anyone is wondering 649-2568 is \"Mix-A-Lot\" which is a reference to the line \"Dial 1-900-MIXALOT and kick them nasty thoughts\". From Baby Got Back.\n\nAlso that's an anaconda. Picture is sourced from here: https://commons.wikimedia.org/wiki/File:Anaconda_jaune_34.JPG .\n\n(© Patrick JEAN / muséum d'histoire naturelle de Nantes\")\n\nI had the idea and couldn't let it go. Also I love puns.\n\n]]\n[[include theme:black-highlighter-theme]]\n[[module CSS]]\nsup { \nvertical-align: top; position: relative; top: -0.5em; \n}\n:root{ \n--cutColour: #fafafa;\n--barColour: #590505;\n}\n\n.info-container .collapsible-block-folded a{\ncolor: #FFF;}\n.info-container .collapsible-block-unfolded-link a{\ncolor: #FFF;}\n\n.translation_block{\ndisplay:none;}\n[[/module]]\n[[module css]]\n#side-bar {\n    background: rgb(var(--white-monochrome));\n}\n\n#side-bar div.menu-item a, #side-bar div.menu-item .text {\n    color: rgb(var(--black-monochrome));\n}\n\n#side-bar>div:nth-child(5) {\n    background-color: rgba(var(--dark-accent),0.25)!important;\n}\n[[/module]]\n\n[[>]]\n[[module Rate]]\n[[/>]]\n\n[[include component:image-block name=Anaconda_jaune_34.JPG|caption=SCP 649-2568 inside its containment unit.|width=300px]]\n\n**Item #:** SCP-649-2568\n\n**Object Class:** Keter\n\n**Special Containment Procedures:** SCP 649-2568 is to be kept in a standard animal containment unit. Under no circumstances is SCP 649-2568 to be allowed to discuss geological or geographic details.\n\nInterviews of SCP 649-2568 should be scheduled daily, with a focus on any future escape attempts. All other testing involving SCP 649-2568 requires approval from the project director.\n\n**Description:** SCP 649-2568 is an entity which superficially resembles the species //Eunectes notaeus//. Despite this resemblance, SCP 649-2568 retains the personality and speech patterns of a human male. SCP 649-2568 has shown a capacity to reshape any geological features it sees, or has heard described. These reshaping events exclusively affect any features the entity deems as \"too flat\". This has, in the past, included plains, marshes, and the ocean floor.\n\nDuring reshaping events, these locations will experience several seconds of tremors, followed by the growth of an extrusion, generally at the geographic center of the area seen or described. These extrusions will rise above the surrounding land, and have uniformly possessed steep sides with flat tops. No known force has been capable of stopping this growth, though the internal structure of these formations have displayed no anomalous properties beyond their creation.\n\nFurthermore, when interviewed, SCP 649-2568 displays a compulsion to disclose the truthful answer to any inquiry. This compulsion has led to the discovery of several escape attempts, including one involving anomalous contact with an outside organization.\n\nDue to the linking of its reshaping ability to descriptions of locations, the method of this anomalous contact must be determined to effect continued containment. While interviews with SCP 649-2568 have proven effective in limiting this contact, care must be taken to avoid further restructuring events during those interviews.\n\n[[collapsible show=\"+ Show Interview Log\" hide=\"Hide Interview Log\"]]\n\n> //The following interview took place very shortly after containment.//\n> \n> **Dr. [http://www.scp-wiki.net/dr-cimmerian-s-personnel-file Cimmerian]:** Hello. In your own words, describe yourself.\n> \n> **SCP 649-2568:** Well. I like big buttes and I cannot lie.\n> \n> //Following this admission, the interview was suspended until further questions could be approved by the project director.//\n[[/collapsible]]\n\n\n=====\n[[div class=\"titlepreview\"]]\nTechnicolor Geography\n[[/div]]\n[[div class=\"coauthors\"]]\nNone\n[[/div]]\n[[module CSS]]\ndiv.titlepreview { display: none; }\ndiv.coauthors { display: none; }\n[[/module]]\n======",
+  "tags": [
+    "_cc",
+    "alive",
+    "animal",
+    "doctor-cimmerian",
+    "geological",
+    "joke",
+    "keter",
+    "reptile",
+    "sapient",
+    "scp",
+    "snake"
+  ],
+  "author": "Doctor Cimmerian",
+  "created_at": "2014-11-02T03:55:02+00:00",
+  "updated_at": "2024-05-03T12:54:53+00:00",
+  "rating": 419,
+  "_site": "scp-wiki",
+  "_fullname": "scp-649-2568-j"
+}

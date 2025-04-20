@@ -1,0 +1,24 @@
+{
+  "title": "SCP-7505",
+  "content": "[[include :scp-wiki:theme:black-highlighter-theme]]\n[[include :scp-wiki:theme:clock-tower]]\n\n\n[[>]]\n[[module rate]]\n[[div style=\"text-align: right; margin-right: 2em; margin-top: -20px;\"]]\nby [[[SynthPanda_]]]\n[[/div]]\n[[/>]]\n\n\n\n\n**Item #:** SCP-7505\n\n**Object Class:** Safe\n\n**Special Containment Procedures:** SCP-7505 is to be contained within a standard large containment unit located within Subterranean Area-49, along with the 25 existing SCP-7505-A instances. SCP-7505 must remain physically shut at all times.  Any individuals suffering negative mental health effects due to exposure to SCP-7505 or SCP-7505-A must be assigned a Foundation-affiliated psychiatrist upon request.\n\nShould SCP-7505 be found open, or a new SCP-7505-A instance manifest, the door to SCP-7505 must be closed at the nearest possible opportunity, and the Head Researcher of SCP-7505 must be contacted immediately. Any individuals who have entered SCP-7505 are to be considered lost.\n\nResearch into the missing cast of //And Then The Stars Went Out//, focused on the anachronistic nature of the director's disappearance, is ongoing.\n\n\n[[include component:image-block\n| name= https://upload.wikimedia.org/wikipedia/commons/a/a9/Intermodal_container_facility_at_Seagirt%2C_Baltimore.jpg?20090329165203\n| caption= SCP-7505 during its initial discovery.\n| width= 10px\n]]\n\n**Description:** SCP-7505 refers to a maroon truck-sized intermodal shipping container, which was utilized in the production of an unreleased independent horror film titled //And Then The Stars Went Out//. Externally, SCP-7505 is identical to non-anomalous shipping containers of the same make, however the inside of the object appears to be a limitless space, devoid of any light or matter. Individuals witnessing the internal dimensions of SCP-7505 report sensations of fearlessness and wanderlust, as well as a faint compulsion to enter SCP-7505, which has been resisted by all individuals affected since SCP-7505's initial containment. Affected individuals will later develop acute claustrophobia and scopophobia, although these ailments can be treated through non-anomalous means.\n\nSCP-7505's anomalous properties were initially discovered on 07/28/1995, by dock workers employed near the filming location of //And Then The Stars Went Out// in Newark, New Jersey. All individuals associated with the production of //And Then The Stars Went Out// were last seen on 07/27/1995, with the exception of Esme Quinton, credited as the director and producer of the project on official documentation, who was reported missing on 05/05/1955.\n\nOn the 5th of June, from 1996-2021, SCP-7505's doors would anomalously open, and an instance of SCP-7505-A was ejected from its internal space. SCP-7505-A resemble human corpses, which show disfigurements consistent with exposure to a true vacuum, as well as 5th degree burns, although the subject's eyes appear undamaged. Efforts to move SCP-7505-A into a position in which the instance is not facing upwards have universally failed.\n\n[[div class=\"footer-wikiwalk-nav\"]]\n[[=]]\n<< [[[SCP-7504]]] | SCP-7505 | [[[SCP-7506]]] >>\n[[/=]]\n[[/div]]\n\n[[include :scp-wiki:component:license-box]]\n=====\n> **Filename:** Boxes\n> **Author:** Federal Highway Authority\n> **License:** Public Domain\n> **Source Link:** https://commons.wikimedia.org/wiki/File:Intermodal_container_facility_at_Seagirt,_Baltimore.jpg\n=====\n[[include :scp-wiki:component:license-box-end]]\n\n[[module CSS]]\n:root {\n  --header-title: \"SCP FOUNDATION\";\n  --header-subtitle: \"Secure, Contain, Protect.\";\n  --lgurl: url(https://scp-wiki.wdfiles.com/local--files/component:pride-highlighter/tg_logo.svg);\n}\n[[/module]]",
+  "tags": [
+    "_cc",
+    "_licensebox",
+    "artifact",
+    "cadaver",
+    "compulsion",
+    "extradimensional",
+    "fifthist",
+    "ocular",
+    "portal",
+    "safe",
+    "scp",
+    "sun"
+  ],
+  "author": "SynthPanda_",
+  "created_at": "2023-01-17T14:44:29+00:00",
+  "updated_at": "2023-01-23T21:50:03+00:00",
+  "rating": 56,
+  "_site": "scp-wiki",
+  "_fullname": "scp-7505"
+}

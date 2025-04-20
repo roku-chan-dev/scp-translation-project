@@ -1,0 +1,13 @@
+{
+  "title": "Card",
+  "content": "[[iftags +fragment]]\n> This is a structural template component for the flipcard on the PDcon tale \"The Containment of Arsene Lupin; the CSS for the cards is contained there, this is just so that adding a new card means writing small include instead of 30 lines of syntax.\n[[/iftags]]\n\n[[div class=\"flip-card\"]]\n[[div class=\"flip-card-inner\"]]\n[[div class=\"flip-card-front\"]]\n[[/div]]\n[[div class=\"flip-card-back\" style=\"{$styling}\"]]\n[[div class=\"cardtext\"]]\n\n[[/div]]\n[[/div]]\n[[/div]]\n[[/div]]",
+  "tags": [
+    "fragment"
+  ],
+  "author": "Uncle Nicolini",
+  "created_at": "2025-02-15T16:40:22+00:00",
+  "updated_at": "2025-02-17T14:48:21+00:00",
+  "rating": 0,
+  "_site": "scp-wiki",
+  "_fullname": "fragment:card"
+}

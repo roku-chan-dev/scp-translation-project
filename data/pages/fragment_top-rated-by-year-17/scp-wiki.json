@@ -1,0 +1,13 @@
+{
+  "title": "Top Rated By Year: 2017",
+  "content": "[=]]\n+ 2017\n[[/=]]\n\n[[module ListPages rating=\">60\" order=\"rating desc\" category=\"*\" separate=\"false\" limit=\"200\" date=\"2017\" prependLine=\"||~ Title||~ Rating||~ Author||~ Written On||\"]]\n|| [[a target=\"_blank\" href=\"%%link%%\"]]%%title%%[[/a]] || %%rating%% || %%created_by_linked%% || %%created_at%% ||\n[[/module]]",
+  "tags": [
+    "fragment"
+  ],
+  "author": null,
+  "created_at": "2018-09-24T22:54:40+00:00",
+  "updated_at": "2022-04-20T05:22:42+00:00",
+  "rating": 1,
+  "_site": "scp-wiki",
+  "_fullname": "fragment:top-rated-by-year-17"
+}

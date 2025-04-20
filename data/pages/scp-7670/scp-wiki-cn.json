@@ -1,0 +1,20 @@
+{
+  "title": "SCP-7670",
+  "content": "[[include :scp-wiki-cn:component:info-ayers\n|lang=en[!-- EN/RU/KO/CN/FR/PL/ES/TH/JP/DE/IT/UA/PTBR --]\n|page=scp-7670[!-- url of your page on the scp wiki --]\n|authorPage=http://scp-wiki-cn.wikidot.com/djkaktus[!-- link to your author page --]\n|comments=\n= **SCP-7670** - //致盲之光//\n\n-----\n描述待定。\n\n-----\n\n= **图像授权信息**\neye.jpg来自https://flickr.com/photos/elchode/6614563075\n\n所有图像由我，djkaktus编辑。\n]]\n\n[[include :scp-wiki-cn:component:anomaly-class-bar-source\n|lang=cn\n|item-number= 7670\n|clearance= 4\n|container-class= euclid\n|secondary-class=\n|secondary-icon=\n|disruption-class= vlam\n|risk-class= 危险\n]]\n\n-----\n\n[[include component:image-block name=https://scp-wiki.wdfiles.com/local--files/scp-7670/eye.jpg|align=right|caption=SCP-7670的左眼。]]\n\n**特殊收容措施：**SCP-7670被收容于Site-19一安保异常动物围场内。所有基金会人员在任何情况下都不应与SCP-7670直接接触——若SCP-7670需要从当前位置移动，其须先被装入一无窗隔音的容器中，并在从起始位置到目的地的过程中时刻保持密封。SCP-7670每日被喂食三次，对其收容室的维护须由自动化系统（若适用）或失明且失聪的D级人员完成。尽管目前SCP-7670的视频影像不被认为具有认知危害效应，但其音频是已被确认的传染媒介，需要不计一切代价避免。\n\n仅限测试对象与SCP-7670进行互动。在维护SCP-7670收容过程中报告出现令人不安的噩梦、幻觉和幻听的人员将被交付SCP-7670研究团队以供评估与研究。\n\n**描述：**SCP-7670指一只于东土耳其亚美尼亚高原卡玛兹村发现的山羊（//Capra hircus//），只有一只左眼。SCP-7670没有右眼。\n\nSCP-7670生理上无法死亡——能够抵抗伤害——并表现出相较于其物种不寻常的行为。其不需要饮食，但随时可以获得水和食物会使得SCP-7670更频繁地睡眠，在此期间其眼睛保持闭合。此外，它被认为是极其温顺的，并在观测中表现出了异常的认知能力。虽然不确定此行为在多大程度上与SCP-7670的左眼有关，但在多数情况下，该山羊都被观察到了在不进食或睡眠时凝视着收容室中的隐藏摄像机。\n\nSCP-7670表现出许多异常性质，直视其眼睛的人员经常报告奇异和不寻常的幻觉、幻听或令人恐惧的噩梦。值得注意的相似之处包括：\n\n* 明亮身影的幻觉\n* 伸出的手臂的幻觉\n* 严重失血的幻觉\n* 恐慌和妄想的感受\n* 被观察的感受\n* 被跟踪的感受\n* 被背叛的感受\n* 被评判的感受\n* 坠落的感受\n* 明亮光照的感受\n* 燥热的感受\n\n目前没有有效方式来减轻此类幻觉——接受了记忆删除的人员持续报告此类幻觉与感受，但无法记起其来源。这种困惑通常会导致对象焦虑的显著增加，故不再被推荐对压力过大的对象实施记忆删除。\n\n对象也报告了清醒和睡眠时出现的幻听。这些幻听通常被描述成相关现象中更具创伤性的，对象通常会采取更极端的手段以减轻其痛苦。对象通常会试图破坏自己的听觉，在意识到这一手段无法减弱声音后，将试图使用任何可用的手段自杀，或在更极端的情况下，撕裂其头骨以触及头脑中声音的来源。\n\n鉴于SCP-7670的性质，难以获得对这些现象的准确记录，这也是当前调查的重点。关于SCP-7670对人类影响最完整的描述来自16世纪亚美尼亚修道士Sahag Zadian的著作。Zadian的描述被认为是首个将SCP-7670视作异常实体的记录，虽然来自现土耳其东部和东南部的同一地区更早期著作描述了大量原因不明的狂热宗教事件，目前其中大部分被认为是由于SCP-7670的影响。Zadian主要描述了受SCP-7670的人员所经历的偏执、恐惧和坠落的幻觉。\n\n最后，从基因角度来说，虽然SCP-7670本身是山羊，但其左眼则不是。从其中提取样本的基因测序尚未得出结论。\n\n[[include :scp-wiki-cn:component:djk]]",
+  "tags": [
+    "euclid",
+    "scp",
+    "不可摧毁",
+    "动物",
+    "听觉影响",
+    "幻觉",
+    "活物",
+    "视觉性"
+  ],
+  "author": "DKande",
+  "created_at": "2023-01-20T01:33:53+00:00",
+  "updated_at": "2023-01-25T09:10:34+00:00",
+  "rating": 8,
+  "_site": "scp-wiki-cn",
+  "_fullname": "scp-7670"
+}

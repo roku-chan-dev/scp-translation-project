@@ -1,0 +1,13 @@
+{
+  "title": "如何说猪拉丁（Pig Latin）",
+  "content": "欢迎来到SCP基金会Pig Latin（猪拉丁、猪猪拉丁语）分部，我是（[[*User MasterTman2]]）[[footnote]]译者注：我（译者）不是[[/footnote]]，我煞费苦心地将那些冗长的页面手动翻译成Pig Latin，纯粹是为了搞笑，因为没有人会真的去用它，但哈哈，它是Pig Latin！你知道吗？？\n\n初来乍到，你一定觉得网站上的这些胡言乱语很哈人，但别担心！对于说英语的人来说，读、写、说Pig Latin都非常简单。\n\n[[span style=\"color:pink\"]][[size x-large]]**书写**[[/size]][[/span]]\n\n+++ 第一步\n确定单词以什么类型的字母开头。\n+++ 第二步\n如果是元音，不做任何改变。如果是辅音，则将第一个元音之前的所有辅音移到单词后面。\n+++ 第三步\n如果单词以元音开头，在末尾添加“yay”。如果以辅音开头，则在末尾添加“ay”。\n示例：\nOkay -> Okayyay（好吧）\nCow -> Owcay（奶牛）\nInsane -> Insaneyay（疯狂）\nJump -> Umpjay（跳跃）\n\n[[span style=\"color:pink\"]][[size x-large]]**阅读**[[/size]][[/span]]\n\n阅读会更难一些，因为需要一下子理解很多单词。但是，只要多加练习，阅读就会像写作一样简单！\n+++ 第一步\n看词。如果它以元音开头，并且看起来像是个正常的英语单词，只是在末尾加了“yay”，那么只需去掉“yay”，你就得到了原单词。\n+++ 第二步\n对于原本以辅音开头的单词，读单词并尝试找出原单词在哪里结束。弄清楚后，去掉“ay”，并将结尾的辅音放回单词的开头。\n示例：\nOomingyay -> Zooming(快速上升的，变焦）\nAppyhay -> Happy（快乐）\nInyay -> In（于，中）\nIyay -> I（我）",
+  "tags": [
+    "pig"
+  ],
+  "author": "DCup#mus",
+  "created_at": "2024-11-13T10:38:06+00:00",
+  "updated_at": "2024-11-14T02:16:51+00:00",
+  "rating": -8,
+  "_site": "scp-wiki-cn",
+  "_fullname": "deleted:how-to-speak-pig-latin"
+}

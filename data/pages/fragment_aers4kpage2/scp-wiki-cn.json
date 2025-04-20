@@ -1,0 +1,13 @@
+{
+  "title": "SCP-4224",
+  "content": "[[module CSS]]\n\nblockquote {\n\n    background-color: black;\n\n    border: double 3px #80FF80\n\n}\ndiv.terminal{\n        width: @display-width;\n        height: @display-height;\n    border: 1px solid black;\n    border: solid 3px #BBBBBB;\n    border-radius: 16px;\n    background-color: #131;\n/* black shadow at the top of the terminal */\n  \tbackground-image:\n    \tradial-gradient(ellipse 1000% 100% at 50% 90%, transparent, #121);\n  \tbackground-position: center;\n  \tdisplay: block;\n/* shadow around the terminal */\n  \tbox-shadow: inset 0 0 10em 1em rgba(0,0,0,0.5);\n/* prevents scanline from forming a scrollwheel */\n  \toverflow:hidden;\n}\ndiv.scanline{\n    margin-top: -40%;\n    width: @display-width;\n    height: 60px;\n    position: relative;\n    pointer-events: none;\n    -webkit-animation: scan 5s linear 0s infinite;; /* Safari 4.0 - 8.0 */\n    animation: scan 5s linear 0s infinite;\n    background: linear-gradient(to bottom, rgba(56, 112, 82,0), rgba(56, 112, 82,0.1)) !important;\n}\n\ndiv.text{\n    color: rgba(128,255,128,0.8);\n    padding-left: 2em;\n    padding-top: 40%;\nfont-family: monospace;\nfont-size: 0.85em;\n    }\n\n/* Safari 4.0 - 8.0 */\n@-webkit-keyframes scan{\n    from{ transform: translateY(-10%);}\n    to{  transform: translateY(2000%);}\n}\n\n\ndiv.text a {\n    color: #90EE90;\n    text-decoration: none;\n    background: transparent;\n}\ndiv.text a.newpage {\n    color: #90EE90;\n    text-decoration: none;\n    background: transparent;\n}\ndiv.text a:hover {\n    color: #131;\n    text-decoration: underline;\n    background-color: #80FF80;\n    padding: 1px;\n}\ndiv.text a:hover::before {\ncontent: \"> \";\n}\nspan.highlight{\ncolor: #90EE90\n}\n[[/module]]\n[[div class=\"terminal\"]]\n[[div class=\"scanline\"]]\n[[/div]]\n[[div class=\"text\"]]\n[[=]]\n[!-- @H@H@H@H@HA 我终于将你困在逃脱之海P@ARSING\n--]\n[[size 150%]] __忽怠协议直接访问终端__[[/size]]\n@@ @@\n@@ @@\n@@------@@\n此终端仅限具有监督级别许可的人员访问。\n请输入认证信息\n@@------@@\n[[/=]]\n@@ @@\n@@ @@\n身份编号：\n[[span class=\"highlight\"]]@@> O5-10@@[[/span]]\n@@ @@\n密码：\n[[span class=\"highlight\"]]@@> ****************@@[[/span]]\n@@ @@\n附加认证步骤：黑月是否嚎叫？\n[[span class=\"highlight\"]]@@> 他曾经嚎叫，但无人铭记。@@[[/span]]\n@@ @@\n@@ @@\n@@ @@\n[[=]]\n@@------@@\n欢迎，监督者。\n@@------@@\n[[/=]]\n@@ @@\n@@ @@\n@@ @@\n@@ @@\n访问文件：\n@@ @@\n[http://www.scp-wiki-cn.wikidot.com/scp-4224/offset/2 忽怠协议.txt]\n@@ @@\n@@ @@\n@@ @@\n[[/div]]\n[[/div]]",
+  "tags": [
+    "段落"
+  ],
+  "author": "PLASTICGUN",
+  "created_at": "2018-10-21T10:19:47+00:00",
+  "updated_at": "2024-04-27T19:44:32+00:00",
+  "rating": 1,
+  "_site": "scp-wiki-cn",
+  "_fullname": "fragment:aers4kpage2"
+}

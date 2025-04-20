@@ -1,0 +1,24 @@
+{
+  "title": "SCP-6124",
+  "content": "[[include theme:scp-trans-pride |trans-pride-logo= --]]]\n\n[[>]]\n[[module Rate]]\n[[/>]]\n[[div style=\"text-align: right; margin-top: -18px; margin-right: 2em;\"]]\n##757575|by Nagiros##\n[[/div]]\n\n[[include :scp-wiki:component:image-block\n|name=cows.jpeg\n|caption=//B. taurus//.\n]]\n\n**Item #:** SCP-6124\n\n**Object Class:** Euclid\n\n**Special Containment Procedures:** As SCP-6124 presents ubiquitously within global livestock populations, no containment is necessary. SCP-6124 is functionally accepted as a non-anomalous facet of civilian life, and discovery of its underlying properties and history is unlikely.\n\nFoundation agents embedded within civilian paleontology projects are to discourage the discovery of REAO-6124-A[[footnote]] Referring to the paleontological **R**emains of an **E**xtinct **A**nomalous **O**rganism, (rel. SCP: \"6124\", organism Alpha). [[/footnote]], if such an event becomes a reasonable matter of concern.\n\n**Description:** SCP-6124 is a cognitohazardous vector affecting worldwide //Bos taurus//[[footnote]] Cattle. [[/footnote]] populations, activated when viewing cattle at high speeds. SCP-6124 presents exclusively in humans and impacts two sections of the human nervous system, the prefrontal cortex and midline raphe nuclei along the brainstem, producing the following behavioral/neurological changes:\n\n* Strong favorability towards, and interest in, nearby cattle, particularly during periods of grazing or rest.\n* Increased production of 5-hydroxytryptamine (5-HT), resulting in sudden lightening of mood and momentary cessation of depressive tendencies.\n\n[[include :scp-wiki:component:image-block\n|width=200px\n|name=bird.jpeg\n|caption=The skull of the partially-complete REAO-6124-A fossil, contained at Paleological Site-23.\n]]\n\nSCP-6124's effects cease when the observer diverts their gaze from the cattle responsible for the vector.\n\nCurrent paleontological evidence suggests SCP-6124 is a vestigial genetic feature evolved to decrease //B. taurus//'s predation by the REAO-6124-A organism. The fossil of REAO-6124-A indicates it was a large, carnivorous, prehistoric bird capable of sustained high-velocity flight. Its diet consisted of large quadrupedal mammals, captured alive.\n\nREAO-6124-A was exceptionally long-living, anomalously so, and evidence of its impact on mammalian populations dates back to the late Mesozoic Era. The circumstances resulting in its death, occurring sometime prior to the Neolithic Age, are [[[SCP-7356 | undetermined]]].\n\nSCP-6124 likely deterred //B. taurus//'s selection as a prey animal by REAO-6124-A, before the latter perished. Its presentation in humans remains unexplained, outside of hypothetical similarities in how REAO-6124-A and humans process(ed) visual cognitohazards.\n\n**Addendum:** Effects on Humans\n\n~~~~\n\n[[div class=\"blockquote\"]]\n\n//Footage captured by the front-facing and rear-facing cameras of [[[apas | Dr. Skylar]]]'s vehicle, recorded as she and [[[SCP-4415 | Dr. Reams]]] approach Site-17 in the morning of 08/16/2009. Skylar drives as Reams observes the countryside from the passenger's seat.//\n\n------\n\n**<Begin Log>**\n\n//[Skylar clears her throat and double-checks her phone's navigation app, before returning her attention to the road. Reams nods towards a pasture the two are approaching.]//\n\n**Dr. Reams:** Cows.\n\n**Dr. Skylar:** Cows! Love those guys.\n\n**Dr. Reams:** Yeah.\n\n//[Both return to silence as the cattle pass. After a minute, Reams nods towards a gated enclosure to their right.]//\n\n**Dr. Reams:** Horses.\n\n**Dr. Skylar:** Nice. Those guys are cool too.\n\n**<End Log>**\n[[/div]]\n\n[[footnoteblock]]\n\n[[div class=\"footer-wikiwalk-nav\"]]\n[[=]]\n<< [[[SCP-6123]]] | SCP-6124 | [[[SCP-6125]]] >>\n[[/=]]\n[[/div]]\n\n[[include :scp-wiki:component:license-box]]\n=====\n> **Filename:** cows.jpeg\n> **Author:** smallbusinessmediastrategies\n> **License:** CC BY 2.0\n> **Source Link:** [https://wordpress.org/openverse/image/6172cec1-c373-4769-89e4-6d0266839c51/ Openverse]\n=====\n> **Filename:** bird.jpeg\n> **Author:** James St. John\n> **License:** CC BY 2.0\n> **Source Link:** [https://wordpress.org/openverse/image/cabd604f-95dd-4415-ad71-fe3c46690324/ Openverse]\n=====\n[[include :scp-wiki:component:license-box-end]]",
+  "tags": [
+    "_cc",
+    "_licensebox",
+    "animal",
+    "bovine",
+    "cognitohazard",
+    "deepwell-catalog",
+    "euclid",
+    "mind-affecting",
+    "neurological",
+    "observational",
+    "scp",
+    "uncontained"
+  ],
+  "author": "Nagiros",
+  "created_at": "2022-03-19T22:16:08+00:00",
+  "updated_at": "2023-08-19T00:33:29+00:00",
+  "rating": 191,
+  "_site": "scp-wiki",
+  "_fullname": "scp-6124"
+}

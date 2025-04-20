@@ -1,0 +1,13 @@
+{
+  "title": "fragment:scp-7259-0",
+  "content": "[[include :scp-wiki-cn:theme:paperstack]]\n[[div class=\"logo\"]]\n[[image https://scp-wiki.wdfiles.com/local--files/theme%3Apaperstack/lgtrans.png]]\n[[/div]]\n\n\n\n-----\n[[module css]]\n.scp-image-block.block-center {\n    position: relative;\n}\n.scp-image-block.block-center img {\n    height: 400px;\n    width: 100%;\n    object-fit: cover;\n}\n[[/module]]\n\n\n\n\n[[include component:image-block\n    name=https://scp-wiki.wikidot.com/local--files/fragment:scp-7259-0/Restaurant.jpg |\n    caption= SCP-7259。|\n    align=center |\n    width=100%\n]]\n\n----------\n\n**项目编号：**SCP-7259\n\n**项目等级：**Euclid\n\n**特殊收容措施：**已在SCP-7259的周边区域筑起墙来进行隔离，定期有两名警卫在该区域巡逻。\n\n**描述：**SCP-7259是一家废弃的快餐店，位于苏格兰的格拉斯哥。除了从SCP-7259内部的未知位置传来的持续的高音[[footnote]]大概约29-30kHz。[[/footnote]]外，SCP-7259并没有一眼就可以辨识的异常特征。记录到该声音在能够感知它的个体中引起了一种常被描述为“命定”的感觉。[[footnote]]出于未知原因，从业宗教者受到噪音的影响明显更大。[[/footnote]]\n\n使用光谱图解码声音显示出一个扭曲的尖叫着的人物的图像。虽然这个图像似乎本质上并非是异常，但个体在观看它时称有强烈的恐怖感。\n\nSCP-7259的内部，虽然看似为非异常，但却强制阻止大多数物质的进入。试图进入建筑时，个体描述其内部的大气为“不可思议地厚”，但在有限的测试中并未显示出明显的差异。研究仍在进行中。\n\n@@ @@\n\n[[=]]\n[[[https://scp-wiki-cn.wikidot.com/scp-7259/offset/1|您当前查看的是此文件的过期版本。]]]\n[[/=]]\n\n[[footnoteblock]]\n\n\n[[=]]\n[[include :scp-wiki-cn:component:license-box\n|author=Rab333]]\n> **Filename:** Abandoned_restaurant_near_Ross-on-Wye_-_geograph.org.uk_-_965067.jpg\n> **Name:** Restaurant\n> **Author:** Jonathan Billinger\n> **License:** This file is licensed under the Creative Commons Attribution-Share Alike 2.0 Generic license.\n> **Source Link:** https://commons.wikimedia.org/wiki/File:Abandoned_restaurant_near_Ross-on-Wye_-_geograph.org.uk_-_965067.jpg\n> **Additional Notes:** Abandoned restaurant near Ross-on-Wye The building by the Ross Spur, just beyond the end of the M50, has been boarded-up for at least two years now.\n[[include :scp-wiki-cn:component:license-box-end]]\n[[/=]]",
+  "tags": [
+    "段落"
+  ],
+  "author": "Aegnus",
+  "created_at": "2024-01-25T14:34:34+00:00",
+  "updated_at": "2025-03-11T13:42:10+00:00",
+  "rating": 0,
+  "_site": "scp-wiki-cn",
+  "_fullname": "fragment:scp-7259-0"
+}

@@ -1,0 +1,14 @@
+{
+  "title": "SPC-4531-1",
+  "content": "[[include :scp-jp:credit:start]]\n**タイトル:** SPC-4531-1\n**著者:** [[*user fairydoctor]]\n**オリジナル:** [[[https://scp-wiki.wikidot.com/art:spc-4531-1|SPC-4531-1]]]\n**訳者:** [[*user buta_otoko]]\n[[include :scp-jp:credit:end]]\n\n[[include :scp-jp:theme:black-highlighter-theme]]\n[[include :scp-jp:theme:jakstyle]]\n\n[[div class=\"crom-thumbnail\" style=\"display: none;\"]]\n[[include component:image-block name=spc-4531-1.png]]\n[[/div]]\n\n@@ @@\n\n\n[[image http://scp-jp-storage.wikidot.com/local--files/file:8299414-27-270z/spc-4531-1.png]]\n\n@@ @@\n@@ @@\n@@ @@\n\n**うわ、サメだ!**\n\n@@ @@\n@@ @@\n@@ @@\n@@ @@\n[[collapsible show=\"fairydoctorの他の作品\" hide=\"私を閉じて！\"]]\n__SCPs__:\n\n[[module ListPages created_by=\"fairydoctor\" separate=\"no\" tags=\"scp, -joke\" perPage=\"2\" order=\"created_at\" prependLine=\"||~ SCP ||~ Created ||~ Rating ||~ Comments ||~ Length ||\"]]\n|| %%title_linked%% || %%created_at%% || %%rating%% || %%comments%%  || %%size%% ||\n[[/module]]\n\n__GoI Formats__:\n[[module ListPages created_by=\"fairydoctor\" separate=\"no\" tags=\"goi-format\" perPage=\"2\" order=\"created_at\" prependLine=\"||~ SCP ||~ Created ||~ Rating ||~ Comments ||~ Length ||\"]]\n|| %%title_linked%% || %%created_at%% || %%rating%% || %%comments%%  || %%size%% ||\n[[/module]]\n\n__Foundation Tales__:\n\n[[module ListPages created_by=\"fairydoctor\" separate=\"no\" tags=\"tale\" perPage=\"2\" order=\"created_at\" prependLine=\"||~ SCP ||~ Created ||~ Rating ||~ Comments ||~ Length ||\"]]\n|| %%title_linked%% || %%created_at%% || %%rating%% || %%comments%%  || %%size%% ||\n[[/module]]\n[[/collapsible]]\n\n@@ @@",
+  "tags": [
+    "en",
+    "アートワーク"
+  ],
+  "author": "buta_otoko",
+  "created_at": "2023-01-23T09:46:27+00:00",
+  "updated_at": "2023-02-20T06:45:07+00:00",
+  "rating": -1,
+  "_site": "scp-jp",
+  "_fullname": "art:spc-4531-1"
+}

@@ -1,0 +1,20 @@
+{
+  "title": "SCP-6153",
+  "content": "[[>]]\n[[module rate]]\n[[/>]]\n[[include :scp-wiki:theme:foxtrot]]\n[[module CSS]]\n:root {\n  --header-title: \"Project Lakshmi\";\n  --header-subtitle: \"Safely Controlling Probability\";\n}\n[[/module]]\n\n[[module ListPages  category=\"fragment\" parent=\".\" limit=\"1\" order=\"created_at\" offset=\"@URL|0\"]]\n%%content%%\n[[/module]]\n\n\n[[<]]\n[[footnoteblock]]\n[[/<]]\n\n@@ @@\n\n[[=]]\n[[div class=\"footer-wikiwalk-nav\"]]\n<< [[[SCP-6152]]] | SCP-6153 | [[[SCP-6154]]] >>\n[[/div]]\n[[/=]]",
+  "tags": [
+    "_listpages",
+    "co-authored",
+    "concept",
+    "keter",
+    "probability",
+    "reality-bending",
+    "ritual",
+    "scp"
+  ],
+  "author": "guiness11",
+  "created_at": "2022-06-19T05:34:18+00:00",
+  "updated_at": "2022-10-31T18:52:57+00:00",
+  "rating": 36,
+  "_site": "scp-wiki",
+  "_fullname": "scp-6153"
+}

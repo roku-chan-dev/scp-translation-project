@@ -1,0 +1,14 @@
+{
+  "title": "SCP-6226-2",
+  "content": "[[include :scp-wiki:theme:wilderness]]\n[[module css]]\n#page-title {\n    display: none;\n[[/module]]\n\n[[div class=\"wilson-border\" style=\"margin-top: 7em;\"]]\n[[div class=\"wilson-subtitle\"]]\n送信者: ティム・ウィルソン\n受信者: ジェリミア・グリーン博士\n日付: 2021/11/12\n[[/div]]\n[[div class=\"wilson-body\"]]\nグリーン博士、\n\nこれは動物じゃない。ボートです。ウチを倉庫扱いしてもらっちゃ困りますよ。\n\n[[>]]\nティム・ウィルソン\nWWS\n[[/>]]\n[[/div]]\n[[/div]]",
+  "tags": [
+    "en",
+    "フラグメント"
+  ],
+  "author": "C-Dives",
+  "created_at": "2024-05-19T09:37:25+00:00",
+  "updated_at": "2024-05-19T09:37:41+00:00",
+  "rating": 0,
+  "_site": "scp-jp",
+  "_fullname": "fragment:scp-6226-2"
+}

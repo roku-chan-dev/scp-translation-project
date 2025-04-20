@@ -1,0 +1,22 @@
+{
+  "title": "SCP-938-J",
+  "content": "[[include component:image-block\n    name=https://scp-wiki.wdfiles.com/local--files/scp-938-j/Annoyinglittlething.JPG|\n    caption=SCP-938-J|\n    width=300px\n]]\n\n**项目编号：**SCP-938-J\n\n**项目等级：**Safe（有待重编级为Keter）\n\n**特殊收容措施：**SCP-938-J目前安置于Site-48。这件物品需被保存在一个1级收容柜中。所有Site-48的人员都可以访问该物品。\n\n**描述：**SCP-938-J是一个无法摧毁的标准数码闹钟，由Timelink公司开发。虽然它具有一台闹钟应有的标准按钮，但却没有可见的用于关闭闹钟的开关。SCP-938-J如同普通的闹钟一样工作，甚至没有电池时也在这样工作着。\n\n唯一已知的异常效应发生于一名对象在进入REM睡眠时离项目有10米远时。一般地，正处于梦中[[footnote]]所有的梦都报告为对对象来说很享受。例如某个成就，令人愉快的回忆，等等。[[/footnote]]的对象会被SCP-938-J在6:10 AM吵醒，它会用电子铃声以几个胡乱不着调的音的形式演奏一个版本的“Frère Jacques”。音量无法预测，但是曾达到过90 dB。\n\n在所有情况中的100％，对象会被SCP-938-J激怒并因为SCP-938-J的铃声而试图摧毁项目。\n\n唯一已知在它激活后关闭SCP-938-J的闹钟的方法是启动措施421-Tantalus。\n\n> __**措施421-Tantalus**__\n> \n> 1. 对象要击打贪睡键不多不少正好15次。\n> 2. 对象要在钟面上滴下三滴血。\n> 3. 对象要用正确的发音背诵语句：“Schnütfleiger Dachlach F'trejnargoöstatchch Üuåh!”[[footnote]]句子为古高等内殿欲肉语（Old High Adytum Sarkic），字面意思可翻译为“我会在时间之上大便直到它成为我的妻子（I will defecate on time itself until it becomes my wife）。”[[/footnote]]\n\n如果措施421-Tantalus失败了，闹钟会逐渐地花3个多小时降低音量直到归于寂静。执行措施421-Tantalus失败的对象汇报称闹钟来回来去放“Frère Jacques”的声音在之后的一周一直徘徊在他们脑袋里。\n\n[[div style=\"background: url(http://scp-wiki.wdfiles.com/local--files/scp-938-j/site48logo.png) center no-repeat ; float: center; border: solid 2px #000000; width: 570px; padding: 1px 15px; margin: 10px 10px 10px 40px; box-shadow: 0 1px 3px rgba(0,0,0,.2);\"]] \n\n+++++ 采访记录938-4-J\n\n**被采访者：**D-1169\n\n**采访者：**Smith博士\n\n**前言：**Smith博士计划在与SCP-938-J的测试过后询问D-1169测试的情况\n\n**<记录开始>**\n\n**Smith博士：**所以，D-1169，你能否描述一下在闹钟把你叫醒之前的事件？\n\n**D-1169：**好吧，我做了个很棒的梦。我在沙滩上，周围都是火辣的妹子，你知道吗？老兄，这真是太棒了。我用一群獨裁者的尸体做了个睡椅而且他们都在赞美我怎样计划只用一把牙刷和完全美国人的足智多谋就杀死了他们。\n\n**Smith博士：**那么之后发生了什么？\n\n**D-1169：**之后那该死的闹钟开始制造噪音。我想关掉那该死的东西但它只是一直嗡嗡响。现在那歌卡在我脑袋里了！他妈的耳虫！\n\n**Smith博士：**那歌是什么样的？\n\n（D-1169迟疑了，似乎进入了恍惚状态）\n\n**D-1169：**//元老虫王，元老虫王 / 我耳中，我耳中 / 净化凡人世界，净化凡人世界 / 全杀光，全杀光…//\n\n（D-1169死于突然的直肠大出血）\n\n**<记录结束>**\n[[/div]]\n**附录：**D-1169的验尸结果显示在死去时，他的身体异常地充满了肉食性的虫子，戴着似乎是法式贝雷帽的帽子。有待重编级为Keter。\n@@@@\n@@@@\n\n[[include component:image-block\n    name=https://scp-wiki.wdfiles.com/local--files/scp-938-j/001and2341J.jpg|\n    caption=SCP-938-J经由上锁的箱子运往Site-48|\n    width=300px\n]]\n\n[[html]]\n\n<html>\n\n<head>\n\n<script type=\"text/javascript\">\n\nfunction setVar()\n\n{\n\n    if (sessionStorage.read != 1)\n\n    {\n\n        sessionStorage.setItem('read', 1);\n\n    }\n\n}\n\n</script>\n\n</head>\n\n<body onLoad=\"setVar();\">\n\n</body>\n\n</html>\n\n<audio autoplay>\n\n  <source src=\"http://scpsandbox2.wikidot.com/local--files/amuness-creeps-ii/ITISCOMING.mp3\" type=\"audio/mpeg\">\n\n</audio>\n\n[[/html]]",
+  "tags": [
+    "safe",
+    "scp",
+    "不可摧毁",
+    "合著",
+    "声音",
+    "家用物品",
+    "搞笑",
+    "机械",
+    "欲肉教",
+    "睡眠"
+  ],
+  "author": "Letitia213",
+  "created_at": "2016-01-31T05:22:52+00:00",
+  "updated_at": "2024-05-14T21:15:33+00:00",
+  "rating": 7,
+  "_site": "scp-wiki-cn",
+  "_fullname": "scp-938-j"
+}

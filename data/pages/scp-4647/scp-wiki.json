@@ -1,0 +1,18 @@
+{
+  "title": "SCP-4647",
+  "content": "[[include :scp-wiki:theme:classic]]\n[[>]]\n[[module Rate]]\n[[/>]]\n\n[[include component:image-block\n    name=truckstop.jpg|\n    caption=SCP-4647\n]]\n\n**Item #:** SCP-4647\n\n**Object Class:** Euclid\n\n**Special Containment Procedures:** Access to portions of U.S. Route 6 have been limited using detours. Undercover Foundation agents are to amnesticize drivers who experience SCP-4647's anomaly.\n\nSCP-4647-1 instances are to be tracked down upon manifestation, contained in impact-resistant containers, and removed from SCP-4647 as soon as feasible. \n\n**Description:** SCP-4647 is a 11.9 km segment of U.S. Route 6 in White Pine County, Nevada.\n\nAny vehicle entering SCP-4647 at night has a small chance to exhibit certain anomalous effects. \n\n* Norepinephrine[[footnote]]Neurotransmitter that increases alertness, heart rate, and blood pressure.[[/footnote]] levels in the driver increase by up to 150%.\n* Vehicles, regardless of model, become capable of top speeds of up to 350 kph.\n* Drivers claim to see an oversized monster truck, of variable appearance, pursuing them. The truck can only be perceived through the car's mirrors; drivers turning their heads or using cameras do not see it.\n* Following initial sighting of the truck, drivers report the truck overtaking them, despite their vehicle's increased speed.\n* When the truck in the mirror reaches the car, one of the car's mirrors will shatter, and a small (~5-20 cm tall) version of the truck, designated SCP-4647-1, will exit the surface of the mirror at speeds exceeding 400 kph. Instances emerging from the rearview mirror tend to break through the rear window and exit the car. Testing has shown the size of SCP-4647-1 instances to be inversely proportional to the size of the initial vehicle. \n\nSCP-4647-1 instances are driverless and fully capable of self-locomotion, and will attempt to drive into the surrounding wilderness upon exiting the mirror.\n\nOn 01/22/1999, a test was conducted, placing a large upright mirror in the road directly in the path of a newly-formed SCP-4647-1 instance. Upon making contact with the mirror, the instance became subject to SCP-4647's effect itself, causing a second, much larger SCP-4647-1 instance to emerge from inside it. This process repeated rapidly, generating alternating smaller and larger instances, until 89 SCP-4647-1 instances, with sizes varying from 1 cm to 8.8 m, had manifested. All instances were identical, discounting size, and rapidly crashed into one another, crushing or demolishing most instances. Several instances had only partially emerged from mirrors before colliding with portions of other trucks. Manifestations ended when all instances ceased motion and had no remaining intact mirrors.\n\n\n[[footnoteblock]]\n\n\n[[div class=\"footer-wikiwalk-nav\"]]\n[[=]]\n<< [[[SCP-4646]]] | SCP-4647 | [[[SCP-4648]]] >>\n[[/=]]\n[[/div]]",
+  "tags": [
+    "_cc",
+    "euclid",
+    "location",
+    "miniature",
+    "scp",
+    "vehicle"
+  ],
+  "author": "Weryllium",
+  "created_at": "2018-10-18T22:40:09+00:00",
+  "updated_at": "2020-07-28T06:45:24+00:00",
+  "rating": 102,
+  "_site": "scp-wiki",
+  "_fullname": "scp-4647"
+}

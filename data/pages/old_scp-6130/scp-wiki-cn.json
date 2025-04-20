@@ -1,0 +1,21 @@
+{
+  "title": "SCP-6130（旧）",
+  "content": "[[module CSS]]\n\n.danke {\n    padding: 15px;\n    margin-bottom:10px;\n    font-family: monospace;\n    font-size: 1.2em;\n}\n\n.agent {\n    background-color:#002200;\n    border: 3px solid #55AA55;\n    color: #77CC77;\n}\n\n.site {\n    background-color:#222200;\n    border: 3px solid #AAAA55;\n    color: #DDDD77;\n}\n\n[[/module]]\n\n[[include :scp-wiki-cn:theme:ad-abyssum]]\n\n\n[[div class=\"scp-image-block block-right\" style=\"width:40%;\"]]\n[[image https://scp-wiki.wdfiles.com/local--files/scp-6130/scp-6130.jpg style=\"width:100%;\" link=#]]\n[[div class=\"scp-image-caption\" style=\"width:100%;\"]]\n一种经过调整以解析SCP-6130数据的矢量显示器。\n[[/div]]\n[[/div]]\n\n**项目编号：**SCP-6130\n\n**项目等级：**Safe（前Thaumiel）\n\n**特殊收容措施：**将无限期维护SCP-6130的功能。驻扎于地外地点的人员应每年检查一次项目以确认SCP-6130是否存在可能导致其提供不准确结果的故障或缺陷。\n\n根据SCP-6130提供的数据，本文件仅限5/DoTT级权限人员访问。\n\n**描述：**SCP-6130是一台由战术神学部于1988年开发的电子设备。其体积约1.5立方米，配有各式设备以期用于远程记录关于阿吉巴辐射的信息。[[footnote]]阿吉巴辐射是一种借由信仰生成的异常粒子，并且是大多数神性的主要来源。更多相关信息可参考[http://scp-sandbox-3.wikidot.com/excerpts-from-dott-introduction 战术神学部入门讲座]。[[/footnote]]SCP-6130的主要设计目的是利用阿吉巴辐射所散发的“电荷”、依据对象信仰宗教所制订的相关道德标准从而确认个人的相对圣洁程度。[[footnote]]出于各种原因，无神论者与不可知论者往往会带有极多的负电荷。模糊的、虚假的或非神的宗教则往往会产生相同结果，或是生成与他们相比最为接近的同类宗教之道德标准的“电荷”。[[/footnote]]\n\n新异教部门主管Astrid Nilsson在有关阿吉巴粒子所编写的一份文件之中，她作出如下假设：\n\n[[div style=\"background: #ebebeb; border: 2px solid #c4c4c4; margin: auto; width: 90%; text-align: left; padding: 10px;\"]] \n\n@@     [……]@@然而，假若我们对于阿吉巴粒子电荷的理解是准确无误的（证据表明确是如此），那由此可见——同时假设确实存在某种形式的来世——那么使用[SCP-6130]来确认一个人会迎接何种来世，就是可行的。\n\n[[/div]]\n\n1991年，在向Muhammad al-Taqi主管介绍项目之后，SCP-6130被批准得到改进，以扩大其输入端范围。本项目在1992年得到进一步资助（依据各类牵涉以及神学影响）并于1994年完成，同时还包含了科学理论对先前文件所提出假设的证实。1995年，SCP-6130被成功送入轨道，以无障碍观察全球。\n\n----\n= **附录**\n----\n\n自1995年以来，SCP-6130的输入数据一直在如预期波动。然而，在使用所有可用模型对数据进行客观分析后，SCP-6130的最终结果依然与其初始观察以来完全一致：\n\n[[div class=\"danke agent\"]]\n\n= **__SCP-6130结果摘要__**\n\n= **仅限5/DOTT级权限**\n\n根据会话条件，数据被分类为正极/中性/负极/其他类别\n\n个别宗教等量不存在，归入近似结果\n\nSCP-6130分析数据得出以下对于人类预测来世的状态，置信度{{99.8%}}：\n\n@@ @@\n\n[[div style=\"display: grid;  justify-items: center; justify-content: space-around\"]]\n\n[[div]]\n= **天堂**\n{{约0.0000%}}\n[[/div]]\n\n[[div]]\n= **炼狱**\n{{约0.0000%}}\n[[/div]]\n\n[[div]]\n= **其他**\n{{约0.0000%}}\n[[/div]]\n\n[[div]]\n= **地狱**\n{{约100.0000%}}\n[[/div]]\n\n[[/div]]\n\n[[/div]]\n\n[[footnoteblock]]",
+  "tags": [
+    "safe",
+    "scp",
+    "交换艺术",
+    "卫星",
+    "基金会制",
+    "工具",
+    "战术神学部",
+    "旧页面",
+    "电子"
+  ],
+  "author": null,
+  "created_at": "2022-01-03T04:51:46+00:00",
+  "updated_at": "2024-05-15T01:30:10+00:00",
+  "rating": 3,
+  "_site": "scp-wiki-cn",
+  "_fullname": "old:scp-6130"
+}

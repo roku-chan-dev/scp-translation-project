@@ -1,0 +1,17 @@
+{
+  "title": "Church of the Flawed Arts",
+  "content": "[[>]]\n[[module Rate]]\n[[/>]]\n\n[[include component:image-block\n    name=https://i.imgur.com/ftvo5ro.png|\n    align=center|\n    caption=REMEMBER US|\n    width=500px]]\n\n[[=]]\n> Some cool draws [[size 0.1em]]Upvote maybe[[/size]]\n> [[size 0.5em]] Requests can be made [https://scp-wiki.wikidot.com/forum/t-2336021/flawed-sketches here] [[/size]]\n\n\n\n[[collapsible show=\"▶ SCP-3000 ◀\" hide=\"Anantashesha\"]]\n[[include component:image-block\n    name=3000|\n    align=center|\n    caption=First digitized piece. Kinda abused the distortion tool too much.|\n    width=400px]]\n[[/collapsible]]\n\n[[collapsible show=\"▶ SCP-3001 ◀\" hide=\"Red Reality\"]]\n[[include component:image-block\n    name=3001.png|\n    align=center|\n    caption=Scranton and Anna. Composition & Color Scheme somewhat inspired by 3007.|\n    width=400px]]\n[[/collapsible]]\n\n\n[[collapsible show=\"▶ SCP-3001/106 ◀\" hide=\"Until Death\"]]\n[[include component:image-block\n    name=Untildeath.png|\n    align=center|\n    caption=Until Death version.|\n    width=400px]]\n[[/collapsible]]\n\n\n\n[[collapsible show=\"▶ SCP-3007 ◀\" hide=\"World of Two Artists\"]]\n[[include component:image-block\n    name=https://i.imgur.com/vdTPrqt.jpg|\n    align=center|\n    caption=Somehow won djkaktus's title of Best Application of Color.|\n    width=400px]]\n[[/collapsible]]\n\n\n\n[[collapsible show=\"▶ SCP-3267 ◀\" hide=\"Memories Bound in Paper\"]]\n[[include component:image-block\n    name=ELIZABETH.png|\n    align=center|\n    caption=Some love for my first child <3|\n    width=auto]]\n[[/collapsible]] \n\n\n\n\n[[/=]]",
+  "tags": [
+    "_cc",
+    "artist",
+    "doctor-scranton",
+    "painted",
+    "scp-art"
+  ],
+  "author": "Flawed",
+  "created_at": "2017-07-01T16:17:17+00:00",
+  "updated_at": "2024-04-27T11:20:07+00:00",
+  "rating": 60,
+  "_site": "scp-wiki",
+  "_fullname": "are-we-flawed-yet"
+}

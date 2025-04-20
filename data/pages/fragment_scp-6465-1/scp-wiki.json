@@ -1,0 +1,13 @@
+{
+  "title": "SCP-6465-1",
+  "content": "[[module css]]\n.danke {\n    padding: 2em;\n    margin-bottom:10px;\n    font-family: monospace;\n    font-size: 1.1em; \n}\n\n.agent {\n    background-color:#002200;\n    border: 3px solid #55AA55;\n    color: #77CC77;\n}\n\n.site {\n    background-color:#222200;\n    border: 3px solid #AAAA55;\n    color: #DDDD77;\n}\n[[/module]]\n\n[[div class=\"danke agent\"]]\n[[=]]\n##red|**__WARNING__**##\n\nThe file you are trying to access is Level-3/6465 Classified, and can only be accessed safely if stored, transmitted, and accessed in an area secured by Derichs-Lindberg Thaumic Exclusion Wards.\nIf you are not cleared to access this file, close this page immediately and report for emergency amnestic treatment. Do not mention this file.\n[[/=]]\n-----\n[[collapsible show=\"Input Level-3/6465 Credentials\" hide=\"ACCESS GRANTED\"]]\n\nBy accessing the SCP-6465 file you understand that access without proper warding constitutes a containment breach and will be met with disciplinary measures. Do you wish to proceed?\n\n@@>@@ [https://scp-wiki.wikidot.com/scp-6465/offset/1 Yes]\n\n[[/collapsible]]\n[[/div]]",
+  "tags": [
+    "fragment"
+  ],
+  "author": "nddragoon",
+  "created_at": "2022-07-21T05:19:29+00:00",
+  "updated_at": "2022-07-21T05:33:29+00:00",
+  "rating": 0,
+  "_site": "scp-wiki",
+  "_fullname": "fragment:scp-6465-1"
+}

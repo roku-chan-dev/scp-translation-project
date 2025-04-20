@@ -1,0 +1,23 @@
+{
+  "title": "SCP-2998",
+  "content": "[[module CSS]]\n#page-title {\n  display: none;\n}\n\n.meta-title {\n  border-bottom: solid 1px #bbbbbb;\n  color: #990011;\n  font-weight: normal;\n  margin: 0 0 0.6em;\n  padding: 0 0 0.25em;\n  font-size: 200%;\n}\n\n.meta-title p {\n  margin: 0;\n}\n[[/module]]\n\n[[include info:start]]\n**SCP-2998:** 변칙적 송신, 2485 메가헤르츠\n**저자:** [[*user Eskobar]]          \n**원작:** http://www.scp-wiki.net/scp-2998\n**역자:** [[*user Cubic72]]\n[[include info:end]]\n\n[[module ListPages parent=\".\" category=\"fragment\" limit=\"1\" order=\"created_at\" offset=\"@URL|0\"]]\n[[div class=\"meta-title\"]]\n%%title%%\n[[/div]]\n\n\n%%content%%\n[[/module]]",
+  "tags": [
+    "2000",
+    "en",
+    "scp",
+    "로젠-연구원",
+    "마리아-존스",
+    "메타",
+    "외계",
+    "유클리드",
+    "전염성",
+    "정보재해",
+    "현상"
+  ],
+  "author": "Cubic72",
+  "created_at": "2014-10-26T15:03:24+00:00",
+  "updated_at": "2024-10-20T13:55:23+00:00",
+  "rating": 56,
+  "_site": "scpko",
+  "_fullname": "scp-2998"
+}

@@ -1,0 +1,22 @@
+{
+  "title": "空白页",
+  "content": "[[include :scp-wiki-cn:theme:black-highlighter-theme]]\n[[include :scp-wiki-cn:theme:minimalist-bhl]]\n\n[[module CSS]]\n:root {\n     --header-title: \"SCP FOUNDATION\";\n     --header-subtitle: \"Department of Unreality\";\n     --lgurl: url('http://scp-wiki.wikidot.com/local--files/unreality-hub/Unreality%20Header%20Logo.svg');\n}\n[[/module]]\n\n\n\n[[include :scp-wiki:component:image-features-source |hover-enlarge=--]\n|enlarge-amount=0\n|speed=500\n|float=true\n|align=center\n|width=90%\n|url=http://scpsandboxcn.wikidot.com/local--files/iceredtea/Blank%20Unreality%20with%20Text3.jpg\n|add-caption=false\n|caption= None\n]]\n\n你盯着空白的页面，恐惧着。\n笔在纸上划过。\n但你发现墨迹已经干涸。\n你就是不能开始这件该死的事，这些词，它们并没有按照正确的顺序出现。\n你看着你的办公室，没有什么能吸引你的目光。\n你看着墙上的时钟，它没有指针，也没有数字。\n当然还有更好的地方去被软禁。尽管这不是一间房子，你也没有被软禁。更像是一份工作，的确，如果工作是调查你的话，那它就是。\n他们把你放在这间办公室，让你写下你知道的事，但你知道什么？为什么他们雇佣你？在那之前发生了什么？\n**你知道什么？** 基金会人员问。\n@@@@\n无。\n@@@@\n无梦的睡眠和不眠的梦。\n你试着去记住一些东西，任何真正的事，任何可能的事。你能想到东西很少，你所想的全部就是一张白纸。你尝试在上面写点文字，但你记起来你的墨水已经干涸。你想象一张新的页面然后重试。你在脑海中写下一整本书。半透明的大部头用着隐形墨水书写。鬼魂在阈限图书馆堆叠。\n@@@@\n图书馆。\n@@@@\n你还记得读书。爱它们。活在其中，或者想象着你做过的，在想象中，活着。\n你记得自己是一个爱书的孩子，或者至少读过关于一个爱书的孩子的故事。\n你最后一次读一本好书或者任何书是什么时候？\n尝试去描绘你最喜欢的书中的文字，把它们刻进脑海里。\n你不能记住所写之物，但你肯定能回想起//写作//。\n几年前的，写作比赛，万圣节比赛，一场强制的比赛。在学校的孩子们，为老师绘制文字画，恐怖的万圣节图片。胜者的作品被刊登在学校杂志上。赢家不重要，他们从未重要过。有一名迟到的参赛者，他制作了一张简单的海报，上面写着：\n\n\n[[div class=\"blockquote\"]]\n= [[size 2.5em]]空白页[[/size]]\n@@@@\n@@@@\n@@@@\n@@@@\n= [[size 2.5em]]恐怖[[/size]]\n\n= (给一位老师)\n[[/div]]\n\n或者你觉得事情就是这样。\n这是几年前的事，你不确定是多少年前，那时你不在。\n想想看，你真的不确定为什么它给一名//老师//带来恐惧。也许对学生来说压力太大。\n你感觉在胃里有一个坑，[[[/bagel|饥饿或者恐惧]]]。\n你坐着办公室里。\n你站起来，你踱步。\n你瞥向那个时钟。\n **你知道什么？** 基金会人员问。\n你坐在办公室里。\n你写下一切。\n[[include :scp-wiki:component:image-features-source |hover-enlarge=--]\n|enlarge-amount=0\n|speed=500\n|float=true\n|align=center\n|width=90%\n|url=http://scpsandboxcn.wikidot.com/local--files/iceredtea/Blank%20Unreality%20with%20Text2.jpg\n|add-caption=false\n|caption= None\n]]",
+  "tags": [
+    "alex-thorley",
+    "悬疑",
+    "悲剧",
+    "故事",
+    "无对话",
+    "无题系列",
+    "第二人称",
+    "精神恐怖",
+    "超现实小说",
+    "非现实部"
+  ],
+  "author": "Ice  Red Tea",
+  "created_at": "2022-05-06T04:08:50+00:00",
+  "updated_at": "2024-03-27T15:44:45+00:00",
+  "rating": 6,
+  "_site": "scp-wiki-cn",
+  "_fullname": "the-blank-page"
+}

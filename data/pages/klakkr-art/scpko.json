@@ -1,0 +1,15 @@
+{
+  "title": "Klakkr의 갤러리",
+  "content": "[[module css]]\n\n.main {\n    background-image: url(\"https://inspirationhut.net/wp-content/uploads/2014/09/grey-paper-texture.jpg\");\n    background-color: #ededed;\n    border: 0px solid black;\n    margin: 1em;\n    padding: 2.1em;\n    font-size: 100%;\n    box-shadow: 0px 0px 5px;\n}\n\n.cadre {\n    border: 1px solid black;\n    box-shadow: 0px 0px 2px;\n    margin: 2em 0em;\n}\n\n.soustexte {\n    font-size: 80%;\n    color: #828282;\n}\n\n[[/module]]\n\n[[include info:start]]\n**Original:** http://fondationscp.wikidot.com/klakkr-art par [[*user klakkr]]\n**Présentateur:** [[*user XCninety]]\n[[include info:end]]\n\n[[div class=\"main\"]]\n\n[[=]]\n**글쓸 줄 몰라서 그림 그려 봤습니다**\n[[/=]]\n\n[[div class=\"soustexte\"]]\n[[=]]\n//크게 보려면 그림을 클릭하세요//\n[[/=]]\n[[/div]]\n\n[[div class=\"cadre\"]]\n[[image https://i.redd.it/zd6yme9yq4s51.png link=\"https://i.redd.it/zd6yme9yq4s51.png\" ]]\n[[/div]]\n\n[[div class=\"cadre\"]]\n[[image https://i.redd.it/43500myibcr51.png link=\"https://i.redd.it/43500myibcr51.png\" ]]\n[[/div]]\n\n[[div class=\"cadre\"]]\n[[image https://i.redd.it/q1tc96ntgcq51.png link=\"https://i.redd.it/q1tc96ntgcq51.png\" ]]\n[[/div]]\n\n[[div class=\"cadre\"]]\n[[image https://i.redd.it/w70tfoqicym51.png link=\"https://i.redd.it/w70tfoqicym51.png\" ]]\n[[/div]]\n\n[[div class=\"cadre\"]]\n[[image https://i.redd.it/x7rpn8hjhzl51.png link=\"https://i.redd.it/x7rpn8hjhzl51.png\" ]]\n[[/div]]\n\n[[div class=\"cadre\"]]\n[[image https://i.redd.it/qvmw5otludl31.png link=\"https://i.redd.it/qvmw5otludl31.png\" ]]\n[[/div]]\n\n[[/div]]",
+  "tags": [
+    "fr",
+    "아트워크",
+    "허브"
+  ],
+  "author": "XCninety",
+  "created_at": "2021-01-11T15:21:49+00:00",
+  "updated_at": "2024-03-16T03:17:24+00:00",
+  "rating": 3,
+  "_site": "scpko",
+  "_fullname": "klakkr-art"
+}

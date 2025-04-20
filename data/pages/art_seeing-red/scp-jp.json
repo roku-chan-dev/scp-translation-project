@@ -1,0 +1,14 @@
+{
+  "title": "激怒している",
+  "content": "[[include :scp-jp:theme:monotypical]]\n[[module css]]\n:root {\n    --linkColor: #ff0000;\n \n    --primaryBackgroundColor: #010000;\n    --secondaryBackgroundColor: #080101;\n    --tertiaryBackgroundColor: #5a1212;\n    --borderColor: #ff0000;\n \n    --shadow: rgba(100,39,39,0.3);\n \n    --selectionColor: #50FA7B;\n    --textColor: #ff0000;\n    --textColor-alt: #dc2f2f;\n}\n::-webkit-scrollbar-track {\n    background: var(--secondaryBackgroundColor);\n}\n[[/module]]\n\n[[include credit:start]]\n**タイトル:** 激怒している\n**著者:** [[*user Wallemations]]\n**オリジナル:** [https://scp-wiki.wikidot.com/art:seeing-red Seeing Red]\n**訳者:** [[*user OY2010]]\n[[include credit:end]]\n\n[[image http://scp-jp-storage.wikidot.com/local--files/file:8116298-8-e81j/B1C3366C-CA08-473D-ABF1-3DB01148E4E6.png]]\n\n@@ @@\n@@ @@\n@@ @@\n@@ @@\n@@ @@\n@@ @@\n@@ @@\n@@ @@\n@@ @@\n\n[[div class=\"monoboxical\"]]\n[[=]]\n[https://wallem.carrd.co/ 私を見つけることができる他のサイト。]\n[[/=]]\n[[/div]]",
+  "tags": [
+    "en",
+    "アートワーク"
+  ],
+  "author": "OY2010",
+  "created_at": "2022-11-21T13:19:14+00:00",
+  "updated_at": "2024-10-18T10:30:29+00:00",
+  "rating": 16,
+  "_site": "scp-jp",
+  "_fullname": "art:seeing-red"
+}

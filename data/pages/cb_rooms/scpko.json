@@ -1,0 +1,13 @@
+{
+  "title": "공간",
+  "content": "원문 http://scpcb.gamepedia.com/Rooms\n[[toc]]\n++ 저위험군 격리 구역\n: ­ : [[[cb:light-containment-zone|저위험군 격리 구역]]] 참조\n\n++ 고위험군 격리 구역\n: ­ : [[[cb:heavy-containment-zone|고위험군 격리 구역]]] 참조\n\n++ 출입 구역\n: ­ : [[[cb:entrance-zone|출입 구역]]] 참조\n\n++ 검문소\n**검문소**(Checkpoint Rooms)는 시설의 각 구역 사이에 존재하여 구역과 구역을 분리하는 공간이다. 저위험군 격리 구역과 고위험군 격리 구역을 분리하거나, 고위험군 격리 구역과 출입 구역을 분리하거나 등등 많은 검문소를 게임에서 찾을 수 있다.\n\n[[div style=\"float:left; margin:0 1em 1em 1em;  border:0;\"]]\n|||| [[=image https://gamepedia.cursecdn.com/scpcb_gamepedia/thumb/1/12/Checkpoint1FlashingScreen.png/214px-Checkpoint1FlashingScreen.png?version=55a7b1f7a168ca33b220950a16aafa04\"]] || [[=image https://gamepedia.cursecdn.com/scpcb_gamepedia/thumb/8/8f/Checkpoint2FlashingScreen.png/214px-Checkpoint2FlashingScreen.png?version=af75f9759d0b0ec47507da65196db6a4\"]] ||\n||||~ 고위험군 격리 구역으로 들어가는 길. ||~ 출입 구역으로 들어가는 길.||\n|||| [[=image https://gamepedia.cursecdn.com/scpcb_gamepedia/thumb/6/6a/Light_lockdown.png/160px-Light_lockdown.png?version=509e40e15104d7459df09732fba1ac5f]] || [[=image https://gamepedia.cursecdn.com/scpcb_gamepedia/thumb/4/4b/Heavy_lockdown.png/160px-Heavy_lockdown.png?version=5e057c552332f6e00ab417368a6e793b]] ||\n||||~ 저위험군 격리 구역 검문소에서의 화면.||~ 고위험군 격리 구역 검문소에서의 화면.||\n[[/div]] \n[[div style=\"clear:both; margin:0; padding:0;\"]]\n[[/div]]\n\n++ 탈출구\n: ­ : [[[cb:gate-a|게이트 A]]] 참조\n: ­ : [[[cb:gate-b|게이트 B]]] 참조\n\n++ 그 외\n: ­ : [[[cb:pocket-dimension|주머니 차원]]] 참조",
+  "tags": [
+    "cb"
+  ],
+  "author": "Salamander724",
+  "created_at": "2014-03-07T05:30:45+00:00",
+  "updated_at": "2020-01-07T08:17:49+00:00",
+  "rating": 0,
+  "_site": "scpko",
+  "_fullname": "cb:rooms"
+}

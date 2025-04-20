@@ -1,0 +1,22 @@
+{
+  "title": "SCP-2367",
+  "content": "[[>]]\n[[module Rate]]\n[[/>]]\n\n**Item #:** SCP-2367\n\n**Object Class:** Safe\n\n**Special Containment Procedures:** SCP-2367 is contained on-site in a hangar constructed around it, with Level 5 security measures in place. A cover story of a high-security German military base is in effect. As of ██/██/████, testing is prohibited until Event 2367-Sigma occurs.\n\nFoundation agents embedded within Berlin emergency response services will monitor radio traffic for possible SCP-2367-1 manifestations, dispatching agents to carry out recovery, clean-up, and administration of amnestics as necessary. SCP-2367-1 instances are non-anomalous and require no special containment outside of recovery.\n\nUpon initiation of Event 2367-Sigma, city-wide deployment of rescue airbags, mass administration of amnestics, and emergency repair measures will be used to minimize detrimental effects.\n\n**Description:** SCP-2367 is a geodesic hemisphere 15 meters in diameter, constructed from steel and painted with forest-pattern camouflage. There is a small control panel on the south side, and a 4 meter square door adjacent to the control panel. The interior is a smooth hemisphere approximately 13 meters in diameter. The device was built as a means of displacing objects (including live humans) to targeted points in space-time. In testing, objects displaced in such a manner invariably appeared several hundred meters above their intended destination. Both \"forward\" and \"backward\" temporal travel have been achieved in testing. It requires no external power to operate.\n\nSCP-2367-1 instances are individuals or objects that were sent through SCP-2367 prior to Foundation recovery of the object. To date, six SCP-2367-1 instances have manifested, listed below:\n\n* Four unidentified males wearing enlisted Schutzstaffel uniforms (all deceased upon impact)\n* One STG-44 assault rifle (unloaded)\n* One parachute of the type issued to German paratroopers during World War II.[[footnote]]The parachute was packed, but was not equipped or deployed.[[/footnote]]\n\nFor full information on SCP-2367-1 instances, see peripheral documentation.\n\nSCP-2367 was recovered during Operation Hammer, the Foundation's infiltration of the German government during World War II. Recovered documents indicate that SCP-2367 (referred to therein as \"Die Glocke,\" which translates as \"the Bell\") was constructed under the supervision of SS Obergruppenführer [[[Etymology of die Glocke|Otto Weber]]] [[[keine Kosten zu hoch|(POI#420714)]]], at some point prior to May 1945.\n\nEvent 2367-Sigma is the anticipated re-materialization of the subjects of the only known use of the device by its builders (excluding SCP-2367-1 instances): several high-ranking NSDAP[[footnote]]National Socialist German Worker's Party, colloquially known as the \"Nazi party.\"[[/footnote]] members fleeing the Red Army. Their anticipated destination is in the vicinity of Berlin, on 13 October 2031.\n\n**Addendum:**\nReview of documents recovered over the course of Operation Hammer indicate that SCP-2367 was used to evacuate a larger number of individuals than previously thought. Lower-end estimates place the number of individuals that will manifest during Event 2367-Sigma at approximately 1400, including a fully equipped field-artillery platoon and a dozen Tiger I tanks. Mobile Task Force Psi-33 \"Himmler's Housekeepers,\" has been re-organized and expanded to minimize casualties and civilian exposure to Event 2367-Sigma.[[footnote]]See [[[SCP-2461]]] for an example of artifact recovery carried out by this Task Force.[[/footnote]] Evacuation of Berlin and an appropriate cover story are under consideration.\n\n[[footnoteblock]]\n\n[[div class=\"footer-wikiwalk-nav\"]]\n[[=]]\n<< [[[SCP-2366]]] | SCP-2367 | [[[SCP-2368]]] >>\n[[/=]]\n[[/div]]\n\n[[include :scp-wiki:component:license-box]]\n=====\n\n=====\n[[include :scp-wiki:component:license-box-end]]",
+  "tags": [
+    "_licensebox",
+    "historical",
+    "safe",
+    "sc2015",
+    "science-fiction",
+    "scp",
+    "spatial",
+    "structure",
+    "teleportation",
+    "temporal"
+  ],
+  "author": "Agent MacLeod",
+  "created_at": "2015-07-24T05:26:13+00:00",
+  "updated_at": "2024-10-10T21:04:45+00:00",
+  "rating": 164,
+  "_site": "scp-wiki",
+  "_fullname": "scp-2367"
+}

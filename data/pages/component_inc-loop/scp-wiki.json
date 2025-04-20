@@ -1,0 +1,13 @@
+{
+  "title": "Inc Loop",
+  "content": "[[include :scp-wiki:component:inc-loop-base l={$l}_|e={${$l}_}e}|l=_|\n{$c}={$       |g=*|e=*|p={$p}|c={$c}|\n{$l}_={$|__={$|g=]|e==|p=:scp-wiki:component:inc-loop|]]",
+  "tags": [
+    "component"
+  ],
+  "author": "7happy7",
+  "created_at": "2021-02-28T13:46:41+00:00",
+  "updated_at": "2021-03-07T07:19:54+00:00",
+  "rating": 2,
+  "_site": "scp-wiki",
+  "_fullname": "component:inc-loop"
+}

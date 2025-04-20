@@ -1,0 +1,21 @@
+{
+  "title": "SCP-2413",
+  "content": "[[include :scp-wiki-cn:component:info-ayers\n|page=scp-2413[!-- url of your page on the scp wiki --]\n|authorPage=dr-cimmerian-s-personnel-file[!-- link to your author page --]\n|comments=\n\n新年之前的一篇新文档。在它上面花了几天来试着把它弄好。这个页面有个自动播放的音频，但不是jumpscare。我仍然真心希望你读过这些警告（并把它当回事）。本页面使用html5，所以在大部分移动设备（如果有的话）上运作。希望你们喜欢它。\n\n特别感谢Decibelle、Reach、和Scantron帮助我更加完善这个故事。\n\n]]\n\n[[include :scp-wiki-cn:theme:black-highlighter-theme]]\n[[module CSS]]\nsup {\nvertical-align: top; position: relative; top: -0.5em;\n}\n:root{\n--cutColour: #fafafa;\n--barColour: #590505;\n}\n\n.info-container .collapsible-block-folded a{\ncolor: #FFF;}\n.info-container .collapsible-block-unfolded-link a{\ncolor: #FFF;}\n\n.translation_block{\ndisplay:none;}\n[[/module]]\n\n**警告：访问SCP-2413文件将出现幻听。若你错误访问本文件，且不希望了解该项目，请关闭本文件并向你的直属上级报告。**\n\n**本文件不应被使用无法播音系统的用户访问。因项目具认知危害性，且可能暴露于无关人员，建议使用耳机。**\n\n**当前的抑制措施仅限在授权工作站上访问，若未能成功，禁止从移动设备访问本文件，无论安保等级。**\n\n[[collapsible show=\" + 观看SCP-2413文档\" hide=\" \"]]\n\n**项目编号：**SCP-2413\n\n**项目等级：**Safe\n\n**特殊收容措施：**SCP-2413收容于本文件内。任何情况下都不得修改或删除本文件。认知危害净化程序须由访问用户执行。未能遵照指示将被视作一次3类（认知危害）收容突破。\n\n**描述：**SCP-2413是一能影响到任何认知其存在且未遵守SCP-2413认知危害净化程序的人员（称为SCP-2413-1）的实体。受影响者会出现1-5分钟的幻听，似乎是从受污染者附近的某个播音设备中发出。\n\n这些幻听能在无播音设备的情况下显现，但半数此类案例都将导致SCP-2413-1人员遭受有害认知效应，此类测试因人员损失无法继续。\n\nSCP-2413-1个体在经历最初的幻听后，将开始对创造性作品展现出更为批判性的表现（SCP-2413效应的第二阶段）。这一表现的烈度会逐步抬升，致使人员无法从任何创造性作品中获得愉悦。SCP-2413-1个体对文字创作更有批评偏好，但无法阅读的人员会将其批评方向转到其他作品上。\n\n没有视觉、味觉、嗅觉的人员能对此种增长有一定抵抗，但几乎所有人员最终都会发展到第二阶段。唯一的例外是没有听觉的人员，耳聋者迄今完全不会受到SCP-2413感染。\n\n暴露约90分钟后，SCP-2413-1个体将不再能被上文提及手段净化。在106分钟后，SCP-2413效应将无法被任何方式逆转。\n\n**净化程序：**\n\n[[html]]\n<html>\n<head>\n<script type=\"text/javascript\">\nfunction setVar()\n{\n    if (sessionStorage.read != 1)\n    {\n        sessionStorage.setItem('read', 1);\n    }\n}\n</script>\n</head>\n<body onLoad=\"setVar();\">\n</body>\n</html>\n\n<audio autoplay>\n  <source src=\"http://scp-wiki.wdfiles.com/local--files/scp-2413/thecritic.mp3\" type=\"audio/mpeg\">\n</audio>\n\n[[/html]]\n[[[decontamination-document-0094|请访问文件-0094继续净化。]]]\n[[/collapsible]]\n\n[[footnoteblock]]\n\n[[div class=\"footer-wikiwalk-nav\"]]\n[[=]]\n<< [[[SCP-2412]]] | SCP-2413 | [[[SCP-2414]]] >>\n[[/=]]\n[[/div]]\n\n[[include :scp-wiki-cn:component:license-box\n|author=Doctor Cimmerian\n]]\n=====\n> **文件名：**thecritic.mp3\n> **图像名：**Apophysis-100303-104.jpg\n> **图像作者：**Gut Monk\n> **授权协议：**公有领域\n> **来源链接：***https://en.wikipedia.org/wiki/File:Apophysis-100303-104.jpg\n=====\n[[include :scp-wiki-cn:component:license-box-end]]",
+  "tags": [
+    "meta",
+    "safe",
+    "scp",
+    "听觉影响",
+    "幻觉",
+    "感知影响",
+    "精神影响",
+    "认知危害",
+    "音频"
+  ],
+  "author": "M Element",
+  "created_at": "2017-07-12T14:03:08+00:00",
+  "updated_at": "2022-02-15T02:37:28+00:00",
+  "rating": 2,
+  "_site": "scp-wiki-cn",
+  "_fullname": "scp-2413"
+}

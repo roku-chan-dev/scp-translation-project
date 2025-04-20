@@ -1,0 +1,14 @@
+{
+  "title": "00013",
+  "content": "content: \"**説明:** AK-47に一致する外見をした自動小銃。発砲すると薬莢が排莢されるが、銃口から弾頭が飛び出ることはない。発砲時に射線上にいる「撃たれた」被験者は鼻口腔内に辛子独特の刺激臭と辛味を感じる。\\n**回収日:** ████-██-██\\n**回収場所:** 大分県・日出生台演習場\\n**現状:** 米海兵隊により発見され、組み込みエージェントの手によりサイト-██に持ち帰られ、分析の後保管された。\"\ntf2: '1'\nauthor: m0ch12uk1\nredirect-b: '[[module Redirect destination=\"http://ja.scp-wiki.net/log-of-anomalous-items-jp'\nredirect-e: '\"]]'",
+  "tags": [
+    "jp",
+    "剪定対象-子"
+  ],
+  "author": "7happy7",
+  "created_at": "2020-03-14T14:02:44+00:00",
+  "updated_at": "2021-05-24T13:11:08+00:00",
+  "rating": 10,
+  "_site": "scp-jp",
+  "_fullname": "anomalous-jp:00013"
+}

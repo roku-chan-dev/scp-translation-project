@@ -1,0 +1,19 @@
+{
+  "title": "The whole is more than the sum of its parts.",
+  "content": "[[>]]\n[[module Rate]]\n[[/>]]\n\n[[include :scp-wiki:theme:black-highlighter-theme]]\n[[include :scp-wiki:theme:jakstyle]]\n@@ @@\n[[div class=\"blockquote\"]]\nGestalt I.\n\nCold\nBitter\nSmells of steel\nWaft to my room\nAs the collective's thoughts and dreams\nPillars\nThe corners of my mind\n\nVague memories\nContained\nBy smells\nWaking\nI recall\nNothing\nOf the scent I cannot mask\n[[/div]]\n[[div class=\"blockquote\"]]\nGestalt II.\n\nReal life, or slumber\nI fall into\nWith static mists\nIn long hallways\nI try\nI run\nAway\n\nThey catch me\nSinging\nDreadful\nHorrific\nTerrifying things,\nInky Tendrils\nReach me\n[[/div]]\n[[div class=\"blockquote\"]]\nGestalt III.\n\nRunning for the door\nI grip my keys, but\nThere is no way in\nNo way out\nThey pull me\nDo I ever survive\nDreams of haunted nights and restricted corridors?\n[[/div]]\n[[div class=\"blockquote\"]]\nZeitgeist\n\nWhen my room is lit by morning\nWhen I sleep and wander in memes\nUnattached\nFrom the subject of anomaly\nThe memories gone through my fingers\nLike sand and mist\nTheir shadows tower over me\n\nThey hide in darkness\nSo I may wake in light\n[[/div]]\n[[div class=\"blockquote\"]]\n--do i remember\nmy room feels so constrained at night--\n\n--i run so far away\nis there something that ive forgetten?--\n[[/div]]\n@@ @@\n##232323|I miss them, whoever they are,##\n##232323|Can they remember me?##\n@@ @@\n@@ @@\n@@ @@\n@@ @@\n[[collapsible show=\"More from fairydoctor\" hide=\"Close me!\"]]\n__SCPs__:\n\n[[module ListPages created_by=\"fairydoctor\" separate=\"no\" tags=\"scp, -joke\" perPage=\"2\" order=\"created_at\" prependLine=\"||~ SCP ||~ Created ||~ Rating ||~ Comments ||~ Length ||\"]]\n|| %%title_linked%% || %%created_at%% || %%rating%% || %%comments%%  || %%size%% ||\n[[/module]]\n\n__GoI Formats__:\n[[module ListPages created_by=\"fairydoctor\" separate=\"no\" tags=\"goi-format\" perPage=\"2\" order=\"created_at\" prependLine=\"||~ SCP ||~ Created ||~ Rating ||~ Comments ||~ Length ||\"]]\n|| %%title_linked%% || %%created_at%% || %%rating%% || %%comments%%  || %%size%% ||\n[[/module]]\n\n__Foundation Tales__:\n\n[[module ListPages created_by=\"fairydoctor\" separate=\"no\" tags=\"tale\" perPage=\"2\" order=\"created_at\" prependLine=\"||~ SCP ||~ Created ||~ Rating ||~ Comments ||~ Length ||\"]]\n|| %%title_linked%% || %%created_at%% || %%rating%% || %%comments%%  || %%size%% ||\n[[/module]]\n[[/collapsible]]\n@@ @@\n[[include :scp-wiki:component:license-box]]\n[!-- N/A (No Images)  --]\n[[include :scp-wiki:component:license-box-end]]",
+  "tags": [
+    "_licensebox",
+    "first-person",
+    "horror",
+    "poetry",
+    "psychological-horror",
+    "surrealism",
+    "tale"
+  ],
+  "author": "fairydoctor",
+  "created_at": "2021-04-18T22:38:41+00:00",
+  "updated_at": "2024-10-11T19:38:04+00:00",
+  "rating": 30,
+  "_site": "scp-wiki",
+  "_fullname": "the-whole-is-more-than-the-sum-of-its-parts"
+}

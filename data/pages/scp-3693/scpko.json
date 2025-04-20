@@ -1,0 +1,21 @@
+{
+  "title": "SCP-3693",
+  "content": "[[include :scpko:theme:black-highlighter-theme]]\n[[include component:info-ayers\n|lang=en[!-- EN/RU/KO/CN/FR/PL/ES/TH/JP/DE/IT/UA/PTBR --]\n|page=scp-4760[!-- url of your page on the scp wiki --]\n|authorPage=http://www.scp-wiki.net/djkaktus[!-- link to your author page --]\n|comments=N/A\n]]\n[[module CSS]]\nsup {\nvertical-align: top; position: relative; top: -0.5em;\n}\n:root{\n--cutColour: #fafafa;\n--barColour: #590505;\n}\n.translation_block{\ndisplay:none;}\n\n.info-container .collapsible-block-folded a{\ncolor: #FFF;}\n.info-container .collapsible-block-unfolded-link a{\ncolor: #FFF;}\n\n.info-container .collapsible-block-link,\n.info-container:hover .collapsible-block-link {\nline-height: 1.6em;\n}\n[[/module]]\n\n[[include info:start]]\n**SCP-3693:** 추신 - 거울로 보는것 같이 희미하나,,Postscript - Through A Glass, Darkly,,\n**저자:** [[*user djkaktus]] & [[*user The Great Hippo]] \n**원작:** http://www.scp-wiki.net/scp-3693\n**역자:** [[*user quilt]]\n@@@@\n[[=]]\n[[[http://ko.scp-wiki.net/quilt|###]]]\n[[/=]]\n\n> **파일명:** theother.jpg\n> **명칭:** Schevill Karl Bitter pen drawing nude woman sitting.jpg\n> **저자:** Karl Bitter\n> **라이선스:** Public Domain\n> **출처:** [https://commons.wikimedia.org/wiki/file:schevill_Karl_Bitter_pen_drawing_nude_woman_sitting.jpg Wikimedia Commons]\n[[include info:end]]\n[[include :scpko:component:anomaly-class-bar-source\n\n|item-number= 3693\n\n|clearance= 2\n\n|container-class= 유클리드\n\n|container-class-en= Euclid\n\n|secondary-class= none\n\n|secondary-class-en= none\n\n|disruption-class= 암흑\n\n|disruption-class-en= dark\n\n|risk-class= 주목\n\n|risk-class-en= notice\n\n]]\n-----\n\n[[include component:image-block name=theother.jpg|caption=SCP-3693을 묘사한 그림]]\n\n**일련번호:** SCP-3693\n\n**등급:** 유클리드\n\n**특수 격리 절차:** SCP-3693은 제 19기지의 보안 금고에 격리한다. SCP-3693의 행동이 불확실하고 시각적 기록 장치로 SCP-3693을 인식하는 것이 불가능하기 때문에, 대상은 격리실과 맞닿아 있고 창문이 있는 관측소에서 인간 관찰자에 의해 감시되어야 한다. 이러한 상태의 어떤 변화라도 SCP-3693의 격리 전문가에게 보고되어야 한다.\n\n**설명:** SCP-3693은 나이를 알 수 없는 인간 여성을 묘사한 1.6m 높이의 점토 조각상이다.\n\nSCP-3693은 관찰자가 눈을 감고 있는 상태에서만 볼 수 있다. 감긴 눈꺼풀을 통과하여 볼 수 있음에도, 다른 장애물(예를 들어 벽이나 문)은 대상의 부분이나 전체를 가릴 수 있다. 대상은 보통 지상으로부터 몇 센티미터 정도 떠 있는 것으로 관찰되지만, 얼마간 움직이지 않았을 경우 때때로 착지하기도 한다.\n\n관찰될 때, SCP-3693은 빠르게 관찰자에게 접근하여, 관찰자를 마주보면서 가장 가까운(최대 몇 센티미터 떨어진) 장애물이 없는 공간으로 들어온다. 관찰자의 키에 따라 SCP-3693은 관찰자의 눈 높이에 떠 있도록 움직인다. 만약 관찰자가 눈을 감은 채로 원래 위치에서 이동할 경우 SCP-3693은 거리를 유지하면서 관찰자의 앞을 따라다닌다. 관찰자가 눈을 뜨면, SCP-3693은 모든 움직임을 멈춘다. SCP-3693은 보이지 않을 때도 공간을 차지하며 물리적인 영향을 받을 수 있다. 대상은 벽을 통과하거나 문과 상호작용할 수는 없는 것으로 보인다.\n\nSCP-3693을 관찰하는 피험자는 자주 감시받고 있다는 느낌을 보고했다. 오랜 시간 노출되는 것은 보통 어느 정도의 불안감을 유발한다. SCP-3693은 재단의 구류 하에서 적대적인 행동을 보이지 않았다.\n\n**부록 3693. 1:** 발견\n\nSCP-3693은 실연당한 애인에게 살해당한 여성의 유령에 대한 지역 설화에 대해 조사하던 재단 인원에 의해 1995년 일본의 하시마 섬에서 발견되었다. 버려진 창고의 지하실을 조사하던 중, 요원은 자신이 눈을 감고 있는 동안 SCP-3693이 유리 칸막이를 누르며 자신을 따라오는 것을 목격했다. 해당 구역에 대한 추가적인 조사로 부서진 콘크리트의 잔해와 뒤틀린 철근을 발견되었으며, 피와 배설물로 막힌 몇 개의 바닥 배수구도 발견되었다. 근처에서 목이 부러진 여성의 시신이 수습되었다.\n\nSCP-3693을 확보해 현장 외부로 옮긴 후, 재단 요원들은 해당 구역에 대한 조사를 계속하기 위해 창고로 돌아왔다. 지하실은 더 이상 존재하지 않았다. 수습된 시신의 신원을 알아내기 위한 조사가 진행 중이다.",
+  "tags": [
+    "en",
+    "scp",
+    "공저",
+    "관찰",
+    "유클리드",
+    "인간형",
+    "자율",
+    "조각상",
+    "조각품"
+  ],
+  "author": "quilt",
+  "created_at": "2020-04-24T16:49:01+00:00",
+  "updated_at": "2024-11-09T14:38:08+00:00",
+  "rating": 12,
+  "_site": "scpko",
+  "_fullname": "scp-3693"
+}

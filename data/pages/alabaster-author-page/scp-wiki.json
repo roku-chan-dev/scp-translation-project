@@ -1,0 +1,14 @@
+{
+  "title": "Alabaster-Alabaster's Page",
+  "content": "[[>]]\n[[module Rate]]\n[[/>]]\n\n[[include component:image-block\n    name=thefunny|\n    caption=haha\n]]\n\nAlabaster-Alabaster is a writer with no idea what they're doing. \n\n\nplease check out their stuff here\n[[module ListPages created_by=\"Alabaster-Alabaster\" order=\"rating desc\" separate=\"no\" tags=\"scp\" perPage=\"250\" prependLine=\"||~ SCP Number ||~ Rating ||~ Comments ||~ Created ||~ Last Comment ||\"]] \n|| %%title_linked%% || %%rating%% || %%comments%% || %%created_at%% || %%commented_at%% ||\n[[/module]]\n\nIf you wanna know what they think about their writings, please click below again\n\n[[collapsible show=\"+ Author Commentary\" hide=\"- lost in the world is a really good song\"]]\n\n[http://www.scp-wiki.net/scp-3823 SCP-3823] - \"Put on your Red Shoes\"\n\nInspired by some shoes I saw while walking down the street (that's the picture i took it myself with my iphone)\nApparently that's actually supposed to be a drug dealing or gang thing? Could've fooled me.\nThis SCP is a load of SHIT right now. I need to rewrite it someday and get a better picture unless the shoes are gone in which case FUCK. Watch this space.\n\n[http://www.scp-wiki.net/scp-4141 SCP-4141] - \"You: The Real Time Autobiography\"\n\nInspired by a post from /v/ in the holiest of SCP threads from early 2018. Thanks, guy from /v/, it's a very good idea.\nSadly my writing for it is DRY AND GARBAGE and not deserving of the EPIC SOUGHT-AFTER REPEATING DIGITS SPOT. I need to fix it up. I use the word \"instance\" too much. Gotta make the ending better too. Watch this space too, because you're gonna have an existential crisis once this shit is done.\n\n[http://www.scp-wiki.net/scp-3871 SCP-3871] - \"Dr. Wondertainment's Allegorical Anomaly-Annihilating Assault Automaton\"\n\nClichecon was fun. I wrote about an angry robot.\nCritics raved for \"Dr. Wondertainment's Allegorical Anomaly-Annihilating Assault Automaton.\" They loved \"Dr. Wondertainment's Allegorical Anomaly-Annihilating Assault Automaton.\" \n> Wow, Dr. Wondertainment's Allegorical Anomaly-Annihilating Assault Automaton really is a good SCP!\nsaid some guy, probably.\nI heard some guy on a podcast call it good. It's the only SCP I've got up that I like as of right now. Don't watch this space cause this one is DONE. (probably? never say never.)[[/collapsible]]\n\n\n\n\n[[collapsible show=\"hey\" hide=\"you smell of poopoo peepee\"]]\n[[/collapsible]]",
+  "tags": [
+    "_cc",
+    "author"
+  ],
+  "author": "Alabaster-Alabaster",
+  "created_at": "2019-04-05T22:04:58+00:00",
+  "updated_at": "2022-09-15T20:43:34+00:00",
+  "rating": 13,
+  "_site": "scp-wiki",
+  "_fullname": "alabaster-author-page"
+}

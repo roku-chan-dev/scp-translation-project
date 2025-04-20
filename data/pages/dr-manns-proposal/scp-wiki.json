@@ -1,0 +1,19 @@
+{
+  "title": "Dr. Mann's Proposal",
+  "content": "[[>]]\n[[module Rate]]\n[[/>]]\n\n[[include component:image-block name=path005.png|caption=One portion of SCP-001|width=300px]]\n\n**Item #:** SCP-001\n\n**Object Class:** Embla\n\n**Containment Procedures:** SCP-001 is contained on the grounds of Site 0, in upstate [REDACTED].  A fence has been constructed around the perimeter of SCP-001's observed effects.  In addition to Site 0's security, no fewer than five armed guards are to be present at all times to prevent unauthorized entry.  The adjoining physics laboratory will be manned at all hours, studying any anomalies.\n\nA small metal plaque bearing an inscription will be maintained in good condition.  Any damage is to be immediately reported to maintenance.\n\n**Description:** SCP-001 is a circular gravel path in a wooded area.  When traveled in a counter-clockwise direction, the trail is continuously uphill, even after reaching the original point.  When traveled in a clockwise direction, the trail shows the same amount of uphill and downhill travel, as expected.  \n\nLevel 5 clearance is required to access SCP-001’s experiment log.\n\nNew members of Overseer Council are required to read [[[Document 001-O5]]].\n\n[[include :scp-wiki:component:license-box]]\n=====\n> **Filename:** path005.png\n> **Author:** Bill Henderson [original], S D Locke [edits]\n> **License:** CC BY-SA 2.0\n> **Source Link:** [https://commons.wikimedia.org/wiki/File:Track_through_the_woods_leading_down_from_Lounds_Hill_-_geograph.org.uk_-_282372.jpg]\n\n=====\n[[include :scp-wiki:component:license-box-end]]",
+  "tags": [
+    "001-proposal",
+    "_cc",
+    "_licensebox",
+    "esoteric-class",
+    "location",
+    "scp",
+    "spatial"
+  ],
+  "author": "DrEverettMann",
+  "created_at": "2011-06-12T22:16:21+00:00",
+  "updated_at": "2023-04-06T18:31:48+00:00",
+  "rating": 820,
+  "_site": "scp-wiki",
+  "_fullname": "dr-manns-proposal"
+}

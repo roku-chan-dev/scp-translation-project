@@ -1,0 +1,14 @@
+{
+  "title": "02271",
+  "content": "content: \"**説明:** パスワード認証に失敗した場合、画面に「Singing in...」と表示されたのちに楽曲が再生される端末。\\n**回収日:** 20██/██/██\\n**回収場所:** サイト-81██\\n**現状:** 同サイトの低脅威度物品保管ロッカーに保管。\\n**追記:** 再生される楽曲のジャンルは[[[*https://ja.wikipedia.org/wiki/%E3%82%B4%E3%82%B9%E3%83%9A%E3%83%AB_(%E9%9F%B3%E6%A5%BD) | 福音音楽]]]に限定されている。\"\ntf2: '0'\nauthor: ''\nredirect-b: '[[module Redirect destination=\"http://ja.scp-wiki.net/log-of-anomalous-items-jp'\nredirect-e: '\"]]'",
+  "tags": [
+    "jp",
+    "剪定対象-子"
+  ],
+  "author": "makigeneko",
+  "created_at": "2020-11-25T23:10:29+00:00",
+  "updated_at": "2023-06-23T20:17:30+00:00",
+  "rating": 21,
+  "_site": "scp-jp",
+  "_fullname": "anomalous-jp:02271"
+}

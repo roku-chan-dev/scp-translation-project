@@ -1,0 +1,14 @@
+{
+  "title": "10043",
+  "content": "number: UE-450320-JP\ncontent: \"ホワイティうめだ（旧梅田地下街）内の泉の広場中央に存在する、直径1mの円状の領域。\\nこの上を通過すると、地上に出るまで目的地までの経路を思い出すことが不可能になる。\"\ndate: 1970/██/██\narea: '大阪府 大阪市 北区'\nprotocol: 通行量の多さからカバーストーリー『改修工事』は長期の適用が不可能と判断されたため、領域の上に噴水などの障害物を設置することにより一般人が領域上を通行することを防いでいる。\nredirect-b: '[[module Redirect destination=\"/log-of-unexplained-locations-jp'\nredirect-e: '\"]]'",
+  "tags": [
+    "jp",
+    "剪定対象-子"
+  ],
+  "author": "Catwill",
+  "created_at": "2021-02-12T12:43:05+00:00",
+  "updated_at": "2021-05-24T13:21:37+00:00",
+  "rating": 13,
+  "_site": "scp-jp",
+  "_fullname": "log-of-unexplained-locations-jp:10043"
+}

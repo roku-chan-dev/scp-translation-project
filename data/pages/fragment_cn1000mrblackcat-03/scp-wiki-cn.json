@@ -1,0 +1,13 @@
+{
+  "title": "SCP-CN-1223",
+  "content": "[[module css]]\n.footnoteref{\ncolor: #FF5555;\n}\n.danke{\npadding: 5px 5px 5px 15px;\nmargin-bottom:10px;\nwidth: 100%;\nfont-family: monospace;\nfont-size: 1.1em; }\n\n.agent{\nbackground-color:#002200;\nborder: 3px solid #55AA55;\ncolor: #77CC77;\n}\n\n.site{\nbackground-color:#222200;\nborder: 3px solid #AAAA55;\ncolor: #DDDD77;\n}\n[[/module]]\n[[module ListUsers users=\".\"]]\n[[div style=\"background: url(http://kaktuskontainer.wdfiles.com/local--files/format-hell/scp_trans.png) bottom center no-repeat; text-align: center; width: 600px; margin: 0 auto; font-size: 20px; padding: 0px;\"]]\n\n[[size 40%]] **From**        //O5-CN议会//   \n                   \n **To**     信使 %%title%%   \n\n地球已经发展了50亿年，然而只有最近的1000年内我们突然收容了1000个异常项目，发现的模因与现实扭曲者比之前所有时间之和都多。\n\n这一切难道只是巧合吗？\n\n事实是，有一个II型文明已经盯上了这颗蔚蓝的星球。我们不会停止抗争，然而据计算我们的胜率只有0.00051%。\n\n人们不能再生活在恐惧中，我们必须封锁关于SCP-CN-1223的真正用途。\n\n但是坐以待毙不是我们的风格。MTF-CN-thera-08(\"文明的使者\")是我们最后的火种，巨大的运载火箭内装有13个冻眠舱，它能够让MTF队员们与SCP-CN-1223一起进入浩瀚的宇宙中寻找生命的希望，他们将组成新的O5议会，让地球的文明流传。\n\n%%title%%，O5议会即刻起任命你为MTF-CN-thera-08(\"文明的使者\")的第13人，支持者：O5-1、O5-3、O5-5、O5-6、O5-8、O5-9、O5-10、O5-12。\n\n当渴望自由的战役打响后，你将在SCP-CN-1223中获得人类的文明史，成为我们最后的见证。你们将会把文明的种子撒向宇宙，与数万亿年以来的所有文明一样，延续文明的轮回。\n\n祝你好运，%%title%%[[/size]]\n\n[[/div]]\n\n+++ ## green| 模因疫苗已释放，欢迎您，MTF-CN-thera-08(\"文明的使者\")指挥官%%title%%##\n[[=image http://pre05.deviantart.net/330c/th/pre/f/2013/025/4/4/heart_of_a_civilization_by_graceyn-d5so4bw.jpg]]\n[[/module]]\n[[>]]\n\n++++ **//[[[http://scp-wiki-cn.wikidot.com/scp-cn-1223/offset/3|关闭]]]//**\n[[/>]]",
+  "tags": [
+    "段落"
+  ],
+  "author": "Mr black cat ",
+  "created_at": "2018-10-27T02:24:16+00:00",
+  "updated_at": "2018-12-08T23:16:38+00:00",
+  "rating": 0,
+  "_site": "scp-wiki-cn",
+  "_fullname": "fragment:cn1000mrblackcat-03"
+}

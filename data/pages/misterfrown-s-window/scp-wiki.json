@@ -1,0 +1,17 @@
+{
+  "title": "MisterFrown's Window",
+  "content": "[[include :scp-wiki:theme:black-highlighter-theme]]\n[[include :scp-wiki:theme:midnight-rush]]\n[[include :scp-wiki:component:toggle-sidebar-bhl]]\n[[include :scp-wiki:component:centered-header-bhl]]\n\n[[=]]\n\n[[module Rate]]\n\n[[div style=\"height: 10px;\"]]\n[[/div]]\n\n[[image https://testinggrounds.wdfiles.com/local--files/art-test/window.png]]\n\n[[div style=\"height: 20px;\"]]\n[[/div]]\n\n[[collapsible show=\"Featured SCPs\" hide=\"Close\"]]\n\n**Left Wall**\n\n[[[scp-001-and-a-half-J|SCP-001½-J]]]\n[[[SCP-8820]]]\n[[[SCP-8069]]]\n[[[SCP-8399]]]\n\n**Window**\n\n[[[SCP-6914]]]\n[[[deepwell-proposal|SCP-001-DEEPWELL-J]]]\n[[[Taboo-J]]]\n\n**Right Wall**\n\n[[[misterfrown-s-proposal-j|SCP-001-FROWN-J]]]\n[[[everyone-s-proposal|SCP-001-EVERYONE-J]]]\n[[[SCP-666-EX]]]\n[[[SCP-001-D-J]]]\n\n[[/collapsible]]\n\n[[/=]]\n\n[[module CSS]]\n\n:root {\n\n--zero: 0;\n\n}\n\n[[/module]]\n\n@@@@\n@@@@\n\n[[include :scp-wiki:component:license-box]]\n=====\n[[<]]\n[[div class=\"blockquote\"]]\n**Filename:** window.png\n**Author:** [[*user MisterFrown]]\n**License:** CC-BY-SA 3.0\n[[/div]]\n[[/<]]\n=====\n[[include :scp-wiki:component:license-box-end]]",
+  "tags": [
+    "_cc",
+    "_licensebox",
+    "artwork",
+    "pixel-art",
+    "scp-art"
+  ],
+  "author": "MisterFrown",
+  "created_at": "2024-08-31T00:43:26+00:00",
+  "updated_at": "2024-09-09T00:09:51+00:00",
+  "rating": 31,
+  "_site": "scp-wiki",
+  "_fullname": "misterfrown-s-window"
+}

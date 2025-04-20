@@ -1,0 +1,18 @@
+{
+  "title": "SCP-7868",
+  "content": "[[include :scp-wiki-cn:theme:black-highlighter-theme]]\n[[include :scp-wiki:component:toggle-sidebar-bhl]]\n[[include :scp-wiki-cn:theme:present-malice]]\n\n[[include :scp-wiki-cn:component:author-label-source start=--\n|name=Cremo and Tstaffor\n|no-right-margin=*]]\n你可以在此找到我们更多的作品：\n\n[[[cremo]]]\n[http://scp-wiki-cn.wikidot.com/tstaffor-s-author-page Tstaffor]\n[[include :scp-wiki-cn:component:author-label-source end=--]]\n\n[[include :scp-wiki-cn:component:anomaly-class-bar-source\n|lang= cn\n|item-number=7868\n|clearance=3\n|container-class= euclid\n|secondary-class=none\n|disruption-class=vlam\n|risk-class=待观察\n\n]]\n\n**特殊收容措施：** SCP-7868储存于Site-228的一个大型机库内。储存SCP-7868的容器每周必须重新填充A型血液[[footnote]]如有必要，O型阴性血液同样允许填充。[[/footnote]]。每次重新填充之前，必须进行定期维护检查，以确保SCP-7868的结构完整性。访问SCP-7868仅限拥有3级或更高的人员。与项目的任何交互都必须经站点主管批准，并记录在案。\n\n**描述：** SCP-7868是一架完全由人体组织建造的客机。形成机身项目的大部分结构框架由相互连接的骨骼组成，机翼和机尾由软骨组成。机舱内的座椅覆盖着各种人类皮肤作为座椅缓冲垫。\n\nSCP-7868机翼内的专用油箱被血液填充，并通过异常生物方式代谢血液以产生动力。这一过程的确切机制尚不明确。\n\nSCP-7868的驾驶舱配备了六个人脑与各种相互连接的神经系统作为其计算机系统。这些神经表现出有限的感知水平，能够处理信息、控制飞行系统和对外部刺激做出反应。\n\n项目飞行能力与商用飞机水平相当，飞行过程中与波音737客机的速度相当。项目可以在没有任何与人类交互的情况下成功起飞、在空中导航和着陆。\n\n**发现：**SCP-7868是由一个名为“骨骼兄弟”的小型相关的组织创造，该组织由奇术师组成，并出于商业目的使用奇术。\n\n2019/11/06，一位自称Conard的匿名人士与基金会取得了联系。他声称自己与骨骼兄弟有关系，并提供了匈牙利布达佩斯费伦茨·李斯特国际机场附近一个机库的坐标。\n\nMTF-Mu-11（“Necro Necksnappers”）被派往发现SCP-7868以及大量各种内脏的地点。在SCP-7868附近的桌子上发现了一个信封，里面有以下信息：\n\n[[div style=\"float: center; border: solid 3px #444444; width: 85%; padding: 1px 15px; margin: auto; margin-top: 10px; box-shadow: 0 1px 3px rgba(0,0,0,.2);\"]]\n亲爱的基金会，\n\n骨骼兄弟和我选择与你联系是因为我们需要为Bonetta找到一个新家。对，这就是她的名字。我知道你们中不会有人会称她为Bonetta，她会被分配一些随机数字，但如果你们中有人对她有尊敬之情的话，你们应该知道她的名字。怀着沉重的心情，我不得不和Bonetta说再见。骨骼兄弟没有时间照顾我失败的项目，遗憾的是我也没有时间照顾她。我知道你们会保护她的安全。其他人会摧毁她，将其武器化，或者只是简单地将其出售牟利。她本应比现在还要好，她应该比我还要好。是我辜负了她。\n\n她仍然非常敏捷，能够像我梦想的那样飞行。Bonetta本应是骨骼兄弟资助的官方奇术航空公司的第一架飞机，但不幸的是，这个航空公司甚至（原谅双关语）还没来得及起飞就面临着公关灾难，令人惊讶的是，这并不是因为这架飞机是由人体部位制成的。\n\n她需要定期喂食，她是个饥饿的女孩！开心的时候她也喜欢O型血。我在机库的角落里给你留下了一些替换零件，我相信散落在周围的这些东西你们有很多，但这是我唯一能做的事情。\n\n我希望我把她留给你们是个好决定。好吧，至少比被叫做“骨骼航空”要好。\n[[>]]\n祝好，\n\nConrad\n[[/>]]\n[[/div]]\n\n\n[[footnoteblock]]\n\n[[div class=\"footer-wikiwalk-nav\"]]\n[[=]]\n<< [[[SCP-7867]]] | SCP-7868 | [[[SCP-7869]]] >>\n[[/=]]\n[[/div]]",
+  "tags": [
+    "euclid",
+    "scp",
+    "合著",
+    "天空",
+    "生物性",
+    "载具"
+  ],
+  "author": "AceAttackAssassin",
+  "created_at": "2023-07-17T01:51:41+00:00",
+  "updated_at": "2023-07-17T07:59:18+00:00",
+  "rating": 1,
+  "_site": "scp-wiki-cn",
+  "_fullname": "scp-7868"
+}

@@ -1,0 +1,13 @@
+{
+  "title": "Scp 581 Fr 1",
+  "content": "**项目编号：** SCP-581-FR\n\n**威胁等级：** 橙 [[span style=\"color:orange\"]]●[[/span]]\n\n**项目等级：** Safe\n\n**特殊收容措施：** 原本覆盖于SCP-581-FR通道上的井盖现已拆除，并被保存于基金会一处严密把守的保密区域。新的常规井盖已将其替换并被焊接固定。禁止人员直接暴露于SCP-581-FR内部的自然光下。\n\n在进一步通知前，禁止任何人员进入SCP-581-FR内部。\n\n**描述：** SCP-581-FR指向比利时沙勒罗瓦镇附近一处构造类似下水道入口的竖井以及位于其下方的结构。其洞口被一块圆形铸铁井盖所覆盖，井盖表面纹样风格与该市其他井盖均相似，目前已被拆除。井盖外侧刻有 “沙勒罗瓦市服务 - 火药库”字样，内侧刻有“SCP基金会 反常部”字样。\n\n[[include component:image-block name=http://fondationscp.wdfiles.com/local--files/fragment:scp-581-fr-1/puissance_iteree.jpg|caption=一处位于SCP-581-FR内部的走廊。值得注意的是，各门上的钥匙孔均为上下颠倒安装。]]\n\n竖井内部有一竖直安装钢梯，全长约96米，通向一处人造空洞层的顶部。因此，进入内部人员须从钢梯的最后几米处跳下降落。\n\n竖井下方空洞层为一处显然已遭废弃的、与普通工厂相类似的基础设施。SCP-581-FR的主要异常之处在于其内部倒置的结构及几何构造：天花板构造类似地板，而地板构造类似天花板，门框自地板上方几厘米始，至天花板结束，且天花板处有大量碎片及沉积物堆积。在探索SCP-581-FR的过程中，未有任何外界带入物被观察到受该异常现象影响。\n\nSCP-581-FR内部布局类似于一处20世纪70年代末的工业-大学聚合设施，估计已被遗弃或遭掠夺已有50年之久。该设施内大部分为空车间、休息区、气闸，其存在可表明该工厂内曾有过工业石油化工活动，但设施内部也存在宿舍、教室、卫生间、公共淋浴间，以及一处小型市场的遗迹。未知于小型市场内部遗留的少数商品之品牌商标。\n\n[[include component:image-block name=http://fondationscp.wdfiles.com/local--files/fragment:scp-581-fr-1/valet-8.jpg|caption=一SCP-581-FR-1实例。光线似乎来源于其下方。]]\n\nSCP-581-FR内部部分房间完全被一几乎延伸至地面的钢板、管道及不同机械部件所构成的组合体覆盖，其来源及运作情况均未知。该组合体于下文被称为SCP-581-FR-1。值得注意的是，于[[[task-forces#theta-90|机动特遣队Theta-90（“角磨机”）]]]对SCP-581-FR的初次探索中，自一处SCP-581-FR-1实例内回收一张被撕碎的纸片，完整文件最初似乎带有基金会符号及一以14结尾的数字。未知该份文件性质。所有SCP-581-FR-1实例均无法被移动，亦无可表明其可被激活的机械结构。SCP-581-FR-1部分机械部件及管道的失修状态可表明，其年代早于其余基础设施。\n\n令人费解的是，部分光源，如位于地板处的霓虹灯管仍处于工作状态中，尽管其显然处于欠电压状态。未知其供电电流来源。亦可观察到来源自基础设施外部的光线，尽管SCP-581-FR内部构造极深，该光源，类似日光，依然以自下至上的角度透过窗户。值得注意的是，设施内部的窗户均被从外侧使用白色油漆覆盖，阻挡了外部视线。通过外部光线的照射，设施内部的大量灰尘也可被观察到均向天花板而非地板方向移动。\n\n@@@@\n@@@@\n@@@@\n@@@@\n@@@@\n@@@@\n@@@@\n@@@@\n@@@@\n@@@@\n@@@@\n@@@@\n@@@@\n@@@@\n@@@@\n@@@@\n\n[[include :fondationscp:component:image-block-center name=http://fondationscp.wdfiles.com/local--files/fragment:scp-581-fr-1/tonneau.jpg|caption=上述光源的一处示例。位于天花板处的栅栏孔洞处仍未进行探索。]]\n\nSCP-581-FR拥有一处类似机库所拥有的大门。该门被推测可打开。探索该门后区域的行动于对SCP-581-FR的初次探索中进行。在后续探索中，一具特工尸体被发现，其手中持有一张由其注释的照片。注释内容见下方图片说明文字。\n\n[[include :fondationscp:component:image-block-center name=http://fondationscp.wdfiles.com/local--files/fragment:scp-581-fr-1/final.jpg|width=600px|caption= [[span style=\"display:inline-block;transform: rotate(180deg)\"]] 群猪看不见天空。[[/span]]]]",
+  "tags": [
+    "段落"
+  ],
+  "author": "MensongeGeant",
+  "created_at": "2023-06-19T10:46:22+00:00",
+  "updated_at": "2024-03-02T13:16:02+00:00",
+  "rating": 0,
+  "_site": "scp-wiki-cn",
+  "_fullname": "fragment:scp-581-fr-1"
+}

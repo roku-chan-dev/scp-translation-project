@@ -1,0 +1,14 @@
+{
+  "title": "fragment:SCP-3272-0",
+  "content": "[[include component:classified-bar-woed\n|lv=1\n|item=3272\n|oc=안전\n|oc-en=Safe\n|lang=KO\n]]\n[[include component:image-block name=Shooting_Star.jpg|align=center|width=700px|caption=한 SCP-3272 개체.]]\n**특수 격리 절차:** 모든 주요 우주 프로그램에 잠입한 재단 요원들은 SCP-3272에 대한 증거를 조작한다. SCP-3272의 활동에 대한 보고가 올라올 가능성이 있기 때문에, 아마추어 천문학 커뮤니티들을 감시하도록 하며, 0.02 각초 이하의 분해능을 가진 망원경에 접근 가능한 것으로 알려진 인원에게 각별히 주의를 기울인다.\n\n현재, 어떤 SCP-3272 개체도 대기권 재진입에서 생존하지 못했기에, 격리 활동이 필요하진 않다.\n\n**설명:** SCP-3272는 지구의 궤도 궤적을 따라 흩어져 있는 일련의 인간 시체들이다. 시체들은 여타 간섭이 없는 한, 불가피하게 지구 대기권으로 재진입하게 된다. 외우주에서 기원한 점 외에는, 해당 시체들은 비변칙적인 것으로 여겨진다. 켁 1 망원경 이용자가 2053년 9월 3일 처음으로 발견한 이후, 13개체가 지구 대기권으로 재진입했음이 확인됐다.\n\nSCP-3272 개체의 회수를 위한 작업이 진행 중이다.\n\n[[div style=\"border:solid 1px #999999; background:#f2f2c2; padding:5px; margin-bottom: 10px;\"]]\n[[=]]\n++++ 재단 기록정보보안행정처(RAISA) 공지\n\n당신은 지금 이 문서의 구버전을 보고 있습니다. [/scp-3272/offset/1 이곳을 클릭해 가장 최근 리버전을 확인하세요.]\n[[/=]]\n[[/div]]",
+  "tags": [
+    "en",
+    "조각문서"
+  ],
+  "author": "Aiken Drum",
+  "created_at": "2019-09-20T11:19:10+00:00",
+  "updated_at": "2021-11-18T04:19:04+00:00",
+  "rating": 0,
+  "_site": "scpko",
+  "_fullname": "fragment:scp-3272-0"
+}

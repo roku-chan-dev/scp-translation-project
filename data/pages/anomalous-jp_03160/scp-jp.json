@@ -1,0 +1,14 @@
+{
+  "title": "03160",
+  "content": "content: \"**説明:** 本来の四則演算による結果とは別の答えを導き出す電子式卓上計算機。なお使用者本人はこの計算が「理にかなっている」と主張するが説明することが出来ない。\\n**回収日:** 20██/██/██\\n**回収場所:** ████大学の研究所\\n**現状:** 低脅威度物品保管ロッカーに収容\\n**追記:** \\n3÷0=5だろ。これが正しい。理由は…えっと…-██研究員\\nゼロ除算しても結果が出るようです。 -██博士\"\ntf2: '0'\nauthor: ''\nredirect-b: '[[module Redirect destination=\"http://ja.scp-wiki.net/log-of-anomalous-items-jp'\nredirect-e: '\"]]'",
+  "tags": [
+    "jp",
+    "剪定対象-子"
+  ],
+  "author": "StreeTer",
+  "created_at": "2021-09-15T07:25:47+00:00",
+  "updated_at": "2021-09-25T09:58:40+00:00",
+  "rating": 7,
+  "_site": "scp-jp",
+  "_fullname": "anomalous-jp:03160"
+}

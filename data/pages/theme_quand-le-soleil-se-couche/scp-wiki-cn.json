@@ -1,0 +1,14 @@
+{
+  "title": "日暮时分 版式",
+  "content": "[[module ThemePreviewer noUi=\"true\" theme_url=\"https://fondationscp.github.io/theme/sigma9.min.css\"]]\n\n[[iftags +版式]]\n这是为[[[centre-quand-le-soleil-se-couche|日暮时分]]]设定制作的版式。在您的页面开头添加如下代码以应用此版式：\n[[/iftags]]\n\n[[include component:modele-theme\n|notation=block\n|liens=block\n|footnote=block\n|titres6=block\n|onglets=block\n]]\n\n[[div [[iftags -版式]]style=\"display: none\"[[/iftags]]]]\n[[module CSS show=\"true\"]]\n/*\n    Thème de Quand le Soleil se Couche (Sigma-9)\n    Thème Wikidot 2024\n    Créé par Cauchynambour\n    Image logo créée par Cauchynambour\n    Image header tirée du thème http://scp-int.wikidot.com/poor-foundation-hub\n*/\n\n@import url('https://fonts.googleapis.com/css2?family=Space+Mono&display=swap');\n\n\n:root {\n--ct_fns_alt-header-txt : var(--step-2, clamp(2.72rem, calc(1.77rem + 2.47vw), 3.53rem));\n--ct_fns_header-txt: 0;\n--ct_fns_slogan-txt: 0;\n--ct_fns_alt-slogan-txt: var(--step--1, clamp(0.88rem, calc(1.02rem + -0.20vw), 0.98rem));\n--ct_cnt_alt-slogan-txt: \"{$sous-titre}\";\n--ct_bg_header-logo: url(https://fondationscp.wdfiles.com/local--files/theme:quand-le-soleil-se-couche/header-logo.png);\n--ct_col_link: black;\n--ct_col_link-visited: black;\n}\n\n\n#header h1 a::before, .flickering {\n    content : 'SCP';\n    animation : flicker 3s linear infinite;\n    font-size : var(--ct_fns_alt-header-txt);\n}\n\n#header h1 a::after {\n    content: '基金会';\n    animation: none;\n    font-size: var(--ct_fns_alt-header-txt);\n}\n\n@keyframes flicker {\n    0%, 19.999%, 22%, 62.999%, 64%, 64.999%, 70%, 100% {\n     //text-shadow: none;\n    opacity: .99;\n    \n    }\n    20%, 21.999%, 63%, 63.999%, 65%, 69.999% {\n     opacity: 0.4;\n    }\n}\n\n/* from : http://scp-int.wikidot.com/poor-foundation-hub/ */\ndiv#container-wrap {\n  background-image: url(http://fondationscp.wdfiles.com/local--files/theme:quand-le-soleil-se-couche/body_bg_grey.png);\n  background-repeat: repeat-x;\n}\n\n#header, #side-bar {\n  -webkit-filter: grayscale(100%);\n  filter: grayscale(100%);\n}\n\n/* / from : http://scp-int.wikidot.com/poor-foundation-hub/ */\n.page-rate-widget-box, .creditButton, .yui-navset {\n  -webkit-filter: grayscale(100%);\n  filter: grayscale(100%);\n}\n\n#page-title {\n   color : black;\n}\n\n#header h2 {\n   transform : rotate(2deg);\n}\n\ndiv.img {\n   filter : grayscale(0);\n}\n\n[[/module]]\n[[/div]]",
+  "tags": [
+    "fr",
+    "版式"
+  ],
+  "author": "Agent FS",
+  "created_at": "2024-05-24T04:37:10+00:00",
+  "updated_at": "2024-05-24T04:37:21+00:00",
+  "rating": 4,
+  "_site": "scp-wiki-cn",
+  "_fullname": "theme:quand-le-soleil-se-couche"
+}

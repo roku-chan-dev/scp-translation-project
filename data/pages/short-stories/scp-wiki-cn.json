@@ -1,0 +1,15 @@
+{
+  "title": "三句话外围",
+  "content": "**前言：**用一小段话（不一定要是三句话）讲述一个故事，每个人都可以参与！\n\n欲查看已归档的原创短篇故事，请[[[short-stories-arc|点击这里]]]。\n\n-----\n\n**创作短篇故事的地方不是用来发布随便想到的段子或无意义玩梗的。**同时请各位投稿人稍微留心一下长度，毕竟八百多字可算不上“三句话”。（为什么不单独投原创呢）\n\n[[module ListPages category=\"short-stories\" order=\"name desc\" limit=\"1\"]]\n= [[a href=\"/short-stories:[[#ifexpr (%%name%%+1) < 10 | 0 ]][[#ifexpr (%%name%%+1) < 100 | 0 ]][[#ifexpr (%%name%%+1) < 1000 | 0 ]][[#ifexpr (%%name%%+1) < 10000 | 0 ]][[#expr %%name%%+1]]/parentPage/short-stories/#_editpage\" class=\"button create-button\"]]添加新的记录[[/a]]\n[[/module]]\n\n= 显示顺序：[/short-stories/order/name%20desc 最新发布] | [/short-stories/created_at/last%207%20day/order/rating%20desc 本周最高] | [/short-stories/created_at/last%2030%20day/order/rating%20desc 本月最高] | [/short-stories/order/rating%20desc 历史最高] | [/short-stories/order/random 随机]\n\n**提示：**如果你希望改变你的评分，请先点击“X”取消你的评分，再重新评分。\n\n-----\n\n[[module ListPages category=\"short-stories\" created_at=\"@URL\" created_by=\"@URL\" order=\"@URL|name desc\" perPage=\"@URL|50\"]]\n\n[[div class=\"content-panel standalone series\"]]\n\n[[>]]\n[[collapsible show=\"+ 评分\" hide=\"- 评分\"]]\n[[iframe http://scp-wiki-cn.wikidot.com/%%fullname%%/?theme_url=http://scp-wiki-cn.wdfiles.com/local--code/log-of-anomalous-items-cn:_theme/1 scrolling=\"no\" style=\"width:100%;height:26px;overflow:hidden\" frameborder=\"0\"]]\n[[/collapsible]]\n[[/>]]\n\n%%form_raw{date}%%\n\n----\n\n%%form_raw{content}%%\n\n----\n\n%%form_raw{comments}%%\n\n[[>]]\n[[span id=\"credit-%%name%%\" class=\"option-button fa fa-info-circle\"]]信息[[/span]][[a href=\"/%%fullname%%\" target=\"_blank\" class=\"option-button fa fa-edit\"]]编辑 & 评论[[/a]]\n[[/>]]\n\n[[div id=\"credit-%%name%%-hovertip\"]]\n**作者：**%%created_by_linked%%\n\n**发布日期：**%%created_at|%Y-%m-%d%%\n[[/div]]\n\n[[/div]]\n\n-----\n\n[[/module]]\n\n[[module CSS]]\na.create-button {\n  display: inline-block;\n  margin: 0.5em 0;\n  padding: 0.625rem;\n  text-decoration: none;\n  color: #333;\n}\nspan.option-button,\na.option-button {\n  display: inline-block;\n  margin: 0 0.3125rem;\n  padding: 0.125rem 0.625rem;\n  border-radius: 0.3125rem;\n  text-decoration: none;\n  background-color: #633;\n  color: #fff;\n  box-shadow: 0.0625rem 0.0625rem 0.1875rem rgba(0,0,0,.5);\n  cursor: pointer;\n}\nspan.option-button:hover,\na.option-button:hover {\n  color: #3498db;\n}\n.option-button.fa::before {\n  margin-right: 0.3125rem;\n}\n[[/module]]",
+  "tags": [
+    "原创",
+    "合作",
+    "故事"
+  ],
+  "author": "62ECN",
+  "created_at": "2020-05-31T12:20:07+00:00",
+  "updated_at": "2024-04-23T06:44:51+00:00",
+  "rating": 28,
+  "_site": "scp-wiki-cn",
+  "_fullname": "short-stories"
+}

@@ -1,0 +1,13 @@
+{
+  "title": "fragment:SCP-CN-2621-1",
+  "content": "[[include :scp-wiki-cn:theme:black-highlighter-theme]]\n\n\n[[include :scp-wiki-cn:component:anomaly-class-bar-source\n|lang= cn\n|item-number= CN-2621\n|clearance= 2\n|container-class= safe\n|secondary-class= notice\n|secondary-icon= http://url.com\n|disruption-class= vlam\n|risk-class= 待观察\n]]\n**特殊收容措施：**SCP-CN-2621应被就地收容，由Site-CN-44安保部门负责看守并在其范围2.5KM内设立警戒区，对于非授权人员进行驱逐。尸检前，SCP-CN-2621-2应被置于Site-CN-44的二级生物冷藏柜内，时刻观察其是否存在生命迹象，如发现项目有异常动作，应立刻报告Site-CN-44的安保部门并控制对象。\n\n[[include component:image-block\n| name=http://xiaxie.wikidot.com/local--files/start/scp-cn-2621\n| caption=SCP-CN-2621\n]]\n**描述：**SCP-CN-2621为两棵棕榈科棕榈属常绿乔木，位于海南省[已编辑]市，裸干高约7m，胸径约0.2m。SCP-CN-2621为中心周围半径30m内的人类会被转化为SCP-CN-2621-1。SCP-CN-2621-1对8~14岁的人类出现暴躁、易怒的症状。在受到项目影响3~18小时之内的人员消化系统将逐渐发生转化，使其无法消化除脂肪和蛋白质的一切食物。\n@@@@\n[[=]]\n[[[http://scp-wiki-cn.wikidot.com/scp-cn-2621/offset/01|检测到您现在访问的是旧版本，点此访问最新数据]]]\n[[/=]]",
+  "tags": [
+    "段落"
+  ],
+  "author": "Researcher Fxy",
+  "created_at": "2023-01-29T10:42:49+00:00",
+  "updated_at": "2023-12-31T14:57:02+00:00",
+  "rating": 0,
+  "_site": "scp-wiki-cn",
+  "_fullname": "fragment:scp-cn-2621-1"
+}

@@ -1,0 +1,13 @@
+{
+  "title": "Scp 2019 J 5",
+  "content": "[[=]]\n> ++ **[[size 160%]]##red|验证失败##[[/size]]**\n> +++ **新的验证码已生成**\n[[/=]]\n\n[[=image http://topia.wdfiles.com/local--files/shaggy-dog/captcha3.png style=\"width: 500px; border: solid 0px #000000; padding: 0px\"]]\n[[html]]\n<center>\n<font size=\"6\">\n<form>\n输入图中的两个单词：\n<input type=\"text\" name=\"Fname\">\n</form>\n</font>\n</center>\n[[/html]]\n\n[[=]]\n++ **[https://scp-wiki-cn.wikidot.com/scp-2019-j/offset/5 提交]**\n@@@@ @@@@\n@@@@ @@@@\n\n++ **[https://scp-wiki-cn.wikidot.com/scp-2019-j/offset/0 取消]**\n\n[[/=]]",
+  "tags": [
+    "段落"
+  ],
+  "author": "Ying_ZH",
+  "created_at": "2024-04-06T06:35:25+00:00",
+  "updated_at": "2024-04-06T06:36:36+00:00",
+  "rating": 0,
+  "_site": "scp-wiki-cn",
+  "_fullname": "fragment:scp-2019-j-5"
+}

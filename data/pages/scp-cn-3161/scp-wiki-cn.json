@@ -1,0 +1,19 @@
+{
+  "title": "SCP-CN-3161",
+  "content": "[[include :scp-wiki-cn:credit:start]]\n\n[[=]]\n**SCP-CN-3161 童话国**\n[[/=]]\n\n**作者：**[[*user ParticleV]]，[https://scp-wiki-cn.wikidot.com/particlev-s-personnel-profile 作者页链接]\n\n[[=]]\n//请听，我为你讲述的铁色童话。然后，小公主，逃吧，跟着经过的旅者，去看看皇宫以外的世界。//\n[[/=]]\n\n[[include :scp-wiki-cn:credit:end]]\n\n[[module ListPages category=\"fragment\" parent=\".\" limit=\"1\" order=\"name\" offset=\"@URL|0\"]]\n\n%%content%%\n[[/module]]\n\n[!--\n一代：https://scp-wiki-cn.wikidot.com/fragment:scp-cn-3161-01\n\n二代：https://scp-wiki-cn.wikidot.com/fragment:scp-cn-3161-02\n\n三代：https://scp-wiki-cn.wikidot.com/fragment:scp-cn-3161-03\n--]\n\n[[footnoteblock]]\n\n[[div class=\"footer-wikiwalk-nav\"]]\n[[=]]\n<< [[[SCP-CN-3160]]] | SCP-CN-3161 | [[[SCP-CN-3162]]] >>\n[[/=]]\n[[/div]]",
+  "tags": [
+    "euclid",
+    "scp",
+    "site-cn-12",
+    "原创",
+    "生物性",
+    "病毒",
+    "镜面闪点"
+  ],
+  "author": "ParticleV",
+  "created_at": "2025-03-14T16:02:50+00:00",
+  "updated_at": "2025-03-15T07:50:13+00:00",
+  "rating": 61,
+  "_site": "scp-wiki-cn",
+  "_fullname": "scp-cn-3161"
+}

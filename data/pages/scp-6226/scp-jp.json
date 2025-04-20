@@ -1,0 +1,20 @@
+{
+  "title": "SCP-6226",
+  "content": "[[include :scp-jp:theme:black-highlighter-theme]]\n[[include :scp-wiki:component:ratio-bar base=-- |ex=--]]\n\n[[include :scp-jp:credit:start-preview]]\n**タイトル:** 生き物プロフィール: エディ！\n**翻訳責任者:** [[*user C-Dives]]\n**翻訳年:** 2024\n**著作権者:** [[*user Tstaffor]]\n**原題:** Critter Profile: Eddie!\n**作成年:** 2022\n**初訳時参照リビジョン:** 7\n**元記事リンク:** [[[*https://scp-wiki.wikidot.com/scp-6226|ソース]]]\n[[include :scp-jp:credit:end-preview]]\n\n[[include :scp-wiki:component:author-label-source start=--\n|name=Tstaffor\n|no-right-margin=*]]\n= [*https://scp-wiki.wikidot.com/tstaffor-s-author-page 著者ページ] | [https://scp-wiki.wikidot.com/the-scip-squad-podcast-hub Podcast] | [[[http://scp-jp.wikidot.com/random:random-page|Feeling Lucky?]]]\n\n**Tstaffor傑作選:**\n* [[[SCP-6557]]] - Annihilation From a Cross Across Time\n* [[[SCP-5846]]] - The One-Stop Shop\n* [[[SCP-6547]]] - 世界の中にある世界の中にある世界の……\n[[include :scp-wiki:component:author-label-source end=--]]\n\n[[module ListPages  category=\"fragment\" parent=\".\" limit=\"1\" order=\"created_at\" offset=\"@URL|0\"]]\n%%content%%\n[[/module]]\n\n\n\n[[div style=\"display: none;\"]]\n[[include component:image-block\nname=https://scp-jp-storage.wdfiles.com/local--files/file%3A3995762-82-g3m7/rowboat.jpg\n|caption=YOU BETTER FIND THIS CROM!!!\n|width=100%\n|align=center]]\n[[/div]]\n\n[!-- http://www.scp-jp.wikidot.com/fragment:scp-6226-1 --]\n[!-- http://www.scp-jp.wikidot.com/fragment:scp-6226-2 --]",
+  "tags": [
+    "en",
+    "euclid",
+    "scp",
+    "ウィルソンズ・ワイルドライフ",
+    "ティム・ウィルソン",
+    "乗り物",
+    "水中",
+    "鳥類"
+  ],
+  "author": "C-Dives",
+  "created_at": "2024-05-19T09:33:32+00:00",
+  "updated_at": "2024-05-20T00:08:19+00:00",
+  "rating": 22,
+  "_site": "scp-jp",
+  "_fullname": "scp-6226"
+}

@@ -1,0 +1,14 @@
+{
+  "title": "info:more",
+  "content": "[[/div]]\n------\n[[div class=\"credit\" style=\"text-align:center; margin-top: 0.5em;\"]]\n[[a href=\"#u-credit-otherwise\"]]More information[[/a]]\n[[/div]]\n[!--\n\n[[=]]\n[[div [[iftags heritage]]style=\"display:block;position:relative;height:30px;margin-right:30px;\"[[/iftags]] class=\"Dendo\"]]\n[[div class=\"heritage-rating-module\"]]\n[[div class=\"heritage-emblem\"]]\n[[image http://scp-wiki.wdfiles.com/local--files/component:heritage-rating/scp-heritage-v3.png link=\"heritage-collection-arc\" style=\" max-width: none;\"]]\n[[/div]]\n[[module Rate]]\n[[/div]]\n[[/div]]\n[[div [[iftags heritage]]style=\"display:none;\"[[/iftags]]]]\n[[module Rate]]\n[[/div]]\n[[/=]]\n\n--]\n[[/div]]\n[[/div]]\n[[/div]]\n[[div id=\"credit-otherwise\"]]\n[[div class=\"fader\"]]\n[[iframe http://scp-jp-sandbox3.wdfiles.com/local--code/credit%3Abackmodule/3 ]]\n[[/div]]\n[[div class=\"modalcontainer\"]]\n[[div class=\"modalbox\"]]\n[[=]]\n++* More information\n[[/=]]\n------\n[[div class=\"credit otherwise\"]]",
+  "tags": [
+    "en",
+    "コンポーネント"
+  ],
+  "author": "YS_GPCR",
+  "created_at": "2019-11-17T04:29:44+00:00",
+  "updated_at": "2021-12-24T15:40:55+00:00",
+  "rating": 3,
+  "_site": "scp-jp",
+  "_fullname": "info:more"
+}

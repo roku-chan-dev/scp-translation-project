@@ -1,0 +1,14 @@
+{
+  "title": "저자 레이블",
+  "content": "[[iftags +구성요소]]\n[[>]]\n[[module rate]]\n[[/>]]\n\n[[include :scpko:component:author-label-source start=--\n|name=Ralliston과 Lt Flops?]]\n[[*user Ralliston]]이나 [[*user Lt Flops]]를 기대했겠지만 제작자는 바로 //저//, [[*user EstrellaYoshte]]였습니다!\n\n이건 제 작가 페이지입니다. [[[estrellayoshte|]]]\n\n여기에 저자나 작품 정보 여러가지를 입력할 수 있습니다.\n그리고 이 아래엔 자리표시용 텍스트도 채워뒀죠.\n\nCras sapien augue, condimentum et sollicitudin in, convallis quis nunc. Proin auctor magna in tortor ornare, in iaculis ligula sagittis. Maecenas eu cursus lorem, ultrices ultricies lorem. Nullam imperdiet placerat orci, id sagittis magna eleifend at. Mauris neque justo, feugiat sed convallis eget, aliquam ac tellus. Duis et sodales diam. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Pellentesque a dui sed turpis aliquam suscipit. Maecenas non purus nunc.\n\nNunc tincidunt nunc risus, at molestie libero vulputate non. Nam non odio tincidunt, pretium nisi placerat, aliquam magna. Nunc non gravida diam. Donec faucibus tortor pharetra massa efficitur, eget scelerisque mauris commodo. Praesent vulputate bibendum metus. Etiam ut ipsum a tellus pretium convallis.\n[[include :scpko:component:author-label-source end=--]]\n\n@@ @@\n\n[[div style=\"border: solid 2px #ededed; padding: 0.5rem; margin: 4px;\"]]\n이 구성요소는 평가 모듈 아래에 작은 드롭다운 메뉴로 열리는 저자 크레디트를 넣기 위해 디자인되었습니다.\n\n사용하려면 다음 구문을 붙여넣으세요.\n\n> @@[[>]]@@\n> @@[[module rate]]@@\n> @@[[/>]]@@\n>\n> @@[[include :scpko:component:author-label-source start=--@@\n> @@|name=Ralliston과 Lt Flops?]]@@\n> Ralliston이나 Lt Flops를 기대했겠지만 //여전히// 저, EstrellaYoshte였습니다!\n> @@[[include :scpko:component:author-label-source end=--]]@@\n\n[[[theme:black-highlighter-theme|블랙 하이라이터]]] 같은 테마와 함께 사용할 때 오른쪽 여백을 없애려면, 첫 번째 {{[[include]]}}에 부가 매개변수를 추가하세요.\n> @@[[include :scpko:component:author-label-source start=--@@\n> @@|name=여러분의 이름(들)이 들어갈 자리@@\n> @@|no-right-margin=*]]@@\n\n레이블을 가운데로 정렬하고 싶다면, 이 매개변수를 추가하세요.\n> @@[[include :scpko:component:author-label-source start=--@@\n> @@|name=여러분의 이름(들)이 들어갈 자리@@\n> @@|center=*]]@@\n\n@@ @@\n----\n@@ @@\n\n겹치는 문제가 발생하거나 상하 간격을 수동으로 맞추려면, 아래 구문을 통해 기본값에 덮어씌울 수 있습니다.\n\n> @@[[module CSS]]@@\n> .authorlink-wrapper {\n> @@    --author-top-adjust: -0.5rem;@@\n> @@    --author-bottom-adjust: -0.35rem;@@\n> }\n> @@[[/module]]@@\n\n지금 쓰여 있는 값은 기본 여백이고, 필요에 따라 늘리거나 줄이시면 됩니다.\n\n[[/div]]\n\n[[/iftags]]",
+  "tags": [
+    "en",
+    "구성요소"
+  ],
+  "author": "Denevola",
+  "created_at": "2021-08-15T09:08:48+00:00",
+  "updated_at": "2021-08-15T10:36:37+00:00",
+  "rating": 0,
+  "_site": "scpko",
+  "_fullname": "component:author-label"
+}

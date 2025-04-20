@@ -1,0 +1,16 @@
+{
+  "title": "项目计划书 2024-124：酷到毙",
+  "content": "[[module CSS]]\n\n.red {\n    float: center;\n    border: solid 2px #000000;\n    padding: 1px 15px;\n    margin: 10px;\n    box-shadow: 0 1px 3px rgba(0,0,0,.2);\n}\n\n.email {border: solid 2px #000000; width: 88%; padding: 1px 15px; margin: 25px; box-shadow: 0 1px 3px rgba(0,0,0,.5); float: center;}\n.tofrom {margin-left: 10px; margin-top: 5px; padding: 1px 15px; border-left: solid 3px maroon}\n\n[[/module]]\n\n\n[[div class=\"red\"]]\n[[=]]\n++ **__项目建议书2024-124：酷到毙__**\n[[/=]]\n**标题：**//酷到毙// Darren Yvris著\n**材料需求：**\n* 一具绞刑罪犯的尸体（我已经拥有）\n* 两根30cm长的铍青铜长杆（我只拥有一根）\n* 2000L的蜂蜡或石蜡\n* 一只成年公羊\n* 一把冥铁或寒铁仪式剑\n* 人血\n\n**摘要：**人血用于在尸体周围形成一道仪式圆圈。死尸应用蜡包裹且用两根铍青铜长杆夹住尸体的肩膀，仅于尸体两侧留出五厘米长。应在艺术家背诵如下咒语时用仪式剑将羊献祭：\n\n> = “愿死亡可被撤销，但罪无可撤销。愿该具尸体沾染执念与邪魔。汝之王国预兆将至。康乃馨之主，汝之敌人已然屈服。”\n\n若仪式正确完成，一道雷电将会击中金属长杆，且尸体会转化为一只能够杀死其自身半径3千米内的所有人且会继续杀戮至其影响范围内无活物为止的奇异深渊生物。\n\n**意图：**我是这种艺术活动的老鉴赏家。我已经研究过每一种让//Are We Cool Yet?//变成美妙事物的老旧又出名的东西了，包括著名的由狱卒捕获的//雕像//和由声名狼藉的我甚至不想提起名字的[[[gamers-against-weed-dossier|细胞分裂]]]制造的强力//米诺陶//。\n\n想象下上次爆炸的时候，我看到那些新来的艺术家展示的垃圾艺术作品时是有多震惊。打个比方，[[[project-proposal-2014-1221|终于醒来]]]是懒作的遗憾表现，与自AWCY?的起始纪元起创造出来的非凡事物格格不入，就是一个做出来给大众嘲笑的笑话。所以我问了问自己：这个活动是否正在消亡？\n\n所以我决定来创作我的第一个作品，爆炸后的最后一件艺术作品，以及，如果干得好的话，也是最后一件Are We Cool Yet?的艺术作品。一场可怕又危险的能够杀掉它旁边所有人且能最终展现出它的活动、它的深仇大恨、它的根源的全部力量的表演。酷到毙是反主流文化，可以遏制即将组织的活动，如果有必要得到话也许还能杀掉所有的活动。酷到毙是经典再临，是[[[SCP-1800|大卫·奥威尔]]]再临，是[[[SCP-3026|花匠]]]再临，甚至是[[[SCP-173|创造者]]]再临。酷到毙就是酷的重生。\n[[/div]]\n\n[[div class=\"email\"]]\n[[div class=\"tofrom\"]]\n**自：**批评家\n**至：**Darren Yvris\n**主题：**回复：酷到毙\n[[/div]]\n------\n小鬼，滚蛋吧。\n\n真的。\n\n**每一天**都能发生同样的事情。跟你一样的失败者想要“落叶归根”。我来说点大实话：Are We Cool Yet?是一个活**动**。**//我们会动//**。我们继续下去。我们转变自己。对，在那时，仅仅画个认知危害的画就能让你犯下大屠杀的罪行也确实很有趣且有理由，但是现在事情不一样了。那些东西老套又平庸了，我们想要点新东西、新激励、新意向、新态度。如果你和你那破开帷幕的观谬维基朋友只是在错误的时间不小心进入了错误的地点而现在在帷幕的这一边还想玩你的//杀人怪物//游戏，那你自己玩吧。\n\n还有，你这种初来乍到的人是不可能做这种仪式的，小鬼。你会在施法结束之后融成一滩肉泥。\n[[/div]]\n@@ @@\n[[collapsible show=\"                          \" hide=\"- 有些人得学会消停点……\"]]\n[[include component:image-block\n| name=http://scp-wiki.wdfiles.com/local--files/project-proposal-2024-124/ew.png\n| caption=……并且开始理解批评。\n| align=center\n]]\n[[/collapsible]]\n@@ @@\n[[include :scp-wiki-cn:component:license-box]]\n=====\n> **文件名：**ew.png\n> **图像作者：**[[*user Impperatrix]]\n> **授权协议：**CC BY-SA 3.0\n> **衍生自：**\"Hackfleisch-1\" & \"090117-F-5618N-013\"\n> **备注：**由[https://www.flickr.com/photos/jontintinjordan/ jontintinjordan]所著的[https://www.flickr.com/photos/25414047@N00/8155231274 \"lost shoe\"]授权于CC BY 2.0之下。[https://commons.wikimedia.org/wiki/File:Hackfleisch-1.jpg \"Hackfleisch-1\"]授权于CC BY-SA 3.0之下。\n=====\n[[include :scp-wiki-cn:component:license-box-end]]",
+  "tags": [
+    "_are-we-cool-yet",
+    "are-we-cool-yet",
+    "goi格式",
+    "批评家"
+  ],
+  "author": "hoah2333",
+  "created_at": "2021-03-05T13:12:49+00:00",
+  "updated_at": "2024-06-30T11:05:08+00:00",
+  "rating": 2,
+  "_site": "scp-wiki-cn",
+  "_fullname": "project-proposal-2024-124"
+}

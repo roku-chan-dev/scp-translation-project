@@ -1,0 +1,13 @@
+{
+  "title": "作者标签",
+  "content": "[[iftags +组件]]\n[[>]]\n[[module rate]]\n[[/>]]\n\n[[include :scp-wiki-cn:component:author-label-source start=--\n|name=Ralliston & Lt Flops?]]\n你以为是 [[*user Ralliston]] 或者 [[*user Lt Flops]] 写的，但其实是//我//，[[*user EstrellaYoshte]]！\n这是我的作者页：[[[estrellayoshte|]]]\n\n你可以在这里放一大堆作者信息和文章信息。\n以及一大堆占位文本：\n\n我觉得你说的对，但是我要补充一下，首先袋鼠的祖先是一条长颈鹿，而火星表面并没有任何关于鸭嘴兽生活的痕迹，所以我并不认可湖南人不能吃辣的问题。其次亚特兰蒂斯是在公元前十二年在赛博坦星球被来自m78星云来的假面骑士给毁灭的，所以才有了后面著名的通古斯大爆炸，但是答案是紫色的，因为外星人不戴帽子，今天下雨生吃冰箱会降火，而且把手机丢到麻辣烫里的话会更入味，另外依古比古的毛毯好像是红色的，这事也不能全怪葫芦娃，毕竟数学不好也不是一个人的事，需要夫妻双方一起努力那样就算不成功，房顶也最少能放三张大饼，再多就很辣了!总的来说，我个人还是比较喜欢川菜的，当然也不介意去游个泳，这个季节最适合睡觉，因为我在美国的飞机上，而你却在火星上面打袋鼠！\n\n可是这篇文章所描述的，并不是外星人能否扎辫子。所以你所说的微博其实是对的，但是我只想说：乌拉圭的石油在医院里面真的很吃香。我作为一个地地道道的非洲白人对于理智的疯子来说，我的秘密是不能告诉新西兰的猩猩的，所以你会觉得我很菜吗？你绝对会，因为昨天的猪头剃了个光头。但其实真正导致这个问题的起源是gta5很贵，我认为这个价钱可能跟你的哥哥没有关系，因为老鼠把我的鼻屎吃了，你能理解吗？我最开始为什么不认可你。但是有一说一酸奶烘焙健康早餐不好吃，因为微积分的小数点变成了句号，而我旁边的猴子是金猴因此它的手里拿了唢呐。\n\n你的观点大体上是没错的，但是你没考虑到刚果的总统是黑人。总而言之这个和你的作息有关，你可以试一试把新鲜的带鱼放在头上。我的手机要没电了，这并不影响加拿大的冰。我喝的是美味的芜湖江水，因此美国的总统是萨科而且蒙古的海军十分强大，我认为我的逻辑没有问题因为罗技是个大牌子。严肃来说根据刑法第114514条的规定，我的窗帘已经拉开了。总而言之：言而总之：爱迪生真的不会说英语。你还违背了猎豹的拇指定律因为猩猩的体毛是电脑形状的，你不在乎，你只在乎你自己。\n[[include :scp-wiki-cn:component:author-label-source end=--]]\n\n@@ @@\n\n[[div style=\"border: solid 2px #ededed; padding: 0.5rem; margin: 4px;\"]]\n这是一个设计于将作者的著作信息模块放置在评分模块的下方，并可展开一个小型下拉菜单的组件。\n\n若需使用，添加以下语法：\n\n> @@[[>]]@@\n> @@[[module rate]]@@\n> @@[[/>]]@@\n> \n> @@[[include :scp-wiki-cn:component:author-label-source start=--@@\n> @@|name=Ralliston & Lt Flops?]]@@\n> 你以为是 Ralliston 或者 Lt Flops，但是//还是//我，EstrellaYoshte！\n> @@[[include :scp-wiki-cn:component:author-label-source end=--]]@@\n\n若需与如[[[theme:black-highlighter-theme|]]]等版式共同使用，则需取消右外边距，只需在上面的 {{[[include]]}} 后额外加入一个参数：\n> @@[[include :scp-wiki-cn:component:author-label-source start=--@@\n> @@|name=此处放你（们）的名字@@\n> @@|no-right-margin=*]]@@\n\n如果你想将标签居中，那么可以加上这个参数：\n> @@[[include :scp-wiki-cn:component:author-label-source start=--@@\n> @@|name=此处放你（们）的名字@@\n> @@|center=*]]@@\n\n@@ @@\n----\n@@ @@\n\n如果你遇到重叠问题或者想要手动调节顶部与底部的间距，可以使用以下语句覆盖正常的值：\n\n> @@[[module CSS]]@@\n> .authorlink-wrapper {\n> @@    --author-top-adjust: -0.5rem;@@\n> @@    --author-bottom-adjust: -0.35rem;@@\n> }\n> @@[[/module]]@@\n\n上写的是默认外边距，你可以随自己所需增大或减少该值。\n\n[[/div]]\n[[/iftags]]",
+  "tags": [
+    "组件"
+  ],
+  "author": "hoah2333",
+  "created_at": "2021-08-15T05:59:45+00:00",
+  "updated_at": "2021-09-07T02:12:24+00:00",
+  "rating": 11,
+  "_site": "scp-wiki-cn",
+  "_fullname": "component:author-label"
+}

@@ -1,0 +1,13 @@
+{
+  "title": "Darkartists Sciptember Hub 8",
+  "content": "[[include theme:black-highlighter-theme]]\n[[include :scp-wiki:component:bhl-dark-sidebar]]\n\n[[=]]\n[[module Rate]]\n[[/=]]\n[[include :scp-wiki:component:author-label-source start=--\n|name=TheDarkArtist\n|center=*]]\nWhen the doctor is rockefeller \n[[include :scp-wiki:component:author-label-source end=--]]\n----\n\n[[include component:image-block name=rockefeller.png|align=center|width=100%|caption=A caricature of SCP-5648, drawn by Agent Matsumura's child.]]\n\n[[div class=\"footer-wikiwalk-nav\"]]\n[[=]]\n« [https://scp-wiki.wikidot.com/art:darkartists-sciptember-hub/offset/7 PRIOR] | [[[art:darkartists-sciptember-hub|HOME]]] | [https://scp-wiki.wikidot.com/art:darkartists-sciptember-hub/offset/9 NEXT] >>\n[[/=]]\n[[/div]]",
+  "tags": [
+    "fragment"
+  ],
+  "author": "TheDarkArtist",
+  "created_at": "2022-09-16T16:02:53+00:00",
+  "updated_at": "2022-09-18T11:31:26+00:00",
+  "rating": 0,
+  "_site": "scp-wiki",
+  "_fullname": "fragment:darkartists-sciptember-hub-8"
+}

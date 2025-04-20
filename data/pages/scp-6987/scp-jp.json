@@ -1,0 +1,24 @@
+{
+  "title": "SCP-6987",
+  "content": "@@ @@\n@@ @@\n[[div style=\"display: none;\"]]\n[[=]]\n[[include component:image-block name=http://scp-jp-storage.wdfiles.com/local--files/file:2081491-166-j2zx/logo.png|caption=.|width=100%|align=center]]\n[[/=]]\n[[/div]]\n[[>]]\n[[module Rate]]\n[[/>]]\n\n[[include :scp-wiki:component:author-label-source start=--\n|name=LORDXVNV]]\n= **SCP-6987** by [[*user LORDXVNV]]\n[[=]]\n**[[[LORDXVNV]]]の著者ページ**\n[[/=]]\n[[include :scp-wiki:component:author-label-source end=--]]\n\n[[module ListPages category=\"fragment\" parent=\".\" limit=\"1\" order=\"created_at\" offset=\"@URL|0\"]]\n%%content%%\n[[/module]]\n\n[!--\nhttps://scp-jp.wikidot.com/fragment:scp-6987-0\nhttps://scp-jp.wikidot.com/fragment:scp-6987-1\nhttps://scp-jp.wikidot.com/fragment:scp-6987-2\nhttps://scp-jp.wikidot.com/fragment:scp-6987-3\nhttps://scp-jp.wikidot.com/fragment:scp-6987-4\n--]\n\n[[footnoteblock]]\n\n[[module CSS]]\n.authorlink-wrapper {\n    --author-top-adjust: .5rem;\n}\n[[/module]]",
+  "tags": [
+    "en",
+    "esoteric-class",
+    "k-クラスシナリオ",
+    "scp",
+    "ゴールドベイカー・ラインツ",
+    "シェルドン・カッツ",
+    "メタ",
+    "世界オカルト連合",
+    "予知",
+    "交換",
+    "企業",
+    "法律"
+  ],
+  "author": "FattyAcid",
+  "created_at": "2023-04-18T14:13:09+00:00",
+  "updated_at": "2025-02-10T23:13:01+00:00",
+  "rating": 67,
+  "_site": "scp-jp",
+  "_fullname": "scp-6987"
+}

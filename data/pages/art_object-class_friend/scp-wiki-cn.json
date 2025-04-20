@@ -1,0 +1,14 @@
+{
+  "title": "项目等级：朋友",
+  "content": "[[include :scp-wiki:theme:black-highlighter-theme]]\n[[include :scp-wiki:theme:jakstyle]]\n\n[[div class=\"crom-thumbnail\" style=\"display: none;\"]]\n[[include component:image-block name=friend-7501.png]]\n[[/div]]\n\n@@ @@\n\n\n[[image http://scp-wiki.wikidot.com/local--files/art:object-class:friend/friend-7501.png]]\n\n@@ @@\n@@ @@\n@@ @@\n\n**一艘孤舟，像SES-42一样漂流。这并非太空垃圾，而是一个，不知从哪儿突然冒出来的完全人造的物体。**\n\n@@ @@\n@@ @@\n@@ @@\n@@ @@\n[[collapsible show=\"更多来自fairydoctor的作品\" hide=\"关闭！\"]]\n__SCPs__:\n\n[[module ListPages created_by=\"fairydoctor\" separate=\"no\" tags=\"scp, -joke\" perPage=\"2\" order=\"created_at\" prependLine=\"||~ SCP ||~ 创建者 ||~ 评分 ||~ 讨论 ||~ 篇幅 ||\"]]\n|| %%title_linked%% || %%created_at%% || %%rating%% || %%comments%%  || %%size%% ||\n[[/module]]\n\n\n__基金会故事__:\n\n[[module ListPages created_by=\"fairydoctor\" separate=\"no\" tags=\"tale\" perPage=\"2\" order=\"created_at\" prependLine=\"||~ SCP ||~ 创建者 ||~ 评分 ||~ 讨论 ||~ 篇幅 ||\"]]\n|| %%title_linked%% || %%created_at%% || %%rating%% || %%comments%%  || %%size%% ||\n[[/module]]\n[[/collapsible]]\n\n@@ @@",
+  "tags": [
+    "交换艺术",
+    "艺术作品"
+  ],
+  "author": "Dr Roger_F_XL",
+  "created_at": "2022-12-29T08:23:22+00:00",
+  "updated_at": "2022-12-29T08:29:11+00:00",
+  "rating": 9,
+  "_site": "scp-wiki-cn",
+  "_fullname": "art:object-class:friend"
+}

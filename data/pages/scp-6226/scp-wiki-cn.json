@@ -1,0 +1,19 @@
+{
+  "title": "SCP-6226",
+  "content": "[[include :scp-wiki-cn:theme:black-highlighter-theme]]\n\n[[include :scp-wiki-cn:component:author-label-source start=--\n|name=Tstaffor\n|no-right-margin=*]]\n= [[[tstaffor-s-author-page|作者页]]] | [[[the-scip-squad-podcast-hub|播客]]] | [[[https://scp-wiki.wikidot.com/random:random-page|试试手气？]]]\n\n**Tstaffor的最佳作：**\n* [[[SCP-6557]]] - 跨时间十字引起的覆灭\n* [[[SCP-5846]]] - The One-Stop Shop\n* [[[SCP-6547]]] - Worlds Within Worlds Within Worlds...\n[[include :scp-wiki-cn:component:author-label-source end=--]]\n\n[[module ListPages  category=\"fragment\" parent=\".\" limit=\"1\" order=\"created_at\" offset=\"@URL|0\"]]\n%%content%%\n[[/module]]\n\n[[div class=\"footer-wikiwalk-nav\"]]\n[[=]]\n<< [[[SCP-6225]]] | SCP-6226 | [[[SCP-6227]]] >>\n[[/=]]\n[[/div]]\n----\n[[div]]\n[[=]]\n[[include :scp-wiki-cn:component:license-box\nauthor=Tstaffor]]\n=====\n[[<]]\n> **文件名：**duckboat.jpg\n> **图像名：**Rockport rowboat.jpg\n> **图像作者：**peachoftree\n> **授权协议：**CC BY-SA 3.0\n> **来源链接：***https://commons.wikimedia.org/wiki/File:Rockport_rowboat.jpg\n[[/<]]\n=====\n[[<]]\n> **文件名：**pond.jpg\n> **图像名：**Fenced Pond - geograph.org.uk - 69202.jpg\n> **图像作者：**Keith Williamson\n> **授权协议：**CC BY-SA 2.0\n> **来源链接：***https://commons.wikimedia.org/wiki/File:Fenced_Pond_-_geograph.org.uk_-_69202.jpg\n[[/<]]\n=====\n[[include :scp-wiki-cn:component:license-box-end]]\n[[/=]]\n[[/div]]\n\n[[div style=\"display: none;\"]]\n[[include component:image-block\nname=http://scp-wiki.wdfiles.com/local--files/scp-6226/duckboat.jpg\n|caption=YOU BETTER FIND THIS CROM!!!\n|width=100%\n|align=center]]\n[[/div]]\n\n[!-- http://www.scp-wiki-cn.wikidot.com/fragment:scp-6226-1 --]\n[!-- http://www.scp-wiki-cn.wikidot.com/fragment:scp-6226-2 --]",
+  "tags": [
+    "euclid",
+    "scp",
+    "威尔逊野生动物",
+    "提姆·威尔逊",
+    "水生",
+    "载具",
+    "鸟类"
+  ],
+  "author": "Esperanza_Cai",
+  "created_at": "2021-09-12T08:20:29+00:00",
+  "updated_at": "2024-05-18T19:00:45+00:00",
+  "rating": 7,
+  "_site": "scp-wiki-cn",
+  "_fullname": "scp-6226"
+}

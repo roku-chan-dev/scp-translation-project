@@ -1,0 +1,17 @@
+{
+  "title": "SCP-1444",
+  "content": "[[div style=\"text-align: right; margin-right: 2em; margin-top: -20px;\"]]\nby [[[stormbreath]]]\n[[/div]]\n\n[[include component:image-block name=https://scp-wiki.wdfiles.com/local--files/scp-1444/cave.jpg|caption=SCP-1444的主入口。]]\n\n**项目编号：**SCP-1444\n\n**项目等级：**Euclid\n\n**特殊收容措施：**SCP-1444周围地区已被基金会收购，掩盖措施为自然保护区。已建立前哨-1444用于监测SCP-1444。\n\n前哨-1444的主要任务为防止未经授权的人员访问SCP-1444。作为预防措施，它也负责守卫SCP-1444的入口，以防止异常实体从其内部出现。\n\n前哨-1444需监测任何SCP-1444发出的电子信号。需记录、上传并忽略任何监测到的信号。\n\n||**更新：**由于最近的事件，关于SCP-1444更深入的探索计划将被无期限搁置。 _\n _\n此外，本文档的**特殊收容措施**已更新，但**描述**仍等待修订。 _\n _\n//- SCP-1444的HMCL主管Kaisa Jarvinen博士//||\n\n**描述：**SCP-1444是芬兰北博腾区的一个冰洞。SCP-1444内部的地形和空间不稳定，易扰动改变。SCP-1444收容着极多特征易变的异常微生物，记录为SCP-1444-1X。\n\n基金会目前仅组织了三次进入SCP-1444的探索。关于SCP-1444的信息皆来自这些探索，但这些信息具有认知危害。参见**SCP-1444记录抄本**以获取更多信息。\n\nSCP-1444在I/O-BEHOLDER将2013年五月的Oulu报纸上一篇关于受伤徒步者的文章标记为可疑后发现。这个故事与之前涉及“怪物洞穴”的文章进行了对比并被认为有高概率的异常活动。\n\n2013年五月的文章详细描述了三位徒步者的失踪和徒步队的第四名成员的康复情况。发现这名幸存的徒步者时，她有严重的失温和颅脑外伤。这名徒步者作证说，她的徒步队躲在一个山洞里，在掉进裂缝后被困住。\n\n幸存的徒步者没有掉进裂缝并报告说听到了其他徒步队成员和不明生物的尖叫声。在未能找到安全下降到裂缝中的通道后，幸存的徒步者逃离了洞穴并在不久后被找到。\n\n一名采访人员被派去进一步调查，但不幸的是，被提供的记忆删除和吐真言剂[[footnote]] **译注：**原文为veritant，作者描述为“让人说实话的药物”。 [[/footnote]]的标签是错误的。结果，幸存徒步者的记忆变得不完整，得到的信息中唯一有用的证词是洞穴的位置。\n\n**SCP-1444记录抄本：**\n**[[[scp-1444-exploration-log-1|探索记录：D-1820和D-3749]]]**\n**[[[scp-1444-exploration-log-2|探索记录：PTF Thorn-2]]]**\n**[[[scp-1444-rescue-log|救援记录：MTF Zeta-9]]]**\n**[[[scp-1444-debriefing-log|汇报记录：Z-9 Towers]]]**\n\n[[footnoteblock]]\n\n[[div class=\"footer-wikiwalk-nav\"]]\n[[=]]\n<< [[[SCP-1443]]] | SCP-1444 | [[[SCP-1445]]] >>\n[[/=]]\n[[/div]]\n\n[[include :scp-wiki-cn:component:license-box\n|author=stormbreath\n|translator=invisibility\n]]\n=====\n> **文件名：**cave.jpg\n> **名字：**Fox glacier\n> **作者：**Michael Rodgers\n> **协议：**Creative Commons Attribution-Share Alike 3.0 Unported\n> **来源：**[[[https://commons.wikimedia.org/wiki/File:Fox_glacier.jpg|Wikimedia]]]\n=====\n[[include :scp-wiki-cn:component:license-box-end]]",
+  "tags": [
+    "euclid",
+    "scp",
+    "地点",
+    "地质",
+    "生物性"
+  ],
+  "author": "invisibility",
+  "created_at": "2022-07-20T01:00:13+00:00",
+  "updated_at": "2022-09-05T14:30:47+00:00",
+  "rating": 2,
+  "_site": "scp-wiki-cn",
+  "_fullname": "scp-1444"
+}

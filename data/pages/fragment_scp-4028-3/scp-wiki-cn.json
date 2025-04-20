@@ -1,0 +1,13 @@
+{
+  "title": "SCP-4028-3",
+  "content": "[[include component:image-block name=http://scp-wiki.wdfiles.com/local--files/fragment:scp-4028-3/windmill.png|caption=临时站点-4028附近的风车。]]\n\n**项目编号：**SCP-4028\n\n**项目等级：**Euclid\n\n**特殊收容措施：**基金会已通过空壳公司将受SCP-4028影响的土地收购，编为临时站点-4028。两名基金会人员应随时驻守，对地产内的风力涡轮进行维护。受损风轮应被立即修复。 \n\n如有需要，基金会人员将为这些损伤提供掩盖故事，将其解释为当地居民长期实施的恶作剧。\n\n**描述：**SCP-4028是反复发生于拉曼恰地区（西班牙中部一处肥沃但干旱的平原）一片区域（面积约0.3平方公里）的异常现象。此地区内的风车和风轮会定期被两名无形攻击者攻击而出现故障。阻止或干预此现象的尝试目前已证实完全无效。\n\n此现象背后的动机或原因仍然未确定。[[footnote]]好吧@@...@@它们可能是巨人。[[/footnote]]\n[[=]]\n\n@@ @@\n\n//##white|\"¡Non fuyades, cobardes y viles criaturas, esos dos caballeros son los que te van a atacar!\"##//\n\n[[/=]]\n\n[[module css]]\n.footnotes-footer { \ndisplay:none;\n}\n[[/module]]\n\n[[footnoteblock]]",
+  "tags": [
+    "段落"
+  ],
+  "author": "W Asriel",
+  "created_at": "2018-08-30T07:35:11+00:00",
+  "updated_at": "2024-04-29T04:04:52+00:00",
+  "rating": 1,
+  "_site": "scp-wiki-cn",
+  "_fullname": "fragment:scp-4028-3"
+}

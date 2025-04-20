@@ -1,0 +1,13 @@
+{
+  "title": "你们得以行在光明中",
+  "content": "[[include theme:black-highlighter-theme]]\n[[module CSS]]\nsup {\nvertical-align: top; position: relative; top: -0.5em;\n}\n:root{\n--cutColour: #fafafa;\n--barColour: #590505;\n}\n\n.info-container .collapsible-block-folded a{\ncolor: #FFF;}\n.info-container .collapsible-block-unfolded-link a{\ncolor: #FFF;}\n\n.translation_block{\ndisplay:none;}\n[[/module]]\n[[module css]]\n#side-bar {\n    background: rgb(var(--white-monochrome));\n}\n\n#side-bar div.menu-item a, #side-bar div.menu-item .text {\n    color: rgb(var(--black-monochrome));\n}\n\n#side-bar>div:nth-child(5) {\n    background-color: rgba(var(--dark-accent),0.25)!important;\n}\n[[/module]]\n\n> 尊敬的雅各布斯女士：\n> \n> 今日，我正怀着我最深切的惋惜和遗憾给您写这封信。您的儿子米基在我的指挥下执行任务时不幸身亡。对于任何一对父母来说失去孩子都是令人难受的。然而，您应该知道，米基·雅各布斯特工是我所带领过最优秀的人之一。\n> \n> 米基尽职且温和；脸上时常带着平易近人的笑容。他曾在多个场合提起，这笑容来自于您。然而，他的逝去对我们的影响只能是您现在不得不经历的一小部分。\n> \n> 他对于奉献的荣誉感和自我牺牲的原则充斥在他生活中的方方面面。而导致他死亡的正是最高等的自我牺牲。他所留给我的，是竭诚奉献的荣誉信念，正是这种荣誉感要求我真实地重述导致他逝世的事件。\n> \n> 首先，坦率来讲：您的儿子并不是在一家木材公司当保安，他是一位英雄。\n> \n> 今年8月18日，您的儿子驻扎在我们组织地处南阿拉巴马州的一处设施内，我们的某个高风险扇区发生了一起安保突破事件，您的儿子和他所属的小队被派往阻止威胁。当他带头走在这个七人小队最前面时，一道自动门将他密闭在设施当中，使他失去了与团队的联系。\n> \n> 在没有支援和稳定通信的情况下，您的儿子向危险区域继续前进，为处于一个较低楼层的安保人员提供了火力支援。然后，他接受了站点主管的任务，从站点中游荡的怪物手中拯救几名研究人员。\n> \n> 他在对这些研究人员的最终救援过程中遇难。由于您儿子的付出，我们当中最为优秀的十几名人才得以生还。\n> \n> 我不能一同感受您从此刻开始所要经受的悲伤，但要知道您儿子的死亡并非徒劳，所有认识他的人将铭记，他是一位勇敢，尽职，高尚的英雄。\n> \n> 向您致以崇高的敬意与真诚的追思，乔纳森·布拉德利特工\n\n-----\n\n> [[size 120%]]SITE-88信息安全AI检测到对机密资料的散布企图\n> \n> 拦截，重定向，并将机密信息替换为经认证的掩盖故事\n> \n> 乔纳森·布拉德利特工因该企图遭到谴责[[/size]]\n\n-----\n\n> 尊敬的雅各布斯女士：\n> \n> 内附米基·雅各布斯的剩余遣散费，由于您被列为雅各布斯先生的紧急联系人，我们相信您将代替我们汇款给他。\n> \n> 应当指出，尽管雅各布斯先生近期存在包括药物滥用与无故失踪等诸多问题，但若他返回，我方随时愿意提供康复服务。\n> \n> 感谢您的时间。\n> \n> 南斜径松木场[[footnote]]**译注：**Southern Crosscut Pines，旧译南石门松木场，应为误解。[[/footnote]]，安保主管乔纳森·布拉德利",
+  "tags": [
+    "故事"
+  ],
+  "author": "Freedom Koo",
+  "created_at": "2018-04-18T12:23:06+00:00",
+  "updated_at": "2024-04-20T13:13:45+00:00",
+  "rating": 22,
+  "_site": "scp-wiki-cn",
+  "_fullname": "we-die-in-the-dark"
+}

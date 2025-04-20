@@ -1,0 +1,15 @@
+{
+  "title": "どこへ行こうか",
+  "content": "[[>]]\n[[module Rate]]\n[[/>]]\n\n[[include component:image-block\n|name=dourokutsu.png\n|caption=少しずれてもいいじゃないか\n]]\n\nタイトル: PHOTO-005-JP\n\n補遺:一時期道に落ちている靴の写真を撮る趣味がありました。\nこれはその中のベストショットです。",
+  "tags": [
+    "jp",
+    "フォトコンテスト",
+    "フォト作品"
+  ],
+  "author": "darumaboy",
+  "created_at": "2014-07-02T08:40:53+00:00",
+  "updated_at": "2021-01-10T15:55:31+00:00",
+  "rating": 41,
+  "_site": "scp-jp",
+  "_fullname": "photo5"
+}

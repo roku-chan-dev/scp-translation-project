@@ -1,0 +1,21 @@
+{
+  "title": "SCP-6696",
+  "content": "[[include :scp-jp:theme:black-highlighter-theme]]\n[[include :scp-jp:component:bhl-dark-sidebar]]\n[[include :scp-jp:component:acs-animation]]\n[[include :scp-wiki:component:centered-header-bhl]]\n[[module CSS]]\n.note {\n background: url(http://scp-wiki.wdfiles.com/local--files/the-great-hippo/SCP_icon%281%29.png) top\n right no-repeat;\n color: black;\n letter-spacing: 0.02em;\n float: center;\n border: solid 1px #000000;\n padding: 25px 35px 35px 35px !important;\n box-shadow: 0 1px 3px rgba(0,0,0,.2);\n width: 74%;\n margin: 2% 4% 4% 4%;\n}\n\n\ntable.wiki-content-table td {\npadding: 12px;\n}\n\n[[/module]]\n\n[[>]]\n[[module rate]]\n[[/>]]\n\n[[include :scp-wiki:component:author-label-source start=--\n|name=Vivarium]]\n[[=]]\nどうも！ 私の他の作品も読んでいったほうがいいでしょう…… 別に読まなくても構いませんよ！\n私はあなたの上司ではないので、お好きにどうぞ！\n\n**[http://scp-wiki.wikidot.com/vivarium-s-word-hole Vivariumの作品をもっと見る]**\n[[/=]]\n[[include :scp-wiki:component:author-label-source end=--]]\n[[include :scp-jp:component:anomaly-class-bar-source |item-number=6696 |clearance=2 |container-class=euclid |secondary-class= |secondary-icon= |disruption-class=vlam |risk-class=warning]]\n-----\n[[div class=\"scp-image-block block-center\" style=\"width:100%;\"]]\n[[image http://scp-jp-storage.wikidot.com/local--files/file:3324351-63-77x2/Teeth.jpeg style=\"width:100%;\" link=#]]\n[[div class=\"scp-image-caption\" style=\"width:100%;\"]]\n{{図.1.}} SCP-6696の外観。\n[[/div]]\n[[/div]]\n\n-----\n**特別収容プロトコル:** SCP-6696の周辺一帯は隔離され、報道陣にはこのエリアがアスベストとカビ汚染を理由に立ち入り禁止に指定されていると知らせます。SCP-6696-A実体は補強鋼製のケージに誘い込んだ上でサイト-576へと輸送し、当サイトの標準敵対的ヒト型実体収容セルに移送します。罠となる餌にはヒトの歯が用いられ、収容スペシャリストには、SCP-6696-A実体の視界にいる間は顔面を覆う頭部保護用ヘッドギアを着用するよう指示されます。\n\n**説明:** SCP-6696はワイオミング州セールスバークに所在する歯科医院に対する指定です。2022年4月2日、この建物は突然の現実改変による揺らぎの影響を受け、その場所一帯と、当時建物内にいた人々が恒久的に改変されました。この事象の結果として、24名の民間人がSCP-6696-A実体へと変化しました。\n\n機動部隊シグマ-12 (\"ドクター・フィールグット\") による調査から、SCP-6696の内部は外部から見受けられる以上に広く、中の部屋は壁が幾何学的な構造へとひどく変形しており、大抵は進入が不可能になっていると判明しています。他に特筆すべき変化として、照明設備の明るさが700〜1300ルーメンである点や、機器が様々な拷問器具に置き換わっている点、ヒトの肉や歯が壁に飾り付けられている点などが挙げられます。\n\nSCP-6696内にはSCP-6696-Aとして指定されたヒト型実体が存在しており、いずれも医師や看護師が主に着用する衣装を身に付けています。実体の肉体はほとんどが象牙質・エナメル質・セメント質に置換されています。実体はまた、通常であれば指があるべき箇所に、歯科用器具に類似した骨のような突出部があります。SCP-6696-A実体の視界に対象となるヒトがいる場合、その実体は対象を強引に抑えつけ、口腔検査を実施します。大抵の場合、この検査は口内や口腔に重大な損傷が及ぶものです。対象から全ての歯が抜かれると、実体は攻撃を停止します。\n\n敷地内の初期調査中、機動部隊シグマ-12 (\"ドクター・フィールグット\") は周辺区域と比較して異様に高いヒューム値を示す小児の死体を発見しました。同じ部屋からは、\"Dr. Toothy\" という擬人化された歯を描写した、小児に親知らずを抜くよう勧めるポスターも発見されました。ポスターは現実改変による揺らぎの影響をほとんど受けていませんでした。",
+  "tags": [
+    "en",
+    "euclid",
+    "scp",
+    "人間型",
+    "変容",
+    "建造物",
+    "敵対的",
+    "歯",
+    "現実改変"
+  ],
+  "author": "walksoldi",
+  "created_at": "2022-07-09T09:02:42+00:00",
+  "updated_at": "2022-07-09T09:27:33+00:00",
+  "rating": 19,
+  "_site": "scp-jp",
+  "_fullname": "scp-6696"
+}

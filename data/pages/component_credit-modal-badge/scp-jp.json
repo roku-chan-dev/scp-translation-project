@@ -1,0 +1,15 @@
+{
+  "title": "クレジットモーダル用バッジ",
+  "content": "[[div_ class=\"optionalbadge {$name}\"]]\n[[image https://scp-jp-storage.wdfiles.com/local--files/file%3A3438721-114-z4ps/usaidan.svg class=\"odango2021\" link=\"http://scp-jp.wikidot.com/pile-up-dumplings-2021\"]]\n[[image https://scp-jp-storage.wdfiles.com/local--files/file%3A2577572-285-hkyb/gekkahyojin.svg class=\"matchmaking2021\" link=\"http://scp-jp.wikidot.com/matchmaking2021\"]]\n[[image https://scp-jp-storage.wdfiles.com/local--files/file%3A3438721-271-bicn/overhaul.svg class=\"overhaul\" link=\"http://scp-jp.wikidot.com/overhaul-campaign\"]]\n[[image https://scp-jp-storage.wdfiles.com/local--files/file%3A3438721-276-um73/overlord.svg class=\"overlord\" link=\"http://scp-jp.wikidot.com/overlord-campaign\"]]\n[[image https://scp-jp-storage.wdfiles.com/local--files/file%3A3438721-287-9fqx/overbuild.svg class=\"overbuild\" link=\"http://scp-jp.wikidot.com/overbuild-campaign\"]]\n[[/div]]\n[[module css]]\n.optionalbadge{\n  position: absolute;\n  bottom: 0;\n  left: 12.5%;\n  z-index: 1;\n}\n#page-content .optionalbadge img {\n  display: none;\n}\n#page-content .optionalbadge.odango2021 img.odango2021,\n#page-content .optionalbadge.matchmaking2021 img.matchmaking2021,\n#page-content .optionalbadge.overhaul img.overhaul,\n#page-content .optionalbadge.overlord img.overlord,\n#page-content .optionalbadge.overbuild img.overbuild {\n  display: unset;\n  width:auto;\n  height:45px;\n  top:-10px;\n  position: relative;\n}\n[[/module]]",
+  "tags": [
+    "jp",
+    "コンポーネント",
+    "管理"
+  ],
+  "author": "Mishary",
+  "created_at": "2021-08-01T09:02:11+00:00",
+  "updated_at": "2023-10-01T10:21:21+00:00",
+  "rating": 12,
+  "_site": "scp-jp",
+  "_fullname": "component:credit-modal-badge"
+}

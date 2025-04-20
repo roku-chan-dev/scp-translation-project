@@ -1,0 +1,17 @@
+{
+  "title": "SCP-7128",
+  "content": "[[div style=\"display: none;\"]]\n[[include component:image-block name=https://scp-wiki.wdfiles.com/local--files/scp-7128/MrSpooner.jpg|caption=.]]\n[[/div]]\n\n[[include component:image-block\n    name=https://scp-wiki.wdfiles.com/local--files/scp-7128/RCAFspoon.jpg|\n    caption=SCP-7128-9 |\n    width=300px|\n    align=right|\n]]\n\n**项目编号：**SCP-7128\n\n**项目等级：**Safe\n\n**特殊收容措施：**SCP-7128个体将被存放于单独的衬垫餐具匣中，位于Site-43低产出项目存储设施1号内。必须谨慎避免扰动这些餐具匣。单独个体不得被移出进行测试超过一小时时间。保存工作必须以保全剩余釉质涂层以及避免更多损伤为目标。\n\n**描述：**SCP-7128是一套11件外形相同的纪念咖啡勺，其形象为皇家加拿大空军制服军人。这些咖啡勺是在1945年英属哥伦比亚尤克卢利特战役后，由RCAF空军第444中队的军属委托制造，该次战役期间该中队的12架飞机被Obskura军团的实验性武器从离岸潜艇上消灭。由于此行动发生于人口密集区，基金会对此采取了高强度记忆删除及文件修改行动。444中队从记录中被完全抹除，其成员被列为在加拿大后方的各种训练事故中阵亡。\n\n不过，由于掩盖行动是与RCAF及皇家加拿大骑警神秘学及超自然行动特勤队协同进行，各方程序差别引发了一次严重疏忽。OSAT官员认为444中队应为其事迹受到妥善纪念，授权使用取自坠毁于尤克卢利特的12架超马林喷火式I型战斗机的金属来为每名飞行员制作纪念勺。在基金会特工发现错误并提出前，仅有一根咖啡勺被邮寄送出；由于OSAT方面记录不清，无法对其展开后续查找，直至其接收者将它熔化以回收金属才被发现。所有其他在坠机地点寻获的材料都已被无效化并分解。\n\n所有SCP-7128个体都表现出Safe范围的超灵性能量。这种能量会在个体被撞击、颠覆、彼此分开任意时长时加强，并会在个体受到损坏时“爆发”。在承受此种损伤后，个体的超灵性放射会永久增加微小但可以测量的程度。\n\n皇家空军444中队成员及各自对应SCP-7128个体如下： \n\n||~ 姓名 ||~ 个体 ||\n|| Hayden Adlock || SCP-7128-1 ||\n|| John Barber || SCP-7128-2 ||\n|| Mack Bradbury || SCP-7128-3 ||\n|| Ernie Hall || SCP-7128-4 ||\n|| Reese Jackson Jr. || SCP-7128-5 ||\n|| Horace Keaton[[footnote]]中队队长。[[/footnote]] || SCP-7128-6 ||\n|| Bert Kelly || SCP-7128-7 ||\n|| Aaron Lee || SCP-7128-8 ||\n|| Austin MacLeod || SCP-7128-9 ||\n|| Jerry Savidge || N/A ||\n|| Jacob Senior || SCP-7128-10 ||\n|| John Wood || SCP-7128-11 ||\n\n来自国际统合奇术中心的灵媒曾开展降灵会，试图与444中队飞行员展开身后联络，而后报告称每次都只收到了反常微弱的回应。然而，若于有对应SCP-7128个体在场时开展，超灵能量放射将达到Eucild级别。在这些放射中无法找到连贯规律。\n\n对Jerry Savidge（对应SCP-7128个体被接收者销毁的飞行员）的联络尝试一概无法收到任何回应。\n\n[[footnoteblock]]\n\n----\n\n[[=]]\n[[div class=\"footer-wikiwalk-nav\"]]\n<< [[[SCP-7127]]] | SCP-7128 | [[[SCP-7129]]] >>\n[[/div]]\n\n[[include :scp-wiki-cn:component:license-box\n|author=Researcher Calloway]]\n=====\n[[<]]\n\n> **文件名：**RCAFspoon.jpg\n> **图像作者：**[[*user HarryBlank]]\n> **授权协议：**CC BY-SA 3.0\n[[/<]]\n=====\n[[include :scp-wiki-cn:component:license-box-end]]\n[[/=]]",
+  "tags": [
+    "obskura",
+    "safe",
+    "scp",
+    "值守43",
+    "工具"
+  ],
+  "author": "ashausesall",
+  "created_at": "2023-03-08T16:10:08+00:00",
+  "updated_at": "2024-09-08T12:19:33+00:00",
+  "rating": 2,
+  "_site": "scp-wiki-cn",
+  "_fullname": "scp-7128"
+}

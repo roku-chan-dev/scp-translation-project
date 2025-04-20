@@ -1,0 +1,19 @@
+{
+  "title": "SCP-6770",
+  "content": "[[include :scp-wiki-cn:component:author-label-source start=--\n|name=Ecronak]]\n喜欢这个skip吗？也来看看[http://scp-wiki.wikidot.com/ekronak-s-archive-with-commentary| 这里]我的其他作品吧！\n[[include :scp-wiki-cn:component:author-label-source end=--]]\n\n[[include :scp-wiki-cn:theme:black-highlighter-theme]]\n[[include :scp-wiki-cn:theme:extra-black-highlighter-theme]]\n------\n[[include :scp-wiki-cn:component:acs-animation]]\n[[include :scp-wiki-cn:component:anomaly-class-bar-source\n|lang= cn\n|item-number= 6770\n|clearance= 1\n|container-class= euclid\n|secondary-class= none\n|disruption-class= dark\n|risk-class= 待观察\n]]\n[[module CSS]]\n\ndiv#page-title::after {\n  content: \"by Ecronak\";\n  font-size: 40%;\n  color: #888;\n  background: none;\n}\n\ndiv#page-title {\n  border-bottom: 1px solid #000;\n  padding-bottom: 0.2em;\n}\n\n[[/module]]\n------\n\n[[include component:image-block\n| name= https://scp-wiki.wdfiles.com/local--files/scp-6770/Smiley.jpg\n| caption=SCP-6770的一个实例。]]\n\n**特殊收容措施：**鉴于项目频繁出现在无法常规收容处，所有SCP-6770的实例均需被掩藏或掩埋于与其所处环境相符的材料下[[footnote]]例如，若其出现在道路上，则以沥青掩埋；若其出现在田野上，则以土壤掩埋。[[/footnote]]。为未来参考之需，须密切关注这些实例掩埋的地点。\n\n**描述：**SCP-6770是在特定表面上的异常凹陷，类似于常人绘制的“笑脸”。未被观察时，SCP-6770个体能够改变其表情。未知其如何达成此性质。\n\n自2019年首次出现在纽约市，SCP-6770实例均频繁在世界各地的人口中心显现[[footnote]]目前SCP-6770的数量估计为1,264,565。[[/footnote]]。如此频繁的显现已促使基金会授权采取权宜收容措施，即以与其周围事物相似的材料掩藏实例。\n\n**6770-9/19/2019更新：**一可能的SCP-6770变体实例在Site-19显现，其“脸部”凹陷处勾勒为下列文字：“**你在活埋我们**[[footnote]]**译注：**原文均为大写字母。[[/footnote]]”。口头询问其信息含义时，该实例发出类似于人类痛苦呻吟的声音，其显现后不久即停止发声且无法改变表情。\n\n**6770–10/21/2019更新：**随后对上述可疑信息审议后，已发现并确认多个SCP-6770实例。所有实例均上色为蓝色且“眼部”和“口部”与通常用于表现窒息的刻画手法一致。该状态下的实例无一能够改变表情。\n\n撰写文档时正在审议对该异常的安保收容程序之修订。目前有1,266,244个实例被掩藏。进一步行动待定。\n\n[[footnoteblock]]\n\n[[div class=\"footer-wikiwalk-nav\"]]\n[[=]]\n--------------\n\n[http://scp-wiki.wikidot.com/ekronak-s-archive-with-commentary Ecronak的其他作品]\n\n<< [[[SCP-6769]]] | SCP-6770 | [[[SCP-6771]]] >>\n[[/=]]\n[[include :scp-wiki-cn:component:license-box\n|author=Ecronak\n|translator=Pedder\n]]\n=====\n> **文件名：**Smiley\n> **图像作者：**ABF@commonswiki\n> **授权协议：**CC BY-SA 2.0\n> **来源链接：** https://search.creativecommons.org/photos/588b564d-f854-40c6-a181-13875a35d7d5\n\n=====\n[[include :scp-wiki-cn:component:license-box-end]]\n[[/div]]",
+  "tags": [
+    "euclid",
+    "scp",
+    "变形",
+    "感知力",
+    "智能",
+    "观察影响",
+    "铭文"
+  ],
+  "author": "Pedder",
+  "created_at": "2021-10-09T08:26:46+00:00",
+  "updated_at": "2021-10-10T03:46:58+00:00",
+  "rating": 3,
+  "_site": "scp-wiki-cn",
+  "_fullname": "scp-6770"
+}

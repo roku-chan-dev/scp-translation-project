@@ -1,0 +1,14 @@
+{
+  "title": "完范荣耀",
+  "content": "[[include :scp-wiki-cn:theme:basalt darkmode=a]]\n\n\n[[module CSS]]\n:root {\n     --header-title: \"SCP基金会\";\n     --header-subtitle: \"控制 - 收容 - 保护\";\n     --header-font: 'Poppins'\n}\n[[/module]]\n\n\n\n\n[[div class=\"notation\"]]\n[[=]]\n[[collapsible show=\"这是什么？\" hide=\"关闭\"]]\n嗨，这是我的2023重混竞赛投稿。它们是我对[[[project-paragon-hub|完范计划]]]（全部由[[*user djkaktus]]撰写）中恶魔们的解读——假如它们是基于另一种文化？我从游戏《荣耀战魂》中获取了很大的灵感，并且立马想到了要对这些六根手臂的老兄们进行一次重混。我想攒着6765日后再发:D\n提及的SCP们：\n[[[SCP-2254]]]\n[[[SCP-4840]]]\n[[[SCP-6666]]]\n[[/collapsible]]\n[[/=]]\n[[image https://scp-wiki.wdfiles.com/local--files/art%3Afor-honor-paragon/remixed%20paragon.png]]\n[[image https://scp-wiki.wdfiles.com/local--files/art%3Afor-honor-paragon/2254.png]]\n[[image https://scp-wiki.wdfiles.com/local--files/art%3Afor-honor-paragon/4840.png]]\n[[image https://scp-wiki.wdfiles.com/local--files/art%3Afor-honor-paragon/6666.png]]\n[[/div]][[footnote]]**译注：**图2为恶魔拉海尔，图中彩色字为“TRIBAL”，即《荣耀战魂》中的“武林”阵营。\n图3为恶魔兰斯洛特，图中彩色字为“VIKING”，即《荣耀战魂》中的“维京”阵营。\n图4为恶魔赫克托，图中彩色字为“SAMURAI”，即《荣耀战魂》中的“武士”阵营。[[/footnote]]",
+  "tags": [
+    "2023重混竞赛",
+    "艺术作品"
+  ],
+  "author": "LeeBr",
+  "created_at": "2023-08-24T11:28:44+00:00",
+  "updated_at": "2023-08-24T11:28:57+00:00",
+  "rating": 1,
+  "_site": "scp-wiki-cn",
+  "_fullname": "art:for-honor-paragon"
+}

@@ -1,0 +1,14 @@
+{
+  "title": "Whatever hysteria exists is inflamed by mystery",
+  "content": "[[>]]\n[[module Rate]]\n[[/>]]\n\n[[include component:image-block\n    name=hysteria|\n    caption=The only known photo of Dr Hysteria\n]]\n> hello i dr hysteria\n> > [[[I hope you get back to me soon]]]\n> written on 23/11/2014 for the [[[dystopia contest]]]\n> wrote it on a whim without drafting\n> would not recommend for first time authors\n> > [[[SCP-1747|SCP-1747 rewrite]]]\n> written on the 10/01/2015\n> would like to revisit at some point\n> > [[[SCP-2991|SCP-2991]]] \n> collaboration with [https://www.scp-wiki.wikidot.com/researcher-zyn-s-personnel-file Zyn]\n> written on the 13/05/15\n> extremely happy with result\n> Zyn is a godhead\n> she carried the article\n> would also like to revisit\n> > [[[SCP-694]]] \n> collaboration with Amuness Creeps and [https://www.scp-wiki.wikidot.com/researcher-voct-s-personnel-file Voct]\n> written on the 22/09/15\n> Amuness was a nice person\n> Voct is another godhead\n> ----\n> now i am forever lurking\n> see you soon\n\n@@@@\n@@@@\n\n[[=]]\n[[collapsible show=\"++ Statistics ++\" hide=\"-- Hide --\"]]\n\n++ SCP Articles\n\n[[module ListPages created_by=\"Dr Hysteria\" order=\"rating desc\" separate=\"no\" tags=\"scp, joke\" perPage=\"250\" prependLine=\"||~ SCP ||~ Rating ||~ Comments ||~ Created ||~ Last Comment ||~ Length ||\"]] \n|| %%title_linked%% || %%rating%% || %%comments%% || %%created_at%% || %%commented_at%% || %%size%% ||\n[[/module]]\n\n++ Tales\n\n[[module ListPages created_by=\"Dr Hysteria\" order=\"rating desc\" separate=\"no\" tags=\"tale\" perPage=\"250\" prependLine=\"||~ Tale ||~ Rating ||~ Comments ||~ Created ||~ Last Comment ||~ Length ||\"]] \n|| %%title_linked%% || %%rating%% || %%comments%% || %%created_at%% || %%commented_at%% || %%size%% ||\n[[/module]]\n\n[[/collapsible]]\n\n@@@@\n@@@@\n\n[[collapsible show=\"++ Artworks from the Metaverse ++\" hide=\"-- Hide --\"]]\n\n[[=image https://img03.deviantart.net/4811/i/2015/168/a/d/scp_2991_by_sunnyparallax-d8xnqw1.jpg width=\"400px\" height=\"500px\"]]\n\n++ [[[SCP-2991]]] by SunnyClockwork\n\n[[=image https://orig01.deviantart.net/b180/f/2015/254/e/f/scp_2991_by_loiterer-d9989pz.jpg width=\"400px\" height=\"300px\"]]\n\n++ [[[SCP-2991]]] by Loiterer87\n\n[[/collapsible]]\n\n@@@@\n@@@@\n\n[[/=]]",
+  "tags": [
+    "_cc",
+    "author"
+  ],
+  "author": "Dr Hysteria",
+  "created_at": "2015-05-14T07:39:39+00:00",
+  "updated_at": "2024-08-17T11:09:27+00:00",
+  "rating": 45,
+  "_site": "scp-wiki",
+  "_fullname": "hysteria"
+}

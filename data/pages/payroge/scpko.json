@@ -1,0 +1,14 @@
+{
+  "title": "멈춰이것들아",
+  "content": "[[=image https://scpko.wdfiles.com/local--files/payroge/%EC%A0%9C%EB%AA%A9%20%EC%97%86%EC%9D%8C-1.jpg style = \"width:100%\" link=#]]\n\n\n[[=image http://scpko.wdfiles.com/local--files/payroge/%EB%B0%B0%EC%9D%BC%ED%98%B8.png]]\n\n[[=]]\n[[module CSS]]\n.creditRate {\n    float: left !important;\n}\n[[/module]]\n[[div style=\"text-align: center; font-size: 200%;\"]]\n+ 날어디로데려가는거야아아악\n\n@@@@\n@@@@\n@@@@\n@@@@\n@@@@\n@@@@\n@@@@\n@@@@\n@@@@\n@@@@\n@@@@\n\n[[=image http://scpkosb.wdfiles.com/local--files/draft%3Apayroy-4584-60c9/Saw%20blade.png]]\n[[/div]]\n\n@@@@\n@@@@\n@@@@\n@@@@\n@@@@\n@@@@\n@@@@\n@@@@\n@@@@\n@@@@\n\n----\n**창작 SCP:**\n[[module ListPages created_by=\"Payroy\" separate=\"no\" tags=\"ko, -작가, -이야기, -아트워크, -허브, -요주의단체-서식\" order=\"created_at\" prependLine=\"||~ 제목 ||~ 추천 ||~ 덧글 ||~ 길이 ||~ 생성 날짜 ||\"]]\n|| %%title_linked%% || %%rating%% || %%comments%% || %%size%%|| %%created_at%% ||\n[[/module]]\n\n**이야기:**\n[[module ListPages created_by=\"Payroy\" separate=\"no\" tags=\"이야기, -en, -jp\" order=\"title\" prependLine=\"||~ 제목 ||~ 추천 ||~ 덧글 ||\"]]\n|| %%title_linked%% || %%rating%% || %%comments%% ||\n[[/module]]\n\n**자투리:**\n[[module ListPages created_by=\"Payroy\" separate=\"no\" tags=\"요주의단체-서식, 허브, -en, -jp\" order=\"title\" prependLine=\"||~ 제목 ||~ 추천 ||~ 덧글 ||\"]]\n|| %%title_linked%% || %%rating%% || %%comments%% ||\n[[/module]]\n\n**특집:**\n[[module ListPages created_by=\"Payroy\" separate=\"no\" tags=\"특집, -en, -jp\" order=\"title\" prependLine=\"||~ 제목 ||~ 추천 ||~ 덧글 ||\"]]\n|| %%title_linked%% || %%rating%% || %%comments%% ||\n[[/module]]\n\n\n-**아트워크**-\n\n[[[payroy-artwork|당신은 이 그림에 침을 뱉을 수 있다]]]\n\n[[/=]]\n@@@@\n@@@@\n[[include :scpko:component:thd-achievement-stand\n|border=1\n|a01=5|a02=3|a04=3|a05=2|a06=4|a07=4|a08=1|a09=1|a13=1\n|a14=1|a22=1|a22=2|a22=3|a23=1|a25=1|a26=1|a27=1|a29=1|\na36=1|a39=1|a42=1|a55=1|a57=1|a71=1|a72=1|a73=1|a74=1|a76=1|\na78=1|a79=1|a82=1|a83=1|a84=1|a87=1|a92=1|a96=1|a97=1|a98=1|a99=1\n]]\n@@@@\n@@@@\n@@@@\n@@@@\n\n[[include :scpko:info:start]]\n저자 [[*user payroy]]\nhttps://commons.wikimedia.org/wiki/File:Rusty_Blade_-_geograph.org.uk_-_767472.jpg\nhttps://commons.wikimedia.org/wiki/File:Chemical_protection_suit,_gas_mask_Fortepan_73524.jpg\n[[include :scpko:info:end]]",
+  "tags": [
+    "ko",
+    "작가"
+  ],
+  "author": "Payroy",
+  "created_at": "2020-06-10T14:42:54+00:00",
+  "updated_at": "2025-02-11T22:55:19+00:00",
+  "rating": 26,
+  "_site": "scpko",
+  "_fullname": "payroge"
+}

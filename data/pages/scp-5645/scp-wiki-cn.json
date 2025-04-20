@@ -1,0 +1,17 @@
+{
+  "title": "SCP-5645",
+  "content": "[[module CSS]]\nsup {\nvertical-align: top; position: relative; top: -0.5em;\n}\n[[/module]]\n\n[[include :scp-wiki-cn:credit:start-standalone]]\n[[=]]\n\n**SCP-5645** 无关紧要的终结\n\n[[/=]]\n\n------\n\n**作者：**[[*user Crashington]]\n\n**该作者的其他作品：** http://www.scp-wiki.net/poi-3181-198-file\n\n[[include :scp-wiki-cn:credit:end-standalone]]\n------\n\n[[include :scp-wiki:component:classified-decoration\n|lv=2\n|item=5645\n|oc=Safe\n|lang=CN\n|trans-level=级\n|trans-classified=机密\n]]\n\n------\n\n**特殊收容措施：**SCP-5645存储于Site-345的标准低温收容单元内。当前无为其计划的测试。需保持对Nils Wendler的监视，任何与他有关的可能的异常事件都需归档在本文档内。\n\n**描述：**SCP-5645是一具儿童尸体，为德国科隆35岁的未婚办公室工作人员Nils Wendler的生物克隆体。SCP-5645在基因上与Wendler完全相同，且共享部分表型特征，如右手腕上的大面积胎记。SCP-5645解剖学上类似于一8岁男性，然而，它的化学年份可追溯到1992年，因此似乎有27年没有发生化学上的老化。\n\n**发现：**SCP-5645于2019年2月24日在Nils Wendler居住的公寓楼后面的垃圾处理箱内发现。当地调查人员在对其进行尸检后发现它的年代差异，此时基金会开始关注它。在之后的调查中，调查员对附近的居民进行了访谈，询问是否有人目击尸体被放置在发现处。在此期间，基金会注意到了尸体与Nils Wendler的相似外形，随后的测试导致对该对象的SCP编号。Wendler似乎不知道SCP-5645的起源。在面对可能是自己在不同年龄的尸体时，他一开始表现出了震惊，但很快恢复镇定，表达了想单独留下的愿望。\n\nWendler被暂时拘留，鼓励他提供任何可能与SCP-5645的出现有关的信息。即使在多次访谈之后，Wendler仍拒绝透露任何有关SCP-5645的信息，或解释他对它发现的不寻常反应。在告知他很快会被删除记忆并放回家之后，他只做了如下评论：\n\n> 看，那边那个东西？我把它弄丢很久了，所以看到它死了其实也没多少好惊讶的。但这是个私人问题。而说实话，到现在，如果你们这些人可以让我忘记它曾是我的话，我会很感激的。\n[[footnoteblock]]\n\n[[div class=\"footer-wikiwalk-nav\"]]\n[[=]]\n<< [[[SCP-5644]]] | SCP-5645 | [[[SCP-5646]]] >>\n[[/=]]\n[[/div]]\n\n[[include :scp-wiki-cn:component:license-box\nauthor=Crashington]]\n[!-- N/A (无图)  --]\n[[include :scp-wiki-cn:component:license-box-end]]",
+  "tags": [
+    "safe",
+    "scp",
+    "人形生物",
+    "尸体",
+    "生物性"
+  ],
+  "author": "Esperanza_Cai",
+  "created_at": "2021-03-14T16:46:02+00:00",
+  "updated_at": "2023-05-04T07:13:53+00:00",
+  "rating": 3,
+  "_site": "scp-wiki-cn",
+  "_fullname": "scp-5645"
+}

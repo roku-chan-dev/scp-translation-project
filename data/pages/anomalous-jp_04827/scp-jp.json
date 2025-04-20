@@ -1,0 +1,14 @@
+{
+  "title": "04827",
+  "content": "content: \"**説明:** 自身を中心に半径10m内の照度が10lx以下になると、チェレンコフ光を発しながら不規則に浮遊する球体\\n**回収日:** 20██/██/██\\n**回収場所:** ██県██市、核廃棄物中間貯蔵施設\\n**現状:** サイト-81██にて、鉛・コンクリートの二重構造で構成された収容チャンバーに収容。収容チャンバー内はライトによって75〜100lxを維持。\\n**追記:** 人魂の正体には色々な説がありますが、チェレンコフ光ではないだろうとは思います。 -██研究員\"\ntf2: '0'\nauthor: ''\nredirect-b: '[[module Redirect destination=\"http://ja.scp-wiki.net/log-of-anomalous-items-jp'\nredirect-e: '\"]]'",
+  "tags": [
+    "jp",
+    "剪定対象-子"
+  ],
+  "author": "RIZE_1888",
+  "created_at": "2024-08-31T15:04:54+00:00",
+  "updated_at": "2024-08-31T15:05:02+00:00",
+  "rating": -1,
+  "_site": "scp-jp",
+  "_fullname": "anomalous-jp:04827"
+}

@@ -1,0 +1,19 @@
+{
+  "title": "SCP-CN-3720",
+  "content": "[[>]]\n[[module Rate]]\n[[/>]]\n\n\n\n\n\n[[module ListPages category=\"fragment\" parent=\".\" limit=\"1\" order=\"name\" offset=\"@URL|0\"]]\n\n%%content%%\n[[/module]]\n\n[[footnoteblock]]\n@@@@\n[[div class=\"footer-wikiwalk-nav\"]]\n[[=]]\n<< [[[SCP-CN-3719]]] | SCP-CN-3720 | [[[SCP-CN-3721]]] >>\n[[/=]]\n[[/div]]\n\n[!-- http://scp-wiki-cn.wikidot.com/fragment:cn3000thedying-01 --]\n[!-- http://scp-wiki-cn.wikidot.com/fragment:cn3000thedying-02 --]\n[!-- http://scp-wiki-cn.wikidot.com/fragment:cn3000thedying-03 --]",
+  "tags": [
+    "cn3000",
+    "k级情景",
+    "scp",
+    "原创",
+    "反熵",
+    "无效化",
+    "精神影响"
+  ],
+  "author": "The Dying",
+  "created_at": "2024-01-02T18:01:57+00:00",
+  "updated_at": "2024-01-21T22:42:10+00:00",
+  "rating": 32,
+  "_site": "scp-wiki-cn",
+  "_fullname": "scp-cn-3720"
+}

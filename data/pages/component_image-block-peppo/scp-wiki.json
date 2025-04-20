@@ -1,0 +1,13 @@
+{
+  "title": "Image Block Peppo",
+  "content": "[[iftags +component]]\nRevised image block module:\n* Aligns right edge of the image to be flush edge of the overall content, rather than just the edge of the rating module.\n* Clears float and centers image if the user's window is <600px wide. \n\nBy PeppersGhost and Stormbreath. \n\n[[[SCP-4703|Example here!]]]\n\nTo use, copy and paste the following code to your page and adjust the name, caption, and width fields as needed.\n\n> [[include component:image-block-peppo\n> |name=http://scp-wiki.wdfiles.com/local--files/scp-4703/4703.jpg\n> |caption= Put your caption here!\n> |width=300px\n> ]]\n\n\n[[=]]\n+ Check page source for code\n[[/=]]\n[[/iftags]]\n[[iftags -component]]\n\n\n[[include :scp-wiki:component:image-block\n|name={$name}\n|caption={$caption}\n|width={$width}|width=300px\n|link={$link}|link=#\n|align=right\n|alt={$alt}|alt-text={$alt-text}\n]]\n\n[[module CSS]]\n/* Aligns image to right edge */\n.scp-image-block.block-right {\n    margin: 0em 0em 1em 2em;\n}\n\n/* Visually centers image block */\n@media only screen and (max-width: 600px) {\n    .scp-image-block.block-right{\n        float: none;\n        margin: 10px auto;\n    }\n}\n[[/module]]\n[[/iftags]]",
+  "tags": [
+    "component"
+  ],
+  "author": "PeppersGhost",
+  "created_at": "2020-02-18T20:16:51+00:00",
+  "updated_at": "2023-05-15T02:34:21+00:00",
+  "rating": 12,
+  "_site": "scp-wiki",
+  "_fullname": "component:image-block-peppo"
+}

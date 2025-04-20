@@ -1,0 +1,13 @@
+{
+  "title": "최근 편집된 페이지",
+  "content": "[[module CSS]]\n.content-panel .content-type-title > p {\n  margin: 0;\n}\n.content-panel .content-type-title {\n  font-size: 120%;\n  font-weight: bold;\n  padding: 5px 20px;\n  background-color: #666;\n  color: #fff;\n  border-radius: 8px 8px 0 0;\n  box-shadow: inset 0 1px 1px rgba(255,255,255,.8),\n    inset 0 15px 1px rgba(255,255,255,.2),\n    inset 0 15px 10px rgba(255,255,255,.2);\n}\n.content-panel .content-type-description {\npadding: 0 20px;\ntext-align: justify;\n}\n.content-panel.content-row .content-type-description {\npadding: 5px 20px;\n}\n.content-panel.content-row .content-type-description-2 {\npadding: 0 20px;\ntext-align: justify; \n}\n[[/module]]\n\n[[div class=\"content-panel standalone content-row\"]]\n[[div class=\"content-type-title\"]]\n최근 편집된 페이지\n[[/div]]\n\n[[div class=\"content-type-description-2\"]]\n\n[[table style=\"width: 100%;\"]]\n[[row style=\"font-weight: bold; color: #fff; background-color: #666;\"]]\n[[cell style=\"padding: 0 2px; width: 50%;\"]]\n페이지\n[[/cell]]\n[[cell style=\"padding: 0 2px; width: 25%; text-align: center;\"]]\n편집일자\n[[/cell]]\n[[cell style=\"padding: 0 2px; text-align: center;\"]]\n편집자\n[[/cell]]\n[[/row]]\n[[/table]]\n\n[[/div]]\n\n[[div class=\"content-type-description\"]]\n\n[[module ListPages order=\"updated_at desc\" prependLine=\"[[include component:listpages-table]]\" perPage=\"30\" appendLine=\"[[/table]]\" separate=\"false\" rss=\"최근 편집된 페이지\"]]\n[[row]]\n[[cell style=\"vertical-align: top;\"]]\n%%title_linked%%\n[[/cell]]\n[[cell style=\"vertical-align: top; text-align: center;\"]]\n%%updated_at|%Y년 %m월 %d일 %H:%M %%\n[[/cell]]\n[[cell style=\"vertical-align: top; text-align: left;\"]]\n%%updated_by_linked%%\n[[/cell]]\n[[/row]]\n[[/module]]\n\n[[/div]]\n[[/div]]",
+  "tags": [
+    "허브"
+  ],
+  "author": "QAZ135",
+  "created_at": "2012-09-15T01:01:41+00:00",
+  "updated_at": "2016-07-31T13:06:54+00:00",
+  "rating": 2,
+  "_site": "scpko",
+  "_fullname": "most-recently-edited"
+}

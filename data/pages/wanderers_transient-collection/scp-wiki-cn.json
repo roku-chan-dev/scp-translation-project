@@ -1,0 +1,16 @@
+{
+  "title": "瞬息集",
+  "content": "[[include :scp-wiki-cn:wanderers:dustjacket-theme]]\n[[module css]]\n@import url('https://fonts.googleapis.com/css2?family=Amatic+SC&display=swap');\n[[/module]]\n\n[[div style=\"background-color: black; color: #dff1ff; margin:36pt; padding:3%; text-align:center; font-family: 'Amatic SC', cursive; font-size: 25px\"]]\n\n+ 瞬息\n\n变化无常。\n转瞬即逝。\n持续时间很短。\n\n@@ @@\n@@ @@\n\n也许是人。\n暂时出现于某地的人。\n瞬息万变。\n\n@@ @@\n@@ @@\n\n你有过鬼魂般的感觉吗？\n浪迹天涯。\n寻找意义。\n一种地域感。\n一闪而过的清晰，然后再次遁于迷雾。\n\n@@ @@\n@@ @@\n\n\n无法把握\n却依然强大。\n可以感知。\n是你的一部分。\n\n@@ @@\n@@ @@\n\n与我同行\n穿越这些记忆\n在一起，\n我们会学到新东西。\n\n[[/div]]\n\n[[div style=\"background-color: black; color: #dff1ff; margin:36pt; padding:3%; text-align:center; font-family: 'Amatic SC', cursive; font-size: 25px\"]]\n+ 记忆：\n@@ @@\n@@ @@\n[[[wanderers:one-by-one |一根又一根]]]\n\n[[[wanderers:they-say-love-is-supposed-to-burn-but-i-am-drowning-and-i-ca | They say love is supposed to burn, but I am drowning, and I can no longer breathe]]]\n\n[[[wanderers:fool-s-gold | Fool's Gold]]]\n\n[[[wanderers:where-i-sleep-at-night | 我昏夜入眠之处]]]\n\n[[[wanderers:puppy-love | Puppy Love]]]\n[[/div]]\n\n\n[[div style=\"background-color: black; color: #dff1ff; margin:36pt; padding:3%;\"]]\n[[collapsible show=\"+ 这是什么？\" hide=\"- 隐藏\"]]\n这些简短、破碎的思想片段是我的自我认同体验。标签往往过于永恒、过于拘束，只是为了方便别人解释某些事情，而非触及自我深处的真相。\n\n很迷惑，不是吗？在这世上找到自己的位置？你是谁，这么相信自己？然后试图向别人解释？很多时候，我干脆选择不去解释，任由别人如何看待我，我自己则躲在暗处，想着“够接近了！”。但这并不能带来成长，我一直在想，是否有人和我一样，因缺乏认同感而挣扎，这才有了今天的《瞬息集》。\n\n将这些零碎的想法串联起来，是我探索自我认同的尝试，我与大家分享这些想法，也许，只是也许，能帮助其他人发现自我，或者让他们感觉到，他们并不是唯一拥有复杂灵魂的人。\n\n与我同行，捧起诗歌绘本，穿越这些记忆，在一起，也许我们会学到与自己有关的新东西。\n\n[[/collapsible]]\n\n[[collapsible show=\"+ 更多有关艺术风格的信息\" hide=\"- 隐藏\"]]\n\n我曾多次被问及这种叙事风格，以及它是否有名字或流派，说实话，我也不确定！\n\n一般来说，我认为如果要更具体地说，这里的不少作品都受到了日本视觉叙事风格的启发。相比之下，西方漫画往往总是动作到动作的镜头（人开始出拳->拳头碰撞）——这是讲述故事，了解发生了什么的最有效方式。日本漫画则有更多方位到方位的转换（房屋外部的镜头->门框特写->从窗户往里看的镜头）。这样会给人一种在场景中徘徊，停留片刻环顾四周的感觉。\n\n虽然《瞬息集》的大多数作品都是单幅画面，没有场景转换的视觉特色，但徘徊片刻以捕捉某种具体感觉的思想无疑是受到了这种想法的启发。\n[[/collapsible]]\n[[collapsible show=\"+ 合作与延伸阅读\" hide=\"- 隐藏\"]]\n《瞬息集》是我探索自我与挣扎的个人旅程，因此《瞬息集》本身是一个单人系列/作品集。尽管如此，我非常鼓励人们用艺术与文字来探索自我、解决疑惑，我也很乐意为大家提供这方面的指导。\n\n如果想阅读其他类似主题的作品，我强烈推荐大家看看[[[wanderers:caminero | Caminero]]]中重点推荐的作品，这是个专门讨论拉丁裔的故事系列中心。它有很多强有力的作品，其作者均为图书馆最有才华的作家。\n[[/collapsible]]\n[[/div]]",
+  "tags": [
+    "wanderers",
+    "中心",
+    "瞬息集",
+    "系列"
+  ],
+  "author": "la kanro",
+  "created_at": "2023-10-15T06:13:45+00:00",
+  "updated_at": "2023-10-15T14:42:39+00:00",
+  "rating": 2,
+  "_site": "scp-wiki-cn",
+  "_fullname": "wanderers:transient-collection"
+}

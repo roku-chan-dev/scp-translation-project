@@ -1,0 +1,18 @@
+{
+  "title": "The Graveyard - The Art of MalyceGraves",
+  "content": "[[include :scp-wiki:theme:black-highlighter-theme]]\n[[include :scp-wiki:component:pride-highlighter |inc-tg-alt= --]]]\n\n[[module CSS]]\n\n    .rmposttitle {\n        width: auto;\n        height: auto;\n        padding: 0px 20px 0px 50px;\n    }\n[[/module]]\n[[>]]\n[[module rate]]\n[[/>]]\n\n[[=]]\n[[size 120%]]**The art of [http://www.scp-wiki.net/malycegraves-author Malyce Graves]**[[/size]]\n[[/=]]\n\nOver the years I have put together a fair amount of art. I never really considered making anything for the SCP-verse until I decided I //really// wanted some emblems for the two MTFs I've created.\n\nThen, I made a [http://www.scp-wiki.net/theme:laruetheme La Rue Macabre theme.]\n\nNow, here we are.\n++ //La Rue Macabre// Art\n-----\n[[include :scp-wiki:component:sp-image caption=La Rue Macabre|src=sigil2.png|width=400]]\n\n@@ @@\n++ Various MTF Emblems\n-----\n[[include :scp-wiki:component:sp-image caption=MTF Beta-2 (\"Bayou Boys\")|src=beta2.png|width=400]]\n[[include :scp-wiki:component:sp-image caption=MTF Pi-6 (\"Clown Wranglers\")|src=pi6.png|width=400]]\n[[include :scp-wiki:component:sp-image caption=MTF Eta-5 (\"Jaeger Bombers\")|src=eta5.png|width=400]]\n[[include :scp-wiki:component:sp-image caption=MTF Xi-8 (\"The Last to Fall\")|src=xi-8.png|width=400]]\n[[include :scp-wiki:component:sp-image caption=MTF Gamma-44 (\"Meat Lockers\")|src=gamma-44.png|width=400]]\n\n@@ @@\n++ Sarkic Pieces\n-----\n[[include :scp-wiki:component:sp-image caption=Church of the Eternal Mother|src=eternalmother.jpg|width=400]]\n[[include :scp-wiki:component:sp-image caption=The Darkwater Lodge|src=darkwater.jpg|width=400]]\n[[include :scp-wiki:component:sp-image caption=Société de la Fleur Sanglante|src=societe.jpg|width=400]]\n[[include :scp-wiki:component:sp-image caption=The Great Seal of Adytum|src=adytumsealSmall.jpg|width=400]]\n[[include :scp-wiki:component:sp-image caption=The Solomonari Beast|src=solomonari.jpg|width=400]]\n[[include :scp-wiki:component:sp-image caption=SK-BIO Type 004|src=skbio.jpg|width=400]]\n[[include :scp-wiki:component:sp-image caption=GoI-0074, Church of the Red Harvest|src=harvestwindow.jpg|width=400]]\n[[include :scp-wiki:component:sp-image caption=In Memoria, Adytum|src=memoriabanner.jpg|width=100%]]\n[[include :scp-wiki:component:sp-image caption=The Kelipat Nogah Initiative|src=kelipatnogah.png|width=100%]]\n[[include :scp-wiki:component:sp-image caption=Children of the Black Blood|src=blackblood_back.jpg|width=100%]]\n\n\n\n@@ @@\n++ Miscellany\n-----\n- Something I whipped up for [[*user cerastes]]:\n[[include :scp-wiki:component:sp-image caption=Noctem Deorum|src=noctumDeorum.png|width=400]]\n\n- Something I whipped up for [[*user cyvstvi13]]:\n[[include :scp-wiki:component:sp-image caption=The Sophia Protocol|src=sophiaprotocol.jpg|width=400]]\n\n- Something I whipped up for [[[SCP-4764]]]\n[[include :scp-wiki:component:sp-image caption=PEOPLES CHOICE Concert Poster|src=peopleschoice.jpg|width=400]]\n\n- Something I whipped up for a coming project with [[*user DrAkimoto]]\n[[include :scp-wiki:component:sp-image caption=R A G N A R O K|src=worldtree.jpg|width=400]]",
+  "tags": [
+    "_cc",
+    "artist",
+    "goi-art",
+    "logo",
+    "painted",
+    "sarkic"
+  ],
+  "author": "MalyceGraves",
+  "created_at": "2020-02-14T18:12:21+00:00",
+  "updated_at": "2024-03-28T13:42:38+00:00",
+  "rating": 81,
+  "_site": "scp-wiki",
+  "_fullname": "the-graveyard"
+}

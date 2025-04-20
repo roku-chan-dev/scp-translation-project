@@ -1,0 +1,19 @@
+{
+  "title": "SCP-6861",
+  "content": "[[include :scp-wiki:component:pride-highlighter |inc-s9-clgbt-alt= --]]]\n\n[[module CSS]]\n@media(max-width: 479px) {\n  #header {\n    background-position: 5% 5.5em !important;\n  }\n}\n[[/module]]\n\n[[include info:start]]\n**SCP-6861:** 티라노사우루스의 최후는 이러할 것이다\n**원작:** https://scp-wiki.wikidot.com/scp-6861\n**저자:** [[*user Guaire]]\n**역자:** [[*user Langston77]]\n[[include info:end]]\n\n**일련번호:** SCP-6861\n\n**등급:** 무효\n\n**특수 격리 절차:** SCP-6861의 사체는 표준형  생물 사체 격리실에 냉동 보관한다. 고생물학 관련 인원은 필요시 사체를 검사할 수 있다. \n\n**설명:** SCP-6861은 PoI-1860의 사체이다. 사망하기 전, SCP-6861은 살아 있는 //Tyrannosaurus rex//[[footnote]] 역주: 티라노사우루스의 학명. [[/footnote]]개체였으며, 목격자의 증언에 따르면 1809년 2월 미국 켄터키주에서 태어났다. 사망하기 전까지 PoI-1860은 인간 관찰자가 SCP-6861의 실체를 인지할 수 없게 하고, 그 대신에 그를 비변칙적인 영국계 미국인 남성으로 보게 하는 변칙적 능력을 가지고 있었다. 이러한 점과 더불어 인간과 비슷한 지능으로 인하여 1865년에 사망할 때까지 미주확보격리구상으로부터  자신의 변칙적인 존재를 감출 수 있었다. \n\nSCP-6861은 가장 건장하였을 때 키가 12 m, 몸무게는 7톤 이상에 달하였다. 이로 인하여 해당 SCP가 수명이 짧았음에도 레슬링계와 군대에서 성공적인 경력을 쌓을 수 있었다. \n\nSCP-6861은 성인이 되고 정치계에서 경력을 쌓다가, 당시 노예제를 반대하던 공화당에 입당하였으며, 1834년 일리노이주 하원의원, 1842년 미국 하원의원에 당선되고 마침내 1860년 대통령 선거에 출마하였다. \n\nPoI-1860은 1865년 워싱턴 D.C.의 포드 극장에서 남부연합 지지자인 존 윌크스 부스가 “Sic Semper Tyrannosaurus”라고 외치면서 쏜 총에 눈구멍을 맞는 테러를 겪고 치명상을 입어 사망하였다. 이 사건으로 PoI-1860이 사망하면서 그의 변칙성이 사라졌고, SCP 재단의 전신인 미주확보격리구상에서 광범위한 은폐 조치를 취하였다. 부스의 시신을 부검한 결과, 그가 //Spinosaurus aegyptiacus//[[footnote]] 역주: 스피노사우루스의 학명. [[/footnote]] 개체인 것이 밝혀졌다.",
+  "tags": [
+    "asci",
+    "en",
+    "scp",
+    "공룡",
+    "무효",
+    "시각",
+    "역사적"
+  ],
+  "author": "Langston77",
+  "created_at": "2022-07-09T10:39:18+00:00",
+  "updated_at": "2025-02-04T16:52:58+00:00",
+  "rating": 18,
+  "_site": "scpko",
+  "_fullname": "scp-6861"
+}

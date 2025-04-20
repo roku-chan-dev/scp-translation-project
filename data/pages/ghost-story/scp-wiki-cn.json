@@ -1,0 +1,15 @@
+{
+  "title": "RAISA-007710（复原文档）",
+  "content": "[[include :scp-wiki-cn:theme:ad-astra]]\n\n[[module css]]\n\n@import url('https://fonts.google.com/specimen/Kalam');\n\n.page {\n    display: block;\n    overflow: hidden;\n    center no-repeat; \n    float: center;\n   \n    background-attachment: scroll;\n    background-clip: border-box;\n    background-color: transparent;\n    background-image: linear-gradient(to top, gray 0%, #E4E4E4 8%);\n    background-origin: padding-box;\n    background-position: 0px 8px;\n    background-repeat: repeat;\n    background-size: 100% 20px;\n    \n    font-family: 'Kalam';\n    font-weight: bold;\n    font-size: 150%;\n    letter-spacing: 0.3px;\n    color: #222222;\n    border: solid 1px gray;\n    padding: 11px 20px 20px 20px;\n    margin: 10px 10px 10px 40px;\n\n    box-shadow: 3px 3px 2px gray\n    }\n\n.page p {\n    line-height: 20px;\n    margin: 0;\n}\n[[/module]]\n\n[[include :scp-wiki-cn:credit:start-standalone]]\n**RAISA-007710：**“鬼故事”\n**作者：**[[*user MaliceAforethought]]\n**设定：**[[[ad-astra-per-aspera-hub|]]]\n-----\n\n[[=]]\n**[[[maliceaf-author-ght|该作者的更多作品]]]**\n[[/=]]\n[[include :scp-wiki-cn:credit:end-standalone]]\n\n> **__RAISA文件：复原文档[无异常性]__**\n> **作者：**SCPF职员Ronald Dupont\n> **文件创建于：**████-██-██\n> **目前权限所有：**SCPF灵异现象部\n> \n> **注意：**//在作者的死亡（截止至记录时间，其原因暂且未知）后，以下文档复原自Site-14的2号实验室。据信其与[[[aiad-homescreen|人工智能应用部]]]，尤其是[[[ad-astra-per-aspera-hub|计划：鲁米诺]]][[footnote]]**译注：**即苯巴比妥注射剂，控制癫痫发作、治疗焦虑症及睡眠问题。[[/footnote]]相关联。//\n\n-----\n\n**文件正面：**\n\n[[div class=\"page\"]]\n\n@@    @@//三个月前我们创造了一种智能\n用以导航群星\n宇航员的灵魂，为人类之手所造//\n@@@@\n@@@@\n@@@@\n//三周前，我们杀死了它//\n@@@@\n@@    @@//一阵功率波动与一台故障了的保险丝连接器\n我们将它们在早晨启动\n@@        @@却什么都没有找到//\n@@@@\n@@@@\n@@    @@//尽管很难承认\n老实地说\n我从未有如此之差的感觉\n我是个诗人，并非脑类科学家\n@@        @@（或是一名火箭外科医师[[footnote]]**译注：**对那些说出明显事实以显示自己聪明的人的讥讽言论。[[/footnote]]）\n我在此处是因为我将我的生命奉献给了情感\n以及灵魂的研究//\n@@@@\n@@@@\n@@    @@//说到底\n它们的死亡是个真正的错误\n并无罪恶\n只是一点点不小心\n与一些坏运气//\n@@@@\n@@@@\n\n[[/div]]\n\n-----\n\n**文件背面：**\n\n[[div class=\"page\"]]\n@@    @@//那台AI被复制 \n备份 \n且恢复了\n现在到处都是它的复制品\n当然，并非一模一样\n但相近\n@@    @@它是要补偿那场致命的灾难吗？//\n@@@@\n@@@@\n@@@@\n@@@@\n@@@@\n@@        @@//我觉得的确如此//\n@@@@\n@@@@\n@@@@\n@@@@\n@@@@\n@@@@\n@@@@\n@@@@\n@@@@\n//但是\n它仍未曾改变这一现状\n@@    @@在每个夜里\n我们的旧实验室中\n坏服务器都在不断闪烁\n并尖嚎着//\n@@@@\n[[/div]]\n\n-----",
+  "tags": [
+    "ad-astra",
+    "故事",
+    "诗歌"
+  ],
+  "author": "tERaNCarol",
+  "created_at": "2019-09-19T04:25:17+00:00",
+  "updated_at": "2020-09-24T13:17:14+00:00",
+  "rating": 8,
+  "_site": "scp-wiki-cn",
+  "_fullname": "ghost-story"
+}

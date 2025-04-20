@@ -1,0 +1,13 @@
+{
+  "title": "Please try again",
+  "content": "[[module css]]\n\n*:not(:has(.myclass), .myclass *) {display: none !important;}\n\ndiv#container-wrap {\n    background: none !important;\n}\n\nhtml, body,\n#container-wrap,\n#content-wrap,\n#main-content,\n#page-content {\n    overflow: hidden !important;\n    height: 100% !important;\n    margin: 0 !important;\n    padding: 0 !important;\n}\n\n/* 让内容填满整个页面，不允许撑高 */\n.myclass {\n    height: 100vh !important;\n    width: 100vw !important;\n    overflow: hidden !important;\n    position: fixed;\n    top: 0;\n    left: 0;\n    display: flex;\n    align-items: center;\n    justify-content: center;\n}\n\nhtml, body {\n    overflow: hidden !important;\n}\n\n.myclass, .myclass * {display: block !important;}\n.myclass {\n  position: fixed;\n  left: 0;\n  right: 0;\n  width: 100%;\n  height: 100%;\n}\n\n\n.myclass a {\n    white-space: nowrap !important;\n}\n\n\n[[/module]]\n\n[[div class=\"myclass\"]]\n\n[[html]]\n<div style=\"max-width: 700px; margin: 0 auto; text-align: left;\">\n    <h1 style=\"font-weight: bold;\">Please try again</h1>\n    <p>Please try again – there was a problem fetching the page you requested. Most probably you can just click <a href=\"#\">Reload</a> or Ctrl-R and the page will show as you expected.</p>\n    <p>If you are seeing a lot of these errors, Wikidot may be under stress.</p>\n    <p>Thanks for visiting this site, and if you're one of our 1 000 000 users, for using wikidot.com for your social web project.</p>\n    <p style=\"color: gray; font-family: monospace;\">ERROR CODE: DB200</p>\n</div>\n[[/html]]\n\n[[/div]]",
+  "tags": [
+    "段落"
+  ],
+  "author": "Kcorena",
+  "created_at": "2025-04-01T15:14:47+00:00",
+  "updated_at": "2025-04-01T15:18:37+00:00",
+  "rating": 0,
+  "_site": "scp-wiki-cn",
+  "_fullname": "fragment:haha2"
+}

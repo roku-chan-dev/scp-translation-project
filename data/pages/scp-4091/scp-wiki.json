@@ -1,0 +1,20 @@
+{
+  "title": "SCP-4091",
+  "content": "[[>]]\n[[module Rate]]\n[[/>]]\n\n[[include component:image-block name=sheepdog.JPG|caption=SCP-4091-1.|width=300px]]\n**Item #:** SCP-4091\n\n**Object Class:** Euclid\n\n**Special Containment Procedures:** Currently, Junior Researcher Shepherd is kept in a standard humanoid containment chamber at Site-25. An area with a radius of five meters around Junior Researcher Shepherd is to be monitored at all times. When SCP-4091-1 manifests, it is to be intercepted by Foundation security personnel and kept in containment until demanifestation.\n\n**Description:** SCP-4091 is a phenomenon involving the spontaneous manifestation of a single //Canis lupus familiaris//[[footnote]]Domestic dog.[[/footnote]], designated SCP-4091-1, within a five meter radius of Junior Researcher Shepherd. The time between SCP-4091 occurrences varies greatly, with the longest recorded time being three months, and the shortest recorded time being one hour. \n\nSCP-4091-1 is sapient and capable of speech. Upon manifestation, SCP-4091-1 will attempt to locate and converse with Junior Researcher Shepherd. SCP-4091-1 will demanifest following the conclusion of this conversation, or if it is unable to locate Junior Researcher Shepherd within 30 minutes of manifestation.\n\n**Addendum:** Recorded conversation between Junior Researcher Shepherd and SCP-4091-1.\n\n> **<Begin Log>**\n> \n> **Junior Researcher Shepherd:** Oh, it's you. How have you been?\n> \n> **SCP-4091-1:** Pretty good.\n> \n> **Junior Researcher Shepherd:** That's good. So, has anything interesting happened since I left?\n> \n> **SCP-4091-1:** Not really. We've all just kinda been hanging out.\n> \n> **Junior Researcher Shepherd:** Yeah, I figured. Nothing really happened while I was there, either.\n> \n> **SCP-4091-1:** That's not true. Remember how pissed Mike's mom was when he slipped and got mud all over his new jeans? We were laughing about that for years.\n> \n> **Junior Researcher Shepherd:** Heh. Yeah, that was good.\n> \n> //Junior Researcher Shepherd stares at the floor. SCP-4091-1 and Junior Researcher Shepherd remain silent for 40 seconds.// \n> \n> **SCP-4091-1:** I miss you, dude.\n> \n> **Junior Researcher Shepherd:** Yeah, I know.\n> \n> **SCP-4091-1:** Will you ever come back?\n> \n> **Junior Researcher Shepherd:** I don't know if I can.\n> \n> **SCP-4091-1:** Why's that?\n> \n> **Junior Researcher Shepherd:** I work here.\n> \n> **SCP-4091-1:** What's work?\n> \n> **Junior Researcher Shepherd:** You wouldn't get it.\n> \n> **SCP-4091-1:** So, think you can come back later?\n> \n> **Junior Researcher Shepherd:** Probably not.\n> \n> **SCP-4091-1:** Damn, that's a bummer.\n> \n> **Junior Researcher Shepherd:** Yeah.\n> \n> //Foundation security personnel arrive. SCP-4091-1 demanifests.//\n> \n> **<End Log>**\n\nWhen questioned, Junior Researcher Shepherd refuses to elaborate on his conversation with SCP-4091-1.\n\n[[footnoteblock]]\n\n[[div class=\"footer-wikiwalk-nav\"]]\n[[=]]\n<< [[[SCP-4090]]] | SCP-4091 | [[[SCP-4092]]] >>\n[[/=]]\n[[/div]]",
+  "tags": [
+    "_cc",
+    "alive",
+    "animal",
+    "canine",
+    "euclid",
+    "sapient",
+    "scp",
+    "teleportation"
+  ],
+  "author": null,
+  "created_at": "2019-04-22T06:14:53+00:00",
+  "updated_at": "2022-10-01T20:02:15+00:00",
+  "rating": 101,
+  "_site": "scp-wiki",
+  "_fullname": "scp-4091"
+}

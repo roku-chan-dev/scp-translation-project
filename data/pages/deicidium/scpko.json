@@ -1,0 +1,15 @@
+{
+  "title": "데이시디움: 프로젝트 타르타로스",
+  "content": "[[include :scpko:theme:blankstyle]]\n[[module CSS]]\n:root {\n  --fade-in-delay: 0.05s !important;\n}\n#header {\n    height: 290px;\n}\n\n#header h1 a {\n    padding-top: 210px;\n}\n\n#header h1 a::before {\n    content: inherit;\n}\n\n#header h2 {\n    display: none;\n}\n\n#top-bar {\n    top: 16rem;\n}\n\ndiv#extra-div-1 {\n    height: 210px;\n    margin-top: 2em;\n    background-image: url('http://scpko.wikidot.com/local--files/deicidium/Project_Tartarus');\n}\n[[/module]]\n[[module css]]\n.page {\n    display: block;\n    overflow: hidden;\n    font-family: \"Monotype Corsiva\", \"Bradley Hand ITC\", sans-serif;\n    font-style: normal;\n\n    background-attachment: scroll;\n    background-clip: border-box;\n    background-color: transparent;\n    background-image: linear-gradient(to top ,rgb(202, 219, 228) 0%, rgb(231, 233, 220) 8%);\n    background-origin: padding-box;\n    background-position: 0px 8px;\n    background-repeat: repeat;\n    background-size: 100% 20px;\n\n    border: 1px solid #CCC;\n    border-radius: 10px;\n    padding: 10px 10px;\n    margin-bottom: 10px;\n\n    box-shadow: 0px 1px 3px rgba(0, 0, 0, 0.2)\n    }\n.page p {\n    line-height: 20px;\n    margin: 0;\n}\n[[/module]]\n\n[[include info:start]]\n**데이시디움: 프로젝트 타르타로스**\n**저자:** [[*user Chris nix]]\n**감사한 분들:** [[*user NAVLA]] [[*user Denevola]]\n[[include info:end]]\n\n[[=]]\n+ 데이시디움\n우리는 신이라는 이름의 부조리를 살해한다\n[[/=]]\n\n------------------------------------------\n\n[[=]]\n+ 프롤로그\n\n[[collapsible show=\"[들어가기 앞서 보아야 할 작품들]\" hide=\"[닫기]\"]]\n\n[[[SCP-448-KO|사방신 프로젝트]]]\n\n[[[SCP-352-KO|SCP-352-KO]]]\n[[/collapsible]]\n\n[[[About-Gods|신들에 관하여]]]\n[[/=]]\n\n-------------------------------------------\n\n[[=]]\n+ 프로젝트 타르타로스\n\n[[[DEER-hunting|#1 사슴 사냥]]]\n\n[[[scarlet-giant|#2 주홍빛 거인]]]\n\n[[[SCP-1698-KO|중간 휴식 - SCP-1698-KO]]]\n\n[[[https://scpko.wikidot.com/a-city-of-corruption-and-pleasure|#3 타락과 쾌락의 도시]]]\n\n#4 육(肉)의 용과 철(鐵)의 심장\n\n#5 생각 살해자\n\n#6 우주에서 온 혼돈\n\n#7 일곱 명의 이야기꾼, 일곱 개의 이야기, 그리고 6개의 배드 엔딩과 단 하나의 해피 엔딩\n[[/=]]\n\n-------------------------------------------\n\n[[=]]\n+ 신들의 죽음, 그 이후 이야기\n[[/=]]\n\n--------------------------------------------",
+  "tags": [
+    "_이야기-허브",
+    "ko",
+    "허브"
+  ],
+  "author": "Chris nix",
+  "created_at": "2021-08-20T17:34:05+00:00",
+  "updated_at": "2025-02-13T03:15:10+00:00",
+  "rating": 15,
+  "_site": "scpko",
+  "_fullname": "deicidium"
+}

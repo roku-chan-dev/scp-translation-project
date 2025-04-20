@@ -1,0 +1,22 @@
+{
+  "title": "A Terrible Thing",
+  "content": "[[include theme:black-highlighter-theme]]\n[[include component:bhl-dark-sidebar]]\n[[include theme:swirling-ashes]]\n\n[[module css]]\n/* This theme overrides some of the Swirling Ashes headers.\n * Made by Croquembouche for djkaktus' The Four Arcana. */\n \n/* Replace the sky with an aurora. */\nbody::before {\n  background-image: url('https://scp-wiki.wdfiles.com/local--files/the-four-arcana/sky.webp');\n  background-size: 1500px calc(var(--header-height-on-desktop));\n  animation-duration: 360s;\n  filter: grayscale(70%);\n}\n\n/* Replace the buildings. */\ndiv#container-wrap-wrap::before {\n  background-image: url('https://scp-wiki.wdfiles.com/local--files/the-four-arcana/skyline.png');\n  filter: grayscale(70%);\n}\n \n@keyframes sky {\n  from { background-position: 1500px 0; }\n  to { background-position: 0 0; }\n}\n \n/* Replace fog layers with snow */\ndiv#container-wrap-wrap::after, body::after {\n  background-image: url('https://scp-wiki.wdfiles.com/local--files/a-terrible-thing/snow.webp);\n  background-size: var(--ashes-width);\n  background-repeat: repeat;\n  animation: ashes-move linear var(--ashes-move-duration) infinite;\n  opacity: 0.8;\n}\ndiv#container-wrap-wrap::after {\n  --ashes-move-duration: 37s;\n  --ashes-width: 250px;\n}\nbody::after {\n  --ashes-move-duration: 30s;\n  --ashes-width: 400px;\n}\n@keyframes ashes-move {\n  from { background-position: 0 0; }\n  to { background-position: var(--ashes-width) var(--ashes-width); }\n}\n[[/module]]\n\n[[>]]\n[[module Rate]]\n[[/>]]\n\n[!--\nFragment list:\nhttp://scp-wiki.wikidot.com/fragment:a-terrible-thing-1\nhttp://scp-wiki.wikidot.com/fragment:a-terrible-thing-2\nhttp://scp-wiki.wikidot.com/fragment:a-terrible-thing-3\nhttp://scp-wiki.wikidot.com/fragment:a-terrible-thing-4\nhttp://scp-wiki.wikidot.com/fragment:a-terrible-thing-5\nhttp://scp-wiki.wikidot.com/fragment:a-terrible-thing-6\n--]\n\n[[module ListPages  category=\"fragment\" parent=\".\" limit=\"1\" order=\"created_at\" offset=\"@URL|0\"]]\n%%content%%\n[[/module]]\n\n@@ @@\n@@ @@\n\n[[include :scp-wiki:component:license-box]]\n[!-- N/A (No Images)  --]\n[[include :scp-wiki:component:license-box-end]]",
+  "tags": [
+    "_licensebox",
+    "_listpages",
+    "broken-god",
+    "featured",
+    "rats-nest",
+    "sarkic",
+    "spy-fiction",
+    "tale",
+    "unusual-incidents-unit",
+    "wanderers-library"
+  ],
+  "author": "Riemann",
+  "created_at": "2020-10-30T23:15:24+00:00",
+  "updated_at": "2024-10-14T04:58:25+00:00",
+  "rating": 73,
+  "_site": "scp-wiki",
+  "_fullname": "a-terrible-thing"
+}

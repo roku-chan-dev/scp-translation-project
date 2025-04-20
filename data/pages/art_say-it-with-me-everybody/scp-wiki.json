@@ -1,0 +1,16 @@
+{
+  "title": "\"Say it with me everybody\"",
+  "content": "[[include :scp-wiki:theme:black-highlighter-theme]]\n[[include :scp-wiki:theme:telecommunications-monitoring-office-theme]]\n[[include :scp-wiki:component:toggle-sidebar-bhl]]\n[[include :scp-wiki:component:ratio-bar base=-- |ex=--]]\n\n[[>]]\n[[include info:start]]\n[[<]]\n\n[[include :scp-wiki:component:ratio-bar pie=--]]\n\n**Article:** \"Say it with me everybody\"\n\n**Author:** [[*user BattleblockB0ss]]\n\n[[/<]]\n[[include info:end]]\n[[/>]]\n\nA diegetic poster that would appear in one of the TMO's facilities. Inspired by [[*user Meserach]]'s [[[Atomic]]].\n\n[[=image http://scp-wiki.wikidot.com/local--files/art:say-it-with-me-everybody/poster]]\n\n[[include :scp-wiki:component:wikimodule |normal= --]]]",
+  "tags": [
+    "_cc",
+    "artwork",
+    "poster",
+    "telecom-office"
+  ],
+  "author": "BattleblockB0ss",
+  "created_at": "2022-03-31T01:46:27+00:00",
+  "updated_at": "2024-03-28T14:27:11+00:00",
+  "rating": 63,
+  "_site": "scp-wiki",
+  "_fullname": "art:say-it-with-me-everybody"
+}

@@ -1,0 +1,13 @@
+{
+  "title": "It Always Ends The Same 13",
+  "content": "[[include :scp-wiki:theme:black-highlighter-theme]]\n[[include :scp-wiki:theme:extra-black-highlighter-theme]]\n\n[[module CSS]]\n#page-title{display:none}\n\n :root{\n     --link-color: 221, 17, 17;\n     --visited-link-color: 221, 17, 17;\n     --hover-link-color: 221, 102, 17;\n}\n[[/module]]\n\n[[=image street.jpg size=100%]]\n\nIt doesn't work.\n\nYou stumble through your day in a stupor. You feel heavy, sluggish. Words don't come out quite right, you feel as half-formed as your sentences. Some promethean monstrosity of dripping clay, not quite finished, not quite sure of what is going on around you. The things you should find simple are difficult, and the things you should find difficult are nigh impossible.\n\nYou feel like such a fool. One thought won't leave your mind:\n\n//Some people just aren't meant to live successful lives.//\n\nYou think of the girl. Maybe some people aren't meant to live long lives either.\n\nThe day reaches its end; you return home. Your eyes so heavy you can barely keep them open. Surely tonight you will sleep well. And yet...\n\n= It always ends the same.\n\n= //[[[https://scp-wiki.wikidot.com/it-always-ends-the-same/offset/15 |Continue?]]]//",
+  "tags": [
+    "fragment"
+  ],
+  "author": "Dysadron",
+  "created_at": "2023-04-03T21:01:41+00:00",
+  "updated_at": "2023-04-03T21:38:22+00:00",
+  "rating": 0,
+  "_site": "scp-wiki",
+  "_fullname": "fragment:it-always-ends-the-same-13"
+}

@@ -1,0 +1,19 @@
+{
+  "title": "MDI-6726",
+  "content": "[[include :scp-jp:credit:start]]\n**タイトル:** MDI-6726 - [[span class=\"ruby\"]]催吐性病気エージェント[[span class=\"rt\"]]Emetic Ill Agent[[/span]][[/span]]\n**翻訳責任者:** [[*user Witherite]]\n**翻訳年:** 2021\n**原題/リンク:** [https://scp-wiki.wikidot.com/scp-6726 MDI-6726 - Emetic Ill Agent]\n**著作権者:** [[*user Uncle Nicolini]]\n**作成年:** 2021\n**初訳時参照リビジョン:** rev.7\n[[include :scp-jp:credit:end]]\n\n@@ @@\n[[include component:image-block name=http://scp-jp-storage.wdfiles.com/local--files/file%3A6370408-14-97xq/graph%20ja.png|caption=//図.1: MDI-6726の顕著な症状。//|width=300px]]\n\n**医療部門識別番号:** MDI-6726\n\n**一般記述名:** ミーム殺害エージェントへの曝露\n\n**症状:** 失明、重篤な吐き気、めまい、偏頭痛、発作、過換気\n\n**治療優先度:** 青\n\n**致死性:** 5（非致死性）\n\n**感染リスク:** 無し\n\n**ハザード:** 生物学的\n\n**治療法:** 患者を隔離室に確保し、患者に治療が施行されていることを通知する。クラスA記憶処理錠剤を投与し、24時間の観察を行う。患者の従業員番号をサイト管理官のオフィスへ報告する。\n\n**情報:** MDI-6726はミーム的記号群である。ヒトが視覚的に観察を行うと、重篤な吐き気、めまい、幻覚、パニック、一時的な失明を引き起こす。\n\n機密文書にアクセスを試みた従業員の同定を容易にするため、MDI-6726への曝露により引き起こされる症状は一時的なものであり、強いストレスを引き起こすよう設計された。絶望的な状況が引き起こされるため、曝露者は医療職員に対し非常に協力的になり、記憶処理への抵抗が不能になる。\n\nこの記号群は、脳に有害な精神的刺激を引き起こすフラクタル的かつ異常な模様の画像である[[span class=\"ruby\"]]Langford分類J多元的イメージ[[span class=\"rt\"]]Langford Category-J Hypercomplex Imagery[[/span]][[/span]]の形態をとる。この記号群の場合体調不良の感覚を引き起こす。MDI-6726への曝露者は典型的には即座に治療を受けることを求めるが、3.54%のケースではその影響の「終息を待つ」ことを試みる。\n\nMDI-6726の性質の無害性は、このアノマリーを作成した医療・ミーム部門以外の財団職員には認知されていない。MDI-6726は現在SCP-001などの機密文書を無許可アクセスから保護するため利用されている。\n@@ @@\n@@ @@\n@@ @@\n@@ @@\n@@ @@\n@@ @@\n@@ @@",
+  "tags": [
+    "en",
+    "esoteric-class",
+    "scp",
+    "ミーム",
+    "精神影響",
+    "視覚",
+    "財団製"
+  ],
+  "author": "Witherite",
+  "created_at": "2021-07-03T02:19:20+00:00",
+  "updated_at": "2024-04-20T14:04:06+00:00",
+  "rating": 32,
+  "_site": "scp-jp",
+  "_fullname": "scp-6726"
+}

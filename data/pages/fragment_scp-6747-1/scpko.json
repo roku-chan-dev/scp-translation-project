@@ -1,0 +1,14 @@
+{
+  "title": "SCP-6747 조각문서 1",
+  "content": "[[include :scpko:theme:admo astral=a]]\n\n[[module CSS]]\n\n/* SCP-6747 -  혼돈 이론 */\n/* 접근성 패치 */\n\n*[style*=\"#22bb44\"] {\n    color: rgb(var(--one-color)) !important;\n}\n\n[[/module]]\n\n[[div class=\"admo-accessibility\"]]\n[[span class=\"cond\"]]>> [/scp-6747 일반 모드 보기] <<[[/span]]\n[[/div]]",
+  "tags": [
+    "en",
+    "조각문서"
+  ],
+  "author": "Cubic72",
+  "created_at": "2024-07-09T08:26:57+00:00",
+  "updated_at": "2024-07-09T08:27:29+00:00",
+  "rating": 0,
+  "_site": "scpko",
+  "_fullname": "fragment:scp-6747-1"
+}

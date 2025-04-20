@@ -1,0 +1,18 @@
+{
+  "title": "SCP-LA-002",
+  "content": "[[include info:start]]\n**SCP-LA-002:** 과일\n**원작:** http://scp-la.wikidot.com/scp-la-002\n**INT 번역:** http://scp-int.wikidot.com/scp-la-002\n**저자:** [[*user Calibri Bold]]\n**역자:** [[*user Calibri Bold]](LA to EN), [[*user fluxman]](EN to KO)\n[[include info:end]]\n**일련번호:** SCP-LA-002\n\n**등급:** 유클리드\n\n**특수 격리 절차:** 대상의 크기 때문에 SCP-LA-002의 격리는 불필요하다.\n\n**설명:** SCP-LA-002는 지구 2012년 8월 14일에 지구 대기권을 떠난 라임 하나이다. 어떻게 라임이 온전한지는 아직 알지 못하지만, 현재 천왕성과 해왕성 사이 궤도를 공전하고 있다.\n\n**부록 LA-002.1:** 탄도 분석 결과, SCP-LA-002는 애리조나 주의 교외에 있는 집에서 기원했다고 드러났다. 집안에 있는 에코닷에서 다음 녹음 기록이 발견되었다.\n\n> **여성 목소리:** 너희들, 라임 하나 갖고 그렇게 싸울 거면, 너희 둘 다 가지지 마!\n> \n> //[문이 열리는 소리, 뒤이어 소닉붐]//\n> \n> **목소리:** 방으로 돌아가, 당장!",
+  "tags": [
+    "la",
+    "scp",
+    "비격리",
+    "생물학",
+    "식물",
+    "유클리드"
+  ],
+  "author": "fluxman",
+  "created_at": "2020-10-31T14:12:09+00:00",
+  "updated_at": "2022-10-10T10:38:42+00:00",
+  "rating": 6,
+  "_site": "scpko",
+  "_fullname": "scp-la-002"
+}

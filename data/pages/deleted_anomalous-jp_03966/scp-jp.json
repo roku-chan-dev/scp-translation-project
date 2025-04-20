@@ -1,0 +1,11 @@
+{
+  "title": "03966",
+  "content": "content: \"[[html]]\\n<!DOCTYPE html>\\n<html lang = \\\"ja\\\">\\n<head>\\n<meta charset=\\\"UTF-8\\\"> \\n\\n<style>\\n\\n\\n\\n</style> \\n\\n</head>\\n\\n<body>\\n\\n<div id=\\\"space\\\">\\n\\n</div>\\n\\n<!--好きな画像を貼ってください-->\\n<div id=\\\"detayo\\\" style=\\\"   height:20px;\\\"></div>\\n\\n\\n<script>\\nfunction kantan(entries) {\\n\\nif (entries[0].intersectionRatio == 0) {\\nreturn;\\n}\\n\\nelse\\n{\\nobserver.unobserve(gazou);\\n        var message = \\\"端末の位置情報へのアクセスを許可してください\\\";\\n//「OK」ボタンをクリックした時\\nif(confirm(message)) {\\nalert( \\\"みつけた\\\") ;\\n\\n//「キャンセル」ボタンをクリックした時\\n} else {\\nalert( \\\"警告: お前は探されています\\\") ;\\n\\n}\\n\\n}\\n\\n}\\n\\n;\\n\\nvar gazou = document.getElementById(\\\"detayo\\\");\\n\\nvar options = {\\n\\nthreshold:1\\n}\\n\\n;\\n\\nvar observer = new IntersectionObserver(kantan,options);\\n\\nobserver.observe(gazou);\\n</script>\\n\\n</body>\\n</html>\\n[[/html]]\\n**説明:** お前\\n**回収日:** 未回収\\n**回収場所:** 未回収\\n**現状:** 捜索中\\n**追記:** みつけた\"\ntf2: '0'\nauthor: ''\nredirect-b: '[[module Redirect destination=\"http://ja.scp-wiki.net/log-of-anomalous-items-jp'\nredirect-e: '\"]]'",
+  "tags": [],
+  "author": "R-suika",
+  "created_at": "2023-02-12T07:18:16+00:00",
+  "updated_at": "2023-02-15T13:57:50+00:00",
+  "rating": 9,
+  "_site": "scp-jp",
+  "_fullname": "deleted:anomalous-jp:03966"
+}

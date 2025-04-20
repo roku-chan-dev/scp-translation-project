@@ -1,0 +1,18 @@
+{
+  "title": "Devil's Here to Collect",
+  "content": "[[include :scp-wiki:theme:basalt darkmode=a]]\n\n[[>]]\n[[module Rate]]\n[[/>]]\n@@ @@\n\n[[module css]]\na#history-button, a#files-button {\ndisplay: none!important;\n}\n[[/module]]\n\n[[include :scp-wiki:component:image-features-source |hover-enlarge=--]\n|enlarge-amount=50%\n|speed=1\n|float=false\n|align=left\n|url=https://i.imgur.com/AfSmDvF.png\n|add-caption=false\n|caption=text\n]]\n--------\n\n\n@@ @@\n@@ @@\n@@ @@\n@@ @@\n@@ @@\n\n[[=]]\n[[collapsible show=\"Version with No Words\" hide=\"Close\"]]\n@@ @@\n[[include :scp-wiki:component:image-features-source |hover-enlarge=--]\n|enlarge-amount=100%\n|speed=3\n|float=true\n|align=left\n|url=https://i.imgur.com/8inPWrE.png\n|add-caption=false\n|caption=text\n]]\n[[/collapsible]]\n\n[[/=]]\n\n[[include :scp-wiki:component:license-box]]\n=====\n> **Filename:** AfSmDvF.png\n> **Author:** [[*user Ruskied]]\n> **License:** CC BY-SA 3.0\n> **Source Link:** [https://imgur.com/AfSmDvF Imgur]\n\n> **Filename:** 8inPWrE.png\n> **Author:** [[*user Ruskied]]\n> **License:** CC BY-SA 3.0\n> **Source Link:** [https://imgur.com/8inPWrE Imgur]\n=====\n[[include :scp-wiki:component:license-box-end]]",
+  "tags": [
+    "_cc",
+    "_licensebox",
+    "art-exchange",
+    "cel-shaded",
+    "comic",
+    "tale"
+  ],
+  "author": "Ruskied",
+  "created_at": "2023-01-18T21:29:56+00:00",
+  "updated_at": "2024-07-28T06:58:32+00:00",
+  "rating": 19,
+  "_site": "scp-wiki",
+  "_fullname": "devil-s-here-to-collect"
+}

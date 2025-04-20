@@ -1,0 +1,25 @@
+{
+  "title": "SCP-4878",
+  "content": "[[include :scp-wiki:theme:classic]]\n[[>]]\n[[module Rate]]\n[[/>]]\n[[include component:image-block name=mynameislegionforwearemany.jpg|caption=A cockroach affected by SCP-4878]]\n**Item #:** SCP-4878\n\n**Object Class:** Safe\n\n**Special Containment Procedures:** SCP-4878 is kept in Site-119, within an item locker equipped with a Faraday cage.\n\n**Description:** SCP-4878 is a small (35 cm long) ovoid, metallic signaling device that influences cockroach behavior.\n\nSCP-4878 continuously emits several overlapping radio frequencies that exert an anomalous effect on cockroaches within an approximate 700 m radius. Affected cockroaches will form a single large swarm, and undergo temporary physical and social changes including an increased metabolism, increased hostility to non-cockroaches, and a greatly reduced aversion to light. \n\nThe cockroach swarm will move cohesively as a single unit following food, with a small number of cockroaches in the swarm carrying SCP-4878 such that it remains close to the geometric center of the swarm. Cockroaches affected by SCP-4878 will attempt to eat almost anything in their path. If the swarm encounters a structure it is incapable of chewing, it will instead use its collective mass to attempt to destroy the structure.\n\nNotably, SCP-4878 will not harm humans, even in self-defense.\n\nOpening SCP-4878 reveals an electronic controller for the radio transmitter, as well as a miniaturized radioisotope thermoelectric generator, a receiver, and a living human cerebellum suspended in a clear gel-filled container laser engraved with a logo similar to that of the Foundation's. Removal and subsequent testing of this controller has revealed the existence of several additional \"settings\", that manipulate the cockroaches into forming large, organized conglomerations designated SCP-4878-A. The size of these formations varies depending on the number of cockroaches within range of the signal but can exceed 30 m in length.\n\nWhile in an SCP-4878-A state, affected cockroaches gain increased strength and resilience, and appear to exhibit a rudimentary hive mind. Different settings cause SCP-4878-A to manifest in different configurations, most of which resemble singular, very large cockroaches with various modifications such as large pincers, battering rams, additional sets of wings, or tank turrets that launch compressed balls of cockroaches.\n\nSCP-4878 was recovered after instantaneously manifesting in mid-air and impacting approximately 2 km from Site-119. \n\n**Addendum:** Following extensive efforts, SCP-4878's internal computer has been decrypted. SCP-4878 contains detailed maps of several planets and moons, as well as detailed documents describing the genetic modification and specialized breeding of various strains of cockroaches. These cockroaches described were designed with enhanced resistance to radiation, corrosive enzymes in saliva, adaptive respiratory systems, and sensitivity to radio waves. All documents carry timestamps from the year 2192.\n\n[[div class=\"footer-wikiwalk-nav\"]]\n[[=]]\n<< [[[SCP-4877]]] | SCP-4878 | [[[SCP-4879]]] >>\n[[/=]]\n[[/div]]\n\n[[include :scp-wiki:component:license-box]]\n=====\n> **Filename:** mynameislegionforwearemany.jpg\n> **Name:** Cockroach May 2007-1\n> **Author:** Alvesgaspar\n> **License:** CC BY-SA 4.0\n> **Source Link:** [https://commons.wikimedia.org/wiki/File:Cockroach_May_2007-1.jpg Wikimedia Commons]\n=====\n[[include :scp-wiki:component:license-box-end]]",
+  "tags": [
+    "_cc",
+    "_licensebox",
+    "electromagnetic",
+    "electronic",
+    "future",
+    "hive-mind",
+    "insect",
+    "neurological",
+    "safe",
+    "scp",
+    "swarm",
+    "transmission",
+    "weapon"
+  ],
+  "author": "Weryllium",
+  "created_at": "2019-07-24T18:46:28+00:00",
+  "updated_at": "2022-10-01T18:06:17+00:00",
+  "rating": 71,
+  "_site": "scp-wiki",
+  "_fullname": "scp-4878"
+}

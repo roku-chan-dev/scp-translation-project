@@ -1,0 +1,18 @@
+{
+  "title": "SCP vs. シリーズ",
+  "content": "[[include :scp-jp:component:info-ayers\n|lang=en[!-- EN/RU/KO/CN/FR/PL/ES/TH/JP/DE/IT/UA/PTBR --]\n|page=dr-cimmerian-s-personnel-file[!-- url of your page on the scp wiki --]\n|authorPage=http://scp-jp.wikidot.com/dr-cimmerian-s-personnel-file[!-- link to your author page --]\n|comments=この素晴らしいコミックを作ってくれたユーザー\"Valcano Girls\"に特大の感謝を申し上げます。\n]]\n[[include :scp-jp:theme:black-highlighter-theme]]\n[[module CSS]]\nsup {\nvertical-align: top; position: relative; top: -0.5em;\n}\n:root{\n--cutColour: #fafafa;\n--barColour: #590505;\n}\n\n.info-container .collapsible-block-folded a{\ncolor: #FFF;}\n.info-container .collapsible-block-unfolded-link a{\ncolor: #FFF;}\n\n.translation_block{\ndisplay:none;}\n[[/module]]\n\n[[include :scp-jp:credit:start]]\n**原作:** https://scp-wiki.wikidot.com/in-opposition-to\n**原題:** SCP Vs. Series\n**原著者:** [[user Doctor Cimmerian]]\n**作成年:** 2019\n----\n**タイトル:** SCP vs.シリーズ\n**翻訳者:** [[user guestC]]\n**翻訳年:** 2022\n**初訳リビジョン:** rev.23\n[[include :scp-jp:credit:end]]\n\n[[=]]\n+ SCP vs. ハブ\n[[/=]]\nSCP vs. ハブへようこそ。ここにはSCPキャラクターとオブジェクトたちが様々なシチュエーションで競い合う話が置いてあります。時にそれは死闘です。時にそれはショッピングです。世界を救うために人々が力を尽くす物語だったりもします。予測不可能です。\n\n**SCP-173**\n* [[[consequences-and-collarbones | vs. SCP-096]]]\n* [[[snap-crackle-pop | vs. SCP-106]]]\n\n**ブライト博士**\n* [[[with-a-target | vs. クレフ博士]]]\n* [[[an-ending-is-only-tragic | vs. SCP-076]]]\n* [[[come-together-right-now-over-me | vs. SCP-682]]]\n* [[[the-melody-is-familiar | vs. SCP-079]]]\n\n**Dクラス**\n* [[[everything-can-change-in-the-blink-of-an-eye | vs. SCP-173]]]\n* [[[nor-spake-nor-moved-their-eyes | vs. SCP-049]]]\n* [[[the-horrors-of-an-unclean-bowl | vs. SCP-789-J ]]]",
+  "tags": [
+    "en",
+    "ギアーズ博士",
+    "クレフ博士",
+    "シメリアン博士",
+    "ハブ",
+    "ブライト博士"
+  ],
+  "author": "guestC",
+  "created_at": "2022-03-22T12:12:34+00:00",
+  "updated_at": "2022-03-25T15:37:31+00:00",
+  "rating": 20,
+  "_site": "scp-jp",
+  "_fullname": "in-opposition-to"
+}

@@ -1,0 +1,23 @@
+{
+  "title": "SCP-6465",
+  "content": "[[include :scp-wiki:component:info-ayers\n|lang=en\n|page=component:info-ayers\n|authorPage=https://scp-wiki.wikidot.com/nddragoon-s-cringe-cave\n|comments=first rule of SCP-6465: don't talk about SCP-6465. second rule is to have fun and be yourself <3\n]]\n\n[[>]]\n[[module Rate]]\n[[/>]]\n\n[[include :scp-wiki:theme:black-highlighter-theme]]\n[[include :scp-wiki:theme:extra-black-highlighter-theme]]\n[[include :scp-wiki:component:bhl-dark-sidebar]]\n\n[[module CSS]]\n#page-title {\n    display: none;\n}\n[[/module]]\n\n[[module ListPages  category=\"fragment\" parent=\".\" limit=\"1\" order=\"created_at\" offset=\"@URL|0\"]]\n%%content%%\n[[/module]]\n\n[!-- Fragments:\nhttps://scp-wiki.wikidot.com/fragment:scp-6465-1\nhttps://scp-wiki.wikidot.com/fragment:scp-6465-2 --]\n[[div class=\"footer-wikiwalk-nav\"]]\n[[=]]\n<< [[[SCP-6464]]] | SCP-6465 | [[[SCP-6466]]] >>\n[[/=]]\n[[/div]]\n[[include :scp-wiki:component:license-box]]\n[[include :scp-wiki:component:license-box-end]]",
+  "tags": [
+    "_licensebox",
+    "_listpages",
+    "alive",
+    "bird",
+    "humanoid",
+    "infohazard",
+    "keter",
+    "sapient",
+    "scp",
+    "teleportation",
+    "wandsmen"
+  ],
+  "author": "nddragoon",
+  "created_at": "2022-07-21T05:24:29+00:00",
+  "updated_at": "2022-10-08T19:25:39+00:00",
+  "rating": 37,
+  "_site": "scp-wiki",
+  "_fullname": "scp-6465"
+}

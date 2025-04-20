@@ -1,0 +1,13 @@
+{
+  "title": "SCP-6664 0",
+  "content": "[[include :scp-wiki-cn:theme:black-highlighter-theme]]\n\n[[module CSS]]\n:root {\n    --header-title: \"辅助植物学部门\";\n    --header-subtitle: \"追溯异常之源\";\n    --logo-image: url(\"http://scp-wiki.wdfiles.com/local--files/scp-3529/parazoo_downsideup.png\");\n\n    --pale-accent: 40, 230, 60;\n    /* light red, for visited links */\n    --bright-accent: 0, 133, 5;\n    /* bright red */\n    --medium-accent: 46, 100, 44;\n    /* medium red - the \"default\" accent color */\n    --dark-accent: 3, 100, 15;\n    /* dark red */\n    --alt-accent: 102, 221, 17;\n    /* pale orange, for newpage links */\n}\n[[/module]]\n\n[[include :scp-wiki:component:bhl-dark-sidebar]]\n\n[[include :scp-wiki:component:toggle-sidebar-bhl]]\n\n[[include :scp-wiki-cn:component:acs-animation]]\n\n[[include :scp-wiki-cn:component:anomaly-class-bar-source\n    |lang= cn\n\n    |item-number= 6664\n\n    |clearance= 1\n\n    |container-class= safe\n\n    |secondary-class= none\n\n    |disruption-class= dark\n\n    |risk-class= 待观察\n\n    ]]\n\n-----\n\n[[include component:image-block name=http://scp-wiki.wikidot.com/local--files/fragment:scp-6664-0/treeI.png|align=center|width=100%|caption=收容前的SCP-6664。]]\n\n-----\n\n**特殊收容措施：**SCP-6664应被收容于Site-103生物收容区的温室中。为防止对SCP-6664的枝叶造成损坏，应禁止攀爬之。\n\n**描述：**SCP-6664为一目前位于Site-103的夏栎（//Quercus robur//），俗称普通橡树。除其异常性质外，其与同树种树木无异。\n\nSCP-6664将在尚未发育成熟的人类攀爬其时表现出异常性质。当一儿童攀爬SCP-6664时，其不会如预期般到达树顶，而是被传送至一未知地点，称为SCP-6664-1。\n\nSCP-6664-1为一座废弃仓库，仅能通过攀爬SCP-6664进入 。除几堆瓦砾碎片外，SCP-6664-1内部无其他物体。其天花板上悬挂有两只白炽灯，远处有一扇门。未发现其他门窗。于SCP-6664-1内部的对象表示有一种怀旧感与舒适感。打开远处的门时，对象会遇到一个小壁橱，里面存有一个对其而言非常具有个人意义的物品，且该物体一度被认为已丢失。\n\n可通过取走该物品并关闭壁橱门离开SCP-6664-1，随后对象将被传送回SCP-6664的枝干上。\n-----\n\n[[=]]\n+ **附录6664.1：发现记录**\n[[/=]]\n\nSCP-6664被发现于2014年1月18日，一个当地儿童Nathan Terrano表述自己和朋友Valerie Marsh进入了SCP-6664-1。Marsh的母亲Maria Marsh探员得知了SCP-6664-1的存在，并报告其可能为一种异常。随后SCP-6664被移至Site-103中。\n\n[[div class=\"blockquote\"]]\n//我注意到该文件的几个部分存在错误，因此对其进行了相应的修改。//\n\n//——Wendover博士//\n\n**附件：**[[[http://scp-wiki-cn.wikidot.com/scp-6664/offset/1|SCP-6664-更新文档.pdf]]]\n\n[[/div]]",
+  "tags": [
+    "段落"
+  ],
+  "author": "EvkesraRe",
+  "created_at": "2022-02-11T14:26:20+00:00",
+  "updated_at": "2022-02-11T14:35:15+00:00",
+  "rating": 0,
+  "_site": "scp-wiki-cn",
+  "_fullname": "fragment:scp-6664-0"
+}

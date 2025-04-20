@@ -1,0 +1,15 @@
+{
+  "title": "괴기명명전 요세(寄席) 전단",
+  "content": "[[module CSS]]\n@import url('https://fonts.googleapis.com/css2?family=Noto+Serif+KR:wght@400;700&display=swap');\n \nbody {\n    font-family: 'Noto Serif KR';\n}\n.color a{\n    color: black;\n}\n[[/module]]\n\n[[include credit:start]]\n**제목:** 괴기명명전 요세(寄席) 전단\n**저자:** [[*user Phylliidae]]\n**역자:** [[*user Migueludeom]]\n**작성년도:** 2021\n[[include credit:end]]\n@@@@\n@@@@\n------\n\n[[div style=\"margin: auto; width: 60%;\"]]\n\n**이것은, 옛날에 있었던 [[span class=\"ruby\"]]이야기[[span class=\"rt\"]]事: 코토[[/span]][[/span]].**\n**하지만, 역사에 기록된 일은 결코 없는 [[span class=\"ruby\"]]이야기[[span class=\"rt\"]]噺: 하나시[[/span]][[/span]]입니다.**\n**현대의 과학으로도 이해가 미치지 못하는 괴이……. 우연히 그것들과 얼굴을 마주치고 만, 보통 사람들의 [[span class=\"ruby\"]]이야기[[span class=\"rt\"]]物語: 모노가타리[[/span]][[/span]]입니다.**\n\n[[>]]\n**〜[http://scpko.wikidot.com/kaiki-meimeiden-hub 『괴기명명전 허브』]에서〜**\n[[/>]]\n[[/div]]\n\n------\n@@@@\n@@@@\n[[=image http://scp-jp-storage.wikidot.com/local--files/file:6693676-17-t7d9/F6A166B9-1EC5-4E0C-A000-49AA6DE94EE9.jpeg style=\"max-width:90%;\"]]\n\n[[=]]\n[[size 130%]]\n[[div class=\"color\"]]\n[[collapsible show=\"『천상천하지회물』(天上天下之廻物)\" hide=\"크레디트\"]]\n[[/div]]\n[[div class=\"blockquote\"]]\n[http://scpko.wikidot.com/str0013 『천상천하지회물』(天上天下之廻物)]\n[[*user str0717]]\n(2021)\n[[/div]]\n\n[[/collapsible]]\n[[/size]]\n[[/=]]\n------\n\n[[=image http://scp-jp-storage.wikidot.com/local--files/file:6693676-18-gsp7/959ABB72-A3FC-43E2-B910-17724C9E29D5.jpeg style=\"max-width:90%;\"]]\n\n[[=]]\n[[size 130%]]\n[[div class=\"color\"]]\n[[collapsible show=\"『천녀』(天ノ娘)\" hide=\"크레디트\"]]\n[[/div]]\n\n[[div class=\"blockquote\"]]\n[http://scpko.wikidot.com/str0011 『천녀』(天ノ娘)]\nBy: [[*user str0717]]\n(2020)\n[[/div]]\n[[/collapsible]]\n[[/size]]\n[[/=]]\n------\n[[=image http://scp-jp-storage.wikidot.com/local--files/file:6693676-19-c0q2/3BE1FDB0-06D8-48B5-B121-EDC84FF1756D.jpeg style=\"max-width:90%;\"]]\n\n[[=]]\n[[size 130%]]\n[[div class=\"color\"]]\n[[collapsible show=\"『비단을 찢고』\" hide=\"크레디트\"]]\n[[/div]]\n\n[[div class=\"blockquote\"]]\n[http://scpko.wikidot.com/str0007 『비단을 찢고』]\n [[*user str0717]]\n(2020)\n[[/div]]\n[[/collapsible]]\n[[/size]]\n[[/=]]\n\n[[footnoteblock]]\n[!-- 각주를 댓글 위에 표시하기 위한 구문입니다. 지우지 마시고 초안은 이 위에 쓰세요.  --]",
+  "tags": [
+    "jp",
+    "괴기명명전",
+    "아트워크"
+  ],
+  "author": "Migueludeom",
+  "created_at": "2021-10-27T13:31:22+00:00",
+  "updated_at": "2022-01-02T00:14:42+00:00",
+  "rating": 2,
+  "_site": "scpko",
+  "_fullname": "phylliidae-meimei-artwork"
+}

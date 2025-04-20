@@ -1,0 +1,13 @@
+{
+  "title": "Darkartists Sciptember Hub 4",
+  "content": "[[=]]\n[[module Rate]]\n[[/=]]\n[[include :scp-wiki:component:author-label-source start=--\n|name=TheDarkArtist\n|center=*]]\nWhen the lullaby is clockwork\n[[include :scp-wiki:component:author-label-source end=--]]\n\n[[module CSS]]\n.beeg-text .collapsible-block .collapsible-block-link {\n    font-size: 25px;\n}\n[[/module]]\n\n----\n\n[[=]]\n[[image clockwork-lullaby.png link=\"https://scp-wiki.wikidot.com/scp-6551\"]]\n[[/=]]\n\n----\n\n[[div class=\"footer-wikiwalk-nav\"]]\n[[=]]\n<< [http://scpdsandbox.wikidot.com/darkartists-sciptember-hub/offset/3 PRIOR] | [[[art:darkartists-sciptember-hub|HOME]]] | [http://scpdsandbox.wikidot.com/darkartists-sciptember-hub/offset/5 NEXT] >>\n[[/=]]\n[[/div]]\n\n----\n\n[[=]]\n[[module Rate]]\n[[>]]\n+ Porridge\n[[/>]]\n\n[[div class=\"beeg-text\"]]\n[[collapsible show=\"□ More by DarkArtist □\" hide=\"▣ More by DarkArtist ▣\"]]\n\ntrolled\n\n[[/collapsible]]\n[[/div]]\n[[/=]]\n\n----",
+  "tags": [
+    "fragment"
+  ],
+  "author": "TheDarkArtist",
+  "created_at": "2022-09-07T18:12:08+00:00",
+  "updated_at": "2022-09-08T11:35:02+00:00",
+  "rating": 0,
+  "_site": "scp-wiki",
+  "_fullname": "fragment:darkartists-sciptember-hub-4"
+}

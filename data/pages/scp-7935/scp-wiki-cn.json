@@ -1,0 +1,17 @@
+{
+  "title": "SCP-7935",
+  "content": "[[module CSS]]\n#page-title {display: none;}\n[[/module]]\n\n**项目编号：** 7935\n\n**项目等级：** Thaumiel\n\n**特殊收容措施：** SCP-7935将留存在Site-357异常文物鉴赏区的A7翼区内展示。\n\n被找到的SCP-7935-1个体将被挖出，转移到Site-357，与SCP-7935及生长灯保持邻近。这些个体将被每日浇水两次，监控其有无特殊生长模式。 \n[[include :scp-wiki:component:image-block-peppo\n|name= https://scp-wiki.wdfiles.com/local--resized-images/scp-7935/mound/medium.jpg\n|caption=SCP-7935\n|width=300px\n]]\n**描述：** SCP-7935是斯坦尼斯拉夫·伊格纳西·维特凯维奇画作《Szatan》的一幅赝品副本。该画作本身未受损坏，但它被框在其原始画框中，画框在收购前即因水浸破坏而弯曲。\n\nSCP-7935-1是一种人肉聚合团块。此类实体由两根手臂、两根腿以及一个头[[footnote]]具有任何数量的人类应有感知器官及体腔。[[/footnote]]、至少一个阴茎，所有器官都缠绕在一团中央肉堆周围。此外，这些个体都长有复杂的根形突出物，从其下侧伸出；其细胞内含有叶绿素，使之带有一定绿色色调，且可以依靠充沛光线及水来自我给养。\n\n新生的SCP-7935-1个体已在全球多个地点被发现，但最频繁出现在大学校区及人口组成近似的地点周围。大部分个体被发现时处于发育早期，其皮肤更为苍白，明确的肢体数量更少。在95%的案例中，这些个体会因为营养不良自然死亡，无法自我维持。[[footnote]]即便其具有合适的功能。[[/footnote]]需注意，前述效应可通过暴露于SCP-7935来补救，保持靠近画作将使肉堆膨胀变大，维持其成熟状态。\n\n**附录-1：** 初级研究员Elias Flock在为一只SCP-7935个体浇水时，被记录到大声念出以下思索。\n> “哟你这突起不是挺好看么，伙计。”\n而后观察到他用水挑逗了一下前述突出物，而后继续工作。\n\n在Flock开展维护的几小时后，被浇水的个体开始自我收缩，形成某种芽状结构，并如此维持了约三天时间。而后观察到该个体舒展开来，向外将肢体伸展到容器之外，并露出其内部已经发育出一颗人类心脏。[[footnote]]稳定以112 BPM的速率搏动。[[/footnote]]该个体自此事后维持在了这种变异状态下。正在调查此种行为表现。\n@@ @@\n[[div class=\"footer-wikiwalk-nav\"]]\n[[=]]\n<< [[[SCP-7934]]] | SCP-7935 | [[[SCP-7936]]] >>\n[[/=]]\n[[/div]]\n[[=]]\n[[include :scp-wiki:component:license-box\n|author=IndustryStandard]]\n[[<]]\n=====\n> **Filename:** mound\n> **Name:** Szatan\n> **Author:** Ablatok\n> **License:** CC BY-SA 4.0\n> **Source Link:** https://commons.wikimedia.org/wiki/File:Stanis%C5%82aw_Ignacy_Witkiewicz_-_Szatan.jpg\n> **Additional Notes:** Reproduction and photograph of Stanisław Ignacy Witkiewicz's painting Satan.\n=====\n[[/<]]\n[[include :scp-wiki:component:license-box-end]]\n[[/=]]",
+  "tags": [
+    "scp",
+    "thaumiel",
+    "人形生物",
+    "植物",
+    "艺术性"
+  ],
+  "author": "ashausesall",
+  "created_at": "2023-12-09T03:24:22+00:00",
+  "updated_at": "2023-12-09T03:26:50+00:00",
+  "rating": 1,
+  "_site": "scp-wiki-cn",
+  "_fullname": "scp-7935"
+}

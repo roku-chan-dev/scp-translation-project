@@ -1,0 +1,23 @@
+{
+  "title": "SCP-5041",
+  "content": "[[include info:start]]\n**SCP-5041:** The Man in the Iron Mask\n**Author:** [[*user stormbreath]]\n\n* Thanks to [[*user MaliceAforethought]] for looking this over. His crit prompted me to go in a vastly different direction from my original drafts, which I was much happier with.\n* Thanks to [[*user The Pighead]] for help with French translation.\n* Additional thanks to my other critters: [[*user DrAkimoto]], [[*user Oboebandgeek99]], [[*user Anxiety Incorporated]], [[*user MalyceGraves]]\n\nView more of my articles [[[stormbreath|here.]]]\n\n----\n\nFor the benefit of translators and editors, here are links to the individual offsets:\n\n* **[https://scp-wiki.wikidot.com/fragment:scp-5041-1 First Page]**\n* **[https://scp-wiki.wikidot.com/fragment:scp-5041-2 Second Page]**\n\n[[include info:end]]\n[[div class=\"au-credit\"]]\nby [[[stormbreath]]]\n[[/div]]\n\n[[module CSS]]\n.au-credit {\n    text-align: right;\n    margin-right: 2em;\n    margin-top: -10px;\n}\n\n#page-content .creditRate {\n    margin-bottom: 0;\n}\n[[/module]]\n\n[[module ListPages category=\"fragment\" parent=\".\" order=\"created_at\" limit=\"1\" offset=\"@URL|0\"]]\n%%content%%\n[[/module]]\n\n[[footnoteblock]]\n\n[[div class=\"footer-wikiwalk-nav\"]]\n[[=]]\n<< [[[SCP-5040]]] | SCP-5041 | [[[SCP-5042]]] >>\n[[/=]]\n[[/div]]\n\n[[include :scp-wiki:component:license-box]]\n[!-- N/A (No Images)  --]\n[[include :scp-wiki:component:license-box-end]]",
+  "tags": [
+    "_licensebox",
+    "_listpages",
+    "cadaver",
+    "ethics-committee",
+    "humanoid",
+    "infohazard",
+    "knowledge",
+    "mind-affecting",
+    "neutralized",
+    "reality-bending",
+    "scp"
+  ],
+  "author": "stormbreath",
+  "created_at": "2020-05-18T18:40:52+00:00",
+  "updated_at": "2023-04-28T18:34:13+00:00",
+  "rating": 192,
+  "_site": "scp-wiki",
+  "_fullname": "scp-5041"
+}

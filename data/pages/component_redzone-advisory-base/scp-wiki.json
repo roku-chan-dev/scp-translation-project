@@ -1,0 +1,13 @@
+{
+  "title": "Redzone Advisory Base",
+  "content": "[[module CSS]]\n#u-info div.name {\n  clear: left;\n  width: 11em;\n  font-weight: bold;\n}\n#u-info div {\n  float: left;\n  margin-bottom: 0.5em;\n}\n#u-info {\n  float: left;\n}\n#u-enum {\n  float: right;\n}\n.letterhead {\n  max-width: 80%;\n  max-height: 50px;\n  width: auto;\n  display: block;\n  margin-left: auto;\n  margin-right: auto;\n}\nh1, h2, .title, #page-title {\n  color: {$color};\n}\nh2 {\n  font-weight: bold;\n}\ndiv#page-title {\n  display: none;\n}\n[[/module]]\n\n[[#if {$logo} |   | [!-- ]]\n[[image {$logo} class=\"letterhead\"]]\n----\n[[#if {$logo} |   | --] ]]\n\n[[#if {$title} |   | [!-- ]]\n+ {$title}\n[[#if {$title} |   | --] ]]\n~~~~\n[[div id=\"info\"]]\n[[#if {$id} |   | [!-- ]]\n[[div_ class=\"name\"]]\nAdvisory ID:[[/div]][[div_ class=\"value\"]]\n{$id}[[/div]]\n[[#if {$id} |   | --] ]]\n\n[[#if {$updated} |   | [!-- ]]\n[[div_ class=\"name\"]]\nLast Updated:[[/div]][[div_ class=\"value\"]]\n{$updated}[[/div]]\n[[#if {$updated} |   | --] ]]\n\n[[#if {$published} |   | [!-- ]]\n[[div_ class=\"name\"]]\nPublished:[[/div]][[div_ class=\"value\"]]\n{$published}[[/div]]\n[[#if {$published} |   | --] ]]\n\n[[#if {$version} |   | [!-- ]]\n[[div_ class=\"name\"]]\nVersion {$version}:[[/div]][[div_ class=\"value\"]]\n[[#if {$final} | Final | Interim ]][[/div]]\n[[#if {$version} |   | --] ]]\n\n[[#if {$impact} |   | [!-- ]]\n[[div_ class=\"name\"]]\nImpact Score:[[/div]][[div_ class=\"value\"]]\nBase - {$impact}[[/div]]\n[[#if {$impact} |   | --] ]]\n\n[[div_ class=\"name\"]]\nWorkarounds:[[/div]][[div_ class=\"value\"]]\n[[#if {$worknd} | Yes | No]][[/div]]\n\n[[#if {$bugs} |   | [!-- ]]\n[[div_ class=\"name\"]]\nRedzone Bug IDs:[[/div]][[div_ class=\"value\"]]\n{$bugs}[[/div]]\n[[#if {$bugs} |   | --] ]]\n[[/div]]\n[[div_ id=\"enum\"]]\n[[#if {$cve} |   | [!-- ]]\n{$cve}[[#if {$cve} |   | --] ]][[#if {$cwe} |   | [!-- ]]\n{$cwe}[[#if {$cwe} |   | --] ]]\n[[/div]]\n~~~~",
+  "tags": [
+    "component-backend"
+  ],
+  "author": "AJMansfield",
+  "created_at": "2016-02-21T22:33:50+00:00",
+  "updated_at": "2021-03-07T05:58:45+00:00",
+  "rating": 3,
+  "_site": "scp-wiki",
+  "_fullname": "component:redzone-advisory-base"
+}

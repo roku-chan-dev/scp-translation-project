@@ -1,0 +1,16 @@
+{
+  "title": "カオス・インサージェンシー(CI)トップ",
+  "content": "[[table style=\"width: 100%;\"]]\n[[row]]\n[!-- INTRODUCTION CELL --]\n[[cell style=\"width: 100%; font-size: 100%; border: 3px solid grey; background-color: #F0F0F0; padding: 10px;\"]]\n[[=]]\n[[image CI%20Logo.jpg style=\"border: 2px solid grey;\"]]\n[[/=]]\n[[include :irongiant:clone]]\n[[=]]\n[[size 181%]] **CIメインデータベース・ターミナルへのアクセスは承認された** [[/size]] \n[[/=]]\n[[=]]\n[[size 130%]] **これは四六時中の監視下にある、安全を確保されたネットワークである** [[/size]]\n[[/=]]\n\n[[=]]\n[[size 150%]] *** * *** [[/size]]\n[[/=]]\n[[/cell]]\n[[/row]]\n[[/table]]\n\n##bbbbbb|(訳注: 以降の内容は本家SCPのwikiと同じく、サイトのイベントや事務連絡を通知する部分となっているようですので、短くてすみませんが、とりあえずここまでの内容で掲載させていただきます)##",
+  "tags": [
+    "en",
+    "tale",
+    "外部ウィキアーカイブ",
+    "要翻訳"
+  ],
+  "author": "wired990",
+  "created_at": "2017-06-13T13:20:45+00:00",
+  "updated_at": "2021-01-10T16:54:19+00:00",
+  "rating": 9,
+  "_site": "scp-jp",
+  "_fullname": "start-ci-wiki"
+}

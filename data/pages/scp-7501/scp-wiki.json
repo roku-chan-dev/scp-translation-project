@@ -1,0 +1,21 @@
+{
+  "title": "SCP-7501",
+  "content": "[[include :scp-wiki:theme:last-frontier]]\n\n[[module CSS]]\n\ndiv#header {\n    background-image: url('http://scptestwiki.wikidot.com/local--files/sigma:vivarium-test-page/ITTV_PRIDE_LOGO.png') !important;\n}\n\n[[/module]]\n\n[[module CSS]]\n#header h1 a::before {\n    content: \"SCP Foundation\";\n}\n \n#header h2::before {\n    content: \"SECURE - CONTAIN - PROTECT\";\n    text-shadow: 0rem 0rem 0.3125rem #000000;\n}\n[[/module]]\n@@ @@\n\n[[=]]\n[[module Rate]]\n[[/=]]\n------\n\n[[module ListPages  category=\"fragment\" parent=\".\" limit=\"1\" order=\"created_at\" offset=\"@URL|0\"]]\n%%content%%\n[[/module]]\n\n[!-- https://scp-wiki.wikidot.com/fragment:7501-1 --]\n[!-- https://scp-wiki.wikidot.com/fragment:7501-2 --]\n\n[[div class=\"footer-wikiwalk-nav\"]]\n[[=]]\n<< [[[SCP-7500]]] | SCP-7501 | [[[SCP-7502]]] >>\n[[/=]]\n[[/div]]\n\n[[include :scp-wiki:component:license-box]]\n[!-- N/A (No Images)  --]\n[[include :scp-wiki:component:license-box-end]]",
+  "tags": [
+    "7000",
+    "_licensebox",
+    "_listpages",
+    "alive",
+    "animal",
+    "esoteric-class",
+    "extraterrestrial",
+    "rodent",
+    "scp"
+  ],
+  "author": "MrIverson",
+  "created_at": "2022-07-29T20:40:48+00:00",
+  "updated_at": "2022-10-08T19:32:08+00:00",
+  "rating": 85,
+  "_site": "scp-wiki",
+  "_fullname": "scp-7501"
+}

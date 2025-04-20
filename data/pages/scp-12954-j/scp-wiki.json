@@ -1,0 +1,19 @@
+{
+  "title": "SCP-12954-J",
+  "content": "[[include :scp-wiki:theme:classic]]\n[[include :scp-wiki:theme:flopstyle]]\n[[include :scp-wiki:component:centered-header-sigma-9]]\n\n[[module CSS]]\n :root{\n   --header-title: \"SCP FOUNDATION\";\n   --header-subtitle: \"Site-400\";\n   --lgurl: url(https://scp-wiki.wdfiles.com/local--files/secure-facilities-locations/Site-400.svg);\n}\n.footnotes-footer {\n    visibility: hidden;\n    height: 0;\n    padding: 0;\n    margin: 0;\n}\n[[/module]]\n\n[[>]]\n[[module Rate]]\n[[/>]]\n[[include :scp-wiki:component:author-label-source start=--\n|name=NDHeckfire]]\n**SCP-12954-J** - Damn, That's Deep\n\n[[[https://scp-wiki.wikidot.com/ndheckfire|More by me!]]]\n[[include :scp-wiki:component:author-label-source end=--]]\n\n\n**Item №:** SCP-12954-J\n\n**Object Class:** Safe\n\n**Special Containment Procedures:** SCP-12954-J is currently housed within a standard containment chamber in Site-400. Attempts to bring back Dr. Hefter are still ongoing.\n\n**Description:** SCP-12954-J is the designation given to a circular pot lid possessing a black lifter handle. SCP-12954-J was once Dr. Benjamin Hefter of the Department of Other, until on the 5th of May, 2018, the individual suddenly transfigured into a pot lid.\n\nSCP-12954-J displays no signs of intelligence or sapience.\n\n**Addendum:** The following image was discovered on the personal phone of Dr. Hefter, believed to be the cause of his sudden transfiguration to SCP-12954-J, initially sent by Dr. Hefter's girlfriend. The image (hereafter designated as SCP-12954-J-A) was tested for any inherit memetic properties. Though, none were found.\n\n[[=]]\n[[collapsible show=\"[+] Open SCP-12954-J-A\" hide=\"[-] Close SCP-12954-J-A\"]]\n@@ @@\n[[include component:image-block\nname=sad.jpg|caption=SCP-12954-J-A|width=350px|align=center]]\n[[/collapsible]]\n[[/=]]\n\n@@ @@\n\n[[include :scp-wiki:component:license-box]]\n=====\n> **Filename:** sad.jpg\n> **Author:** [[*user NDHeckfire]], pixabay user 422694\n> **License:** CC BY-SA 3.0\n> **Source Link:** [https://scp-wiki.wikidot.com/scp-12954-j SCP Foundation Wiki]\n> **Derivative of:** \n> ----\n> **Name:** Woman eyes closed sad\n> **Author** pixabay user 422694\n> **License:** Public Domain\n> **Source Link:** [https://pixabay.com/es/photos/ni%c3%b1a-rostro-ojos-cerrados-1098612/ Pixabay]\n=====\n[[include :scp-wiki:component:license-box-end]]",
+  "tags": [
+    "_cc",
+    "_licensebox",
+    "appliance",
+    "department-of-other",
+    "joke",
+    "safe",
+    "scp"
+  ],
+  "author": "NDHeckfire",
+  "created_at": "2022-08-19T03:02:15+00:00",
+  "updated_at": "2023-11-17T21:19:16+00:00",
+  "rating": 74,
+  "_site": "scp-wiki",
+  "_fullname": "scp-12954-j"
+}

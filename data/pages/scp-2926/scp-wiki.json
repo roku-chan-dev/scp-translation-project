@@ -1,0 +1,20 @@
+{
+  "title": "SCP-2926",
+  "content": "[[include :scp-wiki:component:pride-highlighter |inc-s9-lgbt-alt= --]]]\n\n[[>]]\n[[module Rate]]\n[[/>]]\n\n**Item #:** SCP-2926\n\n**Object Class:** Safe\n\n**Special Containment Procedures:** SCP-2926 is kept at Electronic Storage Facility 83-Beta. No known copies of SCP-2926 exist outside of containment.\n\n**Description:** SCP-2926 is a computer program that, when provided with a digital image, will provide a short verbal description of its contents, along with one of seven \"judgments\" at random. The descriptions are always somewhat inaccurate.\n\n> **Sample Input:** [https://scp-wiki.wikidot.com/local--files/scp-2926/sphinx.jpg elephant.jpg]\n> **Sample Output:** An elephant with the proper number of wings. Judgment: A squeeze play that works two ways.\n\nSCP-2926's outputs have cognitohazardous properties depending on which judgment is selected, provided that the viewer has also seen the input image.\n\n||~ Judgment ||~ Effects ||\n|| I feel so empty. || Viewer will become capable of identifying the patterns in SCP-2926's \"inaccuracies\", as well as in the program's delivery of judgments. ||\n|| I'm not the tooth fairy. || Viewer will become capable of identifying the inaccuracies present in SCP-2926's input images. ||\n|| It grew to the size of an orange. || Viewer will become capable of identifying consensuses regarding the subjects of SCP-2926's input images and modifying them for accuracy. ||\n|| These are strange times. || Viewer will be compelled to arrange for a judgment of \"A squeeze play that works two ways.\" by any means necessary. ||\n|| God, wouldn't it be beautiful? || Viewer will coordinate all aforementioned viewers in order to create a consensus reality in which SCP-2926 can take the form of the sphinx. ||\n|| I think I broke it. || Viewer will identify and attend to the sphinx momentarily, after its receptacle is prepared. ||\n|| A squeeze play that works two ways. || The sphinx is realized in the viewer. You possessed no inaccuracies. The situation is immanent. ||\n\n[[footnoteblock]]\n\n[[div class=\"footer-wikiwalk-nav\"]]\n[[=]]\n<< [[[SCP-2925]]] | SCP-2926 | [[[SCP-2927]]] >>\n[[/=]]\n[[/div]]\n\n[[include :scp-wiki:component:license-box\n|author=Communism Will Win]]\n=====\n> **Filename:** sphinx.jpg\n> **Name:** Loxodonta africana - old bull (Ngorongoro, 2009)\n> **Author:** \tYathin S Krishnappa\n> **License:** CC BY-SA 3.0\n> **Source Link:** [https://commons.wikimedia.org/wiki/File:Loxodonta_africana_-_old_bull_(Ngorongoro,_2009).jpg Wikimedia Commons]\n=====\n[[include :scp-wiki:component:license-box-end]]",
+  "tags": [
+    "_cc",
+    "_licensebox",
+    "cognitohazard",
+    "computer",
+    "media",
+    "safe",
+    "scp",
+    "visual"
+  ],
+  "author": "Communism will win",
+  "created_at": "2015-07-25T07:44:28+00:00",
+  "updated_at": "2024-01-10T04:58:14+00:00",
+  "rating": 49,
+  "_site": "scp-wiki",
+  "_fullname": "scp-2926"
+}

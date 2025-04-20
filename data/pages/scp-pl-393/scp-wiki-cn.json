@@ -1,0 +1,21 @@
+{
+  "title": "SCP-PL-393",
+  "content": "[[div style=\"display: none;\"]]\n[[include :scp-wiki:theme:flopstyle]]\n[[/div]]\n[[include :scp-wiki-cn:theme:ad-astra]]\n[[include :scp-wiki-cn:component:centered-header-sigma-9]]\n\n[[module CSS]]\n/* HEADER */\n :root{\n     --header-title: \"AD ASTRA PER ASPERA\";\n     --header-subtitle: \"循此苦旅直抵群星\";\n     --titleColor: hsl(0, 0%, 93%);\n     --subtitleColor: hsl(34, 100%, 75%);\n[[/module]]\n\n[[div class=\"anchor\"]]\n[[div class=\"authorbox\"]]\n\n[[module ListPages name=\"=\"]]\n||~ SCP-PL-393 - 月球存在的证据 ||\n||= **原作者：**[[*user KubKac]] ||\n||~ 原文于2023年10月25日发布 ||\n[[/module]]\n\n[[/div]]\n[[/div]]\n[[include :scp-wiki:info:start-standalone]]\n**标题：**SCP-PL-393 - 月球存在的证据\n**作者：**[[*user KubKac]]\n**译者：**[[*user Backlight SH]]\n**发布年份：**2023年\n\n[[div id=\"author_block\"]]\n= [*/scp-pl-398 ▸ 该作者的更多作品 ◂]\n[[/div]]\n-----\n[[include :scp-wiki:info:end-standalone]]\n\n[[include component:image-block\n    name= https://upload.wikimedia.org/wikipedia/commons/5/54/Hiroshige%2C_The_moon_over_a_waterfall.jpg|caption=受到SCP-PL-393影响的绘画作品。|width=200px|align=right]]\n\n[[span class=\"h-span\"]]项目编号：[[/span]]SCP-PL-393\n\n[[span class=\"h-span\"]]项目等级：[[/span]]Keter\n\n[[span class=\"h-span\"]]特殊收容措施：[[/span]]任何SCP-PL-393的发生案例应被记录，并尽可能将其显现后果压制到最低程度。若该事例在数量较大的集群当中，应投放记忆删除药剂，同时撤除受影响的绘画。\n\n[[span class=\"h-span\"]]描述：[[/span]]SCP-PL-393为一类影响某些特定绘画作品的现象，欣赏此类作品的人员将会认为画作中描绘的“月亮”，即地球的天然卫星月球，在画作中存在某种违和感。此外，受影响的人员还会因此出现怀旧与焦虑感。\n\n基金会对受到该现象影响的画作进行了分析比较，发现其具备以下共同点：\n* 作者均为智人种生物（//Homo sapiens sapiens//）；\n* 项目自2078年10月12日以后开始发生影响；\n* 作者对于月球无人区Area-32有所了解。\n\n尽管帷幕协议早已解除，SCP-PL-393仍对未经授权者不知晓“基金会在月球存在设施”这一机密事项构成了威胁，因此其被认定为[*/chwasty-hub 秘匿项目]。\n\n[[span class=\"h-span\"]]附录PL-393/01：[[/span]]发现经过\n\n第一例SCP-PL-393于地球历2078年10月12日发生在位于一金星人类殖民地的地球纪念美术馆。受影响的画作为文森特·梵高的《星夜》，基金会随即撤除了该画作。\n\n值得注意的是，该例发生于基金会对月出教的总部发动突袭后的数分钟，当时，月出教成功执行了一场未知的仪式。由于所有的教徒在抓捕过程中均饮弹自尽，基金会未能抓获证人。虽然尚不明确月出教执行仪式的原因与目的，但其应对项目的产生负责。\n\n[[span class=\"h-span\"]]事故PL-393/01：[[/span]]月球无人区Area-32人员的记忆异常\n\n[[include component:image-block name=https://upload.wikimedia.org/wikipedia/commons/0/03/Mare_Imbrium_%28LRO%29.png|caption=月球无人区Area-32]]\n\n2078年10月31日，月球无人区Area-32遭受敌对逆模因攻击，无人区在攻击期间启动了防护协议，其中包括使用记忆强化剂。但使用记忆强化后，无人区全部人员均报告称自己出现方向感迷失和记忆丧失的问题。\n\n调查结果显示，设施内的[*/scp-3557 CK级情景侦测器（CSD）]未报告任何异常，尽管其运作仍然正常。设施管理层要求确认设置于火星的CSD，结果是两者的报告一致。\n\n由于尚不明确此类现象的成因，对火星观测站OS-448人员进行了测试。在执行记忆删除后，站点人员均声称自己“识别不出那个绕地球运行的物体”。\n\n[[div class=\"footer-wikiwalk-nav\"]]\n[[=]]\n<< [[[SCP-PL-392]]] | SCP-PL-393 | [[[SCP-PL-394]]] >>\n[[/=]]\n[[/div]]",
+  "tags": [
+    "ad-astra",
+    "keter",
+    "pl",
+    "scp",
+    "二次翻译",
+    "月球",
+    "精神影响",
+    "艺术性",
+    "观察影响"
+  ],
+  "author": "Backlight SH",
+  "created_at": "2023-10-29T02:21:35+00:00",
+  "updated_at": "2024-06-16T01:55:46+00:00",
+  "rating": 0,
+  "_site": "scp-wiki-cn",
+  "_fullname": "scp-pl-393"
+}

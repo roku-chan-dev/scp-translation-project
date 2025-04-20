@@ -1,0 +1,14 @@
+{
+  "title": "タイポグラフィ",
+  "content": "もしタイポグラフィ[[footnote]] ここで言うタイポグラフィとはクォーテーション等の強調記号の事を表します[[/footnote]]を使用したいのであれば、便利な方法をいくつか用意してあります。\n@@@@\n||~ 構文 ||~ 表示 ||\n|| @@``クォーテーション''@@ || ``クォーテーション'' || \n|| @@`クォーテーション'@@ || `クォーテーション' || \n|| @@,,クォーテーション''@@ || ,,クォーテーション'' || \n|| @@,,クォーテーション''@@ || ,,クォーテーション'' || \n|| @@ <<クォーテーション>> @@ || <<クォーテーション>> || \n|| @@>>クォーテーション<<@@ || >>クォーテーション<< || \n|| @@3点ドット...@@ || 3点ドット... ||\n|| @@始点 -- ダッシュ@@ || 始点 -- ダッシュ ||\n注意: ダッシュはスペースに囲まれている時のみ動作します。\n\n[[module css]]\n.wiki-content-table {\nwidth:100%;\ntable-layout:fixed;\n}\n.wiki-content-table tr th{\nfont-weight:bold;\ncolor:#000;\ntext-align:left;\nborder:none;\nbackground-color:#EEE;\n}\n\n\n.wiki-content-table tr td{\npadding:3px;\nborder-top:none;\nborder-left:none;\nborder-right:none;\nborder-bottom:solid #CCC 1px;\ntext-align:left;\n}\n\nspan.br{\ndisplay:block;\n}\n[[/module]]",
+  "tags": [
+    "jp",
+    "リファレンス"
+  ],
+  "author": "C-take",
+  "created_at": "2018-04-09T12:10:14+00:00",
+  "updated_at": "2023-01-13T12:08:02+00:00",
+  "rating": 5,
+  "_site": "scp-jp",
+  "_fullname": "wiki-syntax:typography"
+}

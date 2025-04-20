@@ -1,0 +1,15 @@
+{
+  "title": "Caterer Tim \"Tanhony\" Hyne's Personnel File",
+  "content": "[[include :scp-wiki:theme:black-highlighter-theme]]\n\n[[include component:image-block name=tanhonyscp-new.jpg|caption=Caterer Hyne preparing a 'Data Ex-Sponge Cake'.]]\n\n**Name:** Caterer Tim \"Tanhony\" Hyne\n\n**Occupation:** Preparation of consumables.\n\n**Location:** Caterer Hyne is currently located at the food preparation area at Site ██.\n\n**History:** Timothy A. Hyne graduated from Oxford University with degrees in Mathematics, Physics, and Philosophy. Inexplicably, he then decided to become a chef. Caterer Hyne was the head chef at the [DATA EXPUNGED], Paris for seven years before the restaurant was destroyed during a containment breach of SCP-███. \nHe then became a cook at the '██████ Spoon' diner in Florida for two years until it was evacuated after becoming host to SCP-███. \nCaterer Hyne remained homeless for two years until he encountered SCP-███. At this point, [DATA EXPUNGED] despite his grievous injuries, was brought onto Site ██ staff. \nOver the next three years, he made a healthy recovery.\n\n**Caterer Hyne has provided food for those working with these SCP's:**\n\n[[module ListPages created_by=\"Tanhony\" order=\"created_at\" separate=\"no\" tags=\"-author -tale\" perPage=\"250\" prependLine=\"||~ SCP ||~ Rating ||~ Comments ||~ Created ||\"]] \n|| %%title_linked%% || %%rating%% || %%comments%% || %%created_at%% ||\n[[/module]]\n\n**Caterer Hyne has found these documents under the ovens in the food preparation area:**\n\n[[module ListPages created_by=\"Tanhony\" order=\"created_at\" separate=\"no\" tags=\"+tale -scp -author\" perPage=\"250\" prependLine=\"||~ Tale ||~ Rating ||~ Comments ||~ Created ||\"]] \n|| %%title_linked%% || %%rating%% || %%comments%% || %%created_at%% ||\n[[/module]]\n\n**Caterer Hyne's Recipes:**\n\n> **Saturday Surprise**\n> * Twenty-seven (27) red apples, fifteen (15) of which must be bruised\n> * One (1) green apple, no bruising\n> * Two (2) slices of pepperoni pizza\n> * --Excretions from SCP-███-- 'The Secret Ingredient'\n\n> **Data Ex-Sponge Cake**\n> * One (1) sponge cake\n> * One (1) marker pen\n> * Write the words 'data expunged' onto the sponge cake.\n\n> **Tele-Kill Takeaway**\n> * One (1) sheet of metal painted blue\n> * Two (2) tomatoes\n> * One (1) carrot\n> * Three (3) eggs\n> uhhh\n> * Whatever's left from the Saturday Surprise\n\n[[include :scp-wiki:component:license-box]]\n=====\n> **Filename:** tanhonyscp-new.jpg\n> **Source:** [https://www.flickr.com/photos/soldiersmediacenter/4408187819 Flickr]\n> **License:** CC BY 2.0\n> **Title:** \"Top Chef\"- Soldier style\n> **Author:** United States Army\n> **Release year:** 2010\n=====\n[[include :scp-wiki:component:license-box-end]]",
+  "tags": [
+    "_cc",
+    "_licensebox",
+    "author"
+  ],
+  "author": "Tanhony",
+  "created_at": "2011-08-21T23:52:57+00:00",
+  "updated_at": "2022-06-30T06:42:05+00:00",
+  "rating": 89,
+  "_site": "scp-wiki",
+  "_fullname": "caterer-tim-tanhony-hyne-s-personnel-file"
+}

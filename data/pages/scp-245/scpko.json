@@ -1,0 +1,21 @@
+{
+  "title": "SCP-245",
+  "content": "[[include component:info-ayers\n|lang=ko[!-- EN/RU/KO/CN/FR/PL/ES/TH/JP/DE/IT/UA/PTBR --]\n|page=scp-245[!-- url of your page on the scp wiki --]\n|authorPage=http://www.scp-wiki.net/dr-cimmerian-s-personnel-file[!-- link to your author page --]\n|comments= \nN/A\n]]\n[[include theme:black-highlighter-theme]]\n[[module CSS]]\nsup {\nvertical-align: top; position: relative; top: -0.5em;\n}\n:root{\n--cutColour: #fafafa;\n--barColour: #590505;\n}\n\n.info-container .collapsible-block-folded a{\ncolor: #FFF;}\n.info-container .collapsible-block-unfolded-link a{\ncolor: #FFF;}\n\n.translation_block{\ndisplay:none;}\n[[/module]]\n[[module css]]\n#side-bar {\n    background: rgb(var(--white-monochrome));\n}\n\n#side-bar div.menu-item a, #side-bar div.menu-item .text {\n    color: rgb(var(--black-monochrome));\n}\n\n#side-bar>div:nth-child(5) {\n    background-color: rgba(var(--dark-accent),0.25)!important;\n}\n[[/module]]\n\n[[include info:start]]\n**SCP-245:** SCP-RPG\n**원작:** http://www.scp-wiki.net/scp-245\n**저자:** [[*user Doctor Cimmerian]]\n**역자:** [[*user lanlanmag]]\n[[include info:end]]\n\n**일련번호:** SCP-245\n\n**등급:** 안전\n\n**특수 격리 절차:** SCP-245-1의 복사본을 인터넷과 연결되지 않은 컴퓨터에 저장한다. SCP-245-1이 저장된 컴퓨터들은 [[[secure-facility-dossier-site-88|제88기지]]] C구역 10층에 위치해있다. SCP-245-1의 여러 버전을 감시하고, 격리 상태를 유지하기 위해 정기적으로 게임을 클리어하도록 한다.\n\nSCP-245-1의 게임 세계에서 일어나는 주요 변경점들은 SCP-245 프로젝트의 책임자에게 보고된다. 어떠한 경우에도 SCP-245-1 내에서 목격할 수 있는 존재들에게 SCP-245-1의 마스터 패스워드를 알려서는 안 된다.\n\n**설명:** SCP-245에 대한 정보는 [[[http://ko.scp-wiki.net/local--files/scp-245/SCP-245-1.zip | SCP-245-1.zip (Link1)]]][[[http://www.mediafire.com/file/u8czg7xrb229x9x/SCP-245-1.zip|(Link2)]]] 를 참조.\n\n> 공고: SCP-245-1은 OSCP나 윈도우 운영 체제를 사용하는 시스템에서만 작동시킬 수 있습니다.\n\n\n[[html]]\n<head>\n<script language=\"javascript\">\n\nfunction LogIn(){\nloggedin=false;\npassword=\"\";\npassword=prompt(\"Password:\",\"\");\npassword=password.toLowerCase();\n\n// Add password-->\nif (password==\"welcome2corneria\") {\nloggedin=true;\nwindow.open('/scp-245-1-a');\n}\n\n\n// If login incorrect -->\nif (loggedin==false) {\nalert(\"잘못된 암호입니다.\");\n}\n}\n\n</script>\n\n</head>\n\n<body>\n<form><input type=button value=\"SCP-245-1-A에 접근합니까?\" onClick=\"LogIn()\"></form>\n</body>\n[[/html]]\n\n[[html]]\n<html>\n<head>\n<script type=\"text/javascript\">\nfunction setVar()\n{\n    if (sessionStorage.read != 1)\n    {\n        sessionStorage.setItem('read', 1);\n    }\n}\n</script>\n</head>\n<body onLoad=\"setVar();\">\n</body>\n</html>\n[[/html]]",
+  "tags": [
+    "en",
+    "scp",
+    "게임",
+    "매체",
+    "메타",
+    "상호작용식",
+    "서술",
+    "안전",
+    "특집"
+  ],
+  "author": "lanlanmag",
+  "created_at": "2017-01-08T13:25:54+00:00",
+  "updated_at": "2025-01-13T06:01:29+00:00",
+  "rating": 12,
+  "_site": "scpko",
+  "_fullname": "scp-245"
+}

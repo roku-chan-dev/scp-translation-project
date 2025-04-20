@@ -1,0 +1,14 @@
+{
+  "title": "著者ページツール（共著ページ用）",
+  "content": "[[module css]]\n\n.collab-header{\n display:initial;\n}\n\n.written_by.\\{\\$written_by\\} {display: none;}\n\n.collabnote.\\{\\$note\\} {display: none;}\n\n[[/module]]\n\n[[module Listpages fullname=\"{$name}\" category=\"*\"]]\n[[div class=\"preview {$background}\"]]\n**%%title_linked%%**\n +**{{%%rating%%}}**@@   @@^^...^^ **{{%%comments%%}}**\n[[span class=\"written_by {$written_by}\"]]//著者:// {$written_by}. [[/span]][[span class=\"collabnote {$note}\"]]{$note}[[/span]]\n//最終コメント投稿者:// **{{%%commented_by%%}}** //at// **{{%%commented_at|%y/%m/%d  %H:%M%%}}**\n//最終編集者:// **{{%%updated_by%%}}** //at// **{{%%updated_at|%y/%m/%d  %H:%M%%}}**\n[[div class=\"span\"]]\n[[image :first class=\"imagepre {$image}\"]]\n%%preview%%\n##000000|//tags://## %%tags%%\n[[/div]]\n[[/div]]\n[[/module]]",
+  "tags": [
+    "cn",
+    "コンポーネント"
+  ],
+  "author": "Rokurokubi",
+  "created_at": "2020-07-14T17:39:38+00:00",
+  "updated_at": "2021-12-24T17:15:08+00:00",
+  "rating": 7,
+  "_site": "scp-jp",
+  "_fullname": "component:author-page-collab"
+}

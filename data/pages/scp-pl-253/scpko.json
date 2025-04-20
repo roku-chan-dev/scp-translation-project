@@ -1,0 +1,23 @@
+{
+  "title": "SCP-PL-253",
+  "content": "[[include :scpko:theme:blankstyle]]\n[[include :scpko:component:fade-in speed=1]]\n[[module css]]\n:root{\n  --header-title: \"제120연구격리기지\";\n  --header-subtitle: \"이이제이\";\n}\n\ndiv#extra-div-1 {\n    background-image: url(https://scp-wiki.wdfiles.com/local--files/secure-facility-dossier-site-120/120.png);\n    filter: opacity(20%);\n}\n#top-bar .open-menu {\n    display : block !important;\n}\n[[/module]]\n\n[[include info:start]]\n**SCP-PL-253:** ##green|**이 뭔 KF씨발**##\n**원작:** [*http://scp-pl.wikidot.com/scp-pl-253 폴란드어(원작)], [*http://scp-int.wikidot.com/scp-pl-253 INT 역본]\n**저자:** [[*user blazingpie]]\n**역자:** [[*user Jasiu06]], [[*user fluxman]]\n**이미지 출처:** [*https://commons.wikimedia.org/wiki/File:Colonel_Sanders_-_geograph.org.uk_-_2764454.jpg #], 제작자 Richard Croft, 라이센스 CC BY-SA 2.0 \n[[include info:end]]\n\n[[module ListPages category=\"fragment\" parent=\".\" limit=\"1\" order=\"created_at\" offset=\"@URL|0\"]]\n%%content%%\n[[/module]]\n\n[!-- http://scpko.wikidot.com/fragment:scp-pl-253-1 --]\n[!-- http://scpko.wikidot.com/fragment:scp-pl-253-2 --]",
+  "tags": [
+    "k급-시나리오",
+    "pl",
+    "scp",
+    "난해한-등급",
+    "메타",
+    "비격리",
+    "음식",
+    "이름없음",
+    "정보재해",
+    "제120기지-보존기록관",
+    "특집"
+  ],
+  "author": "fluxman",
+  "created_at": "2022-02-25T23:59:37+00:00",
+  "updated_at": "2024-10-23T04:08:39+00:00",
+  "rating": 18,
+  "_site": "scpko",
+  "_fullname": "scp-pl-253"
+}

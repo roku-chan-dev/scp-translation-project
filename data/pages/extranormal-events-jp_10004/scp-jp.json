@@ -1,0 +1,14 @@
+{
+  "title": "10004",
+  "content": "overview: 海岸沿いの寿司屋が仕込みを行っている最中、外部からおびただしい数のガンガゼの群れが絨毯のように押し寄せ従業員を襲撃しました。たまたま通りがかった財団エージェントが従業員の救出を行いましたが、従業員█名全員の死亡が確認されました。\nswdate: '1'\ndate: ████年██月██日16時24分\nswplace: '1'\nplace: 大分県████市、国道213号沿い\nswchaseprocedure: '1'\nchaseprocedure: 現場に居合わせたエージェントが追跡を行いましたが、四方八方へ散るように逃げたため追跡には失敗しました。捕獲されたガンガゼに異常性は見られませんでした。\nswaddendum: '0'\naddendum: ''\ntf2: '1'\nauthor: m0ch12uk1\nredirect-b: '[[module Redirect destination=\"/log-of-extranormal-events-jp'\nredirect-e: '\"]]'",
+  "tags": [
+    "jp",
+    "剪定対象-子"
+  ],
+  "author": "machikawa",
+  "created_at": "2020-07-22T11:56:47+00:00",
+  "updated_at": "2021-05-24T13:20:38+00:00",
+  "rating": 19,
+  "_site": "scp-jp",
+  "_fullname": "extranormal-events-jp:10004"
+}

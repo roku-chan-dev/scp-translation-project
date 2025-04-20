@@ -1,0 +1,19 @@
+{
+  "title": "SCP-5884",
+  "content": "[[include :scp-wiki-cn:theme:simple-yonder]]\n[[include :topia:sy-addon]]\n\n[[module css]]\n#u-blink-bar p:last-child::after {\n    content: \"\";\n    border-right: 1px solid black;\n    animation: blink 1.5s infinite;\n    position: relative;\n    left: 1px;\n}\n \n@keyframes blink{\n    to {\n        opacity: .0;\n    }\n}\n[[/module]]\n\n**项目编号：**SCP-5884\n\n**项目等级：**Keter\n\n**特殊收容措施：**为使SCP-5884无效化，以下行动已授权：\n\n* 动员所有可用特遣队前往主要人口中心\n* 废除[[[SCP-4043|]]]\n* 停止联络三重月倡议会\n* 传播扩散[[[SCP-3002]]]的载体\n* 暂停[[[SCP-2935|]]]的收容\n* 塞拉菲斯二号计划\n* [[[SCP-3980|]]]\n\n若上述行动无法阻止SCP-5884，则所有存余未被影响的人员不得存活也不得死亡，直至收到另行通知。\n\n**描述：**SCP-5884为现在难以理解的机制，于2021/06/30激活，与“确保人类的生存”有着内在联系。\n\n[[div id=\"blink-bar\"]]\nSCP-5884的效应表现为\n[[/div]]\n\n@@ @@\n@@ @@\n@@ @@\n@@ @@\n@@ @@\n@@ @@\n@@ @@\n@@ @@\n@@ @@\n@@ @@\n@@ @@\n@@ @@\n@@ @@\n@@ @@\n@@ @@\n@@ @@\n@@ @@\n@@ @@\n@@ @@\n@@ @@\n@@ @@\n@@ @@\n@@ @@\n@@ @@\n@@ @@\n@@ @@\n@@ @@\n@@ @@\n@@ @@\n@@ @@\n@@ @@\n@@ @@\n@@ @@\n@@ @@\n@@ @@\n@@ @@\n@@ @@\n@@ @@\n@@ @@\n@@ @@\n@@ @@\n@@ @@\n@@ @@\n@@ @@\n@@ @@\n@@ @@\n@@ @@\n@@ @@\n@@ @@\n@@ @@\n@@ @@\n@@ @@\n@@ @@\n@@ @@\n@@ @@\n\n[[collapsible show=\"新文件已上传。打开？\" hide=\"打开中……\"]]\n[[div class=\"blockquote\"]]\n= //（视频记录 - 2021/07/01）//\n\n//（O5-1一动不动地坐在房间的中央。）[[footnote]]在录像之时O5-1已经死亡。[[/footnote]]//\n\n//（该画面持续了4分钟，随后他转向右侧看向一把手枪。）//\n\n//（O5-1拿起手枪，并仔细观察了2分钟。）//\n\n//（他慢慢地指向自己的太阳穴，并说着“我得知道”。）//\n\n@@ @@\n\n//（O5-1扣下了扳机。）//\n\n@@ @@\n\n//（子弹从O5-1的颅骨另一侧穿出，血液与脑浆飞溅到墙上。）//\n\n//（O5-1立即存活，并成为了人类。）//\n\n@@ @@\n@@ @@\n\n//（O5-1坐直了，并保持4分钟以上不动。）//\n\n@@ @@\n\n//（他用手抹干净了头上的血，并离开了房间。）//\n\n[[/div]]\n[[/collapsible]]\n\n[[div style=\"display: none;\"]]\n[[footnoteblock]]\n[[/div]]\n\n@@ @@\n@@ @@\n@@ @@\n@@ @@\n@@ @@\n@@ @@\n@@ @@\n@@ @@\n@@ @@\n@@ @@\n@@ @@\n@@ @@\n\n[[div class=\"footer-wikiwalk-nav\"]]\n[[=]]\n<< [[[SCP-5883]]] | SCP-5884 | [[[SCP-5885]]] >>\n[[/=]]\n[[/div]]",
+  "tags": [
+    "2021连写竞赛",
+    "_著名遗言",
+    "keter",
+    "scp",
+    "复活",
+    "尸体",
+    "概念"
+  ],
+  "author": "hoah2333",
+  "created_at": "2021-03-25T04:51:50+00:00",
+  "updated_at": "2021-06-11T09:55:50+00:00",
+  "rating": 7,
+  "_site": "scp-wiki-cn",
+  "_fullname": "scp-5884"
+}
