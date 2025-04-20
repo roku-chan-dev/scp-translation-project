@@ -150,7 +150,19 @@ def select_all_pages(site: str, server: xmlrpc.client.ServerProxy) -> List[str]:
         Catches and retries RETRYABLE_EXCEPTIONS. Reraises if retries fail.
     """
     logger.debug("Fetching page list for site: %s", site)
-    return cast(List[str], server.pages.select({"site": site}))
+    try:
+        return cast(List[str], server.pages.select({"site": site}))
+    except xmlrpc.client.Fault as e:
+        if e.faultCode == 403:
+            logger.warning(
+                "API access forbidden for site '%s' (403). Skipping page fetch. "
+                "Check 'Manage Site > API' settings on Wikidot.",
+                site,
+            )
+            return []  # Return empty list to skip processing this site
+        else:
+            # Reraise other Fault exceptions for the @retry decorator to handle
+            raise e
 
 
 @retry(
