@@ -1007,7 +1007,7 @@ def process_single_page(
             # We know fullinfo is a Dict here
             insert_page(conn, site, fullinfo)
             # We know fullinfo is a Dict here, .get() is safe
-            insert_tags(conn, site, page_name, fullinfo.get("tags", [])) # Provide default empty list
+            insert_tags(conn, site, fullinfo['fullname'], fullinfo.get("tags", [])) # Use fullinfo['fullname'] for consistency
         # Commit happens automatically when 'with conn:' block exits without error
 
         logger.debug(
