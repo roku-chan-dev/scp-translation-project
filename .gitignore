@@ -173,9 +173,14 @@ cython_debug/
 # PyPI configuration file
 .pypirc
 
-# SQLite DB
-data/
-*.sqlite
+# SQLite DB files in data/ directory
+data/*.sqlite
+data/*.sqlite-shm
+data/*.sqlite-wal
+
+# Temporary scripts
+inspect_db_schema.py
+add_deleted_at_column.py
 
 # Repomix output
 repomix-output.txt

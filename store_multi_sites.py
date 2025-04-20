@@ -15,6 +15,7 @@ import socket
 import sqlite3
 import time
 import xmlrpc.client
+import datetime  # Import datetime module
 from typing import Any, Dict, List, Optional, Tuple, cast
 
 # Security patch for xmlrpc
@@ -278,11 +279,11 @@ def get_one_page(
 def fetch_all_categories(site: str, server: xmlrpc.client.ServerProxy) -> List[str]:
     """
     Fetches all categories for a given site.
-    
+
     Args:
         site: The Wikidot site name.
         server: The authenticated ServerProxy instance.
-        
+
     Returns:
         A list of category names.
     """
@@ -304,12 +305,12 @@ def fetch_all_categories(site: str, server: xmlrpc.client.ServerProxy) -> List[s
 def fetch_page_files(site: str, server: xmlrpc.client.ServerProxy, page_name: str) -> List[str]:
     """
     Fetches a list of all file names attached to a specific page.
-    
+
     Args:
         site: The Wikidot site name.
         server: The authenticated ServerProxy instance.
         page_name: The full page name.
-        
+
     Returns:
         A list of file names attached to the page.
     """
@@ -333,20 +334,20 @@ def fetch_files_meta(
 ) -> Dict[str, Dict[str, Any]]:
     """
     Fetches metadata for a list of files attached to a page.
-    
+
     Args:
         site: The Wikidot site name.
         server: The authenticated ServerProxy instance.
         page_name: The full page name.
         file_names: List of file names to fetch metadata for (max 10).
-        
+
     Returns:
         A dictionary where keys are file names and values are metadata dictionaries.
     """
-    logger.debug("Fetching metadata for %d files on page %s, site %s", 
+    logger.debug("Fetching metadata for %d files on page %s, site %s",
                 len(file_names), page_name, site)
     return cast(
-        Dict[str, Dict[str, Any]], 
+        Dict[str, Dict[str, Any]],
         server.files.get_meta({"site": site, "page": page_name, "files": file_names})
     )
 
@@ -365,12 +366,12 @@ def fetch_files_meta(
 def fetch_page_comments(site: str, server: xmlrpc.client.ServerProxy, page_name: str) -> List[str]:
     """
     Fetches all comment IDs for a specific page.
-    
+
     Args:
         site: The Wikidot site name.
         server: The authenticated ServerProxy instance.
         page_name: The full page name.
-        
+
     Returns:
         A list of comment IDs.
     """
@@ -394,25 +395,25 @@ def fetch_comments_data(
 ) -> Dict[str, Dict[str, Any]]:
     """
     Fetches detailed data for a list of comment IDs.
-    
+
     Args:
         site: The Wikidot site name.
         server: The authenticated ServerProxy instance.
         comment_ids: List of comment IDs to fetch data for (max 10).
-        
+
     Returns:
         A dictionary where keys are comment IDs and values are comment data dictionaries.
     """
     logger.debug("Fetching data for %d comments on site %s", len(comment_ids), site)
-    
+
     # Ensure comment_ids are all strings
     comment_ids_str = [str(comment_id) for comment_id in comment_ids]
-    
+
     # API debug log
     logger.debug("Sending API request with posts: %s", comment_ids_str)
-    
+
     return cast(
-        Dict[str, Dict[str, Any]], 
+        Dict[str, Dict[str, Any]],
         server.posts.get({"site": site, "posts": comment_ids_str})
     )
 
@@ -424,6 +425,7 @@ def create_tables(conn: sqlite3.Connection) -> None:
     """
     Creates the necessary tables in the SQLite database
     if they don't already exist. Handles all data types available from Wikidot API.
+    Also adds the deleted_at column if missing.
     """
     logger.info("Ensuring database tables exist...")
     cursor = conn.cursor()
@@ -449,11 +451,21 @@ def create_tables(conn: sqlite3.Connection) -> None:
               commented_by    TEXT,
               content         TEXT, -- Raw Wikidot source
               html            TEXT, -- Rendered HTML
+              deleted_at      TEXT DEFAULT NULL, -- Added for tracking deletions
               -- Composite primary key ensures uniqueness per site
               PRIMARY KEY (site, fullname)
             )
             """
         )
+
+        # Check and add deleted_at column if it doesn't exist (for backward compatibility)
+        cursor.execute("PRAGMA table_info('pages');")
+        columns = [column[1] for column in cursor.fetchall()]
+        if 'deleted_at' not in columns:
+            logger.info("Adding 'deleted_at' column to 'pages' table...")
+            cursor.execute("ALTER TABLE pages ADD COLUMN deleted_at TEXT DEFAULT NULL;")
+            logger.info("'deleted_at' column added.")
+
 
         # Separate table for tags (many-to-many relationship)
         cursor.execute(
@@ -508,9 +520,9 @@ def create_tables(conn: sqlite3.Connection) -> None:
             """
             CREATE TABLE IF NOT EXISTS posts (
               site           TEXT NOT NULL,
-              post_id        TEXT NOT NULL,  
+              post_id        TEXT NOT NULL,
               page_fullname  TEXT NOT NULL,
-              reply_to       TEXT,          
+              reply_to       TEXT,
               title          TEXT,
               content        TEXT,
               html           TEXT,
@@ -540,7 +552,8 @@ def create_tables(conn: sqlite3.Connection) -> None:
         cursor.execute("CREATE INDEX IF NOT EXISTS idx_page_tags_tag ON page_tags (tag);")
         cursor.execute("CREATE INDEX IF NOT EXISTS idx_files_page ON files (site, page_fullname);")
         cursor.execute("CREATE INDEX IF NOT EXISTS idx_posts_page ON posts (site, page_fullname);")
-        
+        cursor.execute("CREATE INDEX IF NOT EXISTS idx_pages_deleted ON pages (deleted_at);") # Index for deleted_at
+
         conn.commit()
         logger.info("Database tables checked/created successfully.")
     except sqlite3.Error as e:
@@ -551,6 +564,7 @@ def create_tables(conn: sqlite3.Connection) -> None:
 def insert_page(conn: sqlite3.Connection, site: str, page_data: Dict[str, Any]) -> None:
     """
     Inserts or replaces a single page's data into the 'pages' table.
+    Sets deleted_at to NULL on insert/replace to mark it as active.
     """
     logger.debug(
         "Inserting/Replacing page data for '%s' on site '%s'",
@@ -564,8 +578,8 @@ def insert_page(conn: sqlite3.Connection, site: str, page_data: Dict[str, Any]) 
             INSERT OR REPLACE INTO pages (
               site, fullname, title, created_at, created_by, updated_at, updated_by,
               parent_fullname, parent_title, rating, revisions, children, comments,
-              commented_at, commented_by, content, html
-            ) VALUES (?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?)
+              commented_at, commented_by, content, html, deleted_at
+            ) VALUES (?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, NULL) -- Set deleted_at to NULL
             """,
             (
                 site,
@@ -642,7 +656,7 @@ def insert_tags(
 def insert_categories(conn: sqlite3.Connection, site: str, categories: List[str]) -> None:
     """
     Inserts or replaces categories for a site in the 'categories' table.
-    
+
     Args:
         conn: SQLite database connection.
         site: The Wikidot site name.
@@ -675,7 +689,7 @@ def insert_files(
 ) -> None:
     """
     Inserts or replaces file metadata for a page in the 'files' table.
-    
+
     Args:
         conn: SQLite database connection.
         site: The Wikidot site name.
@@ -687,10 +701,10 @@ def insert_files(
     try:
         # Delete existing file metadata for this page first
         cursor.execute(
-            "DELETE FROM files WHERE site = ? AND page_fullname = ?", 
+            "DELETE FROM files WHERE site = ? AND page_fullname = ?",
             (site, page_fullname)
         )
-        
+
         # Insert new file metadata
         if files_data:
             file_records = []
@@ -707,7 +721,7 @@ def insert_files(
                     file_info.get("uploaded_at"),
                     file_info.get("download_url")
                 ))
-            
+
             cursor.executemany(
                 """
                 INSERT OR REPLACE INTO files (
@@ -733,7 +747,7 @@ def insert_comments(
 ) -> None:
     """
     Inserts or replaces comment data for a page in the 'posts' table.
-    
+
     Args:
         conn: SQLite database connection.
         site: The Wikidot site name.
@@ -745,10 +759,10 @@ def insert_comments(
     try:
         # Delete existing comments for this page first
         cursor.execute(
-            "DELETE FROM posts WHERE site = ? AND page_fullname = ?", 
+            "DELETE FROM posts WHERE site = ? AND page_fullname = ?",
             (site, page_fullname)
         )
-        
+
         # Insert new comments
         if comments_data:
             comment_records = []
@@ -765,7 +779,7 @@ def insert_comments(
                     comment_info.get("created_at"),
                     comment_info.get("replies", 0)
                 ))
-            
+
             cursor.executemany(
                 """
                 INSERT OR REPLACE INTO posts (
@@ -788,22 +802,22 @@ def insert_comments(
 
 def get_db_page_info(
     conn: sqlite3.Connection, site: str, page_name: str
-) -> Optional[Tuple[Optional[str], Optional[int]]]:
+) -> Optional[Tuple[Optional[str], Optional[int], Optional[str]]]: # Added deleted_at
     """
-    Retrieves the stored updated_at and revisions count for a page from the DB.
+    Retrieves the stored updated_at, revisions, and deleted_at for a page from the DB.
 
     Returns:
-        A tuple (updated_at, revisions) if the page exists, otherwise None.
+        A tuple (updated_at, revisions, deleted_at) if the page exists, otherwise None.
         Values within the tuple can be None if not set in DB.
     """
     cursor = conn.cursor()
     try:
         cursor.execute(
-            "SELECT updated_at, revisions FROM pages WHERE site=? AND fullname=?",
+            "SELECT updated_at, revisions, deleted_at FROM pages WHERE site=? AND fullname=?",
             (site, page_name),
         )
         row = cursor.fetchone()
-        # row is tuple (updated_at, revisions) or None
+        # row is tuple (updated_at, revisions, deleted_at) or None
         return row  # type: ignore
     except sqlite3.Error as e:
         logger.error(
@@ -822,14 +836,14 @@ def process_site_additional_data(
 ) -> None:
     """
     Fetches and stores additional site-wide data like categories.
-    
+
     Args:
         conn: SQLite database connection.
         server: The authenticated ServerProxy instance.
         site: The Wikidot site name.
     """
     logger.info("Fetching additional site-wide data for site '%s'", site)
-    
+
     # Fetch and store category information
     try:
         categories = fetch_all_categories(site, server)
@@ -850,7 +864,7 @@ def process_page_additional_data(
 ) -> None:
     """
     Fetches and stores additional data for a specific page (files, comments).
-    
+
     Args:
         conn: SQLite database connection.
         server: The authenticated ServerProxy instance.
@@ -858,38 +872,38 @@ def process_page_additional_data(
         page_name: The full page name to process.
     """
     logger.debug("Processing additional data for page '%s' on site '%s'", page_name, site)
-    
+
     # 1. Process file metadata
     try:
         file_names = fetch_page_files(site, server, page_name)
         if file_names:
             logger.debug("Found %d files for page '%s'", len(file_names), page_name)
-            
+
             # Process files in chunks of 10 (API limitation)
             for i in range(0, len(file_names), 10):
                 file_chunk = file_names[i:i+10]
                 files_meta = fetch_files_meta(site, server, page_name, file_chunk)
                 insert_files(conn, site, page_name, files_meta)
                 conn.commit()
-            
+
             logger.debug("Successfully stored file metadata for page '%s'", page_name)
     except Exception as e:
         logger.error("Error processing file metadata for page '%s': %s", page_name, e)
         conn.rollback()
-    
+
     # 2. Process comments/posts
     try:
         comment_ids = fetch_page_comments(site, server, page_name)
         if comment_ids:
             logger.debug("Found %d comments for page '%s'", len(comment_ids), page_name)
-            
+
             # Process comments in chunks of 10 (API limitation)
             for i in range(0, len(comment_ids), 10):
                 comment_chunk = comment_ids[i:i+10]
                 comments_data = fetch_comments_data(site, server, comment_chunk)
                 insert_comments(conn, site, page_name, comments_data)
                 conn.commit()
-            
+
             logger.debug("Successfully stored comments for page '%s'", page_name)
     except Exception as e:
         logger.error("Error processing comments for page '%s': %s", page_name, e)
@@ -905,7 +919,7 @@ def process_single_page(
 ) -> bool:
     """
     Processes a single page: checks if update needed, fetches full data if so,
-    and updates the database.
+    and updates the database. Handles marking pages as deleted.
 
     Args:
         conn: SQLite database connection.
@@ -915,22 +929,25 @@ def process_single_page(
         meta: The metadata dictionary for this page from get_pages_meta.
 
     Returns:
-        True if the page was processed (fetched and/or updated), False if skipped.
+        True if the page was processed (fetched and/or updated), False if skipped or failed.
     """
     # 1. Check if update is needed by comparing with DB
     db_info = get_db_page_info(conn, site, page_name)
     if db_info is not None:
-        db_updated_at, db_revisions = db_info
+        db_updated_at, db_revisions, db_deleted_at = db_info # Unpack deleted_at
         meta_updated_at = meta.get("updated_at")
-        meta_revisions = meta.get("revisions")  # Returns None if key missing
-        # Ensure comparison handles None correctly, treat None revision as 0?
-        # Wikidot API might return 0 or omit revisions key, DB might store NULL.
-        # Simple comparison: skip only if both match exactly.
-        if db_updated_at == meta_updated_at and db_revisions == meta_revisions:
+        meta_revisions = meta.get("revisions")
+
+        # If page exists in DB and is marked as deleted, but now exists in meta,
+        # it means it was recreated. We need to update it.
+        if db_deleted_at is not None:
+             logger.info("Page '%s' on site '%s' was previously marked deleted, now exists. Re-fetching.", page_name, site)
+        # If page exists in DB (and is not marked deleted) and metadata matches, skip.
+        elif db_updated_at == meta_updated_at and db_revisions == meta_revisions:
             logger.debug(
                 "Skipping '%s' on site '%s': No changes detected.", page_name, site
             )
-            return False  # Skipped
+            return False  # Skipped (no change)
 
     logger.debug(
         "Processing page '%s' on site '%s': Update needed or new page.", page_name, site
@@ -952,15 +969,42 @@ def process_single_page(
             )
         ):
             logger.warning(
-                "Page '%s' on site '%s' appears deleted (Fault 406 after retries). Skipping.",
+                "Page '%s' on site '%s' does not exist (406). Marking as deleted in DB.",
                 page_name,
                 site,
             )
-            # Optional: Mark page as deleted in DB instead of skipping?
-            # delete_page_record(conn, site, page_name)
-            return False  # Skipped due to deletion
+            try:
+                # Mark the page as deleted in the database if it's not already marked
+                deleted_timestamp = datetime.datetime.now(datetime.timezone.utc).isoformat()
+                cursor = conn.cursor()
+                cursor.execute(
+                    """
+                    UPDATE pages
+                    SET deleted_at = ?
+                    WHERE site = ? AND fullname = ? AND deleted_at IS NULL
+                    """,
+                    (deleted_timestamp, site, page_name),
+                )
+                if cursor.rowcount > 0: # Check if any row was actually updated
+                    conn.commit()
+                    logger.info("Marked page '%s' on site '%s' as deleted at %s.",
+                                page_name, site, deleted_timestamp)
+                else:
+                    # Page might not exist in DB or was already marked deleted
+                    logger.debug("Page '%s' on site '%s' not found in DB or already marked deleted. No update needed.", page_name, site)
+                    conn.rollback() # Rollback if no rows were updated
+            except sqlite3.Error as db_err:
+                logger.error(
+                    "Failed to mark page '%s' on site '%s' as deleted in DB: %s",
+                    page_name, # Use function argument page_name
+                    site,
+                    db_err,
+                    exc_info=True,
+                )
+                conn.rollback() # Rollback on error
+            return False  # Skipped due to deletion/error during marking
         else:
-            # Log other API faults encountered during get_one_page after retries
+            # Log other API faults encountered during get_one_page
             logger.error(
                 "API Fault after retries fetching page '%s' on site '%s': %s", page_name, site, fault
             )
@@ -1055,7 +1099,7 @@ def process_site(
 ) -> None:
     """
     Processes a single site, fetching and updating all its pages and related data.
-    
+
     Args:
         conn: SQLite database connection.
         server: The authenticated ServerProxy instance.
@@ -1182,7 +1226,11 @@ def process_site(
     logger.info("  Pages updated/inserted: %d", updated_count)
     logger.info(
         "  Pages skipped (no change/deleted/failed): %d",
-        skipped_count + failed_count,
+        skipped_count, # Adjusted to not double-count failures
+    )
+    logger.info( # Added separate line for failures
+        "  Pages failed processing: %d",
+        failed_count
     )
     logger.info(
         "  Site processing time: %.2f seconds (%.2f pages/sec)",
@@ -1221,7 +1269,7 @@ def main() -> None:
         conn = sqlite3.connect(DB_FILE, timeout=10)  # Added timeout
         # Improve performance and reduce locking issues
         conn.execute("PRAGMA journal_mode=WAL;")
-        create_tables(conn)
+        create_tables(conn) # Ensures deleted_at column exists
     except sqlite3.Error as e:
         logger.error("Failed to connect to or initialize database '%s': %s", DB_FILE, e)
         return  # Cannot proceed without DB
@@ -1246,7 +1294,7 @@ def main() -> None:
         try:
             process_site(conn, server, site)
         except Exception as e:
-            logger.error("Error processing site '%s': %s", site, e)
+            logger.error("Error processing site '%s': %s", site, e, exc_info=True) # Added exc_info
             logger.warning("Continuing with next site...")
 
     # --- Cleanup ---
@@ -1277,5 +1325,4 @@ if __name__ == "__main__":
             "Exiting program as API calls cannot function without proper credentials."
         )
         exit("Error: Wikidot credentials not configured.")
-
-    main()
+    main() # Call main function
