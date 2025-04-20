@@ -208,19 +208,24 @@ def get_pages_meta(
     stop=(stop_after_attempt(MAX_RETRY_ATTEMPTS) | stop_after_delay(MAX_TOTAL_DELAY)),
     # Use exponential backoff with jitter to avoid thundering herd
     wait=wait_random_exponential(multiplier=1, min=MIN_WAIT_TIME, max=MAX_WAIT_TIME),
-    # Retry only on specific exceptions
-    retry=retry_if_exception_type(RETRYABLE_EXCEPTIONS),
-    # Log before each retry for monitoring
+    # Retry only on specific exceptions (excluding Fault 403 handled below)
+    retry=retry_if_exception_type(
+        tuple(exc for exc in RETRYABLE_EXCEPTIONS if exc != xmlrpc.client.Fault)
+        + (xmlrpc.client.Fault,) # Add Fault back, but handle 403 specifically
+    ),
+    # Log before each retry for monitoring (include page name if possible)
+    # TODO: Enhance logging here if needed, maybe pass page_name to a custom logger
     before_sleep=before_sleep_log(logger, logging.INFO),
     reraise=True,
 )
 def get_one_page(
     site: str, server: xmlrpc.client.ServerProxy, page_name: str
-) -> Dict[str, Any]:
+) -> Optional[Dict[str, Any]]: # Return type changed to Optional
     """
     Fetches the full content and details for a single page.
 
-    Retries on common network and API errors.
+    Retries on common network and API errors, except for 403 Forbidden.
+    If a 403 error occurs, logs a warning and returns None.
 
     Args:
         site: The Wikidot site name.
@@ -228,15 +233,36 @@ def get_one_page(
         page_name: The fullname of the page to fetch.
 
     Returns:
-        A dictionary containing page details (content, html, rating, etc.).
+        A dictionary containing page details, or None if a 403 error occurred.
 
     Raises:
-        Catches and retries RETRYABLE_EXCEPTIONS. Reraises if retries fail.
-        Note: Specific Faults like 406 (page not found) might be handled
-              by the caller after this function returns/raises.
+        Catches and retries RETRYABLE_EXCEPTIONS (excluding 403). Reraises if retries fail.
     """
     logger.debug("Fetching full content for page: %s on site %s", page_name, site)
-    return cast(Dict[str, Any], server.pages.get_one({"site": site, "page": page_name}))
+    try:
+        return cast(Dict[str, Any], server.pages.get_one({"site": site, "page": page_name}))
+    except xmlrpc.client.Fault as e:
+        if e.faultCode == 403:
+            logger.warning(
+                "Access forbidden (403) for page '%s' on site '%s'. Skipping page.",
+                page_name,
+                site,
+            )
+            return None  # Skip this page, do not retry
+        else:
+            # Reraise other Fault exceptions for the @retry decorator to handle
+            logger.warning(
+                "API Fault %s encountered for page '%s' on site '%s'. Retrying...",
+                e.faultCode, page_name, site
+            )
+            raise e # Let tenacity handle retries for other Faults
+    except RETRYABLE_EXCEPTIONS as e:
+        # Log other retryable errors with page context before tenacity handles them
+        logger.warning(
+            "Error '%s' encountered for page '%s' on site '%s'. Retrying...",
+            type(e).__name__, page_name, site
+        )
+        raise e # Let tenacity handle retries
 
 
 @retry(
@@ -928,16 +954,19 @@ def process_single_page(
     )
 
     # 2. Fetch full page data if update is needed or page is new
+    fullinfo: Optional[Dict[str, Any]] = None # Initialize fullinfo
     try:
         fullinfo = get_one_page(site, server, page_name)
-        # Add tags from metadata (get_one doesn't always include them reliably)
-        fullinfo["tags"] = meta.get("tags", [])
 
     except xmlrpc.client.Fault as fault:
-        # Handle specific "page does not exist" error (406)
+        # Handle specific "page does not exist" error (406) after retries
         if (
             fault.faultCode == 406
-            and "page does not exist" in fault.faultString.lower()
+            # Check common variations of the "page does not exist" message
+            and (
+                "page does not exist" in fault.faultString.lower()
+                or "page not found" in fault.faultString.lower()
+            )
         ):
             logger.warning(
                 "Page '%s' on site '%s' does not exist (406). Marking as deleted in DB.",
@@ -977,14 +1006,15 @@ def process_single_page(
         else:
             # Log other API faults encountered during get_one_page
             logger.error(
-                "API Fault fetching page '%s' on site '%s': %s", page_name, site, fault
+                "API Fault after retries fetching page '%s' on site '%s': %s", page_name, site, fault
             )
-            raise  # Re-raise the exception after logging
+            # Consider if specific non-403/406 faults should also lead to skipping
+            return False # Treat other persistent faults as failure for this page
 
     except RETRYABLE_EXCEPTIONS as e:
-        # Catch errors that might occur if get_one_page retries failed
+        # Catch errors that might occur if get_one_page retries ultimately failed
         logger.error(
-            "Network/API error after retries fetching page '%s' on site '%s': %s",
+            "Network/API error after all retries fetching page '%s' on site '%s': %s",
             page_name,
             site,
             e,
@@ -1002,39 +1032,64 @@ def process_single_page(
         )  # Use logger.exception for stack trace
         return False  # Failed to process
 
+    # Check if get_one_page returned None (due to 403 error handled within it)
+    if fullinfo is None:
+        logger.info(
+            "Skipping DB update for page '%s' on site '%s' due to 403 error during fetch.",
+            page_name, site
+        )
+        return False # Indicate page was not processed successfully
+
+    # Add tags from metadata (get_one doesn't always include them reliably)
+    # We know fullinfo is a Dict here because we checked for None above
+    fullinfo["tags"] = meta.get("tags", [])
+
     # 3. Insert/Update page and tags in the database
     try:
         # Use a transaction for inserting page and its tags
-        with conn:  # Context manager handles commit/rollback
-            insert_page(conn, site, fullinfo) # This now sets deleted_at to NULL
-            insert_tags(conn, site, page_name, fullinfo.get("tags"))
+        with conn: # Context manager handles commit/rollback on exit
+            # We know fullinfo is a Dict here
+            insert_page(conn, site, fullinfo)
+            # We know fullinfo is a Dict here, .get() is safe
+            insert_tags(conn, site, fullinfo['fullname'], fullinfo.get("tags", [])) # Use fullinfo['fullname'] for consistency
+        # Commit happens automatically when 'with conn:' block exits without error
+
         logger.debug(
             "Successfully updated page '%s' and its tags in DB on site '%s'.",
-            page_name,
-            site,
+            page_name, site
         )
 
-        # 4. Process additional data for the page (files, comments)
-        process_page_additional_data(conn, server, site, page_name)
+        # 4. Process additional data (files, comments) only after successful page/tag update
+        try:
+            process_page_additional_data(conn, server, site, page_name) # Pass server proxy
+            return True # Processed successfully including additional data
 
-        return True  # Successfully processed
+        except Exception as add_data_err:
+            # Log error during additional data processing but consider page update successful
+            logger.exception(
+                "Error processing additional data (files/comments) for page '%s' on site '%s' after DB update: %s",
+                page_name, site, add_data_err
+            )
+            # Return True because the main page data was updated, but log the issue.
+            # Alternatively, return False if additional data failure should mark the whole process as failed.
+            return True # Or False, depending on desired behavior
 
-    except sqlite3.Error as e:
+    except sqlite3.Error as db_err:
         logger.error(
-            "DB error updating page '%s' or tags on site '%s': %s", page_name, site, e
+            "Database error during transaction for page '%s' on site '%s': %s",
+            page_name, site, db_err
         )
-        # Transaction should automatically rollback on exception with 'with conn:'
-        return False  # Failed to process
+        # Rollback is automatically handled by the 'with conn:' context manager on exception
+        return False # Failed to process page/tags
+
     except Exception as e:
-        # Catch unexpected errors during DB operation
+        # Catch unexpected errors during the DB transaction itself
         logger.exception(
-            "Unexpected error updating DB for page '%s' on site '%s': %s",
-            page_name,
-            site,
-            e,
-            exc_info=True,
+            "Unexpected error during DB transaction for page '%s' on site '%s': %s",
+            page_name, site, e
         )
-        return False  # Failed to process
+        # Rollback is automatically handled by the 'with conn:' context manager on exception
+        return False # Failed to process page/tags
 
 
 def process_site(
