@@ -1,0 +1,24 @@
+{
+  "title": "SCP-PL-253",
+  "content": "[[include :scp-wiki:theme:blankstyle]]\n[[include :scp-wiki:component:fade-in speed=1]]\n[[module css]]\n:root{\n  --header-title: \"R\\0026 C SITE-120\";\n  --header-subtitle: \"FIGHTING FIRE WITH FIRE\";\n}\n\ndiv#extra-div-1 {\n    background-image: url(https://scp-wiki.wdfiles.com/local--files/secure-facility-dossier-site-120/120.png);\n    filter: opacity(20%);\n}\n#top-bar .open-menu {\n    display : block !important;\n}\n[[/module]]\n\n[[>]]\n[[module Rate]]\n[[/>]]\n\n[[module ListPages category=\"fragment\" parent=\".\" limit=\"1\" order=\"created_at\" offset=\"@URL|0\"]]\n%%content%%\n[[/module]]\n\n[!-- https://scp-wiki.wikidot.com/fragment:scp-pl-253-1 --]\n[!-- https://scp-wiki.wikidot.com/fragment:scp-pl-253-2 --]\n\n\n[[div class=\"footer-wikiwalk-nav\"]]\n[[=]]\n<< [[[SCP-PL-252]]] | SCP-PL-253 | [[[SCP-PL-254]]] >>\n[[/=]]\n[[/div]]",
+  "tags": [
+    "_listpages",
+    "_pl",
+    "esoteric-class",
+    "food",
+    "from-120s-archives",
+    "infohazard",
+    "international",
+    "k-class-scenario",
+    "meta",
+    "nameless",
+    "scp",
+    "uncontained"
+  ],
+  "author": "Jasiu06",
+  "created_at": "2022-05-12T18:00:48+00:00",
+  "updated_at": "2022-05-13T06:25:07+00:00",
+  "rating": 80,
+  "_site": "scp-wiki",
+  "_fullname": "scp-pl-253"
+}

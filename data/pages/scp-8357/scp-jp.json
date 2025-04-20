@@ -1,0 +1,17 @@
+{
+  "title": "SCP-8357",
+  "content": "[[module css]]\nbody {\nfont-size: 0.880em;\n}\n@media only screen and (max-width: 600px) {\n    .scp-image-block.block-right{\n        float: none;\n        margin: auto;\n    }\n}\n[[/module]]\n\n[[include :scp-jp:credit:start-preview]]\n**タイトル:** SCP-8357 - 頭、人形の\n**翻訳責任者:** [[*user C-Dives]]\n**翻訳年:** 2024\n**著作権者:** [[*user IndustryStandard]]\n**原題:** SCP-8357 - head, figurine\n**作成年:** 2024\n**初訳時参照リビジョン:** 3\n**元記事リンク:** [[[*https://scp-wiki.wikidot.com/scp-8357|ソース]]]\n[[include :scp-jp:credit:end-preview]]\n\n**アイテム番号:** SCP-8357\n\n**オブジェクトクラス:** Safe\n\n**特別収容プロトコル:** SCP-8357は無期限にサイト-357に保管されます。\n\n[[include component:image-block name=http://scp-jp-storage.wikidot.com/local--files/file:2375337-949-jovd/Head.jpg|caption=SCP-8357、保管中|width=300px|align=right|alt-text:白い背景の中心に置かれたSCP-8357。]]\n\n**説明:** SCP-8357は36×35×20mmのテラコッタ人形の頭部です。形状はハート型です。微量の顔料がオブジェクトの顔に付着しており、目から乾いた筋が伸びています。額の跡は頭飾りの欠落を示しています。破損した襟と耳飾りが残存しています。\n\n発見当時、オブジェクトの外見と一致する収蔵記録は北半球全域の博物館の73%に存在しました。時系列的に起こり得ないため、異常な干渉が推定されます。全ての記録は問題なく消去されました。\n\n**発見:** 回収記録は失われたか、存在しません。最新の来歴情報は下記を参照してください。\n[[div style=\"border:dashed;border-color:rgb(240,240,255);background:rgb(248,248,255);padding: 0 10px 0;margin:0 10% 0\"]]\nメキシコ。年代不明。首の部分で折れていた。今は我々が持っている。\n[[>]]\n[[div style=\"color:rgb(50,50,50);font-size:.6em;\"]]\n最終更新: 1998年1月2日\n[[/div]]\n[[/>]]\n[[/div]]",
+  "tags": [
+    "en",
+    "safe",
+    "scp",
+    "彫像",
+    "知識"
+  ],
+  "author": "C-Dives",
+  "created_at": "2024-05-21T12:51:54+00:00",
+  "updated_at": "2024-05-21T12:53:09+00:00",
+  "rating": 0,
+  "_site": "scp-jp",
+  "_fullname": "scp-8357"
+}

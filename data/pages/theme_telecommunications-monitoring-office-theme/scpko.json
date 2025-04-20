@@ -1,0 +1,14 @@
+{
+  "title": "통신모니터링실 테마",
+  "content": "[[iftags +테마]]\n\n[[module CSS]]\n@import url(\"https://nu-scptheme.github.io/Black-Highlighter/stable/styles/normalize.min.css\");\n@import url(\"https://nu-scptheme.github.io/Black-Highlighter/stable/styles/black-highlighter.min.css\");\n[[/module]]\n\n[[include :scpko:info:start]]\n**통신모니터링실 테마** (Telecommunications Monitoring Office Theme)\n**저자:** [[*user BattleblockB0ss]]\n**역자:** [[*user Cubic72]]\n**원문:** https://scp-wiki.wikidot.com/theme:telecommunications-monitoring-office-theme\n[[include :scpko:info:end]]\n\n이 테마는 [[*user BattleblockB0ss]]가 제작한 통신모니터링실 테마입니다.\n\n이 테마를 이용하려면, 페이지 상단에 아래 코드를 입력해주세요.\n\n[[div class=\"code\"]]\n@@[[include :scp-wiki:theme:black-highlighter-theme]]@@\n@@[[include :scpko:theme:telecommunications-monitoring-office-theme]]@@\n[[/div]]\n\n이 테마는 통신모니터링실 작품들을 위해 제작되었습니다. 블랙 하이라이터 테마를 사용하므로, 위에 나온 것처럼 그 테마도 같이 인클루드 해주세요.\n\n[[code type=\"css\"]]\n@import url(https://scp-wiki.wikidot.com/theme:telecommunications-monitoring-office-theme/code/1);\n@supports(display: grid) {\n    :root {\n        --header-subtitle: \"통신모니터링부\";\n    }\n[[/code]]\n\n[[/iftags]]\n\n[[module CSS]]\n@import url(https://scpko.wikidot.com/theme:telecommunications-monitoring-office-theme/code/1);\n[[/module]]",
+  "tags": [
+    "en",
+    "테마"
+  ],
+  "author": "Cubic72",
+  "created_at": "2024-07-11T21:52:20+00:00",
+  "updated_at": "2024-11-09T00:30:04+00:00",
+  "rating": 3,
+  "_site": "scpko",
+  "_fullname": "theme:telecommunications-monitoring-office-theme"
+}

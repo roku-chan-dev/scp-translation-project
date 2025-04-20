@@ -1,0 +1,25 @@
+{
+  "title": "SCP-7312",
+  "content": "[[>]]\n[[module Rate]]\n[[/>]]\n[[include :scp-wiki:component:author-label-source start=--\n|name=Errorban\n|no-right-margin=*]]\nWritten by [[*user Errorban]]\n[[include :scp-wiki:component:author-label-source end=--]]\n@@@@\n[[module ListPages category=\"fragment\" parent=\".\" limit=\"1\" order=\"name\" offset=\"@URL|0\"]]\n\n%%content%%\n\n[[/module]]\n\n@@@@\n----\n[[=]]\n[[module Rate]]\n[[div class=\"footer-wikiwalk-nav\"]]\n<< [[[SCP-7311]]] | SCP-7312 | [[[SCP-7313]]] >>\n[[/div]]\n\n[[include :scp-wiki:component:license-box]]\n=====\n[[<]]\n> **Filename:** Ritratto di papa Giovanni Paolo II (1984 – edited).jpg\n> **Author:** [https://www.quirinale.it/ Quirinale.it] / Presidenza della Repubblica (photographer unknown)\n> **License:** Files from http://www.quirinale.it/ are copyrighted to the Presidency of the Italian Republic and are available as follows: © The copyright holder of this file allows anyone to use it for any purpose, provided that the copyright holder is properly attributed. Redistribution, derivative work, commercial use, and all other use is permitted.\n> **Source Link:** https://commons.m.wikimedia.org/wiki/File:Ritratto_di_papa_Giovanni_Paolo_II_(1984_%E2%80%93_edited).jpg#mw-jump-to-license\n[[/<]]\n=====\n[[include :scp-wiki:component:license-box-end]]\n[[/=]]\n\n[!-- https://scp-wiki.wikidot.com/fragment:scp-7312-0 --]",
+  "tags": [
+    "_cc",
+    "_licensebox",
+    "_listpages",
+    "delta-t",
+    "historical",
+    "narrative",
+    "neutralized",
+    "reality-bending",
+    "religious",
+    "ritual",
+    "scp",
+    "spatial",
+    "temporal"
+  ],
+  "author": "Errorban",
+  "created_at": "2022-08-31T02:53:03+00:00",
+  "updated_at": "2024-03-26T20:16:14+00:00",
+  "rating": 15,
+  "_site": "scp-wiki",
+  "_fullname": "scp-7312"
+}

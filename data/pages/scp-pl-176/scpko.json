@@ -1,0 +1,19 @@
+{
+  "title": "SCP-PL-176",
+  "content": "[[include :scp-wiki:theme:blankstyle]]\n[[include info:start]]\n**SCP-PL-176:** 니 엄마\n**원작:** [*http://scp-wiki.net.pl/scp-pl-176 PL] ,[*http://scp-int.wikidot.com/scp-pl-176 INT]\n**저자:** [[*user Jasiu06]]\n**역자:** [[*user KubKac]], [[*user fluxman]]\n**이미지 출처:** 토론 참조\n[[include info:end]]\n\n[[module css]]\nbody{\n    --barColour: #b8a499;\n}\n\n:root{\n  --header-title: \"전술신학부\";\n  --header-subtitle: \"아브라함계 종교부서\";\n}\n@media (max-width: 768px) {\n    :root {\n         --header-title: \"전술신학부\";\n    }\n}\n\ndiv#extra-div-1 {\n    background-image: url(http://topia.wikidot.com/local--files/in-heaven-a-spirit-doth-dwell/tactical-theology.png);\n    filter: opacity(20%);\n}\n\n#header h1 a::before,\n#header h2::before {\n    background: -webkit-linear-gradient(#801818, #000000);\n    -webkit-background-clip: text;\n    -webkit-text-fill-color: transparent;\n}\n\n[[/module]]\n\n[[include :scpko:component:classified-bar-woed\n|lv=4\n|item=PL-176\n|oc=안전\n|oc-en=Safe\n|lang=KO\n]]\n-----\n\n**특수 격리 절차:** SCP-PL-176에게 제17기지의 아파트 호실 하나를 분양해 준다. 대상은 스스로 격리되어 있으며, 마음대로 기지를 떠나도 된다. 하지만 O5/PL-176-003 명령에 따라 상시 기지 인원의 감시를 받아야 한다.\n------\n\n**설명:** SCP-PL-176은 약 50세로 보이는 중동계 여성이다. 본인이 성경에 나오는 나자렛의 마리아라고 주장하며, 대상 근처에서 증가한 아키바 방사선량이 이 주장을 뒷받침한다. 주장이 사실이라면, 실제 나이는 약 2,040세 정도일 것이다.\n\n@@ @@\n@@ @@\n@@ @@\n@@ @@\n@@ @@\n@@ @@\n@@ @@\n@@ @@\n@@ @@\n@@ @@\n@@ @@\n@@ @@\n@@ @@\n@@ @@\n@@ @@\n@@ @@\n@@ @@\n@@ @@\n@@ @@\n@@ @@\n\n----\n[[=]]\n[[collapsible show=\"새 메시지 (1) 개가 있습니다\" hide=\" \"]]\n[[<]]\n[[div style=\"color: black; background:#DFFFF3 url(http://scp-wiki.wdfiles.com/local--files/the-great-hippo/scp_trans.png) center no-repeat; float: center; border: solid 1px #000000; padding: 15px 15px; box-shadow: 0 1px 3px rgba(0,0,0,.2); width: 84%; margin: 4% 4% 4% 4%\"]]\n**발신자:** 마리아 <##red|@@mary.pl-176@scp.foundation.int@@##>\n**제목:** 한 번 와주렴.\n----\n\n아가, O5-13으로서 웬 사슴 신 같은 적그리스도들부터 세상을 구하느라 일이 바쁜 건 잘 알지만, 가끔은 격리 중인 이 어미도 좀 보려 와 주렴.\n\n[[image http://scpko.wdfiles.com/local--files/scp-pl-176/pl176coffeeko]]\n[[/div]]\n[[/<]]\n[[/collapsible]]\n[[/=]]\n\n----\n[[footnoteblock]]\n[!-- 각주를 댓글 위에 표시하기 위한 구문입니다. 지우지 마시고 초안은 이 위에 쓰세요.  --]",
+  "tags": [
+    "pl",
+    "scp",
+    "안전",
+    "인간형",
+    "전술신학부",
+    "종교",
+    "지성"
+  ],
+  "author": "fluxman",
+  "created_at": "2022-02-28T23:54:36+00:00",
+  "updated_at": "2024-10-23T04:01:11+00:00",
+  "rating": 14,
+  "_site": "scpko",
+  "_fullname": "scp-pl-176"
+}

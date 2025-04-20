@@ -1,0 +1,15 @@
+{
+  "title": "서니 클락워크 아트워크 허브",
+  "content": "[[module CSS]]\n.content-panel.standalone {\n  padding: 20px 30px;\n}\n.sp-art-title {\n  font-size: 200%;\n  font-weight: bold;\n  margin-bottom: 10px;\n}\n[[/module]]\n\n[[include info:start]]\n**서니 클락워크 아트워크**\n**저자:** [[*user SunnyClockwork]]\n**원작:** http://www.scp-wiki.net/sunny-s-black-and-white-art\n[[include info:end]]\n\n[[=image sp-scp-logo.png]]\n[[=]]\n이하는 서니 클락워크(SunnyClockwork)가 그린 작품들을 모아둔 것으로서, 손으로 그린 뒤 컴퓨터로 채색하는 방식으로 만들었습니다. 그려주기를 원하는 SCP, 이야기, 인원이 있다면 [http://www.scp-wiki.net/forum/t-861433/taking-art-requests 여기]를 통해 그림 요청을 넣을 수 있습니다.\n[[/=]]\n\n[[div class=\"content-panel centered standalone series\"]]\n[[div class=\"sp-art-title unmargined\"]]\n[[[sunny-art-series-1|SCP 목록 Ⅰ]]]\n[[/div]]\n[[/div]]\n\n[[div class=\"content-panel centered standalone series\"]]\n[[div class=\"sp-art-title unmargined\"]]\n[[[sunny-art-series-2|SCP 목록 Ⅱ]]]\n[[/div]]\n[[/div]]\n\n[[div class=\"content-panel centered standalone series\"]]\n[[div class=\"sp-art-title unmargined\"]]\n[[[sunny-art-series-3|SCP 목록 Ⅲ]]]\n[[/div]]\n[[/div]]\n\n[[div class=\"content-panel centered standalone series\"]]\n[[div class=\"sp-art-title unmargined\"]]\n[[[sunny-art-series-4|SCP 목록 Ⅳ]]]\n[[/div]]\n[[/div]]\n\n[[div class=\"content-panel centered standalone series\"]]\n[[div class=\"sp-art-title unmargined\"]]\n[[[sunny-art-series-5|SCP 목록 Ⅴ-VIII]]]\n[[/div]]\n[[/div]]\n\n[[div class=\"content-panel centered standalone series\"]]\n[[div class=\"sp-art-title unmargined\"]]\n[[[sunny-art-scp-cards|SCP 카드 ]]]\n[[/div]]\n[[/div]]\n\n[[div class=\"content-panel centered standalone series\"]]\n[[div class=\"sp-art-title unmargined\"]]\n[[[sunny-art-joke-scps|농담 SCP]]]\n[[/div]]\n[[/div]]\n\n[[div class=\"content-panel centered standalone series\"]]\n[[div class=\"sp-art-title unmargined\"]]\n[[[sunny-art-pitch-haven|칠흑의 안식처]]]\n[[/div]]\n[[/div]]\n\n[[div class=\"content-panel centered standalone series\"]]\n[[div class=\"sp-art-title unmargined\"]]\n[[[sunny-art-cotbg-sarkicism|부서진신 및 사르킥교]]]\n[[/div]]\n[[/div]]\n\n[[div class=\"content-panel centered standalone series\"]]\n[[div class=\"sp-art-title unmargined\"]]\n[[[sunny-art-goi|요주의 단체]]]\n[[/div]]\n[[/div]]\n\n[[div class=\"content-panel centered standalone series\"]]\n[[div class=\"sp-art-title unmargined\"]]\n[[[sunny-art-personnel|인물]]]\n[[/div]]\n[[/div]]\n\n[[div class=\"content-panel centered standalone series\"]]\n[[div class=\"sp-art-title unmargined\"]]\n[[[sunny-art-tales|이야기 & 기타]]]\n[[/div]]\n[[/div]]\n\n@@@@\n@@@@\n\n[[div class=\"content-panel centered standalone series\"]]\n[[div class=\"sp-art-title unmargined\"]]\n[[[scp-buns|SCP 토끼]]]\n[[/div]]\n[[/div]]\n\n[[div class=\"content-panel centered standalone series\"]]\n[[div class=\"sp-art-title unmargined\"]]\n[[[goi-ball-comics|요주의공 만화]]]\n[[/div]]\n[[/div]]",
+  "tags": [
+    "en",
+    "아트워크",
+    "허브"
+  ],
+  "author": "Salamander724",
+  "created_at": "2014-07-06T12:52:29+00:00",
+  "updated_at": "2023-07-08T15:19:10+00:00",
+  "rating": 13,
+  "_site": "scpko",
+  "_fullname": "sunny-s-black-and-white-art"
+}

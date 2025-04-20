@@ -1,0 +1,13 @@
+{
+  "title": "It Always Ends The Same 0",
+  "content": "[[include :scp-wiki:theme:black-highlighter-theme]]\n[[include :scp-wiki:theme:extra-black-highlighter-theme]]\n\n[[module CSS]]\n#page-title{display:none}\n\n :root{\n     --link-color: 221, 17, 17;\n     --visited-link-color: 221, 17, 17;\n     --hover-link-color: 221, 102, 17;\n}\n[[/module]]\n\n[[=image tv.PNG]]\n\n= It always ends the same.\n\n> [[[scp-5733 | \"Hey you there, I don't know you, and I don't know why you've just sat there watching this without doing nothing but please, I'm begging you, help me out here. What can I do to survive this?\"]]]\n\nYou stare at the television screen. She doesn't know you, but you know her. You told yourself last time would be the **last** time, yet you're here again.\n\nYou've seen this film before. So many times. It invades her house. Kills her friends. Chases her into the basement, and that's where she sees **you**. Her last hope. Last chance of survival. Yet it always ends the same.\n\nYou agonise internally over what to recommend this time. An idea sparks. You open your mouth to speak:\n\n[[table style=\"border-collapse:collapse; width: 100%;\"]]\n[[row]]\n[[cell style=\"font-weight:bold;padding: 1.0em 1.0em; text-align: center; border: 8px solid #141618; background-color: #a3a1a6; width: 50%;\"]]\n[[[https://scp-wiki.wikidot.com/it-always-ends-the-same/offset/1 |Tell her to run through the woods behind her house to escape.]]]\n[[/cell]]\n[[cell style=\"font-weight:bold;padding: 1.0em 1.0em; text-align: center; border: 8px solid #141618; background-color: #a3a1a6; width: 50%;\"]]\n[[[https://scp-wiki.wikidot.com/it-always-ends-the-same/offset/2|Tell her to go hide in the neighbour's house across the road.]]]\n[[/cell]]\n[[/row]]\n[[/table]]",
+  "tags": [
+    "fragment"
+  ],
+  "author": "Dysadron",
+  "created_at": "2023-04-03T20:53:05+00:00",
+  "updated_at": "2023-04-03T21:36:44+00:00",
+  "rating": 0,
+  "_site": "scp-wiki",
+  "_fullname": "fragment:it-always-ends-the-same-0"
+}

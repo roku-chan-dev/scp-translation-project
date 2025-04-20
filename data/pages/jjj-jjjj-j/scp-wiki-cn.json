@@ -1,0 +1,19 @@
+{
+  "title": "JJJ-JJJJ-J",
+  "content": "[[include :scp-wiki:theme:black-highlighter-theme]]\n[[include :scp-wiki:component:pride-highlighter |inc-bi-alt= --]]]\n\n[[include component:ratio-bar base=-- |ex=--]]\n[[include :scp-wiki-cn:credit:start-standalone]]\n[[module CSS]]\n:root {\n    --header-title: \"JJJ基金局\";\n    --header-subtitle: \"纠，拘，拒\";\n}\n\n.f-heading{\n  visibility: hidden;\n}\n\n.f-heading:after{\n  visibility: visible;\n  content: \"Jootnote 1.\";   \n  display: block;\n  position: absolute;\n  background-color: rgb(var(--hoverblock-header-bg));\n  color: rgb(var(--hoverblock-header-txt))\n  padding: 1px;\n  top: 1px;\n  width: max-content;\n  height: 1.5em;\n  margin: -0.75rem 0 0 -1rem;\n  padding: 0.125em 0.25em;\n}​\n[[/module]]\n\n@@ @@\n**[[[JJJ-JJJJ-J]]]: \"Jit's Ja Joke\" jy:** [[*user Doctor Fullham]]\n-----\n[[=]]\n+++ [https://scp-wiki.wikidot.com/doctor-fullham ♫ Joctor Jullham's Jauthor Jage ♫]\n[[/=]]\n-----\n[[=]]\n**Jrit Jredits:**\n[[*user Purplayoss]]\n[[*user Project Delta]]\n[[/=]]\n[[include :scp-wiki:component:ratio-bar pie=--]]\n[[include :scp-wiki-cn:credit:end-standalone]]\n\n**拘级：**拒拘。\n\n**拘径：**JJJ-JJJJ-J绝拒拘禁。\n\n**讲疾：** JJJ-JJJJ-J，谲疾[[footnote]] 译者注：代指模因异常。 [[/footnote]]，矫记迹皆J。\n及，矫举界俱缣[[footnote]] 译者注：代指牛仔布 [[/footnote]]。基机拒究。\n\n**稽记：**J2J0J2J3[[footnote]] 记迹既J2J0J2J3，即J2J0J2J3！**J2J0J2J3！！！**鸡妓。 [[/footnote]]，季[[footnote]] 译者注：代指季月，即三月。 [[/footnote]]，九，基金局警接决，进杰郡John及Janelle Johnson居，见举境及家具皆缣。窖具酱，镌“惊，拒觉假！”[[footnote]] 译者注：原文此处为人造黄油品牌I Can't Believe It's Not Butter! [[/footnote]]\n基金局警具究疾，竟拒解。基金局缴John及Janelle Johnson居，借“葺居”拒进居。\n \n**暨记：**据究，仅“GIF”[[footnote]] 译者注：//史蒂芬·威尔海特（Stephen Wilhite）在Compuserve公司工作时，率领工程团队发明GIF档，凭着体积小、成像相对清晰的优点，十分适合早期互联网带宽小的环境，而今网络用户将GIF档用于创作，变成用来作为网络迷因的格式之一，威尔海特也在2013年获得威比奖（The Webby Award）终身成就奖。至于“GIF”怎么念，许多人都念成“gift”（[ɡɪf]）的音，但他本人正名应该念“Jif”（[d͡ʒɪf]）一样的音。//——摘自维基百科。 [[/footnote]]拒谲矫。\n[[div style=\"display:none\"]]\n[[footnoteblock]]\n[[/div]]\n\n[[include :scp-wiki-cn:component:license-box\n|author=Doctor Fullham\n|translator=Chen Keyan\n]]\n=====\n=====\n[[include :scp-wiki-cn:component:license-box-end]]",
+  "tags": [
+    "meta",
+    "scp",
+    "信息危害",
+    "变形",
+    "搞笑",
+    "机密分级",
+    "模因"
+  ],
+  "author": "Chen Keyan",
+  "created_at": "2025-02-20T00:49:25+00:00",
+  "updated_at": "2025-02-20T01:56:53+00:00",
+  "rating": 24,
+  "_site": "scp-wiki-cn",
+  "_fullname": "jjj-jjjj-j"
+}

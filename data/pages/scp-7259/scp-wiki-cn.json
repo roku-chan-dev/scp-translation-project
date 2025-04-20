@@ -1,0 +1,19 @@
+{
+  "title": "SCP-7259",
+  "content": "[[include :scp-wiki:component:author-label-source start=--\n|name=Rab333]]\n你死之后会去哪？\n[https://scp-wiki-cn.wikidot.com/rab333-s-contained-anomalies 此外，我的更多作品！]\n[[include :scp-wiki:component:author-label-source end=--]]\n\n[[module ListPages  category=\"fragment\" parent=\".\" limit=\"1\" order=\"created_at\" offset=\"@URL|0\"]]\n%%content%%\n[[/module]]\n\n[!-- https://scp-wiki-cn.wikidot.com/fragment:scp-7259-0 --]\n[!-- https://scp-wiki-cn.wikidot.com/fragment:scp-7259-1 --]",
+  "tags": [
+    "keter",
+    "scp",
+    "听觉影响",
+    "地点",
+    "建筑",
+    "战术神学部",
+    "死后"
+  ],
+  "author": "Aegnus",
+  "created_at": "2024-01-25T14:34:31+00:00",
+  "updated_at": "2024-01-25T14:39:20+00:00",
+  "rating": 2,
+  "_site": "scp-wiki-cn",
+  "_fullname": "scp-7259"
+}

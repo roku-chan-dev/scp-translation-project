@@ -1,0 +1,15 @@
+{
+  "title": "아트워크 경연 허브 - 이야기",
+  "content": "[[module css]]\n.content-panel {\n    border: none;\n    border-radius: 0px;\n    background-color: #fff;\n    margin: 10px 0 15px;\n    box-shadow: none;\n    box-shadow: none;\n}\n[[/module]]\n[[div class=\"content-panel left-column\"]]\n[[include component:image-block name=http://scp-wiki.wdfiles.com/local--files/art-contest-hub-tales/techaartBees.png| caption= [http://ko.scp-wiki.net/bees 벌들] by https://techaart.tumblr.com. [https://i.imgur.com/qdLxeoU.png 여기서] 전체보기. ]]\n\n[[include component:image-block name=http://scp-wiki.wdfiles.com/local--files/art-contest-hub-tales/Sirawsmface64.png| caption= [http://ko.scp-wiki.net/doctors-of-the-church-hub 교단의 박사들] by Sirawsmface64. [https://i.imgur.com/KXsyKsQ.png 여기서] 전체보기.]]\n\n[[include component:image-block name=http://scp-wiki.wdfiles.com/local--files/art-contest-hub-tales/surumerume.png| caption= [http://ko.scp-wiki.net/long-live-the-king 만수무강하소서] by surumerume. [https://i.imgur.com/w5iW59F.png 여기서] 전체보기.]]\n\n[[include component:image-block name=http://scp-wiki.wdfiles.com/local--files/art-contest-hub-tales/Akumeoy.png| caption= [http://ko.scp-wiki.net/revenants 망령들] by Akumeoy. [http://www.scp-wiki.net/local--files/quote-unquote-art-by-cww/AkumeoyTales.png 여기서] 전체보기.]]\n\n[[include component:image-block name=http://scp-wiki.wdfiles.com/local--files/art-contest-hub-tales/PerelkaL.png| caption= [http://ko.scp-wiki.net/the-stars-do-not-wait-for-you 별들은 그대를 기다려주지 않으니] by Perelka_L. [https://i.imgur.com/tuk5D7S.png 여기서] 전체보기.]]\n\n[[include component:image-block name=http://scp-wiki.wdfiles.com/local--files/art-contest-hub-tales/Kenoma.png| caption=[http://ko.scp-wiki.net/12talesaboutafactory 공장에 관한 12가지 이야기] by Kenoma. [https://i.imgur.com/wYVTwHi.png 여기서] 전체보기.]]\n[[/div]]\n[[div class=\"content-panel right-column\"]]\n[[include component:image-block name=http://scp-wiki.wdfiles.com/local--files/art-contest-hub-tales/DrFrogBellerverse.png| caption= [http://ko.scp-wiki.net/bellerverse 벨러버스] by Dr Frog. [https://i.imgur.com/vxGKWpt.png 여기서] 전체보기.]]\n\n[[include component:image-block name=http://scp-wiki.wdfiles.com/local--files/art-contest-hub-tales/Flawed.png| caption= [http://ko.scp-wiki.net/document-recovered-from-the-marianas-trench 마리아나 해구에서 발견된 문서] by Flawed. [https://i.imgur.com/vapUgHU.png 여기서] 전체보기.]]\n\n[[include component:image-block name=http://scp-wiki.wdfiles.com/local--files/art-contest-hub-tales/HerculesRockefeller.png| caption= [http://ko.scp-wiki.net/on-mount-golgotha-hub 골고타 산정에서] by Hercules Rockefeller. [https://i.imgur.com/AIF8Ukt.png 여기서] 전체보기.]]\n\n[[include component:image-block name=http://scp-wiki.wdfiles.com/local--files/art-contest-hub-tales/Faut.png| caption= [http://ko.scp-wiki.net/stop-going-in-circles 제자리걸음 멈추기] by Faut. [https://i.imgur.com/eP9uQA2.png 여기서] 전체보기.]]\n[[/div]]",
+  "tags": [
+    "2017-아트워크경연-en",
+    "en",
+    "아트워크"
+  ],
+  "author": "XCninety",
+  "created_at": "2018-02-27T02:25:20+00:00",
+  "updated_at": "2024-10-20T13:53:32+00:00",
+  "rating": 0,
+  "_site": "scpko",
+  "_fullname": "art-contest-hub-tales"
+}

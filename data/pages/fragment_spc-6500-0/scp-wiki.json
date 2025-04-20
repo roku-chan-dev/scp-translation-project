@@ -1,0 +1,13 @@
+{
+  "title": "SPC-6500-0",
+  "content": "[[include :scp-wiki:theme:black-highlighter-theme]]\n[[include :scp-wiki:theme:extra-black-highlighter-theme]]\n[[include :scp-wiki:theme:shark-punching-centre-bhl]]\n[[include :scp-wiki:component:toggle-sidebar-bhl]]\n[[include :scp-wiki:component:centered-header-bhl]]\n\n[[div style=\"background: url(https://scp-wiki.wdfiles.com/local--files/fragment%3Aspc-6500-0/spc-logo-1.svg) bottom center no-repeat; text-align: center; width: 575px; margin: 0 auto; font-size: 20px; padding: 0px; color:#285B7A;background-size: 100% 100%;\"]]\n@@ @@\n@@ @@\n@@ @@\n@@ @@\n++* ##285B7A|By the Order of ORACLE:##\n\nThis file has been cleared only for Level 5 Personnel or Higher. \n\nReaders need no further background information.\n\nThis Project is [[span style=\"font-family:monospace;color:green\"]]ACTIVE[[/span]].\n\n[[[http://scp-wiki.wikidot.com/spc-6500/offset/1 |Steel. Proceed. Confess.]]]\n\n@@ @@\n@@ @@\n@@ @@\n[[/div]]\n\n[[module CSS]]\n#content-wrap::before {\n  content: \"\";\n  position: absolute;\n  height: 100%;\n  width: 100%;\n  top: 0;\n  left: 0;\n  background-repeat: repeat-x;\n  pointer-events: none;\n  opacity: 0.0;\n}\n[[/module]]",
+  "tags": [
+    "fragment"
+  ],
+  "author": "LORDXVNV",
+  "created_at": "2021-11-15T20:34:31+00:00",
+  "updated_at": "2021-11-15T21:17:40+00:00",
+  "rating": 0,
+  "_site": "scp-wiki",
+  "_fullname": "fragment:spc-6500-0"
+}

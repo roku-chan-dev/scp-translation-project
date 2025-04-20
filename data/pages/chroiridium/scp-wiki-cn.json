@@ -1,0 +1,13 @@
+{
+  "title": "隰有蜉蝣，铬骨铱心",
+  "content": "[[include :scp-wiki-cn:theme:black-highlighter-theme]]\n[[include :scp-wiki-cn:theme:fmd-bhl-theme]]\n[[include :scp-wiki:component:collapsible-sidebar]]\n[[=]]\n铬铱是第一个备战3k的。当时接到通知要去改三火，他便兴冲冲地赶了过去。hala刚找到他，他便拖了三个月稿。铬铱感到事情有些不大对头，但也没在意。当他快到首发日期时，专门对付他的hala立即走了过来。几名老登在首发日上发了文把他压住，铬铱惊慌失措，一边大声说\"我是来拖稿的，你们要干什么？\"一边凌晨码字，拼命进行反抗。老登个个身手不凡，铬铱很快就被他们制服，被扭着双臂押到了众节点。在这里，等待他的老登把对他的处理决议念了一遍。还没等老登念完，铬铱突然大吼一声，挣脱老登的扭缚，向五六步远地方的众节点猛扑过去。铬铱摸了三年鱼，一旦扑过去，被众节点打伤了，这还了得？众节点久经沙场，不慌不忙的冷眼看着铬铱的疯狂举动。在这千钧一发之际，一旁的hala反应迅速，猛冲上去把铬铱扑倒，死死地把他摁住，给他带上手铐……在赶\"烈火焚心\"ddl的过程中，铬铱是唯一一个抢到2024年首发的，铬铱被捕后，拖欠众节点长评也是最久的。\n[[/=]]\n[[tabview]]\n[[tab 作品一览]]\n[[collapsible show=\"蜉蝣飞地,空无所依\" hide=\"- 朝生夕死，向死而生\"]]\n[[include component:author-page\norder=created_at |\ntranslation=yes |\nbackground=yes |\nimage=yes |\nsortbar=yes |\n]]\n[[/collapsible]]\n[[collapsible show=\"   \" hide=\"    \"]]\n[[include component:author-page-tool]]\n[[/collapsible]]\n[[/tab]]\n[[tab 人设]]\n[[include component:image-block name=dr.chroiridium.jpg |caption=ChroIridium坚称这是其本人。]]\nChroIridium是对研究员Chromium和人工智能（自述）研究助理Iridium的总称。后面由于上层叙事摸到了黑暗剑22同时没学会像素画所以还没写。\n[[/tab]]\n\n[[tab 播放器]]\n[[=]]\n\n[[/=]]\n[[html]]\n<!— require APlayer >\n<link rel=\"stylesheet\" href=\"https://cdn.bootcss.com/aplayer/1.10.1/APlayer.min.css\">\n<script src=\"https://cdn.bootcss.com/aplayer/1.10.1/APlayer.min.js\"></script>\n<! require MetingJS —>\n<script src=\"https://unpkg.com/meting@2.0.1/dist/Meting.min.js\"></script>\n\n<meting-js\nserver=\"netease\"\ntype=\"album\"\nid=\"178518010\"\nautoplay=true>\n</meting-js>\n[[/html]]\n[[/tab]]\n[[tab 作品后日谈]]\n没人看的东西有什么写出来自我感动的需要吗？\n\n由于多篇文章将会进入无限期重构状态，为了不吃回旋镖（虽然历史记录放出来也会被狠狠回旋镖）所有后日谈全部清空。\n[[/tab]]\n[[tab 留言板+互动区]]\n\n> [[*user Franz Ismal]]：首先，贴贴铬铱。\n> \n> 这是我第一条在其他前辈人事底下发的留言。我在没有补课的周六里一个人在家空泛地翻着基金会的一堆人事档案，看到铬铱的，不知道为什么就很想写点什么。铬铱前辈……是个很有趣的人，我那点半吊子马列知识和键政本领多半是从和铬铱的交谈中（一般是一边聊天一边手忙脚乱的一路百度奇怪名词）得出来的。铬铱的比喻很有趣，有的时候需要仔细思考一番才能品出来什么意思，但每句带有奇怪比喻的话往往都能让我得出来一个写文的新思路。蛮有趣，算是让我受益良多，事我很喜欢的前辈。（\n> \n> 烧卖真的好好吃。好羡慕楼下就有回民烧卖店的先辈（。\n> \n> 电磁感应题做魔怔了，思维混乱，说出来的话有如胡言乱语，草草写些，贴在这里，和前辈再一次贴贴。\n[[/tab]]\n[[/tabview]]",
+  "tags": [
+    "作者"
+  ],
+  "author": "ChroIridium",
+  "created_at": "2020-06-21T07:27:12+00:00",
+  "updated_at": "2024-04-24T15:47:50+00:00",
+  "rating": 18,
+  "_site": "scp-wiki-cn",
+  "_fullname": "chroiridium"
+}

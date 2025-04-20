@@ -1,0 +1,14 @@
+{
+  "title": "--Beer-- DrScaramouche's Stuff & Things",
+  "content": "[[>]]\n[[module Rate]]\n[[/>]]\n\n[[>]]\n[[include component:ratio-bar base=--]]\n[[/>]]\n\n\nHi. I'm an author with a huge case of imposter syndrome, but was finally convinced to make an author's page in order to make getting my tags on the discord easier.\n\n\n--The name comes from Beerswain, which should be my username, if I ever get brave enough to change it on the wiki. Otherwise, I am [[*user DrScaramouche]].--\n\nedit: Fuck it. Long Live Scaramouche MD.\n\nedit #2: Did you know strikethrough doesn't work in page titles? Now you do!\n\n[[tabview]]\n\n[[tab 144-Hour Jamcon 2 (2020)]]\n\n**Themes**: EXPLOSIONS / Delicious / More Than Meets The Eye\n**Podiums**: Third, //Theme 3 Top Tales//\n\n------\n\n[[include :scp-wiki:component:mega-cool-author-page-tool |inc-manual-list= --]\n|name=Focus\n|background-image=\n|language=en\n|shadow=\n]]\n\n[[include :scp-wiki:component:mega-cool-author-page-tool |inc-manual-list= --]\n|name=Ambrose DC Restaurant Week\n|background-image=\n|language=\n|shadow=\n]]\n\n[[include :scp-wiki:component:mega-cool-author-page-tool |inc-manual-list= --]\n|name=Secure Cybertron Protocols Administration\n|background-image=\n|language=\n|shadow=\n]]\n[[/tab]]\n\n[[tab 11th Art Exchange (2022)]]\n\n//Written/filmed for [[*user ThatGuyThatTime]]. Sometimes working for the Church pays off.//\n\n------\n[[include :scp-wiki:component:mega-cool-author-page-tool |inc-manual-list= --]\n|name=Stephane the Apostles Epistle to the Palmyrene\n|background-image=\n|language=en\n|shadow=\n]]\n\n------\n\nMy gift that I received from [[*user Cassandra Prime]]. I gave them the impossible task of writing for my author avatar, with the twist that //I// haven't even written for my author avatar. Also, they took my love for penguins and //ran// with it. I love it so much. :3\n\n------\n//Link Coming Soon, I hope!//\n[[include :scp-wiki:component:mega-cool-author-page-tool |inc-manual-list= --]\n|name=Coming Soon I Hope\n|background-image=\n|language=en\n|shadow=\n]]\n\n[[/tab]]\n\n[[tab Things I Didn't Write]]\nI helped [[*user UtyLike]] with localizing the English, as well as tightening up the narrative. There's more of a collab-style version of this floating around out there somewhere which we never ended up posting; if I find it, I'll link it here for posterity.\n\n------\n[[include :scp-wiki:component:mega-cool-author-page-tool |inc-manual-list= --]\n|name=SCP-3423\n|background-image=\n|language=en\n|shadow=\n]]\n\n[[/tab]]\n\n[[/tabview]]\n\n\n[[include :scp-wiki:component:license-box]]\n[[include :scp-wiki:component:license-box-end]]",
+  "tags": [
+    "_licensebox",
+    "author"
+  ],
+  "author": "DrScaramouche",
+  "created_at": "2022-07-18T15:02:09+00:00",
+  "updated_at": "2023-01-02T19:13:38+00:00",
+  "rating": 22,
+  "_site": "scp-wiki",
+  "_fullname": "beer"
+}

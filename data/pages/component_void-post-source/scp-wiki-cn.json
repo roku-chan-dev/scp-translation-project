@@ -1,0 +1,13 @@
+{
+  "title": "Void 帖子 源代码",
+  "content": "[[div class=\"void dark\"]]\n[[span class=\"void-img\"]]\n[[image {$profile-pic} style=\"width: 60px\"]]\n[[/span]]\n@@ @@\n[[span style=\"color: hsl(0, 0%, 46%); font-size: 1.35rem\" class=\"vusermod\"]]{$username}[[/span]]\n[[span style=\"color: hsl(0, 0%, 46%); font-size: 1.35rem\" class=\"vui\"]]⁂{$handle}[[/span]]\n@@ @@\n[[span style=\"font-size: 1.2rem\"]]{$void-msg}[[/span]]\n~~~~\n* [[span style=\"color: hsl(0, 0%, 46%); font-size: .8rem\" class=\"vui\"]]回响@@ @@[[/span]][[span class=\"vactivity\" style=\"font-size: 1.1rem; font-weight: bold\"]]{$echoes}[[/span]]\n* [[span style=\"color: hsl(0, 0%, 46%); font-size: .8rem\" class=\"vui\"]]蜂鸣@@ @@[[/span]][[span class=\"vactivity\" style=\"font-size: 1.1rem; font-weight: bold\"]]{$hums}[[/span]]\n~~~~\n[[span style=\"color: hsl(0, 0%, 46%); font-size: .8rem\" class=\"vui\"]]{$time-and-date}[[/span]]\n[[/div]]\n\n[[module CSS]]\n/* == OUTER CSS == */\n div.void {\n    width: 23rem;\n    margin: 1rem auto;\n    padding: 0 .8rem;\n\n    color: hsl(0, 0%, 5%);\n    background: hsl(0, 0%, 100%);\n    border: 1px solid lightgray;\n    box-shadow: 3px 3px 0 1px hsla(0, 0%, 0%, .15);\n}\n\n @media (max-width: 767px) {\n     div.void {\n     width: auto;\n    }\n}\n\n/* == INNER CSS == */\n div.void span {\n    word-break: unset;\n}\n\n .vusermod {\n    font-weight: bold;\n}\n\n div.void ul {\n    list-style-type: \"ₒ৹๐ \";\n}\n\n/* == AVATAR == */\n .void-img {\n    float: left;\n    margin: 1rem 0 0 .4rem;\n    padding: 0 1rem;\n}\n\n/* == VOID TRENDS == */\n .vactivity {\n    color: blue;\n    cursor: pointer;\n}\n\n .vactivity span {\n    word-break: unset;\n}\n\n .vactivity:hover,\n .vactivity:focus {\n    text-decoration: underline;\n}\n[[/module]]",
+  "tags": [
+    "组件后端"
+  ],
+  "author": "Sekai_s",
+  "created_at": "2020-08-08T12:05:34+00:00",
+  "updated_at": "2024-07-27T04:05:20+00:00",
+  "rating": 2,
+  "_site": "scp-wiki-cn",
+  "_fullname": "component:void-post-source"
+}

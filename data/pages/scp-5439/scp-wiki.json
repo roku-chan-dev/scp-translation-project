@@ -1,0 +1,18 @@
+{
+  "title": "SCP-5439",
+  "content": "[[include :scp-wiki:theme:black-highlighter-theme]]\n\n[[module css]]\n@import url('https://fonts.googleapis.com/css2?family=Roboto+Mono&display=swap');\n\n.log {\nfont-family: \"Roboto Mono\", monospace;\nmargin: 10px auto;\nbackground: #f5f5f5;\nwidth: 75%;\npadding: 15px; \nborder: dashed 1px #d9d9d9;\n}\n\n[[/module]]\n\n[[>]]\n[[module Rate]]\n[[/>]]\n\n**Item #:** SCP-5439\n\n**Object Class:** Pending\n\n**Special Containment Procedures:** Medical scans on Dr. Crowler are being made and consolidated. Dr. Crowler is to be held in a standard humanoid containment cell until the research team has agreed upon further containment procedures.  \n\n\n**Description:** SCP-5439 is a preliminary designation for the unknown phenomena causing the extreme congenital analgesia in Dr. Henrietta Crowler. While cognitive functions and sensations have stayed the same, Dr. Crowler has shown herself unable to perceive certain stimuli. Medical personnel confirm there are no non-anomalous biological explanations for Dr. Crowler's condition.\n\n**Discovery:** The issue of SCP-5439 emerged on 21/09/2021 when Dr. Crowler showed symptoms of congenital analgesia on a regular staff conference. A part of the meeting logs are attached below.\n\n\n[[div class=\"log\"]]   \n[[=]]\n**[OPEN LOG]**\n[[/=]]\n//[Mr. Falkner is by the whiteboard presenting the results of a recent survey on site security. Mrs. Ramirez, Dr. Marly and Dr. Crowler are present at the table. Dr. Crowler scratches her nose.]//\n\n**Mr. Falkner:** As you can see, fire exits are blocked almost at all exits but-\n\n**Dr. Crowler:** Oh god damn it.\n\n**Mr. Falkner:** ...We are probably going to have to intervene in another conference on the five steps of site security if things are going to chang-\n\n**Mrs. Ramirez:** Are- are you alright Dr. Crowler?\n\n//[Dr. Crowler is rubbing her palm against her nose tip.]//\n\n**Dr. Crowler:** Yeah yeah, it just itches so bad on the inside.\n\n**Mrs. Ramirez:** But Dr. Crowle- Oh Jesus!\n\n//[A snap is heard, which is believed to be the sound of Dr. Crowler's nasal bone. Dr. Crowler continues pressing and rubbing her nose, ignoring her co-workers protests. Her nasal bone structure cracks and is crushed completely. She sighs and wipes off some of the blood that has wetted her mouth and chin.]//\n\n**Dr. Crowler:** Aahh... That's better.\n[[=]]\n**[CLOSE LOG]**   \n[[/=]]\n[[/div]]\n\n[[div class=\"footer-wikiwalk-nav\"]]\n[[=]]\n<< [[[SCP-5438]]] | SCP-5439 | [[[SCP-5440]]] >>\n[[/=]]\n[[/div]]\n[[include :scp-wiki:component:license-box]]\n[[include :scp-wiki:component:license-box-end]]",
+  "tags": [
+    "_licensebox",
+    "medical",
+    "mind-affecting",
+    "pending",
+    "scp",
+    "sensory"
+  ],
+  "author": "Nils Severin",
+  "created_at": "2021-09-21T20:36:02+00:00",
+  "updated_at": "2022-10-22T16:24:12+00:00",
+  "rating": 21,
+  "_site": "scp-wiki",
+  "_fullname": "scp-5439"
+}

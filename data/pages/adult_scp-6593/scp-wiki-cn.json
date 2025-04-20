@@ -1,0 +1,22 @@
+{
+  "title": "SCP-6593",
+  "content": "[[include :scp-wiki-cn:theme:black-highlighter-theme]]\n[[include :scp-wiki:component:bhl-dark-sidebar]]\n[[include :scp-wiki:component:centered-header-bhl]]\n[[include :scp-wiki:component:toggle-sidebar-bhl]]\n[[include :scp-wiki:component:acs-animation]]\n[[include :scp-wiki:component:fade-in speed=4]]\n[[module CSS]]\n\n#page-content hr {\nborder-top: none;\nheight: .05em;\nbackground: #454545;\n}\n\n.info-container .collapsible-block-folded a{\ncolor: #FFF;}\n.info-container .collapsible-block-unfolded-link a{\ncolor: #FFF;\n}\n\n.info-container .collapsible-block-folded a{\ncolor: #FFF;}\n.info-container .collapsible-block-unfolded-link a{\ncolor: #FFF;\n}\n\n#page-content > .collapsible-block {\n    display: block;\n    text-align: center;\n    padding: .8em;\n    background-color: #e3e3e3;\n    border-top: 0.125rem dashed #b5b5b5;\n    border-bottom: 0.125rem dashed #b5b5b5;\n}\n\n#page-content > .collapsible-block .collapsible-block-content {\n    text-align: left;\n}\n\nblockquote,\ndiv.blockquote {\n    border: 0.125rem solid #d4d4d4;\n    background-color: #F5F5F5;\n}\n\n.interview{\n    border:solid 2px #d4d4d4;\n    background:#F5F5F5;\n    width:90%;\n    padding:1px 15px;\n    margin: 10px auto;\n}\n\n.addendum{\n    border:solid 1px #5e5e5e;\n    background:#ffffff;\n    width:90%;\n    padding:1px 15px;\n    margin: 10px auto;\n}\n\n#page-title{display:none}\n\n[[/module]]\n\n[[div style=\"text-align: right; margin-top: -20px;\"]]\n[[size 80%]]##757575|作者：PlaguePJP##[[/size]]\n[[/div]]\n \n[[include :scp-wiki-cn:component:info-ayers\n|page=scp-6593[!-- url of your page on the scp wiki --]\n|authorPage=plaguepjp[!-- link to your author page --]\n|comments=  - PlaguePJP\n]]\n\n[[include :scp-wiki-cn:component:anomaly-class-bar-source\n|lang= cn\n|item-number= 6593\n|clearance= 2\n|container-class= safe\n|secondary-class= none\n|disruption-class= vlam\n|risk-class= 待观察\n]]\n-----\n\n[[div class=\"scp-image-block block-center\" style=\"width:100%;\"]]\n[[image https://scp-wiki.wdfiles.com/local--files/scp-6593/vendingmachine.jpg style=\"width:100%;\" link=#]]\n[[div class=\"scp-image-caption\" style=\"width:100%;\"]]\n位于被发现处的 SCP-6593。\n[[/div]]\n[[/div]]\n\n-----\n\n**特殊收容措施：**SCP-6593 已被转移至 Site-322 的自助餐厅中。SCP-6593 可被任何等级的所有站点人员使用。建议在使用 SCP-6593 前预先警告附近的人员。\n\n**描述：**SCP-6593 为一台标准自动售货机，可收取美国纸币与硬币。SCP-6593 内含有糖果棒、独立包装的薯条与椒盐脆饼，以及各种各样的碳酸饮料。当一件物品被购买时，SCP-6593 将异常性地在次日补充物品。所有观察此补货过程的尝试均已失败。\n\nSCP-6593 为一个有感知力、有智能且能够以英语发言的经高度调剂的男性人声。此些特性仅会在一名顾客位于对象的 0.2 ~ 0.5 米范围内并停留在此区域超过五秒时出现。当这些需求满足时，SCP-6593 将开始与潜在顾客对话。SCP-6593 的内部机构与同型号的无异常机器示例并无任何区别——现仍未知此些特性首次显现的时间与方式。\n\nSCP-6593 将在一名对象浏览物品、投入硬币并/或选择其喜好的物品时获得性满足，通常将说出与其自身及顾客有关的露骨色情词汇且请求对其进行上述行为。\n\n由于 SCP-6593 可自我补货，Site-322 主管 Paul Lague 已同意将 SCP-6593 放置在站点的饮食区中，以作为一种节省资金的方法，并广泛地进行了对 SCP-6593 的行为研究。\n\n**附录 6593.1：**事件转录\n\n2022 年 7 月 5 日，Anthony Coix 博士尝试使用 SCP-6593。\n\n[[div class=\"interview\"]]\n= **转录稿**\n-----\n= **<<开始记录>>**\n\n//（Coix 接近 SCP-6593 并开始查看其内的物品。）//\n\n**SCP-6593：**你很喜欢你看到的东西嘛，大哥。\n\n-----\n**注释：**自从 SCP-6593 被收容于自助餐厅内后，站点人员已开发出了一种无视 SCP-6593 的勾引的策略。这似乎加剧了 SCP-6593 的性活动与喜悦感。\n-----\n\n**SCP-6593：**啊对……透过我的玻璃看。我就是个肮脏的荡妇，让你看看我的里面是什么吧。\n\n//（Coix 继续查看物品。他似乎正在对将要购买的物品犹豫不决。）//\n\n**SCP-6593：**操，你真的让我好想出点货啊。来啊，给我塞个硬币。\n\n//（Coix 继续查找可用的物品，持续了五分钟。随着时间的推移，SCP-6593 明显变得越来越兴奋了。）//\n\n**SCP-6593：**来啊。求你了，一枚硬币就好。就一枚。我很厉害的。我就是个妓。我好想你在我这买点东西啊。\n\n//（Coix 决定购买一袋乐事油炸薯片。他从口袋里摸出四枚 25 美分硬币。）//\n\n//（SCP-6593 发出呻吟的巨响。）//\n\n**SCP-6593：**我操爽欸。把硬币塞进来啊。把它们塞到我的里面。我想尝尝它们掉到分拣机里的感觉。\n\n//（Coix 将 25 美分硬币塞入，而后回头看向机器上对应的数字。）//\n\n**SCP-6593：**喔太爽了。按我的按钮。重重地按下去。我就快完事了。\n\n//（Coix 按下了第一个按钮。）//\n\n**SCP-6593：用力！**\n\n//（Coix 极其迅速地按下了最后三个按钮。他明显有点不舒服了。）//\n\n**SCP-6593：**哦哦哦。我操。\n\n//（SCP-6593 的内部灯光开始快速闪烁。整台机器突然从地板上升起，而后重重砸下。SCP-6593 内存有的所有食物与饮料都落到了取物槽内。SCP-6593 的呼吸变得粗重。）//\n\n**SCP-6593：**我操。操。好久都没有这样过了。\n\n= **<<结束记录>**\n[[/div]]\n\nCoix 从办公室中抱出了一个大纸板箱，将所有物品取走，而后迅速离开了自助餐厅。\n\n自此次事件的消息传播之后，处于午餐休息时间的人员都会尝试将 SCP-6593 激至性高潮以获取免费零食。现已发展出多种策略，包括在购买过程中摇晃硬币发出响声，或是用相比正常更久的时间持续按住键盘上的按钮，但最为成功的一种已被证明是由 Coix 博士所创造的方法。\n\n[[footnoteblock]]\n----\n[[div class=\"footer-wikiwalk-nav\"]]\n[[=]]\n<< [[[SCP-6592]]] | SCP-6593 | [[[SCP-6594]]] >>\n[[/=]]\n[[/div]]\n----",
+  "tags": [
+    "safe",
+    "scp",
+    "交换",
+    "反熵",
+    "家用物品",
+    "性",
+    "成人内容",
+    "整合计划",
+    "智能",
+    "电子"
+  ],
+  "author": "hoah2333",
+  "created_at": "2022-06-20T20:37:14+00:00",
+  "updated_at": "2024-07-23T22:39:03+00:00",
+  "rating": 6,
+  "_site": "scp-wiki-cn",
+  "_fullname": "adult:scp-6593"
+}

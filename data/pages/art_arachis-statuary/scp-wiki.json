@@ -1,0 +1,18 @@
+{
+  "title": "Arachis Statuary",
+  "content": "[[>]]\n[[module Rate]]\n[[/>]]\n\n[[div style=\"background-color: black; color: #ffffff; margin:36pt; padding:5%;\"]]\n[[=]]\n[[image statuary_1_small.jpg]]\n@@ @@\n@@ @@\n@@ @@\n[[image statuary_2_small.jpg]]\n[[/=]]\n[[/div]]",
+  "tags": [
+    "_cc",
+    "artwork",
+    "painted",
+    "remixcon2023",
+    "scp-art",
+    "the-sculpture"
+  ],
+  "author": "UncertaintyCrossing",
+  "created_at": "2023-09-04T04:07:19+00:00",
+  "updated_at": "2024-03-28T11:39:50+00:00",
+  "rating": 40,
+  "_site": "scp-wiki",
+  "_fullname": "art:arachis-statuary"
+}

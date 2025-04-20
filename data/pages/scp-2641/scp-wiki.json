@@ -1,0 +1,22 @@
+{
+  "title": "SCP-2641",
+  "content": "[!--Thanks to stormbreath and Croquembouche for the info module update.--]\n\n[[module css]]\nsup { \n\nline-height: 0;\nposition: relative;\nvertical-align: baseline;\ntop: -0.5em;\n\n}\n[[/module]]\n[[include info:start]]\n[[=]]\n**SCP-2641:** The [[size 75%]]Talk[[/size]] Spore\n------\n **Author:** [[$ sc(rn)p $]]\n([http://www.scp-wiki.net/scpcrnp-s-author-page More from this author.])\n[[/=]]\n[[include info:end]]\n\n[!--\nFragments:\nhttp://scp-wiki.wikidot.com/fragment:scp-2641-1\nhttp://scp-wiki.wikidot.com/fragment:scp-2641-2\nhttp://scp-wiki.wikidot.com/fragment:scp-2641-3\nhttp://scp-wiki.wikidot.com/fragment:scp-2641-4\nhttp://scp-wiki.wikidot.com/fragment:scp-2641-5\nhttp://scp-wiki.wikidot.com/fragment:scp-2641-6\n--]\n\n[[module ListPages category=\"fragment\" parent=\".\" order=\"created_at\" limit=\"1\" offset=\"@URL|0\"]]\n%%content%%\n[[/module]]\n\n[[footnoteblock]]\n\n[[div class=\"footer-wikiwalk-nav\"]]\n[[=]]\n<< [[[SCP-2640]]] | SCP-2641 | [[[SCP-2642]]] >>\n[[/=]]\n[[/div]]\n\n[[include :scp-wiki:component:license-box\n|author=ghosthorses]]\n=====\n> **Filename:** \n> **Name:** File:Magnifying glass icon.svg \n> **Author:** Derferman\n> **License:** public domain\n> **Source Link:** https://commons.wikimedia.org/wiki/File:Magnifying_glass_icon.svg\n\n> **Filename:** potatopatch.jfif\n> **Name:** File:Potato patch.jpg\n> **Author:** Zunter\n> **License:** CC BY-SA 4.0\n> **Source Link:** https://commons.wikimedia.org/wiki/File:Potato_patch.jpg\n\n> **Filename:** potatofungus.jfif\n> **Name:** File:Scleroderma cepa at the Santa Cruz Fungus Fair.gk.jpg\n> **Author:** Grendelkhan\n> **License:** CC BY-SA 3.0\n> **Source Link:** https://commons.wikimedia.org/wiki/File:Scleroderma_cepa_at_the_Santa_Cruz_Fungus_Fair.gk.jpg\n\n> **Filename:** acpelogo.jfif\n> **Name:** File:ACPE logo.jpg\n> **Author:** Senator2029\n> **License:** public domain\n> **Source Link:** https://commons.m.wikimedia.org/wiki/File:ACPE_logo.jpg\n\n> **Filename:** arteries.jfif\n> **Name:** File:Arteries and veins of the brain. Wellcome L0000989.jpg\n> **Author:** Wellcome Collection gallery\n> **License:** CC BY 4.0\n> **Source Link:** https://commons.wikimedia.org/wiki/File:Arteries_and_veins_of_the_brain._Wellcome_L0000989.jpg\n\n> **Filename:** lifecycle.png\n> **Name:** File:07 08 life cycle, Phytophthora infestans on potato, Peronosporales, Oomycota (M. Piepenbring).png\n> **Author:** M. Piepenbring\n> **License:** CC BY-SA 3.0\n> **Source Link:** https://commons.wikimedia.org/wiki/File:07_08_life_cycle,_Phytophthora_infestans_on_potato,_Peronosporales,_Oomycota_(M._Piepenbring).png\n\n\n=====\n[[include :scp-wiki:component:license-box-end]]",
+  "tags": [
+    "_cc",
+    "_licensebox",
+    "_listpages",
+    "biohazard",
+    "fungus",
+    "neurological",
+    "parasitic",
+    "safe",
+    "scp",
+    "unusual-incidents-unit"
+  ],
+  "author": null,
+  "created_at": "2018-08-12T21:48:11+00:00",
+  "updated_at": "2021-07-30T17:41:30+00:00",
+  "rating": 62,
+  "_site": "scp-wiki",
+  "_fullname": "scp-2641"
+}

@@ -1,0 +1,15 @@
+{
+  "title": "日本の偉人「日奉 樹」",
+  "content": "[[module css]]\n.holder {\n    border: solid 1px #999999;\n    margin-bottom: 10px;\n    padding: 5px;\n    height: 450px;\n    overflow-x: hidden;\n    overflow-y: scroll;\n    -webkit-overflow-scrolling: touch;\n}\n[[/module]]\n\n[[include credit:start]]\n**タイトル:** 日本の偉人「日奉 樹」\n**イラスト:** [[*user SOYA-001]]\n**作成年:** 2020\n\n**元記事:** SCP-745-JP - 日奉樹\n**元記事著者:** [[*user tsucchii0301]]\n**元記事作成年:** 2015\n[[include credit:end]]\n\n[[=image Isanagi_Tatsuki.jpg width=\"400\" title=\"日奉 樹\"]]\n[[=]]\n\n**[[size 200%]][http://scp-jp.wikidot.com/scp-745-jp 日奉 樹][[/size]]** \n[[size 130%]]\nIsanagi Tatsuki\n1987 - 2013\n[[/size]]\n\n██県出身の日本人数学者。\n██████大学卒業後、██████大学院在籍中に████関数の解明や、████████の定理の研究で大きな成果を上げる。\n2013年4月に████予想を単独研究で証明したことを発表し、国際数学連合から特別賞を受賞するなど、若くして世界の数学界を大きく牽引した。\n\n2013年09月12日、虚血性心疾患により死去。享年26歳。\n[[/=]]",
+  "tags": [
+    "jp",
+    "アートワーク",
+    "日奉一族"
+  ],
+  "author": "SOYA-001",
+  "created_at": "2020-07-26T02:29:43+00:00",
+  "updated_at": "2021-01-10T18:32:27+00:00",
+  "rating": 77,
+  "_site": "scp-jp",
+  "_fullname": "pic-isanagi-tatsuki"
+}

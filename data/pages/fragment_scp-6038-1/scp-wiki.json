@@ -1,0 +1,13 @@
+{
+  "title": "Scp 6038",
+  "content": "[[>]]\n[[include theme:black-highlighter-theme]]\n[[include :scp-wiki:component:acs-animation]]\n[[include :scp-wiki:component:bhl-dark-sidebar]]\n\n[[/>]]\n\n[[module CSS]]\n.raisa_memo {\n    background: url(https://scp-wiki.wikidot.com/local--files/theme:basalt/RAISA_LIGHTLOGO.png) #fff3ad;\n    background-size: contain;\n    background-position: top center;\n    background-repeat: no-repeat;\n    font-family: 'Work Sans', sans-serif;\n    box-shadow: 0px 0px 5px rgba(0, 0, 0, 0.5);\n    width: 90%;\n    min-height: 4rem;\n    max-height: 100rem;\n    margin-left: auto;\n    margin-right: auto;\n    text-align: center;\n    padding: 10px 20px 20px 20px;\n    word-break: break-word;\n}\n.raisa_memo>p:nth-child(1)::before {\n    content: \"NOTICE FROM THE RECORDS AND INFORMATION SECURITY ADMINISTRATION\\00000a\";\n    font-family: 'Work Sans', sans-serif;\n    font-weight: 900;\n    font-size: 130%;\n    text-align: center;\n    margin-bottom: 1rem;\n    padding-bottom: 0.3rem;\n    border-bottom: dotted 0.13rem darkslategrey;\n    max-width: 49rem;\n    margin-left: auto;\n    margin-right: auto;\n    display: flex;\n    flex-direction: column;\n    align-content: stretch;\n    align-items: center;\n}\n.papernote {\n    background-color: #eaeeef;\n    color: #21252E !important;\n    padding: 0.1rem 0.5rem 0.5rem 0.5rem;\n    box-shadow: 1px 1px 3px 2px rgb(0 0 0 / 30%);\n    margin: auto;\n    width: 100%;\n}\n[[/module]]\n\n@@ @@\n[[div class=\"raisa_memo\"]]\n[[size large]]\n**RAISA- Records And Information Security Administration:**\n\nThe archived version of this file was initially written by **Agent Ramírez**.\nThe file has been revised and updated by the **Paratech Division of Site-63** and the **Global Geopolitics and Counterinsurgency Department**.\n\nAccess to the archived file is unrestricted under **Level 2** security clearance.\nAccess to the updated version is only for staff with **Level 3** security clearance.\n\n[[/size]]\n[[/div]]\n\n@@ @@\n\n[[div style=\"border:solid 1px #999999; background:#f2f2c2; padding:5px; margin-bottom: 10px;\"]]\n[[>]]\n[[[https://scp-wiki.wikidot.com/scp-6038/offset/1 |Archived Version (Level 2) --->]]]\n[[/>]]\n[[/div]]",
+  "tags": [
+    "fragment"
+  ],
+  "author": "Kilerpoyo",
+  "created_at": "2021-12-08T20:13:19+00:00",
+  "updated_at": "2023-03-27T13:57:27+00:00",
+  "rating": 0,
+  "_site": "scp-wiki",
+  "_fullname": "fragment:scp-6038-1"
+}

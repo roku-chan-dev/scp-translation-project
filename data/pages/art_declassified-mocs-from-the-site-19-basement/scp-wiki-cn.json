@@ -1,0 +1,13 @@
+{
+  "title": "来自Site-19地下室已解密的MOC",
+  "content": "[[include :scp-wiki:component:toggle-sidebar]]\n\n[[module CSS]]\ndiv#extra-div-1 {\n    height: 140px;\n    width: 100%;\n    top: 0;\n    position: absolute;\n    background-image: url(\"https://scp-sandbox-3.wdfiles.com/local--files/lego-anky/387-header-5.svg\");\n    background-size: cover;\n}\n#header {\n    background: url(\"https://scp-sandbox-3.wdfiles.com/local--files/anky-remix/SCP_Foundation_%28emblem%29%20%281%29.svg\") 0px 30px no-repeat;\n    background-size: 6.5rem;\n}\n\nbody {\n    font-family: Arial;\n    font-size: 16px;\n    color: #000;\n}\n\nblockquote,\ndiv.blockquote {\n    padding: 1em;\n    margin: 1em 0;\n    border: 2px solid #000;\n    border-radius: 10px;\n    background-color: #D6EFFF;\n}\n\n.part blockquote,\n.blockquote.part {\n    background-color: #B8D7F3;\n    border: 1px solid #000;\n    border-radius: 2.5px;\n}\n\n.white blockquote,\n.blockquote.white{\n    background-color: #FFFFFF;\n    border: 1px solid #000;\n    border-radius: 2.5px;\n}\n\n.scp-image-block {\n    background-color: #B8D7F3;\n    border: 1px solid #000;\n    border-radius: 5px;\n    margin: 10px;\n    padding: 0em;\n}\n\n.scp-image-block .scp-image-caption {\n    background-color: #FFFFFF;\n    border: 1px solid #000;\n    border-radius: 5px;\n    margin: 2px;\n    padding: 0em;\n}\n\n[[/module]]\n@@ @@\n@@ @@\n@@ @@\n[[=]]\n//以下来自于[https://scp-wiki-cn.wikidot.com/secure-facility-dossier-site-387## Site-387]内的货架上：//\n[[/=]]\n@@ @@\n@@ @@\n@@ @@\n[[div class=\"blockquote\"]]\n[[include :scp-wiki:component:image-block-peppo\n|name=https://scp-sandbox-3.wdfiles.com/local--files/lego-anky/6217-9_10.png\n|add-caption=true\n|caption=[[[SCP-6217]]]显现。MTF Filskov-5（“AFOLs”）被派去调查。\n|align=center\n|width=100%\n]]\n@@ @@\n**Arch主管的笔记：**这个黑色的玩意儿尝起来真是够恶心人的。我只是……忍不住想吃掉它。\n[[/div]]\n@@ @@\n@@ @@\n@@ @@\n[[div style=\"background-color: #000; margin: 1px 1px; height: 2px;\"]]\n[[/div]]\n@@ @@\n@@ @@\n@@ @@\n[[div class=\"blockquote\"]]\n[[include :scp-wiki:component:image-block-peppo\n|name=https://scp-sandbox-3.wdfiles.com/local--files/lego-anky/Lego6556\n|add-caption=true\n|caption=由Arch主管复刻的[[[SCP-6556]]]。\n|align=center\n|width=100%\n]]\n@@ @@\n**Arch主管的笔记：**我离开我的站点的唯一原因是为了吃东西和观看最新的LifeOfRex视频！我喜欢这个家伙！他如是说道。也许我不该出生在这个时代，我本会成为一只伟大的甲龙的。\n[[/div]]\n@@ @@",
+  "tags": [
+    "艺术作品"
+  ],
+  "author": "AceAttackAssassin",
+  "created_at": "2023-11-18T13:57:45+00:00",
+  "updated_at": "2023-11-18T13:57:56+00:00",
+  "rating": 0,
+  "_site": "scp-wiki-cn",
+  "_fullname": "art:declassified-mocs-from-the-site-19-basement"
+}

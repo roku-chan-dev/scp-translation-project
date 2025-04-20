@@ -1,0 +1,13 @@
+{
+  "title": "Fixing Logins (Redirect)",
+  "content": "[[module Redirect destination=\"archived:third-party-cookies\"]]",
+  "tags": [
+    "redirect"
+  ],
+  "author": "aismallard",
+  "created_at": "2021-10-04T03:30:31+00:00",
+  "updated_at": "2022-09-14T20:07:24+00:00",
+  "rating": 0,
+  "_site": "scp-wiki",
+  "_fullname": "third-party-cookies"
+}

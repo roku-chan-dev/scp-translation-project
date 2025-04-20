@@ -1,0 +1,21 @@
+{
+  "title": "SCP-7935",
+  "content": "[[module CSS]]\n#page-title {display: none;}\n[[/module]]\n\n[[>]]\n[[module Rate]]\n[[/>]]\n**Item #:** 7935\n\n**Object Class:** Thaumiel\n\n**Special Containment Procedures:** SCP-7935 is to remain on display in wing A7 of Site-357's anomalous artifacts appreciation sector.\n\nLocated SCP-7935-1 instances are to be uprooted and transported to Site-357 where they are to be placed in the proximity of both SCP-7935 and a grow lamp. Instances are to be watered twice daily, and monitored for unique growth patterns.\n[[include :scp-wiki:component:image-block-peppo\n|name= mound\n|caption=SCP-7935\n|width=300px\n]]\n**Description:** SCP-7935 is a forged copy of //Szatan// by Stanisław Ignacy Witkiewicz. Though the piece itself is undamaged, it remains in its original frame, which has been warped due to water damage incurred prior to acquisition.\n\nSCP-7935-1 denotes certain masses of amalgamated human flesh. Entities consist of up to two arms, two legs, one head,[[footnote]]Possessing any number of the expected sensory organs and orifices of a human being.[[/footnote]] and at least one phallus, all contorted around a central mound. Additionally, instances possess both complex rootlike protrusions emanating from their undersides, and cells containing chlorophyll, giving them a mild green hue and allowing them to sustain themselves given ample light and water.\n\nNascent SCP-7935-1 instances have been discovered globally in a wide variety of locations, though most frequently around college campuses and locations with similar demographic makeups. Most instances will be discovered in an earlier state of development, with fewer obvious appendages and paler skin. In 95% of cases, these instances will naturally perish due to malnourishment, incapable of sustaining themselves.[[footnote]]Though they possess the proper faculties.[[/footnote]] Notably, the aforementioned effect can be remedied through exposure to SCP-7935, the maintained proximity of which will allow the mounds to swell to and maintain their mature state.\n\n**Addendum-1:** Junior Researcher Turner Flock was recorded musing the following out loud while watering an SCP-7935-1 instance.\n> \"Well isn't that a pretty protrusion you have there, fella.\"\nHe was then observed poking the aforementioned protrusion with his watering can before moving on.\n\nHours after Flock's maintenance, the watered instance began to constrict upon itself, forming a bud-like structure which it remained in for approximately three days. The instance was then observed to unfurl, extending its limbs outward and beyond its container, and in doing so, revealing a human heart that had developed within.[[footnote]]Beating at a constant 112 BPM.[[/footnote]] The instance has remained in this altered state since the event. Investigations into this behavior are ongoing.\n@@ @@\n[[div class=\"footer-wikiwalk-nav\"]]\n[[=]]\n<< [[[SCP-7934]]] | SCP-7935 | [[[SCP-7936]]] >>\n[[/=]]\n[[/div]]\n[[=]]\n[[include :scp-wiki:component:license-box\n|author=IndustryStandard]]\n[[<]]\n=====\n> **Filename:** mound\n> **Name:** Szatan\n> **Author:** Ablatok\n> **License:** CC BY-SA 4.0\n> **Source Link:** https://commons.wikimedia.org/wiki/File:Stanis%C5%82aw_Ignacy_Witkiewicz_-_Szatan.jpg\n> **Additional Notes:** Reproduction and photograph of Stanisław Ignacy Witkiewicz's painting Satan.\n=====\n[[/<]]\n[[include :scp-wiki:component:license-box-end]]\n[[/=]]",
+  "tags": [
+    "_cc",
+    "_licensebox",
+    "alive",
+    "artistic",
+    "humanoid",
+    "plant",
+    "scp",
+    "species",
+    "thaumiel"
+  ],
+  "author": "IndustryStandard",
+  "created_at": "2023-11-14T20:35:43+00:00",
+  "updated_at": "2024-11-14T05:39:17+00:00",
+  "rating": 59,
+  "_site": "scp-wiki",
+  "_fullname": "scp-7935"
+}

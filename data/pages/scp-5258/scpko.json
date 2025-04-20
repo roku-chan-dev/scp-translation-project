@@ -1,0 +1,19 @@
+{
+  "title": "SCP-5258",
+  "content": "[[include info:start]]\n[[=]]\n[[size 120%]]**SCP-5258**[[/size]]\n[접근 승인됨]\n[[size 80%]][ACCESS GRANTED][[/size]]\n[[/=]]\n\n**저자:** [[*user Penton]]\n**역자:** [[*user LR0725]]\n**원작:** https://scp-wiki.wikidot.com/scp-5258\n[[include info:end]]\n\n**일련번호:** SCP-5258\n\n**등급:** 타우미엘\n\n**특수 격리 절차:** 재단 인원은 첨부된 파일에 기술되어 있는 표준 예방 조치를 준수해야 한다.[[footnote]]모든 인원은 이 문서를 더 읽기 전에 다음의 문서를 열람하여야 한다. [https://upload.wikimedia.org/wikipedia/commons/f/fa/Black_White_Graphic_Pattern_by_Trisorn_Triboon.jpg?20190309164527| 문서-5258-2][[/footnote]] SCP-5258는 현재 단 한 개체만이 존재한다.\n\n**설명:** SCP-5258은 모든 지각력 있는 생명체를 노출 시 무력화하기 위해 설계된 밈적 살해 인자이다. 이 문서를 작성하는 시점에서 SCP-5258은 재단에서 만들어낸 가장 강력한 살해 인자로, 효과에 노출된 생명체를 제거하는 데에 100% 성공했다. 현재 SCP-5258은 재단에 침입한 자, 재단 데이터베이스에 접근한 적대 집단, 재단 문서를 열람할 수단이 있는 기타 적대적이면서 지각력 있는 생명체들을 비밀스럽게 제거하기 위해 사용되고 있다.\n\n그 위험성으로 인해, 단 한 개체 존재하는 SCP-5258은 두 개의 이미지 벡터(SCP-5258-1과 2)로 나누어져 있다. 잘못된 순서(SCP-5258-2, SCP-5258-1 순서)로 두 이미지를 인식할 경우, 대상은 SCP-5258로 인해 사망하지 않고 오히려 SCP-5258의 효과에 면역된다. 그러나 반대 순서로 개체를 인식할 경우 몇 분 내에 치명상을 입고 돌연 뇌사에 빠지게 된다.\n\n[[=]]\n[[collapsible show=\"문서-SCP-5258-1 접근\" hide=\"접근 요청 취소됨\"]]\n[[include component:image-block\nname=https://upload.wikimedia.org/wikipedia/commons/6/6a/Black_White_Graphic_Pattern_by_Trisorn_Triboon_2.jpg?20190309164648|caption= SCP-5258-1|width=300px|align=center]]\n##white|gotcha##\n[[/=]]\n[[<]]\n**발견 기록:** 이전에 있었던 재단 데이터베이스 침입 사례들을 조사한 후, SCP-5258의 활용이 처음 제안되었다. 다수의 침입 사례에서, 침입자들은 실제로 본문을 읽기 전에 파일 안의 접기 처리된 문서를 먼저 열어보는 경향을 보인다는 것을 발견하였다. 이는 밈적 또는 인식재해 현상을 언급하는 문서를 취급 및 열람할 때 지켜야 할 표준 행동 수칙을 위반하는 일이다.\n\n이러한 선택은 보통 숨겨져 있거나 본질적으로 불길해 보여서, 매력적이라고 여겨지는 대상에 접근하려 하는 사람의 충동으로 인해 자극된다. 이러한 충동을 흔히 \"판도라 효과\"라고도 한다.\n\nSCP-5258 문서에 접근하는 재단 외 열람자 중 90%가 이러한 행동을 보였다.\n[[/<]]\n[[/collapsible]]\n\n[[footnoteblock]]\n@@ @@\n@@ @@\n[[div class=\"authors\"]]\n[[include :scp-wiki:component:license-box\n|author=Penton]]\n=====\n> **파일명:** Black White Graphic Pattern by Trisorn Triboon.jpg\n> **저작권자:** [[[ https://commons.wikimedia.org/wiki/User:Tris_T7 | Tris_T7]]]\n> **라이선스:** CC-BY-SA 4.0\n> **출처:** https://commons.wikimedia.org/wiki/File:Black_White_Graphic_Pattern_by_Trisorn_Triboon.jpg\n\n> **파일명:** Black White Graphic Pattern by Trisorn Triboon 2.jpg\n> **저작권자:** [[[ https://commons.wikimedia.org/wiki/User:Tris_T7 | Tris_T7]]]\n> **라이선스:** CC-BY-SA 4.0\n> **출처:** https://commons.wikimedia.org/wiki/File:Black_White_Graphic_Pattern_by_Trisorn_Triboon_2.jpg\n=====\n[[include :scp-wiki:component:license-box-end]]\n[[/div]]",
+  "tags": [
+    "en",
+    "scp",
+    "밈적",
+    "시각",
+    "인식재해",
+    "재단이-만듦",
+    "타우미엘"
+  ],
+  "author": "LR0725",
+  "created_at": "2023-10-20T03:18:05+00:00",
+  "updated_at": "2025-01-10T21:45:46+00:00",
+  "rating": 19,
+  "_site": "scpko",
+  "_fullname": "scp-5258"
+}

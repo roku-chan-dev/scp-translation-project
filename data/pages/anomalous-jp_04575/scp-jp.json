@@ -1,0 +1,14 @@
+{
+  "title": "04575",
+  "content": "content: \"**説明:** バナー広告風の画像。クリックするとアメリカ合衆国ワイオミング州に位置する1軒の廃屋の上空2m地点にシイタケ(//Lentinula edodes//)1個が出現する。廃屋内に落下したシイタケは回転/浮遊しながら2階上部の円形窓に向かって移動し、窓付近で消失する。当画像は1日当りのクリック数が一定数を満たさない場合、他ウェブサイト上に転移する。\\n**回収日:** 20██/██/██\\n**回収場所:** ボランティア募集サイト████\\n**現状:** 画像をウェブサイト上から削除。当該廃屋の上空2m地点を含む全体をシートで覆い封鎖。転移防止のため担当職員には1日100回以上の画像のクリックが義務付けられる。\\n[[include component:coltop show=+ 担当職員用|hide=- 担当職員用]]\\n[[include :smlt:7happy7:change-image-block\\n|align=left|clear=true|dif=p1\\n|name-1=http://scp-jp-storage.wikidot.com/local--files/file:3420466-1-lywm/%E7%B5%A6%E9%A4%8C%281%29\\n||width-1=250px/* 表示させる際の画像幅 */\\n|caption-1=AO04575\\n|img-1-width=252/* 元画像の幅 */\\n|img-1-height=252/* 元画像の高さ */\\n|name-2=http://scp-jp-storage.wikidot.com/local--files/file:3420466-2-7suz/%E7%B5%A6%E9%A4%8C%282%29\\n|width-2=250px/* 表示させる際の画像幅 */\\n|caption-2=AO04575\\n|img-2-width=237/* 元画像の幅 */\\n|img-2-height=237/* 元画像の高さ */\\n]]\\n[[include component:colend nohide=true]]\"\ntf2: '0'\nauthor: ''\nredirect-b: '[[module Redirect destination=\"http://ja.scp-wiki.net/log-of-anomalous-items-jp'\nredirect-e: '\"]]'",
+  "tags": [
+    "jp",
+    "剪定対象-子"
+  ],
+  "author": "rararain",
+  "created_at": "2024-05-14T15:21:36+00:00",
+  "updated_at": "2024-05-15T01:52:28+00:00",
+  "rating": 3,
+  "_site": "scp-jp",
+  "_fullname": "anomalous-jp:04575"
+}

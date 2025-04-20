@@ -1,0 +1,15 @@
+{
+  "title": "THE THOUSANDS - A KCON ART PIECE",
+  "content": "[[=]]\n[[module Rate]]\n[[/=]]\n\n[[include :scp-wiki:component:author-label-source start=--\n|name=ThatGuyThatTime\n|center=*]]\n\n= //Congratulations, Mr. Peener!//\n\n------\n\n= Art to celebrate the most recent contest, as well as all K-Cons to precede it!\n= [[[thatauthorpagethattime|More by ThatGuy]]]\n[[include :scp-wiki:component:author-label-source end=--]]\n\n[[include :scp-wiki:theme:black-highlighter-theme]]\n[[include :scp-wiki:component:centered-header-bhl]]\n[[module CSS]]\n:root {\n     --header-title: \"THE THOUSANDS\";\n     --header-subtitle: \"A PLACE OF LEGENDS\";\n    --bright-accent: 140, 199, 245;\n    --medium-accent: 140, 199, 245;\n    --dark-accent: 140, 199, 245;\n     --link-color: 140, 199, 245;\n     --visited-link-color: 176, 216, 247;\n     --hover-link-color: 176, 216, 247;\n}\n[[/module]]\n[[=]]\n//Bigfoot. Yellowstone. Anantashesha. **##green|The Forest of No Name##**. A question. The Library. The Loser.//\n\n//All stories which defined their respective generation, came out victorious among the droves of talented writers, and have invariably left an impact on this wiki. There were 7, but now, we welcome an 8th.//\n\n//These are The Thousands.//\n[[/=]]\n\n[[=image kcondraft.png]]\n\n[[=]]\n//Featuring all previous winners of the legendary \"K-Cons\", aka [[[SCP-1000]]] by [[*user thedeadlymoose]], [[[SCP-2000]]] by [[*user HammerMaiden]], [[[SCP-3000]]] by [[*user DJKaktus]], [[*user Joreth]] and [[*user A Random Day]], [[[/taboo|SCP-4000]]] by [[*user Peppersghost]], [[[SCP-5000]]] by [[*user Tanhony]], [[[SCP-6000]]] by [[*user Rounderhouse]], [[[SCP-7000]]] by [[*user HarryBlank]], and finally...//\n\n//[[[SCP-8000]]], by the one and only **[[*user PlaguePJP]]**.//\n[[/=]]\n------\n@@ @@\n@@ @@\n[[include :scp-wiki:component:license-box]]\n> **Filename:** kcondraft.png\n> **Author:** [[*user ThatGuyThatTime]]\n> **License:** CC-BY-SA 4.0\n> **Additional Notes:** My own artwork!\n[[include :scp-wiki:component:license-box-end]]",
+  "tags": [
+    "artwork",
+    "poster",
+    "scp-art"
+  ],
+  "author": "ThatGuyThatTime",
+  "created_at": "2024-03-13T16:48:36+00:00",
+  "updated_at": "2024-03-28T20:11:27+00:00",
+  "rating": 55,
+  "_site": "scp-wiki",
+  "_fullname": "art:thatguykconart"
+}

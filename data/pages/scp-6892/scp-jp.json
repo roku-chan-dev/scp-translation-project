@@ -1,0 +1,22 @@
+{
+  "title": "SCP-6892",
+  "content": "[[include credit:start]]\n**タイトル:** SCP-6892 - A memo to all Site-32 staff. (サイト-32の全職員への覚え書き)\n**著者:** ©︎[[*user Harriet Farrar]]\n**原記事:** https://scp-wiki.wikidot.com/scp-6892\n**作成年:** 2021\n**翻訳者:** ©[[*user Shishiza man]]\n**翻訳時rev:** 8\n**翻訳年:** 2021\n[[include credit:end]]\n[[module CSS]]\n.email-example .collapsible-block-folded a.collapsible-block-link {\n    animation: blink 0.8s ease-in-out infinite alternate;\n}\n@keyframes blink {\n    0% { color: transparent; }\n    50%, 100% { color: #b01; }\n}\n.email {border: solid 2px #000000; width: 88%; padding: 1px 15px; margin: 10px; box-shadow: 0 1px 3px rgba(0,0,0,.5)}\n.email-example a.collapsible-block-link {font-weight: bold;}\n.tofrom {margin-left: 10px; margin-top: 5px; padding: 1px 15px; border-left: solid 3px maroon}\n[[/module]]\n[[div class=\"email\"]]\n[[=]]\n\n++++ **__覚え書き__**\n[[/=]]\n//サイト-32の全ての職員は、通常業務の妨げとならないようにするため、SCP-6892を屋外に、可能であれば人里離れた場所に配置する必要があることを念頭に置いてください。//\n\n//通達されていないかもしれないサイト-32配属の全職員にとって、SCP-6892は正面にハートの意匠がエンボス加工された銀色の骨壺です。//\n\n//損傷や内容物の溢れを避けるため、SCP-6892とのあらゆる相互接触は最小限に抑えてください。それらを片付けることはできません。//\n\n//このメモを書いている時点では、SCP-6892はBウィングの第3研究室にあります。SCP-6892を移動させないでください。私にはまだ、終えるべき重要な作業が残っています。//\n\n//職員が非実体性や浮遊といった超常的性質を示す人物の目撃を報告した場合でも、心配しないでください。それらはただのSCP-6892-1の特性です。//\n\n//[[span class=\"ruby\"]]O'Hara[[span class=\"rt\"]]オハラ[[/span]][[/span]]管理官と[[span class=\"ruby\"]]Roberts[[span class=\"rt\"]]ロバーツ[[/span]][[/span]]管理官、毎年私の命日に追悼ミサに参加し、祈りを捧げてくれたことを感謝します。今までずっと、お伝えできなかったことです。//\n\n- 上級研究員, [[span class=\"ruby\"]]Lucy Fergurson[[span class=\"rt\"]]ルーシー・ファーガソン[[/span]][[/span]] **†**\n\n[[/div]]\n\n[[footnoteblock]]\n[!-- 脚注をコメント欄の上に表示するために必要な構文です。不要な場合は削除してください。 --]",
+  "tags": [
+    "en",
+    "esoteric-class",
+    "scp",
+    "人間型",
+    "容器",
+    "死体",
+    "知性",
+    "蘇生",
+    "霊体",
+    "非実体"
+  ],
+  "author": "Shishiza man",
+  "created_at": "2021-11-07T11:27:11+00:00",
+  "updated_at": "2024-02-21T12:27:43+00:00",
+  "rating": 31,
+  "_site": "scp-jp",
+  "_fullname": "scp-6892"
+}

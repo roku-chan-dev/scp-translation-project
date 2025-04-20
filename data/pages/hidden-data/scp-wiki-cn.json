@@ -1,0 +1,13 @@
+{
+  "title": "Area-CN-05隐藏资料",
+  "content": "[[module CSS]]\n@import url(http://scpsandboxcn.wikidot.com/jacksmith-css/code/1);\n\n[[/module]]\n[[=]]\n++ 文件访问需要进一步进行核实。\n@@@@\n[[size 150%]][[[Area-05|返回站点资料库密码页]]][[/size]]\n@@@@\n@@@@\n+ __警告：需要四级站点主管批准__\n@@@@\n+++ 你正在尝试查看的文档只对持有3/Area--CN-05权限人员开放。\n+++ 该权限不包含于常规3级安保协议中。\n@@@@\n[[/=]]\n----\n尝试在没有权限查看保密内容将导致**你在基金会担任职位被解除，且你所有的教育、医疗、退休和死亡福利待遇将被取消**。经由上交你的证件，你已经以此被默认为同意暴露于一张已知的安保模因图像下，并且已经进行了预防该图片影响的接种。在未授权的情形下，这一抑制影响将是**不可治愈**的，而安保人员将被派出对你进行复苏，并将你带往拘留室进行审问。若你尝试在未与基金会内网链接的任何电脑上查看该文档，你将被**立即处决**，无论你持有何种权限。\n[[=]]\n+++ 请确认您持有3/Area-CN-05权限，此权限不包含于普通三级通行权限\n[[/=]]\n[[=]]\n[[module ListUsers users=\".\"]]\n欢迎您，尊敬的**%%title%%**，您已获得授权\n存取密码：**水深波浪阔，无使蛟龙得**\n[[/module]]\n[[/=]]\n[[html]]\n<center>\n<head>\n<script language=\"javascript\">\n\nfunction LogIn(){\nloggedin=false;\npassword=\"\";\npassword=prompt(\"密碼：\",\"\");\npassword=password.toLowerCase();\n\n// Add password-->\nif (password==\"水深波浪阔，无使蛟龙得\") {\nloggedin=true;\nwindow.open('/area-cn-05-c');\n}\n\n// If login incorrect -->\nif (loggedin==false) {\nalert(\"密碼錯誤\");\n}\n}\n\n</script>\n\n</head>\n\n<body>\n<form><input type=button value=\"存取Area-CN-05保密资料\" onClick=\"LogIn()\"></form>\n</body>\n[[/html]]",
+  "tags": [
+    "补充材料"
+  ],
+  "author": null,
+  "created_at": "2018-02-22T09:49:35+00:00",
+  "updated_at": "2021-05-23T04:39:00+00:00",
+  "rating": 6,
+  "_site": "scp-wiki-cn",
+  "_fullname": "hidden-data"
+}

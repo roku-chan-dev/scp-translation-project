@@ -1,0 +1,11 @@
+{
+  "title": "SCP-3722-JP",
+  "content": "[[include :scp-wiki-cn:theme:aero-glass]]\n\n[[module CSS]]\n:root {\n    --title: \" SCP財団\";  \n    --subtitle: \" 確保、収容、保護\";  \n    --gray-monochrome: 38, 34, 66;  \n    --dark-gray-monochrome: 29, 26, 56;  \n \n    --bright-accent: 203, 219, 250;\n    --pale-accent: 255, 75, 255;\n    --newpage-color: 238, 212, 255;  \n \n    --background-image: url(http://scp-jp-storage.wikidot.com/local--files/file:9153957-1-9lpm/%E3%82%B8%E3%82%B2%E3%83%B3%E3%83%9C%E3%82%BF%E3%83%AB.jpg);  \n \n    --main-aero-glass-filter: blur(7px) brightness(1);  \n[[/module]]\n\n[[module CSS]]\n@media (max-width: 767px) {\n    #side-bar {\n        left: -25em;\n    }\n}\n[[/module]]\n\n[[include :scp-jp:credit:start]]\n**タイトル:** SCP-3722-JP - ジゲンボタル\n**著者:** [[*user Miyairi]],[[*user rihimarsch]]\n**作成年:** 2024\n[[include :scp-jp:credit:end]]\n\n@@ @@\n\n[[include :scp-jp:component:anomaly-class-bar-source\n|item-number=SCP-3722-JP\n|clearance= 1\n|container-class= safe\n|secondary-class= none\n|secondary-icon=\n|disruption-class= dark\n|risk-class= notice\n]]\n\n**特別収容プロトコル:** 時空間異常に関係するオブジェクトを収容・研究する財団サイト・エリア周辺に存在する清浄な河川への一般人の立ち入りを制限して下さい。また、インターネットを監視し、本種であると容易に特定できる画像を含む全ての記録を検閲して下さい。並行宇宙の財団とは月に一度は連携を取るようにしてください。\n\n**説明:** SCP-3722-JPは並行宇宙/異次元への転移能力を持つゲンジボタル(//Nipponoluciola cruciata//)の近縁種です。しかし、財団職員からは後述する呼称で呼ばれる場合があります。\n\nSCP-3722-JPの発光器はルシフェリン-ルシフェラーゼ反応によってではなく、未知の共生細菌によって発光しています。発光の強さは標準的なゲンジボタルと比較しておよそ2倍です。この発光は常時行なわれており、SCP-3722-JPは発光を抑制する手段を持ちません。そのため、SCP-3722-JPの光の明滅は並行宇宙/異次元への転移を繰り返すことによって行なわれます。\n\n多次元通信部門の調査により、並行宇宙の財団によってもSCP3722-JPは確認されていることが確認できました。加えて、各並行宇宙でのSCP-3722-JPの異常性や収容プロトコルに大きな差異はありませんでした。このことから、当初Euclid指定でしたがSafeへ格下げが行われています。\n\n上述する財団との協議の結果、SCP-3722-JPは一般職員にも見学が許可されます。主な理由として、異常性の低さと職員のストレス軽減が挙げられます。\n申請は[# こちら]から行ってください。\n\n**補遺_6_30_2024:**\n> 概して大群で求愛を行なうのも特徴で、おかげで読書ができるぐらいの明るさになる。あまたの光に囲まれる体験は風流で、幻想的かつ神秘的というほかない。この時期の財団職員にとって、また研究員にとって\"ジゲンボタル\"(//Nipponoluciola dimensiones//)として愛称され、ささやかな癒しになっている。",
+  "tags": [],
+  "author": "rihimarsch",
+  "created_at": "2024-10-30T16:01:19+00:00",
+  "updated_at": "2024-11-03T10:13:48+00:00",
+  "rating": -21,
+  "_site": "scp-jp",
+  "_fullname": "deleted:scp-3722-jp"
+}

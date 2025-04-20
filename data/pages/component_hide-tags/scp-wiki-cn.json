@@ -1,0 +1,13 @@
+{
+  "title": "标签隐藏 组件",
+  "content": "[[module CSS]]\n.page-tags {\n    display: none;\n}\n[[/module]]\n\n[!-- 组件信息 --]\n[[iftags +组件]]\n\n该组件设计为隐藏页面上的标签行。\n\n未经技术团队批准，**不允许**使用此组件。 该组件仅能用于**第一个**迭代页。[[footnote]] **译注：**此组件用于在英文站点解决\"如果一个页面的标签放在迭代文中会给读者造成很大的干扰\" 之问题，见技术内容守则迭代文章一栏。有关在中分使用该组件，请咨询相关职员。[[/footnote]]\n\n[[[Technical Content Policy|]]]有着更多相关信息。\n\n**用法：**\n[[div class=\"code\"]]\n@<[[include :scp-wiki-cn:component:hide-tags]]>@\n[[/div]]\n[[footnoteblock]]\n[[/iftags]]",
+  "tags": [
+    "组件"
+  ],
+  "author": "Zhao Jx",
+  "created_at": "2024-05-07T16:10:51+00:00",
+  "updated_at": "2024-05-07T16:11:02+00:00",
+  "rating": 0,
+  "_site": "scp-wiki-cn",
+  "_fullname": "component:hide-tags"
+}

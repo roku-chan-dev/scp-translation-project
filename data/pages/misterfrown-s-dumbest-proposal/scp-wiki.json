@@ -1,0 +1,17 @@
+{
+  "title": "MisterFrown's Proposal, Supposedly III",
+  "content": "[!--\nFragment pages:\nhttp://scp-wiki.wikidot.com/fragment:misterfrown-s-dumbest-proposal-0\nhttp://scp-wiki.wikidot.com/fragment:misterfrown-s-dumbest-proposal-1\nhttp://scp-wiki.wikidot.com/fragment:misterfrown-s-dumbest-proposal-2\n--]\n\n[[module CSS]]\n\n.info-container{\n--barColour: #336;\n--linkColour: #FFF;\n}\n\n#page-content .info-container .translation_block {\n    display: none;\n}\n#page-content .info-container .collapsible-block-link,\n#page-content .info-container:hover .collapsible-block-link {\n    line-height: 1.6em;\n}\n#page-content .info-container .collapsible-block-folded,\n#page-content .info-container .collapsible-block-unfolded-link {\n    display: grid;\n    background: #336;\n}\n#page-content .info-container .collapsible-block-folded .collapsible-block-link,\n#page-content .info-container .collapsible-block-link {\n    -webkit-mask: unset;\n    mask: unset;\n    background: transparent;\n    grid-column: 1;\n    grid-row: 1;\n    opacity: 0;\n}\n#page-content .info-container .collapsible-block-folded::before,\n#page-content .info-container .collapsible-block-unfolded-link::before {\n    --wght: 800;\n    content: \"MisterFrown\";\n    color: #fff;\n    font-family: Inter, Arimo, Verdana, Geneva, \"Helvetica Neue\", \"Helvetica\", Arial, sans-serif;\n    display: block;\n    pointer-events: none;\n    grid-column: 1;\n    grid-row: 1;\n}\n\n[[/module]]\n\n[[include :scp-wiki:component:info-ayers\n|lang=en\n|page=misterfrown-s-dumbest-proposal\n|authorPage=https://scp-wiki.wikidot.com/misterfrown\n|comments=\n\n= **MisterFrown's Proposal, Supposedly III** - //The Wave That Bends//\n\n]]\n\n[[>]]\n[[module Rate]]\n[[/>]]\n\n[[module ListPages  category=\"fragment\" parent=\".\" limit=\"1\" order=\"name\" offset=\"@URL|0\"]]\n%%content%%\n[[/module]]",
+  "tags": [
+    "_cc",
+    "_listpages",
+    "_shark-punching-center",
+    "goi-format",
+    "shark-punching-center"
+  ],
+  "author": "MisterFrown",
+  "created_at": "2024-03-28T22:41:06+00:00",
+  "updated_at": "2024-04-25T23:27:09+00:00",
+  "rating": 43,
+  "_site": "scp-wiki",
+  "_fullname": "misterfrown-s-dumbest-proposal"
+}

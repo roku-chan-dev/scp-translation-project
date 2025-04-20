@@ -1,0 +1,20 @@
+{
+  "title": "SCP-CN-2613",
+  "content": "[[module CSS]]\n#page-title {\n  display: none;\n}\n\n.meta-title {\n  border-bottom: solid 1px #bbbbbb;\n  color: #990011;\n  font-weight: normal;\n  margin: 0 0 0.6em;\n  padding: 0 0 0.25em;\n  font-size: 200%;\n}\n\n.meta-title p {\n  margin: 0;\n}\n[[/module]]\n[[module ListPages category=\"fragment\" parent=\".\" limit=\"1\" order=\"name\" offset=\"@URL|0\"]]\n[[div class=\"meta-title\"]]\n%%title%%\n[[/div]]\n[[/module]]\n[[>]]\n[[module Rate]]\n[[/>]]\n[[module ListPages category=\"fragment\" parent=\".\" limit=\"1\" order=\"name\" offset=\"@URL|0\"]]\n\n%%content%%\n[[/module]]\n\n[!--\n需要时编辑以下页面\n01迭代http://scp-wiki-cn.wikidot.com/fragment:scp-cn-2613-01\n02迭代http://scp-wiki-cn.wikidot.com/fragment:scp-cn-2613-02\n03迭代http://scp-wiki-cn.wikidot.com/fragment:scp-cn-2613-03\n--]",
+  "tags": [
+    "2023新人竞赛",
+    "keter",
+    "scp",
+    "原创",
+    "地点",
+    "建筑",
+    "现实扭曲",
+    "门径"
+  ],
+  "author": "ArmourSkeleton",
+  "created_at": "2023-07-24T15:44:47+00:00",
+  "updated_at": "2024-04-06T10:30:45+00:00",
+  "rating": 8,
+  "_site": "scp-wiki-cn",
+  "_fullname": "scp-cn-2613"
+}

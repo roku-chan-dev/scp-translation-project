@@ -1,0 +1,14 @@
+{
+  "title": "Alexander's Jar",
+  "content": "[[include :scp-wiki:theme:paperstack]]\n[[div class=\"logo\"]]\n[[image https://scp-wiki.wdfiles.com/local--files/theme%3Apaperstack/lgtrans.png]]\n[[/div]]\n\n[[>]]\n[[module Rate]]\n[[/>]]\n\n+ Alexander's Author Page\n\n------\n\n@@ @@\n\n[[tabview]]\n\n[[tab Main Page]]\n\n[[include :scp-wiki:component:mega-cool-author-page-tool |inc-list= --]\n|order= created_at desc\n|perpage=\n|background-image= http://scpsandboxcn.wdfiles.com/local--files/asriel3/logo.png\n|shadow=\n]]\n\n[[/tab]]\n\n[[tab Personnel File]]\n\n**Full Name:** Alexander [DATA NOT FOUND][[footnote]]Personnel's name is subject to a nomenclative hazard.[[/footnote]]\n\n**Personnel ID Number:** B-1998626\n\n**Security Clearance Level:** 3\n\n**Pronouns:** Any\n\n**DOB:** 19██/██/██\n\n**Nationality:** Nation of birth unknown,[[footnote]]Presumed to be European.[[/footnote]] raised in the United States\n\n**Positions Held:** Anomaly Evaluator, Containment Specialist, Parapsychologist, Researcher\n\n**Anomalous Designation:** Type-Blue Anomalous Humanoid\n\n**Anomalous Capabilities:** \"Self-Taught\" Flesh-crafter (Minor Carnomancy), enhanced cognitive perception, bonded to anomalous object (SCP-████)\n\n**Medical Notes:**\n* Acute Retrograde Amnesia[[footnote]]See personnel history for further details. [[/footnote]]\n* Attention Deficit Hyperactivity Disorder (moderate)\n* Autism Spectrum Disorder (mild)\n* Exceptionally high Cognitive Resistance Value (26.6)\n* Sensory Processing Disorder (severe)\n\n**History:**\n\n[[/tab]]\n\n[[tab Other Things]]\n\nStuff will go here later\n\n[[/tab]]\n\n[[/tabview]]",
+  "tags": [
+    "_cc",
+    "author"
+  ],
+  "author": "Alexander the Jar",
+  "created_at": "2022-09-14T18:37:31+00:00",
+  "updated_at": "2023-01-16T04:03:08+00:00",
+  "rating": 10,
+  "_site": "scp-wiki",
+  "_fullname": "alexander-s-jar"
+}

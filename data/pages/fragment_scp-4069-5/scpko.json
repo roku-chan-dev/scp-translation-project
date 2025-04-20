@@ -1,0 +1,14 @@
+{
+  "title": "SCP-4069-5",
+  "content": "[[module css]]\n#page-title {\n  display: none;\n}\n[[/module]]\n\n[[div style=\"background-color: #600; border: solid 1px #600; border-radius: 20px; color: #fff; width: 450px; margin: 0 auto; font-size: 100%; text-align: center; box-shadow: 0 2px 6px rgba(0,0,0,.5), inset 0 1px rgba(255,255,255,.5), inset 0 10px rgba(255,204,204,.5), inset 0 10px 20px rgba(255,204,204,.3), inset 0 -15px 30px rgba(48,0,0,.5); line-height: 100%; padding: 0 7px;\"]]\n이 페이지에는 두 명의 활성 편집자가 있습니다.\n[[/div]]\n\n------\n\n[[=]]\n**,,[/scp-4069/offset/5 페이지 새로고침],,**\n[[/=]]",
+  "tags": [
+    "en",
+    "조각문서"
+  ],
+  "author": "Cubic72",
+  "created_at": "2019-07-03T15:35:10+00:00",
+  "updated_at": "2021-08-09T03:32:46+00:00",
+  "rating": 0,
+  "_site": "scpko",
+  "_fullname": "fragment:scp-4069-5"
+}

@@ -1,0 +1,22 @@
+{
+  "title": "SCP-2413",
+  "content": "[[include :scp-jp:theme:black-highlighter-theme]]\n[[module CSS]]\nsup { \nvertical-align: top; position: relative; top: -0.5em; \n}\n:root{ \n--cutColour: #fafafa;\n--barColour: #590505;\n}\n\n.info-container .collapsible-block-folded a{\ncolor: #FFF;}\n.info-container .collapsible-block-unfolded-link a{\ncolor: #FFF;}\n\n.translation_block{\ndisplay:none;}\n[[/module]]\n[[module css]]\n#side-bar {\n    background: rgb(var(--white-monochrome));\n}\n\n#side-bar div.menu-item a, #side-bar div.menu-item .text {\n    color: rgb(var(--black-monochrome));\n}\n\n#side-bar>div:nth-child(5) {\n    background-color: rgba(var(--dark-accent),0.25)!important;\n}\n[[/module]]\n\n[[>]]\n[[module Rate]]\n[[/>]]\n\n**警告: SCP-2413のドキュメントへのアクセスは、幻聴を引き起こします。あなたが誤ってこのファイルに到達し、このオブジェクトについての更なる情報を望まない場合は、直ちに文書を閉じ、あなたの直属の上司に報告してください。**\n\n**このファイルは、音声を発生することができないシステムを使用している如何なるユーザーからもアクセスされるべきではありません。オブジェクトの性質である認識災害と、無関係な人間への暴露の危険性から、ヘッドホンを使用することが推奨されています。**\n\n**現在、このドキュメントへのアクセスは権限を与えられたワークステーションのみに制限されていますが、それらが故障した場合、携帯機器によるこのファイルへのアクセスは、セキュリティレベルに関係なく禁止されます。**\n\n[[collapsible show=\" + SCP-2413文書を閲覧する\" hide=\" \"]]\n\n**アイテム番号:** SCP-2413\n\n**オブジェクトクラス:** Safe\n\n**特別収容プロトコル:** SCP-2413は、この文書内に収容されています。いかなる場合においても、これらのこの文書は削除、変更されません。このファイルの最後にある認識災害除染処置は、いかなるアクセスユーザーによっても実行されなければいけません。この指示を怠った場合、クラス3(認識災害性)収容違反とみなされます。\n\n**説明:** SCP-2413は、SCP-2413の存在を認識しており、かつSCP-2413の認識災害除染処置を行なっていない人物(SCP-2413-1実例と呼称)に影響を及ぼす実体です。影響を受けた人物は、1-5分間、汚染された人物の近くにあるオーディオ機器を発生源とする幻聴にさらされます。\n\nこれらの幻聴は、オーディオ機器がない場合でも発生しますが、この場合、発生した全事例のうち、およそ半分がSCP-2413-1実例に対して有害な影響を及ぼし、この事例への実験は、職員の喪失により、中止されています。\n\nSCP-2413-1実例は、当初の幻聴の終了後、創造的な作品に対して次第に批判的な行動を示すようになります(SCP-2413の影響の第2フェーズとして知られています)。この行動は段階的に厳格化し始め、SCP-2413-1実例はいかなる創造的な作品も楽しむことができなくなります。SCP-2413-1実例は、文書化された作品の批評に対し優先的な傾向を示しますが、文字を読むことができない人物は、批評を他の作品へと移します。\n\n視覚、味覚、嗅覚を欠如している人物は、殆どが影響の第2フェーズまで進行しますが、この激化に対して抵抗を示しました唯一の例外は、聴覚障害者であり、完全には耳の聞こえない人物が、SCP-2413影響のいかなる兆候も示さないことが知られています。\n\n暴露から約90分後、SCP-2413-1実例はこの文書内で禁止された方法で除染されなくなります。106分が経過したSCP-2413影響は、いかなる手段でも元に戻らないことが判明しました。\n\n**除染処置:**\n\n[[html]]\n<html>\n<head>\n<script type=\"text/javascript\">\nfunction setVar()\n{\n    if (sessionStorage.read != 1)\n    {\n        sessionStorage.setItem('read', 1);\n    }\n}\n</script>\n</head>\n<body onLoad=\"setVar();\">\n</body>\n</html>\n\n<audio autoplay>\n  <source src=\"http://www.scp-wiki.net/local--files/scp-2413/thecritic.mp3\" type=\"audio/mpeg\">\n</audio>\n\n[[/html]]\n[[[decontamination-document-0094 | 手順を進めるため、ドキュメント-0094にアクセスしてください。]]]\n[[/collapsible]]",
+  "tags": [
+    "en",
+    "safe",
+    "scp",
+    "メタ",
+    "幻覚",
+    "感覚",
+    "精神影響",
+    "聴覚",
+    "認識災害",
+    "音声添付"
+  ],
+  "author": "momiji_CoC",
+  "created_at": "2019-11-02T15:37:42+00:00",
+  "updated_at": "2021-07-04T21:00:57+00:00",
+  "rating": 5,
+  "_site": "scp-jp",
+  "_fullname": "scp-2413"
+}

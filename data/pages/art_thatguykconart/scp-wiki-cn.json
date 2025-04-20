@@ -1,0 +1,13 @@
+{
+  "title": "整千们 - 一张整千竞赛艺作",
+  "content": "[[include :scp-wiki-cn:component:author-label-source start=--\n|name=ThatGuyThatTime\n|center=*]]\n\n= //祝贺你，弔人！//\n\n------\n\n= 一张艺作，用以庆祝最近发生的那场竞赛，还有在那之前的所有整千竞赛！\n= [https://scp-wiki.wikidot.com/thatauthorpagethattime ThatGuy的更多作品]\n[[include :scp-wiki-cn:component:author-label-source end=--]]\n\n[[include :scp-wiki:theme:black-highlighter-theme]]\n[[include :scp-wiki:component:centered-header-bhl]]\n[[module CSS]]\n:root {\n     --header-title: \"整千们\";\n     --header-subtitle: \"传奇之地\";\n    --bright-accent: 140, 199, 245;\n    --medium-accent: 140, 199, 245;\n    --dark-accent: 140, 199, 245;\n     --link-color: 140, 199, 245;\n     --visited-link-color: 176, 216, 247;\n     --hover-link-color: 176, 216, 247;\n}\n[[/module]]\n[[=]]\n//大脚怪。黄石。阿难陀舍沙。**##green|无名之森##**。一个疑问。图书馆。大冤种。//\n\n//所有这些故事都定义了各自的时代，在众多才华横溢的作者之中脱颖而出，也都在本维基中留下了属于自己的影响。那里曾有7位，而现在，我们迎来了第8位。//\n\n//这就是整千们。//\n[[/=]]\n\n[[=image https://scp-wiki.wdfiles.com/local--files/art:thatguykconart/kcondraft.png]]\n\n[[=]]\n\n//欢迎PlaguePJP来到传奇的殿堂！//\n\n//图为所有传奇的整千竞赛的获胜者们，亦即[[*user thedeadlymoose]]所著[[[SCP-1000]]]，[[*user HammerMaiden]]所著[[[SCP-2000]]]，[[*user DJKaktus]]、[[*user Joreth]]与[[*user A Random Day]]所著[[[SCP-3000]]]，[[*user Peppersghost]]所著[[[/taboo|SCP-4000]]]，[[*user Tanhony]]所著[[[SCP-5000]]]，[[*user Rounderhouse]]所著[[[SCP-6000]]]，[[*user HarryBlank]]所著[[[SCP-7000]]]，以及最后一位……//\n\n//独一无二的**[[*user PlaguePJP]]**所著[[[SCP-8000]]]。//\n[[/=]]\n------\n@@ @@\n@@ @@\n[[include :scp-wiki-cn:component:license-box\n| author = ThatGuyThatTime\n]]\n> **文件名：**kcondraft.png\n> **图像作者：**[[*user ThatGuyThatTime]]\n> **授权协议：**CC-BY-SA 4.0\n> **附加信息：**原作者自制的艺术作品。\n[[include :scp-wiki-cn:component:license-box-end]]",
+  "tags": [
+    "艺术作品"
+  ],
+  "author": "LeeBr",
+  "created_at": "2024-03-13T18:54:37+00:00",
+  "updated_at": "2024-03-13T18:54:48+00:00",
+  "rating": 4,
+  "_site": "scp-wiki-cn",
+  "_fullname": "art:thatguykconart"
+}

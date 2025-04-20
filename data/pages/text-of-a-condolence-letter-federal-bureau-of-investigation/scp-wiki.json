@@ -1,0 +1,20 @@
+{
+  "title": "Text of a Condolence Letter - Federal Bureau of Investigation, Unusual Incidents Unit",
+  "content": "[[>]]\n[[module Rate]]\n[[/>]]\n\n> [INSERT OFFICIAL FBI LETTERHEAD HERE]\n> \n> //Federal Bureau of Investigation//\n> //United States Department of Justice//\n> //Washington, DC.//\n> [DATE]\n>  \n> Dear [RECIPIENT],\n> \n> I am writing to you today to express my great sorrow for the loss of your [RELATION], [DECEASED]. [DECEASED] was killed honorably in the line of duty on [DATE], while attempting to save the life of an innocent held hostage by an unknown attacker. The loss of an officer is always a great tragedy, but it is especially hard when an officer was as close to us as your [RELATION]. [ENTER SOME WORDS OF PRAISE HERE].\n> \n> I know you must be overwhelmed with letters of condolence, and the pressure of making arrangements must be terrible, so please do not feel obligated to respond. However, if there is anything I can do to help you, it would be a great honor to assist the [RELATION TO DECEASED] of one of the Federal Bureau of Investigation's finest officers. \n> \n> Sincerely yours,\n> \n> Charles Ogden Geirs\n> Assistant Director, Federal Bureau of Investigation\n> Unusual Incidents Unit\n\n//Jack - Please don't repeat the mistake your predecessor made last time and send this without filling out the fields first. The last thing I need is six grieving widows throwing a fit because they got a form letter from their dead husband's boss.//\n\n//- Cog//\n[[include :scp-wiki:component:license-box]]\n[[include :scp-wiki:component:license-box-end]]",
+  "tags": [
+    "_licensebox",
+    "bureaucracy",
+    "doctor-gears",
+    "nyc2013",
+    "tale",
+    "unfounded",
+    "unusual-incidents-unit",
+    "worldbuilding"
+  ],
+  "author": "DrClef",
+  "created_at": "2013-01-30T18:31:15+00:00",
+  "updated_at": "2024-10-01T18:47:00+00:00",
+  "rating": 169,
+  "_site": "scp-wiki",
+  "_fullname": "text-of-a-condolence-letter-federal-bureau-of-investigation"
+}

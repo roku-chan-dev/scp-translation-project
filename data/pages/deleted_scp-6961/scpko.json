@@ -1,0 +1,21 @@
+{
+  "title": "SCP-6961-DEL",
+  "content": "[[include :scpko:theme:classic]]\n[[include :scpko:theme:flopstyle]]\n[[include :scpko:component:centered-header-sigma-9]]\n\n[[module CSS]]\n :root{\n   --header-title: \"SCP 재단\";\n   --header-subtitle: \"전술신학부\";\n   --lgurl: url(https://scp-wiki.wdfiles.com/local--files/theme%3Aad-abyssum/Department%20of%20Tactical%20Theology%20Inverted%20Transparent.png);\n}\n.footnotes-footer {\n    visibility: hidden;\n    height: 0;\n    padding: 0;\n    margin: 0;\n}\n[[/module]]\n\n[[include info:start]]\n**SCP-6961** - Hate the Message, Not the Messenger\n**저자:** [[*user NDHeckfire]]\n**원작:** http://scp-wiki.wikidot.com/scp-6961\n**역자:** [[*user TimidChild]]\n[[include info:end]]\n[[include :scp-wiki:component:author-label-source start=--\n|name=NDHeckfire]]\n**SCP-6961** - Hate the Message, Not the Messenger\n\n//[[*user DrClef]]의 [[[dr-clef-s-proposal|SCP-001]]]에서 영감을 받음//\n\n[[[https://scp-wiki.wikidot.com/ndheckfire|More by me!]]]\n[[include :scp-wiki:component:author-label-source end=--]]\n\n\n**일련번호:** SCP-6961\n\n**등급:** 현상(Phenomenon)\n\n**특수 격리 절차:** SCP-6961을 목격한 민간인에게는 표준 A급 기억소거제를 투여한다. SCP-6961에 관련된 모든 영상/음성 증거는 재단 웹 크롤러 EGGSHAFT.aic가 추적 및 삭제한다.\n\n**설명:** SCP-6961은 2018년 5월 5일 갑자기 발생한 변칙 사건을 지칭한다. 이 날, 이탈리아 로마 내 바티칸 시국 200m 상공에 커다란 날개를 지닌 인간형 독립체가 돌연히 출현하였다.\n\n이 사건 동안, 독립체(이후 SCP-6961-A로 지칭)는 몇 초간 영어로 밑에 있던 사람들에게 큰 소리로 말을 한 후, 바티칸에서 완전히 사라졌다. 다음은 사건 녹취록으로, 한 민간인의 휴대전화로 처음 촬영되었다.\n\n[[div class=\"blockquote\"]]\n\n= **<기록 시작>**\n\n//카메라가 위로 하늘을 향하여, 시국의 여러 돔형 구조물과 조각된 건축물을 화면에 잡는다.//\n\n//갑자기 생겨난 섬광이 카메라 렌즈 시야를 가리고, 영상 촬영자는 살짝 휘청거린다. 빛이 사그라들자, SCP-6961-A가 하늘에 떠서 호소하는 의미로 머리를 숙인 모습이 보인다.//\n\n//독립체가 머리를 들어 아래의 사람들을 향하고는 말을 하",
+  "tags": [
+    "en",
+    "scp",
+    "난해한-등급",
+    "변칙-사건",
+    "삭제",
+    "인간형",
+    "전술신학부",
+    "종교",
+    "지성"
+  ],
+  "author": "TimidChild",
+  "created_at": "2023-07-22T07:20:44+00:00",
+  "updated_at": "2025-01-09T09:59:53+00:00",
+  "rating": 19,
+  "_site": "scpko",
+  "_fullname": "deleted:scp-6961"
+}

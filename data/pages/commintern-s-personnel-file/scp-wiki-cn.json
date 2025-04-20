@@ -1,0 +1,13 @@
+{
+  "title": "commintern的人事档案",
+  "content": "[!--\n[[include component:author-page\n  order=created_at |\n  translation=yes |\n]]\n--]\n\n[[tabview]]\n[[tab 翻译]]\n+ 翻译作品\n\n++ SCP \n* [[[scp-1997 |SCP-1997]]]\n* [[[scp-3457 |SCP-3457]]]\n* [[[scp-3009 |SCP-3009]]]\n\n++ 中心页\n* [[[doomsday-contest |末日竞赛]]]\n* [[[history-contest |2017历史竞赛]]]\n* [[[the-great-short-story-contest-archives |杰出短篇小说比赛档案]]]\n* [[[new-years-contest |GoI竞赛]]]\n\n+ 校对\n\n* [[[wmdd-s-proposal |WMDD的提案]]]\n[[/tab]]\n[[tab 有用链接]]\n+ 有用链接\n\n* [http://www.scpper.com/ SCPper]\n* [http://juxiangchenai.lofter.com/post/1f751f63_ef251cc1 Lofter]\n* [http://snippets.wikidot.com/ Snippets]\n* [http://www.scp-wiki.net/listpages-magic-and-you List Pages]\n* [http://scp-wiki-cn.wikidot.com/module-guide List pages and modules in CN site]\n* [http://www.scp-wiki.net/mackenzie-glossary Glossary]\n * [http://kontainer.djkakt.us/peppermill-yes Glossary 2018] \n* [http://scp-wiki-cn.wikidot.com/list-of-foundation-s-internal-departments Logos of the SCP departments]\n* [http://scp-wiki-cn.wikidot.com/a-brief-explanation-on-demonics Demonics]\n* [http://www.scp-wiki.net/forum/t-225525 K scenarios]\n * [http://scpsandbox2.wikidot.com/k-class-scenarios A better K scenario file]\n * [http://scp-wiki-cn.wikidot.com/k-class-scene-orientation 简报：K级情景的分类与描述]\n* [https://www.reddit.com/r/SCP/comments/6jcemh/master_list_of_nonstandard_object_classes/ Master list of non-standard object classes]\n* [http://scp-wiki-cn.wikidot.com/asriel-s-tools tools]\n* [http://scp-wiki-cn.wikidot.com/author-page-tool-guide author page]\n* [http://scpsandboxcn.wikidot.com/awg 争议翻译名词索引]\n\n\n\n[[/tab]]\n[[/tabview]]",
+  "tags": [
+    "作者"
+  ],
+  "author": "commintern",
+  "created_at": "2018-10-28T22:34:07+00:00",
+  "updated_at": "2018-11-09T22:22:14+00:00",
+  "rating": 7,
+  "_site": "scp-wiki-cn",
+  "_fullname": "commintern-s-personnel-file"
+}

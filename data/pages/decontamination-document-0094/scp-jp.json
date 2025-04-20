@@ -1,0 +1,15 @@
+{
+  "title": "SCP 2413 - 除染ドキュメント",
+  "content": "[[include :scp-jp:theme:black-highlighter-theme]]\n[[module CSS]]\nsup { \nvertical-align: top; position: relative; top: -0.5em; \n}\n:root{ \n--cutColour: #fafafa;\n--barColour: #590505;\n}\n\n.info-container .collapsible-block-folded a{\ncolor: #FFF;}\n.info-container .collapsible-block-unfolded-link a{\ncolor: #FFF;}\n\n.translation_block{\ndisplay:none;}\n[[/module]]\n[[module css]]\n#side-bar {\n    background: rgb(var(--white-monochrome));\n}\n\n#side-bar div.menu-item a, #side-bar div.menu-item .text {\n    color: rgb(var(--black-monochrome));\n}\n\n#side-bar>div:nth-child(5) {\n    background-color: rgba(var(--dark-accent),0.25)!important;\n}\n[[/module]]\n\n\n[[>]]\n[[module Rate]]\n[[/>]]\n\n++ 下の画像を、幻聴が停止するまで閲覧してください。\n\n[[=image http://www.scp-wiki.net/local--files/decontamination-document-0094/Apophysis-100303-104.jpg style=\"width: 99%; border: solid 1px #000000; padding: 1px\"]]\n\n@@@@\n@@@@\n@@@@\n@@@@\n@@@@\n@@@@\n@@@@\n@@@@\n\n**認識災害封じ込め処置を完了してくださり、ありがとうございました。後日、SCP-2413文書にアクセスする場合、このプロセスを再び完了しなければなりません。**\n\n[[html]]\n<audio autoplay>\n  <source src=\"http://www.scp-wiki.net/local--files/decontamination-document-0094/newbackandforth.mp3\" type=\"audio/mpeg\">\n</audio>\n\n<html>\n<head>\n<script type=\"text/javascript\">\n\nfunction checkRedirect()\n{\n    if (parseInt(sessionStorage.read) != 1)\n    {\n        window.top.location = \"http://ja.scp-wiki.net/scp-2413\";\n    }\n}\n</script>\n</head>\n<body onLoad=\"checkRedirect();\">\n</body>\n</html>\n[[/html]]",
+  "tags": [
+    "en",
+    "補足",
+    "音声添付"
+  ],
+  "author": "momiji_CoC",
+  "created_at": "2019-11-02T15:41:05+00:00",
+  "updated_at": "2021-07-04T21:00:58+00:00",
+  "rating": 2,
+  "_site": "scp-jp",
+  "_fullname": "decontamination-document-0094"
+}

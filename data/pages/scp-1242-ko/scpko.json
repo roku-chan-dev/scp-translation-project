@@ -1,0 +1,21 @@
+{
+  "title": "SCP-1242-KO",
+  "content": "[[include :scpko:info:start]]\n**제목:** SCP-1242-KO---J-- / 꼬아라 꼽아라 진정 아니꼬운지고\n\n**저자:** [[*user oratio]]\n\n**작가 페이지:**\n\n> = [/run-night-run oratio]\n\n> Cuiusvis hominis est errare; nullius nisi insipientis perseverare in errore.\n\n> 우리는 우리의 죄를 안고 나아가리\n\n**조각문서:**\nhttp://scpko.wikidot.com/fragment:1242-ko-j\nhttp://scpko.wikidot.com/fragment:e-1242-ko-aszwei\nhttp://scpko.wikidot.com/fragment:1242-ko\n\n**이미지 출처:** [[*user M4sked]]님이 그려주셨습니다!\n[[include :scpko:info:end]]\n\n[[module CSS]]\n#page-title {\n  display: none;\n}\n\n.fragment-title {\n  border-bottom: 1px solid #bbb;\n  margin: -30px 0 0px 0;\n}\n\n.fragment-title p {\n  line-height: 0;\n  font-size: 200%;\n  padding-top: 20px;\n}\n\n@media (max-width: 479px) {\n  .fragment-title p {\n    font-size: 2.2em;\n    padding-top: 43px;\n  }\n}\n[[/module]]\n\n[[module ListPages parent=\".\" category=\"fragment\" limit=\"1\" order=\"created_at\" offset=\"@URL|0\"]]\n[[div class=\"fragment-title\"]]\n%%title%%\n[[/div]]\n\n%%content%%\n[[/module]]",
+  "tags": [
+    "2023-절대평가",
+    "ko",
+    "scp",
+    "게임",
+    "서술",
+    "인간형",
+    "지성",
+    "케테르",
+    "형이초학부"
+  ],
+  "author": "oratio",
+  "created_at": "2023-06-16T09:49:19+00:00",
+  "updated_at": "2023-12-06T10:51:12+00:00",
+  "rating": 20,
+  "_site": "scpko",
+  "_fullname": "scp-1242-ko"
+}

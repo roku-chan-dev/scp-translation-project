@@ -1,0 +1,14 @@
+{
+  "title": "有知觉的超级恶棍禁行路标",
+  "content": "[[include :scp-wiki-cn:theme:black-highlighter-theme]]\n[[include :scp-wiki-cn:theme:jakstyle]]\n\n[[module CSS]]\n:root:lang(cn) {\n--header-title: \"2023重混竞赛\";\n--header-subtitle: \"重混，重混，再重混\";\n--lgurl: url(https://scp-wiki.wdfiles.com/local--files/component:pride-highlighter/tg_logo.svg);\n}\n[[/module]]\n\n[[=image http://scp-wiki.wikidot.com/local--files/art:sentient-supervillain-stop-sign/SynthRemix2023]]\n\n[[=]]\n[[size 200%]][[[synthpanda|SynthPanda_的更多作品]]][[/size]]\n\n[[include :scp-wiki-cn:component:license-box\n|author=SynthPanda_\n|translator=xiasheng01\n]]\n[[<]]\n=====\n> **文件名：**SynthRemix2023.png\n> **图像作者：**[[*user SynthPanda_]]\n> **授权协议：**CC BY-SA 3.0\n> **来源链接：** https://imgur.com/a/Ty4unyI\n=====\n[[/<]]\n[[include :scp-wiki-cn:component:license-box-end]]\n[[/=]]",
+  "tags": [
+    "2023重混竞赛",
+    "艺术作品"
+  ],
+  "author": "xiasheng01",
+  "created_at": "2023-10-03T10:49:11+00:00",
+  "updated_at": "2023-10-03T11:19:40+00:00",
+  "rating": 4,
+  "_site": "scp-wiki-cn",
+  "_fullname": "art:sentient-supervillain-stop-sign"
+}

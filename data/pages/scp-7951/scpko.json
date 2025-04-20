@@ -1,0 +1,20 @@
+{
+  "title": "SCP-7951",
+  "content": "[[include info:start]]\n**SCP-7951:** 이제 네가 운전할 차례다\n**원작:** https://scp-wiki.wikidot.com/scp-7951\n**저자:** [[*user IndustryStandard]], [[*user PoufyPoufson]]\n**역자:** [[*user fluxman]]\n**이미지 제작자:** [[*user JackalRelated]]\n\n> **파일명:** telado.png\n> **저작권자:** [[*user jackalrelated]]\n> **라이선스:** CC BY-SA 3.0\n> **출처:** [https://scp-wiki.wikidot.com/scp-7951 SCP Foundation Wiki]\n[[include info:end]]\n\n**일련번호:** 7951\n\n**등급:** 안전\n[[include component:image-block\n| name=https://scp-wiki.wdfiles.com/local--files/scp-7951/telado.png\n| caption=SCP-7951-1 와 SCP-7951-2\n| width=300px\n]]\n**특수 격리 절차:** 폴 존스 연구원은 SCP-7951 발현 가능성을 항상 주시하여야 한다. 정상성 유지를 위하여, 존스는 로맨틱한 상황, 가족 저녁 식사, 그리고 3-7인 정도의 적당한 규모 사회 모임 시 특히 조심하여야 한다. \n\n**설명:** SCP-7951은 폴 존스 연구원의 자택에 커피 머그잔 두 개가 저절로 나타나는 현상을 지칭한다.\n\nSCP-7951-1은 평범하게 생긴 자기 머그잔으로, 23도 이하의 홍차가 담겨 있다. SCP-7951-1을 인지한 대상들은 컵에 담긴 액체가 \"내가 원하는 대로 만든 차가 아니다\"라고 생각하게 되며, 해당 음료를 마실 때 \"너무 차갑다\"는 점을 위시한 정성적이고 주관적인 평가를 하게 된다. 예외로, 폴 존스 연구원은 컵에 담긴 음료가 \"딱 좋다\"라고 평가한다.\n\nSCP-7951-2는 비어 있다.\n\n**발견:** SCP-7951은 폴 존스 연구원의 자택에서 2023년 10월 15일 유산 상속 절차가 끝난 지 얼마 안 지나 발견되었다. 이에 관해 물어봤을 때, 존스는 \"방이 내가 놔둔 그대로였다\"라고 답했다.",
+  "tags": [
+    "en",
+    "scp",
+    "공저",
+    "안전",
+    "액체",
+    "열",
+    "외부엔트로피",
+    "인공물"
+  ],
+  "author": "fluxman",
+  "created_at": "2023-12-21T07:21:39+00:00",
+  "updated_at": "2025-02-22T13:21:19+00:00",
+  "rating": 4,
+  "_site": "scpko",
+  "_fullname": "scp-7951"
+}

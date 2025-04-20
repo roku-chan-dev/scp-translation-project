@@ -1,0 +1,14 @@
+{
+  "title": "fragment:scp-1100-ko-0",
+  "content": "[[include :scpko:theme:basalt hidetitle=a|\ndarkmode=a]]\n\n[[include :scp-wiki:component:customizable-acs\n|containment-class= 케테르\n|containment-image= https://scp-wiki.wdfiles.com/local--files/component%3Aanomaly-class-bar/keter-icon.svg\n|containment-color= 196,2,51\n|inc-esoteric-layout = --]]]\n\n[[div class=\"anom-bar-esoteric\"]]\n\n[[include :scpko:component:anomaly-class-bar-source\n|item-number= 1100-KO\n|clearance= 1\n|container-class= 케테르\n|secondary-class= 비격리-에파르크\n|secondary-icon= https://scp-wiki.wikidot.com/local--files/component:anomaly-class-bar/uncontained-icon.svg\n|disruption-class= 암흑\n|risk-class= 주목\n]]\n\n[[/div]]\n\n-----\n\n**특수 격리 절차:** 재단 인원은 사적인 목적으로, 적절한 허가 없이 무한 원숭이 정리(이하 SCP-1100-KO라고 칭함)를 이용한 프로그램 혹은 장치를 사용하여서는 아니 되며, 재단 외 주변인들이 SCP-1100-KO를 사용하고자 하는 것을 발견할 경우 이를 만류하는 것이 권장된다. 다만 이 경우 당사자가 납득할 수 있는 적절한 이유를 들어야 하며, SCP-1100-KO의 격리 절차의 존재나 개체로 인한 위험 사태의 발생 가능성 등 장막 정책에 위배되는 내용을 근거로 들어서는 아니 된다. 재단 외 조직에서 SCP-1100-KO를 사용하는 것을 막기 위하여도 마찬가지로 당사자가 납득할 수 있으며 본 문서의 존재와 외부에 공개되지 않은 내용을 포함하지 않는 이유를 들어 설득해야만 한다.\n\n**설명:** SCP-1100-KO는 민간에 알려진 무한 원숭이 정리이며, 그 자체는 어떠한 변칙성도 가지고 있지 않고, 본 문서에 기재된 어떤 내용도 민간에 알려진 내용과 다르지 않다. 그러나 SCP-1100-KO가 민간에서 제한 없이 사용됨으로 인해 발생할 수 있는 잠재적 위험성으로 인하여 위의 절차가 수립되었다.\n\n[http://scpko.wikidot.com/scp-1100-ko/offset/1 추가적인 정보는 현 보안 등급에 제한되어 있다.]",
+  "tags": [
+    "ko",
+    "조각문서"
+  ],
+  "author": "SSRI",
+  "created_at": "2022-11-19T14:55:11+00:00",
+  "updated_at": "2023-01-01T14:24:01+00:00",
+  "rating": 0,
+  "_site": "scpko",
+  "_fullname": "fragment:scp-1100-ko-0"
+}

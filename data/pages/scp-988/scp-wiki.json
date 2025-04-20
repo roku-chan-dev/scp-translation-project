@@ -1,0 +1,19 @@
+{
+  "title": "SCP-988",
+  "content": "[[>]]\n[[module Rate]]\n[[/>]]\n\n[[include component:image-block name=WoodenChest.jpg|caption=SCP-988]]\n\n\n**Item #:** SCP-988\n\n**Object Class:** Safe\n\n**Special Containment Procedures:** SCP-988 is to be housed in a locked, unilluminated cell with no observation windows. It is to be kept in a latched state and secured with a padlock whose key is to be stored at a separate facility.\n\nNo experiments of any kind are to be performed on SCP-988.\n\n**Description:** SCP-988 is an unopenable wooden chest.\n\nSCP-988 is composed of oak with iron fittings and measures approximately 1.5 m x 0.5 m x 0.75 m. While SCP-988 possesses a latch, it did not possess a lock when discovered. The latch moves freely when not secured, and gentle manipulation of the lid has revealed it to move freely on its hinges.\n\nWhen SCP-988 is lifted and tilted an object can be felt to shift within. This object is seemingly irregular in shape and is estimated to have a mass of approximately 3 kilograms.\n\nDespite the lack of any apparent obstacle, SCP-988 cannot be opened. All attempts fail due to the intervention of external circumstances. In the 53 documented attempts at opening SCP-988 directly by hand, persons have been observed to become lost on their way to its current location, suffer injury preventing them from reaching it, and in 9 cases have died spontaneously of apparently natural causes just before completing the action.\n\nThe 7 documented attempts at opening SCP-988 via machine or other indirect mechanism have been stopped respectively by electrical shorts, mechanical jams, and in one case the mislabeling of a bottle of epoxy as lubricant. The \"unopenable\" property appears to extend to indirect methods of scanning SCP-988's contents. All attempts at sonographic, electromagnetic, and passive imaging of emissions outside of the visual spectrum have failed due to similar circumstances.\n\nComparison of the results of attempts to open SCP-988 with actuarial tables have demonstrated that outcomes correspond to normal probability, with the single exception that the possibility of the object being opened has been entirely removed. The mechanism by which SCP-988 prevents itself from being opened is currently unknown.\n\n[[footnoteblock]]\n\n[[div class=\"footer-wikiwalk-nav\"]]\n[[=]]\n<< [[[SCP-987]]] | SCP-988 | [[[SCP-989]]] >>\n[[/=]]\n[[/div]]\n\n[[include :scp-wiki:component:license-box]]\n=====\n> **Filename:** WoodenChest.jpg\n> **Name:** Box 1 -Wooden Chest.\n> **Author:** Brenda Clarke\n> **License:** CC BY 2.0\n> **Source Link:** [https://www.flickr.com/photos/brenda-starr/3466702375/in/photostream/ Flickr]\n=====\n[[include :scp-wiki:component:license-box-end]]",
+  "tags": [
+    "_cc",
+    "_licensebox",
+    "artifact",
+    "indestructible",
+    "probability",
+    "safe",
+    "scp"
+  ],
+  "author": "Seibai",
+  "created_at": "2011-06-23T03:39:21+00:00",
+  "updated_at": "2022-10-01T09:32:21+00:00",
+  "rating": 361,
+  "_site": "scp-wiki",
+  "_fullname": "scp-988"
+}

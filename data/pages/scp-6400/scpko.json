@@ -1,0 +1,20 @@
+{
+  "title": "SCP-6400",
+  "content": "[[include info:start]]\n**SCP-6400:** 저 밖에\n**원작:** http://www.scpwiki.com/scp-6400\n**저자:** [[*user uraniumempire]]\n**역자:** [[*user hoyaa2367]]\n[[include info:end]]\n[[include :scpkrsandbox:component:cd-ver2\n|lv=1\n|item=SCP-6400\n|class=%EC%95%88%EC%A0%84(Safe)\n|site-responsible=GBWLTB-Site-17\n|director=%EC%8B%9C%EC%95%88%20%EC%8A%A4%ED%8B%B0%EB%B8%90%EC%8A%A4%20%EB%B0%95%EC%82%AC\n|research-head=펀 파라차 기사(技士)\n|assigned-task-force=N/A\n]]\n[[a href=\"*http://scp-int.wikidot.com/niveaux-de-menace-des-objets-scp\" style=\"font-size: 18px; color: black; text-shadow: 1px 3px 1px rgba(0,0,0,0.3); text-decoration: none;\"]]\n[[span_ style=\"display: inline-block; width: 100%; background-color: #EED202; text-align: center; border: 1px none #000; margin: 1px; padding-top: 8px; padding-bottom: 8px;\"]]\n**위협 등급:** 황색\n[[/span]]\n[[/a]]\n------\n**특수 격리 절차:** 제17기지 윤리위원회 명령에 따라, 시설 C의 2/23 방은 비워진 상태로 유지되어야 한다. SCP-6400이 차폐되거나 뚫려있어서는 안 된다.\n\n**설명:** SCP-6400은 원형의 창이며, 현재 2/23 방의 북서쪽 벽에 위치하고 있다. SCP-6400은 격자나 개폐 기능이 없는 원형의 유리판 하나로 이루어져 있다.\n\nSCP-6400이 손상되거나 한쪽 끝에서 가려지면, SCP-6400은 사라지고 대신 근처의 벽에 다시 나타난다. SCP-6400이 사라지고 다시 나타나는 것은 순식간에 이뤄지는 것으로 보이며, 이전에 있었던 부분은 이동 후 즉시 복원된다.\n\nSCP-6400은 외벽에만 나타나며 자연광이 거의 없는 방에 우선적으로 나타난다. SCP-6400이 주로 나타나는 대상은 사무실, 기숙사, 격리실이다.\n\n영향을 받는 방에 있는 사람이나 지적 존재는 조금 높은 빈도로 SCP-6400을 들여다보고 싶게 하는 약한 충동을 받는다. 태양광에 노출된 시간은 이 영향의 효과와 음의 상관관계를 보이며, 관련 없는 업무를 할당받은 이들은 업무를 하지 않은 이들보다 모든 수준에서 낮은 효과를 보인다. 비인간이나 D 계급 집단의 경우, 우는 것이 자주 관측되었다.\n------\n[[=]]\n[[size 150%]]\n**부록 6400-A**\n[[/size]]\n[[/=]]\n\n다음은 SCP-6400의 현재 위치에서 촬영한 사진이다. 장기간 남아있는 어떤 효과라도 심리학부에 보고하기를 권고한다.\n\n[[=]]\n[[size 150%]] [[collapsible show=\"►SCP-6400 사진\" hide=\"▼ 접속 허가됨\"]][[/size]]\n[[div class=\"scp-image-block block-center\" style=\"width:100%;\"]]\n[[image http://scp-wiki.wdfiles.com/local--files/scp-6400/outthere.jpg style=\"width:100%;\" link=#]]\n[[div class=\"scp-image-caption\" style=\"width:100%;\"]]\nSCP-6400.\n[[/div]]\n[[/div]]\n[[/collapsible]]\n[[/=]]",
+  "tags": [
+    "6000",
+    "en",
+    "scp",
+    "강박",
+    "건물",
+    "빛",
+    "순간이동",
+    "안전"
+  ],
+  "author": null,
+  "created_at": "2021-05-31T14:53:51+00:00",
+  "updated_at": "2023-11-14T07:43:13+00:00",
+  "rating": 11,
+  "_site": "scpko",
+  "_fullname": "scp-6400"
+}

@@ -1,0 +1,21 @@
+{
+  "title": "SCP-1872",
+  "content": "[[>]]\n[[module Rate]]\n[[/>]]\n\n[[include component:image-block name=1872-new.jpg|caption=An accident caused by SCP-1872.|width=400px]]\n\n\n**Item #:** SCP-1872\n\n**Object Class:** Safe\n\n**Special Containment Procedures:** SCP-1872 is to be kept without batteries in a Safe security locker. Once a day this is to be checked for signs of tampering. Any testing done with SCP-1872 must be done in an indoor vehicle testing facility, and only with approved vehicles. No personnel other than D-Class are to be present inside of the test range.\n\n**Description:** SCP-1872 is a green laser pointer, devoid of any type of manufacturing mark or brand name. The light produced by SCP-1872 has a wavelength of 550 nm; despite this, SCP-1872 appears to have a range of at least 1.5 kilometers.\n\nIf SCP-1872's light is directed onto any vehicle with a person inside of it, it will begin to actively pursue the light. Any operators will lose control, however these vehicles are not being \"dragged\" by the light and will take evasive maneuvers to avoid obstacles. If the light isn't shut off, they will function autonomously until they break down or run out of fuel. If the light produced by SCP-1872 is still, vehicles will circle it until it begins to move again.\n\nSCP-1872 appears to affect a variety of transportation methods, including (but not limited to): \n\n* Aircraft\n* Locomotives\n* Automobiles\n* Bicycles\n* Skateboards\n* Construction equipment\n* Aquatic vessels\n* Spacecraft\n\nThere does not appear to be a limit to the number of vehicles SCP-1872 can affect at one time, with testing having shown it can affect at least up to 150 separate devices including 37 automobiles, 5 aquatic vehicles, 4 helicopters, 12 bicycles, and 2 trains. The only vehicles so far not affected by SCP-1872 were [[[SCP-1894]]] and vehicles which had been affected by [[[SCP-1727]]].\n\nHowever, if the subject utilizing SCP-1872 deactivates it before the vehicles that have been affected by it are incapacitated, they will begin to pursue the subject until SCP-1872 is reactivated. Vehicles that pursue the subject can determine their location at all times. \n\nIf these vehicles catch up to the subject, they will immediately corner them and begin to approach slowly, blinking their headlights and revving their engines. If the user does not activate SCP-1872 within three to five minutes of being approached, the vehicles will begin driving towards the user, circling them repeatedly. This will continue until the user is either run over enough times to perish, or they re-activate SCP-1872. Death of the user will instantly render any vehicles affected by SCP-1872 mechanically irreparable.\n\nSCP-1872 was recovered from █████, FL after several people on a bridge above a highway used it to create a traffic accident that caused 14 casualties, including the injury of several Foundation agents. Due to the agents' reports of SCP-1872's effect on their vehicles, SCP-1872 was contained within 24 hours of the incident. The persons who were found with SCP-1872 were killed during recovery operations. SCP-1872 was classified as Safe as of ██/██/2009.\n\nDespite no other connections, SCP-1872 has remarkably similar effects to [[[SCP-3104]]] and [[[SCP-555]]], although in a far more directed and controllable manner. Further research into these anomalies may provide insight into how SCP-1872 functions.\n\n\n[[footnoteblock]]\n\n[[div class=\"footer-wikiwalk-nav\"]]\n[[=]]\n<< [[[SCP-1871]]] | SCP-1872 | [[[SCP-1873]]] >>\n[[/=]]\n[[/div]]\n\n[[include :scp-wiki:component:license-box\n|author=Anonymous]]\n=====\n> **Filename:** 872-new.jpg\n> **Author:** Anonymous\n> **License:** CC BY-SA 3.0\n> **Source Link:** https://scp-wiki.wikidot.com/scp-1872\n=====\n[[include :scp-wiki:component:license-box-end]]",
+  "tags": [
+    "_cc",
+    "_licensebox",
+    "compulsion",
+    "light",
+    "rewritable",
+    "safe",
+    "scp",
+    "tool",
+    "vehicle"
+  ],
+  "author": "RJB_R",
+  "created_at": "2012-07-08T04:39:35+00:00",
+  "updated_at": "2021-09-07T23:21:50+00:00",
+  "rating": 205,
+  "_site": "scp-wiki",
+  "_fullname": "scp-1872"
+}

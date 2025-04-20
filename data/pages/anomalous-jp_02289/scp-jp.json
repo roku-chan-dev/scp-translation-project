@@ -1,0 +1,14 @@
+{
+  "title": "02289",
+  "content": "content: \"**説明:** 「上様」と記述した場合のみ0の数が2つ減少する領収書一束\\n**回収日:** 20██/██/██\\n**回収場所:** 財団フロント企業財務部\\n**現状:** 低脅威度物品収容ロッカーに86枚収容中\\n**追記:** この領収書で減った二桁分は誰が負担するのでしょう？ -██研究員\\n あなたが支払いたくない気持ちは分かりますが、残りの2█████円は自費で負担してください。 -██博士\"\ntf2: '0'\nauthor: ''\nredirect-b: '[[module Redirect destination=\"http://ja.scp-wiki.net/log-of-anomalous-items-jp'\nredirect-e: '\"]]'",
+  "tags": [
+    "jp",
+    "剪定対象-子"
+  ],
+  "author": "onigirikunn",
+  "created_at": "2020-12-01T09:08:30+00:00",
+  "updated_at": "2021-05-24T13:18:07+00:00",
+  "rating": 16,
+  "_site": "scp-jp",
+  "_fullname": "anomalous-jp:02289"
+}

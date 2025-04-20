@@ -1,0 +1,13 @@
+{
+  "title": "Components Sigma",
+  "content": "@@ @@\n@@ @@\n++ Sigma-9\n@@ @@\n@@ @@\n[[=]]\n----\n+++ [[size 125%]]📎[[/size]][https://scp-wiki.wikidot.com/component:centered-header-sigma-9 Centered Header]\n----\n[[/=]]\n\nThis component centres the header at the top of the page it is used on. To use it, paste the following somewhere on your page:\n\n> @@[[include :scp-wiki:component:centered-header-sigma-9]]@@\n\n@@ @@\n[[=]]\n----\n+++ [[size 125%]]📎[[/size]][https://scp-wiki.wikidot.com/component:toggle-sidebar Toggle Sidebar]\n----\n[[/=]]\n\nThis component enables the mobile sidebar button on a desktop-sized screen, which by extension centres the main page content. To use it, paste the following somewhere on your page:\n\n> @@[[include :scp-wiki:component:toggle-sidebar]]@@\n\nIf you're using a theme on the page, make sure that the [[include]] for this component is put in after the [[include]] of that theme.\n\nYou can see this component in action in [[[SCP-6009]]].\n\n@@ @@\n[[=]]\n----\n+++ [[size 125%]]📎[[/size]][https://scp-wiki.wikidot.com/component:scp-pride SCP Pride Template]\n----\n[[/=]]\n\nThis component allows you to add a Pride logo to your pages. To use it, paste the following:\n\n> @@[[include component:scp-pride]]@@\n\n@@ @@\n------\n------",
+  "tags": [
+    "fragment"
+  ],
+  "author": "TopDownUnder",
+  "created_at": "2021-11-07T15:14:11+00:00",
+  "updated_at": "2021-11-07T15:25:43+00:00",
+  "rating": 0,
+  "_site": "scp-wiki",
+  "_fullname": "fragment:components-sigma"
+}

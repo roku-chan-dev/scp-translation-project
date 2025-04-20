@@ -1,0 +1,30 @@
+{
+  "title": "SCP-CN-2210",
+  "content": "[[include :scp-wiki-cn:credit:start]]\n\n一篇又臭又长的文章，为方便大家观看，本文第二迭代最后一段为剧情线梳理，欢迎大家为本文提供宝贵的建议\n\n感谢[[*user Doctor Anybody]]，[[*user ColoredBucket]]，[[*user Amo_Cheers]]，[[*user fwUntidy]]一直以来提供的支持。\n\n[[include :scp-wiki-cn:credit:end]]\n\n[[module ListPages category=\"fragment\" parent=\".\" limit=\"1\" order=\"name\" offset=\"@URL|0\"]]\n\n%%content%%\n[[/module]]\n\n[[footnoteblock]]\n\n[[div class=\"footer-wikiwalk-nav\"]]\n[[=]]\n<< [[[SCP-CN-2209]]] | SCP-CN-2210 | [[[SCP-CN-2211]]] >>\n[[/=]]\n[[/div]]\n\n[!-- http://scp-wiki-cn.wikidot.com/fragment:scp-cn-2210-01 --]\n[!-- http://scp-wiki-cn.wikidot.com/fragment:scp-cn-2210-02 --]",
+  "tags": [
+    "keter",
+    "scp",
+    "site-cn-12",
+    "原创",
+    "变形",
+    "叙述性",
+    "城市",
+    "尸体",
+    "幻觉",
+    "感知影响",
+    "敌意",
+    "文件",
+    "智能",
+    "未收容",
+    "相啸魔",
+    "观察影响",
+    "认知危害",
+    "记忆影响"
+  ],
+  "author": "PROTECT WATER",
+  "created_at": "2021-08-10T04:27:19+00:00",
+  "updated_at": "2024-04-08T15:14:29+00:00",
+  "rating": 30,
+  "_site": "scp-wiki-cn",
+  "_fullname": "scp-cn-2210"
+}

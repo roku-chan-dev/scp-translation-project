@@ -1,0 +1,20 @@
+{
+  "title": "SCP-2556-JP",
+  "content": "[[module CSS]]\n#page-content .blinkbar-nagi {color: red;font-size:125%; animation: blink 1.5s infinite; letter-spacing: -0.13em;}@keyframes blink{to{opacity: .0;}}@keyframes flicker {0% {opacity: 0.9890; }5% {opacity: 0.5842; }10% {opacity: 0.9865; }20% {opacity: 0.0412; }20% {opacity: 0.6255; }25% {opacity: 0.3157; }30% {opacity: 0.7328; }35% {opacity: 0.4654; }40% {opacity: 0.9128; }45% {opacity: 0.2449; }50% {opacity: 0.5485; }55% {opacity: 0.6438; }60% {opacity: 0.1180; }65% {opacity: 0.9085; }70% {opacity: 0.0266; }75% {opacity: 0.6795; }80% {opacity: 0.7812; }85% {opacity: 0.0117; }90% {opacity: 0.2239; }95% {opacity: 0.8897; }100% {opacity: 0.2260; }}@keyframes overlay-anim {0% {visibility: hidden; }10% {visibility: hidden; }11% {visibility: visible; }50% {visibility: hidden; }100% {visibility: hidden; }}\n#page-content .collapsible-block-folded a.collapsible-block-link {\n    animation: blink 0.8s ease-in-out infinite alternate;\n}\n@keyframes blink {\n    0% { color: transparent; }\n    50%, 100% { color: #b01; }\n}\n.email {float: center; border: solid 2px #000000; width: 88%; padding: 1px 15px; margin: 10px 10px 10px 10px; box-shadow: 0 1px 3px rgba(0,0,0,.5)}\na.collapsible-block-link { font-weight: bold; }\n.tofrom {margin-left: 10px; margin-top: 5px; padding: 1px 15px; border-left: solid 3px maroon}\n[[/module]]\n\n\n[[include credit:start]]\n**タイトル:** SCP-2556-JP - 今、あなたが設計した収容室にいるの。\n**著者:** ©︎[[*user FattyAcid]]\n**作成年:** 2021\n[[include credit:end]]\n\n\n[[include component:image-block\n|name=http://scp-jp-storage.wdfiles.com/local--files/file%3A2081491-39-dqvw/mery.jpg\n|caption=出現直後のSCP-2556-JP。\n|width=150px\n]]\n\n**アイテム番号:** SCP-2556-JP\n\n**オブジェクトクラス:** Euclid\n\n**特別収容プロトコル:** SCP-2556-JP-1は離島隔離サイト-81L3の収容室に保管されています。収容室は閉鎖してはならず、必ず1本の専用通路で外部と接続されている状態を保つ必要があります。研究等の目的で収容室に立ち入る職員は、電波を用いる通信機器を携帯してはなりません。サイト-81L3の通路状態は定期的にSCP-2556-JP収容担当者による確認を受ける必要があります。\n\nSCP-2556-JPの対象となる人物が財団職員のみであるように、サイトの所在する████島の周囲3km以内の海域における民間船舶の航行は制限されます。SCP-2556-JPの対象となった職員はSCP-2556-JP収容担当者にその旨を報告しなければなりません。\n\nSCP-2556-JP-1収容室には赤外線センサーが設置されており、SCP-2556-JPの出現を自動的に検知します。出現が検知された場合、連動して起動するレーザー砲によって自動で攻撃が行われ、SCP-2556-JPの頭部を破壊し、不活性化します。当該システムが機能しなかった場合に備え、専用通路上にも同様のシステムが複数備え付けられている他、通路の出入り口には武装警備員が配置されます。\n\n**説明:** SCP-2556-JPは変形能力を有する実体です。SCP-2556-JPは後述するSCP-2556-JP-1の直上に出現します。この出現は平均して1日に1度程度の頻度で発生しますが、その間隔に現在まで明確な規則性は発見されておらず、正確な日時を推測することは不可能です。\n\nSCP-2556-JPの出現の直後、SCP-2556-JP-1の周囲約3km以内に存在する、通信機器[[footnote]] 主に携帯電話、トランシーバーなどが確認されている。 [[/footnote]]を身につけている人物(以下、対象と呼称)に対し、不明な発信元からのメッセージが送信されます。メッセージの内容は女性の声でSCP-2556-JPの現在位置を伝えるものです。その後、SCP-2556-JPは対象の現在位置に向け、徒歩で移動を開始します。\n\n仮にその進路に移動上の障害が一切存在しない場合、SCP-2556-JPの容姿は移動距離に伴う一定の進行速度で変形すると考えられています。ただし、実際には障害物の排除などの目的のため",
+  "tags": [
+    "euclid",
+    "jp",
+    "scp",
+    "変容",
+    "恐竜",
+    "玩具",
+    "素手喧嘩コン21",
+    "通信"
+  ],
+  "author": "FattyAcid",
+  "created_at": "2021-05-01T08:03:20+00:00",
+  "updated_at": "2021-08-29T16:38:28+00:00",
+  "rating": 76,
+  "_site": "scp-jp",
+  "_fullname": "scp-2556-jp"
+}

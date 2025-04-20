@@ -1,0 +1,13 @@
+{
+  "title": "translation",
+  "content": "[[include :scp-wiki-cn:theme:bedrock]]\n[[include :scp-wiki-cn:theme:skipos]]\n\n[[module CSS]]\n:root {\n    --desktop-time: '2:23 A.M.';\n    --desktop-wallpaper: url(\"http://mwil.wikidot.com/local--files/newpage/bg.jpg\");\n}\n[[/module]]\n\n[[tabview]]\n[[tab SCP条目]]\n**I**\n* [[[SCP-654]]]\n**III**\n* [[[SCP-2628]]]\n* [[[SCP-2795]]]\n**V**\n* [[[SCP-4537]]]\n* [[[SCP-4911]]]\n**VI**\n* [[[SCP-5246]]]\t\n* [[[SCP-5297]]]\n* [[[SCP-5347]]]\n* [[[SCP-5348]]]\n* [[[SCP-5458]]]\t\n* [[[SCP-5480]]]\n* [[[SCP-5611]]]\n* [[[SCP-5654]]]\n* [[[SCP-5693]]]\n* [[[SCP-5799]]]\n* [[[SCP-5827]]]\t\n**VII**\n* [[[SCP-6470]]]\n* [[[SCP-6526]]]\n* [[[SCP-6641]]]\n* [[[SCP-6664]]]（合译）\n* [[[SCP-6669]]]\n* [[[SCP-6950]]]\n**VIII**\n* [[[SCP-7153]]]\n**J条目**\n* [[[SCP-6009-J]]]\n**其他分部**\n* [[[SCP-131-DE]]]\n* [[[SCP-168-DE]]]\n* [[[SCP-1044-JP]]]\n* [[[SCP-2992-JP]]]\n**旧页面**\n* [[[OLD:SCP-6149|SCP-6149（旧）]]]\n* [[[OLD:SCP-ES-056|SCP-ES-056（旧）]]]\n\n[[/tab]]\n\n[[tab 故事]]\n\n**EN**\n* [[[prelude-the-sensation-of-falling|序章：坠落的感觉]]]\n* [[[grey-island-getaway|第一章：灰岛之游]]]（合译）\n* [[[the-island-murder-mystery-show|第二章：岛屿谋杀谜案]]]（合译）\n* [[[corn-starch|第三章：玉蜀黍淀粉]]]\n* [[[rainy-monday|雨中的星期一]]]\n* [[[ideals|理想]]]\n* [[[little-ones|小家伙们]]]\n\n[[/tab]]\n\n[[tab 艺术作品]]\n\n**EN**\n* [[[cole-13-s-drawing-hut|Cole 13的画室]]]\n* [[[secure-contain-pixelate|控制 收容 像素]]]\n**JP**\n* [[[remaining-trapped-in-scp963|不死之人的灵魂去往何处]]]\n* [[[loneliness-and|和孤独]]]\n* [[[unnamed-artwork|无名的艺术作品]]]\n* [[[409-thousands-of-fragments|万千碎片]]]\n* [[[scp-426-ilast|我是我]]]\n* [[[nue-artwork-kihaku|鵺-斎宮的艺术作品]]]\n* [[[uzutsuno-artwork-1|云的画哦！]]]\n* [[[torasaki|在空间投影型放映室]]]\n\n[[/tab]]\n\n[[tab 中心页]]\n\n**EN**\n* [[[and-every-time-we-meet-again-hub|每当你我重见之时 中心页]]]\n* [[[i-hub|我，中心页]]]（合译）\n* [[[void-dancer-hub|虚空舞者 中心页]]]\n\n**DE**\n* [[[ein-baum-ein-juwel-eine-familie-hub|一棵树，一颗宝石，一个家庭 中心页]]]\n\n[[/tab]]\n\n[[tab 作者页]]\n\n**EN**\n[[[caspian2-s-casebook|Caspian2的档案资料]]]\n[[[dr-dmatix-s-personnel-file|Dmatix博士的人事档案]]]\n\n[[/tab]]\n\n[[tab 中译英]]\n\nIII\n* [http://scp-int.wikidot.com/scp-cn-2227 SCP-CN-2227 - Drunk Alone] by [[*user Dr Fishbone]]\n* [http://scp-int.wikidot.com/scp-cn-2290 SCP-CN-2290 - Unidentified Flying Mushrooms] by [[*user DimoIre]]\n\n[[/tab]]\n[[/tabview]]",
+  "tags": [
+    "作者"
+  ],
+  "author": "Twilit",
+  "created_at": "2020-12-25T13:55:45+00:00",
+  "updated_at": "2023-12-03T02:11:05+00:00",
+  "rating": 45,
+  "_site": "scp-wiki-cn",
+  "_fullname": "twilit"
+}

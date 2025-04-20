@@ -1,0 +1,16 @@
+{
+  "title": "宁静海",
+  "content": "[[>]]\n[[module rate]]\n[[/>]]\n[[module CSS]]\n/*\n    Powered on 2020/03/24 10:02:43\n    [2020 Wikidot Theme]\n    Created by Heavyblues\n    CC BY-SA 3.0\n*/\ndiv#container-wrap {\nbackground: url(http://scpsandboxcn.wdfiles.com/local--files/original-high/kindom) top left repeat-x;}\n\ndiv#side-bar div.side-block {\n    border: 1px solid rgb(255, 255, 255);\n    box-shadow: 0 2px 6px rgb(217, 217, 217);\n}\ndiv#side-bar div.side-block div.heading,\ndiv#side-bar div.collapsible-block-unfolded-link,\ndiv#side-bar div.collapsible-block-unfolded-link div.collapsible-block-link {\n    color: rgb(0, 0, 0);\n    border-color: rgb(0, 0, 0);\n}\ndiv.open-menu a {\n    color: rgb(0, 0, 0)!important;\n    border-color: rgb(0, 0, 0)!important;\n}\n#side-bar a:visited {\n    color: rgb(0, 0, 0);\n}\n\n#side-bar div.menu-item .sub-text {\n    color: rgb(0, 0, 0);\n}\n\n\n#side-bar a,a:visited {\n    color: rgb(0, 0, 0);\n}\n \n#side-bar img {\n    filter: grayscale(1);\n    -webkit-filter: grayscale(1);\n}\n[[/module]]\n伊安问我是否在做梦。 \n@@@@\n@@@@\n她以为我尚在梦呓，梦中她正捧来清水。\n\n我没有欺骗你，我还留在宁静海。我太慢了，以至于看不到你。\n\n抚摸清水，水便抽身而去，狡黠地呼吸着。\n\n我真的要走了。从宁静海出发可以保存更多燃料，我会好过一些。\n\n我对她和盘托出，不论她相信与否——在这里，我的思维变慢，却不会影响我主观的感受。\n\n那让人赞叹。梦中伊安捧来清水，在月光下晶莹剔透——\n\n如今月面已暗。\n\n或者，我已经离开光很久了，现在就剩一片黑。\n\n伊安问我要走多少时候。\n@@@@\n@@@@\n亲爱的，我很难向你解释——我的时间流会不断膨胀，女儿会说我像是流星，孙女会说我像是贴纸，重孙女会说我像是她画的山（我的波形），剩下的人会对你说我不存在。\n\n我没有欺骗你，我还留在宁静海。我没有停歇，仍然来不及跟上自己。\n\n伊安的泪蒸发殆尽时，地面将宣布项目突破千分之二光速。\n\n伊安的相片刚刚因为发黄被取出，舱室的相对速度便足以逃离每一颗中子星。\n\n伊安的名字被女儿提到后，被孙女提到后，被重孙女提到后，\n\n被所有人提到后，\n\n我会来到光速。\n\n你看，我的时间停止了。\n@@@@\n@@@@\n亲爱的，我很难向你解释——我的星云在深空里融化，弥散成超星系团，星系团，星系群和星系，成为红移的灰尘。\n\n彗星坠向行星，行星坠向恒星，恒星坠向吸积盘，坠向霍金辐射。\n\n玻色子的海洋在我眼前干涸，色荷从夸克的尸体里游走，辉光明灭不定。\n\n抚摸清水，水便朝我敞开，平静地呼吸着。\n\n我没有欺骗你，我还留在宁静海。\n\n从宁静海出发，我耗尽了所有燃料，无从减速或改变方向。\n\n我无可避免地向热寂滑去。\n\n我所爱的和将要爱的一切物，都被留在了宁静海。\n\n此时我尚在梦呓，而你正捧来清水。\n\n我等待你和我在同一个时刻里思考，消解我的孤独，停止我的追问。\n\n从宁静海找到我。\n@@@@\n@@@@\n你问我是否在做梦。\n@@@@\n@@@@\n[[image http://scp-wiki-cn.wikidot.com/local--files/wanderers:lunarmare/ian.png]]\n@@@@\n@@@@\n@@@@\n------\n\n[[[wanderers:collapse|你问我是否在做梦——]]]",
+  "tags": [
+    "wanderers",
+    "原创",
+    "梦之谏言",
+    "精品"
+  ],
+  "author": "Heavyblues",
+  "created_at": "2020-02-24T18:10:42+00:00",
+  "updated_at": "2020-04-16T06:38:47+00:00",
+  "rating": 288,
+  "_site": "scp-wiki-cn",
+  "_fullname": "wanderers:lunarmare"
+}

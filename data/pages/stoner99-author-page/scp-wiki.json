@@ -1,0 +1,14 @@
+{
+  "title": "stoner99 author page",
+  "content": "Hi! Welcome to my author page. Below is an automatically updating, comprehensive list of everything I've written for the wiki, arranged in ascending order of rating: \n\n[[module ListPages created_by=\"stoner99\" order=\"rating\" separate=\"no\" tags=\"-author\" perPage=\"250\" prependLine=\"||~ SCP ||~ Rating ||~ Comments ||~ Created ||\"]]\n|| %%title_linked%% || %%rating%% || %%comments%% || %%created_at%% ||\n[[/module]]\n\n**Note:** In the unlikely event the wiki's current licensing policy changes, or I mistakenly use an image which is not compliment with the wiki's license and this is only noticed after I have ceased activity, I preemptively deny permission for image replacements on my articles.\n\n[[module ListPages tag=\"8000, -hub\" separate=\"no\" perPage=\"200\" rating=\">-20\" order=\"rating\" prependLine=\"||~ Title||~ Comments ||~ Author ||~ Rating||\" categories=\"*\"]]\n|| %%title_linked%% || %%comments%% || %%created_by%% || %%rating%% ||\n[[/module]]",
+  "tags": [
+    "_cc",
+    "author"
+  ],
+  "author": "stoner99",
+  "created_at": "2021-08-21T01:13:01+00:00",
+  "updated_at": "2024-02-15T00:29:09+00:00",
+  "rating": 22,
+  "_site": "scp-wiki",
+  "_fullname": "stoner99-author-page"
+}

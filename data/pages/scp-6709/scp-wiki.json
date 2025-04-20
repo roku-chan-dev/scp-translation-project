@@ -1,0 +1,27 @@
+{
+  "title": "SCP-6709",
+  "content": "[[module ListPages category=\"fragment\" parent=\".\" limit=\"1\" order=\"created_at\" offset=\"@URL|0\"]]\n%%content%%\n[[/module]]\n\n[!-- https://scp-wiki.wikidot.com/fragment:scp-6709-1 --]\n[!-- https://scp-wiki.wikidot.com/fragment:scp-6709-2 --]\n[[include :scp-wiki:component:toggle-sidebar-bhl]]\n[[include :scp-wiki:component:license-box\n|author=Siddartha Alonne and JackalRelated]]\n=====\n> **Filename:** Camera\n> **Name:** \"Daughter's Messy Room\"\n> **Author:** Rubbermaid Products\n> **License:** https://creativecommons.org/licenses/by/2.0/?ref=ccsearch&atype=rich\n> **Source Link:** https://www.flickr.com/photos/28040596@N08/4052833522\n=====\n=====\n> **Filename:** Finestra.jpg\n> **Name:** \"Smashed window in Wood End\"\n> **Author:** lydia_shiningbrightly\n> **License:** https://creativecommons.org/licenses/by/2.0/?ref=ccsearch&atype=rich\n> **Source Link:** https://www.flickr.com/photos/31917220@N07/3966219819\n=====\n=====\n> **Filename:** Mappa\n> **Name:** N/A\n> **Author:** Mapswire\n> **License:** [https://pixabay.com/it/ Pixabay License]\n> **Source Link:** https://pixabay.com/it/illustrations/italia-mappa-regioni-senza-etichetta-2434254/\n> **Additional Notes:** Photo edited by me via Paint.\n=====\n> **Filename:** OneiroiBianco.png\n> **Name:** N/A\n> **Author:** DrConte\n> **License:** CC-BY-SA-3.0\n> **Source Link:** [http://fondazionescp.wikidot.com/le-pitture-del-conte Link]\n[[include component:license-box-end]]",
+  "tags": [
+    "_cc",
+    "_licensebox",
+    "_listpages",
+    "alive",
+    "animal",
+    "bird",
+    "concept",
+    "humanoid",
+    "metamorphic",
+    "oneiroi",
+    "sapient",
+    "scp",
+    "teleportation",
+    "thaumiel",
+    "uncontained"
+  ],
+  "author": "Siddartha Alonne",
+  "created_at": "2022-04-03T15:28:03+00:00",
+  "updated_at": "2022-10-19T05:19:25+00:00",
+  "rating": 57,
+  "_site": "scp-wiki",
+  "_fullname": "scp-6709"
+}

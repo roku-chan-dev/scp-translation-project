@@ -1,0 +1,17 @@
+{
+  "title": "SCP-7143-J [SFW?]",
+  "content": "[[include :scp-wiki-cn:component:info-ayers\n|page=scp-7143-j[!-- url of your page on the scp wiki --]\n|authorPage=djkaktus[!-- link to your author page --]\n|comments=\n]]\n[[include :scp-wiki-cn:component:black-highlighter-theme-dev]]\n[[module CSS]]\nsup {\nvertical-align: top; position: relative; top: -0.5em;\n}\n:root{\n--cutColour: #fafafa;\n--barColour: #590505;\n}\n\n.info-container .collapsible-block-folded a{\ncolor: #FFF;}\n.info-container .collapsible-block-unfolded-link a{\ncolor: #FFF;}\n\n.translation_block{\ndisplay:none;}\n[[/module]]\n@@@@\n@@@@\n[[include component:image-block name=http://scp-wiki.wdfiles.com/local--files/scp-7143-j/knob.JPG|caption=SCP-7143-J，一个门把手。|width=250px]]\n\n**项目编号：**SCP-7143-J\n\n**项目等级：**N/A[[footnote]]目前基金会没有措施来收容一个门把手。[[/footnote]]\n\n**特殊收容措施：**由于SCP-7143-J是一个门把手，收容措施不是必要的。\n\n**描述：**SCP-7143-J是Site-19员工宿舍三楼门上的门把手。它由金属制成。向左或向右转动它会打开它附着的门。它有一把锁，被用于阻止有意转动门把手的行动以防个体进入另一边的房间。\n\n[[include component:image-block name=http://scp-wiki.wdfiles.com/local--files/scp-7143-j/knob2.JPG|caption=另外一个门把手，不是SCP-7143-J。|width=250px]]\n\nSCP-7143-J由维护人员J. Maloney安装。当被问及SCP-7143-J的安装时，他评论道：“我安装了一个门把手。”\n\n**附录7143-J.1：**测试记录\n\n//备注：一些测试在发现SCP-7143-J后不久进行，尽管这些测试的预期目的是未知的，即使SCP-7143-J是一个门把手。//\n\n> **测试记录7143-J 1**\n> \n> **测试：**Dr. Dorian向左转动SCP-7143-J。\n> \n> **结果：**SCP-7143-J附着的门开启并允许通行。\n> \n> **备注：**//这是个门把手。-Dr. Dorian//\n\n> **测试记录7143-J 4：**\n> \n> **测试：**SCP-7143-J被特工Jameson锁住。\n> \n> **结果：**SCP-7143-J阻止了特工Jameson的前进。\n> \n> **备注：**//门似乎被锁住了。-特工Jameson//\n\n> **测试记录7143-J 15：**\n> \n> **测试：**[数据删除]\n> \n> **结果：**[数据删除]\n> \n> **备注：**//我不知道为什么这被删除了，这只是个门把手。-Dr. Clef//\n\n[[include component:image-block name=http://scp-wiki.wdfiles.com/local--files/scp-7143-j/knob3.JPG|caption=标准门把手的内部工作机制。]]\n\n**附录7143.2：**人员个人证词\n\n//**备注：**以下证词被搜集于一次关于SCP-7143-J的匿名调查。//\n\n> **特工Romerville：**我有时用那门把手以进入三楼宿舍。\n\n> **Dr. Cornwall：**有一次，门把手被锁住了。当我之后回来时，它没被锁住。这就是锁工作的方法。\n\n> **Dr. Hughes：**███████████ ████ ███████ █████████ █████ ███████ ███ █████  ██████ ███████ ███ ██████ ███ ██████ ██████████████████████████ ██████████████████████████ ████████████。\n> //**备注：**Dr. Hughes的电脑似乎失灵了。-Dr. Clef//\n\n> **研究员Axwell：**有时我向左转动它，有时向右。门很有用。\n\n> **Dr. Lee：**我曾看见有人清洁SCP-7143-J。很高兴设施人员如此爱护站点。\n\n> **研究员Chambers：**我要把门把手操烂。\n\n[[include :scp-wiki-cn:component:djk]]",
+  "tags": [
+    "clef博士",
+    "scp",
+    "搞笑",
+    "机密分级",
+    "金属"
+  ],
+  "author": "Letitia213",
+  "created_at": "2016-01-07T14:28:23+00:00",
+  "updated_at": "2022-02-15T02:45:27+00:00",
+  "rating": 12,
+  "_site": "scp-wiki-cn",
+  "_fullname": "scp-7143-j"
+}

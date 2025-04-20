@@ -1,0 +1,11 @@
+{
+  "title": "00077",
+  "content": "date: '20██/██/██ ██:██, 地点：基金会人力资源部'\ncontent: \"[[div class=\\\"textchange\\\"]]\\n[[module ListUsers users=\\\".\\\"]]\\n[[div class=\\\"sitemember\\\"]]\\nMs.Sue，被收容物分食，注销档案。\\nDr.Harvey，跳楼，欸，都第几个了，注销档案。\\n%%title%%，哦，现在是Dr.Bright了，转移档案。\\n [[/div]]\\n[[/module]]\\n[[div class=\\\"sitemember\\\"]]\\nMs.Sue，被收容物分食，注销档案。\\nDr.Harvey，跳楼，欸，都第几个了，注销档案。\\nDr.Clef，哦，现在是Dr.Bright了，转移档案。\\n[[/div]]\\n[[/div]]\\n\\n[[module ListUsers users=\\\".\\\"]]\\n[[module css]]\\n .textchange div.sitemember:nth-child(2) {\\n display:none;\\n }\\n[[/module]]\"\ncomments: \"[[collapsible show=\\\"+ 评论区 6个\\\" hide=\\\"- 评论区\\\"]]\\n[!--\\n请使用以下格式添加评论：\\n> **[[*user 你的 Wikidot ID]]：**评论内容\\n--]\\n> **[[*user ETINJAT]]：**从归档处转来\\n\\n> **[[*user DrStevenXu]]：**艹 不过还是up了\\n\\n> **[[*user Ugly slave son]]：**？ 草 丑奴儿\\n\\n> **[[*user Gawain pan]]：**吓到我了，真心吓到我了\\n\\n> **[[*user repeerCer]]：**哈人，up\\n\\n> **[[*user Iris versicolor]]：**惊到了，遂up\\n\\n[[/collapsible]]\"",
+  "tags": [],
+  "author": "Etinjat",
+  "created_at": "2020-09-07T10:55:46+00:00",
+  "updated_at": "2023-03-22T05:34:35+00:00",
+  "rating": 61,
+  "_site": "scp-wiki-cn",
+  "_fullname": "short-stories:00077"
+}

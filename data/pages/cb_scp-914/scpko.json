@@ -1,0 +1,13 @@
+{
+  "title": "SCP-914",
+  "content": "원문: http://scpcb.gamepedia.com/SCP-914\n\n[[include cb:template:scp-infobox\n|name=SCP-914\n|image=http://hydra-media.cursecdn.com/scpcb.gamepedia.com/0/09/SCP-914.png\n|imagewidth=240px\n|animate=아니오\n|harmful=예\n|scplink=scp-914\n|class=안전\n|containment=cb:light-containment-zone#toc13\n]]\n\n\n**SCP-914**은 일명 “태엽장치”로《SCP - Containment Breach》 안에서 만날 수 있는 SCP 개체이다. 게임 내에서 플레이어에게 도움을 주는 몇 안 되는 SCP 개체이다.\n\n[[toc]]\n\n++ 설명\n\nSCP-914는 기어들과 도르래, 그리고 다른 기계적인 부품들로 이루어진 거대한 기계이다. 대상은 커다란 패널과 각각 ‘투입’과 ‘배출’이라 적혀진 2개의 작은 공간이 있다. 어떠한 물체를 ‘투입’에 넣은 다음, 열쇠를 돌리면 물체는 기계속으로 들어가 ‘배출’로 나온다. 앞부분의 패널에 아이템을 가장 저하시키는 매우 굵음부터 가장 향상시키는 매우 고움들 중에 설정이 가능한 손잡이가 있는 기계에 들어가 있는 동안, 기계는 아이템을 정제하거나 저하시킨다.\n\n++ 게임 등장\n\n[[include cb:template:video\n|youtube=Thg6EhVuE8I\n|caption=v0.6.4 버전에서 SCP-914 시범 영상.\n]]\n\nSCP-914의 격리실로 들어가기 위해선 2등급 이상의 [[[cb:keycards|키카드]]]가 필요하다. 격리실 안은 거의 SCP-914가 공간을 차지하고 있다. 플레이어는 인벤토리의 슬롯에 있는 물체를 드래그해서 아이템을 SCP-914의 ‘투입’에 넣을 수 있다. 플레이어는 패널의 위에 있는 손잡이를 총 5개중에 설정할 수 있다.\n\n설정이 끝나고 나면, 플레이어는 ‘배출’에서 아이템이 나오도록 패널의 아랫부분에 있는 열쇠를 돌려서 정제과정을 시작할 수 있다.\n\n각각의 설정은 SCP-914의 안에 넣어둔 아이템의 결과물에 영향을 준다. SCP-914의 설정들의 효과는 다음과 같다.\n\n: “매우 굵음” : 종종 아이템을 해체하거나 파괴한다.\n: “굵음” : 부품들을 좀 더 정제하여 분해한다.\n: “1:1” : 사용이나 기능이 거의 비슷한 아이템을 준다.\n: “고움” : 아이템을 정제하고 보통 비정상적으로 기능을 향상시킨다.\n: “매우 고움” : 보통 아이템의 비정상적인 버전을 준다. 어떤 아이템은 “고움”보다 더 유용한 아이템을 주는 반면 또 어떤 아이템은 매우 위험할 수도 있다.\n\n열쇠를 돌리고 ‘투입’에 플레이어를 넣을 경우, 플레이어도 또한 SCP-914의 영향을 받을 수 있다.\n\n++ 배출 가능한 목록\n\n 주요 항목 : [[[cb:scp-914Outputs|가능한 배출물들]]]\n\n++ 여담\n* SCP-914를 사용할 때, 한 번에 여러 개의 아이템을 넣어도 정제가 가능하다.\n* SCP-914가 작동하고 있을 때, 투입안에서 문을 닫을 수 있어 문을 닫으면 실제로 투입 안에 들어온 것처럼 플레이어의 시야가 멀어진다.\n * 만약 플레이어가 SCP-914가 작동하는 소리가 나오는 도중에 투입 안에 들어가 문을 닫아버리면 플레이어는 정제되어 버리고 SCP-914의 최근 설정의 영향을 받아서 배출로 나오게 된다. (예시 “1:1”의 결과는 마우스 제어가 거꾸로된다.)\n\n++ 갤러리\n\n[[include cb:template:gallery |image=http://hydra-media.cursecdn.com/scpcb.gamepedia.com/thumb/d/dd/Control_panel.png/120px-Control_panel.png |caption=SCP-914의 제어 패널.]]\n[[include cb:template:gallery\n|image=http://hydra-media.cursecdn.com/scpcb.gamepedia.com/thumb/d/d0/SCP-914_label.jpg/120px-SCP-914_label.jpg |caption=SCP-914의 라벨. ]]\n[[include cb:template:gallery |image=http://hydra-media.cursecdn.com/scpcb.gamepedia.com/thumb/6/6b/Doc914.jpg/85px-Doc914.jpg |caption=게임 내의 SCP-914의 문서. ]]\n[[include cb:template:gallery |image=http://hydra-media.cursecdn.com/scpcb.gamepedia.com/thumb/e/ef/914.jpg/120px-914.jpg |caption=로딩화면에서 나타난 SCP-914. ]]",
+  "tags": [
+    "cb"
+  ],
+  "author": "goddls",
+  "created_at": "2014-03-04T08:47:25+00:00",
+  "updated_at": "2015-01-08T00:24:57+00:00",
+  "rating": 0,
+  "_site": "scpko",
+  "_fullname": "cb:scp-914"
+}

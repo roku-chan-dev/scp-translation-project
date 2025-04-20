@@ -1,0 +1,13 @@
+{
+  "title": "她最美的形象",
+  "content": "[[include :scp-wiki-cn:theme:monotypical]]\n\n[[module css]]\n:root {\n    --linkColor: #38AFFF;\n\n    --primaryBackgroundColor: #242935;\n    --secondaryBackgroundColor: #3F4256;\n    --tertiaryBackgroundColor: #809EB2;\n    --borderColor: #6272A4;\n\n    --shadow: rgba(96,213,248,0.3);\n\n    --selectionColor: #50FA7B;\n    --textColor: #F8F8F2;\n    --textColor-alt: #6272A4;\n}\n::-webkit-scrollbar-track {\n    background: var(--secondaryBackgroundColor);\n}\n[[/module]]\n\n[[include :scp-wiki-cn:component:author-label-source start=--\n|name=EstrellaYoshte]]\n= 她的名字是叫Lily，还是……？\n\n[[[estrellayoshte|我的作者页]]]\n\n[[[desk-of-junior-designer-s-yvonne|我的图标艺作办公桌]]]\n[[[art:estrella-illustration-desk|另一个艺作办公桌]]]\n[[include :scp-wiki-cn:component:author-label-source end=--]]\n\n[[div class=\"meta-title\"]]\n她最美的形象\n[[/div]]\n\n[[image https://scpsandboxcn.wdfiles.com/local--files/pedder/lVoJ9p5.png]]\n\n------\n\n[[tabview]]\n\n[[tab 初稿]]\n[[image https://scpsandboxcn.wdfiles.com/local--files/pedder/JamS7mP.png]]\n[[/tab]]\n\n[[tab 二稿]]\n[[image https://scpsandboxcn.wdfiles.com/local--files/pedder/e2c47mj.png]]\n[[/tab]]\n\n[[tab 无色彩层次+基础阴影打底]]\n[[image https://scpsandboxcn.wdfiles.com/local--files/pedder/WFOVojZ.png]]\n[[/tab]]\n\n[[tab 背景]]\n[[image https://scpsandboxcn.wdfiles.com/local--files/pedder/AHlbxZ0.png]]\n[[/tab]]\n\n[[/tabview]]",
+  "tags": [
+    "艺术作品"
+  ],
+  "author": "Pedder",
+  "created_at": "2021-11-13T10:27:20+00:00",
+  "updated_at": "2021-11-13T10:27:34+00:00",
+  "rating": 5,
+  "_site": "scp-wiki-cn",
+  "_fullname": "art:the-bloom-in-her-image"
+}

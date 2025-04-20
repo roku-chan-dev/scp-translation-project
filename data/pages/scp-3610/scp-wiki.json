@@ -1,0 +1,20 @@
+{
+  "title": "SCP-3610",
+  "content": "[[>]]\n[[module Rate]]\n[[/>]]\n\n**Item #:** SCP-3610\n\n**Object Class:** --Safe-- Neutralized\n\n**Special Containment Procedures:** --SCP-3610 and a 5 meter radius around it are to be enclosed in a 20-meter-tall net to prevent any avian lifeforms from entering. The area is to be monitored, and repairs are to be made should the net be breached.--\n\n**Description:** SCP-3610 is an irregular area of roughly 2.6 km^^2^^, located in ███████, Shandong Province, China. SCP-3610 has a salt water pond of roughly 140 m^^2^^ in size and 5m deep (referred to as SCP-3610-1) located inside it, and is otherwise filled with pebbles.\n\nTwo anomalous properties are observed:\n\n* When solid matter is placed within SCP-3610-1, the same volume of water will disappear. Dissolved substances present in the water will be left behind. This effect will not reverse even after the object is removed.\n\n* When avian lifeforms enter SCP-3610 at an altitude of 15m or less, they will stop all previous activities and begin to find and carry stones from the surrounding area, and place them within SCP-3610-1.[[footnote]]This triggers the primary effect and results in reduction of the size and depth of SCP-3610-1.[[/footnote]] This will continue until they eventually die of exhaustion.\n\nIt is theorized that SCP-3610-1 once covered the entirety of SCP-3610, but reduced to the current size due to the anomalous properties.\n\n**Addendum:** Aside from the remains of avian lifeforms, digging at the site of SCP-3610 found remains of various sea life, as well the skeleton of a female humanoid dating back to around 3000 BCE, later classified as Anomalous Object #72976. DNA analysis of the subject shows no significant differences from baseline human DNA. However, AO#72976 possesses hollow bone structures similar to those found in avian lifeforms and half-developed wings in place of arms and hands. A piece of jade jewelry was recovered from its chest, with Chinese characters of previously unknown variation engraved on it. The text translates to \"Beloved daughter of [illegible]\".\n\nAfter AO#72976 was removed from the site, SCP-3610 ceased all anomalous activities. Putting AO#72976 into bodies of water or burying it near bodies of water yielded no result, and SCP-3610 was reclassified as Neutralized.\n\n[[footnoteblock]]\n\n[[div class=\"footer-wikiwalk-nav\"]]\n[[=]]\n<< [[[SCP-3609]]] | SCP-3610 | [[[SCP-3611]]] >>\n[[/=]]\n[[/div]]\n\n[[include :scp-wiki:component:license-box]]\n[!-- N/A (No Images)  --]\n[[include :scp-wiki:component:license-box-end]]",
+  "tags": [
+    "_licensebox",
+    "bird",
+    "ectoentropic",
+    "location",
+    "mind-affecting",
+    "neutralized",
+    "safe",
+    "scp"
+  ],
+  "author": "SunnyClockwork",
+  "created_at": "2017-06-28T15:04:59+00:00",
+  "updated_at": "2022-10-08T18:47:44+00:00",
+  "rating": 86,
+  "_site": "scp-wiki",
+  "_fullname": "scp-3610"
+}

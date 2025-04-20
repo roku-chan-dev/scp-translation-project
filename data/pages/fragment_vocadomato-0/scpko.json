@@ -1,0 +1,14 @@
+{
+  "title": "vocadomato 숨겨진 작가페이지",
+  "content": "[[module CSS]]\n#u-my-org-contents {\n  display: none;\n}\n#page-title {\n  display: none;\n}\n\n[[/module]]\n\n[[include :scpkosb:draft:vocadomato-sigma]]\n\n\n[[module CSS]]\n\n#side-bar div.menu-item {\n  margin: 4px 0px;\n}\n\n#side-bar .heading {\n    color: #5c1010;\n    border-top: solid 1px #b38a8a;\n    border-bottom: none;\n    padding-left: 6px;\n    padding-bottom: 1px;\n    padding-top: 13px;\n    margin-top: 13px;\n    margin-bottom: 5px;\n    font-size: 9pt;\n    font-weight: bold;\n}\n\n[[/module]]\n\n\n+ 소개\n\nvocadomato는 2013년 10월에 가입한, 헐 만으로 벌써 9년??? ㄷㄷ 그러나 뉴비. 만 9년차 뉴비다. 왜 뉴비냐고 묻는다면 사이사이에 있는 긴 휴식(잠수)기간과 재단 세계관에 대한 폭 좁고 얕은 이해 등을 꼽을 수 잇다!\n\n갑자기 잠적할 수 있으니 주의(잠수는 고인물급). 잠수 중에는 중간 확률로 눈팅중입니다 XD\n\n꾸준히 성장하고 있으나 그 속도는 종유석!\n\n포스트를 올리고 1분만에 이불을 걷어차며 과거의 나를 저주하는 습성이 있음. 뭐 실시간으로 발전하고 있다는 뜻 아니겠습니까 허허\n\n프로그래머! 웹은 전공이 아니지만 재단활동하며 CSS와 자바스크립트를 조금 만져봄! 현재 관련 학과 대학생!\n\n항상 거창한 계획만 잡고 실행은 거의 못 하거나 하다 마는 습성이 있음!\n\n사소한 걸로 태클거는 일이 잦으나 절대 나쁜 의도가 아니고 같이 의논하고 더 좋은 방향으로 수정되면 좋은 것 아닌가 하는 마음으로 하는 것이지만 그럼에도 태클의 내용이 별로거나 상대방을 과하게 귀찮게 함으로써 뭔가 안좋은 인상을 주고 있는 건 아닌가 하는 걱정도 있으면서도 그래도 재단 한국지부 전체의 발전을 위해서라면 이정도는 괜찮은 것 아니냐고 반문하며 매일 자신과 싸우는 중!\n\n영어 잘 못하면서 번역 수정 요청은 엄청 자주함! 사실 쌓아두고 안 한게 더 많음!! 사실 한국어도 잘 모르면서 문장 수정 요청도 엄청 자주함! 근데 이것도 쌓아둔 게 더 많음!!! 근데 이걸 수정 요청이라고 부르는 게 맞나 그냥 의견 내는 정도?로 생각해주시면 될 것 같은데 그래도 생각없이 대충 말하는 게 아니라 정말 고심하고 말하는 것이므로 의견을 조금 세심히 봐주시면 어떨까 하는 생각도 가지고 있으면서도 상대방은 글 쓸 때 그만큼보다 더 세심하게 생각했을 것이라며 반문하며 또 자신과 싸우는 편!\n\n\n+ 추천 작품들\n**[[[http://scpko.wikidot.com/scp-388-ko|SCP-388-KO]]]: 이상식욕**\n별칭경연 작품!! 조금 섬뜩!!\n\n**[[[http://scpko.wikidot.com/scp-0522-ko-j|SCP-0522-KO-J]]]: O5는 개나소나**\n이거, 보면 볼수록 숨겨진 웃음포인트가 정말 많습니다. 유일한 자추 작품...! 처음 읽을 땐 조금 불편할 수도 있는데, 모두 의도된 부분이니 꼭 끝까지 읽어보세요! 2번 3번 읽으면 더 좋아요!!\n\n+ 다른 작품들\n\n* **[[[http://scpko.wikidot.com/scp-282-ko|SCP-282-KO 더욱 북극곰인 북극곰]]]**(귀엽다)\n* **[[[http://scpko.wikidot.com/scp-143-ko|SCP-143-KO 종이접기]]]**(최초 작품이라 많이 부족하므로 주의...!)\n\n\n+ 잠깐\n\n설마, 아직도 **SCP-KO 커스텀 달력**을 모르신다고요??\n\n[http://scpko.wikidot.com/scp-ko-custom-calendar >>> 굉장한 CSS 꼼수로 만들어진 엄청난 작품! 재단인생최대업적 ㄷㄷ <<<]",
+  "tags": [
+    "ko",
+    "조각문서"
+  ],
+  "author": "vocadomato",
+  "created_at": "2022-08-19T01:51:46+00:00",
+  "updated_at": "2022-09-21T16:58:27+00:00",
+  "rating": 1,
+  "_site": "scpko",
+  "_fullname": "fragment:vocadomato-0"
+}

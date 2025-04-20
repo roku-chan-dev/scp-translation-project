@@ -1,0 +1,13 @@
+{
+  "title": "Front Page Features",
+  "content": "[[div class=\"box feature1box\"]]\n[[div class=\"title\"]]\nFEATURED SCP\n[[/div]]\n\n[[div class=\"feature\"]]\n++ [[[{$scpslug}| {$scptitle}]]]\n[[span class=\"feature-subtitle\"]]by {$scpby}[[/span]] | [[span class=\"feature-subsubtitle\"]]Selected by {$scpselector}[[/span]]\n\n[[span class=\"feature-blurb\"]]{$scpblurb}[[/span]]\n[[/div]]\n\n[[div class=\"footer\"]]\n@@>>@@ [https://scp-wiki.wikidot.com/featured-scp-archive-iii Archived SCP Features]\n[[/div]]\n[[/div]]\n\n[[div class=\"box feature2box\"]]\n[[div class=\"title\"]]\nFEATURED TALE\n[[/div]]\n\n[[div class=\"feature\"]]\n++ [[[{$taleslug}| {$taletitle}]]]\n[[span class=\"feature-subtitle\"]]by {$taleby}[[/span]] | [[span class=\"feature-subsubtitle\"]]Selected by {$taleselector}[[/span]]\n\n[[span class=\"feature-blurb\"]]{$taleblurb}[[/span]]\n[[/div]]\n\n[[div class=\"footer\"]]\n@@>>@@ [https://scp-wiki.wikidot.com/featured-tale-archive-ii Archived Tale Features]\n[[/div]]\n[[/div]]\n\n\n[[div class=\"box feature3box\"]]\n[[div class=\"title\"]]\nFEATURED HUB (CONTEST PRIZE)\n[[/div]]\n\n[[div class=\"feature\"]]\n++ [[[{$goislug}| {$goititle}]]]\n[[span class=\"feature-subtitle\"]]by {$goiby}[[/span]] | [[span class=\"feature-subsubtitle\"]]Selected by {$goiselector}[[/span]]\n\n[[span class=\"feature-blurb\"]]{$goiblurb}[[/span]]\n[[/div]]\n\n[[div class=\"footer\"]]\n@@>>@@ [https://scp-wiki.wikidot.com/featured-goi-format-archive Archived GoI Features]\n[[/div]]\n[[/div]]\n\n[[div class=\"box feature4box\"]]\n[[div class=\"title\"]]\nREVIEWER'S SPOTLIGHT\n[[/div]]\n\n[[div class=\"feature\"]]\n++ [[a href=\"{$rsslug}\"]]{$rstitle}[[/a]]\n[[span class=\"feature-subtitle\"]]by {$rsby}[[/span]] | [[span class=\"feature-subsubtitle\"]]Selected by {$rsselector}[[/span]]\n\n[[span class=\"feature-blurb\"]]{$rsblurb}[[/span]]\n[[/div]]\n\n[[div class=\"footer\"]]\n@@>>@@ [https://scp-wiki.wikidot.com/reviewers-spotlight-archive-iii Archived Spotlights]\n[[/div]]\n[[/div]]\n\n\n[[module CSS]]\n/* *** FEATURES *** */\n\n.feature {\n    padding: 0px 10px;\n}\n\n.feature h2 {\n    font-weight: bold;\n    margin-bottom: -10px;\n}\n\n.feature-subtitle {\n    font-size: 90%;\n}\n\n.feature-subsubtitle {\n    font-size: 85%;\n    font-style: italic;\n}\n\n.feature-blurb {\n    font-style: italic;\n}\n[[/module]]",
+  "tags": [
+    "fragment"
+  ],
+  "author": "EstrellaYoshte",
+  "created_at": "2021-08-29T17:46:07+00:00",
+  "updated_at": "2025-04-01T06:56:15+00:00",
+  "rating": 0,
+  "_site": "scp-wiki",
+  "_fullname": "fragment:front-page-features"
+}

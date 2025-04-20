@@ -1,0 +1,17 @@
+{
+  "title": "SPC-796-JP",
+  "content": "[[module CSS]]\n@import url(http://www.scp-wiki.net/component:spc-theme/code/1);\n#header h1 a {\n    content: \"SPC 殴打鲨鱼中心\";\n}\n\n#header h1 a::before {\n    content: \" SPC 殴打鲨鱼中心\";\n}\n\n#header h2 span::before {\n    content: \"搜寻，殴打，征服\";\n}\n#page-content .creditRate .page-rate-widget-box .rate-points {\n    background-color: #132639 !important;\n    border: solid 1px #0b65c0;\n}\n.rate-box-with-credit-button .creditButton{\nbackground-color: #132639 !important;\n}\n[[/module]]\n\n[[div style=\"border:solid 1px #999999; background:#f2f2c2; padding:5px; margin-bottom: 10px;\"]]\n[[=]]\n++++ 来自中央情报机关和项目行动指挥部门(CICAPOCO)的通知\n\n项目SPC-796-JP已经结束。现在，Shark-Punching Shark已被指定为殴打对象。\n[[/=]]\n[[/div]] \n\n[[include component:image-block name=http://scp-jp.wdfiles.com/local--files/spc-796-jp/SPC796JP.jpg|\ncaption=执行SPC-796-JP的Shark-Punching Shark|]]\n\n**项目编号：**SPC-796-JP\n\n**鲨鱼殴打性能：**SPC-796-JP可对警戒心较强的鲨类进行有效殴打。通过在满足以上条件的鲨类生息的海域实施SPC-796-JP，可以避免殴打特工不必要的体力消耗及负伤。\n\n**项目组成：**SPC-796-JP含有为了本项目而由中心生化部门所制造的Shark-Punching Shark \n(双髻鲨[//Sphyrnidae//]改造个体)。Shark-Punching Shark的头部硬化，眼睛完全退化，但可以回声能力搜索其他鲨类，并有使用头部殴打鲨类的习性。另外，Shark-Punching Shark并不会捕食其所殴打的鲨类，因此不会抵触中心仅殴打鲨鱼的原则。Shark-Punching Shark还可以理解人类语言并通过回声能力进行对话，项目因此可以顺畅进行。\n\nShark-Punching Shark可以发出与殴打对象鲨类特有的声音同频率的声音，以在不受到警戒的情况下接近殴打对象。因此对于具有较强警戒心，在特工接近时会立刻逃走的鲨类，推荐投入Shark-Punching Shark以进行殴打。\n\n**事件：**参加SPC-796-JP的殴打特工在项目执行中殴打了Shark-Punching Shark并令其受伤。此事件之后，参加及未参加SPC-796-JP的数名殴打特工开展了要求将Shark-Punching Shark归入殴打对象的署名活动，并向高层提出了███人的署名。\n\n高层经会议讨论之后，决定将Shark-Punching Shark归为殴打对象。因此SPC-796-JP遭到冻结，Shark-Punching Shark被流放至饲养中心-3748临近的海岸，并从今以后当做殴打对象处理。流放时，Shark-Punching Shark表示“不管发生了什么我也不会殴打人类，这既违反了中心的原则，也违反了我自身的信条。但是，我真的无法接受这种事实。我明明那么的相信你们。”\n\n> 我们必须承认，Shark-Punching Shark作为殴打鲨鱼中心的重要一员，它为了我们做出了莫大的贡献。但是，就算它的目标和我们相同，也不能改变它本身也是鲨类的事实。现在，Shark-Punching Shark已经成为了最为弱小的殴打对象。它能够攻击的只有其他鲨类，只要它不改变它自身的坚定信念，它绝不会攻击我们。\n> \n> 我们——也许这样做十分卑鄙——必须殴打Shark-Punching Shark，并不留任何情面。就算我们的殴打对象是过去曾经共同殴打鲨类的旧友，我们也要搜寻、殴打、征服。- 威尔金逊博士",
+  "tags": [
+    "2018恶之竞赛",
+    "_打鲨鱼中心",
+    "goi格式",
+    "jp",
+    "打鲨鱼中心"
+  ],
+  "author": "BenjaminChong",
+  "created_at": "2018-09-20T13:04:37+00:00",
+  "updated_at": "2020-02-10T14:05:39+00:00",
+  "rating": 2,
+  "_site": "scp-wiki-cn",
+  "_fullname": "spc-796-jp"
+}

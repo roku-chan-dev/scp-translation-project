@@ -1,0 +1,13 @@
+{
+  "title": "SCP-CN-866 主页面include",
+  "content": "[!--注意，此处为根文件，请勿在此进行未经授权的编辑，你已经被警告了——05-E，此处指Error--]\n\n[[module CSS]]\n#page-title {\n  display: none;\n}\n\n.optionstd a:nth-child(2),\n.optionstd a:nth-child(3){\n  display: none;\n}\n\n.meta-title {\n  border-bottom: solid 1px #bbbbbb;\n  color: #990011;\n  font-weight: normal;\n  margin: 0 0 0.6em;\n  padding: 0 0 0.25em;\n  font-size: 80px;\n}\n\n.meta-title p {\n  margin: 0;\n}\n#u-ratingboxhid {   \n opacity:0.05;  transition: all 0.5s ease-out; \n}\n#u-ratingboxhid:hover {  \n opacity:1;\n}\n\n.page-source::before {\n  content: '  \\A       [ DATA CORRUPTION ]  \\A ';\n   color: lightgreen ;\n   font-size:30px;\n   text-align:center;\n   white-space: pre-wrap;  \nfont-family:'等线',dengxian,'幼圆';\n}\n\n.sub::before {\n content: 'Decommissioned';\n color:#b01;\n}\n\n\n\n#who-rated-page-area::before {\n\ncontent: \"⊙⊙⊙⊙⊙⊙\";\ncolor: #b01;\n\n}\n\n#revision-list::before{\ncontent: ' 世界已经重构了多少次？';\nfont-size:200%;\n}\n\n .page-tags a::before{\ncontent: '⚠️';\nfont-size:105%;\n}\n\n\n.page-source{\n  height:100px;\n  background: black;\n  border:double  5px #BCB7B6;\n  font-size:0em;\n  color: transparent;  \t\n}\n\n a{\n color:#5a5757;\n}\n\na::visited {\n color:grey ;\n}\n\n#page-options-bottom a::hover{\ntext-decoration:line-through;\n color:#b01 ;\n}\n\n.page-history .printuser::before{\n content:url(http://www.wikidot.com/common--images/avatars/default/a16.png);\n}\n\n\n.page-history .printuser::after{\n content:\" (account deleted) \";\n font-size:1rem;\n  margin: 0 0rem 0  0.5rem;\n}\n\n\n.page-history td:not(span) {\n color: transparent;  \n}\n\n.page-history td span {\n   color: #333;\n}\n\n.page-history .printuser{\nfont-size:0em;\n}\n.page-history .printuser img{\ndisplay:none\n}\n\n[[/module]]\n[[module ListPages category=\"fragment\" parent=\".\" limit=\"1\" order=\"name\" offset=\"@URL|0\"]]\n[[div class=\"meta-title\"]]\n%%title%%\n[[/div]]\n[[/module]]\n[[>]]\n[[span id=\"ratingboxhid\"]]\n[[module Rate]]\n[[/span]]\n[[/>]]\n[[module ListPages category=\"fragment\" parent=\".\" limit=\"1\" order=\"name\" offset=\"@URL|0\"]]\n\n%%content%%\n[[/module]]",
+  "tags": [
+    "段落"
+  ],
+  "author": "Etinjat",
+  "created_at": "2020-05-13T07:04:15+00:00",
+  "updated_at": "2020-10-22T08:18:18+00:00",
+  "rating": 7,
+  "_site": "scp-wiki-cn",
+  "_fullname": "fragment:scp-cn-866-06"
+}

@@ -1,0 +1,14 @@
+{
+  "title": "発砲スチロール",
+  "content": "content: \"**説明:** 弾丸を模した形状をしている、拳銃の弾倉にセットし引き金を引くと不明な原理で射出される発泡スチロール。これを用いて発砲した場合でも殺傷は可能だが、発砲に火薬は用いられない。\\n**回収日:** 20██/██/██\\n**回収場所:** スーパー「████」。\\n**現状:** サイト-8122の低危険度物品収容ロッカーに保管。\"\ntf2: '0'\nauthor: ''\nredirect-b: '[[module Redirect destination=\"http://ja.scp-wiki.net/log-of-anomalous-items-jp'\nredirect-e: '\"]]'",
+  "tags": [
+    "jp",
+    "剪定対象-子"
+  ],
+  "author": "Kuronecko",
+  "created_at": "2020-10-26T11:47:20+00:00",
+  "updated_at": "2021-05-24T13:17:44+00:00",
+  "rating": 7,
+  "_site": "scp-jp",
+  "_fullname": "anomalous-jp:02197"
+}

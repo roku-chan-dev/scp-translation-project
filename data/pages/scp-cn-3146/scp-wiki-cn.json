@@ -1,0 +1,22 @@
+{
+  "title": "SCP-CN-3146",
+  "content": "[!--\n====\n五角游戏\n====\n哦哦，五角大楼啊……\n====\n====\n--]\n\n[[module CSS]]\n\n@import url('https://fonts.googleapis.com/css2?family=Noto+Sans+SC:wght@300;400;700;900&display=swap');\n@import url('https://fonts.googleapis.com/css2?family=Noto+Sans:wght@300;400;700;900&display=swap');\n\ndiv#page-content {\n    color: #000;\n    font-size: 0.9375rem;\n    font-family: \"Noto Sans SC\", \"Noto Sans\", sans-serif;\n}\n\ndiv#page-content *,\ndiv#page-content h1,\ndiv#page-content h2,\ndiv#page-content h3 {\n    font-family: inherit;\n}\n\nhr {\n    margin-left: 0;\n    margin-right: 0;\n}\n\nspan.black {\n    background-color: #000;\n    cursor-events: none;\n}\n\ndiv.scp-image-block div.scp-image-caption,\ndiv.scp-image-block img {\n    width: auto !important;\n}\n\nli {\n    margin: 0.5em 0;\n}\n[[/module]]\n\n[[include :scp-wiki-cn:component:toggle-sidebar]]\n\n[[>]]\n[[module rate]]\n[[/>]]\n\n\n**项目编号：**SCP-CN-3146\n\n**项目等级：**Keter\n\n**特殊收容措施：**由于SCP-CN-3146至今未表现出明显可预见的危害性，故仅需对项目适用基础的信息掩盖措施，即：对网络上流传的，涉及到SCP-CN-3146具体流程及反馈的文本或视频进行编辑或直接移除。掩盖文本“拒绝封建迷信”同样适用于对项目的掩盖行动。\n\n**描述：**SCP-CN-3146是一种异常奇术仪式，是由都市传说演变而成的灵异仪式“四角游戏”的当代变体之一。其详细流程如下：\n\n# 准备：包括主持人在内，参与仪式的成员应共有5人。仪式应于深夜23:30至次日0:30期间在一空无一物的方形房间中进行。执行前，主持人应在房间中央摆放一盏熏香炉，放入已经预先发酵完成的节肢动物头部后点燃，随后关闭房间内的所有灯光。\n# 除主持人外的四位参与者分别走到房间的四个角落，面朝墙角站定。随后主持人随机走向其中一角，轻拍参与者肩部示意其向另一角走去。\n# 当某一位参与者走到另一处墙角，遇见另一名参与者时，轻拍后者肩部示意其向下一角行走，随后留在原地。如此持续循环。如果目标角落没有其它参与者，则面对墙角站定。\n# 如果仪式执行正确，在长度不定的时间后，会发现脚步声在某一刻之后不再出现——此时奇术仪式被认为已经生效。闭眼默数60秒后，全体参与者应借助熏香的气息聚集到熏香炉边，此时打开房间内灯光，确认五名参与者均在场后仪式结束。\n\n若SCP-CN-3146成功执行，则可以观测到仪式地点发射出持续时间约6秒的奇术脉冲，其特征值无法与任何典型奇术仪式相匹配。考虑到基金会从未观测到与此脉冲伴生的任何额外“效应”，因此研究小组倾向于认为该仪式的反常结果本身即为SCP-CN-3146的异常效应。\n\n**发现：**在SCP-CN-3146正式被基金会发现并编号前，Site-CN-97已在天海市区内记录到数次与上述仪式的奇术特征值完全匹配的奇术脉冲。但由于天海市内奇术环境固有的高度不稳定性，这些脉冲最终被错误划归为EVE的背景噪声性活跃峰。\n\n2024年6月，基金会注意到了社交媒体上的一段声称SCP-CN-3146“极为灵验”的推送，并随即将发送地点定位到了天海市第一中学——该地点恰巧于推送发送前5分钟记录到了一次上述奇术脉冲。在对参与仪式的五名高一学生训话并以“主持人停在路径中央伪造仪式成功”掩盖后，项目被归档并记录。\n\n当前，基金会已完成对前述所有奇术脉冲发源地的调查。仪式举行地的建造年代从19世纪30年代至20世纪10年代不等，但上述建筑中均含有一纵列以五边形结构建造的房间。尚未知这一特征与SCP-CN-3146是否具有关联性。\n\n[[footnoteblock]]\n\n[[=]]\n[[include :scp-wiki-cn:component:license-box\n|lang=CN\n|author=Sharia Vanilla\n|]]\n[[include :scp-wiki-cn:component:license-box-end]]\n[[/=]]\n\n[[div class=\"footer-wikiwalk-nav\"]]\n[[=]]\n<< [[[SCP-CN-3145]]] | SCP-CN-3146 | [[[SCP-CN-3147]]] >>\n[[/=]]\n[[/div]]",
+  "tags": [
+    "keter",
+    "scp",
+    "仪式性",
+    "原创",
+    "变形",
+    "天海市",
+    "现实扭曲",
+    "艺术性",
+    "认知危害",
+    "记忆影响"
+  ],
+  "author": "Sharia Vanilla",
+  "created_at": "2024-10-23T12:01:29+00:00",
+  "updated_at": "2024-12-26T05:27:58+00:00",
+  "rating": 17,
+  "_site": "scp-wiki-cn",
+  "_fullname": "scp-cn-3146"
+}

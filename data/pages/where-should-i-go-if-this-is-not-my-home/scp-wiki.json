@@ -1,0 +1,15 @@
+{
+  "title": "Where should I go if this is not my home?",
+  "content": "[[=]]\n[[module rate]]\n[[/=]]\n[[include component:ratio-bar base=-- |ex=--]]\n[[include :scp-wiki:component:author-label-source start=--\n|name=Mr. Iverson\n|center=*]]\n[[[https://scp-wiki.wikidot.com/opera-omnia-iverson|Authors page!]]]\n[[include :scp-wiki:component:author-label-source end=--]]\n[[include :scp-wiki:component:acs-animation]]\n[[include :scp-wiki:component:fade-in speed=1]]\n[[include :scp-wiki:theme:black-highlighter-theme]]\n[[include :scp-wiki:theme:jakstyle]]\n\n[[=]]\nWhere should I go if this is not my home,\nBeginning ‘twas easy, a seamless flow,\nCause the gold times are over, do I go?\n\nPerhaps I shouldn’t wander into the night,\nBut it’s so tempting when the good times slow,\nWhere should I go if this is not my home?\n\nRemember times when writing wasn’t a fight,\nRealize now that trying brings you low,\nCause the gold times are over, do I go?\n\nHard to go when it’s a cowardly flight,\nBut as it comes to this I must say no,\nWhere should I go if this is not my home?\n\nWhen the touching of paper gives me fright,\nAnd when ideation I can’t even trow,\nCause the gold times are over, do I go?\n\nThis is it, I’m done, sad indeed, but right,\nYet I am lost and an answer won’t show,\nWhere should I go if this is not my home,\nCause the gold times are over, do I go? \n[[/=]]\n\n[[include :scp-wiki:component:license-box]]\n[!-- N/A (No Images)  --]\n[[include :scp-wiki:component:license-box-end]]",
+  "tags": [
+    "_licensebox",
+    "poetry",
+    "tale"
+  ],
+  "author": "MrIverson",
+  "created_at": "2022-06-11T03:34:20+00:00",
+  "updated_at": "2022-06-19T10:47:14+00:00",
+  "rating": 10,
+  "_site": "scp-wiki",
+  "_fullname": "where-should-i-go-if-this-is-not-my-home"
+}

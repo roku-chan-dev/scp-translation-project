@@ -1,0 +1,29 @@
+{
+  "title": "SCP-935",
+  "content": "=====\n[[include component:preview\ntext=\nThe story of a curse that haunts a family for generations for a sin that they don't know they committed, but continue to commit, and the people who tried to save their loved ones in the wrong way.\n]]\n=====\n\n[[include :scp-wiki:component:info-ayers\n|lang=en\n|page=component:info-ayers\n|authorPage= https://www.wikidot.com/user:info/comrade-waldo\n|comments= = //**SCP-935:** Nothing Bad Ever Happens to the Bowes//\n= Word Count: 5,218\n= Reading Time: 18 minutes\n]]\n\n[[>]]\n[[module Rate]]\n[[/>]]\n\n[[module ListPages  category=\"fragment\" parent=\".\" limit=\"1\" order=\"created_at\" offset=\"@URL|0\"]]\n%%content%%\n[[/module]]\n\n[!-- https://scp-wiki.wikidot.com/fragment:scp-935-1 --]\n[!-- https://scp-wiki.wikidot.com/fragment:scp-935-2 --]\n[[footnoteblock]]\n\n[[div class=\"footer-wikiwalk-nav\"]]\n[[=]]\n<< [[[SCP-934]]] | SCP-935 | [[[SCP-936]]] >>\n[[/=]]\n[[/div]]",
+  "tags": [
+    "_listpages",
+    "asci",
+    "decommissioning-dept",
+    "doctor-dan",
+    "game",
+    "general-bowe",
+    "genetic",
+    "historical",
+    "marshall-carter-and-dark",
+    "neutralized",
+    "pentagram",
+    "probability",
+    "rewrite",
+    "scp",
+    "self-repairing",
+    "teleportation",
+    "unusual-incidents-unit"
+  ],
+  "author": "Comrade Waldo",
+  "created_at": "2024-09-05T17:52:34+00:00",
+  "updated_at": "2024-12-17T20:00:15+00:00",
+  "rating": 45,
+  "_site": "scp-wiki",
+  "_fullname": "scp-935"
+}

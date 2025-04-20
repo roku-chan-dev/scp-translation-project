@@ -1,0 +1,13 @@
+{
+  "title": "More by S D Locke",
+  "content": "[[div style=\"font-weight: bold;\"]]\n\n[[size 120%]]Other works by S D Locke![[/size]]\n[[/div]]\n \n[[module ListPages created_by=\"shaggydredlocks\" separate=\"no\" order=\"rating desc\" tags=\"+scp\" prependLine=\"||||~ [[size 120%]]SCPs[[/size]] ||\"]]\n|| %%title_linked%% || Rating: %%Rating%% ||\n[[/module]]\n\n[[module ListPages created_by=\"S D Locke\" separate=\"no\" order=\"rating desc\" tags=\"+scp\" prependLine=\"||||~ [[size 120%]]SCPs[[/size]] ||\"]]\n|| %%title_linked%% || Rating: %%Rating%% ||\n[[/module]]\n\n[[module ListPages created_by=\"shaggydredlocks\" separate=\"no\" order=\"rating desc\" tags=\"+tale\" prependLine=\"||||~ [[size 120%]]Tales[[/size]] ||\"]]\n|| %%title_linked%% || Rating: %%Rating%% ||\n[[/module]]\n\n[[module ListPages created_by=\"S D Locke\" separate=\"no\" order=\"rating desc\" tags=\"+tale\" prependLine=\"||||~ [[size 120%]]Tales[[/size]] ||\"]]\n|| %%title_linked%% || Rating: %%Rating%% ||\n[[/module]]\n \n[[module ListPages created_by=\"shaggydredlocks\" separate=\"no\" order=\"rating desc\" tags=\"+goi-format\" prependLine=\"||||~ [[size 120%]]GOI Formats[[/size]] ||\"]]\n|| %%title_linked%% || Rating: %%Rating%% ||\n[[/module]]\n\n[[module ListPages created_by=\"S D Locke\" separate=\"no\" order=\"rating desc\" tags=\"+goi-format\" prependLine=\"||||~ [[size 120%]]GOI Formats[[/size]] ||\"]]\n|| %%title_linked%% || Rating: %%Rating%% ||\n[[/module]]\n----",
+  "tags": [
+    "more-by"
+  ],
+  "author": "S D Locke",
+  "created_at": "2021-08-31T22:59:21+00:00",
+  "updated_at": "2021-08-31T23:00:12+00:00",
+  "rating": 4,
+  "_site": "scp-wiki",
+  "_fullname": "more-by:s-d-locke"
+}

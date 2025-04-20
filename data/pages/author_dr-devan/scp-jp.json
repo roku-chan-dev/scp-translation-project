@@ -1,0 +1,14 @@
+{
+  "title": "デバン博士の作者ページ",
+  "content": "[[div class=\"wiki-note\" style=\"padding: 0.3em 1em;\"]]\n[[span style=\"font-size: 1.2em;\"]]デバン博士の研究所に入るためには認証コードを入力してください。[[/span]]\n[[/div]]\n\n\n[[div class=\"form-box\"]]\n++ 黝き月や吼えたる。\n[[div_ class=\"password-box\"]]\n[[include :csi:password key=8003157f2106d2e61eaaddd11ac2cba54c0a97dfcca06890158b0768e92c8714 |https=false |style=]]\n[[/div]]\n[[/div]]\n\n[[module css]]\nh2#toc0 {\n    text-align: center;\n    margin-bottom: 1.5em;\n}\n\n.form-box {\n    border: 1px solid silver;\n    background-color: #eeeeee;\n    border-radius: 1em;\n    margin-top: 3em;\n    padding: 1em 0 1em 0;\n}\n\n.password-box {\n    width: 100%;\n    height: 50px;\n    display: flex;\n    align-items: center;\n    justify-content: center;\n}\n\ninput:focus, select:focus, option:focus, textarea:focus, button:focus{\n\toutline: none;\n}\n[[/module]]",
+  "tags": [
+    "jp",
+    "著者ページ"
+  ],
+  "author": "Dr Devan",
+  "created_at": "2014-06-01T12:31:20+00:00",
+  "updated_at": "2021-01-31T01:26:10+00:00",
+  "rating": 3,
+  "_site": "scp-jp",
+  "_fullname": "author:dr-devan"
+}

@@ -1,0 +1,19 @@
+{
+  "title": "SCP-1646-JP",
+  "content": "[[include :scp-wiki-cn:credit:start-standalone]]\n**标题：**SCP-1646-JP - 一切皆为在梦中[!--，将您美味地反复品尝到最后而下的计策--]\n**作者：** ©︎[[*user amamiel]]\n**发布年份：**2018\n[[include :scp-wiki-cn:credit:end-standalone]]\n[[module ListPages parent=\".\" limit=\"1\" order=\"created_at\" offset=\"@URL|0\"]]\n%%content%%\n[[/module]]",
+  "tags": [
+    "euclid",
+    "jp",
+    "scp",
+    "循环",
+    "掠食性",
+    "智能",
+    "睡眠"
+  ],
+  "author": "M Element",
+  "created_at": "2021-12-10T14:42:35+00:00",
+  "updated_at": "2021-12-10T14:44:37+00:00",
+  "rating": 3,
+  "_site": "scp-wiki-cn",
+  "_fullname": "scp-1646-jp"
+}

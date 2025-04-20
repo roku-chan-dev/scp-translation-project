@@ -1,0 +1,31 @@
+{
+  "title": "SCP-7100",
+  "content": "[[>]]\n[[module Rate]]\n[[/>]]\n\n[[module ListPages  category=\"fragment\" parent=\".\" limit=\"1\" order=\"created_at\" offset=\"@URL|0\"]]\n%%content%%\n[[/module]]\n\n[!-- For translators, here is a direct link to each iteration. --]\n[!-- https://scp-wiki.wikidot.com/fragment:scp-7100-1 --]\n[!-- https://scp-wiki.wikidot.com/fragment:scp-7100-2 --]\n[!-- https://scp-wiki.wikidot.com/fragment:scp-7100-3 --]\n[!-- https://scp-wiki.wikidot.com/fragment:scp-7100-4 --]\n[!-- https://scp-wiki.wikidot.com/fragment:scp-7100-5 --]\n[!-- https://scp-wiki.wikidot.com/fragment:scp-7100-6 --]\n[!-- https://scp-wiki.wikidot.com/fragment:scp-7100-7 --]\n[!-- https://scp-wiki.wikidot.com/fragment:scp-7100-8 --]\n[!-- https://scp-wiki.wikidot.com/fragment:scp-7100-9 --]\n\n[[include :scp-wiki:component:license-box]]\n=====\n> **Filename:** 3323224931_b21f33308a_b.jpg\n> **Name:** Rainbow \n> **Author:** [[[*https://www.flickr.com/photos/st3ph3n/ | Stephen Hynds]]]\n> **License:** CC-BY-SA 2.0\n> **Source Link:** https://www.flickr.com/photos/25293698@N02/3323224931\n\n> **Filename:** Rainbow1.svg\n> **Author:** [[[*https://commons.wikimedia.org/wiki/User:KES47 | KES47]]]\n> **License:** Public Domain\n> **Source Link:** https://commons.wikimedia.org/wiki/File:Rainbow1.svg\n=====\n[[include :scp-wiki:component:license-box-end]]",
+  "tags": [
+    "7000",
+    "_cc",
+    "_licensebox",
+    "_listpages",
+    "alive",
+    "extradimensional",
+    "hostile",
+    "insect",
+    "keter",
+    "light",
+    "liquid",
+    "meteorological",
+    "observational",
+    "portal",
+    "probability",
+    "sapient",
+    "scp",
+    "sleep",
+    "species"
+  ],
+  "author": "Captain Kirby",
+  "created_at": "2022-07-26T15:07:35+00:00",
+  "updated_at": "2022-10-02T12:09:35+00:00",
+  "rating": 285,
+  "_site": "scp-wiki",
+  "_fullname": "scp-7100"
+}

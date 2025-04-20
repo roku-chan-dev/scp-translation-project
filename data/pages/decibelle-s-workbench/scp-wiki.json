@@ -1,0 +1,14 @@
+{
+  "title": "Decibelle's Workbench",
+  "content": "[[include :scp-wiki:theme:scp-trans-pride |trans-pride-logo= --] |trans-pride-footer= --]]]\n\n[[collapsible show=\"+ GAW Articles by Descending Rating\" hide=\"- GAW Articles by Descending Rating\" hideLocation=\"both\"]]\n[[module listPages tags=\"gamers-against-weed\" order=\"rating desc\" separate=\"no\" perPage=\"500\" prependLine=\"||||||||GAW||\"]]\n|| %%title_linked%% || %%rating%% || %%created_by%% || %%created_at%% ||\n[[/module]]\n[[/collapsible]]\n\n------\n\n[[collapsible show=\"+ Pages by Character Count\" hide=\"- Pages by Character Count\" hideLocation=\"both\"]]\n[[module listPages order=\"size desc\" perPage=\"50\" tags=\"scp tale hub goi-format -artwork -splash -admin -forum -guide -international -author\"]]\n%%title_linked%% ( %%size%% characters)\n[[/module]]\n[[/collapsible]]\n\n[[collapsible show=\" \" hide=\" \" hideLocation=\"both\"]]\n[[module listPages tags=\"scp -joke -in-rewrite -international -archived\" rating=\"<20\" order=\"rating desc desc\" created_at=\"< 2018.12\" separate=\"no\" perPage=\"50\"]]\n|| %%title_linked%% || %%rating%% || %%created_by%% || %%created_at%% ||\n[[/module]]\n[[/collapsible]]\n\n[[collapsible show=\" \" hide=\" \"]]\n3204\n1621\n4227\n[[/collapsible]]",
+  "tags": [
+    "_cc",
+    "workbench"
+  ],
+  "author": "Decibelles",
+  "created_at": "2016-03-08T01:31:05+00:00",
+  "updated_at": "2022-01-12T04:38:50+00:00",
+  "rating": 10,
+  "_site": "scp-wiki",
+  "_fullname": "decibelle-s-workbench"
+}

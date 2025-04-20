@@ -1,0 +1,22 @@
+{
+  "title": "SCP-6555",
+  "content": "[[include :scp-jp:theme:black-highlighter-theme]]\n[[include :scp-jp:theme:jakstyle]]\n[[module CSS]]\n.footnotes-footer {\ndisplay: none;\n}\n[[/module]]\n\n[[include :scp-jp:info:start]]\n**タイトル:** SCP-6555 - 潮流を動かしたもの\n**翻訳責任者:** [[*user Witherite]]\n**翻訳年:** 2021\n**原題/リンク:** [https://scp-wiki.wikidot.com/scp-6555 SCP-6555 - What Turned the Tides]\n**著作権者:** [[*user JakdragonX]], [[*user Ralliston]]\n**作成年:** 2021\n**初訳時参照リビジョン:** rev.34\n\n----\n\n[[=]]\n[[*user JakdragonX]]と[[*user Ralliston]]による共著\n\n**[https://scp-wiki.wikidot.com/jakdragonx-rage-collection JakdragonX's Authorpage]**\n\n**[http://scp-wiki.wikidot.com/ralliston-s-authorpage Ralliston's Authorpage]**\n[[/=]]\n\n[[include :scp-jp:info:end]]\n\n[[size 1%]]##transparent|.##[[/size]]\n\n[[include component:image-block name=http://scp-jp-storage.wdfiles.com/local--files/file%3A6370408-18-9uur/galaxy.jpg|caption=タキオンスキャナーによって撮影された、XEO 8537-Aが位置している銀河の写真。|width=350px]]\n\n**アイテム番号:** SCP-6555\n\n**オブジェクトクラス:** Safe\n\n**特別収容プロトコル:** 最も近い有人の植民地からの距離のため、SCP-6555は収容を必要としません。\n\n**説明:** SCP-6555は自由浮遊天体XEO 8537-A[[footnote]]付近にあるいかなる恒星の軌道にも乗っていないにもかかわらず、地表に高濃度のヘリウム3を擁している小型の岩石準惑星です。[[/footnote]]上の正体の不明な構造体の残骸を指します。深宇宙衛星が微弱な電磁気変動を検知した後、26,576 HEに発見され、SCP-6555は中心地から古代の緊急時のラジオ周波数を絶え間なく放送しています。\n\nSCP-6555の観測のためXEO 8537-Aの地表へ派遣された調査プローブでは、今のところ結論は出ていません。SCP-6555内部の探索では以下の結果が得られています。\n* SCP-6555の形状やレイアウトは、この構造体が過去のある時点で半モジュール式であったことを示唆しています。北西および東部の区画付近の歪んだ鋼鉄や壊れた合成化合物もまた探索中に注目され、重大な表面の衝撃を示しています。[[footnote]]XEO-8537-Aに関する利用可能な情報は、小惑星や惑星外からの頻繁な衝突の履歴を伝えていません。[[/footnote]]\n* SCP-6555の南部領域付近に位置する部屋15Aの内部には、綿や羊毛のクッション材、粘着物質、鋼鉄製のコイルばねで作られた一連の長方形の物体が全体的にまばらに置いてあります。\n* 部屋06にある水で満たされたプラスチック製の円形のコンテナなどの、他の正体の不明な物品もまたSCP-6555の中で発見されています。\n* SCP-6555の中にある換気、空調、他の原始的な装置は、建造物の内部はかつて適切に維持され、酸素が供給されていたことを示しています。\n* 古代の哺乳類生物とDNA構成がほぼ一致している多種多様なカルシウムの破片や靭帯が、SCP-6555の中央の送信機付近で発見されました。破片は最低でも数千年が経過しており、不自然に早く異常の可能性のある分解を示しています。\n\n**補遺6555-1:** SCP-6555の発見から数か月後、財団職員が放送の翻訳に成功し、結果として以下のメッセージになりました。\n\n[[div class=\"blockquote\"]]\n= 我々ハカツテ失ッタモノニ届コウトシテイル。潮流ヲ動カシ世界ヲ震撼サセタモノハ今ヤ我々ヲ引キ戻スダロウ。信念ヲ失ウナ。我々ハ[[[sotmhub|我々ノ帰リ道]]]ニココマデ近ヅイタコトハナイ。[[footnote]]訳注: 原文は全て大文字。[[/footnote]]\n[[/div]]\n\n加えて、探索中に数個の財団徽章の刻銘がSCP-6555の内部で観測されましたが、それら全てのさらなる調査はいまだ保留中です。\n\n[[collapsible show=\"+ 利用可能な衛星画像にアクセス\" hide=\"- 利用可能な衛星画像を閉じる\"]]\n[[include component:image-block\n    name=http://scp-jp-storage.wdfiles.com/local--files/file%3A6370408-19-q6hl/moon.png|\n    caption=XEO 8537-Aの地表上空から撮影されたSCP-6555の画像。|\n    align=center |\n    width=100%\n]]\n[[/collapsible]]\n\n[[footnoteblock]]",
+  "tags": [
+    "en",
+    "safe",
+    "scp",
+    "sotm",
+    "共著",
+    "地球外",
+    "構造",
+    "衛星",
+    "通信",
+    "金属"
+  ],
+  "author": "Witherite",
+  "created_at": "2021-08-22T00:35:46+00:00",
+  "updated_at": "2024-04-20T14:18:32+00:00",
+  "rating": 17,
+  "_site": "scp-jp",
+  "_fullname": "scp-6555"
+}

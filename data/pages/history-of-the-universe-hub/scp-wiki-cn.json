@@ -1,0 +1,14 @@
+{
+  "title": "宇宙史中心页",
+  "content": "[[div class=\"blockquote\" style=\"border-radius: 10px; margin: 10px\"]]\n[[module ListUsers users=\".\"]]\n欢迎你，%%title%% ！\n[[/module]]\n这篇文章是SCP维基的编年史，上溯最早创立之日直到今朝。我撰写这篇文章，是为了让我们能够记住自己曾经身处何处，以及我们的历史。人们需要一个简单易懂而有意思的方式知晓我们来源何地，如今又将走向何方。\n\n如果你看见任何拼写、语法、或句法错误，请自由地修改它们。如果你认为你看见了一些不符合历史的东西，请给我发送私信解释，我就会尽早修改或做出解释。\n\n我希望你能觉得这里的信息不仅有教育性而且有启发作用，并且能在阅读过程中知道一些过去未曾知晓的东西。\n[[/div]]\n\n[[div class=\"blockquote\" style=\"border-radius: 10px; margin: 10px\"]]\n[[=]]\n+ SCP基金会社群历史\n++ [[[History of the Universe Part One | 宇宙史第一段]]]：\n,,//__\"基石\"__ 2007-2008// - by [[*user RJB_R]] 和 [[*user Modern_Erasmus]],,\n++ [[[History of the Universe Part Two | 宇宙史第二段]]]：\n,,//__\"从欢乐基金会到晦暗风格\"__// 2009 - by [[*user RJB_R]],,\n++ [[[History of the Universe Part Three | 宇宙史第三段]]]：\n,,//__\"成长之痛\"__// 2010 - by [[*user RJB_R]],,\n++ [[[History of the Universe Part Four | 宇宙史第四段]]]：\n,,//__\"成熟期\"__// 2011 - by [[*user RJB_R]],,\n++ [[[History of the Universe Part Five | 宇宙史第五段]]]：\n,,//__\"在收容失效时代中\"__// 2012 - by [[*user RJB_R]] 和 [[*user Modern_Erasmus]],,\n[[/=]]\n[[/div]]\n[[div class=\"blockquote\" style=\"border-radius: 10px; margin: 10px\"]]\n++++ 官方附加/补充材料著作\n++++ **[[[Supplementary Material | 补充材料]]]** - by [[*user RJB_R]]\n++++ **[[[A Brief History Of SCP-RU | SCP-RU简史]]]** - by [[*user RJB_R]]\n++++ **[[[A Brief History Of SCP-KO| SCP-KO简史]]]** - by [[*user RJB_R]]\n++++ **[[[about-the-foundation-in-germany|德国分部简史]]]** - by [[*user Dr_Grom]]\n++++ **[[[a-history-of-object-classes|]]]** - by [[*user cooldude971]]\n++++ **[[[The SCP Foundation on 4chan and EditThis ]]]** - by [[*user cooldude971]]\n++++ **[[[An Interview With \"The Administrator\" | \"The Administrator\"专访]]]** - by [[*user RJB_R]]\n++++ **[[[A Brief History Of Foundation RP | 基金会角色扮演简史]]]** - by [[*user RJB_R]]\n++++ **[http://www.scp-wiki.net/scp-calendar SCP年表]** - by 站务@@ @@ **ADD：[[[scp-Calendar|SCP-CN年表]]]**\n++++ **[[[http://www.scp-wiki.net/tale-calendar|故事年表]]]** - by 站务\n++++ **[[[http://www.scp-wiki.net/page-calendar|页面年表]]]** - by 站务\n[[/div]]\n\n[[include component:license-box\n|author=匿名]]\n[[include component:license-box-end]]",
+  "tags": [
+    "中心",
+    "文章"
+  ],
+  "author": "MScarlet",
+  "created_at": "2014-03-18T11:38:13+00:00",
+  "updated_at": "2025-02-16T17:00:40+00:00",
+  "rating": 53,
+  "_site": "scp-wiki-cn",
+  "_fullname": "history-of-the-universe-hub"
+}

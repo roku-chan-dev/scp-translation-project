@@ -1,0 +1,20 @@
+{
+  "title": "SCP-8591",
+  "content": "=====\n[[include :scp-wiki:component:preview\ntext=PlaguePJP: XLIX\n]]\n=====\n\n[[include :scp-wiki:theme:black-highlighter-theme]]\n[[include :scp-wiki:theme:minimalist-bhl]]\n[[include :scp-wiki:component:toggle-sidebar-bhl]]\n[[include :scp-wiki:component:acs-animation]]\n[[include :scp-wiki:component:fade-in speed=4]]\n[[module CSS]]\n:root {\n     --header-title: \"Department of Unreality\";\n     --header-subtitle: \"Making the Unreal a ㅤㅤㅤㅤ\";\n     --lgurl: url('http://scp-wiki.wikidot.com/local--files/unreality-hub/Unreality%20Header%20Logo.svg');\n}\n\n@media only screen and (max-width: 26.5625rem) {\n    :root {\n        --header-title: \"Unreality\";\n    }\n}\n\n\n.info-container{\n--barColour: #2c2427;\n--linkColour: #FFF;\n}\n\n#page-content hr {\nborder-top: none;\nheight: .05em;\nbackground: #454545;\n}\n\n#page-content > .collapsible-block {\n    display: block;\n    text-align: center;\n    padding: .8em;\n    background-color: #e3e3e3;\n    border-top: 0.125rem dashed #b5b5b5;\n    border-bottom: 0.125rem dashed #b5b5b5;\n}\n\n#page-content > .collapsible-block .collapsible-block-content {\n    text-align: left;\n}\n\n.interview{\n    border:solid 2px #d4d4d4;\n    background:#F5F5F5;\n    width:90%;\n    padding:1px 15px;\n    margin: 10px auto;\n}\n\n.file{\n    border:none;\n    background:#F5F5F5;\n    width:90%;\n    padding:1px 15px;\n    margin: 10px auto;\n}\n\n.addendum{\n    border:solid 1px #5e5e5e;\n    background:#ffffff;\n    width:90%;\n    padding:1px 15px;\n    margin: 10px auto;\n}\n\n.testfile{\n    border:solid 3px #643434;\n    background:#f7efef;\n    width:90%;\n    padding:1px 15px;\n    margin: 10px auto;\n}\n\n.testvideo{\n    background:#e9d5d5;\n    width:90%;\n    padding:1px 15px;\n    margin: 10px auto;\n}\n\n\n#page-title{display:none}\n\n[[/module]]\n\n[[>]]\n[[module Rate]]\n[[/>]]\n\n[[include :scp-wiki:component:info-ayers\n|lang=en\n|page=scp-8591\n|authorPage=https://scp-wiki.wikidot.com/plaguepjp\n|comments= \n= **SCP-8591** — //Alex Thorley Doesn't Get Away With It//\n]]\n\n\n**Item #:** SCP-8591\n\n**Object Class:** Anomalous\n\n**Special Containment Procedures:** N/A\n\n[[div class=\"scp-image-block block-right\" style=\"width:10%;\"]]\n[[image https://scp-wiki.wdfiles.com/local--files/scp-8591/ellingfant.png style=\"width:40%;\" link=#]]\n[[div class=\"scp-image-caption\" style=\"width:100%;\"]]\nSCP-8591.\n[[/div]]\n[[/div]]\n\n**Description:** SCP-8591 was an adult African Elephant that sporadically appeared and disappeared in Researcher Alex Thorley’s office.\n\nAfter the publishing of this documentation, SCP-8591 vanished and has not reappeared in over a year.\n\n[[div class=\"blockquote\"]]\n= **TRANSCRIPT**\n------\n**Thorley:** //(On the phone)// It’s here again.\n\n//[…]//\n\n**Thorley:** Maybe it’ll go away.\n\n//[…]//\n\n**Thorley:** I didn't do //anything.//\n\n\n//[…]//\n\n**Thorley:** I didn't do anything wrong.\n\n//[…]//\n\n**Thorley:** Fine.\n\n//(Thorley enters their office. There’s an elephant inside.)//\n\n**Thorley:** ...I’m addressing you.\n[[/div]]\n\nRsr. Thorley has been appropriately reprimanded for their undisclosed misconduct prior to this interaction.\n\n[[footnoteblock]]\n----\n[[div class=\"footer-wikiwalk-nav\"]]\n[[=]]\n<< [[[SCP-8590]]] | SCP-8591 | [[[SCP-8592]]] >>\n[[/=]]\n[[/div]]\n----\n[[include component:wikimodule |ratings= --]]]\n\n[[include :scp-wiki:component:license-box]]\n> **Filename:** ellingfant.png\n> **License:** CC BY 2.0\n\nThis image is a composite of:\n\n> **Name:** Elephant\n> **Author:** gudi&cris\n> **License:** CC BY 2.0\n> **Source:** [https://openverse.org/image/0ba30b8d-04e1-4485-aa98-f109e715744a?q=elephant Openverse]\n[[include :scp-wiki:component:license-box-end]]",
+  "tags": [
+    "_cc",
+    "_licensebox",
+    "alex-thorley",
+    "animal",
+    "anomalous-event",
+    "esoteric-class",
+    "scp",
+    "unreality-dept"
+  ],
+  "author": "PlaguePJP",
+  "created_at": "2024-04-03T18:00:56+00:00",
+  "updated_at": "2025-01-07T11:32:42+00:00",
+  "rating": 138,
+  "_site": "scp-wiki",
+  "_fullname": "scp-8591"
+}

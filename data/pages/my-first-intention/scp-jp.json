@@ -1,0 +1,16 @@
+{
+  "title": "忘れゆく人に捧ぐ詩",
+  "content": "[[module CSS arguments...]]\n#page-title {\n  display: none;\n}\n.fake_title {\n  font-size: 200%;\n  color: #990011;\n  padding: 0 0 0.25em;\n  margin: 0 0 0.6em;\n  border-bottom: 1px solid #bbb;\n  font-weight: normal;\n}\n.fake_title p {\n  padding: 0;\n  margin: 0;\n}\n[[/module]]\n\n[[module css]]\na {\n  color: black;\n}\n[[/module]]\n\n= [[[fennecist-s-proposal|ある文書]]]は宣言した。\n\n= 「愛を決して忘れません」\n\n= ・\n\n= ・\n\n= ・\n\n= 忘れないなど、出来やしないのに。\n\n[[div class=\"fake_title\"]]\n忘れゆく人に捧ぐ詩\n[[/div]]\n\n[[include credit:start]]\n**タイトル:** 忘れゆく人に捧ぐ詩\n**著者:** ©︎meshiochislash(現: [[*user machikawa]] )\n**作成年:** 2023\n[[include credit:end]]\n[http://scp-jp.wikidot.com/document-recovered-from-the-marianas-trench 終わる世界]で誰かが綴った。\n\n= 我々を忘れないでくれ、と。\n　\n\n[[[scp-3000|ウツボ]]]の元で博士は言った。\n\n= 最後には忘れ去られるのだと。\n　\n\n[[[scp-8900-ex|青い空]]]は雄弁に告げる。\n\n= 我等が一度忘れたことを。\n　\n\n[[[scp-544-jp|放送室の少女]]]は泣いた。\n\n= 忘却を止められずに泣いた。\n　\n\n[[[scp-055|不明な記録]]]は理解を拒んだ。\n\n= 理解したとて忘れるだろう。\n　\n\n[[[antimemetics-division-hub|最後の部門]]]は冷たく告げた。\n\n= 記憶は頼るに値しないと。\n　\n\n[[[notyetdr-nowherenowhereyesterday|記録官]]]は明日を信じた。\n\n= けれど昨日も思い出せない。\n　\n\n[http://scp-jp.wikidot.com/ 財団]は長く頼りにしていた。\n\n= 異常な全てを忘れる術を。\n\n　\n　\n\n彼等は我らに伝えてくれた。\n\n　\n　\n\n= 全ては[[[scp-3309|薄れ、消え去っていく]]]。\n\n　\n　\n\n= 忘れないことを誓うのならば。\n　\n\nそれは無知で自分勝手な──\n\n[[>]]\n──傲慢、でしかない。\n[[/>]]\n　\n= それでも、\n\n　\n　\n\n[[[making-2000-hub|終わる世界]]]で誰かが叫ぶ。\n\n= 「忘れられて、たまるものか」と。\n　\n\n{{[[[scp-1281|さきがけ]]]^^ハービンジャー^^}}は受け継ぎ飛び立つ。\n\n= さいごを忘れさせないように。\n　\n\n青い空を見上げて返す。\n\n= [[[scp-1607-jp|忘れきって]]]いるわけではないと。\n　\n\n[http://scp-jp.wikidot.com/system:page-tags/tag/%E9%85%A9%E9%85%8A%E8%A1%97 酩酊の民]はただ愛をこめて。\n\n= 忘れ、行き着けば、受け入れるだろう。\n　\n\n[[[scp-5000|ピエトロ・ウィルソン]]]はただ記録する。\n\n= 確かなことを覚えていなくても。\n　\n\n[[[champions-of-nothing|反ミーム部門]]]はそれでも在った。\n\n= 忘れられても負けずにあれた。\n　\n[[[the-posthumous-writings|ガラスペン]]]はインクを遺す。\n\n= 忘れられると知るからこそ。\n　\n\n[http://www.scp-wiki.net/ 僕等]はずっと歩み続ける。\n\n= 世界の全てを描き続ける。\n\n　\n　\n\n[[[scp-series|彼等]]]もいつかは忘れ去られる。\n　\n\n= それでも確かに力をくれた。\n　\n\n= だから。\n\n　\n　\n\n今ここでこの詩を捧ぐ。\n\n= 忘れないなど出来やしない。\n　\n\n= 忘れないなど僕等が誓えば、\n　\n\n= 自分勝手な傲慢だ。\n　\n\n= けれど愛したい傲慢だ。\n　\n\n= [http://scp-jp.wikidot.com/scp-1682-jp 忘れられたい人]もいる。\n　\n\n= [http://scp-jp.wikidot.com/scp-612-jp 忘れた方がいいこと]もある\n　\n\n= 忘れないなんて綺麗事だ。\n　\n\n= だけど僕等は忘れたくない。\n　\n\n= それでいいと胸を張れ。\n　\n\n= [[[scp-1699-jp|去り行く全ての人達]]]と、\n　\n\n= [[[ode-to-the-unknown-author|既に僕等が忘れた人達]]]、\n　\n\n= そんな全てを「忘れない」と、\n　\n\n= 根拠などなくそう誓いたい、\n　\n\n= そんな思いを抱えた全ての、\n　\n\n[[>]]\n忘れゆく人に捧ぐ詩。\n[[/>]]\n[[include component:jstyles]]",
+  "tags": [
+    "jp",
+    "tale",
+    "ショート2023",
+    "詩的文学"
+  ],
+  "author": "machikawa",
+  "created_at": "2023-05-13T10:53:34+00:00",
+  "updated_at": "2024-10-20T15:05:58+00:00",
+  "rating": 73,
+  "_site": "scp-jp",
+  "_fullname": "my-first-intention"
+}

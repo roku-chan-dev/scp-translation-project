@@ -1,0 +1,17 @@
+{
+  "title": "SCP-5606",
+  "content": "[[include :scp-wiki:theme:magnus-web-format]]\n[[include :scp-wiki-cn:component:black-highlighter-theme-dev]]\n\n[[div class=\"addenda-header\"]]\n[[include :scp-wiki:component:classified-bar-woed\n|lv=1\n|item=5606\n|oc=Safe\n|lang=CN\n|trans-level=级\n|trans-classified=机密\n]]\n[[/div]]\n[[div class=\"addenda-header\"]]\n++++ **__特殊收容措施__**\nSCP-5606被收容于Site-51的生物存储锁柜-17内。在接受每周医疗评估后，将相应校准SCP-5606的输液泵。\n\n所有关于Gregori Talmov、Katrina Pernova或Sicilia Pernova的信息将被提交至Site-51的POI寻找部。\n[[/div]]\n[[div class=\"addenda-header\"]]\n++++ **__描述__**\nSCP-5606是一完全由人类组织构成的球形生物实体，直径32.5厘米，深12厘米。虽不能移动，SCP-5606每隔30秒会发出一声“嘀嗒”。初步分析显示有大量的奇术残余存在，表明SCP-5606是通过血肉术仪式被创造。更多SCP-5606相关信息见下：\n\n[[collapsible show=\"■ SCP-5606医学分析 ■\" hide=\"□ SCP-5606医学分析 □\"]]\n**日期：**2020/01/28\n\n**对象：**SCP-5606\n\n**操作员：**Dr. William Strauss\n------\n**性别：**不适用\n**体重：**18.6千克\n**身高：**32.5厘米\n**BMI：**2.1\n**血型：**全部\n------\n**外部检查**\n该生物的前部分由类似人类阴囊处的皮肤组成。在其中部有一类似口的腔体；其中没有牙齿，但有一根舌头。12根均匀排布的胸椎骨从前侧边沿向外突出。其皮肤紧绷使得皮下骨骼可见。在腔体的两侧各有一可抓握的小手，分别长5.1厘米和3.4厘米。SCP-5606的后部有一巨大囊体，内有该生物的肺、心脏、以及大脑。\n\n**内部检查：**\nX光和MRI分析SCP-5606后发现，它的全部骨骼都是人类锁骨与骨盆骨。这些骨骼的尺寸表明它们来自不同年龄和性别的青春期前儿童。SCP-5606有三颗粗糙结合为一体且具功能的心脏。它还有一对肺脏，其中左肺已退化。还有一共17个人类扁桃体存在，以及2个下丘脑。SCP-5606不具有神经系统，也没有任何感知器官。\n\n**毒理**\n\nSCP-5606的毒理学扫描表明有高浓度的未成熟干细胞、雌激素以及孕酮。DNA分析得到的结果多变且无法辨识。\n\n**预后**\n因其不具备能消化食物或水的器官，对象必须接受静脉注射养分和水分。即便如此，SCP-5606也不太可能长期维持生存。\n[[=]]\n[[html]]\n<img src=\"http://www.scp-wiki.net/local--files/scp-5108/medical\" style=\"height:75px; width:75px; padding-left: 0%;\">\n[[/html]]\n[[size smaller]]**医学部**[[/size]]\n[[/=]]\n[[/collapsible]]\n[[/div]]\n[[div class=\"addenda-header\"]]\n++++ **__发现__**\nSCP-5606在Timothy Perry联系湖林警察局称收到可疑包裹后被发现。后续警方报告称发现一奇怪生物，基金会获得警报并派出了项目寻获团队。在成功取得该异常后，在盒内发现附有下列文件：\n\n[[collapsible show=\"■ 附件 ■\" hide=\"□ 附件 □\"]]\n> 至Gregori，\n> \n> 是时候你让我当奶奶了。安排这段婚姻可是有理由的。毕竟，一个女人的生物钟只能响那么久。\n> \n> 很多爱，Sicilia\n> \n[[/collapsible]]\n\nMr. Perry隔壁的房屋由Gregori Patlov所有，之后发现其为Gregori Talmov的化名，已知此人隶属于[[[scp-2408|GoI-0432（“猎手黑屋”）]]]。Mr. Talmov近期与GOI-0432高阶成员Sicilia Pernova的女儿Katrina Pernova结婚。各嫌疑人的下落当前不明。\n[[/div]]\n\n[[footnoteblock]]\n\n[[div class=\"footer-wikiwalk-nav\"]]\n[[=]]\n<< [[[SCP-5605]]] | SCP-5606 | [[[SCP-5607]]] >>\n[[/=]]\n[[/div]]",
+  "tags": [
+    "safe",
+    "scp",
+    "人造物品",
+    "欲肉教",
+    "生物性"
+  ],
+  "author": "ashausesall",
+  "created_at": "2020-05-28T10:50:38+00:00",
+  "updated_at": "2024-05-14T21:14:14+00:00",
+  "rating": 1,
+  "_site": "scp-wiki-cn",
+  "_fullname": "scp-5606"
+}

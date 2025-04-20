@@ -1,0 +1,19 @@
+{
+  "title": "SCP-1887",
+  "content": "[[include info:start]]\n**SCP-1887:** 양자 수리공\n**저자:** [[*user salman-corbette]]          \n**원작:** http://www.scp-wiki.net/scp-1887\n**역자:** [[*user dr-devan]]\n-----\n> **파일명:** 1887-2-new.jpg\n> **출처:** [https://commons.wikimedia.org/wiki/File:Tabor_CZ_aerial_old_town_from_north_B1.jpg Wikimedia Commons]\n> **제작자:** Rudolf Kukačka (Ruda)\n> **라이센스:** 퍼블릭 도메인\n\n> **파일명:** 1887-3-new.jpg\n> **출처:** [https://www.flickr.com/photos/vs/172603855/ Flickr]\n> **제작자:** fieldscape\n> **라이센스:** CC BY-SA 2.0\n[[include info:end]]\n\n**일련번호:** SCP-1887\n\n**등급:** 케테르\n\n**특수 격리 절차:** SCP-1887과 SCP-1887-1이 발견되었을때 파괴하는 시스템은 없다. 격리는 현재 SCP-1887의 성장을 억제하는 것에 집중하고있다. SCP-1887은 자연적으로 만들어진 돌그릇에 담아 제17구역의 격리함 1887에 보관한다. 이 격리함은 SCP-1887이 그릇을 빠져나와 성장하는 것을 막기 위해 잔디 위에 일렬로 세워놓는다.\n\n**설명:** SCP-1887은 분자 유기체 덩어리(SCP-1887-1로 분류됨)이며, 성질은 완전히 밝혀지지 않았다. 작은 크기에도, SCP-1887-1의 요소는 행동과 확실한 유정성[[footnote]] 역주: sentience; 생물이 감각, 감정을 갖추고 있다. [[/footnote]]으로보아 매우 복잡할 것으로 추정된다.\n\nSCP-1887이 인공적인 구조물과 접하게되면 알려지지 않은 과정을 통해 건축물을 양자 단위로 분해하기 시작한다. 핵분열로 인한 에너지의 방출은 SCP-1887이 흡수한다.[[footnote]] 이 원소는 철보다 가볍고, SCP-1887-1의 구성 원자에서의 아원자 입자의 융합으로 에너지 방출이 일어난다. [[/footnote]] 이 흡수는 완벽하지 않고, 자외선 범위와 그 이하에서의 비전리성 방사선의 방출이 일반적이며, 이로인해 SCP-1887은 활성화시에 독특한 붉은색을 내게된다. SCP-1887의 구성 물질 범위가 약 30억개 정도가 되면 덩어리는 반 정도로 분열하여 둘다 성장을 계속한다. 일반적으로 반쪽 하나는 이전 요소에게 먹히기 전에 몇 미터 이동을 한다.\n\n인공적인 구조물과 접촉하지 못할 경우, SCP-1887은 짐작컨대 동면 상태로 남아있게된다.\n\n**부록 1887-1:** SCP-1887은 [편집됨]에서 재단 요원에게 발견되었다. 작은 크기에도 [데이터 말소].\n\n[[collapsible show=\"[편집됨]에서의 SCP-1887의 효과\" hide=\"접기\"]]\n[[div]]\n[[include component:image-block name=http://scp-wiki.wdfiles.com/local--files/scp-1887/1887-2-new.jpg|caption=[편집됨], 1998|width=700px|align=center]]\n[[include component:image-block name=http://scp-wiki.wdfiles.com/local--files/scp-1887/1887-3-new.jpg|caption=[편집됨], 2011|width=700px|align=center]]\n[[/div]]\n[[/collapsible]]\n\n**부록 1887-2:** SCP-1887이 해체하는 도중 \"노래하는\" 것이 기록되었다. 기록된 소리의 최대 크기가 56 데시벨 범위지만, \"노래하는\" 음성은 인간 남성 노인의 것이었다. 가사는 아래와 같다.\n\n> 서서히 부스러뜨리자 / 매일 매일,\n> 고쳐야 할 세상이 있어,\n> 조금씩 조금씩 / 쉬운 일이야,\n> 이 오래된 지구의 보살핌을 되돌리는 것은\n> \n> 우린 멈추지 않아 / 우린 쓰러지지 않아,\n> 너희들이 훔쳐낸 것을 고치기 전까지,\n> 조금씩 조금씩 / 쉬운 일이야,\n> 세상을 아름답게 만들어가는 것은\n> \n> 도시가 이제 없다는건 / 찌푸릴 의미도 없다는 것,\n> 모두 치워버릴거야,\n> 조금씩 조금씩 / 쉬운 일이야,\n> 너희들을 모두 동물로 만드는 것은\n\n[[module CSS show=\"false\"]]\n#page-content div table {\nwidth:700px\\9;\n}\n[[/module]]",
+  "tags": [
+    "en",
+    "scp",
+    "생물",
+    "자가복제",
+    "전염성",
+    "청각",
+    "케테르"
+  ],
+  "author": "Dr Devan",
+  "created_at": "2013-11-21T06:45:43+00:00",
+  "updated_at": "2024-12-05T23:37:07+00:00",
+  "rating": 1,
+  "_site": "scpko",
+  "_fullname": "scp-1887"
+}

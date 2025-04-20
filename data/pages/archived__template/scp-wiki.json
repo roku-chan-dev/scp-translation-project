@@ -1,0 +1,11 @@
+{
+  "title": "_template",
+  "content": "[[module CSS]]\n.archived-top-box {\n  background-color: #e3e3e3;\n  border: 2px solid #a1a1a1;\n  border-radius: 2px;\n  width: 50%;\n  margin: 0 auto 2em;\n  text-align: center;\n  padding: 10px;\n}\n\n.archived-top-box h1 {\n  color: #333;\n}\n\n@media (max-width: 479px) {\n  .archived-top-box {\n    width: auto;\n    margin: 0 0 2em;\n  }\n}\n@media (min-width: 480px) and (max-width: 580px) {\n  .archived-top-box {\n    width: auto;\n    margin: 0 0.5em 2em;\n  }\n}\n[[/module]]\n\n[[div class=\"archived-top-box\"]]\n\n+ THIS PAGE IS ARCHIVED\n\nThe information on this page is not up-to-date, and/or has been replaced by other content.\n\nIt is preserved for historical purposes.\n\n[[size 90%]]//See [[[Archived SCPs | Archived Pages]]] for a detailed explanation of archival.//[[/size]]\n\n[[/div]]\n\n%%content%%",
+  "tags": [],
+  "author": "aismallard",
+  "created_at": "2020-11-12T16:25:43+00:00",
+  "updated_at": "2021-07-28T22:46:55+00:00",
+  "rating": 0,
+  "_site": "scp-wiki",
+  "_fullname": "archived:_template"
+}

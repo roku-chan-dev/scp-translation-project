@@ -1,0 +1,14 @@
+{
+  "title": "Outer Osaka Cityscape",
+  "content": "[[module css]]\n.oh__img {\ndisplay:none;\n}\n[[/module]]\n[[include :scp-jp:theme:basalt]]\n[[module CSS]]\n:root {\n --logo: url(http://scp-jp-storage.wikidot.com/local--files/file:6059604-180-pvz5/oo_red.svg);\n --title: \"O/O\";\n --subtitle: \"Outer Osaka\";\n}\n.logo {\n  filter: brightness(0);\n}\n#side-bar::before {\n    filter: brightness(0);\n}\n[[/module]]\n[[include credit:start]]\n**題名:** Outer Osaka Cityscape\n**著者:** [[*user Ryu JP]]\n**作成:** 2024年\n[[include credit:end]]\n[[image http://scp-jp-storage.wikidot.com/local--files/file:2428007-153-bq2f/Outer_Osaka_Cityscape.png width=\"100%\"]]\n\n> = 2026-09-14 22:42:04 [[[outerosaka-hub|O/O]]] Namba Ward",
+  "tags": [
+    "jp",
+    "アートワーク"
+  ],
+  "author": "Ryu JP",
+  "created_at": "2024-07-24T09:50:10+00:00",
+  "updated_at": "2024-07-24T09:50:29+00:00",
+  "rating": 69,
+  "_site": "scp-jp",
+  "_fullname": "outer-osaka-cityscape"
+}

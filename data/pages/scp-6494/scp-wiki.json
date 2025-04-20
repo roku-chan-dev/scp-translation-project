@@ -1,0 +1,21 @@
+{
+  "title": "SCP-6494",
+  "content": "[[include :scp-wiki:info:start]]\n**SCP-6494:** {{Weight of Pressure}}\n**Author:** [[*user CompleteIndie]]\n\n**Description:** SCP-6494 is not cut out for this.\n\n⚠️ **Content warning:** This article contains a depiction of suicide.\n[[include :scp-wiki:info:end]]\n\n[[include :scp-wiki:component:info-cw]]\n\n[[module ListPages  category=\"fragment\" parent=\".\" limit=\"1\" order=\"name\" offset=\"@URL|0\"]]\n%%content%%\n[[/module]]\n\n@@ @@\n\n[[=]]\n\n[[include :scp-wiki:component:wikimodule |ratings= --]]]\n\n@@ @@\n\n[[div class=\"footer-wikiwalk-nav\"]]\n<< [[[SCP-6493]]] | SCP-6494 | [[[SCP-6495]]] >>\n[[/div]]\n\n[[include :scp-wiki:component:license-box]]\n[[include :scp-wiki:component:license-box-end]]\n\n[[/=]]",
+  "tags": [
+    "_licensebox",
+    "_listpages",
+    "document",
+    "media",
+    "memetic",
+    "meta",
+    "mind-affecting",
+    "neutralized",
+    "scp"
+  ],
+  "author": "CompleteIndie",
+  "created_at": "2022-04-15T21:55:15+00:00",
+  "updated_at": "2024-05-16T10:42:08+00:00",
+  "rating": 24,
+  "_site": "scp-wiki",
+  "_fullname": "scp-6494"
+}

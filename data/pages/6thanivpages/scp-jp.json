@@ -1,0 +1,15 @@
+{
+  "title": "6周年コンテスト・ハブ",
+  "content": "[[module css]]\n\n.contest{\n   font-weight: bold;\n   font-size: 180%;\n   padding-top: 40px;\n   padding-bottom: 40px;\n}\n\n.presenter{\n   font-weight: bold;\n   font-size: 120%;\n}\n\n[[/module]]\n\n[[span style=\"display: inline-block; background-color:#203864\";]]\n[[=image 6th-hub_2.png]]\n[[/span]]\n\n[[=]]\n[[include :topia:jp-recycle19logo-spin]]\n**Round 1**\n[[span class=\"contest\"]][[[*recyclecontest19|リサイクルコンテスト2019]]][[/span]]\n\n[[span class=\"presenter\"]]presented by: 6周年企画委員会[[/span]]\n**5/4 ~ 7/1**\n\n**優勝**\n[[[*SCP-1598-JP|]]] -  ほら、いつものアレやれよ。\nby [[*user yzkrt]]\n\n------\n\n[[include :topia:jp-1200-logo]]\n**Round 2**\n[[span class=\"contest\"]][[[*1200-taletaletale-hub|1200字掌編企画2019]]][[/span]]\n\n[[span class=\"presenter\"]]presented by: [[*user boatOB]] + 6周年企画委員会[[/span]]\n**6/24〜7/15**\n\n**A部門グランプリ**\n[[[*dclass-search|Dクラス職員簡易検索システム]]]\nby [[*user amamiel]]\n\n**B部門グランプリ**\n[[[*shock-in-tanakasensei|Shock in 田中先生]]]\nby [[*user izhaya]]\n\n------\n\n[[=image mucon.png link=\"mucon19\"]]\n**Round 3**\n[[span class=\"contest\"]][[[*mucon19|無のコンテスト19]]][[/span]]\n\n[[span class=\"presenter\"]]presented by: 6周年企画委員会[[/span]]\n**8/1 ~ 9/15**\n\n**SCP部門**\n\n**虚無賞**\n[[[*SCP-1645-JP|]]] - 祝・██町交通死亡ゼロ記録9999日達成\nby [[*user aobasity17852]]\n\n**空賞**\n[[[*okaka-onigiri-s-proposal-ii|Okaka_Onigiriの提言II - 隔絶]]]\nby [[*user Okaka_Onigiri]]\n\n**Tale部門**\n[[[*notyetdr-nowherenowhereyesterday|]]]\nby [[*user Dr_Knotty]]\n\n**GoIフォーマット部門**\n[[[*collected-item-no0914|]]]\nby [[*user shirasutaro-]]\n\n------\n\n[[=image ジャムコン2019-JP.jpg link=\"72-hour-jam-contest-jp-2019\"]]\n**Round 4**\n[[span class=\"contest\"]][[[*72-hour-jam-contest-jp-2019|72時間ジャムコンテストJP-2019]]][[/span]]\n\n[[span class=\"presenter\"]]presented by: [[*user AMADAI]] + 6周年企画委員会[[/span]]\n**11/2 ~ 11/18**\n\n**最優秀賞**\n[[[*SCP-1595-JP|]]] - プレゼン及びターゲッティング不足\nby [[*user kyougoku08]]\n------\n\n[[=image 2000-jp-banner.png link=\"scp2000jp-contest-hub\"]]\n**Round FINAL**\n[[span class=\"contest\"]][[[*scp2000jp-contest-hub|SCP-2000-JPコンテスト]]][[/span]]\n\n[[span class=\"presenter\"]]presented by: SCP-2000-JPコンテスト運営委員会 + 6周年企画委員会[[/span]]\n**1/1 ~ 2/15**\n\n**優勝**\n[[[*SCP-2000-JP|]]] - 伝書使\nby [[*user WagnasCousin]], [[*user FeS_ryuukatetu]], [[*user furabbit]]\n\n[[/=]]\n[[footnoteblock]]",
+  "tags": [
+    "jp",
+    "コンテスト",
+    "ハブ"
+  ],
+  "author": "seafield13",
+  "created_at": "2020-02-13T22:34:47+00:00",
+  "updated_at": "2022-07-23T18:46:40+00:00",
+  "rating": 13,
+  "_site": "scp-jp",
+  "_fullname": "6thanivpages"
+}

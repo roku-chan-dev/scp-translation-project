@@ -1,0 +1,26 @@
+{
+  "title": "SCP-5763",
+  "content": "[[include :scp-wiki:info:start]]\n**SCP-5763:** I dreamt I was a butterfly\n**Author:** [[*user CompleteIndie]]\n**Written for DeptCon2022.**\n\n//The ramblings of the architect can become clear. Do you wish to be enlightened?//\n[[include :scp-wiki:info:end]]\n\n[[module ListPages  category=\"fragment\" parent=\".\" limit=\"1\" order=\"name\" offset=\"@URL|0\"]]\n%%content%%\n[[/module]]\n\n[!-- https://scp-wiki.wikidot.com/fragment:scp-5763-1 --]\n[!-- https://scp-wiki.wikidot.com/fragment:scp-5763-2 --]\n\n@@ @@\n\n[[=]]\n\n[[include :scp-wiki:component:wikimodule |ratings= --]]]\n\n[[div class=\"footer-wikiwalk-nav\"]]\n<< [[[SCP-5762]]] | SCP-5763 | [[[SCP-5764]]] >>\n[[/div]]\n\n[[include :scp-wiki:component:license-box]]\n[[include :scp-wiki:component:license-box-end]]\n\n[[/=]]",
+  "tags": [
+    "_licensebox",
+    "_listpages",
+    "auditory",
+    "chemical",
+    "departmentcon2022",
+    "foundation-made",
+    "hallucination",
+    "meta",
+    "mind-affecting",
+    "scp",
+    "sleep",
+    "surrealistics-dept",
+    "thaumiel",
+    "visual"
+  ],
+  "author": "CompleteIndie",
+  "created_at": "2022-03-09T02:15:30+00:00",
+  "updated_at": "2024-04-02T22:18:58+00:00",
+  "rating": 75,
+  "_site": "scp-wiki",
+  "_fullname": "scp-5763"
+}

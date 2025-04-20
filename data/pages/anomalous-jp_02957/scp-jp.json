@@ -1,0 +1,14 @@
+{
+  "title": "02957",
+  "content": "content: \"**説明:** ##blue|当該アノマリーは倫理委員会の検閲により一部内容が改竄されています。クリックまたはタップして実際の報告書を読んでください。なおこの文章及び実際の報告書は██研究員が使用する機器には表示されません。##\\n[[module css]]\\n.change-sentence {\\ndisplay: inline-block;\\n_display: inline;\\n}\\n.change-sentence .collapsible-block-link {\\ntext-decoration: none;\\ncolor: #333;\\ndisplay: inline-block;\\n_display: inline;\\n}\\n[[/module]]\\n[[div class=\\\"change-sentence\\\"]]\\n[[collapsible show=\\\"｢いってきます｣と言うと｢いってらっしゃい｣と返し、｢ただいま｣と言うと｢おかえりなさい｣と返すセキセイインコ(Melopsittacus undulatus) \\\" hide=\\\"特定の対象から対象の視覚/聴覚/嗅覚/触覚を操作することで認識されないようにできる20代日本人男性。最大5個体の生物に対して能力の行使が可能である。\\\"]][[/collapsible]]\\n[[/div]]\\n**回収日:** 20██/██/██\\n**回収場所:** ██研究員の自室。██研究員の自室でのパーティのために複数の財団職員が訪れた際に発見しました。\\n**現状:** \\n[[module css]]\\n.change-sentence {\\ndisplay: inline-block;\\n_display: inline;\\n}\\n.change-sentence .collapsible-block-link {\\ntext-decoration: none;\\ncolor: #333;\\ndisplay: inline-block;\\n_display: inline;\\n}\\n[[/module]]\\n[[div class=\\\"change-sentence\\\"]]\\n[[collapsible show=\\\"現在は██研究員の自室にて経過観察中です。\\\" hide=\\\"倫理委員会の介入により当該アノマリーはD-10████として財団が雇用しました。現在は死亡が確認されています。なお██研究員に対して記憶処理が行われ、記憶の齟齬を直すために██研究員のセキセイインコをサイト-81██にて飼育していました。現在は██研究員に返却されています。\\\"]][[/collapsible]]\\n[[/div]]\\n**追記1:** あの子に異常性があったなんて気が付きませんでした。専門ではないとはいえアノマリーには触れてきたと思うんですけどね。…でも専門外とはいえ会えないのは寂しいです。 -██研究員\\n**追記2:** ██研究員のためにも返してあげることはできませんかね…？-█研究員\\n申請を受理します。-Anomalous管理官および倫理委員会\"\ntf2: '0'\nauthor: ''\nredirect-b: '[[module Redirect destination=\"http://ja.scp-wiki.net/log-of-anomalous-items-jp'\nredirect-e: '\"]]'",
+  "tags": [
+    "jp",
+    "剪定対象-子"
+  ],
+  "author": "hideman-and-north",
+  "created_at": "2021-06-28T08:39:25+00:00",
+  "updated_at": "2021-06-29T04:48:23+00:00",
+  "rating": 20,
+  "_site": "scp-jp",
+  "_fullname": "anomalous-jp:02957"
+}

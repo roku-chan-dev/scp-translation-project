@@ -1,0 +1,14 @@
+{
+  "title": "02306",
+  "content": "content: \"**説明:** 送受信したデータの中に攻撃的な文章,単語が存在するとそこが☆に置き換えられるルーター。\\n**回収日:** 201█/██/██\\n**回収場所:** 東京都██区のオフィス。\\n**現状:** 低危険度物品保管ロッカーに保管。\\n**追記:** これ、フィルタリングの変わりになりません？ -██研究員\\nいやこれ、○○shine.comみたいなのでも置き換えられるから無理がある。 -██研究助手\"\ntf2: '0'\nauthor: ''\nredirect-b: '[[module Redirect destination=\"http://ja.scp-wiki.net/log-of-anomalous-items-jp'\nredirect-e: '\"]]'",
+  "tags": [
+    "jp",
+    "剪定対象-子"
+  ],
+  "author": "folosuru",
+  "created_at": "2020-12-04T12:02:36+00:00",
+  "updated_at": "2021-05-24T13:18:12+00:00",
+  "rating": 5,
+  "_site": "scp-jp",
+  "_fullname": "anomalous-jp:02306"
+}

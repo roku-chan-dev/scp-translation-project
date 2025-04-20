@@ -1,0 +1,16 @@
+{
+  "title": "RAISA-007710 (회수된 문서)",
+  "content": "[[include theme:ad-astra]]\n\n[[module css]]\n@import url('https://fonts.googleapis.com/css?family=Kalam&display=swap');\n@import url('http://scpko.wdfiles.com/local--files/unfont/UnPilgi.css');\n\n\n.page {\n    display: block;\n    overflow: hidden;\n    center no-repeat; \n    float: center;\n   \n    background-attachment: scroll;\n    background-clip: border-box;\n    background-color: transparent;\n    background-image: linear-gradient(to top, gray 0%, #E4E4E4 8%);\n    background-origin: padding-box;\n    background-position: 0px 8px;\n    background-repeat: repeat;\n    background-size: 100% 20px;\n    \n    font-family: 'Kalam', 'UnPilgi', cursive;\n    font-weight: bold;\n    font-size: 150%;\n    letter-spacing: 0.3px;\n    color: #222222;\n    border: solid 1px gray;\n    padding: 11px 20px 20px 20px;\n    margin: 10px 10px 10px 40px;\n\n    box-shadow: 3px 3px 2px gray\n    }\n\n.page p {\n    line-height: 20px;\n    margin: 0;\n}\n[[/module]]\n\n[[include info:start]]\n**RAISA-007710 (회수된 문서)**\n**원작:** http://www.scp-wiki.net/ghost-story\n**저자:** [[*user MaliceAforethought]]\n**역자:** [[*user salamander724]]\n[[include info:end]]\n\n> {{**__RAISA FILE: 회수된 문서 [비변칙]__**}}\n> {{**작성자:** SCPF 직원 로널드 뒤퐁 (Ronald Dupont)}}\n> {{**작성일자:** ████-██-██}}\n> {{**현재관할:** SCPF 심령현상부}}\n> \n> {{**비고:** //이하 문서는 작성자가 사망한 이후 (사망 원인은 현재 불명) 제14기지 2번 실험실에서 회수되었다. 이 문서는 [[[aiad-homescreen|인공지능응용학과]]], 특히 [[[ad-astra-per-aspera-hub|프로젝트 루미날 ]]]과 관련이 있는 것으로 추측된다.//}}\n\n-----\n\n**문서 앞면:**\n\n[[div class=\"page\"]]\n\n@@    @@//삼개월 전 우리는 별들로의 항법을 \n돕도록 설계된 정신 하나를 만들었다\n인간의 손으로 만든 한 우주비행사의 영혼//\n@@@@\n@@@@\n@@@@\n//삼주 전, 우리는 그것을 죽였다//\n@@@@\n@@    @@//동력이 급증하고 오작동 퓨즈 연결기\n우리는 아침에 부팅을 해서 원인을 찾아\n@@        @@내지 못했다//\n@@@@\n@@@@\n@@    @@//그리고 솔직히\n인정하기 어렵지만\n나는 그 일에 딱히 슬펐던 적이 없다\n나는 시인이지, 뇌과학자가 아니다\n@@        @@(로켓외과의사도 아니고)\n내가 여기 있는 이유는 내 생을 감정과\n정신의 연구에 다바쳤기 때문//\n@@@@\n@@@@\n@@    @@//모든 것을 고려해 볼 때\n그들의 죽음은 명백한 실수였다\n고의는 없었다\n그저 약간의 부주의와\n약간의 불운 그뿐//\n@@@@\n@@@@\n\n[[/div]]\n\n-----\n\n**문서 뒷면:**\n\n[[div class=\"page\"]]\n@@    @@//그 인공지능은 복사해서\n백업되었고\n복구되었다\n이제 그 복제본들이 굴려지지 않는 곳이 없다\n물론 똑같지야 않지만\n비슷하다\n@@    @@그거면 한 차례의 치명적 사고를 만회할 수 있는 것일까?//\n@@@@\n@@@@\n@@@@\n@@@@\n@@@@\n@@        @@//내 생각엔 그렇다//\n@@@@\n@@@@\n@@@@\n@@@@\n@@@@\n@@@@\n@@@@\n@@@@\n@@@@\n//그러나\n그래도 변하지 않는 사실이 있는데\n@@    @@매일 밤마다\n우리 구연구실에서\n작살난 서버들이 깜빡이면서\n비명을 지른다는 것//\n@@@@\n[[/div]]\n\n-----",
+  "tags": [
+    "en",
+    "별을-향해서",
+    "시",
+    "이야기"
+  ],
+  "author": "Salamander724",
+  "created_at": "2020-06-18T15:23:19+00:00",
+  "updated_at": "2021-01-03T13:21:55+00:00",
+  "rating": 2,
+  "_site": "scpko",
+  "_fullname": "ghost-story"
+}

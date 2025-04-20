@@ -1,0 +1,14 @@
+{
+  "title": "00454",
+  "content": "content: \"**説明:** 酩酊街と書かれた看板のある村の村民。摂取しているわけではないにも関わらず常に血中アルコール濃度が0.██%である。\\n**回収日:** 2017/██/██\\n**回収場所:** 長野県██市と岐阜県██市にまたがる\\n**現状:** 付近に監視施設を建造し継続監視中。なお██/██に血中アルコール濃度が上昇し、看板も\\\"泥酔街\\\"に変更されていた。\\n**追記:** //結局これは酩酊街に関係あるんですかね。// - アレクサンドラ\"\ntf2: '1'\nauthor: solvex\nredirect-b: '[[module Redirect destination=\"http://ja.scp-wiki.net/log-of-anomalous-items-jp'\nredirect-e: '\"]]'",
+  "tags": [
+    "jp",
+    "剪定対象-子"
+  ],
+  "author": "7happy7",
+  "created_at": "2020-03-14T14:28:06+00:00",
+  "updated_at": "2021-05-24T13:13:08+00:00",
+  "rating": 5,
+  "_site": "scp-jp",
+  "_fullname": "anomalous-jp:00454"
+}

@@ -1,0 +1,13 @@
+{
+  "title": "SPC-6500-4",
+  "content": "[[include :scp-wiki:theme:black-highlighter-theme]]\n[[include :scp-wiki:theme:extra-black-highlighter-theme]]\n[[include :scp-wiki:theme:shark-punching-centre-bhl]]\n[[include :scp-wiki:component:toggle-sidebar-bhl]]\n[[include :scp-wiki:component:centered-header-bhl]]\n[[module CSS]]\n#content-wrap::before {\n  content: \"\";\n  position: absolute;\n  height: 100%;\n  width: 100%;\n  top: 0;\n  left: 0;\n  background-repeat: repeat-x;\n  pointer-events: none;\n  opacity: 0.0;\n}\n[[/module]]\n\nPercival Shark is just one Selachian Entity. Millions consider it their life's purpose to pugilate selachians. We would break through Percival's immortality easily with the strength of a million fists, and then we would be no better off than we were when we started. \n\nAlso, we have no idea where he is.\n\n[http://scp-wiki.wikidot.com/spc-6500/offset/1 > Cancel]",
+  "tags": [
+    "fragment"
+  ],
+  "author": "LORDXVNV",
+  "created_at": "2021-11-15T20:37:21+00:00",
+  "updated_at": "2021-11-15T21:18:25+00:00",
+  "rating": 0,
+  "_site": "scp-wiki",
+  "_fullname": "fragment:spc-6500-4"
+}

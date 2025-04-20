@@ -1,0 +1,17 @@
+{
+  "title": "Ignota's SCP-4666 Pixel Fanart",
+  "content": "[[include component:ratio-bar base=-- |ex=--]]\n[[>]]\n[[include :scp-wiki:info:start]]\n**Art Mycotherapy**\n[[include component:ratio-bar pie=--]]\n[[include :scp-wiki:info:end]]\n[[/>]]\n[[module ListPages created_by=\"IronShears\" category=\"fragment\" name=\"fragment:art-mycotherapy%\" order=\"created_at\" limit=\"1\" offset=\"@URL|0\"]]\n%%content%%\n[[/module]]\n[[=]]\n+ [[span class=\"linkTwo\"]][http://scp-wiki.wikidot.com/art:art-mycotherapy-4666-pix Original Theme][[/span]]\n+ [[span class=\"linkOne\"]][http://scp-wiki.wikidot.com/art:art-mycotherapy-4666-pix/offset/1 Click here if the theme hurts your eyes][[/span]]\n[[/=]]\n[[div style=\"border-radius: 10px;\n  background-repeat: no-repeat;\n  background-position: center;\nborder:solid 2px var(--accentColor);\npadding:15px;\nmargin-bottom: 15px;\"]]\n[[=]]\n[[image https://i.imgur.com/2RrTyNz.gif]]\n++ [https://www.tiktok.com/@ironshearss/video/7042526025925872901?lang=en&is_copy_url=1&is_from_webapp=v1 Process Video] | [https://scp-wiki.wikidot.com/scp-4666 SCP-4666]\n[[<]]\n> **Filename:** 4666.mp4, 4666.gif\n> **Author:** IronShears\n> **License:** https://creativecommons.org/licenses/by-sa/3.0/\n> **Source Link:** https://www.tiktok.com/@ironshearss/video/7042526025925872901?lang=en&is_copy_url=1&is_from_webapp=v1\n> **Derivative of:** SCP-4666 by Hercules Rockefeller\n[[/<]]\n-----\nIt's Chrimbus!\n \nI was going to just leave it at that for this because I thought it'd be funny. But I wanted to talk about how I referenced an experience I had when I was really little for this one. I was SO unbelievably sure I saw a ghost on Christmas eve when I was like 4. In reality, it was probably just sheets blowing outside but it scared me for years.\n\n+ [https://scp-wiki.wikidot.com/art:art-mycotherapy More Art Mycotherapy]\n[[/=]]\n[[/div]]",
+  "tags": [
+    "_cc",
+    "animated",
+    "artwork",
+    "pixel-art",
+    "scp-art"
+  ],
+  "author": "IronShears",
+  "created_at": "2021-12-17T20:30:28+00:00",
+  "updated_at": "2024-03-28T14:18:59+00:00",
+  "rating": 25,
+  "_site": "scp-wiki",
+  "_fullname": "art:art-mycotherapy-4666-pix"
+}

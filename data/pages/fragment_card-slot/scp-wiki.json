@@ -1,0 +1,13 @@
+{
+  "title": "Card Slot",
+  "content": "[[ul class=\"tarot-wrapper {$status}\"]]\n[[li class=\"folded {$pre-flipped}\"]]\n[[div_ class=\"foldable-list-container\"]]\n[# Flip]\n[[/div]]\n[[div_ class=\"author-ribbon\"]]\n{$author}\n[[/div]]\n[[div class=\"tarot-card\"]]\n[[div class=\"content\"]]\n[[image {$art}]]\n[[a href=\"{$url}\"]]link[[/a]]\n[[/div]]\n[[/div]]\n[[/li]]\n[[/ul]]",
+  "tags": [
+    "fragment"
+  ],
+  "author": "EstrellaYoshte",
+  "created_at": "2023-10-02T15:49:44+00:00",
+  "updated_at": "2023-10-26T04:27:47+00:00",
+  "rating": 0,
+  "_site": "scp-wiki",
+  "_fullname": "fragment:card-slot"
+}

@@ -1,0 +1,13 @@
+{
+  "title": "Sunshine Cloud Please",
+  "content": "[[include :scp-wiki:theme:turbo-vision-dark]]\n[[module CSS]]\n@import url( http://scpsandboxcn.wikidot.com/local--files/fragment:mirage-test-page/font.css);\n\ndiv#header {\n  background: url(\"http://scpsandboxcn.wikidot.com/local--files/fragment:mirage-test-page/VA11.png\")\n      3.675em 1.25em no-repeat;\n  background-size: auto 100px;\n}\n\n@media screen and (max-width:600px){\ndiv#header {\n  background: url(\"http://scpsandboxcn.wikidot.com/local--files/fragment:mirage-test-page/MobileVa11.png\")10% 50% no-repeat;\n\nbackground-size: 50% auto;\n}\n\n}\n.footnotes-footer{\n  display:none;\n}\n[[/module]]\n[[>]]\n[[module Rate]]\n[[/>]]\n\n[[div style=\"font-family: 'VonwaonBitmap 12px' !important;border:5px double grey\"]]\n\n[[=]]\n[[div style=\"font-size:larger;\"]]\n##red|**注意：**##\n\n本作品实为互动文字游戏，\n包含需加载的图片、音频资源以及一定量的代码。\n建议在网络状况良好的情况下访问原版。\n或选择下载本地版[[footnote]] 151MB大小的.exe文件，暂时只支持window平台。 [[/footnote]]。\n或选择直接阅读简化文字版。\n[[/div]]\n------\n\n[[[http://scp-wiki-cn.wikidot.com/sunshine-cloud-please/offset/1|访问原版页面]]]\n\n[[[http://scpsandboxcn.wikidot.com/local--files/fragment:mirage-test-page/%E8%B0%83%E5%88%B6%E9%A5%AE%E6%96%99%EF%BC%8C%E4%BD%86%E4%B8%8D%E6%94%B9%E5%8F%98%E4%BA%BA%E7%94%9F%201.0.0.exe|下载本地版]]]\n\n[[[http://scp-wiki-cn.wikidot.com/sunshine-cloud-please/offset/2|访问简化文字版]]]\n\n[[/=]]\n\n[[/div]]",
+  "tags": [
+    "段落"
+  ],
+  "author": "MentalImageryMirage",
+  "created_at": "2022-07-16T14:36:53+00:00",
+  "updated_at": "2023-11-28T13:20:50+00:00",
+  "rating": 5,
+  "_site": "scp-wiki-cn",
+  "_fullname": "fragment:sunshine-cloud-please-firstpage"
+}

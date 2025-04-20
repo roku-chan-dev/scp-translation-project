@@ -1,0 +1,14 @@
+{
+  "title": "Interwiki Style",
+  "content": "[!--\nStyling component for the EN Interwiki, based on the CN Interwiki by 7happy7 and Sekai-s.\n\nPlease note that as of 2022-03-15, the new EN interwiki is not yet active on the EN SCP Wiki, so this styling component will not yet work.\n\nInterwiki: https://scpwiki.com/interwiki\nSource: https://github.com/scpwiki/interwiki\n\nSee also: https://scpwiki.com/how-to-create-a-branch-of-the-scp-foundation\n\nUsage:\n\nOn the page that intends to restyle the Interwiki:\n\n [[include :scp-wiki:component:interwiki-style\n| priority=X\n| theme=<link to CSS stylesheet>\n| css=<URI-encoded CSS>\n]]\n\nThe `priority` value must be set to a number that is 1 greater than the priority of the theme that this theme is extending.\n\nExamples:\n- The base theme of the site (for the SCP Wiki, this is Sigma-9) has a priority of 0.\n- A CSS theme designed to be used on pages that are already styled with Sigma-9 (i.e. a theme that extends Sigma-9) would have a priority of 1.\n- The Black Market theme extends the Black Highlighter theme, which has a priority of 2; therefore the Black Market theme would have a priority of 3.\n\nThe `theme` value is optional, and can be a URL to a CSS stylesheet e.g. a CSS theme.\n\nThe `css` value is optional, and can be URI-encoded CSS to apply directly to the Interwiki. To URI-encode CSS, see https://meyerweb.com/eric/tools/dencoder\n--]\n\n[[embed]]\n<iframe src=\"//interwiki.scpwiki.com/styleFrame.html?priority={$priority}&theme={$theme}&css={$css}\" style=\"display: none\"></iframe>\n[[/embed]]",
+  "tags": [
+    "admin",
+    "component"
+  ],
+  "author": "Croquembouche",
+  "created_at": "2022-03-15T03:15:25+00:00",
+  "updated_at": "2022-03-15T03:16:01+00:00",
+  "rating": 10,
+  "_site": "scp-wiki",
+  "_fullname": "component:interwiki-style"
+}

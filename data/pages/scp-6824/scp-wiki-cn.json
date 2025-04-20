@@ -1,0 +1,23 @@
+{
+  "title": "SCP-6824",
+  "content": "[[include :scp-wiki-cn:theme:penumbra]]\n[[module css]]\n:root{\n  --lgurl: url(\"http://scp-wiki.wdfiles.com/local--files/black-autumn-hub/scp-halloween-alone.png\");\n  --accentColor: #EB6123;\n\n}\n\ndiv#extra-div-1 {\n    filter: opacity(40%);\n}\n[[/module]]\n\n[[div style=\"text-align: right; margin-top: -20px;\"]]\nby [[[stormbreath]]]\n[[/div]]\n\n**##EB6123|项目编号：##** SCP-6824\n\n**##EB6123|项目等级：##** Thaumiel\n\n**##EB6123|特殊收容措施：##** 绝大部分SCP-6824-1个体已被基金会征召，并指派到MTF Omega-4当中。由于SCP-6824是一种遗传性症状，个体的子女也会得到和父母一样的工作机会，作为整体的SCP-6824已通过上述行动得到收容。\n\n若发现有野生SCP-6824-1个体，MTF Omega-4的处理员将对其展开征召，驱使其参加基金会服役。\n\nMTF Omega-4的全体处理员均配备有特制银子弹。若SCP-6824-1个体出现失控，他们将以这些特制银子弹对其进行处决。尸体将被收集以供筛查。\n\n**##EB6123|描述：##** SCP-6824是一种先天性异常，继承于10号染色体的一段显性基因中。先天携带SCP-6824的人员（在此编为SCP-6824-1）在青春期前不会表现出任何反常特征，而后会开始发育出异常特质。\n\n在每月的满月之夜，SCP-6824-1人员会异常性变形为一种狼-人混合的生物（此状态被称为SCP-6824-1B）。成年个体一般有能力故意触发此种变形。个体会在死亡时恢复到无异常的人类形态。\n\n在变形期间，身体质量会显著且异常性提升，体型、力量和耐受力也随之发生改变。在SCP-6824-1B状态下，人员会拥有大幅增强的再生能力，可以在数分钟内愈合大部分身体伤口。唯一例外是由银或其他SCP-6824-1B个体造成的伤口；这些伤口只能正常愈合。此种伤口也必须造成相当破坏—只是单纯触碰银不会对个体产生影响。 \n\n在SCP-6824-1B变形期间，个体无法控制自己的思维或行动。一般而言，个体没有言语或高级逻辑能力，总体上只会执着于杀死遭遇到的一切活体生物。尽管如此，部分异常实体能够引导或控制SCP-6824-1B个体。\n\n**##EB6123|附录6824.1 --##** MTF Omega-4的组建\n\n[[div class=\"blockquote\"]]\n**Dir. von Zarovich：** 好博士，我们有好消息。\n\n**Cpt. Spencer:** 是，长官。根据我们的测算，我们已接近将所有SCP-6824-1个体收容。这一威胁已被完全收容了。但，这可能也产生了一种浪费。\n\n**Dr. Winchester:** 浪费？为何？这些异常很长时间以来一直威胁着常态。有千年之久，我相信历史研究的发现。而今我们终于把它们收容了起来。\n\n**Dir. von Zarovich：** 而如果收容如你这样继续，今后便将再也不会有，永远不会。\n\n**Dr. Winchester:** 正确。它们不会被允许继续繁育。\n\n**Cpt. Spencer:** 也就意味着它们的终结，永远。灭绝。\n\n**Dir. von Zarovich：** 而它们活得本来也就很短。所以现在正是行动的时刻，如果我们想摆脱它们。\n\n**Dr. Winchester:** 我没觉得这有问题。\n\n**Dir. von Zarovich：** 但要是我们要利用它们呢！下令劫掠，放出战争之犬。它们可以再生任何损伤。它们要比任何凡人更强壮更敏捷。唯一的问题是它们的心智。但...\n\n**Cpt. Spencer:** 这到可以解决。很容易。我们掌握有异常性的控制方法，已被证实有效。\n\n**Dir. von Zarovich：** 正是。\n\n**Dr. Winchester:** 我觉得也是。但，我们现在这般就是稳定的。没有真得打破现状的需要，就如以前那般。我想我们一族确实对控制有所亲和...毕竟，我们就是如此俘获它们的\n\n**Dir. von Zarovich：** 所以你也承认了！我们要招募它们或者利用它们并不存在困难，一丁点都没有！它们完全可以成为最有效的武器。\n\n**Cpt. Spencer:** 只消下达命令我们就可以开始招募它们。\n\n**Dr. Winchester:** 我只是不明白。我对它们没法确定...还有它们这种存在的特定性质，我们就这么说吧。\n\n**Dir. von Zarovich：** 什么？它们是异常这回事？我们以前无疑雇用过异常，哈哈。\n\n**Dr. Winchester:** 不。是它们是活物这回事。\n\n**Dir. von Zarovich：** 啊。是，好吧，我们也雇用活人的，不是？\n\n**Dr. Winchester:** 自从混沌分裂者失控后就不是了。\n\n**Dir. von Zarovich：** 那都是什么时候了，请提醒我一下？多久以前了？感觉就像昨天但我知道那确实是许久之前。光阴似血。\n\n**Cpt. Spencer:** 1956年，长官。\n\n**Dir. von Zarovich：** 这是多久之前？\n\n**Cpt. Spencer:** 65年前，长官。\n\n**Dir. von Zarovich：** 也许是时候再给一次机会了，好小子。\n\n**Dr. Winchester:** 我赞成，Strahd。我觉得我们可以再给它一次机会。但要是除了问题可都算你的血。\n\n**Dir. von Zarovich：** 是，是，是。算我的血。\n[[/div]]\n\n此后，Dir. von Zarovich与Dr. Winchester向O5议会提交了将SCP-6824个体用作新型特遣队的申请，Dir. von Zarovich负责监督此事。在提交过程中，O5-2注意到了该计划，将控制权从Dir. von Zarovich手中取得，同时扩展了规模。通过食血种寻常且本能性的犬科控制能力，O5-2得以对变形后的SCP-6824-1个体确立支配。\n\n而后此计划被移交O5投票。利用SCP-6824显然会改动基金会誓约—就如不得复生死者、以及其他所有基金会雇员一样—但此动议仍旧获得成功，以12-0-1投票通过。\n\n当前，O5-2仍然是特遣队的计划领导人。O5-2的直系后代担任了SCP-6824-1个体的处置员，使用和自己君父相同的方法指引MTF Omega-4 (德古拉天使团)的行动。\n\n[[footnoteblock]]\n\n[[div class=\"footer-wikiwalk-nav\"]]\n[[=]]\n<< [[[SCP-6823]]] | SCP-6824 | [[[SCP-6825]]] >>\n[[/=]]\n[[/div]]\n\n[[include :scp-wiki:component:license-box]]\n[[include :scp-wiki:component:license-box-end]]",
+  "tags": [
+    "scp",
+    "thaumiel",
+    "人形生物",
+    "基因",
+    "感知力",
+    "敌意",
+    "智能",
+    "月球",
+    "活物",
+    "犬类",
+    "自我修复"
+  ],
+  "author": "ashausesall",
+  "created_at": "2022-03-17T12:38:37+00:00",
+  "updated_at": "2023-12-10T02:11:56+00:00",
+  "rating": -4,
+  "_site": "scp-wiki-cn",
+  "_fullname": "scp-6824"
+}

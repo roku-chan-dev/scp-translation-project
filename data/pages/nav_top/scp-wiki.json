@@ -1,0 +1,13 @@
+{
+  "title": "Top Bar Menu",
+  "content": "[[div class=\"top-bar\"]]\n* About\n * [[[about-the-scp-foundation|About Us]]]\n * [[[Site Rules]]]\n * [[[FAQ]]]\n * [[[licensing-guide|Licensing]]]\n * [[[Criticism Policy]]]\n * [[[deletions-guide|Article Deletions]]]\n* Community\n * [[[news | Site News]]]\n * [[[chat-guide | IRC Chat]]]\n * [[[authors-pages | Authors' Pages]]]\n * [[[artist-directory|]]]\n * [[[Contest Archive]]]\n * [[[http://05command.wikidot.com/staff-list | Staff List]]]\n* Resources\n * [[[Guide Hub|Guides]]]\n * [[[essay-resource-hub|Essays & Resources]]]\n * [[[Wiki Syntax]]]\n * [[[Sandbox]]]\n * [[[Usertools]]]\n* Sister Sites\n * [[[http://scp-int.wikidot.com/ | SCP International]]]\n * [[[https://wanderers-library.wikidot.com/ | Wanderer's Library]]]\n* [[[contact-staff | Contact Us]]]\n[[/div]]\n\n[[div class=\"mobile-top-bar\"]]\n\n[[div class=\"open-menu\"]]\n[#side-bar ≡]\n[[/div]]\n\n* About\n * [[[about-the-scp-foundation|About Us]]]\n * [[[Site Rules]]]\n * [[[FAQ]]]\n * [[[licensing-guide|Licensing]]]\n * [[[Criticism Policy]]]\n * [[[deletions-guide|Article Deletions]]]\n * [[[Contact Staff]]]\n* Community\n * [[[news | Site News]]]\n * [[[chat-guide | IRC Chat]]]\n * [[[authors-pages | Authors' Pages]]]\n * [[[artist-directory|]]]\n * [[[Contest Archive]]]\n * [[[http://05command.wikidot.com/staff-list | Staff List]]]\n* Resources\n * [[[Guide Hub|Guides]]]\n * [[[essay-resource-hub|Essays & Resources]]]\n * [[[Wiki Syntax]]]\n * [[[Sandbox]]]\n * [[[Usertools]]]\n* Sister Sites\n * [[[http://scp-int.wikidot.com/ | SCP International]]]\n * [[[https://wanderers-library.wikidot.com/ | Wanderer's Library]]]\n[[/div]]",
+  "tags": [
+    "admin"
+  ],
+  "author": "The Administrator",
+  "created_at": "2008-07-19T21:26:58+00:00",
+  "updated_at": "2024-08-11T11:48:52+00:00",
+  "rating": 24,
+  "_site": "scp-wiki",
+  "_fullname": "nav:top"
+}

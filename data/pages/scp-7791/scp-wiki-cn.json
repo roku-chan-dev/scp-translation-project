@@ -1,0 +1,17 @@
+{
+  "title": "SCP-7791",
+  "content": "[[include :scp-wiki-cn:theme:black-highlighter-theme]]\n[[include :scp-wiki:component:collapsible-sidebar]]\n\n[[module CSS]]\n@import url('https://fonts.googleapis.com/css2?family=Coming+Soon&display=swap');\n\n.email {float: center; border: solid 2px #000000; width: 88%; padding: 1px 15px; margin: 10px 10px 10px 10px; box-shadow: 0 1px 3px rgba(0,0,0,.5)}\na.collapsible-block-link { font-weight: bold; }\n.tofrom {margin-left: 10px; margin-top: 5px; padding: 1px 15px; border-left: solid 3px maroon}\n\n:root {\n  --zero: 0;\n}\n\n[[/module]]\n\n**项目编号：**SCP-7791\n\n**项目等级：**--Euclid-- 被废除\n\n**特殊收容措施：**SCP-7791被收容于位于Site-77的概念收容单元-34内。SCP-7791的本质仅能被[[span class=\"bigtext\" style=\"filter: blur(4px);\"]]##f24|伦理##[[/span]]委员会高级人员和具有临时5/7791级许可的人员得知。若SCP-7791的状态发生变化，[[span class=\"bigtext\" style=\"filter: blur(4px);\"]]##f24|伦理##[[/span]]委员会将投票以确定是否进行333-WOZNY程序。\n\n**333-WOZNY程序：**333-WOZNY程序的内容包括若干真体物理学家与模因学家将SCP-7791的本质暂时分解为对基金会无威胁的片段。在此情况下，特定事件与行动可被添加至其具象模因复合体中，将其本质转变为非敌意的。此后，SCP-7791将恢复到此前状态，导致其活动的事件将无需被收容。欲查阅333-WOZNY程序的更多信息，请阅读补充文档WOZNY。\n\n**描述：**SCP-7791为一真体物理实体，或一存在于几乎所有智能生物文化中概念的具体化。尽管SCP-7791的确切性质未知，对其的收容在历史上对基金会行政至关重要。最早对SCP-7791的提及出现在一撰写于████的文档，其中说明[[span class=\"bigtext\" style=\"filter: blur(4px);\"]]##f24|伦理##[[/span]]委员会特地为收容SCP-7791而成立。\n\n已知最接近SCP-7791的具体概念的描述是，其为一某些行为具有而其他行为不具有的性质。\n\n**行为：**据记录，在高度危急的环境中将出现其活动频率增加的时期。基金会在历史上采取的诸如种族灭绝、酷刑、思想灌输和虐待智能生物能够最有效地刺激SCP-7791活动。此类事件与基金会的存续相悖，须通过进行333-WOZNY程序加以收容。\n\n**附录7791.01：**//333-WOZNY程序激活尝试附录//\n\n下为333-WOZNY程序激活尝试的删节列表。\n\n||~ 日期 ||~ 激活原因 ||~ 状态 ||~ 备注 ||\n||[未知] || 333-WOZNY程序建立。 || 成功 || 该程序的使用由基金会管理员Joseph Ainsworth在[[span class=\"bigtext\" style=\"filter: blur(4px);\"]]##f24|伦理##[[/span]]委员会成立前制定。||\n|| ████/██/██ || 处决SCP-████的所有目击者（共3,480名），作为唯一维持帷幕完整的途径。|| 成功 || 该事件发生于现代记忆删除剂的发现前。现已无需对目击者进行处决。||\n|| 1906/6/6 || 建立对首个发现的人形异常之收容。|| 成功 || N/A||\n|| 1942/5/8 || 基金会对日本拘禁营内的囚犯采取行动，尤其是使用被囚禁的公民进行高危异常测试。|| 成功 || 随后整合于D级人员体系内。 ||\n||  ████/██/██ || [[[SCP-231|110-蒙托克程序]]]建立。 ||成功|| 对SCP-231的收容是必要之恶。 ||\n||1979/10/14|| 将被认定为拥有异常性别███的人员全数处决。|| 成功 || 程序激活导致了性别不顺从者的暴力行为激增。未采取措施加以防止。 ||\n||1980/██/██|| 对//homo nixus//族群进行种族灭绝。|| 失败|| SCP-7791使用其异常性质，使得基金会员工拒绝进行333-WOZNY程序。 ||\n||1980/██/██|| 对//homo nixus//族群进行种族灭绝。|| 成功|| 激活333-WOZNY程序前，SCP-7791的“手”“眼”“舌”之隐喻概念被移除。未提供医疗救助。 ||\n||1985/6/9 || 持续使用333-WOZNY程序，尽管数据显示其对全球人类行为有诸多有害副作用，主要为精神变态与暴力行为的增加。|| 成功 || 鉴于其结构完整性受损，现允许对SCP-7791提供医疗救助。||\n||1985/6/9 ||持续使用333-WOZNY程序，尽管未能有效修复SCP-7791且此前程序的使用对其造成了损害。|| 成功 ||遏火部被授予紧急权利以处理正在进行的叛逃危机。 ||\n||1985/6/12 || 鉴于近期缅因州吉弗顿发生的事件，持续使用333-WOZNY程序。[数据删除]。|| 失败 || SCP-7791的概念状态现高度不稳定，这阻碍了333-WOZNY的适当使用。已丢失所有与Site-77的联系。||\n\n\n**附录7791.02：**//SCP-7791的无效化//\n\n1985/6/15，鉴于当前SCP-7791收容措施的低效，[[span class=\"bigtext\" style=\"filter: blur(4px);\"]]##f24|伦理##[[/span]]委员会决定处决SCP-7791，此为保证基金会存续的唯一途径。Dr. Harkness因进行理念抹杀[[footnote]]一术语，意为对一概念的灭杀。[[/footnote]]而获得基金会之星。由于这些事件，[[span class=\"bigtext\" style=\"filter: blur(4px);\"]]##f24|伦理##[[/span]]委员会已被解散。[[span class=\"bigtext\" style=\"filter: blur(4px);\"]]##f24|伦理##[[/span]]委员会最后一任主席Dr. Parsons在其空出的办公室内留下了如下便笺：\n\n> 我想说那曾是必要之恶，但现在一切都已失去意义了。对吧？\n\n随后，项目被重新分级为被废除。\n\n\n\n[[include :scp-wiki-cn:component:license-box\n|author=NielleiN\n]]\n\n[!-- N/A (No Images)  --]\n\n[[include :scp-wiki-cn:component:license-box-end]]",
+  "tags": [
+    "scp",
+    "伦理委员会",
+    "概念",
+    "深井目录",
+    "被废除"
+  ],
+  "author": "k_Eldac",
+  "created_at": "2023-03-25T11:55:50+00:00",
+  "updated_at": "2023-03-25T23:58:10+00:00",
+  "rating": 3,
+  "_site": "scp-wiki-cn",
+  "_fullname": "scp-7791"
+}

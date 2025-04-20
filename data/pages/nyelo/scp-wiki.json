@@ -1,0 +1,14 @@
+{
+  "title": "Nyelo's Author Page",
+  "content": "[[include :scp-wiki:theme:magazine]]\n\n[[>]]\n[[module Rate]]\n[[/>]]\n\n[[size 1%]]##transparent|.##[[/size]]\n\n[[tabview]]\n[[tab Who?]]\nHello friends, I'm [[*user Nyelo]].\n\nI'm a computer nerd from Spain giving writing a chance. I'm non-binary and go by they/them in English. My interests are very volatile so I might go through long periods of no writing or reading SCP content so don't expect consistent content from me. But the SCP Foundation will always hold a special place in my heart.\n\nThe first time I heard about SCP was around 2019 or 2020 when I got recommended a video about [https://scp-wiki.wikidot.com/scp-303 SCP-303]. After that, I watched more and more videos about SCP. I eventually found out about the wiki nad joined in 2021. However, I didn't post anything until early 2022.\n\n[[/tab]]\n[[tab Contributions]]\n\nMoved temporarily below the tabs!\n\n----\n\nPlease check out my other works at the [https://wanderers-library.wikidot.com/nyelo Wanderers' Library]!\n\n[[/tab]]\n[[tab Others]]\n* My pronouns are they/them but I don't really mind any pronouns.\n* I'm open for any collaborations, ideas or questions you might have! Hit me on the Wikidot PMs, I'll try to reply as soon as possible. Let it be known, I don't often check PMs if I'm not active (duh.)\n* Check my [https://linktr.ee/nyelo Linktree] for my socials.\n[[/tab]]\n[[/tabview]]\n\n[[size 1%]]##transparent|.##[[/size]]\n\n[[include :scp-wiki:component:mega-cool-author-page-tool |inc-list= --]\n|language= en\n|order= rating\n|perpage= 20\n|background-image=\n|shadow= yes\n]]\n\n[[include :scp-wiki:component:mega-cool-author-page-tool |inc-coauthor-header= --]]\n\n[[include :scp-wiki:component:mega-cool-author-page-tool |inc-coauthored= --]\n|name= scp-6240\n|feat= FluffyDog00, CrystalMonarch\n|language= en\n]]\n\n[[include :scp-wiki:component:mega-cool-author-page-tool |inc-coauthored= --]\n|name= scp-7171\n|feat= Abrethe, Sirslash47\n|language= en\n]]\n\n[[size 1%]]##transparent|.##[[/size]]\n\n[[include :scp-wiki:component:license-box]]\n[[include :scp-wiki:component:license-box-end]]",
+  "tags": [
+    "_licensebox",
+    "author"
+  ],
+  "author": "Nyelo",
+  "created_at": "2022-03-16T18:10:02+00:00",
+  "updated_at": "2024-07-22T14:13:31+00:00",
+  "rating": 12,
+  "_site": "scp-wiki",
+  "_fullname": "nyelo"
+}

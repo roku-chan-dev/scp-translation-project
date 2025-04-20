@@ -1,0 +1,14 @@
+{
+  "title": "Jaboi Author Page",
+  "content": "[[module CSS]]\n[[include :scp-wiki:theme:word-processor]]\n[[>]]\n[[module Rate]]\n[[/>]]\n+ author page: UNFINISHED - to do list: make a self-insert, make the article funny, add a good theme, --list favorites--, --add auto list--\n\nPersonal favorites:\n* [https://scp-wiki.wikidot.com/scp-7080 SCP-7080 \"Alter Ego\"] My first and best article (according to the upvotes)\n* [https://scp-wiki.wikidot.com/aco-7798 ACO-7798 \"Meteor Belt, Barren Of Life, Of No Importance\"] I absolutley love the concept, unfortunately I dont think i did it justice :(\n\n [[div id=\"blink-bar\"]]\nAutomatic list, in order of oldest to newest:\n[[/div]]\n\n[[module ListPages created_by=\"jaboi\" order=\"created_at\" separate=\"no\" tags=\"-author -goi-format -hub\" perPage=\"250\" prependLine=\"||~ Item # ||~ Rating ||~ Comments ||~ Created ||~ Last Edited ||\"]]\n|| %%title_linked%% || %%rating%% || %%comments%% || %%created_at%% || %%updated_at%% ||\n[[/module]]\n\n##blue|Trans## ##pink|people## are ##pink|people## ##blue|too!## ♥\n[[include :scp-wiki:component:license-box |author=jaboi]]\n[[include :scp-wiki:component:license-box-end]]",
+  "tags": [
+    "_licensebox",
+    "author"
+  ],
+  "author": "jaboi",
+  "created_at": "2023-07-13T06:35:19+00:00",
+  "updated_at": "2024-02-03T13:41:38+00:00",
+  "rating": 14,
+  "_site": "scp-wiki",
+  "_fullname": "jaboi-author-page"
+}

@@ -1,0 +1,31 @@
+{
+  "title": "SCP-8086",
+  "content": "[[module css]]\n@import url('https://scpdsandbox.wdfiles.com/local--files/toki-pona-test/nasin-nanpa-uscur3.css');\n\n.nimisin {\nfont-family: 'nasin-nanparegular';\n}\n\n.snote {\n\ncolor: black;\n\n}\n[[/module]]\n\n=====\n[[include component:preview\ntext=\nIt's generally agreed upon that one should not try to poke a sleeping bear, much less one merely wandering around.\n]]\n=====\n\n[[div style=\"display: none;\"]]\n[[include :scp-wiki:theme:flopstyle-dark chthonian=a]]\n[[/div]]\n[[include :scp-wiki:component:assorted-paper]]\n\n[[=]]\n[[div class=\"psuedocrumbs\"]]\n[[[pieklo-cycow-hub|Cyców's Hell Hub]]] / [[[http://scp-int.wikidot.com/k-s-g-hub|Kong, Shing, Gong Hub]]] » SCP-8086\n[[/div]]\n[[/=]]\n\n[[div class=\"meta-title\"]]\nSCP-8086\n[[/div]]\n\n[[include :scp-wiki:component:ratio-bar base=--]]\n\n[[>]]\n[[module Rate]]\n[[/>]]\n\n[[div style=\"text-align: center; margin-top: -20px;\"]]\n\nby [[[mastertman2-s-menagerie| MasterTman2]]]\n\n[[/div]]\n\n[[module ListPages  category=\"fragment\" parent=\".\" limit=\"1\" order=\"created_at\" offset=\"@URL|0\"]]\n%%content%%\n[[/module]]\n\n[!-- https://scp-wiki.wikidot.com/fragment:scp-8086-0 --]\n[!-- https://scp-wiki.wikidot.com/fragment:scp-8086-1 --]\n\n[[include component:wikimodule |ratings= --]]]\n\n[[div class=\"footer-wikiwalk-nav\"]]\n[[=]]\n<< [[[SCP-8085]]] | SCP-8086 | [[[SCP-8087]]] >>\n[[/=]]\n[[/div]]\n\n[[include :scp-wiki:component:license-box]]\n> **Filename:** Gun under the nose of an A-10 Thunderbolt.jpg\n> **Author:** Frank Kovalchek\n> **License:** CC BY 2.0\n> **Source Link:** [[[https://commons.wikimedia.org/wiki/File:Gun_under_the_nose_of_an_A-10_Thunderbolt.jpg|Wikimedia Commons]]]\n\n> **Filename:** MapChart_Map.png\n> **Author:** [[*user MasterTman2]]\n> **License:** CC BY-SA 4.0\n> **Source Link:** [[[https://www.mapchart.net/index.html|Mapchart]]]\n[[include :scp-wiki:component:license-box-end]]",
+  "tags": [
+    "_cc",
+    "_cc4",
+    "_licensebox",
+    "_listpages",
+    "art-exchange",
+    "extradimensional",
+    "foundation-made",
+    "global-occult-coalition",
+    "goldbaker-reinz",
+    "gru-division-p",
+    "hong-shing",
+    "keter",
+    "military",
+    "scp",
+    "uncontained",
+    "unusual-incidents-unit",
+    "vehicle",
+    "weapon",
+    "wilsons-wildlife"
+  ],
+  "author": "MasterTman2",
+  "created_at": "2024-12-31T23:09:06+00:00",
+  "updated_at": "2025-03-08T03:52:20+00:00",
+  "rating": 12,
+  "_site": "scp-wiki",
+  "_fullname": "scp-8086"
+}

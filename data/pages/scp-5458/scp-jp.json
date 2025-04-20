@@ -1,0 +1,20 @@
+{
+  "title": "SCP-5458",
+  "content": "[[include :scp-jp:theme:night-rush-theme]]\n[[include :scp-jp:theme:scp-trans-pride |trans-pride-logo= --] |trans-pride-footer= --]]]\n[[module css]]\n.page {\n    display: block;\n    overflow: hidden;\n    font-family: \"Monotype Corsiva\", \"Bradley Hand ITC\", sans-serif;\n    font-style: normal;\n\n    background-attachment: scroll;\n    background-clip: border-box;\n    background-color: transparent;\n    background-image: linear-gradient(to top ,rgb(202, 219, 228) 0%, rgb(231, 233, 220) 8%);\n    background-origin: padding-box;\n    background-position: 0px 8px;\n    background-repeat: repeat;\n    background-size: 100% 20px;\n\n    border: 1px solid #CCC;\n    border-radius: 10px;\n    padding: 10px 10px;\n    margin-bottom: 10px;\n\n    box-shadow: 0px 1px 3px rgba(0, 0, 0, 0.2)\n    }\n.page p,\n.page ul {\n    line-height: 25px;\n    margin: 0;\n}\n[[/module]]\n[[include :scp-jp:credit:start]]\n**タイトル:** SCP-5458 - 死が二人を分かつまで\n**著者:** ©︎[[*user weiserthanyou]]\n**原題:** SCP-5458 - 'Til Death Do Us Part\n**作成年:** 2022\n[[include :scp-jp:credit:end]]\n**アイテム番号:** SCP-5458\n\n**オブジェクトクラス:** Safe\n\n[[include :scp-jp:component:image-block\n| name= https://scp-jp-storage.wdfiles.com/local--files/file%3A7657035-12-p18b/zeevveezz-ring.jpg\n| caption= SCP-5458\n| width= 300px]]\n**特別収容プロトコル:** SCP-5458はサイト-43のSafe棟の保管ロッカーに収容されています。\n\nSCP-5458を取り扱う場合、常に厚い手袋を着用する必要があります。SCP-5458が実験以外で皮膚に直接接触した場合、影響を受けた職員をその付近から移動させ、直ちにクラスA記憶処理を行う必要があります。\n\n**説明:** SCP-5458は、財団研究員のヘンリー・フレミング博士が以前所有していた金の結婚指輪です。SCP-5458が人間の皮膚に直接接触すると、影響を受けた人物(以下、対象)は、軍事的圧力でそうしないよう指示された場合でも、2~5分以内にそれを装着したいという不合理な欲求を発現させます。この欲求は、対象がSCP-5458の付近から移動した場合でも継続し、それを取り戻すために暴力行為に駆り立てる場合もあります。しかし、対象のSCP-5458に触れた記憶がクラスA記憶処理によって除去された場合、欲求は継続しません。\n\n対象がSCP-5458をいずれかの指に装着すると、直ぐに強力な反ミーム性を発現させ、対象をクラスY記憶補強薬を使用せずに直接知覚することは不可能になります。しかし、SCP-5458は目に見えたままです。対象は完全に姿を消す前に、約10分間この状態に留まり、その過程でSCP-5458を落とします。\n\n**補遺5458-1 - 発見**\nスーザン・フレミング研究員とグラン下位研究員の不倫と、その後に続くスーザン・フレミングとその夫であるヘンリー・フレミング博士の失踪の調査中に発見されました。SCP-5458はスーザン研究員のオフィスの床で発見され、ヘンリー博士の結婚指輪の描写と一致していました。以下の手紙が、書かれているものの明らかに配達されていない状態で、ヘンリー博士の机から発見されました。\n\n[[div class=\"page\"]]\n[[div style=\"color:black;\"]]\nスーザン、\n\n結婚したあの日から、良い時も悪い時も、富める時も貧しき時も、病める時も健やかなる時も、君を愛し慈しむことを誓った。君もそう誓ったが、それは君にとってただの無意味な言葉だろう。この指輪を以て汝を呪い、我が肉体を以て汝を裁き、現世の財全てを以て汝を追放する。\n@@ @@\n直ぐに地獄で会おう。\n[[/div]]\n[[/div]]",
+  "tags": [
+    "en",
+    "safe",
+    "scp",
+    "反ミーム",
+    "強制力",
+    "装飾品",
+    "触覚",
+    "金属"
+  ],
+  "author": "MikuKaneko",
+  "created_at": "2022-01-28T10:29:12+00:00",
+  "updated_at": "2022-10-09T04:49:31+00:00",
+  "rating": 26,
+  "_site": "scp-jp",
+  "_fullname": "scp-5458"
+}

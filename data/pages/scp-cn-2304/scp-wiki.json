@@ -1,0 +1,19 @@
+{
+  "title": "SCP-CN-2304",
+  "content": "[[module CSS]]\n#page-content div.creditRate {\n    margin-right: 0;\n}\n\n#page-content div.myImageBlock {\n    margin: 2em 0;\n    width: 100%;\n    border: solid 1px #666;\n    background-color: #FAFAFA;\n    box-shadow: 0 1px 6px rgba(0,0,0,0.25);\n}\n#page-content div.myImageBlock img {\n    width: 100%;\n}\n#page-content div.myImageBlock div.myImageCaption {\n    text-align: center;\n    border-top: solid 1px #666;\n}\n#page-content div.myImageBlock div.myImageCaption p {\n    margin: 4px 1em;\n    padding: 0;\n}\n\n#page-content li {\n    margin-top: 1em;\n}\n\n#page-content div.sunImage p {\n    margin: 32px auto;\n    text-align: center;\n    font-size: 8vw;\n    user-select: none;\n}\n[[/module]]\n\n[[include :scp-wiki:component:toggle-sidebar]]\n\n[[include :scp-wiki:info:start]]\n**SCP-CN-2304** The Sun Is Tired of Rising\n**Author:** [[*user DouglasLiu]], author page **[http://scp-wiki-cn.wikidot.com/douglasliu-author-page here]**\n**Translated by:** [[*user tetsusquared]]\n[[collapsible show=\"▼ Author's Note\" hide=\"▲ Author's Note\"]]\nThe use of pure gold and some of these numbers aren't quite as arbitrary as you think.\n[[/collapsible]]\n[[include :scp-wiki:info:end]]\n\n[[div class=\"myImageBlock\" style=\"width: 30%; float: right; margin: 1em 0 1em 1em\"]]\n[[div class=\"sunImage\"]]\n☉\n[[/div]]\n[[div class=\"myImageCaption\"]]\n**Symbol-2304**\n[[/div]]\n[[/div]]\n\n**Item #:** SCP-CN-2304\n\n**Object Class:** Thaumiel\n\n**Special Containment Procedures:** Each regional department is to select one site in each country to be responsible for performing SCP-CN-2304. The site is to maintain sufficient personnel on hand to perform SCP-CN-2304 between 00:00 and 04:00 local time every day. In order to mitigate the damage caused by repeated execution of SCP-CN-2304 by personnel, it is recommended that each site rotate personnel according to the situation. \n\nIf the normal rising of SCP-CN-2304-1 is not observed following the execution of SCP-CN-2304, the site must immediately inform the Overseer Council and all sites are to be on guard for a possible veil disruption scenario emergency.\n\n**Description:** SCP-CN-2304 is an anomalous ritual, developed and confirmed to be effective by the applied theology department of Site-CN-44 of the Foundation's Chinese branch. The complete steps required to perform SCP-CN-2304 are: \n\n# No less than 33 people are to gather around an empty area, with no more than 1.5m between each person and the nearest other person.\n# Each person is to hold 2 g of pure gold in their mouth and kneel down facing east.\n# Each person uses a sharp implement made of solid gold to make a wound and draw blood (it is recommended to cut a fingertip) and draw Symbol-2304 with the resulting blood at a suitable distance in front of them.\n# Each person holds their forehead to the drawn ritual pattern and holds the position for 30 minutes. The ceremony is then to be declared complete.\n\nSCP-CN-2304-1 is the sun following 23/04/2021. Without intervention, the natural rising of SCP-CN-2304-1 from the east cannot be detected from any location on Earth, and the presence of SCP-CN-2304-1 cannot be sensed from any location in the Earth's atmosphere. As of now, the daily use of SCP-CN-2304 is the only way to prevent the above-mentioned anomaly.\n\n@@@@\n@@@@\n@@@@\n\n[[=]]\n[[div class=\"footer-wikiwalk-nav\"]]\n<< [[[SCP-CN-2303]]] | SCP-CN-2304 | [[[SCP-CN-2305]]] >>\n[[/div]]\n[[/=]]",
+  "tags": [
+    "_cn",
+    "international",
+    "k-class-scenario",
+    "ritual",
+    "scp",
+    "sun",
+    "thaumiel"
+  ],
+  "author": "tetsusquared",
+  "created_at": "2022-06-12T01:35:08+00:00",
+  "updated_at": "2022-06-12T01:38:16+00:00",
+  "rating": 20,
+  "_site": "scp-wiki",
+  "_fullname": "scp-cn-2304"
+}

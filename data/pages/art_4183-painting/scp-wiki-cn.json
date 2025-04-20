@@ -1,0 +1,13 @@
+{
+  "title": "4183-B，请回答。（SCP-4183绘画）",
+  "content": "[[include :scp-wiki-cn:theme:black-highlighter-theme]]\n[[include :scp-wiki-cn:theme:extra-black-highlighter-theme]]\n\n[[module CSS]]\n:root {\n    --pale-accent: 210, 96, 20;\n    --bright-accent: 194, 108, 33;\n    --medium-accent: 204, 116, 57;\n    --dark-accent: 179, 82, 4;\n    --alt-accent: 136, 221, 17;\n}\n[[/module]]\n\n\n[[include component:image-block\n| name=http://scp-wiki.wdfiles.com/local--files/art:4183-painting/4183.png\n| caption=SCP-4183的丙烯与钢笔手绘\n| width=1000px\n| align=center]]\n\n[[=]]\n我用丙烯和钢笔画了一副小一点的SCP-4183画作，送给朋友！这是我最爱的SCP之一，聚焦于简单和意象中心的情感对话。\n[[/=]]\n\n[[include :scp-wiki-cn:component:license-box\nauthor=EmotionalEntropy]]\n=====\n> **文件名：**4183.png\n> **图像作者：**[[*user EmotionalEntropy]]\n> **授权协议：**CC BY-SA 3.0\n> **来源链接：**[https://scp-wiki.wikidot.com/art:4183-painting SCP Foundation Wiki]\n=====\n[[include :scp-wiki-cn:component:license-box-end]]",
+  "tags": [
+    "艺术作品"
+  ],
+  "author": "Esperanza_Cai",
+  "created_at": "2023-04-07T08:25:40+00:00",
+  "updated_at": "2023-07-04T14:02:46+00:00",
+  "rating": 11,
+  "_site": "scp-wiki-cn",
+  "_fullname": "art:4183-painting"
+}

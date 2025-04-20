@@ -1,0 +1,17 @@
+{
+  "title": "Project Thaumiel",
+  "content": "[[>]]\n[[module rate]]\n[[/>]]\n\n> Further approval is necessary.\n> \n> //Please Enter Password Now//: \n> \n> **Does the black moon howl?**\n\n> No, but the sparrow's call is sweet.\n\n> ... Incorrect.\n> \n> //Please Enter Password Now//:\n> \n> **Does the black moon howl?**\n\n> Yes, but only in winter.\n\n> ... Incorrect.\n\n> LET ME IN\n\n> Further approval is necessary.\n> \n> //Please Enter Password Now//: \n> \n> **Does the black moon howl?**\n\n> The interface has been inactive for three minutes. Do you need assistance?\n\n> n\n\n> Do you wish to stay connected?\n\n> y\n\n> Only when waning.\n\n> //Please Step Away From the Interface and Place Your Hands on Your Head. You Do Not Have Access to **File Status: Thaumiel**//.\n> \n> Security Will Assist You Shortly.\n> \n> Do Not Resist.\n\n[[module ListPages created_by=\"troyl\" separate=\"no\" limit=\"250\" perPage=\"250\" tags=\"project-thaumiel, -hub\" order=\"title\"]]\n> * %%title_linked%%\n[[/module]]\n \n> * [[[Capitis]]]\n> * [[[Exanimis]]]\n> * [[[Flos]]]\n> * [[[Illac]]]\n> * [[[Numerus]]]\n> * [[[Serus]]]\n> * [[[Umbra]]]\n\n[[include :scp-wiki:component:license-box]]\n[[include :scp-wiki:component:license-box-end]]",
+  "tags": [
+    "_genreless",
+    "_licensebox",
+    "_tale-hub",
+    "hub",
+    "project-thaumiel"
+  ],
+  "author": "TroyL",
+  "created_at": "2011-10-21T00:46:21+00:00",
+  "updated_at": "2024-10-12T14:13:26+00:00",
+  "rating": 84,
+  "_site": "scp-wiki",
+  "_fullname": "thaumiel"
+}

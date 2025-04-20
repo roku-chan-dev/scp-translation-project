@@ -1,0 +1,14 @@
+{
+  "title": "글래시즈 워크벤치",
+  "content": "[[module CSS]]\n#page-content #toc {\n    max-width: 18.25rem;\n}\n#toc-list div[style=\"margin-left: 2em;\"] {\n    font-size: 96.5%;\n}\n@media only screen and (max-width: 640px) {\n    #page-content #toc.floatright {\n        max-width: 90%;\n        float: none;\n        margin: 1rem auto;\n    }\n}\n[[/module]]\n\n[[include info:start-standalone]]\n**요주의 단체 서식**\n**저자:** [[*user Jacob Conwell]] //et al.//\n**원작:** http://scp-wiki.wikidot.com/goi-formats\n**역자:** [[*user Cubic72]] //et al.//\n[[include info:end]]\n\n[[f>toc]]\n\n[[# info]]\n+ 안내\n\n이하는 모든 요주의 단체 서식 작품 목록입니다. 요주의 단체 이름 알파벳 순서로 정렬되어 있습니다. 고유의 서식을 가지지 않은 단체는 이 페이지에 나열되지 않으며, 서식이 생긴다면 새롭게 추가됩니다.\n\n요주의 단체 서식이란 각자 변칙성을 독특한 방법으로 접근하는 특정한 요주의 단체의 관점으로 작성된 문서입니다. 이런 작품은 다른 단체의 우선순위와 관심을 나타내는, 다른 단체 버전의 SCP 서식이라고 여겨도 됩니다.\n\n**[[[groups-of-interest|요주의 단체에 관한 더 많은 정보는 여기에서 찾아볼 수 있습니다.]]]**\n\n가능한 경우, 각 요주의 단체에 대한 허브 문서가 링크되어 있습니다. 이 허브에는 해당 단체에 대한 추가적인 정보가 있으며, 서식을 사용하는 방법 또한 나와있습니다.\n\n~~~~\n\n++ 윌슨 야생생물대책\n\n[[include :scpkosb3:goiftest\n|goiTag=윌슨-야생|lang=en]]\n\n++ 코이가레자키신문사\n\n[[include :scpkosb3:goiftest\n|goiTag=코이가레자키신문사|lang=jp]]",
+  "tags": [
+    "ko",
+    "작업용"
+  ],
+  "author": "thd-glasses",
+  "created_at": "2024-10-28T03:08:37+00:00",
+  "updated_at": "2025-03-11T14:11:32+00:00",
+  "rating": 0,
+  "_site": "scpko",
+  "_fullname": "workbench:thd-glasses"
+}

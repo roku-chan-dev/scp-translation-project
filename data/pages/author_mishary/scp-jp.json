@@ -1,0 +1,14 @@
+{
+  "title": "Misharyの著者ページ",
+  "content": "[[include :scp-jp:theme:scp-jp-10th-anniv]]\n\n[[include :pseudo-scp-jp:msr:author-page-theme]]\n\n[[div_ class=\"fragment\"]]\n[[div class=\"tocbar\"]]\n+ 投稿記録\n[[/div]]\n[[/div]]\n\n[[include :pseudo-scp-jp:msr:contributions]]\n\n[[div class=\"tocbar\"]]\n+ 人事ファイル\n[[/div]]\n\n[[include :pseudo-scp-jp:msr:personnel-dossier]]\n\n[[# my-cannon]]\n[[div class=\"tocbar\"]]\n+ 独自カノン・GoI案など\n[[/div]]\n[[include :pseudo-scp-jp:msr:headcanons]]\n\n[[include :pseudo-scp-jp:msr:others]]\n\n[[collapsible show=\"+リスト\"hide=\"-リスト\"]]\n[[include component:author-page]]\n[[/collapsible]]",
+  "tags": [
+    "jp",
+    "著者ページ"
+  ],
+  "author": "Mishary",
+  "created_at": "2020-02-02T21:45:23+00:00",
+  "updated_at": "2023-10-11T19:59:37+00:00",
+  "rating": 0,
+  "_site": "scp-jp",
+  "_fullname": "author:mishary"
+}

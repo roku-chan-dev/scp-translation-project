@@ -1,0 +1,14 @@
+{
+  "title": "전면전쟁 테마 (블랙 하이라이터)",
+  "content": "[[iftags +테마]]\n[[>]]\n**평가 모듈:**\n[[module Rate]]\n[[/>]]\n\n[[>]]\n**정보형 평가 모듈:**\n[[/>]]\n\n[[include info:start]]\nInfo about your page.\n[[include info:end]]\n\n[[module CSS]]\n@import url(\"https://nu-scptheme.github.io/Black-Highlighter/stable/styles/normalize.min.css\");\n@import url(\"https://nu-scptheme.github.io/Black-Highlighter/stable/styles/black-highlighter.min.css\");\n@import url(\"https://xcninety.github.io/Black-Highlighter/BlackHighlighterKR.css\");\n[[/module]]\n\n이것은 [[[war-on-all-fronts-hub|전면전쟁]]] 카논용 테마입니다. 시그마-9 버전은 **[[[theme:war-on-all-fronts-sigma|여기]]]**에 있습니다. 블랙 하이라이터 테마는 기본 블랙 하이라이터를 함께 사용해야 합니다. 이 테마를 항목에 사용하기 위해서는 다음 코드를 페이지에 붙여넣으세요.\n\n> @@[[include :scpko:theme:black-highlighter-theme]]@@\n> @@[[include :scpko:theme:war-on-all-fronts-bhl]]@@\n\n[[include component:image-block name=http://scptestwiki.wdfiles.com/local--files/woaf-bhl/mksjr3.png|caption=[/desk-of-junior-designer-s-yvonne Image by EstrellaYoshte].|width=100px]]\n\n+ 제목\n++ 제목 2\n+++ 제목 3\n\n[# 본 적 없는 링크] ([[[theme:war-on-all-fronts-bhl|본 적 있는 링크]]])\n\n 이 테마는 특수 가로선이 있으며, 유저는 다음 코드를 이용해 그것을 사용할 수 있습니다.\n\n[[code]]\n[[div_ class=\"woaf-hr\"]]\n[[/div]]\n[[/code]]\n\n[[div_ class=\"woaf-hr\"]]\n[[/div]]\n[[/iftags]]\n\n[[div [[iftags -테마]]style=\"display: none\"[[/iftags]]]]\n[[include :scp-wiki:theme:war-on-all-fronts-bhl]]\n[[module CSS show=\"true\"]]\n/* ---------------------------------\nWar on All Fronts (Sigma-9)\n2020 Wikidot Theme\nCreated by stormbreath\nHeader image created by EstrellaYoshte\n--------------------------------- */\n\n/* -------------- ROOT -------------- */\n@font-face { font-family: 'stencil'; src: url('https://cdn.jsdelivr.net/gh/projectnoonnu/noonfonts_eight@1.0/stencil.woff') format('woff'); font-weight: normal; font-style: normal; } /* 글꼴 출처 https://noonnu.cc/font_page/234 */\n@import url('https://fonts.googleapis.com/css?family=Saira%20Stencil%20One');\n\n:root:lang(ko) {\n    /* S-CSS-P Integration */\n    --theme-base: \"black-highlighter\";\n    --theme-id: \"woaf-bhl\";\n    --theme-name: \"War on All Fronts Theme (BHL)\";\n\n    /* Header */\n    --logo-image: url(\"http://scptestwiki.wdfiles.com/local--files/woaf-bhl/mksjr3.png\");\n    --header-title: \"전면전쟁\";\n    --header-subtitle: \"더 큰 배가 필요하겠어\";\n\n    /* Typefaces */\n    --header-font: 'Saira Stencil One', 'stencil', cursive;\n    --title-font: 'Saira Stencil One', 'stencil', cursive;\n\n}\n[[/module]]\n[[/div]]",
+  "tags": [
+    "en",
+    "테마"
+  ],
+  "author": "Salamander724",
+  "created_at": "2020-09-29T13:12:42+00:00",
+  "updated_at": "2023-08-19T12:50:20+00:00",
+  "rating": 0,
+  "_site": "scpko",
+  "_fullname": "theme:war-on-all-fronts-bhl"
+}

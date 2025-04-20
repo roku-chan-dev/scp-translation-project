@@ -1,0 +1,14 @@
+{
+  "title": "SCP-RU艺作中心 版式",
+  "content": "[[module css]]\n#header {\n    background-image: url(https://files.scpfoundation.net/local--files/theme:russian-art-hub/scp-art-hub.png);\n}\n\n@media (min-width: 768px) {\n#header {\n    background-size: 90px;\n}\n}\n\n#header h2 span {\n    color: transparent;\n    text-shadow: none;\n}\n\n#header h2 span::before {\n    content: 'SCP-RU艺作中心';\n    color: #f0f0c0;\n    text-shadow: 1px 1px 1px #000000;\n    text-shadow: 1px 1px 1px rgba(0,0,0,.8);\n}\n\n[[/module]]\n[[iftags +版式]]\n在你的作品开头添加如下语法以应用此版式：\n> @@[[include theme:russian-art-hub]]@@\n[[/iftags]]",
+  "tags": [
+    "ru",
+    "版式"
+  ],
+  "author": "Fallingdirt",
+  "created_at": "2025-03-12T06:03:13+00:00",
+  "updated_at": "2025-03-12T06:48:27+00:00",
+  "rating": 1,
+  "_site": "scp-wiki-cn",
+  "_fullname": "theme:russian-art-hub"
+}

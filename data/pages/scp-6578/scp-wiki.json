@@ -1,0 +1,22 @@
+{
+  "title": "SCP-6578",
+  "content": "[[include :scp-wiki:theme:classic]]\n\n[[>]]\n[[module Rate]]\n[[/>]]\n\n[[include component:image-block\n    name=https://upload.wikimedia.org/wikipedia/commons/9/9e/Post_Ranch_home_1930.png|\ncaption= Snyder's Ranch, photographed in 1939.| width=240px]]\n\n**Item #:** SCP-6578\n\n**Object Class:** Safe\n\n**Special Containment Procedures:** As removing SCP-6578 from its original site is currently unfeasible, the area surrounding Snyder's Ranch has been cordoned off with a perimeter fence. Usage of SCP-6578 for testing purposes requires prior approval from Project Director Haddix, and all instances of SCP-6578-1 are to be transported to [[[SCP-6097 | Site-44]]] for further study.\n\n**Description:** SCP-6578 is a burr oak tree //(Quercus macrocarpa)// located on the site of a former ranch in Ellsworth, Kansas. A rudimentary children's tire swing has been fastened to the outermost branch, and the initials //J.S.// are crudely engraved into the trunk. \n\nSCP-6578's anomalous properties will activate once the intact remains of a recently deceased human[[footnote]]Less than 24 hours after expiration.[[/footnote]] are buried within fifteen meters of the base. The following day at exactly 00:01 MST, a living replica of the deceased (designated SCP-6578-1) as they appeared at their time of death will manifest directly above the burial site. Instances of SCP-6578-1 will initially show signs of lethargy and disorientation, rarely possessing memories of events less than one week prior to their demise. There is no discernable limit to the number of times an individual can be resurrected in this manner.\n\nSCP-6578 came to Foundation attention in October 1938, following the discovery of human remains outside a small ranch in the name of 65 year old widower Hobart Snyder. Further investigation revealed the presence of some 47 genetically identical corpses in varying stages of decomposition, all dating to a sixteen-year period between 1922 and 1938. \n\nThese remains were universally found to correspond to the owner's then-living son, 11 year old Joshua Snyder, who was reported dead on February 2, 1922. In all 47 cases, the cause of death was determined to be acute leukemia.\n\n[[footnoteblock]]\n\n------\n\n[[=]]\n[*http://scp-wiki.wikidot.com/dr-leonerd-s-author-page More from this author...]\n[[/=]]\n\n------\n\n[[div class=\"footer-wikiwalk-nav\"]]\n[[=]]\n<< [[[SCP-6577]]] | SCP-6578 | [[[SCP-6579]]] >>\n[[/=]]\n[[/div]]",
+  "tags": [
+    "_cc",
+    "alive",
+    "cadaver",
+    "humanoid",
+    "plant",
+    "reanimation",
+    "safe",
+    "sapient",
+    "scp",
+    "tree"
+  ],
+  "author": "Dr Leonerd",
+  "created_at": "2023-06-23T00:02:53+00:00",
+  "updated_at": "2024-11-14T22:03:55+00:00",
+  "rating": 121,
+  "_site": "scp-wiki",
+  "_fullname": "scp-6578"
+}

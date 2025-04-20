@@ -1,0 +1,15 @@
+{
+  "title": "SCP-这个-J，Keter，一个强制将自身数据保存在此文档最醒目位置的符号危害递归指针。参见文档。（旧）",
+  "content": "[[include :scp-wiki-cn:theme:basalt]]\n------\n\n[[include :scp-wiki-cn:component:author-label-source start=--\n|name=Billith|no-right-margin=*]]\n作者[https://scp-wiki-cn.wikidot.com/sr-researcher-james-a-harkness-personnel-file Billith]。\n\n若您喜爱本文档，您可能也喜欢：\n|| **[[[SCP-5861]]]** || **[[[scp-in-a-box-j|SCP-????-J]]]** || **[[[SCP-3311]]]** || **[[[SCP-3533]]]** ||\n \n[[include :scp-wiki-cn:component:author-label-source end=--]]\n[[module CSS]]\ndiv.authorlink-wrapper{\nmargin-top: var(--author-top-adjust, .2em) !important;\n}\ndiv.poppin{\nbox-shadow: rgba(0, 0, 0, 0.4) 0px 2px 4px, rgba(0, 0, 0, 0.3) 0px 7px 13px -3px, rgba(0, 0, 0, 0.2) 0px -3px 0px inset !important;\nborder-radius: 5px 5px 5px 5px !important;\n}\n.breaklinker a {color: #ffffff !important;\n               }\n\n.blockquote {border-color: #ffffff;    \n                 background-color: #000000;\n     }\n.container  {position: relative;\n                 text-align: center;\n                 color: black;\n     width:100%;\n     }\n.centered   {position: absolute;\n    top: 50%;\n     left: 50%;\n    transform: translate(-50%, -50%);\n}\n:root {\n    --logo: url(https://scp-wiki.wdfiles.com/local--files/scp-5861/domc.png);\n    --title: \"基金会\";\n    --subtitle: \"概念误传部\";\n    --sidelogo: url(https://scp-wiki.wdfiles.com/local--files/scp-5861/domc.png);\n    --sidesubtitle: \"基金会\";\n}\n\n[[/module]]\n\n参见标题。\n\n@@ @@\n\n@@ @@\n\n@@ @@\n\n@@ @@\n\n@@ @@\n\n@@ @@\n\n> //我真不知道我还在指望些啥。// - 高级研究员Harkness\n\n\n@@ @@",
+  "tags": [
+    "scp",
+    "搞笑",
+    "旧页面"
+  ],
+  "author": "Esperanza_Cai",
+  "created_at": "2022-06-21T09:18:28+00:00",
+  "updated_at": "2023-12-19T12:08:37+00:00",
+  "rating": 2,
+  "_site": "scp-wiki-cn",
+  "_fullname": "old:scp-this-j"
+}

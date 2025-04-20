@@ -1,0 +1,23 @@
+{
+  "title": "SCP-4773-2",
+  "content": "[[module CSS]]\n.lie{\n     font-weight: bold;\n     font-family: monospace;\n     font-size: 140%;\n}\n.notice{\n    border: 1px solid #f9e24d;\n    outline: 4px solid #b54d3b;\n    color: #f9e24d;\n    background: #b54d3b;\n    padding: 10px;\n    text-align: center;\n}\n[[/module]]\n\n[[module CSS]]\n#page-content .collapsible-block-folded a.collapsible-block-link {\n    animation: blink 0.5s ease-in-out infinite alternate;\n}\n#page-title {\n    display: none;\n}\n@keyframes blink {\n    0% { color: transparent; }\n    50%, 100% { color: #b01; }\n}\n[[/module]]\n\n[[div class=\"notice\"]]\n[[=]]\n++++ 基金会误传部提醒\n\n这里有信息没有呈现在本文件中。这是非故意的。\n\n-- Eli Forkley, DoMC主管\n[[/=]]\n[[/div]]\n\n**项目编号：**\n\n**项目等级：**\n\n**特殊收容措施：**SCP-4773-2已被转移到4米乘4米乘4米的收容间中[[footnote]]收容间尺寸被用作测试基准；参见 **附录.1** 获取详情。[[/footnote]]，位于Site-96以供测试。收容团队CT-4773将在收容的初步预备性分析步骤中保持待命，当前仍在进行。\n\n**描述：**SCP-4773-2是一棕色填充玩具熊，由人造皮毛和棉花组成。SCP-4773-2会周期性漂浮到离地面10到70厘米处，以无规律模式移动。靠近SCP-4773-2的项目、实体或表面可能会彻底或部分地无法被感知。这被视作正常表现。\n\n因事件，怀疑该异常具备某种次要心智影响效应。--对此已经决定性证伪。-- //这被视作--正常--表现。//见下。\n\n**未定描述：**下列性质与SCP-4773-2周边情形可能有关或无关，当前未予确认。建议读者慎重考虑。\n* 质量，形状，等 -- 基准，常规物理性质\n* 动作（__已验证__）\n* 环境改变（不明确（__已验证__））\n* 带走食物。\n* 在人员中触发某种//不明确//的潜意识本能。\n* 人员不当弃置食物--残余--//，在其完全是可食用时//(?)\n * 未知命运。\n * 当前三（3）个三明治、四（4）袋腌土豆片，还有多种甜食。\n* 动作（__未验证__）\n* --心智影响--[[footnote]]激起情绪\n- 悲伤\n- 同情 --对什么？--[[/footnote]]\n* 很难（__已验证__）\n* --无法正确地co--\n* --人员无法t--\n* 暗示的存在（__不明__）(?)\n\n-----\n\n**附录.1 | 测试记录：**\n\n于1996年4月10日，Site-96人员批准对SCP-4773-2的测试提议（目的是收集其异常视觉效应数据），并在一周后执行测试。[[footnote]]在此期间，SCP-4773-2的收容间被设为禁入，人员被建议与相关异常保持最小接触以创立可接受基准。还需注意，SCP-4773-2的视觉效应与其位置不对应。[[/footnote]]为进行测试，SCP-4773-2收容间的东面墙被安装以多块方砖，长25厘米，通过闭路监控系统予以观察。每小时中，一名研究员会记录下不能看到哪些方砖，包括部分或全部不可见。[[footnote]]SCP-4773-2的位置以红色方砖的方位来确认。[[/footnote]]进入测试五小时后，程序中止，未能提取到决定性证据。数据见下。\n[[=image http://scp-wiki.wdfiles.com/local--files/scp-4773/Times.png class=\"crom-thumbnail\"]]\n[[footnote]]**译注：图中文字按时间戳排列分别为-**\nSCP-4773-2漂浮在离地半米处。未收集到决定性证据。\nSCP-4773-2漂浮在离地四分之一米处。未收集到决定性证据。\nSCP-4773-2在地面上没有移动。未收集到决定性证据。\nSCP-4773-2漂浮在离地半米处，未收集到决定性证据。\nSCP-4773-2在地面上没有移动。未收集到决定性证据。\nSCP-4773-2在地面上没有移动。未收集到决定性证据。[[/footnote]]\n1996年4月18日测试结束。\n\n\n[[=]]\n[[collapsible show=\"本文件有(1)次新更新\" hide=\"展示更新中...\"]]\n[[<]]\n> **1996-04-23**\n> -----\n> SCP-4773-2已被识别为无异常并放置于存储中。SCP-4773-1在收容间内的项目旁被发现，已死于脱水—尸体焚化预定于04-30进行，正在对收容间消毒\n\n[[/<]]\n[[/collapsible]]\n[[/=]]\n\n[[footnoteblock]]\n\n[[div class=\"footer-wikiwalk-nav\"]]\n[[=]]\n<< [[[SCP-4772]]] | SCP-4773 | [[[SCP-4774]]] >>\n[[/=]]\n[[/div]]",
+  "tags": [
+    "meta",
+    "scp",
+    "人形生物",
+    "合著",
+    "尸体",
+    "异常移动",
+    "感知影响",
+    "机密分级",
+    "玩具",
+    "误传部",
+    "逆模因"
+  ],
+  "author": "ashausesall",
+  "created_at": "2019-09-10T16:32:22+00:00",
+  "updated_at": "2020-11-18T06:50:43+00:00",
+  "rating": 22,
+  "_site": "scp-wiki-cn",
+  "_fullname": "scp-4773"
+}

@@ -1,0 +1,24 @@
+{
+  "title": "SCP-5623",
+  "content": "[[include :scp-wiki:theme:black-highlighter-theme]]\n[[include :scp-wiki:component:bhl-dark-sidebar]]\n\n[[module CSS]]\ndiv#extra-div-1 {\n     width: 100%;\n     height: calc(100% - var(--final-header-height-on-desktop));\n     position: absolute;\n     top: calc(var(--final-header-height-on-desktop));\n     left: 0;\n     z-index: -1;\n     mask: var(--gradient-background);\n     -webkit-mask: var(--gradient-background);\n     background-image: url(https://upload.wikimedia.org/wikipedia/commons/thumb/f/f3/Orion_Nebula_-_Hubble_2006_mosaic_18000.jpg/1024px-Orion_Nebula_-_Hubble_2006_mosaic_18000.jpg);\n     background-size: 100%, 80% var(--background-gradient-distance);\n     background-blend-mode: difference;\n     background-repeat: no-repeat, repeat-x;\n     pointer-events: none;\n}\n[[/module]]\n\n[[module css]]\n.danke{\npadding: 5px 5px 5px 15px;\nmargin-bottom:10px;\nwidth: 100%;\nfont-family: monospace;\nfont-size: 1.1em; }\n\n.agent{\nbackground-color:#002200;\nborder: 3px solid #55AA55;\ncolor: #77CC77;\n}\n\n.site{\nbackground-color:#222200;\nborder: 3px solid #AAAA55;\ncolor: #DDDD77;\n}\n[[/module]]\n\n[[>]]\n[[module Rate]]\n[[/>]]\n\n[[module ListPages category=\"fragment\" parent=\".\" order=\"created_at\" limit=\"1\" offset=\"@URL|0\"]]\n%%content%%\n[[/module]]\n\n[!-- http://scp-wiki.wikidot.com/fragment:scp-5623-1 --]\n[!-- http://scp-wiki.wikidot.com/fragment:scp-5623-2 --]\n[!-- http://scp-wiki.wikidot.com/fragment:scp-5623-3 --]\n\n[[footnoteblock]]\n\n[[div class=\"footer-wikiwalk-nav\"]]\n[[=]]\n<< [[[SCP-5622]]] | SCP-5623 | [[[SCP-5624]]] >>\n[[/=]]\n[[/div]]\n\n[[include :scp-wiki:component:license-box]]\n=====\n> **Filename:** ZeppelinBW\n> **Name:** Luftschiff Graf Zeppelin LZ 127\n> **Author:** German Federal Archives / Deutsches Bundesarchiv\n> **License:** CC-BY-SA 3.0\n> **Source Link:** [https://commons.wikimedia.org/wiki/File:Bundesarchiv_Bild_102-00951,_Luftschiff_Graf_Zeppelin_LZ_127.jpg wikimedia commons]\n> \n> **Attribution as in source link:** Bundesarchiv, Bild 102-00951 / CC-BY-SA 3.0\n\n> **Filename:** Background image by url (not uploaded as file)\n> **Name:** Orion Nebula - Hubble 2006 mosaic 18000\n> **Author:** NASA, ESA, M. Robberto (Space Telescope Science Institute/ESA) and the Hubble Space Telescope Orion Treasury Project Team\n> **License:** Public domain\n> **Source Link:** [https://en.wikipedia.org/wiki/File:Orion_Nebula_-_Hubble_2006_mosaic_18000.jpg wikimedia commons]\n> \n> **Additional Note:** The module somehow mirrors the image which I don't mind, but I cannot explain this. Also if the image causes issues in general (I used not the full quality photo from the Hubble Space Telescope so it should be fine), I can change it for a lower quality one.\n=====\n[[include :scp-wiki:component:license-box-end]]",
+  "tags": [
+    "_cc",
+    "_licensebox",
+    "_listpages",
+    "extraterrestrial",
+    "k-class-scenario",
+    "loop",
+    "mechanical",
+    "sapient",
+    "scp",
+    "teleportation",
+    "ticonderoga",
+    "vehicle"
+  ],
+  "author": "Sirslash47",
+  "created_at": "2021-01-04T19:47:50+00:00",
+  "updated_at": "2024-03-26T20:44:15+00:00",
+  "rating": 208,
+  "_site": "scp-wiki",
+  "_fullname": "scp-5623"
+}

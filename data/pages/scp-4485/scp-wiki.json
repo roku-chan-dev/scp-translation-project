@@ -1,0 +1,28 @@
+{
+  "title": "SCP-4485",
+  "content": "[[include component:info-ayers\n|lang=en[!-- EN/RU/KO/CN/FR/PL/ES/TH/JP/DE/IT/UA/PTBR --]\n|page=scp-4485[!-- url of your page on the scp wiki --]\n|authorPage=https://scp-wiki.wikidot.com/djkaktus[!-- link to your author page --]\n|comments=\n\n= **SCP-4485** - //Such Black Light//\n\n----\n\nCo-authored by djkaktus and Woedenaz\n\n]]\n\n[[=]]\n[[module Rate]]\n[[/=]]\n[[module css]]\n#page-title {\n\tdisplay: none;\n}\n\n#page-content .info-container {\n    --link-color: rgb(var(--swatch-text-general));\n}\n\n#page-content .info-container .translation_block {\n    display: none;\n}\n\n#page-content .info-container .collapsible-block-link,\n#page-content .info-container:hover .collapsible-block-link {\n    line-height: 1.6em;\n}\n\n#page-content .info-container .collapsible-block-folded,\n#page-content .info-container .collapsible-block-unfolded-link {\n    display: grid;\n}\n\n#page-content .info-container .collapsible-block-folded .collapsible-block-link,\n#page-content .info-container .collapsible-block-link {\n    -webkit-mask: unset;\n            mask: unset;\n    background: transparent;\n    grid-column: 1;\n    grid-row: 1;\n    opacity: 0;\n}\n\n#page-content .info-container .collapsible-block-folded::before,\n#page-content .info-container .collapsible-block-unfolded-link::before {\n    --wght: 800;\n    content: \"Collaboration\";\n    color: #FFFFFF;\n    font-family: Inter, Arimo, Verdana, Geneva, \"Helvetica Neue\", \"Helvetica\", Arial, sans-serif;;\n    display: block;\n    pointer-events: none;\n    grid-column: 1;\n    grid-row: 1;\n}\n[[/module]]\n\n[[module ListPages  category=\"fragment\" parent=\".\" limit=\"1\" order=\"created_at\" offset=\"@URL|0\"]]\n%%content%%\n[[/module]]\n\n[!--\nFragment list:\nhttps://scp-wiki.wikidot.com/fragment:scp-4485-0\nhttps://scp-wiki.wikidot.com/fragment:scp-4485-1\nhttps://scp-wiki.wikidot.com/fragment:scp-4485-2\nhttps://scp-wiki.wikidot.com/fragment:scp-4485-3\nhttps://scp-wiki.wikidot.com/fragment:scp-4485-4\nhttps://scp-wiki.wikidot.com/fragment:scp-4485-5\n--]\n\n[[footnoteblock]]\n\n\n[[div class=\"footer-wikiwalk-nav\"]]\n[[=]]\n<< [[[SCP-4484]]] | SCP-4485 | [[[SCP-4486]]] >>\n[[/=]]\n[[/div]]\n\n[[include component:license-box author=djkaktus & Woedenaz]]\n=====\n> **Filenames:** bililiteRange.js, cons_circle.png, cons_circle.svg, cons_circle.webp, CustomEase.min.js, fittext.js, framing-theme.min.css, gradient.png, gradient.webp, HANSARP.svg, hansarp-6of8.css, hansarplogo.png, iamhansarp.svg, img1.png, img1.webp, img2.png, img2.webp, img3.png, img3.webp, img4.png, img4.webp, img5.png, img5.webp, jquery.sendkeys.js, logo.png, logo.svg, logo.webp, mersenne-twister.js, modernizr.js, names.csv, survey.html, survey.js, survey.min.css, watchingone.svg\n> **Author:** [[*user woedenaz]]\n> **License:** CC BY-SA 3.0\n> **Source Link:** [/scp-4485 SCP Foundation Wiki]\n\n> **Filename:** LHOOQ.png\n> **Author:** [[*user djkaktus]]\n> **License:** CC BY-SA 3.0\n> **Source Link:** [/scp-4485 SCP Foundation Wiki]\n> **Derivative Of:**\n> ----\n> **Name:** Sluice gate at tidal end of the South Holland Main Drain\n> **Author:** Richard Humphrey\n> **License:** CC BY-SA 2.0\n> **Source Link:** [https://geograph.uk/1973712 Geograph]\n\n> **Filename:** location-scp-4485.png\n> **Name:** Itaipu Décembre 2007 - Intérieur du barrage.jpg\n> **Author:** Martin St-Amant\n> **License:** CC BY-SA 3.0\n> **Source Link:** [https://commons.wikipedia.org/wiki/file:itaipu_Décembre_2007_-_Intérieur_du_barrage.jpg Wikimedia Commons]\n\n> **Filename:** Scranton-JatesEngine.png\n> **Author:** [[*user djkaktus]]\n> **License:** CC BY-SA 3.0\n> **Source Link:** [/scp-4485 SCP Foundation Wiki]\n> **Derivative Of:**\n> ----\n> **Name:** Water turbine grandcoulee.jpg\n> **Author:** U.S. Bureau of Reclamation\n> **License:** Public Domain\n> **Source Link:** [https://commons.wikipedia.org/wiki/file:water_turbine_grandcoulee.jpg Wikimedia Commons]\n\n> **Filename:** watchinglistening.png\n> **Author:** [[*user djkaktus]]\n> **License:** CC BY-SA 3.0\n> **Source Link:** [/scp-4485 SCP Foundation Wiki]\n> **Derivative Of:**\n> ----\n> **Name:** Hans Arp.JPG\n> **Author:** Vincent Steenberg\n> **License:** Public Domain\n> **Source Link:** [https://commons.wikipedia.org/wiki/file:hans_Arp.JPG Wikimedia Commons]\n=====\n[[include component:license-box-end]]",
+  "tags": [
+    "_cc",
+    "_licensebox",
+    "_listpages",
+    "apollyon",
+    "are-we-cool-yet",
+    "artistic",
+    "broken-god",
+    "co-authored",
+    "cognitohazard",
+    "document",
+    "ethics-committee",
+    "global-occult-coalition",
+    "location",
+    "mind-affecting",
+    "scp",
+    "the-critic"
+  ],
+  "author": "Woedenaz",
+  "created_at": "2019-08-28T14:03:33+00:00",
+  "updated_at": "2024-02-20T19:37:16+00:00",
+  "rating": 462,
+  "_site": "scp-wiki",
+  "_fullname": "scp-4485"
+}

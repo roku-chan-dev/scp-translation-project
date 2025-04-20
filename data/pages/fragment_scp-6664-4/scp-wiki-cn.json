@@ -1,0 +1,13 @@
+{
+  "title": "SCP-6664 4",
+  "content": "[[include :scp-wiki-cn:theme:blankstyle acs=a]]\n\n[[include :scp-wiki:component:acs-animation]]\n\n[[div class=\"blockquote\"]]\n//对原文档的改动以##blue|蓝色##突出显示。//\n\n[[/div]]\n\n[[include :scp-wiki-cn:component:anomaly-class-bar-source\n\n    |lang=cn\n\n    |item-number= SCP-6664\n\n    |clearance= 1\n\n    |container-class= safe\n\n    |secondary-class= none\n\n    |disruption-class= vlam\n\n    |risk-class= 警告\n\n    ]]\n\n-----\n\n[[include component:image-block name=http://scp-wiki.wikidot.com/local--files/fragment:scp-6664-4/treeV.png|align=center|width=100%|caption=收容前的SCP-6664。]]\n\n-----\n\n**特殊收容措施：**SCP-6664应被收容于##blue|Site-43##生物收容区的温室中。 为防止对SCP-6664的枝叶造成损坏，应禁止攀爬之。\n\n**描述：**SCP-6664为一目前位于##blue|Site-43##的##blue|北美短叶松（//Pinus banksiana//）##，俗称##blue|班克松##。除其异常性质外，其与同树种树木无异。\n\nSCP-6664将在##blue|其球果结构[[footnote]] **译注：**[https://baike.baidu.com/item/%E7%90%83%E6%9E%9C/1922804#4 参考文献] [[/footnote]]触及到火##表现出其异常性质。当##blue|SCP-6664的球果结构与火焰进行接触##时，其并不会如预期般##blue|开裂并散落种子##，##blue|该球果将剧烈爆炸，以高速释放大量无法容纳于球果内的种子。SCP-6664的球果结构##称为SCP-6664-1。\n\nSCP-6664-1##blue|为SCP-6664所生长的球果##。SCP-6664-1##blue|内存在生长异常迅速的种子，约4天就可长至完整大小。由SCP-6664种子传播而生长的树木在其他方面不具有异常性质。##\n\n-----\n\n[[=]]\n+ **附录6664.1：发现记录**\n[[/=]]\n\nSCP-6664被发现于2014年1月18日，一个##blue|当地青年Isabelle Diana表述SCP-6664附近有点燃的烟火，并且自己曾被几颗高速飞行的种子砸到。附近一位正下班的基金会员工目睹了SCP-6664-1的爆炸过程##，并上报其可能为一种异常。随后SCP-6664被移至##blue|Site-91##中。\n\n[[div class=\"blockquote\"]]\n//**该文件已被锁定。**//\n\n//在所有人达成一致前，不允许于该页面进行任何编辑。我不在乎SCP-6664是什么，也别管这该死的文件。当你能把它[[[http://scp-wiki-cn.wikidot.com/scp-6664/offset/5|讲个明白]]]的时候，请向我报告。//\n\n//——技术研究员Rosen//\n\n[[/div]]",
+  "tags": [
+    "段落"
+  ],
+  "author": "EvkesraRe",
+  "created_at": "2022-02-11T14:29:23+00:00",
+  "updated_at": "2022-02-11T14:36:09+00:00",
+  "rating": 0,
+  "_site": "scp-wiki-cn",
+  "_fullname": "fragment:scp-6664-4"
+}

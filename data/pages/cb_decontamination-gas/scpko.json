@@ -1,0 +1,13 @@
+{
+  "title": "오염 정화 가스",
+  "content": "원문 http://scpcb.gamepedia.com/Decontamination_gas\n\n[[div style=\"float:right; margin:0 2em 1em 2em; width:400px;\"]]\n[[image https://gamepedia.cursecdn.com/scpcb_gamepedia/thumb/4/4f/God_damn_smoke.png/300px-God_damn_smoke.png?version=c11b907388002068a37c9cd391f5e8dd\"]] \n[[/div]]\n**오염 정화 가스**(또는 **연기**라고 불리기도 함)는 [[[CB:Class-D personnel|D계급 인원]]]이 도주하지 못하게 하는 보안 장치이며, 시설 곳곳에서 찾아볼 수 있는 게임 요소이다.\n\n++ 설명\n이 가스는 기지의 수많은 방들에 배치되어 있으며, D계급의 도주를 방지하고 만일의 사태 발생시 SCP들의 움직임을 막기 위해 사용된다.\n\n++ 게임에서\n오염 정화 가스는 플레이어의 눈을 자극하여 [[[CB:Game Mechanics|눈깜빡임]]] 속도를 증가시킨다. 이때 눈깜빡임 아이콘은 테두리가 붉은색으로 변하고, 깜빡임 바가 빠르게 깎여나간다. 이것을 막기 위해 플레이어는 [[[CB:Items#toc1|가스 마스크]]]를 착용해 눈을 보호할 수 있다. 가스 마스크를 쓰지 않은 채로 가스에 계속 노출될 경우 죽게 된다.\n\n이 가스가 주로 발견되는 곳으로는 [[[CB:Heavy Containment Zone#toc2|가스 들보]]], [[[CB:Light Containment Zone#toc3|폐쇄실]]], [[[CB:Heavy Containment Zone#toc3|세 갈래 가스 들보]]], [[[CB:Heavy Containment Zone#toc0|금속 회랑]]], [[[CB:Heavy Containment Zone#toc4|대형 실험실]]]이 있다. \n\n가스가 플레이어의 눈에 미치는 영향으로 인해, 플레이어가 가스 마스크를 장비하고 있지 않을 때 이 지역들 주위에서 [[[CB:SCP-173]]] 등 시각과 관련된 SCP가 출몰하면 위험해진다. 하지만 SCP-173은 가스 들보와 폐쇄실 주위에서만 출현하기 때문에, 적절한 계획만 세우고 있다면 어려움 없이 SCP를 따돌리면서 이 구역들을 돌아다닐 수 있을 것이다.",
+  "tags": [
+    "cb"
+  ],
+  "author": "Salamander724",
+  "created_at": "2014-01-23T23:28:08+00:00",
+  "updated_at": "2020-01-04T10:55:54+00:00",
+  "rating": 0,
+  "_site": "scpko",
+  "_fullname": "cb:decontamination-gas"
+}

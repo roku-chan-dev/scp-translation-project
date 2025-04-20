@@ -1,0 +1,13 @@
+{
+  "title": "克莱尔的作者页",
+  "content": "> [[=]]\n> 于是，我走出人间。\n> [[/=]]\n\n[[include component:author-page\norder=created_at |\ntranslation=yes |\nbackground=yes |\nimage=yes |\nsortbar=yes |\n]]",
+  "tags": [
+    "作者"
+  ],
+  "author": null,
+  "created_at": "2021-04-15T06:37:10+00:00",
+  "updated_at": "2023-04-16T09:03:29+00:00",
+  "rating": 43,
+  "_site": "scp-wiki-cn",
+  "_fullname": "claire-walker"
+}

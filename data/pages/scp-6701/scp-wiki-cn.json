@@ -1,0 +1,20 @@
+{
+  "title": "SCP-6701",
+  "content": "[[include :scp-wiki-cn:credit:start-standalone]]\n本文中的图像可以通过悬停放大。\n[[include :scp-wiki-cn:credit:end-standalone]]\n\n[[include :scp-wiki-cn:theme:last-frontier]]\n\n[[module CSS]]\n#header h1 a::before {\n    content: \"SCP 基金会\";\n}\n \n#header h2::before {\n    content: \"控制 - 收容 - 保护\";\n    text-shadow: 0rem 0rem 0.3125rem #000000;\n}\n[[/module]]\n\n**项目编号：**SCP-6701\n\n**项目等级：**未收容\n\n**特殊收容措施：**在多次收容SCP-6701失败后，它被认定为无法收容。由卫星或其他太空设备创建的SCP-6701图像将由[[[scp-5857|基金会AI双子星]]]予以拦截并删除，在此之前应上传至基金会数据库。\n\n若有必要应对平民施以B或C级记忆删除。\n\n刻有奇术符文的物品不得在被无效化后重复使用，直至另行通知。\n\n**描述：**SCP-6701是一个基金会制作的木制玩具燕子，原本是供Site-47内一名幼年人形异常娱乐使用。它在被创造后突破收容，化为一明亮不明物体飞向了太空。因此事与该人形异常相关，此次收容突破被改编为一则睡前故事，基金会人员将SCP-6701描述成既是流星、又是凤凰。截至目前，基金会AI双子星认定此二者均有可信度。\n\n未知SCP-6701是否具备感知性，或是具备其他任何类型的异常能力。\n\n**发现：** Site-47的3级工匠Andrew Scriver偶尔志愿为站内异常及D级人员制作物品。2020年8月2日，Scriver在使用雕刻台后去往最近的工坊拿取齿轮和其他材料制作机械，用以完成SCP-6701的建造。\n\n当时，作为全球废物及资源回收计划的实验阶段，Site-47正在临时性地重复利用刻有奇术符文的无效化项目。在完工后，玩具从他手中飞出，穿透了天花板。内部调查发现有多个小型奇术物件被意外混入了金属废料中。负责人员因违反多条安保协议已受训诫惩罚。\n\n[[include :scp-wiki:component:image-features-source |hover-enlarge=--]\n|enlarge-amount=6\n|speed=250\n|float=true\n|align=right\n|width=300px\n|url=https://scp-wiki.wdfiles.com/local--files/scp-6701/Blackbird.jpg\n|add-caption=true\n|caption=人员正在尝试寻回SCP-6701。\n]]\n在告知守卫后，该异常被认定为脱离常规装备[[footnote]]主要为无人机和带网的无人飞行器。[[/footnote]]的空中回收范围。改为派出半径2公里内的回收队，Scriver接受内部讯问。\n\nSCP-6701维持其飞行轨迹，且加速到对其结构而言不可能的速度。站点主管Meyx下令以飞机开展回收，但未待任何飞机起飞，SCP-6701便已突破音障，速度达到了1马赫。[[footnote]]1马赫等于330 m/s，1188 km/h、或761.21mph。[[/footnote]] 由于SCP-6701仍在加速、且受到包括科里奥利效应[[footnote]]科里奥利效应定义为物体与表面不相连达到相当长时间后出现的方向偏转，由地球自转引起。[[/footnote]]在内等多种天体力学影响，改为派出隐形喷气机。\n\nSCP-6701在脱离对流层后发生自燃，很快突破3马赫。由于人员无法继续跟随其速度或海拔，该任务就此放弃，工作重点转向防范公众发现。基金会设备偶尔能侦测到SCP-6701以超过此前观察的更快速度飞行。 \n\n在站点主管Meyx批准后，为人形异常提供了一个带有多层反认知危害透镜的手工望远镜。\n[[footnoteblock]]\n\n[[div class=\"footer-wikiwalk-nav\"]]\n[[=]]\n<< [[[SCP-6700]]] | SCP-6701 | [[[SCP-6702]]] >>\n[[/=]]\n[[/div]]\n\n[[include :scp-wiki-cn:component:license-box\nauthor=Sirslash47]]\n=====\n> **文件名：**Blackbird.jpg\n> **图像名：**Lockheed SR-71 Blackbird.jpg\n> **图像作者：**USAF / Judson Brohmer\n> **发布日期：**1994年12月\n> **授权协议：**公共领域\n> **来源链接：**[[[https://commons.wikimedia.org/wiki/File:Lockheed_SR-71_Blackbird.jpg|Wikimedia Commons]]]\n> **附加信息：**本图为美国空军和联邦政府的照片。\n=====\n[[include :scp-wiki-cn:component:license-box-end]]",
+  "tags": [
+    "scp",
+    "基金会制",
+    "异常移动",
+    "星际",
+    "未收容",
+    "机密分级",
+    "玩具",
+    "鸟类"
+  ],
+  "author": "ashausesall",
+  "created_at": "2021-09-02T15:16:09+00:00",
+  "updated_at": "2023-08-12T03:29:19+00:00",
+  "rating": 3,
+  "_site": "scp-wiki-cn",
+  "_fullname": "scp-6701"
+}

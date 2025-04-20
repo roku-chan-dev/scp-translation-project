@@ -1,0 +1,14 @@
+{
+  "title": "10080",
+  "content": "overview: '██村において、04:18分から71分間「エリーゼのために」が全ての音響機器から再生されました。██村の音響機器には異常が見られず、「エリーゼのために」が録音されている記録媒体も存在しませんでした。'\nswdate: '1'\ndate: '20██/██/██　04:18~05:29'\nswplace: '1'\nplace: ██県██村\nswchaseprocedure: '1'\nchaseprocedure: ██村の村民にはクラスA記憶処理が施されました。調査により██村出身のピアニスト██氏（71）が同時刻に██赤十字病院で死亡している事が確認されました。██赤十字病院ではPHS着信音に「エリーゼのために」を使用していた事が判明しています。\nswaddendum: '0'\naddendum: ''\ntf2: '1'\nauthor: koke_zizou\nredirect-b: '[[module Redirect destination=\"/log-of-extranormal-events-jp'\nredirect-e: '\"]]'",
+  "tags": [
+    "jp",
+    "剪定対象-子"
+  ],
+  "author": "machikawa",
+  "created_at": "2020-07-24T04:39:35+00:00",
+  "updated_at": "2021-05-24T13:21:07+00:00",
+  "rating": 25,
+  "_site": "scp-jp",
+  "_fullname": "extranormal-events-jp:10080"
+}

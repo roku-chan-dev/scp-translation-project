@@ -1,0 +1,14 @@
+{
+  "title": "コードブロック",
+  "content": "@@[[code]] ... [[/code]]@@タグでコード･ブロックを生成することができます。\n[[code]]\nこれがコードブロックです\n[[/code]]\n\n[[include]]タグを除いて、コードブロック内のすべてのwiki構文はリテラルテキストとして扱われ、処理されません。\n[[include]]タグの処理を避けたい場合は、1つの半角スペース（\" \"）をその前に挿入して下さい。\n\nページ内のコードブロックはそれぞれが一意のURLを持っています。これはコードブロックがCSSコードを含んでいる際に特に役立つでしょう。\n[[code]]\nhttp://scpjp-fansite.wikidot.com/wikidot-syntax-trans/code\nhttp://scpjp-fansite.wikidot.com/wikidot-syntax-trans/code/2  -- second block\n[[/code]]\n\nこうすることで、_templateを考慮せずに、ページのソース自体に定義されたコードブロックを抽出することができます。\n_templateと組み合わせたページのソースを形成しているコー​​ドブロックにアクセスするには、次のURLを使用します。\n[[code]]\nhttp://mysite.wikidot.com/category:page/code_  -- 末尾のアンダースコアに注意して下さい\nhttp://mysite.wikidot.com/category:page/code_/2  -- second block\n[[/code]]\n\n\nあなたがPHPタグを使用するときに、自動的に色付けされたPHPブロックを作成するには、[[code type=\"php\"]]…[[/code]] タグを使用してコードを囲みます。\n色付けされたPHPコードを取得するには、<?php … ?>で囲む必要があります。\n\nWikidot.comはPEAR :: Text_Highlighterを使用しており、かなりの数のカラースキームをサポートしています。\n以下はPEAR :: Text_Highlighterがサポートしている言語です;\n\nphp, html, cpp, css, diff, dtd, java, javascript, perl, python, ruby, xml.\n\n[[code]]\n[[code type=\"php\"]]\n<?php\n/* comment */\nfor($i=0; $i<100; $i++){\necho \"number\".$i.\"\\n\";\n}\n?>\n[[/code]]\n[[/code]]\n[[code type=\"php\"]]\n<?php\n/* comment */\nfor($i=0; $i<100; $i++){\necho \"number\".$i.\"\\n\";\n}\n?>\n[[/code]]",
+  "tags": [
+    "jp",
+    "リファレンス"
+  ],
+  "author": "C-take",
+  "created_at": "2018-04-09T12:30:09+00:00",
+  "updated_at": "2023-01-13T12:08:26+00:00",
+  "rating": 5,
+  "_site": "scp-jp",
+  "_fullname": "wiki-syntax:code-blocks"
+}

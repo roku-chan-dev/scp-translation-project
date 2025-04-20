@@ -1,0 +1,14 @@
+{
+  "title": "被放逐者的书架：顶部组件",
+  "content": "[[module css]]\n.book-annotation-1,\n.book-annotation-2 {\ndisplay:none;\n}\n\n.shelf-{$list-shelf} .book-annotation-{$book-annotation} {\ndisplay:block !important;\n}\n\n.my-plank-{$my-plank} .et-plank {\n    background: {$plank-background};\n    -webkit-filter:  {$plank-filter};\n    filter: {$plank-filter};\n    transform: rotateX(0deg);\n    background-blend-mode: overlay, normal;\n    background-size:  {$plank- background-size};\n    border-radius:{$plank-border};\n    border-radius:{$plank-border-radius};\n}\n\n\n[[/module]]\n\n\n[[div class=\"shelf-{$list-shelf} shelf-wrap trans-{$trans}  my-plank-{$my-plank}\"]]\n[[div class=\"shelf-{$trans}\"]]",
+  "tags": [
+    "原创",
+    "组件"
+  ],
+  "author": "Etinjat",
+  "created_at": "2020-09-21T08:52:31+00:00",
+  "updated_at": "2021-12-02T06:36:25+00:00",
+  "rating": 2,
+  "_site": "scp-wiki-cn",
+  "_fullname": "component:bookshelf-shelf-top"
+}

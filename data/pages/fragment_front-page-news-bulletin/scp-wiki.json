@@ -1,0 +1,13 @@
+{
+  "title": "Front Page News Bulletin",
+  "content": "[!-- NOTE: There should be only two news bulletins in here at any given moment. Don't put in more, and if you do (due to an exceptional situation), remove the excess ones as soon as possible! --]\n\n[!-- ------------------------------------- --]\n \n[[div class=\"box newsbox\"]]\n[[div class=\"title\"]]\nSITE NEWS\n[[/div]]\n[[div class=\"issue\"]]\n**[[[news | Latest Issue]]]** of //Site News!//\n[[/div]]\n[[div class=\"news\"]]\n+++++ {$date1}\n\n{$blurb1}\n[[/div]]\n\n[!--\n[[div class=\"news\"]]\n+++++ {$date2}\n\n{$blurb2}\n[[/div]]\n--]\n\n[[div class=\"footer\"]]\n@@>>@@ [[[news|]]]\n[[/div]]\n\n[[/div]]\n\n[[module CSS]]\n/* *** NEWS *** */\n\n.newsbox{\n    align-items: stretch;\n    gap: .5rem;\n}\n\n.news {\n    display: block;\n    padding: 0 0.5rem;\n    background: #fff0f0;\n    margin: 0;\n    box-shadow: 0px 2px 1px #00000021;\n    flex-grow: 1;\n}\n\n.issue {\n    display: block;\n    padding: 0;\n    background: #fffbdb;\n    text-align: center;\n    box-shadow: 0px 2px 1px #00000021;\n}\n.issue p {\n    margin: 0.25rem 0;\n}\n[[/module]]",
+  "tags": [
+    "fragment"
+  ],
+  "author": "EstrellaYoshte",
+  "created_at": "2021-08-29T17:44:27+00:00",
+  "updated_at": "2025-01-05T06:07:59+00:00",
+  "rating": 0,
+  "_site": "scp-wiki",
+  "_fullname": "fragment:front-page-news-bulletin"
+}

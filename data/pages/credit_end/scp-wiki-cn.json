@@ -1,0 +1,13 @@
+{
+  "title": "credit:end",
+  "content": "[[/div]]\n------\n[[div class=\"credit-back\" style=\"text-align: center;\"]]\n[[iframe https://scp-wiki-cn.wdfiles.com/local--code/credit%3Abackmodule/2 style=\"height:2em;width: 100%;margin: 0;padding: 0;border: 0;background: transparent;\" scrolling=\"no\"]]\n[[/div]]\n[[div class=\"creditBottomRate\" style=\"position:relative;height:30px;\"]]\n[[div style=\"text-align: center; top: 0px;\"]]\n[[module Rate]]\n[[/div]]\n[[/div]]\n[[/div]]\n[[/div]]\n[[/div]]",
+  "tags": [
+    "组件"
+  ],
+  "author": "Sekai_s",
+  "created_at": "2018-11-17T18:16:35+00:00",
+  "updated_at": "2021-08-07T02:00:03+00:00",
+  "rating": 34,
+  "_site": "scp-wiki-cn",
+  "_fullname": "credit:end"
+}

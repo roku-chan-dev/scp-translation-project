@@ -1,0 +1,14 @@
+{
+  "title": "　　　　　　",
+  "content": "[[module css]]\n.hover {\ntext-decoration: none;\n    border-bottom: none;\n    color:black;\n}\n.hover:hover {\n     text-decoration: none;\n    border-bottom: none;\n    color:#c90926;\n}\n\n.hover span {    display: none;}\n.hover:hover span {\n    position: absolute;\n    display: inline;\n    margin: 20px 0px;\n    height: auto;\n    width: auto;\n    background: #FFF;\n    border: 1px solid #000;\n    color: black;\n    padding: 0.5em;\n}\n.hover:hover span span {\n    position: relative;\n    margin: auto;\n    height: auto;\n    width: auto;\n    border: none;\n    padding: 0;\n}\n[[/module]]\n//[[size 70%]]やったこと[[/size]]//\n[[span class=\"hover\"]] [[span]]砂wiki [[/span]][[a_ href=\"http://erimamanus.wikidot.com/\"style=\"cursor: text; text-decoration: none !important; color: inherit;\"]]████[[/a]] [[/span]] [[span class=\"hover\"]] [[span]]1542jp [[/span]][[a_ href=\"/scp-1542-jp\"style=\"cursor: text; text-decoration: none !important; color: inherit;\"]]████[[/a]] [[/span]] [[span class=\"hover\"]] [[span]]3434-訳 [[/span]][[a_ href=\"/scp-3434\"style=\"cursor: text; text-decoration: none !important; color: inherit;\"]]████[[/a]] [[/span]] [[span class=\"hover\"]] [[span]]3573-訳 [[/span]][[a_ href=\"/scp-3573\"style=\"cursor: text; text-decoration: none !important; color: inherit;\"]]████[[/a]] [[/span]] [[span class=\"hover\"]] [[span]]2573-訳 [[/span]][[a_ href=\"/scp-2573\"style=\"cursor: text; text-decoration: none !important; color: inherit;\"]]████[[/a]] [[/span]] [[span class=\"hover\"]][[span]]3140-訳 [[/span]][[a_ href=\"/scp-3140\"style=\"cursor: text; text-decoration: none !important; color: inherit;\"]]████[[/a]] [[/span]] [[span class=\"hover\"]] [[span]]475-訳 [[/span]][[a_ href=\"/scp-475\"style=\"cursor: text; text-decoration: none !important; color: inherit;\"]]████[[/a]] [[/span]] [[span class=\"hover\"]] [[span]]3150-訳 [[/span]][[a_ href=\"/scp-3150\"style=\"cursor: text; text-decoration: none !important; color: inherit;\"]]████[[/a]] [[/span]]\n@@@@\n[[collapsible show=\"　　　　　　　\" hide=\"いいえ。私は既に観測を終了しました\"]]\n**本名:** 朱砂 迦嬰(Susa Kaei)\n\n**専門:** 抽象代数学(//19██年博士号取得//) 反ミーム学(//████年博士号取得//) █次元モデル数学\n\n**所属:** 反%%%%%部門 [[size 0%]]元[[/size]][http://ja.scp-wiki.net/scp-3125 　　　　]\n\n**人物:** 朱砂博士はあらゆる現存の記録と論理的必然によって存在している/していたと強く信じられている財団職員 および/または 中度以上の友好的人員です。朱砂博士は　　　　との接触による影響、あるいは以前からの意思によって現在の状態に自主的に帰着したと考えられています。残留情報の痕跡から、当該時点以前は純粋な　　　　　であったと考えられます。残留情報は以下に示されます:\n\n* クラスIm~Reに相当する記憶隠蔽脅威への先天的な免疫\n* 左腕の後天的な欠損\n* 花瓶の収集癖\n* 薬物依存症(█████-██████タイプの記憶補強薬を含む)\n* [http://ja.scp-wiki.net/author:ukarayakara 　　　　]との不明確な関連\n* 多量の雑多なピアス\n* --私は鶏が嫌い--\n[[/collapsible]]",
+  "tags": [
+    "jp",
+    "著者ページ"
+  ],
+  "author": "sandselbstmord",
+  "created_at": "2018-03-31T03:18:17+00:00",
+  "updated_at": "2021-01-10T17:05:45+00:00",
+  "rating": 0,
+  "_site": "scp-jp",
+  "_fullname": "author:sandselbstmord"
+}

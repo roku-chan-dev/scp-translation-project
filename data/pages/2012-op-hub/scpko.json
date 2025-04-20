@@ -1,0 +1,15 @@
+{
+  "title": "12년 작전 허브",
+  "content": "[[include :scpko:theme:last-frontier]]\n@@@@\n@@@@\n@@@@\n[[include info:start]]\n**제목:** 12년 작전 허브\n\n**저자:** [[*user Helmut Ashworth]]\n-----\n[[=]]\n[[[helmut-ashworth|♯]]]\n[[/=]]\n\n[[include info:end]]\n\n\n[[=]]\n\n[[size 500%]]\n12년 작전\n[[/size]]\n[[size 250%]]\n그 이후의 이야기들\n[[/size]]\n@@@@\n@@@@\n@@@@\n\n[[div class=\"stand\"]]\n\n----\n++* [[span style=\"font-family: 'East Sea Dokdo' ;font-size: 45px;\"]]끝을 맺는 법[[/span]]\n----\n\n//관계가 시작될 때는 즐거움이 생기지만\n관계가 끊길 때는 고통이 남는다.//\n\n+ [[[la-casa-de-papel|혼색 이론]]]\n[[[cp-migration|이주]]]\n[[[cp-over-sensitive|과민]]]\n[[[cp-witness-kills|죽음의 목격]]]\n[[[cp-resort|의존]]]\n[[[cp-111-op|111 작전]]]\n[[[cp-interrogation|심문]]]\n[[[cp-end-times|종언]]]\n\n@@@@\n@@@@\n@@@@\n\n-----\n[[[let-me-sing-the-one-more-love-song|애창(愛唱).]]]\n-----\n\n+ [[[clean-up|청산 연작]]]\n[[[cu-showstopper|Showstopper]]]\n[[[cu-reunion|재결합]]]\n[[[cu-re-employ|재기용]]]\n[[[cu-pre-investigation|사전 조사]]]\n[[[cu-party-crasher|불청객]]]\n[[[cu-betrayal|배반]]]\n[[[cu-ending|엔딩]]]\n\n@@@@\n@@@@\n@@@@\n[[/div]]\n\n@@@@\n@@@@\n@@@@\n\n[[div class=\"stand\"]]\n\n----\n++* [[span style=\"font-family: 'East Sea Dokdo' ;font-size: 45px;\"]]엇갈린 백일몽[[/span]]\n----\n\n[[[identity-fraud|신원사기]]]\n[[[sell-memory|도매가로 기억을 팝니다]]]\n\n그리고... 곧 나옵니다.\nComing Soon\n\n@@@@\n@@@@\n@@@@\n[[/div]]\n\n@@@@\n@@@@\n@@@@\n\n[[div class=\"stand\"]]\n\n----\n++* [[span style=\"font-family: 'East Sea Dokdo' ;font-size: 45px;\"]]우아한 살인[[/span]]\n----\n\n[[[prelude of killing|서곡]]]\n[[[harmony of elegance|우아함의 조화]]]\n[[[last resort|최후의 수단]]]\n\n그리고... 곧 나옵니다.\nComing Soon\n\n@@@@\n@@@@\n@@@@\n[[/div]]\n[[/=]]\n\n[[module CSS]]\n@import url('https://fonts.googleapis.com/css?family=East+Sea+Dokdo');\n\n#page-content .stand {\n    width: 100%;\n    max-width: 500px;\n    margin: 10px auto;\n}\n\n.stand hr {\n    max-width: 400px;\n    margin: 1em auto;\n}\n\n[[/module]]",
+  "tags": [
+    "_이야기-허브",
+    "ko",
+    "허브"
+  ],
+  "author": "Helmut Ashworth",
+  "created_at": "2025-04-02T13:34:01+00:00",
+  "updated_at": "2025-04-02T16:39:28+00:00",
+  "rating": 6,
+  "_site": "scpko",
+  "_fullname": "2012-op-hub"
+}

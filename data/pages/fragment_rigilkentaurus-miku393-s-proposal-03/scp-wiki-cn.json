@@ -1,0 +1,13 @@
+{
+  "title": "Rigil Kentaurus与miku393的提案-03",
+  "content": "[[div style=\"border:solid 1px #999999; background:#f2f2c2; padding:5px; margin-bottom: 10px;\"]]\n[[=]]\n[[size larger]] **说明** [[/size]]\n \n本迭代中展示了SCP-CN-001项目组调查地球历史和太阳系历史所获得的熵池读数数据，并将其进行了可视化处理。查看附件可以获得原始数据。\n[[/=]]\n[[/div]]\n\n[[=]]\n\n[[include :scp-wiki-cn:component:carousel\n| images=1-12.gif,13-26.gif,27-39.gif,40-57.gif,58-73.gif,74-91.gif,92-107.gif,108-123.gif,124-135.gif,136-147.gif,148-163.gif,164-177.gif,178-193.gif,194-203.gif\n| caption=SCP-CN-001历史数据\n| interval=1200\n| wiki=scpsandboxcn\n| page=miku393-picture-test\n| width=100%\n| height=750px\n| position=center\n| no-caption=true\n| options=no\n]]\n\n\n\n[[module css]]\n#search-top-box,#top-bar,#side-bar,#login-status,#page-title {\ndisplay:none\n}\n#main-content {\n    margin:0 5% 0  5%;\n}\n#content-wrap {\n    max-width: 1920px;\n\n}\n\n[[/module]]\n\n[[size 125%]][http://scp-wiki-cn.wikidot.com/rigilkentaurus-miku393-s-proposal/offset/3 点击这里阅读信件的下一部分。][[/size]]\n\n[[/=]]",
+  "tags": [
+    "段落"
+  ],
+  "author": "Rigil Kentaurus",
+  "created_at": "2019-10-29T17:16:52+00:00",
+  "updated_at": "2021-11-15T01:44:39+00:00",
+  "rating": 0,
+  "_site": "scp-wiki-cn",
+  "_fullname": "fragment:rigilkentaurus-miku393-s-proposal-03"
+}

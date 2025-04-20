@@ -1,0 +1,13 @@
+{
+  "title": "표준 이미지 블록 (왼쪽)",
+  "content": "[[include :scpko:component:image-block-left-base name={$name}|caption={$caption}|width={$width}|size={$size}|link={$link}|width=300px|link=#]]",
+  "tags": [
+    "템플릿"
+  ],
+  "author": "Dr Devan",
+  "created_at": "2014-11-13T10:39:52+00:00",
+  "updated_at": "2023-11-24T14:05:13+00:00",
+  "rating": 0,
+  "_site": "scpko",
+  "_fullname": "component:image-block-left"
+}

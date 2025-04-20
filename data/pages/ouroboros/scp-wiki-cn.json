@@ -1,0 +1,14 @@
+{
+  "title": "衔尾蛇",
+  "content": "[[include :scp-wiki-cn:component:info-ayers\n|page=Ouroboros[!-- url of your page on the scp wiki --]\n|authorPage=djkaktus[!-- link to your author page --]\n|comments=TBD\n]]\n[[module CSS]]\nsup {\nvertical-align: top; position: relative; top: -0.5em;\n}\n:root{\n--cutColour: #fafafa;\n--barColour: #590505;\n}\n\n.info-container .collapsible-block-folded a{\ncolor: #FFF;}\n.info-container .collapsible-block-unfolded-link a{\ncolor: #FFF;}\n\n.translation_block{\ndisplay:none;}\n[[/module]]\n@@@@\n@@@@\n\n[[=]]\n[[image https://scpsandboxcn.wikidot.com/local--files/vxeov-support/Ouroboros.png alt=\"衔尾蛇 - 循环提案\"]]\n@@@@\n@@@@\n-----\n[[image https://scpsandboxcn.wikidot.com/local--files/vxeov-support/TheChildren.png link=\"djkaktus-s-proposal\" alt=\"第一部分 - 孩子们\"]]\n\n@@@@\n@@@@\n[[image https://scpsandboxcn.wikidot.com/local--files/vxeov-support/TheBrokenGod.png link=\"twistedgears-kaktus-proposal\" alt=\"第二部分 - 破碎之神\"]]\n\n@@@@\n@@@@\n[[image https://scpsandboxcn.wdfiles.com/local--files/vxeov-support/Atonement.png link=\"djkaktus-s-proposal-ii\" alt=\"第三部分 - 赎罪\"]]\n\n@@@@\n@@@@\n[[image https://scpsandboxcn.wikidot.com/local--files/vxeov-support/TheWayItEnds.png link=\"djkaktus-s-proposal-iii\" alt=\"第四部分 - 终结的方式\"]]\n\n[[/=]]\n\n[[include :scp-wiki-cn:component:license-box\n|author=djkaktus\n]]\n=====\n> **文件名：**Ouroboros.png\n> **图像作者：**[[*user djkaktus]]\n> **授权协议：**CC BY-SA 3.0\n\n> **文件名：**TheChildren.png\n> **图像作者：**[[*user djkaktus]]\n> **授权协议：**CC BY-SA 3.0\n\n> **文件名：**TheBrokenGod.png\n> **图像作者：**[[*user djkaktus]]\n> **授权协议：**CC BY-SA 3.0\n\n> **文件名：**Atonement.png\n> **图像作者：**[[*user djkaktus]]\n> **授权协议：**CC BY-SA 3.0\n\n> **文件名：**thewayitends.png\n> **图像作者：**[[*user djkaktus]]\n> **授权协议：**CC BY-SA 3.0\n\n> **备注：**以上图片的中文版本均由[[*user vxeov]]在原图片基础上修改而来。\n=====\n[[include :scp-wiki-cn:component:license-box-end]]\n[[include :scp-wiki-cn:component:djk]]",
+  "tags": [
+    "001提案",
+    "中心"
+  ],
+  "author": "Sraosha",
+  "created_at": "2019-01-06T06:02:58+00:00",
+  "updated_at": "2022-11-20T14:31:22+00:00",
+  "rating": 81,
+  "_site": "scp-wiki-cn",
+  "_fullname": "ouroboros"
+}

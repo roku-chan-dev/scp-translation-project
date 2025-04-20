@@ -1,0 +1,25 @@
+{
+  "title": "SCP-6987",
+  "content": "@@ @@\n@@ @@\n[[div style=\"display: none;\"]]\n[[=]]\n[[include component:image-block name=https://scp-wiki.wdfiles.com/local--files/scp-6987/logo.png|caption=.|width=100%|align=center]]\n[[/=]]\n[[/div]]\n[[>]]\n[[module Rate]]\n[[/>]]\n\n[[include :scpko:component:author-label-source start=--\n|name=LORDXVNV]]\n[[=]]\n[[size 120%]]**SCP-6987**[[/size]]\nSCP 재단 직원으로서 귀하가 법적으로 보장받는 보험 혜택 (유한회사 ##bb6|**//골드베이커-라인츠//**## 제공)\n[[size 80%]]Your Legally Entitled Coverage As An Employee of the SCP Foundation (Provided by ##bb6|**//Goldbaker-Reinz Ltd.//**##)[[/size]]\n\n----\n\n**[https://scp-wiki.wikidot.com/lordxvnv LORDXVNV]의 작가 페이지**\n**[[[Cubic72]]]의 역자 페이지**\n[[/=]]\n[[include :scpko:component:author-label-source end=--]]\n\n[[module ListPages category=\"fragment\" parent=\".\" limit=\"1\" order=\"created_at\" offset=\"@URL|0\"]]\n%%content%%\n[[/module]]\n\n[!--\nhttps://scpko.wikidot.com/fragment:scp-6987-0\nhttps://scpko.wikidot.com/fragment:scp-6987-1\nhttps://scpko.wikidot.com/fragment:scp-6987-2\nhttps://scpko.wikidot.com/fragment:scp-6987-3\nhttps://scpko.wikidot.com/fragment:scp-6987-4\n--]\n\n[[footnoteblock]]\n\n[[module CSS]]\n.authorlink-wrapper {\n    --author-top-adjust: .5rem;\n}\n[[/module]]",
+  "tags": [
+    "en",
+    "k급-시나리오",
+    "scp",
+    "골드베이커-라인츠",
+    "교환",
+    "난해한-등급",
+    "메타",
+    "법인",
+    "법적",
+    "세계-오컬트-연합",
+    "셸든-카츠",
+    "예측성",
+    "특이화물"
+  ],
+  "author": "Cubic72",
+  "created_at": "2025-02-11T04:04:09+00:00",
+  "updated_at": "2025-02-11T04:19:42+00:00",
+  "rating": 13,
+  "_site": "scpko",
+  "_fullname": "scp-6987"
+}

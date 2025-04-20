@@ -1,0 +1,23 @@
+{
+  "title": "SCP-6082",
+  "content": "[[module ListPages category=\"fragment\" parent=\".\" order=\"created_at\" limit=\"1\" offset=\"@URL|0\"]]\n%%content%%\n[[/module]]\n\n[!-- Fragments:\nhttps://scp-wiki.wikidot.com/fragment:scp-6082-1\nhttps://scp-wiki.wikidot.com/fragment:scp-6082-2\n --]\n\n[[footnoteblock]]\n\n[[div class=\"footer-wikiwalk-nav\"]]\n[[=]]\n<< [[[SCP-6081]]] | SCP-6082 | [[[SCP-6083]]] >>\n[[/=]]\n[[/div]]\n\n[[include :scp-wiki:component:license-box]]\n=====\n> **Filename:** Ice Road on the Great Slave Lake 2\n> **Author:** Hyougushi\n> **License:** CC BY-SA 2.0\n> **Source Link:** https://commons.wikimedia.org/wiki/File:Ice_Road_on_Great_Slave_Lake_2.jpg\n> **Derivative of:**\n[[include :scp-wiki:component:license-box-end]]",
+  "tags": [
+    "_cc",
+    "_licensebox",
+    "_listpages",
+    "abnormalities",
+    "artifact",
+    "autonomous",
+    "mechanical",
+    "safe",
+    "scp",
+    "subterranean",
+    "tool"
+  ],
+  "author": "Roundabouts",
+  "created_at": "2021-11-06T23:08:20+00:00",
+  "updated_at": "2023-03-30T19:43:47+00:00",
+  "rating": 36,
+  "_site": "scp-wiki",
+  "_fullname": "scp-6082"
+}

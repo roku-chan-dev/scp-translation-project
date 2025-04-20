@@ -1,0 +1,19 @@
+{
+  "title": "SCP-CN-660",
+  "content": "[[module CSS]]\n#page-title {\n  display: none;\n}\n\n.meta-title {\n  border-bottom: solid 1px #bbbbbb;\n  color: #990011;\n  font-weight: normal;\n  margin: 0 0 0.6em;\n  padding: 0 0 0.25em;\n  font-size: 200%;\n}\n\n.meta-title p {\n  margin: 0;\n}\n[[/module]]\n[[module ListPages category=\"fragment\" parent=\".\" limit=\"1\" order=\"name\" offset=\"@URL|0\"]]\n[[div class=\"meta-title\"]]\n%%title%%\n[[/div]]\n[[/module]]\n[[>]]\n[[module Rate]]\n[[/>]]\n[[module ListPages category=\"fragment\" parent=\".\" limit=\"1\" order=\"name\" offset=\"@URL|0\"]]\n\n%%content%%\n[[/module]]\n\n[!-- http://ja.scp-wiki.net/fragment:scp-cn-660-01 全部で5個の反復 --]\n\n[[footnoteblock]]\n@@@@",
+  "tags": [
+    "cn",
+    "keter",
+    "scp",
+    "コンピュータ",
+    "メタ",
+    "知性",
+    "語り"
+  ],
+  "author": "dhueguang",
+  "created_at": "2020-01-03T16:45:11+00:00",
+  "updated_at": "2021-01-10T17:54:38+00:00",
+  "rating": 17,
+  "_site": "scp-jp",
+  "_fullname": "scp-cn-660"
+}

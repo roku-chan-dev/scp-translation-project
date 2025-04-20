@@ -1,0 +1,20 @@
+{
+  "title": "SCP-4932",
+  "content": "[[module ListPages  category=\"fragment\" parent=\".\" limit=\"1\" order=\"created_at\" offset=\"@URL|0\"]]\n%%content%%\n[[/module]]\n\n[[footnoteblock]]\n\n[[div class=\"footer-wikiwalk-nav\"]]\n[[=]]\n<< [[[SCP-4931]]] | SCP-4932 | [[[SCP-4933]]] >>\n[[/=]]\n[[/div]]",
+  "tags": [
+    "meta",
+    "safe",
+    "scp",
+    "人造物品",
+    "听觉影响",
+    "敌意",
+    "现实扭曲",
+    "超维度"
+  ],
+  "author": "RogerXiao",
+  "created_at": "2019-12-02T09:10:31+00:00",
+  "updated_at": "2023-03-19T15:01:47+00:00",
+  "rating": 2,
+  "_site": "scp-wiki-cn",
+  "_fullname": "scp-4932"
+}

@@ -1,0 +1,19 @@
+{
+  "title": "SCP-8993",
+  "content": "[[module css]]\n@import url(\"https://scpwiki.github.io/sigma/css/sigma.min.css\");\n[[/module]]\n=====\n[[include :scp-wiki:component:preview\ntext=\n伸手向繁星。\n]]\n=====\n\n**项目编号：**SCP-8993\n\n**项目等级：**Safe\n\n**特殊收容措施：**由于SCP-8993在被观察到时有破碎的倾向，非现实部若有意愿，将收容SCP-8993。\n\n**描述：**因其几乎不可见，且具有不寻常的形状，SCP-8993是一个无法用视觉描述的物品。SCP-8993通常被描述为“尖锐”和“令人生畏”，但对于观察者而言是完全安全的。\n\n极少数情况下，SCP-8993将分裂成两个实例，**核心**和**卫星**。由于**卫星**的出现通常是剧烈的，而**核心**的下半部分通常浸泡在液体中，更容易进行观察。在与**核心**分离后，**卫星**将尝试爬向恒星。但当其形状使其无法做到时，**卫星**实例将会破碎。\n\n尽管SCP-8993**核心**会重新获得丢失的部分，它无法恢复原先的形状。\n\n@@ @@\n\n[[div class=\"footer-wikiwalk-nav\"]]\n\n[[=]]\n<< [[[SCP-8992]]] | SCP-8993 | [[[SCP-8994]]] >>\n[[/=]]\n[[/div]]\n\n[[include :scp-wiki-cn:component:license-box\nauthor=SynthPanda_]]\n[[include :scp-wiki-cn:component:license-box-end]]",
+  "tags": [
+    "8000",
+    "safe",
+    "scp",
+    "无定形",
+    "自我修复",
+    "视觉性",
+    "非现实部"
+  ],
+  "author": "Esperanza_Cai",
+  "created_at": "2024-02-19T06:12:51+00:00",
+  "updated_at": "2024-03-12T07:57:40+00:00",
+  "rating": 6,
+  "_site": "scp-wiki-cn",
+  "_fullname": "scp-8993"
+}

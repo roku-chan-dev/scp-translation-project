@@ -1,0 +1,15 @@
+{
+  "title": "SCP-CN-3709",
+  "content": "[[>]]\n[[module Rate]]\n[[/>]]\n\n[[include :scp-wiki-cn:component:anomaly-class-bar-source\n|lang= cn\n|item-number= cn-3709\n|clearance= 2\n|container-class= keter\n|secondary-class= none\n|disruption-class= dark\n|risk-class= 待观察\n]]\n\n**特殊收容措施：**项目当前无法被收容，前哨站CN-21已于项目中心南面21千米处建立以执行消极收容措施。\n\n消极收容措施指：每年公历11月1日至12月31日期间，前哨站CN-21应负责项目南部边界的海域封锁工作，以“军事演习”为由拒绝一切船只、飞行器从南面进入或途径项目的请求；SCP-CN-3709-A事件期间，前哨站应组织人员对SCP-CN-3709-1进行探索工作。\n\n**描述：**项目是一片异常海域，其大致方位为39°N, 116°E，经研究人员测定，认为以项目中心位置[[footnote]]SCP-CN-3709-1中标记性建筑物上方海域。[[/footnote]]正南方向21千米处为中点，向东西两侧各延伸5千米所形成直线为项目的南部边界。\n\nSCP-CN-3709-A是一系列异常事件，每年公历11月1日至12月31日期间在项目内部随机发生，持续时间3~21天不等。当且仅当事件发生期间从项目南部边界进入项目可以观察到SCP-CN-3709-A，后者的发生完全独立，对项目范围外区域尚无确定影响。\n\n当前已记录的部分SCP-CN-3709-A如下：\n* 平均气温下跌至-12℃[[footnote]]作为对照，当前（公元2051年）项目所处纬度12月平均气温约为13℃。[[/footnote]]\n* 持续不断的大雪。相应的出现在SCP-CN-3709-1内部的大量异常雪堆。\n* 来自海底的大量疑似人声噪音，通常没有可供辨识的部分。\n* SCP-CN-3709-1电力系统异常性重启。此类现象会在探索队伍进入其内部后逐渐消失。\n\nSCP-CN-3709-1是原中华人民共和国首都，位于项目正下方。\n\n**附录：**\n\n[[collapsible folded=\"no\"  show=\" 探索记录（3）\" hide=\"探索记录（3）\" ]]\n \n正在加载中，请耐心等待...\n[[/collapsible]]\n\n[[collapsible folded=\"no\"  show=\"疑似人声噪音（已辨识样本4）\" hide=\"疑似人声噪音（已辨识样本4）\" ]]\n \n正在加载中，请耐心等待...\n[[/collapsible]]\n \n[[collapsible folded=\"no\"  show=\"事件报告CN37091\" hide=\"事件报告CN37091\" ]]\n \n2051年11月28日，在SCP-CN-3709-A期间第六天傍晚19:52，前哨站CN-21研究员李二一收到了一封来源不明的电子邮件。前者不被认为是该邮件原定的接收单位。电子邮件内容如下：\n\n> 天气冷下来了，记得穿秋裤。\n\n[[/collapsible]]\n[[div class=\"footer-wikiwalk-nav\"]]\n[[=]]\n<< [[[SCP-CN-3708]]] | SCP-CN-3709 | [[[SCP-CN-3710]]] >>\n[[/=]]\n[[/div]]",
+  "tags": [
+    "keter",
+    "scp",
+    "原创"
+  ],
+  "author": "li21",
+  "created_at": "2024-05-11T14:28:31+00:00",
+  "updated_at": "2024-06-11T13:16:34+00:00",
+  "rating": 11,
+  "_site": "scp-wiki-cn",
+  "_fullname": "scp-cn-3709"
+}

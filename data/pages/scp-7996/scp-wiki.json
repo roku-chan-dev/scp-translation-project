@@ -1,0 +1,32 @@
+{
+  "title": "SCP-7996",
+  "content": "[[include :scp-wiki:theme:black-highlighter-theme]]\n[[include :scp-wiki:theme:the-foundation-theme]]\n[[module CSS]]\n#page-title{display:none}\n[[/module]]\n[[>]]\n[[module rate]]\n[[/>]]\n[[include :scp-wiki:component:author-label-source start=--\n|name=andromedaz\n|no-right-margin=*]]\nLosing Interest, by [[*user andromedaz]]\n\nFor more of my works, visit [https://scp-wiki.wikidot.com/andromedaz-page Andromedaz's Universe of Dreams]!\n\nThank you to [[*user Kothardarastrix]] and [[*user Ghost Jackal]] for looking at this.\n[[/collapsible]]\n[[include :scp-wiki:component:author-label-source end=--]]\n\n[[module ListPages category=\"fragment\" parent=\".\" order=\"created_at\" limit=\"1\" offset=\"@URL|0\"]]\n%%content%%\n[[/module]]\n\n[!--\nChildren:\nhttps://scp-wiki.wikidot.com/fragment:scp-7996-1\nhttps://scp-wiki.wikidot.com/fragment:scp-7996-2\nhttps://scp-wiki.wikidot.com/fragment:scp-7996-3\nhttps://scp-wiki.wikidot.com/fragment:scp-7996-4\n--]\n\n[[div class=\"footer-wikiwalk-nav\"]]\n[[=]]\n<< [[[SCP-7995]]] | SCP-7996 | [[[SCP-7997]]] >>\n[[/=]]\n[[/div]]\n[[include :scp-wiki:component:license-box]]\n=====\n> **Filename:** distortion2.jpg\n> **Name:** Alpine Meadow (14998437399).jpg\n> **Author:** Katja Schulz/edited by [[*user andromedaz]]\n> **License:** CC BY 2.0\n> **Source Link:** [https://commons.wikimedia.org/wiki/File:Alpine_Meadow_(14998437399).jpg Wikimedia Commons]\n=====\n> **Filename:** accelerator.jpg\n> **Name:** CERN LHC Tunnel1.jpg\n> **Author:** Julian Herzog\n> **License:** CC BY-SA 3.0\n> **Source Link:** [https://commons.wikimedia.org/wiki/File:CERN_LHC_Tunnel1.jpg Wikimedia Commons]\n=====\n> **Filename:** 4000forest.jpg\n> **Name:** Forest (190).jpg\n> **Author:** Paul Hudson\n> **License:** CC BY 2.0\n> **Source Link:** [https://commons.wikimedia.org/wiki/File:Forest_(190).jpg Wikimedia Commons]\n=====\n[[include :scp-wiki:component:license-box-end]]",
+  "tags": [
+    "7000",
+    "_cc",
+    "_licensebox",
+    "_listpages",
+    "broken-god",
+    "director-moose",
+    "doctor-bright",
+    "doctor-scranton",
+    "global-occult-coalition",
+    "horizon-initiative",
+    "k-class-scenario",
+    "keter",
+    "metafiction",
+    "nameless",
+    "narrative",
+    "pataphysics-dept",
+    "reality-bending",
+    "scp",
+    "three-moons-initiative",
+    "transfiguration"
+  ],
+  "author": "andromedaz ",
+  "created_at": "2022-07-25T04:04:39+00:00",
+  "updated_at": "2024-10-01T17:45:30+00:00",
+  "rating": 73,
+  "_site": "scp-wiki",
+  "_fullname": "scp-7996"
+}

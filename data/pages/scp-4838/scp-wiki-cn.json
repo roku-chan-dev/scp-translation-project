@@ -1,0 +1,20 @@
+{
+  "title": "SCP-4838",
+  "content": "[[include component:black-highlighter-theme-dev]]\n\n[[module CSS]]\ndiv.scp-image-block.block-center {\n    position: relative;\n    height: 215px;\n}\n\n.scp-image-block img {\n    height: 100%;\n    object-fit: cover;\n}\n\n#page-content > div.scp-image-block.block-center > div.scp-image-caption {\n    position: absolute;\n    bottom: 0;\n}\n\n.collapsible-block-content > div:nth-child(1) > p {\n    margin: 2em;\n}\n\n.raisa {\n    border: solid 1px #999;\n    background: #f2f2c2;\n    padding: 5px;\n    margin-bottom: 10px;\n}\n[[/module]]\n\n[[include component:info-ayers\n    page=SCP-4838 |\n    authorPage=aismallard |\n    comments=\n**SCP-4838:** Lover's Quarrel \n**Author:** [[*user aismallard]] \n \n**Thanks to:** [[*user KindlyTurtleClem]]@@ @@\n]]\n\n[[include component:anomaly-class-bar-source\n    lang=cn |\n    item-number=4838 |\n    clearance=1 |\n    container-class=无效化 |\n    secondary-class=none |\n    disruption-class=vlam |\n    risk-class=notice\n]]\n\n----\n\n[[div class=\"scp-image-block block-center\"]]\n[[image http://www.scp-wiki.net/local--files/scp-4838/houses.jpeg]]\n[[div class=\"scp-image-caption\" style=\"width: 100%;\"]]\nCandace Harker的住所（左起第二）。第一起已知SCP-4838事件发生地\n[[/div]]\n[[/div]]\n\n----\n\n**特殊收容措施：**无必要收容。\n\n**描述：**SCP-4838是一系列超常事件，受影响者为英格兰格洛斯特郡的27岁女性Candace Harker。从2017/02/19开始，一系列关于她个人的物品从她家中开始显现。\n\n收到的物品中都留有签名\"Robert Green\"。Harker曾与一同名男子短暂开展恋爱关系，直至他于2016/11/07失踪。确信SCP-4838具有特殊的认知危害性质；尽管其内容平淡甚至令人暖心，Candace Harker还是出现了妄想症，并认为发出者具有敌意。反模因治疗对此效果有限，症状会在一到三小时内复发。\n\n**附录4838-1：**SCP-4838事件时间戳\n\n基金会机器人标记到Candace Harker在反复联系当地警方，两名外勤特工被派去她的住处调查。Harker解释了此遗产的性质，且称警方总是无视她的骚扰投诉。她提交了下列个体：\n\n> **日期：**2017/02/19\n> **媒体：**打印的信件\n> **发现：**邮箱\n> \n> 我想你了。我希望你没有将我忘记。\n> \n> 已经一年了，你还好吗？\n\n> **日期：**2017/02/20\n> **媒体：**手写信件，回信地址为附近一处湖泊\n> **发现：**邮箱\n> \n> 今天我看到窗外有只雉鸡，它提醒了我世间万物可以有多美丽。你也喜欢雉鸡，对吧？\n\n> **日期：**2017/02/20\n> **媒体：**手写的便条纸\n> **发现：**邮箱\n> \n> 哦对，我怎么忘了呢！你更喜欢野鸭啊。他们也是甜美的鸟儿，和你一样。\n\n> **日期：**2017/02/21\n> **媒体：**手写的便条\n> **发现：**邮箱\n> \n> 我时常仰慕你的照片。对我，你是世上最美的女人了。\n\n特工回报Site-70指挥部，并在邮箱内安装摄像头以监控下次SCP-4838显现。\n\n> **日期：**2017/02/22\n> **媒体：**手写信件\n> **发现：**门前垫\n> \n> 我知道这对你我是一段艰难的时光，但我真的爱你。我们都很坚强，我们能够坚持下去。\n\n在Harker同意后，特工在其家中安装了许多监控探头，以确认SCP-4838个体的来源。\n\n> **日期：**2017/02/23\n> **媒体：**手写信件\n> **发现：**咖啡桌，刚好在探头视线外\n> \n> 你无法逃避真实。我在这等你，我想在这些艰难的时光里保护你。\n\n> **日期：**2017/02/24\n> **媒体：**羊皮纸上的打印字\n> **发现：**贴在天花板上\n> \n> 我很高兴我们是如此亲近。你能对我如此开放真是太好了。\n\n在直接观察和收容SP-4838个例失败后，Site-70指挥部批准将Candace Harker进行人形收容，确认异常是否是由住所本身造成。\n\n> **日期：**2017/02/25\n> **媒体：**羊皮纸上的打印字\n> **发现：**无特征包裹寄送到Site-70\n> \n> 就是想说一声你今天挺美的。\n> //（附有一束花）//\n\n> **日期：**2017/02/26\n> **媒体：**羊皮纸上的打印字\n> **发现：**Harker醒来后在她胸口上\n> \n> 我爱你亲爱的，千万不要忘了。\n\n因此现象与Harker本人相关，决定维持对她的收容，直至找到能对此异常进行无效化或处置的办法。\n\nHarker在心理检查中反复表现出恐惧，尽管已将其安置在基金会安保设施内看护。她拒绝服用处方情绪调控药物。\n\n> **日期：**2017/02/27\n> **媒体：**以干燥墨迹写在羊皮纸上\n> **发现：**午餐期间于Site-70食堂\n> \n> 和你共进一餐总能点亮一整天。\n\n> **日期：**2017/02/28\n> **媒体：**机油\n> **发现：**床\n> \n> 我们好久没在一起了，我想你了甜心。\n\n> **日期：**2017/03/01\n> **媒体：**蓝莓酱写成\n> **发现：**浴室墙壁\n> \n> 我希望你一切安好，我爱。我做了我们最喜欢的菜，一个人享用了。我多希望你也在这里。\n\n> **日期：**2017/03/02\n> **媒体：**由束发组成\n> **发现：**Site-70休息室沙发\n> \n> 记得我会一直爱着你。\n\n因Harker心理健康恶化，决定将她彻底看护在房间内，直至有合适的反模因治疗得以实施。\n\n> **日期：**2017/03/03\n> **媒体：**沙土\n> **发现：**房间地板\n> \n> 这是艰难的一天，但看到你微笑的脸让我满心阳光与幸福。\n\n> **日期：**2017/03/04\n> **媒体：**Harker的经血\n> **发现：**浴室镜子\n> \n> 你是我遇到过最好的事。\n\n> **日期：**2017/03/05\n> **媒体：**标准口粮上的沥青滴\n> **发现：**Harker的早餐期间\n> \n> 爱你甜心，我要下班回来了。我们很快就要在一起了。:)\n\n**附录4838-2：**事故4838-FINAL\n\n于2017/03/06，Site-70内的监控系统出现断电，所有安保人员失去意识。在断电恢复后，发现Candace Harker的房间被暴力开启。Harker靠在墙边已经死亡。现场有挣扎痕迹，包括衣物被撕裂、血渍泼散、在其尸体上有多处戳刺伤。\n\n值得注意的是，Harker的肠道被摆成了“我会一直在这保护你”字样。自此事故后，再未有SCP-4838事件发生。\n\n[[footnoteblock]]\n\n[[div class=\"footer-wikiwalk-nav\"]]\n[[=]]\n << [[[SCP-4837]]] | SCP-4838 | [[[SCP-4839]]] >>\n[[/=]]\n[[/div]]",
+  "tags": [
+    "scp",
+    "传送",
+    "反熵",
+    "感知力",
+    "掠食性",
+    "文件",
+    "无效化",
+    "认知危害"
+  ],
+  "author": "ashausesall",
+  "created_at": "2019-07-13T17:20:46+00:00",
+  "updated_at": "2019-10-23T06:59:25+00:00",
+  "rating": 2,
+  "_site": "scp-wiki-cn",
+  "_fullname": "scp-4838"
+}

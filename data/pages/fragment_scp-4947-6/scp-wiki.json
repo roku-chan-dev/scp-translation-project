@@ -1,0 +1,13 @@
+{
+  "title": "SCP-4947",
+  "content": "[[module CSS]]\n#page-title {\n    display: none;\n}\n[[/module]]\n\n[[=]]\n+ This slot is unallocated.\n[[/=]]\n\n----\n\n[[div style=\"background-color: #600; border: solid 1px #600; border-radius: 20px; color: #fff; width: 450px; margin: 0 auto; font-size: 150%; text-align: center; box-shadow: 0 2px 6px rgba(0,0,0,.5), inset 0 1px rgba(255,255,255,.5), inset 0 10px rgba(255,204,204,.5), inset 0 10px 20px rgba(255,204,204,.3), inset 0 -15px 30px rgba(48,0,0,.5); line-height: 100%; padding: 0 10px;\"]]\n**Did you get feedback first?**\n[[/div]]\n\n[[div style=\"background-color: #fff0f0; border: solid 1px #600; border-radius: 20px; color: #300; width: 450px; margin: 20px auto 0; text-align: center; box-shadow: 0 2px 6px rgba(0,0,0,.5); padding: 0 10px;\"]]\nThe SCP Foundation requires all documentation to have been reviewed by the Standards Committee before submission.\n----\n**[[[http://www.scp-wiki.net/scp-4947|Documentation Requirements]]] -- [[[http://www.scp-wiki.net/scp-4947|Standards Committee Submissions]]] -- [[[http://www.scp-wiki.net/scp-4947|Documentation Guidelines]]]**\n\n**[[[http://www.scp-wiki.net/scp-4947|Image Use Policy]]]**\n\n**[[[http://www.scp-wiki.net/scp-4947|Undocumented Anomalies]]]**\n**[[[http://www.scp-wiki.net/scp-4947|ƟU-586 Analysis]]]**\n**[[[http://www.scp-wiki.net/scp-4947|Communications Guide]]]**\n[[/div]]\n\n[[div style=\"background-color: #fffff0; border: solid 1px #660; border-radius: 20px; color: #330; width: 450px; margin: 20px auto 0; text-align: center; box-shadow: 0 2px 6px rgba(0,0,0,.5); padding: 0 10px;\"]]\n[[size 120%]]Remember: **The Database is for finished documents, not works-in-progress.**[[/size]]\n----\nIt is your responsibility to post only finished, final work. Submitting poor-quality documents is grounds for disciplinary action.\n\nIf you understand all of the above and still wish to create this page, **[[[http://www.scp-wiki.net/scp-4947|click here]]]** to do so.\n[[/div]]\n\n[[=]]\n//##white|Do you feel it, Yehezkel? You're starting to forget already.##//\n[[/=]]",
+  "tags": [
+    "fragment"
+  ],
+  "author": "UraniumEmpire",
+  "created_at": "2018-11-18T04:10:35+00:00",
+  "updated_at": "2021-02-10T04:58:19+00:00",
+  "rating": 0,
+  "_site": "scp-wiki",
+  "_fullname": "fragment:scp-4947-6"
+}

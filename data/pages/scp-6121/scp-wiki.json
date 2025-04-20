@@ -1,0 +1,29 @@
+{
+  "title": "SCP-6121",
+  "content": "[[include :scp-wiki:theme:blankstyle acs=a|fade=a]]\n\n[[module css]]\na.collapsible-block-link:not(.licensebox a.collapsible-block-link) {\n    font-weight: 600;\n    color: white;\n    padding-top: 4px;\n    padding-bottom: 4px;\n    padding-left: 7px;\n    padding-right: 9px;\n    background: rgb(20, 20, 20);\n    border-radius: 6px;\n    margin-top: 10px;\n    margin-bottom: 10px;\n}\n[[/module]]\n\n[!--\nFragments:\nhttp://scp-wiki.wikidot.com/fragment:scp-6121-offset-0\nhttp://scp-wiki.wikidot.com/fragment:scp-6121-offset-1\n--]\n\n[[module ListPages category=\"fragment\" parent=\".\" order=\"created_at\" limit=\"1\" offset=\"@URL|0\"]]\n%%content%%\n[[/module]]\n\n[[div class=\"crom-thumbnail\" style=\"display: none\"]]\n[[include component:image-block name=capslock.jpg]]\n[[/div]]\n\n[[div class=\"footer-wikiwalk-nav\"]]\n[[=]]\n<< [[[SCP-6120]]] | SCP-6121 | [[[SCP-6122]]] >>\n[[/=]]\n[[/div]]\n\n[[div]]\n[[=]]\n[[include :scp-wiki:component:license-box]]\n=====\n[[<]]\n> **Filename:** Bear.jpg\n> **Title:** Bear Mascot at the Giro di Burnaby \n> **Author:** sillygwailo\n> **License:** CC BY 2.0\n> **Source:** [https://www.flickr.com/photos/35034348378@N01/190525489 flickr]\n\n> **Filename:** Beaver.jpg\n> **Title:** Skating Beaver\n> **Author:** ThreeIfByBike \n> **License:** CC BY-SA 2.0\n> **Source:** [https://www.flickr.com/photos/44375167@N00/3620544799 flickr]\n\n> **Filename:** Caps.png\n> **Author:** [[*user HarryBlank]]\n> **License:** CC BY 2.0\n\n> **Filename:** Chicken.jpg\n> **Title:** Halloweekend 2009\n> **Author:** JasonParis\n> **License:** CC BY 2.0\n> **Source:** [https://www.flickr.com/photos/94064020@N00/4066531030 flickr]\n\n> **Filename:** Dog.jpg\n> **Title:** North Charleston Business Expo\n> **Author:** North Charleston\n> **License:** CC BY-SA 2.0\n> **Source:** https://www.flickr.com/photos/36686551@N06/26576179351\n\n> **Filename:** Frog.jpg\n> **Title:** Froggie mascot\n> **Author:** RamseyCountyMN\n> **License:** CC BY-SA 2.0\n> **Source:** [https://www.flickr.com/photos/40960220@N04/22550996017 flickr]\n\n> **Filename:** Instances.jpg\n> **Title:** Meet oiur mascots. USFWS Blue Goose, Sea Turtle, Puerto Rican Parrot, Bat and the Puerto Rican Crested Toad\n> **Author:** USFWS/Southeast\n> **License:** CC BY 2.0\n> **Source:** [https://www.flickr.com/photos/41464593@N02/6499809323 flickr]\n\n> **Filename:** Ookpik.jpg\n> **Title:** Ookpik in the wild\n> **Author:** jmv\n> **License:** CC BY 2.0\n> **Source:** [https://www.flickr.com/photos/61767360@N00/4978263062 flickr]\n\n> **Filename:** Ookpik2.jpg\n> **Title:** Ookpik indoors\n> **Author:** jmv\n> **License:** CC BY 2.0\n> **Source:** [https://www.flickr.com/photos/61767360@N00/4978261514 flickr]\n\n> **Filename:** War.jpg\n> **Title:** Mascot\n> **Author:** 8one6\n> **License:** CC BY-SA 2.0\n> **Source:** [https://www.flickr.com/photos/56187283@N00/4886179337 flickr]\n[[/<]]\n=====\n[[include :scp-wiki:component:license-box-end]]\n[[/=]]\n[[/div]]",
+  "tags": [
+    "_cc",
+    "_listpages",
+    "amphibian",
+    "bird",
+    "canine",
+    "chief-ibanez",
+    "decommissioned",
+    "director-lague",
+    "director-scout",
+    "doctor-blank",
+    "doctor-clef",
+    "doctor-lillihammer",
+    "humanoid",
+    "integration-program",
+    "on-guard-43",
+    "sapient",
+    "scp"
+  ],
+  "author": "HarryBlank",
+  "created_at": "2021-11-20T03:45:05+00:00",
+  "updated_at": "2024-04-15T16:50:40+00:00",
+  "rating": 180,
+  "_site": "scp-wiki",
+  "_fullname": "scp-6121"
+}

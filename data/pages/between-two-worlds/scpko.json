@@ -1,0 +1,16 @@
+{
+  "title": "두 세계 그 사이",
+  "content": "[[include info:start]]\n**제목:** 두 세계 그 사이\n\n**저자:** [[*user oratio]]\n\n**작가 페이지:**\n\n> = [/run-night-run oratio]\n\n**조각 문서:**\nhttp://scpko.wikidot.com/fragment:between-two-worlds-1\nhttp://scpko.wikidot.com/fragment:between-two-worlds-2\n\n> My saviour\n> 우리의 구세주여\n>  \n> Ooh\n> 오오오\n>  \n> Why does a common fire hold so much power\n> 흔하디 흔한 불꽃이 어찌 이리도 강한 힘을 품고 있나요?\n>  \n> If only we could be forever naive and pure\n> 언제까지고 순진무구한 채로 있었더라면 얼마나 좋았을까\n>  \n[[include info:end]]\n[[module ListPages  category=\"fragment\" parent=\".\" limit=\"1\" order=\"created_at\" offset=\"@URL|0\"]]\n%%content%%\n[[/module]]",
+  "tags": [
+    "ko",
+    "이야기",
+    "조요의-인도자",
+    "최신해"
+  ],
+  "author": "oratio",
+  "created_at": "2023-03-18T12:57:30+00:00",
+  "updated_at": "2024-05-16T15:58:46+00:00",
+  "rating": 9,
+  "_site": "scpko",
+  "_fullname": "between-two-worlds"
+}

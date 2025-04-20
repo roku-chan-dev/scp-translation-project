@@ -1,0 +1,14 @@
+{
+  "title": "Classified Decoration",
+  "content": "[[include :scp-jp:component:classified-decoration-base\n|lv={$lv}\n|item={$item}\n|oc={$oc}\n|lang{$lang}=false\n|lang={$lang}\n|lang=false\n|trans-level={$trans-level}\n|trans-level=false\n|trans-classified={$trans-classified}\n|trans-classified=false\n]]",
+  "tags": [
+    "en",
+    "コンポーネント"
+  ],
+  "author": "7happy7",
+  "created_at": "2018-09-09T06:10:30+00:00",
+  "updated_at": "2021-12-24T15:51:55+00:00",
+  "rating": 6,
+  "_site": "scp-jp",
+  "_fullname": "component:classified-decoration"
+}

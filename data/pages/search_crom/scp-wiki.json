@@ -1,0 +1,13 @@
+{
+  "title": "Site Search",
+  "content": "[[module css]]\n#page-title {display: none}\n\n.cromwalk {\n    float: right;\n    margin: 0.5rem 0 0 auto;\n    width: max-content;\n    padding: 0.625rem;\n    border-radius: 8px;\n    background-color: #F5E5E8;\n    color: #9F3C4E;\n}\n.cromwalk a {\n    font-weight: bold;\n    color: #9F3C4E;\n}\n\n.cromplug {\n    background: #f5e5e8;\n    color: #9f3c4e;\n    width: fit-content;\n    text-align: center;\n    margin-top: 0.5rem;\n    border-radius: 0.5rem;\n    padding: 0.75rem;\n    background-image: url(https://scp-wiki.wdfiles.com/local--files/search%3Acrom/crom.png);\n    background-size: cover;\n    background-blend-mode: overlay;\n    background-position: center 15%;\n}\n.cromplug p {\n    margin: 0;\n}\n.cromplug a, .cromplug a:visited {\n    color: #9f3c4e;\n    font-weight: bold;\n}\n[[/module]]\n\n[[include :crom:wiki-search\n| lang=en\n| wiki=scp-wiki\n| tagconfig=https://05command.wdfiles.com/local--code/tech-hub-tag-list-crom-search/1\n]]\n\n[[div_ class=\"cromwalk\"]]\nSee also: [[[Tag Search]]]\n[[/div]]\n\n[[div class=\"cromplug\"]]\nSupport CROM on [https://www.patreon.com/crombird Patreon!]\n[[/div]]",
+  "tags": [
+    "admin"
+  ],
+  "author": "aismallard",
+  "created_at": "2022-06-30T17:46:43+00:00",
+  "updated_at": "2023-02-12T10:55:04+00:00",
+  "rating": 11,
+  "_site": "scp-wiki",
+  "_fullname": "search:crom"
+}

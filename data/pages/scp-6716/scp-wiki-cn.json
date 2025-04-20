@@ -1,0 +1,22 @@
+{
+  "title": "SCP-6716",
+  "content": "[[module ListPages  category=\"fragment\" parent=\".\" limit=\"1\" order=\"created_at\" offset=\"@URL|0\"]]\n%%content%%\n[[/module]]\n\n[!-- https://scp-wiki.wikidot.com/fragment:scp-6716-0 --]\n[!-- https://scp-wiki.wikidot.com/fragment:scp-6716-1 --]\n\n[[div class=\"footer-wikiwalk-nav\"]]\n[[=]]\n<< [[[SCP-6715]]] | SCP-6716 | [[[SCP-6717]]] >>\n[[/=]]\n[[/div]]\n\n[[include component:license-box\n|author=GwenWinterheart]]\n=====\n> **文件名：**coffeemaker.png\n> **图像作者：**Teepetersen\n> **授权协议：**CC-by-SA 4.0\n> **来源链接：**@@https://upload.wikimedia.org/wikipedia/commons/6/62/Coffee_maker.jpg@@\n> **备注：**被我编辑过\n\n=====\n\n\n[[include component:license-box-end]]",
+  "tags": [
+    "keter",
+    "scp",
+    "人形生物",
+    "仪式性",
+    "反熵",
+    "宗教",
+    "家用物品",
+    "智能",
+    "活物",
+    "电子"
+  ],
+  "author": "ashausesall",
+  "created_at": "2022-11-08T13:52:08+00:00",
+  "updated_at": "2022-11-27T12:42:36+00:00",
+  "rating": 2,
+  "_site": "scp-wiki-cn",
+  "_fullname": "scp-6716"
+}

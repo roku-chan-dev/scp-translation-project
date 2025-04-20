@@ -1,0 +1,14 @@
+{
+  "title": "SCP-JPカレンダー",
+  "content": "[[>]]\n[[module Rate]]\n[[/>]]\n\n> これは日本支部で作られたSCP記事を作成日時で並べたリストです。SCP-JPを知る一助になれば幸いです。[*http://scp-wiki.wikidot.com/scp-calendar/ 本家のSCPカレンダーはこちら]。\n\n[[module PageCalendar category=\"_default\" tags=\"+scp +jp\"]]\n[[module ListPages category=\"_default\" tags=\"+scp +jp\" perPage=\"100\" date=\"@URL\" separate=\"false\" prependLine=\"||~ ページ名||~ 評価||~ コメント||~ 作成日時||~ 作成者||\"]]\n|| %%linked_title%% || %%rating%% || %%comments%% || %%created_at|%Y年%m月%d日 %H:%M %% || %%author%% ||\n[[/module]]",
+  "tags": [
+    "jp",
+    "管理"
+  ],
+  "author": "Kwana",
+  "created_at": "2014-10-06T12:03:29+00:00",
+  "updated_at": "2021-01-10T15:58:44+00:00",
+  "rating": 43,
+  "_site": "scp-jp",
+  "_fullname": "scp-calendar-jp"
+}

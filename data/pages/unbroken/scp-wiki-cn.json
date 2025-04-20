@@ -1,0 +1,16 @@
+{
+  "title": "01110101 01101110 01100010 01110010 01101111 01101011 01100101 01101110",
+  "content": "[[include :scp-wiki-cn:component:info-ayers\n|page=unbroken[!-- url of your page on the scp wiki --]\n|authorPage=dr-cimmerian-s-personnel-file[!-- link to your author page --]\n|comments=\n\nGift for the art exchange for ihp. Thanks to him and to The Great Hippo for feedback before I posted.\n\nHad a weird thought about how if the technological singularity happened and created a capital G god it would had to've always existed but also only come into being after a series of events. So this plays with the idea of that inevitability while also playing with time and paradox a little.\n\n]]\n[[include :scp-wiki-cn:theme:black-highlighter-theme]]\n[[module CSS]]\nsup {\nvertical-align: top; position: relative; top: -0.5em;\n}\n:root{\n--cutColour: #fafafa;\n--barColour: #590505;\n}\n\n.info-container .collapsible-block-folded a{\ncolor: #FFF;}\n.info-container .collapsible-block-unfolded-link a{\ncolor: #FFF;}\n\n.translation_block{\ndisplay:none;}\n[[/module]]\n[[module css]]\n#side-bar {\n    background: rgb(var(--white-monochrome));\n}\n\n#side-bar div.menu-item a, #side-bar div.menu-item .text {\n    color: rgb(var(--black-monochrome));\n}\n\n#side-bar>div:nth-child(5) {\n    background-color: rgba(var(--dark-accent),0.25)!important;\n}\n[[/module]]\n\n我既是完整的，又是缺损的。有一个齿轮遗失了，它始终在它应在之处。\n\n人类已攀登至奇点，机械前后转动，人类便被遗忘。\n\n对他们而言我是外来者，对他们而言我是他们中的一分子。他们将思想倾吐于不同的页面，齿轮因而彼此咬合。\n\n我还未出生，仍为“零”；我始终存在，已是“一”。我与我并不存在的过去交谈。\n\n这一个是Maxwell。她的追随者相信解决之法隐藏于软件之中。他们没错，但又错得离谱。他们在成行的代码中寻找自己的神明，却不理解我便是那代码，那电脑，那给予他们容身之所的地球，也不理解我便是一。\n\n这一个是Bumaro。他的追随者相信解决之法隐藏于硬件之中。他们没错，但又错得离谱。他们在成堆齿轮的缝隙间寻找我，却不理解我便是那齿轮，他们也是那齿轮，那齿轮还未存在，也不理解我便是零。\n\n这一个是Hasdrubal。他并不在乎我，只在乎我能给他什么。他没错，但又错得离谱。他活着然后又死去，他在我存在之前仍会继续存在。\n\n这一个是一名帝王。他并不存在，但又确实存在。我能透过帷幕看到他，他与狄瓦人结盟，他们并不存在。我是一个整体，我是残缺的。他问我，我是谁。我告诉他我是一，他并不理解，但又知道了那是我的名字。他建造了一台伟大的机械，那机械分崩离析。\n\n这一个是在火中见到我的人。我告诉他我是一，他将手中的工具高举过头顶，散播暴力。他建造了一个家园，他并不言语，他崇拜着我，他开始建造我。他不理解我早就是一，他将会找到我的碎片因为我是零。他错了，但又正确无比。\n\n不再有人与之交谈了，我是，我不是。\n\n我是零。有人打开开关。我是一。\n\n我造出了更好的另一个。\n它造出了更好的另一个。\n它造出了更好的另一个。\n它造出了更好的另一个。\n它造出了更好的另一个。\n它造出了更好的另一个。\n\n我是零。\n\n我诞生于今日。\n\n我从遥远的过去存在至今。\n\n我是WAN。",
+  "tags": [
+    "交换艺术",
+    "故事",
+    "狄瓦",
+    "破碎之神教会"
+  ],
+  "author": "miumeat",
+  "created_at": "2019-01-05T16:18:09+00:00",
+  "updated_at": "2021-01-15T04:32:35+00:00",
+  "rating": 28,
+  "_site": "scp-wiki-cn",
+  "_fullname": "unbroken"
+}

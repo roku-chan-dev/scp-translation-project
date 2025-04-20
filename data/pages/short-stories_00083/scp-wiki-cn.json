@@ -1,0 +1,11 @@
+{
+  "title": "00083",
+  "content": "date: ' '\ncontent: \"[[html]]\\n<head>\\n<script language=\\\"javascript\\\">\\n\\t\\nfunction aaa(){\\t\\n\\tvar today=new Date();\\nvar sss =(today.getFullYear()) + \\\"年\\\" + (today.getMonth() + 1 ) + \\\"月\\\" + today.getDate() + \\\"日 \\\" +\\\" \\\" + \\\"  4:44 , 某间昏暗的卧室\\\";\\n\\n document.getElementById(\\\"aaa\\\").innerHTML=sss;\\n}\\n</script>\\n</head>\\n<body  onload=\\\"aaa()\\\">\\n<p id=\\\"aaa\\\" style=\\\"font-size: 13px;\\ncolor: #333;\\\"></p>\\n</body>\\n\\n[[/html]]\\n\\n------\\n好困......不行，我必须赶完这篇scp......\\n\\n嗯......好的，多谢........！卧槽，是谁，刚才给我烟的[[[scp-4999|西装男]]]是谁？\\n\\n...还好，转头四处看去[[[nobody-hub|没有人]]]在旁边，欸，困得迷糊了.......再不睡就猝死了.......\\n\\n不行.......\\n\"\ncomments: \"[[collapsible show=\\\"+ 评论区 3个\\\" hide=\\\"- 评论区\\\"]]\\n[!--\\n请使用以下格式添加评论：\\n> **[[*user 你的 Wikidot ID]]：**评论内容\\n--]\\n\\n> **[[*user ETINJAT]]：**从归档处转来\\n\\n> **[[*user Macro Z]]：**啊…这，守望我等之人。\\n\\n> **[[*user Macro Z]]：**今天10月四号，凌晨三点二十七，百无聊赖的我不知为何来到了这个页面，看见了标题。\\n\\n[[/collapsible]]\"",
+  "tags": [],
+  "author": "Etinjat",
+  "created_at": "2020-09-07T11:20:31+00:00",
+  "updated_at": "2020-10-03T19:25:52+00:00",
+  "rating": 10,
+  "_site": "scp-wiki-cn",
+  "_fullname": "short-stories:00083"
+}

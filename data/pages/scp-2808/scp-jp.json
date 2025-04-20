@@ -1,0 +1,19 @@
+{
+  "title": "SCP-2808",
+  "content": "[[>]]\n[[module Rate]]\n[[/>]]\n\n[[div style=\"float:right; margin:0 2em 1em 2em; width:320px; border:0;\"]]\n[[html]]\n<style type=\"text/css\">\nbody\n{\n    font-family: verdana,arial,helvetica,sans-serif;\n    font-size: 0.82em;\n}\ntable.wiki-content-table{\n    border-collapse: collapse;\n    border-spacing: 0;\n    margin: 0.5em auto;\n}\ntable.wiki-content-table td{\n    border: 1px solid #888;\n    padding: 0.3em 0.7em;\n}\ntable.wiki-content-table th{\n    border: 1px solid #888;\n    padding: 0.3em 0.7em;\n    background-color: #EEE;\n}\n</style>\n<table class=\"wiki-content-table\">\n<tbody><tr>\n<td colspan=\"2\">\n<script language=\"JavaScript\">\nvar imgs=\n[\n\"http://ja.scp-wiki.net/local--files/scp-2808/beauty1.png\",\n\"http://ja.scp-wiki.net/local--files/scp-2808/beauty2.png\",\n\"http://ja.scp-wiki.net/local--files/scp-2808/beauty3.png\",\n\"http://ja.scp-wiki.net/local--files/scp-2808/beauty4.png\",\n\"http://ja.scp-wiki.net/local--files/scp-2808/beauty5.png\",\n\"http://ja.scp-wiki.net/local--files/scp-2808/beauty6.png\",]\nvar q = imgs.length;\nvar which=Math.round(Math.random()*5);\nfunction show(){document.write(\"<img src=\\\"\"+imgs[which]+\"\\\" alt=\\\"image\\\" class=\\\"image\\\" width=\\\"300px\\\">\");}\nshow();\n</script></td>\n</tr>\n<tr>\n<th colspan=\"2\"><sup>SCP-2808の写真</sup></th>\n</tr>\n</tbody>\n</table>\n[[/html]] \n[[/div]]\n**アイテム番号:** SCP-2808\n\n**オブジェクトクラス:** Euclid\n\n**特別収容プロトコル:** 財団職員は、SCP-2808についての措置を講じるよう要請されることは無く、部下にそうするよう督励する必要もありません。SCP-2808への干渉、研究についての命令や奨励は無効とされます。SCP-2808に関する対応は、所定職員の自由意志と個人的な余暇に基づいて実行されなければなりません。\n\nサイト47の管理は、SCP-2808補佐官の管轄下にあります。\n\n**説明:** SCP-2808それ自体の説明は、公文書上では理解不能なものとなります。同様の効果が視覚的表現においても発生します。\n\n官僚的組織に勤める人物が仕事の一環としてSCP-2808に関する対応を行うと、「美芸担当官」なる職位への即時変更がもたらされ、これは審美的に魅力ある芸術作品の製作を目的とした、標準作業手順[[footnote]]訳注: ある作業を行う上での適切な方法や作業手順等をまとめた規定・指示書。SCP記事の定型として用いられる特別収容手順はこれが元ネタ。[[/footnote]]の打倒(大抵暴力的なものとなります)を引き起こします。対象が元々就いていた職位および職務責任は、他の職員が代わりに就き、遂行する事が不可能となり、そうしようとする試みは抗い難い抽象的な模様の幻視によって妨げられます。\n\n非公式の、しかし官僚的な圧力・直接的影響の下で行われるSCP-2808への対応でも、前出の職責が自動的に付与されます。その後、前記と同様の幻視により、他者による職務遂行は不可能となります。\n\nどの職員もSCP-2808への従事、取り組みに消極的である為、SCP-2808の情報収集は大変困難なものとなっています。\n\n財団憲章の戦略的変更によってSCP-2808の異常特性を無効化しようとした初期の試みは、SCP-2808が意図せずサイト47管理者となる結果に終わりました。SCP-2808を解任する試みは成功していません。",
+  "tags": [
+    "en",
+    "euclid",
+    "sc2015",
+    "scp",
+    "ミーム",
+    "幻覚",
+    "概念"
+  ],
+  "author": "gnmaee",
+  "created_at": "2016-02-15T01:13:56+00:00",
+  "updated_at": "2021-01-10T16:20:00+00:00",
+  "rating": 19,
+  "_site": "scp-jp",
+  "_fullname": "scp-2808"
+}

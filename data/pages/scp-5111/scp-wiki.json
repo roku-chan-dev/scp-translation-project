@@ -1,0 +1,25 @@
+{
+  "title": "SCP-5111",
+  "content": "[[>]]\n[[module Rate]]\n[[/>]]\n\n[[module ListPages  category=\"fragment\" parent=\".\" limit=\"1\" order=\"created_at\" offset=\"@URL|0\"]]\n%%content%%\n[[/module]]\n\n[!--\nFragments:\nhttp://scp-wiki.wikidot.com/fragment:scp-5111-1\nhttp://scp-wiki.wikidot.com/fragment:scp-5111-2\n--]\n\n[[footnoteblock]]\n\n[[div class=\"footer-wikiwalk-nav\"]]\n[[=]]\n<< [[[SCP-5110]]] | SCP-5111 | [[[SCP-5112]]] >>\n[[/=]]\n[[/div]]\n\n[[include component:license-box author=Popsioak & WinterShadow]]\n=====\n> **Filename:** Pelican Nebula\n> **Name:** IC 5070 - Pelican Nebula (29888470343).jpg\n> **Author:** Giuseppe Donatiello\n> **License:** Public Domain\n> **Source Link:** [https://commons.wikipedia.org/wiki/file:iC_5070_-_Pelican_Nebula_(29888470343).jpg Wikimedia Commons]\n=====\n[[include component:license-box-end]]",
+  "tags": [
+    "5000",
+    "_cc",
+    "_licensebox",
+    "_listpages",
+    "autonomous",
+    "co-authored",
+    "electromagnetic",
+    "extraterrestrial",
+    "hostile",
+    "keter",
+    "scp",
+    "transmission",
+    "wanderers-library"
+  ],
+  "author": null,
+  "created_at": "2020-01-14T20:32:47+00:00",
+  "updated_at": "2023-08-27T14:03:54+00:00",
+  "rating": 88,
+  "_site": "scp-wiki",
+  "_fullname": "scp-5111"
+}

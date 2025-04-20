@@ -1,0 +1,13 @@
+{
+  "title": "阴郁的透明之庭",
+  "content": "[[module ListPages category=\"fragment\" parent=\".\" limit=\"1\" order=\"created_at\" offset=\"@URL|0\"]]\n%%content%%\n[[/module]]\n\n[[=]]\n[[collapsible show=\".\" hide=\"“这个居然在段落里无法显示……见鬼。”\" ]]\n##F4F4F4|——有谁看到我的朋友Izsac了吗？\n——如果知道了，也请不要告诉我。##\n[[<]]\n[[include component:author-page order=created_at]]\n[[/<]]\n[[/collapsible]]\n[[/=]]",
+  "tags": [
+    "作者"
+  ],
+  "author": "lingai10010",
+  "created_at": "2018-08-09T02:00:09+00:00",
+  "updated_at": "2020-09-11T09:06:09+00:00",
+  "rating": 5,
+  "_site": "scp-wiki-cn",
+  "_fullname": "lingai-s-personnel-file"
+}

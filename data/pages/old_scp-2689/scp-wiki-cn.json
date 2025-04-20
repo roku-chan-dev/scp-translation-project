@@ -1,0 +1,20 @@
+{
+  "title": "SCP-2689（旧）",
+  "content": "[[module CSS]]\n.related-flex{\n    display: flex;\n    justify-content: center;\n}\n.related{\n    border: 4px solid rgba(150, 150, 150, .5);\n    background: linear-gradient(10deg, rgba(150, 150, 150, .1), rgba(150, 150, 150, 0));\n    padding: 0 1em;\n    margin: 1em 0;\n}\n[[/module]]\n[[include component:image-block name=https://s2.loli.net/2022/04/16/rKuDM9tZW86Fmdn.png|caption=SCP-2689包装盒。|width=220px]]\n**项目编号：**SCP-2689\n\n**项目等级：**Safe\n\n**特殊收容措施：**所有SCP-2689个体收容于[[[secure-facility-dossier-site-77|Site-77]]]的橱柜雪茄盒内。\n\n**描述：**SCP-2689是8400根卷烟的统称，封装于每盒12根的一批烟盒内。SCP-2689个体在外形和成分上类似非异常的万宝路混合27号香烟。其烟盒在外观上也近乎相同，除了一处设计差异，即下列印刷信息：\n[[div style=\"display: inline-block; border: dashed 1px; background:#F4F4F4; width:95%; padding: 1px 10px 1px 10px;\"]]\n[[=]]\n还在吸垃圾？**真男人**都吸//口感柔滑丰润//的**万宝路™**香烟！\n\n不过滤的品味专供不过滤的嘴。\n**万宝路™**为您呈献\n与**反万宝路母亲™**[[footnote]]拥护规范及限制香烟产品，特别是万宝路产品的非营利组织。该组织从未参与过万宝路产品的广告和营销。[[/footnote]]合作\n[[/=]]\n[[/div]]\n\nSCP-2689的异常效应会在人员将其舌头伸出、压在香烟滤嘴上时显现。[[footnote]]用来吸食烟草残渣的香烟组成部分。大部分万宝路香烟中都以橙色区域标出。[[/footnote]]滤嘴内的醋酸纤维会在与唾液接触时溶解，造成滤嘴的纸卷出现异常性空间扩展。舌头伸入纸卷后，它会收缩变形以适应滤嘴的直径。当人员的整个舌头都进入SCP-2689后，其颏舌肌[[footnote]]控制舌头扩张的一对外附肌。[[/footnote]]的刺激会使舌头质量额外增大，进一步深入到纸卷中。人员的舌骨舌肌[[footnote]]控制舌头收回紧缩的一对外附肌。[[/footnote]]与之正相反，其刺激会逐渐逆转这些效应，使舌头能从SCP-2689中缩回。在此过程内，对象报告有轻微不适，还有一种“苦、黏的物质”堆积在舌头上。\n\n在持续肌肉增长15分钟后，对象报告舌头从纸管内伸出、接触到了一个“黏滑的肉洞。”之后人员会立即感觉到舌头被坚硬物体挤压或切断的疼痛感，然而这实际上从未发生。偶尔对象会感觉到舌头“落”到某种质地的表面上。从撤回后对象上采集到的样本包括混凝土颗粒、岩屑及雪茄烟灰。\n\n**附录01：**当前收容的全部SCP-2689个体最初发现于维吉尼亚州里士满一个送往菲利普•莫里斯美国总部的货箱中。多名中年女性对象被目击到手推运货车将货箱送入建筑的大厅内。在被问讯时，这些对象称其内容物为“风味让你能真的吸进去的未过滤香烟”。回收特工在其异常性质于公司内联网被谈论后对包裹进行了查收。无法确认涉事的女性对象的身份。\n\n**附录02：**2017年3月8日，加拿大Kamloops假日旅馆酒店的一名住客报警，称有“触手”从他的烟中出现并“深喉[了他]”。潜伏于Kamloops RCMP的特工抵达现场查收了肇事材料。分析断裂物后发现其来自当时进行SCP-2689测试的D-7332。因此事故，测试已被暂停。\n\n[[footnoteblock]]\n\n------\n[[div class=\"related-flex\"]]\n[[div class=\"related\"]]\n**__也请看__：**\n* **[[[SCP-2582]]]** - 锤与钉\n* **[[[SCP-5791]]]** - 咳出混凝土\n[[/div]]\n[[/div]]\n[[=]]\n\n[[include :scp-wiki-cn:component:license-box\n|author=stephlynch\n|translator=ashausesall]]\n=====\n> **文件名：**marlboro.png\n> **图像名：**Box of Marlboro Blend No. 27s.\n> **图像作者：**[https://en.wikipedia.org/wiki/User:AnthonyA7 AnthonyA7]\n> **授权协议：**公有领域\n> **来源链接：** [https://commons.wikimedia.org/wiki/File:Marlboro_Blend_No._27.JPG 维基百科]\n=====\n[[include :scp-wiki-cn:component:license-box-end]]\n[[/=]]",
+  "tags": [
+    "safe",
+    "scp",
+    "人造物品",
+    "化学性",
+    "变形",
+    "味觉影响",
+    "旧页面",
+    "门径"
+  ],
+  "author": "M Element",
+  "created_at": "2017-05-14T09:28:41+00:00",
+  "updated_at": "2022-04-17T05:24:58+00:00",
+  "rating": 1,
+  "_site": "scp-wiki-cn",
+  "_fullname": "old:scp-2689"
+}

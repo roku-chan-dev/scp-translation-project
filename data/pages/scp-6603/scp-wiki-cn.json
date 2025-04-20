@@ -1,0 +1,19 @@
+{
+  "title": "SCP-6603",
+  "content": "[[include :scp-wiki-cn:theme:blankstyle]]\n\n[[module css]]\n\nbody{\n    --barColour: #106133;\n}\n\n:root{\n  --header-title: \"SCP基金会\";\n  --header-subtitle: \"控制，收容，保护\";\n}\n\n#header h1 a:before {\n    font-size: 2.0rem;\n}\n\ndiv#extra-div-1 {\n    background-image: url(https://scp-wiki.wdfiles.com/local--files/component:pride-highlighter/nb_logo_blk.svg);\n    filter: opacity(25%);\n}\n\n#page-content .info-container {\n    --link-color: rgb(var(--swatch-text-general));\n}\n\n#page-content .info-container .translation_block {\n    display: none;\n}\n\n#page-content .info-container .collapsible-block-link,\n#page-content .info-container:hover .collapsible-block-link {\n    line-height: 1.6em;\n}\n\n#page-content .info-container .collapsible-block-folded,\n#page-content .info-container .collapsible-block-unfolded-link {\n    display: grid;\n}\n\n#page-content .info-container .collapsible-block-folded .collapsible-block-link,\n#page-content .info-container .collapsible-block-link {\n    -webkit-mask: unset;\n            mask: unset;\n    background: transparent;\n    grid-column: 1;\n    grid-row: 1;\n    opacity: 0;\n}\n\n#page-content .info-container .collapsible-block-folded::before,\n#page-content .info-container .collapsible-block-unfolded-link::before {\n    --wght: 800;\n    content: \"Elenee FishTruck\";\n    color: #FFFFFF;\n    font-family: Inter, Arimo, Verdana, Geneva, \"Helvetica Neue\", \"Helvetica\", Arial, sans-serif;;\n    display: block;\n    pointer-events: none;\n    grid-column: 1;\n    grid-row: 1;\n    line-height: 2.75ex;\n}\n\n.quote-text {\n    display: inline-block;\n    border:dashed 1px #999999;\n    background:#F5F5F5;\n    float:center;\n    width:84%;\n    padding:1px 15px;\n    margin: 10px 10px 10px 30px\n}\n[[/module]]\n\n[[include :scp-wiki-cn:component:info-ayers\n|lang=cn\n|page=scp-6603\n|authorPage=http://scp-wiki.wikidot.com/elenee-s-author-page\n|comments=\n\n= **SCP-6603** - //受困//\n\n----\n\n= Elenee FishTruck所作\n]]\n\n[[include :scp-wiki-cn:component:classified-bar-woed\n|lv=3\n|item=6603\n|oc=Safe\n|lang=CN\n]]\n\n----\n\n[[include component:image-block name=http://topia.wdfiles.com/local--files/marooned/islet-new.jpg|width=100%|align=center|caption=SCP-6603。]]\n\n**特殊收容措施：**基金会人员已经收集并存储了SCP-6603上所有先前留存的材料。巡逻艇会远程监测SCP-6603的活动迹象。\n\n----\n\n**描述：**SCP-6603是一座小岛，位于一距离密克罗尼西亚波纳佩州30km的地点。该岛为热带雨林气候，面积1平方公里。\n\n有一电力系统遍及整座SCP-6603为岛屿持续提供电力，尽管基金会人员并未找到小岛发电的方法。岛上有一台液晶电视、DVD播放器、数台视频游戏机与一座充电站都在使用这一能源。\n\n数样物品废弃于SCP-6603，列举如下：\n* 12台iPod Shuffle，每台都只含有一首歌曲。歌曲包括皇后乐队的《波西米亚狂想曲》、奥尔曼兄弟乐队的《杰西卡》、以及警察乐队的《瓶中信》。\n* 11张能够运作的游戏光碟，硬件范围较广。游戏包括《我的世界》、《动物森友会：城市大家庭》以及《上古卷轴5：天际》。还有一张光碟已经破损，貌似是因为被摔在了一棵树上。\n* 12本书，已遭水浸。书本包括詹姆斯·乔伊斯的《尤利西斯》、托马斯·品钦的《抵抗白昼》 以及丹尼尔·笛福的《鲁宾逊漂流记》。\n\n小岛上陈列着12具人类尸体，皆处于不同的腐烂分解阶段。所有尸体似乎都是因为脱水或中暑而亡。\n\n[[footnoteblock]]\n\n[[div class=\"footer-wikiwalk-nav\"]]\n[[=]]\n<< [[[SCP-6602]]] | SCP-6603 | [[[SCP-6604]]] >>\n[[/=]]\n[[/div]]\n\n[[include :scp-wiki-cn:component:license-box\n|author= Elenee FishTruck\n|translator= Lovesicker\n]]\n=====\n> **文件名：**islet.jpg\n> **图像名：**Oroluk Island AKK.jpg\n> **图作者：**Angela K. Kepler\n> **授权协议：**公有领域\n> **来源链接：** [https://commons.wikimedia.org/wiki/File:Oroluk_Island_AKK.jpg 维基共享]\n=====\n[[include :scp-wiki-cn:component:license-box-end]]",
+  "tags": [
+    "safe",
+    "scp",
+    "地点",
+    "岛",
+    "树木",
+    "植物",
+    "电力"
+  ],
+  "author": null,
+  "created_at": "2021-12-30T17:33:54+00:00",
+  "updated_at": "2024-04-07T00:56:30+00:00",
+  "rating": 1,
+  "_site": "scp-wiki-cn",
+  "_fullname": "scp-6603"
+}

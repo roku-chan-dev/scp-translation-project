@@ -1,0 +1,14 @@
+{
+  "title": "10060",
+  "content": "number: UE-505505-JP\ncontent: \"広さ100平方メートルの無人島。異常性は以下の条件のいずれかを満たした場合に発現する。\\n・モールス信号を用いて「SOS」と外部に発信する\\n・領域内に存在していた物品を用いて「SOS」という文字列を作成する。\\n・領域の砂に「SOS」と記述する。\\n以上のいずれかの条件が満たされた場合、作成された「SOS」という文字列の最後の文字が「Y」に置換される。\"\ndate: 20██-██-██\narea: 東経██、北緯██\nprotocol: カバーストーリー「難破事故多発地域」を流布し、付近の海域に接近した民間船を誘導する。\nredirect-b: '[[module Redirect destination=\"/log-of-unexplained-locations-jp'\nredirect-e: '\"]]'",
+  "tags": [
+    "jp",
+    "剪定対象-子"
+  ],
+  "author": null,
+  "created_at": "2021-02-13T00:15:25+00:00",
+  "updated_at": "2021-05-24T13:21:41+00:00",
+  "rating": 39,
+  "_site": "scp-jp",
+  "_fullname": "log-of-unexplained-locations-jp:10060"
+}

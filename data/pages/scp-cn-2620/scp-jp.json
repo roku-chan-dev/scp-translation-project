@@ -1,0 +1,22 @@
+{
+  "title": "SCP-CN-2620",
+  "content": "[[include :scp-jp:credit:start]]\n**SCP-CN-2620 - 誕生日**\n作: [[*user la kanro]] & [[*user day by die]]\n翻訳: [[*user tetsusquared]]、[[*user Nanigashi Sato]]（修正）\n//忘れないで。//\n[[include :scp-jp:credit:end]]\n\n**アイテム番号:** SCP-CN-2620\n\n**脅威レベル:** 白 ○\n\n**オブジェクトクラス:** Safe\n\n**特別収容プロトコル:** SCP-CN-2620は南京市建鄴区水西門街道に位置している財団事務所に保管され、「低危険高価値異常物体の管理手段」を参照して収容されています。財団製の着脱可能テレキル製エンブレムは識別・特別状況のためにオブジェクトの表表紙に付いています。MTF-Mu-13の工作員1名は南京市に駐在して、オブジェクトの収容と保護を指導する権限を持っています。制御不能な要因の影響を防ぐため、水西門街道の地域からのSCP-CN-2620の持ち出しは禁じられています。\n\n[[include component:image-block name=http://scp-jp-storage.wdfiles.com/local--files/file%3A4625348-1-13z3/scp-cn-2620.jpg  |caption=SCP-CN-2620]]\n\n**説明:** SCP-CN-2620は4切サイズ、厚さ3cmの羊皮紙と硬木で綴じた書籍です。内容はフラッシュインクで印刷された小説と漫画です。ある種の不安定性を持っており、不定期に見える速度で変化し、数秒間で新たな画像・物語を形成します。\n\n以下はSCP-CN-2620に現れた漫画・小説の一部抜粋です。\n\n**1.** イソップ童話 (原版)\n\n**2.** アングロ・サクソン哲学的冗談\n\n**3.** フランスパンとパスタのシチューの煮込み方\n\n**4.** 健康を保って病気を治すコツ\n\n**5.** 棒人間の面白い大学日常と君への一言\n\n**6.** 体育と軍事教練関連の通俗科学漫画\n\n**7.** 祖国への熱愛を込んだメッセージ\n\n**8.** デンマークの王子ハムレットの悲劇\n\n**9.** 共産党宣言 (ドイツ語)\n\n**10.** 資本論 (ドイツ語)\n\n**11.** 国家と革命 (ドイツ語)\n\n**12.** 二人の棒人間の愛に満ちた生活\n\n**13.** ヤギ姫様の人生について美しい助言\n\n**14.** 樺の種が木になる過程を描く漫画\n\n**15.** 葉っぱが語る奇談\n\n**16.** 棒人間たちの中秋節と君への祝福\n\n**17.** 吊るし柿・月餅・ブンタンの数枚の皿と飢えた顔\n\n**18.** 子供が木を揺さぶって木犀の種を落とす動態漫画\n\n**19.** 家族写真\n\n以下の内容の樺製のグリーティングカードがオブジェクトの表見返しに貼り付けられていました:\n\n[[module css]]\n.page {\n    display: block;\n    overflow: hidden;\n    font-family: \"Monotype Corsiva\", \"Bradley Hand ITC\", sans-serif;\n    font-style: normal;\n\n    background-attachment: scroll;\n    background-clip: border-box;\n    background-color: transparent;\n    background-image: linear-gradient(to top ,rgb(202, 219, 228) 0%, rgb(231, 233, 220) 8%);\n    background-origin: padding-box;\n    background-position: 0px 8px;\n    background-repeat: repeat;\n    background-size: 100% 20px;\n\n    border: 1px solid #CCC;\n    border-radius: 10px;\n    padding: 10px 10px;\n    margin-bottom: 10px;\n\n    box-shadow: 0px 1px 3px rgba(0, 0, 0, 0.2)\n    }\n.page p,\n.page ul {\n    line-height: 20px;\n    margin: 0;\n}\n[[/module]]\n\n[[div class=\"page\"]]\n\n**建康路郵便局中秋節記念発行**\n**------**\n**誕生日おめでとう　あなたの人生が毎日幸せでありますように ᐛ**\n[[>]]\n\n**1937.9.19**\n\n[[/>]]\n\n[[/div]]\n\nオブジェクトは1945年4月22日にザクセンハウゼン強制収容所で発見されました。",
+  "tags": [
+    "cn",
+    "safe",
+    "scp",
+    "テレパシー",
+    "人工",
+    "共著",
+    "白",
+    "精神影響",
+    "芸術",
+    "認識災害"
+  ],
+  "author": "tetsusquared",
+  "created_at": "2021-12-13T10:25:13+00:00",
+  "updated_at": "2022-02-01T12:21:53+00:00",
+  "rating": 4,
+  "_site": "scp-jp",
+  "_fullname": "scp-cn-2620"
+}

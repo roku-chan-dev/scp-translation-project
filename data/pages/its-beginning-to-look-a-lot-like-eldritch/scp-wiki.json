@@ -1,0 +1,20 @@
+{
+  "title": "It's Beginning to Look a Lot Like Eldritch",
+  "content": "[[module CSS]]\n@import url(https://scpsandboxcn.wikidot.com/snow-dance/code/1);\n@import url(https://scpsandboxcn.wikidot.com/night-sky/code/1);\n[[/module]]\n\n[[>]]\n[[module Rate]]\n[[/>]]\n\n[[include :scp-wiki:component:author-label-source start=--\n|name=Calibold\n|no-right-margin=*]]\n[[=]]\n[[module ListPages range=\".\"]]\n**%%title%%**\n[[/module]]\n\n**[[[Calibri Bold's Mega Cool Author Page|Calibold's Mega Cool Author Page]]]**\n[[/=]]\n[[include :scp-wiki:component:author-label-source end=--]]\n\n[[=]]\n\n**//Sung to the tune of \"It's Beginning to Look a Lot Like Christmas\"//**\n\n[[div style=\"background-image: url(https://scp-wiki.wdfiles.com/local--files/how-dr-clef-contained-christmas/christmas_pattern_low_con.jpg); background-repeat: repeat; color: #FFF; border-radius: 15px; padding: 4px 8px; text-shadow: #46CC3C 1px 1px; font-size: 100%;\"]]\n\nIt's beginning to look a lot like Eldritch\nEverywhere they grow\nTentacles in your head, they’re squirming there once again\nWhere torture, pain, and going insane won’t go\n\nIt's beginning to look a lot like Eldritch\nYou can’t take it much more\nBut the most evil sight to see is an undead corpse from me\nAt your own front door\n\nFleshcrafting books from their ancestral roots\nIt’s the wish in a Sarkic’s head\nStriders that walk and will turn you to rock\nThey'll bring you to Corbenic, dead.\nAnd Nine-Tailed Fox can hardly wait to contain them all again\n\nIt's beginning to look a lot like Eldritch\nEverywhere you go\nThere's a god we summoned from hell, he’ll be contained as well\nAnd the S.R.A.s will never let him go\n\nIt's beginning to look a lot like Eldritch\nSoon the day will break\nAnd the terrors it will bring are the evil bloody things\nFrom your flesh they make\n\nIt's beginning to look a lot like Eldritch\nBright forevermore\nBut the scariest sight to see, is MTF Phi-13\nAt your own front door\n\nSure it's Eldritch, once more\n\n[[/div]]\n\n[[/=]]\n\n@@ @@\n\n[[include :scp-wiki:more-by:calibold]]\n\n[[include :scp-wiki:component:license-box]]\n=====\n> **Filename:** https://scp-wiki.wdfiles.com/local--files/how-dr-clef-contained-christmas/christmas_pattern_low_con.jpg\n> **Name:** Christmas Pattern\n> **Author:** dryicons, [[*user LurkD]]\n> **License:** CC-by-SA 3.0\n> **Source Link:** https://dryicons.com/vector/christmas-pattern\n=====\n[[include :scp-wiki:component:license-box-end]]",
+  "tags": [
+    "_cc",
+    "_licensebox",
+    "christmas",
+    "comedy",
+    "poetry",
+    "sarkic",
+    "tale",
+    "three-moons-initiative"
+  ],
+  "author": "Calibold",
+  "created_at": "2019-12-09T03:26:26+00:00",
+  "updated_at": "2024-10-28T03:33:26+00:00",
+  "rating": 65,
+  "_site": "scp-wiki",
+  "_fullname": "its-beginning-to-look-a-lot-like-eldritch"
+}

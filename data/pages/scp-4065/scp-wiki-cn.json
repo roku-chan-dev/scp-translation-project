@@ -1,0 +1,19 @@
+{
+  "title": "SCP-4065",
+  "content": "[[module CSS]]\n#header {\n    height: 140px;\n    position: relative;\n    z-index: 10;\n    padding-bottom: 22px; /* FOR MENU */\n    background: url() 10px 40px no-repeat;\n}\n[[/module]]\n\n[[=]]\n[[div style=\"float: center; border: solid 2px #000000; padding: 1px 15px; box-shadow: 0 1px 3px rgba(0,0,0,.2);\"]]\n+ **认知危害警告**\n\n+++ 访问 SCP-4065 文档需要特种反模因接种。未接受适宜接种的个人无法感知此文档。接种完毕的人员须观看下图。\n[[/div]]\n[[/=]]\n@@@@\n@@@@\n\n[[include component:image-block name=https://scp-wiki.wdfiles.com/local--files/scp-4065/countermeme.jpg|align=center|width=700px|caption=Pechkarjova/Bakken 选择性感知反模因]]\n@@@@ @@@@\n\n[[=]]\n[[collapsible show=\"反模因接种已验证\" hide=\"  \"]]\n\n[[<]]\n[[include :scp-wiki:component:classified-decoration\n|lv=4\n|item=4065\n|oc=Keter\n|lang=CN\n|trans-level=级\n|trans-classified=机密\n]]\n\n------\n\n[[include component:image-block name=https://scp-wiki.wdfiles.com/local--files/scp-4065/sra.png|caption=SCP-4065-1 的一个实例[[footnote]]使用一个循环浸没式加热器制造。SCP-4065-3 已编辑。[[/footnote]]]]\n**特殊收容措施：**SCP-4065 目前未被收容。反模因开发的研究正在进行。一有可能，则须将 SCP-4065-3 实例擦除或删除；已将 SCP-4065-3 从大多数需要安保等级 2/一般、3/本质促动、4/模因方可编辑的文件中移除，然而这些更改会频繁地被受感染人员所复原。关于 SCP-4065 的信息仅限由选择性感知反模因而获得 SCP-4065 免疫的人员访问。\n\n收容措施依赖使用 SCP-4065-1 的所有异常均有极大的收容失效风险；然而，众多这类异常已被 SCP-4065 感染，也因而部分地自我收容。对这些异常的替代收容措施须被尽快研发并实施。\n\n**描述：**SCP-4065 是一种异常模因传染源，目前几乎影响到基金会所有人员。受影响的人员相信一种科技产物“斯克兰顿现实稳定锚”（SCP-4065-1）的存在性与有效性。据称，SCP-4065-1 是一种以防护本质促动威胁为目的的设备，其原理为稳定“休谟场”——一种描述现实的“厚度”的客观尺度，可被“康德计数器”（SCP-4065-2）测定。SCP-4065 被苏珊·斯克兰顿创造并以她命名，作为对于智能本质促动异常的一种实验性质的收容措施。虽然在其原本用途上极为成功，但关于其感染因素的定义并不明确，从而很快被传播至基金会人员。\n\nSCP-4065-1 与 -2 实例可被受感染的人员使用可获得的材料所制造；SCP-4065-1 实例往往由实验室器材、厨房用具、桌面电脑等所建造，而 SCP-4065-2 则往往由小型仪器建造，如便携计算器和移动电话。这些仪器通常有一些按钮、开关、LED 和表盘，实现作为控制面板的功能；SCP-4065-2 实例通常有至少一个显眼的天线或接收盘。除了电子元件之外，SCP-4065-1 和 -2 实例还偶尔含有一些更显格格不入的材料，包括大型石英晶体、放射源、人类遗体等。所有记录在案的 SCP-4065-1 和 -2 实例都被画上或以其它形式标注了 SCP-4065-3。\n\nSCP-4065-3 是一个模因触媒印记，最初由苏珊·斯克兰顿设计，并作为 SCP-4065 感染的主要载体。当一个具备关于基金会的存在、目的、理念的适度知识[[footnote]]所有基金会人员和绝大多数在基金会收容中的智能异常均满足此条件。推测大多数主要 GoI 成员也有可能会受 SCP-4065 感染的影响，但目前并未被确认。[[/footnote]]的个人看到 SCP-4065-3 时，会在 48 小时内开始表现出 SCP-4065 感染的症状；若个人曾进行过与本质促动直接相关的工作，或自身具有本质促动能力，则会在 8 小时内表现出相关症状。SCP-4065 模因综合体的一个次要成分是一种信念，认为 SCP-4065-3 是基金会的主要标志或印记；这导致目前 SCP-4065-3 在基金会人员之间被广泛用作一个验明身份的图案，更有一些变种已被基金会所有主要部门所采用。\n\n目前尚无针对 SCP-4065 感染的反模因。有假说指出，免疫 SCP-4065 需要知晓关于其创造与成分模因的全部信息；唯一满足此条件的人物则是 SCP-4065 的创造者本人，苏珊·斯克兰顿。\n\n[[footnoteblock]]\n\n[[/<]]\n[[/collapsible]]\n[[/=]]\n\n[[div class=\"footer-wikiwalk-nav\"]]\n[[=]]\n<< [[[SCP-4064]]] | SCP-4065 | [[[SCP-4066]]] >>\n[[/=]]\n[[/div]]",
+  "tags": [
+    "keter",
+    "scp",
+    "基金会制",
+    "未收容",
+    "模因",
+    "视觉性",
+    "认知危害"
+  ],
+  "author": "LeafJensen",
+  "created_at": "2019-04-26T05:06:10+00:00",
+  "updated_at": "2023-04-14T09:12:52+00:00",
+  "rating": 61,
+  "_site": "scp-wiki-cn",
+  "_fullname": "scp-4065"
+}

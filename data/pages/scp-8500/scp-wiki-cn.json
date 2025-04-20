@@ -1,0 +1,23 @@
+{
+  "title": "SCP-8500",
+  "content": "[[module CSS]]\ndiv#header\n{\n  background-image: url('https://scp-wiki.wdfiles.com/local--files/scp-8500/y2klogo.png') !important;\n  image-rendering: pixelated;\n}\ndiv#container-wrap\n{\n  background-image: url('https://scp-wiki.wdfiles.com/local--files/scp-8500/header.png') !important;\n}\n#header h2 span::before\n{\n  content: '控制。收容。保护。'!important;\n}\n[[/module]]\n\n[[include :scp-wiki-cn:theme:y2k]]\n\n[[HTML]]\n<iframe scrolling=\"no\" allowfullscreen frameBorder=\"5\" src=\"https://ironshears.github.io/8500\" style=\"width: 100%; aspect-ratio: 4/3;\"></iframe>\n\n[[/HTML]]\n\n=====\n[[include component:preview\ntext=\n前任负责人被调职后，你收到了新的任务：监督管理一个位于虚拟现实的异常的收容措施。上级要求你专心工作，但同时异常也渴望得到你的关注。\n]]\n=====\n\n[[div class=\"footer-wikiwalk-nav\"]]\n[[=]]\n<< [[[SCP-8499]]] | SCP-8500 | [[[SCP-8501]]] >>\n[[/=]]\n[[/div]]\n\n\n[[include :scp-wiki-cn:component:license-box\n|author=IronShears、Guaire \n|translator=vxeov\n]]\n> **文件名：**Hazel the Delta Rambler, WWOZ New Orleans, 1990\n> **图像名：**SCP-8000 Cynthia Image\n> **图像作者：**Infrogmation\n> **授权协议：**CC-BY 2.0\n> **来源链接：** https://www.flickr.com/photos/29350288@N06/3347177096\n> **附注：**经IronShears编辑\n\n> **文件名：**my_cat1.jpg\n> **图像名：**nullhing’s cat\n> **图像作者：**nullhing\n> **授权协议：**CC-BY-SA 3.0\n> **来源链接：** https://scp-wiki.wikidot.com/wilson-s-wildlife-adoption-gallery\n> **附注：**经IronShears编辑\n\n> **文件名：**my_cat2.jpg\n> **图像名：**seadragon1012’s cat\n> **图像作者：**seadragon1012\n> **授权协议：**CC-BY-SA 3.0\n> **来源链接：** https://scp-wiki.wikidot.com/wilson-s-wildlife-adoption-gallery\n> **附注：**经IronShears编辑\n\n> **文件名：**my_kot3.jpg\n> **图像名：**SCP-PL-KOT-J\n> **图像作者：**Arcydziegiel\n> **授权协议：**CC-BY-SA 3.0\n> **来源链接：** https://i.imgur.com/PJ14ByN_d.webp?maxwidth=5664&shape=thumb&fidelity=high\n> **附注：**经IronShears编辑\n\n> **文件名：**IGNORE.jpg\n> **图像名：**After poster session in AAPG Annual Convention 1997\n> **图像作者：**Channy Yun\n> **授权协议：**CC-BY 2.0\n> **来源链接：** https://www.flickr.com/photos/91793590@N00/3256813399\n> **附注：**经IronShears编辑\n\n> **文件名：**YOUR.jpg\n> **图像名：**Stanford campus fog, Hoover Tower\n> **图像作者：** Dan Nguyen\n> **授权协议：**CC-BY 2.0\n> **来源链接：** https://www.flickr.com/photos/32451477@N02/15138926354\n> **附注：**经IronShears编辑\n\n> **文件名：**DIRECTIVES.jpg\n> **图像名：**Higher Colleges of Technology - Dubai Men's\n> **图像作者：** Dennis S. Hurd\n> **授权协议：**Public Domain Mark 1.0\n> **来源链接：** https://www.flickr.com/photos/43296902@N00/51528424329\n> **附注：**经IronShears编辑\n\n> **文件名：**AND.jpg\n> **图像名：**My players Thursday night\n> **图像作者：** Benimoto\n> **授权协议：**CC-BY 2.0\n> **来源链接：**https://www.flickr.com/photos/44545509@N00/761586285\n> **附注：**经IronShears编辑\n\n> **文件名：**ONE_DAY.jpg\n> **图像名：**Jeni and Clara Kissing\n> **图像作者：** kafka4prez\n> **授权协议：**CC-BY 2.0\n> **来源链接：** https://www.flickr.com/photos/75514127@N00/48274146\n> **附注：**经IronShears编辑\n\n> **文件名：**Y2KLogo.png, header.png,\n> **图像作者：** etoisle\n> **授权协议：**CC-BY 2.0\n> **来源链接：** https://scp-wiki.wikidot.com/theme:y2k\n> **附注：**经IronShears编辑\n\n> **文件名：**a.wav, e.wav,i.wav,o.wav, u.wav\n> **图像作者：**由IronShears使用筆音クミ英语声库生成。声库由Cubialpha使用OpenUTAU生成。\n> **授权协议：**CC-BY-SA 3.0，声库可免费商用，创作者已确认兼容CC-BY-SA协议\n> **来源链接：**声音切片来源于本页面。声库本体：https://cubialpha.wixsite.com/kumivoice\n\n> **文件名：**Computer startup\n> **图像作者：**MrAuralization\n> **授权协议：**CC-BY 3.0\n> **来源链接：** freesound.org/people/MrAuralization/sounds/176796/\n\n> **文件名：**Error (Disaparaging Chimes)\n> **图像作者：**SilverIllusionist\n> **授权协议：**CC-BY 4.0\n> **来源链接：** freesound.org/people/SilverIllusionist/sounds/664038/\n\n> **文件名：**Palette Swap using two textures\n> **图像作者：**afk\n> **授权协议：**CC0\n> **来源链接：** https://godotshaders.com/shader/palette-swap-using-two-textures/\n\n> **文件名：**Sans Normalcy\n> **图像作者：**SYWaves\n> **授权协议：**开放字体协议\n> **来源链接：** https://github.com/scpwiki/sigma/tree/main/fonts\n\n> **文件名：**Dogica\n> **图像作者：**Roberto Mocci\n> **授权协议：**开放字体协议\n> **来源链接：** https://fontlibrary.org/en/font/dogica\n\n> **文件名：**TimesNewPixel\n> **图像作者：**pentacom\n> **授权协议：**公有领域\n> **来源链接：** https://www.pentacom.jp/pentacom/bitfontmaker2/gallery/?id=57\n[[include :scp-wiki-cn:component:license-box-end]]",
+  "tags": [
+    "8000",
+    "safe",
+    "scp",
+    "互动性",
+    "合著",
+    "媒体",
+    "智能",
+    "电子",
+    "电脑",
+    "破碎之神教会",
+    "麦克斯韦宗"
+  ],
+  "author": "vxeov",
+  "created_at": "2024-03-19T10:11:35+00:00",
+  "updated_at": "2024-05-29T14:32:38+00:00",
+  "rating": 28,
+  "_site": "scp-wiki-cn",
+  "_fullname": "scp-8500"
+}

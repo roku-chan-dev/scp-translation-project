@@ -1,0 +1,14 @@
+{
+  "title": "04879",
+  "content": "content: \"**説明:** 修復すると修復箇所が破損する祠。\\n**回収日:** 20██/██/██\\L\\n**回収場所:** ██県██村████池\\n**現状:** 覆い隠す形で簡易的な収容房を設置。近隣住民にはカバーストーリー「崩落の危険」が流布された。\\n\\L**追記:** これ逆に壊そうとしたらどうなるんです？ - ██研究員\\n一部を壊したら壊れたところの修復と破損が繰り返されたそうだ。 - ██博士\"\ntf2: '0'\nauthor: ''\nredirect-b: '[[module Redirect destination=\"http://ja.scp-wiki.net/log-of-anomalous-items-jp'\nredirect-e: '\"]]'",
+  "tags": [
+    "jp",
+    "剪定対象-子"
+  ],
+  "author": "say_temple",
+  "created_at": "2024-09-14T12:49:06+00:00",
+  "updated_at": "2024-09-14T12:50:02+00:00",
+  "rating": 2,
+  "_site": "scp-jp",
+  "_fullname": "anomalous-jp:04879"
+}

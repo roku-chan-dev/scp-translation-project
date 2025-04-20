@@ -1,0 +1,21 @@
+{
+  "title": "SCP-ES-100",
+  "content": "[[module CSS]]\n#page-title {\n  display: none;\n}\n\n.meta-title {\n  border-bottom: solid 1px #bbbbbb;\n  color: #990011;\n  font-weight: normal;\n  margin: 0 0 0.6em;\n  padding: 0 0 0.25em;\n  font-size: 200%;\n}\n\n.meta-title p {\n  margin: 0;\n}\n[[/module]]\n\n[[module ListPages category=\"fragment\" parent=\".\" order=\"created_at\" limit=\"1\" offset=\"@URL|0\"]]\n%%content%%\n[[/module]]",
+  "tags": [
+    "es",
+    "es100",
+    "keter",
+    "safe",
+    "scp",
+    "建筑",
+    "认知危害",
+    "超维度",
+    "门径"
+  ],
+  "author": "Hueyacuetzpali",
+  "created_at": "2019-03-23T17:32:27+00:00",
+  "updated_at": "2021-01-14T17:01:39+00:00",
+  "rating": 6,
+  "_site": "scp-wiki-cn",
+  "_fullname": "scp-es-100"
+}

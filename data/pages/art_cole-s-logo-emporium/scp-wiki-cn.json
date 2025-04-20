@@ -1,0 +1,13 @@
+{
+  "title": "Cole的Logo百货",
+  "content": "[[include :scp-wiki:theme:word-processor]]\n\n[[module css]]\n#header h1 a::before {\n    content: \"Cole的Logo百货\";\n    color: #333;\n    font-family: 'Baloo Bhaina 2', cursive;\n}\n #header h2 span {\n   color: transparent;\n   text-shadow: none;\n}\n#header h2 span::before {\n    content: '\"Logo镶嵌在此\"';\n    color: #0F4699;\n    font-family: 'Baloo Bhaina 2', cursive;\n}\n[[/module]]\n[[>]]\n[[/>]]\n[[=]]\n哈啰！我是[[*user Cole 13]]。我一直都喜欢做些logo玩玩，就是它们！愿意的话，随意使用！只需要PM我，让我知道用在哪里就行！\n[[/=]]\n@@ @@\n@@ @@\n@@ @@\n@@ @@\n[[include :scp-wiki:component:image-features-source |hover-enlarge=--]\n|enlarge-amount=3\n|speed=200\n|float=true\n|align=center\n|width=300px\n|url= http://scp-wiki.wikidot.com/local--files/art:cole-s-logo-emporium/COLESTYLE.png\n|add-caption=true\n|caption= 这个LOGO可能会用在我未来的COLE版式主题里！\n]]\n@@ @@\n@@ @@\n@@ @@\n@@ @@\n[[include :scp-wiki:component:image-features-source |hover-enlarge=--]\n|enlarge-amount=3\n|speed=200\n|float=true\n|align=center\n|width=300px\n|url= http://scp-wiki.wikidot.com/local--files/art%3Acole-s-logo-emporium/MERICA.png\n|add-caption=true\n|caption= 7月4号左右做的，没别的了。\n]]\n@@ @@\n@@ @@\n@@ @@\n@@ @@\n[[include :scp-wiki:component:image-features-source |hover-enlarge=--]\n|enlarge-amount=3\n|speed=200\n|float=true\n|align=center\n|width=300px\n|url= http://scp-wiki.wikidot.com/local--files/art%3Acole-s-logo-emporium/WANDPNG%20.png\n|add-caption=true\n|caption=为我的“智慧之言”主题而制，一个魔杖人的GOI主题。\n]]\n@@ @@\n@@ @@\n@@ @@\n@@ @@\n[[include :scp-wiki:component:image-features-source |hover-enlarge=--]\n|enlarge-amount=3\n|speed=200\n|float=true\n|align=center\n|width=300px\n|url=\t http://scp-wiki.wikidot.com/local--files/art%3Acole-s-logo-emporium/wegg.png\n|add-caption=true\n|caption= 大概是我流AWCY logo！\n]]\n@@ @@\n@@ @@\n@@ @@\n@@ @@\n[[include :scp-wiki:component:image-features-source |hover-enlarge=--]\n|enlarge-amount=3\n|speed=200\n|float=true\n|align=center\n|width=300px\n|url= http://scp-wiki.wikidot.com/local--files/art%3Acole-s-logo-emporium/SPC.png\n|add-caption=true\n|caption= 我流SPC logo！\n]]",
+  "tags": [
+    "艺术作品"
+  ],
+  "author": "Hg-lab",
+  "created_at": "2021-10-14T06:23:33+00:00",
+  "updated_at": "2021-10-16T00:21:28+00:00",
+  "rating": 4,
+  "_site": "scp-wiki-cn",
+  "_fullname": "art:cole-s-logo-emporium"
+}

@@ -1,0 +1,26 @@
+{
+  "title": "SCP-6871",
+  "content": "[[include :scp-wiki-cn:theme:black-highlighter-theme]]\n[[include :scp-wiki:component:bhl-dark-sidebar]]\n[[include :scp-wiki:component:centered-header-bhl]]\n[[include :scp-wiki-cn:theme:the-coalition-theme]]\n[[include :scp-wiki:component:toggle-sidebar-bhl]]\n[[include :scp-wiki:component:fade-in speed=4]]\n[[module CSS]]\n:root {\n    --timeScale: 6;\n    --timeDelay: 6s;\n}\n\n#page-content hr {\nborder-top: none;\nheight: .05em;\nbackground: #454545;\n}\n#page-title {\n  display: none;\n}\n.footnotes-footer {\ndisplay: none;\n}\n[[/module]]\n\n[[module css]]\n.collection .collapsible-block-unfolded-link a , .collection .collapsible-block-folded a {\nbackground-color: #21284E !important;\ncolor: #FFFFFF !important;\n}\n\n.titlecolumn {\nbackground-color: #21284E !important;\ncolor: # #FFFFFF !important;\n}\n\n.namerow {\nbackground-color: #21284E !important;\ncolor:  #FFFFFF !important;\n}\n\n.namerow a {\n  color:  #FFFFFF !important;\n}\n[[/module]]\n\n\n[[div style=\"text-align: right; margin-top: -20px;\"]]\n[[size 80%]]##757575|by Ralliston##[[/size]]\n[[/div]]\n \n[[include :scp-wiki:component:classified-bar-woed\n|lv=6\n|item=6871\n|oc=Thaumiel\n|lang=CN\n]]\n\n[[module css]]\ndiv.scale {\n  --woedbar-lvl6-color: #21284E;\n}\n[[/module]]\n\n[[module CSS]]\n   body {\n    --barColour: #21284E\n}\n[[/module]]\n\n\n-----\n**特殊收容措施：** 关于SCP-6871执行与原料的说明仅限于--O5议会--管理员知晓。任何试图获取该信息的非授权人员将被就地处决。\n\n对SCP-6871的所有相关测试中，应有至少5名独立见证者[[footnote]] 当前包括管理员、Maria Jones、O5-1、O5-13以及Dr. Gears。[[/footnote]]，在程序进行期间务必要和SCP-6871文件一起驻守于[[[SCP-3936|特外站点-01]]]。类似地，为避免悖论性时间循环，执行测试的人员也应位于上述站点内，而被执行SCP-6871的项目应位于站点外。\n\n**描述：** SCP-6871是一种能将人员、物体和/或现象从基准时间线移除的奇术仪式。在正确执行后，目标在时间线内的影响和行动将被回溯性抹除并取代。\n\n**发现：**[[[[SCP-6936|根据RAISA及DELTA-T主管的紧急命令进行删减]]]]\n\n**附录6871-1:** SCP-6871测试记录\n\n||~ 测试编号 ||~ 执行人员 ||~ 抹除目标 ||~ 结果 ||\n|| #1 || D-51832 || 随机选中的一美元钞票 || 未发现差别。 ||\n|| #2 || D-51832 || 曾被Dr. Brenda用于购买咖啡的一美元钞票  || Dr. Brenda在整日里明显更为劳累，由她进行的项目进展较此前明显减小。||\n|| #3 || D-81920 || D-51832 ||之前所有测试连同其结果被全部逆转。 ||\n|| #4 || D-91726 || D-81920 || 现实回复到了测试#2时的相同状态，例外是D-81920不复存在。||\n|| #5 || D-51832 || Dr. Brenda || 曾由Dr. Brenda负责的多项异常研究获得显著进展，曾与她竞争职位的Dr. Williams达到了远高于她的安保级别。||\n|| #6 || D-51832 || Dr. Williams || Dr. Brenda和Dr. Williams此前竞争的职位空缺无人，多个原本已知SCP项目的发现经过遭到抹除。 ||\n|| #7 || D-51832 || Dr. Elias Shaw || Dr. Shaw的当前宿主如标准结果一样被抹除，但[[[SCP-963]]]和Dr. Shaw的意识依然完好无恙。 ||\n|| #8 || D-51832 || Dr. Elias Shaw的全部126名宿主 || 全部126名人员如标准结果一样被抹除，但此后又发现有126名人员是Dr. Shaw的宿主。||\n|| #9 || D-51832 || SCP-963 || Dr. Shaw的意识、连同所有由他达成的研究进展全部丢失。||\n|| #10 || D-17253 || D-51832 || 现实回复到测试前的相同状态，例外是D-51832不复存在。 ||\n|| #11 || 管理员 || SCP-6871 || N/A -- 被[[[welcome-to-delta-t|Delta-T]]]否决以避免时间悖论。 ||\n|| #12 || O5-12 || [[[SCP-682]]] || 仪式被妥当进行，起初该项目连同由其造成的破坏一并被抹除。几秒后，SCP-682重新出现在收容间内，并说出以下评论语：“可悲。”它拒绝就此事故做进一步解释。  ||\n|| #13 || O5-12 || [[[SCP-1000]]] || 夜之子种族被整个抹除，其结果是人类自发端以来一直位居主宰物种。人类社会先进到超出认知，多个神性实体及格外先进的技术被整合到社会中。 ||\n|| #14 || D-91826 || O5-12 || 因最近三次测试没有得到议会直接指令且造成灾难性后果，现实被恢复到了测试#12之前的状态。 ||\n|| #15 || O5-2 || [[[chaos-insurgency-hub|机动特遣队Alpha-1 (\"红右手\")]]] || 混沌分裂者、2%的基金会科学人员、以及1.5%的MTF单位一并从基准现实中消失。更多研究有待研究。 ||\n|| #16 || O5-8 || [[[goc-hub-page|D.C. al Fine]]] || D.C. al Fine与全球超自然联盟一并消失。其结果是SCP基金会成为了全世界的主要异常组织，当前正在应对由[[[sarkicism-hub|大术士亚恩]]]及术士领导的全球性叛乱。||\n|| #17 || O5-3 || 大术士亚恩 || 人类社会倒退到青铜时代的程度。绝大部分的人类进步、连同[[[church-of-the-broken-god-hub|破碎之神教会]]]以及全体O5议会成员从现实中消失。记录表明人类在3000多年来始终无法进步到超出该时代。更多研究正在进行。 ||\n|| #18 || 管理员 || || //我很抱歉容许了所有这一切。我非常，非常抱歉。// ||\n-----\n**文件评论：** 上述文件发现于一次联盟突袭行动中，当时有平民多次报告林中有不明废墟，后在美国俄勒冈州一处建筑废墟内的深井档案中将其发现，该地被标记为“特外站点-01”。研究表明此建筑至少有2000年历史，属于一个专门对异常现象开展收容的世界性组织，其名为“SCP基金会”。\n\n[[[unfounded-hub|无任何具此名称的组织、或能支持其存在的证据存在]]]。\n\n[[footnoteblock]]\n-----\n[[div class=\"footer-wikiwalk-nav\"]]\n[[=]]\n<< [[[SCP-6870]]] | SCP-6871 | [[[SCP-6872]]] >>\n[[/=]]\n[[/div]]\n\n[[div]]\n[[=]]\n[[include :scp-wiki-cn:component:license-box\nauthor=Ralliston]]\n[[include :scp-wiki-cn:component:license-box-end]]\n[[/=]]\n[[/div]]",
+  "tags": [
+    "dc-al-fine",
+    "scp",
+    "shaw博士",
+    "thaumiel",
+    "the-administrator",
+    "不灭孽蜥",
+    "仪式性",
+    "全球超自然联盟",
+    "夜之子",
+    "大术士亚恩",
+    "奇术",
+    "悖论",
+    "时间影响",
+    "未建立"
+  ],
+  "author": "ashausesall",
+  "created_at": "2021-09-02T10:35:15+00:00",
+  "updated_at": "2025-01-17T19:36:43+00:00",
+  "rating": 17,
+  "_site": "scp-wiki-cn",
+  "_fullname": "scp-6871"
+}

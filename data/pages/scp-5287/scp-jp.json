@@ -1,0 +1,23 @@
+{
+  "title": "SCP-5287",
+  "content": "[[include :scp-jp:theme:classic]]\n[[include :scp-jp:theme:magnus-web-format]]\n[[module css]]\nsup {\nvertical-align: top; position: relative; top: -0.5em;\n}\n[[/module]]\n[[include credit:start]]\n**タイトル:** SCP-5287 - スモーク・シグナル\n**著者:** ©︎[[*user Cremo]], [[*user Uncle Nicolini]]\n**原題:** SCP-5287 - Smoke signal\n**作成年:** 2021\n[[include credit:end]]\n[[include :scp-jp:component:anomaly-class-bar-source\n\n|item-number= 5287\n\n|clearance= 2\n\n|container-class= euclid\n\n|secondary-class= none\n\n|disruption-class= vlam\n\n|risk-class= notice\n\n]]\n\n**特別収容プロトコル:** SCP-5287が出現を続ける間、グロート研究員はサイト-228で財団の監視下に置かれ続けます。\n\n**説明:** SCP-5287はグロート研究員が煙草や葉巻を能動喫煙した際に発生する現象です。吐き出された煙 (ここではSCP-5278-1と表記) は通常色々な言葉や短いフレーズへと変化し、グロート研究員の前方の空中を浮遊し始めます。\n\n物理的な接触に際し、SCP-5287実例は非異常の煙のように柔軟であり容易に消散します。\n\n**特筆すべきSCP-5287-1実例:**\n\n> ヤメロ\n\n> タバコハヒトヲコロスゾ\n\n> ミライヲムダニシテイルゾ\n\n> イマスグニヤメロ\n\n> ジンセイヲカンガエタマエ\n\n> //SCP-5287-1は通常通りに出現せず、代わりに小さい煙の雲が火の着いた煙草へと移動し、消されるまでその場に留まった。これはSCP-5287-1実例が言葉はフレーズとして出現しなかった初めての例である。//\n\n> ハイガシボンデシマウゾ\n\n> ドウカヤメテクレ\n\n> オネガイダ\n\n> ガンハスグソコマデキテイルノダ\n\n> デススティック[[footnote]]**訳注:** Cancer stickと同じように、煙草を表す英語圏のスラング。[[/footnote]]\n\n> //SCP-5287-1は再び小さな煙の雲として出現してグロート研究員の目の前へと移動し、彼はこれを振り払いながら煙草を消した。//\n\n> ケイコクスル\n\n> マジデヤッテヤルカラナ\n\n> ケイコクシタゾ\n\n**インシデント5287.1:** 実験中にSCP-5287-1実例は続けて「スマナカッタ」のように出現しました。この実験後、グロート研究員は煙草の煙を更に吹きかけました。フレーズへと変化する代わりに、SCP-5287-1は人間の腕の形を取り、グロート研究員が煙草を掴んでいた右手の人差し指と中指をへし折りました。\n\n将来的なインシデントの防止のためSCP-5287の実験は中止され、グロート研究員は禁煙のためにサイト内の精神科医へと毎週訪問することになりました。加えて、グロート研究員は喫煙習慣を抑制するためにペン型ヴェポライザーを支給されました。\n\n[[footnoteblock title=\"脚注\"]]",
+  "tags": [
+    "en",
+    "euclid",
+    "scp",
+    "不定形",
+    "人間型",
+    "共著",
+    "改稿",
+    "気体",
+    "知性",
+    "空中",
+    "非実体"
+  ],
+  "author": "Fennecist",
+  "created_at": "2022-01-11T14:01:18+00:00",
+  "updated_at": "2025-03-13T04:29:03+00:00",
+  "rating": 39,
+  "_site": "scp-jp",
+  "_fullname": "scp-5287"
+}

@@ -1,0 +1,26 @@
+{
+  "title": "SCP-6934",
+  "content": "[[include :scp-wiki:theme:blankstyle fade=a]]\n[!-- https://scp-wiki.wikidot.com/fragment:scp-6934-1 --]\n[!-- https://scp-wiki.wikidot.com/fragment:scp-6934-2 --]\n[[module css]]\n:root {\n  --header-title: \"SCP Foundation\";\n  --header-subtitle: \"Secure, Contain, Protect\";\n}\n\ndiv#extra-div-1 {\n    background-image: url(https://scp-wiki.wdfiles.com/local--files/scp-6934/Logo.png);\n    filter: invert(0) opacity(0.2);\n}\n\n.memo {\n    background: #edf5f3;\n    font-family: 'Work Sans', sans-serif;\n    box-shadow: 0px 0px 5px rgba(0, 0, 0, 0.5);\n    width: 90%;\n    min-height: 4rem;\n    max-height: 100rem;\n    margin-left: auto;\n    margin-right: auto;\n    text-align: center;\n    padding: 10px 20px 20px 20px;\n    word-break: break-word;\n}\n\n.email-example a {\n    animation: blink 0.8s ease-in-out infinite alternate;\n}\n@keyframes blink {\n    0% { color: transparent; }\n    50%, 100% { color: #b01; }\n}\n.email {border: solid 2px #000000; width: 88%; padding: 1px 15px; margin: 10px; box-shadow: 0 1px 3px rgba(0,0,0,.5)}\n.email-example a.collapsible-block-link {font-weight: bold;}\n.tofrom {margin-left: 10px; margin-top: 5px; padding: 1px 15px; border-left: solid 3px maroon}\n[[/module]]\n[[>]]\n[[module Rate]]\n[[/>]]\n[[module ListPages category=\"fragment\" parent=\".\" order=\"name\" limit=\"1\" offset=\"@URL|0\"]]\n%%content%%\n[[/module]]\n-----\n-----\n[[include :scp-wiki:component:earthworm\n| first=false | last=true | hub=no\n| previous-url=/scp-6943 | previous-title=SCP-6943: Shootout in Chicago\n| next-url=/ | next-title=\n| hub-url=/ | hub-title=Logistics Department\n]]\n\n[[size 75%]]Some of the pictures (visual information) in this article are sourced from the U.S. Department of Defense. **The appearance of U.S. Department of Defense (DoD) visual information does not imply or constitute DoD endorsement.**[[/size]]\n[[footnoteblock]]\n\n[[div class=\"footer-wikiwalk-nav\"]]\n[[=]]\n<< [[[SCP-6933]]] | SCP-6934 | [[[SCP-6935]]] >>\n[[/=]]\n[[/div]]\n[[include :scp-wiki:component:license-box]]\n\n=====\n> **Filename:** Ship.png\n> **Author:** isamiga76 (Modified by [[*user Jack Ike]])\n> **License:** Attribution 2.0 Generic (CC BY 2.0)\n> **Source Link:** https://www.flickr.com/photos/33852840@N06/3658331122\n\n> **Filename:** Helkaraxe.png\n> **Author:** JTSchaube\n> **License:** Attribution-ShareAlike 4.0 International (CC BY-SA 4.0)\n> **Source Link:** https://commons.wikimedia.org/wiki/File:J%C3%BCrgen_Schwandt.jpg\n\n> **Filename:** Engine Room.png\n> **Author:** [https://commons.wikimedia.org/wiki/User:Sf9000 Steven Fine] (Modified by [[*user Jack Ike]])\n> **License:** Attribution-ShareAlike 4.0 International (CC BY-SA 4.0)\n> **Source Link:** https://commons.wikimedia.org/wiki/File:The_Engineering_Control_Center_of_the_USCGC_Mackinaw_(WLBB-30).jpg\n\n> **Filename:** Bridge.png\n> **Author:** Chief Petty Officer Justin Ailes (Modified by [[*user Jack Ike]] in compliance with Department of Defence conditions)\n> **License:** Public Domain\n> **Source Link:** https://www.navy.mil/Resources/Photo-Gallery/igphoto/2002883782/\n\n> **Filename:** MTF.png\n> **Author:** MC3 Zachary Eshleman (Modified by [[*user Jack Ike]] in compliance with Department of Defence conditions)\n> **License:** Public Domain\n> **Source Link:** https://www.navy.mil/Resources/Photo-Gallery/igphoto/2002446821/\n\n> **Filename:** Logo.png\n> **Author:** [[*user Jack Ike]] (Derivative of the SCP Foundation logo by [[*user Aelanna]]\n> **License:** Creative Commons Attribution-ShareAlike 3.0 Unported (CC BY-SA 3.0)\n> **Source Link:** https://scp-wiki.wdfiles.com/local--files/scp-5492/Kanizsa.png\n\n> **Filename:** Title Card.png\n> **Author:** [[*user Jack Ike]] (Using SCP Foundation logo by [[*user Aelanna]]\n> **License:** Creative Commons Attribution-ShareAlike 3.0 Unported (CC BY-SA 3.0)\n> **Source Link:** https://scp-wiki.wdfiles.com/local--files/scp-6934/Title%20Card.png\n\n=====\n[[include :scp-wiki:component:license-box-end]]",
+  "tags": [
+    "_cc",
+    "_licensebox",
+    "_listpages",
+    "aquatic",
+    "autonomous",
+    "departmentcon2022",
+    "euclid",
+    "foundation-made",
+    "meteorological",
+    "scp",
+    "teleportation",
+    "temporal",
+    "thermal",
+    "vehicle"
+  ],
+  "author": "Jack Ike",
+  "created_at": "2022-02-28T03:10:44+00:00",
+  "updated_at": "2022-11-07T06:47:42+00:00",
+  "rating": 45,
+  "_site": "scp-wiki",
+  "_fullname": "scp-6934"
+}

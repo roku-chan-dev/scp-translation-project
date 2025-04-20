@@ -1,0 +1,18 @@
+{
+  "title": "SCP-4911",
+  "content": "[[include component:object-class-bar-source\n|item-num=4911\n|obj-class=Safe\n|site-resp=n/a\n|director=n/a\n|rsch-head=n/a\n|task-force=n/a\n|colorbar-bg-color=rgb(0,0,0)\n|colorbar-bg-img=optional\n|colorbar-one=full\n|colorbar-two=none\n|colorbar-three=none\n|colorbar-four=none\n|colorbar-five=none\n|colorbar-six=none\n|level=1\n|secrecy=机密\n]]\n------\n[[div class=\"scp-image-block block-center\" style=\"width:100%;\"]]\n[[image https://scp-wiki.wdfiles.com/local--files/scp-4911/wall.jpg style=\"width:100%;\" link=#]]\n[[div class=\"scp-image-caption\" style=\"width:100%;\"]]\nSCP-4911\n[[/div]]\n[[/div]]\n\n------\n**项目编号：**SCP-4911\n\n**项目等级：**Safe\n\n**特殊收容措施：**已收购SCP-4911的收容地以阻止平民进入。\n\n无需其他收容措施。\n\n**描述：**SCP-4911为一座位于威尔士南部的石墙，沿着由草地覆盖的山丘边缘筑成。SCP-4911的建筑特点遵循新石器时代常见的干堆工艺。SCP-4911由大量深色与浅色的石头组成，共5203块。SCP-4911上有三处明显的图案，偶尔会存在凸起。不可能也不建议移除或摧毁SCP-4911的石块。\n\nSCP-4911具有极强的记忆影响能力。参观SCP-4911与土丘的游客会记住此区域的具体细节，也会了解5203块石头的确切数量。数字意义尚不明确。SCP-4911所产生的记忆对任何已知记忆治疗都具抵抗力。\n\n在SCP-4911的后面，土丘的顶部，有一个刻有神秘符文的石柱基。奇术分析表明，如果这些符文得到恰当的护理，柱基顶部将保持永久的火焰燃烧。\n\n除柱基外，未在SCP-4911周围发现碑文。所有历史记录都描述了此区域的现状；无历史记录表明SCP-4911的作用或原因。\n\n@@@@\n@@@@\n@@@@\n@@@@\n@@@@\n@@@@\n@@@@\n@@@@\n\n[[include :scp-wiki-cn:component:license-box\n|author=Joreth\n|translator=Twilit\n]]\n=====\n> **文件名：**wall.jpg\n> **图像名：**Newgrange from right side\n> **图像作者：**Cary Bass-Deschenes\n> **授权协议：**CC BY-SA 2.0\n> **来源链接：***https://www.flickr.com/photos/14429081@N00/3877944375/\n\n=====\n[[include :scp-wiki-cn:component:license-box-end]]\n\n[[div class=\"footer-wikiwalk-nav\"]]\n[[=]]\n<< [[[SCP-4910]]] | SCP-4911 | [[[SCP-4912]]] >>\n[[/=]]\n[[/div]]",
+  "tags": [
+    "safe",
+    "scp",
+    "建筑",
+    "观察影响",
+    "记忆影响",
+    "铭文"
+  ],
+  "author": "Twilit",
+  "created_at": "2021-06-23T03:17:14+00:00",
+  "updated_at": "2024-05-16T16:59:59+00:00",
+  "rating": 6,
+  "_site": "scp-wiki-cn",
+  "_fullname": "scp-4911"
+}

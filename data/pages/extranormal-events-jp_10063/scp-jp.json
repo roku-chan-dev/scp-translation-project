@@ -1,0 +1,14 @@
+{
+  "title": "10063",
+  "content": "overview: 海上保安庁により東日本大震災の影響で沖合に流出した船舶の回収作業が行われていた中、█隻の漁船およびプレジャーボートと共に第二次世界大戦時のドイツ軍の魚雷艇であるSボートが発見・回収されました。当時の状況にも関わらず、回収されたSボートは全くの無傷でした。\nswdate: '1'\ndate: 2011/5/██\nswplace: '1'\nplace: 宮城県██市南東の沖合\nswchaseprocedure: '1'\nchaseprocedure: Sボートについては財団が回収、Anomalousアイテムとして保管しています。また回収にあたった海上保安官らに対してはクラスA記憶処理が行われました。なお、回収されたSボートを調査したところ、兵装はすべて可動状態であり、銃弾や魚雷も実物が装填されていました。しかしながらエンジン等の製造番号など個体を特定できる情報はすべて削り取られており、起源等を突き止める事は出来ませんでした。\nswaddendum: '0'\naddendum: ''\ntf2: '1'\nauthor: sugoitakaiBILL\nredirect-b: '[[module Redirect destination=\"/log-of-extranormal-events-jp'\nredirect-e: '\"]]'",
+  "tags": [
+    "jp",
+    "剪定対象-子"
+  ],
+  "author": "machikawa",
+  "created_at": "2020-07-23T16:10:17+00:00",
+  "updated_at": "2021-05-24T13:21:01+00:00",
+  "rating": 7,
+  "_site": "scp-jp",
+  "_fullname": "extranormal-events-jp:10063"
+}

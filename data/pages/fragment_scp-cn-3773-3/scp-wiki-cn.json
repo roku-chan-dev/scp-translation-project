@@ -1,0 +1,13 @@
+{
+  "title": "SCP-CN-3773",
+  "content": "[[module CSS]]\n.ninth::before {\n  content: \"第九行星\";\n  margin-top: -5px;\n  position: absolute;\n  opacity: 0.6;\n}\n.ninth::after {\n  content: \"第九行星\";\n  margin-top: 5px;\n  position: absolute;\n  opacity: 0.6;\n  margin-left: -4em;\n  filter: blur(.5px);\n}\n.ninth {\n  opacity: 0.8;\n  filter: blur(.5px);\n}\n[[/module]]\n\n[[include :scp-wiki-cn:component:anomaly-class-bar-source\n\n|lang= cn\n\n|item-number= CN-3773\n\n|clearance= 1\n\n|container-class= 已解明\n\n|secondary-class= none\n\n|disruption-class= dark\n\n|risk-class= 待观察\n\n]]\n\n**特殊收容措施：**SCP-CN-3773没有收容的必要。\n\n**描述：**SCP-CN-3773是一台存在于所有时间线的高维机器。\n[[div class=\"blockquote\"]]\n这一场闹剧最初以一颗假定存在的[[span class=\"ninth\"]]第九行星[[/span]]为始，沿经几次荒诞的转折，几场悲壮的牺牲，终于以一台高维机器的产物作为定论收尾。\n\n只是，这一定论往后，则是无数的时间线里，无数牺牲者们提出的证明与反论。\n[[/div]]\nSCP-CN-3773具备影响时间线的能力。\n[[div class=\"blockquote\"]]\n这一论证过程亦是充满曲折与猜疑，众多伟大的猜想与辩驳都基于一个假设存在的幽灵展开。所有人都以为那是庞加莱的幽灵，永远地盘旋于地球上空，吸引慕求者步入宿命已定的陷阱之中，嘲弄着人类永远无法理解存在于假定中的怨灵以怎样的方式超脱于时间以外。\n\n只是最初没有人知晓，那嘲弄的话语是何等的祝福，希望与未来亦藏身于假定之中。\n[[/div]]\nSCP-CN-3773的作用原理为创造一个地球的庞加莱投影，并使其始终遵从从时间上对其的假定。\n[[div class=\"blockquote\"]]\n我其实没有想过能写到这里。我本以为我只是一切希望的传火者，我本以为我也是无数牺牲与怀着希望死去者的一员。\n\n但是当我看见自己的名字的那一刻，我就知道时间假定性的存在与利用注定将由过去的所有我，现在的每一个我与未来的任何一个我去证明。\n[[/div]]\n批准SCP-CN-3773的研究人员在自己身上进行时间假定性实验。\n[[div class=\"blockquote\"]]\n我见过太多先驱以自己渺小的身躯弥补三维与四维之间无法跨越的鸿沟，从无数时间线的唯一重合点带回或带去一些星火似的希冀。我见过太多前辈以自己毕生的时光作为赌注与筹码，认定无数学者共同堆砌的重量能与末日的砝码中和。\n\n哪怕所有的理论都告诉他们：所谓历史，所谓命途都是一场盛大的宇宙牧歌里反复上演的悲剧。\n[[/div]]\nSCP-CN-3773记载有多个时间线人类文明对时间线上注定发生的一场宇宙级灾难的共同研究。\n[[div class=\"blockquote\"]]\n//所有的人也都会作出同一份回答：如果人类在宿命面前反复走向抗争之路，奇迹就会存在。//\n[[/div]]\n经十一万余条时间线的共同努力，该宇宙级灾难现已不会发生。\n[[div class=\"blockquote\"]]\n这份文档将会跨越时空，跨越庞加莱回归，跨越先驱们假定的希望依旧存在。届时，“ColdMilk”这一著名，将作为永恒的终结，无数人的最后齐声，宿命的诠释与奇迹的脚注，向今后每一个注定辉煌的人类文明发出问候。\n[[/div]]\nSCP-CN-3773已由我，C-505的最后一人宣告无效化。\n[[div class=\"blockquote\"]]\n那么，就这样吧，我累了。\n[[/div]]",
+  "tags": [
+    "段落"
+  ],
+  "author": "doctor Stanley",
+  "created_at": "2024-12-06T13:06:30+00:00",
+  "updated_at": "2024-12-06T13:12:03+00:00",
+  "rating": 0,
+  "_site": "scp-wiki-cn",
+  "_fullname": "fragment:scp-cn-3773-3"
+}

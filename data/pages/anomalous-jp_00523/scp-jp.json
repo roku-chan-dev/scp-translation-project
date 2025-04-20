@@ -1,0 +1,14 @@
+{
+  "title": "00523",
+  "content": "content: \"**説明:** およそ█.█ x 10^^██^^桁の自然数。この数を見たものは、それが素数であると確信する\\n**回収日:** 20██年██月██日\\n**回収場所:** GoI-███の拠点にて、電子媒体に保存された状態で発見。\\n**現状:** 電子媒体は██博士のオフィスに保管。実際に素数であるかの判定を行うためにスパコンの使用を申請中。\"\ntf2: '1'\nauthor: krt_w\nredirect-b: '[[module Redirect destination=\"http://ja.scp-wiki.net/log-of-anomalous-items-jp'\nredirect-e: '\"]]'",
+  "tags": [
+    "jp",
+    "剪定対象-子"
+  ],
+  "author": "7happy7",
+  "created_at": "2020-03-14T14:31:01+00:00",
+  "updated_at": "2021-05-24T13:13:21+00:00",
+  "rating": 2,
+  "_site": "scp-jp",
+  "_fullname": "anomalous-jp:00523"
+}

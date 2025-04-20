@@ -1,0 +1,18 @@
+{
+  "title": "The Iron Icarus",
+  "content": "[[include :scp-wiki:theme:black-highlighter-theme]]\n\n[[>]]\n[[module Rate]]\n[[/>]]\n[[include :scp-wiki:component:author-label-source start=--\n|name=ThatGuyThatTime\n|no-right-margin=*]]\n= My art entry for RemixCon 2023!\n= [[[/art:thatartpageofalltime|More by ThatGuy]]]\n[[include :scp-wiki:component:author-label-source end=--]]\n[[=]]\n[[image 070REMIX.png]]\n@@ @@\n@@ @@\n[[include :scp-wiki:component:license-box]]\n=====\n> **Filename:** 070REMIX.png\n> **Author:** [[*user ThatGuyThatTime]]\n> **License:** CC-BY-SA 3.0\n=====\n[[include :scp-wiki:component:license-box-end]]\n[[/=]]",
+  "tags": [
+    "_cc",
+    "_licensebox",
+    "artwork",
+    "poster",
+    "remixcon2023",
+    "scp-art"
+  ],
+  "author": "ThatGuyThatTime",
+  "created_at": "2023-08-22T01:34:30+00:00",
+  "updated_at": "2024-03-28T19:00:27+00:00",
+  "rating": 50,
+  "_site": "scp-wiki",
+  "_fullname": "art:iron-icarus"
+}

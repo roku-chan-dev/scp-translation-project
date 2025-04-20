@@ -1,0 +1,19 @@
+{
+  "title": "SCP-CN-2227",
+  "content": "[[include :1nu:kouzan-gyosho]]\n\n[[module CSS]]\n @import url(https://fonts.googleapis.com/css2?family=New+Tegomin&display=swap);\n\n.page {\n    display: block;\n    overflow: hidden;\n    font-family:'New Tegomin', cursive;\n}\n.footnotes-footer {\n    display: none;\n}\n[[/module]]\n[[include theme:night-rush-theme]]\n[[include :topia:component:bettersidebar]]\n\n[[include :scp-wiki-cn:credit:start]]\n= [[size 150%]]**タイトル:** SCP-CN-2227 - 独り酔って[[/size]]\n= [[size 150%]]**原題:** SCP-CN-2227 - 独醉[[/size]]\n= [[size 120%]]**著者:** ©︎[[*user Dr Fishbone]][[/size]]\n= [[size 120%]]**作成年:** 2021[[/size]]\n[[include :scp-wiki-cn:credit:end]]\n\n[[include :scp-sandbox-3:image-zoom name=http://scp-jp-storage.wikidot.com/local--files/file:3266034-223-smua/city.jpg|caption=SCP-CN-2227の掃き出し窓から見える景色|width=300px|align=right]]\n**アイテム番号:** SCP-CN-2227\n\n**オブジェクトクラス:** Euclid\n\n**特別収容プロトコル:** SCP-CN-2227の入り口はエリア-CN-15によって封鎖されています。セキュリティクリアランスレベル3以下の人員の接近は許可されていません。\n\n**説明:** SCP-CN-2227は[編集済]市の[編集済]グループが所有するオフィスビルの最上階にある一室です。ビル内の他の部屋に比べ、オブジェクトの内装は非常に簡素であり、唯一の家具として、一人掛けの柔らかいソファが掃き出し窓に向かって配置されています。テストの結果、SCP-CN-2227内のあらゆる電化製品/電子設備は機能しないことが確認されました。\n\nSCP-CN-2227は23:00～翌2:00の間、ターゲットとなる人物が単身で進入した場合に限り、その異常性を発現させます。この間、ターゲットが自ら退室するまで、オブジェクトのドアを外部から開けることは不可能となります。入室したターゲットは通常、ソファに座ろうと行動します。その後、ターゲットの嗜好に合ったビールが1瓶、対象の目の前の床に出現します。ターゲットがビールを飲み干しても、未知の手段によって新たな瓶が補充されます。\n\nSCP-CN-2227は一定量のビールをもたらすと[[footnote]] この数値はターゲットに応じて変化するとみられます。 [[/footnote]]、その供給を停止します。その後、ターゲットは最後の1瓶の下から、次のような紙片を発見します。\n[[note]]\n[[div class=\"page\"]]\n[[size 150%]]眩く灯火に 眠れぬ今宵 悩みはどうぞ 捨て置いて[[/size]]\n\n[[size 150%]]生活は、明日もまた続いていく。[[/size]]\n\n[[>]]\n[[size 130%]]SLEEPLESS VOYAGE@@  @@[[/size]]\n[[/>]]\n[[/div]]\n[[/note]]\nSCP-CN-2227がもたらすビールと紙片には異常が見られないことが確認されています。\n\n[[footnoteblock]]",
+  "tags": [
+    "cn",
+    "euclid",
+    "scp",
+    "エリア-cn-15",
+    "場所",
+    "建造物",
+    "要翻訳"
+  ],
+  "author": "snoj",
+  "created_at": "2021-04-11T10:25:53+00:00",
+  "updated_at": "2023-12-19T09:38:37+00:00",
+  "rating": 50,
+  "_site": "scp-jp",
+  "_fullname": "scp-cn-2227"
+}

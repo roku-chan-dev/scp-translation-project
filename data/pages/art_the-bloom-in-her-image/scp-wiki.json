@@ -1,0 +1,16 @@
+{
+  "title": "The Bloom In Her Image",
+  "content": "[[include :scp-wiki:theme:monotypical]]\n\n[[module css]]\n:root {\n    --linkColor: #38AFFF;\n\n    --primaryBackgroundColor: #242935;\n    --secondaryBackgroundColor: #3F4256;\n    --tertiaryBackgroundColor: #809EB2;\n    --borderColor: #6272A4;\n\n    --shadow: rgba(96,213,248,0.3);\n\n    --selectionColor: #50FA7B;\n    --textColor: #F8F8F2;\n    --textColor-alt: #6272A4;\n}\n::-webkit-scrollbar-track {\n    background: var(--secondaryBackgroundColor);\n}\n[[/module]]\n\n[[>]]\n[[module rate]]\n[[/>]]\n[[include :scp-wiki:component:author-label-source start=--\n|name=EstrellaYoshte]]\n= Now was her name Lily, or...?\n\n[[[estrellayoshte|My Authorpage]]]\n\n[[[desk-of-junior-designer-s-yvonne|My Icon Artdesk]]]\n[[[art:estrella-illustration-desk|The Other Artdesk]]]\n[[include :scp-wiki:component:author-label-source end=--]]\n\n[[div class=\"meta-title\"]]\nThe Bloom in Her Image\n[[/div]]\n\n[[image https://i.imgur.com/lVoJ9p5.png]]\n\n------\n\n[[tabview]]\n\n[[tab Rough Sketch]]\n[[image https://i.imgur.com/JamS7mP.png]]\n[[/tab]]\n\n[[tab Second Sketch]]\n[[image https://i.imgur.com/e2c47mj.png]]\n[[/tab]]\n\n[[tab Flats + Basic Shading]]\n[[image https://i.imgur.com/WFOVojZ.png]]\n[[/tab]]\n\n[[tab Background]]\n[[image https://i.imgur.com/AHlbxZ0.png]]\n[[/tab]]\n\n[[/tabview]]",
+  "tags": [
+    "_cc",
+    "artwork",
+    "cel-shaded",
+    "painted"
+  ],
+  "author": "EstrellaYoshte",
+  "created_at": "2021-11-09T14:23:44+00:00",
+  "updated_at": "2024-03-28T10:32:44+00:00",
+  "rating": 48,
+  "_site": "scp-wiki",
+  "_fullname": "art:the-bloom-in-her-image"
+}

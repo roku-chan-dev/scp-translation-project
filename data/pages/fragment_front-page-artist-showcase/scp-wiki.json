@@ -1,0 +1,13 @@
+{
+  "title": "Front Page Artist Showcase",
+  "content": "[[div class=\"box art\"]]\n[[div class=\"title\"]]\nART SPOTLIGHT\n[[/div]]\n[[div class=\"caption\"]]\nThis month's [[[/artwork-hub | Featured Artists]]]: {$artblurb}\n[[/div]]\n[[div class=\"footer\"]]\n@@>>@@ [https://scp-wiki.wikidot.com/artist-showcase-archive Past Art Spotlights]\n[[/div]]\n[[/div]]\n\n\n\n[[module CSS]]\n/* *** ART FEATURES *** */\n\n.art {\n    background-image: url({$art1url});\n    background-size: cover;\n    background-position: center;\n    -webkit-animation: artslide 20s linear infinite;\n            animation: artslide 20s linear infinite;\n    -webkit-animation-timing-function: step-end;\n            animation-timing-function: step-end;\n}\n\n.caption {\n    display: block;\n    position: relative;\n    bottom: -30%;\n    background: #4a0000ad;\n    color: white;\n    padding: 0.25rem;\n    margin: 0.5rem;\n    text-align: center;\n    border-radius: 4px;\n}\n\n.caption a {\n    font-weight: bold;\n    color: white;\n}\n\n@-webkit-keyframes artslide {\n    0% {background-image: url({$art1url});}\n    30% {background-image: url({$art1url});}\n    33% {background-image: url({$art2url});}\n    63% {background-image: url({$art2url});}\n    66% {background-image: url({$art3url});}\n    96% {background-image: url({$art3url});}\n    99% {background-image: url({$art1url});}\n\n}\n\n@keyframes artslide {\n    0% {background-image: url({$art1url});}\n    30% {background-image: url({$art1url});}\n    33% {background-image: url({$art2url});}\n    63% {background-image: url({$art2url});}\n    66% {background-image: url({$art3url});}\n    96% {background-image: url({$art3url});}\n    99% {background-image: url({$art1url});}\n\n}\n[[/module]]",
+  "tags": [
+    "fragment"
+  ],
+  "author": "OptimisticLucio",
+  "created_at": "2022-05-04T07:53:23+00:00",
+  "updated_at": "2022-12-01T18:07:48+00:00",
+  "rating": 0,
+  "_site": "scp-wiki",
+  "_fullname": "fragment:front-page-artist-showcase"
+}

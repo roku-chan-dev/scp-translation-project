@@ -1,0 +1,23 @@
+{
+  "title": "SCP-7585",
+  "content": "@@ @@\n[[include :scp-wiki:info:start]]\n@@ @@\n= **SCP-7585:** The Kid Dies At The End\n= **Author:** [[[winterheart-page | GwenWinterheart]]]\n[[include :scp-wiki:info:end]]\n[[module ListPages  category=\"fragment\" parent=\".\" limit=\"1\" order=\"created_at\" offset=\"@URL|0\"]]\n%%content%%\n[[/module]]\n\n[[include :scp-wiki:component:license-box]]\n=====\n> **Filename:** urn.jpeg\n> **License:**  CC0 1.0\n> **Source Link:** https://commons.wikimedia.org/wiki/File:Vase_with_lid_MET_sf969146ab.jpg\n=====\n[[include :scp-wiki:component:license-box-end]]\n\n[!-- https://scp-wiki.wikidot.com/fragment:scp-7585-0 --]\n[!-- https://scp-wiki.wikidot.com/fragment:scp-7585-1 --]",
+  "tags": [
+    "_cc",
+    "_licensebox",
+    "_listpages",
+    "alive",
+    "humanoid",
+    "medical",
+    "neutralized",
+    "reality-bending",
+    "sapient",
+    "scp",
+    "temporal"
+  ],
+  "author": "GwenWinterheart",
+  "created_at": "2022-11-11T22:57:48+00:00",
+  "updated_at": "2022-12-14T12:41:39+00:00",
+  "rating": 56,
+  "_site": "scp-wiki",
+  "_fullname": "scp-7585"
+}

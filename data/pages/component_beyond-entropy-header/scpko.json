@@ -1,0 +1,13 @@
+{
+  "title": "엔트로피를 넘어서 서식 표지",
+  "content": "[[iftags +템플릿]]\n[[=]]\n[[[beyond-entropy-hub|엔트로피를 넘어서]]] 서식 템플릿입니다. [[*user thd-glasses]] 제작.\n\n:필요한 입력값:\n**$cellnum**\n**$cellname**\n**$codetype**\n**$preset**\n**$title**\n[[/=]]\n[[/iftags]]\n\n[[table style=\"border-collapse:collapse; margin:auto; width:100%;\"]]\n[[row]]\n[[cell style=\"padding:3px; width:20%; background:#210B61; text-align:center;\"]]\n[[image beyond-entropy-hub/BE-logo-title.png width=\"40px\"]]\n[[/cell]]\n[[cell style=\"padding:3px; width:60%; background:#210B61; text-align:center; color: white;\"]]\n[[size 200%]]**{$cellnum}**[[/size]]\n[[size 300%]]**//{$cellname}//**[[/size]]\n[[/cell]]\n[[cell style=\"padding:3px; width:20%; background:#210B61; text-align:center; color: white;\"]]\n**암호 유형**\n[[size 200%]]**{$codetype},,{$preset},,**[[/size]]\n[[/cell]]\n[[/row]]\n[[row]]\n[[cell style=\"padding:3px; background:#FFFFFF; text-align:center;\" colspan=\"3\"]]\n++* **{$title}**\n[[/cell]]\n[[/row]]\n[[/table]]\n\n@@@@\n@@@@",
+  "tags": [
+    "템플릿"
+  ],
+  "author": "thd-glasses",
+  "created_at": "2020-03-07T02:12:47+00:00",
+  "updated_at": "2020-11-15T13:30:33+00:00",
+  "rating": 0,
+  "_site": "scpko",
+  "_fullname": "component:beyond-entropy-header"
+}

@@ -1,0 +1,26 @@
+{
+  "title": "SCP-6716",
+  "content": "[[>]]\n[[module Rate]]\n[[/>]]\n[[include :scp-wiki:component:author-label-source start=--\n|name=Winterheart]]\n= [[[winterheart page | More by this author.]]]\n[[include :scp-wiki:component:author-label-source end=--]]\n\n[[module ListPages  category=\"fragment\" parent=\".\" limit=\"1\" order=\"created_at\" offset=\"@URL|0\"]]\n%%content%%\n[[/module]]\n\n[!-- https://scp-wiki.wikidot.com/fragment:scp-6716-0 --]\n[!-- https://scp-wiki.wikidot.com/fragment:scp-6716-1 --]\n\n[[div class=\"footer-wikiwalk-nav\"]]\n[[=]]\n<< [[[SCP-6715]]] | SCP-6716 | [[[SCP-6717]]] >>\n[[/=]]\n[[/div]]\n\n[[include :scp-wiki:component:license-box]]\n=====\n> **Filename:** coffeemaker.png\n> **Author:** Teepetersen\n> **License:** CC-by-SA 4.0\n> **Source Link:** https://commons.wikimedia.org/wiki/File:Coffee_maker.jpg\n> **Additional Notes:** Edited by me\n\n=====\n\n\n[[include :scp-wiki:component:license-box-end]]",
+  "tags": [
+    "_cc",
+    "_licensebox",
+    "_listpages",
+    "alive",
+    "appliance",
+    "ectoentropic",
+    "electronic",
+    "humanoid",
+    "keter",
+    "religious",
+    "ritual",
+    "sapient",
+    "scp",
+    "tactical-theology"
+  ],
+  "author": "GwenWinterheart",
+  "created_at": "2022-11-05T21:44:49+00:00",
+  "updated_at": "2023-02-08T20:20:02+00:00",
+  "rating": 117,
+  "_site": "scp-wiki",
+  "_fullname": "scp-6716"
+}

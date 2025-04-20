@@ -1,0 +1,16 @@
+{
+  "title": "SCP-7008",
+  "content": "[[include :scp-wiki-cn:theme:paperstack]]\n[[div class=\"logo\"]]\n[[image https://scp-wiki.wdfiles.com/local--files/theme%3Apaperstack/lgtrans.png]]\n[[/div]]\n\n[[div class=\"header-container-ex\"]]\n[[include component:image-block name=http://scp-wiki.wikidot.com/local--files/scp-7008/rosetall.png|caption=SCP-7008 实例。|width=300px|align=right]]\n[[div class=\"header-info\"]]\n[[div class=\"header-info-flex\"]]\n[[div class=\"text-item\"]]\n[[size 90%]]##grey|**项目编号：**##[[/size]]\n\n[[size 220%]]**7008**[[/size]]\n[[/div]]\n\n[[div class=\"text-item\"]]\n[[size 90%]]##grey|**收容等级：**##[[/size]]\n\n[[size 220%]]**ANOMALOUS**[[/size]]\n[[/div]]\n[[/div]]\n[[/div]]\n[[/div]]\n\n\n**特殊收容措施：**SCP-7008对面纱或基金会的威胁可以忽略不计。对SCP-7008表现事件原因的研究可能会继续进行，但不需要正式的收容。\n\n**描述：**SCP-7008是一种非异常人造玫瑰的显现，其由粉红色织物和塑料制成，自发出现在人口稠密的地区。其表现的条件尚不清楚，但绝大多数事件都有以下共同点：\n\n* SCP-7008通常出现在当地时间下午5点到凌晨4点之间，\n* 尽管几乎完全表现在城市环境中，但当时该地区人口很少，\n* SCP-7008偏爱工业和商业区，而不是住宅区，\n* SCP-7008在人类直接观察之外显现。[[footnote]]这一点，加上表现后缺乏异常效应，使得SCP-7008的收容和研究成为低优先级。[[/footnote]]\n@@ @@\n@@ @@\n\n++ 附录 7008.1 - 发现：\n\n基金会数据爬虫 Sylvia.aic 在弗吉尼亚州诺福克区记录到了了几台视听 CCTV 摄像机的短暂重启。由于在没有异常干扰的情况下，这极不可能，因此被标记为人工审查，导致记录下第一个SCP-7008事件。镜头的转录如下：\n\n[[div class=\"blockquote\"]]\n[[include component:image-block name=http://scp-wiki.wikidot.com/local--files/scp-7008/square.jpg|caption=00:00|width=300px|align=right]]\n//Morgan Alda走出了他的工作地点，一家当地的杂货店。//\n\n//现在是凌晨2点17分。街道很黑，Alda时不时发抖。他把手伸进口袋，拿出一串钥匙，经过三十秒的努力，锁上了大楼门。//\n\n//他仍然面对着大楼，向后退了几步，深吸一口气。揉了揉眼睛之后，他徘徊至附近的长凳旁。//\n\n//Alda坐下来，从口袋里掏出一副耳机和一包口香糖。他插上耳机，摆弄手机，找了一首歌。他似乎对歌很满意，或者至少还凑合，于是放下手机，干瞪着马路对面。//\n\n//几分钟过去了，柔和的微风消逝着。他凝视着远方，任自己与周围的世界隔绝。偶尔会经过一辆车，咆哮着，但他没有反应。他的每一次呼吸都切断了轻快的空气。无论怎样，他还是继续盯着马路面。//\n\n//过了很久，Alda猛地回过头来，大声叹了口气，弯下腰，把头深深埋在臂弯里。镜头被剪掉了。//\n\n//镜头恢复时，可以在长凳的侧面看到一朵粉红色的塑料玫瑰。Alda的头仍埋在臂弯里。五分钟后，他抬起头来，注意到那玫瑰。//\n\n//他迟疑片刻。//\n\n**Alda：** 哈。\n\n//他拿起玫瑰花，在手里翻来覆去地把玩，看了一会儿。突然，他站了起来，几乎是从地上跳下来，把玫瑰花塞进口袋里。他要回家前，慢慢地向摄像头方向踱去。离开画面时，他的脸上露出了一丝微笑。//\n\n[[/div]]\n@@ @@\n@@ @@\n[[footnoteblock]]\n@@ @@\n@@ @@\n[[include :scp-wiki-cn:component:license-box\n|author=Anonymous\n]]\n=====\n> **文件名：**rosetall.png\n> **图像作者：**seriousbri\n> **授权协议：**CC-BY-2.0\n> **来源链接：**[[[https://search.openverse.engineering/image/c01d2860-6e41-4926-a915-d1c6bb2e507c|Openverse]]]\n\n> **文件名：**square.jpg\n> **图像作者：**pmarkham\n> **授权协议：**CC-BY-2.0\n> **来源链接：**[[[https://wordpress.org/openverse/image/f38d4627-c031-478f-8c59-9130f9e800bf|Openverse]]]\n=====\n[[include :scp-wiki-cn:component:license-box-end]]",
+  "tags": [
+    "7000",
+    "scp",
+    "人造物品",
+    "机密分级"
+  ],
+  "author": "DREAlity",
+  "created_at": "2022-07-28T22:48:50+00:00",
+  "updated_at": "2023-11-30T12:17:53+00:00",
+  "rating": 14,
+  "_site": "scp-wiki-cn",
+  "_fullname": "scp-7008"
+}

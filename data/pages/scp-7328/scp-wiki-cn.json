@@ -1,0 +1,21 @@
+{
+  "title": "SCP-7328",
+  "content": "[[div style=\"text-align: right; margin-right: 2em; margin-top: -20px;\"]]\n\nby [[[Koths Korner| Kothardarastrix]]]\n\n[[/div]]\n\n[[include :scp-wiki-cn:component:acs-animation]]\n[[include :scp-wiki-cn:component:anomaly-class-bar-source\n|lang=cn\n|item-number= 7328\n|clearance= 1\n|container-class= neutralized\n|disruption-class= none\n|risk-class= none\n]]\n\n**特殊收容措施：**SCP-7328-A的遗体被低温保存于Area-12生物研究室，可以应要求用于研究。\n\nSCP-7328-B被收容于标准异常物品仓库中。其于活跃状态下收到的一切通信的录音及其翻译可根据要求提供。\n\n**描述：**SCP-7328为一艘来源不明的巨型星际飞船，当前距地球约2.5个天文单位。项目的距离之遥远及其反射率之低下使得其尺寸与外观上的细节难以确定。但初步观察确定，SCP-7328正沿着一条捷线[[footnote]]**译注：**即最速降线，使垂直平面上一点A在重力的作用下向另一点B运动所需时间最少的曲线。[[/footnote]]轨道减速，项目将于[数据删除]前进入低地球轨道。\n\nSCP-7328-A为一种近似于头足类物种的外星生物，推测其来自于SCP-7328。参阅尸检报告7328-A-1以进一步了解其生物学细节。\n\nRAISA在收到一则通知时发现了SCP-7328-A，该通知称Site-01的一处安全终端已被O5-1凭证访问，而已知O5-1当时正在别处。[[footnote]]尚不知晓SCP-7328-A是如何获取到O5-1凭证或渗透至Site-01的；怀疑其具有逆模因性质。[[/footnote]]机动特遣队Alpha-1(“红右手”)抵达该终端时，SCP-7328-A的尸体被发现。显然，当试图访问[[[SCP-001]]]文件时，该生物被Berryman-Langford模因抹杀触媒所杀；然而，终端访问记录表明，它在死前已成功访问了其他████文件。\n\nSCP-7328-B为自SCP-7328-A尸体处取得的一个圆柱状金属通讯设备。通过这一设备，SCP-7328-A很可能已经将其所获取的部分或全部机密信息传回SCP-7328。该设备的使用方式尚不清楚，其与SCP-7328之间传递信息的途径同样未知。SCP-7328-B在SCP-7328-A死亡后继续接收信息传输，这或许表明相同的消息已被发送至多个SCP-7328-A实例处。\n\nSCP-7328-A死亡43分钟后，SCP-7328突然改变航向，加速冲出太阳系。此时SCP-7328-B停止接收更多消息，其电源不久后亦出现故障。为此，SCP-7328已被重分级为Neutralized。\n\n在同时使用了正常与异常翻译方法，进行了为期十一个月的工作后，SCP-7328的最后一条信息终于得到了翻译。\n\n[[collapsible show=\"显示信息\" hide=\"隐藏信息\"]]\n\n> 这颗星球是个什么玩意\n\n[[/collapsible]]\n\n[[footnoteblock]]\n\n[[include :scp-wiki-cn:component:license-box\n|author=Kothardarastrix]]\n[[include :scp-wiki-cn:component:license-box-end]]",
+  "tags": [
+    "scp",
+    "传送",
+    "头足类动物",
+    "尸体",
+    "无效化",
+    "星际",
+    "智能",
+    "载具",
+    "通讯"
+  ],
+  "author": "Enterark_D",
+  "created_at": "2022-09-30T16:07:23+00:00",
+  "updated_at": "2024-07-19T02:06:18+00:00",
+  "rating": 39,
+  "_site": "scp-wiki-cn",
+  "_fullname": "scp-7328"
+}

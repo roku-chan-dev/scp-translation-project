@@ -1,0 +1,17 @@
+{
+  "title": "SCP-7025",
+  "content": "[[include :scp-wiki-cn:component:author-label-source start=--\n|name=GreenWolf]]\n这是我的**[[[greenwolf-s-author-page|作者页]]]**。\n\n公交车，烦。\n[[include :scp-wiki-cn:component:author-label-source end=--]]\n\n[[div style=\"display: flex; padding-bottom: -1em; border-bottom: solid 1px #444;\"]]\n[[div style=\"width: 50%;\"]]\n++* **项目编号**：SCP-7025\n\n++* **项目等级**：Euclid\n[[/div]]\n[[div style=\"width: 50%; text-align: right;\"]]\n++* **1/NAGL级**\n\n++* **机密**\n[[/div]]\n[[/div]]\n\n[[div style=\"padding-bottom: -1em; border-bottom: solid 1px #444;\"]]\n++ **特殊收容措施**\n\n北美五大湖地区所有基金会人员必须尽可能与一切行驶中的公交车保持至少100米距离。公交车位置和轨迹的实时预测与监控由分析学部负责提供，以此协助人员避开公交车。\n\n经北美五大湖地区站点主管议会决定，区域内重要人员的所有站点外休假都将被暂时取消。\n\n应监督者议会的要求，洛克菲勒基金会（Rockefeller Foundation）开始进行一场政治游说运动，旨在取消或更改受影响地区的公交车路线。\n\n[[/div]]\n\n++ **描述**\n\nSCP-7025为影响北美五大湖作业区的统计学异常。于该区域内，基金会人员死于公交车的可能性更高。\n\n受影响区域内，平民每年死于公交车的人数约占年总死亡人数的1/50000。而对于区域内的基金会人员，平均每50人中就有1人死于公交车。这一趋势于1997年首次被发现，当时公交车是造成基金会人员死亡的主要原因，共56名人员因其而死。当前收容措施已经降低了基金会人员被公交车杀死的比率，但并未完全将此现象消除。\n\n迄今为止，并无可检测到的外力、现象或实体被确定为SCP-7025的来源。曾造成人员死亡的公交车均无异常表现，致死事件的根本原因完全正常。观察与测试表明，未处于行驶状态的公交车对于人员的风险极小；然而，一旦靠近行驶中的公交车，人员几乎必定丧生。\n\n下方表格列出由SCP-7025造成的，不寻常而值得注意的致死事件。\n\n||~ 死者 ||~ 就业岗位 ||~ 死亡方式 ||\n|| Edric Hibbert || 高级研究员 || 过马路时被校车（school bus）撞死。过程中校车的制动发生了故障，最终归咎于制造缺陷。此事件的变体在SCP-7025相关事件中最为常见。 ||\n|| Richard Howe || 安保人员 || 在观看8字形场地的校车比赛时被一块飞来的碎片击中。 ||\n|| Denver Garland || 维修技师 || 所乘公交车与一只驼鹿相撞后，被嘴里的百吉饼噎死。 ||\n|| Bruno Amundsen || 清洁工人 || 试图登上一辆公交车时在冰面上滑倒。 ||\n|| Victor Van Laren || 副主管 ||一辆下班的公交车把他家的墙壁整个撞穿。司机严重醉酒。 ||\n|| Jade Marchand || 行政助理 || 17位丧生乘客中的一名，当时她乘坐的公交车从桥上冲下来，正好落到下方河里一名游泳者的头顶上。车上还有五名其他乘客是基金会人员。 ||\n|| Victoria Brassington || 主治医师 || 在游泳时被坠落的公交车砸扁。 ||\n|| Joseph Sutton || 特遣队特工 || 在潜水调查砸死Brassington医生的公交车时，被公交车残骸缠住而溺水。 ||\n|| Cleve McKinley || 外勤特工 || 为调查SCP-7025，在监视一个公交车站时一氧化碳中毒。 ||\n|| Simon Buchanan || 收容主管(SCP-7025) || 因被公交车引擎回火的声音吓了一跳，心脏病发作。 ||\n|| Norina Calabrese || 物流司机 || 被一辆爆炸起火的公交车燔祭。 ||\n\n[[div class=\"footer-wikiwalk-nav\"]]\n= << [[[SCP-7024]]] | SCP-7025 | [[[SCP-7026]]] >>\n[[/div]]\n[[include :scp-wiki-cn:component:license-box\n| author = GreenWolf\n]]\n[[include :scp-wiki-cn:component:license-box-end]]",
+  "tags": [
+    "euclid",
+    "scp",
+    "未收容",
+    "概率性",
+    "载具"
+  ],
+  "author": "Enterark_D",
+  "created_at": "2022-09-07T09:36:02+00:00",
+  "updated_at": "2023-07-02T02:51:35+00:00",
+  "rating": 31,
+  "_site": "scp-wiki-cn",
+  "_fullname": "scp-7025"
+}

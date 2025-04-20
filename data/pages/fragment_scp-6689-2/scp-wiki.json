@@ -1,0 +1,13 @@
+{
+  "title": "SCP-6689-2",
+  "content": "[[include :scp-wiki:theme:basalt hidetitle=a]]\n\n[[div class=\"notation\"]]\n> + Labyrinthine Forms:\n\n> * Unicursal - The Winding Path\n> * **Multicursal - The Maze**\n> * Rhizomatic - The Web\n\n-----\n\nThe multicursal labyrinth, or maze, is characterized -- and distinguished from the __[[[https://scp-wiki.wikidot.com/scp-6689/offset/2|unicursal]]]__ labyrinth -- by the disorientating series of navigational choices it offers the labyrinth-walker.\n\nSuch a multicursal maze inherently features branching pathways, dead-ends, and other difficulties that obscure or hinder progression through it. The associated pathways may be repetitive and/or indistinct to further hinder one's ability to orient themselves within the space. As such, the personal responsibility of the labyrinth-walker is highlighted, as successful navigation is based on their ability to discern the correct path and overcome the confusing, fragmented presentation of this labyrinth. Seemingly paradoxically, the difficulty of navigation is a result of an external force: the architect of the labyrinth, who devised the challenge of the maze. The inability to transgress through a multicausal labyrinth, thus, is as much a failure of the navigator as a success of the designer.\n\nThis maze, as Umberto Eco remarks, may also be conceived as a tree: consisting of divergent branches emerging and terminating from a central trunk.[[span class=\"fnnum\"]].[[/span]][[span class=\"fncon\"]] Eco, //Semiotics and the Philosophy of Language//, 1984, pp. 81.[[/span]] This trunk -- the path of completion -- is obfuscated to the wanderer, but clear upon study to a removed observer who can witness the maze in its entirety.\n\n[[>]]\n__[[[https://scp-wiki.wikidot.com/scp-6689/offset/11|Dr. Adamore,]]]__ Site-184,\nApplied Metaphysics.\n[[/>]]\n@@ @@\n[[include :scp-wiki:component:image-block\n| name=http://scpdsandbox.wdfiles.com/local--files/collab%3Adodo-maze/CircleMaze-Complex.png\n| align=center\n| width=700px\n| caption= Visual example of a maze, from the perspective of the labyrinthe-viewer.]]\n[[/div]]",
+  "tags": [
+    "fragment"
+  ],
+  "author": "DodoDevil",
+  "created_at": "2022-03-21T18:46:35+00:00",
+  "updated_at": "2023-01-28T21:09:42+00:00",
+  "rating": 0,
+  "_site": "scp-wiki",
+  "_fullname": "fragment:scp-6689-2"
+}

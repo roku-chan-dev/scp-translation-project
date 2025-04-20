@@ -1,0 +1,24 @@
+{
+  "title": "Starfish Blockade",
+  "content": "=====\n[[include component:preview\ntext=\nFive Fifthists walk into a bar and sing a sea chanty from space.\n]]\n=====\n\n\n[[include :scp-wiki:theme:bedrock]]\n[[include :scp-wiki:theme:lumina]]\n\n[[module css]]\n:root {\n    --header-title: 'The Starfish Blockade';\n    --header-subtitle:\n[[/module]]\n\n\n[[>]]\n[[module Rate]]\n[[/>]]\n[[div style=\"text-align: right; margin-right: 2em; margin-top: -20px;\"]]\nby [[[Ethagon's Author Page| Ethagon]]]\n[[/div]]\n\n\nFound written from memory after being spontaneously chanted in a bar after a fifthist gathering on November 14, 1851.\n\n@@ @@\n\n\n[[=]]\n\n[[div class=\"filebox\" data-title=\"Note: Find out who started the chant\"]]\n\n\n**[Shantyman]**\nCaptain Wand, the pirate, was troubling seas here and there\nso she kept in hiding, in a sea that was barely there\nand so it changed, a haunted place, the fear of the first drop\n\n**[All]**\nTo make the Starfish Blockade, oh the Starfish Blockade\nWand made the Starfish Blockade, oh the Starfish Blockade\n\n\n**[Shantyman]**\nAnd soon every sailor, was wallowing in despair\nEven with Wand leaving, the sea made you stand up your hair\na rumour here, of monsters there, the stories all absorbed\n\n**[All]**\nInto the Starfish Blockade, oh the Starfish Blockade\nFear caused the Starfish Blockade, oh the Starfish Blockade\n\n**[Shantyman]**\nCaptain Tis, the merchant, had many goods to prepare\ntrouble is, the sea route, more starfish than could be called fair\nno way around, the only route, all trade got ground to halt\n\n**[All]**\nBlocked at the Starfish Blockade, oh the Starfish Blockade\nNo trade through the Starfish Blockade, oh the Starfish Blockade\n\n**[Shantyman]**\nEnter Ahab, whaler, certain to end all despair\nTis had the solution, but needed a captain to fare\nletter at hand, the Pelkot crew, prepared to take the path\n\n\n**[All]**\nAcross the Starfish Blockade, oh the Starfish Blockade\nThey crossed the Starfish Blockade, oh the Starfish Blockade\n\n**[Shantyman]**\nNot all survived the journey, half lost from here to there\nFirst arrived a whaleship, brought sooner the solution pair\nA faeship here, a faeship there, name seas until they meet\n\n**[All]**\nAround the Starfish Blockade, oh the Starfish Blockade\nThey circled the Starfish Blockade, oh the Starfish Blockade\n\n**[Shantyman]**\nOld Ahab was fuming, it wasn't pointless to be fair\nThe Blockade now, once conquered, its monsters pecked down a pair\nSo always think, 'fore rumours spread, lest you might be the cause\n\n**[All]**\nOf the next Starfish Blockade, oh the Starfish Blockade\nWe all made the Starfish blockade, yes the Starfish Blockade!\n\n[[/div]]\n\n[[/=]]\n\n\n@@ @@\n\n\n[[include :scp-wiki:component:license-box]]\n[[include :scp-wiki:component:license-box-end]]",
+  "tags": [
+    "_fifthist",
+    "_licensebox",
+    "adventure",
+    "children-of-the-night",
+    "fantasy",
+    "fifthist",
+    "from-120s-archives",
+    "goi-format",
+    "homo-sapiens-sidhe",
+    "poetry",
+    "publicdomaincon2025",
+    "space-opera"
+  ],
+  "author": "Ethagon",
+  "created_at": "2025-03-08T01:22:10+00:00",
+  "updated_at": "2025-03-08T14:59:19+00:00",
+  "rating": 18,
+  "_site": "scp-wiki",
+  "_fullname": "starfish-blockade"
+}

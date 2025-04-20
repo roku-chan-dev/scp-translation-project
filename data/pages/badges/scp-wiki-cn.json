@@ -1,0 +1,14 @@
+{
+  "title": "SCP-TH 成就徽章",
+  "content": "[[=]]\n++++ 能够获得其他徽章的网站成员必须首先获得文档徽章。 \n++++ 管理员将通过在您的作者页上的信息来提供徽章。\n\n...…正在更新中，尚未全部完成。\n[[/=]]\n\n------\n\n[[=]]\n+ 徽章\n[[/=]]\n\n||~ 图片 ||~ 徽章名称 ||~ 获取方式 ||\n|| [[image http://scp-th.wdfiles.com/local--files/badges/doc-badge.png style=\"width:80px; height:80px;\"]] ..|| //文档-徽章// || 创建 YOC[[footnote]] 您的下层叙事 [[/footnote]] 及关于 YOC 的文章 ||\n|| [[image http://scp-th.wdfiles.com/local--files/badges/research-badge.png style=\"width:80px; height:80px;\"]] || //研究-徽章// || 网上至少有10篇文章已经过绿灯或更多。 ||\n|| [[image http://scp-th.wdfiles.com/local--files/badges/dna-badge.png style=\"width:80px; height:80px;\"]] || //DNA-徽章// ||  至少有1篇评分为50或以上的文章。 ||\n|| [[image http://scp-th.wdfiles.com/local--files/badges/art-badge.png style=\"width:80px; height:80px;\"]] || //艺术作品-徽章// || 在[[[scp-artwork-hub | SCP艺作中心页中拥有自己的艺术作品]]] ||\n|| [[image http://scp-th.wdfiles.com/local--files/badges/coop-badge.png style=\"width:80px; height:80px;\"]] || //合作-徽章// ||  有文章是和其他人合著，并且至少绿灯通过了1篇故事。 ||\n|| [[image http://scp-th.wdfiles.com/local--resized-images/badges/translater-badge/medium.jpg style=\"width:80px; height:80px;\"]] || //译者-徽章// || 将文章从EN（或其他语言）翻译成TH至少10篇故事或更多。 ||\n|| [[image http://scp-th.wdfiles.com/local--files/badges/int-badge.png style=\"width:80px; height:80px;\"]] || //国际-徽章// || 作为另一个分部的成员加入，并在该分部中至少发布1个关于您自己的主题的帖子。 ||\n\n[[=]]\n+ 活动徽章\n[[/=]]\n\n||~ 图片 ||~ 徽章名称 ||~ 获取方式 ||\n|| [[image http://scp-th.wdfiles.com/local--files/badges/win-horror-badge.png style=\"width:80px; height:100px;\"]] || //胜利-恐怖-徽章// || 成为恐怖基金会比赛的获胜者。 ||\n|| [[image http://scp-th.wdfiles.com/local--files/badges/horror-badge.png style=\"width:80px; height:80px;\"]] ...|| //恐怖-徽章// || 至少有5篇或更多的恐怖基金会文章。 ||\n|| [[image http://scp-th.wdfiles.com/local--resized-images/badges/win-thaistyle-badge/medium.jpg style=\"width:80px; height:100px;\"]] || //胜利-泰式风格-徽章// || 是泰式风格的SCPs比赛的获胜者吗 ||\n|| [[image http://scp-th.wdfiles.com/local--resized-images/badges/thaistyle-badge/medium.jpg style=\"width:80px; height:80px;\"]] || //泰式风格-徽章// || 至少有5篇泰式风格的SCPs文章。 ||\n\n[[=]]\n+ 特殊徽章\n[[/=]]\n\n\n||~ 图片 ||~ 徽章名称 ||~ 获取方式 ||\n|| [[image http://scp-th.wdfiles.com/local--files/badges/thaumiel-badge.png style=\"width:80px; height:80px;\"]] ...|| //thaumiel-徽章// || 至少有1篇Thaumiel级别的项目。 ||\n|| [[image http://scp-th.wdfiles.com/local--files/badges/xk-badge.png style=\"width:80px; height:80px;\"]] || //xk-徽章// || 至少有1篇与XK级世界末日相关的文章。 ||\n|| [[image http://scp-th.wdfiles.com/local--files/badges/001-badge.png style=\"width:80px; height:80px;\"]] || //001-徽章// || 至少有1篇与SCP-001相关的文章。 ||",
+  "tags": [
+    "th",
+    "艺术作品"
+  ],
+  "author": "odoubluf",
+  "created_at": "2024-04-05T10:28:01+00:00",
+  "updated_at": "2024-04-05T10:28:17+00:00",
+  "rating": 3,
+  "_site": "scp-wiki-cn",
+  "_fullname": "badges"
+}

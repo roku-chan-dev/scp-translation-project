@@ -1,0 +1,14 @@
+{
+  "title": "SCP-1004-KO",
+  "content": "[[include :scp-wiki:component:object-warning-box-source |bg-image=http://scpkosb.wikidot.com/local--files/draft:agent-s-k-23-9cea/scpko.png |bg-opacity=0.15\n|text-top=대한민국 지역사령부 이사관 특령에 의거\n|text-bottom=이하 파일의 열람은 4/1004KO 등급이나 그에 준하는 접근 권한을 가진 보안 인가 등급을 요구한다.\n**비인가 접근은 금지되어 있다.**\n|object-number=**SCP-1004-KO**\n]]\n[[include :topia:listusers-1 users=\".\"]]\n[[table style=\"margin: auto; width: 300px;\"]]\n[[row]]\n[[cell style=\"width: 35%; text-align: center;\"]]\n**아이디**\n[[/cell]]\n[[cell class=\"textboxshadow\" style=\"border: 1px solid #AAA; color: #444; width: 75%; padding: 2px 0 2px 7px;\"]]\n%%name%%\n[[/cell]]\n[[/row]]\n[[/table]]\n[[include :topia:listusers-2]]\n[[table style=\"margin: auto; width: 300px;\"]]\n[[row]]\n[[cell style=\"width: 35%; text-align: center;\"]]\n**아이디**\n[[/cell]]\n[[cell class=\"textboxshadow\" style=\"border: 1px solid #AAA; color: #444; width: 75%; padding: 2px 0 2px 7px;\"]]\nguest_user_177th\n[[/cell]]\n[[/row]]\n[[/table]]\n[[include :topia:listusers-3]]\n[[table style=\"margin: auto; width: 300px;\"]]\n[[row]]\n[[cell style=\"height: 5px;\"]]\n[[/cell]]\n[[/row]]\n[[row]]\n[[cell style=\"width: 35%; text-align: center;\"]]\n**패스워드**\n[[/cell]]\n[[cell class=\"textboxshadow\" style=\"border: 1px solid #AAA; color: #444; width: 75%; padding: 2px 0 2px 7px;\"]]\n● ● ● ● ● ● ● ●[[span class=\"blinkbar\"]]ㅣ[[/span]]\n[[/cell]]\n[[/row]]\n[[/table]]\n\n[[=]]\n[[[http://scpko.wikidot.com/SCP-1004-KO/offset/1|인증]]]\n[[/=]]",
+  "tags": [
+    "ko",
+    "조각문서"
+  ],
+  "author": null,
+  "created_at": "2022-12-10T13:51:07+00:00",
+  "updated_at": "2024-11-14T17:57:56+00:00",
+  "rating": 0,
+  "_site": "scpko",
+  "_fullname": "fragment:1000kocontest-c-bonefish-1"
+}

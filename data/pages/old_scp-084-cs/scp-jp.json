@@ -1,0 +1,20 @@
+{
+  "title": "SCP-084-CS（記録用:[KRYCÍ JMÉNO NEBYLO VYTVOŘENO]  / [コードネームが作成されていません]）",
+  "content": "[[module CSS]]\n@import url(\"https://hawkeyevole.github.io/nu-scp/normalize.min.css\");\n@import url(\"http://scp-cs-sandbox.wdfiles.com/local--files/dr-bek/kaktus.css\");\n[[/module]]\n\n[[module css]]\n.page {\n    display: block;\n    overflow: hidden;\n    font-family: \"Monotype Corsiva\", \"Bradley Hand ITC\", sans-serif;\n    font-style: normal;\n\n    background-attachment: scroll;\n    background-clip: border-box;\n    background-color: transparent;\n    background-image: linear-gradient(to top ,rgb(202, 219, 228) 0%, rgb(231, 233, 220) 8%);\n    background-origin: padding-box;\n    background-position: 0px 8px;\n    background-repeat: repeat;\n    background-size: 100% 20px;\n\n    border: 1px solid #CCC;\n    border-radius: 10px;\n    padding: 10px 10px;\n    margin-bottom: 10px;\n\n    box-shadow: 0px 1px 3px rgba(0, 0, 0, 0.2)\n    }\n.page p {\n    line-height: 20px;\n    margin: 0;\n}\n[[/module]]\n\n[[>]]\n[[module rate]]\n[[/>]]\n\n**アイテム番号**: SCP-084-CS\n\n**オブジェクトクラス**: --Euclid-- --Keter-- Neutralized\n\n**特別収容プロトコル**: SCP-084-CSは、咬合が物体を貫通できないように、常に口輪を取り付けられる必要があります。SCP-084-CSを収容するケースは、20cm x 10cm x 10cm の寸法で、透明なプラスチックでできています。SCP-084-CSのケースは、標準的なサイズで異常性のないクロゴケグモ（//Latrodectus mactans//）のものとして整備されます。\n\n**説明**: SCP-084-CSはクロゴケグモ種（//Latrodectus mactans//）の蜘蛛で、異常性を持たないものとの唯一の違いは、SCP-084-CSの背面にある特徴にあります。SCP-084-CSの背面は、標準的な赤色とは対照的に青色です。SCP-084-CSは、特定の物体／人物を噛んだ後に物体／人物と接続することができます。噛まれた物体／人物はSCP-084-CS-1として接続されます。SCP-084-CSは、SCP-084-CS-1と自由に接続を切ることができます。切断後、[データ削除済]博士は傷口の形質転換や瘢痕化によるとてつもない痛みを報告しました。4日後、[データ削除済]博士は観察のためEクラスに割り当てられました。\n\n[[div style=\"border:solid 1pSCP-084-CS #999999; background:#e6e6e6; padding:5pSCP-084-CS; margin-bottom: 10pSCP-084-CS;\"]]\n\nTO: **{{O5[データ削除済]@nadace.scp}}**\nFROM: **{{vbek@nadace.scp}}**\nDATE: **{{2019年1月29日}}**\n\n//{{O5-█}},//\n\n{{//新しく発見されたSCP-084-CSの潤滑機能蛋白（SZP）を作成しているときに、非常に心配なことが一つあった。// **「SCP-084-CSは、特定の物体／人物を噛んだ後に物体／人物と接触することができます」。** //もしこの文章が真実なら、そいつは収容室にも、さらに悪い場合には惑星全体とも接続することができるということだ。我々はそれがどのように作用するのかは知らないし、我々はそれがSCP-084-CSの自発性によるのか、それとも防御反射によるのかも知らない。我々はSCP-084-CSについて何も知らないのだ。私はSCP-084-CSのSZPを作成することはできるが、その前にどうかSCP-084-CSをEuclidではなくKeterに分類しておいてくれ。//}}\n\n-{{//最高責任技術者; ヴィーチェスラフ・ベック//}}\n\n[[/div]]\n\n**補遺SCP-084-CS A**:\n切断後、[データ削除済]博士は傷口の形質転換や瘢痕化によるとてつもない痛みを報告しました。4日後、[データ削除済]博士は観察のためEクラスに割り当てられました。\nEクラスに登録されてから9日後に状態が著しく悪化し、[データ削除済]博士には記憶処理が施されました。\n\n**補遺SCP-084-CS B**:\n[[collapsible show=\"アクセスにはセキュリティクリアランス・レベル3が必要です。\" hide=\"アクセスにはセキュリティクリアランス・レベル3が必要です。\"]]\n+ 事件SCP-084-CS 1:\n> **被験者**: D-7324; 女性\n> **目的**: SCP-084-CSに口輪を装着する\n\n> **16:49**\n> D-7324: それで、あんたは私にこの小っこい口輪を何かに取り付けて欲しいわけ？\n> 警備員1: 質問なんかしてないで、やるべきことをやれ。我々は反抗的なやつには発砲が許可されてるんだぞ！\n> D-7324: まあ…まあ、落ち着いてよ。\n> 警備員2: //*無線で* 我々がSCP-084-CS//[[footnote]]SCP-084-CSの収容室は安全のため不透明な物質で作られていた[[/footnote]]の収容室を開ける。\n> D-7324: なん…神聖ナル蜘蛛ノタメニ奴ラヲ殺セ!!! *D-7324は収容室から飛び出した後、SCP-084-CSの周囲を踏みつけ始める。*\n\n> **16:50**\n> SCP-084-CSがD-7324の靴と接続した後、D-7324は警備員の一人の手から銃をもぎ取り、SCP-084-CSを銃で撃つ。D-7324は事件後、終了された。警備員の両名は解雇された。\n\n[[/collapsible]]",
+  "tags": [
+    "cs",
+    "csコンテスト2",
+    "neutralized",
+    "scp",
+    "クモ",
+    "元記事削除",
+    "変容",
+    "生命"
+  ],
+  "author": "Shibuleni",
+  "created_at": "2019-09-25T07:32:25+00:00",
+  "updated_at": "2024-11-04T10:34:22+00:00",
+  "rating": -16,
+  "_site": "scp-jp",
+  "_fullname": "old:scp-084-cs"
+}

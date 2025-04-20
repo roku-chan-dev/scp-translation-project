@@ -1,0 +1,24 @@
+{
+  "title": "SCP-5055",
+  "content": "[[>]]\n[[module Rate]]\n[[/>]]\n\n[[module ListPages  category=\"fragment\" parent=\".\" limit=\"1\" order=\"created_at\" offset=\"@URL|0\"]]\n%%content%%\n[[/module]]\n\n[!--\nFragment list:\nhttp://scp-wiki.wikidot.com/fragment:scp-5055-1\nhttp://scp-wiki.wikidot.com/fragment:scp-5055-2\nhttp://scp-wiki.wikidot.com/fragment:scp-5055-3\nhttp://scp-wiki.wikidot.com/fragment:scp-5055-4\nhttp://scp-wiki.wikidot.com/fragment:scp-5055-5\n--]\n\n[[footnoteblock]]\n\n[[div class=\"footer-wikiwalk-nav\"]]\n[[=]]\n<< [[[SCP-5054]]] | SCP-5055 | [[[SCP-5056]]] >>\n[[/=]]\n[[/div]]\n\n[[include component:license-box]]\n=====\n[[div class=\"blockquote\"]]\n**Filenames:** a-rectangular-siculo-arabic-ivory-casket-sicily-1314th-c-1.jpg, SCP-5055-1.jpg, SCP-5055-2.jpg, SCP-5055-2-A-FINAL.jpg, SCP-5055-2-B-FINAL.jpg, SCP-5055-2-C-FINAL.jpg, SCP-5055-2-D-FINAL.jpg\n**Author:** [[*user t rutherford]]\n**License:** CC BY-SA 3.0\n**Source Link:** [/scp-5055 SCP Foundation Wiki]\n**Derivative Of:**\n----\n**Names:** A rectangular Siculo-Arabic ivory casket, Sicily, 13/14th C. 1.jpg, A rectangular Siculo-Arabic ivory casket, Sicily, 13/14th C. 3.jpg, A rectangular Siculo-Arabic ivory casket, Sicily, 13/14th C. 9.jpg\n**Author:** Jeanne Raes\n**License:** CC BY-SA 3.0\n**Source Link:** [http://rm-auctions.com/en/winter-auction-2018/13395-a-rectangular-siculo-arabic-ivory-casket-sicily-13-14th-c Rob Michiels Auctions]\n----\n**Name:** Claw Marks.png\n**Author:** TriiipleThreat\n**License:** Public Domain\n**Source Link:** [http://w.wiki/7Jg3 Wikimedia Commons]\n----\n**Name:** Glass Broken Fragmented Hole.jpg\n**Author:** Pxfuel\n**License:** Public Domain\n**Source Link:** [http://pxfuel.com/en/free-photo-ervre Pxfuel]\n----\n**Name:** Naturalis Biodiversity Center - RMNH.ART.591 - Homoeogryllus japonicus - Kawahara Keiga - 1823 - 1829 - Siebold Collection - pencil drawing - water colour.jpeg, Naturalis Biodiversity Center - RMNH.ART.594 - Tabanus sp. - Kawahara Keiga - 1823 - 1829 - Siebold Collection - pencil drawing - water colour.jpeg, Naturalis Biodiversity Center - RMNH.ART.604 - Centipede - Kawahara Keiga - 1823 - 1829 - Siebold Collection - pencil drawing - water colour.jpeg\n**Author:** Kawahara Keiga\n**License:** Public Domain\n**Source Link:** [http://w.wiki/7JgX Wiki][http://w.wiki/7JgY media] [http://w.wiki/7JgZ Commons][[/div]]\n=====\n[[include component:license-box-end]]",
+  "tags": [
+    "5000",
+    "_cc",
+    "_licensebox",
+    "_listpages",
+    "artifact",
+    "contagion",
+    "empathic",
+    "global-occult-coalition",
+    "historical",
+    "k-class-scenario",
+    "neutralized",
+    "scp"
+  ],
+  "author": "T Rutherford",
+  "created_at": "2020-01-21T00:36:23+00:00",
+  "updated_at": "2023-08-22T16:49:58+00:00",
+  "rating": 296,
+  "_site": "scp-wiki",
+  "_fullname": "scp-5055"
+}

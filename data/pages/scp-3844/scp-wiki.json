@@ -1,0 +1,20 @@
+{
+  "title": "SCP-3844",
+  "content": "[[include info:start]]\n**SCP-3448**: To Slay A Dragon\n\n> Do you believe in dragons?\n\n**Author:** [[*user Captain Kirby]]\n[[=]]\n+++++ SCPs\n[[/=]]\n[[module ListPages created_by=\"Captain Kirby\" order=\"rating desc\" separate=\"no\" tags=\"scp\" perPage=\"250\" prependLine=\"||~ SCP Number ||~ Rating ||\"]] \n|| %%title_linked%% || %%rating%% ||\n[[/module]]\n[[=]]\n+++++ Tales\n[[/=]]\n[[module ListPages created_by=\"Captain Kirby\" order=\"rating desc\" separate=\"no\" tags=\"tale\" perPage=\"250\" prependLine=\"||~ Title ||~ Rating ||\"]] \n|| %%title_linked%% || %%rating%% ||\n[[/module]]\n[[=]]\n+++++ GOI Formats\n[[/=]]\n[[module ListPages created_by=\"Captain Kirby\" order=\"rating desc\" separate=\"no\" tags=\"goi-format\" perPage=\"250\" prependLine=\"||~ Title ||~ Rating ||\"]] \n|| %%title_linked%% || %%rating%% ||\n[[/module]]\n[[include info:more]]\n++++ You may also like:\n\n**[[[SCP-1762]]]** - Where The Dragons Went [[*User OZ Ouroboros]]\n\n> SCP-1762-1 is a plain, cardboard box that is 32 cm x 20 cm x 26 cm. It is spray-painted silver on the interior and exterior, and the words \"HERE BE DRAGONS\" are handwritten in black permanent marker on the lid of the container. \n\n[[include info:end]]\n[!-- Editing this page may royally mess up the code for displaying the iterations. If you notice an error that needs to be fixed, message the author (me) or comment on the discussion page. --]\n\n[[module ListPages  category=\"fragment\" parent=\".\" limit=\"1\" order=\"created_at\" offset=\"@URL|0\"]]\n%%content%%\n[[/module]]\n\n[!-- For translators, here is a direct link to each iteration. --]\n[!-- http://www.scp-wiki.net/fragment:scp-3844-1/noredirect/true --]\n[!-- http://www.scp-wiki.net/fragment:scp-3844-2/noredirect/true --]\n[!-- http://www.scp-wiki.net/fragment:scp-3844-3/noredirect/true --]\n[!-- http://www.scp-wiki.net/fragment:scp-3844-4/noredirect/true --]\n[!-- http://www.scp-wiki.net/fragment:scp-3844-5/noredirect/true --]\n[!-- To make ListPages work correctly, make this main page first, then upload the first iteration and set its parent to the first page. Repeat that for each iteration. Remember to change the offset links at the bottom of each iteration to the the correct link for your site. --]\n\n~~~~\n\n[[footnoteblock]]\n\n[[div class=\"footer-wikiwalk-nav\"]]\n[[=]]\n<< [[[SCP-3843]]] | SCP-3844 | [[[SCP-3845]]] >>\n[[/=]]\n[[/div]]\n[[include :scp-wiki:component:license-box]]\n[[include :scp-wiki:component:license-box-end]]",
+  "tags": [
+    "_licensebox",
+    "_listpages",
+    "dragon",
+    "neutralized",
+    "reptile",
+    "reviewers-spotlight",
+    "sapient",
+    "scp"
+  ],
+  "author": "Captain Kirby",
+  "created_at": "2018-08-10T22:28:21+00:00",
+  "updated_at": "2025-03-06T21:01:07+00:00",
+  "rating": 542,
+  "_site": "scp-wiki",
+  "_fullname": "scp-3844"
+}

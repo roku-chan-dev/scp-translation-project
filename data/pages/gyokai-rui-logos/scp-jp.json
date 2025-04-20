@@ -1,0 +1,17 @@
+{
+  "title": "gyokai_ruiの財団関連ロゴ",
+  "content": "[[include credit:start]]\n**タイトル:**gyokai_ruiの財団関連ロゴ\n**著者:** ©︎[[*user gyokai_rui]]\n**作成年:** 2019\n[[include credit:end]]\n[[html]]\n<style media=\"screen\">\n@import url(http://scp-jp.wdfiles.com/local--files/japanese-syntax/scp-WikidotCss.css);\n.logos{\ndisplay: flex;\njustify-content: space-between;\nalign-items: flex-end;\nmargin: 0 auto;\npadding: 20px 0;\nborder-bottom: 1px solid #808080;\n}\n.logos .logos_img{\ntext-align: center;\n}\n.logos .logos_img:first-of-type{\nwidth: 35%;\n}\n.logos .logos_img:nth-of-type(2){\nwidth: 60%;\n}\n.logos .logos_img:first-of-type img{\nwidth: 60%;\n}\n.logos .logos_img p{\nbackground: #ccc;\npadding: 0.5em;\n}\n\n@media (max-width: 400px){\n.logos{\njustify-content: center;\nflex-direction: column;\nalign-items: center;\n}\n.logos .logos_img:first-of-type,\n.logos .logos_img:nth-of-type(2){\nwidth: 76%;\nmargin-bottom: 2em;\n}\n}\n</style>\n<script type=\"text/javascript\" src=\"http://scp-jp.wdfiles.com/local--files/japanese-syntax/scpHTMLblockCtrl_ver1_ex.js\"></script>\n<p>要注意団体、準要注意団体のロゴを作成しました。</p>\n<br>\n<div class=\"logos\">\n<div class=\"logos_img\">\n<img src=\"http://scp-jp.wdfiles.com/local--files/gyokai-rui-logos/logo_miyoko_01.png\" alt=\"販売員ミヨコ ロゴ_タテver\">\n<p><a href=\"http://ja.scp-wiki.net/groups-of-interest-jp#toc7\"  target=\"_parent\">販売員ミヨコ</a> タテver</p>\n</div>\n<div class=\"logos_img\">\n<img src=\"http://scp-jp.wdfiles.com/local--files/gyokai-rui-logos/logo_miyoko_02.png\" alt=\"販売員ミヨコ ロゴ_ヨコver\">\n<p><a href=\"http://ja.scp-wiki.net/groups-of-interest-jp#toc7\"  target=\"_parent\">販売員ミヨコ</a> ヨコver</p>\n</div>\n</div>\n\n<div class=\"logos\">\n<div class=\"logos_img\">\n<img src=\"http://scp-jp.wdfiles.com/local--files/gyokai-rui-logos/logo_arimura_01.png\" alt=\"有村組 ロゴ_タテver\">\n<p>有村組 タテver</p>\n</div>\n<div class=\"logos_img\">\n<img src=\"http://scp-jp.wdfiles.com/local--files/gyokai-rui-logos/logo_arimura_02.png\" alt=\"有村組 ロゴ_ヨコver\">\n<p>有村組 ヨコver</p>\n</div>\n</div>\n\n<div class=\"logos\">\n<div class=\"logos_img\">\n<img src=\"http://scp-jp.wdfiles.com/local--files/gyokai-rui-logos/logo_EE_01.png\" alt=\"Entertainment & Enterprise社 ロゴ_タテver\">\n<p><a href=\"http://ja.scp-wiki.net/system:page-tags/tag/e%26e#pages\" target=\"_parent\">Entertainment & Enterprise社</a> タテver</p>\n</div>\n<div class=\"logos_img\">\n<img src=\"http://scp-jp.wdfiles.com/local--files/gyokai-rui-logos/logo_EE_02.png\" alt=\"Entertainment & Enterprise社 ロゴ_ヨコver\">\n<p><a href=\"http://ja.scp-wiki.net/system:page-tags/tag/e%26e#pages\" target=\"_parent\">Entertainment & Enterprise社</a> ヨコver</p>\n</div>\n</div>\n[[/html]]",
+  "tags": [
+    "e&e",
+    "jp",
+    "アートワーク",
+    "イワナガ美容組合",
+    "有村組"
+  ],
+  "author": "gyokai_rui",
+  "created_at": "2019-05-25T12:05:58+00:00",
+  "updated_at": "2024-10-18T15:53:03+00:00",
+  "rating": 111,
+  "_site": "scp-jp",
+  "_fullname": "gyokai-rui-logos"
+}

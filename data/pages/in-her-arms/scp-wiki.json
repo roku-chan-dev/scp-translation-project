@@ -1,0 +1,21 @@
+{
+  "title": "in her arms,",
+  "content": "[[include :scp-wiki:theme:black-highlighter-theme]]\n[[include :scp-wiki:theme:penumbra-bhl]]\n\n====\n[[include component:preview\ntext=\n \"A single bullet wound to the chest. You and one other. In two hours, your mother will see you on the news. It was simply your time.\"\n]]\n=====\n\n[[module CSS]]\nbody {\n    background: rgb( 0, 0, 0);\n    background: linear-gradient(180deg, rgba(0,0,0,1) 0%, rgba(127,127,127,1) 53%, rgba(255,255,255,1) 100%);\n}\n:root {\n    --wm-bg: 0,0,0;\n    --wm-accent: 46, 60, 87;\n    --wm-border: 18, 32, 54;\n    --header-title: \"SCP FOUNDATION\";\n    --header-subtitle: \"Secure, Contain, Protect\";\n}\n[[/module]]\n\n[[=]]\n[[module Rate]]\n\nI woke up for the first time to see death herself, cradling me in her arms.\n@@ @@\n@@ @@\nMy eyes parted from her figure, skeletal yet adorned in a cloak that trails miles past her feet. Each step was silent, yet created a ripple in the ground beneath us both, as if water. She looked down as I awoken, giving a small, yet sincere smile.\n@@ @@\nAfter hours of being unable to speak, I finally managed to spit out two words: \"What happened?\"\n@@ @@\nShe exhaled a heavy sigh. She initially was quiet, but as I went to ask again, she finally spoke. Her voice was rustic, deep, and echoed from within my very being.\n@@ @@\n\"A single bullet wound to the chest. You and one other. In two hours, your mother will see you on the news. It was simply your time.\"\n@@ @@\nMy heart sank as desperation washed over me. \"I can't leave her behind! I...\" My voice trailed off, staring into the cold depths below me. I would have thrown myself out of her arms, but her grip was tight, concrete, and warm.\n@@ @@\nShe pulled me closer, a solitary tear tracing its path past her eyes and down her cheek. \"I am sorry. We are unable to do anything now. I'll send her an angel, it's the most that I can do.\"\n@@ @@\nNodding in acceptance, I whimpered, any words failing to come out of my lips. Once more, she cradled me in her arms, lifting me closer to her beating heart.\n@@ @@\n\"What now?\" I asked.\n@@ @@\nShe offered no words, but instead ran her skeletal fingers through my hair. Her voice, now silent, spoke more than anything she could say. I looked ahead of me. I looked at what was to come, what has, what will and what won't ever be. And...\n@@ @@\n@@ @@\n@@ @@\nIt was bright. It was luminous, it was blinding.\n@@ @@\nWith a sigh, I closed my eyes, surrendering myself to her embrace,\n@@ @@\n@@ @@\n@@ @@\n@@ @@\n@@ @@\n@@ @@\n@@ @@\n@@ @@\n@@ @@\n@@ @@\n@@ @@\n@@ @@\n@@ @@\n@@ @@\n@@ @@\n@@ @@\n@@ @@\n@@ @@\n@@ @@\n@@ @@\n@@ @@\n@@ @@\n@@ @@\n@@ @@\n@@ @@\n@@ @@\n@@ @@\n@@ @@\n@@ @@\n##black|as she guided me home.##\n[[/=]]\n@@ @@\n@@ @@\n@@ @@\n@@ @@\n@@ @@\n@@ @@\n[[image http://scp-sandbox-3.wikidot.com/local--files/troutmaskreplica-death/alone.png]]\n@@ @@\n@@ @@\n@@ @@\n\n[[include :scp-wiki:component:license-box]]\n> **Filename:** alone.png\n> **License:** CC BY 2.0\n\nThis image is a composite of:\n\n> **Name:** Kutsher's Room 965, Thompson, New York LCCN2017712955.tif\n> **Author:** John Margolies\n> **License:** Public domain\n> **Source:** [https://commons.wikimedia.org/wiki/File:Kutsher's_Room_965,_Thompson,_New_York_LCCN2017712955.tif Wikimedia Commons]\n[[include :scp-wiki:component:license-box-end]]",
+  "tags": [
+    "_cc",
+    "_licensebox",
+    "bleak",
+    "but-a-dream",
+    "first-person",
+    "otherworldly",
+    "religious-fiction",
+    "surrealism",
+    "tale"
+  ],
+  "author": "TroutMaskReplica",
+  "created_at": "2024-07-04T22:51:34+00:00",
+  "updated_at": "2024-10-11T19:36:22+00:00",
+  "rating": 35,
+  "_site": "scp-wiki",
+  "_fullname": "in-her-arms"
+}

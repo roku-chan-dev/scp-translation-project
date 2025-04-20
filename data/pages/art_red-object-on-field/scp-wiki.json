@@ -1,0 +1,17 @@
+{
+  "title": "Red Object On Field",
+  "content": "[[include :scp-wiki:theme:black-highlighter-theme]]\n[[include :scp-wiki:theme:greystyle dark=-]]\n[[>]]\n[[module Rate]]\n[[/>]]\n@@ @@\n[[div class=\"scp-image-block block-center\" style=\"width:80%; border: none;\"]]\n[[image https://i.imgur.com/ZqXflVp.png\nstyle=\"width:100%;\" link=\"https://scp-wiki.wikidot.com/scp-5242\"]]\n[[/div]]\n\n[[div class=\"scp-image-block block-center\" style=\"width:80%; border: none;\"]]\n[[image https://i.imgur.com/gOcz6vU.jpg\nstyle=\"width:100%;\" link=\"https://scp-wiki.wikidot.com/deadlined-hub\"]]\n[[/div]]",
+  "tags": [
+    "artwork",
+    "doctor-mcdoctorate",
+    "painted",
+    "personnel-art",
+    "scp-art"
+  ],
+  "author": "Kikunai",
+  "created_at": "2024-10-09T21:01:22+00:00",
+  "updated_at": "2024-10-10T01:06:29+00:00",
+  "rating": 39,
+  "_site": "scp-wiki",
+  "_fullname": "art:red-object-on-field"
+}

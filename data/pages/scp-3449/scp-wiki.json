@@ -1,0 +1,23 @@
+{
+  "title": "SCP-3449",
+  "content": "[[include info:start]]\n**SCP-3449**: The Things Left Unsaid\n\n> Choose your words carefully. \n\nFor those of you who cannot access the multimedia elements on the second to last and last iteration, a transcription of those pages can be found **[http://scp-wiki.wikidot.com/scp-3449/offset/5 here]**\n\n**Author:** [[*user Captain Kirby]]\n[[=]]\n+++++ SCPs\n[[/=]]\n[[module ListPages created_by=\"Captain Kirby\" order=\"rating desc\" separate=\"no\" tags=\"scp\" perPage=\"250\" prependLine=\"||~ SCP Number ||~ Rating ||\"]] \n|| %%title_linked%% || %%rating%% ||\n[[/module]]\n[[=]]\n+++++ Tales\n[[/=]]\n[[module ListPages created_by=\"Captain Kirby\" order=\"rating desc\" separate=\"no\" tags=\"tale\" perPage=\"250\" prependLine=\"||~ Title ||~ Rating ||\"]] \n|| %%title_linked%% || %%rating%% ||\n[[/module]]\n[[=]]\n+++++ GOI Formats\n[[/=]]\n[[module ListPages created_by=\"Captain Kirby\" order=\"rating desc\" separate=\"no\" tags=\"goi-format\" perPage=\"250\" prependLine=\"||~ Title ||~ Rating ||\"]] \n|| %%title_linked%% || %%rating%% ||\n[[/module]]\n[[include info:more]]\n++++ You may also like:\n\n**[[[SCP-3002]]]** - Attempts To Assasinate Thought [[*User MayD]]\n\n> {{I'm not sure if this means she's back or if these are just jumbles of her memories. Thoughts? Is there a possibility Project Lethe had additional side effects we didn't account for? I want to make sure this won't come back to hurt us. Keep an eye on this.}}\n\n**[[[SCP-3959]]]** - The End of All Knowledge by [[*User Billith]]\n\n> Any media that is currently in contact with SCP-3959 will start to automatically redact its own information over a period of time that is directly proportional to its own complexity. Most information is obscured by standard full-block Unicode, although other methods have been recorded\n\n[[include info:end]]\n\n\n[!-- Editing this page may royally mess up the code for displaying the iterations. If you notice an error that needs to be fixed, message the author (me) or comment on the discussion page. --]\n\n[[module ListPages  category=\"fragment\" parent=\".\" limit=\"1\" order=\"created_at\" offset=\"@URL|0\"]]\n%%content%%\n[[/module]]\n\n[!-- For translators, here is a direct link to each iteration. --]\n[!-- http://www.scp-wiki.net/fragment:scp-3449-1 --]\n[!-- http://www.scp-wiki.net/fragment:scp-3449-2 --]\n[!-- http://www.scp-wiki.net/fragment:scp-3449-3 --]\n[!-- http://www.scp-wiki.net/fragment:scp-3449-4 --]\n[!-- http://www.scp-wiki.net/fragment:scp-3449-5 --]\n[!-- http://www.scp-wiki.net/fragment:scp-3449-6 --]\n[!-- Also, note that the -6 fragment contains transcriptions for both the audio and the video, but it not presented as part of the original article --]\n[!-- To make ListPages work correctly, make this main page first, then upload the first iteration and set its parent to the first page. Repeat that for each iteration. Remember to change the offset links at the bottom of each iteration to the correct link for your site. --]\n\n[[footnoteblock]]\n\n~~~~\n[[div class=\"footer-wikiwalk-nav\"]]\n[[=]]\n<< [[[SCP-3448]]] | SCP-3449 | [[[SCP-3450]]] >>\n[[/=]]\n[[/div]]\n[[include component:license-box]]\n=====\n> **Filename:** Dubois2.mp4\n> **Author:** [[*user darkstuff]]\n> **License:** CC BY-SA 3.0\n> **Source Link:** [/scp-3449 SCP Foundation Wiki]\n\n> **Filename:** EoSSFinalVideoLog.MP4\n> **Author:** [[*user captain kirby]]\n> **License:** CC BY-SA 3.0\n> **Source Link:** [/scp-3449 SCP Foundation Wiki]\n\n> **Filename:** Gerdinel2.mp4\n> **Author:** [[*user captain kirby]]\n> **License:** CC BY-SA 3.0\n> **Source Link:** [/scp-3449 SCP Foundation Wiki]\n\n> **Filename:** Teller.m4a\n> **Author:** [[*user taylor_itkin]]\n> **License:** CC BY-SA 3.0\n> **Source Link:** [/scp-3449 SCP Foundation Wiki]\n=====\n[[include component:license-box-end]]",
+  "tags": [
+    "_licensebox",
+    "_listpages",
+    "audio",
+    "auditory",
+    "cognitohazard",
+    "keter",
+    "memetic",
+    "meta",
+    "mind-affecting",
+    "scp",
+    "video"
+  ],
+  "author": "Captain Kirby",
+  "created_at": "2018-04-13T18:07:06+00:00",
+  "updated_at": "2023-04-27T16:18:23+00:00",
+  "rating": 395,
+  "_site": "scp-wiki",
+  "_fullname": "scp-3449"
+}

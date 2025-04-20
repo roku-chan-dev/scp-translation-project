@@ -1,0 +1,22 @@
+{
+  "title": "SCP-5224",
+  "content": "[[=]]\n[[module Rate]]\n[[/=]]\n[[include :scp-jp:credit:start |mode=no-rate]]\n[[include :scp-jp:credit:cc4]]\n[[include :scp-jp:credit:end]]\n[[include :scp-jp:component:info-ayers\n|lang=en[!-- EN/RU/KO/CN/FR/PL/ES/TH/JP/DE/IT/UA/PTBR --]\n|page=scp-5224[!-- url of your page on the scp wiki --]\n|authorPage=http://www.scp-wiki.wikidot.com/what-lurks-below-sebarus-s-author-page[!-- link to your author page --]\n|comments=\n= **//SCP-5224: さいやくなヘカエル by [[*user Sebarus]]//**\n]]\n[[include :scp-jp:theme:black-highlighter-theme]]\n[[include :scp-wiki:component:bhl-dark-sidebar]]\n[[include :topia:cqb:flow speed=1]]\n[[module CSS]]\n}\n\n#page-content > .collapsible-block .collapsible-block-content {\n    text-align: left;\n}\n\n.addendum {\n    border:solid 2px #999999;\n    background:#F5F5F5;\n    width:84%;\n    padding:1px 15px;\n    margin: 10px auto;\n}\n[[/module]]\n\n[[include :scp-jp:component:anomaly-class-bar-source\n|item-number= 5224\n|clearance= 1\n|container-class= safe\n|secondary-class= none\n|disruption-class= dark\n|risk-class= notice\n]]\n\n------\n[[include component:image-block\nname=http://scp-jp-storage.wikidot.com/local--files/file:6085604-22-5ght/Marsh_frog_%28Pelophylax_ridibundus%29.jpg|\ncaption=SCP-5224|\nalign=right\n]]\n\n**特別収容プロトコル:** SCP-5224は両生類に適した水の無いテラリウム内に収容されます。SCP-5224を水から100メートル以内の範囲に近づけてはなりません。\n\nSCP-5224によって生成されたカエルは標準生物廃棄処理方法に従い終了、処分しなければなりません。\n\n**説明:** SCP-5224は雌のワライガエル//(Pelophylax ridibundus)//です。老化の兆候を示さず、食事、飲料、呼吸を必要としません。\n\nSCP-5224が水域から100メートル以内で鳴き声を発すると富栄養化[[footnote]]明白な量のミネラル及び栄養素によって引き起こされる、水中での藻類の過度な増殖プロセス。[[/footnote]]が発生し始め、水中から//Anura//[[footnote]] カエル。 [[/footnote]]の集団が出現を開始します。上述のカエルは必ずその地域に生息するものであり、毎秒1立方メートルあたり5000匹の速度で生成されます。これはSCP-5224の鳴き声が止むまで継続します。\n\n出現後、生成されたカエルは即座に最も近い植物農園に向かいます。到着するとその地域の生態学的バランスに深く影響を与える速度で昆虫の捕食を開始します。この行動と生産メソッドを除き、生成されたカエルは異常性を持ちません。\n\n------\n\n[[=]]\n[[collapsible show=\"▶ 補遺 5224.1 ◀\" hide=\"▼ Close ▼\"]]\n[[<]]\n**インシデント記録5224.1:** 21/01/29、SCP-5224の収容チャンバー内で陶製の壺を保有したハヤブサが出現しました。対象は壺を落とし、SCP-5224を捕らえ消失しました。\n\n調査の結果、壺の彫刻に象形文字で書かれた文章が含まれていることが判明しました。\n> 私の妻が問題を引き起こしてしまったことをお詫び申し上げます。息子に妻を迎えに行かせました。妻はバビロンの時代に、多産と作物の代わりに異常発生に関連づけられるようになって以来、少々混乱しているのです。\n> \n> 貴方方が我々の分野の変更をお止めくだされば幸甚に存じます。\n> \n> クヌムより、愛を込めて。\nSCP-5224の所在についての調査が進行中です。\n[[/<]]\n[[/collapsible]]\n[[/=]]\n[[footnoteblock]]\n------",
+  "tags": [
+    "en",
+    "safe",
+    "scp",
+    "両生類",
+    "動物",
+    "水中",
+    "生命",
+    "生物災害",
+    "自己複製",
+    "音波"
+  ],
+  "author": "Voila",
+  "created_at": "2021-02-11T12:45:04+00:00",
+  "updated_at": "2024-06-14T15:39:44+00:00",
+  "rating": 14,
+  "_site": "scp-jp",
+  "_fullname": "scp-5224"
+}

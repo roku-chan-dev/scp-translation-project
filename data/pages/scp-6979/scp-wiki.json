@@ -1,0 +1,27 @@
+{
+  "title": "SCP-6979",
+  "content": "[[>]]\n[[module Rate]]\n[[/>]]\n\n[[module ListPages  category=\"fragment\" parent=\".\" limit=\"1\" order=\"created_at\" offset=\"@URL|0\"]]\n%%content%%\n[[/module]]\n\n[!-- https://scp-wiki.wikidot.com/fragment:scp-6979-1 --]\n[!-- https://scp-wiki.wikidot.com/fragment:scp-6979-2 --]\n\n[[div class=\"footer-wikiwalk-nav\"]]\n[[=]]\n<< [[[SCP-6978]]] | SCP-6979 | [[[SCP-6980]]] >>\n[[/=]]\n[[/div]]\n[[include :scp-wiki:component:license-box]]\n=====\n> **Filename:** Kuchisake onna attack\n> **Author:** [[*user Maxyfran73]]\n> **License:** CC BY-SA 4.0\n> **Source:** created using the image below\n\n> **Filename:** Narrow street at night in Naples, Italy (approx. GPS location) (PPL1-Corrected) julesvernex2.jpg\n> **Author:** Jules Verne Times Two\n> **License:** CC BY-SA 4.0\n> **Source:** [https://commons.wikimedia.org/wiki/File:Narrow_street_at_night_in_Naples,_Italy_(approx._GPS_location)_(PPL1-Corrected)_julesvernex2.jpg Wikimedia Commons]\n-----\n> **Filename:** Shungyosai_Tayu-no-kao.jpg\n> **Author:** Hayami Shungyōsai (速水春暁斎)\n> **License:** Public Domain\n> **Source:** [https://commons.wikimedia.org/wiki/File:Shungyosai_Tayu-no-kao.jpg Wikimedia Commons]\n-----\n> **Filename:** mamonokai\n> **Author:** [[*user Maxyfran73]]\n> **License:** CC BY-SA 3.0\n> **Source:** created using the image below\n\n> **Filename:** Shiota-tsu,_Saga,_Japan.JPG\n> **Author:** Mixtures\n> **License:** CC BY 3.0\n> **Source:** [https://commons.wikimedia.org/wiki/File:Shiota-tsu,_Saga,_Japan.JPG Wikimedia Commons]\n-----\n> **Filename:** 田中八幡宮_-_panoramio.jpg\n> **Author:** tertrerouge\n> **License:** CC BY-SA 3.0\n> **Source:** [https://commons.wikimedia.org/wiki/File:%E7%94%B0%E4%B8%AD%E5%85%AB%E5%B9%A1%E5%AE%AE_-_panoramio.jpg Wikimedia Commons]\n=====\n[[include :scp-wiki:component:license-box-end]]",
+  "tags": [
+    "_cc",
+    "_licensebox",
+    "_listpages",
+    "euclid",
+    "extradimensional",
+    "folklore-dept",
+    "historical",
+    "hostile",
+    "humanoid",
+    "ijamea",
+    "location",
+    "reviewers-spotlight",
+    "sapient",
+    "scp",
+    "teleportation"
+  ],
+  "author": "Maxyfran73",
+  "created_at": "2021-10-02T03:12:02+00:00",
+  "updated_at": "2023-12-06T01:09:49+00:00",
+  "rating": 114,
+  "_site": "scp-wiki",
+  "_fullname": "scp-6979"
+}

@@ -1,0 +1,14 @@
+{
+  "title": "新しいフォーラムスレッド",
+  "content": "[[module ForumNewThread]]\n[[html]]\n<style>\n@import url(http://scp-jp.wdfiles.com/local--files/japanese-syntax/scp-WikidotCss.css);\n</style>\n<script type=\"text/javascript\">\nvar targetCategory = \"981309\";\n\n\nvar PresentCategory = (function(){var ary = document.referrer.split(\"/\");\nreturn ary[ary.length-1].trim();\n})();\n\nfunction showAttention(){\nif(targetCategory != PresentCategory){\nreturn;\n}\ndocument.getElementById(\"attention\").style.display = \"block\";\n}\n\nfunction GoToLink(url){\nwindow.open(url);\n//window.parent.location.href = url;\n}\nwindow.onload = showAttention;\n</script>\n<div id=\"attention\" style=\"display:none;\">\n<span style=\"color: #901; line-height: 2em; font-size: 200%;\">質問する前に</span><br />\n「初めての方へ」は読みましたか？まだの方は一読してスレッドを建てる時の注意点を確認してください。<br />\n<span style=\"font-size:150%;\">⇒<span class=\"fake-link\" onclick=\"GoToLink('http://ja.scp-wiki.net/forum/t-1017518/')\">初めての方へ</span></span><br />\n<br />\nまた、下記のページにあなたの質問の答えがないか探してみましょう。<br />\n<span class=\"fake-link\" style=\"font-size:120%;\" onclick=\"GoToLink('http://ja.scp-wiki.net/frequently-asked-questions');\">よくある質問とその回答</span><br />\n<br />\nもしかしたら過去にあなたと同じ疑問を持った人が既に質問をしているかも知れません。<br />\n投稿する前にフォーラムを検索してみましょう。<br />\nまた下記のページもご参照ください。\n<blockquote>\n<span class=\"fake-link\" onclick=\"GoToLink('http://ja.scp-wiki.net/faq');\">FAQ</span><br />\n<span class=\"fake-link\" onclick=\"GoToLink('http://ja.scp-wiki.net/contribute');\">寄稿する方法</span><br />\n<span class=\"fake-link\" onclick=\"GoToLink('http://ja.scp-wiki.net/guide-hub');\">ガイドハブ</span>\n</blockauote>\n</div>\n\n[[/html]]\n[!-- please do not alter this page if you want to keep your forum working --]",
+  "tags": [
+    "jp",
+    "フォーラム"
+  ],
+  "author": "Dr Devan",
+  "created_at": "2013-07-08T11:09:45+00:00",
+  "updated_at": "2021-01-14T03:04:24+00:00",
+  "rating": 4,
+  "_site": "scp-jp",
+  "_fullname": "forum:new-thread"
+}

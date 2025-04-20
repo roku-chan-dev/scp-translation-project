@@ -1,0 +1,21 @@
+{
+  "title": "SCP-8401",
+  "content": "[[include theme:basalt hidetitle=a]]\n[[include theme:turbo-vision blocks=-]]\n=====\n[[include component:preview\ntext=\n적어도 홀로 죽게 두지는 않아요. \n]]\n=====\n[[module css]]\n:root {\n  --logo: url(https://scp-wiki.wdfiles.com/local--files/secure-facility-dossier-site-58/58logo.png);\n  --title: \"제58기지:\";\n  --subtitle: \"우리 사이의 간격을 잇다\";\n}\n.email-example .collapsible-block-folded a.collapsible-block-link {\n    animation: blink 0.8s ease-in-out infinite alternate;\n}\n@keyframes blink {\n    0% { color: transparent; }\n    50%, 100% { color: #b01; }\n}\n.email {border: solid 2px #000000; width: 88%; padding: 1px 15px; margin: 10px; box-shadow: 0 1px 3px rgba(0,0,0,.5)}\n.email-example a.collapsible-block-link {font-weight: bold;}\n.tofrom {margin-left: 10px; margin-top: 5px; padding: 1px 15px; border-left: solid 3px maroon}\n[[/module]]\n\n[[include info:start]]\n**SCP-8401:** 이렇게 하면 아파요?\n**원작:** https://scp-wiki.wikidot.com/scp-8401\n**저자:** [[*user OriTieFling]] & [[*user Queerious]]\n**역자:** [[*user Langston77]]\n\n> **파일명:** Axolotl.png\n> **저작권자:** LaDameBucolique\n> **라이선스:** Public Domain\n> **출처:** https://upload.wikimedia.org/wikipedia/commons/thumb/5/5c/Axolotl-2193331_1280.webp/640px-Axolotl-2193331_1280.webp.png\n> **메모:** 아홀로틀 :)\n[[include info:end]]\n\n[[include component:anomaly-class-bar-source\n\n|item-number= SCP-8401\n|clearance= 2\n|container-class= 케테르\n|secondary-class=\n|secondary-icon=\n|disruption-class= 플람\n|risk-class= 주목\n]]\n\n------\n\n[[include component:image-block\nname=https://scp-wiki.wikidot.com/local--files/scp-8401/Axolotl.png|\ncaption= 격리된 SCP-8401. \n]]\n\n**특수 격리 절차:** SCP-8401은 제58기지의 표준형 소형 동물 수족관에 격리한다. 방수 처리된 소형 GPS 추적기가 있는 마이크로칩을 SCP-8401에 심어 넣었다. SCP-8401이 30분 넘게 수조에 없으면 추적 데이터를 참조하여 SCP-8401을 가능한 한 빨리 회수한다. \n\n**설명:** SCP-8401은 평균적인 몸집과 무게의 //Ambystoma mexicanum//(아홀로틀)이다. 말할 수 있고 지성을 가진 것으로 보이지만, 그 어떤 질문이나 대화 시도에도 명확하게 반응하지 않았다. \n\nSCP-8401은 장거리 순간이동도 가능하다. SCP-8401은 누군가 다쳤음을 감지하면 그에게로 순간이동한다. SCP-8401이 누구에게로 순간이동할지 결정하는 데 따르는 어떤 기준이 있는지는 분명하지 않다. 다음은 격리되기 전에 나타난 사례에 대한 간략한 기록이다. \n\n||~ 날짜 ||~ 사망자 수 ||~ 비고 ||\n|| 24/08/30 || 27 || 제17기지에 혼돈의 반란이 습격한 후 발견됨. 사망자가 입은 부상은 총상에서 심각한 두부 외상에 이르기까지 다양했음. 대상은 발견되자 사라짐. ||\n|| 24/09/04 || 54 || 제34기지의 대규모 격리 파기 사태 이후 발견됨. 대상은 사망한 요원의 속이 드러난 가슴 안으로 들어가고 포획되기 전에 사라짐. ||\n|| 24/11/18 || 0 || 제58기지에서 로즈메리 박사가 책상에 발가락을 부딪힌 후 발견됨. 로즈메리 박사가 잡으려고 하자 대상은 사무실 문 밖으로 달아나고 사라짐. ||\n\n**부록 8401.1:** 발견\n\nSCP-8401은 제19기지의 소규모 격리 파기 사태로 사망한 드루 메이웨더 요원의 시신 위에서 최초로 발견되었다. 처음에는 대상이 요원이 사망한 실질적인 원인으로 여겨져 매우 조심스럽게 다루어졌다. 후술할 메이웨더 요원의 바디캠 기록에 따라 격리 절차가 완화되었다. \n\n[[div class=\"blockquote\"]]\n\n**서론:** 무관한 장면 삭제됨. \n\n**<기록 시작>**\n\n//메이웨더 요원이 근처의 벽으로 기어가 그 벽에 몸을 기댄다. 자신의 배에 손을 대고 숨을 헐떡인다. 손을 떼자 몸통에 커다란 상처가 드러난다.//\n\n**메이웨더:** 아, 씨발… 끝난 건가? \n\n//메이웨더가 숨을 크게 내쉬고 뒤로 물러난다.//\n\n**메이웨더:** 이렇게 되리라 예상해야 했었는데. 난 그냥… \n\n//메이웨더가 주위를 둘러본다. 숨을 크게 내쉰다.//\n\n**메이웨더:** …홀로 죽고 싶지는 않아. \n\n//SCP-8401이 공중에서 나타나 가볍게 툭 하는 소리와 함께 그의 무릎 위에 내려앉는다. 메이웨더 요원이 움츠러든다.//\n\n**SCP-8401:** 안뇽! \n\n**메이웨더:** 뭐, 뭐야, 도대체? \n\n**SCP-8401:** 세상에나, 아저씨, 무척 안 좋아 보이세요! \n\n**메이웨더:** 뭐? \n\n**SCP-8401:** 거기 심하게 아이쿠 하셨나 봐요! 세상에 마상에, 엄청 아프시겠다! \n\n**메이웨더:** 그, 그래. 그게…\n\n//메이웨더가 더듬거리며 말하다가 피 섞인 기침을 하고, 피가 SCP-8401의 얼굴에 묻는다.//\n\n**SCP-8401:** 이야! 색종이 조각이다! \n\n//메이웨더가 몸을 떤다.//\n\n**SCP-8401:** 알려 주세요, 조금 우파-아파요, 아니면 애매하게 우파-아파요? \n\n//메이웨더가 쓰러지고 반응이 없다.//\n\n**SCP-8401:** 아저씨? \n\n**<기록 종료>**\n\n[[/div]]",
+  "tags": [
+    "en",
+    "scp",
+    "공저",
+    "동물",
+    "생물",
+    "순간이동",
+    "양서류",
+    "케테르",
+    "희미해져-가는-별들"
+  ],
+  "author": "Langston77",
+  "created_at": "2024-10-05T13:22:37+00:00",
+  "updated_at": "2025-02-22T14:00:26+00:00",
+  "rating": 11,
+  "_site": "scpko",
+  "_fullname": "scp-8401"
+}

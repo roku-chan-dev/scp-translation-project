@@ -1,0 +1,18 @@
+{
+  "title": "SCP-6564",
+  "content": "[[include :scp-wiki-cn:theme:black-highlighter-theme]]\n[[include :scp-wiki:component:toggle-sidebar-bhl]]\n[[include :scp-wiki-cn:theme:present-malice]]\n\n[[include :scp-wiki-cn:component:anomaly-class-bar-source\n\n|lang= cn\n\n|item-number= 6564\n\n|clearance= 3\n\n|container-class= euclid\n\n|secondary-class= none\n\n|disruption-class= vlam\n\n|risk-class= 待观察\n\n]]\n\n**特殊收容措施：**SCP-6564应被收容于Site-228人形生物收容翼区的一间标准人形生物收容间中。为促进与SCP-6564的互动，收容间中应配备与其年龄相适应的玩具、书籍与娱乐材料。被指派参与游戏的D级人员应当接受心理评估，以确保其适合与SCP-6564接触。游戏期间，严禁人员对SCP-6564使用任何形式的暴力，或是试图伤害SCP-6564。\n\n**描述：**SCP-6564是一具有生命的骷髅，身高约60厘米，死因不明。其生前应为一名女婴，当前未知其身份。实体携带着一把小型木剑与一面木盾。SCP-6564表现出了友好而热爱嬉戏的性格，并尤其喜欢和被指派参与游戏的D级人员进行互动。此类游戏时间被认定为收容SCP-6564与保持其情绪健康的重要组成部分。\n\n在游戏期间，SCP-6564会使用它的木剑与木盾，与D级人员进行模拟战斗。其展示出了对基本剑术的掌握，并会在不造成任何伤害的前提下进行嬉戏式的战斗。SCP-6564似乎很享受此类互动，在玩耍期间时常咯咯发笑。\n\n**事故记录：**2021年1月3日，在一次例行游戏中，D-9554意外地击落了SCP-6564的武器，导致SCP-6564变形为一具更大的骷髅，此时其高约2.5米。SCP-6564的木制装备也变形成为金属制剑盾。与此同时，一群有生命的小型骷髅在收容间中显现，围绕SCP-6564与D-9554形成一个圆圈，并开始吟唱拉丁语歌曲。\n\nSCP-6564与D-9554发生了战斗。在此期间，SCP-6564使用了新武器，并展现出了较先前更为强烈的攻击性。在安保警卫成功干预之前，D-9554已经失去了行动能力。\n\n在击败D-9554之后，SCP-6564恢复了原本的形态，其他骷髅也消失了。D-9554受了重伤，但是幸存了下来。\n\n事故发生后，在D-9554的病床边发现了一张小纸片，上面以粗糙的手写笔迹写有以下内容：\n\n[[div style=\"float: center; border: solid 3px #444444; width: 85%; padding: 1px 15px; margin: auto; margin-top: 10px; box-shadow: 0 1px 3px rgba(0,0,0,.2);\"]]\n尽管那只是第一轮，但也祝贺你战胜了我。我希望你能回来，再和我进行第二轮的战斗。如果你觉得我的第二形态太难了，那你真该看看我的第三形态，你会弄脏自己的橙色连体衣。\n\n早日康复，9554号橙色骑士！\n[[/div]]\n\n\n[[footnoteblock]]\n\n[[div class=\"footer-wikiwalk-nav\"]]\n[[=]]\n<< [[[SCP-6563]]] | SCP-6564 | [[[SCP-6565]]] >>\n[[/=]]\n[[/div]]",
+  "tags": [
+    "euclid",
+    "scp",
+    "人形生物",
+    "复活",
+    "智能",
+    "骨骼"
+  ],
+  "author": "LeeBr",
+  "created_at": "2023-06-21T17:56:27+00:00",
+  "updated_at": "2023-06-22T10:40:02+00:00",
+  "rating": 6,
+  "_site": "scp-wiki-cn",
+  "_fullname": "scp-6564"
+}

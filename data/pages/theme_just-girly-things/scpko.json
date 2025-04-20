@@ -1,0 +1,14 @@
+{
+  "title": "소녀소녀한 테마",
+  "content": "[[module CSS]]\n@import url('https://scpko.wdfiles.com/local--code/theme%3Ajust-girly-things/1');\n[[/module]]\n\n[[include :scp-wiki:component:interwiki-style\n| priority=1\n| theme=https://scp-wiki.wdfiles.com/local--code/theme%3Ajust-girly-things/1\n]]\n\n[[iftags +테마]]\n[[>]]\n**평가 모듈:**\n[[module Rate]]\n[[/>]]\n\n[[>]]\n**정보형 평가 모듈:**\n[[/>]]\n\n[[include info:start]]\nInfo about your page.\n[[include info:end]]\n\n요주의 단체 [[[just-girly-things-hub|Just Girly Things!]]] 테마입니다. 이 테마를 사용하기 위해서는 다음 코드를 작품에 붙여넣기만 하면 됩니다.\n\n> @@[[include theme:just-girly-things]]@@\n\n[[include component:image-block name=https://scp-wiki.wdfiles.com/local--files/theme:just-girly-things/JGTLOGONEW.png|caption=화상 표시.|width=100px]]\n\n+ 제목\n\n[# 방문하지 않은 링크] ([[[theme:just-girly-things|방문한 적 있는 링크]]])\n\n\n||~ header ||~ header ||~ header ||~ header ||~ header ||\n|| cell-content || cell-content || cell-content || cell-content || cell-content ||\n\n[[tabview]]\n[[tab 탭 1]]\n탭.\n[[/tab]]\n[[tab 탭 2]]\n탭.\n[[/tab]]\n[[/tabview]]\n[[/iftags]]\n\n[[div [[iftags -테마]]style=\"display: none\"[[/iftags]]]]\n[[module CSS show=\"true\"]]\n@import url('https://scp-wiki.wdfiles.com/local--code/theme%3Ajust-girly-things/1');\n@import url('https://fonts.googleapis.com/css2?family=Lobster&display=swap');\n@font-face { font-family: 'Binggrae-Bold'; src: url('https://cdn.jsdelivr.net/gh/projectnoonnu/noonfonts_one@1.0/Binggrae-Bold.woff') format('woff'); font-weight: normal; font-style: normal; } \n@font-face { font-family: 'Binggrae'; src: url('https://cdn.jsdelivr.net/gh/projectnoonnu/noonfonts_one@1.0/Binggrae.woff') format('woff'); font-weight: normal; font-style: normal; } \n\n/* ---------------------------------\nJust Girly Things Redux\n2020 Wikidot Theme\nCreated by stormbreath, aesthetic consultation from DianaBerry\nHeader Image: https://pixabay.com/illustrations/tablecloth-greeting-solemnly-1628237/\nLogo Image by CalibriBold\n--------------------------------- */\n\n#header h1 a::before {\n    content: \"Just Girly Things!\";\n    font-family: 'Lobster', 'Binggrae-Bold', cursive;\n}\n\n#header h2 span::before {\n    content: \"소녀들에 의한, 소녀들을 위한\";\n    font-family: 'Lobster', 'Binggrae-Bold',  cursive;\n}\n[[/module]]\n[[/div]]",
+  "tags": [
+    "en",
+    "테마"
+  ],
+  "author": "Salamander724",
+  "created_at": "2020-09-29T16:22:43+00:00",
+  "updated_at": "2023-11-13T11:13:49+00:00",
+  "rating": 2,
+  "_site": "scpko",
+  "_fullname": "theme:just-girly-things"
+}

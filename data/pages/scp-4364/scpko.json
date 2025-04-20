@@ -1,0 +1,22 @@
+{
+  "title": "SCP-4364",
+  "content": "[[include info:start]]\n**SCP-4364:** 케이크를 먹게 하세요\n**원작:** http://www.scp-wiki.net/scp-4364\n**저자:** taylor_itkin\n**역자:** [[*user fluxman]]\n[[include info:end]]\n\n**일련번호:** SCP-4364\n\n**등급:** 유클리드\n\n**특수 격리 절차:** SCP-4364는 표준 인간형 개체 격리실에 있는 의료용 침대에 두어야 한다. 일일 필요한 영양소는 정맥 주사로 투여한다. SCP-4364가 요구하는 음식은 그게 무엇이든, 언제나 즉시 공급하여야 한다.\n\nSCP-4364가 사망하면 시체를 완전히 부검하고, SCP-4364 내부에 탐사팀을 보낸다.\n\n**설명:** SCP-4364는 서아프리카 출신 28세 남성으로, 이름은 벤자민 포스터,,Benjamin Foster,,다. SCP-4364의 키는 1.8 미터고, 체중은 34.5 킬로그램이며, 갈비뼈가 보일 정도로 상접한 피골, 극히 낮은 근육량, 낮은 에너지량 등 심각한 기아와 영양실조 증세가 보인다. SCP-4364의 식욕은 그 본인이 묘사한 바로 \"채울 수가 없으며\", 깨어 있는 시간 대부분 동안 자기가 먹을 수 있다고 생각하는 모든 것을 먹는다. SCP-4364는 일반적으로 인간 건강에 해로운 것을 먹어도 안 좋은 영향을 입지 않았다.\n\nSCP-4364는 거의 항상 영양분을 공급받지만 격리된 이후 계속 체중이 감소했다. SCP-4364의 위장의 내용물을 찾아내기 위해 구토를 유발해본 결과 음식이나 부분적으로 소화된 물질이 없었고 다량의 담즙과 혈액만 있었다.\n\nSCP-4364의 몸에는 수많은 문신이 있으며, 그 중 제일 눈에 띄는 것은 위장 바로 윗부분에 있는 잉크로 된 움직이는 형체다. SCP-4364가 음식을 먹으면 이 형체의 복부가 팽창하여 크기가 커지고 만족감을 표현한다. 형체는 SCP-4364의 몸 크기까지 한계 없이 커질 수 있으며, 자주 SCP-4364 몸의 다른 문신에 겹치며 문신들을 덮었다. SCP-4364의 몸에 있는 다른 문신으로는 비율을 나타낸다고 추정되는 여러 개의 숫자가 있다. 이 비율들은 23:20, 15:27, 6:19-20이다. SCP-4364의 오른쪽 팔뚝에는 자고 있는 판다 문신이 있다.\n\n[[html]]\n<head>\n<link href=\"https://fonts.googleapis.com/css2?family=Nanum+Gothic&display=swap\" rel=\"stylesheet\">\n<style>\nbody {\ncolor: rgb(51, 51, 51);\nfont-family: verdana, 'Nanum Gothic', helvetica, sans-serif;\nfont-size: 12.8px;\nline-height: 20.48px;\n}\n</style>\n</head>\n<body>\n<div><strong>부록 4364/1:</strong> 2018년 1월 ██일, SCP-4364의 위장을 보기 위해 수술을 집도하였다. SCP-4364는 위장이 없는 대신 몸 내부에서만 보이고 깊이를 알 수 없는 구멍이 있다는 게 발견되었다. 구멍으로 작은 깊이 추적기를 떨어트렸다. 작성 시점 현재, 추적기는 <span id=\"count\">2347</span> 미터 떨어졌다. SCP-4364의 위장 문신을 뚫고 수술했을 때 생긴 흉터 조직은 보이지 않는다.</div>\n<script type=\"text/javascript\">\nvar x = 2347;\nsetInterval(function() {\n    x += 32;\n    document.getElementById(\"count\").innerHTML = x;\n}, 1000);\n</script>\n</body>\n[[/html]]",
+  "tags": [
+    "en",
+    "scp",
+    "공간",
+    "메타",
+    "생물학",
+    "예술",
+    "유클리드",
+    "인간형",
+    "종교",
+    "지성"
+  ],
+  "author": "fluxman",
+  "created_at": "2020-07-10T11:25:37+00:00",
+  "updated_at": "2024-11-20T11:29:44+00:00",
+  "rating": 7,
+  "_site": "scpko",
+  "_fullname": "scp-4364"
+}

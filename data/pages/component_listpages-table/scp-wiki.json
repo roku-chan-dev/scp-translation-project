@@ -1,0 +1,13 @@
+{
+  "title": "component:listpages-table",
+  "content": "[[table style=\"width: 100%;\"]][[row style=\"font-weight: bold; color: #fff;\"]][[cell style=\"padding: 0 2px; width: 50%;\"]][[/cell]][[cell style=\"padding: 0 2px; width: 25%; text-align: center;\"]][[/cell]][[cell style=\"padding: 0 2px; text-align: center;\"]][[/cell]][[/row]]",
+  "tags": [
+    "component"
+  ],
+  "author": "LurkD",
+  "created_at": "2014-08-27T18:36:45+00:00",
+  "updated_at": "2021-03-07T06:33:56+00:00",
+  "rating": 9,
+  "_site": "scp-wiki",
+  "_fullname": "component:listpages-table"
+}

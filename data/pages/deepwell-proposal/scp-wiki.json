@@ -1,0 +1,22 @@
+{
+  "title": "Deepwell Proposal",
+  "content": "=====\n[[include :scp-wiki:component:preview\ntext=\nMan, that's one deep well.\n]]\n=====\n\n[[include :scp-wiki:theme:foxtrot\ndark=a|\nhidetitle=a]]\n\n[[module CSS]]\n:root {\n  --header-title: \"SITE-17 DEEPWELL\";\n  --logo-img: url(https://scp-wiki.wdfiles.com/local--files/placeholder-mcd-s-authorpage/s17_purp.png);\n\n  --head-font: var(--ui-font);\n\n  --accent: 153, 119, 238;\n\n  --page-font-size: 0.89rem;\n}\n\n@media (max-width: 768px) {\n  :root {\n    --header-title: \"DEEPWELL\" !important;\n  }\n}\n\nbody {\n  background: #080016 !important;\n}\n\n[[/module]]\n\n[[div style=\"height: 10px\"]]\n[[/div]]\n\n[[include :scp-wiki:component:info-ayers\n|lang=en\n|page=deepwell-proposal\n|authorPage=https://scp-wiki.wikidot.com/misterfrown\n|comments=\n\n= **Deepwell Proposal** - Site-17 Deep Well\n\n]]\n\n[[=]]\n[[module Rate]]\n[[/=]]\n\n[[div style=\"height: 20px\"]]\n[[/div]]\n\n[[include :scp-wiki:component:image-block\nname=https://upload.wikimedia.org/wikipedia/commons/thumb/b/bd/Old_well_in_Pagarusha.jpg/1200px-Old_well_in_Pagarusha.jpg?20180914151157|\ncaption=SCP-001-J.|\nwidth=280px|]]\n\n**ITEM #:** SCP-001-J\n\n**OBJECT CLASS:** Keter\n\n**SPECIAL CONTAINMENT PROCEDURES:** A sign with a label has been erected in front of SCP-001-J. Further procedures are currently pending Overseer Council deliberation (//See Addendum 001-J.1//).\n\n**DESCRIPTION:** SCP-001-J is the Site-17 deep well, a structure that was used to collect groundwater prior to Site-17’s construction. As it was not constructed by the Foundation, motivation to maintain it was minimal, leading to it becoming dilapidated and overgrown. Whether SCP-001-J’s anomalous properties are a result of this negligence or the anger of a higher power remains unclear.\n\nAs SCP-001-J is significantly deep, but simultaneously guised due to overgrown plants surrounding it, personnel are known to often fall into it. Due to how deep it is, subjects who have fallen into SCP-001-J can no longer be seen and are presumed lost. It has been posited that the well may be bottomless, as all exploration attempts have led to the agents involved falling victim to SCP-001-J.\n\nThe well is known to vocalize following the entrapment of a victim, mimicking their voice and asking for assistance. This voice will periodically become more desperate and weaker until its total collapse three days after the victim has fallen. This is believed to be a method by SCP-001-J to lure further subjects into its maw to be devoured, leaving researchers to speculate that it may be carnivorous.\n\nFurther research into SCP-001-J’s anomalous properties has ceased due to the loss of all Foundation personnel.\n\n**ADDENDUM 001-J.1:** Overseer Council Deliberation\n\nAfter being the last to fall victim to SCP-001-J, the Overseer Council held a final meeting within the confines of the well.\n\n[[div class=\"blockquote\"]]\n\n= **<<Begin Log>>**\n\n**O5-1:** I can’t believe that this is how the Foundation ends. After everything we’ve been through and all of the threats we’ve stopped, this is our undoing? Stuck at the bottom of this fucking deep well?\n\n**O5-7:** I mean, you do know what they say, right, One?\n\n**O5-1:** What?\n\n**O5-7:** All’s well that ends well, amirite?\n\n//All Overseers turn to stare at O5-7, eyes narrowed.//\n\n= **<<End Log>>**\n\n[[/div]]\n\nFollowing the meeting, O5-7 became the final member of D-Class personnel to be lost to SCP-001-J.\n\n[[div style=\"height: 10px\"]]\n[[/div]]\n\n[[include :scp-wiki:component:license-box]]\n\n> **Name:** File:Old well in Pagarusha.jpg\n> **Author:** Vetoni13\n> **License:** CC BY-SA 4.0\n> **Source Link:** https://commons.wikimedia.org/wiki/File:Old_well_in_Pagarusha.jpg\n\n[[include :scp-wiki:component:license-box-end]]\n\n[[div style=\"height: 10px\"]]\n[[/div]]",
+  "tags": [
+    "001-proposal",
+    "_cc",
+    "_licensebox",
+    "deepwell-catalog",
+    "joke",
+    "keter",
+    "mimetic",
+    "predatory",
+    "scp",
+    "structure"
+  ],
+  "author": "MisterFrown",
+  "created_at": "2024-04-05T18:42:41+00:00",
+  "updated_at": "2024-06-14T01:55:40+00:00",
+  "rating": 101,
+  "_site": "scp-wiki",
+  "_fullname": "deepwell-proposal"
+}

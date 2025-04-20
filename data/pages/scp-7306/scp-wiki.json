@@ -1,0 +1,24 @@
+{
+  "title": "SCP-7306",
+  "content": "[[include :scp-wiki:theme:black-highlighter-theme]]\n\n[[include :scp-wiki:component:bhl-style-collapse-source\n|scp-number=7306]]\n\n[[include :scp-wiki:component:bhl-dark-sidebar]]\n[[include :scp-wiki:component:collapsible-sidebar]]\n\n[[module ListPages  category=\"fragment\" parent=\".\" limit=\"1\" order=\"created_at\" offset=\"@URL|0\"]]\n%%content%%\n[[/module]]\n\n[!-- https://scp-wiki.wikidot.com/fragment:noregretsec08-0 --]\n[!-- https://scp-wiki.wikidot.com/fragment:noregretsec08-1 --]\n[!-- https://scp-wiki.wikidot.com/fragment:noregretsec08-2 --]",
+  "tags": [
+    "_cc",
+    "_licensebox",
+    "_listpages",
+    "document",
+    "esoteric-class",
+    "ethics-committee",
+    "humanoid",
+    "mind-affecting",
+    "photographic",
+    "sapient",
+    "scp",
+    "temporal"
+  ],
+  "author": "PeanutTheComrade",
+  "created_at": "2023-10-22T20:37:05+00:00",
+  "updated_at": "2023-12-07T20:14:28+00:00",
+  "rating": 19,
+  "_site": "scp-wiki",
+  "_fullname": "scp-7306"
+}

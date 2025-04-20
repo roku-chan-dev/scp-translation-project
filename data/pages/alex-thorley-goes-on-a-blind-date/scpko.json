@@ -1,0 +1,20 @@
+{
+  "title": "알렉스 톨리가 소개팅에 나가다",
+  "content": "[[include :scpko:theme:black-highlighter-theme]]\n[[include :scp-wiki:theme:minimalist-bhl]]\n\n[[module CSS]]\n:root {\n     --header-title: \"비현실부\";\n     --header-subtitle: \"비현실을 ㅤㅤㅤㅤ로 만들기\";\n     --lgurl: url('http://scp-wiki.wikidot.com/local--files/unreality-hub/Unreality%20Header%20Logo.svg');\n}\n[[/module]]\n\n[[include :scpko:component:ratio-bar base=-- |ex=--]]\n[[>]]\n[[include :scpko:info:start]]\n**알렉스 톨리가 소개팅에 나가다**\nIronShears 제작\n\n**알렉스 톨리가 소개팅에 나가다**\n**저자:** [[*user IronShears ]]\n**원작:** https://scp-wiki.wikidot.com/alex-thorley-goes-on-a-blind-date\n**역자:** [[*user Aiken Drum]]\n[[include component:ratio-bar pie=--]]\n[[include :scpko:info:end]]\n[[/>]]\n\n[[HTML]]\n<iframe src=\"https://AikenDrumSCPKO.github.io/\" style=\"width: 100%; aspect-ratio: 1/1;\"></iframe>\n\n[[/HTML]]\n\n\n\n[[include :scp-wiki:component:license-box]]\n=====\n> **Filename:** 559853__migfus20__mysterious-piano-music-loop.mp3\n> **Name:** Relaxing Mysterious Piano Loop\n> **Author:** Migfus20\n> **License:** CC BY 4.0\n> **Source Link:** [https://freesound.org/people/Migfus20/sounds/559853/ Freesound]\n\n> **Filename:** 559850__migfus20__jazz-background-music-loop.mp3\n> **Name:** Jazz Background Music Loop\n> **Author:** Migfus20\n> **License:** CC BY 4.0\n> **Source Link:** [https://freesound.org/people/Migfus20/sounds/559850/ Freesound]\n\n> **Filename:** 564001__migfus20__jazz-background-music-loop.mp3\n> **Name:** Jazz Background Music Loop\n> **Author:** Migfus20\n> **License:** CC BY 4.0\n> **Source Link:** [https://freesound.org/people/Migfus20/sounds/564001/ Freesound]\n\n> **Filename:** ATypewriterForMe.ttf\n> **Name:** A Typewriter for Me\n> **Author:** Zachary Lucier\n> **License:** 강원교육서체는 누구나 무료로 다운로드 받아 자유롭게 사용 가능합니다.(출처 표기 권장), 영상매체, 인쇄매체, 웹, 모바일 CI, BI, 판매용 저작물 등 다양한 매체에 자유롭게 사용이 가능하며, 특별한 허가절차 없이 사용할 수 있습니다. 다만, 강원교육 서체를 유료로 양도하거나 판매하는 등 상업적 행위는 금지하고 있습니다.\n> **Source Link:** [https://www.dafont.com/atypewriterforme.font DaFont]\n\n> **Filename:** GangwonEdu_OTF.ttf\n> **Name:** GangwonEduAll-OTF\n> **Author:** Gangwon State Office Of Education\n> **License:** Public Domain\n> **Source Link:** [https://www.gwe.go.kr/mbshome/mbs/kr/subview.do?id=kr_070902000000 강원교육청]\n\n> **Name:** Source Code\n> **Author:** [[*user IronShears]]\n> **License:** CC-BY-SA 3.0\n> **Source Link:** [https://github.com/IronShears/AlexThorleyGoesOnABlindDate GitHub]\n\n=====\n[[include :scp-wiki:component:license-box-end]]",
+  "tags": [
+    "en",
+    "무제-연작",
+    "비현실부",
+    "상호작용식",
+    "알렉스-톨리",
+    "이야기",
+    "작품교환",
+    "특집"
+  ],
+  "author": "Aiken Drum",
+  "created_at": "2023-08-31T12:23:33+00:00",
+  "updated_at": "2024-06-29T16:43:55+00:00",
+  "rating": 16,
+  "_site": "scpko",
+  "_fullname": "alex-thorley-goes-on-a-blind-date"
+}

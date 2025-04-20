@@ -1,0 +1,22 @@
+{
+  "title": "SCP-5987",
+  "content": "[[>]]\n[[module Rate]]\n[[/>]]\n\n[[module ListPages  category=\"fragment\" parent=\".\" limit=\"1\" order=\"created_at\" offset=\"@URL|0\"]]\n%%content%%\n[[/module]]\n\n[!-- http://www.scp-wiki.net/fragment:scp-5987-1 --]\n[!-- http://www.scp-wiki.net/fragment:scp-5987-2 --]\n[!-- http://www.scp-wiki.net/fragment:scp-5987-3 --]\n@@ @@\n@@ @@\n@@ @@\n[[footnoteblock]]\n\n[[div class=\"footer-wikiwalk-nav\"]]\n[[=]]\n<< [[[SCP-5986]]] | SCP-5987 | [[[SCP-5988]]] >>\n[[/=]]\n[[/div]]\n\n[[include :scp-wiki:component:license-box]]\n=====\n> **Filename:** sirenhead\n> **Author:** [[*user Cerastes]], Jon Parise\n> **License:** CC BY-SA 2.0\n> **Derivative of:** [[[https://www.flickr.com/photos/jparise/183076703|Flickr]]]\n=====\n[[include :scp-wiki:component:license-box-end]]",
+  "tags": [
+    "_cc",
+    "_licensebox",
+    "_listpages",
+    "asci",
+    "euclid",
+    "historical",
+    "scp",
+    "sculpture",
+    "telekinetic",
+    "vehicle"
+  ],
+  "author": "Cerastes",
+  "created_at": "2020-05-10T20:11:13+00:00",
+  "updated_at": "2025-04-14T23:01:01+00:00",
+  "rating": 273,
+  "_site": "scp-wiki",
+  "_fullname": "scp-5987"
+}

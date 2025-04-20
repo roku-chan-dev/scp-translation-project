@@ -1,0 +1,13 @@
+{
+  "title": "fragment:scp-5045b",
+  "content": "[[module css]]\n@import url('https://fonts.googleapis.com/css?family=Caveat&display=swap');\n@import url('https://fonts.googleapis.com/css?family=Didact+Gothic&display=swap');\n\n\ndiv#container-wrap {\n     background: url(http://smlt.wdfiles.com/local--files/jacrld%3A5k-2/light_bg2.png) top left repeat-x;\n}\n\n#side-bar .side-block {\n    background: #000000;\n}\n\n#side-bar div.side-block:nth-child(7) > div:nth-child(1) > div:nth-child(1) img {\n    filter: none;\n    -webkit-filter: none;\n}\n\n#side-bar .scpnet-interwiki-wrapper {\n    width: 0em;\n}\n\nbody {\n    background-color: #000000;\n    font-family: 'Didact Gothic', monospace;\n    color: #000000;\n}\n\n#page-title {\n  text-align: center;\n}\n\n#header h1 span {\n    color: transparent;\n    text-shadow: none;\n}\n \n#header h1 span::before {\n     content: '农夫的农场';\n     color: #32CD32;\n     text-shadow: 1px 1px 1px rgba(0,0,0,.8);\n}\n\n#header {background-image: url()}\n#header h2 span {\n    color: transparent;\n    text-shadow: none;\n}\n \n#header h2 span::before {\n     content: '我不是在请求';\n     color: #FF00FF;\n     text-shadow: 1px 1px 1px rgba(0,0,0,.8);\n}\n[[/module]]\n\n@@ @@\n> **研究员Ivan Hovnyuk：**（羊叫声）\n@@ @@\n\n@@ @@\n\n@@ @@\n\n> **农夫：**我觉得我们再无瓜葛了，朋友。\n\n@@ @@\n\n@@ @@\n\n@@ @@\n@@ @@\n\n\n@@ @@\n\n@@ @@\n\n@@ @@\n\n@@ @@\n\n@@ @@\n\n@@ @@\n\n@@ @@\n\n@@ @@\n@@ @@\n\n\n@@ @@\n\n@@ @@\n\n@@ @@\n\n@@ @@\n\n@@ @@\n\n@@ @@\n\n@@ @@\n\n@@ @@\n@@ @@\n\n\n@@ @@\n\n@@ @@\n\n@@ @@\n\n@@ @@\n\n@@ @@\n\n@@ @@\n\n@@ @@\n\n@@ @@\n\n@@ @@\n@@ @@\n\n\n@@ @@\n\n@@ @@\n\n@@ @@\n\n@@ @@\n\n@@ @@\n\n@@ @@\n\n@@ @@\n\n@@ @@\n@@ @@\n\n\n@@ @@\n\n@@ @@\n\n@@ @@\n\n@@ @@\n\n@@ @@\n\n@@ @@\n\n@@ @@\n\n@@ @@\n@@ @@\n\n\n@@ @@\n\n@@ @@\n\n@@ @@\n\n@@ @@\n\n@@ @@\n\n@@ @@\n\n> **农夫：**哦？这是什么……\n@@ @@\n\n@@ @@\n\n@@ @@\n\n@@ @@\n\n@@ @@\n\n@@ @@\n\n@@ @@\n\n\n@@ @@\n\n@@ @@\n\n@@ @@\n\n@@ @@\n\n@@ @@\n\n@@ @@\n\n@@ @@\n@@ @@\n\n@@ @@\n\n@@ @@\n\n@@ @@\n\n@@ @@\n\n@@ @@\n\n@@ @@\n\n@@ @@\n\n@@ @@\n\n@@ @@\n\n@@ @@\n\n@@ @@\n\n@@ @@\n\n@@ @@\n\n@@ @@\n\n@@ @@\n\n@@ @@\n\n@@ @@\n\n@@ @@\n\n@@ @@\n\n@@ @@\n@@ @@\n\n@@ @@\n\n@@ @@\n\n@@ @@\n\n@@ @@\n\n@@ @@\n\n@@ @@\n\n@@ @@\n\n@@ @@\n\n@@ @@\n\n@@ @@\n\n@@ @@\n\n@@ @@\n\n@@ @@\n\n\n@@ @@\n\n[[image https://scp-wiki.wdfiles.com/local--files/scp-5045/uhoh.png link=\"https://scp-wiki.wdfiles.com/local--files/scp-5045/theend.png\"]]",
+  "tags": [
+    "段落"
+  ],
+  "author": "joke3579",
+  "created_at": "2020-05-20T03:59:41+00:00",
+  "updated_at": "2023-04-14T23:51:21+00:00",
+  "rating": 0,
+  "_site": "scp-wiki-cn",
+  "_fullname": "fragment:scp-5045b"
+}

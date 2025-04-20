@@ -1,0 +1,14 @@
+{
+  "title": "도롱뇽 샌드박스",
+  "content": "[[module CSS show=\"true\"]]\n@import url('http://scpko.wdfiles.com/local--files/component%3Atheme/font-bauhaus.css');\n@font-face {\n    font-family: 'SEBANG_Gothic_Bold';\n    src: url('https://cdn.jsdelivr.net/gh/projectnoonnu/noonfonts_2104@1.0/SEBANG_Gothic_Bold.woff') format('woff');\n    font-weight: normal;\n    font-style: normal;\n}\n\n#header h1 a {\n     display: block;\n     margin: 0;\n     padding: 80px 0 25px;\n     line-height: 0px;\n     max-height: 0px;\n     color: #eee;\n     background: transparent;\n     font-family: BauhausLTDemi, 'SEBANG_Gothic_Bold', Arial, sans-serif;\n     font-size: 180%;\n     text-decoration: none;\n     text-shadow: 3px 3px 5px #000;\n     letter-spacing: 0.9px;\n}\n\ndiv#header h1 a:before {\n    content: \"Bauhaus\";\n}\n[[/module]]\n\n[[module ListPages created_by=\"Salamander724\" separate=\"no\" tags=\"+scp, -이야기, +ko\" order=\"title\" prependLine=\"||~ 일련번호 ||~ 추천 ||~ 덧글 ||~ 작성일 ||~ 태그 ||\"]]\n|| %%title_linked%% || %%rating%% || %%comments%% || %%created_at%% || %%tags_linked%% ||\n[[/module]]\n\n[[module ListPages created_by=\"Salamander724\" separate=\"no\" tags=\"이야기, +ko\" order=\"title\" prependLine=\"||~ 일련번호 ||~ 추천 ||~ 덧글 ||~ 작성일 ||~ 태그 ||\"]]\n|| %%title_linked%% || %%rating%% || %%comments%% || %%created_at%% || %%tags_linked%% ||\n[[/module]]",
+  "tags": [
+    "ko",
+    "샌드박스"
+  ],
+  "author": "Salamander724",
+  "created_at": "2015-04-27T16:44:18+00:00",
+  "updated_at": "2021-07-30T11:57:18+00:00",
+  "rating": 2,
+  "_site": "scpko",
+  "_fullname": "salamander724-sandbox"
+}

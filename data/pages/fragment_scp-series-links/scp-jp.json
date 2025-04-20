@@ -1,0 +1,14 @@
+{
+  "title": "Scp Series Links",
+  "content": "[[# content]]\n+ コンテンツアーカイブ\n*  [[[foundation-introduction-hub|]]] - 機動部隊、内部部門等に関する資料です。\n*  [[[joke-scps|]]] - 素晴らしいジョークのために、全てのルールを放棄したSCPです。\n*  [[[archived-scps|]]] - 追加資料としての用途目的で、あるいはスタッフ権限によってアーカイブ化された記事です。\n*  [[[scp-ex|]]] - すでに超常現象、あるいは異常であるとみなされなくなったSCPです。  \n* [[[audio-adaptations|]]] - サイト内の様々な記事を音声読み上げした作品へのリンク集です。\n[[div_ style=\"display: {$tale-link};\"]]\n[[module ListPages separate=\"no\" range=\".\"]]\n* **[[[%%name%%-tales-edition|]]]** - 当シリーズのSCPにまつわるTale集です。\n[[/module]]\n[[/div]]",
+  "tags": [
+    "en",
+    "フラグメント"
+  ],
+  "author": "izumi_sngw",
+  "created_at": "2021-12-04T15:02:09+00:00",
+  "updated_at": "2021-12-05T02:29:57+00:00",
+  "rating": 2,
+  "_site": "scp-jp",
+  "_fullname": "fragment:scp-series-links"
+}

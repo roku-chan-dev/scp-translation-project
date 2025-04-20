@@ -1,0 +1,15 @@
+{
+  "title": "めーる てんぷ がぞう by dado",
+  "content": "[[include :scp-jp:component:info-ayers\n|lang=jp[!-- EN/RU/KO/CN/FR/PL/ES/TH/JP/DE/IT/UA/PTBR --]\n|page=image-in-mail-by-dado[!-- url of your page on the scp wiki --]\n|authorPage=http://www.scp-wiki.wikidot.com/machen2[!-- link to your author page --]\n|comments=\n= **image in mail by dado / めーる てんぷ がぞう by dado**\n \n-----\n \nまたまたdadoの短編を書きました。全体のアイデアは[[*user Doctor Cimmerian]]さんから授かりました、同氏には深く感謝を述べます。[/dr-cimmerian-s-personnel-file こちら]からぜひ彼の作品をチェックしてください。[[*user AnAnomalousWriter]]さん、[[*user HarryBlank]]さん、[[*user Impperatrix]]さん、[[*user Tstaffor]]さん、いつもありがたい批評をありがとうございます！\n\n-----\n \n= **画像帰属**\n-----\n画像は[[*user Tanhony]]さん著作のSCP-5000から拝借したlookcloser.pngを改変したものであり、CC BY-SA 3.0のもとにあります。\n]]\n[[module CSS]]\nsup {\nvertical-align: top; position: relative; top: -0.5em;\n}\n:root{\n--cutColour: #fafafa;\n--barColour: #282828;\n}\n.translation_block{\ndisplay:none;}\n\n.info-container .collapsible-block-folded a{\ncolor: #FFF;}\n.info-container .collapsible-block-unfolded-link a{\ncolor: #FFF;}\n\n.info-container .collapsible-block-link,\n.info-container:hover .collapsible-block-link {\nline-height: 1.6em;\n}\n[[/module]]\n[[include :scp-jp:theme:black-highlighter-theme]]\n[[include :scp-wiki:component:rso]]\n[[include :scp-jp:component:bhl-dark-sidebar]]\n[[>]]\n[[module Rate]]\n[[/>]]\n[[div class=\"blockquote\"]]\n**差出人:** [[[dado-hub|meisdado@dadomail.com]]]\n**宛先:** [[[SCP-6790|vrequet@scp.net]]]\n------\n[[=]]\n[[image http://scp-jp-storage.wikidot.com/local--files/file:3324351-35-s7hm/dadoislookcloser.png width=\"95px\"]]\n[[/=]]\nあなた すてきな dado ちゃうだーの かいもの です。\n[[/div]]\n@@@@\n[[div class=\"blockquote\"]]\n**差出人:** vrequet@scp.net\n**宛先:** meisdado@dadomail.com\n------\nえっ？\n[[/div]]\n[[div class=\"blockquote\"]]\n**差出人:** vrequet@scp.net\n**宛先:** meisdado@dadomail.com\n------\n誰？\n[[/div]]\n[[div class=\"blockquote\"]]\n**差出人:** meisdado@dadomail.com\n**宛先:** vrequet@scp.net\n------\nはい、 あなた dadoに はなす されてる。 たいふーん ごめん、 おおもじ きぃ こわれた。\n[[=]]\n[[image http://scp-jp-storage.wikidot.com/local--files/file:3324351-35-s7hm/dadoislookcloser.png width=\"95px\"]]\n[[/=]]\nあなた すてきな dado ちゃうだーの かいもの です。\n[[/div]]\n[[div class=\"blockquote\"]]\n**差出人:** vrequet@scp.net\n**宛先:** meisdado@dadomail.com\n------\n……あなたのIPアドレス、割れた卵って。\n何が目的？ その画像を送ってくる理由は何？\n[[/div]]\n[[div class=\"blockquote\"]]\n**差出人:** meisdado@dadomail.com\n**宛先:** vrequet@scp.net\n------\ndado あなたを ぶらっくめーる している、ちがう？ はい dado いんたーねっとでも とても すてきな おきゃくさまから それ まなんだ、 それ はたらき ない？\n[[/div]]\n[[=]]\n[[size 130%]]**あなたは{{vrequet@scp.net}}からブロックされています**[[/size]]\n\n[[/=]]",
+  "tags": [
+    "dado",
+    "en",
+    "tale"
+  ],
+  "author": "walksoldi",
+  "created_at": "2021-10-25T09:25:00+00:00",
+  "updated_at": "2023-02-05T00:48:54+00:00",
+  "rating": 13,
+  "_site": "scp-jp",
+  "_fullname": "image-in-mail-by-dado"
+}

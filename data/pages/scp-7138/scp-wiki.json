@@ -1,0 +1,21 @@
+{
+  "title": "SCP-7138",
+  "content": "[[module CSS]]\n.email-example .collapsible-block-folded a.collapsible-block-link {\n    animation: blink 0.8s ease-in-out infinite alternate;\n}\n@keyframes blink {\n    0% { color: transparent; }\n    50%, 100% { color: #b01; }\n}\n.email {border: solid 2px #000000; width: 88%; padding: 1px 15px; margin: 10px; box-shadow: 0 1px 3px rgba(0,0,0,.5)}\n.email-example a.collapsible-block-link {font-weight: bold;}\n.tofrom {margin-left: 10px; margin-top: 5px; padding: 1px 15px; border-left: solid 3px maroon}\n[[/module]]\n\n[[include :scp-wiki:info:start]]\n**SCP-7138:** TITLE\n**Author:** [[*user Matthgeek]]\nMany thanks to the entire Discord Crit Team and everyone who stuck with my floundering idea and draft, especially [[*user Coccolithophor]] and [[*user scalykitty]]\n[[include :scp-wiki:info:end]]\n\n[[module ListPages category=\"fragment\" parent=\".\" order=\"created_at\" limit=\"1\" offset=\"@URL|0\"]]\n%%content%%\n[[/module]]\n\n[[div class=\"footer-wikiwalk-nav\"]]\n[[=]]\n<< [[[SCP-7137]]] | SCP-7138 | [[[SCP-7139]]] >>\n[[/=]]\n[[/div]]",
+  "tags": [
+    "_listpages",
+    "apollyon",
+    "are-we-cool-yet",
+    "artistic",
+    "cognitohazard",
+    "compulsion",
+    "infohazard",
+    "scp",
+    "visual"
+  ],
+  "author": "Matthgeek",
+  "created_at": "2023-04-13T20:04:27+00:00",
+  "updated_at": "2023-10-24T20:43:08+00:00",
+  "rating": 16,
+  "_site": "scp-wiki",
+  "_fullname": "scp-7138"
+}

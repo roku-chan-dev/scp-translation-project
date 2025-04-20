@@ -1,0 +1,16 @@
+{
+  "title": "便签",
+  "content": "[[module css]]\n\n.page {\n\n    display: block;\n\n    overflow: hidden;\n\n    font-family: \"Monotype Corsiva\", \"Bradley Hand ITC\", sans-serif;\n\n    font-style: normal;\n\n    background-attachment: scroll;\n\n    background-clip: border-box;\n\n    background-color: transparent;\n\n    background-image: linear-gradient(to top ,rgb(202, 219, 228) 0%, rgb(231, 233, 220) 8%);\n\n    background-origin: padding-box;\n\n    background-position: 0px 8px;\n\n    background-repeat: repeat;\n\n    background-size: 100% 20px;\n\n    border: 1px solid #CCC;\n\n    border-radius: 10px;\n\n    padding: 10px 10px;\n\n    margin-bottom: 10px;\n\n    box-shadow: 0px 1px 3px rgba(0, 0, 0, 0.2)\n\n    }\n\n.page p {\n\n    line-height: 20px;\n\n    margin: 0;\n\n}\n\n[[/module]]\n\n[[>]]\n[[module rate]]\n[[/>]]\n\n[[div class=\"page\"]]\n\n第**0**天\n它的手柔软粘滑\n它在此//便签//上写下一行字\n它将此//便签//放入//书//的扉页中\n\n@@ @@\n\n第**4,473**天\n他翻开书\n他的手多毛且粗糙\n他没有发现此//便签//\n他持续翻阅了**43**秒\n他没有发现身后的野兽\n他被野兽杀死\n他的血溅落在书页上\n\n@@ @@\n\n第**28,704**天\n他翻开书\n他的手很光滑\n他发现了此//便签//\n他持续翻阅了**189**秒\n他的四周传来呼喊声\n他被一支箭射中\n他的血没有溅在书页上\n\n@@ @@\n\n第**142,353**天\n\n他翻开书\n他戴着皮革制成的手套\n他没有发现此//便签//\n他持续翻阅了**374**秒\n他脚下的地板开始塌陷\n他被埋在泥土中\n他的血没有溅在书页上\n\n@@ @@\n\n第**142,369**天\n他翻开书\n他戴着金属制成的护手\n他没有发现此//便签//\n他持续翻阅了**74**秒\n他所处建筑的外墙开始崩塌\n他的头部被石砖击中\n他的血溅在书页上\n\n@@ @@\n\n第**994,966**天\n他翻开书\n他戴着有细小金属环组成的护手\n他持续翻阅了**1,035**秒\n他没有发现此//便签//\n他听见了物体坠落的声音\n他被炸成了碎片\n他的血没有溅在书页上\n\n@@ @@\n\n第**2,193,650**天\n他翻开书\n他持续翻阅了**1,268**秒\n他戴着化合物制成的手套\n他没有发现此//便签//\n他的周围传来了交通工具急停的声音\n他被尖锐的金属粒击中头部\n他的血溅在书页上\n\n@@ @@\n\n第**2,193,652天**\n他的手细腻光滑\n他发现了此//便签//\n他读出了第**0**天它在//便签//上写下的文字：**借阅记录**\n\n[[html]]\n<head>\n<style>\n*{font-family: verdana, arial, helvetica, sans-serif; font-size: 12.8px; color: #333; line-height: 141%;}\n</style>\n<script type=\"text/javascript\">\nvar counter = 0\nvar timer;\nfunction countUP () {\n counter = counter + 1;//increment the counter by 1\n document.getElementById(\"timer_container\").innerHTML = counter;\n }\n</script>\n</head>\n<body onload='timer=setInterval(\"countUP()\", 1000 );'>\n他持续翻阅了<b><span id=\"timer_container\">0</span></b>秒\n</body>\n[[/html]]\n他面前的书架开始松动......\n\n[[/div]]",
+  "tags": [
+    "wanderers",
+    "原创",
+    "苍树与血",
+    "记载"
+  ],
+  "author": "Lillian Griffin",
+  "created_at": "2018-11-21T12:56:34+00:00",
+  "updated_at": "2018-11-22T00:38:04+00:00",
+  "rating": 48,
+  "_site": "scp-wiki-cn",
+  "_fullname": "wanderers:its-note-page"
+}

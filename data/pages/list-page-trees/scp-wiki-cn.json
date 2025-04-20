@@ -1,0 +1,14 @@
+{
+  "title": "页面树列表",
+  "content": "本页列出了SCP维基[[footnote]]**译注：**指[https://scp-wiki.wikidot.com/ 英文主站]。中文维基的页面情况可能有所不同。[[/footnote]]上若干最大的“页面树”。这些是由子页面和它们的父页面组成的链接网络，它们倾向于追溯少数几个特定的页面。此页面主要为工作人员的组织及对比目的所用，但若有需要，也可为普通用户提供导航。\n\n这也是我在2023年[[[coldpostcon|]]]的参赛条目。对，真的。\n\n++ 树：[[[canon-hub|]]]\n\n[[collapsible]]\n[[module PageTree root=\"canon-hub\"]]\n\n[[module PageTree root=\"third-law-hub\" showRoot=\"true\"]]\n[[/collapsible]]\n\n++ 树：[[[groups-of-interest|]]]\n\n[[collapsible]]\n[[module PageTree root=\"groups-of-interest\"]]\n\n[[module PageTree root=\"goc-hub-page\" showRoot=\"true\"]]\n[[/collapsible]]\n\n++ 树：[[[series-archive|]]]\n\n[[collapsible]]\n[[module PageTree root=\"series-archive\"]]\n[[/collapsible]]\n\n++ 树：[[[contest-archive|]]]\n\n[[collapsible]]\n[[module PageTree root=\"contest-archive\"]]\n[[/collapsible]]\n\n++ 树：[[[guide-hub|]]]\n\n[[collapsible]]\n[[module PageTree root=\"guide-hub\"]]\n[[/collapsible]]\n\n++ 树：[[[scp-international|]]]\n\n[[collapsible]]\n[[module PageTree root=\"scp-international\"]]\n[[/collapsible]]\n\n++ 树：[[[secure-facilities-locations|]]]\n\n[[collapsible]]\n[[module PageTree root=\"secure-facilities-locations\"]]\n[[/collapsible]]\n\n++ 树：[[[scp-001|]]]\n\n[[collapsible]]\n[[module PageTree root=\"scp-001\"]]\n[[/collapsible]]\n\n++ 树：[[[scp-ex|]]]\n\n[[collapsible]]\n[[module PageTree root=\"scp-ex\"]]\n[[/collapsible]]\n\n++ 树：[[[acidverse|]]]\n\n[[collapsible]]\n[[module PageTree root=\"acidverse\"]]\n[[/collapsible]]\n\n@@ @@\n[[footnoteblock]]\n[[include :scp-wiki-cn:component:license-box\n|author=stormbreath\n]]\n[!-- N/A（无图像） --]\n[[include :scp-wiki-cn:component:license-box-end]]",
+  "tags": [
+    "冷帖竞赛",
+    "管理"
+  ],
+  "author": "Esperanza_Cai",
+  "created_at": "2023-01-08T14:06:51+00:00",
+  "updated_at": "2023-07-04T13:51:14+00:00",
+  "rating": 1,
+  "_site": "scp-wiki-cn",
+  "_fullname": "list-page-trees"
+}

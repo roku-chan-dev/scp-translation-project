@@ -1,0 +1,20 @@
+{
+  "title": "MDI-6726",
+  "content": "[[include component:preview\ntext=\nLike a worse version of the vomit comet.\n]]\n\n[[include :scp-wiki:component:scp-pride]]\n[[>]]\n[[module Rate]]\n[[/>]]\n\n@@ @@\n[[include component:image-block name=graph.png|caption=//Fig. 1: Notable symptoms of MDI-6726.//|width=300px]]\n\n**Medical Division Identifier:** MDI-6726\n\n**Common Descriptor:** Memetic Kill Agent Exposure\n\n**Symptoms:** Blindness, Extreme Nausea, Vertigo, Migraines, Seizure, Hyperventilation\n\n**Treatment Priority:** Blue\n\n**Lethality:** 5 (Non-Lethal)\n\n**Infection Risk:** None\n\n**Hazards:** Biological\n\n**Treatment:** Secure patient in an isolation cell and inform them a cure is being administered. Administer Class A amnestic tabs and observe for 24 hours. Report patient's employee number to Site Director's office. \n\n**Information:** MDI-6726 is a series of memetic glyphs, which, when visually observed by a human subject, induce severe nausea, vertigo, hallucinations, panic, and temporary blindness. \n\nSymptoms brought on by exposure to MDI-6726 are temporary, and were designed to cause major distress in order to facilitate the identification of employees attempting to access classified documents. Due to the induced state of desperation, subjects become highly cooperative with Medical personnel and are unable to resist amnesticization. \n\nThe glyphs take the form of Langford Category-J Hypercomplex Imagery, in which the fractallic and anomalously patterned images force the brain into generating harmful mental stimuli, in this case resulting in feelings of sickness. Subjects affected by MDI-6726 will typically attempt to seek immediate medical attention, or in 3.54% of cases, attempt to 'wait out' the effects.\n\nThe harmless nature of MDI-6726 is unknown to Foundation personnel outside of the Medical and Memetics departments, which created the anomaly. It is currently used to protect classified documents such as SCP-001 from unauthorized access.\n@@ @@\n@@ @@\n@@ @@\n@@ @@\n@@ @@\n@@ @@\n@@ @@\n[[include component:wikimodule |normal= --]]]\n[[div class=\"footer-wikiwalk-nav\"]]\n[[=]]\n<< [[[SCP-6725]]] | MDI-6726 | [[[SCP-6727]]] >>\n[[/=]]\n[[/div]]\n[[include :scp-wiki:component:license-box\n|author=Uncle Nicolini]]\n=====\n\n> **Filename:** graph.png\n> **Name:** Symptoms of nicotine poisoning.png\n> **Author:** Mikael Häggström\n> **License:** CC BY SA 1.0\n> **Source Link:** https://commons.wikimedia.org/wiki/File:Symptoms_of_nicotine_poisoning.png\n\n\n=====\n\n\n\n\n[[include :scp-wiki:component:license-box-end]]",
+  "tags": [
+    "_cc",
+    "_licensebox",
+    "esoteric-class",
+    "foundation-made",
+    "memetic",
+    "mind-affecting",
+    "scp",
+    "visual"
+  ],
+  "author": "Uncle Nicolini",
+  "created_at": "2021-07-02T02:00:31+00:00",
+  "updated_at": "2025-02-04T22:27:01+00:00",
+  "rating": 152,
+  "_site": "scp-wiki",
+  "_fullname": "scp-6726"
+}

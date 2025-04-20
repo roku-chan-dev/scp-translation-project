@@ -1,0 +1,14 @@
+{
+  "title": "DJK",
+  "content": "[[include :scp-wiki:theme:black-highlighter-theme]]\n\n[[div style=\"display: none\"]]\n[[include :scpko:component:acs-animation]]\n[[include :scpko:component:customizable-acs\n|accent-one= 15, 15, 15\n|accent-two= 15, 15, 15\n|class-number-color= 245, 245, 245\n|inc-color-accent = --]]]\n[[include :scpko:theme:penumbra-bhl]]\n[[/div]]\n\n[[module css]]\n@import url(https://scp-wiki.wdfiles.com/local--code/component%3Adjk/1);\n[[/module]]\n[[include :scp-wiki:component:interwiki-style\n| priority=4\n| theme=https://scp-wiki.wdfiles.com/local--code/component%3Adjk/1\n]]\n\n[[module css]]\n@import url(https://scp-wiki.wdfiles.com/local--code/component%3Adjk/1);\n[[/module]]\n\n[[iftags +구성요소]]\n[[>]]\n[[module Rate]]\n[[/>]]\n[[include :scpko:info:start]]\n**DJK**\n**제작:** [[*user djkaktus]]\n**번역:** [[*user thd-glasses]]\n[[include :scpko:info:end]]\n[[=]]\n어느 위키든 이것만 붙여넣으세요.\n[[/=]]\n> {{@@[[include :scpko:component:djk]]@@}}\n\n[[div class=\"blockquote\"]]\n다들 반가워요, dj서닌장입니다. 이것은 제가 작품에 적용하는 표준 양식을 수정할 때마다 140개가 넘는 문서를 지치지 않고 수정해왔던 [[*user Elenee Fishtruck]]의 수고를 덜어주고자 만든 개인용 컴포넌트입니다. 이제 이 문서 하나만 수정하면 다 고쳐지겠죠.\n\n여기엔 다음 사항들이 포함됩니다.\n\n1) (워데나즈의 축복이 서린) 블랙 하이라이터를 적용합니다.\n2) 블랙 하이라이터를 BHL 페넘브라 테마로 조정합니다.(에스텔라에게 함성을 보내주세요)\n3) BHL 페넘브라에 제 취향의 복고풍 색상 변경을 잔뜩 끼얹습니다.\n4) 페넘브라 수정에 맞춰서 ACS도 커스터마이징합니다.\n5) 페이드인, 접는 사이드바, ACS 애니메이션 컴포넌트를 추가합니다.\n6) 그리고 제 변덕에 따라 뭐든 언제든 수정될 겁니다.\n\n저는 항상 제 작품 전반에 잘 어울리는 테마 요소를 찾으려 애쓰고 있습니다. 이 문서는 작은 수정을 벌일 때마다 수백 페이지를 일일이 수정할 필요 없이, 효과적으로 그 이상향에 한뼘 다가가게 해줍니다.\n[[/div]]\n[[/iftags]]\n\n[[div [[iftags -구성요소]]style=\"display: none;\"[[/iftags]] ]]\n[[module CSS show=\"true\"]]\n/* 폰트 출처: https://noonnu.cc/font_page/776 */\n\n@font-face {\n    font-family: 'establishRetrosansOTF';\n    src: url('https://cdn.jsdelivr.net/gh/projectnoonnu/noonfonts_2112@1.0/establishRetrosansOTF.woff') format('woff');\n    font-weight: normal;\n    font-style: normal;\n}\n\n:root:lang(ko){ \n--header-title: \"재 단\";\n--header-subtitle: \"격리부\";\n--header-font: \"Josefin Sans\", \"establishRetrosansOTF\", sans-serif;\n--title-font: \"Josefin Sans\", \"establishRetrosansOTF\", sans-serif;\n}\n#header h2 span {\nfont-size: calc(var(--base-font-size) * 1.35);\n}\n\n.top-right-box > .level {\n    line-height: 0.5;\n}\n\nbody .danger-diamond > .arrows {\n    background-color: transparent;\n}\n[[/module]]\n[[/div]]",
+  "tags": [
+    "en",
+    "구성요소"
+  ],
+  "author": "thd-glasses",
+  "created_at": "2021-12-22T08:39:56+00:00",
+  "updated_at": "2024-03-04T07:06:21+00:00",
+  "rating": 0,
+  "_site": "scpko",
+  "_fullname": "component:djk"
+}

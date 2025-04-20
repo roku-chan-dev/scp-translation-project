@@ -1,0 +1,21 @@
+{
+  "title": "SCP-2152-JP",
+  "content": "_\n[[div class=\"header-font-size\"]]\n[[include :1119s:classification-header\n|item-number= 2152-JP\n|object-class= Euclid\n|clearance= 2\n|lang= cn\n|hralt= true\n]]\n----\n[[/div]]\n\n**特殊收容措施：** SCP-2152-JP将被收容在标准人形实体收容间中。目前SCP-2152-JP不知道自身的异常性质，且已通过掩盖故事“社会实验”的虚假记忆维持收容。应每两个月对SCP-2521-JP实施一次回溯性记忆删除以消除收容期间的记忆。\n\n收容间内将永久配有咖啡机，SCP-2152-JP要求的物品可在收容主管批准后提供。\n\n**描述：** SCP-2152-JP是一名拥有相当有限的IV级本质促动能力的白人男性。SCP-2152-JP的异常性质会在其饮用自己煮好的咖啡（SCP-2152-JP-A实体）时显现。异常进程如下。\n\n# SCP-2152-JP拿起手中的杯子并立即进入恍惚状态，该状态下的SCP-2152-JP被指定为SCP-2152-JP-Prime。\n# 杯中的A实体向外泄露。\n# A实体体积增长并转变为人形，同时Prime实体转变为液态，外观变为黑色。\n# 在完整形成人形后，A实体外观变化为与Prime实体相同，并互换彼此位置。\n# Prime实体体积缩减并进入杯子。\n# A实体完全形成人形后苏醒，并饮用杯中液体。\n\nPrime实体和A实体的替换会在很短的时间内完成，约为3秒，所形成的人形实体会继承SCP-2152-JP包括异常性质在内的特征。值得注意的是，上述过程已被确认会对SCP-2152-JP的心理健康产生积极的影响，例如减轻压力。\n[[include :scp-wiki-cn:theme:basalt]]\n[[module CSS]]\n@import url('http://1119s.wdfiles.com/local--code_/side-icons/1');\n\n#top-bar,\n#side-bar,\nh1, h2, h3, h4, h5, h6 {\n    text-transform: initial;\n}\n#side-bar {\n    margin: 0;\n}\n.side-block .menu-item img + a::before,\n.side-block ul.menu-item li::before,\n.side-block .collapsible-block-folded a.collapsible-block-link::before {\n    filter: brightness(0) !important;\n}\n#side-bar img {\n    filter: none;\n}\n#side-bar a.collapsible-block-link {\n    background: none;\n}\n#page-content {\n    font-size: 100%;\n}\n.page-rate-widget-box {\n    box-shadow: none;\n    margin: 0;\n}\n.page-rate-widget-box .cancel a {\n    display: inline-flex;\n    justify-content: center;\n    align-items: center;\n    box-sizing: border-box;\n    height: 16px;\n    padding: 2px 5px;\n}\n.rate-box-with-credit-button .creditButton {\n    border: none 0;\n    background: none;\n    box-shadow: none;\n}\n.rate-box-with-credit-button .creditButton a {\n    display: flex;\n    align-items: center;\n    justify-content: center;\n    height: 16px;\n}\n.modalbox .modalbox-title {\n    border-radius: 0;\n}\n.modalbox .page-rate-widget-box {\n    box-shadow: 0px 0px 7px #999999;\n}\n.classification-header .right-box {\n    --level0: 11,0,128;\n    font-weight: bold;\n}\n@media (min-width: 768px) {\n    #main-content {\n        max-width: 80%;\n    }\n    .header-font-size {\n        font-size:1.25em;\n    }\n}\n[[/module]]",
+  "tags": [
+    "euclid",
+    "jp",
+    "scp",
+    "交换",
+    "人形生物",
+    "反熵",
+    "变形",
+    "形态改变",
+    "液体"
+  ],
+  "author": "Cambrian White",
+  "created_at": "2022-09-22T11:51:28+00:00",
+  "updated_at": "2022-09-22T11:51:51+00:00",
+  "rating": 3,
+  "_site": "scp-wiki-cn",
+  "_fullname": "scp-2152-jp"
+}

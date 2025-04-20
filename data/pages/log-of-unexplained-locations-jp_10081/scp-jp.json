@@ -1,0 +1,14 @@
+{
+  "title": "10081",
+  "content": "number: UE-192481-JP\ncontent: 外部から土を補給することが出来ない野球場。風等で自然に飛ばされるほか、試合を行った選手が持ち帰る風習により減少傾向にある。\ndate: 19██/██/██\narea: 兵庫県西宮市甲子園町1番82号\nprotocol: 文化保全との両立を目的にして持ち帰る土を最小限に留めるミームエージェントを球場内に設置する。\nredirect-b: '[[module Redirect destination=\"/log-of-unexplained-locations-jp'\nredirect-e: '\"]]'",
+  "tags": [
+    "jp",
+    "剪定対象-子"
+  ],
+  "author": "solvex",
+  "created_at": "2021-02-23T03:44:45+00:00",
+  "updated_at": "2021-05-24T13:21:47+00:00",
+  "rating": 51,
+  "_site": "scp-jp",
+  "_fullname": "log-of-unexplained-locations-jp:10081"
+}

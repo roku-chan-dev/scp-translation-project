@@ -1,0 +1,18 @@
+{
+  "title": "SCP-7143-J ［SFW?］",
+  "content": "[[include :scp-jp:component:info-ayers\n|lang=jp[!-- EN/RU/KO/CN/FR/PL/ES/TH/JP/DE/IT/UA/PTBR --]\n|page=SCP-7143-J[!-- SCP Wiki上のページURL --]\n|authorPage=http://www.scp-wiki.net/djkaktus[!-- 著者ページへのリンク --]\n|comments=\n\n= **SCP-7143-J** - //THE KNOB [SFW?]//\n]]\n[[include :scp-jp:theme:black-highlighter-theme]]\n[[module CSS]]\nsup {\nvertical-align: top; position: relative; top: -0.5em;\n}\n:root{\n--cutColour: #fafafa;\n--barColour: #590505;\n}\n\n.info-container .collapsible-block-folded a{\ncolor: #FFF;}\n.info-container .collapsible-block-unfolded-link a{\ncolor: #FFF;}\n\n.translation_block{\ndisplay:none;}\n[[/module]]\n@@@@\n@@@@\n[[>]]\n[[module Rate]]\n[[/>]]\n \n[[include component:image-block\n|name=knob11.jpg\n|caption=SCP-7143-J。ドアノブである。\n|width=280px\n]]\n\n**アイテム番号:** SCP-7143-J\n\n\n**オブジェクトクラス:** N/A[[footnote]]現在財団にはドアノブを収容するためのプロトコルがありません。[[/footnote]]\n\n\n**特別収容プロトコル:** SCP-7143-Jはドアノブであるため、いかなる収容プロトコルも必要ありません。\n\n\n**説明:** SCP-7143-Jは、サイト-19の3階職員寮のドアに付けられた金属製のドアノブです。ドアノブを右あるいは左に回すことでSCP-7143-Jが付けられているドアが開きます。SCP-7143-Jには鍵が掛かっており、個人が部屋に進入しないよう、ドアノブを回すことを防ぐ目的で使用されます。\n\n[[include component:image-block\n|name=knob2.jpg\n|caption=SCP-7143-Jではないもう一つのドアノブ\n]]\n\n\nSCP-7143-Jは整備士のJ.マロニー氏によって取り付けられました。SCP-7143-Jの設置について質問された際彼は、「ドアノブを取り付けた」と述べました。\n\n\n**補遺7143-J.1:** 実験記録\n\n\n//注記: SCP-7143-Jの発見直後には、SCP-7143-Jがドアノブであり、これらの実験が行われた所期の目的が不明であるにも関わらず、多くの実験が行われました。//\n\n\n\n> **実験記録 7143-J 1**\n> \n> **実験:** ドリアン博士はSCP-7143-Jを左に回した。\n> \n> **結果:** SCP-7143-Jが付いているドアが開き進入が可能になった。\n> \n> **メモ:** //これはドアノブだな。 -ドリアン博士//\n\n\n> **実験記録 7143-J 4:**\n> \n> **実験:** SCP-7143-Jはエージェント・ジェムソンによって施錠されている。\n> \n> **結果:** SCP-7143-Jはエージェント・ジェムソンの進入を妨げた。\n> \n> **メモ:** //ドアノブが施錠されてるようですね。-エージェント・ジェムソン//\n\n> **実験記録 7143-J 15:** \n> \n> **実験:** [データ削除済]\n> \n> **結果:** [データ削除済]\n> \n> **メモ:** //これは只のドアノブの筈だ、何でこれが削除されてるのかさっぱりわからん。 -クレフ博士//\n\n\n[[include component:image-block\n|name=knob33.jpg\n|caption=標準的なドアノブの内部機構\n]]\n\n\n**補遺7143.2:** 職員個人の証言\n\n\n//**注記:** 以下の証言は、SCP-7143-Jに関する匿名での調査中に集められました。// \n\n> **エージェント・ローマーバイル:** 俺はあのドアノブを時々3階の寮に入るのに使うな。\n\n\n> **コーンウォール博士:** ある時、ドアノブはロックされていた。 戻ってきたときにはアンロックされていた。ロックの仕組みだからな。\n\n\n> **ハッジ博士:** ███████████ ████ ███████ █████████ █████ ███████ ███ █████  ██████ ███████ ███ ██████ ███ ██████ ██████████████████████████ ██████████████████████████ ████████████.\n> //**メモ:** ハッジ博士のコンピュータは故障してるようだ -クレフ博士//\n\n\n> **アックスウェル研究員:** 私は時にはそれを左に回し、 時には右に回す。 ドアってのは便利ですよね。\n\n\n> **リー博士:** 私は一度誰かがSCP-7143-Jを掃除しているのを見ました。我々の施設の職員がサイトのそのような場所まで大事に手入れしているのは素晴らしいことですね。\n\n\n> **チャンバース研究員:** 俺はあのドアノブを滅茶苦茶に犯してやるだろうな。",
+  "tags": [
+    "en",
+    "esoteric-class",
+    "scp",
+    "クレフ博士",
+    "ジョーク",
+    "金属"
+  ],
+  "author": "aisakuyuyu",
+  "created_at": "2018-09-03T22:45:47+00:00",
+  "updated_at": "2024-03-01T11:56:06+00:00",
+  "rating": 8,
+  "_site": "scp-jp",
+  "_fullname": "scp-7143-j"
+}

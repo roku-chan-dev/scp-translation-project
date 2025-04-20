@@ -1,0 +1,16 @@
+{
+  "title": "SCP-3057-JP",
+  "content": "[[include :scp-jp:credit:start]]\n**タイトル:** SCP-3057-JP - あなたはあなたの買ったもの(だけではない)\n**著者:** [[*user taiyousun]]\n**作成年:** 2024\n\n----\n//**[[[author:taiyousun|この著者の他の作品]]]**//\n[[include :scp-jp:credit:end]]\n\n**アイテム番号:** SCP-3057-JP\n\n**オブジェクトクラス:** Euclid\n\n**特別収容プロトコル:** SCP-3057-JPは、SCP-3057-JP-A発生抑制の為に危険物を排除した人型チャンバーに収容されます。\n\n[[include :scp-jp:component:image-block name=http://scp-jp-storage.wikidot.com/local--files/file:8664769-34-j6ic/receipt|caption=SCP-3057-JP-A]]\n\n**説明:** SCP-3057-JPは本名が森 由紀の日本人女性です。SCP-3057-JPは22歳時点までその異常性が発現していなかったことが判明しています。\n\nSCP-3057-JPが生命活動維持の危機に曝された際[[footnote]]詳細な条件は現在調査中[[/footnote]]、SCP-3057-JPの周囲に領収書(以下、SCP-3057-JP-A)が発生します。SCP-3057-JP-Aは1度に1~198枚出現し、SCP-3057-JPを危機から保護するように自立行動します。SCP-3057-JPが危機に曝されなくなると、SCP-3057-JP-Aは自立行動を停止し異常性を喪失します。\n\nSCP-3057-JP-AはSCP-3057-JPが22歳時点までに消費した物品/サービスとその価格が記されています。\n\n**補遺:** 以下はSCP-3057-JPの異常性が発現した事例のリストです。\n\n[[div class=\"blockquote\"]]\n**事例:** SCP-3057-JPが自宅の階段にて後方に転倒した際にSCP-3057-JP-Aが4枚出現。SCP-3057-JPの背中を支えた後に自立行動を停止。\n\n**SCP-3057-JP-Aの内容の抜粋:** \n[[div class=\"blockquote\"]]\nベビー服 1,680円\n[[/div]]\n[[div class=\"blockquote\"]]\n哺乳瓶 1,200円\n[[/div]]\n[[/div]]\n\n[[div class=\"blockquote\"]]\n**事例:** SCP-3057-JPが道路に飛び出した際にSCP-3057-JP-Aが27枚出現。SCP-3057-JPの髪を引っ張り、歩道に戻した後に自立行動を停止。\n\n**SCP-3057-JP-Aの内容の抜粋:** \n[[div class=\"blockquote\"]]\nランドセル 22,980円\n[[/div]]\n[[div class=\"blockquote\"]]\n教科書合計 19,354円\n[[/div]]\n[[/div]]\n\n[[div class=\"blockquote\"]]\n**事例:** SCP-3057-JPが線路に転落した際にSCP-3057-JP-Aが54枚出現。SCP-3057-JPを持ち上げ、ホームに戻した後に自立行動を停止。\n\n**SCP-3057-JP-Aの内容の抜粋:** \n[[div class=\"blockquote\"]]\n制服 35,563円\n[[/div]]\n[[div class=\"blockquote\"]]\nノート合計 4,400円\n[[/div]]\n[[/div]]\n\n[[div class=\"blockquote\"]]\n**事例:** SCP-3057-JPが崖から落下した際にSCP-3057-JP-Aが78枚出現。SCP-3057-JPを持ち上げた後に自立行動を停止。\n\n**SCP-3057-JP-Aの内容の抜粋:** \n[[div class=\"blockquote\"]]\n塾 253,600円\n[[/div]]\n[[div class=\"blockquote\"]]\n参考書合計 7,880円\n[[/div]]\n[[/div]]\n\n[[div class=\"blockquote\"]]\n**事例:** SCP-3057-JPが川に落下した際にSCP-3057-JP-Aが89枚出現。SCP-3057-JPを持ち上げ、岸に戻した後に自立行動を停止。\n\n**SCP-3057-JP-Aの内容の抜粋:** \n[[div class=\"blockquote\"]]\n学費 3,553,600円\n[[/div]]\n[[div class=\"blockquote\"]]\nアパート初期費用 36,000円\n[[/div]]\n[[/div]]\n\n[[div class=\"blockquote\"]]\n**事例:** SCP-3057-JPがロープを用いて縊死を図った際にSCP-3057-JP-Aが198枚出現。SCP-3057-JPを縄から外した後に自立行動を停止。\n\n**SCP-3057-JP-Aの内容の抜粋:** \n[[div class=\"blockquote\"]]\nスーツ 88,500円\n[[/div]]\nこの際、通常のSCP-3057-JP-Aと異なる内容の用紙が出現しました。以下はその内容です。\n[[div class=\"blockquote\"]]\n私が貴方に与えたお金 41,784,332円\n\n貴方が私に与えたお金 95,384円\n\n残り41,688,948円、ファイト！\n[[/div]]\n用紙の筆跡はSCP-3057-JPの母、森 幸子氏と一致していますが、氏は身に覚えがないと主張しています。\n[[/div]]",
+  "tags": [
+    "euclid",
+    "jp",
+    "scp",
+    "人間型"
+  ],
+  "author": "taiyousun",
+  "created_at": "2024-03-04T10:25:09+00:00",
+  "updated_at": "2025-03-25T00:55:20+00:00",
+  "rating": 19,
+  "_site": "scp-jp",
+  "_fullname": "scp-3057-jp"
+}

@@ -1,0 +1,13 @@
+{
+  "title": "SCP-3939-7",
+  "content": "[[div class=\"scp-image-block block-right\" style=\"width: 300px;\"]]\n[[image https://scp-wiki.wdfiles.com/local--files/scp-3939/scp.jpg style=\"width: 300px;\"]]\n[[div class=\"scp-image-caption\" style=\"width: 300px;\"]]\nPicture of SCP-3939\n[[/div]]\n[[/div]]\n\n**Item #:** SCP-3939\n\n**Object Class:** Safe\n\n**Special Containment Procedures:** SCP-3939 is kept in a standard holding cell, no special measures are needed.\n\n**Description:** SCP-3939 is an old gramophone with a brass horn and a wooden base. It displays a single anomalous effect which is that the vinyl record on it is continuously spinning. Further tests are needed to determine nature of this effect.\n\n[[div class=\"story\"]]\n\"Hello.\" you say, out loud.\n\nYou're about to berate yourself for how fucking stupid you are, but a slight crackling sound stops you in your tracks.\n\nIt's like the sound of a kid tuning a radio under their bedsheets hoping that their parents don't hear. A very faint, very gentle white noise, just long enough to possibly be someone saying 'hello' right back at you.\n\n\"Hello.\" you say, again, and the crackle happens again. This time, it's slightly louder, and it's definitely coming from within the gramophone.\n\nYou step a little closer. The horn of the gramophone moves to be pointing directly at you. \"Hello?\"\n\nIt's the crackling noise again, except this time it's slightly more clear. It's definitely a 'hello'.\n\n\"Say 'Howdy, ████' if you can hear me.\"\n\nThe crackling happens again. This time, it's slightly longer, and you feel that you can definitely recognise the characteristic sound of your own name.\n\nIt's trying to speak. There's no doubt about it. But what is it saying?\n\nYou get a notification on your communicator: Sally has uploaded a revised version of the draft.\n\n[[div class=\"choices\"]]\n[/scp-3939/offset/15 \"Who are you?\"]\n\n[/scp-3939/offset/15 \"What's your name?\"]\n\n[/scp-3939/offset/15 \"Are you trapped in there?\"]\n[[/div]]\n\n[[/div]]\n\n[[html]]\n<script>\nlocalStorage.setItem(\"scp3939-path\", \"competent\")\n</script>\n[[/html]]",
+  "tags": [
+    "fragment"
+  ],
+  "author": "Croquembouche",
+  "created_at": "2018-03-15T02:33:35+00:00",
+  "updated_at": "2024-12-09T22:35:49+00:00",
+  "rating": 1,
+  "_site": "scp-wiki",
+  "_fullname": "fragment:scp-3939-7"
+}

@@ -1,0 +1,14 @@
+{
+  "title": "Antagony",
+  "content": "[[include :scp-wiki:component:toggle-sidebar]]\n[[include :scp-wiki:component:centered-header-sigma-9]]\n[[include :topia:pride-animated-source]]\n[[module CSS]]\n :root{\n   --lgurl: var(--anim-pride);\n}\n\n#header::before{\n   opacity:0.80;\n}\n[[/module]]\n[[>]]\n[[module Rate]]\n[[div style=\"margin-right: 2em; margin-top: -20px;\"]]\n^^by [[[rigen-writes|Rigen]]]^^\n[[/div]]\n[[/>]]\n\nDo you think I wanted to die in the dark so you can live in the light?\n\nDo you think I chose to live under the lies of the Foundation, looked upon with pity by family members, fear by friends and neighbors?\n\nDo you think I wished that all my life's work would be buried under a veil of secrecy, never to see the light of day? All my achievements, all my breakthrough. Everything I survived or helped others to survive, every calamity I stopped and every catastrophe endured.\n\nDo you think I will simply go gentle unto the dark nights of the unknown and the bizarre?\n\nThe Black Moon roars with regret.\n\nThe Black Moon rages in the ridiculous joke that is human existence.\n\nThe Black Moon immolates the sky with divine fury, impotent against the laughing gods and sneering demons.\n\n= //But then again, what's the alternative?//\n\nJust let the world burn?\n\nLet you die in the light so I can live in the dark?\n\nLet humanity consume itself, swallowed by fear and anger and greed and—\n\nLet my wrath upon the dying light snuff it entirely?\n\nNo matter how much I had imagined a world where I never found this place,\n\nnever joined the Foundation,\n\nnever peek beyond the veil;\n\nthe thought that someone else must shoulder the same responsibility,\n\nmust see the same horror,\n\nmust cry the same tears,\n\nmust die in the same darkness,\n\n= //it scares me beyond imagination.//\n\nSo again, what's the alternative?\n\nI love in the dark so you can hope in the light.\n\n[[include :scp-wiki:component:license-box]]\n[!-- N/A (No Images)  --]\n[[include :scp-wiki:component:license-box-end]]",
+  "tags": [
+    "_licensebox",
+    "tale"
+  ],
+  "author": "Rigen",
+  "created_at": "2021-11-18T20:36:29+00:00",
+  "updated_at": "2022-05-31T17:58:57+00:00",
+  "rating": 17,
+  "_site": "scp-wiki",
+  "_fullname": "antagony"
+}

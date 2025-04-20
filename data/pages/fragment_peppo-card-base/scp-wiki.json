@@ -1,0 +1,13 @@
+{
+  "title": "Peppo Card Base",
+  "content": "[[div_ class=\"card\" style=\"order:{$articleOrder}; display:{$hideCard};\"]]\n[[include component:peppo-card-structure\narticleURL= {$articleURL}\n| articleOrder = {$articleOrder} | articleOrder = initial\n| articleLink = {$articleLink} | articleLink = %%link%%\n| articleTitle = {$articleTitle} | articleTitle = %%title_linked%%\n| articleImage = {$articleImage}\n| articleName = {$articleName}\n| articleQuote = {$articleQuote}\n| articleCredit = {$articleCredit} | articleCredit = @@ @@\n| articleCredit2 = {$articleCredit2} | articleCredit2 = @@ @@\n| showCredit1 = {$showCredit1} | showCredit1 = none\n| showCredit2 = {$showCredit2} | showCredit2 = none\n| hideCard = {$hideCard} | hideCard = inherit\n| creditLink = {$creditLink}\n| creditLink2 = {$creditLink2}\n| showPic = [!-- {$picTrue}pic [!----] [!-- {$picFalse}noPic [!----]\n| ratePlace = [!-- {$picTrue}howItRate [!----][!-- {$picFalse}howItRate2 [!----] \n\n\n| picTrue = {$picTrue} | picTrue = --] \n| picFalse = {$picFalse} | picFalse = null\n]]\n[[/div]]",
+  "tags": [
+    "fragment"
+  ],
+  "author": "PeppersGhost",
+  "created_at": "2020-09-12T23:11:01+00:00",
+  "updated_at": "2023-03-12T05:21:41+00:00",
+  "rating": 1,
+  "_site": "scp-wiki",
+  "_fullname": "fragment:peppo-card-base"
+}

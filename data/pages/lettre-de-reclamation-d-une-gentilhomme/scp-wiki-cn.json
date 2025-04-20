@@ -1,0 +1,15 @@
+{
+  "title": "一名女绅士的投诉信",
+  "content": "[[module css]]\n@import url('https://smlt.wdfiles.com/local--code/ukwhatn%3Afadeout/1');\n@import url('https://fonts.googleapis.com/css?family=Merriweather');\n#page-content .twist .collapsible-block-link{\n    color: #000;\n}\n:root {\n  --cropped-header: var(--ct_bg_header-image);\n\n}\n[[/module]]\n\n[[module css]]\n@import url('https://smlt.wdfiles.com/local--code/ukwhatn%3Afadeout/1');\n@import url('https://fonts.googleapis.com/css?family=Merriweather');\n#page-content .twist .collapsible-block-link{\n    color: #000;\n}\n:root {\n  --cropped-header: var(--ct_bg_header-image);\n\n}\n[[/module]]\n\n[[include :scp-wiki-cn:credit:start-standalone]]\n**标题：** Lettre de réclamation d'une Gentilhomme\n**作者：** [[user Henry Von Kartoffen]]\n**日期：** 2023.2.14\n**译者注：** 该作为2023年法分情人节活动参赛作品。\n[[include :scp-wiki-cn:credit:end-standalone]]\n\n[[div style=\"border:solid 4px #112211; background: #FFFFFF; margin-top: 1em; margin-bottom: 1em; margin-bottom: 25px; font-family: Merriweather, serif;\"]]\n[[div style=\"padding: 50px;\"]]\n[[div_ class=\"fadeout-wrapper\"]]\n\n2023.2.14，Chambéry市\n\n致：国家星象宪兵队总监察局\n\n主题：关于盗窃的指控\n\n敬爱的先生/女士，\n\n这封信是为指控国家星象宪兵队的盗窃行径而写。本人于昨天，即2月13日，注意到了B-38号文件的被盗，该文件中包含大量与若干项奇术程序有关的敏感信息，其于Castagnery-de-Châteauneuf私人宅邸遭窃，地址为Croix d'Or路22号。该物品为本人于昨日遗留于此，以便于当天将其转交与吾之友人，一名备受尊敬的同事。但今天本人却似乎无法满足其之意[[span class=\"escape\"]]愿[[/span]]：我找遍了房中的每件家具，向宅邸的所有工作人员核实，以及询问邻近街道的眼镜制造商，无人承认曾将其带离。比这更糟糕的是：[[span class=\"escape\"]]明[[/span]]明事先并未相互协商，所有证人却均指出是星象宪兵队于2[[span class=\"escape\"]]月[[/span]]13日夜晚进行了干预。\n\n事实上，根据许多[[span class=\"escape\"]]见证[[/span]]人的证词，本人可以确认，贵机构的若干特工于昨晚9时30分左右进入宅邸，在一个小时后与[[span class=\"escape\"]]我[[/span]]的行进路线交错而过。视频监控摄像头证实了他[[span class=\"escape\"]]们[[/span]]的证词，甚至为我提供了证据，证明是特工中的一人拿走了有关文件。因此，本人现[[span class=\"escape\"]]今[[/span]]正式指控国家星象宪兵队昨[[span class=\"escape\"]]夜的[[/span]]卑鄙偷窃行径。\n\n抛开偷窃他人所有物的问题不谈，贵机构的行为是对人类文明进步的严重阻碍。如前所述，该文件包含了极其重要的信息：没有文件，绅士团就无法进行极其必要的仪式，也不可能向质疑者证明我们人文主义绅士团才是真正对人类文明抱有[[span class=\"escape\"]]爱恋[[/span]]之心、真正是为人类着想的集体。\n\n这就是为何本人要求星象宪兵队归还被盗物品。如果贵机构拒绝的话，我将不得不向宪兵队的上级机构投诉，甚至会为了还自己一个公道，亲自开展行动将该文件回收。贵机构可以在今晚之前修正您们犯下的过错。\n\n如果贵机构能就此事给本人一个答复，本人将不胜感激。\n\n您真诚的\n\n一名女绅士\n\n[[div class=\"twist\"]]\n[[collapsible show=\"另附：能否将该信尽快转交与有能力处理此类事项的负责人，即1156号特工？\" hide=\" \"]]\n[[/div]]\n[[div class=\"cover\"]]\n@@@@\n[[/div]]\n\n\n[[/collapsible]]\n[[/div]]\n[[/div]]\n[[/div]]",
+  "tags": [
+    "fr",
+    "故事",
+    "绅士团"
+  ],
+  "author": "MensongeGeant",
+  "created_at": "2023-02-25T14:51:06+00:00",
+  "updated_at": "2023-02-26T03:05:19+00:00",
+  "rating": 4,
+  "_site": "scp-wiki-cn",
+  "_fullname": "lettre-de-reclamation-d-une-gentilhomme"
+}

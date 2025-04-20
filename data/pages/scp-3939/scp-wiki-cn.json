@@ -1,0 +1,21 @@
+{
+  "title": "SCP-3939",
+  "content": "[!--\nNOTICE TO TRANSLATORS\n\nTo generate a list of links to all pages that SCP-3939 uses, please paste the following into any page on the wiki:\n\n[[module ListPages category=\"fragment\" parent=\"scp-3939\" order=\"created_at\" perPage=\"250\"]]\n%%title_linked%%\n[[/module]]\n\nA spreadsheet is available which contains the entire story in a format which may be better for your needs. Please contact me (Croquembouche) if you need it.\n\nWhen re-creating this SCP, for example for translation purposes, it is of utmost importance that the pages are created in the right order - starting with number 0, and ending with number 66.\n\nThank you.\n\nSCP-3939 begins below.\n--]\n\n[[module CSS]]\n:root { --swatch-primary: 187, 0, 17; }\n.story {\n  clear: both; border: 3px black solid; padding: calc(20px - 1em) 0 20px 0;\n}\n.story p {\n  margin-left: 20px; margin-right: 20px; \n}\n.choices {\n  clear: both;\n}\n.choices a {\n  height: 30px; border: 1px solid #b01; border-right: 1px solid transparent; line-height: 30px; position: relative; background: white; z-index: 8; margin-bottom: 0.5em; float: left; clear: both; padding-left: 7px; margin-left: 20px; margin-right: 20px\n}\n.choices a::before {\n  content: \"\"; position: absolute; border: 16px solid transparent; border-left: 16px solid #b01; right: -33px; top: -1px; z-index: 6;\n}\n.choices a::after {\n  content: \"\"; position: absolute; border: 15px solid transparent; border-left: 15px solid white; right: -31px; top: 0; z-index: 7;\n}\n.choices p {\n  clear: both; height: 30px; margin: 0 0 0 0;\n}\n.footer-wikiwalk-nav {\n  margin-top: 50px;\n}\nspan, a {\n  word-break: normal !important;\n}\n@media (max-width: 580px) {\n  .choices a {\n    line-height: initial !important; margin-left: 10px !important; margin-right: 30px !important;\n  }\n}\n[[/module]]\n\n[[include :scp-wiki-cn:credit:start-standalone]]\n**文章：** SCP-3939 (//[编号保留，以待研究员]//)\n\n**作者：** [[*user Croquembouche]]\n\n**致谢：** [[*user Baseplate-Actual]]，[[*user taylor_itkin]]，[[*user Tanhony]]，[[*user MayD]]\n\n这是一篇多选择故事。每一页底部的箭头形状的链接选项表示其可将您带到另一页中。完整阅读一整条这篇SCP的故事线将花费大约15分钟。并不期望您会再读一遍。\n\n[[[cone|作者页]]]\n[[include :scp-wiki-cn:credit:end-standalone]]\n\n[[module ListPages category=\"fragment\" parent=\".\" limit=\"1\" order=\"created_at\" offset=\"@URL|0\"]]\n%%content%%\n[[/module]]\n\n[[div class=\"footer-wikiwalk-nav\"]]\n[[=]]\n<<   [[[SCP-3938]]] | SCP-3939 | [[[SCP-3940]]] >>\n[[/=]]\n[[/div]]\n\n[[include :scp-wiki-cn:component:license-box\n|author=Croquembouche]]\n=====\n> **文件名：**Gramophone\n> **图像作者：**Michael Bußmann\n> **授权协议：**CC0\n> **来源链接：***https://pixabay.com/photos/gramophone-turntable-shellac-disc-1790007/\n> **备注：**发布于2016年\n=====\n[[include :scp-wiki-cn:component:license-box-end]]",
+  "tags": [
+    "meta",
+    "safe",
+    "scp",
+    "互动性",
+    "叙述性",
+    "敌意",
+    "智能",
+    "概念",
+    "模因"
+  ],
+  "author": "Hannah_AI",
+  "created_at": "2018-04-05T12:18:17+00:00",
+  "updated_at": "2024-04-27T19:29:18+00:00",
+  "rating": 68,
+  "_site": "scp-wiki-cn",
+  "_fullname": "scp-3939"
+}

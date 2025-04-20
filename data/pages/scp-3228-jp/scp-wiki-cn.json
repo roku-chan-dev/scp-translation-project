@@ -1,0 +1,20 @@
+{
+  "title": "SCP-3228-JP",
+  "content": "[[include :scp-wiki-cn:credit:start-standalone]]\n**标题：**SCP-3228-JP - 草稿（4）\n**作者：**[[*user dr_toraya]]\n**年份：**2023\n[[include :scp-wiki-cn:credit:end-standalone]]\n\n[[module CSS]]\n.notice{\n    border: 1px solid #f9e24d;\n    outline: 4px solid #b54d3b;\n    color: #f9e24d;\n    background: #b54d3b;\n    padding: 10px;\n    text-align: center;\n}\n[[/module]]\n\n[[div class=\"notice\"]]\n[[=]]\n++++ 来自基金会误传部门的通知\n\n以下档案文件是作为一份正式报告的草稿被保存。为确保拟稿者与读者的安全，负责对其进行补充与修改的人员须接受一由误传部门组织的编辑规则培训课程。\n[[/=]]\n[[/div]]\n\n**项目编号：**SCP-3228-jp\n \n**项目等级：**Uclid\n \n**特殊收容措施：**SCP-3228-JP应被一由钢筋混凝土与木材制成的结构完全遮盖起来，以防止平民暴露。该结构应每周由被指派的D级人员进行扩建与修缮。SCP-3228-JP的研究负责人为已故的Dr. Al Smith；鉴于其继任者尚未选定，Site-8184主管正暂时代行其职务。导致了收容措施的确立的情况可以在**__[参考链接错误！]__**中找到。\n\n**描述：**对SCP-3228-JP的研究正由在Site-8184组建的临时研究小组[[span class=\"ruby\"]]“科洛尼亚・桂尔”[[span class=\"rt\"]]コロニア・グエル[[/span]][[/span]]进行。\n\n**__“科洛尼亚・桂尔”的研究进展：__**\n||~ 对象||~ 结果||\n||施工时的业主||在施工完成时死亡||\n||参与施工的建筑业人员||在施工完成时全部死亡||\n||进入与离开该异常的D级人员||存活||\n||基金会机动特遣队成员||确认内部安全后死亡||\n||负责建立该异常的初步收容的人员||完成报告初稿后死亡||\n||只写下有关该异常的四行诗的其中一行的D级人员||存活||\n||完整写下有关该异常的四行诗的D级人员||死亡||\n||只阅读有关该异常的四行诗的其中一行的D级人员||存活||\n||完整阅读有关该异常的四行诗的D级人员||死亡||\n||完成围绕该异常的小型围栏的建造工作的D级人员||死亡||\n||目前负责扩建遮盖该异常的结构的D级人员||全部存活||\n||目前负责收容该异常的人员||存活||\n||在这里写下昨天实验的细节||;-)||\n\n[[collapsible show=\"[打开SCP-3228-JP补充档案-1]\" hide=\"[隐藏SCP-3228-JP补充档案-1]\"]]\n[[html]]\n<body>\n\n<style>\n.loading {\n  color: #880000;\n  position: fixed;\n  width: 100%;\n  height: 100%;\n  margin: 0;\n  padding: 0;\n text-align:center;\n}\n\n.loading.hide {\n  opacity: 0;\n  pointer-events: none;\n  transition: opacity 500ms;\n}\n\n.loading .circle {\n  display: block;\n  top: calc( 50% - 20px );\n  width: 40px;\n  height: 40px;\n  margin: 0 auto;\n  border: 7px solid #994444;\n  border-top: 7px solid #FFCCCC;\n  border-radius: 50px;\n  animation: loading 700ms linear 0ms infinite normal both;\n}\n\n@keyframes loading {\n  0% { transform: rotate( 0deg ); }\n  100% { transform: rotate( 360deg ); }\n}\n</style>\n<div class=\"loading\">\n<span class=\"circle\">\n<!-- :-) -->\n</span>\n加载中……\n</div>\n&nbsp;<BR>&nbsp;<BR>&nbsp;<BR>&nbsp;<BR>&nbsp;<BR>\n</body>\n[[/html]]\n[[/collapsible]]\n\n[[size 0%]].[[/size]]\n[[size 0%]].[[/size]]\n[[size 0%]].[[/size]]\n[[size 0%]].[[/size]]",
+  "tags": [
+    "2023短文竞赛",
+    "euclid",
+    "jp",
+    "scp",
+    "二次翻译",
+    "信息危害",
+    "建筑",
+    "误传部"
+  ],
+  "author": "LeeBr",
+  "created_at": "2023-06-01T18:44:49+00:00",
+  "updated_at": "2024-06-12T15:28:38+00:00",
+  "rating": 4,
+  "_site": "scp-wiki-cn",
+  "_fullname": "scp-3228-jp"
+}

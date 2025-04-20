@@ -1,0 +1,24 @@
+{
+  "title": "SCP-7579",
+  "content": "[[div style=\"display: none;\"]]\n[[include component:image-block name=http://scp-jp-storage.wdfiles.com/local--files/file%3A6370408-217-w60m/O2hub.jpg|caption=.]]\n[[/div]]\n\n[[include :scp-jp:theme:foxtrot hidetitle=a|verdana=a]]\n\n[[module css]]\n:root{\n  --header-title: \"SCP財団\";\n  --header-subtitle: \"確保・収容・保護\";\n  --head-font: var(--ui-font);\n  --page-font-size: 0.79rem;\n  --link-txt-color: rgba(var(--accent), 0.75);\n\n  --accent: 0, 77, 99;\n\n  --posX: calc(50% - 358px - 17.5rem);\n  --fnColor: rgb(var(--accent));\n}\n\nh1, h2, h3, h4, h5, h6 {\n  font-weight: 900;\n}\n\n#page-content > p {\n  font-weight: normal;\n}\n\n#page-content .blockquote {\n  margin: 1em 2em;\n}\n\n#page-content hr {\n  height: 1px;\n  background-color: rgb(var(--accent));\n  margin-top: 1.5em;\n  margin-bottom: 1.5em;\n}\n\n#page-content .modal {\n  font-family: 'Inter';\n  font-size: 110%;\n}\n\n#page-content .notation {\n  width: auto;\n  margin: auto;\n  font-family: 'Inter';\n  font-size: 110%;\n  border-left: solid 4px rgba(var(--accent), 0.33);\n  border-right: solid 4px rgba(var(--accent), 0.33);\n}\n\n#page-content .jotting {\n  padding: 0.5em 1.5em;\n}\n\n.notation > .jotting,\n#page-content > .jotting > blockquote {\n  background-color: white;\n}\n\n#page-content a {\n  font-weight: bold;\n}\n\n.fncon {\n  font-family: var(--page-font) !important;\n  font-size: 92% !important;\n  line-height: 1.4;\n  border-color: rgb(var(--accent));\n}\n\n.fncon::before {\n  font-family: 'Inter';\n}\n\n@media only screen and (min-width: 1278px) {\n  .fncon {\n    width: 14rem;\n    border: none;\n    border-left: 5px rgb(var(--accent)) solid;\n    background-color: rgba(var(--accent), 0.1);\n  }\n\n  .fncon::before {\n    top: 14px; left: -10px;\n  }\n}\n\n@media (max-width: 767px) {\n  .jotting,\n  .modal {\n    margin: 1em;\n  }   \n}\n\n#page-content .scp-image-block img {\n  border: solid 1px rgba(var(--accent), 0.66);\n}\n\n#page-content .scp-image-block.block-left {\n  margin: 0.5em 1.5em 1em 0em;\n}\n\n#page-content .scp-image-block.block-right {\n  margin: 0.5em 0em 1em 1.5em;\n}\n\n#page-content .scp-image-caption {\n  border: solid 1px rgba(var(--accent), 0.66);\n  border-radius: 0px;\n  margin-top: 7px;\n}\n\n#breadcrumbs, .pseudocrumbs {\n  font-size: 90%;\n  font-family: 'Inter';\n}\n\n/* Japanese localizing */\n\n.kt {\n    -webkit-text-emphasis-style: filled dot;\n    text-emphasis-style: filled dot;\n}\n\n#page-content .creditRate.creditModule{\nfloat: unset !important;\n}\n[[/module]]\n\n[[=]]\n[[include :scp-jp:credit:start]]\n[[<]]\n**タイトル:** SCP-7579 - ØはØRKESLØSのØ\n**翻訳責任者:** [[*user Witherite]]\n**翻訳年:** 2022\n**原題/リンク:** [https://scp-wiki.wikidot.com/scp-7579 SCP-7579 - Ø IS FOR ØRKESLØS]\n**著作権者:** [[*user Placeholder McD]]\n**作成年:** 2022\n**初訳時参照リビジョン:** rev.24\n[[/<]]\n[[include :scp-jp:credit:end]]\n\n[[include :scp-wiki:component:author-label-source start=--\n|name=Placeholder McD\n|center=*]]\nMore works like this: [*/placeholder-mcd-s-authorpage PLACEHOLDER STAFF DOCUMENT]\n[[include :scp-wiki:component:author-label-source end=--]]\n[[/=]]\n\n@@ @@\n\n[[module ListPages  category=\"fragment\" parent=\".\" limit=\"1\" order=\"created_at\" offset=\"@URL|0\"]]\n%%content%%\n[[/module]]\n\n[!-- https://scp-jp.wikidot.com/fragment:scp-7579-0 --]\n[!-- https://scp-jp.wikidot.com/fragment:scp-7579-1 --]\n\n@@ @@\n\n@@ @@\n\n@@ @@\n\n@@ @@\n\n@@ @@\n----\n[[include :scp-jp:component:earthworm\n| first=false| last=false | hub=yes\n| previous-url=/scp-7559 | previous-title=Oは\"Organs\"のO\n| next-url=/scp-7603 | next-title=Pは\"Pluto, Previously. Presently Primrose.\"のP\n| hub-url=/scp-anthology-hub | hub-title=SCP アンソロジー ハブ\n]]\n----\n[[=]]\n[[module Rate]]\n[[/=]]",
+  "tags": [
+    "aiad",
+    "en",
+    "euclid",
+    "scp",
+    "オールドai",
+    "コンピュータ",
+    "ボールド管理官",
+    "マクドクトラート博士",
+    "死のabc",
+    "知性",
+    "解体部門",
+    "電子デバイス"
+  ],
+  "author": "Witherite",
+  "created_at": "2022-11-03T03:00:06+00:00",
+  "updated_at": "2025-03-17T07:48:02+00:00",
+  "rating": 28,
+  "_site": "scp-jp",
+  "_fullname": "scp-7579"
+}

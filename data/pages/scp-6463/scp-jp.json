@@ -1,0 +1,24 @@
+{
+  "title": "SCP-6463",
+  "content": "[[include :scp-jp:theme:paperstack]]\n[[include :scp-jp:component:toggle-sidebar]]\n[[module CSS]]\n\ndiv#header-extra-div-1 {\n    height: 180px;\n    width: 100%;\n    top: 6px;\n    left: -10px;\n    position: absolute;\n    background: url(\"http://scp-wiki.wdfiles.com/local--files/theme%3Apaperstack/lgtrans.png\");\n    background-size: contain;\n    background-repeat: no-repeat;\n    background-position: 0 50%;\n    z-index: -1;\n    pointer-events: none;\n}\n@media (max-width: 880px) {\n    div#header-extra-div-1 {\n         height: 184px;\n         top: -3px;\n         left: 0;\n         background-position: 50% 50%;\n    }\n}\n\n#side-bar {\n    background-color: #fff;\n    box-shadow: 0px 0px 7px #949494;\n}\n\n[[/module]]\n\n[[include :scp-jp:credit:start]]\n**タイトル:** SCP-6463 - ある結末\n**翻訳責任者:** [[*user Witherite]]\n**翻訳年:** 2021\n**原題/リンク:** [https://scp-wiki.wikidot.com/scp-6463 SCP-6463 - An Ending]\n**著作権者:** [[*user EstrellaYoshte]]\n**作成年:** 2021\n**初訳時参照リビジョン:** rev.6\n[[include :scp-jp:credit:end]]\n\n[[div class=\"header-container\"]]\n[[div class=\"text-item\"]]\n[[size 90%]]##grey|**アイテム番号:**##[[/size]]\n \n[[size 220%]]**SCP-6463**[[/size]]\n[[/div]]\n \n[[div class=\"text-item\"]]\n[[size 90%]]##grey|**収容クラス:**##[[/size]]\n \n[[size 220%]]**PENDING**[[/size]]\n[[/div]]\n[[/div]]\n@@ @@\n[[include :scp-wiki:component:image-block name=http://scp-jp-storage.wdfiles.com/local--files/file%3A6370408-9-428a/treelake.png|align=center|width=700px|caption=SCP-6463-A]]\n[[div style=\"height: 0.8rem\"]]\n[[/div]]\n++++ __特別収容プロトコル__\n\n--チャールズ・ギアーズ博士は、SCP-6463の位相的または次元間の変則性を監視および調査します。財団との連絡の再確立は最優先事項であるとみなされています。--\n\n##blue|N/A。##\n\n[[div style=\"height: 0.8rem\"]]\n[[/div]]\n\n++++ __説明__\n\nSCP-6463は規模不明の外次元の平面である次元-882R53の--暫定的な--指定番号です。SCP-6463は塩原に類似しており、表面は固体でほぼ完全な反射率を示します。表面はまた塩味があることも特筆すべきです。\n\nSCP-6463内部の実体は、いかなる種類のエネルギー消費や減衰の影響を受けないと推測されています。SCP-6463に持ち込まれたいくつかの電子機器は故障せずに最低でも296,516年間絶えず機能しており、内部の人間は老化や栄養を必要とする様子を見せず、そのため生物学的に不死になります。\n\nSCP-6463は、1本の木（以降SCP-6463-A）を除き大方特筆すべき点はありません。SCP-6463-Aは認識災害効果を示し、距離や可視性に関わらず観測者はその位置を認識できます。\n\n##blue|チャールズ・ギアーズ博士の死体がSCP-6463-Aの根本にもたれた状態で発見されました。本ファイルの最終更新のタイムスタンプや、続いて行われた解剖のレポートや、彼のドライブから回復された1,779,095本のビデオログは、彼がおよそ450,000歳の時に自然死したことを示しています。##\n@@ @@",
+  "tags": [
+    "6000",
+    "en",
+    "pending",
+    "scp",
+    "エントロピー",
+    "ギアーズ博士",
+    "植物",
+    "樹木",
+    "異次元",
+    "知識",
+    "視覚",
+    "認識災害"
+  ],
+  "author": "Witherite",
+  "created_at": "2021-05-30T06:27:31+00:00",
+  "updated_at": "2024-04-20T14:01:28+00:00",
+  "rating": -19,
+  "_site": "scp-jp",
+  "_fullname": "scp-6463"
+}

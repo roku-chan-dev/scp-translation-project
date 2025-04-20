@@ -1,0 +1,13 @@
+{
+  "title": "_template",
+  "content": "[[div id=\"archived-top-box\"]]\n[[div id=\"archived-header\"]]\n此页面已被归档\n[[/div]]\n此页上的信息已经过时，并且可能已被其他内容取代。\n\n其被保留以备历史用途。\n\n[[size 90%]]//有关归档的详情请参阅[[[archived-scps|被归档的页面]]]。//[[/size]]\n[[/div]]\n\n%%content%%",
+  "tags": [
+    "管理"
+  ],
+  "author": "Sekai_s",
+  "created_at": "2020-11-27T12:20:07+00:00",
+  "updated_at": "2021-06-16T03:30:08+00:00",
+  "rating": 0,
+  "_site": "scp-wiki-cn",
+  "_fullname": "archived:_template"
+}

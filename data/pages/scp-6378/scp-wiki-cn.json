@@ -1,0 +1,18 @@
+{
+  "title": "SCP-6378",
+  "content": "[[include :scp-wiki-cn:theme:black-highlighter-theme]]\n\n----\n\n[[table style=\"border: none; width: 100%;\"]]\n[[row]]\n[[cell]]\n[[size 125%]]**项目编号：**SCP-6378[[/size]]\n[[/cell]]\n[[cell style=\"text-align: right;\"]]\n[[size 125%]]###850004|**4/6378级**##[[/size]]\n[[/cell]]\n[[/row]]\n[[row]]\n[[cell]]\n[[size 125%]]**项目等级：**Euclid[[/size]]\n[[/cell]]\n[[cell style=\"text-align: right;\"]]\n[[size 125%]]###850004|**机密**##[[/size]]\n[[/cell]]\n[[/row]]\n[[/table]]\n\n----\n\n[[include component:image-block | name=https://scp-wiki.wikidot.com/local--files/scp-6378/mercury.png | caption=NASA信使号航天探测器从太空中观测到的SCP-6378表面。| width=100%]]\n\n**特殊收容措施：**基金会将与世界各地的空间研究机构合作，以确保在可预见的未来不会有任何民用任务降落在SCP-6378的表面。如果出于任何原因必须执行此类任务，基金会将与相关航天机构密切合作，确保所有收集的数据都被替换成基金会地质部制作的人工模拟数据。\n\n**描述：**SCP-6378是一个以约0.4天文单位的距离围绕太阳公转的大型球形物体，公众称之为水星。它由主要由硅酸盐岩石组成的地壳和地幔以及一个大的金属地核组成。\n\nSCP-6378的表面由数十亿个类似真人大小的手的个体表面特征组成。每只手都显得独一无二且姿势各异。\n\n尽管由石头组成，但其表面特征能够缓慢移动。因其在时间推移时变化得很小，不经意的观察者不会注意到此变化。此外，SCP-6378表面的受损部分将随着时间的推移缓慢再生。\n\n基金会最近在任务内收集到的地震数据表明，SCP-6378的地下层包含多个空腔，其勾勒出了杂乱堆积在一起的人体轮廓的形状。这些人体与表面上的手形特征没有联系，并且其中的每个人体似乎都失去了手。\n\n**发现：**1987年，当基金会研究探测器SIEGEL-009降落在水星表面时，其发现了SCP-6378的异常性质。这项任务是作为ASTRA项目的一部分进行的，ASTRA项目是一系列太空任务，旨在提前于民用任务之前收集太阳系外星异常活动的信息。收到第一张SCP-6378表面的照片后，基金会立即将水星归类为SCP天体，并起草了当前的收容措施。\n\n**附录6378-01：**摘自数据文件抄本AT013-20110208-001[[footnote]]在注意到附近地表特征的明显移动后，由AT013表面探测器记录的3分钟的视频文件。[[/footnote]]。\n\n> [记录开始]\n> \n> 相机聚焦在附近的一个区域，那里的手形表面特征以比平均速度快得多的速度移动。表面特征似乎以一个点为基准向外移动，并在中间留下了一个空缺处。\n> \n> 相机放大了表面特征远离的点周围区域的视野。在那些手之间，可以观察到一个以前无法察觉到的的微小表面特征。\n> \n> 相机聚焦于新出现的表面特征。它看起来像一个婴儿的手。\n> \n> [记录结束]\n\n**附录6378-02：**根据SCP-6378表面的摄像数据，估计构成SCP-6378表面的手的总量约为2300亿只。这大致相当于曾经存在的人类估计数量的两倍。这一事实的意义尚不明晰。\n[[footnoteblock]]\n\n[[div class=\"footer-wikiwalk-nav\"]]\n[[=]]\n<< [[[SCP-6377]]] | SCP-6378 | [[[SCP-6379]]] >>\n[[/=]]\n[[/div]]\n\n[[include :scp-wiki-cn:component:license-box\n|author=CuteFish\n|translator=dingxiaoshu\n]]\n=====\n> **文件名：**mercury.png\n> **图像名：**在轨道上，朝着水星的地平线\n> **图像作者：**@@@@[[[https://www.flickr.com/photos/gsfc/|NASA戈达德太空飞行中心]]]\n> **授权协议：**CC BY 2.0\n> **来源链接：**@@@@https://www.flickr.com/photos/24662369@N07/5576757330\n=====\n[[include :scp-wiki-cn:component:license-box-end]]",
+  "tags": [
+    "euclid",
+    "scp",
+    "尸体",
+    "星际",
+    "球体",
+    "自我修复"
+  ],
+  "author": "dingxiaoshu",
+  "created_at": "2022-12-13T09:17:21+00:00",
+  "updated_at": "2022-12-13T13:41:46+00:00",
+  "rating": 5,
+  "_site": "scp-wiki-cn",
+  "_fullname": "scp-6378"
+}

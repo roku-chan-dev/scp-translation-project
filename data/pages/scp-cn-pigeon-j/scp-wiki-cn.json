@@ -1,0 +1,18 @@
+{
+  "title": "SCP-CN-Pigeon-J",
+  "content": "[[include :scp-wiki-cn:theme:basalt]]\n[[module CSS]]\n.email-example .collapsible-block-folded a.collapsible-block-link {\n    animation: blink 0.8s ease-in-out infinite alternate;\n}\n@keyframes blink {\n    0% { color: transparent; }\n    50%, 100% { color: #b01; }\n}\n.email {border: solid 2px #000000; width: 88%; padding: 1px 15px; margin: 10px; box-shadow: 0 1px 3px rgba(0,0,0,.5)}\n.email-example a.collapsible-block-link {font-weight: bold;}\n.tofrom {margin-left: 10px; margin-top: 5px; padding: 1px 15px; border-left: solid 3px maroon}\n[[/module]]\n[[module CSS]]\n:root {\n --logo: url(http://scpsandboxcn.wdfiles.com/local--files/collab%3Asite-cn-11/%E9%BB%91%E8%89%B2%E9%80%8F%E6%98%8E);\n --title: \"Site-CN-11援交部\";\n --subtitle: \"为员工谋福利，为站点求发展\";\n}\n[[/module]]\n[[module CSS]]\n:root {\n    --fnColor:  black;\n}\n[[/module]]\n[[include :scp-wiki-cn:credit:start]]\n* 项目名称：CN-Pigeon-J\n* 作者：[[*user Tinicia]]&[[*user HuaNianQWQ]]\n* 图源：[[*user fwUntidy]]\n* 板式：[http://scp-wiki-cn.wikidot.com/theme:basalt| 玄武岩]\n[[include :scp-wiki-cn:credit:end]]\n@@@@\n[[include :ah-sandbox:module:hormress-head\n|lang=cn\n|item-number=CN-Pigeon-J\n|item-class=Safe\n|clearance=3\n|special-clearance=yes\n|item-site=Site-CN-11\n]]\n@@@@\n[[include component:image-block name=https://s3.bmp.ovh/imgs/2022/04/30/57b64abb9948012a.jpg |caption=SCP-CN-Pigeon-J图片具有认知危害，应监督者议会要求已替换]]\n**特殊收容措施：**SCP-CN-Pigeon-J无需特殊收容措施。\n现SCP-CN-Pigeon-J-1已被放置于Site-CN-11援交部食堂，供员工食用\n@@@@\n**描述：**SCP-CN-Pigeon-J是一块直径约10cm，厚度约1cm，由小麦粉与馅料制成的饼。项目被放置于一个被编为SCP-CN-Pigeon-J-1的12cm×12cm×4cm的纸盒中。SCP-CN-Pigeon-J-1内部存在大量油渍[[span class=\"fnnum\"]].[[/span]][[span class=\"fncon\"]]经检测为动物油脂，疑似用鸽子提炼而成[[/span]]。\n已确认的异常现象有：\n* SCP-CN-Pigeon-J-1会散发出--诱人--香气引诱人员前往[[[http://scp-wiki-cn.wikidot.com| 打开]]][[[https://vdse.bdstatic.com//192d9a98d782d9c74c96f09db9378d93.mp4| SCP-CN-Pigeon-J-1]]]，而多数人员打开SCP-CN-Pigeon-J-1后，会发现SCP-CN-Pigeon-J-1内部不存在任何可食用的物品，且仅存在一个半径5cm，内部标注着Wikidot   SandBox的黑色同心圆。经研究表明，SCP-CN-Pigeon-J-1散发的香气有：\n * 浓郁的肉香气\n * 甜腻的蜜糖香气\n * Dr.[已编辑]的体香\nSCP-CN-Pigeon-J的内部馅料非固定。根据对少部分已食用过SCP-CN-Pigeon-J人员的询问，我们得知SCP-CN-Pigeon-J已出现的馅料有：\n * 催更预告信\n * 韭菜/雪菜/青菜\n * 不明固体\n * 脱骨宫保鸡丁\n * 稿纸\n * NaN只橘猫\n* 任何打开SCP-CN-Pigeon-J-1的人员，在随后8小时内，精神会因未知原因亢奋。工作效率较打开SCP-CN-Pigeon-J-1前提高约150%，无论该人员是否食用了SCP-CN-Pigeon-J，且目前尚未观测到任何后遗症[[span class=\"fnnum\"]].[[/span]][[span class=\"fncon\"]]如食用SCP-CN-Pigeon-J的人员，从未打开过SCP-CN-Pigeon-J-1或打开SCP-CN-Pigeon-J-1后，其内部不存在SCP-CN-Pigeon-J。则时效会延长至12~18h不等[[/span]]\n[[footnoteblock]]\n[[div class=\"email-example\"]]\n[[=]]\n------\n[[collapsible show=\"Site-CN-11全站通报\" hide=\"Site-CN-11全站通报\"]]\n[[<]]\n[[div class=\"email\"]]\n[[=]]\n目前已出现一例在食用SCP-CN-Pigeon-J后连续工作21小时后猝死的案例，请各位研究员注意工作时间，保证休息。\n[[/=]]\n[[/div]]\n[[/<]]\n[[/collapsible]]\n[[/=]]\n[[/div]]\n[[div class=\"footer-wikiwalk-nav\"]]\n[[=]]\n<< [[[SCP-CN-ZZZ-J]]] | SCP-CN-Pigeon-J | [[[SCP-CN-XSX-J]]] >>\n[[/=]]\n[[/div]]",
+  "tags": [
+    "safe",
+    "scp",
+    "site-cn-11",
+    "原创",
+    "合著",
+    "搞笑"
+  ],
+  "author": "Tinicia",
+  "created_at": "2024-10-23T02:31:50+00:00",
+  "updated_at": "2024-10-23T11:27:30+00:00",
+  "rating": 11,
+  "_site": "scp-wiki-cn",
+  "_fullname": "scp-cn-pigeon-j"
+}

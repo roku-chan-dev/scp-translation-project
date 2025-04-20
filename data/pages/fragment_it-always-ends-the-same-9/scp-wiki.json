@@ -1,0 +1,13 @@
+{
+  "title": "It Always Ends The Same 9",
+  "content": "[[include :scp-wiki:theme:black-highlighter-theme]]\n[[include :scp-wiki:theme:extra-black-highlighter-theme]]\n\n[[module CSS]]\n#page-title{display:none}\n\n :root{\n     --link-color: 221, 17, 17;\n     --visited-link-color: 221, 17, 17;\n     --hover-link-color: 221, 102, 17;\n}\n[[/module]]\n\n[[=image Shelves.jpg]]\n\nYou stand in the grocery store's aisle. You're too tired to cook.\n\nThe Beef Lasagna ready meal contains 518 calories, 24.4g of fat, 11.6g of saturated fat, 9.0g of sugar, 1.64g of salt. Ingredients include beef, tomato, cooked egg pasta, water, milk, tomato puree, cornflour, mature cheddar cheese, red wine, salt, yeast extract, beef extract, and whey. Microwave at high power, 4 minutes 30 seconds.\n\nThe Ham & Mushroom Tagliatelle contains 447 calories, 11.7g of fat, 5.2g of saturated fat, 6.0g of sugar, 1.96g of salt. Ingredients include cooked pasta, milk, reconstituted ham, mushroom, cream, cornflour, pork gelatine, sunflower oil, potato starch, and butter. Microwave at high power, 4 minutes.\n\n[[table style=\"border-collapse:collapse; width: 100%;\"]]\n[[row]]\n[[cell style=\"font-weight:bold;padding: 1.0em 1.0em; text-align: center; border: 8px solid #141618; background-color: #a3a1a6; width: 50%;\"]]\n[[[https://scp-wiki.wikidot.com/it-always-ends-the-same/offset/10 |Lasagna.]]]\n[[/cell]]\n[[cell style=\"font-weight:bold;padding: 1.0em 1.0em; text-align: center; border: 8px solid #141618; background-color: #a3a1a6; width: 50%;\"]]\n[[[https://scp-wiki.wikidot.com/it-always-ends-the-same/offset/11 |Tagliatelle.]]]\n[[/cell]]\n[[/row]]\n[[/table]]",
+  "tags": [
+    "fragment"
+  ],
+  "author": "Dysadron",
+  "created_at": "2023-04-03T20:59:01+00:00",
+  "updated_at": "2023-04-03T21:37:52+00:00",
+  "rating": 0,
+  "_site": "scp-wiki",
+  "_fullname": "fragment:it-always-ends-the-same-9"
+}

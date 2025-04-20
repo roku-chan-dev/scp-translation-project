@@ -1,0 +1,11 @@
+{
+  "title": "SCP-3000-JP - 2011年3月11日午後2時46分18秒",
+  "content": "[[include :scp-jp:theme:foxtrot]]\n[[include :scp-wiki:component:pride-highlighter |inc-lgbt= --]]]\n\n[[module css]]\n\ndiv#extra-div-1 {\n   background-image: var(--logo-image);\n}\n\n.credit{\n  max-height: 150px;\n  overflow-y: auto;\n}\n\n[[/module]]\n\n[[include :scp-jp:credit:start]]\n**⚠️コンテンツ警告:** この記事には**東日本大震災**に関する内容が含まれています。\n\n**タイトル:** SCP-3000-JP - 2011年3月11日午後2時46分18秒##gray|（PM 02:46:18, March 11th, 2011）##\n**著者:** [[*user Witherite]]\n**作成年:** 2022\n\n[[include :scp-jp:credit:cc4]]\n[[include :scp-jp:credit:end]]\n[[>]]\n⚠️コンテンツ警告↑\n[[/>]]\n\n[[module ListPages category=\"fragment\" parent=\".\" limit=\"1\" order=\"created_at\" offset=\"@URL|0\"]]\n%%content%%\n[[/module]]\n\n[!--\nhttp://scp-jp.wikidot.com/fragment:scp-3000-jp-witherite-0 \nhttp://scp-jp.wikidot.com/fragment:scp-3000-jp-witherite-1\n--]\n\n@@ @@\n\n@@ @@",
+  "tags": [],
+  "author": "Witherite",
+  "created_at": "2022-12-04T01:09:22+00:00",
+  "updated_at": "2022-12-08T04:09:52+00:00",
+  "rating": -7,
+  "_site": "scp-jp",
+  "_fullname": "deleted:scp-3000-jp-witherite"
+}

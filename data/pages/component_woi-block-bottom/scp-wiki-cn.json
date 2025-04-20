@@ -1,0 +1,14 @@
+{
+  "title": "街巷底部组件",
+  "content": "[[iftags 组件]]\n使用方法请参见[[[the-alleys-other-goif|指南]]].\n[[/iftags]]\n\n[[iftags -组件]]\n[[module CSS]]\n.scp-woi-block {\n    border-left: #000 1px solid;\n    border-right: #000 1px solid;\n    border-top: #000 1px solid;\n    border-bottom: none;\n    background-color: #fcfcfc;\n    color: #000000;\n}\n\n.scp-woi-title {\n    color: #292929;\n    font-weight: bolder;\n    border-bottom: #000 1px solid;\n    background: linear-gradient(to bottom, #C2EBF2, #7AC0CC);\n    padding-top: 0.3em;\n    padding-right: 1em;\n    padding-left: 1em;\n    padding-bottom: 1em;\n}\n\n.scp-woi-caption {\n    background-color: none;\n    padding-top: 0.5em;\n    padding-right: 2em;\n    padding-left: 2em;\n    padding-bottom: 1em;\n}\n\n.scp-woi-image {\n    background-color: #fff;\n    border: #000 1px solid;\n}\n\n.scp-woi-forum-0 { \n    background-color: none;\n    border-top: #000 1px solid;\n    padding-top: 1em;\n    padding-right: 1em;\n    padding-left: 1em;\n    padding-bottom: 0.5em;\n}\n[[/module]]\n\n[[/div]]\n\n[[div class=\"scp-woi-rate\" style=\"width: 100%;\"]]\n[[table style=\"margin: auto; border-collapse:collapse; width: 100%\"]]\n[[row]]\n[[cell style=\"width: 200px;\"]]\n@@                     @@\n[[/cell]]\n[[cell style=\"text-align: center; border: #000 1px solid; padding: 15px 0 15px; color: #4374D9; width: 70px; font-weight: bolder;\"]]\n[[size 130%]]**赞**[[/size]]\n{$good}\n👍\n[[/cell]]\n[[cell style=\"text-align: center; border: 0px solid; width: 2px;\"]]\n@@ @@\n[[/cell]]\n[[cell style=\"text-align: center; border: #000 1px solid; padding: 15px 0 15px; color: #CC3D3D; width: 70px; font-weight: bolder;\"]]\n[[size 130%]]**踩**[[/size]]\n{$bad}\n👎\n[[/cell]]\n[[cell style=\"width: 200px;\"]]\n@@                     @@\n[[/cell]]\n[[/row]]\n[[/table]]\n[[/div]]\n@@@@\n@@@@\n[[div class=\"scp-woi-forum-0\"]]\n++++ **评论({$number})**\n[[/div]]\n[[/div]]\n[[/iftags]]",
+  "tags": [
+    "ko",
+    "组件"
+  ],
+  "author": "Hppp",
+  "created_at": "2025-02-02T15:03:16+00:00",
+  "updated_at": "2025-02-02T15:03:30+00:00",
+  "rating": 0,
+  "_site": "scp-wiki-cn",
+  "_fullname": "component:woi-block-bottom"
+}

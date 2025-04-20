@@ -1,0 +1,22 @@
+{
+  "title": "SCP-CN-3000",
+  "content": "[[include component:jstyles]]\n[[include :scp-jp:fragment:cn3000douglasliu-style]]\n\n@@ @@\n\n[[div class=\"scp-rate-wrapper\"]]\n[[include :scp-wiki-cn:credit:start]]\n**タイトル:** SCP-CN-3000 - 衆多の節点、永垂不朽\n**原題:** SCP-CN-3000 - 众节点永垂不朽\n**著者:** ©︎[[*user DouglasLiu]] feat. [[*user DrStse]]、著者ページは[[[douglasliu-author-page | こちら]]]\n**作成年:** 2024\n\nすべてのキャラクターイラストは[[*user DrStse]]が描きました。\nエベレストの放送ノードは私とSt氏による共同制作で、メイン部分は私がBlenderで制作しました。\nそれ以外の素材（ロゴや固有ベクトルのフォントなど）はすべて私の作です。\n\n[[collapsible show=\"▼ 著者こぼれ話\" hide=\"▲ 著者こぼれ話\"]]\n余諾達と史恒鑫の物語は、当記事の最初期の構想におけるアイデアです。\n1～2年前から温めていたのですが、こんなとこで使うことになるとは思いもしませんでした。\n[[/collapsible]]\n\n[[include :scp-wiki-cn:credit:end]]\n[[/div]]\n\n@@ @@\n\n@@ @@\n\n[[include fragment:cn3000douglasliu-1]]\n[[include fragment:cn3000douglasliu-2]]\n\n@@ @@\n\n@@ @@\n\n@@ @@\n\n[[collapsible show=\"+ 脚注\" hide=\"- 脚注\"]]\n[[footnoteblock]]\n[[/collapsible]]",
+  "tags": [
+    "cn",
+    "cn3000",
+    "scp",
+    "thaumiel",
+    "儀式",
+    "共著",
+    "地球外",
+    "場所",
+    "注目記事",
+    "異次元"
+  ],
+  "author": "snoj",
+  "created_at": "2024-03-09T21:38:29+00:00",
+  "updated_at": "2024-05-29T16:16:30+00:00",
+  "rating": 57,
+  "_site": "scp-jp",
+  "_fullname": "scp-cn-3000"
+}

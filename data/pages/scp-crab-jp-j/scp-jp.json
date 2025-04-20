@@ -1,0 +1,23 @@
+{
+  "title": "SCP-CRAB-JP-J",
+  "content": "[[module css]]\n@import url('http://scp-jp.wdfiles.com/local--code/component%3Aaf2018theme');\n[[/module]]\n\n[[include :scp-jp-sandbox2:inc:headsubtitle | title=確保、カニ、保護]]\n\n[[>]]\n[[module Rate]]\n[[/>]]\n**カニテム番号:** SCP-CRAB-JP-J\n\n**オブジェクトクラブ:** Eucrab\n\n**蟹別収容プロトコル:** SCP-CRAB-JP-Jはサイト-81K,,a,,N,,i,,の専用水槽に収容されます。1日にか[[span class=\"ruby\"]]2[[span class=\"rt\"]]に[[/span]][[/span]]度、適量の餌を与えてください。SCP-CRAB-JP-Jと[[span class=\"ruby\"]]会話[[span class=\"rt\"]]かにわ[[/span]][[/span]]をする場合はレベル3職員立ち会いの元行われます。SCP-CRAB-JP-Jの[[span class=\"ruby\"]]画像[[span class=\"rt\"]]かにう[[/span]][[/span]]閲覧の際は[[span class=\"ruby\"]]時間[[span class=\"rt\"]]じかに[[/span]][[/span]]制限が設けられ、閲覧[[span class=\"ruby\"]]後[[span class=\"rt\"]]が[[/span]][[/span]]に自動でAクラブ記憶処理が行われます。\n\n**説明:** SCP-CRAB-JP-Jは異常性を持ったカニ(//Paguroidea//)です。SCP-CRAB-JP-Jは不明な方法で発声することができ、意思疎通が[[span class=\"ruby\"]]可能[[span class=\"rt\"]]かにう[[/span]][[/span]]となっています。\n\nSCP-CRAB-JP-Jを説明する際、文章中になるべく自然な[[span class=\"ruby\"]]形[[span class=\"rt\"]]かにち[[/span]][[/span]]で\"カニ\"を示す文字を入れない、或いはSCP-CRAB-JP-Jはカニではない等の発言[[footnote]]これはSCP-CRAB-JP-Jかに距離が離れていたとしても発動します。[[/footnote]]を行った場合、SCP-CRAB-JP-Jを中心とした半径10m内に悲鳴とも取れる音が10分[[span class=\"ruby\"]]間[[span class=\"rt\"]]かに[[/span]][[/span]]継続して鳴り続けます。それらを訂正したとしてもこの音を止めることは[[span class=\"ruby\"]]不可能[[span class=\"rt\"]]ふかにう[[/span]][[/span]]です。\n\nSCP-CRAB-JP-Jは磯での[[span class=\"ruby\"]]生物[[span class=\"rt\"]]かに[[/span]][[/span]]調査中に[[span class=\"ruby\"]]渡河丹[[span class=\"rt\"]]とかに[[/span]][[/span]]博士によって発見されました。当初は渡河丹博士の自室で\"クラブロン二世\"と言う名前で飼育されていましたが、渡河丹博士が前述した異常性を報告したためオブジェクトとして登録されることになりました。\n\n**[[span class=\"ruby\"]]補遺[[span class=\"rt\"]]かに[[/span]][[/span]]:** インタビュー記録SCP-CRAB-JP-J\n\n> **対象:** SCP-CRAB-JP-J\n>  \n> **インタビュアー:** 渡河丹博士\n>  \n> **<録音[[span class=\"ruby\"]]開始[[span class=\"rt\"]]かにし[[/span]][[/span]]>**\n>  \n> **渡河丹博士:** 元気かい？クラブロン二世。\n>  \n> **SCP-CRAB-JP-J:** ええ。至って健康だカニ。\n>  \n> **渡河丹博士:** 今日はだね、君がどうやって生まれたのだとかを聞きたいのだけれど。\n>  \n> **SCP-CRAB-JP-J:** 普通に母親が産んでくれたカニ。\n>  \n> **渡河丹博士:** では君の母もカニなんだね？\n>  \n> **SCP-CRAB-JP-J:** 勿論だカニ。\n>  \n> **渡河丹博士:** 君は最初から喋れたのかい？\n>  \n> **SCP-CRAB-JP-J:** あなたに出会うまでは分からなかったカニ。何せ海の中では喋れるやつもおらんカらニ。\n>  \n> **渡河丹博士:** なるほど。ありがとう。話は変わるけど、君は自分の姿を見たことはあるか？\n>  \n> **SCP-CRAB-JP-J:** 無いカニ。ただこのハサミと赤い体から私がカニであることは明確カニ。\n>  \n> (渡河丹博士が鏡を取り出しSCP-CRAB-JP-Jに見せる)\n> \n> (以降、20分以上SCP-CRAB-JP-Jが原因と思われる絶叫がサイト-81KN全体で鳴り響いた)\n> **<録音終了>**\n>  \n> **終了報告書:** SCP-CRAB-JP-Jに[[span class=\"ruby\"]]鏡[[span class=\"rt\"]]かにみ[[/span]][[/span]]を見せる行為は以降禁止されます。渡河丹博士には減給処分が降りました。\n\n[[collapsible show=\"+ SCP-CRAB-JP-Jの画像を表示する\" hide=\"- 5秒後にAクラブ記憶処理が行われます。\"]]\n\n[[include component:image-block\n|name=HermitCrab_NOAA.jpg\n|caption=SCP-CRAB-JP-J\n]]\n\n[[/collapsible]]",
+  "tags": [
+    "af2018",
+    "esoteric-class",
+    "jp",
+    "scp",
+    "ジョーク",
+    "メタ",
+    "水中",
+    "生命",
+    "甲殻類",
+    "知性",
+    "節足動物"
+  ],
+  "author": "AMADAI",
+  "created_at": "2018-04-01T12:05:17+00:00",
+  "updated_at": "2024-02-21T12:33:44+00:00",
+  "rating": 152,
+  "_site": "scp-jp",
+  "_fullname": "scp-crab-jp-j"
+}

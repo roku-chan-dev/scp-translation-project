@@ -1,0 +1,20 @@
+{
+  "title": "049 But Logos",
+  "content": "[[include :scp-wiki:theme:black-highlighter-theme]]\n[[module CSS]]\n:root,\n:root:lang(cn) {\n    --logo-image: url(\"https://scp-wiki.wikidot.com/local--files/art:049-but-logos/049_but_Foundation_w.svg\");\n    --header-title: \"The SCP Hospitallers\";\n    --header-subtitle: \"Scourge, Curse, Pestilence\";\n}\n[[/module]]\n[[>]]\n[[module rate]]\n[[/>]]\n\n[[toc]]\n\n= \"I mean, we must **S**ave the **C**ommon **P**eoples from the Pestilence.\"\n\n[[=]]\n+ SCP-049 but GoIs\n[[/=]]\n----\n[[=]]\n++ SCP-049 but SCP Foundation\n[[/=]]\n\n[[=image https://scp-wiki.wikidot.com/local--files/art:049-but-logos/049_but_Foundation.svg width=\"40%;\"]]\n\n= **The SCP Hospitallers**\n----\n[[=]]\n++ SCP-049 but Are We Cool Yet?\n[[/=]]\n\n[[=image https://scp-wiki.wikidot.com/local--files/art:049-but-logos/049_but_AWCY.svg width=\"40%;\"]]\n\n= **Are We Cured Yet?**\n\n\n----\n[[=]]\n++ SCP-049 but UIU\n[[/=]]\n\n[[=image https://scp-wiki.wikidot.com/local--files/art:049-but-logos/049_but_UIU.svg width=\"40%;\"]]\n\n= **Unusual Illness Unit, Federal Bureau of Investigation**\n\n\n----\n[[=]]\n++ SCP-049 but GOC\n[[/=]]\n\n[[=image https://scp-wiki.wikidot.com/local--files/art:049-but-logos/049_but_GOC.svg width=\"40%;\"]]\n\n= **The Global Operation Coalition**\n\n\n----\n\n\n\n\n\n\n\n\n\n\n[[=]]\n+ SCP-049 but Tale Series / Canons\n[[/=]]\n----\n[[=]]\n++ SCP-049 but Whore of Blood\n[[/=]]\n\n[[=image https://scp-wiki.wikidot.com/local--files/art:049-but-logos/049_but_Whore.svg width=\"80%;\"]]\n\n= **Doctor of Blood**\n\n\n----\n\n\n\n\n\n\n\n\n\n[[include :scp-wiki:component:license-box]]\n=====\n> **Filename:** 049_but_Foundation_w.svg\n> **Author:** [[*user Dr Hormress]], [[*user woedenaz]]\n> **License:** CC BY-SA 3.0\n> **Source Link:** [https://scp-wiki.wikidot.com/art:049-but-logos SCP Foundation Wiki]\n\n> **Filename:** 049_but_Foundation.svg\n> **Author:** [[*user Dr Hormress]], [[*user woedenaz]]\n> **License:** CC BY-SA 3.0\n> **Source Link:** [https://scp-wiki.wikidot.com/art:049-but-logos SCP Foundation Wiki]\n\n> **Filename:** 049_but_UIU.svg\n> **Author:** [[*user Dr Hormress]], [[*user woedenaz]]\n> **License:** CC BY-SA 3.0\n> **Source Link:** [https://scp-wiki.wikidot.com/art:049-but-logos SCP Foundation Wiki]\n\n> **Name:** All other images\n> **Author:** [[*user Dr Hormress]]\n> **License:** CC BY-SA 3.0\n> **Source Link:** [https://scp-wiki.wikidot.com/art:049-but-logos SCP Foundation Wiki]\n=====\n[[include :scp-wiki:component:license-box-end]]",
+  "tags": [
+    "_cc",
+    "_licensebox",
+    "artwork",
+    "goi-art",
+    "logo",
+    "plague-doctor",
+    "remixcon2023",
+    "scp-art"
+  ],
+  "author": "Dr Hormress",
+  "created_at": "2023-08-24T11:13:39+00:00",
+  "updated_at": "2024-03-28T10:00:52+00:00",
+  "rating": 107,
+  "_site": "scp-wiki",
+  "_fullname": "art:049-but-logos"
+}

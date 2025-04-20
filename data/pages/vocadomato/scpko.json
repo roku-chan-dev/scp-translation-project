@@ -1,0 +1,14 @@
+{
+  "title": "실험실로 쓰려고 만든 작가페이지",
+  "content": "[[include info:start]]\n**작가:** [[*user vocadomato]]\n반가워용\n[[include info:end]]\n\n[[div id=\"my-org-contents\"]]\n[http://scpko.wikidot.com/fragment:vocadomato-1 > 태그심화검색!]\n\n@@ @@\n\n+ 저의 작품들! (적다)\n[[module ListPages category=\"_default\" created_by=\"vocadomato\" separate=\"no\" limit=\"250\" perPage=\"250\" tags=\"scp\" order=\"title\"]]\n* %%title_linked%%\n[[/module]]\n\n@@ @@\n\n[[collapsible show=\"  　　.　　　.　　　.  \" hide=\"- 헉!\"]]\n잠깐, 이건 설마 [http://scpko.wikidot.com/vocadomato/offset/1 숨겨진?]\n[[/collapsible]]\n[[/div]]\n\n[[module ListPages parent=\".\" category=\"fragment\" limit=\"1\" order=\"created_at\" offset=\"@URL|2\"]]\n[[div class=\"meta-title\"]]\n%%title%%\n[[/div]]\n\n%%content%%\n[[/module]]",
+  "tags": [
+    "ko",
+    "작가"
+  ],
+  "author": "vocadomato",
+  "created_at": "2021-12-14T16:13:44+00:00",
+  "updated_at": "2022-10-06T05:54:24+00:00",
+  "rating": 12,
+  "_site": "scpko",
+  "_fullname": "vocadomato"
+}

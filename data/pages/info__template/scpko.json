@@ -1,0 +1,14 @@
+{
+  "title": "정보 모듈 템플릿",
+  "content": "[[module CSS]]\n@import url(https://scpko.wdfiles.com/local--code/info%3Astyle/1);\n[[/module]]\n\n> The Credit Module was created by [[*user c-take]], [[*user Physicslike]], [[*user sinazugawa]] and [[*user 7happy7]] for the [http://ja.scp-wiki.net/ Japanese wiki], adapted by [[*user dr_grom]] for the [http://scp-wiki-de.wikidot.com/credit:start German wiki], and adapted by [[*user Croquembouche]] and [[*user Rimple]] for the English wiki (as the Info module).\n\n[[div style=\"border: 1px solid #ddd; padding: 1em;\"]]\n+ 사용법\n\n당신의 페이지 가장 위에, 다음 코드를 평점 모듈과 {{[[>]]}} **대신** 입력해주세요. {{[[include ...]]}} 사이에 있는 것 중 필요 없는 것은 지우시고 필요한 내용은 추가해주세요.\n\n[[div class=\"code\"]]\n{{@@[[include :scpko:info:start]]@@\n##666|@@**SCP-XXXX:** 별칭@@##\n##666|@@**이야기/GOI 서식의 이름**@@##\n##666|@@**저자:** [[*user 저자명]]@@##\n##666|@@**원작:** 원작으로 가는 링크@@##\n##666|@@**역자:** [[*user 역자명]]@@##\n##666|@@**이미지:** 이미지 라이선스 관련 정보@@##\n##666|그 외 필요한 모든 것##\n@@[[include :scpko:info:end]]@@}}\n[[/div]]\n\n만약 작품에 평점 모듈이 없다면 이하의 {{[[include]]}}로 대체해서 사용해주세요.\n\n[[div class=\"code\"]]\n{{@@[[include :scpko:info:start-standalone]]@@\n@@[[include :scpko:info:end-standalone]]@@}}\n[[/div]]\n\n경고: \"미리보기\" 버튼을 이용해서 적용된 페이지를 본다면, 정보 모듈은 올바르게 작동하지 않습니다. 저장을 한 후 확인해주세요.\n\n참고: 페이지가 있는 ListPages 모듈은 지원하지 않습니다. {{perPage=\"250\"}}으로 한 페이지 전부 보이도록 해주세요.\n\n[[collapsible show=\"+ 이 모듈과 연관된 페이지 보기\" hide=\"- 이 모듈과 연관된 페이지 숨기기\"]]\n* [[[info:start|info:start]]]\n* [[[info:start-standalone|info:start-standalone]]]\n* [[[info:more|info:more]]] (도태됨)\n* [[[info:more-standalone|info:more-standalone]]] (도태됨)\n* [[[info:end|info:end]]]\n* [[[info:end-standalone|info:end-standalone]]]\n* [[[info:style|info:style]]]\n* [[[info:_template|info:_template]]]\n[[/collapsible]]\n\n[[/div]]\n\n-----\n\n%%content%%",
+  "tags": [
+    "en",
+    "구성요소"
+  ],
+  "author": "Aiken Drum",
+  "created_at": "2019-10-28T16:41:43+00:00",
+  "updated_at": "2023-12-22T07:23:50+00:00",
+  "rating": 1,
+  "_site": "scpko",
+  "_fullname": "info:_template"
+}

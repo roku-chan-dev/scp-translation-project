@@ -1,0 +1,21 @@
+{
+  "title": "SCP-1741-JP",
+  "content": "[[>]]\n[[module rate]]\n[[/>]]\n\n[[include component:image-block\n|name=https://scp-wiki.wikidot.com/local--files/scp-1741-jp/%E5%85%A5%E5%8F%A3.jpg\n|caption=Tunnel entrance\n|width=300px\n]]\n**Item No.:** SCP-1741-JP\n\n**Object Class:** Safe\n\n**Special Containment Procedures:** SCP-1741-JP's entrance has been sealed with concrete and covered with soil, sand, and other materials to conceal it from outsiders. No further exploration or investigation into SCP-1741-JP is to be permitted.\n\n**Description:** SCP-1741-JP is a subterranean facility, accessible via a tunnel located near the former ██████ village in █████████ Prefecture, Japan. Although the tunnel has man-made objects, such as lights and a lift, none of them are useable due to disrepair; no paperwork or other evidence leading to their origins has been found. The tunnel descends in a sharp slope, and after 100m, the depth gauge indicates an abnormal depth of over 70,000m underground. At the tunnel's deepest point is a bulkhead door that leads to SCP-1741-JP, its opening mechanism powered through unknown means. A small, metal placard with the phrase [[[http://ja.scp-wiki.net/scp-3790 |”Department of Abnormalities”]]] written in Japanese is attached to the bulkhead's control panel.\n\nFour rooms are contained within SCP-1741-JP: A bedroom with several beds, a warehouse with stocked food and materials, a surveillance room with several monitors showing the entire facilities, hallways included, and a room that cannot be accessed. All rooms have lightning, but a lack of power and malfunctions have rendered them unusable. The wiring was cut from underground, and it is unknown how power was being supplied.\n\nIn addition to mundane items, several Foundation-made items were contained in the warehouse. The following is a list of said items.\n\n* Foundation Preserved Bread, from Site-17\n* Fast-acting amnestic treatment for anti-memetic contamination, from Site-8120\n* Energy drinks developed by Foundation front companies\n\nIt's unknown how these Foundation-made items came to be in SCP-1741-JP.\n\n[[include component:image-block\n|name=https://scp-wiki.wikidot.com/local--files/scp-1741-jp/%E9%83%A8%E5%B1%8B.png\n|caption=Inside of the inaccessible room, viewed from the surveillance room's monitor.（Brightness adjusted）\n|width=300px\n]]\nThe monitors in the surveillance room are still useable by supplying power from outside.  It should be noted that the inaccessible room's interior can also be viewed. The surveillance feed shows that the inaccessible room has concrete floors and walls, with a circular hole in the ceiling. A small source of light comes from the hole, which seems to come from the outside.\n\nThe inaccessible room prevents entry through a bulkhead door with a ten 40-character hiragana input panel. This bulkhead is powered by an unknown source, similar to the tunnel's, and a passcode is able to be entered. However, there have been no recorded successful entry attempts. Attempts to brute-force the passcode or bypass it by destroying the panel have been unsuccessful. A metal placard is attached to the bulkhead's input panel, with a scratched-up inscription reading \"Memetic water source\".\n\n[[include :scp-wiki:component:license-box\n|author=Idonootoko, MaxyFran73 and newnykacolaquantum\n]]\n=====\nImage sources:\n\nhttps://pixabay.com/ja/%E4%BA%BA%E9%96%93-%E7%94%B7-%E5%8A%B4%E5%83%8D%E8%80%85-%E3%83%80%E3%83%A0-%E3%82%AA%E3%83%BC%E3%83%90%E3%83%BC%E3%83%95%E3%83%AD%E3%83%BC-%E7%A9%B4-%E3%82%AA%E3%83%BC%E3%83%97%E3%83%8B%E3%83%B3%E3%82%B0-3092295/\n\nhttps://pixabay.com/ja/%E3%82%A6%E3%82%A3%E3%83%B3%E3%83%89%E3%82%A6-%E5%85%89-%E6%9A%97%E3%81%84-%E5%95%86%E5%B7%A5%E4%BC%9A%E8%AD%B0%E6%89%80-%E3%82%B0%E3%83%AD%E3%83%BC-%E6%B0%97%E5%91%B3%E3%81%AE%E6%82%AA%E3%81%84-%E5%AD%A4%E7%8B%AC%E3%81%AA-2118232/\n\n=====\n[[include :scp-wiki:component:license-box-end]]",
+  "tags": [
+    "_cc",
+    "_jp",
+    "abnormalities",
+    "international",
+    "location",
+    "memetic",
+    "safe",
+    "scp",
+    "subterranean"
+  ],
+  "author": "newnykacolaquantum",
+  "created_at": "2023-09-26T11:12:10+00:00",
+  "updated_at": "2024-04-17T21:18:38+00:00",
+  "rating": 11,
+  "_site": "scp-wiki",
+  "_fullname": "scp-1741-jp"
+}

@@ -1,0 +1,14 @@
+{
+  "title": "본사 도전과제 전시대",
+  "content": "[[include component:achievement-en-module-base \n\n|en1={$en1}|en1=false|en2={$en2}|en2=false|en3={$en3}|en3=false|en4={$en4}|en4=false|en5={$en5}|en5=false|en6={$en6}|en6=false|en7={$en7}|en7=false|en8={$en8}|en8=false|en9={$en9}|en9=false|en10={$en10}|en10=false|en11={$en11}|en11=false|en12={$en12}|en12=false|en13={$en13}|en13=false|en14={$en14}|en14=false|en15={$en15}|en15=false|en16={$en16}|en16=false|en17={$en17}|en17=false|en18={$en18}|en18=false|en19={$en19}|en19=false|en20={$en20}|en20=false|en21={$en21}|en21=false|en22={$en22}|en22=false|en23={$en23}|en23=false|en24={$en24}|en24=false|en25={$en25}|en25=false|en26={$en26}|en26=false|en27={$en27}|en27=false|en28={$en28}|en28=false|en29={$en29}|en29=false|en30={$en30}|en30=false\n\n|ennum={$num}]]",
+  "tags": [
+    "en",
+    "구성요소"
+  ],
+  "author": "Salamander724",
+  "created_at": "2020-06-28T11:21:11+00:00",
+  "updated_at": "2020-06-28T12:09:52+00:00",
+  "rating": 0,
+  "_site": "scpko",
+  "_fullname": "component:achievement-en-module"
+}

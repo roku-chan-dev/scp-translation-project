@@ -1,0 +1,11 @@
+{
+  "title": "SCP-8167",
+  "content": "[[module Rate]]\n[[>]]\n[[module CSS]]\n/* Optional custom styling */\n[[/module]]\n[[/>]]\n\n**Item #:** SCP-8167  \n\n**Object Class:** Euclid  \n\n**Special Containment Procedures:**  SCP-8167 is contained within a 3 m × 3 m × 3 m reinforced observation cell at Site-44. The cell is to remain illuminated by a single 40-watt incandescent bulb at all times. No reflective surfaces are permitted within the containment area.\n\nObservation of SCP-8167 is restricted to closed-circuit video systems equipped with automatic audio suppression. Under no circumstances are personnel to engage in verbal communication with SCP-8167 without prior written authorization from Site Command. Personnel exposed to SCP-8167's voice are to report for psychological evaluation and, if necessary, Class-C amnestic therapy.\n\n**Description:**  SCP-8167 is a humanoid entity approximately 1.75 meters in height. The entity possesses no discernible facial features, hair, or pigmentation; its surface is matte gray and lacks any identifiable dermal patterning. SCP-8167 is anatomically consistent with a human adult, though internal structure remains unknown, as SCP-8167 has not consented to medical examination and resists all invasive attempts at analysis.\n\nWhen addressed directly, SCP-8167 responds in the primary language of the speaker. The entity replicates the subject’s speech patterns with complete accuracy, including tone, inflection, and emotional cadence. The content of its speech frequently references private memories, internal thoughts, or undisclosed information relevant to the individual engaging it.\n\nSubjects exposed to SCP-8167’s voice experience increasing cognitive disruption proportional to exposure length and emotional resonance. Symptoms include anxiety, paranoia, dissociation, derealization, and in extreme cases, the development of intrusive false memories or identity destabilization.",
+  "tags": [],
+  "author": "John Delvane",
+  "created_at": "2025-04-19T16:04:48+00:00",
+  "updated_at": "2025-04-19T16:06:01+00:00",
+  "rating": -5,
+  "_site": "scp-wiki",
+  "_fullname": "scp-8167"
+}

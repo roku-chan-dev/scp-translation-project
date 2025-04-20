@@ -1,0 +1,14 @@
+{
+  "title": "저작자 표시형 평가 모듈:otherwise",
+  "content": "[[/div]]\n[[div_ class=\"credit\" style=\"text-align:right; margin-top: 0.5em;\"]]\n[[a href=\"#u-credit-otherwise\"]]기타 라이선스[[/a]]\n[[/div]]\n[[div_ [[iftags +유산]]style=\"display: flex;\"[[/iftags]] class=\"Dendo\"]]\n[[div_ class=\"heritage-rating-module\"]]\n[[div_ class=\"heritage-emblem\"]]\n[[image https://scp-jp.wdfiles.com/local--files/component:heritage-rating/scp-heritage-v3.png link=\"[[iftags +유산 +en]]heritage-collection[[/iftags]][[iftags +유산 +jp]]heritage-collection-jp[[/iftags]][[iftags +유산 +fr]]patrimoine-francais-de-la-fondation-scp[[/iftags]]\" style=\"max-width: none;\"]]\n[[/div]]\n[[module Rate]]\n[[/div]]\n[[/div]]\n[[div_ class=\"modalbox-ratemodule\" [[iftags +유산]]style=\"display:none;\"[[/iftags]]]]\n[[module Rate]]\n[[/div]]\n[[/div]]\n[[/div]]\n[[/div]]\n[[div_ id=\"credit-otherwise\"]]\n[[div_ class=\"fader\"]]\n[[iframe https://scpko.wikidot.com/credit:backmodule/code/3 ]]\n[[/div]]\n[[div_ class=\"modalcontainer\"]]\n[[div_ class=\"modalbox [[iftags +유산]]heritage[[/iftags]]\"]]\n[[div_ class=\"modalbox-title\"]]\n++* 기타\n[[/div]]\n[[div_ class=\"credit otherwise\"]]",
+  "tags": [
+    "jp",
+    "템플릿"
+  ],
+  "author": "Elfen_mathL",
+  "created_at": "2018-08-22T06:12:55+00:00",
+  "updated_at": "2024-08-17T07:09:32+00:00",
+  "rating": 0,
+  "_site": "scpko",
+  "_fullname": "credit:otherwise"
+}

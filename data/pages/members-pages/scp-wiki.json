@@ -1,0 +1,13 @@
+{
+  "title": "Members Pages",
+  "content": "[[module Redirect destination=\"http://www.scp-wiki.net/authors-pages\"]]",
+  "tags": [
+    "redirect"
+  ],
+  "author": "Zyn",
+  "created_at": "2018-05-16T05:05:10+00:00",
+  "updated_at": "2022-09-14T20:06:57+00:00",
+  "rating": 7,
+  "_site": "scp-wiki",
+  "_fullname": "members-pages"
+}

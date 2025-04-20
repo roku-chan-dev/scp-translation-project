@@ -1,0 +1,21 @@
+{
+  "title": "SCP-5836",
+  "content": "[[>]]\n[[module rate]]\n[[/>]]\n\n[[include :scp-jp:theme:black-highlighter-theme]]\n\n[[include :scp-wiki:component:pride-highlighter |inc-bi-alt= --]]]\n\n[[module CSS]]\n@import url('https://fonts.googleapis.com/css?family=Satisfy&display=swap');\n\ndiv.info-container > div.collapsible-block {\n    padding: 0 !important;\n    margin: 0 !important;\n    box-shadow: none !important;\n}\n    .imgcontainer {\n        width: 165;\n        height: 165;\n        padding: 0px 0px 0px 0px;\n    }\n.page {\n    display: block;\n    overflow: hidden;\n    font-family: 'Satisfy', cursive;\n    font-size: 26px;\n    background-attachment: scroll;\n    background-clip: border-box;\n    background-color: transparent;\n    background-image: linear-gradient(to top ,rgb(202, 219, 228) 0%, rgb(231, 233, 220) 8%);\n    background-origin: padding-box;\n    background-position: 0px 8px;\n    background-repeat: repeat;\n    background-size: 100% 26px;\n    border: 1px solid #CCC;\n    border-radius: 10px;\n    padding: 10px 10px;\n    margin-bottom: 10px;\n    box-shadow: 0px 1px 3px rgba(0, 0, 0, 0.2)\n    }\n.page p,\n.page ul {\n    line-height: 26px;\n    margin: 0;\n}\n\n[[/module]]\n\n[[include :scp-wiki:component:cd-ver2\n|lv=1\n|item=SCP-5836\n|class=Safe\n|site-responsible=Site-73\n|director= Mr. Torgue\n|research-head= Dr. Jan Conner\n|assigned-task-force= MTF%20Sigma-39%20%22Got%20A%20Light?%22\n]]\n\n**確保収容プロトコル:** SCP-5836のすべての実例は、サイト-73の危険物棟にある安全な異常物品ロッカーにて保管されます。供給量には限りがあるため、SCP-5836を使用した実験は、サイト管理官とレベル4の研究員1名以上の承認が必要です。SCP-5836の活性化による認識災害効果を打ち消すために、各実験後に記憶補強剤が投与されます。\n\n**説明:** SCP-5836-1から-13は、15cmの有煙火薬導火線と標準的な銅および硝酸水銀雷管を備えたニトログリセリンダイナマイトの個々の実例を指します。SCP-5836が付属の導火線と雷管[[footnote]]芯または雷管の交換、あるいは他の手段による爆発は、標準的なダイナマイト爆発のみを生じさせました。[[/footnote]]を介して爆発した場合、その爆発を目視した人物は、ニトログリセリンダイナマイトの特許以外のアルフレッド・ベルンハルト・ノーベルの特許に関するすべての知識を失うことになります。この効果は、爆発を記録したビデオ記録にも反映されます。\n\n**発見:** SCP-5836の効果は、ミネソタ大学ロチェスター校でノーベルの遺産を研究している歴史学生J███・リリアードが、恐らくはSCP-5836実例が関与していると思わしき初期爆発実験の映像を視聴したときに発見されました。視聴後、リリアードはルームメイトに向かって叫び始め、\"数ヶ月間の研究を一瞬で忘れてしまった\"及び\"月曜日のプレゼンまでにノーベルの持つ300件余りの特許[[footnote]]アルフレッド・ノーベルの名を冠した特許は350件以上あり、その大部分は兵器に関するものです。[[/footnote]]について勉強する時間がない\"と主張しました。\n\nリリアードは薬物検査を受け、大学生によくあることである、最終選考前の神経衰弱に苦しんでいると仮定して、大学のカウンセラーに送られました。リリアードが突然の恣意的記憶喪失(selective amnesia)となった背後にある原因は、自分が見たビデオの内容にあると繰り返し主張したことで、学部内の財団資産が警戒にあたりました。\n\n機動部隊シグマ-39 \"火を得たか？\"が派遣され、ノーベルの収集された遺品を捜索し、異常な影響の出所を突き止めました。\n\n**補遺 5836-A**\n\n以下は、機動部隊シグマ-39がスウェーデンのストックホルムにあるノーベル博物館から回収した遺品より発見された手書きの日記です。\n\n[[div class=\"page\"]]\n**1888年、4月15日、日曜日**\n@@ @@ \n2日前、私は驚くべき死亡記事を読んだ - 私自身のだ。私の兄リュドビックは、安らかに眠り、木曜日に死んだ。いくつかの著名なフランス新聞は、死んだのは私だと勘違いしたのだ。\n@@ @@ \nそのうちの1つが \"Le marchand de la mort est mort \"という文章を印刷したが、これは大まかに訳すと \"死の商人は死んだ \"という意味だと思われる。\n@@ @@\n死の商人。私は戦争と産業、両方の道具をたくさん作ってきた。だが、私はこのように名付けられた - それは私を立ち止まらせてくれた。ノーベルの名を冠する遺産、その遺産における自分の役割について考えさせてくれた。私は私たちの名前を戦争や死と一緒に考えられて欲しくない。私の父と兄の魂を、彼らの魂を休ませて欲しい、こんなことよりもはるかに良い報いを受けるべきなのだから。\n@@ @@\n平和を知るためには、まず戦争の準備をしなければならないと言われてきた。\n私は戦争の兵器を作ることに人生を費やしてきた。\n平和を受け入れる時が来たのかもしれない。\n[[/div]]",
+  "tags": [
+    "_大爆発",
+    "en",
+    "jam-con2020",
+    "safe",
+    "scp",
+    "化学",
+    "武器",
+    "歴史",
+    "記憶影響"
+  ],
+  "author": "sharkcrash",
+  "created_at": "2020-05-19T04:15:25+00:00",
+  "updated_at": "2022-04-19T16:11:58+00:00",
+  "rating": 20,
+  "_site": "scp-jp",
+  "_fullname": "scp-5836"
+}

@@ -1,0 +1,14 @@
+{
+  "title": "光滑的石头",
+  "content": "[[module css]]\n@import url('https://fonts.googleapis.com/css2?family=Caveat:wght@400;700&display=swap');\n.page {\n    display: block;\n    overflow: hidden;\n    font-family: \"Caveat\", cursive;\n    font-style: normal;\n    font-size: 140%; \n\n    background-attachment: scroll;\n    background-clip: border-box;\n    background-color: transparent;\n    background-image: linear-gradient(to top ,rgb(202, 219, 228) 0%, rgb(231, 233, 220) 8%);\n    background-origin: padding-box;\n    background-position: 0px 8px;\n    background-repeat: repeat;\n    background-size: 100% 20px; \n\n    border: 1px solid #CCC;\n    border-radius: 10px;\n    padding: 10px 10px;\n    margin-bottom: 10px; \n\n    box-shadow: 0px 1px 3px rgba(0, 0, 0, 0.2)\n    }\n.page p,\n.page ul {\n    line-height: 20px;\n    margin: 0;\n}\n[[/module]]\n\n[[div class=\"page\"]]\n\n\n妈妈，\n\n我又一次搞砸了。我不想这样子，真的。我只是记不住它曾有什么不同。\n\n我已迷失，漂浮在这一切的海洋中，当我挣扎着呼吸时，我能感受到暗流慢慢将我向下拽，我不得不承认你是对的。我从未准备好。没有你我都不知道我是谁。我需要你。\n\n--我需要像以前一样哭泣，当你告诉我我--\n\n我都认不出我自己了。我不记得你之前的任何事了。我甚至不确定我是否仍记得你，至少不记得任何真实的、与你有关的东西。与我有关的。\n\n我什么都不//想要//。不，不，那其实是个谎言。也许有办法知道谁对谁错，以及你是谁，没有一丝怀疑，我就能继续前进。\n\n但生活不是一股清流。生活就像一个泥泞、浑浊的湖，浮渣浮上水面，又随意地沉下去，那些面孔在水下时隐时现，窃窃私语着它们自己的秘密。游到水底并未让我离明白更进一步。\n\n我希望被温柔地对待。我希望有人抱着我，告诉我，我是美丽而完美的，我不曾有任何错，但我无法接受。我从治疗师和短暂的友谊中按剂量服用它，--和男人和男人和男人和我--\n\n我也需要着痛苦。我需要完美融合了痛苦和幸福的矛盾味道在我舌尖融化。我需要变得愤怒，我需要憎恨别的所有人和我。我需要把我所剩下的人形碎片黏在一起。\n\n我需要有人再次告诉我我一文不值，我需要些具体的东西，一些我能//变成//的。如果我把它磨成足够微小的粉末，我便可以用它来做一座沙堡。建条护城河，那样海浪就不会再冲垮我，让我变成飞扬的尘土。\n\n--我的身体是个临时的--\n\n--我的身体是个火坑--\n\n我的身体是一个熔炉。我整天整天地空着，呼吸着灰烬和煤烟，握紧漆黑的双手默默祈祷，希望有一天它会最终充满我的肺。其他日子里，我活着，火焰舔着我的脸，蒸发着永无机会落下的眼泪。无处可去的仇恨燃烧着我。压力将我撕裂，我这辈子都记不起这些碎片应该在哪里了。\n\n我的头脑已不再是从前的样子。我不能孤身一人，不能空闲着。一切离我而去，太快了。\n\n在某种程度上，像你一样。\n\n--我想你了--\n\n我不再是个人类。 --你爱我吗？--\n\n这会变好吗？\n\n我从前的英语老师曾经告诉我，我们都可以看成岩石，生活是条流速很快的小溪，它会慢慢地把我们的棱角和外壳抹去，让我们变成不同的东西。她没说会变得更好。只是会不一样。\n\n--错过边缘很奇怪吗？--\n\n别在意。挺好的。我也是。希望一切都好。代我向Carmen问好。\n\n-Ché\n\n[[/div]]",
+  "tags": [
+    "wanderers",
+    "记载"
+  ],
+  "author": "Just F",
+  "created_at": "2022-06-25T08:57:46+00:00",
+  "updated_at": "2022-06-26T02:01:09+00:00",
+  "rating": 1,
+  "_site": "scp-wiki-cn",
+  "_fullname": "wanderers:smooth-stones"
+}

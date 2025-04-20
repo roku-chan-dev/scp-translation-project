@@ -1,0 +1,22 @@
+{
+  "title": "SCP-7432",
+  "content": "[[include :scp-wiki:theme:blankstyle fade=a]]\n[[module css]]\nbody {\n    background-image: linear-gradient(\n        to bottom,\n        #BCBCBC, #BCBCBC 90px,\n        #BCBCBC 90px, #e0e0e0 200px,\n        #e0e0e0 200px, #e0e0e0 100%);\n    background-repeat: no-repeat;\n}\n[[/module]]\n[[>]]\n[[module Rate]]\n[[/>]]\n[[module ListPages category=\"fragment\" parent=\".\" order=\"name\" limit=\"1\" offset=\"@URL|0\"]]\n%%content%%\n[[/module]]\n\n[!-- https://scp-wiki.wikidot.com/fragment:scp-7432-1 P1 --]\n[!-- https://scp-wiki.wikidot.com/fragment:scp-7432-2 P2 --]\n[!-- https://scp-wiki.wikidot.com/fragment:scp-7432-3 P3 --]\n[!-- https://scp-wiki.wikidot.com/fragment:scp-7432-4 P4--]\n\n@@ @@\n\n[[include :scp-wiki:component:earthworm\n| first=false| last=false | hub=yes\n| previous-url=/scp-7396| previous-title=J is for \"Jetsam\"\n| next-url=/scp-7450 | next-title=L is for \"Lamentations\"\n| hub-url=/scp-anthology-hub | hub-title=SCP ANTHOLOGY Hub\n]]\n[[div class=\"footer-wikiwalk-nav\"]]\n[[=]]\n<< [[[SCP-7431]]] | SCP-7432| [[[SCP-7433]]] >>\n[[/=]]\n[[/div]]\n\n[[include :scp-wiki:component:license-box]]\n[[include :scp-wiki:component:license-box-end]]",
+  "tags": [
+    "_licensebox",
+    "_listpages",
+    "abcs-of-death",
+    "artifact",
+    "inscription",
+    "paradox",
+    "portal",
+    "safe",
+    "scp",
+    "temporal"
+  ],
+  "author": "Jack Ike",
+  "created_at": "2022-10-13T08:51:36+00:00",
+  "updated_at": "2023-04-23T13:16:23+00:00",
+  "rating": 117,
+  "_site": "scp-wiki",
+  "_fullname": "scp-7432"
+}

@@ -1,0 +1,14 @@
+{
+  "title": "압류딱지 구성요소",
+  "content": "[[module CSS]]\n\n@import url('https://fonts.googleapis.com/css?family=Nanum+Pen+Script');\n\n:root {\n  --wd: 300px;\n  --ht: 220px;\n}\n\n.redcard {\n  position: absolute;\n  top: var(--top);\n  left: var(--left);\n  right: var(--right);\n  transform: translateX(var(--tx, 0)) rotate(var(--deg));\n  width: var(--wd);\n  height: var(--ht);\n  background: #F48AAD;\n  z-index: 50;\n}\n\n.redcard table {\n  border: 3px solid #000;\n  width: calc(var(--wd) - 1em);\n  height: calc(var(--ht) - 1em);\n  margin: 0.5em;\n  max-width: calc(100% - 1em) !important;\n  max-height: calc(100% - 1em) !important;\n}\n\n.redcard table td {\n  border-color: #000;\n  font-size: 120%;\n  word-break: keep-all;\n}\n\n.redcard table td span {\n  display: inline-block;\n  font-family: 'Nanum Pen Script';\n  font-size: 200%;\n  font-style: italic;\n  transform: translateY(0.2em);\n  padding: 0 10px 0 5px;\n  line-height: 0.1;\n}\n\n.redcard table tr:first-child td {\n  font-size: 150%;\n  font-weight: 900; \n}\n\n.redcard.center1 table tr:first-child td {\n  font-size: 180%;\n}\n\n.redcard > p > a {\n  color: transparent;\n  position: absolute;\n  inset: 0;\n}\n\n.redcard.center1 {\n  --tx: -50%;\n}\n\n.redcard.more1 {\n  display: none;\n}\n\n@media (min-width: 768px) {\n  :root {\n    --wd: 500px;\n    --ht: 300px;\n  }\n  .redcard table tr:first-child td {\n    font-size: 200%;\n  }\n  .redcard.center1 table tr:first-child td {\n    font-size: 250%;\n  }\n  .redcard table tr:not(:first-child) td {\n    line-height: 1.8\n  }\n  .redcard.center1 {\n    --tx: -30%;\n  }\n  .redcard.more1 {\n    display: block;\n  }\n}\n\n[[/module]]\n\n[[div class=\"redcard center{$center} more{$more}\" style=\"--top: {$top}; --left: {$left}; --right: {$right}; --deg: {$deg};\"]]\n||= **압 류 물 표 목** ||\n||= 202[[span]]5[[/span]]본 제[[span]]0401[[/span]]호||\n||= **이 위키는 압류물임** _\n이 압류물을 처분하거나 이 표목을 _\n제거하는 이는 형벌을 받게 됨 ||\n||= 202[[span]]5[[/span]]. [[span]]4[[/span]]. [[span]]1[[/span]].||\n||= 광주지방법원 무진지원 집행관||\n[[[/forum:recent-posts]]]\n[[/div]]",
+  "tags": [
+    "ko",
+    "구성요소"
+  ],
+  "author": "thd-glasses",
+  "created_at": "2025-03-31T14:59:22+00:00",
+  "updated_at": "2025-04-03T21:52:56+00:00",
+  "rating": 0,
+  "_site": "scpko",
+  "_fullname": "component:redcard"
+}

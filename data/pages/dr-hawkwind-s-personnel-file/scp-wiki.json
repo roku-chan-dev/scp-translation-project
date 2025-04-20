@@ -1,0 +1,14 @@
+{
+  "title": "Researcher on the Edge of Time",
+  "content": "[[>]]\n[[module Rate]]\n[[/>]]\n\n[[include component:author-page order=created_at]]\n[[include :scp-wiki:component:license-box]]\n[[include :scp-wiki:component:license-box-end]]",
+  "tags": [
+    "_licensebox",
+    "author"
+  ],
+  "author": "DrHawkwind",
+  "created_at": "2021-05-31T21:52:29+00:00",
+  "updated_at": "2022-10-22T12:47:49+00:00",
+  "rating": 5,
+  "_site": "scp-wiki",
+  "_fullname": "dr-hawkwind-s-personnel-file"
+}

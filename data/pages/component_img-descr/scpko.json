@@ -1,0 +1,14 @@
+{
+  "title": "이미지 설명 블록",
+  "content": "[[include :scpko:component:img-descr-base name={$name}|caption={$caption}|overlay-text={$overlay-text}|width={$width}|width=300px|link={$link}|link=#|align={$align}|align=right]]",
+  "tags": [
+    "ko",
+    "구성요소"
+  ],
+  "author": "Denevola",
+  "created_at": "2021-05-13T15:48:20+00:00",
+  "updated_at": "2021-05-13T15:51:01+00:00",
+  "rating": 0,
+  "_site": "scpko",
+  "_fullname": "component:img-descr"
+}

@@ -1,0 +1,15 @@
+{
+  "title": "Meet the Overseers",
+  "content": "[[include :scp-wiki:theme:black-highlighter-theme]]\n[[include :scp-wiki:theme:the-way-out]]\n\n[[>]]\n[[module Rate]]\n[[/>]]\n\n[[module CSS]]\n#container { background-color: #C0C0BE; }\n[[/module]]\n\n[[image http://scp-wiki.wikidot.com/local--files/art:meet-the-overseers/126A6993-63AE-47E3-818B-7D57A91DC7BA.jpeg]]",
+  "tags": [
+    "artwork",
+    "cel-shaded",
+    "personnel-art"
+  ],
+  "author": "ubergoober",
+  "created_at": "2024-08-08T12:20:44+00:00",
+  "updated_at": "2024-08-08T12:38:35+00:00",
+  "rating": 28,
+  "_site": "scp-wiki",
+  "_fullname": "art:meet-the-overseers"
+}

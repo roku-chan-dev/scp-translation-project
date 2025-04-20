@@ -1,0 +1,22 @@
+{
+  "title": "SCP-1642-KO",
+  "content": "[[module ListPages  category=\"fragment\" parent=\".\" limit=\"1\" order=\"created_at\" offset=\"@URL|0\"]]\n%%content%%\n[[/module]]\n\n[!--\n\nhttp://scpko.wikidot.com/fragment:scp-1642-ko-1\nhttp://scpko.wikidot.com/fragment:scp-1642-ko-2\n\n\n내려.\nhttps://commons.m.wikimedia.org/wiki/File:La_vengeance_de_Hop-Frog,_James_Ensor,_Museum_Plantin-Moretus,_PK.MP.09515.jpg\n--]",
+  "tags": [
+    "2024-별칭경연",
+    "ko",
+    "scp",
+    "매체",
+    "비격리",
+    "서술",
+    "외계",
+    "유클리드",
+    "정보재해",
+    "형이초학부"
+  ],
+  "author": "POI_Damgi",
+  "created_at": "2024-09-17T12:20:03+00:00",
+  "updated_at": "2024-09-17T12:24:14+00:00",
+  "rating": 13,
+  "_site": "scpko",
+  "_fullname": "scp-1642-ko"
+}

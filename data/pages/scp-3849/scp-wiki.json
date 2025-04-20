@@ -1,0 +1,18 @@
+{
+  "title": "SCP-3849",
+  "content": "[[>]]\n[[module Rate]]\n[[/>]]\n\n[[include component:image-block\n    name=Tubful|\n    caption=SCP-3849.\n]]\n\n**Item #:** SCP-3849\n\n**Object Class:** Safe\n\n**Special Containment Procedures:** As SCP-3849 cannot be relocated without risking structural damage to the surrounding bathtub, the property located at 810 Danforth St, Portland, ME has been purchased through a Foundation front company.   The property is to remain locked, with access restricted to personnel with 4/3849 clearance.\n\n**Description:** SCP-3849 is a region of space located within a wall-mounted bathtub on the second floor of 810 Danforth St, Portland, ME.  The area of space to which SCP-3849 connects has been determined to exist 4.43 billion years in the past, at some location within the confines of Earth's gravity well. [[footnote]]See Addendum 3849-TL.[[/footnote]]\n\nSCP-3849 induces no negative pressure in the surrounding room, though any object placed into the anomalous space will continue to fall towards the planet.  Due to the narrow window of view available, the surface of Earth cannot be seen.\n\nSCP-3849 was first discovered on 8-18-18, when homeowner Chris Mattingly contacted local authorities, claiming that his wife, Christina Mattingly, had \"fallen into space in the bathtub\".\n\n**Addendum 3849-TL:** SCP-3849 Test log\n\n**Test A - 8/20/18**\n> **Subject:** One sealed time capsule with Barium-130 isotope half-life dating apparatus.\n> **Procedure:** Time capsule dropped into SCP-3849.  Time capsule recovered through [[[http://www.scp-wiki.net/scp-1162|SCP-1162]]].\n> **Results:** Difference in time between the interior of SCP-3849 and current time determined.\n> **Analysis:** Trace amounts of biological matter from an unidentified multi-cellular organism were found fossilized around the time capsule, with a strata of stromatolite suspected to be the remains of previously undiscovered primitive prokaryotic organisms.\n> \n> **Further testing has been judged to carry the risk of being antithetical to the development of biological life on Earth, and is prohibited by O5 command.**\n\n[[footnoteblock]]\n\n[[div class=\"footer-wikiwalk-nav\"]]\n[[=]]\n<< [[[SCP-3848]]] | SCP-3849 | [[[SCP-3850]]] >>\n[[/=]]\n[[/div]]",
+  "tags": [
+    "_cc",
+    "appliance",
+    "portal",
+    "safe",
+    "scp",
+    "temporal"
+  ],
+  "author": "Gabriel Jade",
+  "created_at": "2018-09-18T06:04:53+00:00",
+  "updated_at": "2020-01-24T21:54:09+00:00",
+  "rating": 118,
+  "_site": "scp-wiki",
+  "_fullname": "scp-3849"
+}

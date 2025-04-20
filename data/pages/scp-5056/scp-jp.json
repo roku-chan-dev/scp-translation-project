@@ -1,0 +1,27 @@
+{
+  "title": "SCP-5056",
+  "content": "[[module CSS]]\nspan, a { word-break: normal !important }\n[[/module]]\n\n[[include :scp-jp:theme:blankstyle acs=a]]\n\n[[module CSS]]\n/* anendlessusername's invaluable correction of the ACS octagon! */\n#page-content .quadrants > div {\n    top: 2.25%;\n    left: 18.5%;\n}\n\n/*-- Japanese localizing --*/\n\n.kt {\n    -webkit-text-emphasis-style: filled dot;\n    text-emphasis-style: filled dot;\n}\n\n.ruby, .rt{\n  border-collapse: collapse;\n}\n[[/module]]\n\n[!--\nフラグメント:\nhttp://scp-jp.wikidot.com/fragment:scp-5056-offset-0\nhttp://scp-jp.wikidot.com/fragment:scp-5056-offset-1\n--]\n\n[[module ListPages category=\"fragment\" parent=\".\" order=\"created_at\" limit=\"1\" offset=\"@URL|0\"]]\n%%content%%\n[[/module]]",
+  "tags": [
+    "en",
+    "euclid",
+    "on-guard-43",
+    "scp",
+    "イバニェス主任",
+    "フィリップ・ディアリング",
+    "ブランク博士",
+    "人間型",
+    "可視光",
+    "批評者スポットライト",
+    "眼",
+    "瞬間移動",
+    "移動",
+    "視覚",
+    "非実体"
+  ],
+  "author": "Witherite",
+  "created_at": "2022-10-01T14:27:02+00:00",
+  "updated_at": "2025-01-07T02:48:45+00:00",
+  "rating": 22,
+  "_site": "scp-jp",
+  "_fullname": "scp-5056"
+}

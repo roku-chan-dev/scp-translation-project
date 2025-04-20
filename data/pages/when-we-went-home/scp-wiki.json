@@ -1,0 +1,17 @@
+{
+  "title": "When We Went Home",
+  "content": "[[include :scp-wiki:theme:black-highlighter-theme]]\n[[include :scp-wiki:theme:scp-offices-theme]]\n[[include :scp-wiki:component:toggle-sidebar-bhl]]\n\n[[=]]\n\n[[module Rate]]\n\n[[div style=\"height: 20px;\"]]\n[[/div]]\n\n[[image https://scp-sandbox-3.wdfiles.com/local--files/frownart/wwwhfinal.png]]\n\n[[div style=\"height: 30px;\"]]\n[[/div]]\n\n|[[[SCP-5935]]]|\n\n[[/=]]\n\n@@@@\n@@@@\n\n[[include :scp-wiki:component:license-box]]\n=====\n[[<]]\n[[div class=\"blockquote\"]]\n**Filename:** wwwhfinal.png\n**Author:** [[*user MisterFrown]]\n**License:** CC-BY-SA 3.0\n[[/div]]\n[[/<]]\n=====\n[[include :scp-wiki:component:license-box-end]]",
+  "tags": [
+    "_cc",
+    "_licensebox",
+    "artwork",
+    "pixel-art",
+    "scp-art"
+  ],
+  "author": "MisterFrown",
+  "created_at": "2024-09-29T02:17:43+00:00",
+  "updated_at": "2024-11-05T16:42:04+00:00",
+  "rating": 30,
+  "_site": "scp-wiki",
+  "_fullname": "when-we-went-home"
+}

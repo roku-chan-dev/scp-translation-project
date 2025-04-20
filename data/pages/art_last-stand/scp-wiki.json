@@ -1,0 +1,19 @@
+{
+  "title": "Art - The Last Stand",
+  "content": "[[>]]\n[[module rate]]\n[[/>]]\n\n[[module CSS]]\n#container { background-color: black; }\n[[/module]]\n\n[[include :scp-wiki:component:toggle-sidebar]]\n\n[[image https://scp-wiki.wdfiles.com/local--files/art%3Alast-stand/last-stand]]",
+  "tags": [
+    "able",
+    "artwork",
+    "cel-shaded",
+    "daybreak",
+    "hard-to-destroy-reptile",
+    "painted",
+    "scp-art"
+  ],
+  "author": "ubergoober",
+  "created_at": "2024-10-05T00:51:50+00:00",
+  "updated_at": "2025-03-27T22:14:37+00:00",
+  "rating": 25,
+  "_site": "scp-wiki",
+  "_fullname": "art:last-stand"
+}

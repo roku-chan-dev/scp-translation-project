@@ -1,0 +1,13 @@
+{
+  "title": "Evelyn",
+  "content": "[[module CSS arguments...]]\n\n#header {\n    visibility:hidden;\n    width: 0\n}\n[[/module]]\n\n[[module CSS]]\n#side-bar { \n    visibility: hidden; \n    width: 0\n}\n[[/module]]\n[[=image http://scp-wiki.wdfiles.com/local--resized-images/evelyn/evelyn/medium.jpg 属性1=\"数值1\" 属性2=\"数值2\" ...]]\n\n{{Jack，我的儿子，我爱你。如果你能读到这个，请回家。}}\n\n{{（不过这是一个非常老旧的信息了，即使它这么诚挚真心，也没能让Jack知道。）}}\n\n{{[[[http://scp-wiki-cn.wikidot.com/your-circuits-dead-theres-something-wrong|返回]]]}}",
+  "tags": [
+    "补充材料"
+  ],
+  "author": "Sraosha",
+  "created_at": "2019-03-26T17:02:08+00:00",
+  "updated_at": "2019-04-02T07:19:31+00:00",
+  "rating": 4,
+  "_site": "scp-wiki-cn",
+  "_fullname": "evelyn"
+}

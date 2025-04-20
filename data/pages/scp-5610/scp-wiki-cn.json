@@ -1,0 +1,24 @@
+{
+  "title": "SCP-5610",
+  "content": "[[include :scp-wiki-cn:component:black-highlighter-theme-dev]]\n[[include :scp-wiki:component:collapsible-sidebar]]\n\n[[include component:image-block\n| name=http://scp-wiki.wdfiles.com/local--files/scp-5610/neko.jpg\n| caption=一幅描绘SCP-5610的20世纪画作\n| width=300px]]\n\n**项目编号：**5610\n\n**收容等级：**Keter\n\n**特殊收容措施：**SCP-5610事件将受最小程度监控。\n\n同时，将研究各类文化中对耻辱、虚像的重视[[footnote]]诸如日本的本音（//honmae//）与建前（//tatemae//），主要围绕公开与私下面貌的问题。**译注：**本音与建前是一对日本文化概念，本音大意为“真正的心里话”，建前则大致指“对外的客套话/场面话”，两者并列指交往过程中态度表里不一的文化现象。[[/footnote]]是否与SCP-5610有关。所有关于猫类的历史文件也将接受调查。\n\n**描述：**SCP-5610是一种异常实体，只可被具有5.6分及以上认知抵抗力的人员观察到。在日本人口中，约百分之五十六的人头顶上坐有一只SCP-5610个体。然而，这些被坐的对象没有感到不适。\n\n对象在公共场合的举止与其在私人场合的举止越是相符，SCP-5610个体就越是细节化。这会持续到出现两种结果之一：或者个体消失不见，或者，在约百分之六的案例中，它会转化为一只无异常的猫(//Felis catus//)从对象的头上跳下。\n\nSCP-5610在俳句中得到过突出描绘；在世作者被问及时，对其保有记忆。值得注意的作品翻译如下。\n\n[[div class=\"blockquote\"]]\n是为世间人\n把猫戴在头顶上[[footnote]]猫をかぶる。日本俗语，指假装出受欢迎的人格。[[/footnote]]\n对剑爱且恨\n-//织田信长，1580年//\n[[/div]]\n@@@@\n\n[[div class=\"blockquote\"]]\n孩童吮乳时，\n心中之猫亦同食，\n苦路结伴行\n-//松尾芭蕉，1672年//\n[[/div]]\n@@@@\n\n[[div class=\"blockquote\"]]\n我辈皆猫乎\n骑在唠弱鼠辈上\n亦或厉虎上？\n-//Emiri Takagata, 1923年//\n[[/div]]\n@@@@\n\n[[div class=\"blockquote\"]]\n去到军营床，\n老猫跃下我头顶\n怜悯叫唤着\n-//Jou Takamiki，1944年//\n[[/div]]\n@@@@\n\n[[div class=\"blockquote\"]]\n无聊Oneko[[footnote]]对猫的敬称[[/footnote]]叹气，\n唤我为他哭几声\n但我保颜面、泪水\n-//Deo Takamiki，1944年//\n[[/div]]\n@@@@\n\n[[div class=\"blockquote\"]]\n薄墙敲打响，\n朽腐亮堂我冠上\n猫疾跑而过\n-//Aiko Torikatsu，1976年//\n[[/div]]\n@@@@\n\n[[div class=\"blockquote\"]]\n猫傲慢而去，\n我心如池上叶子\n一齐漂浮\n-//Moeka Horinami，1980年//\n[[/div]]\n@@@@\n\n[[div class=\"blockquote\"]]\n我的映像\n猫在头顶向后抓\n于是我苦笑\n-//村上春树，1998年//\n[[/div]]\n@@@@\n\n**更新：**已发现多份古埃及历史记录中记载了SCP-5610的显现，可追溯到公元前3500年。\n\n[[footnoteblock]]\n\n[[div class=\"footer-wikiwalk-nav\"]]\n[[=]]\n<< [[[SCP-5609]]] | SCP-5610 | [[[SCP-5611]]] >>\n[[/=]]\n[[/div]]",
+  "tags": [
+    "keter",
+    "scp",
+    "历史性",
+    "强迫性",
+    "感知影响",
+    "无形",
+    "未收容",
+    "猫科",
+    "精神影响",
+    "艺术性",
+    "视觉性",
+    "逆模因"
+  ],
+  "author": "ashausesall",
+  "created_at": "2020-05-03T10:17:17+00:00",
+  "updated_at": "2020-05-16T10:39:32+00:00",
+  "rating": 10,
+  "_site": "scp-wiki-cn",
+  "_fullname": "scp-5610"
+}

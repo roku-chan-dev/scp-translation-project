@@ -1,0 +1,14 @@
+{
+  "title": "전환 가능한 사이드바",
+  "content": "[[iftags +구성요소]]\n[[div style=\"border: solid 2px #ededed; padding: 0.5rem; margin: 4px;\"]]\nThis is a component to make the mobile sidebar button active on desktop-size screen.\n이건 데스크톱 크기의 화면에서 모바일 사이드바 버튼을 쓸 수 있게 만들어주는 구성요소입니다.\n사용하려면 다음 구문을 삽입하세요.\n\n> @@[[include :scpko:component:toggle-sidebar]]@@\n\n테마와 함께 사용할 경우, 이 {{[[include]]}} 뒤에 해당 테마를 넣을 것을 권장합니다.\n\n//(블랙 하이라이터에서 사용하려면 [[*user Woedenaz]]가 만든 [[[component:toggle-sidebar-bhl|이 버전]]]을 사용하세요.)//\n[[/div]]\n[[/iftags]]\n\n[[div [[iftags -구성요소]]style=\"display: none\"[[/iftags]]]]\n[[include :scp-wiki:component:toggle-sidebar]]\n[[module CSS]]\n#top-bar .open-menu a {\n  top: unset;\n  bottom: 0.5em;\n  font-family: 'Nanum Gothic', san-serif;\n}\n\n@media (max-width: 767px) {\n    #top-bar .open-menu a {\n        top: inherit !important;\n    }\n}\n[[/module]]\n[[/div]]",
+  "tags": [
+    "en",
+    "구성요소"
+  ],
+  "author": "Denevola",
+  "created_at": "2021-03-03T06:05:08+00:00",
+  "updated_at": "2024-09-08T19:57:30+00:00",
+  "rating": 0,
+  "_site": "scpko",
+  "_fullname": "component:toggle-sidebar"
+}

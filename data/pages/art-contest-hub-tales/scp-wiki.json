@@ -1,0 +1,15 @@
+{
+  "title": "Art Contest Hub - Tales",
+  "content": "[[=]]\n+ Category Winner: //Bellerverse// by DrFrog\n[[/=]]\n\n[[module css]]\n.content-panel {\n    border: none;\n    border-radius: 0px;\n    background-color: #fff;\n    margin: 10px 0 15px;\n    box-shadow: none;\n    box-shadow: none;\n}\n[[/module]]\n[[div class=\"content-panel left-column\"]]\n\n[[include component:image-block name=DrFrogBellerverse.png| caption=[[[Bellerverse]]] by Dr Frog. Fullview [https://i.imgur.com/vxGKWpt.png here].]]\n\n[[include component:image-block name=techaartBees.png| caption= [[[Bees]]] by https://techaart.tumblr.com. Fullview [https://i.imgur.com/qdLxeoU.png here].]]\n\n[[include component:image-block name=Sirawsmface64.png| caption= [[[Doctors of the Church Hub]]] by Sirawsmface64. Fullview [https://i.imgur.com/KXsyKsQ.png here].]]\n\n[[include component:image-block name=surumerume.png| caption= [[[Long Live the King]]] by surumerume. Fullview [https://i.imgur.com/w5iW59F.png here].]]\n\n[[include component:image-block name=Akumeoy.png| caption= [[[Revenants]]] by Akumeoy. Fullview [https://scp-wiki.wikidot.com/local--files/quote-unquote-art-by-cww/AkumeoyTales.png here].]]\n\n[[/div]]\n\n[[div class=\"content-panel right-column\"]]\n[[include component:image-block name=Flawed.png| caption= [[[Document recovered from the Marianas Trench]]] by Flawed. Fullview [https://i.imgur.com/vapUgHU.png here].]]\n\n[[include component:image-block name=HerculesRockefeller.png| caption= [[[On Mount Golgotha Hub]]] by Hercules Rockefeller. Fullview [https://i.imgur.com/AIF8Ukt.png here].]]\n\n[[include component:image-block name=Faut.png| caption= [[[Stop going in circles]]] by Faut. Fullview [https://i.imgur.com/eP9uQA2.png here].]]\n\n[[include component:image-block name=PerelkaL.png| caption= [[[The Stars Do Not Wait For You]]] by Perelka_L. Fullview [https://i.imgur.com/tuk5D7S.png here].]]\n\n[[include component:image-block name=Kenoma.png| caption= [[[12talesaboutafactory]]] by Kenoma. Fullview [https://i.imgur.com/wYVTwHi.png here].]]\n[[/div]]",
+  "tags": [
+    "_cc",
+    "art2017",
+    "artwork"
+  ],
+  "author": "LilyFlower",
+  "created_at": "2018-01-21T20:45:07+00:00",
+  "updated_at": "2024-03-27T22:01:02+00:00",
+  "rating": 17,
+  "_site": "scp-wiki",
+  "_fullname": "art-contest-hub-tales"
+}

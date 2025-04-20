@@ -1,0 +1,13 @@
+{
+  "title": "기본 오디오 플레이어",
+  "content": "[[iframe http://ko.scp-wiki.net/local--code/component:audio#{$URL}{$autoplay} frameborder=\"0\" scrolling=\"no\" width=\"320px\" height=\"40px\"]]",
+  "tags": [
+    "템플릿"
+  ],
+  "author": "Dr Devan",
+  "created_at": "2014-10-15T10:17:30+00:00",
+  "updated_at": "2014-10-15T10:17:38+00:00",
+  "rating": 0,
+  "_site": "scpko",
+  "_fullname": "component:audio-player-base"
+}

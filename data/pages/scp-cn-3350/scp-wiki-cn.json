@@ -1,0 +1,20 @@
+{
+  "title": "SCP-CN-3350",
+  "content": "[[include :scp-wiki-cn:theme:blankstyle]]\n\n[[module css]]\n:root{\n  --header-title: \"Site-Command\";\n  --header-subtitle: \"超现实部\";\n}\n\ndiv#extra-div-1 {\n    background-image: url(https://scp-wiki.wdfiles.com/local--files/scp-6445/Surrealistics-Logo.png);\n    filter: opacity(20%);\n}\n[[/module]]\n\n[[>]]\n[[module Rate]]\n[[/>]]\n\n**项目编号：**SCP-CN-3350\n\n**项目等级：**Keter\n\n**特殊收容措施：**SCP-CN-3350被上传至超现实部数据库内。\n\n**[[span class=\"ruby\"]]描述[[span class=\"rt\"]]抹 杀[[/span]][[/span]]：**SCP-CN-3350是本文档。SCP-CN-3350于2024年4月6日被上传至超现实部数据库内。SCP-CN-3350由//我//[[footnote]] 秘密。 [[/footnote]]撰写。\n\n超现实的概念于1998年由超形上学专家Edgar Dirac提出，理论体系在2004年建构完毕，2010年超现实部建立，由夏芸丘担任其主管。\n\n超现实部旨在收容一系列无法被人类理解、表达的异常事物，这些事物的不可理解性使得无法对其实施任何有效的收容措施。为收容超现实危害，基金会研发出了[[[scp-4923| 不可知剂]]]，服用不可知剂可暂时性使人类意识扬升至超现实层面，并理解处于超现实区域的概念，解读的过程将刺穿超现实实体的外壳，将其暴露于人类意识之下，处于这个状态的异常可被基金会收容。\n\n收容超现实异常的通常程序是：让人员服用不可知剂，待人员理解该异常后，在药效时间内完成对项目档案的撰写，即解构。这一过程通常能够完全击穿项目外壳，此时可根据项目性质设计相应收容措施。不可知剂的作用原理与部分副作用将导致文档无法被常人理解，但对项目的收容已于事实上完成。因此文档仅作参考，对项目的完全理解仍需服用不可知剂。\n\n超现实部总部位于Site-⌘，“⌘”指代MacOS中常用的控制键“Command”。Site-⌘位于一片超现实区域中央，被一层不可理喻概念复合物包裹，这一概念层的效果等同于超现实外壳，能够避免与超现实部相关的概念被有意识个体获知并理解，以此防御超现实攻击。\n\n因SCP-CN-3350，超现实部停止存在。\n\n[[footnoteblock]]\n[[div class=\"footer-wikiwalk-nav\"]]\n[[=]]\n<< [[[SCP-CN-3349]]]| SCP-CN-3350 |[[[SCP-CN-3351]]] >>\n[[/=]]\n[[/div]]",
+  "tags": [
+    "keter",
+    "meta",
+    "scp",
+    "信息危害",
+    "原创",
+    "智能",
+    "超现实部",
+    "超维度"
+  ],
+  "author": "MandAX",
+  "created_at": "2024-04-06T05:57:07+00:00",
+  "updated_at": "2025-01-01T15:16:28+00:00",
+  "rating": 29,
+  "_site": "scp-wiki-cn",
+  "_fullname": "scp-cn-3350"
+}

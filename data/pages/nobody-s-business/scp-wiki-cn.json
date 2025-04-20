@@ -1,0 +1,19 @@
+{
+  "title": "無人業務",
+  "content": "[[module css]]\n.page {\n    display: block;\n    overflow: hidden;\n    font-family: \"Monotype Corsiva\", \"Bradley Hand ITC\", sans-serif;\n    font-style: normal;\n\n   \n    background-attachment: scroll;\n    background-clip: border-box;\n    background-color: transparent;\n    background-image: linear-gradient(to top ,rgb(202, 219, 228) 0%, rgb(231, 233, 220) 8%);\n    background-origin: padding-box;\n    background-position: 0px 8px;\n    background-repeat: repeat;\n    background-size: 100% 20px;\n    \n\n    border: 1px solid #CCC;\n    border-radius: 10px;\n    padding: 10px 10px;\n    margin-bottom: 10px;\n\n    box-shadow: 0px 1px 3px rgba(0, 0, 0, 0.2)\n    }\n.page p {\n    line-height: 20px;\n    margin: 0;\n}\n[[/module]]\n\n[[div class=\"page\"]]\n獲得了一本新筆記本。舊的滿了，反正我從來都不是很喜歡它。老實說這本好多了。也更大。\n@@ @@\n無論如何，我在停車場。打算去吃早餐。\n@@ @@\n也許我會再次點美式煎餅。在新工作開始之前我還有時間。要恢復。\n@@ @@\n@@ @@\n[[size 125%]]**__筆記：__** [[/size]]\nCI 運輸在 2:00 pm -- 要待在制高點\nGOC 伏擊在 2:15 -- 偷偷混入，獲得目標\n\n[[/div]]\n\n[[div class=\"page\"]]\n\n在制高點。還有5分鐘。\n@@ @@\n看到 GOC 攻擊小隊。他們新的迷彩技術對付熟練的眼睛並不是那麼有用。__筆記：__記住那細節。 \n@@ @@\n從左撇子那入手了一件制服，可以影響視覺，從觀察者的眼中看起來像 GOC 或 CI。可以混入雙方。使用起來得心應手，不是故意要說雙關笑話的。\n@@ @@\n@@ @@\n@@ @@\n獲得了目標。雖然因為奇術強化武器碰上了困難，但還是贏了。目標是有七位密碼組合的黑箱子。在4秒內破解了。裡面是一件來自 Dr. Wondertainment，名為「速成冰錐」的產品，內有4份。包裝做成冰箱的外型。碰上去真的很冰涼。\n@@ @@\n如客戶所述，在玩具反斗城後面與它會面。奇怪，但它付錢。\n[[/div]]\n\n[[div class=\"page\"]]\n\n發現客戶在牆上噴塗針對玩具反斗城的辱罵。客戶很高興我到達，並試圖擁抱我。注意到客戶長了黃尾巴。\n@@ @@\n客戶表示滿意並陳述了他對 Dr. Wondertainment 產品的熱愛。他解釋說，他試圖購買最初由 MC&D Ltd 回收的物品 (已停產的產品)，但他被禁止。 調查情況後發現，根據紀錄，他會覺得氣餒然後幼稚地威脅其他顧客。最後一根稻草是他在輸了與 CI 特工的競標後，向拍賣師扔了2個椒鹽脆餅。\n@@ @@\n客戶用一支粉筆畫了一扇門並打開門。門的另一端是不停旋轉的色彩漩渦，他跳了進去。畫出來的門化為雲煙消失了。 \n@@ @@\n錢 (一萬) 也是偽造的，模因作用劑施用在上面以掩蓋事實。那些實際上只是地產大亨的遊戲紙鈔。\n@@ @@\n[[size 150%]] **__待辦：__**  [[/size]]\n* 進一步研究客戶。確認 Wonder City (還是 World？) 的紀錄以尋找可能居住地。\n* 把制服還給左撇子\n* 獲得新的模因接種，最好紀錄它們什麼時候過期。\n* 如果沒有其他事的話，也許可以約先前餐館的女服務生出來。\n\n\n[[/div]]",
+  "tags": [
+    "_nobody",
+    "goi格式",
+    "mc&d",
+    "nobody",
+    "wondertainment博士",
+    "全球超自然联盟",
+    "混沌分裂者"
+  ],
+  "author": "feitag",
+  "created_at": "2018-11-08T05:47:44+00:00",
+  "updated_at": "2019-06-22T08:36:45+00:00",
+  "rating": 2,
+  "_site": "scp-wiki-cn",
+  "_fullname": "nobody-s-business"
+}

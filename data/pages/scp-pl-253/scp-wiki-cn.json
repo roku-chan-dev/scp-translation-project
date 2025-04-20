@@ -1,0 +1,22 @@
+{
+  "title": "SCP-PL-253",
+  "content": "[[include :scp-wiki:theme:blankstyle]]\n[[include :scp-wiki:component:fade-in speed=1]]\n[[module css]]\n:root{\n  --header-title: \"R\\0026 C SITE-120\";\n  --header-subtitle: \"以火攻火\";\n}\n\ndiv#extra-div-1 {\n    background-image: url(https://scp-wiki.wdfiles.com/local--files/secure-facility-dossier-site-120/120.png);\n    filter: opacity(20%);\n}\n#top-bar .open-menu {\n    display : block !important;\n}\n[[/module]]\n\n[[module ListPages category=\"fragment\" parent=\".\" limit=\"1\" order=\"created_at\" offset=\"@URL|0\"]]\n%%content%%\n[[/module]]\n\n[!-- http://scp-wiki-cn.wikidot.com/fragment:scp-pl-253-1 --]\n[!-- http://scp-wiki-cn.wikidot.com/fragment:scp-pl-253-2 --]\n\n\n[[div class=\"footer-wikiwalk-nav\"]]\n[[=]]\n<< [[[SCP-PL-252]]] | SCP-PL-253 | [[[SCP-PL-254]]] >>\n[[/=]]\n[[/div]]",
+  "tags": [
+    "120站档案馆",
+    "k级情景",
+    "meta",
+    "pl",
+    "scp",
+    "信息危害",
+    "无名",
+    "未收容",
+    "机密分级",
+    "食物"
+  ],
+  "author": "tetsusquared",
+  "created_at": "2022-09-17T07:30:05+00:00",
+  "updated_at": "2022-09-17T07:36:52+00:00",
+  "rating": 5,
+  "_site": "scp-wiki-cn",
+  "_fullname": "scp-pl-253"
+}

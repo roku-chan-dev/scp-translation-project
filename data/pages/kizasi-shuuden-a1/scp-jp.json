@@ -1,0 +1,14 @@
+{
+  "title": "兆くんの一日",
+  "content": "[[include :scp-jp:credit:start]]\n**タイトル:** 兆くんの一日\n**著者:** [[*user Come_Dream]]\n**作成年:** 2025\n[[include :scp-jp:credit:end]]\n\n\n\n\n\n\n[[html]]\n<style type=\"text/css\">\n@import url(http://scp-jp.wdfiles.com/local--files/japanese-syntax/scp-WikidotCss.css);\n</style>\n<script type=\"text/javascript\" src=\"http://scp-jp.wdfiles.com/local--files/japanese-syntax/scpHTMLblockCtrl_ver1_ex.js\"></script>\n<script type=\"text/javascript\">\nisHTMLblockHide = true;\n</script>\n<style type=\"text/css\">\n.class1{\n        \n</style>\n\n<script type=\"text/javascript\">\n\nfunction Greeting() {\n   var nt = new Date();\n   var hr = nt.getHours();\n\n   if( hr < 6 ) { document.write('<img src=\"https://scp-jp-storage.wdfiles.com/local--files/file%3A2369961-194-0f6a/%E5%85%86%E3%81%A1%E3%82%83%E3%82%93.jpg\">'); }\n   else if( hr < 14 ) { document.write('<img src=\"https://scp-jp-storage.wdfiles.com/local--files/file%3A2369961-195-o9gn/%E5%85%86%E3%81%8F%E3%82%93.jpg\">'); }\n   else if( hr < 24 ) { document.write('<img src=\"https://scp-jp-storage.wdfiles.com/local--files/file%3A2369961-194-0f6a/%E5%85%86%E3%81%A1%E3%82%83%E3%82%93.jpg\">'); }\n}\n</script>\n\n\n\n\n<div id=\"top\">\n</div>\n\n\n\n\n\n\n\n\n\n\n\n\n<script type=\"text/javascript\">\nGreeting();\n</script>\n<div id=\"scpHTMLblockResizeSwitch\"></div>\n\n\n[[/html]]",
+  "tags": [
+    "jp",
+    "アートワーク"
+  ],
+  "author": "Come_Dream",
+  "created_at": "2025-02-10T22:43:36+00:00",
+  "updated_at": "2025-02-10T23:20:22+00:00",
+  "rating": 18,
+  "_site": "scp-jp",
+  "_fullname": "kizasi-shuuden-a1"
+}

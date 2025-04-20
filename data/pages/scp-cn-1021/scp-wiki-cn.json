@@ -1,0 +1,19 @@
+{
+  "title": "SCP-CN-1021",
+  "content": "[[module CSS]]\n#page-title {\n  display: none;\n}\n\n.meta-title {\n  border-bottom: solid 1px #bbbbbb;\n  color: #990011;\n  font-weight: normal;\n  margin: 0 0 0.6em;\n  padding: 0 0 0.25em;\n  font-size: 200%;\n}\n\n.meta-title p {\n  margin: 0;\n}\n#u-ratingboxhid {   \n opacity:0.05;  transition: all 0.5s ease-out; \n}\n#u-ratingboxhid:hover {  \n opacity:1;\n}\n\n[[/module]]\n[[module ListPages category=\"fragment\" parent=\".\" limit=\"1\" order=\"name\" offset=\"@URL|0\"]]\n[[div class=\"meta-title\"]]\n%%title%%\n[[/div]]\n[[/module]]\n[[>]]\n[[span id=\"ratingboxhid\"]]\n[[module Rate]]\n[[/span]]\n[[/>]]\n[[module ListPages category=\"fragment\" parent=\".\" limit=\"1\" order=\"name\" offset=\"@URL|0\"]]\n\n%%content%%\n[[/module]]",
+  "tags": [
+    "cn1000",
+    "k级情景",
+    "meta",
+    "scp",
+    "原创",
+    "叙述性",
+    "机密分级"
+  ],
+  "author": "miku393",
+  "created_at": "2018-11-08T09:45:12+00:00",
+  "updated_at": "2021-04-01T04:16:45+00:00",
+  "rating": 311,
+  "_site": "scp-wiki-cn",
+  "_fullname": "scp-cn-1021"
+}

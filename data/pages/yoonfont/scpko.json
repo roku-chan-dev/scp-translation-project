@@ -1,0 +1,13 @@
+{
+  "title": "윤글꼴",
+  "content": "[[module CSS]]\n@import url('https://scpko.wdfiles.com/local--files/yoonfont/YoonDaehan.css');\n@import url('https://scpko.wdfiles.com/local--files/yoonfont/YoonMinguk.css');\n@import url('https://scpko.wdfiles.com/local--files/yoonfont/YoonDokrip.css');\n@import url('https://scpko.wdfiles.com/local--files/yoonfont/YoonManse.css');\n[[/module]]\n\n영리글꼴제작사인 [*https://www.font.co.kr/ 윤디자인]에서 드물게 자유사용 가능으로 풀어준 글꼴들입니다.\n\n+ [*https://www.font.co.kr/yoonfont/event/event_detail.asp?incFile=detail_74th-815.html 3・1운동 100주년 기념글꼴]\n\n[[span style=\"font-family: 'YoonDaehan'; font-size: 20px;\"]]\n다람쥐 헌 쳇바퀴에 타고파. ?!~- 'YoonDaehan' 윤대한\n[[/span]]\n[[collapsible show=\"＋ 코드 보이기\" hide=\"－ 코드 숨기기\"]]\n[[code type=\"css\"]]\n[[module CSS]]\n@import url('https://scpko.wdfiles.com/local--files/yoonfont/YoonDaehan.css');\n[[/module]]\n[[/code]]\n[[/collapsible]]\n\n[[span style=\"font-family: 'YoonMinguk'; font-size: 20px;\"]]\n다람쥐 헌 쳇바퀴에 타고파. ?!~- 'YoonMinguk' 윤민국\n[[/span]]\n[[collapsible show=\"＋ 코드 보이기\" hide=\"－ 코드 숨기기\"]]\n[[code type=\"css\"]]\n[[module CSS]]\n@import url('https://scpko.wdfiles.com/local--files/yoonfont/YoonMinguk.css');\n[[/module]]\n[[/code]]\n[[/collapsible]]\n\n[[span style=\"font-family: 'YoonDokrip'; font-size: 20px;\"]]\n다람쥐 헌 쳇바퀴에 타고파. ?!~- 'YoonDokrip' 윤독립 \n[[/span]]\n[[collapsible show=\"＋ 코드 보이기\" hide=\"－ 코드 숨기기\"]]\n[[code type=\"css\"]]\n[[module CSS]]\n@import url('https://scpko.wdfiles.com/local--files/yoonfont/YoonDokrip.css');\n[[/module]]\n[[/code]]\n[[/collapsible]]\n\n[[span style=\"font-family: 'YoonManse'; font-size: 20px;\"]]\n다람쥐 헌 쳇바퀴에 타고파. ?!~- 'YoonManse' 윤만세\n[[/span]]\n[[collapsible show=\"＋ 코드 보이기\" hide=\"－ 코드 숨기기\"]]\n[[code type=\"css\"]]\n[[module CSS]]\n@import url('https://scpko.wdfiles.com/local--files/yoonfont/YoonManse.css');\n[[/module]]\n[[/code]]\n[[/collapsible]]",
+  "tags": [
+    "에세이"
+  ],
+  "author": "Salamander724",
+  "created_at": "2021-04-03T14:18:02+00:00",
+  "updated_at": "2021-05-28T04:04:32+00:00",
+  "rating": 1,
+  "_site": "scpko",
+  "_fullname": "yoonfont"
+}

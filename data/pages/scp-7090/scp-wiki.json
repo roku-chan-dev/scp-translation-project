@@ -1,0 +1,24 @@
+{
+  "title": "SCP-7090",
+  "content": "[[div style=\"display: none;\"]]\n[[include :scp-wiki:theme:flopstyle]]\n[[/div]]\n\n[[>]]\n[[include :scp-wiki:info:start]]\n[[=]]\nSCP-7090, \"The Girl With The Sun In Her Head,\" by [[[mr-carbon-personnel-file|Mr Carbon]]].\n\nIf you liked Aluko and Zheng, check out the [[[MTF Theta-90 Hub Page]]] to see them at a different time in their careers.\n[[/=]]\n[[include :scp-wiki:info:end]]\n[[/>]]\n\n[[module ListPages  category=\"fragment\" parent=\".\" limit=\"1\" order=\"created_at\" offset=\"@URL|0\"]]\n%%content%%\n[[/module]]\n\n[[include :scp-wiki:component:license-box]]\n> **Name:** star.png\n> **Filename:** Full Sunburst over Earth.JPG\n> **Author:** NASA (edited by mrshaba at Wikipedia and Mr Carbon at the SCP Wiki)\n> **License:** Public domain via US government\n> **Source:** [https://commons.wikimedia.org/wiki/File:Full_Sunburst_over_Earth.JPG Wikimedia Commons]\n[[include :scp-wiki:component:license-box-end]]\n\n[!-- https://scp-wiki.wikidot.com/fragment:scp-7090-0 --]\n[!-- https://scp-wiki.wikidot.com/fragment:scp-7090-1 --]",
+  "tags": [
+    "_cc",
+    "_licensebox",
+    "_listpages",
+    "alive",
+    "ethics-committee",
+    "extradimensional",
+    "humanoid",
+    "keter",
+    "portal",
+    "sapient",
+    "scp",
+    "sun"
+  ],
+  "author": "Mr Carbon",
+  "created_at": "2022-09-28T20:31:31+00:00",
+  "updated_at": "2022-10-02T23:45:27+00:00",
+  "rating": 168,
+  "_site": "scp-wiki",
+  "_fullname": "scp-7090"
+}

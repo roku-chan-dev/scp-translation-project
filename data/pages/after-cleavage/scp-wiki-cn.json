@@ -1,0 +1,14 @@
+{
+  "title": "开裂后",
+  "content": "[[include :scp-wiki-cn:theme:minimal]]\n[[module CSS]]\n@import url('https://fonts.googleapis.com/css?family=Noto+Sans+SC|Noto+Serif+SC|Noto+Sans+TC|Noto+Serif+TC&display=swap');\n\nbody {\n    font-family: 'Noto Serif SC', 'Noto Serif TC';\n}\n#page-content tt {\nfont-family: 'Noto Serif SC',verdana,arial,helvetica,sans-serif;\n}\n#header {\n    background-image: url();\n    background-size: 0rem;\n}\ndiv#header h1 a span {\n    font-size: 0px;\n}\ndiv#header h1 a:before {\n    content: \"Rotting Reality\";\n    color: rgb(255, 255, 255);\n    text-shadow: 3px 3px 5px rgb(217, 217, 217)\n    }\ndiv#header h2 span {\n    font-size:0px;\n    padding: 4px;\n}\ndiv#header h2:after {\n    content: \"Ambiguity Disintegrate 135%\";\n    font-weight: bold;\n    color: rgb(255, 255, 255);\n    padding: 19px 0;\n    text-shadow: 1px 1px 1px rgba(0, 0, 0, .8);\n    white-space: pre;\n}\ndiv#container-wrap {\n    background: url(http://scpsandboxcn.wdfiles.com/local--files/electric-eel-s-sandbox-photos/jazzmoon.png) top left repeat-x;\n}\nbody {\n    background-position: top center;\n    background-repeat: repeat;\n    background-color: white;\n    color: black;\n}\n[[/module]]\n[[>]]\n[[module Rate]]\n[[/>]]\n> = **夜空圆弧，孑孓浮游**\n\n客机沿着航线划过夜空与数千颗星，骷髅站在外侧副翼板面前段处，指骨关节切开空气对流。标准黑色西装衣身有几处正在闪着弱光的斑点，是订书钉。穿插在肋骨与布料之间充当媒介物。\n[[>]]\n “MaL，休谟数是105。”\n//幽灵站在MaL身旁轻点着头。//\n[[/>]]\n\n“但没有消失，”它应答，“还差些什么东西。”\n\nMaL的蝶骨成为玫瑰藤攀爬架，充斥荆棘。盛开之物应在何处？而重力坝正在下沉。锈迹斑驳的金属零件构成繁杂交错的水闸端口，灰色纱织物笼罩一双不断重演被撕裂刹那的小臂，青苔在周围浮现又消失，泛黄紧接着变得澄青。\n\n> = **BackGroundMusic**\n\n列车正在晨昏线上爬行。明暗交错点定格在第四车厢，画面内含括着一包还剩三支香烟的万宝路纸盒，一把半自动9毫米手枪，被拆封的纸质信，静置于座位中央的支架桌上。\n\n“Corroding Reality。”Kily系着一条紫斑纹的领带，“这个名字合适吗？”\n\n[[>]]\n “合适。”O5-2看见她腼腆地笑着，想起了一件事，“MaL那边正在清理残局。”\n[[/>]]\n\n“我不喜欢它。”\nKily向桌面上的烟盒伸手，拽出一支烟，“MaL给人的第一印象很烂，不过有它帮忙确实好很多。”\n[[>]]\n “它是从洞穿中走出来的人。”\n[[/>]]\n\n“你原来都知道。”\n\n[[>]]\n “也是最近才知道。”\n[[/>]]\n\n窗外的线条变得愈加复杂，交错紧接着是暴动，然后是死寂。一个周期跟着另一个周期循环着无法发生任何改变。时而能瞥见车笛溢出的蓝雾。第四节车厢横隔于虚实两界，其内仅坐着二十三岁的Kily一人。\n\n她开始哭，泪痕划过微红的面颊。最后拾起掉落在地的那封信，信此时还未被开封，黏着着万宝路的咖啡苦涩。\n\n> = **墓碑侧面所映射都市内万家灯火燃起**\n\nSite-CN-112旧址。漫游在雾中的玫瑰无根茎，它们触碰到少年的衣领，似动物受惊，却保持着好奇心，待在他的身边。少年的画架支撑于断檐沿边，手拿着铅笔仍然埋头画着涂抹着。脚尖的前方是空无，下方崩陷后的深渊，建筑群断层隐约刻录皮鞋踢踏金属罐的回响。\n\n[[>]]\n “在画什么？”\nMaL站在他的身旁，盯着刹时枯萎转为锈黄色的玫瑰。\n[[/>]]\n\n“未来。”\n少年并未停笔，也从未抬头好奇西装内为何是一具骷髅。\n“坝，洪水还有三天。”\n\n[[>]]\n“请问怎么称呼？”\n[[/>]]\n\n“服部秀一，我来自日本东京。”他拿起素描纸，递给MaL，脸上露出微笑。\n“您是从活下来Ambiguity Disintegrate的人吧？”\n\nMaL不做应答，手指指骨捧着那幅铅笔速写。画的沿边是由数十双断裂的手臂拼接而成，手掌伸向画中央的环形水坝。混凝土砌成的边缘有三个人影，他们正抬着头，盯着空中驶过的列车。\n\n[[>]]\n“我可以把这幅画带走吗，秀一？”\n[[/>]]\n\n“当然可以啦，请让我跟着您一起走吧。”\n[[=]]\n[[div class=\"content-panel standalone series\"]]\n++  **<<[[[seeking-tranquil|勿切除定义域]]]|[[[Prophet|预知者]]]>>**\n[[/div]]\n[[/=]]",
+  "tags": [
+    "原创",
+    "故事"
+  ],
+  "author": null,
+  "created_at": "2020-07-17T10:23:30+00:00",
+  "updated_at": "2020-07-17T10:55:11+00:00",
+  "rating": 21,
+  "_site": "scp-wiki-cn",
+  "_fullname": "after-cleavage"
+}

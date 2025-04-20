@@ -1,0 +1,30 @@
+{
+  "title": "SCP-6969-J",
+  "content": "[[include :scp-jp:component:adult-content-warning]]\n\n[[module CSS]]\n.meta-title p {\n    color: transparent !important;\n    font-size: 0 !important;\n}\n[[/module]]\n\n[[module ListPages category=\"fragment\" parent=\".\" limit=\"1\" order=\"created_at\" offset=\"@URL|0\"]]\n%%content%%\n[[/module]]\n\n[!-- fragment:scp-6969-j-1 --]\n[!-- fragment:scp-6969-j-2 --]",
+  "tags": [
+    "en",
+    "esoteric-class",
+    "k-クラスシナリオ",
+    "scp",
+    "アダルト",
+    "ジョーク",
+    "世界オカルト連合",
+    "変容",
+    "性的",
+    "情報災害",
+    "未収容",
+    "概念",
+    "深淵目録",
+    "破壊不可能",
+    "移動不可能",
+    "精神影響",
+    "財団製",
+    "骨格"
+  ],
+  "author": "pcysl",
+  "created_at": "2022-09-30T09:03:21+00:00",
+  "updated_at": "2024-01-17T11:26:50+00:00",
+  "rating": 9,
+  "_site": "scp-jp",
+  "_fullname": "scp-6969-j"
+}

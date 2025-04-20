@@ -1,0 +1,14 @@
+{
+  "title": "00275",
+  "content": "content: \"**説明:** 賽銭箱型の貯金箱。中に入れた500円玉を5円玉に変換する。\\n**回収日:** 2002/██/██\\n**回収場所:** █都の██銀行\\n**現状:** サイト-8190の低価格・破損物保管ロッカーにて保管中。発見したエージェント・██には、代替の貯金箱と500円玉が支給された。\"\ntf2: '1'\nauthor: kainndo\nredirect-b: '[[module Redirect destination=\"http://ja.scp-wiki.net/log-of-anomalous-items-jp'\nredirect-e: '\"]]'",
+  "tags": [
+    "jp",
+    "剪定対象-子"
+  ],
+  "author": "7happy7",
+  "created_at": "2020-03-14T14:16:57+00:00",
+  "updated_at": "2021-05-24T13:12:17+00:00",
+  "rating": 8,
+  "_site": "scp-jp",
+  "_fullname": "anomalous-jp:00275"
+}

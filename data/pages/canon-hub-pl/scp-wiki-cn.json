@@ -1,0 +1,15 @@
+{
+  "title": "波兰分部设定中心",
+  "content": "有观点认为，没有一个设定中心或许稍显愚蠢，这不是说我们一无所有，许多条目间存在大量联动、交互和相互涉猎。然而作为读者，你相信什么设定或是信奉怎样的宇宙中心皆取决于你，但这并不意味着作者缺乏意图或设计灵感，或者说协作应为创造的核心。\n\n以下收录的是所有得到承认的基金会宇宙链接，如果你想要加入其中之一，请务必你熟知它的设定并确保你的作品与之相关。如果你有兴趣创作属于自己的设定中心，请阅读页面底部的信息。\n\n[[module CSS]]\n.content-panel.standalone {\n  padding: 20px 30px;\n}\n\n.canon-title {\n  font-size: 200%;\n  font-weight: bold;\n  margin-bottom: 10px;\n}\n\n.canon-description {\n  font-size: 110%;\n  font-weight: bold;\n  text-align: justify;\n}\n\n.canon-snippet {\n  font-style: italic;\n}\n.canon-snippet-subtext {\n  font-size: 70%;\n  margin-top: 10px;\n}\n\n[[/module]]\n\n----\n[[div class=\"content-panel centered standalone series\"]]\n[[div class=\"canon-title unmargined\"]]\n[[[chwasty-hub | 除草 ]]]\n[[/div]]\n\n[[div class=\"canon-description unmargined\"]]\n没有人邀请它们，没有人知道它们从何而来，没有人希望它们存在，然而，没有人能摆脱他们。\n[[/div]]\n\n-----\n\n[[div class=\"canon-snippet unmargined\"]]\n秘匿项目摧毁了秩序化的混沌。它们无法被分级，它们错开了任何标准、任何措施。它们不在乎我们投入了多少精力去收容它们。它们无处不在，影响了我们的方方面面。而因此，我们对它们无能为力。\n[[/div]]\n[[div class=\"canon-snippet-subtext unmargined\"]]\n——《什么是秘匿项目？》，Dr JamesH著\n[[/div]]\n[[/div]]\n\n-----\n[[div class=\"content-panel centered standalone series\"]]\n[[div class=\"canon-title unmargined\"]]\n[[[przyczajone-leczenie-hub|地下疗法]]]\n[[/div]]\n\n[[div class=\"canon-description unmargined\"]]\n替常醫學是個奇妙的領域，在這裡，維生素C可以治療癌症，刺激身體部位可以避免心臟病發作。但是，一切都是有代價的……\n[[/div]]\n\n-----\n\n[[div class=\"canon-snippet unmargined\"]]\n我們國家的年輕人正在受苦，而跨國企業正在從中獲利。我們想避免這種事情發生。所以才有了今天的局面。我們仍然是一個相當小型的組織，但是波蘭的許多人都同意我的看法並購買我的產品。儘管我不是那麼受歡迎，但我仍去參加異常科學博覽會，在這種地方，我親眼見到想要和我一樣改變的人。\n[[/div]]\n[[div class=\"canon-snippet-subtext unmargined\"]]\n——《關於替常醫學的起源》，Platnicki著\n[[/div]]\n[[/div]]\n\n-----\n\n[[div class=\"content-panel standalone series\"]]\n[[collapsible show=\"所以你想创建一个设定\" hide=\"隐藏教程\"]]\n\n如果你想要创建一个设定并加到这个页面，你要记得一件很重要的事情，那就是该设定必须是一个合作项目。你的设定必须遵守以下要求才算符合资格：\n\n* 至少有五篇故事。\n* 至少三名作者参与写作。\n* 你的设定不能对其他新的投稿者“封闭”。\n* 你的设定不能“完结”。\n\n我们也不打算在这个问题上钻牛角尖。记着：合作和创新，那才是这些作品的目的。如果你有任何问题，联络管理员。\n\n[[/collapsible]]\n[[/div]]",
+  "tags": [
+    "pl",
+    "中心",
+    "需更新"
+  ],
+  "author": "thrumuvethur",
+  "created_at": "2018-11-02T09:20:34+00:00",
+  "updated_at": "2021-12-26T03:09:27+00:00",
+  "rating": 2,
+  "_site": "scp-wiki-cn",
+  "_fullname": "canon-hub-pl"
+}

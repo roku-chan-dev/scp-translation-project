@@ -1,0 +1,17 @@
+{
+  "title": "SCP-3967(記録用:Hand On My Heart / 私の心臓にある手)",
+  "content": "[[include :scp-wiki:theme:magnus-web-format]]\n[[include :scp-jp:theme:black-highlighter-theme]]\n[[include :scp-jp:component:bhl-dark-sidebar]]\n[[include :scp-wiki:component:pride-highlighter |inc-bi-alt= --]]]\n\n[[>]]\n[[module Rate]]\n[[/>]]\n\n**アイテム番号:** SCP-3967\n\n**オブジェクトクラス:** Safe\n\n**特別収容プロトコル:** SCP-3967はSafeクラス収容ロッカー内に収容されます。\n\n**説明:** SCP-3967はフィアチラ・マコーネル上級研究員が突然の心停止で死亡した後に彼の胸腔内で発見された切断された人間の手です。SCP-3967は可動領域の減少、腫脹、痙攣を示す方法で握られた手の筋組織を含む進行した関節炎の兆候を多く示します。\n\n**補遺3967-1:** さらなる分析の提案を受け、マコーネル上級研究員の遺体の完全な検死解剖が行われました。検死解剖の結果彼の心臓にSCP-3967による圧迫と一致する打撲のパターンが認められました。この原因の調査は進行中です。",
+  "tags": [
+    "en",
+    "euclid",
+    "scp",
+    "元記事削除",
+    "生物学"
+  ],
+  "author": "Voila",
+  "created_at": "2020-09-14T13:36:51+00:00",
+  "updated_at": "2024-06-14T15:41:46+00:00",
+  "rating": 0,
+  "_site": "scp-jp",
+  "_fullname": "old:scp-3967"
+}

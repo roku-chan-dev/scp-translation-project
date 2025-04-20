@@ -1,0 +1,23 @@
+{
+  "title": "SCP-1599-KO",
+  "content": "[[include :scpko:theme:navla-style preset=10]]\n\n[[include :scpko:info:start]]\n**SCP-1599-KO:** 하늘에서 내려온 외계인 하는 말\n**작가:** [[*user LR0725]], [[*user TimidChild]]\n이 글은 [[[samcheonri-contest-gangwon|삼천리 강원 경연]]] 투고작입니다.\n\n**이미지 정보**\n> **파일명:** field.jpg\n> **원본 링크:** https://pixabay.com/photos/scotland-aberdeenshire-dee-valley-1607696/\n> **원 저작자:**  kolibri5\n> **라이선스:** CC0 (업로드 일자: 2016. 08. 22)\n\n> **파일명:** museum.jpg\n> **원본 링크:** https://commons.wikimedia.org/wiki/File:Int%C3%A9rieur_de_l'%C3%A9glise_de_Tinja_2.jpg\n> **원 저작자:** Camille56\n> **라이선스:** CC BY-SA 4.0\n\n> **파일명:** arthur.jpg\n> **원본 링크:** https://www.flickr.com/photos/sumiisan/133230823/\n> **원 저작자:** sumiisan\n> **라이선스:** CC BY 2.0\n\n> **파일명:** ufo.jpg\n> **원본 링크:** https://commons.wikimedia.org/wiki/File:UFO_sighting,_2007_12_25_17_54.jpg\n> **원 저작자:** Griguelo~commonswiki \n> **라이선스:** CC BY SA 3.0\n[[include :scpko:info:end]]\n\n[[include :scpko:component:cd\n|lv=3\n|item=SCP-1599-KO\n|class=%EC%BC%80%ED%85%8C%EB%A5%B4\n|site-responsible=KRGNYY%20%EC%A0%9C57K%EA%B8%B0%EC%A7%80\n|director=%EC%84%B1%EC%9A%B4%ED%95%9C\n|research-head=%E2%96%88%E2%96%88%E2%96%88\n|assigned-task-force=%EC%97%86%EC%9D%8C\n|dark=1\n]]\n\n[[include component:image-block\n|name=ufo.jpg\n|caption=SCP-1599-KO를 촬영한 사진\n|width=300px]]\n\n**특수 격리 절차:** 제57K기지 천문학부를 비롯한 재단의 천문 관련 부서는 SCP-1599-KO 현상이 발생하는지 주의깊게 관찰한다. SCP-1599-KO 현상을 미리 포착하는 데 성공하면 비행체의 궤도를 분석해 인근 주민을 대피시키거나 떨어지는 물체를 회수할 준비를 한다. \n\nSCP-1599-KO 현상이 발생한 후에는 신속히 재단 요원이 출동해 목격자의 기억을 소거하고 관찰 기록을 삭제한다. 만약 정보를 완전히 말소하기 어렵다면 비변칙 천문 현상으로 위장한다. SCP-1599-KO에서 등장한 UFO가 투하한 물건을 회수하는 데에 성공하면 근처 재단 기지로 운반해 그 정체나 용도를 분석한다. \n\n**설명:** SCP-1599-KO는 지구상에 반복해서 출현하는 미확인비행물체(UFO)와, 그",
+  "tags": [
+    "ko",
+    "scp",
+    "공저",
+    "공중",
+    "기계",
+    "빛",
+    "삼천리-강원",
+    "외계",
+    "인공물",
+    "케테르",
+    "특집"
+  ],
+  "author": "LR0725",
+  "created_at": "2024-02-18T11:28:01+00:00",
+  "updated_at": "2024-04-30T15:46:53+00:00",
+  "rating": 42,
+  "_site": "scpko",
+  "_fullname": "scp-1599-ko"
+}

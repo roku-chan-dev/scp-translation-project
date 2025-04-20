@@ -1,0 +1,16 @@
+{
+  "title": "ものごと - ハブ",
+  "content": "[[>]]\n[[module Rate]]\n[[/>]]\n[[include :scp-wiki-de:component:preview-base text=これらはとっても気味がわるいものです]]\n\n[[module css]]\n#header h1 a::before {\n    content: \"SCPだいざん\"!important;\n}\n[[/module]]\n\n[[module css]]\n@import url('http://scp-wiki-de.wdfiles.com/local--code/component:ding-theme/1');\n[[/module]]\n\n[[div class=\"content-panel standalone series\"]]\n+ ものごとのいちらん\n\n* [[[D-001]]] - ママ\n* [[[D-002]]] - 色とりどりのビン\n* [[[D-007]]] - やらなくちゃ\n* [[[D-008]]] - 光まほうキャノン\n* [[[D-010]]] - スーパーメン\n* [[[D-012]]] - いつぴきのきっね\n* [[[D-016]]] - わるいベッドモンスター\n* [[[D-087]]] - そこの階段の下にいるやつ\n* [[[D-118]]] - ハンディ\n* [[[D-199]]] - カラフル男\n\n[[collapsible show=\"+ ちゅーしゃくだす\" hide=\"- ちゅーしゃくかくす\"]]\nものごとは4月のさしいょにだけアップロドすることができ、あとそれはコルトポストでなければなりません。\nそれとぜんぶ{{scp}} {{de}} {{ding}} でタクつけしなくちゃいけません。\n\nもしきみがまだしつもんとか、ものごとがほんとはなんだとかをしりたいとおもうなら、ぼくらのディスコートできくのがいちばんだよ。\n\n[[/collapsible]]\n@@@@\n[[/div]]",
+  "tags": [
+    "de",
+    "ding",
+    "scp",
+    "ハブ"
+  ],
+  "author": "Shibuleni",
+  "created_at": "2019-08-08T17:32:20+00:00",
+  "updated_at": "2023-06-15T19:09:08+00:00",
+  "rating": 26,
+  "_site": "scp-jp",
+  "_fullname": "dinger"
+}

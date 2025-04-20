@@ -1,0 +1,14 @@
+{
+  "title": "Meska's Page",
+  "content": "[[include :scp-wiki:theme:black-highlighter-theme]]\n[[include :scp-wiki:component:bhl-dark-sidebar]]\n\n[[module CSS]]\ndiv.rule hr {\n\n    height: 1px;\n\n    border: none;\n\n    color: black;\n\n    background-color: black;\n\n    width: 100%;\n\n    margin: 15px 0px 0px 0px;\n\n}\nbody {\n  font-size: 110%;\n}\n\n[[/module]]\n[[>]]\n[[module Rate]]\n[[/>]]\n\n[[div class=\"blockquote\" style=\"border: 1px solid; background-color: white; padding-top: 20px; padding-bottom: 20px; margin: 40px 80px 10px 80px; \"]]]\n[[=]]\n+++++ Latest SCP:  [http://www.scp-wiki.net/scp-5354 SCP-5354 - The View From Caer Bran]\n[[span style=\"font-size: 80%;\"]]//\"Everyone says the view from the Caer is special. On a clear day, you can see for miles. The world looks… better.\"//[[/span]]\n[[/=]]\n[[/div]]\n\n[[div class=\"blockquote\" style=\"border: 1px solid; background-color: white; padding-top: 20px; padding-bottom: 20px; margin: 40px 80px 10px 80px; \"]]]\n[[=]]\n+++++ Latest Tale:  [http://scp-wiki.wikidot.com/the-antiquarian The Antiquarian ]\n[[span style=\"font-size: 80%;\"]]//\"The Covent Garden Antiquarian Society\nEst. 1604 - A Gentlemen's Establishment for Collectors of Items Both Macabre and Sublime\"//[[/span]]\n[[/=]]\n[[/div]]\n\n[[div class=\"blockquote\" style=\"border: 1px solid; background-color: white; padding-top: 20px; padding-bottom: 20px; margin: 40px 0px 10px 0px; \"]]]\n\n++ SCPs\n[[div class=\"rule\"]]\n-----\n[[/div]]\n[http://www.scp-wiki.net/scp-1064 SCP-1064 - Candle Ring]\n\n[http://www.scp-wiki.net/scp-5305 SCP-5305 - All in His Head]\n\n[http://www.scp-wiki.net/scp-5354 SCP-5354 - The View From Caer Bran]\n\n[http://www.scp-wiki.net/scp-5503 SCP-5503 - Feelin' Gut!]\n\n[http://www.scp-wiki.net/scp-5530 SCP-5530 - The Hebridean Charm]\n\n[http://www.scp-wiki.net/scp-5758 SCP-5758 - The Moth Tide]\n\n[[/div]]\n \n\n[[div class=\"blockquote\" style=\"border: 1px solid; background-color: white; padding-top: 20px; padding-bottom: 20px; margin: 40px 0px 10px 0px; \"]]]\n \n++ Tales\n[[div class=\"rule\"]]\n-----\n[[/div]]\n[http://www.scp-wiki.net/lindisfarne-falls Lindisfarne Falls]\n\n[http://scp-wiki.wikidot.com/the-antiquarian The Antiquarian ]\n\n[[/div]]\n \n\n[[div class=\"blockquote\" style=\"border: 1px solid; background-color: white; padding-top: 20px; padding-bottom: 20px; margin: 40px 0px 10px 0px; \"]]]\n \n\n++ Collaborations\n[[div class=\"rule\"]]\n-----\n[[/div]]\nNone so far - if you'd like to collaborate, feel free to contact me via Wikidot PM or IRC to discuss ideas!\n\n[[/div]]\n[[include :scp-wiki:component:license-box]]\n[[include :scp-wiki:component:license-box-end]]",
+  "tags": [
+    "_licensebox",
+    "author"
+  ],
+  "author": "Meska",
+  "created_at": "2020-07-12T13:58:50+00:00",
+  "updated_at": "2022-10-22T15:23:14+00:00",
+  "rating": 27,
+  "_site": "scp-wiki",
+  "_fullname": "meska-s-author-page"
+}

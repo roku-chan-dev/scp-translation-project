@@ -1,0 +1,24 @@
+{
+  "title": "SCP-4322",
+  "content": "[[include component:black-highlighter-theme-dev]]\n\n[[module CSS]]\ndiv.scp-image-block.block-center {\n    position: relative;\n    height: 215px;\n}\n\n.scp-image-block img {\n    height: 100%;\n    object-fit: cover;\n}\n\n#page-content > div.scp-image-block.block-center > div.scp-image-caption {\n    position: absolute;\n    bottom: 0;\n}\n[[/module]]\n\n[[include component:info-ayers\n    page=SCP-4322 |\n    authorPage=aismallard |\n    comments=\n**SCP-4322:** Sleepless Dreams \n**Author:** [[*user aismallard]] \n**Music:** [*https://www.youtube.com/watch?v=GMkmQlfOJDk Air on G string by Johannes Sebastian Bach] \n \n**Thanks to:** \n* wctaiwan \n* [[*user KindlyTurtleClem]] \n* [[*user woedenaz]]@@ @@\n]]\n\n[[include :scp-wiki:component:classified-bar-woed\n    lv=4 |\n    item=4322 |\n    oc=Thaumiel |\n    lang=CN |\n    trans-level=级 |\n    trans-classified=机密\n]]\n\n----\n\n[[div class=\"scp-image-block block-center\"]]\n[[image http://scp-wiki.wdfiles.com/local--files/scp-4322/scp-4322.jpeg]]\n[[div class=\"scp-image-caption\" style=\"width: 100%;\"]]\nSCP-4322\n[[/div]]\n[[/div]]\n\n----\n\n**特殊收容措施：**SCP-4322将保持持续开启，每日有四小时广播停歇。将按季度对受影响D级人员展开采访之以保证服务质量。鼓励人员为提交媒体作品作为可能的广播内容。\n\n**描述：**SCP-4322是一无线电收发器，经异常改造后其转播对象从电磁辐射变为了灵能波。它通过一标准Ψ-5缆线[[footnote]]设计为传递异常模因信息的同轴缆线。[[/footnote]]接收输入，并通过其金属外壳充当天线产生输出，直至基金会研究员对其进行改造。项目从波兰什切青的PoI-3984处取得，此前他曾使用该项目安抚其母。\n\nSCP-4322产生的灵能能量与Δ型异常辐射轮廓相符，其特点是对物质干预性极低且在长距离上有高传输性。作为梦计划的一部分，基金会研究员为其安装了一个以铍铜铅合金制成的延伸天线。这增强了SCP-4322的有效范围，令其从约4米提高到2.1 × 10^^7^^米，信号可在地球上任何地点接收。\n\n然而，尽管具高传输性，信号本身微弱且难以侦测：已知的接收者仅有II级灵能受体或缺少常规感管输入的有知觉心智。\n\n因此广播为灵能性，接收人员可对其播报内容有完整感知，无论其是否存在感知障碍[[footnote]]如耳聋或失明。[[/footnote]]或语言流利度如何。当前正在研究如何令其支持触觉、嗅觉和味觉感官。\n\n为SCP-4322挑选的媒体作品应在整体上不具冒犯性，且在文化上保持多样化。过往广播示例包括：\n\n* 贝多芬F大调第六交响曲\n* 一小时长的雨声录音\n* 狼群狩猎的画作\n* 微积分历史的纪录片\n* 《龙猫》 (1988)\n* 图瓦喉音歌曲\n* 拍摄于新西兰的自然风光\n* 盲人威利·约翰逊作《漆黑如夜》[[footnote]]译注：Blind Willie Johnson/盲人威利·约翰逊是一位美国黑人蓝调歌手，双目失明。《漆黑如夜》作为代表作选入搭载于旅行者1号的太空唱片中。[[/footnote]]\n\n**附录4322-1：**梦计划\n\n在最初寻获项目后，它曾一度将其放入Safe级锁柜内，直至后来将其征用于研究弱灵能发信，假设认为这能在标准无线电设备无法使用的场合继续维持外勤通信。该计划最终被废弃，但发现实验性合金B-1304能有效传导SCP-4322的波形。\n\n高级研究员Chen提出了梦计划，O5-13以其对常态有不可接受风险予以否决。伦理委员会随后投票推翻此决议，批准为该计划分配资源。\n\n为对SCP-4322传播声音、视像、抽象概念的能力进行测试，以D-41562为对象，将其外部感知输出暂时性剥夺。[[footnote]]在该人员身体死亡后，其大脑依照基金会丧葬协议被转移至标准心智交互仓内。[[/footnote]]为项目的发信器进行了四个月时间的改造以令其实现全球覆盖。试运行进行了六个月，以发现是否有此前未知的副作用存在。在确认安全后，O5-4批准全面部署SCP-4322并将其重分级为Thaumiel。\n\n自起动以来，估计该项目已为超过[[[end-of-death-hub|两百万无躯体大脑]]]减缓了痛苦。\n\n[[footnoteblock]]\n\n[[div class=\"footer-wikiwalk-nav\"]]\n[[=]]\n<< [[[SCP-4321]]] | SCP-4322 | [[[SCP-4323]]] >>\n[[/=]]\n[[/div]]",
+  "tags": [
+    "scp",
+    "thaumiel",
+    "伦理委员会",
+    "听觉影响",
+    "基金会制",
+    "家用物品",
+    "幻觉",
+    "心灵感应",
+    "死亡终结",
+    "电力",
+    "视觉性",
+    "通讯"
+  ],
+  "author": "ashausesall",
+  "created_at": "2019-05-17T07:44:54+00:00",
+  "updated_at": "2019-10-28T09:09:22+00:00",
+  "rating": 4,
+  "_site": "scp-wiki-cn",
+  "_fullname": "scp-4322"
+}

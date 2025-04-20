@@ -1,0 +1,14 @@
+{
+  "title": "구역 아이콘",
+  "content": "[[span class=\"areaIcon\" style=\"background: linear-gradient(to bottom right, #333,{$c0});\"]][[image http://scp-wiki.wdfiles.com/local--files/component:site/facility-texture.png]][[span class=\"number\"]]{$number}[[/span]][[/span]] [[size 110%]]**{$name}** {$subtitle}[[/size]]",
+  "tags": [
+    "en",
+    "구성요소"
+  ],
+  "author": "Salamander724",
+  "created_at": "2014-03-09T14:09:44+00:00",
+  "updated_at": "2021-03-28T01:18:43+00:00",
+  "rating": 0,
+  "_site": "scpko",
+  "_fullname": "component:area"
+}

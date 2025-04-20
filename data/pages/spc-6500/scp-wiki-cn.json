@@ -1,0 +1,19 @@
+{
+  "title": "SPC-6500：极微之道",
+  "content": "[[div style=\"display: none;\"]]\n[[include component:image-block name=https://scp-wiki.wdfiles.com/local--files/fragment%3Aspc-6500-1/handshake.png|caption=.]]\n[[/div]]\n\n[[module ListPages category=\"fragment\" parent=\".\" limit=\"1\" order=\"created_at\" offset=\"@URL|0\"]]\n%%content%%\n[[/module]]\n\n[[module CSS]]\nh1,\nh2,\nh3,\nh4,\nh5,\nh6 {\n    color: ##0047C2;\n}\n#page-title {display: none;}\n:root:lang(cn) {\n    --header-subtitle: \"保持警惕，战士。\";\n    --pale-accent:190, 190, 255;\n}\n.a:link, a:visited{\ncolor: rgb(60,100,155);\n}\n[[/module]]",
+  "tags": [
+    "_打鲨鱼中心",
+    "goi格式",
+    "reynders博士",
+    "互动性",
+    "打鲨鱼中心",
+    "无悔之道",
+    "极鲨之线"
+  ],
+  "author": "Esperanza_Cai",
+  "created_at": "2021-11-16T10:21:55+00:00",
+  "updated_at": "2024-09-04T06:28:38+00:00",
+  "rating": 15,
+  "_site": "scp-wiki-cn",
+  "_fullname": "spc-6500"
+}

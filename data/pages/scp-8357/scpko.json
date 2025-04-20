@@ -1,0 +1,17 @@
+{
+  "title": "SCP-8357",
+  "content": "[[module css]]\nbody {\nfont-size: 0.880em;\n}\n@media only screen and (max-width: 600px) {\n    .scp-image-block.block-right{\n        float: none;\n        margin: auto;\n    }\n}\n[[/module]]\n[[include info:start]]\n**SCP-8357:** 머리, 인형,,head, figurine,,\n**저자:** [[*user IndustryStandard]]\n**번역가:** [[*user LR0725]] / [[[wa-you-know-sans|작가 페이지]]]\n**원본:** https://scp-wiki.wikidot.com/scp-8357\n----\n**이미지 정보**\n> **제목:** Head.jpg\n> **저작권자:** Auckland War Memorial Museum Tāmaki Paenga Hira\n> **라이선스:** CC BY 4.0\n> **원본 링크:** https://commons.wikimedia.org/wiki/File:Head,_figurine_(AM_2012.19.189-5).jpg\n[[include info:end]]\n**일련번호:** SCP-8357\n\n**등급:** 안전\n\n**특수 격리 절차:** SCP-8357은 제357기지에 무기한 보관한다.\n\n[[include component:image-block name=Head.jpg|caption=보관 중인 SCP-8357|width=300px|align=right|alt-text:SCP-8357 sitting in the center of a white background.]]\n\n**설명:** SCP-8357은 테라코타 인형의 머리로, 크기는 36x35x20mm이며 하트 모양이다. 미량의 안료가 개체의 얼굴에 남아 있으며, 말라붙은 기다란 자국이 눈에서부터 내려와 있다. 이마의 자국으로 보아 머리 장식이 없어졌음을 알 수 있다. 부러진 목걸이와 귀걸이가 남아 있다.\n\n발견 당시, 북반구에 위치한 모든 박물관의 73%에서 개체의 외견과 일치하는 수집품에 대한 신착 전시물 기록이 존재했다. 이는 시간상 불가능하므로 변칙적 개입이 의심된다. 모든 기록은 문제 없이 삭제되었다.\n\n**발견:** 획득 기록 소실, 혹은 존재하지 않음. 최신 출처는 아래를 참조하라.\n[[div style=\"border:dashed;border-color:rgb(240,240,255);background:rgb(248,248,255);padding: 0 10px 0;margin:0 10% 0\"]]\n멕시코. 시대 불명. 목 높이에서 부러졌다. 이제 우리 차지다.\n[[>]]\n[[div style=\"color:rgb(50,50,50);font-size:.6em;\"]]\n마지막 갱신 일자: 1998년 1월 2일\n[[/div]]\n[[/>]]\n[[/div]]",
+  "tags": [
+    "en",
+    "scp",
+    "안전",
+    "조각품",
+    "지식"
+  ],
+  "author": "LR0725",
+  "created_at": "2024-06-07T16:43:08+00:00",
+  "updated_at": "2025-02-22T13:56:38+00:00",
+  "rating": 12,
+  "_site": "scpko",
+  "_fullname": "scp-8357"
+}

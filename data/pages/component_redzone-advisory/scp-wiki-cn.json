@@ -1,0 +1,13 @@
+{
+  "title": "红区公告",
+  "content": "[[include :scp-wiki-cn:component:redzone-advisory-base\n|color=#B22\n|logo=https://scp-wiki-cn.wikidot.com/local--files/component:redzone-advisory/redzone3.png\n|title={$title}|title=false\n|id={$id}\n|updated={$updated}|updated=false\n|published={$published}|published=false\n|version={$version}|version=false\n|final={$final}|final=true\n|impact={$impact}\n|worknd={$worknd}|worknd=false\n|bugs={$bugs}\n|cwe={$cwe}|cwe=false\n|cve={$cve}|cve=false\n]]",
+  "tags": [
+    "样版"
+  ],
+  "author": null,
+  "created_at": "2017-07-04T06:54:48+00:00",
+  "updated_at": "2021-11-26T17:37:24+00:00",
+  "rating": 0,
+  "_site": "scp-wiki-cn",
+  "_fullname": "component:redzone-advisory"
+}

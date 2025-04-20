@@ -1,0 +1,13 @@
+{
+  "title": "正方体",
+  "content": "[[include :scp-wiki-cn:theme:basalt hidetitle=a]]\n[[module CSS]]\n:root{\n --header-subtitle: \" \";\n --title: \"???\";\n\n --fnColor: rgba(158, 158, 158, 1);\n}\n.modal {\n    padding: 1.2em;\n    margin: 1em 3em;\n    border: solid 5px rgba(0, 0, 0, 0.15);\n    background: #fbfbfb;\n}\n[[/module]]\n\n[[=image https://scp-wiki.wdfiles.com/local--files/cube/cubetransparent.png]]\n------\n\n这里有一个人。\n\n这个人身处何地，名氏为何大概无足轻重。周围什么都看不见。严格来说，周围到底//存不存在//都值得怀疑。不，重点是这里有一个人，他就在这里。\n\n这个人也被遮盖了。真倒霉啊。可以看到有某种装置紧贴着他的身体，但没有表情和情绪可以解读。他看向远处。他在思考。\n\n他在思考几何。\n\n光看一个人最喜欢的凸多面体，别人就能对他深入了解。毕竟，很少有人是//凹面//的，所以结果是（或者至少//应该//是[[span class=\"fnnum\"]].[[/span]][[span class=\"fncon\"]]如果你是凹面的，那就是出了岔子。去找拓扑美容学家吧。[[/span]]）完全凸面的。从而揭示了对自我价值的判断。\n\n有一种柏拉图多面体（当然，不要跟什么柏拉图式关系搞混了）。的确。它们（其实）有无数形状怪异的兄弟姐妹，但它们才是最纯正的！最重要的！其他的那些无关紧要。完全不重要。\n\n跑题了。柏拉图多面体。四面体、八面体、十二面体。这五个可以算是“正常”的。实用。大概也是规则的。简单优雅的低级形状所组成的简单优雅的结构。它们是至臻的，他想。他可以加以利用。他必须加以利用。\n\n这个人正在想其中的一个。他不知道在想哪一个，但必须是其中之一。明显不是二十面体吧？这是惯例，太大就会华而不实，他打消了这个念头。肯定也不是四面体吧？它太小，太单调了。有意思，但他提不起兴趣。\n\n他翻来覆去地思索这些选项。他又捡起了先前被丢弃的选择。或许一个很小的想法能让他满足。或许巨大的形状能将空间填得更满。这些想法在他的面前扭曲着，想要被他视作是有价值的。他仍然郁闷着。他的思绪已经远远超出他原先信誓旦旦地宣称的范围。想法变得美妙（还不够）而精巧（太渺远）。也行这想法只是个轮廓，什么东西的形状，这样别人就能将它拼凑起来。但这让人打不起精神，于是它便又回到了（没）有形状的状态。\n\n那些想法没一个对劲，所以只好抛弃它们。他开始思考其他的，那些被抛弃的想法在他的脑海中融为一体。这顶多让人生厌，但它却在侵蚀他。为何无法思考，他想。本该很容易的。\n\n这想法已经酝酿了一段时间。或许他准备好重拾这想法了，但他没有。它越滑越深，变作渐渐失色的幻象，然后是细不可闻的低语，最后变得空无一物。它被送入了被遗忘思绪之坟墓。它不是第一个。它也不会是最后一个。\n\n------\n\n[[div class=\"modal\"]]\n**项目描述：**一类似于n维正方体的普通白色凸多面体。（n的确切值待定。）\n**回收日期：**未知\n**回收地点：**未知\n**当前状态：**处于概念收容中。[[span class=\"fnnum\"]].[[/span]][[span class=\"fncon\"]]或许这样最好。[[/span]]\n[[/div]]\n\n------\n\n嗯。这里没有一个人。\n\n@@ @@\n\n[[include :scp-wiki-cn:component:license-box\n|author=RosySaturniidae\n]]\n=====\n> **文件名：** cubetransparent.png\n> **作者：** [https://commons.wikimedia.org/wiki/File:Cube_Value_Study_01.png Meeseeks Tiffany]，由[[*user RosySaturniidae]]编辑\n> **授权协议：** CC BY-SA 4.0\n> **来源链接：** [https://scp-wiki.wikidot.com/cube SCP Foundation Wiki]\n[[include :scp-wiki-cn:component:license-box-end]]",
+  "tags": [
+    "故事"
+  ],
+  "author": "k_Eldac",
+  "created_at": "2023-06-18T07:05:36+00:00",
+  "updated_at": "2023-06-18T07:07:51+00:00",
+  "rating": 3,
+  "_site": "scp-wiki-cn",
+  "_fullname": "cube"
+}

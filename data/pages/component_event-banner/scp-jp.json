@@ -1,0 +1,15 @@
+{
+  "title": "イベントバナー",
+  "content": "[[iftags +トップ掲載]]\n\n+ スタッフ各位\n\n本ページを編集することで、メインWikiおよびサンドボックスⅢトップページのイベントバナーが変化します。\n一般メンバーの権限では編集できないため、イベント常任委員はスタッフ兼任の委員に編集を依頼してください。\n----\n[[/iftags]]\n\n[[module CSS]]\n.strengthening-month {\n    position: relative;\n}\n\n.strengthening-month a {\n    position: absolute;\n    top: 0;\n    left: 0;\n    height:100%;\n    width: 100%;\n}\n\n.interview a {\n    color: #fff;\n    display: block;\n    padding: 1em;\n}\n\n[[/module]]\n\n\n[!-- 棍棒コン24特設ｺｺｶﾗ --]\n\n[[div class=\"content-panel centered standalone important-news\" style=\"background: #001e43; padding: 0.5em;\"]]\n\n[[=image https://scp-jp-storage.wdfiles.com/local--files/file:6759963-433-6vwu/BBC2024Banner4-1_Fixed.png link=\"https://scp-jp.wikidot.com/bbc24\"]]\n[[=]]\n\n[[div style=\"font-size:120%; color: #fff;\"]]\n**金賞**\n[[[SCP-3982-JP]]] - 気になるアレの正体と、それはそれとして幼い頃の旅行の帰りに両親の運転する車内で疲れ眠っていた事がどれほど幸福だったかについて。 by [[*user EianSakashiba]]\n[[/div]]\n[[/=]]\n\n[[/div]]\n\n[!-- 棍棒コン24特設ｺｺﾏﾃﾞ --]\n\n[!-- インタビュー特設ｺｺｶﾗ --]\n[[div class=\"content-panel centered standalone important-news interview\" style=\"background-color: rgb(209, 17, 64);padding: 5px;background-image: url(https://scp-jp-storage.wdfiles.com/local--files/file%3A4053112-172-hmx7/10th_logo.svg);background-repeat: no-repeat;background-position: right 15px top 15px;background-size: 60px;\"]]\n\n[[span style=\"font-size: 120%; font-weight: bold;\"]]##white|10周年記念特別企画 延長戦##[[/span]]\n@@@@\n[[span style=\"font-size: 175%; font-weight: bold;\"]]##white|[[[10th-interview-hub|歴史を彩った人々へインタビュー！]]]##[[/span]]\n\n[[/div]]\n[!-- インタビュー特設ｺｺﾏﾃﾞ --]\n\n[!-- 強化月間ｺｺｶﾗ --]\n[[div class=\"content-panel centered standalone strengthening-month\" style=\"background-color: #2792c3; border: unset;\"]]\n[[table style=\"margin: auto;\"]]\n[[row]]\n[[hcell style=\"padding: 10px 25px 10px 10px;\"]]\n[[image https://scp-jp-storage.wdfiles.com/local--files/file:1988496-59-fhfs/basic-history-recent-time-icon-512.png style=\"width: 150px\"]]\n[[/hcell]]\n[[hcell class=\"cell-content-white\"]]\n令和七年四・五月は\n\n**[[size 1.5em]]「未来」[[/size]]**\n\n翻訳強化月間です！\n[[/hcell]]\n[[/row]]\n[[/table]]\n\n[[a href=\"http://scp-jp.wikidot.com/awareness-month\"]][[/a]]\n[[/div]]\n[!-- 強化月間ｺｺﾏﾃﾞ --]",
+  "tags": [
+    "jp",
+    "トップ掲載",
+    "管理"
+  ],
+  "author": "Nanigashi Sato",
+  "created_at": "2021-08-04T08:40:15+00:00",
+  "updated_at": "2025-04-09T05:48:20+00:00",
+  "rating": 11,
+  "_site": "scp-jp",
+  "_fullname": "component:event-banner"
+}

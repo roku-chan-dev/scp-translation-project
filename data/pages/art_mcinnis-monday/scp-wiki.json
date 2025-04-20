@@ -1,0 +1,16 @@
+{
+  "title": "McInnis Monday",
+  "content": "[[>]]\n[[module Rate]]\n[[/>]]\n\n[[include :scp-wiki:theme:blankstyle]]\n\n[[div style=\"border:solid 1.5px #111111; background:#fcfcfa; padding:5px; margin-bottom: 10px;\"]]\n[[image McMonday.jpg]]\n[[/div]]\n\n[[include :scp-wiki:component:license-box]]\n> **Filename:** McMonday.jpg\n> **Author:** A Random Treestump\n> **License:** CC-BY-SA 3.0\n> **Source Link:** [https://scp-wiki.wikidot.com/art:mcinnis-monday SCP Foundation Wiki]\n\n> **Derivative Of:**\n> **Name:** January 24, 2011\n> **Author:** Jeremy Jenum\n> **License:** CC BY 2.0\n> **Source:** [https://www.flickr.com/photos/jenumfamily/5385620346/ flickr]\n[[include :scp-wiki:component:license-box-end]]",
+  "tags": [
+    "artwork",
+    "director-mcinnis",
+    "painted",
+    "personnel-art"
+  ],
+  "author": "A Random Treestump",
+  "created_at": "2024-11-04T19:39:32+00:00",
+  "updated_at": "2024-12-15T19:59:26+00:00",
+  "rating": 24,
+  "_site": "scp-wiki",
+  "_fullname": "art:mcinnis-monday"
+}

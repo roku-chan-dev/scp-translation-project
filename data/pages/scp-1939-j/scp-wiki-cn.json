@@ -1,0 +1,17 @@
+{
+  "title": "SCP-1939-J",
+  "content": "[[include theme:black-highlighter-theme]]\n\n[[include :scp-wiki:component:author-label-source start=--\n|name=Blue Foot\n|no-right-margin=*]]\n喜欢我的作品吗？[https://scp-wiki.wikidot.com/blue-foot 这里]能读到更多，以及加入我的[https://discord.gg/h5uY646BER Discord服务器]以便在我发布新作品时能被通知！\n[[include :scp-wiki:component:author-label-source end=--]]\n\n[[include :scp-wiki-cn:component:anomaly-class-bar-source\n|lang= cn\n|item-number= 1939-J\n|clearance= 1\n|container-class= pending\n|secondary-class= uncontained\n|disruption-class=\n|risk-class= warning\n]]\n-----\n\n[[include component:image-block | name= https://scp-wiki.wdfiles.com/local--files/scp-1939-j/ceiling.jpg| caption= SCP-1939-J，图像附于Dr. Kieffer给Site-47维修部门的第三封电子邮件中。| width=300px]]\n\n**特殊收容措施：** SCP-1939-J应尽快被无效化。尽管异常效应还未得到遏制。\n\n**描述：** SCP-1939-J为一块破损的天花板瓷砖。它位于Dr. Helen Kieffer的宿舍中床的正上方。\n\nSCP-1939-J的产生似乎是由于Dr. Kieffer宿舍上方的水管道破损，以及Site-47六楼员工宿舍大多维护不善等因素造成的。这些推论因Site-47内部结构由于SCP-1939-J而不断漏水以及在SCP-1939-J产生后Dr. Kieffer的宿舍中存在发霉的气味而得到支持。且这导致Dr. Kieffer患上淤血和多次头痛。\n\nSCP-1939-J于一个月前被发现，当时Dr. Kieffer躺在床上后发现了它的存在。像所有Site-47员工面对这种情况所做的一样，Dr. Kieffer通过电子邮件联系上了站点维修部门去修复天花板瓷砖和她宿舍上方的水管道，以此来消除异常效应。然而，维修部门并未对SCP-1939-J所造成的威胁作出回应。随后Dr. Kieffer尝试通过另外四封电子邮件来联系维修部门，甚至亲自访问该部门办公室讨论此事。尽管这样，相关部门仍尚未制定收容SCP-1939-J计划的任何进展。\n\n在SCP-1939-J未被收容期间，它已造成Site-47财产受到损失以及部分站点人员受伤。且由于SCP-1939-J位于Dr. Kieffer床的正上方，当她尝试睡觉时，水滴会从异常处落在她头上，这导致她常常受到失眠的困扰。在SCP-1939-J被发现的一周后，Site-47维修部门提供给Dr. Kieffer一张充气床垫。然而，由于该床垫存在多处破损，它无法长时间保持充气状态，这导致Dr. Kieffer试图使用它睡觉时会长时间躺在她宿舍的地板上。放在SCP-1939-J床下方的枕头已被水浸湿，目前已无法使用。\n----\n\n//你不能只因我们还没修好你的屋顶就在数据库里输入条目信息，Helen// - 维修主管Robert Hawks\n\n//哦，所以你现在注意到我了吗？// - 高级研究员Helen Kieffer",
+  "tags": [
+    "scp",
+    "人造物品",
+    "建筑",
+    "搞笑",
+    "等待分级"
+  ],
+  "author": "sHNeon",
+  "created_at": "2024-05-02T12:05:00+00:00",
+  "updated_at": "2024-05-02T14:16:20+00:00",
+  "rating": 2,
+  "_site": "scp-wiki-cn",
+  "_fullname": "scp-1939-j"
+}

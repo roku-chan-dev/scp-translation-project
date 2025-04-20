@@ -1,0 +1,13 @@
+{
+  "title": "Transfer Page",
+  "content": "[[module css]]\nbody,#main-content,#container{background:#000033;color:#338855;}\n.page-tags,.page-rate-widget-box#search-top-box,#top-bar,#side-bar,#login-status,#page-title,#header,#footer,#license-area,#footer,#license-area{display:none}\na {color: #338855;color: #338855;}\na:visited {color: #338855;color: #338855;}\n[[/module]]\n[[=]]\n+ 中转页面\n\n\n\n请放松，您现在可能出现胸闷，呼吸急促，出冷汗的症状，这是正常状况。\n\n此页面被植入了一个拥有记忆删除功能的模因，您现在可能出现的症状是其副作用，但请放心，这不会对您的健康产生任何影响。\n\n这里是Site-CN-112至外部网络的中转页面。\n\n就在刚才，您浏览了SCP-CN-2503的迭代七文档。但您最后自愿接受了记忆删除，您已经不记得文档的内容。\n\n如果再次访问，您一定依旧会选择接受记忆删除，为了避免这种浪费时间的无意义行为，您的下次访问将被拒绝。\n\n点击**[[[http://scp-wiki-cn.wikidot.com/scp-cn-2503|此处]]]**退出site-CN-112内部网络\n\n\n\n控制 收容 保护\n\n[[/=]]",
+  "tags": [
+    "补充材料"
+  ],
+  "author": "fu-ying",
+  "created_at": "2019-06-07T11:19:05+00:00",
+  "updated_at": "2022-11-18T14:57:08+00:00",
+  "rating": 2,
+  "_site": "scp-wiki-cn",
+  "_fullname": "transfer-page"
+}

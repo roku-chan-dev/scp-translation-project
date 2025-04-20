@@ -1,0 +1,18 @@
+{
+  "title": "SCP-5092",
+  "content": "[[include :scp-wiki:component:bhl-dark-sidebar]]\n[[include :scp-wiki:component:pride-highlighter |inc-tg-alt= --]]]\n\n[[module CSS]]\n/* anendlessusername's invaluable correction of the ACS octagon! */\n#page-content .quadrants > div {\n    top: 2.25%;\n    left: 18.5%;\n}\n[[/module]]\n \n@@ @@\n\n[[module ListPages  category=\"fragment\" parent=\".\" limit=\"1\" order=\"created_at\" offset=\"@URL|0\"]]\n%%content%%\n[[/module]]\n\n[!-- 迭代： --]\n[!-- http://scp-wiki-cn.wikidot.com/fragment:scp-5092-1 --]\n[!-- http://scp-wiki-cn.wikidot.com/fragment:scp-5092-2 --]\n\n[[footnoteblock]]\n\n[[div class=\"footer-wikiwalk-nav\"]]\n[[=]]\n<< [[[SCP-5091]]] | SCP-5092 | [[[SCP-5093]]] >>\n[[/=]]\n[[/div]]\n\n[[include :scp-wiki-cn:component:license-box\n|author=WizzBlizz]]\n=====\n> **文件名：**Obama\n> **图像出处：**来自视频《奥巴马总统对2013年NBA冠军队迈阿密热火的祝贺（ //President Obama Honors the 2013 NBA Champion Miami Heat//）》中的静止帧\n> **来源链接：***https://youtu.be/WelG2e4g0xE\n> **来源主页：**The Obama White House - //由国家档案与文件署（the National Archives and Records Administration ，NARA）维护//\n> **备注：**本人编辑了该静止帧。\n \n> **文件名：**MoreObama\n> **图像名：**Vice President Joe Biden and President Barack Obama\n> **图像作者：**U.S. Embassy Jakarta, Indonesia\n> **授权协议：**公有领域\n> **来源链接：***https://search.creativecommons.org/photos/17a67dc5-d094-4622-9576-1eb3c1250742\n> **额外备注：**由本人编辑\n \n> **文件名：**ObamaAgain\n> **图像名：**Obama Potrait 2006\n> **图像作者：**Ari Levinson\n> **授权协议：**CC BY-SA 3.0\n> **来源链接：***https://commons.wikimedia.org/wiki/File:Obama_Portrait_2006.jpg\n> **额外备注：**由本人编辑\n \n> **文件名：**Tool（第一张用的图像）\n> **图像名：**feather\n> **图像作者：**n0rthw1nd\n> **授权协议：**CC BY 2.0\n> **来源链接：***https://search.creativecommons.org/photos/dbae97b8-9f2a-4823-9553-45992a9e957d\n> **额外备注：**由本人编辑\n \n> **文件名：**Tool（第二张用的图像）\n> **图像名：**Rainbow flashlight e-cig mod\n> **图像作者：**wstryder\n> **授权协议：**CC BY 2.0\n> **来源链接：***https://search.creativecommons.org/photos/b9717904-c12d-494b-af9b-26859d2eb00f\n> **额外备注：**由本人编辑\n \n> **文件名：**Entity（第一张用的图像）\n> **图像名：**old man\n> **图像作者：**schalkandreas\n> **授权协议：**CC BY 2.0\n> **来源链接：***https://search.creativecommons.org/photos/ce4701e9-1b71-4010-8535-93aca212d050\n> **额外备注：**由本人编辑\n\n> **文件名：**Entity（第二张用的图像）\n> **图像名：**The Old Executive Office Building in Washington, D.C. in 2012\n> **图像作者：**Another Believer\n> **授权协议：**CC BY-SA 3.0\n> **来源链接：***https://commons.wikimedia.org/wiki/Category:2012_photographs_of_Washington,_D.C._by_Another_Believer#/media/File:Executive_Office_Building,_Washington,_D.C._-_2012.JPG\n> **额外备注：**由本人编辑\n \n> **文件名：**troops\n> **图像名：**Minneapolis Uprising\n> **图像作者：**Tony Webster\n> **授权协议：**CC BY-SA 2.0\n> **来源链接：***https://commons.wikimedia.org/wiki/File:Minneapolis_Uprising.jpg\n> **额外备注：**由本人编辑\n\n> **文件名：**trump\n> **图像名：**Donald Trump\n> **图像作者：**Gage Skidmore\n> **授权协议：**CC BY-SA 2.0\n> **来源链接：***https://search.creativecommons.org/photos/9bb8e7ea-42c7-47a9-b17c-4713b7c49cc4\n> **额外备注：**由本人编辑\n\n> **文件名：**Padlock4.png\n> **图像作者：**我，[[*User WizzBlizz]]\n> **备注：**用这张图像随意做什么都行。\n=====\n[[include :scp-wiki-cn:component:license-box-end]]",
+  "tags": [
+    "keter",
+    "k级情景",
+    "scp",
+    "循环",
+    "政治家",
+    "星际"
+  ],
+  "author": "ashausesall",
+  "created_at": "2020-10-25T15:23:41+00:00",
+  "updated_at": "2024-06-24T04:11:54+00:00",
+  "rating": 31,
+  "_site": "scp-wiki-cn",
+  "_fullname": "scp-5092"
+}

@@ -1,0 +1,14 @@
+{
+  "title": "Penguin's Igloo",
+  "content": "[[include :scp-wiki:theme:black-highlighter-theme]]\n[[include :scp-wiki:component:collapsible-sidebar]]\n[[module rate]]\n[[include component:author-page\n  order=created_at |\n  perpage=100 |\n  background=yes |\n  image=yes |\n  sortbar=yes |\n]]\n[[include component:author-page-collab\n  name=scp-5270 |\n  written_by=penguin6, gerrymanderbassist |\n  background=yes |\n  image=yes | \n]]\n~~~~~\n[[include :scp-wiki:component:license-box]]\n[[include :scp-wiki:component:license-box-end]]",
+  "tags": [
+    "_licensebox",
+    "author"
+  ],
+  "author": null,
+  "created_at": "2021-02-14T14:36:48+00:00",
+  "updated_at": "2022-10-22T16:45:44+00:00",
+  "rating": 26,
+  "_site": "scp-wiki",
+  "_fullname": "penguin-s-igloo"
+}

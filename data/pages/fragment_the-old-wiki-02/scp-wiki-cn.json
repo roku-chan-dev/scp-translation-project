@@ -1,0 +1,13 @@
+{
+  "title": "fragment:the-old-wiki-02",
+  "content": "[[module CSS]]\n#page-title {\n  display: none;\n}\n\n.meta-title {\n  border-bottom: solid 1px #bbbbbb;\n  color: #990011;\n  font-weight: normal;\n  margin: 0 0 0.6em;\n  padding: 0 0 0.25em;\n  font-size: 200%;\n}\n\n.meta-title p {\n  margin: 0;\n}\n[[/module]]\n\n[[include :scp-jp-sandbox2:inc:addspecialcss]]\n[[include :scpsandboxcn:inc:addspecialcss-cn]]\n[[div class=\"DummyForumTitle\"]]\n[[[the-old-wiki|旧维基]]] / 讨论区\n* Forum\n* 单页讨论 / 单页讨论\n* 旧维基\n[[/div]]\n\n[[include :scpsandboxcn:inc:pseudosummary |\nURL=http://scpsandboxcn.wikidot.com/local--files/cynthia7979/blank.png|\nNAME=Wikidot |\nDATE=12 Sep 2008, 00:44|\nPOST=3|\nSUMMARY = block]]\n这是与维基页面相关联的讨论内容 [[[the-old-wiki|旧维基]]].\n[[include :scpsandboxcn:inc:pseudosummary-end]]\n\n[[include :scp-jp-sandbox2:inc:pseudoPost |\nURL=http://scpsandboxcn.wikidot.com/local--files/cynthia7979/Kain%20Pathos%20Crow.png|\nNAME=Kain Pathos Crow |\nDATE=12 Sep 2008, 00:45|\nTITLE= ]]\n但是进化那些东西太牛了！冲啊！\n[[/div]]\n[[/div]]\n\n[[include :scp-jp-sandbox2:inc:pseudoPost |\nURL=http://scpsandboxcn.wikidot.com/local--files/cynthia7979/Dr%20Gears.png|\nNAME=Dr Gears |\nDATE=12 Sep 2008, 00:51|\nTITLE= ]]\n芜湖！我们就像某种奇怪的网络蝴蝶一样，冲出了旧网站的茧，比以前变得更好，更强了!\n[[/div]]\n[[/div]]\n\n[[include :scp-jp-sandbox2:inc:pseudoPost |\nURL=http://scpsandboxcn.wikidot.com/local--files/cynthia7979/Noaqiyeum.png|\nNAME=Noaqiyeum |\nDATE=12 Sep 2008, 06:07|\nTITLE= ]]\n一只奇怪的网络蝴蝶，险些被黑暗未知的恐怖吞噬……\n[[/div]]\n[[/div]]\n\n[[div class=\"DummyNew-post\"]]\n[[span class=\"fake-link\"]]新文章[[/span]]\n[[/div]]",
+  "tags": [
+    "段落"
+  ],
+  "author": "Cynthia7979",
+  "created_at": "2020-07-13T09:11:31+00:00",
+  "updated_at": "2020-07-13T09:14:38+00:00",
+  "rating": 0,
+  "_site": "scp-wiki-cn",
+  "_fullname": "fragment:the-old-wiki-02"
+}

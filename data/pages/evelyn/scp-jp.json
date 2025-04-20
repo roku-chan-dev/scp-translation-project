@@ -1,0 +1,14 @@
+{
+  "title": "エヴリン",
+  "content": "[[>]]\n[[module Rate]]\n[[/>]]\n\n[[module CSS]]\n#page-title {\n    display: none;\n}\n[[/module]]\n\n[[=image evelyn]]\n\n{{ジャック、私の息子よ、愛していますよ。もしこれを読んでいるのなら、帰ってきてください。}}\n\n{{(これは非常に古いメッセージだ。たとえ子を思いやる気持ちが込められていようとも、ジャックが知るべきものではないのだ。) }}\n\n{{[http://scp-jp.wikidot.com/your-circuits-dead-theres-something-wrong 戻る]}}\n\n[[footnoteblock]]\n[!-- 脚注をコメント欄の上に表示するために必要な構文です。不要な場合は削除してください。 --]",
+  "tags": [
+    "en",
+    "tale"
+  ],
+  "author": "luzbrilliant",
+  "created_at": "2021-01-23T14:09:02+00:00",
+  "updated_at": "2021-02-14T04:51:31+00:00",
+  "rating": 6,
+  "_site": "scp-jp",
+  "_fullname": "evelyn"
+}

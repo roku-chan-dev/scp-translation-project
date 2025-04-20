@@ -1,0 +1,14 @@
+{
+  "title": "10125",
+  "content": "overview: 突如として、一座標に同様の特徴を持つ建造物が283棟出現しました。建造物の特徴として、机が40台、黒板が1枚それぞれ備え付けられていました。\nswdate: '1'\ndate: 201█/██/██\nswplace: '1'\nplace: カンボジア・ウドーミアンチェイ州の小村\nswchaseprocedure: '1'\nchaseprocedure: 建造物とそれに伴う瓦礫はすべて回収し、村民には記憶処理を施しました。また、出現時刻は東京都のボランティアグループ「██████」による集団自殺事件が発生したと思われる時刻と±10分の誤差で一致し、関連性が疑われています。\nswaddendum: '0'\naddendum: ''\ntf2: '0'\nauthor: ''\nredirect-b: '[[module Redirect destination=\"/log-of-extranormal-events-jp'\nredirect-e: '\"]]'",
+  "tags": [
+    "jp",
+    "剪定対象-子"
+  ],
+  "author": "Gokipo",
+  "created_at": "2021-01-16T16:06:37+00:00",
+  "updated_at": "2021-05-24T13:21:20+00:00",
+  "rating": 14,
+  "_site": "scp-jp",
+  "_fullname": "extranormal-events-jp:10125"
+}

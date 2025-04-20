@@ -1,0 +1,17 @@
+{
+  "title": "SCP-CN-3018",
+  "content": "[[include :scp-wiki-cn:credit:start]]\n[[=]]\n作者[[*user Black_scar]]\n@@@@\n\n[[[https://unsplash.com/photos/a-couple-of-birds-sitting-on-top-of-a-grass-covered-field-9GyjzDSIH7E | 图源Unsplash，作者Sonny Mauricio]]]\n-----\n[[[black-scar-s-personnel-file|欢迎参观我的人事页]]]\n\n[[/=]]\n[[include :scp-wiki-cn:credit:end]]\n\n[[include component:image-block name=http://scpsandboxcn.wikidot.com/local--files/mryuan-pic/crows.jpg|caption=对SCP-CN-3018的一张特写]]\n\n**项目编号：**SCP-CN-3018\n\n**项目等级：**Keter\n\n**特殊收容措施：**SCP-CN-3018当前仍未被收容。根据无聊镇合约第六修正案，任何新的针对SCP-CN-3018的目击记录应向GoI-466（威尔逊野生动物应对组）提供备份。\n\n**描述：**SCP-CN-3018是表现出特定异常行为（称为3018-OMEGA）的鸦属鸟类的统称。\n\n3018-OMEGA多见于动物尸体的周围，其流程大致固定：\n\n* 两只SCP-CN-3018同时降落在动物尸体的附近。\n* 多数记录中，SCP-CN-3018会头顶一枚塑料瓶盖。在接近动物尸体时，持有瓶盖的SCP-CN-3018会将瓶盖抖落在地面上。在离开时，SCP-CN-3018会将瓶盖重新捡起。\n* 其中一只SCP-CN-3018会在动物尸体周围来回踱步，并偶尔发出简短且低沉的叫声。另一只SCP-CN-3018则站在一旁，注视着前者的行为。\n* 少数记录中，SCP-CN-3018会叼有一节极短的小木棍，长度一般不超过两公分。\n\n以上过程一般持续5-10分钟，在其结束后SCP-CN-3018将迅速飞离现场。\n\nSCP-CN-3018一般具有高度的警惕性以及反侦察意识，对其的进一步研究往往难以进行。21世纪初，随着深度学习技术的兴起，基金会开始将大语言模型批量应用于对异常项目的分析及处理之中。在此背景下，对SCP-CN-3018语言的破译工作已取得阶段性成效。\n\n**Babel.aic译文示例**（截取自异常行为记录3018-OMEGA-IV）**：**\n\n[[collapsible show=\"+ 以下记录仅限拥有三级及以上权限人员访问\" hide=\"- [验证通过] 点击关闭\"]]\n> ......不排除他杀。\n[[/collapsible]]\n\n[[footnoteblock]]\n\n[[div class=\"footer-wikiwalk-nav\"]]\n[[=]]\n<< [[[SCP-CN-3017]]] | SCP-CN-3018 | [[[SCP-CN-3019]]] >>\n[[/=]]\n[[/div]]",
+  "tags": [
+    "keter",
+    "scp",
+    "原创",
+    "威尔逊野生动物",
+    "鸟类"
+  ],
+  "author": "Black_scar",
+  "created_at": "2024-03-09T15:15:11+00:00",
+  "updated_at": "2024-03-10T10:47:42+00:00",
+  "rating": 69,
+  "_site": "scp-wiki-cn",
+  "_fullname": "scp-cn-3018"
+}

@@ -1,0 +1,17 @@
+{
+  "title": "SCP-3317 Audio Documentation",
+  "content": "[[>]]\n[[module Rate]]\n[[/>]]\n\n[[collapsible show=\"<NULL>: SHOW AUDIO FILE FOR SCP-3317\" hide=\"<NULL>: HIDE AUDIO FILE FOR SCP-3317\"]]\n\n[[include :snippets:html5player\n|type=audio\n|url=http://scp-wiki.wdfiles.com/local--files/scp-3317/scp-3317.mp3\n]]\n\nFile recorded by [[[theesherm-site-42|Dr. Theron Sherman]]] and a Text-to-Speech Analysis construct, Type-P (\"Dead Channel\"), in conjunction with the Foundation Department of Film and Media. It was produced as part of the [https://www.youtube.com/c/theesherm42 Site-42 audio documentation programme]. \n\nAll rights reserved.\n\n[[/collapsible]]\n\n@@\n@@\n@@\n@@\n\n[[include :scp-wiki:component:license-box]]\n=====\n> **Filename:** scp-3317.mp3\n> **Author:** [[*user TheeSherm]]\n> **License:** CC BY-SA 3.0\n> **Source Link:** [http://scp-wiki.wikidot.com/scp-3317-audio SCP Foundation Wiki]\n=====\n[[include :scp-wiki:component:license-box-end]]",
+  "tags": [
+    "_cc",
+    "_licensebox",
+    "audio",
+    "co-authored",
+    "supplement"
+  ],
+  "author": "MaliceAforethought",
+  "created_at": "2018-07-22T17:58:56+00:00",
+  "updated_at": "2021-07-19T23:50:53+00:00",
+  "rating": 26,
+  "_site": "scp-wiki",
+  "_fullname": "scp-3317-audio"
+}

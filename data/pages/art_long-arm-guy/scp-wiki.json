@@ -1,0 +1,18 @@
+{
+  "title": "Shy guy",
+  "content": "[[>]]\n[[module Rate]]\n[[/>]]\n\n[[include :scp-wiki:theme:black-highlighter-theme]]\n[[include :scp-wiki:theme:jakstyle]]\n\n[[div class=\"crom-thumbnail\" style=\"display: none;\"]]\n[[include component:image-block name=shy-guy-smaller.png]]\n[[/div]]\n\n@@ @@\n\n\n[[image https://scp-wiki.wdfiles.com/local--files/art%3Along-arm-guy/shy-guy-smaller.png]]\n\n@@ @@\n@@ @@\n@@ @@\n\n+ **Jaw dropping!!**\n\n@@ @@\n@@ @@\n@@ @@\n@@ @@\n[https://scp-wiki.wikidot.com/fairydoctor-folio More from fairydoctor]\n\n@@ @@\n\n[[include :scp-wiki:component:license-box]]\n=====\n> **Filename:** shy-guy-smaller.png\n> **Author:** [[*user fairydoctor]]\n> **License:** CC BY-SA 3.0\n> **Source Link:** [https://scp-wiki.wikidot.com/art:long-arm-guy SCP Foundation Wiki]\n=====\n[[include :scp-wiki:component:license-box-end]]",
+  "tags": [
+    "_cc",
+    "_licensebox",
+    "artwork",
+    "painted",
+    "scp-art",
+    "shy-guy"
+  ],
+  "author": "fairydoctor",
+  "created_at": "2022-07-04T20:04:45+00:00",
+  "updated_at": "2024-03-28T18:44:01+00:00",
+  "rating": 77,
+  "_site": "scp-wiki",
+  "_fullname": "art:long-arm-guy"
+}

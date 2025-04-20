@@ -1,0 +1,14 @@
+{
+  "title": "04105",
+  "content": "content: \"**説明:** A4サイズのルーズリーフに記述された文字列を取り込めるマイクロコンピュータ。取り込んだ文字列がどのような形式であろうとプログラムとして成立していた場合、正しく動作させることが可能である。\\n**回収日:** 20██/██/██\\n**回収場所:** ████高等専門学校\\n**現状:** 低脅威度物品収容ロッカーに保管中\\n**追記:** これを利用してプログラミング言語の開発を行う計画が進行中です-██研究員\"\ntf2: '0'\nauthor: ''\nredirect-b: '[[module Redirect destination=\"http://ja.scp-wiki.net/log-of-anomalous-items-jp'\nredirect-e: '\"]]'",
+  "tags": [
+    "jp",
+    "剪定対象-子"
+  ],
+  "author": "Poliknown2",
+  "created_at": "2023-05-20T07:19:56+00:00",
+  "updated_at": "2023-05-20T07:20:49+00:00",
+  "rating": 6,
+  "_site": "scp-jp",
+  "_fullname": "anomalous-jp:04105"
+}

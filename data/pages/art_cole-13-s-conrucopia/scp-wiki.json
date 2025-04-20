@@ -1,0 +1,16 @@
+{
+  "title": "Cole 13's Cornucopia",
+  "content": "[[include :scp-wiki:theme:basalt hidetitle=a | darkmode=a]]\n\n[[>]]\n[[module Rate]]\n[[/>]]\n\n[[module CSS]]\n@import url('https://fonts.googleapis.com/css2?family=Lobster&display=swap');\n[[/module]]\n\n[[div style=\"margin: auto; text-align: center; color: white; font-size: 4rem; font-family: 'Lobster', cursive;\"]]\n- Cole 13's Cornucopia -\n[[/div]]\n\n@@ @@\n\nHello! Welcome! By now, you may be wondering, \"what the hell is this place?\" or \"I must have clicked the wrong link, I'll close this tab.\" or \"maybe Cole is pedaling his cheap crap again.\" Before you close out, I would like to inform you that this \"Cornucopia\" is a mass author avatar drawing for the people I am really thankful for in this community. I was going to do this nearer to Thanksgiving, but that ship has sailed. Well, sooner than later I guess. To not release this in the middle of December, I've decided to do this in batches, as I have quite a bit of things qued. Enjoy!\n\n@@ @@\n[[div style=\"margin: auto; text-align: center; color: white; font-size: 3rem; font-family: 'Lobster', cursive;\"]]\n- Batch 1 -\n[[/div]]\n[[div style=\"width: 70rem; margin: auto;\"]]\n[[include component:image-block\nname= Https://scpdsandbox.wikidot.com/local--files/a-cornucopia/DAN.png|\ncaption=//Daniel Asheworth, [[*user ralliston]]'s AA//|\nalign=center\n]]\n[[/div]]\n@@ @@\n@@ @@\n[[div style=\"width: 70rem; margin: auto;\"]]\n[[include component:image-block\nname= Https://scpdsandbox.wikidot.com/local--files/a-cornucopia/DANCAT.png|\ncaption=//Daniel Asheworth, [[*user ralliston]]'s AA (But catboy)//|\nalign=center\n]]\n[[/div]]\n@@ @@\n@@ @@\n[[div style=\"width: 70rem; margin: auto;\"]]\n[[include component:image-block\nname= Https://scpdsandbox.wikidot.com/local--files/a-cornucopia/PLACEH.png|\ncaption=//Place Mcdoctorate, [[*user Placeholder McD]]'s AA[[footnote]]So, I'm sorry about the beard. This will probably be redrawn sometime in the future. [[/footnote]]//|\nalign=center\n]]\n[[/div]]\n@@ @@\n@@ @@\n[[div style=\"width: 70rem; margin: auto;\"]]\n[[include component:image-block\nname= Https://scpdsandbox.wikidot.com/local--files/a-cornucopia/RORB.png|\ncaption=//Dr. Cole Thereven, pondering the rounder-orb[[footnote]]For [[*user rounderhouse]] [[/footnote]]//|\nalign=center\n]]\n[[/div]]",
+  "tags": [
+    "_cc",
+    "artwork",
+    "cel-shaded",
+    "personnel-art"
+  ],
+  "author": "Cole 13",
+  "created_at": "2021-12-07T02:23:04+00:00",
+  "updated_at": "2024-03-28T06:53:49+00:00",
+  "rating": 13,
+  "_site": "scp-wiki",
+  "_fullname": "art:cole-13-s-conrucopia"
+}

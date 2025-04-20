@@ -1,0 +1,19 @@
+{
+  "title": "윤회",
+  "content": "[[include theme:3law]]\n\n[[include credit:start]]\n**Original:** [http://www.scpwiki.com/samsara Samsara] by [[*user A Random Day]] & [[*user TyGently]]\n**Paraphrast:** [[*user XCninety]]\n[[include credit:end]]\n\n[[module ListPages category=\"fragment\" parent=\".\" limit=\"1\" order=\"created_at\" offset=\"@URL|0\"]]\n%%content%%\n[[/module]]\n\n----\n\n[[=]]\n,,**<<** [[[The Lord of Endowments|]]] | ##blue|윤회 ##**>>**,,\n[[/=]]",
+  "tags": [
+    "2016-기특대-en",
+    "en",
+    "공저",
+    "이야기",
+    "제3법칙",
+    "타우-5-윤회",
+    "프로메테우스"
+  ],
+  "author": "XCninety",
+  "created_at": "2020-08-11T15:22:15+00:00",
+  "updated_at": "2024-10-20T13:32:28+00:00",
+  "rating": 6,
+  "_site": "scpko",
+  "_fullname": "samsara"
+}

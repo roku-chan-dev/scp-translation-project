@@ -1,0 +1,18 @@
+{
+  "title": "SCP-3644",
+  "content": "[[include :scp-jp:theme:black-highlighter-theme]]\n[[include :scp-jp:component:bhl-dark-sidebar]]\n[[include :scp-jp:component:toggle-sidebar-bhl]]\n[[include :scp-jp:component:acs-animation]]\n\n[[>]]\n[[module rate]]\n[[/>]]\n\n[[include :scp-jp:component:anomaly-class-bar-source\n|item-number= 3644\n|clearance=  未定\n|container-class= 未定\n|disruption-class= 未定\n|risk-class= 未定\n]]\n\n[[include :scp-jp:component:customizable-acs\n|containment-class= 未定\n|containment-image= http://scp-jp-storage.wdfiles.com/local--files/file%3A2375337-250-cgf2/tbd.png\n|containment-color= 0, 0, 0\n|inc-containment = --]]]\n\n[[include :scp-jp:component:customizable-acs\n|disruption-class= 未定\n|disruption-image= http://scp-jp-storage.wdfiles.com/local--files/file%3A2375337-250-cgf2/tbd.png\n|disruption-color= 0, 0, 0\n|inc-disruption = --]]]\n\n[[include :scp-jp:component:customizable-acs\n|risk-class= 未定\n|risk-image= http://scp-jp-storage.wdfiles.com/local--files/file%3A2375337-250-cgf2/tbd.png\n|risk-color= 0, 0, 0\n|inc-risk = --]]]\n\n-----\n\n**特別収容プロトコル:** セイラム=オーデン博士の説明と一致する容姿の実体が発見され次第、[[[SCP-6664|サイト-86]]]の標準的なヒト型生物収容室に収容します。収容後、SCP-3644は時間異常部門の拘留下に置かれます。\n\n**説明:** 財団データベースのSCP-3644スロットは、2021年9月2日にセイラム=オーデン博士[[footnote]]サイト-86の[[[SCP-1780|時間異常部門]]][[[SCP-7749|地域統括官]]]。[[/footnote]]が目撃した、現在まだ発見されていない実体のために予約されています。\n\nセイラム=オーデン博士によると、当該実体は2021/09/02の12:58に彼女のオフィスに出現しました。実体の出現直後、財団時間異常部門の記章を身に着けた別の実体(SCP-3644-1に指定)がオフィスに出現し、最初の実体を捕縛しました。両実体はその後間もなく消失しました。\n\n実体の出現から消失までがごく短時間の出来事であるため、実体の容姿に関する詳細情報はごく僅かしか得られていません。以下の身体的特徴は、セイラム=オーデン博士が当該実体に関する最初の報告書に記述したものです。\n\n* 実体の外見は成人女性に類似していた。\n* 実体の容姿はセイラム=オーデン博士に似ていたが、約10歳ほど年上のように見えた。\n* 実体は時間異常部門の財団エージェントが着用するものに似た制服を着ていた。\n* 実体は標準的な財団支給の銃器を携行しており、捕縛される前にそれをセイラム=オーデン博士に向けていた。",
+  "tags": [
+    "en",
+    "esoteric-class",
+    "scp",
+    "デルタ-t",
+    "人間型",
+    "時間"
+  ],
+  "author": "C-Dives",
+  "created_at": "2021-09-06T12:05:22+00:00",
+  "updated_at": "2024-06-25T13:13:25+00:00",
+  "rating": -9,
+  "_site": "scp-jp",
+  "_fullname": "scp-3644"
+}

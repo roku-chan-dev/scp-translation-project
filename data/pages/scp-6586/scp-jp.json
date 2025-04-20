@@ -1,0 +1,21 @@
+{
+  "title": "SCP-6586",
+  "content": "[[>]]\n[[module Rate]]\n[[/>]]\n\n[[include :scp-jp:theme:paperstack]]\n[[div class=\"logo\"]]\n[[image https://scp-jp.wdfiles.com/local--files/theme%3Apaperstack/lgtrans.png]]\n[[/div]]\n\n[[div class=\"header-container-ex\"]]\n[[div class=\"header-info\"]]\n[[div class=\"header-info-flex\"]]\n[[div class=\"text-item\"]]\n[[size 90%]]##grey|**担当サイト:**##[[/size]]\n\n[[size 220%]]**N/A**[[/size]]\n[[/div]]\n\n[[div class=\"text-item\"]]\n[[size 90%]]##grey|**担当部門:**##[[/size]]\n\n[[size 220%]]**異常生態系**[[/size]]\n[[/div]]\n[[/div]]\n[[/div]]\n[[/div]]\n\n[[div class=\"anom-bar-esoteric\"]]\n\n\n[[include :scp-jp:component:customizable-acs\n|containment-class= keter\n|containment-color= 255,56,46\n|secondary-class= uncontained\n|secondary-color= 110,70,64\n|inc-split-color= --]]]\n\n[[include :scp-jp:component:customizable-acs\n|containment-class= keter\n|containment-image= https://scp-jp.wdfiles.com/local--files/component%3Aanomaly-class-bar/keter-icon.svg\n|containment-color= 255,56,46\n|inc-esoteric-layout = --]]]\n\n[[div class=\"anom-bar-esoteric\"]]\n\n[[include :scp-jp:component:anomaly-class-bar-source\n|item-number= 6586\n|clearance= 1\n|container-class= keter\n|secondary-class= uncontained\n|secondary-icon= http://scp-jp-storage.wikidot.com/local--files/file:7522555-185-9ssw/uncontained-icon.svg\n|disruption-class= ekhi\n|risk-class= notice\n]]\n\n[[/div]]\n\n[[/div]]\n\n\n[[include :scp-jp:component:acs-animation]]\n\n@@ @@\n\n**特別収容プロトコル:** 財団製隠しカメラを用いてSCP-6586の既知の発生点を監視し、また今後発生の可能性がある地点でSCP-6586実例の兆候がないか監視します。検出時に民間人が存在する場合は、領域内に設置した気体ダクトから主にクラスH及びB記憶処理剤から成るエアロゾル化記憶処理剤を散布します。それに次いで、最寄りの関連機動部隊を配備し、主要なSCP-6586実体の調査に加えて、全ての民間の目撃者を回収し、彼らを住居に移送します。\n\nSCP-6586の高い出現頻度及び出現範囲から、民間人による目撃事案を収拾させることに特化した機動部隊への資金投入を大幅に増加させることが承認されました。加えて、衛星写真からSCP-6586イベントを検出することが出来るアルゴリズムが現在複数開発中です。このアルゴリズムはカメラを大量に設置するコストを削減する目的で、可能な限り早く実用化します。\n\n現時点で、これ以上の措置は必要とされていません。\n\n**説明:** SCP-6586は、本来存在し得ない非物理的な森林生態系が不定期に出現する[[footnote]]世界全体で1週間におよそ4回の頻度で出現します。[[/footnote]]現象です。SCP-6586実例には、典型的には出現点より広範囲の地域に固有の植物種及び動物種が含まれ、それらの生物はそれが類似する種と近い行動様式を持ちます。特筆すべきことに、異常性の影響を受けた領域では、既に絶滅した生物に類似したオブジェクトが生息していることも確認されています。SCP-6586実例は過去にこの異常性の影響を受けた領域では出現が確認されていません。\n\nSCP-6586の一部として出現するオブジェクトは環境中に存在する地面及びその他すべての物体を通り抜けますが、SCP-6586の非物質的性質から物理的環境に明確な影響は残りません。これらのオブジェクトは典型的には半透明で、かすかに灰色がかった青色を呈します。唯一の例外はSCP-6586-1です。\n\nSCP-6586-1は花崗岩でできた墓石であり、SCP-6586実例と共に出現します。物理的でかつ不透明であることが、他の生成するオブジェクトと明らかに異なります。SCP-6586-1の土にはその地域の固有種である花が枯れた状態で必ず存在します。\n\n人間がSCP-6586実例の一部として出現した主要な植物相及び動物相[[footnote]]草、小規模の藪、微生物及び小型の昆虫は含まれません。[[/footnote]]に接触すると、SCP-6586-1を除く全てのSCP-6586オブジェクトは、数分かけて少しずつ崩壊して消滅します。全てのオブジェクトが完全に消滅すると、影響を受けた地域は、そのようなイベントが発生しにくい気候条件であっても、極端な気温変化や他の環境的要因から24時間激しい降水に見舞われます。\n\n最初のSCP-6586実例は2102年にブラジル・マナウスで確認されました。これは、地球上で最後の天然熱帯雨林が破壊された後、ほとんど速やかに発生しました。かつて熱帯雨林が存在したものの、先ほどの例と同様に破壊された地域でのみ発生が確認されています。異常性の起源は未だ不明です。\n\n[[footnoteblock]]\n@@ @@\n\n[[div class=\"footer-wikiwalk-nav\"]]\n[[=]]\n<< [[[SCP-6585]]] | SCP-6586 | [[[SCP-6587]]] >>\n[[/=]]\n[[/div]]\n\n@@ @@\n[!-- SCP-JPファイルストレージにアップロードされた画像を使用した場合、使用した画像のページに記事のURLを追記する必要があります。詳細はファイルストレージ利用ガイドを参照してください。 --]",
+  "tags": [
+    "en",
+    "keter",
+    "scp",
+    "人工",
+    "天候",
+    "未収容",
+    "森林",
+    "触覚",
+    "非実体"
+  ],
+  "author": "Kayama_Nacho",
+  "created_at": "2023-10-19T05:48:05+00:00",
+  "updated_at": "2023-11-16T00:10:56+00:00",
+  "rating": 5,
+  "_site": "scp-jp",
+  "_fullname": "scp-6586"
+}

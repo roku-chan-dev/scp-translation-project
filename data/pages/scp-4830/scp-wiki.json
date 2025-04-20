@@ -1,0 +1,21 @@
+{
+  "title": "SCP-4830",
+  "content": "[[>]]\n[[module Rate]]\n[[/>]]\n[[include component:image-block\n    name=brain2.gif|\n    caption=                                                 \n]]\n**Item Number:** SCP-4830\n\n**Item Class:** Keter\n@@@@\n**Special Containment Procedures:** SCP-4830 is to be monitored for transmission from the noosphere[[footnote]]The collective of all human consciousness and thought.[[/footnote]] into the  infosphere [[footnote]]The collective of all information.[[/footnote]].\n@@@@\nIn the case @@ @@ noosphere-infosphere transmission or situations requiring neutralizing SCP-4830 at any cost, Scranton Guillotines [[footnote]]Scranton Reality Anchors forming a thin shell @@ @@ absolute unreality around an area.[[/footnote]] are to be deployed around all Foundation sites and areas (save Area-13) until SCP-4830 is neutralized.\n@@@@\nAll Foundation @@   @@ displaying signs of SCP-4830 exposure are to undergo Class-Z mnestic regimen, @@  @@ quarantined within a Scranton Guillotine, and have their memory dumped @@  @@ compared to @@   @@ earliest memory dump on file. Any deviation of over 10% in long-term memory is to@@      @@a@@      @@ breach, and the infected employee reassigned to Area-13.\n@@@@\n@@@@\nSelect cognitohazards @@    @@ injected into the noosphere to @@    @@ and stem the growth of SCP-4830. Collateral damage to @@              @@is a nonissue, as any individuals@@        @@present nonanomalous, early-onset degenerative brain disorders.\n@@@@\n@@@@\nDisinformation Campaign @@                @@pandemic @@                    @@[[footnote]]Airborne Transmissible Spongiform Encephalopathy [[/footnote]] within scientific @@            @@.\n@@@@\n@@@@\n@@                                                  @@\n@@                                                  @@\n@@                                                  @@\n@@@@\n@@@@\nDC-4830 is @@    @@ introduce @@     @@ saturation of@@      @@voluntary skull rupture @@  @@ cerebrophagy into horror media @@         @@copy-cat cases.\n@@@@\n@@@@\n@@                                                  @@\n@@                                                  @@\n@@                                                  @@\n@@                                                  @@\n**Description:**\n@@@@\n@@@@\n@@                                                  @@\n@@                                                  @@\n@@                                                  @@\n@@                                                  @@\n@@@@\n@@@@\n@@                                                  @@\n@@                                                  @@\n@@                                                  @@\n@@                                                  @@\n@@                                                  @@\n@@                                                  @@\n@@@@\n@@@@\n@@                                                  @@\n@@                                                  @@\n@@                                                  @@\n@@                                                  @@\n[[module css]]\n\n.footnotes-footer{\n    display: none;\n}\n\n#header h2 span {\n    color: transparent;\n    text-shadow: none;\n}\n\n#header h2 span::before {\n    content: \"Secure, Contain,      \";\n    display: block;\n    margin: 0;\n    padding: 0px 0;\n    line-height: 0px;\n    max-height: 0px;\n    color: #fff;\n}\n\n[[/module]]\n\n[[footnoteblock]]\n[[div class=\"footer-wikiwalk-nav\"]]\n[[=]]\n<< [[[SCP-4829]]] | SCP-4830 | [[[SCP-4831]]] >>\n[[/=]]\n[[/div]]",
+  "tags": [
+    "_cc",
+    "intangible",
+    "keter",
+    "memetic",
+    "memory-affecting",
+    "meta",
+    "neurological",
+    "predatory",
+    "scp"
+  ],
+  "author": "DolphinSlugchugger",
+  "created_at": "2019-03-22T07:32:57+00:00",
+  "updated_at": "2020-03-15T21:52:51+00:00",
+  "rating": 157,
+  "_site": "scp-wiki",
+  "_fullname": "scp-4830"
+}

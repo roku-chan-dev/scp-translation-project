@@ -1,0 +1,25 @@
+{
+  "title": "SCP-5472",
+  "content": "[[include :scp-wiki:component:sigma-plus\n|wide=a]]\n[[include :scp-wiki:component:toggle-sidebar]]\n\n[[include component:preview\ntext=There's a portal to a mansion in the back of a van.]]\n\n[[module CSS]]\n:root {\n    --header-title: \"SCP Foundation\";\n    --header-subtitle: \"Studying Contradictory Places\";\n}\n\nsup {\n  vertical-align: top;\n  position: relative;\n  top: -0.5em;\n}\n\n.note {\n    background: #ffffff;\n    background-size: 400px;\n    background-position: center;\n    background-repeat: no-repeat;\n    box-shadow: 0px 0px 5px rgba(0, 0, 0, 0.5);\n    width: 90%;\n    min-height: 4rem;\n    margin-left: auto;\n    margin-right: auto;\n    padding: 10px 20px 20px 20px;\n    word-break: break-word;\n}\n\n\n.scp-image-block.block-right { margin: 1em 2em 1em 1em; }\n\n#page-title{display:none}\n\n[[/module]]\n\n=====\n[[include :scp-wiki:component:preview text=A Portal to a Mansion in the Back of a Van]]\n=====\n\n[[module ListPages category=\"fragment\" parent=\".\" order=\"created_at\" limit=\"1\" offset=\"@URL|0\"]]\n%%content%%\n[[/module]]\n\n[!-- https://scp-wiki.wikidot.com/fragment:scp-5472-0 --]\n[!-- https://scp-wiki.wikidot.com/fragment:scp-5472-1 --]\n\n\n------\n[[div class=\"footer-wikiwalk-nav\"]]\n[[=]]\n<< [[[SCP-5471]]] | SCP-5472 | [[[SCP-5473]]] >>\n[[/=]]\n[[/div]]\n\n[[=]]\n[[include :scp-wiki:component:license-box]]\n[[<]]\n=====\n> **Filename:** IMG_6735.JPG\n> **Name:** 2023 Ford Transit Connect XL LWB\n> **Author:** [[*user Jiwoahn]]\n> **License:** CC BY-SA 3.0\n> **Source Link:** [https://scp-wiki.wikidot.com/scp-5472 SCP Foundation Wiki]\n\n> **Filename:** Downtowngal_on_Wikimedia.jpg\n> **Name:** Empty apartment living room.jpg\n> **Author:** [https://commons.wikimedia.org/wiki/User:Downtowngal Downtowngal]\n> **License:** CC BY-SA 3.0\n> **Source Link:** [https://commons.wikimedia.org/wiki/File:Empty_apartment_living_room.jpg Wikimedia Commons]\n\n> **Filename:** PMBV.JPG\n> **Name:** //How to Make a Portal to a Mansion in the Back of a Van// - written by Manny van Portshire\n> **Author:** [[*user Jiwoahn]]\n> **License:** CC BY-SA 3.0\n> **Source Link:** [https://scp-wiki.wikidot.com/scp-5472 SCP Foundation Wiki]\n[[/<]]\n=====\n[[include :scp-wiki:component:license-box-end]]\n[[/=]]",
+  "tags": [
+    "_cc",
+    "_listpages",
+    "alive",
+    "building",
+    "document",
+    "humanoid",
+    "indestructible",
+    "portal",
+    "sapient",
+    "scp",
+    "spatial",
+    "thaumiel",
+    "vehicle"
+  ],
+  "author": "Jiwoahn",
+  "created_at": "2023-05-07T05:54:41+00:00",
+  "updated_at": "2024-03-27T03:33:08+00:00",
+  "rating": 31,
+  "_site": "scp-wiki",
+  "_fullname": "scp-5472"
+}

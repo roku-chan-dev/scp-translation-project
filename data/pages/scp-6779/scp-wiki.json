@@ -1,0 +1,22 @@
+{
+  "title": "SCP-6779",
+  "content": "[[>]]\n[[module Rate]]\n[[/>]]\n\n[[module ListPages  category=\"fragment\" parent=\".\" limit=\"1\" order=\"created_at\" offset=\"@URL|0\"]]\n%%content%%\n[[/module]]\n\n[!-- https://scp-wiki.wikidot.com/fragment:SCP-6779-1 EMAIL/HUB --]\n[!-- https://scp-wiki.wikidot.com/fragment:scp-6779-2 MAIN SCP --]\n[!-- https://scp-wiki.wikidot.com/fragment:scp-6779-3 CCTV LOG --]\n@@ @@\n[[=]]\n[[div class=\"footer-wikiwalk-nav\"]]\n\n« [[[SCP-6778]]] | SCP-6779 | [[[SCP-6780]]] »\n\n[[/div]]\n[[/=]]\n@@ @@\n[[include :scp-wiki:component:license-box\n|author=Westrin]]\n=====\n> **Filename:** monkeydoafunny.jpg\n> **Name:** Gebreide aap techniek rondbreien\n> **Author:** Ellywa\n> **License:**  Creative Commons Attribution-Share Alike 4.0 International\n> **Source Link:** [https://commons.m.wikimedia.org/wiki/File:Gebreide_aap_techniek_rondbreien.JPG Wikimedia Commons]\n=====\n[[include :scp-wiki:component:license-box-end]]",
+  "tags": [
+    "_cc",
+    "_licensebox",
+    "_listpages",
+    "autonomous",
+    "empathic",
+    "euclid",
+    "memetic",
+    "scp",
+    "toy",
+    "uncontained"
+  ],
+  "author": "Westrin",
+  "created_at": "2022-06-09T11:36:14+00:00",
+  "updated_at": "2022-11-28T18:11:06+00:00",
+  "rating": 55,
+  "_site": "scp-wiki",
+  "_fullname": "scp-6779"
+}

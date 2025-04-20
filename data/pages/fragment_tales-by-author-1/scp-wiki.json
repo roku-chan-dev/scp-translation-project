@@ -1,0 +1,13 @@
+{
+  "title": "Tales By Author 1",
+  "content": "[[include :scpcafe:includes:tales-by-author-1]]",
+  "tags": [
+    "fragment"
+  ],
+  "author": "anqxyr",
+  "created_at": "2016-02-05T17:03:03+00:00",
+  "updated_at": "2022-11-01T01:04:44+00:00",
+  "rating": 2,
+  "_site": "scp-wiki",
+  "_fullname": "fragment:tales-by-author-1"
+}

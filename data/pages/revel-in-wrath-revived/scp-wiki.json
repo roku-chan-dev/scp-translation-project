@@ -1,0 +1,23 @@
+{
+  "title": "REVEL IN WRATH, REVIVED",
+  "content": "[[include :scp-wiki:theme:black-highlighter-theme]]\n[[include :scp-wiki:theme:extra-black-highlighter-theme]]\n\n[[module css]]\n#content-wrap{\n    background: black;\n}\n[[/module]]\n\n[[>]]\n[[module rate]]\n[[/>]]\n\n[[=]]\n[[image https://i.imgur.com/EuX0BFR.png link=\"https://scp-wiki.wikidot.com/wrathcon\"]]\n[[span style=\"color:red;\"]]\n,,Stone created by [[*user Syuzhet]], taken from WRATHCON Hub,,\n[[/span]]\n\n@@ \n@@\n\n[[span style=\"color:red;\"]]\n+ DIG UP MY GRAVE\n[[/span]]\n\n@@ \n@@\n\n[[image https://i.imgur.com/xslMIfC.png]]\n[[image https://i.imgur.com/8hzNwui.png]]\n\n[[include :scp-wiki:component:license-box]]\n=====\n> **Filename:** https://i.imgur.com/xslMIfC.png\n> **Name:** revelinwrath1\n> **Author:** dino--draws\n> **License:** CC BY-SA 3.0\n> **Source Link:** https://i.imgur.com/xslMIfC.png\n\n=====\n=====\n> **Filename:**  https://i.imgur.com/8hzNwui.png\n> **Name:** revelinwrath2\n> **Author:** dino--draws\n> **License:** CC BY-SA 3.0\n> **Source Link:**  https://i.imgur.com/8hzNwui.png\n\n=====\n=====\n> **Filename:** https://i.imgur.com/EuX0BFR.png\n> **Name:** gravestone\n> **Author:** syuzhet\n> **License:** CC BY-SA 3.0\n> **Source Link:** https://i.imgur.com/EuX0BFR.png\n\n=====\n\n[[include :scp-wiki:component:license-box-end]]\n\n[[/=]]",
+  "tags": [
+    "_cc",
+    "_licensebox",
+    "bleak",
+    "body-horror",
+    "comic",
+    "hard-to-destroy-reptile",
+    "horror",
+    "sketched",
+    "surrealism",
+    "tale",
+    "wrathcon2024"
+  ],
+  "author": "Dino--Draws",
+  "created_at": "2024-08-02T03:10:01+00:00",
+  "updated_at": "2024-10-11T19:30:41+00:00",
+  "rating": 82,
+  "_site": "scp-wiki",
+  "_fullname": "revel-in-wrath-revived"
+}

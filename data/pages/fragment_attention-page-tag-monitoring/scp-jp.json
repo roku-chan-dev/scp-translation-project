@@ -1,0 +1,14 @@
+{
+  "title": "注目記事・ニュース タグモニター",
+  "content": "[[module ListPages limit=\"@URL|0\" fullname=\"@URL\" category=\"*\"]]\n通常タグ: %%tags%%\n隠しタグ: %%_tags%%\n[[/module]]\n[[module ThemePreviewer noUi=\"true\"]]\n[[iftags]]\n[[code type=\"CSS\"]]\n#navi-bar, #navi-bar-shadow, #header, #side-bar, #page-title, #breadcrumbs, #page-info, .page-watch-options, .page-options-bottom, .page-tags, #footer, #license-area, #footer-bar, .odialog-shader, .hide-embed, .hiddenDisclaimer, .pollNote, div#container-wrap-wrap::before, div#container-wrap-wrap::after, .wikisys--template-dialog {\n  display: none !important;\n}\n#main-content {\n  margin: 0!important;\n  padding: 0!important;\n  width: 100%!important;\n}\nbody {\n  margin: 0!important;\n  padding: 0!important;\n}\n.owindow {\n  position: static!important;\n  width: 0px;\n  height: 0px\n}\n#ohandle-1 {\n  font-size: 0px!important;\n}\n.modal-header {\n  font-size: 0px!important;\n}\n.button-bar {\n  position: absolute;\n  top: 0px;\n  right: 0px;\n}\ndiv#page-content {\n  height: 100%;\n  min-height: unset;\n}\ndiv#content-wrap {\n  min-height: unset;\n  background: transparent;\n}\ndiv#container-wrap {\n  background: transparent;\n}\n[[/code]]\n[[/iftags]]",
+  "tags": [
+    "jp",
+    "フラグメント"
+  ],
+  "author": "R74",
+  "created_at": "2022-07-24T03:42:27+00:00",
+  "updated_at": "2023-02-20T18:47:45+00:00",
+  "rating": 1,
+  "_site": "scp-jp",
+  "_fullname": "fragment:attention-page-tag-monitoring"
+}

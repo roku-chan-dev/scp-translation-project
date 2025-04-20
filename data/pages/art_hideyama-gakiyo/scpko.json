@@ -1,0 +1,14 @@
+{
+  "title": "이와키요 히데야마의 여캐 그림",
+  "content": "[[include :scpko:info:start]]\n**원작:** https://scp-wiki.wikidot.com/art:hideyama-gakiyo by [[*user Hideyama Iwakiyo]]\n**역자:** [[*user TimidChild]]\n[[include :scpko:info:end]]\n\n[[include :scpko:theme:black-highlighter-theme]]\n[[include :scp-wiki:theme:minimalist-bhl]]\n[[module CSS]]\n:root:lang(ko) {\n    --header-title: \"히데야마의 요상한 사이트\";\n    --header-subtitle: \"확보•격리•보호•여캐\";\n    --lgurl: url(\"https://scp-wiki-cn.wdfiles.com/local--files/achievement-badges/34.png\");\n    --five-color: 192, 192, 192;\n    --three-color: 192, 192, 192;\n}\n\ndiv.page-rate-widget-box .rate-points {\n    border: none;\n}\n[[/module]]\n\n**안녕하세요! 평범한 화가 히데야마입니다.\nSCP 팬아트 몇 개를 그려봤어요.\n좋아하시길 바랍니다!**\n\n+ ****완성한 그림****\n\n[[collapsible show=\" SCP079 \" hide=\"🖥️ 오래된 AI\" ]]\n[[image https://scpsandboxcn.wikidot.com/local--files/hideyama-no-ega/079.png]]\n[[/collapsible]]\n\n[[collapsible show=\" SCP895 \" hide=\"🖥️ 카메라 오작동\" ]]\n[[image https://scpsandboxcn.wikidot.com/local--files/hideyama-no-ega/895.png]]\n[[/collapsible]]\n\n[[collapsible show=\"+ SCP2999\" hide=\"🖥️ 검은 고양이와 흰 토끼\"]]\n[[image https://scpsandboxcn.wikidot.com/local--files/hideyama-no-ega/2999.png]]\n[[/collapsible]]\n------",
+  "tags": [
+    "en",
+    "아트워크"
+  ],
+  "author": "TimidChild",
+  "created_at": "2024-05-02T16:14:01+00:00",
+  "updated_at": "2024-05-19T06:38:27+00:00",
+  "rating": 15,
+  "_site": "scpko",
+  "_fullname": "art:hideyama-gakiyo"
+}

@@ -1,0 +1,14 @@
+{
+  "title": "TATTLETALE-0",
+  "content": "[[include :scp-jp:theme:black-highlighter-theme]]\n[[include :scp-jp:theme:isolated-terminal]]\n[[module CSS]]\n:root {\n  --accentColor: 255, 10, 35;\n  --darkColor: 5, 5, 5;\n}\n\ndiv#extrac-div-1, div#extrac-div-2 {\ndisplay: none;\n}\n\n.modalbox {\n    box-shadow: 0 1px 10px hsl(353deg 100% 38%) !important;\n}\n\n#page-title {\n    display: none;\n}\n[[/module]]\n[[=]]\n+ [http://scp-jp.wikidot.com/scp-2744/offset/4 アクセシビリティモードにアクセス]\n[[/=]]\n[[div class=\"expoblock\"]]\n[[=]]\n[[span class=\"hilighter\"]]\n+ ようこそウィリアム・ミラー\n[[/span]]\n\n++ 当該アノマリーは現在あなたに危険を呈していません。以下を確認してください:\n[[/=]]\n[[/div]]\n@@ @@\n[[div class=\"expoblock\"]]\n++ 1. あなたは全ての近親者や知人に彼らへの愛を伝え、何らかのまたはあらゆる償いをしました。\n\n++ 2. 人的資源部門または法務部門の代表者は拘束力のある有効な遺言書を所有しています。指名される執行人は財団職員でなければなりません。\n\n++ 3. あなたはこの端末にこれ以上アクセスした場合、未知の敵対的な実体により即時終了されることを承諾しました。\n\n++ 4. あなたは終了が耐えがたいほどに苦痛なものであることを認識し、受け入れます。\n[[/div]]\n[[=]]\n[[div class=\"expoblock\"]]\n++ [[span class=\"hilighter\"]]確認のため再度ログインしてください。[[/span]]\n++ [[span class=\"hilighter\"]]**ログイン:**[[/span]] WMiller119\n++ [[span class=\"hilighter\"]]**パスワード:**[[/span]] @<*************>@\n+ [http://scp-jp.wikidot.com/scp-2744/offset/1 クリックしてログイン]\n[[/=]]\n[[/div]]",
+  "tags": [
+    "en",
+    "フラグメント"
+  ],
+  "author": "Tetsu1",
+  "created_at": "2025-02-26T12:39:46+00:00",
+  "updated_at": "2025-02-26T12:48:06+00:00",
+  "rating": 0,
+  "_site": "scp-jp",
+  "_fullname": "fragment:scp-2744-0"
+}

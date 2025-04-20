@@ -1,0 +1,13 @@
+{
+  "title": "It Always Ends The Same 2",
+  "content": "[[include :scp-wiki:theme:black-highlighter-theme]]\n[[include :scp-wiki:theme:extra-black-highlighter-theme]]\n\n[[module CSS]]\n#page-title{display:none}\n\n :root{\n     --link-color: 221, 17, 17;\n     --visited-link-color: 221, 17, 17;\n     --hover-link-color: 221, 102, 17;\n}\n[[/module]]\n\n\n[[=image suburb.png]]\n\n> \"Okay. That...that sounds like a good plan.\"\n\nShe leaves the basement as you advise caution. That she looks around every corner before she moves on, that she checks behind her regularly. \n\nShe crosses the street -- this is going well, better than your previous attempts. It wasn't in her house this time, it's the furthest she's got in a while. Maybe there's hope. \n\n> \"I'm scared.\" \n\nYou are too, but you don't say it.\n\nShe tries the neighbour's door -- locked. Yet the window is ajar, and it's just wide enough for her to squeeze through. There could be hope inside: help, a weapon, supplies- \n\nShe shrieks as she falls to the ground, whole body through the window and face first onto the wooden floor. Blood flows from her mangled foot, torn apart by the bear trap situated beneath the window.\n\n> \"No, no! Oh god no!\"\n\nShe desperately tries to pull apart the cold metal constraining her. \n\nIt emerges from the corner of the room -- black burlap sack over its face, black overalls covering its body. \n\n> \"What do I do, please tell me what I should do!\"\n\nThe question is screamed at you, but you have no answer; you stutter nothings in response as it approaches her. \n\nIt raises a kitchen knife. The girl screams. The tape cuts to black.\n\n= It always ends the same.\n\n= //[[[https://scp-wiki.wikidot.com/it-always-ends-the-same/offset/3 |Continue?]]]//",
+  "tags": [
+    "fragment"
+  ],
+  "author": "Dysadron",
+  "created_at": "2023-04-03T20:54:05+00:00",
+  "updated_at": "2023-04-03T21:38:37+00:00",
+  "rating": 0,
+  "_site": "scp-wiki",
+  "_fullname": "fragment:it-always-ends-the-same-2"
+}

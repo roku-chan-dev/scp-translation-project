@@ -1,0 +1,14 @@
+{
+  "title": "SCP-245-1-A",
+  "content": "[[include component:info-ayers\n|lang=ko[!-- EN/RU/KO/CN/FR/PL/ES/TH/JP/DE/IT/UA/PTBR --]\n|page=scp-245[!-- url of your page on the scp wiki --]\n|authorPage=http://www.scp-wiki.net/dr-cimmerian-s-personnel-file[!-- link to your author page --]\n|comments=\nN/A\n]]\n[[include theme:black-highlighter-theme]]\n[[module CSS]]\nsup {\nvertical-align: top; position: relative; top: -0.5em;\n}\n:root{\n--cutColour: #fafafa;\n--barColour: #590505;\n}\n\n.info-container .collapsible-block-folded a{\ncolor: #FFF;}\n.info-container .collapsible-block-unfolded-link a{\ncolor: #FFF;}\n\n.translation_block{\ndisplay:none;}\n[[/module]]\n[[module css]]\n#side-bar {\n    background: rgb(var(--white-monochrome));\n}\n\n#side-bar div.menu-item a, #side-bar div.menu-item .text {\n    color: rgb(var(--black-monochrome));\n}\n\n#side-bar>div:nth-child(5) {\n    background-color: rgba(var(--dark-accent),0.25)!important;\n}\n[[/module]]\n\n[[include info:start]]\n**SCP-245-1-A**\n**원작:** http://www.scp-wiki.net/scp-245-1-a\n**저자:** [[*user Doctor Cimmerian]]\n**역자:** [[*user lanlanmag]]\n[[include info:end]]\n\n+ 경고. 이 파일은 허가받은 인원만 열람할 수 있습니다.\n\n++ **SCP-RPG 파일 정보: \"적막하고 평평한 사막,,The Lone and Level Sands,,\"**\n\n> 파일 이름: SCP-245-1.zip\n> 파일 용량: 50 mb 이하\n> 마스터 패스워드: largecosmiclouse\n\n++ 줄거리\n\n[[include component:image-block name=http://ko.scp-wiki.net/local--files/scp-245-1-a/startingmap.png|caption= SCP-245-1이 제작된 후 가장 처음 로드된 샘플 맵. 이 맵에서 일어나는 모든 변경점은 SCP-245 프로젝트 책임자에게 보고되어야 한다.]]\n\n시간과 자원이 제약된 SCP-245 프로젝트의 형편 상, SCP-245-1은 매우 간단한 게임이다. 이 게임의 스토리는 한 청년 주인공이 모래 골렘의 공격으로부터 마을을 보호해달라는 부탁을 받고, 할머니에게 받은 검과 방패를 챙겨 나서는 내용이다. 모래 골렘의 퇴치를 성공해낸 주인공은 실종된 왕의 딸을 구출해달라는 의뢰를 받게 된다.\n\n이 의뢰에는 도적단의 주둔지와, 공주를 납치해간 장본인으로 추정되는 도적단의 우두머리를 찾아내기 위해 달성해야하는 여러가지 서브 퀘스트가 포함되어 있다. 하지만 도적단들은 단순한 미끼였고, 공주는 자신의 의사로 떠났던 것이었다. 그리고는 진짜 적 (오지만디우스) 이 나타나고, 그는 주인공이 사이드 퀘스트들을 완료한 덕분에 자신의 목적을 이룰 날이 가까워졌다며 주인공에게 감사를 표한다. \n\n이후 왕은 주인공에게 마지막 결전 장소인 피라미드로 향하는 길을 가르쳐준다. 마지막 순간에 오지만디우스는 의식을 완료하고, 주인공은 그와 싸워야 한다. 전투가 끝나면 엔딩 크레딧 화면이 나타나고, 엔딩 크레딧이 모두 지나가면 SCP-245의 설명문 전체를 볼 수 있다.\n\n[[html]]\n<html>\n<head>\n<script type=\"text/javascript\">\n\nfunction checkRedirect()\n{\n    if (parseInt(sessionStorage.read) != 1)\n    {\n        window.top.location = \"http://ko.scp-wiki.net/scp-245\";\n    }\n}\n</script>\n</head>\n<body onLoad=\"checkRedirect();\">\n</body>\n</html>\n[[/html]]",
+  "tags": [
+    "en",
+    "보충"
+  ],
+  "author": "lanlanmag",
+  "created_at": "2017-01-08T13:28:54+00:00",
+  "updated_at": "2020-09-06T11:09:49+00:00",
+  "rating": 4,
+  "_site": "scpko",
+  "_fullname": "scp-245-1-a"
+}

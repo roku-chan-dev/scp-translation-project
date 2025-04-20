@@ -1,0 +1,21 @@
+{
+  "title": "Land Of Honey",
+  "content": "[[include component:preview text=Exaggerations were never beneath her — she always tended to have an eye for whimsy — but castles that rise up into the sky? Stars that shine as bright in the day as at night? Land of honey? Whatever she described, it was not New York.]]\n\n> **Author's Note:** This Tale has FOUR different chapters. Please see the navigation links at the bottom of each page to view the next part of the article!\n\n[[>]]\n[[module Rate]]\n[[/>]]\n\n[[include :scp-wiki:component:info-ayers\n|lang=en\n|page=land-of-honey\n|authorPage= \n|comments=**Land of Honey** \n**Authors:** KindlyTurtleClem and [[*user Lt Flops]] ([*http://www.scp-wiki.net/floppyphoenix Author Page]) \n \nThis article was written by **FIRE TURTLE (Clem & Floppy)** for the **[*http://www.scp-wiki.net/collaboration-contest 2019 Collaboration Contest]**! The two primary Groups of Interest featured are **Fifthism** and **Church of the Second Hytoth**. \n \n**[*http://www.scp-wiki.net/scp-4475 Go here for the second entry!]** \n----\n**Special Thanks:** \nTo the following fine critters for their great feedback on this work: \n* [[*user UraniumEmpire]] \n* [[*user Uncle Nicolini]] \n* [[*user YossiLeiner]] \n* [[*user Pokemonprime]] \n* [[*user RadioactiveRADs]] \n* [[*user Rounderhouse]] \n* [[*user magnadeus]] \n* [[*user Woedenaz]] \n \n**Image Sources:** \n* **Iteration 2: [https://www.loc.gov/resource/ppprs.00502/ Photo of Women] – The Library of Congress, No known copyright restrictions**\n* **Iteration 3: [http://www.scp-wiki.net/component:uiu-bhl-theme#toc1 UIU Logo] – CC BY-SA 3.0**\n* **Iteration 3: [https://en.wikipedia.org/wiki/Charles_Ponzi#/media/File:Ponzi1920.jpg Charles Ponzi/Marina] – Public domain**\n* **Iteration 4: [https://www.flickr.com/photos/106074308@N06/42806140905 Construction Paper] – Public domain**\n]]\n\n[[module CSS]]\n/* INFO BOX */\nsup{\n    vertical-align: top;\n    position: relative;\n    top: -0.5em;\n}\nbody{\n    --cutColour: #fafafa;\n    --barColour: #590505;\n    color: rgb(12, 12, 12);\n}\n.translation_block{ display: none; }\n.u-faq{ display: none; }\n#u-author_block{ display:none; }\n\n/* FORMATTING */\n.collapsible-block-link{ font-weight: bold; }\n\n/* MOBILE MEDIA FILTER */\n@media only screen and (max-width: 768px){\n    .scp-image-block.block-right,\n    .scp-image-block.block-left{\n    \tmargin: 1em 0 2em 1em;\n    \tpadding: 0;\n    }\n}\n[[/module]]\n\n[[module ListPages category=\"fragment\" parent=\".\" order=\"created_at\" limit=\"1\" offset=\"@URL|0\"]]\n%%content%%\n[[/module]]\n\n[!-- For Maintenance and Translators\nhttp://www.scp-wiki.net/fragment:land-of-honey-1\nhttp://www.scp-wiki.net/fragment:land-of-honey-2\nhttp://www.scp-wiki.net/fragment:land-of-honey-3\nhttp://www.scp-wiki.net/fragment:land-of-honey-4\n--]\n\n[[include :scp-wiki:component:license-box\n|author=KindlyTurtleClem and Lt Flops]]\n=====\n> **Filename:** Banquet of the wives of the \"Ten Annuals\"\n> **Name:** The Library of Congress\n> **Author:** Wright, Wilbur\n> **License:** Public Domain\n> **Source Link:** https://www.loc.gov/resource/ppprs.00502/\n\n> **Filename:** Charles Ponzi/Marina\n> **Name:** Ponzi1920.jpg\n> **Author:** Mgreason \n> **License:** Public Domain\n> **Source Link:** https://commons.wikimedia.org/wiki/File:Ponzi1920.jpg\n\n> **Filename:** Construction Paper\n> **Name:** Ajanner-kids-paper-017-cu4cu\n> **Author:** Arlene Janner\n> **License:** Public Domain\n> **Source Link:** https://www.flickr.com/photos/106074308@N06/42806140905\n\n=====\n[[include :scp-wiki:component:license-box-end]]",
+  "tags": [
+    "_cc",
+    "_licensebox",
+    "_listpages",
+    "co-authored",
+    "collab-con2019",
+    "fifthist",
+    "second-hytoth",
+    "tale",
+    "unusual-incidents-unit"
+  ],
+  "author": "Lt Flops",
+  "created_at": "2019-06-24T23:29:27+00:00",
+  "updated_at": "2021-07-30T17:53:13+00:00",
+  "rating": 111,
+  "_site": "scp-wiki",
+  "_fullname": "land-of-honey"
+}

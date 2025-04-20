@@ -1,0 +1,17 @@
+{
+  "title": "SCP-CN-1177",
+  "content": "[[>]]\n[[module Rate]]\n[[/>]]\n\n[[module ListPages category=\"fragment\" parent=\".\" limit=\"1\" order=\"name\" offset=\"@URL|0\"]]\n\n%%content%%\n[[/module]]\n\n@@@@\n@@@@\n[[footnoteblock]]\n@@@@\n[[div class=\"footer-wikiwalk-nav\"]]\n[[=]]\n<< [[[SCP-CN-1176]]] | SCP-CN-1177 | [[[SCP-CN-1178]]] >>\n[[/=]]\n[[/div]]",
+  "tags": [
+    "2019新人竞赛",
+    "euclid",
+    "scp",
+    "原创",
+    "时间影响"
+  ],
+  "author": "nVision",
+  "created_at": "2019-02-01T00:41:10+00:00",
+  "updated_at": "2019-02-27T15:56:11+00:00",
+  "rating": 30,
+  "_site": "scp-wiki-cn",
+  "_fullname": "scp-cn-1177"
+}

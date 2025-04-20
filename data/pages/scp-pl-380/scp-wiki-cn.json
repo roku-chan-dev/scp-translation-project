@@ -1,0 +1,27 @@
+{
+  "title": "SCP-PL-380",
+  "content": "[[include :scp-wiki-cn:credit:start-standalone]]\n**标题：**SCP-PL-380 - Be Nꙮt Afraid\n**作者：**[[*user BlazingPie]]\n**译者：**[[*user Backlight SH]]\n**发布年份：**2023年\n[[include :scp-wiki-cn:credit:end-standalone]]\n[[div style=\"height: 0.75em\"]]\n[[/div]]\n\n[[div style=\"height: 0.75em\"]]\n[[/div]]\n\n[[module CSS]]\n.blinking{\n    animation:blinkingText 1.5s infinite;\n}\n@keyframes blinkingText{\n    0%{     color: black;    }\n    49%{    color: transparent; }\n    50%{    color: transparent; }\n    99%{    color: black;  }\n    100%{   color: black;    }\n}\n\n.notice{\n    border: 1px solid #f9e24d;\n    outline: 4px solid #b54d3b;\n    color: #f9e24d;\n    background: #b54d3b;\n    padding: 10px;\n    text-align: center;\n}\n\n#page-content .scp-image-block .scp-image-caption {\n  color: black;\n}\n[[/module]]\n\n[[div class=\"notice\"]]\n[[=]]\n++++ 来自误传部的通知\n\n以下文档描述且包含认知危害，且异常性质尚未完全解明，请务必谨慎。报告将根据新的发现定期更新。\n\n——Eli Folkley，误传部主任\n[[/=]]\n[[/div]]\n\n-----\n\n[[div style=\"border:double 4px black; background: D0D0D0; padding:5px; border-radius:10px;\"]]\n\n[[table style=\"border: none; width: 100%;\"]]\n[[row]]\n[[cell]]\n[[size 125%]]##black|**项目编号**##[[/size]]\n[[size 125%]]> SCP-PL-380[[/size]]\n[[/cell]]\n[[cell style=\"text-align: right;\"]]\n[[size 125%]]##black|**权限等级**##[[/size]]\n[[size 125%]]> Lvl. 4 ID: 0380[[/size]]\n[[/cell]]\n[[/row]]\n[[row]]\n[[cell]]\n[[size 125%]]##black|**项目等级**##[[/size]]\n[[size 125%]]> Pending[[/size]]\n[[/cell]]\n[[cell style=\"text-align: right;\"]]\n[[size 125%]]**[[a href=\"http://scp-int.wikidot.com/niveaux-de-menace-des-objets-scp\" style=\"color:black\"]]威胁等级[[/a]]**[[/size]]\n[[size 125%]]> 未知 [[[span class=\"blinking\"]]**?**[[/span]]][[/size]]\n[[/cell]]\n[[/row]]\n[[/table]]\n[[/div]]\n\n-----\n\n> ##black|**警告：**##文档中的特殊收容措施与描述并非最新内容，鉴于最近发生的事件，其内容有待修改。\n\n-----\n\n[[include :scp-wiki:component:image-block-peppo name=http://scp-pl.wdfiles.com/local--files/scp-pl-380/benotafraid.png|caption=SCP-PL-380]]\n\n##black|**特殊收容措施：**##与SCP-PL-380及精确描述其外形的公开材料需进行适当编辑，避免暴露其异常性质。\n\n基金会需对研究语言学和古文字学[[footnote]] 历史学下属学科，研究内容为文字演变之类的内容。 [[/footnote]]的组织和社群进行监视，确认其是否进行项目相关的研究与讨论，上述研讨需派出基金会特工进行干预。\n\n目前，记载有SCP-PL-380的原稿由跨维度超常语音学会（Interdimensional Paraphonetics Association，简写为IdPA）[[footnote]]GoI-808，专一研究语言异常、异常沟通方式与异常文化等内容的组织。组织成立于1902年，原本是国际语音协会（International Phonetic Association，简写为IPA）的下属部门，后来变为独立组织。[[/footnote]]持有，储存于其位于三波特兰的博物馆档案室内，可应基金会的要求以研究目的取用。\n\n##black|**描述：**##SCP-PL-380是西里尔字母О的变体“ꙮ”，通常被称作“[[span class=\"ruby\"]]多眼O[[span class=\"rt\"]]Мультиокулярная О[[/span]][[/span]]”。其在历史上仅有一类使用方法，即在“[[span class=\"ruby\"]]多眼的炽天使[[span class=\"rt\"]]серафими многоꙮчитїи[[/span]][[/span]]”中替换掉一个通常的“о”，第一例SCP-PL-380见于15世纪一份诗篇的抄本中。\n\nSCP-PL-380最早由白俄罗斯古文字学家叶菲姆·费多罗维奇·卡尔斯基在1928年记录，尚不明确卡尔斯基是否与超常界存在联系，但研究人员大多否认这一看法。\n\n\n[[include component:image-block name=http://scp-pl.wdfiles.com/local--files/scp-pl-380/beafraid.jpg|caption=原始手稿中的SCP-PL-380。|width=400px|align=center]]\n\nSCP-PL-380具备观察性认知危害，几乎只对具有语言学（以语音学、音韵学为主）研究背景的人员（下称“对象”）起效。对象在持续观察项目书面符号时，会声称其代表一类在目前的语言学规则中并无意义的发音“[[span class=\"ruby\"]]过开特前元音[[span class=\"rt\"]]Over-open extrafront vowel[[/span]][[/span]]”并反复尝试发出此类声音，但最终不会成功，反复的失败最后会造成对象的挫败感。\n\n对象不再视认SCP-PL-380时，上述效应将稍微减弱。但表现消失后，对象仍对自己声称的SCP-PL-380确切的发音方式保有记忆，但不会进一步受到强迫效应影响。\n\n基金会通过审讯对象确定，为发出SCP-PL-380正确的声音，需进行一系列高侵入性手术改造，尤其是喉头、舌、声带、牙齿、颅骨的手术。而上述的手术最终总是不可避免地导致对象呼吸困难并最终窒息。\n\n尚不明确SCP-PL-380的正确发音是否会引发某些异常性质。\n\n\n[[div class=\"blockquote\"]]\n\n= ##black|**事件记录**##\n\n-----\n\n##black|**日期：**##2022年8月1日\n##black|**地点：**##挪威王国，特罗姆瑟和芬马克郡，特罗姆瑟市\n**[*/anomaly-classification-system-guide 扰动等级]：**KENEQ [[span style=\"text-shadow: 0 0 2px black\"]]##yellow|●##[[/span]]\n\n-----\n\n##black|**已采取的行动：**##\n* 对目击者执行记忆删除\n* 回收事件的所有音频影像资料\n* 散播掩盖故事\n\n-----\n\n[[include :scp-wiki:component:image-block-peppo name=http://scp-pl.wdfiles.com/local--files/scp-pl-380/downabitfromtromso.jpg|caption=挪威特罗姆瑟市]]\n\n##black|**事件概况：**##2022年8月1日晚上，不知名的芬兰重金属乐队Lentokenttä在特罗姆瑟举办演唱会，约三百人参加。出于环境因素，四名斯堪的纳维亚半岛分部所属特工组成团队监测此事。\n\n乐队在进行宣传时使用了许多基于SCP-PL-380或与之相似的符号，而此次演唱会的新曲中同样有一首名为《[[span class=\"ruby\"]]多眼[[span class=\"rt\"]]Multiocular[[/span]][[/span]]》，引发基金会注意。调查表明，乐队此前与超常界并无关联。\n\n演唱会持续约一个半小时，期间未发生明显的异常现象。但全部曲目演唱完毕后，乐队的主唱称在演唱会结束时“为观众们准备了一些惊喜”，随后发出超过150dB的尖叫。上述的声音向周边地区传播了某种强烈的认知危害，但误传部进行的分析没有得到结论意义的结果。\n\n所有观众立即丧失意识，持续半小时。从部分观众手机中取回的录像表明，事发时整个舞台被一道强度极高的白色光芒覆盖，伴有强风。几秒种后光和风都停止，没有在舞台上发现乐队的成员，他们目前下落不明。\n\n-----\n\n##black|**备注：**##对事件目击者进行了一周的观察，结果表明当天出席的宗教人士均已叛教[[footnote]]进行监视的四名特工也根据上级要求调任至战术神学部。[[/footnote]]。\n\n[[/div]]\n\n[[div style=\"margin-top: -1.5em\"]]\n[[/div]]\n\n[[footnoteblock]]\n\n[[div class=\"footer-wikiwalk-nav\"]]\n= << [[[SCP-PL-379]]] | SCP-PL-380 | [[[SCP-PL-381]]] >>\n[[/div]]",
+  "tags": [
+    "pl",
+    "scp",
+    "二次翻译",
+    "伦理委员会",
+    "历史性",
+    "听觉影响",
+    "宗教",
+    "强迫性",
+    "战术神学部",
+    "等待分级",
+    "精神影响",
+    "观察影响",
+    "认知危害",
+    "语言",
+    "误传部"
+  ],
+  "author": "Backlight SH",
+  "created_at": "2023-09-05T01:31:43+00:00",
+  "updated_at": "2023-09-05T10:18:02+00:00",
+  "rating": 3,
+  "_site": "scp-wiki-cn",
+  "_fullname": "scp-pl-380"
+}

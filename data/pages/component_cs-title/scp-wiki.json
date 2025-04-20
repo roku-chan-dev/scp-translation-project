@@ -1,0 +1,13 @@
+{
+  "title": "Chicago Spirit Title",
+  "content": "[[=]]\n[[size 275%]][[span style=\"font-family: 'alpha_echoregular';\"]]{$title}[[/span]][[/size]]\n[[/=]]",
+  "tags": [
+    "component"
+  ],
+  "author": "PeppersGhost",
+  "created_at": "2018-05-10T01:26:06+00:00",
+  "updated_at": "2021-03-07T06:33:37+00:00",
+  "rating": 6,
+  "_site": "scp-wiki",
+  "_fullname": "component:cs-title"
+}

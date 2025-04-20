@@ -1,0 +1,20 @@
+{
+  "title": "SCP-6696",
+  "content": "[[include :scp-wiki-cn:theme:black-highlighter-theme]]\n[[include :scp-wiki:component:bhl-dark-sidebar]]\n[[include :scp-wiki:component:acs-animation]]\n[[include :scp-wiki:component:centered-header-bhl]]\n[[module CSS]]\n.note {\n background: url(http://scp-wiki.wdfiles.com/local--files/the-great-hippo/SCP_icon%281%29.png) top\n right no-repeat;\n color: black;\n letter-spacing: 0.02em;\n float: center;\n border: solid 1px #000000;\n padding: 25px 35px 35px 35px !important;\n box-shadow: 0 1px 3px rgba(0,0,0,.2);\n width: 74%;\n margin: 2% 4% 4% 4%;\n}\n\n\ntable.wiki-content-table td {\npadding: 12px;\n}\n\n[[/module]]\n\n[[include :scp-wiki:component:author-label-source start=--\n|name=Vivarium]]\n[[=]]\n你好！你应该来读一读我写的其他东西……不看也行！\n我不是你的老板，做任何你想做的事吧！\n\n**[http://scp-wiki-cn.wikidot.com/vivarium-s-word-hole Vivarium 的更多作品]**\n[[/=]]\n[[include :scp-wiki:component:author-label-source end=--]]\n[[include :scp-wiki-cn:component:anomaly-class-bar-source |lang= cn |item-number=6696 |clearance=2 |container-class=euclid |secondary-class= |secondary-icon= |disruption-class=vlam |risk-class=警告]]\n-----\n[[div class=\"scp-image-block block-center\" style=\"width:100%;\"]]\n[[image https://scp-wiki.wdfiles.com/local--files/scp-6696/Teeth.jpg style=\"width:100%;\" link=#]]\n[[div class=\"scp-image-caption\" style=\"width:100%;\"]]\n{{Fig.1.}} SCP-6696 的外观。\n[[/div]]\n[[/div]]\n\n-----\n**特殊收容措施：**应隔离 SCP-6696 周围的区域，并通知媒体该区域因石棉和霉菌污染而被禁止使用。SCP-6696-A 实体将被引入钢筋笼中，并运输至 Site-576，随后转移至位于站点内的标准敌意人形生物收容间。人类牙齿将被用作诱饵；位于 SCP-6696-A 附近时，收容专家被指示戴上覆盖面部的防护头套。\n\n**描述：**SCP-6696 指代位于怀俄明州萨尔斯堡的一所牙科诊所。2002 年 4 月 2 日，该建筑和当时占处于建筑物内部的个人受到突然的本质促动波动影响，该建筑永久性地改变了位置。此事件导致 24 名平民被转化为 SCP-6696-A。\n\n由 MTF Sigma-12（“感觉良好医生”）进行的调查显示，SCP-6696 内部比其外部所能允许的大，内部房间严重变形，墙壁因此而变为通常无法进入的几何结构。其他值得注意的变化包括照明设备的亮度在 700 到 1300 流明之间，机器被各种形式的酷刑设备所取代，以及墙壁上装饰着人肉和牙齿。\n\n被指代为 SCP-6696-A 的人形实体可以在 SCP-6696 内寻得，其穿着医生和护士通常穿的服装。该实体身体的大部分质量已转化为牙本质、牙釉质和牙骨质。此类实体在手指通常的位置长有骨状突起，类似于牙科器械。当人员在 SCP-6696-A 实体附近时，实体将强制约束该人员，并进行口腔检查，这通常会导致口腔内部和口腔严重受损。一旦受害者的牙齿全部被去除，这些实体将停止袭击。\n\n在对该场地的初步调查中，MTF Sigma-12（“感觉良好医生”）发现一名死亡儿童，其休谟水平相对于周围区域异常得高。特遣队在同一房间内发现了一张海报，上面画着一颗名为“牙博士”的拟人牙齿，内容包括建议儿童去除智齿。海报明显不受本质促动波动的影响。\n-----\n[[div class=\"footer-wikiwalk-nav\"]]\n[[=]]\n<< [[[SCP-6695]]] | SCP-6696 | [[[SCP-6697]]] >>\n[[/=]]\n[[/div]]\n\n[[include :scp-wiki-cn:component:license-box\n|author=Vivarium\n|translator=Abe Slane\n]]\n=====\n> **文件名：**Teeeth.jpg\n> **图像名：**Birmingham Dental Hospital & School of Dentistry - Pebble Mill Road, Edgbaston\n> **图像作者：**Elliott Brown\n> **授权协议：**CC BY-SA 2.0\n> **来源链接：***https://search.creativecommons.org/photos/c2a6e9ac-d38b-4eea-b9ab-ff83484f4a18\n=====\n[[include :scp-wiki-cn:component:license-box-end]]",
+  "tags": [
+    "euclid",
+    "scp",
+    "人形生物",
+    "变形",
+    "建筑",
+    "敌意",
+    "牙齿",
+    "现实扭曲"
+  ],
+  "author": null,
+  "created_at": "2021-10-02T03:15:12+00:00",
+  "updated_at": "2023-03-19T15:13:32+00:00",
+  "rating": 6,
+  "_site": "scp-wiki-cn",
+  "_fullname": "scp-6696"
+}

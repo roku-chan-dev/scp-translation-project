@@ -1,0 +1,17 @@
+{
+  "title": "SCP-6435",
+  "content": "[[include :scp-wiki-cn:theme:black-highlighter-theme]]\n[[include :scp-wiki-cn:theme:minimalist-bhl]]\n\n[[include :scp-wiki-cn:component:anomaly-class-bar-source\n|lang= cn\n|item-number= 6435\n\n|clearance= 3\n\n|container-class= safe\n\n|secondary-class= none\n\n|secondary-icon= https://urlhere.com\n\n|disruption-class= dark\n\n|risk-class= notice\n\n]]\n\n@@@@\n@@@@\n\n[[include component:image-block name=https://scp-wiki.wdfiles.com/local--resized-images/scp-6435/scpforest/medium.jpg|align=center|width=100%|caption=SCP-6435的灵魂摄影照。]]\n\n**特殊收容措施：** 由于在世灵魂无法突破SCP-6435，物理收容不具可能。被SCP-6435接纳特工的身后通信将持续到连贯性丧失为止。\n\n**描述：** SCP-6435是死后世界NR-293-102，俗称为“Ro”。\n\nSCP-6435由一片庞大的森林组成，其中分布有一套复杂盘旋的步行道网络。 虽无法确认，来自亡故特工的证言表明SCP-6435可能是一片无限大的空间。SCP-6435内部的时间与现实比率为1:1。 \n\nSCP-6435内的侍从既会为居民提供享乐，又会交替地施加生理折磨。起初，这种奖赏/惩罚循环被认为是以某种业力报偿、或者轮换式殉难系统为基础，但深入调查表明它完全是随机而为。由于此情报被认定为对特工伤害过大，不会向它们告知此事。\n\n寻常的SCP-6435举动示例如下：一位受封圣徒会被连续活煮十九年，而后连续获得各类物质享受两年，再然后又被剥皮一年。一般来说，这种无可预测的折虐与享乐循环会使SCP-6435居民在头十年内丧失心智连贯性。因此，虽然不存在将已耗损居民驱逐的机制，仅有极小部分人口能够进行有意识思考。\n\n寻常的来世是回应强烈信仰或理念需求而生，但SCP-6435与此不同，它不存在任何宗教或意识形态特征。无论如何，无法确认是何种信仰系统催生出了这样的现实。目前，SCP-6435接纳了0.01%的亡故灵魂；在于死后生态系统里受难的人类中，它占有14%。\n\n\n[[include :scp-wiki-cn:component:license-box\n|authorTanhony]]\n=====\n> **文件名：** scpforest\n> **图像名：** File:Forest footpath - geograph.org.uk - 430581.jpg\n> **图像作者：** James Allan\n> **授权协议：** CC BY-SA 2.0\n> **来源链接：** [https://commons.wikimedia.org/wiki/File:Forest_footpath_-_geograph.org.uk_-_430581.jpg Wikimedia Commons]\n=====\n[[include :scp-wiki-cn:component:license-box-end]]",
+  "tags": [
+    "safe",
+    "scp",
+    "地点",
+    "森林",
+    "死后"
+  ],
+  "author": "ashausesall",
+  "created_at": "2022-06-20T11:20:59+00:00",
+  "updated_at": "2024-05-15T02:20:34+00:00",
+  "rating": 2,
+  "_site": "scp-wiki-cn",
+  "_fullname": "scp-6435"
+}

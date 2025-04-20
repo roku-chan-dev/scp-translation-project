@@ -1,0 +1,31 @@
+{
+  "title": "SCP-7676",
+  "content": "[[module CSS]]\n#title {\n    display: none;\n}\n[[/module]]\n\n[[>]]\n[[module Rate]]\n[[/>]]\n\n[!--\nFragments:\nhttps://scp-wiki.wikidot.com/fragment:scp-7676-0\nhttps://scp-wiki.wikidot.com/fragment:scp-7676-1\nhttps://scp-wiki.wikidot.com/fragment:scp-7676-2\n--]\n\n[[module ListPages parent=\".\" category=\"fragment\" limit=\"1\" order=\"created_at\" offset=\"@URL|0\"]]\n%%content%%\n[[/module]]\n\n[[include component:license-box author=S D Locke & notgull]]\n=====\n> **Filename:** burial.jpg\n> **Name:** Abstract blurry monotone background\n> **Author:** Rawpixel\n> **License:** Public Domain\n> **Source Link:** [http://rawpixel.com/image/4021691 Rawpixel]\n\n> **Filename:** doyouremember.png\n> **Author:** [[*user s d locke]]\n> **License:** CC BY-SA 3.0\n> **Source Link:** [/scp-7676 SCP Foundation Wiki]\n> **Derivative Of:**\n> ----\n> **Name:** North Salinas High School Class of 1978\n> **Author:** Kelly Nigro\n> **License:** Public Domain\n> **Source Link:** [http://flic.kr/p/78WmR1 Flickr]\n[[div class=\"blockquote\"]]\n**Filename:** photo.png\n**Author:** [[*user s d locke]]\n**License:** CC BY-SA 3.0\n**Source Link:** [/scp-7676 SCP Foundation Wiki]\n**Derivative Of:**\n----\n**Name:** Beth Haupt Davis, Gulfport High School, 1978 - 1979\n**Author:** Joe Haupt\n**License:** CC BY-SA 2.0\n**Source Link:** [http://flic.kr/p/eURW6b Flickr]\n----\n**Name:** Operation Stitches Sew\n**Author:** Counselling\n**License:** Public Domain\n**Source Link:** [http://pixabay.com/photos/operation-stitches-sew-shoulder-480679 Pixabay][[/div]]\n> **Filename:** for_sd_locke.wav\n> **Author:** [[*user simplexityyfvs]]\n> **License:** CC BY-SA 3.0\n> **Source Link:** [/scp-7676 SCP Foundation Wiki]\n\n> **Filename:** james.png\n> **Name:** Surrealism in photography 09.jpg\n> **Author:** Mostafameraji\n> **License:** Public Domain\n> **Source Link:** [http://w.wiki/7EZ5 Wikimedia Commons]\n\n> **Filename:** jlocke.png\n> **Name:** Faith Hope Love.jpg\n> **Author:** Viktor Pinchuk\n> **License:** CC BY-SA 4.0\n> **Source Link:** [http://w.wiki/7EZ8 Wikimedia Commons]\n\n> **Filename:** kevin.png\n> **Name:** منية حمورابي 2.jpg\n> **Author:** حميدة السنان\n> **License:** CC BY-SA 4.0\n> **Source Link:** [http://w.wiki/7EZ9 Wikimedia Commons]\n\n> **Filename:** sarah.png\n> **Name:** \"BrainChain\" Willem den Broeder 2001 .png\n> **Author:** Willem den Broeder\n> **License:** CC BY-SA 4.0\n> **Source Link:** [http://w.wiki/7EZB Wikimedia Commons]\n\n> **Filename:** stanley.png\n> **Name:** DRAWING SURREALISM exhibition 2012 at the Los Angeles County Museum of Art (LACMA).jpg\n> **Author:** Fontanal\n> **License:** CC BY-SA 4.0\n> **Source Link:** [http://w.wiki/7EZC Wikimedia Commons]\n=====\n[[include component:license-box-end]]",
+  "tags": [
+    "7000",
+    "_cc",
+    "_licensebox",
+    "_listpages",
+    "acoustic",
+    "adaptive",
+    "audio",
+    "class-of-76",
+    "co-authored",
+    "esoteric-class",
+    "infohazard",
+    "k-class-scenario",
+    "memory-affecting",
+    "meta",
+    "mind-affecting",
+    "on-mount-golgotha",
+    "school",
+    "scp",
+    "transfiguration"
+  ],
+  "author": "S D Locke",
+  "created_at": "2022-07-28T22:37:12+00:00",
+  "updated_at": "2024-04-15T15:40:02+00:00",
+  "rating": 454,
+  "_site": "scp-wiki",
+  "_fullname": "scp-7676"
+}

@@ -1,0 +1,21 @@
+{
+  "title": "SCP-6263",
+  "content": "[[include :scpko:theme:blankstyle]]\n\n[[module CSS]]\n:root {\n    --timeDelay: 0.5s;\n[[/module]]\n\n[[module css]]\n:root {\n--thaumiel: 0, 135, 189\n}\n[[/module]]\n\n[[div]]\n[[include :scpko:info:start]]\n[[=]]\n**SCP-6263: \"즉석 업보\"**\n너나 잘하세요\n\n[[image http://scp-wiki.wdfiles.com/local--files/this-page-intentionally-left-blank/Tyop.png]]\n\n**[[[http://www.scpko.wikidot.com/this-page-intentionally-left-blank|이 작가의 다른 작품!]]]**\n\n> **파일명:** Clio.png\n> **저작권자:** [[*user HarryBlank]]\n> **라이선스:** CC BY-SA 3.0\n[[/=]]\n[[include :scpko:info:end]]\n[[/div]]\n\n[[div]]\n[[include :scpko:component:anomaly-class-bar-source\n\n|item-number= SCP-6263\n\n|clearance= 1\n\n|container-class= 난해\n\n|secondary-class= 유쾌\n\n|secondary-icon= http://scp-sandbox-3.wdfiles.com/local--files/harry-blank-6/simpatico-icon.svg\n\n|disruption-class= 암흑\n\n|risk-class= 주목\n\n]]\n[[include :scpko:component:acs-peppo-split\n|object= 케테르\n|object-image= https://scp-wiki.wdfiles.com/local--files/component%3Aanomaly-class-bar/keter-icon.svg\n|object-color= 케테르\n|esoteric-color= thaumiel\n]]\n[[/div]]\n\n----\n\n[[include component:image-block\n    name=https://scp-wiki.wdfiles.com/local--files/scp-5382/Clio.png|\n    caption=[/secure-facility-dossier-site-43 제43기지] 기록수정계 |\n    width=200px\n]]\n\n**특수 격리 절차:** 소셜 미디어에서 매일 SCP-6263의 존재 증거가 생성되지만, 그로 인해 일반 사회에 변칙성이 알려지기에는 충분하지 않음이 입증되었다.[[span class=\"fnnum\"]].[[/span]][[span class=\"fncon\"]]유쾌 등급 변칙 개체는 격리에 예측 불가능한 문제를 발생시키지만 그 외에는 위협이 되지 않는다.[[/span]]  직원들에게는 엄격한 오탈자 지적에 대한 공개적 수치심 유발을 통해 추가 증거의 생성을 억제할 것이 권장된다.\n----\n**설명:** SCP-6263은 다른 사람의 맞춤법이나 문법 등을 교정할 때 발생하는 현상이다. 해당 행위는 수정문 내에서 유사한 오류를 저지르는 통계적으로 가능성이 낮은 위험을 발생시키며, 이 가능성과 심각성은 초기 수정문의 공격성에 비레한다.\n----\n//이건 뭐야? 이건 진짜 변칙성도 아니잖아. 증거는 어디에 있는 거지? 실험 기록은 또 어디에 있고? 그리고 \"비례\"에 오타를 냈잖아 이 바보같은 농마! -- W. 웨틀//\n\n//증거 고마워요, 윌리! 항상 믿고 있었다고요 -- H. 블랭크//\n\n----\n\n[[div]]\n[[=]]\n<< **[[[SCP-6121]]]** | **[/on-guard-43-hub 힘과 독이 실린 말]** | **[[[A Bitch|쌍년]]]** >>\n[[/=]]\n[[/div]]",
+  "tags": [
+    "en",
+    "scp",
+    "난해한-등급",
+    "블랭크-박사",
+    "언어",
+    "온라인",
+    "웨틀-박사",
+    "지키리라-43기지",
+    "확률"
+  ],
+  "author": "Canonkart",
+  "created_at": "2022-10-15T15:47:47+00:00",
+  "updated_at": "2025-01-21T01:59:24+00:00",
+  "rating": 20,
+  "_site": "scpko",
+  "_fullname": "scp-6263"
+}

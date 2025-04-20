@@ -1,0 +1,15 @@
+{
+  "title": "The Crustacean Station",
+  "content": "[[include :scp-wiki:theme:creepypasta]]\n\n[[>]]\n[[module Rate]]\n[[/>]]\n\n[[include component:image-block name=crab.jpg| caption=Moi]]\n\n+ Do you like SCP articles? \n\nI'd hope so, because why else would you be here\n\nI also happen to write them. This is stems from my rampant narcissism and desire to be praised.\n\nMy favourite articles are shorter and largely self contained, especially cryptid or urban legend-esque pages. If you like those types of articles too, \nthen have a look below, you might like some of my stuff. \n\n[[html]]\n<div style=\"float: clear\">   </div>\n[[/html]]\n\n[[include :scp-wiki:component:mega-cool-author-page-tool |inc-list= --]\n|order=\n|perpage=\n|background-image=\n|shadow=\n]]\n\n[[include :scp-wiki:component:license-box]]\n=====\n> **Filename:** crab.jpg\n> **Name:** Crab on Beach\n> **Author:** Alexsandro Rosa de Mello\n> **License:** CC0\n> **Source Link:** [https://www.pexels.com/photo/crab-on-beach-306908/ Pexels]\n=====\n[[include :scp-wiki:component:license-box-end]]",
+  "tags": [
+    "_cc",
+    "_licensebox",
+    "author"
+  ],
+  "author": "DukeCrusty",
+  "created_at": "2022-07-07T14:26:44+00:00",
+  "updated_at": "2023-03-27T23:41:16+00:00",
+  "rating": 20,
+  "_site": "scp-wiki",
+  "_fullname": "the-crustacean-station"
+}

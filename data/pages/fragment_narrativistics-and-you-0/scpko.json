@@ -1,0 +1,14 @@
+{
+  "title": "서술학과 당신: 픽션 대 논픽션이라는 생각을 버리기",
+  "content": "[[include :scpko:theme:admo astral=a]]\n\n\n[[module CSS]]\n\ndiv.authorlink-wrapper{margin-top: var(--author-top-adjust, .2em) !important;}\n:root {\n    --header-title: \"학식\";\n\n}\n\nbody:before {\n  content: ' ';\n  position: fixed;\n  display: block;\n  left: 0;\n  top: 0;\n  width: 100%;\n  height: 100%;\n  z-index: -1;\n  background-size:100%;\n  background-position:center;\n}\ndiv.text{\n    padding-top: 40%;\n    font-family: monospace;\n    font-size: 1.2em;\n    padding:5px;\n    margin: 0 auto;\n}\ndiv.specialmodal > p:nth-child(1)::before {\n\n    font-weight: 900;\n    font-size: 130%;\n    text-align: center;\n    margin-bottom: 1rem;\n    padding-bottom: 0.3rem;\n    border-bottom: dotted 0.13rem darkslategrey;\n    max-width: auto;\n    margin-left: auto;\n    margin-right: auto;\n    display: flex;\n    flex-direction: column;\n    align-content: stretch;\n    align-items: center;\n  object-fit: fill;\n}\n\ndiv.specialmodal {\n\n    box-shadow: 0px 0px 5px rgba(0, 0, 0, 0.5);\n    width: 95%;\n    min-height: auto;\n    max-height: auto;\n    margin-left: auto;\n    margin-right: auto;\n    text-align: center;\n    border: solid 2px #5D5D5D;\n    word-break: break-word;\n \n\n}\n@-webkit-keyframes scan{\n    from{ transform: translateY(-10%);}\n    to{  transform: translateY(5000%);}\n}\n\n@keyframes scan{\n    from{ transform: translateY(-10%);}\n    to{  transform: translateY(5000%);}\n}\ndiv.peachy {\nmax-width:auto !important;\npadding: 10px 10px 10px 10px !important;\n\n}\n\ndiv.text a {\n\n    background: transparent;\n}\ndiv.text a.newpage {\n\n    background: transparent;\n}\n\n\n\n\nli.folded > .progmask{ display: none; }\nli.unfolded > .progmask{ display: block; }\n\n\n[[/module]]\n\n[[=]]\n[[module Rate]]\n[[/=]]\n\n[[include :scpko:component:author-label-source start=--\n|name=Billith|center=*]]\n《서술학과 당신: 픽션 대 논픽션이라는 생각을 버리기》\nWritten by [https://scp-wiki.wikidot.com/sr-researcher-james-a-harkness-personnel-file Billith].\nTranslated by [[[Cubic72]]].\n\n이 글이 마음에 들었다면, 아래 글들도 마음에 들 겁니다.\n\n|| **[[[SCP-2786]]]** || **[[[SCP-7079]]]** || **[[[SCP-5646]]]** || **[[[SCP-5541]]]** ||\n\n[[include :scpko:component:author-label-source end=--]]\n= **{{[/narrativistics-and-you/0 일반 모드로 보기]}}**",
+  "tags": [
+    "en",
+    "조각문서"
+  ],
+  "author": "Cubic72",
+  "created_at": "2025-02-01T09:49:01+00:00",
+  "updated_at": "2025-02-01T09:49:49+00:00",
+  "rating": 0,
+  "_site": "scpko",
+  "_fullname": "fragment:narrativistics-and-you-0"
+}

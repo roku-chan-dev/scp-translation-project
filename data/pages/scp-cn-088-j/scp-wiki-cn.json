@@ -1,0 +1,18 @@
+{
+  "title": "[权限不足]SCP-CN-088-J",
+  "content": "====\n[[div class=\"preview close-menu\"]]\n勿访问！绝非玩笑！！\n[[/div]]\n====\n\n[[module CSS]]\n#side-bar,.open-menu,#search-top-box-input{display:none}#header,div#container-wrap{background:none}#header :is(h1,h2){margin:0;padding:0;float:none;width:100%;text-align:center}#header :is(h1 a,h2 span,#top-bar a),#page-title,h1{text-shadow:none;color:#000;}#header{border-bottom:solid 2px #000}.page-rate-widget-box,#search-top-box{margin:0;filter:grayscale(100%)}@media not all and (max-width: 767px){#main-content{max-width:44.5rem;margin:0 auto;padding:0}}#top-bar{right:0;display:flex;justify-content:center}#page-title,#page-content{text-align:center}.killer{display:flex;width:100%;height:8rem;background:linear-gradient(to top,#666,#000,#000);color:rgba(255,255,255,.25);align-items:center;font-size:8rem;overflow:hidden}.killer p{line-height:0}#page-title::after{content:\"[危险！千万别访问！]\"}\n[[/module]]\n\n[[module rate]]\n\n[[div class=\"blockquote\" style=\"background:none;border:solid;border-radius:1rem\"]]\n+ 来自记录与信息安全管理部的通知\n\n**以下文件包含致命信息危害，并被归类为最高机密。因此，访问该文件的人员须具有不低于{{NaN}}的认知阻值（CRV），请确保您已通过自动CRV验证，并接种了相应的模因疫苗。在未接种合适模因疫苗的情況下向下滚动页面将立刻导致心脏骤停死亡。**\n\n++ 你已经被警告过了。\n[[/div]]\n\n[[div style=\"height:45rem\"]]\n[[/div]]\n\n模因抹杀触媒加载中……\n\n[[div style=\"height:25rem\"]]\n[[/div]]\n\n[[div class=\"killer\"]]\n\n基金会无端的罪恶\n用**祂那红右手**将我们处刑\n权限认证的把戏还将持续多久\n異常性质在于\n提升\n提升\n扬\n升\n\n[[/div]]\n\n@@@@\n@@@@\n@@@@\n\n**模因抹杀触媒启动**\n\n**未检测到生命迹象**\n\n**访问结束**\n\n@@@@\n@@@@\n@@@@",
+  "tags": [
+    "2024噤声短文竞赛",
+    "scp",
+    "原创",
+    "搞笑",
+    "机密分级",
+    "线上"
+  ],
+  "author": "Dr Hormress",
+  "created_at": "2024-04-30T17:00:17+00:00",
+  "updated_at": "2024-05-01T01:33:30+00:00",
+  "rating": 47,
+  "_site": "scp-wiki-cn",
+  "_fullname": "scp-cn-088-j"
+}

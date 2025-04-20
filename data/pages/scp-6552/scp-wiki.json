@@ -1,0 +1,19 @@
+{
+  "title": "SCP-6552",
+  "content": "[[include component:ratio-bar base=-- |ex=--]]\n\n[[>]]\n[[module rate]]\n[[/>]]\n\n[[include :scp-wiki:component:author-label-source start=--\n|name=Tstaffor]]\n= [[[tstaffor-s-author-page|Author Page]]] | [[[the-scip-squad-podcast-hub|Podcast]]] | [[[https://scp-wiki.wikidot.com/random:random-page|Feeling Lucky?]]]\n\n**Tstaffor's Best of:**\n* [[[SCP-6557]]] - Annihilation From a Cross Across Time\n* [[[SCP-5846]]] - The One-Stop Shop\n* [[[SCP-6547]]] - Worlds Within Worlds Within Worlds...\n[[include :scp-wiki:component:author-label-source end=--]]\n\n[[include component:image-block name=tidalwav.png|caption=SCP-6552.|width=200px]]\n\n**Item #:** SCP-6552\n\n**Object Class:** Safe\n\n**Special Containment Procedures:** SCP-6552 is stored in Anomalous-Documents-Folder-47. All testing of SCP-6552 is discontinued and no one is to rename or play SCP-6552 under any circumstances.\n\n**Description:** SCP-6552 is a .wav file consisting of the sounds of water crashing against the shore. When the file is given a name that creates a compound word when said while including the .wav and is played, a corresponding anomalous event will occur.\n\n[[=]]\n[[include :snippets:html5player\n|type=audio\n|url=https://scp-wiki.wdfiles.com/local--files/scp-6552/wav.wav\n]]\n[[/=]]\n\n**Addendum 6552.1 Test Log:**\nDr. Henderson instructed D-41897 on what to name SCP-6552. D-41897 then played the file for 3-10 loops and Dr. Henderson then marked down the effects.\n||~ Name of SCP-6552 ||~ Anomalous Event ||\n|| sound.wav || The audio of SCP-6552 did not come out of the speakers hooked up to the computer used to play the audio. Instead emanating from the pixels making up the .wav file itself. ||\n|| heat.wav || The room in which SCP-6552 was being played began to heat up at a rate of 1°C per second. ||\n|| vapor.wav || While being played, all UI on the computer playing it was restructured to fit the \"vaporwave\" aesthetic. ||\n|| brain.wav || All personnel at Test-Site-98 were able to hear SCP-6552 being played, although no recording devices were able to register any sound. ||\n|| micro.wav || When played, concentrated radiation was emitted from the device playing SCP-6552 causing D-41897 to expire after 3 loops of the audio.  ||\n|| tidal.wav || Flooding of Test-Site-98 caused notes on resultant anomalous effect unrecoverable. Reconstruction and transferring of new replacement staff to Test-Site-98 are underway. ||\n\n[[footnoteblock]]\n----\n[[div class=\"footer-wikiwalk-nav\"]]\n[[=]]\n<< [[[SCP-6551]]] | SCP-6552 | [[[SCP-6553]]] >>\n[[/=]]\n[[/div]]\n----\n[[include :scp-wiki:more-by:tstaffor]]\n\n[[div]]\n[[=]]\n[[include :scp-wiki:component:license-box]]\n=====\n[[<]]\n> **Name:** tidalwav.png\n> **Author:** Wilfredor\n> **License:** CC BY-SA 4.0\n> **Source Link:** https://commons.wikimedia.org/wiki/File:Heraldic_waves.svg\n[[/<]]\n=====\n[[<]]\n> **Name:** wav.wav\n> **Author:** apsbin\n> **License:** CC BY 3.0\n> **Source Link:** https://commons.wikimedia.org/wiki/File:Pyramidal_waves,_It%C5%8D,_Shizuoka,_-Jan._2012_a.ogv\n[[/<]]\n=====\n[[include :scp-wiki:component:license-box-end]]\n[[/=]]\n[[/div]]",
+  "tags": [
+    "_cc",
+    "_licensebox",
+    "acoustic",
+    "audio",
+    "media",
+    "safe",
+    "scp"
+  ],
+  "author": "Tstaffor",
+  "created_at": "2022-06-04T23:56:19+00:00",
+  "updated_at": "2022-07-15T21:32:08+00:00",
+  "rating": 168,
+  "_site": "scp-wiki",
+  "_fullname": "scp-6552"
+}

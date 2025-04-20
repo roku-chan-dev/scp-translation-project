@@ -1,0 +1,18 @@
+{
+  "title": "SCP-CN-2103",
+  "content": "[[>]]\n[[module rate]]\n[[/>]]\n\n[[module ListPages category=\"fragment\" parent=\".\" limit=\"1\" order=\"name\" offset=\"@URL|0\"]]\n\n%%content%%\n[[/module]]\n\n[[footnoteblock]]\n\n[[div class=\"footer-wikiwalk-nav\"]]\n[[=]]\n<< [[[SCP-CN-2102]]] | SCP-CN-2103 | [[[SCP-CN-2104]]] >>\n[[/=]]\n[[/div]]",
+  "tags": [
+    "safe",
+    "scp",
+    "历史性",
+    "原创",
+    "合著",
+    "超维度"
+  ],
+  "author": "CSzhege",
+  "created_at": "2022-04-26T00:21:47+00:00",
+  "updated_at": "2022-04-26T00:28:18+00:00",
+  "rating": 24,
+  "_site": "scp-wiki-cn",
+  "_fullname": "scp-cn-2103"
+}

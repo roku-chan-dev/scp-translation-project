@@ -1,0 +1,15 @@
+{
+  "title": "DEM-42 情報閲覧ページ",
+  "content": "[[>]]\n[[module Rate]]\n[[/>]]\n[[include component:image-block\n|name=dem42.jpg\n|caption=DEM-42のサーバーコンピューター。\nサイト-199から5km離れた地下施設に位置する。[[footnote]]https://www.flickr.com/photos/nasa_goddard/6559334313[[/footnote]]]]\n\n\n**システム名称:** DEM-42\n\n**概要:** 財団の無人基地であるサイト-199の臨時施設管理者として登録された人工知能。 人間に発現する認識災害系統の異常オブジェクトを無人で隔離中。\n\n//追加の情報入力は無期限保留される。 --ゲームのせい--//\n\n__執筆したSCP__:\n* [[[SCP-105-KO]]]\n* [[[SCP-110-KO]]]\n* [[[SCP-116-KO]]]\n* [[[SCP-124-KO]]]\n* [[[SCP-149-KO]]]\n* [[[SCP-153-KO]]]\n* [[[SCP-154-KO]]]\n* [[[SCP-188-KO]]]\n\n__参加したもの__:\n* [[[log-of-anomalous-items-ko|韓国語Anomalousアイテム記録]]]\n* [[[log-of-extranormal-events-ko|韓国語超常現象記録]]]",
+  "tags": [
+    "ko",
+    "著者ページ",
+    "要翻訳"
+  ],
+  "author": "Hasuma_S",
+  "created_at": "2016-10-27T10:27:20+00:00",
+  "updated_at": "2021-01-10T16:38:35+00:00",
+  "rating": 6,
+  "_site": "scp-jp",
+  "_fullname": "dem-42"
+}

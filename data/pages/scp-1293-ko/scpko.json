@@ -1,0 +1,18 @@
+{
+  "title": "SCP-1293-KO",
+  "content": "[[include :scpko:theme:navla-style]]\n\n[[module CSS]]\n:root:lang(ko) {\n    --header-subtitle: \"...\";\n    --theme-color: 70, 140, 230;\n    --theme-color-dark: 40, 70, 120;\n    --bg-color: 238, 240, 241;\n    --clrd: 1;\n}\n[[/module]]\n\n[[include info:start]]\n**제목:** SCP-1293-KO - {{너머로.}}\n**저자:** [[*user romrom]]\n**사진:** \n\nhttps://commons.wikimedia.org/wiki/File:Hot_air_ballon_-_36149965484.jpg, Hot air ballon - 36149965484.jpg, CC BY-SA 2.0, Bob Haarmans, 2 September 2017, 07:14:36\n\nhttps://commons.wikimedia.org/wiki/File:Field_in_the_Pelagonia_region.jpg, Field in the Pelagonia region.jpg, CC BY-SA 4.0, Gdimovska13, 13 July 2022\n\n-----\n[[include component:wikimodule |ratings= --]]]\n-----\n[[include info:end]]\n\n= **너머로.**\n\n\n= [[image https://upload.wikimedia.org/wikipedia/commons/thumb/a/a2/Hot_air_ballon_-_36149965484.jpg/640px-Hot_air_ballon_-_36149965484.jpg]]\n\n\n{{구름구경의 대상임을 인지하십시오.}}\n\n@@@@\n@@@@\n@@@@\n@@@@\n\n[[>]]\n@@또한, 모든 재단 문서 내에 언급되는 인물들은@@\n[[/>]]\n\n@@@@\n@@@@\n@@@@\n@@@@\n\n@@기지 인원들은 문서 관리에 주의해주십시오.@@\n\n@@@@\n@@@@\n@@@@\n@@@@\n\n[[>]]\n현재 재단의 문서들도 영향을 받고 있다는 제보가 들어오고 있습니다.\n[[/>]]\n\n@@@@\n@@@@\n@@@@\n@@@@\n\n[[div style=\"border:solid 1px #999999; background:#f2f2c2; padding:5px; margin-bottom: 10px;\"]]\n@@@@\n@@@@\n@@@@\n@@@@\n@@@@\n@@@@\n[[/div]]\n+ RAISA 긴급 공지\n\n\n@@@@\n@@@@\n@@@@\n@@@@\n\n@@전혀 묘사되지 않는다.@@\n\n@@@@\n@@@@\n@@@@\n@@@@\n\n\n= @@특이하게도, 인물이 한 \"구름구경\" 이 무엇인지, 하늘로 올라간 후 무슨 일이 일어나는지는@@\n\n\n@@@@\n@@@@\n@@@@\n@@@@\n\n\n@@묘사된다.@@\n\n@@@@\n@@@@\n@@@@\n@@@@\n\n\n\n[[>]]\n@@대부분의 인물은 대기권 너머로 올라가 실종되거나, \"구름구경\" 을 갔다고@@\n[[/>]]\n\n@@@@\n@@@@\n@@@@\n@@@@\n\n\n\n@@변해가는 배경도 묘사되도록 변경된다.@@\n\n@@@@\n@@@@\n\n= @@연상시키도록 변형된다. 인물과 배경이 존재하는 창작물이라면, 그에 대응하는 인물이나@@\n\n@@@@\n@@@@\n\n@@에서 문서의 내용들이 개변되는 현상을 지칭한다. 모든 문서에서 그 내용들은 \"떠오르는\" 모습을@@\n\n\n@@@@\n@@@@\n\n\n[[>]]\n [[footnote]]보고서와 설명서 등등의, 매우 한정적 구조도 포함된다.[[/footnote]]\n[[/>]]\n\n\n**설명:** SCP-1293-KO는 서사적 구조를 가진 모든 매체,\n\n\n@@@@\n@@@@\n@@@@\n@@@@\n\n\n\n@@이것이 인쇄 오류라는 역정보를 살포한다.@@\n\n\n@@@@\n@@@@\n\n[[>]]\n@@문서 편집에 주의를 가하며, 개체의 발생을 주시하는 것이 요구된다. 또한 개체가 발생한 매체의 경우@@\n[[/>]]\n\n@@형이초학부의 격리 시도가 계속되고 있다. 모든 재단 인원들은@@\n\n@@@@\n@@@@\n\n것을 막기 위해서\n\n@@@@\n@@@@\n\n\n**일련번호:** SCP-1293-KO **등급:** 케테르 **특수 격리 절차:** SCP-1293-KO가 발생하는\n\n= [[image https://upload.wikimedia.org/wikipedia/commons/b/b4/Field_in_the_Pelagonia_region.jpg?20220815070237]]",
+  "tags": [
+    "ko",
+    "scp",
+    "매체",
+    "메타",
+    "케테르",
+    "특집"
+  ],
+  "author": "romrom",
+  "created_at": "2023-01-12T12:48:48+00:00",
+  "updated_at": "2024-12-25T10:27:55+00:00",
+  "rating": 37,
+  "_site": "scpko",
+  "_fullname": "scp-1293-ko"
+}

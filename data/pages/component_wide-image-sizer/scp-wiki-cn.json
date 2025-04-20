@@ -1,0 +1,13 @@
+{
+  "title": "宽屏图像裁剪器",
+  "content": "[[iftags +组件]]\n\n[[module css]]\n@import url(\"https://cdn.jsdelivr.net/gh/Nu-SCPTheme/Black-Highlighter@gh-pages/css/min/normalize.min.css\");\n@import url(\"https://cdn.jsdelivr.net/gh/Nu-SCPTheme/Black-Highlighter@gh-pages/css/min/black-highlighter.min.css\");\n[[/module]]\n\n[[div_ style=\"border: 1px solid #ddd; padding: 1em;\"]]\n+++ 使用方法\n\n在任意维基上添加：\n\n[[div class=\"code\"]]\n@@[[include :scp-wiki-cn:component:wide-image-sizer]]@@\n[[/div]]\n\n接着添加图片：\n\n[[div class=\"code\"]]\n\n@@[[include component:image-block@@\n@@    name=（你的图片链接）|@@\n@@    caption=（你的图片描述）|@@\n@@    align=center |@@\n@@    width=100%@@\n@@]]@@\n\n[[/div]]\n[[/div]]\n\n+++ 这是什么\n\n一个能将一张宽屏图像自动裁剪为高215px、且宽度适合当前屏幕的组件。这样可以确保在各种设备上获得一致的观看体验，同时避免需要精确裁剪源图像。\n\n+++ 它是什么样的\n\n[[=]]\n**使用组件后：**\n\n[[=image http://scp-wiki.wdfiles.com/local--files/component:wide-image-sizer/with-component.png]]\n\n**使用组件前：**\n\n[[=image http://scp-wiki.wdfiles.com/local--files/component:wide-image-sizer/without-component.png]]\n[[/=]]\n\n----\n\n此CSS由 [[*user Woedenaz]] 制作，此组件由 [[*user aismallard]] 制作。\n\n[[collapsible show=\"+ 展示源代码\" hide=\"- 隐藏源代码\"]]\n[[code type=\"CSS\"]]\n.scp-image-block.block-center {\n    position: relative;\n}\n.scp-image-block.block-center img {\n    height: 215px;\n    width: 100%;\n    object-fit: cover;\n}\n[[/code]]\n[[/collapsible]]\n[[/iftags]]\n\n[[module CSS]]\n@import url('https://scp-wiki-cn.wikidot.com/component:wide-image-sizer/code/1');\n[[/module]]",
+  "tags": [
+    "组件"
+  ],
+  "author": "Sekai_s",
+  "created_at": "2020-03-02T09:20:03+00:00",
+  "updated_at": "2023-12-10T13:17:48+00:00",
+  "rating": 5,
+  "_site": "scp-wiki-cn",
+  "_fullname": "component:wide-image-sizer"
+}

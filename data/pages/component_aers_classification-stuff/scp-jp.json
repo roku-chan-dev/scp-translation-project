@@ -1,0 +1,14 @@
+{
+  "title": "Aers's Classification Stuff",
+  "content": "[[iftags +テンプレート]]\n> 著者: [[*user Dr Aers]] / 編集: [[*user 7happy7]]\n> http://smlt.wikidot.com/component:aers:classification-stuff\n> [[collapsible show=\"+ 使い方\" hide=\"- 閉じる\"]]\n> ----\n> [[include :scp-jp:component:aers:classification-stuff\n> |item=XXXX\n> |lvl=4\n> |class=Keter\n> |threat=赤\n> |threat-colour=#b01\n> ]]\n> [[/collapsible]]\n[[/iftags]]\n----\n[[table style=\"width: 80%; font-family: Helvetica Neue,Helvetica,Arial,sans-serif; margin: 0 auto;\"]]\n[[row]]\n[[cell class=\"device-all\"]]\n[[span class=\"device-part\"]]**アイテム番号:**[[/span]] SCP-{$item}\n[[/cell]]\n[[cell rowspan=\"2\" style=\"width: 30% !important; vertical-align: middle;\"]]\n[[image https://scp-jp.wdfiles.com/local--files/component%3Aaers%3Aclassification-stuff/l{$lvl}.png style=\"height: 10%;\"]]\n[[/cell]]\n[[cell class=\"device-all\"]]\n[[span class=\"device-part\"]]**オブジェクトクラス:**[[/span]] {$class}\n[[/cell]]\n[[/row]]\n[[row]]\n[[cell class=\"device-all\"]]\n[[span class=\"device-part\"]]**Level {$lvl}**[[/span]] **Clearance**\n[[/cell]]\n[[cell class=\"device-all\"]]\n[[span class=\"device-part\"]]**脅威レベル:** {$threat}[[span style=\"color:{$threat-colour};\"]] ●[[/span]][[/span]]\n[[/cell]]\n[[/row]]\n[[/table]]\n----\n[[module CSS]]\n.device-all {\nfont-size: 150%;\n}\n@media (max-width: 767px) {\n.device-part {\nwhite-space: nowrap;\n}\n.device-all {\nfont-size: 120%;\n}\n}\n@media (min-width: 767px) {\n.device-all {\nwhite-space: nowrap;\n}\n}\n[[/module]]",
+  "tags": [
+    "jp",
+    "コンポーネント"
+  ],
+  "author": "7happy7",
+  "created_at": "2018-11-11T05:41:53+00:00",
+  "updated_at": "2022-10-11T23:58:15+00:00",
+  "rating": 4,
+  "_site": "scp-jp",
+  "_fullname": "component:aers:classification-stuff"
+}

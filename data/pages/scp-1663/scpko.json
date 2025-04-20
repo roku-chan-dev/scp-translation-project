@@ -1,0 +1,19 @@
+{
+  "title": "SCP-1663",
+  "content": "[[include info:start]]\n**SCP-1663:** 제1663-0격리기지\n**저자:** [[*user aelanna]]          \n**원작:** http://www.scp-wiki.net/scp-1663\n**역자:** [[*user mgpedersen]]\n[[include info:end]]\n\n**일련번호:** SCP-1663\n\n**등급:** 유클리드\n\n**특수 격리 절차:** 제1663-0격리기지에서 행해지는 연구와 관계된 데이터는 오직 제1663-0격리기지에 배정 받은 인원이나 최소 2명의 상임 연구원들의 사전 허가를 받은 인원에게만 제공된다. 제1663-0격리기지의 업무 기한은 2주를 넘기지 않으며, 모든 인원들은 기지 밖으로 전출되기 전에 B등급 기억소거제를 처방받아야 한다.\n\n**설명:** SCP-1663은 [편집됨] 근처에 위치한 제1663-0격리기지에 배정받은 인원에 대한 특수 업무다. 제1663-0격리기지에서 행해지는 연구는 유클리드 등급 정보 재해를 고려하여 해당 문서에 명시된 특수한 격리 조건을 수반한다.\n\nSCP-1663의 데이터 차단은 곧 은퇴를 앞둔 O5-█에 의해 [편집됨]에 승인되었으며, O5 위원들의 SCP 개체 노출을 막는 지속적 규제 위반을 막기 위해 그후 강제적으로 기억소거제 처방이 이루어졌다.\n\n그후, ████ (█) 명으로 구성된 은퇴한 O5 위원들이 SCP-1663의 제정된 격리 절차를 승인하였다.\n\nSCP-1663에 배정받은 인원은 [http://scpko.wikidot.com/additional-documentation-for-scp-1663-personnel SCP-1663 인원을 위한 추가 문서]를 보라.\n\n[[div class=\"authors\"]]\n[[include :scp-wiki:component:license-box\n|author=Aelanna]]\n[[include :scp-wiki:component:license-box-end]]\n[[/div]]",
+  "tags": [
+    "en",
+    "scp",
+    "위치",
+    "유클리드",
+    "정보재해",
+    "정신조작",
+    "화폐"
+  ],
+  "author": "MGPedersen",
+  "created_at": "2014-03-09T12:05:53+00:00",
+  "updated_at": "2024-09-29T15:54:50+00:00",
+  "rating": 4,
+  "_site": "scpko",
+  "_fullname": "scp-1663"
+}

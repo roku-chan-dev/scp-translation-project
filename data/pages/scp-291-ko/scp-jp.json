@@ -1,0 +1,23 @@
+{
+  "title": "SCP-291-KO",
+  "content": "[[include :scp-jp:credit:start]]\n> **タイトル:** 君は、愛されるために\n> **著者:** [[*user Plone]]\n> **原題:** 당신은, 사랑받기 위해\n> **作成年:** 2024\n> **翻訳責任者:** [[*user Amplifier]]\n> **翻訳年:** 2024\n> **初訳時参照リビジョン:** 7\n> **元記事リンク:** http://scpko.wikidot.com/scp-291-ko\n[[include :scp-jp:credit:end]]\n\n**アイテム番号:** SCP-291-KO\n\n**オブジェクトクラス:** Safe\n\n**特別収容プロトコル:** SCP-291-KO-AとSCP-291-KO-Bはサイト-21KのSafeクラス標準収容室に収容します。SCP-291-KO-Cは性質上、収容は不要であり、担当研究員1名が対象の書き込み履歴を継続的に確認し、分類します。\n\n**説明:** SCP-291-KOは、人間の死体(SCP-291-KO-A)、この死体と異常に結合したデスクトップコンピュータ(SCP-291-KO-B)、およびそのコンピュータにプログラムされた一連のアルゴリズム(SCP-291-KO-C)の総称です。\n\nSCP-291-KOは20██年9月9日、京畿道城南市に位置するアパートの一室で発見されました。対象は確保当時、孤独死現場だと誤認されていましたが、死体(SCP-291-KO-A)がコンピューターと結合していることが判明したため、財団に引き渡されました。\n\n部屋内で他の異常なオブジェクトは発見されませんでした。また、SCP-291-KO-Aが生前に持っていた社会関係も確認されておらず、どのようにして対象が異常性を得たのかは不明です。\n\nSCP-291-KO-Aは両腕でSCP-291-KO-Bを抱きしめた状態でミイラ化しており、調査の結果、少なくとも█年前に死亡していたと推定されています。両手およびそれに関連する神経系の一部は、SCP-291-KO-Bの回路と異常に結合しており、不定期に電気信号を発して対象を作動させます。\n\nSCP-291-KO-B自体には異常性はありませんが、SCP-291-KO-Aから送られる信号に従い、SCP-291-KO-Cを実行する媒体として異常現象を引き起こします。\n\nSCP-291-KO-Cは異常なプログラムであり、未知のメカニズムにより、多数の罵詈雑言を含む文章、友好的な表現、自虐的なユーモア、軽度の認識災害を含む画像などを生成します。対象はこの生成された文章と画像を性質に応じて分類した後、要注意団体「[[[http://scp-jp.wikidot.com/the-alleys-hub|路地道]]]」へ無作為に投稿します。この投稿に使用されるIDは、元々SCP-291-KO-Aが所有していたものであることが判明しました。\n\nその後、路地道でSCP-291-KO-Aの投稿に対する反応が寄せられると、SCP-291-KO-Cはその反応を肯定的なものと否定的なものに分類し、肯定的反応に対して自己フィードバックを積極的に行います。このフィードバックの結果、次回SCP-291-KO-Aからの信号を受け取った際には、肯定的反応を受けた表現を中心に投稿するようになります。\n\n以下は、現在までに財団が把握しているSCP-291-KO-Cのフィードバックに影響を与える文章または単語のリストです。\n\n[[table  style=\"border-collapse:collapse; width: 600px;\"]]\n[[row]]\n[[cell style=\"font-weight:bold;padding: .3em .7em; text-align: center; border: 1px solid black; background-color: silver; width: 20%;\"]]\nフィードバックの影響度\n[[/cell]]\n[[cell style=\"font-weight:bold; padding: .3em .7em; text-align: center; border: 1px solid black; background-color: silver;\"]]\n文章\n[[/cell]]\n[[/row]]\n[[row]]\n[[cell style=\"font-weight:bold; text-align: center; padding: .3em .7em; border: 1px solid black\"]]\n+150%\n[[/cell]]\n[[cell style=\"border: 1px solid black; padding: .3em .7em;\"]]\n愛情を表現したすべての文章\n[[/cell]]\n[[/row]]\n[[row]]\n[[cell style=\"font-weight:bold; text-align: center; padding: .3em .7em; border: 1px solid black\"]]\n+100%\n[[/cell]]\n[[cell style=\"border: 1px solid black; padding: .3em .7em;\"]]\n「気分が良くなった」「幸せになった」など、ポジティブな感情が含まれた文章\n[[/cell]]\n[[/row]]\n[[row]]\n[[cell style=\"font-weight:bold; text-align: center; border: 1px solid black\"]]\n+75%\n[[/cell]]\n[[cell style=\"border: 1px solid black; padding: .3em .7em;\"]]\n「笑った」「微笑んだ」など、ポジティブな感情を表現する行動に関する文章\n[[/cell]]\n[[/row]]\n[[row]]\n[[cell style=\"font-weight:bold; text-align: center; border: 1px solid black\"]]\n+40%\n[[/cell]]\n[[cell style=\"border: 1px solid black; padding: .3em .7em;\"]]\n「有益だった」「初めて知った」など、情報の習得に役立ったことを示す文章\n[[/cell]]\n[[/row]]\n[[row]]\n[[cell style=\"font-weight:bold; text-align: center; border: 1px solid black\"]]\n0%\n[[/cell]]\n[[cell style=\"border: 1px solid black; padding: .3em .7em;\"]]\n作成された文章の内容と関連がない文章\n[[/cell]]\n[[/row]]\n[[row]]\n[[cell style=\"font-weight:bold; text-align: center; border: 1px solid black\"]]\n-30%\n[[/cell]]\n[[cell style=\"border: 1px solid black; padding: .3em .7em;\"]]\n「間違った情報だ」「昔の話だ」など、書かれた情報に対する否定的な文章\n[[/cell]]\n[[/row]]\n[[row]]\n[[cell style=\"font-weight:bold; text-align: center; border: 1px solid black\"]]\n-60%\n[[/cell]]\n[[cell style=\"border: 1px solid black; padding: .3em .7em;\"]]\n「吐きそうになった」「顔をしかめた」など、ネガティブな感情を表現する行動に関する文章\n[[/cell]]\n[[/row]]\n[[row]]\n[[cell style=\"font-weight:bold; text-align: center; border: 1px solid black\"]]\n-90%\n[[/cell]]\n[[cell style=\"border: 1px solid black; padding: .3em .7em;\"]]\n「気持ち悪い」「嫌だ」など、ネガティブな感情が含まれた文章\n[[/cell]]\n[[/row]]\n[[row]]\n[[cell style=\"font-weight:bold; text-align: center; border: 1px solid black\"]]\n-200%\n[[/cell]]\n[[cell style=\"border: 1px solid black; padding: .3em .7em;\"]]\n嫌悪感を表現したすべての文章\n[[/cell]]\n[[/row]]\n[[/table]]\n\nこのアルゴリズムによって、SCP-291-KO-Cはこれまでに路地道で99,569件の肯定的反応と325件の否定的反応を得たと推定されています。\n\n@@ @@\n\n**補遺:** 以下は、SCP-291-KO確保時に発見された文章です。\n\n> \n> 君は私よりも良い私になるだろう\n> \n\n\n@@ @@\n\n\n[[footnoteblock]]\n[!-- 脚注をコメントの上に表示するための構文です。 消さずに下書きはこの上に書いてください。  --]",
+  "tags": [
+    "ko",
+    "safe",
+    "scp",
+    "オンライン",
+    "コンピュータ",
+    "死体",
+    "精神感応",
+    "記憶媒体",
+    "路地道",
+    "道具",
+    "電気"
+  ],
+  "author": null,
+  "created_at": "2024-08-12T02:01:55+00:00",
+  "updated_at": "2024-10-26T09:15:30+00:00",
+  "rating": 17,
+  "_site": "scp-jp",
+  "_fullname": "scp-291-ko"
+}

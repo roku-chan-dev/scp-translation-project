@@ -1,0 +1,16 @@
+{
+  "title": "SCP-CN-1871",
+  "content": "[[module CSS]]\n#page-title {\n  display: none;\n}\n\n.meta-title {\n  border-bottom: solid 1px #bbbbbb;\n  color: #990011;\n  font-weight: normal;\n  margin: 0 0 0.6em;\n  padding: 0 0 0.25em;\n  font-size: 200%;\n}\n\n.meta-title p {\n  margin: 0;\n}\n[[/module]]\n[[module ListPages category=\"fragment\" parent=\".\" limit=\"1\" order=\"name\" offset=\"@URL|0\"]]\n[[div class=\"meta-title\"]]\n%%title%%\n[[/div]]\n[[/module]]\n[[>]]\n[[module Rate]]\n[[/>]]\n[[module ListPages category=\"fragment\" parent=\".\" limit=\"1\" order=\"name\" offset=\"@URL|0\"]]\n\n%%content%%\n[[/module]]\n\n[[div style=\"display:none\"]]\n段落页面地址如下：\nhttp://scp-wiki-cn.wikidot.com/fragment:scp-cn-1871-01\nhttp://scp-wiki-cn.wikidot.com/fragment:scp-cn-1871-02\nhttp://scp-wiki-cn.wikidot.com/fragment:scp-cn-1871-03\nhttp://scp-wiki-cn.wikidot.com/fragment:scp-cn-1871-04\nhttp://scp-wiki-cn.wikidot.com/fragment:scp-cn-1871-05\nhttp://scp-wiki-cn.wikidot.com/fragment:scp-cn-1871-06\nhttp://scp-wiki-cn.wikidot.com/fragment:scp-cn-1871-07\n[[/div]]",
+  "tags": [
+    "safe",
+    "scp",
+    "原创",
+    "基金会制"
+  ],
+  "author": "monitor-256",
+  "created_at": "2020-07-07T15:30:17+00:00",
+  "updated_at": "2020-07-07T16:13:02+00:00",
+  "rating": 47,
+  "_site": "scp-wiki-cn",
+  "_fullname": "scp-cn-1871"
+}

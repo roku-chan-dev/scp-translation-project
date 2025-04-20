@@ -1,0 +1,14 @@
+{
+  "title": "レーダーチャート",
+  "content": "[[iftags +コンポーネント]]\nこのユーザーコンポーネントのリファレンスは[[[reference:radar-chart|]]]です。\n[[/iftags]]\n\n[[include :scp-jp:user-component:radar-chart-base\n|no={$no}\n|no=1\n|item={$item}\n|item=6\n|size={$size}\n|size=200px\n|stage={$stage}\n|stage=5\n|color={$color}\n|color=#ff0000\n|bg-color={$bg-color}\n|bg-color=#cccccc\n|line-color={$line-color}\n|line-color=#888888\n|max={$max}\n|data1={$data1}\n|data2={$data2}\n|data3={$data3}\n|data4={$data4}\n|data5={$data5}\n|data6={$data6}\n|data7={$data7}\n|data8={$data8}\n|data9={$data9}\n|data10={$data10}\n|label1={$label1}\n|label2={$label2}\n|label3={$label3}\n|label4={$label4}\n|label5={$label5}\n|label6={$label6}\n|label7={$label7}\n|label8={$label8}\n|label9={$label9}\n|label10={$label10}\n|clear={$clear}\n|clear=false\n|align={$align}\n|align=left\n|sushi={$sushi}\n|sushi=true\n]]",
+  "tags": [
+    "jp",
+    "コンポーネント"
+  ],
+  "author": "FeS_ryuukatetu",
+  "created_at": "2023-02-09T14:06:35+00:00",
+  "updated_at": "2023-02-09T14:09:55+00:00",
+  "rating": 0,
+  "_site": "scp-jp",
+  "_fullname": "user-component:radar-chart"
+}

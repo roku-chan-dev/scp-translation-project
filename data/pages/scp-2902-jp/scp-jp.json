@@ -1,0 +1,19 @@
+{
+  "title": "SCP-2902-JP",
+  "content": "[[include credit:start]]\n**タイトル:** SCP-2902-JP - 穴二つ\n**著者:** ©︎[[*user nemo111]]\n**作成年:** 2020\n[[include credit:end]]\n\n**アイテム番号:** SCP-2902-JP\n\n**オブジェクトクラス:** Safe\n\n[[include :scp-jp:component:image-blur name=http://scp-jp-storage.wdfiles.com/local--files/file%3A6634493-10-rkdg/1200px-Hul_-_Mantellisaurus_atherfieldensis_-_2.jpg|caption=SCP-2902-JP。認知抵抗処理済。|width=300px|align=right]]\n\n[[include component:image-block\nname=http://scp-jp-storage.wdfiles.com/local--files/file%3A6634493-9-m2xh/3284227211_7002824cbe_c.jpg|\ncaption=発見現場周辺]]\n\n**特別収容プロトコル:** SCP-2902-JPはサイト-87MM内の標準収容ロッカーに保管、収容されています。\n\n**説明:** SCP-2902-JPは後述する認識災害を内包したマンテリサウルス(//Mantellisaurus//)属の恐竜の化石です。当オブジェクトを認知抵抗処置を実施せず認識した生物は空腹感を訴え、尚且つ歩行を主とした移動が困難となります。これは移動を可能とするだけの身体エネルギーが認識個体に充足している場合においても、例外はありません。この影響は記憶処理剤の投与によって除去が可能です。\n\n当オブジェクトは南イングランド、テムズ川付近で研究者らによって発見され、同者らによる救難信号により財団に認知、初期収容が実施されました。周辺地域の捜索も実施されましたが、当オブジェクトは1個体のみ発見され、尚且つ、同時に発見された生痕化石より発見現場から一切移動、並びに食事を行っていない事が判明しました。",
+  "tags": [
+    "jp",
+    "safe",
+    "scp",
+    "恐竜",
+    "視覚",
+    "観測",
+    "認識災害"
+  ],
+  "author": "nemo111",
+  "created_at": "2020-12-07T04:24:39+00:00",
+  "updated_at": "2025-01-26T12:12:46+00:00",
+  "rating": 28,
+  "_site": "scp-jp",
+  "_fullname": "scp-2902-jp"
+}

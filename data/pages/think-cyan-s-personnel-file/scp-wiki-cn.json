@@ -1,0 +1,13 @@
+{
+  "title": "念青的人事档案",
+  "content": "[[module CSS]]\n@import url(/component:shadow-relieved-against-light/code/1);\n[[/module]]\n\n[[tabview]]\n[[tab 来点经典老番]]\n[[include component:image-block name=https://s3.ax1x.com/2021/02/28/69GEX6.jpg|caption=来点经典老番]]\n[[/tab]]\n[[tab 作品一览]]\n少作多轻率拙劣，今日观之惟余惭愧。若蒙您不弃，自当万分感激。\n\n当然如果您希望获得更好的阅读体验的话还是从三千无光年开始然后直接跳到泪膜破碎时间啦，那些图书馆和早年写的不伦不类的诗咱自己都看不下去，列在这里只是因为咱是个懒人，懒到不想打理作者页直接丢了个懒人代码（x）\n\n[[include component:author-page order=created_at|translation=yes]]\n\n[[include component:author-page-collab\nname=being-with-light-dust |written_by=Think cyan ，Simon Arran]]\n[[include component:author-page-collab\nname=holding-aloft-the-flag-in-rain |written_by=Think cyan ，Simon Arran]]\n[[include component:author-page-collab\nname=think-cyan-s-personnel-file###|written_by=Think cyan]]\n\n\n[[/tab]]\n\n[[tab 我的信念]]\n也许以后会变成咱的自叙罢，不过咱很懒，所以一时半会是不太可能啦。\n----\n一个人如果灵魂是清白的，他衣服上偶然沾来的几个斑点，终会在时间之流中涤去。\n——余光中「望乡的牧神」\n\n他相信，只要那是一支挺直的笔，一定会在历史上留下一点笔迹的，也许那是一句，也许那是整节甚至整章，至于自己本来无笔而要攘人、据人甚至焚人之笔之徒，大概是什么标点符号也留不下来的吧。\n一一余光中「地图」\n\n为了她，我愿付出一切。我必须看见一个更美丽的故乡出现在我的面前——或者我的坟前。而我将用我的泪水，洗去她一切的污秽和耻辱。\n一一端木蕻良「土地的誓言」\n[[/tab]]\n[[/tabview]]",
+  "tags": [
+    "作者"
+  ],
+  "author": "Think cyan",
+  "created_at": "2019-02-05T13:58:37+00:00",
+  "updated_at": "2022-12-16T01:16:30+00:00",
+  "rating": 29,
+  "_site": "scp-wiki-cn",
+  "_fullname": "think-cyan-s-personnel-file"
+}

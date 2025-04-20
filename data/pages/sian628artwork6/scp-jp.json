@@ -1,0 +1,14 @@
+{
+  "title": "夜を殺して、光に放って。",
+  "content": "[[include :scp-jp:credit:start]]\n**タイトル:** 夜を殺して、光に放って。\n**著者:** [[*user sian628]]\n**作成年:** 2024\n[[include :scp-jp:credit:end]]\n[[module css]]\n#page-content .image-change-wrapper {\n  position: relative;\n  width: 100%;\n  max-width: 567px;\n  margin: 0 auto;\n  height: 850px;\n}\n\n#page-content .image-change-wrapper .image-base,\n#page-content .image-change-wrapper .image-top {\n  position: absolute;\n  width: 100%;\n  max-width: 567px;\n  top: 0;\n  left: 0;\n  transition: 1s ease-in-out;\n}\n\n#page-content .image-change-wrapper.step-start .image-top {\n  transition: 0.1s step-start;\n}\n\n#page-content .image-change-wrapper .image-top:hover {\n  opacity: 0;\n  transition: 3.5s ease-in-out;\n}\n[[/module]]\nまるで向日葵みたいに笑って、君は。\n[[div class=\"image-change-wrapper\"]]\n[[image http://scp-jp-storage.wikidot.com/local--files/file:8538458-13-9zb5/%E7%84%A1%E9%A1%8C22_20240217235922.png class=\"image-base\"]]\n[[image http://scp-jp-storage.wikidot.com/local--files/file:8538458-12-71g2/%E7%84%A1%E9%A1%8C22_20240217235717.png class=\"image-top\"]]\n[[/div]]",
+  "tags": [
+    "jp",
+    "アートワーク"
+  ],
+  "author": "sian628",
+  "created_at": "2024-02-17T15:39:02+00:00",
+  "updated_at": "2024-02-17T15:40:13+00:00",
+  "rating": 44,
+  "_site": "scp-jp",
+  "_fullname": "sian628artwork6"
+}

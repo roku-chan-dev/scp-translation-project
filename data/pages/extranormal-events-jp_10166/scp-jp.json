@@ -1,0 +1,14 @@
+{
+  "title": "10166",
+  "content": "overview: \"財団の保有するSNSアカウント全般に対し、不明なユーザーから特定の動画が送付された。動画の再生時間は約30秒、内容は物品の画像・テレフォンノイズ・文字キャプションのみで構成されるものであった。動画自体に異常性は認められていない。\\n\\n投稿から24時間が経過した時点で、動画は送付アカウントによって削除された。更にその15分後、動画を送付したアカウントの削除が確認されている。\\n\\n以下に動画のアーカイブを添付する。\\n\\n[[collapsible show=\\\"アーカイブを閲覧\\\" hide=\\\"閉じる\\\"]]\\n[[=]]\\n[[html]]\\n<video style=\\\"width:100%;height:100%\\\" controls>\\n<source src=\\\"http://scp-jp-storage.wikidot.com/local--files/file:7178014-328-ssw9/%E5%A4%B1%E8%B8%AA.mp4\\\">\\n</video>\\n[[/html]]\\n[[/=]]\\n[[/collapsible]]\"\nswdate: '1'\ndate: 2015/06/12\nswplace: '0'\nplace: ''\nswchaseprocedure: '1'\nchaseprocedure: \"後の調査により、動画内にて登場する人名を有する人物（三上 優子、三上 和樹、三上 賢治、佐竹 幸吉）が死亡済みであることが確認された。しかしながら、動画との関連性は認められていない。現在、財団では動画の送付目的、内容と人物の関係性などに関する調査が行われている。\\n@@@@\\nなお、動画の送付自体は財団保有のSNSアカウント以外には行われていなかったため、隠蔽措置は取られない。\"\nswaddendum: '0'\naddendum: ''\ntf2: '0'\nauthor: ''\nredirect-b: '[[module Redirect destination=\"/log-of-extranormal-events-jp'\nredirect-e: '\"]]'",
+  "tags": [
+    "jp",
+    "剪定対象-子"
+  ],
+  "author": "terukami",
+  "created_at": "2024-06-22T10:26:30+00:00",
+  "updated_at": "2024-06-22T10:27:09+00:00",
+  "rating": 13,
+  "_site": "scp-jp",
+  "_fullname": "extranormal-events-jp:10166"
+}

@@ -1,0 +1,18 @@
+{
+  "title": "The Pastarasta1 Art Page Experience: Rise Of The Revenge Of Ruiz Duchamp (ALMOST DIED!)",
+  "content": "[[include :scp-wiki:theme:minimal\n|title=Pastarasta1's\n|subtitle=Art Page Experience]]\n\n[[module CSS]]\n#header {\n    background-image: url(http://scp-wiki.wdfiles.com/local--files/the-pastarasta1-art-page-experience-rise-of-the-revenge-of-r/logo);\n}\n\n#page-content .collapsible-block {  \n    border: solid 1px #000;\n    padding: 3px 5px;\n    margin: 1em 0;\n}\n\n#page-content hr {\n  height: .5em;\n  background: lightgray;\n  border: 1px solid lightgray;\n  margin: 1.2em 0;\n}\n[[/module]]\n\n[[>]]\n[[module Rate]]\n[[/>]]\n\n[[module ListPages  category=\"fragment\" parent=\".\" limit=\"1\" order=\"created_at\" offset=\"@URL|0\"]]\n%%content%%\n\n[/the-pastarasta1-art-page-experience-rise-of-the-revenge-of-r/offset/[[#expr (%%index%%-2)]] Previous] | [/the-pastarasta1-art-page-experience-rise-of-the-revenge-of-r/offset/[[#expr (%%index%%)]] Next]\n[[/module]]\n[!-- http://www.scp-wiki.net/fragment:pr1-2-0 --]\n[!-- http://www.scp-wiki.net/fragment:pr1-2-1 --]",
+  "tags": [
+    "_cc",
+    "_listpages",
+    "artist",
+    "cel-shaded",
+    "painted",
+    "scp-art"
+  ],
+  "author": "ratking666",
+  "created_at": "2019-07-19T00:07:53+00:00",
+  "updated_at": "2024-03-28T11:32:14+00:00",
+  "rating": 90,
+  "_site": "scp-wiki",
+  "_fullname": "the-pastarasta1-art-page-experience-rise-of-the-revenge-of-r"
+}

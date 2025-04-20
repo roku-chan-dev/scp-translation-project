@@ -1,0 +1,23 @@
+{
+  "title": "SCP-5224",
+  "content": "[[=]]\n[[module Rate]]\n[[/=]]\n[[include :scp-wiki:component:info-ayers\n|lang=en[!-- EN/RU/KO/CN/FR/PL/ES/TH/JP/DE/IT/UA/PTBR --]\n|page=scp-5224[!-- url of your page on the scp wiki --]\n|authorPage=http://www.scp-wiki.wikidot.com/what-lurks-below-sebarus-s-author-page[!-- link to your author page --]\n|comments=\n= **//SCP-5224: Hecking Frogs by [[*user Sebarus]]//**\n]]\n[[include :scp-wiki:theme:black-highlighter-theme]]\n[[include :scp-wiki:component:bhl-dark-sidebar]]\n[[include :topia:cqb:flow speed=1]]\n[[module CSS]]\n}\n\n#page-content > .collapsible-block .collapsible-block-content {\n    text-align: left;\n}\n\n.addendum {\n    border:solid 2px #999999;\n    background:#F5F5F5;\n    width:84%;\n    padding:1px 15px;\n    margin: 10px auto;\n}\n[[/module]]\n\n[[include :scp-wiki:component:anomaly-class-bar-source\n|item-number= 5224\n|clearance= 1\n|container-class= safe\n|secondary-class= none\n|disruption-class= dark\n|risk-class= notice\n]]\n\n------\n[[include component:image-block\nname=Frög|\ncaption=SCP-5224|\nalign=right\n]]\n\n**Special Containment Procedures:** SCP-5224 is held in a waterless terrarium otherwise suited for amphibians. SCP-5224 is never to come within 100 meters of water.\n\nFrogs created by SCP-5224 must be terminated and disposed of per standard biological waste disposal methods.\n\n**Description:** SCP-5224 is a female marsh frog //(Pelophylax ridibundus)//. It does not experience senescence, and it does not need to eat, drink or breathe.\n\nIf SCP-5224 croaks within 100 meters from a body of water, it will start to go through eutrophication,[[footnote]] A process in which excessive growth of algae in water is caused by overt amounts of minerals and nutrients. [[/footnote]] and additional members of the order //Anura//[[footnote]] Frogs. [[/footnote]] will begin to manifest within it. Said frogs will always be native to the area, and the rate of frogs produced is 5000 per 1 cubic meter per second. This will continue until SCP-5224 stops croaking.\n\nAfter manifestation, produced frogs will instantly head towards the nearest site of plant agriculture. Upon arrival, they will begin to consume insect life at a rate that is highly damaging to the ecological balance of the region.  Aside from this and their method of creation, produced frogs are non-anomalous.\n\n------\n\n[[=]]\n[[collapsible show=\"▶ Addendum 5224.1 ◀\" hide=\"▼ Close ▼\"]]\n[[<]]\n**Incident Report 5224.1:** On 29/01/21, a peregrine falcon holding a clay pot materialized in SCP-5224's containment chamber. It dropped the pot, grabbed SCP-5224, and disappeared.\n\nUpon inspection, carvings on the pot were found to contain a message written in hieroglyphic script:\n> Apologies for any problems my wife might have caused. Sent our son to fetch her. She's been a little confused ever since the days of Babylon when she became associated with plagues instead of fertility and crops.\n> \n> If y'all could stop changing our domains, that'd be appreciated.\n> \n> With love, Khnum.\nInvestigation into the whereabouts of SCP-5224 is ongoing.\n[[/<]]\n[[/collapsible]]\n[[/=]]\n\n------\n\n[[footnoteblock]]\n\n[[div class=\"footer-wikiwalk-nav\"]]\n[[=]]\n<< [[[SCP-5223]]] | SCP-5224 | [[[SCP-5225]]] >>\n[[/=]]\n[[/div]]\n\n------",
+  "tags": [
+    "_cc",
+    "acoustic",
+    "alive",
+    "amphibian",
+    "animal",
+    "aquatic",
+    "biohazard",
+    "safe",
+    "scp",
+    "self-replicating",
+    "uncontained"
+  ],
+  "author": "Sebarus",
+  "created_at": "2021-02-07T03:37:21+00:00",
+  "updated_at": "2022-10-08T19:07:06+00:00",
+  "rating": 100,
+  "_site": "scp-wiki",
+  "_fullname": "scp-5224"
+}

@@ -1,0 +1,20 @@
+{
+  "title": "SCP-1159",
+  "content": "[[>]]\n[[module Rate]]\n[[/>]]\n\n**情報災害警告: 本稿のすべての情報は音声形式で記録しなければなりません。**\n\nSCP-1159（オーディオファイル） //注記：本記録が非公式な形式であることをお詫び致します。書面に記述することは不可能でした。- Reixis博士//\n[[include :snippets:html5player\n|type=audio\n|url=http://www.scp-wiki.net/local--files/scp-1159/1159-B-1.mp3\n]]\nSCP-1159 (補遺1159-A): 実験1\n[[include :snippets:html5player\n|type=audio\n|url=http://www.scp-wiki.net/local--files/scp-1159/1159-B-2.mp3]]\nSCP-1159 (補遺1159-B): 実験2\n[[include :snippets:html5player\n|type=audio\n|url=http://www.scp-wiki.net/local--files/scp-1159/1159-B-3.mp3]]\nSCP-1159 (補遺1159-C): 実験2の結果を踏まえたアンドロヴスキー博士へのインタビュー\n[[include :snippets:html5player\n|type=audio\n|url=http://www.scp-wiki.net/local--files/scp-1159/1159-B-4.mp3]]\nSCP-1159 添付1 (オーディオファイル): SCP-1159の音声\n[[include :snippets:html5player\n|type=audio\n|url=http://www.scp-wiki.net/local--files/scp-1159/1159-2.mp3]]\n\n[[[SCP-1159-InformalDocumentationFile | SCP-1159非公式文書化ファイル]]]",
+  "tags": [
+    "en",
+    "safe",
+    "scp",
+    "メタ",
+    "人工",
+    "情報災害",
+    "道具",
+    "音声添付"
+  ],
+  "author": "gnmaee",
+  "created_at": "2015-12-17T21:29:05+00:00",
+  "updated_at": "2024-02-21T12:31:34+00:00",
+  "rating": 3,
+  "_site": "scp-jp",
+  "_fullname": "scp-1159"
+}

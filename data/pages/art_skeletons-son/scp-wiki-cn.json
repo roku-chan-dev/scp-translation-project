@@ -1,0 +1,15 @@
+{
+  "title": "但当骷髅来敲门之时",
+  "content": "[[include :scp-wiki-cn:theme:monotypical]]\n\n[[module css]]\n:root {\n    --linkColor: #FF4838;\n\n    --primaryBackgroundColor: #242935;\n    --secondaryBackgroundColor: #3F4256;\n    --tertiaryBackgroundColor: #809EB2;\n    --borderColor: #6272A4;\n\n    --shadow: rgba(96,213,248,0.3);\n\n    --selectionColor: #50FA7B;\n    --textColor: #F8F8F2;\n    --textColor-alt: #6272A4;\n}\n::-webkit-scrollbar-track {\n    background: var(--secondaryBackgroundColor);\n}\n[[/module]]\n\n[[include :scp-wiki-cn:component:author-label-source start=--\n|name=EstrellaYoshte]]\n\n[[[estrellayoshte|我的作者页]]]\n\n[[[desk-of-junior-designer-s-yvonne|我的图标艺作台]]]\n[[[art:estrella-illustration-desk|其他艺作台]]]\n[[include :scp-wiki-cn:component:author-label-source end=--]]\n\n[[div class=\"meta-title\"]]\n但当骷髅来敲门之时\n[[/div]]\n\n[[=image http://scpsandboxcn.wikidot.com/local--files/pic-trans/FANART-SCP-5572.jpg]]\n\n------\n我视觉化了[[*user Ralliston]] 的 [[[SCP-5572]]]。我知道那大家伙可能不是骷髅，但我的作品我做主 :P",
+  "tags": [
+    "120站档案馆",
+    "marie-surratt",
+    "艺术作品"
+  ],
+  "author": "Etinjat",
+  "created_at": "2022-01-18T17:06:27+00:00",
+  "updated_at": "2024-04-08T12:34:42+00:00",
+  "rating": 2,
+  "_site": "scp-wiki-cn",
+  "_fullname": "art:skeletons-son"
+}

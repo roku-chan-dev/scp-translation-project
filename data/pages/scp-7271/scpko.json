@@ -1,0 +1,20 @@
+{
+  "title": "SCP-7271",
+  "content": "[[include info:start]]\n[[=]]\n[[size 120%]]**SCP-7271**[[/size]]\n미생물 파업 중\n[[size 80%]]Microbes on Strike[[/size]]\n[[/=]]\n\n**저자:** [[*user ParallelPotatoes]]\n**번역자:** [[*user LR0725]]\n**원본:** https://scp-wiki.wikidot.com/scp-7271\n[[include info:end]]\n[[div style=\"text-align: right; margin-top: -10px;\"]]\n[[size 80%]]##757575|by [[[Parallels Potato Page |ParallelPotatoes]]]##[[/size]]\n[[/div]]\n[[include :scpko:component:anomaly-class-bar-source\n\n|item-number= 7271\n\n|clearance= 1\n\n|container-class= 유클리드\n\n|secondary-class= none\n\n|secondary-icon= https://urlhere.com\n\n|disruption-class= 암흑\n\n|risk-class= 주목\n\n]]\n@@ @@\n**특수 격리 절차:** SCP-7271은 제327기지의 표준 변칙 보관고에 격리한다. 인원들은 SCP-7271의 요구를 충족시켜 주어서는 안된다.\n[[include component:image-block\n| name=pickles.jpeg\n| caption=SCP-7271의 사진\n]]\n**설명:** SCP-7271은 오이 3개와 3% 농도의 소금물이 들어있는 유리병이다. 이러한 조건 하에서는 일반적으로 젖산을 생산하는 미생물 활동이 일어나, 오이가 피클이 된다. 그러나 SCP-7271 안 내용물의 화학 조성에 변화는 탐지되지 않았다. 추가 조사를 통해 유리병 내에서 명백히 미생물 활동은 일어나지 않지만, 미생물 자체는 존재한다는 것이 밝혀졌다. 각 미생물은 여러 가지 메시지가 쓰여 있는 미니어처 피켓 표지판에 붙어 있다. 이 메시지 중 몇 가지가 아래에 나열되어 있다.\n\n* 투쟁하라!\n* 대표 없이 발효 없다!\n* 출아법에게도 출산 휴가를!\n* 절임노동 적정임금!\n* 선택해라 세균이여, 세상이냐 사멸이냐!\n\n기업에서 역사적으로 활용해 온 파업 파괴용 관행이 격리 절차로써 SCP-7271의 변칙 효과를 줄이는 데에 효과적인지 실험이 현재 진행 중이다. 무료로 발효를 해주는 \"불참,,scab,,\" 미생물이 발생하여도, 결국 파업 중인 미생물들의 조직에 합류하기 때문에 효과적이지 못한 것으로 입증되었다. 남은 미생물들을 억제하기 위해 SCP-7271의 지도자를 선택적으로 제거하는 연구가 계획되어 있다.\n\n**사건 기록 1:** 2022년 9월 30일, 워즈워스,,Wadsworth,, 연구원이 SCP-7271의 급여 요구를 들어주기 위해 SCP-7271에게 1달러를 지불하려 시도했다. SCP-7271은 적은 금액에 모욕감을 느끼고 제안을 거절했다. 워즈워스 연구원은 이후 소화 문제를 호소하였으며, 그의 장내세균총 일부가 변칙적이었고 SCP-7271의 파업에 합류했다는 것이 밝혀졌다.\n\n**사건 기록 2:** 2023년 6월 17일, 제327기지는 지역 피클 공장으로 발송된 편지를 가로챘다. 편지 봉투에는 고운 가루가 들어 있었으며, 이는 수십 억 부의 미세한 친노동 선전 팜플렛인 것이 밝혀졌다. 팜플렛의 변칙성에도 불구하고, 연구에 따르면 비변칙적 미생물은 글을 읽을 수도 없고, 지성이 있지도 않기 때문에 비변칙적 미생물에게는 효과가 없었다.\n\n**사건 기록 3:** 2023년 8월 4일, 워즈워스 연구원은 점심을 먹던 중 실수로 프로바이오틱이 들어 있는 요거트를 SCP-7271 안에 약간 흘렸다. 이 사건 후로 워즈워스 연구원은 SCP-7271이 모든 변칙 활동을 중단하기 전, 대략 10분 동안 희미한 소음, 그가 묘사하기로는 \"수십억 개의 작은 환호성\"을 들었다. SCP-7271을 무효 등급으로 재분류하는 안건이 보류 중이다.\n@@ @@\n[[div class=\"authors\"]]\n[[include :scp-wiki:component:license-box\n|author=ParallelPotatoes]]\n=====\n> **Filename:** pickles.jpeg\n> **Author:** [[*user ParallelPotatoes]]\n> **License:** CC BY-SA 3.0\n=====\n[[include :scp-wiki:component:license-box-end]]\n[[/div]]",
+  "tags": [
+    "en",
+    "scp",
+    "생물",
+    "세균",
+    "액체",
+    "유클리드",
+    "음식",
+    "인공물"
+  ],
+  "author": "LR0725",
+  "created_at": "2023-10-27T14:22:14+00:00",
+  "updated_at": "2025-01-10T22:00:32+00:00",
+  "rating": 14,
+  "_site": "scpko",
+  "_fullname": "scp-7271"
+}

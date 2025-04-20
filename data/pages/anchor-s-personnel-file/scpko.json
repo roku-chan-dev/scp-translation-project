@@ -1,0 +1,14 @@
+{
+  "title": "Anchor의 인사 파일",
+  "content": "[[>]]\n[[module Rate]]\n[[/>]]\n\n= **암호명:** \n= \"Anchor\" \n\n= **보안 인가 등급:** \n= 3등급 \n\n= **요구 사항:** \n= 개인실에 설치된 전자 기기들의 상태가 매우 나쁘므로 교체를 요구하는 중. \n= //제발 내 방의 컴퓨터 좀 바꿔줘// ㅡ Anchor\n\n= **SCP:**\n[[module ListPages created_by=\"Anchor\" separate=\"no\" tags=\"scp, -번역\" order=\"title\" prependLine=\"||~ 일련번호 ||~ 추천 ||~ 덧글 ||\"]] \n|| %%title_linked%% || %%rating%% || %%comments%% || \n[[/module]]\n\n= **이야기:**\n[[module ListPages created_by=\"Anchor\" separate=\"no\" tags=\"이야기\" order=\"title\" prependLine=\"||~ 제목 ||~ 추천 ||~ 덧글 ||\"]] \n|| %%title_linked%% || %%rating%% || %%comments%% || \n[[/module]]",
+  "tags": [
+    "ko",
+    "작가"
+  ],
+  "author": "Anchor",
+  "created_at": "2012-10-27T09:37:53+00:00",
+  "updated_at": "2018-08-24T13:48:25+00:00",
+  "rating": 9,
+  "_site": "scpko",
+  "_fullname": "anchor-s-personnel-file"
+}

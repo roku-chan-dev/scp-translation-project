@@ -1,0 +1,13 @@
+{
+  "title": "Maga Zine Cover",
+  "content": "[[include :scp-wiki:theme:black-highlighter-theme]]\n[[include :scp-wiki:theme:minimalist-bhl]]\n\n\n\n[[module CSS]]\n:root {\n     --header-title: \"Department of Unreality\";\n     --header-subtitle: \"Making the Unreal a ㅤㅤㅤㅤ\";\n     --lgurl: url('http://scp-wiki.wikidot.com/local--files/unreality-hub/Unreality%20Header%20Logo.svg');\n}\n[[/module]]\n\n[[image https://scp-sandbox-3.wdfiles.com/local--files/fragment%3Aartexchange2023listpages0/thorleyzine-cover2.png]]\n\n@@ @@\n\n[[=]]\n[[collapsible show=\"OPEN?\" hide=\"OPENED : )\"]]\n\n[[div class=\"blockquote\"]]\n[[<]]\nPage 0: [https://scp-wiki.wikidot.com/magazine/offset/0  Cover]\nPage 1: [https://scp-wiki.wikidot.com/magazine/offset/1 Behind the Scenes of Unreality with VKTM]\nPage 2: [https://scp-wiki.wikidot.com/magazine/offset/2 SCP-7195 Supplementary Log] \nPage 3: [https://scp-wiki.wikidot.com/magazine/offset/3  Unspiration]\nPage 4: [https://scp-wiki.wikidot.com/magazine/offset/4 Site-00 Community Cookbook]\n[[/<]]\n[[/div]]\n\n[[/collapsible]]\n[[/=]]",
+  "tags": [
+    "fragment"
+  ],
+  "author": "Prismal",
+  "created_at": "2024-08-08T03:26:56+00:00",
+  "updated_at": "2024-10-28T13:25:39+00:00",
+  "rating": 0,
+  "_site": "scp-wiki",
+  "_fullname": "fragment:magazine-0"
+}

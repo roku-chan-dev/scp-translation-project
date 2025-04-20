@@ -1,0 +1,13 @@
+{
+  "title": "安静的故野",
+  "content": "[[module CSS]]\n\n.scp-image-block.block-right {\n    margin-right: 0;\n}\n\nbody {font-weight: bold;}\n[[/module]]\n\n[[module css]]\n#page-title {display: none;}\n[[/module]]\n\n[[module css]]\n@import url('https://fonts.googleapis.com/css?family=Noto+Sans+TC|Noto+Serif+TC:700&display=swap');\n\n@import url('https://fonts.googleapis.com/css?family=Noto+Sans+SC|Noto+Serif+SC:200&display=swap');\n[[/module]]\n\n@@ @@\n@@ @@\n\n[[=]]\n\n**[[[SCP-CN-2325|SCP-CN-2325]]]**\n\n**[[[SCP-CN-2425|SCP-CN-2425]]]**\n\n@@ @@\n\n**[https://scp-wiki-cn.wikidot.com/looking-for-invisible-oneiroi 今夜太阳入眠，唯尔独逐梦神]**\n\n**[https://scp-wiki-cn.wikidot.com/wanderers:velella-velella 和水母一起下坠]**\n\n**[https://scp-wiki-cn.wikidot.com/jialingjiang 嘉陵浊浪]**\n\n**[https://scp-wiki-cn.wikidot.com/wanderers:purpleblue 自潮起]**\n\n@@ @@\n\n**[https://scp-wiki-cn.wikidot.com/our-wiki-1 监控记录：观谬维基平台群组备份 06/15/2021]**\n\n@@ @@\n@@ @@\n\n[[collapsible show=\"以及\" hide=\"以及\"]]\n\n@@ @@\n\n感谢零肆老师\n\nhttp://scpsandboxcn.wikidot.com/system:my-pages/created_by/agonark\n\n[[/collapsible]]\n\n[[/=]]",
+  "tags": [
+    "作者"
+  ],
+  "author": null,
+  "created_at": "2021-05-22T04:28:16+00:00",
+  "updated_at": "2023-07-26T11:49:12+00:00",
+  "rating": 40,
+  "_site": "scp-wiki-cn",
+  "_fullname": "agonark"
+}

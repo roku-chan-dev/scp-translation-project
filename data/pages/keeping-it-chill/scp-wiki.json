@@ -1,0 +1,19 @@
+{
+  "title": "Keeping it Chill With Your Homies Down at The SCP Foundation",
+  "content": "[[>]]\n[[module Rate]]\n[[/>]]\n\n[!--\nFragment list:\nhttp://scp-wiki.wikidot.com/fragment:keeping-it-chill-1\nhttp://scp-wiki.wikidot.com/fragment:keeping-it-chill-2\n--]\n\n[[module ListPages category=\"fragment\" parent=\".\" limit=\"1\" order=\"created_at\" offset=\"@URL|0\"]]\n%%content%%\n[[/module]]\n\n[[include component:license-box\n|author=Henzoid]]\n=====\n> **Filename:** brickround.png\n> **Name:** brickround.png\n> **Author:** \n> **License:** CC BY-SA 3.0\n> **Source Link:** http://scp-wiki.wikidot.com/kens-artistic-side\n\n=====\n[[include component:license-box-end]]",
+  "tags": [
+    "_cc",
+    "_licensebox",
+    "_listpages",
+    "broken-masquerade",
+    "comedy",
+    "slice-of-life",
+    "tale"
+  ],
+  "author": "Henzoid",
+  "created_at": "2019-05-25T19:03:43+00:00",
+  "updated_at": "2024-08-30T22:51:48+00:00",
+  "rating": 419,
+  "_site": "scp-wiki",
+  "_fullname": "keeping-it-chill"
+}

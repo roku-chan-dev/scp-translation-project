@@ -1,0 +1,17 @@
+{
+  "title": "SCP-CN-3012",
+  "content": "[[>]]\n[[module Rate]]\n[[/>]]\n\n[[module ListPages category=\"fragment\" parent=\".\" limit=\"1\" order=\"name\" offset=\"@URL|0\"]]\n%%content%%\n[[/module]]\n\n[[footnoteblock]]\n[[div class=\"footer-wikiwalk-nav\"]]\n[[=]]\n<< [[[SCP-CN-3011]]] | SCP-CN-3012 | [[[SCP-CN-3013]]] >>\n[[/=]]\n[[/div]]",
+  "tags": [
+    "cn3000",
+    "safe",
+    "scp",
+    "人形生物",
+    "原创"
+  ],
+  "author": "TaylorLester",
+  "created_at": "2024-01-01T16:02:52+00:00",
+  "updated_at": "2024-02-27T15:39:33+00:00",
+  "rating": 13,
+  "_site": "scp-wiki-cn",
+  "_fullname": "scp-cn-3012"
+}

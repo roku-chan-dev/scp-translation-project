@@ -1,0 +1,24 @@
+{
+  "title": "収容室ZH-S12-E-024実験記録",
+  "content": "[[include :scp-jp:theme:black-highlighter-theme]]\n[[module css]]\n:root {\n    --logo-image: url(\"http://scp-jp.wdfiles.com/local--files/scp-4428/DoMC_Logo100.png\");\n    --header-title: \"DoMC\";\n    --header-subtitle: \"Solving Communications Problems\";\n}\n[[/module]]\n\n[[include :scp-jp:info:start]]\n**原題**: [*http://scp-zh-tr.wikidot.com/scp-zh-024 收容室ZH-S12-E-024實驗紀錄]\n**著者**: [[*user AbyssDream]]\n**翻訳者:** [[*user Mang Gwan]] (ZH→EN) 、[[*user C-Dives]] (EN→JP)\n[[include :scp-jp:info:end]]\n\n[[module CSS]]\n.lie{\n     font-weight: bold;\n     font-family: monospace;\n     font-size: 140%;\n}\n.notice{\n    border: 1px solid #f9e24d;\n    outline: 4px solid #b54d3b;\n    color: #f9e24d;\n    background: #b54d3b;\n    padding: 10px;\n    text-align: center;\n}\n[[/module]]\n\n@@ @@\n\n[[div class=\"notice\"]]\n[[=]]\n\n++++ 財団誤伝達部門より通達\n\n本文書内の脱落部分は意図的な省略であるため、許可なく変更しないでください。\n\n-- エリ・フォークレイ、誤伝達部門主任\n[[/=]]\n[[/div]]\n\n@@ @@\n@@ @@\n\n収容室ZH-S12-E-024には1人分の食事、日用品、医療品を定期的に配置し、清掃する必要があります。必要性の無い実験を実施しないでください。\n\n収容室ZH-S12-E-024の内部では**下記の規定**を順守してください。\n\n* 名前を付けない。\n* 属性を与えない。\n* 代名詞で参照しない。\n* 形容詞で表現しない。\n\n収容室ZH-S12-E-024内での実験を記録する際も、同様に上記の規定を順守してください。\n\n@@ @@\n@@ @@\n\n\n**実験記録:**\n\n> **実験担当者:**\n> \n> **行動:** ウォルター・オリバーと命名する。\n> \n> **結果:** 為った。\n> \n> **注記:** ウォルター・オリバーは記憶処理され、戸籍名は変更された。検査において、彼に異常性は認められなかった。\n@@ @@\n> **実験担当者:** ロビンソン博士\n> \n> **行動:** 代名詞を使用する。\n> \n> **結果:** 消失した。\n@@ @@\n> **実験担当者:** ハリス博士\n> \n> **行動:** 属性を与える。\n> \n> **結果:** ハリス博士は“Euclidクラス”に関する全ての知識を喪失した。\n@@ @@\n> **実験担当者:**D-24635\n> \n> **行動:** 表現する。\n> \n> **結果:** D-24635は10秒後に“逞しい”ではなくなった。\n@@ @@\n> **実験担当者:** D-18746\n> \n> **行動:** 形容詞を思い付かなくなるまで表現し続ける。\n> \n> **結果:** D-18746は表現を止めた10秒後に“背が高い”、“痩せている”、“怒っている”、“疲れている”、“イカレている”、“傷ついている”、“髪の毛がある”、“ヒューマノイド”、“生きている”ではなくなった。\n@@ @@\n> **実験担当者:** アリス研究員\n> \n> **行動:** 収容室規定に違反せずに会話を行う。\n> \n> **結果:** 異常無し。\n> \n> **注記:** 精神状態が不安定。更なる実験は推奨されない。\n@@ @@\n> **実験担当者:** 無し\n> \n> **行動:** 収容室内から紙を回収する。\n> \n> **結果:** 無し\n> \n> **注記:** 紙の内容\n> \n>>  \n>> [[=]]\n>> [[size 200%]]**私に私を返せ**[[/size]]\n>> [[/=]]\n>>  \n>",
+  "tags": [
+    "euclid",
+    "scp",
+    "zh",
+    "インターナショナル",
+    "サイト-zh-12",
+    "メタ",
+    "情報災害",
+    "概念",
+    "認識災害",
+    "語り",
+    "誤伝達部門",
+    "重訳"
+  ],
+  "author": "C-Dives",
+  "created_at": "2022-04-24T15:45:55+00:00",
+  "updated_at": "2023-02-05T00:52:03+00:00",
+  "rating": 26,
+  "_site": "scp-jp",
+  "_fullname": "scp-zh-024"
+}

@@ -1,0 +1,16 @@
+{
+  "title": "箱の中の猫",
+  "content": "[!--\nPlease do not edit this page or any of its child pages. If you spot a spelling or grammar error, please leave a comment about it on the discussion page.\n翻訳者注: 子ページのソースを見たい時は末尾に/norender/trueあるいは/noredirect/true\n--]\n\n[[>]]\n[[module Rate]]\n[[/>]]\n\n[[module ListPages category=\"fragment\" parent=\".\" limit=\"1\" order=\"created_at\" offset=\"@URL|0\"]]\n%%content%%\n[[/module]]",
+  "tags": [
+    "d-con2016",
+    "en",
+    "tale",
+    "インタラクティブ"
+  ],
+  "author": "fumeinadebaisu",
+  "created_at": "2017-05-25T01:41:44+00:00",
+  "updated_at": "2021-08-29T16:45:20+00:00",
+  "rating": 9,
+  "_site": "scp-jp",
+  "_fullname": "cat-in-a-box"
+}

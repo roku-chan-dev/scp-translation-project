@@ -1,0 +1,23 @@
+{
+  "title": "SCP-CN-2924",
+  "content": "[[include :scp-wiki-cn:theme:placestyle]]\n[[include :scp-wiki:component:fade-in speed=1]]\n\n[[module CSS]]\n:root { --header-title: \"SCP基金会\"; --header-subtitle: \"控制·收容·保护\"; --lgurl: url(http://topia.wikidot.com/local--files/in-heaven-a-spirit-doth-dwell/tactical-theology.png); --accentColor: #ff2244;}\ndiv#extra-div-1 { height: 160px; padding-top: 10px; filter: invert(1) opacity(0.2); }\nhr, .anchor { display: none; }\n[[/module]]\n\n[[include :scp-wiki-cn:credit:start]]\n\n[[span class=\"bt\"]]SCP-CN-2924：[[/span]]恶魔\n\n[[span class=\"bt\"]]作者：[[/span]][[*user 8Fish]] 以及[http://scp-wiki-cn.wikidot.com/8fish 作者页链接]\n\n[[span class=\"bt\"]]图源：[[/span]][https://pxhere.com/zh/photo/846829 https://pxhere.com/zh/photo/846829]\n\n[[include :scp-wiki-cn:credit:end]]\n\n[[span class=\"bt\"]]项目编号：[[/span]]SCP-CN-2924\n\n[[span class=\"bt\"]]项目等级：[[/span]]Keter\n\n[[span class=\"bt\"]]特殊收容措施：[[/span]]目前无法有效收容SCP-CN-2924，对于项目的收容工作仅限于针对其导致的人员异常死亡的事件进行掩盖或脱敏处理。同时，介于对SCP-CN-2924-1进行隔离观察的实验并未获得任何实际成果，其已被无限期终止，所有受试者将被陆续遣送回帷幕外恢复正常生活。Area-CN-22恶魔学部已被授令尽快研究出对于项目的有效遏制方法。\n\n[[include :scp-wiki-cn:component:image-block name=https://scpsandboxcn.wikidot.com/local--files/attachment/SCP-CN-2924|caption=一例典型的SCP-CN-2924发生地，摄于1979年。现场残留形态辐射的区域已用矩形红框标出。]]\n\n[[span class=\"bt\"]]描述：[[/span]]SCP-CN-2924指代一特定异常事件。其将可能发生并作用于一名满足以下条件的人类个体（编号为SCP-CN-2924-1）：\n\n* 其所在地区的时间为22点至次日4点之间。\n* 其同另一人类个体（编号为SCP-CN-2924-2）位于建筑物高层[[footnote]] 目前记录中无发生于14楼以下楼层的案例。 [[/footnote]]的阳台附近，且阳台与楼体之间有可以正常使用的玻璃门。\n* 其与SCP-CN-2924-2个体关系较好，但因某些原因发生口角或争执。\n* SCP-CN-2924-2个体因恼怒离开楼体，来到阳台解闷，且SCP-CN-2924-1仍位于楼体内。\n* 玻璃门被关上。\n\n满足上述条件后，若环境中EVE粒子浓度升高，此时SCP-CN-2924将被判定为已发生。SCP-CN-2924-1将会短暂地恍惚并产生幻觉。在其视角中，阳台结构将改变，成为一条长度远超视距的带栏杆的笔直露天走廊，除此之外的户外景象完全变黑。该走廊的装饰在不同个体的回忆中略有出入，但均被描述为明显的古典欧洲风格，且栏杆上每间隔一定距离即插有一燃有蓝色火焰的火把。SCP-CN-2924-1通常因感到压抑和恐惧而暂时忽视阳台与户外景象的变化。\n\n幻觉中，个体将看到走廊远处出现一朝楼体方向高速靠近的人影，并目击SCP-CN-2924-2被该人影持利器刺死。上述过程中，SCP-CN-2924-1将尝试打开玻璃门并通过拍击、大声叫喊以提醒SCP-CN-2924-2个体回到楼体内[[footnote]] 此为个体在幻觉中的动作，下同。 [[/footnote]]。但玻璃门无法打开，且后者对SCP-CN-2924-1的拍击、叫喊无反应。\n\n当幻觉中的SCP-CN-2924-2死亡，SCP-CN-2924-1将脱离幻觉。而在发现对方实际上并未死亡后，SCP-CN-2924-1对其的不满将消除，未知该转变是否为异常效应。在90%的案例中，其拉开移门后，将哭泣着拥抱SCP-CN-2924-2个体，并哭喊出如“还活着就好”“你原来没死啊”“我错了你别死啊”等语句。事后SCP-CN-2924-1将无法回忆起有关其幻觉的任何内容，并对当时自身的情感转变感到轻微的困惑。若无他人提醒，个体通常会迅速忘却这段经历。C级记忆强化药剂可在短期内有效抵消项目带来的记忆影响。\n\n据统计，所有记录在案的SCP-CN-2924-1个体均在33岁生日当天因种种原因死亡，死亡方式包括车祸、空难、突发性心血管疾病、意外挫伤等。其死亡方式均呈现出巧合性，无任何明显的人为特征，且无任何统计学上的规律性。对于事件发生时已满33岁的个体，其将在其所在时区的当周周日死亡，死亡特点与上述相同。\n\nSCP-CN-2924的发生主要集中在人口密集区域。项目于第七次全球超自然战争期间频繁发生于欧洲，后因未知原因停歇，除发生特征和疑似与地狱实体有关外，本部方面对于项目本质也无任何有效信息可考。自1982年中国新疆维吾尔族自治区一基金会站点内第一起被记录的案例以来，亚洲也开始出现SCP-CN-2924，且频率呈逐年上升趋势，平均每18.4天一次。该数据预计将在本世纪中期增长至平均[已编辑]天一次。\n\n[[div class=\"footer-wikiwalk-nav\"]]\n= << [[[SCP-CN-2923]]] | SCP-CN-2924 | [[[SCP-CN-2925]]] >>\n[[/div]]",
+  "tags": [
+    "area-cn-22",
+    "keter",
+    "scp",
+    "人形生物",
+    "原创",
+    "宗教",
+    "幻觉",
+    "掠食性",
+    "移情作用",
+    "记忆影响",
+    "超维度"
+  ],
+  "author": "8Fish",
+  "created_at": "2023-06-17T10:23:03+00:00",
+  "updated_at": "2025-03-22T07:50:14+00:00",
+  "rating": 22,
+  "_site": "scp-wiki-cn",
+  "_fullname": "scp-cn-2924"
+}

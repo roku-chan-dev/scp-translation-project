@@ -1,0 +1,14 @@
+{
+  "title": "Woofle's SCP Page",
+  "content": "[[include :scp-wiki:theme:black-highlighter-theme]]\n[[include :scp-wiki:theme:extra-black-highlighter-theme]]\n[[include :scp-wiki:component:toggle-sidebar-bhl]]\n[[include :scp-wiki:component:centered-header-bhl]]\n\n[[module CSS]]\n:root {\n    --UI-font: \"Inter\", PTRootUI, -apple-system, system-ui, BlinkMacSystemFont, \"Segoe UI\", Roboto, Oxygen-Sans, Ubuntu, Cantrell, \"Helvetica Neue\", sans-serif, \"Apple Color Emoji\", \"Segoe UI Emoji\", \"Segoe UI Symbol\";\n\n    --pale-accent: 75, 120, 235;\n    --bright-accent: 0, 73, 255;\n    --medium-accent: 36, 79, 189;\n    --dark-accent: 7, 36, 112;\n    --alt-accent: 145, 61, 242;\n\n    --link-color: var(--bright-accent);\n    --visited-link-color: var(--bright-accent);\n    --hover-link-color: var(--swatch-primary);\n\n     --header-title: \"Woofle's SCP Page\";\n    --header-subtitle: \"random anomalies will be contained\";\n}\n#page-title {\n    display: none;\n}\n[[/module]]\n\n[[=]]\n[[module Rate]]\n[[/=]]\n\n[[module ListPages category=\"fragment\" parent=\".\" order=\"created_at\" created_by=\"Woofle\" limit=\"1\" offset=\"@URL|0\"]]\n%%content%%\n[[/module]]\n\n[!-- https://scp-wiki.wikidot.com/fragment:woofle-0 NAV --]\n[!-- https://scp-wiki.wikidot.com/fragment:woofle-1 ART--]\n\n[!-- https://scp-sandbox-3.wikidot.com/collab:woofle SANDBOX --]\n\n[[=]]\n//[[size smaller]]by [[*user Woofle]][[/size]]//\n[[/=]]",
+  "tags": [
+    "artist",
+    "logo"
+  ],
+  "author": "Woofle",
+  "created_at": "2023-08-14T01:31:18+00:00",
+  "updated_at": "2024-03-28T09:59:15+00:00",
+  "rating": 10,
+  "_site": "scp-wiki",
+  "_fullname": "art:woofle"
+}

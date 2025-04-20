@@ -1,0 +1,31 @@
+{
+  "title": "SCP-4450",
+  "content": "[[>]]\n[[module Rate]]\n[[/>]]\n[[module ListPages category=\"fragment\" parent=\".\" order=\"name\" limit=\"1\" offset=\"@URL|0\"]]\n%%content%%\n[[/module]]\n\n[!-- For maintenance,\nhttp://www.scp-wiki.net/fragment:scp-4450-0 <-- SCP Format\nhttp://www.scp-wiki.net/fragment:scp-4450-1 <-- RAISA Terminal\nhttp://www.scp-wiki.net/fragment:scp-4450-2 <-- GOC Format\nhttp://www.scp-wiki.net/fragment:scp-4450-3 <-- MC&D Format\nhttp://www.scp-wiki.net/fragment:scp-4450-4 <-- CS Format\nhttp://www.scp-wiki.net/fragment:scp-4450-5 <-- SH Format\nhttp://www.scp-wiki.net/fragment:scp-4450-6 <-- Termination Log\n--]\n\n[[footnoteblock]]\n\n\n[[div class=\"footer-wikiwalk-nav\"]]\n[[=]]\n<< [[[SCP-4449]]] | SCP-4450 | [[[SCP-4451]]] >>\n[[/=]]\n[[/div]]\n\n[[include :scp-wiki:component:license-box\n|author=Ayers & Gabriel Jade]]\n=====\n> **Filename:** scp-4450.jpg\n> **Name:** StateLibQld 2 139509 Two men posing for a portrait, 1880-1890.jpg\n> **Author:** Unknown\n> **License:** Public Domain\n> **Source Link:** [https://commons.wikimedia.org/wiki/File:StateLibQld_2_139509_Two_men_posing_for_a_portrait,_1880-1890.jpg Wikimedia Commons]\n\n> **Filename:** casino.jpg\n> **Name:** Casino Ballroom, MON 1909.jpg\n> **Author:** Henrique Augusto Vieira de Castro\n> **License:** Public Domain\n> **Source Link:** [https://commons.wikimedia.org/wiki/File:Casino_Ballroom,_MON_1909.jpg Wikimedia Commons]\n\n> **Filename:** corridorFINAL.jpg\n> **Author:** [[*user Ayers]], [https://pixabay.com/users/kotzin-5563879/ Kotzin]\n> **License:** CC BY-SA 3.0\n> **Source Link:** [https://scp-wiki.wikidot.com/fragment:scp-4450-5 SCP Wiki]\n> **Derivative of:**\n> ----\n> **Name:** hotel-2379087_1280.jpg\n> **Author:** [https://pixabay.com/users/kotzin-5563879/ Kotzin]\n> **License:** Pixabay License\n> **Source Link:** [https://pixabay.com/photos/hotel-corridor-conference-2379087/ Pixabay]\n=====\n[[include :scp-wiki:component:license-box-end]]",
+  "tags": [
+    "_cc",
+    "_licensebox",
+    "_listpages",
+    "able",
+    "chicago-spirit",
+    "cliche2019",
+    "co-authored",
+    "currency",
+    "exchange",
+    "extradimensional",
+    "global-occult-coalition",
+    "humanoid",
+    "keter",
+    "location",
+    "marshall-carter-and-dark",
+    "sapient",
+    "scp",
+    "serpents-hand",
+    "teleportation"
+  ],
+  "author": "Ayers",
+  "created_at": "2019-01-05T19:57:07+00:00",
+  "updated_at": "2022-04-12T12:47:00+00:00",
+  "rating": 175,
+  "_site": "scp-wiki",
+  "_fullname": "scp-4450"
+}

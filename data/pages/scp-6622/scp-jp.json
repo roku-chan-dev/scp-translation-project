@@ -1,0 +1,25 @@
+{
+  "title": "SCP-6622",
+  "content": "[[include :scp-jp:theme:blankstyle]]\n\n[[include :scp-jp:credit:start]]\n**タイトル:** SCP-6622 - ビーバー・パワー\n**翻訳責任者:** [[*user Witherite]]\n**翻訳年:** 2023\n**原題/リンク:** [https://scp-wiki.wikidot.com/scp-6622 SCP-6622 - Beaver Power]\n**著作権者:** [[*user bigslothonmyface]]\n**作成年:** 2021\n**初訳時参照リビジョン:** rev.29\n[[include :scp-jp:credit:end]]\n@@@@\n[[include :scp-wiki:component:author-label-source start=--\n|name=bigslothonmyface\n|no-right-margin=*]]\nWritten by [[*user bigslothonmyface]]\nYou can find more of their work on their [[[https://scp-wiki.wikidot.com/bigslothonmyface-author-page |author page.]]]\n[[include :scp-wiki:component:author-label-source end=--]]\n\n[[include :scp-jp:component:anomaly-class-bar-source\n|item-number= SCP-6622\n|clearance= 4\n|container-class= esoteric\n|secondary-class= archon\n|secondary-icon= http://scp-jp.wdfiles.com/local--files/component%3Aanomaly-class-bar/archon-icon.svg\n|disruption-class=dark\n|risk-class=notice\n]]\n\n----\n\n[[div class=\"scp-image-block block-center\" style=\"width:100%;\"]]\n[[image http://scp-jp-storage.wdfiles.com/local--files/file%3A6370408-249-vjml/6622-lodge.jpeg style=\"width:100%;\" link=http://scp-jp-storage.wdfiles.com/local--files/file%3A6370408-249-vjml/6622-lodge.jpeg]]\n[[div class=\"scp-image-caption\" style=\"width:100%;\"]]\nSCP-6622-B-4、現在ブリティッシュコロンビア州バンクーバー大都市圏の電力の96％を供給している。\n[[/div]]\n[[/div]]\n\n----\n\n**特別収容プロトコル:** MTFオメガ-43（\"ビーバーちゃんズ\"）は、SCP-6622の衆人認知の制限の任務と近隣のシステムが接地できるようになるまでの6622-B実例の接地の任務の両方を負っています。それ以外には、収容は高リスク地域における6622-A実例の定期的な給餌、世話に制限されます。\n\n可能であれば、新たに就役した財団施設はSCP-6622インフラによってすでに供給されている地域に建造されます。\n\n**説明:** SCP-6622-Aは、SCP-6622-Bを建造、保守するアメリカビーバー（//Castor canadensis//）のサブグループです。6622-A実例のみが6622-Bと相互作用し、非異常のビーバーは接近しません。\n\nSCP-6622-Bは、不明かつ異常効率の方法により電力を生み出すビーバーのダムおよび巣です。それぞれの実例は継続的に6,800MW[[footnote]] ロサンゼルスの都市の最大電力需要と同程度です。 [[/footnote]]を出力します。現在、財団は別々の6622-B実例を12個認知しています。\n\nSCP-6622-Bが生産した電力は、フェアリーリング、木の根、他自然発生した通路を介して、人工の電気的インフラが肥沃土と接触している地点から入力されることでその電気的インフラに分配されます。この送電の背後にある機序の発見はベータレベル研究優先度です。\n\nSCP-6622-A実例はしばしば僻地や都合の悪い場所にダムを形成します。MTFオメガ-43は6622-B実例を96都市の電力系統に部分的に組み込んでいますが、電力系統の過負荷を避けるため、また財団が高需要地域へ送電することができないために、毎月数ギガワットの電力が無駄になっています。SCP-6622のためのよりよい調整インフラの開発はアルファレベル研究優先度です。\n\nSCP-6622-Aの飼育下繁殖プログラムの試みは失敗しており、野生のコロニーの移転も同様です──実例は非異常のダムを構築します。制御下の環境におけるアノマリーの再現はオメガレベル研究優先度です。\n\n[[include component:image-block name=http://scp-jp-storage.wdfiles.com/local--files/file%3A6370408-250-ajvo/6622-beaver.jpeg|width=300px|caption=SCP-6622-A-41、定期的な給餌の直後。]]\n\n**発見:** 2020/10/11、サイト-43は壊滅的な電力の過負荷を受けました。第一発見のSCP-6622の巣が、のちに5.8km離れたオーセーブル川で発見されました。\n\n9か月かけて、清掃・保守セクション長アメリア・トロシヤンはサイトが電力をSCP-6622のみに頼るよう転換させることができました。トロシヤンの初期構想は世界的なSCP-6622送電システムの基礎となり、その実施以来推定450メガトンのCO2排出が防止されています。\n\n**後文:** 2021/3/8にサイト-43中央パワーステーションに入った際、トロシヤン セクション長は自身の作業台で大まかにハートの形に成形された乾燥した泥と小枝の山を発見しました。トロシヤンは自身の個人宿舎でその彫刻を保存することを要求し、承認されました。\n\n@@ @@\n\n@@ @@",
+  "tags": [
+    "archon",
+    "en",
+    "on-guard-43",
+    "scp",
+    "動物",
+    "外部エントロピー",
+    "植物",
+    "構造",
+    "樹木",
+    "注目記事",
+    "生命",
+    "電気",
+    "齧歯類"
+  ],
+  "author": "Witherite",
+  "created_at": "2023-01-18T07:34:40+00:00",
+  "updated_at": "2024-04-21T04:13:03+00:00",
+  "rating": 14,
+  "_site": "scp-jp",
+  "_fullname": "scp-6622"
+}

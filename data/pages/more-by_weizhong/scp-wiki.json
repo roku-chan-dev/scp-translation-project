@@ -1,0 +1,13 @@
+{
+  "title": "More By Weizhong",
+  "content": "[[collapsible show=\"+ More articles by weizhong\" hide=\"- Hide list\"]]\n\n[[module ListPages created_by=\"weizhong\" separate=\"no\" order=\"rating desc\" tags=\"+scp -co-authored\" perPage=\"50\" prependLine=\"||||~ SCPs||\"]]\n|| %%title_linked%% || Rating: %%Rating%% ||\n[[/module]]\n\n[[/collapsible]]\n\n[[collapsible show=\"+ All Tales by weizhong\" hide=\"- Hide list\"]]\n[[module ListPages created_by=\"weizhong\" separate=\"no\" order=\"rating desc\" tags=\"+tale -co-authored\" perPage=\"50\" prependLine=\"||||~ Tales||\"]]\n|| %%title_linked%% || Rating: %%Rating%% ||\n[[/module]]\n[[/collapsible]]\n\n[[collapsible show=\"+ GOI formats by weizhong\" hide=\"- Hide list\"]]\n\n[[module ListPages created_by=\"weizhong\" separate=\"no\" order=\"rating desc\" tags=\"+goi-format -co-authored\" perPage=\"50\" prependLine=\"||||~ SCPs||\"]]\n|| %%title_linked%% || Rating: %%Rating%% ||\n[[/module]]\n\n[[/collapsible]]\n\n\n[[collapsible show=\"+ All coauthored articles featuring weizhong\" hide=\"- Hide list\"]]\n||~ **Page**||~ **Authors**||\n||[[[Unusual Incidents Unit Hub]]] || [[user Drewbear]], [[user CryogenChaos]] ||\n||[[[WMDD-s-proposal |Project Palisade, 001 Proposal]]] || [[user thedeadlymoose]], [[user Drewbear]], and [[user Dexanote]] ||\n||[[[TKO]]] || [[user thedeadlymoose]] and [[user Drewbear]]||\n||[[[SCP-5050-EX]]] || [[user CityToast]] ||\n||[[[Competitive Teleology]]] || [[user Riemann]] ||\n||[[[SCP-5882]]] || [[user Riemann]] ||\n[[/collapsible]]",
+  "tags": [
+    "more-by"
+  ],
+  "author": "weizhong",
+  "created_at": "2021-09-07T06:34:54+00:00",
+  "updated_at": "2021-09-07T06:35:14+00:00",
+  "rating": 2,
+  "_site": "scp-wiki",
+  "_fullname": "more-by:weizhong"
+}

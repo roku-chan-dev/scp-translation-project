@@ -1,0 +1,15 @@
+{
+  "title": "주간 뜨거운 감자 허브",
+  "content": "[[include :scpko:theme:minimal-scp-foundation-by-cocoonist]]\n\n뜨거운 감자는 월요일부터 일요일까지의 SCP 재단 포럼의 대소사를 정리하는 재단내 언론 매체입니다. 2017년 2월 1주부터 2018년 2월 2주호까지 발간되었으며, 현재 여러가지 이유로 **발간이 중단된 상태**입니다.  [*http://ko.scp-wiki.net/forum/t-2161536 포럼]에도 업데이트됩니다.\n\n**연락처:** 현재 공식적인 담당자는 비평팀 스태프 [[*user ProfoundAbyss]]입니다. 2017년부터 2018년까지의 발간호는 [[*user Cocoonist]]와 [[*user pertwee]]가 공동으로 담당하였습니다.\n----\n[[module ListPages order=\"created_at desc\" name=\"hot-potato-*\" limit=\"1\"]]\n[[=]]\n++ %%title%% (최신호)\n[[/=]]\n%%content%%\n[[/module]]\n----\n++ 뜨거운 감자에 관한 의견을 말해주세요!\n댓글창이 나타나지 않는다면 아래의 `댓글 보기'를 눌러주세요.\n[[module Comments hide=\"false\" order=\"reverse\"]]\n----\n++ 지난 호 보기\n[[module ListPages order=\"name desc\" name=\"hot-potato-*\" perPage=\"12\"]]\n* [*%%link%% %%title%%]\n[[/module]]\n\n----\n\n**연락처:** 현재 공식적인 담당자는 비평팀 스태프 [[*user ProfoundAbyss]]입니다. 2017년부터 2018년까지의 발간호는 [[*user Cocoonist]]와 [[*user pertwee]]가 공동으로 담당하였습니다.",
+  "tags": [
+    "ko",
+    "뉴스",
+    "허브"
+  ],
+  "author": "Cocoonist",
+  "created_at": "2017-03-12T15:02:09+00:00",
+  "updated_at": "2020-12-22T18:25:48+00:00",
+  "rating": 0,
+  "_site": "scpko",
+  "_fullname": "hotpotato"
+}

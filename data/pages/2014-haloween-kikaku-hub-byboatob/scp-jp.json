@@ -1,0 +1,16 @@
+{
+  "title": "2014ハロウィン企画「記事-JP-HWを書こう」",
+  "content": "**【企画概要】**\nハロウィン/お菓子/オバケ/モンスター等、ハロウィンに関連した内容の記事を作成し、投稿する。タグ「2014tale-JP-HW」または「2014SCP-JP-HW」をつけることでこちらのハブページに纏められる。作成する記事ページは一時的に本来の記事ではなく「tales-JP-HW」または「SCP-JP-HW」扱いとして投稿し、企画終了後本投稿するか否かは個人で取り決める。\n\n> **スタッフ追記(2022/07/24):** 事後的なタグ整理を行い、「//2014scp-jp-hw//」「//2014tale-jp-hw//」「//2014tale-jp-hw参考作品//」はそれぞれタグリストから削除されました。本イベント参加作品は全て「//2014ハロウィン企画//」タグで管理されます。「//2014tale-jp-hw参考作品//」に該当していた作品には「//_イベント1//」タグが付与されています。\n\n[[div style=\"width: 70%;text-align: center;margin: 30px auto;border: double 6px #f00;\"]]\n**2014ハロウィン企画は2014/11/15(土)に終了しました。**\n[[/div]]\n\n\n[[div style=\"background-color: #fffff0; font-size: 140%; border: solid 1px #cc0000; border-radius: 10px; text-align: center; width: 400px; margin: 0 auto;\"]]\n**優勝作品-SCP部門**\n**[[[SCP-345-JP]]]**\nミスター・とりっくあんどとりーと\nby **[[*user Ikr_4185]]**\n[[/div]]\n\n\n[[div style=\"background-color: #fffff0; font-size: 140%; border: solid 1px #cc0000; border-radius: 10px; text-align: center; width: 400px; margin: 0 auto;\"]]\n**優勝作品-tale部門**\n**[[[beniya-tales4]]]**\nハロウィンの異常\nby **[[*user kainndo]]**\n[[/div]]\n\n+ エントリー作品一覧-SCP-JP-HW\n[[div style=\"margin: 10px auto;\"]]\n[[module ListPages separate=\"no\" category=\"*\" tags=\"+2014ハロウィン企画 +scp\" perPage=\"100\" order=\"rating desc\"]]\n# [[size 120%]]**%%title_linked%%**[[/size]] [[size 105%]]//by// **%%created_by%%** : **%%rating%%点** [[/size]]\n[[/module]]\n[[/div]]\n\n------\n+ エントリー作品一覧-tale-JP-HW\n[[div style=\"margin: 10px auto;\"]]\n[[module ListPages separate=\"no\" category=\"*\" tags=\"+2014ハロウィン企画 +tale -_イベント1\" perPage=\"100\" order=\"rating desc\"]]\n# [[size 120%]]**%%title_linked%%**[[/size]] [[size 105%]]//by// **%%created_by%%** : **%%rating%%点** [[/size]]\n[[/module]]\n[[/div]]\n\n------\n+ エントリー作品一覧-tale-JP-HW-参考作品\n[[div style=\"margin: 10px auto;\"]]\n[[module ListPages separate=\"no\" category=\"*\" tags=\"+2014ハロウィン企画 +_イベント1\" perPage=\"100\" order=\"rating desc\"]]\n# [[size 120%]]**%%title_linked%%**[[/size]] [[size 105%]]//by// **%%created_by%%** : **%%rating%%点** [[/size]]\n[[/module]]\n[[/div]]",
+  "tags": [
+    "2014ハロウィン企画",
+    "jp",
+    "コンテスト",
+    "ハブ"
+  ],
+  "author": "boatOB",
+  "created_at": "2014-10-21T08:29:11+00:00",
+  "updated_at": "2022-07-23T17:32:28+00:00",
+  "rating": 14,
+  "_site": "scp-jp",
+  "_fullname": "2014-haloween-kikaku-hub-byboatob"
+}

@@ -1,0 +1,16 @@
+{
+  "title": "掌編コンテスト",
+  "content": "[[>]]\n[[module Rate]]\n[[/>]]\n++ 掌編コンテスト\n\n+++ これは何ですか？\n紳士淑女、そして触手のモンスターの皆様、このコンテストは文学創作の練習の場です。素晴らしいアイデアを手に入れ、存分に書き、楽しみましょう。\n\n+++ 課題\n1つのテーマ[[footnote]]訳注: コンテスト当時、テーマが4つ提示されていました。テーマはそれぞれ「Post-SCPocalypse / ポスト・ [[span class=\"ruby\"]]SCP[[span class=\"rt\"]]アポ[[/span]][[/span]]カリプス」「La journée d'un SCP / SCPの一日」「La Fondation et les guerres / 財団と戦争」「Que s'est-il passé ? / 何が起きた？」でした。[[/footnote]]を盛り込み、SCPを基にした掌編を書いてください。ストーリーは、シリアスなもの、笑えるもの、悲しいもの、とにかく何でも大丈夫です。2段落で終わっても良いですし、5ページにわたって書くこともできます。あなたの好きなように、自由に書いてください。\n\n+++ やらなきゃいけないことって何？\n物語を書くことだけです。複数エントリーすることは許可されていますが、エントリーできるのは1人につき最大3作までです。性的な内容のため「NSFW」[[footnote]]訳注: 「Not safe for work」の略。「職場では見ない方がいい」「職場での閲覧は危険」を意味するネットスラング。[[/footnote]]にあたるストーリーの物語を投稿する場合は報告をしてください。複数人で掌編を書くことも許可されます。\n\n[[div style=\"border:solid 1px #999999; background:#f2f2c2; padding:5px; margin-bottom: 10px;\"]]\n\n[[=]]\n+ エントリー :\n[[/=]]\n* --エピローグ - 財団の悲劇的な結末。--[[footnote]]訳注: テーマ「Post-SCPocalypse」[[/footnote]]\n\n* [[[une-famille-absente|]]] - アイポッドのプライバシー。[[footnote]]訳注: テーマ「La journée d'un SCP」[[/footnote]]\n\n* [[[immotus-illusio-est|]]] - SCP-187がSCP-173と観察することができたもの。[[footnote]]訳注: テーマ「Que s'est-il passé ?」[[/footnote]]\n\n[[/div]]",
+  "tags": [
+    "fr",
+    "コンテスト",
+    "ハブ",
+    "合作"
+  ],
+  "author": "izumi_sngw",
+  "created_at": "2020-03-20T17:09:36+00:00",
+  "updated_at": "2021-01-10T18:12:02+00:00",
+  "rating": 7,
+  "_site": "scp-jp",
+  "_fullname": "le-concours-des-histoires-courtes"
+}

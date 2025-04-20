@@ -1,0 +1,17 @@
+{
+  "title": "SCP-1604",
+  "content": "[[>]]\n[[module Rate]]\n[[/>]]\n\n**Item #:** SCP-1604\n\n**Object Class:** Euclid\n\n**Special Containment Procedures:** Due to the size of SCP-1604, containment is performed on-location. A small site has been established five kilometres east of the object under the guise of a research base in order to observe the object and, if necessary, ward off intruders. Coordination with various aerospace agencies keeps the airspace around SCP-1604 clear in order to avoid collisions, and the Foundation maintains a direct presence in local air-traffic control in order to warn stray aircraft out of the path of SCP-1604.\n\n**Description:** SCP-1604 is a length of chain, anchored in ███████████, Greenland, extending an unknown distance both into the ground and into the atmosphere. SCP-1604 points directly towards the Earth's core and is in a state of tension under most circumstances. The chain links are roughly sixty centimetres in diameter at their widest point and appear to be composed of heavily oxidized iron. However, the chain regularly undergoes stress far beyond the tolerances of iron and has resisted any attempt to collect a sample of material.\n\nThe chain is anchored in a block of unknown, highly dense materials which appear to encase SCP-1604 entirely below ground level. At the time of discovery, this anchor was two meters below ground level, and was excavated during examination. A device resembling a primitive warded lock is affixed to a ring capping this anchor. The lock had been encased in a pre-modern mixture of concrete, into which several unidentified symbols had been etched. This concrete was removed for investigation.\n\nPeriodically, SCP-1604 will slacken for a short period, during which a portion of the chain's length will fall back towards the ground. Usually, several kilometres of chain will accumulate before the tension on the chain is restored, which will quickly pull the chain tight again. These incidences occur roughly once every ninety minutes on average, though long periods without activity or short bursts of rapid activity have both been recorded.\n\nDue to the danger posed during these periods, observation regarding the scale of the object has been limited. Ground-penetrating radar indicates the continuing presence of SCP-1604 to the limit of its range, and it is known that the object extends at least beyond the orbit of the Earth's moon. Attempts to use laser or radar imaging beyond this range have resulted in a sudden increase in tension on the line sufficient to cause adverse geological activity.\n\n[[footnoteblock]]\n\n[[div class=\"footer-wikiwalk-nav\"]]\n[[=]]\n<< [[[SCP-1603]]] | SCP-1604 | [[[SCP-1605]]] >>\n[[/=]]\n[[/div]]\n\n[[include :scp-wiki:component:license-box]]\n[[include :scp-wiki:component:license-box-end]]",
+  "tags": [
+    "_licensebox",
+    "euclid",
+    "geological",
+    "indestructible",
+    "scp"
+  ],
+  "author": "Dr Sketch",
+  "created_at": "2012-11-16T23:57:25+00:00",
+  "updated_at": "2022-10-01T10:12:07+00:00",
+  "rating": 131,
+  "_site": "scp-wiki",
+  "_fullname": "scp-1604"
+}

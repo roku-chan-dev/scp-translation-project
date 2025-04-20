@@ -1,0 +1,18 @@
+{
+  "title": "告别",
+  "content": "[[module ListPages category=\"fragment\" parent=\".\" order=\"random\" limit=\"1\" ]]\n\n[[div style=\"border:solid 1px #999999;width:95%;background:#DAFAD9;padding:5px;float:center;margin-bottom:4px\"]]\n[[=]]\n你正在阅读的是这个故事的**%%title%%**视角。如需查阅其他视角，请在六十秒后刷新此页面。\n[[/=]]\n[[/div]]\n\n%%content%%\n\n[[/module]]",
+  "tags": [
+    "aktus主管",
+    "合著",
+    "扭曲之松",
+    "故事",
+    "特工navarro",
+    "研究员conwell"
+  ],
+  "author": "ColorlessL",
+  "created_at": "2019-08-09T13:55:44+00:00",
+  "updated_at": "2019-08-09T14:14:18+00:00",
+  "rating": 2,
+  "_site": "scp-wiki-cn",
+  "_fullname": "three-farewells"
+}

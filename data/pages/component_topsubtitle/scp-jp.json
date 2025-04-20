@@ -1,0 +1,14 @@
+{
+  "title": "Topsubtitle",
+  "content": "[[module css]]\n#html-body #header h1 a {\n  position: relative;\n}\n\n#html-body #header h1 a:before {\n  color:{$COLOR};\n  content: \"{$TITLE}\";\n  display: block;\n  font-family: BauhausLTDemi, \"Nanum Gothic\", Arial, sans-serif;\n  font-size: 50%;\n  position: absolute;\n  bottom: 2em;\n  left: 0px;\n  padding: 80px 0 25px;\n  line-height: 0px;\n  background: transparent;\n  text-shadow: 3px 3px 5px #000000;\n  letter-spacing: 0.9px;\n  white-space: nowrap;\n  z-index: 1;\n}\n[[/module]]",
+  "tags": [
+    "jp",
+    "コンポーネント"
+  ],
+  "author": "R74",
+  "created_at": "2022-07-22T08:22:24+00:00",
+  "updated_at": "2022-07-22T08:22:36+00:00",
+  "rating": 2,
+  "_site": "scp-jp",
+  "_fullname": "component:topsubtitle"
+}

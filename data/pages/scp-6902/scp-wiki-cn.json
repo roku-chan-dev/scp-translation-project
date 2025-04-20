@@ -1,0 +1,18 @@
+{
+  "title": "SCP-6902",
+  "content": "[[include :scp-wiki-cn:component:anomaly-class-bar-source\n|lang=cn\n|item-number= 6902\n|clearance= 2\n|container-class= euclid\n|secondary-class= none\n|disruption-class= dark\n|risk-class= 待观察\n]]\n\n-----\n**特殊收容措施：**SCP-6902配备有一跟踪装置。在任何时候都至少应有一名基金会工作人员在纽瓦克自由国际机场的行李认领处等候。若工作人员在行李认领处看到SCP-6902，应将其认领并带至僻静的地方直到项目消失。如有身份未知的人认领SCP-6902，则应尽快确认对方身份。\n\n**描述：**SCP-6902为一红色拉杆箱，没有任何商标和特征。约每六个小时，SCP-6902将从当前所处位置消失，并重新出现在纽瓦克自由国际机场的行李转盘内。\n\n在被发现时，SCP-6902曾有一个行李标签，标明项目属于2004年1月12号从PHX[[footnote]] 凤凰城天港国际机场的国际航空运输协会机场代码 [[/footnote]]到EWR[[footnote]] 国际航空运输协会纽瓦克自由国际机场代码 [[/footnote]]的1814号航班。值得注意的是这趟航班由于机械故障而坠毁，机上所有乘客均已遇难。此行李标签已被移除。\n\n若SCP-6902消失，其中包含的所有物品都将成为SCP-6902-1实体。每当SCP-6902出现在任何地方，所有的SCP-6902-1实体都将一同出现在项目内。\n\n以下列表包含所有SCP-6902-1实体：\n* 五件长袖正装衬衫；\n* 一双皮鞋；\n* 三条领带；\n* 七件内裤；\n* 四双裤袜；\n* 一副太阳镜；\n* 一条黑色皮带；\n* 一个一次性相机；\n* 一个洗漱用品套件；\n* 一个空的皮革文件夹；\n* 一个装有填充玩具熊的礼品袋。\n\nSCP-6902的内部写有以下字样：“给Jason。你不会弄丢这个的。”\n\n[[footnoteblock]]\n\n[[div class=\"footer-wikiwalk-nav\"]]\n[[=]]\n<< [[[SCP-6901]]] | SCP-6902 | [[[SCP-6903]]] >>\n[[/=]]\n[[/div]]",
+  "tags": [
+    "euclid",
+    "scp",
+    "传送",
+    "容器",
+    "工具",
+    "衣物"
+  ],
+  "author": "zccv",
+  "created_at": "2021-08-23T06:28:48+00:00",
+  "updated_at": "2021-08-26T06:45:22+00:00",
+  "rating": 0,
+  "_site": "scp-wiki-cn",
+  "_fullname": "scp-6902"
+}

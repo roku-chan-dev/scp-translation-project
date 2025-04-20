@@ -1,0 +1,14 @@
+{
+  "title": "Robins Offset 1",
+  "content": "[[div class=\"terminal\"]]\n\n[[div class=\"scanline\"]]\n\n[[/div]]\n\n[[div class=\"text\"]]\n\n[[=]]\n\n[[size 120%]]__人事管理端末__[[/size]]\n\n@@ @@\n\n@@ @@\n\n@@------@@\n[[module ListUsers users=\".\"]]\nようこそ、%%title%%。あなたはロビンSCP博士の職員プロフィールにアクセスしています。どのように続行しますか?\n[[/module]]\n@@------@@\n[[/=]]\n\n@@ @@\n\n@@ @@\n\n@@ @@\n\n> [http://scp-jp.wikidot.com/robins-personaldaten/offset/1 人事ファイル]\n\n> [http://scp-jp.wikidot.com/robins-personaldaten/offset/2 公開記事と翻訳記事]\n\n> [http://scp-jp.wikidot.com/robins-personaldaten/offset/3 実績]\n\n@@ @@\n\n[[/div]]\n\n[[/div]]",
+  "tags": [
+    "de",
+    "フラグメント"
+  ],
+  "author": "Mas_kera_de",
+  "created_at": "2020-07-27T10:21:46+00:00",
+  "updated_at": "2021-01-10T18:32:43+00:00",
+  "rating": 1,
+  "_site": "scp-jp",
+  "_fullname": "fragment:robins-offset-1"
+}

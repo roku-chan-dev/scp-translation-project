@@ -1,0 +1,21 @@
+{
+  "title": "The Cogwork Cult",
+  "content": "=====\n[[include component:preview\ntext=\"Moriarty's corpse is to be hung from the rafters.\"]]\n=====\n\n[[include :scp-wiki:info:start]]\n**THE COGWORK CULT**\n**CONTENT WARNING:** Contains sexism, racism, and slight body horror.\n**Author:** [[*user cptsquid]]\n\n\nRecommended (but not required) reading:\n[https://scp-wiki.wikidot.com/rounderhouse-gold-proposal ROUNDERHOUSE's Gold Proposal] by [[*user Rounderhouse]]\n\n[https://scpwiki.com/church-of-the-broken-god-hub Church of the Broken God Hub] by [[*user HammerMaiden]] \n\n[https://scp-wiki.wikidot.com/scp-217 SCP-217] by [[*user Dr Gears]]\n\n[https://scpwiki.com/scp-8600 SCP-8600] by [[*user Miss Lapis]], [[*user PiNKpePpER]]\n[[include :scp-wiki:info:end]]\n[[include :scp-wiki:component:info-cw]]\n\n[[module ListPages  category=\"fragment\" parent=\".\" limit=\"1\" order=\"created_at\" offset=\"@URL|0\"]]\n%%content%%\n[[/module]]\n\n[!-- https://scp-wiki.wikidot.com/fragment:the-cogwork-cult-0 --]\n[!-- https://scp-wiki.wikidot.com/fragment:the-cogwork-cult-1 --]\n\n[[include :scp-wiki:component:license-box]]\n> **Filename:** hmfscp2.png\n> **Name:** hmfscp2\n> **Author:** [[*user olympic-error]]\n> **License:** CC BY-SA 3.0\n> **Source Link:** https://scp-wiki.wdfiles.com/local--files/anomaly-243-the-neamh-mairbh/HMFSCP2.png\n[[include :scp-wiki:component:license-box-end]]",
+  "tags": [
+    "_broken-god",
+    "_listpages",
+    "broken-god",
+    "cogwork-orthodoxy",
+    "goi-format",
+    "hmfscp",
+    "period-piece",
+    "publicdomaincon2025",
+    "religious-fiction"
+  ],
+  "author": "cptsquid",
+  "created_at": "2025-03-07T16:42:46+00:00",
+  "updated_at": "2025-03-16T22:28:05+00:00",
+  "rating": 22,
+  "_site": "scp-wiki",
+  "_fullname": "the-cogwork-cult"
+}

@@ -1,0 +1,14 @@
+{
+  "title": "fragment:SCP-1331-KO(1)",
+  "content": "[[include :scpko:theme:paperstack]]\n\n[[div class=\"logo\"]]\n[[image https://scp-wiki.wdfiles.com/local--files/theme%3Apaperstack/lgtrans.png]]\n[[/div]]\n\n[[div class=\"header-container\"]]\n[[div class=\"text-item\"]]\n[[size 90%]]##grey|**일련번호:**##[[/size]]\n\n[[size 190%]]**1331-KO**[[/size]]\n[[/div]]\n\n[[div class=\"text-item\"]]\n[[size 90%]]##grey|**격리 등급:**##[[/size]]\n\n[[size 190%]]**변칙**[[/size]]\n[[/div]]\n\n[[div style=\"border:solid 1px #999999; background:#f2f2c2; padding:5px; margin-bottom: 10px;\"]]\n[[=]]\n++++ 재단 기록정보보안행정처(RAISA) 공지\n\n당신은 지금 이 문서의 최신 버전을 보고 있습니다. [http://scpko.wikidot.com/scp-1331-ko/offset/0 이곳]을 클릭해 이전 리버전을 확인하세요.\n[[/=]]\n[[/div]]\n\n[[div class=\"grid-item\"]]\n[[include component:image-block name=%EB%B9%84%20%EC%98%A4%EB%8A%94%20%EB%82%A0%EC%97%90_001.png|caption=SCP-1331-KO의 표지. SCP-1331-KO-A와 SCP-1331-KO-B가 그려져있다.|width=300px|align=center]]\n[[/div]]\n[[/div]]\n\n**특수 격리 절차:** 현재의 SCP-1331-KO는 장막이 들춰지거나 재단의 위협이 되지 않는다. 따라서 SCP-1331-KO는 격리가 불필요하다. 과거의 SCP-1331-KO로 인해 오염되었던 문서와 현재의 문서는 앞으로의 변칙 개체들을 더 효율적으로 격리하는 법을 모색하기 위해 보존되었다.\n\n**설명:** SCP-1331-KO는 비룡소에서 출간된 그림책인 <비 오는 날에>이다. 책의 표지에는 주요 등장인물들인 하림이(이하 SCP-1331-KO-A), 코코(이하 SCP-1331-KO-B)가 그려져있다. SCP-1331-KO-A는 노란색 우비 차림을 한 등장인물로, 만 12세 정도로 추정되는 여성이다. SCP-1331-KO-B는 새끼 진돗개이다.\n\nSCP-1331-KO의 현재 변칙성은 책의 삽화가 쓰여진 내용에 맞게 움직이는 것만이 유일하다. 이따금씩 SCP-1331-KO-A가 책의 내용을 벗어나는 행동을 할 때가 있으나, 해당 서술층 내부에서만 이루어지므로 무시해도 된다.\n\n[[=]]\n[[module Rate]]\n[[/=]]\n\n[[footnoteblock]]",
+  "tags": [
+    "ko",
+    "조각문서"
+  ],
+  "author": "ttoy339",
+  "created_at": "2024-06-25T11:10:01+00:00",
+  "updated_at": "2024-12-25T10:39:31+00:00",
+  "rating": 0,
+  "_site": "scpko",
+  "_fullname": "fragment:scp-1331-ko-1"
+}

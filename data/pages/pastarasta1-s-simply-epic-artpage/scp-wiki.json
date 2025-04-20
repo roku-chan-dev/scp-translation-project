@@ -1,0 +1,18 @@
+{
+  "title": "pastarasta1's simply epic artpage archive",
+  "content": "[[>]]\n[[module Rate]]\n[[/>]]\n\n[[module ListPages  category=\"fragment\" parent=\".\" limit=\"1\" order=\"created_at\" offset=\"@URL|0\"]]\n%%content%%\n\n[/pastarasta1-s-simply-epic-artpage/offset/[[#expr (%%index%%-2)]] Previous] | [/pastarasta1-s-simply-epic-artpage/offset/[[#expr (%%index%%)]] Next]\n[[/module]]\n\n[!-- http://www.scp-wiki.net/fragment:pr1-0 --] [!-- GO TO THIS ONE TO EDIT THE HOME PAGE --]\n[!-- http://www.scp-wiki.net/fragment:pr1-1 --]\n[!-- http://www.scp-wiki.net/fragment:pr1-2 --]\n[!-- http://www.scp-wiki.net/fragment:pr1-3 --]\n[!-- http://www.scp-wiki.net/fragment:pr1-4 --]\n[!-- http://www.scp-wiki.net/fragment:pr1-5 --]\n[!-- http://www.scp-wiki.net/fragment:pr1-6 --]\n[!-- http://www.scp-wiki.net/fragment:pr1-7 --]\n[!-- http://www.scp-wiki.net/fragment:pr1-8 --]\n[!-- http://www.scp-wiki.net/fragment:pr1-9 --]\n[!-- http://www.scp-wiki.net/fragment:pr1-10 --]\n[!-- http://www.scp-wiki.net/fragment:pr1-11 --]\n[!-- http://www.scp-wiki.net/fragment:pr1-12 --]\n[!-- http://www.scp-wiki.net/fragment:pr1-13 --]\n[!-- http://www.scp-wiki.net/fragment:pr1-14 --]\n[!-- http://www.scp-wiki.net/fragment:pr1-15 --]\n[!-- http://www.scp-wiki.net/fragment:pr1-16 --]\n[!-- http://www.scp-wiki.net/fragment:pr1-17 --]\n[!-- http://www.scp-wiki.net/fragment:pr1-18 --]\n[!-- http://www.scp-wiki.net/fragment:pr1-19 --]\n[!-- http://www.scp-wiki.net/fragment:pr1-20 --]\n[!-- http://www.scp-wiki.net/fragment:pr1-21 --]\n[!-- http://www.scp-wiki.net/fragment:pr1-22 --]\n[!-- http://www.scp-wiki.net/fragment:pr1-23 --]\n[!-- http://www.scp-wiki.net/fragment:pr1-24 --] [!-- THIS ONE IS THE CURRENT PAGE, GO PUT UR ART OF THE WEEK HERE --]",
+  "tags": [
+    "_cc",
+    "_listpages",
+    "artist",
+    "cel-shaded",
+    "scp-art",
+    "sketched"
+  ],
+  "author": "ratking666",
+  "created_at": "2018-05-29T04:48:51+00:00",
+  "updated_at": "2024-03-28T19:59:46+00:00",
+  "rating": 111,
+  "_site": "scp-wiki",
+  "_fullname": "pastarasta1-s-simply-epic-artpage"
+}

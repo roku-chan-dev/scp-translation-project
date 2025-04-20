@@ -1,0 +1,31 @@
+{
+  "title": "Plague's Proposal",
+  "content": "=====\n[[include :scp-wiki:component:preview\ntext=PlaguePJP: XXXII\n]]\n=====\n\n[[div style=\"display: none;\"]]\n[[include component:image-block name=https://scp-wiki.wdfiles.com/local--files/plague-s-proposal/001thumbnail.png|caption=.]]\n[[/div]]\n\n[[module CSS]]\n\n.info-container{\n--barColour: #b0d8f7;\n}\n\n[[/module]]\n\n[[=]]\n[[module Rate]]\n[[/=]]\n\n[[div style=\"text-align: center; margin-top: -9px;\"]]\n[[size 80%]]##757575|by PlaguePJP##[[/size]]\n[[/div]]\n\n\n[[include component:info-ayers\n|lang=en\n|page=plague-s-proposal\n|authorPage=http://www.scp-wiki.net/plaguepjp\n|comments= \n\n= **SCP-001** — //The Ones That Got Away//\n-----\n= **THE PLAGUEPJP 001 PROPOSAL**\n]]\n\n[[module ListPages  category=\"fragment\" parent=\".\" limit=\"1\" order=\"created_at\" offset=\"@URL|0\"]]\n%%content%%\n[[/module]]\n\n[!--\nhttps://scp-wiki.wikidot.com/fragment:jawn-001-1\nhttps://scp-wiki.wikidot.com/fragment:jawn-001-2\nhttps://scp-wiki.wikidot.com/fragment:jawn-001-3\n\ngo birds --]\n\n\n[[div style=\"border: 1px solid #b0d8f7; margin: auto; width: 100%;\"]]\n[[/div]]\n[[div class=\"footer-wikiwalk-nav\"]]\n[[=]]\n| [[[plaguepjp | Plague's Proposal]]] |\n[[/=]]\n[[/div]]\n[[div style=\"border: 1px solid #b0d8f7; margin: auto; width: 100%;\"]]\n[[/div]]\n[[include component:wikimodule |ratings= --]]]\n[[div]]\n[[=]]\n[[include component:license-box]]\n=====\n> **Filename:** 322.png, poster322.png\n> **Author:** [[*user plaguepjp]]\n> **License:** CC BY-SA 3.0\n> **Derivative of:**\n> ----\n> **Name:** Rotterdam van nelle fabrieksterrein.jpg\n> **Author:** F.Eveleens\n> **License:** CC BY-SA 3.0\n> **Source Link:** [https://commons.wikipedia.org/wiki/file:rotterdam_van_nelle_fabrieksterrein.jpg Wikimedia Commons]\n\n> **Filename:** crob.png\n> **Name:** Lobster Bait Thief- Atlantic Rock Crab\n> **Author:** Matt Tillett\n> **License:** CC BY-SA 2.0\n> **Source Link:** [https://flickr.com/mattyfioner/213362429 Flickr]\n\n> **Filename:** drysdale.jpg\n> **Name:** Justin\n> **Author:** Dennis van Zuijlekom\n> **License:** CC BY-SA 2.0\n> **Source Link:** [https://flickr.com/dvanzuijlekom/32289725477 Flickr]\n\n> **Filename:** monke.png\n> **Author:** [[*user plaguepjp]]\n> **License:** CC BY-SA 3.0\n> **Derivative of:**\n> ----\n> **Name:** Gorille des plaines de l'ouest à l'Espace Zoologique.jpg\n> **Author:** Thurundir\n> **License:** CC BY-SA 4.0\n> **Source Link:** [https://commons.wikipedia.org/wiki/file:gorille_des_plaines_de_l'ouest_à_l'Espace_Zoologique.jpg Wikimedia Commons]\n> ----\n> **Name:** Olive Baboon (3075366181).jpg\n> **Author:** Vince Smith\n> **License:** CC BY-SA 2.0\n> **Source Link:** [https://commons.wikipedia.org/wiki/file:olive_Baboon_(3075366181).jpg Wikimedia Commons]\n> ----\n> **Name:** Pan troglodytes (male).jpg\n> **Author:** Hans Hillewaert\n> **License:** CC BY-SA 3.0\n> **Source Link:** [https://commons.wikipedia.org/wiki/file:pan_troglodytes_(male).jpg Wikimedia Commons]\n\n> **Filename:** piazza.jpg\n> **Name:** Firenze Palazzo della Signoria, better known as the Palazzo Vecchio.jpg\n> **Author:** JoJan\n> **License:** CC BY-SA 3.0\n> **Source Link:** [https://commons.wikipedia.org/wiki/file:firenze_Palazzo_della_Signoria,_better_known_as_the_Palazzo_Vecchio.jpg Wikimedia Commons]\n\n> **Filename:** squad-1.png\n> **Name:** Colossal octopus by Pierre Denys de Montfort.jpg\n> **Author:** Pierre Denys de Montfort\n> **License:** Public Domain\n> **Source Link:** [https://commons.wikipedia.org/wiki/file:colossal_octopus_by_Pierre_Denys_de_Montfort.jpg Wikimedia Commons]\n=====\n[[include :scp-wiki:component:license-box-end]]\n[[/div]]\n[[/=]]",
+  "tags": [
+    "001-proposal",
+    "_cc",
+    "_licensebox",
+    "_listpages",
+    "alex-thorley",
+    "director-lague",
+    "director-moose",
+    "doctor-asheworth",
+    "featured",
+    "foundation-made",
+    "geoffrey-quincy-harrison",
+    "integration-program",
+    "meta",
+    "mind-affecting",
+    "pending",
+    "predictive",
+    "probability",
+    "scp",
+    "uncontained"
+  ],
+  "author": "PlaguePJP",
+  "created_at": "2023-03-22T14:59:19+00:00",
+  "updated_at": "2024-07-21T06:54:02+00:00",
+  "rating": 373,
+  "_site": "scp-wiki",
+  "_fullname": "plague-s-proposal"
+}

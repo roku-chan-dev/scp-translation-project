@@ -1,0 +1,19 @@
+{
+  "title": "Spirit 19",
+  "content": "[[>]]\n[[module Rate]]\n[[/>]]\n\n[[include :scp-wiki:theme:black-highlighter-theme]]\n[[include :scp-wiki:theme:jakstyle]]\n\n[[div class=\"crom-thumbnail\" style=\"display: none;\"]]\n[[include component:image-block name=spiritof19-682-smaller.png]]\n[[/div]]\n\n@@ @@\n\n\n[[image https://scp-wiki.wdfiles.com/local--files/art%3Aspirit-19/spiritof19-682-smaller.png]]\n\n\n\n@@ @@\n@@ @@\n@@ @@\n@@ @@\n\n[https://scp-wiki.wikidot.com/fairydoctor-folio More from fairydoctor]\n\n@@ @@\n\n[[include :scp-wiki:component:license-box]]\n=====\n> **Filename:** spirit-19-smaller.png\n> **Author:** [[*user fairydoctor]]\n> **License:** CC BY-SA 3.0\n> **Source Link:** [[[https://scp-wiki.wdfiles.com/local--files/art%3Aspirit-19/spirit-19-smaller.png|Link]]]\n=====\n[[include :scp-wiki:component:license-box-end]]",
+  "tags": [
+    "_cc",
+    "_licensebox",
+    "artwork",
+    "cel-shaded",
+    "halloweencon2022",
+    "scp-art",
+    "sketched"
+  ],
+  "author": "fairydoctor",
+  "created_at": "2022-10-11T06:11:57+00:00",
+  "updated_at": "2024-03-28T08:10:51+00:00",
+  "rating": 35,
+  "_site": "scp-wiki",
+  "_fullname": "art:spirit-19"
+}

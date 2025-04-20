@@ -1,0 +1,13 @@
+{
+  "title": "도전과제 허브",
+  "content": "도전과제 전시대 사용법:\n>> @@[[include component:achievement-XX-module @@\n>> @@|a1=true@@\n>> @@|a2=true@@\n>> @@|a3=true@@\n>> @@ ... @@\n>> @@|num = n ]]@@\n> XX 에는 해당 도전과제의 국적/언어 코드를 입력합니다.\n> * a1, a2, a3, ... an 은 해당 배지에 할당된 번호입니다. 해당하는 배지들을 찾아서 그 번호와 함께 true 를 입력하세요.\n> * num 에는 전시될 배지의 총 개수를 입력하세요.\n> 전시된 도전과제 개수가 많은 전시대를 아래쪽에 배치해야 합니다.\n> 글래시즈 도전과제는 전시대 주소와 방식이 다르니, 문서에 들어가 적용코드를 확인하기 바랍니다.\n\n일부 도전과제는 SCP-KO 사용자가 사용할 수 있도록 적절히 현지화됩니다.\n\n[[[scp-achievement-badges|본사 도전과제 (from EN)]]]\n\n[[[hal-aki-achievement-badges|할 아키의 도전과제 (from JP)]]]\n\n[[[achievements|독일어권 도전과제 (from DE)]]]\n\n[[[thd-achievement-badges|글래시즈 도전과제 (KO)]]]",
+  "tags": [
+    "허브"
+  ],
+  "author": "Salamander724",
+  "created_at": "2020-05-03T14:33:19+00:00",
+  "updated_at": "2022-11-01T04:43:03+00:00",
+  "rating": 1,
+  "_site": "scpko",
+  "_fullname": "achievements-hub"
+}

@@ -1,0 +1,24 @@
+{
+  "title": "SCP-CN-231",
+  "content": "[[>]]\n[[module Rate]]\n[[/>]]\n\n[[module ListPages category=\"fragment\" parent=\".\" limit=\"1\" order=\"name\" offset=\"@URL|0\"]]\n\n%%content%%\n[[/module]]\n\n[[footnoteblock]]\n@@ @@\n[[div class=\"footer-wikiwalk-nav\"]]\n[[=]]\n<< [[[SCP-CN-230]]] | SCP-CN-231 | [[[SCP-CN-232]]] >>\n[[/=]]\n[[/div]]",
+  "tags": [
+    "dado",
+    "meta",
+    "scp",
+    "仪式性",
+    "原创",
+    "宗教",
+    "星际",
+    "机密分级",
+    "欲肉教",
+    "电磁",
+    "破碎之神教会",
+    "精神影响"
+  ],
+  "author": "zhugan",
+  "created_at": "2019-05-19T08:07:32+00:00",
+  "updated_at": "2021-08-10T18:51:58+00:00",
+  "rating": 34,
+  "_site": "scp-wiki-cn",
+  "_fullname": "scp-cn-231"
+}

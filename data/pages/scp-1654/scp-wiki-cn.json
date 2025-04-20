@@ -1,0 +1,15 @@
+{
+  "title": "SCP-1654",
+  "content": "[[=]]\n{{收到广播}}\n\n\n{{**协议紧急性：**即刻}}\n\n{{**威胁等级：**Aleph}}\n\n{{**协议对象：**SCP-1654}}\n\n[[/=]]\n**协议指示：**SCP-1654的特殊收容措施需以非加密波长广播至所有剩余站点。鼓励接收到本信息的平民以力所能及之方式协助基金会。未能遵守协议的基金会成员将面临即刻处决，此为最低限度。未能协助的平民将不会知晓回收工作。\n\n至少13座基金会前哨应沿每个剩余站点的外圈区域设立，距离该站点至少20千米。每座前哨应具备以下条件：\n* 至少3个单独的房间，包含有少量（至少4mg）站点主任的视神经。\n* 一堵外墙，连同三名3级人员的尸体，每日更换。\n* 地下一层的底部应包含至少3 kg原产自SCP-1654-1的土石。\n* 配备于前哨的人员必须未被回收。\n* 前哨某处必须藏有各监督者的71 ml血液，以防SCP-1654发觉。\n上述前哨将负责形成一防御SCP-1654的保护屏障。此外，任何进入的平民需首先由此类前哨处理，此后方可送至站点以供进一步行动。不允许配备于这些前哨的人员死亡。未能在3周内达成以上条件的站点应引爆所有的站内核弹头。\n\n所有拥有在世亲属的人员应向基金会回收办公室投降，以被立刻处决。未能遵守的人员应被尽快处死，并在回收前5分钟内将尸体投喂给个体。\n\n回收的个体需被送至Lunar Area 32以供即刻开采。一旦抵达Lunar Area 32，他们将被用于奇术仪式C3-37。\n\n该仪式之生成物将由位于轨道内的基金会[[span class=\"ruby\"]]六翼天使阵列[[span class=\"rt\"]]Seraphim Array[[/span]][[/span]]发射至任何主要的平民人口中心 (现为SCP-1654-1)，其废墟将被认定为六翼天使区。\n\n应重复该过程，直至所有已知的SCP-1654-1实例均被转化为六翼天使区。若当前的拥有在世亲属的人员供应耗尽，则需使用来自邻近区域的平民。若此方式亦被耗尽，将指示人员开始自行制造合适的候选人。\n\n一旦所有可能的候选人皆被耗尽，将指示剩余的基金会人员在任一六翼天使区内集合，并开始处决SCP-1654。\n\n此事件前会给予进一步指示。\n\n@@ @@\n@@ @@\n@@ @@\n@@ @@\n\n[[html]]\n<script language=\"JavaScript\">\nTargetDate = \"11/2/1952 12:00 AM\";\nBackColor = \"black\";\nForeColor = \"white\";\nCountActive = true;\nCountStepper = 1;\nLeadingZero = true;\nDisplayFormat = \"协议最近更新于%%D%%天%%H%%小时%%M%%分钟%%S%%秒前\";\nFinishMessage = \"This is irrelevant. There are no easter eggs here lmao.\";\n</script>\n<script language=\"JavaScript\" src=\"//scp-wiki-cn.wikidot.com/local--files/scp-1654/countdown.js\"></script>\n[[/html]]\n[[div class=\"footer-wikiwalk-nav\"]]\n[[=]]\n<< [[[SCP-1653]]] | SCP-1654 | [[[SCP-1655]]] >>\n[[/=]]\n[[/div]]",
+  "tags": [
+    "meta",
+    "scp",
+    "机密分级"
+  ],
+  "author": "W Asriel",
+  "created_at": "2018-07-09T20:57:54+00:00",
+  "updated_at": "2023-10-18T08:55:20+00:00",
+  "rating": 22,
+  "_site": "scp-wiki-cn",
+  "_fullname": "scp-1654"
+}

@@ -1,0 +1,18 @@
+{
+  "title": "SCP-CN-JPG-J",
+  "content": "[[module CSS]]\n\n.notice{\n    background: #b54d3b;\n    outline: 4px solid #b54d3b;\n    border: 1px solid #f7db26;\n    padding: .61em;\n    color: #f7db26;\n    font-weight: bold;\n    word-break: unset;\n}\n.h222{\n    margin: .5em 0 .4em;\n    letter-spacing: 1px;\n    font-size: 150%;\n    font-family: \"Trebuchet MS\", Trebuchet, Verdana, Arial, Helvetica;\n}\n\n[[/module]]\n\n[[>]]\n[[module Rate]]\n[[/>]]\n\n[[=]]\n[[div class=\"notice\"]]\n[[span class=\"h222\"]]NOTICE[[/span]]\n\nPlease focus on the content of this document and disregard any medium-related details.\n\n--Dr. Leopold\n\n[[/div]]\n[[/=]]\n[[image  http://scpsandboxcn.wdfiles.com/local--files/fragment%3Asolipsism-3/JPG]]\n\n[[div class=\"blockquote\"]]\nWell, if you ever impersonate Miscommunications for such petty pride again, you won't get your bonus next month. --Dr. Tiresias, Site-CN-██ Director\n[[/div]]",
+  "tags": [
+    "_cn",
+    "esoteric-class",
+    "international",
+    "joke",
+    "miscommunications",
+    "scp"
+  ],
+  "author": "la kanro",
+  "created_at": "2023-10-29T05:02:26+00:00",
+  "updated_at": "2023-10-29T05:03:23+00:00",
+  "rating": 19,
+  "_site": "scp-wiki",
+  "_fullname": "scp-cn-jpg-j"
+}

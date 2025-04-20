@@ -1,0 +1,13 @@
+{
+  "title": "SCP-CN-2502-3",
+  "content": "[[include :scp-wiki-cn:theme:black-highlighter-theme]]\n\n[[include :scp-wiki:component:bhl-dark-sidebar]]\n\n[[include :scp-wiki:component:collapsible-sidebar]]\n\n[[include :scp-wiki-cn:component:anomaly-class-bar-source\n\n|lang= cn\n\n|item-number= CN-2502\n\n|clearance= 4\n\n|container-class= safe\n\n|secondary-class= none\n\n|secondary-icon= http://url.com\n\n|disruption-class= dark\n\n|risk-class= 待观察\n\n]]\n\n[[include :scp-wiki:component:acs-animation]]\n\n**特殊收容措施：**在得到来自O5议会的进一步指示前，项目将继续储存在SCP基金会的数据库中，不允许任何人在得到O5议会的命令前改动项目的任何相关数据。项目的相关信息只允许持有标椎4级权限和得到特别授权的人员查看。所有项目相关信息的处于封锁的状态下即视为稳定收容，任何的信息泄露即视为一次收容失效，机动特遣队将被派出对涉事人员进行B级记忆删除。\n\n**描述：**SCP-CN-2502是指在██/██/████突然出现在SCP基金会数据库中的一组异常数据文件。\n\n  据观察，部分人员在阅读该文档主要部分后出现精神障碍疾病如表现出无端的被害妄想，阴谋论主义妄想和人生虚无主义言论，目前暂不清楚该数据文件是否具有某种异常的模因效应，在您完成对该文件的阅读后及时联系医疗部门以进行后续跟踪。\n\n你已经阅览完SCP-CN-2502的主要文件资料\n[http://scp-wiki-cn.wikidot.com/ 点击此处浏览余下所有被归属于SCP-CN-2502文档的附属文件的数据资料]\n[http://scp-wiki-cn.wikidot.com/scp-cn-2502-4 或点击此处退到终端的操纵主界面]",
+  "tags": [
+    "段落"
+  ],
+  "author": "tenno-215",
+  "created_at": "2021-12-31T15:06:28+00:00",
+  "updated_at": "2024-04-24T17:26:55+00:00",
+  "rating": 1,
+  "_site": "scp-wiki-cn",
+  "_fullname": "scp-cn-2502-3"
+}

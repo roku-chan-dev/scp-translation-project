@@ -1,0 +1,24 @@
+{
+  "title": "SCP-5523",
+  "content": "[[include theme:black-highlighter-theme]]\n\n[[module CSS]]\n:root {\n    --header-title: \"超常动物学 \";\n    --header-subtitle: \"部门\";\n        --logo-image: url(\"http://www.scp-wiki.net/local--files/scp-4347/1572269486726.png\");\n    --pale-accent: 40, 230, 60;\n    /* light red, for visited links */\n    --bright-accent: 0, 133, 5;\n    /* bright green */\n    --medium-accent: 46, 100, 44;\n    /* medium green - the \"default\" accent color */\n    --dark-accent: 3, 100, 15;\n    /* dark green */\n    --alt-accent: 102, 221, 17;\n    /* pale green, for newpage links */\n}\n[[/module]]\n\n[[include :scp-wiki-cn:component:acs-peppo-lite\n\n|lang=cn\n|item-number= 5523\n|clearance= 1\n|container-class= 机密\n|secondary-class= Terminal\n|secondary-icon= https://usercontent.irccloud-cdn.com/file/w200/YsukCPNI\n|disruption-class= dark\n|risk-class= 待观察\n]]\n\n[[include :scp-wiki-cn:component:acs-peppo-split\n|object= safe\n|object-image= http://scp-wiki.wdfiles.com/local--files/component%3Aanomaly-class-bar/safe-icon.svg\n|object-color= safe\n|esoteric-color= safe\n]]\n\n---------\n\n**收容升级：**在涉及Sid Rothenberg[[footnote]]在与SCP-5523接触后，Rothenberg现被称为SCP-5523-2。[[/footnote]]的事件发生后，隶属于基金会的政府颁布了一项无限期的禁令以禁止捕杀和消费鹿科（//cervidaes//）动物。Rothenberg已被基金会收押，接受特别监视。\n\n**特殊收容措施：**考虑到SCP-5523设施的生态区位，禁止从林区移出SCP-5523-1样本。收容有大量SCP-5523-1群体的地区已对公众封锁，于受SCP-5523影响地区周围建立了低安保级别围栏。\n\n\n[[include component:image-block\n    name= http://scp-wiki.wdfiles.com/local--files/scp-5523/800px-Starr-100901-8979-Wikstroemia_monticola-habitat_and_goat_skeleton-Kanaio_Natural_Area_Reserve-Maui_(24755353650).jpg |\n    caption= 与SCP-5523相关的遗骸。|\n    width=300px\n]]\n\n**描述：**SCP-5523为Terminal[[footnote]]最初是指某种能在人类死亡后将其吸收的实体或异常。在发现SCP-5523后，确认动物群体也可被编为Terminal异常。[[/footnote]]分级的环境改变，包括对鹿科动物的行为性改变以及生物性突变。[[footnote]]一种由鹿组成的生物性群体。[[/footnote]]据观察，SCP-5523事件发生于严重的环境破坏时期之后，比如森林火灾或是干旱时节。SCP-5523并不会影响特定区域内的所有独居鹿科动物样本。老年群体或特定的患病个体会比年轻以及健康的个体更容易患上SCP-5523。SCP-5523包括了对越桔（//Vaccinium vitis-idaea//）[[footnote]]又称为越橘、蔓虎刺或山蔓越莓。[[/footnote]]浆果的食用。鹿科动物通常不会食用越桔（//Vaccinium vitis-idaea//），因其浆果含有有毒物质。\n\n受SCP-5523影响的个体[[footnote]]被称为SCP-5523-1实例。[[/footnote]]食用了大量的越桔（//Vaccinium vitis-idaea//），其有毒物质将在个体的血液中积累。在大约四十二小时之后，SCP-5523-1实例将死亡，导致在无蛆虫或其它分解者生物的帮助的情况下的快速分解。其残骸将会长成越桔（//Vaccinium vitis-idaea//）树苗以及矛头状生长的北方植物，包括绿蔷薇、毒藤以及浮萍，都是鹿科动物喜欢的植物种类。经过持续研究，已确定全球超过百分之██的森林增长都是因为SCP-5523。\n\n**附录No. 1：**Rothenberg事件\n\n一名加拿大平民、户外运动爱好者以及生物学家Sid Rothenberg在食用从SCP-5523-1样本上采集的鹿肉后经历了一段时间的混乱与发狂。在发狂期间保存的一份户外日记已恢复。以下为一段摘录。\n\n> 我病了。我身体里有一种疾病，我感觉到了它在我里面。简明的解释就是蛆虫，没煮熟的肉。但我感觉还有别的什么东西，还有别的可以解释为什么我的大脑不断地向我重复一些话的东西。‘//绿蔷薇。//’‘//毒藤。//’‘//浮萍。//’为什么要向我重复这些词？此时所有的都是猜测。\n> [[size 0%]]……[[/size]]\n> \n> 我在火堆旁休息，等待救援。我看着周围的森林，听着麋鹿发情、乌鸦聒叫的声音。还有狼嚎叫的声音。有件事我很清楚。地球正在死去，只是我们还没注意到而已。\n>  [[size 0%]]……[[/size]]\n> \n> 我在月光下睡着了，我梦见了我的死亡、我的骨架、我的骨骼，长在树林里，就像树的根一样。我的死亡会给树林带来绿色，使大地像人类的祖先一样变成棕色。\n\n[[footnoteblock]]\n[[div class=\"footer-wikiwalk-nav\"]]\n[[=]]\n<< [[[SCP-5522]]] | SCP-5523 | [[[SCP-5524]]] >>\n[[/=]]\n[[/div]]",
+  "tags": [
+    "2020连写竞赛",
+    "_美味",
+    "safe",
+    "scp",
+    "动物",
+    "尸体",
+    "机密分级",
+    "树木",
+    "活物",
+    "生物性",
+    "骨骼",
+    "鹿类"
+  ],
+  "author": "hoah2333",
+  "created_at": "2020-09-21T06:17:20+00:00",
+  "updated_at": "2021-04-27T15:47:46+00:00",
+  "rating": 3,
+  "_site": "scp-wiki-cn",
+  "_fullname": "scp-5523"
+}

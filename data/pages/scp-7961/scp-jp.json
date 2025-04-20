@@ -1,0 +1,18 @@
+{
+  "title": "SCP-7961",
+  "content": "[[include :scp-jp:theme:blankstyle]]\n[[module css]]\nbody{\n    --barColour: #8c8c8c;\n}\n\n:root{\n  --header-title: \"SCP Foundation\";\n  --header-subtitle: \"Secure, Contain, Protect\";\n}\n\n#header h1 a:before {\n    font-size: 2.0rem;\n}\n\ndiv#extra-div-1 {\n    background-image: url(http://scp-sandbox-3.wdfiles.com/local--files/harry-blank-6/BlankstyleSCP-2.png);\n    filter: opacity(50%);\n}\n\n#page-content .info-container {\n    --link-color: rgb(var(--swatch-text-general));\n}\n\n#page-content .info-container .translation_block {\n    display: none;\n}\n\n#page-content .info-container .collapsible-block-link,\n#page-content .info-container:hover .collapsible-block-link {\n    line-height: 1.6em;\n}\n\n#page-content .info-container .collapsible-block-folded,\n#page-content .info-container .collapsible-block-unfolded-link {\n    display: grid;\n}\n\n#page-content .info-container .collapsible-block-folded .collapsible-block-link,\n#page-content .info-container .collapsible-block-link {\n    -webkit-mask: unset;\n            mask: unset;\n    background: transparent;\n    grid-column: 1;\n    grid-row: 1;\n    opacity: 0;\n}\n\n#page-content .info-container .collapsible-block-folded::before,\n#page-content .info-container .collapsible-block-unfolded-link::before {\n    --wght: 800;\n    content: \"J Dune\";\n    color: #FFFFFF;\n    font-family: Inter, Arimo, Verdana, Geneva, \"Helvetica Neue\", \"Helvetica\", Arial, sans-serif;;\n    display: block;\n    pointer-events: none;\n    grid-column: 1;\n    grid-row: 1;\n    line-height: 2.75ex;\n}\n[[/module]]\n[[>]]\n[[module Rate]]\n[[/>]]\n\n**アイテム番号:** SCP-7961\n\n**オブジェクトクラス:** Standard\n\n[[include component:image-block\nname=http://scp-jp-storage.wikidot.com/local--files/file:8299414-54-gnkz/Lasaretinsaari_Oulu_20131226.JPG|caption= 回収された記録写真、日付不明。|width=250px]]\n\n**特別収容プロトコル:** SCP-7961所在地には監視カメラが設置されます。録画された映像は自動的にゲシュタルト知能[[span class=\"ruby\"]]\"ARK\"[[span class=\"rt\"]]ハコブネ[[/span]][[/span]]にアップロードされています。\n\nSCP-7961の直接検査は検査ドローンを介し隔週で行われます。\n\n**説明:** SCP-7961はイングランド南東部の旧小道跡である場所に位置する特異な街灯柱です。\n\nSCP-7961は地方の交流主電源や中央電力供給装置が残っていないにも関わらず機能し続けています。SCP-7961は非異常性の街灯柱を基準として、周辺エリアが適切なレベルの暗闇に達した場合のみ発光します。電球は発見以来燃焼の兆候を見せていません。\n\nSCP-7961の周囲を取り囲む植物は、街灯の光の範囲内でのみ成長します。当植物とそれらが育つ土壌は地球の大気の腐食性を受けることなく、健康で活気に満ちた状態を保ちます。当植物は[[[Lily's Proposal|かつて惑星の生存可能な地表の90%]]]以上に存在していた草と数種類の煌びやかな色彩の花で構成されています。\n\n**補遺:** SCP-7961の影響範囲から回収された莢内部に含まれている種子の栽培は、現在の腐食性の大気によって妨げられています。毒性レベルが成長に適したレベルへ減少するまで、推定では丁度467万2946年後とされています。",
+  "tags": [
+    "en",
+    "esoteric-class",
+    "scp",
+    "人工",
+    "可視光",
+    "電気"
+  ],
+  "author": "buta_otoko",
+  "created_at": "2023-09-26T08:40:30+00:00",
+  "updated_at": "2023-10-23T10:19:15+00:00",
+  "rating": 18,
+  "_site": "scp-jp",
+  "_fullname": "scp-7961"
+}

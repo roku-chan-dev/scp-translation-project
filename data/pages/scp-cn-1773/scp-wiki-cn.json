@@ -1,0 +1,27 @@
+{
+  "title": "SCP-CN-1773",
+  "content": "[[>]]\n[[span id=\"ratingboxhid\"]]\n[[module Rate]]\n[[/span]]\n[[/>]]\n\n[[module ListPages  category=\"fragment\" parent=\".\" limit=\"1\" order=\"created_at\" offset=\"@URL|0\"]]\n%%content%%\n[[/module]]\n\n[[module CSS]]\n\n#page-title {\n    font-family: '华文新魏',STXingkai,Kaiti,SimSun,sans-serif,etinjat;\nfont-size: 180%;\n    text-align: center;\n}\n\n#u-ratingboxhid {   \n opacity:0.13;  transition: all 0.5s ease-out;\n}\n#u-ratingboxhid:hover {  \n opacity:1;\n}\n\n[[/module]]",
+  "tags": [
+    "euclid",
+    "k级情景",
+    "pamwac",
+    "scp",
+    "site-cn-82",
+    "人造物品",
+    "原创",
+    "叙述性",
+    "合著",
+    "未收容",
+    "概念",
+    "模因",
+    "液体",
+    "隔地促动",
+    "食物"
+  ],
+  "author": "JustAswellJar Pepper",
+  "created_at": "2020-09-04T08:38:32+00:00",
+  "updated_at": "2021-08-07T15:09:00+00:00",
+  "rating": 75,
+  "_site": "scp-wiki-cn",
+  "_fullname": "scp-cn-1773"
+}

@@ -1,0 +1,21 @@
+{
+  "title": "SCP-6146",
+  "content": "[[include :scp-wiki:theme:black-highlighter-theme]]\n[[include :scp-wiki:component:toggle-sidebar-bhl]]\n[[include :scp-wiki:theme:cyberpunk theme-number=1]]\n[[div style=\"display: none;\"]]\n[[include component:image-block name=http://scpdsandbox.wikidot.com/local--files/aftodept/hannibalbustsmol.jpg|caption=.]]\n[[/div]]\n[[=]]\n[[div]]\n[[include :scp-wiki:info:start]]\n[[=]]\n**SCP-6146: Sic Semper Cartago**\n\nTeam Xenophania's third entry in [https://scp-wiki.wikidot.com/department-contest DEPARTMENT-CON 2022].\n\nWritten by [[*user Aftokrator]]\n\n**[http://scp-wiki.wikidot.com/aftokrator More by this author]**\n\n[[/=]]\n[[include :scp-wiki:info:end]]\n[[/div]]\n[[/=]]\n\n[[module ListPages  category=\"fragment\" parent=\".\" limit=\"1\" order=\"created_at\" offset=\"@URL|0\"]]\n%%content%%\n[[/module]]\n\n[!-- https://scp-wiki.wikidot.com/fragment:scp-6146-1 --]\n[!-- https://scp-wiki.wikidot.com/fragment:scp-6146-2 --]\n[[footnoteblock]]\n\n[[div class=\"footer-wikiwalk-nav\"]]\n[[=]]\n<< [[[SCP-6145]]] | SCP-6146 | [[[SCP-6147]]] >>\n[[/=]]\n[[/div]]\n[[=]]\n[[include :scp-wiki:component:license-box]]\n=====\n[[<]]\n> **Filename:** hannibalbust.jpg\n> **Name:** Mommsen_p265.jpg\n> **Author:** Phaidon Verlag (Wien-Leipzig)\n> **License:** Public Domain\n> **Source:** https://commons.wikimedia.org/wiki/File:Mommsen_p265.jpg\n\n> **Filename:** palaceinterior.jpg\n> **Name:** Governors-Interior.jpg\n> **Author:** Anonymous (Photoglob Zurich photochrom)\n> **License:** Public Domain\n> **Source:** https://commons.wikimedia.org/wiki/File:Governors-Interior.jpg\n\n> **Filename:** phoenicianlingo.png\n> **Name:** Phoenician Language.png\n> **Author:** MalkiShamash\n> **License:** CC BY-SA 4.0\n> **Source:** https://commons.wikimedia.org/wiki/File:Phoenician_Language.png\n[[/<]]\n=====\n[[include :scp-wiki:component:license-box-end]]\n[[/=]]",
+  "tags": [
+    "_cc",
+    "_licensebox",
+    "departmentcon2022",
+    "esoteric-class",
+    "historical",
+    "military",
+    "narrative",
+    "scp",
+    "uncontained"
+  ],
+  "author": "Aftokrator",
+  "created_at": "2022-02-22T18:22:17+00:00",
+  "updated_at": "2022-08-07T11:05:22+00:00",
+  "rating": 42,
+  "_site": "scp-wiki",
+  "_fullname": "scp-6146"
+}

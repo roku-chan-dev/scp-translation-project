@@ -1,0 +1,24 @@
+{
+  "title": "SCP-7313",
+  "content": "[[include :scp-wiki:theme:black-highlighter-theme]]\n[[include :scp-wiki:theme:new-age teal=a|hidetitle=a]]\n\n[[=]]\n[[module Rate]]\n[[/=]]\n----\n[[include :scp-wiki:component:classified-bar-woed\n|lv=5\n|item=7313\n|oc=Safe\n|lang=EN\n]]\n[[module CSS]]\ndiv.scale {\n    --woedbar-safe-color: rgb(54, 227, 184);\n}\n[[/module]]\n\n----\n[[include component:image-block\n    name=door.jpg |\n    caption=Door leading into SCP-7313. |\n    align=center |\n    width=100%\n]]\n\n[[span class=\"hilighter\"]]SPECIAL CONTAINMENT PROCEDURES:[[/span]] The door leading into SCP-7313 has been permanently displaced from perceived reality. Any additional sightings of this entry point must be immediately reported to Level-5 personnel or any active system administrators for immediate correction. \n\n[[span class=\"hilighter\"]]DESCRIPTION:[[/span]] SCP-7313 is a subterranean chamber located beneath an abandoned data center in Seattle, Washington, USA. SCP-7313 is constantly subject to a series of ontokinetic fluctuations, causing it to frequently shift between baseline and null reality. Its only entry point is a bulkhead door that spontaneously manifests around the premises.\n\nThe interior of SCP-7313 is outfitted with a large control console placed at the center of the room. One light -- suspended just above the control modules -- is active, illuminating four corpses sitting towards the console.\n\nThree out of the four instances are fitted with large virtual reality headsets of indeterminable origin. Connected to these headsets are a series of computers, all of which remain online. They display the following:\n* The first computer shows an active application containing one padded cell within a white void. Inside the cell is a featureless avatar wearing a grey jumpsuit. The avatar remains focused towards the perspective, slamming its bloodied hand against the cell walls repeatedly. It appears to be screaming for help, but no audio can be heard.\n* The second computer contains multiple active applications, all of which flicker in and out of view. Each shows an empty skybox with bright stars and dark red clouds. As the applications flash on-screen, human body parts can be seen intermittently, including two legs, a torso, two arms, and a head. Every body part observed undergoes a series of glitches and visual disturbances. Of note is the head, which glitches rapidly between different facial features. All features appear to display severe anguish or pain.\n* The third computer shows another active application containing an expansive and utopic world. There are no visible graphical disturbances or system instability. Included within the world are miscellaneous items, scenery, and player tools for limited environment modification. There is no avatar or player despite a corpse being connected to it. Forensic investigations of the connected instance have confirmed that its death was caused by starvation.\n* The fourth computer shows a series of suspended applications. Each contain individual simulations of different K-Class level scenarios and the percentage likelihood of human survival. Very few indicate positive results. All sessions are paused on a \"Lifted Veil\" scenario prediction.\n\nA virtual reality headset lays on the floor next to the final corpse. Its upper face, including its forehead, eyes, and nose, have been completely removed and hollowed out. Its jaw is likewise contorted and severely dislocated, making it appear to smile manically.\n\nThe other corpses have similar injuries.\n\n----\n[[=]]\n[[module Rate]]\n[[/=]]\n\n[[div class=\"footer-wikiwalk-nav\"]]\n[[=]]\n<< [[[SCP-7312]]] | SCP-7313 | [[[SCP-7314]]] >>\n[[/=]]\n[[/div]]\n\n[[include :scp-wiki:component:license-box]]\n=====\n> **Filename:** door.jpg\n> **Author:** Bri\n> **License:** CC BY-SA 2.0\n> **Source Link:** [https://www.flickr.com/photos/41269729@N00/2409255964 Flickr]\n=====\n[[include :scp-wiki:component:license-box-end]]",
+  "tags": [
+    "_cc",
+    "_licensebox",
+    "abnormalities",
+    "building",
+    "cadaver",
+    "coldpostcon",
+    "computer",
+    "reality-bending",
+    "safe",
+    "scp",
+    "simulacrum",
+    "subterranean"
+  ],
+  "author": "JakdragonX",
+  "created_at": "2023-01-03T09:59:09+00:00",
+  "updated_at": "2023-06-30T13:05:44+00:00",
+  "rating": 195,
+  "_site": "scp-wiki",
+  "_fullname": "scp-7313"
+}

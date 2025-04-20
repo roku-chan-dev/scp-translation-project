@@ -1,0 +1,13 @@
+{
+  "title": "fragment:sisters-5",
+  "content": "[[include :scp-wiki-cn:theme:black-highlighter-theme]]\n\n[[module CSS]]\n.email-example .collapsible-block-folded a.collapsible-block-link {\n    animation: blink 0.8s ease-in-out infinite alternate;\n}\n@keyframes blink {\n    0% { color: transparent; }\n    50%, 100% { color: #b01; }\n}\n.email {border: solid 2px #000000; width: 88%; padding: 1px 15px; margin: 10px; box-shadow: 0 1px 3px rgba(0,0,0,.5)}\n.email-example a.collapsible-block-link {font-weight: bold;}\n.tofrom {margin-left: 10px; margin-top: 5px; padding: 1px 15px; border-left: solid 3px maroon}\n[[/module]]\n\n[[include :scp-wiki-cn:component:anomaly-class-bar-source\n|lang =cn\n|item-number= 6535\n|clearance= 2\n|container-class= 机密\n|secondary-class= 未收容\n|secondary-icon= https://scp-wiki.wdfiles.com/local--files/calibri-s-mega-cool-art-page-it-s-mostly-just-icons-but-what/Uncontained.svg\n|disruption-class= dark\n|risk-class= 待观察\n]]\n------------\n\n[[include :scp-wiki-cn:component:image-block\n| name= https://scp-wiki.wdfiles.com/local--files/fragment:sisters-5/Distant_person.jpg\n| caption= SCP-6535\n| width=100%]]\n\n**特殊收容措施：**###ff1493|SCP-6535不应被打扰。##\n\n**描述：**SCP-6535是一名亚洲血统的十七岁人类女性，目前未被收容。###ff1493|她漫游世界，不对任何人抱有恶意。##\n\n**附录 6535.1：**###ff1493|翻我的旧手机时发现的。看起来像是唯一一个在我的重置之中幸存的东西。##\n\n\n[[collapsible show=\"+ 显示图片\" hide=\"- 隐藏\"]]\n[[=]]\n[[div class=\"blockquote\"]]\n[[include :scp-wiki-cn:component:image-block\n| name= https://scp-wiki.wdfiles.com/local--files/fragment:sisters-5/medium.jpg\n| caption= 谢谢你。\n| width=100%]]\n[[/div]]\n[[/=]]\n[[/collapsible]]",
+  "tags": [
+    "段落"
+  ],
+  "author": "joke3579",
+  "created_at": "2023-04-12T13:19:25+00:00",
+  "updated_at": "2023-04-12T13:47:09+00:00",
+  "rating": 0,
+  "_site": "scp-wiki-cn",
+  "_fullname": "fragment:sisters-5"
+}

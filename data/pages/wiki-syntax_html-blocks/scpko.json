@@ -1,0 +1,14 @@
+{
+  "title": "HTML 블록",
+  "content": "HTML 블록은 {{[[html]] ... @@[[/html]]@@}} 태그를 사용해서 생성합니다. HTML 블록은 IFRAME 안에 삽입된 코드 블록입니다. 이는 [http://community.wikidot.com/howto:use-html-scripting HTML - 스크립트]를 쉽게 만들어줍니다.\n\n[[code type=\"html\"]]\n[[html]]\n<h1>커스텀 HTML</h1>\n<p>다른 무언가</p>\n<img src=\"아무거나.png\" alt=\"안녕하세요 ;-)\"/>\n[[/html]]\n[[/code]]\n\nHTML 블록 안의 모든 위키 문법은 일반 텍스트로 분류되어 가공되지 않습니다.\n\n요소에 (<style type=\"text/css\">...</style> 및 <element style=\"...\"> 모두) 스타일을 적용할 수 있지만, html 및 body(필요한 경우에 내용을 투명하게 추가된 경우)에는 스타일 적용이 지원되지 않습니다. 최고 레벨 요소에 스타일을 적용할 필요가 있을 경우, 전체 내용을 @@[[html]]@@ 블록으로 둘러싸서 적절한 스타일을 적용한 div를 넣으세요. 예를들자면 아래와 같습니다.\n\n[[code]]\n[[html]]\n<div style=\"background-color: black; color: lightgreen\">\n<p>테스트중입니다.</p>\n</div>\n[[/html]]\n[[/code]]\n\n연두색 글자에 검은 바탕의 HTML로 변환됩니다.\n\n[[html]]\n<div style=\"background-color: black; color: lightgreen\">\n<p>테스트중입니다.</p>\n</div>\n[[/html]]\n\n페이지의 각 HTML 블록은 개별 URL을 가지고있어 따로 접속할 수 있습니다. 렌더링된 페이지의 HTML 블록 요소에서 오른쪽 클릭해서 \"이 프레임에서 보기\"를 클릭해서 웹 주소를 확인하세요.\n~~~~~~~~~~",
+  "tags": [
+    "관리",
+    "안내"
+  ],
+  "author": "Dr Devan",
+  "created_at": "2015-02-05T15:40:31+00:00",
+  "updated_at": "2015-02-05T15:40:55+00:00",
+  "rating": 0,
+  "_site": "scpko",
+  "_fullname": "wiki-syntax:html-blocks"
+}

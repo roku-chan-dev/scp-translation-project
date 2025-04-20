@@ -1,0 +1,14 @@
+{
+  "title": "10095",
+  "content": "number: UE-006485-JP\ncontent: \"実在せず、かつ現実的な法効果のない法律を所管する行政機関である概務省が存在する建物。概務省所管法令には以下のようなものがある。日本政府は概務省の存在を公認していない。\\n・概務省を設置する法律\\n・選挙区を0増0減する法律\\n・選挙区を-5増-5減する法律\\n・当該法律自身を失効させる法律\\n・災害の発生を禁止する法律\"\ndate: '1955-6-4'\narea: 東京都千代田区霞が関4丁目4番4号\nprotocol: 中央合同庁舎第█号館との連絡通路からのみアクセスできるため、JAGPATOが当該通路を封鎖。\nredirect-b: '[[module Redirect destination=\"/log-of-unexplained-locations-jp'\nredirect-e: '\"]]'",
+  "tags": [
+    "jp",
+    "剪定対象-子"
+  ],
+  "author": "G and B Channel",
+  "created_at": "2023-05-29T08:18:43+00:00",
+  "updated_at": "2023-05-29T08:19:02+00:00",
+  "rating": 17,
+  "_site": "scp-jp",
+  "_fullname": "log-of-unexplained-locations-jp:10095"
+}

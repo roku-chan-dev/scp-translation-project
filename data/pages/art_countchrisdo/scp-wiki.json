@@ -1,0 +1,15 @@
+{
+  "title": "CountChrisdo",
+  "content": "[[>]]\n[[module Rate]]\n[[/>]]\n[[include :scp-wiki:theme:black-highlighter-theme]]\n[[include :scp-wiki:theme:jakstyle]]\n\n[[div class=\"crom-thumbnail\" style=\"display: none;\"]]\n[[include component:image-block name=https://i.imgur.com/H6O8TOW.jpg]]\n[[/div]]\n\n@@ @@\n\n//Hi, I'm Chris aka CountChrisdo a Graphic Designer and 3D artist who wants to create a bunch of SCP stuff. This will be the hub for all this content//\n\n+ __SCP FanArt__\n\n++ SCP-1050 - Obsidian Obelisk\nFirst known photo of SCP-1050-1 recovered from a German research facility in [REDACTED]\n\n[[=image https://i.imgur.com/JRFWj2I.jpg]]\n\n++ SCP-2557 - Envelope Logistics\n A holding of Envelope Logistics has just been minted as a new NFA (Non-Fungible Anomaly) currently held by one of their top performing entities V*H*Q*H \n\n[[=image https://i.imgur.com/H6O8TOW.jpg]]\n\n\n\n@@ @@\n@@ @@\n@@ @@\n\n-----\n\n\n[[collapsible show=\"More from countchrisdo\" hide=\"Close me!\"]]\n__SCPs__: (Coming soon!)\n\n[[module ListPages created_by=\"countchrisdo\" separate=\"no\" tags=\"scp, -joke\" perPage=\"2\" order=\"created_at\" prependLine=\"||~ SCP ||~ Created ||~ Rating ||~ Comments ||~ Length ||\"]]\n|| %%title_linked%% || %%created_at%% || %%rating%% || %%comments%%  || %%size%% ||\n[[/module]]\n\n[[/collapsible]]\n\n-----\n\n[[include :scp-wiki:component:license-box]]\n\n\n=====\nSCP-1050 - Obsidian Obelisk\n\n> **Name:** Landscape Photograph\n> **Author:** [[*user CountChrisdo]]\n> **License:** CC BY-SA\n\n=====\nSCP-2557 - A Holding of Envelope Logistics\n\n> **Name:** Envelope Logo\n> **Author:** [[*user kate-mctiriss]]\n> **License:** CC BY-SA\n> **Source Link:** [[[https://scp-wiki.wikidot.com/scp-2557 | SCP-2557]]]\n> -----\n> **Name:** SCP-4707\n> **Author:** [[*user Kyza]]\n> **License:** CC BY-SA\n> **Derivative of:** [[[https://vincentgarreau.com/particles.js/ | Particles.js]]]\n\n=====\n[[include :scp-wiki:component:license-box-end]]",
+  "tags": [
+    "_cc",
+    "artist",
+    "scp-art"
+  ],
+  "author": "CountChrisdo",
+  "created_at": "2022-09-21T14:57:12+00:00",
+  "updated_at": "2024-03-28T17:37:10+00:00",
+  "rating": 15,
+  "_site": "scp-wiki",
+  "_fullname": "art:countchrisdo"
+}

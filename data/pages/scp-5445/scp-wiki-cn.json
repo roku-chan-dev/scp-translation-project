@@ -1,0 +1,18 @@
+{
+  "title": "SCP-5445",
+  "content": "[[include :scpsandboxcn:component:cd-ver2\n|lv=2\n|item=SCP-5445\n|class=Keter\n|site-responsible=EGBAEQ-Site-98\n|director=教授Khaled Hadad\n|research-head=研究员Olabisis Hajjar\n|assigned-task-force=MTF-%CE%BB14\n]]\n[[a href=\"*http://scp-wiki-cn.wikidot.com/niveaux-de-menace-des-objets-scp\" style=\"font-size: 18px; color: black; text-shadow: 1px 3px 1px rgba(0,0,0,0.3); text-decoration: none;\"]]\n[[span_ style=\"display: inline-block; width: 100%; background-color: #EED202; text-align: center; border: 1px none #000; margin: 1px; padding-top: 8px; padding-bottom: 8px;\"]]\n**威胁等级：**黄色\n[[/span]]\n[[/a]]\n------\n**特殊收容措施：**中东/北非 (MENA) 地区的餐馆应定期检查是否存在SCP-5445，应特别注意在已知受感染餐馆10公里范围内的餐馆。受感染的餐馆将以违反卫生法规为由关闭。在埃及和阿尔及利亚政府的要求下，关张餐馆可能会在菜单中加入有效的抗生素后重新开张，然后仔细观察。\n\n餐馆关闭后，应检查餐厅账户的SCP-5445-1的销售情况。被发现订购了SCP-5445-1的人将被机动特遣队Lambda-14 (“Manhunters”) 找到并扣留，并转移到Site-98的站点餐厅。被扣留者将被强迫以任何必要的方式订购两个疗程的固定价格的抗生素治疗，完毕后将对他们实施A级记忆消除并释放。\n\nSCP-5445的一个培养基被保存在斯科拉克斯咖啡馆进行学习研究，其为基金会一个位于[[[scp-1483|南极研究区Area-1483]]]的可控安全区内的餐厅。\n\n**描述：**SCP-5445是一种可在人与餐馆之间传播的细菌感染病。在人体内，SCP-5445完全没有症状。被SCP-5445感染的餐馆会经历大约两周的潜伏期，之后才会出现最初的症状。早期感染的症状是餐馆卫生条件和食品质量的突然增加，以及食品价格和等待时间的减少。因此，受感染的餐馆的订单业务会普遍增加。一至三周后，SCP-5445-1将毫无征兆地被纳入菜单。\n\nSCP-5445-1是SCP-5445的主要传播媒介，其在指定的粮食储存区内密集生长。SCP-5445-1看起来像一个主菜，由一个浸在血中的人颅骨组成[[footnote]]基因测试已经确定血液是人类的，并混合了微量的[[[[SCP-1867|已编辑]]]][[/footnote]]。受感染的菜单大多将SCP-5445-1描述为一种“公平贸易的美味佳肴”，食用SCP-5445-1可以带来各种身体和心理上的好处。餐厅工作人员普遍认为，SCP-5445-1是一道纯天然的美食，尽管“很新颖”。\n\n感染SCP-5445的餐厅通过售卖SCP-5445-1发生餐厅-人类的传播，而人类通过货币交换发生餐厅-人类的传播。虽然抗生素治疗可以99%有效消除SCP-5445，但治疗必须在该餐厅售卖食品范围内进行。\n\n1998年7月31日，███餐馆和​███人类被发现感染了SCP-5445。其病原体感染社会结构（如餐馆）的过程还不清楚；在Dr. Guy Echo的监督下，对于其感染过程的研究正在进行中。\n\nSCP-5445-1不具有已知的强迫性质。\n\n[[footnoteblock]]\n\n[[div class=\"footer-wikiwalk-nav\"]]\n[[=]]\n<< [[[SCP-5444]]] | SCP-5445 | [[[SCP-5446]]] >>\n[[/=]]\n[[/div]]",
+  "tags": [
+    "keter",
+    "scp",
+    "交换",
+    "生物危害",
+    "精神影响",
+    "细菌"
+  ],
+  "author": "Sail_Blank",
+  "created_at": "2020-02-12T02:40:15+00:00",
+  "updated_at": "2020-02-28T08:00:07+00:00",
+  "rating": 4,
+  "_site": "scp-wiki-cn",
+  "_fullname": "scp-5445"
+}

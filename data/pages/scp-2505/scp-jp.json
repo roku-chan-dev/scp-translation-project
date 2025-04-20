@@ -1,0 +1,20 @@
+{
+  "title": "SCP-2505",
+  "content": "[[>]]\n[[module Rate]]\n[[/>]]\n\n+ 報告書作成ウィザード\n++ できれば問い合わせないで貰えるとありがたいのですが、テクニカルサポートが必要な場合は、デイヴィッド・ローゼンまでお願いします。\n\n//注： Androidやお気に入りのブラウザでこのウィザードが動作しないからと言って、私を呼ばないように。とにかく、データベースにアクセスする時は標準的なブラウザを通して、十分綺麗にしたシステムを使用したまえ。//\n\n[[html]]\n<html lang=\"en\">\n<head>\n\n<meta charset=\"utf-8\">\n<meta name=\"viewport\" content=\"width=device-width, initial-scale=1.0, maxium-scale=1.0, minimum-scale=1.0, user-scalable=no\"/>\n\n<style type=\"text/css\">\ntd {\nword-break: normal;\nwidth: 20%\n}\n</style>\n\n<!-- STEP ONE: Copy this code into the HEAD of your HTML document  -->\n\n<SCRIPT LANGUAGE = \"JavaScript\">\n\n<!-- Begin\n\nvar cnum1 = 0;\nvar cnum2 = 0;\nvar dnum1 = 0;\nvar dnum2 = 0;\nvar cstring = \"SCP-2505はSCP-2505とだけ呼ばれなければなりません。他の名称をSCP-2505に用いる事は禁止されます。静的な文書はSCP-2505の為に存在せず、長い間この状態が続いています。SCP-2505に配属された全職員は、関連する実験結果を記憶してください。\"\nvar dstring = \"SCP-2505は異常な情報現象の影響を受けた、玉軸に使われる小さな金属球です。静的な方法で記録されたSCP-2505に関する全ての情報は、作成から凡そ7.4秒後に一貫して削除又は破壊されます。この除去の方法は記録方法に依存します。情報を入力しようとコンピューターに文字を打ち込むと、一文字目を入力してから7.4秒後に、入力した文字は削除されていきます。デジタルオーディオにSCP-2505の事を記録した時は、記録から7.4秒後にリアルタイムでホワイトノイズに編集されました。これらの情報の除去はいずれの場合においても、電子機器への永続的な損傷は引き起こしませんでした。非電子機器形式では、より破壊的な除去が行われます。例えばビニールオーディオレコードでは、録音開始から7.4秒後に音の記録された部分を加熱し、レコードを溶かす事で記録を消去します。タイプライターやペンで書かれた情報は、ほとんどの場合インクの粒子が大気中に消散するでしょう。物体の表面に刻まれた情報は、破滅的な破壊を齎す結果に終わります。非ホモサピエンスにSCP-2505の情報が伝えられた時も同じく、その情報を7.4秒後に忘却します。SCP-2505の情報を長期間記録する唯一の方法と知られているのは、人の精神に記憶する事で、SCP-2505の情報を忘れずにいられるという事です。この効果に加えて、SCP-2505には他に異常特性はありませんが、SCP-2505の形は真球に非常に近いです。\"\n\nfunction containment()\n{\nif(cnum2<cstring.length){\ncnum2++;\nwindow.setTimeout(cdel,7392);\n}\nwindow.setTimeout(cwait,1);\n}\n\nfunction cwait(){\ndocument.getElementById(\"cbox\").value= cstring.substring(cnum1, cnum2);\n}\n\nfunction cdel(){\ncnum1++;\nif(cnum1==cnum2){\ncnum1=0;\ncnum2=0;\n}\ndocument.getElementById(\"cbox\").value= cstring.substring(cnum1, cnum2);\n}\n\nfunction description()\n{\nif(dnum2<dstring.length){\ndnum2++;\nwindow.setTimeout(ddel,7392);\n}\nwindow.setTimeout(dwait,1);\n}\n\nfunction dwait(){\ndocument.getElementById(\"dbox\").value= dstring.substring(dnum1, dnum2);\n}\n\nfunction ddel(){\ndnum1++;\nif(dnum1==dnum2){\ndnum1=0;\ndnum2=0;\n}\ndocument.getElementById(\"dbox\").value= dstring.substring(dnum1, dnum2);\n}\n\nfunction create(form) {        \n\nif (confirm(\"警告: 不正な記事の作成は懲戒処分となります。私はここにこの警告が必要無い事を望みます。本当にもう、“J”分類の記事には辟易しています。 \")) {        \n\nwindow.alert(\"エラーコード: 35720. あなたが自分で何かをすると、十中八九事態を悪化させます。テクニカルサポートまでお問い合わせください。\");\n\n}\n}\n\n// End -->\n\n</SCRIPT>\n\n</head>\n\n\n\n<body>\n\n\n\n<!-- STEP TWO: Put this code into the BODY of your HTML document  -->\n\n\n<FONT FACE=\"Verdana\" size=2>\n\n<FORM>\n<p>\n<b>認証コード:</b> <input type=\"password\" name=\"pwd\" value=\"plznolookthx~ruiz\">\n</p><p>\n<b>アイテム番号:</b> SCP-2505\n</p><p>\n<b>オブジェクトクラス:</b>\n<select>\n  <option value=\"safe\">Safe</option>\n  <option value=\"euclid\">Euclid</option>\n  <option value=\"keter\">Keter</option>\n  <option value=\"neutralised\">Neutralised</option>\n  <option value=\"Other\">Other（その他）</option>\n</select> \n</p><p>\n<b>特別収容プロトコル:</b>\n\n<textarea rows=\"8\" style=\"width:95%;\" id=\"cbox\" onkeypress=\"containment()\" wrap=\"hard\">\n\n</textarea>\n</p><p>\n<b>説明:</b>\n\n<textarea rows=\"16\" style=\"width:95%;\" id=\"dbox\" onkeypress=\"description()\" wrap=\"hard\">\n\n</textarea>\n\n</p>\n</B>\n\n<P>\n<center>\n<INPUT TYPE = \"button\" VALUE=\"送信\" onClick = \"create(this.form)\"></TD>\n</center>\n\n\n</FORM>\n</font>\n<p>\n<p>\n\n\n\n<!-- Script Size:  3.09 KB  -->\n\n\n\n\n\n</FONT>\n\n</body>\n\n</html>\n[[/html]]",
+  "tags": [
+    "en",
+    "esoteric-class",
+    "scp",
+    "メタ",
+    "ローゼン研究員",
+    "情報災害",
+    "球体",
+    "金属"
+  ],
+  "author": "KirisakiMarie",
+  "created_at": "2014-12-14T15:10:28+00:00",
+  "updated_at": "2021-01-10T16:01:03+00:00",
+  "rating": 97,
+  "_site": "scp-jp",
+  "_fullname": "scp-2505"
+}

@@ -1,0 +1,14 @@
+{
+  "title": "10110",
+  "content": "overview: 'ロシア語版Wikipediaでその時点で生存していた全ての//homo sapiens sapiens//に関する非常に正確な個別記事が生成されました。瞬間的に発生したにも関わらずWikipediaを保管するサーバーは如何なる負荷もストレージ消費も無かったことを留意してください。'\nswdate: '1'\ndate: '2019/11/5 UTC 8:22:19'\nswplace: '0'\nplace: ''\nswchaseprocedure: '1'\nchaseprocedure: \"発生から直ちに当該サイトへのアクセスを遮断。膨大な記録の回収の為200時間程の長期ブロックが行われた。\\n\\n回収されたデジタルデータを解析した所、約150箇所程に記述の矛盾点が発見されたが、自然言語の記述能力の限界に起因するものなのか、または物理法則的に正常な作用なのかは不明\"\nswaddendum: '0'\naddendum: ''\ntf2: '0'\nauthor: ''\nredirect-b: '[[module Redirect destination=\"/log-of-extranormal-events-jp'\nredirect-e: '\"]]'",
+  "tags": [
+    "jp",
+    "剪定対象-子"
+  ],
+  "author": null,
+  "created_at": "2020-08-11T07:12:54+00:00",
+  "updated_at": "2021-05-24T13:21:15+00:00",
+  "rating": 53,
+  "_site": "scp-jp",
+  "_fullname": "extranormal-events-jp:10110"
+}

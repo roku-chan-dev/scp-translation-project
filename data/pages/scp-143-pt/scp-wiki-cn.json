@@ -1,0 +1,23 @@
+{
+  "title": "SCP-143-PT",
+  "content": "[[include :scp-wiki-cn:theme:black-highlighter-theme]]\n[[include :scp-wiki:component:toggle-sidebar-bhl]]\n[[include :scp-wiki:component:centered-header-bhl]]\n[[module css]]\n#page-title {display: none;}\n\na[rel=\"license\"]::after {\n    content: \".\";\n}\n\n/* Header */\n\n:root {\n    --logo-image: url(\"http://scp-wiki.wdfiles.com/local--files/scp-international/scp-logo-pt-400.png\");\n    --header-title: \"SCP基金会\";\n    --header-subtitle: \"葡萄牙语分部\";\n}\n[[/module]]\n\n[[include :scp-wiki-cn:credit:start-standalone]]\n**标题：**SCP-143-PT -- 从里约热内卢—尼特罗伊跨海大桥上逃离\n**作者：**[[*user L200]]\n**译者：**[[*user Backlight SH]]\n@@@@\n其他相关文档\n[[[O Começo da Ponte que Nunca Acaba|无尽之桥的起点]]]\n[[[chamado-da-para-a-construcao-da-ponte-que-nunca-acaba|桥梁建筑者的呼喊永不止息]]]\n[[[arquivo-sbp-n-196-relatorio-de-exploracao-anomalia-dimension|SBP档案第196号 - 对298号维度异常之探索报告]]]\n\n[[include :scp-wiki-cn:credit:end-standalone]]\n\n[[include :scp-wiki:component:classified-decoration\n|lv=2\n|item=143-PT\n|oc=Safe\n|lang=CN\n|trans-level=级\n|trans-classified=机密]]\n\n[[a href=\"*http://scp-pt-br.wikidot.com/nivel-de-ameaca\" style=\"font-size: 18px; color: black; text-shadow: 1px 3px 1px rgba(0,0,0,0.3); text-decoration: none;\"]]\n[[span_ style=\"display: inline-block; width: 100%; background-color: yellow; text-align: center; border: 1px none #000; margin: 1px; padding-top: 8px; padding-bottom: 8px; text-color:white; border-radius: 5px;\"]]\n**威胁等级：**黄色\n[[/span]]\n[[/a]]\n\n[[div class=\"scp-image-block block-center\" style=\"width:100%;\"]]\n[[image https://scpsandboxcn.wikidot.com/local--files/backlight-sh/71J7lq6.jpg style=\"width:100%;\" link=#]]\n[[div class=\"scp-image-caption\" style=\"width:100%;\"]]\n里约热内卢—尼特罗伊跨海大桥\n[[/div]]\n[[/div]]\n\n**特殊收容措施：**鉴于SCP-134-PT的异常性质，收容措施的主要目的是阻止曾在20世纪70年代至1985年期间的巴西军政府担任过任何职务的人员穿过里约热内卢—尼特罗伊跨海大桥（旧称达科斯塔·伊·席尔瓦总统大桥）。涉及项目的实验必须得到4级安保许可人员的授权，考虑到其性质，需在大桥不对公众开放的情况下进行之。\n\n机动特遣队PT31-π“桥梁巨魔”应持续监控符合SCP-143-PT-2事件触发条件的任何人员，以及里约热内卢、尼特罗伊两地的居民。一旦发现相关人员正在前往里约—尼特罗伊跨海大桥，MTF成员应立即尝试让其改变行动路线以远离大桥，防止触发相应事件。\n\n**描述：**SCP-143-PT为一异常维度，其外表与里约热内卢—尼特罗伊跨海大桥相同，但实际上是一座长度无限的桥梁。SCP-143-PT-2为一类曾在巴西军政府供职的人员穿过该桥时发生的现象。项目的大多数资料都是由原巴西异常监管局（以下简称“SBP”）获得与整理的，上述内容随后被整合入本文档。\n\nSCP-143-PT-2事件发生时，大桥上方将发生浓雾，周边能见度不足10m。触发事件的人员搭乘的载具以及其半径40m以内的全部载具都会被传送至维度内部。以下将事件触发者指定为SCP-143-PT-3，他们会被SCP-143-PT-1实体作为自身目标。\n\n幸存者称，SCP-143-PT-1是曾参与桥梁建筑的建筑工人的混凝土塑像，通常保持着痛苦的姿势。在实体附近的人员会听闻尖叫声、呼喊声和求救声，以及出现窒息感。\n\nSCP-143-PT-1实体起初不会注意到人，但经过一段时间后，其会移动并攻击他人。实体会在感受到自己正在被视认（无论直接视认或通过影像视认）时移动，但通常情况下SCP-143-PT-3会优先成为其目标。\n\n若一名人员没有视认SCP-143-PT-1实体，实体会不断要求他们“看着我”。若人员正在视认SCP-143-PT-1但无法与其接触，实体不再要求被视认，转而发出尖叫声、呼喊声和求救声。但若是该名人员是SCP-143-PT-3，不在此类情况范围内。\n\n据观察，SCP-143-PT-1会以多种方式杀死其受害者，其方式包括但不限于：使用建筑工具、绞杀、拳击等等。\n\nSCP-143-PT的受害者将其描述为一座似乎无限的桥梁，由于大雾遮挡视线而看不见桥梁的尽头。据称，SBP研究人员在一次事件发生时试图以原路返回，但他们沿着同样的路走了数天，直到SCP-143-PT-3最终死亡。\n\n据此推断，-2事件发生时仅会有一个人被选为SCP-143-PT-3，通常是所有人员中在巴西军政府担任职位最高的人。\n\n被SCP-143-PT-1实例杀害的人将被转化为SCP-143-PT-4，该实体为一座混凝土塑像，其被破坏时，可发现内部存在休眠状态的人类器官。\n\nSCP-143-PT-2通常会发生在大桥的第█根支柱上，该处在大桥建设过程中曾有工人被活埋于此。目前正在调查事件与罹难者是否存在关联。\n\n2事件的受害者乘坐的载具和其他物品会在事件中完全丢失，除非相应人员在离开SCP-143-PT时与其进行接触，才会重新出现在大桥上。\n\n进行的实验表明，除了SCP-143-PT-3死亡以外，任何逃离SCP-143-PT的尝试都是无效的。在实验中，调查团队行进了几星期乃至几个月，直到SCP-143-PT-3最终因SCP-143-PT-1或其他原因死亡。试图游泳逃离同样无效，因为进入的海域似乎也是无限的。\n\nSCP-143-PT在1974年被SBP发现，大桥向公众开放9天前，█████ ████将军与一群建筑工人在过桥时因不明原因失踪。军政府随即开始搜索和调查，但随后，另一名将军也在桥上失踪。\n\n将军失踪5天后，当时失踪的三名工人与四座混凝土塑像被发现，其中一座像的模样是失踪的将军，军政府立即派遣SBP成员问询上述工人。\n\nSBP随后进行了一些实验，证明了大桥的异常性质，此后巴西军政府相关的人员（含BSP特工）未经许可不得过桥。\n\n起初，为了彰显此次工程的重要性，巴西军政府第三任总统（总第28任）埃米利奥·加拉斯塔苏·梅迪西计划在大桥落成典礼上穿过桥梁。由于担心总统安全以及可能触发事件，SBP特工使用替身人员代替总统与陪同的知名人士出席了此次活动。\n\n若是SCP-143-PT-3未死亡，剩余的人员仍会处于该维度当中。\n\n以下是原SBP成员给出的一份按军衔列出的军政府人员风险列表，部分实验中使用的实验体较少，因此数据可能不准确，部分实验者是通过SBP获取的低关注度人员。\n\n||~ 军衔 ||~ 危险等级 ||\n|| 元帅 || 未知 ||\n|| 上将 || 未知 ||\n|| 中将 || 未知 ||\n|| 少将 || 尚无结论 ||\n|| 上校 || 尚无结论 ||\n|| 中校 || 70-90% ||\n|| 少校 || 72-80% ||\n|| 上尉 || 70-75% ||\n|| 中尉 || 63-70% ||\n|| 少尉 || 55-60%||\n|| 准尉 || 50-55%||\n|| 军士长 || 40-43% ||\n|| 上士 || 36-39% ||\n|| 中士 || 20-22% ||\n|| 下士 || 10-11% ||\n|| 上等兵 || 5% ||\n|| 列兵 || 0.1-1% ||\n\n**附录143-PT-01：**以下是一份在SBP数据库中检索到的相关文档。\n\n[[[arquivo-sbp-n-196-relatorio-de-exploracao-anomalia-dimension|SBP档案第196号 - 对298号维度异常之探索报告]]]\n\n[[div class=\"footer-wikiwalk-nav\"]]\n[[=]]\n<< [[[SCP-142-PT]]] | SCP-143-PT | [[[SCP-144-PT]]] >>\n[[/=]]\n[[/div]]",
+  "tags": [
+    "pt",
+    "safe",
+    "scp",
+    "不可摧毁",
+    "二次翻译",
+    "地点",
+    "巴西异常监管局",
+    "建筑",
+    "未收容",
+    "超维度",
+    "雕塑"
+  ],
+  "author": "Backlight SH",
+  "created_at": "2023-08-30T08:25:32+00:00",
+  "updated_at": "2023-08-30T08:26:16+00:00",
+  "rating": 1,
+  "_site": "scp-wiki-cn",
+  "_fullname": "scp-143-pt"
+}

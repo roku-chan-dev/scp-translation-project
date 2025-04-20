@@ -1,0 +1,14 @@
+{
+  "title": "맥스웰의 은망치 CSS 테마",
+  "content": "[[module CSS]]\n@import url(https://scpko.wikidot.com/theme:maxwell-s-silver-hammer/code/1);\n[[/module]]\n\n[[iftags +테마]]\n\n+ 맥스웰의 은망치 CSS 테마\n\n[[>]]\n**Rating:**\n[[module Rate]]\n[[/>]]\n\n맥스웰의 은망치 CSS 테마는 [[*user c_bonefish]]와 [[*user Denevola]]가 [[[https://scpko.wikidot.com/church-of-the-broken-god-hub|맥스웰파]]] GoIF 혹은 이와 같은 작품들을 위해 제작하였습니다.\n\n테마를 적용하기 위해서 다음과 같은 구문을 페이지 상단에 삽입하세요:\n[[div class=\"code\"]]\n@@[[include :scpko:theme:maxwell-s-silver-hammer]]@@\n[[/div]]\n@@@@\n-----\n+ 페이지 요소\n@@@@\n[[include component:image-block name=https://scp-wiki.wikidot.com/local--files/theme:maxwell-s-silver-hammer/logo.png|caption=asdf|width=200px]]\n\n+ 제목1\n++ 제목2\n+++ 제목3\n++++ 제목4\n+++++ 제목5\n++++++ 제목6\n@@@@\n@@@@\n@@@@\n[[tabview]] [[tab tab1]]\n[[=]]\n> + Link\n> [# 방문하지 않은 링크] | [[[theme:maxwell-s-silver-hammer|방문한 링크]]]\n> -----\n>> 텍스트[[footnote]]똑똑[[/footnote]]\n[[/=]]\n[[/tab]] [[tab tab2]]\n[[/tab]] [[/tabview]]\n@@@@\n-----\n+ CSS 테마 코드\n@@@@\n[[code type=\"css\"]]\n/*\n    Powered on 2021/05/15 12:11:56\n\n    [2021 Wikidot Theme]\n\n    Created by c_bonefish & Denevola\n    Header Code adopted from The Buck Stops Here CSS Theme by thd-glasses\n    Info Bar and Page Rating Code adopted from Technoblast Theme by EstrellaYoshte\n\n    Background Image1: https://pixabay.com/vectors/blue-hexagons-backdrop-3330475/\n    Background Image2: https://pixabay.com/vectors/computer-cyber-circuitry-circuits-3163436/\n\n    CC BY-SA 3.0\n*/\n\n@import url(https://scp-wiki.wikidot.com/theme:maxwell-s-silver-hammer/code/1);\n@import url('https://fonts.googleapis.com/css2?family=Do+Hyeon&display=swap');\n\n#header h1 a,\n#login-status,\n#search-top-box,\n#page-title,\nh1,h2,h3,h4,h5,h6 {\n    font-family: 'Do Hyeon', sans-serif;\n    font-weight: 300;\n}\n\n#search-top-box-input,\n#search-top-box-input:hover,\n#search-top-box-input:focus,\n#search-top-box-form input[type=submit],\n#search-top-box-form input[type=submit]:hover,\n#search-top-box-form input[type=submit]:focus {\n    font-family: 'Do Hyeon', sans-serif;\n    font-weight: 300;\n}\n\n[[/code]]\n\n[[/iftags]]",
+  "tags": [
+    "en",
+    "테마"
+  ],
+  "author": null,
+  "created_at": "2021-05-21T09:39:19+00:00",
+  "updated_at": "2024-08-17T05:16:23+00:00",
+  "rating": 6,
+  "_site": "scpko",
+  "_fullname": "theme:maxwell-s-silver-hammer"
+}

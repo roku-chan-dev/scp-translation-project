@@ -1,0 +1,14 @@
+{
+  "title": "幸存于阳光侵袭之地",
+  "content": "[[include :scp-wiki-cn:theme:penumbra]]\n\n[[module css]]\n:root {\n  --accentColor: #FF5512;\n  --header-title: \"破晓\";\n  --header-subtitle: \"太阳系的残酷之星\";\n  --lgurl: url(\"https://scp-wiki.wdfiles.com/local--files/daybreak/daybreaklogo.png\");\n}\n[[/module]]\n\n[[include component:image-block\n| name=https://scp-wiki.wdfiles.com/local--files/art%3Asurvival-in-a-sun-stricken-world/daybreak.jpg\n| width=1000px\n| caption=一幅使用丙烯酸和喷漆颜料的手绘，描绘SCP-001破晓之时\n| align=center]]\n\n[[=]]\n我创作了一幅大型画作，描绘了于破晓设定内（以及于真正破晓之时）一个幸存者的暗影，其在无情的太阳下踏上一次暗藏危机的旅程。是的。我知道你不能到外界去，这个人是躲在笨重的防护衣里的。\n[[/=]]",
+  "tags": [
+    "破晓",
+    "艺术作品"
+  ],
+  "author": "dingxiaoshu",
+  "created_at": "2023-04-18T00:11:17+00:00",
+  "updated_at": "2023-11-13T16:50:46+00:00",
+  "rating": 2,
+  "_site": "scp-wiki-cn",
+  "_fullname": "art:survival-in-a-sun-stricken-world"
+}

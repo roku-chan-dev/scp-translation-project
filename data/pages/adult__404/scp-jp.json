@@ -1,0 +1,14 @@
+{
+  "title": "adult:_404",
+  "content": "[[div_ class=\"wikisys--template-dialog\"]]\n[[div_ class=\"wikisys--template-dialog-header\"]]\nこのページはまだ作成されていません\n[[/div]]\n[[div_ class=\"wikisys--template-dialog-content\"]]\n**\"adult\"カテゴリにページを作成するには、専用の見出しページが必要です。**\n詳しくは[[[adult-guide|]]]を参照してください。\n[[/div]]\n[[div_ class=\"wikisys--template-dialog-footer\"]]\n**あなたが見出しページを既に作成している場合は、[[button edit text=\"ここをクリック\"]]してください。**\n[[/div]]\n[[/div]]",
+  "tags": [
+    "jp",
+    "管理"
+  ],
+  "author": "islandsmaster",
+  "created_at": "2022-09-03T16:37:10+00:00",
+  "updated_at": "2022-09-03T16:38:48+00:00",
+  "rating": 3,
+  "_site": "scp-jp",
+  "_fullname": "adult:_404"
+}

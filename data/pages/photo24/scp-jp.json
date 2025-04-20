@@ -1,0 +1,15 @@
+{
+  "title": "この鐘を鳴らすのは誰？",
+  "content": "[[>]]\n[[module Rate]]\n[[/>]]\n\n[[include component:image-block\n|name=bellll.jpg\t\n|caption=この鐘が鳴るとなにがおこるの？\n]]\n登録番号: PHOTO-024-JP\n\n補遺: 十年ほど前にウィーンへ行った際、どこかの寺院で撮った一枚。周りを囲まれてる感じがなんとなく雰囲気あるなぁと思います。",
+  "tags": [
+    "jp",
+    "フォトコンテスト",
+    "フォト作品"
+  ],
+  "author": "seneo",
+  "created_at": "2014-07-12T12:24:23+00:00",
+  "updated_at": "2021-01-10T15:56:09+00:00",
+  "rating": 44,
+  "_site": "scp-jp",
+  "_fullname": "photo24"
+}

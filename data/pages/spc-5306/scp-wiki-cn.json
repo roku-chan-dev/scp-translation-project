@@ -1,0 +1,17 @@
+{
+  "title": "SPC-5306",
+  "content": "[[include :scp-wiki-cn:theme:spc]]\n[!-- 图片来源：https://scpsandboxcn.wikidot.com/collab:spc-5306 --]\n[[module CSS]]\n.email-example .collapsible-block-folded a.collapsible-block-link {\n    animation: blink 0.8s ease-in-out infinite alternate;\n}\n@keyframes blink {\n    0% { color: transparent; }\n    50%, 100% { color: #b01; }\n}\n.email {border: solid 2px #000000; width: 88%; padding: 1px 15px; margin: 10px; box-shadow: 0 1px 3px rgba(0,0,0,.5)}\n.email-example a.collapsible-block-link {font-weight: bold;}\n.tofrom {margin-left: 10px; margin-top: 5px; padding: 1px 15px; border-left: solid 3px maroon}\n[[/module]]\n\n[[=]]\n[[div style=\"border:solid 1px #999999; background:#f2f2c2; padding:5px; margin-bottom: 10px;\"]]\n\n++ 来自中央情报机关暨项目行动指挥部门的通知\n \n以下文件属于**深度机密**，所有不具有0S权限的阅读者将被视为软骨鱼同情者并随后被殴打。\n\n搜寻，殴打，征服。\n \n[[/div]] \n\n[[/=]]\n\n**项目编号：**SPC-5306\n\n**鲨鱼殴打性能：**SPC-5306项目旨在于软骨鱼实体间灌输不信任感以对抗日益增长的软骨鱼威胁。同时，SPC-5306实例可以为中心回收重要信息，例如软骨鱼的移动模式和狩猎队形。\n\n**项目组成：**SPC-5306实例是改造后具有标准人对鲨殴打器的7-Nu级软骨鱼实体。项目使用先前曾被殴打过的软骨鱼实体，移除殴打感觉接收器，并将项目与人类拳击与神经单元结合。SPC-5306实例在处理和准备完成后，必须经受专门的殴打训练以融入软骨鱼势力。\n\n**增加概要：**SPC-5306项目由Robert Gair，一位创造了许多SPC项目的著名中心发明家提出。下面展示了一系列导致SPC-5306被创造的交流邮件。\n\n[[=]]\n------\n[[<]]\n[[div class=\"email\"]]\n[[div class=\"tofrom\"]]\n**至：**shark_h8erBoss@spcmail.com\n**自：**96punchman240@spcmail.com\n**主题：**PHBISAGTBA项目\n[[/div]]\n------\n\n你好，Pugna主管，这里是Robert（又是我）。我准备了一个项目计划，能够创造出具备胜任秘密殴打行动的能力的软骨鱼间谍。目前的计划代号暂定为[[span class=\"ruby\"]]将人类大脑植入鲨鱼体内，并给它们安装粗壮手臂[[span class=\"rt\"]]Putting Human Brains In Sharks And Giving Them Buff Arms[[/span]][[/span]]，或者叫PHBISAGTBA。我相信这个SPC项目能够扭转这场对抗软骨鱼威胁的局面。我们只需要几个人类志愿者和680万美元就够了。\n\n[http://scp-wiki-cn.wikidot.com/spc-5306 下载文件 （29MB）]\n\n[[/div]]\n@@ @@\n[[div class=\"email\"]]\n[[div class=\"tofrom\"]]\n**至：**96punchman240@spcmail.com\n**自：**shark_h8erBoss@spcmail.com\n**主题：**Re：PHBISAGTBA项目\n[[/div]]\n------\n\nRobert，我对你的陈述不太放心。我明白你的意图，但基于你的描述，这似乎会让你重蹈你的“水熊虫”行动的结局。我觉得你应该退一步，更仔细地计划一下。\n\n[[/div]]\n@@ @@\n[[div class=\"email\"]]\n[[div class=\"tofrom\"]]\n**至：**shark_h8erBoss@spcmail.com\n**自：**96punchman240@spcmail.com\n**主题：**Re：Re：PHBISAGTBA项目\n[[/div]]\n------\n\n我重检了一遍计划，我想我已经想出了一个实现我们目标的有效方法。我附上了一个详细的图解，应该可以解释一切。\n\n[[collapsible show=\"展示附加文件（1）\" hide=\"隐藏附加文件（1）\"]]\n[[image https://scpsandboxcn.wdfiles.com/local--files/collab%3Aspc-5306/%E9%99%84%E5%8A%A0%E6%96%87%E4%BB%B6%EF%BC%881%EF%BC%89]]\n[[/collapsible]]\n             \n[[/div]]\n@@ @@\n[[div class=\"email\"]]\n[[div class=\"tofrom\"]]\n**至：**96punchman240@spcmail.com\n**自：**shark_h8erBoss@spcmail.com\n**主题：**Re：Re：Re：PHBISAGTBA项目\n[[/div]]\n------\n钱打过去了；明天就给我开工\n[[/div]]\n[[/<]]\n\n[[/=]]",
+  "tags": [
+    "2021连写竞赛",
+    "_打鲨鱼中心",
+    "_海生",
+    "goi格式",
+    "打鲨鱼中心"
+  ],
+  "author": "dingxiaoshu",
+  "created_at": "2023-02-26T04:36:06+00:00",
+  "updated_at": "2023-08-07T14:43:33+00:00",
+  "rating": 5,
+  "_site": "scp-wiki-cn",
+  "_fullname": "spc-5306"
+}

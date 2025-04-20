@@ -1,0 +1,19 @@
+{
+  "title": "SCP-CN-1021",
+  "content": "[[module CSS]]\n#page-title {\n  display: none;\n}\n\n.meta-title {\n  border-bottom: solid 1px #bbbbbb;\n  color: #990011;\n  font-weight: normal;\n  margin: 0 0 0.6em;\n  padding: 0 0 0.25em;\n  font-size: 200%;\n}\n\n.meta-title p {\n  margin: 0;\n}\n#u-ratingboxhid {   \n opacity:0.05;  transition: all 0.5s ease-out;\n}\n#u-ratingboxhid:hover {  \n opacity:1;\n}\n\n.rate-box-with-credit-button {\n    background-color: transparent !important;\n    border: none !important;\n    box-shadow: none !important;\n}\n[[/module]]\n[[module ListPages category=\"fragment\" parent=\".\" limit=\"1\" order=\"name\" offset=\"@URL|0\"]]\n[[div class=\"meta-title\"]]\n%%title%%\n[[/div]]\n[[/module]]\n[[span id=\"ratingboxhid\"]]\n[[include info:start]]\n**题目:** 마지막 유지\n**原文:** [http://scp-wiki-cn.wikidot.com/scp-cn-1021 SCP-CN-1021] by [[*user miku393]]\n**译者:** [[*user XCninety]]\n\nQuote from [[[SCP-3309]]] by [[*user Kaestine]]\n[[include info:end]]\n[[/span]]\n[[module ListPages category=\"fragment\" parent=\".\" limit=\"1\" order=\"name\" offset=\"@URL|0\"]]\n\n[!--https://scpko.wikidot.com/fragment:cn1000miku393-01--]\n[!--https://scpko.wikidot.com/fragment:cn1000miku393-02--]\n[!--https://scpko.wikidot.com/fragment:cn1000miku393-03--]\n[!--https://scpko.wikidot.com/fragment:cn1000miku393-04--]\n[!--https://scpko.wikidot.com/fragment:cn1000miku393-05--]\n[!--https://scpko.wikidot.com/fragment:cn1000miku393-06--]\n%%content%%\n[[/module]]",
+  "tags": [
+    "cn",
+    "cn1000",
+    "k급-시나리오",
+    "scp",
+    "난해한-등급",
+    "메타",
+    "서술"
+  ],
+  "author": "XCninety",
+  "created_at": "2023-08-17T11:57:19+00:00",
+  "updated_at": "2024-10-27T12:25:34+00:00",
+  "rating": 12,
+  "_site": "scpko",
+  "_fullname": "scp-cn-1021"
+}

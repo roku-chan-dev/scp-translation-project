@@ -1,0 +1,13 @@
+{
+  "title": "Front Page Top Announcement",
+  "content": "[!-- Standard announcement template --]\n[!--\n[[div class=\"content-panel centered standalone\" style=\"padding: 0.5rem 2rem;\"]]\n[[size 150%]]Announcement title[[/size]]\n\n[[size 110%]]Announcement body[[/size]]\n[[/div]]\n--]\n\n[[div style=\"text-align: center; display: block; color: #E9E9E9; background-color: #21252E; padding: 0.45rem 0.85rem; font-size: 1.15em; border-radius: 2rem 2rem 0 0; border-bottom: solid 0.325rem #EB6123;\"]]\n+ [[a href=\"/nightmarefest\" style=\"color: #EB6123;\"]]NIGHTMAREFEST[[/a]]\nThe voting period for **[[a href=\"/nightmarefest\" style=\"color: #EB6123\"]]NIGHTMAREFEST[[/a]]** has ended! Congrats to the winners:\n\n**[[a href=\"/scp-6274\" style=\"color: #EB6123\"]]SCP-6274[[/a]]** - HARBINGER II: The Burnley Estate (Inheritance), by [[*user Rounderhouse]]\n**[[a href=\"/scp-6061\" style=\"color: #EB6123\"]]SCP-6061[[/a]]** - GUILTY. GUILTY. GUILTY., by [[*user Ecronak]]\n**[[a href=\"/scp-6502\" style=\"color: #EB6123\"]]SCP-6502[[/a]]** - Harwick Cemetary, by [[*user bigslothonmyface]]\n\nRead these and the rest of the entries, along with **[[a href=\"/scp-5104\" style=\"color: #EB6123\"]]the[[/a]]** **[[a href=\"/scp-5421\" style=\"color: #EB6123\"]]prize[[/a]]** **[[a href=\"/scp-3100\" style=\"color: #EB6123\"]]features![[/a]]**\n\n[[/div]]",
+  "tags": [
+    "fragment"
+  ],
+  "author": "EstrellaYoshte",
+  "created_at": "2021-08-29T17:47:44+00:00",
+  "updated_at": "2022-08-24T22:59:21+00:00",
+  "rating": 0,
+  "_site": "scp-wiki",
+  "_fullname": "fragment:front-page-top-announcement"
+}

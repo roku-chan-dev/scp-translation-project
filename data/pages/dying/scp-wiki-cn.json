@@ -1,0 +1,14 @@
+{
+  "title": "一些人形异常·一个人形",
+  "content": "[[include :scp-wiki-cn:theme:minimal-scp-foundation-by-cocoonist]]\n[[module CSS]]\n.page-rate-widget-box {\n    display: block;\n}\n.page-rate-widget-box,\n.rate-points {\n    color: #666!important;\n}\n[[/module]]\n[[module css]]\ndiv#header {\n    background: url(http://scpsandboxcn.wdfiles.com/local--files/grassy-comic/dying.png) 10px 40px no-repeat;\n    background-position: 50% 45%;\n    background-repeat: no-repeat;\n    background-size: 120px auto;\n}\n[[/module]]\n\n[[div style=\"border:1px solid #000;padding:3px;\"]]\n[[=]]\n+++ 只是一篇逊毙艺作\n------\n[[module rate]]\n[[/=]]\n[[/div]]\n\n[[div style=\"border:1px solid #000;padding:3px;\"]]\n[[=]]\n[[collapsible show=\"SCP-CN-173\" hide=\"我被创造于此，我在找寻归宿\"]]\n[[image http://scpsandboxcn.wdfiles.com/local--files/grassy-comic/p1.png]]\n[[/collapsible]]\n------\n[[collapsible show=\"SCP-CN-444-J\" hide=\"我不适于做任何事\"]]\n[[image http://scpsandboxcn.wikidot.com/local--files/grassy-comic/p2.png]]\n[[/collapsible]]\n------\n[[collapsible show=\"SCP-CN-6666-J\" hide=\"我感到不适，我感到快乐\"]]\n[[image http://scpsandboxcn.wikidot.com/local--files/grassy-comic/p3.png]]\n[[/collapsible]]\n------\n[[collapsible show=\"SCP-CN-1010\" hide=\"我在享受，我在燃尽，我在承受\"]]\n[[image http://scpsandboxcn.wikidot.com/local--files/grassy-comic/p4.png]]\n[[/collapsible]]\n------\n[[collapsible show=\"SCP-CN-2901\" hide=\"我来自何处，我还有什么能够追寻\"]]\n[[image http://scpsandboxcn.wikidot.com/local--files/grassy-comic/p5.png]]\n[[/collapsible]]\n------\n[[collapsible show=\"SCP-CN-2666\" hide=\"我无法挣脱\"]]\n[[image http://scpsandboxcn.wikidot.com/local--files/grassy-comic/p6.png]]\n[[/collapsible]]\n------\n[[collapsible show=\"SCP-CN-717\" hide=\"操\"]]\n[[image http://scpsandboxcn.wikidot.com/local--files/grassy-comic/p7.png]]\n[[/collapsible]]\n[[/=]]\n[[/div]]",
+  "tags": [
+    "原创",
+    "艺术作品"
+  ],
+  "author": "Dr Roger_F_XL",
+  "created_at": "2022-04-24T09:30:28+00:00",
+  "updated_at": "2023-04-14T11:47:38+00:00",
+  "rating": 35,
+  "_site": "scp-wiki-cn",
+  "_fullname": "dying"
+}

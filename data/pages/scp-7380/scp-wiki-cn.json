@@ -1,0 +1,24 @@
+{
+  "title": "SCP-7380",
+  "content": "[[include :scp-wiki:component:centered-header-sigma-9]]\n[[include :scp-wiki:component:toggle-sidebar]]\n\n[[module CSS]]\n\n.footnotes-footer { \n    visibility: hidden; \n    height: 0;\n    padding: 0;\n    margin: 0;\n}\n\n#header h1 a::before{\n     text-shadow: 4px 4px 4px hsla(0, 0%, 0%, .8);\n}\n #header h2::before{\n     text-shadow: 3px 3px 3px hsla(0, 0%, 0%, .9);\n}\n\nspan:not([class]):not([style]) > sup.footnoteref:first-child > a.footnoteref:before,\nsup.footnoteref > a.footnoteref:before {\n  content: \"[\";\n}\nspan:not([class]):not([style]) > sup.footnoteref:first-child > a.footnoteref:after,\nsup.footnoteref > a.footnoteref:after {\n  content: \"]\";\n}\n\n[[/module]]\n\n[[include :scp-wiki:component:author-label-source start=--\n|name=Swordlover87]]\n[[=]]\n**SCP-7380 - 离群机器与倒悬之海。**\n\n[https://scp-wiki.wikidot.com/swordlover87-author-page More by me!]\n[[/=]]\n[[include :scp-wiki:component:author-label-source end=--]]\n\n[[include component:image-block\n| name= https://upload.wikimedia.org/wikipedia/commons/3/36/ROV_and_coral_-_Retriever_Seamount.jpg\n| caption=收起器械的SCP-7380。]]\n\n**项目编号：** SCP-7380\n\n**项目等级：** Keter \n\n**特殊收容措施：**SCP-7380目前未被收容。[https://scp-wiki-cn.wikidot.com/scp-6806 Site-58]已备有水栖收容单间，注满盐水，并配备重型钢板和泵/排水系统以调节内部水位。需注意，该单间只是一项初步措施，后续将制定更具体的收容措施。\n\n以收容无人机回收SCP-7380不可行。相应组建临时特遣队(PTF Digamma-58)，以击退其攻袭击并将其收容。ϝ-58的成员须擅长水上近战。\n\n获得更多信息前，SCP-7380-Ψ的栖息生物都将被视为敌人。\n\n**描述：**SCP-7380为一台有缆遥控水下机器人(ROV)，曾属于基金会Site-58。[[footnote]]该站点位于太平洋海底。[[/footnote]] \nSCP-7380的功能在与站点供电和控制中心完全断开的情况下仍然正常。此外，它还独立表现出异常行为和特征，表明其智能超过了机载计算机的能力。\n\nSCP-7380曾属于一批ROV之一，主要用于样本采集和侦查活动；具有小巧、轻便、灵活的特点，因而逃脱了所有的收容、追踪和监视。尽管它过去装有GPS跟踪器，但这些追踪设备在该异常脱离视野后一直处于失效状态。理论上，SCP-7380可能使用某种形式的空间转移来逃避捕获并意外出现，但尚未证实。\n\nSCP-7380的异常性质因一起海带林中的无关异常而得到证实。其当时的操作员，高级研究员Johannah Smith，描述了SCP-7380的反常表现：\n\n> 它的反应和往常不一样。我正试着从一根海带茎上采集样本，但采样臂一直在抖。其他设备在我没有打开它们的时候也会自发启动，就好像有自己的想法一样。\n\n随后SCP-7380的缆绳报告损坏。Smith猜测是鲨鱼或其他水生动物咬断了电缆，试图启动防御措施，但发现她的控制装置没有反应。显示器似乎垂直倒置，此后不久与SCP-7380失去联系。\n\n[[include component:image-block\n| name=https://upload.wikimedia.org/wikipedia/commons/5/57/Underwater_ROV_Manipulator_Arm_4.jpg\n| caption=SCP-7380传来的最后图像。注意左上方的蓝光，目前未知其来源。]]\n\n回收队发现电缆被利落切断，SCP-7380不知所踪。\n\n此事的重要性一直悬而未决，直到第二周，SCP-7380毫无征兆地再次出现并袭击收容队。\n由于人员毫无防备，它成功伤及三名研究人员，其中一人重伤，后被击退。堪堪避免了生命损失。\n\nSCP-7380自此对基金会保持敌意。它屡次扰乱Site-58的行动，尤其对无关水生异常的收容造成妨碍。通常，它会使用其机械臂和采样工具来攻击收容人员或损坏他们的呼吸设备。数次捕获收容目标[[footnote]]详见SCP-████，SCP-█████。[[/footnote]]后潜逃；以这种方式被盗的异常下落不明。\n\n此外，SCP-7380积极将基金会操作的远程载具作为目标。在所有观察到的案例中，它都使这些载具完全无法运行，然后拾取其残余以强化自身。随着时间推移，这种做法显著提高了其作战能力；故无限期暂停ROV与SCP-7380进行接触。\n\n已注意到在与SCP-7380的所有遭遇中，其线缆似乎向海洋中无限延伸，超过了能见度极限。 -- 终止点尚未发现。--\n@@ @@\n------\n[[=]]\n**附录7380-01：视频记录**\n[[/=]]\n------\n@@ @@\n在近期遭遇战中，基金会技术人员携带的PTF ϝ-58暂时能够重新连接到该异常的机载摄像机，使得SCP-7380逃离ϝ-58 后的部分行程被记录下来。结果，发现了一个暂定为SCP-7380-ψ的异常地点。\n\n转录如下：\n\n[[div class=\"blockquote\"]]\n= **<转录开始>**\n\n//视频连接已建立。SCP-7380正在加速远离ϝ-58操作员；其摄像头最初对准他们，随即旋转面朝行进方向。它以极快的速度潜入海底裂缝中，将缆绳拖在身后。这一点使得ϝ-58无法进一步追踪异常并被迫撤离。//\n\n//SCP-7380在裂缝中水平行进约22分钟。它周期性减速以侦查海洋生物，例如鲨鱼和小螃蟹，但总路径不变。它似乎在向后追随自己的缆线。//\n\n//最终，一个急转弯后豁然开朗。SCP-7380出现，镜头扫摄周围。根据视觉线索，它已从上层海洋区进入中层海洋区；可以看到成群的鱼在广阔的海带丛间游动。SCP-7380漂到一个巨大的海沟边缘停下，缆线在里面。//\n\n//SCP-7380向下倾斜并开始缓慢下降到沟中。随着它的深入，海洋生物变得越来越常见。沟壁开始变窄，生物群落稠密，通常难以导航——然而，SCP-7380前方的海洋生物正开路让它通过。能见度因庞大的生物体数量而变差。//\n\n//此时，SCP-7380下方出现蓝色光芒。画面受到轻微干扰。//\n\n//SCP-7380靠近光源：一个垂直洞口，它的缆绳继续伸入其中。当它经过时，镜头会莫名其妙发生反转，同时质量急剧下降。//\n\n//在第四十分钟，SCP-7380出现在一个巨大的空间中，难以确定确切尺寸。种种迹象表明，这个空间与倒置的海洋非常相似，水面位于SCP-7380下方，向上延伸到海底裸露着岩石。种类不明的大量死鱼正向下漂浮到海面。一种未知发光物质——可能是微生物——悬浮在水中。除此之外，没有生命存在。 SCP-7380的摄像头旋转一圈，缆绳向右延伸。//\n\n//同样在右侧还有一栋巨大的人造建筑，由几根支柱固定在倒悬的海底，一个藤壶密布的腐蚀洞口位于侧面，隐约可以看到一块磨损的铭牌，上面写着“85-Ǝ⊥IS”[原文如此]。 SCP-7380的缆线伸进洞里，看不见了。//\n\n//SCP-7380接近建筑侧面的洞，里面蓝光大盛——与眼睛非常相似。//\n\n//画面丢失。//\n\n= **<转录结束>**\n[[/div]]\n\n[[div class=\"footer-wikiwalk-nav\"]]\n[[=]]\n<< [[[SCP-7379]]] | SCP-7380 | [[[SCP-7381]]] >>\n[[/=]]\n[[/div]]",
+  "tags": [
+    "keter",
+    "scp",
+    "地下",
+    "地点",
+    "基金会制",
+    "建筑",
+    "感知力",
+    "敌意",
+    "未收容",
+    "水生",
+    "自主",
+    "载具"
+  ],
+  "author": "Hg-lab",
+  "created_at": "2022-09-10T09:13:01+00:00",
+  "updated_at": "2024-11-08T15:53:40+00:00",
+  "rating": 2,
+  "_site": "scp-wiki-cn",
+  "_fullname": "scp-7380"
+}

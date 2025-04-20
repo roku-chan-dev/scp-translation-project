@@ -1,0 +1,23 @@
+{
+  "title": "SCP-5999",
+  "content": "[[include :scp-wiki-cn:theme:black-highlighter-theme]]\n\n[[module ListPages  category=\"fragment\" parent=\".\" limit=\"1\" order=\"name\" offset=\"@URL|0\"]]\n%%content%%\n[[/module]]\n\n[!--\n段落页：\nhttp://scp-wiki-cn.wikidot.com/fragment:scp-5999-1\nhttp://scp-wiki-cn.wikidot.com/fragment:scp-5999-2\nhttp://scp-wiki-cn.wikidot.com/fragment:scp-5999-3\n--]\n\n[[footnoteblock]]\n\n[[div class=\"footer-wikiwalk-nav\"]]\n[[=]]\n<< [[[SCP-5998]]] | SCP-5999 | [[[SCP-6000]]] >>\n[[/=]]\n[[/div]]",
+  "tags": [
+    "5000",
+    "meta",
+    "scp",
+    "人形生物",
+    "信息危害",
+    "合著",
+    "机密分级",
+    "活物",
+    "现象",
+    "视频",
+    "音频"
+  ],
+  "author": "Sharethesilence",
+  "created_at": "2020-02-26T04:57:34+00:00",
+  "updated_at": "2024-06-01T01:09:19+00:00",
+  "rating": 160,
+  "_site": "scp-wiki-cn",
+  "_fullname": "scp-5999"
+}

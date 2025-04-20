@@ -1,0 +1,24 @@
+{
+  "title": "SCP-6020",
+  "content": "[[=]]\n[[module Rate]]\n[[/=]]\n\n[[module ListPages  category=\"fragment\" parent=\".\" limit=\"1\" order=\"created_at\" offset=\"@URL|0\"]]\n%%content%%\n[[/module]]\n\n[[footnoteblock]]\n\n[[div class=\"footer-wikiwalk-nav\"]]\n[[=]]\n<< [[[SCP-6019]]] | SCP-6020 | [[[SCP-6021]]] >>\n[[/=]]\n[[/div]]\n\n[[include :scp-wiki:component:license-box]]\n=====\n> **Filename:** SCPHeader.png\n> **Name:** \"Standing stones , Machrie Moor\"\n> **Author:** gailhampshire\n> **License:** CC BY 2.0\n> **Source Link:** https://search.creativecommons.org/photos/48190dd6-6632-418c-bef4-55afc54b5659 / https://www.flickr.com/photos/43272765@N04/39106561512\n> **Additional Notes:** Image was cropped.\n=====\n> **Filename:** SCPBody.png\n> **Name:** \"Standing stones , Machrie moor\"\n> **Author:** johnomason\n> **License:** CC BY 2.0\n> **Source Link:** https://search.creativecommons.org/photos/03f812e7-9851-4580-aed9-0fcf33345b80 / https://www.flickr.com/photos/91451979@N00/8640769988\n> **Additional Notes:** Image was cropped.\n=====\n> **Filename:** Site-171.png\n> **Name:** \"Universität von East Anglia\"\n> **Author:** blank space\n> **License:** CC BY 2.0\n> **Source Link:** https://commons.wikimedia.org/w/index.php?curid=970163\n> **Additional Notes:** Image was cropped.\n=====\n[[include :scp-wiki:component:license-box-end]]\n\n[!-- https://scp-wiki.wikidot.com/fragment:scp-6020-1 --]\n[!-- https://scp-wiki.wikidot.com/fragment:scp-6020-2 --]",
+  "tags": [
+    "6000",
+    "_cc",
+    "_licensebox",
+    "_listpages",
+    "empathic",
+    "immobile",
+    "ritual",
+    "sapient",
+    "scp",
+    "structure",
+    "telepathic",
+    "thaumiel"
+  ],
+  "author": "Uncannyon",
+  "created_at": "2021-06-01T03:52:12+00:00",
+  "updated_at": "2024-10-29T03:39:44+00:00",
+  "rating": 185,
+  "_site": "scp-wiki",
+  "_fullname": "scp-6020"
+}

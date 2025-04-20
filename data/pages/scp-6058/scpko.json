@@ -1,0 +1,18 @@
+{
+  "title": "SCP-6058",
+  "content": "[[include info:start]]\n**SCP-6058:** 복제 기계\n**원작:** https://scp-wiki.wikidot.com/scp-6058\n**작가:** [[*user stoner99]]\n**역자:** [[*user Langston77]]\n-----\n\"복제 기계\" by stoner99\n\n여기서 저의 더 많은 작품들을 읽어보는 것을 추천합니다. \n→ https://scp-wiki.wikidot.com/stoner99-author-page\n\n> **파일명:** 6058\n> **원본:** File:Clockworks - Providenzkirche - Heidelberg, Germany - DSC01540.jpg\n> **저작권자:** Daderot\n> **라이선스:** CC0\n> **출처:** [https://commons.wikimedia.org/wiki/File:Clockworks_-_Providenzkirche_-_Heidelberg,_Germany_-_DSC01540.jpg Wikimedia Commons]\n[[include info:end]]\n\n[[include :scp-wiki:component:image-block-base name=https://scp-wiki.wdfiles.com/local--files/scp-6058/6058|width=300px|caption=SCP-6058|align=right]]\n\n**일련번호:** SCP-6058\n\n**등급:** 안전\n\n**특수 격리 절차:** SCP-6058은 제07기지의 개조된 변칙 물품 보관함에 보관한다. 실험은 금지되어 있다. \n\n**설명**: SCP-6058은 어떤 생물의 유효한 DNA 샘플이 제공되면 그 생물이 멸종되었는지 여부와 상관 없이 그 생물의 살아있는 표본을 생성할 수 있는 기계 장치이다. \n\nSCP-6058이 해당 기능을 실행하는 속도는 가변적이며, 이는 샘플이 제공된 생물의 크기에 따른 것으로 여겨진다. 실행이 완료되면, SCP-6058은 기계의 맨 아래 부분에 있는 금속 배출관을 통해 생물의 복제본을 배출한다. SCP-6058의 내부 구조를 분석하려는 추가 시도는 실패로 끝났다. \n\n**실험 기록:** \n\n||~ 실험 번호||~ 대상||~ 결과||\n||1||닭 깃털||SCP-6058이 수탉 한 마리를 생성하였다.||\n||2||돼지고기 1온스||SCP-6058이 돼지 한 마리를 생성하였다.||\n||3||타란튤라 다리||SCP-6058이 타란튤라 한 마리를 생성하였다.||\n||4||타란튤라 사체||SCP-6058이 타란튤라 한 마리를 생성하였다.||\n||5||타란튤라 사체 2구||SCP-6058이 타란튤라 두 마리를 생성하였다.||\n||||||||||||= [72개의 행 생략됨]||\n||78||맘모스 화석.||SCP-6058이 약 8시간 동안 무리하게 작동하다가 어떤 물체를 생성하였으며, 후에 새끼 털매머드의 사체로 밝혀졌다. 사인은 질식사로 판명되었다. ||\n||79||벨로키랍토르 화석||SCP-6058이 물질을 받아들이지 않고 기능하지 않았으며, 그 다음 실험에서도 비슷한 결과가 나왔다. [[[SCP-4041|추가적인 조사가 보류 중이다.]]]||\n||80||300,000년 전 인간 뼈 조각||부록 참고.||\n\n**부록:** 80번 실험 도중, SCP-6058이 약 48시간 동안 무리하게 작동하다가 배출관으로 작은 양피지 조각을 내놓고 일시적으로 기능을 정지하였다. 양피지의 내용은 다음과 같았다. \n\n[[collapsible show=\"+ 열기\" hide=\"- 닫기\"]]\n\n> **{{오류! 9,000 킬로그램을 초과하는 제품을 생성하려면 결제 플랜을 업그레이드하십시오.}}**\n\n[[/collapsible]]",
+  "tags": [
+    "en",
+    "scp",
+    "기계",
+    "소생",
+    "안전",
+    "외부엔트로피"
+  ],
+  "author": "Langston77",
+  "created_at": "2022-02-28T13:23:26+00:00",
+  "updated_at": "2025-01-16T15:42:12+00:00",
+  "rating": 13,
+  "_site": "scpko",
+  "_fullname": "scp-6058"
+}

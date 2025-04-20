@@ -1,0 +1,17 @@
+{
+  "title": "SCP-1665",
+  "content": "[[div class=\"code\"]]\n[[include :scpko:theme:classic]]\n[[/div]]\n[[module CSS]]\ndiv.box {\n    border: 1px solid black;\n    background: white;\n    padding: 0.5rem;\n    margin: 0.5rem;\n    flex-basis: 50%;\n}\n\ndiv.clues {\n    display: flex;\n    flex-wrap: nowrap;\n    justify-content: space-evenly;\n    align-items: flex-start;\n}\n\n@media screen and (max-width: 500px) {\n    div.box {\n        flex-basis: 100%;\n    }\n    div.clues {\n        flex-wrap: wrap;\n    }\n}\n[[/module]]\n\n[[include info:start]]\n**SCP-1665:** 가로 8번, 가로 18번\n**저자:** [[*user observerseptember]]          \n**원작:** http://www.scp-wiki.net/scp-1665\n**역자:** [[*user cubic72]]\n-----\n> **파일명:** SCP-1665.png\n> **출처:** https://scpko.wikidot.com/scp-1665\n> **제작자:** [[*user cubic72]]\n> **라이센스:** CC BY-SA 3.0\n[[include info:end]]\n\n[[image SCP-1665.png]]\n\n[[div class=\"box clues\"]]\n\n[[div class=\"box\"]]\n__**[[size 120%]]가로[[/size]]**__\n**1.** @@________@@의 변칙적 특성은 누군가가 대상에 관하여 서면 혹은 물리적인 기록을 남기려고 할 때 발현된다.\n**5.** SCP-1665는 캐나다의 [편집됨]에 있는 중고품 @@__@@ 판매점에서 발견되었다..\n**6.** @@__@@:\n**8.** 설명: SCP-1665는 1999년에 저작권을 얻어 @@_____@@ 퍼즐즈에서 출판한 [편집됨] 상표 책이다.\n**10.** 이 때문에, @@_____@@는 SCP-1665에 관련된 정보를 보관하는 권장되는 방법이다.\n**12.** 실험 중의 SCP-1665에 관한 @@_____@@은 반드시 음성의 형태로 기록된다.\n**14.** SCP-1665는 제39@@__@@의 저가치 물체 동의 보관함에 보관된다.\n**16.** @@_________@@:\n**18.** 모든 서면 기록은 십자말풀이 @@__@@의 형태로 변형될 것이며, 이는 SCP-1665에 관한 정보의 보관을 어렵게 만든다.\n[[/div]]\n\n[[div class=\"box\"]]\n__**[[size 120%]]세로[[/size]]**__\n**1.** 등급: 안전(@@____@@)\n**2.** SCP-@@____@@를 가지고 하는 실험들은 3등급 연구원의 사전 승인이 필요하다.\n**3.** 대상의 입수 이후, SCP-1665는 @@__@@의 서로 다른 시점에 실험되었다.\n**4.** @@__@@은 SCP-1665을 '마법의 십자말풀이 책'이라 홍보하며 계속해서 판매하려고 시도했다.\n**7.** 재단 요원 한 명이 책과 그 주인에 관한 정보를 @@__@@하려 시도한 뒤 책을 획득하였다.\n**9.** @@___@@ 박사의 명령으로, SCP-1665는 대상의 낮은 정보 가치로 인해 추후 공지가 있기 전까지는 모든 실험이 중지된다.\n**11.** SCP-1665의 특성은 @@_____@@이나 다른 비문자 방식의 문서화는 영향을 주지 않는다.\n**13.** SCP-1665의 퍼즐들은 문장의 단어를 빈칸으로 교체한다. 그로 인해, 퍼즐들은 대체로 @@__@@가 별로 어렵지 않다.\n**15.** SCP-1665의 십자말풀이 퍼즐은 주로 날씨나 @@__@@ 같은 일상적인 주제를 담고 있고 푸는데 매우 적은 노력이 필요한 것으로 보아 아이들을 대상으로 하는 것으로 보인다.\n**17.** 책에 있는 @@_____@@은 미해결 상태이고, 사용으로 인한 훼손은 거의 없었다.\n[[/div]]\n\n[[/div]]",
+  "tags": [
+    "en",
+    "scp",
+    "메타",
+    "문서",
+    "안전"
+  ],
+  "author": "Cubic72",
+  "created_at": "2013-11-28T15:06:41+00:00",
+  "updated_at": "2024-11-27T02:01:27+00:00",
+  "rating": 13,
+  "_site": "scpko",
+  "_fullname": "scp-1665"
+}

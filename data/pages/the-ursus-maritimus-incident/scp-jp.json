@@ -1,0 +1,17 @@
+{
+  "title": "北極熊事件",
+  "content": "[[>]]\n[[module Rate]]\n[[/>]]\n\n[[include :scp-jp:theme:black-highlighter-theme]]\n[[module CSS]]\n@import url('http://scp-wiki.wdfiles.com/local--files/component%3Awilsons-theme/national-park.css');\n\n/* FONTS */\n#header h2 span:before, #top-bar, #side-bar {\n    font-family: var(--header-font); /*Makes subtitle National Park */\n}\n\n:root {\n --logo-image: url(\"http://scp-jp-storage.wdfiles.com/local--files/file:2375337-534-3sib/logo.png\");\n    --header-title: \"Wilson's Wildlife Solutions\";\n    --header-subtitle: \"A Polar Bear in Boring\";\n    --header-font: 'national_parkregular', sans-serif;\n\n    --pale-accent: 40, 106, 230;\n    /* light red, for visited links */\n    --bright-accent: 5, 0, 133;\n    /* bright red */\n    --medium-accent: 95, 132, 191;\n    /* medium red - the \"default\" accent color */\n    --dark-accent: 15, 3, 100;\n    /* dark red */\n    --alt-accent: 17, 102, 0;\n    /* pale orange, for newpage links */\n}\n/* Haha blue boi */\n.outside {\n  margin: 2em -6em;\n  padding: 1em 10em;\n  --narration-color: rgba(214, 234, 248,1);\n  background: var(--narration-color);\n  background: linear-gradient(90deg, rgba(255,255,255,0) 0%, var(--narration-color) 20%, var(--narration-color) 80%, rgba(255,255,255,0) 100%);\n  z-index: -2;\n}\n\n/* Force the side bar to render on top of the blue bois */\n#side-bar {\n  z-index: 2;\n}\n\n/* Hide the original page title */\n#page-title {\n  display: none;\n}\n\n@media only screen and (max-width: 768px) {\n    #header {\n        background-size: 0.625rem 2.500rem;\n        background-repeat: no-repeat;\n        background-position: left 0.75rem top 1.1875rem;\n        background-clip: border-box;\n        background-size: auto 5.375rem;\n    }\n} /* Fixes mobile sizing issue */\n\nbody {\n  overflow-x: hidden;\n}\n[[/module]]\n\n[[div class=\"outside\"]]\n[[=]]\n[[image ursusmaritimus.jpg]]\n[[/=]]\n//“我々は1997年から運営されています — 当時の私はまだ42歳の若造でした。2008年に伝説的なボーリング協定を(忌まわしき**北極熊事件**の後で)結んで以降は正式な監督下に置かれています。”//\n\n= -- [[[wilson-s-wildlife-solutions-hub|ウィルソンズ・ワイルドライフ・ソリューションズ]]]、ティム・ウィルソン\n@@ @@\n----\n//“私たちはこの生き物に名前を付けていないが、一緒にいた頃、ワイルドライフ・センターの皆は彼を単に「ホッキョクグマ」とだけ呼んでいた。”//\n\n= -- //生き物プロフィール: ホッキョクグマ！//より\n\n//“私は彼女と話をして、私たちが入院費を肩代わりすると伝えたいだけです。多分またローンを組むことになるでしょうが、そんなのはどうでもいいんです。”//\n\n= -- //UIUファイル: 2008-021//より\n\n//“話を遮ってしまい申し訳ありません。ですが重要なのは、こうした事例は全てケースバイケースで対処できるものの、集合的に見るとウィルソンズ・ワイルドライフが能力以上の職務に手を出しつつあるという事なのです。我々はこれに対して何か手を打つべきです。”//\n\n= -- //オン・ザ・レーダー//より\n@@ @@\n[[/div]]\n\n@@ @@\n[[=]]\n[[Size 230%]]//始まりを選ぼう。\n間違った道筋なんて無い。//[[/SIZE]]\n[[/=]]\n\n@@ @@\n[[table style=\"width: 100%\"]]\n[[row ]]\n[[cell]]\n[[SIZE 250%]]**[http://ja.scp-wiki.net/critter-profile-the-polar-bear ホッキョクグマ]**[[/size]]\n[[/cell]]\n[[cell style=\"text-align: center\"]]\n@@ @@\n[[/cell]]\n[[cell style=\"text-align: right\"]]\n[[SIZE 250%]]**[http://ja.scp-wiki.net/on-the-radar オン・ザ・レーダー]**[[/size]]\n[[/cell]]\n[[/row]]\n[[/table]]\n\n[[table style=\"width: 100%\"]]\n[[row ]]\n[[cell]]\n@@ @@\n[[/cell]]\n[[cell style=\"text-align: center\"]]\n[[=]]\n[[SIZE 250%]]**[http://ja.scp-wiki.net/uiu-file-2008-21 UIUファイル: 2008-21]**[[/size]]\n[[/=]]\n[[/cell]]\n[[cell style=\"text-align: right\"]]\n@@ @@\n[[/cell]]\n[[/row]]\n[[/table]]\n@@ @@\n@@ @@",
+  "tags": [
+    "en",
+    "ウィルソンズ・ワイルドライフ",
+    "ハブ",
+    "共著",
+    "異常事件課"
+  ],
+  "author": "C-Dives",
+  "created_at": "2019-07-27T04:02:29+00:00",
+  "updated_at": "2023-02-05T00:51:50+00:00",
+  "rating": 44,
+  "_site": "scp-jp",
+  "_fullname": "the-ursus-maritimus-incident"
+}

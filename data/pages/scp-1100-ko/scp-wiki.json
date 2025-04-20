@@ -1,0 +1,18 @@
+{
+  "title": "SCP-1100-KO",
+  "content": "@@@@\n@@@@\n[!--\n@s are to block info module blockage.]\n--]\n[[include :scp-wiki:info:start]]\n**SCP-1100-KO:** Infinite Monkey Theorem\n\n**Author:** [[*user SSRI]]\n\n**Translator:** [[*user fluxman]]\n\nFor translations and editing, please visit the fragment pages below.\n\nhttps://scp-wiki.wikidot.com/fragment:scp-1100-ko-0\nhttps://scp-wiki.wikidot.com/fragment:scp-1100-ko-1\nhttps://scp-wiki.wikidot.com/fragment:scp-1100-ko-2\nhttps://scp-wiki.wikidot.com/fragment:scp-1100-ko-3\nhttps://scp-wiki.wikidot.com/fragment:scp-1100-ko-4\n[[include :scp-wiki:info:end]]\n\n[[module ListPages category=\"fragment\" parent=\".\" order=\"created_at\" limit=\"1\" offset=\"@URL|0\"]]\n%%content%%\n[[/module]]",
+  "tags": [
+    "_ko",
+    "_listpages",
+    "esoteric-class",
+    "international",
+    "probability",
+    "scp"
+  ],
+  "author": "fluxman",
+  "created_at": "2022-11-24T07:04:35+00:00",
+  "updated_at": "2023-12-17T14:32:14+00:00",
+  "rating": 13,
+  "_site": "scp-wiki",
+  "_fullname": "scp-1100-ko"
+}

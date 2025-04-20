@@ -1,0 +1,14 @@
+{
+  "title": "SCP-2",
+  "content": "[[module css]]\n#page-title {\n  display: none;\n}\n\n.typeborder{\nborder: 1px solid rgba(180,180,180,1);\npadding: 4px 150px 4px 4px;\nfont-size: 1.2em;\nfont-weight: bold;\n}\n[[/module]]\n\n+ 新しいページを作る\nページのタイトル: **[[span class=\"typeborder\"]]##black|SCP-2についてのメモ##[[/span]]**\n\n[[div style=\"display: inline-block; border: solid 1px #444444; background: #bdd5fc; margin-left: auto; margin-right: auto; width: auto; padding: 10px; color: black;\"]]\n= **研究員メモ**\n[[div style=\"border-bottom: 1px solid black;\"]]\n[[/div]]\nあなたの懸念を軽減するために、\n\nいいえ、SCP-2は急速に発生しつつある世界的エネルギー危機を失くすために、無限に供給される死んだ神の力を使おうとしているわけではない。いいえ、それはならず者要注意団体に足掛かりを増やすための機密作戦軍事化キャンペーンではない。そしていいえ、それは財団の最底辺ではない、なぜなら私たちは今まで目に留めるべきではなかった岩の下にあるものを見つけたのだから、そしてそれは私たちを虜にするだろう。\n\nそれはただのネット上の馬鹿馬鹿しいバグである。それが全てだ。約束する。どうして私がSCP-2指定なんかを承認する?くだらん脳無し野郎のために私を連れていくのか?来い。そしてそれにアクセスするのを止めろ。いいか、そんなものは存在しないし、その質問全部が丸1日かけても処理を欠かせないくらい莫大な負荷をネットワークにかけているんだ。\n\n私は緊張性胃痛のためのタイレノールを摂り、何かしらのお茶を飲み、そして私の受信箱を蝕む技術的問題の永遠に終わらないこのバックログに恐らく取り組むだろう。\n\nもし貴方が叫びを聞くのなら、完全に理由がわかるだろうよ。\n[[div style=\"border-bottom: 1px solid black;\"]]\n[[/div]]\n[[>]]\n-- ローゼン技術研究員\n[[/>]]\n[[/div]]\n@@ @@\n@@ @@\n@@ @@\n@@ @@\n@@ @@\n----\n@@ @@\n@@ @@\n@@ @@\n@@ @@\n@@ @@\n[[div style=\"display: inline-block; border:solid 1px #444444; background:#ffffff; float:top; width:96.5%; padding:10px\"]]\n= **事案記録S-42-2018-10-22**\n----\n東部標準時10月22日9時15分、サイト-42がノースカロライナ州の海岸線から約3km沖で奇跡論性擾乱を検出しました。顕現後、擾乱は2時間の天候異常を発生させ、直径22cmのワームホールの出現させて終了しました。対応チ－ムはSCP-████の再収容を行っている最中であったため、ワームホールへの派遣は不可能でした。\n\nイベント発生から5時間後、サイト-42は大規模な電力サージに見舞われました。サイト司令部はシミュ空間投影棟に由来するサージであると認識しました。当時シミュ空間投影棟が使用される予定はありませんでした。サイト全体で調査が行われている間に、サイトが2秒間ワームホールと同じ程度の強力な奇跡論的エネルギーを放射し、その時点でサイトは停電しました。非常用発電機が作動すると、奇跡論性擾乱は停止しました。調査チームはこれ以上の情報収集を行っていません。\n[[/div]]\n@@ @@\n@@ @@\n@@ @@\n@@ @@\n@@ @@\n[[=]]\n[[div style=\"display: inline-block; border: dashed 1px #444444; background:#F5F5F5; margin-left: auto; margin-right: auto; width: 380px; padding: 10px; color: black;\"]]\nあなたは誓いをぜんぶ破り\nあなたは軽いやつだと\nあなたの名前が話されるのを聞いて\n\n今**2たり**は恥ずかしくなる\n[[/div]]\n[[/=]]",
+  "tags": [
+    "en",
+    "フラグメント"
+  ],
+  "author": "Hasuma_S",
+  "created_at": "2019-01-17T08:34:19+00:00",
+  "updated_at": "2021-01-10T17:27:44+00:00",
+  "rating": 0,
+  "_site": "scp-jp",
+  "_fullname": "fragment:scp-2-4"
+}

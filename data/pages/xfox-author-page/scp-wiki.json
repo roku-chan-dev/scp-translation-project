@@ -1,0 +1,14 @@
+{
+  "title": "xFox Author Page",
+  "content": "[[include component:image-block\n    name=profileart.jpg|\n    caption=Agent █████ during the exploration of [REDACTED].\n]]\n\nThe Riverdale Stuff Contained for Purposes Foundation (RSCPF) was established to contain RSCP-001, after the Foundation transferred responsibility of containing the object to the federal government. The RSCP has been incorporated with the Foundation in order to contain the many anomalies within the region encompassing Riverdale.\n\n[[collapsible show=\"+ Document XF-01\" hide=\"- Close\"]]\n[[[SCP-3235|SCP-3235]]] - \"The Baba-disease\"\n[[[SCP-3325|SCP-3325]]] - \"Live Entertainment\"\n[[[SCP-3409|SCP-3409]]] - \"The Chocolate Factory\"\n[[[SCP-3574|SCP-3574]]] - \"Lambs to the Slaughter\"\n[[[SCP-3607|SCP-3607]]] - \"Residence Evil\"\n[[[SCP-3974|SCP-3974]]] - \"Such Sweet Sorrow\"\n[[/collapsible]]\n\n[http://scpsandbox2.wikidot.com/redemptioninitiative [DATA EXPUNGED]]",
+  "tags": [
+    "_cc",
+    "author"
+  ],
+  "author": "xFox",
+  "created_at": "2017-07-18T04:37:45+00:00",
+  "updated_at": "2024-09-15T02:37:04+00:00",
+  "rating": 20,
+  "_site": "scp-wiki",
+  "_fullname": "xfox-author-page"
+}

@@ -1,0 +1,19 @@
+{
+  "title": "SCP-6132-J",
+  "content": "[[module css]]\nsup { \n\nvertical-align: top; position: relative; top: -0.5em; \n}\n[[/module]]\n\n\n[[=]]\n[[image http://scp-wiki.wdfiles.com/local--files/scp-6132-j/warning.png]]\n@@@@\n[[=image http://scp-wiki-cn.wdfiles.com/local--files/scp-6132-j/6132-J.png]]\n[[/=]]\n\n-----\n\n[[div class=\"scp-image-block block-center\" style=\"width:700px;\"]]\n[[image http://scp-wiki.wdfiles.com/local--files/scp-6132-j/1976.jpg style=\"width:700px;\" link=#]]\n[[div class=\"scp-image-caption\" style=\"width:700px;\"]]\n图为SCP-6132-J的非异常复制品。\n[[/div]]\n[[/div]]\n\n-----\n\n**特殊收容措施：**SCP-6132-J目前被保存在Site-88第12层的标准收容柜内。在对该项目的测试前必须向6132-J项目负责人申请许可并得到批准。\n\n**描述：**SCP-6132-J是一组由Rand McNally公司出版的、带有数个无法识别区域的地图。该地图中除陆地外其他地理特征均无法被命名。\n\n使用SCP-6132-J的个体能够识别其标示无法识别区域的地理类型，但使用者在描述中会将类型简单概括为“海洋”或“河流”，无法回想起该地理位置的命名。\n\nSCP-6132-J于1976年首次在Kirk Lonwood高中地理教学资料中被发现。调查表明与SCP-6132-J一起存放的其他资料均未发现异常。可向6132-J项目负责人申请许可调查全部馆藏。\n\n[[collapsible show=\"+ 6132-J测试记录\" hide=\" \"]]\n\n以下采访由Aktus博士在低危险度物品的常规复检中进行。\n\n> **Dr. Aktus：**你好，你可以看一下这组地图吗？\n> \n> **D-10013：**当然了。\n> \n> **Dr. Aktus：**接下来我会问你几个问题来了解一下你对基础地理知识的掌握情况。\n> \n> **D-10013：**可以啊。\n> \n> //Aktus博士指向地图的左上角。//\n> \n> **Dr. Aktus：**你能告诉我这是哪个大陆吗？\n> \n> **D-10013：**哈，那不是北美洲吗。\n> \n> //Aktus博士指向地图的中上部分。//\n> \n> **Dr. Aktus：**很好，那这里呢？\n> \n> **D-10013：**欧洲。你别告诉我认地图就是我今天的全部安排。\n> \n> //Aktus博士指向了北美与欧洲大陆之间的区域。//\n> \n> **D-10013：**等等，那是啥？\n> \n> **Dr. Aktus：**你能描述一下这里吗？\n> \n> **D-10013：**我…… //（他停顿了一会儿）//我不知道。\n> \n> //Aktus博士指向地图最右侧的空白区域。//\n> \n> **Dr. Aktus：**你能说出这个地区的名字吗？\n> \n> **D-10013：**不—— 我　　　不　　　认　　　得　　　[[a href=\"/scp-2316\"]]水##F5F5F5|里的尸##体[[/a]]。\n\n其余测试均以类似的结果告终。\n\n[[/collapsible]]",
+  "tags": [
+    "76年班",
+    "aktus主管",
+    "safe",
+    "scp",
+    "搞笑",
+    "文件",
+    "精神影响"
+  ],
+  "author": "Ivi-Jinn",
+  "created_at": "2018-10-14T12:33:56+00:00",
+  "updated_at": "2024-04-08T15:11:49+00:00",
+  "rating": 2,
+  "_site": "scp-wiki-cn",
+  "_fullname": "scp-6132-j"
+}

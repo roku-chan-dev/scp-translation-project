@@ -1,0 +1,25 @@
+{
+  "title": "SCP-3792",
+  "content": "[[>]]\n[[module Rate]]\n[[/>]]\n\n[[include component:image-block name=scpsmoke.png|caption=Instance of SCP-3792-1 under illumination mid-formation.]]\n\n\n**Item #:** SCP-3792\n\n**Object Class:** Safe\n\n**Special Containment Procedures:** SCP-3792 is enclosed within a hermetically sealed cylinder composed of acrylic plastics. This container is held in a locker located in [[[secure-facility-dossier-site-77| Site-77's]]] Safe SCP object wing. Any research on SCP-3792 is subject to approval by the lead researcher, Dr. Gerard. It is not believed that SCP-3792 has any damage-resistant properties; as such, care is to be taken when handling it directly.\n\n**Description:** SCP-3792 is an aerosol can capable of producing an unlimited quantity of black smoke. The exterior label reads \"[[[chicago-spirit| Smells Like Chicago Spirit]]]\"; other than this, there are no identifying marks on any portion of the canister. \n\nWhen used, smoke produced by SCP-3792 will form into autonomous figures. Designated SCP-3792-1, they resemble humanoid silhouettes. Their appearance lacks detail, with only basic facial features and extremities being clearly visible. Despite this, smoke in the shape of clothing and various tools may also manifest in the possession of SCP-3792-1. These have included ski masks, crowbars, glass cutters, and occasionally small unidentifiable objects for purposes such as lock-picking. Smoke from SCP-3792 generates a number of SCP-3792-1 correlating to the amount released. \n\nSCP-3792-1 collectively attempts to obtain an object desired by the last living human subject any of them individually came into physical contact with. This may reflect unconscious notions, or expressly coveted items. Directly coming into contact with an instance of SCP-3792-1 causes human subjects to report feeling as though their stomach is empty. A subsequent lack of energy or motivation has also been reported in these subjects, although it is unknown whether this correlates directly to SCP-3792's effect or a secondary non-anomalous effect caused by SCP-3792-1's effect on their lives. \n\nFollowing contact, all existing SCP-3792-1 will then attempt to enter the location in which the affected subject believes the object(s) of their desire is located. SCP-3792-1 can materialize as clouds of smoke which may infiltrate a building by clinging to clothing or inhabiting the inside of suitcases or other containers. In addition, SCP-3792-1 entities may enter using traditional burgling means. When unable to find any object of desire, SCP-3792-1 will intentionally initiate contact with another subject.\n\nAny of the desired object(s) coming into contact with SCP-3792-1 will be momentarily engulfed in flames. This does not destroy the object or reduce it to ash. Instead, once the flames recede affected object(s) will display a smoke-like composition similar the SCP-3792-1's appearance. SCP-3792-1 will then return to the vicinity of SCP-3792 with the affected item(s) in their possession. They will then slowly and incrementally have a small portion of their body return to SCP-3792's interior until they and any objects with their properties have demanifested entirely.\n\nIf attempting to come into contact with an object which has taken on the composition of SCP-3792-1, subjects will experience immediate spontaneous combustion. If this occurs, all SCP-3792 related activity currently active will cease and all extant entities and objects will dissipate into smoke and vanish from observable space.\n\nSCP-3792 was discovered after Foundation agents in London, ON, CA, intercepted reports of spontaneous human combustion and determined relation to a suspicious newspaper advertisement. These read \"SMOKEY AND THEY CANNED IT\" with a listed address. Agents investigating the address discovered approximately 200 instances of SCP-3792 as well as several instances of [[[SCP-1317]]]. No further public advertisements have been discovered. \n\nClassified as Safe on 09/18/2009.\n\n[[footnoteblock]]\n\n[[div class=\"footer-wikiwalk-nav\"]]\n[[=]]\n<< [[[SCP-3791]]] | SCP-3792 | [[[SCP-3793]]] >>\n[[/=]]\n[[/div]]\n\n\n[[include :scp-wiki:component:license-box\n|author=Anonymous]]\n[[include :scp-wiki:component:license-box-end]]",
+  "tags": [
+    "_cc",
+    "_licensebox",
+    "amorphous",
+    "artifact",
+    "chicago-spirit",
+    "ectoentropic",
+    "gaseous",
+    "humanoid",
+    "rewritable",
+    "safe",
+    "scp",
+    "tactile",
+    "transfiguration"
+  ],
+  "author": "RJB_R",
+  "created_at": "2017-06-10T19:22:18+00:00",
+  "updated_at": "2022-10-01T19:35:02+00:00",
+  "rating": 49,
+  "_site": "scp-wiki",
+  "_fullname": "scp-3792"
+}

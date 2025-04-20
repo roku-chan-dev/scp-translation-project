@@ -1,0 +1,21 @@
+{
+  "title": "SCP-CN-3315",
+  "content": "[[>]]\n[[module Rate]]\n[[/>]]\n\n[[module ListPages category=\"fragment\" parent=\".\" limit=\"1\" order=\"name\" offset=\"@URL|0\"]]\n%%content%%\n[[/module]]\n[!--\n子页面链接\nhttps://scp-wiki-cn.wikidot.com/fragment:scp-cn-3315-1\nhttps://scp-wiki-cn.wikidot.com/fragment:scp-cn-3315-4\n\n独立页面：\nhttps://scp-wiki-cn.wikidot.com/uiu-2024121\nhttps://scp-wiki-cn.wikidot.com/scp-cn-3315-20\n--]\n[[footnoteblock]]\n\n[[div class=\"footer-wikiwalk-nav\"]]\n[[=]]\n<< [[[SCP-CN-3314]]] | SCP-CN-3315 | [[[SCP-CN-3316]]] >>\n[[/=]]\n[[/div]]",
+  "tags": [
+    "scp",
+    "site-cn-44",
+    "uiu",
+    "原创",
+    "建筑",
+    "无效化",
+    "移情作用",
+    "空间影响",
+    "逆模因"
+  ],
+  "author": "Pigoner",
+  "created_at": "2024-12-06T18:52:04+00:00",
+  "updated_at": "2024-12-07T10:57:44+00:00",
+  "rating": 20,
+  "_site": "scp-wiki-cn",
+  "_fullname": "scp-cn-3315"
+}

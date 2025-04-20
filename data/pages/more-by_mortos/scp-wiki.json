@@ -1,0 +1,13 @@
+{
+  "title": "More By Mortos",
+  "content": "[[=]]\n+++++ If you like this, check out some of my other articles:\n\n\n[[module ListPages created_by=\"Mortos\" order=\"random\" separate=\"no\" tags=\"scp\" limit=\"3\"]]\n%%title_linked%% (+%%rating%%)\n[[/module]]\n\n++++ [[[mortos-author-page |More by Mortos]]]\n[[/=]]",
+  "tags": [
+    "more-by"
+  ],
+  "author": "Mortos",
+  "created_at": "2021-09-11T10:58:07+00:00",
+  "updated_at": "2021-09-11T10:58:57+00:00",
+  "rating": 1,
+  "_site": "scp-wiki",
+  "_fullname": "more-by:mortos"
+}

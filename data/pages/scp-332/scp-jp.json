@@ -1,0 +1,26 @@
+{
+  "title": "SCP-332",
+  "content": "[[module ListPages category=\"fragment\" parent=\".\" order=\"created_at\" limit=\"1\" offset=\"@URL|0\"]]\n%%content%%\n[[/module]]\n\n[!--\nhttps://scp-jp.wikidot.com/fragment:scp-332-0\nhttps://scp-jp.wikidot.com/fragment:scp-332-1\n--]",
+  "tags": [
+    "class-of-76",
+    "en",
+    "safe",
+    "scp",
+    "アド・アストラ",
+    "ミーム",
+    "ループ",
+    "人間型",
+    "場所",
+    "建造物",
+    "改稿",
+    "概念",
+    "生命",
+    "芸能"
+  ],
+  "author": "C-Dives",
+  "created_at": "2023-09-04T08:00:13+00:00",
+  "updated_at": "2023-09-04T08:05:29+00:00",
+  "rating": 22,
+  "_site": "scp-jp",
+  "_fullname": "scp-332"
+}

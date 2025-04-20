@@ -1,0 +1,21 @@
+{
+  "title": "SCP-095-J",
+  "content": "[[module CSS]]\n@import url('https://scpko.wdfiles.com/local--files/unfont/UnPilgi.css');\n[[/module]]\n\n[[include info:start]]\n**SCP-095-J:** 변칙적 글꼴\n**저자:** [[*user Kate McTiriss]]          \n**원작:** http://www.scpwiki.com/scp-095-j\n**역자:** [[*user shfoakdls]]\n[[include info:end]]\n\n[[include component:image-block name=http://scp-wiki.wdfiles.com/local--files/scp-095-j/J2xLM.jpeg|caption=제19기지에서 발생한 SCP-095-J 개체의 격리 실패.]]\n\n**일련번호:** SCP-095-J\n\n**등급:** 유클리드\n\n**특수 격리 절차:** SCP-095-J에 오염된 것으로 확인된 모든 재단 물질은 OCR 기록과 소각을 위해 눈가리개를 찬 기동특무부대 로-15 (\"사고 그로테스크\") 요원에 의해 44번 연구실로 옮겨져야 한다. SCP-095-J의 완전한 글자 세트의 샘플은 워싱턴 R██████에 있는 제██기지의 50m 지하에 있는 패러데이-우리-방호 벙커에 있는 고체 상태의 하드 드라이브에 담긴 파일에 보관되어야 한다. 두명의 3등급 재단 그래픽 디자이너의 허가 없이는 SCP-095-J와의 접촉이 금지된다.\n\n**설명:** SCP-095-J 는 처음 █████████ 기업에 의해 개발된 글꼴이다. SCP-095-J는 대부분의 시청자들에게 밈적 효과를 주는데, 짜증을 일으키고, 혈압을 올리고 심각한 경우에는 우울증, 불안, 그리고 엄청난 [데이터 말소]를 일으켜 ██명의 시민 사상자를 내었다. 그러나 시청자들의 █ 에서 ██ 퍼센트는 SCP-095-J-1로 알려진 SCP-095-1의 \"매개체\"가 되며 의도한 톤에 상관없이 글꼴을 모든 디지털 그리고 인쇄된 연락 수단에 사용한다. //(유언, 자살 메모 그리고 SCP-095-J로 쓰여진 전쟁 선언문 두장을 보려면 기록 보관 095-J-4 참조)//\n\nSCP-095-J 격리 탈출의 증거는 글꼴을 무해하게 파티 초대장, 애들 광고과 삽화 레터링 같은 손글씨체에 적당한 곳에 사용하는 것으로 시작된다. \n\n심각한 경우에 SCP-095-J-1 개체는 SCP-095-J로 쓰여지지 않은 글을 받아들일 수 없는 것으로 알려져있다. 격리 실패시 잠재적 CK급 재구성 시나리오가 현재 연구 직원들에 의해 검토되는중이며 케테르로 등급 상향이 계류 중이다.\n\n[[span style=\"font-family: 'Comic Sans MS', 'HYPost-Medium', 'UnPilgi'; font-size: 15px;\"]]**부록:** 이봐들, 난 잘 모르겠어. 그냥 글꼴이잖아. - ███████ 박사[[/span]]\n\n//███████ 박사의 즉결 처분 허가를 요구하는 바입니다.// - 관리자 ████████\n\n//허용함.// - O5-█\n\n[[div class=\"authors\"]]\n[[include :scp-wiki:component:license-box\n|author=Kate McTiriss]]\n=====\n> **Filename:** J2xLM.jpeg\n> **Author:** [[*user Kate McTiriss]]\n> **License:** CC BY-SA 3.0\n> **Source Link:** [https://scp-wiki.wikidot.com/scp-095-j SCP Foundation Wiki]\n=====\n[[include :scp-wiki:component:license-box-end]]\n[[/div]]",
+  "tags": [
+    "en",
+    "k급-시나리오",
+    "scp",
+    "농담",
+    "명문",
+    "밈적",
+    "시각",
+    "언어",
+    "유클리드"
+  ],
+  "author": "shfoakdls",
+  "created_at": "2013-07-27T12:57:27+00:00",
+  "updated_at": "2024-12-12T07:12:06+00:00",
+  "rating": 7,
+  "_site": "scpko",
+  "_fullname": "scp-095-j"
+}

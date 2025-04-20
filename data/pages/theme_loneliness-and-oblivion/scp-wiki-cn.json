@@ -1,0 +1,14 @@
+{
+  "title": "第14号竞赛：绝世，孤独，遗忘 版式",
+  "content": "[[module CSS]]\n@import url('https://fonts.googleapis.com/css2?family=Montserrat+Alternates&display=swap');\nh1, #page-title {\n    color: #000;\n}\n\n#side-bar a:visited {\n    color: #051b73\n}\n\ndiv#container-wrap {\n    background: url(https://files.scpfoundation.net/local--files/theme:loneliness-and-oblivion/body_bg-gok.png) top left repeat-x;\n}\n\n#header h1 a {\n    color: #fff;\n}\n#header h1 a::before {\n    color: #e9ebf0;\n}\n#header h2 span::before {\n    color: #f2f2fd;\n}\n#header h2 span {\n    text-shadow: 3px 1px 2px rgba(0,0,0,.8);\n    color: #ffffff;\n}\n\n\n\na {\n    color: #051b73;\n    text-decoration: none;\n    background: transparent;\n}\na.newpage {\n    color: #051b73;\n    text-decoration: none;\n    background: transparent;\n}\n\n\n\n#top-bar ul li.sfhover a,\n#top-bar ul li:hover a {\n    background-color: #e3e3e3;\n    color: #505050;\n}\n#top-bar ul li ul {\n    box-shadow: 2px 2px 6px rgba(0, 0, 0, 0.5);\n}\n\n#top-bar ul li ul a, #top-bar a:hover {\n    color: #505050;\n}\n\n\n\n#search-top-box-input {\n    color: #FFF;\n    background-color: #000;\n}\n#search-top-box-form input[type=submit] {\n    color: #fff;\n    background-color: #000;\n    background: linear-gradient(to bottom, #000,#000,#000);\n}\n\n\n\n.page-rate-widget-box .rate-points {\nbackground-color: #616163 !important;\n    border: solid 1px #616163;\n}\n.page-rate-widget-box .cancel {\n    background-color: #616163;\n    border: solid 1px #616163;\n}\n.page-rate-widget-box .cancel a {\n    color: #fff;\n}\n.page-rate-widget-box .rateup a:hover, .page-rate-widget-box .ratedown a:hover {\n    background: #616163;\n}\n.page-rate-widget-box .rateup, .page-rate-widget-box .ratedown {\n    background-color: #e8dcd4;\n    border-top: solid 1px #616163;\n    border-bottom: solid 1px #616163;\n}\n.page-rate-widget-box .rateup a, .page-rate-widget-box .ratedown a {\n    color: #000;\n}\n\n.page-rate-widget-box .cancel a:hover {\n    background: #464646;\n}\n\n\n\n#side-bar div.menu-item img {\n    filter: hue-rotate(0deg) brightness(0%);\n}\n#side-bar .side-block {\n    border: 1px solid #000000;\n    background: #fff !important;\n}\n.side-block{\nbackground-color: #ffffff;\n}\n#side-bar .heading {\n    color: #000;\n}\n\n\nbody {\n    color: #000;\n    font-family: 'Montserrat Alternates', sans-serif;\n}\n[[/module]]\n\n[[iftags +版式]]\n在你的作品开头添加如下语法以应用此版式：\n> @@[[include theme:loneliness-and-oblivion]]@@\n[[/iftags]]",
+  "tags": [
+    "ru",
+    "版式"
+  ],
+  "author": "Fallingdirt",
+  "created_at": "2025-03-12T04:56:49+00:00",
+  "updated_at": "2025-03-13T12:16:22+00:00",
+  "rating": 1,
+  "_site": "scp-wiki-cn",
+  "_fullname": "theme:loneliness-and-oblivion"
+}

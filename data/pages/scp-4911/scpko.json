@@ -1,0 +1,19 @@
+{
+  "title": "SCP-4911",
+  "content": "[[include info:start]]\n**SCP-4911:** 언덕\n**원작:** http://www.scp-wiki.net/scp-4911\n**저자:** [[*user Joreth]]\n**역자:** [[*user MGPedersen]]\n[[include info:end]]\n\n[[include component:object-class-bar-source\n|item-num=4911\n|obj-class=안전\n|site-resp=n/a\n|director=n/a\n|rsch-head=n/a\n|task-force=n/a\n|colorbar-bg-color=rgb(0,0,0)\n|colorbar-bg-img=optional\n|colorbar-one=full\n|colorbar-two=none\n|colorbar-three=none\n|colorbar-four=none\n|colorbar-five=none\n|colorbar-six=none\n|level=1\n|secrecy=기밀\n]]\n------\n[[div class=\"scp-image-block block-center\" style=\"width:100%;\"]]\n[[image wall.jpg style=\"width:100%;\" link=#]]\n[[div class=\"scp-image-caption\" style=\"width:100%;\"]]\nSCP-4911\n[[/div]]\n[[/div]]\n\n------\n**일련번호:** SCP-4911\n\n**등급:** 안전\n\n**특수 격리 절차:** SCP-4911이 위치한 구역은 민간인의 침입을 방지하기 위해 매입하여 울타리를 쳐놓았다.\n\n그 외 격리 절차는 필요치 않다고 판단된다.\n\n**설명:** SCP-4911은 웨일스 남부에 위치한 석벽으로, 풀로 덮인 언덕 경계를 따라 지어져있다. SCP-4911의 구조는 신석기 시대의 옹벽에서 주로 볼 수 있는 드라이스택 공법[[footnote]] 역주 ㅡ drystack techniques, 모르타르 없이 돌쌓기로만 구조물을 짓는 공법. [[/footnote]]으로 지어졌다. SCP-4911은 여러 종류의 어둡거나 밝은 색상의 돌로 지어졌으며, 돌의 총 개수는 5,203개다. SCP-4911에는 이따금씩 보이는 돌출부와 더불어 3가지의 무늬 양식이 명백히 드러나있다. SCP-4911의 돌들을 제거하거나 손상을 주려는 시도는 불가능하며 권장되지 않는다.\n\nSCP-4911은 강력한 기억소생 특성을 보인다. SCP-4911과 그 언덕을 방문한 자는 해당 구역에 대해 세세한 사항까지 선명히 기억해내며, SCP-4911에 있는 돌의 정확한 개수가 5,203개라는 것을 알게 된다. 해당 숫자의 중요성은 불분명하다. SCP-4911이 만들어낸 기억은 이제껏 알려진 그 어떤 형태의 기억소거 처치에도 저항력을 보인다.\n\nSCP-4911 너머 언덕 꼭대기에는, 열화된 상태의 룬 문자가 새겨진 주춧돌 하나가 있다. 기적학 분석 결과, 룬 문자가 적절히 보존이 되었다면 주춧돌의 꼭대기에서 영구적으로 불꽃이 타올랐을 것이라는 점이 밝혀졌다.\n\n주춧돌을 제외하고는 SCP-4911 주변에선 다른 명문,,銘文,,이 발견되지 않았다. SCP-4911에 관한 모든 역사 기록들은 해당 구역에 대해 현재 상태 그대로 서술을 하며, SCP-4911의 용도와 목적에 대해서 언급하는 역사 기록은 존재하지 않는다.\n\n[[footnoteblock]]\n\n[[div class=\"authors\"]]\n[[include :scp-wiki:component:license-box\n|author=Joreth]]\n=====\n> **Filename:** wall.jpg\n> **Name:** Newgrange from right side\n> **Author:** Cary Bass-Deschenes\n> **License:** CC BY-SA 2.0\n> **Source Link:** https://www.flickr.com/photos/14429081@N00/3877944375/\n=====\n[[include :scp-wiki:component:license-box-end]]\n[[/div]]",
+  "tags": [
+    "en",
+    "scp",
+    "관찰",
+    "구조",
+    "기억조작",
+    "명문",
+    "안전"
+  ],
+  "author": "MGPedersen",
+  "created_at": "2021-06-26T06:27:16+00:00",
+  "updated_at": "2024-10-03T14:53:28+00:00",
+  "rating": 6,
+  "_site": "scpko",
+  "_fullname": "scp-4911"
+}

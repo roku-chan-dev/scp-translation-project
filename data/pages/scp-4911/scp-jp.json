@@ -1,0 +1,20 @@
+{
+  "title": "SCP-4911",
+  "content": "[[>]]\n[[module Rate]]\n[[/>]]\n\n[[include :scp-jp:component:object-class-bar-source\n|item-num=4911\n|obj-class=Safe\n|site-resp=n/a\n|director=n/a\n|rsch-head=n/a\n|task-force=n/a\n|colorbar-bg-color=rgb(0,0,0)\n|colorbar-bg-img=optional\n|colorbar-one=full\n|colorbar-two=none\n|colorbar-three=none\n|colorbar-four=none\n|colorbar-five=none\n|colorbar-six=none\n|level=1\n|secrecy=CLASSIFIED\n]]\n------\n[[div class=\"scp-image-block block-center\" style=\"width:100%;\"]]\n[[image http://scp-jp-storage.wdfiles.com/local--files/file%3A2375337-161-75ue/wall.jpg style=\"width:100%;\" link=#]]\n[[div class=\"scp-image-caption\" style=\"width:100%;\"]]\nSCP-4911\n[[/div]]\n[[/div]]\n\n------\n**アイテム番号:** SCP-4911\n\n**オブジェクトクラス:** Safe\n\n**特別収容プロトコル:** SCP-4911が存在する地域は購入され、民間人の立ち入りを防ぐために柵で囲まれています。\n\nその他の収容措置は不要と見做されています。\n\n**説明:** SCP-4911はウェールズ南部に位置する石壁であり、草に覆われた塚の外周に沿って構築されています。SCP-4911の構造は新石器時代の擁壁に一般的だった空積み方式に従っています。SCP-4911は合計して5,203個の様々な濃い色・薄い色の石で造られています。SCP-4911には明確に模様が描かれた部分が3ヶ所あり、所々で突出しています。SCP-4911の石を除去・破損するのは不可能であり、推奨されません。\n\nSCP-4911は強力な記憶補強特性を発揮します。SCP-4911と塚を訪れた人物は、その地域に関する詳細を鮮明に思い出すことが可能であり、またSCP-4911を構成する石の数が正確に5,203個であることを認識します。この数の重要性は不明です。SCP-4911が生成した記憶は既知のあらゆる形式の記憶処理治療に耐性を有します。\n\nSCP-4911の後ろにある塚の頂には、劣化したルーン文字が刻まれている単一の石造りの台座があります。奇跡論的分析の結果は、仮にルーン文字が適切に維持されていたならば、台座の頂点に恒久的に炎を点し続ける役割を果たしていたことを示します。\n\n台座を除いて、他の碑文はSCP-4911の周辺に発見されていません。SCP-4911に関する全ての歴史的な記録は周辺地域の現状を示しており、SCP-4911の機能や存在意義を明示したものはありません。",
+  "tags": [
+    "en",
+    "safe",
+    "scp",
+    "岩石",
+    "構造",
+    "観測",
+    "記憶影響",
+    "記述"
+  ],
+  "author": "C-Dives",
+  "created_at": "2021-07-15T16:12:20+00:00",
+  "updated_at": "2024-02-21T12:38:55+00:00",
+  "rating": 4,
+  "_site": "scp-jp",
+  "_fullname": "scp-4911"
+}

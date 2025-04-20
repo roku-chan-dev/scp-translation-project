@@ -1,0 +1,22 @@
+{
+  "title": "SCP-6101",
+  "content": "[[include :scpko:theme:broken-masquerade]]\n[[include info:start]]\n**SCP-6101:** 가장 강력한 SCP\n**원작:** https://scp-wiki.wikidot.com/scp-6101\n**저자:** [[*user PeppersGhost]]\n**역자:** [[*user hoyaa2367]]\n[[include info:end]]\n[[div style=\"color: black; border: solid 1px #000000; background:#f2f2c2 url(http://scp-wiki.wdfiles.com/local--files/the-great-hippo/scp_trans.png) center no-repeat; padding:5px; margin-bottom: 10px; \"]]\n\n=  [[size 120%]]**기록정보보안행정처 공고**[[/size]]\n\n= O5 평의회는 [[[https://scpko.wikidot.com/broken-masquerade-hub|장막이 파기된 뒤의]]],,post-veil,, 임무를 지원하기 위해 홍보부가 SCP-6101 항목을 독점적으로 사용할 수 있게끔 해당 항목을 남겨두기로 결정했습니다.\n\n[[/div]]\n\n------\n\n[[include :scpko:component:anomaly-class-bar-source\n\n|item-number= 6101\n\n|clearance= 6\n\n|container-class= 난해\n\n|secondary-class= 타우미엘\n\n|secondary-icon= https://scp-wiki.wdfiles.com/local--files/component%3Aanomaly-class-bar/thaumiel-icon.svg\n\n|disruption-class= 에키\n\n|risk-class=위해\n\n]]\n------\n**특수 격리 절차:** SCP-6101은 격리하기에 너무 강력하다. 다음에 재단이 그에게 도움을 요청할 때까지 그는 가족의 보살핌 하에 놔두어야 한다.\n\n**설명:** SCP-6101은 가장 강력한 SCP이다. 그의 이름은 에단 프로스퍼,,Ethan Prosper,,이며. 나이는 작성 당시 시점 기준으로 9세다. SCP-6101이 지닌 힘의 전체는 알려지지 않았지만, 그는 비행, 엄청난 근력, 투명화, 그리고 마블 슈퍼히어로들이 지닌 모든 능력과 같은 것들을 보여주었다. SCP-6101은 비정상적인 수준의 용기를 지녔으며 해내기로 마음먹은 어떤 일이라도 해낼 수 있다.\n\nSCP-6101은 항상 두 자루의 총을 가지고 다닌다. 그가 공포와 증오라 부르는 이 총들은 각각 순수한 빛과 어둠으로 만들어진 총알을 발사한다. 그의 개 하이디,,Heidi,,(SCP-6101-01로 하위지정됨)는 두 번째로 가장 강력한 SCP이다. 하이디는 SCP-6101에게 몹시 충성하며 그의 힘을 멋대로 이용하려는 변칙적 조직들로부터 그를 지킨다.\n\n**사건 기록:** 28/05/18, SCP-OMEGA가 제301기지의 격리실을 탈주했다. 해당 변칙개체를 재격리할 수 없었기에, 기지 이사관 러쉬파 차카바티,,Rushpa Chakarvarti,,는 SCP-6101에게 도움을 요청했다. SCP-6101은 세인트 주드 아동 연구 병원,,St. Jude Children Research Hospital,,내 그의 병실에서 제310기지까지 기동특무부대 프시-301 (\"전장의 지니,,Genie in a Battle,,\")에 의해 개인적으로 호송되었다.\n\nSCP-6101은 염능력과 언어적 위협을 함께 사용하여 주위의 박수와 환호를 받으면서 성공적으로 SCP-OMEGA를 격리실로 돌려보냈다. 잠시 뒤 열린 특별 기념식에서 SCP-6101은 자신의 공헌에 대해 차카바티 이사관에게서 재단의 별을 수여받았다.\n\n제301기지 모두의 생명을 구해낸 것 이외에도, 지역 방송에서 그의 용맹함이 보도되어 [[[https://wish.org/|메이크 어 위시 재단]]]으로의 기부가 급증한 이후 SCP-6101은 자신과 같이 위독한 수많은 어린이에게 영웅이 되었다.",
+  "tags": [
+    "en",
+    "scp",
+    "개",
+    "동물",
+    "메타",
+    "부서진-가장무도회",
+    "생물",
+    "인간형",
+    "지성",
+    "타우미엘"
+  ],
+  "author": null,
+  "created_at": "2021-09-09T13:49:04+00:00",
+  "updated_at": "2022-10-19T08:08:47+00:00",
+  "rating": 19,
+  "_site": "scpko",
+  "_fullname": "scp-6101"
+}

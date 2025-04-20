@@ -1,0 +1,16 @@
+{
+  "title": "生",
+  "content": "[[div style=\"border:solid 1px #999999; background:#f0eeee; padding:5px; margin-bottom: 10px;\"]]\n[[include credit:start]]\n[[include credit:cc4]]\n[[include credit:end]]\n@@@@\n[[div style=\"border:solid 1px #999999; background:#f0eeee; padding:5px; margin-bottom: 10px;\"]]\n[[=]]\n++++ ストーリー概要\n**//長い時が過ぎた。ある時点から、財団は一つのアノマリーも見つけられなくなり、収容されているアノマリーについても、次第にその異常性を失っていった。胸を撫で下ろす職員もいれば、事実を受け入れられない職員もいる。全てのアノマリーが無力化されるまでに、人々は未来のための選択を導き出さなければならない。//**\n[[/=]]\n[[/div]]\n[[=]]\n[[image http://scp-jp-storage.wikidot.com/local--files/file:3266034-216-svxl/1280px-Amanecer_en_el_lago_Titicaca%2C_Puno%2C_Per%C3%BA%2C_2015-08-01%2C_DD_01.jpg  \" height=\"200px\"  width=\"600px\"]]\n\n「異常の消失は果たして、人類が再び秩序と新しき黎明を得ることなのか、\nそれとも、物語がフィナーレ/終わりの落日へ向かうことなのか？」\n[[/=]]\n-----\n[[=]]\n\n[[size 150%]]作品目録[[/size]]\n@@@@\n@@@@\n\n[[/=]]\n[[div style=\"border:solid 1px #999999;width:48%;height:30em;background:#f0eeee;padding:5px;float:left;margin-bottom:10px\"]]\n++++ 評価順\n[[module ListPages rating=\">-1\" tag=\"+生 -ハブ\" order=\"rating desc\" separate=\"false\" limit=\"600\" perPage=\"10\"]]\n# %%title_linked%% (rate: %%rating%%, ｺﾒﾝﾄ:%%comments%%)\n[[/module]]\n[[/div]]\n[[div style=\"border:solid 1px #999999;width:48%;height:30em;background:#f0eeee;padding:5px;float:right;margin-bottom:10px\"]]\n++++ 新着順\n[[module ListPages category=\"-fragment\" tag=\"+生 -ハブ\" separate=\"false\" limit=\"600\" perPage=\"10\"]]\n* %%title_linked%% (rate: %%rating%%, ｺﾒﾝﾄ: %%comments%%)\n[[/module]]\n[[/div]]\n[[=]]\n@@@@\n@@@@\n##gray|（訳注: 日本支部に投稿された記事を表示しています。完全なリストは原版を参照してください。）##  \n[[/=]]\n-----\n[[div style=\"display: inline-block; border:solid 1px #999999; background:#f0eeee; padding:5px; margin-bottom: 10px;\"]]\n[[=]]\n++++ 執筆ガイド\n[[/=]]\n* これは合同執筆プロジェクトの一つで、各人はアノマリーの失われた世界を描くことになります。あなたはそうした世界の一端を描くことができますし、事実を理解した/していない人々の所見や思いを描くこともできます（設定はページトップの通りです）\n\n* 作品間における設定の衝突は許容されますし、繋がりを持たせる必要もありません。唯一の要求は「アノマリーが消失した」財団宇宙を描くこと、ただそれだけです。\n\n* 当ページには誰でも作品を追加することができます。作品が当合作の設定に符合しているだけでOKです。ただ、作品が低評価削除の基準に達したり、当ページの管理者が設定に合わないと判断したりした場合は、ページから削除/移動されることになるでしょう。\n\n* それでも、投稿を恐れることはありません。私たちはあらゆるユーザーの参加を歓迎しています。\n[[/div]]\n[[/div]]",
+  "tags": [
+    "cn",
+    "ハブ",
+    "合作",
+    "生"
+  ],
+  "author": "snoj",
+  "created_at": "2019-01-31T08:59:10+00:00",
+  "updated_at": "2025-01-29T14:51:57+00:00",
+  "rating": 55,
+  "_site": "scp-jp",
+  "_fullname": "alive"
+}

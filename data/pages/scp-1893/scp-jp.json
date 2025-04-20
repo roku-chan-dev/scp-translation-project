@@ -1,0 +1,23 @@
+{
+  "title": "SCP-1893",
+  "content": "[[>]]\n[[module Rate]]\n[[/>]]\n\n[[module ListPages category=\"fragment\" parent=\".\" order=\"random\" limit=\"1\" ]]\n\n[[div style=\"border:solid 1px #999999;width:95%;background:#DAFAD9;padding:5px;float:center;margin-bottom:4px\"]]\n[[=]]\n貴方はこの実体の文章である**%%title%%**を現在見ています。他の反復を見るには、60秒後にページを再読み込みしてください。\n[[/=]]\n[[/div]]\n\n%%content%%\n\n[[/module]]",
+  "tags": [
+    "en",
+    "euclid",
+    "scp",
+    "イベント-注目記事",
+    "ミーム",
+    "メタ",
+    "変容",
+    "情報災害",
+    "知性",
+    "知識",
+    "語り"
+  ],
+  "author": "m0ch12uk1",
+  "created_at": "2013-11-27T05:46:25+00:00",
+  "updated_at": "2024-02-21T12:29:03+00:00",
+  "rating": 52,
+  "_site": "scp-jp",
+  "_fullname": "scp-1893"
+}

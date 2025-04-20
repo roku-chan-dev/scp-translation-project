@@ -1,0 +1,25 @@
+{
+  "title": "SCP-4338",
+  "content": "[[>]]\n[[module Rate]]\n[[/>]]\n\n[[module ListPages  category=\"fragment\" parent=\".\" limit=\"1\" order=\"created_at\" offset=\"@URL|0\"]]\n%%content%%\n[[/module]]\n\n[!-- http://ja.scp-wiki.net/fragment:scp-4338-1 --]\n[!-- http://ja.scp-wiki.net/fragment:scp-4338-2 --]\n[!-- http://ja.scp-wiki.net/fragment:scp-4338-3 --]",
+  "tags": [
+    "en",
+    "safe",
+    "scp",
+    "テレパシー",
+    "倫理委員会",
+    "儀式",
+    "地下",
+    "地質",
+    "岩石",
+    "敵対的",
+    "球体",
+    "生命",
+    "知性"
+  ],
+  "author": "C-Dives",
+  "created_at": "2019-07-14T14:23:36+00:00",
+  "updated_at": "2024-02-21T12:25:38+00:00",
+  "rating": 111,
+  "_site": "scp-jp",
+  "_fullname": "scp-4338"
+}

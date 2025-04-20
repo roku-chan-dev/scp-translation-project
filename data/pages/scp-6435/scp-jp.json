@@ -1,0 +1,18 @@
+{
+  "title": "SCP-6435",
+  "content": "[[>]]\n[[module rate]]\n[[/>]]\n\n[[include :scp-jp:theme:black-highlighter-theme]]\n[[include :scp-jp:theme:minimalist-bhl]]\n\n[[include :scp-jp:component:anomaly-class-bar-source\n\n|item-number= 6435\n\n|clearance= 3\n\n|container-class= safe\n\n|secondary-class= none\n\n|secondary-icon= https://urlhere.com\n\n|disruption-class= dark\n\n|risk-class= notice\n\n]]\n\n@@@@\n@@@@\n\n[[include component:image-block name=http://scp-jp-storage.wikidot.com/local--files/file:3324351-67-rf5x/scpforest.jpeg|align=center|width=100%|caption=SCP-6435の念写。]]\n\n**特別収容プロトコル:** 生者の魂はSCP-6435に侵入できないため、物理的な収容は重要ではありません。SCP-6435への進入が認められたエージェントとの死後交流は、首尾一貫性が失われていない限り続けられます。\n\n**説明:** SCP-6435は口語的に \"ロー (Ro)\" と呼称される、死後世界NR-293-102です。\n\nSCP-6435は広大な森とその中に張り巡らされた複雑な歩道網から成ります。確証を取ることはできませんが、死亡したエージェントの証言から、SCP-6435は無限に続く空間であると示されています。SCP-6435内の時間は現実世界と1:1で対応していると測定されています。\n\nSCP-6435の従者はSCP-6435の居住者に対し、快適さの提供と肉体への拷問を交互に繰り返します。当初はこの報酬と罰のサイクルが、カルマに対する報い、もしくは交代制の殉教システムに基づいていると考えられていましたが、調査を進めた結果、全くのランダムであると示されています。この情報はエージェントらにとって害が大きいと判断されたため、彼らには伝えられていません。\n\nSCP-6435での行為の典型例として、ある叙階された聖人は19年間連続で生きたまま茹でられ、次の2年間では肉体的な快適さを与えられ、さらに1年かけて皮を剥がされました。通常、この拷問と快楽の予測不能なサイクルの結果として、SCP-6435の居住者は最初の10年間で精神の首尾一貫性を失います。それゆえに、摩耗した居住者を追放するメカニズムが存在しない一方で、常に意識的な思考ができる者はごくわずかです。\n\nこれまでの死後世界は強い信仰心や思想的な需要に応じて生み出されていた一方で、SCP-6435には宗教的・思想的要素を示すものが存在しません。いずれにせよ、どのような信念体系が上述の現実を生み出しているのかは不明です。SCP-6435は現時点で死者の魂の0.01%を受け入れており、これは死後の生態系において苦しむ人間のうち14%を占めています。",
+  "tags": [
+    "en",
+    "safe",
+    "scp",
+    "場所",
+    "森林",
+    "死後"
+  ],
+  "author": "walksoldi",
+  "created_at": "2022-08-19T12:20:30+00:00",
+  "updated_at": "2024-02-23T01:52:40+00:00",
+  "rating": 40,
+  "_site": "scp-jp",
+  "_fullname": "scp-6435"
+}

@@ -1,0 +1,15 @@
+{
+  "title": "2019년 성탄경연",
+  "content": "[[module css]]\n@import url('http://scpkosb.wikidot.com/draft:salamander724-9-915c/code/1');\n[[/module]]\n\n[[div style=\"background-color:black; color:white\"]]\n[[div style=\"width:90%; height: 90%; border: 1px solid black; margin:auto\"]]\n[[=image https://upload.wikimedia.org/wikipedia/commons/1/1b/Julemiddag.jpg width=\"250px\"]]\n\n+ 어느새 연말입니다.\n\n한해의 마지막 유종의 미를 거두어 보자는 의미에서, **성탄절**을 소재로 삼는 경연을 개최합니다. 주제는 자유입니다. 수상작은 오는 12월 대문 특집에 걸릴 것이며, 소정의 상품이 주어집니다.\n\n**상품:**\n* 한국 거주자 - 호주산 살치살\n* 미국 거주자 - 수제 육포\n\n+ 규칙\n# SCP-KO 부문과 이야기-KO 부문에서 각각 하나씩 수상작을 가립니다.\n# 1인 1작품. \n * SCP 부문에 투고하면 이야기 부문에는 투고할 수 없고, 반대도 마찬가지입니다. \n * 이미 올렸는데 부문을 전향하고 싶다면, 올린 작품에서 경연 태그를 제거하여 경연작 지위에서 해제시키면 됩니다. 전향은 한 번만 허용됩니다.\n# 팀플은 불허됩니다. 직전 팀경연의 팀플이 망했기 때문이죠.\n# 경연작은 투고하기 전에 포럼이나 사간원에서 피드백을 받으면 안 됩니다. 받으면 부정행위로 간주됩니다.\n# \"2019-성탄경연\" 태그를 사용하십시오.\n# 투고 기간은 한국 시각으로 2019년 11월 1일 13시 정각부터 11월 28일 23시 59분까지입니다.\n# 평가 기간은 한국 시각으로 2019년 11월 23일 00시 정각부터 11월 30일 23시 59분까지입니다.\n * 평가 기간에는 투고작 수정이 불허되며, 수정할 경우 평가기간 시작 직전 버전으로 롤백됩니다.\n# 기타 문의사항은 [[[chat-guide|대화방]]]에서 [[*user salamander724]]에게 문의하세요.\n\n+ 투고작\n++ SCP 부문\n[[div style=\"color:black\"]]\n||~ 작품 ||~ 작가 ||~ 점수 ||\n[[module ListPages rating=\">=0\" order=\"rating desc\" separate=\"false\" tags=\"+2019-성탄경연 +ko +scp\" limit=\"200\" perPage=\"100\"]]\n|| %%title_linked%% ||  %%author%% || ##white|{{%%rating%%}}## ||\n[[/module]]\n[[/div]]\n++ 이야기 부문\n[[div style=\"color:black\"]]\n||~ 작품 ||~ 작가 ||~ 점수 ||\n[[module ListPages rating=\">=0\" order=\"rating desc\" separate=\"false\" tags=\"+2019-성탄경연 +ko +이야기\" limit=\"200\" perPage=\"100\"]]\n|| %%title_linked%% ||  %%author%% || ##white|{{%%rating%%}}## ||\n[[/module]]\n[[/div]]\n\n[[/div]]\n\n[[/div]]",
+  "tags": [
+    "2019-성탄경연",
+    "ko",
+    "경연"
+  ],
+  "author": "Salamander724",
+  "created_at": "2019-10-31T20:04:44+00:00",
+  "updated_at": "2021-11-12T17:20:59+00:00",
+  "rating": 1,
+  "_site": "scpko",
+  "_fullname": "contest-ko-christmas-2019"
+}

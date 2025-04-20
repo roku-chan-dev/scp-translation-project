@@ -1,0 +1,18 @@
+{
+  "title": "SCP-655-JP-J",
+  "content": "[[module css]]\n@import url(http://ja.scp-wiki.net/component:af2017theme/code)\n[[/module]]\n[[include :scp-jp:credit:start]]\n**タイトル:** SCP-655-JP-J - おさかなフライ\n**著者:** [[*user Come_Dream]]\n**作成年:** 2017\n[[include :scp-jp:credit:end]]\n\n[[include component:image-block\n|name=ten1\n|caption=素揚げされたSCP-655-JP-J\n|width=200px\n]]\n\n**アイテム番号:** SCP-655-JP-J\n\n**オブジェクトクラス:** Safly\n\n**特別調理プロトコル:** SCP-655-JP-Jは塩、天つゆ、ソース各種をかけた状態でオブジェクト用冷蔵庫に収容されます。実験後摂食により終了します。SCP-655-JP-Jの異常性を発現させるため料理を行いますが、冷蔵庫のスペースの不足のため飽和した個体はすぐに摂食してください。\n\n**説明:** SCP-655-JP-Jは真鯉(//Cyprinus carpio//)に類似した生物です。SCP-655-JP-Jの異常性は油で揚げる調理法を使って料理した場合に発現します。空中を浮遊し、摂食者から逃げます。\n\n 以前は蒐集院がこのオブジェクトを管理していましたが、蒐集院が海賊に吸収されて以来このオブジェクトは海賊に委託されました。\n\n[[include component:image-block\n |name=ten2\n |caption=SCP-655-JP-Jが発見された江戸時代の天ぷら屋台\n|width=160px\n ]]\n\n蒐集院の保持していた文献によるとSCP-655-JP-Jは江戸中期にその存在が確認されており、当時の人々は混乱していたようです。無力化方法に関する文献には下記の通りに記されています。\n> ・皿を屋根の上に置いて待つ。\n> \n> ・SCP-655-JP-Jが皿に乗れば塩を振りかける。\n> \nSCP-655-JP-Jは皿に寄ってくる習性があるためこの捕獲方法は有効です。塩以外に天つゆやソースでも代用できることが判明しました。\n\n\n\n**補遺:** SCP-655-JP-Jの絶滅が危惧されるため調理を一時禁止します。",
+  "tags": [
+    "af2017",
+    "esoteric-class",
+    "jp",
+    "scp",
+    "ジョーク",
+    "食物"
+  ],
+  "author": "Come_Dream",
+  "created_at": "2017-04-01T04:34:37+00:00",
+  "updated_at": "2024-04-24T13:18:45+00:00",
+  "rating": 27,
+  "_site": "scp-jp",
+  "_fullname": "af-655-jp-j"
+}

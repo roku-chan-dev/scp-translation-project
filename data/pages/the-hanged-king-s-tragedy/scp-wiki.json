@@ -1,0 +1,20 @@
+{
+  "title": "The Hanged King's Tragedy",
+  "content": "[[include theme:black-highlighter-theme]]\n[[include :scp-wiki:component:pride-highlighter |inc-plgbt= --]]]\n[[>]]\n[[module Rate]]\n[[/>]]\n\n[[module ListPages  category=\"fragment\" parent=\".\" limit=\"1\" order=\"created_at\" offset=\"@URL|0\"]]\n%%content%%\n[[/module]]\n\n[!--\nFragments:\n* http://scp-wiki.wikidot.com/fragment:the-hanged-king-s-tragedy-color\n* http://scp-wiki.wikidot.com/fragment:the-hanged-king-s-tragedy-colorblind\n--]",
+  "tags": [
+    "_black-queen",
+    "_listpages",
+    "alagadda",
+    "alternate-history",
+    "black-queen",
+    "goi-format",
+    "hanged-king",
+    "spy-fiction"
+  ],
+  "author": "Oboebandgeek99",
+  "created_at": "2019-08-03T17:36:33+00:00",
+  "updated_at": "2024-10-06T15:03:05+00:00",
+  "rating": 122,
+  "_site": "scp-wiki",
+  "_fullname": "the-hanged-king-s-tragedy"
+}

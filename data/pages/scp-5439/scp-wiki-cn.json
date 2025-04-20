@@ -1,0 +1,17 @@
+{
+  "title": "SCP-5439",
+  "content": "[[include :scp-wiki-cn:theme:black-highlighter-theme]]\n\n[[module css]]\n@import url('https://fonts.googleapis.com/css2?family=Roboto+Mono&display=swap');\n\n.log {\nfont-family: \"Roboto Mono\", monospace;\nmargin: 10px auto;\nbackground: #f5f5f5;\nwidth: 75%;\npadding: 15px;\nborder: dashed 1px #d9d9d9;\n}\n\n[[/module]]\n\n**项目编号：**SCP-5439\n\n**项目等级：**Pending\n\n**特殊收容措施：**当前正在进行对Crowler博士的医学观察与数据整合。Crowler博士应被收容于一标准的人形生物收容单元内，直到研究团队同意进一步的收容措施。\n\n**描述：**SCP-5439是对造成Henrietta Crowler博士严重先天性痛觉缺失这一未知现象的初步指称。虽然她的认知功能与知觉都保持不变，但Crowler博士已经表现出她无法感知到某些刺激。医务人员现已确认，Crower博士此状态的原因无法使用非异常生物学进行解释。\n\n**发现记录：**SCP-5439问题于2021年9月21日出现，当时Crowler博士在定期的员工会议上表现出先天性痛觉缺失。以下是会议记录的一部分。\n\n\n[[div class=\"log\"]]   \n[[=]]\n**[打开记录]**\n[[/=]]\n//[Falkner先生正在白板旁展示关于最近一次站点安保的调查结果。Ramirez夫人、Marly博士与Crowler博士都坐在桌前。Dr.Crowler挠了挠她的鼻子。]//\n\n**Falkner先生：**如各位所见，每个消防出口几乎都堵住了，但——\n\n**Crowler博士：**哦天，该死。\n\n**Falkner先生：**……我们可能要在另一场关于站点安全五个步骤上的会议进行介入，如果事情演变成——\n\n**Ramirez夫人：**你——你还好吗Crowler博士？\n\n//[Crowler博士正在用手掌摩擦她的鼻尖。]//\n\n**Crowler博士：**还好还好，只是里面很痒。\n\n**Ramirez夫人：**可Crowler——天啊！\n\n//[咔嚓一声，据信是Crowler博士鼻骨发出的声音。Crowler博士继续按压与揉搓她的鼻子，丝毫不顾她同事的反应。她的鼻骨结构开裂，完全变形。她叹了口气，擦掉了一些弄湿其嘴部与下颚的血。]//\n\n\n**Crowler博士：**啊……好些了。\n[[=]]\n**[关闭记录]**   \n[[/=]]\n[[/div]]\n\n[[div class=\"footer-wikiwalk-nav\"]]\n[[=]]\n<< [[[SCP-5438]]] | SCP-5439 | [[[SCP-5440]]] >>\n[[/=]]\n[[/div]]",
+  "tags": [
+    "scp",
+    "人形生物",
+    "感知影响",
+    "活物",
+    "等待分级"
+  ],
+  "author": null,
+  "created_at": "2021-09-22T01:42:59+00:00",
+  "updated_at": "2022-04-22T08:35:36+00:00",
+  "rating": 1,
+  "_site": "scp-wiki-cn",
+  "_fullname": "scp-5439"
+}

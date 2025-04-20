@@ -1,0 +1,15 @@
+{
+  "title": "",
+  "content": "[[include :scpko:theme:laundry]]\n[[include :scpko:theme:turbo-vision]]\n[[module css]]\n@import url('http://scpko.wdfiles.com/local--files/unfont/UnGungseo.css');\n@import url('http://scp-int.wikidot.com/component:colstyle/code/1');\n\n.colmod-link-top .foldable-list-container {\n  cursor: pointer;\n}\n\nbody{\n}\n\n.poem{\ntext-indent: 0;\nmargin: auto;\nmargin-top: 0.5em!important;\nmargin-bottom:0.5em;\nfont-size:2.0em;\nfont-family: 'UnGungseo',  monospace;\n}\n\n.hover {\ntext-decoration: none;\n    border-bottom: none;\n    color:black;\n}\n.hover:hover {\n     text-decoration: none;\n    border-bottom: none;\n    color:#c90926;\n}\n\n.hover span {    display: none;}\n.hover:hover span {\n    position: absolute;\n    display: inline;\n    margin: 20px 0px;\n    height: auto;\n    width: auto;\n    background: #FFF;\n    border: 1px solid #000;\n    color: black;\n    padding: 0.5em;\n}\n.hover:hover span span {\n    position: relative;\n    margin: auto;\n    height: auto;\n    width: auto;\n    border: none;\n    padding: 0;\n}\n[[/module]]\n\n[[html]]\n<iframe width=\"100%\" height=\"300\" frameborder=\"0\" src=\"https://cdn.abowman.com/widgets/spider/spider.html?up_headColor=666666&up_bellyColor=666666&up_legColor=333333&up_backgroundColor=bfcae3&up_size=1&up_speed=1\"></iframe>\n[[/html]]\n\n[[include :scpkosb:draft:salamander724-24-2beb\n|image=http://scpko.wdfiles.com/local--files/salamander724/100-sh.png\n]]\n[[include :scpko:component:thd-achievement-stand\n|a03=5\n|a05=1\n|a06=4\n|a08=1\n|a13=1\n|a15=1\n|a16=1\n|a17=1\n|a18=1\n|a19=1\n|a21=1\n|a22=3\n|a29=1\n|a30=1\n|a31=1\n|a34=1\n|a35=1\n|a41=1 \n|a42=1\n|a43=1\n|a44=1\n|a45=1\n|a47=1\n|a49=1\n|a55=1\n|a56=1\n|a79=1\n|a92=1\n|a99=1\n|a100=1\n]]\n[[include :msr-arc:shucolend]]",
+  "tags": [
+    "_이미지",
+    "ko",
+    "작가"
+  ],
+  "author": "Salamander724",
+  "created_at": "2020-04-27T06:10:29+00:00",
+  "updated_at": "2024-03-12T12:47:42+00:00",
+  "rating": 17,
+  "_site": "scpko",
+  "_fullname": "salamander724"
+}

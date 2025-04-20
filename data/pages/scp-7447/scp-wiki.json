@@ -1,0 +1,21 @@
+{
+  "title": "SCP-7447",
+  "content": "[[>]]\n[[module Rate]]\n[[/>]]\n\n[[module ListPages  category=\"fragment\" parent=\".\" limit=\"1\" order=\"created_at\" offset=\"@URL|0\"]]\n%%content%%\n[[/module]]\n\n[!-- https://scp-wiki.wikidot.com/fragment:scp-7447-1 --]\n[!-- https://scp-wiki.wikidot.com/fragment:scp-7447-2 --]\n\n\n[[include :scp-wiki:component:license-box]]\n=====\n\n----\n> **Filename:** Luxmi_engine.jpg\n> **Name:** Space Simulation Chamber Prepared for Testing Webb Telescope\n> **Author:** NASA Goddard Space Flight Center\n> **License:** CC-BY 2.0\n> **Source Link:** [https://flickr.com/photos/24662369@N07/15553023224 Flickr]\n----\n> **Filename:** SCP-7447New.jpg\n> **Name:** Man on the Bench\n> **Author:** Jaroslav A. Polák\n> **License:** CC0 1.0\n> **Source Link:** [https://www.flickr.com/photos/98796230@N03/14227800952 Flickr]\n----\n=====\n[[include :scp-wiki:component:license-box-end]]",
+  "tags": [
+    "7000",
+    "_cc",
+    "_licensebox",
+    "_listpages",
+    "humanoid",
+    "keter",
+    "probability",
+    "sapient",
+    "scp"
+  ],
+  "author": "J T K C",
+  "created_at": "2022-07-25T15:04:53+00:00",
+  "updated_at": "2023-08-19T21:37:20+00:00",
+  "rating": 38,
+  "_site": "scp-wiki",
+  "_fullname": "scp-7447"
+}

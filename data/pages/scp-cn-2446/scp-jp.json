@@ -1,0 +1,17 @@
+{
+  "title": "SCP-CN-2446",
+  "content": "[[include :scp-jp:credit:start]]\n**タイトル:** SCP-CN-2446 - 妖刀四肢狩\n**原文記事(CN):** [http://scp-wiki-cn.wikidot.com/scp-cn-2446 SCP-CN-2446] - 截肢杀手\n**参照元記事(INT):** [http://scp-int.wikidot.com/scp-cn-2446 SCP-CN-2446] - Amputation Assassin\n**原著者:** [[*user Yoghurt_Jinchouge]]\n**英訳者:** [[*user tetsusquared]]\n**翻訳者:** [[*user DirStarFish]]\n**査読者:** [[*user oplax-counterpoint ]]及び[[*user dhueguang]]\n**作成年(CN):** 2023年\n**作成年(INT):** 2023年\n**参照リビジョン(INT):** rev.4\n原文でのクレジットは「[http://scp-jp.wikidot.com/scp-cn-2446#u-credit-otherwise その他のライセンス]」の項目を参照。\n[[include credit:otherwise]]\n**SCP-CN-2446:** 妖刀四肢狩\n\n**原著者:** [[*user Yoghurt_Jinchouge]]。著者ページを御覧になりたい方は**[[[*yog|ここからどうぞ]]]**\n\n画像引用元: https://commons.m.wikimedia.org/wiki/File:Katana,_sword_(AM_1934.316-14)_(II).jpg\n\n[[include :scp-jp:credit:end]]\n@@@@\n@@@@\n[[include component:image-block name=https://scp-jp-storage.wdfiles.com/local--files/file%3A6734327-145-me6p/Katana%2C_sword_%28AM_1934.316-14%29_%28II%29.jpg|align=center|width=700px|caption={{SCP-CN-2446}}]]\n@@@@\n@@@@\n**アイテム番号:** SCP-CN-2446\n\n**オブジェクトクラス:** Safe\n\n**特別収容プロトコル:** 当オブジェクトはサイト-CN-75の標準型低脅威ロッカーに収容されます。生体組織への実験は目下禁止されています。オブジェクトの刃は常時保護されます。当オブジェクトの移送もしくは無生物を用いた実験時の予期せぬ負傷を防ぐためにも、注意を払わなければなりません。負傷対象は非異常と確認されているものの、潜在的リスクへの予防措置として、引き続き対象への監視が行われます。\n\n**説明:** SCP-CN-2446は長さ1.62m、玉鋼で作られた一振りの野太刀です。刃が19世紀に鍛造されたものであるため、新々刀に分類されます。当オブジェクトは私的な特注品であり、明治政府の廃刀令発布後に逸失した後、複数の収集家の下を転々としていたと考えられます。[[footnote]]訳注: 底本としたINT版では当段落での「野太刀」、「玉鋼」、「新々刀」、「廃刀令」に当たる箇所にそれぞれ、英語版Wikipediaの記事へのリンクが貼られている。ここでは中国語原文に従い、リンクを外している。[[/footnote]]\n\nSCP-CN-2446を別の人物(対象)に向けて振り回すと、刃は必ず対象の関節に命中します。複数の実験から、斬撃が命中するのは一般的に対象の四肢末端であり、刀身は対象の関節内に挟まることが確認されました。ごく一部のケースにおいて、オブジェクトは対象の膝の外側や左側で止まりましたが、その後の検査から、対象には関節の逆転や半月板の消失が起きていると判明しました。特筆すべき点として、四肢の負傷に先立つ対象の直後の反応は常に、オブジェクトからの回避ではなく、全て四肢を用いた防御になっていました。この理由は分かっていません。\n\nSCP-CN-2446はコレクター業を営む、[[span class=\"ruby\"]]陈甘松[[span class=\"rt\"]]チェン・ギャンソン[[/span]][[/span]]の邸宅で発見されました。この発見時、盗人1人が氏のコレクションルームに押し入り、収集品を盗もうとしていましたが、犯行現場を家主である[[span class=\"ruby\"]]陈[[span class=\"rt\"]]チェン[[/span]][[/span]]に目撃されました。盗人は手に持っていたバールを用い、SCP-CN-2446を装備していた[[span class=\"ruby\"]]陈[[span class=\"rt\"]]チェン[[/span]][[/span]]に襲いかかりました。警察が到着するまでに、盗人は鎮圧されていました。盗人の男の胴体には男本人の四肢が幾重にも巻き付けられており、男の左腕の第四十二関節にはSCP-CN-2446が挟まっていました。\n　\n@@@@\n@@@@\n@@@@\n@@@@",
+  "tags": [
+    "cn",
+    "safe",
+    "scp",
+    "反ミーム",
+    "武器"
+  ],
+  "author": "DirStarFish",
+  "created_at": "2024-11-16T15:54:34+00:00",
+  "updated_at": "2024-11-17T17:05:00+00:00",
+  "rating": 12,
+  "_site": "scp-jp",
+  "_fullname": "scp-cn-2446"
+}

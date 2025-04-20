@@ -1,0 +1,17 @@
+{
+  "title": "7K DOODLES",
+  "content": "[[include :scp-wiki:theme:black-highlighter-theme]]\n[[include :scp-wiki:theme:minimalist-bhl]]\n[[include :scp-wiki:component:fade-in speed=3]]\n\n[[module CSS]]\n:root {\n     --header-title: \"WINKWONK DOODLES\";\n     --header-subtitle: \"7K EDITION\";\n}\n[[/module]]\n\n[[=]]\n[[module Rate]]\n[[/=]]\n\n[[=image https://scp-wiki.wikidot.com/local--files/art:7k-doodles/Rat.jpg width=\"500px\"]]\n@@ @@\n= [[[scp-7501|\"My Best, Oldest, and Newest Friend\"]]]\n@@ @@\n[[=image https://scp-wiki.wikidot.com/local--files/art:7k-doodles/Television.jpg width=\"500px\"]]\n@@ @@\n= [[[scp-7878|\"Moving Past The Feeling\"]]]\n@@ @@\n[[=image https://scp-wiki.wikidot.com/local--files/art:7k-doodles/LoL.jpg width=\"500px\"]]\n@@ @@\n= [[[scp-7400|\"Your Honor, League of Legends\"]]]\n@@ @@\n[[=image https://scp-wiki.wikidot.com/local--files/art:7k-doodles/ButterflyPlug.jpg width=\"500px\"]]\n@@ @@\n= [[[scp-7199|\"Do Me a Favor and be Grateful for Yourself\"]]]\n@@ @@\n[[=image https://scp-wiki.wikidot.com/local--files/art:7k-doodles/WETTLEKON.jpg width=\"500px\"]]\n@@ @@\n= [[[scp-7000|\"The Loser\"]]]\n@@ @@\n[[=image https://scp-wiki.wikidot.com/local--files/art:7k-doodles/HonkHonk.jpg width=\"500px\"]]\n@@ @@\n= \"Jack and Joker\"\n@@ @@\n[[=image https://scp-wiki.wikidot.com/local--files/art:7k-doodles/DiceGods.jpg width=\"500px\"]]\n@@ @@\n= [[[scp-7014|\"Praise Be Unto Thee, Oh Dice Gods\"]]]\n@@ @@\n[[=image https://scp-wiki.wikidot.com/local--files/art:7k-doodles/Tea.jpg width=\"500px\"]]\n@@ @@\n= [[[scp-7888|\"A Reminder\"]]]\n@@ @@\n[[=]]\n[[module Rate]]\n\n[[include :scp-wiki:component:license-box\n|author=winkwonkboi]]\n=====\n> **Filename:** All Files\n> **Author:** [[*user winkwonkboi]]\n> **License:** CC-BY-SA 3.0\n> **Source Link:** SCP Foundation\n=====\n[[include :scp-wiki:component:license-box-end]]\n[[/=]]",
+  "tags": [
+    "_cc",
+    "_licensebox",
+    "artwork",
+    "cel-shaded",
+    "scp-art"
+  ],
+  "author": "winkwonkboi",
+  "created_at": "2022-08-07T10:37:29+00:00",
+  "updated_at": "2024-03-28T18:03:12+00:00",
+  "rating": 72,
+  "_site": "scp-wiki",
+  "_fullname": "art:7k-doodles"
+}

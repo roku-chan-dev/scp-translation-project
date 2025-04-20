@@ -1,0 +1,23 @@
+{
+  "title": "SCP-5235",
+  "content": "[[include theme:black-highlighter-theme]]\n[[include theme:the-way-out]]\n\n[[>]]\n[[module Rate]]\n[[/>]]\n\n[[module CSS]]\n/* TABS */\n\n.yui-navset .yui-nav a,\n.yui-navset .yui-navset-top .yui-nav a {\n    background-color:#d8d8d8;\n    background-image: url(http://lastlook.pl/~quake/wikidot/images/yuitabs.png);\n}\n\n.yui-navset .yui-nav a em,\n.yui-navset .yui-navset-top .yui-nav a em {\n    border-color: #F7F7F7;\n}\n\n.yui-navset .yui-nav .selected a,\n.yui-navset .yui-nav .selected a:focus, /* no focus effect for selected */\n.yui-navset .yui-nav .selected a:hover { /* no hover effect for selected */\n    background:#314A5B url(http://lastlook.pl/~quake/wikidot/images/yuitabs.png) repeat-x left -1400px; /* selected tab background */\n    color:#E2E2E2;\n}\n\n.yui-navset .yui-nav a:hover,\n.yui-navset .yui-nav a:focus {\n    background:#C9C9C9 url(http://lastlook.pl/~quake/wikidot/images/yuitabs.png) repeat-x left -1300px;\n}\n\n.yui-navset .yui-nav,\n.yui-navset .yui-navset-top .yui-nav {\n    border-color: #424242;\n}\n[[/module]]\n\n[!--\nFragments:\nhttp://scp-wiki.wikidot.com/fragment:scp-5235-1\nhttp://scp-wiki.wikidot.com/fragment:scp-5235-2\n--]\n\n[[module ListPages category=\"fragment\" parent=\".\" order=\"created_at\" limit=\"1\" offset=\"@URL|0\"]]\n%%content%%\n[[/module]]\n\n[[footnoteblock]]\n[[div class=\"footer-wikiwalk-nav\"]]\n[[=]]\n<< [[[SCP-5234]]] | SCP-5235 | [[[SCP-5236]]] >>\n[[/=]]\n[[/div]]",
+  "tags": [
+    "_listpages",
+    "delta-t",
+    "extradimensional",
+    "k-class-scenario",
+    "parasitic",
+    "pending",
+    "predatory",
+    "reality-bending",
+    "scp",
+    "temporal",
+    "thad-xyank"
+  ],
+  "author": "Dr Moned",
+  "created_at": "2020-06-16T23:50:59+00:00",
+  "updated_at": "2024-03-26T20:09:02+00:00",
+  "rating": 77,
+  "_site": "scp-wiki",
+  "_fullname": "scp-5235"
+}

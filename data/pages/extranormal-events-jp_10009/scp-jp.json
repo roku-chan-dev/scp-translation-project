@@ -1,0 +1,14 @@
+{
+  "title": "10009",
+  "content": "overview: 生中継中の情報番組で、画面上に小さく挿入されたスタジオ出演者の表情の映像が15秒間にわたって高速で回転した。\nswdate: '1'\ndate: 20██年██月██日16時52分\nswplace: '1'\nplace: ████県の████テレビ放送域一体\nswchaseprocedure: '1'\nchaseprocedure: 放送機器や映像機器に異常は無し。『スタジオの驚きを示す映像演出』として、人為的に再現したものを数度放映し、財団の所有するタレント事務所から抗議して映像表現の実質的禁止を行った。\nswaddendum: '0'\naddendum: ''\ntf2: '1'\nauthor: broken-bone\nredirect-b: '[[module Redirect destination=\"/log-of-extranormal-events-jp'\nredirect-e: '\"]]'",
+  "tags": [
+    "jp",
+    "剪定対象-子"
+  ],
+  "author": "machikawa",
+  "created_at": "2020-07-22T12:07:41+00:00",
+  "updated_at": "2021-05-24T13:20:40+00:00",
+  "rating": 9,
+  "_site": "scp-jp",
+  "_fullname": "extranormal-events-jp:10009"
+}

@@ -1,0 +1,13 @@
+{
+  "title": "Scp 2019 J 7",
+  "content": "[[=]]\n[[span style=\"font-size: 200%; font-weight: bold;\"]]\n[[collapsible show=\"验证成功，您现在可以访问SCP-2019-J\" hide=\" \"]]\n[[/span]]\n[[/=]]\n\n[[module CSS]]\n\n/* DIV BLOCKS stolen from floppypheonix uwu */\n.quote-block{\n    border: 2px double #999;\n    background-color: #f4f4f4;\n    padding: .25em 1em;\n    margin-bottom: 1em;\n}\n.report-box{\n    border: 2px solid rgb(12, 12, 12);\n    background-color: white;\n    padding: .25em 1em;\n    margin: 0 auto 1em;\n    width: 50%;\n\n}\n\n[[/module]]\n\n[[<]]\n\n[[include :scp-wiki-cn:component:anomaly-class-bar-source\n|lang= cn\n|item-number= 2019-J\n|clearance= 6\n|container-class= esoteric\n|secondary-class= apollyon\n|secondary-icon= http://scp-wiki.wikidot.com/local--files/component:anomaly-class-bar/apollyon-icon.svg\n|disruption-class= amida\n|risk-class= 危急\n]]\n@@@@ @@@@ @@@@ @@@@\n@@@@ @@@@ @@@@ @@@@\n\n[[include :scp-wiki:component:image-block name=https://upload.wikimedia.org/wikipedia/commons/thumb/2/24/Nora_the_shaggy_dog_02.jpg/750px-Nora_the_shaggy_dog_02.jpg|caption=SCP-2019-J]]\n**项目编号：** SCP-2019-J\n\n**描述：** SCP-2019-J是一只非常，//非常//毛茸茸的爱尔兰猎狼犬。当受试者看到它时，他们会说：“哇，那只狗超级毛茸茸。\n\n**特殊收容措施：**SCP-2019-J被收容在一个标准动物收容单元中。收容单元必须每五天吸尘一次，否则SCP-2019-J毛茸茸的毛发可能会脱落太多而弄得一团糟。\n\n[[/<]]\n\n\n@@@@ @@@@ @@@@\n@@@@ @@@@ @@@@\n@@@@ @@@@ @@@@\n@@@@ @@@@ @@@@\n@@@@ @@@@ @@@@\n@@@@ @@@@ @@@@\n@@@@ @@@@ @@@@\n@@@@ @@@@ @@@@\n@@@@ @@@@ @@@@\n\n[[=]]\n[[div class=\"report-box\"]]\n+ **O5-1的备注**\n------\n@@@@ @@@@ @@@@\n哇，那只狗超级毛茸茸……\n\n@@@@ @@@@ @@@@\n@@@@ @@@@ @@@@\n@@@@ @@@@ @@@@\n@@@@ @@@@ @@@@\n但我见过更毛茸茸的。\n@@@@ @@@@ @@@@\n@@@@ @@@@ @@@@\n@@@@ @@@@ @@@@\n@@@@ @@@@ @@@@\n\n[[/div]]\n[[/=]]\n[[/collapsible]]",
+  "tags": [
+    "段落"
+  ],
+  "author": "Ying_ZH",
+  "created_at": "2024-04-06T06:36:08+00:00",
+  "updated_at": "2024-04-06T06:36:45+00:00",
+  "rating": 0,
+  "_site": "scp-wiki-cn",
+  "_fullname": "fragment:scp-2019-j-7"
+}

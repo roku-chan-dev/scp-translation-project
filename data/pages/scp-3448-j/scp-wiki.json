@@ -1,0 +1,24 @@
+{
+  "title": "SCP-3448-J",
+  "content": "=====\n[[include component:preview\ntext=Wherein the former President is unharmed.]]\n=====\n\n[[>]]\n[[module Rate]]\n[[/>]]\n\n[[include :scp-wiki:component:author-label-source start=--\n|name=Calibold\n|no-right-margin=*]]\n[[=]]\n[[module ListPages range=\".\"]]\n**%%title%% -- %%content{4}%%**\n[[/module]]\n\n**[[[Calibri Bold's Mega Cool Author Page|Calibold's Mega Cool Author Page]]]**\n[[/=]]\n[[include :scp-wiki:component:author-label-source end=--]]\n\n[[include component:image-block\n| name=https://scp-wiki.wdfiles.com/local--files/scp-3448-j/Teddy.jpeg\n| caption=SCP-3448-J.\n| width=300px]]\n\n**Item #:** SCP-3448-J\n\n**Object Class:** Euclid\n\n**Special Containment Procedures:** SCP-3448-J is contained in a standard humanoid containment cell. All misinformation campaigns affirming the death of SCP-3448-J have been successful, and no further containment efforts are required.\n\n**Description:** SCP-3448-J is the 26th president of the United States of America, Theodore Roosevelt Jr. Despite over 160 years having passed since SCP-3448-J's birth, it has not died, and has not aged since 1/6/1919. Additionally, testing has revealed that SCP-3448-J heals extremely quickly from all forms of damage, and bears remarkable stamina and tolerance for pain. The extent of these abilities is unknown, but is evidently far greater than the Foundation is willing to test.\n\n**Discovery:** SCP-3448-J's anomalous properties were discovered on 1/6/1919, after the former president emerged from his chambers having made a full recovery from his otherwise fatal ailments. Foundation forces contained the former president, and began a misinformation campaign to convince the public that SCP-3448-J had died. SCP-3448-J's doctor at the time had been present in his room, and made notes of the interaction.\n\n> I am pained to confess that I had fallen asleep at the president's bedside. But I had been awoken by a strange scuffling at the door.\n> \n> I looked. My mind may have still been partially asleep, but I bear no doubts that the visage which had entered into the president's chambers was none other than Death herself.\n> \n> I remained still and silent; even in my dreary state, and faced with the passing of such a treasured and important man, I knew better than to confront Death whilst she collects her soul.\n> \n> \"Theodore,\" she said, \"Your time is up.\"\n> \n> She pulled back the sheets of the president's bed to reveal a messy assortment of pillows and wadded laundry. Behind Death, unseen, President Roosevelt emerged from the shadows.\n> \n> [https://scp-wiki.wikidot.com/end-of-death-hub \"Bully,\" he said as he punched Death in the face.]\n\n[[include :scp-wiki:more-by:calibold]]\n\n[[div style=\"display:none;\"]]\n=====\nShould Have Taken Him Sleeping\n=====\n[[/div]]\n\n[[include :scp-wiki:component:license-box]]\n> **Filename:** https://scp-wiki.wikidot.com/local--files/scp-3448-j/Teddy.jpeg\n> **Name:** President Roosevelt\n> **Author:** Library of Congress\n> **License:** Public Domain\n> **Source Link:** https://commons.wikimedia.org/wiki/File:President_Roosevelt_-_Pach_Bros.jpg\n[[include :scp-wiki:component:license-box-end]]",
+  "tags": [
+    "_cc",
+    "_licensebox",
+    "alive",
+    "end-of-death",
+    "euclid",
+    "historical",
+    "humanoid",
+    "joke",
+    "political",
+    "sapient",
+    "scp",
+    "self-repairing"
+  ],
+  "author": "Calibold",
+  "created_at": "2020-01-13T22:32:16+00:00",
+  "updated_at": "2024-10-09T18:20:00+00:00",
+  "rating": 117,
+  "_site": "scp-wiki",
+  "_fullname": "scp-3448-j"
+}

@@ -1,0 +1,15 @@
+{
+  "title": "評価の高い記事(2018年)-ARC",
+  "content": "ここでは、2018年に作成された記事の内から評価の高いものを見つけることができます。今月作成された記事に関しては[[[archived:Top Rated Pages This Month|今月の評価の高い記事]]]を参照してください。\n\n\n[[collapsible show=\"+ 2018年01月\" hide=\"- クリックで閉じる\"]]\n[[module ListPages rating=\">5\" order=\"rating desc\" separate=\"false\" limit=\"50\" category=\"_default\" perPage=\"50\" date=\"2018.01\"]]\n %%title_linked%% (評価: %%rating%%, コメント: %%comments%%)\n[[/module]]\n[[/collapsible]]",
+  "tags": [
+    "jp",
+    "アーカイブ済み",
+    "管理"
+  ],
+  "author": "hatahata",
+  "created_at": "2018-02-04T07:02:47+00:00",
+  "updated_at": "2021-10-08T10:33:21+00:00",
+  "rating": 7,
+  "_site": "scp-jp",
+  "_fullname": "archived:top-rated-pages-by-month-2018"
+}

@@ -1,0 +1,14 @@
+{
+  "title": "License Box Backend",
+  "content": "[[div class=\"licensebox\"]]\n[[collapsible show=\"‡ ライセンス / 引用\" hide=\"‡ ライセンス / 引用を閉じる\"]]\n本ページを引用する際の表記:\n[[module listpages range=\".\"]]\n> 「%%title_linked%%」著作権者: {$author} 出典: [http://scp-jp.wikidot.com/ SCP財団Wiki] http://scp-jp.wikidot.com/%%fullname%% ライセンス: [[iftags +cc4]] [https://creativecommons.org/licenses/by-sa/4.0/deed.ja CC BY-SA 4.0] [[/iftags]][[iftags -cc4]] [https://creativecommons.org/licenses/by-sa/3.0/deed.ja CC BY-SA 3.0] [[/iftags]]\n[[/module]]\nこのコンポーネントの使用方法については、[[[component:license-box|ライセンスボックス]]] を参照してください。ライセンスについては、[[[licensing-guide|ライセンスガイド]]] を参照してください。",
+  "tags": [
+    "en",
+    "コンポーネント・バックエンド"
+  ],
+  "author": "Rokurokubi",
+  "created_at": "2024-05-24T07:31:29+00:00",
+  "updated_at": "2025-03-01T09:48:48+00:00",
+  "rating": 6,
+  "_site": "scp-jp",
+  "_fullname": "component:license-box-backend"
+}

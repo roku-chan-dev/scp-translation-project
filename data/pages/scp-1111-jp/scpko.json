@@ -1,0 +1,20 @@
+{
+  "title": "SCP-1111-JP",
+  "content": "[[include info:start]]\n+* SCP-1111-JP: [[span class=\"ruby\"]]국[[span class=\"rt\"]]国[[/span]][[/span]][[span class=\"ruby\"]]체[[span class=\"rt\"]]体[[/span]][[/span]][[span class=\"ruby\"]]호[[span class=\"rt\"]]護[[/span]][[/span]][[span class=\"ruby\"]]지[[span class=\"rt\"]]持[[/span]][[/span]]\n**원작:** http://scp-jp.wikidot.com/scp-1111-jp\n**저자:** [[*user hannyahara]]\n**역자:** [[*user salamander724]]\n[[include info:end]]\n\n[[module ListPages parent=\".\" limit=\"1\" order=\"created_at\" offset=\"@URL|0\"]]\n%%content%%\n[[/module]]\n\n[!--\nhttps://scpko.wikidot.com/scp-1111-jp-1\nhttps://scpko.wikidot.com/scp-1111-jp-2\nhttps://scpko.wikidot.com/scp-1111-jp-3\nhttps://scpko.wikidot.com/scp-1111-jp-4\n--]",
+  "tags": [
+    "1000jp",
+    "jp",
+    "scp",
+    "수집원",
+    "역사적",
+    "종교",
+    "타우미엘",
+    "현실조작"
+  ],
+  "author": "Salamander724",
+  "created_at": "2022-06-19T14:55:31+00:00",
+  "updated_at": "2024-11-03T06:17:12+00:00",
+  "rating": 5,
+  "_site": "scpko",
+  "_fullname": "scp-1111-jp"
+}

@@ -1,0 +1,23 @@
+{
+  "title": "SCP-649-2568-J",
+  "content": "[[include component:info-ayers\n|page=scp-649-2568-j[!-- url of your page on the scp wiki --]\n|authorPage=dr-cimmerian-s-personnel-file[!-- link to your author page --]\n|comments= \n\n如果有人觉得649-2568是“大杂烩”（Mix-A-Lot），也就是指那行“拨打电话1-900-MIXALOT并踢除那些讨厌的想法”。回娘胎里去吧。\n\n然后这是条水蟒。图片来源在此：https://commons.wikimedia.org/wiki/File:Anaconda_jaune_34.JPG 。\n\n(© Patrick JEAN / 南特自然历史博物馆（muséum d'histoire naturelle de Nantes\"）)\n\n我有个想法并且我不能放弃它。还有我喜欢双关。\n\n]]\n[[include component:black-highlighter-theme-dev]]\n[[module CSS]]\nsup { \nvertical-align: top; position: relative; top: -0.5em; \n}\n:root{ \n--cutColour: #fafafa;\n--barColour: #590505;\n}\n\n.info-container .collapsible-block-folded a{\ncolor: #FFF;}\n.info-container .collapsible-block-unfolded-link a{\ncolor: #FFF;}\n\n.translation_block{\ndisplay:none;}\n[[/module]]\n[[module css]]\n#side-bar {\n    background: rgb(var(--white-monochrome));\n}\n\n#side-bar div.menu-item a, #side-bar div.menu-item .text {\n    color: rgb(var(--black-monochrome));\n}\n\n#side-bar>div:nth-child(5) {\n    background-color: rgba(var(--dark-accent),0.25)!important;\n}\n[[/module]]\n[[include component:image-block name=http://scp-wiki.wdfiles.com/local--files/scp-649-2568-j/Anaconda_jaune_34.JPG|caption=收容单元里的SCP-649-2568|width=300px]]\n\n**项目编号：**SCP-649-2568\n\n**项目等级：**Keter\n\n**特殊收容措施：**SCP 649-2568将被收容与标准动物收容单元中，任何情况下不得使 SCP 649-2568讨论地质学、地理学问题。\n\nSCP 649-2568每日都要接受采访，特别注意其是否有任何的逃脱尝试。其他所有对 SCP 649-2568的测试必须经由项目主管批准。\n\n**描述：**SCP 649-2568是一实体，外形类似黄水蚺（//Eunectes notaeus//）。尽管看起来像黄水蚺， SCP 649-2568有自己的人格并会以一人类男性的说话方式说话。SCP 649-2568被确认能改变它所看到的任何地理学特征，听到相关描述时也行。这种改变只会针对实体认为“太平了”的部分。这包括平原、沼泽、海平面。\n\n在变形事件期间，这些地点会发生数秒的震动，接着一坨隆起会在该区域的地理中心升起。这些隆起会高出周围地面，都有着陡峭的边缘和平坦的顶部。目前看来这种隆起的产生无法被阻止，不过这些隆起除了产生过程外不具异常效应。\n\n此外，在被采访时，SCP 649-2568展现出一种对任何提问诚实作答的冲动。这种冲动使得基金会发现了它多次尝试逃脱，有一次还与某外部组织存在异常关联。\n\n由于其改变地形的能力和对地点的描述存在关系，必须确认这种异常关联的确切方式以保证有效收容。尽管采访被确认能有效限制此种联系，仍需在采访中注意避免引发新的地形改变事件。\n\n[[collapsible show=\"+ 显示采访记录\" hide=\"隐藏采访记录\"]]\n\n> //下列采访在收容后没过多久进行。//\n> \n> **[[[dr-cimmerian-s-personnel-file|Cimmerian博士]]]：**你好，请用你的方式介绍自己。\n> \n> **SCP 649-2568：**好吧。翘臀赛高，以及我不会撒谎。\n> \n> //采访在如此坦白后暂停，直至项目主管批准更多问题为止。//\n[[/collapsible]]",
+  "tags": [
+    "cimmerian博士",
+    "keter",
+    "scp",
+    "动物",
+    "地质",
+    "感知力",
+    "搞笑",
+    "智能",
+    "活物",
+    "爬行类动物",
+    "蛇类"
+  ],
+  "author": "Letitia213",
+  "created_at": "2016-01-08T03:52:29+00:00",
+  "updated_at": "2022-02-15T02:45:25+00:00",
+  "rating": 2,
+  "_site": "scp-wiki-cn",
+  "_fullname": "scp-649-2568-j"
+}

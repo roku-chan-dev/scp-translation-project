@@ -1,0 +1,14 @@
+{
+  "title": "미디어 삽입",
+  "content": "++ [[# video]]비디오\n\n비디오를 페이지에 직접 삽입하기 위해서는 {{@@[[embedvideo]] ... [[/embedvideo]]@@}} 블록을 사용하세요.\n\"삽입할 html 코드\" 사이에는 아래 비디오 온라인 갤러리에서 가져온 코드가 위치해야합니다.\n\n* [http://video.google.com 구글 비디오]\n* [http://www.youtube.com 유튜브]\n\n예를들면,\n\n[[code]]\n[[embedvideo]]\n<embed style=\"width:400px; height:326px;\" id=\"VideoPlayback\" align=\"middle\"\ntype=\"application/x-shockwave-flash\"\nsrc=\"http://video.google.com/googleplayer.swf?docId=263244138622602613\"\nallowScriptAccess=\"sameDomain\" quality=\"best\" bgcolor=\"#ffffff\" scale=\"noScale\" salign=\"TL\"\nFlashVars=\"playerMode=embedded\"> </embed>\n[[/embedvideo]]\n[[/code]]\n\n++ [[# audio]]오디오\n\n오디오를 삽입하려면 오디오 호스팅 웹사이트에서 찾은 html 삽입 코드와 {{@@[[embedaudio]] ... [[/embedaudio]]@@}}를 사용하세요.\n\n현재 지원하는 곳은 아래와 같습니다.\n* [http://www.odeo.com Odeo.com]\n\n예를들면,\n[[code]]\n[[embedaudio]]\n<embed src=\"http://www.odeo.com/flash/audio_player_standard_gray.swf\"\nquality=\"high\" width=\"300\" height=\"52\" name=\"audio_player_standard_gray\"\nalign=\"middle\" allowScriptAccess=\"always\" wmode=\"transparent\"\ntype=\"application/x-shockwave-flash\" flashvars=\"audio_id=99133&audio_duration=282.0&valid_sample_rate=true&external_url=http://www.vitalpodcasts.com/FileSystem/podcasts/89/opensource_episode1.mp3\" pluginspage=\"http://www.macromedia.com/go/getflashplayer\" />\n</embed><br /><a style=\"font-size: 9px; padding-left: 110px; color: #f39;\nletter-spacing: -1px; text-decoration: none\" href=\"http://odeo.com/audio/99133/view\">\npowered by <strong>ODEO</strong></a>\n[[/embedaudio]]\n[[/code]]",
+  "tags": [
+    "관리",
+    "안내"
+  ],
+  "author": "Dr Devan",
+  "created_at": "2014-12-19T08:59:53+00:00",
+  "updated_at": "2014-12-30T18:24:25+00:00",
+  "rating": 0,
+  "_site": "scpko",
+  "_fullname": "wiki-syntax:embedding"
+}

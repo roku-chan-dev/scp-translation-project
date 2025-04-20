@@ -1,0 +1,18 @@
+{
+  "title": "Ignota's \"The Heresy of Disassembly\" Pixel Fanart",
+  "content": "[[include component:ratio-bar base=-- |ex=--]]\n[[>]]\n[[include :scp-wiki:info:start]]\n**Art Mycotherapy**\n[[include component:ratio-bar pie=--]]\n[[include :scp-wiki:info:end]]\n[[/>]]\n[[module ListPages created_by=\"IronShears\" category=\"fragment\" name=\"fragment:art-mycotherapy%\" order=\"created_at\" limit=\"1\" offset=\"@URL|0\"]]\n%%content%%\n[[/module]]\n[[=]]\n+ [[span class=\"linkTwo\"]][http://scp-wiki.wikidot.com/art:art-mycotherapy-COTBG-pix Original Theme][[/span]]\n+ [[span class=\"linkOne\"]][http://scp-wiki.wikidot.com/art:art-mycotherapy-COTBG-pix/offset/1 Click here if the theme hurts your eyes][[/span]]\n[[/=]]\n[[div style=\"border-radius: 10px;\n  background-repeat: no-repeat;\n  background-position: center;\nborder:solid 2px var(--accentColor);\npadding:15px;\nmargin-bottom: 15px;\"]]\n[[=]]\n[[image https://i.imgur.com/Zl8tc9Q.gif]]\n++ [https://www.tiktok.com/@ironshearss/video/7101302341269294382?is_copy_url=1&is_from_webapp=v1&lang=en Process Video] | [https://scp-wiki.wikidot.com/the-heresy-of-disassembly The Heresy of Disassembly]\n\n[[<]]\n> **Filename:** cotbg.mp4, cotbg.png\n> **Author:** IronShears\n> **License:** https://creativecommons.org/licenses/by-sa/3.0/\n> **Source Link:** https://www.tiktok.com/@ironshearss/video/7101302341269294382?is_copy_url=1&is_from_webapp=v1&lang=en\n> **Derivative of:** The Heresy of Disassembly by Ihp\n[[/<]]\n-----\n\nI really like this tale. I hadn't really read much relating to the COTBG before this because all the lore surrounding it was intimidating for some reason but I'm glad it was suggested! This is also the second piece I did for the SCP for Corgo Campaign, btw. This one is for SMLT.\n\nI couldn't decide on going for full copper or full steel look so I kinda mixed the two of them in together and just made a palette I thought would look neat! Also got kinda creative with the shape of the room on this one. aha.\n\n+ [https://scp-wiki.wikidot.com/art:art-mycotherapy More Art Mycotherapy]\n[[/=]]\n[[/div]]",
+  "tags": [
+    "_cc",
+    "animated",
+    "artwork",
+    "broken-god",
+    "goi-art",
+    "pixel-art"
+  ],
+  "author": "IronShears",
+  "created_at": "2022-05-27T19:41:55+00:00",
+  "updated_at": "2024-04-24T14:59:05+00:00",
+  "rating": 27,
+  "_site": "scp-wiki",
+  "_fullname": "art:art-mycotherapy-cotbg-pix"
+}

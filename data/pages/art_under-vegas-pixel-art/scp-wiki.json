@@ -1,0 +1,18 @@
+{
+  "title": "Gooday's SCP-4661 Pixel Art",
+  "content": "[[include :scp-wiki:theme:black-highlighter-theme]]\n[[include :scp-wiki:component:collapsible-sidebar]]\n[[include :scp-wiki:component:centered-header-bhl]]\n[[include :scp-wiki:component:pride-highlighter |inc-bi-alt= --]]]\n\n[[module CSS]]\n:root {\n--toggle-roundness: 0;\n}\n\n:root {\n --header-title: \"Gooday's Pixel Art\";\n    --header-subtitle: \"What Fresh Hell Is This?\";\n--gradient-header: linear-gradient(0deg, rgba(0,56,168,1) 0%, rgba(155,79,150,1) 45%, rgba(155,79,150,1) 55%, rgba(214,2,112,1) 100%);\n--diagonal-stripes: linear-gradient(transparent 0);\n}\n\n#search-top-box-form input[type=submit], #search-top-box-form input[type=submit]:focus, #search-top-box-form input[type=submit]:hover {\nbackground: rgb(214, 2, 112);\ncolor: rgb(0, 0, 0);\n}\n[[/module]]\n\n[[>]]\n[[module Rate]]\n[[/>]]\n\n= [[image under_vegas.png]]\n\n-----\n\n> **HOUSE:** I'll put my soul on the table. But it means I get to pick the game.\n> \n> **PLUTO:** That's fair.\n> \n> **HOUSE:** Magic the Gathering.\n> \n> **PLUTO:** What? No. Pick a real fucking game.\n\n-----\n\n**Subject:** [https://scp-wiki.wikidot.com/scp-4661 SCP-4661] -- Sin City written by [https://scp-wiki.wikidot.com/rounderhouse-s-author-page ROUNDERHOUSE]\n\n**Commentary:** One of Rounder's earlier works on the wiki SCP-4661 presented a fantastic location that I personally can't get enough of. It has absolutely wonderful characters and the writing itself is extremely fun. In this piece, I tried to encapsulate the feeling of UnderVegas, with demons, gambling, and hellfire being prominent in the drawing. \n\n**Time Taken:** 2h 59m\n\n**Program Used:** 8bit Painter\n\n**Canvas Size:** 128x128\n\n[[=]]\n++ [https://scp-wiki.wikidot.com/secure-contain-pixelate More Pixels!]\n[[/=]]\n\n[[include :scp-wiki:component:license-box]]\n=====\n> **Filename:** under_vegas.png\n> **Author:** [[*user DrGooday]]\n> **License:** CC-BY-SA 3.0\n> **Source Link:** [https://scp-wiki.wdfiles.com/local--files/art%3Aunder-vegas-pixel-art/under_vegas.png SCP Foundation Wiki]\n=====\n[[include :scp-wiki:component:license-box-end]]",
+  "tags": [
+    "_cc",
+    "_licensebox",
+    "artwork",
+    "pixel-art",
+    "scp-art",
+    "undervegas"
+  ],
+  "author": "DrGooday",
+  "created_at": "2021-10-15T01:58:30+00:00",
+  "updated_at": "2024-03-28T14:08:29+00:00",
+  "rating": 34,
+  "_site": "scp-wiki",
+  "_fullname": "art:under-vegas-pixel-art"
+}

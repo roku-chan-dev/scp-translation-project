@@ -1,0 +1,13 @@
+{
+  "title": "fragment:scp-5987-3",
+  "content": "[[include :scp-wiki:component:anomaly-class-bar-source\n\n|item-number= 5987\n\n|clearance= 1\n\n|container-class= euclid\n\n|secondary-class= none\n\n|secondary-icon= http://urlhere.com\n\n|disruption-class= dark\n\n|risk-class= notice\n\n]]\n\n------\n\n[[include component:image-block\n    name=sirenhead|\n    caption=SCP-5987 after restoration.\n]]\n\n**Special Containment Procedures:** SCP-5987 has been treated for saltwater protection and fitted to a historically accurate miniature 19th century sailing ship, which has been placed in the saltwater enclosure at Area 34's Marine Observatory. SCP-5987 should be examined once a month for any signs of damage.\n\n**Description:** SCP-5987 is the former figurehead of the //Duc de Dantzig//, a French privateer brig[[footnote]]A two-masted sailing vessel common during the 18th and early 19th centuries.[[/footnote]] from the early 19th century. However, analysis of the composition has revealed that SCP-5987 was made approximately two hundred years prior and was most likely added after construction of the brig.\n\nSCP-5987 is able to control all seafaring vessels within a kilometer of its vicinity. In the past, its ability was used to sink rival ships or run them aground for looting. It appeared to resent this task however and ended up killing its captain François Aregnaudeau and his crew in 1811. After it was burned at sea by a French naval ship, the manner of its \"death\" was strong enough to create an spectral disturbance tied to its location.\n\nCurrently, SCP-5987 uses its abilities to sail around its enclosure. Personnel in close vicinity report hearing an unknown chorus of voices singing the French sea shanty //Boney (Was a Warrior).//",
+  "tags": [
+    "fragment"
+  ],
+  "author": "Cerastes",
+  "created_at": "2020-05-10T20:10:14+00:00",
+  "updated_at": "2021-12-03T20:13:24+00:00",
+  "rating": 1,
+  "_site": "scp-wiki",
+  "_fullname": "fragment:scp-5987-3"
+}

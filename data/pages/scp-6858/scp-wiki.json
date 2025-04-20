@@ -1,0 +1,23 @@
+{
+  "title": "SCP-6858",
+  "content": "[[module css]]\n#page-title {\n    display: none;\n[[/module]]\n\n[[module css]]\nspan, a { word-break: normal !important }\n[[/module]]\n\n[[module CSS]]\n:root {\n    --thaumiel: 0, 135, 189\n[[/module]]\n\n[!--\nFragments:\nhttps://scp-wiki.wikidot.com/fragment:scp-6858-offset-0\nhttps://scp-wiki.wikidot.com/fragment:scp-6858-offset-1\n--]\n\n[[module ListPages category=\"fragment\" parent=\".\" order=\"created_at\" limit=\"1\" offset=\"@URL|0\"]]\n%%content%%\n[[/module]]\n\n[[=]]\n<< **[[[SCP-6721]]]** | **[/on-guard-43-hub Words of Power and Poison]** | **[[[SCP-6965]]]** >>\n\n[[div class=\"footer-wikiwalk-nav\"]]\n<< [[[SCP-6857]]] | SCP-6858 | [[[SCP-6859]]] >>\n[[/div]]\n\n[[div]]\n[[include :scp-wiki:component:license-box]]\n=====\n[[<]]\n> **Filename:** activewolf.jpg\n> **Name:** hombre lobo\n> **Author:** Edith Soto\n> **License:** CC BY-SA 2.0\n> **Source:** [https://www.flickr.com/photos/21793854@N02/6699159247 flickr]\n\n> **Filename:** argus-icon.svg, OD.png, OSAT_improved.png \n> **Author:** HarryBlank\n> **License:** CC BY-SA 3.0\n\n> **Filename:** Loup.jpg\n> **Name:** Many Dead Things\n> **Author:** Abigail Silvester\n> **License:** CC BY 2.0\n> **Source:** [https://www.flickr.com/photos/62418070@N00/4657097887 flickr]\n\n[[/<]]\n=====\n[[include :scp-wiki:component:license-box-end]]\n[[/=]]\n[[/div]]",
+  "tags": [
+    "_cc",
+    "_licensebox",
+    "_listpages",
+    "alive",
+    "animal",
+    "canine",
+    "director-scout",
+    "esoteric-class",
+    "humanoid",
+    "on-guard-43",
+    "scp"
+  ],
+  "author": "HarryBlank",
+  "created_at": "2023-01-10T04:56:12+00:00",
+  "updated_at": "2023-04-26T09:11:04+00:00",
+  "rating": 97,
+  "_site": "scp-wiki",
+  "_fullname": "scp-6858"
+}

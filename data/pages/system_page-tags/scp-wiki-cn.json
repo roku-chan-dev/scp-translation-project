@@ -1,0 +1,13 @@
+{
+  "title": "",
+  "content": "[[module CSS]]\n.content-panel p { padding: 0 0.75em; }\n[[/module]]\n\n[[div class=\"content-panel centered standalone\"]]\n欢迎来到标签页面！什么是标签？到我们的[[[Tag Guide|]]]去查明吧！\n\n你能以右侧的标签云或者标签指导来浏览标签。如果你想一次搜索多个标签，试试高级[[[tag-search|]]]。\n[[/div]]\n\n[[div style=\"float:right; width: 50%;\"]]\n[[module TagCloud limit=\"200\" target=\"system:page-tags\"]]\n[[/div]]\n[[module PagesByTag]]\n\n[!--\n\nYou can edit parameters of the TagCloud module as described in http://www.wikidot.com/doc:tagcloud-module \nBut if you want to keep the tag functionality working - do not remove these modules.\n\n--]",
+  "tags": [
+    "管理"
+  ],
+  "author": "Areyoucrazytom",
+  "created_at": "2013-01-30T17:36:26+00:00",
+  "updated_at": "2020-07-18T11:39:19+00:00",
+  "rating": 0,
+  "_site": "scp-wiki-cn",
+  "_fullname": "system:page-tags"
+}

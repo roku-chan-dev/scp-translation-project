@@ -1,0 +1,19 @@
+{
+  "title": "SCP-4928",
+  "content": "[[include :scp-wiki-cn:component:black-highlighter-theme-dev]]\n\n[[include :scpsandboxcn:component:cd-ver2\n|lv=1\n|item=SCP-4928\n|class=Safe\n|site-responsible=Site-12\n|director=Dr. Jack Hargraves\n|research-head=N/A\n|assigned-task-force=N/A\n]]\n\n**特殊收容措施：**依据动物学研究部门的指导意见，SCP-4928应被收容于标准四足动物收容间内。\n\nSCP-4928-1所处设施现已使用混凝土密封。\n\n**描述：**SCP-4928是七只身着万圣节服饰的小猫的总称。所有的SCP-4928个体均佩戴着相同的项圈，项圈上以孩童的笔迹写有“Billy的小猫”的字样。所有尝试伤害SCP-4928个体的行为均宣告失败。SCP-4928个体的身体总是处于十分潮湿的状态，建议与之接触的人员随身携带毛巾以使身体保持干燥。\n\nSCP-4928-1是位于SCP-4928发现地点的持续听觉性异常：声音来源表现为一名哭唤着母亲的孩童。在其所处设施被密封前，上述声音每隔三十秒重复一次。\n\n[[collapsible show=\"+ SCP-4928-1音频记录\" hide=\"- 隐藏记录\"]]\n\n> <**信息循环开始**>\n> \n> **声音来源：**Johnny？Johnny！让我出去。求你了，我不是故意拿走它的。求你了，让我出去。求求你让它们出去。我保证它们从来没伤害过任何人。妈咪？妈咪......[水花飞溅声][停顿]......我希望至少你们能逃出去。\n> \n> <**信息循环结束**>\n\n[[/collapsible]]\n\n**回收记录：**SCP-4928被发现于佛蒙特州乡村Hollingson农场内一口井底的麻袋中，同时被发现的还包括一具12岁男孩的骨骸，其身份后被确认为当地居民William Elliot[[footnote]]译注：Billy在英文中为William的昵称[[/footnote]]。根据报道，William Elliot于1960年10月31日夜间被确认失踪，其所拥有的树屋也于同时被发现已被洗劫一空。在对树屋进行的现场勘查中，当地警方在一个饼干罐内发现了一把弹簧刀。14岁的当地居民Jonathan Regis[[footnote]]译注：Johnny在英文中为Jonathan的昵称[[/footnote]]作为该弹簧刀的主人，被警方列为失踪案的头号嫌疑人。水井内未观察到其它异常性质。\n\n[[footnoteblock]]\n\n[[div class=\"footer-wikiwalk-nav\"]]\n[[=]]\n<< [[[SCP-4927]]] | SCP-4928 | [[[SCP-4929]]] >>\n[[/=]]\n[[/div]]",
+  "tags": [
+    "safe",
+    "scp",
+    "不可摧毁",
+    "地点",
+    "声音",
+    "循环",
+    "猫科"
+  ],
+  "author": "Black_scar",
+  "created_at": "2019-12-17T14:04:14+00:00",
+  "updated_at": "2024-02-12T14:47:37+00:00",
+  "rating": 1,
+  "_site": "scp-wiki-cn",
+  "_fullname": "scp-4928"
+}

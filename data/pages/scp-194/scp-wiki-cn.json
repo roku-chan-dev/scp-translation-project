@@ -1,0 +1,19 @@
+{
+  "title": "SCP-194",
+  "content": "[[module css]]\n.warning-box {\n    display: block;\n    width: 90%;\n    height: auto;\n    text-align:center;\n    overflow: visible;\n    margin: 0px 5% 10px 5%;\n}\n\n.warning-img {\n    width: 14%;\n    height: auto;\n    padding: 5px;\n    display: table-cell;\n    vertical-align: middle;\n}\n\n.warning-text {\n    max-width: 80%;\n    width: 80%;\n    display: table-cell;\n    padding: 5px;\n}\n\n.warning-text p {\n    display: inline-block;\n    padding: 5px;\n}\n[[/module]]\n\n[!--\nfragment pages:\nhttp://scp-wiki-cn.wikidot.com/fragment:scp-194-0\nhttp://scp-wiki-cn.wikidot.com/fragment:scp-194-1\nhttp://scp-wiki-cn.wikidot.com/fragment:scp-194-2\nhttp://scp-wiki-cn.wikidot.com/fragment:scp-194-3\n--]\n[[module ListPages category=\"fragment\" parent=\".\" limit=\"1\" order=\"created_at\" offset=\"@URL|0\"]]\n%%content%%\n[[/module]]\n@@@@\n\n[[div class=\"footer-wikiwalk-nav\"]]\n[[=]]\n<< [[[SCP-193]]] | SCP-194 | [[[SCP-195]]] >>\n[[/=]]\n[[/div]]\n\n[[include :scp-wiki-cn:component:license-box\n|author=CalibriBold 与 CityToast]]\n[[include :scp-wiki-cn:component:license-box-end]]",
+  "tags": [
+    "meta",
+    "safe",
+    "scp",
+    "合著",
+    "概念",
+    "现实扭曲",
+    "需更新"
+  ],
+  "author": "Just F",
+  "created_at": "2020-06-24T10:57:04+00:00",
+  "updated_at": "2023-03-19T15:06:24+00:00",
+  "rating": 11,
+  "_site": "scp-wiki-cn",
+  "_fullname": "scp-194"
+}

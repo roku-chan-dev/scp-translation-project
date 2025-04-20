@@ -1,0 +1,22 @@
+{
+  "title": "SCP-7165",
+  "content": "[[module CSS]]\nspan, a { word-break: normal !important }\n[[/module]]\n\n[[include theme:blankstyle]]\n\n[[module css]]\n:root {\n--타우미엘: 0, 135, 189\n}\n[[/module]]\n\n[[module CSS]]\n/* anendlessusername's invaluable correction of the ACS octagon! */\n#page-content .quadrants > div {\n    top: 2.25%;\n    left: 18.5%;\n}\n[[/module]]\n\n[[module CSS]]\n:root {\n    --timeDelay: 0.5s;\n}\n[[/module]]\n\n[[div]]\n[[include info:start]]\n**SCP-7165:** 말실수\n**원작:** http://scp-wiki.wikidot.com/scp-7165\n**저자:** [[*user HarryBlank]]\n**역자:** [[*user Langston77]]\n------\n[[=]]\n우리가 잘못했네.\n\n[[image http://scp-wiki.wdfiles.com/local--files/this-page-intentionally-left-blank/TLK.png]]\n\n**[[[http://www.scp-wiki.net/this-page-intentionally-left-blank|이 저자의 글 더 보기!]]]**\n[[/=]]\n[[include info:end]]\n[[/div]]\n\n[[div style=\"height:12px;\"]]\n[[/div]]\n\n[[div]]\n[[include :scpko:component:anomaly-class-bar-source\n\n|item-number= SCP-7165\n|clearance= 2\n|container-class= 난해\n|secondary-class= 나기\n|secondary-icon= https://scp-wiki.wdfiles.com/local--files/scp-7165/nagi-icon.svg\n|disruption-class= 암흑\n|risk-class= 주목\n\n]]\n\n[[include :scpko:component:acs-peppo-split\n|object= 케테르\n|object-image= https://scp-wiki.wdfiles.com/local--files/component%3Aanomaly-class-bar/keter-icon.svg\n|object-color= 케테르\n|esoteric-color= 타우미엘\n]]\n\n[[/div]]\n\n----\n\n[[include component:image-block\n    name=https://scp-wiki.wikidot.com/local--files/scp-7165/TLK.png|\n    caption=SCP-7165의 도상.|\n    width=250px|\n]]\n\n**특수 격리 절차:** 추후에 SCP-7165가 SCP 재단 인원의 생활에 연애 관련으로 간섭하는지는 Cliometria.aic와 기동특무부대 카파-43(\"중매자\")이 감시한다.[[span class=\"fnnum\"]].[[/span]][[span class=\"fncon\"]] 나기 등급의 변칙 개체는 변칙성을 드러내기를 중단하였지만, 해당 성질이 다시 나타나면 재분류하기 위하여 감시를 받는다. [[/span]]\n\n관련된 웹 도메인을 비활성화하려는 시도가 진행 중이다.\n\n----\n\n**설명:** SCP-7165는 GoI-5889([[[vikander-kneed-technical-media-hub|비칸데르니드 테크니컬 미디어]]])에서 운영하는 \"Tender Lovin' Karen\"이라는 이름의 온라인 데이팅 서비스이다. 그 웹사이트의 홍보문 개요는 다음과 같다.\n\n> 특별한 사람을 찾고 있나요? 정확하게는, 이 특별한 사람? SCP 재단 휴런호 제43연구격리기지 행정감독계장인 캐런 T. 엘스트롬 박사 말인가요? 네, 비칸데르니드^^TM^^에서 당신을 위한 선물을 준비해 두었답니다! Tender Lovin' Karen에 가입하고, 유일하게 볼 수 있는 다른 사용자를 왼쪽으로 스와이프하기만 하면 짜잔! 지난 20여 년 동안 단 한 번도 성공적인 데이트를 해 보지 못했지만 우리 시대의 비극으로 끝날 사랑을 나눌 그 분과 곧바로 사랑의 연결이 이루어집니다. 이 얼음 여왕의 황금 심장을 당신이 끝내 녹일 수 있을까요? 앞 문장에서 혼용된 비유를 알아차리지 못하지만 않는다면요! 그 분은 무척이나 세심한 사람이니까요.\n\nSCP-7165가 기능하는 원리는 명확하지 않지만, 엘스트롬 박사에게 관심을 보인 사용자는 그녀의 기존 데이팅 서비스에서 매칭이 이루어질 수 있다고 자연스럽게 생각하게 된다. 이러한 매칭이 직접 만나는 것으로 이어진 것은 단 한 번뿐인데, 그 결과로 변칙성이 발견되었다.\n\n----\n\n**부록 7165-1, 현상학적 개요:** 2023년 8월 21일 엘스트롬 박사는 매칭에 성공한 한 틴더 사용자의 신원을 규약에 따라 재단 자원을 이용하여 스스로 확인한 후 그와의 데이트를 주선하였다. 스리포틀랜즈의 Anafabulous! 비스트로에서 이루어진 데이트의 기록을 아래에 첨부하였다.\n\n[[div class=\"blockquote\"]]\n\n//<엘스트롬 박사가 테이블에서 기다리고 있다. 머리 대신 텔레비전 화면이 세 개 달린 무스를 닮은 독립체가 다가와 맞은편 의자를 짓밟고 그 잔해 위에 서 있다. 각 화면에는 붉은색 장미 열두 송이의 이미지가 나타난다.>//\n\n**독립체:** 반가워요, 아름다운 당신. 제가 당신의 데이트 상대랍니다.\n\n**엘스트롬 박사:** 안토니오 반데라스가 아니네.\n\n**독립체:** 감이 좋으신걸요!\n\n**엘스트롬 박사:** 너 비칸데르니드에서 온 무스잖아.\n\n**독립체:** 감이 조금 너무 좋은 걸지도요.\n\n**엘스트롬 박사:** 내가 오늘 열다섯 번이나 매칭이 잡혔거든. 그 놈들 싹 다 VKTM이냐?\n\n**독립체:** 우선은 여기에 집중해 주시죠, 아가씨. 지금은 우리만의 밤이니까.\n\n**엘스트롬 박사:** 이거 성희롱이야.\n\n//<화면 중 하나가 바뀌어 VKTM 대표 마리 맥퍼슨을 비춘다. 파란색 잠옷과 노란색 수면 안대를 착용하고 있는데, 수면 안대가 피로 흠뻑 젖어 있다.>//\n\n**맥퍼슨:** 그건 생각지도 못했는데. 썅. 씨발. 안 해.\n[[/div]]\n\n독립체는 사라졌고, 엘스트롬 박사의 틴더 계정으로 이루어진 매칭 15건도 모두 사라졌다. 다음 날 엘스트롬 박사 앞으로 노란색 장미 열한 송이와 사과문이 적힌 카드가 제43기지에 도착하였다. SCP-7165의 발견 및 그와의 상호 작용 직후에 \"Tender Lovin' Karen\" 도메인에서 호스팅되는 모든 콘텐츠가 삭제되었다.\n\n엘스트롬 박사는 자신의 모든 개인 데이팅 서비스 계정을 삭제하였다.",
+  "tags": [
+    "2023-리믹스경연-en",
+    "en",
+    "scp",
+    "마리-맥퍼슨",
+    "매체",
+    "비칸데르니드",
+    "엘스트롬-박사",
+    "온라인",
+    "지키리라-43기지",
+    "케테르"
+  ],
+  "author": "Langston77",
+  "created_at": "2025-01-20T09:27:08+00:00",
+  "updated_at": "2025-01-21T01:47:11+00:00",
+  "rating": 4,
+  "_site": "scpko",
+  "_fullname": "scp-7165"
+}

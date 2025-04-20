@@ -1,0 +1,27 @@
+{
+  "title": "SCP-5423",
+  "content": "[[>]]\n[[module Rate]]\n[[/>]]\n\n[!--\nFragment list:\nhttp://scp-wiki.wikidot.com/fragment:scp-5423-1\nhttp://scp-wiki.wikidot.com/fragment:scp-5423-2\nhttp://scp-wiki.wikidot.com/fragment:scp-5423-3\nhttp://scp-wiki.wikidot.com/fragment:scp-5423-4\nhttp://scp-wiki.wikidot.com/fragment:scp-5423-5\n--]\n\n[[module ListPages category=\"fragment\" parent=\".\" order=\"created_at\" limit=\"1\" offset=\"@URL|0\"]]\n%%content%%\n[[/module]]\n\n[[footnoteblock]]\n\n[[div class=\"footer-wikiwalk-nav\"]]\n[[=]]\n<< [[[SCP-5422]]] | SCP-5423 | [[[SCP-5424]]] >>\n[[/=]]\n[[/div]]\n\n[[include component:license-box]]\n=====\n> **Filename:** scp-5423-6-xk.html\n> **Author:** [[*user dreverettmann]]\n> **License:** CC BY-SA 3.0\n> **Source Link:** [/scp-5423 SCP Foundation Wiki]\n=====\n[[include component:license-box-end]]",
+  "tags": [
+    "5000",
+    "_licensebox",
+    "_listpages",
+    "chaos-insurgency",
+    "global-occult-coalition",
+    "gru-division-p",
+    "k-class-scenario",
+    "keter",
+    "location",
+    "meta",
+    "oria",
+    "reality-bending",
+    "scp",
+    "serpents-hand",
+    "spatial"
+  ],
+  "author": "DrEverettMann",
+  "created_at": "2020-01-21T04:44:04+00:00",
+  "updated_at": "2023-08-22T15:56:07+00:00",
+  "rating": 367,
+  "_site": "scp-wiki",
+  "_fullname": "scp-5423"
+}

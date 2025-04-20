@@ -1,0 +1,24 @@
+{
+  "title": "SCP-4394",
+  "content": "[[include :scpko:theme:classic]]\n[[include info:start]]\n**SCP-4394:** 액체 피아노,,Liquid Piano,,\n**작가:** [[*user Weryllium]]\n**역자:** [[*user LR0725]]\n**원본:** https://scp-wiki.wikidot.com/scp-4394\n[[include info:end]]\n[[include component:image-block\n    name=pianoliquidation.jfif|\n    caption=고체 상태의 SCP-4394-A.\n]]\n**일련번호:** SCP-4394\n\n**등급:** 유클리드\n\n**특수 격리 절차:** SCP-4394-A의 현재 비축분은 200L 들이 무균 드럼통에 보관한다.\n\nSCP-4394와 SCP-4394-B는 서로 분리하여 각각 인간형 격리실에 격리한다.\n\n**설명:** SCP-4394는 전(前) 콘서트 피아니스트인 호아킨 마르케스,,Joaquin Marquez,,로, 변칙적이며 점성 있는 흑색 액체 (SCP-4394-A)가 혈액을 대체하고 있다.\n\nSCP-4394-A는 주로 단백질과 유기 중합체로 구성되어 있다. 어는점인 1.19 °C보다 낮은 온도까지 냉각할 시, SCP-4394-A 액체는 양에 비례하는 크기의 제대로 작동하는 그랜드 피아노로 결정화된다. 가령 SCP-4394-A 몇 방울을 얼리면 약 1cm 너비의 피아노가 만들어진다.\n\nSCP-4394-A는 섭취하면 전혀 변환되지 않은 채로 소화계를 통과하지만, 가벼운 구역감이 들 수도 있다. 그러나 만약 정맥 주사로 투여하면 SCP-4394-A는 진정 및 돌연변이 유발 효과를 일으킨다.\n\nSCP-4394-A의 영향을 받은 대상자는 창의성과 생산성이 특기할 만큼 상승하며, 청각 역시 증강된다. SCP-4394-A는 중등도의 중독성을 보인다. 이 중독성은 점차 증가하다가, 체내에 내성이 생기면서 안정기에 접어들고 이내 감소한다.\n\n정맥 주사로 투여하는 경우 SCP-4394-A는 6~8주에 걸쳐 혈액, 림프액, 달팽이관 속 림프액을 SCP-4394-A로 점점 변환시킨다. 변환 과정은 지속 주사 시 더욱 빨라진다. 체액이 전부 변환된 뒤, SCP-4394-A 피영향자는 끊이지 않는 피아노 음악과 불분명한 인간 남성의 목소리가 들린다고 환청을 호소한다. 이 점만 제외하면 SCP-4394-A는 정상 체액과 별반 다르지 않게 작용한다.\n\nSCP-4394는 매켄지 로렌스,,Mackenzie Lawrence,, (현 SCP-4394-B)의 지하실에서 발견되었다. SCP-4394-B는 SCP-4394-A를 자기한테서 뽑아냈다가 다시 주사하길 추정컨대 7개월간 지속해 왔다. 지하실에서 나온 기타 물품들은 다음과 같다.\n\n* SCP-4394가 작곡한 곡의 미완성 악보 원본.\n* SCP-4394의 얼굴이 덮개에 새겨진 그랜드 피아노 한 대를 포함하여, SCP-4394가 일생 중 다양한 시점에 소유했거나 사용한 악기 일부 또는 전체.\n* SCP-4394의 사진 수천 장. 19년에 걸친 기간 동안 촬영됨.\n* SCP-4394의 고등학교 시절 음악 교사의 시신.\n\n이후 SCP-4394와 SCP-4394-B는 격리하여 정신과 치료를 제공했다.\n\n[[footnoteblock]]\n[[div class=\"authors\"]]\n[[include :scp-wiki:component:license-box\n|author=Weryllium]]\n> **Filename:** pianoliquidation.JPG\n> **Name:** Steinway Vienna 002.JPG\n> **Author:** Gryffindor\n> **License:** CC BY-SA 3.0\n> **Source Link:** [https://commons.wikimedia.org/wiki/File:Steinway_Vienna_002.JPG Wikimedia Commons]\n[[include :scp-wiki:component:license-box-end]]\n[[/div]]",
+  "tags": [
+    "en",
+    "scp",
+    "도구",
+    "생물",
+    "액체",
+    "유클리드",
+    "음악",
+    "음파",
+    "인간형",
+    "중독",
+    "지성",
+    "혈액"
+  ],
+  "author": "LR0725",
+  "created_at": "2024-11-27T05:35:03+00:00",
+  "updated_at": "2024-11-27T05:35:57+00:00",
+  "rating": 9,
+  "_site": "scpko",
+  "_fullname": "scp-4394"
+}

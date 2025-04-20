@@ -1,0 +1,18 @@
+{
+  "title": "SCP-CN-4K：宇宙肛门在跳舞",
+  "content": "[[html]]<script>setTimeout(\"alert('基金会温馨提示：文明观肛，禁止投喂老八秘制小汉堡')\",3000)</script>[[/html]]\n\n[[module css]]\n/* Hide page title */\n#page-title {\n    display: none;\n}\n[[/module]]\n\n[[include :scp-wiki-cn:theme:the-flowing-night-sky]]\n\n[[module css]]\n.wave-text {\n    font-size: 36px;\n    font-weight: bold;\n    text-align: center;\n    display: inline-block;\n    animation: shake 0.5s linear infinite alternate, changeColor 2s linear infinite;\n}\n\n.wave-text .wave-letter {\n    display: inline-block;\n}\n\n@keyframes shake {\n    0% {\n        transform: translateY(0);\n    }\n    25% {\n        transform: translateY(-5px);\n    }\n    50% {\n        transform: translateY(0);\n    }\n    75% {\n        transform: translateY(5px);\n    }\n    100% {\n        transform: translateY(0);\n    }\n}\n\n@keyframes changeColor {\n    0% {\n        color: red;\n    }\n    25% {\n        color: blue;\n    }\n    50% {\n        color: green;\n    }\n    75% {\n        color: purple;\n    }\n    100% {\n        color: orange;\n    }\n}\n[[/module]]\n\n[[div class=\"wave-text\"]]\n[[span class=\"wave-letter\"]]SCP-CN-4K：宇宙肛门在跳舞[[/span]]\n[[/div]]\n[[>]]\n[[module rate]]\n[[/>]]\n\n\n[[module css]]\n.wave-text {\n    font-size: 24px; /* 调整文字大小 */\n    font-weight: bold; /* 加粗文字 */\n    white-space: nowrap; /* 确保文字不换行 */\n    overflow: hidden; /* 隐藏超出部分 */\n}\n\n.wave-letter {\n    display: inline-block;\n    animation: wave 2s linear infinite;\n    transform-origin: 0 50%;\n}\n\n@keyframes wave {\n    0% {\n        transform: translateY(0);\n        color: #ff0000; /* 初始文字颜色 */\n    }\n    25% {\n        transform: translateY(-10px);\n        color: #00ff00; /* 第一个顶点文字颜色 */\n    }\n    50% {\n        transform: translateY(0);\n        color: #0000ff; /* 中心文字颜色 */\n    }\n    75% {\n        transform: translateY(10px);\n        color: #00ffff; /* 第二个顶点文字颜色 */\n    }\n    100% {\n        transform: translateY(0);\n        color: #ff0000; /* 回到初始文字颜色 */\n    }\n}\n[[/module]]\n\n\n**项目编号：**SCP-CN-4K\n\n**项目等级：**Euclid\n\n**特殊收容措施：**SCP-CN-4K被收容于Site-CN-44男厕所隔间的马桶内部。\n\n厕所墙壁需每日喷洒空气清新剂，并循环播放《最炫民族风》《江南style》及《小苹果》。\n\n任何人员在进入收容间前必须佩戴墨镜与耳塞，并签署《关于自愿成为广场舞领队协议》。\n\n若SCP-CN-4K出现高频率震动现象，应立即将500kg麻辣火锅底料投入马桶中。\n\n**描述：**SCP-CN-4K是一于2025年4月1日从Site-CN-44食堂火锅汤底中出现的微型黑洞，当前卡在马桶U型管处。\n\n当附近存在节奏感强烈的音乐时，项目会以超高速度随音乐蹦迪，并将太阳系以内的天体加入“星际广场舞联盟”，进而出现以下异常情况：\n\n1.土星环转变为24K纳米核心荧光棒，每晚准时进行灯光秀。\n\n2.银河系出现巨型动态字幕：“家人们点点红心，主播给老铁们跳段激光雨。”\n\n3.地球大气层因长期吸入麻辣火锅蒸汽持续打喷嚏，引发持续性脑痰酸菜雨。\n\n@@@@\n@@@@\n@@@@\n> 您握有一个独占的15分钟锁定，这将会阻止其他人编辑您正在作业的页面。\n> 这个锁定将在闲置 896 秒后失效。\n@@@@\n@@@@\n@@@@\n--**项目编号：**SCP-CN-4K--\n\n--**项目等级：**Euclid--\n\n--**特殊收容措施：**SCP-CN-4K被收容于Site-CN-44男厕所隔间的马桶内部，--\n\n--厕所墙壁需每日喷洒空气清新剂，并循环播放《最炫民族风》《江南style》及《小苹果》。--\n\n--任何人员在进入收容间前必须佩戴墨镜与耳塞，并签署《关于自愿成为广场舞领队协议》。--\n\n--若SCP-CN-4K出现高频率震动现象，应立即将500kg麻辣火锅底料投入马桶中。--\n\n--**描述：**SCP-CN-4K是一于2025年4月1日从Site-CN-44食堂火锅汤底中出现的微型黑洞，当前卡在马桶U型管处。--\n\n--当附近存在节奏感强烈的音乐时，项目会以超高速度随音乐蹦迪，并将太阳系以内的天体加入“星际广场舞联盟”，进而将出现以下异常情况：--\n\n--1.土星环转变为24K纳米核心荧光棒，每晚准时进行灯光秀。--\n\n--2.银河系出现巨型动态字幕：“家人们点点红心，主播给老铁们跳段激光雨。”--\n\n--3.地球大气层因长期吸入麻辣火锅蒸汽持续打喷嚏，引发持续性脑痰酸菜雨。--\n\n\n[[>]]\n？？？——站点主管颜朗懿\n[[/>]]\n\n@@@@\n@@@@\n@@@@\n> 您握有一个独占的15分钟锁定，这将会阻止其他人编辑您正在作业的页面。\n> 这个锁定将在闲置 821 秒后失效。\n@@@@\n@@@@\n@@@@\n**描述：**兄dei，有纸吗？\n@@@@\n@@@@\n@@@@\n@@@@\n@@@@\n@@@@",
+  "tags": [
+    "2025愚人竞赛",
+    "euclid",
+    "scp",
+    "site-cn-44",
+    "原创",
+    "搞笑"
+  ],
+  "author": "anqier4455",
+  "created_at": "2025-03-31T17:28:29+00:00",
+  "updated_at": "2025-03-31T18:35:04+00:00",
+  "rating": 24,
+  "_site": "scp-wiki-cn",
+  "_fullname": "cn40k-anqier4455"
+}

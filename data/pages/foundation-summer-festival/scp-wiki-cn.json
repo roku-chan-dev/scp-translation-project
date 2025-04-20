@@ -1,0 +1,16 @@
+{
+  "title": "基金会夏日祭主页",
+  "content": "[[tabview]]\n[[tab 公告文件]]\n[[module css]]\n.content-panel.standalone {\nfont-family: Courier New, Courier, monospace; \nwidth: 600px; \npadding: 10px 30px; \nmargin: 20px auto; \nbackground: #f8f4e6 repeat; \ntext-shadow: 1px 1px 1px rgba(0,0,0,.25);\n}\n\n@media (max-width: 1029px) {\n.content-panel.standalone {\npadding: 0.5em 0;\nmargin: 0 auto;\n}\n}\n[[/module]]\n\n[[div class=\"content-panel standalone\"]]\n[[=image http://scp-wiki-cn.wdfiles.com/local--files/foundation-summer-festival/0072uRIHgy1fvrx0h6g4yj30rj12yn7t.jpg style=\"max-width:100%;\"]]\n[[/div]]\n\n[[/tab]]\n[[tab 记事一览]]\n+ 故事\n[[[old:arewecuteyet|Are We Cute Yet?]]] by [[*user AiliceHershey]]\n[[[am-i-idol|Summer Live!!!]]] by [[*user kyougoku08]]\n[[[hatosakisummerfestivalsurroundings|波户崎研究员的夏日祭巡游]]] by [[*user LoversFool]]\n[[[big-brown-jug-1|夏日祭与酒瓶与尸体 - 前篇]]] by [[*user seafield13]]\n[[[corn-rocket|前一天后的整理]]] by [[*user TasteHill]]\n[[[ykamikura-4|纳凉！ 基金会鬼屋]]] by [[*user ykamikura]]\n--------\n\n+ 艺术作品\n\n[[/tab]]\n[[tab 投稿相关]]\n\n+ 故事企划「基金会夏日祭」\n\n++ 应该写怎样的故事呢？\n> 将作为SCP基金会福利待遇的一部分举办的夏日祭其中一幕，以故事或艺术作品表现出来。\n> \n> ----------\n> \n>　__**关于基金会夏日祭**__\n> # 请对日本分部的各站点（Site）内举行的夏日祭的风景进行描写。\n> # 虽然题目是夏日祭，不过像是夏日祭的准备场景，夏日祭背后的工作也完全没问题。能强行说成夏日祭就行。\n> # 设定上，作为主舞台的Site-8181为主办方。\n> # 文章长度不限。只要是网站成员都可以参加。\n> # 标签相关请在另外的说明中确认。\n> \n> **企划将全部由各位网站成员的故事构成。**\n\n++ 关于舞台设定\n\n> 舞台为各位所属的，日本分部的各种设施。\n> 并无规定要前往特定设施，不过设定上主办方的Site-8181为主要舞台。\n> \n> ----------\n> \n> +++ Site-8181「夏日祭」\n> \n> 活动举办期间为1周，于下午17时到晚上22时进行。\n> 中庭里立起了巨大的木制高台，周围由志愿职员准备了小摊，表演舞台。\n> 毎日20时～21时，会燃放烟花。\n\n++ 投稿规则\n\n> # 无论是作为基金会员工还是网站成员，请尽情享受吧。\n> # 常识，网站规则，Wikidot规定都是你的同伴。\n> # **并不是竞赛。** 请愉快地参加吧。\n\n++ 标签相关　　\n> 请添加「**基金会夏日祭**」的标签。同时根据记事的种类添加「**故事-jp**」、「**艺术作品**」等标签。\n\n++ 艺术作品相关\n\n> 本企划接受艺术作品投稿。\n> 投稿艺术作品的场合应注意以下事项。\n> \n> ----------\n> \n> +++ 与投稿艺术作品相关的注意事项\n> \n> # 请在不影响观看的前提下对画像进行压缩。同时，请将图片大小控制在500kb以内。\n> # 在投稿画像时，请善用预览功能确认无格式错误等状况。\n> # 触犯以下禁止事项的画像将可能被删除。\n> \n> __**关于艺术作品投稿的禁止事项**__\n> * 含有R-18和R-18G要素的作品\n> * 使用了SCP基金会之外的版权\n> * 对其他作品的临摹，或无授权转载\n> * 判断为触犯了Wikidot或SCP基金会的规则的作品\n> \n> 补足:R-18和R-18G的判断将以wikidot和网站的规则为基准。\n\n++ 补足事项\n\n> 主办方乐于在此记事讨论区见到投稿了新记事的报告。\n\n[[/tab]]\n\n[[tab 投稿格式]]\n\n* 故事\n> @@[[>]]@@\n> @@[[module Rate]]@@\n> @@[[/>]]@@\n> \n> //以下为故事文本。//\n\n* 艺术作品\n\n**在投稿之前，请再确认一次以下的注意事项。**\n\n> __**与投稿艺术作品相关的注意事项**__\n> \n> # 请在不影响观看的前提下对画像进行压缩。同时，请将图片大小控制在500kb以内。\n> # 在投稿画像时，请善用预览功能确认无格式错误等状况。\n> \n> __**关于艺术作品投稿的禁止事项**__\n> * 含有R-18和R-18G要素的作品\n> * 使用了SCP基金会之外的版权\n> * 对其他作品的临摹，或无授权转载\n> * 判断为触犯了Wikidot或SCP基金会的规则的作品\n> \n> ----------\n> \n> @@[[>]]@@\n> @@[[module Rate]]@@\n> @@[[/>]]@@\n> \n> //如果有警告要素，请在此插入。这种情况下尽可能将作品与此句隔开为好。//\n> \n> //将图片以最大尺寸展示的情况//\n> @@[[=image 画像.jpg style=\"max-width:100%;\"]]@@\n> \n> //指定尺寸的情况//\n> @@[[=image 画像.jpg style=\"width:100%;max-width:400px;\"]]@@\n> \n> @@[[*user 用户名]]@@\n> //留言//\n\n[[/tab]]\n[[/tabview]]",
+  "tags": [
+    "jp",
+    "中心",
+    "基金会夏日祭",
+    "艺术作品"
+  ],
+  "author": "kanehana",
+  "created_at": "2018-09-30T15:03:18+00:00",
+  "updated_at": "2024-02-07T04:52:37+00:00",
+  "rating": 2,
+  "_site": "scp-wiki-cn",
+  "_fullname": "foundation-summer-festival"
+}

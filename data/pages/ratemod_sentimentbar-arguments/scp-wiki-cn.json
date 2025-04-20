@@ -1,0 +1,14 @@
+{
+  "title": "自訂評分模版：評分佔比條預設選項",
+  "content": "[[include :scp-int:ratemod:sentimentbar-base lang={$lang}|lang=cn|custombar={$custombar}|custombar=0|uper={$uper}|uper=(%%rating_votes%%+%%rating%%)/(2*%%rating_votes%%)|nper={$nper}|nper=0|dper={$dper}|dper=(%%rating_votes%%-%%rating%%)/(2*%%rating_votes%%)|width={$width}|width=150px|theme={$theme}|theme=greengrayred]]",
+  "tags": [
+    "原创",
+    "样版"
+  ],
+  "author": "Jochoi",
+  "created_at": "2019-04-06T09:53:41+00:00",
+  "updated_at": "2019-08-25T14:47:31+00:00",
+  "rating": 4,
+  "_site": "scp-wiki-cn",
+  "_fullname": "ratemod:sentimentbar-arguments"
+}

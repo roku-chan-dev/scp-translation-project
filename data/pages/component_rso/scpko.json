@@ -1,0 +1,14 @@
+{
+  "title": "RSO 구성요소",
+  "content": "[[iftags +구성요소]]\n[[module CSS]]\n@import url(\"https://nu-scptheme.github.io/Black-Highlighter/css/min/normalize.min.css\");\n@import url(\"https://nu-scptheme.github.io/Black-Highlighter/css/min/black-highlighter.min.css\");\n\n@import url('https://fonts.googleapis.com/css?family=Nanum+Gothic+Coding&amp;subset=korean');\n@import url('https://cdn.jsdelivr.net/gh/XCninety/xcninety.github.io/Black-Highlighter/NanumBarunCatsi.css');\n\n:root {\n    --header-title: \"SCP 재단\";\n    --header-subtitle: \"확보, 격리, 보호\";\n\n    --body-font: Raleway, 'NanumBarunCatsi', sans-serif;\n    --header-font: \"Poppins\", 'NanumBarunCatsi', sans-serif;\n    --title-font: \"Poppins\", 'NanumBarunCatsi', sans-serif;\n    --mono-font: 'Nanum Gothic Coding', \"Space Mono\", \"Andale Mono\", \"Courier New\", Courier, monospace;\n}\n\n#side-bar div.menu-item a[href*=\"/scp-artwork\"] {\n    flex-shrink: unset;\n    text-align: left;\n}\n\n.footnote-footer > a:nth-of-type(1) {\n    margin-left: 0rem;\n}\n[[/module]]\n\n[[include info:start]]\n**RSO 구성요소**\n**원작:** https://scp-wiki.wikidot.com/component:rso\n**저자:** [[*user Rounderhouse]]\n**역자:** [[*user Denevola]]\n[[include info:end]]\n\n어느 위키에서나:\n> {{@@[[include :scpko:component:rso]]@@}}\n[[div class=\"addendum\"]]\n이건 제가 작성한 모든 문서의 양식을 손쉽게 변경하기 위해 사용하는 구성요소입니다. 언제나 제 입맛에 따라, 제 문서가 갖추었으면 하는 모양새에 따라 업데이트합니다. 여러분이 이 구성요소를 사용함으로 인해 페이지가 깨져도 저는 책임지지 않습니다.\n[[/div]]\n[[/iftags]]\n[[include :scp-wiki:component:rso]]",
+  "tags": [
+    "en",
+    "구성요소"
+  ],
+  "author": "Denevola",
+  "created_at": "2021-07-17T16:11:43+00:00",
+  "updated_at": "2021-07-17T16:11:51+00:00",
+  "rating": 3,
+  "_site": "scpko",
+  "_fullname": "component:rso"
+}

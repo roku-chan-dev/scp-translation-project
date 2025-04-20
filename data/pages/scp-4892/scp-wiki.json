@@ -1,0 +1,20 @@
+{
+  "title": "SCP-4892",
+  "content": "[[>]]\n[[module Rate]]\n[[/>]]\n\n[!--\nFragments:\nhttp://scp-wiki.wikidot.com/fragment:scp-4892-1\nhttp://scp-wiki.wikidot.com/fragment:scp-4892-2\n--]\n\n[[module ListPages  category=\"fragment\" parent=\".\" limit=\"1\" order=\"created_at\" offset=\"@URL|0\"]]\n%%content%%\n[[/module]]\n\n[[footnoteblock]]\n[[div class=\"footer-wikiwalk-nav\"]]\n[[=]]\n<< [[[SCP-4891]]] | SCP-4892 | [[[SCP-4893]]] >>\n[[/=]]\n[[/div]]",
+  "tags": [
+    "_cc",
+    "_listpages",
+    "esoteric-class",
+    "foundation-made",
+    "memetic",
+    "religious",
+    "scp",
+    "sleep"
+  ],
+  "author": "Tanhony",
+  "created_at": "2020-01-06T23:58:51+00:00",
+  "updated_at": "2021-07-30T18:07:13+00:00",
+  "rating": 164,
+  "_site": "scp-wiki",
+  "_fullname": "scp-4892"
+}

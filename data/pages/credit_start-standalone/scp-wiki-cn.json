@@ -1,0 +1,13 @@
+{
+  "title": "credit:start-standalone",
+  "content": "[[module CSS]]\n@import url(https://scp-wiki-cn.wdfiles.com/local--code/credit%3Astyle/1);\n[[/module]]\n\n[[div class=\"creditRate\"]]\n[[div class=\"creditButtonStandalone\"]]\n[[a href=\"#u-credit-view\" class=\"fa fa-info\"]]@@@@[[/a]]\n[[/div]]\n[[/div]]\n\n[[div style=\"clear:both;\"]]\n[[/div]]\n\n[[div id=\"credit-view\"]]\n[[div class=\"fader\"]]\n[[iframe https://scp-wiki-cn.wdfiles.com/local--code/credit%3Abackmodule/1 ]]\n[[/div]]\n\n[[div class=\"modalcontainer\"]]\n[[div class=\"modalbox\"]]\n[[=]]\n++* 著作信息\n[[/=]]\n------\n[[div class=\"credit first\"]]\n[[iframe https://scp-wiki-cn.wdfiles.com/local--code/credit%3Abackmodule/4 class=\"close-credits\" style=\"height:2em;margin: 0;padding: 0;border: 0;background: transparent;\"]]",
+  "tags": [
+    "组件"
+  ],
+  "author": "Sekai_s",
+  "created_at": "2018-11-17T18:10:08+00:00",
+  "updated_at": "2023-07-16T12:53:35+00:00",
+  "rating": 2,
+  "_site": "scp-wiki-cn",
+  "_fullname": "credit:start-standalone"
+}

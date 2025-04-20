@@ -1,0 +1,25 @@
+{
+  "title": "SCP-4224",
+  "content": "[!--\nFor maintenance, or if anyone wants to translate it for some reason\nhttps://scp-wiki.wikidot.com/fragment:scp-4224-1\nhttsp://scp-wiki.wikidot.com/fragment:scp-4224-2\nhttps://scp-wiki.wikidot.com/fragment:scp-4224-3\nhttps://scp-wiki.wikidot.com/fragment:scp-4224-4\n--]\n\n[[include theme:black-highlighter-theme]]\n[[include theme:disrememberment-theme]]\n[[include component:info-ayers\n|lang=en[!-- EN/RU/KO/CN/FR/PL/ES/TH/JP/DE/IT/UA/PTBR --]\n|page=scp-4224[!-- url of your page on the scp wiki --]\n|authorPage=https://scp-wiki.wikidot.com/ayers-array[!-- link to your author page --]\n|comments=\n= **//SCP-4224: History Will Be Kind To Me//**\n= ^^[https://www.youtube.com/watch?v=YkADj0TPrJA 「In The Air Tonight」]^^\n-----\n**Image Sources:**\n* 1) [https://scp-wiki.wdfiles.com/local--files/the-great-hippo/scp_trans.png SCP_Trans.png by The Great Hippo, CC-BY-SA 3.0]\n* 2) [https://www.geograph.org.uk/photo/1733287 Cantley Sugarbeet factory at Night by Ashley Dace, CC-BY-SA 2.0]\n* 3) [https://commons.wikimedia.org/wiki/File:Polmone_d%27acciaio_(Alvis_Motor_Company)_.jpg Polmone d'acciaio (Alvis Motor Company) by Luca Borghi, CC-BY-SA 3.0]\n \n**Acknowledgements:**\n* [[user Uncle Nicolini]], for critique.\n* [[user IndigoElks]], for critique.\n* [[user Gekkoguy]], for critique.\n* [[user incidental_cabbage]], for encouragement and critique.\n* [[user WrongJohnSilver]], for critique and pointing out some errors.\n* [[user magnadeus]], for critique.\n* [[user MrBazzle]], for critique\n* [[user Vivax]], for in-depth critique and major help with the ending and consistency of the article.\n* [[user MrPines]], for the hover code CSS.\n* [[user Rounderhouse]], for making the CSS theme.\n@@ @@\n]]\n[[module CSS]]\n.scp-image-caption{position: inherit;}\n.page-rate-widget-box{position: relative;bottom: 1em;}\n[[/module]]\n\n[[>]]\n[[module Rate]]\n[[/>]]\n\n[[module CSS]]\n:root{\n    --barColour: #3a3a3a;\n}\n#page-title{\nmargin-bottom: 0px;\n}\n.info-container .collapsible-block-folded a{\ncolor: #FFF;}\n.info-container .collapsible-block-unfolded-link a{\ncolor: #FFF;}\n[[/module]]\n\n@@ @@\n[[module ListPages category=\"fragment\" parent=\".\" order=\"name\" limit=\"1\" offset=\"@URL|0\"]]\n%%content%%\n[[/module]]\n\n[[footnoteblock]]\n[[div class=\"footer-wikiwalk-nav\"]]\n[[=]]\n<< [[[SCP-4223]]] | SCP-4224 | [[[SCP-4225]]] >>\n[[/=]]\n[[/div]]",
+  "tags": [
+    "4000",
+    "_cc",
+    "_listpages",
+    "alive",
+    "bee",
+    "ectoentropic",
+    "gaseous",
+    "humanoid",
+    "liquid",
+    "neurological",
+    "sapient",
+    "scp",
+    "thaumiel"
+  ],
+  "author": "Ayers",
+  "created_at": "2018-07-30T13:09:31+00:00",
+  "updated_at": "2024-06-30T20:43:43+00:00",
+  "rating": 223,
+  "_site": "scp-wiki",
+  "_fullname": "scp-4224"
+}

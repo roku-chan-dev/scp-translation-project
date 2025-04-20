@@ -1,0 +1,19 @@
+{
+  "title": "SCP-CN-2010",
+  "content": "[[include :scp-wiki-cn:credit:start]]\n\n新人（fw）的第一篇文档，希望大家喜欢\n\n图片来源：https://pixabay.com/zh/photos/business-computer-conference-20031/\n\n感谢[[*user Franz Ismal]]，[[*user xOLowithSinnine]]，[[*user H-Storm Z]]，[[*user sciencekiller]]，[[*user day by die]],[[*user Dr.Ankh]]，[[*user Gong Ju Ren]]的看稿以及对其做出的修改建议\n\n感谢[[*user WSOA1-Transenci]]的部分剧情思路提供\n\n感谢[[*user hauyu]]一直鼓励我发射这篇文章，我谢谢他祖宗十八代\n[[include :scp-wiki-cn:credit:end]]\n\n\n[[module ListPages category=\"fragment\" parent=\".\" limit=\"1\" order=\"name\" offset=\"@URL|0\"]]\n\n%%content%%\n[[/module]]\n\n[[footnoteblock]]\n\n[[div class=\"footer-wikiwalk-nav\"]]\n[[=]]\n<< [[[SCP-CN-2009]]] | SCP-CN-2010 | [[[SCP-CN-2011]]] >>\n[[/=]]\n[[/div]]",
+  "tags": [
+    "scp",
+    "不可摧毁",
+    "原创",
+    "工具",
+    "无效化",
+    "时间影响",
+    "电子"
+  ],
+  "author": "Laffey Ismal",
+  "created_at": "2021-03-27T04:55:37+00:00",
+  "updated_at": "2021-09-19T09:49:13+00:00",
+  "rating": 81,
+  "_site": "scp-wiki-cn",
+  "_fullname": "scp-cn-2010"
+}

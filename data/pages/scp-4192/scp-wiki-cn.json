@@ -1,0 +1,19 @@
+{
+  "title": "SCP-4192",
+  "content": "[[include component:object-class-bar-source\n|item-num=4192\n|obj-class=Safe\n|site-resp=USPAPH Site-98\n|director=Victor Henshaw\n|rsch-head=Yves Tardtakovsky\n|task-force=N/A\n|colorbar-bg-color=rgb(0,0,0)\n|colorbar-bg-img=optional\n|colorbar-one=full\n|colorbar-two=full\n|colorbar-three=full\n|colorbar-four=half\n|colorbar-five=half\n|colorbar-six=none\n|level=3\n|secrecy=机密\n]]\n----\n[[include component:image-block name=https://scp-wiki.wdfiles.com/local--files/scp-4192/planet.jpg|caption=SCP-4192。]]\n\n**特殊收容措施：**SCP-4192应被保管于一QED（量子电动力学）真空室[[footnote]]该真空室中的量子均处于零点能的最低能态。QED真空室可用于分离物质中的基本粒子，或充当亚原子水平上异常现象的收容装置。[[/footnote]]中，该真空室置于一高价值Safe级异常收容柜内。进行有关SCP-4192的实验须经Dr. Phoenix批准，且仅限科研需要。\n\n**描述：**SCP-4192为一氢原子核，能以不固定时间间隔发射无线电波。对SCP-4192的进一步分析表明，除上述异常特性之外，其行为与普通质子或强子一致：带有一单位正电荷，质量略小于中子。\n\n对SCP-4192构成的研究未有结论，但SCP-4192似乎不由夸克构成，而是由其他物质组成的整体。对SCP-4192所发射无线电波的分析记录到了15至18兆赫兹的宇宙背景噪声。\n\n**附录 4192.1：**实验记录\n\n考虑到SCP-4192具有感知性，特此制造人工智能工作员Goliath.aic，用于操作仪器、进行收容、以及操作有关SCP-4192的实验。\n\n[[collapsible show=\"+ 访问附录\" hide=\"- 关闭\"]]\n2021年1月4日，在Dr. Phoenix监督下，Dr. Tardtakovsky指导进行了确认SCP-4192物理性质的实验。实验开始前，将经[[[SCP-914]]]加工的皮下注射针头置于一机械臂装置上，以对SCP-4192进行操作。\n\n实验过程中，Goliath.aic在进入SCP-4192的原子轨道[[footnote]]原子轨道俗称“电子云”，是原子核附近的某一区域，电子可在任一时刻同时处于该区域内的所有位置。该原理常与量子力学中的叠加原理和不确定性原理相关。[[/footnote]]时，检测到原子产生了斥力，且称该斥力类似于磁铁间的斥力。尽管如此，Goliath.aic被命令继续实验，将针头推入原子内部更深处。\n\n实验很快遭到打断：基金会人造卫星发出欧米茄一级警报，称有一巨大天体接近地球。卫星传来的图像显示其为一金属管状物体，即将撞击北美大陆。预计碰撞位置为费城，即Site-98当前位置。Goliath.aic立即从SCP-4192中抽出针头，使得大型天体立即掉转方向，直至超出卫星的探测范围。\n\n此后，有关SCP-4192的任何实验均已禁止。当前未有对SCP-4192的科研计划。\n[[/collapsible]]\n\n[[footnoteblock]]\n@@@@\n[[div class=\"footer-wikiwalk-nav\"]]\n[[=]]\n<< [[[SCP-4191]]] | SCP-4192 | [[[SCP-4193]]] >>\n[[/=]]\n[[/div]]\n\n[[include :scp-wiki-cn:component:license-box\n|author=Connor MacWarren\n|translator=RogerXiao\n]]\n[[include :scp-wiki-cn:component:license-box-end]]",
+  "tags": [
+    "safe",
+    "scp",
+    "微型",
+    "微观",
+    "电磁",
+    "触觉影响",
+    "通讯"
+  ],
+  "author": "RogerXiao",
+  "created_at": "2019-08-25T18:48:20+00:00",
+  "updated_at": "2023-08-23T03:47:43+00:00",
+  "rating": 4,
+  "_site": "scp-wiki-cn",
+  "_fullname": "scp-4192"
+}

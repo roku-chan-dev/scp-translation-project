@@ -1,0 +1,14 @@
+{
+  "title": "未知地图",
+  "content": "[[module CSS]]\n@import url(/component:mcdcuriostheme/code/1);\n[[/module]]\n\n**未知地图**\n[[div style=\"float:left; width: 15%; padding: 0 2%\"]]\n||~ 价格 ||£80000||\n||~ 稀有度 || 罕有||\n||~ 危害度 || 潜在危险||\n||~ 神秘度 || 怪异||\n[[/div]]\n[[div style=\"float:right; width: 45%; padding: 0 2%\"]]\n[[image http://xiasheng01.wikidot.com/local--files/pics/tiNdk.jpg]]\n[[/div]]\n[[div style=\"float:left; width: 90%; padding: 0 2%\"]]\n**描述**\n你是寶藏獵人嗎？一個貪婪的奇異遺跡探險者？一個對未知之物的崇拜者？如果所有答案皆為「是」，我們便有一項適合你的理想之物。這些地圖被埋藏於一個位於北美的墓地，與一系列陪葬物品一同被發現。在我們的常規測試中，這些地圖並無顯示任何异常特性，但卻會引領你去發掘無盡的財寶或有超能力的神器。\n\n建立你個人的探險隊，或以一個适度的價錢讓我們帮你建立一支。成為第一個尋得地圖中的寶藏及奧秘的人，並擁有它们吧。\n\n**設備需求**\n未知。\n\n**安全注意事项**\n未知。需要高科技以顺着地圖发现并發掘其他物品。\n\n**运输方法**\n原裝物品將以加壓、防水的容器發送至閣下的手中以防止損壞。\n\n**顧客意見**\n來成為首位發表意見者。\n\n[[collapsible show=\"+ 僅限工作人員\" hide=\"- 關閉\"]]\n**儲存需求**\n我們有這些物品的實物和數碼副本。無需建立特別儲存。\n\n**員工評語**\n“這地圖以地理學上的地圖顯示，但當我運用電腦搜尋時，發現這和北美的部份地區並不相符。我質疑是否會有顧客能在彩虹的另一端找到任何東西，但我已經在這些地圖上加上追蹤器以便確認。”\n[[/collapsible]]\n[[/div]]",
+  "tags": [
+    "mcd-curios",
+    "类目"
+  ],
+  "author": "thrumuvethur",
+  "created_at": "2019-01-22T14:06:00+00:00",
+  "updated_at": "2024-02-18T03:34:18+00:00",
+  "rating": 0,
+  "_site": "scp-wiki-cn",
+  "_fullname": "mcd-curios:unknown-map"
+}

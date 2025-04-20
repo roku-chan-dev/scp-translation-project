@@ -1,0 +1,13 @@
+{
+  "title": "钻石标记笔 版式",
+  "content": "[[iftags +版式]]\n\n\n[[module CSS]]\n@import url(\"https://nu-scptheme.github.io/Black-Highlighter/css/min/normalize.min.css\");\n@import url(\"https://nu-scptheme.github.io/Black-Highlighter/css/min/black-highlighter.min.css\");\n[[/module]]\n\n[[include :scp-wiki:component:interwiki-style\n| priority=1\n| theme=https://nu-scptheme.github.io/Black-Highlighter/css/min/normalize.min.css\n]]\n\n\n[[include :scp-wiki:component:interwiki-style\n| priority=2\n| theme=https://nu-scptheme.github.io/Black-Highlighter/css/min/black-highlighter.min.css\n]]\n\n\n这是由[[*user tetsusquared]]制作的钻石标记笔版式。\n\n此版式扩展了[[[theme:black-highlighter-theme|黑色标记笔]]]并进行了最小的更改。其主要是为了标准化[[[secure-facility-dossier-site-418|Minecraft部门]]]页面之间的版式[[footnote]] 尽管目前只有6468和Site-418使用它，但我保证会有更多 [[/footnote]]。\n\n版头将在**CN**，**JP**，**PL**，**VN**和**ZH**维基上自动翻译[[footnote]]为了保持CN和ZH之间的一致性，使用Site-418档案的CN翻译中的用词作为标准。[[/footnote]]，因为这些维基上至少存在一个Minecraft部门翻译。如果您来自未列出的分部，并翻译了Minecraft部门的文章，请发送给我（[[*user tetsusquared]]）一份Wikidot PM，并附上文章的链接，以便我“正式”翻译出你的版式。\n\n如果你翻译了这个主题，请给我（[[*user tetsusquared]]）发送一份Wikidot PM，这样我就可以随时更新主题。最好将此页面include至EN wiki，我就可以一次将更改发布到所有wiki中。\n\n若需使用该版式，请将以下内容放在你文章的顶部。\n\n[[div class=\"code\"]]\n@@[[include :scp-wiki-cn:theme:black-highlighter-theme]]@@\n@@[[include :scp-wiki:theme:diamond-highlighter]]@@\n[[/div]]\n\n包含了以下特色内容：\n\n++ MCDiv引用块\n\n[[div class=\"mcdiv-blockquote\"]]\n[[=]]\n[[size 150%]] **Minecraft部门备忘** [[/size]]\n[[/=]]\n有人在[# Site-418-ε]外目击到了爬行者和凋零的异常巨大的杂交种。收容小组被派遣以评估形势。请保持冷静\n\n[[>]]\nRhiannon Leighton，Site-418-ε，管理团队\n[[/>]]\n[[/div]]\n\n使用以下代码以应用该特色：\n[[div class=\"code\"]]\n@@[[div class=\"mcdiv-blockquote\"]]@@\n@@... 你的内容 ...@@\n@@[[/div]]@@\n[[/div]]\n\n------\n\n[http://scp-wiki.wikidot.com/theme:diamond-highlighter/code/1 版式代码]\n[[/iftags]]\n\n\n[[div style=\"display: none;\"]]\n[[include :scp-wiki:theme:diamond-highlighter]]\n[[/div]]\n\n[[include :scp-wiki:component:interwiki-style\n| priority=3\n| theme=https://scp-wiki.wdfiles.com/local--code/theme%3Adiamond-highlighter/1\n]]",
+  "tags": [
+    "版式"
+  ],
+  "author": "8Fish",
+  "created_at": "2023-03-01T03:21:42+00:00",
+  "updated_at": "2023-03-10T14:36:05+00:00",
+  "rating": 6,
+  "_site": "scp-wiki-cn",
+  "_fullname": "theme:diamond-highlighter"
+}

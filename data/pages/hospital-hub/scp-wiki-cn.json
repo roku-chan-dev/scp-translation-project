@@ -1,0 +1,16 @@
+{
+  "title": "医院 中心页",
+  "content": "[[module CSS]]\n#header {\n     background-image: url(http://scp-wiki-cn.wdfiles.com/local--files/hospital-hub/logo);\n}\n#header h1 a {\n    color: transparent;\n    text-shadow: none;\n}\n#header h1 a::before {\n    content: \"Hospital\";\n    color: #eee;\n    text-shadow: 3px 3px 5px #000;\n}\n#header h2 span {\n    color: transparent;\n    text-shadow: none;\n}\n#header h2 span::before {\n    content: \"手復神躯\";\n    color: #f9ffe1;\n    text-shadow: 1px 1px 1px #000;\n    text-shadow: 1px 1px 1px rgba(0,0,0,.8);\n}\n@media (min-width: 980px) {\n    #header {\n        background-position: 10px 40px;\n        background-size: 100px 100px;\n    }\n}\n[[/module]]\n\n[[>]]\n[[module Rate]]\n[[/>]]\n\n[[image http://scp-wiki-cn.wikidot.com/local--files/hospital-hub/null-25617e646750047b.jpg]]\n\n@@ @@\n\n[[tabview]]\n[[tab 关于“医院”]]\n\n在曾经的某一个时间点，或许是19世纪末期，或许是21世纪初期，亦或是你能想到的任何一个别的时间，一群破碎之神传教士远渡重洋来到中国，试图让更多的人加入他们重建神明的伟业。然而正如同所有伟大的事业，让一个超凡的存在复归完整总是会不可避免的伴随着一点小插曲……\n\n@@@@\n[[div style=\"border:solid 1px #999999; background:#f0eeee; padding:5px; margin-bottom: 10px;\"]]\n\n工但应神，为其手以复神躯。\n\n[[>]]\n——筑造者 Robert Bumaro，时间未知\n[[/>]]\n\nAmos，马上去给他止血！我去准备手术器械，让他在麻醉前保持清醒，休克就不是小问题了！\n\n[[>]]\n——传教士 Josephus Miller，公元193█年\n[[/>]]\n\n愿荣光降临于汝身。\n[[>]]\n——荣光隐修会主教 涅瓦.米勒，公元1941年\n[[/>]]\n\n妈妈，我就要上战场了。\n\n[[>]]\n——日本陆军二等兵 加藤林清，公元1943年\n[[/>]]\n\n君子一言，驷马难追，[已编辑]先生帮助我们报答祖国，我们却只是给了他一个承诺，我觉得这并不过分。\n\n[[>]]\n——SCP-CN-979-1，公元20██年\n[[/>]]\n[[/div]]\n\n[[/tab]]\n[[tab 作品目录]]\n[[=]]\n\n[[module ListPages separate=\"no\" tags=\"+医院 -中心\" category=\"*\" order=\"created_at\"]]\n\n%%title_linked%% 作者： %%created_by_linked%%\n\n@@@@\n\n[[/module]]\n\n[[/=]]\n\n\n[[/tab]]\n[[tab 写作指导]]\n\n\n欢迎，医院是一个非常开放的设定中心，讲述了一群来华的破碎之神传教士的故事。在创作方面，医院有一条清晰的时间轴可供参考。\n\n\n[[div style=\"display: inline-block; border:dashed 1px #999999; background:#F5F5F5; float:center; width:84%; padding:1px 15px; margin: 10px 10px 10px 40px\"]]\n\n[[<]]\n**19世纪晚期：**一批来自欧美的破碎之神传教士队伍远渡重洋来到中国，试图让更多的人加入他们重建神明的伟业。\n\n**20世纪初：**传教士们在[已编辑]省开设了医院，并在“行医”的同时传播破碎之道。\n\n**1931年：**抗日战争爆发，医院充当了破碎之神教会在中国地区的代理人并加入战争。当前尚未得知医院在战争中扮演的角色或帮助了哪一方，唯一能够确认的是他们仍将传播神的教义作为第一要务。\n\n**1945年：**抗日战争结束，医院在此后的未知时间点解散。部分传教士决定回国，剩下的一部分选择留在中国，继续传播神的教义。\n\n**今天：**由于基金会的壮大，留在中国的传教士们都已停止传教。如今，他们大多都潜伏在平民中或进入教会位于中国的据点，等待着神复归完整的那一天。\n[[/<]]\n\n[[/div]]\n\n[[<]]\n但是请注意：没有任何规定要求作者要严格按照这条故事线进行创作，事实上，上面的时间轴仅供参考并且是完全可以不遵守的。正如文初所说，医院是一个非常开放的设定中心，作者可以描述医院里发生的事、传教士们的经历、他们创造的异常，或者你能想到的任何其他东西。医院完全允许出现与现有的设定相互矛盾的故事，你可以写基金会对医院的突袭、由麦克斯韦宗开设的现代化医院、医院的不同分院、甚至是医院在其他设定中心下的故事。你唯一需要遵守的，就是“有一群破碎之神传教士准备/已经/曾经来华传教，并且准备/已经/曾经开设了一家/多家医院”，其他方面完全可以自由设定。但请注意：医院的核心并不是医院，那些传教士和他们身边的人、事、物，才是医院这一设定中心真正的核心。\n\n如果你想让一篇作品加入医院中心页，只需为其添加“医院”这一标签，作品就会被自动放入医院的作品目录，但请注意：如果你的作品被认为与医院的主题严重不符，这个设定的创始人可能会从你的作品中移除医院的标签。\n\n工但应神，为其手以复神躯。我们欢迎任何人向本设定添加新的作品。\n[[/<]]\n\n[[/tab]]\n[[/tabview]]",
+  "tags": [
+    "_设定中心",
+    "中心",
+    "医院",
+    "原创"
+  ],
+  "author": "DF-thirteen",
+  "created_at": "2018-08-11T08:51:50+00:00",
+  "updated_at": "2024-03-27T04:21:18+00:00",
+  "rating": 126,
+  "_site": "scp-wiki-cn",
+  "_fullname": "hospital-hub"
+}

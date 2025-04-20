@@ -1,0 +1,14 @@
+{
+  "title": "작교용 아트워크",
+  "content": "[[include :scp-wiki:theme:black-highlighter-theme]]\n[[include ::theme:minimalist-bhl]]\n\n[[module CSS]]\n:root {\n     --header-title: \"작교용 아트워크\";\n     --header-subtitle: \"교환한 걸 올립니다.\";\n     --lgurl: url('https://scpko.wikidot.com/local--files/jaggyo339/1720019412108.png');\n}\n[[/module]]\n\n[[=]]\n*그림 설명의 밑줄은 링크입니다!\n[[/=]]\n------\n[[div class=\"meta-title\"]]\n교환 완료된 작품 목록\n[[/div]]\n\n[[=]]\n[[collapsible show=\"+ 2024 작품교환\" hide=\"- 숨기기\"]]\n[[div class=\"scp-image-block block-center\" style=\"width:100%;\"]]\n[[image %EC%9C%A4%EC%84%B1%EC%9E%AC.jpg]]\n[[div class=\"scp-image-caption\"]]\n[[*user POI_Damgi]]님의 작품 교환입니다!\n등장인물 __[https://scpko.wikidot.com/system:page-tags/tag/%EC%9C%A4%EC%84%B1%EC%9E%AC#pages 윤성재]__\n[[/div]]\n[[/div]]\n[[/collapsible]]\nᅟ\n[[collapsible show=\"+ 아직 없어요\" hide=\"- 숨기기\"]]\n[[/collapsible]]\n[[/=]]\nᅟ\n------\n\n[[=]]\n[[module Rate]]\n[[/=]]",
+  "tags": [
+    "ko",
+    "아트워크"
+  ],
+  "author": "ttoy339",
+  "created_at": "2025-01-31T04:06:34+00:00",
+  "updated_at": "2025-01-31T04:51:02+00:00",
+  "rating": 5,
+  "_site": "scpko",
+  "_fullname": "jaggyo339"
+}

@@ -1,0 +1,14 @@
+{
+  "title": "10089",
+  "content": "overview: ██拘置所にて死刑が執行された際、その手段としてギロチンによる斬首刑が用いられた。使用されたギロチンの刃は著しく錆びており、刃の落下が途中で止まった。その為、担当官は5人がかりで刃を死刑囚の首に押し当て、50分以上かけてようやく切断出来た。当時この異常には、死刑囚本人以外の全職員が気付いていない様子であった。異常の認知は斬首刑の執行終了後から正常に行われ、担当官から財団への通報がなされた。\nswdate: '1'\ndate: ████/██/██\nswplace: '1'\nplace: ██拘置所\nswchaseprocedure: '1'\nchaseprocedure: 現場に居た全ての職員から事情聴取をした後、記憶消去処置が施された。死刑囚の遺体は通常通り供養された。当該拘置所には2020年まで秘密裏に監視される。\nswaddendum: '0'\naddendum: ''\ntf2: '1'\nauthor: kainndo\nredirect-b: '[[module Redirect destination=\"/log-of-extranormal-events-jp'\nredirect-e: '\"]]'",
+  "tags": [
+    "jp",
+    "剪定対象-子"
+  ],
+  "author": "machikawa",
+  "created_at": "2020-07-24T11:39:53+00:00",
+  "updated_at": "2021-05-24T13:21:10+00:00",
+  "rating": 30,
+  "_site": "scp-jp",
+  "_fullname": "extranormal-events-jp:10089"
+}

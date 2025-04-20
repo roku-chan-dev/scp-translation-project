@@ -1,0 +1,26 @@
+{
+  "title": "SCP-8125",
+  "content": "=====\n[[include component:preview\ntext=\nA shifting narrative-based Nexus struggles to survive, stranded in a young, weak timeline. Finding a host, the parasitic Nexus invades, imprinting on baseline reality, manifesting fragments of tales held within.\n]]\n=====\n\n[[include :scp-wiki:theme:basalt wide=a|hidetitle=a]]\n[[include :scp-wiki:theme:magnus-web-format]]\n\n[[module CSS]]\n@import url('https://fonts.googleapis.com/css2?family=Architects+Daughter&family=Caveat:wght@400..700&display=swap');\n\n.architects-daughter-regular {\n  font-family: \"Architects Daughter\", cursive;\n  font-weight: 400;\n  font-size: 1.1em;\n  font-style: normal;\n}\n\n:root {\n  --document-background-color: 253, 253, 236 !important;\n}\n\n.box {\n    position: relative;\n    padding: 0.5em;\n    margin: 0.5em;\n    box-shadow: 2px 1.5px 1px rgba(150,24,43,0.8), 0 0 0px 1px lightgrey;\n    overflow-wrap: break-word;\n    color: black;\n}\n.box.imagebox {\n    padding: 0.2em;\n    margin: 0.2em;\n    box-shadow: 2px 1.5px 1px lightgrey, 0 0 0px 1px lightgrey;\n}\n.bibitems,\n.footnotes-footer {\n    margin: 2rem 0 1rem;\n}\n.infotext {\n    text-align: right;\n    margin-right: 7px;\n}\n:is(#u-credit-view, div#u-credit-otherwise) .modalbox {\n  height: 20svh;\n}\n:is(#u-credit-view, #u-credit-otherwise) .modalbox > hr {\n  margin: 0rem 0rem 0rem;\n}\n:is(#u-credit-view, #u-credit-otherwise) .modalbox > div:first-child {\n  height: 8rem;\n}\n[[/module]]\n\n[[include :scp-wiki:info:start]]\nThis SCP contains 3 pages (This current page and 2 offsets)\n\nThese offsets are 1.2k, 1.7k, and 3k words respectively.\n[[include :scp-wiki:info:end]]\n[[div_ class=\"infotext\"]]\n[[size 80%]]##757575|⚠ Important article information ^##[[/size]]\n[[/div]]\n\n[[module ListPages  category=\"fragment\" parent=\".\" limit=\"1\" order=\"created_at\" offset=\"@URL|0\"]]\n%%content%%\n[[/module]]\n\n[!-- https://scp-wiki.wikidot.com/fragment:8000contestdrmoned-0 --]\n[!-- https://scp-wiki.wikidot.com/fragment:8000contestdrmoned-1 --]\n[!-- https://scp-wiki.wikidot.com/fragment:8000contestdrmoned-2 --]\n\n[[footnoteblock]]\n[[div class=\"footer-wikiwalk-nav\" style=\"margin-top: 0px;\"]]\n[[=]]\n<< [[[SCP-8124]]] | SCP-8125 | [[[SCP-8126]]] >>\n[[/=]]\n[[/div]]\n\n[[include :scp-wiki:component:license-box]]\n\n> **Filename:** DunwichFinal.svg\n> **Author:** [[*user Dr Moned]]\n> **License:** CC BY-SA 3.0\n> **Source Link:** https://scp-wiki.wikidot.com/8000contestdrmoned\n\n> **Filename:** FirstProblemNoticed2.jpg\n> **Author:** [[*user Dr Moned]]\n> **License:** CC BY-SA 3.0\n> **Source Link:** https://scp-wiki.wikidot.com/8000contestdrmoned\n\n> **Filename:** GleipnirAdjusted.svg\n> **Author:** [[*user Dr Moned]]\n> **License:** CC BY-SA 3.0\n> **Source Link:** https://scp-wiki.wikidot.com/8000contestdrmoned\n\n> **Filename:** Gleipnir.svg\n> **Author:** [[*user Dr Moned]]\n> **License:** CC BY-SA 3.0\n> **Source Link:** https://scp-wiki.wikidot.com/8000contestdrmoned\n\n> **Filename:** Offset1PhotoCompressed.jpg\n> **Author:** [[*user Dr Moned]]\n> **License:** CC BY-SA 3.0\n> **Source Link:** https://scp-wiki.wikidot.com/8000contestdrmoned\n\n> **Filename:** xlvlfourc.png\n> **Author:** [[*user Dr Moned]]\n> **License:** CC BY-SA 3.0\n> **Source Link:** https://scp-wiki.wikidot.com/8000contestdrmoned\n\n[[include :scp-wiki:component:license-box-end]]",
+  "tags": [
+    "8000",
+    "_listpages",
+    "alive",
+    "esoteric-class",
+    "extradimensional",
+    "humanoid",
+    "k-class-scenario",
+    "library",
+    "metamorphic",
+    "narrative",
+    "parasitic",
+    "reality-bending",
+    "scp",
+    "transfiguration"
+  ],
+  "author": "Dr Moned",
+  "created_at": "2024-02-19T03:55:45+00:00",
+  "updated_at": "2024-08-21T23:59:55+00:00",
+  "rating": 26,
+  "_site": "scp-wiki",
+  "_fullname": "scp-8125"
+}

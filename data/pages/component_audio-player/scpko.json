@@ -1,0 +1,13 @@
+{
+  "title": "오디오 플레이어",
+  "content": "[[include component:audio-player-base\n|URL={$URL}\n|autoplay={$autoplay_{$autoplay}}\n|autoplay=false\n|autoplay_TRUE={$autoplay_true} |autoplay_True={$autoplay_true} |autoplay_yes={$autoplay_true} |autoplay_YES={$autoplay_true} |autoplay_Yes={$autoplay_true}\n|autoplay_{$autoplay}={$autoplay_false}\n|autoplay_true=#autoplay |autoplay_false=[!----]\n]]",
+  "tags": [
+    "템플릿"
+  ],
+  "author": "Dr Devan",
+  "created_at": "2014-10-15T10:18:35+00:00",
+  "updated_at": "2014-10-15T10:18:43+00:00",
+  "rating": 0,
+  "_site": "scpko",
+  "_fullname": "component:audio-player"
+}

@@ -1,0 +1,19 @@
+{
+  "title": "SCP-CN-1056",
+  "content": "[[>]]\n[[module rate]]\n[[/>]]\n\n[[include component:image-block name=Star-creature.jpg|caption=一個SCP-CN-1056-1實體（1000x）|width=200px]]\n\n**項目編號：**SCP-CN-1056\n\n**項目等級：**Euclid\n\n**特殊收容措施：**當前應追蹤並確認所有發生SCP-CN-1056現象的人以及產生的SCP-CN-1056-1；對所有確認的SCP-CN-1056事件相關者進行記憶刪除並以掩蓋故事#1056 “新種味覺疾病”做替代。\n\n所有發生SCP-CN-1056現象的基金會人員應進行再編制，並調至特殊人員站點Infected Containment Site-CN-1056。\n\n**描述：**SCP-CN-1056為一種於人類/人形生物上顯現的現象，從發生到結束約3分鐘。\n\n當發生SCP-CN-1056時，人類對象將伸出舌頭，舌部味蕾結構開始與舌頭分離，並且掉落；在掉落期間，分離部分逐漸形成自我意識，並且型態產生變化（稱之為SCP-CN-1056-1）。在SCP-CN-1056結束後，對象將失去味覺。\n\nSCP-CN-1056-1為星形結構，其上端為頭部、中間兩端為手、底部兩端為足，大小與轉變前相近。\n\n每個SCP-CN-1056-1能從任何物質上取下並攜帶一種暫定為“味覺因子”的不明物體，並交付至原人類對象口中[[footnote]]儘管對象已失去味覺，但仍能以味覺因子嘗到味道。[[/footnote]]；通常SCP-CN-1056-1攜帶的味覺因子取決於對象原先的嗜食習慣。\n\nSCP-CN-1056-1的自我意識持續時間取決原對象，且大多數不會跟隨對象外的人類實體。SCP-CN-1056在對象死亡後，SCP-CN-1056-1群體將於2分內停止活動，並且昇華消散。\n\n[[footnoteblock]]\n\n[[div class=\"footer-wikiwalk-nav\"]]\n[[=]]\n<< [[[SCP-CN-1055]]] | SCP-CN-1056 | [[[SCP-CN-1057]]] >>\n[[/=]]\n[[/div]]",
+  "tags": [
+    "_cc",
+    "euclid",
+    "scp",
+    "原创",
+    "味觉影响",
+    "形态改变",
+    "微观"
+  ],
+  "author": "M Element",
+  "created_at": "2019-09-17T14:14:41+00:00",
+  "updated_at": "2019-09-21T09:10:16+00:00",
+  "rating": 31,
+  "_site": "scp-wiki-cn",
+  "_fullname": "scp-cn-1056"
+}

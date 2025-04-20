@@ -1,0 +1,14 @@
+{
+  "title": "04650",
+  "content": "content: \"**説明:** 毎日正午にランダムな人物の指名手配書を一枚生成するコルクボード。当該人物を終了した際、記載された懸賞金額と同額の日本円を生成する。\\n**回収日:** 20██/██/██\\n**回収場所:** ██市役所\\n**現状:** D-18610の手配書が出現、懸賞金額は35億円である。[http://scp-jp.wikidot.com/poor-foundation-hub/offset/1/page7_limit/1 現在審議中]。\"\ntf2: '0'\nauthor: ''\nredirect-b: '[[module Redirect destination=\"http://ja.scp-wiki.net/log-of-anomalous-items-jp'\nredirect-e: '\"]]'",
+  "tags": [
+    "jp",
+    "剪定対象-子"
+  ],
+  "author": "nikumanjyu",
+  "created_at": "2024-06-12T09:32:54+00:00",
+  "updated_at": "2024-06-16T07:09:30+00:00",
+  "rating": 10,
+  "_site": "scp-jp",
+  "_fullname": "anomalous-jp:04650"
+}

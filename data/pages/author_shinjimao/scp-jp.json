@@ -1,0 +1,14 @@
+{
+  "title": "エージェント・マオの人事ファイル",
+  "content": "エージェント・マオは存在しません。\n\n**著作記事**\n__SCP-JP__:\n[[module ListPages created_by=\"shinjimao\" separate=\"no\" limit=\"250\" perPage=\"250\" tags=\"+scp +jp -joke\" order=\"title\"　category=\"*\" ]]\n* (%%created_at|%y/%m/%d%%) %%title_linked%% (評価: %%rating%%)\n[[/module]]\n\n__SCP-JP-J__:\n[[module ListPages created_by=\"shinjimao\" separate=\"no\" limit=\"250\" perPage=\"250\" tags=\"joke, -scp, -tale\" order=\"title\"　category=\"*\" ]]\n* (%%created_at|%y/%m/%d%%) %%title_linked%% (評価: %%rating%%)\n[[/module]]\n\n__Tales-JP__:\n[[module ListPages created_by=\"shinjimao\" separate=\"no\" limit=\"250\" perPage=\"250\" tags=\"tale +jp\" order=\"title\"　category=\"*\" ]]\n* (%%created_at|%y/%m/%d%%) %%title_linked%% (評価: %%rating%%)\n[[/module]]",
+  "tags": [
+    "jp",
+    "著者ページ"
+  ],
+  "author": "shinjimao",
+  "created_at": "2014-05-29T12:35:47+00:00",
+  "updated_at": "2021-01-10T15:54:33+00:00",
+  "rating": 2,
+  "_site": "scp-jp",
+  "_fullname": "author:shinjimao"
+}

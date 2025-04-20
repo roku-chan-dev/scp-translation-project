@@ -1,0 +1,22 @@
+{
+  "title": "SCP-675",
+  "content": "[[>]]\n[[module Rate]]\n[[/>]]\n\n**Item #:** SCP-675\n\n**Object Class:** Safe\n\n**Special Containment Procedures:** The house containing SCP-675 has been designated Observation Post 9010. One researcher must be stationed within Observation Post 9010 at all times. Monitoring of SCP-675 is to be undertaken in 30 day shifts. No researcher may return to Observation Post 9010 before a minimum of six (6) shifts have passed. All researchers assigned to SCP-675 must undergo mandatory psychological screening prior to and after a completed shift in SCP-675.\n\nAll researchers monitoring SCP-675 must record any and all observations on an audio recorder. Following Incident 675-1, all researchers must be under video surveillance at all times.\n\n**Description:** SCP-675 is a standard window and frame found in the northwest portion of Observation Post 9010, in the living room area. During random time intervals, shadows resembling humanoid figures (designated as SCP-675-1) can be seen through the window. These shadows are visible at all times of the day and night, and are seen to be visually distinct from normal nighttime darkness. These instances are only visible from within Observation Post 9010. It is currently hypothesized that SCP-675-1 instances are trans-dimensional beings, and that SCP-675 functions similarly to [[[SCP-1278]]] and [[[SCP-1288]]] as a means of viewing them.\n\nIn order to aid in observation, a thin screen has been attached over SCP-675. This screen acts as a projection surface, on which SCP-675-1 instances can be seen more easily.\n\nSCP-675-1 instances often engage in actions such as tapping on the glass of SCP-675, conversing with one another, and various other benign actions. These are to be considered normal, and as of yet, SCP-675-1 instances have never engaged in any hostile actions.\n\nSCP-675's secondary anomalous effect is a hallucinogenic effect manifesting in individuals who remain in Observation Post 9010 for longer than approximately 45 days. Subjects who remain in the proximity of SCP-675 for longer than approximately 45 days become convinced of the malevolent nature of SCP-675-1 instances. The longer that subjects are exposed to SCP-675, the more extreme these hallucinations become. Subjects report that SCP-675 is a gateway to another dimension that is populated by SCP-675-1 instances, and that these instances seek to invade this dimension and \"cleanse it.\"\n\nSubjects will reiterate the need for individuals to prepare for the coming invasion by SCP-675-1 instances, and will seek to ensure that SCP-675 remains closed at all times. Subjects also report that SCP-675-1 instances will attempt to communicate with them, and that the content of such messages is often disturbing in nature. In a few instances, subjects will report that the SCP-675-1 instances are preparing for a trans-dimensional invasion of the Earth. Such reports are unsubstantiated, as audio surveillance currently reveals no such sounds.\n\nThe current video surveillance and rotations were enacted due to several breaches in which researchers constructed fortifications and preparations for the believed invasion by SCP-675-1. In one extreme case, a researcher constructed an elaborate series of anti-personnel traps designed to kill or seriously maim any individuals who attempted to enter the house.\n\n[[footnoteblock]]\n\n[[div class=\"footer-wikiwalk-nav\"]]\n[[=]]\n<< [[[SCP-674]]] | SCP-675 | [[[SCP-676]]] >>\n[[/=]]\n[[/div]]\n[[include :scp-wiki:component:license-box]]\n[[include :scp-wiki:component:license-box-end]]",
+  "tags": [
+    "_licensebox",
+    "artifact",
+    "auditory",
+    "hallucination",
+    "humanoid",
+    "light",
+    "portal",
+    "safe",
+    "scp",
+    "shadow"
+  ],
+  "author": "Dr Talson",
+  "created_at": "2009-05-06T22:42:48+00:00",
+  "updated_at": "2022-10-20T20:46:20+00:00",
+  "rating": 41,
+  "_site": "scp-wiki",
+  "_fullname": "scp-675"
+}

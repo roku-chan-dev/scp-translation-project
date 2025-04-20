@@ -1,0 +1,13 @@
+{
+  "title": "cyan4000-1",
+  "content": "[[module css]]\n#page-title {\n  display: none;\n}\n[[/module]]\n\n[[=]]\n+ 本条目尚不存在！\n[[/=]]\n\n----\n\n[[div style=\"background-color: #600; border: solid 1px #600; border-radius: 20px; color: #fff; width: 450px; margin: 0 auto; font-size: 150%; text-align: center; box-shadow: 0 2px 6px rgba(0,0,0,.5), inset 0 1px rgba(255,255,255,.5), inset 0 10px rgba(255,204,204,.5), inset 0 10px 20px rgba(255,204,204,.3), inset 0 -15px 30px rgba(48,0,0,.5); line-height: 100%; padding: 0 10px;\"]]\n**你是否得到IntSCPFN数据库列表管理员的批准？**\n[[/div]]\n\n[[div style=\"background-color: #fff0f0; border: solid 1px #600; border-radius: 20px; color: #300; width: 450px; margin: 20px auto 0; text-align: center; box-shadow: 0 2px 6px rgba(0,0,0,.5); padding: 0 10px;\"]]\n在文件得到相关人员审查前，SCP项目不得正式记录到国家级SCP基金会网络数据库中。要遵守发布协议地创建SCP文档，你的站点主管必须首先批准将该项目纳入数据库中，且必须经由列表管理员审查并批准你的稿件。\n-----\n本栏位**不在范围内**。本项目编号尚不能用作SCP文档。本页面具有**准保护**编辑限制。\n[[/div]]\n\n[[div style=\"background-color: #fffff0; border: solid 1px #660; border-radius: 20px; color: #330; width: 450px; margin: 20px auto 0; text-align: center; box-shadow: 0 2px 6px rgba(0,0,0,.5); padding: 0 10px;\"]]\n在拥有全面用户账号许可前不能将文本上传到本页面。向该页面上传文件将自动告知数据库监控人员。\n[[/div]]\n\n------\n\n[[=]]\n**,,[http://scp-wiki-cn.wikidot.com/scp-4069/offset/1 刷新页面],,**\n[[/=]]",
+  "tags": [
+    "段落"
+  ],
+  "author": "W Asriel",
+  "created_at": "2018-08-04T12:49:02+00:00",
+  "updated_at": "2024-04-27T19:52:20+00:00",
+  "rating": 0,
+  "_site": "scp-wiki-cn",
+  "_fullname": "fragment:cyan4000-1"
+}

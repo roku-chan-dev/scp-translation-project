@@ -1,0 +1,24 @@
+{
+  "title": "SCP-8173",
+  "content": "[[module CSS]]\n.collapsible-block-content {\n  animation-name: fadeUp;\n  animation-duration: 1.0s;\n  animation-iteration-count: 1;\n  animation-timing-function: ease-out;\n  animation-fill-mode: backwards;\n}\n.collapsible-block-unfolded .collapsible-block-link {\n  animation-name: fadeIn;\n  animation-duration: 2.0s;\n  animation-iteration-count: 1;\n  animation-timing-function: ease-out;\n  animation-fill-mode: backwards;\n}\n@keyframes fadeUp {\n  from {\n    opacity: 0;\n    transform: translate(0,15px);\n  }\n  to {\n    opacity: 1;\n    transform: translate(0,0);\n  }\n}\n@keyframes fadeIn {\n  from {\n    opacity: 0;\n  }\n  to {\n    opacity: 1;\n  }\n}\n[[/module]]\n\n=====\n[[include component:preview\ntext=\nA new SCP dossier is being served to Foundation staff. The anomaly? Some things are inherently not anomalous. Enclosed, Ms. Harrier’s poignant story about the Foundation’s response.\n]]\n=====\n\n[[>]]\n[[module Rate]]\n[[/>]]\n\n[[include :scp-wiki:component:acs-animation]]\n\n[[module ListPages  category=\"fragment\" parent=\".\" limit=\"1\" order=\"created_at\" offset=\"@URL|0\"]]\n%%content%%\n[[/module]]\n\n[!-- https://scp-wiki.wikidot.com/fragment:scp-8173-0 --]\n[!-- https://scp-wiki.wikidot.com/fragment:scp-8173-1--]\n[!-- https://scp-wiki.wikidot.com/fragment:scp-8173-2 --]\n[!-- https://scp-wiki.wikidot.com/fragment:scp-8173-3 --]\n\n[[div class=\"footer-wikiwalk-nav\"]]\n[[=]]\n<< [[[SCP-8172]]] | SCP-8173 | [[[SCP-8174]]] >>\n[[/=]]\n[[/div]]\n\n[[include :scp-wiki:component:license-box]]\n> **Filename:** RDgDBft.png\n> **Name:** N/A.\n> **Author:** None provided.\n> **License:** [[https://creativecommons.org/licenses/by-sa/3.0/ CC-BY-SA]]\n> **Source Link:** https://imgur.com/RDgDBft\n> **Additional Notes:** [[https://scp-wiki.wikidot.com/scp-style-resource Taken from the Style Guide]]\n> **Derivative Of:** (Situational)\n[[include :scp-wiki:component:license-box-end]]",
+  "tags": [
+    "8000",
+    "_cc",
+    "_licensebox",
+    "_listpages",
+    "alive",
+    "concept",
+    "feline",
+    "humanoid",
+    "reality-bending",
+    "safe",
+    "sapient",
+    "scp"
+  ],
+  "author": "P0rcelain",
+  "created_at": "2024-02-12T05:01:33+00:00",
+  "updated_at": "2024-03-11T06:32:06+00:00",
+  "rating": 25,
+  "_site": "scp-wiki",
+  "_fullname": "scp-8173"
+}

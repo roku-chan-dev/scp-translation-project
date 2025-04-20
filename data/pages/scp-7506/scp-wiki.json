@@ -1,0 +1,18 @@
+{
+  "title": "SCP-7506",
+  "content": "[[include :scp-wiki:info:start]]\n⚠️ **Content warning:** Domestic abuse/murder\n[[include :scp-wiki:info:end]]\n\n[[include :scp-wiki:component:info-cw]]\n\n**Item #:** SCP-7506\n\n**Object Class:** Safe\n\n**Special Containment Procedures:** SCP-7506 is kept in a standard containment locker.\n\n**Description:** SCP-7506 is an electric steam iron manufactured in the early 1960’s. The soleplate is heavily dented and covered in various burn marks.\n\nWhile SCP-7506 is plugged in and switched on, contact between its soleplate and any clothing will cause an audible scream to vocalise from the latter while contact is maintained. The screams will match that of a human, varying in tone and pitch depending on the intended body type the clothing was designed for.\n\n**Testing log:**\n> **Item:** An adult man’s tailored suit\n> **Resulting Vocalisation:** Deep pitched scream, similar to that of an adult male.\n\n> **Item:** An adult woman’s polkadot sundress\n> **Resulting Vocalisation:** High pitched scream, similar to an adult female.\n\n> **Item:** A boy’s plain white t-shirt\n> **Resulting Vocalisation:** High pitched scream, masculine undertones.\n\n> **Item:** A young girl’s shirt\n> **Resulting Vocalisation:** High pitched, feminine scream.\n\n> **Item:** A white lab coat\n> **Note:** Item belonged to Head Researcher, Dr. Miles.\n> **Resulting Vocalisation:** Low pitched scream, identical to Dr. Miles.\n\n> **Item:** A young boy’s shirt, heavily torn (Recovered from SCP-7506’s original location)\n> **Resulting Vocalisation:** High pitched scream.\n\n> **Item:** Same torn shirt from previous test\n> **Note:** Contact between SCP-7506 and the garment lasted longer than in previous tests.\n> **Resulting Vocalisation:** Screams remained unchanged for the first thirty seconds. Vocalisations gradually became quieter over the next three minutes, until ceasing completely. Only infrequent, hushed murmuring would occur until the test's conclusion.\n\n> **Item:** A teenage girl’s yellow sweater with burn marks matching SCP-7506’s soleplate present on the back left shoulder area.\n> **Resulting Vocalisation:** High pitched screams between stretches of heavy breathing. Vocalisations were slightly muffled, as if emanating through clenched teeth.\n\n> **Item:** A man’s grey tailored suit, immaculately kept\n> **Resulting Vocalisation:** Audible murmuring, barely noticeable.\n\n> **Item:** A woman's blue dress, covered in multiple stitchings from repairs.\n> **Resulting Vocalisation:** Silence.\n[[include :scp-wiki:component:license-box |author=Penton]]\n[[include :scp-wiki:component:license-box-end]]",
+  "tags": [
+    "_licensebox",
+    "acoustic",
+    "appliance",
+    "clothing",
+    "safe",
+    "scp"
+  ],
+  "author": "Penton",
+  "created_at": "2023-07-09T22:04:11+00:00",
+  "updated_at": "2024-03-27T19:35:15+00:00",
+  "rating": 50,
+  "_site": "scp-wiki",
+  "_fullname": "scp-7506"
+}

@@ -1,0 +1,13 @@
+{
+  "title": "Ykd 3",
+  "content": "[[module CSS]]\n/*\n    Powered on 2019/06/05 18:17:54\n    [2019 Wikidot Theme]\n    Created by Yu Ken Dai\n    CC BY-SA 3.0\n*/\n\ndiv#container-wrap {\n    background: url(http://smlt.wdfiles.com/local--files/ashburystreet%3A7/body_bg_deda.png) top left repeat-x;\n}\n\na,a:visited {\n    color: #219abf;\n}\nh1,h2,h3,h4,h5,h6 {\n    color: #6666ff;\n}\n\n[[/module]]\n\n[[=]]\n[[size 500%]]YKD作品集[[/size]]\n@@@@\n@@@@\n//我寫作能力沒有很好，給大佬們見笑惹//\n[[/=]]\n\n[[div class=\"content-panel standalone series\" style=\"background-color: #FFFFFF;\"]]\n+ 文檔\n@@@@\n# [[[scp-cn-957|SCP-CN-957]]]\n# [[[scp-cn-1215|SCP-CN-1215]]]\n# [[[scp-cn-1911|SCP-CN-1911]]]\n# [[[scp-cn-1247|SCP-CN-1247]]]\n# [[[scp-cn-614|SCP-CN-614]]]\n# [[[scp-cn-1704|SCP-CN-1704]]]\n# [[[scp-cn-2345|SCP-CN-2345]]]\n[[/div]]\n@@@@\n[[div class=\"content-panel standalone series\" style=\"background-color: #FFFFFF;\"]]\n+ 故事\n@@@@\n# [[[yu-ken-dai|以毒攻毒]]]\n# [[[a-day-in-gsf|在超自然環保恐怖組織的工作日常1]]]\n# [[[life-is-living|生活就是生活而已]]]\n# [[[supernatural-product-of-failure|失敗品異常]]]\n[[/div]]\n@@@@\n[[div class=\"content-panel standalone series\" style=\"background-color: #FFFFFF;\"]]\n+ 藝作\n@@@@\n[[=]]\n**等人家學完畫畫就放030**\n[[size 20%]]\n//一輩子也學不完//\n[[/size]]\n[[/=]]\n[[/div]]\n@@@@\n[[div class=\"content-panel standalone series\" style=\"background-color: #FFFFFF;\"]]\n+ GOI格式\n@@@@\n# [[[watshar-convention|20200913五大湖奇異點事件-亞特蘭提斯毀滅-19370707北京奇異點事件]]]（黑皇后）\n# [[[pleurotus-explosive|炸彈杏鮑菇]]]（PZGA）\n[[/div]]\n\n[[=]]\n//**空虛...**//\n[[/=]]",
+  "tags": [
+    "段落"
+  ],
+  "author": "Yu Ken Dai",
+  "created_at": "2019-02-24T23:30:16+00:00",
+  "updated_at": "2024-04-27T19:09:33+00:00",
+  "rating": 0,
+  "_site": "scp-wiki-cn",
+  "_fullname": "fragment:ykd-3"
+}

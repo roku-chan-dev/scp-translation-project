@@ -1,0 +1,23 @@
+{
+  "title": "SCP-CN-1183",
+  "content": "[[>]]\n[[module Rate]]\n[[/>]]\n\n[[module ListPages category=\"fragment\" parent=\".\" limit=\"1\" order=\"name\" offset=\"@URL|0\"]]\n%%content%%\n[[/module]]\n\n[[footnoteblock]]\n\n[[div class=\"footer-wikiwalk-nav\"]]\n[[=]]\n<< [[[SCP-CN-1182]]] | SCP-CN-1183 | [[[SCP-CN-1184]]] >>\n[[/=]]\n[[/div]]",
+  "tags": [
+    "keter",
+    "scp",
+    "人造物品",
+    "原创",
+    "反转生死竞赛",
+    "幻觉",
+    "强迫性",
+    "时间影响",
+    "现实扭曲",
+    "移情作用",
+    "精神影响"
+  ],
+  "author": "Angel_ica",
+  "created_at": "2019-03-13T16:10:24+00:00",
+  "updated_at": "2024-05-27T12:57:22+00:00",
+  "rating": 50,
+  "_site": "scp-wiki-cn",
+  "_fullname": "scp-cn-1183"
+}

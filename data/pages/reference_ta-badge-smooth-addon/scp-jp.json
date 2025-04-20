@@ -1,0 +1,14 @@
+{
+  "title": "リファレンス: ぬるぬる動くあなたの実績2 - アドオン",
+  "content": "[[include :scp-jp:credit:start]]\n++++* クレジット\n**タイトル:** [http://scp-jp.wikidot.com/reference:ta-badge-smooth-addon ぬるぬる動くあなたの実績2 - アドオン]\n**著者:** [[*user R74]]\n**ライセンス:** CC BY-SA 3.0\n>Thank you, k-cal for the great idea.\n[[include :scp-jp:credit:end]]\n+ What is this?\n[http://scp-jp.wikidot.com/reference:ta-badge-smooth ぬるぬる動くあなたの実績2]にユーザー側で任意のバッジを追加できるようにしたコンポーネントです．公式コンテスト等の任意のバッジを追加することを想定しています．\n\n+ 引数\n++++* ta-badge-smooth\n||~ 変数名 ||~ 備考 ||\n|| {{num}} || バッジ数(アドオンでの追加数を含める) ||\n|| {{user-icon}} || アイコン画像 ||\n|| {{addon}} || {{true}}||\n\n++++* ta-badge-smooth-base-base\n||~ 変数名 ||~ 備考 ||\n|| {{name}} || 既存のバッジに存在しない文字列 ||\n|| {{name}}で指定した文字列 || {{true}}||\n|| {{title}} || hover時の説明文のタイトル ||\n|| {{content}} || hover時の説明文のコンテンツ||\n\n++++* CSS\n[*https://scp-jp-storage.wdfiles.com/local--files/file%3A2043380-520-tgkt/ta-badge.css CSS]を参考に，\n{{.ta-badge .[name] .badge}}と{{.ta-badge .[name] .a1}}~{{.ta-badge .[name] .a10}}に適切なCSSを指定する．\n\n\n+ 使い方\n[[div class=\"code\"]]\n##blue|[[include :scp-jp:user-component:ta-badge-smooth num=1|addon=true]]##\n##blue|[[include :scp-jp:user-component:ta-badge-smooth-base-base name=test|test=true|title=テストバッジ|content=これはテストバッジです]]##\n##blue|[[include :scp-jp:user-component:ta-badge-smooth-end]]##\n\n@@[[module css]]@@\n.ta-badge .test .badge {\n@@    @@background-image: url(\"@@http:@@//scp-jp-storage.wikidot.com/local--files/file:2043380-221-ywkd/minarai.png\");\n}\n@@[[/module]]@@\n[[/div]]\n\n[[include :scp-jp:user-component:ta-badge-smooth |num=1|addon=true]]\n[[include :scp-jp:user-component:ta-badge-smooth-base-base  name=test|test=true|title=テストバッジ|content=これはテストバッジです]]\n[[include :scp-jp:user-component:ta-badge-smooth-end]]\n[[module css]]\n.ta-badge .test .badge {\n    background-image: url(\"http://scp-jp-storage.wikidot.com/local--files/file:2043380-221-ywkd/minarai.png\");\n}\n[[/module]]\n\n[[module css]]\ntable.wiki-content-table {\n    width: 100%;\n}\n[[/module]]",
+  "tags": [
+    "jp",
+    "リファレンス"
+  ],
+  "author": "R74",
+  "created_at": "2023-04-27T14:28:19+00:00",
+  "updated_at": "2023-10-16T16:52:34+00:00",
+  "rating": 19,
+  "_site": "scp-jp",
+  "_fullname": "reference:ta-badge-smooth-addon"
+}

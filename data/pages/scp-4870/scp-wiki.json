@@ -1,0 +1,20 @@
+{
+  "title": "SCP-4870",
+  "content": "[[include theme:black-highlighter-theme]]\n[[module css]]\n.footnotes-footer {\ndisplay:none;\n}\n[[/module]]\n\n[[include info:start]]\n[[=]]\n**SCP-4870:** Something’s Wrong With Site-17\n@@ @@\n**Author:** [[*user ItsDenali]] and thanks to [[*user Reverend Fox]] and [[*user Crow-Cat]] for their helpful insight and critique!\n**Image Credit:** Image produced by me, see comments page for details.\n[[/=]]\n[[include info:end]]\n\n\n[[module ListPages category=\"fragment\" parent=\".\" order=\"created_at\" limit=\"1\" offset=\"@URL|0\"]]\n%%content%%\n[[/module]]\n\n\n[!-- Fragments in case you want to see their source code: --]\n[!-- http://www.scp-wiki.net/fragment:scp-4870-1--]\n[!-- http://www.scp-wiki.net/fragment:scp-4870-2--]\n\n[!-- Sandbox Versions:--]\n[!-- http://kontainer.djkakt.us/fragment:scp-4870-1--]\n[!-- http://kontainer.djkakt.us/fragment:scp-4870-2--]\n\n[[div class=\"footer-wikiwalk-nav\"]]\n[[=]]\n<< [[[SCP-4869]]] | SCP-4870 | [[[SCP-4871]]] >>\n[[/=]]\n[[/div]]",
+  "tags": [
+    "_cc",
+    "_listpages",
+    "alive",
+    "animal",
+    "euclid",
+    "infohazard",
+    "reptile",
+    "scp"
+  ],
+  "author": "ItsDenali",
+  "created_at": "2019-01-18T01:40:13+00:00",
+  "updated_at": "2022-10-08T22:10:08+00:00",
+  "rating": 68,
+  "_site": "scp-wiki",
+  "_fullname": "scp-4870"
+}

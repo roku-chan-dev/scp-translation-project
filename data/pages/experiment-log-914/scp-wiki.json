@@ -1,0 +1,17 @@
+{
+  "title": "Experiment Log 914",
+  "content": "[[>]]\n[[module Rate]]\n[[/>]]\n\n[!--\nREMINDERS TO CONTRIBUTORS: SCP-914 does not create or destroy matter, nor does it change anything on the atomic level. All outputs should contain all and only the matter included in the input. Some grandfathered entries break this rule, but new entries should never do so.\n--]\n\n**Note to all Researchers:**\nPlease include your name on all records, along with date and total number of items \"refined\".\n\nResearchers are responsible for all \"Output\". Should damage or loss of life occur, the researcher will be subject to administrative review and possible disciplinary action.\n\nBiological testing has been suspended. Any biological testing must be cleared by O5 Command.\n\n**Test Log Format:**\nAll test logs should be written in this form.\n**Name:**\n**Date:** DD/MM/YYYY\n**Total Items:**\n\n**Input:**\n**Setting:**\n**Output:**\n------\n\n[[module ListPages  category=\"fragment\" parent=\".\" limit=\"1\" order=\"name\" offset=\"@URL|0\"]]\n%%content%%\n[[/module]]\n\n[!-- To generate a list of child pages, change:\n\n%%content%%\n\nto:\n\n%%title_linked%%\n\nand then remove 'limit=\"1\"' from the module code.\n\nCurrent framents\n\nexperiment-log-914-001\n\nexperiment-log-914-002\n\nexperiment-log-914-003\n\nexperiment-log-914-004\n\nexperiment-log-914-005\n\nexperiment-log-914-006\n\nexperiment-log-914-007\n\nexperiment-log-914-008\n\nexperiment-log-914-009\n\nexperiment-log-914-010\n\nexperiment-log-914-011\n\nexperiment-log-914-012\n\nexperiment-log-914-013\n\nexperiment-log-914-014\n\nexperiment-log-914-015\n\nexperiment-log-914-016\n\nexperiment-log-914-017\n\nexperiment-log-914-018\n\nexperiment-log-914-019\n\nexperiment-log-914-020\n\nThen click Preview. Do not click Save. --]\n\n[[include :scp-wiki:component:license-box]]\n[!-- N/A (No Images)  --]\n[[include :scp-wiki:component:license-box-end]]",
+  "tags": [
+    "_licensebox",
+    "_listpages",
+    "collaboration",
+    "experiment",
+    "supplement"
+  ],
+  "author": "Dr Gears",
+  "created_at": "2008-09-11T16:23:20+00:00",
+  "updated_at": "2024-09-04T20:30:20+00:00",
+  "rating": 988,
+  "_site": "scp-wiki",
+  "_fullname": "experiment-log-914"
+}

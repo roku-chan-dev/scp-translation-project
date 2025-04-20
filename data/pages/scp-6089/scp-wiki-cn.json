@@ -1,0 +1,22 @@
+{
+  "title": "SCP-6089",
+  "content": "[[include :scp-wiki-cn:component:anomaly-class-bar-source\n|lang=cn\n|item-number= 6089\n|clearance= 1\n|container-class= safe\n|secondary-class= none\n|secondary-icon= http://acsurlexample.com/image.svg\n|disruption-class= dark\n|risk-class= 待观察\n]]\n\n------\n\n[[include component:image-block name=http://scp-wiki.wdfiles.com/local--files/scp-6089/chapel|caption=编为SCP前的Site-132礼拜堂|width=300px]]\n\n**特殊收容措施：**SCP-6089自我收容于Site-132。[[span style=\"color:royalblue\"]]//**注意：**//根据站点主管的要求，人员不得在SCP-6089附近祷告。[[/span]]\n\nSite-132的研究员兼牧师Josiah Lopez博士建议为Site-132工作人员反映的不同信仰建造各自的礼拜场所，该请求正在等待审核。\n\n**描述：**SCP-6089前为Site-132的礼拜堂。06/21/2019，该礼拜堂被一不可逾越的屏障包围，使人员无法进入或退出。每周日上午9:33，两个人形实体将出现在礼拜堂内。第一个实体（貌似前员工Mark ████████）坐在前排，面对圣坛；第二个实体在它正前方。第一个实体随后接近第二个实体并对其展开攻击。\n\n两个实体互相殴打。几分钟后，第二个实体倒在地上，第一个实体踩在其身上。两个实体随后都看向天花板。不久之后，礼拜堂被火吞没，并燃烧不确定的时间。需注意与火的燃烧相关的噪音和气味都不存在。声音，包括爆炸、呻吟、爆裂和鸣响等声音从礼拜堂内传出；每次事件中产生的声音都互不相同。以下为一个示例：\n\n[[include :snippets:html5player\n| type=audio\n| url=https://scp-wiki.wdfiles.com/local--files/scp-6089/spook\n]]\n\n若有人在SCP-6089附近[[[SCP-6183|祷告]]]，声音的频率将升高。这些声音会在礼拜堂停止燃烧时消失。在下一个周日的上午9:30，SCP-6089将恢复到原先状态。\n\n**附录：**在06/21/2019、礼拜堂被编为SCP之前，有人亵渎了置于其中的一个神像。被安保录像确认为作恶者后，前员工Mark ████████遭到解雇。由于相关的争议，Site-132东翼的宗教服务被禁止。\n\n[[span style=\"color:royalblue\"]]**更新：**已通知Site-132人际宗教问题应升级到当地的伦理委员会办公室和/或人力资源部门进行调查。[[/span]]\n\n[[footnoteblock]]\n\n[[div class=\"footer-wikiwalk-nav\"]]\n[[=]]\n<< [[[SCP-6088]]] | SCP-6089 | [[[SCP-6090]]] >>\n[[/=]]\n[[/div]]",
+  "tags": [
+    "safe",
+    "scp",
+    "人形生物",
+    "声音",
+    "宗教",
+    "建筑",
+    "循环",
+    "火",
+    "震动",
+    "音频"
+  ],
+  "author": "Esperanza_Cai",
+  "created_at": "2021-09-04T06:05:06+00:00",
+  "updated_at": "2023-05-21T09:07:20+00:00",
+  "rating": 3,
+  "_site": "scp-wiki-cn",
+  "_fullname": "scp-6089"
+}

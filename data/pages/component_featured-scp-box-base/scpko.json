@@ -1,0 +1,13 @@
+{
+  "title": "특집 SCP 상자 베이스",
+  "content": "[[div class=\"shadow-panel\"]]\n[[div class=\"content-panel\"]]\n[[div class=\"panel-heading\"]]\nSCP\n[[/div]]\n[[div class=\"panel-body\"]]\n\n[[div class=\"feature-title\"]]\n[[[{$link1}]]]: {$title1}\n[[/div]]\n\n[[div class=\"feature-subtitle wide\"]]\n{$author1} 글 / {$translator} 옮김\n[[/div]]\n\n[[/div]]\n[[/div]]\n\n[[div class=\"content-panel button mobile\"]]\n[[/div]]\n\n[[div class=\"content-panel\"]]\n[[div class=\"panel-heading\"]]\nSCP KO\n[[/div]]\n[[div class=\"panel-body\"]]\n\n[[div class=\"feature-title\"]]\n[[[{$link2}]]]: {$title2}\n[[/div]]\n\n[[div class=\"feature-subtitle wide\"]]\n{$author2} 글\n[[/div]]\n\n[[/div]]\n[[/div]]\n\n[[div class=\"content-panel button\"]]\n[[/div]]\n[[/div]]\n\n[[div class=\"button\" style=\"align-self: flex-end;\"]]\n\n[[collapsible show=\"▼\" hide=\"▲\"]]\n\n[[div class=\"content-panel\"]]\n[[div class=\"panel-heading mobile\"]]\n번역 SCP 특집\n[[/div]]\n[[div class=\"panel-body\"]]\n[[div class=\"feature-title mobile\"]]\n[[[{$link1}]]]: {$title1}\n[[/div]]\n\n[[div class=\"feature-subtitle mobile\"]]\n{$author1} 글 / {$translator} 옮김\n[[/div]]\n\n//{$caption1}//\n\n[[div_ style=\"text-align: center; width: 100%; margin: 5px;\"]]\n[[[Featured scp Archive|특집 SCP 보관소]]]\n[[/div]]\n[[/div]]\n[[/div]]\n\n[[div class=\"wide\" style=\"width: 15px\"]]\n[[/div]]\n\n[[div class=\"content-panel\"]]\n[[div class=\"panel-heading mobile\"]]\n창작 SCP 특집\n[[/div]]\n[[div class=\"panel-body\"]]\n[[div class=\"feature-title mobile\"]]\n[[[{$link2}]]]: {$title2}\n[[/div]]\n\n[[div class=\"feature-subtitle mobile\"]]\n{$author2} 글\n[[/div]]\n\n//{$caption2}//\n\n[[div_ style=\"text-align: center; width: 100%; margin: 5px;\"]]\n[[[Featured scp ko Archive|특집 SCP-KO 보관소]]]\n[[/div]]\n[[/div]]\n[[/div]]\n[[/collapsible]]\n\n[[/div]]",
+  "tags": [
+    "템플릿"
+  ],
+  "author": "Salamander724",
+  "created_at": "2015-04-02T02:10:44+00:00",
+  "updated_at": "2024-10-11T11:24:54+00:00",
+  "rating": 0,
+  "_site": "scpko",
+  "_fullname": "component:featured-scp-box-base"
+}

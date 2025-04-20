@@ -1,0 +1,18 @@
+{
+  "title": "SCP-4663",
+  "content": "[[module css]]\n#header{\n    background: url(null);\n}\n#header:before{\ndisplay:block;\nposition: absolute;\nwidth: 100px;\nheight: 100px;\ntop: 15%;\nleft:2%;\nz-index: -1;\ncontent: \"\";\nbackground:url(http://scp-wiki.wdfiles.com/local--files/component%3Atheme/logo.png);\nbackground-repeat: no-repeat;\nbackground-size: 100px 99px;\nbackground-position: 0px 0px 0px;\nz-index: -20;\ntransform: rotateZ(180deg);\n}\n#header h2 span {\n    color: transparent;\n    text-shadow:none;\n}\n#header h2 span::before {\n    content: \"保护、收容、控制\";\n    color: #F0F0C0;\n    padding: 0px 0px 00px;\n    text-shadow:initial;\n}\n@media (max-width: 800px) {\n#header{\n    background: url(null);\n}\n#header:before{\ndisplay:block;\nposition: absolute;\nwidth: 100px;\nheight: 100px;\ntop: 15%;\nleft:2%;\nz-index: -1;\ncontent: \"\";\nbackground:url(http://scp-wiki.wdfiles.com/local--files/component%3Atheme/logo.png);\nbackground-repeat: no-repeat;\nbackground-position: 3.75em .5em;\nbackground-size: 55px 55px;\nz-index: -20;\ntransform: rotateZ(180deg);\n}\n}\n[[/module]]\n\n\n**项目编号：**SCP-4663\n\n**项目等级：**Keter[[footnote]]原Euclid[[/footnote]]\n\n**特殊收容措施：**SCP-4663群体应被收容于II型泰拉瑞亚收容室中，每周喂食两次。不得将非异常3D打印机带到SCP-4663实体附近。根据收容人员决定，SCP-4663群体可用作废物处理区。\n\n**更新：**在任何情况下，SCP-4663群体均不得超过500,000例人口。\n\n**描述：**SCP-4663是一种异常蛛形纲生物，原产于欧洲、北美和南美洲。\n\nSCP-4663能够消耗所有的无机物，但主要以金属和塑料维生。\n SCP-4663个体在内部处理这些材料，并将它们纺成丝线，用于构造SCP-4663-1实体。\n\n SCP-4663-1是一种活性实体，类似并具有3D打印机的作用；但是，对象与任何已知产品均不相匹配。一旦完成构建，SCP-4663个体将开始喂养SCP-4663-1生物材料，并将其用于“打印”更多的SCP-4663个体，作为它们的繁殖手段。只要持续供应生物材料，SCP-4663-1就能够以每150秒一个的速率创造新的SCP-4663个体。\n\n传统的SCP-4663群体会在由每25-50万个个体组成的群体中创造一个SCP-4663-1个体。\n\n虽然SCP-4663-1类似于非异常3D打印机，并且可与传统打印机同样地使用，但SCP-4663-1个体的许多组件都具有次要的异常用途，包括：\n\n* 输入/输出以及电气接口，充当“口”来为SCP-4663实体放置生物材料。\n* 一个显示屏，充当SCP-4663-1的眼睛。\n* 挤压机的功能包括充当SCP-4663-1个体的肠道与肛门；处理和排泄生物物质。个体也能够使用该挤压器进行一种粗略运动。\n* 储存灯丝线轴的区域已被一个类似于胃的器官所取代，该器官能够储存比SCP-4663-1所能容纳的更多的物质。\n* 一条充当尾巴的电线，若将该电线插入电源插座，SCP-4663-1的功率将提高大约3000%。\n\nSCP-4663还能够将非异常3D打印机重新调整作SCP-4663-1个体。对象完成这一举措的方法尚不得而知。\n\n由于SCP-4663的繁殖方式，物理变化与进化频繁发生，SCP-4663和SCP-4663-1能够在SCP-4663-1创造完成大约四小时内完全适应新环境。\n\n**附录4663-A：**\n\n在18/27/2018，收容室内的一个SCP-4663群体达到了将近1,000,000的人口，并开始以疯狂的方式行动。群体中的所有SCP-4663-1个体停止打印，并通过SCP-4663个体的协作相互运送。一旦SCP-4663-1个体彼此相距一米之内，SCP-4663群体就会开始将对象编织在一起，迅速消耗周围的收容单元并重新转化为原材料。\n\n由此产生的蛛丝构造物（被称为SCP-4663-2）高度超过3米，并试图使用一系列基于蛛形纲生物的武器逃出站点，对象以每秒1,000多个的速率创造新的SCP-4663个体。当它穿过设施时，SCP-4663群体分解了对象周围的墙体，并将其重新用作SCP-4663-2内的额外附肢与SCP-4663-1个体。在此期间创造出的SCP-4663个体比平常大六倍多，并由各种有机和无机材料构成。\n\n几小时后，SCP-4663-2被捕获并重新收容。根据其行进路线，目前认为SCP-4663-2试图与单独收容中的SCP-4663群体合并。在此期间，疑似群体的行为没有发生变化。\n\n在该起事件发生后，SCP-4663被重新分类为Keter。\n\n[[footnoteblock]]\n\n[[div class=\"footer-wikiwalk-nav\"]]\n[[=]]\n<< [[[SCP-4662]]] | SCP-4663 | [[[SCP-4664]]] >>\n[[/=]]\n[[/div]]",
+  "tags": [
+    "keter",
+    "scp",
+    "变形",
+    "家用物品",
+    "生物性",
+    "蜘蛛"
+  ],
+  "author": "Rye Travis",
+  "created_at": "2019-06-07T05:33:23+00:00",
+  "updated_at": "2023-12-20T03:02:18+00:00",
+  "rating": 2,
+  "_site": "scp-wiki-cn",
+  "_fullname": "scp-4663"
+}

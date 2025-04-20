@@ -1,0 +1,15 @@
+{
+  "title": "Collected Data",
+  "content": "[[>]]\n[[module Rate]]\n[[/>]]\n> Light blue\n> 55 mph\n> Plymouth\n> 2 Occupants\n> 1 male, young adult, yellow hair, brown eyes\n> 1 female, young adult, brown hair, brown eyes\n\n> Deep red\n> 75 mph\n> Mustang\n> 1 Occupant\n> 1 male, adult, black hair, brown eyes\n\n> Dark brown\n> 65 mph\n> Buick\n> 2 Occupants\n> 1 male, adult, black hair, brown eyes, brown skin\n> 1 female, elderly, white hair, blue eyes\n\n> Orange, mottled with oxidation\n> 45 mph\n> Unknown\n> 5 Occupants\n> Forward compartment - 1 male, elderly, thin gray hair, eyes unknown\n> Forward compartment - 1 male, adult, brown hair, brown eyes\n> 1 female, child, yellow hair, brown eyes\n> 1 male, adult, brown hair, brown eyes\n> 1 male, escaped, hostile\n\n> Black and white, patterned\n> Ford\n> 35 mph\n> 2 Occupants\n> 1 male, adult, brown hair, brown eyes, brown skin, hostile\n> 1 male, adult, orange hair, green eyes, hostile\n> confusing lights\n\n> Black\n> 85 mph\n> Unknown\n> 2 Occupants\n> 1 male, adult, black hair, brown eyes, hostile\n> 1 male, adult, black hair, brown eyes, hostile\n\n> Tan\n> 90 mph\n> Chevrolet\n> 4 Occupants\n> 1 male, adult, yellow hair, blue eyes, hostile\n> 1 male, adult, no hair, brown eyes, hostile\n> 1 male, adult, grey hair, blue eyes, hostile\n> 1 male, adult, orange hair, green eyes, hostile\n\n> Black\n> 70 mph\n> Unknown\n> 2 Occupants\n> 1 male, escaped, hostile\n> 1 female, escaped, hostile\n\n> Black\n> 55 mph\n> Unknown\n> 2 Occupants\n> 1 male, escaped, hostile\n> 1 female, escaped, hostile\n\n> Black\n> 55 mph\n> Unknown\n> Record Interrupted\n\n> No data\n> \n> No data\n\n\n> Unable to collect data, terminate connection? Y/N\n> \n> **N**\n> \n> Connection failing. No data. Enter command:\n> \n> **status**\n> \n> Movement prevented by obstacles.  Light input exceeds operating parameters.\n> \n> **look**\n> \n> 4 specimens. Sex indeterminate. White suits.  Light input exceeds operating parameters.  Specimens in posture of examination.  Enter command:\n> \n> **examine subjects**\n> \n> Unable to comply.\n> \n> Damage recorded to central cavity.\n> \n> Connection terminated by outside force.\n\n[[include :scp-wiki:component:license-box]]\n[!-- N/A (No Images)  --]\n[[include :scp-wiki:component:license-box-end]]",
+  "tags": [
+    "_licensebox",
+    "tale",
+    "talecon10"
+  ],
+  "author": "Sorts",
+  "created_at": "2010-05-28T22:42:47+00:00",
+  "updated_at": "2022-12-06T19:21:31+00:00",
+  "rating": 68,
+  "_site": "scp-wiki",
+  "_fullname": "collected-data"
+}

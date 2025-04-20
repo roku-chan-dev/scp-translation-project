@@ -1,0 +1,25 @@
+{
+  "title": "SCP-7993",
+  "content": "[[>]]\n[[module Rate]]\n[[/>]]\n\n[[include :scp-wiki:component:scp-pride]]\n\n[[module ListPages  category=\"fragment\" parent=\".\" limit=\"1\" order=\"created_at\" offset=\"@URL|0\"]]\n%%content%%\n[[/module]]\n\n[!-- https://scp-wiki.wikidot.com/fragment:scp-7993-1 --]\n[!-- https://scp-wiki.wikidot.com/fragment:scp-7993-2 --]\n[!-- https://scp-wiki.wikidot.com/fragment:scp-7993-3 --]\n[!-- https://scp-wiki.wikidot.com/fragment:scp-7993-4 --]",
+  "tags": [
+    "_listpages",
+    "auditory",
+    "cognitohazard",
+    "esoteric-class",
+    "global-occult-coalition",
+    "memetic",
+    "mind-affecting",
+    "pentagram",
+    "researcher-smalls",
+    "scp",
+    "ticonderoga",
+    "transmission",
+    "unusual-incidents-unit"
+  ],
+  "author": "New_to_life",
+  "created_at": "2022-08-31T12:36:28+00:00",
+  "updated_at": "2024-04-05T21:27:54+00:00",
+  "rating": 67,
+  "_site": "scp-wiki",
+  "_fullname": "scp-7993"
+}

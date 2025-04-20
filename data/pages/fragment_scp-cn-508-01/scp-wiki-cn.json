@@ -1,0 +1,13 @@
+{
+  "title": "SCP咕金会模因阻断鸽滤系统",
+  "content": "[[image http://scpsandboxcn.wdfiles.com/local--files/chinahero/hui1.jpg width=\"300px\"]][[image http://scpsandboxcn.wdfiles.com/local--files/chinahero/hui2.jpg width=\"300px\"]]\n\n[[size x-large]][[span style=\"color:#000080\"]]**保护系统重置中...**[[/span]][[/size]]\n\n[[size x-large]][[span style=\"color:#000080\"]]**Login...**[[/span]][[/size]]\n\n[[size large]][[span style=\"color:red\"]]**Error...**[[/span]][[/size]]\n\n[[size large]][[span style=\"color:#000080\"]]**保护系统无响--咕--...(1/3)**[[/span]][[/size]]\n\n[[size large]][[span style=\"color:#000080\"]]**保--咕咕--统无--咕--应...(2/3)**[[/span]][[/size]]\n\n[[size large]][[span style=\"color:#000080\"]]**保--咕咕咕咕咕--应...(3/3)**[[/span]][[/size]]\n\n[[size large]][[span style=\"color:red\"]]**Er--咕--or...**[[/span]][[/size]]\n\n[[size large]][[span style=\"color:red\"]]**您所--咕--的站--咕--发生了未知错误，请联系维护--咕--员进行修复。**[[/span]][[/size]]\n\n[[note]]\n[[size x-large]]**模因污染警告：**\n\n过滤系统失效。请关闭站点的电子文档防止影响扩散。[[/size]]\n[[/note]]\n\n[[note]]\n[[size x-large]]**继续查阅需要4--咕--以上--鸽--限**[[/size]]\n[[/note]]\n**权限检查通过。请等待文件系统调用离线资源。**\n**↓↓↓加载成功。通过以下通道查访资源↓↓↓**\n[[html]]\n\n<p id=\"claa\">资源通道一</p>\n</p>\n<button id=\"clab\" type=\"button\" onclick=\"myFunction()\">\n    检索\n</button>\n<script>\n    function myFunction() {\n        x = document.getElementById(\"claa\");\n        x.innerHTML = \" 检索失败。请尝试检查站点模因过滤模块是否启用。\";\n        y = document.getElementById(\"clab\")\n        y.innerHTML = \"咕咕咕咕咕咕咕咕咕咕咕\"\n    }\n</script>\n<br>\n<br>\n资源通道咕<br>\n<br>\n<input type=\"button\" value=\"检索\" onclick=\"window.open('http://scp-wiki-cn.wikidot.com/scp-cn-508/offset/1','_blank')\">\n\n[[/html]]",
+  "tags": [
+    "段落"
+  ],
+  "author": "chinahero",
+  "created_at": "2018-08-14T15:53:49+00:00",
+  "updated_at": "2018-08-14T16:05:29+00:00",
+  "rating": 2,
+  "_site": "scp-wiki-cn",
+  "_fullname": "fragment:scp-cn-508-01"
+}

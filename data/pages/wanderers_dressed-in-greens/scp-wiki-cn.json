@@ -1,0 +1,15 @@
+{
+  "title": "一袭绿衣",
+  "content": "[[module css]]\n/* poetry formatting chunk from http://wanderers-library.wikidot.com/carolynn */\n@import url('https://fonts.googleapis.com/css?family=EB+Garamond:500&display=swap');\n#content-wrap {background-color:#fcfcfc}\n.poem span {white-space:pre !important}\n.poem p {\n  margin-top: 0em;\n  margin-bottom: 0em;\n}\n#page-content {padding-bottom:15%}\n.poem {\n  white-space:wrap !important;\n  font-family:\"EB Garamond\",\"Times New Roman\",serif;\n  font-size:120%;\n  text-indent: -1em;\n  padding-left:10%;\n  padding-top:5%;\n  padding-bottom:5%;\n}\n@media only screen and (max-width: 600px) {\n  .poem { padding-left: 1.5em; font-size:115%;}\n}\n[[/module]]\n[[div class=\"poem\"]]\n我记得你身着一袭绿衣。你的耳环和眸子，\n\n皆着翡翠之碧。\n\n于是世界在午时闪烁不定。\n\n清晨的阳光像杯中打旋的茶叶沁入窗棂\n\n客厅里传来洗牌声，\n\n我熟睡的同胞的清冷气息也使你染上了，绿色。\n\n因你是光芒，此岸的星辰也知悉跟上我的步履，\n\n我想我能携你前行。即使只有幻影\n\n我携你越过桤木林和砖石\n\n越过淡褪了粉彩，地衣攀附的参差瓦砾\n\n以虚怀若谷，入弹丸之地。\n\n如果你驻足之地正值夕阳，那么天际的绿色晚霞也将绵延至此；\n\n我能感知你在某处熠熠生辉\n\n播送那明亮的信号，浮翠流光，\n\n跨越空旷的远方。\n\n某个午后我在梦中与你相遇\n\n然后，望着远处的树冠，\n\n我思索着关上那盏灯。\n[[/div]]",
+  "tags": [
+    "wanderers",
+    "记载",
+    "韵文"
+  ],
+  "author": "xywy",
+  "created_at": "2022-06-11T14:46:15+00:00",
+  "updated_at": "2022-06-11T14:46:34+00:00",
+  "rating": 9,
+  "_site": "scp-wiki-cn",
+  "_fullname": "wanderers:dressed-in-greens"
+}

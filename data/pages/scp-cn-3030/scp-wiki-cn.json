@@ -1,0 +1,20 @@
+{
+  "title": "SCP-CN-3030",
+  "content": "[[include :scp-wiki-cn:credit:start]]\n**名称：**SCP-CN-3030：C小调第五交响曲\n**作者：**[[*user Angoulmuck]]\n**鸣谢：**感谢橘子看文还帮我说了好多建议，被我追着投喂的渚君，感谢EJ提供了最终结局的灵感，还有哲学部分的提议。以及帮我看过稿子的小狗和菌体。感谢密教同人群的各位为奇术学改编曲式分析时给出的专业建议。目前已完成对数学模型的补完，请放心食用.jpg\n[[include :scp-wiki-cn:credit:end]]\n\n[[module ListPages category=\"fragment\" parent=\".\" limit=\"1\" order=\"name\" offset=\"@URL|0\"]]\n%%content%%\n[[/module]]\n\n[[div class=\"footer-wikiwalk-nav\"]]\n[[=]]\n<< [[[SCP-CN-3029]]] | SCP-CN-3030 | [[[SCP-CN-3031]]] >>\n[[/=]]\n[[/div]]",
+  "tags": [
+    "cn3000",
+    "scp",
+    "仪式性",
+    "原创",
+    "声音",
+    "数学性",
+    "机密分级",
+    "音乐性"
+  ],
+  "author": "Angoulmuck",
+  "created_at": "2023-12-30T19:24:09+00:00",
+  "updated_at": "2024-05-28T10:06:37+00:00",
+  "rating": 63,
+  "_site": "scp-wiki-cn",
+  "_fullname": "scp-cn-3030"
+}

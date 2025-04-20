@@ -1,0 +1,14 @@
+{
+  "title": "User / Ryu JPの記録",
+  "content": "**関係各所:** [[[https://twitter.com/RyuJP_info|Twitter]]]\n------\n[[=]]\n+++ SCP\n[[/=]]\n[[module ListPages created_by=\"[Ryu JP]\" separate=\"no\" tags=\"scp\" order=\"created\" category=\"*\" prependLine=\"||~ 番号 ||~ 評価 ||~ コメント ||~ 作成日 ||~ 文字数 ||\"]]\n|| %%title_linked%% || %%rating%% @@(@@+[[#expr (%%rating_votes%%-%%rating%%)/2+%%rating%% ]]/-[[#expr (%%rating_votes%%-%%rating%%)/2 ]]@@)@@  || %%comments%% || %%created_at|%y/%m/%d%% || %%size%% ||\n[[/module]]\n[[=]]\n+++ Tale\n[[/=]]\n[[module ListPages created_by=\"[Ryu JP]\" separate=\"no\" tags=\"tale\" order=\"created\" category=\"*\" prependLine=\"||~ 名称 ||~ 評価 ||~ コメント ||~ 作成日 ||~ 文字数 ||\"]]\n|| %%title_linked%% || %%rating%% || %%comments%% || %%created_at|%y/%m/%d%% || %%size%% ||\n[[/module]]\n[[=]]\n+++ GoIF\n[[/=]]\n[[module ListPages created_by=\"[Ryu JP]\" separate=\"no\" tags=\"goi-format\" order=\"created\" category=\"*\" prependLine=\"||~ 名称 ||~ 評価 ||~ コメント ||~ 作成日 ||~ 文字数 ||\"]]\n|| %%title_linked%% || %%rating%% || %%comments%% || %%created_at|%y/%m/%d%% || %%size%% ||\n[[/module]]\n[[=]]\n+++ 共著\n[[/=]]\n[[module ListPages separate=\"no\" name=\"scp-3363-jp\" order=\"created\" category=\"*\" prependLine=\"||~ 名称 ||~ 評価 ||~ コメント ||~ 作成日 ||~ 文字数 ||\"]]\n|| %%title_linked%% || %%rating%% || %%comments%% || %%created_at|%y/%m/%d%% || %%size%% ||\n[[/module]]\n[[module ListPages separate=\"no\" name=\"goede-film-hub\" order=\"created\" category=\"*\"]]\n|| %%title_linked%% || %%rating%% || %%comments%% || %%created_at|%y/%m/%d%% || %%size%% ||\n[[/module]]\n[[=]]\n+++ アートワーク\n[[/=]]\n[[module ListPages created_by=\"[Ryu JP]\" separate=\"no\" tags=\"アートワーク -scp -tale -goi-format\" order=\"created\" category=\"*\" prependLine=\"||~ 名称 ||~ 評価 ||~ コメント ||~ 作成日 ||~ 文字数 ||\"]]\n|| %%title_linked%% || %%rating%% || %%comments%% || %%created_at|%y/%m/%d%% || %%size%% ||\n[[/module]]\n[[=]]\n+++ 剪定対象-子\n[[/=]]\n[[module ListPages created_by=\"Ryu JP\" separate=\"no\" tags=\"剪定対象-子\" order=\"created\" category=\"*\" prependLine=\"||~ 名称 ||~ 評価 ||~ コメント ||~ 作成日 ||~ 文字数 ||\"]]\n||[[size 80%]][[[%%parent_fullname%%|]]] >>[[/size]] _\n%%title_linked%% || %%rating%% || %%comments%% || %%created_at|%y/%m/%d%% || %%size%% ||\n[[/module]]\n[[=]]\n+++ 別途項目\n[[/=]]\n[[module ListPages created_by=\"[Ryu JP]\" separate=\"no\" tags=\"-scp -tale -goi-format -著者ページ -剪定対象-子 -アートワーク\" order=\"created\" category=\"-deleted\" prependLine=\"||~ 名称||~ 評価 ||~ コメント ||~ 作成日 ||~ 文字数 ||\"]]\n|| %%title_linked%% || %%rating%% || %%comments%% || %%created_at|%y/%m/%d%% || %%size%% ||\n[[/module]]",
+  "tags": [
+    "jp",
+    "著者ページ"
+  ],
+  "author": "Ryu JP",
+  "created_at": "2020-02-29T17:33:08+00:00",
+  "updated_at": "2025-02-14T09:05:31+00:00",
+  "rating": 0,
+  "_site": "scp-jp",
+  "_fullname": "author:ryu-jp"
+}

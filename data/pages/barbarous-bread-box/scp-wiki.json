@@ -1,0 +1,14 @@
+{
+  "title": "Barbarous Bread Box",
+  "content": "[[include :scp-wiki:theme:black-highlighter-theme]]\n[[include :scp-wiki:theme:jakstyle]]\n\n[[module CSS]]\n#page-title {\n    display: none !important;\n[[/module]]\n\n[[module CSS]]\n:root {\n--header-title: \"\";\n--header-subtitle: \"\";\n--lgurl: url('https://scp-sandbox-3.wikidot.com/local--files/cloudy-perspective/Logo_of_the_SCP_Foundation%20%281%29.png');\n}\n#header::before {\n    opacity: 0.90\n[[/module]]\n\n[[=]]\n[[module Rate]]\n\n@@ @@\n\n> +  {{WELCOME TO THE}}\n> + {{BARBAROUS BREAD BOX}}\n@@ @@\n\n+++++ //I think about the thing,//\n+++++ //I write the thing,//\n+++++ //hopefully is good thing.//\n[[/=]]\n\n@@ @@\n\n[[div style=\"border: 1px solid #CDCDD1; margin: 1em; padding: 1em;\"]]\n[[include :scp-wiki:component:mega-cool-author-page-tool |inc-list= --]\n|language=\n|order=\n|perpage=\n|background-image=\n|shadow=\n]]\n[[/div]]\n\n[[include :scp-wiki:component:license-box]]\n[[include :scp-wiki:component:license-box-end]]",
+  "tags": [
+    "_licensebox",
+    "author"
+  ],
+  "author": "Barbarous Bread",
+  "created_at": "2022-03-24T18:05:16+00:00",
+  "updated_at": "2023-10-22T11:49:14+00:00",
+  "rating": 26,
+  "_site": "scp-wiki",
+  "_fullname": "barbarous-bread-box"
+}

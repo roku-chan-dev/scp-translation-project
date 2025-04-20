@@ -1,0 +1,15 @@
+{
+  "title": "SCP项目等级 归档",
+  "content": "[[div class=\"archived-top-box\"]]\n此页的新版本见于[[[object-classes|这里]]]。\n[[/div]]\n\n[[tabview]]\n[[tab Safe]]\n“Safe”编级是给予那些可以被有效和可靠的收容的个体或物品。Safe项目可能需要独特的收容措施，但是这些措施不会频繁的失效，或在从该项目获得更多信息后需要重新修订措施。\n\n某些Safe级项目是人类，人形，和/或有感知的。为了防止人员和SCP的受伤和/或死亡，和这些SCP的交流必须专业并有礼，并要考虑到特殊收容措施。\n\n应注意Safe编级不代表不需要收容措施了。许多Safe级项目在特定的环境下会十分危险。Safe级和其他级的重要区别是这些项目可以在适当的措施下安全的操作。一个Safe级的例子可以是一把枪，一种核武器，或钋。\n\n你可以在[[[http://scp-wiki-cn.wikidot.com/system:page-tags/tag/safe|这里]]]找到完整的Safe条目列表。\n\n[[/tab]]\n\n\n[[tab Euclid]]\n一个项目的行为在无法被正确的预测时将被编级为Euclid，可能是因为该项目是有感知的，其行为超过当前科学知识，也可能只是当前对其理解有限。Euclid级项目在突破收容时不会像Keter级项目那样对人类有极高的危险，不过它们比起Safe级项目来在收容时需要更为关注。\n\n尽管许多Euclid级项目可以用于对基金会和人类有益的方面，由于它们没有被很好地理解，它们在被使用后可能会产生无法预见的意外。一些Euclid级项目在最终被完全理解后会被编级为Safe，不过大部分在经过严格的测试后仍旧十分神秘。\n\n你可以在[[[http://scp-wiki-cn.wikidot.com/system:page-tags/tag/euclid|这里]]]找到完整的Euclid条目列表。\n\n[[/tab]]\n\n[[tab Keter]]\n编级为“Keter”级的项目不但对人类生命，文明，和/或时空表现出浓厚、积极的敌意，而且还有能力在收容失效事件中造成重大破坏。此类项目必须被编目，根据特殊收容措施进行收容，并在可能的情况下，将其摧毁。\n\n仅仅对人类抱有敌意是不会被编级为Keter。一个Keter级项目不但有能力对人类生命和文明造成毁灭性破坏，而且为了阻止它这么做，对其的收容协议必须是庞大、复杂、精确的。研究如何摧毁Keter级项目一直是基金会的优先目标。\n\n在基金会监管下的Keter级项目很少有被基金会人员摧毁，这主要有以下三个原因：一些项目由于刀枪不入的性质或类似情况导致摧毁难以实施，一些项目由于对基金会有重大战术价值而被保留，一些项目若被摧毁可能对人类造成更大的危害，因此被永久收容。\n\n基金会已控制了一些Keter级SCP，不过此类情况十分罕见：例如，[[[SCP-076|SCP-076-2]]]会为基金会工作只是由于它和特工[已编辑]不同寻常的关系，而且它有能力和我们交流，但即使是这点[[[scp-076-2-splash | 也没有持续很久]]]。大部分Keter级项目都是无感知的，而且大部分都是静物。这种状况可能在更多的研究和发现后有所改变。\n\n“Keter”在希伯来语里意思是“皇冠”，是犹太神秘主义（Jewish Kabbalah）里的顶级源质（Sephirot）。\n\n你可以在[[[http://scp-wiki-cn.wikidot.com/system:page-tags/tag/keter|这里]]]找到完整的Keter条目列表。\n\n[[/tab]]\n\n[[tab Anomalous/Neutralized/Decommissioned]]\n\n**Anomalous：**任何正在被基金会评估是否有进一步研究和进行特殊收容的价值的项目。某些此类项目被编目在[[[Log of Anomalous Items|异常物品记录]]]中。注意：没有任何有编号的SCP被编级为Anomalous，不过一些SCP项目在被给予SCP编号前//曾//被编目为Anomalous。\n\n**Neutralized：**任何被摧毁，或失去了其特异性质、额外维度、或不良效应的项目。在此等级下的项目应该有一个记录该项目之前资料的备忘。你可以在[[[http://scp-wiki-cn.wikidot.com/system:page-tags/tag/无效化|这里]]]找到完整的Neutralized条目列表。\n\n**Decommissioned：**用于那些不但被基金会摧毁，而且被基金会否认存在的项目。你可以在[[[archived:decommissioned-scps|被废除的SCP项目]]]页找到被被废除的SCP列表。\n\n[[/tab]]\n\n[[/tabview]]",
+  "tags": [
+    "指导",
+    "被归档",
+    "需更新"
+  ],
+  "author": "la kanro",
+  "created_at": "2018-08-22T14:07:33+00:00",
+  "updated_at": "2021-01-03T15:42:06+00:00",
+  "rating": 1,
+  "_site": "scp-wiki-cn",
+  "_fullname": "archived:scp-object-classes"
+}

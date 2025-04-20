@@ -1,0 +1,16 @@
+{
+  "title": "SCP-PL-2021-J",
+  "content": "[[div class=\"danke red\"]]\n| 欢迎使用 SCIPNET 终端\n| 请输入安保密码\n[[/div]]\n\n\n> | **账号：**O5-10\n> | **密码**\n> 毕高斯即使缺了些调料也是美味佳肴，\n> 因为这是用上好的蔬菜着意烹调。\n> 做好它要用切碎的酸酸的大白菜，\n> 这菜，俗话说，会自己钻进你的嘴里来；\n> 放进锅子里，用新鲜的菜叶裹住就行，\n> 要把精选的上等肉切成方方的肉丁；\n> 用大火炖，把滋补的肉汁完全炖出，\n> 把那些包卷好的酸菜炖得黄澄澄，\n> 待炖出的肉汁从锅里溅到锅边上\n> 空气里便会充满它那诱人的香味。\n\n[[div class=\"danke red\"]]\n| 身份已认证\n| 欢迎，O5-10\n| 请选择您所请求的文件\n[[/div]]\n\n> **SCP-PL-2021-J** 代号：“世界的希望” \n\n[[div class=\"danke red\"]]\n| 所请求的文件需要5/001级许可，请输入许可密码。\n[[/div]]\n\n> //3254号盒盒底还剩什么？//\n\n[[div class=\"danke red\"]]\n| 登入许可密码不正确，请输入正确的密码\n[[/div]]\n\n>  //当我们丢了56778一切的时候还剩下什么//\n\n[[div class=\"danke red\"]]\n| 登入许可密码不正确，请输入正确的密码\n[[/div]]\n\n>  //太傻了45533居然2579没有3333希望//\n\n[[div class=\"danke red\"]]\n| 登入许可密码不正确，请输入正确的密码\n[[/div]]\n\n>  淦\n\n[[div class=\"danke red\"]]\n| 输入的许可密码不正确。下一次尝试访问文件如再次错误，将激活模因抹杀程序。请输入正确的密码\n[[/div]]\n\n>  //我为此感到不适愿原力与你同在//\n\n[[div class=\"danke red\"]]\n|  密码正确。正在打开文件 SCP-PL-2021-J  ，代号：“我们世界的希望”\n[[/div]]\n\n[[=]]\n[[collapsible show=\"点此打开文件 SCP-PL-2021-J \" hide=\"点此关闭\"]]\n[[/=]]\n@@ @@\n@@ @@\n@@ @@\n@@ @@\n@@ @@\n@@ @@\n@@ @@\n@@ @@\n@@ @@\n@@ @@\n@@ @@\n@@ @@\n@@ @@\n@@ @@\n@@ @@\n@@ @@\n@@ @@\n@@ @@\n@@ @@\n@@ @@\n@@ @@\n@@ @@\n@@ @@\n@@ @@\n\n[[/collapsible]] \n\n[[include :scp-wiki-cn:theme:black-highlighter-theme]]\n[[include :scp-wiki-cn:theme:ouroborous-theme]]\n\n[[module CSS]]\n.danke{\npadding: 5px 5px 5px 15px;\nmargin: auto;\nmargin-top:1em;\nmargin-bottom:1em;\nwidth: auto;\nfont-family: monospace;\nfont-size: 1em;\n}\n\n.red{\nbackground-color:#220000;\nborder: 3px solid #AA5555;\ncolor: #dd1f1b;\n}\n\n.blue{\nbackground-color:#000022;\nborder: 3px solid #5555AA;\ncolor: #0076fd;\n}\n\n.hover {\n    background-color: rgb(var(--dark-accent));\n    padding: 0 1px;\n}\n.hover:hover {\n   \n}\n\n.hover span {    display: none;}\n.hover:hover span {\n    position: absolute;\n    display: inline;\n    margin: 0px 0px;\n    height: auto;\n    width: auto;\n    background: #fff;\n    border: 2px solid rgb(var(--bright-accent));\n    color: rgb(var(--bright-accent));;\n    padding: 1em;\n}\n.hover:hover span span {\n    position: relative;\n    margin: auto;\n    height: auto;\n    width: auto;\n    border: none;\n    padding: 0;\n}\n\n[[/module]]",
+  "tags": [
+    "pl",
+    "scp",
+    "搞笑",
+    "机密分级"
+  ],
+  "author": "Etinjat",
+  "created_at": "2021-01-22T11:54:26+00:00",
+  "updated_at": "2021-01-22T11:58:42+00:00",
+  "rating": 3,
+  "_site": "scp-wiki-cn",
+  "_fullname": "scp-pl-2021-j"
+}

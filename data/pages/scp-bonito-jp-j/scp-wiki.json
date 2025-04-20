@@ -1,0 +1,22 @@
+{
+  "title": "SCP-Shrimp-JP-J",
+  "content": "[[include :scp-jp:component:jstyles]]\n\n[[>]]\n[[module Rate]]\n[[/>]]\n\n\n[[module css]]\n@import url('http://scp-jp.wdfiles.com/local--code/component%3Aaf2018theme');\n[[/module]]\n\n\n**Item #:** SCP-Shrimp-JP-J\n\n**Object Class:** Sake\n\n**Special Fishery Procedures:** Currently, the sea area inhabited by SCP-Shrimp-JP-J instances are designated as an SFZ[[footnote]]Special Foundation Zone[[/footnote]] under the agreement. Two Foundation battleships and Patrol Ship //Scallp// equipped with a Scrabton Seality Anchor are obligated to be placed within the range. In case of SCP-Shrimp-JP-J instances being captured by non-Foundation personnel, SCPF //Devilfish// and //Kraken// give out an alert to the subject in concern, and artillery fires will be allowed against any non-compliant subject. Subjects compliant at this point are to be given amnestics and then released. It is permitted to fire and destroy any non-compliant subjects at this point.\n\nWhen SCP-Shrimp-JP-J's seality-bending effects are observed, a Scrabton Seality Anchor must be sunk within the influence range to stabilize the Urchume[[footnote]]Translator's annotation: Original word is //unyūmu//, which is a portmanteau word of //uni// (urchin) and //hyūmu// (Hume).[[/footnote]] value in the adjacent area.\n\nIn addition, SCP-Shrimp-JP-J captured by Foundation staff is to be used as ingredients at the Foundation's cafeteria.\n\n**Description:** SCP-Shrimp-JP-J is a designation for red king crabs[[footnote]]Translator's annotation:\nRed king crabs belong to hermit crabs.[[/footnote]] (//Paralithodes camtschaticus//) which has a kind of seality-bending ability. Unlike ordinary red king crabs, SCP-Shrimp-JP-J instances live around the Mariana Islands including the Mariana Trench, and as a physical characteristic, their claws are more than twice as long as normal ones. However, note that these anomalies have been confirmed to exist in part of the Pacific Ocean and also part of the Sea of ​​Japan.\n\nDuring the spawning period, female instances of SCP-Shrimp-JP-J excavate the ground using their claws and stop at a depth of about 3 meters. After that, the instances start seality-bending event above the circle of radius about 50 centimeters centering them. With this event, SCP-Shrimp-JP-J causes luminescence phenomenon. It is speculated that  this phenomenon may be an action to lure other creatures.\n\nIn this event, the Urchume value of the creatures within the range rises increasingly, and all creatures within or entering the range are transformed to male instances of SCP-Shrimp-JP-J. However, this modification is a reversible, and stabilizing the Urchume value of the creatures again by a Scrabton Seality Anchor restores them to the original state.\n\nOf note, SCP-Shrimp-JP-J is significantly palatable, and investigation reveals that punches increase umami components including glutamic acid in meat up to 3 times. Since this is effective only by batting with bare hands, it is permitted to request an [[[http://scp-int.wikidot.com/scp-710-jp|SCP-710-JP-J]]] grade holder or an [http://www.scp-wiki.net/system:page-tags/tag/shark-punching-center#pages SPC staff member] at the dining hall when SCP-Shrimp-JP-J is offered as a meal.\n\n> ……So, what the hell are they?\n\n> Marlins.\n\n\n[[div class=\"pseudo-tags\"]]\n* horse-mackerel\n* sole\n* flounder\n* bream\n* fluke-fin\n* dolphin\n[[/div]]",
+  "tags": [
+    "_jp",
+    "alive",
+    "antimemetic",
+    "aquatic",
+    "biohazard",
+    "esoteric-class",
+    "infohazard",
+    "international",
+    "joke",
+    "scp"
+  ],
+  "author": "Laclale",
+  "created_at": "2019-03-04T22:41:50+00:00",
+  "updated_at": "2024-10-22T21:49:50+00:00",
+  "rating": 36,
+  "_site": "scp-wiki",
+  "_fullname": "scp-bonito-jp-j"
+}

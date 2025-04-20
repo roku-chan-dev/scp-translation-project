@@ -1,0 +1,17 @@
+{
+  "title": "SCP-6670 fanart",
+  "content": "[[include :scp-wiki:theme:black-highlighter-theme]]\n[[include :scp-wiki:theme:extra-black-highlighter-theme]]\n[[include :scp-wiki:component:toggle-sidebar-bhl]]\n\n[[>]]\n[[module Rate]]\n[[/>]]\n\n[[div style=\"border:solid 5px #800000; background: #0A0A0A; padding:5px; margin-bottom: 10px;\"]]\n[[=]]\n++++ ⚠️__Content Warning__⚠️\n\nThe following artwork includes depiction of body horror.\n\n[[/=]]\n[[/div]]\n\n------\n\n[[include :scp-wiki:component:image-features-source |blur-reveal=--]\n|blur-amount=1.5\n|speed=500\n|float=false\n|align=left\n|width=100%\n|url=https://i.imgur.com/sgSseku.png\n|add-caption=true\n|caption=[https://scp-wiki.wikidot.com/scp-6670 \"Mama?\"]\n]]\n\n[https://twitter.com/kikunai14/status/1633105221432819724 Tweet]\n\n[[include :scp-wiki:component:license-box]]\n=====\n> **Filename:** sgSseku.png\n> **Author:** [[*user Kikunai]]\n> **License:** CC BY-SA 3.0\n> **Source Link:** [https://i.imgur.com/sgSseku.png Imgur]\n=====\n[[include :scp-wiki:component:license-box-end]]",
+  "tags": [
+    "_cc",
+    "_licensebox",
+    "artwork",
+    "painted",
+    "scp-art"
+  ],
+  "author": "Kikunai",
+  "created_at": "2023-03-07T17:37:45+00:00",
+  "updated_at": "2024-03-28T11:27:23+00:00",
+  "rating": 43,
+  "_site": "scp-wiki",
+  "_fullname": "art:scp-6670-fanart"
+}

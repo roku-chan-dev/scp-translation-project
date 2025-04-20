@@ -1,0 +1,20 @@
+{
+  "title": "SCP-7803",
+  "content": "[[module CSS]]\n.email-example .collapsible-block-folded a.collapsible-block-link {\n    animation: blink 0.8s ease-in-out infinite alternate;\n}\n@keyframes blink {\n    0% { color: transparent; }\n    50%, 100% { color: #b01; }\n}\n.email {border: solid 2px #000000; width: 88%; padding: 1px 15px; margin: 10px; box-shadow: 0 1px 3px rgba(0,0,0,.5)}\n.email-example a.collapsible-block-link {font-weight: bold;}\n.tofrom {margin-left: 10px; margin-top: 5px; padding: 1px 15px; border-left: solid 3px maroon}\n[[/module]]\n\n[[module css]]\n.page {\n    display: block;\n    overflow: hidden;\n    font-family: \"Monotype Corsiva\", \"Bradley Hand ITC\", sans-serif;\n    font-style: normal;\n    background-attachment: scroll;\n    background-clip: border-box;\n    background-color: transparent;\n    background-image: linear-gradient(to top ,rgb(202, 219, 228) 0%, rgb(231, 233, 220) 8%);\n    background-origin: padding-box;\n    background-position: 0px 8px;\n    background-repeat: repeat;\n    background-size: 100% 20px;\n    border: 1px solid #CCC;\n    border-radius: 10px;\n    padding: 10px 10px;\n    margin-bottom: 10px;\n    box-shadow: 0px 1px 3px rgba(0, 0, 0, 0.2)\n}\n.page p,\n.page ul {\n    line-height: 20px;\n    margin: 0;\n}\n[[/module]]\n\n\n[[module css]]\na#history-button, a#files-button {\ndisplay: none;\n}\n[[/module]]\n\n[[include :scp-wiki-cn:component:author-label-source start=--\n|name=Rab333]]\n孩子们，别碰毒品。\n[https://scp-wiki.wikidot.com/rab333-s-contained-anomalies 我的更多作品在这！]\n[[include :scp-wiki:component:author-label-source end=--]]\n\n\n[[include :scp-wiki-cn:component:anomaly-class-bar-source\n|lang=cn\n|item-number=7803\n|clearance=2\n|container-class=euclid\n|secondary-class=none\n|disruption-class=dark\n|risk-class=notice\n]]\n\n[[include :scp-wiki-cn:theme:black-highlighter-theme]]\n\n-----\n\n[[include component:image-block name= http://scp-sandbox-3.wikidot.com/local--files/artexchangemushroom/Guy|caption=SCP-7803-1]]\n\n\n**特殊收容措施：** 因SCP-7803-1已死亡，对其不需要采取收容措施。SCP-7803的样本目前存放于Site-23的生物学基础收容间中。正在对伊利诺伊州芝加哥市区域展开综合监控工作，以确认有无未发现的SCP-7803个体。\n\n**描述：** SCP-7803是一种异常的//Panaeolus cinctulus//[[footnote]]环带斑褶菇[[/footnote]]蘑菇，仅发现于伊利诺伊州芝加哥市，后被SCP-7803-1彻底移除，转移到其私人培育之下。在食用SCP-7803后，该人员会体验到Connor Baird的整个人生，直至1991年世界棒球锦标赛[[footnote]]1991年世界棒球锦标赛是美国职棒大联盟（MLB）1991年赛季的冠军锦标赛。[[/footnote]]第7场结束为止。 SCP-7803的致幻效应每一次都完全相同，且近乎与SCP-7803-1的人生完美相符[[footnote]]参见发现记录7803.1。[[/footnote]]，只有日常经历无法被精准核验。SCP-7803的前述效应会持续几个小时，但受影响人员在经历过程中会便有严重的时间感知扭曲，使其与 Baird直至第七场比赛的整个人生过程相匹配。\n\nSCP-7803-1是美国职业棒球选手Connor Baird。\n\n**发现记录7803.1：**\n\n在SCP-7803-1死后，在其家中各个不同区域发现藏有大量SCP-7803。公共记录将SCP-7803-1的死因归为出血性中风，但在尸检时从SCP-7803-1的体内发现了约49克的SCP-7803。\n\n在测试SCP-7803期间，发现所有幻觉历程的末尾处都是SCP-7803-1在第七场比赛结束后向明尼苏达双城队发表演讲。在1991年世锦赛的决赛期间并未记录过或发生过这一场演讲。在明尼苏达双城队队员的报告中，提及SCP-7803-1在比赛后的很长一段时间内会不受控制的哭泣。\n\n尚不清楚SCP-7803的致幻景象是否具有预言性，亦或只是被SCP-7803-1详细遵守到了最后。若后者为真，理论认为它已在SCP-7803的效应下经历过至少数千年时间。\n\n[[collapsible hide=\"更新04/03/2013\" show=\"更新04/03/2013\"]]\n[[<]]\n在一处用于藏匿SCP-7803的隔间中发现了一张字条，理论认为是在SCP-7803-1死前不久写下。信息内容如下：\n\n> 我再不知道要做什么了。因为它们不再指引我了。我已迷失。再给我一天的知识吧，就一天，就一天，求求你们。我很抱歉。\n[[/<]]\n[[/collapsible]]\n\n@@ @@\n@@ @@\n@@ @@\n\n\n\n[[=]]\n[[collapsible hide=\"License\" show=\"License\"]]\n=====\n[[<]]\n\n> **Filename:** DSC_0406_Orlando_Cabrera.jpg\n> **Name:** Guy\n> **Author:** Joe Bielawa on Flickr\n> **License:**  CC BY 2.0\n> **Source Link:** https://commons.wikimedia.org/wiki/File:DSC_0406_Orlando_Cabrera.jpg\n\n[[/<]]\n=====\n[[/collapsible]]\n[[/=]]",
+  "tags": [
+    "euclid",
+    "scp",
+    "交换艺术",
+    "人形生物",
+    "味觉影响",
+    "幻觉",
+    "智能",
+    "真菌"
+  ],
+  "author": "ashausesall",
+  "created_at": "2024-01-11T12:12:11+00:00",
+  "updated_at": "2024-01-14T06:12:46+00:00",
+  "rating": -2,
+  "_site": "scp-wiki-cn",
+  "_fullname": "scp-7803"
+}

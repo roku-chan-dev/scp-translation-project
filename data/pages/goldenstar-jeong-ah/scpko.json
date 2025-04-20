@@ -1,0 +1,15 @@
+{
+  "title": "골든스타를 좋아하세요",
+  "content": "[[include :scpko:theme:simple-yonder]]\n[[include :scpko:info:start]]\n**by [[*user poi_damgi]]**\n[[include :scpko:info:end]]\n\n\n\n[[module CSS]]\n/* Hide the original page title */\n#page-title {\n  display: none;\n}\n[[/module]]\n\n[[module CSS]]\n@import url('https://scpko.wdfiles.com/local--files/korean-font/NotoSerifKR.css');\n[[/module]]\n\n\n[[=]]\n\n[[span style=\"font-family: 'NotoSerifKR' ;font-size: 58px;\"]]골든스타를\n좋아하세요?[[/span]]\n----\n[[/=]]\n\n> 1999년 여름.\n> \n> 주점 골든스타가 폐쇄 및 철거되다.\n\n> 변칙예술의 대중 노출은 흔히 마술, 주점, 기타 다양한 곳에서 한없이 가까운 영역에서 벌어졌다. 그러므로 실제 공권력을 경계하는 공간일수록 변칙물품이나 변칙예술가를 이용할 가능성은 높아졌다. 그러나 정상세계와 가깝다는 것은 이러한 초상요소가 필연적으로 노동법에 위반되는 착취, 위화감 강화, 배신, 그리고 훨씬 심각한 재단과의 대치 같은 다양한 문제를 유발했다.\n> \n> ,,— 성창준, 변칙예술과 정상세계 자본주의 - 20세기 후반 대한민국 中,,\n\n> 세상을 향해서 여행을 떠나야 해.\n[[>]]\n[[Size 110%]][[[goldenstar-jeong-ah 01|꽃이 있다면 금요일에 피겠다]]]\n\n[[[goldenstar-jeong-ah 02|반주기와 성명]]]\n\n[[[goldenstar-jeong-ah 03|]]]\n\n[[[goldenstar-jeong-ah 04|굿바이 열등감]]]\n\n[[[goldenstar-jeong-ah 05|불나방 죽이기]]]\n\n[[[goldenstar-jeong-ah 06|황금별이 떨어질거야]]]\n\n[[[goldenstar-jeong-ah 07|나성에 가면]]][[/size]]\n[[/>]]\n\n> 그렇게 됐다.",
+  "tags": [
+    "_이야기-허브",
+    "ko",
+    "허브"
+  ],
+  "author": "POI_Damgi",
+  "created_at": "2024-07-26T12:12:21+00:00",
+  "updated_at": "2024-07-28T11:33:19+00:00",
+  "rating": 8,
+  "_site": "scpko",
+  "_fullname": "goldenstar-jeong-ah"
+}

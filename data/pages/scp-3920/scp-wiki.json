@@ -1,0 +1,27 @@
+{
+  "title": "SCP-3920",
+  "content": "[[include :scp-wiki:theme:scp-trans-pride |trans-pride-logo= --] |trans-pride-footer= --]]]\n\n[[>]]\n[[module rate]]\n[[/>]]\n\n[[include :scp-wiki:component:anomaly-class-bar-source\n|item-number= 3920\n|clearance= 3\n|container-class= euclid\n|secondary-class= none\n|disruption-class= vlam\n|risk-class= caution\n]]\n\n------\n\n[[include component:image-block\n    name= AboveClouds.jpg|\n    caption=An SCP-3920 induced lightning strike, as viewed by [http://www.scp-wiki.net/scp-3730 Observational Plane San-14].|\n]]\n\n**Special Containment Procedures:** Subjects that experience or witness SCP-3920 are to be amnesticized and provided appropriate replacement memories. Cover stories regarding non-anomalous targets will be disseminated after SCP-3920 occurs. All artillery shells produced by SCP-3920 will be transferred to the nearest Armament Storage Facility or destroyed.\n\n**Description:** SCP-3920 is a phenomenon that generates a variable number of BL 9.2-inch howitzers (SCP-3920-A instances) in the Canadian Rockies. The following requirements must be met to initiate SCP-3920:\n* A person (hereafter referred to as the \"subject\") must be over 3km from the nearest town or city\n* One or more persons or entities (hereafter referred to as \"targets\") with the intent to harm the subject must be within a .5km vicinity of the subject\n* The local time must be between 10:00 p.m. and 2:00 a.m.\nThe following can increase the likelihood of SCP-3920's initiation:\n* The subject is a Canadian citizen\n* The subject is or was a member of the Canadian Armed Forces\n* Multiple targets are present\n* A cumulonimbus cloud is present near the subject\nSCP-3920 begins with lightning strikes occurring in the area around the subject, corresponding to the number of targets. An SCP-3920-A instance instantaneously manifests at the site of each strike. Each howitzer is operated by several luminous, translucent humanoid entities wearing Canadian World War I army uniforms (SCP-3920-B instances). The SCP-3920-B operate the howitzers and will fire shells at the targets with high precision until a shell has collided with each target, invariably resulting in their deaths. Detonation occurs if the subject is outside of each shell's blast radius. Non-detonated shells have a variation of the following message engraved on their surface:\n\n> Greetings from 1st Brigade C.F.A.![[footnote]]The 1st Brigade, C.F.A., an artillery unit used in the 1st Canadian Infantry Division during World War I. Several soldiers who served in the unit were reported missing after going on trips to areas around the Rocky Mountains.[[/footnote]]\n\nWhen all targets are dead, lightning bolts will manifest and hit each SCP-3920-A instance, with the anomalies vanishing after.\n\nAlthough SCP-3920-B instances primarily focus on the operation of SCP-3920-A, limited interactions may occur with subjects. These interactions include salutes to the subject if they are current or former Canadian military personnel, waves, and thumbs up gestures. On one occasion a child subject was handed an Individual Meal Pack[[footnote]]A field ration used by the Canadian Armed Forces, introduced in 2005. How the rations were acquired is unknown.[[/footnote]] by an instance.\n\n**Addendum:** On 18-August-2018, Agent Flynn was dispatched on a mission to subdue PoI-1258 after the subject stole an anomalous object. At 1:40 a.m. the following day, Agent Flynn entered a confrontation with the subject at the edge of Lake O'Hara. PoI-1258 consumed Flynn's weaponry and was preparing to strangulate him when SCP-3920 was initiated. Two SCP-3920-A instances manifested in the vicinity of both subjects, each firing a shell that hit the other instance instead of the subjects. PoI-1258 swam into the lake at this point, presumably using the object to become camouflaged with their surroundings.\n\nThe SCP-3920-B instances that had operated both howitzers convened near the location of Agent Flynn, appearing to enter a heated discussion while displaying signs of confusion. One instance then handed Flynn a slip of paper with the following text on it.\n\n> Bit of a screwup [sic] here\n\nAll instances subsequently demanifested after a single lightning strike.\n\n[[footnoteblock]]\n\n[[div class=\"footer-wikiwalk-nav\"]]\n[[=]]\n<< [[[SCP-3919]]] | SCP-3920 | [[[SCP-3921]]] >>\n[[/=]]\n[[/div]]",
+  "tags": [
+    "_cc",
+    "_dark-and-stormy",
+    "ectoentropic",
+    "euclid",
+    "humanoid",
+    "inscription",
+    "jam-con2018",
+    "light",
+    "meteorological",
+    "military",
+    "nocturnal",
+    "sapient",
+    "scp",
+    "uncontained",
+    "weapon"
+  ],
+  "author": "NatVoltaic",
+  "created_at": "2018-02-19T23:17:27+00:00",
+  "updated_at": "2022-09-14T20:24:06+00:00",
+  "rating": 98,
+  "_site": "scp-wiki",
+  "_fullname": "scp-3920"
+}

@@ -1,0 +1,16 @@
+{
+  "title": "至终之点，无杂真法",
+  "content": "[[include :etinjat:css:float-memu-source]]\n\n[[div class=\"float-sticky\"]]\n[[include :etinjat:css:float-memu-start\n|rate-bar:none\n]]\n[[module Rate]]\n[[include :etinjat:css:float-memu-end]]\n[[/div]]\n\n[[div class=\"rate-mob\"]]\n[[>]]\n[[module Rate]]\n[[/>]]\n[[/div]]\n\n[[div style=\"font-size:150%;text-align:center;\"]]\n++++ 新宁妙派经文\n\n+++++ 灵修书：合于一体\n[[/div]]\n\n[[div class=\"poem-xxx\"]]\n\n\n# 原质之心熊熊燃烧\n# 太一之上翻涌波涛\n# {{首行者}}演运世真法\n# 吹拂起无质的玄妙 [[span class=\"a-brk\"]]@@ @@[[/span]]\n# {{清合之风}}合有质归一\n# 真神众道共同定下正法\n# 为世界送去圆满的共体[[span class=\"a-brk\"]]@@ @@[[/span]] \n# 不知历经多久，神性的最终出现\n# 浮于水面\n# 神说，要有光，就有了光\n# 神说，要有暗，就有了暗\n# 光暗本来一体，神就将他们合二为一\n# 于是有了太极，有了时间\n# 第一天，神称光暗昼夜，有善恶，是分化二元\n# 第二天，神便阴阳合一，创造整个世界\n# 这世界的地上有种生物叫人\n# 他们建立国家，各自有语言\n# 他们在某一天，突然渴望最终的知识\n# 于是他们共同感受神的本身 [[span class=\"a-brk\"]]@@ @@[[/span]]\n# 神看见了，就下凡来\n# 人们就跪地表示尊敬\n# 神要唤来掌握对错的天使\n# 于是{{阿罗亚}}持一卷书来到\n# 他展开书卷，给予了神\n# 神就说话：“我制定五恶”\n# 五恶是淫，贪，恨，奸，怒\n# 神又定下诫律\n# 第一，只要是信者，不能有二心\n# 第二，不要害怕知识的外表\n# 第三，除了神，你不能有别的信仰\n# 第四，你不能为省事而用歪门邪道\n# 第五，你不能有任何不法之行\n# 第六，不能歧视他人\n# 第七，要在得道后造福他人 [[span class=\"a-brk\"]]@@ @@[[/span]]\n# 在宣告日的七年后，神降下化身\n# 包括了完美与缺憾，万物同一体\n# 取名叫{{逻格斯}}\n# 神告诉祂，自己是叙事首因\n# 祂应当按照既定的命运\n# 制定一切有序法则 [[span class=\"a-brk\"]]@@ @@[[/span]]\n# 于是在我们伟大的新时代\n# 逻格斯化为机神，叫{{麦卡恩}}\n# 祂定下所有秩序，教会人们理性\n# 但太渊中爬出的对立者却使二者战斗\n# 于是正法与非法之间便模糊不清\n# 伟大的机神，祂选择了破碎\n# 构成巨大银网将敌人封印\n# 神的圣人基西拉，请您带领我们\n# 重新调和血肉与机械的正法\n# 使二者重回一体，让正法完整\n# 真正的圆满新世界就会到来 [[span class=\"a-brk\"]]@@ @@[[/span]]\n# {{万物皆要归一}}\n# {{一却又始于零}}\n# {{零又以无为本}}\n# {{何为无，无即是神之圣主}}\n# {{圣主即是正法}}\n# {{即是完美，也同是整个世界}}\n# {{圣主不亡，圣主永恒}}\n# {{圣主万相，亦是万形}}\n# {{即为甘露，亦为毒液}}\n# {{圣主之下，真妄同存}}\n# {{我们将永远追随圣主}}\n# {{我们绝不会各极一端}}\n# {{我们会永远谨从真理}}\n# {{我们永不为登神嗜血}}\n# {{我们绝不会歧视他人}}\n# {{我们绝对无混浊杂念}}\n# {{我们永远与圣主同行}}\n# {{我们永远为正法而战}}\n# {{我们与众生永远同在}}\n\n[[/div]]\n\n[[include :scp-wiki-cn:theme:black-highlighter-theme]]\n[[include :scp-wiki-cn:theme:broken-world\n|my-title=true\n|header-title='破碎的正法'\n|header-subtitle='众道必将完整'\n]]\n\n\n[[module css]]\ntt{\n   font-family:var(--title-font);\n   font-weight: 600;\n   font-size:  100%\n}\n\n\n\n.a-brk{\ndisplay:block\n}\n\n.poem-xxx{\nfont-size:150%;\n   margin: 0  auto;\n   width: auto;\n   left: auto;\n   display: flex;\n   flex-wrap: nowrap;\n   word-break:  keep-all\n}\n\n.poem-xxx:before, .poem-xxx:after{\nwidth:50%;\n   content: ' ';   \n   flex-shrink: 5;\n}\n\n.poem-xxx  li::marker {\n   color: #999 !important;\n        font-size:90%;\n}\n\n.poem-xxx ol > li::before {\n    display: none !important;\n}\n\n.poem-xxx  ol > li{\n    list-style-type: decimal-leading-zero;\n       padding-left: 0em !important;\n}\n\n.poem-xxx  li::marker {\n   color: #999 !important;\n        font-size:90%;\n}\n\n.poem-xxx ol > li::before {\n    display: none !important;\n}\n\n.poem-xxx  ol > li{\n    list-style-type: decimal-leading-zero;\n       padding-left: 0em !important;\n}\n\n@media (max-width: 479px) {    \n\n.poem-xxx  li::marker {\n   color: #999 !important;\n}\n\n.poem-xxx{\nmargin-left:0%\n}\n}\n\n\n[[/module]]",
+  "tags": [
+    "_破碎之神教会",
+    "goi格式",
+    "原创",
+    "破碎之神教会"
+  ],
+  "author": "AC_zayin",
+  "created_at": "2023-04-29T08:55:26+00:00",
+  "updated_at": "2023-05-05T14:09:21+00:00",
+  "rating": 8,
+  "_site": "scp-wiki-cn",
+  "_fullname": "the-anlan"
+}

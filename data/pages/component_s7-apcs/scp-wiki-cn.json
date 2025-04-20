@@ -1,0 +1,13 @@
+{
+  "title": "Site-7异常现象分类系统",
+  "content": "[[include :scp-wiki-cn:component:s7-apcs-base\nscp-number = {$scp-number} |\nscp-class = {$scp-class} |\nnon-standart-class = {$non-standart-class} |\nnon-standart-color = {$non-standart-color} | non-standart-color = #330000 |\nlineFirst = {$lineFirst} | lineFirst = none | \nlineSecond = {$lineSecond} | lineSecond = none |\nlineThird = {$lineThird} | lineThird = none |\ndanger-select-1 = {$danger-select-1} | danger-select-1 = none |\ndanger-select-2 = {$danger-select-2} | danger-select-2 = none |\ndanger-select-3 = {$danger-select-3} | danger-select-3 = none |\ndanger-select-4 = {$danger-select-4} | danger-select-4 = none |\ndanger-select-5 = {$danger-select-5} | danger-select-5 = none |\ndanger-select-6 = {$danger-select-6} | danger-select-6 = none |\nactivation = {$activation} |\nthreat-ind = {$threat-ind} |\ncontaiment-risk = {$contaiment-risk} |\nk-class = {$k-class}\n]]",
+  "tags": [
+    "组件"
+  ],
+  "author": "Sensenca12",
+  "created_at": "2022-04-16T07:48:17+00:00",
+  "updated_at": "2022-09-15T07:20:34+00:00",
+  "rating": 2,
+  "_site": "scp-wiki-cn",
+  "_fullname": "component:s7-apcs"
+}

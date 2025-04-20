@@ -1,0 +1,15 @@
+{
+  "title": "評価の高い記事(今月)-ARC",
+  "content": "ここでは、今月作成された記事の内から評価の高いものを見つけることができます。サイトで新しく出来たコンテンツを追いかけるのに役立ちます。\n\n**2018年02月**\n[[module ListPages rating=\">5\" order=\"rating desc\" separate=\"false\" limit=\"100\" category=\"_default\" perPage=\"25\" date=\"2018.02\"]]\n%%title_linked%% (評価: %%rating%%, コメント: %%comments%%)\n[[/module]]\n\n+ 過去のリスト\n以下のページから過去のリストを月ごとに参照することができます。読み込みに時間がかかる場合があるので注意してください。\n\n\n[[[archived:Top Rated Pages By Month 2018|評価の高い記事2018]]]\n[[[archived:Top Rated Pages By Month 2017|評価の高い記事2017]]]\n[[[archived:Top Rated Pages By Month 2016|評価の高い記事2016]]]\n[[[archived:Top Rated Pages By Month 2015|評価の高い記事2015]]]\n[[[archived:Top Rated Pages By Month 2014|評価の高い記事2014]]]\n[[[archived:Top Rated Pages By Month 2013|評価の高い記事2013]]]",
+  "tags": [
+    "jp",
+    "アーカイブ済み",
+    "管理"
+  ],
+  "author": "m0ch12uk1",
+  "created_at": "2014-05-18T23:53:18+00:00",
+  "updated_at": "2021-10-08T10:31:28+00:00",
+  "rating": 9,
+  "_site": "scp-jp",
+  "_fullname": "archived:top-rated-pages-this-month"
+}

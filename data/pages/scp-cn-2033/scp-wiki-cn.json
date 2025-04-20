@@ -1,0 +1,21 @@
+{
+  "title": "SCP-CN-2033",
+  "content": "[[>]]\n[[module Rate]]\n[[/>]]\n\n[[module ListPages category=\"fragment\" parent=\".\" limit=\"1\" order=\"created_at\" offset=\"@URL|0\"]]\n%%content%%\n[[/module]]\n\n[!-- http://scp-wiki-cn.wikidot.com//fragment:forjd-and-scythr-1 --]\n[!-- http://scp-wiki-cn.wikidot.com//fragment:forjd-and-scythr-2 --]\n[!-- http://scp-wiki-cn.wikidot.com//fragment:forjd-and-scythr-3 --]\n[!-- http://scp-wiki-cn.wikidot.com//fragment:forjd-and-scythr-4 --]\n\n[[footnoteblock]]\n\n[[div class=\"footer-wikiwalk-nav\"]]\n[[=]]\n<< [[[SCP-CN-2032]]] | SCP-CN-2033 | [[[SCP-CN-2034]]] >>\n[[/=]]\n[[/div]]",
+  "tags": [
+    "cn2000",
+    "keter",
+    "meta",
+    "scp",
+    "伦理委员会",
+    "原创",
+    "合著",
+    "建筑",
+    "未收容"
+  ],
+  "author": "Scythr",
+  "created_at": "2021-02-19T16:25:58+00:00",
+  "updated_at": "2021-05-01T01:53:03+00:00",
+  "rating": 48,
+  "_site": "scp-wiki-cn",
+  "_fullname": "scp-cn-2033"
+}

@@ -1,0 +1,17 @@
+{
+  "title": "Ignota's SCP-6326 Pixel Fanart",
+  "content": "[[include component:ratio-bar base=-- |ex=--]]\n[[module CSS]]\n.fadeout{\nbackground: #8AFF7B;\nbackground: linear-gradient(to right, #8AFF7B 0%, #00000000 100%);\n-webkit-background-clip: text;\n-webkit-text-fill-color: transparent;\n}\n[[/module]]\n[[>]]\n[[include :scp-wiki:info:start]]\n**Art Mycotherapy**\n[[include component:ratio-bar pie=--]]\n[[include :scp-wiki:info:end]]\n[[/>]]\n[[module ListPages created_by=\"IronShears\" category=\"fragment\" name=\"fragment:art-mycotherapy%\" order=\"created_at\" limit=\"1\" offset=\"@URL|0\"]]\n%%content%%\n[[/module]]\n[[=]]\n+ [[span class=\"linkTwo\"]][http://scp-wiki.wikidot.com/art:art-mycotherapy-6581-pix Original Theme][[/span]]\n+ [[span class=\"linkOne\"]][http://scp-wiki.wikidot.com/art:art-mycotherapy-6581-pix/offset/1 Click here if the theme hurts your eyes][[/span]]\n[[/=]]\n[[div style=\"border-radius: 10px;\n  background-repeat: no-repeat;\n  background-position: center;\nborder:solid 2px var(--accentColor);\npadding:15px;\nmargin-bottom: 15px;\"]]\n[[=]]\n[[image https://i.imgur.com/gvFYNip.png]]\n++ [https://www.tiktok.com/@ironshearss/video/7098720700592065834?is_copy_url=1&is_from_webapp=v1&lang=en Process Video] | [https://scp-wiki.wikidot.com/scp-6326 SCP-6326]\n\n[[<]]\n> **Filename:** 6326.mp4, 6326.png\n> **Author:** IronShears\n> **License:** https://creativecommons.org/licenses/by-sa/3.0/\n> **Source Link:** https://www.tiktok.com/@ironshearss/video/7098720700592065834?is_copy_url=1&is_from_webapp=v1&lang=en\n> **Derivative of:** SCP-6326 by Raddagher\n[[/<]]\n-----\n\nThis article is good? Really good? Oh my god. I got a little carried away with the animation but I wanted to make the personality shine through as much as I could in this low res of pixel art lol. \n\nHonestly, I read fucking everything about Watts after this. The whole thing is incredible and I loved every little piece of it. It's funny, engaging, and frankly //relatable and genuine// as someone who's had my entire life path altered by surprise disability more than once. \n\nIt's just really nice to read something funny and well handled at the same time.\n\n[[div class=\"fadeout\"]]\nAlso I'd like to put my opinion in on the \"size\" in the ring. So hear\n[[/div]]\n\n([https://i.imgur.com/XlkBvwL.gif If the apng doesn't animate click here for a gif version or just watch the video.])\n\n+ [https://scp-wiki.wikidot.com/art:art-mycotherapy More Art Mycotherapy]\n[[/=]]\n[[/div]]",
+  "tags": [
+    "_cc",
+    "animated",
+    "artwork",
+    "pixel-art",
+    "scp-art"
+  ],
+  "author": "IronShears",
+  "created_at": "2022-05-31T17:46:54+00:00",
+  "updated_at": "2024-03-28T14:23:21+00:00",
+  "rating": 14,
+  "_site": "scp-wiki",
+  "_fullname": "art:art-mycotherapy-6326-pix"
+}

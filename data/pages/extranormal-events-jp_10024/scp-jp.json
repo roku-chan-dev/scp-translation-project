@@ -1,0 +1,14 @@
+{
+  "title": "10024",
+  "content": "overview: ビルの改装工事において、使用されていた工事用エレベーターの注意喚起用電子音「エリーゼのために」が改装工事終了に伴う工事用エレベーターの撤去後も鳴り続けていました。音の発生源は元々エレベーターの存在した場所から発せられており、音源が聞こえる間、その位置も上下していました。また、これらの音は落雷や風雨などの外的要因により干渉を受けることが分かっています。改装工事中にエレベーターによる転落事故が数件発生していたこととの因果関係は現在調査中です。\nswdate: '1'\ndate: 201█年8月6日\nswplace: '1'\nplace: 愛知県██市\nswchaseprocedure: '1'\nchaseprocedure: 当該のビルの住民の全てにクラスA記憶処理を施し、財団フロント企業による偽装改装工事が行われています。当該の音源発生地点には推測される同型のエレベーターが設置されました。現在までに不慮の事故で██名の人員がエレベーターからの転落事故により死亡しています。\nswaddendum: '0'\naddendum: ''\ntf2: '1'\nauthor: SenKanY\nredirect-b: '[[module Redirect destination=\"/log-of-extranormal-events-jp'\nredirect-e: '\"]]'",
+  "tags": [
+    "jp",
+    "剪定対象-子"
+  ],
+  "author": "machikawa",
+  "created_at": "2020-07-22T16:48:23+00:00",
+  "updated_at": "2021-05-24T13:20:46+00:00",
+  "rating": 7,
+  "_site": "scp-jp",
+  "_fullname": "extranormal-events-jp:10024"
+}

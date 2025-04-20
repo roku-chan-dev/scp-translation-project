@@ -1,0 +1,14 @@
+{
+  "title": "相关组织图标",
+  "content": "[[div class=\"CustomTable\"]]\n||||||~ GOI-EN||\n||[[image Alexylva大学.png]] _\nAlexylva大学||[[image アンダーソン・ロボティクス.png]] _\n安德森机器人||[[image Are_We_Cool_Yet.png]] _\nAre We Cool Yet?||\n||[[image 黒の女王.png]] _\n黑皇后||[[image カオス・インサージェンシー.png]] _\n混沌分裂者||[[image 壊れた神の教会.png]] _\n破碎之神教会||\n||[[image ワンダーテインメント博士.png]] _\nWondertainment博士||[[image ザ・ファクトリー.png]] _\n工厂||[[image 第五教会.png]] _\n第五教会||\n||[[image ゲーマーズ・アゲインスト・ウィード.png]] _\n反大麻玩家||[[image 世界オカルト連合.png]] _\n全球超自然联盟||[[image http://scp-jp.wdfiles.com/local--files/goi-icon/ロシア連邦軍参謀本部情報総局\"P\"部局.png]] _\n格鲁乌\"P\"部门”||\n||[[image ハーマン・フラーの不気味サーカス.png]] _\n赫曼·富勒的不安马戏团||[[image 境界線イニシアチブ.png]] _\n地平线倡议||[[image マナによる慈善財団.png]] _\n玛娜慈善基金会||\n||[[image マーシャル・カーター&ダーク株式会社.png]] _\nMarshall, Carter和Dark有限公司||[[image 何者でもない.png]] _\n\"Nobody\"||[[image イスラム・アーティファクト開発事務局.png]] _\n伊斯兰物品回收办公室||\n||[[image オネイロイ・コレクティブ.png]] _\n梦神集团||[[image 株式会社プロメテウス研究所.png]] _\n普罗米修斯实验室公司||[[image サーキック・カルト.png]] _\n欲肉教派||\n||[[image 蛇の手.png]] _\n蛇之手||[[image 連邦捜査局異常事件課.png]] _\n联邦调查局所属特异事故处||\n\n||||||~ GOI-JP||\n||[[image 日本生類創研.png]] _\n日本生類創研||[[image 東弊重工.png]] _\n東弊重工||[[image 蒐集院.png]] _\n蒐集院||\n||[[image 犀賀派.png]] _\n犀賀派||[[image 博士.png]] _\n“博士”||[[image 大日本帝国陸軍特別医療部隊.png]] _\n大日本帝国特别医疗部队||\n||[[image http://scp-jp.wdfiles.com/local--files/goi-icon/PEJEOPAT.png]] _\nPEJEOPAT||\n\n\n||||||~ 次要GOI-JP||\n||[[image http://scp-jp.wdfiles.com/local--files/goi-icon/如月工務店.png]] _\n如月建筑公司||[[image http://scp-jp.wdfiles.com/local--files/goi-icon/警視庁公安部特事課.png]] _\n警察厅公安部特事课||[[image http://scp-jp.wdfiles.com/local--files/goi-icon/帝国.png]] _\n帝国||\n||[[image http://scp-jp.wdfiles.com/local--files/goi-icon/如来観光.png]] _\n如来观光||[[image http://scp-jp.wdfiles.com/local--files/goi-icon/幻島同盟.png]] _\n幻島同盟||\n\n\n||||||~ GOI-CN||\n||[[image 中華異学会.png]] _\n中华异学会||[[image OBメディア.png]] _\nOB传媒||[[image レターズ・エンターテイメント.png]] _\nLetters娱乐||\n[[/div]]\n\n\n\n[[module CSS]]\n.CustomTable table {\n    width: 100%;\n    margin-bottom: 3em;\n}\n.CustomTable table td, .defaultT table th {\n    border: none;\n    width: 33%;\n    padding: 0 24px 16px;\n    vertical-align:text-top;\n    text-align: center;\n    font-weight: bold;\n    font-size: 90%;\n}\n.CustomTable img {\n   float: center;\n   margin: auto;\n   padding-bottom: 10px;\n   max-width: 100px;\n}\n.CustomTable table th {\n    background: none;\n    border: none;\n    padding: 0.5em 10px;\n    font-family:\"ヒラギノ角ゴ Pro W6\", HiraKakuPro-W6, sans-serif;\n    font-weight: bold;\n    font-size: 2em;\n}\n[[/module]]",
+  "tags": [
+    "jp",
+    "艺术作品"
+  ],
+  "author": "miumeat",
+  "created_at": "2018-02-11T13:32:59+00:00",
+  "updated_at": "2020-05-14T12:47:16+00:00",
+  "rating": 6,
+  "_site": "scp-wiki-cn",
+  "_fullname": "goi-icon"
+}

@@ -1,0 +1,14 @@
+{
+  "title": "俄分主题版式",
+  "content": "该主题版式仅用于俄分相关页面，以便文档翻译及搬运过程中的代码处理问题。\n----\n[[code type=\"css\"]]\n@import url(https://scpfoundation.ru/local--files/component:theme/font-bauhaus.css);\n\n/*\n    SCP Sigma 9\n    [2014 Wikidot Theme]\n    Created for the SCP Foundation by Aelanna\n    Edited for SCP基金会 by Izsac\n*/\n \n.rimg {\n  float: right;\n  border: solid 1px #666;\n  text-align: center;\n  font-size: 8pt;\n  font-weight: bold;\n  background:#EEE;\n  margin: 10px auto 5px 8px;\n  box-shadow: 0 1px 6px rgba(0,0,0,.25);\n}\n\n.limg {\n  float: left;\n  border: solid 1px #666;\n  text-align: center;\n  font-size: 8pt;\n  font-weight: bold;\n  background:#EEE;\n  margin: 10px 8px 5px auto;\n  box-shadow: 0 1px 6px rgba(0,0,0,.25);\n}\n\n.cimg {\n  border: solid 1px #666;\n  text-align: center;\n  font-size: 8pt;\n  font-weight: bold;\n  background:#EEE;\n  margin: 10px auto 5px auto;\n  box-shadow: 0 1px 6px rgba(0,0,0,.25);\n  width: 600px;\n}\n\n.rimg img, .limg img, .cimg img {\n  border: none;\n}\n\n.rimg span, .limg span, .cimg span {\n  display: block;\n  border-top: solid 1px #666;\n  padding: 2px 0;\n}\n\n.rimg span > span, .limg span > span, .cimg span > span {\n  display: inline;\n  margin: 0px;\n}\n\n[[/code]]",
+  "tags": [
+    "ru",
+    "版式"
+  ],
+  "author": null,
+  "created_at": "2017-05-11T14:47:23+00:00",
+  "updated_at": "2024-09-28T09:16:40+00:00",
+  "rating": 3,
+  "_site": "scp-wiki-cn",
+  "_fullname": "component:russian-theme"
+}

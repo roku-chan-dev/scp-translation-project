@@ -1,0 +1,23 @@
+{
+  "title": "SCP-6402",
+  "content": "[[include :scp-wiki:theme:simple-yonder]]\n\n[[>]]\n[[module Rate]]\n[[/>]]\n\n[[include :scp-wiki:component:anomaly-class-bar-source\n|item-number= 6402\n|clearance= 2\n|container-class= euclid\n|secondary-class= none\n|disruption-class= vlam\n|risk-class= warning\n]]\n\n**Special Containment Procedures:** The property surrounding SCP-6402 has been purchased by a Foundation front company, and all entrances to the building have been sealed under cover story 37 (Health code violations).\n\n**Description:** SCP-6402 is a single-story restaurant building, with a kitchen and seating for up to forty. Above the front door is a large red sign which reads \"ADEQUATE RUSSIAN CUISINE\" alongside several Soviet flags. \n\nThe anomalous properties occur when a subject enters the building and orders an item from the menu, at which point the item will manifest near their table. Once the subject leaves the building all relevant legal documents, both digital and analogue, will be altered to grant the subject full Russian citizenship.\n\n**Discovery:** On 15/10/2021, civilians in Washington, North Carolina reported seeing a building appear out of thin air. Agent Booker was dispatched for preliminary investigation. \n\n[[div class=\"blockquote\"]]\n\n[BEGIN LOG]\n\n//Booker walks into the building, causing automated lights to turn on.//\n\n**Booker:** No sign of movement, looks like the place is empty. The reception desk has a bowl of mints, probably shouldn't try them.\n\n//Booker continues into the eating area.//\n\n**Booker:** There's a sign on the wall, says to email that address if you've got any complaints. Might be worth checking out later. \n\n//Booker turns to survey the rest of the room, noticing several soviet flags decorating the room.//\n\n**Booker:** Weird theme for a restaurant, I wonder what they serve?\n\n//Booker picks up a menu off the nearest table.//\n\n**Booker:** Huh, it just says 'bear' in all caps and... is that comic sans?\n\n//A low growl is heard from the kitchen, and a large brown bear walks through the door.//\n\n**Booker:** Shit...\n\n//The bear advances towards Booker, who turns and flees. This aggravates the bear, which charges and quickly overtakes the agent. Booker draws their pistol and fires at the bear, killing it just before it can catch them.//\n\n**Booker:** I think I have a complaint for the manager.\n\n[END LOG]\n\n[[/div]]\n\nShortly after returning to Site-89, Booker began a test of the email given in SCP-6402. A transcript of the text exchange has been provided below. \n\n[[div class=\"blockquote\"]]\n\n[[>]]\n##blue|Hello, I have a few questions about your restaurant.##\n[[/>]]\n\n##red|YOU HAVE REACHED DODA, OPERATOR OF ADEQUATE ESTABLISHMENTS SUCH AS POTATO FARM AND OTHER POTATO FARM. IF YOU WOULD LIKE TO SPEAK TO A REPRESENTATIVE, TYPE 1##\n\n[[>]]\n##blue|1##\n[[/>]]\n\n##red|HELLO THIS IS DODA.##\n\n##red|WHAT IS YOUR QUESTION TODAY?##\n\n[[>]]\n##blue|I'd like to know why you chose to create a restaurant that serves live bears.##\n[[/>]]\n\n##red|IS ETHNIC FOOD FROM MOTHER RUSSIA, TO BRING AMERICAN PEOPLE TASTE OF GOOD LIFE.##\n\n[[>]]\n##blue|Why are you typing in all capitals?##\n[[/>]]\n\n##red|FALSE ACCUSATIONS, DODA IS NOT CAPITALIST AMERICAN. DODA IS PURE COMMUNIST ALL WAY THOUGH.##\n\n##red|ALSO KEYBOARD IS BROKEN AND NO OTHER BOARD TYPE ENGLISH.##\n\n[[>]]\n##blue|I still don't understand, why live bears? Generally, the bears eat you, not the other way around.##\n[[/>]]\n\n##red|CUSTOMERS ARE WEAK. HERE IN RUSSIA, YOU EAT BEAR.##\n\n[[>]]\n##blue|Alright, would you care to explain how you were able to create the restaurant seemingly overnight?##\n[[/>]]\n\n##red|YOU ARE ASKING TOO MANY QUESTIONS. A CUSTOMER SERVICE REPRESENTATIVE HAS BEEN SENT TO YOUR LOCATION.##\n\n[[/div]]\n\nShortly after the final message was received, a brown bear wearing an oversized KGB uniform manifested inside Booker's office and was able to kill and eat him before being neutralized by security. \n\nNo further contact with \"DODA\" has been made.\n\n[[div class=\"footer-wikiwalk-nav\"]]\n[[=]]\n<< [[[SCP-6401]]] | SCP-6402 | [[[SCP-6403]]] >>\n[[/=]]\n[[/div]]\n\n[[include :scp-wiki:component:license-box]]\n[!-- N/A (No Images)  --]\n[[include :scp-wiki:component:license-box-end]]",
+  "tags": [
+    "_licensebox",
+    "alive",
+    "animal",
+    "bear",
+    "building",
+    "dado",
+    "euclid",
+    "food",
+    "sapient",
+    "scp",
+    "transfiguration"
+  ],
+  "author": "Mooagain ",
+  "created_at": "2021-10-16T03:09:01+00:00",
+  "updated_at": "2023-04-13T11:00:36+00:00",
+  "rating": 91,
+  "_site": "scp-wiki",
+  "_fullname": "scp-6402"
+}

@@ -1,0 +1,18 @@
+{
+  "title": "The king has died",
+  "content": "[[include :scp-wiki:component:pride-highlighter |inc-s9-clgbt-alt= --]]]\n\n[[include component:preview\ntext= \"Kid, listen. Shit isn't fair here.\"\n]]\n\n[[div style=\"display: none;\"]]\n[[include component:image-block name=https://i.imgur.com/ukeLOas.jpeg|caption=.]]\n[[/div]]\n\n[[>]]\n[[module Rate]]\n[[/>]]\n\n[[=image https://64.media.tumblr.com/2039f1b5d6c2efa496149ca5858627d3/38ed2a0a5022c633-11/s2048x3072/8c2f878ec924308adf6534804898099a9d59cb06.pnj]]\n[[=image https://64.media.tumblr.com/39b73068b00bc4dccaf883b923b81295/38ed2a0a5022c633-c8/s2048x3072/002ea81d89688e25e8c49d38b0fb6a586c0024f5.pnj]]\n[[=image https://64.media.tumblr.com/8014ff140410bac01e04d795703a2f29/38ed2a0a5022c633-b5/s2048x3072/35ae23eaf717d3a42ec7d40b1c41fd53f83754d9.pnj]]\n[[=image https://64.media.tumblr.com/9ac5fbadba6de066d14d1672f35afe9f/38ed2a0a5022c633-d2/s2048x3072/63f62881806a35ba0354eb452b6cd5c0acd7aee2.pnj]]\n[[=image https://64.media.tumblr.com/3d4c924ef5e9cf9641b943b112458042/38ed2a0a5022c633-9d/s2048x3072/9e39d142eb394540bba07a8a038220510a95829f.pnj]]\n[[=image https://64.media.tumblr.com/fc019324bbd1c36bcb3f8a49f4e86957/38ed2a0a5022c633-07/s2048x3072/4a38bb855490cbff2f42c977d982cd597c5449a2.pnj]]\n[[=image https://64.media.tumblr.com/7517214260b3d9b59f88acb3de19b919/38ed2a0a5022c633-16/s1280x1920/1176cac6a96d037c70d9c90a4ae6b600c81c6650.pnj]]\n[[=image https://64.media.tumblr.com/ec1281a644e57b60d1a98c8ec7d0e54f/38ed2a0a5022c633-9f/s2048x3072/23fa66ae161bc73216f63da203c80665a544e0df.pnj]]\n[[=image https://64.media.tumblr.com/ba77a3c190665080f3f74af025de7fd8/38ed2a0a5022c633-8a/s2048x3072/7210f8d530631bf3e9e64c21387593891c34f29b.pnj]]\n[[=image https://64.media.tumblr.com/60f6ae74ec143873a279d7de7257fac4/38ed2a0a5022c633-06/s2048x3072/805c89f80550bb49c549e51e7c7a90f1e9156f52.pnj]]\n[[=image https://64.media.tumblr.com/8c9e02a49b77aad1015e6c0213284f1b/38ed2a0a5022c633-e1/s2048x3072/6eab52d9ad1d6e8a5453b287b77fe2ad27b5eaed.pnj]]\n[[=image https://64.media.tumblr.com/e3a902b478462ce819dd422605e3c93b/38ed2a0a5022c633-f8/s2048x3072/220e32c74a44c4952cea5da6a2b259f7b53d3e47.pnj]]\n[[=image https://64.media.tumblr.com/99c88a6ec67e7d2430ae1e639463da92/38ed2a0a5022c633-1b/s2048x3072/f1484bcfc66e54fdf6e6ee10bdc714d986f07a55.pnj]]\n[[=image https://64.media.tumblr.com/3462eb9aa60ece81021186002cb200d1/38ed2a0a5022c633-a3/s2048x3072/e1de938d5b2eda84b461c57f9f0bf80634f1da0d.pnj]]\n[[=image https://64.media.tumblr.com/9dc9338628ff7c4a05aac5751a0a02a9/38ed2a0a5022c633-db/s2048x3072/41d15aae1538396e2770a4de8b3c49a34425dee7.pnj]]\n[[=image https://64.media.tumblr.com/6c84c4b8794ccf66dd5af0b12917b182/38ed2a0a5022c633-9b/s2048x3072/7a44796b5dcbdb3ded96d49da458ad7f2c8490a2.pnj]]\n[[=image https://64.media.tumblr.com/4fbabc8444b0b9d87afb20b19286cdf2/38ed2a0a5022c633-0f/s1280x1920/bd3ae51a0fc7a794fcda3c153940dfec6e7db421.pnj]]\n[[=image https://64.media.tumblr.com/c7f6647cbe79cc9b867c41be981eb50f/38ed2a0a5022c633-23/s2048x3072/45f3355151bf94006db1c3ccba2c22fdd34e73c4.pnj]]\n[[=image https://64.media.tumblr.com/7f5e072f49b0ad5a9be27c41c2279c86/38ed2a0a5022c633-34/s2048x3072/ff38f4e358c9e4f6712ec75199ef8c80820b4b8c.pnj]]",
+  "tags": [
+    "agent-adams",
+    "artwork",
+    "cel-shaded",
+    "comic",
+    "doctor-clef",
+    "doctor-kondraki"
+  ],
+  "author": "rottingraisins",
+  "created_at": "2024-03-19T23:29:57+00:00",
+  "updated_at": "2025-03-23T22:34:37+00:00",
+  "rating": 142,
+  "_site": "scp-wiki",
+  "_fullname": "art:the-king-has-died"
+}

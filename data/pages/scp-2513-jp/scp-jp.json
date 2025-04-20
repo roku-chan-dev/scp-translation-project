@@ -1,0 +1,19 @@
+{
+  "title": "SCP-2513-JP",
+  "content": "[[include credit:start]]\n**タイトル:** SCP-2513-JP - せめて、財団らしく\n**著者:** ©︎[[*user poly_propylene]]\n**作成年:** 2020\n[[include credit:end]]\n**アイテム番号:** SCP-2513-JP\n\n**オブジェクトクラス:** Keter(Neutralized)\n\n**特別収容プロトコル:** SCP-2513-JP自体の収容はその異常性から不可能です。また、SCP-2513-JPの結果発生した事象の特定も困難であるため、財団により観測された現実改変および確率変動に対して適切な隠蔽処置がなされていることをもって間接的な収容状態にあるとします。\n\n**追記:** ヒトの絶滅により、今後SCP-2513-JPが発生することはないと推測されています。\n\n**説明:** SCP-2513-JPはヒトが死亡した際に非常に低い確率[[footnote]]紀元後に発生した事案を全て合計しても1███件です。[[/footnote]]で発生する現象です。SCP-2513-JPが発生すると死亡したヒト(以下、対象と表記)の意識は基底次元に束縛され、対象のみに知覚可能な実体(以下、SCP-2513-JP-aと表記)が出現します[[footnote]]いかなる手段をもってしても対象以外はSCP-2513-JP-aを知覚できません。[[/footnote]]。SCP-2513-JP-aは対象に「1つだけ願いをかなえてやる」といった旨の意思を伝え、対象が願いを提示した場合、小規模な現実改変および確率変動を発生させることでその願いを実現させます。規模の小ささから、内容によっては提示された願いを実現させることができません[[footnote]]直近に提示されたものでは「死者を蘇生してほしい」「人類を救ってほしい」などの願いが例として挙げられます。[[/footnote]]。願いが実現不可能であった場合、SCP-2513-JP-aは対象にその旨を伝え、代替案を提示するように促します。また、願いが抽象的であった場合はSCP-2513-JP-aが恣意的に解釈し、その願いを実現させます。実現可能な願いが提示される、もしくは提示されないまま3分が経過した場合、SCP-2513-JP-aは消失し対象の意識は解放されます。\n\nSCP-2513-JPは20██年█月██日に██████研究員[[footnote]]故人。SCP-2513-JP発見の直前に死亡。[[/footnote]]によって発見され、同職員により報告書の作成が行われました。\n　\n　\n　\n[[div class=\"u-notice\"]]\n[[div]]\nSCiPNETより通告\n[[/div]]\n本報告書は以下の問題点を有しています。\n\n・作成報告が行われていません。\n・ヒューム異常が観測されました。\n\n問題が解決されない場合自動的に削除されます。\n[[/div]]\n　\n　\n[[div class=\"u-notice\"]]\n指定された時間が経過しました。\n\n自動削除を実行\n\n…\n\n失敗\n[[/div]]\n　\n　\n[[div class=\"u-notice\"]]\n緊急通達プロトコルを適用\n\n…\n\n応答状況\nRAISA: 未応答\n財団管理部門: 未応答\nO5評議会: 未応答\n[[/div]]\n\n　\n　\n　\n[[module css]]\n.u-notice {\nwidth: 60%;\nmin-width: 280px;\nright: 0;\nleft: 0;\nmargin: auto;\npadding: 1em;\ntext-align: center;\nbackground-image: url(http://kaktuskontainer.wdfiles.com/local--files/format-hell/scp_trans.png);\nbackground-size: contain;\nbackground-repeat: no-repeat;\nbackground-position: center;\nbackground-color: #fcfdfb;\nborder: solid 1px #888880;\nborder-radius: 10px;\nbox-shadow: 0 2px 6px rgba(0, 0, 0, 0.5);\n}\n.u-notice div {\ndisplay: inline-block;\nfont-size: 150%;\nfont-weight: bold;\ncolor: #990011;\n}\n[[/module]]",
+  "tags": [
+    "jp",
+    "neutralized",
+    "scp",
+    "テレパシー",
+    "ルーキーコンテスト",
+    "現実改変",
+    "確率"
+  ],
+  "author": "poly_propylene",
+  "created_at": "2020-05-22T08:59:09+00:00",
+  "updated_at": "2021-02-12T16:28:17+00:00",
+  "rating": 231,
+  "_site": "scp-jp",
+  "_fullname": "scp-2513-jp"
+}

@@ -1,0 +1,14 @@
+{
+  "title": "00025",
+  "content": "content: \"**説明:** 開くたびにページの数が一定しない本\\n**回収日:** ████-██-██\\n**回収場所:** ███県████市の市立図書館\\n**現状:** 保管\\n**追記:** 研究助手████が開いた時、ページ数が約26万枚に増え、収容ロッカーを破壊、████の両足を粉砕骨折した。ページが増加する上限が不明のため、実験は現在中止。処分を検討中。\"\ntf2: '1'\nauthor: tokage-otoko\nredirect-b: '[[module Redirect destination=\"http://ja.scp-wiki.net/log-of-anomalous-items-jp'\nredirect-e: '\"]]'",
+  "tags": [
+    "jp",
+    "剪定対象-子"
+  ],
+  "author": "7happy7",
+  "created_at": "2020-03-14T14:01:41+00:00",
+  "updated_at": "2021-05-24T13:11:01+00:00",
+  "rating": 22,
+  "_site": "scp-jp",
+  "_fullname": "anomalous-jp:00025"
+}

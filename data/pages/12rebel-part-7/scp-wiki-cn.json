@@ -1,0 +1,15 @@
+{
+  "title": "三向分裂：断码",
+  "content": "[[module CSS]]\n#u-adult-warning #u-adult-link.c-wanderers>a:nth-child(1),#u-adult-warning #u-adult-link.c-wanderers>a:nth-child(2),#u-adult-warning #u-adult-link:not(.c-wanderers)>a:nth-child(3),#u-adult-warning #u-adult-link:not(.c-wanderers)>a:nth-child(4),#u-adult-warning #u-adult-link.s-\\{\\$slug\\}>a:nth-child(even),#u-adult-warning #u-adult-link:not(.s-\\{\\$slug\\})>a:nth-child(odd){display:none}\n[[/module]]\n\n[[div id=\"adult-warning\"]]\n[[div id=\"adult-header\"]]\n成人内容\n[[/div]]\n本文包含成人内容且有极端的表现手法和内容暗示，可能并不适合所有读者。\n[[module ListPages range=\".\" limit=\"1\"]]\n本文包含成人内容且有极端的表现手法和内容暗示，可能并不适合所有读者。如果你已年满 18 周岁并愿意阅读相关内容，点击[/adult:%%name%%/noredirect/true 这里]继续。\n[[/module]]\n[[/div]]\n\n[[footnoteblock]]\n\n[[div class=\"footer-wikiwalk-nav\"]]\n[[/div]]",
+  "tags": [
+    "原创",
+    "成人内容",
+    "掩藏页"
+  ],
+  "author": "Chisaka Tamaku_xs",
+  "created_at": "2023-03-17T14:31:32+00:00",
+  "updated_at": "2023-03-18T07:38:02+00:00",
+  "rating": 0,
+  "_site": "scp-wiki-cn",
+  "_fullname": "12rebel-part-7"
+}

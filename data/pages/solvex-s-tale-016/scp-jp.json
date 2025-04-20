@@ -1,0 +1,18 @@
+{
+  "title": "猫ですよろしくおねがいします",
+  "content": "[[include :scp-jp:component:af2022theme]]\n\n[[module CSS arguments...]]\n#page-title {\n  display: none;\n}\n.fake_title {\n  font-size: 200%;\n  color: #990011;\n  padding: 0 0 0.25em;\n  margin: 0 0 0.6em;\n  border-bottom: 1px solid #bbb;\n  font-weight: normal;\n}\n.fake_title p {\n  padding: 0 0 0 0;\n  margin: 0 0 0 0;\n}\n.opening {\n  font-size: 95%;\n  padding: 0 0 3em 0;\n  margin: 0 0 0 0;\n}\n[[/module]]\n\n[[div class=\"fake_title\"]]\nSCP-PL-猫-J\n[[/div]]\n\n[[include credit:start]]\n**タイトル:** 猫ですよろしくおねがいします\n**著者:** ©︎[[*user solvex]]\n**作成年:** 2022\n[[include credit:end]]\n\n[[image http://scp-jp-storage.wdfiles.com/local--files/file%3A2419995-75-5u2k/%E3%82%B7%E3%83%B3%E3%83%97%E3%83%AB%E3%81%AD%E3%81%93.png]]\n\n@@@@\n@@@@\n@@@@\n@@@@\n@@@@\n@@@@\n@@@@\n@@@@\n@@@@\n@@@@\n@@@@\n@@@@\n@@@@\n@@@@\n@@@@\n@@@@\n@@@@\n@@@@\n@@@@\n@@@@\n@@@@\n@@@@\n@@@@\n@@@@\n@@@@\n@@@@\n@@@@\n@@@@\n@@@@\n@@@@\n@@@@\n@@@@\n\n> **エージェント・育良:** なんでこんなことしたの？\n> \n> **SCP-PL-猫-J:** 人気者に……なりたくて……\n> \n> **育良:** うん\n> \n> **SCP-PL-猫-J:** みんなが好きな姿になれば……いいかなって……\n> \n> **育良:** それでやったのが、040-JPの収容違反ってこと……\n> \n> **SCP-PL-猫-J:** ははっ、ジョークですよジョーク！ほら今日エイプリルフールですし？日本のみんなにも楽しんでもらいたくて、ね？\n> \n> **育良:** ……\n> \n> **SCP-PL-猫-J:** ごめんなさい\n> \n> **育良:** 元に戻してくれる？\n> \n> **SCP-PL-猫-J:** はい\n \n\n> SCP財団日本支部で発生したSCP-040-JPの収容違反は、首謀者であるSCP-PL-猫-Jの尽力により発生翌日の4/2には終息しました。\n> \n> これに対して日本支部理事会は「ARCじゃなくなったんだし、とりあえずそういうことで」とSCP-PL-猫-Jの責任は追及しない旨をコメントしました。\n> \n> よろしくおねがいします",
+  "tags": [
+    "af2022",
+    "jp",
+    "tale",
+    "ねこです",
+    "エージェント・育良",
+    "ジョーク"
+  ],
+  "author": "solvex",
+  "created_at": "2022-04-01T03:05:29+00:00",
+  "updated_at": "2022-04-01T03:10:03+00:00",
+  "rating": 60,
+  "_site": "scp-jp",
+  "_fullname": "solvex-s-tale-016"
+}

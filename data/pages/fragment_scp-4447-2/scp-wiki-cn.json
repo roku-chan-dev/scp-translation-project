@@ -1,0 +1,13 @@
+{
+  "title": "SCP-4447（迭代二）",
+  "content": "[[module CSS]]\n.raisa {\n    border: solid 1px #999;\n    background: #f2f2c2;\n    padding: 5px;\n    margin-bottom: 10px;\n}\n\n.yellow {\n  background-color: #f2f2c2;\n  margin: 1em 40px;\n  padding: 0 1em;\n  color: rgba(0, 0, 0, 0.8);\n  border: 1px dashed #c8b258;\n}\n\n.left-right {\n  display: flex;\n  flex-direction: row;\n  justify-content: space-between;\n}\n[[/module]]\n\n[[div class=\"raisa\"]]\n[[=]]\n++++ 来自基金会记录与信息安保管理部的通知\n\n您已选择查看此文件的一系列修订版本。有关此修订版本或可显示范围内历史记录的更多信息，请联系您的RAISA联络员。\n\n已突出显示旧版本的修订内容。\n[[/=]]\n[[/div]]\n\n----\n\n[[include component:anomaly-class-bar-source\n |lang= cn\n |item-number=4447 \n |clearance=3 \n |container-class=keter \n |secondary-class=none \n |disruption-class=vlam \n |risk-class=caution\n]]\n\n----\n\n**特殊收容措施：** ##mediumblue|正在对SCP-4447的个人履历，家庭情况和附加异常效应进行研究以制定收容措施。东亚地区的基金会设施已处于戒备状态并通过政府渠道对SCP-4447进行定位。####gray|已告知派遣到Marshall、Carter和Dark有限公司内的潜伏特工SCP-4447的存在并应继续监视该组织####mediumblue|以及搜寻有关SCP-4447行踪的信息##。\n\n##mediumblue|若发现SCP-4447并可以合理接近，人员应在其不知情的情况下接近并镇静/扣押它。##\n\n**描述：** ##mediumblue|SCP-4447是名为Sarah Turner的27岁中英混血的美国公民。其具有的异常特性####gray|可使地球上任意两人之间实现瞬间传送。该异常被激活后，个体包括其衣着，附带设备和首饰会瞬间交换位置。##\n\n##mediumblue|基金会特工最后一次目击到SCP-4447位于其在洛杉矶的公寓中，而后与一名迷惑的中国公民交换位置。据悉SCP-4447利用其异常特性逃跑。##\n\n##mediumblue|先前####gray|提供交换事件的唯一已知媒介为一个描述此项服务的网站（命名为SCP-4447-1）。必须上传两位人员的照片随后支付10,000美元，未来8-12小时的时间点将显示在网站上。所给时间的±3分钟内，两位人员会经历SCP-4447事件并交换位置。##\n\n**发现：** ##gray|跟踪同行组织Marshall、Carter和Dark有限公司的特工报告了一种新型瞬间传送服务的传闻。经过调查，发现了“{{████████████████.onion}}” 的URL地址，基金会技术人员开始分析该网站。####mediumblue|已发现该隐匿服务所配置使用的为一个过时的加密套件，允许拦截和解密某些流量。利用被俘获的Tor节点，成功地实行了一次流量分析攻击并将SCP-4447所在公寓进行定位。已将SCP-4447的笔记本电脑回收，但在SCP-4447逃跑后的几分钟内其有价值信息均已被远程抹除。##\n\n**实验记录：** ##darkgreen|未检测到任何更改。已折叠该部分。##\n\n##mediumblue|**附录4447-1：** SCP-████文件回收##\n\n##mediumblue|站点主管Chen批准了一次对位于[已编辑]的Marshall、Carter和Dark仓库的突袭，以回收有关从Site-19盗窃SCP-████的文件和信息。回收的协议备忘录中偶然提及了SCP-4447，表明传送服务仍在进行。正在进行对该事件的进一步调查。##\n\n[[div class=\"yellow left-right\"]]\n[[div]]\n[http://scp-wiki-cn.wikidot.com/scp-4447 ⟵ 前一修订版本]\n[[/div]]\n[[div]]\n[http://scp-wiki-cn.wikidot.com/scp-4447/offset/2 下一修订版本 ⟶]\n[[/div]]\n[[/div]]",
+  "tags": [
+    "段落"
+  ],
+  "author": "xywy",
+  "created_at": "2022-05-05T14:05:45+00:00",
+  "updated_at": "2022-05-06T17:41:21+00:00",
+  "rating": 0,
+  "_site": "scp-wiki-cn",
+  "_fullname": "fragment:scp-4447-2"
+}

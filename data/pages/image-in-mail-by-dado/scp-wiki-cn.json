@@ -1,0 +1,14 @@
+{
+  "title": "dado邮件里的插图",
+  "content": "[[include :scp-wiki:component:info-ayers\n|lang=en[!-- EN/RU/KO/CN/FR/PL/ES/TH/JP/DE/IT/UA/PTBR --]\n|page=image-in-mail-by-dado[!-- url of your page on the scp wiki --]\n|authorPage=http://www.scp-wiki.wikidot.com/machen2[!-- link to your author page --]\n|comments=\n= **image in mail by dado**\n \n-----\n\n我写的另一个dado小故事。点子完全来自 [[*user Doctor Cimmerian]]，感谢你也看看他的[/dr-cimmerian-s-personnel-file 作品]。感谢 [[*user AnAnomalousWriter]], [[*user HarryBlank]], [[*user Impperatrix]] 和 [[*user Tstaffor]] 他们一直的好评！\n\n-----\n \n= **图片编辑**\n-----\n图片修改自 SCP-5000 的 lookcloser.png，其由 [[*user Tanhony]] 创建，符合 CC BY SA 3.0。\n]]\n\n[[module CSS]]\nsup {\nvertical-align: top; position: relative; top: -0.5em;\n}\n:root{\n--cutColour: #fafafa;\n--barColour: #282828;\n}\n.translation_block{\ndisplay:none;}\n\n.info-container .collapsible-block-folded a{\ncolor: #FFF;}\n.info-container .collapsible-block-unfolded-link a{\ncolor: #FFF;}\n\n.info-container .collapsible-block-link,\n.info-container:hover .collapsible-block-link {\nline-height: 1.6em;\n}\n[[/module]]\n[[include :scp-wiki-cn:theme:black-highlighter-theme]]\n[[include :scp-wiki:component:rso]]\n[[include :scp-wiki:component:bhl-dark-sidebar]]\n\n[[div class=\"blockquote\"]]\n**自：**[[[dado-hub|meisdado@dadomail.com]]]\n**致：**[[[SCP-6790|vrequet@scp.net]]]\n------\n[[=]]\n[[image https://scp-wiki.wdfiles.com/local--files/image-in-mail-by-dado/dadoislookcloser.png width=\"95px\"]]\n[[/=]]\n你要买dado好的白粉[[footnote]] **译注：**原文是chowder，根据上下文推测应该指可卡因粉之类的东西。 [[/footnote]]\n[[/div]]\n@@@@\n[[div class=\"blockquote\"]]\n**自：**vrequet@scp.net\n**致：**meisdado@dadomail.com\n------\n啥？\n[[/div]]\n@@@@\n[[div class=\"blockquote\"]]\n**自：**vrequet@scp.net\n**致：**meisdado@dadomail.com\n------\n你谁啊？\n[[/div]]\n[[div class=\"blockquote\"]]\n**自：**meisdado@dadomail.com\n**致：**vrequet@scp.net\n------\n是的，你和dado说话。对不起发得太盲了，大写键坏了\n[[=]]\n[[image https://scp-wiki.wdfiles.com/local--files/image-in-mail-by-dado/dadoislookcloser.png width=\"95px\"]]\n[[/=]]\n你要买dado好的白粉\n[[/div]]\n[[div class=\"blockquote\"]]\n**自：**vrequet@scp.net\n**致：**meisdado@dadomail.com\n------\n.....你的IP地址是臭蛋[[footnote]] **译注：**原文是 broken egg，大概指 Egg.js [[/footnote]]\n你想干什么，发这张图片给我有什么企图？\n[[/div]]\n[[div class=\"blockquote\"]]\n**自：**meisdado@dadomail.com\n**致：**vrequet@scp.net\n------\ndado拿黑信[[footnote]] **译注：**原文是 blackmail，是多用于攻讦或敲诈勒索的匿名信。 [[/footnote]]敲你钱，不是么？是的dado从非常好的客人还有网络那了解这的，没效果吗？\n\n[[/div]]\n[[=]]\n[[size 130%]]**你已经被 {{vrequet@scp.net}} 屏蔽**[[/size]]\n[[/=]]",
+  "tags": [
+    "dado",
+    "故事"
+  ],
+  "author": "Etinjat",
+  "created_at": "2021-09-24T04:31:07+00:00",
+  "updated_at": "2021-09-25T04:02:57+00:00",
+  "rating": 5,
+  "_site": "scp-wiki-cn",
+  "_fullname": "image-in-mail-by-dado"
+}

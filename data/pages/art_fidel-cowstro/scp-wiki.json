@@ -1,0 +1,17 @@
+{
+  "title": "Fidel Cowstro",
+  "content": "[[>]]\n[[module Rate]]\n[[/>]]\n\n[[include :scp-wiki:theme:basalt darkmode=a|hidetitle=a]]\n\n[[div class=\"crom-thumbnail\" style=\"display: none;\"]]\n[[include component:image-block name=fidel-cowstro.png]]\n[[/div]]\n\n@@ @@\n\n\n[[image https://scp-wiki.wdfiles.com/local--files/art%3Afidel-cowstro/fidel-cowstro.png]]\n\n@@ @@\n@@ @@\n@@ @@\n++ SCP-ES-194-1 es un humanoide que se identifica como el ex primer ministro cubano Fidel Castro.\n\n\n@@ @@\n@@ @@\n@@ @@\n@@ @@\n[https://scp-wiki.wikidot.com/fairydoctor-folio More from fairydoctor]\n\n@@ @@\n[[include :scp-wiki:component:license-box | author=fairydoctor]]\n> **Filename:** fidel-cowstro.png\n> **Author:** fairydoctor\n> **License:** CC-by-SA 4.0\n> **Derivative of:**\n\n> **Name:** Chasseral cow at Métairie de Morat with the telecom tower in the background\n> **Author:** Juppiter9\n> **License:** Creative Commons Attribution-Share Alike 4.0 International\n> **Source Link:** [[[https://commons.wikimedia.org/wiki/File:Chasseral_cow_at_M%C3%A9tairie_de_Morat_with_the_telecom_tower_in_the_background.jpg]]]\n\n> **Name:** Fidel Castro 1950s\n> **Author:** Unknown (Mondadori Publishers)\n> **License:** Public Domain\n> **Source Link:** [[[https://commons.wikimedia.org/wiki/File:Fidel_Castro_1950s.jpg]]]\n\n[[include :scp-wiki:component:license-box-end]]",
+  "tags": [
+    "_cc",
+    "_licensebox",
+    "artwork",
+    "image-editing",
+    "scp-art"
+  ],
+  "author": "fairydoctor",
+  "created_at": "2024-10-29T21:40:55+00:00",
+  "updated_at": "2025-02-22T16:38:22+00:00",
+  "rating": 12,
+  "_site": "scp-wiki",
+  "_fullname": "art:fidel-cowstro"
+}

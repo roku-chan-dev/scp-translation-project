@@ -1,0 +1,19 @@
+{
+  "title": "SCP-5987",
+  "content": "[[include info:start]]\n**SCP-5987:** 사이렌헤드(Sirenhead)\n**원작:** http://www.scp-wiki.net/scp-5987\n**저자:** [[*user Cerastes]]\n**역자:** [[*user Crssk]]\n\n> **파일명:** sirenhead\n> **저작권자:** [[*user Cerastes]], Jon Parise\n> **라이선스:** CC BY-SA 2.0\n> **출처:** [[[https://www.flickr.com/photos/jparise/183076703|Flickr]]]\n----\n[[include info:end]]\n\n[[module ListPages  category=\"fragment\" parent=\".\" limit=\"1\" order=\"created_at\" offset=\"@URL|0\"]]\n%%content%%\n[[/module]]\n\n[!-- http://ko.scp-wiki.net//fragment:scp-5987-1 --]\n[!-- http://ko.scp-wiki.net//fragment:scp-5987-2 --]\n[!-- http://ko.scp-wiki.net//fragment:scp-5987-3 --]",
+  "tags": [
+    "asci",
+    "en",
+    "scp",
+    "역사적",
+    "염력",
+    "유클리드",
+    "조각품"
+  ],
+  "author": "Crssk",
+  "created_at": "2020-07-13T11:52:48+00:00",
+  "updated_at": "2024-12-21T17:37:54+00:00",
+  "rating": 11,
+  "_site": "scpko",
+  "_fullname": "scp-5987"
+}

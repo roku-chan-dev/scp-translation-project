@@ -1,0 +1,15 @@
+{
+  "title": "颂诗歌者其二：战争",
+  "content": "[[>]]\n[[module rate]]\n[[/>]]\n\n[[module css]]\n@import url('https://fonts.googleapis.com/css?family=Special+Elite');\n\n.manifestoPaper {\n    color: #351f11;\n    font-family: Courier;\n    font-size: 14px;\n    background: url('http://www.rpc-wiki.net/local--files/malthusian-manifesto/PaperTexture.jpg');\n    background-repeat: no-repeat;\n    background-size: cover;\n    box-shadow: 4px 6px #dbdbd9;\n    padding: 10px;\n    font-family: 'Special Elite', cursive;\n}\n[[/module]]\n\n[[include :scp-wiki-cn:theme:black-highlighter-theme]]\n[[include :scp-wiki-cn:theme:dustjacket]]\n\n[[div class=\"manifestoPaper\"]]\n[[=]]\n手中利刃散发寒光，\n女孩的脸遍布恐惧。\n鲜血与夜幕交织，\n微腥与墨黑混合。\n\n悲伤围绕楼房，\n黑暗浮现绝望。\n生机逐渐断绝，\n痛苦麻木不仁。\n\n金属与骨骼谱出交响曲\n火药与撞针鸣奏着葬歌。\n倒提的刀尖向下渗血，\n失神的双眼回荡空洞。\n\n嘴角狞笑，\n丝绸飘落。\n无助哭嚎，\n势如破竹。\n\n白光刺破天际，\n云层悲鸣退散。\n大地沟壑纵横，\n沙土漫天飞舞。\n\n蘑菇云自地而起，\n喷射出灿烂的光。\n人群惊慌失措，\n漫无目的逃窜。\n圣灵降于世，\n带来祂的爱。\n\n男孩踏上石路，\n人影紧随其后。\n传播天堂的福音，\n遏制无谓的流血。\n\n每个英雄，\n都需要一个诗人，\n歌颂他的丰功伟绩，\n让这个世界去铭记。\n[[/=]]\n[[/div]]\n\n[[=]]\n<< [http://scp-wiki-cn.wikidot.com/wanderers:poem1 颂诗歌者 其一] | 颂诗歌者 其二 | [http://scp-wiki-cn.wikidot.com/wanderers:poem3 颂诗歌者 其三] >>\n[[/=]]",
+  "tags": [
+    "wanderers",
+    "原创",
+    "游人志异"
+  ],
+  "author": "Just F",
+  "created_at": "2020-07-04T05:29:35+00:00",
+  "updated_at": "2020-09-29T12:42:05+00:00",
+  "rating": 12,
+  "_site": "scp-wiki-cn",
+  "_fullname": "wanderers:poem2"
+}

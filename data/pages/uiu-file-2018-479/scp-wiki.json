@@ -1,0 +1,22 @@
+{
+  "title": "UIU File: 2018-479",
+  "content": "[[module CSS]]\nblockquote {\n    border-color: #000000;\n    background-color: #ffffff;\n}\n\n.scp-image-block .scp-image-caption {\n    background-color: #ffede0;\n}\n\n#page-content .wiki-content-table tr td {\n    background-color: #fceee3;\n}\n#page-content .wiki-content-table tr th {\n    background-color: #e5d6c9;\n}\n\n.colorlink a {\n    color: #11ff21;\n}\n[[/module]]\n\n[[>]]\n[[module Rate]]\n[[/>]]\n\n[!--\nFragments:\nhttp://scp-wiki.wikidot.com/fragment:uiu-file-2018-479-0\nhttp://scp-wiki.wikidot.com/fragment:uiu-file-2018-479-1\nhttp://scp-wiki.wikidot.com/fragment:uiu-file-2018-479-2\n--]\n\n[[module ListPages category=\"fragment\" parent=\".\" limit=\"1\" order=\"created_at\" offset=\"@URL|0\"]]\n%%content%%\n[[/module]]\n@@ @@\n[[=]]\n**│ [[[the-lunch-special-at-salmon-brick|The Lunch Special At Salmon Brick]]] »**\n[[/=]]",
+  "tags": [
+    "_cc",
+    "_explosions",
+    "_listpages",
+    "_unusual-incidents-unit",
+    "comedy",
+    "crime-fiction",
+    "goi-format",
+    "jam-con2020",
+    "pentagram",
+    "unusual-incidents-unit"
+  ],
+  "author": "JackalRelated",
+  "created_at": "2020-03-11T03:59:16+00:00",
+  "updated_at": "2024-10-06T13:48:30+00:00",
+  "rating": 45,
+  "_site": "scp-wiki",
+  "_fullname": "uiu-file-2018-479"
+}

@@ -1,0 +1,22 @@
+{
+  "title": "Experimental Log of Containment Chamber ZH-S12-E-024",
+  "content": "[[include :scp-wiki:theme:black-highlighter-theme]]\n[[module css]]\n:root {\n    --logo-image: url(\"https://scp-wiki.wdfiles.com/local--files/domc-hub/DoMC_Final.png\");\n    --header-title: \"DoMC\";\n    --header-subtitle: \"Solving Communications Problems\";\n}\n[[/module]]\n\n[[include :scp-wiki:info:start]]\n**Orginal Title**: [http://scp-zh-tr.wikidot.com/scp-zh-024 收容室ZH-S12-E-024實驗紀錄]\n**Author**: [[*user AbyssDream]]\n**Translator:** [[*user Mang Gwan]]\n----------\n> **Filename:** DoMC_Final.png\n> **Author:** [[user hawkguyy]] & [[user jackalrelated]]\n> **License:** CC BY SA\n> **Source Link:** https://scp-wiki.wikidot.com/domc-hub\n\n[[include :scp-wiki:info:end]]\n\n[[module CSS]]\n.lie{\n     font-weight: bold;\n     font-family: monospace;\n     font-size: 140%;\n}\n.notice{\n    border: 1px solid #f9e24d;\n    outline: 4px solid #b54d3b;\n    color: #f9e24d;\n    background: #b54d3b;\n    padding: 10px;\n    text-align: center;\n}\n[[/module]]\n\n@@ @@\n\n[[div class=\"notice\"]]\n[[=]]\n\n++++ NOTICE FROM THE FOUNDATION\n++++ DEPARTMENT OF MISCOMMUNICATIONS\n\nThe omissions in this document are deliberate exclusion, please do not modify without permission.\n\n--Eli Forkley, Director, DoMc\n[[/=]]\n[[/div]]\n\n@@ @@\n@@ @@\n\nThe individual serve of food, daily necessities and medical supplies are needed to place in Containment Chamber ZH-S12-E-024 periodically, with cleaning. Please do not conduct experiments without the necessary.\n\nPlease obey **the following regulations** inside Containment Chamber ZH-S12-E-024:\n\n* Do not entitle with any names.\n* Do not give any attributes.\n* Do not use any pronouns to refer to.\n* Do not describe with any adjectives.\n\nPlease follow the above regulations while recording the experiment conducted in Containment Chamber ZH-S12-E-024 as well.\n\n@@ @@\n@@ @@\n\n\n**Experimental Log:**\n\n> **Experimenter:**\n> \n> **Action:** Named as Walter Oliver\n> \n> **Result:** Become.\n> \n> **Note:** Walter Oliver had been administered amnestics and the account heading had changed. According to the examination, there has been no anomalous effect on him.\n@@ @@\n> **Experimenter:** Dr. Robinson\n> \n> **Action:** Using pronouns.\n> \n> **Result:** Disappear.\n@@ @@\n> **Experimenter:** Dr. Harris\n> \n> **Action:** Give attributes.\n> \n> **Result:** Dr. Harris lost all knowledge about class \"Euclid\".\n@@ @@\n> **Experimenter:** D-24635\n> \n> **Action:** Describe\n> \n> **Result:** D-24635 is no longer \"strong\" after ten seconds.\n@@ @@\n> **Experimenter:** D-18746\n> \n> **Action:** Keep describing until running out of words.\n> \n> **Result:** D-18746 is no longer \"tall\", \"thin\", \"angry\", \"tired\" , \"mad\", \"hurt\", \"have-hair\", \"humanoid\", \"alive\" after ten seconds stopped describe.\n@@ @@\n> **Experimenter:** Researcher Alice\n> \n> **Action:** Conduct a conversation without violating the regulation of the containment chamber\n> \n> **Result:** No abnormality is observed.\n> \n> **Note:** The mental state becomes unstable, the further experiment is not advised.\n@@ @@\n> **Experimenter:** None\n> \n> **Action:** Retrieve the paper from the containment chamber\n> \n> **Result:** None\n> \n> **Note:** Content on paper\n>\n>>  \n>> [[=]]\n>> [[size 200%]]**GIVE ME BACK TO ME**[[/size]]\n>> [[/=]]\n>>  \n>",
+  "tags": [
+    "_zh",
+    "cognitohazard",
+    "concept",
+    "euclid",
+    "infohazard",
+    "international",
+    "meta",
+    "miscommunications",
+    "narrative",
+    "scp"
+  ],
+  "author": "Mang Gwan",
+  "created_at": "2022-05-08T04:09:28+00:00",
+  "updated_at": "2022-05-10T15:13:07+00:00",
+  "rating": 62,
+  "_site": "scp-wiki",
+  "_fullname": "scp-zh-024"
+}

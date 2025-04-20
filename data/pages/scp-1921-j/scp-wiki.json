@@ -1,0 +1,18 @@
+{
+  "title": "SCP-1921-J",
+  "content": "[[>]]\n[[module Rate]]\n[[/>]]\n\n**Item #:** SCP-1921-J\n\n**Object Class:** please i have so much work to do\n\n**Special Containment Procedures:** SCP-1921-J is to be unplugged and plugged back in twice per day. Staff are encouraged to be helpful and supportive in Jr. Researcher Riemann's problems. --Please be nice to me-- Making fun of Jr. Researcher Riemann appears to exacerbate the anomalous effects of SCP-1921-J. \n\n**Description:** SCP-1921-J refers to the model Motorola MG7540 combination wireless router / modem owned by Jr. Researcher Riemann. SCP-1921-J appears to encompass the entire internet connectivity of Riemann's office, which is ridiculous because I'm paying 70 dollars a month for this. SCP-1921-J is known to hate Jr. Researcher Riemann and make their life significantly more difficult. \n\nIt was hypothesised that being nice to SCP-1921-J can mitigate its effects but that was before we knew the depths of its hatred. The effects of SCP-1921-J have forced Jr. Researcher Riemann to go outside several times and it's very hot out right now.\n\nIts anomalous properties were discovered after repeated disconnects from the Site-17 VPN despite all the blinking lights still being on. Jr. Researcher Riemann reports that everything else is working great it just seems to hiccup every once in a\n\n\n[[html]]\n<head>\n\n<style>\n@import url(\"https://d3g0gp89917ko0.cloudfront.net/v--edac79f846ba/common--theme/base/css/style.css\");\n@import url(\"https://scp-wiki.wdfiles.com/local--code/component%3Atheme/1\");\n\n.box {\n  background: white; border: 2px solid #bbb; width: 200px; min-width: 50vw; display: inline-block; position: relative; top: 50%; left: 50%; transform: translate(-50%,-50%);\n}\n\n.box-interior {\n  margin: 10px; padding: 0 50px; background-position: bottom center; background-repeat: no-repeat;\n}\n</style>\n\n<script src=\"https://code.jquery.com/jquery-3.3.1.min.js\"></script>\n<script>\n$(document).ready(() => {\n  $('#buttons').show()\n  $('#saving').hide()\n  $('#fuck').hide()\n\n  $('#cancel').on('click', () => {\n    $('#buttons').hide()\n    $('#saving').hide()\n    $('#fuck').show()\n  })\n\n  $('#retry').on('click', () => {\n    $('#buttons').hide()\n    $('#saving').show()\n    $('#fuck').hide()\n    setTimeout(() => {\n      $('#buttons').show()\n      $('#saving').hide()\n      $('#fuck').hide()\n    }, 3000)\n  })\n})\n</script>\n\n</head>\n<body>\n\n<div style=\"background: #222b; height: 300px; position: relative;\">\n  <div class=\"box\">\n    <div class=\"box-interior\" id=\"buttons\">\n      <p style=\"text-align: center\">Connection lost.</p>\n      <p style=\"text-align: center\"> <button id=\"cancel\">Cancel</button>\n      <button id=\"retry\">Retry</button></p>\n    </div>\n    <div class=\"box-interior\" id=\"saving\" style=\"background-image: url(https://d3g0gp89917ko0.cloudfront.net/v--3e3a6f7dbcc9/common--theme/base/images/progress/progressbar.gif); padding-bottom: 10px;\">\n      <p style=\"text-align: center\">Reconnecting...</p>\n    </div>\n    <div class=\"box-interior\" id=\"fuck\">\n      <p style=\"font-size: 2em; text-align: center\">FUCK</p>\n    </div>\n  </div>\n</div>\n\n\n</body>\n[[/html]]\n[[include :scp-wiki:component:license-box]]\n[[include :scp-wiki:component:license-box-end]]",
+  "tags": [
+    "_licensebox",
+    "computer",
+    "esoteric-class",
+    "joke",
+    "meta",
+    "scp"
+  ],
+  "author": "Riemann",
+  "created_at": "2020-08-10T19:05:51+00:00",
+  "updated_at": "2022-10-22T16:15:54+00:00",
+  "rating": 144,
+  "_site": "scp-wiki",
+  "_fullname": "scp-1921-j"
+}

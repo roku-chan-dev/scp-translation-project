@@ -1,0 +1,21 @@
+{
+  "title": "SCP-6994",
+  "content": "[[module CSS]]\n.email-example .collapsible-block-folded a.collapsible-block-link {\n    animation: blink 0.8s ease-in-out infinite alternate;\n}\n@keyframes blink {\n    0% { color: transparent; }\n    50%, 100% { color: #b01; }\n}\n.email {border: solid 2px #000000; width: 88%; padding: 1px 15px; margin: 10px; box-shadow: 0 1px 3px rgba(0,0,0,.5)}\n.email-example a.collapsible-block-link {font-weight: bold;}\n.tofrom {margin-left: 10px; margin-top: 5px; padding: 1px 15px; border-left: solid 3px maroon}\n[[/module]]\n[[include component:image-block | name=https://upload.wikimedia.org/wikipedia/commons/1/10/Giant_Isopod_%2818443864634%29.jpg | caption=收容中的SCP-6994个体 | width=10]]\n**项目编号：**SCP-6994\n\n**项目等级：**--Euclid-- --Explained-- Keter\n\n**特殊收容措施：**SCP-6994应被收容在一个大型水生收容间中，内部应填充满盐度为33PPM的海水。任何情况下均不允许向SCP-6994提供非必要的娱乐或食物。任何对基金会人员表现出恶意或抵抗倾向的SCP-6994个体应被立即处决。\n\n[[collapsible show=\"查看已归档收容措施\" hide=\"关闭已归档收容措施\"]]\n**特殊收容措施：**SCP-6994-EX将栖息于其自然栖息地并受到监控。机动特遣队€-7（螃蟹之王）成员将阻止并重新为经过该地区的船只设定航线。\n[[/collapsible]]\n\n**描述：**SCP-6994是Bathynomus basatanus，一种原产于美国与加拿大西海岸的大王具足虫。其外观与非异常的大王具足虫无差别[[footnote]]例如巨型深水虱（//Bathynomus giganteus//），极巨深水虱（//Bathynomus maxeyorum//），以及亲密深水虱（//Bathynomus affinis//）[[/footnote]]。\n\nSCP-6994的生理方面与其它与其他头足类[[footnote]]**译注：**此处疑为笔误，头足目是章鱼乌贼一类的软体动物，与巨型深水虱无关，应是前后文出现的isopod等足目。[[/footnote]]动物不同。SCP-6994拥有类似于陆生蜘蛛的喷丝头，并以其分泌粘稠的粘性液体。SCP-6994使用此种液体构建庇护所，“或者说构建出用于登陆活动的水囊。”[[footnote]]以类似于潜水钟蜘蛛的方式。[[/footnote]]SCP-6994还拥有4个大型的镰刀状前肢，类似于螳螂类的陆生掠食动物。该前肢主要用于短时爆发移动，以及狩猎和对掠食物种的自卫。SCP-6994的智能接近人类水平。其使用一种基于符号的交流方式，包括图像符号，肢体语言以及使用前肢做无声的手语。\n\n**补充资料1**\n\n在为SCP-6994建造一更为永久性的站内收容单元期间，在SCP-6994栖息地附近的海床上发现了新的化石记录。记录显示SCP-6994并非异常，基本确认为普通等足目动物的亲缘物种。首席研究员Geraldo Bannock曾对项目进行过更深入研究，他认为该结果是不可信的。\n\n一组潜水员捕获并活体解剖了一个SCP-6994个体，以探明其生理构造。DNA样本和物理相似性表明了SCP-6994是古代等足目的一种直接进化物种，其被认定为非异常并已重分级为SCP-6994-EX。\n\n**事故报告**\n\n2020年7月17日，马萨诸塞州Salisbury海滩报告有4名游泳者失踪。深入搜索发现，SCP-6994的纺丝踪迹指向一个离岸约700米远的，SCP-6994建造的洞穴。并在其中发现了这些游泳者的尸体，已经被SCP-6994的前肢解剖，其伤口表现出SCP-6994极大的细心与好奇心。项目使用的手法与先前基金会特工使用的解剖手法类似。\n\n**补充资料2**\n\n2021年5月8日，Geraldo Bannock援引此前未被发现的、指向SCP-6994进化的证据，将其重分级为Keter。据此实施了更加严格的收容措施，包括频繁的宰杀和转运至站内收容。\n[[=]]\n[[collapsible show=\"访问SCiPNET？一（1）封新邮件\" hide=\"SCP-6994-EX\"]]\n[[/=]]\n[[<]]\n[[div class=\"email\"]]\n[[div class=\"tofrom\"]]\n**至：**首席研究员Geraldo Bannock\n**自：**道德伦理委员会主席Odongo Tejani\n**主题：**SCP-6994-EX\n[[/div]]\nBannock博士，\n\n作为伦理委员会主席，我清楚很难将你的工作与感情分清；但是这也太过了。SCP-6994是非异常的，以个人原因把它作为一种威胁对待既是不诚实的，也是道德上应受谴责的。我知道你很难承认，但是你做的是错的。\n\n我们已经看过你之前上传的文档了。伪造的事故记录，可疑的收容突破，这些可怕的事情显然是这些具足虫从未做过的。你太希望它们是某种XK级怪物了，Geraldo，但它们不是。它们就只是虫子而已。确实，虫子会杀人；虫子也会杀死你在乎的某人。但是它们只是虫子。\n\n我们都做过牺牲。我知道你的女儿那天就在那片海滩上，但是当我们把它定义为异常时就已经做过头了。我们控制和收容异常，但我们也得保护异常。\n\n我会重新把SCP-6994分级为-EX。\n[[/div]]\n[[/<]]\n[[/collapsible]]\n[[footnoteblock]]\n\n[[div class=\"footer-wikiwalk-nav\"]]\n[[=]]\n<< [[[SCP-6993]]] | SCP-6994 | [[[SCP-6995]]] >>\n[[/=]]\n[[/div]]\n\n[[include :scp-wiki-cn:component:license-box]]\n**图1**\n> **文件名：** N/A\n> **图像名：** File:Giant Isopod (18443864634).jpg\n> **图像作者：** Eric Kilby\n> **授权协议：** CC BY-SA 2.0\n> **来源链接：** [https://commons.wikimedia.org/wiki/File:Giant_Isopod_(18443864634).jpg Wikimedia Commons]\n[[include :scp-wiki-cn:component:license-box-end]]",
+  "tags": [
+    "6000",
+    "keter",
+    "odongo-tejani",
+    "scp",
+    "动物",
+    "智能",
+    "水生",
+    "甲壳类",
+    "蜘蛛"
+  ],
+  "author": "Jiu_Huan",
+  "created_at": "2022-01-10T09:52:13+00:00",
+  "updated_at": "2024-06-03T16:56:07+00:00",
+  "rating": 7,
+  "_site": "scp-wiki-cn",
+  "_fullname": "scp-6994"
+}

@@ -1,0 +1,22 @@
+{
+  "title": "SCP-6668",
+  "content": "[[include :scp-jp:theme:black-highlighter-theme]]\n[[include :scp-jp:component:acs-animation]]\n[[include :scp-jp:component:bhl-dark-sidebar]]\n[[include :scp-wiki:component:blacklight-box-source |inc-source= --]]]\n\n[[module CSS]]\n\n.info-container .collapsible-block-folded a{\ncolor: #FFF;}\n.info-container .collapsible-block-unfolded-link a{\ncolor: #FFF;\n}\n\n#page-content .collapsible-block {\n    display: block;\n    text-align: center;\n    padding: .8em;\n    background-color: #e3e3e3;\n    border-top: 0.125rem dashed #b5b5b5;\n    border-bottom: 0.125rem dashed #b5b5b5;\n}\n\n#page-content .collapsible-block .collapsible-block-content {\n    text-align: left;\n}\n\n#page-content .license-box .collapsible-block {\n\n    display: unset;\n    text-align: unset;\n    padding: unset;\n    background-color: unset;\n    border-top: unset;\n    border-bottom: unset;\n}\n\n\n\n#page-content .license-box .collapsible-block .collapsible-block-content {\n    text-align: unset;\n}\n\nblockquote,\ndiv.blockquote {\n    border: 0.125rem solid #d4d4d4;\n    background-color: #F5F5F5;\n}\n\n.interview{\n    border:solid 2px #d4d4d4;\n    text-align: left;\n    background:#F5F5F5;\n    width:90%;\n    padding:1px 15px;\n    margin: 10px auto;\n}\n#page-title{display:none}\n[[/module]]\n\n[[include :scp-wiki:info:start]]\n[[=]]\n\n[*http://scp-wiki.wikidot.com/dysadron 私の他の記事を見たい人は著者ページをチェックだ！]\n\n[[/=]]\n[[include :scp-wiki:info:end]]\n\n[[module ListPages  category=\"fragment\" parent=\".\" limit=\"1\" order=\"created_at\" offset=\"@URL|0\"]]\n%%content%%\n[[/module]]\n\n[!-- http://scp-jp.wikidot.com/fragment:scp-6668-1 --]\n[!-- http://scp-jp.wikidot.com/fragment:scp-6668-2 --]\n[!-- http://scp-jp.wikidot.com/fragment:scp-6668-3 --]\n[!-- http://scp-jp.wikidot.com/fragment:scp-6668-4 --]\n[!-- http://scp-jp.wikidot.com/fragment:scp-6668-5 --]\n[!-- http://scp-jp.wikidot.com/fragment:scp-6668-6 --]",
+  "tags": [
+    "en",
+    "esoteric-class",
+    "scp",
+    "動物",
+    "建造物",
+    "捕食",
+    "未収容",
+    "群れ",
+    "自己複製",
+    "齧歯類"
+  ],
+  "author": "walksoldi",
+  "created_at": "2022-01-09T01:20:47+00:00",
+  "updated_at": "2024-02-21T12:32:58+00:00",
+  "rating": 84,
+  "_site": "scp-jp",
+  "_fullname": "scp-6668"
+}

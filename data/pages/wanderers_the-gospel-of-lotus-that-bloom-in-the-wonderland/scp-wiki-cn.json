@@ -1,0 +1,20 @@
+{
+  "title": "净莲宝卷——花开福地劝民序歌",
+  "content": "[[>]]\n[[module Rate]]\n[[/>]]\n\n[[div style=\"padding: 1px 15px;position:relative;\"]] \n[[div style=\"left:40px;position:relative;font-size:200%;font-family:'微软雅黑';\"]]\n[[collapsible show=\" ◇ 题 \" hide=\" ◎ 题 \"]]\n[[size 50%]]**何日**：[[[history-drowned-in-the-ash-of-memories|大战归虚]]]日冥冥，剌剌满朝大厦倾\n**焉在**：神州道路旁，皆闻宝卷开\n**孰作**：花匠十二 傲霜居士\n**采风者**：飔\n**札**：\n万象更新，天下巨变。礼崩乐坏，异学而泛。\n然机巧轮转，芳华碾碎，或念昔时风光，恶今日喧闹虺隤，欲遏后浪也。\n[[/size]]\n[[/collapsible]]\n[[/div]]\n[[/div]]\n@@@@\n------\n@@@@\n[[div style=\"background-image: url(\"http://scp-wiki-cn.wikidot.com/local--files/wanderers:the-gospel-of-lotus-that-bloom-in-the-wonderland/PNG-Bright-Lotus.png\");background-position:bottom;background-size:90% 80%;background-repeat:no-repeat;font-family:'华文中宋';font-size:180%;text-align:center;\"]]\n@@@@\n@@@@\n秋水春山勾玉花，乾坤聚气运飞砂\n@@@@\n三才列位镇千怪，七曜通明合万家\n@@@@\n可叹外胡绝地脉，更忧内庙噪魔鸦\n@@@@\n愿君倾耳驻足听，奏曲传歌把话发\n@@@@\n@@@@\n一劝众民休惑幻，弃围钢兽吐毒烟\n@@@@\n鱼潜鸟散神惊怒，伐木削山浊百川\n@@@@\n@@@@\n二劝众民远左道，[[[a-brief-explanation-on-demonics|勿学洋术唤群妖]]]\n@@@@\n奇物千金由祸造，如食阿片火中烧\n@@@@\n@@@@\n三劝众民怜身体，[[[recovery-by-our-hands|莫把心肠作铁石]]]\n@@@@\n发肤破碎惭亲上，[[[scp-cn-304|傀儡庸医大梦迷]]]\n@@@@\n@@@@\n四劝众人依古训，修德明礼志凌云\n@@@@\n[[[yixuehuihub|怪力乱神子不语]]]，文成泣鬼赞英魂\n@@@@\n@@@@\n五劝众民植草木，蔽芾甘棠荫后人\n@@@@\n六劝众民多涉野，参同造化悟天真\n@@@@\n@@@@\n一切慧音含谛光，一切善德引妙香\n@@@@\n每念经文除业种，常怀恩敬拜玄苍\n@@@@\n从来堕法生劫难，久受三灾环宇伤\n@@@@\n[[[fixedflowers|修正诸邪归朴质]]]，花开福地赞十方\n @@@@\n@@@@\n@@@@ \n@@@@\n@@@@\n[[/div]]\n------\n@@@@\n@@@@\n@@@@\n\n\n[[include component:earthworm\n| first=true | last=false | hub=no\n| previous-url=/  | previous-title=/\n| next-url=/blooming-on-the-remains | next-title=绽放在废墟上的鲜花\n| hub-url=/fragment:etinjat | hub-title=芳草萋萋\n]]\n\n\n\n@@@@\n@@@@ \n[[module CSS]]\n@import url(http://scpsandboxcn.wikidot.com/etinjat-wanderers-css/code/1);\n\n#header h2 span::before {\n    content: \"一部经文传天下，愿民开悟正灵心\";\n}\n\n[[/module]]",
+  "tags": [
+    "wanderers",
+    "原创",
+    "宗教性",
+    "文言文",
+    "日记",
+    "琅嬛福地藏书阁",
+    "记载",
+    "韵文"
+  ],
+  "author": "Etinjat",
+  "created_at": "2018-10-01T10:02:43+00:00",
+  "updated_at": "2020-12-13T15:20:55+00:00",
+  "rating": 37,
+  "_site": "scp-wiki-cn",
+  "_fullname": "wanderers:the-gospel-of-lotus-that-bloom-in-the-wonderland"
+}

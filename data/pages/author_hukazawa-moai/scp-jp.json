@@ -1,0 +1,14 @@
+{
+  "title": "Hukazawa-Moaiの著者ページ",
+  "content": "[[tabview]]\n[[tab 著者ページ]]\n[[=]]\n+++ SCPs\n[[/=]]\n[[module ListPages created_by=\"[Hukazawa-Moai]\" separate=\"no\" tags=\"+scp +jp\" order=\"created\" category=\"*\" prependLine=\"||~ SCP ||~ Rating ||~ Comments ||~ Created ||~ Last Comment ||\"]]\n|| %%title_linked%% || %%rating%% || %%comments%% || %%created_at%% || %%commented_at%% ||\n[[/module]]\n[[=]]\n+++ Tales\n[[/=]]\n[[module ListPages created_by=\"[Hukazawa-Moai]\" separate=\"no\" tags=\"tale +jp\" order=\"created\" category=\"*\" prependLine=\"||~ Tale ||~ Rating ||~ Comments ||~ Created ||~ Last Comment ||\"]]\n|| %%title_linked%% || %%rating%% || %%comments%% || %%created_at%% || %%commented_at%% ||\n[[/module]]\n[[=]]\n+++ Others\n[[/=]]\n[[module ListPages created_by=\"[Hukazawa-Moai]\" separate=\"no\" tags=\"-scp -author -tale -著者ページ\" order=\"created\" category=\"*\" prependLine=\"||~ Others ||~ Rating ||~ Comments ||~ Created ||~ Last Comment ||\"]]\n|| %%title_linked%% || %%rating%% || %%comments%% || %%created_at%% || %%commented_at%% ||\n[[/module]]\n\n\n[http://scp-jp-sandbox2.wikidot.com/hukazawa-moai サンドボックスへGO]\n\n[[/tab]]\n\n[[tab 人事資料「望 愛」]]\n[[div style=\"float:right; margin:0 2em 1em 2em; width:300px; border:0;\"]]\n|| [[image https://upload.wikimedia.org/wikipedia/commons/thumb/f/f0/Candy_Hsu_20080426.jpg/768px-Candy_Hsu_20080426.jpg width=\"150px\"]] ||\n||~ ^^望博士^^ ||\n[[/div]]\n\n**氏名:** 望 愛(のぞみ あい)\n\n**性別:** 女\n\n**セキュリティクリアランス:** レベル3\n\n**専門分野:** 心霊学\n\n**配属:** サイト-81██\n\n**職務:** 非実体研究 稀に職員候補生指導 --及び雑用全般--\n\n**生年月日:** ████年4月4日(満2█歳)\n\n------\n**経歴**\n小学校から大学まで学校法人プリチャード学院に通学。\n大学で心霊学を専攻。卒業後財団により正規雇用。\n█年間サイト-81██にて██博士の研究助手を勤め、20██年度をもってサイト-81██に異動、博士に昇進。\n\n------\n**保有資格**\n普通自動車免許(AT限定)\n博士(超常学)\n\n//なぜか担当外の雑務をやっていることがあるので発見次第担当業務に戻らせるように ─サイト-81██人事担当官//\n\n//あぁ……私の雑用が...... ─望博士//\n@@@@\n@@@@\n@@@@\n@@@@\n\n##white|望愛→もうあい→モアイ……なんちゃって##\n[[/tab]]\n\n[[/tabview]]",
+  "tags": [
+    "jp",
+    "著者ページ"
+  ],
+  "author": "Hukazawa_Moai",
+  "created_at": "2017-08-02T19:50:11+00:00",
+  "updated_at": "2021-01-10T16:57:02+00:00",
+  "rating": 0,
+  "_site": "scp-jp",
+  "_fullname": "author:hukazawa-moai"
+}

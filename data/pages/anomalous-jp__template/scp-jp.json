@@ -1,0 +1,14 @@
+{
+  "title": "_template",
+  "content": "[[module Rate]]\n[[module css]]\n.form-table > tbody > tr:nth-child(even) {\n    background: #fff0f0;\n}\n.form-labels {\n    vertical-align: top;\n}\n.row-0,\n.do-not-notify {\n    display: none;\n}\n.form-table .form-message {\n    color: red;\n    font-weight: bold;\n}\n.form-table > tbody > tr:last-child {\n    opacity: 0.5;\n    transition: opacity 0.25s ease;\n}\n.form-table > tbody > tr:last-child:hover {\n    opacity: 1;\n}\n[[/module]]\n**削除の説明:** このページを削除するにはページ下部までスクロールし、「オプション (Options)」をクリックして折り畳みを展開した後に「削除 (Delete)」をクリックして下さい。\n\nクリックすると「ページを削除する (Delete page)」というタブが展開されます。この中の「どうしますか？ (What to do?)」と書かれた部分の右側にあるチェックボックスの「ページを完全に削除する (Delete Completely)」という部分をチェックした後に、「削除」をクリックする事で削除が完了します。この際に画面に警告が表示されますが、こちらは「OK」をクリックして下さい。\n[[module ThemePreviewer noUi=\"true\"]]\n%%form_raw{redirect-b}%%/name/%%name%%%%form_raw{redirect-e}%%\n====\n[[div style=\"display:none\"]]\n[[form]]\nfields:\n  content:\n    type: wiki\n    height: 10\n    default: \"**説明:** 説明\\n**回収日:** 20██/██/██\\n**回収場所:** 回収場所\\n**現状:** 現状\\n**追記:** 追記 -██研究員\"\n    join: true\n  tf2:\n    label: \"移転用\"\n    type: select\n    values:\n      false: 使用しない\n      true: 使用する\n    default: false\n  author:\n    type: text\n    hint: \"※許可無く使用しないでください\"\n    match: /[^、-◯ぁ-ん]*/\n    match-error: \"無効な記号です\"\n    join: true\n  redirect-b:\n    type: hidden\n    value: '[[module Redirect destination=\"http://scp-jp.wikidot.com/log-of-anomalous-items-jp'\n  redirect-e:\n    type: hidden\n    value: '\"]]'\n[[/form]]\n[[/div]]\n[[include :scp-jp:_template]]",
+  "tags": [
+    "jp",
+    "剪定対象-子"
+  ],
+  "author": "indonootoko",
+  "created_at": "2019-10-04T14:28:31+00:00",
+  "updated_at": "2025-03-04T15:38:59+00:00",
+  "rating": 6,
+  "_site": "scp-jp",
+  "_fullname": "anomalous-jp:_template"
+}

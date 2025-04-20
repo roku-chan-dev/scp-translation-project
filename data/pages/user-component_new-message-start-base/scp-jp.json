@@ -1,0 +1,14 @@
+{
+  "title": "新着メッセージ - start - バックエンド",
+  "content": "[[iftags +コンポーネント・バックエンド]]\n[[note]]\nこのユーザーコンポーネントのリファレンスは[[[reference:new-message|]]]です。\n[[/note]]\n[[/iftags]]\n\n[[module CSS]]\n.new-message > .colmod-block > ul > li.folded > ul:not([style]) + .colmod-link-top a:nth-child(1),\n.new-message > .colmod-block > ul > li.unfolded > .colmod-link-top a:nth-child(2) {\n    display: none;\n}\n.new-message > .colmod-block > ul > li.folded > ul[style*=\"none\"] + .colmod-link-top a:nth-child(1) {\n    display: inline;\n}\n.new-message > .colmod-block > ul > li.folded > ul:not([style]) + .colmod-link-top a:nth-child(2) {\n    display: inline;\n    font-weight: bold;\n    animation: blink 0.6s infinite alternate;\n}\n@keyframes blink {\n    0% { opacity:0; }\n    80%, 100% { opacity: 1; }\n}\n.new-message > .colmod-block > ul > li > .colmod-link-top.align-center {\n    text-align: center;\n}\n[[/module]]\n\n[[div class=\"new-message\"]]\n[[div_ class=\"colmod-block\"]]\n[[ul]][[li class=\"folded\"]][[ul]]_[[/ul]][[div class=\"colmod-link-top align-{$align}\"]]\n[[div_ class=\"foldable-list-container\"]]\n[# {$open}][# {$first-open}][# {$close}][[/div]][[/div]][[div class=\"colmod-content\"]]",
+  "tags": [
+    "jp",
+    "コンポーネント・バックエンド"
+  ],
+  "author": "iti119",
+  "created_at": "2023-04-12T10:00:17+00:00",
+  "updated_at": "2023-04-12T10:08:29+00:00",
+  "rating": 0,
+  "_site": "scp-jp",
+  "_fullname": "user-component:new-message-start-base"
+}

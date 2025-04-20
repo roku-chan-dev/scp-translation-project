@@ -1,0 +1,14 @@
+{
+  "title": "ミオのひみつきち アートワーク",
+  "content": "[[include credit:start]]\n**タイトル:** ミオのひみつきち アートワーク\n**著者:** ©︎[[*user Phylliidae]]\n**作成年:** 2020\n[[include credit:end]]\n\n[[module css]]\n@import url('http://shitake-crude-production.wikidot.com/remote-ctrl-collapsible/code/1');\n[[/module]]\n\n[[div class=\"remoteCollapsible\"]]\n[[collapsible show=\"+ テロップを消す\" hide=\"- テロップを表示\"]]\n[[div class=\"collapsible-block-unfolded\" style=\"display:none\"]]\n[[=image http://scp-jp-storage.wikidot.com/local--files/file:6693676-2-dtoi/mio_2]]\n[[/div]]\n[[div class=\"collapsible-block-folded\"]]\n[[=image http://scp-jp-storage.wikidot.com/local--files/file:6693676-1-g9t6/mio_1]]\n[[/div]]\n[[/collapsible]]\n[[/div]]",
+  "tags": [
+    "jp",
+    "アートワーク"
+  ],
+  "author": "Phylliidae",
+  "created_at": "2020-12-29T20:26:14+00:00",
+  "updated_at": "2021-03-12T01:37:04+00:00",
+  "rating": 58,
+  "_site": "scp-jp",
+  "_fullname": "mio-artwork"
+}

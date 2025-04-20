@@ -1,0 +1,14 @@
+{
+  "title": "목사의 예술",
+  "content": "[[module CSS]]\n@import url('http://scpko.wdfiles.com/local--files/korean-font/DOSMyungjo.css');\n[[/module]]\n\n[[include info:start]]\n**목사의 예술**(the art of moxxa)\n**원작:** http://www.scpwiki.com/the-art-of-moxxa\n**저자:** [[*user Moxxa]]\n**역자:** [[*user salamander724]]\n[[include info:end]]\n\n**{{[[span style=\"font-family:'DOSMyungjo', monospace;\"]]내 아트 페이지에 온 것을 환영한다[[/span]]}}**\n\n\n\n[[collapsible show=\"＋scp-173\" hide=\"－이거 왜 누름?\"]]\n[[image https://piskel-imgstore-b.appspot.com/img/100ae3cc-6793-11e8-89a5-af7e37b55284.gif]]\n[[/collapsible]] \n\n**{{[[span style=\"font-family:'DOSMyungjo', monospace;\"]]SCP 아닌 것[[/span]]}}**\n\n[[collapsible show=\"＋배관 막힘\" hide=\"－이거 클릭해서 님 마우스 내구도만 떨어짐 엌ㅋ\"]]\n[[image https://piskel-imgstore-b.appspot.com/img/e8a826a1-67b0-11e8-99ff-af7e37b55284.gif]]\n[[/collapsible]]",
+  "tags": [
+    "en",
+    "아트워크"
+  ],
+  "author": "Salamander724",
+  "created_at": "2020-08-30T18:53:19+00:00",
+  "updated_at": "2020-08-30T18:54:02+00:00",
+  "rating": 2,
+  "_site": "scpko",
+  "_fullname": "the-art-of-moxxa"
+}

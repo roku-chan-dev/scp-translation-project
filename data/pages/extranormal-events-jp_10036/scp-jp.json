@@ -1,0 +1,14 @@
+{
+  "title": "10036",
+  "content": "overview: 日中、マンションの4階の一室で住人が所持していたベッドが四つ足で歩行し、ベランダから飛び降りました。ベッドは落下した衝撃で一部破損し、その場で暴れ続けていましたが数分後動かなくなりました。現在サイト-81██anomalous物品保管室に保管されています。\nswdate: '1'\ndate: 20██年3月25日午後3時10分\nswplace: '1'\nplace: 富山県██市██町\nswchaseprocedure: '1'\nchaseprocedure: ベッドを所有していた住人は始めは無知を装っていましたが、尋問を続けた結果およそ2ヶ月前から異常性を認知していたことが判明しました。異常性が最初に発生した時の状況、ベランダから飛び降りた原因は依然黙秘し続けており、現在も聴取を続けています。\nswaddendum: '1'\naddendum: '**追記:** 聴取で得られた情報によるとベッドはマシュマロを好んで食べており、上に乗ると暴れるため就寝には使用しなかったようです。'\ntf2: '1'\nauthor: kuzirano\nredirect-b: '[[module Redirect destination=\"/log-of-extranormal-events-jp'\nredirect-e: '\"]]'",
+  "tags": [
+    "jp",
+    "剪定対象-子"
+  ],
+  "author": "machikawa",
+  "created_at": "2020-07-23T04:47:06+00:00",
+  "updated_at": "2021-05-24T13:20:50+00:00",
+  "rating": 15,
+  "_site": "scp-jp",
+  "_fullname": "extranormal-events-jp:10036"
+}

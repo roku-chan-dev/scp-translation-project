@@ -1,0 +1,13 @@
+{
+  "title": "It Always Ends The Same 10",
+  "content": "[[include :scp-wiki:theme:black-highlighter-theme]]\n[[include :scp-wiki:theme:extra-black-highlighter-theme]]\n\n[[module CSS]]\n#page-title{display:none}\n\n :root{\n     --link-color: 221, 17, 17;\n     --visited-link-color: 221, 17, 17;\n     --hover-link-color: 221, 102, 17;\n}\n[[/module]]\n\n[[=image meal.PNG]]\n\n\nYou remove the meal from its cardboard sleeve. You raise the knife and stab down repeatedly, piercing the film. \n\nYou read a news article recently that microwaving food within plastic containers increased your risk of cancer. The radiation results in carcinogenic chemicals -- dioxins, you think they were called -- leeching into your food. \n\nYou place the container into the microwave and set the time. \n\nYou turn on the television, load a streaming service. It takes you a minute to choose which. Your eyes glance to the VHS player. \n\nNo.\n\nYou're not going back there. You're not doing it again. You're not watching her die. You can't bear the weight of another failure.\n\nThe microwave dings. You retrieve your meal. \n\nIt is adequate.\n\nYou eat it on the sofa, whilst deciding what show or movie to watch. By the time you have finished the food, you have yet to make a decision. \n\nYou go to bed.\n\n= It always ends the same.\n\n= //[[[https://scp-wiki.wikidot.com/it-always-ends-the-same/offset/12 |Continue?]]]//",
+  "tags": [
+    "fragment"
+  ],
+  "author": "Dysadron",
+  "created_at": "2023-04-03T21:00:40+00:00",
+  "updated_at": "2023-04-03T21:38:01+00:00",
+  "rating": 0,
+  "_site": "scp-wiki",
+  "_fullname": "fragment:it-always-ends-the-same-10"
+}

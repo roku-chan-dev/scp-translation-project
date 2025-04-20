@@ -1,0 +1,18 @@
+{
+  "title": "SCP-8591",
+  "content": "[[include :scp-wiki:theme:black-highlighter-theme]]\n[[include :scp-wiki-cn:theme:minimalist-bhl]]\n[[include :scp-wiki:component:toggle-sidebar-bhl]]\n[[include :scp-wiki:component:acs-animation]]\n[[include :scp-wiki:component:fade-in speed=4]]\n[[module CSS]]\n:root:lang(cn) {\n     --header-title: \"非现实部\";\n     --header-subtitle: \"使非现实成为 ㅤㅤㅤㅤ\";\n     --lgurl: url('http://scp-wiki.wikidot.com/local--files/unreality-hub/Unreality%20Header%20Logo.svg');\n}\n\n@media only screen and (max-width: 26.5625rem) {\n    :root {\n        --header-title: \"非现实部\";\n    }\n}\n\n\n.info-container{\n--barColour: #2c2427;\n--linkColour: #FFF;\n}\n\n#page-content hr {\nborder-top: none;\nheight: .05em;\nbackground: #454545;\n}\n\n#page-content > .collapsible-block {\n    display: block;\n    text-align: center;\n    padding: .8em;\n    background-color: #e3e3e3;\n    border-top: 0.125rem dashed #b5b5b5;\n    border-bottom: 0.125rem dashed #b5b5b5;\n}\n\n#page-content > .collapsible-block .collapsible-block-content {\n    text-align: left;\n}\n\n.interview{\n    border:solid 2px #d4d4d4;\n    background:#F5F5F5;\n    width:90%;\n    padding:1px 15px;\n    margin: 10px auto;\n}\n\n.file{\n    border:none;\n    background:#F5F5F5;\n    width:90%;\n    padding:1px 15px;\n    margin: 10px auto;\n}\n\n.addendum{\n    border:solid 1px #5e5e5e;\n    background:#ffffff;\n    width:90%;\n    padding:1px 15px;\n    margin: 10px auto;\n}\n\n.testfile{\n    border:solid 3px #643434;\n    background:#f7efef;\n    width:90%;\n    padding:1px 15px;\n    margin: 10px auto;\n}\n\n.testvideo{\n    background:#e9d5d5;\n    width:90%;\n    padding:1px 15px;\n    margin: 10px auto;\n}\n\n\n#page-title{display:none}\n\n[[/module]]\n\n[[include :scp-wiki-cn:component:info-ayers\n|page=scp-8591\n|authorPage=plaguepjp\n|comments= Alex Thorley没有侥幸逃脱 — PlaguePJP\n]]\n\n**项目编号：**SCP-8591\n\n**特殊收容措施：**N/A\n\n[[div class=\"scp-image-block block-right\" style=\"width:10%;\"]]\n[[image https://scp-wiki.wdfiles.com/local--files/scp-8591/ellingfant.png style=\"width:40%;\" link=#]]\n[[div class=\"scp-image-caption\" style=\"width:40%;\"]]\nSCP-8591。\n[[/div]]\n[[/div]]\n\n**描述：**SCP-8591是一头偶尔在研究员Alex Thorley的办公室内出现和消失的成年非洲象。\n\n在本文档发布之后，SCP-8591消失，且在超过一年的时间里未再出现。\n\n[[div class=\"blockquote\"]]\n= **文字抄录**\n------\n**Thorley：**//（通话中）//它又来了。\n\n//[……]//\n\n**Thorley：**它可能会消失。\n\n//[……]//\n\n**Thorley：**我//什么//也没做。\n\n\n//[……]//\n\n**Thorley：**我什么也没做错。\n\n//[……]//\n\n**Thorley：**好吧。\n\n//（Thorley进入办公室。内有一头象。）//\n\n**Thorley：**……我在跟你说话。\n[[/div]]\n\n研究员Thorley已因其在此次互动前未公开的不当行为而受到适当谴责。\n\n----\n[[div class=\"footer-wikiwalk-nav\"]]\n[[=]]\n<< [[[SCP-8590]]] | SCP-8591 | [[[SCP-8592]]] >>\n[[/=]]\n[[/div]]\n----\n\n[[include :scp-wiki-cn:component:license-box]]\n> **Filename:** ellingfant.png\n> **License:** CC BY 2.0\n\nThis image is a composite of:\n\n> **Name:** Elephant\n> **Author:** gudi&cris\n> **License:** CC BY 2.0\n> **Source:** [https://openverse.org/image/0ba30b8d-04e1-4485-aa98-f109e715744a?q=elephant Openverse]\n[[include :scp-wiki-cn:component:license-box-end]]",
+  "tags": [
+    "alex-thorley",
+    "scp",
+    "动物",
+    "异常事件",
+    "机密分级",
+    "非现实部"
+  ],
+  "author": "Esperanza_Cai",
+  "created_at": "2024-04-03T18:19:32+00:00",
+  "updated_at": "2024-09-22T19:38:33+00:00",
+  "rating": 2,
+  "_site": "scp-wiki-cn",
+  "_fullname": "scp-8591"
+}

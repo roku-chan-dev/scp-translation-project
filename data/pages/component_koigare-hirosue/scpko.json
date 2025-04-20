@@ -1,0 +1,15 @@
+{
+  "title": "히로스에 데스크",
+  "content": "[[include :scpko:component:koigare-hirosue-base\n|header={$header}\n|header=true\n|width={$width}\n|width=175px\n|fontsize={$fontsize}\n|fontsize=75%\n|image={$image}\n|image=http://incbox.wdfiles.com/local--files/koigare-hirosue/hirosue.jpg\n|text={$text}\n|text=**▲ 히로스에 히로스에 타카유키: 메이지대 정치경제학부 졸, 토헤이중공 본사 총무부에서 10년 근속 후 퇴사, 코이가레자키신문사 입사.**\n]]",
+  "tags": [
+    "jp",
+    "구성요소",
+    "코이가레자키신문사"
+  ],
+  "author": "Salamander724",
+  "created_at": "2020-05-08T17:49:01+00:00",
+  "updated_at": "2023-11-24T14:07:30+00:00",
+  "rating": 0,
+  "_site": "scpko",
+  "_fullname": "component:koigare-hirosue"
+}

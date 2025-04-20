@@ -1,0 +1,25 @@
+{
+  "title": "SCP-7805",
+  "content": "[[div]]\n[[include :scp-wiki:info:start]]\n[[=]]\n**SCP-7BUS: The Amazing Cross-Dimensional Bus Service™ (TACDBS™)**\nThis is my first ever SCP and a long one at that (~10k words). I've officially been apart of this wiki for a month now and I'm happy to have finally contributed to the site :D\n\nThere are no secrets so don't look.\n[[/=]]\n[[include :scp-wiki:info:end]]\n[[/div]]\n[[module ListPages category=\"fragment\" parent=\".\" order=\"created_at\" limit=\"1\" offset=\"@URL|0\"]]\n%%content%%\n[[/module]]\n\n[[div class=\"footer-wikiwalk-nav\"]]\n[[=]]\n<< [[[SCP-7804]]] | SCP-7805 | [[[SCP-7806]]] >>\n[[/=]]\n[[/div]]\n\n[[include :scp-wiki:component:license-box]]\n=====\n> **Filename:** Bus Stop, Perth, Western Australia\n> **Author:** Nachoman-au\n> **License:** CC BY-SA 3.0\n> **Source Link:** https://commons.wikimedia.org/wiki/File:Bus_Stop,_Perth,_Western_Australia.jpg\n=====\n=====\n> **Filename:** vehicular\n> **Name:** Car Emoji Icon in Flat Style\n> **Author:** Twitter Emoji\n> **License:** CC BY 4.0\n> **Source Link:** https://iconscout.com/icon/car-automobile-vehicle-personal-family-transportation-emoj-symbol\n=====\n=====\n> **Filename:** CPF-148\n> **Name:** Bus stop at Canberra railway station December 2015\n> **Author:** Nick-D\n> **License:** CC BY-SA 4.0\n> **Source Link:** https://commons.wikimedia.org/wiki/File:Bus_stop_at_Canberra_railway_station_December_2015.jpg\n> **Additional Notes:** Has been edited\n=====\n=====\n> **Filename:** sdt-62\n> **Name:** CTB bus no. 210\n> **Author:** Matthew25187\n> **License:** CC BY-SA 3.0\n> **Source Link:** https://en.wikipedia.org/wiki/File:CTB_bus_no._210.JPG\n=====\n=====\n> **Filename:** frank_bordeo\n> **Name:** Young man experiencing immense sadness\n> **Author:** Ananian\n> **License:** CC BY-SA 3.0\n> **Source Link:** https://commons.wikimedia.org/wiki/File:Young_man_experiencing_immense_sadness.jpg\n=====\n=====\n> **Filename:** location-62\n> **Name:** Vintage Bus Stop\n> **Author:** Martin Vorel\n> **License:** CC0\n> **Source Link:** https://libreshot.com/vintage-bus-stop/\n=====\n[[include :scp-wiki:component:license-box-end]]",
+  "tags": [
+    "_cc",
+    "_listpages",
+    "ectoentropic",
+    "ethics-committee",
+    "extradimensional",
+    "humanoid",
+    "k-class-scenario",
+    "scp",
+    "serpents-hand",
+    "structure",
+    "temporal",
+    "ticonderoga",
+    "vehicle"
+  ],
+  "author": "FacelessPolarBear",
+  "created_at": "2022-09-09T06:31:08+00:00",
+  "updated_at": "2024-03-26T20:39:58+00:00",
+  "rating": 42,
+  "_site": "scp-wiki",
+  "_fullname": "scp-7805"
+}

@@ -1,0 +1,14 @@
+{
+  "title": "수식",
+  "content": "Wikidot.com은 아름다운 [[$ \\LaTeX $]] 방정식을 치환하는 [http://mathjax.org MathJax]를 사용합니다. 이는 [[$ \\LaTeX $]] 문법을 알고있는 분들에게는 위키닷 방정식 사용에 직관적이게 됩니다.\n\n++ [[# equations]] 방정식\n\n간단하게 방정식을 {{@@[[math@@ //label//]] ... @@[[/math]]@@}} 블록 태그 사이에 넣어주시면 됩니다(레이블은 선택사항입니다). 이 방정식은 [[$ \\LaTeX $]]의 {{@@\\begin{equation} ... \\end{equation}@@}} 환경으로 치환됩니다. 문법에 대한 자세한 내용은 [[$ \\LaTeX $]] 참조 매뉴얼을 참고하세요.\n\n[[code]]\n[[math label1]]\n\\rho _{\\rm GJ} = -\\sigma (r) \\left[ (1 - \\eta _{\\ast }^2 {\\kappa \\over {\\eta ^3}}) \\cos \\chi \\right.\n+ \\left. {3\\over 2} \\theta (\\eta) H(\\eta)\n\\xi \\sin \\chi \\cos \\phi \\right]\n[[/math]]\n[[/code]]\n\n[[math label1]]\n\\rho _{\\rm GJ} = -\\sigma (r) \\left[ (1 - \\eta _{\\ast }^2 {\\kappa \\over {\\eta ^3}}) \\cos \\chi \\right.\n+ \\left. {3\\over 2} \\theta (\\eta) H(\\eta)\n\\xi \\sin \\chi \\cos \\phi \\right]\n[[/math]]\n\n__label__이 붙은 방정식은 간단하게 {{@@[[eref@@ //label//]]}}를 사용하면 표시 번호를 받게됩니다. 예시로 {{@@Eq. ([[eref@@ //label1//]])}}는 Eq. ([[eref label1]])와 같이 나오게됩니다.\n\n[[$ \\LaTeX $]] 환경은 2가지 방법으로 지정할 수 있는데, 하나는 {{type=\"<environment>\"}} 매개변수를 전달하는 것이고, 다른 하나는 {{@@\\begin{<environment>}@@}} 및 {{@@\\end{<environment>}@@}}를 방정식 내에 사용하는 것이입니다. 이 두가지는 동일합니다.\n\n[[code]]\n[[math type=\"align\"]]\nE = mc^2\n[[/math]]\n[[/code]]\n\n[[code]]\n[[math]]\n\\begin{align}\nE = mc^2\n\\end{align}\n[[/math]]\n[[/code]]\n\n{{equation}} 환경은 기본값입니다. 다른 지원하는 수식 환경은 {{align}}, {{alignat}}, {{aligned}}, {{alignedat}}, {{array}}, {{Bmatrix}}, {{bmatrix}}, {{cases}}, {{eqnarray}}, {{equation}}, {{gather}}, {{gathered}}, {{matrix}}, {{multline}}, {{pmatrix}}, {{smallmatrix}}, {{split}}, {{subarray}}, {{Vmatrix}}, {{vmatrix}} 입니다.\n\n++ [[# inline]] 한 줄 수식\n\n글자(문단) 내에 수식 표현을 사용하려면 {{@@[[$ ... $]]@@}} 블록 태그를 사용해주세요.\n\n[[div style=\"float:left; width: 45%; margin: 0 2%;\"]]\n[[code]]\n[[$ E = mc^2 $]]는 \n[[$ G_{\\mu\\nu} - \\Lambda g_\n{\\mu\\nu} = \\kappa T_{\\mu\\nu} $]]\n보다 유명합니다.\n[[/code]]\n[[/div]]\n[[div style=\"float:left; width: 45%; margin: 0 2%;\"]]\n[[$ E = mc^2 $]]는 [[$ G_{\\mu\\nu} - \\Lambda g_{\\mu\\nu} = \\kappa T_{\\mu\\nu} $]]보다 유명합니다.\n[[/div]]\n\n~~~~~~~~",
+  "tags": [
+    "관리",
+    "안내"
+  ],
+  "author": "Dr Devan",
+  "created_at": "2014-12-18T15:31:27+00:00",
+  "updated_at": "2015-01-21T16:24:47+00:00",
+  "rating": 1,
+  "_site": "scpko",
+  "_fullname": "wiki-syntax:math"
+}

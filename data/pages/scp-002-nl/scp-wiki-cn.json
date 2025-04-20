@@ -1,0 +1,17 @@
+{
+  "title": "SCP-002-NL",
+  "content": "[[div style=\"display: none;\"]]\n[[include component:image-block name=ball.jpg|caption=.]]\n[[/div]]\n\n[[module css]]\n:root {\n  --title: \"SCP-002-NL\";\n  --subtitle: \"最快的自行车\";\n}\n[[/module]]\n\n[[module CSS]]\n  .footnoteref{ font-variant: unset; }\n[[/module]]\n\n[[module CSS]]\nsup {\n    vertical-align: top;\n    position:\n    top: -0.5em;\n}\n\n:root {\n    --cutColour: #fafafa;\n    --barColour: #590505;\n}\n\n.translation_block {\n    display: none;\n}\n\n.info-container .collapsible-block-folded a {\n    color: #FFF;\n}\n\n.info-container .collapsible-block-unfolded-link a {\n    color: #FFF;\n}\n\n.info-container .collapsible-block-link,\n.info-container:hover .collapsible-block-link {\n    line-height: 1.6em;\n}\n[[/module]]\n[[include :scp-wiki-cn:theme:black-highlighter-theme]]\n[[include :scp-wiki:component:wide-image-sizer]]\n[[include :scp-wiki:component:bhl-dark-sidebar]]\n[[include :scp-wiki:component:rso]]\n[[include :scp-wiki:component:acs-animation]]\n\n[[include :scp-wiki-cn:component:anomaly-class-bar-source\n|lang= cn\n|item-number= 002-NL\n|clearance= 3\n|container-class= euclid\n|secondary-class= none\n|secondary-icon= http://acsurlexample.com/image.svg\n|disruption-class= keneq\n|risk-class= 警告\n]]\n----\n\n\n\n\n\n\n\n**特殊收容措施：**SCP-002-NL储存于Site-602的一个储藏室内，并由2名人员看守。对SCP-002-NL的实验必须获得Site-602主管授权。权限必须高于2级；任何使用SCP-002-NL的3级以下成员会被逮捕与审讯。\n\n----\n\n**描述：**SCP-002-NL为一辆荷兰人常用的自行车。SCP-002-NL不可摧毁，且具有可以使自行车更快的异常效应，其最大速度尚不清楚。研究表明，SCP-002-NL可以轻松停下来，但受伤的后果相当于人将刀尖刺入自己的手，甚至手部粉碎。\n\nSCP-002-NL的最高速度可以达到100千米每秒；快速踩踏会增加SCP-002-NL的速度。",
+  "tags": [
+    "euclid",
+    "nl",
+    "scp",
+    "不可摧毁",
+    "载具"
+  ],
+  "author": "la kanro",
+  "created_at": "2023-11-11T13:58:17+00:00",
+  "updated_at": "2023-11-11T14:15:11+00:00",
+  "rating": 1,
+  "_site": "scp-wiki-cn",
+  "_fullname": "scp-002-nl"
+}

@@ -1,0 +1,16 @@
+{
+  "title": "Vivarium's Art Page",
+  "content": "[[include :scp-wiki:theme:black-highlighter-theme]]\n[[include :scp-wiki:theme:extra-black-highlighter-theme]]\n[[include :scp-wiki:component:bhl-dark-sidebar]]\n[[include :scp-wiki:component:centered-header-bhl]]\n[[include :scp-wiki:component:toggle-sidebar-bhl]]\n[[include :scp-wiki:component:fade-in speed=4]]\n\n[[=]]\n[[include :scp-wiki:info:start]]\n[[=]]\n\nUpvote Vivarium... please. <3\n\n[[/=]]\n[[include :scp-wiki:info:end]]\n[[/=]]\n\n[[=image VIVA.png]]\n\nHello, and welcome to my collection of things! I didn't intend to make this, but I guess I make art now so... here we are. Take a look, and have an excellent day.\n\n[[=]]\n+* My Things!\n[[/=]]\n\n-----\n\n||~ Icon ||~ Comments ||\n||  [[image BeholderProgram.gif width=\"250 px\"]] || **The Beholder Program:** The logo for The Beholder Program, the main focus of [[[http://scp-wiki.wikidot.com/into-the-void-hub | this hub]]].||\n||  [[image BinaryStar.gif width=\"250 px\"]] || **Binary Star:** What the AI from [[[http://scp-wiki.wikidot.com/scp-5857 | this article]]] looks like.||\n||  [[image Tau15Logo.png width=\"250 px\"]] || **MTF Tau-15 \"Vanguard\":** A logo made for the MTF featured [[[http://scp-wiki.wikidot.com/scp6000contestdrlerche | here]]].||\n||  [[image Wandsmen_Invert.png width=\"250 px\"]] || **The Wandsmen:** A logo made for the GOI [[[http://scp-wiki.wikidot.com/wandsmen-hub | The Wandsmen]]].||\n\n[[include :scp-wiki:component:license-box\n|author=Vivarium]]\n=====\n\n> **Filename:** VIVA.png\n> **Name:** Vivarium\n> **Author:** [[*user Vivarium]]\n> **License:** CC BY-SA 3.0\n> **Source Link:** http://scp-wiki.wikidot.com/local--files/vivarium-s-artpage/VIVA.png\n\n> **Filename:** BeholderProgram.gif\n> **Name:** Beholder Program Logo\n> **Author:** [[*user Vivarium]]\n> **License:** CC BY-SA 3.0\n> **Source Link:** http://scp-wiki.wikidot.com/local--files/vivarium-s-artpage/BeholderProgram.gif\n\n> **Filename:** BinaryStar.gif\n> **Name:** Binary Star\n> **Author:** [[*user Vivarium]]\n> **License:** CC BY-SA 3.0\n> **Source Link:** http://scp-wiki.wikidot.com/local--files/vivarium-s-artpage/BinaryStar.gif\n\n> **Filename:** Tau15Logo.png\n> **Name:** MTF Tau-15 \"Vanguard\" Logo\n> **Author:** [[*user Vivarium]]\n> **License:** CC BY-SA 3.0\n> **Source Link:** http://scp-wiki.wikidot.com/local--files/vivarium-s-artpage/Tau15Logo.png\n\n> **Filename:** Wandsmen_Invert.png\n> **Name:** Wandsmen Logo\n> **Author:** [[*user Vivarium]]\n> **License:** CC BY-SA 3.0\n> **Source Link:** http://scp-wiki.wikidot.com/local--files/vivarium-s-artpage/Wandsmen.png\n\n=====\n[[include :scp-wiki:component:license-box-end]]",
+  "tags": [
+    "_cc",
+    "_licensebox",
+    "artist",
+    "logo"
+  ],
+  "author": "Vivarium",
+  "created_at": "2021-06-05T22:29:39+00:00",
+  "updated_at": "2024-03-28T09:59:06+00:00",
+  "rating": 41,
+  "_site": "scp-wiki",
+  "_fullname": "vivarium-s-artpage"
+}

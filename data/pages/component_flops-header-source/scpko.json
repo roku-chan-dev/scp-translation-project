@@ -1,0 +1,14 @@
+{
+  "title": "플롭스 헤더 소스",
+  "content": "[[module CSS]]\n/* 실제로 어떻게 작동하는지 보려면, 이리로 가세요:\n * https://scpko.wikidot.com/component:flops-header\n**/\n\n/* ---- ITEM INFO ---- */\n .itemInfo{\n     position: relative;\n     top: .5em;\n     width: 100%;\n\n     font-size: .9604rem;\n     text-transform: uppercase;\n     letter-spacing: -.01em;\n}\n .alignL{\n    position: relative;\n    right: .195em;\n}\n .alignR{\n    position: relative;\n    left: .195em;\n\n    text-align: right;\n}\n\n/* ---- DISRUPTION CLASS ---- */\n .disruptionHeader{\n     display: inline-block;\n     width: 100%;\n     padding: .3em 0;\n\n     color: hsl(0, 0%, 96%);\n     font-size: 140%;\n     text-align: center;\n     text-shadow:\n        .5px    .9px  0 hsla(0, 0%, 0%, .3),\n       1.5px   2.6px  0 hsla(0, 0%, 0%, .3);\n     text-transform: uppercase;\n}\n .disruptionHeader a:hover{\n     text-decoration: none;\n}\n[[/module]]\n\n[[table class=\"itemInfo\"]]\n  [[row]]\n    [[cell class=\"alignL\"]]\n      [[span style=\"font-weight: 900;\"]]일련번호:[[/span]]@@ @@SCP-{$item}\n    [[/cell]]\n    [[cell class=\"alignR\"]]\n      [[span style=\"font-weight: 900;\"]]LEVEL {$level}/{$item}[[/span]]\n    [[/cell]]\n  [[/row]]\n  [[row]]\n    [[cell class=\"alignL\"]]\n      [[span style=\"font-weight: 900;\"]]격리 등급:[[/span]]@@ @@{$containment}\n    [[/cell]]\n    [[cell class=\"alignR\"]]\n      [[span style=\"font-weight: 900;\"]]{$security}[[/span]]\n    [[/cell]]\n  [[/row]]\n[[/table]]\n\n[[a href=\"*/anomaly-classification-system-guide\"]]\n[[span_ class=\"disruptionHeader\" style=\"background-color: {$disruption-bg-color};\"]]\n[[span style=\"font-weight: 900;\"]]혼란 등급:[[/span]]@@ @@{$disruption}\n[[/span]]\n[[/a]]",
+  "tags": [
+    "en",
+    "구성요소-백엔드"
+  ],
+  "author": "Denevola",
+  "created_at": "2021-02-28T11:33:18+00:00",
+  "updated_at": "2021-08-26T12:33:42+00:00",
+  "rating": 0,
+  "_site": "scpko",
+  "_fullname": "component:flops-header-source"
+}

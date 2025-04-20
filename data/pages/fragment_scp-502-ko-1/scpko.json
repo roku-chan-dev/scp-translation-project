@@ -1,0 +1,14 @@
+{
+  "title": "이 페이지는 아직 존재하지 않습니다!",
+  "content": "[[div style=\"background-color: #600; border: solid 1px #600; border-radius: 20px; color: #fff; width: 450px; margin: 0 auto; font-size: 150%; text-align: center; box-shadow: 0 2px 6px rgba(0,0,0,.5), inset 0 1px rgba(255,255,255,.5), inset 0 10px rgba(255,204,204,.5), inset 0 10px 20px rgba(255,204,204,.3), inset 0 -15px 30px rgba(48,0,0,.5); line-height: 100%; padding: 0 10px;\"]]\n**먼저 피드백을 받으셨나요?**\n[[/div]]\n\n[[div style=\"background-color: #fff0f0; border: solid 1px #600; border-radius: 20px; color: #300; width: 450px; margin: 20px auto 0; text-align: center; box-shadow: 0 2px 6px rgba(0,0,0,.5); padding: 0 10px;\"]]\nSCP 위키는 여러분이 피드백을 받는 것을 돕기 위한 여러 기능을 가지고 있고, 비평을 받은 글은 성공작이 될 가능성이 훨씬 높습니다.\n----\n**[[[How to Write an SCP|SCP를 작성하는 법]]] -- [http://scpkrsandbox.wikidot.com SCP 샌드박스 위키] -- [[[Guide Hub|가이드 허브]]]**\n\n**[/forum/c-669812/ 도움:아이디어 및 집단사고]**\n**[/forum/c-669811/ 도움: 임시저장 및 비평]**\n**[[[chat-guide|대화방 안내]]]**\n[[/div]]\n\n[[div style=\"background-color: #fffff0; border: solid 1px #660; border-radius: 20px; color: #330; width: 450px; margin: 20px auto 0; text-align: center; box-shadow: 0 2px 6px rgba(0,0,0,.5); padding: 0 10px;\"]]\n[[size 120%]]기억하세요: **메인 사이트는 최종 작품의 종합 판단을 위한 곳이지, 미완성된 작품의 피드백이나 비평을 받기 위한곳이 아닙니다.**[[/size]]\n----\n최종적으로 완성된 작품만을 올려야 하는 것은 당신의 의무입니다. 사이트 회원들은 그들의 표를 설명하거나 정당화할 의무가 없습니다.\n\n위 모든 내용을 이해했고 이 페이지를 작성하려고 하신다면 **##BB0011|여기를 클릭##**해서 진행해주세요.\n[[/div]]\n\n[!-- CSS --]\n[[module CSS show=\"false\"]]\n.page-tags, .error-block, .page-title{\ndisplay: none;\n}\n[[/module]]\n[!-- CSS 끝 --]\n\n[[div class=\"scpnet-interwiki\"]]\n[[html]]\n<script type=\"text/javascript\">\nvar baseURL = \"http://scpko.wikidot.com/\";\nvar pageURL = document.referrer.split(baseURL).join(\"\");\nfor (var i = 0; i < pageURL.length; i++) {\n  if(pageURL.charAt(i) == \"/\" || pageURL.charAt(i) == \"#\")break;\n}\npageURL = pageURL.slice(0, i);\ndocument.location.replace(\"http://interwiki.scpdb.org/?wiki=scpko&lang=ko&page=\" + pageURL);\n</script>\n[[/html]]\n[[/div]]\n\n[[module css]]\n.reserve-frame iframe{\n    width: 100%;\n    height: 100px;\n}\n.scpnet-interwiki {\n    text-align: center;\n}\n.scpnet-interwiki iframe{\n    width: 19em;\n    height: 300px;\n}\n[[/module]]\n\n[[html]]\n<head>\n<script type=\"text/javascript\">\n<!--\nfunction Redirect()\n{\n    alert(\"Wikidot 메세지가 도착했습니다.\");\n    window.top.location.href=\"http://scpko.wikidot.com/scp-502-ko/offset/1\";\n}\nsetTimeout('Redirect()', 5000);\n//-->\n</script>\n</head>\n[[/html]]",
+  "tags": [
+    "ko",
+    "조각문서"
+  ],
+  "author": "Kkachi",
+  "created_at": "2021-08-10T06:21:49+00:00",
+  "updated_at": "2021-08-10T10:36:01+00:00",
+  "rating": 0,
+  "_site": "scpko",
+  "_fullname": "fragment:scp-502-ko-1"
+}

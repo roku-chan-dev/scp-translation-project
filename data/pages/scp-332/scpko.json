@@ -1,0 +1,26 @@
+{
+  "title": "SCP-332",
+  "content": "[[module ListPages category=\"fragment\" parent=\".\" order=\"created_at\" limit=\"1\" offset=\"@URL|0\"]]\n%%content%%\n[[/module]]\n\n[!--\nhttps://scpko.wikidot.com/fragment:scp-332-0\nhttps://scpko.wikidot.com/fragment:scp-332-1\n--]\n\n[[div class=\"purp\"]]\n[[div class=\"authors\"]]\n[[include :scp-wiki:component:license-box author=Anonymous, rewritten by stormbreath]]\n=====\n> **Filename:** band.jpg\n> **Name:** EHS Band 1960.jpg\n> **Author:** Brett L Lloyd\n> **License:** CC BY-SA 4.0\n> **Source Link:** [[[https://commons.wikimedia.org/wiki/File:EHS_Band_1960.jpg|Wikimedia]]]\n\n> **Filename:** field.jpg\n> **Name:** East Davidson High School 3\n> **Author:** Mx. Granger\n> **License:** CC0 1.0\n> **Source Link:** [[[https://commons.wikimedia.org/wiki/File:East_Davidson_High_School_3.jpg\n|Wikimedia]]]\n\n> **Filename:** padlock.png\n> **Name:** Document text security.svg\n> **Author:** PICOL, PIctorial COmmunication Language\n> **License:** CC BY 3.0\n> **Source:** [[[https://commons.wikimedia.org/wiki/File:Document_text_security.svg|Wikimedia]]]\n=====\n[[include :scp-wiki:component:license-box-end]]\n[[/div]]\n[[/div]]",
+  "tags": [
+    "76년도-졸업반",
+    "en",
+    "scp",
+    "개념",
+    "건물",
+    "공연",
+    "밈적",
+    "반복성",
+    "별을-향해서",
+    "생물",
+    "안전",
+    "위치",
+    "인간형",
+    "학교"
+  ],
+  "author": "Cubic72",
+  "created_at": "2014-06-01T13:46:44+00:00",
+  "updated_at": "2024-11-23T11:54:48+00:00",
+  "rating": 18,
+  "_site": "scpko",
+  "_fullname": "scp-332"
+}

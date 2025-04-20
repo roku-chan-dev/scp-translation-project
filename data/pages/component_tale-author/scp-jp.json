@@ -1,0 +1,14 @@
+{
+  "title": "管理ページ",
+  "content": "[[module CSS]]\n[style=\"font-size:125%\"] > .error-inline {border: none;color: #333;font-size: 0;}[style=\"font-size:125%\"] > .error-inline > em {font-size: 1rem;font-style: normal;font-weight: bold;}\n[[/module]]\n\n[[table style=\"width: 100%;margin-top:1.2em\"]]\n[[row]][[hcell style=\"font-size:125%\" colspan=\"2\"]][[*user {$user}]][[/hcell]][[/row]]\n[[#if {$overview} |   | [!-- ]][[row class=\"rowt\"]][[cell class=\"celt\"]]タイトル[[/cell]][[cell class=\"celd\"]]概要[[/cell]][[/row]][[#if {$overview} |   | --] ]]\n[[#if {$overview} | [!-- |   ]][[row class=\"rowt\"]][[cell class=\"celt\" colspan=\"2\"]]タイトル[[/cell]][[/row]][[#if {$overview} | --] |   ]]\n[[/table]]",
+  "tags": [
+    "jp",
+    "管理"
+  ],
+  "author": "Nanimono Demonai",
+  "created_at": "2016-07-17T19:12:26+00:00",
+  "updated_at": "2021-05-01T09:01:30+00:00",
+  "rating": 9,
+  "_site": "scp-jp",
+  "_fullname": "component:tale-author"
+}

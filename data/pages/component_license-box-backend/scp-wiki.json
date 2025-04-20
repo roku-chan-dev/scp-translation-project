@@ -1,0 +1,13 @@
+{
+  "title": "License Box Backend",
+  "content": "[[div class=\"licensebox\"]]\n[[collapsible show=\"‡ Licensing / Citation\" hide=\"‡ Hide Licensing / Citation\"]]\nCite this page as:\n[[module listpages range=\".\"]]\n> \"%%title_linked%%\" by {$author}, from the [https://scpwiki.com SCP Wiki]. Source: https://scpwiki.com/%%fullname%%. Licensed under [https://creativecommons.org/licenses/by-sa/3.0/ CC-BY-SA].\n[[/module]]\nFor information on how to use this component, see the [[[component:license-box|License Box component]]]. To read about licensing policy, see the [[[Licensing Guide]]].",
+  "tags": [
+    "component-backend"
+  ],
+  "author": "CityToast",
+  "created_at": "2020-07-27T19:09:39+00:00",
+  "updated_at": "2024-01-27T23:34:45+00:00",
+  "rating": 6,
+  "_site": "scp-wiki",
+  "_fullname": "component:license-box-backend"
+}

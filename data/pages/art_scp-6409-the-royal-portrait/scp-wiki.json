@@ -1,0 +1,17 @@
+{
+  "title": "SCP-6409-A: The Royal Portrait",
+  "content": "[[>]]\n[[module Rate]]\n[[/>]]\n\nThis piece of artwork has been authorized to remain within the containment chamber of SCP-6409, where it hangs prominently on display.\n\n-----\n\n[[include component:image-block | name= 6409-A%20portrait.jpg | caption= The Royal Portrait of SCP-6409-A, painted by SCP-6409-B. | align= center]]\n\n-----\n[[=]]\n*** * ***\n[[/=]]\n-----\n\n\n\n\n[[include :scp-wiki:component:license-box]]\n=====\n> **Filename:** 6409-A portrait.jpg\n> **Author:** [[*user Boogey_Man23]]\n> **License:** CC BY-SA 3.0\n> **Source Link:** [[[https://scp-wiki.wdfiles.com/local--files/art:scp-6409-the-royal-portrait/6409-A%20portrait.jpg|Link]]]\n=====\n[[include :scp-wiki:component:license-box-end]]",
+  "tags": [
+    "_cc",
+    "_licensebox",
+    "artwork",
+    "painted",
+    "scp-art"
+  ],
+  "author": "Boogey_Man23",
+  "created_at": "2022-04-21T10:03:12+00:00",
+  "updated_at": "2024-03-28T18:40:12+00:00",
+  "rating": 16,
+  "_site": "scp-wiki",
+  "_fullname": "art:scp-6409-the-royal-portrait"
+}

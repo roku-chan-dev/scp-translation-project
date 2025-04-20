@@ -1,0 +1,14 @@
+{
+  "title": "SCP 캘린더",
+  "content": "[[>]]\n[[module Rate]]\n[[/>]]\n\n> 안녕하세요! 여기는 모든 SCP 항목을 연도별 및 월별 생성으로 나열한 목록입니다. 바라건대, 이 놀랍고 흥미진진한 목록은 어떻게 SCP 시리즈가 시간이 지나면서 발전해가는지 볼 수 있습니다! -- 로제\n\n[[module PageCalendar category=\"_default\" tags=\"+scp, -이야기\"]]\n[[module ListPages category=\"_default\" tags=\"+scp, -이야기\" perPage=\"100\" date=\"@URL\" separate=\"false\" prependLine=\"||~ 페이지||~ 생성 날짜||~ 작성자 ||~ 태그 ||\"]]\n|| %%linked_title%% || %%date%% || %%author%% || %%tags%% ||\n[[/module]]",
+  "tags": [
+    "en",
+    "관리"
+  ],
+  "author": "Dr Devan",
+  "created_at": "2014-12-13T15:49:25+00:00",
+  "updated_at": "2021-12-05T09:27:40+00:00",
+  "rating": 4,
+  "_site": "scpko",
+  "_fullname": "scp-calendar"
+}

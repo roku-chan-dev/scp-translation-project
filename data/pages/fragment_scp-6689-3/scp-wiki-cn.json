@@ -1,0 +1,13 @@
+{
+  "title": "SCP-6689-3",
+  "content": "[[include :scp-wiki-cn:theme:basalt hidetitle=a]]\n\n[[div class=\"notation\"]]\n> + 迷宫形式：\n\n> * **单径式——蜿蜒道路**\n> * __[[[https://scp-wiki-cn.wikidot.com/scp-6689/offset/1|多径式——交错道路]]]__\n> * __[[[https://scp-wiki-cn.wikidot.com/scp-6689/offset/3|根茎式——网络道路]]]__\n-----\n\n[[include :scp-wiki:component:image-block\n| name=http://scpdsandbox.wdfiles.com/local--files/collab%3Adodo-maze/UniPath.gif\n|align=left\n| caption=迷宫观测者视角下通过单径式迷宫的视觉呈现。]]\n\n单径式迷宫是最简单的迷宫形式，可被设想为一条蜿蜒的道路。此类迷宫禁止分支和交叉，因此限制了走迷宫者的寻路选择。然而，这名个体仍具有能动性，可根据自身的意愿决定是否继续沿这条路径前行、转身，或停止在空间内移动。\n\n此类迷宫需要寻路者信任其设计：他们无法自行决定路径，只能决定是否跟随眼前的路前行。\n\n尽管简洁，这仍可为漫游者提供迷失方向的感受，因为他们可能无法清晰地认知到自己在与迷宫的入口、出口或各个部分之间的整体关系中位于何处。\n[[>]]\nAdamore博士，Site-184，\n应用形上学部。\n[[/>]]\n[[/div]]",
+  "tags": [
+    "段落"
+  ],
+  "author": "Esperanza_Cai",
+  "created_at": "2022-04-06T12:19:31+00:00",
+  "updated_at": "2022-04-06T12:19:59+00:00",
+  "rating": 0,
+  "_site": "scp-wiki-cn",
+  "_fullname": "fragment:scp-6689-3"
+}

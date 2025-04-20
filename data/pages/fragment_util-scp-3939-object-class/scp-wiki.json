@@ -1,0 +1,13 @@
+{
+  "title": "fragment:util-scp-3939-object-class",
+  "content": "[[include :scp-wiki:component:listusers-1 users=\".\"]]\n**Object Class:** [[span style=\"font-family: 'Andale Mono', 'Courier New', Courier, monospace; border: thin solid #0002; background-color: #0001; border-radius: 2px; text-transform: uppercase; padding-inline: 0.3ch;\"]]\\\n[[#ifexpr (%%number%% + 0) % 8==0 | Aleph | ]]\\\n[[#ifexpr (%%number%% + 1) % 8==0 | Beta | ]]\\\n[[#ifexpr (%%number%% + 2) % 8==0 | Gamma | ]]\\\n[[#ifexpr (%%number%% + 3) % 8==0 | Null | ]]\\\n[[#ifexpr (%%number%% + 4) % 8==0 | Zephyr | ]]\\\n[[#ifexpr (%%number%% + 5) % 8==0 | Euclid | ]]\\\n[[#ifexpr (%%number%% + 6) % 8==0 | Esoteric | ]]\\\n[[#ifexpr (%%number%% + 7) % 8==0 | Junk | ]]\\\n-[[span style=\"display: inline-flex; max-width: 5ch; text-wrap: nowrap; overflow-x: hidden; justify-content: end;\"]]%%name%%[[/span]]-[[#expr %%number%% % 100]][[/span]]\n[[include :scp-wiki:component:listusers-2]]\n[!-- no object class --]\n[[include :scp-wiki:component:listusers-3]]",
+  "tags": [
+    "fragment"
+  ],
+  "author": "Croquembouche",
+  "created_at": "2024-12-09T22:12:17+00:00",
+  "updated_at": "2024-12-09T23:45:35+00:00",
+  "rating": 0,
+  "_site": "scp-wiki",
+  "_fullname": "fragment:util-scp-3939-object-class"
+}

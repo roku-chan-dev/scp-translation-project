@@ -1,0 +1,14 @@
+{
+  "title": "cb:틀:SCP 정보상자",
+  "content": "[[table class=\"infobox\"]]\n[[row]]\n[[hcell class=\"infobox2\" colspan=\"2\" style=\"margin:0; font-size:120%; padding: 0.5em; line-height: 1.75em;\"]]\n[[div style=\"float:right; padding-bottom:.15em; padding-right:.15em;\" class=\"scp-list\"]]\n[[a href=\"/cb:list-of-scps\" title=\"SCP 목록\"]][[image https://gamepedia.cursecdn.com/scpcb_gamepedia/thumb/9/9d/Portal.png/20px-Portal.png alt=\"Portal.png\" width=\"20\" height=\"20\"]][[/a]]\n[[/div]]\n[[div style=\"margin: 0;\"]]\n{$name}\n[[/div]]\n[[/hcell]]\n[[/row]]\n[[row]]\n[[cell colspan=\"2\" style=\"padding:0.5em; text-align:center;\"]] [[image {$image} alt=\"{$image}\" style=\"width:{$imagewidth}; height:auto;\"]] [[/cell]]\n[[/row]]\n[[row]]\n[[hcell class=\"infobox2\" colspan=\"2\"]] 정보 [[/hcell]]\n[[/row]]\n[[row]]\n[[cell style=\"width:30%;\"]] **등급**[[/cell]]\n[[cell style=\"width:70%;\"]] {$class} [[/cell]]\n[[/row]]\n[[row]]\n[[cell style=\"width:30%;\"]] **움직이는가?**[[/cell]]\n[[cell style=\"width:70%;\"]] {$animate} [[/cell]]\n[[/row]]\n[[row]]\n[[cell]] **위험한가?** [[/cell]]\n[[cell]] {$harmful} [[/cell]]\n[[/row]]\n[[row]]\n[[cell]] **SCP 링크** [[/cell]]\n[[cell]] [[a href=\"/{$scplink}\" title=\"{&name}\"]]{$name}[[/a]] [[/cell]]\n[[/row]]\n[[row]]\n[[hcell class=\"infobox2\" colspan=\"2\" style=\"font-size:120%; padding:0.5em;\"]] **[[a href=\"/{$containment}\" title=\"격리구역\"]]격리실[[/a]]**[[/hcell]]\n[[/row]]\n[[/table]]",
+  "tags": [
+    "cb",
+    "템플릿"
+  ],
+  "author": "Dr Devan",
+  "created_at": "2015-01-05T03:11:47+00:00",
+  "updated_at": "2020-01-04T10:54:08+00:00",
+  "rating": 0,
+  "_site": "scpko",
+  "_fullname": "cb:template:scp-infobox"
+}

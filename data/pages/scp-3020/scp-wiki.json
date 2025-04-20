@@ -1,0 +1,21 @@
+{
+  "title": "SCP-3020",
+  "content": "[[>]]\n[[module Rate]]\n[[/>]]\n\n[[module ListPages category=\"fragment\" parent=\".\" limit=\"1\" order=\"created_at\" offset=\"@URL|0\"]]\n%%content%%\n[[/module]]\n\n[!--\nHey future translators (and my future self)! Use these links to get to the source pages if you need them copied. Translators, do them in the order posted below, or there will be confusion.\n\nhttp://scp-wiki.wikidot.com/fragment:scp-3020-1\nhttp://scp-wiki.wikidot.com/fragment:scp-3020-2\nhttp://scp-wiki.wikidot.com/fragment:scp-3020-3\nhttp://scp-wiki.wikidot.com/fragment:scp-3020-4\nhttp://scp-wiki.wikidot.com/fragment:scp-3020-5\nhttp://scp-wiki.wikidot.com/fragment:scp-3020-6\n--]\n\n[[footnoteblock]]\n\n[[div class=\"footer-wikiwalk-nav\"]]\n[[=]]\n<< [[[SCP-3019]]] | SCP-3020 | [[[SCP-3021]]] >>\n[[/=]]\n[[/div]]\n\n[[include :scp-wiki:component:license-box]]\n=====\n\n=====\n[[include :scp-wiki:component:license-box-end]]",
+  "tags": [
+    "3000",
+    "_licensebox",
+    "_listpages",
+    "keter",
+    "meta",
+    "microscopic",
+    "neurological",
+    "scp",
+    "virus"
+  ],
+  "author": null,
+  "created_at": "2017-03-24T04:12:54+00:00",
+  "updated_at": "2021-07-31T17:36:04+00:00",
+  "rating": 499,
+  "_site": "scp-wiki",
+  "_fullname": "scp-3020"
+}

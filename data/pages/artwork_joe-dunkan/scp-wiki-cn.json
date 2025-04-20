@@ -1,0 +1,14 @@
+{
+  "title": "Джо Дункан的图画册",
+  "content": "[[include component:toggle-sidebar]]\n[[module CSS]]\n#header {\n    background: url(https://scp-ru.wdfiles.com/local--files/artwork%3Arussian-art-hub/scp-art-hub.png) 10px 40px no-repeat;\n    background-size: 100px;\n}\n \n.ez-gallery {\n    display: flex;\n    flex-wrap: wrap;\n    padding: 0 4px;\n    margin: 1em;\n    justify-content: space-evenly;\n}\n \n.ez-gallery > div {\n    margin-top: auto;\n    margin-bottom: auto;\n}\n \n#main-content {\n    max-width: 90% !important;\n}\n \n.scp-image-block {\n    margin-left: auto !important;\n    margin-right: auto !important;\n}\n \n#header h1 a::before {\n    content: 'SCP-RU艺作中心';\n    color: white;\n    text-shadow: 1px 1px 0px black;\n}\n \n#header h1 a span{\n    display: block;\n    content: \"\";\n    visibility: hidden;\n}\n \n#header h2 {\n    margin-left: 120px;\n    padding: 0;\n    clear: left;\n    float: left;\n    font-size: 105%;\n    max-height: 38px;\n}\n \n#header h2 span {\n    display: block;\n    margin: 0;\n    padding: 19px 0;\n    line-height: 0px;\n    max-height: 0px;\n    font-weight: bold;\n    color: transparent;\n    text-shadow: none;\n}\n \n#header h2 span::before {\n    content: 'Джо Дункан的图画册';\n    color: #f0f0c0;\n    text-shadow: 1px 1px 1px rgba(0,0,0,.8);\n}\n[[/module]]\n\n[[div class=\"ez-gallery\"]]\n\n[[div]]\n[[include :scp-sandbox-3:image-zoom name=http://scpfoundation.net/local--files/artwork%3Ajoe-dunkan/1311-ru.jpg |caption=SCP-1311-RU|width=400px]]\n[[/div]]\n\n[[div]]\n[[include :scp-sandbox-3:image-zoom name=http://scpfoundation.net/local--files/artwork%3Ajoe-dunkan/1121-ru.jpg |caption=SCP-1121-RU|width=400px]]\n[[/div]]\n\n[[div]]\n[[include :scp-sandbox-3:image-zoom name=http://scpfoundation.net/local--files/artwork%3Ajoe-dunkan/1168-ru.jpg |caption=SCP-1168-RU|width=400px]]\n[[/div]]\n\n[[div]]\n[[include :scp-sandbox-3:image-zoom name=http://scpfoundation.net/local--files/artwork%3Ajoe-dunkan/1213-ru.jpg|caption=SCP-1213-RU|width=400px]]\n[[/div]]\n\n[[div]]\n[[include :scp-sandbox-3:image-zoom name=http://scpfoundation.net/local--files/artwork%3Ajoe-dunkan/1121-ru-1.jpg |caption=SCP-1121-RU|width=400px]]\n[[/div]]\n\n[[/div]]\n\n[[div]]\n[[include :scp-sandbox-3:image-zoom name=http://scpfoundation.net/local--files/artwork%3Ajoe-dunkan/1338-ru.jpg |caption=SCP-1338-RU (艺作大赛2)[[footnote]]**译注：**图中文本及译文如下：“Объявите тревогу!У нас прорыв,объект покинул камеру.（去拉警报！我们这出现了一次收容失效，项目已离开收容室。）” “Ничего если я уберу с вашего стола?（要我帮您收拾下桌子吗？）” “Ох,изините,я не хотела вас беспокоить.（哦，对不起，我不是故意要打扰你的。）” “Сэр,Вы забыли сваю сумку.（先生，您的包没拿。）”[[/footnote]]|width=400px|align=centre]]\n[[/div]]",
+  "tags": [
+    "ru",
+    "艺术作品"
+  ],
+  "author": "Fallingdirt",
+  "created_at": "2025-03-14T12:49:16+00:00",
+  "updated_at": "2025-03-14T12:53:10+00:00",
+  "rating": 6,
+  "_site": "scp-wiki-cn",
+  "_fullname": "artwork:joe-dunkan"
+}

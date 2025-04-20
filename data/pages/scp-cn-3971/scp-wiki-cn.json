@@ -1,0 +1,16 @@
+{
+  "title": "SCP-CN-3971",
+  "content": "[[>]]\n[[module Rate]]\n[[/>]]\n=====\n\n[[div class=\"preview\"]]\n为什么它会鞭笞地球？\n[[/div]]\n[[module CSS]]\ndiv.preview { display: none; }\n[[/module]]\n\n=====\n[[include component:image-block name=http://scpsandboxcn.wikidot.com/local--files/okmyboys:secret/%E9%98%B4%E9%97%B4%E7%AB%A0%E9%B1%BC|caption=目前唯一拍摄到的SCP-CN-3971]]\n**项目编号：**SCP-CN-3971\n\n**项目等级：**Ticonderoga\n\n**特殊收容措施：**项目无法被收容。在世界范围内散播模因病毒，使人类个体在观测SCP-CN-3971所引发的现象时对其认知为一种带有强光，高压电和巨声的等离子效应——散播强光认知模因的目的是掩盖SCP-CN-3971的真实样貌；散播高压电和巨声认知模因的目的是使人类个体自发远离SCP-CN-3971。\n\n**描述：**SCP-CN-3971是一类在5km至100km高空中的未知生物，目前除对该类生物的触手器官的观测外，其余部位的观测均以失败告终。该类生物会使用触手器官对地表进行速度极快的鞭笞，鞭笞的速度范围在光速的1/2000到1/2，鞭笞点的最近距离声音可达120分贝。SCP-CN-3971会优先选择尽可能离它最近的区域进行鞭笞。在干旱天气，被鞭笞过的地带有较大几率起火。\n\n每年，SCP-CN-3971的触手器官会鞭笞地球约14亿次。尚不明确SCP-CN-3971这样做是否存在原因。",
+  "tags": [
+    "2024新秀竞赛",
+    "scp",
+    "ticonderoga",
+    "原创"
+  ],
+  "author": "ZENZENZEN",
+  "created_at": "2024-10-01T04:29:03+00:00",
+  "updated_at": "2024-10-01T04:48:40+00:00",
+  "rating": 36,
+  "_site": "scp-wiki-cn",
+  "_fullname": "scp-cn-3971"
+}

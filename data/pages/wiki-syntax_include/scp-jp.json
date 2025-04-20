@@ -1,0 +1,14 @@
+{
+  "title": "他のページを埋め込む",
+  "content": "もし他のページのコンテンツを自分のページに埋め込みたい場合は下記の構文を使用してください。\n[[code]][[include ページ名]]\n[[/code]]\n\nもしくは\n\n[[code]][[include :サイト名:ページ名]]\n[[/code]]\n\n//include// タグを使用する場合はこれのみが書かれた単独の行を作る必要があります。  @@[[include]]@@タグはコードブロック内においてもソースの解析がされます[[footnote]] 例えば下記は以下の構文を用いたものです\n> @@[[code]]@@\n> @@[[include :snippets:mp3@@\n> @@|URL=http://pds25.egloos.com/pds/201210/15/56/devanfull.mp3]]@@\n> @@[[/code]]@@\nこの場合で、埋め込まれたページはコードブロック内で解析され、以下のように表示されます。\n[[code]]\n[[include :snippets:mp3\n|URL=http://pds25.egloos.com/pds/201210/15/56/devanfull.mp3]]\n[[/code]] \n[[/footnote]]。@@[[include]]@@タグが解析されないようにするには、タグの前にスペースを入れます[[footnote]] \nこのページでは下記のように@@[[inculude]]@@タグの前にコードブロックタグの始まりを入れる事によって構文解析がされるのを防いでいます。\n> @@[[code]][[include :サイト名:ページ名]]@@\n> @@[[/code]]@@\n [[/footnote]]。これは@@[[include]]@@タグを含むサンプルコードをコピーもしくは貼りつけ際の注意点になります。\n\nサイト名にはWikidotのサブドメイン(例えば :www)もしくはカスタムドメインを含むフルネームを使用する事ができます。\n\n{{[[include]]}}タグは呼び出されたソース内でパラメータと置換される変数を使用する事ができます。呼び出し元ページにおいて変数を設定する構文は下記のものになります。\n\n[[code]]\n{$var1}, {$number_books}, {$title}, {$variable_name}, {$variableName}\n[[/code]]\n\n上記の変数に値を入れる場合は呼び出し先で下記の様に記述します。\n\n[[code]]\n [[include pagename var1=value1 | \nnumber_books = 43 | \ntitle=Best Wiki Ever | \nvariable_name = just a variable | \nvariableName = another variable ]]\n[[/code]]\n\n上記の様に、変数定義を複数の行に分けて行うと見やすいコードを作る事ができます。\n\n**注意点: 画像ファイルの呼び込みについて**: {{[[include]]}}タグは指定された場所にソースコードを挿入する動作のみを行います。もし呼び出し元ページに画像ファイルが添付され、なおかつその画像を@@[[image filename.jpg]]@@として参照したい場合は呼び出し元ページにおいて画像ファイルのソースコードにページ名を記述してください。 例えば @@[[image @@**included-page/**filename.jpg]]という形式です。",
+  "tags": [
+    "jp",
+    "リファレンス"
+  ],
+  "author": "C-take",
+  "created_at": "2018-04-09T12:40:35+00:00",
+  "updated_at": "2023-01-13T12:08:36+00:00",
+  "rating": 11,
+  "_site": "scp-jp",
+  "_fullname": "wiki-syntax:include"
+}

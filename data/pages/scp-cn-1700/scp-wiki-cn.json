@@ -1,0 +1,20 @@
+{
+  "title": "SCP-CN-1700",
+  "content": "[[>]]\n[[module rate]]\n[[/>]]\n\n[[module ListPages category=\"fragment\" parent=\".\" limit=\"1\" order=\"name\" offset=\"@URL|0\"]]\n\n%%content%%\n[[/module]]\n[[module css]]\n.footnotes-footer {\n    visibility: hidden;\n    height: 0;\n    padding: 0;\n    margin: 0;\n}\n[[/module]]\n\n[[footnoteblock]]\n@@@@\n[[div class=\"footer-wikiwalk-nav\"]]\n[[=]]\n<< [[[SCP-CN-1699]]] | SCP-CN-1700 | [[[SCP-CN-1701]]] >>\n[[/=]]\n[[/div]]",
+  "tags": [
+    "euclid",
+    "meta",
+    "scp",
+    "信息危害",
+    "原创",
+    "听觉影响",
+    "文件",
+    "鸟类"
+  ],
+  "author": null,
+  "created_at": "2018-12-28T03:43:27+00:00",
+  "updated_at": "2019-09-11T03:43:27+00:00",
+  "rating": 100,
+  "_site": "scp-wiki-cn",
+  "_fullname": "scp-cn-1700"
+}

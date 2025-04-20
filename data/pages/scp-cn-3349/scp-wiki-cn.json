@@ -1,0 +1,15 @@
+{
+  "title": "SCP-CN-3349",
+  "content": "=====\n\n[[div class=\"preview\"]]\n我好困。\n[[/div]]\n[[module CSS]]\ndiv.preview { display: none; }\n[[/module]]\n\n=====\n[[>]]\n[[module Rate]]\n[[/>]]\n**项目编号：**SCP-CN-3349\n\n**项目等级：**Da'aS Elyon\n\n**特殊收容措施：**无\n\n**描述：**SCP-CN-3349指代在距今约4000年前，智人被[不明实体称谓]强制赋予的睡眠需求。\n\n即是说，在此前的约250000年内，该种族在[不明概念称谓]中拥有绝对的优势。\n\n鉴于现状，无需采取其他措施。\n@@ @@\n@@ @@\n@@ @@\n[[div class=\"footer-wikiwalk-nav\"]]\n[[=]]\n<< [[[SCP-CN-3348]]] | SCP-CN-3349 | [[[SCP-CN-3350]]] >>\n[[/=]]\n[[/div]]",
+  "tags": [
+    "scp",
+    "原创",
+    "机密分级"
+  ],
+  "author": "MentalImageryMirage",
+  "created_at": "2024-04-29T16:10:06+00:00",
+  "updated_at": "2025-01-02T17:26:09+00:00",
+  "rating": 19,
+  "_site": "scp-wiki-cn",
+  "_fullname": "scp-cn-3349"
+}

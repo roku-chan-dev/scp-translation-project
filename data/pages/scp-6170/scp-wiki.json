@@ -1,0 +1,29 @@
+{
+  "title": "SCP-6170",
+  "content": "[[>]]\n[[module Rate]]\n[[/>]]\n[[include :scp-wiki:component:author-label-source start=--\n|name=Cole 13 and TopDownUnder\n|no-right-margin=*]]\n[[[cole-13-s-writing-hut| More by Cole 13]]]\n\n[[[top| More by TopDownUnder]]]\n[[include :scp-wiki:component:author-label-source end=--]]\n\n[[module ListPages  category=\"fragment\" parent=\".\" limit=\"1\" order=\"created_at\" offset=\"@URL|0\"]]\n%%content%%\n[[/module]]\n\n[!-- https://scp-wiki.wikidot.com/fragment:scp-6170-1 --]\n[!-- https://scp-wiki.wikidot.com/fragment:scp-6170-2 --]\n[!-- https://scp-wiki.wikidot.com/fragment:scp-6170-3 --]\n\n[[footnoteblock]]\n\n[[div class=\"footer-wikiwalk-nav\"]]\n[[=]]\n<< [[[SCP-6169]]] | SCP-6170 | [[[SCP-6171]]] >>\n[[/=]]\n[[/div]]\n\n[[include :scp-wiki:component:license-box\n|author=TopDownUnder and Cole 13]]\n=====\n> **Filename:** bright.jpg\n> **Name:** Straitjacketed\n> **Author:** edenpictures\n> **License:** CC BY 2.0\n> **Source Link:** https://www.flickr.com/photos/10485077@N06/6854411127\n\n> **Filename:** tree.jpg\n> **Name:** Old Tree, Clifton Park,Rotherham\n> **Author:** Paige...\n> **License:** CC BY 2.0\n> **Source Link:** https://www.flickr.com/photos/61546670@N02/7338790090\n\n> **Filename:** group.jpg\n> **Name:** Lion Country Safari, Irvine, 1971\n> **Author:** Orange County Archives\n> **License:** CC BY 2.0\n> **Source Link:** https://www.flickr.com/photos/30346812@N07/2882956256\n\n> **Filename:** yellowstone.jpg\n> **Name:** Payún Volcanic Field\n> **Author:** NASA Goddard Photo and Video\n> **License:** CC BY 2.0\n> **Source Link:** https://www.flickr.com/photos/24662369@N07/8347075230\n\n> **Filename:** yellowstone.jpg\n> **Name:** Payún Volcanic Field\n> **Author:** NASA Goddard Photo and Video\n> **License:** CC BY 2.0\n> **Source Link:** https://www.flickr.com/photos/24662369@N07/8347075230\n\n> **Filename:** gorilla.jpg\n> **Name:** Gorilla\n> **Author:** Roger Luijten\n> **License:** CC BY 2.0\n> **Source Link:** https://www.flickr.com/photos/66555186@N02/6312198231\n\n> **Filename:** ATTISR.jpg\n> **Author:** [[*user Cole 13]]\n> **License:** CC BY 2.0\n> **Source Link:** http://scpdsandbox.wdfiles.com/local--files/collab%3Acole13topmeme/ATTISR.png\n=====\n[[include :scp-wiki:component:license-box-end]]",
+  "tags": [
+    "_cc",
+    "_licensebox",
+    "_listpages",
+    "animal",
+    "biological",
+    "cadaver",
+    "co-authored",
+    "doctor-bright",
+    "doctor-thereven",
+    "esoteric-class",
+    "global-occult-coalition",
+    "memecon2021-unofficial",
+    "primate",
+    "rats-nest",
+    "reanimation",
+    "scp",
+    "silicon-nornir"
+  ],
+  "author": "Cole 13",
+  "created_at": "2021-07-10T02:35:17+00:00",
+  "updated_at": "2022-10-08T19:21:40+00:00",
+  "rating": 87,
+  "_site": "scp-wiki",
+  "_fullname": "scp-6170"
+}

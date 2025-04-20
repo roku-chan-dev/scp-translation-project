@@ -1,0 +1,18 @@
+{
+  "title": "SCP-8866",
+  "content": "[[include :scp-jp:credit:start-preview]]\n**タイトル:** SCP-8866 - 地元食材\n**翻訳責任者:** [[*user C-Dives]]\n**翻訳年:** 2024\n**著作権者:** [[*user Penton]]\n**原題:** SCP-8866 - Locally Sourced\n**作成年:** 2024\n**初訳時参照リビジョン:** 10\n**元記事リンク:** [[[*https://scp-wiki.wikidot.com/scp-8866|ソース]]]\n[[include :scp-jp:credit:end-preview]]\n\n**アイテム番号:** SCP-8866\n\n[[include component:image-block\nname=http://scp-jp-storage.wikidot.com/local--files/file:2375337-1064-jy41/Couteau-econome.jpg|\ncaption= SCP-8866|width=260px]]\n\n**オブジェクトクラス:** Safe\n\n**特別収容プロトコル:** 使用していない時、SCP-8866はサイト-73の収容ロッカーに保管されます。\n\n**説明:** SCP-8866は標準的な野菜用ピーラーです。\n\nSCP-8866を生体に対して、野菜の皮を剥くのと同じ要領で使用すると、ピーラーから排出される物質は一般的な野菜の一部に変換されます (ジャガイモ、ニンジン、カブなど) 。SCP-8866はあらゆる身体部位に対して使用可能であると確認されており、対象生物の全身を植物質に還元できます[[footnote]]理論上。[[/footnote]]。剥離後の植物質には異常性が無く、安全に消費できます。\n\n時折、SCP-8866の異常性に曝露した生物の身体的特徴が、生成される野菜の品質を左右することがあります。例として、高齢の被験者は常に、食用に適しながらも、若年成人と比較してかなり古い野菜の皮を産出します。\n\n**補遺:** SCP-8866はアメリカ合衆国ニューヨーク在住のホームレス、ジャニス・バクスターの所持品から発見されました。発見の3年前まで、バクスター女史はベジタリアン/ヴィーガン向けメニュー専門のスープキッチンを経営していました。2011年、動物が侵入した形跡があるとして、この施設は複数の安全衛生違反により閉鎖されました。\n\nバクスター女史のその後の消息はほとんど明らかになっていませんでしたが、2013年に、彼女が複数回、肉料理専門の飲食店を主な標的として食品を窃盗したという通報が寄せられました。この犯行は8ヶ月間にわたって幾度か繰り返された後、唐突に途絶えました。後日、現地自治体は、閉店以降の彼女が現地の橋の下で暮らしていたことを突き止めました。バクスター女史は風雨に曝されて死亡しているのが発見されました (自ら曝露した疑いあり) 。財団の干渉は、身体の一部が植物化したドブネズミの生息が現地で報告された後に承認されました。\n\nSCP-8866はバクスター女史の衣類の山の中から、ベビーキャロット由来のものと特定された、腐敗した剥離植物質6kgと共に発見されました。\n[[footnoteblock]]\n@@ @@\n[[include :scp-jp:component:license-box\n|author=Penton、C-Dives]]\n[[div class=\"blockquote\"]]\n\n**ファイルページ:** [*http://scp-jp-storage.wikidot.com/file:2375337-1064-jy41 SCP-8866]\n\n**ファイル名:** Couteau-econome.jpg \n\n**ソース:** https://commons.wikimedia.org/wiki/File:Couteau-econome.jpg\n**ライセンス:** CC BY-SA 3.0\n**タイトル:** Couteau-econome.jpg\n**著作権者:** Fred Klein\n**公開年:** 28 December 2007\n\n**補足:** この画像のCCライセンスはCC BY-SA 4.0、3.0、2.5、2.0、1.0のいずれかを利用者が任意で選択する形式となっています。SCP-JPのライセンスに基づき、本記事においてはCC BY-SA 3.0で使用します。\n\n[[/div]]\n[[include :scp-jp:component:license-box-end]]",
+  "tags": [
+    "en",
+    "safe",
+    "scp",
+    "変容",
+    "道具",
+    "食物"
+  ],
+  "author": "C-Dives",
+  "created_at": "2024-08-09T15:34:41+00:00",
+  "updated_at": "2024-08-09T15:34:52+00:00",
+  "rating": 12,
+  "_site": "scp-jp",
+  "_fullname": "scp-8866"
+}

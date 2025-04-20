@@ -1,0 +1,25 @@
+{
+  "title": "The Blank Page",
+  "content": "[[include :scp-wiki:theme:black-highlighter-theme]]\n[[include :scp-wiki:theme:minimalist-bhl]]\n\n[[module CSS]]\n:root {\n     --header-title: \"SCP FOUNDATION\";\n     --header-subtitle: \"Department of Unreality\";\n     --lgurl: url('http://scp-wiki.wikidot.com/local--files/unreality-hub/Unreality%20Header%20Logo.svg');\n}\n[[/module]]\n\n[[>]]\n[[module Rate]]\n[[/>]]\n\n\n[[include :scp-wiki:component:image-features-source |hover-enlarge=--]\n|enlarge-amount=0\n|speed=500\n|float=true\n|align=center\n|width=90%\n|url=http://scp-wiki.wikidot.com/local--files/the-blank-page/The%20Empty%20Page\n|add-caption=false\n|caption= None\n]]\n\nYou stare at the empty page, scared. \nPen to paper.\nBut you find the ink has run dry.\nYou just can't start the damned thing. The words don't come out in the right order, when they come out at all.\nYou look at your office and nothing catches your eye.\nYou look at the clock on the wall, it has no hands, it has no numbers.\nThere certainly are better places to be placed under house arrest. Though this is not a house, and you are not under arrest. More like a job, really, if that job was investigating you, which it is. \nThey put you in this office, asked you to write what you know, but what do you know? Why did they hire you, anyway? What came before all that? \n**What do you know?** the Foundation asks.\n@@@@\nNothing.\n@@@@\nDreamless sleep and sleepless dreams.\nYou try to remember something, anything really, anything that could be something. Very little comes to you, a blank page is all you can imagine. You try to picture some writing on it, but you remember that your ink has run dry. You imagine a new page and try again. You write entire books within your mind. Translucent tomes writ with invisible ink. Spectral stacks in a liminal library.\n@@@@\nThe library.\n@@@@\nYou recall reading books. Loving them. Living them, or imagining you did, and in the imagining, living.\nYou remember being a child who loves books, or reading about a child who loves books, at least.  \nWhen was the last time you've read a good book, or any book for that matter?\nTry to picture the words of your favorite book, to  burn them into your brain.\nYou can't remember the writing, but you do recall the //writing//, surely.\nA contest years ago,  a writing contest, a Halloween contest, a mandatory contest. Kids, at school, making drawing made of words for teachers, scary Halloween pictures. The winner was featured in a school magazine. The winner doesn't matter, they never did. There was a late entrant, he made a simple poster, it read: \n\n[[div class=\"blockquote\"]]\n= [[size 2.5em]]THE BLANK PAGE[[/size]]\n@@@@\n@@@@\n@@@@\n@@@@\n= [[size 2.5em]]IT'S SCARY[[/size]] \n\n= (for a teacher)\n[[/div]]\n\nOr you think that's how it went. \nThis was years ago, you're not sure how many, you weren't around back then. \nCome to think of it you're not really sure why it would be scary to a //teacher//. Stressful for the student, maybe.\nYou feel a pit in your stomach, [[[/bagel|either hunger or fear]]].\nYou sit in your office.\nYou stand up, you pace.\nYou glance at the clock.\n **What do you know?** the Foundation asks.\nYou sit in your office.\nYou write it all.\n[[include :scp-wiki:component:image-features-source |hover-enlarge=--]\n|enlarge-amount=0\n|speed=500\n|float=true\n|align=center\n|width=90%\n|url=http://scp-wiki.wikidot.com/local--files/the-blank-page/Blank%20Unreality%20with%20Text\n|add-caption=false\n|caption= None\n]]\n\n[[include :scp-wiki:component:license-box]]\n=====\n> **Filename:** Blank Unreality with Text\n> **Author:** [[*user Cassandra_Prime]]\n> **License:** CC BY-SA 3.0\n> **Source Link:** [https://scp-wiki.wikidot.com/the-blank-page SCP Foundation Wiki]\n\n> **Filename:** The Empty Page\n> **Author:** [[*user Cassandra_Prime]]\n> **License:** CC BY-SA 3.0\n> **Source Link:** [https://scp-wiki.wikidot.com/the-blank-page SCP Foundation Wiki]\n=====\n[[include :scp-wiki:component:license-box-end]]",
+  "tags": [
+    "_licensebox",
+    "alex-thorley",
+    "bleak",
+    "horror",
+    "mystery",
+    "no-dialogue",
+    "poetry",
+    "psychological-horror",
+    "second-person",
+    "surrealism",
+    "tale",
+    "unreality-dept",
+    "untitled-series"
+  ],
+  "author": "Prime Girl",
+  "created_at": "2022-05-05T03:21:47+00:00",
+  "updated_at": "2024-10-11T19:34:48+00:00",
+  "rating": 44,
+  "_site": "scp-wiki",
+  "_fullname": "the-blank-page"
+}

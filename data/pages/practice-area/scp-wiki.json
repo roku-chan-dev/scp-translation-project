@@ -1,0 +1,14 @@
+{
+  "title": "Practice Area",
+  "content": "[[div class=\"content-panel standalone centered\" style=\"color: #fff; background: #900; padding: 30px 0 35px; width: 400px; margin: 0 auto 20px;\"]]\n**[[size 500%]]STOP[[/size]]**\n[[/div]]\n\n= **[[size 120%]]//sandbox// pages are no longer allowed on the main SCP Wiki.[[/size]]**\n= Please use the **[[[sandbox | SCP Sandbox Wiki]]]** instead.\n\n----\nThe following listing is for all remaining //sandbox// pages. Several of these are test pages used by staff that are required to be on the main site, while others are leftovers from before the SCP Sandbox Wiki existed. Please do not create any additional //sandbox// pages without staff permission.\n\n[[module ListPages tags=\"sandbox -hub\" perPage=\"100\"]]\n%%title_linked%% by [[*user %%created_by%%]] (%%created_at%%)\n[[/module]]",
+  "tags": [
+    "hub",
+    "sandbox"
+  ],
+  "author": "Kain Pathos Crow",
+  "created_at": "2009-02-28T17:29:45+00:00",
+  "updated_at": "2021-01-15T07:46:41+00:00",
+  "rating": 8,
+  "_site": "scp-wiki",
+  "_fullname": "practice-area"
+}

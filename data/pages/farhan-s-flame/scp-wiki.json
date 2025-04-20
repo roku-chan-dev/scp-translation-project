@@ -1,0 +1,22 @@
+{
+  "title": "FARHAN'S FLAME",
+  "content": "[[include :scp-wiki:more-by:rounderhouse]]\n[[include :scp-wiki:component:info-ayers\n|lang=en[!-- EN/RU/KO/CN/FR/PL/ES/TH/JP/DE/IT/UA/PTBR --]\n|page=farhan-s-flame[!-- url of your page on the scp wiki --]\n|authorPage=http://www.scp-wiki.net/rounderhouse-s-author-page[!-- link to your author page --]\n|comments= Coming Soon - Rounderhouse\n]]\n[[=]]\n[[module Rate]]\n[[/=]]\n[!--\nhttps://scp-wiki.wikidot.com/fragment:farhans-flame-1\nhttps://scp-wiki.wikidot.com/fragment:farhans-flame-2\n--]\n[[module CSS]]\n@import url('https://fonts.googleapis.com/css2?family=Crimson+Text:ital,wght@0,400;0,600;0,700;1,400;1,600;1,700&display=swap');\n@import url('https://fonts.googleapis.com/css2?family=Domine:wght@700&display=swap');\n.crimson {\n    font-family: \"Domine\", serif;\n    font-size: 1.2rem;\n    font-weight: bold;\n}\n\n.list-pages-item p {\n    text-justify: inter-word;\n    text-align: justify;\n    text-indent: 1rem;\n    font-family: \"Crimson Text\", serif;\n    font-size: 1.1rem;\n}\n\n.verse {\n    margin: 3rem;\n}\n\n.verse p:not(.crimson){\n    direction: rtl;\n    unicode-bidi: override;\n    text-align: start;\n}\n[[/module]]\n[[div class=\"crom-thumbnail\"]]\n[[include component:image-block name=hospital.png]]\n[[/div]]\n[[module ListPages  category=\"fragment\" parent=\".\" limit=\"1\" order=\"created_at\" offset=\"@URL|0\"]]\n%%content%%\n[[/module]]\n\n[[include :scp-wiki:component:license-box]]\n> **Filename:** ff1gmr.png, hospital.png\n> **Name:** Princess Alexandra Hospital patient's room.jpg\n> **Author:** Kgbo\n> **License:** CC BY-SA 4.0\n> **Source Link:** [https://commons.wikimedia.org/wiki/File:Princess_Alexandra_Hospital_patient's_room.jpg Wikimedia Commons]\n> **Additional Notes:** Edited by [[*user Rounderhouse]]\n\n> **Filename:** ff2gmr.png\n> **Name:** Empty room of office.jpg\n> **Author:** Np6824\n> **License:** CC BY-SA 4.0\n> **Source Link:** [https://commons.wikimedia.org/wiki/File:Empty_room_of_office.jpg Wikimedia Commons]\n> **Additional Notes:** Edited by [[*user Rounderhouse]]\n[[include :scp-wiki:component:license-box-end]]",
+  "tags": [
+    "_cc",
+    "_cc4",
+    "_licensebox",
+    "_listpages",
+    "bleak",
+    "horror",
+    "oria",
+    "psychological-horror",
+    "spy-fiction",
+    "tale"
+  ],
+  "author": "Rounderhouse",
+  "created_at": "2024-05-02T16:05:20+00:00",
+  "updated_at": "2024-07-12T19:02:13+00:00",
+  "rating": 53,
+  "_site": "scp-wiki",
+  "_fullname": "farhan-s-flame"
+}

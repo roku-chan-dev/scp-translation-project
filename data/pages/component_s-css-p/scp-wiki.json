@@ -1,0 +1,13 @@
+{
+  "title": "S-CSS-P",
+  "content": "If you would like to add a page that does not play nicely with [http://www.scp-wiki.net/forum/t-6347954/s-css-p:a-modular-stylesheet-picker-for-the-scp-wiki S-CSS-P] (it uses custom CSS that clashes badly), please add it to the [[code]] block below. **__PLEASE__** pay attention to the format, it is critical to get it correct. The item within the quotes is the page 'slug' that comes after //scp-wiki.wikidot.com///. Changes made to this page are **not** immediately used by S-CSS-P, for now they are loaded manually.\n\n[[code]]\n[\"scp-2409\", \"sotmhub\", \"unusual-investigations\", \"ankoshoku\", \"parawatch-hub\"]\n[[/code]]\n\nThis is a page to store some assets used by various themes created as part of S-CSS-P. Instructions for contributing can be found at the [https://github.com/scpwiki/S-CSS-P GitHub]. Please contact [[*user pxdnbluesoul]] before modifying this page, unless you are adding pages to the list, in which case you officially have staff permission, but please indicate you are only adding to the list in your edit description.",
+  "tags": [
+    "component"
+  ],
+  "author": "pxdnbluesoul",
+  "created_at": "2018-06-27T13:38:45+00:00",
+  "updated_at": "2021-12-04T06:00:26+00:00",
+  "rating": 10,
+  "_site": "scp-wiki",
+  "_fullname": "component:s-css-p"
+}

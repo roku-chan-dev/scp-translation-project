@@ -1,0 +1,21 @@
+{
+  "title": "根据[数据删除]收容协议被封禁",
+  "content": "[[include :scp-wiki-cn:theme:pataphysics]]\n\n[[>]]\n[[module Rate]]\n[[/>]]\n\n[[module ListPages category=\"fragment\" parent=\".\" limit=\"1\" order=\"created_at\" offset=\"@URL|0\"]]\n%%content%%\n[[/module]]\n\n[[footnoteblock]]\n\n[[div class=\"footer-wikiwalk-nav\"]]\n[[=]]\n<< [[[SCP-CN-1365]]] | SCP-CN-1366 | [[[SCP-CN-1367]]] >>\n[[/=]]\n[[/div]] \n\n[!--\n迭代1：http://scp-wiki-cn.wikidot.com/fragment:scp-cn-1366-1\n迭代2：http://scp-wiki-cn.wikidot.com/fragment:scp-cn-1366-2\n迭代3：http://scp-wiki-cn.wikidot.com/fragment:scp-cn-1366-3\n迭代4：http://scp-wiki-cn.wikidot.com/fragment:scp-cn-1366-4\n--]",
+  "tags": [
+    "_cc",
+    "keter",
+    "k级情景",
+    "meta",
+    "scp",
+    "原创",
+    "未收容",
+    "现实扭曲",
+    "门径"
+  ],
+  "author": "Olympic Logic",
+  "created_at": "2019-08-13T01:59:25+00:00",
+  "updated_at": "2023-03-19T15:00:58+00:00",
+  "rating": 38,
+  "_site": "scp-wiki-cn",
+  "_fullname": "scp-cn-1366"
+}

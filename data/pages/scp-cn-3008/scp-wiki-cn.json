@@ -1,0 +1,23 @@
+{
+  "title": "SCP-CN-3008",
+  "content": "[[include :scp-wiki-cn:theme:paperstack]]\n[[div class=\"logo\"]]\n[[image https://scp-wiki.wdfiles.com/local--files/theme%3Apaperstack/lgtrans.png]]\n[[/div]]\n\n[[>]]\n[[module Rate]]\n[[/>]]\n\n[[div class=\"header-container-ex\"]]\n[[div class=\"header-info\"]]\n[[div class=\"header-info-flex\"]]\n[[div class=\"text-item\"]]\n[[/div]]\n[[/div]]\n[[/div]]\n[[/div]]\n\n\n[[module ListPages category=\"fragment\" parent=\".\" limit=\"1\" order=\"name\" offset=\"@URL|0\"]]\n[[div class=\"meta-title\"]]\n%%title%%\n[[/div]]\n[[/module]]\n[[module ListPages category=\"fragment\" parent=\".\" limit=\"1\" order=\"name\" offset=\"@URL|0\"]]\n\n%%content%%\n[[/module]]\n\n[[div class=\"footer-wikiwalk-nav\"]]\n[[=]]\n<< [[[SCP-CN-3007]]] | SCP-CN-3008 | [[[SCP-CN-3009]]] >>\n[[/=]]\n[[/div]]",
+  "tags": [
+    "cn3000",
+    "keter",
+    "k级情景",
+    "scp",
+    "site-cn-19",
+    "不可摧毁",
+    "原创",
+    "基金会制",
+    "星际",
+    "现实扭曲",
+    "电子"
+  ],
+  "author": "Ginger Beer",
+  "created_at": "2023-12-31T06:27:19+00:00",
+  "updated_at": "2024-01-22T05:41:52+00:00",
+  "rating": 43,
+  "_site": "scp-wiki-cn",
+  "_fullname": "scp-cn-3008"
+}

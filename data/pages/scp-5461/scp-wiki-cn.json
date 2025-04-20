@@ -1,0 +1,18 @@
+{
+  "title": "SCP-5461",
+  "content": "[[include :scp-wiki:theme:black-highlighter-theme]]\n[[include :scp-wiki:component:acs-animation]]\n\n[[include :scp-wiki-cn:component:anomaly-class-bar-source\n|item-number= 5461\n|clearance= 2\n|container-class= safe\n|secondary-class= none\n|disruption-class= dark\n|risk-class= 警告\n|lang= cn\n]]\n----\n[[include component:image-block\n| name=https://scp-wiki.wdfiles.com/local--files/scp-5461/ceahlau_pano.jpg\n| caption=SCP-5461-A内的视野\n| width=\"auto\"\n| align=\"center\"\n]]\n----\n**特殊收容措施：** 记录SCP-5461步骤的书面文档保存于Site-108的标准Safe锁柜内，数据备份存于Site-108服务器阵列中。SCP-5461-A内应有2名人员随时居住，每周轮换一次。关于Sam Morgan及Max Davies下落的情报为中级优先度事项。\n\n**描述：** SCP-5461是一种仪式，将其执行后可使对象传送到某一外维度空间（编为SCP-5461-A）。接触执行仪式人员的任何存在都会一并被传送到SCP-5461-A。测试表明，部分对象会被传送到该区域的最高点处，但其他一些对象会显现在该点上方200米处，随后坠落身亡。\n\n//注意：虽然仅是逸闻一则，幸存的D级中有90%曾经历过尤为不愉快的离婚或分手。在有类似结果的测试对象中还没有发现其他共同特点。-研究员Moore//\n\nSCP-5461的要素中整合了有记载的奇术实践、流行文化中对魔法仪式的描绘、以及若干看似无关的元素。SCP-5461的步骤如下：\n* 身处一片山地区域，海拔至少1800米；\n* 画出一个直径6腕尺[[footnote]]古代长度单位，基础是手肘到中指间的长度距离；其长度在~44厘米到~52厘米之间。[[/footnote]]的盐环。\n* 焚烧一根//Salvia officinalis// (普通鼠尾草)枝条，同时以拉丁语、阿拉姆语或印地语念诵“带我去我心的归处”（翻译并不准确）；重复此咒文三遍\n* [限于3/5461权限]\n\nSCP-5461-A是一片山顶区域，只可通过执行SCP-5461造访。GPS信号在此区域内丢失；不过，天体方位表明此地与仪式的执行地点处在相同坐标。此区域包含有大约面积15km^^2^^的地表，周围永久性被云层障碍环绕；一旦进入此障碍，对象会在SCP-5461-A的相对一侧重新出现。\n\n若在SCP-5461-A内再次举行仪式，对象和与之接触的存在会重新出现在原来的地点。若有已经举行过仪式的人员尚在SCP-5461-A内且仍然存活，SCP-5461不会产生效果。\n\n**发现：** 于15/08/2019，在调查Jordan Davies失踪期间，潜伏于伦敦大都会警局的基金会资产在其公寓内发现了涉及奇术的材料，以及其他多种神秘学理论书籍。在展开标准收购协议的过程中，从一个抽屉的伪造底部内发现了一张纸，其上记载了对SCP-5461的指南，此外还有Jordan Davies的配偶Max Davies、以及其熟人Sam Morgan的一系列受损照片。\n\n浴室镜子上发现一张字条，写着：\n[[div class=\"blockquote\"]]\n我计划过两周给咱们安排一次山地旅行。我保证这会成为你忘不了的一次约会 ♥ 噢，我还邀请了你亲爱的Sam，//我知道//你们两个是超级好朋友。\n\nJ\n[[/div]]\n搜寻Sam Morgan公寓后也发现了一封信件，写着：\n[[div class=\"blockquote\"]]\n嘿Sam，\n\n你和Max已经亲近好长时间了，而我想为你当这个超级好朋友表示下感谢。我们过两周计划去法国阿尔卑斯旅行，要不你一起来？我请客，当然的。这次会非常特别的。\n\nJordan\n[[/div]]\n\n在仪式的初步测试中，对象显现之处附近发现了一具部分腐烂的尸体，旁边是一处篝火的遗留物，尸体上有高空坠落造成的严重创伤。之后死者被辨认出是Jordan Davies。\n\n之后的分析确认说明纸张曾被篡改；具体而言，一个对应否定的符文从仪式整合的多种铭文中被抹去。\n\n正在调查Sam Morgan与Max Davies的下落。\n[[footnoteblock]]\n\n[[div class=\"footer-wikiwalk-nav\"]]\n[[=]]\n<< [[[SCP-5460]]] | SCP-5461 | [[[SCP-5462]]] >>\n[[/=]]\n[[/div]]",
+  "tags": [
+    "safe",
+    "scp",
+    "仪式性",
+    "传送",
+    "地点",
+    "超维度"
+  ],
+  "author": "ashausesall",
+  "created_at": "2021-09-28T11:58:33+00:00",
+  "updated_at": "2021-09-28T23:39:52+00:00",
+  "rating": 2,
+  "_site": "scp-wiki-cn",
+  "_fullname": "scp-5461"
+}

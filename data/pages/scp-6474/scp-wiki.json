@@ -1,0 +1,24 @@
+{
+  "title": "SCP-6474",
+  "content": "[[>]]\n[[module Rate]]\n[[/>]]\n[[include :scp-wiki:theme:black-highlighter-theme]]\n[[include :scp-wiki:component:toggle-sidebar-bhl]]\n[[module ListPages  category=\"fragment\" parent=\".\" limit=\"1\" order=\"created_at\" offset=\"@URL|0\"]]\n%%content%%\n[[/module]]\n\n[!--\nThat's it, that's the content on this page. Basically all the text is in the rest.\n--]\n\n[[footnoteblock]]\n@@ @@\n\n\n\n\n[!--\nFragments:\nhttp://www.scp-wiki.net/fragment:scp-6474-0\nhttp://www.scp-wiki.net/fragment:scp-6474-1\nhttp://www.scp-wiki.net/fragment:scp-6474-2\nhttp://www.scp-wiki.net/fragment:scp-6474-3\nhttp://www.scp-wiki.net/fragment:scp-6474-4\n\n--]\n\n[[div class=\"footer-wikiwalk-nav\"]]\n[[=]]\n<< [[[SCP-6473]]] | SCP-6474 | [[[SCP-6475]]] >>\n[[/=]]\n[[/div]]\n\n[[include :scp-wiki:component:license-box]]\n=====\n> **Filename:** hyper\n> **Author:** [[*user TheyCallMeTim]]\n> **License:** CC BY-SA 3.0\n> **Source Link:** [https://scp-wiki.wikidot.com/scp-6474 SCP Foundation Wiki]\n=====\n[[include :scp-wiki:component:license-box-end]]",
+  "tags": [
+    "_cc",
+    "_licensebox",
+    "_listpages",
+    "acoustic",
+    "auditory",
+    "euclid",
+    "hallucination",
+    "media",
+    "memory-affecting",
+    "mind-affecting",
+    "reality-bending",
+    "scp"
+  ],
+  "author": "TheyCallMeTim",
+  "created_at": "2021-10-29T20:37:16+00:00",
+  "updated_at": "2023-11-17T20:55:58+00:00",
+  "rating": 71,
+  "_site": "scp-wiki",
+  "_fullname": "scp-6474"
+}

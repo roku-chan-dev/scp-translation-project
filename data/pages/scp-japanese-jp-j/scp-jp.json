@@ -1,0 +1,22 @@
+{
+  "title": "SCP-JAPANESE-JP-J",
+  "content": "[[>]]\n[[module Rate]]\n[[/>]]\n[[include :scp-jp-sandbox2:inc:jstyles]]\n[[include component:image-block name=http://scp-jp-storage.wikidot.com/local--files/file:3979506-5-tupl/6664693057_d59203c5d8_w.jpg|caption=SCP-JAPANESE-JP-Jが発見された場所です。]]\n**アイテム番号:** SCP-JAPANESE-JP-J\n\n**オブジェクトクラス:** Safe\n\n**特別収容プロトコル:** SCP-JAPANESE-JP-Jは低脅威度物品ロッカーに収められます。研究主任の許可を得た場合に限りSCP-JAPANESE-JP-Jを使用出来ます。未確認のSCP-JP-Jの関連が予想される場合には注意して観察して下さい。\n\n**説明:** SCP-JAPANESE-JP-Jは和語で書かれた書籍です。内容は「大和言葉」[[footnote]]辞書です。[[/footnote]]であり、異常な点はありません。\n\n人間(以下\"対象\")がSCP-JAPANESE-JP-Jについて記述しようとした場合(その文章を以下\"SCP-JAPANESE-JP-J-1\")和語しか使用出来なくなります。言及する場合も同様です。短文、単語であっても対象が和語以外を用いて書く事は出来ません。対象が和語に詳しくない人間であってもSCP-JAPANESE-JP-J-1のみ和語を用いて書く事が可能となってしまう為、対象が自ら書いたSCP-JAPANESE-JP-J-1を理解出来ない事例が数多くあります。また手書きの場合は平安時代頃の文体となる為、判読出来ない事例が多いです。\n\nSCP-JAPANESE-JP-Jと同様の異常性を持つ書籍が発見されており(以下SCP-JAPANESE-JP-J-2)、SCP-JAPANESE-JP-J-Aに関する文章は上代[[footnote]]奈良時代以前を指します。[[/footnote]]の言葉を用いて記述されます。\n\n[[collapsible show=\"SCP-JAPANESE-JP-J異常性事例1 本報告書アーカイブ\" hide=\"SCP-JAPANESE-JP-J異常性事例1 本報告書アーカイブ\" ]]\n-----\n@@ @@\n@@ @@\n@@ @@\n[[div class=\"tategaki\"",
+  "tags": [
+    "jp",
+    "safe",
+    "scp",
+    "ジョーク",
+    "メタ",
+    "交換",
+    "情報災害",
+    "文書",
+    "知識",
+    "言語"
+  ],
+  "author": "falsehood",
+  "created_at": "2018-10-10T12:34:56+00:00",
+  "updated_at": "2021-03-16T13:37:11+00:00",
+  "rating": 40,
+  "_site": "scp-jp",
+  "_fullname": "scp-japanese-jp-j"
+}

@@ -1,0 +1,20 @@
+{
+  "title": "SCP-CN-478",
+  "content": "[[module ListPages category=\"fragment\" parent=\".\" limit=\"1\" order=\"name\" offset=\"@URL|0\"]]\n\n%%content%%\n[[/module]]\n@@@@\n[[footnoteblock]]\n@@@@\n[[div class=\"footer-wikiwalk-nav\"]]\n[[=]]\n<< [[[SCP-CN-477]]] | SCP-CN-478 | [[[SCP-CN-479]]] >>\n[[/=]]\n[[/div]]",
+  "tags": [
+    "keter",
+    "ob传媒",
+    "scp",
+    "site-cn-34",
+    "人形生物",
+    "传送",
+    "原创",
+    "星际"
+  ],
+  "author": "Carpenter_Mark1",
+  "created_at": "2018-05-27T03:51:03+00:00",
+  "updated_at": "2018-06-24T12:28:35+00:00",
+  "rating": 64,
+  "_site": "scp-wiki-cn",
+  "_fullname": "scp-cn-478"
+}

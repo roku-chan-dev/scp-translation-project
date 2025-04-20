@@ -1,0 +1,15 @@
+{
+  "title": "𝓜𝓸𝓻𝓽𝓮𝓷 𝓖𝓪𝓶𝓼𝓽 𝓟𝓮𝓭𝓮𝓻𝓼𝓮𝓷",
+  "content": "[[>]]\n[[module Rate]]\n[[/>]]\n\n[[div style=\"border: solid 2px #a52a2a; width: 80%; padding: 0 1em; margin: 0 auto; background-color: #fff; box-shadow: 0 1px 3px rgba(0,0,0,.2);\"]] \n샌드박스: *https://scpkosb3.wikidot.com/user:mgpedersen\n[[/div]]\n\n[[=]]\n+ **𝓜𝓸𝓻𝓽𝓮𝓷 𝓖𝓪𝓶𝓼𝓽 𝓟𝓮𝓭𝓮𝓻𝓼𝓮𝓷**\n[[/=]]\n------\n\n+ 번역한 SCP\n[[module ListPages created_by=\"MGPedersen\" separate=\"no\" tags=\"en, 보충, -이야기, -작가, -안내, -보충, -경연, -허브\" order=\"title\" prependLine=\"||~ SCP ||~ 추천 ||~ 덧글 ||~ 생성 날짜 ||~ 마지막 덧글 ||\"]]\n|| %%title_linked%% || %%rating%% || %%comments%% || %%created_at%% || %%commented_at%% ||\n[[/module]]\n\n+ 창작한 SCP\n[[module ListPages created_by=\"MGPedersen\" separate=\"no\" tags=\"ko, 보충, -이야기, -작가, -안내, -보충, -경연, -허브\" order=\"title\" prependLine=\"||~ SCP ||~ 추천 ||~ 덧글 ||~ 생성 날짜 ||~ 마지막 덧글 ||\"]]\n|| %%title_linked%% || %%rating%% || %%comments%% || %%created_at%% || %%commented_at%% ||\n[[/module]]\n\n------\n\n[[include component:achievement-en-module \n|en1=true\n|en17=true\n|en18=true\n|num=3]]\n\n[[include component:achievement-jp-module \n|jp1=true\n|jp2=true\n|jp3=true\n|jp4=true\n|jp5=true\n|jp6=true\n|jp8=true\n|jp10=true\n|jp11=true\n|jp14=true\n|jp17=true\n|jp21=true\n|jp25=true\n|jp29=true\n|jp30=true\n|jp34=true\n|jp35=true\n|jp38=true\n|jp41=true\n|jp51=true\n|jp65=true\n|jp66=true\n|jp67=true\n|num=23]]\n\n[[include component:achievement-de-module \n|de15=true\n|de31=true\n|de79=true\n|de83=true\n|de85=true\n|de88=true\n|de109=true\n|de110=true\n|num=8]]\n\n[[include :scpko:component:thd-achievement-stand\n|border=1\n|a01=5\n|a02=1\n|a03=5\n|a06=5\n|a07=2\n|a08=1\n|a14=1\n|a15=1\n|a18=1\n|a19=1\n|a21=1\n|a22=1\n|a25=1\n|a30=1\n|a40=1\n|a49=1\n|a64=1\n|a65=1\n|a66=1\n|a67=1\n|a68=1\n|a69=1\n|a70=1\n|a74=1\n|a76=1\n|a95=1\n|a97=1\n|a99=1\n|a100=1\n]]",
+  "tags": [
+    "_이미지",
+    "ko",
+    "작가"
+  ],
+  "author": "MGPedersen",
+  "created_at": "2014-11-17T09:26:24+00:00",
+  "updated_at": "2024-11-16T19:10:13+00:00",
+  "rating": 8,
+  "_site": "scpko",
+  "_fullname": "m-g-pedersen-page"
+}

@@ -1,0 +1,21 @@
+{
+  "title": "SCP-CN-2106",
+  "content": "[[>]]\n[[module rate]]\n[[/>]]\n\n[[module css]]\nimport url('https://scp-wiki-cn.wikidot.com/buried-hub/code/1');\n[[/module]]\n\n**项目编号：**SCP-CN-2106\n\n**项目等级：**Euclid\n\n**特殊收容措施：**SCP-CN-2106不对外开放，安保应拘留任何试图进入SCP-CN-2106的无关人员，若之后确认其为SCP-CN-2106-θ个体，则一并收容进Site-CN-75的#055人形收容区，反之则在进行记忆删除后释放。附录的名单需定期更新。\n\n对GOI-CN-6313\"//「彼岸」//\"的调查正在进行中。\n\n[[include component:image-block name=http://scpsandboxcn.wikidot.com/local--files/i-will-remember/i-will-remember |caption=SCP-CN-2106]]\n\n**描述：**SCP-CN-2106是位于████郊外的一处公共墓园，占地约██公顷。\n\n墓园被始终处于开花期的勿忘我（//Myosotis silvatica// Ehrh. ex Hoffm.）围绕，位于墓园中心的石碑刻有以下内容：\n\n[[note]]\n@@ @@//遗忘是最后的死亡，记住我们。//@@ @@\n@@ @@\n[[>]]\n//——「彼岸」//\n[[/>]]\n[[/note]]\n石碑背后的角落刻有“//140516 人//”，但无论是园内的实际数量或墓园的占地面积都与该数字明显不符。\n\n园内的墓碑除死者姓名外不会记录其他信息，且文字似乎为死者母语。详见附录。\n\n园内会不定期出现不定数量的坟墓，从坟墓内挖掘出的尸体显示其死亡时间与坟墓出现时间相近，尸体皆无可辨认的面部特征。结合尸体的DNA信息、死亡时间及姓名，未能寻找到任何对应存在的人员，故认为园内的尸体为异常生成而非实际存在过的人类个体。\n\nSCP-CN-2106-θ为一类异常人形实体。SCP-CN-2106-θ同样无法被搜查到任何身份信息，或是在被收容前的任何历史行动轨迹。SCP-CN-2106-θ表现出对帷幕内事物特别是基金会的异常了解，了解范围大体与普通员工相当。这些实体被收容时大部分身着基金会制服，并自称来自基金会内一个并不存在的无名部门，对此的调查无结果。在被收容后，SCP-CN-2106-θ会在某一时刻消失，数年内SCP-CN-2106内会新增一处坟墓，尸体的DNA信息及墓碑上的姓名与该名SCP-CN-2106-θ吻合，部分SCP-CN-2106-θ则是在数日后如此。\n\n**附录：**墓碑上的名字部分摘抄（排名不分先后）\n* Anlous\n* Rosmarinus Officinalis\n* Daisy Ulrich\n* Saboria\n* Altzibar Vazquez\n* Adam Bellamy Wheeler\n* はるな\n* 莎悠\n* Michael Li\n* Eli Moreno\n* Sebastián Garrido\n* Myosotis Silvatica\n* Alex Gauss\n* Zoe Smith\n* Julie Still\n* Zoé Laurent\n* Niklas Carver\n* Leontopodium Japonicum\n* Luis Sarmento\n* Lyn Patrick Marness\n* さき\n* George Barsin\n* Papaver Somniferum\n* 源 美惠\n* Michelle Yu\n* Xerochrysum Bracteatum\n* Paul Kim\n* Cymbopogon Citratus\n* あきら\n* Hemerocallis Fulva\n* Dir Ana Giménez\n* 月島 佳織\n\n[[=]]\n[[div class=\"footer-wikiwalk-nav\"]]\n<< [[[SCP-CN-2105]]] | SCP-CN-2106 | [[[SCP-CN-2107]]] >>\n[[/div]]\n[[/=]]\n\n[[module CSS]]\n\n#main-content .page-tags {\n    display: none;\n}\n\ndiv.pseudo-tags ul {\n    font-size: 85%;\n    border-top: 1px solid #BBB;\n    display: inline-block;\n    margin: 10px 0 0;\n    padding: 0 2px;\n    list-style: none;\n}\n\ndiv.pseudo-tags li {\n    color: #b01;\n    text-decoration: none;\n    display: inline-block;\n    margin: 0 1px;\n    cursor: pointer;\n}\n[[/module]]\n\n[[footnoteblock]]\n\n[[div class=\"pseudo-tags\"]]\n* [http://scp-wiki-cn.wikidot.com/system:page-tags/tag/scp#pages scp]\n* [http://scp-wiki-cn.wikidot.com/system:page-tags/tag/euclid#pages euclid]\n* [http://scp-wiki-cn.wikidot.com/system:page-tags/tag/site-cn-75#pages site-cn-75]\n* [http://scp-wiki-cn.wikidot.com/system:page-tags/tag/原创#pages 原创]\n* [http://scp-wiki-cn.wikidot.com/system:page-tags/tag/地点#pages 地点]\n* [http://scp-wiki-cn.wikidot.com/system:page-tags/tag/尸体#pages 尸体]\n* [http://scp-wiki-cn.wikidot.com/system:page-tags/tag/人形生物#pages 人形生物]\n* [http://scp-wiki-cn.wikidot.com/system:page-tags/tag/铭文#pages 铭文]\n* [[span style=\"filter: blur(1.6px)\"]]逆模因[[/span]]\n[[/div]]",
+  "tags": [
+    "euclid",
+    "scp",
+    "site-cn-75",
+    "人形生物",
+    "原创",
+    "地点",
+    "尸体",
+    "逆模因",
+    "铭文"
+  ],
+  "author": " Universe647",
+  "created_at": "2022-09-06T13:54:40+00:00",
+  "updated_at": "2024-02-23T15:47:29+00:00",
+  "rating": 25,
+  "_site": "scp-wiki-cn",
+  "_fullname": "scp-cn-2106"
+}

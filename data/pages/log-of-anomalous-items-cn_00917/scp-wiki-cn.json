@@ -1,0 +1,11 @@
+{
+  "title": "00917",
+  "content": "content: \"[[module CSS]]\\n.aaa  {\\n    filter: progid:DXImageTransform.Microsoft.BasicImage(rotation=2);\\n    ms-filter: \\\"progid:DXImageTransform.Microsoft.BasicImage(rotation=2)\\\";\\n    -moz-transform: rotate(-180deg);\\n    -o-transform: rotate(-180deg);\\n    -webkit-transform: rotate(-180deg);\\n    position: relative;\\n}\\n[[/module]]\\n[[div class=\\\"aaa\\\"]]\\n**项目描述：**一个模因，受此模因影响者会把所有的文字和符号倒过来写\\n**回收日期：**[数据删除]\\n**回收地点：**[数据删除]\\n**目前状态：**[数据删除]\\n**笔记：**//abcdefg#%^*+=@真好玩欸哎哎哎哎……//——再次被拖去记忆删除的//屑//Crimas\\n[[/div]]\\n~~~~\"",
+  "tags": [],
+  "author": "Crices",
+  "created_at": "2022-03-06T02:32:57+00:00",
+  "updated_at": "2022-03-07T12:06:28+00:00",
+  "rating": 20,
+  "_site": "scp-wiki-cn",
+  "_fullname": "log-of-anomalous-items-cn:00917"
+}

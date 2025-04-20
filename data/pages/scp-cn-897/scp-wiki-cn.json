@@ -1,0 +1,18 @@
+{
+  "title": "SCP-CN-897",
+  "content": "[[>]]\n[[module Rate]]\n[[/>]]\n\n[[module ListPages category=\"fragment\" parent=\".\" limit=\"1\" order=\"name\" offset=\"@URL|0\"]]\n\n%%content%%\n[[/module]]\n\n\n\n[[footnoteblock]]\n@@@@\n[[div class=\"footer-wikiwalk-nav\"]]\n[[=]]\n<< [[[SCP-CN-896]]] | SCP-CN-897 | [[[SCP-CN-898]]] >>\n[[/=]]\n[[/div]]",
+  "tags": [
+    "safe",
+    "scp",
+    "不可摧毁",
+    "人造物品",
+    "原创",
+    "时空"
+  ],
+  "author": "Tokitsuki",
+  "created_at": "2018-06-21T01:50:38+00:00",
+  "updated_at": "2018-06-21T03:23:29+00:00",
+  "rating": 14,
+  "_site": "scp-wiki-cn",
+  "_fullname": "scp-cn-897"
+}

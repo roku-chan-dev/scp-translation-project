@@ -1,0 +1,17 @@
+{
+  "title": "SCP-PL-262",
+  "content": "[[module CSS]]\ndiv#header h1 a span {\n    font-size: 0px;\n}\ndiv#header h1 a:before {\n    content: \"SCP 재단\";\n    color: rgb(255, 255, 255);\n    \n}\ndiv#header h2 span {\n    font-size:0px;\n    padding: 4px;\n}\ndiv#header h2:after {\n    content: \"확보, 격리, 보\" !important;\n    font-weight: bold;\n    color: rgb(255, 255, 255);\n    padding: 19px 0;\n    text-shadow: 1px 1px 1px rgba(0, 0, 0, .8);\n    white-space: pre;\n}\n[[/module]]\n[[include :scpko:info:start]]\n[[=]]\n**저자:** [[*user ralliston]]\n**역자:** [[*user KubKac]], [[*user fluxman]]\n**원작:** [*http://scp-pl.wikidot.com/scp-pl-262 PL], [*http://scp-int.wikidot.com/scp-pl-262 INT]\n**이미지 출처:** [*https://commons.wikimedia.org/wiki/File:Brain_MRI_0211_31.JPG Brain] by Nevit Dilmen, CC BY-SA 3.0\n[[/=]]\n[[include :scpko:info:end]]\n\n@@ @@\n\n> {{SCP-PL-262 문서 불러오는 중...}}\n> \n> 참고: 해당 문서 게시는 보안인가 등급 4등급 이상 인원 한 명 이상의 허가가 필요합니다. \n@@ @@\n@@ @@\n> {{불러오기 완료.}}\n@@ @@\n-----\n\n[[include component:image-block name=http://scp-pl.wdfiles.com/local--files/scp-pl-262/brain|align=right|caption=      62 발  전 인간의  .|width=250px]]\n\n**일련번호:** SCP-PL-262\n\n**격리 등급:** 케테르\n\n**특수 격리 절차:** 정신권부는 현재 SCP-PL-262 발현 방지에 집중한다.      프로젝트에 연관된 인원은     의 허가 없이 해당 업무에 관여해서는 안 된다.\n정신에서 모든    를 제거하는 데 재단의 자산을 집중 여야 하한다. 해당 임 는 O5- 의 지시 없이 중 할 수 없 .\n\n    명령에 따라 모든 인 은   하지 않  이상 항SCP-P -262 치료를 받아야 한 .\n\n보안인가 등급  등급  상의 인원  S P-  -2  에  향을 받았을 경 ,   해야 하며,   한다.\n\n해당 인원은     또한      모두에게     사랑을       .   단계 시 모든  람들은 \" 랑한다\"   말해야  , 또한   마지막까지     이해해야   .\n\n**설명:**\n@@ @@\n@@ @@\n@@ @@\n@@ @@\n@@ @@\n@@ @@\n@@ @@\n@@ @@\n@@ @@\n@@ @@\n@@ @@\n@@ @@\n[[footnoteblock]]\n[[div class=\"footer-wikiwalk-nav\"]]\n[[=]]\n<< [[[SCP-PL-261|S P- 61]]] |      | [[[SCP-PL-263|SCP-PL-2 3]]] >>\n[[/=]]\n[[/div]]",
+  "tags": [
+    "pl",
+    "scp",
+    "메타",
+    "정신조작",
+    "케테르"
+  ],
+  "author": "fluxman",
+  "created_at": "2024-05-01T15:55:57+00:00",
+  "updated_at": "2024-10-23T04:10:36+00:00",
+  "rating": 7,
+  "_site": "scpko",
+  "_fullname": "scp-pl-262"
+}

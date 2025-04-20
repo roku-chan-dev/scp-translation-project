@@ -1,0 +1,20 @@
+{
+  "title": "SCP-4071",
+  "content": "[[>]]\n[[module Rate]]\n[[/>]]\n\n[[module ListPages  category=\"fragment\" parent=\".\" limit=\"1\" order=\"created_at\" offset=\"@URL|0\"]]\n%%content%%\n[[/module]]\n\n[!-- http://www.scp-wiki.net/fragment:scp-4071-1 --]\n[!-- http://www.scp-wiki.net/fragment:scp-4071-2 --]\n[!-- http://www.scp-wiki.net/fragment:scp-4071-3 --]\n\n[[footnoteblock]]\n\n[[div class=\"footer-wikiwalk-nav\"]]\n[[=]]\n<< [[[SCP-4070]]] | SCP-4071 | [[[SCP-4072]]] >>\n[[/=]]\n[[/div]]\n\n[[include :scp-wiki:component:license-box]]\n[[include :scp-wiki:component:license-box-end]]",
+  "tags": [
+    "_licensebox",
+    "_listpages",
+    "computer",
+    "k-class-scenario",
+    "manna-charitable-foundation",
+    "memory-affecting",
+    "neutralized",
+    "scp"
+  ],
+  "author": "Jazstar",
+  "created_at": "2019-03-19T06:21:53+00:00",
+  "updated_at": "2021-07-30T18:02:43+00:00",
+  "rating": 50,
+  "_site": "scp-wiki",
+  "_fullname": "scp-4071"
+}

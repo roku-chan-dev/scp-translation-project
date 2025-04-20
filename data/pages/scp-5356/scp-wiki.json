@@ -1,0 +1,21 @@
+{
+  "title": "SCP-███",
+  "content": "=====\n[[include component:preview\ntext=\nThe file \"SCP-5356\" does not exist. The object it describes may have been archived, explained, or decommissioned and removed from the main database. \n]]\n=====\n[[>]]\n[[module Rate]]\n[[/>]]\n\n[[div style=\"text-align: right; margin-right: 2em; margin-top: -20px;\"]]\n\nby [[[Koths Korner| ███████████████]]]\n\n[[/div]]\n\n[[module ListPages  category=\"fragment\" parent=\".\" limit=\"1\" order=\"name\" offset=\"@URL|0\"]]\n%%content%%\n[[/module]]\n\n[!-- http://www.scp-wiki.net/fragment:scp-5356-1 --]\n[!-- http://www.scp-wiki.net/fragment:scp-5356-2 --]\n\n[[div class=\"footer-wikiwalk-nav\"]]\n[[=]]\n<< [[[SCP-5355]]] | SCP-5356 | [[[SCP-5357]]] >>\n[[/=]]\n[[/div]]",
+  "tags": [
+    "_listpages",
+    "abnormalities",
+    "bleak",
+    "cadaver",
+    "foundation-made",
+    "inscription",
+    "scp",
+    "structure",
+    "thaumiel"
+  ],
+  "author": "Kothardarastrix",
+  "created_at": "2021-10-16T01:46:01+00:00",
+  "updated_at": "2024-09-12T16:59:41+00:00",
+  "rating": 250,
+  "_site": "scp-wiki",
+  "_fullname": "scp-5356"
+}

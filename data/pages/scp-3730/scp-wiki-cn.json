@@ -1,0 +1,18 @@
+{
+  "title": "SCP-3730",
+  "content": "[[module CSS]]\n#header {\n    background-image: url(http://scp-wiki.wdfiles.com/local--files/component%3Ascp-trans-pride/TransSCPlogo.png)\n}\n\n#footer {\n    font-size: x-small;\n    background: #ffafc7;\n    color: black;\n}\n\n#footer a {\n    color: #e51f47;\n}\n\n#license-area {\n    font-size: x-small;\n    background: #5bcefa;\n    color: black;\n}\n\n#license-area a {\n    color: #056c94;\n}\n[[/module]]\n\n\n[[>]]\n[[/>]]\n\n[[include :scp-wiki-cn:component:anomaly-class-bar-source\n|lang= cn\n|item-number= 3730\n|clearance= 1\n|container-class= safe\n|secondary-class= none\n|disruption-class= dark\n|risk-class= notice\n]]\n\n------\n\n[[include component:image-block \n    name=http://scp-wiki.wdfiles.com/local--files/scp-3730/windtunnel.jpg|\n    caption=SCP-3730|\n]]\n\n**特殊收容措施：**应每月对SCP-3730进行一次例行检查，以确保其能正常工作。所有使用SCP-3730进行的测试必须经3/3730级人员批准。当异常情况发生时，基金会人员应遵循标准的风洞[[footnote]]**译注：**风洞（wind tunnel）即风洞实验室，是以人工的方式产生并且控制气流，用来模拟飞行器或实体周围气体的流动情况，并可量度气流对实体的作用效果以及观察物理现象的一种管道状实验设备。[[/footnote]]安全守则。\n\n**描述：**SCP-3730是1995年于Site-201中建成的一个3.7m长的风洞，并在建成的三个月后开始出现异常特性。当SCP-3730启动时，如果有飞机或者其它飞行器的模型存在其中，则在机器使用期间会出现各种异常现象。这些现象取决于模型所代表的载具。\n\n~~~~\n\n**附录：**\n\n以下是SCP-3730测试的简要列表。\n\n||~ 日期||~ 载具模型||~ 结果||~ 注||\n||1995.3.6||[[[SCP-3920|San-14 观测飞机]]]||积雨云不断地在模型前面形成，在模型穿过它后消散。||这是发生在SCP-3730中的第一起异常现象。||\n||1996.6.8||SCPF-16G 战斗机||两架与模型相同尺寸的迷你F-16飞机，在风洞中出现。三分钟后，两架F-16都向模型发射了一枚导弹，制造出一颗小火球并将其击毁。||无||\n||1997.9.12||SCPS 兰斯型紧急逃生舱||模型周围充斥着剧烈的火焰，类似于在空气动力学上预测太空舱重返大气层时的情景。大量的盐水从风扇中溢出，充满了大部分舱室，模型上出现了一个降落伞。||无||\n||1998.4.29||SSTO[[footnote]]单级入轨（Single-stage-to-orbit）的英文缩写。[[/footnote]]型太空飞机  Yodh-0||模型机翼开始剧烈振动，并在一分钟后断裂。在此之前无异常情况发生。||测试后对飞机进行的检查发现了结构缺陷，如果不加以修复，将导致机翼以同样的方式断裂。||\n||1999.2.2||Lamedh-12 货机||雪堆积在风洞的地面上，明显抵挡了产生的风力。三小时后，雪堆积成了类似萨彦岭地区中的积雪堆。一颗小石从SCP-3730的风扇中吹出，落在了其中一个积雪堆上。||这一事件使基金会找到了Lamedh-12并救出了它的相关人员。这架飞机意外进入俄罗斯2号异常空域，并遭遇了一架未知飞机，随后在山区中坠毁。||\n||1999.2.4||RAAZ-2 未知飞机||雪从风扇中吹出来，偶尔在类似北极光的光出现时停止。||该模型基于Lamedh-12拍摄的模糊照片制作。目前还没有获得有关这架飞机的确切信息。||\n||2001.8.1||1986年的道奇牌大篷车||一个无特征的小型人形出现在模型顶部，轻叩着脚并踱来踱去。这个人形转向安保摄像头，耸了耸肩，然后马上消失。||这是首次使用非飞行载具的模型进行的测试。||\n||2002.7.26||SCP-3730||在测试后对模型进行分析后，才观察到异常效应。测试的模型中显然又出现了数量不确定的模型，并且其大小只能用微观尺度衡量。在分析过程中，SCP-3730突然断电，这与模型的破坏相对应。||无||\n||2004.1.22||Samekh-9 探测用喷气式飞机[[footnote]]一架能垂直起降的飞机，设计用于探索一个出现在洛纳尔湖的超维度空间。[[/footnote]]||Samekh-9的驾驶舱和飞行员出现在SCP-3730中，与主飞机脱离。||第二天，Samekh-9进入超维度空间，敌对生命体对其造成不可修复的破坏，随后飞机遭遇了一种时间异常，并将机上人员送至前一天。||\n||2005.3.6[[footnote]]这发生在SCP-3730首次表现出异常性质的10年后。[[/footnote]]||无||SCP-3730自行启动，大量五彩纸屑出现在风洞中。关闭后，一张一面呈有笑脸表情，另一面写着“希望我有帮到你！”的小纸条被发现。||在观察到3730的研究小组成员的士气得到提高后，Site-201研究委员会决定批准继续对SCP-3730的无限期测试。||\n\n[[footnoteblock]]\n\n[[div class=\"footer-wikiwalk-nav\"]]\n[[=]]\n<< [[[SCP-3729]]] | SCP-3730 | [[[SCP-3731]]] >>\n[[/=]]\n[[/div]]",
+  "tags": [
+    "safe",
+    "scp",
+    "反熵",
+    "基金会制",
+    "建筑",
+    "气象"
+  ],
+  "author": "whospace",
+  "created_at": "2020-08-06T13:24:31+00:00",
+  "updated_at": "2020-08-08T01:22:06+00:00",
+  "rating": 5,
+  "_site": "scp-wiki-cn",
+  "_fullname": "scp-3730"
+}

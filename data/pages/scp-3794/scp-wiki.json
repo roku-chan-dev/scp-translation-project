@@ -1,0 +1,19 @@
+{
+  "title": "SCP-3794",
+  "content": "[[include :scp-wiki:theme:classic]]\n[[>]]\n[[module Rate]]\n[[/>]]\n\n[[include component:image-block\n    name=rule.jpg|\n    caption=SCP-3794\n]]\n\n**Item #:** SCP-3794\n\n**Object Class:** Safe\n\n**Special Containment Procedures:** SCP-3794 is kept within a standard item locker. Testing is currently suspended.\n\n**Description:** SCP-3794 is a sledgehammer that converts living tissue to //pico de gallo// salsa when swung with sufficient force. This salsa is not significantly different from ordinary salsas in composition, nutritional value, or taste. \n\nTissue is converted instantly within a ~3-8 cm radius from the area directly struck by SCP-3794. Converted salsa does not adhere to the subject and slides out of the resulting depression or hole in the subject's body. Blood vessels and other structures terminate abruptly at the edge of conversion, as if cauterized.\n\nIf salsa conversion causes a portion of the body to become detached, this portion will retain life functions as long as the subject does.\n\n**Addendum:** SCP-3794 was used on test subject's skull, resulting in conversion of entire brain and majority of skull to salsa. Despite this, the subject continued to move frantically before crudely writing \"HELP\" using the spilled salsa. \n\nConsumption of the salsa resulted in the death of the subject within 30 minutes. Testing halted.\n\n[[footnoteblock]]\n\n[[div class=\"footer-wikiwalk-nav\"]]\n[[=]]\n<< [[[SCP-3793]]] | SCP-3794 | [[[SCP-3795]]] >>\n[[/=]]\n[[/div]]\n\n[[include :scp-wiki:component:license-box]]\n=====\n> **Filename:** rule.jpg\n> **Name:** File:Sledgehammer (33104910115).jpg\n> **Author:** XoMEoX \n> **License:** CC BY 2.0\n> **Source Link:** [https://commons.wikimedia.org/wiki/File:Sledgehammer_(33104910115).jpg Wikimedia Commons]\n=====\n[[include :scp-wiki:component:license-box-end]]",
+  "tags": [
+    "_cc",
+    "_licensebox",
+    "food",
+    "safe",
+    "scp",
+    "tool",
+    "transfiguration"
+  ],
+  "author": "Weryllium",
+  "created_at": "2019-01-09T23:33:13+00:00",
+  "updated_at": "2022-03-17T09:16:34+00:00",
+  "rating": 348,
+  "_site": "scp-wiki",
+  "_fullname": "scp-3794"
+}

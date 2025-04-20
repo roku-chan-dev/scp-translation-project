@@ -1,0 +1,19 @@
+{
+  "title": "SCP-5826",
+  "content": "[[include :scp-wiki:theme:classic]]\n[[include :scp-wiki:theme:magnus-web-format]]\n[[include :scp-wiki:component:betterfootnotes]]\n[[>]]\n[[module Rate]]\n[[/>]]\n[[include :scp-wiki:component:author-label-source start=--\n|name=Cremo\n|no-right-margin=*]]\nYou can check out more of my works here:\n\n[[[cremo]]]\n[[include :scp-wiki:component:author-label-source end=--]]\n\n[[include :scp-wiki:component:anomaly-class-bar-source\n\n|item-number= 5826\n\n|clearance= 2\n\n|container-class= safe\n\n|secondary-class= none\n\n|disruption-class= dark\n\n|risk-class= notice\n\n]]\n\n**Special Containment Procedures:**  SCP-5826 is to be contained in a standard anomalous object locker at Site-228.\n\n**Description:** SCP-5826 is a slightly damaged Newtsuit (a type of atmospheric diving suit), yellow in coloration. Upon physical interaction with liquid substances, SCP-5826 will become intangible, but only towards the liquid substances. \n\nSubjects wearing SCP-5826 were noted to experience mild discomfort, foul odors, muffled vocalizations of unknown source, //acrophobia//[[footnote]] Fear of falling. [[/footnote]] and temporary blindness that can last for 40 seconds.\n\n\n[[collapsible show=\"● Experiment log ●\" hide=\"○ Close ○\"hideLocation=\"both\"]]\n\n**Number:** 01\n**Subject:** 2 liters of water\n**Result:** The water passed through SCP-5826 immediately. \n\n\n**Number:** 03\n**Subject:** 1 ice cube\n**Result:** The ice cube remained on the surface of SCP-5826 while the liquid melting from the ice cube went through it.\n\n\n**Number:** 06\n**Subject:** 2 liters of milk\n**Result:** Similar to Test 01, except the liquid passing through SCP-5826 was 0.5 seconds slower this time, presumed because of the milk's higher density.\n\n\n**Number:** 09\n**Subject:** 14 kilograms of molten iron\n**Result:** The process was significantly slower than during the previous tests, lasting at least twenty seconds. \n\n \n**Number:** 13\n**Subject:** 2 liters of water containing various microorganisms, provided by Site-228's biological research labs.\n**Result:** Microorganisms larger than 10 micrometers have remained on the surface of SCP-5826 while the others passed through with the water.\n\n\n**Number:** 22\n**Subject:** 1 swimming pool (2 meters deep) filled with water\n**Additional note:** SCP-5826 was equipped with a safety harness to prevent further damages. \n**Result:** SCP-5826 submerged immediately and almost hit the bottom of the pool. \n[[/collapsible]]\n\n**Discovery:** SCP-5826 was discovered in 2017 at the bottom of the Pacific Ocean. The skeletal remains of an unidentified male human were discovered inside SCP-5826. The cause of death was falling from upwards of 100 meters. \n\n[[footnoteblock]]\n\n[[div class=\"footer-wikiwalk-nav\"]]\n[[=]]\n<< [[[SCP-5825]]] | SCP-5826 | [[[SCP-5827]]] >>\n[[/=]]\n[[/div]]\n[[include :scp-wiki:component:license-box]]\n[[include :scp-wiki:component:license-box-end]]",
+  "tags": [
+    "_licensebox",
+    "acoustic",
+    "clothing",
+    "intangible",
+    "safe",
+    "scp",
+    "visual"
+  ],
+  "author": "Cremo",
+  "created_at": "2021-12-30T08:03:53+00:00",
+  "updated_at": "2023-06-28T11:23:21+00:00",
+  "rating": 36,
+  "_site": "scp-wiki",
+  "_fullname": "scp-5826"
+}

@@ -1,0 +1,15 @@
+{
+  "title": "为你所著之赞歌，赠予纯白的你",
+  "content": "[[>]]\n[[module rate]]\n[[/>]]\n\n[[module css]]\n.page {\ndisplay: block;\noverflow: hidden;\nfont-family: \"Monotype Corsiva\", \"Bradley Hand ITC\", sans-serif;\nfont-style: normal;\n\nbackground-attachment: scroll;\nbackground-clip: border-box;\nbackground-color: transparent;\nbackground-image: linear-gradient(to top ,rgb(202, 219, 228) 0%, rgb(231, 233, 220) 8%);\nbackground-origin: padding-box;\nbackground-position: 0px 8px;\nbackground-repeat: repeat;\nbackground-size: 100% 20px;\n\nborder: 1px solid #CCC;\nborder-radius: 10px;\npadding: 10px 10px;\nmargin-bottom: 10px;\n\nbox-shadow: 0px 1px 3px rgba(0, 0, 0, 0.2)\n}\n.page p,\n.page ul {\nline-height: 20px;\nmargin: 0;\n}\n[[/module]]\n\n[[div class=\"page\"]]\n[[=]]\n你慷慨无私地\n给草地烙上了完美无瑕的脚印\n你不动声色地\n让温柔融化了如针如毡的绿茵\n@@ @@\n你静时\n要让全世界的画家都为之称奇\n你动时\n要让全世界的花鸟都为之鸣泣\n@@ @@\n你的步伐轻盈\n像是跑进风里\n你的玉体皎洁\n像是躲进月里\n你的词句生动\n像是跳进梦里\n你的一举一动如此浪漫\n像是游进我的眼里\n@@ @@\n我要为你写下赞歌\n因为你是阿佛洛狄忒的嫡戚\n我要为你勾勒此景\n因为我是斯特利乌斯的孩亲\n@@ @@\n孩子\n你要努力\n去跑进风里\n去躲进月里\n去跳进梦里\n去游进芸芸众生的眼里\n让诗人全都为你提笔\n让歌者全都为你舞琴\n@@ @@\n[[>]]\n－－赠与不知名的这位小姐\n       来自倍感荣幸的Mr.V\n[[/>]]\n[[/=]]\n[[/div]]",
+  "tags": [
+    "wanderers",
+    "原创",
+    "旅行者之书"
+  ],
+  "author": "Ryan Sor",
+  "created_at": "2021-08-22T07:38:43+00:00",
+  "updated_at": "2021-08-22T07:41:44+00:00",
+  "rating": 34,
+  "_site": "scp-wiki-cn",
+  "_fullname": "wanderers:perfect"
+}

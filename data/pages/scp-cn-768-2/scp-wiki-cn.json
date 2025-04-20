@@ -1,0 +1,14 @@
+{
+  "title": "基金会内部通讯系统 v2.4.32",
+  "content": "[[>]]\n[[module Rate]]\n[[/>]]\n\n[[=]]\n> //基金会内部通讯系统 v2.4.32//\n> \n> 如果你的用户名没有显示，请先[https://www.wikidot.com/default--flow/login__LoginPopupScreen?originSiteId=530812&openerUri=http://scp-wiki-cn.wikidot.com 登录]。\n\n[[module ListUsers users=\".\"]]\n> [[[SCP-CN-768-3|查看%%title%%（编号%%number%%）的通讯记录]]]\n[[/module]]\n[[/=]]",
+  "tags": [
+    "原创",
+    "掩藏页"
+  ],
+  "author": "Toooajk",
+  "created_at": "2017-07-25T08:15:21+00:00",
+  "updated_at": "2022-02-15T02:36:57+00:00",
+  "rating": 4,
+  "_site": "scp-wiki-cn",
+  "_fullname": "scp-cn-768-2"
+}

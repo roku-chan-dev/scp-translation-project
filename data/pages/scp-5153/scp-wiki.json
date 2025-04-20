@@ -1,0 +1,24 @@
+{
+  "title": "SCP-5153",
+  "content": "[[include theme:black-highlighter-theme]]\n[[include :scp-wiki:component:bhl-dark-sidebar]]\n[[module CSS]]\n:root{\n--cutColour: #fafafa;\n--barColour: #590505;\n}\n\n.info-container .collapsible-block-folded a{\ncolor: #FFF;}\n.info-container .collapsible-block-unfolded-link a{\ncolor: #FFF;}\n\n.translation_block{\ndisplay:none;}\n[[/module]]\n\n[[include info:start]]\n__**SCP-5153:**__ The Meteor Who Cried Wolf\n**Author:** [[*user TheMightyMcB]]\n\n**More by me:**\n* [http://www.scp-wiki.net/themightymcb-s-author-page TheMightyMcB's Author Page]\n\n**Special thanks to:**\n* [[*user DrAkimoto]]\n* [[*user rattles]]\n* [[*user Crashington]]\n* [[*user Oboebandgeek99]]\n\n[[include info:end]]\n\n[[module ListPages category=\"fragment\" parent=\".\" order=\"created_at\" limit=\"1\" offset=\"@URL|0\"]]\n%%content%%\n[[/module]]\n\n@@ @@\n\n~~~~\n[[footnoteblock]]\n[[div class=\"footer-wikiwalk-nav\"]]\n[[=]]\n<< [[[SCP-5152]]] | SCP-5153 | [[[SCP-5154]]] >>\n[[/=]]\n[[/div]]\n\n[[include :scp-wiki:component:license-box]]\n=====\n> N/A\n=====\n[[include :scp-wiki:component:license-box-end]]\n\n[!-- For translators, here is a direct link to each iteration. --]\n[!-- http://www.scp-wiki.net/fragment:scp-5153-0 --]\n[!-- http://www.scp-wiki.net/fragment:scp-5153-1 --]\n[!-- http://www.scp-wiki.net/fragment:scp-5153-2 --]\n[!-- http://www.scp-wiki.net/fragment:scp-5153-3 --]\n[!-- http://www.scp-wiki.net/fragment:scp-5153-4 --]\n[!-- To make ListPages work correctly, make this main page first, then upload the first iteration and set its parent to the first page. Repeat that for each iteration. Remember to change the offset links at the bottom of each iteration to the correct link for the new pages you have created. --]",
+  "tags": [
+    "_explosions",
+    "_licensebox",
+    "_listpages",
+    "airborne",
+    "asci",
+    "global-occult-coalition",
+    "jam-con2020",
+    "loop",
+    "pentagram",
+    "safe",
+    "scp",
+    "teleportation"
+  ],
+  "author": "TheMightyMcB",
+  "created_at": "2020-03-10T19:58:27+00:00",
+  "updated_at": "2022-10-01T18:13:46+00:00",
+  "rating": 217,
+  "_site": "scp-wiki",
+  "_fullname": "scp-5153"
+}

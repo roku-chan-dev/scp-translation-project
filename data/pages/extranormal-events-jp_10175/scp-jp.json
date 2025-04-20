@@ -1,0 +1,14 @@
+{
+  "title": "あなたは選ばれた",
+  "content": "overview: 駅構内の自動販売機が停止し、画面に「あなたは選ばれた」と表示された後、電源が切れるという報告が複数寄せられた。異常現象が発生した自販機の前に立っていた利用者3名が、「目的地が分からなくなった」と語り、全員が駅構内を数時間彷徨う事態となった。電源を再起動しても再現はできなかった。\nswdate: '1'\ndate: 2024/11/█\nswplace: '1'\nplace: 日本、東京の地下鉄██駅構内\nswchaseprocedure: '1'\nchaseprocedure: 調査チームが該当の自販機を解体したところ、通常搭載されていない回路が発見されたが、製造元の記録には存在しなかった。対象者3名にAクラス記憶処理を行い、経過を観察中。\nswaddendum: '0'\naddendum: ''\ntf2: '0'\nauthor: ''\nredirect-b: '[[module Redirect destination=\"/log-of-extranormal-events-jp'\nredirect-e: '\"]]'",
+  "tags": [
+    "jp",
+    "剪定対象-子"
+  ],
+  "author": "pureia",
+  "created_at": "2024-11-25T11:10:22+00:00",
+  "updated_at": "2025-04-02T15:17:02+00:00",
+  "rating": 12,
+  "_site": "scp-jp",
+  "_fullname": "extranormal-events-jp:10175"
+}

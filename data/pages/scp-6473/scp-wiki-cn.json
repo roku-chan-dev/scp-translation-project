@@ -1,0 +1,18 @@
+{
+  "title": "SCP-6473",
+  "content": "[[include :scp-wiki-cn:theme:black-highlighter-theme]]\n[[include :scp-wiki-cn:component:pride-highlighter |inc-lgbt-alt= --]]]\n\n[[include :scp-wiki-cn:component:anomaly-class-bar-source\n|lang=cn\n|item-number= 6473\n|clearance= 4\n|container-class= safe\n|secondary-class= none\n|secondary-icon=\n|disruption-class= dark\n|risk-class= notice\n]]\n-----\n**特殊收容措施：** SCP-6473被收容于Site-234的标准安保锁柜内。允许在6473项目首席研究员批准下将SCP-6473用于测试。\n\n**描述：** SCP-6473是一个玻璃小瓶，其上贴有一张标签，写着“当劳累时”[原文]，其中装有28枚亮白色胶囊，每个长约2厘米。在此胶囊内只发现有纯美利奴羊奶。\n\n服用SCP-6473的对象会去寻找一处可以安全休息的地点，在此合上眼睛，30秒后陷入不省人事。他们将在此状态下保持8小时左右[[footnote]]需注意，在此期间对象大脑中会出现明显的神经活动增加。[[/footnote]]。此后，对象会宣称自己合眼期间没有任何记忆，但会描述称自己在此期间身处某个平行维度中，且其逻辑与物理法则均与基准现实不同。对象还会描述称遭遇了各种事件、物体、实体，全都与基准逻辑相异。使用不可知剂对这些维度进行探索和研究无果，不可知剂并无任何效果[[footnote]]也因此，推测SCP-6473的效应并非超现实性质。[[/footnote]]。\n\n根据对象的记录，推测这些维度是根据服用SCP-6473者的记忆创设。需注意，对象在使用SCP-6473期间没有报告过任何明确危险；少数案例中有此类情形发生，对象会在威胁得以伤害他们的前一瞬间恢复对外界的反应。\n-----\n= **附录-6473-1: 重分级**\n\n在对生物及物理法则不同的已知平行世界进行观测后，SCP-6473因能协助发现Mirus级异常[[footnote]]Mirus级异常只存在于和基准现实有重大差异的平行宇宙中，且在这些宇宙内被视为寻常。[[/footnote]]被重分级为Thaumiel；权限等级已立即提升为机密。当前正在与这些宇宙内的基金会协作开展研究，分享技术；O5指挥部正在审议是否批准设立[https://scp-wiki-cn.wikidot.com/task-forces#omicron-rho MTF-Omicron Rho]。 \n\n[[div style=\"display: none;\"]]\n[[footnoteblock]]\n[[/div]]\n[[div class=\"footer-wikiwalk-nav\"]]\n[[=]]\n<< [[[SCP-6472]]] | SCP-6473 | [[[SCP-6474]]] >>\n[[/=]]\n[[/div]]\n[[include :scp-wiki-cn:component:license-box\n|author=Siddartha Alonne]]\n[[include :scp-wiki-cn:component:license-box-end]]",
+  "tags": [
+    "safe",
+    "scp",
+    "医学性",
+    "味觉影响",
+    "睡眠",
+    "食物"
+  ],
+  "author": "ashausesall",
+  "created_at": "2022-09-17T05:58:39+00:00",
+  "updated_at": "2022-11-29T14:26:55+00:00",
+  "rating": 0,
+  "_site": "scp-wiki-cn",
+  "_fullname": "scp-6473"
+}

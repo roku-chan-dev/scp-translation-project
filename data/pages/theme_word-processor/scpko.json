@@ -1,0 +1,14 @@
+{
+  "title": "워드프로세서 테마",
+  "content": "[[iftags +테마]]\n[[>]]\n**평가 모듈:**\n[[module Rate]]\n[[/>]]\n\n워드프로세서(문서처리기) 프로그램의 외양을 재현하는 테마입니다. 원래 [[[escapism-i|\"Escapism\"]]] 연작에 사용하기 위해 개발했습니다. 사용하기 위해서는 아래 코드를 복붙하세요.\n\n> @@[[include :scpko:theme:word-processor]]@@\n\n이 테마에는 커스텀 div 속성이 있습니다. 이 div는 테마가 적용된 페이지에서만 작동합니다.\n\n[[div id=\"blink-bar\"]]\n문단에 {{@@[[div id=\"blink-bar\"]]@@}} 를 지정하면 그 문단의 끝에 깜빡이는 막대가 생성됩니다.\n[[/div]]\n\n이 테마는 인용문, 표, 탭, 정보 모듈 등 표준적인 페이지 구성요소들과의 호환을 상정하고 만들어지지 않았다는 점에 주의하십시오. 이미지 컴포넌트는 지원되지만, 평가 모듈 바로 밑에 위치하도록 삽입할 수는 없습니다.\n[[/iftags]]\n\n[[div [[iftags -테마]]style=\"display: none\"[[/iftags]]]]\n\n[[module CSS]]\n@import url('https://scp-wiki.wdfiles.com/local--code/theme%3Aword-processor/1');\n[[/module]]\n\n[[include :scp-wiki:component:interwiki-style\n| priority=1\n| theme=https://scp-wiki.wdfiles.com/local--code/theme%3Aword-processor/1\n]]\n\n[[include :scpko:component:collapsible-sidebar]]\n\n[[module CSS show=\"true\"]]\n@import url('https://scpko.wdfiles.com/local--files/unfont/UnBatang.css');\n@import url('https://scpko.wdfiles.com/local--files/unfont/UnTaza.css');\n\n/* ---------------------------------\nWord Processor Theme\n2020 Wikidot Theme\nCreated by stormbreath\nLogo Image by Rounderhouse and MalyceGrayves\n--------------------------------- */\n\n/* -------------- HEADER -------------- */\nbody {\n    font-family: '신명조', '바탕', 'UnBatang';\n}\n\n#header h1 a::before {\n    content: '커먼 오피스';\n    font-family: 'Baloo Bhaina 2', 'UnTaza', cursive;\n}\n\n#header h2 span::before {\n    content: '오픈소스 워드프로세서';\n    font-family: 'Baloo Bhaina 2', 'UnTaza', cursive;\n}\n\n\ntextarea {\n    font-family: '바탕체', monospace;\n}\n\ninput#edit-page-title.text {\n    font-family: '바탕체', monospace;\n}\n[[/module]]\n[[/div]]",
+  "tags": [
+    "en",
+    "테마"
+  ],
+  "author": "Salamander724",
+  "created_at": "2021-02-16T14:03:51+00:00",
+  "updated_at": "2024-08-17T05:36:18+00:00",
+  "rating": 1,
+  "_site": "scpko",
+  "_fullname": "theme:word-processor"
+}

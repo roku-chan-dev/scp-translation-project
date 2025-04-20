@@ -1,0 +1,19 @@
+{
+  "title": "SCP-1307",
+  "content": "[[>]]\n[[module Rate]]\n[[/>]]\n\n[[include component:image-block\n    name=800px-Stanley_Electric_Pencil_Sharpener.JPG|\n    caption=SCP-1307 before recovery in ███████████, Colorado.\n]]\n\n**Item #:** SCP-1307\n\n**Object Class:** Safe\n\n**Special Containment Procedures:**  SCP-1307 is to be kept in a standard hazardous-object containment storage at Site-19. No pencils shall be stored or brought within 6 metres of the object. Under no circumstances outside of testing should a pencil be placed in the hole on the front of SCP-1307, unplugged or otherwise.\n\n**Description:** SCP-1307 is a standard black electric sharpener with a standard size receiving hole and a loading bay underneath designed to catch pencil shavings. On its back is a standard electric cord which appears to be functionless; SCP-1307 will still activate whether or not it is unplugged.\n\nSCP-1307 is activated in a similar manner to a conventional electric pencil sharpener, by inserting a standard sized pencil into the hole on the front. The effect will not be activated by pens, pencil-shaped steel rods, or [REDACTED]. Note that this effect //will// be activated by mechanical pencils.\n\nUpon an individual inserting a pencil into SCP-1307, the subject will find themselves unable to remove their hands from the pencil.  All attempts to pry the hand from the pencil will fail, and the only way to remove the individual from contact is amputation of the hand. While SCP-1307 is active, it adheres itself to the surface on which it is located and will not move. Additionally, the pencil becomes completely unbreakable. Once the pencil has sharpened down to the point where the individual's hand is located, SCP-1307 will continue to draw the pencil in, enlarging the hole as far as needed to take in the hand of the subject. As the subject's hand is drawn in, it is \"sharpened\" along with the pencil, shredding the limb in the process.\n\nSCP-1307, through the course of several tests, has demonstrated the ability to tear through a full human body in the course of about 4 hours. Despite severe blood loss, subjects are kept alive until the brain is destroyed by SCP-1307, at which point the subject's vital functions cease. SCP-1307 then continues to take in the rest of the body and shred the entirety of the corpse. Afterwards, the only blood that is left in the area is any that did not land in the vicinity of SCP-1307. Any blood spilled on, inside, or near SCP-1307 seemingly vanishes, along with the rest of the subject's body. Attempts to send trackers through with the subject have proven fruitless, as the trackers are shredded along with the individual.\n\nSCP-1307 was recovered at ████████ Elementary in ███████████, Colorado.\n[[footnoteblock]]\n\n[[div class=\"footer-wikiwalk-nav\"]]\n[[=]]\n<< [[[SCP-1306]]] | SCP-1307 | [[[SCP-1308]]] >>\n[[/=]]\n[[/div]]",
+  "tags": [
+    "_cc",
+    "electronic",
+    "immobile",
+    "mechanical",
+    "safe",
+    "scp",
+    "tool"
+  ],
+  "author": "Paul Henderson",
+  "created_at": "2012-04-30T22:22:52+00:00",
+  "updated_at": "2021-09-22T14:27:58+00:00",
+  "rating": 162,
+  "_site": "scp-wiki",
+  "_fullname": "scp-1307"
+}

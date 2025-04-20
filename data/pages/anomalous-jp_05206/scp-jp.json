@@ -1,0 +1,14 @@
+{
+  "title": "05206",
+  "content": "content: \"**説明:** 出た目の数だけ個数が乗算され増殖していくサイコロ。現在の個数は--128-- 23597個\\n**回収日:** 20██/██/██\\n**回収場所:** ██小学校\\n**現状:** 低危険度物品収容ロッカーに保管\\n**追記:** 地震の揺れでサイコロが振られることは想定外でした - ██研究員\"\ntf2: '0'\nauthor: ''\nredirect-b: '[[module Redirect destination=\"http://ja.scp-wiki.net/log-of-anomalous-items-jp'\nredirect-e: '\"]]'",
+  "tags": [
+    "jp",
+    "剪定対象-子"
+  ],
+  "author": "fuji_fuji",
+  "created_at": "2024-11-11T13:28:51+00:00",
+  "updated_at": "2025-04-02T15:18:03+00:00",
+  "rating": 10,
+  "_site": "scp-jp",
+  "_fullname": "anomalous-jp:05206"
+}

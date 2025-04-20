@@ -1,0 +1,14 @@
+{
+  "title": "10108",
+  "content": "overview: 'NHK教育テレビジョン（現:NHK Eテレ）放送の教養番組「いないいないばあっ！」に登場する全ての人物（アクター含む）の台詞が焚火の燃焼音に、番組内の全ての使用楽曲が「金属同士が擦れ合うような」と形容される無機質な音に、それぞれ置換されました。'\nswdate: '1'\ndate: '1997/██/██ 16:05~16:07'\nswplace: '1'\nplace: 日本全域\nswchaseprocedure: '1'\nchaseprocedure: カバーストーリー「放送事故」が適用されました。インシデント発生後、音声データ、放送局内部システム、通信回線が検査されましたが、いずれにも異常な点は確認されませんでした。\nswaddendum: '0'\naddendum: ''\ntf2: '0'\nauthor: ''\nredirect-b: '[[module Redirect destination=\"/log-of-extranormal-events-jp'\nredirect-e: '\"]]'",
+  "tags": [
+    "jp",
+    "剪定対象-子"
+  ],
+  "author": "Utsuki_K",
+  "created_at": "2020-08-04T08:29:33+00:00",
+  "updated_at": "2021-05-24T13:21:14+00:00",
+  "rating": 39,
+  "_site": "scp-jp",
+  "_fullname": "extranormal-events-jp:10108"
+}

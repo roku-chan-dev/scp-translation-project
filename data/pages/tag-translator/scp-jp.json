@@ -1,0 +1,15 @@
+{
+  "title": "タグ翻訳システム",
+  "content": "[[include :scp-jp:credit:start |mode=no-rate]]\n\n**タイトル:** タグ翻訳システム\n**著者:** ©︎SCP財団\n**作成年:** 2021\n----\n本ページはSCPコミュニティのために作成され、SCP財団に帰属します。本ページの管理は[[[meet-the-staff-jp|サイトスタッフ]]]に委任されています。\n\n[[include :scp-jp:credit:end]]\n\nこのシステムはSCP-JPテクニカル・スタッフ・チームにより管理されています。不具合を見つけたら、スタッフに報告してください。[[[contact-staff#toc4|サイトへのお問い合わせ]]]\n現在はEN(英語版)のみに対応しています。\n\n[[iframe https://scp-jp.github.io/scp-tag-translation/ frameborder=\"0\" scrolling=\"no\" width=\"100%\" height=\"100%\" style=\"min-height:1000px\"]]",
+  "tags": [
+    "jp",
+    "外部連携",
+    "管理"
+  ],
+  "author": "ukwhatn",
+  "created_at": "2021-09-08T13:03:51+00:00",
+  "updated_at": "2025-02-20T13:25:24+00:00",
+  "rating": 31,
+  "_site": "scp-jp",
+  "_fullname": "tag-translator"
+}

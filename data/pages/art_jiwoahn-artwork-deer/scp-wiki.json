@@ -1,0 +1,17 @@
+{
+  "title": "Welcome to Deer College (Artwork)",
+  "content": "[[include :scp-wiki:component:sigma-plus\n|wide=a]]\n[[include :scp-wiki:component:toggle-sidebar]]\n\n======\n[[include component:preview\ntext=\nThe higher learning institution of the Three Portlands, free of interference from anti-anomaly, pro-Veil organizations (looking at you, ICSUT).]]\n======\n\n[[module CSS]]\n:root {\n    --header-title: \"SCP Foundation\";\n    --header-subtitle: \"Sub-veil College Promotion\";\n}\n\n.scp-image-block.block-right { margin: 1em 2em 1em 1em; }\n\n[[/module]]\n\n[[>]]\n[[module Rate]]\n[[/>]]\n\n[[image https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/5ed79f57-0fe5-4b00-889a-f9410d046f06/dgn0aue-2334f53a-a550-42df-9272-6247072eb35e.jpg/v1/fill/w_1280,h_807,q_75,strp/welcome_to_deer_college_by_jiwoahn_dgn0aue-fullview.jpg?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7ImhlaWdodCI6Ijw9ODA3IiwicGF0aCI6IlwvZlwvNWVkNzlmNTctMGZlNS00YjAwLTg4OWEtZjk0MTBkMDQ2ZjA2XC9kZ24wYXVlLTIzMzRmNTNhLWE1NTAtNDJkZi05MjcyLTYyNDcwNzJlYjM1ZS5qcGciLCJ3aWR0aCI6Ijw9MTI4MCJ9XV0sImF1ZCI6WyJ1cm46c2VydmljZTppbWFnZS5vcGVyYXRpb25zIl19.2aJdEbc7F6z9lcrXCqMZUVIi5pgFAnGlfcM5DZcPKr4]]\n\n= An Art Exchange piece for [[*user Ch00bakka]].",
+  "tags": [
+    "art-exchange",
+    "artwork",
+    "cel-shaded",
+    "deer-college",
+    "goi-art"
+  ],
+  "author": "Jiwoahn",
+  "created_at": "2023-12-30T06:16:35+00:00",
+  "updated_at": "2024-05-01T03:16:10+00:00",
+  "rating": 41,
+  "_site": "scp-wiki",
+  "_fullname": "art:jiwoahn-artwork-deer"
+}

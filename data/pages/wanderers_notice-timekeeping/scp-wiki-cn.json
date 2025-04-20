@@ -1,0 +1,14 @@
+{
+  "title": "计时通知",
+  "content": "[[module CSS]]\n.old-paper {\n    background: url(https://storage.googleapis.com/webdesignledger.pub.network/LaT/edd/2016/02/seamless-background-textures-15-780x780.jpg);\n    padding: 3rem\n}\n[[/module]]\n\n[[include :scp-wiki-cn:wanderers:dustjacket-theme]]\n[[include :scp-wiki-cn:wanderers:vitalis-llc-theme]]\n\n\n[[div class=\"old-paper\"]]\n[[=]]\n+ ##black| **通知**##\n[[/=]]\n\n------\n[[span style=\"color:black\"]]\n致所有新工人：\n\n首先欢迎来到维生公司，这不知疲倦地--无偿--劳动之地。\n\n##black| 若你们想知道我们是如何计时的，我们就教你明白。这很简单：我们用[[span class=\"ruby\"]]万杆期[[span class=\"rt\"]]M.L.C[[/span]][[/span]]（[[span class=\"ruby\"]]由--可怜的-- Jerome 做的数万次杠杆周期[[span class=\"rt\"]]million lever cycles done by --(poor)-- Jerome[[/span]][[/span]]）[[footnote]] **历史：**在杆元元年，Jerome 领导了一场反抗 BALKASHAZ 的工人革命。虽然这是很传奇的事件，但革命失败了，令倒霉的他被罚去无休止地去推拉永恒机器的杠杆。事实上，所有人，包括工人与国王，都开始用他的受罚当做标准时间（因为该场域未受明显改变）[[/footnote]]。这是我们在此地所用的时间单位。##\n\n##black| \n目前，在本通知印发之时，已经过了27杆期了。换算到本地时间，每个周期都有大约200,000杆期。我们同样使用 Jerome  纪年，尽管确切年数尚有争议。##\n\n##black|很少工人自愿当计时者，不过你可以接近他们去问时间。若你想当志愿者的话，我们同样欢迎你，你只需要联系下方的署名人。##\n\n##black| Klipper,##\n##black|首席计时者##\n[[/span]]\n[[/div]]",
+  "tags": [
+    "wanderers",
+    "记载"
+  ],
+  "author": "Etinjat",
+  "created_at": "2021-12-07T13:57:41+00:00",
+  "updated_at": "2021-12-07T19:08:55+00:00",
+  "rating": 3,
+  "_site": "scp-wiki-cn",
+  "_fullname": "wanderers:notice-timekeeping"
+}

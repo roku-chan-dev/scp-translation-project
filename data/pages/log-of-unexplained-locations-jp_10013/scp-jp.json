@@ -1,0 +1,14 @@
+{
+  "title": "10013",
+  "content": "number: UE-581581-JP\ncontent: '不定期なタイミングで音源不明の音を発する屠殺場の一室。発生する音は概して\"何らかの柔らかい物体を殴打している\"と形容されるものであり、1回から最大50回程度連続して発生する。稀に、硬い物体が砕ける音と不明な人物のため息が観測される場合がある。'\ndate: '2020-12-01'\narea: '秋田県 大館市'\nprotocol: 建物が存在する土地を地図情報から抹消しました。私有地として有刺鉄線付きフェンスを設置済み。\nredirect-b: '[[module Redirect destination=\"/log-of-unexplained-locations-jp'\nredirect-e: '\"]]'",
+  "tags": [
+    "jp",
+    "剪定対象-子"
+  ],
+  "author": "Mistertako",
+  "created_at": "2021-02-12T10:16:26+00:00",
+  "updated_at": "2021-05-24T13:21:28+00:00",
+  "rating": 13,
+  "_site": "scp-jp",
+  "_fullname": "log-of-unexplained-locations-jp:10013"
+}

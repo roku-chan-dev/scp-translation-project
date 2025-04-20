@@ -1,0 +1,23 @@
+{
+  "title": "SCP-001",
+  "content": "[[include :scp-wiki-cn:theme:black-highlighter-theme]]\n[[include :scp-wiki:component:collapsible-sidebar]]\n[[include :scp-wiki:component:centered-header-bhl]]\n\n[[module CSS]]\n.notice{\n    border: 1px solid #f9e24d;\n    outline: 4px solid #b54d3b;\n    color: #f9e24d;\n    background: #b54d3b;\n    padding: 10px;\n    text-align: center;\n}\n/* 使表格不再换行 */\n#page-content table.wiki-content-table th {\n    white-space: nowrap;\n}\n[[/module]]\n\n[[div style=\"display: none;\"]]\n[[include component:image-block\nname=https://scp-wiki.wdfiles.com/local--files/scp-4380/first.png\n|caption=首中之重\n|width=100%\n|align=center]]\n[[/div]]\n\n[[include :scp-wiki-cn:credit:start-standalone]]\n[[=]]\n++++ SCP-001\n+++ 首中之重\n由 [[*user felixou]] 编写\n------\n+++++ [[[felixoupage|来看看更多像这篇的作品]]]\n[[/=]]\n[[include :scp-wiki-cn:credit:end-standalone]]\n\n[[div class=\"notice\"]]\n[[=]]\n++++ 来自基金会误传部门的告示\n\n以下文件包含一个至关重要的信息危害。每一处数字信息都被认为是不可置信的，且用以绕过 SCP-001 异常效应的正确文档正在审查中。SCP-001 是每一位误传部门成员的首要工作内容。\n\n-- DoMC 主管，Eli Forkley\n[[/=]]\n[[/div]]\n\n@@ @@\n\n[[include :scp-wiki-cn:component:classified-bar-woed\n|lv=1\n|item=001\n|oc=Semel\n|lang=CN\n]]\n\n**特殊收容措施：**为将其收容，SCP-001 需被存于 Site-01 的人形生物收容舱室 A001 号中，且不允许与人员交互，除非该人员直接参与了其研究与收容。\n\nSCP-001 的记载文件将不会被上传至 [[[SCP-001]]] 编号内，原因显而易见。\n\n**描述：**SCP-001 是一个 --1 岁大--的带有模因性、信息危害性、官僚危害性及符号危害性异常属性的人类。SCP-001 影响所有对其的修饰语，令其在可用条件下变为所述修饰语的首位。\n\nSCP-001 的效应似乎会随着时间扩增，影响多种对其自身，与其周遭的有形及抽象概念的修饰语。\n\nSCP-001 的效应如下，每一**阶段**都描述了一次 SCP-001 效应随时间的扩增。\n\n||~ 阶段 ||~ 效应 ||~ 示例 ||\n|| **阶段 I** || SCP-001 的实际名称或标识符无法被正确表示，因为此些标识符在其描述性修饰语中并非“首位”。 || 此前给予 SCP-001 的 SCP 编号已丢失并被数字 001 所替代，因其为数字系统中的首位。SCP-001 此前的名字已丢失，并仅能以“元始之首”所指代。 ||\n|| **阶段 I** || 任何被 SCP-001 发布至网上的内容都总会导致出现由其达成的一项新记录。 || 在于 Instagram 发布一张自己吃汉堡王新品“双层培根皇堡”的照片后，其成为了首条在所有社交媒体软件中获得一兆赞的帖子，尽管 Instagram 的注册账户数量不超过 10 亿。该帖子被移除，随后 SCP-001 被收容于 Site-01 内。 ||\n|| **阶段 I** || SCP-001 所参与的每一场竞赛或游戏都总会导致 SCP-001 胜出。 || 于收容期间与职业国际象棋棋手所弈的数场对局中，SCP-001 未曾落败。SCP-001 声明未曾学习过如何游玩国际象棋，仅是在对局中随机移动棋子而已。 ||\n|| **阶段 I** || 任何与 SCP-001 有关的工作都将被强制置于更高一层的职称水平。 || 在收容时，尽管其仅被任为清洁工，但 SCP-001 的个人收件箱中收到了一封邮件，宣布 SCP-001 为跨国连锁快餐店汉堡王的新任所有者。 ||\n|| **阶段 I** || 所记载的评级将导致 SCP-001 出现在顶部，即使所述评级并不适用于 SCP-001。 || 多个报告中的年度评级导致了 SCP-001 成为了世界上最有影响力的人物、头号通缉犯、首富、每种运动的最佳运动员、最常用的牙膏、最著名的博物馆、世界上最和平的国家，诸如此类。 ||\n|| **阶段 I** || 上两个阶段的扩增。 || 由于本年度的选举，SCP-001 成为了加拿大的总理、印度的总统以及世界上多个地点的市长。 ||\n|| **阶段 I** || 根据基金会记录，SCP-001 是能够从最多刺伤、枪伤、窒息、致死注射剂量以及更多其它事物下存活下来的人。 || [[[decom-dept-hub|误传]]]协议失效。正在等待进一步尝试。 ||\n|| **阶段 I** || SCP-001 已发展出一种追溯性逆模因效应，若一个活物与 SCP-001 见面、阅读或听说与 SCP-001 有关的文档多于一次，则此效应将抹除上述对象先前的记忆。 || 这不是你第一次阅读此篇文件。 ||\n|| **阶段 I** || 历史似乎扭曲了，其成为了大多数历史性旧事的首位发现者及存在。 || 尽管仅有 1 岁，但 SCP-001 仍为首位出生的人类，首个被 SCP 基金会寻获的异常，电、文学及轮子的创造者。 ||\n|| **阶段 I** || //不适用// || 截至写作之时，SCP-001 的异常效应被认为将在一周内导致一次 FK 级（“意义终结”）情景，因其异常效正于所有基准现实中缓慢地每日移除至少一个 Cuil[[footnote]]Cuil 是一种测量单位，表示某种情况抽离现实的等级。[[/footnote]]。 ||\n\n**监督者议会决议 001.1：**\n\n[[div class=\"blockquote\"]]\n\n**提案：**“停止所有进一步记载及处决 SCP-001 的尝试”\n@@     @@--（{{O5-1}}）\n\n||~ 赞成 ||~ 反对 ||~ 弃权 ||\n|| O5-1 || || ||\n|| || O5-2 || ||\n|| || O5-3 || ||\n|| || O5-4 || ||\n|| || O5-5 || ||\n|| || O5-6 || ||\n|| || O5-7 || ||\n|| || O5-8 || ||\n|| || O5-9 || ||\n|| || O5-10 || ||\n|| || O5-11 || ||\n|| || O5-12 || ||\n|| || O5-13 || ||\n\n||~ **判决** ||\n||= **##Green|已通过##** ||\n由于 O5-1 为有实权的首个基金会成员，该议案已通过。\n[[/div]]\n\n[[footnoteblock]]\n------\n\n[[div class=\"footer-wikiwalk-nav\"]]\n[[=]]\n<< [[[SCP-4379]]] | SCP-001 | [[[SCP-4381]]] >>\n[[/=]]\n[[/div]]\n\n[[include :scp-wiki-cn:component:license-box\n|author=Felixou]]\n=====\n**缩略图**\n> **文件名：**First.png\n> **作者：**[[*user Felixou]]\n> **授权协议：**CC BY-SA 3.0\n=====\n[[include :scp-wiki-cn:component:license-box-end]]",
+  "tags": [
+    "meta",
+    "scp",
+    "不可摧毁",
+    "人形生物",
+    "信息危害",
+    "智能",
+    "机密分级",
+    "概念",
+    "活物",
+    "误传部",
+    "逆模因"
+  ],
+  "author": "hoah2333",
+  "created_at": "2022-09-26T05:54:23+00:00",
+  "updated_at": "2022-12-26T08:47:52+00:00",
+  "rating": 19,
+  "_site": "scp-wiki-cn",
+  "_fullname": "scp-4380"
+}

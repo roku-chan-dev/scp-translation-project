@@ -1,0 +1,18 @@
+{
+  "title": "SCP-4213",
+  "content": "[[include :scp-wiki-cn:component:info-ayers\n|page=dr-cimmerian-s-personnel-file[!-- url of your page on the scp wiki --]\n|authorPage=dr-cimmerian-s-personnel-file[!-- link to your author page --]\n|comments=你想知道我的伤疤是哪来的吗？\n]]\n[[include :scp-wiki-cn:component:black-highlighter-theme-dev]]\n[[module CSS]]\nsup {\nvertical-align: top; position: relative; top: -0.5em;\n}\n:root{\n--cutColour: #fafafa;\n--barColour: #590505;\n}\n\n.info-container .collapsible-block-folded a{\ncolor: #FFF;}\n.info-container .collapsible-block-unfolded-link a{\ncolor: #FFF;}\n\n.translation_block{\ndisplay:none;}\n[[/module]]\n\n[[include component:image-block name=http://scp-wiki.wdfiles.com/local--files/scp-4213/SCP-4213.jpg|caption=SCP-4213在一次获取事件后]]\n\n**项目编号：**SCP-4213\n\n**项目等级：**Keter\n\n**特殊收容措施：**SCP-4213的行动应由MTF Rho-4（“那不勒斯人”）从视听范围外监控。在SCP-4213从某地离开后，所有曾与之互动的人员都必须接受A级记忆删除。\n\n**描述：**SCP-4213是一西藏血统男性，年龄约五十或六十余岁。SCP-4213能无视人类之中的全部认知抵抗，令其实际可以控制他人行动。一旦感知到SCP-4213此效应将不可能防止。\n\nSCP-4213只将异常性质运用于一种旅行中，它会去往有大量冷冻乳制品的地点，之后利用其性质强迫原占有者允许SCP-4213得到乳品。之后它会吃下所获得的全部乳品。\n\n未知SCP-4213能否将其异常性质用于获取冷冻乳制品以外的事项，此种情况从未被观察到。然而，因此种获取事件频发，对SCP-4213的长期收容尝试均无法成功。\n\n**事故4213-1：**2019年1月15日，SCP-4213在Site-88举办“免费冰淇淋日”（每两月进行一次以鼓舞员工士气）期间进入站点自助餐厅。之后SCP-4213成功获得多份冷冻乳制品。在此事件中，SCP-4213遭遇Dr. Jacob Curtis。下列采访由站点监控设备记录。\n\n> **受访者：**SCP-4213\n> \n> **采访者：**Dr. Jacob Curtis\n> \n> **记录日期：**1/15/19 约12:15本地时间\n> \n> ----\n> \n> = **[无关内容略去—开始记录]**\n> \n> **Dr. Curtis：**很好。首先，你一开始怎么学到你的能力的？\n> \n> **SCP-4213：**我不知。\n> \n> **Dr. Curtis：**你有想过你的能力怎么影响别人吗？\n> \n> **SCP-4213：**嗯？\n> \n> **Dr. Curtis：**比如，想象下你从个小孩手里抢走冰淇淋。\n> \n> //SCP-4213露出微笑，然后开始舔食蛋筒里的冰淇淋。两人均沉默三秒。//\n> \n> **Dr. Curtis：**算了。你能想起哪次有人反抗了你的指示吗？\n> \n> **SCP-4213：**不。\n> \n> **Dr. Curtis：**那你记得什么？\n> \n> //SCP-4213继续舔食冰淇淋，同时一直与Dr. Curtis保持直接视线接触。//\n> \n> **Dr. Curtis：**你看，我们监控你得有几年了。既然你都在这了，我问你几个问题行吗？\n> \n> **SCP-4213：**你可真是怪。\n> \n> **Dr. Curtis：**我不是—//嘿！//\n> \n> //SCP-4213走开。Dr. Curtis跟上。//\n> \n> **Dr. Curtis：**我就想要几个答案，好吗？\n> \n> **SCP-4213：**我不管。\n> \n> **Dr. Curtis：**你能至少等个一秒钟吗？我觉得我知道些有用的事。\n> \n> **SCP-4213：**行吧。\n> \n> //Dr. Curtis快速跑向餐厅。SCP-4213开始慢慢走开，直到Dr. Curtis拿着一个装满冰淇淋的泡沫塑料碗返回。//\n> \n> //此时SCP-4213表现出放松。//\n> \n> **Dr. Curtis：**你能用能力获得冰淇淋以外的东西吗？\n> \n> //约五秒的沉默。SCP-4213指向Dr. Curtis手拿的碗。//\n> \n> **SCP-4213：**给我那个碗。\n> \n> //Dr. Curtis此时受到SCP-4213影响，无法继续进行采访。//\n> \n> = **[记录结束]**\n\n[[footnoteblock]]\n\n[[div class=\"footer-wikiwalk-nav\"]]\n[[=]]\n<< [[[SCP-4212]]] | SCP-4213 | [[[SCP-4214]]] >>\n[[/=]]\n[[/div]]",
+  "tags": [
+    "keter",
+    "scp",
+    "人形生物",
+    "合著",
+    "观察影响",
+    "认知危害"
+  ],
+  "author": "ashausesall",
+  "created_at": "2019-02-19T16:26:41+00:00",
+  "updated_at": "2019-11-11T09:25:05+00:00",
+  "rating": 3,
+  "_site": "scp-wiki-cn",
+  "_fullname": "scp-4213"
+}

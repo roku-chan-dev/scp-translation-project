@@ -1,0 +1,17 @@
+{
+  "title": "SCP-5510",
+  "content": "[[include theme:black-highlighter-theme]]\n\n[[module CSS]]\n.notice {\n    border: solid 1px #999;\n    background: #f2f2c2;\n    padding: 1em;\n    margin-bottom: 0.5em;\n}\n[[/module]]\n\n[[include :scp-wiki-cn:credit:start-standalone]]\n**SCP-5510：**通用控制器\n**作者：**[[*user aismallard]]（[[[aismallard|作者页]]]）\n\n**鸣谢：**\n* wctaiwan\n* [[*user rounderhouse]]\n* [[*user The Great Hippo]]\n* [[*user Uncle Nicolini]]\n* [[*user Yossipossi]]\n* [[*user Captain Kirby]]\n[[include :scp-wiki-cn:credit:end-standalone]]\n\n[[div_ class=\"notice\"]]\n**欢迎，Archibald博士。**\n您正在编辑SCP-5510。您的会话将于闲置**118**秒后过期。\n[[/div]]\n\n[[include component:image-block\n    name=http://scp-wiki.wdfiles.com/local--files/fragment:scp-4182-1/blank.png |\n    caption={{[未选择文件]}} |\n    width=100px\n]]\n\n**项目编号：**SCP-5510\n\n**项目等级：**Safe（暂定）\n\n**特殊收容措施：**SCP-5510需保存于小型物品储柜中。确认测试正在进行中。\n\n**描述：**SCP-5510为一个电视遥控器。项目功能正常运转，但其四个媒体导航按键例外。当某个按键被按下之后，该异常所经历的主观时间将受到改变。\n\n**附录5510-1：**测试记录\n\n||~ 按键||~ 结果||\n||快进||SCP-5510以半倍速经历时间。||\n||倒带||SCP-5510以二倍速经历时间。||\n||播放||无已知效果。||\n||暂停||[[image http://scp-wiki.wikidot.com/local--files/scp-5510/cursor.png alt=\"𝖨\" width=\"10px\"]]||\n\n[[footnoteblock]]\n\n[[div class=\"footer-wikiwalk-nav\"]]\n[[=]]\n<< [[[SCP-5509]]] | SCP-5510 | [[[SCP-5511]]] >>\n[[/=]]\n[[/div]]",
+  "tags": [
+    "meta",
+    "safe",
+    "scp",
+    "家用物品",
+    "时间影响"
+  ],
+  "author": "hoah2333",
+  "created_at": "2020-11-18T05:17:32+00:00",
+  "updated_at": "2021-06-02T04:31:04+00:00",
+  "rating": 26,
+  "_site": "scp-wiki-cn",
+  "_fullname": "scp-5510"
+}

@@ -1,0 +1,21 @@
+{
+  "title": "SCP-5000-J",
+  "content": "[[>]]\n[[module rate]]\n[[/>]]\n[[include component:image-block name=517px-Cookie_jar.jpg|caption=Which one of you fuckers...|width=300px]]\n**Item #:** SCP-5000-J\n\n**Object Class:** Uncontained\n\n**Special Containment Procedures:** SCP-5000-J is considered uncontained until Foundation Agents get to the bottom of who took the cookie.\n\n[[html]]\n<style>\n@import url(https://d3g0gp89917ko0.cloudfront.net/v--4b961b7cc327/common--theme/base/css/style.css);\n\n@import url(https://cdn.scpwiki.com/theme/en/sigma/css/sigma.min.css);\n</style>\n<p id=\"demo\"></p>\n<script>\nvar randomStrings = [\n    \"Dr. Rights, stress eating\",\n    \"Dr. Bright, looking for a late night snack\",\n    \"Dr. Magnus, on his bullshit again\",\n    \"Ruslav Diaghilev, finding balance\",\n    \"Director Moose, herding cats\",\n    \"Dr. Clef, hunting a type green\",\n    \"Agent Strelnikov, chasing a Chechen\",\n    \"Dr. Light\",\n    \"Dr. Kiryu, to feed the butterflies\",\n    \"Joey Fucknuts, believing in himself\",\n    \"Captain Donnarson\",\n    \"Marshall, Carter, and Dark\",\n    \"The entire lunarian civiliation\",\n    \"Rakmou-leusan\",\n    \"the Hanged King\",\n    \"SCP-682\",\n    \"the Back Half of Josie\",\n\"the ghost of Helen Magnus, telling him to get off the goddamned laptop and come to bed\",\n    \"Sherry Andrews, Queen of Site 234\",\n    \"Leep Andrews\",\n    \"Avery Solace\",\n    \"Giancarlo DeLuca\",\n    \"Andrew Kowalczic on a bender\",\n    \"Justine Everwood, famed pugilist\",\n    \"Kain Pathos Crow (sans chocolate of course)\",\n    \"Director Aktus\",\n    \"Director Iceberg\",\n    \"Agent Yoric\",\n    \"Sir Caliban, fifth knight of the fuck stick league\",\n    \"Moon Champion\",\n    \"u trust dado yes\",\n\"Tubbioca, searching for another munchie\",\n\"SCP-4759-A with lance and horse\",\n\"Darkblade, with infinite angst\",\n\"every single little mister at once\",\n\"powerful wizard Ruth Bader Ginsburg\",\n\"Vincent Anderson\",\n\"the butt ghost\",\n\"The Almighty Mither, Mother of the Universe, and known stealer of cookies\",\n\"Researcher James (nuh uh!)\",\n\"one of the many, many Ralph Rogets we can't get rid of\",\n\"Dr. Madison Craggs\",\n\"Travis Kazmarek\",\n\"Buddy\",\n\"Robber Ducks\",\n\"The Great Anoati\",\n\"The Living Joke\",\n\"Dr. Clair Wythers\",\n\"that son of a bitch Jim Henson\",\n\"the entire contents of the SCP-914 test log\"\n];\nwindow.onload = function() {\n\nvar text = randomStrings[Math.floor(Math.random() * randomStrings.length)]\ndocument.getElementById(\"demo\").innerHTML = \"<b>Description:</b> Was it \" + text + \"? Couldn't be! <a target=\\\"_parent\\\" href=\\\"https://scp-wiki.wikidot.com/scp-5000-j\\\">Then Who?</a>\";\n}\n\n</script>\n[[/html]]\n\n[[include component:license-box]]\n=====\n> **Filename:** 517px-Cookie_jar.jpg\n> **Name:** Cookie jar.jpg\n> **Author:** Polymath38\n> **License:** CC BY-SA 3.0\n> **Source Link:** [http://w.wiki/7Jek Wikimedia Commons]\n=====\n[[include component:license-box-end]]",
+  "tags": [
+    "5000",
+    "_cc",
+    "_licensebox",
+    "esoteric-class",
+    "exchange",
+    "interactive",
+    "joke",
+    "scp",
+    "uncontained"
+  ],
+  "author": "DrMagnus",
+  "created_at": "2020-01-14T15:48:54+00:00",
+  "updated_at": "2025-02-09T17:20:17+00:00",
+  "rating": 373,
+  "_site": "scp-wiki",
+  "_fullname": "scp-5000-j"
+}

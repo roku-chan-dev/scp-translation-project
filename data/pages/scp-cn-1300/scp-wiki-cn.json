@@ -1,0 +1,25 @@
+{
+  "title": "SCP-CN-1300",
+  "content": "[[module CSS]]\n#page-title {\n  display: none;\n}\n\n.meta-title {\n  border-bottom: solid 1px #bbbbbb;\n  color: #990011;\n  font-weight: normal;\n  margin: 0 0 0.6em;\n  padding: 0 0 0.25em;\n  font-size: 200%;\n}\n\n.meta-title p {\n  margin: 0;\n}\n[[/module]]\n[[module ListPages category=\"fragment\" parent=\".\" limit=\"1\" order=\"name\" offset=\"@URL|0\"]]\n[[div class=\"meta-title\"]]\n%%title%%\n[[/div]]\n[[/module]]\n[[>]]\n[[module Rate]]\n[[/>]]\n[[module ListPages category=\"fragment\" parent=\".\" limit=\"1\" order=\"name\" offset=\"@URL|0\"]]\n\n%%content%%\n[[/module]]\n\n\n@@@@\n@@@@\n@@@@\n@@@@\n@@@@\n@@@@\n@@@@\n[[footnoteblock]]\n@@@@\n[[div class=\"footer-wikiwalk-nav\"]]\n[[=]]\n<< [[[SCP-CN-1299]]] | SCP-CN-1300 | [[[SCP-CN-1301]]] >>\n\n##transparent|<< 占位符占## | 万世创伤 | [[[the-promised-end|绝望终局]]] >>\n[[/=]]\n[[/div]]",
+  "tags": [
+    "euclid",
+    "ob传媒",
+    "scp",
+    "site-cn-91",
+    "丰饶公社",
+    "人形生物",
+    "原创",
+    "听觉影响",
+    "武器",
+    "深渊之光",
+    "现实扭曲",
+    "认知危害",
+    "超维度"
+  ],
+  "author": "QBLevi",
+  "created_at": "2018-12-10T01:38:36+00:00",
+  "updated_at": "2023-03-19T14:56:45+00:00",
+  "rating": 68,
+  "_site": "scp-wiki-cn",
+  "_fullname": "scp-cn-1300"
+}

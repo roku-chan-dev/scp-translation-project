@@ -1,0 +1,23 @@
+{
+  "title": "SCP-CN-3364",
+  "content": "[!--\n====\n蛋挞战争\n====\n2025年8月，##41ae3c|**Rating Descent特工**##在尝试制作葡式蛋挞时，错误向蛋挞液中添加了四片香菜叶、3克辣椒粉、半勺豆瓣酱以及三份切片后的酸笋。\n====\n====\n--]\n\n[[module CSS]]\n\n@import url('https://fonts.googleapis.com/css2?family=Noto+Sans+SC:wght@300;400;700;900&display=swap');\n@import url('https://fonts.googleapis.com/css2?family=Noto+Sans:wght@300;400;700;900&display=swap');\n\ndiv#page-content {\n    color: #000;\n    font-size: 0.9375rem;\n    font-family: \"Noto Sans SC\", \"Noto Sans\", sans-serif;\n}\n\ndiv#page-content *,\ndiv#page-content h1,\ndiv#page-content h2,\ndiv#page-content h3 {\n    font-family: inherit;\n}\n\ndiv.blockquote.content {\n    border: solid 1px transparent;\n    background-color: #EEE;\n    border-radius: 1rem;\n    margin-left: 0;\n    margin-right: 0;\n}\n\nhr {\n    margin-left: 0;\n    margin-right: 0;\n}\n\nspan.black {\n    background-color: #000;\n    cursor-events: none;\n}\n\ndiv.scp-image-block div.scp-image-caption,\ndiv.scp-image-block img {\n    width: auto !important;\n}\n\nli {\n    margin: 0.5em 0;\n}\n[[/module]]\n\n[[include :scp-wiki-cn:component:toggle-sidebar]]\n\n[[>]]\n[[module rate]]\n[[/>]]\n\n[[include component:image-block\n| name=https://scpsandboxcn.wikidot.com/local--files/sharia-vanilla-skips/egg_tart.jpg\n| caption=SCP-CN-3364-A。\n| width=min(40vw, 300px)\n]]\n\n**项目编号：**SCP-CN-3364\n\n**项目等级：**Solved[[footnote]] 异常已在基金会积极干预下消失或彻底无暴露风险。 [[/footnote]]\n\n**特殊收容措施：**目前，SCP-CN-3364已在基金会的介入下得到卓有成效的抑制。仅需注意任何SCP-CN-3364-E//不应//被以任何原因带离Site-CN-106，因违规制作并携带SCP-CN-3364-E而在站点外引发的SCP-CN-3364展现将被问责并处罚。\n\n**描述：**SCP-CN-3364是一种随机发生在12小时内烘焙出炉的蛋挞上的异常现象。这一异常现象的主要效用为使得受影响蛋挞体现出近似于小型哺乳动物的反常智能。然而，由于蛋挞显然并不拥有与这一智能相匹配的移动力以及能够被这一智能利用的个体结构，因此在大部分情况下，SCP-CN-3364的影响是不可观测的。\n\n然而，如果受到SCP-CN-3364影响的葡式蛋挞（编号为SCP-CN-3364-A，辨识特点为其蛋挞液中一般加入奶油，从而使得内馅部分可见焦黑色大块斑点）的附近[[footnote]] 经测算该范围在大部分情况下为23英寸（58.42cm）。 [[/footnote]]存在任何品种的广式蛋挞（辨识特点为其蛋挞液中不添加奶油，因而内馅部分为纯黄色）时，受影响个体将会从挞顶处高速向后者方向喷射出灼热的糊状内馅以试图击穿其挞皮，但由于这一行为并不会在实质上减少SCP-CN-3364-A个体容纳的内馅总量，因此未知这些额外内馅的具体来源。受到异常影响的广式蛋挞（编号为SCP-CN-3364-B）也会用与上面类似的方式对周围的葡式蛋挞主动发出攻击。当一个异常蛋挞个体的挞皮被以任何方式破坏、或通过食用的方式移除其至少50%的可见内馅后，个体的上述行为也将随之停止。可以通过使用酥皮/蛋液将被破坏的部分完整修复的方式恢复其执行上述异常行为的能力。\n\n**附录：**\n\n尽管SCP-CN-3364的低发生概率以及“食用同一食物的某一特定种类/口味”这一行为的宗教化/神圣化共同使得一起SCP-CN-3364展现事件发生破碎帷幕的可能性几乎可以忽略不计[[footnote]] 葡式蛋挞自2009年3月起不被允许通过横琴口岸与拱北口岸进入珠海，对广式蛋挞的限令紧随其后于4月发布。 [[/footnote]]，但考虑到可能存在的蛋挞走私犯、变节者以及各类可能随之产生的暴露风险，Site-CN-106决定采取行动以进一步减弱乃至无效化SCP-CN-3364所造成的影响。下面是曾进行过的数次无效化尝试：\n\n[[ul]]\n[[li]]\n2025年4月，机动特遣队MTF-戊丑-01“大众点评”被派往珠海市香洲区，试图通过回收所有烘焙连锁店中售卖的广式蛋挞以无效化SCP-CN-3364[[footnote]] 当时，基金会尚未意识到SCP-CN-3364的本质是一种持续发生的异常现象。 [[/footnote]]。然而，当特遣队成员试图借助摆渡船将回收的蛋挞带回Site-CN-106时，站内露天餐厅最新烤制完成的约120只葡式蛋挞突然开始向摆渡船方向同时发射大量内馅。这使得摆渡船在攻击开始的12秒后便因载重过多而沉入海中。尽管机动特遣队未在过程中出现伤亡，但所有回收的广式蛋挞均随船只一同沉入海底，预计将于2026年1月被鱼类完全消解。\n[[/li]]\n[[li]]\n2025年7月，基于对SCP-CN-3364概率性本质的全新了解，负责该项目的研究组决定联合Site-CN-106的奥秘生物消解部[[footnote]] 主要负责将异常(或非异常)生物制成能被人类自然消解的美味食物。 [[/footnote]]，通过不断制作海量蛋挞的方式削减SCP-CN-3364效应选中帷幕外蛋挞实体的可能性。然而，尽管这一收容策略被确认为卓有成效，但考虑到因站内食物单一引起的调职潮以及Site-CN-106的主要盈利产业收入的断崖式下跌，该策略很快便被完全放弃。\n[[/li]]\n[[li]]\n2025年8月，##41ae3c|**Rating Descent特工**##在尝试制作葡式蛋挞时，错误向蛋挞液中添加了四片香菜叶、3克辣椒粉、半勺豆瓣酱以及三份切片后的酸笋。当该蛋挞（后被记为SCP-CN-3364-E）从烤箱中取出后，烘焙区中的28只葡式蛋挞以及存放于45米外的一间站内广式茶餐厅内的36只广式蛋挞均被同一时间激活，向该SCP-CN-3364-E个体发射了共计7.85L的内馅，完全破坏了该SCP-CN-3364-E个体。在后续实验中，负责SCP-CN-3364的研究人员尝试将上述64只分属两个品种的蛋挞摆放在1m×1m的狭小区域内部，未观察到这些个体之间出现此前观测到的敌对行为。在珠海市、深圳市以及香港特别行政区等区域进行的多次测试同样成功复现了这一结果。\n\n此次意外后，项目研究组将SCP-CN-3364的项目等级从Keter修改至Solved，并永久变更了项目的特殊收容措施。此外，禁止##41ae3c|**Rating Descent特工**##进入任何站内烘焙场所的提案已重新交由Site-CN-106下属六人管理会审议。\n[[/li]]\n[[/ul]]\n[[=]]\n[[include :scp-wiki-cn:component:license-box\n|lang=CN\n|]]\n=====\n[[<]]\n\n> **图像名：** egg_tart.jpg\n> **图像作者：** [[*user Sharia Vanilla]]\n> **共享协议：** CC BY-SA 3.0\n> **来源链接：** https://scpsandboxcn.wikidot.com/local--files/sharia-vanilla-skips/egg_tart.jpg\n[[/<]]\n=====\n[[include :scp-wiki-cn:component:license-box-end]]\n[[/=]]\n\n[[div class=\"footer-wikiwalk-nav\"]]\n[[=]]\n<< [[[SCP-CN-3363]]] | SCP-CN-3364 | [[[SCP-CN-3365]]] >>\n[[/=]]\n[[/div]]",
+  "tags": [
+    "scp",
+    "中央厨房",
+    "原创",
+    "宗教",
+    "敌意",
+    "智能",
+    "机密分级",
+    "概率性",
+    "现象",
+    "种群",
+    "食物"
+  ],
+  "author": "Sharia Vanilla",
+  "created_at": "2024-08-21T03:50:19+00:00",
+  "updated_at": "2025-01-20T12:59:43+00:00",
+  "rating": 49,
+  "_site": "scp-wiki-cn",
+  "_fullname": "scp-cn-3364"
+}

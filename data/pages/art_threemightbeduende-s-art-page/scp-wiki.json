@@ -1,0 +1,15 @@
+{
+  "title": "threemightbeduende's art page",
+  "content": "[[div style=\"background: #DDFEE0; padding: 1px 15px; border: solid 3px #AED5B1; margin: 10px; border-radius: 30px 15px;\"]]\n\n[[div style=\"background: #F3FAF3; padding: 1px 15px; border: solid 3px #AED5B1; margin: 10px; border-radius: 30px 15px;font-family: 'Courier New', monospace;color: #5E6C5E;\"]]\n\n[[=]]\n[[size xx-large]]Threemightbeduende's Art Page[[/size]]\n[[size small]]Hi there! I'm Charlie, and I like to make scp related things occasionally.\nI hope you enjoy :-) and any feedback is greatly appreciated.[[/size]]\n----\n[[collapsible show=\"+ Adam Wheeler (08/13/2023)\" hide=\"- Adam Wheeler\"]]\n[[=image https://live.staticflickr.com/65535/53114039020_20fd45f83c_h.jpg]]\nsketch i got carried away with\n[[/collapsible]]\n[[collapsible show=\"+ Scarlet King (08/12/2023)\" hide=\"- Scarlet King\"]]\n[[image https://live.staticflickr.com/65535/53112863613_6ab6a68a7c_k.jpg width=\"350\"]]\nI added the anime face at the end because i got bored but honestly i think it came out ok\n[[/collapsible]]\n[[/=]]\n[[/div]]\n[[/div]]",
+  "tags": [
+    "artist",
+    "painted",
+    "scarlet-king"
+  ],
+  "author": "threemightbeduende",
+  "created_at": "2023-08-13T04:06:30+00:00",
+  "updated_at": "2024-03-28T10:27:47+00:00",
+  "rating": 5,
+  "_site": "scp-wiki",
+  "_fullname": "art:threemightbeduende-s-art-page"
+}

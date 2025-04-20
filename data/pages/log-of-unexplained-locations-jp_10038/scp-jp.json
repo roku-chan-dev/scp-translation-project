@@ -1,0 +1,14 @@
+{
+  "title": "10038",
+  "content": "number: UE-719052\ncontent: 7分以上カウンター席に着席しているとマスターに悩み事を話してしまう喫茶店。夜はバーとして開店している。退店すると内部での会話に関する記憶は完全に消失する。\ndate: '2021-01-19'\narea: 神奈川県藤沢市███\nprotocol: 喫茶店のマスターに記憶処理を施した後、潜入エージェントとして財団に雇用。喫茶店内部に複数の監視カメラを設置し、その性質をオブジェクトや要注意団体の情報収集に活用。\nredirect-b: '[[module Redirect destination=\"/log-of-unexplained-locations-jp'\nredirect-e: '\"]]'",
+  "tags": [
+    "jp",
+    "剪定対象-子"
+  ],
+  "author": "EianSakashiba",
+  "created_at": "2021-02-12T12:13:33+00:00",
+  "updated_at": "2022-05-18T12:52:06+00:00",
+  "rating": 41,
+  "_site": "scp-jp",
+  "_fullname": "log-of-unexplained-locations-jp:10038"
+}

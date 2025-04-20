@@ -1,0 +1,14 @@
+{
+  "title": "なんとか部隊ソイレント・サイレンス（仮）",
+  "content": "たぶんリーダーは古藤博士\n\n----\n\nようこそいらっしゃいませ、そして__**ごめんなさい。**__\n著作の一覧以外、何もありません。\n自キャラの設定が何かできたらディスカッションに書いておきます。 '14 6/29～ soilence\n\n@@@@\n@@@@\n\n[[collapsible show=\"+ ベストレーティングSCP-JP(by soilence)リスト\" hide=\"- ベストレーティングSCP-JP(by soilence)リスト:\" ]]\n\n[[module ListPages created_by=\"soilence\" order=\"rating desc\" tags=\"+scp +jp -joke\" separate=\"false\" limit=\"400\" perPage=\"100\"　category=\"*\" ]]\n%%title_linked%% (%%created_at|%y/%m/%d～%% 評価: %%rating%%, コメント: %%comments%%)\n[[/module]]\n\n[[/collapsible]]\n\n@@@@\n@@@@\n\n[[collapsible show=\"+ ベストレーティングTales-JP(by soilence)リスト\" hide=\"- 2014/06 「入団試験」の特集記事入り、本当に本当にありがとうございます！！\" ]]\n\n[[module ListPages created_by=\"soilence\" order=\"rating desc\" tags=\"tale +jp\" separate=\"false\" limit=\"400\" perPage=\"100\"　category=\"*\" ]]\n%%title_linked%% (%%created_at|%y/%m/%d～%% 評価: %%rating%%, コメント: %%comments%%)\n[[/module]]\n\n[[/collapsible]]\n\n@@@@\n@@@@\n\n[[collapsible show=\"+ ベストレーティングGOI-FORMAT-JP(by soilence)リスト\" hide=\"- ベストレーティングGOI-FORMAT-JP(by soilence)リスト:\" ]]\n\n[[module ListPages created_by=\"soilence\" order=\"rating desc\" tags=\"goi-format +jp\" separate=\"false\" limit=\"400\" perPage=\"100\"　category=\"*\" ]]\n%%title_linked%% (%%created_at|%y/%m/%d～%% 評価: %%rating%%, コメント: %%comments%%)\n[[/module]]\n\n[[/collapsible]]\n\n@@@@\n@@@@\n\n[[collapsible show=\"+ ベストレーティングアートワーク-JP(by soilence)リスト\" hide=\"- ベストレーティングアートワーク-JP(by soilence)リスト:\" ]]\n\n[[module ListPages created_by=\"soilence\" order=\"rating desc\" tags=\"アートワーク +jp\" separate=\"false\" limit=\"400\" perPage=\"100\"　category=\"*\" ]]\n%%title_linked%% (%%created_at|%y/%m/%d～%% 評価: %%rating%%, コメント: %%comments%%)\n[[/module]]\n\n[[/collapsible]]\n\n@@@@\n@@@@\n\nja.scp-wikiの発展に貢献するための方法において、\nこの私はTaleよりもSCP記事を書くのが__**圧倒的に**__得意だというのが\n事実上、証明されているようなものです。\nしかし、財団の世界観を更に発展させるためにはTaleもまだまだ盛り上げていかなければならない…\nみんなTaleどんどん--__**がんばって書いて！**__--[[footnote]]このような「丸投げ」は、マナー違反として厳しく注意される行為と考えられています。エッセイ「マッケンジー博士による『悪い執筆者の典型例』のガイド」をご参照ください。[[/footnote]]\n'14 6/29 soilence\n\n※身内向け: slackで書いてるのは本当に私のことですよ！　成りすましじゃないよ！",
+  "tags": [
+    "jp",
+    "著者ページ"
+  ],
+  "author": "soilence",
+  "created_at": "2014-06-29T13:50:20+00:00",
+  "updated_at": "2021-01-10T15:55:23+00:00",
+  "rating": 3,
+  "_site": "scp-jp",
+  "_fullname": "author:soilence"
+}

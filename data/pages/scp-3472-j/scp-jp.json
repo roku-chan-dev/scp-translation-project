@@ -1,0 +1,24 @@
+{
+  "title": "SCP-3472-J",
+  "content": "[[>]]\n[[module rate]]\n[[/>]]\n\n[[include :scp-wiki:component:classified-decoration\n|lv=2\n|item=3472-J\n|oc=Safe\n|lang=JP\n]]\n------\n**特別収容プロトコル:** SCP-3472-Jはサイト-56の高価値異常オブジェクト保管棟内にある詰め物をしたロッカーの中に保管されます。これ以上の収容措置は必要ありません。\n\nサイト管理官アガサ・ドラモンドの命令により、SCP-3472-Jの実験は無期限に保留されています。\n\n**説明:** SCP-3472-Jは粘性のある半透明の青色の物質で満たされている容量500mLのガラス製薬瓶です。瓶の内容物は満杯でなくなった場合毎時5mLの速度で補充されます。外来物質は目に見えない障壁により、SCP-3472-Jに入ることを阻止されます。\n\nSCP-3472-Jの内容物を20mL以上摂取した人物は、その5分後に2～5時間にわたって続く昏睡状態に陥ります。覚醒すると、被験者は「ジャミソン・マドックス」という名前の男性(以下、SCP-3472-1-J)の視点から鮮明な夢を見たことを報告します。回収された文書によれば、このような夢は時代錯誤な時間軸を提示した場合共通して内部的な一貫性を持つことが示唆されています。\n\nSCP-3472-Jはアネッタ・マドックス氏の住居が強制捜査された際に回収されました。マドックス氏は回収より前に自身のSCP-3472-Jの使用歴を1冊の日誌に記録していました。不幸にも、マドックス氏はその強制捜査中に抹殺され、そしてそのため彼女を尋問することはできませんでした。\n\nマドックス氏の所有物の中に、SCP-3472-1-Jによって執筆されたとされる以下の手紙がありました。\n\n[[collapsible hideLocation=\"both\" show=\"文書3472-J-B\" hide=\"アクセス承認\"]]\n[[module css]]\n.page {\n    display: block;\n    overflow: hidden;\n    font-family: \"Monotype Corsiva\", \"Bradley Hand ITC\", sans-serif;\n    font-style: normal;\n\n   \n    background-attachment: scroll;\n    background-clip: border-box;\n    background-color: transparent;\n    background-image: linear-gradient(to top ,rgb(202, 219, 228) 0%, rgb(231, 233, 220) 8%);\n    background-origin: padding-box;\n    background-position: 0px 8px;\n    background-repeat: repeat;\n    background-size: 100% 20px;\n    \n\n    border: 1px solid #CCC;\n    border-radius: 10px;\n    padding: 10px 10px;\n    margin-bottom: 10px;\n\n    box-shadow: 0px 1px 3px rgba(0, 0, 0, 0.2)\n    }\n.page p {\n    line-height: 20px;\n    margin: 0;\n}\n[[/module]]\n[[div class=\"page\"]]\n[[size 125%]] 私の最愛の娘へ、\n@@@@\nいつか、間違いなく、お前は私を私がしてしまったことのために憎むようになるだろう。私は自分の卑怯さ、自分の愚かさ、私の罪を染めたその吐き気を催すような猿が如き物の見方を認める。\n@@@@\n私は自分のした行いを擁護するつもりはない。私が求めるのはただその##blue|理由##をお前が理解するようになってくれることだけだ。\n@@@@\n[[>]]\nジャミソン・マドックス\n[[/>]]\n[[/size]]\n[[/div]]\n[[/collapsible]]\n------\n[[=]]\n[[size 150%]][[collapsible show=\"実験記録\" hide=\"アクセス承認\"]][[/size]]\n[[table  style=\"border-collapse:collapse; max-width: 600px;\"]]\n[[row]]\n[[cell style=\"font-weight:bold;padding: .3em .7em; text-align: center; border: 1px solid black; background-color: silver; width: 20%;\"]]\n実験001\n[[/cell]]\n[[cell style=\"font-weight:bold; padding: .3em .7em; text-align: center; border: 1px solid black; background-color: silver;\"]]\n[[/cell]]\n[[/row]]\n[[row]]\n[[cell style=\"text-align: center; padding: .3em .7em; border: 1px solid black\"]]\n被験者\n[[/cell]]\n[[cell style=\"border: 1px solid black; padding: .3em .7em;\"]]\n[[[rammer-jammer-yellow-hammer-hub|ジェレミア・シメリアン]]]博士\n[[/cell]]\n[[/row]]\n[[row]]\n[[cell style=\"text-align: center; padding: .3em .7em; border: 1px solid black\"]]\n手順\n[[/cell]]\n[[cell style=\"border: 1px solid black; padding: .3em .7em;\"]]\nシメリアン博士がSCP-3472-Jの内容物を20mL摂取し、その後自身の得た経験を記録する。\n[[/cell]]\n[[/row]]\n[[row]]\n[[cell style=\"text-align: center; border: 1px solid black\"]]\n結果\n[[/cell]]\n[[cell style=\"border: 1px solid black; padding: .3em .7em;\"]]\nSCP-3472-Jの内容物の摂取を試みている間に、シメリアン博士はSCP-3472-Jを掴み損ねてうっかりと床に落とした。SCP-3472-Jは衝撃によって粉々に割れ、そして異常な特性を保持しなくなった。\n[[/cell]]\n[[/row]]\n[[/table]]\n> //「司令部が私にDクラスへの異動を言い渡すまでの間、私は部屋の隅でふてくされていることにする。用のある者はそちらまで。」// ―シメリアン博士\n[[/collapsible]]\n[[/=]]",
+  "tags": [
+    "_シャギードッグ",
+    "en",
+    "jam-con2019",
+    "safe",
+    "scp",
+    "カック・ハード",
+    "シメリアン博士",
+    "ジョーク",
+    "容器",
+    "液体",
+    "睡眠",
+    "自己修復"
+  ],
+  "author": "wired990",
+  "created_at": "2019-04-19T13:27:35+00:00",
+  "updated_at": "2024-02-21T12:25:24+00:00",
+  "rating": 5,
+  "_site": "scp-jp",
+  "_fullname": "scp-3472-j"
+}

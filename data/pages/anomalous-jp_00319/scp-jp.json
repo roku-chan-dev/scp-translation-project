@@ -1,0 +1,14 @@
+{
+  "title": "00319",
+  "content": "content: \"**説明:** 表紙に「円周率1000桁」と書かれた総ページ数2ページの冊子。中には1000個の数字が書かれており、開くたびに変化する。\\n**回収日:** ████-██-██\\n**回収場所:** 東京都██区の書店。\\n**現状:** ███博士が所有。\\n**追記:** //表れる数字は恐らくランダムです。//-███博士\\n//円周率のどこか1000桁、という意味では正しいのか？//-███研究員\"\ntf2: '1'\nauthor: 'H2 A-Frac'\nredirect-b: '[[module Redirect destination=\"http://ja.scp-wiki.net/log-of-anomalous-items-jp'\nredirect-e: '\"]]'",
+  "tags": [
+    "jp",
+    "剪定対象-子"
+  ],
+  "author": "7happy7",
+  "created_at": "2020-03-14T14:21:57+00:00",
+  "updated_at": "2021-05-24T13:12:38+00:00",
+  "rating": 22,
+  "_site": "scp-jp",
+  "_fullname": "anomalous-jp:00319"
+}

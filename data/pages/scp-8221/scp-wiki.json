@@ -1,0 +1,25 @@
+{
+  "title": "SCP-8221",
+  "content": "[[div style=\"display: none;\"]]\n[[include :scp-wiki:theme:flopstyle]]\n[[/div]]\n[[div style=\"display: none;\" class=\"crom-thumbnail\"]]\n[[include component:image-block name=hisimage.jpg]]\n[[/div]]\n\n[[include :scp-wiki:component:info-ayers\n|lang=en\n|page=component:info-ayers\n|authorPage= https://scp-wiki.wikidot.com/trouts-authorpage\n|comments=\n\n> Look around this world we made\n> Equality our stock in trade\n> Come and join the brotherhood of man\n> Oh, what a nice contented world\n= (2112 - Rush)\n\nSoul(less) Music and The End of The Human Epoch ]]\n[[module CSS]]\n\n[[include :scp-wiki:component:centered-header-sigma-9]]\n[[module CSS]]\n :root {\n    --header-title: \"SCP FOUNDATION\";\n    --header-subtitle: \"DEPARTMENT OF TACTICAL THEOLOGY\";\n    --lgurl: url(https://scp-wiki.wdfiles.com/local--files/theme%3Aad-abyssum/Department%20of%20Tactical%20Theology%20Inverted%20Transparent.png);\n}\n[[/module]]\n\n[[=]]\n[[module rate]]\n[[/=]]\n\n[[div class=\"report-box\"]]\n+++* INTERNAL FOUNDATION REPORT\n= **Document ID:** TACT-THEO/2025-03-24/001\n= **Clearance Level:** 4\n= **CONFIDENTIAL**\n----\n**Priority Level:** [[span class=\"terminal-span\"]] AMIDA [[/span]]\n\n**Abstract:** Recent research from the Department of Tactical Theology around afterlives has uncovered a few discrepancies in global demographics. Despite the number of human hosts growing exponentially since ~33 AD (Following event C†) the number of human souls has remained roughly around 800 million.\n\nThis suggests that while true human consciousness is bound to a finite number of reincarnating souls, a considerable and growing amount of the population is being animated by an unknown force and/or deific entity. Furthermore, long-term post-mortem studies indicate that several thousand of the original souls have failed to reincarnate, instead remaining as posthumous anomalies or perishing due to exorcisms. (roughly 0.00015% of souls a year.)\n\n**Notable Findings:**\n\n* Cognitive and theological profiling of a global sample (N=100,000) suggests that a statistically significant percentage of individuals lack the expected hallmarks of sapient self-awareness. (This includes roughly 63% of SCP Foundation personnel.) While they appear normal, they show clear differences in deep-memory retention.\n* At current birth rates, Foundation projections estimate that by 2150, the number of humans piloted by souls will be outnumbered 5:1.\n\n**Recommended Actions:**\n\n* Immediate classification of this phenomenon as SCP-8221 (Object Class: Keter) for continued research and monitoring.\n* Expanded cognitive testing across Foundation personnel to assess operational risks.\n* Research into the creation or revival of human souls.\n* Attempt deicide should the number of sapient individuals reach 0.01% of the human population.\n* Establish changes to normalcy in the event that the human species is no longer the primary intelligence inhabiting its own civilization.\n\n[[>]]\n- Tiana Mark Roseanne, Tact. Theo.\n[[/>]]\n[[/div]]\n\n[[div class=\"footer-wikiwalk-nav\"]]\n[[=]]\n<< [[[SCP-8220]]] | SCP-8221 | [[[SCP-8222]]] >>\n[[/=]]\n[[/div]]\n\n[[include :scp-wiki:component:license-box]]\n> **Filename:** hisimage.jpg\n> **Name:** God the Father MET EP1444\n> **Author:** Giovanni Ambrogio Bevilacqua\n> **License:** Public Domain\n> **Source Link:** [https://commons.wikimedia.org/wiki/File:God_the_Father_MET_EP1444.jpg Wikimedia Commons]\n[[include :scp-wiki:component:license-box-end]]",
+  "tags": [
+    "_cc",
+    "_licensebox",
+    "afterlife",
+    "bleak",
+    "cosmic-horror",
+    "deepwell-catalog",
+    "keter",
+    "mystery",
+    "phenomenon",
+    "reanimation",
+    "religious",
+    "scp",
+    "tactical-theology"
+  ],
+  "author": "TroutMaskReplica",
+  "created_at": "2025-04-02T00:43:48+00:00",
+  "updated_at": "2025-04-03T02:08:16+00:00",
+  "rating": 33,
+  "_site": "scp-wiki",
+  "_fullname": "scp-8221"
+}

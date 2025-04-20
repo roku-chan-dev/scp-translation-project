@@ -1,0 +1,30 @@
+{
+  "title": "SCP-CN-1905",
+  "content": "[[>]]\n[[module Rate]]\n[[/>]]\n\n[[div id=\"show-it\"]]\n**项目编号：**SCP-CN-1905\n\n**项目等级：**[[span class=\"cut-txt\"]]Safe[[/span]][[span class=\"new-txt\"]] Binah[[/span]]\n\n@@@@\n\n[[span]]**特殊收容措施：**SCP-CN-1905 的入口已被封闭，附近区域划为自然保护区禁止其他人员进入。MTF-子午-12 “满船清梦压星河” 将监控线上提及“失落的星座”的言论，并按标准信息封锁程序掩盖之。[[/span]][[span class=\"new-txt\"]]同时宣扬异常效应相对微弱的黄道十二星座具有“运势”力量，从而减少公众触发 SCP-CN-1905-2 的行为。[[/span]]\n\n**描述：**SCP-CN-1905 是一个位于██████████████████的小型洞窟，内部自然或人工形成的可见光会随其深度递减，且在某一处完全消失。影像显示其壁上有几组折线图案和附带的各种已知或未知的字符（编为 SCP-CN-1905-1），从可识别的字符得知对应图案为该字符的创造者，例如古中国、古希腊、古巴比伦、古奥托世、狄瓦族等文明的星象。\n\n\n[[span class=\"new-txt\"]]SCP-CN-1905-2 是将地球表面接收到外太空的恒星光点，按一定顺序连接后形成的图象，亦即 SCP-CN-1905-1 产生的原因。这些图象既包括真实存在的星座，也包括以实际星空（不一定在地球角度）为基准的文艺作品中虚构的星象，甚至随意绘制的图象。[[/span]]若将其题写在特定载体并进行仪式性行为后，可触发某一奇术反应[[span class=\"new-txt\"]]（通常接近实施者所构想的）[[/span]]。这些触发步骤不是唯一的，奇术效应也随之变化，包括但不限于占卜、隔地促动、现实扭曲等。因此收容重心应放在阻止 SCP-CN-1905-1[[span class=\"new-txt\"]] 和 SCP-CN-1905-2[[/span]] 的实质被其他人员认知。[[span class=\"new-txt\"]]从而避免发生TPK级奇术增殖和CK级掀开帷幕情景。[[/span]]\n\n[[span class=\"new-txt\"]]在2012/██/██时监测到太阳产生异常奇术辐射流刺激地球异常现象增长后，总EVE水平衰退了0.9%。关于构筑海姆达尔虚像系统的提案有待讨论。[[/span]]\n\n[[div  class=\"show-img\"]]\n[[div class=\"scp-image-block \" ]]\n\n[[div style=\"background:url('http://scpsandboxcn.wikidot.com/local--files/image/PNG-scp-constellation.png');background-size:cover;width:30em;height:20em;\"]]\n\n[[/div]]\n\n[[div class=\"scp-image-caption\" style=\"color:blue\"]]\n目前正在持续生效的 SCP-CN-1905-2\n控制、收容、保护\n[[/div]]\n[[/div]]\n[[/div]]\n\n[[a class=\"update-it\"  href=\"#u-show-it\"]]⋚ 检测到您有4级权限，点此查看文档更新 ⋚[[/a]]\n[[/div]]\n\n\n@@@@\n@@@@\n@@@@\n@@@@\n@@@@\n\n[[module CSS]]\n\n\n#u-show-it:target  .new-txt{\n    font-size: 1em;\n}\n\n\n#u-show-it:target .cut-txt{\ntext-decoration: line-through ;\n}\n\n\n#u-show-it:target  .update-it{\ndisplay:none;\n}\n\n.new-txt{\n  color:blue ;\n  font-size: 0;\n}\n\n#u-show-it:target  .show-img div{\ndisplay: block;\n}\n\n.show-img div{\ndisplay: none;\n  margin: 0 auto;\nfloat: center;\n}\n\n\n[[/module]]\n\n[[footnoteblock]]\n@@@@\n[[div class=\"footer-wikiwalk-nav\"]]\n[[=]]\n<< [[[SCP-CN-1904]]] | SCP-CN-1905 | [[[SCP-CN-1906]]] >>\n[[/=]]\n[[/div]]",
+  "tags": [
+    "_cc",
+    "k级情景",
+    "scp",
+    "原创",
+    "宗教",
+    "恒星",
+    "感知影响",
+    "星球",
+    "星际",
+    "机密分级",
+    "海姆达尔",
+    "狄瓦",
+    "现实扭曲",
+    "知识",
+    "第二海托世教会",
+    "视觉性",
+    "认知危害",
+    "隔地促动"
+  ],
+  "author": "Etinjat",
+  "created_at": "2020-02-03T12:30:39+00:00",
+  "updated_at": "2023-03-19T15:03:26+00:00",
+  "rating": 28,
+  "_site": "scp-wiki-cn",
+  "_fullname": "scp-cn-1905"
+}

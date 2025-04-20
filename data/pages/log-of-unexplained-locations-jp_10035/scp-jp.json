@@ -1,0 +1,14 @@
+{
+  "title": "10035",
+  "content": "number: UE-101934-JP\ncontent: ██斎場第2火葬場。計器の動作不良により、内部の温度が死体を燃焼させるまで達することは無いが、人間の死体を通常の操作で火葬すると十分に燃焼した骨となる。また、火葬する際に内部から微かな咀嚼音が発生することが判明している。\ndate: '2020-07-28'\narea: 東京都世田谷区\nprotocol: ██斎場を封鎖することにより対処。内部の調査により、床面から18本の人間の嬰児のものと思われる門歯が発見されたが、UE-101934-JPの異常性との関連は不明である。\nredirect-b: '[[module Redirect destination=\"/log-of-unexplained-locations-jp'\nredirect-e: '\"]]'",
+  "tags": [
+    "jp",
+    "剪定対象-子"
+  ],
+  "author": "roune10121",
+  "created_at": "2021-02-12T12:02:13+00:00",
+  "updated_at": "2021-05-24T13:21:35+00:00",
+  "rating": 40,
+  "_site": "scp-jp",
+  "_fullname": "log-of-unexplained-locations-jp:10035"
+}

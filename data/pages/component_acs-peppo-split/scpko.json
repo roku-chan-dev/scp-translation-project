@@ -1,0 +1,14 @@
+{
+  "title": "Peppo의 ACS 분리기",
+  "content": "[[iftags -구성요소]]\n\n\n[[module CSS]]\n:root {\n    --안전: 0,159,107;\n    --유클리드: 255,211,0;\n    --케테르: 196,2,51;\n    --난해: 66, 66, 72;\n}\n\n.contain-class .class-text {\n    color: transparent !important;\n}\n\n.contain-class .class-text::before {\n    content: \"{$object}\";\n    position: absolute;\n    top: 0;\n    color: rgba(51,51,51,1);\n}\n\n.text-part > .main-class::before {\n    margin-right: 0;\n}\n\n.anom-bar-container.난해 .text-part > .main-class::before {\n    background-color: rgba(var(--{$object-color}),1);\n    background-image: url(\"{$object-image}\");\n    -webkit-filter: invert(0);\n    filter: invert(0);\n    border-color: rgb(12,12,12);\n}\n\n.anom-bar-container.난해 .text-part > .main-class {\n    background-color: rgb(12,12,12);\n    background: linear-gradient(30deg,\n        rgb(var(--{$esoteric-color}),0.25) 0%,\n        rgb(var(--{$esoteric-color}),0.25) 50%,\n        rgb(var(--{$object-color}),0.25) 50%,\n        rgb(var(--{$object-color}),0.25) 50%\n    )\n}\n\n.anom-bar-container.난해 .danger-diamond > .top-icon::before {\n    background-color: rgb(var(--{$object-color}));\n    background-image: url(\"{$object-image}\");\n    -webkit-filter: invert(0);\n    filter: invert(0);\n}\n\n.anom-bar-container.난해 .danger-diamond > .quadrants > .top-quad {\n    background-color: rgb(66, 66, 72 ,0.15);\n    background-color: rgb(var(--{$object-color}),0.25);\n}\n\n.anom-bar-container.난해 .text-part > .main-class > .second-class > .class-text::before {\n    content: \"{$object2}\";\n    color: #333333;\n    font-size: 0.00;\n    font-size: {$hideObject2};\n}\n\n.anom-bar-container.난해 .text-part > .main-class > .second-class > .class-text {\n    font-size: {$hideObject};\n}\n\n\n[[/module]]\n[[/iftags]]\n[[iftags +구성요소]]\n[[include info:start-standalone]]\n**Peppo의 ACS 분리기**\n**원작:** https://scp-wiki.wikidot.com/component:acs-peppo-split\n**저자:** [[*user PeppersGhost]]\n**역자:** [[*user Denevola]]\n------\n> 본 구성요소는 원문에 맞추어 자동 업데이트되지 않습니다.\n> 문제가 발생하거나 업데이트가 필요한 경우 포럼에 알려주세요.\n> **마지막 업데이트:** {{원문의 37번째 판 기준}}\n[[include info:end-standalone]]\n\n난해한 등급과 정규 객체 등급이 동시에 보이게끔 ACS 헤더의 객체 등급을 분리합니다.\n[http://scp-wiki.wikidot.com/scp-4703 예시를 살펴보세요.]\n\n[[*user Yossipossi]]가 작성한 SCP-4531을 수정한 것입니다.\n\n사용하려면 다음 코드를 입력하세요.\n\n> [[include :scpko:component:acs-peppo-split\n> |object= 케테르\n> |object-image= http://scp-wiki.wdfiles.com/local--files/component:anomaly-class-bar/keter-icon.svg\n> |object-color= 케테르\n> |esoteric-color= 난해\n> ]]\n\n\n정규 등급을 반-케테르 대신 반-안전이나 반-유클리드로 바꾸려면 \"object\", \"object-image\", 그리고 \"object-color\" 값을 변경하세요. 그냥 \"케테르\"를 \"안전\"이나 \"유클리드\"로 바꾸면 됩니다.\n\n+ 코드는 페이지 소스를 참조하세요\n[[/iftags]]",
+  "tags": [
+    "en",
+    "구성요소"
+  ],
+  "author": "Denevola",
+  "created_at": "2021-02-22T13:58:21+00:00",
+  "updated_at": "2025-01-21T01:20:28+00:00",
+  "rating": 0,
+  "_site": "scpko",
+  "_fullname": "component:acs-peppo-split"
+}

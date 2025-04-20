@@ -1,0 +1,22 @@
+{
+  "title": "SCP-6296",
+  "content": "[[include :scp-jp:theme:blankstyle]]\n\n[[module CSS]]\n.footnotes-footer {\n    visibility: hidden;\n    height: 0;\n    padding: 0;\n    margin: 0;\n}\n:root {\n--thaumiel: 0, 135, 189\n}\n[[/module]]\n\n[[include :scp-jp:credit:start]]\n翻訳責任者: [[*user Tetsu1]]\n翻訳年: 2024\n著作権者: [[*user NDHeckfire]]\n原題: The Last Slice to Make it Count\n作成年: 2022\n初訳時参照リビジョン: 16\n元記事リンク: https://scp-wiki.wikidot.com/scp-6296\n[[include :scp-jp:credit:end]]\n[[include :scp-wiki:component:author-label-source start=--\n|name=NDHeckfire]]\n**SCP-6296** - 最後の一切れは悔いのないように\n\n[[[https://scp-wiki.wikidot.com/ndheckfire|私の他の作品！]]]\n[[include :scp-wiki:component:author-label-source end=--]]\n\n@@ @@\n\n[[div]]\n[[include :scp-jp:component:anomaly-class-bar-source\n|item-number= SCP-6296\n|clearance= 1\n|container-class= esoteric\n|secondary-class= memet\n|secondary-icon= https://scp-wiki.wdfiles.com/local--files/scp-5056/memet-icon-3.svg\n|disruption-class= dark\n|risk-class= notice\n]]\n\n[[include :scp-wiki:component:acs-peppo-split\n|object= safe\n|object-image= http://scp-jp-storage.wikidot.com/local--files/file:5384396-329-soba/memet-icon-3.svg\n|object-color= safe\n|esoteric-color= thaumiel\n]]\n[[module css]]\n.anom-bar-container.danger .danger-diamond > .quadrants > .right-quad {\n    background-color:rgba(255,109,0,0.25);\n    background-color: rgb(255,109,0,0.25);\n[[/module]]\n[[/div]]\n----\n[[include component:image-block\n    name=http://scp-jp-storage.wikidot.com/local--files/file:5384396-330-b0fz/pizza.jpg|\n    caption=SCP-6296。 |\n    width=250px|\n    align=right|\n]]\n\n**特別収容プロトコル:** SCP-6296は自己収容状態にあるため、現時点で収容プロトコルは不要です。\n----\n**説明:** SCP-6296は一切れの三角形のピザであり、その異常性により研究・収容[[[secure-facility-dossier-site-43|サイト-43]]]地下4階の居住・扶養セクションカフェテリアに恒久的に置かれています。\n\nSCP-6296の存在を直接知覚し認識したあらゆる生命体は、それを摂食し完全に消費するのを避けることを強制されます。通常これらの人物は、食べない理由に様々な口実を用いて摂食を回避しようとします。典型的な口実としては、「今は空腹でない」、「他の誰かに食べさせたい」、「乳糖不耐症」[[span class=\"fnnum\"]].[[/span]][[span class=\"fncon\"]]85%以上の財団職員が、乳糖の消化が不可能だった前歴がないにも拘らずこの特定の口実を使用している。[[/span]]などがあります。\n\n約25年前のものにも拘らず、SCP-6296は劣化の兆候を見せていません。\n----\n**補遺6296-1、現象学的概要:** 1996年4月3日、サイト-43の職員は、2日前に財団を退職した[[[the-good-work|ヴィヴィアン・レスリー・スカウト]]]元共同管理官の送別会を開催することを決定しました。パーティーは公式に居住・扶養セクションカフェテリアで開催され、スパイシー・クラスト・ピッツァ(Spicy Crust Pizza)[[span class=\"fnnum\"]].[[/span]][[span class=\"fncon\"]]カンザス州で最初に創立された財団のフロント企業、現在は世界中で活動している。[[/span]]の厚意により25枚のホールピザ（それぞれトッピングは異なる）がパーティーに提供されました。\n\n午後11時30分頃、提供されたピザは一切れ(SCP-6296)を残して完食されました。この時点でSCP-6296の異常性は発現していたものと考えられ、それを完全に消費したり除去しようとする職員はいませんでした。\n----\n**補遺6296-2、解体:** 2022年11月、監督評議会の過半数はEVERSOR構想の委任を正式に決定しました。これは主に解体部門が担当する運動で、低レベル軽度異常オブジェクトの無力化を唯一の目的とし、世界中の様々な研究/収容施設内部の金銭使用を削減することを主な目標としていました[[span class=\"fnnum\"]].[[/span]][[span class=\"fncon\"]][[[SCP-6004]]]が引き起こした収容違反以降、EVERSOR構想はSCP財団教義においてクラス-5優先度に分類されている。[[/span]]。\n\n構想の一環として、サイト-43に収容されているアノマリーの中から無力化が必要なものとしてSCP-6296が選択されました。当初アラン・J・マッキンス博士（サイト-43現サイト管理官）は構想の取り組みに反対し、この種のアノマリーは財団の予算にほとんど影響を与えないと表明しました。しかしながら、彼の懸念は評議会により却下されました。\n\nSCP-6296の無力化はハロルド・ブランク博士とウィリアム・ウェトル博士が担当し、試みを成功させるため必要なリソースが提供されました。以下は無力化試行のビデオ転写です。\n\n[[div class=\"blockquote\"]]\n\n= **<転写開始>**\n\n//ブランク博士とウェトル博士がカフェテリアに入り、ウェトル博士は大きな木箱を労力を要して運んでいる。彼はやがて木箱を下ろして腕と背中を伸ばし、その過程で大声であくびをする。ブランク博士はSCP-6296の現状を調べに向かい、頷いてから木箱に戻る。//\n\n//彼は蓋を開けて複数のワイヤーとケーブルを取り出す。彼はウェトル博士に合図し、二人で重金属の物体を持ち上げる。これは標準支給のスクラントン現実錨(SRA)と識別される。二人は錨を脇に抱え、続けてカフェテリアの中央に配置する。ブランク博士はウェトル博士からリモコンを取り出してボタンを押す。//\n\n//錨に取り付けられたライトは明確な青色に輝き、初期活性化段階に入ったことを示す。ウェトル博士はケーブルを使用してSCP-6296の半径約10メートルに存在論的接地区域を確立する。ブランク博士はリモコンの別のボタンを押すと、錨は赤色に輝いて活性化したことを示す。//\n\n//ウェトル博士は白い滅菌グローブを着用してゆっくりとSCP-6296に接近する。彼はオブジェクトを皿から持ち上げて鼻に近付け、匂いを嗅ぐ。彼は肩をすくめ、SCP-6296の前端を一口噛む。//\n\n**ウェトル博士:** うげぇ。(//顔をしかめる//)\n\n**ブランク博士:** どうした？\n\n**ウェトル博士:** ツナだ。\n\n//ウェトル博士はSCP-6296の残りを付近の玄妙除却廃棄箱に投げ捨てる。//\n\n= **<転写終了>**\n\n[[/div]]\n\nSCP-6296はDecommissionedに再分類されました。文書は間もなく更新されます。\n\n@@ @@\n\n----\n[[div]]\n[[=]]\n**EVERSOR: Phase I** | **[[[SCP-7297]]]** >>\n[[/=]]\n[[/div]]",
+  "tags": [
+    "decommissioned",
+    "en",
+    "on-guard-43",
+    "scp",
+    "ウェトル博士",
+    "スカウト管理官",
+    "ブランク博士",
+    "強制力",
+    "観測",
+    "食物"
+  ],
+  "author": "Tetsu1",
+  "created_at": "2024-12-09T02:30:31+00:00",
+  "updated_at": "2024-12-09T02:30:47+00:00",
+  "rating": 2,
+  "_site": "scp-jp",
+  "_fullname": "scp-6296"
+}

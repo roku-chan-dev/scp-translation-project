@@ -1,0 +1,15 @@
+{
+  "title": "SPCテーマ(Temp)(記録用:SPC Theme (Temp))",
+  "content": "[[module CSS]]\n@import url(http://scp-jp.wdfiles.com/local--code/theme:spc);\n\n#page-content::before {\n    content: \"SPCテーマは[[include :scp-jp:theme:spc]]を使用してincludeしてください。@importや他の＠[[include]]を使用しないでください。\";\n    padding: 2em;\n    border: 1px solid red;\n    color: red;\n    display: block;\n}\n[[/module]]\n\n[[iftags +テーマ]]\nこのページの使用は推奨されません。このページからincludeを行わないでください。代わりに、以下のコードを使用してください。\n\n> [[include :scp-jp:theme:spc]]\n\n[[code type=\"css\"]]\n@import url(http://scp-jp.wdfiles.com/local--code/theme:spc);\n\n#page-content::before {\n    content: \"SPCテーマは[[include :scp-jp:theme:spc]]を使用してincludeしてください。@importや他の＠[[include]]を使用しないでください。\";\n    padding: 2em;\n    border: 1px solid red;\n    color: red;\n    display: block;\n}\n[[/code]]\n[[/iftags]]",
+  "tags": [
+    "en",
+    "テーマ",
+    "元記事削除"
+  ],
+  "author": "ukwhatn",
+  "created_at": "2020-10-13T14:58:27+00:00",
+  "updated_at": "2022-07-05T10:15:41+00:00",
+  "rating": 6,
+  "_site": "scp-jp",
+  "_fullname": "old:component:spc-theme-2"
+}

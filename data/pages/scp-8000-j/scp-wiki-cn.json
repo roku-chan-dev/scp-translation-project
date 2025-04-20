@@ -1,0 +1,16 @@
+{
+  "title": "SCP-8000-J",
+  "content": "[[include :scp-wiki-cn:theme:black-highlighter-theme]]\n[[include :scp-wiki-cn:component:info-ayers\n|page= [!-- url of your page on the scp wiki --]\n|authorPage=dr-tonnes-personnel-file[!-- link to your author page --]\n|comments=N/A\n]]\n[[module CSS]]\n\n**项目编号：**SCP-8000-J\n\n**项目等级：**Safe\n\n**特殊收容措施：**在SCP-8000-J的语境下，所有对项目等级“[已编辑]”的提及都需从本文档中删除。此举意在防止由SCP-8000-J本身的异常属性引起多次“归档错误”报告而造成混乱。\n\n无需进一步收容SCP-8000-J。\n\n**描述：**SCP-8000-J是一种信息危害，影响约75%对基金会项目等级“Safe”、“Euclid”和“Keter”及其指定用法有所了解的个人。\n\n受影响对象将相信项目等级“[已编辑]”需发音为“[已编辑]”，且无法被说服。若尝试说服，受影响对象将持续错误地发音该词汇，且认为该分级是另一拼写相同的词语的同形同音异义词。对象会将任何矛盾的证据看作是错误或不准确的，且常指责证据来源是受到了误导或信息不准确。\n\n**附录：**自SCP-8000-J首次发现以来，受影响人员比例已上升至约97%。由于SCP-8000-J本身无害，且仅影响了解基金会分级系统的人员，对它的收容被认为是低优先度的。截至本文档写作时，预计基金会人员将在确切的两个月内全部受到它的影响。\n\n为归档起见，相应项目等级及其正确发音已如下列出：\n\n[[collapsible show=\"访问文档\" hide=\" \"]]\n> ++ **Euclid：**优-克拉德（Yoo-kluhd）\n>\n> ++ **Keter：**基-他（Kee-tuh）\n>\n> ++ **Safe：**萨-非（Saff-ay）\n[[/collapsible]]\n\n[[include :scp-wiki-cn:component:license-box\nauthor=Penton]]\n[[include :scp-wiki-cn:component:license-box-end]]",
+  "tags": [
+    "safe",
+    "scp",
+    "信息危害",
+    "搞笑"
+  ],
+  "author": "Esperanza_Cai",
+  "created_at": "2022-01-19T12:15:09+00:00",
+  "updated_at": "2023-06-12T12:03:48+00:00",
+  "rating": 4,
+  "_site": "scp-wiki-cn",
+  "_fullname": "scp-8000-j"
+}

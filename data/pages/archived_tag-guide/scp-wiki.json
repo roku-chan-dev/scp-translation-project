@@ -1,0 +1,14 @@
+{
+  "title": "Tag Guide (Archived)",
+  "content": "[[div class=\"archived-top-box\"]]\nThe new version of this page can be found [[[a-laymen-s-guide-to-tagging | here]]].\n[[/div]]\n\n+++ What is a tag, and what are they used for?\nA tag is a keyword we apply to a page on this wiki. This keyword allows you to find all pages with similar elements. You can use the [http://www.scp-wiki.net//tag-search tag search page] to combine multiple tags and find articles tagged (for example) //euclid// and //humanoid//, or //automaton//, //keter//, and //broken-god//, or you can click on a tag you see on a page to get a list of all pages tagged with that specific tag. Which brings us to...\n\n+++ Where are these tags?\nGo to the bottom of any page on the wiki. You'll see small divider bar and below that a list of words in a smaller red typeface. Those are tags. You can click on them to get to a list of things tagged with that tag. If you're not seeing any, we haven't gotten round to applying them.\n\n+++ What tags are there?\n[http://05command.wikidot.com/tech-hub-tag-list Extensive lists are available], along with when to apply them and when not to. Sometimes tags overlap, or supercede other tags, so it's something that needs a bit of thought put into it. Speaking of which...\n\n+++ How do I tag a page?\nYou don't have to. Our technical team and selected users will tag any article that's created. If you'd like to try your hand at tagging an article that doesn't have any yet, read the [http://05command.wikidot.com/tech-hub-tag tag guide] thoroughly and [[[contact-staff|contact the Technical Team]]] with your suggestions. If they give you the go-ahead, feel free to apply them to the article.\n\n+++ I have an idea for a tag!\nOnce enough articles cover a certain subject, a tag might be needed to index these pages. If you have an idea for a tag, [[[contact-staff|contact the Technical Team]]] or [/forum/t-13260150/tag-thread-3:revenge-of-the-tags post on the Tag Suggestion Thread] (see [/forum/t-13260155/character-tags-2:judgement-day here] for character tags) with a list of the pages you feel should get this new tag, and the reasoning behind the tag. For character, organizational, or other in-universe tags the standard is five pages by three authors. For attribute tag suggestions, at least ten articles are needed. You don't have to be a staff member to do this, anyone is free to contribute.",
+  "tags": [
+    "archived",
+    "guide"
+  ],
+  "author": "Aelanna",
+  "created_at": "2012-03-23T16:13:47+00:00",
+  "updated_at": "2021-06-10T20:06:35+00:00",
+  "rating": 27,
+  "_site": "scp-wiki",
+  "_fullname": "archived:tag-guide"
+}

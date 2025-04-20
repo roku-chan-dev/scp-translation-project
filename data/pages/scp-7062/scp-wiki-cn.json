@@ -1,0 +1,16 @@
+{
+  "title": "SCP-7062",
+  "content": "[[module css]]\n.page {\n    display: block;\n    overflow: hidden;\n    font-family: \"Monotype Corsiva\", \"Bradley Hand ITC\", sans-serif;\n    font-style: normal;\n    background-attachment: scroll;\n    background-clip: border-box;\n    background-color: transparent;\n    background-image: linear-gradient(to top ,rgb(202, 219, 228) 0%, rgb(231, 233, 220) 8%);\n    background-origin: padding-box;\n    background-position: 0px 8px;\n    background-repeat: repeat;\n    background-size: 100% 20px;\n    border: 1px solid #CCC;\n    border-radius: 10px;\n    padding: 10px 10px;\n    margin-bottom: 10px;\n    box-shadow: 0px 1px 3px rgba(0, 0, 0, 0.2)\n}\n.page p,\n.page ul {\n    line-height: 20px;\n    margin: 0;\n}\n[[/module]]\n\n\n[[include :scp-wiki-cn:component:anomaly-class-bar-source\n|lang= cn\n|item-number= 7062\n|clearance= 2\n|container-class= 无效化\n|secondary-class= none\n|disruption-class= none\n|risk-class= none\n]]\n\n**特殊收容措施：**不需要任何收容措施\n\n**描述：**SCP-7062是一个和前基金会研究员、诗人Layla Becker有关异常的统称。SCP-7062-A是Becker博士的一个装满干血液的墨水瓶。SCP-7062-B是Becker博士的心脏，尽管心脏已与她的身体完全分离，但仍在正常运行。\n\n**发现：**于1998年9月8日发现SCP-7062，其时Becker博士已在办公桌上死亡。对她的房间进行标准搜查后，在她的办公桌上发现了SCP-7062-A和SCP-7062-B，旁边还有几首用血液书写的诗。验尸官的报告称发现她的心脏患有急性Takotsubo型心肌病[[footnote]] 因压力过大而导致左心室收缩 [[/footnote]]，因此导致了研究员的死亡。其尸体旁发现了一张桌上的笔记。以下是笔记的转录。\n\n[[div class=\"page\"]]\n[[size larger]]我独自坐在这里\n一切都是这样寒冷且黑暗\n我还在等你的电话\n你是我的火花\n现在眼泪不断流下我的脸颊\n你的美丽让我想起了一只鸽子[[footnote]] 译注：原文为dove，这里疑似作者双关 [[/footnote]]\n我看见阴影在你的位置\n方才体会到这痛苦的[[span style=\"color: transparent; text-shadow: 0 0 7px rgba(0,0,0,.5)\"]]爱[[/span]][[/size]]\n[[/div]]\n\n字迹在笔记末尾处逐渐变得模糊。此外，字条最后的字被眼泪遮住了。",
+  "tags": [
+    "scp",
+    "无效化",
+    "生物性",
+    "血"
+  ],
+  "author": "wisdom01",
+  "created_at": "2022-10-31T08:15:25+00:00",
+  "updated_at": "2024-05-15T14:56:55+00:00",
+  "rating": -1,
+  "_site": "scp-wiki-cn",
+  "_fullname": "scp-7062"
+}

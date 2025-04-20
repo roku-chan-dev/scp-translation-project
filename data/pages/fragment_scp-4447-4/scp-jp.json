@@ -1,0 +1,14 @@
+{
+  "title": "SCP-4447-4",
+  "content": "[[module CSS]]\n.raisa {\n    border: solid 1px #999;\n    background: #f2f2c2;\n    padding: 5px;\n    margin-bottom: 10px;\n}\n[[/module]]\n\n[[div class=\"raisa\"]]\n[[=]]\n++++ 記録・保管・情報保安管理局より通達\n\nこれは当ファイルの現バージョンです。最初に戻るには[[[scp-4447|こちら]]]をクリックしてください。当リビジョンあるいは範囲履歴機能の詳細については、RAISA担当者にお問い合わせください。\n[[/=]]\n[[/div]]\n\n----\n\n[[include :scp-jp:component:anomaly-class-bar-source\n    item-number=4447 |\n    clearance=1 |\n    container-class=safe |\n    secondary-class=none |\n    disruption-class=vlam |\n    risk-class=caution\n]]\n\n----\n\n[[include component:image-block\n    name=http://scp-jp-storage.wikidot.com/local--files/file:5384396-48-leuj/ring.jpeg |\n    caption=SCP-4447\n]]\n\n**特別収容プロトコル:** SCP-4447は[[[secure-facility-dossier-site-77|保管サイト-77]]]の鉛で裏打ちされた異常物品保管庫に収容されます。実験には二名のレベル4職員による承認が必要です。全ての被験者はGPS追跡アンクレットを装着しなければなりません。\n\n**説明:** SCP-4447はステンレス鋼製のエンジニアリングです。微弱な精神放射にさらされると、地表から15km 以内にいる二名の人間の位置を瞬時に入れ替えることが可能です。この際に衣服、アクセサリー、荷物も入れ替わりますが、所有者の精神的意志の強さに基づいた質量制限があります。SCP-4447との物理的接触が維持される場合、標準的な人間は120～180kgを転送することが可能です。この指輪がどのようにしてその異常性を獲得したのかは不明です。\n\n**回収:** 解析部門の調査の後、サーシャ・ブラウン元研究員はマーシャル・カーター＆ダークの施設にいることが追跡されました。財団エージェントは襲撃を開始し、ブラウンはSCP-4447を利用して逃亡しました。ブラウンとの要注意団体の緊急避難手順を装った会話により、彼女は騙されて収容室内のDクラス被験者と位置を入れ替えました。出現すると直ちにブラウンは鎮静剤を投与され、GPS追跡アンクレットを装着されました。標準人型検査により、SCP-4447が関連する異常性の起源であることが判明しました。\n\nサーシャ・ブラウン研究員は異常物品を隠蔽し、物品を金銭目的で使用したとして現在懲戒審問を受けています。",
+  "tags": [
+    "en",
+    "フラグメント"
+  ],
+  "author": "Tetsu1",
+  "created_at": "2024-01-14T01:55:09+00:00",
+  "updated_at": "2024-01-14T01:58:49+00:00",
+  "rating": 0,
+  "_site": "scp-jp",
+  "_fullname": "fragment:scp-4447-4"
+}

@@ -1,0 +1,13 @@
+{
+  "title": "Vivarium的艺作页",
+  "content": "[[include :scp-wiki-cn:theme:black-highlighter-theme]]\n[[include :scp-wiki:theme:extra-black-highlighter-theme]]\n[[include :scp-wiki:component:bhl-dark-sidebar]]\n[[include :scp-wiki:component:centered-header-bhl]]\n[[include :scp-wiki:component:toggle-sidebar-bhl]]\n[[include :scp-wiki:component:fade-in speed=4]]\n\n[[=image http://scp-wiki.wdfiles.com/local--files/vivarium-s-artpage/VIVA.png]]\n\n你好，欢迎来到我的作品集！我本来不想做这个，但我想我现在做艺术所以……我们到这儿了。来看看吧，祝你有个愉快的一天。\n\n[[=]]\n+* 我的作品！\n[[/=]]\n\n-----\n\n||~ 图标 ||~ 解释 ||\n||  [[image http://scp-wiki.wdfiles.com/local--files/vivarium-s-artpage/BeholderProgram.gif width=\"250 px\"]] || **旁观者程序：**旁观者程序的logo，是[[[http://scp-wiki-cn.wikidot.com/into-the-void-hub | 这个中心页]]]的主要焦点。||\n||  [[image http://scp-wiki.wdfiles.com/local--files/vivarium-s-artpage/BinaryStar.gif width=\"250 px\"]] || **双子星：**[[[http://Scp-wiki-cn.wikidot.com/scp-5857 | 这篇文章]]]中的AI模样。||\n||  [[image http://scp-wiki.wdfiles.com/local--files/vivarium-s-artpage/Tau15Logo.png width=\"250 px\"]] || **MTF Tau-15 “先锋”：**为[[[http://scp-wiki.wikidot.com/scp6000contestdrlerche | 在这]]]起到重要作用的一支MTF制作的logo。||\n||  [[image http://Scp-wiki.wdfiles.com/local--files/vivarium-s-artpage/Wandsmen_Invert.png width=\"250 px\"]] || **魔杖人：**一个为GOI[[[http://scp-wiki-cn.wikidot.com/wandsmen-hub | 魔杖人]]]制作的logo。||\n\n[[include :scp-wiki-cn:component:license-box\n|author=Vivarium\n|translator=Claire Walker]]\n=====\n\n> **文件名：**VIVA.png\n> **图像名：**Vivarium\n> **图作者：**[[*user Vivarium]]\n> **授权协议：**CC BY-SA 3.0\n> **来源链接：** http://scp-wiki.wikidot.com/local--files/vivarium-s-artpage/VIVA.png\n\n> **文件名：**BeholderProgram.gif\n> **图像名：**Beholder Program Logo\n> **图作者：**[[*user Vivarium]]\n> **授权协议：**CC BY-SA 3.0\n> **来源链接：** http://scp-wiki.wikidot.com/local--files/vivarium-s-artpage/BeholderProgram.gif\n\n> **文件名：**BinaryStar.gif\n> **图像名：**Binary Star\n> **图作者：**[[*user Vivarium]]\n> **授权协议：**CC BY-SA 3.0\n> **来源链接：**http://scp-wiki.wikidot.com/local--files/vivarium-s-artpage/BinaryStar.gif\n\n> **文件名：**Tau15Logo.png\n> **图像名：**MTF Tau-15 \"Vanguard\" Logo\n> **图作者：**[[*user Vivarium]]\n> **授权协议：**CC BY-SA 3.0\n> **来源链接：** http://scp-wiki.wikidot.com/local--files/vivarium-s-artpage/Tau15Logo.png\n\n> **文件名：**Wandsmen_Invert.png\n> **图像名：**Wandsmen Logo\n> **图作者：**[[*user Vivarium]]\n> **授权协议：**CC BY-SA 3.0\n> **来源链接：** http://scp-wiki.wikidot.com/local--files/vivarium-s-artpage/Wandsmen.png\n\n=====\n[[include :scp-wiki-cn:component:license-box-end]]",
+  "tags": [
+    "艺术家"
+  ],
+  "author": null,
+  "created_at": "2021-06-06T03:05:44+00:00",
+  "updated_at": "2021-10-07T11:13:25+00:00",
+  "rating": 5,
+  "_site": "scp-wiki-cn",
+  "_fullname": "vivarium-s-artpage"
+}

@@ -1,0 +1,32 @@
+{
+  "title": "SCP-6200",
+  "content": "[!--\nFragment list:\nhttp://scp-wiki.wikidot.com/fragment:scp-6200-1\nhttp://scp-wiki.wikidot.com/fragment:scp-6200-2\nhttp://scp-wiki.wikidot.com/fragment:scp-6200-3\n--]\n\n[[include :scp-wiki:component:betterfootnotes]]\n\n[[module CSS]]\n\n#u-blink-bar p:last-child::after {\n    content: \"\";\n    border-right: 1px solid #e4e4e4;\n    animation: blink 1.5s infinite;\n    position: relative;\n    left: 1px;\n}\n \n@keyframes blink{\n    to {\n        opacity: .0;\n    }\n[[/module]]\n\n[[div style=\"display: none;\"]]\n[[include component:image-block name=demons.png|caption=.]]\n[[/div]]\n\n[[>]]\n[[module rate]]\n[[/>]]\n\n[[include :scp-wiki:component:author-label-source start=--\n|name=JakdragonX\n|no-right-margin=*]]\n= [[[/jakdragonx-rage-collection|Author Page]]] | [[[https://scp-wiki.wikidot.com/forum/t-14110573/scp-6200 | Discussion]]] | [[[https://scp-wiki.wikidot.com/random:random-page|Feeling Lucky?]]]\n\n**More by JakdragonX:**\n* [[[Epitaphs of Mine]]] -- feat. [[*user Ralliston]]\n* [[[/scp-6864|SCP-6864 - Belwood Staffing]]]\n* [[[/bagel|Hungry For a Bagel]]]\n[[include :scp-wiki:component:author-label-source end=--]]\n\n[[include :scp-wiki:theme:black-highlighter-theme]]\n[[include :scp-wiki:theme:jakstyle]]\n\n[[module CSS]]\n#page-title {\n    display: none;\n}\n[[/module]]\n[[module ListPages category=\"fragment\" order=\"created_at\" parent=\".\" limit=\"1\" offset=\"@URL|0\"]]\n%%content%%\n[[/module]]\n[[div class=\"footer-wikiwalk-nav\"]]\n[[=]]\n<< [[[SCP-6199]]] | SCP-6200 | [[[SCP-6201]]] >>\n[[/=]]\n[[/div]]\n\n\n@@ @@\n[[include :scp-wiki:component:license-box\n|author=JakdragonX]]\n\n=====\n\n> **File Name:** beach.jpg\n> **Credit:** Damian Gadal\n> **License:** Creative Commons Attribution Generic 2.0 \n> **Link:** [https://commons.m.wikimedia.org/wiki/File:Empty_with_clouds_(5060836567).jpg Click Here]\n\n> **File Name:** city.jpg\n> **Credit:** pasa47\n> **License:** Creative Commons Attribution Generic 2.0\n> **Link:** [https://search.creativecommons.org/photos/0f8d6cdd-7f32-435f-8646-cf754880bf5e Click Here]\n\n> **File Name:** demons.png\n> **Credit:** [[*user EstrellaYoshte]], JarrahTree, Picturepest\n> **License:** Creative Commons Attribution 2.5 Australia, Creative Commons Attribution Generic 2.0 \n> **Derivatives Of:** [https://commons.m.wikimedia.org/wiki/File:Sunset_Crowd_at_Citadel_Palmyra_2009.jpg Click Here], [https://search.creativecommons.org/photos/b7a216bd-094c-481a-8099-afc8473cdb49 Click Here]\n\n> **File Name:** house.jpg\n> **Credit:** Kamil Czaiński\n> **License:** Creative Commons Attribution-Share Alike 4.0 International\n> **Link:** [https://commons.m.wikimedia.org/wiki/File:Stare_Cha%C5%82upki,_abandoned_house.jpg#mw-jump-to-license Click Here]\n\n=====\n[[include :scp-wiki:component:license-box-end]]",
+  "tags": [
+    "6000",
+    "_cc",
+    "_licensebox",
+    "_listpages",
+    "esoteric-class",
+    "hive-mind",
+    "hostile",
+    "humanoid",
+    "insect",
+    "memetic",
+    "metamorphic",
+    "mind-affecting",
+    "neurological",
+    "parasitic",
+    "reviewers-spotlight",
+    "sapient",
+    "scp",
+    "skeletal",
+    "sleep",
+    "transfiguration"
+  ],
+  "author": "JakdragonX",
+  "created_at": "2021-05-31T19:30:16+00:00",
+  "updated_at": "2023-01-03T16:08:00+00:00",
+  "rating": 282,
+  "_site": "scp-wiki",
+  "_fullname": "scp-6200"
+}

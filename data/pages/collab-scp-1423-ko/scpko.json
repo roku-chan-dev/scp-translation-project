@@ -1,0 +1,17 @@
+{
+  "title": "릴레이 SCP - \"SCP-1423-KO\"",
+  "content": "[[include :scpko:info:start]]\n\n해당 SCP는 디스코드 대화방 [https://discord.com/channels/556145244161179653/1034441021607657523 릴레이 SCP 스레드]에서 이벤트성으로 작성되었습니다.\n\n**SCP-1423-KO** -\n\n**저자:** [[*user DreamCube]], [[*user romrom]], [[*user Didic]], [[*user dmddo]], [[*user bluemoon_TERROR]], [[*user dododom]], [[*user POI_Damgi]]\n\n**조각 페이지:**\nhttp://scpko.wikidot.com/fragment:collab-scp-1423-ko-1\nhttp://scpko.wikidot.com/fragment:collab-scp-1423-ko-2\n\n[[include :scpko:info:end]]\n\n@@@@\n\n[[module ListPages  category=\"fragment\" parent=\".\" limit=\"1\" order=\"created_at\" offset=\"@URL|0\"]]\n%%content%%\n[[/module]]",
+  "tags": [
+    "ko",
+    "골목길",
+    "공저",
+    "대화방-릴레이",
+    "이야기"
+  ],
+  "author": "Didic",
+  "created_at": "2023-01-02T06:54:32+00:00",
+  "updated_at": "2023-01-07T08:43:47+00:00",
+  "rating": 6,
+  "_site": "scpko",
+  "_fullname": "collab-scp-1423-ko"
+}

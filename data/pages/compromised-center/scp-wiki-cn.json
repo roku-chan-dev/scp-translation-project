@@ -1,0 +1,17 @@
+{
+  "title": "免疫缺失",
+  "content": "[[include :scp-jp-sandbox2:inc:changepagetitle |\nTITLE=T1M3OU7|\nCOLOR=#EEE]]\n[[include :scp-jp:component:jstyles]]\n[[include :scp-jp-sandbox2:inc:changelogo |\nIMAGE = http://scp-wiki-cn.wikidot.com/local--files/compromised-center/logo.png]]\n[[include :scp-jp-sandbox2:inc:headsubtitle | \ntitle=真神不悦，以万物为乐子|\nCOLOR=#EEE]]\n[[>]]\n[[module Rate]]\n[[/>]]\n\n[[collapsible show=\" \" hide=\" \"]]\n[[html]]\n<iframe frameborder=\"no\" border=\"0\" marginwidth=\"0\" marginheight=\"0\" width=330 height=200 src=\"http://music.163.com/song/1376715674/?userid=322075175 \"></iframe>\n[[/html]]\n[[/collapsible]]\n\n[[=]]\n致我的挚友：[[*user thrumuvethur]]\n[[/=]]\n\n@@@@\n@@@@\n\n[[module CSS]]\n.heritage-notice {\nborder: dashed 2px #b00010;\nborder-radius: 10px;\nwidth: 400px;\nmargin: 0 auto;\npadding: 0 20px;\nbackground: #fcfcf0 url(/local--files/heritage-collection/hatch-black10i.png);\ncolor: #331010;\nmin-height: 116px;\n}\n\ntable.heritage {\n  border: 0;\n  padding: 0;\n  margin: 0 auto;\n  width: 600px;\n  border-spacing: 0;\n  border-collapse: separate;\n}\n\ntable.heritage td {\n  vertical-align: top;\n}\n\ntable.heritage td.title,\ntable.heritage td.label {\n  border-right: solid 1px #999;\n  font-size: 16pt;\n  color: #999;\n  width: 200px;\n  text-align: right;\n  padding-right: 10px;\n}\n\ntable.heritage td.label {\n  font-size: 20pt;\n}\n\ntable.heritage td.title {\n  padding-bottom: 20px;\n}\ntable.heritage td.label {\n  font-weight: bold;\n}\n\ntable.heritage td.entry {\n  padding: 6px 0 20px 10px;\n}\n\ntable.heritage div.description {\n  font-size: 14pt;\n}\ntable.heritage div.snippet {\n  font-style: italic;\n  font-size: 8pt;\n  color: #666;\n}\ntable.heritage div.date {\n  font-weight: normal;\n  font-size: 7pt;\n}\ntable.heritage div.snippet p {\n  margin: 5px 0;\n}\ntable.heritage div.description p,\ntable.heritage div.date p {\n  margin: 0;\n}\n\n@media (max-width: 599px) {\n.heritage-notice {\npadding: 0;\n}\n\ntable.heritage {\nwidth: 100%;\n}\n\ntable.heritage td.title, table.heritage td.label {\nwidth: 40%;\n}\n\ntable.heritage td.label {\nfont-size: 15pt;\n}\n}\n[[/module]]\n\n[[=]]\n++++ **我们是世界的腋毛**\n[[/=]]\n------\n\n[[=]]\n\n++ 现实\n\n[[[compromised-1|盲眼的救世主]]]\n\n[[[compromised-2|叛神]]]\n\n[[[compromised-3|黑暗刺骨]]]\n\n[[[compromised-4|亡语]]]\n\n[[[compromised-5|太阳之死]]]\n\n[[[compromised-6|黑洞]]]\n\n[[[compromised-8|斜光]]]\n\n[[[compromised-9|嚎叫]]]\n\n[[[compromised-10|第二轮]]]\n\n[[[compromised-11|颤抖]]]\n\n[[[compromised-12|镜魔]]]\n\n[[[compromised-13|紫月]]]\n\n[[[compromised-14|收缩]]]\n\n[[[compromised-15|旧夜]]]\n\n[[[compromised-16|初次访问]]]\n\n[[[compromised-17|清算日]]]\n\n++ 外部\n\n[[[scp-cn-1025|SCP-CN-1025]]]\n\n[[[scp-cn-1390|SCP-CN-1390]]]\n\n[[[scp-cn-1437|SCP-CN-1437]]]\n\n[[[leazov-n0|“247”]]]\n\n[[[compromised-0|消散]]]（已消散）\n\n++ 虚空\n\n[[[compromised-zero|第五类人员]]]\n\n@@@@\n[[/=]]\n\n[[include component:image-block name=F.jpg |caption=“费洛伦”]]\n\n[[include component:image-block name=M.jpg |caption=“Dr.Maliju”]]\n\n[[include component:image-block name=nobel.jpg |caption=Things Betwixt]]\n\n你的时间已经到了",
+  "tags": [
+    "_image",
+    "_故事中心",
+    "中心",
+    "原创",
+    "图像保留权利"
+  ],
+  "author": null,
+  "created_at": "2019-02-20T09:51:00+00:00",
+  "updated_at": "2023-03-16T05:10:56+00:00",
+  "rating": 50,
+  "_site": "scp-wiki-cn",
+  "_fullname": "compromised-center"
+}

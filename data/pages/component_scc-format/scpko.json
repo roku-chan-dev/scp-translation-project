@@ -1,0 +1,14 @@
+{
+  "title": "서천컨트리클럽 서식 틀",
+  "content": "[[include :scpko:theme:flowergarden]]\n\n[[iftags +구성요소]]\n\n[[include :scpko:info:start]]\n**서천컨트리클럽 서식 틀**\n\n**제작:** [[*user thd-glasses]]\n\n@@@@\n@@@@\n\n[[div style=\"border-radius: 15px; border:solid 3px #663333; background-color: #DDDDDD; width: 250px; margin: auto; padding: 0px; text-align: center;\"]]\n+++++* [[[thd-glasses-hub|thd-glasses의 작품 더 보기]]]\n[[/div]]\n\n[[include :scpko:info:end]]\n\n요주의 단체 [[[seocheon-cc-hub|서천컨트리클럽]]]의 GOI 서식에 사용되는 구성요소입니다.\n\n[[div class=\"blockquote codequote\"]]\n@@[[include component:scc-format@@ part=**a** or **b**]]\n[[/div]]\n[[/iftags]]\n\n[[div style=\"display: none; displ{$part}y: block; text-align: center;\"]]\n**[[span style=\"font-family: 'GabiaBombaram'; font-size: 25px; color: #0B7903;\"]]-- 서천 회원 명부 --[[/span]]**\n[[div style=\"border-bottom: solid 2px darkgreen; margin-bottom:1px;\"]]\n[[/div]]\n[[div style=\"border-bottom: solid 1px darkgreen; margin-bottom:1px;\"]]\n[[/div]]\n[[div style=\"font-family: \"EBSHunminjeongeumSBA\", verdana, arial, helvetica, \"Nanum Gothic\", sans-serif; font: font-size:10.5px; text-align: center; color:#777777;\"]]\n//이 음성 두루마리의 내용은 고객의 소중한 개인 정보입니다.//\n//철저한 개인 정보 보호로 신뢰받는 서천CC가 됩시다.//\n[[/div]]\n[[div style=\"border-bottom: solid 1px darkgreen; margin-bottom:1px;\"]]\n[[/div]]\n@@@@\n@@@@\n[[/div]]\n\n[[div style=\"display: none; display: {$part}lock; text-align: center;\"]]\n@@@@\n@@@@\n\n[[div style=\"border-bottom: solid 2px darkgreen; margin-bottom:1px;\"]]\n[[/div]]\n[[div style=\"border-bottom: solid 1px darkgreen; margin-bottom:1px;\"]]\n[[/div]]\n**[[span style=\"font-family: 'GabiaBombaram'; font-size: 15px; color: #0B7903;\"]]서천컨트리클럽[[/span]]**\n**[[span style=\"font-family: 'GabiaBombaram'; font-size: 8px; color: #2F9D27;\"]]성스러운 스포츠 • 향기로운 휴양 • 상서로운 사교[[/span]]**\n[[/div]]",
+  "tags": [
+    "ko",
+    "구성요소"
+  ],
+  "author": "thd-glasses",
+  "created_at": "2023-09-03T15:24:45+00:00",
+  "updated_at": "2023-09-03T15:37:24+00:00",
+  "rating": 4,
+  "_site": "scpko",
+  "_fullname": "component:scc-format"
+}

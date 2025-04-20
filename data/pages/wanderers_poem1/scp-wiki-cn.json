@@ -1,0 +1,15 @@
+{
+  "title": "颂诗歌者其一：初生",
+  "content": "[[>]]\n[[module rate]]\n[[/>]]\n\n[[module css]]\n@import url('https://fonts.googleapis.com/css?family=Special+Elite');\n\n.manifestoPaper {\n    color: #351f11;\n    font-family: Courier;\n    font-size: 14px;\n    background: url('http://www.rpc-wiki.net/local--files/malthusian-manifesto/PaperTexture.jpg');\n    background-repeat: no-repeat;\n    background-size: cover;\n    box-shadow: 4px 6px #dbdbd9;\n    padding: 10px;\n    font-family: 'Special Elite', cursive;\n}\n[[/module]]\n\n[[include :scp-wiki-cn:theme:black-highlighter-theme]]\n[[include :scp-wiki-cn:theme:dustjacket]]\n\n[[div class=\"manifestoPaper\"]]\n[[=]]\n赤橙色的晚霞照在大地上，\n一个渺小的人影行走在这无尽的余晖中。\n手中是那坚实的木棍，\n背上是那沉重的行囊，\n脚下是那不及的远方。\n迷离的双眼中流转着不变的坚定，\n颤抖的双手中紧篡着永恒的希望。\n\n跨越了时空的界限，\n祂来到了他的面前。\n那是他坚信的一切，\n能为之而死的一切。\n祂的手抚摸着他的头顶，\n他啜泣着亲吻祂的脚背。\n\n这个世界充满着罪恶与错误，\n直到祂的出现，\n战栗着的灵魂们看见了希望。\n疲惫的世界有了兴奋和喜悦，\n劳累的人们感到新生的降临。\n神圣的夜晚降临了，\n祂教我们彼此相爱。\n\n祂的法律是爱，\n祂的福音是和平。\n被祂打败的敌人，\n也是我们的兄弟。\n\n男孩出生在一个小镇，\n天使盘旋在小镇上空。\n竖琴的音符撒遍大地，\n六翼四首的光辉遍布。\n\n人影感到了命运的召唤，\n那淡光已从他面前消失。\n更加坚定的步伐跨出了，\n将去寻找他的一生所依。\n\n每个英雄，\n都需要一个诗人，\n歌颂他的丰功伟绩，\n让这个世界去铭记。\n[[/=]]\n[[/div]]\n\n[[=]]\n<< 颂诗歌者 其一 | [http://scp-wiki-cn.wikidot.com/wanderers:poem2 颂诗歌者 其二] | [http://scp-wiki-cn.wikidot.com/wanderers:poem3 颂诗歌者 其三] >>\n[[/=]]",
+  "tags": [
+    "wanderers",
+    "原创",
+    "游人志异"
+  ],
+  "author": "Just F",
+  "created_at": "2020-06-12T12:05:49+00:00",
+  "updated_at": "2020-09-29T12:41:33+00:00",
+  "rating": 16,
+  "_site": "scp-wiki-cn",
+  "_fullname": "wanderers:poem1"
+}

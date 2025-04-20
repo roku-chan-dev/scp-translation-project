@@ -1,0 +1,31 @@
+{
+  "title": "SCP-6987",
+  "content": "@@ @@\n@@ @@\n[[div style=\"display: none;\"]]\n[[=]]\n[[include component:image-block name=https://scp-wiki.wdfiles.com/local--files/scp-6987/logo.png|caption=.|width=100%|align=center]]\n[[/=]]\n[[/div]]\n[[>]]\n[[module Rate]]\n[[/>]]\n\n[[include :scp-wiki:component:author-label-source start=--\n|name=LORDXVNV]]\n= **SCP-6987** by [[*user LORDXVNV]]\n[[=]]\n**[[[LORDXVNV]]]'s Author Page**\n[[/=]]\n[[include :scp-wiki:component:author-label-source end=--]]\n\n[[module ListPages category=\"fragment\" parent=\".\" limit=\"1\" order=\"created_at\" offset=\"@URL|0\"]]\n%%content%%\n[[/module]]\n\n[!--\nhttps://scp-wiki.wikidot.com/fragment:scp-6987-0\nhttps://scp-wiki.wikidot.com/fragment:scp-6987-1\nhttps://scp-wiki.wikidot.com/fragment:scp-6987-2\nhttps://scp-wiki.wikidot.com/fragment:scp-6987-3\nhttps://scp-wiki.wikidot.com/fragment:scp-6987-4\n--]\n\n[[footnoteblock]]\n[[div class=\"footer-wikiwalk-nav\"]]\n[[=]]\n<< [[[SCP-6986]]] | SCP-6987 | [[[SCP-6988]]] >>\n[[/=]]\n[[/div]]\n\n[[module CSS]]\n.authorlink-wrapper {\n    --author-top-adjust: .5rem;\n}\n[[/module]]\n\n[[include :scp-wiki:component:license-box]]\n[[include :scp-wiki:component:license-box-end]]",
+  "tags": [
+    "_cc",
+    "_licensebox",
+    "_listpages",
+    "corporate",
+    "esoteric-class",
+    "exchange",
+    "fantasy",
+    "global-occult-coalition",
+    "goldbaker-reinz",
+    "k-class-scenario",
+    "legal",
+    "meta",
+    "mystery",
+    "political",
+    "predictive",
+    "science-fiction",
+    "scp",
+    "sheldon-katz",
+    "unusual-cargo"
+  ],
+  "author": "LORDXVNV",
+  "created_at": "2021-12-14T00:25:58+00:00",
+  "updated_at": "2024-10-09T18:13:18+00:00",
+  "rating": 491,
+  "_site": "scp-wiki",
+  "_fullname": "scp-6987"
+}

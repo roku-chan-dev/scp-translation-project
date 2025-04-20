@@ -1,0 +1,14 @@
+{
+  "title": "クレジット付き評価モジュール：otherwise",
+  "content": "[[/div]]\n[[div_ class=\"credit\" style=\"text-align:right; margin-top: 0.5em;\"]]\n[[a href=\"#u-credit-otherwise\"]]その他のライセンス[[/a]]\n[[/div]]\n[[div_ [[iftags +殿堂入り]]style=\"display: flex;\"[[/iftags]] class=\"Dendo\"]]\n[[div_ class=\"heritage-rating-module\"]]\n[[div_ class=\"heritage-emblem\"]]\n[[image http://scp-jp.wdfiles.com/local--files/component:heritage-rating/scp-heritage-v3.png link=\"[[iftags +殿堂入り +en]]heritage-collection-arc[[/iftags]][[iftags +殿堂入り +jp]]heritage-collection-jp[[/iftags]][[iftags +殿堂入り +fr]]patrimoine-francais-de-la-fondation-scp[[/iftags]]\" style=\"max-width: none;\"]]\n[[/div]]\n[[module Rate]]\n[[/div]]\n[[/div]]\n[[div_ class=\"modalbox-ratemodule\" [[iftags +殿堂入り]]style=\"display:none;\"[[/iftags]]]]\n[[module Rate]]\n[[/div]]\n[[/div]]\n[[/div]]\n[[/div]]\n[[div_ id=\"credit-otherwise\"]]\n[[div_ class=\"fader\"]]\n[[iframe https://scp-jp.github.io/files/util/common/credit/backmodule/otherwise.html ]]\n[[/div]]\n[[div_ class=\"modalcontainer\"]]\n[[div_ class=\"modalbox [[iftags +殿堂入り]]heritage[[/iftags]]\"]]\n[[div_ class=\"modalbox-title\"]]\n++* その他\n[[/div]]\n[[div_ class=\"credit otherwise\"]]",
+  "tags": [
+    "jp",
+    "コンポーネント"
+  ],
+  "author": "C-take",
+  "created_at": "2018-06-09T15:35:10+00:00",
+  "updated_at": "2022-01-08T10:16:34+00:00",
+  "rating": 13,
+  "_site": "scp-jp",
+  "_fullname": "credit:otherwise"
+}

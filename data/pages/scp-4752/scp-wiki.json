@@ -1,0 +1,19 @@
+{
+  "title": "SCP-4752",
+  "content": "[[include :scp-wiki:theme:black-highlighter-theme]]\n\n[[>]]\n[[module Rate]]\n[[/>]]\n\n**Item #:** SCP-4752\n\n**Object Class:** Safe\n\n**Special Containment Procedures:** A 5000km^^2^^ exclusion zone has been established around SCP-4752. Exploration and research teams that come within 100 kilometres of this exclusion zone are to be re-directed to their basecamp under the guise of \"seismic activity\".\n\n**Description:** SCP-4752 is a large mountain located at the southern end of the Transantarctic Mountain Range resembling a right angle triangle with a concave hypotenuse. Geological studies have indicated that since the late 16th century, SCP-4752's mass has been slowly concentrating beneath its peak, at the far west of the mountain, with no non-anomalous geological explanation. The rate of transfer has been accelerating since the 1980s. As of 2019, 44% of SCP-4752's mass was concentrated beneath its peak.\n\n**Addendum-4752-001:** Geological studies have indicated significant shifts in mass on the following dates, amongst others:\n\n* 33 CE\n* December 1792\n* 1873 - 1879\n* 24/10/1929\n* 19/10/1987\n* 15/09/2008\n* 20/02/2020\n\n**Addendum-4752-002:** On 06/09/2020, GoI-3425 (\"Anochists\") launched an assault on the west side of SCP-4752, during which an estimated 30% of SCP-4752's mass was lost. Members of GoI-3425 planted a nuclear explosive at the base of SCP-4752's west side and detonated it after a retreat. Following this, world economic output suffered a decline of 26%.\n\n[[footnoteblock]]\n\n[[div class=\"footer-wikiwalk-nav\"]]\n[[=]]\n<< [[[SCP-4751]]] | SCP-4752 | [[[SCP-4753]]] >>\n[[/=]]\n[[/div]]\n\n[[include :scp-wiki:component:license-box]]\n[[include :scp-wiki:component:license-box-end]]",
+  "tags": [
+    "_cc",
+    "_licensebox",
+    "geological",
+    "historical",
+    "location",
+    "safe",
+    "scp"
+  ],
+  "author": "OCuin",
+  "created_at": "2020-06-11T21:14:43+00:00",
+  "updated_at": "2020-08-28T15:58:51+00:00",
+  "rating": 138,
+  "_site": "scp-wiki",
+  "_fullname": "scp-4752"
+}

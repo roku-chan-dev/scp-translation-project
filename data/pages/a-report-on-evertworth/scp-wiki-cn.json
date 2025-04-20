@@ -1,0 +1,13 @@
+{
+  "title": "愿树永存",
+  "content": "[[include :scp-wiki:component:toggle-sidebar]]\n[[module css]]\n\n#page-title {\n    border-color: #bbb;\n    text-align: center;\n}\n\n\n\n[[/module]]\n[[=]]\n[[image https://scpsandboxcn.wikidot.com/local--files/chris-evertworth/82for-us width=\"300px\"]]\n++ //我们始终在这。//\n[[>]]\n——致我们在一起的时光。\n[[/>]]\n\n------\n\n[[collapsible show=\"我曾经的作品\" hide=\"我曾经的作品\"]]\n+++ __SCP__\n[[module ListPages created_by=\"Chris Evertworth\" separate=\"no\" limit=\"250\" perPage=\"250\" tags=\"+原创, +scp, -搞笑\" order=\"title\"]]\n%%title_linked%%\n[[/module]]\n\n+++ __搞笑SCP__\n[[module ListPages created_by=\"Chris Evertworth\" separate=\"no\" limit=\"250\" perPage=\"250\" tags=\"+原创, +scp, +搞笑\" order=\"title\"]]\n%%title_linked%%\n[[/module]]\n\n+++ __GoI格式__\n[[module ListPages created_by=\"Chris Evertworth\" separate=\"no\" limit=\"250\" perPage=\"250\" tags=\"+原创, +goi格式\" order=\"title\"]]\n%%title_linked%%\n[[/module]]\n\n+++ __基金会故事__\n[[module ListPages created_by=\"Chris Evertworth\" separate=\"no\" limit=\"250\" perPage=\"250\" tags=\"+原创, +故事\" order=\"title\"]]\n%%title_linked%%\n[[/module]]\n\n+++ __其他__\n[[module ListPages created_by=\"Chris Evertworth\" separate=\"no\" limit=\"250\" perPage=\"250\" tags=\"+原创, -scp, -goi格式, -故事, -作者\" order=\"title\"]]\n%%title_linked%%\n[[/module]]\n\n+++ __被放逐者之图书馆__\n[[module ListPages created_by=\"Chris Evertworth\" separate=\"no\" limit=\"250\" perPage=\"250\" category=\"wanderers\" tags=\"+原创\" order=\"title\"]]\n%%title_linked%%\n[[/module]]\n[[/collapsible]]\n\n------\n\n//就这样吧。//\n//我写完了。//\n\n//回见。//\n\n[[/=]]",
+  "tags": [
+    "作者"
+  ],
+  "author": null,
+  "created_at": "2020-01-19T09:58:43+00:00",
+  "updated_at": "2022-07-23T13:17:03+00:00",
+  "rating": 76,
+  "_site": "scp-wiki-cn",
+  "_fullname": "a-report-on-evertworth"
+}

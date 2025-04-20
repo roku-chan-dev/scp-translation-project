@@ -1,0 +1,24 @@
+{
+  "title": "SCP-6579-D",
+  "content": "[[div style=\"display:none;\"]]\n\n탐정 살인마\n\n[[/div]]\n\n[[include :scpko:theme:basalt]]\n\n[[module CSS]]\n\n#page-title,\n.meta-title {\n    display: none!important;\n}\n\n.authorlink-wrapper {\n    --author-top-adjust: -0.2rem;\n}\n\n[[/module]]\n\n[[include :scpko:info:start]]\n**SCP-6579:** 탐정 살인마,,The Detective Killer,,\n**원작:** https://scp-wiki.wikidot.com/scp-6579 by [[*user Calibold]]\n**역자:** [[*user TimidChild]]\n=====\n**이미지 출처:**\n> **Filename:** https://scp-wiki.wdfiles.com/local--files/calibri-bold-s-mega-cool-author-page/cambridge%20office.jpg\n> **Name:** Home Office Work Space Computer\n> **Author:** JamesDeMers\n> **License:** CC0\n> **Source Link:** https://pixabay.com/photos/home-office-work-space-computer-54583/\n=====\n[[include :scpko:info:end]]\n\n[[include :scp-wiki:component:author-label-source start=--\n|name=Calibold\n|no-right-margin=*]]\n[[=]]\n[[module ListPages range=\".\"]]\n**%%title%% -- %%first_paragraph%%**\n[[/module]]\n\n**[[[Calibri Bold's Mega Cool Author Page|Calibold's Mega Cool Author Page]]]**\n[[/=]]\n[[include :scp-wiki:component:author-label-source end=--]]\n@@  @@\n\n[[include :scpko:component:customizable-acs\n|containment-class= 퇴역\n|containment-color= 66,66,72\n|secondary-class= 아르콘\n|secondary-color= 88,0,188\n|inc-split-color= --]]]\n\n[[include :scpko:component:customizable-acs\n|containment-class= 퇴역\n|containment-image= https://scp-wiki.wdfiles.com/local--files/calibri-s-mega-cool-art-page-it-s-mostly-just-icons-but-what/Decommissioned.svg\n|containment-color= 66,66,72\n|inc-esoteric-layout = --]]]\n\n[[div class=\"anom-bar-esoteric\"]]\n\n[[include :scpko:component:customizable-acs\n|item-number= SCP-6579-D\n|clearance= 2\n|container-class= 퇴역\n|secondary-class= 아르콘\n|secondary-icon= https://scp-wiki.wdfiles.com/local--files/component%3Aanomaly-class-bar/archon-icon.svg\n|disruption-class= 커너크\n|risk-class= 치명\n|item-text= ITEM#:\n|level-text= LEVEL\n|clearance-number-text= 2\n|clearance-text= 무제한\n|containment-text= 격리 등급:\n|secondary-text= 이전 격리 등급:\n|disruption-text= 혼란 등급:\n|risk-text= 위험 등급:\n|inc-custom-text= --]]]\n\n[[/div]]\n\n------\n\n[[include component:image-block\n| name=https://scp-wiki.wdfiles.com/local--files/calibri-bold-s-mega-cool-author-page/cambridge%20office.jpg\n| caption=캠브리지 박사의 사무실 (생전에 촬영함)\n| width=400px]]\n\n**특수 격리 절차:** SCP-6579가 죽인 모든 재단 인원은 부끄럼쟁이.aic가 조종하는 무장 드론 부대로 제거한다.\n\n//격리 절차 부록:// 캠브리지 박사의 사무실은 접근을 완전히 금한다. 부끄럼쟁이.aic가 SCP-6579를 도맡아 조사한다. SCP-6579 관련 모든 정보를 수신하면 부끄럼쟁이.aic는 바로 퇴역한다.\n\n**설명:** SCP-6579는 항밈 전문 재단 연구원이었던 故 캠브리지 박사의 제41기지에 있는 사무실을 차지한 것으로 보이는 독립체 혹",
+  "tags": [
+    "en",
+    "scp",
+    "관찰",
+    "무기",
+    "비격리",
+    "사체",
+    "시각",
+    "음향",
+    "인식재해",
+    "정보재해",
+    "퇴역",
+    "항밈적"
+  ],
+  "author": "TimidChild",
+  "created_at": "2024-04-02T11:21:57+00:00",
+  "updated_at": "2024-04-02T11:28:02+00:00",
+  "rating": 7,
+  "_site": "scpko",
+  "_fullname": "scp-6579"
+}

@@ -1,0 +1,23 @@
+{
+  "title": "SCP-5581",
+  "content": "[[include theme:black-highlighter-theme]]\n[[include :scp-wiki:component:pride-highlighter |inc-ally-alt= --]]]\n\n[[module CSS]]\n.footnotes-footer{\ndisplay:none;\n}\n[[/module]]\n\n[[include :scp-wiki-cn:component:info-ayers\n|page=scp-5581\n|authorPage=popsioaks-garden\n|comments= SCP-5581：挥拍发人\n音频及图像来源：\nhttps://pxhere.com/en/photo/712348 - 公有领域\nhttps://www.youtube.com/watch?v=iTUxWFEmadg CC 4.0\n]]\n\n\n**项目编号：**5581\n\n**收容等级/许可等级：**Keter/**##Orange|等级3##**\n\n[[include component:image-block name=https://scp-wiki.wdfiles.com/local--files/scp-5581/landscape|caption=SCP-5581中的一张图片。]]\n\n**特殊收容措施：**使用基金会网络爬虫和.aic扫描深网，搜索并远程删除其中的SCP-5581副本。若有人观看到SCP-5581，需将对象送往当地医院，执行人道主义安乐死，并对所有相关人员实施A级记忆删除。此后需发布掩盖故事“医院内感染”，并将遗体火化。\n\n**描述：**SCP-5581是一个包含一系列静止图片和一段音频的.mp4文件，文件名为“toserveman.mp4”。SCP-5581的文件异常性地小，通常小于200字节，但播放时分辨率不低于1080p。观看SCP-5581中单独的一张图片是安全的，推测仅在以特定顺序连续放映图片时才会产生有害效应。其中的图片通常为可能来自地球上随机地点的风景照片，似乎没有明确含义。唯一的音频中包含混杂的哼声、呻吟声、吃力的呼吸声。\n\n若一名人类观看到SCP-5581，对象将经历一系列生理变化。\n* 对象的脊柱会向后弯曲，而骨盆被推向前方，身体固定在这一姿势。对象的四肢会以开合跳的姿势展开。\n* 腰椎沿水平方向伸展，穿透血肉，向后方弯曲，形成直径2米的近似球体。此后，尾椎向下方伸长，与围成球体的腰椎末端交汇。\n* 其余的脊椎将在腰椎形成的架构上组成网格状结构，以增强球体的牢固性。体表的所有皮肤将变硬，形成类似结痂的表面层。\n* 前臂和大腿上的皮肤延展，包裹住脊椎和尾椎组成的结构，使全身变为球体。随后血肉会填入剩余的空隙中。\n* 脖颈、双手、双足缩入体内，仅有脸部留在球体表面。对象将不能发声，但仍可以呼吸、排泄、进食，且有许多对象表现出了黄疸症状。可使用为肌萎缩侧索硬化[[footnote]]**译注：**肌萎缩侧索硬化（ALS）又称渐冻症，患者因运动神经元损伤而肌肉萎缩。[[/footnote]]病人设计的软件和设备与对象进行交流。\n\n仍存活的对象报告称，自己在变形后被传送到了一处指定为SCP-5581-1的未知地点。据描述，此地点是一个悬浮在空中的大型绿色矩形，中有一堵矩形高墙将其纵向分隔开。矩形墙壁的两侧各有两条大型肢体，反复使用与肢体大小相当的工具击打对象，使对象受到钝力击打伤并承受超过4g的加速度。仍然存活的对象会在一段不定的时间后被传送回原来的位置。\n\n在一次实验中，基金会令对象携带信息记录设备观看SCP-5581并经历传送，以进一步探明SCP-5581-1内的环境。由于未知原因，未能获得视频记录。获取到的音频记录如下。\n\n[[include :scp-wiki:component:audio-player-woed-source\n|unique-name=ode\n|audio-file=http://kaktuskontainer.wdfiles.com/local--files/popsioak-3/tennis\n|background-color=rgb(252, 252, 252)\n|border-color=rgb(215, 215, 215)\n|border-radius=0.313rem\n|dropshadow-color=rgba(12, 12, 12, 0.15)\n|text-color=rgb(80, 0, 2)\n|icons-color=rgb(171, 0, 5)\n|player-color=rgb(215, 215, 215)\n|progress-color=rgb(80, 0, 2)\n    ]]\n\n[[footnoteblock]]\n[[div class=\"footer-wikiwalk-nav\"]]\n[[=]]\n<< [[[SCP-5580]]] | SCP-5581 | [[[SCP-5582]]] >>\n[[/=]]\n[[/div]]\n\n[[include :scp-wiki-cn:component:license-box\n|author=Popsioak\n|translator=Grignard_reagent\n]]\n=====\n> **文件名：**landscape\n> **图片名：**N/A\n> **作者：**N/A\n> **授权协议：**CC0 1.0\n> **来源链接：** [https://pxhere.com/en/photo/712348 pxhere]\n\n> **文件名：**tennis\n> **音频名：**FREE SOUND EFFECT - TENNIS BALL BEING HIT [NO COPYRIGHT]\n> **作者：**Ultimate Free Sound Effects Channel\n> **授权协议：**CC BY 4.0\n> **来源链接：** [https://www.youtube.com/watch?v=iTUxWFEmadg YouTube]\n=====\n[[include :scp-wiki-cn:component:license-box-end]]",
+  "tags": [
+    "keter",
+    "scp",
+    "传送",
+    "变形",
+    "听觉影响",
+    "地点",
+    "媒体",
+    "敌意",
+    "星际",
+    "视觉性",
+    "认知危害"
+  ],
+  "author": "Grignard_reagent",
+  "created_at": "2023-04-12T08:18:56+00:00",
+  "updated_at": "2023-04-12T08:19:07+00:00",
+  "rating": 4,
+  "_site": "scp-wiki-cn",
+  "_fullname": "scp-5581"
+}

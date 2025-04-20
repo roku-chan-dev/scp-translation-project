@@ -1,0 +1,25 @@
+{
+  "title": "SCP-CN-2469",
+  "content": "[[include theme:broken-masquerade]]\n\n[[module CSS]]\n@font-face {\n    font-family: 'D2Coding';\n    src: url('https://cdn.jsdelivr.net/gh/projectnoonnu/noonfonts_three@1.0/D2Coding.woff') format('woff');\n    font-weight: normal;\n    font-style: normal;\n}\n[[/module]]\n\n[[include info:start]]\n**别称:** 무소부재\n**原作:** [http://scp-wiki-cn.wikidot.com/scp-cn-2469 SCP-CN-2469] by Claire Walker\n**译者:** [[*user XCninety]]\n[[include info:end]]\n\n[[iftags +cn -en]]\n**일련번호:** SCP-CN-2469\n\n**등급:** 타우미엘\n\n**특수 격리 절차:** 현재 주요 정부기관 및 GoI와 합작하여 SCP-CN-2469를 신속히 대량 생산 및 민간 배포 중이다. 전 인류가 반드시 SCP-CN-2469를 복용하도록 한다.\n\n**설명:** SCP-CN-2469는 2030년 6월 22일 재단에서 개발을 마친 변칙적 물약으로, 민간 명칭은 \"파가니니 경구액(帕格尼尼口服液)\"이다. 인간이 이 약물을 마시면 이내 목소리를 잃게 된다. 정확히 표현하면, 복용자는 성대가 멀쩡히 진동하지만 아무 소리도 내지 못한다.\n[[/iftags]]\n\n[[iftags -cn +en]]\n**일련번호:** SCP-6470\n\n**등급:** 타우미엘\n\n**특수 격리 절차:** 현재 주요 정부기관 및 GoI와 합작하여 SCP-6470을 신속히 대량 생산 및 민간 배포 중이다. 전 인류가 반드시 SCP-6470을 복용하도록 한다.\n\n**설명:** SCP-6470은 2030년 6월 22일 재단에서 개발을 마친 변칙적 물약으로, 민간 명칭은 \"파가니니 경구액,,Paganini Oral Medication,,\"이다. 인간이 이 약물을 마시면 이내 목소리를 잃게 된다. 정확히 표현하면, 복용자는 성대가 멀쩡히 진동하지만 아무 소리도 내지 못한다.\n[[/iftags]]\n\n**부록:**\n[[div style=\"color: black; font-family: 'D2Coding'; font-weight: normal; background:#DFFFF3 url(http://scp-wiki.wdfiles.com/local--files/the-great-hippo/scp_trans.png) center no-repeat; float: center; border: solid 1px #000000; padding: 15px 15px; box-shadow: 0 1px 3px rgba(0,0,0,.2); width: 84%; margin: 4% 4% 4% 4%\"]]\n[[=]]\n+++ **\"침묵의 시대\"의 통용 규칙**\n//의사불통학부//\n@@@@\n[[size 80%]](12판)[[/size]]\n[[/=]]\n------\n**주목:** 이하 수칙은 SCP 재단, 세계 오컬트 연합, UN 등 여러 기구에서 공동 감독 및 집행합니다. 당신과 가족이 모두 생명을 지킬 수 있도록 각 조항을 반드시 준수하십시오.\n\n# 절대로, 아주 미약하게라도, 말소리를 내지 마십시오. 파가니니 경구액은 수령 즉시 섭취하십시오.\n# 항상 침착함을 유지하면서, 말하지 않는다면 안전하다는 사실을 기억하십시오. 주변 사람에게서 정신이 무너지거나 공포가 극도로 치솟아 버티지 못하려는 징후를 감지했다면 곧바로 최소 15m 이상 떨어져 안전을 확보하십시오.\n# 만지지 마십시오. 위험합니다.\n# 공격하지 마십시오. 소용없는데다 위험합니다.\n# 절대로, 어떤 방식으로도 기록 (필기, 사진, 영상 등) 하거나 논하지 마십시오. 생명을 위협할 수 있습니다.\n# 평범하게 공부하고 근로하고 생활을 영위하십시오. 주변에 아무것도 없는 것처럼 가장해도 무방합니다.\n# 현재 사람 목소리를 녹음한 장비 또한 위험을 초래하는지 연구 중입니다. 추후 통지 시까지는 노래를 듣는 등 사람 목소리를 이용하는 장비를 사용하는 행위를 삼가십시오.\n# 이상의 규칙은 재단의 연구 결과에 맞추어 실시간으로 갱신되므로, 항상 관심을 기울여 주십시오.\n[[>]]\nSCP 재단\n2030/06/26\n[[/>]]\n[[/div]]",
+  "tags": [
+    "cn",
+    "scp",
+    "군체의식",
+    "부서진-가장무도회",
+    "비격리",
+    "생물",
+    "음향",
+    "재단이-만듦",
+    "적대적",
+    "종",
+    "타우미엘",
+    "파괴불가능",
+    "포식성"
+  ],
+  "author": "XCninety",
+  "created_at": "2022-02-12T12:42:11+00:00",
+  "updated_at": "2025-02-02T13:57:16+00:00",
+  "rating": 8,
+  "_site": "scpko",
+  "_fullname": "scp-cn-2469"
+}

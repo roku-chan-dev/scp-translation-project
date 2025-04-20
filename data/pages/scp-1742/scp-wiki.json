@@ -1,0 +1,19 @@
+{
+  "title": "SCP-1742",
+  "content": "[[>]]\n[[module Rate]]\n[[/>]]\n\n**Item #:** SCP-1742\n\n**Object Class:** Safe\n\n**Special Containment Procedures:** Specimens contaminated with SCP-1742 are to be contained in a facility equipped according to Biosafety Level 4 standards at least 1km away from any living quarters or facilities used for food preparation. Researchers entering the facility for testing must wear disposable clothing, which must be incinerated on-site before leaving containment. No other objects are allowed to enter the containment area without approval from the Site Director.\n\n**Description:** SCP-1742 is a contagious phenomenon which takes the form of household filth, appearing as stains, marks, or a greasy coating on inanimate objects. Analysis of samples reveals a widely variable composition, including substances such as soil, complex lipids (kitchen grease), and in some cases, particles of human and domestic animal feces. \n\nWhen not contained in a domicile,[[footnote]] For the purposes of this document, a \"domicile\" is defined as a structure used as a primary residence by one or more persons.[[/footnote]] objects contaminated with SCP-1742 (hereafter known as SCP-1742-1) are contagious only through direct contact. Objects coming in contact with an instance of SCP-1742-1 will develop a mark or stain at the point of contact, as would be expected from a filthy object; however, the affected area will grow rapidly without further exposure until the object is entirely covered. The filth appears to adapt to a type appropriate for the object affected - objects made of ferrous metal will develop rust stains and machine oil, eating and drinking utensils will become covered in grease and food waste, etc.\n\nConcentrated detergents are able to remove SCP-1742 from skin and hair, but to date no means have been found to remove contamination from inanimate objects. Attempts to remove SCP-1742 from an object via normal cleaning methods invariably spread the contamination instead. For example, attempting to wash a contaminated plate with soap and water instead contaminates the sink, sponges, and any towels used, and an attempt to wash contaminated towels contaminates any other fabrics washed along with them as well as the washing machine.\n\nWhen contained within a domicile, SCP-1742-1 instances spread by an additional vector. Once per day, each instance appears to spontaneously generate a contaminated mark or stain on walls, flooring, or furniture within a 5 meter radius, which then spread normally. Once more than 50% of surfaces within a domicile are contaminated, macroscopic pieces of waste material begin to appear spontaneously, including but not limited to: food waste, used packaging material, soiled clothing, domestic animal waste, human hair, and dead vermin.\n\nSCP-1742 was discovered in the wake of the condemnation for squalor of a condominium complex in an affluent neighborhood in   █████████████, California on ██/██/198█. Subsequent investigation traced the source of contamination to a \"rusty antique cast-iron skillet\" purchased by a resident from an unknown vendor at a local swap meet, six weeks prior. All ten units in the complex were destroyed in a controlled burn performed by the local fire department, and residents were treated with Class-B amnestics and relocated at Foundation expense.\n\n[[footnoteblock]]\n\n[[div class=\"footer-wikiwalk-nav\"]]\n[[=]]\n<< [[[SCP-1741]]] | SCP-1742 | [[[SCP-1743]]] >>\n[[/=]]\n[[/div]]\n[[include :scp-wiki:component:license-box]]\n[[include :scp-wiki:component:license-box-end]]",
+  "tags": [
+    "_licensebox",
+    "biohazard",
+    "contagion",
+    "ectoentropic",
+    "featured",
+    "safe",
+    "scp"
+  ],
+  "author": "murphy_slaw",
+  "created_at": "2012-05-01T01:18:59+00:00",
+  "updated_at": "2022-10-21T08:06:38+00:00",
+  "rating": 233,
+  "_site": "scp-wiki",
+  "_fullname": "scp-1742"
+}

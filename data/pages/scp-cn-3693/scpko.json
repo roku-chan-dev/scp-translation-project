@@ -1,0 +1,19 @@
+{
+  "title": "SCP-CN-3693",
+  "content": "[[include info:start]]\n**SCP-CN-3693:** 엄청 커어어어어다란 고양이,,很大大大大大的猫咪,,\n**저자:** [[*user Aegnus]]\n**인트 번역자:** [[*user tetsusquared]]\n**역자:** [[*user LR0725]] / [[[wa-you-know-sans|작가 페이지]]]\n**원본:** https://scp-wiki-cn.wikidot.com/scp-cn-3693\n**인트 번역본:** http://scp-int.wikidot.com/scp-cn-3693\n\n**이미지 정보**\n> **이름:** bigcat.jpg\n> **저작권자:** MusikAnimal\n> **라이선스:** CC BY-SA 3.0\n> **원본:** https://commons.wikimedia.org/wiki/File:Great_Sphinx_of_Giza_May_2015.JPG\n[[include info:end]]\n\n**일련번호:** SCP-CN-3693\n\n**등급:** 유클리드\n\n**특수 격리 절차:** SCP-CN-3693 반경 0.5 km 범위 내를 봉쇄해 민간인 접근을 차단하고, 최소 5명의 보안 인원이 해당 구역을 항상 주기적으로 순찰한다. 개체가 이동한다면 가장 가까운 기지에 통지한다. 또한 'SCP 재단 표준 대피 규약'에 따라 주변 민간인을 피난시켜, 불필요한 소규모 장막 파기 사태가 발생하지 않도록 한다.\n\nSCP-CN-3693 아래에 반경 10 m의 구멍을 굴착해 히터를 보관 중이다.\n\n[[include component:image-block\n| name=http://scpsandboxcn.wikidot.com/local--files/aegnuspicture/bigcat.jpg\n| caption=SCP-CN-3693.\n]]\n\n**설명:** SCP-CN-3693은 이집트 카이로(29° 58′ 31″ N, 31° 8′ 16″ E)에 위치한 크기 37.5 m x 10.2 m x 14.3 m의 스핑크스 조각상이다. 기원전 2600년에 세워졌다.\n\n개체를 구성하는 석재에는 변칙성이 없다. 개체는 고양이의 보행 양상과 유사한 방식으로 감지할 수 있는 범위[[footnote]]이 감지 능력의 범위를 밝히기 위한 실험은 거부되었다.[[/footnote]] 내의 가장 강력한 열원(熱源)을 향해 끊임없이 이동한다. 이 때문에 재단은 온도를 최대 섭씨 200도까지 올릴 수 있는 히터를 제작해, SCP-CN-3693이 현재 위치에 계속 머물게 만들었다.\n\n[[footnoteblock]]",
+  "tags": [
+    "cn",
+    "scp",
+    "구조",
+    "유클리드",
+    "이동",
+    "인공물",
+    "자율"
+  ],
+  "author": "LR0725",
+  "created_at": "2024-06-17T08:18:55+00:00",
+  "updated_at": "2024-11-16T04:40:33+00:00",
+  "rating": 14,
+  "_site": "scpko",
+  "_fullname": "scp-cn-3693"
+}

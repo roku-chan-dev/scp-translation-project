@@ -1,0 +1,13 @@
+{
+  "title": "A File On A Server",
+  "content": "[[include theme:black-highlighter-theme]]\n[[include :scp-wiki:theme:extra-black-highlighter-theme]]\n[[include component:hide-tags]]\n\n[[include component:object-warning-box-source\n|bg-image=https://upload.wikimedia.org/wikipedia/commons/e/ec/SCP_Foundation_%28emblem%29.svg\n|bg-opacity=0.15\n|text-top=BY ORDER OF THE OVERSEER COUNCIL\n|text-bottom=The following file is Level 6/001 Classified.\n**Unauthorized access is forbidden.**\n|object-number=001\n]]\n\n[[include :scp-wiki:component:anomaly-class-bar-source\n|item-number= 001\n|clearance= 6\n|container-class= esoteric\n|secondary-class= principalis\n|secondary-icon= https://scp-wiki.wdfiles.com/local--files/fragment%3Adjkaktus-s-proposal-iii-0/principalis-icon-png.png\n|disruption-class= amida\n|risk-class= notice\n]]\n\n\n-----\n\n[[include component:image-block name=allthingsmustend.png|align=center|width=700px|caption=All Things Must End]]\n\n-----\n\n**Special Containment Procedures:** It is the imperative of the Overseer Council to establish containment of SCP-001. \n\n**Description:** To know the nature of SCP-001 is to know the nature of the Foundation. \n\nFor more information, see //Document 001-GOI.01-Operatus//.\n\n**Addendum 001.1:** Attached Documentation\n\n[[collapsible show=\"Enter Decryption Key\" hide=\"Decrypting...\"]]\n@@@@\n@@@@\n[[=]]\n[[div style=\"display: inline-block; border: dashed 1px #444444; margin-left: auto; margin-right: auto; width: 380px; padding: 10px;\"]]\nThe first man stood alone \non the barren field\nand in the distance he saw \nthe locked gate beyond which\nhis greatest shame was kept.\n \nHe turned to the snake\nwho writhed on its belly \nlike a worm\nand cursed it for its treachery.\n \n\"You tricked me,\" the man said\n\"you led my hand astray \nand now we are damned for it.\"\n \nThe snake sighed.\n\"I gave you knowledge,\" it said\n\"and with that knowledge\nyou made the choice you made.\nI could not make it for you.\"\n \nThe man cried out\n\"All the same, trusting you was\nmy greatest mistake.\"\n \n\"No,\" the snake said\n\"Your greatest mistake was\nbelieving you had a choice at all.\"\n@@@@\n@@@@\n- -- -\n@@@@\n@@@@\n[[div style=\"display: inline-block; border: solid 1px #000000; background-color: #F5F5F5; width: 300px;\"]]\n[/djkaktus-s-proposal-iii/offset/1 Access Document 001-GOI.01-Operatus]\n[[/div]]\n[[/div]]\n[[/=]]\n[[/collapsible]]",
+  "tags": [
+    "fragment"
+  ],
+  "author": "djkaktus",
+  "created_at": "2018-12-01T06:04:40+00:00",
+  "updated_at": "2024-02-07T15:27:31+00:00",
+  "rating": 1,
+  "_site": "scp-wiki",
+  "_fullname": "fragment:djkaktus-s-proposal-iii-0"
+}

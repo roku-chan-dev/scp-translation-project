@@ -1,0 +1,14 @@
+{
+  "title": "Gabriel Jade's Personnel File",
+  "content": "Despite repeated requests to submit, and failed attempts by the Foundation to gather,[[footnote]]//Seriously it's been the better part of a decade, just submit the damned forms!// - Site Director [REDACTED][[/footnote]] detailed personal information regarding Dr. Gabriel Jade has not been made available to Human Resources. \n\nThe following list of anomalous research has been credited to Dr. Jade based on the series of hastily written containment theories haphazardly pieced together which provided initial containment procedures for the following anomalies:\n\n[[include component:author-page\n  order=created_at |\n  perpage=20 |\n  background=yes |\n  image=no |\n]]\n[[include component:author-page-collab\n  name=do-no-harm |\n  written_by=Doctor Cimmerian and Gabriel Jade|\n  note=|\n  background=yes |\n  image=no | \n]]\n[[include component:author-page-collab\n  name=who-wants-to-live-forever |\n  written_by=Uncle Nicolini and Gabriel Jade|\n  note=|\n  background=yes |\n  image=no | \n]]\n[[include component:author-page-collab\n  name=scp-3756 |\n  written_by=Uncle Nicolini and Gabriel Jade|\n  note=|\n  background=yes |\n  image=no | \n]]\n[[include component:author-page-collab\n  name=the-hermit-death-and-the-devil |\n  written_by=Uncle Nicolini and Gabriel Jade|\n  note=|\n  background=yes |\n  image=no | \n]]\n[[include component:author-page-collab\n  name=SCP-4450 |\n  written_by=Ayers and Gabriel Jade|\n  note=|\n  background=yes |\n  image=no | \n]]\n[[include component:author-page-collab\n  name=SCP-4810 |\n  written_by=DrCaroll and Gabriel Jade|\n  note=|\n  background=yes |\n  image=no | \n]]\n[[include component:author-page-collab\n  name=what-it-all-really-means |\n  written_by=Ayers and Gabriel Jade|\n  note=|\n  background=yes |\n  image=no | \n]]\n[[include component:author-page-collab\n  name=ayers-gabriel-jade-proposal |\n  written_by=Ayers and Gabriel Jade|\n  note=|\n  background=yes |\n  image=no | \n]]\n\n\n[[include component:image-block\n    name= http://www.scp-wiki.net/local--files/gabriel-jade/cack_hard_poster.png|\n    caption=Cack Hard movie poster. |width=700px\n]]",
+  "tags": [
+    "_cc",
+    "author"
+  ],
+  "author": "Gabriel Jade",
+  "created_at": "2018-05-22T21:20:20+00:00",
+  "updated_at": "2019-09-25T11:03:04+00:00",
+  "rating": 40,
+  "_site": "scp-wiki",
+  "_fullname": "gabriel-jade"
+}

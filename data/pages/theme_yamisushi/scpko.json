@@ -1,0 +1,15 @@
+{
+  "title": "어둠의 초밥 테마",
+  "content": "[[module CSS]]\n@import url(\"https://scpko.wdfiles.com/local--code/theme%3Ayamisushi/1\");\n[[/module]]\n\n[[iftags +테마]]\n\n[[include :scp-jp:credit:start-preview]]\n**어둠의 초밥 테마**(어둠의 초밥 테마)\n**원작:** http://scp-jp.wikidot.com/theme:yamisushi\n**저자:** ©[[*user tutuji]]\n**역자:** [[*user salamander724]]\n[[include :scp-jp:credit:end-preview]]\n\n이 테마를 사용하려면, 다음 코드를 작품 페이지에 복붙해 주십셔!\n\n[[div class=\"code\"]]\n[[span style=\"color:black\"]]@@[[include :scpko:theme:yamisushi]]@@[[/span]]\n[[/div]]\n\n> **테마명**: 어둠의 초밥 테마\n> **작성자**: tutuji\n\n이 테마는 어둠의 초밥 파일을 위해 작성되었시다!!\n\n이하 사용례\n\n+ h1 어둠의 초밥이 CSS 테마를 완성했다구! 타카오군!\n\n++ h2 정말이야!? 큰일이잖아 박사!!\n\n+++ h3 우오오오오오!!!!!!\n\n++++ h4 불타오르잖아!\n\n+++++ h5 맛있잖아!\n\n++++++ h6 막 돌잖아!\n\n[[size 0%]]　[[/size]]\n\n[[tabview]]\n[[tab 탭이라니깐!]]\n잘 다룰 수 있을까…?\n[[/tab]]\n[[tab 탭이라니깐!]]\n힘을 원하는가…?\n[[/tab]]\n[[/tabview]]\n\n[[collapsible show=\"＋ 우리들의 싸움은\" hide=\"－ 지금부터다!!\"]]\n> 어둠의 초밥이야말로 최강의 스시블레이드다…!! [[footnote]]호평 방송 중!![[/footnote]]\n[[/collapsible]]\n\n[[size 0%]]　[[/size]]\n\n[[include component:image-block\nname=https://scp-jp.wdfiles.com/local--files/theme:yamisushi/yamisushi|\ncaption=사진의 설명이라니깐!!]]\n\n[[code type=\"css\"]]\n/*\n    Powered on 2020/02/12 18:24:34\n    [2020 Wikidot Theme]\n    Created by tutuji\n    CC BY-SA 3.0\n*/\n@import url('https://scp-jp.wdfiles.com/local--code/theme%3Ayamisushi/1');\n@import url('https://fonts.googleapis.com/css?family=Noto+Serif+JP&display=swap');\n@import url('https://fonts.googleapis.com/css2?family=Noto+Serif+KR:wght@200..900&display=swap');\n@import url('https://scpko.wdfiles.com/local--files/unfont/UnBatang.css');\n\n/* FONTS AND COLORS */\n\nbody {\n    font-family: 'Noto Serif JP', 'Noto Serif KR', 'UnBatang', serif;\n} \nh1,h2,h3,h4,h5,h6 {\n    font-family: 'Noto Serif JP', 'Noto Serif KR', 'UnBatang', serif;\n}\ndiv#header h1 a:before {\n    content: \"어둠의 초밥\";\n    font-family: 'Noto Serif JP', 'Noto Serif KR', 'UnBatang', serif;\n}\ndiv#header h2:after {\n    content: \"闇寿司 최강 무적 초밥\";\n}\n[[/code]]\n[[/iftags]]",
+  "tags": [
+    "jp",
+    "어둠의-초밥",
+    "테마"
+  ],
+  "author": "Salamander724",
+  "created_at": "2020-05-12T23:42:52+00:00",
+  "updated_at": "2024-11-06T20:51:59+00:00",
+  "rating": 1,
+  "_site": "scpko",
+  "_fullname": "theme:yamisushi"
+}

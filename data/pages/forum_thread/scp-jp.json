@@ -1,0 +1,14 @@
+{
+  "title": "Thread",
+  "content": "[[module ForumThread]]\n\n[[module css]]\n#page-options-container {\n  display: none;\n}\n[[/module]]",
+  "tags": [
+    "jp",
+    "フォーラム"
+  ],
+  "author": "ukwhatn",
+  "created_at": "2025-02-01T14:55:44+00:00",
+  "updated_at": "2025-02-01T15:05:46+00:00",
+  "rating": 0,
+  "_site": "scp-jp",
+  "_fullname": "forum:thread"
+}

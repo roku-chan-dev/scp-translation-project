@@ -1,0 +1,26 @@
+{
+  "title": "SCP-4959",
+  "content": "[[include :scp-wiki:theme:classic]]\n[[>]]\n[[module Rate]]\n[[/>]]\n[[include component:image-block\n    name=nest.jpg|\n    caption=The Temple of the Feathered Serpent\n]]\n**Item #:** SCP-4959\n\n**Object Class:** Euclid\n\n**Special Containment Procedures:** All tunnels leading towards SCP-4959's chamber have been sealed with reinforced gates. A large live animal is to be deposited down a constructed shaft into the chamber weekly.\n\n\n**Description:** SCP-4959 is an animate, decomposed pterosaur occupying a large stone chamber underneath the Temple of the Feathered Serpent in Teotihuacan, Mexico. Foundation paleontologists have determined that SCP-4959 is an abnormally large (~50 m wingspan) azhdarchid pterosaur, related to //Quetzalcoatlus// or possibly //Hatzegopteryx//. \n\nApproximately 70% of SCP-4959's flesh is missing, leaving its skeleton exposed and visible. The remainder of SCP-4959's flesh appears necrotic but shows no signs of decaying further. SCP-4959 is anomalously resistant to damage and decay. Samples taken show no abnormalities from expected composition except for high concentrations of iridium. SCP-4959's eye sockets are empty but luminesce with a bright green light. When agitated, SCP-4959 may also emit a multicolored corona of fire from its wings, skull, and neck.\n\nExtensions and wings of the main underground chamber contain several hundred animated bony humanoid and pterodactyloid constructs, designated SCP-4959-A. These constructs are composed mainly of bones attached to a central, ossified heart through unknown means, and are often adorned with strips of decayed fabric, feathers, or precious stones. \n\nSCP-4959 is carnivorous. As its great size prevents it from leaving its chamber, SCP-4959-A instances are nocturnally deployed through various hidden tunnels to hunt and provide SCP-4959 with live food, usually birds, lizards, or other small animals. SCP-4959-A instances bring their live prey in front of SCP-4959, which consumes them whole. SCP-4959 is also known to consume SCP-4959-A instances on occasion.\n\nThe walls of SCP-4959's chamber exhibit severe burn damage, and all of the originally constructed tunnels leading to the surface were collapsed. New tunnels appear to have been crudely dug by SCP-4959-A instances.\n\nStudy of murals and carvings within the chambers suggest the Temple of the Feathered Serpent was built atop it. Most murals are incomplete or damaged but depict several common themes:\n\n* SCP-4959 was believed to be an avatar of the Feathered Serpent or another unknown deity.\n* Human sacrifices were offered to SCP-4959 on important days.\n* SCP-4959 possessed a \"heart\", depicted as a large gem (\"red as blood and bright as the rising sun\"), that was placed at the pinnacle of the temple.\n\nSupported by para-archaeological findings and historical tradition, Foundation historians suggest that an internal uprising occurred in the sixth century AD, stemming from conflict over SCP-4959's identity. The usurpers denounced SCP-4959 as a false god and attempted to kill it. When they suffered great losses failing this, they instead sealed SCP-4959 underground and wrested control of Teotihuacan. \n\nAfter this, SCP-4959 itself disappears from the historical record; while its gem is noted to be sought after for its alleged properties of longevity.\n\n[[footnoteblock]]\n\n[[div class=\"footer-wikiwalk-nav\"]]\n[[=]]\n<< [[[SCP-4958]]] | SCP-4959 | [[[SCP-4960]]] >>\n[[/=]]\n[[/div]]",
+  "tags": [
+    "_cc",
+    "animal",
+    "cadaver",
+    "dinosaur",
+    "euclid",
+    "fire",
+    "historical",
+    "predatory",
+    "reanimation",
+    "religious",
+    "reptile",
+    "scp",
+    "skeletal",
+    "subterranean"
+  ],
+  "author": "Weryllium",
+  "created_at": "2019-05-14T16:59:10+00:00",
+  "updated_at": "2023-05-11T13:55:34+00:00",
+  "rating": 120,
+  "_site": "scp-wiki",
+  "_fullname": "scp-4959"
+}

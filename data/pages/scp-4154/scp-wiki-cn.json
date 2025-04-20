@@ -1,0 +1,19 @@
+{
+  "title": "SCP-4154",
+  "content": "[[include :evernight-aquarium:component:non-savingpage]]\n\n[[module css]]\nsup { \nvertical-align: top; position: relative; top: -0.5em; \n}\n[[/module]]\n\n[[include theme:black-highlighter-theme]]\n\n[[include :scp-wiki-cn:component:anomaly-class-bar-source\n|lang= cn\n|item-number= SCP-4154\n|clearance= 1\n|container-class= keter\n|secondary-class= none\n|disruption-class= dark\n|risk-class= 待观察\n]]\n\n----\n\n[[include component:image-block name= https://scp-wiki.wdfiles.com/local--files/scp-4154/scp-4154-instance.png |caption=SCP-4154实例在研究员Teles的家中地面上不完全地显现。|width=30%|align=right]]\n\n**特殊收容措施：** 由于SCP-4154位于大多数发达国家的融合范围及其无害性，对存在于平民社会或其它非基金会房产中的非野生实例的收容应被视为低优先级。然而，出于信息的、模因的和反概念的安全顾虑，所有基金会人员（D级或其他临时人员除外）的住所都必须通过针对SCP-4154实例的检查，并在必要时将净化程序作为员工就职的前提。根据当地情况，可能需要在检查后和/或净化。MTF Eta-5（“交叉授粉者”）已被派遣至该任务上。\n\n[[collapsible show=\"净化程序\" hide=\"净化程序\"]]\n\nSCP-4154实例可以通过接受W级记忆强化的个人在治疗完成约40分钟后的视觉测量与非异常宠物区分开来。一旦实例被确认，它将被一可移动定向的SRA牵制固定。此时，SCP-4154实例可以被处决、掘出和移除。\n\n[[/collapsible]]\n\n机密收容站点Site-2的D级宿舍翼区收容着数十个SCP-4154实例，每个实例都与一个D级同居，以作为长期心理学研究的一部分，以及研究SCP-4154的生命周期和可能的实际应用。\n\n**描述：**SCP-4154是一种概念食性、无智能的地下蠕虫[[footnote]]蠕虫般的。[[/footnote]][[footnote]]**译注：**原文为使用一个便于理解的词解释一个较生涩的词，两者意思相似。[[/footnote]]物种。SCP-4154实例不具有常规的物质形体；相反的，它们是递归概念实体，由它们自身、它们自身的概念、蠕虫的概念、卷须的概念以及从与房主及其宠物的身体接触中吸收的概念的混合体组成。尽管如此，它们具有物理特性，包括质量，导致它们的行为与非异常物质相似。\n\nSCP-4154主要出没于在一些富裕的市区和郊区的居民区的户外空间。SCP-4154实例在历史上显示了对饲养了更多非无智能宠物的住宅的明显偏好。\n\nSCP-4154实例本身“巢居”在房屋的界址线内，此后便可以在其边界内的任何地方显现。实例寻求与任何现存的家庭宠物进行社交性的和身体的接触，一旦被动物（们）接受，就会在它（们）的头上贴上几根长长的肉质卷须。这使实例能够访问动物的记忆、知识和身份，使其能够更好地伪装自己。其副作用是，非异常动物因SCP-4154实例而失去其身份，并成为一个概念上空置的实体，本质上类似于逆模因。房主在“抚摸”伪装成宠物的SCP-4154实例时也会受到类似的损害，但其身份丢失的风险很小。[[footnote]]这是人类长期适应宇宙中所谓的“游离模因”的结果。视觉与听觉的符号语言和其他抽象概念的发展使人类免受许多已大量影响无智能生命形式的模因的影响。[[/footnote]]\n\n在其一生中，SCP-4154实例进一步植根于家庭关系中。如果居民搬家，宠物死亡，或者家庭关系产生了其他的变化，它们将留驻不变。并未携带宠物入住的下任房主将坚信巢居在此的SCP-4154实例是他们的宠物。\n\n尚未完全理解SCP-4154的繁殖过程及其在家庭之间迁移的过程。使用现有的技术，不可能将SCP-4154实例转移到其他信息媒介，但研究正在进行中。初步研究表明，任何指定实例都保留了从其亲代获得的大量概念信息，尽管其精确度未知。\n\n[[footnoteblock]]\n\n[[div class=\"footer-wikiwalk-nav\"]]\n[[=]]\n<< [[[SCP-4153]]] | SCP-4154 | [[[SCP-4155]]] >>\n[[/=]]\n[[/div]]",
+  "tags": [
+    "keter",
+    "scp",
+    "寄生性",
+    "活物",
+    "精神影响",
+    "蠕虫",
+    "逆模因"
+  ],
+  "author": "dingxiaoshu",
+  "created_at": "2023-01-18T12:39:01+00:00",
+  "updated_at": "2023-01-18T13:43:42+00:00",
+  "rating": 2,
+  "_site": "scp-wiki-cn",
+  "_fullname": "scp-4154"
+}

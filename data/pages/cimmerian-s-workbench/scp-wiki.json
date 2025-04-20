@@ -1,0 +1,13 @@
+{
+  "title": "Cimmerian's Workbench",
+  "content": "[[module CSS]]\n.list-pages-box .preview { display: block; }\n[[/module]]\n\n[[module ListPages created_by=\"Doctor Cimmerian\" perPage=\"250\" separate=\"no\" tags=\"scp\" order=\"created\"]]\n[[head]]\n[[table class=\"wiki-content-table\"]]\n[[row]]\n[[hcell]]\nObjects Reviewed for Ethics Violations\n[[/hcell]]\n[[hcell]]\nAlso Known As\n[[/hcell]]\n[[hcell]]\nRating\n[[/hcell]]\n[[hcell]]\nComments\n[[/hcell]]\n[[hcell]]\nCreated\n[[/hcell]]\n[[hcell]]\nLast Comment\n[[/hcell]]\n[[/row]]\n[[/head]]\n[[body]]\n\n[[row]]\n[[cell]]\n%%title_linked%%\n[[/cell]]\n[[cell]]\n%%content{2}%%\n[[/cell]]\n[[cell]]\n%%rating%%\n[[/cell]]\n[[cell]]\n%%comments%%\n[[/cell]]\n[[cell]]\n%%created_at%%\n[[/cell]]\n[[cell]]\n%%commented_at%%\n[[/cell]]\n[[/row]]\n\n[[/body]]\n[[foot]]\n[[/table]]\n[[/foot]]\n[[/module]]",
+  "tags": [
+    "workbench"
+  ],
+  "author": "Doctor Cimmerian",
+  "created_at": "2017-07-26T09:32:08+00:00",
+  "updated_at": "2025-03-30T13:14:58+00:00",
+  "rating": 12,
+  "_site": "scp-wiki",
+  "_fullname": "cimmerian-s-workbench"
+}

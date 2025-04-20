@@ -1,0 +1,15 @@
+{
+  "title": "List: Page Trees",
+  "content": "[[>]]\n[[module Rate]]\n[[/>]]\n\nThis page lists a few of the largest \"page trees\" on the SCP Wiki. These are the networks of connections that form from parented pages and their parents, which tend to work back to a few specific pages. This page is primarily meant for staff purposes for organization and comparison, but can be used for ordinary user navigation if desired.\n\nThis is also an entry into the 2023 [[[coldpostcon|]]]. Yes, really.\n\n++ Tree: [[[canon-hub|]]]\n\n[[collapsible]]\n[[module PageTree root=\"canon-hub\"]]\n\n[[module PageTree root=\"third-law-hub\" showRoot=\"true\"]]\n[[/collapsible]]\n\n++ Tree: [[[groups-of-interest|]]]\n\n[[collapsible]]\n[[module PageTree root=\"groups-of-interest\"]]\n\n[[module PageTree root=\"goc-hub-page\" showRoot=\"true\"]]\n[[/collapsible]]\n\n++ Tree: [[[series-archive|]]]\n\n[[collapsible]]\n[[module PageTree root=\"series-archive\"]]\n[[/collapsible]]\n\n++ Tree: [[[contest-archive|]]]\n\n[[collapsible]]\n[[module PageTree root=\"contest-archive\"]]\n[[/collapsible]]\n\n++ Tree: [[[guide-hub|]]]\n\n[[collapsible]]\n[[module PageTree root=\"guide-hub\"]]\n[[/collapsible]]\n\n++ Tree: [[[scp-international|]]]\n\n[[collapsible]]\n[[module PageTree root=\"scp-international\"]]\n[[/collapsible]]\n\n++ Tree: [[[secure-facilities-locations|]]]\n\n[[collapsible]]\n[[module PageTree root=\"secure-facilities-locations\"]]\n[[/collapsible]]\n\n++ Tree: [[[scp-001|]]]\n\n[[collapsible]]\n[[module PageTree root=\"scp-001\"]]\n[[/collapsible]]\n\n++ Tree: [[[scp-ex|]]]\n\n[[collapsible]]\n[[module PageTree root=\"scp-ex\"]]\n[[/collapsible]]\n\n++ Tree: [[[acidverse|]]]\n\n[[collapsible]]\n[[module PageTree root=\"acidverse\"]]\n[[/collapsible]]\n\n@@ @@\n\n[[include :scp-wiki:component:license-box]]\n[!-- N/A (No Images)  --]\n[[include :scp-wiki:component:license-box-end]]",
+  "tags": [
+    "_licensebox",
+    "admin",
+    "coldpostcon"
+  ],
+  "author": "stormbreath",
+  "created_at": "2023-01-03T15:57:06+00:00",
+  "updated_at": "2023-02-12T14:09:44+00:00",
+  "rating": 93,
+  "_site": "scp-wiki",
+  "_fullname": "list-page-trees"
+}

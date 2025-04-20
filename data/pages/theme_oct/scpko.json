@@ -1,0 +1,14 @@
+{
+  "title": "OCT 테마",
+  "content": "[[module CSS]]\n@import url('https://scp-wiki.wdfiles.com/local--code/theme%3Aoct/1');\n@import url('https://scpko.wdfiles.com/local--code/theme%3Aoct/1');\n[[/module]]\n\n[[iftags +테마]]\n\n[[>]]\n[[module Rate]]\n[[/>]]\n\n이것은 PeppersGhost가 제작한 OCT 테마로, Greenwolf의 제3법칙 테마와 djkaktus의 암체 테마를 수정한 버전으로, Aelanna의 시그마 9 기반입니다..\n로고의 거미줄은 [[[https://svgsilh.com/image/151265.html|퍼블릭 도메인]]]입니다.\n\n테마를 이용하기 위해서는 다음을 여러분의 페이지 상단에 넣어주세요.\n\n[[div class=\"code\"]]\n##black|@@[[include :scpko:component:oct-theme]]@@##\n[[/div]]\n\nThis theme is designed for ExampleGOI format articles.\n\n[[code type=\"css\"]]\n/*\n    OCT Theme\n    [2018 Wikidot Theme]\n    Based on Aelanna's Sigma 9 and Greenwolf's Third Law and djkaktus' Darkbody Theme\n    Edited by PeppersGhost for the Doomsday Contest \n*/\n\n#header h2 span::before {\n    content: \"오리지널 캐릭터 토너먼트\";\n}\n[[/code]]\n\n[[/iftags]]",
+  "tags": [
+    "en",
+    "테마"
+  ],
+  "author": "Salamander724",
+  "created_at": "2018-09-02T23:23:08+00:00",
+  "updated_at": "2024-05-22T03:05:31+00:00",
+  "rating": 1,
+  "_site": "scpko",
+  "_fullname": "theme:oct"
+}

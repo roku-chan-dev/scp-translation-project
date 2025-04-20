@@ -1,0 +1,19 @@
+{
+  "title": "SCP-CN-3103",
+  "content": "[[include :scp-wiki:component:toggle-sidebar]]\n\n[[module CSS]]\n@font-face {\n    font-family: \"dededede\";\n    font-display: swap;\n    src: url(\"data:font/woff;charset=utf-8;base64,d09GMgABAAAAAAIUAAsAAAAABDwAAAHKAAEAAAAAAAAAAAAAAAAAAAAAAAAAAAAABmQATBEQyhwBNgIkAwzLCgQgBYNuByAfeQMgrgpscE9NEU4iNWIb32RlSxnLcPg3i6Aa070Pg05sLfD4ChfhMpFVpAhcdS2w0HWiruMJLuY2zdTFj5tjksySNrG5pYIlKkeKHIkBVE64uN+QIghcuorwMv/BTyZuBhoWxWNSF2ucTWoDJroBEwu8C+e0KR7ok7xuM4TaJyKmLbGHHHEmR+48V4HEtH6eOTduG5Lk6f+yugDRqJjIc387/8JWXCAg85R7AfxDQgZduEAXYQGirChJjOZw/eAf4Su39zZPt6EACBlFZS3kPw3x8U3U5y/zi2SIYWu4Tvk7BkksELwd/nIorLwilSJ4frT7YrgvBPXISyAobP3tUJACIF9LCsaW+PjS1DcSyPIPEBQVjeEiW8IEEhKhKSGSugmRMSWBs5pEzpp3NJ9aVraZprWcR6Y4uZCBjwH6MF2xAHBdNs+Jk80QgbKisqp06bJYwJJOpYmEyJaFZIGE7AquKmY5CeKyc9q25T8opHM5QImoqCjldMwI03Ogim+ra8eIyxHpC8hOIq7guViB4I6X1TVVgLoqwZkusqbRhYBC5ILU6VK9UEKyqxi3BjpUb9/mA0XAZQOTIeULFlwq3YU44s9w4D83BgAAAA==\") format('woff2');\n}\n\n* {\n    font-family: \"dededede\", verdana, arial, helvetica, sans-serif;\n}\n\ndiv#header h1 a span {\n    font-family: BauhausLTDemi, sans-serif;\n}\n\na[href=\"/log-of-unexplained-locations\"]::before {\n    content: \"未解明区域记录\";\n    color: #b01 !important;\n    letter-spacing: 0px;\n}\n\n\na[href=\"/most-recently-edited\"]::before {\n    content: \"页面修订\";\n    color: #b01 !important;\n    letter-spacing: 0px;\n}\n\na#my-account::before {\n    content: \"账户信息\";\n    color: #ddd;\n    letter-spacing: 0px;\n}\n\na[href=\"/log-of-unexplained-locations\"],\na[href=\"/most-recently-edited\"],\na#my-account {\n    color: transparent !important;\n    letter-spacing: -10000px;\n}\n\n#page-content div.creditRate {\n    margin-right: 0;\n}\n\n#page-content div.my-scp-basic-block {\n    border-radius: 8px;\n    border: solid 1px #666;\n    background: #FAFAFA;\n    box-shadow: 0 1px 6px rgba(0,0,0,0.25);\n    box-sizing: border-box;\n    width: 100%;\n    padding: 15px;\n    margin: 1em 0;\n    display: inline-block;\n}\n[[/module]]\n\n[[include :scp-wiki-cn:credit:start]]\n**SCP-CN-3103：**ㄉㄜㄉㄜ不休？可休矣！\n**作者：**[[*user DouglasLiu]] feat. [[*user Dr Hormress]]\n[[include :scp-wiki-cn:credit:end]]\n\n**项目编号：**SCP-CN-3103\n\n**项目等级：**等待分级\n\n**特殊收容措施：**SCP-CN-3103已发生，亦暂无法收容。当前项目组需致力于探明其具体细节，并尝试复原或构建原现实相关记载，以确认SCP-CN-3103在何种程度上对现代汉语作出影响，防止同类异常再次发生而导致损失重要资产。\n\n**描述：**SCP-CN-3103为一次现实重构，推测其发生于2024年7月4日上午11时26分。全球各处斯克兰顿稳定阵列均报告称可侦测到现实重构痕迹，但东亚大陆区域最为显著。结合各类重构痕迹与阵列报告分析，当前基金会推测SCP-CN-3103单独针对现代汉语进行了现实重构。\n\n然而，目前并没有观察到常态社会中存在明显异样，基金会内部全体汉语熟习者亦没有报告称在使用现代汉语时出现显著困难。部分员工声称在使用书面汉语进行文书工作时“偶有感到异常滞涩”，但相关案例亦可能为对象在接触本异常报告后自发出现了心理暗示，故目前难以验证其相关性。\n\n由于此类现实重构往往对所有现存记录及个体认知进行回溯性修正，在确认SCP-CN-3103具体异常性质方面，项目研究组目前仍面临重重困难。但考虑到当前目前常态社会维持稳定，帷幕应仍可持续，经监督者议会同意，暂缓SCP-CN-3103分级，除继续进行研究外，不作任何额外措施。\n\n**附录I - 现实重构痕迹：**一例SCP-CN-3103现实重构痕迹较为显著且具有代表性，故记录于此，以作示例。\n\n[[div class=\"my-scp-basic-block\"]]\n\n||~ 受影响码位 ||~ 编码汉字 ||~ 重复码位 ||\n||= U+5730 ||= 彁 ||= U+5F41 ||\n||= U+5F97 ||= 妛 ||= U+599B || \n||= U+7684 ||= 暃 ||= U+6683 || \n\n在检查Unicode字符编码方案后，发现上述三个字符存在编码重复现象，自汉字收录入Unicode后一直持续至今。同时，上述三个字符在常态社会中被广泛认知为“幽灵汉字”，基本不可能出现在日常使用中。该错误本应极其显著，却一直被忽视至今，项目组认为这明显违反常理。\n\n通过与上述码位前后汉字作对比，研究组尚可明确是哪个汉字码位受SCP-CN-3103影响。然而，由于所有记载均已经历现实重构，即便本例可信，当前仍无法确认受影响码位原本模样为何。\n[[/div]]\n\n@@@@\n@@@@\n@@@@\n\n[[footnoteblock]]\n\n[[=]]\n[[div class=\"footer-wikiwalk-nav\"]]\n<< [[[SCP-CN-3102]]] | SCP-CN-3103 | [[[SCP-CN-3104]]] >>\n[[/div]]\n[[/=]]",
+  "tags": [
+    "meta",
+    "scp",
+    "原创",
+    "合著",
+    "异常事件",
+    "等待分级",
+    "语言"
+  ],
+  "author": "DouglasLiu",
+  "created_at": "2024-07-04T07:34:17+00:00",
+  "updated_at": "2024-07-04T15:55:16+00:00",
+  "rating": 48,
+  "_site": "scp-wiki-cn",
+  "_fullname": "scp-cn-3103"
+}

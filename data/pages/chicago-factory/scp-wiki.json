@@ -1,0 +1,23 @@
+{
+  "title": "Carroll #280/R-01221",
+  "content": "[[include :scp-wiki:component:scp-pride]]\n[[module css]]\n#page-title {\n  display: none;\n}\n[[/module]]\n[[>]]\n[[module rate]]\n[[/>]]\n\n[[module ListPages category=\"fragment\" parent=\".\" order=\"created_at desc\" limit=\"1\" offset=\"@URL|0\"]]]\n\n\n\n%%content%%\n\n\n[[/module]]\n@@ @@\n@@ @@\n@@ @@\n@@ @@\n[[include component:wikimodule |normal= --]]]\n[[include component:earthworm\n  first=true | last=false | hub=yes |\n  previous-url=/ | previous-title=/ |\n  next-url=/scp-4256 | next-title=SCP-4256 |\n  hub-url=/collaboration-contest| hub-title=Collab-Con |\n]]\n[!-- http://www.scp-wiki.net/fragment:chicago-factory-1\nhttp://www.scp-wiki.net/fragment:chicago-factory-2 --]",
+  "tags": [
+    "_cc",
+    "_chicago-spirit",
+    "_factory",
+    "_listpages",
+    "chicago-spirit",
+    "co-authored",
+    "collab-con2019",
+    "crime-fiction",
+    "factory",
+    "goi-format",
+    "richard-chappell"
+  ],
+  "author": "Uncle Nicolini",
+  "created_at": "2019-06-24T13:10:10+00:00",
+  "updated_at": "2024-09-09T15:54:08+00:00",
+  "rating": 89,
+  "_site": "scp-wiki",
+  "_fullname": "chicago-factory"
+}

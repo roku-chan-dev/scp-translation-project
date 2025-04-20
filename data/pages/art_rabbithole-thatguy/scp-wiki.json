@@ -1,0 +1,16 @@
+{
+  "title": "SCP-5520 Poster",
+  "content": "[[include :scp-wiki:theme:blankstyle]]\n\n[[>]]\n[[module Rate]]\n[[/>]]\n[[include :scp-wiki:component:author-label-source start=--\n|name=ThatGuyThatTime\n|no-right-margin=*]]\n= In celebration of OG43's new book coming soon, here's my favorite article in the entire series!\n= [[[/art:thatartpageofalltime|More by ThatGuy]]]\n[[include :scp-wiki:component:author-label-source end=--]]\n@@ @@\n@@ @@\n@@ @@\n[[=]]\n[[image 5520.png]]\n@@ @@\n@@ @@\n//[[[/scp-5520|SCP-5520: The Rabbit Hole]]] by [[*user HarryBlank]].//\n@@ @@\n@@ @@\n[[include :scp-wiki:component:license-box]]\n=====\n> **Filename:** 5520.png\n> **Author:** [[*user ThatGuyThatTime]]\n> **License:** CC-BY-SA 3.0\n=====\n[[include :scp-wiki:component:license-box-end]]\n[[/=]]\n@@ @@\n@@ @@",
+  "tags": [
+    "artwork",
+    "on-guard-43",
+    "poster",
+    "scp-art"
+  ],
+  "author": "ThatGuyThatTime",
+  "created_at": "2023-09-09T23:22:14+00:00",
+  "updated_at": "2024-03-28T19:00:50+00:00",
+  "rating": 43,
+  "_site": "scp-wiki",
+  "_fullname": "art:rabbithole-thatguy"
+}

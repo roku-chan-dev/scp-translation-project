@@ -1,0 +1,28 @@
+{
+  "title": "The Heart of Mekhane",
+  "content": "[[>]]\n[[module Rate]]\n[[/>]]\n\n[!--\nFragment pages:\nhttp://scp-wiki.wikidot.com/fragment:heart-of-mekhane-0\nthrough\nhttp://scp-wiki.wikidot.com/fragment:heart-of-mekhane-6\n\nAll fragments can be displayed using:\n[[module ListPages category=\"fragment\" parent=\"the-heart-of-mekhane\" order=\"created_at\" separate=\"no\"]]\n* %%title_linked%%\n[[/module]]\n--]\n\n[[module ListPages category=\"fragment\" parent=\".\" order=\"created_at\" limit=\"1\" offset=\"@URL|0\"]]\n%%content%%\n[[/module]]\n\n[[include :scp-wiki:component:license-box]]\n\n> **Filename:** cave1.png\n> **Author:** [[*user IronShears]]\n> **License:** CC BY SA 3.0\n> **Source Link:** N/A\n\n> **Filename:** cave2.png\n> **Author:** [[*user IronShears]]\n> **License:** CC BY SA 3.0\n> **Source Link:** N/A\n\n> **Filename:** cave3.png\n> **Author:** [[*user IronShears]]\n> **License:** CC BY SA 3.0\n> **Source Link:** N/A\n\n> **Filename:** cave4.png\n> **Author:** [[*user IronShears]]\n> **License:** CC BY SA 3.0\n> **Source Link:** N/A\n\n> **Filename:** cave5.png\n> **Author:** [[*user IronShears]]\n> **License:** CC BY SA 3.0\n> **Source Link:** N/A\n\n> **Filename:** cave6.png\n> **Author:** [[*user IronShears]]\n> **License:** CC BY SA 3.0\n> **Source Link:** N/A\n\n> **Filename:** cave7.png\n> **Author:** [[*user IronShears]]\n> **License:** CC BY SA 3.0\n> **Source Link:** N/A\n\n> **Filename:** cave8.png\n> **Author:** [[*user IronShears]]\n> **License:** CC BY SA 3.0\n> **Source Link:** N/A\n\n> **Filename:** cave9.png\n> **Author:** [[*user IronShears]]\n> **License:** CC BY SA 3.0\n> **Source Link:** N/A\n\n> **Filename:** cave10.png\n> **Author:** [[*user IronShears]]\n> **License:** CC BY SA 3.0\n> **Source Link:** N/A\n\n> **Filename:** coggy.png\n> **Author:** [[*user daveyoufool]]\n> **License:** CC BY SA 3.0\n> **Source Link:** N/A\n\n[[include :scp-wiki:component:license-box-end]]",
+  "tags": [
+    "_broken-god",
+    "_cc",
+    "_licensebox",
+    "able",
+    "broken-god",
+    "cain",
+    "co-authored",
+    "cogwork-orthodoxy",
+    "etdp",
+    "fantasy",
+    "goi-format",
+    "illustrated",
+    "maxwellism",
+    "period-piece",
+    "religious-fiction",
+    "the-serpent"
+  ],
+  "author": "Fortanono",
+  "created_at": "2023-06-05T23:02:31+00:00",
+  "updated_at": "2025-03-27T15:56:55+00:00",
+  "rating": 58,
+  "_site": "scp-wiki",
+  "_fullname": "the-heart-of-mekhane"
+}

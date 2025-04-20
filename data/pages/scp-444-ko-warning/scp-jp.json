@@ -1,0 +1,14 @@
+{
+  "title": "情報災害警告",
+  "content": "[[div class=\"content-panel standalone\" style=\"width: 600px; max-width: 90%; margin: 0 auto 20px; padding: 10px 20px; text-align: center;\"]]\n[[div class=\"unmargined\" style=\"font-size: 136.71%; font-weight: bold; font-family: Arial, Helvetica, 'Malgun Gothic', sans-serif; margin: 10px 0 0;\"]]\n以下の内容はクリアランス4/444K専用パスワードが必要です。\n[[/div]]\n----\nこのSCPオブジェクトに関する情報は、クリアランス1〜4/444Kを与えられた職員にのみ閲覧が許可されます。許可されていない職員が次の文書にアクセスしようとする時には、情報セキュリティ規約に基づいて速やかに拘留されます。\n@@ @@\n@@ @@\n[[html]]\n<script type=\"text/javascript\">\n\nfunction LogIn(){\nloggedin=false;\npassword=\"5438464\";\npassword=prompt(\"PASSWORD:\",\"\");\npassword=password.toLowerCase();\n\nif (password==\"5438464\") {\nloggedin=true;\nwindow.open('http://ja.scp-wiki.net/scp-444-ko');\n}\n\nif (password==\"4423144444\") {\nloggedin=true;\nwindow.open('http://ja.scp-wiki.net/scp-444-ko-document');\n}\n\nif (loggedin==false) {\nalert(\"アクセス制限: パスワードが違います。この言葉を見てすぐに跪き、両腕を上げてセキュリティ担当員を待ちなさい。\");\n}\n}\n</script>\n<div style=\"margin:0 auto; width: 150px;\">\n<form><input type=button value=\"◈追加情報にアクセス◈\" onClick=\"LogIn()\"></form>\n</div>\n[[/html]]\n[[/div]]\n[[span style=\"color: transparent;\"]]パスワード: 5438464[[/span]]",
+  "tags": [
+    "ko",
+    "見出し"
+  ],
+  "author": null,
+  "created_at": "2017-01-19T12:06:59+00:00",
+  "updated_at": "2023-03-05T05:42:18+00:00",
+  "rating": 19,
+  "_site": "scp-jp",
+  "_fullname": "scp-444-ko-warning"
+}

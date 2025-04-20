@@ -1,0 +1,14 @@
+{
+  "title": "위협 등급 구성요소",
+  "content": "[[iftags -구성요소]]\n[[span_ class=\"menace {$lv}\"]]@@ @@●[[/span]]\n@@ @@\n\n[[module CSS]]\nspan.menace {\n  display: inline;\n}\n.menace.white, .menace.yellow {\ntext-shadow: -1px 1px 0 #000, 1px 1px 0 #000, 1px -1px 0 #000, -1px -1px 0 #000;\n}\n.menace.{$lv} {\ncolor: {$lv};\n}\n[[/module]]\n[[/iftags]]\n\n[[iftags +구성요소]]\n+++ 뭐하는 구성요소인가요?\nSCP 보고서에 **[*http://scpko.wikidot.com/niveaux-de-menace-des-objets-scp 위협 등급]**을 지정할 때 색상 아이콘을 쉽게 첨부할 수 있는 구성요소입니다.\n위협 등급에 대한 상세한 설명은 링크를 참고해주세요.\n\n@@@@\n@@@@\n\n+++ 어떻게 쓰나요?\n\n1. 기본 SCP 서식에 위협 등급을 넣고, 바로 아래에 본 구성요소를 삽입합니다.\n\n> @@**일련번호:** ...@@\n> \n> @@**위협 등급:**@@ **《색상》**\n> @@[[include@@ component:menace lv=**《color》**]]\n> \n> @@**등급:** ...@@\n\n||~ 입력 내용 ||||||||||||||~ 위협 등급 ||\n||~ 《색상》 ||= 백색 ||= 청색 ||= 녹색 ||= 황색 ||= 주황색 ||= 적색 ||= 흑색 ||\n||~ 《color》 ||= white ||= blue ||= green ||= yellow ||= orange ||= red ||= black ||\n\n2. 복수의 위협 등급을 선언할 땐 텍스트와 구성요소의 순서를 유지한 채 그대로 여러번 삽입합니다.\n\n> @@**위협 등급:**@@ **《색상1》**\n> @@[[include@@ component:menace lv=**《color1》**]]\n> \n> @@**위협 등급:**@@ **《색상2》**\n> @@[[include@@ component:menace lv=**《color2》**]]\n\n3. 미확정 등급은 색상 아이콘을 쓰지 않으므로, 구성요소를 생략합니다.\n[[/iftags]]",
+  "tags": [
+    "ko",
+    "구성요소"
+  ],
+  "author": "thd-glasses",
+  "created_at": "2024-03-13T04:42:46+00:00",
+  "updated_at": "2024-03-13T13:53:57+00:00",
+  "rating": 3,
+  "_site": "scpko",
+  "_fullname": "component:menace"
+}

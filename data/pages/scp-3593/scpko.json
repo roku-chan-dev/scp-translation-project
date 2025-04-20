@@ -1,0 +1,23 @@
+{
+  "title": "SCP-3593",
+  "content": "[[include theme:classic]]\n[[include info:start]]\n[[=]]\n[[size 120%]]**SCP-3593**[[/size]]\n스쿠비 스내커\n[[size 80%]]Scooby Snacker[[/size]]\n[[/=]]\n\n**저자:** [[*user Weryllium]]\n**역자:** [[*user LR0725]]\n**원작:** https://scp-wiki.wikidot.com/scp-3593\n\n----\n**이미지 정보**\n> **이름:** EuropeanShag.jpg\n> **원본:** [https://commons.m.wikimedia.org/wiki/File:EuropeanShag.jpg 위키미디어 공용]\n> **원 저작권자:** Andrew Easton\n> **라이선스:** 퍼블릭 도메인\n[[include info:end]]\n[[include component:image-block\n    name=EuropeanShag.jpg|\n    caption=SCP-3593\n]]\n**일련번호:** SCP-3593\n\n**등급:** 유클리드\n\n**특수 격리 절차:** 영국 연안의 도시에서 개 실종 보고가 있는 경우 구역을 삼각형으로 나누어 발견되지 않은 SCP-3593 개체가 있는지 조사한다. SCP-3593 개체가 발견된 경우 [[[one-trick-ponies|재단에서 훈련된 개]]]를 미끼로 이용하여 격리해야 한다.\n\n**설명:** SCP-3593은 영국 연안의 여러 마을에 서식하는 녹색의 대형 유럽가마우지(//Phalacrocorax aristotelis//)이다.\n\nSCP-3593의 날개 길이는 약 2 m(비변칙적인 유럽가마우지의 두 배 정도)이며 집개를 잡아먹는다. 날씨가 흐릴 때 SCP-3593은 날카로운 울음소리를 이용하여 길 잃은 개와 애완견을 외딴 물가로 유인하려 한다. SCP-3593은 자신의 날개깃을 펄럭여 홀로그램 이미지를 만들어 내는데, 이 이미지는 일부 개에게 인식재해 효과를 일으킨다. (반면 사람에서는 가벼운 어지럼증만을 유발한다.) 인식재해에 영향을 받은 개들은 흥분성이 늘어나며 매우 긴 시간 동안 수영할 수 있는 능력을 가지게 된다.\n\n이때 SCP-3593은 물가에서 날아 올라, 인식재해의 영향을 받은 개들이 자기를 뒤따라 헤엄쳐 오게 만든다. 현재까지 개들은 살아 있든 죽어 있는 상태든 회수되지 않았다.\n\n**부록:** SCP-3593이 일반적으로 사냥을 하는 범위 후보를 좁힌 후, 몇몇 재단의 실험용 개들에 소형 카메라, 추적용 기기, 센서 등 각종 기계를 장착한 뒤 SCP-3593에게 유인당하도록 했다.\n\n올드 잉글리쉬 쉽독인 K-9119는 인식재해의 영향을 받아 SCP-3593를 따라갔다. K-9119는 떠난 지 대략 6시간 만에 물가로 무사히 돌아왔는데, 다치지는 않았으나 피곤한 상태였다. K-9119에 달려 있던 카메라를 회수한 뒤 일반적인 치료 절차를 실시하였다.\n\nK-9119의 카메라 영상에서는 약 3시간 동안 K-9119가 서쪽으로 헤엄쳐 간 뒤, SCP-3593이 제자리에서 맴돌며 큰 꽥꽥거리는 소리를 내고 있었다. SCP-3593이 계속 소리를 내자 SCP-3593과 K-9119 주변에 빛나는 통로가 열리기 시작했다. 통로를 통해, 카메라에 나무가 늘어서 있고 밝게 빛나는 강의 모습이 짧은 시간 동안 포착되었다.\n\n카메라 영상에서 SCP-3593은 계속해서 통로를 넓히다가 지나가던 커다란 상어에게 먹혔고, 통로의 확장은 멈추었다. K-9119는 물가로 헤엄쳐 복귀하였다.\n\nSCP-3593은 잠정적으로 무효 등급으로 재분류되었다.\n\n[[footnoteblock]]\n\n[[div class=\"authors\"]]\n[[include :scp-wiki:component:license-box\n|author=Weryllium]]\n=====\n> **Filename:** EuropeanShag.jpg\n> **Author:** Andrew Easton\n> **License:** Public Domain\n> **Source Link:** [https://commons.m.wikimedia.org/wiki/File:EuropeanShag.jpg Wikimedia Commons]\n=====\n[[include :scp-wiki:component:license-box-end]]\n[[/div]]",
+  "tags": [
+    "2019-즉흥경연-en",
+    "en",
+    "scp",
+    "개",
+    "동물",
+    "무효",
+    "새",
+    "시각",
+    "인식재해",
+    "통로",
+    "포식성"
+  ],
+  "author": "LR0725",
+  "created_at": "2023-07-29T07:58:26+00:00",
+  "updated_at": "2025-01-10T20:13:33+00:00",
+  "rating": 10,
+  "_site": "scpko",
+  "_fullname": "scp-3593"
+}

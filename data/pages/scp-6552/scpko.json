@@ -1,0 +1,18 @@
+{
+  "title": "SCP-6552",
+  "content": "[[include component:ratio-bar base=--]]\n\n[[include info:start]]\n**SCP-6552:** tidal.wav\n**원작:** https://scp-wiki.wikidot.com/scp-6552\n**저자:** [[*user tstaffor]]\n**역자:** [[*user Sycop]]\n[[include info:end]]\n\n[[include :scpko:component:author-label-source start=--\n|name=Tstaffor\n|no-right-margin=*]]\n저의 더 많은 작품은 여기서 찾아볼 수 있습니다.\n[http://scpko.wikidot.com/tstaffor-s-author-page Tstaffor의 폐쇠 격리 터미널]\n[[include :scpko:component:author-label-source end=--]]\n\n\n[[include component:image-block name=tidalwav.png|caption=SCP-6552.|width=200px]]\n\n**일련번호:** SCP-6552\n\n**등급:** 안전\n\n**특수 격리 절차:** SCP-6552는 제47변칙문서폴더에 저장한다. SCP-6552에 대한 실험은 더이상 진행하지 않으며 어떤 상황에서도 SCP-6552의 이름을 바꾸거나 재생해선 안된다.\n\n**설명:** SCP-6552는 파도가 몰려오는 소리가 담긴 .wav 파일이다. .wav를 붙이면 합성어가 되는 이름이 SCP-6552에 붙여지고 재생됐을 때, 그에 상응하는 변칙 사건이 발생한다.\n\n[[=]]\n[[include :snippets:html5player\n|type=audio\n|url=https://scp-wiki.wdfiles.com/local--files/scp-6552/wav.wav\n]]\n[[/=]]\n\n**부록 6552.1 실험 기록:**\n헨더슨 박사가 D-41897에게 SCP-6552에 붙일 이름을 알려주었다. 이후 D-41897은 파일을 3-10번 반복 재생했고 헨더슨 박사가 결과를 기록했다.\n||~ SCP-6552의 이름 ||~ 변칙 사건 ||\n|| sound.wav || SCP-6552의 소리가 소리를 재생하는 데 사용된 컴퓨터에 연결된 스피커에서 나오지 않았다. 대신 .wav 파일을 이루는 픽셀들에서 나왔다. ||\n|| heat.wav || SCP-6552가 재생된 방이 초당 1°C씩 가열되기 시작했다. ||\n|| vapor.wav || 재생되는 동안 컴퓨터의 모든 UI가 \"베이퍼웨이브\" 스타일에 맞게 재구성된 상태로 작동했다. ||\n|| brain.wav || 제98실험기지의 모든 인원이 SCP-6552가 재생되는 것을 들을 수 있었음에도 불구하고 어떤 녹음장치도 아무 소리도 감지할 수 없었다. ||\n|| micro.wav || 재생했을 때 SCP-6552를 재생하는 장치에서 집중된 방사선이 방출되었으며 D-41897은 오디오를 3번 재생한 후 사망하였다.  ||\n|| tidal.wav || 제98실험기지의 침수로 인해 결과적인 변칙 효과를 기록한 노트를 회수할 수 없게 되었다. 재건축과 제98실험기지로의 대체 인력 이동이 진행중이다. ||\n\n[[footnoteblock]]\n\n[[include :scp-wiki:more-by:tstaffor]]\n\n[[div]]\n[[=]]\n[[include :scp-wiki:component:license-box]]\n=====\n[[<]]\n> **파일명:** tidalwav.png\n> **저작자:** Wilfredor\n> **라이선스:** CC BY-SA 4.0\n> **원본 링크:** https://commons.wikimedia.org/wiki/File:Heraldic_waves.svg\n[[/<]]\n=====\n[[<]]\n> **파일명:** wav.wav\n> **저작자:** apsbin\n> **라이선스:** CC BY 3.0\n> **원본 링크:** https://commons.wikimedia.org/wiki/File:Pyramidal_waves,_It%C5%8D,_Shizuoka,_-Jan._2012_a.ogv\n[[/<]]\n=====\n[[include :scp-wiki:component:license-box-end]]\n[[/=]]\n[[/div]]",
+  "tags": [
+    "en",
+    "scp",
+    "매체",
+    "안전",
+    "음성첨부",
+    "음향"
+  ],
+  "author": "Sycop",
+  "created_at": "2022-07-18T07:17:27+00:00",
+  "updated_at": "2025-02-02T15:35:42+00:00",
+  "rating": 10,
+  "_site": "scpko",
+  "_fullname": "scp-6552"
+}

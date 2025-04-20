@@ -1,0 +1,14 @@
+{
+  "title": "10034",
+  "content": "number: UE-580721-JP\ncontent: 廃校になった小学校の4年D組の教室。内部に時計を持ち込んだ場合、不明な理由で時間が逆行しているように機能する。時計を外部に持ち出した場合、異常性を喪失する。内部で時空間異常は検出されていない。\ndate: '2011-06-10'\narea: '鳥取県 米子市'\nprotocol: \"カバーストーリー「取り壊し」によって封鎖、民間人の立ち入りを禁止。\\n\\n追記: アナログ時計やデジタル時計以外にも、砂時計や日時計も異常性に暴露します。- ██博士\"\nredirect-b: '[[module Redirect destination=\"/log-of-unexplained-locations-jp'\nredirect-e: '\"]]'",
+  "tags": [
+    "jp",
+    "剪定対象-子"
+  ],
+  "author": "Hoojiro_san",
+  "created_at": "2021-02-12T11:56:08+00:00",
+  "updated_at": "2021-05-24T13:21:34+00:00",
+  "rating": 22,
+  "_site": "scp-jp",
+  "_fullname": "log-of-unexplained-locations-jp:10034"
+}

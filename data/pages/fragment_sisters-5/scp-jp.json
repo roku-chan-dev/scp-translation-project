@@ -1,0 +1,14 @@
+{
+  "title": "fragment:sisters-5",
+  "content": "[[include :scp-jp:theme:black-highlighter-theme]]\n\n[[module CSS]]\n.email-example .collapsible-block-folded a.collapsible-block-link {\n    animation: blink 0.8s ease-in-out infinite alternate;\n}\n@keyframes blink {\n    0% { color: transparent; }\n    50%, 100% { color: #b01; }\n}\n.email {border: solid 2px #000000; width: 88%; padding: 1px 15px; margin: 10px; box-shadow: 0 1px 3px rgba(0,0,0,.5)}\n.email-example a.collapsible-block-link {font-weight: bold;}\n.tofrom {margin-left: 10px; margin-top: 5px; padding: 1px 15px; border-left: solid 3px maroon}\n[[/module]]\n\n[[include :scp-jp:component:anomaly-class-bar-source\n|item-number= 6535\n|clearance= 2\n|container-class= esoteric\n|secondary-class= uncontained\n|secondary-icon= https://scp-jp-storage.wdfiles.com/local--files/file%3A7974444-18-b6j2/Uncontained.svg\n|disruption-class= dark\n|risk-class= notice\n]]\n------------\n\n[[include component:image-block\n| name= http://scp-jp-storage.wikidot.com/local--files/file:5384396-215-5qsr/Distant_person.jpg\n| caption= SCP-6535\n| width=100%]]\n\n**特別収容プロトコル:** ###ff1493| SCP-6535は邪魔されることなく放っておかれます。##\n\n**説明:** SCP-6535はアジア系の17歳の少女であり、現在未収容です。###ff1493|彼女は世界を放浪しており、誰に対しても一切の悪意を持ちません。##\n\n**補遺6535.1:**  ###ff1493|前の収容房を調べているときにこれを見つけました。リセット後も無事だったのはこれだけのようです。##\n\n[[collapsible show=\"+ 画像を開く\" hide=\"- 閉じる\"]]\n[[=]]\n[[div class=\"blockquote\"]]\n[[include component:image-block\n| name= http://scp-jp-storage.wikidot.com/local--files/file:5384396-216-d4q4/medium.jpg\n| caption= ありがとう。\n| width=100%]]\n[[/div]]\n[[/=]]\n[[/collapsible]]",
+  "tags": [
+    "en",
+    "フラグメント"
+  ],
+  "author": "Tetsu1",
+  "created_at": "2024-08-11T01:10:59+00:00",
+  "updated_at": "2024-08-11T11:43:08+00:00",
+  "rating": 0,
+  "_site": "scp-jp",
+  "_fullname": "fragment:sisters-5"
+}

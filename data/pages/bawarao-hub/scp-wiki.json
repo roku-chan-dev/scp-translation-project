@@ -1,0 +1,17 @@
+{
+  "title": "Black and White and Red All Over - Hub",
+  "content": "[[>]]\n[[module rate]]\n[[/>]]\n[[module CSS]]\n\n.body-text {\n    margin: 2% 13% 2% 9%;\n    padding: 5px 20px 5px 20px;\n    background-color: #f2f2f2;\n    color: #111;\n}\n\n.text4desk {\n    width: 70%;\n    margin: auto;\n}\n\n@media only screen and (max-width: 600px) {\n\n    .body-text {\n        margin: 0% 4% 0% 4%;\n    }\n\n    .text4desk {\n        width:100%;\n    }\n\n}\n\n\n[[/module]]\n[[div class=\"body-text\"]]\n++ ATTENTION\n\n**Artists**, **sculptors**, **hacks** and **frauds**, come one, come all, come along but goddammit, //come//!\n\n//See// **Sind Wir Jetzt Cool Lichtenberg**, the dirt-caked underdogs of Outer Lichtenberg, fight for their lives against an existential threat to their home's very thesis! //Watch// as they scramble to assemble the barricades, man the windows, ready their scooters and weapons and paint! //Lend your hand// to these wretches in need, or sit idly by as **the Fourth Reich** secures Outer Lichtenberg once and for all!\n\nChemical weapons shall fly! Psuedoscience will be put to the test! Blood will cake the cobblestones!\n\nFor once in your life, see Outer Lichtenberg painted\n+ BLACK AND WHITE AND RED ALL OVER!\n[[/div]]\n\n* [[[Degenerate Art]]]\n* [[[Last Minute Resistance]]]\n * [[[bawarao-intermission1|INTERMISSION: Like a Fly]]]\n* [[[A Cloud Over Lichtenberg]]]\n* [[[I want that twink Obliterated]]]\n * [[[bawarao-intermission2|INTERMISSION: Sleeping with(in walking distance of) the Enemy]]]\n* [[[Dynamite Lichtenberg]]]\n* [[[Nazi Punks Fuck Off]]]\n * [[[bawarao-epilogue|EPILOGUE: Basic Decency in Acid Rain]]]\n\n[[include :scp-wiki:component:license-box]]\n[!-- N/A (No Images)  --]\n[[include :scp-wiki:component:license-box-end]]",
+  "tags": [
+    "_licensebox",
+    "_tale-hub",
+    "are-we-cool-yet",
+    "hub",
+    "the-trashfire"
+  ],
+  "author": "UraniumEmpire",
+  "created_at": "2020-05-05T23:48:30+00:00",
+  "updated_at": "2022-08-11T11:39:07+00:00",
+  "rating": 48,
+  "_site": "scp-wiki",
+  "_fullname": "bawarao-hub"
+}

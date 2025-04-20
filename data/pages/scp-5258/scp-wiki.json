@@ -1,0 +1,20 @@
+{
+  "title": "SCP-5258",
+  "content": "[[>]]\n[[module rate]]\n[[/>]]\n\n**Item #:** SCP-5258\n\n**Object Class:** Thaumiel\n\n**Special Containment Procedures:** Foundation personnel must follow standard precautions described in the attached file[[footnote]]Personnel must view the following document before further reading: [https://upload.wikimedia.org/wikipedia/commons/f/fa/Black_White_Graphic_Pattern_by_Trisorn_Triboon.jpg?20190309164527| Document-5258-2][[/footnote]]. Only one instance of SCP-5258 exists at present.\n\n**Description:** SCP-5258 is a memetic kill agent designed to neutralize any sentient lifeform it is exposed to. As of writing, SCP-5258 is the most powerful kill agent produced by the Foundation, having a 100% success rate in terminating anyone exposed to its effects. SCP-5258 is currently utilised to discreetly dispose of Foundation infiltrators, antagonistic groups accessing the Foundation database, and other hostile sentiences with means of reading Foundation documentation.\n\nDue to its hazardous nature, the singular instance of SCP-5258 has been split into two separate image vectors (SCP-5258-1 and 2). Cognitive discernment of both images in the incorrect order (SCP-5258-2 followed by SCP-5258-1) will render subjects immune to SCP-5258’s effects, rather than kill them. Perceiving the anomaly in the opposite order however will prove fatal within several minutes, via sudden brain death.\n\n[[=]]\n[[collapsible show=\"Access Document-SCP-5258-1\" hide=\"ACCESS REQUIREMENTS NULLIFIED\"]]\n[[include component:image-block\nname=https://upload.wikimedia.org/wikipedia/commons/6/6a/Black_White_Graphic_Pattern_by_Trisorn_Triboon_2.jpg?20190309164648|caption= SCP-5258-1|width=300px|align=center]]\n##white|gotcha##\n[[/=]]\n[[<]]\n**Discovery Log:** Utilisation of SCP-5258 was first proposed following examination of previous Foundation database breaches. It was found that in a majority of cases, infiltrators had a tendency to open collapsed documentation within files before actually reading the main text. This violates the standard code of conduct for handling and reading documentation referencing memetic and congitohazardous phenomena.\n\nThis choice is commonly triggered by the human urge to access that which the individual considers enticing, due to being perceived as closed off or ominous in nature (Commonly dubbed the \"Pandora Effect\").\n\nThis behaviour has occurred in 90% of non-Foundation readers accessing SCP-5258's documentation.\n[[/<]]\n[[/collapsible]]\n\n[[footnoteblock]]\n@@ @@\n@@ @@\n[[include :scp-wiki:component:license-box]]\n=====\n> **Filename:** Black White Graphic Pattern by Trisorn Triboon.jpg\n> **Author:** [[[ https://commons.wikimedia.org/wiki/User:Tris_T7 | Tris_T7]]]\n> **License:** CC-BY-SA 4.0\n> **Source Link:** https://commons.wikimedia.org/wiki/File:Black_White_Graphic_Pattern_by_Trisorn_Triboon.jpg\n\n> **Filename:** Black White Graphic Pattern by Trisorn Triboon 2.jpg\n> **Author:** [[[ https://commons.wikimedia.org/wiki/User:Tris_T7 | Tris_T7]]]\n> **License:** CC-BY-SA 4.0\n> **Source Link:** https://commons.wikimedia.org/wiki/File:Black_White_Graphic_Pattern_by_Trisorn_Triboon_2.jpg\n=====\n[[include :scp-wiki:component:license-box-end]]",
+  "tags": [
+    "_cc",
+    "_licensebox",
+    "cognitohazard",
+    "foundation-made",
+    "memetic",
+    "scp",
+    "thaumiel",
+    "visual"
+  ],
+  "author": "Penton",
+  "created_at": "2022-08-05T20:17:46+00:00",
+  "updated_at": "2022-08-28T09:32:20+00:00",
+  "rating": 153,
+  "_site": "scp-wiki",
+  "_fullname": "scp-5258"
+}

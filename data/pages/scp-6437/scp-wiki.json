@@ -1,0 +1,24 @@
+{
+  "title": "SCP-6437",
+  "content": "[[>]]\n[[module Rate]]\n[[/>]]\n\n[[module ListPages  category=\"fragment\" parent=\".\" limit=\"1\" order=\"created_at\" offset=\"@URL|0\"]]\n%%content%%\n[[/module]]\n\n[!-- https://scp-wiki.wikidot.com/fragment:scp-6437-0 --]\n[!-- https://scp-wiki.wikidot.com/fragment:scp-6437-1 --]\n[[footnoteblock]]\n\n[[include :scp-wiki:component:license-box]]\n=====\n\n> **Filename:** bullet\n> **Author:** [https://commons.wikimedia.org/wiki/User:Seha_bs Seha bs]\n> **License:** [https://creativecommons.org/licenses/by/3.0/deed.en Attribution 3.0 Unported (CC BY 3.0)]\n> **Source:** https://commons.wikimedia.org/wiki/File:Bullet_7-92Mauser.JPG\n\n> **Filename:** Is It Art Yet?\n> **Author:** [https://guillaumepaumier.com/ Guillaume Paumier, CC-BY.]\n> **License:** [https://creativecommons.org/licenses/by/3.0/deed.en Attribution 3.0 Unported (CC BY 3.0)]\n> **Source:** https://commons.wikimedia.org/wiki/File:Bullet_holes_in_Nablus_013_-_Aug_2011.jpg\n> (alterations were made)\n\n=====\n=====\n[[include component:preview\ntext=\nSCP-6437-A instances are a collection of miscellaneous bullets. Instances have shown no additional anomalous properties following their manifestation.\n]]\n=====\n\n[[include :scp-wiki:component:license-box-end]]\n\n[[div class=\"footer-wikiwalk-nav\"]]\n[[=]]\n<< [[[SCP-6436]]] | SCP-6437 | [[[SCP-6438]]] >>\n[[/=]]\n[[/div]]",
+  "tags": [
+    "_cc",
+    "_licensebox",
+    "_listpages",
+    "alive",
+    "artistic",
+    "co-authored",
+    "ectoentropic",
+    "euclid",
+    "humanoid",
+    "sapient",
+    "scp",
+    "weapon"
+  ],
+  "author": "IndustryStandard",
+  "created_at": "2023-08-04T05:53:10+00:00",
+  "updated_at": "2024-04-22T02:52:35+00:00",
+  "rating": 28,
+  "_site": "scp-wiki",
+  "_fullname": "scp-6437"
+}

@@ -1,0 +1,20 @@
+{
+  "title": "SCP-5455",
+  "content": "[[include :scp-wiki-cn:theme:paperstack]]\n\n[[module CSS]]\n.hovertip { max-width: 400px; }\n[[/module]]\n\n[[div class=\"logo\"]]\n[[image http://scp-wiki.wdfiles.com/local--files/theme%3Apaperstack/lgtrans.png]]\n[[/div]]\n\n[[div class=\"header-container\"]]\n[[div class=\"text-item\"]]\n[[size 90%]]##grey|**项目编号：**##[[/size]]\n\n[[size 220%]]**5455**[[/size]]\n[[/div]]\n\n[[div class=\"text-item\"]]\n[[size 90%]]##grey|**收容等级：**##[[/size]]\n\n[[size 220%]]**KETER**[[/size]]\n[[/div]]\n\n[[div class=\"grid-item\" style=\"margin-bottom: 2rem;\"]]\n[[include component:image-block name=http://scp-wiki.wdfiles.com/local--files/scp-5455/brainscan.png|caption=一个已故的SCP-5455-1实例的MRI扫描图像。|width=300px|align=center]]\n[[/div]]\n[[/div]]\n\n[[==]]\n[[div class=\"textbox\"]]\n**特殊收容措施：**位于阿拉斯加州瓦尔迪兹或其附近的突然意外无法发声的人员将被认为是SCP-5455-1实例，且将被通过烟熏法进行处决。位于瓦尔迪兹或其附近突然产生蚁走感的人员[[footnote]]一种昆虫在皮肤下爬动的感觉。[[/footnote]]将被认为无法避免成为SCP-5455-1实例，并会被通过烟熏法处决。同时将对死亡前表现出以上任何一种症状的死者的尸体进行烟熏。与经烟熏过的人员/尸体睡在同一户的人员应在Site-188单独隔离，直至另行通知。\n\n由于瓦尔迪兹人口稀少且十分偏僻，基金会对理查森高速公路和瓦尔迪兹港的监视已有效控制进出城镇的交通。\n[[/div]]\n\n**描述：**SCP-5455是一种于阿拉斯加州瓦尔迪兹发现的木蚁，从事异常的寄生行为。SCP-5455的种群通过穿过鼻子的筛板以进入颅骨感染人类（通常于夜晚潜在的宿主正睡觉时进行）。一旦进入脑壳内部，SCP-5455会吞噬宿主运动皮质的深层渠道直到其完全被破坏。这将会阻止宿主进行自主运动，但仍然允许无意识功能，例如呼吸和知觉。同时这也会导致多条血管的暴露，SCP-5455利用这些血管爬入宿主的循环系统。循环系统支持其进入脊髓，以对脊髓不同位置进行刺激来控制宿主的行动[[footnote]]循环系统同时也用作孵卵和作为育虫温床。这使得存在宿主的SCP-5455蚁群的规模迅速增大，通常存在的蚂蚁数量超过2万只。[[/footnote]]。此时，宿主已被完全感染，并将被重新分类为一个SCP-5455-1实例。\n\nSCP-5455-1实例将试图模仿宿主的日常生活，融入人类社会，并谨慎地感染他人。尽管SCP-5455-1实例有复制大多数的人类功能的能力，但仍无法复制复杂的运动功能。这包括（但不限于）交谈、手写和驾驶机动车。SCP-5455能够理解语言和通过键盘进行输入。\n\n**附录5455.1：**连续两天的大雨后，多只木蚁于临时站点Site-188内部被发现。暂未知这些木蚁是否为SCP-5455的一部分。封闭临时站点Site-188的工作正在进行中。基金会对当地商店的监测也发现杀虫剂的采购量大幅增加。\n\n**附录5455.2：**Michael Crooner，一个SCP-5455-1实例，为供进一步研究，已于临时站点Site-188被冷冻。在Crooner因进入医院时右手持有带血的水果刀而被捕后，其被认为是SCP-5455-1实例。SCP-5455引导Crooner前往医院的原因暂且未知，推测可能是为治疗他左臂的多处横向切口，这些切口几乎导致他左臂上的所有皮肤被剥离。其中约有160只木蚁出现，它们在Crooner被冷冻时利用他的血管在裸露的伤口处爬进爬出。\n\nMichael Crooner的健康史显示他在该事件前无自残记录。然而，其确实说明Crooner被诊断患有失眠症。\n\n**附录5455.3：**在临时站点Site-188对平民分别进行单独隔离已开始变得无法持续。为帮助节约空间，未显现SCP-5455感染症状和隔离3天以上的平民应在一起隔离。\n\n**附录5455.4：**于01/08/2017，首席研究员Ussak用临时站点Site-188终端传达出下列紧急讯息：\n\n[[div style=\"border: 2px solid black; background-color: #f9f9f9; background-image: url(http://scp-wiki.wdfiles.com/local--files/scp-5455/scanline.png); text-align: center; width: 12em; margin: 0px auto; padding: .5em 1em;\"]]\n{{**它们在我的血管里**}}\n[[/div]]\n\n一只次级团队被派遣去处决首席研究员Ussak和其他所有被感染的基金会人员。在到达后，该次级团队无法在临时站点Site-188、理查森高速公路或瓦尔迪兹港找到任何基金会人员。\n\n瓦尔迪兹港封锁小组的记录显示，共有22艘帆船、划艇、独木舟和其他无发动机航船在次级团队对瓦尔迪兹港的搜查中下落不明。\n\n对阿拉斯加南部海岸线的监测正在进行中。\n[[/==]]\n\n[[footnoteblock]]\n\n[[=]]\n[[div class=\"footer-wikiwalk-nav\"]]\n<< [[[SCP-5454]]] | SCP-5455 | [[[SCP-5456]]] >>\n[[/div]]\n\n[[include :scp-wiki-cn:component:license-box\n|author=AnActualCrow\n]]\n=====\n> **文件名：**brainscan.png\n> **图像名：**FMRI Brain Scan\n> **图像作者：**DrOONeil\n> **授权协议：**CC BY-SA 3.0\n> **来源链接：**[https://commons.wikimedia.org/wiki/File:FMRI_Brain_Scan.jpg 维基共享]\n> **备注：**图片为[[user AnActualCrow]]所编辑\n\n> **文件名：**scanline.png\n> **作者：**[[user AnActualCrow]]\n> **授权：**CC0\n> **来源链接：**[[[SCP-5455]]]\n=====\n[[include :scp-wiki-cn:component:license-box-end]]\n[[/=]]",
+  "tags": [
+    "keter",
+    "scp",
+    "动物",
+    "强迫性",
+    "昆虫",
+    "活物",
+    "种群",
+    "群体性"
+  ],
+  "author": "The wind say",
+  "created_at": "2021-05-02T04:00:23+00:00",
+  "updated_at": "2024-03-21T18:45:59+00:00",
+  "rating": 8,
+  "_site": "scp-wiki-cn",
+  "_fullname": "scp-5455"
+}

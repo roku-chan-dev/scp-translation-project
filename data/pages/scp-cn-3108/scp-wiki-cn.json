@@ -1,0 +1,16 @@
+{
+  "title": "SCP-CN-3108",
+  "content": "[[module css]]\n.danke{\npadding: 5px 5px 5px 15px;\nmargin-bottom:10px;\nfont-family: monospace;\nfont-size: 1.1em; }\n\n.agent{\nbackground-color:#002200;\nborder: 3px solid #55AA55;\ncolor: #77CC77;\n}\n\n.site{\nbackground-color:#222200;\nborder: 3px solid #AAAA55;\ncolor: #DDDD77;\n}\n[[/module]]\n\n\n\n====\n[[div class=\"preview\"]]\n永远的爱着你们\n[[/div]]\n[[module CSS]]\ndiv.preview {display: none;}\n[[/module]]\n====\n\n\n\n\n\n\n[[>]]\n[[module Rate]]\n[[/>]]\n\n\n\n\n\n\n**项目编号：**SCP-CN-3108\n\n**项目等级：**Safe\n\n**特殊收容措施：**SCP-CN-3108在显露其异常现象后被存放于大型生化收容隔间中，该收容隔间内配备高容量空气净化系统，且需两周更换一次，个人不论以任何理由进入收容隔间必须按规定穿戴危险物质装置，以防止可能的污染。\n\n当前禁止一切对SCP-CN-3108-1的干涉\n\n**描述：**SCP-CN-3108是一高2米，长5米，由未知材料制成，来源不明的地外飞行器，于1967年█月██日坠落并被发现于中国甘肃省酒泉市。\n\nSCP-CN-3108在被转移至Site-CN-██后显露其异常性质。在被转移至Site-CN-██5小时后，SCP-CN-3108打开位于飞行器尾部的孔盖，并喷出大量含有花粉，真菌孢子，植物种子和微生物的气体。气体快速充满收容隔间，真菌细菌及孢子迅速覆盖收容隔间墙面并构成微型生态圈（下文称为SCP-CN-3108-1)\n\n\nSCP-CN-3108-1在接下来的24小时内快速增生，疑似苔藓和野草的东西覆盖了地板。出现了树芽，茎秆，灌木丛，甚至是小树。在第36小时， 观察到植动物迅速生长，成熟，杀死并吞噬其他生物，动植物的体型随时间逐渐增大。在第48小时，SCP-CN-3108-1不再增生，随后归于稳定.SCP-CN-3108在过程中逐渐腐烂，成为养分。\n\n当比欧塔69A（详情见附件A）被观察到爆炸后，SCP-CN-3108-1内开始增生少量人型哺乳动物（下文称为SCP-CN-3108-2)，其显著特征为\n\n.高于普通人类的身高（平均身高2.25米）\n\n\n.与苍蝇相似的复眼\n\n\n.无需氧气，依靠SCP-CN-3108-1内产生的特殊气体生存\n\n\n.较短的生命周期（通常2-3年为一个周期）\n\n\n.与甲壳类相仿的口器与外骨骼\n\n\nSCP-CN-3108-2以食用SCP-CN-3108-1内的植物为生，对研究人员无敌意。猜测此中生物与比欧塔69A的原生物种为同一类。\n\n\n\n\n**附录A：**Dr.██根据SCP-CN-3108的磨损程度及所含成分推断SCP-CN-3108来自位于██星系的比欧塔69A，该行星于███年被观测到爆炸，具推算与SCP-CN-3108坠于地球时间吻合。\n\n-\n-\n-\n-\n-\n-\n-\n-\n-\n-\n-\n-\n\n[[div class=\"danke agent\"]]\n| 欢迎访问Site-CN-69终端卫星接收系统\n| 正在调出[1967/10/4]的全部接收讯息\n| 加载中....\n| 加载中....\n| 原文附件已损坏，以下为原始讯息\n\n比欧塔69A[未翻译]已走向灭亡\n[未翻译][未翻译][未翻译]\n\n请[未翻译]下去\n\n[未翻译]永远爱着你们\n\n[未翻译][未翻译] ————[未翻译]\n[[/div]]\n\n\n\n\n\n\n\n\n\n\n\n\n\n[[footnoteblock]]\n\n[[div class=\"footer-wikiwalk-nav\"]]\n[[=]]\n<< [[[SCP-CN-3107]]] | SCP-CN-3108 | [[[SCP-CN-3109]]] >>\n[[/=]]\n[[/div]]",
+  "tags": [
+    "2024新秀竞赛",
+    "safe",
+    "scp",
+    "原创"
+  ],
+  "author": "chayeTEA",
+  "created_at": "2024-10-04T14:03:51+00:00",
+  "updated_at": "2024-10-05T04:30:09+00:00",
+  "rating": 2,
+  "_site": "scp-wiki-cn",
+  "_fullname": "scp-cn-3108"
+}

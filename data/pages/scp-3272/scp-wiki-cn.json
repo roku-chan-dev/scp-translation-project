@@ -1,0 +1,17 @@
+{
+  "title": "SCP-3272",
+  "content": "[[include :scp-wiki-cn:theme:black-highlighter-theme]]\n[[include :scp-wiki:component:bhl-dark-sidebar]]\n[[module CSS]]\n:root{\n--cutColour: #fafafa;\n--barColour: #590505;\n}\n\n.info-container .collapsible-block-folded a{\ncolor: #FFF;}\n.info-container .collapsible-block-unfolded-link a{\ncolor: #FFF;}\n\n.translation_block{\ndisplay:none;}\n[[/module]]\n[[include :scp-wiki-cn:credit:start-standalone]]\n**SCP-3272：**英俊男子多如牛毛细雨，**哈利路亚！**\n**作者：**[[*user TheMightyMcB]]\n**该作者的更多作品：**\n* http://scp-wiki.wikidot.com/themightymcb-s-author-page\n**特别感谢：**\n[[*user MaliceAforethought]]、[[*user Crashington]]、[[*user Gee0765]]、[[*user T Rutherford]]、[[*user Veiedhimaedhr]]、[[*user Ihp]]、[[*user Jekeled]]、[[*user Pr10r]]、[[*user Swaghetti]]、[[*user Rattles]]、和 [[*user Roget]]。\n[[collapsible show=\"+ 图像归属\" hide=\"- 图像归属\"]]\nhttps://commons.wikimedia.org/wiki/File:Shooting_Star.jpg (CC-BY-SA 4.0)\nhttps://commons.wikimedia.org/wiki/File:ICanalFranceroadPortcranes5June06.jpg#mw-jump-to-license (CC-BY-SA 3.0)\n[[/collapsible]]\n[[include :scp-wiki-cn:credit:end-standalone]]\n\n[[module ListPages category=\"fragment\" parent=\".\" order=\"created_at\" limit=\"1\" offset=\"@URL|0\"]]\n%%content%%\n[[/module]]\n\n[!-- http://scp-wiki-cn.wikidot.com/fragment:scp-3272-0 --]\n[!-- http://scp-wiki-cn.wikidot.com/fragment:scp-3272-1 --]\n\n[[footnoteblock]]\n\n[[div class=\"footer-wikiwalk-nav\"]]\n[[=]]\n<< [[[SCP-3271]]] | SCP-3272 | [[[SCP-3273]]] >>\n[[/=]]\n[[/div]]\n\n[[include :scp-wiki-cn:component:license-box\n|author=TheMightyMcB\n]]\n=====\n> **文件名：**Shooting_Star.jpg\n> **图像名：**Shooting Star.jpg\n> **图像作者：**Ramesh Kumar R\n> **授权协议：**CC BY-SA 4.0 International\n> **来源链接：***https://commons.wikimedia.org/wiki/File:Shooting_Star.jpg\n> **衍生自：**\n> **备注：**\n\n> **文件名：**Porta_Potty.jpg\n> **图像名：**ICanalFranceroadPortcranes5June06.jpg\n> **图像作者：**Infrogmation\n> **授权协议：**CC BY-SA 2.0 Generic\n> **来源链接：***https://commons.wikimedia.org/wiki/File:ICanalFranceroadPortcranes5June06.jpg#mw-jump-to-license\n> **衍生自：**\n> **备注：**\n=====\n[[include :scp-wiki-cn:component:license-box-end]]",
+  "tags": [
+    "safe",
+    "scp",
+    "人造物品",
+    "时间影响",
+    "电子"
+  ],
+  "author": "Sylvia_Edith",
+  "created_at": "2019-09-28T07:47:39+00:00",
+  "updated_at": "2021-03-26T02:35:58+00:00",
+  "rating": 3,
+  "_site": "scp-wiki-cn",
+  "_fullname": "scp-3272"
+}

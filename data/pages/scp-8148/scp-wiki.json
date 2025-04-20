@@ -1,0 +1,21 @@
+{
+  "title": "SCP-8148",
+  "content": "[[>]]\n[[module Rate]]\n[[/>]]\n\n[[module ListPages  category=\"fragment\" parent=\".\" limit=\"1\" order=\"created_at\" offset=\"@URL|0\"]]\n%%content%%\n[[/module]]\n\n[!--\nhttps://scp-wiki.wikidot.com/fragment:scp-8148-0\nhttps://scp-wiki.wikidot.com/fragment:scp-8148-1\nhttps://scp-wiki.wikidot.com/fragment:scp-8148-2\n--]\n\n[[footnoteblock]]\n\n[[div class=\"footer-wikiwalk-nav\"]]\n[[=]]\n<< [[[SCP-8147]]] | SCP-8148 | [[[SCP-8149]]] >>\n[[/=]]\n[[/div]]\n\n[[include :scp-wiki:component:license-box]]\n|author=Sly King]]\n[[include :scp-wiki:component:license-box-end]]",
+  "tags": [
+    "_listpages",
+    "alive",
+    "humanoid",
+    "keter",
+    "memory-affecting",
+    "mind-affecting",
+    "neutralized",
+    "scp",
+    "thaumiel"
+  ],
+  "author": "Sly King",
+  "created_at": "2024-06-24T06:36:12+00:00",
+  "updated_at": "2024-11-02T06:55:01+00:00",
+  "rating": 25,
+  "_site": "scp-wiki",
+  "_fullname": "scp-8148"
+}

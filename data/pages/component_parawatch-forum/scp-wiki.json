@@ -1,0 +1,13 @@
+{
+  "title": "Forum Component for Parawatch",
+  "content": "[[>]]\n[[module Rate]]\n[[/>]]\n\n[[include theme:creepypasta]]\n\n**Example:**\n\n[[include component:parawatch-forum-post\n    color=green |\n    username=somedude |\n    date=10/20/15 (Tue) 18:21:54 |\n    postno=65410813 |\n    depth=0 |\n    content=Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum...\n]]\n\n[[include component:parawatch-forum-post\n    color=cyan |\n    username=🗿 jlessthan |\n    date=10/20/15 (Tue) 19:07:14 |\n    postno=65412825 |\n    depth=1 |\n    content=Something something something something something something. \n \nModeration stop order.\n]]\n\n[[include component:parawatch-forum-post\n    color=green |\n    username=somedude |\n    date=10/20/15 (Tue) 18:23:30 |\n    postno=65410841 |\n    depth=2 |\n    content=im sorry\n]]\n\n\n**Usage:**\n\n> ##lightblue|@@[[include :scp-wiki:component:parawatch-forum-post@@##\n> ##lightblue|@@    color@@##=##lightgreen|color name or #rrggbb here## |\n> ##lightblue|@@    username@@##=##lightgreen|account name of person## | ← prefix with \"🗿 \" if a moderator\n> ##lightblue|@@    date@@##=##lightgreen|MM/DD/YY (DOW) HH:MM:SS## | ← DOW is day of week, first three letters\n> ##lightblue|@@    postno@@##=##lightgreen|8digitnumber## | ← should increase with time of creation\n> ##lightblue|@@    depth@@##=##lightgreen|0/1/2/3/4...## | ← how many layers deep this post is\n> ##lightblue|@@    content@@##=##lightgreen|The actual forum post content goes here.## ← if it spans across multiple lines, each must end with a space\n> ##lightblue|@@]]@@##\n\n= (produces)\n\n[[include component:parawatch-forum-post\n    color=red |\n    username=account name of person |\n    date=MM/DD/YY (DOW) HH:MM:SS |\n    postno=8digitnumber |\n    depth=0 |\n    content=The actual forum post content goes here.\n]]",
+  "tags": [
+    "component"
+  ],
+  "author": "aismallard",
+  "created_at": "2019-08-17T06:08:04+00:00",
+  "updated_at": "2021-03-07T06:36:56+00:00",
+  "rating": 16,
+  "_site": "scp-wiki",
+  "_fullname": "component:parawatch-forum"
+}

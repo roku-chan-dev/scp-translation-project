@@ -1,0 +1,13 @@
+{
+  "title": "SCP-7472-1",
+  "content": "[[include :scp-wiki:component:scp-pride]]\n\n[[module CSS]]\n#page-content { text-align: justify; }\n.hovertip { max-width: 400px; }\n.avatar-hover { display: none !important; }\n\n.special a {\n    animation: blink 0.8s ease-in-out infinite alternate;\n    font-weight: bold;\n}\n@keyframes blink {\n    0% { color: transparent; }\n    50%, 100% { color: #7E2520; }\n}\n[[/module]]\n\n[[>]]\n[[module Rate]]\n[[/>]]\n\n[[div style=\"text-align: right; margin-top: -20px; font-size:80%; color: #757575;\"]]\nby [[[AnActualCrow]]] and [[[ralliston-s-authorpage|Ralliston]]]\n[[/div]]\n\n[[include :scp-wiki:component:anomaly-class-bar-source\n|item-number= 7472\n|clearance= 2\n|container-class= pending\n|disruption-class= none\n|risk-class= none\n]]\n\n----\n\n[[include :scp-wiki:component:image-block\n|name=https://scp-wiki.wdfiles.com/local--files/scp-7472/prg3oWY.png\n|caption=Tree in Poland (squirrels not pictured).\n|width=100%\n|align=center\n]]\n\n**Special Containment Procedures:** ###00658d|Pending.##\n\n**Description:** SCP-7472 is the disappearance of an estimated 40,000-280,000 squirrels in and around Poznań, Poland. Investigation is ongoing.\n\n _\n _\n\n~~~~\n[[div class=\"special\" style=\"text-align: center; font-size:1em; max-width:400px; margin:auto; opacity:0.7;\"]]\nYou're currently viewing an outdated version of this document. Click [/scp-7472/offset/1 here] to see the current iteration.\n[[/div]]\n\n@@ @@\n@@ @@",
+  "tags": [
+    "fragment"
+  ],
+  "author": "Ralliston",
+  "created_at": "2023-04-01T21:35:16+00:00",
+  "updated_at": "2023-06-30T17:35:41+00:00",
+  "rating": 0,
+  "_site": "scp-wiki",
+  "_fullname": "fragment:scp-7472-1"
+}

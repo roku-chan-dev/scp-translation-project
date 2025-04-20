@@ -1,0 +1,27 @@
+{
+  "title": "SCP-7171",
+  "content": "[[module ListPages category=\"fragment\" parent=\".\" order=\"created_at\" limit=\"1\" offset=\"@URL|0\"]]\n%%content%%\n[[/module]]\n\n[!-- https://scp-wiki.wikidot.com/fragment:scp-7171-1 --]\n[!-- https://scp-wiki.wikidot.com/fragment:scp-7171-2 --]\n[!-- https://scp-wiki.wikidot.com/fragment:scp-7171-3 --]\n\n[[footnoteblock]]\n\n[[div class=\"footer-wikiwalk-nav\"]]\n[[=]]\n<< [[[SCP-7170]]] | SCP-7171 | [[[SCP-7172]]] >>\n[[/=]]\n[[/div]]\n\n[[include :scp-wiki:component:license-box]]\n=====\n> **Filename:** logo.jpg\n> **Name:** Department of Interdimensional Stability\n> **Author:** [https://scp-wiki.wikidot.com/estrellayoshte EstrellaYoshte]\n> **License:** CC BY-SA 3.0\n> **Source Link:** [https://scp-wiki.wikidot.com/desk-of-junior-designer-s-yvonne SCP Wiki]\n\n> **Filename:** telescope.jpg\n> **Name:** The Jodrell Bank Lovell Telescope, detail, Cheshire, England.jpg\n> **Date:** 15 July 2019\n> **Author:** Rosser1954\n> **License:** CC BY-SA 4.0 International\n> **Source Link:** [[[https://commons.wikimedia.org/wiki/File:The_Jodrell_Bank_Lovell_Telescope,_detail,_Cheshire,_England.jpg|Wikimedia Commons]]]\n\n> **Filename:** pluto.jpg\n> **Name:** MVIC sunset scan of Pluto.jpg\n> **Date:** 14 July 2015\n> **Author:** NASA/JHUAPL/SwRI\n> **License:** public domain\n> **Source Link:** [[[https://commons.wikimedia.org/wiki/File:MVIC_sunset_scan_of_Pluto.jpg|Wikimedia Commons]]], [[[https://www.nasa.gov/feature/pluto-wows-in-spectacular-new-backlit-panorama/|NASA]]]\n\n> **Filename:** asteroid.jpg\n> **Name:** 2013 Chelyabinsk meteor trace.jpg\n> **Date:** 15 February 2013\n> **Author:** Alex Alishevskikh\n> **License:** CC BY-SA 2.0\n> **Source Link:** [[[https://commons.wikimedia.org/wiki/File:2013_Chelyabinsk_meteor_trace.jpg|Wikimedia Commons]]]\n=====\n[[include :scp-wiki:component:license-box-end]]",
+  "tags": [
+    "7000",
+    "_cc",
+    "_licensebox",
+    "_listpages",
+    "co-authored",
+    "extraterrestrial",
+    "geological",
+    "gravity",
+    "k-class-scenario",
+    "keter",
+    "meteorological",
+    "moon",
+    "planet",
+    "probability",
+    "scp"
+  ],
+  "author": null,
+  "created_at": "2022-07-31T18:17:16+00:00",
+  "updated_at": "2022-10-01T17:55:39+00:00",
+  "rating": 16,
+  "_site": "scp-wiki",
+  "_fullname": "scp-7171"
+}

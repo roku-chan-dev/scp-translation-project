@@ -1,0 +1,14 @@
+{
+  "title": "SCP-918-JP",
+  "content": "desc: \"それは道端の雨濡れる一匹の犬。\\n天突く遠吠え、それは一つの誰かの夢。\\nやがて遠吠えは掠れて消え去った。\\n\"\nurl: 'http://ja.scp-wiki.net/scp-918-jp'\nredirect-b: '[[module Redirect destination=\"http://ja.scp-wiki.net/scp-poem'\nredirect-e: '\"]]'",
+  "tags": [
+    "jp",
+    "剪定対象-子"
+  ],
+  "author": "Souryuu0219",
+  "created_at": "2019-06-08T16:51:10+00:00",
+  "updated_at": "2021-05-24T13:21:56+00:00",
+  "rating": 4,
+  "_site": "scp-jp",
+  "_fullname": "poem:17"
+}

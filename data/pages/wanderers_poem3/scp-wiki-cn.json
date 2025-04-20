@@ -1,0 +1,15 @@
+{
+  "title": "颂诗歌者其三：黎明",
+  "content": "[[>]]\n[[module rate]]\n[[/>]]\n\n[[module css]]\n@import url('https://fonts.googleapis.com/css?family=Special+Elite');\n\n.manifestoPaper {\n    color: #351f11;\n    font-family: Courier;\n    font-size: 14px;\n    background: url('http://www.rpc-wiki.net/local--files/malthusian-manifesto/PaperTexture.jpg');\n    background-repeat: no-repeat;\n    background-size: cover;\n    box-shadow: 4px 6px #dbdbd9;\n    padding: 10px;\n    font-family: 'Special Elite', cursive;\n}\n[[/module]]\n\n[[include :scp-wiki-cn:theme:black-highlighter-theme]]\n[[include :scp-wiki-cn:theme:dustjacket]]\n\n[[div class=\"manifestoPaper\"]]\n[[=]]\n//莽莽尘世中，寻找天使。//\n//芸芸众生中，寻找天使。//\n//大街小巷中，寻找天使。//\n//众生面相中，寻找天使。//\n\n寻求希望之路，\n独自矗立于上。\n破碎纵横荆棘，\n跪伏圣体之前。\n\n战乱之后，\n破晓之前。\n清算之后，\n无动于衷。\n众多国度，\n众多战俘。\n天使现身，\n普度众生。\n\n流浪者祈求着希望，\n青少年祈求着解脱。\n沉沦于世界的谎言，\n压迫驱使贪欲。\n\n战乱，胁迫，悔过，\n让我们堕于恐惧中。\n伸出援手，\n果腹饱食。\n为仇敌祈祷，\n让自己谦逊。\n祂即为希望，\n祂即为曙光。\n\n每个英雄，\n都需要一个诗人，\n歌颂他的丰功伟绩，\n让这个世界去铭记。\n[[/=]]\n[[/div]]\n\n[[=]]\n<< [http://scp-wiki-cn.wikidot.com/wanderers:poem2 颂诗歌者 其二] | 颂诗歌者 其三 >>\n[[/=]]",
+  "tags": [
+    "wanderers",
+    "原创",
+    "游人志异"
+  ],
+  "author": "Just F",
+  "created_at": "2020-07-08T02:39:27+00:00",
+  "updated_at": "2020-09-29T12:41:47+00:00",
+  "rating": 11,
+  "_site": "scp-wiki-cn",
+  "_fullname": "wanderers:poem3"
+}

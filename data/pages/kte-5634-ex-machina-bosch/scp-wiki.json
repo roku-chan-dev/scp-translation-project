@@ -1,0 +1,25 @@
+{
+  "title": "KTE-5634-Ex-Machina-Bosch",
+  "content": "[[>]]\n[[module Rate]]\n[[/>]]\n\n[[include :scp-wiki:theme:black-highlighter-theme]]\n[[include :scp-wiki:theme:goc]]\n\n[[module ListPages  category=\"fragment\" parent=\".\" limit=\"1\" order=\"created_at\" offset=\"@URL|0\"]]\n%%content%%\n[[/module]]\n\n[!-- https://scp-wiki.wikidot.com/fragment:Machina-Bosch-1 --]\n[!-- https://scp-wiki.wikidot.com/fragment:Machina-Bosch-2 --]\n\n------\n\n[[=]]\n**<< KTE-5634-Ex-Machina-Bosch | [[[https://scp-wiki.wikidot.com/secure-facility-dossier-reliquary-area-27|Secure Facility Dossier: Reliquary Area-27]]] >>**\n[[/=]]\n\n[[include :scp-wiki:component:license-box\n|author=Cerastes]]\n=====\n> **Filename:** medium.jpg\n> **Name:** Volcanic eruption in Eyjafjallajökull glacier (4461625764).jpg\n> **Author:** Daníel Örn Gíslason\n> **License:** CC BY 2.0\n> **Source Link:** https://commons.wikimedia.org/wiki/File:Volcanic_eruption_in_Eyjafjallaj%C3%B6kull_glacier_(4461625764).jpg\n\n=====\n[[include :scp-wiki:component:license-box-end]]",
+  "tags": [
+    "_cc",
+    "_global-occult-coalition",
+    "_licensebox",
+    "_listpages",
+    "action",
+    "apocalyptic",
+    "canon2020",
+    "competitive-eschatology",
+    "global-occult-coalition",
+    "goi-format",
+    "icsut",
+    "military-fiction",
+    "mythological"
+  ],
+  "author": "Cerastes",
+  "created_at": "2020-09-22T19:09:26+00:00",
+  "updated_at": "2024-10-11T19:44:37+00:00",
+  "rating": 121,
+  "_site": "scp-wiki",
+  "_fullname": "kte-5634-ex-machina-bosch"
+}

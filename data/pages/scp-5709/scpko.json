@@ -1,0 +1,22 @@
+{
+  "title": "SCP-5709",
+  "content": "[[include :scpko:theme:blankstyle]]\n[[module css]]\nbody{\n    --barColour: #b8a499;\n}\n\n:root{\n  --header-title: \"전술신학부\";\n  --header-subtitle: \"아브라함 계통 하위부서\";\n}\n@media (max-width: 768px) {\n    :root {\n         --header-title: \"전술신학부\";\n    }\n}\n\ndiv#extra-div-1 {\n    background-image: url(http://topia.wikidot.com/local--files/in-heaven-a-spirit-doth-dwell/tactical-theology.png);\n    filter: opacity(20%);\n}\n[[/module]]\n\n[[include :scpko:component:info-ayers\n|lang=en\n|page=in-heaven-a-spirit-doth-dwell\n|authorPage=http://scpko.wikidot.com/elijah-martin-chevrolet-by-the-book\n|comments=\n\n= **SCP-5709** - 성령이 천국에 거하나니\n\n----\n\n= Elogee FishTruck 작성\n]]\n\n[[include info:start]]\n**SCP-5709:** 성령이 천국에 거하나니\n**저자:** [[*user Elenee FishTruck]]\n**원작:** http://scp-wiki.wikidot.com/scp-5709\n**역자:** [[*user Aiken Drum]]\n\n> **파일명:** door\n> **원본:** Lotanrecycle post door detail.jpg\n> **저작권자:** Yoav Dothan\n> **라이선스:** 퍼블릭 도메인\n> **출처:** [https://commons.wikimedia.org/wiki/File:Lotanrecycle_post_door_detail.jpg Wikimedia Commons]\n\n[[include info:end]]\n\n[[include :scpko:component:classified-bar-woed\n|lv=5\n|item=5709\n|oc=이스라펠\n|oc-en=Israfil\n|lang=KO\n]]\n----\n\n[[include component:image-block\n| name=http://scp-wiki.wdfiles.com/local--files/scp-5709/door.jpg\n| caption=SCP-5709의 출입구.\n]]\n\n**특수 격리 절차:** 한 명의 경비가 SCP-5709를 순찰한다. 비허가 접근 및 정보 습득은 금지되어 있다.\n\n----\n\n**설명:** SCP-5709는 진흙벽돌 오두막으로 네게브 사막에 위치하고 있다. 외관 상 창문이나 여타 개구부가 없으며, 문 하나가 내부로 통하는 유일한 출입구 역할을 한다.\n\n구조물의 내부는 항밈적 영향을 보이며, 나온 이후에는 외관, 성질이나 내용물을 기억하지 못하게 한다. 격리 후 면담을 통해, 재단은 SCP-5709의 내부에 대해서 다음을 알게 되었다.\n\n* 밝지 않다.\n* 비어있지 않다.\n* 살아있거나 움직이지 않는다.\n* 따뜻하지 않다.\n* 진흙벽돌로 지어지지 않았다.\n* 거칠지 않다.\n* 불타고 있지 않다.[[footnote]]아키바 값은 결정적이지 못함.[[/footnote]]\n* 이러한 종류의 것 중 처음이거나 마지막이 아니다.\n* 가동할 수 있거나 완전하지 않다.\n* 열려있지 않다.\n* 닫혀있지 않다.\n\n황동 명판 하나가 출입구 바깥 옆 부근에 나사로 고정되어 있었으며, 다음과 같은 내용이 있었다.\n\n> 이상성 상태: 이스라펠\n\n----\n\n**부록 5709.1:** 회수 기록\n\n첫 탐사 시도 당시, 사망한 인간형 유기체가 내부에서 튀어나와 수 미터 떨어진 곳에 떨어져, 인원에게 부상을 입혔다. 이 유기체는 아무런 의복을 입지 않았고, 생식기, 항문, 콧구멍이 없었다. 이 유기체의 팔은 대상의 입에서 나온 긴 원뿔형 부속지가 손목에 융합되어 있었다. 3도 화상이 피부 전체를 뒤덮고 있었다. 또한 운송을 위해 유해를 주머니에 담았지만, 재단 병리학자들은 주머니를 열었을 때 해당 인간형 유기체를 찾지 못했다.\n\n시체는 관찰자들에게 금관악기의 불협화음과 유사한 환청을 유발했다. 영향받은 피험자들은  [데이터 말소]를 보고했다. 종말론적 중요성이 전술신학부에 의해 확인 중이다.",
+  "tags": [
+    "en",
+    "scp",
+    "건물",
+    "난해한-등급",
+    "사체",
+    "이상성부",
+    "전술신학부",
+    "종교",
+    "항밈적",
+    "환각"
+  ],
+  "author": "Aiken Drum",
+  "created_at": "2021-04-14T13:26:10+00:00",
+  "updated_at": "2024-12-09T11:34:33+00:00",
+  "rating": 8,
+  "_site": "scpko",
+  "_fullname": "scp-5709"
+}

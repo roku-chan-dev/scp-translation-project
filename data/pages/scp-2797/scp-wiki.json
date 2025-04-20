@@ -1,0 +1,20 @@
+{
+  "title": "SCP-2797",
+  "content": "[[>]]\n[[module Rate]]\n[[/>]]\n\n[[include component:image-block name=squirrel.jpg|caption=SCP-2797]]\n\n\n**Item #:** SCP-2797\n\n**Object Class:** Euclid\n\n**Special Containment Procedures:** Instances of SCP-2797 must not come in contact with any form of biological material. Personnel must utilize hazmat suits capable of withstanding scratches and bites by the SCP-2797 instances.\n\n**Description:** SCP-2797 is the collective designation of a group of ~800 organisms visually resembling //Sciurus vulgaris//, Eurasian red squirrels.\n\nInstances of SCP-2797 exhibit anomalous behaviour and abilities when interacting with biological matter. Based on the variations in the displayed behaviour, SCP-2797 can be separated into several exclusive groups, including:\n\n* **SCP-2797-A**: Will seek out biological material, extract 0.2-0.3 kg pieces, and transport them to members of other groups.\n\n* **SCP-2797-B**: Able to spontaneously catalyze various chemical and biological reactions within immediate proximity.\n\n* **SCP-2797-E**: Use materials gained from SCP-2797-A to construct slabs of muscle tissue.\n\n* **SCP-2797-F**: Fuse with existing non-anomalous organisms and modify themselves to improve the host.\n\n* **SCP-2797-K**: Will dismantle injured or inactive members of SCP-2797 into constituting materials, or use available materials to construct new SCP-2797 specimens.\n\nSCP-2797 were created by a Prometheus Labs subcontractor located in Nizhnevartovsk, Russia. Due to the displayed anomalous properties, and the fact that \"proteins\" and \"squirrels\" are homographs in the Russian language, it is believed that SCP-2797 were created due to a mistranslation.\n\nWhile SCP-2797 were intended to be used in cellular surgery and artificial organ manufacture, they are unable to perform these activities due to their scale and physical limitations.\n\n[[footnoteblock]]\n\n[[div class=\"footer-wikiwalk-nav\"]]\n[[=]]\n<< [[[SCP-2796]]] | SCP-2797 | [[[SCP-2798]]] >>\n[[/=]]\n[[/div]]",
+  "tags": [
+    "_cc",
+    "animal",
+    "biological",
+    "euclid",
+    "prometheus",
+    "rodent",
+    "sc2015",
+    "scp"
+  ],
+  "author": "anqxyr",
+  "created_at": "2015-07-24T07:31:19+00:00",
+  "updated_at": "2022-10-08T18:37:49+00:00",
+  "rating": 193,
+  "_site": "scp-wiki",
+  "_fullname": "scp-2797"
+}

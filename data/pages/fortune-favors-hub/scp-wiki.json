@@ -1,0 +1,18 @@
+{
+  "title": "Fortune Favors",
+  "content": "[[module CSS]]\n\n#page-title,\n.meta-title {\n    display: none;\n}\n\n[[/module]]\n\n[[>]]\n[[module Rate]]\n[[/>]]\n\n[[include :scp-wiki:component:author-label-source start=--\n|name=Calibold\n|no-right-margin=*]]\n[[=]]\n[[module ListPages range=\".\"]]\n**%%title%%**\n[[/module]]\n\n**[[[Calibri Bold's Mega Cool Author Page|Calibold's Mega Cool Author Page]]]**\n[[/=]]\n[[include :scp-wiki:component:author-label-source end=--]]\n\n[[=]]\n\n> + FORTUNE FAVORS\n> \n> //Calvin Bold is afraid. He's afraid to lose his position in the Foundation. He's afraid to leave someone untrustworthy to terminate anomalies. He's afraid of being useless and cumbersome. He's afraid of dying.//\n> \n> //Unfortunately, the Foundation is not a place where being afraid is valuable or useful. It is a front against the unknown and the dangerous.//\n> \n> //Calvin has two goals.//\n> \n> //1. Overcome his own fear.//\n> //2. Get everything under control.//\n\n[[=image https://scp-wiki.wdfiles.com/local--files/calibri-s-mega-cool-art-page-it-s-mostly-just-icons-but-what/Dr.%20C.%20Bold style=\"width:50%;\"]]\n\n@@ @@\n@@ @@\n@@ @@\n@@ @@\n\n++++ Setting a Stage\n\n> [[[A Bold Choice]]]\n> \n> [[[Responsible Promotion]]]\n> \n> [[[SCP-4456|SCP-4456-D: Spanish Decommission]]]\n> \n> [[size 75%]]↳ Extra: [[[Manifest 476|Manifest 476: Vanishing Galleon]]][[/size]]\n> \n> [[[Mission Decommission|Mission: Decommission]]]\n> \n> [[size 75%]]↳ Extra: [http://wanderers-library.wikidot.com/remnant-of-another-future Remnant Of Another Future] (WL)[[/size]]\n\n[[include :scp-wiki:more-by:calibold]]\n\n[[include :scp-wiki:component:license-box]]\n=====\n> **Filename:** http://scp-wiki.wdfiles.com/local--files/calibri-s-mega-cool-art-page-it-s-mostly-just-icons-but-what/Dr.%20C.%20Bold\n> **Name:** Dr. C. Bold\n> **Author:** Andrew Bosley\n> **License:** CC-by-SA 3.0\n> **Source Link:** http://scp-wiki.wdfiles.com/local--files/calibri-s-mega-cool-art-page-it-s-mostly-just-icons-but-what/Dr.%20C.%20Bold\n=====\n[[include :scp-wiki:component:license-box-end]]",
+  "tags": [
+    "_cc",
+    "_licensebox",
+    "_tale-hub",
+    "decommissioning-dept",
+    "director-bold",
+    "hub"
+  ],
+  "author": "Calibold",
+  "created_at": "2021-04-24T05:35:23+00:00",
+  "updated_at": "2024-10-23T07:25:31+00:00",
+  "rating": 41,
+  "_site": "scp-wiki",
+  "_fullname": "fortune-favors-hub"
+}

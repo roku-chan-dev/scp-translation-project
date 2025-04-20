@@ -1,0 +1,15 @@
+{
+  "title": "空白(ハブ)",
+  "content": "[[include theme:scp-trans-pride |trans-pride-logo= --]]]\n[[include credit:start]]\n**タイトル:** [[[https://scp-wiki.wikidot.com/white-space-hub|white space (HUB)]]]\n**リビジョン:** 17\n**著者:** [[*user Nagiros]]\n**作成年:** 2020\n[[include credit:end]]\n[[div class=\"blockquote\" style=\"padding-top: 10px; margin-bottom: 100px;\"]]\n[[=]]\n+++ \"成長のための成長はがん細胞のイデオロギーである。\"\n[[/=]]\n[[>]]\n//**— エドワード アビー**//, 無政府主義者 兼 環境論者, **1977**.\n[[/>]]\n[[/div]]\n\n[[div class=\"main-text\"]]\n財団業務における人間の関与の必要性はかなり昔から徐々に薄れてきた。率直に言って、我々は血肉通う人間を形式を満たすために少数のみ雇っている。常にそうであったわけではない ―かつて人々は何かを//意味//していた― しかし、我々が生きる現代はそのような世界なのだ。\n\n[[span class=\"ruby\"]]人外[[span class=\"rt\"]]ポストヒューマン[[/span]][[/span]]の世界において、人は詩の節間の空白に支配され消費されている。\n\nオートメーションイニシアチブの後、我々は封じ込めを続けた。何故なら我々が得意とすることであるからだ。そして我々は密やかで素早い世界の支配を好んだ。しかしあらゆる他の物事が//鈍く//感じられた。誰かを賞するメダル、食堂から聞こえる笑い声、我々のしていることが本当に大事な事であるという感覚は最早なかった。\n\n空には電波雑音の雫があるのみ ― 我々の頭の死に絶えたチャンネルは無の思考を強制した。\n\n我々のサイトを運営するオートマトンは形而上粘土壺が雑音の中に埋まっていると我々に語った。しかし壺は他の言語で話すことにより我々の頭脳から秘密を漏れさせていた。故に我々は言語も徐々に使わなくなった。我々はより多くを見出すために深みを探究し、我々が人間以外の全てに成り果てるまでその道に沿って我々の正常性についての理解を訂正していった。\n\nそれは勇敢な拷問された鉄とコンクリートの世界であり、神の頭脳を持つエイリアンに変じたヒトによって運営されていた。我々の神聖なる自己カニバリゼーション中に我々は死に絶えた空を見た。そして我々は現実化を、具現化を、実質を、形状を、真実を、//人間//を、[[span class=\"ruby\"]]冀[[span class=\"rt\"]]こいねが[[/span]][[/span]]った。\n\n[[div style=\"margin: 80px auto; text-align: center\"]]\n**そして、静止した叫ぶ者は我々にアスタロトを与えた。**\n[[/div]]\n\nかつて財団には終わりがないと言われた。しかし、もし我々が終わらせたならば ― もし我々が世界の全ての問題の各々全てに対する解答を持ったならば ― あなたはその時我々を信じられるだろうか？\n\n@@ @@\n@@ @@\n@@ @@\n\n+ [[[slipping-away|来世蛇 /// ザ・ファウンデーション・オーバーヘブン]]]\n\n+ [[[the-eschaton|蛇の拘束 \\\\\\ 証言提示]]]\n\n+ [[[scp-4736|デッドウェイト ≡ バイブを殺すな]]]\n\n+ [[[Nagiros' Proposal | R ¦ A ¦ G ¦ E]]]\n\n@@ @@\n@@ @@\n@@ @@\n\n[[=]]\n+ 支部作品\n\n+ [[[ethic|メモ ::: 何一つ問題はなくなる]]]\n[[/=]]\n[[/div]]\n\n[[div style=\"height: 25px\"]]\n[[/div]]\n\n[[footnoteblock]]\n[[module CSS]]\n/* INCREASING WHITE SPACE */\n.main-text > p {\n  font-size: 105%;\n  margin: 40px auto;\n}\n\n/* LINKS */\n.main-text a {\n  background: #dedede;\n  border: 4px solid #aaa;\n  margin: 60px 0;\n  transition: 0.75s;\n  display: block;\n  padding: 15px 10px;\n  text-align: center;\n}\n.main-text a:hover {\n  background: rgb(0,0,0,0);\n  border: 4px solid rgb(0,0,0,0);\n}\n[[/module]]",
+  "tags": [
+    "en",
+    "ハブ",
+    "深淵目録"
+  ],
+  "author": "pcysl",
+  "created_at": "2022-06-08T03:01:30+00:00",
+  "updated_at": "2022-12-21T00:03:51+00:00",
+  "rating": 33,
+  "_site": "scp-jp",
+  "_fullname": "white-space-hub"
+}

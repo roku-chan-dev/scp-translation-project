@@ -1,0 +1,19 @@
+{
+  "title": "SCP-8630",
+  "content": "[[module CSS]]\n\n@media (max-width: 400px) {\n    .image8630 .scp-image-block {\n        margin: auto;\n        float: unset;\n    }\n}\n\n[[/module]]\n\n[[>]]\n[[div style=\"font-size: 90%; margin-top: -20px; margin-right: 2em;\"]]\n@@@@\n**⏲** 阅读时长 3分钟\n[[/div]]\n[[/>]]\n\n[[div class=\"image8630\"]]\n[[include component:image-block name=https://scp-wiki.wdfiles.com/local--files/scp-8630/8630.jpg| caption=佩戴中的SCP-8630。| width=200px|alt=alt|alt-text=一只被人佩戴的白色无指皮革手套。\n]]\n[[/div]]\n\n**项目编号：**SCP-8630\n\n**项目等级：**Safe\n\n**特殊收容措施：**SCP-8630存放于Site-02的标准异常物品收容单元中。对该项目的测试需由至少一名监督者发起，且需取得Site-02管理人员的批准。测试期间不得有监督者在场。\n\n应持续推进8630/1（“炫目红宝石”）行动，以掩盖SCP-8630的起源。如需更多信息，请查阅相关文档。\n\n----\n\n**描述：**SCP-8630指代一只制造于1962年的白色无指皮革手套。尽管获取项目的时间相对较早，但其仍因年代久远而显示出明显的磨损迹象。项目表现出与大多数异常现象相一致的异常休谟波动，但不存在更多可侦测的反常之处。\n\nSCP-8630的异常性质在有人佩戴手套进行飞镖游戏时激活。当一名个体尝试使用SCP-8630将飞镖掷向目标时，无论飞镖的初始动量或使用者的投掷能力如何，飞镖都将直接落在其目标上。这一效果通常是藉由各类事件实现的，这些事件的不可能程度与飞镖的初始条件能使其自然抵达目标处的概率呈负相关。\n\n激活SCP-8630所需的“飞镖游戏”之定义较为模糊。目前，认为以下标准是异常发生的条件：\n\n* 随SCP-8630运动的物体必须是用于某类体育运动的投射物；\n* 目标必须处于投掷者的视线范围当中；\n* 投掷者必须认为当前的情况可以在某种程度上被认作“飞镖游戏”。\n\n只要以上三项条件得到满足，投掷出的物体将在大约五秒之内落在指定的目标上。参看[[[scp-8630-testing-log|SCP-8630测试记录]]]以获取实例。\n\n在投射物与其预定目标相撞后，无法再识别出更多异常性质。\n\n@@ @@\n\n[[collapsible show=\"+ 仅限持有 8630/炫目红宝石 权限者阅读\" hide=\"– 授权通过\"]]\n@@ @@\n**发现：**1963年11月22日，在约翰·F·肯尼迪总统遇刺后不久，于德克萨斯学校藏书库六楼发现了SCP-8630，另有一支曼利舍·卡尔卡诺步枪。\n\n需注意，尽管目击者听到了三次枪声，但在狙击手的藏身之处只发现了一颗弹壳。参看8630/1行动简报以获取更多细节。\n\n[[/collapsible]]\n@@ @@\n[[footnoteblock]]\n\n[[=]]\n[[div class=\"footer-wikiwalk-nav\"]]\n<< [[[SCP-8629]]] | SCP-8630 | [[[SCP-8631]]] >>\n[[/div]]\n[[include :scp-wiki-cn:component:license-box\n| author = Yossipossi\n]]\n[[<]]\n=====\n> **文件名：**8630.jpg\n> **图像名：**White leather fingerless cycling glove\n> **图像作者：**Lewis Ronald\n> **授权协议：**CC BY-SA 3.0\n> **来源链接：**[https://commons.wikimedia.org/wiki/File:White_leather_fingerless_cycling_glove.jpg Wikimedia Commons]\n=====\n[[/<]]\n[[include :scp-wiki-cn:component:license-box-end]]\n[[/=]]",
+  "tags": [
+    "safe",
+    "scp",
+    "体育",
+    "喜剧",
+    "政治家",
+    "概率性",
+    "衣物"
+  ],
+  "author": "LeeBr",
+  "created_at": "2024-12-04T05:02:15+00:00",
+  "updated_at": "2024-12-04T05:02:24+00:00",
+  "rating": 4,
+  "_site": "scp-wiki-cn",
+  "_fullname": "scp-8630"
+}

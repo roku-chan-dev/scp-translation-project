@@ -1,0 +1,19 @@
+{
+  "title": "SCP-CN-2550",
+  "content": "[[include :scp-wiki-cn:theme:paperstack]]\n[[include :scp-wiki-cn:credit:start]]\n大家好啊这里是fw，这篇是我的老点子了，终于把它从灰里揪了出来，在最开始的设想上改了许多，希望能够活下来罢qwq。\n\n感谢[[*user Agonark]]帮忙看了稿。\n[[=]]\n[http://scp-wiki-cn.wikidot.com/fwuntidy-is-a-ghost fw的人事页]\n[[/=]]\n[[include :scp-wiki-cn:credit:end]]\n[[module ListPages category=\"fragment\" parent=\".\" limit=\"1\" order=\"created_at\" offset=\"@URL|0\"]]\n\n%%content%%\n\n[[/module]]\n[!-- http://scp-wiki-cn.wikidot.com/fragment:scp-cn-2550-1 --]\n[!--http://scp-wiki-cn.wikidot.com/fragment:scp-cn-2550-2 --]",
+  "tags": [
+    "keter",
+    "k级情景",
+    "scp",
+    "传染性",
+    "原创",
+    "反熵",
+    "种群"
+  ],
+  "author": "fwUntidy",
+  "created_at": "2021-06-28T12:12:52+00:00",
+  "updated_at": "2021-06-28T12:27:19+00:00",
+  "rating": 36,
+  "_site": "scp-wiki-cn",
+  "_fullname": "scp-cn-2550"
+}

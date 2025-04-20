@@ -1,0 +1,22 @@
+{
+  "title": "SCP-5297",
+  "content": "[[include :scp-jp:theme:simple-yonder]]\n\n[[include :scp-jp:credit:start]]\n[[<]]\n**タイトル:** SCP-5297 - ジャム爆弾\n**原著者:** [[*user DodoDevil]]\n**オリジナル:** [https://scp-wiki.wikidot.com/scp-5297 SCP-5297] - JamBomb\n**翻訳者:** [[*user DirStarFish]]\n**作成年:** 2021年\n**査読者:** [[*user oplax-counterpoint ]]及び[[*user kuromituzatou]]\n**参照リビジョン:** rev.19\n[[/<]]\n[[include :scp-jp:credit:end]]\n\n[[module CSS]]\n\n.email {float: center; border: solid 2px #000000; width: 88%; padding: 1px 15px; margin: 10px 10px 10px 10px; box-shadow: 0 1px 3px rgba(0,0,0,.5)}\n\na.collapsible-block-link { font-weight: bold; }\n\n.tofrom {margin-left: 10px; margin-top: 5px; padding: 1px 15px; border-left: solid 3px maroon}\n\n[[/module]]\n\n[[include :scp-jp:component:advanced-information-methodology blocks=-\n|XXXX=5297\n|lv=four\n|cc=EUCLID\n|dc=VLAM\n]]\n\n-----\n[[include component:image-block name=http://scp-jp-storage.wdfiles.com/local--files/file:6734327-110-10ta/Jam1.jpg|align=right|caption=SCP-5297の影響を受けた樹々に由来するジャム用果実を収めていた、蓋のない土器。]]\n\n**特別収容プロトコル:** SCP-5297の実用的知識の保持を疑われる組織への調査は進行中です。SCP-5297の活性成分を生み出す能力や方法を知る未確認の当事者が確認されるイベント時において、財団職員は活動を阻止し、尋問のために該当する人物全員を拘留しなければなりません。\n\n**説明:** SCP-5297はダエーバイト起源と推定される一連の奇跡術記号です。当初想定された用途において、記号は樹木魔術の儀式の一環として果樹の樹皮に刻み込まれていたと思われます。刻印が完了すると、樹木に実る果実の生長は著しく速くなり、様々な奇跡生物や発症の恐れがある病に対する例を見ない耐性を有します。加えてSCP-5297に影響された果実由来のジャムは、自然界の腐敗や細菌の増殖に対する異常なまでの耐性を獲得します。[[footnote]]財団の考古学研究によって、SCP-5297が刻印された樹木が育てられているダエーバイトの樹木園と推測される場所から、現代においても食用に堪えうるジャムの入った土器が複数点出土しています。[[/footnote]]\n\n記号の刻印の中断と誤用は予測不能かつ不安定な異常効果を招きます。誤用の1つは2020/7/18[[footnote]]補遺-A1: 5297_18/07/2020参照[[/footnote]]に発生し、SCP-5297の構成要素が大規模で利用され、民間団体に流通している可能性を財団が認識するに至りました。\n\n**補遺-A1: 5297_18/07/2020** 第一対応者の未解明の失踪を引き起こした、ノバスコシア州[[footnote]] 訳注: カナダ東部の州。後の箇所に出てくるトルロも同州北東部実在の都市である。[[/footnote]]トルロにあるファッカー社の果物加工場での爆発が報告された後、財団の[[[secure-facility-dossier-site-184|サイト-184]]]より対応チームが出動しました。チームの報告から加工場が正体不明の紫色の物質で溢れかえっていると判明しました。加えてチーム到着後には、複数人のグループが現場に居合わせており、改造ピックアップトラック複数台で物質を回収しようとしていました。同集団は回収物の放棄や指示への服従を拒絶し、対応中の財団職員は援軍を要請しました。交渉中、労働者の1人が滑り、物質の中に転げ落ちました。労働者の身体は2分間の内に急速に、前述の物質と見た目が一致する同等の質量の塊へと変容しました。注意が薄くなっている間に、他の労働者はトラックに乗り込み、財団職員からの逃亡に成功しました。\n\n10時間後、事後実験によって、この変容の原因となった異常性質は正体に関係なく無力化したという見方が証明されました。この時点で、MTFベータ-7(\"マズ帽子店\")の出動が承認されていました。ベータ-7は工場に急行しましたが、ファッカー社銘柄のブドウジェリーと化学成分が一致していると後日判明した大量の紫色の物質以外に、有機物は一切見られませんでした。工場の全面的捜査活動中、SCP-5297の断片的記号が様々な加工機械に刻印されているのが判明しました。\n\n工場長室内にて、ベータ-7はメッセージが記された閲覧済みのメールが表示されているのを発見しました。ファッカー社銘柄のブドウジェリーが大量に工場長のコンピューター及びサーバールームから発見されたため、これ以上のデータは発見できずに終わりました。同社に関する調査が進行中です。\n\n[[div class=\"email\"]]\n[[div class=\"tofrom\"]]\n**To:** wsmith@phuckers.ju\n**From:** J@phuckers.ju\n**件名:** このクソッタレ\n[[/div]]\n------\n見ろよ、心配するなって。\n\n俺達のトコの研究成果が流出したらコンピューターから消してしまえばいいって今しがた分かっただろ。何にせよ、俺は全く知らない。\n\n俺達のここでの稼ぎを掴んだボンの奴をこのまま野放しにしておくわけにはいかねえ。\n\n前みたく後始末をしてくれる人員を複数派遣しておくぜ。名製品を完璧に処分しきれそうにないからな。\n\n- J.\n[[/div]]\n\n@@ @@\n\n[[footnoteblock]]\n[[div class=\"footer-wikiwalk-nav\"]]\n[[/div]]\n\n[[include :scp-jp:component:license-box\n|author=DodoDevil]]\n=====\n> **ファイル名:** Jam1.jpg\n> **タイトル:** Utencil-tamil-clay pots-kalayam.jpg\n> **著作権者:** Info-farmer\n> **ライセンス:** Public Domain\n> **ソース:** https://search.creativecommons.org/photos/afb708cd-82e8-4db9-9f7b-695ef4b1509e\n=====\n[[include :scp-jp:component:license-box-end]]",
+  "tags": [
+    "_有名フラグ",
+    "daevite",
+    "en",
+    "euclid",
+    "jam-con2021",
+    "scp",
+    "植物",
+    "樹木",
+    "記述",
+    "食物"
+  ],
+  "author": "DirStarFish",
+  "created_at": "2024-10-31T14:18:48+00:00",
+  "updated_at": "2024-12-27T23:30:17+00:00",
+  "rating": -1,
+  "_site": "scp-jp",
+  "_fullname": "scp-5297"
+}

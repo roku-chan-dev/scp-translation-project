@@ -1,0 +1,15 @@
+{
+  "title": "被要求安静时不是指永远不发声——定命种模仿者事例集",
+  "content": "[[>]]\n[[module Rate]]\n[[/>]]\n\n=====\n\n[[div class=\"preview\"]]\n好啦我闭嘴就是了啦！\n[[/div]]\n[[module CSS]]\ndiv.preview { display: none; }\n[[/module]]\n\n=====\n\n[[module CSS]]\n \n#header h1 a::before {\n    content: \"定命种模仿者事例集\";\n    color: black;\n}\n \n#header h2 span::before {\n    content: \"与转瞬即逝者共存\";\n    color: black;\n}\n/* REMAKE THE HEADER */\nh1, #page-title {\n    color: black;\n}\n \n#page-title {\n    border-color: black;\n}\n \ndiv#container-wrap {\n    background: none;\n}\n \ndiv#extra-div-1 {\n    height: 22px;\n    width: 100%;\n    top: 140px;\n    position: absolute;\n    background: black;\n}\n \n#header {\n    background-image: url('https://scp-wiki.wdfiles.com/local--files/theme%3Aminimal/minimal.svg');\n    background-size: 6rem;\n}\n \n@media (max-width: 580px) and (min-width: 480px) {\n    #header {\n        background-position: 0.5em 4.5em;\n        background-size: 66px 66px;\n    }\n}\n \n@media (max-width: 479px) {\n    #header {\n        background-position: 0 5.5em;\n        background-size: 55px 55px;\n    }\n}\n \n#header h1 a {\n    color: transparent;\n    text-shadow: none;\n}\n \n#header h2 span {\n    color: transparent;\n    text-shadow: none;\n}\n\n\n\n[[/module]]\n###6495ed|登记日期##：2024/4/30\n###6495ed|标签##：[# 不应该做的事] [# 时间观念] [# 人类] [# 兴趣] [# 社会规则]\n\n@@ @@\n\n+ 5W1H+Then情况说明\n\n\n|| Who(何人) || 笔者（不死者，拟态型） ||\n|| When(何时) || 约30年前 ||\n|| Where(何地) || 在公共图书馆里 ||\n|| Why(为何) || 在历史书里看到“考古”一词而大笑的时候被坐在旁边的定命种要求“安静一点” ||\n|| How(如何) || 把以前顺手捏的发声器官消化掉了 ||\n|| What(何事) || 被鉴定为永久性失声了，同居的定命种哭了好几个月 ||\n|| Then(后来) || 最近了解到发出请求的那个定命种去世了，于是重新说话了 ||\n\n@@ @@\n\n@@ @@\n\n\n+ 行动中断原因\n\n* 没有意识到“安静一点”不是长期请求\n* 医生的鉴定报告不是请求的强化\n\n@@ @@\n\n@@ @@\n\n+ 应该怎样做\n\n* 不要把医院当成大型角色扮演场所，所以去那里之前就应该开口说自己痊愈了\n* 只有图书馆和自己的葬礼上才是不可以发出声音的\n\n\n@@ @@\n\n@@ @@\n\n+ 备注\n\n* 捏不出30年前的那个声带了，喜欢的音色没有了，难过\n* 同居的定命种又哭了，但是她说自己很高兴，于是也高兴起来了\n\n\n\n\n\n@@ @@\n\n@@ @@\n+ 相关投稿（以标签为参考）\n\n* [# 看到定命种站在楼顶上时不要让他直接跳下来]\n* [# 定命种说“造小孩”时不是真的制造一个婴儿]\n* [# 玩潜水活动被要求戴上氧气瓶时不要问为什么]\n* [# 不要看电视机上的雪花屏看得津津有味]\n* [# 定命种朋友邀请说“出去玩”的意思是仅限在地表上]\n* [# 不要当着定命种的面调整眼球的位置]\n\n\n\n@@ @@\n\n\n[[=]]\n**<<[# 上厕所的相隔时间最好不要超过两天]|[# 熊猫不是可以养的宠物]>>**\n[[/=]]",
+  "tags": [
+    "2024噤声短文竞赛",
+    "原创",
+    "故事"
+  ],
+  "author": "Kanie Ja",
+  "created_at": "2024-04-30T07:43:38+00:00",
+  "updated_at": "2025-03-06T04:06:44+00:00",
+  "rating": 121,
+  "_site": "scp-wiki-cn",
+  "_fullname": "mortal-emulator-quiet"
+}

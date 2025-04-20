@@ -1,0 +1,23 @@
+{
+  "title": "SCP-5153",
+  "content": "[[include :scp-jp:theme:black-highlighter-theme]]\n[[include :scp-wiki:component:bhl-dark-sidebar]]\n[[module CSS]]\n:root{\n--cutColour: #fafafa;\n--barColour: #590505;\n}\n\n.info-container .collapsible-block-folded a{\ncolor: #FFF;}\n.info-container .collapsible-block-unfolded-link a{\ncolor: #FFF;}\n\n.translation_block{\ndisplay:none;}\n[[/module]]\n\n[[include :scp-wiki:info:start]]\n__**SCP-5153:**__ The Meteor Who Cried Wolf / 「隕石が来たぞーッ！」\n**著者:** [[*user TheMightyMcB]]\n\n**もっと読みたい人のために:**\n* [http://www.scp-wiki.net/themightymcb-s-author-page TheMightyMcBの著者ページ]\n\n**スペシャルサンクス:**\n* [[*user DrAkimoto]]\n* [[*user rattles]]\n* [[*user Crashington]]\n* [[*user Oboebandgeek99]]\n\n[[include :scp-wiki:info:end]]\n\n[[module ListPages category=\"fragment\" parent=\".\" order=\"created_at\" limit=\"1\" offset=\"@URL|0\"]]\n%%content%%\n[[/module]]\n\n[!-- For translators, here is a direct link to each iteration. --]\n[!-- http://www.scp-wiki.net/fragment:scp-5153-0 --]\n[!-- http://www.scp-wiki.net/fragment:scp-5153-1 --]\n[!-- http://www.scp-wiki.net/fragment:scp-5153-2 --]\n[!-- http://www.scp-wiki.net/fragment:scp-5153-3 --]\n[!-- http://www.scp-wiki.net/fragment:scp-5153-4 --]\n[!-- To make ListPages work correctly, make this main page first, then upload the first iteration and set its parent to the first page. Repeat that for each iteration. Remember to change the offset links at the bottom of each iteration to the correct link for the new pages you have created. --]",
+  "tags": [
+    "_大爆発",
+    "asci",
+    "en",
+    "safe",
+    "scp",
+    "ペンタグラム",
+    "ループ",
+    "世界オカルト連合",
+    "岩石",
+    "瞬間移動",
+    "空中"
+  ],
+  "author": "C-Dives",
+  "created_at": "2020-04-18T16:52:54+00:00",
+  "updated_at": "2024-02-21T12:32:46+00:00",
+  "rating": 159,
+  "_site": "scp-jp",
+  "_fullname": "scp-5153"
+}

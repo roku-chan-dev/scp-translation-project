@@ -1,0 +1,22 @@
+{
+  "title": "SCP-6185",
+  "content": "[[include :scp-jp:theme:black-highlighter-theme]]\n[[include :scp-jp:theme:jakstyle]]\n[[module CSS]]\n.document {\n    background: white url('http://scpdsandbox.wdfiles.com/local--files/darkartist-s-hub-for-drafts-or-whatever/sphere%20smells%20like%20fart%20sometimes') center center no-repeat;\n    box-shadow: 0 0 10px rgba(0, 0, 0, 0.3);\n    margin: 26px auto 0;\n    max-width: 550px;\n    min-height: 300px;\n    padding: 24px;\n    padding-top: 50px;\n    position: relative;\n    width: 80%;\n    color: black;\n}\n \n.document:before,\n.document:after {\n    content: \" \";\n    height: 98%;\n    position: absolute;\n    width: 100%;\n    z-index: -1;\n}\n \n.document:before {\n    background: #fafafa;\n    box-shadow: 0 0 8px rgba(0, 0, 0, 0.2);\n    left: -5px;\n    top: 4px;\n    transform: rotate(-2.5deg);\n}\n \n.document:after {\n    background: #f6f6f6;\n    box-shadow: 0 0 3px rgba(0, 0, 0, 0.2);\n    right: -3px;\n    top: 1px;\n    transform: rotate(1.4deg);\n}\n[[/module]]\n\n[[>]]\n[[module Rate]]\n[[/>]]\n\n\n[[include :scp-jp:component:anomaly-class-bar-source\n|item-number= 6185\n|clearance= 2\n|container-class= euclid\n|secondary-class= none\n|disruption-class= dark\n|risk-class= caution\n]]\n\n------\n\n**特別収容プロトコル:** SCP-6185の周辺を鉄製のフェンスで囲み、収容エリアを森林警備隊に扮した指定の警備員一人に監視させてください。前述の警備員は民間人の収容エリアへの接近を防ぐためのものです。\n\nSCP-6185の収容エリアはSCP-6185‐Aが健康的な生育状態を保つために巡回してください。必要に応じて水やりや追肥のようなSCP-6185‐Aの生育状態を維持するための処置が執ってください。\n\nSCP-6185-Bとの接触は最小限にとどめられます。SCP-6185-AへのSCP-6185-Bの積極的な振る舞いは全て有害なものではないと考えられるため、対応をとる必要はありません。\n\n**説明:** SCP-6185は2種の異常な物品群の総称です。SCP-6185-Aは高さ0.4メートルの分類不明な落葉性の樹木の苗木です。SCP-6185-Aの主となる異常性は、自身に物理的接触を試みた人に対して恐怖を感じさせ萎縮させることです。[[footnote]]この影響は道具を用いた物理的接触にも適用されます。 [[/footnote]] この異常な影響により、SCP-6185-Aに関する情報を集める全ての試みは失敗に終わりました。\n\nSCP-6185-Bは故ペニー・クーパー氏のものであると考えられる実体を持たない右手と左手です。SCP-6185-Bはともに指による移動能力があり、互いの動きを補助することで地形や周辺環境に合わせて運動します。SCP-6185-Bはともに緩やかな腐敗の兆候を示していますが、組織の崩壊は発見以前のある時点で終了したものと推測されます。\nSCP-6185-BはSCP-6185-Aに対して保護しようとする行動を執りますが、SCP-6185-Bの行動は攻撃性を持たないため、脅威とはみなされません。\n\n**発見経緯:** SCP-6185は失踪したペニー・クーパー氏と彼女の新生児を捜索する際に発見されました。クーパー氏は彼女の家から数百ｋｍ離れた小屋にて死亡した状態で発見されました。クーパー氏の遺体の特筆すべき点として両手の欠損が見られます。クーパー氏が生前に記していたメモから死因は自殺と断定されました。クーパー氏の子供は前述の場所では見つかっておらず、現在も失踪中です。SCP-6185自身は民間人の通報によって付近の森林伐採地の近くで発見されました。現在の収容プロトコルはSCP-6185との初期収容措置と標準民間人記憶処理の後に確立されました。\n\n**補遺 6185/1:** 以下はペニー・クーパー氏の住居から発見されたメモの抜粋です。\n\n[[collapsible show=\"抜粋6185/1を開く\" hide=\"抜粋6185/1を閉じる\"]]\n> キャサリン、あなたはとうとうこのメモを見つけたようですね。私は今、あなたに謝りたい気持ちでいっぱいです。私はあなたが自分の子供を欲しがっていたことを痛い程分かっています。これまで、私は子供を持つことについて気を揉むような経験はしたことはありません。もちろん、今までも、これからも、あなたは私の友達であり、当然私はあなたの力になりたいと思っています。しかし今、私はこの娘を手放すことができなくなっています。この娘はまだ生まれてすらいませんが、あなたの子供を欲していた気持ちが私にはひしひしと感じられます。あなたがこれを見つけたときに感じる怒りや悲しみを私はよく知っています。本当にごめんなさい。私は「私の」赤ちゃんと離れることなど想像すらできないのです。\n> もしかしたら、何者かがある程度までこのことを嗅ぎつけているかもしれません。私が何とかしなきゃ、この子は私から引き離されてしまうでしょう。あなたが私を許してくれるだろうとは思いません、けど私は、私の手で、この子を永遠に守ることをあなたに約束します。私だけがあの子に手を差し伸べることができます。「私の」子に。誰一人としてあの子を私から引き離すことはできないだろうし、もし私があの子に触れられないようなことがあれば、なおさら誰も触れられないでしょう。あの子は安全なの。\n> –ペニー\n[[/collapsible]]\n\n**補遺 6185/2: 添付ファイル**\n\n@@ @@\n\n[[div class=\"document\"]]\n\n+++ 人事管理部門 — 休暇願\n\n**氏名:** グレゴリー・ホプキンス\n**職員ID:** 25519\n**サイト:** 197\n**担当:** SCP-6185\n**理由:** あれは私に話しかけてきました。私の名前を呼んできました。あれが発した初めての言葉です。自分の息子が口に出した言葉を聞くより先に、私はあれの第一声を聞いたのです。私には、家で息子と過ごす時間が必要です。\n\n**休暇期間:** 2021年8月13日から2021年8月31日まで\n\n**申請日時:** 2021年8月5日\n\n[[table style=\"border: none; width: 100%;\"]]\n[[row]]\n[[cell]]\n**署名 (申請者)**\n[[/cell]]\n[[cell style=\"text-align: right;\"]]\n**署名 (部門代表)**\n[[/cell]]\n[[/row]]\n[[/table]]\n\n                           \n\n[[/div]]\n\n@@ @@",
+  "tags": [
+    "en",
+    "euclid",
+    "scp",
+    "人間型",
+    "体肢",
+    "植物",
+    "死体",
+    "移動",
+    "精神感応",
+    "触覚"
+  ],
+  "author": "KABOOM1103",
+  "created_at": "2022-06-24T16:18:33+00:00",
+  "updated_at": "2024-02-21T12:27:37+00:00",
+  "rating": 0,
+  "_site": "scp-jp",
+  "_fullname": "scp-6185"
+}

@@ -1,0 +1,15 @@
+{
+  "title": "Site-91版式",
+  "content": "[[iftags +版式]]\n _\n[[div style=\"border: 1px solid #ddd; padding: 1em;\"]]\n++ 说明\n\n本版式用于设定**[[[zlata-klec-hub|金色鸟笼]]]**。\n\n作者[[*user chamik]]。\nLogo作者[[*user LilyFoxyLu]]。\n\n++ 使用\n\n[[div class=\"code\"]]\n@@[[include :scp-wiki-cn:theme:oblast-91]]@@\n[[/div]]\n[[/div]]\n[[/iftags]]\n[[div [[iftags -版式]]style=\"display: none\"[[/iftags]]]]\n-----\n[[collapsible show=\"+ 展开版式代码\" hide=\"- 收起版式代码\"]]\n[[module CSS show=\"true\"]]\n:root {\n    --light-accent: #db7100;\n    --dark-accent: #ac5902;\n    --ct_fns_alt-header-txt: 43.8px;\n    --ct_fns_alt-slogan-txt: 13.4px;\n}\n\n#page-title,\n.meta-title {\n   color: var(--dark-accent);\n}\n \nh1 {\n   color: var(--dark-accent);\n}\n \na, a .newpage, a:visited {\n   color: var(--dark-accent);\n}\n\n#side-bar a, #side-bar a .newpage, #side-bar a:visited {\n   color: var(--dark-accent) !important;\n}\n \n#header {\n   background-image: url('http://scp-cs.wdfiles.com/local--files/theme%3Aoblast-91/logo_white.png');\n}\n \n#header h1 a {\n   font-size: 0;\n}\n \n#header h2 span {\n   font-size: 0;\n}\n \ndiv#container-wrap {\n   background-image: url('http://scp-cs.wdfiles.com/local--files/theme%3Aoblast-91/moar_orange_body_bg.png');\n}\n \n#header h1 a::before {\n   content: \"Site-91\";\n   font-size: var(--ct_fns_alt-header-txt);\n}\n \n#header h2 span::before {\n   content: \"Site-91什么也没有发生。\";\n   font-size: var(--ct_fns_alt-slogan-txt);\n}\n \n.yui-navset .yui-nav .selected a, .yui-navset .yui-nav .selected a:focus, .yui-navset .yui-nav .selected a:hover {\n   background: var(--dark-accent);\n}\n \n#side-bar .heading {\n   color: var(--light-accent);\n}\n \n#side-bar .collapsible-block-unfolded-link {\n   border-bottom: 1px solid var(--light-accent);\n}\n \n.scp-image-block {\n   border: 1px solid var(--light-accent);\n}\n\n.side-block {\n   border-color: var(--light-accent) !important;\n}\n \n@media screen and (max-width: 979px) {\n   #header {\n      background-size: 88px 88px;\n   }\n   #header h1 a::before {\n      font-size: 38.9px;\n   }\n}\n \n@media screen and (max-width: 761px) {\n   #header {\n      background-size: 77px 77px;\n   }\n   #header h1 a::before {\n      font-size: 34px;\n   }\n   #header h2 span::before {\n      font-size: 11px;\n   }\n}\n \n@media screen and (max-width: 580px) {\n   #header {\n      background-size: 66px 66px;\n   }\n   #header h1 a::before {\n      font-size: 29.2px;\n   }\n   #header h2 span::before {\n      font-size: 10px;\n   }\n}\n \n@media screen and (max-width: 479px) {\n   #header {\n      background-size: 55px 55px;\n   }\n   #header h1 a::before {\n      font-size: 24.3px;\n   }\n}\n[[/module]]\n[[/collapsible]]\n[[/div]]",
+  "tags": [
+    "cs",
+    "版式",
+    "金色鸟笼"
+  ],
+  "author": "Cambrian White",
+  "created_at": "2022-09-23T02:39:38+00:00",
+  "updated_at": "2022-09-23T02:41:49+00:00",
+  "rating": 1,
+  "_site": "scp-wiki-cn",
+  "_fullname": "theme:oblast-91"
+}

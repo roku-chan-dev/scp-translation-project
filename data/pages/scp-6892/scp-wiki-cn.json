@@ -1,0 +1,18 @@
+{
+  "title": "SCP-6892",
+  "content": "[[module CSS]]\n.email-example .collapsible-block-folded a.collapsible-block-link {\n    animation: blink 0.8s ease-in-out infinite alternate;\n}\n@keyframes blink {\n    0% { color: transparent; }\n    50%, 100% { color: #b01; }\n}\n.email {border: solid 2px #000000; width: 88%; padding: 1px 15px; margin: 10px; box-shadow: 0 1px 3px rgba(0,0,0,.5)}\n.email-example a.collapsible-block-link {font-weight: bold;}\n.tofrom {margin-left: 10px; margin-top: 5px; padding: 1px 15px; border-left: solid 3px maroon}\n[[/module]]\n[[div class=\"email\"]]\n[[=]]\n\n++++ **__备忘录__**\n[[/=]]\n//致Site-32全体工作人员，请记住SCP-6892需保持在开放区域，且最好是僻静隔离处，以免其妨碍日常工作。//\n\n//对所有可能尚未了解的Site-32员工，SCP-6892是一个银质骨灰盒，正面雕有心形图案。//\n\n//请尽量减少与SCP-6892的一切交互，防止其损坏或内容物洒出。造成的混乱无法清理。//\n\n//截至本备忘录写就时，SCP-6892当前位于B翼3号研究室。请勿移出SCP-6892，因为我还有重要的工作尚待完成。//\n\n//若工作人员目击到一名个体展现出超常性质，如无定形或悬浮等，请不必惊慌；这些仅为SCP-6892-1的性质。//\n\n//给O'Hara和Roberts主管，感谢你们始终在我忌日时出席并祈祷；这对我意义非凡，难以言表。// \n\n- 高级研究员，Lucy Fergurson。**†**\n\n[[/div]]\n\n[[footnoteblock]]  \n\n[[div class=\"footer-wikiwalk-nav\"]]\n[[=]]\n<< [[[SCP-6891]]] | SCP-6892 | [[[SCP-6893]]] >>\n[[/=]]\n[[/div]]\n\n[[include :scp-wiki-cn:component:license-box\nauthor=Harriet Farrar]]\n[!-- N/A （无图）  --]\n[[include :scp-wiki-cn:component:license-box-end]]",
+  "tags": [
+    "scp",
+    "人形生物",
+    "人造物品",
+    "无形",
+    "智能",
+    "机密分级"
+  ],
+  "author": "Esperanza_Cai",
+  "created_at": "2021-10-31T18:07:31+00:00",
+  "updated_at": "2024-05-18T21:38:02+00:00",
+  "rating": 7,
+  "_site": "scp-wiki-cn",
+  "_fullname": "scp-6892"
+}

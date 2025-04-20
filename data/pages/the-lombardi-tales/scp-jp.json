@@ -1,0 +1,16 @@
+{
+  "title": "The Lombardi Tales",
+  "content": "[[>]]\n[[module Rate]]\n[[/>]]\n\n[[div style=\"margin: 0px; padding: 2px 0px 0px 0px; color: black; background-image: url(http://scp-wiki.wdfiles.com/local--files/the-lombardi-tales/bricks.jpg); color: white;\"]]\n\n[[div style=\"margin: 15px ;background-color: black; color: white; opacity: 0.55; text-align: center;\"]]\n[[size 115%]]**{{財団に入りたいってのはお前か？　まさか、レポートなんか読んだだけでどんなところかわかったつもりになってるんじゃねえだろうな。いいか、お前はまだ財団のことを半分もわかっちゃいねえ。俺がこれまで何を見てきたと思う？　日曜学校でママに聞かされたって絶対信じられないような、とびきりヤバいものばかりだぜ。俺はマックス・ロンバルディ。もう10年もエージェントをやってる。興味があるなら、話を聞かせてやるさ。}}**[[/size]]\n[[/div]]\n\n[[div class=\"scp-image-block\" style=\"width:{$width};float:left;\"]]\n[[image Lombardi.jpg style=\"width:300;\"]]\n[[div class=\"scp-image-caption\" style=\"width:300; color: black;\"]]\nArt by Storn Cook\n[[/div]]\n[[/div]]\n\n[[div style=\"float:right; width:{$width}; margin: 0px 60px 0px 0px; padding: 0px 10px; background-color: white; color: black; opacity: 0.7;\"]]\n[[size 175%]][[span style=\"text-shadow: #003 1px 1px;\"]]{{__**The Lombardi Tales**__}}[[/span]][[/size]]\n[[module ListPages created_by=\"amamiel\" separate=\"no\" limit=\"250\" perPage=\"250\" tags=\"ロンバルディ\" order=\"created_at\"]]\n* [[span style=\"text-shadow: #003 1px 1px;\"]][[size 115%]]{{**%%title_linked%%**}}[[/size]][[/span]]\n[[/module]] \n[[/div]]\n\n~~~~~~~~\n@@@@\n@@@@\n@@@@\n[[/div]]",
+  "tags": [
+    "en",
+    "ハブ",
+    "ロンバルディ",
+    "注目記事"
+  ],
+  "author": "amamiel",
+  "created_at": "2016-03-18T18:21:44+00:00",
+  "updated_at": "2024-10-25T10:54:35+00:00",
+  "rating": 36,
+  "_site": "scp-jp",
+  "_fullname": "the-lombardi-tales"
+}

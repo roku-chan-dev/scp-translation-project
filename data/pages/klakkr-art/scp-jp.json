@@ -1,0 +1,16 @@
+{
+  "title": "Klakkrのギャラリー",
+  "content": "[[module css]]\n\n.main {\n    background-image: url(\"https://inspirationhut.net/wp-content/uploads/2014/09/grey-paper-texture.jpg\");\n    background-color: #ededed;\n    border: 0px solid black;\n    margin: 1em;\n    padding: 2.1em;\n    font-size: 100%;\n    box-shadow: 0px 0px 5px;\n}\n\n.cadre {\n    border: 1px solid black;\n    box-shadow: 0px 0px 2px;\n    margin: 2em 0em;\n}\n\n.soustexte {\n    font-size: 80%;\n    color: #828282;\n}\n\n[[/module]]\n\n[[include credit:start]]\n**タイトル:** Klakkrのギャラリー\n**著者:** [[*user Klakkr]]\n**訳者:** [[*user AF_XLI]]\n**作成年:** 2022\n[[include credit:end]]\n\n[[div class=\"main\"]]\n\n[[=]]\n**ようこそ！ 私はCGIアーティストです。**\n[[/=]]\n\n[[div class=\"soustexte\"]]\n[[=]]\n//クリックで画像を拡大//\n[[/=]]\n[[/div]]\n\n[[div class=\"cadre\"]]\n[[image http://scp-jp-storage.wikidot.com/local--files/file:6444668-78-s8ax/41g9hyl72be71.png link=\"http://scp-jp-storage.wikidot.com/local--files/file:6444668-78-s8ax/41g9hyl72be71.png\" ]]\n[[/div]]\n\n[[div class=\"cadre\"]]\n[[image http://scp-jp-storage.wikidot.com/local--files/file:6444668-79-y2dy/zd6yme9yq4s51.png link=\"http://scp-jp-storage.wikidot.com/local--files/file:6444668-79-y2dy/zd6yme9yq4s51.png\" ]]\n[[/div]]\n\n[[div class=\"cadre\"]]\n[[image http://scp-jp-storage.wikidot.com/local--files/file:6444668-80-5v9w/43500myibcr51.png link=\"http://scp-jp-storage.wikidot.com/local--files/file:6444668-80-5v9w/43500myibcr51.png\" ]]\n[[/div]]\n\n[[div class=\"cadre\"]]\n[[image http://scp-jp-storage.wikidot.com/local--files/file:6444668-81-9p2b/q1tc96ntgcq51.png link=\"http://scp-jp-storage.wikidot.com/local--files/file:6444668-81-9p2b/q1tc96ntgcq51.png\" ]]\n[[/div]]\n\n[[div class=\"cadre\"]]\n[[image http://scp-jp-storage.wikidot.com/local--files/file:6444668-82-5w4j/w70tfoqicym51.png link=\"http://scp-jp-storage.wikidot.com/local--files/file:6444668-82-5w4j/w70tfoqicym51.png\" ]]\n[[/div]]\n\n[[div class=\"cadre\"]]\n[[image http://scp-jp-storage.wikidot.com/local--files/file:6444668-83-qmpp/x7rpn8hjhzl51.png link=\"http://scp-jp-storage.wikidot.com/local--files/file:6444668-83-qmpp/x7rpn8hjhzl51.png\" ]]\n[[/div]]\n\n[[div class=\"cadre\"]]\n[[image http://scp-jp.wdfiles.com/local--files/image-use-policy/sasidome-yokonaga.png]]\n[[/div]]\n\n[[/div]]",
+  "tags": [
+    "fr",
+    "アートワーク",
+    "インターナショナル",
+    "画像差し止め"
+  ],
+  "author": "AF_XLI",
+  "created_at": "2022-08-03T02:07:20+00:00",
+  "updated_at": "2024-07-22T03:13:48+00:00",
+  "rating": 54,
+  "_site": "scp-jp",
+  "_fullname": "klakkr-art"
+}

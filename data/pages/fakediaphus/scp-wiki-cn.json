@@ -1,0 +1,13 @@
+{
+  "title": "一片沙滩、大海",
+  "content": "[[include :scp-wiki-cn:theme:black-highlighter-theme]]\n[[include :scp-wiki:component:bhl-dark-sidebar]]\n[[include :scp-wiki:component:pride-highlighter |inc-gm= --]]]\n\n[[module css]]\n:root {\n        --bright-accent: 113, 168, 255;\n        --medium-accent: 80, 73, 204;\n        --dark-accent: 50, 195, 157;\n        --diagonal-stripes: unset;\n\n        --header-gradient-color-bottom: 131, 223, 174;\n        --header-gradient-color-middle: 80, 73, 204 ;\n        --header-gradient-color-top: 80, 73, 204;\n\n        --link-color: var(--bright-accent);\n        --visited-link-color: var(--header-gradient-color-bottom);\n        --hover-link-color: var(--header-gradient-color-bottom);\n}\n[[/module]]\n\n[[=]]\n[[module rate]]\n[[/=]]\n\n[[tabview]]\n[[tab 遭遇了鱼]]\n[[div class=\"blockquote\"]]\n这是一片湿润而惬意的郊野。周围灌木稀疏，薄雾氤氲而不沉重，空气清新却不冷冽，蝴蝶在闪躲，蜜蜂在翩跹。点缀野草的花间，仿若有蓝绿色的点点微光。你抬头仰望天空，那开阔高远的天渲染着金粉，伸展向浩渺深空。\n[[/div]]\n\n[[div class=\"blockquote\"]]\n你四处游荡，最终来到与草地毗邻的海边，天渐渐黑了，群星开始显现。你走在黑色的沙滩上，踩着嵌有贝壳、卵石、海草的细沙。海浪节律愉快，时而迸发击打礁石之声。突然，一条鱼跃出海面，开始在你面前自顾自地说话。\n[[/div]]\n\n[[div class=\"blockquote\"]]\n尽管他说的是某种鱼语，但你不知为何能够理解那些“叽里呱啦”想要传达的意思。这条鱼欢迎你的到来，同时也向你透露了一些信息：\n\n**鱼的姓名：**FakeDiaphus\n\n**擅长领域：**用鳃呼吸、自由泳、翻肚皮\n\n**鱼员经历：**出生——活着——还没死亡\n[[/div]]\n\n[[div class=\"blockquote\"]]\n好吧，这条鱼只会说废话，自言自语后就游远了。不过，至少你还可以翻找岸上的漂流物，或是用在沙滩找到的纸笔制作漂流瓶，把想说的话投向大海。不是吗？\n[[/div]]\n>  \n>  ...\n>  \n>  \n>  .....\n>  \n>  \n[[div class=\"blockquote\"]]\n明天，这片大海依旧欢迎所有人的到来。\n[[/div]]\n\n[[/tab]]\n\n[[tab 翻译制品]]\n[[div class=\"blockquote\"]]\n你在沙滩赶海，找到了不少漂流到岸上的翻译制品！或许以后能找到更多。\n[[/div]]\n\n翻译的SCP:\n[[[http://scp-wiki-cn.wikidot.com/scp-6588|SCP-6588]]] 糖糖们嗨起来了？不...应该是我眼花了吧\n\n[[[http://scp-wiki-cn.wikidot.com/scp-6940|SCP-6940]]] 哦，还是不要谈及##white|**那位在仙境昏沉的家伙**##比较好\n\n[[[http://scp-wiki-cn.wikidot.com/scp-7109|SCP-7109]]] 来玩盗版游戏吗？\n\n[[[http://scp-wiki-cn.wikidot.com/scp-7155|SCP-7155]]] 只是一罐不起眼的涂料，就让它在角落吃灰吧\n\n[[[http://scp-wiki-cn.wikidot.com/scp-7309|SCP-7309]]] 初级研究员 Avigail 与 SCiPNet 数据库的爱恨情仇\n\n[[[http://scp-wiki-cn.wikidot.com/scp-7391|SCP-7391]]] ←点此开挖翠绿币\n\n翻译的故事：\n[[[https://scp-wiki-cn.wikidot.com/april-showers|四月的雨带来基友的花]]] 记忆删除官员与安保人员的爱情\n\n[[[https://scp-wiki-cn.wikidot.com/173love|一切都让我想起他]]] 雕像-最梦之作（\n\n[[/tab]]\n\n[[tab 漂流瓶]]\n[[div class=\"blockquote\"]]\n这片突出的礁石下面有一些漂流瓶，一定是其他来过这里的人留下来的！\n[[/div]]\n\n[[module Comments]]\n\n[[/tab]]\n\n[[/tabview]]",
+  "tags": [
+    "作者"
+  ],
+  "author": "FakeDiaphus",
+  "created_at": "2024-07-18T11:36:52+00:00",
+  "updated_at": "2024-07-18T11:37:04+00:00",
+  "rating": 16,
+  "_site": "scp-wiki-cn",
+  "_fullname": "fakediaphus"
+}

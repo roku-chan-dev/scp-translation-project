@@ -1,0 +1,17 @@
+{
+  "title": "翻訳記事の著作者一覧",
+  "content": "[[div_ class=\"wikisys--template-dialog\"]]\n[[div_ class=\"wikisys--template-dialog-header\"]]\nお知らせ\n[[/div]]\n[[div_ class=\"wikisys--template-dialog-content\"]]\n「翻訳記事の著作者一覧」のページにつきまして、昨今の[http://scp-jp.wikidot.com/forum/t-16760897 記事作成手順の変更]に伴い、今後は更新を行わないこととなりました。\nそのため、当該ページの編集は今後不要となります。これまで、皆様には本ページへの情報追記にご協力いただき、心より感謝申し上げます。\n[[/div]]\n[[div_ class=\"wikisys--template-dialog-footer\"]]\nライセンス表記のための情報をお探しの方は、以下をご確認ください。\n[[[licensing-guide|ライセンスガイド]]]\n[[[authorssearch|作者検索]]]\n[[/div]]\n[[/div]]\n\n//※特に指定がない限り、2017年のサイト統合以前に投稿された、他言語版サイト記事の翻訳に関する著作権は、[[[*http://scpjapan.wiki.fc2.com/|The SCP Foundation 非公式日本語化wiki]]]に帰属します([http://ja.scp-wiki.net/forum/t-2203466/wiki#post-2783428 翻訳wikiサイト統合について])。//\n\n**以下のリンク先にクレジットが表記されていない場合：**\n\n直接原語版のページに行き確認する方法があります。\n確認方法はページ下部の**History**をクリックし、**rev.0のところに名前がある方、もしくはコメントやディスカッションでrewrite（改稿）したと書かれている方がいればその方を作者としてください。**\nアカウントが削除されているなどの理由でわからなかった場合は著者不明で構いません。\n\nまた、元の著者とは別の人物が大幅な改稿を行ったことや、アカウント名の変更などの理由で著者が変わっている場合もあります。\nそれらの場合は--[[[http://05command.wikidot.com/alexandra-rewrite |こちら]]]-- [http://www.scp-wiki.net/attribution-metadata こちらから確認出来ます。]\n上記と合わせてご確認ください。\n\n[[[credits-scp-001-999|SCP-001~999]]]\n\n[[[credits-scp-1000-1999|SCP-1000~1999]]]\n\n[[[credits-scp-2000-2999|SCP-2000~2999]]]\n\n[[[credits-scp-3000-3999|SCP-3000~3999]]]\n\n[[[credits-scp-4000-4999|SCP-4000~4999]]]\n\n[[[credits-scp-5000-5999|SCP-5000~5999]]]\n\n[[[credits-scp-6000-6999|SCP-6000~6999]]]\n\n[[[credits-scp-7000-7999|SCP-7000~7999]]]\n\n[[[credits-scp-8000-8999|SCP-8000~8999]]]\n\n[[[credits-scp-others|その他のSCP記事など]]]\n\n[[[credits-scp-international|他言語のSCP記事]]]\n\n[[[credits-tales|Tales・ハブ・サイト・合作]]]\n\n[[[credits-guides-and-essays|ガイド・エッセイ・技術的記事]]]\n\n[[[credits-goi-format|GoIフォーマット]]]\n\n[[[credits-members-pages|著者ページ国際版]]]\n\n[[[credits-artworks|アートワーク]]]",
+  "tags": [
+    "jp",
+    "ハブ",
+    "メタデータ",
+    "合作",
+    "合同編集"
+  ],
+  "author": "CheshireCheese",
+  "created_at": "2013-08-27T10:29:20+00:00",
+  "updated_at": "2024-06-07T20:45:59+00:00",
+  "rating": 15,
+  "_site": "scp-jp",
+  "_fullname": "credits"
+}

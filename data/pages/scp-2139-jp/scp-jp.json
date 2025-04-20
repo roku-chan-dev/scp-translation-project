@@ -1,0 +1,22 @@
+{
+  "title": "SCP-2139-JP",
+  "content": "[[module ListPages category=\"fragment\" parent=\".\" created_by=\"iti119\" order=\"name\" limit=\"1\" offset=\"@URL|0\"]]\n%%content{1}%%\n[[/module]]\n\n[[include :scp-jp:credit:start]]\n**タイトル:** SCP-2139-JP - 「暗い場所は怖い。」\n**著者:** [[*user iti119]]\n**作成年:** 2022\n[[include :scp-jp:credit:end]]\n\n[[module ListPages category=\"fragment\" parent=\".\" created_by=\"iti119\" order=\"name\" limit=\"1\" offset=\"@URL|0\"]]\n%%content{2}%%\n[[/module]]\n\n[!--\nhttp://scp-jp.wikidot.com/fragment:scp-2139-jp-0\nhttp://scp-jp.wikidot.com/fragment:scp-2139-jp-1\n--]\n\n[[module CSS]]\n@import url('https://fonts.googleapis.com/css2?family=Noto+Sans+JP:wght@400&display=swap');\n.exploration {\n    border: 1px dashed #999;\n    background-color: #f4f4f4;\n    padding: 0 1em;\n    margin: 1em 3em;\n    font-family: 'Noto Sans JP', sans-serif;\n}\n@media (max-width: 479px) {\n    .exploration {\n        margin: 1em 0;\n    }\n}\n@media (min-width: 480px) and (max-width: 580px) {\n    .exploration {\n        margin: 0.5em;\n    }\n}\n.exploration .notes {\n    border-bottom: solid #888 1px;\n}\n.exploration .postscript {\n    border-top: solid #888 1px;\n}\n.exploration .notes p em,\n.exploration .postscript p em {\n    font-style: normal;\n}\n.exploration .notes p::before,\n.exploration .postscript p::before {\n    content: \"\";\n    font-weight: bold;\n    white-space: pre;\n}\n.exploration .notes p::before {\n    content: \"付記: \";\n}\n.exploration .postscript p::before {\n    content: \"後記: \";\n}\n.exploration .content::before,\n.exploration .content::after {\n    content: \"\";\n    display: block;\n    margin: 1em 0;\n    text-align: center;\n    font-weight: bold;\n}\n.exploration .content::before {\n    content: \"\\00abログ開始\\00bb\";\n}\n.exploration .content::after {\n    content: \"\\00abログ終了\\00bb\";\n}\n.exploration .content .dialogue p {\n    margin: 1em 0;\n}\n[[/module]]",
+  "tags": [
+    "esoteric-class",
+    "jp",
+    "scp",
+    "可視光",
+    "地下",
+    "建造物",
+    "怪奇部門",
+    "空間",
+    "財団製",
+    "音波"
+  ],
+  "author": "iti119",
+  "created_at": "2022-02-28T12:39:11+00:00",
+  "updated_at": "2024-02-21T12:32:11+00:00",
+  "rating": 52,
+  "_site": "scp-jp",
+  "_fullname": "scp-2139-jp"
+}

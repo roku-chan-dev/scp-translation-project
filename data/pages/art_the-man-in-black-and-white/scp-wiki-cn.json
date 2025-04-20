@@ -1,0 +1,13 @@
+{
+  "title": "黑与白衣之人",
+  "content": "[[module CSS]]\n/*\n    Powered on 2023/11/03 12:10:49\n    [2023 Wikidot Theme]\n    Created by PiNKpePpER\n    CC BY-SA 3.0\n*/\n\n\n\nbody {\n    color: #252222;\n}\na,a:visited {\n    color: #885809;\n}\ndiv.page-rate-widget-box,\ndiv.page-rate-widget-box span.rate-points,\ndiv.page-rate-widget-box span.cancel {\n    background-color: #252222!important;\n    border: solid #252222 1px!important;\n}\ndiv.page-rate-widget-box span.rateup,\ndiv.page-rate-widget-box span.ratedown {\n    border: solid #252222!important;\n    border-width: 1px 0!important;\n}\ndiv.page-rate-widget-box span.rate-points,\ndiv.page-rate-widget-box span.cancel a,\ndiv.page-rate-widget-box span.cancel a:hover {\n    color: DCD08D;\n}\ndiv.page-rate-widget-box span.rateup,\ndiv.page-rate-widget-box span.ratedown {\n    background-color: #FAF8F2!important;\n}\ndiv.page-rate-widget-box span.rateup a,\ndiv.page-rate-widget-box span.ratedown a {\n    color: #252222!important;\n}\ndiv.page-rate-widget-box span.cancel a:hover,\ndiv.page-rate-widget-box span.rateup a:hover,\ndiv.page-rate-widget-box span.ratedown a:hover {\n    background: transparent!important;\n    color: transparent!important;\n}\n\n[[/module]]\n\n[[image http://esperanzacai.wikidot.com/local--files/pinkpepper/piMiqbR.jpg]]\n[[image http://esperanzacai.wikidot.com/local--files/pinkpepper/piMiXUx.jpg]]\n\n[[div class=\"blockquote\"]]\n[[=]]\n//**昼与夜**//\n\n//{{感知到白日的黑暗与它焚尽的灰烬，你才知晓月亮不过是太阳燃烧的影子。}}//\n[[/=]]\n[[/div]]\n\n\n[[image http://esperanzacai.wikidot.com/local--files/pinkpepper/piMiTv4.jpg]]\n\n[[div class=\"blockquote\"]]\n\n[[=]]\n//**匿名者**//\n\n//{{目光交织时几乎感觉耀眼的浑浊。}}//\n[[/=]]\n[[/div]]\n\n\n这回是Nobody与白衣人！[[*user Tufto]]所著的故事真的启发了我很多 :DDDDD",
+  "tags": [
+    "艺术作品"
+  ],
+  "author": "Esperanza_Cai",
+  "created_at": "2024-03-14T14:53:13+00:00",
+  "updated_at": "2024-03-14T15:05:47+00:00",
+  "rating": 2,
+  "_site": "scp-wiki-cn",
+  "_fullname": "art:the-man-in-black-and-white"
+}

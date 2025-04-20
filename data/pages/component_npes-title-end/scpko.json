@@ -1,0 +1,14 @@
+{
+  "title": "국가초상방재원 제목 닫기",
+  "content": "[[/cell]]\n[[/row]]\n[[row]]\n[[cell style=\"border-top: solid 1px #3F497F; border-bottom: solid 1px #3F497F; width: cover; padding: 0 0 3px {$padding}; font-size: 95%;\" colspan=\"2\"]]\n++ ,,{$subject},,\n[[/cell]]\n[[/row]]\n[[/table]]\n\n@@@@\n@@@@",
+  "tags": [
+    "ko",
+    "구성요소"
+  ],
+  "author": "thd-glasses",
+  "created_at": "2024-01-12T13:11:12+00:00",
+  "updated_at": "2024-01-12T13:11:20+00:00",
+  "rating": 0,
+  "_site": "scpko",
+  "_fullname": "component:npes-title-end"
+}

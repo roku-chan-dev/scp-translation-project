@@ -1,0 +1,13 @@
+{
+  "title": "S-Nav",
+  "content": "원문 http://scpcb.gamepedia.com/S-Nav\n\n[[div style=\"float:right; margin:0 2em 1em 2em; width:200px;\"]]\n[[image https://gamepedia.cursecdn.com/scpcb_gamepedia/thumb/0/06/S-Nav.png/200px-S-Nav.png?version=15bc3eb2c2a42367e1fa0506feb9766a]]\n[[/div]]\n**S-Nav**는 //SCP - Containment Breach//에서 얻을 수 있는 아이템이다. 그 용도는 내비게이션이며, 내비상에 나타나는 네모들이 방을 나타낸다. 게임에선 세 가지 종류의 S-Nav를 얻을 수 있다.\n\n++ S-Nav 300\n**S-Nav 300**은 S-Nav의 기본형이다. 작동시키기 위해선 [[[cb:items#toc18|9볼트 전지]]]가 필요하다. 전지가 떨어지면 \"//지도 데이터 베이스에 접속할수 없습니다!//\"라는 메세지가 화면에 뜬다. S-Nav 300은 시설 곳곳에서 찾을 수 있는데, [[[cb:SCP-106]]]의 [[[cb:heavy-containment-zone#toc12|격리실]]], [[[cb:light-containment-zone#toc5|소형 실험실]]], [[[cb:entrance-zone#toc14|서버실]]]에서 찾을 수 있다. 또한 복도에서 가끔 나타나기도 한다. S-Nav 300에는 아직 찾아가지 않은 방은 나타나지 않는다.\n\n++ S-Nav 310\nS-Nav를 [[[cb:SCP-914]]]에 넣고 \"고움\" 설정으로 돌리면, 찾아가지 않은 방까지 모두 나타나는 내비게이션을 얻을 수 있다. 이것이 **S-Nav 310**이다. S-Nav 310은 막다른 길을 표시해 주기 때문에 어디로 가야 하는지 쉽게 알 수 있다. 하지만 여전히 전지는 필요하다.\n\n++ S-Nav 얼티밋\n[[div style=\"float:right; margin:0 2em 1em 2em; width:150px; border:0;\"]]\n|||| [[image https://gamepedia.cursecdn.com/scpcb_gamepedia/thumb/1/12/S-Nav_Ultimate.png/150px-S-Nav_Ultimate.png?version=18d76e17c9baf3247edeb801d82b5e8e]] ||\n||||~ SCP-173의 위치를 보여주는 S-Nav 얼티밋.  ||\n[[/div]]\n**S-Nav 얼티밋**은 S-Nav 310의 기능을 다 가지고 있으며, 전지를 필요로 하지 않고, 근처의 SCP들([[[cb:SCP-173]]], SCP-106, [[[cb:SCP-096]]], [[[cb:SCP-895]]] 등)을 감지해낼 수 있다. S-Nav 얼티밋은 S-Nav 300을 SCP-914에 넣고 \"매우 고움\"으로 돌리거나 S-Nav 310을 넣고 \"고움\"으로 돌리면 얻을 수 있다.\n\nSCP가 가까이 있으면 S-Nav 얼티밋 화면에 붉은 동그라미와 SCP의 이름이 뜬다. 동그라미의 크기가 작을수록 플레이어가 그 SCP와 가까이 있다는 것이다. 동시에 여러 SCP를 감지할 수도 있다.\n\n~~~~\n++ 여담\n* S-Nav를 SCP-914에 넣고 \"1:1\" 설정으로 돌리면 \"S-Nav 내비게이터\"가 나온다. 이것은 S-Nav 300과 기능이 똑같지만 붉은 색이다.\n\n++ 그림판",
+  "tags": [
+    "cb"
+  ],
+  "author": "Salamander724",
+  "created_at": "2014-07-10T04:54:12+00:00",
+  "updated_at": "2020-01-07T08:26:46+00:00",
+  "rating": 2,
+  "_site": "scpko",
+  "_fullname": "cb:s-nav"
+}

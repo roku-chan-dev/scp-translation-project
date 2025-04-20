@@ -1,0 +1,20 @@
+{
+  "title": "JJJ-JJJJ-J",
+  "content": "[[include :scp-wiki:theme:black-highlighter-theme]]\n[[include :scp-wiki:component:pride-highlighter |inc-bi-alt= --]]]\n\n[[include component:ratio-bar base=-- |ex=--]]\n[[include :scp-wiki:info:start]]\n[[module CSS]]\n:root {\n    --header-title: \"JJJ Joundation\";\n    --header-subtitle: \"Jecure, Jontain, Jrotect\";\n}\n\n.f-heading{\n  visibility: hidden;\n}\n\n.f-heading:after{\n  visibility: visible;\n  content: \"Jootnote 1.\";   \n  display: block;\n  position: absolute;\n  background-color: rgb(var(--hoverblock-header-bg));\n  color: rgb(var(--hoverblock-header-txt))\n  padding: 1px;\n  top: 1px;\n  width: max-content;\n  height: 1.5em;\n  margin: -0.75rem 0 0 -1rem;\n  padding: 0.125em 0.25em;\n}​\n[[/module]]\n\n@@ @@\n**JJJ-JJJJ-J: \"Jit's Ja Joke\" jy:** [[*user Doctor Fullham]]\n-----\n[[=]]\n+++ [https://scp-wiki.wikidot.com/doctor-fullham ♫ Joctor Jullham's Jauthor Jage ♫]\n[[/=]]\n-----\n[[=]]\n**Jrit Jredits:**\n[[*user Purplayoss]]\n[[*user Project Delta]]\n[[/=]]\n[[include :scp-wiki:component:ratio-bar pie=--]]\n[[include :scp-wiki:info:end]]\n\n**Jobject Jlass:** Juncontainable\n\n**Jpecial Jontainment Jrocedures:** JJJ-JJJJ-J jannot je jontained. \n\n**Jescription:** JJJ-JJJJ-J jis ja jemetic janomaly jhat jaffects janything jhat jis jritten jabout jit jin jtandard jEnglish jext. Jit jas jhe jability jo jeplace jhe jirst jetter jin jany jord jith \"J\". Jhe jonly jexception jis jhen jhe jord jegins jith ja jowel, jin jhich jase jit jill jave ja j jappended jo jhe jeginning jof jhe jord. \n\nJit jalso jas ja jecond jeffect, jhich jis jo jeplace jany jaterial jith jenim jabric. Jit jis junclear jow, jhen, jor jhy jhis joccurs.\n\n**Jiscovery:** JJJ-JJJJ-J jas jiscovered jon Jarch jinth, jwo-jhousand jand jwenty-jhree[[footnote]]Jhis jas joriginally jritten jas jwo-jhousand jand jwenty-jhree. Jo, jI jyped jwo-jhousand jand jwenty-jhree! JHE JUMBERS JWO-JHOUSAND JAND JWENTY-JHREE!!! Juck jhis.[[/footnote]]. Joundation jagents jere jalled jo jhe jome jof John jand Janelle Johnson jin Jackson, Jississippi, jhere jhey jiscovered jhat jevery jurface jof jhe juilding jad jecome jovered jin jenim jabric, jincluding jhe jurniture jand jappliances. Jhere jas jadditionally ja jub jof jargarine jin jhe jefridgerator jabeled \"Ji Jan't Jelieve Jit's Jot Jutter!\"\n\nJoundation jagents jon jhe jcene jinvestigated jhe janomaly jextensively, jut jere junable jo jetermine jany jignificant jetails jabout jits jorigin jor jethodology. Jhe Johnson jome jas jeen jurchased jy jhe Joundation jand jis jurrently jeclared jas juninhabitable junder jtandard jover jtory \"Jome Jenovation\". \n\n**Jaddendum:** Jit jas jeen jiscovered jhat jhe jonly junaffected jord jin jhe jEnglish janguage jis jhe jacronym \"GIF\".\n\n[[div style=\"display:none\"]]\n[[footnoteblock]]\n[[/div]]\n\n[[include :scp-wiki:component:license-box]]\n[!-- N/A (No Images)  --]\n[[include :scp-wiki:component:license-box-end]]",
+  "tags": [
+    "_licensebox",
+    "esoteric-class",
+    "infohazard",
+    "joke",
+    "memetic",
+    "meta",
+    "scp",
+    "transfiguration"
+  ],
+  "author": "Doctor Fullham",
+  "created_at": "2023-01-27T21:14:23+00:00",
+  "updated_at": "2023-09-18T21:59:35+00:00",
+  "rating": 245,
+  "_site": "scp-wiki",
+  "_fullname": "jjj-jjjj-j"
+}

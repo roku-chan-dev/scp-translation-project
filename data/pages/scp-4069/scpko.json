@@ -1,0 +1,22 @@
+{
+  "title": "SCP-4069",
+  "content": "[[include :scpko:theme:black-highlighter-theme]]\n\n[[include info:start]]\n**SCP-4069:** 범위 밖\n**저자:** [[*user Cyantreuse]]          \n**원작:** https://scp-wiki.wikidot.com/scp-4069\n**역자:** [[*user Cubic72]]\n[[include info:end]]\n\n[[module ListPages  category=\"fragment\" parent=\".\" limit=\"1\" order=\"created_at\" offset=\"@URL|0\"]]\n%%content%%\n[[/module]]\n\n[!-- Landing page: http://scpko.wikidot.com/fragment:scp-4069-1 --]\n[!-- Offset 1: http://scpko.wikidot.com/fragment:scp-4069-2 --]\n[!-- Offset 2: http://scpko.wikidot.com/fragment:scp-4069-3 --]\n[!-- Offset 3: http://scpko.wikidot.com/fragment:scp-4069-4 --]\n[!-- Offset 4: http://scpko.wikidot.com/fragment:scp-4069-5 --]\n[!-- Offset 5: http://scpko.wikidot.com/fragment:scp-4069-6 --]\n[!-- Offset 6: http://scpko.wikidot.com/fragment:scp-4069-7 --]\n\n[!-- To translators: If you need the notes in the pictures written in a different language, let me know via PM and I'll make versions of the images for your site. If you use a different alphabet, please hand-write the translations in marker and take a picture so that I can edit it into the original images. --]",
+  "tags": [
+    "4000",
+    "en",
+    "scp",
+    "기억조작",
+    "별을-향해서",
+    "사후",
+    "안전",
+    "외부차원",
+    "위치",
+    "트라우스-요원"
+  ],
+  "author": "Cubic72",
+  "created_at": "2019-07-03T15:26:34+00:00",
+  "updated_at": "2024-10-20T11:26:24+00:00",
+  "rating": 12,
+  "_site": "scpko",
+  "_fullname": "scp-4069"
+}

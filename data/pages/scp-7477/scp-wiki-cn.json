@@ -1,0 +1,16 @@
+{
+  "title": "SCP-7477",
+  "content": "[[include :scp-wiki:theme:black-highlighter-theme]]\n\n[[div style=\"text-align: right; margin-top: -26px;\"]]\nby [[[stormbreath]]]\n[[/div]]\n\n[[module CSS]]\na.collapsible-block-link {\n    font-weight: bold;\n    display: block;\n    text-align: center;\n}\n[[/module]]\n\n**项目编号：** SCP-7477\n\n**项目等级：** Keter\n\n**特殊收容措施：** 所有SCP-7477的已知触媒都已被消灭。正在讨论处决最后已知SCP-7477携带者的必要性。\n\n**描述：** SCP-7477是一种病毒式认知危害，会潜伏于正在尝试为某个复杂问题或计划（由受影响人员自己定义）寻找对策的生物之中。SCP-7477可以感染尚未在处理问题的生物，此时它会在该生物开始工作时锁定到可用问题上。SCP-7477在宿主上表现出极端多样性，能够影响人类和非人类生物。\n\n根据所能收集到的情报、以及SCP-7477唯一幸存携带者的供述，当受感染的携带者为相关问题定下可靠对策时，SCP-7477将被引爆。此时，受影响生物的头部将自发爆炸。爆炸力量与受影响生物头部的大小呈指数级相关；人类头颅的爆炸力量大致相当于手榴弹，而受影响蓝鲸头部的爆炸力等同于10kT的TNT。 \n\n若有人员观察到SCP-7477引爆过程、与携带者的身体残骸进行互动（尤其是头部）、亦或是以其他方式与SCP-7477爆炸或其效应发生了直接互动，都将感染SCP-7477。若关于SCP-7477的信息已被严重歪曲，认知危害性质将会消退。例如，受害者头部的灰烬不会携带此效应。\n\n[[collapsible show=\"需要5级权限\" hide=\"已知的SCP-7477活跃携带者\"]]\nSCP-7477的最后携带者为诺斯替太一[[footnote]]**译注：**Monad，意为不可分割之单体，诺斯替主义中有时以此称呼至高善神。[[/footnote]]。它因SCP-7477最初显现时对其全知而受到感染，它将此辨识为德谬革[[footnote]]**译注：**Demiurge，诺斯替主义中称呼创造物质世界的邪恶造物主。[[/footnote]]的恶意谋划，是神性放射之腐化。它已将自身被感染相关细节告知基金会，也因此被编为SCP-7477-∞。\n\nSCP-7477-∞在理论上可以通过自己的全能消除SCP-7477，但它的受影响计划正是消除SCP-7477的最佳方案。因此，SCP-7477-∞无法定下让SCP-7477无效化的方法。\n\nSCP-7477-∞知晓它具有时间超越性和全在性。SCP-7477-∞也知晓自己是非实体且与物理宇宙无关联，并不具有可以爆炸的头部。尽管有上述因素存在，SCP-7477-∞仍宣称它不愿意使该异常无效化。\n\nSCP-7477-∞对造成不便表示抱歉。\n[[/collapsible]]\n\n[[div class=\"footer-wikiwalk-nav\"]]\n[[=]]\n<< [[[SCP-7476]]] | SCP-7477 | [[[SCP-7478]]] >>\n[[/=]]\n[[/div]]\n\n[[include :scp-wiki-cn:component:license-box\n|author=stormbreath\n|translator=ashausesall\n]]\n[[include :scp-wiki-cn:component:license-box-end]]",
+  "tags": [
+    "keter",
+    "scp",
+    "宗教",
+    "认知危害"
+  ],
+  "author": "ashausesall",
+  "created_at": "2022-11-02T13:53:44+00:00",
+  "updated_at": "2023-08-09T09:44:17+00:00",
+  "rating": 4,
+  "_site": "scp-wiki-cn",
+  "_fullname": "scp-7477"
+}

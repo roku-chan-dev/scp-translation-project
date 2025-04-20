@@ -1,0 +1,16 @@
+{
+  "title": "SCP-CN-2230",
+  "content": "[[include :scp-wiki-cn:credit:start]]\n作者：[[*user Fogate_Ding]]\n[[include :scp-wiki-cn:credit:end]]\n\n[[module ListPages category=\"fragment\" parent=\".\" limit=\"1\" order=\"name\" offset=\"@URL|0\"]]\n\n%%content%%\n[[/module]]\n\n[!-- 第一迭代：https://scp-wiki-cn.wikidot.com/fragment:scp-cn-2230-01 --]\n[!-- 第二迭代：https://scp-wiki-cn.wikidot.com/fragment:scp-cn-2230-02 --]\n\n[[div class=\"footer-wikiwalk-nav\"]]\n[[=]]\n<< [[[SCP-CN-2229]]] | SCP-CN-2230| [[[SCP-CN-2231]]] >>\n[[/=]]\n[[/div]]",
+  "tags": [
+    "scp",
+    "site-cn-11",
+    "thaumiel",
+    "原创"
+  ],
+  "author": "Fogate_Ding",
+  "created_at": "2022-02-01T12:03:33+00:00",
+  "updated_at": "2024-05-27T16:17:48+00:00",
+  "rating": 26,
+  "_site": "scp-wiki-cn",
+  "_fullname": "scp-cn-2230"
+}

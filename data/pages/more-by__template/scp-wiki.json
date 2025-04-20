@@ -1,0 +1,11 @@
+{
+  "title": "_template",
+  "content": "[[module CSS]]\n.warning-top-box {\n  background-color: #e3e3e3;\n  border: 2px solid #a1a1a1;\n  border-radius: 2px;\n  width: 50%;\n  margin: 0 auto 2em;\n  text-align: center;\n  padding: 10px;\n}\n\n@media (max-width: 479px) {\n  .archived-top-box {\n    width: auto;\n    margin: 0 0 2em;\n  }\n}\n@media (min-width: 480px) and (max-width: 580px) {\n  .archived-top-box {\n    width: auto;\n    margin: 0 0.5em 2em;\n  }\n}\n[[/module]]\n\n[[div class=\"warning-top-box\"]]\n\n[[size 150%]]**NOTICE:**[[/size]]\n\nThis is a 'more by' page used to list works on the SCP Wiki by a certain author. It is intended to be used and included on that author's pages -- as a result, this page may appear to be unfinished or broken.\n\nPlease see [/forum/t-14037405/more-by-pages the announcement thread for 'more by' pages] for more information on what a 'more by' page is.\n\n[!--\nSee the [[[More By Hub]]] for more information.\n--]\n\n[[/div]]\n\n%%content%%",
+  "tags": [],
+  "author": "Croquembouche",
+  "created_at": "2021-03-29T12:40:14+00:00",
+  "updated_at": "2021-09-02T07:16:08+00:00",
+  "rating": 1,
+  "_site": "scp-wiki",
+  "_fullname": "more-by:_template"
+}

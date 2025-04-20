@@ -1,0 +1,16 @@
+{
+  "title": "SCP-438-JP",
+  "content": "[[>]]\n[[module Rate]]\n[[/>]]\n[[html]]\n <!-- WikidotのデフォルトStyleと、SCP-JPのStyleをインポート -->\n <style>\n @import url(http://d3g0gp89917ko0.cloudfront.net/v--de24f08b1628/common--theme/base/css/style.css);\n @import url(http://d3g0gp89917ko0.cloudfront.net/v--de24f08b1628/common--theme/shiny/css/style.css);\n @import url(http://scp-jp.wdfiles.com/local--theme/scp-sigma-9-off-canvas/style.css);\n </style>\n\n <p id=\"testjs2\">\n#危ない#このSPCをCL:5以下のヒトが読むと死んじゃうけどいい？#危ない#\n<P align='left'><A href=\"javascript:void(0)\" onClick='button();' id='btn1'>+ 同意して読む</A><P></P><input type='button' value=\"いやだ\" onClick='button();' id='btn2'></P>\n </p>\n <script type=\"text/javascript\">\n <!--\n\nstr010=\"<p><b>アイテム番号:</b> \";\n str020=\"<p><b>オブジェクトクラス:</b> \";\n str030=\"</p><p><b>特別収容プロトコル:</b> \";\n str040=\"</p><p><b>説明:</b> \";\n\n objNum = \"SCP-438-JP\";\n\n str021=\"Euclid\"; //必要なら <s>打ち消し線</s> で打ち消し線が引けます。\n str031=\"SCP-438-JPが財団ネットワーク上に発生しているのを確認した場合、改変された文章の問いかけに対し肯定する選択肢を選ばないでください。肯定的な選択肢を選択した場合、ただちに責任者に報告してください。なお、SCP-438-JPに関する報告書はDクラス職員を除くすべての職員が閲覧する義務があります。\";\n str041=\"SCP-438-JPは財団ネットワーク上に不定期に発生する現象です。SCP-438-JPは報告書、メール等のドキュメントファイル上に発生し、その文章を改変し、閲覧者に対し問いかけを行います。<p>上記の問いかけに対して肯定的な選択肢を選択した場合、閲覧者は突発的な病気の悪化や発作、あるいは事故発生により12時間以内に死亡します。この現象は不可避で、確率改変を伴うと推測されており、閲覧者の隔離等は意味を成しません。上記の事故等に対して閲覧者の隔離が厳重であると、隔離した建物の倒壊や危険度の高いSCPオブジェクトの収容違反が発生するなど大規模災害に繋がるおそれがあります。閲覧者の処理に関しては別紙の「SCP-438-JP閲覧者終了手順」に従ってください。<p>SCP-438-JPにより改変された文章の問いかけは改変前の文章と比較して非常に稚拙です。また、改変後の文章の特徴として、必ず「死亡してもよいか？」と問う趣旨の一文があるため、事前知識のある職員ならば回避可能です。SCP-438-JPは閲覧後、肯定あるいは否定いずれかの選択肢を選んだ場合、即座に改変前の文章に戻り、その特異性は消失します。<p>SCP-438-JP対策としてネットワークの構成やプログラムの見直し等が行われましたが、2015/6現在において、SCP-438-JPの発生を防ぐ有効手段は発見されていません。\";\n\nfunction button(){   // Yes表示\n document.getElementById(\"btn1\").style.display=\"none\";\n  document.getElementById(\"btn2\").style.display=\"none\";\n  document.getElementById(\"testjs2\").innerHTML= str010 + objNum + \"</p>\" + str020 + str021 + str030 + str031 + str040+ str041;\n }\n\n //-->\n </script>\n [[/html]]",
+  "tags": [
+    "euclid",
+    "jp",
+    "scp",
+    "メタ"
+  ],
+  "author": "watter12",
+  "created_at": "2015-08-08T11:02:33+00:00",
+  "updated_at": "2021-01-10T16:05:20+00:00",
+  "rating": 97,
+  "_site": "scp-jp",
+  "_fullname": "scp-438-jp"
+}

@@ -1,0 +1,13 @@
+{
+  "title": "SCP-CN-2994",
+  "content": "[[include :scp-wiki-cn:theme:penumbra]]\n\n[[module CSS]]\n\n#u-blink-bar p:last-child::after {\n    content: \"\";\n    border-right: 1px solid white;\n    animation: blink 1.5s infinite;\n    position: relative;\n    left: 1px;\n}\n \n@keyframes blink{\n    to {\n        opacity: .0;\n    }\n}\n[[/module]]\n[[include :scp-wiki-cn:component:anomaly-class-bar-source\n|lang= cn\n|item-number= CN-2994\n|clearance= 2\n|container-class= 等待分级\n|secondary-class= none\n|secondary-icon= http://smlt.wdfiles.com/local--files/shineshadowd%3Agyd4/NA.svg\n|disruption-class= keneq\n|risk-class= 需谨慎\n]]\n-------\n[[include component:image-block\n| name=https://images.pexels.com/photos/2850287/pexels-photo-2850287.jpeg?auto=compress&cs=tinysrgb&h=750&w=1260\n| caption=“我与你，永生于此风港。好梦。”\n| align=center\n]]\n------\n**特殊收容措施：**N/A\n\n[[div id=\"blink-bar\"]]\n**描述：**SCP-CN-2994是一系列异常现象的统称，现已确认其与已逝的高级研究员同天宇及Dr.Sherry密切相关，其二人先前于SIte-CN-10工作，之后先后因事故溺亡于[已编辑]，推测正是该事件引起\n[[/div]]\n\n[[span style=\"color:transparent\"]]\n这不是我的城市，我的世界。\n一无所有。\n我创造了一切，却不过是在建造空中楼阁。\n对我而言这里流光溢彩，对他人而言，却不过一梦南柯。\n这里有的只是夜晚的灯火。\n它分成两份，一份名为分别，一份名为残念。\n但我看到了我幼时的记忆里的城市，看到了我的归属，以及你。\n这也许就够了。\n虽然说，\n我的基金会是场骗局，\n风津市是场骗局，\n世界是场骗局。\n[[>]]\n//我也是，以及你。//\n//尽管这骗局为我所缔。//\n//我会在夜晚继续漫步，不过我已清醒，但我或别无选择。//\n//为我在现实之中的同僚致敬，及抱歉。//\n[[/>]]\n[[/span]]",
+  "tags": [
+    "段落"
+  ],
+  "author": "The wind say",
+  "created_at": "2021-06-14T05:40:39+00:00",
+  "updated_at": "2024-04-29T04:20:29+00:00",
+  "rating": 0,
+  "_site": "scp-wiki-cn",
+  "_fullname": "fragment:scp-cn-2994-03"
+}

@@ -1,0 +1,19 @@
+{
+  "title": "SCP-4595",
+  "content": "[[module CSS]]\nsup {\nvertical-align: top; position: relative; top: -0.5em;\n}\n[[/module]]\n\n[[>]]\n[[module Rate]]\n[[/>]]\n\n[[include :scp-wiki:component:object-warning-box-source\n|bg-image=https://upload.wikimedia.org/wikipedia/commons/e/ec/SCP_Foundation_%28emblem%29.svg\n|bg-opacity=0.15\n|text-top=監督評議会命令\n|text-bottom=以下のファイルはレベル2/4595機密情報です。\n**無許可のアクセスは禁止されています。**\n|object-number=4595\n]]\n\n[[include component:anomaly-class-bar-source\n|item-number= 4595\n|clearance= 2\n|container-class= safe\n|secondary-class= none\n|disruption-class= dark\n|risk-class= warning\n]]\n\n@@@@\n@@@@\n[[include :scp-wiki:component:image-block name=door.jpg|align=right|width=250px|caption=SCP-4595.]]\n\n**特別収容プロトコル:** 安全上の理由から、職員がSCP-4595に入室することは許可されません。SCP-4595に入室できるのは、SCP-4595研究主任の監督下にある、承認を受けた実験担当職員のみです。如何なる状況でも、如何なる手段でも、SCP-4595-Aへの干渉は行われません。\n\n**説明:** SCP-4595は、インディアナ州ジャスパー近郊の廃屋の裏にある薪小屋の小部屋です。室内には1脚の木製ベンチがあり、発見当時は小さなショベル1個[[footnote]]ショベルの先端には血が付着しているように思われますが、この変色箇所から遺伝物質を採取することはできません。[[/footnote]]と、思春期の人間男性1人分の白骨死体も存在していました。白骨死体の隣の地面は過去のある時期に火で炙られたように見受けられます。ドアの外側には木炭で“WITCH”という単語が記されています。\n\nSCP-4595-Aは、SCP-4595の地下1mに存在する歪んだヒト型実体です。現地の地中レーダー探査は、この実体が漠然と女性的な姿をしており、顔面、胸部、頸部に幾つかの大きな傷を負っていることを示します。状況証拠に基づく推定年齢にも拘らず、埋められてから現在までにSCP-4595-Aが腐敗した様子はありません。\n\nSCP-4595に入り、室内に留まっている全ての人物は、やがて何者かに見られている感覚を経験し始め、程なくして皮膚に掻痒感を覚えます。長時間SCP-4595に曝露した人物の多くは最終的に、荒々しく体を掻き毟って不快感を軽減しようと試みます。\n\nSCP-4595-Aに干渉した人物は、それが如何なる形式であっても例外無く、胸腔内の空所、肺、胃、腸の内部にサバクトビバッタ[[footnote]]//Schistocerca gregaria//。[[/footnote]]が充満する現象を経験します。これらのバッタは対象者が死亡するまで体内に出現し続けます。SCP-4595を退出しようとするバッタは全て、戸口の敷居を越えた直後に蒸気と化して消滅します。",
+  "tags": [
+    "en",
+    "safe",
+    "scp",
+    "人間型",
+    "外部エントロピー",
+    "建造物",
+    "精神感応"
+  ],
+  "author": "C-Dives",
+  "created_at": "2019-05-18T16:05:04+00:00",
+  "updated_at": "2021-08-29T16:30:28+00:00",
+  "rating": 5,
+  "_site": "scp-jp",
+  "_fullname": "scp-4595"
+}

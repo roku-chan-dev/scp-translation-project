@@ -1,0 +1,13 @@
+{
+  "title": "GoI Format Tagging",
+  "content": "[[=]]\n++ **This workbench is for genre tagging of GoI Formats.**\n\n++ **If you are interested in tagging GoI Formats, please read [[[genre-tagging-guide| the guide for genre tagging]]] first. For GoI Formats not on this list please also consult the  [[[https://scp-wiki.wikidot.com/a-laymen-s-guide-to-tagging| The Laymen's Guide To Tagging]]].**\n[[/=]]\n\n[[module ListPages category=\"_default\" order=\"date\" tags=\"goi-format -absurdism -action -adventure -bittersweet -bleak -breakout -comedy -black-comedy -chase -crime-fiction -fantasy -heartwarming -horror -body-horror -cosmic-horror -psychological-horror -metafiction -military-fiction -mystery  -romance -science-fiction -slice-of-life -spy-fiction -surrealism -xenofiction -artificial-intelligence -bureaucracy -ghost -historical  -lgbtq -murder-monster -mythological -political -religious-fiction -superhero -afterlife -alternate-history -apocalyptic -post-apocalyptic -christmas -corporate -dystopian -halloween -otherworldly -period-piece  -school -space-opera -western -utopian -correspondence -first-person -foundation-format -journal -no-dialogue -second-person -worldbuilding -_genreless\" perPage=\"200\" prependLine=\"||~ Title ||~ Author ||~ Date Created ||~ Hidden Tags ||\" separate=\"false\"]]\n|| **[[[*%%link%% | %%title%%]]]** || %%author%% || %%created_at%% || %%_tags_linked%% || \n[[/module]]\n\n[[module CountPages category=\"_default\" tags=\"goi-format -absurdism -action -adventure -bittersweet -bleak -breakout -comedy -black-comedy -chase -crime-fiction -fantasy -heartwarming -horror -body-horror -cosmic-horror -psychological-horror -metafiction -military-fiction -mystery  -romance -science-fiction -slice-of-life -spy-fiction -surrealism -xenofiction -artificial-intelligence -bureaucracy -ghost -historical  -lgbtq -murder-monster -mythological -political -religious-fiction -superhero -afterlife -alternate-history -apocalyptic -post-apocalyptic -christmas -corporate -dystopian -halloween  -otherworldly -period-piece -school  -space-opera -western -utopian -correspondence -first-person -foundation-format -journal -no-dialogue -second-person -worldbuilding -_genreless\"]]\nCurrently %%total%% GoI Formats have not been tagged \n[[/module]]     \n[[module CountPages category=\"_default\" tags=\"goi-format\"]]\nout of %%total%% GoI Formats\n[[/module]]",
+  "tags": [
+    "workbench"
+  ],
+  "author": "Jerden",
+  "created_at": "2024-10-11T20:30:58+00:00",
+  "updated_at": "2024-10-17T06:08:57+00:00",
+  "rating": 2,
+  "_site": "scp-wiki",
+  "_fullname": "workbench:goi-format-tagging"
+}

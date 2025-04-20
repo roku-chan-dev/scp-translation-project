@@ -1,0 +1,13 @@
+{
+  "title": "项目计划书 0x07DD-inf：四方自由",
+  "content": "[[include :scp-wiki:theme:much-cool]]\n\n**标题**：[[span class=\"ruby\"]]//四方自由//[[span class=\"rt\"]]//Cube Libre//[[/span]][[/span]]\n\n\n**需要材料**：\n# --一个自命不凡的蠢蛋-- --一个众人皆醉我独醒者--  --一个自暴自弃的废物-- --一个多次失败的自杀者-- --一个死亡被终结的命运观测者-- --一份等待进化的理性-- --一份用来描述世界的模板-- **您**。//--在劫难逃-- 解脱//\n# 第一种材料的血液 - 50 mL。//枷锁//\n# 青柠汁 - 10 mL。//钥匙//\n# 可乐 - 120 mL。//自由//\n# --边长标准差、面角标准差、每个面的相对平面度公差绝对值均小于0.01%-- 完美无瑕的正方体冰块 - 若干。//格式化//\n# 一个裂而不散的玻璃高球杯。//并行计算//\n\n\n**概要**：\n第一种材料同时会成为观众和表演者。\n表演者向杯中加入冰块，随后倒入血液和青柠汁，摇匀。此时，观众将会感受到先前多次自杀行为所带来的痛苦。\n倒入可乐，此时观众将感受到愉悦与超然。\n完成后，表演者饮下杯中所有内容物。此时观众可以观察到表演者的身体开始转变为玻璃。根据饮用时杯中冰块的完美状态的劣化程度，表演者玻璃化后的身体会出现程度不同的缺损。\n\n\n**意义**：\n\n[[collapsible show=\"升华。\" hide=\"C-x 0↵\" hideLocation=\"bottom\"]]\n[[code]]\n.section .data\n    meaning:\n        .byte 0x48, 0x65, 0x6c, 0x6c, 0x6f, 0x2c, 0x20, 0x57, 0x6f, 0x72, 0x6c, 0x64, 0x21, 0x0a\n.section .text\n    .global _start\n\n_start:\n    mov r7, #4\n    mov r0, #1\n    ldr r1, =meaning\n    mov r2, #14\n    svc #0\n[[/code]]\n[[/collapsible]]",
+  "tags": [
+    "段落"
+  ],
+  "author": "DullboyPlus",
+  "created_at": "2024-08-09T21:25:34+00:00",
+  "updated_at": "2024-08-09T21:38:52+00:00",
+  "rating": 0,
+  "_site": "scp-wiki-cn",
+  "_fullname": "fragment:echoes-of-fractured-shadow-1"
+}

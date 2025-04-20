@@ -1,0 +1,13 @@
+{
+  "title": "Dr.Pj的人事页",
+  "content": "[[>]]\n[[module Rate]]\n[[/>]]\n\n这里是[[*user hpj-slbbc]]的作者页，欢迎！\n\nhpj-slbbc，简称pj或hpj\n\n总有一天我会回来完成这个\n\n[[include component:author-page order=created_at]]\n\n\n\n[[module Comments]]",
+  "tags": [
+    "作者"
+  ],
+  "author": "hpj-slbbc",
+  "created_at": "2025-01-19T13:40:33+00:00",
+  "updated_at": "2025-03-20T13:46:30+00:00",
+  "rating": 15,
+  "_site": "scp-wiki-cn",
+  "_fullname": "about-hpj-slbbc"
+}

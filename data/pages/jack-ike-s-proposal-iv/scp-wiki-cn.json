@@ -1,0 +1,20 @@
+{
+  "title": "零和提案",
+  "content": "[[include :scp-wiki-cn:theme:basalt darkmode=a ]]\n[[module css]]\n:root {\n    --title: \"钢铁基金会\";\n}\n\n.bottom-quad {\n    display: none;\n}\n[[/module]]\n[[module ListPages category=\"fragment\" parent=\".\" limit=\"1\" order=\"created_at\" offset=\"@URL|0\"]]\n%%content%%\n[[/module]]\n[!-- https://scp-wiki-cn.wikidot.com/fragment:jack-ike-s-proposal-iv-1 --]\n[!-- https://scp-wiki-cn.wikidot.com/fragment:jack-ike-s-proposal-iv-2 --]\n[[include :scp-wiki-cn:component:license-box\n|author=Jack Ike]]\n=====\n> **文件名：**logo.svg\n> **图像作者：**[[*user Rounderhouse]]\n> **授权协议：**CC BY-SA 3.0\n> **来源链接：**@@@@https://scp-wiki.wikidot.com/theme:the-way-out\n\n> **文件名：**ignosi.svg\n> **图像作者：**[[*user Calibri Bold]]\n> **授权协议：**CC BY-SA 3.0\n> **来源链接：**@@@@https://scp-wiki.wikidot.com/calibri-s-mega-cool-art-page-it-s-mostly-just-icons-but-what/\n=====\n[[include :scp-wiki-cn:component:license-box-end]]",
+  "tags": [
+    "001提案",
+    "scp",
+    "悖论",
+    "数学性",
+    "时间影响",
+    "机密分级",
+    "概念",
+    "现实扭曲"
+  ],
+  "author": "highlightingman",
+  "created_at": "2023-10-13T17:23:28+00:00",
+  "updated_at": "2024-02-22T14:57:01+00:00",
+  "rating": 6,
+  "_site": "scp-wiki-cn",
+  "_fullname": "jack-ike-s-proposal-iv"
+}

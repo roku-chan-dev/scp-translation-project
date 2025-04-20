@@ -1,0 +1,14 @@
+{
+  "title": "紅のバス",
+  "content": "content: \"**説明:** 降車ボタンを押すと車内スピーカーから**大音量で**X JAPANの「紅」が流れる路線バス。回収日以前の降車ボタン及び車内スピーカーに異常は確認されていない。\\n**回収日:** 2024/09/01\\n**回収場所:** 千葉県館山市\\n**現状:** サイト-81██内の低危険度異常車両保管庫にて収容\\n**追記:** 演奏の途中で降車ボタンを押した場合、演奏が再度最初から始まる事が確認されている。\"\ntf2: '0'\nauthor: ''\nredirect-b: '[[module Redirect destination=\"http://ja.scp-wiki.net/log-of-anomalous-items-jp'\nredirect-e: '\"]]'",
+  "tags": [
+    "jp",
+    "剪定対象-子"
+  ],
+  "author": "mC shrimp",
+  "created_at": "2024-10-04T07:48:45+00:00",
+  "updated_at": "2024-10-04T10:19:15+00:00",
+  "rating": 11,
+  "_site": "scp-jp",
+  "_fullname": "anomalous-jp:04941"
+}

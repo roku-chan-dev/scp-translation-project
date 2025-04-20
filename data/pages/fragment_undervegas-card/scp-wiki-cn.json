@@ -1,0 +1,13 @@
+{
+  "title": "阴间维加斯纸牌",
+  "content": "[[iftags +段落]]\n> 这是阴间维加斯中心页的翻卡结构版式组件；这些卡片的CSS包含在此，是为了在添加新卡片时只要编写小小的include，而不用加进30多行的语法。\n[[/iftags]]\n\n[[div class=\"flip-card\"]]\n[[div class=\"flip-card-inner\"]]\n[[div class=\"flip-card-front\"]]\n[[div class=\"cardtext\"]]\n+* {$scp}\n+++* {$title}\n处理者：{$author}\n[[/div]]\n[[/div]]\n[[div class=\"flip-card-back\" style=\"{$styling}\"]]\n[[div class=\"cardtext\"]]\n[[module ListPages fullname=\"{$url}\"]]\n++++++* [[[{$url} | {$quote}]]]\n\n[[span class=\"votes\"]]+%%rating%%[[/span]] / [[span class=\"comments\"]]🗨️ %%comments%%[[/span]]\n[[/module]]\n[[/div]]\n[[/div]]\n[[/div]]\n[[/div]]",
+  "tags": [
+    "段落"
+  ],
+  "author": "Esperanza_Cai",
+  "created_at": "2024-04-03T02:59:07+00:00",
+  "updated_at": "2024-04-03T03:04:24+00:00",
+  "rating": 0,
+  "_site": "scp-wiki-cn",
+  "_fullname": "fragment:undervegas-card"
+}

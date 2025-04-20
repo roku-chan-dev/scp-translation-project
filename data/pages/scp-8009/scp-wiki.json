@@ -1,0 +1,25 @@
+{
+  "title": "SCP-8009",
+  "content": "[[>]]\n[[module Rate]]\n[[/>]]\n\n[[module ListPages  category=\"fragment\" parent=\".\" limit=\"1\" order=\"created_at\" offset=\"@URL|0\" created_by=\"DrClef\"]]\n%%content%%\n[[/module]]\n\n[!-- Relevant Pages: --]\n[!-- https://scp-wiki.wikidot.com/fragment:8000contestdrclef-0 --]\n[!-- https://scp-wiki.wikidot.com/fragment:8000contestdrclef-1 --]\n[!-- https://scp-wiki.wikidot.com/fragment:8000contestdrclef-2 --]\n[!-- https://scp-wiki.wikidot.com/fragment:8000contestdrclef-3 --]\n[!-- https://scp-wiki.wikidot.com/fragment:8000contestdrclef-4 --]\n[!-- https://scp-wiki.wikidot.com/fragment:8000contestdrclef-5 --]\n\n\n[[collapsible show=\"Themes and Components Used.\" hide=\"Hide this Block\"]]\n**Iteration 0 (Raisa Warning) and Iteration 1 (Corrupted SCP File)** use the [[[https://scp-wiki.wikidot.com/theme:black-highlighter-theme|Black Highlighter Theme]]] by [[*user Woedenaz]]\n \n**Iteration 2 (Covenant of Illyriel)** uses a modified version of the [[[https://scp-wiki.wikidot.com/theme:minimal|Minimal Theme]]] by [[*user stormbreath]] This page uses its own CSS block and will not be affected by changes to the original Minimal Theme.\n \n**Iteration 3 (Deviant Artifacts Research Division)** uses a modified version of the [[[https://scp-wiki.wikidot.com/theme:creepypasta|Creepypasta Theme]]] by [[*user the-great-hippo]]]. This page uses its own CSS block and will not be affected by changes to the original Creepypasta Theme.\n \n**Iteration 4 (Global Occult Coalition)** uses the [[[https://scp-wiki.wikidot.com/theme:goc|Ex Officio]]] variant of the Black Highlighter theme by [[*user rounderhouse]] and [[*user aismallard]].\n \n**Components Used:**\n* [[[https://scp-wiki.wikidot.com/anomaly-classification-system-guide|ACS Header]]] by [[*user Woedenaz]]\n* [[[https://scp-wiki.wikidot.com/component:image-features|Image Zoom: Hover Enlarge]]] by unknown user.\n* [[[https://scp-wiki.wikidot.com/component:pages|Papers, Pages, and Post-It Notes]]] by [[*user Croquembouche]]\n[[/collapsible]]\n\n[[include :scp-wiki:component:license-box]]\n> **Filename:** Otherworlder_Skel.png\n> **Name:** Human-Skeleton\n> **Author:** Sklmsta\n> **License:** Creative Commons CC0 1.0 Universal Public Domain Dedication\n> **Source Link:** https://commons.wikimedia.org/wiki/File:Human-Skeleton.jpg\n> **Additional Notes:** The original image was altered in a photo editing program for artistic purposes.\n\n> **Filename:** alchemical_bow.png\n> **Name:** :EB1911_-_Rifle_-_Fig._9_Belgian_Mauser\n> **Author:** Anonymous. Originally appeared in \"1911 edition of the Encyclopædia Britannica, volume 23 p. 330, __Rifle__ article.\"\n> **License:** This work is in the public domain in the United States because it was published (or registered with the U.S. Copyright Office) before January 1, 1929.\n> **Source Link:** https://commons.wikimedia.org/wiki/File:EB1911_-_Rifle_-_Fig._9_Belgian_Mauser.png\n> **Additional Notes:** The original image was altered in a photo editing program for artistic purposes.\n\n> **Filename:** I_TURN_YOUR_WEAPONS_UPON_YOU_THOU_FOUL_VERMIN.png\n> **Name:** \"Fractal flame created with FLAM3 for SideFX Houdini. Rendered with Mantra\"\n> **Author:** Alexnardini\n> **License:** Creative Commons Attribution-Share Alike 4.0 International\n> **Source Link:** https://commons.wikimedia.org/wiki/File:Hypertiling_new.jpg\n> **Additional Notes:** The original image was altered in a photo editing program for artistic purposes.\n\n> **Filename:** DARD.png\n> **Name:** Deviant Artifacts Research Division Sigil\n> **Author:** Dr_Avenlee \n> **License:** Creative Commons Attribution-ShareAlike 3.0 License\n> **Source Link:** Original Work\n> **Additional Notes:** The original image was altered in a photo editing program for artistic purposes.\n\n> **Filename:** Illyriel.png\n> **Name:** Covenant Of Illyriel Sigil\n> **Author:** Dr_Avenlee \n> **License:** Creative Commons Attribution-ShareAlike 3.0 License\n> **Source Link:** Original Work\n> **Additional Notes:** The original image was altered in a photo editing program for artistic purposes.\n\n> **Filename:** corruption.png\n> **Name:** Corrupted Data Visualization\n> **Author:** DrClef\n> **License:** Creative Commons Attribution-ShareAlike 3.0 License\n> **Source Link:** Original Work\n\n> **Name:** \"Paradise Lost\" \n> **Author:** John Milton\n> **License:** This work is in the public domain in the United States because it was published (or registered with the U.S. Copyright Office) before January 1, 1929.\n> **Source Link:** https://www.gutenberg.org/cache/epub/20/pg20-images.html\n[[include :scp-wiki:component:license-box-end]]",
+  "tags": [
+    "8000",
+    "_cc",
+    "_licensebox",
+    "_listpages",
+    "alive",
+    "euclid",
+    "extradimensional",
+    "global-occult-coalition",
+    "historical",
+    "meta",
+    "portal",
+    "sapient",
+    "scp"
+  ],
+  "author": "DrClef",
+  "created_at": "2024-02-18T20:45:18+00:00",
+  "updated_at": "2024-07-11T22:13:25+00:00",
+  "rating": 190,
+  "_site": "scp-wiki",
+  "_fullname": "scp-8009"
+}

@@ -1,0 +1,33 @@
+{
+  "title": "SCP-6789",
+  "content": "[[module ListPages  category=\"fragment\" parent=\".\" limit=\"1\" order=\"created_at\" offset=\"@URL|0\"]]\n%%content%%\n[[/module]]\n\n[!-- For translators, here is a direct link to each iteration. --]\n[!-- http://scp-wiki-cn.wikidot.com/fragment:scp-6789-1 --]\n[!-- http://scp-wiki-cn.wikidot.com/fragment:scp-6789-2 --]\n[!-- http://scp-wiki-cn.wikidot.com/fragment:scp-6789-3 --]\n[!-- http://scp-wiki-cn.wikidot.com/fragment:scp-6789-4 --]\n[!-- http://scp-wiki-cn.wikidot.com/fragment:scp-6789-5 --]\n\n\n[[footnoteblock]]\n[[div class=\"footer-wikiwalk-nav\"]]\n[[=]]\n<< [[[SCP-6787]]] | SCP-6789 | [[[SCP-6790]]] >>\n[[/=]]\n[[/div]]\n\n[[include :scp-wiki-cn:component:license-box\n|author=Its A Bad Idea、Ralliston 与 Trotskyeet]]\n=====\n\n=====\n[[include :scp-wiki-cn:component:license-box-end]]",
+  "tags": [
+    "120站档案馆",
+    "6000",
+    "k级情景",
+    "safe",
+    "scp",
+    "动物",
+    "反熵",
+    "合著",
+    "地下",
+    "声音",
+    "夜之子",
+    "敌意",
+    "星球",
+    "未收容",
+    "树木",
+    "植物",
+    "球体",
+    "生物危害",
+    "精灵族",
+    "精神影响",
+    "需更新"
+  ],
+  "author": "lan_muda",
+  "created_at": "2021-08-05T08:31:15+00:00",
+  "updated_at": "2023-01-17T15:39:05+00:00",
+  "rating": 44,
+  "_site": "scp-wiki-cn",
+  "_fullname": "scp-6789"
+}

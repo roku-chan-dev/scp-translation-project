@@ -1,0 +1,16 @@
+{
+  "title": "渺茫生建木",
+  "content": "[[>]]\n[[module Rate]]\n[[/>]]\n\n\n[[div class=\"suojin\"]]\n> 在系列探索任务W1-丁-01中，MTF-壬申-9 “千年觥” 于[[[SCP-CN-2222]]]内的一片广阔的平原上，在一个树桩旁，发现了一具男性干尸。尸体身着破旧的曲裾，手持一张未老化的白纸，纸上有潦草的炭笔画，并附有一段以简体字书写而成的诗歌。现将其摘录于下：\n[[/div]]\n\n@@@@\n\n[[div class=\"poem-5\"]]\n[[div class=\"mz-outbox\"]]\n[[div class=\"mz-innerbox\"]]\n[[div class=\"poem-7\"]]\n渺茫生建木{{，}}条肄衍长青\n烨烨皴寥白{{，}}层层跃兽鸣\n洇开芬草阔{{，}}迁客谓余乡\n版筑分文野{{，}}荫中立庙堂\n枝头系彩绢{{，}}枝上落神鸦\n社鼓三时灌{{，}}叠章烦颂夸\n\n@@@@\n\n疾霆揺所托{{，}}胙醴坠高台\n天子远巡狩{{，}}戎兵恶不材\n千年终弃忘{{，}}鬼死朽丝心\n涩雨刊纹脉{{，}}移尘哑野音\n飞光携曜去{{，}}虚廓溃为烟\n此境无何有{{，}}惟其自在眠\n\n@@@@\n\n\n一朝摧作薪{{，}}析绝旧时根\n形付劫灾火{{，}}瘞风或识痕\n抟灰凝脆笔{{，}}玄影磔真空\n新画更侵色{{，}}浅深起毒龙\n\n@@@@\n@@@@\n\n\n[[/div]]\n[[/div]]\n[[/div]]\n[[/div]]\n\n@@@@\n@@@@\n@@@@\n\n[[include :scp-wiki-cn:theme:magazine\n|Huiwen-mincho= true \n|header-title=\"\\2005SCP基金会\"\n]]\n\n\n\n[[module CSS]]\n.poem-7 {\nfont-size:220%;\nfont-family: Huiwen-mincho, '华文中宋','思源宋体 CN','宋体';\ntext-align:center;\n}\n\n.poem-5 {\n margin:3rem;\n}\n\n.poem-5 p{\n  line-height: 180%;\n  letter-spacing: 0.2rem;\n}\n\n@media (max-width: 479px) {\n.poem-7 {\n  font-size:150% ;\n}\n  #page-title{\ntext-align: center ;\nfont-size: 150%;\n}\n.poem-5 {\n margin:0rem\n}\n\n}\n\n\n[[/module]]",
+  "tags": [
+    "2021冬季征文",
+    "原创",
+    "故事",
+    "诗歌"
+  ],
+  "author": "Etinjat",
+  "created_at": "2021-02-24T11:01:41+00:00",
+  "updated_at": "2024-05-18T07:52:39+00:00",
+  "rating": 36,
+  "_site": "scp-wiki-cn",
+  "_fullname": "lignum"
+}

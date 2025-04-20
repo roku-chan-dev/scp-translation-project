@@ -1,0 +1,15 @@
+{
+  "title": "Classified Experiment",
+  "content": "[[include :scp-jp:component:classified-experiment-base\n|warning={$warning}\n|warning=アクセス承認\n|experiment-title={$experiment-title}\n|sub-title={$sub-title}\n|sub-title=false\n|left={$left}\n|left=false\n|right={$right}\n|right=false\n|content={$content}\n|signature={$signature}\n|signature=false\n]]",
+  "tags": [
+    "en",
+    "コンポーネント",
+    "外部ウィキアーカイブ"
+  ],
+  "author": "7happy7",
+  "created_at": "2018-11-21T12:14:45+00:00",
+  "updated_at": "2022-09-07T07:44:24+00:00",
+  "rating": 5,
+  "_site": "scp-jp",
+  "_fullname": "component:classified-experiment"
+}

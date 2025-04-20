@@ -1,0 +1,17 @@
+{
+  "title": "Fishing Team Main",
+  "content": "[[include theme:fish]]\n[[>]]\n[[module rate]]\n[[/>]]\n[[module CSS]]\n.yui-navset .yui-nav, .yui-navset .yui-navset-top .yui-nav {\n    text-align: center;\n}\n[[/module]]\n[[div style=\"width: 75%; margin: auto;\"]]\n\n@@ @@\n\n[[tabview]]\n[[tab Overview and Responsibilities]]\n\nThe Fishing Team is the branch of the SCP Wiki concerned with organizing fishing excursions, exhibiting staff's fishing trophies and assuring fishing rules are respected on-site. More specifically, the Fishing Team's responsibilities are:\n\n* Organizing fishing contests (such as 6kon[[footnote]] Sixth Koi Contest [[/footnote]]).\n* Keeping up to date the Herringtage Collection.\n* Assuring the fishing regulations are respected on-site and off-site by site members.\n* Featuring on the front page of piscine-related works.\n* Allowing wiki members to breathe outside of water.\n* Finding, investigating and AHT-banning members of the SPC Wiki.\n\nIf you have any questions or concerns, please inquire in [https://scp-wiki.wikidot.com/chat-guide #harbour17] or message a member of the team.\n\n[[/tab]]\n[[tab List of Staff Members]]\n\n**__Captain__**\n[[*user stormbreath]]\n\n**__First Mate__**\n[http://www.wikidot.com/user:info/OptimisticLucio OptimisticLoach-io]\n\n\n**__Deckhands__**\n[[*user Elenee Fishtruck]]\n[[*user Fishish]]\n[[*user Fish^12]]\n[[*user LordStoneFish]]\n[[*user lordxvnv]]\n[[*user Vivarium]][[footnote]] As a lighthouse, Vivarium serves as HQ for the Fishing Team. [[/footnote]]\n\n**__Hubs__**\n[http://www.wikidot.com/user:info/cassandra-prime Crabsandra_Prime]\n[https://www.wikidot.com/user:info/NebulousStar NebulousStarfish]\n[https://www.wikidot.com/user:info/Rounderhouse Flounderhouse]\n[https://www.wikidot.com/user:info/siddartha-alonne Squidartha Alonne]\n[http://www.wikidot.com/user:info/stormfallen Stormfishen]\n\n\n\n**__Adfin Contacts__**\n[[*user Zyn]]'s fish\n[[*user Zyn]]'s other fish\n\n**__Inactive/Reserve Staff Members__**\n[https://scp-wiki.wikidot.com/scp-527 Mr. Fish]\n[[/tab]]\n[[/tabview]]\n\n----\n\n= ^^If there are issues with this page, please contact a member of the [http://05command.wikidot.com/maintenance-and-ancillary-staff-team-main Minnow and Algae Staff Team (MAST)].^^\n\n[[/div]]\n[[footnoteblock]]\n[[include :scp-wiki:component:license-box]]\n[[include :scp-wiki:component:license-box-end]]",
+  "tags": [
+    "_licensebox",
+    "comedy",
+    "joke",
+    "no-dialogue",
+    "tale"
+  ],
+  "author": "Siddartha Alonne",
+  "created_at": "2022-04-01T14:32:51+00:00",
+  "updated_at": "2023-11-22T18:16:39+00:00",
+  "rating": 25,
+  "_site": "scp-wiki",
+  "_fullname": "fishing-team-main"
+}

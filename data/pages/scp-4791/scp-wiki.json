@@ -1,0 +1,22 @@
+{
+  "title": "SCP-4791",
+  "content": "[[module CSS]]\n#page-title {display: ;}\n.footnotes-footer {display:none;}\n[[/module]]\n[[include :scp-wiki:info:start]]\n[[=]]\n++++ SCP-4791\n+++ Stirrin’ Slowly Cross the Sky, I Said Goodbye\nWritten by [[*user jack waltz]]\n------\n+++++ [[[jack-waltz |Check out my author page!]]]\n[[/=]]\n[[include :scp-wiki:info:end]]\n\n**Item #:** SCP-4791\n\n**Object Class:** Euclid\n\n**Special Containment Procedures:** The physical containment of SCP-4791 is unnecessary due to its highly inert and undisruptive nature. Site-228 is responsible for further research.\n\n**Description:** SCP-4791 is a fully inflated and worn blue rubber balloon possessing a birthday cake pattern on it. Tied to the balloon's string is a cardboard note, seemingly impervious to moisture and weathering //(see Addendum)//.\n\nThe object traverses the troposphere at slow speeds and varying altitudes below 10 kilometres. SCP-4791 has been seen avoiding extreme weather conditions, only ever being present in areas with calm winds and sometimes vast expanses of clouds.\n\nHow SCP-4791 gained its anomalous properties is unknown, but its detection occurred on the 13th of March, 2022, after remnants of a thaumaturgical activation were detected by Site-228 on the premises of the Walles residence following the funeral of Tina Walles. A search of the home revealed no items of interest pertaining to SCP-4791 or its origins. The property is now in possession of Jakob Walles[[footnote]] Currently under Foundation surveillance. [[/footnote]] after inheriting it from his mother, Tina Walles. The house, however, is currently unoccupied.\n\n**Addendum:** The attached note has been transcribed below.\n\n[[div class=\"blockquote\"]]\nI'm sorry. I couldn't be there for you when it really mattered. If I knew, you know I never would've left.\n\nYou gave me everything you had. All your love, care, and warmth, and I'm so happy I received it from you.\n\nThis balloon is the same one you sent me on my last special day. I've held on to it, even once it deflated. And now, I'm using it to send you this message.\n\nI hope you'll find this, where ever you are, up there. Thank you, and I love you Mom.\n[[/div]]\n[[size 2em]]@@ @@[[/size]]\n[[footnoteblock]]\n------\n[[=]]\n[[module rate]]\n[[/=]]\n[[div class=\"footer-wikiwalk-nav\"]]\n[[=]]\n<< [[[SCP-4790]]] | SCP-4791 | [[[SCP-4792]]] >>\n[[/=]]\n[[/div]]\n\n[[include :scp-wiki:component:license-box\n| author=Jack Waltz]]\n[[include :scp-wiki:component:license-box-end]]",
+  "tags": [
+    "_licensebox",
+    "airborne",
+    "document",
+    "euclid",
+    "mobile",
+    "rewritable",
+    "rewrite",
+    "scp",
+    "toy",
+    "uncontained"
+  ],
+  "author": null,
+  "created_at": "2022-04-02T14:45:26+00:00",
+  "updated_at": "2022-11-02T17:46:02+00:00",
+  "rating": 28,
+  "_site": "scp-wiki",
+  "_fullname": "scp-4791"
+}

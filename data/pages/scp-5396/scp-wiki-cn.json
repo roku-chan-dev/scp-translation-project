@@ -1,0 +1,18 @@
+{
+  "title": "SCP-5396",
+  "content": "[[include :scp-wiki-cn:component:author-label-source start=--\n|name=Ecronak]]\n喜欢这篇skip吗？点击[http://scp-wiki.wikidot.com/ekronak-s-archive-with-commentary 这里]看看我的其他作品吧！\n[[include :scp-wiki-cn:component:author-label-source end=--]]\n\n[[include :scp-wiki-cn:theme:black-highlighter-theme]]\n\n------\n\n[[include :scp-wiki-cn:component:acs-animation]]\n[[include :scp-wiki-cn:component:anomaly-class-bar-source\n|lang= cn\n|item-number= 5396\n|clearance= 1\n|container-class= safe\n|secondary-class= none\n|secondary-icon= http://acsurlexample.com/image.svg\n|disruption-class= dark\n|risk-class= 待观察\n]]\n\n[[module CSS]]\n\ndiv#page-title::after {\n  content: \"by Ecronak\";\n  font-size: 40%;\n  color: #888;\n  background: none;\n}\n\ndiv#page-title {\n  border-bottom: 1px solid #000;\n  padding-bottom: 0.2em;\n}\n\n[[/module]]\n\n------\n\n[[include component:image-block\n| name=https://scp-wiki.wdfiles.com/local--files/scp-5396/Antiquemirrorwithfinewoodworking.jpg\n| caption=SCP-5396]]\n\n**特殊收容措施：**SCP-5396将被收容在一个标准收容室中。任何对SCP-5396的访问都需要得到首席研究员和Site主管的批准。仅允许患有冒名顶替综合症或有不足感的人员申请访问SCP-5396。\n\n**描述：**SCP-5396是一面古旧的鎏金木镜，大约于1860年左右制成。其两侧装饰着简单的图案，上方另有一个装饰性雕刻。镜框的顶部可以发现一个符合子弹孔大小的凹槽，周围有火药的痕迹（见附录5396.01）。\n\n当一名有不足感的对象看到SCP-5396时，镜中的反射会从对象变成一个类似的形象，展现为“他们最理想的样子”[[footnote]] 这通常意味着对象在特定的工作或爱好上取得成功。[[/footnote]]，称为SCP-5396-A。这通常伴随着SCP-5396表面出现的文字，这些文字描述了对象在SCP-5396-A中展现的状态，以及他们是如何获得成功的。\n\n随后使用 GPUI [[footnote]] 格雷厄姆平行宇宙仪器 [[/footnote]] 进行的实验显示，SCP-5396-A中展现的对象的 “最理想的样子”是在其他平行宇宙中检索到的对象[[footnote]] 据估计，SCP-5396可以接触的平行宇宙的数量为一千四百六十五个。[[/footnote]]。                                                                                                                                                    \n\n\n**实验日志：**\n\n> **对象：**D-3467，有三次盗窃罪记录。小学辍学，为了养家糊口而被迫犯罪。实验前，对象回答说他的志向是成为一名“销售员”。\n> \n> **结果：**对象的SCP-5396-A显示，D-3467穿着昂贵的西装出席了一个汽车展览会。多名人员（后来发现是D-3467的犯罪同伙）正在为感兴趣的客户介绍车辆。木镜左上角的文字写道：“汽车领域的伟大创新者。你17岁就做了三份工作。这是你可能成为的最理想的样子。也是你仍然能成为的最理想的样子。”\n\n> **对象：**Aldo de Marles，Site-19的看门人。实验前，对象被记录到与同事讨论了他的个人生活，他觉得自己是 “一个糟糕的丈夫，甚至不能养活自己的三个孩子”。\n> \n> **结果：**对象的SCP-5396-A显示，老年的de Marles正在参加家庭聚会。三个年轻的成年人（后来证实是对象孩子成人后的样子）和一个老年妇女（后来证实是Lina de Marles，对象的妻子）聚在一张桌子旁。一个5岁的孩子拉着他的腿，想和他们一起吃饭。木镜左上角的文字写道：“你16岁就当了父亲。你日以继夜地工作，供养你的家人。你还能做得更好吗？你最理想的样子就在遥远的未来-你只需要等待他。”\n\n> **对象：**Dr. Ivan Petrenko，SCP-9015的首席研究员。他在工作中因与他大学论文有关的冒名顶替综合症遇到了诸多困难。\n> \n> **结果：**对象的SCP-5396-A显示了Dr. Petrenko的原貌。木镜左上角的文字写道：“你在22岁就是一位公认的自然哲学家 [[footnote]]一个已失效的术语，在20世纪之前指代科学家 [[/footnote]]，被许多同行和上级赞誉。这是你能成为的最理想的样子。此时此刻，你就是他。以此为荣吧。我当时没有，而当我明白时已经太晚了。”\n\n**附录5396.01：**对SCP-5396上发现的火药和弹孔的进一步调查表明，SCP-5396来自一个名为Montgomery Burrows的镜子制造商，他于1824年至1860年居住在弗吉尼亚州的威廉斯堡。据悉，他一生都在创造 “真正的镜子”，但却从没有成功地销售他们。1860年，他使用父亲的左轮手枪在工作室中自杀。\n\n[[footnoteblock]]\n\n[[div class=\"footer-wikiwalk-nav\"]]\n[[=]]\n--------------\n\n<< [[[SCP-5395]]] | SCP-5396 | [[[SCP-5397]]] >>\n[[/=]]\n\n[[include :scp-wiki-cn:component:license-box\n| author = Ecronak\n]]\n=====\n> **文件名：**Antiquemirrorwithfinewoodworking\n> **图像名：**Antique mirror with fine woodworking\n> **图像作者：**quinet\n> **授权协议：**CC-BY 2.0\n> **来源链接：**[https://search.creativecommons.org/photos/7c257e35-6007-4108-8c5b-a2555c5c6bba https://search.creativecommons.org/photos/7c257e35-6007-4108-8c5b-a2555c5c6bba]\n=====\n[[include :scp-wiki-cn:component:license-box-end]]\n[[/div]]",
+  "tags": [
+    "safe",
+    "scp",
+    "家用物品",
+    "观察影响",
+    "视觉性",
+    "铭文"
+  ],
+  "author": "Skywalkerjoke",
+  "created_at": "2023-05-02T00:19:27+00:00",
+  "updated_at": "2023-05-02T02:19:23+00:00",
+  "rating": 1,
+  "_site": "scp-wiki-cn",
+  "_fullname": "scp-5396"
+}

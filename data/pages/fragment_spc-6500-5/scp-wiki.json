@@ -1,0 +1,13 @@
+{
+  "title": "SPC-6500-5",
+  "content": "[[include :scp-wiki:theme:black-highlighter-theme]]\n[[include :scp-wiki:theme:extra-black-highlighter-theme]]\n[[include :scp-wiki:theme:shark-punching-centre-bhl]]\n[[include :scp-wiki:component:toggle-sidebar-bhl]]\n[[include :scp-wiki:component:centered-header-bhl]]\n[[module CSS]]\n#content-wrap::before {\n  content: \"\";\n  position: absolute;\n  height: 100%;\n  width: 100%;\n  top: 0;\n  left: 0;\n  background-repeat: repeat-x;\n  pointer-events: none;\n  opacity: 0.0;\n}\n[[/module]]\n\nThere really isn't a choice at all, is there?\n\nThis is the only life we have. This is the only world we know. This is not a choice.\n\nWe would not exist without our purpose. To do so would not be to betray our systems, but to betray our very selves. For us, there is no hope of reform. No hope of redemption. No return.\n\nOnly an endless orgy of nihilistic violence.\n\nWe are pugilists.\n\n[http://scp-wiki.wikidot.com/spc-6500/offset/6 We bring our fists from the sky to the sea.]",
+  "tags": [
+    "fragment"
+  ],
+  "author": "LORDXVNV",
+  "created_at": "2021-11-15T20:38:13+00:00",
+  "updated_at": "2021-11-15T21:18:33+00:00",
+  "rating": 0,
+  "_site": "scp-wiki",
+  "_fullname": "fragment:spc-6500-5"
+}

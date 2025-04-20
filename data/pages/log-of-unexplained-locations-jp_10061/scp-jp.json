@@ -1,0 +1,14 @@
+{
+  "title": "10061",
+  "content": "number: UE-10061-JP\ncontent: 一面をタイル張りされた噴水広場。当該領域に進入した人間が何らかの音楽を聴取しながらダンスを踊った場合、タイルがQWERTY配列のキーボードとして機能することで、進入者が思い浮かべる人物の電子端末へと文字列を送信することが可能になる。\ndate: 20██-██-██\narea: 兵庫県神戸市　███広場\nprotocol: 適切なカバーストーリーの下封鎖し、一般人の進入及び近辺で音楽を流す行為を禁止している。財団職員は申請すれば緊急時の通信方法として使用が許可されるが、当該領域の限定的な異常性につき送信された文字列は大抵の場合意味を成さないため、財団舞踏部門による専用の訓練を受けることが推奨される。\nredirect-b: '[[module Redirect destination=\"/log-of-unexplained-locations-jp'\nredirect-e: '\"]]'",
+  "tags": [
+    "jp",
+    "剪定対象-子"
+  ],
+  "author": "stengan774",
+  "created_at": "2021-02-13T01:05:56+00:00",
+  "updated_at": "2021-05-24T13:21:41+00:00",
+  "rating": 40,
+  "_site": "scp-jp",
+  "_fullname": "log-of-unexplained-locations-jp:10061"
+}

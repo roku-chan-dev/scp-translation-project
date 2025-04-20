@@ -1,0 +1,18 @@
+{
+  "title": "竜殺し",
+  "content": "[[div class=\"oh__img\"]]\n[[image http://scp-jp-storage.wdfiles.com/local--files/file%3A4589204-237-emn8/ドラゴンスレイヤー]]\n[[/div]]\n====\n[[module css]]\n.oh__img {\ndisplay:none;\n}\n[[/module]]\n[[include :scp-jp:theme:black-highlighter-theme]]\n[[include :scp-wiki:theme:war-on-all-fronts-bhl]]\n[[include :scp-jp:component:acs-animation]]\n\n[[module CSS]]\n@import url('https://fonts.googleapis.com/css2?family=Noto+Serif+JP&display=swap');\n\n@import url('https://fonts.googleapis.com/css2?family=Major+Mono+Display&display=swap');\n\n@import url('https://fonts.googleapis.com/css?family=Saira+Stencil+One&display=swap');\n[[/module]]\n\n[[include :scp-jp:credit:start]]\n**タイトル:** 竜殺し\n**著者:** [[*user Mitan]]\n**作成年:** 2023\n[[include :scp-jp:credit:end]]\n\n[[=]]\n[[span style=\"font-family: 'Noto Serif JP', serif; font-size: 90%; font-weight: bolder;\"]]\n//\" 終わらせよう。全ての戦線での戦いを。\"//\n[[/span]]\n[[/=]]\n\n-----\n[[image http://scp-jp-storage.wdfiles.com/local--files/file%3A4589204-237-emn8/ドラゴンスレイヤー \" width=\"100%\" margin=\"auto\"]]\n-----\n\n@@@@\n@@@@\n[[=]]\n[[span style=\"font-family: 'Saira Stencil One', cursive; font-size: 400%;\"]][[[https://scp-wiki.wikidot.com/scp-5514 |SCP-5514]]][[/span]]\n[[span style=\"font-family: 'Saira Stencil One', cursive; font-size: 200%;\"]]The Dragonslayer[[/span]]\n\n[[span style=\"font-family: 'Noto Serif JP', serif; font-size: 110%; font-weight: bolder;\"]]//\"ドラゴンスレイヤー\"//[[/span]]\n@@@@\n[[*user stormbreath]], [[*user Ellie3]], [[*user chiifu]], [[*user J Dune]]\n\n@@@@\n@@@@\n@@@@\n@@@@\n@@@@\n\n@@@@\n@@@@\n@@@@\n@@@@\n@@@@\n\n@@@@\n@@@@\n@@@@\n@@@@\n@@@@\n\n@@@@\n@@@@\n@@@@\n@@@@\n@@@@\n\n@@@@\n@@@@\n@@@@\n@@@@\n@@@@\n\n@@@@\n@@@@\n@@@@\n@@@@\n@@@@\n\n@@@@\n@@@@\n@@@@\n@@@@\n@@@@\n\n@@@@\n@@@@\n@@@@\n@@@@\n@@@@\n\n[[span style=\"font-family: 'Noto Serif JP', serif; font-size: 90%; font-weight: bolder;\"]]─ **[[[http://scp-jp.wikidot.com/war-on-all-fronts-hub |全ての戦線で戦え]]]** ─[[/span]]\n[[span style=\" font-family: 'Major Mono Display', monospace; font-size: 170%;\"]][[[http://scp-jp.wikidot.com/anastasis-hub |AnAstAsis]]][[/span]]\n\n[[/=]]\n\n@@@@\n@@@@\n@@@@",
+  "tags": [
+    "_イベント2",
+    "_イベント3",
+    "jp",
+    "アートワーク",
+    "オーバーフローキャンペーン",
+    "全ての戦線で戦え"
+  ],
+  "author": "Mitan",
+  "created_at": "2023-12-20T11:27:54+00:00",
+  "updated_at": "2024-01-15T15:15:42+00:00",
+  "rating": 24,
+  "_site": "scp-jp",
+  "_fullname": "the-dragonslayer-artwork"
+}

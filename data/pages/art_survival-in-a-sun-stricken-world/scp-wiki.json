@@ -1,0 +1,18 @@
+{
+  "title": "Survival in a Sun Stricken World",
+  "content": "[[include :scp-wiki:theme:penumbra]]\n\n[[module css]]\n:root {\n  --accentColor: #FF5512;\n  --header-title: \"DAYBREAK\";\n  --header-subtitle: \"SOL'S CRUEL PLANET\";\n  --lgurl: url(\"https://scp-wiki.wdfiles.com/local--files/daybreak/daybreaklogo.png\");\n}\n\n[[/module]]\n[[>]]\n[[module Rate]]\n[[/>]]\n\n[[include component:image-block\n| name=daybreak.jpg\n| width=1000px\n| caption=A hand-painting with acrylic and spray paint of SCP-001 When Day Breaks\n| align=center]]\n\n[[=]]\nA large painting I had created in representation of a silhouette survivor making a treacherous journey under the unforgiving sun of the Daybreak canon (and When Day Breaks itself). Yes. I am aware you cannot go outside, the figure is covered in bulky protective clothing.\n[[/=]]\n[[include :scp-wiki:component:license-box]]\n=====\n> **Filename:** daybreak.jpg\n> **Author:** [[*user emotionalentropy]]\n> **License:** CC BY-SA 3.0\n> **Source Link:** [/art:survival-in-a-sun-stricken-world SCP Foundation Wiki]\n=====\n[[include :scp-wiki:component:license-box-end]]",
+  "tags": [
+    "_cc",
+    "_licensebox",
+    "artwork",
+    "daybreak",
+    "painted",
+    "scp-art"
+  ],
+  "author": "EmotionalEntropy",
+  "created_at": "2023-04-17T04:02:11+00:00",
+  "updated_at": "2024-03-28T18:42:17+00:00",
+  "rating": 108,
+  "_site": "scp-wiki",
+  "_fullname": "art:survival-in-a-sun-stricken-world"
+}

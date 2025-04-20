@@ -1,0 +1,16 @@
+{
+  "title": "完美",
+  "content": "[[include :scp-wiki-cn:component:info-ayers\n|page=perfect[!-- url of your page on the scp wiki --]\n|authorPage=dr-cimmerian-s-personnel-file[!-- link to your author page --]\n|comments=给Dino--Draws的交换艺术礼物。由Voiiiii检查语法。\n\n]]\n[[include :scp-wiki-cn:theme:black-highlighter-theme]]\n[[module CSS]]\nsup {\nvertical-align: top; position: relative; top: -0.5em;\n}\n:root:lang(cn) {\n--cutColour: #fafafa;\n--barColour: #590505;\n}\n\n.info-container .collapsible-block-folded a{\ncolor: #FFF;}\n.info-container .collapsible-block-unfolded-link a{\ncolor: #FFF;}\n\n.translation_block{\ndisplay:none;}\n[[/module]]\n[[module css]]\n#side-bar {\n    background: rgb(var(--white-monochrome));\n}\n\n#side-bar div.menu-item a, #side-bar div.menu-item .text {\n    color: rgb(var(--black-monochrome));\n}\n\n#side-bar>div:nth-child(5) {\n    background-color: rgba(var(--dark-accent),0.25)!important;\n}\n[[/module]]\n\n我的名字不重要。我的身体无实质。我的神明不存在。\n \n我无处可在。我无物可是。我无人可有。\n \n我记得第一次警告你们躲开的时候，你们的一个厚脸皮的特工在本该右转时左转了。他彻底失去了目标。但他没有像你们以为的那样认罪，而是责怪了我。没有人相信他。但有些人注意到了。\n \n然后另一个特工又犯了另一个错误，突然间我出现在世界另一端，躲藏在角落里，让他迷了路。然后又是一名特工。又是一名。到了那个时候，没有人能忽视这逐渐形成的明确模式。\n \n是的，我是你们的错误。如果你们的人对错误没有那么洁癖的话，这一切本来都是可以避免的。\n \n前天，我第一次真实地脚踏实地。呼吸空气。感受微风拂面。你们的另一名特工在孟加拉国错过了情报，而我在街头买了点小吃。整个机动特遣队都喝醉了，错过了登机，所以我得以在中国的长城上散步。我在塞纳河边留下了一把爱情锁，赠予巴黎一位迫切地想要避开GOC杀戮行动小队的女士。\n \n顺便一提，她逃出来了，是因为我。这很好，因为我再也不只能得到基金会的关注了。\n \n我也不再只是帮你们掩饰错误了。我现在真的可以带你们寻欢作乐，一遍又一遍地毁灭。\n \n我存在是因为你们相信我存在。我喜欢思考，哦那也是个有趣的新东西，思考，但我喜欢思考的是：我是那个让你们的错误变得值得的人。\n \n毕竟，基金会犯错时，总是灾难性的。没有人想这样。\n \n昨天，我在Site-19。和某个魔物面对面。我被命令伏倒在地上。我没有听从。你们的人朝我开了枪。让我血脉贲张。我不记得什么时候还这么高兴过了。但我觉得如果这种事一直发生的话，也就没有那么有趣了。你们应该让你们的人知道，没有人能对我发号施令。 \n \n然后，我按下一个按钮，看着磁力锁解开。魔物的牢笼破碎。随后其中的野兽穿过墙壁，将我的追捕者撕裂成无物。你看，只是一点点恶作剧。\n \n今天，我在京都的一家咖啡馆里，你们的三个人把我押送到了当地的基金会站点。他们一点也不友好。我什么也没有做就受到了攻击，但我能理解。这是你们做事的方式。我想我还应该感激那不是GOC。\n \n但我还是想喝茶，所以我把他们抹消了。我不想伤害他们，很显然，所以似乎让他们从未存在过就是最好的办法。我需要仔细研究一下。也可能是错误的选择。\n \n我说让你们别管我是认真的。我很享受我们玩的小小游戏。虽然以前我不喜欢，但现在喜欢了，和你们对抗总是很有意思。但现在我必须得超越我们的小小游戏了。有些事必须要开始了。\n \n但也不要发愁。基本上都是好事。我要去航海，享受阳光洒在脸上。试着活一会儿，看看我喜不喜欢。人生苦短啊，你们也知道？\n \n我可能会试试搞点艺术。或者做点玩具。我可能会开一家最令人失望的药店。\n \n或者我也可能加入其他11个人，运作地球上最强大的秘密组织。想想看：当你什么人也不是的时候，你就可以是任何人。\n \n但如果我一个人在休息的话，不要打扰任何人，不要管我。\n \n相信我：下次再有人带着怒气来找我的时候，就会发生暴力。我不喜欢这种可能性。但话说回来，我也没试过什么暴力行为，很想看看那是什么感觉。忘了我说的吧。再派人来抓我也行。\n\n如果他们把每件事都做对了，我甚至可能会让他们把我关进来。但[[span class=\"ruby\"]]没有人[[span class=\"rt\"]]Nobody[[/span]][[/span]]是完美的。\n\n[[include :scp-wiki-cn:component:license-box\nauthor=Doctor Cimmerian]]\n[!-- N/A (无图)  --]\n[[include :scp-wiki-cn:component:license-box-end]]",
+  "tags": [
+    "nobody",
+    "交换艺术",
+    "故事",
+    "第一人称"
+  ],
+  "author": "Esperanza_Cai",
+  "created_at": "2024-04-10T06:42:25+00:00",
+  "updated_at": "2024-04-10T06:58:25+00:00",
+  "rating": 2,
+  "_site": "scp-wiki-cn",
+  "_fullname": "perfect-en"
+}

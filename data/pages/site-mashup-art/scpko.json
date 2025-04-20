@@ -1,0 +1,14 @@
+{
+  "title": "기지 매쉬업 (아트워크)",
+  "content": "[[include :scpko:theme:basalt]]\n\n[[include :scpko:info:start]]\n**기지 매쉬업 (아트워크)**\n**원작:** http://scp-wiki.com/site-mashup-art\n**작성:** [[*user ruskied]]\n**번역:** [[*user 2018]]\n[[include :scpko:info:end]]\n@@ @@\n\n\n[[include :scp-wiki:component:image-features-source |hover-enlarge=--]\n|enlarge-amount=100%\n|speed=1\n|float=false\n|align=left\n|url=https://i.imgur.com/CH9PDXV.png\n|add-caption=false\n|caption=text\n]]\n--------\n\n\n\n@@ @@\n@@ @@\n@@ @@\n@@ @@\n@@ @@\n\n[[=]]\n[[collapsible show=\"기지번호 적힌 버전\" hide=\"닫기\"]]\n@@ @@\n[[include :scp-wiki:component:image-features-source |hover-enlarge=--]\n|enlarge-amount=100%\n|speed=3\n|float=true\n|align=left\n|url=https://i.imgur.com/EhI8yyE.png\n|add-caption=false\n|caption=text\n]]\n[[/collapsible]]\n\n[[/=]]",
+  "tags": [
+    "en",
+    "아트워크"
+  ],
+  "author": "2018",
+  "created_at": "2024-03-14T09:32:44+00:00",
+  "updated_at": "2024-03-14T09:33:47+00:00",
+  "rating": 6,
+  "_site": "scpko",
+  "_fullname": "site-mashup-art"
+}

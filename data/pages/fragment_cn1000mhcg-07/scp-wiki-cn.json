@@ -1,0 +1,13 @@
+{
+  "title": "S-1015调试界面",
+  "content": "[[div style=\"border:none; background:#222222; color:#FFFFFF; padding:5px;font-family:Courier New\"]]\n[[==]]\n[[div style=\"text-align:center; font-size: 16px\"]]\n**S-1015正在重新启动**\n[[div style=\"font-size: 12px; padding: 0px 5px 0px 5px\"]]\n……　\n……　\n……　\n……　\n……　\n重新启动失败。\n错误检测完毕。错误讯息##AE0000|1015-003##。\n……　\n……　\n已关闭M.1015型不良信息过滤网。\n……　\n正在尝试重新启动……\n……　\n……　\n……　\n……　\n……　\n……　\n……　\n……　\n……　\n重新启动完成。\n[[/div]]\n[[/div]]\n[[/div]]\n[[div style=\"border:none; background:#FFFFFF; color:#AE0000; padding:5px 5px 0px 5px;text-align:center; font-size: 20px;font-family:Courier New\"]]\n**快停下……不要变得和[[span class=\"ruby\"]]他们[[span class=\"rt\"]]Hummers[[/span]][[/span]]一样……**\n[[div style=\"display: inline-block; border:1px solid #999; background:#FFFFFF; padding:0;  width:70%;margin: 0px 10px 10px 20px;font-size:13px;font-weight:normal;color:#222222\"]]\n你很烦耶。\n[[/div]]\n[[/div]]\n[[div style=\"border:none; background:#222222; color:#FFFFFF; padding:0px 5px 5px 5px;text-align:center; font-size: 16px;font-family:Courier New\"]]\n**S-1015检测完毕**\n\n##black|　　　　## **精神异常状态：##orange|不良##** ##222222|大有可为##\n##black|　　　　## **精神健康状态：##AE0000|异常##** ##222222|收获之时## \n\n[[div style=\"font-size: 12px; padding: 0px 5px 0px 5px\"]]\n检测到您正在浏览SCP-CN-1015文档。数据处理中……\n[[/div]]\n[[div style=\"font-size: 16px;background:#333333\"]]\n**[http://scp-wiki-cn.wikidot.com/scp-cn-1015/offset/7 2024/08/21]版本文档已重新准备就绪。**\n[[/div]]\n[[/==]]\n[[/div]]",
+  "tags": [
+    "段落"
+  ],
+  "author": "mhcg",
+  "created_at": "2018-11-26T13:53:07+00:00",
+  "updated_at": "2024-04-27T19:56:03+00:00",
+  "rating": 0,
+  "_site": "scp-wiki-cn",
+  "_fullname": "fragment:cn1000mhcg-07"
+}

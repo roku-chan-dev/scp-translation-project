@@ -1,0 +1,15 @@
+{
+  "title": "アートコンテストハブ - Tales",
+  "content": "[[=]]\n+ このカテゴリーの優勝作品: //鐘を鳴らす者の詩// by DrFrog\n[[/=]]\n\n[[module css]]\n.content-panel {\n    border: none;\n    border-radius: 0px;\n    background-color: #fff;\n    margin: 10px 0 15px;\n    box-shadow: none;\n    box-shadow: none;\n}\n[[/module]]\n[[div class=\"content-panel left-column\"]]\n\n[[include component:image-block name=DrFrogBellerverse.png| caption=Dr Frogによる[http://ja.scp-wiki.net/bellerverse 鐘を鳴らす者の詩]。フルビューは [https://i.imgur.com/vxGKWpt.png こちら]。]]\n\n[[include component:image-block name=techaartBees.png| caption= https://techaart.tumblr.comによる[http://ja.scp-wiki.net/bees ハチ]。 フルビューは[https://i.imgur.com/qdLxeoU.png こちら]。]]\n\n[[include component:image-block name=Sirawsmface64.png| caption= Sirawsmface64による[http://ja.scp-wiki.net/doctors-of-the-church-hub 教会の博士 ハブ]。フルビューは[https://i.imgur.com/KXsyKsQ.png こちら]。]]\n\n[[include component:image-block name=surumerume.png| caption= surumerumeによる[http://ja.scp-wiki.net/long-live-the-king 国王万歳！]。フルビューは[https://i.imgur.com/w5iW59F.png こちら]。]]\n\n[[include component:image-block name=Akumeoy.png| caption= Akumeoyによる[http://ja.scp-wiki.net/revenants 蘇る幽霊たち]。フルビューは[http://www.scp-wiki.net/local--files/quote-unquote-art-by-cww/AkumeoyTales.png こちら]。]]\n\n[[/div]]\n\n[[div class=\"content-panel right-column\"]]\n[[include component:image-block name=Flawed.png| caption= Flawedによる[http://ja.scp-wiki.net/document-recovered-from-the-marianas-trench マリアナ海溝から回収された文書]。フルビューは[https://i.imgur.com/vapUgHU.png こちら]。]]\n\n[[include component:image-block name=HerculesRockefeller.png| caption= Hercules Rockefellerによる[http://ja.scp-wiki.net/on-mount-golgotha-hub ゴルゴタの丘で-ハブ]。フルビューは[https://i.imgur.com/AIF8Ukt.png こちら]。]]\n\n[[include component:image-block name=Faut.png| caption= Fautによる[http://ja.scp-wiki.net/stop-going-in-circles Stop going in circles]。フルビューは[https://i.imgur.com/eP9uQA2.png こちら]。]]\n\n[[include component:image-block name=PerelkaL.png| caption= Perelka_Lによる[http://ja.scp-wiki.net/the-stars-do-not-wait-for-you 綺羅星はきみの遥か先へ]。フルビューは[https://i.imgur.com/tuk5D7S.png こちら]。]]\n\n[[include component:image-block name=Kenoma.png| caption= Kenomaによる[http://ja.scp-wiki.net/12talesaboutafactory あるファクトリーに関する12の物語]。フルビューは[https://i.imgur.com/wYVTwHi.png こちら]。]]\n[[/div]]",
+  "tags": [
+    "art2017",
+    "en",
+    "アートワーク"
+  ],
+  "author": "Kasugai_Kanagu",
+  "created_at": "2019-01-03T18:14:58+00:00",
+  "updated_at": "2023-07-26T14:27:47+00:00",
+  "rating": 14,
+  "_site": "scp-jp",
+  "_fullname": "art-contest-hub-tales"
+}

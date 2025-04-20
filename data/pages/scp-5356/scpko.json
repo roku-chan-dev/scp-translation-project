@@ -1,0 +1,20 @@
+{
+  "title": "SCP-5356",
+  "content": "[[include info:start]]\n**SCP-5356:** [삭제됨]\n**저자:** [[*user Kothardarastrix]]\n**원작:** https://scp-wiki.wikidot.com/scp-5356\n**역자:** [[*user Aiken Drum]]\n[[include info:end]]\n\n[[div style=\"text-align: right; margin-right: 2em; margin-top: -20px;\"]]\n\nby [[[Koths Korner| ███████████████]]]\n\n[[/div]]\n\n[[module ListPages  category=\"fragment\" parent=\".\" limit=\"1\" order=\"name\" offset=\"@URL|0\"]]\n%%content%%\n[[/module]]\n\n[!-- http://scpko.wikidot.com/fragment:scp-5356-1 --]\n[!-- http://scpko.wikidot.com/fragment:scp-5356-2 --]",
+  "tags": [
+    "en",
+    "scp",
+    "구조",
+    "명문",
+    "사체",
+    "이상성부",
+    "재단이-만듦",
+    "타우미엘"
+  ],
+  "author": "Aiken Drum",
+  "created_at": "2023-12-31T14:36:34+00:00",
+  "updated_at": "2024-01-01T05:59:04+00:00",
+  "rating": 3,
+  "_site": "scpko",
+  "_fullname": "scp-5356"
+}

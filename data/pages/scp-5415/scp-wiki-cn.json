@@ -1,0 +1,21 @@
+{
+  "title": "SCP-5415",
+  "content": "[[include :scp-wiki-cn:credit:start-standalone]]\n[[=]]\n\n[*http://scp-wiki-cn.wikidot.com/dysadron 请到我的作者页看更多作品！]\n\n[[/=]]\n[[include :scp-wiki-cn:credit:end-standalone]]\n\n[[module ListPages  category=\"fragment\" parent=\".\" limit=\"1\" order=\"created_at\" offset=\"@URL|0\"]]\n%%content%%\n[[/module]]\n\n[[module CSS]]\n\n.info-container .collapsible-block-folded a{\ncolor: #FFF;}\n.info-container .collapsible-block-unfolded-link a{\ncolor: #FFF;\n}\n\n#page-content .collapsible-block {\n    display: block;\n    text-align: center;\n    padding: .8em;\n    background-color: #e3e3e3;\n    border-top: 0.125rem dashed #b5b5b5;\n    border-bottom: 0.125rem dashed #b5b5b5;\n}\n\n#page-content .collapsible-block .collapsible-block-content {\n    text-align: left;\n}\n\n#page-content .licensebox .collapsible-block {\n    display: unset;\n    text-align: unset;\n    padding: unset;\n    background-color: unset;\n    border-top: unset;\n    border-bottom: unset;\n}\n\n#page-content .licensebox .collapsible-block .collapsible-block-content {\n    text-align: unset;\n}\n\nblockquote,\ndiv.blockquote {\n    border: 0.125rem solid #d4d4d4;\n    background-color: #F5F5F5;\n}\n\n.interview{\n    border:solid 2px #d4d4d4;\n    background:#F5F5F5;\n    width:80%;\n    padding:1px 15px;\n    margin: 10px auto;\n}\n\n#page-title{display:none}\n\n[[/module]]\n\n[!-- http://scp-wiki-cn.wikidot.com/fragment:scp-5415-1--]\n[!-- http://scp-wiki-cn.wikidot.com/fragment:scp-5415-2 --]\n\n[[footnoteblock]]\n\n[[div class=\"footer-wikiwalk-nav\"]]\n[[=]]\n<< [[[SCP-5414]]] | SCP-5415 | [[[SCP-5416]]] >>\n[[/=]]\n[[/div]]\n\n[[include :scp-wiki-cn:component:license-box\n|author=Dysadron\n|translator=Grignard_reagent\n]]\n=====\n> **文件名：**120GM\n> **作者：**Dysadron\n> **授权协议：**CC-BY-SA\n\n> **文件名：**FloorPlan1\n> **作者：**Dysadron\n> **授权协议：** CC-BY-SA\n\n> **文件名：**FloorPlan2\n> **作者：**Dysadron\n> **授权协议：**CC-BY-SA\n\n> **文件名：**FloorPlan3\n> **作者：**Dysadron\n> **授权协议：**CC-BY-SA\n\n> **文件名：**Baptism\n> **作者：**Dysadron\n> **授权协议：**CC-BY-SA\n> **衍生自：**\"young-happy-couple-at-sunset-beach\" + Free vintage antique leather book cover texture for layers (2981931138).jpg\n\n> **文件名：**Baptism\n> **图像名：**young-happy-couple-at-sunset-beach\n> **作者：**peopleshot\n> **授权协议：**CC0\n> **来源链接：** https://pickupimage.com/free-photos/young-happy-couple-at-sunset-beach/2333012\n \n> **文件名：**Baptism\n> **图像名：**Free vintage antique leather book cover texture for layers (2981931138).jpg\n> **作者：**Pink Sherbert Photography\n> **授权协议：**Creative Commons Attribution 2.0 Generic\n> **来源链接：** https://commons.wikimedia.org/wiki/File:Free_vintage_antique_leather_book_cover_texture_for_layers_(2981931138).jpg\n=====\n[[include :scp-wiki-cn:component:license-box-end]]",
+  "tags": [
+    "keter",
+    "scp",
+    "叙述性",
+    "强迫性",
+    "形态改变",
+    "文件",
+    "时空",
+    "记忆影响",
+    "超维度"
+  ],
+  "author": "Grignard_reagent",
+  "created_at": "2023-12-07T12:15:24+00:00",
+  "updated_at": "2023-12-07T12:18:14+00:00",
+  "rating": 3,
+  "_site": "scp-wiki-cn",
+  "_fullname": "scp-5415"
+}

@@ -1,0 +1,19 @@
+{
+  "title": "SCP-8085",
+  "content": "[[include :scp-wiki-cn:theme:foxtrot]]\n\n=====\n[[include component:preview\ntext=\nThere's no fixing what isn't broken.\n]]\n=====\n\n**项目编号：**SCP-8085\n\n**项目等级：**Keter\n\n**特殊收容措施：**自报对沙漠草原鞭尾蜥产生性欲的人员将被扣留讯问。将对其进行记忆删除，若认定有必要将予以处置。\n\n[[include :scp-wiki:component:image-block name=https://scp-wiki.wdfiles.com/local--files/scp-8085/WHIPTAIL,_DESERT_GRASSLAND_(Aspidoscelis_uniparens)_(6-20-09)_cave_creek,_az_-01_(3657715036).jpg|caption=一只鞭尾蜥，在遭遇SCP-8085发作6小时之后。|width=###px]]\n\n基金会网络爬虫I/O CNEMIDUS必须监控全球范围的沙漠草原鞭尾蜥种群，确认有无任何反常行为报告。任何关于此物种或其他无性动物行为反常的报告将被抹除，对目击者将给予记忆删除。\n\n**描述：**SCP-8085是一种影响沙漠草原鞭尾蜥(//Aspidocelis uniparens//)的现象，该物种的特点是全种群均为雌性，实施无性繁殖。因SCP-8085影响，该物种在其一生中会发出一次类似人类的话语声。这些话语声内容不连贯，目击者将其描述为“紧张”且“痛苦”。\n@@ @@\n\n[[div style=\"border:solid 1px #999999; background:#f2f2c2; padding:5px; margin-bottom: 10px;\"]]\n[[=]]\n++++ 基金会记录与信息安保管理提醒\n\n本文件剩余部分已按[[[https://scp-wiki-cn.wikidot.com/scp-8008 |6/8008级]]]权限编辑。\n\n— Maria Jones，RAISA主管\n[[/=]]\n[[/div]]\n\n[[collapsible show=\"+ 点击继续\" hide=\"- 收起close\"]]\n\n**附录8085-1：**\n\nSCP-8008是一场以SCP-8008-2（一个能运用极端本质促动操控来篡改现实基础方面的存在）为中心的以诺异常事件。因下列事件，SCP-8085被认为受到了SCP-8008的部分影响。\n\n于06/11/2023，在对SCP-8008-A中发现的50万具尸体进行例行检查时，发现了一具体型反常巨大的沙漠草原鞭尾蜥尸体，将其编为SCP-8085-α。其腰部黄色线条拼成了下列文本：//vesta.txt//。\n\n在此发现后，HANAZONO.AIC从SCP-8008-C中筛出一份文本文件。//vesta.txt//的内容表明其作者不是SCP-8008-2，而是在阉时计划后的超时认知瘴后遗影响期间进入到了它的所有物中。//vesta.txt//被很快解密，加入到SCP-8085文件：\n\n[[div class=\"paper\"]]\n他永远不停。他永远不停。他还有其他所有人。但尤其是他。今天一只猫头鹰带着他的信来到。上面以白纸白字写到：\n\n> «//其实，它并非自然。根本不是自然。因为生物学不是如此运作的。有性繁殖是一切动物，还有人类的原始驱动，而人类，就如你与我，都喜欢有性繁殖。佛洛依德说的非常真切。所以，不想要这么做就是反自然的。你能理解这意味着什么吗？意味着你要么在撒谎，要么就是坏掉了。而我要修复你。//»\n\n然后我想要撕开我的皮。\n[[/div]]\n\n[[/collapsible]]\n\n@@ @@\n@@ @@\n\n[[include :scp-wiki:component:license-box]]\n=====\n> **Filename:** WHIPTAIL,_DESERT_GRASSLAND_(Aspidoscelis_uniparens)_(6-20-09)_cave_creek,_az_-01_(3657715036).jpg\n> **Author:** ALAN SCHIEMER\n> **License:** CC0 1.0 Universal Public Domain Dedication\n> **Source Link:** https://commons.wikimedia.org/wiki/File:WHIPTAIL,_DESERT_GRASSLAND_(Aspidoscelis_uniparens)_(6-20-09)_cave_creek,_az_-01_(3657715036).jpg\n=====\n[[include :scp-wiki:component:license-box-end]]",
+  "tags": [
+    "2024骄傲节",
+    "keter",
+    "lgbtq",
+    "scp",
+    "声音",
+    "尸体",
+    "爬行类动物"
+  ],
+  "author": "ashausesall",
+  "created_at": "2024-06-18T15:00:02+00:00",
+  "updated_at": "2025-02-10T20:35:50+00:00",
+  "rating": 1,
+  "_site": "scp-wiki-cn",
+  "_fullname": "scp-8085"
+}

@@ -1,0 +1,21 @@
+{
+  "title": "SCP-6892",
+  "content": "[[include info:start]]\n**SCP-6892:** 제32기지 전 직원에게 보내는 메모.\n**저자:** [[*user Harriet Farrar]]\n**원작:** http://www.scp-wiki.net/scp-6892\n**역자:** [[*user MGPedersen]]\n[[include info:end]]\n\n[[module CSS]]\n.email-example .collapsible-block-folded a.collapsible-block-link {\n    animation: blink 0.8s ease-in-out infinite alternate;\n}\n@keyframes blink {\n    0% { color: transparent; }\n    50%, 100% { color: #b01; }\n}\n.email {border: solid 2px #000000; width: 88%; padding: 1px 15px; margin: 10px; box-shadow: 0 1px 3px rgba(0,0,0,.5)}\n.email-example a.collapsible-block-link {font-weight: bold;}\n.tofrom {margin-left: 10px; margin-top: 5px; padding: 1px 15px; border-left: solid 3px maroon}\n[[/module]]\n[[div class=\"email\"]]\n[[=]]\n\n++++ **__메모__**\n[[/=]]\n//제32기지 전 직원에게, SCP-6892는 가급적 외진 곳에 있는 개방된 장소에 두어, 일상 업무에 지장이 없도록 해주세요.//\n\n//미처 안내 받지 못한 제32기지 직원들을 위해 말씀드리자면, SCP-6892는 은색 항아리로, 앞면에 심장 그림이 양각되어 있습니다.//\n\n//SCP-6892와의 상호작용을 최소화하여 손상을 입히거나 내용물을 쏟는 일이 없도록 해주세요. 한번 엎지른 것은 치워담을 수 없으니까요.//\n\n//이 글을 쓰는 지금, SCP-6892는 B동 3호 연구실에 위치해 있습니다. SCP-6892를 함부로 옮기지 말아주세요, 전 아직 끝내야할 중요한 일이 남아있습니다.//\n\n//유령처럼 보이거나 공중부양을 하는 등의 초상 현상을 보이는 자를 목격한 직원분이 계셔도 놀라지 마세요. 그저 SCP-6892-1의 특성일 뿐입니다.//\n\n//오하라,,O'Hara,,와 로버츠,,Roberts,, 이사관님께, 제 기일에 꼬박꼬박 참석하여 명복을 빌어주셔서 대단히 감사하다는 말씀을 드리고 싶습니다. 말로 다 표현하지 못할 만큼이에요.//\n\n- 선임연구원 루시 퍼거슨,,Lucy Fergurson,,. **†**\n\n\n[[/div]]\n\n[[div class=\"authors\"]]\n[[include :scp-wiki:component:license-box\n|author=Harriet Farrar]]\n[[include :scp-wiki:component:license-box-end]]\n[[/div]]",
+  "tags": [
+    "en",
+    "scp",
+    "난해한-등급",
+    "무형",
+    "사체",
+    "소생",
+    "인간형",
+    "인공물",
+    "지성"
+  ],
+  "author": "MGPedersen",
+  "created_at": "2021-12-07T08:16:50+00:00",
+  "updated_at": "2024-10-06T15:57:16+00:00",
+  "rating": 20,
+  "_site": "scpko",
+  "_fullname": "scp-6892"
+}

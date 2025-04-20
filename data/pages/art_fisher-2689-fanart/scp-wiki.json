@@ -1,0 +1,17 @@
+{
+  "title": "FISHER: SCP-2689 Fanart",
+  "content": "[[include :scp-wiki:theme:foxtrot]]\n\n[[module CSS]]\n:root {\n--header-title: \"Site-169\";\n--header-subtitle: \"Anomalous Entity Engagement Division\";\n  --logo-img: url(\"https://scp-wiki.wikidot.com/local--files/secure-facility-dossier-site-169/AEED-logo.png\");\n--accent: 255, 105, 180;\n}\n[[/module]]\n\n[[=]]\n[[module Rate]]\n[[/=]]\n\n[[=image https://scp-wiki.wikidot.com/local--files/art:fisher-2689-fanart/Fisher.jpg width=\"500px\"]]\n\n------\n[[div class=\"blockquote\" style=\"border-radius:10px; margin:10px\"]]\n[[=]]\n**Filename:** Fisher\n**Author:** [[*user winkwonkboi]]\n**License:** CC-BY-SA-3.0\n**Source Link:** SCP Foundation\n**Derivative of:** SCP-2689, written by me\n[[/=]]\n[[/div]]\n------\n= [[size 150%]]{{**[https://scp-wiki.wikidot.com/scp-2689 SCP-2689]** - Finding Percy}}[[/size]]\n------\n= //(Written by and drawn by [[user winkwonkboi]].)//\n@@ @@\n[[div class=\"note\"]]\n[[=]]\n**__Artist's Commentary__**\n\nBack at it again with the Anomalous Entity Engagement Division. This time we have here our dear fishy friend Percy. It's about time I drew fanart of my own article.\n\nAnd huzzah, I have snagged myself a Series III spot! I wrote this as quickly as I could before coldposting it (//Sorry for committing such a terrible sin, by the way//). I am quite proud of myself for the progress I have made on my mission to write an article for every single series.\n\nI'm planning to write more articles for the AEED. I struggle with coming up with overarching stuff like this, so the fact that I managed to conceive this department amazes me. Shoutout to [[*user Rounderhouse]]'s Department Con. I doubt I would ever come up with this if I didn't participate in this contest.\n\nAlso, I give my thanks to my teammates: [[*user Deadcanons]] and [[*user GreenGolem]]. They really did help me better vision this concept and piece it together into an actual thing. I really appreciate it.\n\nYou should stop by and read an article from our department some time. Who knows, maybe even contribute to it too. By '//maybe//', I mean you should. This is a threat.\n\nOkay, bye. 👋\n[[/=]]\n[[/div]]\n@@ @@\n[[=]]\n+ //Why yes! We do have feelings!//\nCheck out my other 'doodles' [https://scp-wiki.wikidot.com/winkwonk-doodles here.]\n@@ @@\n[[module Rate]]\n[[/=]]",
+  "tags": [
+    "_cc",
+    "artwork",
+    "cel-shaded",
+    "engagement-division",
+    "scp-art"
+  ],
+  "author": "winkwonkboi",
+  "created_at": "2022-04-17T10:20:53+00:00",
+  "updated_at": "2024-09-10T23:21:09+00:00",
+  "rating": 24,
+  "_site": "scp-wiki",
+  "_fullname": "art:fisher-2689-fanart"
+}

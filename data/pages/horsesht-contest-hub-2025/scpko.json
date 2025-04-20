@@ -1,0 +1,14 @@
+{
+  "title": "2025년 개구라경연 3.0: 당신은 투고할 수 있(지 않)다",
+  "content": "[[module css]]\n/* Site Theme */\n@import url(https://backrooms-wiki.wdfiles.com/local--code/theme%3Ahallprint/1);\n \n/* Collapsible Sidebar */\n@import url(\"https://backrooms-wiki.wikidot.com/component:sidebar-theme/code/1\");\n \n/* User Flairs */\n@import url(\"https://backrooms-wiki.wikidot.com/component:user-flairs/code/1\");\n \n/* meta style \n \nthis makes it harder for staff members to accidentally guff the SEO*/\n \n#action-area > div[style=\"padding-left:3em;\"] {\n    width: 100%;\n    margin: 0 auto;\n    padding: 1em 0 !important;\n    font-family: var(--mono-font);\n}\n \n#action-area h1 + p + h2 ~ div[style=\"padding-left:3em;\"] > div:is(:nth-of-type(1), :nth-of-type(2), :nth-of-type(3), :nth-of-type(4), :nth-of-type(5), :nth-of-type(6), :nth-of-type(7)) a {\n    visibility: hidden !important;\n  pointer-events: none;\n}\n \n#edit-meta-newtag-form a:nth-of-type(2) {\n  display: none;\n  pointer-events: none;\n}\n#page-title{display:none}\n\n:root:lang(ko) {\n--header-title: \"백룸\";\n--header-subtitle: \"한위키 백룸 윌 리턴\";\n}\n[[/module]]\n\n[[include :scpko:theme:xmas\n|xmas-snow= --]]]\n\n[[include :scpko:info:start]]\n**2025년 개구라경연 3.0: 당신은 투고할 수 있(지 않)다**\n**작가:** [[*user TimidChild]]\n----\n이 글은 [[*user scutoid studios]]가 제작한 [http://backrooms-wiki.wikidot.com/theme:hallprint Hallprint theme]을 사용합니다. 해당 테마는 CC BY-SA-3.0을 따릅니다.\n\n이 글은 [[*user romrom]]이 작성한 [[[bullsht-contest-hub-2024|]]]에서 상당 부분을 따왔습니다.\n[[include :scpko:info:end]]\n\n[[div class=\"meta-title\"]]\n2024년 백룸위키 크리스마스 기념 경연\n[[/div]]\n\n[[div class=\"blockquote\"]]\n어느덧 2024년도 끝자락에 접어들고, 성탄절이 코앞입니다. 외롭고, 무섭고, 위험하디 위험한 백룸 속에서도 성탄절은 오겠죠. 한 해의 끝을 알리는 의미에서, 백룸위키 한국어 지부는 \"크리스마스\"를 주제로 한 공식경연을 개최합니다. 여러분이 할 일은 \"크리스마스\"를 주제로 글을 작성하는 것입니다. 투고 분야는 자유이며 레벨, 엔티티, 오브젝트 등 무엇이든 투고 가능합니다. \n\n투고 기간은 2024년 12월 1일부터 2024년 12월 18일까지이며, 평가기간은...\n[[=]]\n**.**\n[[/=]]\n\n@@@@\n@@@@\n\n[[=]]\n**.**\n[[/=]]\n\n네? \n\n지금은 성탄절이 아니라고요?\n\n백룸 위키는 더더욱 아니고요?\n[[/div]]\n\n@@@@\n@@@@\n\n[[=]]\n**.**\n[[/=]]\n\n@@@@\n@@@@\n\n[[=]]\n**.**\n[[/=]]\n\n@@@@\n@@@@\n\n[[=]]\n**.**\n[[/=]]\n\n@@@@\n@@@@\n\n[[=]]\n**.**\n[[/=]]\n\n@@@@\n@@@@\n\n[[=]]\n**.**\n[[/=]]\n\n@@@@\n@@@@\n\n[[=]]\n**.**\n[[/=]]\n\n@@@@\n@@@@\n\n[[=]]\n**.**\n[[/=]]\n\n@@@@\n@@@@\n\n[[=]]\n**.**\n[",
+  "tags": [
+    "ko",
+    "이야기"
+  ],
+  "author": "TimidChild",
+  "created_at": "2024-04-01T10:31:40+00:00",
+  "updated_at": "2024-12-29T06:50:04+00:00",
+  "rating": 23,
+  "_site": "scpko",
+  "_fullname": "horsesht-contest-hub-2025"
+}

@@ -1,0 +1,14 @@
+{
+  "title": "遠雷のオルゴール",
+  "content": "content: \"**説明:** 起動させた人物の耳元に0dB[[footnote]]dB（デシベル）は相対単位であり、基準となる0dBは音圧を表現する際「人間が聞き取れるギリギリの音」として定義されている。[[/footnote]]の\\n音を鳴らすオルゴール。認識に成功した人物はその音を例外なく「遠雷のような音」と形容する\\n**回収日:** 20██/██/██\\n**回収場所:** 東京-大阪間を航行する貨物船 ████号の船内にて回収\\n**現状:** 低脅威度物品収容ロッカーに保管。\\n**追記:** 心が穏やかになる遠雷のような音です。癒されます -████研究員\\nあれから結構経つけど、僕には聞こえなくなってしまった。年月は残酷だなあ… -████博士\\n\\n[[footnoteblock]]\"\ntf2: '0'\nauthor: ''\nredirect-b: '[[module Redirect destination=\"http://ja.scp-wiki.net/log-of-anomalous-items-jp'\nredirect-e: '\"]]'",
+  "tags": [
+    "jp",
+    "剪定対象-子"
+  ],
+  "author": "MeltRose",
+  "created_at": "2021-02-06T06:32:29+00:00",
+  "updated_at": "2021-05-24T13:19:02+00:00",
+  "rating": 5,
+  "_site": "scp-jp",
+  "_fullname": "anomalous-jp:02532"
+}

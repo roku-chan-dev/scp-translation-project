@@ -1,0 +1,21 @@
+{
+  "title": "SCP-1691-KO",
+  "content": "[[include :scpko:info:start]]\n**제목:** SCP-1691-KO 실낙원 작전의 패잔병이자, 재단 최후의 직원 마들렌 아만드. 낙원으로 가는 길에 오르다.\n**저자:** [[*user Raihorizon]]\n> **조각문서 링크**\n> https://scpko.wikidot.com/fragment:scp-1691-ko-1\n> https://scpko.wikidot.com/fragment:scp-1691-ko-2\n[[include :scpko:info:end]]\n\n[[module ListPages  category=\"fragment\" parent=\".\" limit=\"1\" order=\"created_at\" offset=\"@URL|0\"]]\n%%content%%\n[[/module]]",
+  "tags": [
+    "ko",
+    "scp",
+    "극한",
+    "배일호-박사",
+    "안전",
+    "인간형",
+    "지성",
+    "차원학부",
+    "현실조작"
+  ],
+  "author": "Raihorizon",
+  "created_at": "2024-12-19T03:56:45+00:00",
+  "updated_at": "2025-02-08T12:51:30+00:00",
+  "rating": 10,
+  "_site": "scpko",
+  "_fullname": "scp-1691-ko"
+}

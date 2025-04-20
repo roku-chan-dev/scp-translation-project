@@ -1,0 +1,18 @@
+{
+  "title": "SCP-6914",
+  "content": "[[include :scp-wiki:theme:black-highlighter-theme]]\n[[include :scp-wiki:component:toggle-sidebar-bhl]]\n[[include :scp-wiki:component:rso]]\n\n[[include component:info-ayers\n|lang=ko\n|page=scp-6914\n|authorPage=https://scp-wiki.wikidot.com/misterfrown\n|comments=\n\n= **SCP-6914:** 나가서 풀냄새라도 좀 맡고 와,,Touch Grass,, _\n**원작:** https://scp-wiki.wikidot.com/scp-6914 _\n**저자:** [[*user MisterFrown]] _\n**역자:** [[*user LR0725]] _\n]]\n\n[[=]]\n[[module Rate]]\n[[/=]]\n\n[[include :scpko:component:anomaly-class-bar-source\n|item-number= 6914\n|clearance= 4\n|container-class= 레이딕스\n|secondary-class= none\n|disruption-class= 암흑\n|risk-class= 위해\n]]\n\n[[include :scpko:component:customizable-acs\n|containment-class= 레이딕스\n|containment-image= https://scp-wiki.wdfiles.com/local--files/scp-6183/RADIX.svg\n|containment-color= 154, 205, 50\n|inc-containment = --]]]\n\n-----\n\n[[include component:image-block name=https://scp-sandbox-3.wdfiles.com/local--files/frowngrass/keepoffgrass.png|align=center|width=100%|caption=SCP-6914에 대한 면역성을 보이는 평범한 집고양이 (//Felis catus//).]]\n\n----\n\n**특수 격리 절차:** 상급감시사령부에 속한 모든 직원은 SCP-6914의 변칙성을 숙지하여 SCP-6914의 지시를 확실히 준수하고 있다. 구조물 유지보수를 위해 고용된 재단 정원사는 근처 잔디를 만지지 않도록 잔디깎이만 사용해야 한다.\n\n**설명:** SCP-6914는 \"KEEP OFF GRASS\"(풀 좀 조지지 마세요)라고 쓰여 있는 작은 표지판이다.\n\nSCP-6914의 반경 80 km 범위 내에 있는 인간이 잔디와 신체 접촉을 하면, 하늘에서 번개가 갑자기 나타나 그 사람이 현재 서 있는 지점을 타격한다. 번개는 타격하고자 하는 대상에게 도달하기 위해 각 사례마다 그 강도가 알맞게 변화해, 절연 소재로 된 것도 포함해 대상을 보호하는 방벽 따위를 모두 파괴한다.\n\nSCP-6914 발견 후, 감독관 평의회가 만장일치로 찬성하여 SCP-6914를 상급감시사령부 제01기지 외부에 설치했다. 보안을 강화해야 할 만한 수준의 보안 파기 사태는 아직 제01기지에서 발생한 바 없으나, 시설과 소속 인원의 중요성을 중히 감안해 이러한 결정이 내려졌다.\n\n**부록 6914.1:** 사건 6914-알파\n\n2012년 4월 18일, 제01기지 지하 2층의 사용하지 않는 방에서 돌연 번개가 쳤다. 기동특무부대 알파-1 (\"붉은 오른손\") 부대원들이 조사를 위해 급히 파견되었다. 이들은 방에 도착해 번개에 맞아 새까맣게 타버린 윌리엄 피터슨 요원의 시신을 발견했다. 보안 카메라를 돌려본 결과 피터슨 요원이 번개에 맞기 전 가방 안에서 무언가를 꺼내는 모습이 포착되었다. 요원이 잡았던 물건은 대마초 궐련으로 확인되었다.\n\n이 사건이 의미하는 바는 아직 검토 중이다.\n\n[[div class=\"authors\"]]\n[[include :scp-wiki:component:license-box]]\n|author=MisterFrown]]\n[[div class=\"blockquote\"]]\n**Name:** File:Keep off grass sign.jpg\n**Author:** GK tramrunner RU\n**License:** CC BY-SA 4.0\n**Source Link:** https://commons.wikimedia.org/wiki/File:Keep_off_grass_sign.jpg\n**Notes:** Image cropped.\n[[/div]]\n\n[[include :scp-wiki:component:license-box-end]]\n[[/div]]\n\n[[module CSS]]\n\n:root {\n\n--zero: 0;\n\n}\n\n[[/module]]",
+  "tags": [
+    "en",
+    "scp",
+    "난해한-등급",
+    "명문",
+    "인공물",
+    "전기"
+  ],
+  "author": "LR0725",
+  "created_at": "2024-10-26T12:13:31+00:00",
+  "updated_at": "2024-10-26T16:18:34+00:00",
+  "rating": 12,
+  "_site": "scpko",
+  "_fullname": "scp-6914"
+}

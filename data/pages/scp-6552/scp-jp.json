@@ -1,0 +1,18 @@
+{
+  "title": "SCP-6552",
+  "content": "[[include :scp-wiki:component:ratio-bar base=-- |ex=--]]\n\n[[include :scp-jp:credit:start]]\n[[include :scp-jp:credit:cc4]]\n[[include :scp-jp:credit:end]]\n\n[[include :scp-wiki:component:author-label-source start=--\n|name=Tstaffor\n|no-right-margin=*]]\n私の他の著作はこちらをチェック:\n[*http://scp-wiki.wikidot.com/tstaffor-s-author-page Tstafforの隔離収容端末]\n[[include :scp-wiki:component:author-label-source end=--]]\n\n[[include component:image-block name=http://scp-jp-storage.wdfiles.com/local--files/file%3A2375337-408-qak1/tidalwav.png|caption=SCP-6552。|width=200px]]\n\n**アイテム番号:** SCP-6552\n\n**オブジェクトクラス:** Safe\n\n**特別収容プロトコル:** SCP-6552は異常文書フォルダー-47に保存されています。SCP-6552の実験は全て中止されており、如何なる状況でもSCP-6552のファイル名変更や再生は許可されません。\n\n**説明:** SCP-6552は岸辺に打ち寄せる水の音を収録した.wavファイルです。後ろに[[span class=\"ruby\"]]“.wav”[[span class=\"rt\"]]ウェイヴ[[/span]][[/span]]と付け加えると複合語になるようなファイル名を付けて再生すると、それに対応した異常事象が発生します。\n\n[[=]]\n[[include :snippets:html5player\n|type=audio\n|url=http://scp-jp-storage.wdfiles.com/local--files/file%3A2375337-409-zmp2/wav.wav\n]]\n[[/=]]\n\n**補遺 6552.1 実験ログ:**\nヘンダーソン博士はSCP-6552にどのようなファイル名を付けるかをD-41897に指示しました。D-41897はその後、ファイルを3～10回ループ再生し、ヘンダーソン博士が効果を書き留めました。\n||~ SCP-6552のファイル名 ||~ 異常事象 ||\n|| [[span class=\"ruby\"]]sound.wav[[span class=\"rt\"]]サウンドウェイヴ[[/span]][[/span]] || SCP-6552の音声は、音声再生のためにコンピュータに接続されたスピーカーではなく、.wavファイル自体を構成するピクセルから発せられた。 ||\n|| [[span class=\"ruby\"]]heat.wav[[span class=\"rt\"]]ヒートウェイヴ[[/span]][[/span]] || SCP-6552が再生された部屋は1秒あたり1°Cの速度で加熱された。 ||\n|| [[span class=\"ruby\"]]vapor.wav[[span class=\"rt\"]]ヴェイパーウェイヴ[[/span]][[/span]] || 再生中、SCP-6552の再生に用いられたコンピュータのあらゆるUIは、音楽ジャンル“ヴェイパーウェイヴ”の美的イメージと一致するように再構築された。 ||\n|| [[span class=\"ruby\"]]brain.wav[[span class=\"rt\"]]ブレインウェイヴ[[/span]][[/span]] || 録音機器は如何なる音も検出できなかったにも拘らず、実験サイト-98の全職員がSCP-6552の音声を聞くことができた。 ||\n|| [[span class=\"ruby\"]]micro.wav[[span class=\"rt\"]]マイクロウェイヴ[[/span]][[/span]] || 再生されると、SCP-6552の再生機器から高濃度の放射線が放出され、D-41897は音声が3回ループ再生された後に死亡した。 ||\n|| [[span class=\"ruby\"]]tidal.wav[[span class=\"rt\"]]タイダルウェイヴ[[/span]][[/span]] || 実験サイト-98の浸水によって、この際生じた異常事象のメモは回収不可能になった。実験サイト-98の再建と新たな交換要員の異動が進行中である。 ||\n\n[[footnoteblock]]",
+  "tags": [
+    "en",
+    "safe",
+    "scp",
+    "録音録画",
+    "音声添付",
+    "音波"
+  ],
+  "author": "C-Dives",
+  "created_at": "2022-06-05T16:15:39+00:00",
+  "updated_at": "2022-06-05T16:20:18+00:00",
+  "rating": 2,
+  "_site": "scp-jp",
+  "_fullname": "scp-6552"
+}

@@ -1,0 +1,16 @@
+{
+  "title": "怪奇銘々伝　寄席ビラ",
+  "content": "[[module CSS]]\n@import url('https://fonts.googleapis.com/css?family=Noto+Sans+JP|Noto+Serif+JP&display=swap');\n \nbody {\n    font-family: 'Noto Serif JP';\n}\n.color a{\n    color: black;\n}\n[[/module]]\n\n[[include credit:start]]\n**タイトル:** 怪奇銘々伝　寄席ビラ\n**作者:** [[*user Phylliidae]]\n**作成年:** 2021\n[[include credit:end]]\n@@@@\n@@@@\n------\n\n[[div style=\"margin: auto; width: 60%;\"]]\n**これは、かつてあった事。**\n**しかし、歴史に記述される事は決してない噺でございます。**\n**現代の科學でさえ理解の及ばぬ怪異…。ふとした時に顔を出す彼らと相対した、普通の人々の物語でございます。**\n\n[[>]]\n**〜[http://scp-jp.wikidot.com/kaiki-meimeiden-hub 『怪奇銘々伝 ハブ』]より〜**\n[[/>]]\n[[/div]]\n\n------\n@@@@\n@@@@\n[[=image http://scp-jp-storage.wikidot.com/local--files/file:6693676-17-t7d9/F6A166B9-1EC5-4E0C-A000-49AA6DE94EE9.jpeg style=\"max-width:90%;\"]]\n\n[[=]]\n[[size 130%]]\n[[div class=\"color\"]]\n[[collapsible show=\"『天上天下之廻物』\" hide=\"クレジット\"]]\n[[/div]]\n[[div class=\"blockquote\"]]\n[http://scp-jp.wikidot.com/str0013 『天上天下之廻物』]\n[[*user str0717]]\n(2021)\n[[/div]]\n\n[[/collapsible]]\n[[/size]]\n[[/=]]\n------\n\n[[=image http://scp-jp-storage.wikidot.com/local--files/file:6693676-18-gsp7/959ABB72-A3FC-43E2-B910-17724C9E29D5.jpeg style=\"max-width:90%;\"]]\n\n[[=]]\n[[size 130%]]\n[[div class=\"color\"]]\n[[collapsible show=\"『天ノ娘』\" hide=\"クレジット\"]]\n[[/div]]\n\n[[div class=\"blockquote\"]]\n[http://scp-jp.wikidot.com/str0011 『天ノ娘』]\n [[*user str0717]]\n(2020)\n[[/div]]\n[[/collapsible]]\n[[/size]]\n[[/=]]\n------\n\n[[=image http://scp-jp-storage.wikidot.com/local--files/file:6693676-19-c0q2/3BE1FDB0-06D8-48B5-B121-EDC84FF1756D.jpeg style=\"max-width:90%;\"]]\n\n[[=]]\n[[size 130%]]\n[[div class=\"color\"]]\n[[collapsible show=\"『綾を破って』\" hide=\"クレジット\"]]\n[[/div]]\n\n[[div class=\"blockquote\"]]\n[http://scp-jp.wikidot.com/str0007 『綾を破って』]\n [[*user str0717]]\n(2020)\n[[/div]]\n[[/collapsible]]\n[[/size]]\n[[/=]]",
+  "tags": [
+    "jp",
+    "ねこです",
+    "アートワーク",
+    "怪奇銘々伝"
+  ],
+  "author": "Phylliidae",
+  "created_at": "2021-10-24T08:11:11+00:00",
+  "updated_at": "2024-10-31T11:27:38+00:00",
+  "rating": 88,
+  "_site": "scp-jp",
+  "_fullname": "phylliidae-meimei-artwork"
+}

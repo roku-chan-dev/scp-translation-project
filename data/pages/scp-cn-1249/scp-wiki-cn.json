@@ -1,0 +1,21 @@
+{
+  "title": "SCP-CN-1249",
+  "content": "[[>]]\n[[module Rate]]\n[[/>]]\n[[include :scp-wiki-cn:component:anomaly-class-bar-source\n|lang= cn\n|item-number=SCP-CN-1249\n|clearance= 2\n|container-class= euclid\n|secondary-class= none\n|secondary-icon= http://url.com\n|disruption-class= vlam\n|risk-class= 警告\n]]\n\n\n[[include component:image-block name=S|caption=于首次发现SCP-CN-1249时拍摄]]\n[[include component:image-block name=STAR|caption=SCP-CN-1249在X光下拍摄]]\n**特殊收容措施：**所有野生SCP-CN-1249需被捕获后单独收容，个体应放置在1mX1mX0.3m的玻璃箱中，容器中的海水需定期更换。收容区域必须保持良好的排水功能。\n\n\n**描述：**SCP-CN-1249为外形与原瘤海星外形（//Protoreaster nodosus// ）相似的一类种群的统称，其表面由聚乙烯组成。其残留成分主要为ABS。[[footnote]] 适用性较强的塑料品种[[/footnote]]\n\n\n项目的生理特征基本与原瘤海星一致，其不同主要表现在：\n* 其腕足中有与人类指骨相似的骨骼\n* 其胃袋具有强延展性、活动性\n* 项目的胃呈袋状，表面有6~9个圆形胃孔\n* 其口面朝上，反口面向下\n\n\n虽然其并不需要摄入物质也可存活，但个体仍会主动寻找并食用树脂、塑料等物质。个体仅会在感到危险时攻击人类。\n\n\n在个体进食时，项目胃部从口部涨出，其会迅速包裹周围的摄食对象，并将其吞噬。胃部内的物质会被缓慢消化。进食结束后，物质会转化为海水排出。\n@@@@\n@@@@\n@@@@\n@@@@\n@@@@\n@@@@\n@@@@\n@@@@\n@@@@\n@@@@\n@@@@\n@@@@\n**附录：**\n[[collapsible show=\"+回收记录 \" hide=\"- 隐藏\"]]\n\n[[div class=\"blockquote\"]]\n\n= __**回收记录**__\n\n----\n\n已知对SCP-CN-1249的最早发现记录为在202█/█/█的一起针对在██海域中发现3█岁的女性尸体的新闻报道，死者手部被割离，项目个体被发现于其双手截面部分。\n\n之后项目为自卫，攻击了禁渔区5名非法捕捞人员，并造成其死亡后，引起基金会注意。回收行动中，6名人员身体因被胃袋缠住，而导致其身体受伤。\n[[/div]]\n[[/collapsible]]\n[[collapsible show=\"+新闻记录 \" hide=\"- 隐藏\"]]\n[[div class=\"blockquote\"]]\n**笔记：**该新闻首次记录到SCP-CN-1249主动攻击人类。其原因不明\n[[div class=\"blockquote\"]]\n= __**新闻纪录**__\n----\n**新闻标题：**██海域海平面发现一具女性尸体\n\n**新闻内容：**202█年█月█日，经██海域周边居民通知██海域海平面发现一具女性尸体。\n得到消息后，██海域海岸警卫队立即赶赴现场开展工作。尸体双手被割去。\n\n尸检证明双手于死后被割下，同时尸体本身保持完好，肺部无积水，胃内未检测到有毒物质。死者死因不明，目前怀疑是自杀。\n\n尸体发现时有2只海星状生物附着于其双手截面，并对尸体进行啃食。目前调查仍在进行中。\n[[/div]]\n[[/div]]\n[[/collapsible]]\n[[collapsible show=\"+事故记录 \" hide=\" 隐藏\"]]\n[[div class=\"blockquote\"]]\n= __**事故报告█.█**__\n----\n**时间202█／[[span class=\"bblock\"]][[span style=\"color:black\"]]1[[/span]][[/span]]/█** \n \n**事件：**经调查于202█/█/█，下午█点由于电力故障，一只项目个体于未监控状态下从破损容器中脱离。\n该个体放出了该收容室中的其他个体，与其共同组成一人形实体，从其身体特征判断其是女性。\n\n\n该个体在成型后，站立不动，并注视着离其最近的研究人员，发出一段表意不明的声响。该过程持续近1分钟。\n\n\n然后，个体的头部向下仰，似乎是在观察其自身的身体。\n\n\n在此过程后，个体迅速奔跑，并尝试突破收容。\n\n\n个体最后于门口处被制伏。\n\n[[/div]]\n[[/collapsible]]\n\n[[div class=\"footer-wikiwalk-nav\"]]\n@@@@\n= << [[[SCP-CN-1248]]] | [# SCP-CN-1249 ] | [[[SCP-CN-1250]]] >>\n[[/div]]",
+  "tags": [
+    "_cc",
+    "euclid",
+    "scp",
+    "动物",
+    "原创",
+    "水生",
+    "活物",
+    "生殖性",
+    "种群"
+  ],
+  "author": "Rainbow_Sheperd",
+  "created_at": "2020-03-13T03:11:07+00:00",
+  "updated_at": "2020-10-13T13:00:50+00:00",
+  "rating": 17,
+  "_site": "scp-wiki-cn",
+  "_fullname": "scp-cn-1249"
+}

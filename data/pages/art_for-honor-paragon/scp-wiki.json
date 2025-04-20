@@ -1,0 +1,17 @@
+{
+  "title": "For Honor Paragon",
+  "content": "[[include :scp-wiki:theme:basalt \nthemesetting=a|\ndarkmode=a]]\n\n\n[[module CSS]]\n:root {\n     --header-title: \"SCP FOUNDATION\";\n     --header-subtitle: \"SECURE - COINTAIN - PROTECT\";\n     --header-font: 'Poppins'\n}\n[[/module]]\n\n\n\n\n[[div class=\"notation\"]]\n[[=]]\n[[module Rate]]\n[[collapsible show=\"What is this?\" hide=\"Close\"]]\nHi, this is my entry for Remixcon 2023, this is my interpretation of the [*https://scp-wiki.wikidot.com/project-paragon-hub PROJECT PARAGON]'s Demons if they were based on different cultures, all was written by [[*user djkaktus]], I was greatly inspired from the game For Honor and thought about remixing these 6 arms dudes right away. I'm gonna save 6765 for later :D\nMentioned SCP: \n[*https://scp-wiki.wikidot.com/scp-2254 SCP-2254]\n[*https://scp-wiki.wikidot.com/scp-4840 SCP-4840]\n[*https://scp-wiki.wikidot.com/scp-6666 SCP-6666]\n[[/collapsible]]\n[[/=]]\n[[image https://scp-wiki.wdfiles.com/local--files/art%3Afor-honor-paragon/remixed%20paragon.png]]\n[[image https://scp-wiki.wdfiles.com/local--files/art%3Afor-honor-paragon/2254.png]]\n[[image https://scp-wiki.wdfiles.com/local--files/art%3Afor-honor-paragon/4840.png]]\n[[image https://scp-wiki.wdfiles.com/local--files/art%3Afor-honor-paragon/6666.png]]\n[[/div]]",
+  "tags": [
+    "_cc",
+    "artwork",
+    "painted",
+    "remixcon2023",
+    "scp-art"
+  ],
+  "author": "Duy Giang",
+  "created_at": "2023-08-24T10:12:43+00:00",
+  "updated_at": "2024-03-28T18:41:54+00:00",
+  "rating": 70,
+  "_site": "scp-wiki",
+  "_fullname": "art:for-honor-paragon"
+}

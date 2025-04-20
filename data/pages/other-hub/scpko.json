@@ -1,0 +1,15 @@
+{
+  "title": "예비 및 비공식 지부 허브",
+  "content": "[[div class=\"content-panel standalone series\"]]\n[[div class=\"content-toc\"]]\n[[# list]]\n**목록**\n[/other-hub#list 목록]\n[/other-hub#operational SCP 관련 정보]\n[/other-hub#EL SCP-EL 목록]\n[/other-hub#ID SCP-ID 목록]\n[/other-hub#LA SCP-LA 목록]\n\n[[/div]]\n\n\n[[# operational]]\n+ SCP 관련 정보\n\n* [[[Security Clearance Levels|보안 인가 등급]]]\n* [[[Object Classes|객체 등급]]]\n* [[[niveaux-de-menace-des-objets-scp|위협 등급]]]\n* [[[Secure Facilities Locations|보안 시설 위치]]]\n* [[[Task Forces|특무부대]]]\n\n[[# EL]]\n+ SCP-EL(그리스어) 목록\n+++ [[[http://scp-el.wikidot.com/|SCP 재단 그리스어 지부 홈페이지]]]\n\n* [[[SCP-002-EL]]] - 생물학적 사다리\n\n[[# ID]]\n+ SCP-ID(인도네시아어) 목록\n+++ [[[http://scp-idn.wikidot.com/|SCP 재단 인도네시아 지부 홈페이지]]]\n\n* [[[SCP-003-ID]]] - 네 신부는 진짜야, 친9\n\n[[# LA]]\n+ SCP-LA(라틴어) 목록\n+++ [[[http://scp-la.wikidot.com/|SCP 재단 라틴어 지부 홈페이지]]]\n\n* [[[SCP-LA-001]]] - 기밀 해제 대기중 [차단됨]\n* [[[SCP-LA-002]]] - 과일\n\n[[/div]]",
+  "tags": [
+    "id",
+    "la",
+    "허브"
+  ],
+  "author": "fluxman",
+  "created_at": "2022-02-22T08:19:23+00:00",
+  "updated_at": "2023-09-30T02:25:51+00:00",
+  "rating": 3,
+  "_site": "scpko",
+  "_fullname": "other-hub"
+}

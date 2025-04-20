@@ -1,0 +1,19 @@
+{
+  "title": "SCP-245",
+  "content": "[[include :scp-wiki-cn:component:info-ayers\n|page=scp-245[!-- url of your page on the scp wiki --]\n|authorPage=dr-cimmerian-s-personnel-file[!-- link to your author page --]\n|comments=大家好。這是一個僅能使用互動性媒體描述的SCP，使用RPG Maker創作，總共有四個結局。\n\n劇透在討論區內[[footnote]]**譯註：**指原文討論區。[[/footnote]]。\n\n在創作過程中，我得到了許多幫助以及試玩反饋。我很確定我在致謝名單中列出了所有測試者的名字，但我要特別感謝Decibelles，TwistedGears，和Waterfire。另外，感謝SunnyClockwork提供了用在遊戲中的精美藝作。\n\n備註：考慮到我創作的原SCP-245的內容，在獲得網站管理員明確的特殊許可後，我將原SCP-245移動到了SCP-2623。這次改動並不代表在將來也能準許此類改動。\n\n對了！要是你們在遊玩過程中發現了bug，請到此處說明。[[footnote]]**譯註：**指原文討論區。[[/footnote]]我自己已經把這個遊戲跑了大概不下一百次，但我敢說我和試玩者們還是會漏掉一些東西。\n\n要問為什麽這個頁面鎖住了？[[footnote]]**譯註：**指原文頁面。[[/footnote]]是我申請的，為的是防止其他人在編輯中把鏈接搞亂。\n\n補充：直到遊戲做到一半的時候，我才發現Mac電腦運行不了這個（連exe都不行）。盡管如此，其它用戶表示這個遊戲可以在Windows模擬器上完美運行。常受推薦的是Wine和Bootcamp模擬器。\n]]\n[[include :scp-wiki-cn:theme:black-highlighter-theme]]\n[[module CSS]]\nsup {\nvertical-align: top; position: relative; top: -0.5em;\n}\n:root{\n--cutColour: #fafafa;\n--barColour: #590505;\n}\n.info-container .collapsible-block-folded a{\ncolor: #FFF;}\n.info-container .collapsible-block-unfolded-link a{\ncolor: #FFF;}\n.translation_block{\ndisplay:none;}\n.footnotes-footer{\ndisplay:none;\n}\n[[/module]]\n\n**項目編號：**SCP-245\n\n**項目等級：**Safe\n\n**特殊收容措施：**SCP-245-1的副本被收容於氣隙電腦中。這些電腦被存放於[[[secure-facility-dossier-site-88|Site-88]]]的C部門第十層。SCP-245-1的各個迭代需被監視並定期完成以確保持續收容。\n\nSCP-245-1的遊戲世界中的重大改變需向計畫負責人匯報。SCP-245-1的主密碼不應透露給在SCP-245-1中遇到的任何實體。\n\n**描述：**詳見[http://scpsandbox2.wikidot.com/local--files/mscarlet/SCP-245-1-zh.zip SCP-245-1.zip]以得到關於SCP-245的更多資訊。\n\n> 注意：SCP-245-1只能在裝有OSCP或Windows作業系統的系統上運行。\n\n\n[[html]]\n<head>\n<script language=\"javascript\">\n\nfunction LogIn(){\nloggedin=false;\npassword=\"\";\npassword=prompt(\"密碼：\",\"\");\npassword=password.toLowerCase();\n\n// Add password-->\nif (password==\"welcome2corneria\") {\nloggedin=true;\nwindow.open('/scp-245-1-a');\n}\n\n\n// If login incorrect -->\nif (loggedin==false) {\nalert(\"密碼錯誤\");\n}\n}\n\n</script>\n\n</head>\n\n<body>\n<form><input type=button value=\"存取SCP-245-1-A？\" onClick=\"LogIn()\"></form>\n</body>\n[[/html]]\n\n[[html]]\n<html>\n<head>\n<script type=\"text/javascript\">\nfunction setVar()\n{\n    if (sessionStorage.read != 1)\n    {\n        sessionStorage.setItem('read', 1);\n    }\n}\n</script>\n</head>\n<body onLoad=\"setVar();\">\n</body>\n</html>\n[[/html]]\n\n[[footnoteblock]]\n\n[[div class=\"footer-wikiwalk-nav\"]]\n[[=]]\n<< [[[SCP-244]]] | SCP-245 | [[[SCP-246]]] >>\n[[/=]]\n[[/div]]",
+  "tags": [
+    "meta",
+    "safe",
+    "scp",
+    "互动性",
+    "叙述性",
+    "媒体",
+    "游戏"
+  ],
+  "author": "MScarlet",
+  "created_at": "2016-07-02T14:29:41+00:00",
+  "updated_at": "2023-04-13T14:53:08+00:00",
+  "rating": 57,
+  "_site": "scp-wiki-cn",
+  "_fullname": "scp-245"
+}

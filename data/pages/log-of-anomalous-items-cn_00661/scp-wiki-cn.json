@@ -1,0 +1,11 @@
+{
+  "title": "00661",
+  "content": "content: \"[[module CSS]]\\n#u-start, .textchange div.sitemember:nth-child(2) {display:none;}.type-wrap-wrapper {position: relative;text-align: left;}.type-wrapper {background: #555;}.typearea {color: lime; font-family: \\\"Courier\\\";font-size: 1.2em;margin: 10px 0 0 10px;white-space: nowrap;overflow: hidden;width: 0;}#u-start:target ~ .typearea {width: 100%;animation: type 4s steps(60, end); }.typearea a{color: lime;text-decoration: none;}.blink {animation: blink 1s infinite;}@keyframes type{ from { width: 0; } } @keyframes blink{to{opacity: .0;}}.buttonwrapper {text-align: center;}.likebutton {padding: 0.1em 0.5em;text-decoration: none;font-size: 1.3em;background-color: #F4F4F4;border: 1px solid #AAA;color: #000;}.likebutton:hover {background-color: #DDD;color: #000;border: 1px solid #0098b3;}\\n[[/module]]\\n\\n**项目描述：**一盒火柴，在火柴盒正面写有一行小字“劣质物品®×引火自焚”，背面写着“劣质物品协会致Dr.x”该项目内共有17根火柴，火柴在点燃后会从人体与其接触的位置开始燃烧[[footnote]]这会导致火烧到使用者的手[[/footnote]]。\\n**回收时间：**20 ██/██/██\\n**回收地点：**Dr.x的口袋里\\n**当前状态：**放置在CN-site.69无价值异常仓库\\n**笔记：**我 ████！——三次被烧到手的Dr.x\\n所以他们是和你杠上了？……啊！——正在用火柴点[[[http://scp-wiki-cn.wikidot.com/log-of-anomalous-items-cn:00646|烟]]]的hastily\\n\\n[[div class=\\\"type-wrap-wrapper\\\"]]\\n[[div class=\\\"type-wrapper\\\"]]\\n[[div id=\\\"u-start\\\"]]\\n[[/div]]\\n[[div class=\\\"typearea\\\"]]\\n[[div class=\\\"textchange\\\"]]\\n[[module ListUsers users=\\\".\\\"]]\\n[[div class=\\\"sitemember\\\"]]\\n我记住你了“%%name%%”——Dr.x[[span class=\\\"blink\\\"]]|[[/span]]\\n[[/div]]\\n[[/module]]\\n[[div class=\\\"sitemember\\\"]]\\n你可不是劣质物品®协会的成员[[span class=\\\"blink\\\"]]|[[/span]]\\n[[/div]]\\n[[/div]]\\n[[/div]]\\n[[/div]]\\n[[div class=\\\"buttonwrapper\\\"]]\\n[[a class=\\\"likebutton\\\" href=\\\"#u-start\\\"]]如果你是劣质物品®公司成员点我！[[/a]]\\n[[/div]]\\n[[/div]]\"",
+  "tags": [],
+  "author": "hastily",
+  "created_at": "2021-07-03T14:27:44+00:00",
+  "updated_at": "2021-07-05T10:01:56+00:00",
+  "rating": 11,
+  "_site": "scp-wiki-cn",
+  "_fullname": "log-of-anomalous-items-cn:00661"
+}

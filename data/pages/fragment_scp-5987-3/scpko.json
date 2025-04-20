@@ -1,0 +1,14 @@
+{
+  "title": "fragment:scp-5987-3",
+  "content": "[[include :scpko:component:anomaly-class-bar-source\n\n|item-number= 5987\n\n|clearance= 1\n\n|container-class= 유클리드\n\n|container-class-en= Euclid\n\n|secondary-class= none\n\n|secondary-class-en= none\n\n|secondary-icon= none\n\n|disruption-class= 암흑\n\n|disruption-class-en= dark\n\n|risk-class= 주목\n\n|risk-class-en= warning\n\n]]\n\n------\n\n[[include component:image-block\n    name=http://scp-wiki.wdfiles.com/local--resized-images/fragment:scp-5987-3/sirenhead/medium.jpg|\n    caption=복원된 후의 SCP-5987.\n]]\n\n**특수 격리 절차:** SCP-5987은 염수 방지 처리되었으며 역사적으로 정확한 19세기 범선 모형에 부착되었다. 이 모형은 제34구역의 해상 관측소에 있는 염수 격리구역(saltwater enclosure)에 놓여 있다. SCP-5987은 손상 징후가 있는지 확안하기 위해 한 달에 한 번 검사한다.\n\n**설명:** SCP-5987은 19세기 초 프랑스의 사략선 브릭[[footnote]]18세기와 19세기 초에 흔했던 두 개의 돛이 있는 범선.[[/footnote]]인 단치히 공작 호의 선수상이었다. 그러나 SCP-5987의 구성성분 검사 결과 이것은 약 200년 전에 만들어졌으며 브릭이 건조된 이후 추가되었을 가능성이 높다.\n\nSCP-5987은 인근 1km 내의 모든 해상 선박을 통제할 수 있다. 과거에 이 능력은 적대 선박을 침몰시키거나 약탈하기 위해 좌초시키는 데 사용되었다. SCP-5987은 이런 일을 하는 데 분개한 것으로 보이며 1811년에 프랑수아 아레그노도 선장과 그의 선원들을 죽이고 말았다. 프랑스 해군 함정에 의해 바다에서 불타버린 뒤, 그것이 \"죽은\" 방식은 그 위치에서 심령적 교란(spectral disturbance)을 일으킬 정도로 강해졌다.\n\n현재 SCP-5987은 격리구역 주위를 항해하기 위해서 능력을 사용한다. 가까이 있는 인원들은 프랑스 뱃노래 《보니(는 전사였다네),,Boney (Was a Warrior),,》를 부르는 정체불명의 합창 소리를 들었다고 보고하였다.",
+  "tags": [
+    "en",
+    "조각문서"
+  ],
+  "author": "Crssk",
+  "created_at": "2020-07-13T11:52:33+00:00",
+  "updated_at": "2020-07-22T15:34:19+00:00",
+  "rating": 0,
+  "_site": "scpko",
+  "_fullname": "fragment:scp-5987-3"
+}

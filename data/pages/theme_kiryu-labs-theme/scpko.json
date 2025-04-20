@@ -1,0 +1,14 @@
+{
+  "title": "키류 연구실 테마",
+  "content": "[[module CSS]]\n@import url('https://scpko.wdfiles.com/local--code/theme%3Akiryu-labs-theme/1');\n@import url('https://fonts.googleapis.com/css?family=Bungee+Shade&display=swap');\n\n.unmargined {\n    background-color: #3B5C0A!important;\n    border: solid 1px #3B5C0A!important;\n    border-radius: 1px!important;\n    box-shadow: none!important;\n}\n\n[[/module]]\n\n[[include :scp-wiki:component:interwiki-style\n| priority=1\n| theme=https://scp-wiki.wdfiles.com/local--code/theme%3Akiryu-labs-theme/1\n]]\n\n[[iftags +테마]]\n\n[[>]]\n[[module Rate]]\n[[/>]]\n\n아래를 여러분의 페이지에 넣어주세요.\n> [[include theme:kiryu-labs-theme]]\n----\n----\n----\n[[code type=\"css\"]]\n/*\n    Kiryu Labs Theme\n    [2020 Wikidot Theme]\n    Created by rounderhouse.\n    Based on SCP Sigma 9 Theme created by Aelanna and Dr Devan, and Wilson's Wildlife Solutions theme by Stormbreath.\n    Built for Zyn, #ARTEXCHANGE2019 - Merry (semi-late) Christmas!\n*/\n\n@import url('https://scp-wiki.wdfiles.com/local--code/theme%3Akiryu-labs-theme/1');\n@import url('https://scpko.wdfiles.com/local--files/korean-font/SoulTitle.css');\n\n#header h1 a {\n    font-family:  'Bebas Neue', 'SoulTitle', cursive;\n}\n\n#header h1 a::before {\n    content: \"키류 연구실\";\n}\n\n/* Info module fix */\n.rate-box-with-credit-button {\n    background-color: #a3c162;\n}\n\n.rate-box-with-credit-button .page-rate-widget-box * {\n    border: none;\n}\n\n.rate-box-with-credit-button .page-rate-widget-box .cancel a:hover {\n    border-radius: 0;\n}\n[[/code]]\n\n[[/iftags]]",
+  "tags": [
+    "en",
+    "테마"
+  ],
+  "author": "Salamander724",
+  "created_at": "2020-04-09T22:18:17+00:00",
+  "updated_at": "2024-08-17T06:56:33+00:00",
+  "rating": 1,
+  "_site": "scpko",
+  "_fullname": "theme:kiryu-labs-theme"
+}

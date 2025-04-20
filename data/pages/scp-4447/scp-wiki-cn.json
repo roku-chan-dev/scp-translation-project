@@ -1,0 +1,18 @@
+{
+  "title": "SCP-4447",
+  "content": "[[include :scp-wiki-cn:theme:black-highlighter-theme]]\n\n[[include :scp-wiki-cn:component:info-ayers       \n|page=scp-4447[!-- url of your page on the scp wiki --]\n|authorPage=aismallard[!-- link to your author page --]\n|comments=**SCP-4447：**Sasha的超级传送服务！\n**作者：**aismallard\n**图像来源：**\n* {{website.png}} - 作者的原创作品\n* {{ring.jpeg}} - [https://commons.wikimedia.org/wiki/File:Order_of_the_Engineer_Ring_(Macro).jpg 通过维基共享资源的方式，CC-SA-3.0]，作者Taximes\n \n感谢wctaiwan，[[*user woedenaz]]和[[*user AthosNetwork]]的批判！\n]]\n\n[!--\nPages:\nhttp://scp-wiki-cn.wikidot.com/fragment:scp-4447-1\nhttp://scp-wiki-cn.wikidot.com/fragment:scp-4447-2\nhttp://scp-wiki-cn.wikidot.com/fragment:scp-4447-3\nhttp://scp-wiki-cn.wikidot.com/fragment:scp-4447-4\n--]\n\n[[module ListPages category=\"fragment\" parent=\".\" order=\"created_at\" limit=\"1\" offset=\"@URL|0\"]]\n%%content%%\n[[/module]]\n\n[[footnoteblock]]",
+  "tags": [
+    "mc&d",
+    "safe",
+    "scp",
+    "传送",
+    "心灵感应",
+    "金属"
+  ],
+  "author": "xywy",
+  "created_at": "2022-05-06T14:23:30+00:00",
+  "updated_at": "2022-05-06T15:43:21+00:00",
+  "rating": 3,
+  "_site": "scp-wiki-cn",
+  "_fullname": "scp-4447"
+}

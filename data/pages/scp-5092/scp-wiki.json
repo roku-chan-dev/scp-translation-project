@@ -1,0 +1,21 @@
+{
+  "title": "SCP-5092",
+  "content": "[!-- Fragments: --]\n[!-- http://scp-wiki.wikidot.com/fragment:scp-5092-1 --]\n[!-- http://scp-wiki.wikidot.com/fragment:scp-5092-2 --]\n\n\n[[include :scp-wiki:component:bhl-dark-sidebar]]\n[[module CSS]]\n/* anendlessusername's invaluable correction of the ACS octagon! */\n#page-content .quadrants > div {\n    top: 2.25%;\n    left: 18.5%;\n}\n[[/module]]\n \n[[>]]\n[[module Rate]]\n[[/>]]\n\n[[include :scp-wiki:component:author-label-source start=--\n|name=WizzBlizz\n|no-right-margin=*]]\nWritten by [[*user WizzBlizz]]\n[[include :scp-wiki:component:author-label-source end=--]]\n\n[[module ListPages  category=\"fragment\" parent=\".\" limit=\"1\" order=\"created_at\" offset=\"@URL|0\"]]\n%%content%%\n[[/module]]\n\n[[footnoteblock]]\n\n[[div class=\"footer-wikiwalk-nav\"]]\n[[=]]\n<< [[[SCP-5091]]] | SCP-5092 | [[[SCP-5093]]] >>\n[[/=]]\n[[/div]]\n\n[[include :scp-wiki:component:license-box]]\n=====\n> **Filename:** Obama\n> **Source:** Still Frame from the video, //President Obama Honors the 2013 NBA Champion Miami Heat//\n> **Link:** https://youtu.be/WelG2e4g0xE\n> **Channel:** The Obama White House - //Maintained by the National Archives and Records Administration (NARA)//\n> **Notes:** Still Frame was edited by me.\n \n> **Filename:** MoreObama\n> **Name:** Vice President Joe Biden and President Barack Obama\n> **Author:** U.S. Embassy Jakarta, Indonesia\n> **License:** Public Domain\n> **Source Link:** https://search.creativecommons.org/photos/17a67dc5-d094-4622-9576-1eb3c1250742\n> **Additional Notes:** Edited by me\n \n> **Filename:** ObamaAgain\n> **Name:** Obama Potrait 2006\n> **Author:** Ari Levinson\n> **License:** CC BY-SA 3.0\n> **Source Link:** https://commons.wikimedia.org/wiki/File:Obama_Portrait_2006.jpg\n> **Additional Notes:** Edited by me\n \n> **Filename:** Tool (First Image Used)\n> **Name:** feather\n> **Author:** n0rthw1nd\n> **License:** CC BY 2.0\n> **Source Link:** https://search.creativecommons.org/photos/dbae97b8-9f2a-4823-9553-45992a9e957d\n> **Additional Notes:** Edited by me\n \n> **Filename:** Tool (Second Image Used)\n> **Name:** Rainbow flashlight e-cig mod\n> **Author:** wstryder\n> **License:** CC BY 2.0\n> **Source Link:** https://search.creativecommons.org/photos/b9717904-c12d-494b-af9b-26859d2eb00f\n> **Additional Notes:** Edited by me\n \n> **Filename:** Entity (First Image Used)\n> **Name:** old man\n> **Author:** schalkandreas\n> **License:** CC BY 2.0\n> **Source Link:** https://search.creativecommons.org/photos/ce4701e9-1b71-4010-8535-93aca212d050\n> **Additional Notes:** Edited by me\n\n> **Filename:** Entity (Second Image Used)\n> **Name:** The Old Executive Office Building in Washington, D.C. in 2012\n> **Author:** Another Believer\n> **License:** CC BY-SA 3.0\n> **Source Link:** https://commons.wikimedia.org/wiki/Category:2012_photographs_of_Washington,_D.C._by_Another_Believer#/media/File:Executive_Office_Building,_Washington,_D.C._-_2012.JPG\n> **Additional Notes:** Edited by me\n \n> **Filename:** troops\n> **Name:** Minneapolis Uprising\n> **Author:** Tony Webster\n> **License:** CC BY-SA 2.0\n> **Source Link:** https://commons.wikimedia.org/wiki/File:Minneapolis_Uprising.jpg\n> **Additional Notes:** Edited by me\n\n> **Filename:** trump\n> **Name:** Donald Trump\n> **Author:** Gage Skidmore\n> **License:** CC BY-SA 2.0\n> **Source Link:** https://search.creativecommons.org/photos/9bb8e7ea-42c7-47a9-b17c-4713b7c49cc4\n> **Additional Notes:** Edited by me\n\n> **Filename:** Padlock4.png\n> **Author:** Me, [[*User WizzBlizz]]\n> **License:** CC BY-SA 3.0\n> **Notes:** Do whatever you want with this.  \n=====\n[[include :scp-wiki:component:license-box-end]]",
+  "tags": [
+    "_cc",
+    "_licensebox",
+    "_listpages",
+    "extraterrestrial",
+    "k-class-scenario",
+    "keter",
+    "loop",
+    "political",
+    "scp"
+  ],
+  "author": "WizzBlizz",
+  "created_at": "2020-10-18T06:39:11+00:00",
+  "updated_at": "2024-10-09T18:17:52+00:00",
+  "rating": 313,
+  "_site": "scp-wiki",
+  "_fullname": "scp-5092"
+}

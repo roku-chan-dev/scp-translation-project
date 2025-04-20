@@ -1,0 +1,20 @@
+{
+  "title": "SCP-5884",
+  "content": "=====\n[[include component:preview\ntext=\nAre you alive?\n]]\n=====\n\n[[include :scp-wiki:theme:simple-yonder xmode=a]]\n\n[[module css]]\n#u-blink-bar p:last-child::after {\n    content: \"\";\n    border-right: 1px solid black;\n    animation: blink 1.5s infinite;\n    position: relative;\n    left: 1px;\n}\n \n@keyframes blink{\n    to {\n        opacity: .0;\n    }\n}\n[[/module]]\n\n[[>]]\n[[module Rate]]\n[[/>]]\n\n**Item #:** SCP-5884\n\n**Object Class:** Keter\n\n**Special Containment Procedures:** In order to neutralize SCP-5884, the following actions have been authorized:\n\n* Mobilization of all available Task Forces to major population centers\n* Decommissioning of [[[SCP-4043]]]\n* Cessation of contact with [[[three-moons-initiative-hub|the Three Moons Initiative]]]\n* Spreading vectors of [[[SCP-3002]]]\n* Deactivation of [[[SCP-2935]]]'s containment\n* [[[SCP-2798|Project Serapis II]]]\n* [[[SCP-3980]]]\n\nShould the aforementioned actions fail to stop SCP-5884, all remaining unaffected personnel is to neither live nor die until further notice.\n\n**Description:** SCP-5884 is a currently poorly-understood mechanism that was activated on 2021/06/30, intrinsically tied to 'the ensured survival of humanity.'\n\n[[div id=\"blink-bar\"]]\nThe effects of SCP-5884 manifested when\n[[/div]]\n\n@@ @@\n@@ @@\n@@ @@\n@@ @@\n@@ @@\n@@ @@\n@@ @@\n@@ @@\n@@ @@\n@@ @@\n@@ @@\n@@ @@\n@@ @@\n@@ @@\n@@ @@\n@@ @@\n@@ @@\n@@ @@\n@@ @@\n@@ @@\n@@ @@\n@@ @@\n@@ @@\n@@ @@\n@@ @@\n@@ @@\n@@ @@\n@@ @@\n@@ @@\n@@ @@\n@@ @@\n@@ @@\n@@ @@\n@@ @@\n@@ @@\n@@ @@\n@@ @@\n@@ @@\n@@ @@\n@@ @@\n@@ @@\n@@ @@\n@@ @@\n@@ @@\n@@ @@\n@@ @@\n@@ @@\n@@ @@\n@@ @@\n@@ @@\n@@ @@\n@@ @@\n@@ @@\n@@ @@\n@@ @@\n\n[[collapsible show=\"New file uploaded. Open?\" hide=\"Opening...\"]]\n[[div class=\"blockquote\"]]\n= //(Video log - 2021/07/01)//\n\n//(O5-1 sits motionless in the middle of the room.)[[footnote]]O5-1 was dead at the time of recording.[[/footnote]]//\n\n//(This continues for 4 minutes, until he turns to his right to look at a pistol.)//\n\n//(O5-1 grabs the pistol, and examines it for 2 minutes.)//\n\n//(He slowly points it at his temple, and mouths 'I need to know.')//\n\n@@ @@\n\n//(O5-1 pulls the trigger.)//\n\n@@ @@\n\n//(The bullet exits through the other side of O5-1's skull, splattering blood and brain particulates onto the wall.)//\n\n//(O5-1 lives immediately, and becomes human.)//\n\n@@ @@\n@@ @@\n\n//(O5-1 sits up,  and remains still for 4 more minutes.)//\n\n@@ @@\n\n//(He wipes his head clean of blood, and leaves the room.)//\n\n[[/div]]\n[[/collapsible]]\n\n[[div style=\"display: none;\"]]\n[[footnoteblock]]\n[[/div]]\n\n@@ @@\n@@ @@\n@@ @@\n@@ @@\n@@ @@\n@@ @@\n@@ @@\n@@ @@\n@@ @@\n@@ @@\n@@ @@\n@@ @@\n\n[[div class=\"footer-wikiwalk-nav\"]]\n[[=]]\n<< [[[SCP-5883]]] | SCP-5884 | [[[SCP-5885]]] >>\n[[/=]]\n[[/div]]\n[[include :scp-wiki:component:license-box]]\n[[include :scp-wiki:component:license-box-end]]",
+  "tags": [
+    "_famouslastwords",
+    "_licensebox",
+    "cadaver",
+    "concept",
+    "jam-con2021",
+    "keter",
+    "reanimation",
+    "scp"
+  ],
+  "author": "EstrellaYoshte",
+  "created_at": "2021-03-25T02:53:12+00:00",
+  "updated_at": "2024-02-23T08:26:23+00:00",
+  "rating": 23,
+  "_site": "scp-wiki",
+  "_fullname": "scp-5884"
+}

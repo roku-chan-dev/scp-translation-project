@@ -1,0 +1,18 @@
+{
+  "title": "SCP-5146",
+  "content": "[[include :scp-wiki:theme:classic]]\n[[>]]\n[[module Rate]]\n[[/>]]\n\n**Item #:** SCP-5146\n\n**Object Class:** Safe\n\n**Special Containment Procedures:** The continued presence of SCP-5146 within its area of the Pacific Islands Territory is to be verified bimonthly via standard checks of the Foundation's routinely updated mapping satellite footage. No further containment procedures are required.\n\n**Description:** SCP-5146 is a 1:1 scale map of an unnamed stony island located east of the Federated States of Micronesia, possessing an area of approximately 0.53 km^^2^^. Apart from its nature as a map, the object displays no other anomalous properties and is geologically similar to the islands present in the area.\n\nSCP-5146 was brought to the Foundation's attention during a routine database comparison of satellite footage collected during the months of December 2007 and February 2008, when the object was recorded within waters that had been previously designated as unoccupied. Due to the presence of mature vegetation visible on its surface and the lack of seismic or volcanic activity in the area during that time period, the object was issued a provisory designation and an exploratory mission manned by regional Oceanic Task Force Beta-46 (\"Shearwaters\") was dispatched.\n\nDespite the presence of several presumably manmade structures distributed across its surface area, the object was found to be uninhabited. Additionally, the present members of OTF Beta-46 encountered no wildlife, barring several specimens of migratory birds typical for the area. As such, a list of discovered items is provided in lieu of a standard exploration log transcript. Body camera footage collected during the mission can be accessed upon request through the Site-35 digital archives.\n\n**Addendum 5146.1:** Inventory of items recovered from SCP-5146:\n[[collapsible show=\"+ View contents\" hide=\"- Hide contents\"]]\n||~ **LOCATION:** Wooden pier, southwest shore ||\n|| crab cages (5) ||\n|| plastic bucket ||\n|| shore-operated lift net ||\n|| three-strand nylon mooring rope (12 meters) ||\n||~ **LOCATION:** Single-room vernacular house, central clearing ||\n|| empty gasoline canister ||\n|| foldable cot ||\n|| paperback copy of Jack Kerouac's //On the Road//, waterlogged ||\n|| single-burner gasoline camping stove ||\n|| single-person cutlery set ||\n|| unaddressed postcard marked with Marshall Islands type 1 meter stamp (see attached) ||\n@@ @@\nContents of recovered postcard as follows:\n\n> I'm sorry I couldn't make it to see you again this year, but you know how the big city makes me. I thought going home would take the edge off all that claustrophobia a little, but it's just not the same when you can't //really// come back, you know what I mean?\n> Maybe one day. Despite it all.\n> In the meantime, I'm trying to figure out something for myself. My own little perfect territory, just the way I remember it. Down to the last detail.\n> I hope you'll come visit me one day.\n> Proud of you,\n[[/collapsible]]\n\n[[footnoteblock]]\n\n[[div class=\"footer-wikiwalk-nav\"]]\n[[=]]\n<< [[[SCP-5145]]] | SCP-5146 | [[[SCP-5147]]] >>\n[[/=]]\n[[/div]]\n[[include :scp-wiki:component:license-box]]\n[[include :scp-wiki:component:license-box-end]]",
+  "tags": [
+    "_licensebox",
+    "document",
+    "island",
+    "location",
+    "safe",
+    "scp"
+  ],
+  "author": "daviiid",
+  "created_at": "2020-11-06T01:02:38+00:00",
+  "updated_at": "2023-07-31T17:56:06+00:00",
+  "rating": 35,
+  "_site": "scp-wiki",
+  "_fullname": "scp-5146"
+}

@@ -1,0 +1,19 @@
+{
+  "title": "SCP-1162",
+  "content": "[[include theme:black-highlighter-theme]]\n[[include component:rso]]\n[[>]]\n[[module Rate]]\n[[/>]]\n\n**Item #:** SCP-1162\n\n**Object Class:** Safe\n\n**Special Containment Procedures:** SCP-1162's exterior has been painted to camouflage with its surroundings in an effort to deter future detection. Due to its remote location and relative harmlessness, as well as the inherent ease in misinformation, containment efforts required are minimal.\n\n**Description:** SCP-1162 is a three-bedroom, two-bath suburban house located in Vastitas Borealis, the largest lowland region of Mars. It does not have a visible lawn, surrounding street, or other obvious signs of permanence. SCP-1162 resembles a standard suburban American home and is, along with its contents, anomalously resistant to damage, as the inhospitable conditions on Mars' surface would have quickly destroyed a nonanomalous structure of similar make.\n\nSCP-1162 was first discovered by NASA probe //Phoenix//, a stationary probe that registered the structure during its descent to the surface. Satellite imagery was acquired, and a Foundation shuttle utilizing experimental propulsion technology adapted from SCP-████, the FS //Iskander//, was deployed with a five-man crew from Lunar Area-09 to investigate.\n\nShuttle //Iskander// arrived on Mars twelve weeks later. They discovered that the home displayed signs of habitation, being furnished in a typical suburban American style. In addition, they discovered that latent Hume levels in the area were high, generally associated with reality-bending activity.\n\nThe kitchen contained two frozen corpses, an adult man and woman. Both had died from asphyxiation, their corpses freezing postmortem, presumably due to Vastitas Borealis' low temperatures (avg -51°C).  Due to the skin cracking and discoloration associated with this, their ethnicity is indeterminate. The table was set with waffles and bacon, both half-eaten and now frozen. \n\nThe rest of the interior is unremarkable, but agents determined that the source of the raised Hume levels was in the second-floor bedroom. The bedroom, decorated for a small child, contains several posters of various celestial bodies and NASA space shuttles.\n\nA cardboard box in the center of the floor is the epicenter of the raised Hume levels and has been crudely fashioned into a mock space shuttle, colored white and with various portholes and iconography drawn on. The cardboard box contains the corpse of a small male child, curled into the fetal position. It is wearing a toy space helmet, which is frozen onto the corpse. Unlike the corpses downstairs, it expired from prolonged starvation.\n\n[[footnoteblock]]\n\n[[div class=\"footer-wikiwalk-nav\"]]\n[[=]]\n<< [[[SCP-1161]]] | SCP-1162 | [[[SCP-1163]]] >>\n[[/=]]\n[[/div]]\n[[include :scp-wiki:component:license-box]]\n[[include :scp-wiki:component:license-box-end]]",
+  "tags": [
+    "_licensebox",
+    "building",
+    "extraterrestrial",
+    "indestructible",
+    "reality-bending",
+    "safe",
+    "scp"
+  ],
+  "author": "Rounderhouse",
+  "created_at": "2021-05-29T23:04:27+00:00",
+  "updated_at": "2022-10-28T02:54:36+00:00",
+  "rating": 193,
+  "_site": "scp-wiki",
+  "_fullname": "scp-1162"
+}

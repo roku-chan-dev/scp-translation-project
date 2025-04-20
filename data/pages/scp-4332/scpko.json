@@ -1,0 +1,20 @@
+{
+  "title": "SCP-4332",
+  "content": "[[module css]]\n#header{\n    background: url(null);\n}\n#header:before{\ndisplay:block;\nposition: absolute;\nwidth: 100px;\nheight: 100px;\ntop: 15%;\nleft:2%;\nz-index: -1;\ncontent: \"\";\nbackground:url(http://scp-wiki.wdfiles.com/local--files/component%3Atheme/logo.png);\nbackground-repeat: no-repeat;\nbackground-size: 100px 99px;\nbackground-position: 0px 0px 0px;\nz-index: -20;\ntransform: rotateZ(180deg);\n}\n#header h2 span {\n    color: transparent;\n    text-shadow:none;\n}\n#header h2 span::before {\n    content: \"보호, 확보. 격리\";\n    color: #F0F0C0;\n    padding: 0px 0px 00px;\n    text-shadow:initial;\n}\n@media (max-width: 800px) {\n#header{\n    background: url(null);\n}\n#header:before{\ndisplay:block;\nposition: absolute;\nwidth: 100px;\nheight: 100px;\ntop: 15%;\nleft:2%;\nz-index: -1;\ncontent: \"\";\nbackground:url(http://scp-wiki.wdfiles.com/local--files/component%3Atheme/logo.png);\nbackground-repeat: no-repeat;\nbackground-position: 3.75em .5em;\nbackground-size: 55px 55px;\nz-index: -20;\ntransform: rotateZ(180deg);\n}\n}\n[[/module]]\n\n[[include component:info-ayers\n|lang=en\n|page=scp-4332\n|authorPage=\n|comments=우육을 전부 짜내라\n \n작가: XilasCrowe\n \n리 버 스 카 우\n----\n[[include :sandbox.scp-wiki.kr:axolotl-nest-more-from-test]]\n[[/div]]\n\n[[module css]]\n.translation_block{ display: none; } \n#u-author_block{ display:none; } \n.u-faq{ display: none; } \n[[/module]]\n\n[[include info:start]]\n우육을 전부 짜내라\n\n**저자:** [[*user XilasCrowe]]\n\n**SCP-4332:** 우육을 전부 짜내라\n**원작:** http://www.scp-wiki.net/scp-4332 \n**역자:** [[*user Aiken Drum]]\n\n[[include :firedawnfolder:axolotl-nest-more-from]] \n\n[[include info:more]]\n\n[[*user notgull]], [[*user Dysadron]], 그리고 [[*user Weryllium]]께, 살펴봐 주셔서 감사합니다.\n\n리 버 스 카 우\n\n[[include info:end]]\n\n**일련번호:** SCP-4332\n\n**등급:** 유클리드\n\n**특수 격리 절차:** SCP-4332는 제11기지 부지의 지정된 목초지 내에서 사육한다. SCP-4332는 비변칙적 동종 구성원 이상의 관리가 필요하지 않다.\n\n**설명:** SCP-4332는 젖소(//Bos taurus//)로 완전히 다양한 유제품으로 구성되어있다. SCP-4332의 살점 대부분은 휘핑 크림이며, 우유가 피를 대신하고 있으며 각 장기는 다양한 맛의 아이스크림으로 대체되었다. 그럼에도 SCP-4332의 기능과 행동은 현미경 수준으로 비변칙적 동종 구성원과 거의 같다. \n\nSCP-4332은 대상의 신체 일부가 먹히거나 제거되어도 고통을 느끼지 않는 것으로 보인다. 제거된 부위는 자체적으로 2시간 이내에 완전히 재생된다. 또한 SCP-4332는 외부 유제품을 자신에게 흡수시켜, 신체 동화시키고 질량을 증가시키거나 재생할 수 있다.\n\nSCP-4332은 비변칙적 소와 유사하게 착유할 수 있다. 그러나 우유가 나오는 것이 아니라, SCP-4332를 \"착유\"할 경우 살코기 조각 줄기가 나온다. 각 조각은 일반적으로 1에서 2 입방센티미터 범위이다. SCP-4332 \"착유\" 각각은 비변칙적 동종 구성원에서 얻을 수 있는 양과 거의 같은 양의 고기를 생산한다. \n\nSCP-4332를 번식시키려는 모든 시도는 --완벽히 비변칙적 소가 생기는 것으로 끝났다. SCP-4332의 변칙성 때문인지 매우 열성인 유전자 때문인지는 불명이다.-- 부록 4332-A을 볼 것\n\n**부록 4332-A:** 2019년 5월 28일, 추가적인 SCP-4332가 성공적으로 태어났다. 분만 과정은 새로운 개체(SCP-4332-2로 호칭)가 완전히 기존 개체에게서 분리될 때까지 정상적으로 진행되었다. 두 개체가 서로에게 닿은 순간, 둘은 서로를 흡수하기 시작했다. 흡수 동화와 지속적 재생이 결합된 결과 크림의 피드백 루프가 발생해 시설을 뒤덮었다. 3일 뒤 팽창이 멈추고 크림 발굴이 시작되었다. 건물에서 크림이 완전히 청소된 뒤에는 오직 한 SCP-4332 개체만 발견되었다.\n\nSCP-4332 번식과 관련된 추가적 시험은 연기되었다.",
+  "tags": [
+    "en",
+    "scp",
+    "동물",
+    "생물학",
+    "소",
+    "외부엔트로피",
+    "유클리드",
+    "자가복제"
+  ],
+  "author": "Aiken Drum",
+  "created_at": "2020-02-05T17:19:14+00:00",
+  "updated_at": "2024-11-20T11:22:39+00:00",
+  "rating": 7,
+  "_site": "scpko",
+  "_fullname": "scp-4332"
+}

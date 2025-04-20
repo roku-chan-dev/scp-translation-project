@@ -1,0 +1,21 @@
+{
+  "title": "SCP-5619",
+  "content": "[[>]]\n[[module rate]]\n[[/>]]\n\n[[include theme:black-highlighter-theme]]\n[[include :scp-wiki:component:info-ayers\n|page=SCP-5912 [!-- url of your page on the scp wiki --]\n|authorPage=http://www.scp-wiki.net/dr-tonnes-personnel-file[!-- link to your author page --]\n|comments=N/A\n]]\n[[module CSS]]\n\n**Item #:** SCP-5619\n\n**Object Class:** Safe\n\n**Special Containment Procedures:** SCP-5619-A and B are kept together in a secure anomalous items locker.\n\nPoI-5619-A and B are considered Low-risk and allowed to continue living amongst the general public.\n\n**Description:** SCP-5619 consists of two ceramic drinking mugs (SCP-5619-A and B). SCP-5619-A is painted white and adorned with golden accents in the shape of a cat's ears, nose, and mouth. SCP-5619-B is painted black, and covered in tiny silver specs resembling stars, with the phrase “Witch’s Brew” written on the front.\n\nWhen boiled water is poured into either SCP-5619-A or B, the liquid will instead appear inside the opposing instance, filling until reaching close to the mug’s brim. Any excess water will fill the original mug as normal. Additional liquids and other common hot beverage ingredients (Milk, sugar, honey, etc) will also transfer if placed into either mug. Anomalous properties will not occur while SCP-5619-A or B contain non-edible substances such as soap or other cleaning products.\n\nWhile both SCP-5619-A and B contain drinkable liquids and are each held by a different person, subjects will visually perceive the other individual to be five feet away from them, as if there in person. This phenomenon is entirely intangible and inaudible, ending once subjects cease contact with SCP-5619-A or B, or when either mug becomes empty of its contents.\n\n**Discovery Log:** SCP-5619-A and B were discovered in separate locations, a small apartment in ██████, United States (SCP-5619-A), and a one-story house in ██████, United Kingdom (SCP-5619-B). The Foundation was alerted to the anomaly following the detection of near-identical thaumaturgic frequencies in both respective locations. Further inspection confirmed the phenomena to have been occurring regularly in both locations over a span of four years.\n\nThe former occupants of each location were found to have moved out several weeks prior. Both parties (Poi-5619-A and B) were later discovered living together in a two-person apartment in █████, United States.\n\n[[footnoteblock]]\n\n[[div class=\"footer-wikiwalk-nav\"]]\n[[=]]\n<< [[[SCP-5618]]] | SCP-5619 | [[[SCP-5620]]] >>\n[[/=]]\n[[/div]]\n\n[[include :scp-wiki:component:license-box]]\n[!-- N/A (No Images)  --]\n[[include :scp-wiki:component:license-box-end]]",
+  "tags": [
+    "_licensebox",
+    "artifact",
+    "cupid2021",
+    "hallucination",
+    "liquid",
+    "safe",
+    "scp",
+    "teleportation",
+    "visual"
+  ],
+  "author": "Penton",
+  "created_at": "2021-02-18T18:05:38+00:00",
+  "updated_at": "2022-10-01T18:55:13+00:00",
+  "rating": 66,
+  "_site": "scp-wiki",
+  "_fullname": "scp-5619"
+}

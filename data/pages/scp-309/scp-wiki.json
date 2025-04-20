@@ -1,0 +1,20 @@
+{
+  "title": "SCP-309",
+  "content": "[[>]]\n[[module Rate]]\n[[/>]]\n\n[[include component:image-block name=stuffedanimal.jpg|caption=SCP-309]]\n\n**Item #:** SCP-309\n\n**Object Class:** Euclid\n\n**Special Containment Procedures:** SCP-309 is currently stored in a secure glove box in the level 2 research lab at Site-██. Routine physical examinations of SCP-309 as well as experiments involving small animals may only be conducted using the glove box. Removal of SCP-309 from the glove box for testing on larger animals or humans requires the approval of Dr. ██████ or equivalent level 4 command personnel. Human testing is restricted to D-class personnel.\n\n**Description:** SCP-309 is a small, plush stuffed animal that looks as if it has been turned completely inside out. Golden-orange fur is present along the seams, while a small amount of cotton stuffing and two protruding eyes are visible on the head. The interior of SCP-309 is understuffed with cotton, giving it a flexible and cuddly feel.\n\nSCP-309 has no effect on inanimate objects; however, contact with living subjects is both dangerous and life-threatening. Humans and animals lightly brushing SCP-309 with a finger or a similarly small portion of the body display severe, non-localized discomfort for tens of minutes afterward. Humans also report feeling extreme nausea, despite the fact that SCP-309 does not induce vomiting. The discomfort and nausea are so overwhelming that even the most hardened subjects have proven unable to voluntarily maintain contact with SCP-309 for longer than a few seconds.\n\nIf SCP-309 is pressed firmly against a subject, or the subject quickly picks up SCP-309 and attempts to hold it, the subject will be violently and painfully turned inside-out over the course of five to ten seconds. Skeletons are unaltered, but all soft tissues are inverted such that muscles, tendons, ligaments, and various internal organs are resituated on the exterior of the body. Though not immediately fatal, the process is irreversible and universally considered painful.\n\n[[include component:image-block name=invertedbody-new.jpg|caption=Agent ██████, who had the misfortune of discovering SCP-309.|align=center|width=200px]]\n\n[[div class=\"footer-wikiwalk-nav\"]]\n[[=]]\n<< [[[SCP-308]]] | SCP-309 | [[[SCP-310]]] >>\n[[/=]]\n[[/div]]\n\n[[include :scp-wiki:component:license-box]]\n> **Filename:** invertedbody-new.jpg\n> **Name:** Embalmed body of a man.jpg\n> **Author:** Pöllö\n> **License:** CC BY-SA 3.0 Unported\n> **Source Link:** [https://commons.wikipedia.org/wiki/file:embalmed_body_of_a_man.jpg Wikimedia Commons]\n\n> **Filename:** stuffedanimal.jpg\n> **Name:** 10b\n> **Author:** Aaron \"tango\" Tang\n> **License:** CC BY 2.0\n> **Source Link:** [https://flickr.com/hahatango/792297830 Flickr]\n[[include :scp-wiki:component:license-box-end]]",
+  "tags": [
+    "_cc",
+    "_licensebox",
+    "cognitohazard",
+    "euclid",
+    "scp",
+    "tactile",
+    "toy",
+    "transfiguration"
+  ],
+  "author": "Anna Graham",
+  "created_at": "2009-04-02T05:07:15+00:00",
+  "updated_at": "2024-12-01T21:32:09+00:00",
+  "rating": 144,
+  "_site": "scp-wiki",
+  "_fullname": "scp-309"
+}

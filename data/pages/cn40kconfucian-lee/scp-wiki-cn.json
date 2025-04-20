@@ -1,0 +1,21 @@
+{
+  "title": "SCP-CN-4K：谜题-老太爷",
+  "content": "[[include :fishbone:broken]]\n\n[[module CSS]]\n.blinkbar {animation: blink 1.5s infinite; letter-spacing: -0.13em;}@keyframes blink{to{opacity: .0;}}@keyframes flicker {0% {opacity: 0.9890; }5% {opacity: 0.5842; }10% {opacity: 0.9865; }15% {opacity: 0.0412; }20% {opacity: 0.6255; }25% {opacity: 0.3157; }30% {opacity: 0.7328; }35% {opacity: 0.4654; }40% {opacity: 0.9128; }45% {opacity: 0.2449; }50% {opacity: 0.5485; }55% {opacity: 0.6438; }60% {opacity: 0.1180; }65% {opacity: 0.9085; }70% {opacity: 0.0266; }75% {opacity: 0.6795; }80% {opacity: 0.7812; }85% {opacity: 0.0117; }90% {opacity: 0.2239; }95% {opacity: 0.8897; }100% {opacity: 0.2260; }}@keyframes overlay-anim {0% {visibility: hidden; }10% {visibility: hidden; }11% {visibility: visible; }50% {visibility: hidden; }100% {visibility: hidden; }}\n[[/module]]\n[[include :scp-wiki:component:toggle-sidebar]]\n[[include :scp-wiki-cn:theme:dark]]\n[[>]]\n[[module rate]]\n[[/>]]\n\n**谜题：**4K\n\n**难度：**大魔\n\n**谜面：**请听谜。\n\n\n\n狗太多了，狗舍占地方，乡亲都没处睡觉。牢头计划着驾雪橇带着乡亲们去找新地界。典狱长已经盖了大印。这谜题也要散出去给乡亲们猜。\n\n以前有人在高楼上乱看乱叫，牢头没管住，把老太爷叫下来了。\n杀猪的没砍过老太爷，成了老太爷的狗。\n老太爷喜欢狗，也只有狗会喜欢老太爷。\n被狗咬了的乡亲喜欢老太爷。\n后来，大日头也成了老太爷的狗，谁也别被他看到，他的针又烫又准。\n\n牢头正找圣诞老人要礼物和雪橇。牢头有其他礼物给乡亲，四处找礼物的乡亲一定要来拿呀。\n来这的乡亲得习惯冷。\n来这的乡亲得习惯黑。\n圣诞老人的礼物只够半年，礼物发完，雪橇就要走了。\n\n\n\n**谜底：**不要说，不要说，不要说。猜着了就赶快来。",
+  "tags": [
+    "2025愚人竞赛",
+    "apollyon",
+    "scp",
+    "传染性",
+    "全球超自然联盟",
+    "原创",
+    "星际",
+    "破晓",
+    "误传部"
+  ],
+  "author": "Confucian Lee",
+  "created_at": "2025-04-03T04:39:16+00:00",
+  "updated_at": "2025-04-03T04:47:41+00:00",
+  "rating": 10,
+  "_site": "scp-wiki-cn",
+  "_fullname": "cn40kconfucian-lee"
+}

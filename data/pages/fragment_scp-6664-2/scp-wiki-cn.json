@@ -1,0 +1,13 @@
+{
+  "title": "SCP-6664 2",
+  "content": "[[include :scp-wiki-cn:theme:blankstyle]]\n[[include :scp-wiki:component:fade-in speed=1]]\n[[module css]]\n:root{\n  --header-title: \"SITE-87\";\n  --header-subtitle: \"叙事与枢纽学研究\";\n}\n\ndiv#extra-div-1 {\n    background-image: url(https://cdn.discordapp.com/attachments/770866626089582633/816896081870323712/Big87.png);\n    filter: opacity(20%);\n}\n[[/module]]\n\n\n[[div class=\"blockquote\"]]\n//对原文档的改动以##blue|蓝色##突出显示。//\n\n[[/div]]\n\n[[include :scp-wiki-cn:component:anomaly-class-bar-source\n\n    |lang=cn\n\n    |item-number= SCP-6664\n\n    |clearance= 1\n\n    |container-class= safe\n\n    |secondary-class= none\n\n    |disruption-class= dark\n\n    |risk-class= 需谨慎\n\n    ]]\n\n-----\n\n[[include component:image-block name=http://scp-wiki.wikidot.com/local--files/fragment:scp-6664-2/treeIII.png|align=center|width=100%|caption=收容前的SCP-6664。]]\n\n-----\n\n**特殊收容措施：**SCP-6664应被收容于##blue|Site-87##生物收容区的温室中。 为防止对SCP-6664的枝叶造成损坏，应禁止攀爬之。\n\n**描述：**SCP-6664为一目前位于##Site-87##的//##blue|林檎树##//，俗称##blue|苹果树##。除其异常性质外，其与同树种树木无异。\n\n当##blue|King博士##接近SCP-6664时，其将表现出异常性质。当##blue|King博士位于SCP-6664树冠下##时，并不会如预期般##blue|无事发生##SCP-6664上的所有果实将同时消失。##blue|果实中的所有种子将掉落至地上。这些种子##称为SCP-6664-1.\n\nSCP-6664-1##blue|为SCP-6664所繁育出的种子，其能够运动。##SCP-6664-1##blue|能够操纵其落地位置，通常利用其坠落过程与King博士进行联系。##\n\n-----\n\n[[=]]\n+ **附录6664.1：发现记录**\n[[/=]]\n\nSCP-6664被发现于2014年1月18日，一个##blue|基金会高级研究员Everett King表述自己在SCP-6664下行走时被几颗苹果种子击中。几天后，他再次在SCP-6664下行走，并再次被SCP-6664-1所击中。##他上报其可能为一种异常。随后SCP-6664被移至##blue|Site-87##中。\n\n[[div class=\"blockquote\"]]\n//这谁写的？这篇文档明显是错的。我已经自行更正了。//\n\n//——Longcastle博士//\n\n**附件：**[[[http://scp-wiki-cn.wikidot.com/scp-6664/offset/3|SCP-6664-更正文档.pdf]]]\n\n[[/div]]",
+  "tags": [
+    "段落"
+  ],
+  "author": "EvkesraRe",
+  "created_at": "2022-02-11T14:28:04+00:00",
+  "updated_at": "2022-02-11T14:35:43+00:00",
+  "rating": 0,
+  "_site": "scp-wiki-cn",
+  "_fullname": "fragment:scp-6664-2"
+}

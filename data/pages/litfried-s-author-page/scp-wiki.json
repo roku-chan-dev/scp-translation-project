@@ -1,0 +1,14 @@
+{
+  "title": "Litfried's author page",
+  "content": "Litfried (pronunciation: //LIT-freed// pronouns: they/them), n.: one time writer of SCPs, lecturer in computer science, lover of drum and bass music, cats, and being outside. Hasn't been around for many years; all that free time as a student has evaporated. \n\n__SCPs__:\n[[module ListPages created_by=\"Litfried\" separate=\"no\" limit=\"250\" perPage=\"250\" tags=\"scp, -joke\" order=\"title\"]]\n* %%title_linked%%\n[[/module]]\n\n__Foundation Tales__:\n[[module ListPages created_by=\"Litfried\" separate=\"no\" limit=\"250\" perPage=\"250\" tags=\"tale\" order=\"title\"]]\n* %%title_linked%%\n[[/module]]\n\nLove my writing? Why not [http://www.mixcloud.com/litfried/ listen to some of my DJ mixes]?\n[[include :scp-wiki:component:license-box]]\n[[include :scp-wiki:component:license-box-end]]",
+  "tags": [
+    "_licensebox",
+    "author"
+  ],
+  "author": "Litfried",
+  "created_at": "2014-01-09T15:52:38+00:00",
+  "updated_at": "2022-10-22T15:09:47+00:00",
+  "rating": 9,
+  "_site": "scp-wiki",
+  "_fullname": "litfried-s-author-page"
+}

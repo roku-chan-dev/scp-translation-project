@@ -1,0 +1,13 @@
+{
+  "title": "Flops Header Backend",
+  "content": "[[module CSS]]\n/* To see this in action, go here:\n *\thttps://scp-wiki.wikidot.com/component:flops-header\n**/\n\n/* == ITEM INFO == */\n .itemInfo {\n\tposition: relative;\n\ttop: .5em;\n\twidth: 100%;\n\n\tfont-size: 135%;\n\ttext-transform: uppercase;\n\twhite-space: nowrap;\n}\n\n .itemInfoHeading {\n\tfont-weight: 900;\n}\n\n .alignL {\n\tposition: relative;\n\tright: .195em;\n}\n\n .alignR {\n\tposition: relative;\n\tleft: .195em;\n\n\ttext-align: right;\n}\n\n .infofield_1,\n .infofield_2,\n .infofield_3 {\n\tfont-weight: inherit;\n}\n\n/* == DISRUPTION CLASS == */\n a.disruptionHeader {\n\tdisplay: inline-block;\n\twidth: 100%;\n\tpadding: .3em 0 .4em;\n\n\tcolor: hsl(0, 0%, 94%);\n\ttransition: color .15s linear;\n\n\tfont-size: 145%;\n\tline-height: 1;\n\ttext-align: center;\n\ttext-decoration: none;\n\ttext-shadow:\n\t\t.5px .9px 0 hsla(0, 0%, 0%, .3),\n\t\t1.5px 2.6px 0 hsla(0, 0%, 0%, .3);\n\ttext-transform: uppercase;\n}\n\n a.disruptionHeader:hover {\n\tcolor: white;\n\tbackground-color: transparent;\n\n\ttext-decoration: none;\n}\n[[/module]]\n\n[[div]]\n[[table class=\"itemInfo darkbox\"]]\n  [[row]]\n    [[cell class=\"alignL\"]]\n      [[span class=\"itemInfoHeading bt\"]][[span class=\"infofield_1\"]]ITEM:[[/span]][[/span]]@@ @@SCP-{$item}\n    [[/cell]]\n    [[cell class=\"alignR\"]]\n      [[span class=\"itemInfoHeading bt\"]][[span class=\"infofield_3\"]]LEVEL[[/span]]@@ @@{$level}/{$item}[[/span]]\n    [[/cell]]\n  [[/row]]\n  [[row]]\n    [[cell class=\"alignL\"]]\n      [[span class=\"itemInfoHeading bt bh\"]][[span class=\"infofield_2 bh\"]]CLASS:[[/span]][[/span]]@@ @@{$containment}\n    [[/cell]]\n    [[cell class=\"alignR\"]]\n      [[span class=\"itemInfoHeading bt\"]]{$security}[[/span]]\n    [[/cell]]\n  [[/row]]\n[[/table]]\n\n[[a href=\"*/anomaly-classification-system-guide\" class=\"disruptionHeader\" style=\"background-color: {$disruption-bg-color};\"]][[span style=\"font-weight: 900;\"]]DISRUPTION CLASS:[[/span]]@@ @@{$disruption}[[/a]]\n[[/div]]",
+  "tags": [
+    "component-backend"
+  ],
+  "author": "Lt Flops",
+  "created_at": "2020-05-23T04:44:09+00:00",
+  "updated_at": "2023-12-25T05:34:46+00:00",
+  "rating": 9,
+  "_site": "scp-wiki",
+  "_fullname": "component:flops-header-source"
+}

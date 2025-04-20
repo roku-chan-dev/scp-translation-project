@@ -1,0 +1,14 @@
+{
+  "title": "クレジット付き評価モジュール：end(プレビュー用)",
+  "content": "[[div_ class=\"credit-back\" style=\"text-align: center;\"]]\n[[iframe https://scp-jp.github.io/files/util/common/credit/backmodule/end.html style=\"height:2em;width: 100%;margin: 0;padding: 0;border: 0;background: transparent;\" scrolling=\"no\"]]\n[[/div]]\n[[/div]]\n\n[[div_ class=\"creditBottomRate\" style=\"height:30px;\"]]\n[[div_ class=\"credit-license\"]]\n[[a href=\"*https://creativecommons.org/licenses/by-sa/3.0/deed.ja\" class=\"cc cc-by-sa\"]]@@@@[[/a]]\n[[/div]]\n[[div_ style=\"text-align: center; top: 0px;\"]]\n[[div_]]\n[[module Rate]]\n[[/div]]\n[[/div]]\n[[/div]]\n[[/div]]\n[[/div]]\n[[/div]]",
+  "tags": [
+    "jp",
+    "コンポーネント"
+  ],
+  "author": "ukwhatn",
+  "created_at": "2020-10-08T08:27:34+00:00",
+  "updated_at": "2022-01-08T10:15:02+00:00",
+  "rating": 9,
+  "_site": "scp-jp",
+  "_fullname": "credit:end-preview"
+}

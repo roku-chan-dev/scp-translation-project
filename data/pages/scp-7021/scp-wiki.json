@@ -1,0 +1,25 @@
+{
+  "title": "SCP-7021",
+  "content": "[[module css]]\n@import url('https://fonts.googleapis.com/css2?family=Gloria+Hallelujah&display=swap');\n@import url('https://fonts.googleapis.com/css2?family=Oxanium');\n[[/module]]\n[[include :scp-wiki:component:fade-in speed=1]]\n[[include :scp-wiki:component:betterfootnotes]]\n[[include :scp-wiki:theme:black-highlighter-theme]]\n[[include :scp-wiki:theme:extra-black-highlighter-theme]]\n[[include :scp-wiki:component:toggle-sidebar-bhl]]\n[[>]]\n[[module rate]]\n[[/>]]\n[[module ListPages parent=\".\" category=\"fragment\" limit=\"1\" order=\"created_at\"  offset=\"@URL|0\"]]\n[[div class=\"meta-title\"]]\n[[/div]]\n%%content%%\n[[/module]]\n[!--\nRight now all the images link to external servers. This will be soon fixed. I did this so the page wouldn't be filled with missing images.\n\n[!--\nI am having issues with moving the files from sandbox to the mainsite. For this reason I added temporary links to the images. They'll soon be replaced by regular image embeds.\n\nImages:\n\n**Filename:** Halfdollar.jpg\n**Name:** Halfdollar.jpg\n**Author:** Numismatic Guaranty Corporation\n**License:** CC \n **Source:**[https://commons.wikimedia.org/wiki/File:1938_Arkansas_Centennial_half_dollar_reverse.jpg]\n-----\n\n**Filename:** vehicleincident.jpeg\n**Name:** vehicleincident.jpeg\n**Author:** sv1ambo\n**License:** CC \n **Source:**[https://commons.wikimedia.org/wiki/File:Multi_vehicle_accident_-_M4_Motorway,_Sydney,_NSW_(8076208846).jpg]*\n\n**Filename:** firecam\n**Name:** firecam.jpg\n**Author:**  U.S. Forest Service- Pacific Northwest Region\n**License:** CC\n **Source:**[https://commons.wikimedia.org/wiki/File:Lick_Fire_on_the_Umatilla_National_Forest_burning_at_night.jpg]*\n\n**Note:** First image, the banner, was put through photoshop and photomosh.\n\nFragments:\nhttps://scp-wiki.wikidot.com/fragment:scp-7021-1\nhttps://scp-wiki.wikidot.com/fragment:scp-7021-2\nhttps://scp-wiki.wikidot.com/fragment:scp-7021-3\nhttps://scp-wiki.wikidot.com/fragment:scp-7021-4\n--]\n[[div class=\"footer-wikiwalk-nav\"]]\n[[=]]\n<< [[[SCP-7020]]] | SCP-7021 | [[[SCP-7022]]] >>\n[[/=]]\n[[/div]]",
+  "tags": [
+    "7000",
+    "_cc",
+    "_listpages",
+    "apocalyptic",
+    "apollyon",
+    "concept",
+    "k-class-scenario",
+    "meta",
+    "neutralized",
+    "phenomenon",
+    "probability",
+    "scp",
+    "uncontained"
+  ],
+  "author": "Moonhorse96",
+  "created_at": "2022-07-25T04:02:53+00:00",
+  "updated_at": "2024-10-11T19:54:06+00:00",
+  "rating": 57,
+  "_site": "scp-wiki",
+  "_fullname": "scp-7021"
+}

@@ -1,0 +1,24 @@
+{
+  "title": "SCP-407-KO",
+  "content": "[[include :scpko:info:start]]\n**SCP-755-KO** - 나는 생각한다, 고로 존재한다.\n\n**저자:** [[*user CatSi]]\n\n**이미지 출처:** 직접 촬영\n\n**조각문서:**\nhttp://scpko.wikidot.com/fragment:scp-407-ko-2\nhttp://scpko.wikidot.com/fragment:scp-407-ko-1\n[[include :scpko:info:end]]\n\n\n[[module ListPages  category=\"fragment\" parent=\".\" limit=\"1\" order=\"created_at\" offset=\"@URL|0\"]]\n%%content%%\n[[/module]]",
+  "tags": [
+    "_cc",
+    "ko",
+    "scp",
+    "감각",
+    "시각",
+    "신경학",
+    "의약학",
+    "인식재해",
+    "재단이-만듦",
+    "존재학부",
+    "진동",
+    "타우미엘"
+  ],
+  "author": null,
+  "created_at": "2021-05-07T12:02:30+00:00",
+  "updated_at": "2022-05-14T11:25:51+00:00",
+  "rating": 21,
+  "_site": "scpko",
+  "_fullname": "scp-407-ko"
+}

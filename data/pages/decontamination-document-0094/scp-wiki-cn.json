@@ -1,0 +1,14 @@
+{
+  "title": "SCP 2413 - 净化文件",
+  "content": "[[include :scp-wiki-cn:component:info-ayers\n|page=decontamination-document-0094[!-- url of your page on the scp wiki --]\n|authorPage=dr-cimmerian-s-personnel-file[!-- link to your author page --]\n|comments=回到上一页面：http://scp-wiki-cn.wikidot.com/scp-2413\n]]\n\n[[include :scp-wiki-cn:theme:black-highlighter-theme]]\n[[module CSS]]\nsup {\nvertical-align: top; position: relative; top: -0.5em;\n}\n:root{\n--cutColour: #fafafa;\n--barColour: #590505;\n}\n\n.info-container .collapsible-block-folded a{\ncolor: #FFF;}\n.info-container .collapsible-block-unfolded-link a{\ncolor: #FFF;}\n\n.translation_block{\ndisplay:none;}\n[[/module]]\n\n++ 请注视下面的图片直到幻听消失。\n\n[[=image http://scp-wiki.wdfiles.com/local--files/decontamination-document-0094/Apophysis-100303-104.jpg style=\"width: 99%; border: solid 1px #000000; padding: 1px\"]]\n\n@@@@\n@@@@\n@@@@\n@@@@\n@@@@\n@@@@\n@@@@\n@@@@\n\n\n**感谢配合完成认知危害净化措施。该过程在访问SCP-2413文件后必须重复进行。**\n\n[[html]]\n<audio autoplay>\n  <source src=\"http://scp-wiki.wdfiles.com/local--files/decontamination-document-0094/newbackandforth.mp3\" type=\"audio/mpeg\">\n</audio>\n\n<html>\n<head>\n<script type=\"text/javascript\">\n\nfunction checkRedirect()\n{\n    if (parseInt(sessionStorage.read) != 1)\n    {\n        window.top.location = \"http://scp-wiki-cn.wikidot.com/scp-2413\";\n    }\n}\n</script>\n</head>\n<body onLoad=\"checkRedirect();\">\n</body>\n</html>\n[[/html]]",
+  "tags": [
+    "补充材料",
+    "音频"
+  ],
+  "author": "M Element",
+  "created_at": "2017-07-12T14:05:35+00:00",
+  "updated_at": "2022-02-15T02:37:27+00:00",
+  "rating": 1,
+  "_site": "scp-wiki-cn",
+  "_fullname": "decontamination-document-0094"
+}

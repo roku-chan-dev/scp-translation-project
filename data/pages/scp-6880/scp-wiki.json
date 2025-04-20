@@ -1,0 +1,26 @@
+{
+  "title": "SCP-6880",
+  "content": "[[>]]\n[[module Rate]]\n[[/>]]\n\n**Item #:** SCP-6880\n\n**Object Class:** Thaumiel\n\n**Special Containment Procedures:** SCP-6880’s digestive fluid is to be treated and handled as a Class-IV Chemical/Biological weapon, but it is otherwise to be cultivated and handled like a sun pitcher plant. Further documentation, tending, and population control details can be received at request from the Foundation Botanical Department; start by contacting [[[light-dependent-reactions | Dr. Chelsea Elliott]]] at @@chelliott@foundation.scp@@. External populations of SCP-6880 are cultivated and shielded from civilians by a joint division of Mobile Task Force [[[task-forces#theta-4 |Theta-4 (“Gardeners”)]]] and [[[task-forces#lambda-12 | Lambda-12 (“Pest Control”)]]] . Quantities of SCP-6880’s digestive fluid may be requisitioned by the Materials Department, Engineering Department, and Biomedical Department. \n\n[[include component:image-block\n    name=pitcherplant.jpg |\n     caption=**SCP-6880 in Greenhouse L-12, Site-19.**\n]]\n\n**Description:** SCP-6880 is a species of sun pitcher plant [[footnote]] tentatively //Heliamphora [[[scp-2636|caprerum]]]// [[/footnote]] that uses thaumaturgy to prey on hematophages such as oxpeckers and vampire bats. SCP-6880’s primary anomalous property is its digestive fluid: a volatile fluoride compound [[footnote]] (refer to MSDS-4748935) [[/footnote]] that looks, smells, and possesses the same goetic signature as uncoagulated cattle blood. SCP-6880 is otherwise a perennial herb that grows approx 1 meter in height and has similar breeding and feeding habits as non-anomalous Heliamphora species.\n\nDuring the daytime, SCP-6880 injects minute quantities of its digestive fluid through its roots to eliminate competition for sunlight, water, and pollination by poisoning the surrounding soil in a 5 meter radius. It also drips small quantities of fluid from its upper leaf into its digestive pouch to emit a gradual stench of cow blood. Ultraviolet radiation from the sun kickstarts a still poorly-understood thaumaturgic reaction that converts up to 2 liters of blood into digestive fluid per day. \n\nBy nightfall, the buildup of digestive fluid causes SCP-6880 to resemble a bleeding cow via scent, goetic signature, and even on thermal and radar scans. In this way, it lures larger blood-sucking prey to land and drink from its pitcher. When prey attempts to feed, they are overcome by the fumes and fall into the pitcher to die by drowning, asphyxiation, or acid burns. As the corpse dissolves, any blood within them is released for catalysis into more digestive fluid.\n\nSCP-6880 has evolved numerous other unique enzymes in its chloroplasts that catalyze its digestive fluid through sunlight-moderated thaumaturgic reactions. The resultant products include organic sap, chlorophyll material, and a thick mucosal wax that protects SCP-6880 from its own digestive fluid. These products also present industrially attractive properties such as fluorocarbon-grade slipperiness and inertness, plus near-ceramic grade insulation and heat resistance. SCP-6880 populations are capable of growing in most temperate regions, as their mucosal wax insulates them in cooler climates and aids water retention in hotter ones. An instance of SCP-6880 is capable of surviving for up to one month on 50 grams of animal blood.\n\nSCP-6880 was discovered in Argentina by Mobile Task Force Lambda-9 (“Helsing Brigade”) while tracking the hematomorph ████████ ████████ on charges of criminal racketeering during the Seventh Occult War. His corpse was found, half-digested in bat form, in an instance of SCP-6880. Since its discovery, the Foundation has cultivated small SCP-6880 populations worldwide as a form of natural pest control for hematomorph populations, such as in London, England, and Washington, D.C.\n\n[[footnoteblock]]\n\n[[div class=\"footer-wikiwalk-nav\"]]\n[[=]]\n<< [[[SCP-6879]]] |  SCP-6880 | [[[SCP-6881]]] >>\n[[/=]]\n[[/div]]\n\n[[include :scp-wiki:component:license-box]]\n=====\n> **Filename:** pitcherplant.jpg\n> **Name:** File:H chimantensis2.jpg\n> **Author:** Andreas Eils \n> **License:** CC BY-SA 3.0\n> **Source Link:** [https://commons.wikimedia.org/wiki/File:H_chimantensis2.jpg Wikimedia Commons]\n=====\n[[include :scp-wiki:component:license-box-end]]",
+  "tags": [
+    "_cc",
+    "_licensebox",
+    "alive",
+    "biological",
+    "blood",
+    "bovine",
+    "chemical",
+    "corrosive",
+    "liquid",
+    "plant",
+    "predatory",
+    "scp",
+    "species",
+    "thaumiel"
+  ],
+  "author": "A Random Day",
+  "created_at": "2021-09-04T19:52:55+00:00",
+  "updated_at": "2023-06-30T11:41:02+00:00",
+  "rating": 76,
+  "_site": "scp-wiki",
+  "_fullname": "scp-6880"
+}

@@ -1,0 +1,22 @@
+{
+  "title": "SCP-CN-1384",
+  "content": "[[iftags -作者]]\n[!--\n[[/iftags]]\n前进是必要的，前进带来旋转，旋转的过程中错误与黑暗将被蒸馏，留下的是洁净的世界以及更高层次的得到。\n[[iftags -作者]]\n--]\n[[/iftags]]\n\n[[include :scp-wiki-cn:theme:black-highlighter-theme]]\n\n[[>]]\n[[module rate]]\n[[/>]]\n\n[[module ListPages category=\"fragment\" parent=\".\" limit=\"1\" order=\"name\" offset=\"@URL|0\"]]\n\n%%content%%\n\n[[/module]]\n\n[!--\n编辑本页面的内容可能会导致错误。若要编辑文本，请至以下链接。\nhttp://scp-wiki-cn.wikidot.com/fragment:scp-cn-1384-00\nhttp://scp-wiki-cn.wikidot.com/fragment:scp-cn-1384-01\nhttp://scp-wiki-cn.wikidot.com/fragment:scp-cn-1384-02\nhttp://scp-wiki-cn.wikidot.com/fragment:scp-cn-1384-03\nhttp://scp-wiki-cn.wikidot.com/fragment:scp-cn-1384-04\n--]\n\n[[footnoteblock]]\n\n[[div class=\"footer-wikiwalk-nav\"]]\n[[=]]\n<< [[[SCP-CN-1383]]] | SCP-CN-1384 | [[[SCP-CN-1385]]] >>\n[[/=]]\n[[/div]]",
+  "tags": [
+    "k级情景",
+    "scp",
+    "ticonderoga",
+    "原创",
+    "未收容",
+    "概念",
+    "模因",
+    "精神影响",
+    "认知危害",
+    "超维度"
+  ],
+  "author": "Gali Z R",
+  "created_at": "2020-04-03T11:29:53+00:00",
+  "updated_at": "2024-05-27T13:10:09+00:00",
+  "rating": 32,
+  "_site": "scp-wiki-cn",
+  "_fullname": "scp-cn-1384"
+}

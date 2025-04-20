@@ -1,0 +1,31 @@
+{
+  "title": "SCP-8005",
+  "content": "[[module css]]\n.footnotes-footer {\ndisplay:none;\n}\n[[/module]]\n[[>]]\n[[module rate]]\n[[/>]]\n\n[[module ListPages category=\"fragment\" parent=\".\" order=\"created_at\" limit=\"1\" offset=\"@URL|0\"]]\n%%content%%\n[[/module]]\n\n[!-- https://scp-wiki.wikidot.com/fragment:8000contestdaveyoufool-1 --]\n[!-- https://scp-wiki.wikidot.com/fragment:8000contestdaveyoufool-2 --]\n[!-- https://scp-wiki.wikidot.com/fragment:8000contestdaveyoufool-3 --]\n[!-- https://scp-wiki.wikidot.com/fragment:8000contestdaveyoufool-4 --]\n[!-- https://scp-wiki.wikidot.com/fragment:8000contestdaveyoufool-5 --]\n[!-- https://scp-wiki.wikidot.com/fragment:8000contestdaveyoufool-6 --]\n[!-- https://scp-wiki.wikidot.com/fragment:8000contestdaveyoufool-7 --]\n[!-- https://scp-wiki.wikidot.com/fragment:8000contestdaveyoufool-8 --]\n\n[[div class=\"footer-wikiwalk-nav\"]]\n[[=]]\n<< [[[SCP-8004]]] | SCP-8005 | [[[SCP-8006]]] >>\n[[/=]]\n[[/div]]\n\n[[include :scp-wiki:component:license-box]]\n> **Filename:** itshammie.png\n> **Author:** [[*user daveyoufool]]\n> **License:** CC BY-SA 3.0\n> **Source Link:** SCP Foundation Wiki\n\n> **Filename:** holyfool.png\n> **Author:** [[*user daveyoufool]]\n> **License:** CC BY-SA 3.0\n> **Source Link:** SCP Foundation Wiki\n\n> **Filename:** skogslottet.png\n> **Author:** [[*user daveyoufool]]\n> **License:** CC BY-SA 3.0\n> **Source Link:** SCP Foundation Wiki\n\n> **Filename:** nathang.png\n> **Author:** [[*user daveyoufool]]\n> **License:** CC BY-SA 3.0\n> **Source Link:** SCP Foundation Wiki\n\n> **Filename:** thegreatboyg.png\n> **Author:** [[*user daveyoufool]]\n> **License:** CC BY-SA 3.0\n> **Source Link:** SCP Foundation Wiki\n\n> **Filename:** boyghurt.png\n> **Author:** [[*user daveyoufool]]\n> **License:** CC BY-SA 3.0\n> **Source Link:** SCP Foundation Wiki\n\n> **Filename:** crackedboyg.png\n> **Author:** [[*user daveyoufool]]\n> **License:** CC BY-SA 3.0\n> **Source Link:** SCP Foundation Wiki\n\n> **Filename:** boygcore.png\n> **Author:** [[*user daveyoufool]]\n> **License:** CC BY-SA 3.0\n> **Source Link:** SCP Foundation Wiki\n\n> **Filename:** hammiewin.png\n> **Author:** [[*user daveyoufool]]\n> **License:** CC BY-SA 3.0\n> **Source Link:** SCP Foundation Wiki\n\n[[include :scp-wiki:component:license-box-end]]",
+  "tags": [
+    "8000",
+    "_cc",
+    "_licensebox",
+    "_listpages",
+    "doctor-spanko",
+    "foundation-made",
+    "future",
+    "hard-to-destroy-reptile",
+    "interactive",
+    "k-class-scenario",
+    "meta",
+    "prometheus",
+    "robotic",
+    "sapient",
+    "scarlet-king",
+    "scp",
+    "self-repairing",
+    "thaumiel",
+    "totleighsoft"
+  ],
+  "author": "daveyoufool",
+  "created_at": "2024-02-12T05:02:01+00:00",
+  "updated_at": "2024-08-30T19:16:53+00:00",
+  "rating": 421,
+  "_site": "scp-wiki",
+  "_fullname": "scp-8005"
+}

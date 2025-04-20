@@ -1,0 +1,20 @@
+{
+  "title": "SCP-1937-KO",
+  "content": "[[include :scpko:info:start]]\n**SCP-1937-KO:** 그여인의이름은[편집됨]이었다\n\n**저자:** [[*user ClockedHead]]\n\n**##A52A2A|해당 작품은 특정 범죄 집단의 행위 및 사상을 옹호하지 않습니다.##**\n\n**이미지 출처:** [[[https://newslibrary.naver.com/viewer/index.naver?articleId=1937041300230103001&editNo=1&printCount=1&publishDate=1937-04-13&officeId=00023&pageNo=3&printNo=1&publishType=00030]]]\n------\n[[=]]\n[[[http://scpko.wikidot.com/into-the-clock|█]]]\n[[/=]]\n------\n[[include :scpko:info:end]]\n\n[[module ListPages  category=\"fragment\" parent=\".\" limit=\"1\" order=\"name\" offset=\"@URL|0\"]]\n%%content%%\n[[/module]]\n\n[!-- http://scpko.wikidot.com//fragment:SCP-1937-KO-1 --]\n[!-- http://scpko.wikidot.com//fragment:SCP-1937-KO-2 --]\n[!-- http://scpko.wikidot.com//fragment:SCP-1937-KO-3 --]",
+  "tags": [
+    "2024-별칭경연",
+    "ko",
+    "scp",
+    "무효",
+    "사체",
+    "알라가다",
+    "역사적",
+    "이자메아"
+  ],
+  "author": "ClockedHead",
+  "created_at": "2024-09-29T14:32:55+00:00",
+  "updated_at": "2024-09-29T15:22:00+00:00",
+  "rating": 11,
+  "_site": "scpko",
+  "_fullname": "scp-1937-ko"
+}

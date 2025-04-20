@@ -1,0 +1,25 @@
+{
+  "title": "SCP-8045",
+  "content": "=====\n[[include :scpko:component:preview\ntext=\n밤에 당신 물건을 가져가는 요정에 대한 짧고 재밌는 글.\n]]\n=====\n\n[[include :scpko:component:ratio-bar base=--]]\n\n\n[[include :scpko:info:start]]\n**SCP-8045:** 요정도 밖에 안 되는 요정들,,Fairly Frivolous Fairies.,,\n**작가:** [[*user JorgeMtzb]]\n**역자:** [[*user TimidChild]]\n**특별 감사:** [[*user Zoobeeny]], [[*user Mooagain]], [[*user Voct]], [[*user Ethagon ]],  [[*user Alexiotron ]], [[*user Doctor Fullham]], [[*user FluffyKobold]], 그리고 Site-19 IRC 대화방의 모두들.\n[[module ListUsers users=\".\"]]\n**하지만 무엇보다도...**\n**특별 감사:** 바로 당신!!! 제 글을 읽어주셔서 고마워요, %%title%%. ^-^\n[[/module]]\n> **원본:** Average White Pillow\n> **저작권자:** Itrytohelp32\n> **라이선스:** CC BY-SA 4.0 DEED\n> **출처:** [https://en.wikipedia.org/wiki/File:Average_White_Pillow.jpg Wikimedia Commons]\n[[include :scpko:info:end]]\n\n[[include :scp-wiki:component:pride-highlighter |inc-s9-plgbt-alt= --]]]\n\n[[include :scpko:component:author-label-source start=--\n|name=JorgeMtzb]]\n저는 업보트 요정이에요, 당신의 업보트를 기꺼이 받아가고 대가로 웃음을 남기고 갈게요\n(바라건대 말이에요. 전 아직 견습 요정이거든요.)\n[[include :scpko:component:author-label-source end=--]]\n\n[[include :scpko:component:anomaly-class-bar-source\n|item-number= 8045\n|clearance= 1\n|container-class= 안전\n|secondary-class= none\n|disruption-class= 암흑\n|risk-class= 주목\n]]\n\n\n##transparent| 쿨쿨쿨쿨쿨쿨쿨쿨쿨쿨쿨쿨쿨쿨쿨쿨쿨쿨 ##\n\n[[include component:image-block | name=https://upload.wikimedia.org/wikipedia/commons/8/84/Average_White_Pillow.jpg | caption=SCP-8045| width=]]\n\n\n**특수 격리 절차:** SCP-8045는 제19기지 표준 저위협 변칙 격리 금고에 수용한다. SCP-8045를 사용하려면 2등급 보안 인가가 필요하다. SCP-8045를 이용한 실험을 할 때는 통제된 환경에서 감시 카메라를 켜고 한다. 변칙 물체(다른 SCP 객체 포함)나 지성체를 밤 사이에 SCP-8045 밑에 놔두어선 안 된다.\n\n**설명:** SCP-8045는 표준 크기의 51 cm x 56 cm 거위 솜깃털 베개이며 제조자를 나타내는 라벨이나 표시는 존재하지 않는다. 베개를 구성하는 재료는 비변칙 베개와 다를 바 없이 평범하다.\n\nSCP-8045의 변칙성은 밤에[[footnote]]여기서 밤은 태양이 그 장소에서 수평선 아래로 완전히 저물었을 때부터를 뜻한다.[[/footnote]] SCP-8045를 침대[[footnote]]자려고 만든 아무 가구나 가능[[/footnote]] 위에 올려두고 개체와 침대 사이에 물건을 놓아두면 발생한다. 이 변칙성은 침대를 직접 볼 수 있는 모든 인간이 잠에 들었거나 의식이 없을 때만 발생한다. 완전히 의식이 있는 사람이 밤 내내 곁에 있으면 SCP-8045의 변칙성은 발동하지 않는다.\n\n위 조건을 모두 만족하면 개체 밑에 둔 물건에 해당하는 요정[[footnote]]이 요정들의 크기, 모양, 생김새 등은 매우 다양하지만, 모두 현대 대중매체에서 나오는 민간 설화 요정의 모습 중 가장 인기있는 형태, 즉 나비 같은 날개를 단 소형 인간형 개체를 닮았다.[[/footnote]] (이하 SCP-8045-1) 하나가 방에 나타난다. SCP-8045 밑에 같은 종류의 물건을 두면 항상 똑같은 SCP-8045-1 개체가 나타난다. 모든 SCP-8045-1 개체에는 자그마한 이름표가 달려서 어떤 종류의 요정인지 알 수 있다.\n\n요정은 SCP-8045에 다가가 그 밑에 있는 물건을 가져간 후 방 밖으로 날아가려하며, 곧 사라진다. 요정은 물건을 가져가는 값으로 무언가를 남기는데, 항상은 아니지만 주로 화폐를 두고 가며 가장 흔하게는 쿼터 동전 하나(미화 25센트)를 남긴다.\n\nSCP-8045-1 개체가 SCP-8045 밑 물건을 가져가기 전에 어떤 식으로든 방해받으면 대상은 일찍 사라진다. 이후 밤중에 다시 출현 조건을 만족하면 대상은 다시 돌아와 작업을 마치려 한다. ",
+  "tags": [
+    "en",
+    "scp",
+    "무효",
+    "생물",
+    "수면",
+    "안전",
+    "야행성",
+    "인간형",
+    "인공물",
+    "적응",
+    "종",
+    "지성",
+    "치의학"
+  ],
+  "author": "TimidChild",
+  "created_at": "2024-06-03T17:10:54+00:00",
+  "updated_at": "2025-02-22T13:34:05+00:00",
+  "rating": 17,
+  "_site": "scpko",
+  "_fullname": "scp-8045"
+}

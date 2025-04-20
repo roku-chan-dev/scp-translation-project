@@ -1,0 +1,16 @@
+{
+  "title": "银河接引中心页",
+  "content": "[[module ListPages category=\"fragment\" parent=\".\" order=\"random\" limit=\"1\" ]]\n\n%%content%%\n\n[[/module]]\n\n\n[!-- http://scp-wiki-cn.wikidot.com/fragment:sky-sermon-hub-1\nhttp://scp-wiki-cn.wikidot.com/fragment:sky-sermon-hub-2 --]",
+  "tags": [
+    "2019goi竞赛",
+    "_故事中心",
+    "中心",
+    "银河联邦"
+  ],
+  "author": "Etinjat",
+  "created_at": "2019-04-19T04:17:49+00:00",
+  "updated_at": "2020-01-18T09:30:24+00:00",
+  "rating": 5,
+  "_site": "scp-wiki-cn",
+  "_fullname": "sky-sermon-hub"
+}

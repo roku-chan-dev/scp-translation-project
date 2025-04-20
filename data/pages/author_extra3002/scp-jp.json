@@ -1,0 +1,14 @@
+{
+  "title": "Extra3002の著者ページ",
+  "content": "[[tabview]]\n[[tab 翻訳したもの]]\n[[=]]\nSCP\n[[/=]]\n[[module ListPages created_by=\"[ Extra3002]\" separate=\"no\" tags=\"+scp +en\" order=\"created\" category=\"*\" prependLine=\"||~ Translate ||~ Rating ||~ Comments ||~ Created ||~ Last Comment ||\"]]\n|| %%title_linked%% || %%rating%% || %%comments%% || %%created_at%% || %%commented_at%% ||\n[[/module]]\n[[=]]\nTale\n[[/=]]\n[[module ListPages created_by=\"[ Extra3002]\" separate=\"no\" tags=\"tale +en\" order=\"created\" category=\"*\" prependLine=\"||~ Translate ||~ Rating ||~ Comments ||~ Created ||~ Last Comment ||\"]]\n|| %%title_linked%% || %%rating%% || %%comments%% || %%created_at%% || %%commented_at%% ||\n[[/module]]\n[[=]]\nGoIフォーマット\n[[/=]]\n[[module ListPages created_by=\"[ Extra3002]\" separate=\"no\" tags=\"goi-format\" order=\"created\" category=\"*\" prependLine=\"||~ Translate ||~ Rating ||~ Comments ||~ Created ||~ Last Comment ||\"]]\n|| %%title_linked%% || %%rating%% || %%comments%% || %%created_at%% || %%commented_at%% ||\n[[/module]]\n[[=]]\nハブ\n[[/=]]\n[[module ListPages created_by=\"[ Extra3002]\" separate=\"no\" tags=\"ハブ\" order=\"created\" category=\"*\" prependLine=\"||~ Translate ||~ Rating ||~ Comments ||~ Created ||~ Last Comment ||\"]]\n|| %%title_linked%% || %%rating%% || %%comments%% || %%created_at%% || %%commented_at%% ||\n[[/module]]\n[[=]]\n著者ページ\n[[/=]]\n[[module ListPages created_by=\"[ Extra3002]\" separate=\"no\" tags=\"著者ページ +en\" order=\"created\" category=\"*\" prependLine=\"||~ Translate ||~ Rating ||~ Comments ||~ Created ||~ Last Comment ||\"]]\n|| %%title_linked%% || %%rating%% || %%comments%% || %%created_at%% || %%commented_at%% ||\n[[/module]]\n[[/tab]]\n\n[[tab その他]]\n[[=]]\n[!--2020/04/06、[[[SCP-3999]]]の改訳を行った。\n2020/06/10、[[[scp-2305-collab|SCP-2305-A拡張文書ログ]]]を少し更新。--]\n\nAnomalous、ページ遷移型翻訳記事のページなど\n[[/=]]\n[[module ListPages created_by=\"[ Extra3002]\" separate=\"no\" tags=\"-scp -author -tale -著者ページ -goi-format -ハブ\" order=\"created\" category=\"*\" prependLine=\"||~ Others ||~ Rating ||~ Comments ||~ Created ||~ Last Comment ||\"]]\n|| %%title_linked%% || %%rating%% || %%comments%% || %%created_at%% || %%commented_at%% ||\n[[/module]]\n[[/tab]]\n[[/tabview]]",
+  "tags": [
+    "jp",
+    "著者ページ"
+  ],
+  "author": "Extra3002",
+  "created_at": "2019-11-03T07:44:12+00:00",
+  "updated_at": "2021-02-13T08:20:41+00:00",
+  "rating": 0,
+  "_site": "scp-jp",
+  "_fullname": "author:extra3002"
+}

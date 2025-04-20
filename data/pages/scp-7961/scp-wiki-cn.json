@@ -1,0 +1,17 @@
+{
+  "title": "SCP-7961",
+  "content": "[[include :scp-wiki:theme:blankstyle]]\n[[module css]]\nbody{\n    --barColour: #8c8c8c;\n}\n\n:root{\n  --header-title: \"SCP基金会\";\n  --header-subtitle: \"控制，收容，保护\";\n}\n\n#header h1 a:before {\n    font-size: 2.0rem;\n}\n\ndiv#extra-div-1 {\n    background-image: url(http://scp-sandbox-3.wdfiles.com/local--files/harry-blank-6/BlankstyleSCP-2.png);\n    filter: opacity(50%);\n}\n\n#page-content .info-container {\n    --link-color: rgb(var(--swatch-text-general));\n}\n\n#page-content .info-container .translation_block {\n    display: none;\n}\n\n#page-content .info-container .collapsible-block-link,\n#page-content .info-container:hover .collapsible-block-link {\n    line-height: 1.6em;\n}\n\n#page-content .info-container .collapsible-block-folded,\n#page-content .info-container .collapsible-block-unfolded-link {\n    display: grid;\n}\n\n#page-content .info-container .collapsible-block-folded .collapsible-block-link,\n#page-content .info-container .collapsible-block-link {\n    -webkit-mask: unset;\n            mask: unset;\n    background: transparent;\n    grid-column: 1;\n    grid-row: 1;\n    opacity: 0;\n}\n\n#page-content .info-container .collapsible-block-folded::before,\n#page-content .info-container .collapsible-block-unfolded-link::before {\n    --wght: 800;\n    content: \"J Dune\";\n    color: #FFFFFF;\n    font-family: Inter, Arimo, Verdana, Geneva, \"Helvetica Neue\", \"Helvetica\", Arial, sans-serif;;\n    display: block;\n    pointer-events: none;\n    grid-column: 1;\n    grid-row: 1;\n    line-height: 2.75ex;\n}\n[[/module]]\n\n\n**项目编号：** SCP-7961\n \n\n**项目等级：** 标准\n\n[[include component:image-block\nname=https://upload.wikimedia.org/wikipedia/commons/thumb/a/ab/Lasaretinsaari_Oulu_20131226.JPG/1600px-Lasaretinsaari_Oulu_20131226.JPG?20140523170144|caption= 档案图片，日期未知|width=250px]]\n\n**特殊收容措施：** 已在SCP-7961所在地安装监控摄像头。记录视频将被自动上传给完形智能“方舟”。\n\n每隔二周，将以一台检验无人机对SCP-7961展开直接检查。\n\n**描述：** SCP-7961是一根路灯柱，位于英国东南部一条失修道路的遗址上。\n\nSCP-7961继续保留有正常功能，尽管当地已没有交流电或中央供电留存。SCP-7961只会在周边区域出现适当程度黑暗时发光，和非异常路灯一致。灯泡自发现以来未曾出现烧尽痕迹。\n\nSCP-7961周围被植物生命环绕，且只在灯光范围内生长。这些植物和生长植物的土壤始终健康且茂盛，未被全球大气的腐蚀性影响。这种植物生命由草和多种亮色花朵组成，此前曾在[[[Lily's Proposal|全球~90%的现存地表上出现。]]]\n\n**附录：** 受大气腐蚀影响，采集自SCP-7961所在地的种荚难以展开培植。据估算，毒性水平会在4672946年后降低到适于生长的剂量。",
+  "tags": [
+    "scp",
+    "人造物品",
+    "光照影响",
+    "机密分级",
+    "电力"
+  ],
+  "author": "ashausesall",
+  "created_at": "2023-09-21T14:33:33+00:00",
+  "updated_at": "2023-09-22T13:41:09+00:00",
+  "rating": 3,
+  "_site": "scp-wiki-cn",
+  "_fullname": "scp-7961"
+}

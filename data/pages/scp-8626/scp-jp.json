@@ -1,0 +1,20 @@
+{
+  "title": "SCP-8626",
+  "content": "[[include :scp-jp:credit:start-preview]]\n**タイトル:** SCP-8626 - 子供たちが、無言で見ている\n**翻訳責任者:** [[*user C-Dives]]\n**翻訳年:** 2025\n**著作権者:** [[*user IndustryStandard]]\n**原題:** SCP-8626 - children, who watch in silence\n**作成年:** 2025\n**初訳時参照リビジョン:** 4\n**元記事リンク:** [[[*https://scp-wiki.wikidot.com/scp-8626|ソース]]]\n[[include :scp-jp:credit:cc4]]\n[[include :scp-jp:credit:end-preview]]\n\n[[module css]]\n@media only screen and (max-width: 600px) {\n    .scp-image-block.block-right{\n        float: none;\n        margin: auto;\n    }\n}\n[[/module]]\n\n**アイテム番号:** SCP-8626     \n\n**オブジェクトクラス:** Keter\n\n**特別収容プロトコル:** 既知の被影響者は全員、幼少期[[footnote]]3～12歳[[/footnote]]に監督されていない状況下でSCP-8626と遭遇しているため、収容の実行可能性は依然として最低限に留まっています。\n\nSCP-8626に関しては、それ自体を対象とするプロトコルの代わりに、標準的な文化抑制戦術を適用することで、被影響者とされる人々の証言の信憑性を最小化すると共に、異常現象が非異常な状況と混同される確率を高めるものとします。\n\n[[include component:image-block name=http://scp-jp-storage.wikidot.com/local--files/file:2375337-1255-wvb7/TennisEdit2.jpg|caption=夢映像キャプチャ経由でのSCP-8626|width=300px|align=right|alt-text:テニスの試合の低解像度画像。]]\n\n**説明:** 伝聞によると、SCP-8626はウィンブルドンのセンターコート競技場で行われた、身元不明人物2名[[footnote]]多くの場合、男性1名と女性1名であると区別されます。[[/footnote]]による親善テニス試合の録画放送です。SCP-8626は概ねこの種のイベントの一般的な手順に則っていますが、次のような逸脱があります。\n* ボールが存在しない。\n* 主審が存在しない。\n* 観客は全て児童であり、無言で見ている。\nいずれの証言においても、この試合はタイブレーク延長戦へと突入し、そこで膠着状態に陥った両選手は、次第に悪化するしわがれ声、かすれ声、または金切り声で力みながら、目に見えないボールを打ち続けます。[[footnote]]選手がどのようにして得点を把握しているのかは不明です。[[/footnote]] これは片方の選手が見たところ疲労で倒れ込むまで続き、その後、画面はスノーノイズになります。新しい放送は1時間から1週間後の不特定の時点で始まります。[[footnote]]ほとんどの事例では、音声が聞こえるのみです。[[/footnote]]\n\nSCP-8626を視聴した人物は、物理的な距離に関係なく、当該放送の侵入的な幻聴を長期間にわたって経験します。手、ヘッドホン、枕などの外部手段を使ってこの音を弱める試みは失敗します。これらの影響は無期限に持続しますが、経時的に弱まる場合があります。[[footnote]]ただし、完全に治まることは決してありません。[[/footnote]]\n[[footnoteblock]]\n@@ @@\n[[include :scp-jp:component:license-box\n|author=IndustryStandard, C-Dives]]\n[[div class=\"blockquote\"]]\n\n**ファイルページ:** [*http://scp-jp-storage.wikidot.com/file:2375337-1255-wvb7 SCP-8626]\n\n**ファイル名:** TennisEdit2.jpg \n**タイトル:** Wimbledon 2019 Nadal v Sousa.jpg\n**著作権者:** I went to Wimbledon\n**ソース:** https://commons.wikimedia.org/wiki/File:Wimbledon_2019_Nadal_v_Sousa.jpg\n**ライセンス:** CC BY-SA 4.0\n**公開年:** 16 July 2019\n\n**補足:** [[*user IndustryStandard]]氏 (恐らく) によって加工されています。\n\n[[/div]]\n[[include :scp-jp:component:license-box-end]]",
+  "tags": [
+    "en",
+    "keter",
+    "scp",
+    "スポーツ",
+    "幻覚",
+    "聴覚",
+    "視覚",
+    "記憶媒体"
+  ],
+  "author": "C-Dives",
+  "created_at": "2025-02-10T13:03:55+00:00",
+  "updated_at": "2025-02-10T13:04:16+00:00",
+  "rating": 9,
+  "_site": "scp-jp",
+  "_fullname": "scp-8626"
+}

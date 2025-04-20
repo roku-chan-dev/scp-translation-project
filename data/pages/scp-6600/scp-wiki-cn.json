@@ -1,0 +1,29 @@
+{
+  "title": "SCP-6600",
+  "content": "[[module ListPages category=\"fragment\" parent=\".\" limit=\"1\" order=\"created_at\" offset=\"@URL|0\"]]\n%%content%%\n[[/module]]\n\n[!--\n\nChildren:\nhttps://scp-wiki-cn.wikidot.com/fragment:scp-6600-1\nhttps://scp-wiki-cn.wikidot.com/fragment:scp-6600-2\nhttps://scp-wiki-cn.wikidot.com/fragment:scp-6600-3\n\n--]\n\n[[div class=\"footer-wikiwalk-nav\"]]\n[[=]]\n<< [[[SCP-6599]]] | SCP-6600 | [[[SCP-6601]]] >>\n[[/=]]\n[[/div]]\n\n[[include :scp-wiki-cn:component:license-box\nauthor=Limeyy, margssentif, Quadraginta, chiifu, and CelesteKara]]\n=====\n> **Filename:** clean.png and diagram.png\n> **Name:** Image from page 73 of \"American spiders and their spinning work. A natural history of the orbweaving spiders of the United States, with special regard to their industry and habits\" (1889)\n> **Author:** Internet Archive Book Images\n> **License:** Public Domain\n> **Source Link:** https://flickr.com/photos/internetarchivebookimages/20797660092/in/photolist-xFPrLq-9yWVWA-ffRmt6-DmterW-DgvEBM-owdZgs-fE2Yim-od5BBd-FNDcmk-5uNTbd-ENEBTJ-gujpQX-ow6sGo-hYjEvm-ocbNZ6-9xGS6g-a7U4xC-6r8dud-aAYRZH-CWFxXC-ouxpA3-9iYjJs-oeZyig-bxYozx-9iVbZB-CQhrEi-Qm3CNX-Dgw43t-cSmu3m-CQhs68-ieaR19-z3UyGQ-g4h6P9-xrC22h-Eg9f93-g4hBCg-hVQDT6-dFacdT-6TBtCZ-hUFRRQ-9xrioo-odwRDa-hVQ27S-yg4vmK-nAwKLR-pLZfYL-838cZb-akj7R4-eNJXMn-zh9478\n> **Additional Notes:** Both are derived from the above link\n\n=====\n[[include :scp-wiki-cn:component:license-box-end]]",
+  "tags": [
+    "6000",
+    "scp",
+    "传送",
+    "合著",
+    "声音",
+    "感知力",
+    "感知影响",
+    "时空",
+    "时间影响",
+    "智能",
+    "机密分级",
+    "现实扭曲",
+    "精神影响",
+    "蜘蛛",
+    "记忆影响",
+    "超维度",
+    "门径"
+  ],
+  "author": "Toramaru Syou",
+  "created_at": "2022-01-23T07:46:10+00:00",
+  "updated_at": "2023-03-19T15:15:24+00:00",
+  "rating": 8,
+  "_site": "scp-wiki-cn",
+  "_fullname": "scp-6600"
+}

@@ -1,0 +1,13 @@
+{
+  "title": "최저 평점 글",
+  "content": "한자리 수의 평점을 받은 비SCP 글의 목록입니다. 마이너스 항목은 [[[Lowest Rated Pages|최저 평점 목록]]]에 이미 나와있습니다.\n[[tabview]]\n[[tab 모든 비SCP 글]]\n[[module ListPages category=\"-nav -decomm -system -forum -migration -admin -random -search\" tags=\"+ko -scp -작가 -경연 -샌드박스 -허브 -프로젝트 -안내 -스플래시 -scp재료 -관리자 -보존\" rating=\"<10\" order=\"rating\" separate=\"false\" perPage=\"50\"]]\n|| %%title_linked%% || Rating: %%rating%% || Comments: %%comments%% || Created %%created_at%% || \n[[/module]]\n[[/tab]]\n[[tab 이야기만]]\n[[module ListPages category=\"-nav -decomm -system -forum -migration -admin -random -search\" tags=\"+ko -scp -작가 -경연-샌드박스 -허브 -프로젝트 -안내 -스플래시 -scp재료 -관리자 -보존 이야기\" rating=\"<10\" order=\"rating\" separate=\"false\" perPage=\"50\"]]\n|| %%title_linked%% || Rating: %%rating%% || Comments: %%comments%% || Created %%created_at%% || \n[[/module]]\n[[/tab]]\n[[tab 보충만]]\n[[module ListPages category=\"-nav -decomm -system -forum -migration -admin -random -search\" tags=\"+ko -scp -작가 -경연 -샌드박스 -허브 -프로젝트 -안내 -스플래시 -scp재료 -관리자 -보존 보충\" rating=\"<10\" order=\"rating\" separate=\"false\" perPage=\"50\"]]\n|| %%title_linked%% || Rating: %%rating%% || Comments: %%comments%% || Created %%created_at%% || \n[[/module]]\n[[/tab]]\n[[tab 기타]]\n[[module ListPages category=\"-nav -decomm -system -forum -migration -admin -random -search\" tags=\"+ko -scp -작가 -경연 -샌드박스 -허브 -프로젝트 -안내 -스플래시 -scp재료 -관리자 -보존 -이야기 -보충\" rating=\"<10\" order=\"rating\" separate=\"false\" perPage=\"50\"]]\n|| %%title_linked%% || Rating: %%rating%% || Comments: %%comments%% || Created %%created_at%% || \n[[/module]]\n[[/tab]]\n[[/tabview]]",
+  "tags": [
+    "허브"
+  ],
+  "author": "Dr Devan",
+  "created_at": "2013-01-04T05:28:03+00:00",
+  "updated_at": "2020-02-20T13:18:58+00:00",
+  "rating": 0,
+  "_site": "scpko",
+  "_fullname": "lowest-rated-articles"
+}

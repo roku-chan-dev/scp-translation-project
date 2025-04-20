@@ -1,0 +1,15 @@
+{
+  "title": "往昔之日",
+  "content": "[[include credit:start-standalone]]\n**标题:** 往昔之日\n**作者:** [[*user hitsujikaip]]\n**译者:**[[*user Hideyama Iwakiyo]]\n**创作年份:** 2022\n[[include credit:end-standalone]]\n\n[[div style=\"height:50vh;\"]]\n[[/div]]\n\n[[html]]\n<!DOCTYPE html>\n<html lang=\"ja\">\n<head>\n    <meta charset=\"UTF-8\">\n    <meta http-equiv=\"X-UA-Compatible\" content=\"IE=edge\">\n    <meta name=\"viewport\" content=\"width=device-width, initial-scale=1.0\">\n    <title>x</title>\n    <style>\n        .u{\n            position: relative;\n        }\n        .z{\n            position: absolute;\n            top: 30vw;\n            left: 39vw;\n            width: 22vw;\n        }\n        .p {\n            width: 100vw;\n        }\n    </style>\n</head>\n<body>\n    <div class=\"u\">\n        <img class=\"p\" src=\"http://scp-jp-storage.wdfiles.com/local--files/file:6611312-121-w5iv/back.gif\">\n        <img class=\"z\" src=\"http://scp-jp-storage.wdfiles.com/local--files/file:6611312-122-en5z/noise.gif\" alt=\"\">\n    </div>\n</body>\n</html>\n[[/html]]\n\n[[div style=\"height:50vh;\"]]\n[[/div]]\n\n刚来到东京的那段记忆，就像浓雾对面群山在我眼中的轮廓般，如此模糊不清。\n\n大概是刚开始熟悉新学校那时吧，一辆黑色的汽车停在了我家的玄关外，叔叔从里面走了出来。叔叔说，他打算带我去一趟神社。空调的温度应该调得挺低的吧，但不知为何，透过车窗看向那轮廓分明的夏日景色之时，我却感到闷热难耐。\n\n这座神社造得非常气派。石碑上刻着的神社名字有些拗口，缓坡之上矗立着一座巨大的鸟居，仿佛支撑起了整片蓝天。我想，这大概是海底世界的排水沟，若被吸进去，恐怕就再也回不来了吧。这种恐惧在我进去之后就消散了。穿过一扇雕刻有菊花图案的大门和另一座鸟居，院里出现了一群看着像叔叔的同伴，显得特别恭敬的人。他们挤在一起，嘴里正吟唱着什么。虽然现在的我也可以一字一句地背诵这些唱词，但对当时刚小学生的我来说，理解起来就有些困难了。\n\n也就是在那时，我注意到了我家似乎有一些奇怪。家人们全都忙于“行动”，他们似乎想要找到什么，想要把它找回来。我还知晓了他们为了“行动”，奔波在处理那些与现实规律相背的事物的路上。随着我也卷入其中，我意识到自己也在一些小事上协助了他们。\n\n胡粉盘外落，雨云渐升空。破长空而筑鸟居，[[span class=\"ruby\"]]速开津姬[[span class=\"rt\"]]水户神[[/span]][[/span]]饮万物。穿过那座鸟居，便有了应该守护之物，便有了应该遵从之物，便有了应该重建之物，便有了应该挽回之物。这些行动便是在这些观点下进行的。\n\n我以为我明白我在做什么，也明白我为什么要这样做。我以为在作为行动的一环进入那所学院后，我的原则和行动的目的是一致的。但是我错了。\n\n假如，在那场战斗中所抛头颅洒热血的人们，他们看到了现在的世界的话，又会作何感想？在我心中，如今的世界似乎也并没有坏到哪里去。\n\n假如，在那场战斗中所抛头颅洒热血的人们，知道了他们曾经做出的“行动”如今的现况，又会作何感想？“你们在做什么鬼啊？！”之类的，会被这样嘲笑吧？或是被别人讨厌吧？嘲笑他们拥有富饶的生活却不知道满足，反而去追寻那些已经失去和可能存在的东西。\n\n为何一定要找回来呢？我没找回来不也觉得挺好？比起那些丢失之物，现在所拥有的不是更好吗？为何坚持要改变过去？我能做的，只有哀悼那因[[span class=\"ruby\"]]木槿花[[span class=\"rt\"]]自己的坚持[[/span]][[/span]]而被欺压，变得和[[span class=\"ruby\"]]梅花[[span class=\"rt\"]]娇俏少女[[/span]][[/span]]一样脆弱，最终惨死在[[span class=\"ruby\"]]菊花[[span class=\"rt\"]]他人的哀悼[[/span]][[/span]]之下的生命啊。\n\n或许，能让我感到万分幸运的，是那个组织为了制止我们的行动而实行的一个措施吧。这让“行动”对如今的我完全没有产生任何影响，只不过是名为“人生”的题海中的一道题目。如今的我，也得以尽情享受眼前的大海，这些大概会成为对曾经奋斗的人们的留念吧？鸟居对面的人们，也一定会这么想的。\n\n我已经没有必要再去寻回那些缺失之物了。\n\n\n[[image http://scp-jp-storage.wdfiles.com/local--files/file:6611312-123-ledo/illust.png]]",
+  "tags": [
+    "jp",
+    "故事",
+    "青大将"
+  ],
+  "author": "Hideyama Iwakiyo",
+  "created_at": "2024-07-03T03:07:07+00:00",
+  "updated_at": "2024-07-03T03:15:24+00:00",
+  "rating": 5,
+  "_site": "scp-wiki-cn",
+  "_fullname": "summer-old-days"
+}

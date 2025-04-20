@@ -1,0 +1,19 @@
+{
+  "title": "SCP-6255",
+  "content": "[[include :scp-wiki-cn:theme:black-highlighter-theme]]\n[[include :scp-wiki-cn:theme:scp-offices-theme]]\n[[include :scp-wiki:component:fade-in speed=1]]\n[[include :scp-wiki:component:rso]]\n\n[[include :scp-wiki-cn:component:anomaly-class-bar-source\n|lang=cn\n|item-number= 6255\n|clearance= 2\n|container-class= safe\n|secondary-class= none\n|secondary-icon= http://acsurlexample.com/image.svg\n|disruption-class= dark\n|risk-class= 警告\n]]\n----\n**特殊收容措施：**所有保存在Site-94的付印或已完成文档均应过塑处理，以防遭受SCP-6255-1影响。文档的撰写和归档只可通过终端进行。鉴于SCP-6255事件的发生环境，SCP-6255目前为自我收容。\n\n**描述：**SCP-6255为发生于Site-94内的一种现象，尚不知晓其确切频率，但认为每周至少发生两次。其异常性质在于随机出现的SCP-6255-1实例。\n\nSCP-6255-1实例呈现为一只盛有不同液体[[footnote]]这些液体通常带有热度或颜色。[[/footnote]]的瓷制咖啡杯，下方具有双腿。SCP-6255事件中，SCP-6255-1实例将试图接近身旁人员，倾斜身体，将液体倒在他们的衣物或该人员携带的任何物体上[[footnote]]通常为记载已收容异常、记录或机密信息的纸质文档。[[/footnote]]，显示一句模糊的信息。信息内容据事件情况或有所不同。\n\nSCP-6255-1实例将在完成任务后很快消失。自2021年7月29日出现以来，截止本文档撰写之前，已通过监控发现143例SCP-6255事件。\n\n**附录：**以下附录为发生于2021年9月的几例个别事件。全部记录储存于Site-94的监控室中。\n\n[[collapsible show=\"+ 打开记录？\" hide=\"- 关闭\"]]\n\n> **{{监控记录6255.1}}**：医务室\n> ----\n> **事件：**在对[[[*scp-6354|Dr. Maya Warren]]]进行器官分析期间，一个SCP-6255-1实例出现在医务室中，将所盛液体（淡水）倒在正在浏览网络图片和段子的Dr. Albert White的手机上。\n> \n> **结果：**该SCP-6255-1实例跳进Dr. White的实验大褂里消失了，呈现出信息“{{尊重死者}}”。\n\n> **{{监控记录6255.2}}**：自助餐厅\n> ----\n> **事件：**Janitor Savannah Santos走进Site-94的自助餐厅，在咖啡机前点了一杯凉咖啡。当她拿起一只塑料杯时，一个盛有热咖啡的SCP-6255-1实例出现，并跳到了Janitor Santos的西装上。\n> \n> **结果：**该SCP-6255-1实例摔碎在地，在消失前呈现出如下信息：“{{令人恶心}}”。\n\n> **{{监控记录6255.3}}**：办公桌\n> ----\n> **事件：**初级研究员Michaels正在用打字机对Site-94新近收容的异常进行官方分类。不久，一个SCP-6255-1实例出现在Dr. Michaels的实验大褂内，并跳上办公桌，将所盛液体倾倒在未完成的文档上。\n> \n> **结果：**该SCP-6255-1显示出如下信息：“{{来点艺术，JAMES}}”。研究员Michaels后来表示，他将该文档处理得过于口语化。\n\n[[/collapsible]]\n\n**发现：**07/29/2021，一例SCP-6255-1事件出现在初级研究员Joseph Faraday的办公桌上，将液体[[footnote]]热咖啡。[[/footnote]]倾倒在这名研究员正在处理的文档上，并在消失前呈现出如下信息。此次事件不久后，该异常便引起了基金会的注意。\n\n[[collapsible show=\"+ 打开记录？\" hide=\"- 关闭\"]]\n\n[[=]]\n 玫瑰是红的\n 紫罗兰是蓝的\n 如果纸是白的\n 那艺术就是你能做的\n[[/=]]\n\n= **ARE WE COOL YET?**\n\n[[/collapsible]]\n\n发现异常后，初级研究员Joseph Faraday并未受到SCP-6255事件影响。\n\n[[footnoteblock]]\n\n[[div class=\"footer-wikiwalk-nav\"]]\n[[=]]\n<< [[[SCP-6254]]] | SCP-6255 | [[[SCP-6256]]] >>\n[[/=]]\n[[/div]]",
+  "tags": [
+    "are-we-cool-yet",
+    "safe",
+    "scp",
+    "容器",
+    "建筑",
+    "液体",
+    "自主"
+  ],
+  "author": "Hg-lab",
+  "created_at": "2021-11-04T00:20:41+00:00",
+  "updated_at": "2021-11-04T04:40:23+00:00",
+  "rating": 2,
+  "_site": "scp-wiki-cn",
+  "_fullname": "scp-6255"
+}

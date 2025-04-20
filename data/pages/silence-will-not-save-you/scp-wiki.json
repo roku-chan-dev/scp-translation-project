@@ -1,0 +1,21 @@
+{
+  "title": "Silence Will Not Save You",
+  "content": "[[include :scp-wiki:theme:black-highlighter-theme]]\n[[include :scp-wiki:theme:extra-black-highlighter-theme]]\n[[include :scp-wiki:component:centered-header-bhl]]\n\n[[module css]]\n@import url('https://fonts.googleapis.com/css2?family=Gloria+Hallelujah&display=swap');\n\na#history-button.btn, a#files-button.btn {\ndisplay: none;\n}\n\npage {\n    display: block;\n    overflow: hidden;\n    font-family: 'Gloria Hallelujah', cursive;\n    font-style: cursive;\n    font-size: 1.2em;\n    line-height: 30px;\n\n    background-attachment: scroll;\n    background-clip: border-box;\n    background-color: transparent;\n    background-image: linear-gradient(to top ,rgb(202, 219, 228) 0%, rgb(231, 233, 220) 8%);\n    background-origin: padding-box;\n    background-position: 0px 8px;\n    background-repeat: repeat;\n    background-size: 100% 20px;\n\n    border: 1px solid #CCC;\n    border-radius: 10px;\n    padding: 10px 10px;\n    margin-bottom: 10px;\n\n    box-shadow: 0px 1px 3px rgba(0, 0, 0, 0.2)\n    }\n.page p,\n.page ul {\n    line-height: 20px;\n    margin: 0;\n}\n.page li {\n  line-height: 200%;\n}\n.page ul {\n  margin-top: 10px;\n  margin-bottom: 10px;\n}\n[[/module]]\n\n[[>]]\n[[module Rate]]\n[[/>]]\n\n[[=]]\n\nThey come to you, [https://scp-wiki.wikidot.com/scp-4531 the mayor ], bearing promises of containment, protection, and security.\nThey dissect sacred rites with their shiny guns and sterile white coats,\nswearing to the heavens that they’ve only the best intentions. \nGod’s retribution for sin is shot dead, and they harvest the remains. \n\nYou encouraged them. \nThat was your first crime.\n \nWhen their requests become more demanding—\nwhen they ask to sweep broken bodies of your people under your rug—\nyou do not rebuke them.  \nA gaping wound festers in the absence of your action. \n\nThey have promised that you will lose power and comfort if you yell.\nFor these are men who have caged miracles and killed God’s will.\nWho are you to stand up against them?\n\n‘No one’ you think,\na lie you tell yourself. \nThey pay for your silence.   \n\nSo, you keep quiet.\nIgnore every misdeed.\nBlock out the screams.\nTurn your cheek to atrocity after atrocity \nuntil you sit atop a throne of skulls, \nand your silence becomes deafening\nseeping into your bones,\nstaining your soul.\n\nYou may run,\nhide,\nplead,\nand pray,\nbut there is no escape.\n\nYou try, try, and try again year after year to purge your vices,\nhiding behind your fellow perpetrators.\nWatch as they destroy the monstrous manifestation of your crimes.\n\nBut no blessing is powerful enough to excise memory. \nNo amount of running water can wash away the blood. \nThere is no ritual to save you from your own mind. \n\nWhen the sun sets, \nyou will go to bed, \nbut sleep will not come for you. \nOnly visions of blood, mutilon, and devils. \nEchoing screams of close ones you hurt.\nThe sickening smiles of those ‘well intentioned’ jailors.\n\nAnd this is how it will be\nfor as long as you draw breath  \n\nSo tell me,\nWas it worth it? \n\n———————————————————-\n\n\n[[/=]]\n\n[[=image http://scp-sandbox-3.wdfiles.com/local--files/a-staining-of-the-soul/Cover]]",
+  "tags": [
+    "_cc",
+    "bleak",
+    "horror",
+    "illustrated",
+    "mythological",
+    "political",
+    "psychological-horror",
+    "second-person",
+    "tale"
+  ],
+  "author": "Rosyfox2002",
+  "created_at": "2025-01-15T18:07:44+00:00",
+  "updated_at": "2025-03-31T00:14:40+00:00",
+  "rating": 11,
+  "_site": "scp-wiki",
+  "_fullname": "silence-will-not-save-you"
+}

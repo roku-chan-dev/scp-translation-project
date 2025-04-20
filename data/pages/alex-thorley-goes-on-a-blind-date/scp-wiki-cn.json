@@ -1,0 +1,19 @@
+{
+  "title": "Alex Thorley 去相亲",
+  "content": "[[include :scp-wiki-cn:theme:black-highlighter-theme]]\n[[include :scp-wiki-cn:theme:minimalist-bhl]]\n\n[[module CSS]]\n:root:lang(cn) {\n     --header-title: \"非现实部\";\n     --header-subtitle: \"使非现实成为 ㅤㅤㅤㅤ\";\n     --lgurl: url('http://scp-wiki.wikidot.com/local--files/unreality-hub/Unreality%20Header%20Logo.svg');\n}\n[[/module]]\n\n[[>]]\n[[include :scp-wiki-cn:credit:start-standalone]]\n**Alex Thorley去相亲**\nIronShears / 制作\nAmbersight / 翻译\n[[include :scp-wiki-cn:credit:end-standalone]]\n[[/>]]\n\n[[HTML]]\n<iframe src=\"https://ambersighty.github.io/AlexThorleyGoOnABlindDateCN/\" style=\"width: 100%; aspect-ratio: 1/1;\"></iframe>\n\n[[/HTML]]\n\n\n\n[[include :scp-wiki-cn:component:license-box\n| author = IronShears\n]]\n=====\n> **文件名：**559853__migfus20__mysterious-piano-music-loop.mp3\n> **音乐名：**Relaxing Mysterious Piano Loop\n> **音乐作者：**Migfus20\n> **授权协议：**CC BY 4.0\n> **来源链接：**@@https://freesound.org/people/Migfus20/sounds/559853@@\n\n> **文件名：**559850__migfus20__jazz-background-music-loop.mp3\n> **音乐名：**Jazz Background Music Loop\n> **音乐作者：**Migfus20\n> **授权协议：**CC BY 4.0\n> **来源链接：**@@https://freesound.org/people/Migfus20/sounds/559850@@\n\n> **文件名：**564001__migfus20__jazz-background-music-loop.mp3\n> **音乐名：**Jazz Background Music Loop\n> **音乐作者：**Migfus20\n> **授权协议：**CC BY 4.0\n> **来源链接：**@@https://freesound.org/people/Migfus20/sounds/564001@@\n\n> **文件名：**ATypewriterForMe.ttf\n> **字体名：**A Typewriter for Me\n> **字体作者：**Zachary Lucier\n> **授权协议：**公共领域\n> **来源链接：**[https://www.dafont.com/atypewriterforme.font DaFont]\n\n> **文件名：**YRDzhushiti.ttf\n> **字体名：**杨任东竹石体\n> **字体作者：**杨任东\n> **授权协议：**公共领域\n> **来源链接：**[https://www.fonts.net.cn/font-35850420097.html Font]\n\n> **文件名：**Source Code\n> **项目作者：**[[*user IronShears]]\n> **授权协议：**CC-BY-SA 3.0\n> **来源链接：**[https://github.com/IronShears/AlexThorleyGoesOnABlindDate GitHub]\n\n=====\n[[include :scp-wiki-cn:component:license-box-end]]",
+  "tags": [
+    "alex-thorley",
+    "互动性",
+    "交换艺术",
+    "故事",
+    "无题系列",
+    "超现实小说",
+    "非现实部"
+  ],
+  "author": "Ambersight",
+  "created_at": "2023-06-13T03:12:48+00:00",
+  "updated_at": "2024-04-27T11:31:31+00:00",
+  "rating": 23,
+  "_site": "scp-wiki-cn",
+  "_fullname": "alex-thorley-goes-on-a-blind-date"
+}

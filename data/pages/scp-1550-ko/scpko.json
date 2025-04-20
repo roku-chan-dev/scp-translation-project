@@ -1,0 +1,17 @@
+{
+  "title": "SCP-1550-KO",
+  "content": "[[module css]]\n#page-title {\n    display: none;\n}\n[[/module]]\n\n+ 이 페이지는 아직 존재하지 않습니다!\n----\n[[module ListPages  category=\"fragment\" parent=\".\" limit=\"1\" order=\"created_at\" offset=\"@URL|0\"]]\n%%content%%\n[[/module]]\n\n[!-- https://scpko.wikidot.com/fragment:scp-1550-ko-1 --]\n[!-- https://scpko.wikidot.com/fragment:scp-1550-ko-2 --]",
+  "tags": [
+    "ko",
+    "scp",
+    "난해한-등급",
+    "메타",
+    "형이초학부"
+  ],
+  "author": "the proposal",
+  "created_at": "2025-02-24T04:48:46+00:00",
+  "updated_at": "2025-02-24T11:23:49+00:00",
+  "rating": 3,
+  "_site": "scpko",
+  "_fullname": "scp-1550-ko"
+}

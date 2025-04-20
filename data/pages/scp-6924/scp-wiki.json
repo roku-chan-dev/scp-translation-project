@@ -1,0 +1,24 @@
+{
+  "title": "SCP-6924",
+  "content": "[[>]]\n[[module rate]]\n[[/>]]\n\n[!-- https://scp-wiki.wikidot.com/fragment:scp-6924-0--]\n[!-- https://scp-wiki.wikidot.com/fragment:scp-6924-1--]\n\n[[module ListPages  category=\"fragment\" parent=\".\" limit=\"1\" order=\"created_at\" offset=\"@URL|0\"]]\n%%content%%\n[[/module]]\n\n\n[[div class=\"footer-wikiwalk-nav\"]]\n[[=]]\n<< [[[ SCP-6923]]] | SCP-6924 | [[[SCP-6925]]] >>\n[[/=]]\n[[/div]]\n\n[[include :scp-wiki:component:license-box]]\n\n=====\n> **Filename:** road_village.jpg\n> **Name:** The_concrete_road_to_the_Polish_Village_-_geograph.org.uk_-_619891.jpg\n> **Author:** Eric Jones\n> **Source:** https://commons.wikimedia.org/wiki/File:The_concrete_road_to_the_Polish_Village_-_geograph.org.uk_-_619891.jpg\n> **License:** CC BY-SA 2.0\n=====\n> **Filename:** psiarak.jpg \t\n> **Name:** Bodmin.jpg\n> **Author:** Y-Rex\n> **Source:** https://commons.wikimedia.org/wiki/File:Bodmin.jpg\n> **License:** CC BY-SA 4.0\n=====\n\n[[include :scp-wiki:component:license-box-end]]",
+  "tags": [
+    "_listpages",
+    "alive",
+    "animal",
+    "historical",
+    "pending",
+    "phenomenon",
+    "religious",
+    "sapient",
+    "sarkic",
+    "scp",
+    "tactical-theology",
+    "yossarian-leiner"
+  ],
+  "author": "Letova",
+  "created_at": "2024-07-04T21:46:19+00:00",
+  "updated_at": "2025-03-09T03:02:49+00:00",
+  "rating": 29,
+  "_site": "scp-wiki",
+  "_fullname": "scp-6924"
+}

@@ -1,0 +1,14 @@
+{
+  "title": "우주 어딘가",
+  "content": "[[include :scpko:theme:space]]\n\n\n[[>]]\n[[module Rate]]\n[[/>]]\n\n좋은 유저로, 좋은 사람으로 기억되고 싶은데.\n\n그게 참 어려운 것 같네요.\n\n그래도 노력해보겠습니다. \n\n잘 지내봅시다.\n\n[[collapsible show=\"　　　　 　　　\" hide=\"버킷리스트\"]]\n\n> **목표**\n> ----\n> 001-KO 창작\n> 삼천리 참여 \n> 경연 열기 ✔\n> 특집 가보기 ✔\n> 작페 만들기 ✔\n> 작품 창작 ✔\n> 작품 평가점수 30점 넘기 ✔\n> 경연우승\n> 천코 참여  ✔\n> 기지 문서 작성하기 ✔\n> 자캐를 등장인물-KO 문서에 넣기\n> --재단에서 차단되기--\n\n**__작성 리스트__**\n \n__창작__:\n[[module ListPages created_by=\"Playlist01\"separate=\"no\" limit=\"250\" perPage=\"250\" tags=\"ko\" order=\"title\"]]\n* %%title_linked%%\n[[/module]]\n외 기타 작품 몇몇개(공저작)\n\n[[/collapsible]]",
+  "tags": [
+    "ko",
+    "작가"
+  ],
+  "author": "Playlist01",
+  "created_at": "2022-12-26T15:37:45+00:00",
+  "updated_at": "2025-02-06T14:49:02+00:00",
+  "rating": 20,
+  "_site": "scpko",
+  "_fullname": "playlist01"
+}

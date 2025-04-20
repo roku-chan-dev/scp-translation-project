@@ -1,0 +1,14 @@
+{
+  "title": "SCP-308-KO-6",
+  "content": "[[module CSS]]\n\n#header, #side-bar, #footer, #license-area,\n#action-area-top, #page-title, #breadcrumbs,\n.ko-footer, .page-tags, #page-info-break,\n#page-options-container, #action-area {\n  display: none !important;\n}\n\n#container {\n  background-color: #FFFFFF;\n}\n\n.creditRate{\n  display: none\n}\n\n[[/module]]\n\n[[module css]]\n@import url('https://fonts.googleapis.com/css?family=Hi+Melody');\n\n@import url('https://scpko.wdfiles.com/local--files/korean-font/NotoSerifKR.css');\n[[/module]]\n\n\n\n[[span style=\"font-family: 'NotoSerifKR' ; font-size: 110%;\"]]\n...\n[[/span]]\n[[span style=\"font-family: 'Hi Melody' ; font-size: 130%;\"]]\n...\n[[/span]]\n[[span style=\"font-family: 'NotoSerifKR' ; font-size: 110%;\"]]\n...\n[[/span]]\n[[span style=\"font-family: 'Hi Melody' ; font-size: 130%;\"]]\n...와\n[[/span]]\n[[span style=\"font-family: 'NotoSerifKR' ; font-size: 110%;\"]]\n괜찮으십니까?\n[[/span]]\n[[span style=\"font-family: 'Hi Melody' ; font-size: 130%;\"]]\n...너무 예뻐요...\n[[/span]]\n[[span style=\"font-family: 'NotoSerifKR' ; font-size: 110%;\"]]\n호흡기나 피부가 따끔거리거나 그 외 불편한 점도 없으십니까? 외부 환경에 파악하지 못한 문제의 가능성이 있습니다.\n[[/span]]\n[[span style=\"font-family: 'Hi Melody' ; font-size: 130%;\"]]\n그냥...그냥...\n하늘이 너무 예뻐요...\n[[/span]]\n\n\n\n[[html]]\n<head>\n<script type=\"text/javascript\">\n<!--\nfunction Redirect()\n{ window.top.location.href=\"http://scpko.wikidot.com/scp-308-ko/offset/6\";\n}\nsetTimeout('Redirect()', 6500);\n//-->\n</script>\n</head>\n[[/html]]",
+  "tags": [
+    "ko",
+    "조각문서"
+  ],
+  "author": null,
+  "created_at": "2022-11-02T16:15:40+00:00",
+  "updated_at": "2023-07-30T15:05:56+00:00",
+  "rating": 0,
+  "_site": "scpko",
+  "_fullname": "fragment:scp-308-ko-6"
+}

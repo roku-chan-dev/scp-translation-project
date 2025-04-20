@@ -1,0 +1,26 @@
+{
+  "title": "SCP-CN-1936",
+  "content": "[[include :scp-jp:info:start]]\n翻訳責任者: [[*user fish_paste_slice]]\n翻訳年: 2025\t\t\n著作権者: Whlie rock[アカウント削除]、[[*user A Lancelot]]\t\n原題: SCP-CN-1936 - 已经不存在了\n作成年: 14 Feb 2019\t\t\t\n初訳時参照リビジョン: 17 May 2024\t\t\n元記事リンク: https://scp-wiki-cn.wikidot.com/scp-cn-1936\n[[include :scp-jp:info:end]]\n\n[[module ListPages parent=\".\" limit=\"1\" order=\"name\" offset=\"@URL|0\"]]\n%%content%%\n[[/module]]\n[!--\n各ページを編集する場合は、下記のリンクから行ってください\nhttp://scp-jp.wikidot.com/scp-cn-1936-1\nhttp://scp-jp.wikidot.com/scp-cn-1936-2\n--]\n\n[[footnoteblock]]",
+  "tags": [
+    "2019新人コンテスト",
+    "cn",
+    "esoteric-class",
+    "scp",
+    "サイト-cn-03",
+    "メタ",
+    "人工",
+    "共著",
+    "変容",
+    "宗教",
+    "建造物",
+    "時間",
+    "概念",
+    "破壊不可能"
+  ],
+  "author": "fish_paste_slice",
+  "created_at": "2025-03-01T04:09:48+00:00",
+  "updated_at": "2025-03-01T05:31:09+00:00",
+  "rating": 3,
+  "_site": "scp-jp",
+  "_fullname": "scp-cn-1936"
+}

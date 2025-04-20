@@ -1,0 +1,28 @@
+{
+  "title": "SCP-CN-3164",
+  "content": "[!--\n====\n椰子碰碰\n====\n完美的一投！全中！\n====\n====\n--]\n\n[[include :evernight-aquarium:component:non-savingpage]]\n\n[[module CSS]]\n\n@import url('https://fonts.googleapis.com/css2?family=Noto+Sans+SC:wght@300;400;700;900&display=swap');\n@import url('https://fonts.googleapis.com/css2?family=Noto+Sans:wght@300;400;700;900&display=swap');\n\ndiv#page-content {\n    color: #000;\n    font-size: 0.9375rem;\n    font-family: \"Noto Sans SC\", \"Noto Sans\", sans-serif;\n}\n\ndiv#page-content *,\ndiv#page-content h1,\ndiv#page-content h2,\ndiv#page-content h3 {\n    font-family: inherit;\n}\n\ndiv.blockquote.content {\n    border: solid 1px transparent;\n    background-color: #EEE;\n    border-radius: 1rem;\n    margin-left: 0;\n    margin-right: 0;\n}\n\nhr {\n    margin-left: 0;\n    margin-right: 0;\n}\n\nspan.black {\n    background-color: #000;\n    cursor-events: none;\n}\n\ndiv.scp-image-block div.scp-image-caption,\ndiv.scp-image-block img {\n    width: auto !important;\n}\n[[/module]]\n\n[[include :scp-wiki-cn:component:toggle-sidebar]]\n\n[[>]]\n[[module rate]]\n[[/>]]\n\n[[include component:image-block\n| name=http://scpsandboxcn.wikidot.com/local--files/sharia-vanilla/675px-Coconut_1_2018-03-29.jpg\n| caption=一例SCP-CN-3164，回收于水果超市。\n]]\n\n**项目编号：**SCP-CN-3164\n\n**项目等级：**Safe\n\n**特殊收容措施：**当前已在Site-CN-53所属的生态保护区内划定一独立的收容区域，用以收容已发现的SCP-CN-3164母株。适用标准棕榈科异常植物收容方案。\n\n目前，对植物类异常专项特遣队MTF-丁未-14（“林奈月光花”）被派遣以处理所有由SCP-CN-3164引发的公众事件，并负责全部SCP-CN-3164母株的移栽工作。\n\n**描述：**SCP-CN-3164是一种椰子的异常亚种（当前定名为//Cocos nucifera// subsp. //resiliendum// H. T. He[!-- 禾花昙 --]）的果实。\n\nSCP-CN-3164的异常性质表现为：项目会在没有施加外力的情况下向一个固定方向以恒定速度滚动[[footnote]] 目前的测试中，这一速度总是介于7.6m/s至9.2m/s之间。 [[/footnote]]，这种滚动无法被侧向施加的外力改变或中断。在SCP-CN-3164的移动过程中尝试破坏项目结构的行动均未成功。当SCP-CN-3164与尺寸远大于其自身的物体相撞时，项目的运动方向会发生改变，但速度保持不变。多次测试表明，此种碰撞并不完全遵守动量守恒定律：即项目与体积不太大的细长物体碰撞后，无论这一物体质量如何，总会向碰撞对向倾倒。\n\nSCP-CN-3164的异常性质仅会在项目的整体结构仍保持完整的情况下，当两个气孔及一个萌芽孔均被人为打通时触发。\n\n**发现：**SCP-CN-3164个体的异常特性在一场基金会举办的员工沙滩派对中被首次确认。\n\n项目个体的异常特性由一位研究员在一次对SCP-CN-3164的报复性破坏[[footnote]] 据涉及人员自述，其使用小型手提电钻为椰子开孔，并在每个孔洞中分别插入两根吸管的原因是他在第一次试图向椰子内插入吸管时，错误选择了气孔因而在长时间的尝试后损坏了吸管末端。 [[/footnote]]后触发。据统计，SCP-CN-3164个体在其滚动过程被中止前共计击倒了一辆移动酒水吧台、两台音响设备、五顶沙滩遮阳伞、一张沙滩排球网、四只普通海鸥（//Larus canus// L.，其中一只为击落[[footnote]] 基金会已经为其实施了必要的医疗救助。 [[/footnote]]）、76位基金会员工以及10位受雇的专业舞蹈者。\n\n值得注意的是，上述专业舞蹈者在被击倒前，正在以标准的倒三角形阵列表演夏威夷草裙舞。SCP-CN-3164在正面击中领舞者后，领舞者不受控制地向后倾倒，并连锁带动其它舞蹈者向各个方向倒下。随后，SCP-CN-3164停止移动，并通过以不同流速从开孔中喷射液体的方式有规律发声。经破译确定音频内容如下：\n\n> 完美的一投！全中！10分！\n\n随后，项目个体完全失去其异常性质。\n\n[[footnoteblock]]\n\n[[=]]\n[[include :scp-wiki-cn:component:license-box\n|lang=CN\n|author=Sharia Vanilla\n|]]\n=====\n[[<]]\n> **图像名：** Coconut 1 2018-03-29.jpg\n> **图像作者：** FASTILY\n> **共享协议：** CC BY 4.0\n> **来源链接：** https://commons.wikimedia.org/wiki/File:Coconut_1_2018-03-29.jpg\n> **备注：** 有裁剪，无修改\n[[/<]]\n=====\n[[include :scp-wiki-cn:component:license-box-end]]\n[[/=]]\n\n\n[[div class=\"footer-wikiwalk-nav\"]]\n[[=]]\n<< [[[SCP-CN-3163]]] | SCP-CN-3164 | [[[SCP-CN-3165]]] >>\n[[/=]]\n[[/div]]",
+  "tags": [
+    "safe",
+    "scp",
+    "不可摧毁",
+    "体育",
+    "原创",
+    "反熵",
+    "异常移动",
+    "树木",
+    "植物",
+    "活物",
+    "液体",
+    "游戏",
+    "球体",
+    "种群",
+    "自主",
+    "食物"
+  ],
+  "author": "Sharia Vanilla",
+  "created_at": "2024-04-11T09:14:24+00:00",
+  "updated_at": "2024-06-04T14:16:48+00:00",
+  "rating": 36,
+  "_site": "scp-wiki-cn",
+  "_fullname": "scp-cn-3164"
+}

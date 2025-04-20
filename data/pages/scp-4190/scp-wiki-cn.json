@@ -1,0 +1,25 @@
+{
+  "title": "SCP-4190",
+  "content": "[[include component:preview text=About halfway through the walk, the subject reported seeing a black figure in their periphery. Turning around failed to reveal its location.]]\n\n[[include :scp-wiki:theme:scp-trans-pride |trans-pride-logo= --] |trans-pride-footer= --]]]\n\n[[include :scp-wiki-cn:component:info-ayers\n|page=scp-4190\n|authorPage=floppyphoenix\n|comments=**SCP-4190:** A Twenty Thousand League Delay - 遲延兩萬哩\n**作者：** [[*user Lt Flops]] \n**譯者：** [[*user feitag]] \n圖片來源 [http://www.scp-wiki.net/forum/t-10639342/scp-4190#post-4185189 見原作者帖] \n \n本文是為了  **144-Hour Jam Contest** 的最後一日主題：「皆是大夢一場…」而寫。 \n]]\n\n[[module CSS]]\n/* INFO BOX */\nsup{\n    vertical-align: top;\n    position: relative;\n    top: -0.5em;\n}\nbody{\n    --cutColour: #fafafa;\n    --barColour: #590505;\n    color: rgb(12, 12, 12);\n}\n.translation_block{ display: none; }\n.u-faq{ display: none; }\n\n/* DIV BLOCKS */\n.testing-log{\n    border: 2px dashed #999;\n    border-radius: .61em;\n    background-color: #f4f4f4;\n    padding: .25em 1em;\n    margin-bottom: 1em;\n}\n.quote-block{\n    border: 3px double #999;\n    background-color: #f4f4f4;\n    padding: .25em 1em;\n    margin-bottom: 1em;\n}\n.researcher-note{\n    border: 1px solid rgb(12, 12, 12);\n    background-color: white;\n    padding: .25em 1em;\n    margin-bottom: 1em;\n    text-align: center;\n}\n\n/* FORMATTING */\nhr{\n     margin: 1em 0;\n     padding: 0;\n     border: 0;\n}\n[[/module]]\n\n[[table style=\"border: none; width: 100%;\"]]\n[[row]]\n[[cell]]\n[[span style=\"font-size: 125%;\"]][[span style=\"font-weight: 900;\"]]項目編號：[[/span]]SCP-4190[[/span]]\n[[/cell]]\n[[cell style=\"text-align: right;\"]]\n[[span style=\"font-weight: 900; font-size: 125%;\"]]等級 2/4190[[/span]]\n[[/cell]]\n[[/row]]\n[[row]]\n[[cell]]\n[[span style=\"font-size: 125%;\"]][[span style=\"font-weight: 900;\"]]收容等級：[[/span]]SAFE[[/span]]\n[[/cell]]\n[[cell style=\"text-align: right;\"]]\n[[span style=\"font-weight: 900; font-size: 125%;\"]]受限[[/span]]\n[[/cell]]\n[[/row]]\n[[/table]]\n\n[[include :scp-wiki-cn:component:floppy-disruption-bar\n|lang=tr\n|disruption-class=dark\n|disruption-bg-color=rgb(0, 99, 138)\n|disruption-text-color=rgb(252, 252, 252)\n]]\n----\n[[include :scp-sandbox-3:image-zoom name=https://scp-wiki.wdfiles.com/local--files/scp-4190/arrival-of-the-mistaken-beast.png|caption=SCP-4190。所有具有惡夢誘導 (ephialteic) 性質的文字已被抹除 (懸停以放大)。|width=325px|align=right]]\n\n**特殊收容措施：**SCP-4190 被存放在位於 Site-82 的異常物品翼樓的標準 SAFE 級收容置物櫃中。\n\n建議反覆經歷內容與「被黑色人影監視或跟蹤」有關的惡夢之人員，應將自己的經歷紀錄於標準夢境報告中，並把這些經歷轉達給 Site-82 精神病學處。\n----\n**描述：**SCP-4190 是一本 48 頁的雜誌，尺寸為 18 cm 乘 26 cm，使用的紙材為輕塗紙 (lightweight-coated paper, LWC)。\n\n該雜誌的專題內容詳細介紹了由潛水員、潛水器、潛水艇、自主監視無人機，以及模仿魚類的視覺系統的光學儀器所觀察到的特異海洋現象。\n\n閱讀 SCP-4190 的封面或內容的人員報告經歷了生動的入睡前幻覺 [[footnote]]**入睡前幻覺 (Hypnagogic Hallucinations)：**入睡前發生類似夢的感覺。 [[/footnote]]，隨後在三到七天內經歷了惡夢。報告之內容因人而異；多數報告稱在夢中重複經歷並非獨自一人的感覺。 \n\n值得注意的 SCP-4190 測試如下：\n\n~~~~\n\n[[div class=\"testing-log\"]]\n[[=]]\n+++ 標準夢境紀錄\n[[/=]]\n----\n**注意：**每位參與者被要求在受控環境下閱讀 SCP-4190 約 30 分鐘。在一週內所經歷的任何惡夢應傳達給駐站精神病學家，並使用錄音設備紀錄。\n\n本實驗只選用自願參與者。\n[[/div]]\n\n[[div class=\"quote-block\"]]\n**參與者：**D-3467\n\n**估計回想度：[[span style=\"color: firebrick;\"]]低[[/span]]**\n----\n**惡夢摘要：**參與者報告稱自己走過潮濕、黑暗且狹窄的走廊。在夢中的任何時間點都不能看到天花板或走廊盡頭。參與者報告在大約走到一半時，看見一個黑色人影在邊緣。轉身察看未能揭露人影的位置。 \n[[/div]]\n\n[[div class=\"quote-block\"]]\n**參與者：**D-3852\n\n**估計回想度：[[span style=\"color: #FF4F00;\"]]中[[/span]]**\n----\n**惡夢摘要：**參與者報告說，自己到達了密林邊緣的一座高聳丘陵的底部。參與者沒有報告說有照明⸺不論天然的或是人造的⸺然而，參與者宣稱當時是黃昏。參與者攀登山丘。在某一時刻失足了，失去了三分之一的進展，之後參與者報告了被監視的感覺。參與者把睡夢中剩餘的時間用於尋找潛在的掠食者，但卻找不到任何一個。\n[[/div]]\n\n[[div class=\"quote-block\"]]\n**參與者：**[[[*scp-4519|靈能學專家 Samara Maclear]]]\n\n**估計回想度：[[span style=\"color: green;\"]]高[[/span]]**\n----\n**惡夢摘要：**參與者報告說，自己在[[[what-lurks|一扇被枯樹以及濃霧圍繞的黑色大門]]]前面感到喘不過氣。沒有發現柵欄與連接材料。參與者在開門失敗後，180 度轉身離開障礙。大門又出現在參與者面前，阻止其前進。參與者重複嘗試此行為約 49 次，沒有取得任何成效。\n\n在夢的尾聲，參與者看見一個模糊的人影在大門的另一側向著自己緩步走來。參與者和該實體保持直接視覺接觸，直到霧變得太濃而看不見為止。\n[[/div]]\n\n[[div class=\"quote-block\"]]\n**參與者：**駐站研究員 Jessie Quattrociocchi\n\n**估計回想度：[[span style=\"color: #FF4F00;\"]]中[[/span]]**\n----\n**惡夢摘要：**參與者經歷了虛假的清醒，相信自己正在橫越站點。參與者試圖前往指定的超常科學研究站，並注意到走廊已變得迂迴，使自己繞回到原處。在大多數作夢的時間中，參與者都在迷路，然後參與者往回走，回到其住處，在枕頭上發現一張撕下的紙片，上頭有著自己的筆跡。\n\n筆記如下：\n\n[[div class=\"researcher-note\"]]\n你們工作做得很出色\n請保持下去\n我們玩得非常開心\n我們並不懷有怨恨\n無論怎樣都沒關係\n這個玩笑不能死\n為了我們\n[[/div]]\n[[/div]]\n\nSCP-4190 的測試已被中止。人員被告知繼續作夢。\n\n[[footnoteblock]]\n\n[[div style=\"border-bottom: 2px solid #777; margin-bottom: 1px;\"]]\n[[/div]]\n[[div style=\"border-bottom: 1px solid #777;\"]]\n[[/div]]\n\n[[=]]\n[[div class=\"footer-wikiwalk-nav\"]]\n<< [[[SCP-4189]]] | SCP-4190 | [[[SCP-4191]]] >>\n[[/div]]\n[[/=]]",
+  "tags": [
+    "2019连写竞赛",
+    "_皆是大梦一场",
+    "safe",
+    "samara-maclear",
+    "scp",
+    "幻觉",
+    "打鲨鱼中心",
+    "文件",
+    "无定形",
+    "极鲨之线",
+    "睡眠",
+    "视觉性",
+    "认知危害"
+  ],
+  "author": "feitag",
+  "created_at": "2020-04-20T15:15:10+00:00",
+  "updated_at": "2024-09-04T06:28:18+00:00",
+  "rating": 1,
+  "_site": "scp-wiki-cn",
+  "_fullname": "scp-4190"
+}

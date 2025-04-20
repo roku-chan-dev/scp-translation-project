@@ -1,0 +1,21 @@
+{
+  "title": "SCP-4830",
+  "content": "[[include :scp-jp:credit:start]]\n**ソース:** [[[*https://scp-wiki.wikidot.com/scp-4830|SCP-4830]]]\n**タイトル:** SCP-4830 - Head Like a Hole\n**著者:** [[*user DolphinSlugchugger]]\n**作成年:** 2019\n\n**日本語版タイトル:** SCP-4830 - 頭が空っぽ\n**翻訳者:** [[*user Red_Selppa]]\n**作成年:** 2024\n[[include :scp-jp:credit:end]]\n[[include component:image-block     name=http://scp-jp-storage.wdfiles.com/local--files/file%3A2258894-33-xb11/brain2.gif  |   caption=                                                                           \n]]\n**アイテムナンバー:** SCP-4830\n\n**アイテムクラス:** Keter\n@@@@\n**特別収容プロトコル:** SCP-4830がノウアスフィア[[footnote]]全人類の意識・思考の集合[[/footnote]]からインフォスフィア[[footnote]]全情報の集合[[/footnote]]に伝播していないか監視を行います。\n@@@@\nノウアスフィアからインフォスフィアへの伝播が起きた場合、あるいはいかなる手段を講じてもSCP-4830を無力化しなければならない事態が発生した場合 @@　　@@、SCP-4830が無力化されるまで全ての財団サイトならびに財団エリア (エリア-13を除く) の周囲にスクラントンギロチン[[footnote]]絶対的な非現実 @@　@@薄い装甲を周囲に形成するスクラントン現実錨[[/footnote]]を配備します。\n@@@@\nSCP-4830に曝露した兆候を示す財団 @@　　@@は全員クラス-Z記憶補強治療を施した上でスクラントンギロチン内に隔離 @@　@@、その@@　　@@のメモリダンプを採取して記録上最も古いメモリダンプと照合 @@　　　@@。長期記憶の変化率が10%を超えた場合は @@　　@@違反@@　　　　@@、感染した職員をエリア-13に再配置します。\n@@@@\n@@@@\nSCP-4830の成長を @@　　@@および阻止するため、選択的な認識災害がノウアスフィアに挿入 @@ 　　　　@@。 @@　　　　　　　　　　　　　　　@@は非異常性の若年性変性脳障害の症状を示すため、認識災害が @@　　@@者にもたらす副次的な被害は問題とされません。\n@@@@\n@@@@\n偽情報活動(DC) @@　　　　　　　　　　@@、@@　　　　@@ 科学 @@　　　　　　@@ 内で、@@　　　　　　　　　@@パンデミックを @@　　　　　　　　　　@@[[footnote]] 空気感染性海綿状脳症 [[/footnote]]@@　　　　　　　　　　　　　　　　　　　　　　　@@ 。\n@@@@\n@@@@\n@@                                                  @@\n@@                                                  @@\n@@                                                  @@\n@@@@\n@@@@\nDC-4830 @@　　　　　@@突発的な頭蓋骨破裂@@　@@ 脳食@@　　　　@@大量 @@　@@ ホラー系作品に導入し、模倣犯の @@　　　　　　　　　　　　　　@@ます。\n@@@@\n@@@@\n@@                                                  @@\n@@                                                  @@\n@@                                                  @@\n@@                                                  @@\n**説明:**\n@@@@\n@@@@\n@@                                                  @@\n@@                                                  @@\n@@                                                  @@\n@@                                                  @@\n@@@@\n@@@@\n@@                                                  @@\n@@                                                  @@\n@@                                                  @@\n@@                                                  @@\n@@                                                  @@\n@@                                                  @@\n@@@@\n@@@@\n@@                                                  @@\n@@                                                  @@\n@@                                                  @@\n@@                                                  @@\n[[module css]]\n\n.footnotes-footer{\n    display: none;\n}\n\n#header h2 span {\n    color: transparent;\n    text-shadow: none;\n}\n\n#header h2 span::before {\n    content: \"確保、収容、　　\";\n    display: block;\n    margin: 0;\n    padding: 0px 0;\n    line-height: 0px;\n    max-height: 0px;\n    color: #fff;\n}\n\n[[/module]]",
+  "tags": [
+    "en",
+    "keter",
+    "scp",
+    "ミーム",
+    "メタ",
+    "捕食",
+    "神経",
+    "記憶影響",
+    "非実体"
+  ],
+  "author": "Red_Selppa",
+  "created_at": "2024-01-07T02:36:09+00:00",
+  "updated_at": "2024-01-07T06:14:10+00:00",
+  "rating": 5,
+  "_site": "scp-jp",
+  "_fullname": "scp-4830"
+}

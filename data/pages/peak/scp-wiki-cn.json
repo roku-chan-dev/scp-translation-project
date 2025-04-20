@@ -1,0 +1,14 @@
+{
+  "title": "峰",
+  "content": "[[include :scp-wiki-cn:theme:xmas\n|xmas-snow= --]]]\n\n[[module css]]\ndiv#container-wrap {\n    background: url(none);\n}\n \ndiv#extra-div-1 {\n    height: 140px;\n    width: 100%;\n    top: 0;\n    position: absolute;\n    background-color: rgb(23,0,127);\n    background-image: linear-gradient(to bottom, rgb(0,0,101), rgb(23,0,82), rgb(0,0,0));\n}\n \ndiv#extra-div-2 {\n    height: 23px;\n    width: 100%;\n    top: 140px;\n    position: absolute;\n    background: linear-gradient(to top,\n      rgb(59, 59, 59),      \n      rgb(83, 83, 83));\n    border-bottom: 2px solid rgba(188, 184, 185, 0.5);\n}\n[[/module]]\n@@ @@\n[[=]]\n[[image http://scp-wiki.wdfiles.com/local--files/peak/everest-new-blue.webp width=\"1200\"]]\n[[/=]]\n\n@@\n@@\n@@\n@@\n\n我\n前往\n远方\n在我\n休息时\n去打败\n那还未被\n征服的峰。\n她向我报以\n嘲弄，她荒凉的\n脸庞，冰冷的\n手，和苦寒结冻的\n头颅。但我将我的斧子\n砍进了一个此前曾经试图\n登上山巅的男人的肋骨，\n然后我终于抵达她的最高点。\n我稳住重心，伸手触摸\n绝顶，咧嘴狂喜以至不能自已。\n正当我大笑时，我向下抛去\n一瞥，看见脚下山峦之间\n色彩鲜艳的夹克衫，\n帽子，以及冰爪。\n他们都俯卧如同\n红色斑块。她\n咆哮着，卷起\n疾风，刮过\n我的眼前，\n而我跌落，\n不停下坠。\n在此，我\n能看见。\n现在她\n长了\n[[[SCP-5140|2ft]]]。\n\n@@\n@@\n@@\n@@\n@@\n@@\n@@\n@@\n@@\n@@\n@@\n@@\n@@\n@@\n@@\n@@\n@@\n@@\n@@\n@@\n@@\n@@\n@@\n@@\n@@\n@@\n@@\n@@\n@@\n@@\n@@\n@@\n@@\n@@\n@@\n@@\n@@\n@@\n@@\n@@\n@@\n@@\n\n[[=]]\n[[image http://scp-wiki.wdfiles.com/local--files/peak/climber.jpg width=\"1200\"]]\n[[/=]]\n\n@@\n@@\n@@\n@@\n\n[[include :scp-wiki-cn:component:license-box\n|lang= EN\n|author= Elogee FishTruck\n|translator= Eurya\n]]\n=====\n> **文件名：**everest-new-blue.webp\n> **图像名：**File:Sunny Everest.JPG\n> **图像作者：**Anju Sherpa, [[*user Elogee FishTruck]]\n> **授权协议：**CC BY-SA 3.0\n> **来源链接：**[http://scp-wiki.wikidot.com/peak SCP Foundation Wiki]\n> **衍生自：**[https://commons.wikimedia.org/wiki/File:Sunny_Everest.JPG Wikimedia Commons]\n> **备注：**裁剪，水平翻转，以及变换为蓝色\n\n> **文件名：**climber.jpg\n> **图像名：**File:Green Boots.jpg\n> **图像作者：**Maxwelljo40, [[*user Elogee FishTruck]]\n> **授权协议：**CC BY-SA 3.0\n> **来源链接：**[http://scp-wiki.wikidot.com/peak SCP Foundation Wiki]\n> **衍生自：**[https://commons.wikimedia.org/wiki/File:Green_Boots.jpg Wikimedia Commons]\n> **备注：**裁剪\n=====\n[[include :scp-wiki-cn:component:license-box-end]]",
+  "tags": [
+    "故事",
+    "诗歌"
+  ],
+  "author": "Eurya",
+  "created_at": "2020-12-11T12:55:13+00:00",
+  "updated_at": "2020-12-23T08:26:48+00:00",
+  "rating": 10,
+  "_site": "scp-wiki-cn",
+  "_fullname": "peak"
+}

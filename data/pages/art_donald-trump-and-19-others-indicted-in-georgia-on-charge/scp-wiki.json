@@ -1,0 +1,19 @@
+{
+  "title": "Donald Trump and 19 Others Indicted in Georgia on Charges Related to the Illegal Attempt to Overturn the 2020 Election",
+  "content": "[[include :scp-wiki:theme:black-highlighter-theme]]\n[[include :scp-wiki:theme:minimalist-bhl]]\n[[module CSS]]\n:root {\n     --header-title: \"Fulton County\";\n     --header-subtitle: \"Sheriff's Officeㅤㅤㅤㅤ\";\n     --lgurl: url('http://scp-wiki.wikidot.com/local--files/unreality-hub/Unreality%20Header%20Logo.svg');\n}\n\n@media only screen and (max-width: 26.5625rem) {\n    :root {\n        --header-title: \"Unreality\";\n    }\n}\n\n[[/module]]\n\n[[=]]\n[[module Rate]]\n[[/=]]\n\n\n\n[[=]]\n//[[[illcovetyouifyoucoverme |The figure]]] turns off the lights. There are footsteps.//\n[[/=]]\n\n[[=image http://scp-wiki.wikidot.com/local--files/art:donald-trump-and-19-others-indicted-in-georgia-on-charge/AlexThorleyIndited.png]]\n\n@@ @@\n@@ @@\n@@ @@\n\n[[=]]\n[[size 200%]][https://scp-wiki.wikidot.com/synthpanda More by SynthPanda_][[/size]]\n[[/=]]\n\n[[=]]\n[[include :scp-wiki:component:license-box]]\n[[<]]\n=====\n> **Filename:** AlexThorleyIndited.png\n> **Author:** [[*user SynthPanda_]]\n> **License:** CC BY-SA 3.0\n> **Source Link:** https://imgur.com/QZLMvvQ\n=====\n[[/<]]\n[[include :scp-wiki:component:license-box-end]]\n[[/=]]",
+  "tags": [
+    "_cc",
+    "_licensebox",
+    "alex-thorley",
+    "artwork",
+    "cel-shaded",
+    "personnel-art",
+    "unreality-dept"
+  ],
+  "author": "SynthPanda_",
+  "created_at": "2023-09-16T02:45:22+00:00",
+  "updated_at": "2024-04-27T19:33:25+00:00",
+  "rating": 72,
+  "_site": "scp-wiki",
+  "_fullname": "art:donald-trump-and-19-others-indicted-in-georgia-on-charge"
+}

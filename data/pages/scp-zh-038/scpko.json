@@ -1,0 +1,20 @@
+{
+  "title": "SCP-ZH-038",
+  "content": "[[include :scpko:theme:basalt]]\n[[include :scpko:info:start]]\n**SCP-ZH-038:** 얼굴 없는 모델\n**저자:** [[*user Control Z]]\n**역자:** [[*user Mang Gwan]](ZH-EN), [[*user fluxman]](EN-KO)\n**원 게시글:** [http://scp-zh-tr.wikidot.com/scp-zh-038 ZH], [http://scp-int.wikidot.com/scp-zh-038 INT]\n----\n**이미지 정보:** 'mannequin-2777963_640.jpg' \n출처: https://pixabay.com/zh/photos/mannequin-alone-women-body-virtual-2777963/\n사용권: [*https://creativecommons.org/publicdomain/zero/1.0/deed.zh_TW CC0]\n제목: 模特 單獨 身體 虛擬\nCopyright Declaration: [*http://scp-zh-tr.wikidot.com/feitag-give-attribution-for-images pixabay]\n날짜: Sept. 27, 2017\n----\n해당 게시글은 [[[http://scp-zh-tr.wikidot.com/summer-contest-2021 |ZH지부 2021년 여름 경연 일화]]] '변칙적인 물건' 항목으로 투고되었습니다.\n----\n[[=]]\n[*http://scp-zh-tr.wikidot.com/bangyen 작가 작품 더 보기 (ZH지부 링크)]\n[[/=]]\n[[include :scpko:info:end]]\n\n[[include component:image-block name=https://cdn.pixabay.com/photo/2017/09/23/06/52/mannequin-2777963_640.jpg| caption=비활성 상태 SCP-038-ZH 개체 네 개.| align=right]]\n\n**일련번호:** SCP-ZH-038\n\n**위협 등급:** 녹색 [[span style=\"color:green\"]]●[[/span]]\n\n**격리 등급:** 안전\n\n**특수 격리 절차:** 현재까지 찾은 SCP-ZH-038 개체 열 개는 ZH-02기지에 격리되어 있다. 각 개체는 각각의 격리실에 따로 넣어서 격리해야 한다. 각 격리실의 벽과 바닥은 완충 처리를 해 물체가 그 자체나 격리실을 파손하지 않게 방지한다. 격리실에 들어간 인원은 동작을 느리게 해야 하며, 물체 앞에서 공격적인 동작을 취하거나 물체의 얼굴을 곧바로 봐서는 안 된다.\n\n**설명:** SCP-ZH-038은 여성 마네킹의 일종이다. 각 모델의 머리 표면은 매끄러우며 이목구비가 없다. 비활성 상태의 모델은 허리에 두 손을 얹고 가만히 서 있는다. 현재 물체의 조성은 알려진 바 없으나, 재료 시험 결과, 유리섬유와 비슷하다는 결과가 나왔다.\n\nSCP-ZH-038은 한 명 이상의 사람이 접근할 때 활성화된다. 활성화된 SCP-ZH-038은 가장 가까이 있는 사람의 동작을 모두 따라한다. 관측 결과, 마네킹의 동작은 그 재료나 관절 위치에 구애받지 않으며, 그 모방 정도는 거의 완벽한 것으로 드러났다..\n\n모방 대상이 SCP-ZH-038을 직접 관측할 수 있을 정도로 접근하면, 물체의 얼굴은 녹아내리고 왜곡되어 결국 모방 대상의 얼굴과 동일하게 변한다. 이후, 물체는 대상을 계속 째려본다. 대상은 시선에 불안함을 느끼며 투쟁-도주 반응을 취하게 됨에 더해, 대상이 SCP-ZH-038의 얼굴을 바라볼 경우 대상의 인식에 장애가 일어나는데, 대상은 자기 얼굴에 대해 인식장애를 일으키게 된다. 해당 장애는 회복이 불가능하며, 기억 재건이나 인지치료 시도는 전부 실패했다.\n\n**부록:** SCP-ZH-038은 신흥 변칙예술 집단 \"We Are The Coolest!\"에 의해 여러 차례 사람이 많은 공공장소에 전시된 바 있다. 전시 공간 근처의 벽과 바닥에는 다음과 같은 글귀가 쓰여 있었다.\n\n\n[[div class=\"document\"]]\n쌍둥이 자매, 거울의 두 면이라\n같은 옷 입고, 같은 노래 듣구나\n쌍둥이 자매, 얼굴을 잃었구나\n얼굴은 없지만 미지 또한 아름다움이라.\n\n\nAre We Cool Yet?\nWe Are The Coolest!\n[[>]]\n[[span class=\"ruby\"]] 키쿠[[span class=\"rt\"]]菊[[/span]][[/span]]와 [[span class=\"ruby\"]]시로쿠[[span class=\"rt\"]]四六[[/span]][[/span]]\n[[/>]]\n[[/div]]",
+  "tags": [
+    "are-we-cool-yet",
+    "scp",
+    "zh",
+    "안전",
+    "예술",
+    "인간형",
+    "인공물",
+    "인식재해"
+  ],
+  "author": "fluxman",
+  "created_at": "2022-11-25T23:50:26+00:00",
+  "updated_at": "2024-10-23T13:47:42+00:00",
+  "rating": 5,
+  "_site": "scpko",
+  "_fullname": "scp-zh-038"
+}

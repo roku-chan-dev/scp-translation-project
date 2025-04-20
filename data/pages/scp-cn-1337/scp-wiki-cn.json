@@ -1,0 +1,17 @@
+{
+  "title": "SCP-CN-1337",
+  "content": "[[>]]\n[[module rate]]\n[[/>]]\n[[module ListPages category=\"fragment\" parent=\".\" limit=\"1\" order=\"created_at\" offset=\"@URL|0\"]]\n%%content%%\n[[/module]]\n\n[!-- https://scpsandboxcn.wikidot.com/fragment:1337-0 --]\n[!-- https://scpsandboxcn.wikidot.com/fragment:1337-1 --]\n[!-- https://scpsandboxcn.wikidot.com/fragment:1337-2 --]",
+  "tags": [
+    "keter",
+    "scp",
+    "原创",
+    "模因",
+    "认知危害"
+  ],
+  "author": "Mondrian 1337",
+  "created_at": "2022-04-21T10:09:32+00:00",
+  "updated_at": "2022-04-21T10:32:55+00:00",
+  "rating": 10,
+  "_site": "scp-wiki-cn",
+  "_fullname": "scp-cn-1337"
+}

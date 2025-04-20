@@ -1,0 +1,23 @@
+{
+  "title": "SCP-6988",
+  "content": "[[include :scp-wiki:theme:basalt hidetitle=a|darkmode=a]]\n\n[[=]]\n[[module Rate]]\n[[/=]]\n\n[[module ListPages  category=\"fragment\" parent=\".\" limit=\"1\" order=\"created_at\" offset=\"@URL|0\"]]\n%%content%%\n[[/module]]\n\n\n[!-- https://scp-wiki.wikidot.com/fragment:scp-6988-1 --]\n[!-- https://scp-wiki.wikidot.com/fragment:scp-6988-2 --]\n@@ @@\n[[footnoteblock]]\n[[div class=\"footer-wikiwalk-nav\"]]\n[[=]]\n<< [[[SCP-6987]]] | SCP-6988 | [[[SCP-6989]]] >>\n[[/=]]\n[[/div]]\n\n\n[[include :scp-wiki:component:license-box]]\n=====\n> **Filename:** marking.png\n> **Author:** Flower\n> **License:** CC BY-SA 3.0\n> **Source Link:** [https://scp-wiki.wikidot.com/scp-6988 SCP Foundation Wiki]\n=====\n[[include :scp-wiki:component:license-box-end]]",
+  "tags": [
+    "_cc",
+    "_licensebox",
+    "_listpages",
+    "cadaver",
+    "cognitohazard",
+    "humanoid",
+    "knowledge",
+    "mind-affecting",
+    "neutralized",
+    "scp",
+    "tactile"
+  ],
+  "author": "MoreMuffins",
+  "created_at": "2021-09-08T22:57:09+00:00",
+  "updated_at": "2023-12-06T01:10:48+00:00",
+  "rating": 126,
+  "_site": "scp-wiki",
+  "_fullname": "scp-6988"
+}

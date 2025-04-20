@@ -1,0 +1,15 @@
+{
+  "title": "【Mylist复制】天丛云P，或根植于精品評選帖的每月PickUp整理",
+  "content": "[[module ListPages category=\"fragment\" parent=\".\" limit=\"1\" order=\"created_at\" offset=\"@URL|0\"]]\n%%content%%\n[[/module]]\n\n[!--\n使用版式\nhttps://scp-wiki-cn.wikidot.com/theme:cosmonaut\n\n彩虹字号与css出处\nhttps://scp-wiki-cn.wikidot.com/the-mighty-translation-initiative\n\n异色链接\n[[a href=\"*这里填链接\" style=\"color:#色号\"]]标题[[/a]]\n\n出场\n#e9ccd3 芝兰紫\n#541e24 猪肝紫\n#12a182 蓝绿\n#1e9eb3 翠蓝（初代）\n\nMonomi-X系列机\nhttps://scp-wiki-cn.wikidot.com/fragment:collective-unconscios-0\n\nhttps://scp-wiki-cn.wikidot.com/fragment:collective-unconscios-1\n\nhttps://scp-wiki-cn.wikidot.com/fragment:collective-unconscios-2\n\nhttps://scpsandboxcn.wikidot.com/mylist-copy\n\nhttps://scpsandboxcn.wikidot.com/mylist-copy2\n\nhttps://scpsandboxcn.wikidot.com/mylist-copy3\n\nhttps://scpsandboxcn.wikidot.com/mylist-copy4\n--]",
+  "tags": [
+    "原创",
+    "文章",
+    "梦神集团"
+  ],
+  "author": "14#7_MonochromeMix",
+  "created_at": "2024-06-16T17:43:01+00:00",
+  "updated_at": "2025-03-15T15:38:07+00:00",
+  "rating": 44,
+  "_site": "scp-wiki-cn",
+  "_fullname": "collective-unconscios"
+}

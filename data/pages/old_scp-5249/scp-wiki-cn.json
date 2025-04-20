@@ -1,0 +1,18 @@
+{
+  "title": "SCP-5249（舊）",
+  "content": "[[module CSS]]\n#header {\n    background: url(http://www.scp-wiki.net/local--files/scp-5249/logo.png) 10px 35px no-repeat;\n   background-size: 100px 100px;\n}\n[[/module]]\n\n[[include component:image-block name=vesuvius.jpg|\n    caption=左圖：SCP-5249的遺體。 右圖：於SCP-5249原收容站點拍攝的近期居民圖像。|\n    width=300px|\n]]\n**項目編號：**SCP-5249\n\n**項目等級：**Neutralized\n\n**特殊收容措施：**SCP-5249的遺體已為非異常，現為於拿坡里國立考古博物館舉辦的埃爾科拉諾展的展覽品之一。\n\n**描述：** SCP-5249為擁有原生於亞平寧半島的5級本質促動能力的一個人形個體。由於需要收容及無效化SCP-5249，有關該項目的來源及歷史僅保存有稀少的記錄。然而，有石雕的存在指出了於項目異常長的壽命期間，發生的政治衝突期間，義大利郊野地區的顯著破壞是由SCP-5249造成的。同一個雕像亦指出了SCP-5249的存在，是費邊馬克西姆斯的軍隊被擊潰的原因──以致漢尼拔得以在費邊上任第12年佔領羅馬。SCP-5249被偽裝成帝國士兵的時空異常部門特工捕獲，並被收容於Site-X[[footnote]] 為一個於維蘇威火山附近、構造複雜的地下空間。 [[/footnote]]已被本地的高風險異常收容間內。\n\nSCP-5249已於西元79年10月24日試圖突破Site-X收容時，被站內彈頭處決。\n[[=]]\n----\n++ 查閱剩餘文檔內容需擁有3/5249級或以上權限。\n----\n[[/=]]",
+  "tags": [
+    "scp",
+    "人形生物",
+    "无效化",
+    "旧页面",
+    "时间影响",
+    "现实扭曲"
+  ],
+  "author": "k1s10r0d",
+  "created_at": "2020-08-26T16:50:08+00:00",
+  "updated_at": "2023-03-19T15:07:42+00:00",
+  "rating": 1,
+  "_site": "scp-wiki-cn",
+  "_fullname": "old:scp-5249"
+}

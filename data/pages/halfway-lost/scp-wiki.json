@@ -1,0 +1,25 @@
+{
+  "title": "Halfway Lost",
+  "content": "[[module css]]\nsup {\n    vertical-align: top;\n    position: relative;\n    top: -0.5em;\n}\na.collapsible-block-link {\n  font-weight: bold;\n}\n.translation_block, .u-faq { display: none; }\n}\n.info-container .collapsible-block-folded a{\ncolor: #fff;}\n.info-container .collapsible-block-unfolded-link a{\ncolor: #fff;\n}\n#page-title {\n    text-align: center;\n}\n.scp-image-block {\n  border: solid 1px #000000;\n}\n.scp-image-block .scp-image-caption {\n  background-color: #00000;\n  border-top: solid 1px #000000;\n  color: #fff;\n}\n.scp-image-block .scp-image-caption {\n     background-color: #000000;\n     border-top: solid 1px #666;\n     padding: 2px 0;\n     font-size: 80%;\n     font-weight: bold;\n     text-align: center;\n     width: 300px;\n     text-color: #fff;\n}\n .scp-image-block > p {\n     margin: 0;\n}\n .scp-image-block .scp-image-caption > p {\n     margin: 0;\n     padding: 0 10px;\n}\n#page-content > .collapsible-block {\n    display: block;\n    text-align: center;\n    padding: 0.65em;\n}\n#page-content > .collapsible-block .collapsible-block-content {\n    text-align: left;\n}\n.lie{\n     font-weight: bold;\n     font-family: monospace;\n     font-size: 140%;\n}\n.list{\n    background: #f4f4f4;\n    padding: 0 1em;\n}\n.info-container .collapsible-block-link,\n.info-container:hover .collapsible-block-link {\n    line-height: 1.6em;\n}\n@media (max-width: 2000px) {\n    .desktop-only {\n     display: none;\n     visibility: hidden;\n}\n#page-title::after,\n.meta-title::after,\n#page-title::before,\n.meta-title::before {\n    content: \"\";\n    flex-grow: 1;\n    height: 0.0625rem;\n    background: rgb(var(--swatch-primary));\n}\n \n#page-title::before,\n.meta-title::before {\n    margin: auto 1.25rem auto auto;\n}\n[[/module]]\n\n[[include component:ratio-bar base=-- |ex=--]]\n[[include :scp-wiki:info:start]]\n[[span style=\"color:black\"]]\n**Halfway Lost** by [[*user Hexick]], [[*user Greyve]], and [[*user JakdragonX]]\n[[/span]]\n@@ @@\n[[span style=\"color:black\"]]\n**Other Works:**\nComing Soon!\n[[/span]]\n@@ @@\n[[span style=\"color:black\"]]\n[[=]]\nFor more by us, check out [*http://www.scp-wiki.net/greyve-author-page the Greyve Page] and [*http://scp-wiki.wikidot.com/jakdragonx-rage-collection Personnel File: JakdragonX]!\n[[/=]]\n[[/span]]\n[[include component:ratio-bar pie=--]]\n[[include :scp-wiki:info:end]]\n\n[[module ListPages  category=\"fragment\" parent=\".\" limit=\"1\" order=\"created_at\" offset=\"@URL|0\"]]\n%%content%%\n[[/module]]\n\n[!-- http://scp-wiki.wikidot.com/fragment:jakgreyvehexick-0 --]\n[!-- http://scp-wiki.wikidot.com/fragment:jakgreyvehexick-1 --]\n-----\n[[include :scp-wiki:component:earthworm\n| first=false | last=false | hub=yes\n| previous-url=/a-sympathetic-thorn-in-the-side-of-the-bookburners | previous-title= A Sympath...\n| next-url=/in-the-dark | next-title=In the Dark\n| hub-url=/outfounded-hub | hub-title= Outfounded Hub\n]]\n@@@@\n[[footnoteblock]]\n@@@@\n[[include :scp-wiki:component:license-box |author= JakdragonX, Hexick, and Greyve]]\n=====\n**Image 1**\n> **Filename:** //terminal.jpg//\n> **Author:** Victor Rodriguez\n> **License:** Unsplash Liscense\n> **Source Link:** https://unsplash.com/photos/IiLFMkqiFrM\n\n=====\n[[include :scp-wiki:component:license-box-end]]",
+  "tags": [
+    "_cc",
+    "_licensebox",
+    "_listpages",
+    "canon2020",
+    "co-authored",
+    "crime-fiction",
+    "dystopian",
+    "eurtec",
+    "global-occult-coalition",
+    "otherworldly",
+    "silicon-nornir",
+    "tale",
+    "unfounded"
+  ],
+  "author": "JakdragonX",
+  "created_at": "2020-10-07T04:09:42+00:00",
+  "updated_at": "2024-10-09T05:06:01+00:00",
+  "rating": 64,
+  "_site": "scp-wiki",
+  "_fullname": "halfway-lost"
+}

@@ -1,0 +1,15 @@
+{
+  "title": "SCP-173のアートワーク(『SCPって何ですか？』版)",
+  "content": "[[include :scp-jp:credit:start]]\n**タイトル:** SCP-173のアートワーク(『SCPって何ですか？』版)\n**著者:** [[*user wavekey]]\n**作成年:** 2024\n[[include :scp-jp:credit:end]]\n\n[[include :scp-jp:component:toggle-sidebar]]\n\n[[module CSS]]\n\nbody {\n    background: #000000;\n    color: #DDDDDD;\n}\nblockquote {\n    background: #333333\n}\ndiv#container-wrap {\n    background: url(http://scp-jp.wikidot.com/local--files/scp-2000-jp/black.png) top left repeat-x;\nbackground-size:100px;\n}\n\n\n[[/module]]\n@@@@\n@@@@\n@@@@\n[[=]]\n[[image http://scp-jp-storage.wdfiles.com/local--files/file:6538508-78-1r3z/nashishiki173.png style=\"max-width:75%;\"]]\n\n\n[[/=]]\n@@@@\n@@@@\n@@@@\n@@@@\n@@@@\n[[collapsible show=\"+ ライセンス\" hide=\"- 閉じる\"]]\n> **ファイルページ:** [*http://scp-jp-storage.wikidot.com/file:6538508-78-1r3z SCP-173]\n> **ファイル名:** nashishiki173.png\n> **ソース:** http://scp-jp-storage.wikidot.com/file:6538508-78-1r3z\n> **ライセンス:** CC BY-SA 3.0\n> **タイトル:** SCP-173\n> **著作権者:** wavekey\n> **公開年:** 2024\n> **補足:**この作品は以下の作品に基づきます\n>> **ソース:** SCPって何ですか？: 1　(ISBN: 978-4-7580-2783-0)\n>> **ライセンス:** CC BY-SA 3.0\n>> **タイトル:** 3. Creepypasta\n>> **著作権者:** 梨([[*user Pear_QU]])、三山高、ハチフン\n>> **公開年:** 2024\n[[/collapsible]]\n@@@@\n@@@@\n@@@@",
+  "tags": [
+    "jp",
+    "scp-173",
+    "アートワーク"
+  ],
+  "author": "wavekey",
+  "created_at": "2024-11-19T12:45:25+00:00",
+  "updated_at": "2024-12-16T13:44:04+00:00",
+  "rating": 31,
+  "_site": "scp-jp",
+  "_fullname": "scp-173-scpttenandesuka"
+}

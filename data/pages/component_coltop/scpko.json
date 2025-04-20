@@ -1,0 +1,13 @@
+{
+  "title": "다중 접기: 상단",
+  "content": "[[iftags +구성요소]]\n[[module CSS]]\ntd { vertical-align: top; }\n.options table.wiki-content-table td { border: none; padding: 0.7em 1em; }\n[[/module]]\n\n[[div style=\"border: 1px solid #ddd; padding: 1em;\"]]\n+ 이건 뭔가요?\n\n이 페이지는 다중 접기 구성요소의 상단 반쪽의 소스 코드가 들어있는 페이지로, [[*user Boyu12]]가 일본어 지부를 위해 제작했습니다.\n\n+ 이용법\n\n다중 접기를 구현하려면 이렇게 해야 합니다.\n\n[[div class=\"code\"]]\n##blue|**[[include :scpko:component:coltop**##\n##blue|**|**## ##green|show####blue|**=**##+ 보이기\n##blue|**|**## ##green|hide####blue|**=**##- 숨기기\n##blue|**]]**##\n접기 안쪽 텍스트\n##blue|**[[include :scpko:component:colend]]**##\n[[/div]]\n\n**수직선 기호를 지우지 마세요! (##blue||##)**\n\n[[div class=\"options\"]]\n|| **show** _\n//기본: \"+ 보이기\"// || 접기를 여는 버튼의 문구. ||\n|| **hide** _\n//기본: \"- 숨기기\"// || 접기를 닫는 버튼의 문구. ||\n|| **nohide** _\n//기본: 0// || 0이면 \"hide\"의 문구가 접기가 열렸을 때 보이게 됩니다. 1이면 보이지 않습니다. ||\n|| **folded** _\n//기본: 1// || 0이면 접기가 열린 상태로 시작됩니다. 1이면 닫힌 상태입니다. ||\n[[/div]]\n\n다중 접기 안에 더 많은 다중 접기를 넣을 수도 있습니다. 다중 접기 안에 일반 접기를 넣을 수도 있고, 반대도 가능합니다. 하지만 일반 접기 안에는 다른 일반 접기를 넣지 못합니다.\n\n본 구성요소의 페이지:\n\n[[module PageTree]]\n\n[[/div]]\n\n-----\n\n[[/iftags]]\n\n[[module css]]\n@import url('https://scpko.wdfiles.com/local--code/component%3Acolstyle/1');\n[[/module]]\n\n[[include :scpko:component:coltop-deep\nifprot={$ifprot}|ifprot=0\n|nohide={$nohide}|nohide=0\n|folded={$folded}|folded=1\n|hide={$hide}|hide=- 숨기기\n|show={$show}|show=+ 보이기]]",
+  "tags": [
+    "구성요소"
+  ],
+  "author": "XCninety",
+  "created_at": "2018-12-09T09:20:08+00:00",
+  "updated_at": "2022-04-25T07:08:17+00:00",
+  "rating": 1,
+  "_site": "scpko",
+  "_fullname": "component:coltop"
+}

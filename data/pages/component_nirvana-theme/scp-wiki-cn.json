@@ -1,0 +1,14 @@
+{
+  "title": "Nirvana 版式",
+  "content": "[[module CSS]]\n@import url(https://scp-wiki-cn.wikidot.com/component:nirvana-theme/code/1);\n[[/module]]\n\n[[iftags +版式]]\n\n这是为 [[[nirvana-hub|Nirvana]]] 设定所制作的版式。\n\n在你的作品开头添加如下语法以应用此版式：\n\n> @@[[include :scp-wiki-cn:component:nirvana-theme]]@@\n\n[[code type=\"CSS\"]]\n@charset \"utf-8\";\n\n/*\n    SCP Sigma 9\n    [2014 Wikidot Theme]\n    Created for the SCP Foundation by Aelanna\n    Edited for SCP Foundation by Dr Devan\n    Edited for SCP基金会 by MScarlet and Devanos and Sekai_s\n    re-edited for Nirvana by Izsac\n*/\n\ndiv#container-wrap {\n    background: url(http://scp-wiki-cn.wikidot.com/local--files/component:nirvana-theme/bg.jpg) top left repeat-x;\n}\n\n#header {\n    background-image: url(http://scp-wiki-cn.wikidot.com/local--files/component:nirvana-theme/nirvana.jpg);\n    background-repeat: no-repeat;\n}\n\n#header h1 a {\n    color: transparent;\n    font-family: 'Franklin Gothic Medium', Arial, sans-serif;\n    text-shadow: none;\n}\n\n#header h1 a::before {\n    content: \"Nirvana\";\n    color: #800000;\n    text-shadow: 3px 3px 5px #000000;\n}\n\n#header h2 span {\n    color: transparent;\n    text-shadow: none;\n}\n\n#header h2 span::before {\n    content: '　不诳　不眠　不悔　';\n    color: #000000;\n    text-shadow: 1px 1px 1px #FFFFFF;\n}\n\n#login-status, #login-status a{\n    color: #000000;\n}\n[[/code]]\n[[/iftags]]",
+  "tags": [
+    "原创",
+    "版式"
+  ],
+  "author": null,
+  "created_at": "2017-05-31T01:53:47+00:00",
+  "updated_at": "2023-06-29T09:41:34+00:00",
+  "rating": 4,
+  "_site": "scp-wiki-cn",
+  "_fullname": "component:nirvana-theme"
+}

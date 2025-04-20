@@ -1,0 +1,13 @@
+{
+  "title": "5526 1",
+  "content": "[[include :scp-wiki-cn:theme:black-highlighter-theme]]\n[[include :scp-wiki-cn:theme:the-way-out]]\n[[module css]]\n#header h1 a::before {\n    content: \"MFA\";\n}\n#header h2 span {\n    color: transparent;\n    text-shadow: none;\n}\n#header h2 span::before {\n    content: \"多元基金会联盟\";\n    color: white;\n}\n[[/module]]\n[[include :scp-wiki:component:collapsible-sidebar]]\n\n[[include :scp-wiki-cn:component:object-warning-box-source\n|bg-image=https://scp-wiki.wikidot.com/local--files/component:object-warning-box-source/scp-logo.svg\n|bg-opacity=0.15\n|text-top=根据多元监督者议会的命令\n|text-bottom=**以下文件为5/5526级机密。**\n//任何未经授权访问该文件的人员将被处决//\n|object-number=**5526**\n]]\n\n@@ @@\n@@ @@\n@@ @@\n@@ @@\n@@ @@\n@@ @@\n@@ @@\n@@ @@\n@@ @@\n@@ @@\n@@ @@\n[[module ListUsers users=\".\"]]\n[[div class=\"blockquote\"]]\n你好，%%title%%（特工/博士/研究员/监督者/管理员）。如果你能够访问此文件，那说明你是被我和其他议会成员精心挑选出来的，理由很充分。你可能在多元宇宙方面没有经验，但更有可能的是，你在你所处的基金会的MU部门中工作。无论是哪种情况，你即将看到与你以往所见大相径庭之物。祝你好运。你会需要它的。\n[[/div]]\n[[/module]]\n@@ @@\n@@ @@\n@@ @@\n@@ @@\n@@ @@\n@@ @@\n@@ @@\n@@ @@\n@@ @@\n@@ @@\n@@ @@\n\n[[=]]\n> [[[https://scp-wiki-cn.wikidot.com/scp-5526/offset/1|参阅本文件的第一迭代？]]]\n[[/=]]",
+  "tags": [
+    "段落"
+  ],
+  "author": "Aegnus",
+  "created_at": "2024-08-20T20:14:41+00:00",
+  "updated_at": "2024-08-20T20:14:56+00:00",
+  "rating": 0,
+  "_site": "scp-wiki-cn",
+  "_fullname": "fragment:5526-1"
+}

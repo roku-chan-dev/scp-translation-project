@@ -1,0 +1,14 @@
+{
+  "title": "작페",
+  "content": "__SCP__:\n[[module ListPages order=\"rating desc\" created_by=\"Didic\" separate=\"no\" tags=\"scp\"]]\n* %%title_linked%% (+%%rating%%)\n[[/module]]\n\n__이야기__:\n[[module ListPages order=\"rating desc\" created_by=\"Didic\" separate=\"no\" tags=\"이야기\"]]\n* %%title_linked%% (+%%rating%%)\n[[/module]]\n\n__기타__:\n[[module ListPages order=\"rating desc\" created_by=\"Didic\" separate=\"no\" tags=\"-scp, -이야기\"]]\n* %%title_linked%% (+%%rating%%)\n[[/module]]\n\n__공저__:\n* [[[http://scpko.wikidot.com/department-of-ontology|존재학부 허브]]]\n\n__샌드박스__:\n* 1호기는 미국갔어.\n* [http://scpkosb.wikidot.com/portal:didic 2호기]",
+  "tags": [
+    "ko",
+    "작가"
+  ],
+  "author": "Didic",
+  "created_at": "2021-05-05T03:37:56+00:00",
+  "updated_at": "2025-04-01T08:39:08+00:00",
+  "rating": 6,
+  "_site": "scpko",
+  "_fullname": "didicpage"
+}

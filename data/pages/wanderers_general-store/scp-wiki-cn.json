@@ -1,0 +1,17 @@
+{
+  "title": "杂货店",
+  "content": "[[include :scp-wiki-cn:wanderers:dustjacket-theme]]\n[[module css]]\n/* poetry formatting chunk from http://wanderers-library.wikidot.com/carolynn */\n@import url('https://fonts.googleapis.com/css?family=EB+Garamond:500&display=swap');\n#content-wrap {background-color:#fcfcfc}\n.poem span {white-space:pre !important}\n.poem p {\n  margin-top: 0em;\n  margin-bottom: 0em;\n}\n.poem {\n  white-space:wrap !important;\n  font-family:\"楷体\",\"仿宋\",serif;\n  font-size:120%;\n  text-indent: -1em;\n  padding-left:10%;\n  padding-top:5%;\n  padding-bottom:20%;\n}\n@media only screen and (max-width: 600px) {\n  .poem { padding-left: 1em; font-size:115%;}\n}\n[[/module]]\n[[div class=\"poem\"]]\n\n我想得到一些东西。\n\n我想买一件毛衣，袖子要很宽，就像我爸爸的那个。\n\n我想买一个化妆包，这样我可能看起来更像真实的自己。\n\n我想买一座屋子，在新奥尔良，这样我可以有个温暖的容身之所，在冬天化作寒冷之际，那的砖块由音乐黏结。\n\n我想买一条狗——新的或有过主人的——来作为宠物，住在我的屋子，永远不会孤独。\n\n我想买吉他的里面，那里充满温暖、闻起来像松香，我可以在那丢一些小东西，比如结婚戒指和小螺丝钉。\n\n我想买信息、书籍、课程、传说、风景。我将成群地购买它们。\n\n我想买一点纽约的沼泽地，有小湾自岸边而来。我希望它能有显眼的牡蛎；我希望能在芦苇丛中找到自己，惊叹于潮的高度。\n\n我想买一片位于肯塔基的森林。我希望树梢开张，如同烟花绽放；岩石随着隐秘的水跳动。\n\n我想买同性恋酒吧，开放麦克风的那一个，我曾在那里缓缓歌唱，在那唱着悲伤的歌，那里现在有一个CVS。我听说它正打折。\n\n我想买下坠的雪；我会打包买走，带着携它而去的西风。\n\n我想买回我的创造力——我渴望成为自然之力，再一次。\n\n我想买我一年的生命。\n\n我所拥有的足够购买这些；说出你的价格。然最重要的是，我想得到一块方正的天空。我想看见地平线上的天狼星，\n于清晨，而且我知道那片粉红，\n蔚蓝的区域——那颗天蓝的星，伴着知性的光辉的，\n被冰晶包裹的，被所有人看着的——\n@@      @@属于我。\n\n[[/div]]",
+  "tags": [
+    "_peculiar-purchases",
+    "hunt2021",
+    "wanderers",
+    "记载",
+    "韵文"
+  ],
+  "author": "The wind say",
+  "created_at": "2021-07-22T10:22:11+00:00",
+  "updated_at": "2021-08-03T05:04:04+00:00",
+  "rating": 7,
+  "_site": "scp-wiki-cn",
+  "_fullname": "wanderers:general-store"
+}

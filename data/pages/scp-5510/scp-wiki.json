@@ -1,0 +1,19 @@
+{
+  "title": "SCP-5510",
+  "content": "[[include theme:black-highlighter-theme]]\n\n[[module CSS]]\n.notice {\n    border: solid 1px #999;\n    background: #f2f2c2;\n    padding: 1em;\n    margin-bottom: 0.5em;\n}\n[[/module]]\n\n[[include info:start]]\n**SCP-5510:** Universal Remote\n**Author:** [[*user aismallard]] ([[[aismallard|Author Page]]])\n\n**Thanks to:**\n* wctaiwan\n* [[*user rounderhouse]]\n* [[*user The Great Hippo]]\n* [[*user Uncle Nicolini]]\n* [[*user Yossipossi]]\n* [[*user Captain Kirby]]\n[[include info:end]]\n\n[[div_ class=\"notice\"]]\n**Welcome, Dr. Archibald.**\nYou are currently editing SCP-5510. Your session will expire after **118** seconds of inactivity.\n[[/div]]\n\n[[include component:image-block\n    name=https://scp-wiki.wdfiles.com/local--files/fragment:scp-4182-1/blank.png |\n    caption={{[No file selected]}} |\n    width=100px\n]]\n\n**Item #:** SCP-5510\n\n**Object Class:** Safe (provisional)\n\n**Special Containment Procedures:** SCP-5510 is to be kept in a small-item locker. Confirmation testing is currently ongoing.\n\n**Description:** SCP-5510 is a TV remote control. The object functions as expected, with the exception of its four media navigation buttons. When one is pressed, the subjective time experienced by the anomaly changes.\n\n**Addendum 5510-1:** Testing Logs\n\n||~ Button ||~ Result ||\n|| Fast forward || SCP-5510 experiences time at half speed. ||\n|| Rewind || SCP-5510 experiences time at double speed. ||\n|| Play || No known effects. ||\n|| Pause || [[image cursor.png alt=\"𝖨\" width=\"10px\"]] ||\n\n[[footnoteblock]]\n\n[[include component:wikimodule |normal= --]]]\n\n[[div class=\"footer-wikiwalk-nav\"]]\n[[=]]\n<< [[[SCP-5509]]] | SCP-5510 | [[[SCP-5511]]] >>\n[[/=]]\n[[/div]]\n\n[[include :scp-wiki:component:license-box]]\n=====\n> **Filename:** blank.png\n> **Name:** default.png\n> **Author:** [[*user djkaktus]]\n> **License:** CC BY-SA 3.0\n> **Source Link:** [/scp-3930 SCP Foundation Wiki]\n> **Derivative Of:**\n> ----\n> **Name:** logo.png\n> **Author:** [[*user far2]]\n> **License:** CC BY-SA 3.0\n> **Source Link:** [/ SCP Foundation Wiki]\n\n> **Filename:** cursor.png\n> **Author:** [[*user aismallard]]\n> **License:** CC BY-SA 3.0\n> **Source Link:** [/scp-5510 SCP Foundation Wiki]\n=====\n[[include :scp-wiki:component:license-box-end]]",
+  "tags": [
+    "_cc",
+    "_licensebox",
+    "appliance",
+    "meta",
+    "safe",
+    "scp",
+    "temporal"
+  ],
+  "author": "aismallard",
+  "created_at": "2020-11-17T22:22:23+00:00",
+  "updated_at": "2023-11-22T05:23:08+00:00",
+  "rating": 442,
+  "_site": "scp-wiki",
+  "_fullname": "scp-5510"
+}

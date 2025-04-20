@@ -1,0 +1,20 @@
+{
+  "title": "SCP-4742",
+  "content": "[[>]]\n[[module Rate]]\n[[/>]]\n\n[!--\nFragments:\nhttp://scp-wiki.wikidot.com/fragment:scp-4742-1\nhttp://scp-wiki.wikidot.com/fragment:scp-4742-2\nhttp://scp-wiki.wikidot.com/fragment:scp-4742-3\nhttp://scp-wiki.wikidot.com/fragment:scp-4742-4\n--]\n\n[[module ListPages  category=\"fragment\" parent=\".\" limit=\"1\" order=\"created_at\" offset=\"@URL|0\"]]\n%%content%%\n[[/module]]\n\n[[footnoteblock]]\n\n[[div class=\"footer-wikiwalk-nav\"]]\n[[=]]\n<< [[[SCP-4741]]] | SCP-4742 | [[[SCP-4743]]] >>\n[[/=]]\n[[/div]]",
+  "tags": [
+    "_cc",
+    "_listpages",
+    "chaos-insurgency",
+    "ectoentropic",
+    "euclid",
+    "mechanical",
+    "sapient",
+    "scp"
+  ],
+  "author": "tupacofficial",
+  "created_at": "2019-11-02T01:26:29+00:00",
+  "updated_at": "2021-08-25T04:06:25+00:00",
+  "rating": 109,
+  "_site": "scp-wiki",
+  "_fullname": "scp-4742"
+}

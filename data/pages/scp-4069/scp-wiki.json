@@ -1,0 +1,23 @@
+{
+  "title": "SCP-4069",
+  "content": "[[include theme:black-highlighter-theme]]\n\n[[>]]\n[[module Rate]]\n[[/>]]\n\n[[module ListPages  category=\"fragment\" parent=\".\" limit=\"1\" order=\"created_at\" offset=\"@URL|0\"]]\n%%content%%\n[[/module]]\n\n[!--\nFragment pages:\nhttp://scp-wiki.wikidot.com/fragment:scp-4069-1\nhttp://scp-wiki.wikidot.com/fragment:scp-4069-2\nhttp://scp-wiki.wikidot.com/fragment:scp-4069-3\nhttp://scp-wiki.wikidot.com/fragment:scp-4069-4\nhttp://scp-wiki.wikidot.com/fragment:scp-4069-5\nhttp://scp-wiki.wikidot.com/fragment:scp-4069-6\nhttp://scp-wiki.wikidot.com/fragment:scp-4069-7\n--]\n\n[!-- To translators: If you need the notes in the pictures written in a different language, let me know via PM and I'll make versions of the images for your site. If you use a different alphabet, please hand-write the translations in marker and take a picture so that I can edit it into the original images. --]",
+  "tags": [
+    "4000",
+    "_cc",
+    "_listpages",
+    "ad-astra",
+    "afterlife",
+    "agent-trauss",
+    "extradimensional",
+    "location",
+    "memory-affecting",
+    "safe",
+    "scp"
+  ],
+  "author": null,
+  "created_at": "2018-07-11T22:27:46+00:00",
+  "updated_at": "2022-11-28T23:11:34+00:00",
+  "rating": 379,
+  "_site": "scp-wiki",
+  "_fullname": "scp-4069"
+}

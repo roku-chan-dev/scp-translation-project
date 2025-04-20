@@ -1,0 +1,20 @@
+{
+  "title": "SCP-5000-J",
+  "content": "[[include info:start]]\n**SCP-5000-J:** 쿠키 절도사건\n**저자:** [[*user DrMagnus]]\n**원작:** http://www.scp-wiki.net/scp-5000-j\n**역자:** [[*user salamander724]]\n[[include info:end]]\n[[include component:image-block name=https://upload.wikimedia.org/wikipedia/commons/thumb/2/2e/Cookie_jar.jpg/517px-Cookie_jar.jpg|caption=어떤 씹새끼인지 잡히기만 하면...|width=300px]]\n**일련번호:** SCP-5000-J\n\n**등급:** 미격리\n\n**특수 격리 절차:** SCP-5000-J는 재단 요원들이 쿠키 가져간 놈을 찾아낼 때까지 미격리로 간주한다.\n\n[[html]]\n<style>\na {\n    color: #b01;\n    text-decoration: none;\n    background: transparent;\n}\n\na:hover {\n    text-decoration: underline;\n    background-color: transparent;\n}\np {\ncolor: rgb(51, 51, 51);\nfont-family: verdana, arial, helvetica, sans-serif;\nfont-size: 0.8em;\nline-height: 141%;\n}\n</style>\n<p id=\"demo\"></p>\n<script>\nvar randomStrings = [\n    \"먹는 걸로 스트레스 푸는 라이츠 박사\",\n    \"야참을 찾던 브라이트 박사\",\n    \"또 뻘짓을 하고 돌아다니던 마그누스 박사\",\n    \"균형을 찾아다니던 루슬라프 디아길레프\",\n    \"고양이 떼를 방목하는 이사관 무스\",\n    \"타입 그린을 사냥하는 클레프 박사\",\n    \"체첸인을 쫓는 요원 스트렐니코프\",\n    \"라이트 박사\",\n    \"나비 먹이를 찾던 키류 박사\",\n    \"자기 자신을 믿는 조이 퍽너츠\",\n    \"도나르슨 대위\",\n    \"마셜, 카터와 다크\",\n    \"월면 문명 전체가 짜고 그런 것\",\n    \"락모우-레우산\",\n    \"목매달린 왕\",\n    \"SCP-682\",\n    \"조시의 하반신\",\n\"마그누스 박사에게 망할 컴퓨터 좀 끄고 쳐 자라고 잔소리하는 헬렌 마그누스의 유령\",\n    \"제234기지의 여왕 셰리 앤드루스\",\n    \"리프 앤드루스\",\n    \"에이버리 솔러스\",\n    \"지안카를로 데 루카\",\n    \"앤드루 코발치크\",\n    \"고명한 권투선수 저스틴 에버우드\",\n    \"케인 파토스 크로우(당연히 초콜릿 없는 쿠키로)\",\n    \"이사관 악투스\",\n    \"이사관 아이스버그\",\n    \"요원 요릭\",\n    \"좆대동맹의 다섯 번째 기사인 기사 칼리번\",\n    \"문 챔피언\",\n    \"u trust dado yes\",\n\"안주를 찾아 헤메던 터비오카\",\n\"말에 타고 기병창을 든 SCP-4759-A\",\n\"무한의 고뇌를 지닌 다크블레이드\",\n\"모든 리틀 미스터들이 다같이 그런 것\",\n\"강력한 마법사 루스 베이더 긴즈버그\",\n\"빈센트 앤더슨\",\n\"엉덩이 유령\",\n\"우주의 어머니이자 쿠키도둑이라고도 알려진 전능하신 어미\",\n\"연구원 제임스(아니야!)\",\n\"처치곤란의 많고 많은 랠프 로제들 중 한 놈\",\n\"매디슨 크랙스 박사\",\n\"트래비스 카즈마렉\",\n\"버디\",\n\"로버(Robber)덕\",\n\"위대한 아노아티\",\n\"살아있는 농담\",\n\"클레어 위더스 박사\",\n\"그 개새끼 짐 헨슨\",\n\"SCP-914 실험 기록의 내용들 전체\"\n];\nwindow.onload = function() {\n\nvar text = randomStrings[Math.floor(Math.random() * randomStrings.length)]\ndocument.getElementById(\"demo\").innerHTML = \"<b>설명:</b> 설마 \" + text + \"인가? 그럴 리는 없지! <a target=\\\"_parent\\\" href=\\\"http://ko.scp-wiki.net/scp-5000-j\\\">그럼 누구지?</a>\";\n}\n\n</script>\n[[/html]]\n\n[[div class=\"authors\"]]\n[[include :scp-wiki:component:license-box\n|author=DrMagnus]]\n=====\n> **Filename:** 517px-Cookie_jar.jpg\n> **Name:** Cookie jar.jpg\n> **Author:** Polymath38\n> **License:** CC BY-SA 3.0\n> **Source Link:** [http://w.wiki/7Jek Wikimedia Commons]\n=====\n[[include :scp-wiki:component:license-box-end]]\n[[/div]]",
+  "tags": [
+    "5000",
+    "en",
+    "scp",
+    "교환",
+    "난해한-등급",
+    "농담",
+    "비격리",
+    "상호작용식"
+  ],
+  "author": "Salamander724",
+  "created_at": "2020-02-09T19:08:32+00:00",
+  "updated_at": "2024-12-12T09:15:01+00:00",
+  "rating": 17,
+  "_site": "scpko",
+  "_fullname": "scp-5000-j"
+}

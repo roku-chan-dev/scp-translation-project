@@ -1,0 +1,13 @@
+{
+  "title": "이미지 블록 베이스 (인용)",
+  "content": "> [[div class=\"scp-image-block block-{$align}\" style=\"width:{$width}; margin-top: 1.2em;\"]]\n> [[image {$name} style=\"width:{$width};\" link={$link}]]\n> [[div class=\"scp-image-caption\" style=\"width:{$width};\"]]\n> {$caption}\n> [[/div]]\n> [[/div]]\\",
+  "tags": [
+    "구성요소-백엔드"
+  ],
+  "author": "Dr Devan",
+  "created_at": "2014-12-13T15:14:40+00:00",
+  "updated_at": "2021-08-26T12:36:22+00:00",
+  "rating": 1,
+  "_site": "scpko",
+  "_fullname": "component:image-block-quoted-base"
+}

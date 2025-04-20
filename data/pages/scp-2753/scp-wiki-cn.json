@@ -1,0 +1,22 @@
+{
+  "title": "SCP-2753",
+  "content": "[[module CSS]]\n@import url(\"http://www.scp-wiki.net/component:scp-pride/code/1\")\n[[/module]]\n\n[[module css]]\nsup { \nvertical-align: top; position: relative; top: -0.5em; \n}\n[[/module]]\n\n[[include component:image-block name=http://scp-wiki.wdfiles.com/local--files/scp-2753/jenga.png|caption=该SCP-2753-A实例的照片拍摄于波士顿异常艺术展（BAAE）期间，倒塌之前。]]\n\n**项目编号：**SCP-2753\n\n**项目等级：**Keter\n\n**特殊收容措施：**一台基金会控制的机器人（[[[SCP-3089|I/O-SILVER]]]）[[footnote]]**译注：**I/O为计算机中的输入/输出。[[/footnote]]检测因特网流量中的SCP-2753。发现的所有含SCP-2753数据都应被销毁。任何知晓SCP-2753的基金会外部人员都应被逮捕、审问并记忆删除。\n\nSCP-2753-A实例应保持拆分状态保存于站点内的安全柜中。SCP-2753-B与SCP-2753-C实例应依实际情况处置。目前禁止对SCP-2753进行实验。\n\n**描述：**SCP-2753是一种三维比例，用以描述一块状物边长间的比例关系。\n\nSCP-2753-A为在特定标准内符合SCP-2753投射的块状物，可为任何尺寸与材质。仅在42块具有相似尺寸与材质的SCP-2753-A实例被组合为一座标准叠叠乐[[footnote]]叠叠乐是一种把方块叠成一座塔的游戏。玩家轮流从中抽出方块，在试图避免其倒塌的同时把抽出块置于顶部。[[/footnote]]塔时，其异常性质方会呈现：若该叠叠乐塔倒塌，其所处建筑将立即倒塌。\n\n自2009年起，因3D打印的流行度与精准度的提高，可打印叠叠乐形式的SCP-2753的OBJ文件[[footnote]]OBJ是一种几何定义文件，用以对许多可用商业3D打印机下达指令。[[/footnote]]的出现已经导致了21座建筑物倒塌、35人受伤及14人死亡。\n\n**附录2753.1：**事故记录\n\n[[collapsible show=\"► 查阅SCP：/2753/incidents/007.log\" hide=\"▼ 关闭文件\"]]\n> = **事故记录**\n> ----\n> **日期：**1988/07/07\n> **标题：**SCP-2753-A\n> ----\n> 一座用以举办波士顿异常艺术展[[footnote]]波士顿异常艺术展（BAAE）是一地下艺术展会，致力于展示异常艺术家的作品。[[/footnote]]的库房的倒塌据调查与一SCP-2753-A实例相关。在废墟内亦发现其他14件异常物件（包括[[[SCP-1433]]]、一[[[SCP-1617]]]实例以及[[[project-proposal-1994-103|SCP-████]]]）。该建筑的倒塌导致了超过49名与会者的受伤与21人死亡。以下便条于周边发现：\n> \n>> **艺术能达到怎样的高度？让我们一探究竟吧！**\n>> \n>> 这座塔将在展览会开幕时被组装，我们鼓励观众轮流让这艺术品变得越来越高！\n>> \n>> 但是需要警告的是：高艺术带来高风险！当它叠得过高，你也可能发现你的模型正向你的头顶倒下！\n>> \n>> ——[[[are-we-cool-yet-hub|AWCY]]]\n> \n[[/collapsible]]\n\n[[collapsible show=\"► 查阅SCP：/2753/incidents/021.log\" hide=\"▼ 关闭文件\"]]\n> = **事故记录**\n> ----\n> **日期：**1995/07/14\n> **标题：**SCP-2753-B\n> ----\n> 基于保密来源信息，基金会操控机器人（I/O-SILVER）被用于在商业市场数据中搜索SCP-2753投射。未意料到的是，数所投资事务所与多层次信息网络营销[[footnote]]即Multi-Level Marketing（MIM），是一种主要依赖于金字塔形委任系统以谋取利益的商业策略。[[/footnote]]公司的破产与SCP-2753相关。\n> \n> 更进一步的调查发现了SCP-2753-B实例。该实例为特定标准内符合SCP-2753投射的金融资财，可为任何价值或类型。仅在42个具有相似价值与类型的实例被组合为一相互依赖网络时，其异常性质方会呈现：若该网络失去偿付能力，任何相关公司实体将立刻出现一次灾难性的财政崩溃。\n> \n> 基金会目前正致力于寻找所有此类金融网络，并将之安全瓦解。\n[[/collapsible]]\n\n[[collapsible show=\"► 查阅SCP：/2753/incidents/035.log\" hide=\"▼ 关闭文件\"]]\n> = **事故记录**\n> ----\n> **日期：**2016/07/21\n> **标题：**SCP-2753-C\n> ----\n> 基于保密来源信息，基金会操控机器人（I/O-SILVER）被用于在数个流行代码库与文件共享网络中搜索SCP-2753的投射。数起重要服务器崩溃与重要数据损失与SCP-2753相关。\n> \n> 更进一步的调查发现了SCP-2753-C实例。该实例为特定属性于特定标准内符合SCP-2753投射的文件，可为任何大小与类型。仅在42个具有相似大小与类型的实例为单一程序同时访问时，其异常性质方会呈现：若该程序意外崩溃，任何运行该程序的网络将立刻产生一次灾难性故障。\n> \n> 基金会目前正致力于寻找所有类似程序并尽数摧毁。\n[[/collapsible]]\n\n[[collapsible show=\"► 查阅SCP：/2753/incidents/042.log\" hide=\"%%$ 错误：FileNotFound()\"]]\n++ 035内部服务器故障 \n服务器遭遇一意外情况，无法完成指令(REQUEST_PROTOCOL 028)：\n \n[[div style=\"display: inline-block; background:#000000; float:top; padding:5px; width:100%\"]]\n##red|{{Traceback (most recent call last):}}\n{{@@  File \"/SCP/2753/files/_display.py\", line 21, in respond@@}}\n{{@@    table.open.body = self.handler()@@}}\n{{@@  File \"/SCP/2753/files/_display.py\", line 14, in __call__@@ }}\n{{@@    return self.callable(*self.args, **self.kwargs)@@}}\n{{@@  File \"error_classic.py\", line 7 in index@@}}\n{{@@    raise NotImplementedError(msg)@@}}\n{{@@NotImplementedError:@@ [[[[scp-2747|**数据丢失**]]]]}}##\n[[/div]]\n> **注意：**IntSCPFN网络出现了一个重大故障。如果你看到了这条讯息，请立刻通过手机、无线电或当面通知你的站点主管。\n\n//##white|**我们都**##//\n\n//##white|**倒**##//\n\n//##white|**下了**##//\n[[/collapsible]]\n\n[[footnoteblock]]\n\n[[div class=\"footer-wikiwalk-nav\"]]\n[[=]]\n<< [[[SCP-2752]]] | SCP-2753 | [[[SCP-2754]]] >>\n[[/=]]\n[[/div]]",
+  "tags": [
+    "are-we-cool-yet",
+    "keter",
+    "scp",
+    "建筑",
+    "数学性",
+    "混沌分裂者",
+    "游戏",
+    "熵",
+    "玩具",
+    "艺术性"
+  ],
+  "author": "tERaNCarol",
+  "created_at": "2018-12-03T06:33:59+00:00",
+  "updated_at": "2025-03-03T18:10:29+00:00",
+  "rating": 2,
+  "_site": "scp-wiki-cn",
+  "_fullname": "scp-2753"
+}

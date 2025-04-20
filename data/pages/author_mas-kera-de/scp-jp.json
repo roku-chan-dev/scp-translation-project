@@ -1,0 +1,14 @@
+{
+  "title": "マスカレードの翻訳ページ",
+  "content": "[[tabview]]\n[[tab 自記事]]\n+ SCP一覧\n[[module ListPages category=\"*\"  created_by=\"Mas_kera_de\" separate=\"no\" limit=\"250\" perPage=\"250\" tags=\"scp +jp -tale\" order=\"created_at\"]]\n* (%%created_at|%y/%m/%d%%) %%title_linked%%　(評価: %%rating%%, コメント: %%comments%%)\n[[/module]]\n\n+ Tale一覧\n[[module ListPages category=\"*\"  created_by=\"Mas_kera_de\" separate=\"no\" limit=\"250\" perPage=\"250\" tags=\"-scp +jp +tale\" order=\"created_at\"]]\n* (%%created_at|%y/%m/%d%%) %%title_linked%%　(評価: %%rating%%, コメント: %%comments%%)\n[[/module]]\n[[/tab]]\n[[tab SCP翻訳]]\n+ SCP一覧\n[[module ListPages created_by=\"[Mas_kera_de]\" separate=\"no\" tags=\"+scp +de\" order=\"created\" category=\"*\" prependLine=\"||~ SCP ||~ Rating ||~ Comments ||~ Created ||~ Last Comment ||\"]]\n|| %%title_linked%% || %%rating%% || %%comments%% || %%created_at%% || %%commented_at%% ||\n[[/module]]\n\n+ Tale一覧\n[[module ListPages created_by=\"[Mas_kera_de]\" separate=\"no\" tags=\"tale +de\" order=\"created\" category=\"*\" prependLine=\"||~ Tale ||~ Rating ||~ Comments ||~ Created ||~ Last Comment ||\"]]\n|| %%title_linked%% || %%rating%% || %%comments%% || %%created_at%% || %%commented_at%% ||\n[[/module]]\n\n+ その他\n[[module ListPages created_by=\"[Mas_kera_de]\" separate=\"no\" tags=\"-scp -author -tale -著者ページ +de\" order=\"created\" category=\"*\" prependLine=\"||~ Others ||~ Rating ||~ Comments ||~ Created ||~ Last Comment ||\"]]\n|| %%title_linked%% || %%rating%% || %%comments%% || %%created_at%% || %%commented_at%% ||\n[[/module]]\n[[/tab]]\n[[/tabview]]",
+  "tags": [
+    "jp",
+    "著者ページ"
+  ],
+  "author": "Mas_kera_de",
+  "created_at": "2020-07-17T12:58:47+00:00",
+  "updated_at": "2022-02-08T09:02:48+00:00",
+  "rating": 0,
+  "_site": "scp-jp",
+  "_fullname": "author:mas-kera-de"
+}

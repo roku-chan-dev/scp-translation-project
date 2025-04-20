@@ -1,0 +1,17 @@
+{
+  "title": "太平洋夏季时间清晨六点",
+  "content": "[[include :scp-wiki-cn:wanderers:dustjacket-theme]]\n[[module css]]\n/* poetry formatting chunk from http://wanderers-library.wikidot.com/carolynn */\n@import url('https://fonts.googleapis.com/css2?family=Noto+Serif+SC&display=swap');\n#content-wrap {background-color:#fcfcfc}\n.poem span {white-space:pre !important}\n.poem p {\n  margin-top: 0em;\n  margin-bottom: 0em;\n}\n#page-content {padding-bottom:15%}\n.poem {\n  white-space:wrap !important;\n  font-family:\"Noto Serif SC\", sans-serif;\n  font-size:120%;\n  text-indent: -1em;\n  padding-left:10%;\n  padding-top:5%;\n  padding-bottom:5%;\n}\n@media only screen and (max-width: 600px) {\n  .poem { padding-left: 1em; font-size:115%;}\n}\n[[/module]]\n\n[[div class=\"poem\"]]\n\n##db2a0f|太平洋夏季时间清晨六点。## ##db420f|格子花纹的床单，短夹克衫如情人的臂膀一般搭在上面。####db5d0f|起了水泡的瘦薄脚掌踩在亚马逊网站购买的地毯上。####db750f|百叶窗打开。####db8d0f|樱粉色日出，####dba80f|橘黄色朝霞，####dbc00f|单面煎蛋发出喜悦的滋滋声，####dbd80f|光线沿着小巷流淌，####c4db0f|日光下熟透的麦田小路被####acdb0f|星云般眩目的挡风玻璃照亮。####94db0f|在那之下：腹部雪白的鱼鹰比翼双飞，####79db0f|金色的尾巴在黎明闪烁，####61db0f|一同朝着地面俯冲：####49db0f|一首情歌，献给在那棵旱地里的电柏树上####2edb0f|筑起爱巢的水塔边上的鹤鸟。####16db0f|歌声在空中飘荡。####0fdb20|匆匆穿上我的衬衫——####0fdb3b|翡翠色丝绸覆上了交织着伤痕斑驳青紫的皮肤。## ##0fdb53|那慰藉带走了伤痛、空虚与寂寞。就让夏天进来吧。####0fdb6b|风中的欢呼声。####0fdb86|煎锅里的菠菜与蘑菇香气扑鼻——####0fdb9e|蘑菇互相拥抱，吮吸着锅里的鱼肉脂肪和洋葱油。####0fdbb6|把菠菜像海带一样铺好，整齐一致但每一片又各不相同。####0fdbd1|炉灶里，火焰燃烧过的蓝色虚影在你眼中闪烁——####0fcedb|这里已经没有什么会烧伤你了。####0fb3db|无人庆贺这顿饭的诞生，无人为其骄傲。####0f9bdb|烟气从通风罩上升起，交缠着用绳子挂在上方的干草。####0f83db|关掉气阀，检查火焰——## ##0f68db|灼热的天蓝色，####0f50db|把它们收入进气口，####0f38db|河口海水的绿色，####0f1ddb|香蒲反射着甜味，####190fdb|烧完了剩余的气体####310fdb|然后出来。####4c0fdb|出来吧。####640fdb|//出来：//带着那盘少许烧焦的炖好的冒着热气的饭走入夏日中去。####7c0fdb|天空密布着对旗帜与色彩的呼唤。####970fdb|然后吃吧，你的门廊被染成了将近紫罗兰的颜色，头顶的李子树摇晃着，是一只//浸透了//果汁颜色的松鼠。####af0fdb|望着云彩变成薰衣草色。####c70fdb|这座城市并不总是美丽，可是今天，####db0fd5|每个码头都散发着咸味，####db0fbd|每座森林都成了庇护所，####db0fa5|每座摩天大楼都改变了天空的颜色，####db0f8a|让好天气一直在。####db0f72|今天鸟儿歌唱。####db0f5a|叉尖刮擦着陶瓷；把盘子放在杜鹃花丛中。####db0f3f|就让蚂蚁把它舔干净吧。####db0f27|今天会有一场游行。##\n \n##fcfcfc|骄傲的游行。为生活骄傲，为永远骄傲。爱你。##\n\n[[/div]]",
+  "tags": [
+    "lgbtq",
+    "wanderers",
+    "记载",
+    "配区二",
+    "韵文"
+  ],
+  "author": "Esperanza_Cai",
+  "created_at": "2023-10-12T06:39:59+00:00",
+  "updated_at": "2023-10-12T06:53:35+00:00",
+  "rating": 3,
+  "_site": "scp-wiki-cn",
+  "_fullname": "wanderers:6-a-m-pacific-daylight-time"
+}

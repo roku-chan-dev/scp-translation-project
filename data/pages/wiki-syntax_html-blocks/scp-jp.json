@@ -1,0 +1,14 @@
+{
+  "title": "HTMLブロック",
+  "content": "ページにHTML-スクリプトを追加する場合は{{[[html]] ... @@[[/html]]@@}}タグを(それぞれ個別的なラインに)使ってください。HTMLブロックはIFRAMEの中に挿入されたコードブロックです。これによって[http://community.wikidot.com/howto:use-html-scripting HTML-スクリプティング]を簡単に使うことができます。\n\n[[code type=\"html\"]]\n[[html]]\n<h1>カスタムHTML</h1>\n<p>他の何か</p>\n<img src=\"何か.png\" alt=\"こんばんは (´・ω・`)\"/>\n[[/html]]\n[[/code]]\n\nhtmlブロックの中のすべてのWiki構文はリテラルテキスト[[footnote]] 構文として扱われず、文字がそのまま出る事を示します [[/footnote]]で扱われ、処理されません。\n\nhtml要素[[footnote]] <span>…</span>や<div>…</div>等のタグによって作るhtml文の括りです。[[/footnote]]にスタイル[[footnote]] <span style=\"font-weight:bold;\">太字</span>のようにstyle=\"\"という文章をタグにつけ、その後にタグの中にある文字の装飾を指定する事を示します。 [[/footnote]]を適用することができますが(<style type=\"text/css\">...</style>と<element style=\"...\">の両方の意味です)、(必要である場合にそのコンテンツに透過的に追加された)htmlとbodyのスタイリングはできません。一番上のhtml要素[[footnote]] 自分以外の全てのhtml要素を中に含むhtml要素の事 [[/footnote]]にスタイリングする必要がある場合、@@[[html]]@@ブロックの中のすべてのコンテンツをdivにラップすることで適切なスタイルを適用することができます。例えば、\n\n[[code]]\n[[html]]\n<div style=\"background-color: black; color: lightgreen\">\n<p>テストです。</p>\n</div>\n[[/html]]\n[[/code]]\n\nHTMLブロック全体が黒色に、テキストの色はライトグリーンにレンダリングされます。\n\n[[html]]\n<div style=\"background-color: black; color: lightgreen\">\n<p>テストです。</p>\n</div>\n[[/html]]\n\nまたhtmlブロック内ではjavascriptというプログラミング言語を使用する事ができます。\n[[code]]\n[[html]]\n<script type=\"text/javascript\">\nfunction HelloWorld(){\nalert(\"HelloWorld\");\n}\n</script>\n<button onclick=\"HelloWorld()\">HelloWorld</button>\n[[/html]]\n[[/code]]\n[[html]]\n<script type=\"text/javascript\">\nfunction HelloWorld(){\nalert(\"HelloWorld\");\n}\n</script>\n<button onclick=\"HelloWorld()\">HelloWorld</button>\n[[/html]]\n\n\nページの各HTMLブロックは固有のURLを持っていて、個別的に接続するのができます。レンダリングされたページのHTMLブロックエレメントの上に右クリックして「このフレームのみを表示」を選択し、ウェブアドレスを確認することができます。\n\n~~~~~~~~~~",
+  "tags": [
+    "jp",
+    "リファレンス"
+  ],
+  "author": "C-take",
+  "created_at": "2018-04-09T12:29:17+00:00",
+  "updated_at": "2023-01-13T12:08:24+00:00",
+  "rating": 14,
+  "_site": "scp-jp",
+  "_fullname": "wiki-syntax:html-blocks"
+}

@@ -1,0 +1,17 @@
+{
+  "title": "没有人的致意",
+  "content": "[[>]]\n[[module rate]]\n[[/>]]\n====\n[[div class=\"preview\"]]\nBonne nuit.\n[[/div]]\n====\n[[module CSS]]\n@import url('https://fonts.googleapis.com/css?family=EB+Garamond:500&display=swap');\n@import url('https://fonts.googleapis.com/css2?family=Noto+Serif+SC&display=swap');\n#content-wrap {background-color:#fcfcfc}\n.poem span {white-space:pre !important}\n.poem p {\n  margin-top: 0em;\n  margin-bottom: 0em;\n}\n.poem {\n  white-space:wrap !important;\n  font-family:\"EB Garamond\", \"Noto Serif SC\", sans-serif;\n  font-size:120%;\n  text-indent: 2em;\n  padding-top:5%;\n  padding-bottom:20%;\n}\n@media only screen and (max-width: 600px) {\n  .poem { padding-left: 1em; font-size:115%;}\n}\ndiv.preview { display: none; }\na {\n    color: black;\n}\n a:visited {\n     color: grey;\n}\n#side-bar a {\n     color: black;\n}\n#side-bar a:visited {\n     color: black;\n}\nh1, #page-title {\n    color: black;\n}\n#page-title {\n    text-align: center;\n}\n.page-rate-widget-box .rate-points {\n    background-color: black !important;\n    border: solid 1px black;\n    text-transform: capitalize;\n}\n.page-rate-widget-box .rateup,\n.page-rate-widget-box .ratedown {\n    background-color: black;\n    border-top: solid 1px black;\n    border-bottom: solid 1px black;\n}\n.page-rate-widget-box .rateup a,\n.page-rate-widget-box .ratedown a {\n    background: transparent;\n    color: white;\n}\n.page-rate-widget-box .rateup a:hover,\n.page-rate-widget-box .ratedown a:hover {\n    background: white;\n    color: black;\n}\n.page-rate-widget-box .cancel {\n    background-color: black;\n    border: solid 1px black;\n}\n.page-rate-widget-box .cancel a {\n    color: white;\n}\n.page-rate-widget-box .cancel a:hover {\n    background: white;\n    color: black;\n}\n#license-area a::after {\n    content: \".\";\n}\n#watchers-button {\n    display: none;\n}\n[[/module]]\n[[div class=\"poem\"]]\n“什么也不要干，Alex Thorley。[[[old:alex-thorley-does-nothing|不要存在]]]。”\n\n[[[the-man-who-wasnt-there-hub|来人]]]做了一个噤声的手势，示意彵闭上嘴。彵立刻发现对方的动作并无必要：彵的嘴已经不存在了。\n\n彵失望地瞥了一眼没有人坐在对面压着帽檐往[[[memebodies|煎饼]]]上涂蜂蜜的样子，不存在的手触碰到渐温的陶瓷杯，很快对于温度的感知也随着皮肤一并不复存在。\n\n没有人静静地凝视着彵停止存在，点起一根[https://scp-wiki-cn.wikidot.com/system:page-tags/tag/kindness 香烟]。烟雾弥漫了自身与刚刚散落的Alex Thorley之间的空间，被上方零星的灯光照亮，像一团小小的星云。\n\n蜂蜜温热，黏稠地划过面皮，留下一道甜腻的痕迹，沾上没有人的指侧，在那里略微阻滞，好像留恋地磨蹭。只有片刻。\n\n烟雾散去的时候，没有人才吸入第一口薄凉的空气。眼前是一只洁净的盘子，一个无味的[[[unreality-orientation|白面贝果]]]平整地躺在中央。\n\n没有人睁眼望着头顶的星光一点点熄灭。\n\n“[[[rat-s-nest-hub|晚安]]]，Alex Thorley。”\n[[/div]]",
+  "tags": [
+    "2024噤声短文竞赛",
+    "alex-thorley",
+    "nobody",
+    "原创",
+    "故事"
+  ],
+  "author": "Esperanza_Cai",
+  "created_at": "2024-04-29T16:11:15+00:00",
+  "updated_at": "2024-04-29T16:11:55+00:00",
+  "rating": 18,
+  "_site": "scp-wiki-cn",
+  "_fullname": "nobody-says-good-night-to-you-alex-thorley"
+}

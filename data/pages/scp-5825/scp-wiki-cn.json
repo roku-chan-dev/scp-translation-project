@@ -1,0 +1,21 @@
+{
+  "title": "SCP-5825",
+  "content": "[[module css]]\n.danke{\npadding: 5px 5px 5px 15px;\nmargin-bottom:10px;\nbox-sizing: border-box;\nwidth: 100%;\nfont-family: monospace;\nfont-size: 1.1em; }\n\n.inner{\npadding: 5px 5px 5px 15px;\nmargin-bottom:10px;\nwidth: 94%;\nfont-family: monospace;\nfont-size: 1.1em; }\n\n.agent{\nbackground-color:#002200;\nborder: 3px solid #55AA55;\ncolor: #77CC77;\n}\n\n.site{\nbackground-color:#222200;\nborder: 3px solid #AAAA55;\ncolor: #DDDD77;\n}\n\n.blue{\nbackground-color:#002026;\nborder: 3px solid #43A6B5;\ncolor: #65C8D7;\n}\n\n.red{\nbackground-color:#33130D;\nborder: 3px solid #E17E6F;\ncolor: #FFA091;\n}\n\n.pink{\nbackground-color:#351022;\nborder: 3px solid #e377ae;\ncolor: #ff99cd;\n}\n\n\n[[/module]]\n\n[[include theme:black-highlighter-theme]]\n[[include :scp-wiki-cn:theme:calamity]]\n\n[[module ListPages category=\"fragment\" parent=\".\" order=\"created_at\" limit=\"1\" offset=\"@URL|0\"]]\n%%content%%\n[[/module]]\n\n[!--\n段落页：\n* https://scp-wiki-cn.wikidot.com/fragment:SCP-5825-1\n* https://scp-wiki-cn.wikidot.com/fragment:SCP-5825-2\n* https://scp-wiki-cn.wikidot.com/fragment:SCP-5825-3\n* https://scp-wiki-cn.wikidot.com/fragment:SCP-5825-4\n* https://scp-wiki-cn.wikidot.com/fragment:SCP-5825-5\n--]\n-----\n\n[[=]]\n[[[unhuman-hub | 非人类 中心页]]] | [[[ship-to-wreck | 船归骸]]] ➢\n[[/=]]\n\n[[footnoteblock]]\n\n[[div class=\"footer-wikiwalk-nav\"]]\n[[=]]\n<< [[[SCP-5824]]] | SCP-5825 | [[[SCP-5826]]] >>\n[[/=]]\n[[/div]]",
+  "tags": [
+    "2021连写竞赛",
+    "_海生",
+    "safe",
+    "scp",
+    "媒体",
+    "强迫性",
+    "无效化",
+    "非人类",
+    "音乐性"
+  ],
+  "author": "vxeov",
+  "created_at": "2021-08-19T13:44:58+00:00",
+  "updated_at": "2021-08-19T14:10:07+00:00",
+  "rating": 4,
+  "_site": "scp-wiki-cn",
+  "_fullname": "scp-5825"
+}

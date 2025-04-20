@@ -1,0 +1,20 @@
+{
+  "title": "SCP-MWT-J",
+  "content": "[[include :scp-wiki-cn:theme:black-highlighter-theme]]\n[[include :scp-wiki-cn:theme:extra-black-highlighter-theme]]\n\n[[include :scp-wiki-cn:component:info-ayers\n|page=scp-721-ex?\n|authorPage=https://scp-wiki.wikidot.com/secure-facility-dossier-ex-site-26\n|comments=**SCP-MWT-J:** [自散播性危险]\n]]\n\n[[=]]\n[[div class=\"blockquote\"]]\n++++ 基金会记录与信息安全管理部通知\n\n下列文件已受一已知认知危害影响。仅接种过上述认知危害疫苗之6/MWT-J级权限人员得访问此文件。请谨慎操作。\n\n— Maria Jones，RAISA主管\n[[/div]]\n[[/=]]\n\n[[include :scp-wiki-cn:component:object-warning-box-source\n|bg-image=https://scpsandboxcn.wdfiles.com/local--files/pedder/SCP_Foundation_%28emblem%29.svg\n|bg-opacity=0.15\n|text-top=据监督者议会指令\n|text-bottom=下续记录乃6/MWT-J等之机密。\n**禁止不当切入。**\n|object-number=MWT-J\n]]\n[[include :scp-wiki-cn:component:customizable-acs\n|item-number= MWT-J\n|clearance= 6\n|container-class= esoteric\n|secondary-class= apollyon\n|secondary-icon= https://scp-wiki.wdfiles.com/local--files/component%3Aanomaly-class-bar/apollyon-icon.svg\n|disruption-class= amida\n|risk-class= 危急\n|item-text= 物件代编:\n|level-text= 等第\n|clearance-number-text= 6\n|clearance-text= 全宙超秘\n|containment-text= 管辖指称：\n|secondary-text= 附属指称：\n|disruption-text= 干扰指称：\n|risk-text= 险度指称：\n|inc-custom-text= --]]]\n-----\n**[[span class=\"ruby\"]]特别管理程式[[span class=\"rt\"]]Distinctive Management Operations[[/span]][[/span]]：**目前无法控制SCP-MWT-J。协会网络在线扫描仪将拆除各个SCP-MWT-J样本，但SCP-MWT-J样本之数目是无限的。SCP-MWT-J之访问应仅藉一名与实验相关的3/MWT-J[[span class=\"ruby\"]]等[[span class=\"rt\"]]Grade[[/span]][[/span]]研究员代理分配。易受SCP-MWT-J影响的人力资源应尽快被施以A[[span class=\"ruby\"]]类[[span class=\"rt\"]]Designation[[/span]][[/span]]记忆删除。\n\n未能成功应对SCP-MWT-J将最终导致θK级“[[span class=\"ruby\"]]协会瓦解[[span class=\"rt\"]]Association Disorganization[[/span]][[/span]]”情景，因协会将因句子和语言变得晦涩和冗长而导致该协会之运行不能维持。\n\n**[[span class=\"ruby\"]]表征[[span class=\"rt\"]]Characterization[[/span]][[/span]]：**SCP-MWT-J存在于认知危害网络在线页面//Thesaurus.com//。网络在线页面之认知危害后果在一现代智人之初步访问中实现。受影响的现代智人在不藉网络在线页面无用地使内容受到混淆之情况下将弱于抄写或表达。\n\n**[[span class=\"ruby\"]]附加信息[[span class=\"rt\"]]Appendix[[/span]][[/span]]MWT-J.1：**监督者议会通讯\n[[collapsible show=\"[仅在监督者指令下得访问之]\" hide=\"[自O5-1席前获悉]\"]]\n[[div class=\"blockquote\"]]\n为确保信息安全，基金会对伪造文件这事并不陌生。他妈的，其实有一半的数据库实际上并不存在。我们在不应该出现警告标志的地方放些标志和致死性模因触媒，这样在没有得到适当授权的情况下发现这些文件的可怜的笨蛋们在真正犯下会被处决的罪行之前先要被吓得半死。\n\nMWT-J并非如此。事实是：每个人都可以访问MWT-J，它包含在一般的0级访问中。 MWT-J不是关于世界末日的异常，收容程序也不是为了保护人类。MWT-J甚至不存在，一般民众每天使用它也没有问题。不，MWT-J的文件存在的唯一原因是：\n\n**这样新员工就不会再老上//Thesaurus.com//了。**\n\n— O5-1\n\n//控制，收容，保护。//\n[[/div]]\n[[/collapsible]]\n@@ @@\n@@ @@\n@@ @@\n[[div]]\n[[include :scp-wiki-cn:component:license-box\n|author=Dr Asteria\n|translator=Pedder\n]]\n=====\n=====\n[[include :scp-wiki-cn:component:license-box-end]]\n[[/div]]",
+  "tags": [
+    "apollyon",
+    "k级情景",
+    "scp",
+    "媒体",
+    "强迫性",
+    "搞笑",
+    "线上",
+    "认知危害"
+  ],
+  "author": "Pedder",
+  "created_at": "2022-02-18T03:23:19+00:00",
+  "updated_at": "2022-02-18T14:56:32+00:00",
+  "rating": 5,
+  "_site": "scp-wiki-cn",
+  "_fullname": "scp-mwt-j"
+}

@@ -1,0 +1,13 @@
+{
+  "title": "SCP-CN-1026-1",
+  "content": "[[=]]\n\n++ 你正在访问SCP-CN-1026文档，该文档对心理的影响是传递性的，请进行必要的心理状态检查\n\n+ ##red|进行人工自动心理状态扫描(点击按键后盯向屏幕中央五秒）##\n[[collapsible show=\"+ 开始扫描\" hide=\"-扫描中\"]]\n\n+ ##yellow|【【【【【 {（+）} 】】】】】##\n\n1\n.\n.\n2\n.\n.\n3\n.\n.\n4\n.\n.\n5\n.\n.\n**扫描完毕**\n[[module ListUsers users=\".\"]]\n**你是%%title%%，對吧？**\n[[/module]]\n**您现在的心理状态：轻度紧张（请注意，如非紧急情况，不要观看此文档以避免心理影响。本系统无权限防止你观看。）**\n[[[http://scp-wiki-cn.wikidot.com/scp-cn-1026/offset/2 | 继续]]]\n[[/=]]\n[[/collapsible]]",
+  "tags": [
+    "段落"
+  ],
+  "author": "Alexpiny-The canner",
+  "created_at": "2019-03-05T12:03:36+00:00",
+  "updated_at": "2019-04-13T05:29:27+00:00",
+  "rating": 0,
+  "_site": "scp-wiki-cn",
+  "_fullname": "fragment:scp-cn-1026-01"
+}

@@ -1,0 +1,13 @@
+{
+  "title": "Site Search (Wikidot)",
+  "content": "[[module CSS]]\n#page-title {\n  display: none;\n}\n[[/module]]\n\n[[include :csi:include:adv-search showCategory=none]]",
+  "tags": [
+    "admin"
+  ],
+  "author": "The Administrator",
+  "created_at": "2008-07-19T21:26:58+00:00",
+  "updated_at": "2022-06-30T17:47:39+00:00",
+  "rating": 0,
+  "_site": "scp-wiki",
+  "_fullname": "search:wikidot"
+}

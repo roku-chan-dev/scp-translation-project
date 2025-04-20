@@ -1,0 +1,14 @@
+{
+  "title": "00690",
+  "content": "content: \"**説明:** 階段を下りた時に限り後方に残像が生成される階段。生成された残像は２分程度で消失する。\\n**回収日:** 2012/03/██\\n**回収場所:** サイト-81██の非常階段\\n**現状:** 該当する階段を封鎖し、非常階段を建築中\\n**追記:** //傍目から見ると格好いいんですけど、自分で振り返ってみたらすごく惨めな気分になりました。//-██研究員\\n//後ろ向きで下りてみたら自分の背中が見られました。あと十円ハゲも。//-██研究員補佐\"\ntf2: '1'\nauthor: koke_zizou\nredirect-b: '[[module Redirect destination=\"http://ja.scp-wiki.net/log-of-anomalous-items-jp'\nredirect-e: '\"]]'",
+  "tags": [
+    "jp",
+    "剪定対象-子"
+  ],
+  "author": "7happy7",
+  "created_at": "2020-03-14T14:40:33+00:00",
+  "updated_at": "2021-05-24T13:13:59+00:00",
+  "rating": 11,
+  "_site": "scp-jp",
+  "_fullname": "anomalous-jp:00690"
+}

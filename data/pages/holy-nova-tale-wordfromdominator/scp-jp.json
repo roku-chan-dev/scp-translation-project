@@ -1,0 +1,15 @@
+{
+  "title": "A Word From The Dominator - “統治者”の言葉",
+  "content": "[[module css]]\n.content-panel.standalone {\nfont-family: Courier New, Courier, monospace; \nwidth: 575px; \npadding: 10px 30px; \nmargin: 20px auto; \nbackground: url(/local--files/about-the-scp-foundation/bg-marble.png) repeat; \ntext-shadow: 1px 1px 1px rgba(0,0,0,.25);\n}\n\n@media (max-width: 1029px) {\n.content-panel.standalone {\npadding: 0.5em 0;\nmargin: 0 auto;\n}\n}\n[[/module]]\n[[>]]\n[[module rate]]\n[[/>]]\n[[div class=\"content-panel standalone\"]]\n[[size 130%]]**人類の文明が栄え始めてから少なくとも4000年以上もの時を経た。しかしその発展が顕著となったのは僅かこの200年に過ぎない。**\n\n我々は4000年に渡って何をしていたのか？多くの者どもが、時に目先の僅かな黄金を追い、時に些細な名目の違いに食ってかかり、相争い奪い合い、無意味な浪費を続けていたのだ。獣と同等の欲しか持たず偉大な遺産の価値を知らぬ連中が、書物を火に投げ入れ、建築物を打ち砕いた。そして連中は『神』あるいは『悪魔』というレッテルを使い、世界を理解したつもりでいた。\n\n時は流れ、叡智は次第に蓄積され、その産物は未知なるものへと光を照らした。更なる未知の発見は絶えることなく、多くの技術が結実し、世界はより道理に理解を示し始めた。しかしそれでも、人類から不合理と不条理は決して消え去りはしなかった。まるで無知の野獣が人間の顔をして潜り込んでいるように。\n\n**人類は叡智の歩みを止めてはならない。**その足を掴む者がいてはならない、我々は進歩のために選別しなければならないのだ。\n\n人類が叡智を以って未知に立ち向かい続けるよう、我々はその尖兵として戦い、同時に督戦隊としてその背後を守らなければならない。\n\n[[image http://scp-jp.wdfiles.com/local--files/about-the-scp-foundation/scp-logo-signature.png style=\"width: 63px; margin: 12px 15px 0 42px; float: left;\"]]\n**確保、収容、保護。**\n\n**-- The Dominator**[[/size]]\n[[/div]]",
+  "tags": [
+    "jp",
+    "tale",
+    "わるいざいだん"
+  ],
+  "author": "holy_nova",
+  "created_at": "2015-02-04T10:43:33+00:00",
+  "updated_at": "2021-01-10T16:02:17+00:00",
+  "rating": 109,
+  "_site": "scp-jp",
+  "_fullname": "holy-nova-tale-wordfromdominator"
+}

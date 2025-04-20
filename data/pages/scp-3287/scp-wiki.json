@@ -1,0 +1,25 @@
+{
+  "title": "SCP-3287",
+  "content": "[[>]]\n[[module Rate]]\n[[/>]]\n\n\n[[include component:image-block\n    name=medium.jpg|\n    caption=Cylinders of SCP-3287.\n]]\n**Item #:** SCP-3287\n\n**Object Class:** Thaumiel\n\n**Secure Containment Procedures:** At any time, no more than 50 standard regulation Class E liquid gas cylinders of each type of SCP-3287 may exist. These canisters are to be stored in a vacuum-sealed chamber at 112 kelvin and handled only by personnel equipped with gas-proof hazardous material suits.\n\nSCP-3287-0 is to remain within one meter of the sealed container it was discovered in, and its Scranton Reality Anchor regularly maintained and replaced when needed.\n\nDuring tests with an instance of SCP-3287, test subjects are to be escorted into a designated vacuum-sealed testing area. SCP-3287 is to be pumped into the area for one minute, then recollected. Subjects are then to be escorted out of the testing area by properly-equipped guards through an airlock while any remaining SCP-3287 is to be recollected and contained.\n\nSCP-3287 [[[populated-control-led|may be used on animal and human populations]]] in the case of an ΩK-Class End of Death Scenario with approval from the O5 council and Ethics Committee.\n\n**Description:** SCP-3287 is the designation for a gaseous sterilization agent created by the Foundation for the purposes of reducing and controlling the populations of certain anomalous and non-anomalous animal species. Since its creation, which was for the purposes of containing the spread of SCP-████, it has been used on ██ other anomalies and certain non-anomalous animals.\n\nSCP-3287 is gaseous at room temperature, liquid at 112 K and is non-flammable. It is characterized by its light blue color and a unique aroma described by subjects as \"similar to licorice\". Upon coming in contact with a living subject, SCP-3287 dissolves, losing its gaseous properties as it is absorbed.\n\nSCP-3287 has three different types, designated SCP-3287-1, SCP-3287-2 and SCP-3287-3. All types of SCP-3287 are nearly identical in chemical composition, but are distinguished by unique anomalous compounds that supposedly alter their effects.\n\nSCP-3287-1 is the first type of SCP-3287, and also the type with the most documented information. After application to a living subject, SCP-3287-1 completely sterilizes them, preventing them from being able to reproduce. This has been used to artificially preserve certain species of animals in the wild by sterilizing their predators, and has been used to prevent certain anomalous species of animals from creating offspring, as mentioned above. SCP-3287-1 may be used on humans, but requires Level-4 approval before use.\n\nSCP-3287-2 is the second type of SCP-3287. Despite being similar in composition to SCP-3287-1, its function is currently unknown. Although several tests have been scheduled and attempted to determine the function of SCP-3287-2, none of these were completed on account of the fact that all randomly-selected D-Class and animal test candidates were already sterile before the test began. An endeavour to only select test candidates who are not sterile has not been attempted.\n\nSCP-3287-3 is the third type of SCP-3287. There is no documentation of any attempted tests with SCP-3287-3.\n\nSCP-3287-0 is the designation for the document detailing the process to create SCP-3287 instances. SCP-3287-0 was discovered in a secure Foundation chemical laboratory at Site-██ on September 28th, 20██ during a routine sanitary examination, sealed in a glass box, accompanied by a single miniaturised Scranton Reality Anchor.\n\nThe instructions have since been copied to the Foundation database, along with the message discovered on the final page, which has been transcribed below:\n\n[[collapsible show=\"Message Written on SCP-3287-0\" hide=\"Close Transcript\"]]\n\n> We fucked up.\n> \n> ConProcs: -3 only use during [[[in-the-clutches-of-life|bad ΩK]]], rest are good\n> \n> Tell my family I love them.\n> \n> Dr. Kaito Shoga Jr.\n\n[[/collapsible]]\n\nAccording to Foundation personnel records, there is not a researcher by the name of Kaito Shoga Jr. employed by the Foundation. When asked, Site-██ Director Kaito Shoga said he had never had children, as he had discovered he was sterile after multiple attempts at a child with his wife.\n\n[[footnoteblock]]\n\n[[div class=\"footer-wikiwalk-nav\"]]\n[[=]]\n<< [[[SCP-3286]]] |  SCP-3287 | [[[SCP-3288]]] >>\n[[/=]]\n[[/div]]",
+  "tags": [
+    "_cc",
+    "biohazard",
+    "chemical",
+    "document",
+    "doomsday2018",
+    "end-of-death",
+    "foundation-made",
+    "gaseous",
+    "paradox",
+    "reality-bending",
+    "reproductive",
+    "scp",
+    "thaumiel"
+  ],
+  "author": "OthellotheCat",
+  "created_at": "2018-05-21T01:17:08+00:00",
+  "updated_at": "2022-10-01T18:25:38+00:00",
+  "rating": 362,
+  "_site": "scp-wiki",
+  "_fullname": "scp-3287"
+}

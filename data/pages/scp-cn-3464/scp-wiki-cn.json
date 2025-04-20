@@ -1,0 +1,26 @@
+{
+  "title": "SCP-CN-3464",
+  "content": "[!--\n====\n吹进乐园的风\n====\n遥か遠き世界から\n自遥远的世界而来\n己の知らぬ美しさ\n我未曾感知的美丽\n在る筈なき[[span class=\"ruby\"]]ノスタルジア[[span class=\"rt\"]]Nostalgia[[/span]][[/span]]\n不应存留的乡愁啊\nそれにこころふるえて\n我的内心因此不寒而栗\n====\n====\n--]\n\n[[include :evernight-aquarium:component:non-savingpage]]\n\n[[include :scp-wiki-cn:theme:foxtrot]]\n[[module CSS]]\n/*\n    Powered on 2023/04/13 19:40:38\n    [2023 Wikidot Theme]\n    Created by initializerCOX\n    CC BY-SA 3.0\n*/\n/* HEADER */\n :root{\n    --header-title:\"SCP基金会\";\n    --header-subtitle:\"支持·分类·保护\";\n}\n[[/module]]\n\n[[module CSS]]\n.email-example .collapsible-block-folded a.collapsible-block-link {\n    animation: blink 0.8s ease-in-out infinite alternate;\n}\n@keyframes blink {\n    0% { color: transparent; }\n    50%, 100% { color: #b01; }\n}\n.email {border: solid 2px #000000; width: 88%; padding: 1px 15px; margin: 10px; box-shadow: 0 1px 3px rgba(0,0,0,.5)}\n.email-example a.collapsible-block-link {font-weight: bold;}\n.tofrom {margin-left: 10px; margin-top: 5px; padding: 1px 15px; border-left: solid 3px maroon}\n[[/module]]\n\n[[module css]]\nh3 {\n    color: #901;\n}\n\n#page-content div.myBasicBlock {\n    border-radius: 8px;\n    border: solid 1px #615;\n    background: #FAFAFA;\n    -webkit-box-shadow: 0 1px 6px rgba(0,0,0,0.25);\n            box-shadow: 0 1px 6px rgba(0,0,0,0.25);\n    -webkit-box-sizing: border-box;\n            box-sizing: border-box;\n    width: 100%;\n    padding: 15px;\n    margin: 1em 0;\n    display: inline-block;\n}\n\n#page-content div.myBasicBlock hr {\n    margin-left: 0;\n}\n\n#page-content .colored {\n    background-color: #e8f3f7 !important;\n}\n\n[[/module]]\n\n[[>]]\n[[module rate]]\n[[/>]]\n\n[[module ListPages category=\"fragment\" parent=\".\" limit=\"1\" order=\"name\" offset=\"@URL|0\"]]\n\n%%content%%\n\n[[/module]]\n[!--\n编辑本页面的内容可能会导致错误。若要编辑文本，请至以下链接。\nhttp://scp-wiki-cn.wikidot.com/fragment:scp-cn-3464-00\nhttp://scp-wiki-cn.wikidot.com/fragment:scp-cn-3464-01\n--] \n\n[[footnoteblock]]\n\n[[=]]\n[[include :scp-wiki-cn:component:license-box\n|lang=CN\n|author=Sharia Vanilla\n|]]\n=====\n\n> **文件名：** Voyage.png\n> **制图者：** [[*user Sharia Vanilla]]\n> **原作者：** NASA\n> **共享协议：** 公有领域\n> **来源链接：** https://worldview.earthdata.nasa.gov\n\n> **文件名：** conveyingship.jpg\n> **原作者：** Pixabay\n> **共享协议：** CC0\n> **来源链接：** https://www.pexels.com/zh-cn/photo/70555/\n\n> **文件名：** foggyIsland.jpg\n> **原作者：** Emre Can Acer\n> **共享协议：** Pixel Licence\n> **来源链接：** https://www.pexels.com/zh-cn/photo/2078868/\n\n> **文件名：** etSec.png\n> **原作者：** [[*user Sharia Vanilla]]\n> **共享协议：** CC BY-SA 3.0\n> **来源链接：** http://scpsandboxcn.wikidot.com/local--files/sharia-vanilla/etSec.png\n\n> **文件名：** Eragrostis.jpg\n> **原作者：** Forest & Kim Starr\n> **共享协议：** CC BY 3.0\n> **来源链接：** https://en.wikipedia.org/wiki/Eragrostis#/media/File:Starr_010520-0040_Eragrostis_variabilis.jpg\n\n\n> **文件名：** AmericanNavy.jpg\n> **原作者：** 美国海军\n> **共享协议：** 公有领域\n> **来源链接：** https://commons.m.wikimedia.org/wiki/File:Winnefeld_2010.jpg\n\n> **文件名：** LocalPeople.jpg\n> **原作者：** Sinandoh\n> **共享协议：** CC0\n> **来源链接：** https://en.wikipedia.org/wiki/Austronesian_peoples#/media/File:Gadispalembang.jpg\n\n> **文件名：** Micronesia.jpg, Micronesia_misc.jpg\n> **制图者：** [[*user Sharia Vanilla]]\n> **原作者：** Erin Magee/AusAID\n> **共享协议：** CC BY 2.0\n> **来源链接：** https://en.wikipedia.org/wiki/Marshall_Islands#/media/File:Marshall_Islands_(10700720174).jpg\n\n=====\n[[include :scp-wiki-cn:component:license-box-end]]\n[[/=]]\n\n[[div class=\"footer-wikiwalk-nav\"]]\n[[=]]\n<< [[[SCP-CN-3463]]] | SCP-CN-3464 | [[[SCP-CN-3465]]] >>\n[[/=]]\n[[/div]]",
+  "tags": [
+    "2024冬季征文",
+    "scp",
+    "仪式性",
+    "化学性",
+    "原创",
+    "地点",
+    "宗教",
+    "岛",
+    "无定形",
+    "无效化",
+    "气象",
+    "神话传说",
+    "精神影响",
+    "边界勘定人"
+  ],
+  "author": "Sharia Vanilla",
+  "created_at": "2024-02-25T15:07:33+00:00",
+  "updated_at": "2024-06-04T14:18:04+00:00",
+  "rating": 33,
+  "_site": "scp-wiki-cn",
+  "_fullname": "scp-cn-3464"
+}

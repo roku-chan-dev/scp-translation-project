@@ -1,0 +1,17 @@
+{
+  "title": "SPEAK OF ME",
+  "content": "[[include :scp-wiki:theme:black-highlighter-theme]]\n[[include :scp-wiki:theme:minimalist-bhl]]\n\n[[>]]\n[[module RATE]]\n[[/>]]\n\n[[include component:image-block\n| name=https://i.imgur.com/frZX1J1.jpg\n| align=center\n| width=600px\n| height=600px\n| caption=**In the Den of Narcissus**\n]]\n\n@@ @@\n@@ @@\n\n[[=]]\n[[collapsible show=\"Inverted Version\" hide=\"Close Inverted Version\"]]\n[[/=]]\n[[<]]\n[[include component:image-block\n| name=https://i.imgur.com/qYo4ogV.jpg\n| align=center\n| width=600px\n| height=600px\n|caption=**snssᴉɔɹɐN ɟo uǝp ǝɥʇ uI**\n]]\n[[/<]]\n[[/collapsible]]\n\n@@ @@\n@@ @@\n\n[[include :scp-wiki:component:license-box]]\n=====\n\nAll images within this page were produced solely by Some Reference. All are herby released under CC-BY-SA\n\n=====\n[[include :scp-wiki:component:license-box-end]]",
+  "tags": [
+    "artwork",
+    "painted",
+    "remixcon2023",
+    "scp-art",
+    "ten-dots"
+  ],
+  "author": "Some Reference",
+  "created_at": "2023-08-21T04:04:15+00:00",
+  "updated_at": "2024-03-28T18:49:24+00:00",
+  "rating": 66,
+  "_site": "scp-wiki",
+  "_fullname": "art:speak-of-me"
+}

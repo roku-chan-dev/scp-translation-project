@@ -1,0 +1,14 @@
+{
+  "title": "临摹日出",
+  "content": "[[div style=\"display: none;\"]]\n[[include :scp-wiki-cn:theme:flopstyle-dark]]\n[[/div]]\n[[div class=\"anchor\"]]\n[[div class=\"authorbox tableb\"]]\n||~ 临摹日出 ||\n||= [[span class=\"bt bb\"]]作者[[/span]] [[*user flowerfirst]] ||\n||~ 发布于 2022 年 09 月 25 日 ||\n[[/div]]\n[[/div]]\n\n[[module CSS]]\n :root{\n   /* -- COLORS -- */\n     --accentColor: hsl(0, 89%, 41%);\n     --accentColorLite: hsla(0, 89%, 51%, .5);\n     --hue: 0deg;\n\n   /* -- LOGO -- */\n     --lgurl: url(https://scp-wiki.wdfiles.com/local--files/nightfall-hub/moon1.png);\n\n   /* -- TITLES -- */\n     --header-title: \"夜幕降临\";\n     --header-subtitle: \"光在夜里最是耀眼\";\n\n   /* -- STATIC COLORS -- */\n     --textColor: hsl(212, 3%, 75%);\n     --bgColor: hsl(220, 20%, 10%);\n}\n\n #extra-div-1{\n     filter: opacity(.2) saturate(1.25) brightness(1.25);\n}\n[[/module]]\n[[div class=\"meta-title\"]]\n临摹日出\n[[/div]]\n\n[[div class=\"pseudocrumbs\"]]\n[https://scp-wiki-cn.wikidot.com/canon-hub 设定中心] >> [https://scp-wiki-cn.wikidot.com/nightfall-hub 夜幕降临 中心页] >> 临摹日出\n[[/div]]\n\n我从没有见过太阳。\n\n我把这件事告诉游客，他们每每惊讶莫名。“真的从没有过吗？”他们问。\n\n镇上的人给我讲苏尔[[footnote]]**译注：**Sol，太阳神。[[/footnote]]金光的故事。天上火球壮丽无朋，映照万物，那时你连星星也看不见。晨空里柔和的桔橙、浅红、明黄，还有暴风雨过后鲜活有灵的彩虹。\n\n我听而入迷。我入了人们的故事之迷。每一个都与前一个不尽相同，都要更引人入胜。我时时渴望去到有太阳的那边，看一眼它，体会它醉人的温煦。不过，妈妈总叫我不要直视它。\n\n可是，我还是想要亲眼一观。我的心象，那些填满天空的奇光异彩，以及正中央的太阳，我想真正目睹它们。它们已经不见了，但我全都记得。如果有客人来访，我会问及他们的记忆，问及他们的故事。他们说，它用山毛榉叶制成绿闪闪的窗格，在湍急溪流的水面游戏，一如诸多欢快的小精灵。\n\n我把这些故事抱在心里，竭己所能去再现它们。我如果要画，记忆里的景象就得清晰之至，任何疏漏都不能容忍。\n\n于是众多画布把我围住，有些画完了，多数半途而废，一样刷着粉的柔和、蓝的精致。去画一幅真正的日出，我想，这就是我的毕生之事了。我要造就诸般场景，直至它们足够自然——岂能忽略一丝丝光影？——而日出之象，会是其中最壮观的。\n\n虽然不过是个梦想，还有些孩子气，但我总为之祈祷：如果我能画出一幅无可挑剔的日出，也许，有朝一日，我从长夜中醒来时，会有一种真实却又如同天国的景象，透过窗户，映入我的眼睛——那是黎明真切到来。\n\n这不正是最美好的景象吗?\n@@ @@\n@@ @@\n@@ @@\n@@ @@\n[[=image http://scp-wiki.wikidot.com/local--files/swatches-of-a-sunrise/pic1room.png]]\n@@ @@\n@@ @@\n@@ @@\n@@ @@\n[[include :scp-wiki-cn:component:license-box author=Flowerfirst]]\n=====\n> **Filename:** pic1room.png\n> **Author:** [[*user flowerfirst]]\n> **License:** CC BY-SA 3.0\n> **Source Link:** [https://scp-wiki.wikidot.com/swatches-of-a-sunrise SCP Foundation Wiki]\n=====\n[[include :scp-wiki-cn:component:license-box-end]]",
+  "tags": [
+    "夜幕降临",
+    "故事"
+  ],
+  "author": "Enterark_D",
+  "created_at": "2022-09-26T02:59:22+00:00",
+  "updated_at": "2023-10-09T06:56:07+00:00",
+  "rating": 8,
+  "_site": "scp-wiki-cn",
+  "_fullname": "swatches-of-a-sunrise"
+}

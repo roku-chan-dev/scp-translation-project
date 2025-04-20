@@ -1,0 +1,14 @@
+{
+  "title": "疑似タグ(トップ)",
+  "content": "[[iftags +コンポーネント]]\nこのユーザーコンポーネントのマニュアルページは[[[reference:tag|]]]です。\n----\n[[/iftags]]\n[[module css]]\n#page-content .page-tags span {\n    display: inline-flex;\n}\n#page-content .page-tags span br {\n  display: none;\n}\n[[/module]]\n[[div_ class=\"page-tags\"]]\n[[span]]",
+  "tags": [
+    "jp",
+    "コンポーネント"
+  ],
+  "author": "R74",
+  "created_at": "2023-01-27T10:32:17+00:00",
+  "updated_at": "2023-02-09T10:08:16+00:00",
+  "rating": 5,
+  "_site": "scp-jp",
+  "_fullname": "user-component:tag-top"
+}

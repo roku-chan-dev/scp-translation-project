@@ -1,0 +1,29 @@
+{
+  "title": "SCP-3002",
+  "content": "[[include info:start]]\n**SCP-3002:** 생각 암살 기도\n**저자:** [[*user MayD]]          \n**원작:** http://www.scp-wiki.net/scp-3002\n**역자:** [[*user Kaestine]]\n[[include info:end]]\n\n[!-- 이 페이지를 편집하면 판본을 보여주는 코드를 완전히 망쳐놓을 수 있습니다. 고쳐야 할 오류가 있다면, 번역가에게 메시지를 보내거나 토론 페이지에 댓글을 남겨주세요. --]\n\n[[module ListPages  category=\"fragment\" parent=\".\" limit=\"1\" order=\"created_at\" offset=\"@URL|0\"]]\n%%content%%\n[[/module]]\n\n[!-- http://scpko.wikidot.com/fragment:scp-3002-1 --]\n[!-- http://scpko.wikidot.com/fragment:scp-3002-2 --]\n[!-- http://scpko.wikidot.com/fragment:scp-3002-3 --]\n[!-- http://scpko.wikidot.com/fragment:scp-3002-4 --]",
+  "tags": [
+    "3000",
+    "en",
+    "k급-시나리오",
+    "scp",
+    "개념",
+    "기억조작",
+    "메타",
+    "밈적",
+    "비격리",
+    "아이리스-톰슨",
+    "재단이-만듦",
+    "적응",
+    "정보재해",
+    "정신조작",
+    "지성",
+    "케테르",
+    "현상"
+  ],
+  "author": "Kaestine",
+  "created_at": "2019-01-04T05:39:58+00:00",
+  "updated_at": "2024-11-01T14:08:26+00:00",
+  "rating": 20,
+  "_site": "scpko",
+  "_fullname": "scp-3002"
+}

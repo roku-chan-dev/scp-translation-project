@@ -1,0 +1,19 @@
+{
+  "title": "SCP-997-KO",
+  "content": "[[include info:start]]\n**SCP-997-KO:** 난해의 경계면\n**저자:** [[*user quilt]]\n\n[[[http://scpko.wikidot.com/title-contest-hub|별칭 경연]]] --투고작-- 우승작\n\n오프셋 사용에는 [[*user thd-glasses]]와 재단갤의 ainsopholr의 도움을 받았음.\n기술적 면에서 [[*user thd-glasses]]의 도움을 크게 받음(하단 투명링크)\n@@@@\n[[=]]\n[[[http://scpko.wikidot.com/quilt|###]]]\n[[/=]]\n\nhttp://scpko.wikidot.com//fragment:scp-997-ko-1 \nhttp://scpko.wikidot.com//fragment:scp-997-ko-2\n[[include info:end]]\n\n[[module ListPages  category=\"fragment\" parent=\".\" limit=\"1\" order=\"created_at\" offset=\"@URL|0\"]]\n%%content%%\n[[/module]]\n\n[!-- http://ko.scp-wiki.net//fragment:scp-997-ko-1 --]\n[!-- http://ko.scp-wiki.net//fragment:scp-997-ko-2 --]",
+  "tags": [
+    "2020-별칭경연",
+    "ko",
+    "scp",
+    "개념",
+    "난해한-등급",
+    "역설적",
+    "형이초학부"
+  ],
+  "author": "quilt",
+  "created_at": "2020-08-31T03:56:28+00:00",
+  "updated_at": "2022-08-20T03:24:09+00:00",
+  "rating": 58,
+  "_site": "scpko",
+  "_fullname": "scp-997-ko"
+}

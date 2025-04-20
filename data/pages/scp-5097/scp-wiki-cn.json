@@ -1,0 +1,21 @@
+{
+  "title": "SCP-5097",
+  "content": "[[module CSS]]\n.footnotes-footer {\n  display: none;\n}\n[[/module]]\n\n[[include theme:night-rush-theme]]\n\n[[include :scp-wiki:component:pride-highlighter |inc-s9-plgbt-alt= --]]]\n\n**异常编号：**SCP-5097\n\n**异常等级：**未收容\n\n**威胁级别：**绿\n\n**特殊收容措施：**若SCP-5097恢复现实，将对其予以严正惩戒，并安置到人形收容间内。\n\nSCP-5097留下的字条当前存放于异常项目锁柜内。\n\n**描述：**SCP-5097是前[[[somnambulant-directives-take-the-helm|高级研究员]]][[[hurt|Kassidy Kara]]]，其为非现实部成员[[footnote]]在编为SCP-5097前，Dr. Kara曾为基金会工作了六年。[[/footnote]]。于4/8/2020，Dr. Kara将自身移出了基准现实并暂时停止了存在。 \n\n**发现记录：**SCP-5097是在基金会.aic单元于4/9/2020的9:58 PM侦测到与Dr. Kara相关数据突然丢失[[footnote]]首先侦测到她的人员档案丢失。之后不久发现她对多个异常的报告为空白，之后她的SCiPnet账号失效。[[/footnote]]后被发现。同一时间，多名与Dr. Kara熟识的人员注意到她没有在站点周边活动，也无法访问到她的SCiPnet电邮。\n\n发起调查后，发现她的私人宿舍内已经彻底空置，只有一张字条留下（见附录）。字条针对何人不明。\n\n站点指挥部部署自动超常侦测程序后，在Dr. Kara的宿舍内辨识出少量剩余的[[[scp-5850|olf]]][[footnote]]用以量化反维度、反时空现象的假想性计量单位。Olf值接近0时与我们的现实运作相似。 [[/footnote]]剧烈波动。基于读数为这些波动建立了时间线，而后发现她在4/8/2020的约4:25AM时分离出基准现实。\n\nDr. Kara在4/10/2020被编为SCP-5097，此后不久其收容程序正式开始实施。 \n\n**附录：**SCP-5097留下的字条。 \n\n@@@@\n@@@@\n\n\n> 不好意思，我今天真的感觉不想来上班了。\n\n[[footnoteblock]]\n\n[[=]]\n[[div class=\"footer-wikiwalk-nav\" style=\"margin-top: 50px\"]]\n<< [[[SCP-5096]]] | [[[voidpage|VoidLady]]] | [[[SCP-5098]]] >>\n[[/div]]\n[[/=]]\n\n\n[[include :scp-wiki-cn:component:license-box\n|author=VoidLady]]\n=====\n[[include :scp-wiki-cn:component:license-box-end]]",
+  "tags": [
+    "scp",
+    "人形生物",
+    "反熵",
+    "基金会制",
+    "时空",
+    "未收容",
+    "机密分级",
+    "深井目录",
+    "非现实部"
+  ],
+  "author": "ashausesall",
+  "created_at": "2020-05-05T02:46:43+00:00",
+  "updated_at": "2023-01-30T14:33:36+00:00",
+  "rating": 10,
+  "_site": "scp-wiki-cn",
+  "_fullname": "scp-5097"
+}

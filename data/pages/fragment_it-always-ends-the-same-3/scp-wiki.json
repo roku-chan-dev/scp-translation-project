@@ -1,0 +1,13 @@
+{
+  "title": "It Always Ends The Same 3",
+  "content": "[[include :scp-wiki:theme:black-highlighter-theme]]\n[[include :scp-wiki:theme:extra-black-highlighter-theme]]\n\n[[module CSS]]\n#page-title{display:none}\n\n :root{\n     --link-color: 221, 17, 17;\n     --visited-link-color: 221, 17, 17;\n     --hover-link-color: 221, 102, 17;\n}\n[[/module]]\n\n\n[[=image tv.PNG]]\n\n> [[[scp-5733 | \"Hey you there, I don't know you, and I don't know why you've just sat there watching this without doing nothing but please, I'm begging you, help me out here. What can I do to survive this?\"]]]\n\nYou stare at the television screen. She doesn't know you, but you know her. You told yourself last time would be the **last** time, yet you're here again.\n\nAnd you're angry. You're angry that things never work out. You're angry that you can't save her. You're angry that she can't save herself.\n\nYou decide to use the feeling. The rage. Too many attempts at running, it's time to fight.\n\n[[table style=\"border-collapse:collapse; width: 100%;\"]]\n[[row]]\n[[cell style=\"font-weight:bold;padding: 1.0em 1.0em; text-align: center; border: 8px solid #141618; background-color: #a3a1a6; width: 50%;\"]]\n[[[https://scp-wiki.wikidot.com/it-always-ends-the-same/offset/4 | Tell her to pick up the gardening shears in the basement and make her way upstairs.]]]\n[[/cell]]\n[[cell style=\"font-weight:bold;padding: 1.0em 1.0em; text-align: center; border: 8px solid #141618; background-color: #a3a1a6; width: 50%;\"]]\n[[[https://scp-wiki.wikidot.com/it-always-ends-the-same/offset/5 |Tell her to make her way upstairs and pick up a kitchen knife.]]]\n[[/cell]]\n[[/row]]\n[[/table]]",
+  "tags": [
+    "fragment"
+  ],
+  "author": "Dysadron",
+  "created_at": "2023-04-03T20:54:23+00:00",
+  "updated_at": "2023-04-03T21:37:05+00:00",
+  "rating": 0,
+  "_site": "scp-wiki",
+  "_fullname": "fragment:it-always-ends-the-same-3"
+}

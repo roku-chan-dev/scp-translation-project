@@ -1,0 +1,15 @@
+{
+  "title": "有东西烧起来了",
+  "content": "[[include :scp-wiki-cn:theme:black-highlighter-theme]]\n[[include :scp-wiki:component:bhl-dark-sidebar]]\n[[include :scp-wiki:component:centered-header-bhl]]\n\n[[module CSS]]\n:root:lang(cn) {\n     --header-title: \"SITE-37\";\n     --header-subtitle: \"出问题的早餐\";\n    --bright-accent: 151, 206, 142;\n    --medium-accent: 151, 206, 142;\n    --dark-accent: 151, 206, 142;\n}\n[[/module]]\n\n[[include :scp-wiki-cn:component:interwiki-style\n| priority=1\n| type=sidebar\n| theme=https://scp-wiki.wdfiles.com/local--code/component%3Abhl-dark-sidebar/1\n]]\n\n[[include :scp-wiki-cn:component:interwiki-style\n| priority=2\n| type=sidebar\n| css=%3Aroot%7B--bright-accent%3A151%2C206%2C142%3B--medium-accent%3A151%2C206%2C142%3B--dark-accent%3A151%2C206%2C142%7D\n]]\n\n[[=]]\n\n好像有热气传来。\n燃烧着，燃烧着。\n我操，真的好热。\n将我的肺部都堵满。\n好像有烟雾飘来。\n翻腾着，翻腾着。\n妈的，真的好热。\n将我的喉咙都扼紧。\n\n真见鬼啊，大哥。\n这是啥啊，大哥？\n有东西烧起来了，大哥。\n有东西烧起来了，大哥。\n\n好像有余火的味道。\n灰烬，灰烬。\n我天啊，真的好热。\n我的眼睛流出泪来。\n好像有煤灰的味道。\n火焰，火焰。\n呃呃啊，真的好热。\n烟尘正在四散扬起。\n\n我的天啊，大哥。\n真糟糕啊，大哥。\n有东西烧起来了，大哥。\n什么鬼烧起来了，大哥？\n\n大哥。大哥，我的天啊。\n有东西烧起来了。\n不知道为何但是，\n有东西烧起来了。\n等一下子。\n等一下子。\n火焰正滚滚而来，\n从那厨房中烧来。\n\n等会，等会。\n等会，拿着\n那台手机。\n什么东西烧起来了？\n\n…\n\n…\n\n…\n\n哦，是我的面包片。\n我烤焦了我的面包。\n我的面包被烤焦了。\n有东西烧起来了。\n没错，是我的面包。\n在一条奇怪的消息之后\n就突然被烤焦了。\n\n烤焦的面包片。\n烤焦的面包片。\n它说什么？\n它说什么？\n它说……\n\n…\n\n…\n\n它说“滚你妈的。”\n\n我靠。\n@@ @@\n\n@@ @@\n\n@@ @@\n[[image https://scp-wiki.wikidot.com/local--files/something-burning/toasted width=\"400px\"]]\n\n@@ @@\n\n[[size 75%]]//另外，我他妈的烤面包机去哪了？//[[/size]]\n[[/=]]\n~~~~\n@@ @@\n\n@@ @@\n[[include :scp-wiki:component:earthworm\n| first=false | last=false | hub=no\n| previous-url=https://scp-wiki.wikidot.com/nial-must-be-flushed | previous-title=#Nial必须被冲走\n| next-url=https://scp-wiki-cn.wikidot.com/alight | next-title=亮灯\n| hub-url=/ | hub-title=家电战争\n]]\n@@ @@\n\n@@ @@\n\n[[=]]\n[[include :scp-wiki-cn:component:license-box\n|author=winkwonkboi]]\n=====\n> **文件名：**toasted\n> **图像名：**Random slice of toast\n> **图像作者：**Peter O'Connor aka anemoneprojectors\n> **授权协议：**CC BY-SA 2.0\n> **来源链接：**[https://www.flickr.com/photos/58414938@N00/3534597062 Flickr]\n> **附注：**由 [[*user Barbarous Bread]] 编辑\n=====\n[[include :scp-wiki-cn:component:license-box-end]]\n[[/=]]",
+  "tags": [
+    "家电战争",
+    "故事",
+    "诗歌"
+  ],
+  "author": "hoah2333",
+  "created_at": "2023-08-02T14:17:41+00:00",
+  "updated_at": "2023-09-08T03:44:21+00:00",
+  "rating": 2,
+  "_site": "scp-wiki-cn",
+  "_fullname": "something-burning"
+}

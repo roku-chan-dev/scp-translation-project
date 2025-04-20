@@ -1,0 +1,13 @@
+{
+  "title": "Foundations-4",
+  "content": "----\n\n= **[[[http://www.scp-wiki.net/foundations/offset/2|PREVIOUS]]]**\n\n----\n\n[[div style=\"color: black; font-family: Courier; font-weight: bold; background:#DFFFF3; float: center; border: solid 1px #000000; padding: 15px 15px; box-shadow: 0 1px 3px rgba(0,0,0,.2); width: 84%; margin: 4% 4% 4% 4%\"]]\n[[table style=\"border: none; width: 100%;\"]]\n[[row]]\n[[cell]]\nProfessor Gregory Cabenwald\n[[/cell]]\n[[cell style=\"text-align: right;\"]]\nMay 15th, 1916\n[[/cell]]\n[[/row]]\n[[row]]\n[[cell]]\nThe Skeptics' Club of Philadelphia\n[[/cell]]\n[[/row]]\n[[/table]]\n\n\nDear Professor Cabenwald:  \n\n@@     @@The hardest part proved to be securing the polonium. Its scarcity (a consequence of its brief half-life) makes it prohibitively expensive. Robert nevertheless succeeded in acquiring a sufficient amount.\n@@     @@The contraption itself is a lead-shielded mechanism that, when triggered, exposes the polonium and produces a ray of alpha particles from its very tip. It is automated and, as per your suggestion, powered by two Leclanché cells. A punch-tape feed controls the trigger mechanism, allowing us to loop a pattern for as long as our supply of polonium lasts.\n@@     @@Given the content of the arriving message, we decided to escalate the stakes: We transmitted the first //seven// primes. Immediately after our first loop completed, the anomaly ceased to emit any detectable trace of radiation. \n@@     @@Several seconds after that, it resumed emitting radiation at a far more furious pace.\n@@     @@What we recorded was a series of dense clusters of brief pulses and long bands. It lasted for approximately two minutes before ceasing. Upon examination, I could make neither heads nor tails of it -- Robert, however, recognized it instantly. He worked in the telegraph office at South Station as a young boy. There, he learned to read Morse as plainly as reading a book. \n@@     @@The message was written in English. It informed us to stand by for a second transmission that will commence two weeks from now. This message will exceed five million characters, and thus shall require approximately two hundred and sixty days to complete. \n@@     @@I jested to Robert that we may need an additional roll of paper.\n\nEagerly awaiting your arrival, \n@@     @@Mrs. Annette Lang-Scranton\n\n[[/div]]\n\n----\n\n= **[[[http://www.scp-wiki.net/foundations/offset/4|NEXT]]]**\n\n----",
+  "tags": [
+    "fragment"
+  ],
+  "author": "The Great Hippo",
+  "created_at": "2018-09-08T10:00:46+00:00",
+  "updated_at": "2020-06-25T20:00:08+00:00",
+  "rating": 0,
+  "_site": "scp-wiki",
+  "_fullname": "fragment:foundations-4"
+}

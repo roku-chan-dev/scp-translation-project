@@ -1,0 +1,13 @@
+{
+  "title": "Tales Hub (Redirect)",
+  "content": "[[module Redirect destination=\"foundation-tales\"]]",
+  "tags": [
+    "redirect"
+  ],
+  "author": "EstrellaYoshte",
+  "created_at": "2022-12-24T03:42:20+00:00",
+  "updated_at": "2022-12-24T03:43:02+00:00",
+  "rating": 1,
+  "_site": "scp-wiki",
+  "_fullname": "tales"
+}

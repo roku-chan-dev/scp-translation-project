@@ -1,0 +1,21 @@
+{
+  "title": "SCP-5018",
+  "content": "[!-- 随意编辑这个页面的内容可能造成文档迭代系统的彻底崩溃。请绝对不要编辑这个页面。 --]\n[!-- 如果您在阅读过程中发现需要勘误或修改之处，请用站内信与译者（LeafJensen）联系。 --]\n\n[[module CSS]]\n@keyframes blink {\n    0% { color: transparent; }\n    50%, 100% { color: #b01; }\n}\n.email {float: center; border: solid 2px #000000; width: 88%; padding: 1px 15px; margin: 10px 10px 10px 10px; box-shadow: 0 1px 3px rgba(0,0,0,.5)}\na.collapsible-block-link { font-weight: bold; }\n.tofrom {margin-left: 10px; margin-top: 5px; padding: 1px 15px; border-left: solid 3px #000098}\n\n.dblock:hover {background: #f4f4f4}\n\n.danke{\npadding: 5px 5px 5px 15px;\nmargin-bottom:10px;\nwidth: auto;\nfont-family: monospace;\nfont-size: 1.1em; }\n\n.agent{\nbackground-color:#002200;\nborder: 3px solid #55AA55;\ncolor: #77CC77;\n}\n\n.site{\nbackground-color:#222200;\nborder: 3px solid #AAAA55;\ncolor: #DDDD77;\n}\n\n.clpcolor a.collapsible-block-link {\ncolor: #1A8718;\n}\n\n}\n\n::-webkit-scrollbar-thumb\n{\n  background: #6a6c6e;\n}\n[[/module]]\n[[include :scp-wiki-cn:theme:turbo-vision]]\n\n[[include :scp-wiki-cn:credit:start-standalone]]\n\n**作者：**[[*user JakdragonX]] - [[*user IronDruid]]\n**CN 译者：**[[*user LeafJensen]]\n@@ @@\n**标题：**SCP-5018 - “破碎玫瑰凋零。”\n@@ @@\n**其它作品：**\n* [[[SCP-5150]]] - \"Anomalous Dental Office.\"\n* [[[SCP-4983]]] - \"The Lost Storyteller.\"\n\n* [[[d-a-r-e-drugs-are-really-extreme|D.A.R.E (Drugs Are Really Extreme!)]]]\n[[=]]\n[[collapsible show=\"SCP-5018 Fanart （包含剧透）\" hide=\"谢谢创作！\"]]\n[[/=]]\n\n[[image https://scp-wiki.wdfiles.com/local--files/scp-5018/5018.gif]]\n原作者 [[*user Aethris]] 在 CC BY-SA 3.0 许可下发布的作品。\n[[image https://scp-wiki.wdfiles.com/local--files/scp-5018/Yossi1]]\n[[image https://scp-wiki.wdfiles.com/local--files/scp-5018/Yossi2]]\n原作者 [[*user Yossipossi]] 在 CC BY-SA 3.0 许可下发布的作品。\n\n感谢所有绘制这些作品的人！它们都是令人惊叹的作品，看到它们我们真的很高兴！\n\n如果你创作了任何有关 SCP-5018 的东西，或者如果上面提供的信息不正确，请与 [[*user JakdragonX]] 或 [[*user IronDruid]] 联系。\n\n谢谢大家！\n[[/collapsible]]\n\n[[include :scp-wiki-cn:credit:end-standalone]]\n\n[!--\n段落页\nhttps://scp-wiki-cn.wikidot.com/fragment:scp-5018-1\nhttps://scp-wiki-cn.wikidot.com/fragment:scp-5018-2\n--]\n\n[[module ListPages category=\"fragment\" parent=\".\" limit=\"1\" order=\"name\" offset=\"@URL|0\"]]\n%%content%%\n[[/module]]\n\n[[footnoteblock]]\n\n[[div class=\"footer-wikiwalk-nav\"]]\n[[=]]\n<< [[[SCP-5017]]] | SCP-5018 | [[[SCP-5019]]] >>\n[[/=]]\n[[/div]]\n\n[[include :scp-wiki-cn:component:license-box\n|author=JakdragonX, IronDruid\n]]\n=====\n> **文件名：***https://scp-wiki.wdfiles.com/local--files/fragment%3Ascp-5018-1/office.jpg?ts=1578950239\n> **图像作者：**Nikita Kachanovsky\n> **授权协议：**Unsplash\n> **来源链接：***https://images.unsplash.com/photo-1510519138101-570d1dca3d66?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=1031&q=80\n=====\n[[include :scp-wiki-cn:component:license-box-end]]",
+  "tags": [
+    "5000",
+    "euclid",
+    "scp",
+    "合著",
+    "感知力",
+    "电子",
+    "病毒",
+    "自我复制",
+    "音频"
+  ],
+  "author": "LeafJensen",
+  "created_at": "2020-05-03T05:30:48+00:00",
+  "updated_at": "2023-01-30T10:58:57+00:00",
+  "rating": 9,
+  "_site": "scp-wiki-cn",
+  "_fullname": "scp-5018"
+}

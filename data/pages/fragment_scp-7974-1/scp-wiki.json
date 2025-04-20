@@ -1,0 +1,13 @@
+{
+  "title": "SCP-7974 Fragment 1",
+  "content": "[[include :scp-wiki:theme:simple-yonder]]\n\n[[include :scp-wiki:component:image-features-source |hover-enlarge=--]\n|enlarge-amount=6\n|speed=200 \n|float=true\n|align=left\n|width=300px\n|url=http://scp-wiki.wikidot.com/local--files/fragment:scp-7974-1/Ian%20Dice.jpg\n|add-caption=true\n|caption=A 20-sided die or D20]]\n\n[[html]]\n<html>\n<head>\n    <title>Dice Simulator 2015</title>\n    <link rel=\"stylesheet\" h* {\n  font-family: Helvetica;\n  text-align: center;\n}\nbutton {\n  background-color: rgb(82, 186, 179);\n  border-radius: 6px;\n  border: none;\n  color: rgb(255, 255, 255);\n  padding: 10px;\n  text-transform: uppercase;\n  width: 200px;\n  cursor: pointer;\n}\n#placeholder {\n  height: 100px;\n  width: 100px;\n  padding: 50px;\n  margin: 50px auto;\n  border: 1px solid gray;\n  border-radius: 10px;  \n  font-size:80px;\n}ref=\"style.css\">\n</head>  \n<body>\n  <p id=\"placeholder\">\n  \n  </p>\n  <button id=\"button\">Roll Dice</button>\n  <script>\nvar dice = {\n  sides: 20,\n  roll: function () {\n    var randomNumber = Math.floor(Math.random() * this.sides) + 1;\n    return randomNumber;\n  }\n};\n\n//Prints dice roll to the page\n\nfunction printNumber(number) {\n  var placeholder = document.getElementById(\"placeholder\");\n  placeholder.innerHTML = number;\n}\n\nvar button = document.getElementById(\"button\");\n\nbutton.onclick = function () {\n  var result = dice.roll();\n  printNumber(result);\n};\n</script>\n</body>\n</html>\n[[/html]]\n\n[[div style=\"margin:0; width:250px;\"]]\n|| [[[fragment:scp-7974-2 |1]]] || [[[fragment:scp-7974-3 |2]]] || [[[fragment:scp-7974-3 |3]]] || [[[fragment:scp-7974-3 |4]]] ||\n|| [[[fragment:scp-7974-3 |5]]] || [[[fragment:scp-7974-4 |6]]] || [[[fragment:scp-7974-4 |7]]] || [[[fragment:scp-7974-4 |8]]] ||\n|| [[[fragment:scp-7974-4 |9]]] || [[[fragment:scp-7974-5 |10]]] || [[[fragment:scp-7974-5 |11]]] || [[[fragment:scp-7974-5 |12]]] ||\n|| [[[fragment:scp-7974-5 |13]]] || [[[fragment:scp-7974-6 |14]]] || [[[fragment:scp-7974-6 |15]]] || [[[fragment:scp-7974-5 |16]]] ||\n|| [[[fragment:scp-7974-7 |17]]] || [[[fragment:scp-7974-7 |18]]] || [[[fragment:scp-7974-7 |19]]] || [[[fragment:scp-7974-8 |20]]] ||\n[[/div]]",
+  "tags": [
+    "fragment"
+  ],
+  "author": "RoweLucian",
+  "created_at": "2022-07-31T16:55:57+00:00",
+  "updated_at": "2022-09-07T01:23:31+00:00",
+  "rating": 0,
+  "_site": "scp-wiki",
+  "_fullname": "fragment:scp-7974-1"
+}

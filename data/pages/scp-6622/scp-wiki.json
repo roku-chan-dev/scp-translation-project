@@ -1,0 +1,26 @@
+{
+  "title": "SCP-6622",
+  "content": "[[include :scp-wiki:theme:blankstyle]]\n\n[[>]]\n[[module Rate]]\n[[/>]]\n@@@@\n[[include :scp-wiki:component:author-label-source start=--\n|name=bigslothonmyface\n|no-right-margin=*]]\nWritten by [[*user bigslothonmyface]]\nYou can find more of their work on their [[[https://scp-wiki.wikidot.com/bigslothonmyface-author-page |author page.]]]\n[[include :scp-wiki:component:author-label-source end=--]]\n\n[[include :scp-wiki:component:anomaly-class-bar-source\n|item-number= SCP-6622\n|clearance= 4\n|container-class= esoteric\n|secondary-class= archon\n|secondary-icon= http://scp-wiki.wdfiles.com/local--files/component%3Aanomaly-class-bar/archon-icon.svg\n|disruption-class=dark\n|risk-class=notice\n]]\n\n----\n\n[[div class=\"scp-image-block block-center\" style=\"width:100%;\"]]\n[[image https://scp-wiki.wdfiles.com/local--files/scp-6622/6622-lodge.jpeg style=\"width:100%;\" link=https://scp-wiki.wdfiles.com/local--files/scp-6622/6622-lodge.jpeg]]\n[[div class=\"scp-image-caption\" style=\"width:100%;\"]]\nSCP-6622-B-4, currently powering 96% of the Vancouver, B.C., metropolitan area.\n[[/div]]\n[[/div]]\n\n----\n\n**Special Containment Procedures:** MTF Omega-43 (\"Leave It To Beavers\") is tasked both with limiting public awareness of SCP-6622 and grounding 6622-B instances until nearby systems can accommodate them. Beyond this, containment is limited to regular feeding and care for 6622-A instances in high-risk regions.\n\nWhen possible, newly-commissioned Foundation facilities are to be built in areas already serviced by SCP-6622 infrastructure.\n\n**Description:** SCP-6622-A is a subgroup of American beavers (//Castor canadensis//) which builds and maintains SCP-6622-B. Only 6622-A instances will interact with 6622-B; non-anomalous beavers will not approach.\n\nSCP-6622-B are beaver dams and lodges which generate electricity via unknown and abnormally-efficient means. Each instance continuously outputs 6,800 MW.[[footnote]] Approximately the peak electrical demand of the city of Los Angeles.[[/footnote]] Presently, the Foundation knows of 12 distinct 6622-B instances.\n\nPower produced by SCP-6622-B is distributed into manmade electrical infrastructure via fairy rings, tree roots, and other naturally-occurring pathways, entering said infrastructure at any point where it contacts fertile soil. Discovering the mechanism behind this transmission is a Beta-level research priority.\n\nSCP-6622-A instances often dam at remote or inopportune locations. MTF Omega-43 has partially incorporated 6622-B instances into the electrical grids of 96 cities, but gigawatts of power are wasted each month both in preventing grid overload and the Foundation's inability to transmit more power to high-demand areas. Developing better regulatory infrastructure for SCP-6622 is an Alpha-level research priority.\n\nAttempts to establish SCP-6622-A captive breeding programs have failed, as has relocation of wild colonies—instances construct non-anomalous dams. Reproducing the anomaly in a controlled setting is an Omega-level research priority.\n\n[[include component:image-block name=https://scp-wiki.wdfiles.com/local--files/scp-6622/6622-beaver.jpeg|width=300px|caption=SCP-6622-A-41, shortly after its scheduled feeding.]]\n\n**Discovery:** On 11/10/2020, Site-43 experienced catastrophic power overload. The first-known SCP-6622 lodge was later found on the Ausable River 5.8km away.\n\nOver a period of nine months, Janitorial and Maintenance Section Chief Amelia Torosyan was able to convert the Site to rely exclusively on SCP-6622 for electricity. Torosyan's initial designs have formed the basis for SCP-6622 transmission systems worldwide, preventing an estimated 450 megatons of CO2 emissions since implementation.\n\n**Afterword:** Upon entering the Site-43 main power station on 8/3/2021, Chief Torosyan found on her workbench a pile of dried mud and twigs crudely molded into a heart. Torosyan's request to keep the sculpture in her personal quarters was approved.\n\n@@ @@\n\n@@ @@\n[[=]]\n\n[[include component:wikimodule |normal= --]]]\n\n\n[[include :scp-wiki:component:license-box]]\n=====\n> **Filename: 6622-lodge** \n> **Author: paulyang**\n> **License: CC BY-SA 3.0**\n> **Source Link: https://nl.wikipedia.org/wiki/Bevers_(geslacht)#/media/Bestand:Beaver_dam_in_super_national_forest.JPG**\n=====\n> **Filename: 6622-beaver** \n> **Author: steve from washington, dc, usa**\n> **License: CC BY-SA 2.0**\n> **Source Link: https://en.wikipedia.org/wiki/Beaver#/media/File:American_Beaver.jpg**\n=====\n[[include :scp-wiki:component:license-box-end]]\n[[/=]]\n\n[[div class=\"footer-wikiwalk-nav\"]]\n[[=]]\n<< [[[SCP-6621]]] | SCP-6622 | [[[SCP-6623]]] >>\n[[/=]]\n[[/div]]",
+  "tags": [
+    "_cc",
+    "_licensebox",
+    "alive",
+    "animal",
+    "archon",
+    "ectoentropic",
+    "electrical",
+    "featured",
+    "on-guard-43",
+    "plant",
+    "rodent",
+    "scp",
+    "structure",
+    "tree"
+  ],
+  "author": "bigslothonmyface",
+  "created_at": "2021-09-05T16:31:08+00:00",
+  "updated_at": "2022-10-08T18:09:12+00:00",
+  "rating": 353,
+  "_site": "scp-wiki",
+  "_fullname": "scp-6622"
+}

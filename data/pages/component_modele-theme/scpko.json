@@ -1,0 +1,14 @@
+{
+  "title": "테마 페이지 템플릿 구성요소",
+  "content": "[[iftags +템플릿 -테마]]\n\n테마 페이지의 필수요소를 더욱 손쉽게 표출시켜 주는 템플릿입니다.\n\n+ 사용법\n\n이하 변수들은 여러분의 테마가 특별히 변형하는 요소만 선택해서 테마 페이지에 그 요소가 표출되도록 설정하실 수 있습니다. 기본값은 비활성 상태로, 아래의 코드를 복붙할 때 필요없는 변수를 지우면 됩니다. 필요한 변수는 \"block\"을 그대로 유지해 주세요.\n* **notation**: 평가 및 정보 모듈입니다.\n* **liens**: 방문하지 않은 / 방문한 / 존재하지 않는 링크를 표시합니다.\n* **footnote**: 주석입니다.\n* **image**: 보고서에서 쓰는 [[[component:image-block|이미지 블록]]]입니다.\n* **titres1/2/3/4/5/6**: 제목 1 ~ 6단계 (+ 붙여서 만드는 그거) 입니다. \"titres\" 옆에 표출하고 싶은 단계만큼의 숫자를 붙여주세요. **이 변수들은 최대 1개까지만 써 주세요.**\n* **onglets**: 탭뷰입니다.\n* **citations**: 면담 기록이나 탐사 일지에서 쓰는 인용 블록입니다.\n* **tableau**: 표입니다.\n물론 이 템플릿에서 다루지 않는 다른 요소들도 테마 페이지 적당한 곳에 따로 적어두실 수 있습니다.\n\n[[div class=\"blockquote\"]]\n@@[[include :scpko:component:modele-theme@@\n|**notation**=block\n|**liens**=block\n|**footnote**=block\n|**image**=block\n|**titres1/titres2/titres3/titres4/titres5/titres6**=block\n|**onglets**=block\n|**citations**=block\n|**tableau**=block\n@@]]@@\n[[/div]]\n\n[[/iftags]]\n\n[[include :scpko:component:modele-theme-base\n|notation={$notation}\n|notation=none\n|liens={$liens}\n|liens=none\n|footnote={$footnote}\n|footnote=none\n|image={$image}\n|image=none\n|titres1={$titres1}\n|titres1=none\n|titres2={$titres2}\n|titres2=none\n|titres3={$titres3}\n|titres3=none\n|titres4={$titres4}\n|titres4=none\n|titres5={$titres5}\n|titres5=none\n|titres6={$titres6}\n|titres6=none\n|onglets={$onglets}\n|onglets=none\n|citations={$citations}\n|citations=none\n|tableau={$tableau}\n|tableau=none\n]]",
+  "tags": [
+    "fr",
+    "템플릿"
+  ],
+  "author": "XCninety",
+  "created_at": "2021-08-29T10:20:06+00:00",
+  "updated_at": "2021-08-29T10:20:40+00:00",
+  "rating": 0,
+  "_site": "scpko",
+  "_fullname": "component:modele-theme"
+}

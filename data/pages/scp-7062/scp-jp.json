@@ -1,0 +1,17 @@
+{
+  "title": "SCP-7062",
+  "content": "[[module css]]\n.page {\n    display: block;\n    overflow: hidden;\n    font-family: \"Monotype Corsiva\", \"Bradley Hand ITC\", sans-serif;\n    font-style: normal;\n    background-attachment: scroll;\n    background-clip: border-box;\n    background-color: transparent;\n    background-image: linear-gradient(to top ,rgb(202, 219, 228) 0%, rgb(231, 233, 220) 8%);\n    background-origin: padding-box;\n    background-position: 0px 8px;\n    background-repeat: repeat;\n    background-size: 100% 20px;\n    border: 1px solid #CCC;\n    border-radius: 10px;\n    padding: 10px 10px;\n    margin-bottom: 10px;\n    box-shadow: 0px 1px 3px rgba(0, 0, 0, 0.2)\n}\n.page p,\n.page ul {\n    line-height: 20px;\n    margin: 0;\n}\n[[/module]]\n[[module CSS]]\n@import url('https://fonts.googleapis.com/css?family=Nanum+Brush+Script');\n[[/module]]\n\n\n[[include :scp-jp:credit:start]]\n**原題:** SCP-7062 - A Heart Run Dry\n**タイトル:** SCP-7062 - 涙枯れた心\n**著者:** [[*user Voiiiii]]\n**翻訳者:** [[*user kihaku]]\n**元記事投稿日:** 2022 \n**翻訳年:** 2023\n[[include :scp-jp:credit:end]]\n\n\n[[include :scp-jp:component:anomaly-class-bar-source\n|item-number= 7062\n|clearance= 2\n|container-class= neutralized\n|secondary-class= none\n|secondary-icon=\n|disruption-class=\n|risk-class=\n]]\n\n**特別収容プロトコル:** 収容プロトコルは不要です。\n\n**説明:** SCP-7062は、詩人であり元財団所属の研究員であるライラ・ベッカーに関連する異常現象の総称です。SCP-7062-Aはベッカー博士の乾燥した血液が詰まっているインク瓶です。SCP-7062-Bはベッカー博士の心臓であり、体から完全に分離されているにも関わらず正常に機能しています。\n\n**回収記録:** SCP-7062は1998年8月9日、自宅の机で死亡しているベッカー博士が発見された現場で、無力化された状態で回収されました。ベッカー博士が居住していたアパートを捜索した結果、SCP-7062-AとSCP-7062-Bが、血液で書かれたいくつかの詩と共にベッカー博士の机から発見されました。検視官の報告によれば、ベッカー博士は急性たこつぼ型心筋症[[footnote]]ストレスの影響により心臓の左心室が弛緩する症状[[/footnote]]を発症したことにより死亡したと結論付けられました。ベッカー博士の死体とともに、通常のインクで書かれたメモが机上から発見されました。以下はメモの内容の転記です。\n\n[[div class=\"page\"]]\n[[size larger]]座りこむ　私はここでただ独り\n全ては冷たく暗晦で\nあなたを待つ　鳴らない電話を手に取り\nあなたはあの日の光彩で\n涙が一筋迹を描く\n真白き鳥を思い出した　あなたの美への　旧懐の末\n影をあなたの迹に見る\n今になって思い知った　この痛みは　 [[span style=\"color: transparent; text-shadow: 0 0 7px rgba(0,0,0,.5)\"]]愛の故[[/span]][[/size]]\n[[/div]]\n\nメモの文字は徐々に可読性が悪化しており、メモの最後に記された文字は涙により判読がほぼ不可能でした。\n\n[[footnoteblock]]",
+  "tags": [
+    "en",
+    "neutralized",
+    "scp",
+    "生物学",
+    "血液"
+  ],
+  "author": "kihaku",
+  "created_at": "2023-03-05T15:45:36+00:00",
+  "updated_at": "2024-02-21T12:09:01+00:00",
+  "rating": -16,
+  "_site": "scp-jp",
+  "_fullname": "scp-7062"
+}

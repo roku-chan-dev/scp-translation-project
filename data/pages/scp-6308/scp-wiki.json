@@ -1,0 +1,28 @@
+{
+  "title": "SCP-6308",
+  "content": "[[>]]\n[[module rate]]\n[[/>]]\n[[module ListPages category=\"fragment\" parent=\".\" limit=\"1\" order=\"name\" offset=\"@URL|0\"]]\n\n%%content%%\n[[/module]]\n\n[[footnoteblock]]\n\n[[div class=\"footer-wikiwalk-nav\"]]\n[[=]]\n<< [[[SCP-6307]]] | SCP-6308 | [[[SCP-6309]]] >>\n[[/=]]\n[[/div]]\n\n\n\n[[include :scp-wiki:component:license-box]]\n=====\n> **Filename:** minesCheque.jpg\n> **Name:** Q.Q. Mines cheque Southern Rhodesia 1940.jpg\n> **Author:** Barclays Bank and Government of Southern Rhodesia\n> **License:** Public Domain\n> **Source Link:** [[[https://commons.wikimedia.org/wiki/File:Q.Q._Mines_cheque_Southern_Rhodesia_1940.jpg|Wikimedia Commons]]]\n=====\n[[include :scp-wiki:component:license-box-end]]",
+  "tags": [
+    "_cc",
+    "_licensebox",
+    "_listpages",
+    "alive",
+    "antimemetic",
+    "extradimensional",
+    "geological",
+    "historical",
+    "humanoid",
+    "location",
+    "portal",
+    "safe",
+    "sapient",
+    "scp",
+    "spatial",
+    "temporal"
+  ],
+  "author": "Zihao Huang",
+  "created_at": "2022-04-05T05:24:40+00:00",
+  "updated_at": "2023-01-03T10:08:35+00:00",
+  "rating": 19,
+  "_site": "scp-wiki",
+  "_fullname": "scp-6308"
+}

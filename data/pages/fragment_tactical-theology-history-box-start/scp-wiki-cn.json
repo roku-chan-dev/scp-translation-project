@@ -1,0 +1,13 @@
+{
+  "title": "Tactical Theology History Box Start",
+  "content": "[[div style=\"position: relative; margin-top: calc({$distance}rem - {$arrowoffset}rem)\"]]\n[[div class=\"history-child history-child-{$float} history-child-{$variation}\" style=\"margin-top: calc({$arrowoffset}rem + 10px)\"]]\n[[div class=\"history-splash-box\"]]\n[[div]]\n[[span class=\"history-child-title\"]]**{$name}**[[/span]]\n[[span class=\"history-child-date\"]]{$date}[[/span]]\n[[/div]]\n\n[[size 90%]]{$summary}[[/size]]\n\n[[/div]]\n[[div class=\"history-text\"]]",
+  "tags": [
+    "段落"
+  ],
+  "author": "ashausesall",
+  "created_at": "2024-01-06T07:27:20+00:00",
+  "updated_at": "2024-04-29T04:18:45+00:00",
+  "rating": 0,
+  "_site": "scp-wiki-cn",
+  "_fullname": "fragment:tactical-theology-history-box-start"
+}

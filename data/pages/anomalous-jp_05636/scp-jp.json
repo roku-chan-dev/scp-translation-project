@@ -1,0 +1,15 @@
+{
+  "title": "05636",
+  "content": "content: \"[[module ListUsers users=\\\".\\\"]]\\n**説明:** %%name%%の時計。常に3分ほど進んでいる。\\n**回収日:** 20██/██/██\\n**現状:** %%name%%の頭の中に収容中\\n**追記:** 発見してしばらく経つのに針が綺麗ですね -██研究員\\nそうだな。大抵は計時とともにグチャグチャになるもんだが -██主任\\n[[/module]]\"\ntf2: '0'\nauthor: ''\nredirect-b: '[[module Redirect destination=\"http://scp-jp.wikidot.com/log-of-anomalous-items-jp'\nredirect-e: '\"]]'",
+  "tags": [
+    "jp",
+    "剪定対象-子",
+    "合作記事剪定通知"
+  ],
+  "author": "kanayura",
+  "created_at": "2025-03-17T02:21:26+00:00",
+  "updated_at": "2025-04-02T15:24:50+00:00",
+  "rating": -18,
+  "_site": "scp-jp",
+  "_fullname": "anomalous-jp:05636"
+}

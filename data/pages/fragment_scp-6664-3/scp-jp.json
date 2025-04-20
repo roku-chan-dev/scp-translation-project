@@ -1,0 +1,14 @@
+{
+  "title": "SCP-6664 3",
+  "content": "[[include :scp-jp:theme:black-highlighter-theme]]\n\n[[module CSS]]\n\n:root {\n    --logo-image: url(\"http://scp-jp-storage.wikidot.com/local--files/file:2375337-1203-uhvt/ProjectHecaWhiteSmall.png\");\n    --header-title: \"Site-91\";\n    --header-subtitle: \"特異生物学研究\";\n}\n\n/* Adjust Mobile Image Size */\n@media (max-width: 479px) {\n#header {\n    background-size: 100px 100px;\n    background-position: 1em;\n}\n}\n\n[[/module]]\n\n[[include :scp-wiki:component:bhl-dark-sidebar]]\n\n[[include :scp-wiki:component:toggle-sidebar-bhl]]\n\n[[include :scp-wiki:component:acs-animation]]\n\n[[div class=\"blockquote\"]]\n//最初の文書からの変更点は##blue|青字##で強調表示されています。//\n\n[[/div]]\n\n[[include :scp-jp:component:anomaly-class-bar-source\n\n    |item-number= 6664\n\n    |clearance= 1\n\n    |container-class= safe\n\n    |secondary-class= none\n\n    |disruption-class= vlam\n\n    |risk-class= caution\n\n    ]]\n\n-----\n\n[[include component:image-block name=http://scp-jp-storage.wikidot.com/local--files/file:2375337-1204-vlsq/treeIV.jpg|align=center|width=100%|caption=収容以前のSCP-6664。]]\n\n-----\n\n**特別収容プロトコル:** SCP-6664は##blue|サイト-91##の温室に収容されます。枝を傷付ける恐れがあるため、SCP-6664に登ることは許可されません。\n\n**説明:** SCP-6664は //##blue|Prunus spinosa##// 、より一般的には##blue|スピノサスモモ##と呼ばれる植物種の樹木であり、現在は##blue|サイト-91##に位置しています。その異常性を除いて、SCP-6664は同種の樹木と同一です。\n\nSCP-6664の異常性は、##blue|人間にその棘が刺さる##時に活性化します。##blue|人間にSCP-6664の棘が刺さると##、通常予想されるように##blue|不快感または痛みを感じる##代わりに、##blue|対象者は強烈な多幸感と重度の幻聴を経験します。この幻聴##はSCP-6664-1と指定されています。\n\nSCP-6664-1は##blue|SCP-6664の影響を受けている人物が知覚する幻聴##です。SCP-6664-1##blue|は複数の声 (通常は対象者に近しい人々のもの) から成り、SCP-6664に刺されるという対象者の決断を称賛します。これは対象者がSCP-6664に刺されることを実際に自分の意志で決めたか否かに関係なく発生します。##\n\n-----\n\n[[=]]\n+ **補遺6664.01: 発見**\n[[/=]]\n\nSCP-6664は2014年1月28日、##blue|地元の営業販売員##である##blue|マーティン・コス##が、##blue|誤ってSCP-6664に刺され、その異常性を経験したことを##報告した後に発見されました。##blue|コスは財団の潜入エージェントであったセラピストにこの事件を打ち明け、SCP-6664-1の説明に着目したエージェントは##、潜在的アノマリーとして報告しました。SCP-6664はその後、##blue|サイト-91##に植え替えられました。\n\n[[div class=\"blockquote\"]]\n//当ファイルは、サイト-43職員によって、不正確な情報が含まれているとしてフラグ付けされました。修正版は以下を参照してください。//\n\n//- ブランク博士//\n\n**添付ファイル:** [[[http://scp-jp.wikidot.com/scp-6664/offset/4| SCP-6664-corrected-documentation.pdf]]]\n\n[[/div]]",
+  "tags": [
+    "en",
+    "フラグメント"
+  ],
+  "author": "C-Dives",
+  "created_at": "2025-01-16T16:36:03+00:00",
+  "updated_at": "2025-01-16T16:36:28+00:00",
+  "rating": 0,
+  "_site": "scp-jp",
+  "_fullname": "fragment:scp-6664-3"
+}

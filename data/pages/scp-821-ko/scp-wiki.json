@@ -1,0 +1,19 @@
+{
+  "title": "SCP-821-KO",
+  "content": "[[include :scp-wiki:component:centered-header-sigma-9]]\n\n[[module CSS]]\n :root{\n   --header-title: \"SCP Foundation\";\n   --header-subtitle: \"SECURE, CONTAIN, PROTECT\";\n   --lgurl: url(https://scp-wiki.wdfiles.com/local--files/component%3Acentered-header-sigma-9/logo.svg);\n}\n[[/module]]\n[[include info:start]]\n[[[SCP-821-KO]]] - Cutternion\n\n**Author:** [[*user Bangja]]\n**Translator:** [[*user fluxman]]\n**Original Article:** http://scpko.wikidot.com/scp-821-ko\n----\n \n[[=]]\n[http://ko.scp-wiki.net/bangja ★]\n[[/=]]\n\n[[include info:end]]\n\n**Item #:** SCP-821-KO\n\n**Object Class:** Safe\n\n**Special Containment Procedures:** SCP-821-KO should be kept inactive inside the Site-21K safe objects storage. When handling the object, tweezers should be used for safety. In case of an accident, one must report to the Site medical team for necessary treatment.\n\n[[include component:image-block name=http://scpko.wdfiles.com/local--files/scp-821-ko/a.JPG|caption=<Fig. 1> Excerpt from Site-21K Safety Seminar Presentation]]\n\n**Description:** SCP-821-KO is a 2.7 cm long key weighing 1 g. The object is visibly nondescript, aside from the letter //q//[[footnote]]Presumed to stand for \"quaternion\". The exact meaning is unknown.[[/footnote]] carved into one side of the key. The key is resistant to force and can withstand high temperatures without disfiguration. Attempts to analyse its composition have failed.\n\nIf someone holds SCP-821-KO in their hand, its anomalous effects manifest when they rotate their fist. The holder cannot turn their wrist or open their fist at a certain rotation angle. After several experiments, the circumstance of manifestation has been identified.\n\nWhen held, SCP-821-KO forms a conceptual coordinate system centred on itself, involving three Euler angles. [[footnote]]Euler angles are three angles introduced by Leonhard Euler to describe the orientation of a rigid body concerning a fixed coordinate system.[[/footnote]] In other words, the direction of the object is defined by the rotation of three axes defined by their Euler angles. For ease of understanding, the axes are named as follows:\n\n<Fig 1.>\n* y-axis: Angle of the x-z coordinate axis, the thickness-wise rotational axis representing the α angle. (Green)\n* x-axis: Angle of the z-y coordinate axis, the widthwise rotational axis representing the β angle. (Red)\n* z-axis: Angle of the x-y coordinate axis, the lengthwise rotational axis representing the γ angle. (Blue)\nThe y, x, and z angles form a hierarchy in said order, the superior angle influencing the inferior. [[footnote]] For instance, if the α angle changes, the x and z axes also rotate.[[/footnote]] The anomaly manifests When the y and the z axes overlap while the β angle changes. This makes pointing the key 'down' impossible, and the holder cannot revert their hand to its original state. This state is called a \"Gimbal Lock\".[[footnote]] A gimbal lock refers to the loss of one degree of freedom in a  three-dimensional three-gimbal mechanism. This occurs because the axes rotated before, reducing the freedom of movement. Gimbal locks can be solved by introducing a fourth gimbal or a quaternion system.[[/footnote]] The only known way to escape the Gimbal Lock state is surgical removal of the key. Attempts to open the fist using external force only led to the subject's injuries.\n\nCurrently, SCP-821-KO is held by test subject D-1025. Routine disposal of D-1025 is postponed until the research team discovers a new method to remove the key or otherwise ordered by the Site Director. \n[[footnoteblock]]",
+  "tags": [
+    "_ko",
+    "concept",
+    "international",
+    "mathematical",
+    "safe",
+    "scp",
+    "tool"
+  ],
+  "author": "fluxman",
+  "created_at": "2024-01-08T15:51:58+00:00",
+  "updated_at": "2024-08-21T02:05:03+00:00",
+  "rating": 9,
+  "_site": "scp-wiki",
+  "_fullname": "scp-821-ko"
+}

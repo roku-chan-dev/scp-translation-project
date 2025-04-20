@@ -1,0 +1,18 @@
+{
+  "title": "曲音——长亭四叠",
+  "content": "[[>]]\n[[module Rate]]\n[[/>]]\n@@@@\n[[div class=\"ej-outbox\"]]\n[[div class=\"ej-innerbox\"]]\n[[div class=\"poem-7\"]]\n长亭外，古道边，芳草碧连天\n晚风拂柳残笛残，夕阳山外山\n天之涯，地之角，知交半零落\n分契曾问何时归，久念泣辽廓\n\n长亭外，古道边，秋水折渐渐\n暮风卷影飞蓬远，浮云降暗帘\n地之角，天之涯，不如归去休\n万里劳歌肠哽断，杳雾隐兰舟\n\n踱踱，踱踱，怎奈鹧鸪不住讥\n辵辵，辵辵，蓬莱此去故人稀\n\n长亭外，古道边，苍月冷朱栏\n夜飔摇枻孤灯晦，北林时啸猿\n天地转，鸿畏返，忧君行路难\n一瓢浊酒尽余乐，今宵别梦寒\n\n长亭外，古道边，辰参陨霞烟\n早风随曲老骊还，旧雨荡铃间\n黄粱馨，绿韭沃，忽而醉婆娑\n人生难得是欢聚，惟有别离多\n\n@@@@\n[[/div]]\n[[/div]]\n[[/div]]\n@@@@\n@@@@\n@@@@\n@@@@\n@@@@\n\n\n\n[[include :scp-wiki-cn:theme:black-highlighter-theme]]\n[[include :scp-wiki-cn:theme:dustjacket]]\n[[include :scpsandboxcn:etinjat-wanderers-bhl-css]]\n\n\n\n\n[[module CSS]]\n\n#header h2 span::before {\n    content: \"双鲤跳波入梦来\";\n}\n\n[[/module]]",
+  "tags": [
+    "wanderers",
+    "原创",
+    "日记",
+    "琅嬛福地藏书阁",
+    "记载",
+    "韵文"
+  ],
+  "author": "Etinjat",
+  "created_at": "2019-03-11T04:42:54+00:00",
+  "updated_at": "2022-04-28T06:17:31+00:00",
+  "rating": 23,
+  "_site": "scp-wiki-cn",
+  "_fullname": "wanderers:the-ring-that-pavilion-farewell"
+}

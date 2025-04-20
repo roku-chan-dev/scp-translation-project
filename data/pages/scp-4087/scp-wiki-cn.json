@@ -1,0 +1,16 @@
+{
+  "title": "SCP-4087",
+  "content": "[[include :scp-wiki-cn:credit:start-standalone]]\n**SCP-4087：**一把刀的失踪\n**作者：** [[*user the great hippo]]\n**图像：** [https://commons.wikimedia.org/wiki/File:2014_N%C3%B3%C5%BC_spr%C4%99%C5%BCynowy_01.jpg Link].\n\n**音乐：** [https://youtu.be/cW3pQO-BIZM The Backwards Rhyme]\n----\n[[include :scpsandbox2:hippo]]\n[[include :scp-wiki-cn:credit:more-standalone]]\n[[include :scp-wiki-cn:credit:end-standalone]]\n\n\n[[module CSS]]\n@import url(\"http://www.scp-wiki.net/component:scp-pride/code/1\")\n[[/module]]\n\n[[module css]]\nsup { \nvertical-align: top; position: relative; top: -0.5em; \n}\n[[/module]]\n\n[[include component:image-block name=http://scp-wiki.wdfiles.com/local--files/scp-4087/weapon.jpg|caption=SCP-4087的一个实例。]]\n\n**项目编号：**SCP-4087\n\n**项目等级：**Euclid\n\n**特殊收容措施：**已安插基金会人员于欧洲及美洲执法部门，以便监视有迹象表明以SCP-4087为凶器的连环凶杀案。若有该迹象却无凶器，将提供与SCP-4087实例设计与制造方式相似的仿品。\n\n极小可能性下，一旦发现SCP-4087的另一实例，则应将其封入1立方米的水泥中，并运送到[[[http://scp-wiki-cn.wikidot.com/scp-2419|深层地址处理库]]]永久储存。\n\n**描述：**SCP-4087是一套老式的按钮弹簧刀。刀刃长9.2厘米，由不锈钢制成。它们由Gavrilo Maniago（一位意大利刀匠）受私人委托而制作，一套应有七把；Gavrilo Maniagois于1914年被谋杀之前，仅完成了其中六把。\n\nSCP-4087最初于1973年被发现，当时基金会分析部门建立的数学模型显示它们与五十年间的一百多起凶杀案有关。以上案件中，六把刀中均会有一把被执法部门认定为凶器。每把刀均反复丢失、被发现或被拍卖。\n\n截至1975年，所有六把刀均已被发现。之后，又有一把刀被两百多起凶案认定为凶器。与这些凶案的所有证据相反，根据调查，并无实际的凶器存在。\n\n在对所有六把刀具进行全面的法医学鉴定后，研究人员得出以下结论：\n* 它们无可观察到的异常性质。\n* 它们无任何明显磨损或使用痕迹。\n\n[[footnoteblock]]\n\n[[div class=\"footer-wikiwalk-nav\"]]\n[[=]]\n<< [[[SCP-4086]]] | SCP-4087 | [[[SCP-4088]]] >>\n[[/=]]\n[[/div]]",
+  "tags": [
+    "euclid",
+    "scp",
+    "武器",
+    "逆模因"
+  ],
+  "author": "Eurya",
+  "created_at": "2019-04-02T12:37:16+00:00",
+  "updated_at": "2019-10-27T11:38:57+00:00",
+  "rating": 6,
+  "_site": "scp-wiki-cn",
+  "_fullname": "scp-4087"
+}

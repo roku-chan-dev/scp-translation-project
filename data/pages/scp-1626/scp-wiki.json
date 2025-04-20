@@ -1,0 +1,19 @@
+{
+  "title": "SCP-1626",
+  "content": "[[include :scp-wiki:component:pride-highlighter |inc-s9-lgbt-alt= --]]]\n\n[[>]]\n[[module Rate]]\n[[/>]]\n \n**Item #:** SCP-1626\n \n**Object Class:** Safe-impetus\n \n**Special Containment Procedures:** SCP-1626 is to be kept in a locker at Site 55's low-value item storage facility. To avoid the potential for confusion, personnel testing or interacting with SCP-1626 are not allowed to wear articles of clothing for which it could be mistaken.\n\nSite 55 Medical personnel are to have access to equipment capable of cutting through SCP-1626's fibers. In the event that SCP-1626 is worn for more than twenty-one minutes by non-expendable personnel, this equipment is to be used in an effort to remove SCP-1626. If this proves unfeasible, destruction of SCP-1626 is authorized if the possibility exists that this will allow for the subject's survival. Destruction of SCP-1626 outside of these protocols remains an offense subject to standard disciplinary policy.\n \n**Description:** SCP-1626 is a gray size XL hooded sweatshirt made out of polyester. In its inactive state, SCP-1626 is physically unremarkable except that it emits hydrogen sulfide (H,,2,,S) gas at levels sufficient to cause it to have a faint but noticeable \"rotten egg\" scent.\n \nWhenever a human wears SCP-1626 for a period of twenty-one minutes or greater, it will extend numerous polyester fibers roughly 1mm in diameter up to 20 centimeters into the subject's arms and torso. SCP-1626 will not puncture any vital organs or blood vessels, and the fibers secrete potent local anesthetics that almost immediately desensitize the skin at the point of penetration. As such, exposure to SCP-1626 is not immediately lethal, and victims are unlikely to notice its effects unless they attempt to remove SCP-1626. The fibers have shown unusual resilience for their composition, complicating any efforts to remove SCP-1626. \n \nBetween five and ten minutes after the subject's skin has been penetrated, the fibers begin to conduct heat away from the subject's body at an accelerated rate until the subject's core body temperature is that of the subject's surroundings. Simultaneously, the fibers will release copious amounts of ethyl alcohol into the subject's bloodstream, causing extreme inebriation. This appears to have the effect of both decreasing the likelihood that the subject will notice the drop in body temperature and limiting the subject's ability to seek help. SCP-1626 will increase its production of hydrogen sulfide at this time, giving both it and the wearer a strong, repellent scent.\n \nUnder normal circumstances, victims of SCP-1626 will die of hypothermia between one and three hours after exposure, depending on the subject's mass and the temperature of the surroundings. After the subject's death, the fibers of SCP-1626 will retract and become undetectable. Further, SCP-1626 will cease to release hydrogen sulfide for the next two days unless it is worn during that time.\n\n[[footnoteblock]]\n\n[[div class=\"footer-wikiwalk-nav\"]]\n[[=]]\n<< [[[SCP-1625]]] | SCP-1626 | [[[SCP-1627]]] >>\n[[/=]]\n[[/div]]\n[[include :scp-wiki:component:license-box]]\n[[include :scp-wiki:component:license-box-end]]",
+  "tags": [
+    "_licensebox",
+    "clothing",
+    "gaseous",
+    "predatory",
+    "safe",
+    "scp",
+    "thermal"
+  ],
+  "author": "Communism will win",
+  "created_at": "2012-02-21T21:40:19+00:00",
+  "updated_at": "2022-10-21T07:57:55+00:00",
+  "rating": 93,
+  "_site": "scp-wiki",
+  "_fullname": "scp-1626"
+}

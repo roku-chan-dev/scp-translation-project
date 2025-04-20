@@ -1,0 +1,22 @@
+{
+  "title": "SCP-2851",
+  "content": "[[>]]\n[[module Rate]]\n[[/>]]\n[[include component:image-block name=300px-Color_icon_red.jpg|caption=[[span style=\"color:red\"]]Inoculation Image[[/span]]]]\n[[span style=\"color:red\"]]\n**Item #:** SCP-2851\n\n**Object Class:** Safe\n\n**Special Containment Procedures:** All walls in Wing 9 of Site-47 are to be painted red. Personnel working at Site-47 are encouraged to wear at least one red article of clothing, and to decorate their homes and workstations with the color red. All documentation concerning SCP-2851 must include red text or a red background.\n\n**Description:** SCP-2851 is an anomalous phenomenon affecting Wing 9 of Site-47, as well as all non-red documentation of SCP-2851. When exposed to either, subjects will hallucinate a voice (SCP-2851-1) continually speaking to them. Hallucinations will last from an hour to two days following the end of exposure.\n\nSCP-2851-1 will encourage the subject to carry out kleptomaniac urges, have sexual intercourse, instigate duels to the death, and perform ceremonial blood sacrifices to an alleged deity known as \"Taros'zedbreet.\" Of note is that SCP-2851-1 cannot anomalously compel subjects to carry out its suggestions.\n\nSCP-2851-1 is easily distracted by the color red. When presented with a red substance or object, SCP-2851-1 will compliment subjects on their show of power, vitality, and bloodlust, followed by temporarily ceasing interaction with subjects. While SCP-2851-1 remains active, constant exposure to red has shown to reduce the frequency of its vocalizations, reducing the non-anomalous negative psychological effects it has on subjects.\n\n[[footnoteblock]]\n\n[[div class=\"footer-wikiwalk-nav\"]]\n[[=]]\n<< [[[SCP-2850]]] | SCP-2851 | [[[SCP-2852]]] >>\n[[/=]]\n[[/div]]\n[[/span]]\n\n[[include :scp-wiki:component:license-box]]\n=====\n> **Filename:** 300px-Color_icon_red.jpg\n> **Author:** [[*user HotCocoaNerd]]\n> **License:** CC BY-SA 3.0\n> **Source Link:** [https://scp-wiki.wikidot.com/scp-2851 SCP Foundation Wiki]\n=====\n[[include :scp-wiki:component:license-box-end]]",
+  "tags": [
+    "_cc",
+    "_licensebox",
+    "hallucination",
+    "hostile",
+    "light",
+    "meta",
+    "phenomenon",
+    "safe",
+    "sc2015",
+    "scp"
+  ],
+  "author": "HotCocoaNerd",
+  "created_at": "2015-07-25T04:04:08+00:00",
+  "updated_at": "2024-04-17T22:07:51+00:00",
+  "rating": 585,
+  "_site": "scp-wiki",
+  "_fullname": "scp-2851"
+}

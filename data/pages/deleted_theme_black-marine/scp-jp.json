@@ -1,0 +1,11 @@
+{
+  "title": "Black Marine",
+  "content": "[[code type=\"css\"]]\n/*\n    Powered on 2024/10/17 19:53:23\n    [2024 Wikidot Theme]\n    Created by Creepy Report Maker\n    CC BY-SA 3.0\n*/\n\n:root {\n    --themeColor: rgb(32, 18, 77)\n    --accentColor: rgb(28, 69, 135)\n}\nbody {\n    background: background: ffffff;\n    color: rgb(60, 120, 216);\n}\na,a:visited {\n    color: rgb(28, 69, 135);\n}\nh1,h2,h3,h4,h5,h6 {\n    color: rgb(60, 120, 216);\n}\nblockquote {\n    border: 5px inset rgb(61, 133, 198);\n    background: #ffffff\n}\ndiv#header h1 a span {\n    font-size: 0px;\n}\ndiv#header h2 span {\n    font-size:0px;\n    padding: 4px;\n}\ndiv#side-bar div.side-block {\n    border: 1px solid rgb(28, 69, 135);\n    box-shadow: 0 2px 6px rgba(28, 69, 135, 0.7);\n    border-radius: 2px\n}\ndiv#side-bar div.side-block div.heading,\ndiv#side-bar div.collapsible-block-unfolded-link,\ndiv#side-bar div.collapsible-block-unfolded-link div.collapsible-block-link {\n    color: rgb(28, 69, 135);\n    border-color: rgb(28, 69, 135);\n}\ndiv.scpnet-interwiki-wrapper {\n    filter: hue-rotate(350deg) saturate(0%);\n}\ndiv.yui-navset ul.yui-nav a,\ndiv.yui-navset div.yui-navset-top ul.yui-nav a {\n    background: rgb(208, 224, 227);\n    color: rgb(109, 158, 235);\n}\ndiv.yui-navset ul.yui-nav a:hover,\ndiv.yui-navset ul.yui-nav a:focus {\n    background: rgb(109, 158, 235);\n    color: rgb(61, 133, 198);\n}\ndiv.yui-navset ul.yui-nav .selected a,\ndiv.yui-navset ul.yui-nav .selected a:focus,\ndiv.yui-navset ul.yui-nav .selected a:hover {\n    background: rgb(32, 18, 77);\n    color: rgb(61, 133, 198);\n[[/code]]",
+  "tags": [],
+  "author": null,
+  "created_at": "2024-10-19T05:47:16+00:00",
+  "updated_at": "2024-10-19T11:46:00+00:00",
+  "rating": 0,
+  "_site": "scp-jp",
+  "_fullname": "deleted:theme:black-marine"
+}

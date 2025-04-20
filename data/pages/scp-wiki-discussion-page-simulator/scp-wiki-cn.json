@@ -1,0 +1,16 @@
+{
+  "title": "SCP网站讨论区模拟器",
+  "content": "[[include :scp-wiki:component:listusers-1 users=\".\"]]\n[[div style=\"background-image: url(https://www.wikidot.com/avatar.php?userid=%%number%%); background-repeat: no-repeat; background-position: center center; background-size: auto 58%;\"]]\n[[image https://scp-wiki.wdfiles.com/local--files/scp-wiki-discussion-page-simulator/soy.png]]\n[[/div]]\n[[include :scp-wiki:component:listusers-2]]\n[[image https://scp-wiki.wdfiles.com/local--files/scp-wiki-discussion-page-simulator/soy.png]]\n[[include :scp-wiki:component:listusers-3]]\n\n[[include :scp-wiki-cn:component:license-box\n|author=DarnellJermaine and Uncle Nicolini]]\n=====\n> **文件名：**soy.png\n> **图像作者：**Hamiltoe\n> **授权协议：**CC BY-SA 3.0\n> **来源链接：**[https://scp-wiki.wikidot.com/scp-wiki-discussion-page-simulator SCP Foundation Wiki]\n=====\n[[include :scp-wiki-cn:component:license-box-end]]",
+  "tags": [
+    "合著",
+    "喜剧",
+    "搞笑",
+    "故事"
+  ],
+  "author": "Esperanza_Cai",
+  "created_at": "2021-11-19T15:08:12+00:00",
+  "updated_at": "2023-11-29T09:58:21+00:00",
+  "rating": 18,
+  "_site": "scp-wiki-cn",
+  "_fullname": "scp-wiki-discussion-page-simulator"
+}

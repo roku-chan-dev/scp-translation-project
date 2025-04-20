@@ -1,0 +1,22 @@
+{
+  "title": "SCP-4930",
+  "content": "[[module ListPages category=\"fragment\" parent=\".\" order=\"name\"\" limit=\"1\" offset=\"@URL|0\"]]\n%%content%%\n[[/module]]\n\n[!--\nhttp://scp-wiki-cn.wikidot.com/fragment:scp-4930-1\nhttp://scp-wiki-cn.wikidot.com/fragment:scp-4930-2\n--]\n\n[[footnoteblock]]\n\n[[div class=\"footer-wikiwalk-nav\"]]\n[[=]]\n<< [[[SCP-4929]]] | SCP-4930 | [[[SCP-4931]]] >>\n[[/=]]\n[[/div]]",
+  "tags": [
+    "euclid",
+    "meta",
+    "scp",
+    "人形生物",
+    "信息危害",
+    "感知力",
+    "智能",
+    "活物",
+    "第五教会",
+    "音乐性"
+  ],
+  "author": "Etinjat",
+  "created_at": "2019-04-03T04:32:08+00:00",
+  "updated_at": "2020-08-10T05:27:52+00:00",
+  "rating": 11,
+  "_site": "scp-wiki-cn",
+  "_fullname": "scp-4930"
+}

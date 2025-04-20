@@ -1,0 +1,21 @@
+{
+  "title": "SCP-CN-2586",
+  "content": "[[>]]\n[[module rate]]\n[[/>]]\n\n[[module ListPages category=\"fragment\" parent=\".\" limit=\"1\" order=\"name\" offset=\"@URL|0\"]]\n\n%%content%%\n[[/module]]",
+  "tags": [
+    "05",
+    "keter",
+    "scp",
+    "原创",
+    "反常部",
+    "异学会",
+    "模因",
+    "记忆影响",
+    "逆模因"
+  ],
+  "author": "EdwardC",
+  "created_at": "2022-09-28T07:38:49+00:00",
+  "updated_at": "2023-07-06T00:40:11+00:00",
+  "rating": 89,
+  "_site": "scp-wiki-cn",
+  "_fullname": "scp-cn-2586"
+}

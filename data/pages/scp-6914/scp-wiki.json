@@ -1,0 +1,20 @@
+{
+  "title": "SCP-6914",
+  "content": "[[include :scp-wiki:theme:black-highlighter-theme]]\n[[include :scp-wiki:component:toggle-sidebar-bhl]]\n[[include :scp-wiki:component:rso]]\n\n[[include :scp-wiki:component:info-ayers\n|lang=en\n|page=scp-6914\n|authorPage=https://scp-wiki.wikidot.com/misterfrown\n|comments=\n\n= **SCP-6914** -- Touch Grass\n\n]]\n\n[[=]]\n[[module Rate]]\n[[/=]]\n\n[[div style=\"height: 10px\"]]\n[[/div]]\n\n[[include :scp-wiki:component:anomaly-class-bar-source\n|item-number= 6914\n|clearance= 4\n|container-class= radix\n|secondary-class= none\n|disruption-class= dark\n|risk-class= danger\n]]\n\n[[include :scp-wiki:component:customizable-acs\n|containment-class= radix\n|containment-image= https://scp-wiki.wdfiles.com/local--files/scp-6183/RADIX.svg\n|containment-color= 154, 205, 50\n|inc-containment = --]]]\n\n----\n\n[[include component:image-block name=https://scp-sandbox-3.wdfiles.com/local--files/frowngrass/keepoffgrass.png|align=center|width=100%|caption=A common housecat (//Felis catus//) displaying its immunity to SCP-6914.]]\n\n----\n\n**Special Containment Procedures:** All staff within Overwatch Command have been informed of SCP-6914's anomalous properties to ensure their compliance with its directive. Foundation landscapers employed for the structure are to only use lawn equipment which prevents them from touching the grass planted nearby.\n\n**Description:** SCP-6914 is a small sign reading \"KEEP OFF GRASS\".\n\nUpon a human individual within an 80 km radius of SCP-6914 making physical contact with grass, a lightning bolt will spontaneously manifest from the sky and strike them where they are currently standing. The lightning will be specifically tailored to reach its intended target, capable of altering its intensity upon each manifestation to the required amount to break any possible barriers protecting the subject, including ones constructed of non-conductive material.\n\nFollowing the discovery of SCP-6914, unanimous approval of the Overseer Council led to it being installed outside of Overwatch Command Site-01. While Site-01 has yet to experience a security breach of a magnitude considered worthy of such a security increase, the importance of the facility and the personnel within was the primary contributing factor of the decision.\n\n**Addendum 6914.1:** Incident 6914-Alpha\n\nOn 4/18/2012, a lightning strike suddenly occured within an unused room in Site-01's second sublevel. Mobilized members of Mobile Task Force Alpha-1 (\"Red Right Hand\") were quickly dispatched to the area for investigation. Upon reaching the room, they discovered the charred corpse of Agent William Peterson, who had been struck by the lightning. Review of security footage revealed that Agent Peterson had grabbed what was discovered to be a marijuana cigarette from his bag prior to the strike.\n\nThe implications of this incident remain under review.\n\n[[div class=\"footer-wikiwalk-nav\"]]\n[[=]]\n<< [[[SCP-6913]]] | SCP-6914 | [[[SCP-6915]]] >>\n[[/=]]\n[[/div]]\n\n[[include :scp-wiki:component:license-box]]\n\n[[div class=\"blockquote\"]]\n**Name:** File:Keep off grass sign.jpg\n**Author:** GK tramrunner RU\n**License:** CC BY-SA 4.0\n**Source Link:** [https://commons.wikimedia.org/wiki/File:Keep_off_grass_sign.jpg Wikimedia Commons]\n**Notes:** Image cropped.\n[[/div]]\n\n[[include :scp-wiki:component:license-box-end]]\n\n[[module CSS]]\n\n:root {\n--zero: 0;\n}\n[[/module]]",
+  "tags": [
+    "_cc",
+    "_cc4",
+    "_licensebox",
+    "artifact",
+    "electrical",
+    "esoteric-class",
+    "inscription",
+    "scp"
+  ],
+  "author": "MisterFrown",
+  "created_at": "2024-05-15T19:13:29+00:00",
+  "updated_at": "2025-03-17T10:49:03+00:00",
+  "rating": 106,
+  "_site": "scp-wiki",
+  "_fullname": "scp-6914"
+}

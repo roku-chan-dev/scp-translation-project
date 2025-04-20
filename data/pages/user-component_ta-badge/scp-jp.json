@@ -1,0 +1,14 @@
+{
+  "title": "実績バッジ2",
+  "content": "[[iftags +コンポーネント]]\nこのユーザーコンポーネントのリファレンスは[[[reference:ta-badge|]]]です。\n[[/iftags]]\n[[include :scp-jp:user-component:ta-badge-base\n|badge-top={$badge-top}\n|badge-top=empty\n|badge-top-link={$badge-top-link}\n|badge-top-link=empty\n|badge-right={$badge-right}\n|badge-right=empty\n|badge-right-link={$badge-right-link}\n|badge-right-link=empty\n|badge-left={$badge-left}\n|badge-left=empty\n|badge-left-link={$badge-left-link}\n|badge-left-link=empty\n|frame={$frame}\n|frame=default\n|bg={$bg}\n|bg=default\n|bg-img={$bg-img}\n|bg-shadow={$bg-shadow}\n|bg-shadow=true\n|plate={$plate}\n|plate=default\n|plate-img={$plate-img}\n|plate-shadow={$plate-shadow}\n|plate-shadow=true\n|item-lt={$item-lt}\n|item-lc={$item-lc}\n|item-lb={$item-lb}\n|item-rt={$item-rt}\n|item-rc={$item-rc}\n|item-rb={$item-rb}\n|item-lt-link={$item-lt-link}\n|item-lt-link=empty\n|item-lc-link={$item-lc-link}\n|item-lc-link=empty\n|item-lb-link={$item-lb-link}\n|item-lb-link=empty\n|item-rt-link={$item-rt-link}\n|item-rt-link=empty\n|item-rc-link={$item-rc-link}\n|item-rc-link=empty\n|item-rb-link={$item-rb-link}\n|item-rb-link=empty\n|item-lt-text={$item-lt-text}\n|item-lt-text=@@@@\n|item-lc-text={$item-lc-text}\n|item-lc-text=@@@@\n|item-lb-text={$item-lb-text}\n|item-lb-text=@@@@\n|item-rt-text={$item-rt-text}\n|item-rt-text=@@@@\n|item-rc-text={$item-rc-text}\n|item-rc-text=@@@@\n|item-rb-text={$item-rb-text}\n|item-rb-text=@@@@\n|item-lt-img={$item-lt-img}\n|item-lc-img={$item-lc-img}\n|item-lb-img={$item-lb-img}\n|item-rt-img={$item-rt-img}\n|item-rc-img={$item-rc-img}\n|item-rb-img={$item-rb-img}\n|item-lt-rotate={$item-lt-rotate}\n|item-lt-rotate=0\n|item-lc-rotate={$item-lc-rotate}\n|item-lc-rotate=0\n|item-lb-rotate={$item-lb-rotate}\n|item-lb-rotate=0\n|item-rt-rotate={$item-rt-rotate}\n|item-rt-rotate=0\n|item-rc-rotate={$item-rc-rotate}\n|item-rc-rotate=0\n|item-rb-rotate={$item-rb-rotate}\n|item-rb-rotate=0\n|item-mobile-mode={$item-mobile-mode}\n|item-mobile-mode=true\n|item-align={$item-align}\n|item-align=true\n|user-icon={$user-icon}\n|user-icon=http://d2qhngyckgiutd.cloudfront.net/default_avatar\n]]",
+  "tags": [
+    "jp",
+    "コンポーネント"
+  ],
+  "author": "tsucchii0301",
+  "created_at": "2023-02-16T01:37:45+00:00",
+  "updated_at": "2023-04-15T08:46:08+00:00",
+  "rating": 0,
+  "_site": "scp-jp",
+  "_fullname": "user-component:ta-badge"
+}

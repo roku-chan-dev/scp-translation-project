@@ -1,0 +1,22 @@
+{
+  "title": "SCP-7941",
+  "content": "[[module css]]\n@font-face {\n    font-family: 'D2Coding';\n    src: url('https://cdn.jsdelivr.net/gh/projectnoonnu/noonfonts_three@1.0/D2Coding.woff') format('woff');\n    font-weight: normal;\n    font-style: normal;\n}\n\n.footnotes-footer {\ndisplay:none;\n}\n\ntt {\nfont-family: 'D2Coding', monospace;\n}\n[[/module]]\n[[include info:start]]\n**Title:** 키잡이의 발라드\n**Original:** [https://scp-wiki.wikidot.com/scp-7941 SCP-7941] by [[*user daveyoufool]]\n**Translator:** [[*user XCninety]]\n\n> **파일명:** renard.gif\n> **저작권자:** [[*user daveyoufool]]\n> **라이선스:** CC BY-SA 3.0\n> **출처:** SCP Foundation Wiki\n\n> **파일명:** tank.gif\n> **저작권자:** [[*user daveyoufool]]\n> **라이선스:** CC BY-SA 3.0\n> **출처:** SCP Foundation Wiki\n[[include info:end]]\n\n[[module ListPages category=\"fragment\" parent=\".\" order=\"created_at\" limit=\"1\" offset=\"@URL|0\"]]\n%%content%%\n[[/module]]\n\n[!-- http://scpko.wikidot.com/fragment:scp-7941-1 --]\n[!-- http://scpko.wikidot.com/fragment:scp-7941-2 --]\n[!-- http://scpko.wikidot.com/fragment:scp-7941-3 --]\n[!-- http://scpko.wikidot.com/fragment:scp-7941-4 --]",
+  "tags": [
+    "2023-리믹스경연-en",
+    "en",
+    "scp",
+    "여명",
+    "외계",
+    "외부차원",
+    "타우미엘",
+    "탈것",
+    "태양의-자매",
+    "항성"
+  ],
+  "author": "XCninety",
+  "created_at": "2024-06-19T03:43:04+00:00",
+  "updated_at": "2025-02-22T13:20:39+00:00",
+  "rating": 12,
+  "_site": "scpko",
+  "_fullname": "scp-7941"
+}

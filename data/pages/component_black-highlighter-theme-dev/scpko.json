@@ -1,0 +1,15 @@
+{
+  "title": "블랙 하이라이터 테마 Temp",
+  "content": "[[include :scpko:theme:black-highlighter-theme]]\n\n[[iftags +_테마-임시]]\n이 페이지는 사용이 권장되지 않습니다. 이 위치로부터 페이지를 포함시키지 마세요. 그 대신에, 아래 코드를 사용하세요.\n\n[[div class=\"code\"]]\n@@[[include :scp-wiki:theme:black-highlighter-theme]]@@\n[[/div]]\n\n실제 페이지는 [[[theme:black-highlighter-theme|여기]]]입니다.\n[[/iftags]]",
+  "tags": [
+    "_테마-임시",
+    "en",
+    "구성요소"
+  ],
+  "author": "XCninety",
+  "created_at": "2020-06-06T02:19:54+00:00",
+  "updated_at": "2024-09-20T06:31:23+00:00",
+  "rating": 0,
+  "_site": "scpko",
+  "_fullname": "component:black-highlighter-theme-dev"
+}

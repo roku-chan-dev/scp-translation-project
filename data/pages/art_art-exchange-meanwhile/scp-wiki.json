@@ -1,0 +1,18 @@
+{
+  "title": "Meanwhile...",
+  "content": "[[include :scp-wiki:theme:black-highlighter-theme]]\n[[include :scp-wiki:component:toggle-sidebar-bhl]]\n[[>]]\n[[module Rate]]\n[[/>]]\n[[include :scp-wiki:component:author-label-source start=--\n|name=Winterheart]]\n= [[[winterheart page | More by this author.]]]\n[[include :scp-wiki:component:author-label-source end=--]]\n\nAn artist's impression of a localized gravity-inversion that occurred sometime in 1999 within [[[SCP-7031]]].\n@@ @@\n@@ @@\nContent warning: there's a spider in it.\n@@ @@\n@@ @@\n@@ @@\n@@ @@\n@@ @@\n@@ @@\n@@ @@\n@@ @@\n@@ @@\n@@ @@\n@@ @@\n@@ @@\n@@ @@\n@@ @@\n@@ @@\n@@ @@\n@@ @@\n@@ @@\n@@ @@\n@@ @@\n[[include :scp-wiki:component:image-block-base name=https://scp-sandbox-3.wikidot.com/local--files/gwenwinterheart/australia|caption=Australia|width=100%|link=https://scp-sandbox-3.wikidot.com/local--files/gwenwinterheart/australia|align=center]]\n\n@@ @@\n\n[[include :scp-wiki:component:license-box]]\n=====\n> **Filename:** australia\n> **Author:** [[*user GwenWinterheart]]\n> **License:** CC BY-SA 3.0\n> **Source Link:** [https://scp-wiki.wikidot.com/art:art-exchange-meanwhile SCP Foundation Wiki]\n=====\n[[include :scp-wiki:component:license-box-end]]",
+  "tags": [
+    "_cc",
+    "_licensebox",
+    "art-exchange",
+    "artwork",
+    "painted",
+    "scp-art"
+  ],
+  "author": "GwenWinterheart",
+  "created_at": "2022-12-30T11:30:17+00:00",
+  "updated_at": "2024-03-28T11:26:31+00:00",
+  "rating": 29,
+  "_site": "scp-wiki",
+  "_fullname": "art:art-exchange-meanwhile"
+}

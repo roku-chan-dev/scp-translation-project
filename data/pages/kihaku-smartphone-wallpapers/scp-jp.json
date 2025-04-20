@@ -1,0 +1,14 @@
+{
+  "title": "kihakuのSCP壁紙置き場",
+  "content": "[[include credit:start]]\n**タイトル:** kihakuのSCP壁紙置き場\n**イラスト:** [[*user kihaku]]\n**作成年:** 2025\n[[include credit:end]]\n\n[[=]]\n当アートワークは、スマートフォンへの壁紙設定を想定して作成されています。\n今後、作品は追加される可能性があります。\n[[/=]]\n\n\n[[div class=\"grid\"]]\n[[div class=\"grid-left\"]]\n[[image http://scp-jp-storage.wikidot.com/local--files/file:7069044-305-vafz/IMG_8021.jpg]]\n[[/div]][!--grid-left--]\n[[div class=\"grid-right\"]]\n[[image http://scp-jp-storage.wikidot.com/local--files/file:7069044-302-116x/SCP-083-JP]]\n[[/div]][!--grid-right--]\n[[/div]][!--grid--]\n\n[[div class=\"grid\"]]\n[[div class=\"grid-left\"]]\n[[image http://scp-jp-storage.wikidot.com/local--files/file:7069044-303-xg4i/SCP-238-JP]]\n[[/div]][!--grid-left--]\n[[div class=\"grid-right\"]]\n[[image http://scp-jp-storage.wikidot.com/local--files/file:7069044-304-w1zx/SCP-200-JP]]\n[[/div]][!--grid-right--]\n[[/div]][!--grid--]\n\n\n\n[[module CSS]]\n/* Layout */\n#page-content .grid {\n    display: flex;\n    overflow: hidden;\n}\n#page-content .grid-left {\n    float: left;\n    width: 50%;\n}\n#page-content .grid-right {\n    float: right;\n    width: 50%;\n}\n\n/* Mobile Media Query */\n@media (max-width: 479px) {\n#page-content .grid {\n    display: block;\n}\n#page-content .grid-left,\n#page-content .grid-right {\n    width: 100%;\n    float: left;\n}\n}\n\n/* Note Media Query */\n@media (max-width: 580px) {\n#page-content .grid {\n    display: block;\n}\n#page-content .grid-left,\n#page-content .grid-right {\n    width: 100%;\n    float: left;\n}\n}\n\n/* Mini Tablet Media Query */\n@media (min-width: 581px) and (max-width: 767px) {\n#page-content .grid {\n    display: flex;\n}\n#page-content .grid-left {\n    float: left;\n    width: 50%;\n}\n#page-content .grid-right {\n    float: right;\n    width: 50%;\n}\n}\n\n/* Tablet Media Query */\n@media (min-width: 768px) and (max-width: 979px) {\n#page-content .grid {\n    display: flex;\n}\n#page-content .grid-left {\n    float: left;\n    width: 50%;\n}\n#page-content .grid-right {\n    float: right;\n    width: 50%;\n}\n}\n[[/module]]",
+  "tags": [
+    "jp",
+    "アートワーク"
+  ],
+  "author": "kihaku",
+  "created_at": "2025-02-12T20:29:22+00:00",
+  "updated_at": "2025-02-12T20:30:37+00:00",
+  "rating": 50,
+  "_site": "scp-jp",
+  "_fullname": "kihaku-smartphone-wallpapers"
+}

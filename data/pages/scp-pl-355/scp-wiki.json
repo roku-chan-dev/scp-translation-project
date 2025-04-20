@@ -1,0 +1,26 @@
+{
+  "title": "SCP-PL-355",
+  "content": "[[include :scp-wiki:theme:pataphysics]]\n\n[[module CSS]]\n .div{margin:0.5em 0;padding:0 1em;background:hsl(0,0%,100%);border:1px solid hsl(000, 000%, 75%)}\n[[/module]]\n\n[[div style=\"margin-bottom: -0.5em\"]]\n[[>]]\n[[module rate]]\n[[/>]]\n[[/div]]\n\n[[div class=\"div\"]]\n\n[[include :scp-wiki:component:flops-header\n|item=PL-355\n|containment=thaumiel\n|level=4\n|security=top secret\n|disruption=narrative amida\n|disruption-bg-color=hsl(268, 040%, 25%)\n]]\n\n[[/div]]\n\n[[div class=\"div\"]]\n\n[[size 115%]][[span style=\"color: hsl(268, 040%, 25%); font-weight: bold\"]]SPECIAL CONTAINMENT PROCEDURES[[/span]][[/size]]\n\n-----\n\nCurrently [[span style=\"color: hsl(268, 040%, 25%); font-weight: bold\"]]PROJECT FIREWALL[[/span]] is focused on replicating SCP-PL-355's effect and subsequently installing a copy of the object inside every significant Foundation facility. Any conferences and official discussions on [[span style=\"color: hsl(268, 040%, 25%); font-weight: bold\"]]PROJECT FIREWALL[[/span]] or SCP-PL-355 must be held within the object.\n\nContainment and research duties regarding SCP-PL-355 are assigned to the Pataphysics Department and Department of Unusual Architecture. Excluding O5 Council, only personnel of above-mentioned divisions may be informed about SCP-PL-355.\n\n[[/div]]\n\n[[div class=\"div\"]]\n\n[[size 115%]][[span style=\"color: hsl(268, 040%, 25%); font-weight: bold\"]]DESCRIPTION[[/span]][[/size]]\n\n-----\n\nSCP-PL-355 is a conference room in Site PL-07, the headquarters of the Pataphysics Department for the Polish Branch of the Foundation. SCP-PL-355 contains standard equipment typical for a conference room and additional materials allowing to lead discussions significantly lengthier than normal.\n\nSCP-PL-355 was constructed by both Pataphysics Department and Department of Unusual Architecture as a part of [[span style=\"color: hsl(268, 040%, 25%); font-weight: bold\"]]PROJECT FIREWALL[[/span]], with the purpose of creating a safe zone, free from observation by entities from higher narrative layers. In its design, SCP-PL-355 has utilized the fact that such entities require an attachment point for efficient observation of lower realities, commonly known as the \"fourth wall phenomenon\".\n\nOver the course of many experiments and extensive research, personnel of Unusual Architecture was able to conceptually cut off the area, in which SCP-PL-355 is located, from the rules of three-dimensional geometry, simultaneously not creating any long-term spatial anomalies. As such, SCP-PL-355 is a three-dimensional sealed space in the shape of cuboid, that doesn't have a fourth wall. This anomaly is successfully preventing insight of entities from higher layers into all events taking place in SCP-PL-355, remarkably narrowing down the view seen by those entities.\n\n[[/div]]\n\n[[div class=\"div\"]]\n\n[[size 115%]][[span style=\"color: hsl(268, 040%, 25%); font-weight: bold\"]]ADDITIONAL MATERIALS[[/span]][[/size]]\n\n-----\n\nThe following is a transcript of the first recorded conference using SCP-PL-355 and initial testing of its anomalous properties. The meeting was attended by representatives of Pataphysics Department, Department of Unusual Architecture and Overseer Council.\n\n[[=]]\n[[collapsible show=\"»OPEN FILE«\" hide=\"«FILE OPENED»\"]]\n\n[[div class=\"div\" style=\"background: rgb(250, 250, 250); font-weight: bold\"]]\n\nCONFERENCE LOG\n\n-----\n\n«BEGIN LOG»\n\n[[=image https://upload.wikimedia.org/wikipedia/commons/e/ef/White_wall.jpg style=\"width: 100%; border: 1px solid hsl(000, 000%, 75%)\"]]\n\n«END LOG»\n\n[[/div]]\n\n[[/collapsible]]\n[[/=]]\n\n[[div style=\"height: 1em\"]]\n[[/div]]\n\n[[/div]]\n\n[[div class=\"footer-wikiwalk-nav\"]]\n= << [[[SCP-PL-354]]] | SCP-PL-355 | [[[SCP-PL-356]]] >>\n[[/div]]\n\n[[include :scp-wiki:component:license-box\n|author=BlazingPie, translated by KubKac]]\n=====\n> **Filename:** White_wall.jpg\n> **Name:** White wall.jpg\n> **Author:** Jimmothyeph\n> **License:** CC BY-SA 4.0\n> **Source Link:** [https://commons.wikimedia.org/wiki/File:White_wall.jpg Wikimedia Commons]\n=====\n[[include :scp-wiki:component:license-box-end]]",
+  "tags": [
+    "_cc",
+    "_licensebox",
+    "_pl",
+    "building",
+    "comedy",
+    "concept",
+    "foundation-made",
+    "international",
+    "meta",
+    "metafiction",
+    "narrative",
+    "pataphysics-dept",
+    "scp",
+    "thaumiel"
+  ],
+  "author": "KubKac",
+  "created_at": "2023-01-20T21:00:50+00:00",
+  "updated_at": "2025-04-16T22:43:13+00:00",
+  "rating": 53,
+  "_site": "scp-wiki",
+  "_fullname": "scp-pl-355"
+}

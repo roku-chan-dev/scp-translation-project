@@ -1,0 +1,14 @@
+{
+  "title": "Enho_Oshoの著者ページ",
+  "content": "[[div class=\"content-panel standalone\" style=\"width: 500px; margin: 0 auto 20px; padding: 10px 20px;\"]]\n= [[size 130%]][[span style=\"color:red\"]]**警 告**[[/size]][[/span]]\n[[=]]\n**20歳未満の喫煙は法律で禁じられています。**\n[[/=]]\n[[/div]]\n\n++ [[*user Enho_Osho]]の著作\n[[=]]\n+++ SCP\n[[/=]]\n[[module ListPages created_by=\"Enho_Osho\" separate=\"no\" tags=\"+scp +jp\" order=\"created\" category=\"-deleted\" prependLine=\"||~ タイトル||~ 評価||~ コメント||~ 作成日時||~ 最新コメント||\"]]\n|| %%title_linked%% || %%rating%% || %%comments%% || %%created_at%% || %%commented_at%% ||\n[[/module]]\n\n[[=]]\n+++ Tale\n[[/=]]\n[[module ListPages created_by=\"Enho_Osho\" separate=\"no\" tags=\"+tale +jp\" order=\"created\" category=\"*\" prependLine=\"||~ タイトル||~ 評価||~ コメント||~ 作成日時||~ 最新コメント||\"]]\n|| %%title_linked%% || %%rating%% || %%comments%% || %%created_at%% || %%commented_at%% ||\n[[/module]]\n\n[[=]]\n+++ アートワーク\n[[/=]]\n[[module ListPages created_by=\"Enho_Osho\" separate=\"no\" tags=\"+アートワーク +jp\" order=\"created\" category=\"*\" prependLine=\"||~ タイトル||~ 評価||~ コメント||~ 作成日時||~ 最新コメント||\"]]\n|| %%title_linked%% || %%rating%% || %%comments%% || %%created_at%% || %%commented_at%% ||\n[[/module]]\n@@@@\n@@@@",
+  "tags": [
+    "jp",
+    "著者ページ"
+  ],
+  "author": "Enho_Osho",
+  "created_at": "2023-03-14T17:23:42+00:00",
+  "updated_at": "2024-03-26T07:59:55+00:00",
+  "rating": 0,
+  "_site": "scp-jp",
+  "_fullname": "author:enho-osho"
+}

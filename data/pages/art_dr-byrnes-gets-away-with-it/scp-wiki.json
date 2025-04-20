@@ -1,0 +1,16 @@
+{
+  "title": "Dr. Byrnes Gets Away With It",
+  "content": "=====\n[[include component:preview\ntext=You really don't get it, do you?]]\n=====\n\n[[=]]\n[[module rate]]\n[[/=]]\n\n[[include :scp-wiki:theme:basalt darkmode=a|hidetitle=a]]\n\n[[module CSS]]\n\n@import url('https://scp-wiki.wikidot.com/local--files/scp-8980/departuremono.css');\n\n:root {\n    --logo: url(https://scp-sandbox-3.wikidot.com/local--files/queer-byrnes/fsd_W.png);\n    --header-title: \"FIRE SUPPRESSION DEPARTMENT\";\n    --header-subtitle: \"INTERNAL RECORDKEEPING INTERFACE\";\n    --basalt-primary-color: 0, 15, 0;\n    --basalt-secondary-color: 5, 37, 35;\n    --basalt-tertiary-color: 0, 30, 25;\n    --ec-popup-color: 30, 78, 68;\n    --basalt-bright-element-color: 15, 152, 140;\n    --basalt-dark-element-color: 10, 132, 125;\n    --rfr-primary: #E0F6FD;\n    --rfr-secondary: lightskyblue;\n}\n\nbody {\n    background: linear-gradient(rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.8)), url(\"https://scp-wiki.wikidot.com/local--files/scp-8980/fractal.webp\");\n    background-position: center, center;\n    background-size: cover;\n    background-attachment: scroll, fixed;\n    background-color: rgba( 0, 110, 98, 1);\n    background-blend-mode: luminosity;\n}\n[[/module]]\n\n[[=]]\n[[image lovely-chap-1.png width=\"75%\"]]\n[[image lovely-chap-2.png width=\"75%\"]]\n[[image lovely-chap-3.png width=\"75%\"]]\n[[image lovely-chap-4.png width=\"75%\"]]\n[[image lovely-chap-5.png width=\"75%\"]]\n[[/=]]\n\n[[include :scp-wiki:component:license-box]]\n> **Filename:** All images\n> **Author:** [[*user choccoMan]]\n> **License:** CC BY-SA 3.0\n> **Source Link:** [https://scp-wiki.wikidot.com/art:dr-byrnes-gets-away-with-it SCP Foundation Wiki]\n[[include :scp-wiki:component:license-box-end]]",
+  "tags": [
+    "_cc",
+    "_licensebox",
+    "artwork",
+    "scp-art"
+  ],
+  "author": "choccoMan",
+  "created_at": "2025-02-14T22:31:01+00:00",
+  "updated_at": "2025-02-21T21:04:27+00:00",
+  "rating": 42,
+  "_site": "scp-wiki",
+  "_fullname": "art:dr-byrnes-gets-away-with-it"
+}

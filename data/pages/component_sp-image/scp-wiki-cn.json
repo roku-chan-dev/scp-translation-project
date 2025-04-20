@@ -1,0 +1,13 @@
+{
+  "title": "SunnyParallax的图片元件",
+  "content": "+++ {$caption}\n[[collapsible show=\"+ 显示图片\" hide=\"- 隐藏图片\"]]\n[[div style=\"border: 1px solid #000;\"]]\n[[div style=\"height: 100%;\"]]\n[[=image {$src} alt=\"{$caption}\" title=\"{$caption}\" width=\"{$width}\"]]\n[[/div]]\n[[/div]]\n[[/collapsible]]",
+  "tags": [
+    "样版"
+  ],
+  "author": null,
+  "created_at": "2017-04-24T07:39:03+00:00",
+  "updated_at": "2017-05-17T11:20:31+00:00",
+  "rating": 2,
+  "_site": "scp-wiki-cn",
+  "_fullname": "component:sp-image"
+}

@@ -1,0 +1,21 @@
+{
+  "title": "SCP-3633",
+  "content": "[[>]]\n[[module Rate]]\n[[/>]]\n\n\n[[include component:image-block name=vessel.jpg |caption=SCP-3633]]\n\n**アイテム番号:** SCP-3633\n\n**オブジェクトクラス:** Safe\n\n**特別収容プロトコル:** SCP-3633は標準金庫型異常物品用ロッカーの中に保管されます。新たな写真の有無を確かめるために一日一回オブジェクトを検分する必要があります。\n\n**説明:** SCP-3633は工場生産仕様のiPhone 5で、画面のひび割れや内部機構の熱破損が見られます。破損は製品としての機能を損うはずの水準ですが、SCP-3633は全機能を維持しています。充電の試みや使用状況に関わらず、バッテリー量は常に0%を維持します。オブジェクトには2件の連絡先が登録されており、それぞれ\"私\"、\"私の後ろ\"と名付けられています。いずれの電話番号も機能しません。SCP-3633内の画像を閲覧した対象は、理由無く背後から見られているような感覚を覚えます。\n\nSCP-3633のカメラが起動された時、スクリーンは顕著に暗くなり、プレビュー画面から撮影物を判別することが出来なくなります。プレビュー画面には静止画が時折表示されますが、画像が著しくぼやけている為、正確な撮影物の特定は不可能です。後の分析により、静止画に写っていた物体の大半がカメラのレンズと接していたことが示されました。\n\n収容以来、SCP-3633は3件の通話を受信しています。2件が\"私\"からで、1件が\"私の後ろ\"からです。着信音が鳴ると共にスクリーンは反応しなくなった為、職員は応答することができませんでした。着信が終了すると、\"私の後ろ\"からボイスメールが残されました。録音には3分間葉が擦れ合う音、その後に何かが割れる音が含まれていました。加えて15秒間の甲高い悲鳴、それに続く機械的なカチカチ音で録音は終了しました。\n\nSCP-3633は、ピッツバーグの放棄されたアパートの一室の机の中から発見されました。同時に発見された異常物品はそれぞれAO-9099からAO-9108に指定されました。\"IN FRONT\"(前に)という言葉がSCP-3633の隣の位置に刻まれていました。部屋を借りていた人物の記録は発見されませんでしたが、アパートの所有者は8ヶ月分の家賃に相当する金銭の補償を受け取っていたことが判明しています。\n\n**補遺SCP-3633-1:** 研究員らによって\"私\"および\"私の後ろ\"とのコミュニケーションが試みられました。以下はその実験の結果です。送信者名を\"SCP-3633\"とした上で、グループテキストの形式で\"私\"と\"私の後ろ\"の両者に対してメッセージが送信されました。\n \n> //4:12// - **SCP-3633:** こんにちは。誰かいますか？\n> \n> //4:12// - **私:** 🙈\n> \n> //4:12// - **私:** 👀\n> \n> //4:13// - **SCP-3633:** あなたは誰ですか？\n> \n> //4:15// - **SCP-3633:** あなたは何ですか？\n> \n> //4:22// - **SCP-3633:** おーい。\n> \n> //11:47// - **私の後ろ:** 🤐\n\n以後の実験で返信が記録された例はありません。\n\n**補遺SCP-3633-2:** 不定の間隔で、SCP-3633は\"私\"および\"私の後ろ\"からのテキストメッセージを電波状況と無関係に受信するようになりました。メッセージは常に二つ一組となっており、一方はキャプション付きの画像で、もう一方は文章です。\n\nメッセージは過去にSCP-3633で用いられていたフォーマットとは異なり、また内容のスクリーンショットを行った際には全面がノイズの画像が生成されました。従って、SCP-3633が受信したメッセージは転写の形で以下に表示されます。各ファイル名やメッセージの内容は正確に記録され、特徴的なスタイル・外見の要素も含めて可能な限り再現されています。\n\n[[collapsible show=\"+ lie1.jpg\" hide=\"- lie1.jpg\"]]\n[[div id=\"myTextMessageConvoDiv\" style=\"border-radius: 25px; background: #ddd2c7;padding: 15px;\"]]\n__**私:**__\nあいつらはどこにでもいるスタンドにも席にもフィールドを見てもどこにでもいるあいつらはどこにでもいる\n\n[[=image lie1.jpg size=\"medium\"]]\n[[/div]]\n@@@@\n[[div id=\"myTextMessageConvoDiv\" style=\"border-radius: 25px; background: #c9d6e2;padding: 15px;\"]]\n__**私の後ろ:**__\nあいつらがみえるだろう\n##dae4ed| わたしはしょーがみたかっただけ##\n[[/div]]\n[[/collapsible]]\n@@@@\n[[collapsible show=\"+ lie2.jpg\" hide=\"- lie2.jpg\" ]]\n[[div id=\"myTextMessageConvoDiv\" style=\"border-radius: 25px; background: #ddd2c7;padding: 15px;\"]]\n__**私:**__\n廊下の終わりは明るすぎる\n\n[[=image lie2.jpg size=\"medium\"]]\n[[/div]]\n@@@@\n[[div id=\"myTextMessageConvoDiv\" style=\"border-radius: 25px; background: #c9d6e2;padding: 15px;\"]]\n__**私の後ろ:**__\nそれはえんえんとつづいておわらない\n##dae4ed| まがりみちはひなんばしょへのびる##\n[[/div]]\n[[/collapsible]]\n@@@@\n[[collapsible show=\"+ lie3.jpg\" hide=\"- lie3.jpg\"]]\n[[div id=\"myTextMessageConvoDiv\" style=\"border-radius: 25px; background: #ddd2c7;padding: 15px;\"]]\n__**私:**__\n悲鳴と歌とサイレンと水音が聞こえる\n\n[[=image lie3.jpg size=\"medium\"]]\n[[/div]]\n@@@@\n[[div id=\"myTextMessageConvoDiv\" style=\"border-radius: 25px; background: #c9d6e2;padding: 15px;\"]]\n__**私の後ろ:**__\nあいつらはひかりのなかでたのしみわたしはくらやみのなかからみる\n##dae4ed| わたしはにゅうじょうりょうをはらうことができない##\n[[/div]]\n[[/collapsible]]\n@@@@\n[[collapsible show=\"+ truth.jpg\" hide=\"- truth.jpg\"]]\n[[div id=\"myTextMessageConvoDiv\" style=\"border-radius: 25px; background: #ddd2c7;padding: 15px;\"]]\n__**私:**__\n私\n\n[[=image notme.jpg size=\"medium\"]]\n[[/div]]\n@@@@\n[[div id=\"myTextMessageConvoDiv\" style=\"border-radius: 25px; background: #c9d6e2;padding: 15px;\"]]\n__**私の後ろ:**__\nそこにいないのはわたしだ\n##dae4ed|わたしはどのしゃしんもとってない##\n[[/div]]\n[[/collapsible]]\n\n最後のメッセージが受信された後、カメラアプリを起動すると以下の画像のみが表示されるようになりました：\n\n[[collapsible show=\"+ home.jpg\" hide=\"- home.jpg\"]]\n[[=]]\n[[=image home.jpg size=\"medium\"]]\n[[/=]]\n\n##FFFFFF|私: どうしてあいつらは眠らない##\n\n##FFFFFF|私の後ろ: それはめのうしろにひそむ##\n\n##FFFFFF|私の後ろ: あなたほど助けが必要な人はいない##\n[[/collapsible]]",
+  "tags": [
+    "en",
+    "safe",
+    "scp",
+    "コンピュータ",
+    "共著",
+    "知性",
+    "自律",
+    "録音録画",
+    "電子デバイス"
+  ],
+  "author": null,
+  "created_at": "2018-09-29T14:42:48+00:00",
+  "updated_at": "2021-08-29T16:43:58+00:00",
+  "rating": 24,
+  "_site": "scp-jp",
+  "_fullname": "scp-3633"
+}

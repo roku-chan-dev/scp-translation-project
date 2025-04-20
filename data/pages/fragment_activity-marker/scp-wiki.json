@@ -1,0 +1,13 @@
+{
+  "title": "Activity Marker",
+  "content": "[[module CountPages tags=\"{$tag}\" -_canon-hub -_tale-hub\"wrapper=\"no\"]]\n[[div_ class=\"activity-container [[#ifexpr %%total%% >= 60 | large-c | not-large-c ]] \" data-number=\"%%total%%\"]]\n[[span class=\"large-marker\"]]large canon[[/span]]\n[[/div]]\n[[/module]]",
+  "tags": [
+    "fragment"
+  ],
+  "author": "EstrellaYoshte",
+  "created_at": "2023-09-08T17:38:21+00:00",
+  "updated_at": "2024-11-16T16:32:36+00:00",
+  "rating": 0,
+  "_site": "scp-wiki",
+  "_fullname": "fragment:activity-marker"
+}

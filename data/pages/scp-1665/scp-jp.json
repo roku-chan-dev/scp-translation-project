@@ -1,0 +1,17 @@
+{
+  "title": "SCP-1665",
+  "content": "[[module CSS]]\ndiv.box {\n    border: 1px solid black;\n    background: white;\n    padding: 0.5rem;\n    margin: 0.5rem;\n    flex-basis: 50%;\n}\n\ndiv.clues {\n    display: flex;\n    flex-wrap: nowrap;\n    justify-content: space-evenly;\n    align-items: flex-start;\n}\n\n@media screen and (max-width: 500px) {\n    div.box {\n        flex-basis: 100%;\n    }\n    div.clues {\n        flex-wrap: wrap;\n    }\n}\n\n[[/module]]\n\n[[>]]\n[[module Rate]]\n[[/>]]\n\n[[image scp1665.png style=\"padding: 5px; border: solid 1px #ccc; margin-top: 10px;\"]]\n\n//訳注:全てのカギを英語で解答する必要があります。//\n\n[[div class=\"box clues\"]]\n[[div class=\"box\"]]\n__**[[size 120%]]横のカギ[[/size]]**__\n**1.** 財団@@_____@@は所有者と書籍について記録を試みた後、当該書籍を保管しました。\n**6.** SCP-1665のクロスワードパズルは@@________@@向けに作られているようで、天気や地理など日常的な事柄が主に出題されており、解答は容易です。\n**8.** 説明: SCP-1665は[削除済]ブランドの@@_________@@パズルとして1999年に出版されました。\n**11.** 特別収容@@__________@@:\n**15.** SCP-1665の@@_________@@な特徴は文書による記録が試みられた際に現れます。\n**18.** 全ての文書記録はクロスワード@@______@@の形式に置き換えられてしまうことが、SCP-1665に関する情報の保管を困難にしています。\n[[/div]]\n[[div class=\"box\"]]\n__**[[size 120%]]縦のカギ[[/size]]**__\n**1.** @@___________@@:\n**2.** SCP-1665はSite 39の低価値物品棟の@@______@@に保存されます。\n**3.** SCP-1665に関する全ての試験@@_______@@は音声形式でなければなりません。\n**4.** SCP-1665はカナダ[削除済]市の古道具屋で@@______@@されました。\n**5.** 以上から、録音装置がSCP-1665に関する情報の保存について@@_________@@手段です。\n**7.** その@@___________@@から、SCP-1665は5回独立に試験されています。\n**9.** オブジェクトクラス: @@____@@\n**10.** 情報価値が低いことから、現在のところSCP-1665の試験は@@______@@ Smith氏により中止されています。\n**12.** 書籍に掲載されているパズルは全て@@________@@であり、使われた形跡はほぼありません。\n**13.** SCP-1665のパズルはこのような@@_____@@を埋める形式で、解答は概ね容易です。\n**14.** SCP-1665を用いた実験にはレベル@@_____@@研究者の承認が必要です。\n**16.** 録@@_____@@や、その他の文字によらない記録方法はSCP-1665の特性による影響を受けません。\n**17.** 所有者はたびたび@@___@@-@@____@@を「魔法のクロスワードパズル」として販売しようと試みていました。\n[[/div]]\n[[/div]]\n\n\n[[collapsible show=\"転載注:解答\" hide=\"閉じる\"]]\n[[div class=\"box clues\"]]\n[[div class=\"box\"]]\n__**[[size 120%]]横のカギ[[/size]]**__\n1. Agent\n6. Children\n8. Crossword\n11. Procedures\n15. Anomalous\n18. Puzzle\n[[/div]]\n[[div class=\"box\"]]\n__**[[size 120%]]縦のカギ[[/size]]**__\n1. Addendum\n2. Locker\n3. Records\n4. Discovered\n5. Preferred\n7. Acquisition\n9. Safe\n10. Doctor\n12. Unsolved\n13. Blank\n14. Three\n16. Audio\n17. SCP-1665\n[[/div]]\n[[/div]]\n[[/collapsible]]",
+  "tags": [
+    "en",
+    "safe",
+    "scp",
+    "メタ",
+    "文書"
+  ],
+  "author": "gnmaee",
+  "created_at": "2015-12-31T04:29:31+00:00",
+  "updated_at": "2021-06-06T17:58:33+00:00",
+  "rating": 30,
+  "_site": "scp-jp",
+  "_fullname": "scp-1665"
+}

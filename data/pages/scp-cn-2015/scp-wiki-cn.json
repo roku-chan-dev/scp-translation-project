@@ -1,0 +1,23 @@
+{
+  "title": "SCP-CN-2015",
+  "content": "[[>]]\n[[module Rate]]\n[[/>]]\n\n[[module ListPages category=\"fragment\" parent=\".\" limit=\"1\" order=\"created_at\" offset=\"@URL|0\"]]\n%%content%%\n[[/module]]\n\n[[footnoteblock]]\n\n[[div class=\"footer-wikiwalk-nav\"]]\n[[=]]\n<< [[[SCP-CN-2014]]] | SCP-CN-2015 | [[[SCP-CN-2016]]] >>\n[[/=]]\n[[/div]]\n\n[!-- http://scp-wiki-cn.wikidot.com/fragment:scp-cn-2015-1 --]\n[!-- http://scp-wiki-cn.wikidot.com/fragment:scp-cn-2015-2 --]\n[!-- http://scp-wiki-cn.wikidot.com/fragment:scp-cn-2015-3 --]",
+  "tags": [
+    "keter",
+    "scp",
+    "site-cn-12",
+    "信息危害",
+    "原创",
+    "叙述性",
+    "未收容",
+    "模因",
+    "相啸魔",
+    "精神影响",
+    "认知危害"
+  ],
+  "author": "PROTECT WATER",
+  "created_at": "2021-03-27T09:24:22+00:00",
+  "updated_at": "2022-12-29T03:35:58+00:00",
+  "rating": 63,
+  "_site": "scp-wiki-cn",
+  "_fullname": "scp-cn-2015"
+}

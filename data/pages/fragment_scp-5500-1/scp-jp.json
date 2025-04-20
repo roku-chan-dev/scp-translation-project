@@ -1,0 +1,14 @@
+{
+  "title": "SCP-5500-1",
+  "content": "[[module css]]\n.hover {\n  color: red;\n  text-decoration: underline;\n}\n.hover .hover-text {\n   position: absolute;\n   display: none;\n   margin: 20px 0px;\n   height: auto;\n   width: auto;\n   background:white;\n   border: 1px solid black;\n   color: black;\n   padding: 0.5em;\n}\n\n.hover:hover {\n  text-decoration: none;\n  border-bottom: none;\n  color: #004c00;\n}\n.hover:hover .hover-text {\n  display: inline;\n}\n[[/module]]\n\n[[table style=\"border: none; width: 100%;\"]]\n[[row]]\n[[cell]]\n[[size 125%]]**Item #:** SCP-5500[[/size]]\n[[/cell]]\n[[cell style=\"text-align: right;\"]]\n[[size 125%]]###990000|**Level 0/5500**##[[/size]]\n[[/cell]]\n[[/row]]\n[[row]]\n[[cell]]\n[[size 125%]]**Object Class:** Apollyon\n[[/size]]\n[[/cell]]\n[[cell style=\"text-align: right;\"]]\n[[size 125%]]###990000|**Classified**##[[/size]]\n[[/cell]]\n[[/row]]\n[[/table]]\n\n[[div class=\"scp-image-block block-center\" style=\"width:100%;\"]]\n[[image http://scp-jp-storage.wikidot.com/local--files/file:2258894-2-o393/windsor1.jpg style=\"width:100%;\" link=#]]\n[[div class=\"scp-image-caption\" style=\"width:100%;\"]]\n財団による2033年イングランド探査の際にウィンザーサッカー場で撮影 ([[[http://ja.scp-wiki.net/djoric-s-author-page|SCP-5500-Ω-56]]]の死からおよそ2ヶ月後)\n[[/div]]\n[[/div]]\n\n**特別収容プロトコル:** SCP-5500の発生を理由に、終末論的捲られたヴェール・プロトコルが実施されています。多元宇宙が壊滅状態にあるため、大衆は超常現象や財団の存在を認知しています。\n\n財団のあらゆる調査は全てのSCP-5500-Ω個体に死をもたらした首謀者を発見することに焦点を置いています。その現在の目的と5500-Ω個体の死に関連する人物について調査が進行中です。[[span class=\"hover\"]][[span class=\"hover-text\"]]下線が引かれた赤文字のテキストはミーム暗号化が施されており、首謀者や殺害方法について判明した情報を既知宇宙の上位に存在する実体のみが見られる形で伝達しています。[[/span]]情報伝達のため、本ファイルや関連文書の随所で緋文字調査プロトコルが使用されています。[[/span]]\n\n**説明:** SCP-5500は複数のSCP-5500-Ω個体の死により引き起こされている現在進行中のZK-クラス現実不全シナリオであり、少なくとも9,245個の宇宙に影響を及ぼしています。\n\nSCP-5500-Ωは財団の観測下にある大多元宇宙圏よりも上位の現実世界に存在している人型実体 (あるいは人類) です。これらの実体は創作的執筆という手段を介して我々やその近隣の現実を改変する能力を有していますが、その影響度は不明です。\n\nSCP-5500-Ω個体が死亡すると、それまでその個体が影響を与えていた宇宙や実体に甚大な形而上的バックラッシュが発生します。影響範囲は事例ごとに異なり、その死の苛烈さに比例しています−　[[span class=\"hover\"]][[span class=\"hover-text\"]]SCP-5500-Ω-1の死の原因は心臓麻痺でした。[[/span]]SCP-5500-Ω-1が自然死と見られる死[[/span]]を迎えた事例では少なくとも4名の人間と3体のSCPオブジェクトが死亡しました。一方で[[span class=\"hover\"]][[span class=\"hover-text\"]]死因: 複数の多面体物体を強制的に摂食させられたことによる腹部の裂傷[[/span]]SCP-5500-Ω-56の殺害[[/span]]は観測された全ての宇宙において境界線イニシアチブの完全な壊滅、ならびに基準宇宙におけるイギリスの人口喪失を引き起こしました。\n\nSCP-5500-Aは、第三世代のSCP-5500-Ω観測装置です。\n\n[http://scp-jp.wikidot.com/scp-5500/offset/1 さらなる情報は機密指定を受けており、以下のアドレスにハードコピー形式でのみ保管されます……]",
+  "tags": [
+    "en",
+    "フラグメント"
+  ],
+  "author": "Red_Selppa",
+  "created_at": "2020-10-10T15:46:53+00:00",
+  "updated_at": "2022-10-08T06:41:09+00:00",
+  "rating": 0,
+  "_site": "scp-jp",
+  "_fullname": "fragment:scp-5500-1"
+}

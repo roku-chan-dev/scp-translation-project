@@ -1,0 +1,19 @@
+{
+  "title": "SCP-1162",
+  "content": "[[include :scpko:theme:black-highlighter-theme]]\n\n[[module CSS]]\n:root:lang(ko) {\n--logo-image: url(https://nu-scptheme.github.io/Black-Highlighter/img/logo.svg);\n}\n[[/module]]\n\n[[include component:rso]]\n[[include info:start]]\n**SCP-1162:** 우주비행사 조\n**저자:** [[*user Rounderhouse]]          \n**원작:** http://www.scp-wiki.net/scp-1162\n**역자:** [[*user mgpedersen]]\n[[include info:end]]\n\n**일련번호:** SCP-1162\n\n**등급:** 안전\n\n**특수 격리 절차:** SCP-1162의 외부는 향후 발각될 상황을 방지하기 위해 주변 환경과 비슷한 색을 칠하여 위장한 상태다. 멀리 떨어진 곳에 있는 대상의 위치, 비교적 무해한 성질과 본질적으로 수월한 역정보 작업 덕에, 격리에 드는 수고는 최소한의 수준만이 요구된다.\n\n**설명:** SCP-1162는 화성 최대 규모의 저지대 지역인 [[span class=\"ruby\"]]바스티타스 보레알리스[[span class=\"rt\"]]Vastitas Borealis[[/span]][[/span]]에 위치한 침실 3개, 화장실 2개 짜리 전원주택이다. 대상은 잔디밭은 물론이고, 주변 거리나 그외 분명한 영구적 흔적도 보이지 않는다. SCP-1162는 일반적인 미국식 전원주택과 그 내부까지 닮아있고, 변칙적인 수준으로 손상에 내성이 있는데, 유사한 재질의 비변칙적인 구조물이라면 살기에 적합치 않은 화성 표면의 환경에서는 빠르게 손상되기 때문이다.\n\nSCP-1162는 NASA 고정형 탐사선 //[[span class=\"ruby\"]]피닉스호[[span class=\"rt\"]]Phoenix[[/span]][[/span]]//가 처음 발견하였으며, 표면에 착륙하던 도중에 해당 구조물을 포착하였다. 재단이 위성 영상 자료를 습득한 뒤, SCP-████에서 차용한 실험적 FTL 기술을 사용한 재단 우주 왕복선 FS //[[span class=\"ruby\"]]이스칸데르호[[span class=\"rt\"]]Iskander[[/span]][[/span]]//가 조사를 위해 승무원 5명을 태우고 제09월면구역에서 이륙하였다.\n\n12주 뒤 우주 왕복선 //이스칸데르호//가 화성에 도착하였다. 승무원들은 그 집에서 주거의 흔적을 발견하였는데, 전형적인 미국식 전원주택 양식의 가구가 비치되어 있었다. 또한, 승무원들은 해당 구역에서 높은 수준의 잠재적 흄 준위를 탐지하였는데, 이는 대개 현실조작 활동과 관련이 있음을 시사하는 것이었다.\n\n주방에는 얼어붙은 성인 남녀 시신 2구가 위치해 있었다. 둘의 사인은 모두 질식사였으며, 시신은 아마도 바스티타스 보레알리스의 저기온(평균 -51°C)으로 인하여 사후 동결된 상태였다. 이로인해 피부에 금이 가고 피부가 변색된 탓에, 개체들의 인종은 특정할 수 없다. 식탁엔 와플과 베이컨이 차려져 있었으며, 둘 모두 반쯤 먹힌 상태로 얼어있었다.\n\n내부의 나머지 부분은 특별한 점이 없었지만, 요원들은 높은 흄 준위의 근원이 2층 침실에 있음을 발견하였다. 어린아이 취향에 맞게 장식된 침실에는 다양한 천체와 NASA 우주 왕복선이 있는 포스터 몇 개도 같이 붙어있다.\n\n바닥 한복판에 있는 판지 상자가 높은 흄 준위의 진원지이며, 조잡하게 만들어진 우주 왕복선 모조품 형태로 되어 있는데, 흰색으로 칠되어 있고 여러 개의 [[span class=\"ruby\"]]현창[[span class=\"rt\"]]鉉窓[[/span]][[/span]]과 도해가 그려져 있다. 판지 상자 안에는 태아 자세로 웅크린 어린 남자아이의 시체가 있다. 대상이 착용한 장난감 우주 헬멧은 시체와 꼭 달라붙어있다. 아래층의 시체들과는 다르게, 대상은 장기간의 굶주림으로 사망하였다.\n\n[[div class=\"authors\"]]\n[[include :scp-wiki:component:license-box\n|author=Rounderhouse]]\n[[include :scp-wiki:component:license-box-end]]\n[[/div]]",
+  "tags": [
+    "en",
+    "scp",
+    "건물",
+    "안전",
+    "외계",
+    "파괴불가능",
+    "현실조작"
+  ],
+  "author": "MGPedersen",
+  "created_at": "2021-07-22T13:31:46+00:00",
+  "updated_at": "2024-09-26T14:53:13+00:00",
+  "rating": 6,
+  "_site": "scpko",
+  "_fullname": "scp-1162"
+}

@@ -1,0 +1,11 @@
+{
+  "title": "10177",
+  "content": "overview: '2022/3/16 23:45に発生した宮城県南部を震源とするマグニチュード7.1～7.7相当の地震において地震計や住宅のみが揺れの影響を受け、生物は地震を感知できなかった。'\nswdate: '0'\ndate: ''\nswplace: '1'\nplace: 宮城県、山形県、福島県のほぼ全域及び岩手県、秋田県、茨城県、栃木県、新潟県の一部\nswchaseprocedure: '1'\nchaseprocedure: '影響範囲のみを範囲とする極小規模のアンニュイ・プロトコルの発動、日本国内におけるBクラス記憶処理を実施。これにより緊急地震速報は「同時に発生した地震による震源の誤評価／過大評価」、住宅への被害は「先の地震[[footnote]]同日23:36発生の福島県沖の地震[[/footnote]]による倒壊」として事実を隠蔽した。気象庁が管轄する地震計における当該時間の揺れのデータは地震が発生しなかった時間のものを使用し隠蔽。防災科学技術研究所の強震モニタのデータにおいてはエラーにより23:36の地震発生時のデータが再度配信されたことにし一時的な隠蔽。その後財団により適切な処理を実施。同所のKik-NET即時公開データは潜入している財団エージェントにより発表前に隠蔽された。'\nswaddendum: '0'\naddendum: ''\ntf2: '0'\nauthor: ''\nredirect-b: '[[module Redirect destination=\"/log-of-extranormal-events-jp'\nredirect-e: '\"]]'",
+  "tags": [],
+  "author": "se_tsu_na",
+  "created_at": "2024-12-15T11:42:37+00:00",
+  "updated_at": "2024-12-15T12:01:58+00:00",
+  "rating": 0,
+  "_site": "scp-jp",
+  "_fullname": "deleted:extranormal-events-jp:10177"
+}

@@ -1,0 +1,13 @@
+{
+  "title": "It Always Ends The Same 15",
+  "content": "[[include :scp-wiki:theme:black-highlighter-theme]]\n[[include :scp-wiki:theme:extra-black-highlighter-theme]]\n\n[[module CSS]]\n#page-title{display:none}\n\n :root{\n     --link-color: 221, 17, 17;\n     --visited-link-color: 221, 17, 17;\n     --hover-link-color: 221, 102, 17;\n}\n[[/module]]\n\n[[=image https://scp-wiki.wdfiles.com/local--files/fragment:it-always-ends-the-same-0/tv.PNG]]\n\n> [[[scp-5733 | \"Hey you there, I don't know you, and I don't know why you've just sat there watching this without doing nothing but please, I'm begging you, help me out here. What can I do to survive this?\"]]]\n\nYou stare at the television screen. She doesn't know you, but you know her. You told yourself last time would be the **last** time, yet you're here again.\n\nHow many times is it now? You gave up counting early on. \n\nHow many lost friends lost to obsession? You gave up counting that early on too.\n\nHow many nights' sleeps have you been torn out of by images of her mangled body screaming, as the knife is raised in climax? How many hours spent comparing her face to missing persons? How many days without washing, with the curtains drawn, huddled in front of an old VHS machine?\n\nHow many failures? Too many to count. How many successes? Too few to be countable.\n\n> \"Hey, please - I need your help. What should I do?\"\n\nThe weight of all the failed efforts, all your failures, *you* being the failure, bears down upon you. There's nothing you can do. Nothing. Try as you might, things will never change no matter how hard you will them to. \n\nYet still, you childishly cling to the hopeless hope that one day things will be easier. You know they never will be.\n\n[[table style=\"border-collapse:collapse; width: 100%;\"]]\n[[row]]\n[[cell style=\"font-weight:bold;padding: 1.0em 1.0em; text-align: center; border: 8px solid #141618; background-color: #a3a1a6; width: 50%;\"]]\n[[[https://scp-wiki.wikidot.com/it-always-ends-the-same/offset/16 |\"Just Give up!\"]]]\n[[/cell]]\n[[cell style=\"font-weight:bold;padding: 1.0em 1.0em; text-align: center; border: 8px solid #141618; background-color: #a3a1a6; width: 50%;\"]]\n[[[https://scp-wiki.wikidot.com/it-always-ends-the-same/offset/17|Give up.]]]\n[[/cell]]\n[[/row]]\n[[/table]]",
+  "tags": [
+    "fragment"
+  ],
+  "author": "Dysadron",
+  "created_at": "2023-04-03T21:02:17+00:00",
+  "updated_at": "2023-04-03T21:38:36+00:00",
+  "rating": 0,
+  "_site": "scp-wiki",
+  "_fullname": "fragment:it-always-ends-the-same-15"
+}

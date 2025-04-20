@@ -1,0 +1,19 @@
+{
+  "title": "SCP-CN-660",
+  "content": "[[module CSS]]\n#page-title {\n  display: none;\n}\n\n.meta-title {\n  border-bottom: solid 1px #bbbbbb;\n  color: #990011;\n  font-weight: normal;\n  margin: 0 0 0.6em;\n  padding: 0 0 0.25em;\n  font-size: 200%;\n}\n\n.meta-title p {\n  margin: 0;\n}\n[[/module]]\n[[module ListPages category=\"fragment\" parent=\".\" limit=\"1\" order=\"name\" offset=\"@URL|0\"]]\n[[div class=\"meta-title\"]]\n%%title%%\n[[/div]]\n[[/module]]\n[[>]]\n[[module Rate]]\n[[/>]]\n[[module ListPages category=\"fragment\" parent=\".\" limit=\"1\" order=\"name\" offset=\"@URL|0\"]]\n\n%%content%%\n[[/module]]\n\n[!-- http://scp-wiki-cn.wikidot.com/fragment:scp-cn-660-01 共五个迭代 --]\n\n[[footnoteblock]]\n@@@@\n[[div class=\"footer-wikiwalk-nav\"]]\n[[=]]\n<< [[[SCP-CN-659]]] | SCP-CN-660 | [[[SCP-CN-661]]] >>\n[[/=]]\n[[/div]]",
+  "tags": [
+    "keter",
+    "meta",
+    "scp",
+    "原创",
+    "叙述性",
+    "智能",
+    "电脑"
+  ],
+  "author": "Ninth BB",
+  "created_at": "2018-08-06T06:26:08+00:00",
+  "updated_at": "2018-09-02T10:07:46+00:00",
+  "rating": 45,
+  "_site": "scp-wiki-cn",
+  "_fullname": "scp-cn-660"
+}

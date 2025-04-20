@@ -1,0 +1,20 @@
+{
+  "title": "SCP-3904",
+  "content": "[[include :scpko:info:start]]\n**SCP-3904:** 스킨슈트 안의 고양이 두 마리,,Two Cats in a Skin Suit,, \n**저자:** [[*user minmin]]\n**역자:** [[*user quilt]]\n**원작:** https://scp-wiki.wikidot.com/scp-3904\n\n@@@@\n[[=]]\n[[[http://scpko.wikidot.com/quilt|###]]]\n[[/=]]\n\n> **파일명:** meow.png\n> **저자:** [[*user Communism will winCommunism will win]]\n> **라이선스:** CC BY-SA 3.0\n> **원저작물:**\n> ----\n> **명칭:** A 'Pet shop' stud cat eating hungrily after performing its 'Professional stud duty'.jpg\n> **저자:** Rudolph.A.Furtado\n> **라이선스:** Public Domain\n> **출처:** [https://commons.wikimedia.org/wiki/File:A_%27Pet_shop%27_stud_cat_eating_hungrily_after_performing_its_%27Professional_stud_duty%27.jpg Wikimedia Commons]\n> \n> **명칭:** Massive injury training dummies -- kuwait (374978585).jpg\n> **저자:** Christopher Miche\n> **라이선스:** CC BY 2.0\n> **출처:** [https://commons.wikimedia.org/wiki/File:Massive_injury_training_dummies_--_kuwait_(374978585).jpg Wikimedia Commons]\n[[include :scpko:info:end]]\n\n[[include component:image-block\n    name=meow.png |\n    caption=SCP-3904 4개체(세부 지정 불명)와 피험체 3904/04 (지글스).\n]]\n\n**일련번호:** SCP-3904\n\n**등급:** 안전\n\n**특수 격리 절차:** 모든 SCP-3904 개체들은 현재 제66기지의 저온 창고에 보관 중이다. 실험이 필요할 경우 제66기지 사육장에서 살아 있는 //Felis catus//(집고양이)를 요청할 수 있다.\n\n**설명:** SCP-3904는 인간 남성의 시체들로, 내부 구조에 극단적인 변화가 가해졌다. SCP-3904의 조직은 비변칙적 인체 조직과 구조상 동일하지만, 부패에 강력한 내성이 있으며 포름알데히드와 개박하가 섞인 냄새로 묘사되는 악취를 끊임없이 풍긴다. SCP-3904 개체들은 영양 섭취 없이 세포를 재생시킬 수 있다. SCP-3904 개체가 입은 상처는 시간에 따라 치유되지만, 치유 속도는 비변칙적 인간 신체보다는 느리다. \n\nSCP-3904 개체들은 비변칙적 시체와는 다르게 흉부와 복부 장기가 광범위하게 제거되어 눈에 띄게 큰 구멍이 뚫렸다. 각 구멍들은 얇은 피부 및 근육 조직으로 덮여 있고, 가장자리는 매끄럽게 소작되어 있다. SCP-3904의 흉강에서는 폐, 심장, 아래쪽 갈비뼈가 제거되었고, 횡격막은 그 자리에 남아 있다. 복부 구멍에는 모든 장기들이 제거되었다. 모든 SCP-3904 개체에서 장기를 제거하여 발생한 조직 손상은 매끄러운 흉터로만 남았다. \n\nSCP-3904에 뚫린 구멍들은 성체 집고양이 한 마리가 편안히 지내기에 충분한 크기다. 이러한 방식으로 고양이 두 마리가 자리잡은 SCP-3904는 스스로 움직이기 시작한다. 이 상태의 개체는 지각 능력이 있으나, 지성을 보이지는 않는다. 해당 개체는 두 발로 걸을 수 있지만, 독특하게 부자연스럽거나 \"관절이 뒤집힌\" 듯이 걷는다. 개체는 발성이 불가능한데, 이는 폐가 없기 때문으로 보인다. \n\n움직이는 SCP-3904 개체가 혼자 있다면 내부의 고양이가 나가지 않는 한 목적 없이 배회한다. 그러나 둘 이상의 개체가 가까운 거리에서 움직일 경우 이들은 초보적인 레슬링을 통해 상대방 안의 고양이를 떨어뜨리려 한다. 이것이 SCP-3904 개체에 의한 변칙적 충동 때문인지, 아니면 고양이의 본능 때문인지는 불명이다. \n\n특기할 점은 통제된 환경 하에서 70%의 고양이들이 SCP-3904의 내부를 그와 비슷하게 따뜻하고, 어둡고, 사방이 막힌 공간보다 선호했다는 점이다. 이것이 의미하는 바 또한 알 수 없다.\n\n[[footnoteblock]]",
+  "tags": [
+    "en",
+    "scp",
+    "고양이",
+    "사체",
+    "안전",
+    "이동",
+    "인간형",
+    "자가수복"
+  ],
+  "author": "quilt",
+  "created_at": "2024-10-26T11:52:03+00:00",
+  "updated_at": "2024-11-15T05:37:11+00:00",
+  "rating": 8,
+  "_site": "scpko",
+  "_fullname": "scp-3904"
+}

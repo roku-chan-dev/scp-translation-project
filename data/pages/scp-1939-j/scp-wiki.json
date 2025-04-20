@@ -1,0 +1,18 @@
+{
+  "title": "SCP-1939-J",
+  "content": "[[include theme:black-highlighter-theme]]\n\n[[include :scp-wiki:component:author-label-source start=--\n|name=Blue Foot\n|no-right-margin=*]]\nLike my stuff? Read more [https://scp-wiki.wikidot.com/blue-foot here,] and join my [https://discord.gg/h5uY646BER Discord server] to be notified whenever I post a new piece!\n[[include :scp-wiki:component:author-label-source end=--]]\n\n[[>]]\n[[module Rate]]\n[[/>]]\n\n[[include :scp-wiki:component:anomaly-class-bar-source\n|item-number= 1939-J\n|clearance= 1\n|container-class= pending\n|secondary-class= uncontained\n|disruption-class= \n|risk-class= warning\n]]\n-----\n\n[[include component:image-block | name= ceiling.jpg| caption= SCP-1939-J, as seen in Dr. Kieffer's third email to the Site-47 maintenance department. | width=300px]]\n\n**Special Containment Procedures:** SCP-1939-J is to be neutralized as soon as possible. However, the anomaly is currently uncontained.\n\n**Description:** SCP-1939-J is a broken ceiling tile. It is located in Dr. Helen Kieffer's living quarters, directly above her bed. \n\nSCP-1939-J appears to have been created by a combination of faulty piping located above Dr. Kieffer's living quarters, and the general disrepair of Site-47's Floor 6 staff housing wing. These theories are supported by the consistent leakage of water from the opening into Site-47's internal structure SCP-1939-J created, as well as the smell of mildew that has persisted within Dr. Kieffer's quarters after the creation of SCP-1939-J, which has caused Dr. Kieffer to suffer from congestion and several headaches.\n\nSCP-1939-J was discovered a month ago, when Dr. Kieffer noticed its presence while laying in bed. Dr. Kieffer, as all Site-47 employees are instructed to do in such a situation, contacted the site's maintenance department via email in order to repair the ceiling tiles and replace the piping above her living quarters, thereby neutralizing the anomaly. However, the maintenance department is yet to respond to the threat posed by SCP-1939-J. Dr. Kieffer has attempted to contact the maintenance department via four subsequent emails, and has made a personal visit to the department's office to discuss the matter. However, no progress in containing SCP-1939-J has been made by the proper authorities.\n\nDuring the time SCP-1939-J has remained uncontained, it has caused damage to Site-47 property and injury to site staff. Due to SCP-1939-J's location above Dr. Kieffer's bed, she has suffered sleep deprivation due to water droplets falling from the anomaly onto her head when she was attempting to rest. A week after SCP-1939-J was discovered, Dr. Kieffer was provided an air-filled mattress by the Site-47 maintenance department. However, this mattress is incapable of remaining inflated for long periods of time due to the several leaks located on it, causing Dr. Kieffer to largely sleep on the floor of her living quarters when attempting to use it. The pillow placed on the bed under SCP-1939-J has become waterlogged and is now unusable.\n\n----\n\n//You can't make an entry in the database because we haven't gotten to your roof yet, Helen.// - Maintenance Director Robert Hawks\n\n//Oh, now I have your attention?// - Senior Researcher Helen Kieffer",
+  "tags": [
+    "_cc",
+    "artifact",
+    "building",
+    "joke",
+    "pending",
+    "scp"
+  ],
+  "author": "Blue Foot",
+  "created_at": "2022-07-31T05:30:21+00:00",
+  "updated_at": "2025-04-02T00:03:58+00:00",
+  "rating": 105,
+  "_site": "scp-wiki",
+  "_fullname": "scp-1939-j"
+}

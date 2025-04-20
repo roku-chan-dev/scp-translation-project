@@ -1,0 +1,13 @@
+{
+  "title": "清除",
+  "content": "[[module css]]\n.danke{\npadding: 5px 5px 5px 15px;\nmargin-bottom:10px;\nfont-family: monospace;\nfont-size: 1.1em; }\n\n.agent{\nbackground-color:#002200;\nborder: 3px solid #55AA55;\ncolor: #77CC77;\n}\n\n.site{\nbackground-color:#222200;\nborder: 3px solid #AAAA55;\ncolor: #DDDD77;\n}\n[[/module]]\n\n[[include :scp-wiki-cn:theme:black-highlighter-theme]]\n[[include :scp-wiki:component:bhl-dark-sidebar]]\n\n[[div class=\"danke agent\"]]\n\n@@> 错误，指令已撤销。@@\n\n@@> 错误，指令已撤销。@@\n\n@@> 错误，指令已撤销。@@\n\n@@> aic投票结果：2赞同，1反对。@@\n\n@@> 否定，程序已终止。@@\n\n[[/div]]\n\n对不起，我亲爱的朋友。\n\n你们晚了。",
+  "tags": [
+    "补充材料"
+  ],
+  "author": "DrWeddell",
+  "created_at": "2021-09-05T03:27:57+00:00",
+  "updated_at": "2021-09-05T03:31:02+00:00",
+  "rating": 1,
+  "_site": "scp-wiki-cn",
+  "_fullname": "clear"
+}

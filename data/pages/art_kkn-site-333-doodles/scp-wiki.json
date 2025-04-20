@@ -1,0 +1,19 @@
+{
+  "title": "Site-333 character doodles",
+  "content": "[[include theme:black-highlighter-theme]]\n[[include :scp-wiki:component:centered-header-bhl]]\n[[include :scp-wiki:component:toggle-sidebar-bhl]]\n[[module CSS]]\n@import url('https://fonts.googleapis.com/css2?family=Playfair+Display:ital,wght@0,900;1,900&display=swap');\n\n:root {\n    --logo-image: url(\"http://scpdsandbox.wdfiles.com/local--files/site-333/At3.png\");\n    --header-title: \"SITE-333\";\n    --header-subtitle: \"HEAVEN ON EARTH\";\n    --header-font: 'Playfair Display', serif;\n    --title-font: 'Playfair Display', serif;\n    --body-font: 'Telex', sans-serif;\n    --bright-accent: 0, 109, 255;\n    --medium-accent: 0, 63, 197;\n    --dark-accent: 0, 22, 142;\n\n    --link-color: var(--medium-accent);\n}\n\n#extra-div-1 {\n    display: block;\n    position: absolute;\n    top: 0;\n    left: 0;\n    width: 100%;\n    height: 10rem;\n    background-image: url(\"http://scpdsandbox.wdfiles.com/local--files/site-333/PanoRam2.jpg\");\n    background-size: cover;\n    background-position: center;\n    background-repeat: repeat-x;\n    pointer-events: none;\n}\n\n#extra-div-2 {\n    display: block;\n    position: absolute;\n    top: 0;\n    left: 0;\n    width: 100%;\n    height: 10rem;\n    background: linear-gradient(0deg, rgba(0, 109, 255,1) 35%, rgba(204, 226, 255) 97%);\n    pointer-events: none;\n    opacity: 0.40;\n}\n\n#extra-div-3 {\n    display: block;\n    position: absolute;\n    top: 0;\n    left: 0;\n    width: 100%;\n    height: 10rem;\n    background-image: url(\"http://scptestwiki.wdfiles.com/local--files/undervegas/dicegold.png\");\n    background-size: cover;\n    background-position: center;\n    background-repeat: repeat-x;\n    pointer-events: none;\n    opacity: 0.65;\n\n}\n\n#header::before {\n    left: 0.5rem;\n    background-position: center -0.5rem;\n    opacity: 1;\n}\n\n#header h1, #header h2 {\n    margin: 1.7rem 0;\n}\n\n}\n.table2 {\n    --accentColor: rgb(40, 135, 189);\n}\n.custom2 .wiki-content-table {\n    width: 100%;\n}\n\n#header::before {\n    left: 0.5rem;\n    background-position: center -0.5rem;\n    opacity: 1;\n}\n\n#header h1, #header h2 {\n    margin: 1.7rem 0;\n}\n[[/module]]\n\n\n[[=]]\n[[module rate]]\n[[/=]]\n@@ @@\n\n[[div class=\"scp-image-block block-center\" style=\"width:100%;\"]]\n[[=image https://i.imgur.com/D6e6Oze.png width=\"100%\"]]\n[[div class=\"scp-image-caption\" style=\"width:100%;\"]]\nCharacter sheet for [*/art:kikunai-s-2023-art-exchange-gifts dododevil's 2023 art exchange gift], somehow didn't post this on the wiki\n[[/div]]\n[[/div]]\n@@ @@\n\n[[div class=\"scp-image-block block-center\" style=\"width:100%;\"]]\n[[=image https://i.imgur.com/Oir961p.png width=\"100%\"]]\n[[div class=\"scp-image-caption\" style=\"width:100%;\"]]\nVincent Bohart, his car post-[[[SCP-7769]]], and [[[SCP-7529]]] disrupting his meal time\n[[/div]]\n[[/div]]\n@@ @@\n[[div class=\"scp-image-block block-center\" style=\"width:100%;\"]]\n[[=image https://i.imgur.com/YD0o9DX.png width=\"100%\"]]\n[[div class=\"scp-image-caption\" style=\"width:100%;\"]]\nNoah Patel's museum gift shop, Leonora Morales nail-clipping [[[SCP-7529]]], and Tony Catalano at work\n[[/div]]\n[[/div]]\n@@ @@\n[[div class=\"scp-image-block block-center\" style=\"width:100%;\"]]\n[[=image https://i.imgur.com/KwKg9IR.png width=\"100%\"]]\n[[div class=\"scp-image-caption\" style=\"width:100%;\"]]\nLeonora, drawn on one of CanonNexus Magma collaboration canvases\n[[/div]]\n[[/div]]\n@@ @@\n@@ @@\n@@ @@",
+  "tags": [
+    "artwork",
+    "cel-shaded",
+    "director-bohart",
+    "painted",
+    "personnel-art",
+    "scp-art",
+    "sketched"
+  ],
+  "author": "Kikunai",
+  "created_at": "2025-03-26T20:17:28+00:00",
+  "updated_at": "2025-03-26T20:20:02+00:00",
+  "rating": 39,
+  "_site": "scp-wiki",
+  "_fullname": "art:kkn-site-333-doodles"
+}

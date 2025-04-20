@@ -1,0 +1,15 @@
+{
+  "title": "グレートブッシュドッグ王国 ハブ",
+  "content": "[[module CSS]]\n@import url('https://fonts.googleapis.com/css2?family=Kiwi+Maru&display=swap');\nbody {\n    font-family: 'Kiwi Maru', sans-serif;\n}\n#page-content {\n  font-size: 111.775%;\n}\n[[/module]]\n[[include :scp-jp:component:changepagetitle |\nTITLE=グレートブッシュドッグ王国|\nCOLOR=#EEE]]\n[[include :scp-jp:credit:start]]\n**タイトル:** グレートブッシュドッグ王国 ハブ\n**著者:** [[*user leaflet]]\n**作成年:** 2024\n[[include :scp-jp:credit:end]]\n@@@@\n@@@@\n@@@@\n@@@@\n@@@@\n@@@@\n@@@@\n@@@@\n[[=]]\n[[size xx-large]]入国をご希望ですか？[[/size]]\n[[/=]]\n@@@@\n@@@@\n@@@@\n[[=]]\n[[size xx-large]]・[[/size]]\n[[/=]]\n@@@@\n@@@@\n[[=]]\n[[size xx-large]]・[[/size]]\n[[/=]]\n@@@@\n@@@@\n[[=]]\n[[size xx-large]]・[[/size]]\n[[/=]]\n@@@@\n@@@@\n@@@@\n[[=image http://scp-jp-storage.wdfiles.com/local--files/file:2932571-63-tvqf/yabu.png width=\"190px\"]]\n@@@@\n@@@@\n[[tabview]]\n[[tab メインストーリー]]\n[[size large]]SCP-1775-JP[[/size]]　by [[*user leaflet]]\n[[[scp-1775-jp|グレートブッシュドッグ王国入国審査場]]]\n幻想に入りそこねるおはなし\n\n[[size large]]SCP-1785-JP[[/size]] by [[*user leaflet]]\n[[[scp-1785-jp|わんこインロッカー]]]\n幻想に入ってこられるおはなし\n\n[[size large]]SCP-1557-JP[[/size]] by [[*user leaflet]]\n[[[scp-1557-jp|王国流星騎士団の先鋒]]]\nきっとそれは幻想じゃないおはなし\n\n[[size large]]グレートブッシュドッグ王国のおはなし[[/size]] by [[*user leaflet]]\n[[[the-tale-of-the-great-bushdog|グレートブッシュドッグ王国のおはなし]]]\n幻想の向こう側のおはなし\n[[/tab]]\n[[tab アナザーストーリー]]\n[[[meet-henry|入国審査の裏側で(SCP-1775-JPイラスト)]]] by [[*user leaflet]]\n\n[[[gbd-immigration-stamp|グレートブッシュドック王国 出入国証印]]] by [[*user Ryu_JP]]\n\n[[/tab]]\n\n[[tab 世界観と書き方ガイド]]\nヤブイヌによる全てのイヌのための王国、グレートブッシュドッグ王国。住民たちはさまざまな特殊な能力を有している場合があり、財団がアノマリーとして管理するような物品を「アーティファクト」として活用しています。そこにはまだ見ぬ冒険や種族を超えた友情があるでしょう、しかしながら財団が目撃出来るのはその一端に過ぎません。ゆるい世界で起こる騒ぎは、基底世界にどれだけはみ出して来るでしょうか？\n\nこのシリーズは基本的に「閉じた連作」としたいと考えていますが、書きたい方を拒絶するわけではありません。ただし以下の点をご了承ください。\n・下書きの段階で[[*user leaflet]]によるチェックを受けていただきます。世界観にそぐわない点に関しては修正を要請する場合があります\n・メインストーリーとアナザーストーリーのどちらになるかは[[*user leaflet]]によって決定され、変更が行われる場合もあります\n・本ページへの追記は[[*user leaflet]]が行います\n\nシリーズの重要なポイントとして、社会的テーマや人種的モチーフをささやかに入れるということがあります。自分と違う存在、他者に対して助けたいと思う気持ち、分かり合いたいと思う気持ち、あるいは興味。こういった要素を「作品を通した説教」にならないよう楽しい要素として入れる（理想としては指輪物語におけるギムリとレゴラスのように）ことがグレートブッシュドッグ王国の作品として重要なことです。\n\n\n[[/tab]]\n[[/tabview]]",
+  "tags": [
+    "jp",
+    "グレートブッシュドッグ王国",
+    "ハブ"
+  ],
+  "author": "leaflet",
+  "created_at": "2024-08-30T00:23:37+00:00",
+  "updated_at": "2024-08-31T11:02:06+00:00",
+  "rating": 55,
+  "_site": "scp-jp",
+  "_fullname": "bushdog-hub"
+}

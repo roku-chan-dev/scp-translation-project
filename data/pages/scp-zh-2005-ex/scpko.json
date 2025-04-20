@@ -1,0 +1,21 @@
+{
+  "title": "SCP-ZH-2005-EX",
+  "content": "[[module CSS]]\n.email-example .collapsible-block-folded a.collapsible-block-link {\n    animation: blink 0.8s ease-in-out infinite alternate;\n}\n@keyframes blink {\n    0% { color: transparent; }\n    50%, 100% { color: #b01; }\n}\n.email {border: solid 2px #000000; width: 88%; padding: 1px 15px; margin: 10px; box-shadow: 0 1px 3px rgba(0,0,0,.5)}\n.email-example a.collapsible-block-link {font-weight: bold;}\n.tofrom {margin-left: 10px; margin-top: 5px; padding: 1px 15px; border-left: solid 3px maroon}\n[[/module]]\n\n[[include info:start]]\n인터넷 스타\n**原作:** [http://scp-zh-tr.wikidot.com/scp-zh-2005-ex SCP-ZH-2005-EX] by [[*user AbyssDream]]\n**譯者:** [[*user XCninety]]\n[[include info:end]]\n\n[[div style=\"border:solid 1px #999999; background:#f2f2c2; padding:5px; margin-bottom: 10px;\"]]\n[[=]]\n++++ RAISA 알림\n\n현재 열림하는 페이지는 SCP-ZH-2005-EX의 구 문서입니다. 이 문서는 현재 아무 효력이 없으나, 직원 참고·연구 목적으로 보존되었습니다.\n\n[[/=]]\n[[/div]]\n\n**일련번호:** SCP-ZH-2005\n\n**등급:** 케테르(Keter)\n\n**특수 격리 절차:** SCP-ZH-2005 감염 의심자는 추적하여 기억소거 및 심리치료를 실시한다.\n\n**설명:** SCP-ZH-2005는 2010년대부터 인터넷상에 출현하기 시작한 변칙현상이다. 이 현상에 감염된 자 (이하 SCP-ZH-2005-A) 는 \"소셜 플랫폼을 이용해 유명해져야 한다\"라고 뚜렷이 강력하게 집착하게 된다. SCP-ZH-2005-A는 감염 후 시간이 지날수록 판단력이 저하되며, 파괴·상해·자해 등 갖가지 위험한 행동을 일으켜 관심을 얻고자 한다.\n\n현재까지 SCP-ZH-2005의 기원은 파악되지 않았으며, 영향을 억제하는 약제를 개발하는 중이다.\n\n**부록:** 현재까지 파악된 SCP-ZH-2005-A 일부 목록\n\n||~ 번호 ||~ 커뮤니티에서 밝혀진 행동 ||~ 비고 ||\n|| -34 || 군사기지 침입 || ||\n|| -78 || 세척용품 섭취 || ||\n|| -116 || 목숨이 위험한 각종 도전을 진행 || -116은 20██년에 사망했다. ||\n|| -357 || 상품 절도 || ||\n|| -480 || 타인의 자살 장면을 녹화 || ||\n|| -628 || 각종 방식으로 여자친구를 괴롭힘[[footnote]]폭력과 더불어 해당자를 정신적으로 학대하는 내용이 담겨 있다.[[/footnote]] || 여자친구는 20██년 -628의 괴롭힘으로 사망했다. ||\n|| -679 || 행인을 묻지마로 괴롭힘 || ||\n|| -710 || 행인에게 묻지마로 범죄 실행 || ||\n|| -785 || 자살 기도 || -785는 20██년에 사망했다. ||\n|| -810 || 각종 생물 살해 || ||\n|| -946, -947, -948 || 특정 학생을 희롱한 다음 각기의 반응 || 이 학생은 20██년에 사망했다. ||\n|| -949 || 자살 || //[편집됨]// ||\n\n@@ @@\n@@ @@\n@@ @@\n@@ @@\n@@ @@\n@@ @@\n@@ @@\n@@ @@\n@@ @@\n@@ @@\n@@ @@\n@@ @@\n@@ @@\n@@ @@\n@@ @@\n@@ @@\n@@ @@\n@@ @@\n@@ @@\n@@ @@\n[[div class=\"email-example\"]]\n[[=]]\n------\n[[collapsible show=\"새 메일 (1) 건이 도착했습니다!\" hide=\"열람 중\"]]\n[[<]]\n[[div class=\"email\"]]\n[[div class=\"tofrom\"]]\n**받는이:** 왕샹이(王尚毅)\n**보내는이:** 우신(吳昕)\n**제목:** RE: 2005\n[[/div]]\n------\nSCP-ZH-2005-EX 관련 사안으로 저한테 여러 차례 문의를 주셨던 것 같습니다만, 이전에 설명드린 내용이 불분명했을 수도 있었겠다고 생각하여 다시 한 번 공식적으로 설명을 말씀드리고자 합니다.\n\n안타깝지만, SCP-ZH-2005-EX는 변칙현상이 아닙니다.\n\n물론 이 결론을 얻고 저도 다소 충격받았습니다만, 저뿐만 아니라 프로 연구진이 숱한 연구 끝에 내린 결과에 따르면, 변칙성은 없었습니다. 하나도 없었어요. SNS 소프트웨어에도 네트워크 서버에도 변칙성은 한 톨도 나타나지 않았고, 그들이 인터넷 스타가 되고 싶어서 저지르는 과격한 도전들은 모두 자기 뜻으로 생긴 일이었습니다.\n\n왜 이 현상을 떠나지 못하고 계속 집착하시는지 저도 압니다. 조카따님 이야기는 연구진 모두가 전해들었고, 매우 아끼고 계셨다는 점도 알지만, 재단은 비변칙적으로 발생한 사건에는 어찌할 수 없습니다.\n\n...조카따님을 죽인 것은 변칙세계의 현상이 아니라, 인터넷 스타가 되고 싶었던, 무지하고 잔인한 정상세계의 비행청소년이었습니다.\n\n@@ @@\n\n정말 죄송합니다.\n[[/div]]\n[[/<]]\n[[/collapsible]]\n[[/=]]\n[[/div]]",
+  "tags": [
+    "2021-동계경연-zh",
+    "scp",
+    "zh",
+    "강박",
+    "매체",
+    "온라인",
+    "인식재해",
+    "정신조작",
+    "해명"
+  ],
+  "author": "XCninety",
+  "created_at": "2021-12-31T05:08:08+00:00",
+  "updated_at": "2024-10-22T07:45:38+00:00",
+  "rating": 7,
+  "_site": "scpko",
+  "_fullname": "scp-zh-2005-ex"
+}

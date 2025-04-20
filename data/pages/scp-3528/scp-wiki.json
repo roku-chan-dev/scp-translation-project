@@ -1,0 +1,24 @@
+{
+  "title": "SCP-3528",
+  "content": "[[include :scp-wiki:theme:classic]]\n[[>]]\n[[module Rate]]\n[[/>]]\n\n[[include component:image-block name=GreaterNoctule.jpg|caption=A greater noctule bat, similar to SCP-3528.]]\n**Item #:** SCP-3528\n\n**Object Class:** Euclid\n\n**Special Containment Procedures:** SCP-3528 is contained within a large aviary, surrounded by a sound-absorbing barrier. SCP-3528's aviary is to be kept stocked with large birds for food. No female personnel, or personnel of German or Russian descent, are to interact with SCP-3528.\n\n**Description:** SCP-3528 is a bat-like creature with a wingspan of approximately 12m. SCP-3528 strongly resembles the greater noctule bat (//Nyctalus lasiopterus//).\n\nSCP-3528 is nocturnal and fully capable of flight, with a recorded top speed of 190 kph. SCP-3528 possesses vestigial eyes and sensitive ears. Examination of SCP-3528 has revealed a humanoid skeleton, fused to SCP-3528's chiropteran skeleton in several places. The presence of this skeleton does not affect SCP-3528, except for rare instances where SCP-3528 momentarily twitches when the jaw of the human skeleton opens slightly. Further examination revealed the presence of scar tissue and tissue rejection at certain points around the secondary skeleton.\n\nSCP-3528's feet possess large retractable claws that are capable of spontaneously heating and igniting objects gripped by them.\n\nTesting has shown that SCP-3528 uses a form of telepathy to hunt. SCP-3528's larynx, which would be specialized to echolocate in nonanomalous bats, instead emits focused, directional bursts of intense ultrasound. This sound generates large air vortices in its path and causes temporary partial paralysis in approximately 60% of female humans who hear it.\n\nSCP-3528 instinctively and aggressively attacks manned aircraft; however, these attacks are rarely effective against most modern aircraft. \n\nOn October 8, 1994, a remote Obskurakorps facility was discovered. Two preserved cadavers similar to SCP-3528 but smaller and lacking a secondary skeleton were found in a vault, and possessed multiple large bullet wounds. Additionally, remains were found matching those of German ace pilot Josef Kociok (a decorated pilot credited with 33 aerial victories, who received recognition for grounding the infamous Russian 46th Guards Regiment, an all-women bombing regiment nicknamed the \"Night Witches\" by the Germans.)\n\nDNA fragments in these remains match the secondary skeleton of SCP-3528.\n\n[[footnoteblock]]\n\n[[div class=\"footer-wikiwalk-nav\"]]\n[[=]]\n<< [[[SCP-3527]]] | SCP-3528 | [[[SCP-3529]]] >>\n[[/=]]\n[[/div]]\n\n[[include :scp-wiki:component:license-box]]\n=====\n> **Filename:** GreaterNoctule.jpg\n> **Author:** Nicolharper\n> **License:** CC BY 2.5\n> **Source Link:** [https://commons.wikimedia.org/wiki/File:GreaterNoctule.JPG Wikimedia Commons]\n=====\n[[include :scp-wiki:component:license-box-end]]",
+  "tags": [
+    "_cc",
+    "_licensebox",
+    "acoustic",
+    "airborne",
+    "alive",
+    "animal",
+    "euclid",
+    "fire",
+    "nocturnal",
+    "obskura",
+    "scp",
+    "telepathic"
+  ],
+  "author": "Weryllium",
+  "created_at": "2018-03-29T22:17:24+00:00",
+  "updated_at": "2022-03-26T17:07:21+00:00",
+  "rating": 90,
+  "_site": "scp-wiki",
+  "_fullname": "scp-3528"
+}

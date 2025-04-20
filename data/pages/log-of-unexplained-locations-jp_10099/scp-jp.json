@@ -1,0 +1,15 @@
+{
+  "title": "10099",
+  "content": "number: UE-20001-JP\ncontent: '内部に存在するエージェント・██と名乗る人物以外時間の流れが停止している市街地。市街地内に存在する時計やカレンダーから、市街地内の時間は2020/12/08 12:38:25である。エージェント・██には何らかの異常は見られない。'\ndate: '2025-01-31'\narea: 愛知県██市\nprotocol: \"市街地付近に専用サイトを建設し、市街地に通じる道路を全て封鎖する。\\n\\n**追記:** エージェント・██にインタビューを行った所、エージェント・██は[[[meshiochislash-s-proposal |プロトコル・ヴェルダンディ]]]に選出された職員であると判明した。尚、エージェント・██がプロトコル・ヴェルダンディに選出された記録は存在しない為、新たな調査が行われている。\"\nredirect-b: '[[module Redirect destination=\"/log-of-unexplained-locations-jp'\nredirect-e: '\"]]'",
+  "tags": [
+    "jp",
+    "剪定対象-子",
+    "合作記事剪定通知"
+  ],
+  "author": "A_blackcat",
+  "created_at": "2025-03-05T13:41:41+00:00",
+  "updated_at": "2025-04-02T15:24:51+00:00",
+  "rating": -4,
+  "_site": "scp-jp",
+  "_fullname": "log-of-unexplained-locations-jp:10099"
+}

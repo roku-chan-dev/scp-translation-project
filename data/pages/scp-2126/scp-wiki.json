@@ -1,0 +1,21 @@
+{
+  "title": "SCP-2126",
+  "content": "[[>]]\n[[module Rate]]\n[[/>]]\n\n[[include component:image-block name=2126letter-small.png|caption=Photocopy of SCP-2126. Click to enlarge.|width=170px|link=\"*https://scp-wiki.wdfiles.com/local--files/scp-2126/2126letter.png\"]]\n\n**Item #:** SCP-2126\n\n**Object Class:** Safe\n\n**Special Containment Procedures:** SCP-2126 is to be kept in an opaque plastic sleeve and held within a moisture-controlled storage locker.\n\n**Description:** SCP-2126 is a letter written in blue ink on a ruled sheet of P4 paper.  It is addressed to a person identified as “Davey” and appears to be written by said person’s grandmother.  Two horizontal creases in the paper suggest that it was at some point folded into thirds and placed in an envelope.  It reads as follows:\n    \n> January Third, 1970\n> \n> My Dearest Davey,\n> \n> It was so nice to see you for Christmas last week.  I always enjoy the time we spend together, especially now that you are studying at university.  I can’t believe my little Davey is going to be a doctor!\n> \n> Still, I wish you had decided to attend a school that wasn’t on the West Coast.  There are plenty of good schools here in New England.  You could have been close enough to visit all the time.  Besides, I think those California boys have become a bad influence on you.  I can’t imagine you going to church with your hair grown out like this.  When you were turned around, I almost mistook you for your sister.\n> \n> But I’m just a silly old woman.   I guess boys will be boys.  Or girls.  These are strange times.\n> \n> With Much Love,\n> Grandma\n> \n\nWhen SCP-2126 is read aloud from beginning to end, all of the reader’s hair follicles will immediately cease normal function and begin to pull hairs downward through the dermis and into adjacent tissues.[[footnote]] The mechanism producing this effect is unknown and currently under investigation. [[/footnote]]  Once there is no more hair above a particular follicle, the follicle will begin contributing cells to the inward-growing hair.\n\nThis process proceeds at a rate of 1.25 cm per month, approximating the average rate of human hair growth.  The process ceases for follicles producing body hair once the hair reaches the length the follicle would produce normally (such as for vellus and androgenic hair), but will proceed indefinitely for cranial hair should the person affected have live follicles within the dermis of their scalp.\n\nAutopsies have shown that the inverted hairs of individuals affected by SCP-2126 will grow uninhibited even through particularly dense tissues such as cartilage and bone.  Following greatly reduced mobility caused by hair growing through muscle and nerve tissue, death by SCP-2126 occurs once vital organs are sufficiently penetrated.\n\nReading recorded video, photographs, photocopies, or transcripts of SCP-2126 does not produce this effect.\n\n**Addendum:** The effect of SCP-2126 can be temporarily halted with chemicals that prevent hair growth or by surgical removal of follicles.  As the affected individual's body will quickly produce new follicles to replace those removed, the effect can be permanently halted only through surgical removal of the dermis.\n\n[[footnoteblock]]\n\n[[include :scp-sandbox-3:more-by-Lesh]]\n\n[[div class=\"footer-wikiwalk-nav\"]]\n[[=]]\n<< [[[SCP-2125]]] | SCP-2126 | [[[SCP-2127]]] >>\n[[/=]]\n[[/div]]\n\n[[include :scp-wiki:component:license-box]]\n=====\n> **Filename:** 2126letter-small.png\n> **Author:** Lesh\n> **License:** CC BY-SA 3.0\n> **Source Link:** [[[https://scp-wiki.wikidot.com/scp-2126|SCP Wiki]]]\n=====\n[[include :scp-wiki:component:license-box-end]]",
+  "tags": [
+    "_cc",
+    "_licensebox",
+    "biohazard",
+    "cognitohazard",
+    "document",
+    "memetic",
+    "safe",
+    "scp",
+    "visual"
+  ],
+  "author": "Lesh",
+  "created_at": "2015-06-26T01:07:22+00:00",
+  "updated_at": "2024-01-10T04:40:57+00:00",
+  "rating": 159,
+  "_site": "scp-wiki",
+  "_fullname": "scp-2126"
+}

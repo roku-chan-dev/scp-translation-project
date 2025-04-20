@@ -1,0 +1,14 @@
+{
+  "title": "10050",
+  "content": "overview: サイト-8126内の食堂、購買店等で保管されていたカカオを主原料とする食品が全て同質量のプラスチック爆薬に変化。全ての監視装置は非異常性の原因により変化の瞬間を観測出来なかった。\nswdate: '1'\ndate: 2017/02/13\nswplace: '1'\nplace: サイト-8126\nswchaseprocedure: '1'\nchaseprocedure: 当該食糧庫は2020年まで監視され、各年の2/12～15は監視が強化されます。回収されたプラスチック爆薬は分析の後、起爆処理されました。尚、その後の調査でサイト-8126の職場恋愛事案が激減した事が判明しました。\nswaddendum: '0'\naddendum: ''\ntf2: '1'\nauthor: 'Rubbish Shamrock'\nredirect-b: '[[module Redirect destination=\"/log-of-extranormal-events-jp'\nredirect-e: '\"]]'",
+  "tags": [
+    "jp",
+    "剪定対象-子"
+  ],
+  "author": "machikawa",
+  "created_at": "2020-07-23T14:46:51+00:00",
+  "updated_at": "2021-05-24T13:20:56+00:00",
+  "rating": 14,
+  "_site": "scp-jp",
+  "_fullname": "extranormal-events-jp:10050"
+}

@@ -1,0 +1,16 @@
+{
+  "title": "RAISA-007710(回収された文書)",
+  "content": "[[include :scp-jp:theme:ad-astra]]\n\n[[module css]]\n@import url('https://fonts.googleapis.com/css?family=Kalam&display=swap');\n\n.page {\n    display: block;\n    overflow: hidden;\n    center no-repeat; \n    float: center;\n   \n    background-attachment: scroll;\n    background-clip: border-box;\n    background-color: transparent;\n    background-image: linear-gradient(to top, gray 0%, #E4E4E4 8%);\n    background-origin: padding-box;\n    background-position: 0px 8px;\n    background-repeat: repeat;\n    background-size: 100% 20px;\n    \n    font-family: 'Kalam', cursive;\n    font-weight: bold;\n    font-size: 150%;\n    letter-spacing: 0.3px;\n    color: #222222;\n    border: solid 1px gray;\n    padding: 11px 20px 20px 20px;\n    margin: 10px 10px 10px 40px;\n\n    box-shadow: 3px 3px 2px gray\n    }\n\n.page p {\n    line-height: 20px;\n    margin: 0;\n}\n[[/module]]\n\n[[include info:start]]\n**RAISA-007710:** \"幽霊物語\"\n**著者:** [[*user MaliceAforethought]]\n**採用カノン:** [[[ad-astra-per-aspera-hub|アド・アストラ・ペル・アスペラ]]]\n-----\n\n[[=]]\n**[http://scp-jp.wikidot.com/maliceaf-author-ght この著者の他の作品はこちら]**\n[[/=]]\n[[include info:end]]\n\n> **__RAISA FILE:回収された文書 [非異常]__**\n> **著者:** SCPFスタッフ　ロナルド・デュポン\n> **ファイル作成日:** ████-██-██\n> **現在の状態:** SCPF霊障部門\n> \n> **通知:** //次の文書は、著者(執筆時点では不明)の死去後、サイト-14の第2研究所から回収されました。[[[aiad-homescreen | 人工知能適用課]]]、特に[[[ad-astra-per-aspera-hub |プロジェクト・ルミナル]]]に関連していると考えられています。//\n\n-----\n\n**文書の表:**\n\n[[div class=\"page\"]]\n\n@@    @@//3か月前、俺たちは魂を作った\n星をナビゲートするために設計された\n人の手によって作られた宇宙飛行士の魂を//\n@@@@\n@@@@\n@@@@\n//3週間前に俺たちはそれを殺った//\n@@@@\n@@    @@//電力サージと障害のあるヒューズコネクタ\n俺たちは朝にそいつらを起動して見つけた\n@@        @@何も//\n@@@@\n@@@@\n@@    @@//そして正直に\n認めるのは難しいけど\n俺はそれについてあまり悪く感じたことはない\n俺は詩人だ、脳科学者じゃあない\n@@        @@（またはロケット整備士）\n俺は人生を感情に捧げたからここにいる\nそして精神の研究のために//\n@@@@\n@@@@\n@@    @@//すべてが言われ終わったら気づいた\n彼らの死は正直間違いだった\nだが悪意はなかった\nほんの少しの不注意と\nそしていくつかの不運だ//\n@@@@\n@@@@\n\n[[/div]]\n\n-----\n\n**文書の裏:**\n\n[[div class=\"page\"]]\n@@    @@//AIがコピーされた\nバックアップが回収され\nそして復元された\n現在どこでもその写しが実行されている\nもちろん違う\nだが近い\n@@    @@あの致命的な事故を補えるのか？//\n@@@@\n@@@@\n@@@@\n@@@@\n@@@@\n@@        @@//そうだ//\n@@@@\n@@@@\n@@@@\n@@@@\n@@@@\n@@@@\n@@@@\n@@@@\n@@@@\n//でも\n事実は変えられない\n@@    @@毎晩\n俺たちの古い研究室で\n壊れたサーバーが点滅する\nそして悲鳴を上げる//\n@@@@\n[[/div]]\n----",
+  "tags": [
+    "en",
+    "tale",
+    "アド・アストラ",
+    "詩的文学"
+  ],
+  "author": "mitsuki1729",
+  "created_at": "2020-07-13T02:18:45+00:00",
+  "updated_at": "2021-03-16T13:38:06+00:00",
+  "rating": 13,
+  "_site": "scp-jp",
+  "_fullname": "ghost-story"
+}

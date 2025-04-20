@@ -1,0 +1,23 @@
+{
+  "title": "SCP-4952",
+  "content": "[[>]]\n[[module rate]]\n[[/>]]\n[[include :scp-wiki:component:cd-ver2\n|lv=1\n|item=SCP-4952\n|class=Safe\n|site-responsible=USMABO-Site-19\n|director=Dr. Charles Giers\n|research-head=Dr. Thaddeus Xyank\n|assigned-task-force=N/A\n]]\n[[a href=\"*http://scp-int.wikidot.com/niveaux-de-menace-des-objets-scp\" style=\"font-size: 18px; color: white; text-shadow: 1px 3px 1px rgba(0,0,0,0.3); text-decoration: none;\"]]\n[[span_ style=\"display: inline-block; width: 100%; background-color: green; text-align: center; border: 1px none #000; margin: 1px; padding-top: 8px; padding-bottom: 8px;\"]]\n**Threat Level:** Green\n[[/span]]\n[[/a]]\n------\n**Special Containment Procedures:** The land surrounding SCP-4952 has been purchased by the Foundation from the United States government. Due to the nature of SCP-4952, no further containment measures are necessary beyond standard anti-trespassing measures.\n\n**Description:** SCP-4952 is a recurring event associated with the exit of a decommissioned motor-vehicle tunnel, a nearby sinkhole, and the section of road connecting the aforementioned points, located in Frost National Park, [[[SCP-4006|Massachusetts]]].\n\nSCP-4952 involves the following components:\n* SCP-4952-1 is a 1963 Chrysler 300, painted a light blue.\n* SCP-4952-2 is a human male resembling American poet Robert Frost as he appeared circa. 1910. SCP-4952-2 is seated in the driver's seat.\n* SCP-4952-3 are three corpses identical to SCP-4952-2 in appearance. SCP-4952-3 are seated in the back seats, secured with seat belts.\n * In approximately 0.8% of recorded cases, a single instance of SCP-4952-3 is replaced with SCP-4952-4, a corpse resembling American musician Mal Blum as they appeared circa. 2015.\n* In addition to SCP-4952-2 through -4, SCP-4952-1 almost always[[footnote]] 99.96% of recorded instances. [[/footnote]] contains three two-liter canisters of kerosene, five neutralized instances of [[[SCP-4065]]]-1, an assortment of electrical wiring equipment, four to seventeen photographs of various North American musicians or poets[[footnote]] Several of which appear to have been marked with a red X. [[/footnote]], several firearms, three briefcases containing approximately 15 million units of an unidentified currency[[footnote]] Composed primarily of plastic coins and banknotes printed on low-quality paper, utilizing Roman numerals. Banknotes appear to additionally feature classical depictions of the Archons in Sarkicism.[[/footnote]], and a single suitcase filled with damaged electronics of unknown make and function. A variety of miscellaneous office supplies may also be present between iterations.\n\nDuring an iteration of SCP-4952, SCP-4952-1 will emerge from the tunnel at approximately 110 km/h, striking the last and second-to-last iterations of SCP-4952-1 and -2; SCP-4952-1 and -2 of the second-to-last iteration will be knocked into the sinkhole and subsequently disappear. SCP-4952-2 inevitably survives its initial SCP-4952 iteration, although its previous iteration is killed upon impact. SCP-4952-2 initially displays shock, then frustration upon the conclusion of SCP-4952.\n\nNew iterations of SCP-4952 are triggered under any of the following conditions:\n* SCP-4952-2 attempts to remove SCP-4952-3 or -4 from either iteration of SCP-4952-1.\n* SCP-4952-2 attempts to examine the corpse of its previous iteration.\n* Any attempt is made to transport any physical component of SCP-4952 outside the boundaries of SCP-4952.\n* Any attempt is made by external actors to prevent the immediate recurrence of SCP-4952.\n* An external actor addresses SCP-4952-2.\n* 3 hours, 56 minutes, and 27 seconds have passed since the last SCP-4952 event.\n\nSCP-4952 was discovered on 21/03/1986, following a series of distress signals received by Foundation agents stationed in Frost National Park.\n\n[[footnoteblock]]\n\n[[div class=\"footer-wikiwalk-nav\"]]\n[[=]]\n<< [[[SCP-4951]]] | SCP-4952 | [[[SCP-4953]]] >>\n[[/=]]\n[[/div]]\n[[include :scp-wiki:component:license-box]]\n[[include :scp-wiki:component:license-box-end]]",
+  "tags": [
+    "_licensebox",
+    "cack-hard",
+    "doctor-gears",
+    "humanoid",
+    "location",
+    "loop",
+    "safe",
+    "sarkic",
+    "scp",
+    "thad-xyank",
+    "vehicle"
+  ],
+  "author": "UraniumEmpire",
+  "created_at": "2019-08-25T00:38:20+00:00",
+  "updated_at": "2023-06-30T12:12:46+00:00",
+  "rating": 54,
+  "_site": "scp-wiki",
+  "_fullname": "scp-4952"
+}

@@ -1,0 +1,16 @@
+{
+  "title": "생",
+  "content": "[[div style=\"border:solid 1px #999999; background:#f0eeee; padding:5px; margin-bottom: 10px;\"]]\n[[include info:start]]\n**생**\n**저자:** [[*user Huskar_CN]]\n**원작:** http://scp-wiki-cn.wikidot.com/alive\n**역자:** [[*user Aiken Drum]]\n[[include info:end]]\n@@@@\n[[div style=\"border:solid 1px #999999; background:#f0eeee; padding:5px; margin-bottom: 10px;\"]]\n[[=]]\n++++ 줄거리 개요\n//오랜 시간이 지났습니다. 어느 한 시점에서부터 재단은 더이상 하나의 변칙개체도 발견하지 못하게 되었고, 이미 격리 중이던 변칙개체 역시 변칙성을 잃어가게 되었습니다. 어떤 직원들은 안도했고, 어떤 직원들은 그런 사실을 받아들이지 못했습니다. 모든 변칙성이 무효화되는 그날이 오기 전에 인류는 미래를 위한 선택을 해야만 합니다.//\n[[/=]]\n[[/div]]\n[[=]]\n[[image https://upload.wikimedia.org/wikipedia/commons/thumb/3/35/Amanecer_en_el_lago_Titicaca%2C_Puno%2C_Per%C3%BA%2C_2015-08-01%2C_DD_01.JPG/1280px-Amanecer_en_el_lago_Titicaca%2C_Puno%2C_Per%C3%BA%2C_2015-08-01%2C_DD_01.JPG  \" height=\"200px\"  width=\"600px\"]]\n\n\"변칙성의 소실은 인류가 다시금 질서와 새로운 생을 얻는 여명이 될 것인가, 아니면 이야기의 끝, 끝의 황혼이 될 것인가?\"\n\n----\n++++ 작품 목록\n[[/=]]\n[[div style=\"border:solid 1px #999999;width:48%;height:30em;background:#f0eeee;padding:5px;float:left;margin-bottom:10px\"]]\n++++ 점수 순\n[[module ListPages rating=\">0\" tag=\"+생 -허브\" order=\"rating desc\" separate=\"false\" limit=\"600\" perPage=\"10\"]]\n# %%title_linked%% (평점: %%rating%%， 코멘트: %%comments%%)\n[[/module]]\n[[/div]]\n[[div style=\"border:solid 1px #999999;width:48%;height:30em;background:#f0eeee;padding:5px;float:right;margin-bottom:10px\"]]\n++++ 투고 일자 순\n[[module ListPages category=\"-fragment\" tag=\"+생 -허브\" separate=\"false\" limit=\"600\" perPage=\"10\"]]\n# %%title_linked%% (평점: %%rating%%， 코멘트: %%comments%%)\n[[/module]]\n[[/div]]\n[[div style=\"display: inline-block; border:solid 1px #999999; background:#f0eeee; padding:5px; margin-bottom: 10px;\"]]\n[[=]]\n++++ 작문 지침\n[[/=]]\n* 이것은 협동 작문 프로젝트로, 변칙성을 잃어버린 세상을 묘사해야 합니다. 여러분은 그런 세상을 한 구석을 묘사할 수도, 사정을 알고 있는, 혹은 모르는 이들의 시점과생각을 묘사할 수도 있습니다. (설정은 본 페이지 상단에 있습니다)\n* 작품 간 설정 충돌은 허용되며, 서로 연관성이 있을 필요도 없습니다. 유일하게 요구되는 조건은 \"변칙성을 잃은\" 재단 세계관을 묘사해야 한다는 것 뿐입니다.\n* 여러분의 작품이 이 카논의 설정에 부합한다면 누구나 작품을 추가할 수 있습니다. 그러나, 여러분의 작품이 삭제 기준 점수보다 낮거나, 페이지 소유자가 설정에 부합하지 않다고 생각한다면, 여러분의 작품 역시 삭제되거나 이 페이지에서 제거될 것입니다.\n* 그 때문에 투고를 두려워하진 마세요. 저희는 그 누구의 기여도 환영합니다.\n[[/div]]\n[[/div]]",
+  "tags": [
+    "cn",
+    "공동작업",
+    "생",
+    "허브"
+  ],
+  "author": "Aiken Drum",
+  "created_at": "2021-05-01T05:58:25+00:00",
+  "updated_at": "2021-05-03T07:34:51+00:00",
+  "rating": 9,
+  "_site": "scpko",
+  "_fullname": "alive"
+}

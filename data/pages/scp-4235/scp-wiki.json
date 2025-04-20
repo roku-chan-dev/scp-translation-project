@@ -1,0 +1,19 @@
+{
+  "title": "SCP-4235",
+  "content": "[[>]]\n[[module Rate]]\n[[/>]]\n\n[[include component:image-block\n    name= http://borradores-scp-es.wdfiles.com/local--files/jakuwoski-s-workshop/Rose |\n    caption=  SCP-4235 in contaiment. |\n    width=250px\n]]\n\n\n**Item #:** SCP-4235\n\n**Object Class:** Safe\n\n\n**Special Containment Procedures:** SCP-4235 is stored in a granite-coated container at Site-34 outdoor facilities. The vase holding the object is to be watered and checked for structural damage weekly. Any signs of structural disrepair are to be reported to the appropriate personnel immediately.\n\nPersonnel are not to remain within 10 meters of SCP-4235 for more than 30 minutes weekly.\n\n\n**Description:**  SCP-4235 is a specimen of //Rosa chinensis// variety //semperflorens//, double floral type. Unlike other specimens of that variety, the object shows the inability to wither, decompose or deteriorate. Histological and genetic tests performed to the object have not revealed any notoriously different characteristics from other specimens of that species.\n\nSCP-4235 induces a state of entropic deterioration in organisms and objects within a 10 meter radius of itself. The rate at which subjects deteriorate is directly correlated to the rate of withering observed in non-anomalous specimens of //R. chisensis//.\n\nThe object was discovered among the ruins of a flower shop affected by a structural collapse on 21/12/2012. Additionally, the remains of Hugo Galindo, owner of the store whose disappearance had been reported two months earlier were recovered from the rubbles.\n\n\n**Addendum:** Message recovered from H. Galindo email.\n\n> Mon 01-10-2012 15:30\n>  \n> From: HGalindo@hotmail.com\n>   \n> To: MCDflowers@MCD.com\n>  \n> Subject: Rosa aeternum\n>  \n> Dear Mr. Marshall:\n>  \n> What you sold me is everything than promised and much more. A month has passed since you delivered me an exemplar of //Rosa aeternum// and it still shows no sign of withering or deterioration. It is still as lush as the first day, which is practically a miracle, especially considering the ravages of heat has done on my other flowers.\n> \n> Therefore, despite its high price I would like to order a dozen more of your \"immortal roses\", I already have potential buyers. In addition, send me the budget of the //Tulipa vitae//. \n> \n> But I need to ask you to send me the flowers in a few more days, I seem to get the flu and I don't know if I will be able to open the flower shop tomorrow.\n>  \n> Best regards, \n> \n> Hugo Galindo [[footnote]] Mr. Galindo was a non-native English speaker. Grammatical, syntactical and orthographic errors present in Mr. Galindo's message were maintained by the integrity of the document.[[/footnote]]\n\n[[footnoteblock]]\n[[div class=\"footer-wikiwalk-nav\"]]\n[[=]]\n<< [[[SCP-4234]]] | SCP-4235 | [[[SCP-4236]]] >>\n[[/=]]\n[[/div]]",
+  "tags": [
+    "_cc",
+    "alive",
+    "entropic",
+    "marshall-carter-and-dark",
+    "plant",
+    "safe",
+    "scp"
+  ],
+  "author": "Jakuwoski",
+  "created_at": "2019-03-25T23:40:31+00:00",
+  "updated_at": "2020-03-02T13:59:16+00:00",
+  "rating": 49,
+  "_site": "scp-wiki",
+  "_fullname": "scp-4235"
+}

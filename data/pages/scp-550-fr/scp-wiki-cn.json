@@ -1,0 +1,18 @@
+{
+  "title": "SCP-550-FR",
+  "content": "[[include :scp-wiki-cn:credit:start-standalone]]\n**标题：**SCP-550-FR - 黑月长嗥，只因不能言语\n**原作者：**[[*user macro_au_micro]]\n**译者：**[[*user Backlight SH]]\n**发布年份：**2021年\n[[include :scp-wiki-cn:credit:end-standalone]]\n\n[[module css]]\n@font-face {\n    font-family: 'Noto Sans SC';\n    src: url('https://fonts.googleapis.com/css2?family=Noto+Sans+SC&display=swap');\n    font-weight: normal;\n    font-style: normal;\n}\n\nblockquote {\n    border-style: solid;\n}\nblockquote tt {\n    border: 1px #aaa solid;\n    background-color: white;\n    padding: 0 2px;\n    font-family: 'D2Coding';\n}\n\n div.quote-block{\n     border: 3px double #999;\n}\n div.quote-block{\n     background-color: #f4f4f4;\n     padding: 0 1em;\n     margin: 1em 3em;\n}\n @media (max-width: 479px){\n     div.quote-block{ margin: 1em 0; }\n}\n @media (min-width: 480px) and (max-width: 580px){\n     div.quote-block{ margin: .5em; }\n}\n\n.textchange div.sitemember:nth-child(2) {\ndisplay:none;\n}\n\n.wide-hr hr{\n     width: 100%;\n     margin: auto;\n     border: none;\n}\n[[/module]]\n**项目编号：**SCP-550-FR\n\n**威胁等级：**黄 ##yellow|●##\n\n**项目等级：**Keter\n\n**特殊收容措施：**需持续监视所有确认被SCP-550-FR影响的个体。\n\n若确认个体的语言表达能力尚未出现任何重大问题，且未来不会遭遇该种情况，则不应采取任何行动。该个体意识到自身异常并就医时，以失语症或脑外伤等理由解释之。\n\n若发现个体在语言表达中已经出现或将发生重大问题，则立即拘捕之，以事故后进行手术为由进行声带切除术，执行记忆删除后释放。此时需对该个体进行手语教学，相关费用由基金会承担。\n\n目前，有38人受到SCP-550-FR影响，均已处于基金会监视中。\n\n由于项目的新病例较少见，尚未组建专门团队进行调查与收容。希望了解与项目有关的更多内容时，请联系以下人员之一：\n\n* Aloices博士，Site-Aleph儿童精神科事务主任（使用电子邮件联系，建议在无法联络其他人员时联系此人）\n* Bartin博士，认知危害专家（驻扎于Site-Aleph，随时可联系）\n* Jungkenai博士，医学部门副主任，病毒学专家（驻扎于Site-Aleph或Site-Mayim，建议面谈）\n* 钟博士，翻译部门顾问，史前异常文明专家（驻扎于Site-Aleph，此人患失语症，建议使用电子邮件联系）\n\n**描述：**SCP-550-FR为一类影响人类认知和语言的罕见病，感染对象将无法使用自己尚未使用的词汇进行语言表达。\n\n实际上，SCP-550-FR的具体影响取决于对象发病前使用过的词汇的量，通常情况下其多发于15岁以下人员，因其词汇量或多或少较为有限（若对象是从未说出任何语言的婴儿，则完全无法进行任何语言学习），但目前认为此类影响对成年人并不严重。此外，基金会推测SCP-550-FR完全不可能发生老年病例，因老年人在日常中很少使用新词汇。\n\n根据现存的狄瓦帝国相关文档，公元前11000年前后，曾有SCP-550-FR或类似异常现象发生并影响了狄瓦族5～14%的人口，史称“不灭瘟疫”[[footnote]]古狄瓦语：bushi ḳhi ḳáy，此名称来源于“不朽的狄瓦人”无法使用从几个世纪以来自帝国征服地区使用的语言输入的词汇交流。[[/footnote]]。目前确信阅读[[[SCP-140]]]将导致疾病流行高峰与当前时代更加接近，造成记录的SCP-550-FR病例数量增长。\n\n[[footnoteblock]]\n[[div class=\"wide-hr\"]]\n----\n[[/div]]\n@@ @@\n{{选项}}\n@@ @@\n> 此文件的可用选项列表已发送至您的私人电子邮箱。\n@@ @@\n{{删除}}\n@@ @@\n> 请在下方阐述删除文档的原因。\n@@ @@\n{{录入：“}}近来的研究表明，受SCP-550-FR影响的对象存在以前未被注意的异常语言特性。翻译部门将全权负责对SCP-550-FR的研究与收容工作，并在研究完成后撰写新文档。{{”}}\n@@ @@\n> 执行该操作需要您输入{{密钥}}。请对准麦克风并清晰地读出您的{{密钥}}。\n@@ @@\n{{音频转录：“}}...{{”}}\n@@ @@\n> 麦克风未检测到声音，请重试。\n@@ @@\n{{音频转录：“}}Meš sattema sahizá surau iárx saro sargiho laohor{{”}}\n@@ @@\n> 文档将在{{5}}分钟之内删除，该操作无法撤销。\n@@ @@\n{{登出}}\n@@ @@\n> 正在登出。再见，{{钟博士}}。",
+  "tags": [
+    "fr",
+    "keter",
+    "scp",
+    "yellow",
+    "狄瓦",
+    "语言"
+  ],
+  "author": "Backlight SH",
+  "created_at": "2023-03-24T01:32:36+00:00",
+  "updated_at": "2023-06-17T14:17:47+00:00",
+  "rating": 1,
+  "_site": "scp-wiki-cn",
+  "_fullname": "scp-550-fr"
+}

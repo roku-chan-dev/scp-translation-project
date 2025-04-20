@@ -1,0 +1,14 @@
+{
+  "title": "유산-FR 평가 모듈",
+  "content": "[[>]]\n[[div class=\"heritage-rating-module\"]]\n[[module Rate]]\n[[div class=\"heritage-emblem\"]]\n[[image http://fondationscp.wdfiles.com/local--files/component%3Aheritage-rating/scp-heritage-v3.png link=\"patrimoine-francais-de-la-fondation-scp\"]]\n[[/div]]\n[[/div]]\n[[/>]]\n@@@@\n@@@@",
+  "tags": [
+    "fr",
+    "구성요소"
+  ],
+  "author": "XCninety",
+  "created_at": "2019-02-04T13:06:43+00:00",
+  "updated_at": "2024-09-20T06:30:15+00:00",
+  "rating": 0,
+  "_site": "scpko",
+  "_fullname": "component:heritage-rating-fr"
+}

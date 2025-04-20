@@ -1,0 +1,20 @@
+{
+  "title": "SCP-CN-2774",
+  "content": "[[module ListPages category=\"fragment\" parent=\".\" limit=\"1\" order=\"name\" offset=\"@URL|0\"]]\n\n%%content%%\n[[/module]]\n\n[!--https://scp-wiki-cn.wikidot.com/fragment:scp-cn-2774-01\n\nhttps://scp-wiki-cn.wikidot.com/fragment:scp-cn-2774-02--]",
+  "tags": [
+    "2023新人竞赛",
+    "keter",
+    "scp",
+    "原创",
+    "合著",
+    "气象",
+    "精神影响",
+    "鸟类"
+  ],
+  "author": "Das Nibelungenlied",
+  "created_at": "2023-07-24T15:38:45+00:00",
+  "updated_at": "2023-07-24T17:46:43+00:00",
+  "rating": 9,
+  "_site": "scp-wiki-cn",
+  "_fullname": "scp-cn-2774"
+}

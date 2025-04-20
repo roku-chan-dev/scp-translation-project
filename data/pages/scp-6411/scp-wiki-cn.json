@@ -1,0 +1,20 @@
+{
+  "title": "SCP-6411",
+  "content": "[[module CSS]]\n.email-example .collapsible-block-folded a.collapsible-block-link {\n    animation: blink 0.8s ease-in-out infinite alternate;\n}\n@keyframes blink {\n    0% { color: transparent; }\n    50%, 100% { color: #b01; }\n}\n.email {border: solid 2px #000000; width: 88%; padding: 1px 15px; margin: 10px; box-shadow: 0 1px 3px rgba(0,0,0,.5)}\n.email-example a.collapsible-block-link {font-weight: bold;}\n.tofrom {margin-left: 10px; margin-top: 5px; padding: 1px 15px; border-left: solid 3px maroon}\n[[/module]]\n\n[[include :scp-wiki-cn:component:acs-peppo-lite\n|item-number=6411\n|clearance= 4\n|container-class= esoteric\n|secondary-class= thaumiel\n|secondary-icon=http://scp-wiki.wikidot.com/local--files/component:anomaly-class-bar/thaumiel-icon.svg\n|disruption-class= ekhi\n|risk-class= 警告\n|lang=cn \n]]\n\n**特殊收容措施：**不得将SCP-6411用于演讲，写作或其他媒介。任何此类使用将被视为一次收容突破，并就近派遣MTF进行适当处理。\n\n上述唯一例外为SCP-6411源文件，其保存于一机密站点的高安全级别保险柜内，该文件的语句仅能由已知逃逸的词位[[footnote]]不受形态变化影响的基本表义单位。例如，词汇//走(go)//、//走了(gone)//和//在走(going)//都是由词位“走(go)”派生而来的。[[/footnote]]组成。\n\n**描述：**SCP-6411为一Carpalóra级人造语言[[footnote]]一种人为编制的语言，而非约定俗成中自然形成。 [[/footnote]]，由语言学部创始人Joseph Harrison与应用武力部合作创制。任何超出特殊收容措施范围的用途将导致涉及所用全部词位的SCP-6411-A事件。\n\nSCP-6411-A事件将无一例外导致相关词位本体消失，转而回归其先前场所。通常情况下，这些场所会位移到事发地点。进一步的副作用取决于单个词位，故而无法提前预知。\n\n[[collapsible show=\"[请输入5级凭证以访问更多信息]\" hide=\"[ 授予访问权限。 ]\"]]\n\n**创建：**1931年，美国业余语言学家Joseph Harrison受基金会所托，编制了SCP-6411的基本语法结构。这是由于在过去的二十年间，未被适当收容的SCP-6411词位导致了多起命名违规事件。\n\nSCP-6411语法结构建立后，应用武力部举行了一场仪式，将SCP-6411词位此前的命名含义转换成Harrison提供的词位意义。由于该词位未被预知的共振作用，此建筑于仪式完成后倒塌，除了Harrison所在的烟囱。所有相关人员与实体均已罹难。\n\n**已知收容突破：**自SCP-6411诞生以来，已知发生三起SCP-6411-A事件。由于相关词位从SCP-6411中删除，其所涉语句和词位的原义已无法知晓。相关事件的已知信息记录如下：\n\n||||~ SCP-6411-A-1 ||\n||~ 涉及语句 || Mnamenoǵa ||\n||~ 事件描述 ||一名看守偶然遇见一份误留于收容单元外的SCP-6411文件。当他将其放回原处时，此看守念出了上述词位。||\n||~ 结果 || 这一事件导致一实体出现，其具备六条作为腿的类人手臂，环绕着一对大型鳞翅目双翼。随后该实体逃脱。看守人的尖叫惊动了站点安保人员，后者成功将该实体收容。然而，由于收容专家未找到可供喂饲的口腔，该实体在六天后因可能的营养不良而死亡。随后，此文件被移至当前高安全区域。||\n||||~ SCP-6411-A-2 ||\n||~ 日期 || 6.9.2012 ||\n||~ 涉及语句 || [未知] ||\n||~ 事件描述 ||波兰附近田野，疑似一未知政党使用SCP-6411发表了一段冗长的讲话。||\n||~ 结果 ||一片密林于上述田野自发长出，其中包括非波兰自然所属植落。尚未知晓该事件中是否有实体产生，或是否有人员幸存。||\n||||~ SCP-6411-A-3 ||\n||~ 日期 || 27.5.2016 ||\n||~ 涉及语句|| Maknên onewholeapsoverthedawnsky ielomast. ||\n||~ 事件描述 ||初级研究员Owens在电子化Harrison的个人作品时发现一份此前未知的SCP-6411文档，疑似创建于该语言设计的最初阶段。SCP-6411-A事件于Owens输入上述语句后发生。||\n||~ 结果 ||监控录像显示，两名半人形实体出现在Owens身后；其中一名头部从其腹部伸出，较人类而言更似狐狸。另一名的双腿呈螺旋状向下盘绕，不具备任何清晰的关节。两名实体注意到了Owens，并邀请他喝茶，同时称他为“久别的敌人”。作为一名独生子女的Owens对此感到吃惊，随后接受了。狐头实体摘下Owens的手臂，产生了三只茶杯，从手臂中渗出的液体流进了杯中，随后将茶杯分给三名对象。Owens瞬间昏迷，实体将手臂接回，离开房间，消失在监控之中。分析结果显示此种液体实为树汁。 ||\n\n@@ @@\n\n@@ @@\n\n@@ @@\n\n[[include :scp-wiki:component:coltop\n| show=+ O5-11，你有(1)条新信息。是否打开？\n| hide=- 打开。\n]]\n\n[[div class=\"email-example\"]]\n[[div class=\"email\"]]\n[[div class=\"tofrom\"]]\n**至：** O5议会\n**自：** O5-3\n**主题：**废止SCP-6411\n[[/div]]\n------\n议会同胞们，\n\n首先，我承认前辈们创制SCP-6411的决定富有灵感。一个随机的命名将不再造成收容突破——它只会在使用SCP-6411时发生，因为组成它的词汇已不再用于命名任何事物。\n\n诚然，问题在于，收容突破依然会发生。自2012年起，我们已有证据表明，关于SCP-6411的信息已泄露到基金会之外，这使得收容突破可能不再是概率问题，而是时间问题。\n\n两个选项摆在面前。要么，建立一种新的语言，使其成为新的SCP-6411，随后进行一种同样危险而艰难的仪式，将SCP-6411现存所有词汇都移入其中。(然后再次等待泄露)——或者，我们立即行动起来，找到一种方法来根除这种完整存在的语言—或名称。\n\n\n我知道，长期以来我们都不热衷于后一种选择。但实际上，在取舍之间，我本人看不到别的方法可以让这些//事物//待在**##green|森林里，在那里，语言是最强大的武器。##**\n\n我会在下次会议上就此问题提出投票。届时希望我们能够达成共识。\n\nO5-3\n[[/div]]\n[[/div]]\n\n[[include :scp-wiki:component:colend]]\n\n[[/collapsible]]",
+  "tags": [
+    "scp",
+    "thaumiel",
+    "仪式性",
+    "信息危害",
+    "基金会制",
+    "无名",
+    "语言",
+    "隔地促动"
+  ],
+  "author": "Hg-lab",
+  "created_at": "2021-09-13T00:48:21+00:00",
+  "updated_at": "2021-09-15T06:13:59+00:00",
+  "rating": 4,
+  "_site": "scp-wiki-cn",
+  "_fullname": "scp-6411"
+}

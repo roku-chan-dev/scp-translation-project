@@ -1,0 +1,22 @@
+{
+  "title": "SCP-8009",
+  "content": "[[module ListPages category=\"fragment\" parent=\".\" limit=\"1\" order=\"created_at\" offset=\"@URL|0\"]]\n%%content%%\n[[/module]]\n\n[!-- Relevant Pages: --]\n[!-- https://scp-wiki-cn.wikidot.com/fragment:8000contestdrclef-0 --]\n[!-- https://scp-wiki-cn.wikidot.com/fragment:8000contestdrclef-1 --]\n[!-- https://scp-wiki-cn.wikidot.com/fragment:8000contestdrclef-2 --]\n[!-- https://scp-wiki-cn.wikidot.com/fragment:8000contestdrclef-3 --]\n[!-- https://scp-wiki-cn.wikidot.com/fragment:8000contestdrclef-4 --]\n[!-- https://scp-wiki-cn.wikidot.com/fragment:8000contestdrclef-5 --]\n\n\n[[collapsible show=\"使用的版式与组件。\" hide=\"隐藏此块\"]]\n**迭代0（Raisa的警告）和迭代1（崩坏的SCP文件）** 使用的是[[*user Woedenaz]]的[[[https://scp-wiki-cn.wikidot.com/theme:black-highlighter-theme|黑色标记笔版式]]]\n \n**迭代2（伊利瑞尔之盟约）**使用的是[[*user stormbreath]]的[[[https://scp-wiki-cn.wikidot.com/theme:minimal|极简版式]]]的变体。此页面使用的是自己的CSS块，不会受到原版极简版式的更改的影响。\n \n**迭代3（异常人造物研究部门）**使用的是[[*user the-great-hippo]]的[[[https://scp-wiki-cn.wikidot.com/theme:creepypasta|Creepypasta版式]]]的变体。此页面使用的是自己的CSS块，不会受到原版Creepypasta版式的更改的影响。\n \n**迭代4（全球超自然联盟）**使用的是[[*user rounderhouse]]和[[*user aismallard]]的[[[https://scp-wiki-cn.wikidot.com/theme:goc|依职权]]]黑标版式。\n \n**使用的组件：**\n* [[[https://scp-wiki-cn.wikidot.com/anomaly-classification-system-guide|ACS抬头]]] by [[*user Woedenaz]]\n* [[[https://scp-wiki-cn.wikidot.com/component:image-features|图像缩放：悬停放大]]] by 未知用户。\n* [[[https://scp-wiki-cn.wikidot.com/component:pages|报纸、书页和便利贴]]] by [[*user Croquembouche]]\n[[/collapsible]]\n\n[[include :scp-wiki-cn:component:license-box\n|author=DrClef]]\n> **文件名：** Otherworlder_Skel.png\n> **图像名：** Human-Skeleton\n> **图像作者：** Sklmsta\n> **授权协议：** Creative Commons CC0 1.0 Universal Public Domain Dedication\n> **来源链接：** https://commons.wikimedia.org/wiki/File:Human-Skeleton.jpg\n> **额外备注：** 出于艺术目的，原版图像在照片编辑软件中进行了修改。\n\n> **文件名：** alchemical_bow.png\n> **图像名：** EB1911_-_Rifle_-_Fig._9_Belgian_Mauser\n> **图像作者：** Anonymous. Originally appeared in \"1911 edition of the Encyclopædia Britannica, volume 23 p. 330, __Rifle__ article.\"\n> **授权协议：** This work is in the public domain in the United States because it was published (or registered with the U.S. Copyright Office) before January 1, 1929.\n> **来源链接：** https://commons.wikimedia.org/wiki/File:EB1911_-_Rifle_-_Fig._9_Belgian_Mauser.png\n> **额外备注：**出于艺术目的，原版图像在照片编辑软件中进行了修改。\n\n> **文件名：** I_TURN_YOUR_WEAPONS_UPON_YOU_THOU_FOUL_VERMIN.png\n> **图像名：** \"Fractal flame created with FLAM3 for SideFX Houdini. Rendered with Mantra\"\n> **图像作者：** Alexnardini\n> **授权协议：** Creative Commons Attribution-Share Alike 4.0 International\n> **来源链接：** https://commons.wikimedia.org/wiki/File:Hypertiling_new.jpg\n> **额外备注：** 出于艺术目的，原版图像在照片编辑软件中进行了修改。\n\n> **文件名：** DARD.png\n> **图像名：** Deviant Artifacts Research Division Sigil\n> **图像作者：** Dr_Avenlee\n> **授权协议：** Creative Commons Attribution-ShareAlike 3.0 License\n> **来源链接：** Original Work\n> **额外备注：**出于艺术目的，原版图像在照片编辑软件中进行了修改。\n\n> **文件名：** Illyriel.png\n> **图像名：** Covenant Of Illyriel Sigil\n> **图像作者：** Dr_Avenlee\n> **授权协议：** Creative Commons Attribution-ShareAlike 3.0 License\n> **来源链接：** Original Work\n> **额外备注：**出于艺术目的，原版图像在照片编辑软件中进行了修改。\n\n> **文件名：** corruption.png\n> **图像名：** Corrupted Data Visualization\n> **图像作者：** DrClef\n> **授权协议：** Creative Commons Attribution-ShareAlike 3.0 License\n> **来源链接：** Original Work\n\n> **文件名：** \"Paradise Lost\"\n> **图像名：** John Milton\n> **授权协议：** This work is in the public domain in the United States because it was published (or registered with the U.S. Copyright Office) before January 1, 1929.\n> **来源链接：** https://www.gutenberg.org/cache/epub/20/pg20-images.html\n[[include :scp-wiki-cn:component:license-box-end]]",
+  "tags": [
+    "8000",
+    "euclid",
+    "meta",
+    "scp",
+    "全球超自然联盟",
+    "历史性",
+    "智能",
+    "活物",
+    "超维度",
+    "门径"
+  ],
+  "author": "Aegnus",
+  "created_at": "2024-04-14T04:42:34+00:00",
+  "updated_at": "2024-07-11T22:15:06+00:00",
+  "rating": 8,
+  "_site": "scp-wiki-cn",
+  "_fullname": "scp-8009"
+}

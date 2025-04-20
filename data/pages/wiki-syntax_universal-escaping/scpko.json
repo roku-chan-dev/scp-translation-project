@@ -1,0 +1,14 @@
+{
+  "title": "범용 탈출",
+  "content": "글에다가 임의의 글자 혹은 HTML 개체(유니코드 개체 포함)를 넣으려고 한다면, @<@&lt;>@ ... @<&gt;@>@를 사용하세요. 이 수순에서, 각각의 \"&\"는 \"&amp;\"로, 각각의 \"<\"는 \"&lt;\"로, 각각의 \">\"는 \"&gt;\"로 변환됩니다.\n\n탈출 수순은 &lt;와 같은 HTML 개체를 해석합니다.\n\n* &copy; (@<&copy;>@)와 같은 개체\n* &#252; (@<&#252;>@)와 같은 수개체\n* &#8212; (@<&#8212;>@) 혹은 &auml; (@<&auml;>@)와 같은 유니코드 개체\n\n++ 실시간 예시\n\n[[code]]\nHTML 개체: @<U 움라우트: &#252;>@\n@<[[code]]>@\n@<Hello world @@ !!!!>@\n@<굵게 표시되지 **않습니다**>@\n@<[[module ListPages]]>@\n@<저작권 표시: &copy;>@\n@<[[/code]]>@\n@<@&lt;>@와 @<&gt;@>@\n[[/code]]\n\n이렇게 나옵니다.\n\nHTML 개체: @<U 움라우트: &#252;>@\n@<[[code]]>@\n@<Hello world @@ !!!!>@\n@<굵게 표시되지 **않습니다**>@\n@<[[module ListPages]]>@\n@<저작권 표시: &copy;>@\n@<[[/code]]>@\n@<@&lt;>@와 @<&gt;@>@",
+  "tags": [
+    "관리",
+    "안내"
+  ],
+  "author": "Dr Devan",
+  "created_at": "2015-02-03T03:37:30+00:00",
+  "updated_at": "2015-02-03T03:37:58+00:00",
+  "rating": 0,
+  "_site": "scpko",
+  "_fullname": "wiki-syntax:universal-escaping"
+}

@@ -1,0 +1,20 @@
+{
+  "title": "SCP-CN-2304",
+  "content": "[[module CSS]]\n#page-content div.creditRate {\n    margin-right: 0;\n}\n\n#page-content div.myImageBlock {\n    margin: 2em 0;\n    width: 100%;\n    border: solid 1px #666;\n    background-color: #FAFAFA;\n    box-shadow: 0 1px 6px rgba(0,0,0,0.25);\n}\n#page-content div.myImageBlock img {\n    width: 100%;\n}\n#page-content div.myImageBlock div.myImageCaption {\n    text-align: center;\n    border-top: solid 1px #666;\n}\n#page-content div.myImageBlock div.myImageCaption p {\n    margin: 4px 1em;\n    padding: 0;\n}\n\n#page-content li {\n    margin-top: 1em;\n}\n\n#page-content div.sunImage p {\n    margin: 32px auto;\n    text-align: center;\n    font-size: 8vw;\n    user-select: none;\n}\n[[/module]]\n\n[[include :scp-jp:component:toggle-sidebar]]\n\n[[include :scp-jp:info:start]]\n**SCP-CN-2304** 太阳都升累了 / 太陽は昇るのに飽きた\n**著者:** [[*user DouglasLiu]]、著者ページは**[http://scp-wiki-cn.wikidot.com/douglasliu-author-page こちら]**\n[[collapsible show=\"▼ 著者コメント\" hide=\"▲ 著者コメント\"]]\n純金が儀式に出てくることや幾つかの数字については全くのデタラメってわけでもなかったりします。\n[[/collapsible]]\n[[include :scp-jp:info:end]]\n\n[[div class=\"myImageBlock\" style=\"width: 30%; float: right; margin: 1em 0 1em 1em\"]]\n[[div class=\"sunImage\"]]\n☉\n[[/div]]\n[[div class=\"myImageCaption\"]]\n**シンボル-2304**\n[[/div]]\n[[/div]]\n\n**アイテム番号:** SCP-CN-2304\n\n**オブジェクトクラス:** Thaumiel\n\n**特別収容プロトコル:** 各地区の支部はSCP-CN-2304の実行を担当するサイトを各国につき1つ選出します。該当するサイトは1日に1度、現地時間00:00から04:00にかけてSCP-CN-2304を実行するのに十分な数の職員を動員できる状態を維持するものとします。職員の継続的なSCP-CN-2304の実行による負傷を軽減するため、各サイトは状況に応じて職員を交代させることが推奨されます。\n\nSCP-CN-2304の実行後にSCP-CN-2304-1が正常に昇る様子が観測されなかった場合、当該サイトはこれを直ちに監督評議会に通知し、各サイトは“ヴェール崩壊”シナリオの可能性を想定した緊急事態に置かれる必要があります。\n\n**説明:** SCP-CN-2304は財団中国支部のサイト-CN-44応用神学部門が設計し、その有効性を確認した異常な儀式です。該当する儀式の完全な手順は以下の通りです。\n\n# 33名以上の人間が何もない場所に集合する。この際、各人の間隔は1.5m以下とする。\n# 各人が口に純金およそ2gを含み、東を向いて跪く。\n# 各人が純金製の鋭利な器具で自傷して血液を流出させ(指を傷つけることが推奨される)、傷口から流れ出た血液で前方の適切な距離の地面にシンボル-2304を描く。\n# 各人が描いた儀式図案に額を合わせ、この叩頭の姿勢を30分間保つ。その後、儀式の終結が宣言される。\n\nSCP-CN-2304-1は2021/04/23以降の太陽です。干渉が行われない限り、SCP-CN-2304-1が自然に東から昇る様子は時期にかかわらず地球上のどの地点からも観測できず、SCP-CN-2304-1の存在は地球の大気圏内のどの位置からも知覚できません。現時点では、SCP-CN-2304の毎日の実行が上述の異常現象を阻止できる唯一の手段です。",
+  "tags": [
+    "cn",
+    "k-クラスシナリオ",
+    "scp",
+    "thaumiel",
+    "インターナショナル",
+    "儀式",
+    "太陽",
+    "重訳"
+  ],
+  "author": "Flips_0122",
+  "created_at": "2022-06-18T16:02:15+00:00",
+  "updated_at": "2023-01-19T12:45:34+00:00",
+  "rating": 20,
+  "_site": "scp-jp",
+  "_fullname": "scp-cn-2304"
+}

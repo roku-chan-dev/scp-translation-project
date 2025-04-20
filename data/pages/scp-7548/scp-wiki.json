@@ -1,0 +1,30 @@
+{
+  "title": "SCP-7548",
+  "content": "[[include :scp-wiki:component:info-ayers\n|lang=en\n|page=component:info-ayers\n|authorPage=https://scp-wiki.wikidot.com/dr-dafydd-s-personnel-file\n|comments= SCP-7548 - //The Stars, the Hopeful//\n@@ @@\nAuthored by ArthCymro\n]]\n\n[[>]]\n[[module Rate]]\n[[/>]]\n\n[[module ListPages  category=\"fragment\" parent=\".\" limit=\"1\" order=\"created_at\" offset=\"@URL|0\"]]\n%%content%%\n[[/module]]\n\n[!-- https://scp-wiki.wikidot.com/fragment:scp-7548-0 --]\n[!-- https://scp-wiki.wikidot.com/fragment:scp-7548-1 --]\n\n[[module css]]\n.footnotes-footer {\ndisplay:none;\n}\n[[/module]]\n\n[[footnoteblock]]\n@@ @@\n[[include :scp-wiki:component:license-box]]\n> **Filename:** Sunspot\n> **Name:** Sunspot Loops in Ultraviolet\n> **Author:** Image Editor\n> **License:** CC BY-SA 2.0\n> **Source Link:** https://www.flickr.com/photos/11304375@N07/6799962115\n=====\n> **Filename:** sky\n> **Name:** Galaxy starry night sky background, free public domain CC0 photo.\n> **Author:** Nikolay Kondev\n> **License:** Public Domain\n> **Source Link:** https://www.rawpixel.com/image/5908721/image-public-domain-trees-stars\n=====\n[[include :scp-wiki:component:license-box-end]]\n\n[[div class=\"footer-wikiwalk-nav\"]]\n[[=]]\n<< [[[SCP-7547]]] | SCP-7548 | [[[SCP-7549]]] >>\n[[/=]]\n[[/div]]",
+  "tags": [
+    "_cc",
+    "_licensebox",
+    "_listpages",
+    "acoustic",
+    "electromagnetic",
+    "extradimensional",
+    "extraterrestrial",
+    "keter",
+    "musical",
+    "neutralized",
+    "pattern-screamer",
+    "radioactive",
+    "sauelsuesor",
+    "scp",
+    "second-hytoth",
+    "sun",
+    "thaumaturgy",
+    "uncontained"
+  ],
+  "author": "arthcymro",
+  "created_at": "2023-11-13T16:53:50+00:00",
+  "updated_at": "2024-07-07T18:03:33+00:00",
+  "rating": 31,
+  "_site": "scp-wiki",
+  "_fullname": "scp-7548"
+}

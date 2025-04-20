@@ -1,0 +1,14 @@
+{
+  "title": "저작자 목록-TH",
+  "content": "[[module CSS]]\n.content-panel.standalone {\n  padding: 20px 30px;\n}\n.sp-art-title {\n  font-size: 200%;\n  font-weight: bold;\n  margin-bottom: 10px;\n}\n[[/module]]\n[[div class=\"content-panel centered standalone series\"]]\n[[image http://scpko.wdfiles.com/local--files/nav:side/CC-by-sa.png width=\"300px\" link=\"http://creativecommons.org/licenses/by-sa/3.0/deed.ko\"]]\n(cc) users of SCP-TH, some rights reserved.\n\nAccording to [http://creativecommons.org/licenses/by-sa/3.0/ Creative Commons Attribution-ShareAlike 3.0 License] used by The SCP Foundation, all article must be attributed.\n\nThis page is for authors of translated articles in SCP Korean Wiki. When translating, please note the original page and the original author in this page. If not available, please note it as author unknown.\n\nEvery legal forces are related to this page is in [http://www.scp-wiki.net/licensing-guide Licensing Guide].\n[[/div]]\n[[div class=\"content-panel standalone series\"]]\n[[div class=\"sp-art-title unmargined\"]]\n= SCP-THs Credits\n[[/div]]\n* \n[[/div]]\n\n[[div class=\"content-panel standalone series\"]]\n[[div class=\"sp-art-title unmargined\"]]\n= Tale-THs Credits\n[[/div]]\n* \n[[/div]]\n\n[[div class=\"content-panel standalone series\"]]\n[[div class=\"sp-art-title unmargined\"]]\n= Other-THs Credits\n[[/div]]\n* \n[[/div]]",
+  "tags": [
+    "th",
+    "저작권"
+  ],
+  "author": "Salamander724",
+  "created_at": "2015-05-02T08:49:45+00:00",
+  "updated_at": "2019-10-08T00:06:52+00:00",
+  "rating": 0,
+  "_site": "scpko",
+  "_fullname": "copyright:credits-th"
+}

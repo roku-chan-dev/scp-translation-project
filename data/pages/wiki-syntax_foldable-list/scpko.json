@@ -1,0 +1,14 @@
+{
+  "title": "접을 수 있는 목록",
+  "content": "[*http://snippets.wikidot.com/code:foldable-list 접을 수 있는 목록]은 특별한 클래스를 포함하는 @@[[div]]@@ 블록을 사용하며, 사이드바 페이지에만 사용할 수 있습니다. 이는 각기 다른 단계의 목록을 접거나 펼쳐서 나타내는 내비게이션 메뉴를 생성하는데 유용합니다. 아래 예시는 어떻게 3단계까지 중첩해서 생성하는지에 대해서 보여줍니다.\n\n[[code]]\n[[div class=\"foldable-list-container\"]]\n* 링크\n * 위키닷\n  * [*http://www.wikidot.com/doc 문서화]\n  * [*http://www.wikidot.com/doc:wiki-syntax 위키 문법]\n  * [*http://community.wikidot.com/howto:howto-list 어떻게하나요]\n * 검색 엔진\n  * [*http://www.google.com 구글]\n  * [*http://www.yahoo.com 야후]\n* 메인 카테고리 1\n * [# 메인 1 - 서브 1]\n * [# 메인 1 - 서브 2]\n* 메인 카테고리 2\n * [# 메인 2 - 서브 1]\n * [# 메인 2 - 서브 2]\n * [# 메인 2 - 서브 3]\n* 메인 카테고리 3\n * [# 메인 3 - 서브 1]\n[[/div]]\n[[/code]]\n\n사이드바 페이지(일반적으로 //nav:side//)에만 사용할 수 있다는 점을 기억하세요.",
+  "tags": [
+    "관리",
+    "안내"
+  ],
+  "author": "Dr Devan",
+  "created_at": "2015-02-03T12:15:31+00:00",
+  "updated_at": "2015-02-03T12:16:11+00:00",
+  "rating": 0,
+  "_site": "scpko",
+  "_fullname": "wiki-syntax:foldable-list"
+}

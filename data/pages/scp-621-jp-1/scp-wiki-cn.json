@@ -1,0 +1,13 @@
+{
+  "title": "文件：SCP-621-JP-1",
+  "content": "[[html]]\n<style type=\"text/css\" id=\"internal-style\">\n                    @import url(http://d3g0gp89917ko0.cloudfront.net/v--3e7a7facf318/common--theme/base/css/style.css);\n                    @import url(http://d3g0gp89917ko0.cloudfront.net/v--3e7a7facf318/common--theme/shiny/css/style.css);\n                    @import url(http://scpsandbox-jp.wdfiles.com/local--theme/shiny/style.css);\n</style>\n\n<style type=\"text/css\">\n.vertical{\n  -moz-transform: matrix(-1, 0, 0, 1, 0, 0);\n  -webkit-transform: matrix(-1, 0, 0, 1, 0, 0);\n  -ms-transform:matrix(-1, 0, 0, 1, 0, 0);\n  -o-transform:matrix(-1, 0, 0, 1, 0, 0);\n  transform:matrix(-1, 0, 0, 1, 0, 0);\n  text-align:right;\n}\n.horizon{\n  -moz-transform: matrix(1, 0, 0, -1, 0, 0);\n  -webkit-transform: matrix(1, 0, 0, -1, 0, 0);\n  -ms-transform:matrix(1, 0, 0, -1, 0, 0);\n  -o-transform:matrix(1, 0, 0, -1, 0, 0);\n  transform:matrix(1, 0, 0, -1, 0, 0);\n}\n</style>\n\n<SCRIPT language=\"javascript\">\nfunction random_display(){\n  var i = 0;\n  var n = 0;\n  while(i < 13){\n //   document.write(n);\n    n +=1;\n    var elem = document.getElementById(\"block\"+n);\n    var rr = Math.round(Math.random()*10)+1;\n    if(rr % 2 == 0){\n      elem.className = \"horizon\";\n    }else{\n      elem.className = \"vertical\";\n    }\n  i++;\n  }\n}\n\n</SCRIPT>\n\n<div id =\"block1\" class=\"normal\"><b>20██/██/██，回收于██小学小学图书室的文件</b></div>\n<blockquote>\n<div id =\"block2\" class=\"normal\">钟声在不知不觉间不断响彻。睿智的代价是永不停息的历史。充斥着逃亡和生存的历史不知不觉变成了由掠夺和杀戮组成的连锁。我们有罪过。我们有过错。我们有憎恶。</div>\n<div id =\"block3\" class=\"normal\">进化是噩梦。文化是噩梦。历史是噩梦。胎儿的梦境，也是噩梦。</div>\n<div id =\"block4\" class=\"normal\">钟声不断响彻。镌刻在螺旋上的记忆、进化、文化、历史是无始无终的噩梦。</div>\n<div id =\"block5\" class=\"normal\">遮住眼睛塞住耳朵伫立着憎恶变得巨大，成为下一个胎儿的梦境。</div>\n<div id =\"block6\" class=\"normal\">没有结束。不会断绝。不会被宽恕。</div>\n<br>\n<div id =\"block7\" class=\"normal\">钟声不会停止。进化的尽头没有结束。</div>\n<div id =\"block8\" class=\"normal\">人世会毁灭。在进化的尽头人世的毁灭终将造访。</div>\n<div id =\"block9\" class=\"normal\">下一个胎儿会继承睿智的代价。鸟的、花的、兽的胎儿也会做梦吧。</div>\n<br>\n<div id =\"block10\" class=\"normal\">我只是，想忘记而已。</div>\n</blockquote>\n\n<SCRIPT language=\"javascript\">\nwindow.onload = function(){\nsetInterval('random_display()',50000);\n}\n</SCRIPT>\n\n[[/html]]",
+  "tags": [
+    "补充材料"
+  ],
+  "author": "Minagawa Mamoru",
+  "created_at": "2017-02-22T08:26:36+00:00",
+  "updated_at": "2022-02-15T02:41:29+00:00",
+  "rating": 0,
+  "_site": "scp-wiki-cn",
+  "_fullname": "scp-621-jp-1"
+}

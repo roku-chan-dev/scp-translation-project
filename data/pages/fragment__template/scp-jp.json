@@ -1,0 +1,15 @@
+{
+  "title": "fragment:_template",
+  "content": "[[include :scp-jp:_template]]",
+  "tags": [
+    "jp",
+    "フラグメント",
+    "管理"
+  ],
+  "author": "ShinoguN",
+  "created_at": "2025-03-20T03:43:32+00:00",
+  "updated_at": "2025-03-20T03:44:09+00:00",
+  "rating": 0,
+  "_site": "scp-jp",
+  "_fullname": "fragment:_template"
+}

@@ -1,0 +1,25 @@
+{
+  "title": "SCP-CN-2760",
+  "content": "[[>]]\n[[module Rate]]\n[[/>]]\n\n[[module ListPages category=\"fragment\" parent=\".\" limit=\"1\" order=\"name\" offset=\"@URL|0\"]]\n\n%%content%%\n[[/module]]\n\n[!-- http://scp-wiki-cn.wikidot.com/fragment:scp-cn-2760-1 --]\n[!-- http://scp-wiki-cn.wikidot.com/fragment:scp-cn-2760-2 --]\n[!-- http://scp-wiki-cn.wikidot.com/fragment:scp-cn-2760-3 --]",
+  "tags": [
+    "scp",
+    "原创",
+    "合著",
+    "异学会",
+    "文言文",
+    "智能",
+    "机密分级",
+    "格鲁乌p部门",
+    "模因",
+    "球体",
+    "生物性",
+    "蒐集院",
+    "音频"
+  ],
+  "author": "Kanie Ja",
+  "created_at": "2022-09-17T06:18:00+00:00",
+  "updated_at": "2022-09-17T13:32:30+00:00",
+  "rating": 86,
+  "_site": "scp-wiki-cn",
+  "_fullname": "scp-cn-2760"
+}

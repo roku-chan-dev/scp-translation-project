@@ -1,0 +1,19 @@
+{
+  "title": "SCP-CN-064-J",
+  "content": "[!--\n====\n违章建筑\n====\n一栋有点神金的大楼，大概（？）\n====\n====\n--]\n\n[[module CSS]]\n@import url('https://fonts.googleapis.com/css2?family=Noto+Sans+SC:wght@300;400;700;900&display=swap');\n@import url('https://fonts.googleapis.com/css2?family=Noto+Sans:wght@300;400;700;900&display=swap');\n\ndiv#page-content {\n    color: #000;\n    font-size: 0.9375rem;\n    font-family: \"Noto Sans SC\", \"Noto Sans\", sans-serif;\n}\n\ndiv#page-content *,\ndiv#page-content h1,\ndiv#page-content h2,\ndiv#page-content h3 {\n    font-family: inherit;\n}\n\ndiv.warning-box {\n    display: grid;\n    gap: min(0.5rem, 2vw);\n    grid-template-columns: 1fr 3fr;\n}\n\ndiv.warning-box div.warning-logo {\n    display: flex;\n    align-items: center;\n}\n\ndiv.warning-box div.warning-content {\n    display: flex;\n    align-items: center;\n    /* border: solid min(0.25rem, 1vw) #000; */\n    border-left: none;\n    border-right: none;\n    padding: min(0.5rem, 2vw) 0;\n    text-align: center;\n}\n\ndiv.warning-box div.warning-content * {\n    margin: 0;\n}\n\ndiv.warning-box div.warning-content h2 {\n    font-weight: 900;\n    font-size: min(calc(0.9375rem * 1.5), 4vw);\n    margin-bottom: min(0.5rem, 2vw);\n}\n\ndiv.warning-box div.warning-content p {\n    font-weight: 400;\n    margin: 0 min(0.5rem, 2vw);\n    font-size: min(0.9375rem, calc(8vw / 3));\n}\n\ndiv.blockquote.content {\n    border: solid 1px transparent;\n    background-color: #EEE;\n    border-radius: 1rem;\n    margin-left: 0;\n    margin-right: 0;\n}\n\nhr {\n    margin-left: 0;\n    margin-right: 0;\n}\n\nspan.black {\n    background-color: #000;\n    cursor-events: none;\n}\n\ndiv.scp-image-block div.scp-image-caption,\ndiv.scp-image-block img {\n    width: auto !important;\n}\n[[/module]]\n\n[[include :scp-wiki-cn:component:toggle-sidebar]]\n\n[[>]]\n[[module rate]]\n[[/>]]\n\n**项目编号：**SCP-CN-064-J\n\n**项目等级：**--Pending-- Neutralized\n\n**特殊收容措施：**SCP-CN-064-J应被暂时封锁以防止市民误入，对外需以“消防通道安全检查”作为掩盖。后续的探索与研究计划正在制定中。\n\n##red|**2024/5/6更新：**## SCP-CN-064-J当前无需收容。\n\n**描述：**SCP-CN-064-J是一处非欧几里得空间，对外表现为位于白水市平安新村3号楼第4单元，16至17楼之间的一段楼梯间。项目的异常性质为这段楼梯间内的楼梯共由169级台阶组成，且各项参数符合《民用建筑设计统一标准》（GB 50352-2019）以及《住宅设计规范》（GB 50096-2011）的要求。\n\n**项目状态更新：**在得知SCP-CN-064-J存在之后的第一次现场勘察中，基金会发现项目已通过形变使得承载其的建筑结构与其相适应，因而失去了前述的、身为非欧几里得空间的异常性质。随后，基金会将项目划归为无效化分级，并联系了白水市城市管理与规划部门对项目引发的后续影响进行处理。\n\n以下为SCP-CN-064-J在无效化后的图片留档：\n\n[[collapsible show=\"[+] 查阅留档\" hide=\"[关闭]\"]]\n[[=image http://scpsandboxcn.wikidot.com/local--files/sharia-vanilla/modified_building.png]]\n[[/collapsible]]\n\n[[footnoteblock]]\n\n[[=]]\n[[include :scp-wiki-cn:component:license-box\n|lang=CN\n|author=Sharia Vanilla\n|]]\n=====\n\n> **文件名：** korea-3448689_1280.jpg\n> **原作者：** Nemo_jo\n> **共享协议：** CC0\n> **来源链接：** https://pixabay.com/zh/photos/korea-republic-of-korea-seoul-3448689/\n> **备注：** 有修改。\n\n=====\n[[include :scp-wiki-cn:component:license-box-end]]\n[[/=]]\n\n[[div class=\"footer-wikiwalk-nav\"]]\n[[=]]\n<< [[[SCP-CN-052-J]]] | SCP-CN-064-J | [[[SCP-CN-083-J]]] >>\n[[/=]]\n[[/div]]",
+  "tags": [
+    "scp",
+    "原创",
+    "建筑",
+    "形态改变",
+    "搞笑",
+    "无效化",
+    "适应性"
+  ],
+  "author": "Sharia Vanilla",
+  "created_at": "2024-05-06T04:47:23+00:00",
+  "updated_at": "2024-06-04T14:12:18+00:00",
+  "rating": 46,
+  "_site": "scp-wiki-cn",
+  "_fullname": "scp-cn-064-j"
+}

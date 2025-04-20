@@ -1,0 +1,14 @@
+{
+  "title": "SCP-2000-JP",
+  "content": "desc: \"あなたが残したもの、確かに受け取りました。\\n確保、収容──そして保護を承ります。\\nありがとう。そしてお疲れ様。\"\nurl: 'http://scp-jp.wikidot.com/scp-2000-jp'\nredirect-b: '[[module Redirect destination=\"http://ja.scp-wiki.net/scp-poem'\nredirect-e: '\"]]'",
+  "tags": [
+    "jp",
+    "剪定対象-子"
+  ],
+  "author": "kinonium",
+  "created_at": "2020-03-08T06:03:16+00:00",
+  "updated_at": "2021-05-24T13:22:03+00:00",
+  "rating": 1,
+  "_site": "scp-jp",
+  "_fullname": "poem:43"
+}

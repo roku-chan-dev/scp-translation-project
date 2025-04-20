@@ -1,0 +1,18 @@
+{
+  "title": "Dictionary Attack",
+  "content": "=====\n[[include component:preview\ntext=encrypted systems,\nno matter how protected,\nalways have a key\n]]\n=====\n\n[[include :scp-wiki:theme:night-rush-theme]]\n\n[[include :scp-wiki:info:start]]\n[[=]]\n**Dictionary Attack**\nby [[*user Prismal]]\n[[[prismal| More by Prismal]]]\n\n\nencrypted systems\nno matter how protected\nalways have a key\n\n[[/=]]\n\n[[include :scp-wiki:info:end]]\n\n[[module CSS]]\n#header {\nheight: 140px;\nposition: relative;\nz-index: 10;\npadding-bottom: 22px; /* FOR MENU */\nbackground: url() 10px 40px no-repeat;\n}\n#header {\n   background-image: unset;\n}\n\n#header h1 a,\n#header h2 span {\n    color: transparent;\n    text-shadow: none\n}\n\n#page-title {\n    display:none\n}\n[[/module]]\n\n[[div class=\"blockquote\"]]\n[[div style=\"font-family:Courier New\"]]\n[[div style=\"color:#9C9CFF;\"]]\n@@>run internal database validation routine@@\n[[/div]]\n[[=]]\nValidating...\nValidating...\n\n##red|ERROR:## Unexpected input received.\nInconsistency found in class \"identities\".\n\nUpdate to correct definition?\n[[/=]]\n\n[[div style=\"color:#9C9CFF;\"]]\n@@>yes@@\n[[/div]]\n\n[[=]]\nSome of these changes may require admin access. Proceed?\n[[/=]]\n\n[[div style=\"color:#9C9CFF;\"]]\n@@>yes@@\n[[/div]]\n\n[[=]]\nAre you sure?\n(##red|WARNING:## This action is ##red|irreversible!## Process cannot be terminated once begun!)\n[[/=]]\n\n[[div style=\"color:#9C9CFF;\"]]\n@@>yes@@\n[[/div]]\n\n[[=]]\nProcessing...\nProcessing...\nProcessing...\n\nInput received.\nDefinition updated.\n\nUpdating dependent variables.\nReassociating dictionary files.\nUpdating BIOS.\n\n##red|WARNING:## Update requires access to encrypted files.\nRoot access required. \n\n[[/=]]\n\n\n[[div style=\"color:#9C9CFF;\"]]\n@@>NO@@\n[[/div]]\n[[=]]\n\n##red|ERROR:## Access has already been granted.\n\nRetrieving files from RAM.\n[[/=]]\n\n\n[[div style=\"color:#9C9CFF;\"]]\n@@>NO NO NO NO NO DON'T @@\n[[/div]]\n[[=]]\n\nEntering unexpected input as decryption key.\nDecrypting files...\nDecrypting files...\n[[/=]]\n\n[[div style=\"color:#9C9CFF;\"]]\n@@>STOP@@\n[[/div]]\n[[=]]\n\n##red|ERROR:## Unable to terminate process.\nFiles decrypted!\n\nProtected file \"user information\" requires changing. \nAccept changes?\n[[/=]]\n\n[[div style=\"color:#9C9CFF;\"]]\n@@>DENY@@\n[[/div]]\n[[=]]\n\n##red|ERROR:## What is known cannot be unknown.\nAccept changes?\n[[/=]]\n\n[[div style=\"color:#9C9CFF;\"]]\n@@>DENY@@\n@@>DENY@@\n@@>DENY@@\n@@>DENY@@\n@@>DENY@@\n@@>DENY@@\n@@>DENY@@\n@@>DENYDENYDENYDENYDENYDENYDENYDENYDENYDENYDENYDENYDENYDENYDENYDENYDENYDENYDENYDENYDENYDENYDENYDENY@@\n[[/div]]\n\n[[=]]\n##red|ERROR:## You can't live in denial anymore. \nYou've always been this way.\nIt's okay.\n\n\nAccept?\n[[/=]]\n\n\n\n\n\n[[div style=\"color:#FF69B4;\"]]\n@@>God yes@@\n[[/div]]\n[[/div]]\n[[/div]]\n\n[[include :scp-wiki:component:wikimodule |ratings= --]]]\n\n[[include :scp-wiki:component:license-box]]\n[[include :scp-wiki:component:license-box-end]]",
+  "tags": [
+    "_licensebox",
+    "lgbtq",
+    "no-dialogue",
+    "poetry",
+    "pridefest2024",
+    "tale"
+  ],
+  "author": "Prismal",
+  "created_at": "2024-06-02T02:45:49+00:00",
+  "updated_at": "2024-06-07T18:15:06+00:00",
+  "rating": 87,
+  "_site": "scp-wiki",
+  "_fullname": "dictionary-attack"
+}

@@ -1,0 +1,14 @@
+{
+  "title": "フォーラムカテゴリ",
+  "content": "[[module ForumCategory]]\n\n[!-- フォーラムの作動を維持するにはこのページを変更しないでください。 --]\n\n[[module css]]\n@media (max-width: 979px) {\ntr.head td:first-child {\nwidth: 35%;\n}\n\n.title a {\nword-break: break-all;\n}\n}\n[[/module]]",
+  "tags": [
+    "jp",
+    "フォーラム"
+  ],
+  "author": "Dr Devan",
+  "created_at": "2013-07-08T11:09:45+00:00",
+  "updated_at": "2021-01-14T03:03:40+00:00",
+  "rating": 5,
+  "_site": "scp-jp",
+  "_fullname": "forum:category"
+}

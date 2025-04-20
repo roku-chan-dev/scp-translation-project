@@ -1,0 +1,13 @@
+{
+  "title": "Darkartists Sciptember Hub 1",
+  "content": "[[include :scp-wiki:theme:penumbra]]\n[[module CSS]]\n:root {\n    --lgurl: url(\"https://scp-wiki.wdfiles.com/local--files/secure-facility-dossier-site-120/ontologonew.png\");\n    --header-title: \"SITE-120\";\n    --header-subtitle: \"FIGHTING FIRE WITH FIRE\";\n    --accentColor: rgb(160, 44, 44);\n    --darkColor: rgb(55, 55, 55); \n    --darkerColor: rgb(26, 26, 26);\n}\n\ndiv#extra-div-1 {filter: opacity(.1);}\n#header h1 a::before {text-shadow: 2px 0 0 #1a1a1a, -2px 0 0 #1a1a1a, 0 2px 0 #1a1a1a, 0 -2px 0 #1a1a1a, 2px 2px #1a1a1a, -2px -2px 0 #1a1a1a, 2px -2px 0 #1a1a1a, -2px 2px 0 #1a1a1a;}\n#header h2::before {text-shadow: 2px 0 0 #1a1a1a, -2px 0 0 #1a1a1a, 0 2px 0 #1a1a1a, 0 -2px 0 #1a1a1a, 2px 2px #1a1a1a, -2px -2px 0 #1a1a1a, 2px -2px 0 #1a1a1a, -2px 2px 0 #1a1a1a;}\n\n#page-title {border-bottom: var(--accentColor) 2px solid;}\n.page-rate-widget-box {box-shadow: -3px 0px 0px 0px var(--accentColor), 3px 0px 0px 0px var(--accentColor);}\n[[/module]]\n\n[[=]]\n[[module Rate]]\n[[/=]]\n[[include :scp-wiki:component:author-label-source start=--\n|name=TheDarkArtist\n|center=*]]\nWhen the queen is gambit\n[[include :scp-wiki:component:author-label-source end=--]]\n----\n\n[[div style=\"background: url(https://scp-wiki.wdfiles.com/local--files/ralliston-s-proposal/unknown.png) bottom center no-repeat; text-align: center; width: 600px; margin: 0 auto; font-size: 20px; padding: 0px;\"]]\n\n@@ @@\n@@ @@\n@@ @@\n\n[[=]]\n++* ##white|BY ORDER OF OVERSEER DIRECTIVE ALPHA/1911##\n##white|The following file is Level 6/001 classified. Unauthorized access is strictly forbidden and will result in immediate termination, regardless of clearance or importance to the Foundation.##\n[[/=]]\n= **##white|001##**\n\n@@ @@\n@@ @@\n\n[[/div]]\n\n\n[[collapsible show=\"SUBMIT OVERSEER-LEVEL CREDENTIALS\" hide=\"DOES THE BLACK MOON HOWL?\"]]\n\n= **Only to forget today, through the hope of tomorrow**\n\n= [[image queens%20gambit.png style=\"width: 80%; box-shadow: 0px 0.26rem 0px 0px var(--accentColor);\" link=\"https://scp-wiki.wikidot.com/ralliston-s-proposal\"]]\n\n\n= **Infosignature not recognized. Security measures deployed.**\n\n= **Shutting down terminal.**\n\n= **...**\n[[/collapsible]]\n\n----\n\n[[div class=\"footer-wikiwalk-nav\"]]\n[[=]]\n| [[[art:darkartists-sciptember-hub|HOME]]] | [http://scp-wiki.wikidot.com/art:darkartists-sciptember-hub/offset/2 NEXT] >>\n[[/=]]\n[[/div]]\n\n----",
+  "tags": [
+    "fragment"
+  ],
+  "author": "TheDarkArtist",
+  "created_at": "2022-09-02T05:31:10+00:00",
+  "updated_at": "2022-09-02T20:30:23+00:00",
+  "rating": 0,
+  "_site": "scp-wiki",
+  "_fullname": "fragment:darkartists-sciptember-hub-1"
+}

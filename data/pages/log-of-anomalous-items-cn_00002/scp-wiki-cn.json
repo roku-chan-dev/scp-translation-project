@@ -1,0 +1,11 @@
+{
+  "title": "00002",
+  "content": "content: \"[[module css]]\\n@keyframes conversion\\n{\\n0% {\\n   color: #000\\n}\\n\\n8.67% {\\n   color: #333;\\n}\\n\\n16.33% {\\n   color: #666;\\n}\\n\\n24% {\\n   color: #999;\\n}\\n\\n32.67% {\\n   color: #ccc;\\n}\\n\\n40.33% {\\n   color: #ddd;\\n}\\n\\n48.67% {\\n   color: #fff;\\n}\\n\\n56.33% {\\n   color: #fff;\\n}\\n\\n64.67% {\\n   color: #ddd;\\n}\\n\\n72.67% {\\n   color: #ccc;\\n}\\n\\n80.33% {\\n   color: #999;\\n}\\n\\n88.33% {\\n   color: #666;\\n}\\n\\n95.67% {\\n   color: #333;\\n}\\n\\n100% {\\n   color: #000\\n}\\n}\\n\\n.transform {\\n   animation: conversion 20s infinite linear;;\\n}\\n[[/module]]\\n**项目描述：**一个指甲剪，在其底部刻有“一劳永逸”字样。当按照常规指甲剪的用法来使用该项目时，被其剪除的指甲将在此后永远停止生长。\\n**回收日期：**2020/4/1\\n**回收地点：**████市场\\n**当前状态：**收容于Site-CN-75\\n**笔记：**//人总是在失去的时候才会追悔莫及。啊淦，我开始想念我那永远回不来的完美长指甲了，主要是短指甲挠痒痒真尼玛难受。我特么当初为什么要用这玩意剪得这么短啊啊啊！——特工Astra//\\n[[span class=\\\"transform\\\"]].[[/span]]\"",
+  "tags": [],
+  "author": " Universe647",
+  "created_at": "2020-03-31T17:14:59+00:00",
+  "updated_at": "2022-11-06T01:18:36+00:00",
+  "rating": 136,
+  "_site": "scp-wiki-cn",
+  "_fullname": "log-of-anomalous-items-cn:00002"
+}

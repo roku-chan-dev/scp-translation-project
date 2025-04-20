@@ -1,0 +1,15 @@
+{
+  "title": "Agent Mirage's Personnel File",
+  "content": "[[include :scp-wiki:theme:black-highlighter-theme]]\n[[include :scp-wiki:component:pride-highlighter |inc-lgbt-alt= --]]]\n\n[[module CSS]]\nth {  text-align: center; }\ntd { vertical-align: middle; }\n[[/module]]\n\n[[include :scp-wiki:component:image-block\n|name= apc.jpg\n|caption= Agent Mirage's personal APC in its usual camouflage. \n]]\n\n**Name:** ████████ █████\n\n**Codename:** Mirage\n\n**Current Designation:** Undercover Agent\n\n**History:** Due to infrequent and cryptic communiques, most documented information on this person originates from second-hand sources. Agent Mirage excels in stealth and clandestine operations, having been known to disappear for years at a time between sightings. Reports indicate that he is capable of producing memetic hazards with effects ranging from uncontrollable laughter to intense rage (the latter being more common).\n\nAgent Mirage has been cited for undocumented requisition of equipment on numerous occasions. It is unlikely that he will submit for disciplinary action.\n\n**SCPs Catalogued:**\n\n[[[SCP-6482]]] - //Tag//\n[[[SCP-6362]]] - //Home Invasion//\n[[[SCP-6046]]] - //Marble Madness//\n[[[SCP-5300]]] - //Ship in a Bottle//\n\n**Essays:**\n\n[[[Exploiting Foldable List Containers]]]\n\n**[[[classification-committee-memo | ACS]]] Contributions:**\n\n[[table class=\"wiki-content-table\" style=\"width: 100%;\"]]\n    [[row]]\n        [[hcell style=\"width: 70px; padding-left: 15; padding-right: 15;\"]]\n            Icon\n        [[/hcell]]\n        [[hcell]]\n            Esoteric Class\n        [[/hcell]]\n    [[/row]]\n    [[row]]\n        [[cell style=\"padding: 0;\"]]\n            [[a target=\"_blank\" href=\"https://scp-wiki.wdfiles.com/local--files/miragetd/argus-icon.svg\" style=\"background-image: url('https://scp-wiki.wdfiles.com/local--files/miragetd/argus-icon.svg'); background-size: cover; display: block; width: 100px; height: 100px;\"]]\n        [[/a]][[/cell]]\n        [[cell]]\n            **Argus:** Item's containment is under the purview of a third party.\n        [[/cell]]\n    [[/row]]\n[[/table]]\n\n[[div style=\"margin-top: 2em;\"]]\n[[include :scp-wiki:component:license-box]]\n=====\n> **Filename:** apc.jpg\n> **Name:** IMG_3148\n> **Author:** John Johnston\n> **License:** [[[https://creativecommons.org/licenses/by-sa/2.0/ | CC BY-SA 2.0]]]\n> **Source Link:** https://www.flickr.com/photos/troutcolor/42290768025\n=====\n=====\n> **Filename:** argus-icon.svg\n> **Author:** [[*user MirageTD]]\n> **License:** [[[https://creativecommons.org/licenses/by-sa/3.0/ | CC BY-SA 3.0]]]\n> **Source Link:** https://scp-wiki.wikidot.com/miragetd\n=====\n[[include :scp-wiki:component:license-box-end]]\n[[/div]]",
+  "tags": [
+    "_cc",
+    "_licensebox",
+    "author"
+  ],
+  "author": "MirageTD",
+  "created_at": "2021-12-16T00:50:57+00:00",
+  "updated_at": "2025-01-22T20:05:47+00:00",
+  "rating": 18,
+  "_site": "scp-wiki",
+  "_fullname": "miragetd"
+}

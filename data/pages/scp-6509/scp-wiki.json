@@ -1,0 +1,21 @@
+{
+  "title": "SCP-6509",
+  "content": "[[div style=\"display: none;\"]]\n[[include :scp-wiki:theme:flopstyle]]\n[[/div]]\n[[include :scp-wiki:theme:scp-offices-sigma]]\n[[include :scp-wiki:component:centered-header-sigma-9]]\n[[module CSS]]\n :root{\n   --lgurl: url(https://scp-wiki.wdfiles.com/local--files/component:pride-highlighter/lgbtqp_logo.svg);\n}\n .footnotes-footer{\n     display: none;\n}\n[[/module]]\n\n[[>]]\n[[module Rate]]\n[[/>]]\n[[include :scp-wiki:component:image-block\n|name=bulletbw2.jpg\n|caption=,,SCP-6509 instance.,,\n|width=300px\n]]\n**Item №:** SCP-6509\n\n**Object Class:** Safe [[span style=\"color:green\"]]●[[/span]]\n\n**Threat Level:** Classified ●\n\n**Special Containment Procedures:** All SCP-6509 instances have been removed from their original cartridge and contained in a high-security Safe-class storage vault. SCP-6509-α is stored in the Facility-9 morgue.\n\nRequests for firearm testing have been preemptively denied.\n\n**Description:** SCP-6509 is an assortment of rifle bullets possessing an abnormal resistance to the effects of retrocausal or reality-restructuring events. Each individual instance produces an extremely high-energy surrounding Hume field, causing the space in its immediate vicinity to become hyperreal. This allows SCP-6509 to persist through even highly extensive shifts in local spacetime.\n\nSCP-6509 was recovered from an abandoned building in the small town of Sipí, located in northern Colombia. --All--[[footnote]] Outdated, see SCP-6509-α description below. [[/footnote]] Most recovered instances display striations consistent with having been previously fired from a rifle.\n\nSCP-6509-α is an unidentified human corpse originally discovered lying on a rocky outcropping on the outskirts of Sipí. It was transferred from the local morgue to Foundation custody shortly after the release of the local coroner's report, which detailed several considerable anomalies affecting the body.\n\nSCP-6509-α's vocal chords have been surgically severed, likely some time prior to death. Fingerprints have been either physically removed or anomalously erased. Although biological evidence can be extracted, it matches no recorded existing person, making conclusive identification impossible. SCP-6509-α's surrounding Hume levels suggest that it likely possesses the same resistance to reality restructuring events as SCP-6509 itself. Cause of death has been determined as a single self-inflicted gunshot to the head.\n\nUpon transfer to Foundation custody, SCP-6509-α's personal possessions were also confiscated. At time of death, the subject was carrying on their person the following:\n* Several unspent instances of SCP-6509.\n* A non-anomalous M24 sniper rifle and M1911 pistol.\n* Several torn scraps of paper, illegible due to water damage and black-marker redaction. While no actual text can be read, reconstruction attempts suggest that the documents may have been originally marked with the symbol of the United States occult military division PENTAGRAM.\n* A photograph of several unidentifiable persons standing on a stage with their arms raised, smiling in the direction of the camera. A red flag, which matches that of no existing nation or movement, hangs in the background. A crowd of onlookers is present in the foreground, visibly celebrating.\n\n[[div class=\"footer-wikiwalk-nav\"]]\n[[=]]\n<< [[[SCP-6508]]] | SCP-6509 | [[[SCP-6510]]] >>\n[[/=]]\n[[/div]]\n\n[[=]]\n[[include :scp-wiki:component:license-box]]\n=====\n> **Filename:** bulletbw2.jpg\n> **Name:** Used\n> **Author:** Christian Schirner\n> **License:** CC BY-SA 2.0\n> **Source Link:** https://www.flickr.com/photos/37454700@N03/18559333974\n=====\n> **Filename:** kaktuswarning.png\n> **Author:** [[*user djkaktus]]\n> **License:** CC BY-SA 3.0\n> **Source Link:** https://scp-wiki.wikidot.com/scp-5935\n=====\n[[include :scp-wiki:component:license-box-end]]\n[[/=]]",
+  "tags": [
+    "_cc",
+    "_licensebox",
+    "cadaver",
+    "pentagram",
+    "reality-bending",
+    "rewritable",
+    "safe",
+    "scp",
+    "weapon"
+  ],
+  "author": null,
+  "created_at": "2022-07-12T15:49:31+00:00",
+  "updated_at": "2023-06-10T01:13:53+00:00",
+  "rating": 62,
+  "_site": "scp-wiki",
+  "_fullname": "scp-6509"
+}

@@ -1,0 +1,28 @@
+{
+  "title": "SCP-5045",
+  "content": "[[>]]\n[[module rate]]\n[[/>]]\n\n[[module listpages category=\"fragment\" parent=\".\" limit=\"1\" order=\"created_at\" offset=\"@URL|0\"]]\n%%content%%\n[[/module]]\n\n[!-- https://scp-wiki.wikidot.com/fragment:scp-5045a MAIN SCP --]\n[!-- https://scp-wiki.wikidot.com/fragment:scp-5045b ENDING --]\n\n[[div class=\"footer-wikiwalk-nav\"]]\n= « [[[SCP-5044]]] | SCP-5045 | [[[SCP-5046]]] »\n[[/div]]\n\n[[include :scp-wiki:component:license-box author=ratking666, ValidClay, & Westrin]]\n=====\n> **Filename:** corruptedicon.png\n> **Author:** [[*user ratking666]]\n> **License:** CC BY-SA 3.0\n> **Source Link:** [/scp-5045 SCP Foundation Wiki]\n> **Derivative Of:**\n> ----\n> **Name:** logo.png\n> **Author:** [[*user far2]]\n> **License:** CC BY-SA 3.0\n> **Source Link:** [/ SCP Foundation Wiki]\n\n> **Filename:** farmdation.jpg\n> **Author:** [[*user ratking666]]\n> **License:** CC BY-SA 3.0\n> **Source Link:** [/scp-5045 SCP Foundation Wiki]\n> **Derivative Of:**\n> ----\n> **Name:** Hotel hallway.jpg\n> **Author:** TriangularPizza\n> **License:** CC BY-SA 4.0\n> **Source Link:** [http://commons.wikimedia.org/wiki/file:hotel_hallway.jpg Wikimedia Commons]\n\n> **Filename:** farmerleft.png, farmer.png, goat102info.jpg, goat23info.jpg, goat342info.jpg, goat44info.jpg, goat852info.jpg, goat853info.jpg, goatvricon.png, helpers.jpg, light_bg2.png, listen.jpg, log1farmer.png, log1goats.png, log1title.jpg, log2caught.jpg, log2door.png, log2farmhouse.png, log2goated.jpg, log2helpers.jpg, log2victims.png, log2yellowman.jpg, theend.png, uhoh.png\n> **Author:** [[*user ratking666]]\n> **License:** CC BY-SA 3.0\n> **Source Link:** [/scp-5045 SCP Foundation Wiki]\n=====\n[[include :scp-wiki:component:license-box-end]]",
+  "tags": [
+    "_cc",
+    "_licensebox",
+    "_listpages",
+    "but-a-dream",
+    "co-authored",
+    "electronic",
+    "euclid",
+    "extradimensional",
+    "game",
+    "illustrated",
+    "meta",
+    "metafiction",
+    "mind-affecting",
+    "murder-monster",
+    "sapient",
+    "scp"
+  ],
+  "author": "Westrin",
+  "created_at": "2020-04-28T05:24:07+00:00",
+  "updated_at": "2025-04-10T00:32:44+00:00",
+  "rating": 578,
+  "_site": "scp-wiki",
+  "_fullname": "scp-5045"
+}

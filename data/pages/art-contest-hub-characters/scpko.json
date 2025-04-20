@@ -1,0 +1,15 @@
+{
+  "title": "아트워크 경연 허브 - 캐릭터",
+  "content": "[[module css]]\n.content-panel {\n    border: none;\n    border-radius: 0px;\n    background-color: #fff;\n    margin: 10px 0 15px;\n    box-shadow: none;\n    box-shadow: none;\n}\n[[/module]]\n[[div class=\"content-panel left-column\"]]\n[[include component:image-block name=http://scp-wiki.wdfiles.com/local--files/art-contest-hub-characters/AgentHarmoniaBright.png| caption= 브라이트 by Agent Harmonia. [https://akatsukisakura001.deviantart.com/art/Beware-The-Mad-Scientist-694132659 여기서] 전체보기.]]\n\n[[include component:image-block name=http://scp-wiki.wdfiles.com/local--files/art-contest-hub-characters/techaartBright.png| caption= 브라이트 by https://techaart.tumblr.com. [https://i.imgur.com/bm8N5Hj.png 여기서] 전체보기.]]\n\n[[include component:image-block name=http://scp-wiki.wdfiles.com/local--files/art-contest-hub-characters/AgentHarmoniaGear.png| caption= 기어스 by Agent Harmonia. [https://akatsukisakura001.deviantart.com/art/Good-Man-Gears-694606798 여기서] 전체보기.]]\n\n[[include component:image-block name=http://scp-wiki.wdfiles.com/local--files/art-contest-hub-characters/AgentHarmoniaIceberg.png| caption= 아이스버그 by Agent Harmonia. [https://akatsukisakura001.deviantart.com/art/Letting-Flames-Ignite-With-Ice-697754240 여기서] 전체보기.]]\n\n[[include component:image-block name=http://scp-wiki.wdfiles.com/local--files/art-contest-hub-characters/AgentHarmoniaMann.png| caption= 만 by Agent Harmonia. [https://akatsukisakura001.deviantart.com/art/A-Good-Mann-Never-Dies-699786479 여기서] 전체보기.]]\n\n[[/div]]\n[[div class=\"content-panel right-column\"]]\n[[include component:image-block name=http://scp-wiki.wdfiles.com/local--files/art-contest-hub-characters/RJRoyBright.png| caption= 브라이트 by RJ Roy. [https://i.imgur.com/KEn71Se.png 여기서] 전체보기.]]\n\n[[include component:image-block name=http://scp-wiki.wdfiles.com/local--files/art-contest-hub-characters/AgentHarmoniaClef.png| caption= 클레프 by Agent Harmonia. [https://akatsukisakura001.deviantart.com/art/Always-In-The-Back-Of-Your-Mind-693998838 여기서] 전체보기.]]\n\n[[include component:image-block name=http://scp-wiki.wdfiles.com/local--files/art-contest-hub-characters/ShiroGears.png| caption= 기어스 by Shiro. [https://i.imgur.com/wpmMbM4.png 여기서] 전체보기.]]\n\n[[include component:image-block name=http://scp-wiki.wdfiles.com/local--files/art-contest-hub-characters/LunamothKondraki.png| caption=콘드라키 by Lunamoth. [https://i.imgur.com/0vSXEYL.png 여기서] 전체보기.]]\n\n[[include component:image-block name=http://scp-wiki.wdfiles.com/local--files/art-contest-hub-characters/AgentHarmoniaRights.png| caption= 라이츠 by Agent Harmonia. [https://akatsukisakura001.deviantart.com/art/Dr-Rights-666001484 여기서] 전체보기.]]\n\n[[include component:image-block name=http://scp-wiki.wdfiles.com/local--files/art-contest-hub-characters/AmeiliaHarrizSweetie.jpg| caption= 달콤 양 by Ameilia Harriz. [https://i.imgur.com/qwKG1V3.jpg 여기서] 전체보기.]]\n[[/div]]",
+  "tags": [
+    "2017-아트워크경연-en",
+    "en",
+    "아트워크"
+  ],
+  "author": "XCninety",
+  "created_at": "2018-02-27T02:53:59+00:00",
+  "updated_at": "2024-10-20T13:53:49+00:00",
+  "rating": 0,
+  "_site": "scpko",
+  "_fullname": "art-contest-hub-characters"
+}

@@ -1,0 +1,30 @@
+{
+  "title": "SCP-6070",
+  "content": "[[>]]\n[[module Rate]]\n[[/>]]\n[[div style=\"text-align: right; margin-top: -20px;\"]]\n[[size 80%]]by [[[Cydhra]]][[/size]]\n[[/div]]\n\n[[module CSS]]\n:root {\n  --link-color: 16,76,184 !important;\n  --link-visited-color: 18,20,150 !important;\n}\n\n.decommissioning::before, .ettra::before, .temporal::before, .archive::before, .raisa::before, .overwatch::before {\n  content: ' ';\n  display: block;\n  position: absolute;\n  left: -15px;\n  top: 30px;\n  width: 100%;\n  height: 100%;\n  border: none; \n  float: center; \n}\n\n.decommissioning::before {\n  background: url(https://scp-wiki.wdfiles.com/local--files/scp-6070/Decom.%20Dept.%20Logo.svg) top right/40% no-repeat ;\n  opacity: 0.15;\n}\n\n.ettra::before {\n  background: url(https://scp-wiki.wikidot.com/local--files/theme:basalt/ETTRA_LIGHTLOGO.png) top right/40% no-repeat;\n  opacity: 0.55;\n}\n\n.temporal::before {\n  background: url(https://scp-wiki.wikidot.com/local--files/theme:basalt/DELTA_T_LIGHTLOGO.png) top right/40% no-repeat;\n  opacity: 0.55;\n}\n\n.archive::before {\n  background: url(https://scp-wiki.wikidot.com/local--files/theme:basalt/RAISA_LIGHTLOGO.png) top right/40% no-repeat;\n  opacity: 0.55;\n}\n\n.overwatch::before {\n  background: url(http://scp-wiki.wikidot.com/local--files/theme:basalt/O5_LIGHTLOGO.png) top right/40% no-repeat;\n  opacity: 0.55;\n}\n\n.raisa::before {\n  background: url(https://scp-wiki.wikidot.com/local--files/theme:basalt/RAISA_LIGHTLOGO.png) top right/40% no-repeat;\n  opacity: 0.55;\n}\n\n.document_content {\n  position: relative;\n}\n\ndiv.proceedings {\n  background-color: rgba(0,0,0,0);\n  border-style: none none none solid;\n  border-width: medium;\n  padding: 0 0 0 10px;\n}\n\n[[/module]]\n@@ @@\n\n[[module ListPages  category=\"fragment\" parent=\".\" limit=\"1\" order=\"created_at\" offset=\"@URL|0\"]]\n%%content%%\n[[/module]]\n\n[!-- Thanks to DrFullham, Zoobeeny, ExiAsWell, and Mars for critique --]\n\n[!-- Child Pages to this listpage: --]\n[!-- https://scp-wiki.wikidot.com/fragment:scp-6070-0 --]\n[!-- https://scp-wiki.wikidot.com/fragment:scp-6070-1 --]\n[!-- https://scp-wiki.wikidot.com/fragment:scp-6070-2 --]\n[!-- https://scp-wiki.wikidot.com/fragment:scp-6070-3 --]\n[!-- https://scp-wiki.wikidot.com/fragment:scp-6070-4 --]\n[!-- https://scp-wiki.wikidot.com/fragment:scp-6070-5 --]\n\n[[div class=\"footer-wikiwalk-nav\"]]\n[[=]]\n<< [[[SCP-6069]]] | SCP-6070 | [[[SCP-6071]]] >>\n[[/=]]\n[[/div]]\n\n[[include :scp-wiki:component:license-box]]\n=====\n> **Filename:** car_accident.jpg\n> **Name:** Zbarzhivka_car_accident_and_water_pollution_2.jpg\n> **Author:** Погребищенська районна державна адміністрація (Municipality of Pogrebyshchensk)\n> **License:** CC BY-SA 4.0\n> **Source Link:** https://commons.wikimedia.org/wiki/File:Zbarzhivka_car_accident_and_water_pollution_2.jpg\n=====\n> **Filename:** Decom. Dept. Logo.svg\n> **Name: Decom. Dept. Logo\n> **Author:** Calibold\n> **License:** CC BY-SA 3.0\n> **Source Link:** https://scp-wiki.wdfiles.com/local--files/theme%3Adecom-dept/Decom.%20Dept.%20Logo.svg\n[[include :scp-wiki:component:license-box-end]]",
+  "tags": [
+    "_listpages",
+    "apollyon",
+    "compulsion",
+    "decommissioning-dept",
+    "delta-t",
+    "ettra",
+    "extradimensional",
+    "foundation-made",
+    "global-occult-coalition",
+    "infohazard",
+    "k-class-scenario",
+    "memetic",
+    "portal",
+    "reviewers-spotlight",
+    "science-fiction",
+    "scp",
+    "temporal",
+    "thermodynamic"
+  ],
+  "author": "Cydhra",
+  "created_at": "2023-03-05T04:57:53+00:00",
+  "updated_at": "2024-10-03T13:10:47+00:00",
+  "rating": 104,
+  "_site": "scp-wiki",
+  "_fullname": "scp-6070"
+}

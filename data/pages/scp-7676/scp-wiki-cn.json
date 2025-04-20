@@ -1,0 +1,28 @@
+{
+  "title": "SCP-7676",
+  "content": "[[module CSS]]\n#title {\n    display: none;\n}\n[[/module]]\n\n[!--\n迭代段落：\nhttps://scp-wiki-cn.wikidot.com/fragment:scp-7676-0\nhttps://scp-wiki-cn.wikidot.com/fragment:scp-7676-1\nhttps://scp-wiki-cn.wikidot.com/fragment:scp-7676-2\n--]\n\n[[module ListPages parent=\".\" category=\"fragment\" limit=\"1\" order=\"created_at\" offset=\"@URL|0\"]]\n%%content%%\n[[/module]]",
+  "tags": [
+    "7000",
+    "76年班",
+    "k级情景",
+    "meta",
+    "scp",
+    "信息危害",
+    "变形",
+    "合著",
+    "在各各他山上",
+    "声音",
+    "学校",
+    "机密分级",
+    "精神影响",
+    "记忆影响",
+    "适应性",
+    "音频"
+  ],
+  "author": "vxeov",
+  "created_at": "2022-08-09T07:06:29+00:00",
+  "updated_at": "2024-05-11T21:03:16+00:00",
+  "rating": 50,
+  "_site": "scp-wiki-cn",
+  "_fullname": "scp-7676"
+}

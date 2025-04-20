@@ -1,0 +1,14 @@
+{
+  "title": "805-KO 숨김 페이지 입구",
+  "content": "[[>]]\n[[module Rate]]\n[[/>]]\n\n> 안녕하십니까, 재단 데이터베이스 베타등급 방화벽 프로그램 JPP입니다. 현재 접근하려는 페이지는 특정 인물을 제외하고 접근 자체를 불허합니다. 만일 기준 미달인 인원이 접근하다 적발시, 그 즉시 쇼커 프로토콜이 발동되어 재단 컴퓨터에 내재되어 있는 테러방지용 시각,청각 기절유도제가 작동될 것이며, 동시에 근처의 특무부대에 해당 정보가 전달되어 그 인원을 검거할 것입니다. 검거된 인원은 A등급 기억소거를 받게 되며, 향후 상황판단에 따라 해당 인원의 처리여부가 결정될 것입니다. 이 점 참고하시기 바랍니다. 만일, 의도치 않게 이 페이지에 접속한 것이라면, 바로 그대로 현재 페이지를 이탈해주시기 바랍니다.\n> \n> 이 페이지 접근에 관한 정보 및 기록은 기록정보보안행정처(RAISA)에 자동으로 보고됩니다. \n> \n> 그럼 지금부터 신원조회를 시작하겠습니다. 현 직원카드의 직원명과 카드 번호를 입력해 주세요.\n.\n.\n[[module ListUsers users=\".\"]]\n> 직원명 : %%title%%\n> 카드번호 : %%number%%\n[[/module]]\n.\n.\n> 신원확인되었습니다. 다음은 페이지에 접근하기 위한 비밀번호를 입력해주세요.\n[[html]]\n<script type=\"text/javascript\">\n\nfunction LogIn(){\nloggedin=false;\npassword=\"주는 우리처럼 부서져 흩어지셨으니 그 분을 두려워하지 말지어다. 우리는 주의 육신을 복원하고 이로써 스스로를 복원하느니라. 우리가 주와 함께 결합되는 것이 옳으니라. 우리는 주를 찬미하며 섬기고 주는 우리에게 도마뱀을 내리시느니라.\";\npassword=prompt(\"PASSWORD:\",\"\");\npassword=password.toLowerCase();\n\nif (password==\"주는 우리처럼 부서져 흩어지셨으니 그 분을 두려워하지 말지어다. 우리는 주의 육신을 복원하고 이로써 스스로를 복원하느니라. 우리가 주와 함께 결합되는 것이 옳으니라. 우리는 주를 찬미하며 섬기고 주는 우리에게 도마뱀을 내리시느니라.\") {\nloggedin=true;\nwindow.open('http://ko.scp-wiki.net/805-ko-hidden-page');\n}\nif (loggedin==false) {\nalert(\"접근 제한됨: 비밀번호가 틀렸습니다. 3초이내로 쇼커 프로토콜이 발동됩니다.\");\nwindow.open('http://ko.scp-wiki.net/shoker-protocol');\n}\n}\n</script>\n<div style=\"margin:0 auto; width: 150px;\">\n<form><input type=button value=\"비밀번호 입력\" onClick=\"LogIn()\"></form>\n</div>\n[[/html]]",
+  "tags": [
+    "ko",
+    "스플래시"
+  ],
+  "author": "Z-cian",
+  "created_at": "2016-12-16T16:48:05+00:00",
+  "updated_at": "2018-06-27T16:51:46+00:00",
+  "rating": 2,
+  "_site": "scpko",
+  "_fullname": "805-ko-hidden-page-entrance"
+}

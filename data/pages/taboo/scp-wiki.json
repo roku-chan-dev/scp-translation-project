@@ -1,0 +1,31 @@
+{
+  "title": "[REDACTED PER PROTOCOL 4000-ESHU]",
+  "content": "[[module ListPages  category=\"fragment\" parent=\".\" limit=\"1\" order=\"created_at\" offset=\"@URL|0\"]]\n%%content%%\n[[/module]]\n\n[!--\nFor translators, here is a direct link to each fragment:\n* https://scp-wiki.wikidot.com/fragment:taboo-1 -- Main document\n* https://scp-wiki.wikidot.com/fragment:taboo-2 -- O5-4000-F26 note\n* https://scp-wiki.wikidot.com/fragment:taboo-3 -- Colorblind version\n* https://scp-wiki.wikidot.com/fragment:taboo-4 -- April Fool's version\n--]\n\n[!-- If you are translating this page and need an updated version of the top image, you can find the original photoshop file here: https://scp-wiki.wdfiles.com/local--files/taboo/TabooWarning.psd\n\nOr, if you don't have photoshop, just PM me your translation for it and I will try to get you an updated version promptly! --]\n\n[[include component:license-box]]\n=====\n> **Filename:** TabooWarningfix.png\n> **Author:** [[*user peppersghost]]\n> **License:** CC SA-BY 3.0\n> **Source Link:** [/taboo SCP Foundation Wiki]\n\n> **Filename:** Up-in-the-Air_Gabriela-Pinto_CC2_edited2.jpg\n> **Author:** [[*user peppersghost]]\n> **License:** CC SA-BY 3.0\n> **Source Link:** [/taboo SCP Foundation Wiki]\n> **Derivative Of:**\n> ----\n> **Name:** Up in the Air\n> **Author:** Gabriela Pinto\n> **License:** CC BY-SA 2.0\n> **Source Link:** [http://flickr.com/gabrielap93/9779144082 Flickr]\n=====\n[[include component:license-box-end]]",
+  "tags": [
+    "4000",
+    "_cc",
+    "_licensebox",
+    "_listpages",
+    "extradimensional",
+    "factory",
+    "forest",
+    "illustrated",
+    "infohazard",
+    "keter",
+    "location",
+    "meta",
+    "mind-affecting",
+    "nameless",
+    "phenomenon",
+    "ritual",
+    "scp",
+    "transfiguration",
+    "tree"
+  ],
+  "author": "PeppersGhost",
+  "created_at": "2018-07-02T03:57:42+00:00",
+  "updated_at": "2025-04-02T05:02:22+00:00",
+  "rating": 3079,
+  "_site": "scp-wiki",
+  "_fullname": "taboo"
+}

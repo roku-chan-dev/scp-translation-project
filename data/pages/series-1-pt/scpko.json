@@ -1,0 +1,14 @@
+{
+  "title": "SCP-PT 목록",
+  "content": "[[div class=\"content-panel standalone series\"]]\n[[div class=\"content-toc\"]]\n**목록**\n[/series-1-pt#operational SCP 관련 정보]\n[/series-1-pt#list SCP-PT 목록]\n[/series-1-pt#001 001 - 099]\n[/series-1-pt#100 100 - 199]\n[/series-1-pt#content 자료 보관]\n\n[[/div]]\n\n[[# operational]]\n+ SCP 관련 정보\n\n+ SCP 목록 [[# list]]\n\n[[# 001]]\n+ 001 - 099\n\n* [[[SCP-027-PT|——————]]] - 이건 존재해서는 안 된다 ##white| ● SCP-027-PT - 존재하지 않는 대상##\n\n[[# 100]]\n+ 100 - 199\n\n* [[[SCP-106-PT]]] - 음파 손전등\n\n[[/div]]\n[[div class=\"content-panel standalone series\"]]\n[[# content]]\n+ 자료 보관\n* [[[joke-scps-pt|농담 SCP-PT]]] - 작성하기 전에 기발하고 재밌는 요소가 들어있는지 확인하세요.\n* [[[archived-scps-pt|보존 SCP-PT]]] - 재단 이야기에 필요하거나 운영진 권한으로 보존된 항목입니다.\n* [[[scp-ex-pt|해명 SCP-PT]]] - 여기에는 더이상 이상하거나 초자연적이거나 비범하지 않은 항목이 들어가야함을 염두에 두고 작성해야합니다.\n* [[[anomalias|포르투갈어 변칙 항목 기록]]] - SCP는 아니지만 여전히 변칙적인 대상입니다. 자유롭게 추가할 수 있지만 정기적으로 질나쁜 항목은 잘라냅니다.\n* [[[anomalias|포르투갈어 이상 징후 기록]]] - 설명하기 어려운 이상한 일이 잠깐 벌어졌으나 재단이 격리하기 전에 너무 빨리 나타났다 사라진 사건입니다. 자유롭게 추가할 수 있지만 정기적으로 질나쁜 항목은 잘라냅니다.\n[[/div]]",
+  "tags": [
+    "pt",
+    "허브"
+  ],
+  "author": "fluxman",
+  "created_at": "2020-10-24T12:00:09+00:00",
+  "updated_at": "2025-02-06T10:54:06+00:00",
+  "rating": 0,
+  "_site": "scpko",
+  "_fullname": "series-1-pt"
+}

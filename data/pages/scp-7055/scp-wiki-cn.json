@@ -1,0 +1,18 @@
+{
+  "title": "SCP-7055",
+  "content": "[[include :scp-wiki:component:acs-animation]]\n[[include :scp-wiki:component:fade-in speed=1]]\n[[include :scp-wiki-cn:theme:black-highlighter-theme]]\n[[include :scp-wiki-cn:theme:jakstyle]]\n[[include :scp-wiki-cn:component:anomaly-class-bar-source\n|lang= cn\n|item-number= 7055\n|clearance= 2\n|container-class= neutralized\n|secondary-class= none\n|disruption-class= none\n|risk-class= none\n]]\n\n------\n\n**特殊收容措施：** 塞尔姆斯多夫事件在公共领域被描述为普通的山火。受塞尔姆斯多夫事件影响的地区不得重新造林恢复。\n\n**描述：** SCP-7055是两棵树的统称，[[footnote]]两棵树皆为欧洲白蜡树[[/footnote]]在1971年至1990年间一直被//柏林墙//所分隔，分别被命名为SCP-7055-W（West）和SCP-7055-E（East）。SCP-7055-W和SCP-7055-E均有一定的感知力，彼此之间能够通过摩斯电码进行通信（通过发出类似“敲击”的声音[[footnote]]尚不清楚这些声音是如何产生的[[/footnote]]）。\n\nSCP-7055-W和SCP-7055-E在意识形态上与它们所处的国家相同，SCP-7055-W属于联邦德国，SCP-7055-E则属于民主德国。这导致了两棵树之间的政治冲突，最终在1991年苏维埃社会主义共和国联盟解体后的塞姆斯多夫事件中达到高潮。\n------\n[[=]]\n[[collapsible show=\"打开-塞尔姆斯多夫事件记录\" hide=\"关闭-塞尔姆斯多夫事件\"]]\n[[<]]\n[[div class=\"blockquote\"]]\n**前言：** 二者间的对峙演变成“战争”，两个SCP-7055个体在未知的原因下被点燃。在大约10分钟的燃烧之后，两个个体都发生了猛烈的爆炸。负责SCP-7055的工作人员将其争论内容记录并破译如下。\n------\n**SCP-7055-W：**愚蠢的树联人终于聪明点了。\n\n**SCP-7055-E：**不是的，联盟只是被铲除了部分根基而已。\n\n**SCP-7055-W：**树联的根基早在西方势力介入之前就已不再稳定，解体是大树所趋。\n\n**SCP-7055-E：**我们会提防你们这些资本家的。\n\n**SCP-7055-W：**不，这一切都是连树效应，很快你们那不靠谱的政府也会垮台。\n\n**SCP-7055-E：** 你是在威胁我？\n\n**SCP-7055-W：** 不是。只是如果你们继续用你们的路树侵扰我们，这将会是你们覆灭的征兆。\n\n**SCP-7055-E：**看吧，朋友，很明显你上错了树。你们也侵犯了我们，我想我们还可以暂时和平共处，怎样？\n\n**SCP-7055-W：**想想最近发生的树情吧，那些条约对你们来说只是一树空文罢了。\n\n**SCP-7055-E：**什么？\n\n**SCP-7055-W：**现在终于到了结束这种树性的时候了，共产主义是一种寄生虫，就寄生在你们这棵腐朽不堪的树上。我已经部树了我全部的武装力量。今天，柏林墙就会崩塌！\n\n**SCP-7055-E：**破事不断的西方树，你总是反对那些与你立场不同的树。这就是一场你想要的战争，一场终将由你发起的战争。\n\n**SCP-7055-W：**就是这样——树界大战。新的树界秩序将会建立...我可以保证你，也成为这次战争的胜利树，本树纪末的最后一次胜利，也是那些共产主义败类的又一次失败。\n\n**SCP-7055-E：**好吧，我们各退一步怎么样？如果我们和平地解决目前的问题，我们就可以解决这场争论。\n\n**SCP-7055-W：**别浪费口舌了，我已经厌倦了和你们这些油盐不进的家伙谈判了。\n\n**SCP-7055-E：**不可理喻！你不过是另一个法西斯主义者，另一个来澳大利亚的弱汁，一个傻瓜！我将不会在你腐化你们的人民时出枝相助！树你们逼我这么做的！今天，你们和你们的统治就会在今天终结！\n------\n[[=]]\n[[include component:image-block\n| name=http://scp-wiki.wikidot.com/local--files/scp-7055/fire\n| caption=火灾中的SCP-7055及其周围环境\n| align=center\n]]\n[[/=]]\n[[/div]]\n[[/<]]\n[[/collapsible]]\n[[/=]]\n------\n\n[[div class=\"footer-wikiwalk-nav\"]]\n[[=]]\n<< [[[SCP-7054]]] | SCP-7055 | [[[SCP-7056]]] >>\n[[/=]]\n[[/div]]\n\n[[footnoteblock]]\n\n[[include :scp-wiki-cn:component:license-box\n|author=MrIverson\n|translator=Blinder4\n]]\n[[include :scp-wiki-cn:component:license-box-end]]",
+  "tags": [
+    "scp",
+    "声音",
+    "无效化",
+    "智能",
+    "树木",
+    "植物"
+  ],
+  "author": "Blinder4",
+  "created_at": "2022-10-20T04:02:19+00:00",
+  "updated_at": "2023-05-31T07:15:29+00:00",
+  "rating": 16,
+  "_site": "scp-wiki-cn",
+  "_fullname": "scp-7055"
+}

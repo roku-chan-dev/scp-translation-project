@@ -1,0 +1,13 @@
+{
+  "title": "邮箱",
+  "content": "[[module CSS]]\n.blinkbar {color: red;font-size:125%; animation: blink 1.5s infinite; letter-spacing: -0.13em;}@keyframes blink{to{opacity: .0;}}@keyframes flicker {0% {opacity: 0.9890; }5% {opacity: 0.5842; }10% {opacity: 0.9865; }20% {opacity: 0.0412; }20% {opacity: 0.6255; }25% {opacity: 0.3157; }30% {opacity: 0.7328; }35% {opacity: 0.4654; }40% {opacity: 0.9128; }45% {opacity: 0.2449; }50% {opacity: 0.5485; }55% {opacity: 0.6438; }60% {opacity: 0.1180; }65% {opacity: 0.9085; }70% {opacity: 0.0266; }75% {opacity: 0.6795; }80% {opacity: 0.7812; }85% {opacity: 0.0117; }90% {opacity: 0.2239; }95% {opacity: 0.8897; }100% {opacity: 0.2260; }}@keyframes overlay-anim {0% {visibility: hidden; }10% {visibility: hidden; }11% {visibility: visible; }50% {visibility: hidden; }100% {visibility: hidden; }}\n.collapsible-block-folded a.collapsible-block-link {\n    animation: blink 0.8s ease-in-out infinite alternate;\n}\n@keyframes blink {\n    0% { color: transparent; }\n    50%, 100% { color: #b01; }\n}\n.email {float: center; border: solid 2px #000000; width: 88%; padding: 1px 15px; margin: 10px 10px 10px 10px; box-shadow: 0 1px 3px rgba(0,0,0,.5)}\na.collapsible-block-link { font-weight: bold; }\n.tofrom {margin-left: 10px; margin-top: 5px; padding: 1px 15px; border-left: solid 3px maroon}\n[[/module]]\n\n@@@@\n@@@@\n@@@@\n@@@@\n@@@@\n@@@@\n@@@@\n@@@@\n@@@@\n@@@@\n@@@@\n@@@@\n@@@@\n\n\n\n[[=]]\n[[collapsible show=\"访问SCiPNET邮件？一 (1) 封新邮件！\" hide=\"回复：主题\"]]\n[[<]]\n[[div class=\"email\"]]\n[[div class=\"tofrom\"]]\n**至：**Site-CN-82-β全体成员\n**自：**Dr.vk\n**主题：**讣告\n[[/div]]\n------\n2019/12/27，Dr.Blender在前往Site-120进行访问的时候遭遇了实验事故，不幸被卷入C类“破碎入口”虫洞中。据勘测，Dr.Blender被卷入了SCP-3001。在那之后，根据罗伯特博士的遭遇所制定的救援迅速展开。出人意料的是救援没有起效，仅回收了一件破损的外套。推测Dr.Blender已死亡。\n------\n我们失去了一位令人尊敬的博士，我们失去了一位最好的朋友。我会永远记得我们共事的日子，我想你们也记得他在Site-CN-03时面对几起收容失效事件的英勇表现。我把他的邮箱给你们，[http://scp-wiki-cn.wikidot.com/scp-cn-2361/offset/3 Dr.Blender@SCiPNET]。我相信这能让你们更好地记住他，以及继续走下去。\n[[/<]]\n[[/collapsible]]\n[[/=]]\n[[/div]]\n@@@@\n@@@@\n@@@@\n@@@@\n@@@@\n@@@@\n@@@@\n@@@@\n@@@@\n@@@@\n@@@@\n@@@@\n@@@@\n@@@@\n@@@@\n@@@@\n@@@@\n@@@@\n@@@@\n@@@@\n@@@@\n@@@@\n@@@@\n@@@@\n@@@@\n@@@@",
+  "tags": [
+    "段落"
+  ],
+  "author": "vk blender",
+  "created_at": "2021-11-27T13:45:47+00:00",
+  "updated_at": "2021-11-29T05:33:30+00:00",
+  "rating": 2,
+  "_site": "scp-wiki-cn",
+  "_fullname": "fragment:scp-cn-2361-3"
+}

@@ -1,0 +1,14 @@
+{
+  "title": "Topia Alert Inc",
+  "content": "[[include :scpko:component:topia-alert\n|close={$close}\n|close=닫기\n|top={$top}\n|top=경고!\n|sub={$sub}\n|sub={$c}\n]]",
+  "tags": [
+    "jp",
+    "구성요소"
+  ],
+  "author": "thd-glasses",
+  "created_at": "2024-09-20T05:50:51+00:00",
+  "updated_at": "2025-03-21T14:34:23+00:00",
+  "rating": 1,
+  "_site": "scpko",
+  "_fullname": "component:topia-alert-inc"
+}

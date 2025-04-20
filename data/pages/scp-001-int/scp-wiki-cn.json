@@ -1,0 +1,14 @@
+{
+  "title": "SCP-001-INT",
+  "content": "[[include :scp-wiki-cn:theme:int-bhl]]\n\n[[=]]\n++ 在管理员的命令下\n\n++ 此文档已被列为\n\n+ [[size 200%]]最高机密[[/size]]\n[[/=]]\n-----\n[[div class=\"content-panel standalone series\"]]\n[[==]]\n**通用说明001-Alpha：**为防止SCP-001-INT的真相泄漏，零份/多份伪造的掩盖文件与一份/多份真正的001文件一并储存。所有涉及到SCP-001-INT本质的文件，包括一份/多份假文件，均受模因抹杀触媒保护，未经授权的人员查看，将立刻导致其心脏骤停死亡。除非受到████-███-██████的指令，否则将SCP-001-INT的内容透漏给公众者将被处决。\n[[/==]]\n[[/div]]\n-----\n[[=]]\n+ [[size 200%]]警告：[[/size]]\n\n任何未经授权之人员访问该文档将立即被**BERRYMAN-LANGFORD**模因抹杀触媒处决。在未接种合适模因疫苗的情況下向下滚动页面将立刻导致心脏骤停死亡。\n\n+ 你已经被警告过了。\n[[/=]]\n-----\n\n[[div style=\"height:300vh; width:100%; clear:both;\"]]\n[[/div]]\n\n\n\n[[=image https://www.publicdomainpictures.net/pictures/420000/velka/abstract-reflected-pattern.jpg style=\"width: 100%; border: solid 1px black;\"]]\n[[=]]\n**模因抹杀触媒启动**\n\n**检测到生命迹象**\n\n**解开安全锁**\n\n//欢迎，已获授权的人员。请选择您要查看的文件。//\n[[/=]]\n-----\n[[div class=\"content-panel standalone series\"]]\n[[=]]\n**SCP-001-INT提案：**\n\n[[[scp-001-int-security-checkpoint| 代号：Truth]]] - Doorway to Non-Anomalous\n\n[[/=]]\n[[/div]]\n-----\n[[div class=\"content-panel standalone series\"]]\n[!-- Links to translated SCP-001 Hubs - ordered alphabetically, separated into two blocks based on the format --]\n[[=]]\n**其他分部的001提案：**\n\n[[[SCP-001]]]\n[[[SCP-001-DE]]]\n[[[SCP-001-FR]]]\n[[[SCP-001-IT]]]\n[[[SCP-001-JP]]]\n[[[SCP-001-KO]]]\n[[[SCP-001-PT]]]\n[[[SCP-001-RU]]]\n[[[SCP-001-TH]]]\n[[[SCP-001-VN]]]\n[[[SCP-001-PIG]]]\n\n[[[SCP-CN-001]]]\n[[[SCP-ES-001]]]\n[[[SCP-PL-001]]]\n[[[http://scp-zh-tr.wikidot.com/scp-zh-001|SCP-ZH-001]]]\n\n@@ @@\n\n[!-- All translations of SCP-001 Proposals --]\n[[collapsible show=\"显示所有SCP-001提案的列表？\" hide=\"所有001提案：\"]]\n[[module ListPages tags=\"+001提案 -int -补充页面 -掩藏页 -中心页\" order=\"random\" perPage=\"100\" limit=\"100\"]]\n%%title_linked%%\n[[/module]]\n[[/collapsible]]\n[[/=]]\n@@@@\n[[/div]]\n\n[[include :scp-wiki-cn:component:license-box\n|lang=INT\n|author=站务]]\n=====\n> **文件名：**abstract-reflected-pattern.jpg\n> **图像名：**Abstract reflection of inverted dandelion seed head\n> **图像作者：**Lynn Greyling\n> **授权协议：**公有领域\n> **来源链接：**[[[https://www.publicdomainpictures.net/en/view-image.php?image=413676&picture=abstract-reflected-pattern|Public Domain Pictures]]]\n=====\n[[include :scp-wiki-cn:component:license-box-end]]",
+  "tags": [
+    "int",
+    "中心"
+  ],
+  "author": "la kanro",
+  "created_at": "2023-02-07T04:33:39+00:00",
+  "updated_at": "2024-05-24T09:30:44+00:00",
+  "rating": 3,
+  "_site": "scp-wiki-cn",
+  "_fullname": "scp-001-int"
+}

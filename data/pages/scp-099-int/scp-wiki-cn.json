@@ -1,0 +1,22 @@
+{
+  "title": "SCP-099-INT",
+  "content": "[[module ListPages  category=\"fragment\" parent=\".\" limit=\"1\" order=\"created_at\" offset=\"@URL|0\"]]\n%%content%%\n[[/module]]\n\n[!-- fragments:\nscp-wiki-cn.wikidot.com/fragment:scp-099-int-0             SCP\nscp-wiki-cn.wikidot.com/fragment:scp-099-int-1             附录\n--]\n\n[[include component:license-box\n|author=Luis Gm和Amoniethian\n|translator=la kanro和Amoniethian\n]]\n=====\n> **文件名：**biotech-mini.png\n> **图像名：**Biotech Mini Logo\n> **图像作者：**Nihonio\n> **授权协议：**CC-BY-SA 3.0\n> **来源链接：**[http://scp-int.wikidot.com/]\n=====\n> **文件名：**flor-aspargaceae.png\n> **图像名：**Flor asparagaceae\n> **图像作者：**Luis Gm\n> **授权协议：**CC-BY-SA 4.0\n> **来源链接：**[http://kvetnidiagram.8u.cz/]\n=====\n> **文件名：**flor-bromeliaceae.png\n> **图像名：**Flor bromeliaceae\n> **图像作者：**Luis Gm\n> **授权协议：**CC-BY-SA 4.0\n> **来源链接：**[http://kvetnidiagram.8u.cz/]\n=====\n> **文件名：**flor-cactaceae.png\n> **图像名：**Flor cactaceae\n> **图像作者：**Luis Gm\n> **授权协议：**CC-BY-SA 4.0\n> **来源链接：**[http://kvetnidiagram.8u.cz/]\n=====\n> **文件名：**flor-crassulaceae.png\n> **图像名：**Flor crassulaceae\n> **图像作者：**Luis Gm\n> **授权协议：**CC-BY-SA 4.0\n> **来源链接：**[http://kvetnidiagram.8u.cz/]\n=====\n> **文件名：**invocation-099-int.jpeg\n> **图像名：**请神搬兵破关决\n> **图像作者：**Amoniethian\n> **授权协议：**CC-BY-SA 3.0\n> **来源链接：**[http://scp-int.wikidot.com/]\n=====\n> **文件名：**SCP-099-INT.png\n> **图像名：**SCP-099-INT\n> **图像作者：**CC-BY-SA 3.0\n> **授权协议：**公有领域\n> **来源链接：**[http://scp-int.wikidot.com/]\n=====\n[[include component:license-box-end]]",
+  "tags": [
+    "2023国际竞赛",
+    "int",
+    "keter",
+    "scp",
+    "合著",
+    "天空",
+    "强迫性",
+    "气体",
+    "气象",
+    "生物危害"
+  ],
+  "author": "la kanro",
+  "created_at": "2023-02-11T18:24:44+00:00",
+  "updated_at": "2023-02-11T18:41:43+00:00",
+  "rating": 7,
+  "_site": "scp-wiki-cn",
+  "_fullname": "scp-099-int"
+}

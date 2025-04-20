@@ -1,0 +1,14 @@
+{
+  "title": "MC&D 테마(회색)",
+  "content": "[[module CSS]]\n@import url(https://scp-wiki.wdfiles.com/local--code/theme%3Amcd-gray/1);\n[[/module]]\n\n[[iftags +테마]]\n[[>]]\n**평점:**\n[[module Rate]]\n[[/>]]\n\n[[>]]\n**정보창이 있는 평점:**\n[[/>]]\n\n[[include info:start]]\n당신의 페이지에 대한 정보\n[[include info:end]]\n\n테마를 이용하기 위해서는 아래 구문을 당신의 작품 가장 위에 넣어주세요.\n\n> @@[[include theme:mcd-gray]]@@\n\n+ 헤더\n\n++ 헤더 2단계\n\n----\n\n[/ 링크]\n\n[[collapsible show=\"+ 접기 구문\" hide=\"- 접기 구문\"]]\n접기 구문 안 무언가\n[[/collapsible]]\n----\n[[tabview]]\n[[tab 탭 1]]\n첫 번째 탭.\n[[/tab]]\n[[tab 탭 2]]\n두 번째 탭.\n[[/tab]]\n[[/tabview]]\n----\n\n[[code]]\n/*\n    Marshall, Carter & Dark\n    [2014 Wikidot Theme, 2018 Update]\n    Originally created for the SCP Foundation GoI Contest of 2014 (MC&D team and Group of Interest) by Randomini. Thanks to Reach, Aelanna and Crayne for the template.\n    Colors ruined by Silberescher.\n    Updated by stormbreath for mobile compatibility.\n*/\n\nSource code: https://scp-wiki.wdfiles.com/local--code/theme%3Amcd-gray/1\n[[/code]]\n[[/iftags]]",
+  "tags": [
+    "en",
+    "테마"
+  ],
+  "author": "Denevola",
+  "created_at": "2021-11-07T08:34:25+00:00",
+  "updated_at": "2021-11-07T08:34:34+00:00",
+  "rating": 1,
+  "_site": "scpko",
+  "_fullname": "theme:mcd-gray"
+}

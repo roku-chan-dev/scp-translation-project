@@ -1,0 +1,20 @@
+{
+  "title": "SCP-7271",
+  "content": "[[include :scp-wiki-cn:component:anomaly-class-bar-source\n|lang=cn\n|item-number=7271\n|clearance=1\n|container-class=euclid\n|secondary-class= none\n|secondary-icon= https://urlhere.com\n|disruption-class=dark\n|risk-class=待观察\n]]\n@@ @@\n**特殊收容措施：**SCP-7271应储存于Site-327的一个标准异常储存柜中。禁止任何人员满足SCP-7271提出的任何要求。\n[[include component:image-block\n| name=https://scp-wiki.wdfiles.com/local--resized-images/scp-7271/pickles.jpeg/medium.jpg\n| caption=SCP-7271的照片。\n]]\n**描述：**SCP-7271是一个玻璃罐，内含有三根黄瓜和溶质质量分数为3%的盐水。在此条件下通常会导致微生物活性产生乳酸，从而对黄瓜进行腌制。然而罐中黄瓜的化学成分没有发生变化。经进一步调查，罐子中仍然存在微生物，尽管这些微生物明显缺乏活性。其中每种微生物都附着在一个微型尖脚木桩上并标有各种信息。以下列出了其中几种信息：\n\n* 罢工！\n* 不让抗议就不发酵！\n* 该给微生物放假了！\n* 带薪腌制！\n* 不成菌权便成仁!\n\n目前正在进行测试以确定历史上曾发生的企业罢工，是否能作为一种收容手段来有效减小SCP-7271异常效应的影响。目前，对无需薪资的“不罢工”微生物的研发已被证明无效，此类微生物均加入了SCP-7271内部微生物“罢工”行动。目前正计划研究是否能通过选择性地减少领导“罢工”行动的微生物的方式，来阻止剩余微生物继续进行“罢工”行动。\n\n**事故记录-1：**2022年9月30日，Wadsworth研究员试图给予SCP-7271一美元以满足他们的薪资要求。SCP-7271对此回绝并认为它们受到了侮辱。此后研究员Wadsworth的消化功能出现问题，经检查发现他的肠道菌群中有一部分出现异常，这一部分菌群加入了SCP-7271中的微生物的“罢工”行动。\n\n**事故记录-2：**2023年6月17日，Site-327截获了一封寄往当地一家腌渍厂的信封。信封内含一种精细粉末，该粉末由数十亿份微观量级大小的工人宣传手册组成。尽管这些手册具有异常性质，但研究表明它们对非异常微生物没有影响——非异常微生物并不能识别手册上的文字，也不具备达到这种能力的智商。\n\n**事故记录-3：**2023年4月8日，Wadsworth研究员在午饭期间，意外将一些酸奶（一种益生菌的来源）洒入SCP-7271内部。此后，Wadsworth研究员听到了一种微弱的噪音，他将其称之为“数十亿的微小欢呼声”。噪音持续了大约十分钟后，SCP-7271所有异常效应失效。目前SCP-7271正在等待重新分级为无效化。\n@@ @@\n[[=]]\n<< [[[SCP-7270]]] | SCP-7271 | [[[SCP-7272]]] >>\n[[/=]]\n[[include :scp-wiki-cn:component:license-box\n|author=ParallelPotatoes\n|translator=AceAttackAssassin]]\n=====\n> **图像名称：**pickles.jpeg\n> **作者：**[[*user ParallelPotatoes]]\n> **遵循协议：**CC BY-SA 3.0\n=====\n[[include :scp-wiki-cn:component:license-box-end]]",
+  "tags": [
+    "euclid",
+    "scp",
+    "人造物品",
+    "智能",
+    "活物",
+    "液体",
+    "细菌",
+    "食物"
+  ],
+  "author": "AceAttackAssassin",
+  "created_at": "2023-07-05T08:42:21+00:00",
+  "updated_at": "2023-07-05T08:45:34+00:00",
+  "rating": 6,
+  "_site": "scp-wiki-cn",
+  "_fullname": "scp-7271"
+}

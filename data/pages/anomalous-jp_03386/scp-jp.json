@@ -1,0 +1,14 @@
+{
+  "title": "03386",
+  "content": "content: \"[[module ListUsers users=\\\".\\\"]]\\n**説明:** %%name%%という名称の、財団データベース上に存在する異常なアカウント。「財団が架空の組織であり、財団データベースはそれに対する創作サイトである」と思い込んでいるほか、稀に実在しないオブジェクトの報告書を作成することがある。\\n**回収日:** 20██/██/██\\n**回収場所:** 財団データベース最高機密区画\\n**現状:** 財団が架空の組織であると思わせたままにしており、作成された報告書は「低評価」との名目で削除されている。処分は検討中。\\n[[/module]]\"\ntf2: '0'\nauthor: ''\nredirect-b: '[[module Redirect destination=\"http://ja.scp-wiki.net/log-of-anomalous-items-jp'\nredirect-e: '\"]]'",
+  "tags": [
+    "jp",
+    "剪定対象-子"
+  ],
+  "author": null,
+  "created_at": "2022-01-07T05:31:23+00:00",
+  "updated_at": "2024-08-20T02:40:27+00:00",
+  "rating": 203,
+  "_site": "scp-jp",
+  "_fullname": "anomalous-jp:03386"
+}

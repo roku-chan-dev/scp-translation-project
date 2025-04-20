@@ -1,0 +1,14 @@
+{
+  "title": "Corax D's Orrery",
+  "content": "[[module css]]\n@import url('https://fonts.googleapis.com/css?family=Gochi+Hand|Source+Sans+Pro&display=swap');\n\n.rmpostcontainer\n{\n    background-image: url('http://firedawnfolder.wikidot.com/local--files/component:larueposting/LaRueDesk.png');\n    background-repeat: no-repeat;\n    width: 100%; max-width: 660px;\n    height: 980px;\n    margin: 0px;\n        padding: 60px 20px 0px 60px;\n}\n\n.rmpostcontent\n{\n    font-family: 'Source Sans Pro', sans-serif;\n    font-family: 'Gochi Hand', cursive;\n    font-style: normal;\n    font-size: 1.30em;\n    color: #000;\n    width: 530px;\n    height: 880px;\n    padding: 30px;\n    margin: 0px;\n    margin-top: -8px;\n}\n\n.rmpostmobiletitle\n{\n    display: none;\n}\n\n.scribble\n{\n    font-style: bold;\n    font-size: 1.30em;\n    color: #000;\n    width: 300px;\n    padding: 0px 0px 0px 20px;\n    margin: 0px;\n    margin-top: -8px;\n    -ms-transform: rotate(20deg); /* IE 9 */\n    transform: rotate(12deg); /* Standard syntax */\n}\n\n@media only screen and (max-width: 600px) {\n\n    .rmpostcontainer {\n        background-image: url(\"http://firedawnfolder.wikidot.com/local--files/component:larueposting/LaRueMobile.png\");\n        background-size: 100%;\n        background-repeat: repeat;\n        width: 100%;\n        height: auto;\n        padding: 0px;\n        padding-top: 0px;\n    }\n\n    .rmpostcontent {\n        font-size: 14pt;\n        width: 85%;\n        height: auto;\n        padding: 10px 10px 0px 30px;\n    }\n\n    .rmposttitle {\n        width: auto;\n        height: auto;\n        padding: 0px 20px 0px 70px;\n    }\n\n}\n\n[[/module]]\n\n[[div class=\"rmpostcontainer\"]]\n@@ @@\n@@ @@\n[[div class=\"rmposttitle\"]]\n[[/div]]\n[[div class=\"rmpostmobiletitle\"]]\nFrom The Desk of Corax D\n[[/div]]\n[[div class=\"rmpostcontent\"\n]]\nAhhh, so you've found my little hideaway in the multiverse, have you?\n\nWell, come in and take a seat!\n\nClearly, I'm out and about, gathering new inspiration for my stories!\n\nBut, you are more than welcome to sit and enjoy my growing library of tales of daring, intrigue, humour, and drama!\n\nA pot of tea should be on the stove for you.\n@@ @@\n@@ @@\n@@ @@\n@@ @@\n@@ @@\n@@ @@\n@@ @@\n@@ @@\n[[size 200%]] - Corax D.\n[[/size]]\n\n[[/div]]\n[[/div]]\n\n[[include :scp-wiki:component:mega-cool-author-page-tool |inc-list= --]\n|order= created_at\n|perpage= 20\n|background-image=\n|shadow=\n]]",
+  "tags": [
+    "_cc",
+    "author"
+  ],
+  "author": "Corax D",
+  "created_at": "2023-07-03T20:55:03+00:00",
+  "updated_at": "2025-02-22T21:43:22+00:00",
+  "rating": 14,
+  "_site": "scp-wiki",
+  "_fullname": "corax-ds-orrery"
+}

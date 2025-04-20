@@ -1,0 +1,14 @@
+{
+  "title": "암시장 테마",
+  "content": "[[iftags +테마]]\n[[module CSS]]\n@import url(\"https://nu-scptheme.github.io/Black-Highlighter/css/min/normalize.min.css\");\n@import url(\"https://nu-scptheme.github.io/Black-Highlighter/css/min/black-highlighter.min.css\");\n@import url('https://cdn.jsdelivr.net/gh/XCninety/xcninety.github.io/Black-Highlighter/NanumBarunCatsi.css');\n:root {\n    --body-font: Raleway, 'NanumBarunCatsi', sans-serif;\n    --header-font: \"Poppins\", 'NanumBarunCatsi', sans-serif;\n    --title-font: \"Poppins\", 'NanumBarunCatsi', sans-serif;\n    --mono-font: 'Nanum Gothic Coding', \"Space Mono\", \"Andale Mono\", \"Courier New\", Courier, monospace;\n}\n\n.animSVG {\n    width: 100%;\n    height: 0px;\n    background-position: center;\n    background-size: contain;\n    background-repeat: no-repeat;\n}\n\n[[/module]]\n\n[[module CSS]]\n@import url(\"https://scp-wiki.wdfiles.com/local--files/svg-animation/mcdLogo.css\");\n[[/module]]\n[[div class=\"mcdLogo animSVG\" style=\"width: 100%; padding-bottom: calc(100% / 64 * 31); background-image: var(--mcdLogo);\"]]\n[[/div]]\n\n----\n\n[[>]]\n[[module Rate]]\n[[/>]]\n\n+ 사용법\n\n++ 비고: 이것은 블랙 하이라이터 기반 테마입니다. 이 테마를 사용하기 위해서는 기본형 블랙 하이라이터를 먼저 적용시켜야 합니다. [[[theme:black-highlighter-theme|상세한 정보는 여기를 참조하세요]]].\n\n이 테마를 사용하기 위해서는 다음 코드를 붙여넣으세요.\n\n> @@[[include :scp-wiki:theme:black-highlighter-theme]]@@\n> @@[[include :scpko:theme:black-market]]@@\n\n[[=]]\n+ 테마 색상\n[[/=]]\n\n[[include :scp-wiki:component:theme-squares -=-\n| color1-name=앨리스색\n| color1-variable=--pale-gray-monochrome\n| color1-info=(240, 248, 255)\n| color2-name=부두교색\n| color2-variable=--gray-monochrome\n| color2-info=(61, 43, 61)\n| color2-has-light-text=1\n| subcolor1-name=난초색\n| subcolor1-variable=--pale-accent\n| subcolor1-info=(216, 39, 216)\n| subcolor1-has-light-text=1\n| subcolor2-name=심홍색\n| subcolor2-variable=--bright-accent\n| subcolor2-info=(180, 35, 180)\n| subcolor2-has-light-text=1\n| subcolor3-name=자두색\n| subcolor3-variable=--medium-accent\n| subcolor3-info=(140, 20, 140)\n| subcolor3-has-light-text=1\n| subcolor4-name=티레색\n| subcolor4-variable=--dark-accent\n| subcolor4-info=(100, 3, 100)\n| subcolor4-has-light-text=1\n]]\n[[/iftags]]\n\n[[div [[iftags -테마]]style=\"display: none\"[[/iftags]]]]\n[[[https://www.scpwiki.com/theme:black-market|코드 보기]]]\n[[include :scpko:component:bhl-dark-sidebar]]\n[[include :scp-wiki:theme:black-market]]\n[[/div]]",
+  "tags": [
+    "en",
+    "테마"
+  ],
+  "author": "Salamander724",
+  "created_at": "2020-09-29T13:38:10+00:00",
+  "updated_at": "2024-08-17T06:43:25+00:00",
+  "rating": 1,
+  "_site": "scpko",
+  "_fullname": "theme:black-market"
+}

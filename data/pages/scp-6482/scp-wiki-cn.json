@@ -1,0 +1,19 @@
+{
+  "title": "SCP-6482",
+  "content": "[[include :scp-wiki-cn:theme:black-highlighter-theme]]\n[[include :scp-wiki-cn:component:acs-animation]]\n[[include :scp-wiki-cn:component:fade-in speed=1]]\n\n[[div style=\"margin-bottom:20px;\"]]\n[[include :scp-wiki-cn:component:anomaly-class-bar-source\n|lang=cn\n|item-number= 6482\n|clearance= 2\n|container-class= neutralized\n]]\n[[/div]]\n\n[[include :scp-wiki:component:image-block\n|name= https://scp-wiki.wdfiles.com/local--files/scp-6482/ghost.jpg\n|caption= 来自布鲁克代尔海岸养老区监控录像中的SCP-6482截图\n]]\n\n**特殊收容措施：** SCP-6482的残余存储在Site-23的标准收容柜内。\n\n**描述：** 在无效化前，SCP-6482是一由羟基磷灰石、盐和其他矿物颗粒组成的人形实体，重量2.7千克。这些微粒现已不再活动，不具有其他明显异常性质。\n\n**附录6482.1:** 发现\n\n2021-08-11，有平民看到SCP-6482在华盛顿海岸市西侧边沿“聚集成形”。该实体行走约3公里来到布鲁克代尔[[footnote]]**译注：**美国养老企业，全世界最大的养老产业公司。[[/footnote]]海岸养老区（一座位于半岛东侧的养老护理设施）。监控设备记录到SCP-6482走到一位高年住户Josef Weiss的身后，他当时似乎正在轮椅上睡觉。SCP-6482触了一下Weiss的肩膀，将他唤醒。转头看向SCP-6482时，它的微粒停止活动，实体也随之消散。Weiss表情困惑，但几秒后露出了微笑，而后失去了意识。\n\n在收容团队抵达布鲁克代尔海岸区时，Weiss已经死亡。尸检发现他的心脏已经衰竭。 \n\n**附录6482.2：**采访记录\n\n> **受访者：** Josef Weiss之女，Amelia Weiss-Thompson\n>   \n> **采访者：** Maxwell Young博士\n>   \n> **<开始记录>**\n>   \n> **Dr. Young:** 你说你知道出了什么事？请解释一下，从头开始。\n>     \n> **Weiss-Thompson:** 当然。爸爸从小就一直有这么个朋友，Daniel Owens。他就像自家人。我们去过他的葬礼，他前几年刚去世。他的家人就把骨灰洒在了这东西出现的同一片海滩。\n>    \n> **Dr. Young:** 你相信它就是Daniel？\n>    \n> **Weiss-Thompson:** 对，以及我不觉得是他害死了人。爸爸有心脏病好一段时间了，他就是时候到了。\n>   \n> **Dr. Young:** 你是否了解为什么它会针对你父亲？\n>  \n> **Weiss-Thompson:** 我觉得是。爸爸和Dan经常一起厮混，就算这么大把年纪，彼此间也还是像两个Stooges乐队的一样。每隔段时间他们就会玩这种鬼抓人游戏[[footnote]]译注：原名tag/标签游戏，由一个玩家扮演“鬼/it”，鬼要尽力追赶并身体触碰其他玩家，被碰到的人成为下一个“鬼”，如此无限重复。[[/footnote]]，爸爸告诉我说这是他们十几岁就开始的事。Dan去世的时候正在当“鬼”。\n>     \n> //Weiss-Thompson从口袋里拿出手帕，擦去脸上的泪水。//\n>     \n> **Weiss-Thompson:** 那个老家伙从来就不服输。\n>     \n> **<记录结束>**\n\n[[div class=\"footer-wikiwalk-nav\"]]\n[[=]]\n<< [[[SCP-6481]]] | SCP-6482 | [[[SCP-6483]]] >>\n[[/=]]\n[[/div]]\n\n[[include :scp-wiki-cn:component:license-box\nauthor=MirageTD]]\n=====\n=====\n> **文件名：**ghost.jpg\n> **图像作者：**Jolanta Dyr, modified by [[*user MirageTD]]\n> **授权协议：**@@@@[[[https://creativecommons.org/licenses/by-sa/3.0/pl/ | CC BY-SA 3.0 PL]]]\n> **来源链接：**@@@@https://commons.wikimedia.org/wiki/File:Hallway_of_W%C5%82adys%C5%82aw_Broniewski_Museum_in_Warsaw_-_01.jpg\n=====\n[[include :scp-wiki-cn:component:license-box-end]]",
+  "tags": [
+    "scp",
+    "人形生物",
+    "复活",
+    "尸体",
+    "感知力",
+    "无形",
+    "无效化"
+  ],
+  "author": "ashausesall",
+  "created_at": "2021-12-18T16:18:35+00:00",
+  "updated_at": "2022-11-29T14:30:33+00:00",
+  "rating": 7,
+  "_site": "scp-wiki-cn",
+  "_fullname": "scp-6482"
+}

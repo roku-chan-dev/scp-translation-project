@@ -1,0 +1,14 @@
+{
+  "title": "노트",
+  "content": "페이지에 노트를 생성하려면 {{[[note]] ... [[/note]]}} 태그에 생성하세요 (각 태그는 해당 줄에 있어야합니다).\n\n아래는 예시 노트입니다.\n[[note]]\n자세한 정보는 연락주시기 바랍니다. support@wikidot.com\n[[/note]]",
+  "tags": [
+    "관리",
+    "안내"
+  ],
+  "author": "Dr Devan",
+  "created_at": "2015-02-05T15:35:27+00:00",
+  "updated_at": "2015-02-05T15:36:05+00:00",
+  "rating": 0,
+  "_site": "scpko",
+  "_fullname": "wiki-syntax:notes"
+}

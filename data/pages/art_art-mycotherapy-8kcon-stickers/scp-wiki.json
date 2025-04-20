@@ -1,0 +1,16 @@
+{
+  "title": "Ignota's 8kcon Stickers",
+  "content": "[[module CSS]]\n\n.pictureBox{\nwidth: 95%;\npadding: 10px;\nborder: solid 2px var(--accentColor);\nborder-radius: 15px;\nbackground-color: #6B537380;\n}\n\n.grid-container {\n    display: grid;\n    grid-template-columns: 1fr 1fr;\n    grid-gap: 20px;\n}\n\n\n\n.censor{\nfilter: blur(30px);\ntransition: 0.5s ease;\n}\n\n.censor:hover{\nfilter: blur(0px);\ntransition: 0.5s ease;\n}\n\n\nimage{\nwidth:90%;\n}\n[[/module]]\n\n[[include component:ratio-bar base=-- |ex=--]]\n[[>]]\n[[include :scp-wiki:info:start]]\n**Art Mycotherapy**\n[[include component:ratio-bar pie=--]]\n[[include :scp-wiki:info:end]]\n[[/>]]\n[[module ListPages created_by=\"IronShears\" category=\"fragment\" name=\"fragment:art-mycotherapy%\" order=\"created_at\" limit=\"1\" offset=\"@URL|0\"]]\n%%content%%\n[[/module]]\n[[=]]\n+ [[span class=\"linkTwo\"]][http://scp-wiki.wikidot.com/art:art-mycotherapy-8kcon-stickers Original Theme][[/span]]\n+ [[span class=\"linkOne\"]][http://scp-wiki.wikidot.com/art:art-mycotherapy-8kcon-stickers/offset/1 Click here if the theme hurts your eyes][[/span]]\n\n[[div style=\"border-radius: 10px;\n  background-repeat: no-repeat;\n  background-position: center;\nborder:solid 2px var(--accentColor);\npadding:15px;\nmargin-bottom: 15px;\"]]\n+ REMEMBER TO READ THEM\n\nOkay! Stickers! I'm making them for 8kcon entries I liked :) Feel free to recommend some below but I probably won't do them unless I like them after reading.\n\n++ [https://scp-wiki.wikidot.com/art:art-mycotherapy More Art Mycotherapy]\n[[/div]]\n\n[[div class=\"grid-container\"]]\n[[div class=\"pictureBox\"]]\n[[image 700millionwizards.png]]\n+ [https://scp-wiki.wikidot.com/SCP-8320 SCP-8320: Seven Hundred Million Wizards]\nby [[*user Raddagher]]\n[[/div]]\n\n[[div class=\"pictureBox\"]]\n[[image https://i.imgur.com/4kLIjkj.png class=\"censor\"]]\n+ [https://scp-wiki.wikidot.com/SCP-8008 SCP-8008: TIME PERVERT]\nby [[*user LORDXVNV]]\n[[/div]]\n\n[[div class=\"pictureBox\"]]\n[[image feedingthetrolls.png]]\n+ [https://scp-wiki.wikidot.com/SCP-8999 SCP-8999: Feeding the Trolls]\nby [[*user J Dune]]\n[[/div]]\n\n[[div class=\"pictureBox\"]]\n[[image TheSealOfApproval.png]]\n+ [https://scp-wiki.wikidot.com/SCP-8000 SCP-8000: The Seal of Approval]\nby [[*user PlaguePJP]]\n[[/div]]\n\n[[div class=\"pictureBox\"]]\n[[image thebirchknight.png]]\n+ [https://scp-wiki.wikidot.com/SCP-8400 SCP-8400: The Birch Knight and The Game of Three Chestnuts]\nby [[*user PeppersGhost]] and [[*user Uncle Nicolini]]\n[[/div]]\n\n\n[[div class=\"pictureBox\"]]\n[[image BurialGoods.png]]\n+ [https://scp-wiki.wikidot.com/SCP-8140 SCP-8XXX: Burial Goods]\nby [[*user Grigori Karpin]]\n[[/div]]\n\n\n[[/div]]\n[[/=]]",
+  "tags": [
+    "_cc",
+    "artwork",
+    "cel-shaded",
+    "scp-art"
+  ],
+  "author": "IronShears",
+  "created_at": "2024-02-20T01:17:36+00:00",
+  "updated_at": "2024-03-29T22:59:44+00:00",
+  "rating": 56,
+  "_site": "scp-wiki",
+  "_fullname": "art:art-mycotherapy-8kcon-stickers"
+}

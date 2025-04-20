@@ -1,0 +1,23 @@
+{
+  "title": "SCP-CN-1273",
+  "content": "[[include :scp-wiki-cn:theme:black-highlighter-theme]]\n\n[[>]]\n[[include :topia:sp-rate-info-2 start= --]]]\n**SCP-CN-1273 欲倒载干戈，而你可安好？** \n\n**作者：**[[*user H-Storm Z]]  \n\n**人事页：** http://scp-wiki-cn.wikidot.com/hsz-file\n[[include :topia:sp-rate-info-2 end= --]]]\n[[/>]]\n@@@@\n[[module ListPages category=\"fragment\" parent=\".\" limit=\"1\" order=\"name\" offset=\"@URL|0\"]]\n%%content%%\n[[/module]]\n\n[!--\n编辑本页面的内容可能会导致错误。若要编辑文本，请至以下链接。\nhttp://scp-wiki-cn.wikidot.com/fragment:scp-cn-1273-01\nhttp://scp-wiki-cn.wikidot.com/fragment:scp-cn-1273-02\n--]\n\n[[footnoteblock]]\n\n[[div class=\"footer-wikiwalk-nav\"]]\n[[=]]\n<< [[[SCP-CN-1272]]] | SCP-CN-1273 | [[[SCP-CN-1274]]] >>\n[[/=]]\n[[/div]]",
+  "tags": [
+    "scp",
+    "不可摧毁",
+    "不可移动",
+    "人形生物",
+    "原创",
+    "反熵",
+    "地点",
+    "感知力",
+    "无效化",
+    "时空",
+    "生物性"
+  ],
+  "author": "H-Storm Z",
+  "created_at": "2020-11-18T15:16:51+00:00",
+  "updated_at": "2020-12-29T14:37:56+00:00",
+  "rating": 46,
+  "_site": "scp-wiki-cn",
+  "_fullname": "scp-cn-1273"
+}

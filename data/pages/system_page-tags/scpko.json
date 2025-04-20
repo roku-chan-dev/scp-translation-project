@@ -1,0 +1,13 @@
+{
+  "title": "태그 클라우드",
+  "content": "[[module CSS]]\n#page-title {\n    display: none;\n}\n\n.content-panel p {\n    padding: 0 0.75em;\n}\n\n#tagged-pages-list {\n    margin-bottom: 2.25rem;\n    column-width: 12rem;\n    column-gap: 1.25rem;\n    column-rule: 1px solid #888;\n    counter-reset: index;\n}\n.pages-list-item {\n    margin-bottom: 0.675em;\n    line-height: 1.125;\n    display: flex;\n    align-items: baseline;\n    gap: .175rem;\n}\n.pages-list-item::before {\n    counter-increment: index;\n    content: counter(index) \".\";\n    font-size: .625em;\n    text-align: end;\n    font-feature-settings: 'case','ss01','ss04','tnum';\n}\n\n.pages-tag-cloud-box {\n    margin-top: -0.125rem;\n    display: flex;\n    flex-wrap: wrap;\n    grid-gap: 0.185rem;\n    align-items: center;\n    justify-content: space-between;\n}\n[[/module]]\n\n보다 상세한 검색을 위해서 **[[[tag-search|태그 검색]]]** 페이지를 이용할 수 있습니다.\n\n[[module PagesByTag]]\n\n[[module TagCloud limit=\"5000\" target=\"system:page-tags\" maxColor=\"153,0,17\" minColor=\"128,128,192\"]]\n~~~~\n\n[!--\n\nYou can edit parameters of the TagCloud module as described in http://www.wikidot.com/doc:tagcloud-module \nBut if you want to keep the tag functionality working - do not remove these modules.\n\n--]",
+  "tags": [
+    "관리"
+  ],
+  "author": "QAZ135",
+  "created_at": "2012-08-10T10:01:31+00:00",
+  "updated_at": "2024-06-08T11:47:22+00:00",
+  "rating": 11,
+  "_site": "scpko",
+  "_fullname": "system:page-tags"
+}

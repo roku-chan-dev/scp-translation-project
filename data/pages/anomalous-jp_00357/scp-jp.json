@@ -1,0 +1,14 @@
+{
+  "title": "00357",
+  "content": "content: \"**説明:** レストラン等で使われる料理の注文メニュー。口頭で記載されている料理を指定するとそれが出現する。\\nその際、「この料理の原材料には人間を使用していない」といった旨の文章が詳細に記述されたカードが共に出現する。\\n**回収日:** 20██/12/25\\n**回収場所:** 兵庫県神戸市のレストラン「████████」\\n**現状:** 保管。\\n**追記:** //あらゆる検査・分析は対象の原材料を特定する事ができませんでした。//\\_- サイト8181 研究部分析課 生物系分析班\"\ntf2: '1'\nauthor: unReGret\nredirect-b: '[[module Redirect destination=\"http://ja.scp-wiki.net/log-of-anomalous-items-jp'\nredirect-e: '\"]]'",
+  "tags": [
+    "jp",
+    "剪定対象-子"
+  ],
+  "author": "7happy7",
+  "created_at": "2020-03-14T14:22:30+00:00",
+  "updated_at": "2021-05-24T13:12:41+00:00",
+  "rating": 10,
+  "_site": "scp-jp",
+  "_fullname": "anomalous-jp:00357"
+}

@@ -1,0 +1,15 @@
+{
+  "title": "물고기 테마",
+  "content": "[[module CSS]]\n@import url(https://scpko.wdfiles.com/local--code/theme%3Afish/1);\n[[/module]]\n\n[[include :scp-wiki:component:interwiki-style\n| priority=1\n| theme=https://scp-wiki.wdfiles.com/local--code/theme%3Afish/1\n]]\n\n[[iftags +테마]]\n[[>]]\n**점수:**\n[[module Rate]]\n[[/>]]\n\n이 테마는 2022년 만우절 사건 \"SCP 낚시 팀\"에서 사용했습니다.\n\n테마를 사용하기 위해서는 아무 페이지에나 다음 신택스를 복붙해 주세요:\n\n> @@[[include :scpko:theme:fish]]@@\n\n+ 제목 1단계\n\n[# 링크]\n----\n[[code type=\"CSS\"]]\n@import url(https://scp-wiki.wdfiles.com/local--code/theme%3Afish/1);\n@import url('https://fonts.googleapis.com/css?family=Short+Stack');\n@import url('http://scpko.wdfiles.com/local--files/unfont/UnPilgiBold.css');\n \n/*\n    Fish Theme\n    [2022 Wikidot Theme]\n    Created for the SCP Foundation by EstrellaYoshte\n*/\n \n/* COMMON */\nh1, #page-title {\n    font-family: 'Comic Sans MS', 'Comic Sans', 'Short Stack', 'UnPilgiBold', cursive;\n    color: #009;\n}\n \n#header h1 a,\n#header h2 span {\n    font-family: 'Comic Sans MS', 'Comic Sans', 'Short Stack', 'UnPilgiBold',  cursive;\n}\n\n#header h2 span::before {\n     content: '물고기 떠오르다';\n     color: #f0f0c0;\n}\n[[/code]]\n[[/iftags]]",
+  "tags": [
+    "2022-만우절",
+    "en",
+    "테마"
+  ],
+  "author": "Salamander724",
+  "created_at": "2023-10-16T13:21:50+00:00",
+  "updated_at": "2023-10-16T13:22:53+00:00",
+  "rating": 3,
+  "_site": "scpko",
+  "_fullname": "theme:fish"
+}

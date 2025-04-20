@@ -1,0 +1,20 @@
+{
+  "title": "Dead Man's Party",
+  "content": "[[include :scp-wiki:theme:black-highlighter-theme]]\n\n[[>]]\n[[module Rate]]\n[[/>]]\n\n[[module ListPages  category=\"fragment\" parent=\".\" limit=\"1\" order=\"created_at\" offset=\"@URL|0\"]]\n%%content%%\n[[/module]]\n\n[!-- https://scp-wiki.wikidot.com/fragment:dead-mans-party-0 --]\n[!-- https://scp-wiki.wikidot.com/fragment:dead-mans-party-1 --]\n[!-- https://scp-wiki.wikidot.com/fragment:dead-mans-party-2 --]\n\n[[include :scp-wiki:component:license-box]]\n[[include :scp-wiki:component:license-box-end]]",
+  "tags": [
+    "_licensebox",
+    "_listpages",
+    "action",
+    "chase",
+    "iris-thompson",
+    "last-hope",
+    "resurrection",
+    "tale"
+  ],
+  "author": "GlassAutomaton",
+  "created_at": "2024-03-13T19:26:42+00:00",
+  "updated_at": "2024-05-18T08:20:16+00:00",
+  "rating": 41,
+  "_site": "scp-wiki",
+  "_fullname": "dead-mans-party"
+}

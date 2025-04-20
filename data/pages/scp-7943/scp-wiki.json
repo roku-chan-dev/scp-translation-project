@@ -1,0 +1,19 @@
+{
+  "title": "SCP-7943",
+  "content": "[[>]]\n[[module Rate]]\n[[/>]]\n\n[[module ListPages category=\"fragment\" parent=\".\" order=\"created_at\" limit=\"1\" offset=\"@URL\"]]\n%%content%%\n[[/module]]\n\n[[div class=\"footer-wikiwalk-nav\"]]\n[[=]]\n<< [[[SCP-7942]]] | SCP-7943 | [[[SCP-7944]]] >>\n[[/=]]\n[[/div]]",
+  "tags": [
+    "_listpages",
+    "adaptive",
+    "observational",
+    "polyhedral",
+    "radioactive",
+    "safe",
+    "scp"
+  ],
+  "author": "Leokadia",
+  "created_at": "2024-11-09T02:56:33+00:00",
+  "updated_at": "2025-02-16T10:09:56+00:00",
+  "rating": 31,
+  "_site": "scp-wiki",
+  "_fullname": "scp-7943"
+}

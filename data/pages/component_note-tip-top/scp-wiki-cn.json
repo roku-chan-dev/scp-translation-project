@@ -1,0 +1,14 @@
+{
+  "title": "笔记本组件 便利贴开头",
+  "content": "[[iftags [[#ifexpr {$self-defining} == (true) | - ]]]]\n[[module css]]\n/*\n========================\n便利贴 自定义选项\n========================\n*/\n\n#page-content .note-tip-{$name} .note-tip-set{\n  background-image:linear-gradient(-45deg,transparent 0%, transparent 0rem ,{$tip-color} 0rem, {$tip-color} 100%);\n\ncolor:{$texts-color};\n}  \n\n#page-content  .note-tip-{$name} .note-tip-set.tip-crease-right{\n  background-image:linear-gradient(-45deg,transparent 0%, transparent 1.6rem ,{$tip-color} 1.7rem,{$tip-color} 100%);\n}  \n\n#page-content  .note-tip-{$name} .note-tip-set.tip-crease-left{\n  background-image:linear-gradient(45deg,transparent 0%, transparent 1.6rem ,{$tip-color} 1.7rem, {$tip-color} 100%);\n}  \n\n#page-content .note-tip-{$name} .tip-crease-left .note-tip-cover:before {\n   left: 0%;\n  border-right:2.1rem solid {$tip-color};\n  border-bottom: 2.5rem solid transparent;\n}\n\n#page-content .note-tip-{$name} .tip-crease-right .note-tip-cover:before {  \n  border-left:2.1rem solid {$tip-color};\n}\n\n\n.note-tip-{$name}.note-tip-wrap{\n\nmargin-left:{$position-left};\nmargin-right:{$position-right};\n     \n-ms-transform:rotate({$rotate}deg); \t \n-moz-transform:rotate({$rotate}deg);  \n-webkit-transform:rotate({$rotate}deg); \n-o-transform:rotate({$rotate}deg); \n    transform:rotate({$rotate}deg);\n}\n\n\n\n.note-tip-{$name} .note-tip-stick{\nheight:{$stick-height}; \n}\n\n@media (max-width: 495px) {\n .note-tip-wrap{\n   margin-left:{$position-left-mob} !important;\n   margin-right: {$position-right-mob} !important;\n  }\n}\n[[/module]]\n[[/iftags]]\n\n[[div class=\"pre-note\" style=\"/*{$fix-mobwith};*/\"]]\n[[/div]]\n\n[[div class=\"note-tip-{$name} note-tip-wrap \" style=\"width:{$width}; float:{$float};\"]]\n\n[[div class=\"note-tip-set tip-crease-{$crease}\" ]]\n[[div class=\"note-tip-cover\"]]\n\n[[div class=\"note-tip-stick\"  ]]\n[[/div]]\n\n[[div class=\"note-tip-content\"]]",
+  "tags": [
+    "原创",
+    "组件"
+  ],
+  "author": "Etinjat",
+  "created_at": "2021-08-07T09:05:30+00:00",
+  "updated_at": "2022-01-19T17:56:06+00:00",
+  "rating": 1,
+  "_site": "scp-wiki-cn",
+  "_fullname": "component:note-tip-top"
+}

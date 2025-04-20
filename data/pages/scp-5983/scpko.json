@@ -1,0 +1,18 @@
+{
+  "title": "SCP-5983",
+  "content": "[[include theme:black-highlighter-theme]]\n[[include info:start]]\n**SCP-5983:** 뉴크욕주 뉴크욕시\n**저자:** [[*user rounderhouse]]\n**원작:** http://www.scp-wiki.net/scp-5983 \n**역자:** [[*user Aiken Drum]]\n\n> **파일명:** splosion.jpg\n> **원본:** Mushroom cloud\n> **저작권자:** California National Guard\n> **라이선스:** CC BY-SA 2.0\n> **출처:** [https://flickr.com/caguard/5812238896 Flickr]\n[[include info:end]]\n[[include component:info-ayers\n|lang=ko[!-- EN/RU/KO/CN/FR/PL/ES/TH/JP/DE/IT/UA/PTBR --]\n|page=scp-5983[!-- url of your page on the scp wiki --]\n|authorPage=http://ko.scp-wiki.net/rounderhouse-s-author-page[!-- link to your author page --]\n|comments=Coming Soon - Rounderhouse\n]]\n[[include component:rso]]\n[[include component:classified-bar-woed\n|lv=4\n|item=5983\n|oc=타우미엘\n|oc-en=Thaumiel\n|lang=KO\n]]\n----\n[[include :scp-sandbox-3:image-zoom name=http://scp-wiki.wdfiles.com/local--files/scp-5983/splosion.jpg|caption=SCP-5983 실험 중 촬영된 이미지.|width=300px|align=right]]\n**특수 격리 절차:** SCP-5983의 실험은 현재 O5 지시 하에 금지되었다. (부록 5983.2를 볼 것)\n\n**설명:** SCP-5983은 와이오밍주 드로잉군에서 발생한 폭발의 힘과 뉴욕 시 지하철의 효율성 사이의 변칙적인 연관성이다. 이 연관성에 대한 구체적인 등식은 추론되지 않았지만, 비례식인 것으로 여겨진다. 폭발력이 커질수록, 지하철은 그 하루 동안 더 빠르고 순조롭게 운행될 것이다. 2016년 6월에 발견된 이후, SCP-5983을 이용한 실험이 효과를 확인하기 위해서 허가되었다.@@ @@\n@@ @@\n@@ @@\n@@ @@\n@@ @@\n@@ @@\n@@ @@\n@@ @@\n@@ @@\n@@ @@\n**부록 5983.1:**\n\n||~ 일자 ||~ 폭발력 (kt TNT) ||~ 결과 ||\n|| 2016.6.27 || 0.05 || 효율성에 유의미한 통계적 차이는 없음. 다만, 연구원들은 MTA의 웹사이트에 비정상적으로 적은 수의 불만사항이 접수됐다는 사실에 주목함. ||\n|| 2016.7.2 || 0.5 || 손상된 장비로 인해 발생한 한 노선의 지연이 예측보다 훨씬 빠르게 해소되어 이동이 빠르게  재개됨. ||\n|| 2016.7.13 || 1 || 열차는 정확히 예상 시간대로 운행되었고, 지연이나 조기 도착은 없었음. ||\n|| 2016.7.23 || 2 || 열차는 예정보다 몇 분 앞서 도착함. MTA 직원은 이를 유지하기 위해 적극적 조치를 취함. 한 인원은 한 번 투신자를 선로에서 끌어올림. SCP-5983이 이 결정에 영향을 줬는지는 불확실함. ||\n|| 2016.8.1 || 3.5 || 열차는 반복적으로 현실과 물리학을 위배하며 목적지에 빠르게 도착함. 한 예시로, 한 열차는 역 사이를 그냥 순간이동함. 칸트 계수기는 해당 지역의 흄 준위의 정확한 측정값을 반환하지 못함. 다만 이는 지하철의 간접적 영향 때문일 수 있음. ||\n||||||= [292 줄 생략됨] ||\n\n**부록 5983.2:** 2018년, O5 지시를 통해 SCP-5983가 발견 이후 297회 실험되었고, 자주 하루에 여러 차례 실험되었다는 것이 발견되었다. 공식 O5 투표가 SCP-5983의 실험 폐지를 위해 예정되었다.\n\n[[div style=\"color: black; font-weight: bold; background:#fff url(http://scp-wiki.wdfiles.com/local--files/the-great-hippo/scp_trans.png) center no-repeat; float: center; border: solid 1px #000000; padding: 15px 15px; box-shadow: 0 1px 3px rgba(0,0,0,.2); width: 84%; margin: 4% 4% 4% 4%\"]]\n\n= 평의회 투표 요약:\n||~ 찬  ||~ 기권 ||~ 반 ||\n|| O5-01 ||   ||       ||\n|| O5-02 ||   ||       ||\n|| O5-03 ||   ||       ||\n|| O5-04 ||   ||       ||\n|| O5-05 ||   ||          ||\n|| O5-06 ||   ||          ||\n|| O5-07 ||   ||          ||\n|| O5-08 ||   ||          ||\n|| O5-09 ||       ||          ||\n|| O5-10 ||       ||          ||\n|| O5-11 ||   ||       ||\n||  ||  ||   O5-12   ||\n|| O5-13 ||   ||       ||\n@@ @@\n||~ 결과 ||\n|| ##057800|통과## ||\n\n= 의견:\n\n> O5-12\n>> 변명하자면, 만약 8:30에 브로드웨이에 가봤으면, 핵이라도 터트리고 싶을 걸세.\n[[/div]]",
+  "tags": [
+    "2020-즉흥경연-en",
+    "en",
+    "scp",
+    "타우미엘",
+    "현상",
+    "확률"
+  ],
+  "author": "Aiken Drum",
+  "created_at": "2020-04-07T11:32:02+00:00",
+  "updated_at": "2024-12-21T17:35:07+00:00",
+  "rating": 22,
+  "_site": "scpko",
+  "_fullname": "scp-5983"
+}

@@ -1,0 +1,19 @@
+{
+  "title": "SCP-4332",
+  "content": "[[module css]]\n#header{\n    background: url(null);\n}\n#header:before{\ndisplay:block;\nposition: absolute;\nwidth: 100px;\nheight: 100px;\ntop: 15%;\nleft:2%;\nz-index: -1;\ncontent: \"\";\nbackground:url(http://scp-wiki.wdfiles.com/local--files/component%3Atheme/logo.png);\nbackground-repeat: no-repeat;\nbackground-size: 100px 99px;\nbackground-position: 0px 0px 0px;\nz-index: -20;\ntransform: rotateZ(180deg);\n}\n#header h2 span {\n    color: transparent;\n    text-shadow:none;\n}\n#header h2 span::before {\n    content: \"Protect, Secure. Contain\";\n    color: #F0F0C0;\n    padding: 0px 0px 00px;\n    text-shadow: initial;\n}\n@media (max-width: 800px) {\n#header{\n    background: url(null);\n}\n#header:before{\ndisplay:block;\nposition: absolute;\nwidth: 100px;\nheight: 100px;\ntop: 15%;\nleft:2%;\nz-index: -1;\ncontent: \"\";\nbackground:url(http://scp-wiki.wdfiles.com/local--files/component%3Atheme/logo.png);\nbackground-repeat: no-repeat;\nbackground-position: 3.75em .5em;\nbackground-size: 55px 55px;\nz-index: -20;\ntransform: rotateZ(180deg);\n}\n}\n[[/module]]\n\n[[include component:info-ayers\n|page=scp-4332\n|authorPage=\n|comments=把它吃得精光\n \n作者：XilasCrowe\n \n反 转 乳 牛\n----\n]]\n\n[[module css]]\n.translation_block{ display: none; }\n#u-author_block{ display:none; }\n.u-faq{ display: none; }\n[[/module]]\n\n[[include credit:start-standalone]]\n把它吃得精光\n\n作者：XilasCrowe\n\n[[include credit:more-standalone]]\n\n感谢用户 [[*user notgull]]、[[*user Dysadron]] 和 [[*user Weryllium]] 帮我看这篇稿。\n\n反 转 奶 牛\n\n[[include credit:end-standalone]]\n\n**项目等级：**SCP-4332\n\n**项目编号：**Euclid\n\n**特殊收容措施：**SCP-4332被保留于Site-11的指定牧场内。除了为SCP-4332提供其物种的非异常成员所需的照料外，无需进一步照料。\n\n**描述：**SCP-4332是一只完全由各种乳制品组成的乳牛(//Bos taurus//)。SCP-4332的大部分肉都由生奶油组成，牛奶代替了血液，每个器官都被一种不同口味的冰淇淋所取代。尽管如此，SCP-4332的功能和行为直至微观层面都与其物种的非异常成员几乎相同。\n\nSCP-4332在其身体部分被食用或移除时似乎不会感到疼痛。移除部分将在两小时内完全再生。此外，SCP-4332可以吸收外部乳制品进入自身，经由将其吸纳体内以增加或再生本身的质量。\n\nSCP-4332可以像非异常奶牛一样取奶。然而，当SCP-4332被“取奶”时，其提供的并非牛奶，而是一连串整块牛排。这些块状物的大小一般在1至20立方厘米之间。SCP-4332每次“取奶”所产生的肉量与从其物种的非异常成员中所获大致相同。\n\n所有试图繁殖SCP-4332的尝试都只生产出了--完全无异常的奶牛。这究竟是SCP-4332异常性的结果，亦或仅仅是由于过隐性基因造成，无从知晓。--参阅附录4332-A\n\n**附录4332-A：**于5-28-2019，成功繁殖出SCP-4332的另一实例。生产过程正常进行，直至新实例（称为SCP-4332-2）自原始实例体内完全排出。当这两个实例相互接触时，它们相互开始吸收彼此。因吸收和同化作用相结合导致的不断再生致使一整环回馈奶油包围了整个设施。三天后，扩张停止，开始着手将奶油挖掘而出。当建筑物的奶油被完全清除时，只在内部发现了一个SCP-4332实例。\n\n关于SCP-4332育种的进一步试验已被推迟。\n\n[[footnoteblock]]\n\n[[div class=\"footer-wikiwalk-nav\"]]\n[[=]]\n<< [[[SCP-4331]]] | SCP-4332 | [[[SCP-4333]]] >>\n[[/=]]\n[[/div]]",
+  "tags": [
+    "euclid",
+    "scp",
+    "动物",
+    "反熵",
+    "牛类",
+    "生物性",
+    "自我复制"
+  ],
+  "author": "Sraosha",
+  "created_at": "2018-09-15T12:07:43+00:00",
+  "updated_at": "2024-05-26T23:07:16+00:00",
+  "rating": 3,
+  "_site": "scp-wiki-cn",
+  "_fullname": "scp-4332"
+}

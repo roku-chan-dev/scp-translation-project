@@ -1,0 +1,13 @@
+{
+  "title": "SCP-3449-5",
+  "content": "[[module css]]\na.collapsible-block-link { font-family: 'Andale Mono', 'Courier New', Courier, monospace; }\n[[/module]]\n\n[[div style=\"border:solid 1px #999999; background:#f2f2c2; padding:5px; margin-bottom: 10px;\"]]\n[[=]]\n++++ NOTICE FROM THE RECORDS AND INFORMATION SECURITY ADMINISTRATION \n\nThis is the most recent version of the document found in cache. Please reconnect to database to check for an updated version.  \n\n[[/=]]\n[[/div]]\n\n[[=]]\n[[html]]\n<video width=\"640\" height=\"469\" align=\"center\" controls>\n <source src=\"https://scp-wiki.wdfiles.com/local--files/fragment%3Ascp-3449-5/EoSSFinalVideoLog.MP4\" type=\"video/mp4\"> \n</video>\n[[/html]]\n[[/=]]\n\n@@@@\n\n[[div style=\"border:solid 1px #999999; background:#e6e6e6; padding:10px; margin-bottom: 10px; padding: 0 2%; float:left; width: 45%\"]]\n\n{{SCiP Net: Page revision from 03/14/2026}}\n\n[[/div]]\n\n[[div style=\"border:solid 1px #999999; background:#e6e6e6; padding:14px; margin-bottom: 10px; float:right; width: 45%\"]]\n\n[[>]]\n\n[[collapsible show=\"SCiP Net: Reconnect to database\" hide=\"SCiP Net: Connection Initiated\"]]\n\n[[/>]]\n[[<]]\n{{SCiP Net: Reconnecting to database...}}\n{{##219B1D|Connection established.##}}\n{{SCiP Net: Scanning database for updates...}}\n{{##D30D0A|None found.##}}\n{{##376DE8|Last update made on 03/14/2026.##}}\n{{SCiP Net: Scanning all articles for database and cache updates...}}\n{{##D30D0A|None found.##}}\n{{##376DE8|Last update made on 03/14/2026.##}}\n[[/<]]\n[[/collapsible]]\n\n[[/div]]",
+  "tags": [
+    "fragment"
+  ],
+  "author": "Captain Kirby",
+  "created_at": "2018-04-13T18:21:22+00:00",
+  "updated_at": "2021-09-14T21:10:56+00:00",
+  "rating": 2,
+  "_site": "scp-wiki",
+  "_fullname": "fragment:scp-3449-5"
+}

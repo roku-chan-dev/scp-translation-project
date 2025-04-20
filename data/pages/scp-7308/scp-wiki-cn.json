@@ -1,0 +1,18 @@
+{
+  "title": "SCP-7308",
+  "content": "[[module CSS]]\n\n/* DIV BLOCKS stolen from lt flops */\n.quote-block{\n    border: 2px double #999;\n    background-color: #f4f4f4;\n    padding: .25em 1em;\n    margin-bottom: 1em;\n}\n.report-box{\n    border: 2px solid rgb(12, 12, 12);\n    background-color: white;\n    padding: .25em 1em;\n    margin-bottom: 1em;\n}\n\n[[/module]]\n\n[[include component:image-block name=http://scp-wiki.wikidot.com/local--files/scp-7308/scp-7308.svg|caption=艺术家对SCP-7308的再现]]\n\n**项目编号：**SCP-7308\n\n**项目等级：**Safe\n\n**特殊收容措施：**SCP-7308收容于Site-309的标准人形收容间内。\n\n**描述：**SCP-7308在外形上是一个红色球体，直径大约两米。所有感知SCP-7308真实外形的尝试全部失败。\n\n@@@@ @@@@ @@@@ @@@@ @@@@\n@@@@ @@@@ @@@@ @@@@ @@@@\n@@@@ @@@@ @@@@ @@@@ @@@@\n**附录：**\n\n[[div class=\"report-box\"]]\n[[=]]\n+++ 发现\n[[/=]]\n\nSCP-7308被发现于伊利诺伊州杨树林市，有报告提到一个“球”在对当地苹果园内游荡。捕获SCP-7308后，Site-309的B大门被居住于三波特兰的已知现实扭曲者“汤糊糊”炸开，要求将SCP-7308归还于她。 \n\n在进行了十四小时的标准缓和程序后，Dr. Noah Addams与汤糊糊进行了以下采访。\n[[div style=\"border-bottom: 1px solid black;\"]]\n[[/div]]\n\n[[div class=\"quote-block\"]]\n[[=]]\n**<开始记录>**\n[[/=]]\n\n**Dr. Addams：**你准备好配合了吗？不然我再叫镇静单元过来？\n\n**汤糊糊：**行吧，行吧。但给我记住了，年轻人，我之后要给你下好多好多的恶咒。我要……\n\n//汤糊糊在空中胡乱做手势。//\n\n**汤糊糊：**然后你会非常抱歉的。\n\n**Dr. Addams：**我……行。好了，首先，SCP-7308到底是什么？\n\n**汤糊糊：**哈？它会什么？它是我的智力财产，就是这么回事。 \n\n**Dr. Addams：**说明白点，我在这里说的是那个……红色圆形的东西。\n\n**汤糊糊：**等下，//圆//？我觉我已经把它升级到了球体包！天杀的。我太他妈生气了。我恨合约。总是要用如此多的语言。我—\n\n**Dr. Addams：**不—它—你做的没问题。它就是个球。我刚刚说错了。抱歉。\n\n**汤糊糊：**哈。你他妈怎么能把球说成圆的？这可是岔了整整一个维度。我以为你们这些人应该都很聪明才对！\n\n**Dr. Addams：**我刚刚嘴瓢了。现在我希望继续往下。\n\n**汤糊糊：**呸。好吧。\n\n**Dr. Addams：**所以，再说次。SCP-7308是什么，为什么我们只能把它感知为一个球体？\n\n**汤糊糊：**你看他这个样是因为你没有股权啦！就没人有！因为所有股权都在我这。我对他有著作权！\n\n**Dr. Addams：**好……那你看它是个什么？\n\n**汤糊糊：**他是个有白毛的大个子男人。他有大肌肉。他本来可以当我老公但他有点傻，所以我就改成了对他专享著作权。我叫他“雪人”，他独一无二。所以全权大人才会允许我完成仪式。\n\n**Dr. Addams：**嗯。稍等下，谢谢。\n\n//Dr. Addams起身拿出一个文件夹，而后推给汤糊糊。她开始查阅内容。// \n\n**Dr. Addams：**你知不知道[https://en.wikipedia.org/wiki/Yeti 其实已经有][https://scp-wiki-cn.wikidot.com/scp-1529 数都数不清的][https://scp-wiki-cn.wikidot.com/scp-1000 实体]和你这个“雪人”几乎一摸一样？所以……\n\n**汤糊糊：**哦……噢不。\n\n//汤糊糊头顶上的现实突然撕裂。一只眼睛出现，盯住了她。//\n\n\n**不明：**汤糊糊。你撒了谎，背叛了全权大人。你将为此受罚。\n\n**汤糊糊：**等，等下，我不知道！我之前不—\n\n**不明：**无知不得宽恕。死吧。\n\n//汤糊糊分解为一堆盐粒，而后裂缝合上。//\n\n[[=]]\n**<记录结束>**\n[[/=]]\n[[/div]]\n\n此次采访后，发现SCP-7308已经分解为一堆黑色胡椒粉。正在审议将其重分级为无效化。 \n\n\n[[/div]]\n\n[[div class=\"footer-wikiwalk-nav\"]]\n[[=]]\n<< [[[SCP-7307]]] | SCP-7308 | [[[SCP-7309]]] >>\n[[/=]]\n[[/div]]\n[[include :scp-wiki-cn:component:license-box\n|author=Ellie3]]\n=====\n> **文件名：**scp-7308.svg\n> **图像名：**Red sphere shaded lightsource top right.svg\n> **图像作者：**Jahobr\n> **授权协议：**公有领域\n> **来源链接：**[https://commons.wikimedia.org/wiki/File:Red_sphere_shaded_lightsource_top_right.svg 维基共享资源]\n=====\n[[include :scp-wiki-cn:component:license-box-end]]",
+  "tags": [
+    "safe",
+    "scp",
+    "人形生物",
+    "感知影响",
+    "球体",
+    "视觉性"
+  ],
+  "author": "ashausesall",
+  "created_at": "2022-09-12T10:32:13+00:00",
+  "updated_at": "2025-03-12T09:59:05+00:00",
+  "rating": 2,
+  "_site": "scp-wiki-cn",
+  "_fullname": "scp-7308"
+}

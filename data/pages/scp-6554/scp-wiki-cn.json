@@ -1,0 +1,17 @@
+{
+  "title": "SCP-6554",
+  "content": "[[include :scp-wiki:component:author-label-source start=--\n|name=Tstaffor\n]]\n点此查看我更多作品：\n[http://scp-wiki.wikidot.com/tstaffor-s-author-page Tstaffor's Isolated Containment Terminal]\n[[include :scp-wiki:component:author-label-source end=--]]\n\n**项目编号：**SCP-6554\n\n**项目等级：**Keter\n\n**特殊收容措施：**对东京的购物中心进行月度排查以发现SCP-6554个体。任何被发现的个体都将被带回最近站点内的开放测试间或食堂，个体所供应的物品种类都将被录入拓展物体记录6554中。\n\n所有SCP-6554个体均可供员工使用。在个体外部应明确标注对其真正内容物的警告。\n\n[[include :scp-wiki:component:image-features-source |hover-enlarge=--]\n|enlarge-amount=6\n|speed=250\n|float=true\n|align=right\n|width=300px\n|url=https://scp-wiki.wdfiles.com/local--files/scp-6554/gashapon_scp.jpg\n|add-caption=true\n|caption=一组蓝色的SCP-6554夹杂在基线扭蛋机中。\n]]\n\n\n**描述：**SCP-6554是在日本东京市购物中心内自发性出现的胶囊机（又被称为扭蛋机）。所有个体形似一般扭蛋机，并运用了其基线对应物所售产品的广告。每个个体的内容物都与机器上标榜出售的产品有所不同。\n\nSCP-6554所出售物品的个例包括：貌似为足部设计的连趾套，经烹调且不对应任何已知物种的鱼，包含横写的大写字母N的纸张和其他物体，镶嵌着小珠宝的金属环，以及一种能完美塞入许多瓶类顶部的小型圆柱状木块。\n\n个体在每次购买后能瞬间补充对应物品的供应。所有个体除自动补货外与其基线对应物别无二致。\n\n由SCP-6554所供应的物体中并未发现异常性质。所有食物，如熟鱼，被供应时都处于适宜温度，且可供人类食用。\n\n**附录6654.1：**\n所有个体于01/01/2039停止供应对应物体。当被使用时，个体现会供应一人类眼球。所有眼球在基因上均有差别。由同一机器供应的眼球不会包含相似的基因特征且可能为任意种类。\n\n在SCP-6554突然的行为变化后，Alexander.aic对档案库进行了全面搜索，并揭示了储存于临时孤立深井中的二眼人类照片。该证据表明智人并非一直为单眼物种。\n\n[[footnoteblock]]\n----\n[[div class=\"footer-wikiwalk-nav\"]]\n[[=]]\n<< [[[SCP-6553]]] | SCP-6554 | [[[SCP-6555]]] >>\n[[/=]]\n[[/div]]\n\n----\n\n[[div]]\n[[=]]\n[[include :scp-wiki-cn:component:license-box\n|author=Tstaffor\n|translator=HariboLethality\n]]\n=====\n[[<]]\n> **文件名：**gashapon_scp.jpg\n> **图像名：**Laika ac Gashapon Machines (7532237784).jpg\n> **作者：**Laika ac\n> **授权协议：**CC BY-SA 2.0\n> **链接：**\n> https://commons.wikimedia.org/wiki/File:Laika_ac_Gashapon_Machines_(7532237784).jpg\n[[/<]]\n=====\n[[include :scp-wiki-cn:component:license-box-end]]\n[[/=]]\n[[/div]]",
+  "tags": [
+    "keter",
+    "scp",
+    "反熵",
+    "工具",
+    "机械"
+  ],
+  "author": "HariboLethality",
+  "created_at": "2021-11-16T16:17:52+00:00",
+  "updated_at": "2021-11-17T02:56:50+00:00",
+  "rating": 5,
+  "_site": "scp-wiki-cn",
+  "_fullname": "scp-6554"
+}

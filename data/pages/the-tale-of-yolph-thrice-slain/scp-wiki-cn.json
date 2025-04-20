@@ -1,0 +1,15 @@
+{
+  "title": "三丧之人尤尔夫的传说",
+  "content": "[[div style=\"display: none;\"]]\n[[include :scp-wiki-cn:theme:flopstyle-dark]]\n[[/div]]\n\n[[div class=\"anchor\"]]\n[[div class=\"authorbox tableb\"]]\n[[module ListPages name=\"=\"]]\n||~ %%title%% ||\n||= [[span class=\"bt bb\"]]作者[[/span]] [[*user Dr Leonerd]]||\n||~ 发布于2024年3月16日 ||\n[[/module]]\n[[/div]]\n[[/div]]\n\n[[module CSS]]\n :root{\n   /* -- COLORS -- */\n     --accentColor: hsl(0, 89%, 41%);\n     --accentColorLite: hsla(0, 89%, 51%, .5);\n     --hue: 0deg;\n\n   /* -- LOGO -- */\n     --lgurl: url(https://scp-wiki.wdfiles.com/local--files/nightfall-hub/moon1.png);\n\n   /* -- TITLES -- */\n     --header-title: \"夜幕降临\";\n     --header-subtitle: \"深红月光之歌\";\n\n   /* -- STATIC COLORS -- */\n     --textColor: hsl(212, 3%, 75%);\n     --bgColor: hsl(220, 20%, 10%);\n}\n\n #extra-div-1{\n     filter: opacity(.2) saturate(1.25) brightness(1.25);\n}\n[[/module]]\n\n[[include :scp-wiki-cn:credit:start-standalone]]\n= **深红月光之歌。**\n= [[*user Dr Leonerd]]**著**\n\n------\n[[include :scp-wiki-cn:credit:end-standalone]]\n@@ @@\n\n[[div class=\"meta-title\"]]\n三丧之人尤尔夫的传说\n[[/div]]\n\n[[include component:image-block\n name=https://scpsandboxcn.wikidot.com/local--files/leebrfj/Banshee.jpg|\ncaption= 无有哭丧报予报丧者，然其可怖交响，能令群鸦生惧。| width=275px]]\n\n在一个明亮的日光仅仅存在于老者梦中的时代，再没有比尖啸女妖更加惹人厌恶的夜之子民了。这些枯瘦脆弱的生物并不会构成任何物理威胁，但她在屋顶上发出的嚎哭预示着她脚下家庭中的某个成员行将离世。不管是咒语、祈祷还是护身符，没有任何方法可以避免这一结果。\n\n女妖的来源就如她们的行踪一般莫测。有些人坚信她们化自那些孤苦老妇的魂魄。她们没有子嗣，死后许久才会被人发现。无人为女妖哭泣，所以女妖被判处为所有人哭泣。以下或许是最为著名的女妖传说，讲述了一个名为尤尔夫的农夫的故事，他、他的妻子与他们诞下的女婴一同居住在[[span class=\"ruby\"]]泽罗菲兰[[span class=\"rt\"]]Xerophyllan[[/span]][[/span]]一座小村庄的边缘。\n\n在一个宿命的夜晚，尤尔夫被楼上传来的微弱脚步声惊醒，紧随其后的是可怖的尖啸与嚎叫。尤尔夫绝非什么饱学之士，也不具备多少应对[[[SCP-6087|归来的死者]]]的经验，但他仍然知晓女妖的嚎哭所预示的残酷命运。在那一刻，他感受到了在自己三十年的人生里从未体验过的恐惧。于是，就在第二天早上，农夫采取了行动，残忍地亲手勒死了睡梦中的妻子——尤尔夫假定，这样重大的背叛或许能够说服死神，让祂接受她的灵魂，并作为交换放过他自己。\n\n第二夜，尤尔夫已将妻子的尸体处理妥当，却再次受惊于一阵同样痛苦的嚎哭——他觉得这一次的声音甚至比之前的更加响亮。尤尔夫没有丝毫犹豫，立刻前去刺穿了他年幼女儿的心脏，期望着这第二次献祭能够让那变幻莫测的命运之潮放过自己。带着空虚的悲痛，尤尔夫将婴儿埋葬在她母亲的身旁，天空中的满月洒下血色的光芒。\n\n然而，到了第三个晚上，女妖再次回到屋顶。她震耳欲聋的尖叫声无可阻拦，只有尤尔夫自己懦弱而慌乱的心跳声能够稍稍掩盖。家中除了他自己已经别无他人，农夫明白，现下仅剩的活命机会便是徒步逃离。尤尔夫仅仅带上了几件衣物便匆忙出发，在跋涉了数里地后，他遇到了一条汹涌的大河，只有一条破旧的吊桥悬在河流上方，摇摇欲坠。\n\n匆忙之中，农夫并未发现密林之中有东西在悄无声息地观察着自己：一头灰熊凶猛地冲出阴影，狂暴地撕扯尤尔夫的脸、胸膛与四肢，伤得他血流如注。就在这头饥饿的野兽准备了结他时，尤尔夫从口袋中抽出了兀自粘有他长女血迹的匕首，胡乱地刺向熊的咽喉，即刻杀死了它。\n\n尤尔夫还没来得及松一口气，老旧的绳索桥便因无法承受他和死去灰熊的体重而突然崩解。农夫跌入了深不见底的无情大河中，手脚胡乱拍打着，挣扎着想喘上一口气，却无能为力地被水流冲向下游。就在河水迅速灌入他肺部的同时，尤尔夫发现河岸上生长着一棵有毒的//黄泉//树，它的一根枝条孤零零地伸向河面。\n\n尤尔夫用双手拼命抓住这棵带刺的植物，心中愚蠢地想着自己终于得救了。他痛苦地嚎叫着，借助树枝将自己拉回到干燥的地面上。刚刚摆脱了危险的尤尔夫本能地将疼痛的手指放到嘴中，以期缓解黄泉树带来的刺痛，却因此无意中暴露在了植物的致命毒素下。\n\n尤尔夫自负地认为能够与命运讨价还价，但命运最终以最大的力度进行了报复，使其不只一度丧命，而是三丧而亡。就让三丧之人尤尔夫的传说提醒我们死亡乃是必然，而妄图抗争命运则天然地是一种徒劳。\n\n------\n\n[[=]]\n[*http://scp-wiki-cn.wikidot.com/dr-leonerd-s-author-page 此作者的更多作品……]\n[[/=]]\n\n------",
+  "tags": [
+    "世界构建",
+    "夜幕降临",
+    "故事"
+  ],
+  "author": "LeeBr",
+  "created_at": "2024-03-16T10:13:05+00:00",
+  "updated_at": "2024-06-07T02:39:13+00:00",
+  "rating": 3,
+  "_site": "scp-wiki-cn",
+  "_fullname": "the-tale-of-yolph-thrice-slain"
+}

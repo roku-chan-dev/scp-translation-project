@@ -1,0 +1,27 @@
+{
+  "title": "SCP-6121",
+  "content": "[[include :scp-wiki-cn:theme:blankstyle acs=a|fade=a]]\n\n[[module css]]\na.collapsible-block-link:not(.licensebox a.collapsible-block-link) {\n    font-weight: 600;\n    color: white;\n    padding-top: 4px;\n    padding-bottom: 4px;\n    padding-left: 7px;\n    padding-right: 9px;\n    background: rgb(20, 20, 20);\n    border-radius: 6px;\n    margin-top: 10px;\n    margin-bottom: 10px;\n}\n[[/module]]\n\n[!--\nFragments:\nhttp://scp-wiki-cn.wikidot.com/fragment:scp-6121-offset-0\nhttp://scp-wiki-cn.wikidot.com/fragment:scp-6121-offset-1\n--]\n\n[[module ListPages category=\"fragment\" parent=\".\" order=\"created_at\" limit=\"1\" offset=\"@URL|0\"]]\n%%content%%\n[[/module]]\n\n[[div class=\"crom-thumbnail\" style=\"display: none\"]]\n[[include component:image-block name=https://scp-wiki.wdfiles.com/local--files/scp-6121/capslock.jpg]]\n[[/div]]\n\n[[div class=\"footer-wikiwalk-nav\"]]\n[[=]]\n<< [[[SCP-6120]]] | SCP-6121 | [[[SCP-6122]]] >>\n[[/=]]\n[[/div]]\n\n[[div]]\n[[=]]\n[[include :scp-wiki-cn:component:license-box\n|author= HarryBlank\n|translator= daylilies\n]]\n=====\n[[<]]\n> **文件名：**Bear.jpg\n> **标题：**Bear Mascot at the Giro di Burnaby\n> **作者：**sillygwailo\n> **授权协议：**CC BY 2.0\n> **来源：**[https://www.flickr.com/photos/35034348378@N01/190525489 flickr]\n\n> **文件名：**Beaver.jpg\n> **标题：**Skating Beaver\n> **作者：**ThreeIfByBike\n> **授权协议：**CC BY-SA 2.0\n> **来源：**[https://www.flickr.com/photos/44375167@N00/3620544799 flickr]\n\n> **文件名：**Caps.png\n> **作者：**[[*user HarryBlank]]\n> **授权协议：**CC BY 2.0\n\n> **文件名：**Chicken.jpg\n> **标题：**Halloweekend 2009\n> **作者：**JasonParis\n> **授权协议：**CC BY 2.0\n> **来源：**[https://www.flickr.com/photos/94064020@N00/4066531030 flickr]\n\n> **文件名：**Dog.jpg\n> **标题：**North Charleston Business Expo\n> **作者：**North Charleston\n> **授权协议：**CC BY-SA 2.0\n> **来源：**[https://www.flickr.com/photos/36686551@N06/26576179351 flickr]\n\n> **文件名：**Frog.jpg\n> **标题：**Froggie mascot\n> **作者：**RamseyCountyMN\n> **授权协议：**CC BY-SA 2.0\n> **来源：**[https://www.flickr.com/photos/40960220@N04/22550996017 flickr]\n\n> **文件名：**Instances.jpg\n> **标题：**Meet oiur mascots. USFWS Blue Goose, Sea Turtle, Puerto Rican Parrot, Bat and the Puerto Rican Crested Toad\n> **作者：**USFWS/Southeast\n> **授权协议：**CC BY 2.0\n> **来源：**[https://www.flickr.com/photos/41464593@N02/6499809323 flickr]\n\n> **文件名：**Ookpik.jpg\n> **标题：**Ookpik in the wild\n> **作者：**jmv\n> **授权协议：**CC BY 2.0\n> **来源：**[https://www.flickr.com/photos/61767360@N00/4978263062 flickr]\n\n> **文件名：**Ookpik2.jpg\n> **标题：**Ookpik indoors\n> **作者：**jmv\n> **授权协议：**CC BY 2.0\n> **来源：**[https://www.flickr.com/photos/61767360@N00/4978261514 flickr]\n\n> **文件名：**War.jpg\n> **标题：**Mascot\n> **作者：**8one6\n> **授权协议：**CC BY-SA 2.0\n> **来源：**[https://www.flickr.com/photos/56187283@N00/4886179337 flickr]\n[[/<]]\n=====\n[[include :scp-wiki-cn:component:license-box-end]]\n[[/=]]\n[[/div]]",
+  "tags": [
+    "blank博士",
+    "clef博士",
+    "ibanez部长",
+    "lague主管",
+    "lillihammer博士",
+    "scout主管",
+    "scp",
+    "两栖类",
+    "人形生物",
+    "值守43",
+    "整合计划",
+    "智能",
+    "犬类",
+    "被废除",
+    "鸟类"
+  ],
+  "author": "daylilies",
+  "created_at": "2022-12-11T13:36:39+00:00",
+  "updated_at": "2024-05-15T21:27:27+00:00",
+  "rating": 6,
+  "_site": "scp-wiki-cn",
+  "_fullname": "scp-6121"
+}

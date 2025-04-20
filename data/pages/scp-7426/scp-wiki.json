@@ -1,0 +1,22 @@
+{
+  "title": "SCP-7426",
+  "content": "[[>]]\n[[module Rate]]\n[[/>]]\n\n[[module ListPages  category=\"fragment\" parent=\".\" limit=\"1\" order=\"created_at\" offset=\"@URL|0\"]]\n%%content%%\n[[/module]]\n\n[!-- https://scp-wiki.wikidot.com/fragment:scp-7426-0 --]\n[!-- https://scp-wiki.wikidot.com/fragment:scp-7426-1 --]\n\n[[footnoteblock]]\n\n[[div class=\"footer-wikiwalk-nav\"]]\n[[=]]\n<< [[[SCP-7425]]] | SCP-7426 | [[[SCP-7427]]] >>\n[[/=]]\n[[/div]]\n\n[[include :scp-wiki:component:license-box]]\n=====\n> **Filename:** awhellnaw\n> **Author:** [[*user eeveellector]]\n> **License:** CC-BY-SA-3.0\n> **Source Link:** Uses images from https://commons.wikimedia.org/wiki/File:STS115_Atlantis_undock_ISS_edit2.jpg (NASA, Public Domain) and https://commons.wikimedia.org/wiki/File:Eye_iris.jpg (Petr Novák, Wikipedia, CC-BY-SA-2.5)\n\n> **Filename:** mold\n> **Author:** [[*user eeveellector]]\n> **License:** CC-BY-SA-3.0\n> **Source Link:** N/A\n\n=====\n[[include :scp-wiki:component:license-box-end]]",
+  "tags": [
+    "_cc",
+    "_licensebox",
+    "_listpages",
+    "alive",
+    "fungus",
+    "gravity",
+    "microscopic",
+    "safe",
+    "sapient",
+    "scp"
+  ],
+  "author": "Eeveellector",
+  "created_at": "2023-07-23T17:31:30+00:00",
+  "updated_at": "2023-10-13T18:59:08+00:00",
+  "rating": 62,
+  "_site": "scp-wiki",
+  "_fullname": "scp-7426"
+}

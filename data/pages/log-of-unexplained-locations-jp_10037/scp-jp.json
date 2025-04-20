@@ -1,0 +1,14 @@
+{
+  "title": "10037",
+  "content": "number: UE-355448-JP\ncontent: 侵入すると、部屋内部に人間1人分の臓器一式が出現する部屋。侵入者自身には何の影響もなく、臓器一式も非異常性。\ndate: '2019-01-16'\narea: '岩手県 滝沢市内の██病院の一室。'\nprotocol: カバーストーリー「関係者以外立入禁止」を適用。\nredirect-b: '[[module Redirect destination=\"/log-of-unexplained-locations-jp'\nredirect-e: '\"]]'",
+  "tags": [
+    "jp",
+    "剪定対象-子"
+  ],
+  "author": "usubaorigeki",
+  "created_at": "2021-02-12T12:10:49+00:00",
+  "updated_at": "2021-05-24T13:21:35+00:00",
+  "rating": 18,
+  "_site": "scp-jp",
+  "_fullname": "log-of-unexplained-locations-jp:10037"
+}

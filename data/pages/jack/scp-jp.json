@@ -1,0 +1,14 @@
+{
+  "title": "ジャック",
+  "content": "[[>]]\n[[module Rate]]\n[[/>]]\n\n[[module CSS]]\n#page-title {\n    display: none;\n}\n[[/module]]\n\n[[=image jack]]\n\n{{宇宙の終わりを見るために、ジャックと呼ばれるものを邪魔するものは何も無かった。ジャックと呼ばれるものは、結局のところ、それがそうであったように浮遊したり、または漂っていたりする、そのようなものを多く観測してきた。ある者はそれを神と呼ぶだろうし、またある者はそれを塵と呼ぶだろう。}}\n\n{{だが、これはジャックが語るべき物語ではない。今はまだ。きっと長くはないだろうけれど。}}\n\n{{[http://scp-jp.wikidot.com/your-circuits-dead-theres-something-wrong 戻る]}}\n\n[[footnoteblock]]\n[!-- 脚注をコメント欄の上に表示するために必要な構文です。不要な場合は削除してください。 --]",
+  "tags": [
+    "en",
+    "tale"
+  ],
+  "author": "luzbrilliant",
+  "created_at": "2021-01-23T14:08:17+00:00",
+  "updated_at": "2021-02-14T04:50:52+00:00",
+  "rating": 5,
+  "_site": "scp-jp",
+  "_fullname": "jack"
+}

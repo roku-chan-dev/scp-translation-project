@@ -1,0 +1,13 @@
+{
+  "title": "明镜台",
+  "content": "[[include :scp-wiki-cn:theme:blankstyle]]\n[[module CSS]]\n#header{\n    visibility: hidden;\n    height:50px;\n}\n.printuser{visibility: visible;}\n#top-bar .open-menu a{\n    visibility: visible;\n}\ndiv#extra-div-1 {\n\n    background-image: url('');\n\n}\n#page-content{\n    width:100%;\n}\n#content-wrap{margin:10vw auto 0;}\n#main-content{margin:0 auto !important;max-width:100%}\n    blockquote{\n    opacity:0.9\n}\n.footnotes-footer{display:none;}\n\n#page-options-container{\n    color:grey;\n    opacity:0.1;\n}\n.page-tags{\n    opacity:0.1;\n}\n#page-options-container a{\n    color:grey;\n}\n#page-options-container:hover{\n    opacity:1.0;\n}\n.page-tags:hover{\n    opacity:1.0;\n}\n[[/module]]\n\n[[div id=\"anchor\" style=\"position:absolute;width:90%;height:700px;margin:auto 0;display:flex;justify-content:center;left:50%;transform:translate(-50%,0px)\"]]\n[[div style=\"border:10px outset whitesmoke;width:500px;height:300px;padding:10px 10px 10px 10px;font-size:25px;\"]]\n[[module ListUsers users=\".\"]]\n您好，swn001-1实体%%title%%，欢迎访问镜台。\n[[/module]]\n但是，如果您能看到这段信息，说明灰暗之镜并未响应您的召唤。请仔细对照灰暗之镜的安装流程检查自身设备环境。如仍存在问题，请向菩提叶.AIC反馈。\n[[/div]]\n[[/div]]",
+  "tags": [
+    "段落"
+  ],
+  "author": "MentalImageryMirage",
+  "created_at": "2024-02-23T11:20:51+00:00",
+  "updated_at": "2024-02-23T11:24:27+00:00",
+  "rating": 0,
+  "_site": "scp-wiki-cn",
+  "_fullname": "fragment:the-darkgrey-mirror"
+}

@@ -1,0 +1,29 @@
+{
+  "title": "SPC-6500: INFINITESIMAL",
+  "content": "[[div style=\"display: none;\"]]\n[[include component:image-block name=handshake.png|caption=.]]\n[[/div]]\n\n[[>]]\n[[module Rate]]\n[[/>]]\n[[module ListPages category=\"fragment\" parent=\".\" limit=\"1\" order=\"created_at\" offset=\"@URL|0\"]]\n%%content%%\n[[/module]]\n\n[[module CSS]]\nh1,\nh2,\nh3,\nh4,\nh5,\nh6 {\n    color: ##0047C2;\n}\n#page-title {display: none;}\n:root {\n    --header-subtitle: \"Stay Prepared, Combatant.\";\n    --pale-accent:190, 190, 255;\n}\n.a:link, a:visited{\ncolor: rgb(60,100,155);\n}\n[[/module]]\n\n[!--\nhttps://scp-wiki.wikidot.com/fragment:spc-6500-0\nhttps://scp-wiki.wikidot.com/fragment:spc-6500-1\nhttps://scp-wiki.wikidot.com/fragment:spc-6500-2\nhttps://scp-wiki.wikidot.com/fragment:spc-6500-3\nhttps://scp-wiki.wikidot.com/fragment:spc-6500-4\nhttps://scp-wiki.wikidot.com/fragment:spc-6500-5\nhttps://scp-wiki.wikidot.com/fragment:spc-6500-6\n--]",
+  "tags": [
+    "_cc",
+    "_listpages",
+    "_shark-punching-center",
+    "absurdism",
+    "action",
+    "black-comedy",
+    "comedy",
+    "cosmic-horror",
+    "doctor-reynders",
+    "goi-format",
+    "horror",
+    "interactive",
+    "military-fiction",
+    "no-return",
+    "science-fiction",
+    "shark-punching-center",
+    "the-sharkest-timeline"
+  ],
+  "author": "LORDXVNV",
+  "created_at": "2021-11-15T20:33:46+00:00",
+  "updated_at": "2024-10-11T18:55:56+00:00",
+  "rating": 155,
+  "_site": "scp-wiki",
+  "_fullname": "spc-6500"
+}

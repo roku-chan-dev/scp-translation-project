@@ -1,0 +1,32 @@
+{
+  "title": "SCP-7004",
+  "content": "[[module CSS]]\n.desktop-only { display: block; }\n.mobile-only { display: none; }\n@media (max-width: 979px) {\n    .desktop-only { display: none; }\n    .mobile-only { display: block; }\n}\n[[/module]]\n\n[[include :scp-wiki:info:start]]\n⚠️ **Content warning:** This article contains subject matter that includes excessive gore, body horror, and disturbing deaths. Reader discretion is advised.\n[[include :scp-wiki:info:end]]\n[[include :scp-wiki:component:info-cw]]\n\n[[include :scp-wiki:theme:black-highlighter-theme]]\n[[include :scp-wiki:theme:penumbra-bhl]]\n[[module CSS]]\n:root {\n--accentColor: 153,177,191;\n--swatch-background: 20, 20, 20;\n--swatch-menubg-black-color: var(--accentColor);\n}\n[[/module]]\n\n[[include :scp-wiki:component:bhl-dark-sidebar]]\n@@@@\n@@@@\n----------------------\n@@@@\n@@@@\n\n[[module ListPages  category=\"fragment\" parent=\".\" limit=\"1\" order=\"created_at\" offset=\"@URL|0\"]]\n%%content%%\n[[/module]]\n\n[!-- https://scp-wiki.wikidot.com/fragment:scp-7004-0 --]\n[!-- https://scp-wiki.wikidot.com/fragment:scp-7004-1 --]\n[!-- https://scp-wiki.wikidot.com/fragment:scp-7004-2 --]\n[!-- https://scp-wiki.wikidot.com/fragment:scp-7004-3 --]\n\n[[footnoteblock]]\n\n[[div class=\"footer-wikiwalk-nav\"]]\n[[=]]\n--------------\n\n[[size 130%]] ###AAC5D5|This article was written by## [https://scp-wiki.wikidot.com/ekronak-s-archive-with-commentary Ecronak]. [[/size]]\n\n###AAC5D5|Image created by AnAnomalousWriter.##\n\n<< [[[SCP-7003]]] | SCP-7004 | [[[SCP-7005]]] >>\n[[size 150%]]    [[/size]]\n[[/=]]\n[[include :scp-wiki:component:license-box]]\n=====\n> **Name:** silhouette of man in underground tunnel garage photo\n> **Author:** David East\n> **License:** Public Domain\n> **Source Link:** https://unsplash.com/photos/II2ulqB-118\n\n> **Name:** Untitled\n> **Author:** pumpkinmook\n> **License:** CC BY 2.0\n> **Source Link:** https://www.flickr.com/photos/pumpkinmook/6706743561/\n\n> **Name:** re-awakening\n> **Author:** IntangibleArts\n> **License:** CC BY 2.0\n> **Source Link:** https://www.flickr.com/photos/57382003@N00/2643365441\n\n> **Name:** Academy(Estudo de braço) [Academy/arm study] (1909) - António Carneiro (1872-1930)\n> **Author:** pedrosimoes7\n> **License:** CC BY 2.0\n> **Source Link:** https://www.flickr.com/photos/pedrosimoes7/51839505592/\n\n> **Name:** Nothing better at the end of a working day than to dive into the Atlantic Ocean\n> **Author:** pedrosimoes7\n> **License:** CC BY 2.0\n> **Source Link:** https://www.flickr.com/photos/pedrosimoes7/50327336561/\n\n> **Name:** Induced mutation (2019) - Inês Norton (1982)\n> **Author:** pedrosimoes7\n> **License:** CC BY 2.0\n> **Source Link:** https://www.flickr.com/photos/46944516@N00/48774066813\n=====\n[[include :scp-wiki:component:license-box-end]]\n[[/div]]",
+  "tags": [
+    "7000",
+    "_cc",
+    "_licensebox",
+    "_listpages",
+    "alive",
+    "apocalyptic",
+    "apollyon",
+    "co-authored",
+    "deus-ex-machina",
+    "doctor-clef",
+    "extradimensional",
+    "foundation-made",
+    "humanoid",
+    "infohazard",
+    "memetic",
+    "sapient",
+    "sarkic",
+    "scp",
+    "transfiguration",
+    "uncontained"
+  ],
+  "author": "Ecronak",
+  "created_at": "2022-07-25T04:03:26+00:00",
+  "updated_at": "2024-10-11T19:53:57+00:00",
+  "rating": 493,
+  "_site": "scp-wiki",
+  "_fullname": "scp-7004"
+}

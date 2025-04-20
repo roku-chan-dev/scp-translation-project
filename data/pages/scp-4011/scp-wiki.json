@@ -1,0 +1,28 @@
+{
+  "title": "SCP-4011",
+  "content": "[!--\nFragment list:\n* http://scp-wiki.wikidot.com/fragment:scp-4011-1\n* http://scp-wiki.wikidot.com/fragment:scp-4011-2\n--]\n\n[[module css]]\ndiv.vcomms{\n    background-color: #b0f0a5;\n    padding-left: 2px;\n    font-family: monospace;\n    font-size: medium\n}\n\ndiv.swarning{\n    border: 1px solid gray;\n    margin: 1em 0 1em 0;\n    padding: 0 1em 0 1em;\n    color: black;\n    background-color: #e0e0e0;\n}\n[[/module]]\n[[>]]\n[[module Rate]]\n[[/>]]\n\n[[module ListPages category=\"fragment\" parent=\".\" limit=\"1\" order=\"created_at\" offset=\"@URL|0\"]]\n%%content%%\n[[/module]]\n\n[[footnoteblock]]\n\n[[div class=\"footer-wikiwalk-nav\"]]\n[[=]]\n<< [[[SCP-4010]]] | SCP-4011 | [[[SCP-4012]]] >>\n[[/=]]\n[[/div]]\n\n[[include :scp-wiki:component:license-box]]\n=====\n**Image 1**\n> **Filename:** //Victoria_Crater.png//\n> **Name:** //File:Victoria crater from HiRise.jpg//\n> **Author:** NASA/JPL/University of Arizona\n> **License:** Public Domain\n> **Source Link:** https://commons.wikimedia.org/wiki/File:Victoria_crater_from_HiRise.jpg\n=====\n[[include :scp-wiki:component:license-box-end]]",
+  "tags": [
+    "4000",
+    "_cc",
+    "_licensebox",
+    "_listpages",
+    "anderson",
+    "artificial-intelligence",
+    "building",
+    "daevite",
+    "extraterrestrial",
+    "foundation-made",
+    "keter",
+    "knowledge",
+    "robotic",
+    "sapient",
+    "scp",
+    "temporal"
+  ],
+  "author": "incidental_cabbage",
+  "created_at": "2018-07-06T19:47:25+00:00",
+  "updated_at": "2024-05-14T14:07:21+00:00",
+  "rating": 415,
+  "_site": "scp-wiki",
+  "_fullname": "scp-4011"
+}

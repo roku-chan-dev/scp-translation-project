@@ -1,0 +1,13 @@
+{
+  "title": "워크벤치",
+  "content": "[[module CSS]]\n.yui-navset .yui-content {\n  background-color: transparent;\n  border: none;\n}\n[[/module]]\n\n[[tabview]]\n[[tab 최근 바뀜]]\n= [http://scpko.wikidot.com/system:recent-changes 최근 바뀜]\n\n[[include :scpko:system:recent-changes]]\n\n[[/tab]]\n\n[[tab 최근 편집]]\n= [http://scpko.wikidot.com/most-recently-edited 최근 편집한 페이지]\n\n[[include :scpko:most-recently-edited]]\n\n[[/tab]]\n\n[[tab 삭제 절차]]\n= [http://scpko.wikidot.com/lowest-rated-pages 최저 평점 목록]\n\n[[include :scpko:lowest-rated-pages]]\n\n[[/tab]]\n\n[[tab 재작성/재번역 절차]]\n\n= [http://scpko.wikidot.com/renewing-pages 재작성/재번역 관리 목록]\n\n[[include :scpko:renewing-pages]]\n\n[[/tab]]\n\n[[/tabview]]",
+  "tags": [
+    "관리"
+  ],
+  "author": "thd-glasses",
+  "created_at": "2022-08-08T15:26:43+00:00",
+  "updated_at": "2024-03-12T07:50:46+00:00",
+  "rating": 5,
+  "_site": "scpko",
+  "_fullname": "workbench"
+}

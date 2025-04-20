@@ -1,0 +1,14 @@
+{
+  "title": "文字の大きさ",
+  "content": "文字の大きさは@@[[size …]] … [[/size]] @@タグによって変更する事ができます。これらのタグは入れ子にする事ができます。\n\n++ 相対的文字サイズ\n相対的な文字サイズは現在の文字に対してその大きさを拡大および縮小ができます。相対的な文字サイズを指定する場合は@@ [[size smaller]]、 [[size larger]]、 [[size @@//n//@@em]]@@, もしくは @@[[size @@//n//@@%]]@@を使用します。左記のnは任意の小数点以下の数も含めた1～5桁の数字を表します。\n\n@@@@\n||~ 構文 ||~ 表示 ||\n|| @@[[size smaller]]現在文字より小さい文字[[/size]]@@ || [[size smaller]]現在文字より小さい文字[[/size]] ||\n|| @@[[size larger]]現在文字より大きい文字[[/size]]@@ || [[size larger]]現在文字より大きい文字[[/size]] ||\n|| @@[[size 80%]]現在文字より80%の大きさ[[/size]]@@ || [[size 80%]]現在文字より80%の大きさ[[/size]] ||\n|| @@[[size 100%]]現在文字より100%の大きさ[[/size]]@@ || [[size 100%]]現在文字より100%の大きさ[[/size]] |||\n|| @@[[size 150%]]現在文字より150%の大きさ[[/size]]@@ || [[size 150%]]現在文字より150%の大きさ[[/size]] ||\n|| @@[[size 0.8em]]現在文字より80%の大きさ[[/size]]@@ || [[size 0.8em]]現在文字より80%の大きさ[[/size]] ||\n|| @@[[size 1em]]現在文字より100%の大きさ[[/size]]@@ || [[size 1em]]現在文字より100%の大きさ[[/size]] ||\n|| @@[[size 1.5em]]現在文字より150%の大きさ[[/size]]@@ || [[size 1.5em]]現在文字より150%の大きさ[[/size]] ||\n@@@@\n++ 絶対的文字サイズ\n絶対的文字サイズは現在の文字の大きさを基準としません。絶対的文字サイズを指定する場合は@@[[size xx-small]]、[[size x-small]]、 [[size small]]、 [[size large]]、 [[size x-large]]、 [[size xx-large]]@@、もしくは@@[[size@@ //n//@@px]]@@を使用します。左記のnは任意の小数点以下の数字を含む1～5桁の数字を表します。\n@@@@\n||~ 構文 ||~ 表示 ||\n|| @@[[size xx-small]]xx-smallで既定された大きさ[[/size]]@@ || [[size xx-small]]xx-smallで既定された大きさ[[/size]] ||\n|| @@[[size x-small]]x-smallで既定された大きさ[[/size]]@@ || [[size x-small]]x-smallで既定された大きさ[[/size]] ||\n|| @@[[size small]]smallで既定された大きさ[[/size]]@@ || [[size small]]smallで既定された大きさ[[/size]] ||\n|| @@[[size large]]largeで既定された大きさ[[/size]]@@ || [[size large]]largeで既定された大きさ[[/size]] ||\n|| @@[[size x-large]]x-largeで既定された大きさ[[/size]]@@ || [[size x-large]]x-largeで既定された大きさ[[/size]] ||\n|| @@[[size xx-large]]xx-largeで既定された大きさ[[/size]]@@ || [[size xx-large]]xx-largeで既定された大きさ[[/size]] ||\n|| @@[[size 7px]]7ピクセルの文字サイズ[[/size]]@@ || [[size 7px]]7ピクセルの文字サイズ[[/size]] ||\n|| @@[[size 18.75px]]18.75pxピクセルの文字サイズ[[/size]]@@ || [[size 18.75px]]18.75pxピクセルの文字サイズ[[/size]] ||\n\n\n\n\n\n\n[[module css]]\n.wiki-content-table {\nwidth:100%;\ntable-layout:fixed;\n}\n.wiki-content-table tr th{\nfont-weight:bold;\ncolor:#000;\ntext-align:left;\nborder:none;\nbackground-color:#EEE;\n}\n\n\n.wiki-content-table tr td{\npadding:3px;\nborder-top:none;\nborder-left:none;\nborder-right:none;\nborder-bottom:solid #CCC 1px;\ntext-align:left;\n}\n\nspan.br{\ndisplay:block;\n}\n[[/module]]",
+  "tags": [
+    "jp",
+    "リファレンス"
+  ],
+  "author": "C-take",
+  "created_at": "2018-04-09T12:08:11+00:00",
+  "updated_at": "2023-01-13T12:06:57+00:00",
+  "rating": 9,
+  "_site": "scp-jp",
+  "_fullname": "wiki-syntax:text-size"
+}

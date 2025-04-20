@@ -1,0 +1,13 @@
+{
+  "title": "Listusers",
+  "content": "[[iftags +组件]]\n[[div style=\"background: rgba(201,133,184,.4); box-shadow: 1px 1px 3px #999; padding: .5em;\"]]\n支持非 Wikidot 用户的 ListUsers 模块。\n\n+ 使用方法\n> ##red|[[include :scp-wiki:component:listusers-1 users=\".\"]]##\n> @@##red|@@**%%name%%**@@##@@\n> ##red|[[include :scp-wiki:component:listusers-2]]##\n> @@##blue|@@**游客**@@##@@\n> ##red|[[include :scp-wiki:component:listusers-3]]##\n[[/div]]\n[[/iftags]]\n\n[[iftags -组件]]\n\n[[div style=\"margin: 2em 0; border: solid 2px #FFC107;\"]]\n[[div_ style=\"display: inline-block; padding: 0 3px; font-size: 1.5em; background: #FFC107; color: #ffffff; font-weight: bold;\"]]\n[[span class=\"fa fa-exclamation-triangle\" style=\"font-size: 1.4em;\"]]@<&nbsp;>@[[/span]]出错了！\n[[/div]]\n[[div_ style=\"padding: 5px 7px;\"]]\n你所使用的 {{[[include]]}} 地址有误，请使用 {{[[include :scp-wiki:component:listusers-1]]}}、{{[[include :scp-wiki:component:listusers-2]]}}、{{[[include :scp-wiki:component:listusers-3]]}}。\n[[/div]]\n[[/div]]\n\n[[/iftags]]",
+  "tags": [
+    "组件"
+  ],
+  "author": "Sekai_s",
+  "created_at": "2021-03-06T01:16:12+00:00",
+  "updated_at": "2024-07-27T04:08:16+00:00",
+  "rating": 2,
+  "_site": "scp-wiki-cn",
+  "_fullname": "component:listusers-1"
+}

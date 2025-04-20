@@ -1,0 +1,18 @@
+{
+  "title": "Artwork: Witches on the Moon",
+  "content": "[[include :scp-wiki:theme:3law]]\n[[include :scp-wiki:theme:3law-pride]]\n[[include :scp-wiki:component:toggle-sidebar]]\n\n[[>]]\n[[module Rate]]\n[[/>]]\n\n@@ @@\n\n[[include component:image-block name=witches%20on%20the%20moon.png|align=center|caption=//[/the-vice-girls We spend a quarter of an hour admiring the view.]//|width=100%]]\n\n@@ @@\n@@ @@\n\n[[div class=\"footer-wikiwalk-nav\"]]\n[[=]]\n| [[[speed-demon-hub|Speed Demon]]] |\n[[/=]]\n[[/div]]\n\n-----\n[[=]]\n[[include :scp-wiki:component:license-box]]\n=====\nThis page quotes from [[[The Vice Girls]]] by [[*user A Random Day]], CC BY-SA 3.0.\n\n> **Filename:** witches%20on%20the%20moon.png\n> **Author:** [[*user Ralliston]]\n> **License:** CC BY-SA 3.0\n> **Source Link:** [https://scp-wiki.wikidot.com/art:witches-on-the-moon SCP Foundation Wiki]\n=====\n[[include :scp-wiki:component:license-box-end]]\n[[/=]]",
+  "tags": [
+    "_cc",
+    "_licensebox",
+    "artwork",
+    "chicago-spirit",
+    "pixel-art",
+    "third-law"
+  ],
+  "author": "Ralliston",
+  "created_at": "2022-12-29T11:58:24+00:00",
+  "updated_at": "2024-03-28T13:47:36+00:00",
+  "rating": 44,
+  "_site": "scp-wiki",
+  "_fullname": "art:witches-on-the-moon"
+}

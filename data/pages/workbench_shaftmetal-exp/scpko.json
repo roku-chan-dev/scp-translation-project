@@ -1,0 +1,14 @@
+{
+  "title": "상철 실험실",
+  "content": "[[module ListPages perPage=\"100\" order=\"created_at\" category=\"*\" created_at=\"last 5 week\" separate=\"no\" rating=\">=1\" rss=\"gogo\"]]\n[[span]]%%title_linked%% [[user %%created_by%%]] %%created_at%%[[/span]]\n[[/module]]",
+  "tags": [
+    "ko",
+    "작업용"
+  ],
+  "author": "shaftmetal",
+  "created_at": "2022-12-19T07:28:23+00:00",
+  "updated_at": "2024-11-14T17:52:33+00:00",
+  "rating": 0,
+  "_site": "scpko",
+  "_fullname": "workbench:shaftmetal-exp"
+}

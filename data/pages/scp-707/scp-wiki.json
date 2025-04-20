@@ -1,0 +1,17 @@
+{
+  "title": "SCP-707",
+  "content": "[[>]]\n[[module Rate]]\n[[/>]]\n\n**Item #:** SCP-707\n\n**Object Class:** Safe\n\n**Special Containment Procedures:** SCP-707 is kept disassembled in a double-locked secure locker at Site-██. Experimentation may only be performed with prior, written permission from at least two (2) Level 3 personnel. Once assembled, SCP-707 may only be handled by Class-D personnel.\n\n**Description:** SCP-707 is a matryoshka doll, or Russian nesting doll, consisting of one (1) center doll and four (4) separating outer layers. The doll is painted in a primarily blue color palette, and dating of the materials, while inconclusive, shows that it is approximately ██ years old.\n\nWhen a living human subject removes one or more layers of SCP-707 from a fully assembled state, its anomalous effect will occur approximately ten (10) minutes later. The severity of this effect is dependent on how many layers are opened:\n\n* 1 layer - Subject's hair and nails will painlessly and completely fall out. This includes internal hair and cilia, such as that within the nose and ears.\n* 2 layers - Subject's skin will split, separate, and fall off. The loss of skin is painless, but exposed internal tissue has been described as being very sensitive, and even a light touch can cause bleeding.\n* 3 layers - Subject's muscles will detach from connective tissue, including the diaphragm and heart.\n* 4 layers - Subject's organs separate and detach.\n\nThese effects are cumulative and sequential, and will occur over the course of only a few seconds after the ten-minute mark. No subject to date has survived the separation of more than 1 layer of SCP-707. However, despite the incredible trauma inflicted by the separation of 2 or more layers, brain activity monitors have determined that subjects are fully conscious and aware of their condition for up to several minutes after the separation event, until the subject expires (typically through blood loss or asphyxiation).\n\n**Addendum 707-1:** The requested use of SCP-707 as an efficient method of procuring viable transplant organs for Foundation uses is under review.\n\n[[footnoteblock]]\n\n[[div class=\"footer-wikiwalk-nav\"]]\n[[=]]\n<< [[[SCP-706]]] | SCP-707 | [[[SCP-708]]] >>\n[[/=]]\n[[/div]]\n[[include :scp-wiki:component:license-box]]\n[[include :scp-wiki:component:license-box-end]]",
+  "tags": [
+    "_licensebox",
+    "safe",
+    "scp",
+    "toy",
+    "transfiguration"
+  ],
+  "author": "Aelanna",
+  "created_at": "2010-07-26T03:07:31+00:00",
+  "updated_at": "2022-10-20T21:07:41+00:00",
+  "rating": 89,
+  "_site": "scp-wiki",
+  "_fullname": "scp-707"
+}

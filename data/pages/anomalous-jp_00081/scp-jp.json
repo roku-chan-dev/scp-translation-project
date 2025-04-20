@@ -1,0 +1,14 @@
+{
+  "title": "00081",
+  "content": "content: \"**説明:** 車のクラクション音を、音量そのままに発し続けるペットボトル。一部燃焼しており、その際に発生したガスも同様の特性を持つ。\\n**回収日:** 20██/██/██\\n**回収場所:** ████県██市の県道にて、事故車両内から回収。\\n**現状:** 防音ケースに入れサイト-8190に保管。燃焼ガスは大気中に拡散する事で、音が聞こえなくなった。\"\ntf2: '1'\nauthor: kainndo\nredirect-b: '[[module Redirect destination=\"http://ja.scp-wiki.net/log-of-anomalous-items-jp'\nredirect-e: '\"]]'",
+  "tags": [
+    "jp",
+    "剪定対象-子"
+  ],
+  "author": "7happy7",
+  "created_at": "2020-03-14T14:05:22+00:00",
+  "updated_at": "2021-05-24T13:11:19+00:00",
+  "rating": 2,
+  "_site": "scp-jp",
+  "_fullname": "anomalous-jp:00081"
+}

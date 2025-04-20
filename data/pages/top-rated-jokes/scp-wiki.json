@@ -1,0 +1,13 @@
+{
+  "title": "Top Rated Joke Articles",
+  "content": "[[div class=\"top-rated-box\"]]\n[[=]]\n+* [[size 80%]] [[[top-rated-pages| Top Rated Pages]]] [[/size]]\n[[size larger]] **[[[Top Rated Pages This Month| This Month]]]** | **[[[Top Rated Pages By Year| By Year]]]** [[/size]]\n**[[[Highest Rated SCPs| SCPs]]]** | **[[[Highest Rated Non-SCPs| Non-SCPs]]]** | **Jokes**\n**[[[Top Rated Tales| Tales]]]** | **[[[top-rated-goi-formats| GoI Formats]]]** | **[[[top-rated-art| Art]]]**\n[[/=]]\n[[/div]]\n\nHere you will find the highest rated joke articles on the site. Voting is restricted to site members, to avoid vandalism.\n\nJoke articles are typically stories written within the Foundation universe that are humorous, tongue-in-cheek, or are otherwise funny. [[[joke scps|Click here to see all joke articles.]]]\n\n[[module ListPages tag=\"-archived -contest -sandbox +joke\" rating=\">49\" order=\"rating desc\" separate=\"false\" limit=\"700\" perPage=\"100\"]]\n%%title_linked%% (rating: %%rating%%, comments: %%comments%%)\n[[/module]]\n\n[[module CSS]]\n.top-rated-box{\n        float: right;\n    border: 1px solid #600;\n    border-radius: 10px;\n    box-shadow: 0 2px 6px rgba(102, 0, 0, .5);\n    background: #fff;\n    margin-left: 1rem;  \n    padding: 1rem;\n    padding-top: 0;\n    padding-bottom: 0;  \n    text-align: center;\n}  \n\n#page-content h1 {\n    border-bottom: solid 0.08rem #660000;\n    padding: 0 0 0.25em;\n    margin-bottom: -0.5rem;\n}\n[[/module]]",
+  "tags": [
+    "hub"
+  ],
+  "author": "Croquembouche",
+  "created_at": "2020-09-30T06:43:23+00:00",
+  "updated_at": "2022-08-04T07:22:16+00:00",
+  "rating": 9,
+  "_site": "scp-wiki",
+  "_fullname": "top-rated-jokes"
+}

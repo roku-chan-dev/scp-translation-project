@@ -1,0 +1,27 @@
+{
+  "title": "SCP-5451",
+  "content": "[[include :scp-wiki:theme:black-highlighter-theme]]\n\n[[module css]]\n\n.post{\n  display: flex;\n  padding: 5%;\n}\n\n.one {\n  width: 15%;\n  float: left;\n}\n\n.two {\n  margin-left: 5%;\n}\n\n.eno {\n  width: 15%;\n  float: right;\n}\n\n.owt {\n  margin-right: 5%;\n}\n[[/module]]\n\n[[>]]\n[[module Rate]]\n[[/>]]\n\n[[module ListPages  category=\"fragment\" parent=\".\" limit=\"1\" order=\"created_at\" offset=\"@URL|0\"]]\n%%content%%\n[[/module]]\n\n[!-- Translation (if ever) reference: --]\n[!-- http://www.scp-wiki.net/fragment:scp-5451-1 --]\n[!-- http://www.scp-wiki.net/fragment:scp-5451-2 --]\n[!-- http://www.scp-wiki.net/fragment:scp-5451-3 --]\n _\n\n  \n[[footnoteblock]]\n _\n\n\n[[div class=\"footer-wikiwalk-nav\"]]\n[[=]]\n<< [[[SCP-5450]]] | SCP-5451 | [[[SCP-5452]]] >>\n[[/=]]\n[[/div]]",
+  "tags": [
+    "_cc",
+    "_listpages",
+    "animal",
+    "bird",
+    "cognitohazard",
+    "compulsion",
+    "document",
+    "euclid",
+    "memetic",
+    "mind-affecting",
+    "neutralized",
+    "online",
+    "school",
+    "scp",
+    "visual"
+  ],
+  "author": "basirskipreader",
+  "created_at": "2020-07-28T11:16:00+00:00",
+  "updated_at": "2024-04-15T15:36:31+00:00",
+  "rating": 86,
+  "_site": "scp-wiki",
+  "_fullname": "scp-5451"
+}

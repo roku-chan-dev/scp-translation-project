@@ -1,0 +1,20 @@
+{
+  "title": "SCP-2475",
+  "content": "[[include :scp-wiki:theme:classic]]\n\n[[>]]\n[[module Rate]]\n[[/>]]\n\n[[include component:image-block name=http://scp-wiki.wdfiles.com/local--files/scp-2475/Conan%20Doyle.jpg|caption=Location of SCP-2475]]\n\n**Item #:** SCP-2475\n\n**Object Class:** Euclid\n\n**Special Containment Procedures:** At least one Foundation agent is to be employed by the //Conan Doyle// for surveillance purposes. Foundation agents under the authority of the Region 41A (Scotland - Lowlands) Director will monitor local and national news about escaped felons or persons under investigation by authorities, and will convey this information to the embedded agent to deny entry to said individuals. Should SCP-2475 be activated, the Region 41A Director will have discretion over the possible use of amnestics to cover up the containment breach.\n\n**Description:** SCP-2475 is an anomalous phenomenon affecting the //Conan Doyle//, an upscale pub and restaurant located in Edinburgh, Scotland. The //Conan Doyle// was first established in 1873, but did not exhibit anomalous properties until 1987.\n\nWhenever any individual who has committed a violent crime or robbery enters the //Conan Doyle// and orders food or a drink, local authorities will be alerted to their location. The way in which they are alerted takes a variety of forms; methods used in the past have included anonymous phone calls[[footnote]]The voice on these calls is always scrambled; attempts to make the voice clearer with audio analyzing equipment have been unsuccessful.[[/footnote]], emails, text messages, and even obsolete methods of communication such as telegraph messages. Despite numerous attempts, no form of communication used by SCP-2475 has been successfully traced back to a person or person(s).\n\nThe effect occurs regardless of whether or not the individual has been convicted of the crime; how SCP-2475 obtains its information is currently unknown. Possible use of SCP-2475 to assist local law enforcement is pending review by the Ethics Committee.\n\n**Addendum:** On 22 Oct 2001, an individual (who was later discovered to have been responsible for a local robbery) entered the //Conan Doyle// with a copy of //A Study in Scarlet//, the first book in the popular //Sherlock Holmes// series. Local authorities were not alerted to his presence; instead, upon ingesting food he had ordered, he suffered an allergic reaction and died en route to a local hospital. The individual did not have any medical history related to allergens used to prepare his meal.\n\n[[footnoteblock]]\n\n[[div class=\"footer-wikiwalk-nav\"]]\n[[=]]\n<< [[[SCP-2474]]] | SCP-2475 | [[[SCP-2476]]] >>\n[[/=]]\n[[/div]]\n\n[[include :scp-wiki:component:license-box]]\n=====\n> **Filename:** Conan Doyle.jpg\n> **Author:** ObserverSeptember\n> **License:** CC BY-SA 3.0\n> **Source Link:** [[[http://scp-wiki.wikidot.com/scp-2475|SCP Wiki]]]\n=====\n[[include :scp-wiki:component:license-box-end]]",
+  "tags": [
+    "_cc",
+    "_licensebox",
+    "building",
+    "euclid",
+    "food",
+    "sc2015",
+    "scp",
+    "transmission"
+  ],
+  "author": "ObserverSeptember",
+  "created_at": "2015-07-23T16:17:49+00:00",
+  "updated_at": "2023-11-17T01:54:12+00:00",
+  "rating": 84,
+  "_site": "scp-wiki",
+  "_fullname": "scp-2475"
+}

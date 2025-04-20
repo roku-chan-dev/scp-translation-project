@@ -1,0 +1,13 @@
+{
+  "title": "创生",
+  "content": "[[include :scp-wiki:theme:black-highlighter-theme]]\n[[include :scp-wiki:theme:redtape\n|dark=--]\n|years=15\n]]\n[[module CSS]]\n:root:lang(cn) {\n    --header-subtitle: \"离午夜还有1分钟\";\n}\n[[/module]]\n\n[[div class=\"generic red\" style=\"clip-path: none; border-radius: 4px;\"]]\n[[div class=\"doc\"]]\n人员档案 -- PIERRE GAUTHIER（附件1）\n[[/div]]\n[[image https://scp-wiki.wdfiles.com/local--files/art:act-of-creation/WARPAINT.jpg]]\n[[=]]\n从我们个人的战争中染红的[[[warpaint|战纹]]]，变革并非总是如它被塑造的那样毫不费力。但这是我们生存的必要之道，毕竟，我们难道不应该参与这样的创生，将小麦做成面包、把水果酿成酒吗？\n\n给[[user Rounderhouse]]所著角色Gauthier上尉的同人艺作。\n[[/=]]\n[[/div]]\n\n[[include :scp-wiki-cn:component:license-box\nauthor=UncertaintyCrossing]]\n=====\n> **文件名：**WARPAINT.jpg\n> **图像作者：**[[*user UncertaintyCrossing]]\n> **授权协议：**CC BY-SA 3.0\n> **来源链接：**[https://scp-wiki.wikidot.com/art:act-of-creation SCP Foundation Wiki]\n=====\n[[include :scp-wiki-cn:component:license-box-end]]",
+  "tags": [
+    "艺术作品"
+  ],
+  "author": "Esperanza_Cai",
+  "created_at": "2024-04-08T07:04:25+00:00",
+  "updated_at": "2024-04-08T07:05:17+00:00",
+  "rating": 0,
+  "_site": "scp-wiki-cn",
+  "_fullname": "art:act-of-creation"
+}

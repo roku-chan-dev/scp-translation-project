@@ -1,0 +1,16 @@
+{
+  "title": "Remember To STALK",
+  "content": "[[include :scp-wiki:theme:black-highlighter-theme]]\n[[include :scp-wiki:component:toggle-sidebar-bhl]]\n[[include :scp-wiki:component:fade-in speed=1]]\n[[include :scp-wiki:component:ratio-bar base=-- |ex=--]]\n\n[[>]]\n[[include :scp-wiki:info:start]]\n[[<]]\n[[include :scp-wiki:component:ratio-bar pie=--]]\n\n**Article:** Remember to Stalk\n\n**Author:** [[*user BattleblockB0ss]]\n[[/<]]\n[[include :scp-wiki:info:end]]\n[[/>]]\n\nThis diegetic poster was made based on [[[SCP-6470]]] by [[*user Lovesicker]]. Image sources in author post.\n[[=image https://scp-wiki.wdfiles.com/local--files/art%3Aremember-to-stalk/STALK style=\"border: 5px solid black;\"]]\n[[include :scp-wiki:component:wikimodule |normal= --]]]",
+  "tags": [
+    "_cc",
+    "artwork",
+    "poster",
+    "scp-art"
+  ],
+  "author": "BattleblockB0ss",
+  "created_at": "2022-03-17T23:46:40+00:00",
+  "updated_at": "2024-03-28T14:26:58+00:00",
+  "rating": 99,
+  "_site": "scp-wiki",
+  "_fullname": "art:remember-to-stalk"
+}

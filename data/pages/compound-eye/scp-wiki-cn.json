@@ -1,0 +1,15 @@
+{
+  "title": "复眼",
+  "content": "[[>]]\n[[module rate]]\n[[/>]]\n\n[[module ListPages category=\"fragment\" parent=\".\" limit=\"1\" order=\"created_at\" offset=\"@URL|0\"]]\n%%content%%\n[[/module]]",
+  "tags": [
+    "creepypasta",
+    "原创",
+    "故事"
+  ],
+  "author": "chenxue",
+  "created_at": "2024-04-14T09:25:41+00:00",
+  "updated_at": "2024-04-14T09:26:43+00:00",
+  "rating": 6,
+  "_site": "scp-wiki-cn",
+  "_fullname": "compound-eye"
+}

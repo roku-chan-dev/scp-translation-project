@@ -1,0 +1,20 @@
+{
+  "title": "SCP-6154",
+  "content": "[[include :scp-wiki-cn:theme:black-highlighter-theme]]\n[[include :scp-wiki-cn:component:info-ayers\n|page=SCP-6154 [!-- url of your page on the scp wiki --]\n|authorPage=http://www.scp-wiki.net/dr-tonnes-personnel-file[!-- link to your author page --]\n|comments= 启发自[[*user cocaine rabbit]]的[http://scp-wiki-cn.wikidot.com/old:scp-6153 原作]\n]]\n[[module CSS]]\n\n[[span style=\"font-weight: bold;\"]][[collapsible show=\"新年快乐\" hide=\"页面已刷新\"]][[/span]]\n**项目编号：**SCP-6154\n\n**项目等级：**Thaumiel\n\n**特殊收容措施：**本文档可供所有对小型附魔咒语并不表现出反感或是敏感的人员访问。\n\n建议此类人员于每年1月1日访问一次SCP-6154。\n\n[[include component:image-block\nname=https://upload.wikimedia.org/wikipedia/commons/7/7c/New_Years_Eve_fireworks_Oulu_20111231f.JPG|\ncaption= Site-██外部。摄自2022年1月1日午夜。|width=330px]]\n\n**描述：**SCP-6154是一种通过基金会数据库而对该条目作出影响的年度现象。\n\n若访问时间为当地时间1月1日，那么正在站点工作的人员在访问该条目时所感知的信息将被替换为“新年快乐”而非预期信息。这一影响将持续至对象刷新或是关闭并重新打开文档，异常即会因此停止，直至次年。\n\n大多数暴露于SCP-6154的对象都报告称自身情绪中的满足感出现增强，尤其是对未来一年表现出焦虑、压力或是总体担忧的人员。\n\n自SCP-6154生成以来，全体人员对于工作与个人未来企划的动力和整体热情全部大幅提升。该激励效应似乎会持续至同年的12月31日。\n\n**发现日志：**SCP-6154被发现于1级研究员Dr.Snow利用各自的SCP槽位向在假日期间坚持工作的人员们传达鼓励性话语之后。\n\n虽然起初因为这一违反职业道德的行为而受到斥责，但后来证实Dr.Snow具备轻微的奇术能力，激活于其制造SCP-6154之时。进一步通过家族遗传的研究表明，Dr.Snow对微量异常性质检测呈阳性；这可能与**##green|林中之地##**有所关联。\n\nDr.Snow随后返回其岗位，并将SCP-6154重分级为Thaumiel。\n[[/collapsible]]\n\n[[footnoteblock]]\n\n[[div class=\"footer-wikiwalk-nav\"]]\n[[=]]\n<< [[[SCP-6153]]] | SCP-6154 | [[[SCP-6155]]] >>\n[[/=]]\n[[/div]]",
+  "tags": [
+    "meta",
+    "scp",
+    "thaumiel",
+    "基金会制",
+    "无名",
+    "移情作用",
+    "视觉性",
+    "认知危害"
+  ],
+  "author": null,
+  "created_at": "2022-01-02T02:12:52+00:00",
+  "updated_at": "2022-01-04T18:10:05+00:00",
+  "rating": 9,
+  "_site": "scp-wiki-cn",
+  "_fullname": "scp-6154"
+}

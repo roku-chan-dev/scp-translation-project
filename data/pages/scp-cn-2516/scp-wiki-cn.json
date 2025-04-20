@@ -1,0 +1,17 @@
+{
+  "title": "SCP-CN-2516",
+  "content": "[[module css]]\n:root:lang(cn) {\n    --logo-image: url(\"http://scptestwiki.wdfiles.com/local--files/sigma%3Adomc/DoMC_Final.png\");\n    --header-title: \"DoMC\";\n    --header-subtitle: \"解决 沟通 问题\";\n}\n[[/module]]\n\n[[>]]\n[[module Rate]]\n[[/>]]\n\n**项目编号：**见描述部分\n\n**等级：**Euclid\n\n**特殊收容措施：**已由误传部派遣一个小组对研究员Aolen实时观察。\n\n存在一个小组，其成员对研究员Aolen的各方面特性各熟知一件。\n\n已派遣一个小组代行常规部门对研究员Aolen的监察职责。\n\n已派遣一个小组代行常规部门对研究员Aolen的医疗职责。\n\n已派遣一个小组代行常规部门对研究员Aolen的安保职责。\n\n存在工作小组外成员向小组报告研究员Aolen其他特性。\n\n存在工作小组外成员被遴选吸纳入小组。\n\n被吸纳入小组的原工作小组外成员曾报告关于研究员Aolen的重要特性。\n\n**描述：**研究员Aolen被指定为异常，编号为SCP-CN-2516。\n\n目前仅有项目主管Dr.Koen表示研究员Aolen为异常。\n\n目前仅有项目主管Dr.Koen确定知晓研究员Aolen的异常性质。\n\n本文档描述部分将作为研究员Aolen具有异常性质的关键证据之一。\n\n**附录CN-2516 ：研究员Aolen相关信息**\n\n* Dr.Vylon曾尝试以除“研究员Aolen”之外的名称称呼研究员Aolen两次，于第二次失败。\n\n* Dr.Vylon曾于2/12/2023尝试描述包含“研究员Aolen”字节的相关事件两件，于第一次失败。 \n\n* 2/12/2023前，Dr.Vylon仅知晓一件有关研究员Aolen的事件。\n\n* Dr.webfom曾于2/13/2023尝试描述包含“研究员Aolen”字节的相关事件两件，于第二次失败。 \n\n* 2/13/2023前，Dr.webfom不知晓任何有关研究员Aolen的事件。\n\n* 向研究员Aolen相关工作小组询问得知包含“研究员Aolen”字节的相关性质12件。\n\n* 研究员Aolen相关工作小组共12人。\n\n* 研究员Aolen相关工作小组有且只有一个。\n\n[[div class=\"footer-wikiwalk-nav\"]]\n[[=]]\n<< [[[SCP-CN-2515]]] | SCP-CN-2516 | [[[SCP-CN-2517]]] >>\n[[/=]]\n[[/div]]",
+  "tags": [
+    "euclid",
+    "meta",
+    "scp",
+    "人形生物",
+    "原创"
+  ],
+  "author": "webfom",
+  "created_at": "2023-09-01T15:59:16+00:00",
+  "updated_at": "2024-03-05T14:33:59+00:00",
+  "rating": 3,
+  "_site": "scp-wiki-cn",
+  "_fullname": "scp-cn-2516"
+}

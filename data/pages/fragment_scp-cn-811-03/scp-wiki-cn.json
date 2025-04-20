@@ -1,0 +1,13 @@
+{
+  "title": "名单",
+  "content": "[[module CSS]]\n\n#header h1 {\n    margin-left: 13%;\n    padding: 0;\n    float: left;\n    max-height: 90px;\n}\n\n#header h1 a {\n    display: block;\n    margin: 0;\n    padding: 80px 0 25px;\n    line-height: 0px;\n    max-height: 0px;\n    color: transparent;\n    background: transparent;\n    font-size: 120%;\n    font-family: YouYuan;\n    text-shadow: none;\n    text-decoration: none;\n}\n \n#header h1 a::before {\n    content: \"废墟：Site-CN-20\";\n    color: #FFFFFF;\n    text-shadow: 3px 3px 5px #000000;\n}\n \n#header h2 {\n    margin-left: 13%;\n    padding: 0;\n    clear: left;\n    float: left;\n    font-size: 105%;\n    max-height: 38px;\n}\n\n#header h2 span {\n    display: block;\n    margin: 0;\n    padding: 19px 0;\n    line-height: 0px;\n    max-height: 0px;\n    color: transparent;\n    text-shadow: none;\n}\n \n#header h2 span::before {\n    content: '我将发掘并见证，于最初生长在此的疯狂。';\n    color: #FFFFFF;\n    text-shadow: 1px 1px 1px #000000;\n    text-shadow: 1px 1px 1px rgba(0,0,0,.8);\n}\n[[/module]]\n\n[[module CSS]]\n.footnotes-footer {\ndisplay: none;\n}\n[[/module]]\n[[module ListUsers users=\".\"]]\n||~ 姓名 ||~ 安保权限等级 ||~ 职务 ||\n|| 翟琪琪 || 2级 || 算法分析员 ||\n|| WTX || 2级 || 机械维修员 ||\n|| Mn.Kila || 2级 || 数据库审查员 ||\n|| 李伟 || 3级 || 研究员 ||\n|| %%title%% || 3级 || 第二负责人 ||\n[[/module]]\n[[=]]\n[http://scp-wiki-cn.wikidot.com/scp-cn-811/offset/3 背后有什么声音]\n[[/=]]",
+  "tags": [
+    "段落"
+  ],
+  "author": "ilovecforever",
+  "created_at": "2018-03-17T19:42:08+00:00",
+  "updated_at": "2018-03-17T19:47:26+00:00",
+  "rating": 0,
+  "_site": "scp-wiki-cn",
+  "_fullname": "fragment:scp-cn-811-03"
+}

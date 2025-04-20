@@ -1,0 +1,21 @@
+{
+  "title": "reSCPes - Prepare, Cook, Serve up!",
+  "content": "=====\n[[include component:preview\ntext=\nWant to try some Cuban, Arabic, Dutch or South African cuisine this holiday season?\n]]\n=====\n\n[[div style=\"display: none;\"]]\n[[include component:image-block name=http://scp-wiki.wikidot.com/local--files/re-scp-es/SCP%20Cooking%20logo.png|caption=.]]\n[[/div]]\n\n[[>]]\n[[module Rate]]\n[[/>]]\n[[include :scp-wiki:component:author-label-source start=--\n|name=Uncle Nicolini, Harmacy & FlyPurgatorio]]\n[[include :scp-wiki:component:author-label-source end=--]]\n\n\n[[module ListPages  category=\"fragment\" parent=\".\" limit=\"1\" order=\"created_at\" offset=\"@URL|0\"]]\n%%content%%\n[[/module]]\n\n[!-- https://scp-wiki.wikidot.com/fragment:re-scp-es-0 --]\n[!-- https://scp-wiki.wikidot.com/fragment:re-scp-es-1 --]",
+  "tags": [
+    "_cc",
+    "_licensebox",
+    "_listpages",
+    "co-authored",
+    "doctor-everwood",
+    "illustrated",
+    "journal",
+    "slice-of-life",
+    "tale"
+  ],
+  "author": "FlyPurgatorio",
+  "created_at": "2024-12-02T02:32:23+00:00",
+  "updated_at": "2025-02-23T04:54:57+00:00",
+  "rating": 35,
+  "_site": "scp-wiki",
+  "_fullname": "re-scp-es"
+}

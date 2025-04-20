@@ -1,0 +1,14 @@
+{
+  "title": "프로메테우스 테마",
+  "content": "[[module CSS]]\n@import url(https://scpko.wdfiles.com/local--code/theme%3Aprom-labs/1);\n[[/module]]\n\n[[iftags +테마]]\n[[>]]\n[[module Rate]]\n[[/>]]\n\n[[[prometheus-labs-hub|프로메테우스 연구소]]]용 테마. 사용법:\n\n> @@[[include :scpko:theme:prom-labs]]@@\n\n[[code type=\"CSS\"]]\n/*\nTheme created by MrPines, based on the Sigma 9 theme created by Aelanna and Dr Devan.\nThe logo image is licensed under CC0.\nLogo image source: https://svgsilh.com/image/1494506.html\n */\n\n@import url('https://scp-wiki.wdfiles.com/local--code/theme%3Aprom-labs/1');\n@import url('https://scpko.wdfiles.com/local--files/unfont/UnJamoDotum.css');\n\n\n#header h1 a {\n    font-family: 'Homenaje', 'UnJamoDotum', sans-serif;\n}\n#header h1 a::before {\n    content: \"프로메테우스 연구소\";\n}\n#header h2 span::before {\n    content: \"학문과 직관으로써, 신비가 일상이 되다.\";\n}\n\n[[/code]]\n[[/iftags]]",
+  "tags": [
+    "en",
+    "테마"
+  ],
+  "author": "Salamander724",
+  "created_at": "2019-08-09T02:53:05+00:00",
+  "updated_at": "2021-09-30T15:30:23+00:00",
+  "rating": 2,
+  "_site": "scpko",
+  "_fullname": "theme:prom-labs"
+}

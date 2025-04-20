@@ -1,0 +1,13 @@
+{
+  "title": "Undervegas Card",
+  "content": "[[iftags +fragment]]\n> This is a structural template component for the flipcards on the Undervegas hub; the CSS for the cards is contained there, this is just so that adding a new card means writing small include instead of 30 lines of syntax.\n[[/iftags]]\n\n[[div class=\"flip-card\"]]\n[[div class=\"flip-card-inner\"]]\n[[div class=\"flip-card-front\"]]\n[[div class=\"cardtext\"]]\n+* {$scp}\n+++* {$title}\ndealt by {$author}\n[[/div]]\n[[/div]]\n[[div class=\"flip-card-back\" style=\"{$styling}\"]]\n[[div class=\"cardtext\"]]\n[[module ListPages fullname=\"{$url}\"]]\n++++++* [[[{$url} | {$quote}]]]\n\n[[span class=\"votes\"]]+%%rating%%[[/span]] / [[span class=\"comments\"]]🗨️ %%comments%%[[/span]]\n[[/module]]\n[[/div]]\n[[/div]]\n[[/div]]\n[[/div]]",
+  "tags": [
+    "fragment"
+  ],
+  "author": "Rounderhouse",
+  "created_at": "2024-02-20T22:27:01+00:00",
+  "updated_at": "2024-02-27T09:45:19+00:00",
+  "rating": 0,
+  "_site": "scp-wiki",
+  "_fullname": "fragment:undervegas-card"
+}

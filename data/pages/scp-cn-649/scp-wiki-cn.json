@@ -1,0 +1,21 @@
+{
+  "title": "SCP-CN-649档案存取授权页",
+  "content": "[[module CSS]]\n#header {\n    background: url(http://scp-wiki-cn.wikidot.com/local--files/site-cn-06/css_logo) 1px 20px no-repeat;\n}\n#header h1 a span {\n    display: none;\n}\n#header h1 a::before {\n    content: \"Site-CN-06\";\n    font-family: 'Times New Roman', cursive;\n    color: #ffffff;\n    bottom: -2em;\n    text-shadow:\n        1px 1px 1px #000;\n}\n#header h2 {\n    display: inline-block;\n    position: absolute;\n    bottom: 30%;\n    left: 0;\n    right: 0;\n    margin: 0 auto;\n    padding: 65px 125px 0px;\n}\n#header h2 span{\n    font-size: 0px;\n    padding: 0px 0px;\n}\n#header h2:after {\n    content: \"创 新 者 前 行\";\n    color: #ffffff;\n    text-shadow: 1px 1px 1px #000;\n    text-shadow: 1px 1px 1px rgba(0, 0, 0, .8);\n    white-space: pre;\n}\ndiv#container-wrap{background: url(\"http://scp-wiki-cn.wikidot.com/local--files/site-cn-06/css_background\") top left repeat-x;\nbackground-position-y: -50px;\n}\nh1, #page-title {\n    color: #282e48;\n    padding: 0 0 0.25em;\n    margin: 0 0 0.6em;\n    font-weight: normal;\n}\n[[/module]]\n\n[[>]]\n[[module Rate]]\n[[/>]]\n\n[[div style=\"background: url(https://s1.ax1x.com/2018/10/20/i0uS7F.png) 80% 35% no-repeat; float: center; border: solid 2px #000000; padding: 8px 15px; box-shadow: 0 1px 3px rgba(0,0,0,.2);\"]]\n[[=]]\n##ff0000|[[size 1.5em]] **来自Site-CN-06敏感事务办公室的讯息** [[/size]]##\n[[/=]]\n----\n[[<]]\n[[size 1em]]由于SCP-CN-649的特殊异常性质，其相关资料仅可由其维护组成员进行存取。\n如果你对该项目有任何疑问，或你是SCP-CN-649的维护组成员且遗忘了你的[[span style=\"color:red\"]]AA649号通行识别代码[[/span]]，请向最近的敏感事务办公室办公点进行报告。\n任何对SCP-CN-649相关材料的非法存取行为都将导致敏感事务办公室对违规操作者的追查及人道毁灭。\n[[/size]]\n[[/<]]\n[[/div]]\n@@@@\n[[=]]\n**若要存取SCP-CN-649的档案，请在下方输入您的**[[collapsible show=\"AA649号通行识别代码\" hide=\"识别完成。欢迎，SCP-CN-649维护人员。\"]]\n本次代码循环周期您的AA449号通行识别代码为：\n[[span style=\"color:red\"]]hd5424-1x20[[/span]]\n请牢记您的通行识别代码，并不要将其告知其他人员。\n如该通行代码发生泄露，您将承担全部责任。\n[[/collapsible]]\n\n\n\n[[html]]\n<head>\n<script language=\"javascript\">\n\nfunction LogIn(){\nloggedin=false;\npassword=\"\";\npassword=prompt(\"请输入您的AA649号通行识别码\",\"\");\npassword=password.toLowerCase();\n\n// Add password-->\nif (password==\"hd5424-1x20\") {\nloggedin=true;\nwindow.open('http://scp-wiki-cn.wikidot.com/real-scp-cn-649');\n}\n\n\n// If login incorrect -->\nif (loggedin==false) {\nalert(\"警告：通行识别码错误。请正确输入您的AA649号通行识别码。\");\n}\n}\n\n</script>\n\n</head>\n\n<body>\n<form><input type=button value=\"读取档案：SCP-CN-649\" onClick=\"LogIn()\"></form>\n</body>\n[[/html]]\n@@@@\n**注意：**本页面只是敏感文件的授权认证页面，请记得在正常访问完成后关闭此页面。在本页面停留的时间过长可能会导致Site-CN-06敏感事务办公室对此次访问的调查。\n[[html]]\n<html>\n<head>\n<script type=\"text/javascript\">\nfunction setVar()\n{\n    if (sessionStorage.read != 1)\n    {\n        sessionStorage.setItem('read', 1);\n    }\n}\n</script>\n</head>\n<body onLoad=\"setVar();\">\n</body>\n</html>\n[[/html]]\n\n[[/=]]\n\n[[html]]\n<head>\n<style>\n    blockquote {\n        border: 1px dashed #999;\n        padding: 0 1em;\n        background-color: #f4f4f4;\n        display: block;\n        margin: 1.0em 0.5em;\n    }\n    body {\n        background-color: #fff;\n        font-size: 0.80em;\n        color: #900;\n        font-family: verdana,arial,helvetica,sans-serif;\n        font-size: 1em;\n    }\n}\n\n</style>\n<script type=\"text/javascript\">\nvar counter =0\nvar timer;\nfunction countUP () {\n counter = counter + 1;//increment the counter by 1\n document.getElementById(\"timer_container\").innerHTML = counter;\n }\n</script>\n</head>\n<body onload='timer=setInterval(\"countUP()\", 1000 );'>\n您本次已在此页面停留<span id=\"timer_container\">0</span>秒\n</body>\n[[/html]]\n@@@@\n[[div class=\"footer-wikiwalk-nav\"]]\n[[=]]\n<< [[[SCP-CN-648]]] | SCP-CN-649 | [[[SCP-CN-650]]] >>\n[[/=]]\n[[/div]]",
+  "tags": [
+    "euclid",
+    "scp",
+    "site-cn-06",
+    "不可移动",
+    "医学性",
+    "原创",
+    "生物性",
+    "精神影响",
+    "门径"
+  ],
+  "author": "GazerPara",
+  "created_at": "2018-10-20T05:01:37+00:00",
+  "updated_at": "2020-03-22T01:33:27+00:00",
+  "rating": 26,
+  "_site": "scp-wiki-cn",
+  "_fullname": "scp-cn-649"
+}

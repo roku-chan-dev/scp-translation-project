@@ -1,0 +1,18 @@
+{
+  "title": "SCP-5894",
+  "content": "[[include :scp-wiki-cn:theme:penumbra]]\n\n[[div_ style=\"display:none\"]]\n[[embed]]\n<iframe src=\"http://scp-wiki-cn.wdfiles.com/local--files/nav%3Aside/styleFrame.html?%3Aroot%7B--accentColor%3A%23c25100%3B%7D\" name=\"customStyleFrame\"></iframe>\n[[/embed]]\n[[/div]]\n\n[[div class=\"scp-image-block block-center\" style=\"width:100%;\"]]\n[[image https://scp-wiki.wdfiles.com/local--files/scp-5894/luz.png style=\"width:200%;\" link=#]]\n[[div class=\"scp-image-caption\" style=\"width:100%;\"]]\nSCP-5894\n[[/div]]\n[[/div]]\n\n**项目编号：**SCP-5894\n\n**项目等级：**Safe\n\n**特殊收容措施：**自16世纪以来，SCP-5894一直是古巴民间传说的一部分。没有进一步的收容措施是可行的或必要的。\n\n**描述：**SCP-5894是一个正在影响古巴的亚拉（Yara）社会的现象，它看起来是一个没有清晰源头的发光体。项目主要出现在黄昏，带领驾船者和旅行者前往当地居民的居住点，然后朝着东南方向前往马埃斯特拉山脉。SCP-5894的第一次出现是在1512年2月2日，在Hatuey因鼓舞西印度群岛起义而被处以火刑后。亚拉传说有一道明亮的红光自他的柴堆中分离，然后消失在岛屿的中心。\n\n1886年之前，几个Maroon[[footnote]]**译注：**“Maroon”有“避居西印度群岛及圭亚那山中的黑人”之意。[[/footnote]]群体[[footnote]]包括以前被奴役的人民和受迫害的美洲土著人。[[/footnote]]记录了出现于种植园的SCP-5894。唯一已知项目与上述记载偏离的行为是在签署了《桑洪(Zanjón)条约》之后，SCP-5894尾随着一艘载有古巴流亡者的船只从哈瓦那前往纽约，并明显变暗，随后返回该岛。它再也没有出现过，直至古巴共和国宣布成立。\n\n尝试跟随SCP-5894进入马埃斯特拉山脉将进入一个无法辨认的山谷。这个地区的环境郁郁葱葱，生长有大片的白姜百合，尽管它们的香气伴随着强烈的硫磺味。其中，有一个身份不明的泰诺人[[footnote]]泰诺人于1600年被宣布灭族。[[/footnote]]被捆绑在一个木制的柱子上。他脚下的结构正在燃烧，但没有损耗的迹象。此人并没有处于痛苦之中，对刺激显得毫无反应。\n\n受试者报告称，他们在山谷中的一个无法识别的地方听到了以下这句以他们各自的母语说出的短句：\n\n[[collapsible show=\"展示\" hide=\"关闭\"]]\n> 若西班牙人上天堂，我宁愿下地狱。\n[[/collapsible]]\n[[module CSS]]\n:root {\n  --accentColor: #c25100;\n}\n\n:root {\n    --fnColor: #c25100;\n}\n\n#page-title {\n    display: none;\n}\n[[/module]]\n@@ @@\n@@ @@\n@@ @@\n@@ @@\n[[div class=\"footer-wikiwalk-nav\"]]\n[[=]]\n<< [[[SCP-5893]]] |  SCP-5894 | [[[SCP-5895]]] >>\n[[/=]]\n[[/div]]",
+  "tags": [
+    "safe",
+    "scp",
+    "光照影响",
+    "历史性",
+    "声音",
+    "尸体"
+  ],
+  "author": null,
+  "created_at": "2021-04-21T01:57:57+00:00",
+  "updated_at": "2021-10-20T02:31:50+00:00",
+  "rating": 4,
+  "_site": "scp-wiki-cn",
+  "_fullname": "scp-5894"
+}

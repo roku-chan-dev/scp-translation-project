@@ -1,0 +1,20 @@
+{
+  "title": "SCP-749",
+  "content": "[[>]]\n[[module Rate]]\n[[/>]]\n\n**Item #:** SCP-749\n\n**Object Class:** Safe\n\n**Special Containment Procedures:** SCP-749 is to be contained in a sealed Live Containment Vault with a minimum of three armed guards at all times. All guards posted are to be equipped with chemical dispersal units loaded with appropriate insecticides at all times. \n\nThe walls of the vault are to be sloped in order to inhibit SCP-749's attempts to crawl up them; electrified mesh capable of delivering a 5000 volt shock is to be installed over all viewing windows.\n\nTo feed SCP-749, dedicated sprinklers are to be turned on and a mammal weighing no less than 70 kilograms is to be introduced into the habitat. The sprinklers are to remain on for at least an hour.  Feeding is to take place every five days, and no additional personnel are permitted within the room while feeding takes place.\n\n**Description:** SCP-749 is an apex predator superficially resembling members of the subphylum //Myriapoda//, approximately 3 m long with two to three hundred pairs of legs. Each individual SCP-749 possesses powerful forcipules which secrete a powerful acidic compound with a measured pH of 0.3. \n\nSCP-749 demonstrates a predilection for hunting during rainstorms, and appears to be familiar with urban settings. Its preferred hunting methods consist of climbing up the walls of domiciles, using its forcipules to gain entry (usually by boring a hole through a wall or window), then feeding upon sleeping individuals within. SCP-749 shows a marked intelligence in evaluating potential prey: in all reported SCP-749 attacks, the creature fed upon the smallest unaccompanied individual, and its feeding habits in containment continue to support this conclusion of intelligence. \n\nSCP-749 appears to avoid detection prior to these attacks due to a combination of both visual and aural camouflage: When actively hunting prey, SCP-749 will alter its hue to match even complicated surfaces, such as stonework, rendering it visually almost undetectable until it strikes. The unique pattern of walking and form of legs possessed by the creature causes it to emulate and therefore blend in with the sound of raindrops impacting hard surfaces. However, due to the fidelity with which SCP-749 replicates this sound, varying the sound based on the surface, SCP-749 either is intelligent enough to vary its walking patterns based on surface, or exudes a non-vibration based effect that causes it to be heard as raindrops by potential prey.\n\n[[footnoteblock]]\n\n[[div class=\"footer-wikiwalk-nav\"]]\n[[=]]\n<< [[[SCP-748]]] | SCP-749 | [[[SCP-750]]] >>\n[[/=]]\n[[/div]]\n\n[[include :scp-wiki:component:license-box\n|author=Heiden, rewritten by Dexanote]]\n[[include :scp-wiki:component:license-box-end]]",
+  "tags": [
+    "_licensebox",
+    "horror",
+    "invertebrate",
+    "murder-monster",
+    "predatory",
+    "rewrite",
+    "safe",
+    "scp"
+  ],
+  "author": "Heiden",
+  "created_at": "2009-06-06T23:44:48+00:00",
+  "updated_at": "2024-10-13T15:21:12+00:00",
+  "rating": 128,
+  "_site": "scp-wiki",
+  "_fullname": "scp-749"
+}

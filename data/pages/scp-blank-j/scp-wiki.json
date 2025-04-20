@@ -1,0 +1,19 @@
+{
+  "title": "SCP-BLANK-J",
+  "content": "[[>]]\n[[module rate]]\n[[/>]]\n[[include :scp-wiki:component:pride-highlighter |inc-lgbt-alt= --]]]\n[[module CSS]]\n.email-example .collapsible-block-folded a.collapsible-block-link {\n    animation: blink 0.8s ease-in-out infinite alternate;\n}\n@keyframes blink {\n    0% { color: transparent; }\n    50%, 100% { color: #b01; }\n}\n.email {border: solid 2px #000000; width: 88%; padding: 1px 15px; margin: 10px; box-shadow: 0 1px 3px rgba(0,0,0,.5)}\n.email-example a.collapsible-block-link {font-weight: bold;}\n.tofrom {margin-left: 10px; margin-top: 5px; padding: 1px 15px; border-left: solid 3px maroon}\n[[/module]]\n[[include :scp-wiki:theme:black-highlighter-theme]]\n@@ @@\n@@ @@\n@@ @@\n@@ @@\n@@ @@\n@@ @@\n@@ @@\n@@ @@\n@@ @@\n@@ @@\n@@ @@\n@@ @@\n@@ @@\n@@ @@\n@@ @@\n@@ @@\n@@ @@\n@@ @@\n@@ @@\n@@ @@\n@@ @@\n@@ @@\n[[div class=\"email-example\"]]\n[[=]]\n------\n[[collapsible show=\"Mr. May, you have one (1) new message!\" hide=\"Hide\"]]\n[[div class=\"email\"]]\n[[div class=\"tofrom\"]]\n[[<]]\n**From:** Nicholas May, Logistic Division\n**To:** Director Marion Wheeler, Antimemetics Division\n**Subject:** ##red|(!)## SCP-BLANK-J\n-----\nGood morning, Director Wheeler.\nAs you can see in the file linked to my email, an SCP slot seems to have acquired antimemetic properties. I am asking for your assistance on the matter: such anomalies seem to be common in your field, thus I do not think it would be a hard challenge for you and your researchers.\nI eagerly await your response.\n\nBest regards,\nNicholas May\n[[/<]]\n[[/div]]\n[[/div]]\n@@ @@\n@@ @@\n-----\n@@ @@\n@@ @@\n@@ @@\n[[div class=\"email\"]]\n[[div class=\"tofrom\"]]\n[[<]]\n**From:** Director Marion Wheeler, Antimemetics Division\n**To:** Nicholas May, Logistic Division\n**Subject:** RE: ##red|(!)## SCP-BLANK-J\n-----\nMister Nicholas May,\nMaybe before you cry antimemes, you should actually check if you pressed \"Save\".\nIdiot.\n[[/<]]\n[[/div]]\n[[/div]]\n\n[[/collapsible]]\n[[/=]]\n[[/div]]\n@@ @@\n[[include :scp-wiki:component:license-box]]\n[!-- N/A (No Images)  --]\n[[include :scp-wiki:component:license-box-end]]",
+  "tags": [
+    "_licensebox",
+    "antimemetics-division",
+    "esoteric-class",
+    "joke",
+    "marion-wheeler",
+    "meta",
+    "scp"
+  ],
+  "author": "Siddartha Alonne",
+  "created_at": "2021-12-20T16:26:40+00:00",
+  "updated_at": "2024-09-10T22:06:06+00:00",
+  "rating": 253,
+  "_site": "scp-wiki",
+  "_fullname": "scp-blank-j"
+}

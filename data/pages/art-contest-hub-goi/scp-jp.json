@@ -1,0 +1,15 @@
+{
+  "title": "アートコンテストハブ - 要注意団体",
+  "content": "[[=]]\n+ このカテゴリーの優勝作品: //壊れた神の教会// by Zhange\n[[/=]]\n\n[[module css]]\n.content-panel {\n    border: none;\n    border-radius: 0px;\n    background-color: #fff;\n    margin: 10px 0 15px;\n    box-shadow: none;\n    box-shadow: none;\n}\n[[/module]]\n\n[[div class=\"content-panel left-column\"]]\n[[include component:image-block name=ZhangeCotBG.png| caption= Zhangeによる壊れた神の教会。フルビューは[https://i.imgur.com/6p1KZ6Z.png  こちら]。]]\n\n[[include component:image-block name=QuantumEggplantMCD.jpg| caption= /u/QuantumEggplantからMC&Dタトゥー。フルビューは[https://i.imgur.com/McTmJYZ.jpg こちら]。]]\n\n[[include component:image-block name=EerieFrostAWCY.jpg| caption= EerieFrostによるAWCY。フルビューは[https://i.imgur.com/nlVf1of.jpg こちら]。]]\n\n[[include component:image-block name=AkumeoyFifth.png| caption= Akumeoyによる第五教会。フルビューは[http://www.scp-wiki.net/local--files/quote-unquote-art-by-cww/AkumeoyGroupsofInterest.png こちら]。]]\n\n[[/div]]\n[[div class=\"content-panel right-column\"]]\n[[include component:image-block name=SourbacteriaBiomech.jpg| caption= Sourbacteriaによるバイオメカニカル。フルビューは[https://i.imgur.com/yvdOwt9.jpg こちら]。]]\n\n[[include component:image-block name=JenssosaurusIon.jpg| caption= Jenssosaurusによる崇高なるカルキスト・イオン。フルビューは[https://i.imgur.com/Gc2FmQH.jpg こちら]。]]\n\n[[include component:image-block name=DrBlurNobody.png| caption= Dr Blurによる[http://ja.scp-wiki.net/nobody-hub 何者でもない]。フルビューは[https://i.imgur.com/zd9wprX.png こちら]。]]\n[[/div]]",
+  "tags": [
+    "art2017",
+    "en",
+    "アートワーク"
+  ],
+  "author": "Kasugai_Kanagu",
+  "created_at": "2019-01-03T18:38:56+00:00",
+  "updated_at": "2021-01-10T17:26:15+00:00",
+  "rating": 13,
+  "_site": "scp-jp",
+  "_fullname": "art-contest-hub-goi"
+}

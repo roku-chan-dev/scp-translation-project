@@ -1,0 +1,13 @@
+{
+  "title": "SCP-ES-138-1",
+  "content": "[[module css]]\n#page-title {\n  display: none;\n}\n.meta-title {\n  border-bottom: solid 1px #bbbbbb;\n  color: #990011;\n  font-weight: normal;\n  margin: 0 0 0.6em;\n  padding: 0 0 0.25em;\n  font-size: 200%;\n}\n.meta-title p {\n  margin: 0;\n}\n.outer-chat {background: gray; padding: 1px 15px; border: solid 3px lightgray; margin: 10px; border-radius: 30px 15px}\n\n\n\n.inner-chat {background: white; padding: 1px 15px; border: solid 3px lightgray; margin: 10px; border-radius: 30px 15px}\n[[/module]]\n[[div class=\"meta-title\"]]\n**歡迎來到 SCP 基金會！**\n[[/div]]\n\n[[div class=\"outer-chat\"]]\n[[div class=\"inner-chat\"]]\n[[table style=\"border: none; width: 100%\"]]\n[[row]]\n[[cell style=\"width: 20%;\"]]\n[[f<image http://scp-wiki.wdfiles.com/local--files/your-very-last-scp/skippy_angry.png size=\"thumbnail\"]]\n[[/cell]]\n[[cell style=\"text-align: left; background-color: white; color: black; padding: 1% 1% 1% 1%\"]]\n嗯喔喔！我們不能冒有間諜混入的險！\n@@ @@\n[[image https://i.kym-cdn.com/photos/images/original/001/475/324/52b]]\n[[=]]\n[[module ListUsers users=\".\"]]\n,,Bye-bye，%%title%%。別回來了！ ~ :o),,\n[[/module]]\n[[/=]]\n[[/cell]]\n[[/row]]\n[[/table]]\n\n[[/div]]\n[[/div]]",
+  "tags": [
+    "补充材料"
+  ],
+  "author": "feitag",
+  "created_at": "2019-08-28T12:18:15+00:00",
+  "updated_at": "2019-10-17T05:21:33+00:00",
+  "rating": 7,
+  "_site": "scp-wiki-cn",
+  "_fullname": "secret:scp-es-138-1"
+}

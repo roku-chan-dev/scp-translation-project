@@ -1,0 +1,13 @@
+{
+  "title": "SCP-6747 Fragment 1",
+  "content": "[[include :scp-wiki-cn:theme:admo astral=a]]\n\n[[module CSS]]\n\n/* SCP-6747 -  CHAOS THEORY */\n/* ACCESSIBILITY PATCH */\n\n*[style*=\"#22bb44\"] {\n    color: rgb(var(--one-color)) !important;\n}\n\n[[/module]]\n\n[[div class=\"admo-accessibility\"]]\n[[span class=\"cond\"]]>> [/scp-6747 查看标准模式] <<[[/span]]\n[[/div]]",
+  "tags": [
+    "段落"
+  ],
+  "author": "ahshow",
+  "created_at": "2021-11-24T06:31:13+00:00",
+  "updated_at": "2023-03-14T15:59:31+00:00",
+  "rating": 0,
+  "_site": "scp-wiki-cn",
+  "_fullname": "fragment:scp-6747-1"
+}

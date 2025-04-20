@@ -1,0 +1,14 @@
+{
+  "title": "00743",
+  "content": "content: \"**説明:** 1枚ティッシュを出す度に底から1枚ティッシュが追加されるティッシュ箱\\n**回収日:** 20██/02/28/\\n**回収場所:** ██市███センターの受付\\n**現状:** ████職員の作業スペースに設置\\n//これはストレス発散にうってつけだ！//-██職員\\n@@@@\\n//ゴミが無限に増えるってお分かりですか？//-██職員\"\ntf2: '1'\nauthor: Monozero\nredirect-b: '[[module Redirect destination=\"http://ja.scp-wiki.net/log-of-anomalous-items-jp'\nredirect-e: '\"]]'",
+  "tags": [
+    "jp",
+    "剪定対象-子"
+  ],
+  "author": "indonootoko",
+  "created_at": "2020-05-16T17:03:17+00:00",
+  "updated_at": "2021-05-24T13:15:27+00:00",
+  "rating": 4,
+  "_site": "scp-jp",
+  "_fullname": "anomalous-jp:00743"
+}

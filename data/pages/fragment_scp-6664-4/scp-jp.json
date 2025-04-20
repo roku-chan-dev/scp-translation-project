@@ -1,0 +1,14 @@
+{
+  "title": "SCP-6664 4",
+  "content": "[[include :scp-jp:theme:blankstyle acs=a]]\n\n[[include :scp-jp:component:acs-animation]]\n\n[[div class=\"blockquote\"]]\n//最初の文書からの変更点は##blue|青字##で強調表示されています。//\n\n[[/div]]\n\n[[include :scp-jp:component:anomaly-class-bar-source\n\n    |item-number= SCP-6664\n\n    |clearance= 1\n\n    |container-class= safe\n\n    |secondary-class= none\n\n    |disruption-class= vlam\n\n    |risk-class= warning\n\n    ]]\n\n-----\n\n[[include component:image-block name=http://scp-jp-storage.wikidot.com/local--files/file:2375337-1205-zk3w/treeV.jpg|align=center|width=100%|caption=収容以前のSCP-6664。]]\n\n-----\n\n**特別収容プロトコル:** SCP-6664は##blue|サイト-43##の温室に収容されます。枝を傷付ける恐れがあるため、SCP-6664に登ることは許可されません。\n\n**説明:** SCP-6664は //##blue|Pinus banksiana##// 、より一般的には##blue|バンクスマツ##と呼ばれる植物種の樹木であり、現在は##blue|サイト-43##に位置しています。その異常性を除いて、SCP-6664は同種の樹木と同一です。\n\nSCP-6664の異常性は、##blue|その球果が炎と接触する##時に活性化します。##blue|炎がSCP-6664の球果に触れると##、通常予想されるように##blue|開いて種子を落とす##代わりに、##blue|球果は激しく破裂して、本来その内部に物理的に収まらないほど大量の種子を高速で射出します。SCP-6664に生る球果##はSCP-6664-1と指定されています。\n\nSCP-6664-1は##blue|SCP-6664に生る球果##です。SCP-6664-1に##blue|含まれる種子は異常な速さで成長し、約4日で成木になります。SCP-6664から生成されたマツの木にその他の異常性はありません。##\n\n-----\n\n[[=]]\n+ **補遺6664.01: 発見**\n[[/=]]\n\nSCP-6664は2014年1月28日、##blue|地元のティーンエイジャー##である##blue|イザベル・ダイアナ##が、##blue|SCP-6664の近くで線香花火に点火したところ、幾つかの種子が高速でぶつかってきたと##報告した後に発見されました。##blue|近場にいた非番の財団エージェントがSCP-6664-1の破裂を目撃し##、潜在的アノマリーとして報告しました。SCP-6664はその後、##blue|サイト-43##に植え替えられました。\n\n[[div class=\"blockquote\"]]\n//**当ファイルはロックされています。**//\n\n//君たち全員の間で何かしらの合意が成立するまで、このページの編集を認めない。SCP-6664の正体が何だろうとこちらの知ったことか、とにかくファイルに手を出すな。[[[http://scp-jp.wikidot.com/scp-6664/offset/5| 話し合ってから]]]私まで報告するように。//\n\n//- ローゼン技術研究員//\n\n[[/div]]",
+  "tags": [
+    "en",
+    "フラグメント"
+  ],
+  "author": "C-Dives",
+  "created_at": "2025-01-16T16:37:00+00:00",
+  "updated_at": "2025-01-16T16:37:30+00:00",
+  "rating": 0,
+  "_site": "scp-jp",
+  "_fullname": "fragment:scp-6664-4"
+}

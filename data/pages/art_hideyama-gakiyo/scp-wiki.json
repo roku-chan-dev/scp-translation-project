@@ -1,0 +1,15 @@
+{
+  "title": "Iwakiyo Hideyama's Artwork of Feminine",
+  "content": "[[include :scp-wiki-cn:theme:black-highlighter-theme]]\n[[include :scp-wiki:theme:minimalist-bhl]]\n[[include :scp-wiki-cn:theme:minimalist-bhl]]\n[[module CSS]]\n:root:lang(en) {\n    --header-title: \"Hideyama's Odd Site\";\n    --header-subtitle: \"Secure•Contain•Protect•Feminine\";\n    --lgurl: url(\"https://scp-wiki-cn.wdfiles.com/local--files/achievement-badges/34.png\");\n    --five-color: 192, 192, 192;\n    --three-color: 192, 192, 192;\n}\n\ndiv.page-rate-widget-box .rate-points {\n    border: none;\n}\n[[/module]]\n[[>]]\n[[module Rate]]\n[[/>]]\n\n\n**Hello！Here is Hideyama，An ordinary painter！\nI've drawn some fan-artwork for the SCPs。\nHope you enjoy it！**\n\n\n+ ****Completed Artwork****\n\n[[collapsible show=\" SCP079 \" hide=\"🖥️ Old AI\" ]]\n[[image https://scpsandboxcn.wikidot.com/local--files/hideyama-no-ega/079.png]]\n[[/collapsible]]\n\n[[collapsible show=\" SCP895 \" hide=\"🖥️ Camera Disruption\" ]]\n[[image https://scpsandboxcn.wikidot.com/local--files/hideyama-no-ega/895.png]]\n[[/collapsible]]\n\n[[collapsible show=\"+ SCP2999\" hide=\"🖥️ Black Cat and White Rabbit\"]]\n[[image https://scpsandboxcn.wikidot.com/local--files/hideyama-no-ega/2999.png]]\n[[/collapsible]]\n------",
+  "tags": [
+    "artwork",
+    "painted",
+    "scp-art"
+  ],
+  "author": "Hideyama Iwakiyo",
+  "created_at": "2024-05-01T16:32:44+00:00",
+  "updated_at": "2024-06-21T01:11:12+00:00",
+  "rating": 42,
+  "_site": "scp-wiki",
+  "_fullname": "art:hideyama-gakiyo"
+}

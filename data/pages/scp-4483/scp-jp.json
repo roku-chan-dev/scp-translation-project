@@ -1,0 +1,17 @@
+{
+  "title": "SCP-4483",
+  "content": "[[include :scp-jp:theme:black-highlighter-theme]]\n[[include :scp-jp:component:bhl-dark-sidebar]]\n[[include :scp-jp:component:fade-in speed=3]]\n[[module CSS]]\n:root {\n    --timeScale: 2;\n    --timeDelay: 0.5s;\n}\n[[/module]]\n[[include :scp-jp:component:acs-animation]]\n\n[[include :scp-jp:credit:start]]\n**翻訳責任者:** [[*user oplax-counterpoint]]\n**翻訳年:** 2024\n**原題:** SCP-4483 - Cut off the Head\n**著作権者:** [[*user G S Palmer]]\n**作成年:** 2020\n**初訳時参照リビジョン:** 26\n**元記事リンク:** https://scp-wiki.wikidot.com/scp-4483\n[[include :scp-jp:credit:end]]\n\n[[include :scp-jp:component:anomaly-class-bar-source\n|item-number= 4483\n|clearance= 1\n|container-class= euclid\n|secondary-class= none\n|disruption-class= vlam\n|risk-class= notice\n]]\n[[module CSS]]\n/* ACS bar Japanese patch */\n/* 横幅481-600?の時に改行で表示崩れを起こす対策 */\n.top-right-box > .level {\n\t/* 6.75px = 15px * (2.7 - 2.25) */\n\tfont-size: calc(2.25em + 6.75 * (100vw - 900px) / (1920 - 900));\n}\n@media only screen and (max-width: 56.25rem) {\n\t.top-right-box > .level {\n\t\t/* 3.25px = 13px * (2.5 - 2.25) */\n\t\tfont-size: min(2.5em, calc(2.25em + 3.25 * (100vw - 480px) / (800 - 480)));\n\t}\n}\n@media (max-width: 480px) {\n\t.top-right-box > .level {\n\t\tfont-size: 4em;\n\t}\n}\n/* クリアランス表記の位置をレベル表記に揃える */\n.top-right-box > .clearance::before {\n\ttop: .3em;\n\tleft: .5ch;\n}\n@media (max-width: 480px) {\n\t.top-right-box > .clearance::before {\n\t\tmargin-top: .3em;\n\t\tmargin-left: .5ch;\n\t}\n}\n[[/module]]\n\n----\n\n[[include component:image-block name=http://scp-jp-storage.wikidot.com/local--files/file:9042763-11-fdiz/640px-Falchion_MET_DT7691.jpg |caption=SCP-4483]]\n\n**特別収容プロトコル:** SCP-4483はサイト-19の標準安全収容ロッカーに保管されます。インシデント4483.1以降、試験のためにSCP-4483を使用する全ての職員は、概念の認識、想像、および保持に関する優れた能力を示さなければなりません。試験目的かどうかに関わらず、人間に対してSCP-4483を使用することは無期限に中止されています。\n\n外見を含む形態が多種多様であるため、全てのSCP-4483-1実例は、その大きさに適した有機物収容施設に収容されます。\n\n**説明:** SCP-4483は全長91.4cm、重量981gの、鋼鉄製の片刃剣です。刃の背には金の象嵌で文字が刻まれており、15世紀後半または16世紀初頭に作られたイタリアのファルシオンであると特定されています。\n\nSCP-4483が生体の一部を切断するために用いられた場合、「切り落とされた」とSCP-4483の使用者にみなされた部分は全ての生命兆候を即座に停止します。他方、残りの部分については、その生物学的な能力に関係なく、独立した生命活動を開始し、思考能力を持ち、切断された生体の持ち主の意識および人格を保持します。SCP-4483の異常性の影響を受けた生命体はいずれも、SCP-4483-1実例に分類されます。SCP-4483-1実例は、自らが有していない臓器によって制御される身体機能に依存していません。これは、心臓や循環器系を欠いた状態で生存できる能力、脳を欠いた状態で認知的な作業に従事できる能力によって実証されています。各実例は、その解剖学的能力を超えた物理的な動作を実行することはできません。また、各実例は残存している主要な臓器や体組織に対して、通常ならば機能不全に陥るような損傷あるいは破壊によって、死亡する可能性があります。\n\nSCP-4483は2018年9月7日に、17件の誘拐及び殺人の容疑で逮捕されたアンソニー・ブルックス (ペンシルベニア州チェスターブルック) の自宅から回収されました。地元警察が容疑者の自宅を捜索した際に、14体の生きたSCP-4483-1実例が入った木箱を発見したため、アイテムの異常性が明らかになりました。発見された実例はすべて、5歳から21歳までの女性の人間の手でした。また、容疑者の家の裏には、さらに3体のSCP-4483-1実例の死体が埋められていました。\n\nSCP-4483-1実例が明らかに知性を持っていることは、14体の生きた実例が収められていた木箱の内側に、いくつかのメッセージが刻まれていたことを、回収チームが発見したことで判明しました。それらのメッセージは人間の手の爪を使って刻み込まれたものと考えられます。\n\n[[div class=\"blockquote\"]]\n**補遺4483.1: インシデント4483.1**\n2020年7月18日、数名の職員が緊急医療の目的で、エージェント・██████に対してSCP-4483を使用しました。エージェント・██████は限定的な収容違反の際に内臓を部分的に引き裂かれており、臓器を失ってもSCP-4483の異常性によってエージェント・██████は生存できるだろうという理由で、損傷を受けた臓器 (主に消化管の一部) を除去する試みがなされました。しかし、状況のもたらすストレスをおそらく原因として、SCP-4483を使用した職員は手続きを不正確に想像していたと見られ、結果としてエージェント・██████は半死半生の腸の塊として残されました。\n\n残ったエージェント・██████の部分に知性が存在しているかどうかはまだ確認されていません。\n[[/div]]",
+  "tags": [
+    "euclid",
+    "scp",
+    "変容",
+    "武器",
+    "歴史"
+  ],
+  "author": "oplax-counterpoint",
+  "created_at": "2024-11-15T10:31:02+00:00",
+  "updated_at": "2024-11-15T10:31:41+00:00",
+  "rating": 8,
+  "_site": "scp-jp",
+  "_fullname": "scp-4483"
+}

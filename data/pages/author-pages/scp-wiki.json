@@ -1,0 +1,13 @@
+{
+  "title": "Authors' Pages (Redirect)",
+  "content": "[[module Redirect destination=\"authors-pages\"]]",
+  "tags": [
+    "redirect"
+  ],
+  "author": "aismallard",
+  "created_at": "2021-09-14T01:25:38+00:00",
+  "updated_at": "2022-09-14T20:07:15+00:00",
+  "rating": 0,
+  "_site": "scp-wiki",
+  "_fullname": "author-pages"
+}

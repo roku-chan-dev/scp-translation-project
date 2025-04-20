@@ -1,0 +1,15 @@
+{
+  "title": "大怪獣決戦テイルシリーズ ハブ",
+  "content": "[[size 0%]]空白[[/size]]\n[[size 0%]]空白[[/size]]\n\n[[>]]\n[[module Rate]]\n[[/>]]\n\n[[size 0%]]空白[[/size]]\n[[size 0%]]空白[[/size]]\n\n[[include component:jstyles]]\n\n[[=image cover_4_3_2.png]]\n[[div class=\"body\"]]\n[[size 0%]]空白[[/size]]\n[[size 0%]]空白[[/size]]\n\n[[div class=\"vpoem\" style=\"margin-top:0px\"]]\n[[span style=\"font-size:55%; font-family:HGP明朝E; color: #ffffff; text-align: center\"]]\n\n制作　渉外部門広報局 映像制作部 第９スタジオ\n　\n総監督・脚本・主演　エージェント・カナヘビ\n　\n監督・特技監督　結城久磨 博士\n　\n編集・助監督　諸知 博士\n　\n出演　[*http://ja.scp-wiki.net/author:seafield13 エージェント・██]\n　　　 ██████████ 博士\n　　　 ████ 研究員\n　　　 ████ 事務官\n　　　 ████ 管理官（友情出演）\n　\n　\n協力　Ａ█████ Ｈ████ Ｃ███ 博士（世界オカルト連合 設定考証）\n[[/span]]\n[[/div]]\n\n[[size 0%]]空白[[/size]]\n[[size 0%]]空白[[/size]]\n\n[[size 0%]]空白[[/size]]\n[[size 0%]]空白[[/size]]\n\n------\n\n[[size 0%]]空白[[/size]]\n[[size 0%]]空白[[/size]]\n\n[[div class=\"vpoem\" style=\"margin-top:0px\"]]\n[[span style=\"font-size:55%; font-family:HGP明朝E; color: #ffffff; text-align: center\"]]\n\n[[[*monster-decisive-battle-1|第一部]]] － 二〇██年七月二八日 午前一一時三一分二秒（マーシャル諸島標準時）\n　\n[[[*monster-decisive-battle-2|第二部]]] － 二〇██年八月一二日 午前一〇時二八分一〇秒（日本標準時）\n　\n[[[*monster-decisive-battle-3|第三部]]] － 二〇██年八月一二日 午後八時五〇分五八秒（日本標準時）\n　\n[[[*monster-decisive-battle-4|第四部]]] － 二〇██年八月一二日 午後一〇時五分二四秒 (日本標準時)\n\n[[/span]]\n[[/div]]\n\n[[size 0%]]空白[[/size]]\n[[size 0%]]空白[[/size]]\n\n------\n\n[[size 0%]]空白[[/size]]\n[[size 0%]]空白[[/size]]\n\n[[span style=\"font-size:110%; font-family:HGP明朝E; color: #ffffff\"]]\n**登場人物**\n[[/span]]\n\nエージェント・カナヘビ　……　サイト-8181管理官。巨大脅威存在合同対策本部 副本部長（施設管理担当）。\n\n{{阿形^^アガタ^^}} {{仁人^^ユキヒト^^}}　……　81地域ブロック理事会幕僚部 管理総局 危機管理局長。巨大脅威存在合同対策本部 本部長。\n\n{{細谷^^ホソヤ^^}} {{幸史^^ユキフミ^^}}　……　内閣総理大臣補佐官（国家安全保障・超常組織担当）。\n\n{{結城^^ユウキ^^}} {{久磨^^クマ^^}}　……　サイト-8181科学部門次席管理官。巨大脅威存在合同対策本部 財団科学リエゾン班班長。\n\nトミー・レイク　……　サイト-I5群 第16番海中保安施設首席研究員。SCP-682実験団団長（技官）。\n\n[[size 0%]]空白[[/size]]\n[[size 0%]]空白[[/size]]\n\n**記事一覧**\n[[module ListPages category=\"*\" separate=\"no\" limit=\"250\" perPage=\"250\" tags=\"大怪獣決戦テイル +tale\" order=\"created_at\"]]\n* (%%created_at|%y/%m/%d%%) %%title_linked%%　(評価: %%rating%%)\n[[/module]]\n\n[[size 0%]]空白[[/size]]\n[[size 0%]]空白[[/size]]\n\n[[/div]]\n\n[[module css]]\n.body {\n  background-image: url(\"http://scp-jp-sandbox2.wdfiles.com/local--files/seafield13/haikei.jpg\");\n  background-repeat: repeat-y;\n  background-attachment: fixed;\n  background-position: center;\n  color: #ffffff;\n}\n[[/module]]",
+  "tags": [
+    "jp",
+    "ハブ",
+    "大怪獣決戦テイル"
+  ],
+  "author": "seafield13",
+  "created_at": "2017-08-17T18:10:15+00:00",
+  "updated_at": "2023-02-20T17:49:44+00:00",
+  "rating": 76,
+  "_site": "scp-jp",
+  "_fullname": "monster-decisive-battle-hub"
+}

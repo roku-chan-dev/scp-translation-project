@@ -1,0 +1,13 @@
+{
+  "title": "8000contestplaces4 Fragment 0: Default Intro",
+  "content": "[!--\n    This page is responsible for loading the CSS code and content of offset 1 of 8000contestplaces4.\n    It is a Default page, so it includes Basalt in darkmode, and imports the Default CSS code,\n    which is hosted on the Parent 8000contestplaces4 page.\n    It is an Intro page, so it includes the Intro Content fragment, 8000contestplaces4-4.\n    \n    ===\n\n    Basalt Darkmode Include\n--]\n\n[[include :scp-wiki:theme:basalt\n|darkmode=a\n|wide=a\n|hidetitle=a]]\n\n\n[!-- import Default CSS Styling --]\n\n[[module css]]\n@import url(https://scp-wiki.wdfiles.com/local--code/scp-8888/2);\n\n:root {\n  --backdrop: url(https://scp-wiki.wdfiles.com/local--files/scp-8888/wowee.png);\n}\n\n#page-content .introonly {\n  display: block !important;\n}\n[[/module]]\n\n\n[!-- include Intro Content --]\n\n[[include fragment:8000contestplaces4-4]]",
+  "tags": [
+    "fragment"
+  ],
+  "author": "Placeholder McD",
+  "created_at": "2024-02-16T04:46:35+00:00",
+  "updated_at": "2024-03-11T06:25:33+00:00",
+  "rating": 0,
+  "_site": "scp-wiki",
+  "_fullname": "fragment:8000contestplaces4-0"
+}

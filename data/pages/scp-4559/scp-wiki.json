@@ -1,0 +1,16 @@
+{
+  "title": "SCP-4559",
+  "content": "[[>]]\n[[module rate]]\n[[/>]]\n**Item #:** SCP-4559\n\n**Object Class:** Thaumiel\n\n**Special Containment Procedures:** All information regarding SCP-4559 within scientific institutions and other organizations are to be removed under the guise of being incorrect information.\n\n**Description:** SCP-4559 is a probabilistic anomaly associated with the choice on whether a person wants a receipt or not within most grocery stores. In the case where there are either rules that state that the customer always receives the receipt, or in the event that the customer is given the receipt without their prior approval, SCP-4559 will not trigger. \n\nIf none of those events occur, in the event that the customer is asked if they wish to receive a receipt, the choice on whether or not the subject accepts or denies the receipt cannot be predicted. The subject's mental state, gender, or wealth will not influence the outcome, and the chance for each choice is exactly the same.\n\nCurrently, SCP-4559 is the only truly unpredictable or \"random\" phenomenon in the universe known to the Foundation. For example, quantum mechanics, weather, ocean currents, and the algorithms for standard random number generators can be meaningfully predicted, but SCP-4559 cannot be predicted in any meaningful way.\n\n**Addendum:** By order of the O5 Council, SCP-4559 has been reclassified as Thaumiel for its use in the containment of numerous anomalies that require a random number generator. The Hensworth/Alice Number Generator uses security camera footage from nearly 20,000 grocery stores within the US, which analyzes footage from the checkout aisles and uses the information generated from SCP-4559 to create a random integer. Currently, the Hensworth/Alice Number Generator is being used in the containment of 39 Safe-class anomalies, 21 Euclid-class anomalies, 8 Keter-class anomalies, and 2 Thaumiel-class anomalies.\n\n[[div class=\"footer-wikiwalk-nav\"]]\n[[=]]\n« [[[SCP-4558]]] | SCP-4559 | [[[SCP-4560]]] »\n[[/=]]\n[[/div]]\n[[include :scp-wiki:component:license-box]]\n[[include :scp-wiki:component:license-box-end]]",
+  "tags": [
+    "_licensebox",
+    "probability",
+    "scp",
+    "thaumiel"
+  ],
+  "author": "Westrin",
+  "created_at": "2019-05-06T06:52:31+00:00",
+  "updated_at": "2022-10-22T15:55:47+00:00",
+  "rating": 350,
+  "_site": "scp-wiki",
+  "_fullname": "scp-4559"
+}

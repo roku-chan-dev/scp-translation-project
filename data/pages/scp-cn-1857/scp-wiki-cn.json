@@ -1,0 +1,18 @@
+{
+  "title": "SCP-CN-1857",
+  "content": "[[include :scp-wiki-cn:component:info-ayers\n|lang=cn\n|page=scp-cn-1857\n|authorPage=darry\n|comments=**作者：**[[*user Swred]] \n图片链接： \nhttps://pixabay.com/zh/photos/bamboos-nature-plant-trees-wood-1846479/ \n]]\n[[module CSS]]\n#page-title {\n    text-align: center;\n    font-weight: lighter;\n}\n\n#page-content .collapsible-block {\n    margin: 1em 0 1em 0;\n}\n\n.bblock:hover {\n    color: white;\n}\n[[/module]]\n[[include :pokm:pep-style]]\n[[>]]\n[[module rate]]\n[[/>]]\n[[include component:image-block name=http://darry.wikidot.com/local--files/darry12/bamboos-1846479_1280%281%29.jpg|width=300px|caption=已长大的SCP-CN-1857。]]\n**项目编号：**SCP-CN-1857\n\n**项目等级：**Euclid\n\n**特殊收容措施：**已在SCP-CN-1857所处位置的周围建立防线以防止任何生物进入而导致CN-1857-H事件发生，其范围隶属于Site-CN-10。任何因项目异常性质而死的人员应依照标准安葬程序进行安葬。关于项目的实验至少要得到2名4级人员批准。\n\n**描述：**SCP-CN-1857为一种异常竹属植物，其外表与普通竹子无异。但值得注意的是项目在未被激活前外表会始终保持为竹笋（10cm~25cm），在有人类经过项目上方时项目会被激活，被激活后项目会在3秒内生长至成熟（一般为10~15节），高速摄影机显示其速度最快可达到50m/s。因项目异常性质引起的事件被编为CN-1857-H。\n\n**附录CN-1857：**特殊事件记录\n\n在2019年3月25日的一次CN-1857-H事件导致7名人员伤亡，因回收尸体过于困难，故当晚并未对其进行回收，隔天早上发现7具尸体连同杀死他们的项目全部消失，与此同时项目生长的土地变得湿润，分析结果显示土地中的液体成分与啤酒类似。\n[[footnoteblock]]\n@@@@\n[[div class=\"footer-wikiwalk-nav\"]]\n[[=]]\n<< [[[SCP-CN-1856]]] | SCP-CN-1857 | [[[SCP-CN-1858]]] >>\n[[/=]]\n[[/div]]",
+  "tags": [
+    "euclid",
+    "scp",
+    "site-cn-10",
+    "原创",
+    "敌意",
+    "植物"
+  ],
+  "author": "Swred",
+  "created_at": "2020-09-25T10:12:26+00:00",
+  "updated_at": "2020-09-25T10:15:42+00:00",
+  "rating": 32,
+  "_site": "scp-wiki-cn",
+  "_fullname": "scp-cn-1857"
+}

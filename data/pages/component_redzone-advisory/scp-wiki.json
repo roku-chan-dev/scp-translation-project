@@ -1,0 +1,14 @@
+{
+  "title": "Redzone Advisory",
+  "content": "[[include :scp-wiki:component:redzone-advisory-base\n|color=#B22\n|logo=/component:redzone-advisory/redzone3.png\n|title={$title}|title=false\n|id={$id}\n|updated={$updated}|updated=false\n|published={$published}|published=false\n|version={$version}|version=false\n|final={$final}|final=true\n|impact={$impact}\n|worknd={$worknd}|worknd=false\n|bugs={$bugs}\n|cwe={$cwe}|cwe=false\n|cve={$cve}|cve=false\n]]",
+  "tags": [
+    "_cc",
+    "component"
+  ],
+  "author": "AJMansfield",
+  "created_at": "2016-02-21T22:35:18+00:00",
+  "updated_at": "2021-10-04T03:47:39+00:00",
+  "rating": 4,
+  "_site": "scp-wiki",
+  "_fullname": "component:redzone-advisory"
+}

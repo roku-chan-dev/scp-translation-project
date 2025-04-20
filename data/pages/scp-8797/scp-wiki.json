@@ -1,0 +1,20 @@
+{
+  "title": "SCP-8797",
+  "content": "[[include info:start]]\n**SCP-8797:** The Collected Works of Alex Thorley\n**Author:** [[*user Tufto]]. This was their 2024 Art Exchange gift for [[*user syuzhet]]. More of Tufto's work can be found [[[tufto-personnel-file|here]]].\n[[include info:end]]\n\n[[module ListPages  category=\"fragment\" parent=\".\" limit=\"1\" order=\"created_at\" offset=\"@URL|0\"]]\n%%content%%\n[[/module]]\n\n[!-- https://scp-wiki.wikidot.com/fragment:scp-8797-0 --]\n[!-- https://scp-wiki.wikidot.com/fragment:scp-8797-1 --]",
+  "tags": [
+    "_listpages",
+    "alex-thorley",
+    "art-exchange",
+    "document",
+    "media",
+    "neutralized",
+    "scp",
+    "unreality-dept"
+  ],
+  "author": "Tufto",
+  "created_at": "2024-12-30T17:53:15+00:00",
+  "updated_at": "2025-01-25T15:02:08+00:00",
+  "rating": 57,
+  "_site": "scp-wiki",
+  "_fullname": "scp-8797"
+}

@@ -1,0 +1,19 @@
+{
+  "title": "SCP-1871-KO",
+  "content": "[[include :scpko:theme:black-highlighter-theme]]\n[[include :scpko:component:ratio-bar base=-- |ex=--]]\n[[include :scpko:component:toggle-sidebar-bhl]]\n[[include :scpko:component:betterfootnotes]]\n[[include :scp-wiki:component:fade-in speed=3]]\n[[include :scpko:info:start]]\n**SCP-1871-KO** - 비칸데르니드 테크니컬미디어 대 인간 by [[*user Agent S K]] [*http://scpko.wikidot.com/agent-s-k-s-personnel-file #]\n**[*http://scpko.wikidot.com/fragment:scp-1871-ko-1 오프셋 1] / [*http://scpko.wikidot.com/fragment:scp-1871-ko-2 오프셋 2] / [*http://scpko.wikidot.com/fragment:scp-1871-ko-3 오프셋 3]**\n-----\n[[include :scpko:component:ratio-bar pie=--]]\n[[include :scpko:info:end]]\n\n[[module ListPages category=\"fragment\" parent=\".\" order=\"created_at\" limit=\"1\" offset=\"@URL|0\"]]\n%%content%%\n[[/module]]\n\n[!-- http://scpko.wikidot.com/fragment:scp-1871-ko-1 --]\n[!-- http://scpko.wikidot.com/fragment:scp-1871-ko-2 --]\n[!-- http://scpko.wikidot.com/fragment:scp-1871-ko-3 --]",
+  "tags": [
+    "ko",
+    "scp",
+    "매체",
+    "무효",
+    "비칸데르니드",
+    "유클리드",
+    "정신조작"
+  ],
+  "author": "Agent S K",
+  "created_at": "2024-09-15T14:50:16+00:00",
+  "updated_at": "2024-09-29T04:35:21+00:00",
+  "rating": 14,
+  "_site": "scpko",
+  "_fullname": "scp-1871-ko"
+}

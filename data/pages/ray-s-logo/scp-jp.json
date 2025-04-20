@@ -1,0 +1,14 @@
+{
+  "title": "Dr.Rayのオブジェクトクラスアイコン集",
+  "content": "[[>]]\n[[module rate]]\n[[/>]]\n\n[[include :scp-jp:theme:black-highlighter-theme]]\n\n[[div style=\"float:left;\"]]\n[[include component:image-block\n    name=https://i.imgur.com/wloYKft.png|\n    caption=Safeクラスアイコン\n]]\n[[/div]]\n\n[[div style=\"float:left;\"]]\n[[include component:image-block\n    name=https://i.imgur.com/ul1h9Yf.png|\n    caption=Eucildクラスアイコン\n]]\n[[/div]]\n\n[[div style=\"float:left;\"]]\n[[include component:image-block\n    name=https://i.imgur.com/l6Zii3F.png|\n    caption=Keterクラスアイコン\n]]\n[[/div]]\n\n[[div style=\"float:left;\"]]\n[[include component:image-block\n    name=https://i.imgur.com/UqrK84I.png|\n    caption=Thaumielクラスアイコン\n]]\n[[/div]]\n\n[[div style=\"float:left;\"]]\n[[include component:image-block\n    name=https://i.imgur.com/D20XB6S.png|\n    caption=Explainedクラスアイコン\n]]\n[[/div]]\n\n[[div style=\"float:left;\"]]\n[[include component:image-block\n    name=https://i.imgur.com/LKG56fB.png|\n    caption=Neutralizedクラスアイコン\n]]\n[[/div]]\n\n[[div style=\"float:left;\"]]\n[[include component:image-block\n    name=https://i.imgur.com/1qpj51l.png|\n    caption=Esotericクラスアイコン\n]]\n[[/div]]",
+  "tags": [
+    "zh",
+    "アートワーク"
+  ],
+  "author": "Kasugai_Kanagu",
+  "created_at": "2019-12-14T08:19:24+00:00",
+  "updated_at": "2021-07-04T21:00:11+00:00",
+  "rating": 56,
+  "_site": "scp-jp",
+  "_fullname": "ray-s-logo"
+}

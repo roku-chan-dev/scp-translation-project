@@ -1,0 +1,17 @@
+{
+  "title": "SPC-796-JP",
+  "content": "[[include :scp-jp:theme:spc]]\n\n[[module CSS]]\n#page-content .creditRate div.page-rate-widget-box .rate-points {\n    background-color: #132639;\n    border: solid 1px #0b65c0;\n}\n.rate-box-with-credit-button .creditButton{\nbackground-color: #132639 !important;\n}\n[[/module]]\n\n[[include credit:start]]\n**タイトル:** SPC-796-JP\n**著者:** ©︎[[*user Fennecist]]\n**作成年:** 2018\n[[include credit:end]]\n\n[[div style=\"border:solid 1px #999999; background:#f2f2c2; padding:5px; margin-bottom: 10px;\"]]\n[[=]]\n++++ 中央情報管理局ならびにプロジェクト運営事務局(CICAPOCO)による通達\n\nSPC-796-JPは既に終了したプロジェクトです。現在Shark-Punching Sharkは殴打対象に指定されています。\n[[/=]]\n[[/div]] \n\n\n[[include component:image-block name=SPC796JP.jpg|\nwidth=320px|\nclear=true|\ncaption=SPC-796-JP実行中のShark-Punching Shark]]\n\n**プロジェクト番号:** SPC-796-JP\n\n**鮫科殴打ケイパビリティ:** SPC-796-JPは警戒心が強い鮫科存在への殴打に関して効果が期待されます。SPC-796-JPを上記の条件を満たす鮫科存在の生息域で実施することで、殴打エージェントの不必要な体力消耗や負傷を防止できるとされています。\n\n**プロジェクト構成:** SPC-796-JPは当プロジェクトのためセンター生物化学部門により作成されたShark-Punching Shark(シュモクザメ[//Sphyrnidae//]の改造個体)を構成要素として含みます。Shark-Punching Sharkは頭部が硬化しており、完全に退化した目の代わりに得たエコー能力で他の鮫科存在を索敵し、頭部を用いて殴打する習性を持ちます。また、Shark-Punching Sharkは殴打した鮫科存在を捕食しないため、鮫科存在の殴打のみを目的とするセンターのポリシーに抵触しません。Shark-Punching Sharkは人語を理解しエコー能力を用いて会話することができるため、スムーズにプロジェクトの実行を行うことが可能です。\n\nShark-Punching Sharkは殴打対象である鮫科存在特有の声と同様の周波数の声を発することで、警戒させることなく殴打対象へ接近することが可能です。このため、警戒心が強く、エージェントが接近するとすぐさま逃走を図る鮫科存在に対して、Shark-Punching Sharkを投入し殴打を試みることは理に適っています。\n\n**事案:** SPC-796-JPに参加している殴打エージェントが、プロジェクト実行中にShark-Punching Sharkを殴打し負傷させる事案が発生しました。この事案を基に、SPC-796-JPに参加している/していない殴打エージェント数名により、Shark-Punching Sharkを殴打対象に指定するよう訴える署名活動が行われ、███名の署名がセンター上層部へ提出されました。\n\n上層部による会議の結果、Shark-Punching Sharkを殴打対象の鮫科存在に指定することが可決されました。このためSPC-796-JPの稼働は凍結され、Shark-Punching Sharkは飼育センター-3748近隣の湾岸へ放流され、以降殴打対象として扱われることとなりました。放流直前、Shark-Punching Sharkは「何があろうとも人間を殴ることはしない、それはセンターのポリシーにも私の信条にも反している。ただ、こうなってしまった事実は受け入れられない。あなたたちを信じていたのに」と話しています。\n\n> Shark-Punching Sharkがサメ殴りセンターの重要な一員として十二分に貢献をしたことは認めなければならない。ただ、彼と我々の目指すところが同じであるとしても、彼が鮫科存在であることに変わりはなかったのである。もはや、Shark-Punching Sharkは最弱の殴打対象と成り果てた。彼が攻撃を加えることができる対象は他の鮫科存在のみであり、我々に攻撃することは彼の確固たる信条が変わらない限り、決して起こり得ることではないだろう。\n> \n> 私たちは──酷く卑怯ではあるかもしれないが──Shark-Punching Sharkを殴打しなければならなく、そこに慈悲が介入する余地があってはならない。殴打対象が嘗て共に鮫科存在を殴打した旧友であろうと、索鮫し、殴打し、粉砕せよ。- ウィルキンソン博士",
+  "tags": [
+    "_サメ殴りセンター",
+    "goi-format",
+    "jp",
+    "サメ殴りセンター",
+    "ワルコン18"
+  ],
+  "author": "Fennecist",
+  "created_at": "2018-07-31T15:42:42+00:00",
+  "updated_at": "2022-08-19T19:02:18+00:00",
+  "rating": 165,
+  "_site": "scp-jp",
+  "_fullname": "spc-796-jp"
+}

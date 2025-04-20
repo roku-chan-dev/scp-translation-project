@@ -1,0 +1,20 @@
+{
+  "title": "SCP-7404",
+  "content": "[[include :scpko:theme:broken-masquerade]]\n[[include :scpko:info:start]]\n**SCP-7404:** 황금은 영원하지 않으리.\n**저자:** [[*user UraniumEmpire]]\n**원작:** http://www.scp-wiki.net/scp-7404\n**역자:** [[*user MGPedersen]]\n\n> **파일명:** entomb.PNG\n> **원본:** File:Tomb of Pacheco.jpg\n> **저작권자:** FuriousYogi\n> **라이선스:** CC-BY-SA 4.0\n> **출처:** [https://commons.wikimedia.org/wiki/File:Tomb_of_Pacheco.jpg 위키미디어 커먼즈]\n[[include :scpko:info:end]]\n[[module CSS]]\n\n.body-text {\n    margin: 2% 13% 2% 9%;\n    padding: 5px 20px 5px 20px;\n    background-color: #f2f2f2;\n    color: #111;\n}\n\n.text4desk {\n    width: 70%;\n    margin: auto;\n}\n\n@media only screen and (max-width: 600px) {\n\n    .body-text {\n        margin: 0% 4% 0% 4%;\n    }\n\n    .text4desk {\n        width:100%;\n    }\n\n}\n\n\n[[/module]]\n[[include :scpko:component:cd-ver2\n|lv=0\n|item=SCP-7404\n|class=무효\n|site-responsible=인트라넷-1\n|director=ASE.aic\n|research-head=%CE%B8u-7404\n|assigned-task-force=N/A\n]]\n[[a href=\"*http://scpko.wikidot.com/niveaux-de-menace-des-objets-scp\" style=\"font-size: 18px; color: white; text-shadow: 1px 3px 1px rgba(0,0,0,0.3); text-decoration: none;\"]]\n[[span_ style=\"display: inline-block; width: 100%; background-color: green; text-align: center; border: 1px none #000; margin: 1px; padding-top: 8px; padding-bottom: 8px;\"]]\n**위협 등급:** 녹색\n[[/span]]\n[[/a]]\n----\n**특수 격리 절차:** SCP-7404 슬롯은 SCP-7404 매장지로 지정되어, 그에 맞춰 조성되었다. 이를 위해, SCP-7404는 대중에 기밀이 해제되었다.\n\n**설명:** SCP-7404는 아날로그와 전자 데이터베이스 시스템 간을 넘나들 수 있는 적대적 정보섭식성 독립체였다. 대상과 마주할 경우, 대상은 보통 신화상의 지옥견 그림으로 나타났다.\n\nSCP-7404는 2010년 2월 13일 대상이 USNVBR-제56기지 데이터베이스 백업본을 먹고있는 모습이 포착되면서 SCP 재단과 처음 조우했다. 그때부터 2022년 1월 4일까지, SCP-7404는 재단의 데이터 센터를 자주 노렸으며, 발각되기 전에 정보를 최대한 많이 먹어치우려 했다. 대상은 6번 격리되었으며, 매번 평균 6개월 정도 격리되었다가 탈출했다.\n\n대부분의 정보섭식 개체들과 달리, SCP-7404는 질병과 노화의 영향을 받았다. SCP-7404의 그림은 시간이 경과하면서 늙어갔고, 2021년 12월부로 그림에 대한 조사를 실시한 결과, 혈관육종[[footnote]] 혈관 내피세포에 영향을 주는 암으로, 주로 개에게 발병함. [[/footnote]]을 앓고있음이 드러났다.\n\n2022년 1월 4일, SCP-7404는 자의로 격리에 들어가면서 SCP 재단과 교신을 시작했다. SCP-7404는 자신의 상태를 인지하고 있었고, 임종 돌봄과 향후 장례에 대한 대가로 자신의 적대적 행동을 멈추는 데 동의했다. 본 제안은 2022년 1월 6일자로 승인되었다.\n\nSCP-7404는 2022년 2월 13일 사망했다. 고인의 요청에 따라, 대상은 본 파일에 매장되었다.\n----\n[[size 150%]]\n= **부록**\n[[/size]]\nSCP-7404는 상상하길, 양귀비, 꽃핀 선인장, 무화과 나무, 그리고 아가판투스로 무성한 정원에 있는 자신의 무덤을 떠올린다. 정원에 나비와 꿀벌들로 가득하고, 작은 새들이 나무 위에 앉아 모여있는 모두에게 흥겹게 노래를 불러주는 상상을 한다. 정원을 가로질러 비단잉어와 소금쟁이가 자유로이 헤엄치는 작은 연못이 나있다.\n\n이 정원에는 벤치와 산책로가 있는데, 방문객들이 쉬어갈 수 있는 한편, 정원의 자연미를 침범하진 않는다. 방문객들은 이 한적한 평화를 방해하지만 않는다면 언제든 환영이다.\n\n정원의 한가운데에는 내부에서 잠긴 무덤이 하나 서있다. 방문객들은 무덤의 문에 달린 철창 사이로 누워있는 신원미상의 남성 곁에 SCP-7404의 석상이 앉아있는 형태의 관을 보거나, 무덤의 사면에 양각된 시를 볼 수 있다.\n[[div class=\"body-text\"]]\n[[=]]\n//자연의 첫째 가는 초록은 황금,//\n//제일로 간직하기 어려운 색깔.//\n//자연의 여린 잎은 꽃잎,//\n//하지만 피는 건 단 한 시간.//\n//그리고 잎은 잎으로 내려앉지.//\n//이렇듯 에덴은 슬픔에 잠기고,//\n//이렇듯 새벽은 낮으로 가라앉네.//\n//황금은 영원하지 않으리.//\n\n//Nature’s first green is gold,//\n//Her hardest hue to hold.//\n//Her early leaf’s a flower;//\n//But only so an hour.//\n//Then leaf subsides to leaf.//\n//So Eden sank to grief,//\n//So dawn goes down to day.//\n//Nothing gold can stay.//\n[[/=]]\n[[/div]]\n[[div class=\"scp-image-block block-center\" style=\"width:100%;\"]]\n[[image entomb.png style=\"width:100%;\" link=#]]\n[[div class=\"scp-image-caption\" style=\"width:100%;\"]]\nSCP-7404는 파시쿠의 무덤(Tomb of Pacheco)을 묘비의 모델로 삼았다. 그 의미에 대해 묻자, SCP-7404는 답변을 거부했다.\n[[/div]]\n[[/div]]",
+  "tags": [
+    "en",
+    "scp",
+    "개",
+    "무효",
+    "부서진-가장무도회",
+    "온라인",
+    "적대적",
+    "지성"
+  ],
+  "author": "MGPedersen",
+  "created_at": "2023-05-06T14:57:33+00:00",
+  "updated_at": "2025-02-05T19:32:09+00:00",
+  "rating": 6,
+  "_site": "scpko",
+  "_fullname": "scp-7404"
+}

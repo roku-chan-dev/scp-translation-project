@@ -1,0 +1,14 @@
+{
+  "title": "Tachyonの著者ページ",
+  "content": "[[=]]\n+ Tachyonによって表出した文字列\n+++ SCPs\n[[module ListPages created_by=\"Tachyon\" separate=\"no\" tags=\"+scp +jp\" order=\"created\" category=\"*\" prependLine=\"||~ Title ||~ Rating ||~ Comments ||~ Created ||~ Last Comment ||\"]]\n|| %%title_linked%% || %%rating%% || %%comments%% || %%created_at%% || %%commented_at%% ||\n[[/module]]\n+++ Tales\n[[module ListPages created_by=\"Tachyon\" separate=\"no\" tags=\"tale +jp\" order=\"created\" category=\"*\" prependLine=\"||~ Title ||~ Rating ||~ Comments ||~ Created ||~ Last Comment ||\"]]\n|| %%title_linked%% || %%rating%% || %%comments%% || %%created_at%% || %%commented_at%% ||\n[[/module]]\n+++ Translations-EN\n[[module ListPages created_by=\"Tachyon\" separate=\"no\" tags=\"scp tale +en\" order=\"created\" category=\"*\" prependLine=\"||~ Title ||~ Rating ||~ Comments ||~ Created ||~ Last Comment ||\"]]\n|| %%title_linked%% || %%rating%% || %%comments%% || %%created_at%% || %%commented_at%% ||\n[[/module]]\n+++ Others\n[[module ListPages created_by=\"Tachyon\" separate=\"no\" tags=\"-scp -tale\" order=\"created\" category=\"*\" prependLine=\"||~ Title ||~ Rating ||~ Comments ||~ Created ||~ Last Comment ||\"]]\n|| %%title_linked%% || %%rating%% || %%comments%% || %%created_at%% || %%commented_at%% ||\n[[/module]]\n[[/=]]\n\n@@@@\n@@@@\n@@@@\n@@@@\n\n[[tabview]]\n\n[[tab 独り言]]\n以降の記述は入念な取材のもと作成されたものですが、真実であるという保証は致しかねます。ご了承ください。\n[[/tab]]\n[[tab 何者]]\n[[*user tachyon]]。タキオンと読む。ターチョンでもタイホンでもない。Twitterでも生息が確認されている。\nどうぞよろしく。\n棍棒は好き。ストーリーも好き。悲劇も喜劇も怪談もジョークも感動も胸糞も。特に地雷ジャンルはない。はず。\nvote勢として参加したはずが、結局チマチマと書いたりしている。\n書きたいものを、書きたくなったら書く。のんびり行こうぜ。\n[[/tab]]\n[[tab 著作(と、翻訳物のダイマ)]]\n工事中\n[[/tab]]\n\n[[/tabview]]\n\n[[tabview]]\n[[tab 人事ファイルDB]]\nファイルを選択してください。\n現在、 **0** 件のファイルが登録されています。 \n[[/tab]]\n[[/tabview]]\n\n[[footnoteblock]]",
+  "tags": [
+    "jp",
+    "著者ページ"
+  ],
+  "author": "Tachyon",
+  "created_at": "2020-07-05T06:32:58+00:00",
+  "updated_at": "2021-01-10T18:28:48+00:00",
+  "rating": 0,
+  "_site": "scp-jp",
+  "_fullname": "author:tachyon"
+}

@@ -1,0 +1,16 @@
+{
+  "title": "SCP-3844",
+  "content": "[!-- 随意编辑这个页面的内容可能造成文档迭代系统的彻底崩溃。请绝对不要编辑这个页面。 --]\n[!-- 如果您在阅读过程中发现需要勘误或修改之处，请用站内信与译者（LeafJensen）联系。 --]\n\n[[module ListPages category=\"fragment\" parent=\".\" limit=\"1\" order=\"name\" offset=\"@URL|0\"]]\n\n%%content%%\n[[/module]]\n\n[!-- 每个迭代的页面地址如下 --]\n[!-- http://scp-wiki-cn.wikidot.com/fragment:scp-3844-1/noredirect/true --]\n[!-- http://scp-wiki-cn.wikidot.com/fragment:scp-3844-2/noredirect/true --]\n[!-- http://scp-wiki-cn.wikidot.com/fragment:scp-3844-3/noredirect/true --]\n[!-- http://scp-wiki-cn.wikidot.com/fragment:scp-3844-4/noredirect/true --]\n[!-- http://scp-wiki-cn.wikidot.com/fragment:scp-3844-5/noredirect/true --]\n[!-- 建立 ListPages 文档迭代系统时，应先建立这个主页面。随后依次建立子页面，并将每个子页面的父页面设为此主页面。 --]\n\n[[footnoteblock]]\n\n[[div class=\"footer-wikiwalk-nav\"]]\n[[=]]\n<< [[[SCP-3843]]] | SCP-3844 | [[[SCP-3845]]] >>\n[[/=]]\n[[/div]]\n\n[[include :scp-wiki-cn:component:license-box author=Captain Kirby]]\n[[include :scp-wiki-cn:component:license-box-end]]",
+  "tags": [
+    "scp",
+    "无效化",
+    "智能",
+    "爬行类动物"
+  ],
+  "author": "LeafJensen",
+  "created_at": "2018-09-08T00:44:55+00:00",
+  "updated_at": "2024-11-16T06:03:04+00:00",
+  "rating": 91,
+  "_site": "scp-wiki-cn",
+  "_fullname": "scp-3844"
+}

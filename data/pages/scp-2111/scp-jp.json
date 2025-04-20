@@ -1,0 +1,25 @@
+{
+  "title": "SCP-2111",
+  "content": "[!-- 文法的誤りなどを修正される場合は、個別ページ:URL\"http://ja.scp-wiki.net/scp-2111-*\" - \"*\" は 1-5の数字です (the warning page は 1, RED TALISMAN は 2... READ THIS は 5) - にアクセスしてください。注意(原文ママ): \"Mnestics\" is not a typo, it is the opposite of amnestics.--]\n[[>]]\n[[module Rate]]\n[[/>]]\n[[module ListPages category=\"fragment\" parent=\".\" limit=\"1\" order=\"created_at\" offset=\"@URL|0\"]]\n%%content%%\n[[/module]]\n\n[4.63%] ls -la\n@@-rwx2r--- MEME 2/2111 18 KB Jul 14 2015@@ [[[http://ja.scp-wiki.net/scp-2111/offset/1|SCP-2111(RED TALISMAN)]]]\n@@-rwx2r--- AMEM 2/2111 20 KB Jan 17 2015@@ [[[http://ja.scp-wiki.net/scp-2111/offset/2|SCP-2111(RIDDEN TONGUE)]]]\n@@-rwx2r--- CCON 2/2111 21 KB Aug 13 2015@@ [[[http://ja.scp-wiki.net/scp-2111/offset/3|SCP-2111(REVENANT THEORY)]]]\n@@-rwx2r--- OZER 2/2111 21 KB Nov 1 2015@@ [[[http://ja.scp-wiki.net/scp-2111/offset/4| SCP-2111(READ THIS)]]]\n@@drwx3RTrwx--- MEME 3/2111/RT 10 GB Nov 1 2015@@  scp-2111.datafiles.warningcoghaz\n\n[4.63%] [[[http://ja.scp-wiki.net/scp-2111/offset/0|cd..]]]\n\n[[footnoteblock]]\n\n[[=]]\n,,**<<** ##blue|SCP-2111## | [[[In the Trenches with the Dead|彼方の塹壕にて]]] **>>**,,\n[[/=]]",
+  "tags": [
+    "en",
+    "neutralized",
+    "scp",
+    "ミーム",
+    "メタ",
+    "反ミーム",
+    "反ミーム部門",
+    "死後",
+    "聴覚",
+    "視覚",
+    "認識災害",
+    "財団製",
+    "霊体"
+  ],
+  "author": "m0ch12uk1",
+  "created_at": "2014-05-18T10:47:22+00:00",
+  "updated_at": "2025-01-23T01:27:41+00:00",
+  "rating": 121,
+  "_site": "scp-jp",
+  "_fullname": "scp-2111"
+}

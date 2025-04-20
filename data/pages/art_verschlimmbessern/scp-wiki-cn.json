@@ -1,0 +1,16 @@
+{
+  "title": "Verschlimmbessern",
+  "content": "[[include :scp-wiki-cn:theme:basalt darkmode=a|centertitle=a]]\n[[module css]]\n:root:lang(cn) {\n     --header-title: \"    \";\n     --header-subtitle: \"    \";\n    --basalt-primary-color: 0, 0, 0;\n}\n[[/module]]\n\n\n[[include :scp-wiki-cn:credit:start-standalone]]\n[[=]]\nVerschlimmbessern(德）— 弄巧成拙/因善意的行动而使事情变得更糟。\n[[/=]]\n[[include :scp-wiki-cn:credit:end-standalone]]\n@@ @@\n[[div class=\"scp-image-block block-center\" style=\"width:80%;\"]]\n[[=image http://scpsandboxcn.wikidot.com/local--files/jerryxu02292/IMG_2709.png width=\"100%\" link=\"*https://scp-wiki-cn.wikidot.com/admonition\"]]\n[[/div]]",
+  "tags": [
+    "mcdoctorate博士",
+    "人员艺作",
+    "艺术作品",
+    "颜料画"
+  ],
+  "author": "Azure_Karmotrine",
+  "created_at": "2024-06-11T19:48:30+00:00",
+  "updated_at": "2024-06-12T14:50:28+00:00",
+  "rating": 6,
+  "_site": "scp-wiki-cn",
+  "_fullname": "art:verschlimmbessern"
+}

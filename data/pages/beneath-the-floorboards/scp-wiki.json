@@ -1,0 +1,15 @@
+{
+  "title": "Beneath the Floorboards...",
+  "content": "=====\n[[include component:preview\ntext=\nHello! My name is Roxy, and sometimes you'll see my alter Shuck here and there. We're very excited to be here. Thank you for your interest in our work, we hope you enjoy.\n]]\n=====\n\n[[div style=\"display: none;\"]]\n[[include :scp-wiki:theme:flopstyle]]\n[[/div]]\n\n[[include :scp-wiki:theme:night-rush-theme]]\n\n[[include :scp-wiki:theme:scp-trans-pride |trans-pride-logo= --]]]\n\n[[module css]]\n.footnotes-footer {\ndisplay:none;\n}\n[[/module]]\n\n[[=]]\n[[module Rate]]\n[[/=]]\n\n> **WARNING!** The following material no longer contains narrativohazardous properties. It has been reduced, reused, and recycled following reality injection, and is now inoculated. However, please proceed with caution when interacting with cross-dimensional materials.\n\n[[=]]\n\n{{.}}\n{{.}}\n{{.}}\n{{.}}\n{{.}}\n{{.}}\n{{.}}\n{{.}}\n{{.}}\n{{.}}\n{{.}}\n{{.}}\n{{.}}\n{{.}}\n{{.}}\n{{.}}\n\n**//ACCESSING FLOORBOARDS.aic...//**\n\n[[=image Untitled51_20220618163306_prev_ui.png size=900]]\n\n**//WELCOME BACK.//**\n\n{{.}}\n{{.}}\n{{.}}\n{{.}}\n{{.}}\n{{.}}\n{{.}}\n{{.}}\n{{.}}\n{{.}}\n{{.}}\n{{.}}\n{{.}}\n{{.}}\n{{.}}\n{{.}}\n\n[[/=]]\n\n[[module ListPages created_by=\"FLOORBOARDS\" coauthored by=\"FLOORBOARDS\" order=\"created_at\" separate=\"no\" perPage=\"250\"  prependLine=\"||~ Page Name ||~ Rating ||~ Comments ||~ Last Comment ||~ Created ||~ Last Edited ||\"]]\n|| %%title_linked%% || %%rating%% || %%comments%% || %%commented_at%% || %%created_at%% || %%updated_at%% ||\n[[/module]]\n\nHi there, we're [[*user FLOORBOARDS]], recovering New Weird junkie and aspiring professional writer. Our biggest influences are H.P. Lovecraft, Kurt Vonnegut, David Lynch, and Wes Anderson. We hope you've enjoyed the articles we've written for this site! If so, you can also support us either through our [*https://roxanne-wormwood.bandcamp.com Bandcamp] or our [https://ko-fi.com/roxannewormwood Ko-Fi].\n\nFor my author will: In the event you don't hear from me in 3 years, please direct any requests to edit or move my pages towards [[*user TealQuacks]]. \n\nFinally, please check out the writings of [https://scp-wiki.wikidot.com/natalie-watts NatVoltaic], [https://scp-wiki.wikidot.com/floppyphoenix Lt. Flops], [https://scp-wiki.wikidot.com/liryn Liryn], and [https://scp-wiki.wikidot.com/uraniumempire UraniumEmpire], in no particular order, who are amazing authors with similar styles to mine.\n\nThank you <3\n\n[[=]]\n[[include :scp-wiki:component:license-box]]\n=====\n> **Filename:** Untitled51_20220618163306_prev_ui.png\n> **Author:** [[*user FLOORBOARDS]]\n> **License:** CC-BY-SA\n> **Source Link:** https://scp-wiki.wdfiles.com/local--files/beneath-the-floorboards/Untitled51_20220618163306_prev_ui.png\n=====\n[[include :scp-wiki:component:license-box-end]]\n[[/=]]",
+  "tags": [
+    "_cc",
+    "_licensebox",
+    "author"
+  ],
+  "author": "FLOORBOARDS",
+  "created_at": "2022-06-05T04:17:35+00:00",
+  "updated_at": "2024-07-01T02:16:13+00:00",
+  "rating": 69,
+  "_site": "scp-wiki",
+  "_fullname": "beneath-the-floorboards"
+}

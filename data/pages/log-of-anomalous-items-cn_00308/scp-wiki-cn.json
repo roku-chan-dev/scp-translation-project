@@ -1,0 +1,11 @@
+{
+  "title": "00308",
+  "content": "content: \"**项目描述：**一个水杯，任何使用其饮用液体的生物在液体饮用完毕后均会将其吸在嘴上。\\n**回收日期：**20██/██/██\\n**回收地点：**Dr.阙的家中\\n**当前状态：**在一次抢救中被拆解，重新组装后项目失去异常。\\n**笔记：**[[collapsible show=\\\" \\\" hide=\\\"真相\\\" ]]Dr.阙把它吸到嘴上拿不下来了，你真该看看他那紫色的嘴唇......哈ha\\n[[module ListUsers users=\\\".\\\"]]\\n老子说了，这不让看！%%title%%，请等待你的降职处罚。{{[[span style=\\\"color:red\\\"]]=）[[/span]]}}——Dr.阙\\n[[/module]]\\n[[/collapsible]]\\n[[collapsible show=\\\"这不是你该看的\\\" hide=\\\"这不是你该看的\\\" ]]\\n{{[[span style=\\\"color:white\\\"]]老子就是要看，真正的文档就在上面[[/span]]}}\\n[[module ListUsers users=\\\".\\\"]]\\n%%title%%，你为什么还在看文档？滚去工作！——Dr.阙\\n[[/module]]\\n[[/collapsible]]\"",
+  "tags": [],
+  "author": "Screen Coffee Pen",
+  "created_at": "2020-07-08T02:38:35+00:00",
+  "updated_at": "2020-07-24T10:22:21+00:00",
+  "rating": 47,
+  "_site": "scp-wiki-cn",
+  "_fullname": "log-of-anomalous-items-cn:00308"
+}

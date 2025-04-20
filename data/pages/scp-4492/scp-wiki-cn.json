@@ -1,0 +1,17 @@
+{
+  "title": "SCP-4492",
+  "content": "[[module CSS]]\n\n/* DIV BLOCKS stolen from floppypheonix uwu */\n.quote-block{\n    border: 2px double #999;\n    background-color: #f4f4f4;\n    padding: .25em 1em;\n    margin-bottom: 1em;\n}\n.report-box{\n    border: 2px solid rgb(12, 12, 12);\n    background-color: white;\n    padding: .25em 1em;\n    margin-bottom: 1em;\n}\n\n[[/module]]\n\n[[include component:image-block name=http://scp-wiki.wdfiles.com/local--files/scp-4492/toilet.jpg|caption=SCP-4492在4492-LEITHRIS事件中]]\n\n**项目编号：**SCP-4492\n\n**项目等级：**Safe\n\n**特殊收容措施：**SCP-4492收容于标准项目存储锁柜内。\n\n**描述：**SCP-4492是一把蓝色折叠伞。当一名人员将SCP-4492浸入坐便器，该人将经历一次4492-LEITHRIS事件。\n\n在4492-LEITHRIS事件中，该人员的直肠与膀胱将被完全清空。被清除的粪便和尿液会显现在SCP-4492上方一千米处。在坠落过程中，排泄物会散落到半径约十千米的范围内。之后SCP-4492会从坐便器内消失，重新出现在该人的手中。\n\n\n**附录：**\n\n[[div class=\"report-box\"]]\n[[=]]\n+++ 发现\n[[/=]]\n[[div style=\"border-bottom: 1px solid black;\"]]\n[[/div]]\nSCP-4492被发现于威斯康辛州艾利瓦，当时有大量报告投诉称当地“日景住房”地产附近出现刺鼻恶臭。简短调查后，房主Emma Tannen被基金会拘留，已知其为GoI-333“怪奇邮报”的雇员，在其住所内找到了SCP-4492。\n\n对SCP-4492的性质展开初步测试后，Dr. Noah Addams对Emma Tannen展开采访。采访后，Emma Tannen被记忆删除并释放。\n[[div class=\"quote-block\"]]\n[[=]]\n**<开始记录>**\n[[/=]]\n\n**Dr. Noah Addams：**所以，Tannen小姐，能和我稍微聊聊你这把伞吗？\n\n**Emma Tannen：**上帝，我可以和你聊好多好多事。但具体一点说：我出去的越早，回家就越早。\n\n**Dr. Addams：**那也行...创造它的目的是什么？\n\n//Tannen靠在椅子上，笑了一会儿。//\n\n**Tannen：**Okay好啊，系好安全带，这是个长篇故事。所以，我是怪奇邮报的记者。你们很清楚我们的底细，对吧？\n\n//Dr. Addams点头。//\n\n**Tannen：**很好，很好。行吧，我们的老大，嗯，“大佬”，无处没有眼线。所以他才能搞来这么多奇趣故事把公司众筹起来。但最近他...有点抽风。他正在积极打击职场做戏，这是好事，但他对上厕所休息真是很怪。有个说法还是段子什么，是这样讲的：“老板挣一块，我挣一分，所以我要拉屎，拉在上班时间。”好了，他开始对敢这么做的人彻底抓狂了。这时候有人就开始想：要是他连厕所也要监视呢？监视我们拉屎拉尿还有—\n\n**Dr. Addams：**不需要这么粗俗，Tannen小姐。\n\n//Tannen盯住Dr. Addams。//\n\n**Tannen：**就—唉，让我讲完故事好吧。总之，所有人都在担心我们进厕所的时候他也在窥视。想到有人监控我擦屁股，这可不太愉快，所以我就做了这把伞。这么一来，我甚至都不用坐到马桶上去了！我简直是个天才，嗯？\n\n**Dr. Addams：**你知不知道我们发现你的原因是你家周围有“刺鼻的粪臭”？\n\n//Tannen突然皱眉，然后摇头。//\n\n**Tannen：**我，呃，大概是在家里用的稍微太过了些...我要说，它太方便了！我不用卖厕纸可是省了一大笔钱。\n\n**Dr. Addams：**好。那么...我们还有个问题。为什么是把伞？\n\n//Tannen的脸一瞬间陷入困惑。//\n\n**Tannen：**好吧，呃，为什么不能是把伞？以及，嗯...我操，对了—如果我要在去了厕所之后出家门，我可不想被自己的排泄物淋一身。\n\n//数秒沉默。//\n\n**Tannen：**顺便，这都是瞎说的。\n\n**Dr. Addams：**我能分辨，Tannen小姐。感谢你的配合。\n\n[[=]]\n**<记录结束>**\n[[/=]]\n[[/div]]\n[[/div]]\n\n[[footnoteblock]]\n\n[[div class=\"footer-wikiwalk-nav\"]]\n[[=]]\n<< [[[SCP-4491]]] | SCP-4492 | [[[SCP-4493]]] >>\n[[/=]]\n[[/div]]",
+  "tags": [
+    "safe",
+    "scp",
+    "人造物品",
+    "传送",
+    "气象"
+  ],
+  "author": "ashausesall",
+  "created_at": "2019-12-18T04:52:03+00:00",
+  "updated_at": "2019-12-18T06:15:02+00:00",
+  "rating": 2,
+  "_site": "scp-wiki-cn",
+  "_fullname": "scp-4492"
+}

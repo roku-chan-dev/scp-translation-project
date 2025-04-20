@@ -1,0 +1,21 @@
+{
+  "title": "SCP-CN-2000",
+  "content": "[[include :scp-jp:theme:black-highlighter-theme]]\n[[include :scp-jp:theme:ouroborous-theme]]\n[[module css]]\n\n:root {\n  --header-title: \"THE FOUNDATION\";\n  --header-subtitle: \"監督者の事務室\";\n}\n\n[[/module]]\n[[include :scp-jp:info:start]]\n翻訳責任者: [[*user fish_paste_slice]]\n翻訳年: 19 Jun 2021\t\n著作権者: [[*user Re_spectators]]\t\n原題: SCP-CN-2000 - 混沌理论\n作成年: 17 Feb 2021\t\t\n初訳時参照リビジョン: 11 Jun 2021\t\n元記事リンク: https://scp-wiki-cn.wikidot.com/scp-cn-2000\n[[include :scp-jp:info:end]]\n[[module ListPages category=\"fragment\" parent=\".\" limit=\"1\" order=\"name\" offset=\"@URL|0\"]]\n\n%%content%%\n[[/module]]\n\n[!--\n各ページを編集する場合は、下記のリンクから行ってください\nhttp://ja.scp-wiki.net/fragment:scp-cn-2000-01\nhttp://ja.scp-wiki.net/fragment:scp-cn-2000-02\nhttp://ja.scp-wiki.net/fragment:scp-cn-2000-03\nhttp://ja.scp-wiki.net/fragment:scp-cn-2000-04\nhttp://ja.scp-wiki.net/fragment:scp-cn-2000-05\nhttp://ja.scp-wiki.net/fragment:scp-cn-2000-06\n--]\n\n[[footnoteblock]]",
+  "tags": [
+    "cn",
+    "cn2000",
+    "esoteric-class",
+    "scp",
+    "アイディタ計画",
+    "カオス・インサージェンシー",
+    "強制力",
+    "歴史",
+    "注目記事"
+  ],
+  "author": "fish_paste_slice",
+  "created_at": "2021-06-19T14:23:31+00:00",
+  "updated_at": "2024-07-05T07:25:52+00:00",
+  "rating": 178,
+  "_site": "scp-jp",
+  "_fullname": "scp-cn-2000"
+}

@@ -1,0 +1,13 @@
+{
+  "title": "Scp 8204 - 'Gabriel'",
+  "content": "[[>]]\n[[module Rate]]\n[[/>]]\n\n**Item #:** SCP-8204\n\n**Object Class:** Safe\n\n**Special Containment Procedures:** N/A.\n\n**Description:** SCP-8204 is an ordinary gaming laptop, made by a brand that seemingly does not exist. It is relatively modern in appearance, and has no visible way to access its components, as it lacks screws, latches or other mechanisms. It runs an unusually old OS, upon which it has only two applications - Internet Explorer, and an EXE file with the name 'Gabriel'. The browser is non-functional.\n\nRunning the EXE opens a window displaying the figure of a winged humanoid entity, presumably male, with appearance suggesting 35 in human years. The entity is as of now unresponsive to most activity on the computer, but will occasionally react to activity on the computer such as tabs opening or closing, and files being deleted or downloaded. It has been observed reacting negatively to deleted files, ranging from seeming injured to seeming angry depending on the file. It will also auto-delete any viruses attempting to be uploaded.\n\nThe laptop itself runs fine otherwise, and itself is harmless. It can even be used as a regular laptop, presuming files can be put on the computer without the browser. Further testing will be carried out on the entity's reactivity.\n\n[[footnoteblock]]\n\n[[div class=\"footer-wikiwalk-nav\"]]\n[[=]]\n<< [[[SCP-8203]]] | SCP-8204 | [[[SCP-8205]]] >>\n[[/=]]\n[[/div]]",
+  "tags": [
+    "deletion-range"
+  ],
+  "author": null,
+  "created_at": "2025-04-02T01:42:45+00:00",
+  "updated_at": "2025-04-02T11:38:48+00:00",
+  "rating": -13,
+  "_site": "scp-wiki",
+  "_fullname": "scp-8204"
+}

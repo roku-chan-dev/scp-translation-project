@@ -1,0 +1,14 @@
+{
+  "title": "8000contestplaces4 Fragment 0: Default Intro",
+  "content": "[!--\n    このページはSCP-8888のオフセット1のCSSコードと内容を読み込むためのものです。\n    ここはDefaultページのため、ダークモードのBasaltをインクルードし、SCP-8888の親ページにホストされているデフォルトCSSコードをインポートします。\n    ここはIntroページのため、Intro Contentフラグメント（8000contestplaces4-4）をインクルードします。\n    \n    ===\n\n    Basalt Darkmodeのインクルード\n--]\n\n[[include :scp-wiki:theme:basalt\n|darkmode=a\n|wide=a\n|hidetitle=a]]\n\n\n[!-- デフォルトCSSのスタイルをインポート --]\n\n[[module css]]\n@import url(http://scp-jp.wikidot.com/local--code/scp-8888/2);\n\n:root {\n  --backdrop: url(http://scp-jp-storage.wdfiles.com/local--files/file%3A6370408-474-igl9/wowee.png);\n}\n\n#page-content .introonly {\n  display: block !important;\n}\n[[/module]]\n\n\n[!-- Intro Contentをインクルード --]\n\n[[include fragment:8000contestplaces4-4]]",
+  "tags": [
+    "en",
+    "フラグメント"
+  ],
+  "author": "Witherite",
+  "created_at": "2024-12-30T12:30:07+00:00",
+  "updated_at": "2024-12-30T12:33:46+00:00",
+  "rating": 0,
+  "_site": "scp-jp",
+  "_fullname": "fragment:8000contestplaces4-0"
+}

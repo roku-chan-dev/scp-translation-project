@@ -1,0 +1,13 @@
+{
+  "title": "人类文化浅谈",
+  "content": "[[include :scp-wiki-cn:theme:basalt hidetitle=a]]\n[[include :scp-wiki-cn:theme:turbo-vision blocks=-]]\n\n[[module css]]\n:root {\n  --logo: url(https://scp-wiki.wdfiles.com/local--files/secure-facility-dossier-site-58/58logo.png);\n  --title: \"SITE-58：\";\n  --subtitle: \"弥合我们之间的鸿沟\";\n}\n.email-example .collapsible-block-folded a.collapsible-block-link {\n    animation: blink 0.8s ease-in-out infinite alternate;\n}\n@keyframes blink {\n    0% { color: transparent; }\n    50%, 100% { color: #b01; }\n}\n.email {border: solid 2px #000000; width: 88%; padding: 1px 15px; margin: 10px; box-shadow: 0 1px 3px rgba(0,0,0,.5)}\n.email-example a.collapsible-block-link {font-weight: bold;}\n.tofrom {margin-left: 10px; margin-top: 5px; padding: 1px 15px; border-left: solid 3px maroon}\n[[/module]]\n\n平日里，我沿着站点大厅走过，耳畔总能传来不同的人们对我们所关注异常的讨论，那种感觉是多么熟悉。那些物种和野兽点燃了想象之火，令人们忆起成长过程中那些耳熟能详的故事。的确如此，基金会关照下的相当一部分异常为普罗大众所熟知，在民间传说与传奇故事中占有一席之地。这就出现了一个问题：为什么？为什么老百姓能够确知这些生物的存在？它们皆为异常，与自然法则背道而驰，应务必将其隐藏，再不可流传于世。若基金会有能力将这些实体从公众心灵中有力地抹去，何故没有这样做？\n\nWebster将“文化”定义为“某一国家，民族或其他社会群体的习俗、艺术、社会制度及功绩。”文化是我们生而为人的本质，它对每个人都独一无二。它诞生自你的成长经历——你来自何方，你如何长大，你在生活中经历的一切，都将塑造你个人的文化与身份。反之，你的文化及身份也将影响你身边的人。文化造就了我们人类对待他人及世界的统一标准。它孕育了我们的信仰、习俗、认知、及诸多方面。\n\n那么，这与异常又有何相干呢？\n\n同样的，如果你浏览我们的文档，将会看到熟悉的名字和描述。从南美洲的食人树到中国的龙，它们都是世界各地不同国家的文化符号。而事实上，几乎每一篇神话故事中的异兽都真实存在，或某一时刻真实存在过。我们的故事源于现实所在，那么公众为何要保留它们？\n\n文化包罗万象，每一种生物都在我们的文化中扮演者重要的角色。众所周知，自人类学会如何相互交流，他们就一刻不停地编织与周遭世界相关联的故事。雷声隆隆，在他们脑海中是一位狂暴的神；眼睛发红的野兽，在他们眼里是一头骇人之物。这些故事铸造了认知，并成为道德与教化的材料。\n\n回答我一直听到的那个问题吧，“我们为什么不直接将它们从公众的记忆中抹去？”很简单——一旦这样做，我们便会从根本上失去身为人类的一部分。我们将会失去铸就人类自身的那些故事，是它们帮助我们理解了大千世界。我们的文化，我们的身份，都将天翻地覆。这些故事在我们心中激起了敬畏与恐惧，因此，只要我们还作为人类存在，便无法将之抛去。\n\n更何况，让这个世界稍稍迷人一些，不是更好么？\n\n//~Dr. Faran Caraway//\n\n[[include :scp-wiki-cn:component:license-box\n|author=OriTiefling]]\n[!-- N/A (No Images)  --]\n[[include :scp-wiki-cn:component:license-box-end]]",
+  "tags": [
+    "故事"
+  ],
+  "author": "Hg-lab",
+  "created_at": "2021-10-06T04:12:04+00:00",
+  "updated_at": "2024-08-02T13:40:00+00:00",
+  "rating": 8,
+  "_site": "scp-wiki-cn",
+  "_fullname": "a-brief-essay-on-human-culture"
+}

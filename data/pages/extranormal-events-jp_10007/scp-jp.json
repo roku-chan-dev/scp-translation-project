@@ -1,0 +1,14 @@
+{
+  "title": "10007",
+  "content": "overview: 財団のエージェント████が大阪の████駅地下街を歩いていたところ、ふと気が付くと東京の████駅地下街に移動していました。\nswdate: '1'\ndate: ████年██月██日\nswplace: '1'\nplace: 大阪、JR████駅地下街　東京、JR████駅地下街\nswchaseprocedure: '1'\nchaseprocedure: エージェント████の装備していたGPS追跡装置も、彼が大阪東京間を数秒で移動していたことを証明しています。現在出発地点と到着地点最寄りの地下街のテナントには財団のダミー店舗が入り、観察を続けています。\nswaddendum: '0'\naddendum: ''\ntf2: '1'\nauthor: broken_bone\nredirect-b: '[[module Redirect destination=\"/log-of-extranormal-events-jp'\nredirect-e: '\"]]'",
+  "tags": [
+    "jp",
+    "剪定対象-子"
+  ],
+  "author": "machikawa",
+  "created_at": "2020-07-22T12:03:51+00:00",
+  "updated_at": "2021-05-24T13:20:39+00:00",
+  "rating": 15,
+  "_site": "scp-jp",
+  "_fullname": "extranormal-events-jp:10007"
+}

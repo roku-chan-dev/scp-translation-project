@@ -1,0 +1,27 @@
+{
+  "title": "SCP-5813",
+  "content": "[[>]]\n[[module Rate]]\n[[/>]]\n[[div style=\"text-align: right; margin-top: -20px;\"]]\n[[size 80%]]##757575|by J Dune##[[/size]]\n[[/div]]\n[[module ListPages category=\"fragment\" parent=\".\" order=\"created_at\" limit=\"1\" offset=\"@URL|0\"]]\n%%content%%\n[[/module]]\n\n[[footnoteblock]]\n\n[!--\nDirect Links to Offsets\nhttp://scp-jp.wikidot.com/fragment:scp-5813-1\nhttp://scp-jp.wikidot.com/fragment:scp-5813-2\n--]",
+  "tags": [
+    "asci",
+    "en",
+    "keter",
+    "mister",
+    "neutralized",
+    "scp",
+    "ティロ・ツウィスト",
+    "ワンダーテインメント博士",
+    "人間型",
+    "共著",
+    "政治家",
+    "歴史",
+    "生命",
+    "知性",
+    "語り"
+  ],
+  "author": "C-Dives",
+  "created_at": "2021-11-21T05:03:12+00:00",
+  "updated_at": "2024-02-21T12:27:42+00:00",
+  "rating": 20,
+  "_site": "scp-jp",
+  "_fullname": "scp-5813"
+}

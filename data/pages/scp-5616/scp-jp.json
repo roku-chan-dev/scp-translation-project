@@ -1,0 +1,24 @@
+{
+  "title": "SCP-5616",
+  "content": "[[include :scp-jp:theme:blankstyle acs=a]]\n\n[[module CSS]]\n:root {\n    --timeDelay: 0.5s;\n}\n[[/module]]\n\n[[module CSS]]\n/* anendlessusername's invaluable correction of the ACS octagon! */\n#page-content .quadrants > div {\n    top: 2.25%;\n    left: 18.5%;\n}\n[[/module]]\n\n\n[!--\nFragments:\nhttp://scp-jp.wikidot.com/fragment:scp-5616-offset-0\nhttp://scp-jp.wikidot.com/fragment:scp-5616-offset-1\n--]\n\n[[module ListPages category=\"fragment\" parent=\".\" order=\"created_at\" limit=\"1\" offset=\"@URL|0\"]]\n%%content%%\n[[/module]]\n----\n[[div]]\n[[=]]\n<< **[[[the-lamest-story-never-told |かつて語られたことのない、世にもつまらない物語]]]** | **[/on-guard-43-hub 力と毒の言葉]** | **[[[scp-5056-audio-transcripts |SCP-5056音声転写]]]** >>\n[[/=]]\n[[/div]]\n\n[[div]]\n[[=]]\n[[include :scp-wiki:component:license-box\n|author=HarryBlank]]\n=====\n[[<]]\n> **Filename:** 5516.png\n> **Author:** HarryBlank\n> **License:** CC BY-SA 3.0\n\n> **Filename:** Barrel.png\n> **Name:** Incineration\n> **Author:** Neil T\n> **License:** CC BY-SA 2.0\n\n> **Filename:** Ilse3.jpg\n> **Name:** Quinn\n> **Author:** Quinn Dombrowski\n> **License:** CC BY-SA 2.0\n> **Source:** [https://www.flickr.com/photos/quinnanya/2690933587/in/photostream/ flickr]\n\n> **Filename:** IlseAfraid.jpg\n> **Name:** Day 339: Quinn on TEI\n> **Author:** Quinn Dombrowski\n> **License:** CC BY-SA 2.0\n> **Source:** [https://www.flickr.com/photos/quinnanya/3085246478/in/photostream/ flickr]\n\n> **Filename:** IlseBetter2.jpg\n> **Name:** Shadow tattoo\n> **Author:** Quinn Dombrowski\n> **License:** CC BY-SA 2.0\n> **Source:** [https://www.flickr.com/photos/quinnanya/2570273960/ flickr]\n\n> **Filename:** IlseCooped3.jpg\n> **Name:** Quinn at sunset\n> **Author:** Quinn Dombrowski\n> **License:** CC BY-SA 2.0\n> **Source:** [https://www.flickr.com/photos/quinnanya/2352981269/ flickr]\n\n> **Filename:** IlseCrazed2.jpg\n> **Name:** Quinn buried in flipcharts\n> **Author:** Quinn Dombrowski\n> **License:** CC BY-SA 2.0\n> **Source:** [https://www.flickr.com/photos/quinnanya/2722672737/ flickr]\n\n> **Filename:** IlseDefy2.jpg\n> **Name:** Self-portrait in the dark\n> **Author:** Quinn Dombrowski\n> **License:** CC BY-SA 2.0\n> **Source:** [https://www.flickr.com/photos/quinnanya/109374313/ flickr]\n\n> **Filename:** IlseFree2.jpg\n> **Name:** Quinn\n> **Author:** Quinn Dombrowski\n> **License:** CC BY-SA 2.0\n> **Source:** [https://www.flickr.com/photos/quinnanya/2594955233/ flickr]\n\n> **Filename:** IlseHappy2.jpg\n> **Name:** 2Russia 265\n> **Author:** Quinn Dombrowski\n> **License:** CC BY-SA 2.0\n> **Source:** [https://www.flickr.com/photos/quinnanya/142374213/ flickr]\n\n> **Filename:** IlsePensive2.jpg\n> **Name:** Day 261: Pumpkin or traffic cone?\n> **Author:** Quinn Dombrowski\n> **License:** CC BY-SA 2.0\n> **Source:** [https://www.flickr.com/photos/quinnanya/3933152738/ flickr]\n\n> **Filename:** IlsePonder2.jpg\n> **Name:** Self-portrait with chocolate stick\n> **Author:** Quinn Dombrowski\n> **License:** CC BY-SA 2.0\n> **Source:** [https://www.flickr.com/photos/quinnanya/109374586/ flickr]\n\n> **Filename:** IlseSad2.jpg\n> **Name:** Around Sunset\n> **Author:** Quinn Dombrowski\n> **License:** CC BY-SA 2.0\n> **Source:** [https://www.flickr.com/photos/quinnanya/110488711/ flickr]\n\n> **Filename:** IlseScared2.jpg\n> **Name:** Day 152: No, I haven't been using my iPhone too much\n> **Author:** Quinn Dombrowski\n> **License:** CC BY-SA 2.0\n> **Source:** [https://www.flickr.com/photos/quinnanya/4662255594/ flickr]\n\n> **Filename:** ReyndersID2.jpg\n> **Name:** Freedom\n> **Author:** Quinn Dombrowski\n> **License:** CC BY-SA 2.0\n> **Source:** [https://www.flickr.com/photos/quinnanya/2718652916/ flickr]\n[[/<]]\n=====\n[[include :scp-wiki:component:license-box-end]]\n[[/=]]\n[[/div]]",
+  "tags": [
+    "en",
+    "esoteric-class",
+    "on-guard-43",
+    "scp",
+    "スカウト管理官",
+    "ループ",
+    "レインデルス博士",
+    "人間型",
+    "時間",
+    "注目の翻訳記事",
+    "生命",
+    "知性"
+  ],
+  "author": "YS_GPCR",
+  "created_at": "2023-02-05T11:10:33+00:00",
+  "updated_at": "2024-09-02T12:49:41+00:00",
+  "rating": 37,
+  "_site": "scp-jp",
+  "_fullname": "scp-5616"
+}

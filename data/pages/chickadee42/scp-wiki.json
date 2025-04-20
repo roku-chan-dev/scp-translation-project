@@ -1,0 +1,14 @@
+{
+  "title": "Chickadee42's Dossier/File Author Page Directory Thingy",
+  "content": "[[include :scp-wiki:theme:space]]\n\n[[>]]\n[[module Rate]]\n[[/>]]\n\n\nI am a writer person who does writing stuff. I could be described as a Canadian writer trying to write stories about Cold War era Russian life despite never having been anywhere near Eastern Europe. And other stuff. \n\nAlso I like birds. Birds are awesome. And I love chickadees. Chickadees are the cutest little birds.\n\n[[image 20230324_143744566_iOS%201.jpg]]\n\nOh yeah, I also do nature photography. I have a lot of great photos of chickadees like that. And frogs. And some insects. \n\n[[include component:author-page\n  order=created_at |\n  perpage=100 |\n  background=yes |\n  image=yes |\n  sortbar=yes |\n]]\n\nI also found out someone [https://www.fanfiction.net/s/14170265/5/Anomalies-Beyond-the-Falls wrote a fanfic involving SCP-7044 with Gravity Falls Characters]. I don't know anything about Gravity Falls but they certainly found a few interesting ways to use my creation.",
+  "tags": [
+    "_cc",
+    "author"
+  ],
+  "author": "Chickadee42",
+  "created_at": "2023-06-30T19:35:27+00:00",
+  "updated_at": "2024-02-10T13:58:04+00:00",
+  "rating": 11,
+  "_site": "scp-wiki",
+  "_fullname": "chickadee42"
+}

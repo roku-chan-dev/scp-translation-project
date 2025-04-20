@@ -1,0 +1,22 @@
+{
+  "title": "SCP-4163",
+  "content": "[[include :scp-wiki:info:start]]\n**The Tetris Prodigy / テトリスの天才**\n**著者:** [[*user literallymechanical]]\n他の作品については、[http://www.scp-wiki.net/literallymechanical-s-author-page LiterallyMechanicalの著者ページ]をどうぞ！\n\n幾つかのお気に入り自作:\n\n* [[[SCP-4170]]] -- The Dark\n* [[[SCP-4357]]] -- Slimelord\n* [[[SCP-4164]]] -- The Universal Instruction Manual\n\n私の新しいTaleシリーズ (進行中):\n* [[[save-our-souls |Save Our Souls - Part 1]]]\n[[include :scp-wiki:info:end]]\n\n[!-- Thanks to Croquembouche and other site members for their writeup of how to use the listpages module: http://www.scp-wiki.net/listpages-magic-and-you --]\n\n[[module ListPages  category=\"fragment\" parent=\".\" limit=\"1\" order=\"created_at\" offset=\"@URL|0\"]]\n%%content%%\n[[/module]]\n\n[!-- For translators, here is a direct link to each iteration. --]\n[!-- http://ja.scp-wiki.net/fragment:scp-4163-0/noredirect/true--]\n[!-- http://ja.scp-wiki.net/fragment:scp-4163-1/noredirect/true --]\n[!-- http://ja.scp-wiki.net/fragment:scp-4163-2/noredirect/true --]\n[!-- http://ja.scp-wiki.net/fragment:scp-4163-3/noredirect/true --]",
+  "tags": [
+    "en",
+    "k-クラスシナリオ",
+    "keter",
+    "scp",
+    "コンピュータ",
+    "交換",
+    "人間型",
+    "生命",
+    "知性",
+    "電子デバイス"
+  ],
+  "author": "C-Dives",
+  "created_at": "2020-02-22T15:44:54+00:00",
+  "updated_at": "2024-02-21T12:28:01+00:00",
+  "rating": 68,
+  "_site": "scp-jp",
+  "_fullname": "scp-4163"
+}

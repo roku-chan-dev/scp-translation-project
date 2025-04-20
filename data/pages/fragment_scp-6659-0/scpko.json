@@ -1,0 +1,14 @@
+{
+  "title": "SCP-6659 조각문서 0",
+  "content": "[[include :scpko:theme:admo]]\n\n[[module CSS]]\n\n:root {\n\n--admo-backdrop: url(https://scp-wiki.wikidot.com/local--files/admonition/admo-6659-bg.webp);\n\n--admo-color-bright: 194, 85, 0;\n--admo-color-dim: 24, 7, 0;\n--admo-color-dark: 7, 4, 0;\n--admo-color-alt: 161, 75, 8;\n\n--general-border-color: 77, 44, 31;\n--basalt-tertiary-color: 35, 21, 8;\n--darkdocument-background-color: 19, 7, 2;\n\n--four-color: var(--admo-color-bright) !important;\n\n}\n\n[[/module]]\n\n[[div class=\"admo-accessibility\"]]\n[[span class=\"cond\"]]>> [/scp-6659/offset/1 접근성 모드로 보기] <<[[/span]]\n[[/div]]",
+  "tags": [
+    "en",
+    "조각문서"
+  ],
+  "author": "Cubic72",
+  "created_at": "2025-01-06T09:26:38+00:00",
+  "updated_at": "2025-01-06T09:27:13+00:00",
+  "rating": 0,
+  "_site": "scpko",
+  "_fullname": "fragment:scp-6659-0"
+}

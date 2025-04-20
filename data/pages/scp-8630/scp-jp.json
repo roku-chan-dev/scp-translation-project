@@ -1,0 +1,19 @@
+{
+  "title": "SCP-8630",
+  "content": "[[module CSS]]\n\n@media (max-width: 400px) {\n    .image8630 .scp-image-block {\n        margin: auto;\n        float: unset;\n    }\n}\n\n[[/module]]\n\n[[include :scp-jp:credit:start-preview]]\n**タイトル:** SCP-8630 - ロバにダーツを当てよう\n**翻訳責任者:** [[*user C-Dives]]\n**翻訳年:** 2024\n**著作権者:** [[*user Yossipossi]]\n**原題:** SCP-8630 - Pin the Dart on the Donkey\n**作成年:** 2024\n**初訳時参照リビジョン:** 4\n**元記事リンク:** [[[*https://scp-wiki.wikidot.com/scp-8630|ソース]]]\n[[include :scp-jp:credit:end-preview]]\n\n[[>]]\n[[div style=\"font-size: 90%; margin-top: -10px; margin-right: 2em;\"]]\n**⏲** 3分で読了可\n[[/div]]\n[[/>]]\n\n[[div class=\"image8630\"]]\n[[include component:image-block name=http://scp-jp-storage.wikidot.com/local--files/file:2375337-1182-6ofi/8630.jpg| caption=着用時のSCP-8630。| width=200px|alt=alt|alt-text=着用された白い革製の指無しグローブ。\n]]\n[[/div]]\n\n**アイテム番号:** SCP-8630\n\n**オブジェクト分類:** Safe\n\n**特別収容プロトコル:** SCP-8630はサイト-02の標準的なAnomalousアイテム収容ユニットに保管されています。SCP-8630の実験は、サイト-02の管理職員から承認を受け、最低1名の監督者が保証人となる必要があります。監督者は実験に同席しません。\n\nSCP-8630の起源は、作戦行動8630-1 [[span class=\"ruby\"]](“きらめく紅玉”)[[span class=\"rt\"]]ダズリング・ルビーズ[[/span]][[/span]] の継続的な流布によって隠蔽されます。詳細は関連文書を参照してください。\n\n----\n\n**説明:** SCP-8630は1962年に製造された白い革製の指無しグローブです。比較的早期に回収されたにも拘らず、年代の割には著しい摩耗の兆候が見られます。SCP-8630は大半のアノマリーと一致する異常なヒューム値変動を示しますが、それ以外に検出できる特異な点はありません。\n\nSCP-8630の異常性は、このグローブをダーツゲーム中に着用している時に発現します。SCP-8630を使って的にダーツを投げると、ダーツの初速や着用者の技量とは無関係に、ダーツは必ず的に命中します。この効果はしばしば、初期状態のダーツが的に自然に到達する確率と反比例して、徐々に本来ありそうもない出来事が発生することで達成されます。\n\nSCP-8630を活性化させる“ダーツゲーム”の定義は曖昧であるように思われます。これまでのところ、異常性を発現させるには、次の条件を満たす必要があります。\n\n* SCP-8630を着用して投げる物体は、何らかの競技に使用される発射体でなければならない。\n* 的は、着用者の視線上にある物体でなければならない。\n* 着用者は、現状を何らかの観点において“射的ゲーム”であると認識していなければならない。\n\nこれら3つの条件が満たされている限りにおいて、投擲された物体は必ず、約5秒以内に指定された的に命中します。例については[[[SCP-8630 Testing Log|SCP-8630実験ログ]]]を参照してください。\n\n発射体が意図した的に衝突した後は、それ以上の異常性は確認されません。\n\n@@ @@\n\n[[collapsible show=\"+ 閲覧制限 8630/ダズリング・ルビーズ・クリアランス保持者のみ\" hide=\"– アクセス承認\"]]\n\n**発見:** SCP-8630は1963年11月22日、テキサス教科書倉庫ビル6階で、1丁のマンリッヒャー=カルカノ・ライフル銃と共に、ジョン・F・ケネディ大統領の暗殺から間もなくして発見されました。\n\n留意すべき点として、目撃者が3発の銃声を聞いたにも拘らず、狙撃手の潜伏地点から発見された薬莢は1個だけでした。詳細は作戦活動8630/1ブリーフィング資料を参照してください。\n\n[[/collapsible]]\n\n@@ @@\n\n[[footnoteblock]]\n\n[[=]]\n[[include :scp-jp:component:license-box\n|author=Yossipossi、C-Dives]]\n[[<]]\n=====\n[[div class=\"blockquote\"]]\n\n**ファイルページ:** [*http://scp-jp-storage.wikidot.com/file:2375337-1182-6ofi SCP-8630]\n\n**ファイル名:** 8630.jpg \n\n**タイトル:** White leather fingerless cycling glove.jpg\n**著作権者:** Lewis Ronald\n**ソース:** https://commons.wikimedia.org/wiki/File:White_leather_fingerless_cycling_glove.jpg\n**ライセンス:** CC BY-SA 3.0\n**公開年:** 25 June 2012\n\n[[/div]]\n=====\n[[/<]]\n[[include :scp-jp:component:license-box-end]]\n[[/=]]",
+  "tags": [
+    "en",
+    "safe",
+    "scp",
+    "スポーツ",
+    "政治家",
+    "確率",
+    "衣類"
+  ],
+  "author": "C-Dives",
+  "created_at": "2024-12-14T17:03:37+00:00",
+  "updated_at": "2024-12-25T15:35:07+00:00",
+  "rating": 10,
+  "_site": "scp-jp",
+  "_fullname": "scp-8630"
+}

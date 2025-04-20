@@ -1,0 +1,14 @@
+{
+  "title": "10072",
+  "content": "overview: █日後に取り壊し予定であった集合住宅「██」内部に存在していた住民が7秒ごとに消失と再出現を繰り返しました。現場に突入したエージェント・██は、集合住宅内部に存在中住民と同様にこの影響を受けました。この現象は、██分後に住民全員が消失し戻らないまま終了しました。特筆すべきこととして、エージェント・██を除く住民が動く様子は一切見られないにもかかわらず、全住民が消失時まで生存していたことが判明しています。\nswdate: '1'\ndate: 2018/█/██\nswplace: '1'\nplace: 東京都██区\nswchaseprocedure: '1'\nchaseprocedure: 関係者にAクラス記憶処理を実行し、カバーストーリー「マンション全焼」を適用しました。エージェント・██が設置したGPSの検証により、消失した住民は現在マンションの地下████ｍ地点に存在していることが判明しました。\nswaddendum: '0'\naddendum: ''\ntf2: '1'\nauthor: chuukunn\nredirect-b: '[[module Redirect destination=\"/log-of-extranormal-events-jp'\nredirect-e: '\"]]'",
+  "tags": [
+    "jp",
+    "剪定対象-子"
+  ],
+  "author": "machikawa",
+  "created_at": "2020-07-24T04:17:36+00:00",
+  "updated_at": "2021-05-24T13:21:04+00:00",
+  "rating": 19,
+  "_site": "scp-jp",
+  "_fullname": "extranormal-events-jp:10072"
+}

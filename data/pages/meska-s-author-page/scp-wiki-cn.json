@@ -1,0 +1,13 @@
+{
+  "title": "Meska的作者页",
+  "content": "[[include :scp-wiki-cn:theme:black-highlighter-theme]]\n[[include :scp-wiki:component:bhl-dark-sidebar]]\n\n[[module CSS]]\ndiv.rule hr {\n\n    height: 1px;\n\n    border: none;\n\n    color: black;\n\n    background-color: bla--__strikethrough text__--ck;\n\n    width: 100%;\n\n    margin: 15px 0px 0px 0px;\n\n}\nbody {\n  font-size: 110%;\n}\n[[/module]]\n\n[[div class=\"blockquote\" style=\"border: 1px solid; background-color: white; padding-top: 20px; padding-bottom: 20px; margin: 40px 80px 10px 80px; \"]]]\n[[=]]\n+++++ 最新SCP：[[[SCP-5354|SCP-5354 - 凯尔布兰的风景]]]\n[[span style=\"font-size: 80%;\"]]//\"Everyone says the view from the Caer is special. On a clear day, you can see for miles. The world looks...better\"//[[/span]]\n[[/=]]\n[[/div]]\n\n[[div class=\"blockquote\" style=\"border: 1px solid; background-color: white; padding-top: 20px; padding-bottom: 20px; margin: 40px 80px 10px 80px; \"]]]\n[[=]]\n+++++ 最新故事：[[[the-antiquarian|The Antiquarian ]]]\n[[span style=\"font-size: 80%;\"]]//\"The Covent Garden Antiquarian Society\nEst. 1604 - A Gentlemen's Establishment for Collectors of Items Both Macabre and Sublime\"//[[/span]]\n[[/=]]\n[[/div]]\n\n[[div class=\"blockquote\" style=\"border: 1px solid; background-color: white; padding-top: 20px; padding-bottom: 20px; margin: 40px 0px 10px 0px; \"]]]\n\n++ SCPs\n[[div class=\"rule\"]]\n-----\n[[/div]]\n[[[SCP-1064|SCP-1064 - 蜡烛指环]]]\n\n[[[SCP-5305|SCP-5305 - All in His Head]]]\n\n[[[SCP-5354|SCP-5354 - 凯尔布兰的风景]]]\n\n[[[SCP-5503|SCP-5503 - Feelin' Gut!]]]\n\n[[[SCP-5530|SCP-5530 - The Hebridean Charm]]]\n\n[[[SCP-5758|SCP-5758 - The Moth Tide]]]\n\n[[/div]]\n \n\n[[div class=\"blockquote\" style=\"border: 1px solid; background-color: white; padding-top: 20px; padding-bottom: 20px; margin: 40px 0px 10px 0px; \"]]]\n \n++ 故事\n[[div class=\"rule\"]]\n-----\n[[/div]]\n[[[lindisfarne-falls|Lindisfarne Falls]]]\n\n[[[the-antiquarian|The Antiquarian ]]]\n\n[[/div]]\n \n\n[[div class=\"blockquote\" style=\"border: 1px solid; background-color: white; padding-top: 20px; padding-bottom: 20px; margin: 40px 0px 10px 0px; \"]]]\n \n\n++ 合著\n[[div class=\"rule\"]]\n-----\n[[/div]]\n到目前为止没有——如果你想合著，请随时通过Wikidot PM或IRC联系我以讨论点子！\n\n[[/div]]",
+  "tags": [
+    "作者"
+  ],
+  "author": "zccv",
+  "created_at": "2021-08-25T06:13:28+00:00",
+  "updated_at": "2021-08-25T06:22:04+00:00",
+  "rating": -1,
+  "_site": "scp-wiki-cn",
+  "_fullname": "meska-s-author-page"
+}

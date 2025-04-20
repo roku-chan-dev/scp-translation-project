@@ -1,0 +1,32 @@
+{
+  "title": "SCP-CN-2233",
+  "content": "[[include :scp-wiki-cn:theme:black-highlighter-theme]]\n[[include :scp-wiki-cn:theme:black-highlightyear]]\n[[module css]]\n.bhl-aapa .sentiment-bar {\n    border: 1px solid rgb(var(--medium-accent)) !important;\n    border-radius:  0px 0px 0px 10px !important;\n    box-shadow: 0px 0px 0px 2px #ffb961 !important;\n}\n.bhl-aapa .neutralbar {\n    background-color: rgb(var(--medium-accent)) !important;\n    border: 0 !important;\n    border-radius:  0px 0px 0px 10px !important;\n    color: #ffb961 !important;\n}\n.bhl-aapa.alldown .downbar-base {\n    border-radius:  0px 0px 0px 10px !important;\n}\n.bhl-aapa .downbar-base {\n    background-color: rgba(var(--rating-module-button-negative-color),.8);\n}\n.bhl-aapa .downbar-text {\n    color: #ffb961 !important;\n}\n.bhl-aapa .upbar {\n    background-color: rgba(var(--rating-module-button-plus-color),.8);\n    border-radius:  0px 0px 0px 10px !important;\n    color: #ffb961 !important;\n}\n.bhl-aapa .rate-box-with-credit-button {\n    background-color: rgb(var(--medium-accent));\n    border: 1px solid rgb(var(--medium-accent));\n    border-radius: 0px 10px 0px 10px !important;\n    box-shadow: 0px 0px 0px 2px #ffb961;\n}\n.bhl-aapa.credit-rate-with-sentiment-bar:hover .rateBox .rate-box-with-credit-button {\n    border-radius: 0px 10px 0px 0px !important;\n}\n[[/module]]\n[[include :scp-wiki-cn:credit:start]]\n**SCP-CN-2233：鲸歌**\n**作者：**[[*user CaroyalKKaia]]\n[[[http://scp-wiki-cn.wikidot.com/brucewu0463|如果你想了解该作者的更多作品，请点击此处]]]\n------\n图片链接：\nhttps://www.pexels.com/zh-cn/photo/355935/\nhttps://www.pexels.com/zh-cn/photo/3695720/\n\n鸣谢：[[*user Enflowerz]]，[[*user ONXY]]，[[*user Diamond_Apple]]，[[*user sciencekiller]]\n\n第一迭代的文言文部分为[[*user Enflowerz]]所写。\n[[include :scp-wiki-cn:credit:end]]\n[[module ListPages category=\"fragment\" parent=\".\" limit=\"1\" order=\"name\" offset=\"@URL|0\"]]\n\n%%content%%\n\n[[/module]]\n\n[!--\n编辑本页面的内容可能会导致错误。若要编辑文本，请至以下链接。\nhttp://scp-wiki-cn.wikidot.com/fragment:cn2000brucewu0463-01\nhttp://scp-wiki-cn.wikidot.com/fragment:cn2000brucewu0463-02\nhttp://scp-wiki-cn.wikidot.com/fragment:cn2000brucewu0463-03\nhttp://scp-wiki-cn.wikidot.com/fragment:cn2000brucewu0463-04\n--]\n\n[[footnoteblock]]\n[[div class=\"footer-wikiwalk-nav\"]]\n[[=]]\n<< [[[SCP-CN-2232]]] | SCP-CN-2233 | [[[SCP-CN-2234]]] >>\n[[/=]]\n[[/div]]",
+  "tags": [
+    "ad-astra",
+    "area-cn-15",
+    "cn2000",
+    "scp",
+    "site-cn-06",
+    "site-cn-10",
+    "site-cn-34",
+    "site-cn-64",
+    "site-cn-82",
+    "全球超自然联盟",
+    "历史性",
+    "原创",
+    "反物理定律",
+    "声音",
+    "异学会",
+    "文言文",
+    "机密分级",
+    "武器",
+    "第二海托世教会",
+    "鲸类"
+  ],
+  "author": null,
+  "created_at": "2021-02-16T04:19:19+00:00",
+  "updated_at": "2022-12-02T07:34:44+00:00",
+  "rating": 253,
+  "_site": "scp-wiki-cn",
+  "_fullname": "scp-cn-2233"
+}

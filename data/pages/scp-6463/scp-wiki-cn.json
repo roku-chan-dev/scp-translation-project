@@ -1,0 +1,23 @@
+{
+  "title": "SCP-6463",
+  "content": "[[include :scp-wiki-cn:theme:paperstack]]\n[[include :scp-wiki:component:toggle-sidebar]]\n[[module CSS]]\n:root {\n    --top-layer-height-offset: -0.85rem;\n}\n\ndiv#header-extra-div-1 {\n    height: 12.75em;\n    width: 100%;\n    top: .5em;\n    left: 0;\n    position: absolute;\n    background: url(http://scp-wiki.wdfiles.com/local--files/theme%3Apaperstack/lgtrans.png);\n    background-size: contain;\n    background-repeat: no-repeat;\n    background-position: calc(var(--sp_area-comp-margin) + 2.25rem) 50%;\n    z-index: -1;\n    pointer-events: none;\n}\n#side-bar {\n    background-color: var(--paper-background-color);\n    box-shadow: 0 0 .5rem var(--paper-shadow-color);\n}\n@media (max-width: 720px) {\n    div#header-extra-div-1 { background-position: center; }\n}\n\n.header-container-ex {\n    padding-top: 0;\n}\n[[/module]]\n\n[[div class=\"header-container-ex\"]]\n[[div class=\"header-info\"]]\n[[div class=\"header-info-flex\"]]\n[[div class=\"text-item\"]]\n[[size 90%]]##grey|**项目编号：**##[[/size]]\n \n[[size 220%]]**SCP-6463**[[/size]]\n[[/div]]\n \n[[div class=\"text-item\"]]\n[[size 90%]]##grey|**收容等级：**##[[/size]]\n \n[[size 220%]]**等待分级**[[/size]]\n[[/div]]\n[[/div]]\n[[/div]]\n[[/div]]\n\n[[include :scp-wiki-cn:component:image-block name=https://scp-wiki.wdfiles.com/local--files/scp-6463/treelake.png|align=center|width=700px|caption=SCP-6463-A|alt=alt|alt-text=一棵孤独的树，矗立在清澈的盐滩中央。有轻微的镜头像差影响。]]\n[[div style=\"height: 0.8rem\"]]\n[[/div]]\n++++ __特殊收容措施__\n\n--Charles Gears博士负责监视与测量SCP-6463的拓扑空间或维度间的不规律性。与基金会重新建立联系将被视为最高优先事项。--\n\n##blue|N/A。##\n\n++++ __描述__\n\nSCP-6463是--暂定--标记为882R53号的一处维度地点、且大小未知的超维度平面。SCP-6463类似于盐滩，其表面为固体，并表现出近乎完美的反射率。表面也被注意到具有咸味。\n\n据信，SCP-6463中的实体不会受到任何形式的能量消耗和衰变的影响，因为带进SCP-6463中的一些电子设备已经持续运作了至少296516年，而且其中的人似乎没有老化或需要维生，这使得他们在生物学上是不朽的。\n\nSCP-6463在很大程度上是无特征的，除了一棵树（以下称SCP-6463-A），它表现出一种认知危害效应，使观察者能够始终知道它的位置，无视距离或能见度。\n\n##blue|Charles Gears博士的尸体被发现靠在SCP-6463-A的根基上。根据该文件最后一次更新的时间戳，以及随后的尸检报告和从他的硬盘上恢复的1779095个视频记录表明，他在约450000岁时死于自然原因。##\n@@ @@\n\n[[div class=\"footer-wikiwalk-nav\"]]\n[[=]]\n<< [[[SCP-6462]]] | SCP-6463 | [[[SCP-6464]]] >>\n[[/=]]\n[[/div]]\n\n[[include :scp-wiki-cn:component:license-box\n|author=**EstrellaYoshte**\n|translator=**Lovesicker**]]\n=====\n> **文件名：**treelake.png\n> **图作者：**Sheila in Moonducks，Kuroiniisan，由[[*user EstrellaYoshte]]合成\n> **授权协议：**CC BY 2.0，CC BY-SA 3.0\n> **来源链接：**  https://search.creativecommons.org/photos/440a57fd-3229-4e18-a844-9daec5613e89, https://commons.wikimedia.org/wiki/File:Salar_de_Uyuni_2013.jpg\n=====\n[[include :scp-wiki-cn:component:license-box-end]]",
+  "tags": [
+    "6000",
+    "gears博士",
+    "scp",
+    "树木",
+    "植物",
+    "熵",
+    "知识",
+    "等待分级",
+    "视觉性",
+    "认知危害",
+    "超维度"
+  ],
+  "author": null,
+  "created_at": "2021-05-30T04:24:29+00:00",
+  "updated_at": "2024-02-20T03:07:26+00:00",
+  "rating": 37,
+  "_site": "scp-wiki-cn",
+  "_fullname": "scp-6463"
+}

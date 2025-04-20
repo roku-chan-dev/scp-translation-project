@@ -1,0 +1,19 @@
+{
+  "title": "SCP-8626",
+  "content": "[[include :scpko:info:start]]\n**SCP-8626:** 조용히 바라보는 아이들,,children, who watch in silence,,\n**저자:** [[*user IndustryStandard]]\n**역자:** [[*user quilt]]\n**원작:** https://scp-wiki.wikidot.com/scp-8626\n\n> **파일명:** TennisEdit2.png\n> **원본:** Wimbledon 2019 Nadal v Sousa.jpg\n> **저작권자:** I went to Wimbledon\n> **라이선스:** CC BY-SA 4.0\n> **출처:** [https://commons.wikimedia.org/wiki/File:Wimbledon_2019_Nadal_v_Sousa.jpg 위키미디어 커먼즈]\n> **메모:** (아마도) IndustryStandardIndustryStandard로 편집됨.\n@@@@\n[[=]]\n[[[http://scpko.wikidot.com/quilt|###]]]\n[[/=]]\n[[include :scpko:info:end]]\n\n[[module css]]\n@media only screen and (max-width: 600px) {\n    .scp-image-block.block-right{\n        float: none;\n        margin: auto;\n    }\n}\n[[/module]]\n\n**일련번호:** SCP-8626     \n\n**등급:** 케테르\n\n**특수 격리 절차:** 현재 확인된 모든 피해자들이 어린 시절[[footnote]]3~12세[[/footnote]] 통제되지 않은 환경에서 SCP-8626을 목격했기 때문에 격리는 거의 불가능할 것으로 보인다. \n\nSCP-8626에 대해서는 표적 격리 절차가 아닌 표준 문화 억압 전략을 적용한다. 이를 통해 잠재적 피해자들의 신뢰도를 낮추고, 변칙 현상의 가능성을 비변칙적 상황과 혼동할 가능성을 높인다.\n\n[[include component:image-block name=TennisEdit2.jpg|caption=SCP-8626. 몽중 촬영을 통해 확보.|width=300px|align=right|alt-text:A low detail image of a tennis match 테니스 경기의 저화질 화상]]\n\n**설명:** SCP-8626은 신원을 알 수 없는 두 선수[[footnote]]한 명은 남자, 다른 한 명은 여자로 구분되는 경우가 많다.[[/footnote]]가 윔블던 스타디움의 센터 코트에서 진행한 친선 테니스 경기를 촬영한 녹화 방송으로 추정된다. SCP-8626은 대부분 테니스 경기의 표준 규칙에 따라 진행되나, 다음과 같은 차이점이 존재한다. \n* 공이 없다. \n* 체어엄파이어[[footnote]]역주: 테니스 경기 중 코트 내의 모든 상황과 판정을 책임지는 심판. [https://www.kortennis.or.kr/project/eduReferee.do 대한테니스협회][[/footnote]]가 없다.\n* 관중들은 전부 어린이들이며, 침묵을 지키고 있다. \n이 경기는 항상 타이브레이크에 이를 때까지 교착 상태를 유지한다. 선수들은 보이지 않는 공을 치기 위해 애쓰면서 점점 쌕쌕거리고, 목이 쉬고, 비명을 지른다.[[footnote]]선수들이 어떻게 득점 여부를 확인하는지는 불분명하다.[[/footnote]] 한쪽 선수가 탈진해 쓰러지면 경기가 끝나고, 점차 노이즈 화면으로 바뀐다. 이후 1시간에서 1주일이 지난 후 새로운 방송이 시작된다.[[footnote]]대부분 소리만 들을 수 있었다.[[/footnote]]\n\nSCP-8626을 본 인원은 시청 당시의 물리적 거리와 무관하게 해당 방송에 대한 장기적이고 침입적인 환청을 겪게 된다. 소음을 손, 헤드폰, 베개, 기타 외부 물체로 막으려는 시도는 모두 실패했다. 이 효과는 영구적으로 지속되지만, 시간에 따라 점점 약해지기도 한다. [[footnote]]그러나 완전히 사라지지는 않는다.[[/footnote]]",
+  "tags": [
+    "en",
+    "scp",
+    "매체",
+    "시각",
+    "청각",
+    "케테르",
+    "환각"
+  ],
+  "author": "quilt",
+  "created_at": "2025-02-17T14:31:57+00:00",
+  "updated_at": "2025-02-22T14:06:47+00:00",
+  "rating": 9,
+  "_site": "scpko",
+  "_fullname": "scp-8626"
+}

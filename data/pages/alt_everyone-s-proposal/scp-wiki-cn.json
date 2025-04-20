@@ -1,0 +1,19 @@
+{
+  "title": "每个人的提案",
+  "content": "[[include :scp-wiki-cn:theme:foxtrot]]\n\n[[div class=\"addendum\" style=\"background: url(http://scp-wiki.wdfiles.com/local--files/mcdoctorate-s-proposal/raisalogo4.png) right center no-repeat; background-color: #f6f6c6; margin-top: 30px; margin-bottom: 30px;\"]]\n\n[[=]]\n++ 记录与信息安全管理部的通知\n[[/=]]\n\n----\n\n好吧，说实话，我已经厌倦了近日大量涌入数据库的001提案，同时也厌倦了所有向我收件箱发送垃圾邮件询问自己的提案配不配SCP-001的人。如果你觉得写一篇成功的001有多容易，那就自己在这儿动手去写吧。这里能直通O5什么的。他们会处理的。我真的不想再操心了。\n\n此事到此为止。\n\n= — Maria Jones，RAISA主管\n\n[[/div]]\n\n[[div style=\"height: 5px\"]]\n[[/div]]\n\n[[=]]\n+ 请在下面提交你的新提案：\n[[/=]]\n\n[[html]]\n\n  <div><textarea rows=\"15\" style=\"width:95%;\" id=\"fakepost\" onkeypress=\"description()\" wrap=\"hard\">\n</textarea>\n  </div>\n</div>\n[[/html]]\n\n[[div style=\"height: 10px\"]]\n[[/div]]\n\n[[div class=\"buttonthing\"]]\n[[span class=\"blink\"]]\n\n[[html]]\n\n<body>\n\n<div id=\"buttonthing\">\n<button onclick=\"myFunction(); refreshPage();\"><h1>发送提案？</h1></button>\n</div>\n\n<script>\n\nfunction refreshPage(){\n    window.location.reload();\n}\nvar randomStrings = [\n\n\"错误：没有001的感觉。\",\n\"错误：提及的GOI不够。\",\n\"错误：提及的GOI太多。\",\n\"错误：错字太多。\",\n\"错误：格式错乱。\",\n\"错误：你不是排名前十的作者。\",\n\"错误：你显然是把上次D&D跑团记录拿来当SCP了。\",\n\"错误：少年心气（Smells Like Teen Spirit）。\",\n\"错误：太同人了。\",\n\"错误：太觉醒了。\",\n\"错误：不够觉醒。\",\n\"错误：没能通过贝克德尔测试。\",\n\"错误：你的一个平行宇宙同位体已经有了5篇001提案。\",\n\"错误：作者化身不足。\",\n\"错误：你未使用任何CSS。\",\n\"错误：CSS看着他妈的眼疼。\",\n\"错误：ACS代码无效。\",\n\"错误：“Keter”的发音不对。\",\n\"错误：所有O5都在厕所。\",\n\"错误：这明显是你的OC。\",\n\"错误：这不仅是你的OC，还可能是你的兽设。\",\n\"错误：我在《十三号仓库》其中一集里看过了。\",\n\"错误：抄袭自你的想象。\",\n\"错误：这世界就是吸血鬼（The World Is A Vampire）。\",\n\"错误：讨伐体制（Rages Against The Machine）。\",\n\"错误：001提案未包含今日密语：小鲜肉。\",\n\"错误：001提案未包含今日密语：Pickman。\",\n\"错误：001提案未包含今日密语：布鲁克林。\",\n\"错误：SCP是真的。\",\n\"错误：我需要剪刀，61。\",\n\"错误：字数不是69的倍数或系数。\",\n\"错误：未包含特里·普拉切特的梗。\",\n\"错误：包含哈利·波特的梗。\",\n\"错误：未达到最低字数要求。\",\n\"错误：您并非白金会员俱乐部会员。\",\n\"错误：包含不符合CC的梗。\",\n\"错误：已封禁。\",\n\"错误：没有人知道这到底是什么梗。\",\n\"错误：你尚未阅读足够多的SCP。\",\n\"错误：你尚未阅读足够多的故事。\",\n\"错误：你尚未给本SCP投差评。\",\n\"错误：你是高级职员。\",\n\"错误：承认吧你他妈上次玩就没投20点，你个小——\",\n\"错误：异常不符合知识共享协议。\",\n\"错误：未检测到图像。\",\n\"错误：天上起了战争。\",\n\"错误：非生物咒语增加1来释放。\",\n\"错误：检测到串联共振。\",\n\"错误：未检测到互动元素。\",\n\"错误：我不是说你用了AI，但考虑到年初以来站内的状况，我不想冒任何风险。\",\n\"错误：你不是本站任何设定的贡献者。\",\n\"错误：太长，不看。\",\n\"错误：因某人将水伊布定型文复制至字段的次数过多，导致服务器中断。\",\n\"错误：未检测到emoji。\",\n\"错误：非数字。\",\n\"错误：非字母。\",\n\"没有错误！开个玩笑啦，我们要是允许人们在这儿投稿，会惹来很多麻烦的。\",\n\"错误：你尚未购买SCP基金会官方NFT，故无法投稿001。\",\n\"错误：检测到混沌分裂者IP。\",\n\"错误：检测到不兼容的时间线。\"\n];\n\nconst text = randomStrings[Math.floor(Math.random() * randomStrings.length)]\n\nfunction myFunction() {\n  alert(text + \"请重试。\");\n\n}\n\n</script>\n\n</body>\n[[/html]]\n\n[[/span]]\n[[/div]]\n\n@@@@\n@@@@\n\n[[include :scp-wiki-cn:component:license-box\n|author=MisterFrown 与 Ihp]]\n[[include :scp-wiki-cn:component:license-box-end]]\n\n[[module CSS]]\n\n:root{\n  --header-title: \"SCP基金会\";\n  --head-font: var(--ui-font);\n}\n\n.addendum {\n    border:solid 2px #999999;\n    background:#F5F5F5;\n    width:84%;\n    padding:1px 15px;\n    margin: 10px auto;\n}\n\n.footnotes-footer {\ndisplay:none;\n}\n\n.buttonthing {\n  display: flex;\n  justify-content: center;\n}\n\n.blink {\n  animation: blink 1.8s infinite;\n}\n\n@keyframes blink {\n  0% {\n    opacity: 1;\n  }\n  50% {\n    opacity: 0;\n  }\n  100% {\n    opacity: 1;\n  }\n}\n\n@media only screen and (max-width: 600px) {\n\n.buttonthing {\n  -ms-transform: translateX(15%);\n  transform: translateX(15%);\n}\n\n}\n\n[[/module]]",
+  "tags": [
+    "001提案",
+    "maria-jones",
+    "scp",
+    "互动性",
+    "合著",
+    "搞笑",
+    "机密分级"
+  ],
+  "author": "la kanro",
+  "created_at": "2024-05-14T11:57:27+00:00",
+  "updated_at": "2024-05-14T15:36:12+00:00",
+  "rating": 10,
+  "_site": "scp-wiki-cn",
+  "_fullname": "alt:everyone-s-proposal"
+}

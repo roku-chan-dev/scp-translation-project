@@ -1,0 +1,19 @@
+{
+  "title": "SCP-CN-2994-EX",
+  "content": "[[include :sn1:x:bhl]]\n[[include :sn1:x:light]]\n[[include :sn1:x:c-bhl]]\n[[include :sn1:x:rso]]\n[[include :scp-wiki:component:toggle-sidebar-bhl]]\n[[include :sn1:x:info-ayers]]\n\n[[module css]]\n@import url(http://fonts.font.im/css?family=Poiret+One|Playfair+Display:700);\n@import url('https://fonts.googleapis.com/css2?family=Noto+Serif+SC:wght@600&display=swap');\n:root {\n--logo-image: url(\"http://scpsandboxcn.wdfiles.com/local--files/collab%3Asite-cn-95/95b.png\");\n--header-title: \"Site-CN-95\";\n--header-subtitle: \"交流 博弈 繁荣\";\n--swatch-headerh2-color: var(--very-light-gray-monochrome);\n--swatch-topmenu-border-color: var(--light-gray-monochrome);\n--header-font: \"Playfair Display\", \"Noto Sans SC\", sans-serif;\n--title-font: \"Noto Serif SC\", \"Noto Sans SC\", sans-serif;\n}\n\n#header h2 span::before {text-transform:capitalize;}\n#page-title {display:none;}\n[[/module]]\n\n\n\n[[div class=\"info-container\"]]\n[[collapsible hideLocation=\"top\" show=\" \" hide=\" \"]]\n[[div]]\n= **SCP-CN-2994-EX「蓝鸟」**\n= **由[[*user SkyNight_aic]]创作**\n\nhttps://commons.wikimedia.org/wiki/File:Mountain_Blue_Bird_6_%288045048321%29.jpg\n\n[[include :topia:sp-rate-info-3 size=150]]\n[[/div]]\n[[/collapsible]]\n[[/div]]\n\n[[=]]\n[[module Rate]]\n[[/=]]\n\n\n\n\n[[include :scp-wiki-cn:component:anomaly-class-bar-source\n|lang= cn\n|item-number= CN-2994-EX\n|clearance= 4\n|container-class= 已解明\n|secondary-class= none\n|disruption-class= none\n|risk-class= none\n]]\n\n------\n\n[[include component:image-block name=https://pic.imgdb.cn/item/60bb9e758355f7f718a1e1e4.jpg |caption=一个SCP-CN-2994实例，此时该个体正穿透一根树枝。]]\n**特殊收容措施：**基金会网络爬虫将删除网上任何有关SCP-CN-2994的内容，任何SCP-CN-2994大规模出现现象的报告应立即提交忽怠公关委员会以进行全球范围内的定向形记忆修正，正常情况下SCP-CN-2994的出现应由外交站点Site-CN-95下属特遣队MTF-甲未-54“帷幕修复”进行局部性记忆删除以及舆论修正以对公众掩盖项目存在。\n\n------\n\n**描述（2021/6/1）：**SCP-CN-2994为一种鸟类异常生物，其外观近似山蓝鸲//（Sialia currucoides）//。当任何实体接触项目时，项目将从其内部穿透，因此，物理收容手段对项目无效。项目飞行时体表将发出光通量约为120流明的蓝光，尚未解明该现象的具体原理。\n\n截止至本文档最后一次编辑，基金会尚未观测到项目存在觅食，繁殖等行为。但出于某种未知原因，项目数量仍在逐渐增加。推测若项目增殖速度在60天内仍未减缓，则常规手段已无法对公众掩盖项目存在。\n\n**2021/07/30编辑：**截止今日，项目已覆盖全球大部分包含人类聚居地在内的大部分天空，正常规模的定向形记忆修正已无法对公众掩盖项目存在。鉴于基金会在多次尝试后仍未发现物理性质的收容SCP-CN-2994的方式，经外交站点Site-CN-95上报，战略统筹委员会批准后，忽怠公关委员会决定执行一次忽怠协议以使公众将SCP-CN-2994视为常态的一部分，同时逆模因部提出有关将SCP-CN-2994通过逆模因抹除的方案由于风险太大而被否决。\n\n**2021/07/31编辑：**忽怠计划执行成功，项目被重编号为SCP-CN-2994-EX，其分级修改为“已解明”，原有特殊收容措施被取消。\n\n**2021/09/06编辑：**截止今日，SCP-CN-2994-EX群体已覆盖整个天空，该行为使得全球范围内无法观测到任何星体，同时正常的日夜规律已被破坏，无法联系到近地轨道上任何观测站，对彻底无效化SCP-CN-2994-EX的方案研究开始进行，是否使用包括冈格尼尔在内的异常武器以无效化SCP-CN-2994-EX的提案开始讨论。\n\n**2021/09/06编辑：**基金会掩盖设施平海镇天文台KECK-LAMOST3.0 光学望远镜观测到天空中存在一白色文字，推测为项目表面产生。\n\n[[div class=\"no-addendum\" style=\"margin-left: 1em;margin-right: 1em;\"]]\n[[include component:image-block name=https://pic.rmb.bdstatic.com/bjh/0a41486d5feb8fb7b9f831860bfae024.png|align=center|width=700px|caption=天空。白色字体意为“驱动程序或某些软件出现堆栈问题。”]]\n[[/div]]\n\n**2021/09/07编辑：**SCP-CN-2994-EX出于未知原因全部消失，天空恢复正常，同时所有已知和未知异常全部完全无效化。目前基金会正致力于恢复全部异常无效化后的人类社会秩序，根据监督者议会决定，基金会将在人类社会恢复秩序后解散。\n\n\n[[=]]\n[[div class=\"footer-wikiwalk-nav\"]]\n<<[[[SCP-CN-2993-EX]]] | SCP-CN-2994-EX | [[[SCP-CN-2995-EX]]]>>\n[[/div]]\n[[/=]]",
+  "tags": [
+    "scp",
+    "动物",
+    "原创",
+    "天空",
+    "已解明",
+    "机密分级",
+    "鸟类"
+  ],
+  "author": "Admins Anderson",
+  "created_at": "2021-06-10T13:04:55+00:00",
+  "updated_at": "2024-10-01T11:36:05+00:00",
+  "rating": 45,
+  "_site": "scp-wiki-cn",
+  "_fullname": "scp-cn-2994-ex"
+}

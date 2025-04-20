@@ -1,0 +1,14 @@
+{
+  "title": "2",
+  "content": "[[include :scp-wiki:component:classified-decoration\n|lv=5\n|item=001\n|oc=Keter\n|lang=JP\n]]\n[[a href=\"*http://scp-int.wikidot.com/niveaux-de-menace-des-objets-scp\" style=\"font-size: 18px; color: white; text-shadow: 1px 3px 1px rgba(0,0,0,0.3); text-decoration: none;\"]]\n[[span_ style=\"display: inline-block; width: 100%; background-color: black; text-align: center; border: 1px none #000; margin: 1px; padding-top: 8px; padding-bottom: 8px;\"]]\n**脅威レベル:** 黒\n[[/span]]\n[[/a]]\n\n**特別収容プロトコル:** SCP-001の収容違反は、UZ-クラスグレイ・グーシナリオの開始と、即座にアノマリーをApollyonクラスへ再指定することを構成します。\n\nSCP-001はサイト-01の専用収容チャンバーに収容されています。この収容室は常時、構造的に安全なまま保たれなければなりません。いかなる状況でも収容チャンバーに入り口を設置したり、既存の入り口を開けたりしてはいけません。\n\nいかなる物品、物体および/または職員もSCP-001の収容チャンバーに入れてはなりません。SCP-001の収容チャンバーに持ち込まれた物品、物体および/または職員は回収されません。\n\nSCP-001の収容チャンバーから物品、物体および/または職員を回収しようとする職員は、財団の一員としての以前の職位、栄誉および/または特権にかかわらず、直ちに終了されます。SCP-001の収容チャンバーからあらゆる物品、物体および/または職員を回収しようと計画している疑いのある職員は直ちに拘束され、更なる調査が行われるまで全ての特権は停止されます。\n\n**説明:** SCP-001は生きている人間の死体です。\n\n全てのSCP-001実例は表面的に高度な腐敗を受けています。SCP-001実例の質量の減少は観測されておらず、収容室内に蓄積された質量も失われていません。SCP-001実例は標準的な生きている人間の行動を模倣する形で収容チャンバーを歩き回ります。\n\nSCP-001実例は環境と時代錯誤的に相互作用します。それらは空間が現在占有されているか否かにかかわらず、非占有であるか、または（論理的に）非占有になる空間の任意の領域を通過することが出来ます。[[footnote]]例: 出入口を占有しているドアが任意の時点で開かれた場合（過去、現在、または未来）、SCP-001実例は、ドアが開いているか閉じているかに関係なく、いつでも出入口を通過できる。[[/footnote]]この特性により、SCP-001実例は事実上、過去または未来の固形物を通過することが出来ます。\n\nSCP-001実例は通常、複数の可能性のある結果を伴う行動を実行する際に、常に不規則に自身を複製します。そのような場合、それぞれの結果ごとに新しいSCP-001実例が現れます。SCP-001実例は再結合することもでき、2つ以上の実例が同一の動作を実行するときに再結合します。\n\nSCP-001の異常性は、この人物が財団の設立直前に身元不明の軍事集団によって暗殺されたことから明らかになりました。設立された[[span class=\"ruby\"]]最高司令部[[span class=\"rt\"]]High Command[[/span]][[/span]]は、アノマリーが複製される前にSCP-001を幼少時代の寝室[[footnote]]SCP-001より前から存在していた現存する唯一の構造物であり、それを収容できる唯一の場所です。[[/footnote]]に閉じ込めることに成功し、収容を可能にしました。\n\n[[footnoteblock]]\n\n[[div style=\"border:solid 1px #808080; background:#000000; color:#00FF00; padding:5px; margin-bottom: 10px;\" class=\"customlink\"]]\nエラー: 複数のファイルが見つかりました！システム管理者に連絡してください。\n@@ @@\n@@-rwx2r--- O/001 1 KB Jan 01 1970@@ [[[http://ja.scp-wiki.net/jack-ike-s-proposal-ii/offset/1|SCP-001(HATED CAESAR)]]]\n@@-rwx2r--- O/001 1 KB Jan 01 1970@@ [[[http://ja.scp-wiki.net/jack-ike-s-proposal-ii/offset/2|SCP-001(OVERLORD CENSURE)]]]\n@@-rwx2r--- O/001 1 KB Jan 01 1970@@ [[[http://ja.scp-wiki.net/jack-ike-s-proposal-ii/offset/3|SCP-001(OPPRESS WITHHOLD)]]]\n@@-rwx2r--- O/001 1 KB Jan 01 1970@@ [[[http://ja.scp-wiki.net/jack-ike-s-proposal-ii/offset/4|SCP-001(TINDALOS TRINITY)]]]\n@@ @@\n[[[http://ja.scp-wiki.net/jack-ike-s-proposal-ii/offset/0|cd..]]]\n[[/div]]",
+  "tags": [
+    "en",
+    "フラグメント"
+  ],
+  "author": "Extra3002",
+  "created_at": "2020-01-22T03:14:38+00:00",
+  "updated_at": "2021-01-10T17:55:40+00:00",
+  "rating": 1,
+  "_site": "scp-jp",
+  "_fullname": "fragment:jack-ike-s-proposal-ii-2"
+}

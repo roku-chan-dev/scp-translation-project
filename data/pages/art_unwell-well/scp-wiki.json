@@ -1,0 +1,17 @@
+{
+  "title": "Unwell Well",
+  "content": "[[>]]\n[[module Rate]]\n[[/>]]\n\n[[div class=\"crom-thumbnail\" style=\"display: none;\"]]\n[[include component:image-block name=unwell-3-smaller.png]]\n[[/div]]\n\n[[include :scp-wiki:theme:black-highlighter-theme]]\n[[include :scp-wiki:theme:jakstyle]]\n\n@@ @@\n\n\n[[image http://scp-wiki.wikidot.com/local--files/art:unwell-well/unwell-3-smaller.png]]\n\n@@ @@\n@@ @@\n@@ @@\n\n++ [https://scp-wiki.wikidot.com/scp-7776 The fear, always worst when you see it for the first time.]\n\n@@ @@\n@@ @@\n@@ @@\n@@ @@\n[https://scp-wiki.wikidot.com/fairydoctor-folio More from fairydoctor]\n\n@@ @@\n\n[[include :scp-wiki:component:license-box]]\n=====\n> **Filename:** unwell-3-smaller.png\n> **Author:** [[*user fairydoctor]]\n> **License:** CC BY-SA 3.0\n> **Source Link:** [https://scp-wiki.wikidot.com/art:unwell-well SCP Foundation Wiki]\n=====\n[[include :scp-wiki:component:license-box-end]]",
+  "tags": [
+    "_cc",
+    "_licensebox",
+    "artwork",
+    "scp-art",
+    "sketched"
+  ],
+  "author": "fairydoctor",
+  "created_at": "2022-08-30T20:11:10+00:00",
+  "updated_at": "2024-03-28T19:49:41+00:00",
+  "rating": 25,
+  "_site": "scp-wiki",
+  "_fullname": "art:unwell-well"
+}

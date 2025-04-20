@@ -1,0 +1,19 @@
+{
+  "title": "SCP-6400",
+  "content": "[[include :scp-wiki-cn:component:cd-ver2\n|lv=1\n|item=SCP-6400\n|class=Safe\n|site-responsible=GBWLTB-Site-17\n|director=%20Cian%20Stevens博士\n|research-head=Technician%20Fern%20Paracha\n|assigned-task-force=N/A\n|lang=cn\n]]\n[[a href=\"*http://scp-wiki-cn.wikidot.com/niveaux-de-menace-des-objets-scp\" style=\"font-size: 18px; color: black; text-shadow: 1px 3px 1px rgba(0,0,0,0.3); text-decoration: none;\"]]\n[[span_ style=\"display: inline-block; width: 100%; background-color: #EED202; text-align: center; border: 1px none #000; margin: 1px; padding-top: 8px; padding-bottom: 8px;\"]]\n**威胁等级：**黄\n[[/span]]\n[[/a]]\n------\n**特殊收容措施：**根据Site-17伦理委员会的指令，C设施的2/23号单元将保持空置。SCP-6400既不能被遮挡也不能被穿过。\n\n**描述：**SCP-6400是一面圆形的窗户，目前位于2/23号单元西北侧的墙壁上。它由一块单一的圆形玻璃窗组成，没有网格或开启机制。\n\n当其任意一端受到损坏或遮挡时，SCP-6400将消失，并在附近的一面墙壁上重新出现。SCP-6400的消失和随后的重现似乎是一瞬间的，先前被其占据的区域在它转移后将恢复。\n\nSCP-6400仅出现在外墙上，且其偏爱几乎没有自然采光的房间。办公室、宿舍和收容单元经常是SCP-6400的目标，占所有显现的94%。\n\n受影响房间内的人类和智能实体都会受到一种轻微的强迫感，这种强迫感会半频繁地引导他们观看SCP-6400。暴露在阳光下的时间与对这种效应的敏感程度呈负相关，被指派了无关任务的人员在所有水平上都相比闲散的受试者而言不那么敏感。而在非人类以及D级人员当中，经常观察到哭泣的情况。\n------\n[[=]]\n[[size 150%]]**附录6400-A**[[/size]]\n[[/=]]\n\n以下是在SCP-6400当前所处位置拍摄的照片。建议工作人员向精神科报告任何可能的持续影响。\n\n[[=]]\n[[size 150%]] [[collapsible show=\"► SCP-6400的图像\" hide=\"▼ 允许访问\"]][[/size]]\n[[div class=\"scp-image-block block-center\" style=\"width:100%;\"]]\n[[image http://scp-wiki.wdfiles.com/local--files/scp-6400/outthere.jpg style=\"width:100%;\" link=#]]\n[[div class=\"scp-image-caption\" style=\"width:100%;\"]]\nSCP-6400。\n[[/div]]\n[[/div]]\n[[/collapsible]]\n[[/=]]",
+  "tags": [
+    "6000",
+    "safe",
+    "scp",
+    "传送",
+    "光照影响",
+    "建筑",
+    "强迫性"
+  ],
+  "author": null,
+  "created_at": "2021-05-25T23:54:25+00:00",
+  "updated_at": "2021-07-01T23:20:30+00:00",
+  "rating": 42,
+  "_site": "scp-wiki-cn",
+  "_fullname": "scp-6400"
+}

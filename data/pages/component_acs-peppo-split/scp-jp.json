@@ -1,0 +1,14 @@
+{
+  "title": "ACS Splitter",
+  "content": "[[iftags -コンポーネント]]\n\n[[module CSS]]\n:root {\n  --safe: 0,159,107;\n  --euclid: 255,211,0;\n  --keter: 196,2,51;\n  --esoteric: 66, 66, 72;\n}\n\n.contain-class .class-text {\n  color: transparent !important;\n}\n\n.contain-class .class-text::before {\n  content: \"{$object}\";\n  position: absolute;\n  top: 0;\n  color: rgba(51,51,51,1) !important;\n}\n\n.text-part > .main-class::before {\n    margin-right:0;\n}\n\n.anom-bar-container.esoteric .text-part > .main-class::before {\n  background-color: rgba(var(--{$object-color}),1);\n  background-image: url(\"{$object-image}\");\n  -webkit-filter: invert(0);\n  filter: invert(0);\n  border-color: rgb(12,12,12);\n}\n\n.anom-bar-container.esoteric .text-part > .main-class {\n  background-color: rgb(12,12,12);\n  background: linear-gradient(30deg,\n    rgb(var(--{$esoteric-color}),0.25) 0%,\n    rgb(var(--{$esoteric-color}),0.25) 50%,\n    rgb(var(--{$object-color}),0.25) 50%,\n    rgb(var(--{$object-color}),0.25) 50%\n  )\n}\n\n.anom-bar-container.esoteric .danger-diamond > .top-icon::before {\n  background-color: rgb(var(--{$object-color}));\n  background-image: url(\"{$object-image}\");\n  -webkit-filter: invert(0);\n  filter: invert(0);\n}\n\n.anom-bar-container.esoteric .danger-diamond > .quadrants > .top-quad {\n    background-color: rgb(66, 66, 72 ,0.15);\n    background-color: rgb(var(--{$object-color}),0.25);\n}\n\n.anom-bar-container.esoteric .text-part > .main-class > .second-class > .class-text::before {\ncontent: \"{$object2}\";\ncolor: #333333;\nfont-size: 0.00;\nfont-size: {$hideObject2};\n}\n\n.anom-bar-container.esoteric .text-part > .main-class > .second-class > .class-text {\nfont-size:{$hideObject};\n}\n\n[[/module]]\n[[/iftags]]\n[[iftags +コンポーネント]]\n\nACSヘッダーのオブジェクトクラス欄を分割し、特殊オブジェクトクラスと通常のクラスの両方を表示します。\n[[[scp-4703|実装例はこちらを参照してください。]]][[footnote]]**訳注:** リンク先では[https://scp-wiki.wikidot.com/component:acs-peppo-lite ACS Lite]と併用した例が示されています。詳細についてはDiscuss欄を参照してください。[[/footnote]]\n\nオリジナルのコードは[[*user woedenaz]]によるものです。[[*user Yossipossi]]の著作であるSCP-4531から導入されました。コンポーネントは[[*user PeppersGhost]]が作成しました。\n\n使用するには以下のコードを記述してください:\n\n> [[include :scp-jp:component:acs-peppo-split\n> |object= keter\n> |object-image= http://scp-jp.wdfiles.com/local--files/component%3Aanomaly-class-bar/keter-icon.svg\n> |object-color= keter\n> |esoteric-color= esoteric\n> ]]\n\n\n分割された半分の部分をKeterではなくSafeやEuclidに変更したい場合は\"object\"、\"object-image\"、\"object-color\"の部分を各々\"safe\"或いは\"euclid\"に変更してください。\n\n+ コードの確認はPage Sourceへ\n\n[[/iftags]]",
+  "tags": [
+    "en",
+    "コンポーネント"
+  ],
+  "author": "MikuKaneko",
+  "created_at": "2022-07-09T10:04:08+00:00",
+  "updated_at": "2022-07-09T10:06:12+00:00",
+  "rating": 8,
+  "_site": "scp-jp",
+  "_fullname": "component:acs-peppo-split"
+}

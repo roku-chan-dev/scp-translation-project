@@ -1,0 +1,23 @@
+{
+  "title": "SCP-CN-2611",
+  "content": "[[>]]\n[[include :topia:sp-rate-info-2 start= --]|end= --]|info=none]]\n[[/>]]\n\n[[module ListPages category=\"fragment\" parent=\".\" limit=\"1\" order=\"name\" offset=\"@URL|0\"]]\n%%content%%\n[[/module]]\n\n[!--\n编辑本页面的内容可能会导致错误。若要编辑文本，请至以下链接。\nhttp://scp-wiki-cn.wikidot.com/fragment:cn200062ecn-00\nhttp://scp-wiki-cn.wikidot.com/fragment:cn200062ecn-01\nhttp://scp-wiki-cn.wikidot.com/fragment:cn200062ecn-02\n--]\n\n[[footnoteblock]]\n\n@@ @@\n\n[[div class=\"footer-wikiwalk-nav\"]]\n[[=]]\n<< [[[SCP-CN-2610]]] | SCP-CN-2611 | [[[SCP-CN-2612]]] >>\n[[/=]]\n[[/div]]",
+  "tags": [
+    "area-cn-07",
+    "cn2000",
+    "k级情景",
+    "safe",
+    "scp",
+    "原创",
+    "城市",
+    "基金会制",
+    "宗教",
+    "未收容",
+    "超维度"
+  ],
+  "author": "62ECN",
+  "created_at": "2021-02-20T08:11:15+00:00",
+  "updated_at": "2021-08-18T16:57:01+00:00",
+  "rating": 33,
+  "_site": "scp-wiki-cn",
+  "_fullname": "scp-cn-2611"
+}

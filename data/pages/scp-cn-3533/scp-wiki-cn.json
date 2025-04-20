@@ -1,0 +1,17 @@
+{
+  "title": "SCP-CN-3533",
+  "content": "[[include :scp-wiki-cn:theme:inland-empire]]\n[[module CSS]]\n@import url('https://fonts.googleapis.com/css?family=Noto+Sans+SC|Noto+Serif+SC|Noto+Sans+TC|Noto+Serif+TC&display=swap');\n@import url('https://semimonth.wikidot.com/component:non-savingpage/code/1');\n\n:root:lang(cn) {\n   --logo-image: url(\"\");\n}\n\nbody {\n    font-family: 'Noto Serif SC', verdana, arial, helvetica, sans-serif;\n}\n[[/module]]\n\n[[module CSS]]\n/*隐藏页面标题*/\n#page-title{\n    display:none;\n}\n\n:root {\n  --prologue: \"漫长的时间里，我在等待着你\"; /* 修改页眉正中的白色标语，即副标题 */\n \n  --purpleColor: #9900FF; /* 修改板式主题色（默认紫色） */\n  --lightPurpleColor: #CD00BD; /* 修改已访问链接与鼠标悬停颜色 */\n  --darkPurpleColor: #A470BC; /* 修改未建立链接与引用块烟雾颜色 */\n}\n[[/module]]\n\n[[>]]\n[[module rate]]\n[[/>]]\n**项目编号：**SCP-CN-3533\n\n**项目等级：**Safe\n\n**特殊收容措施：**已知的SCP-CN-3533均应处于相关特遣队的监视下，每隔半年进行一次检查与认知隔离。由于其无害性与稳定性，无需进一步收容。\n\n**描述：**以下为已确认的SCP-CN-3533[[footnote]] 警告：下列内容可能失真，请注意甄别。 [[/footnote]]。\n* 内蒙古自治区乌拉特中旗以北五千米的一处草原。已确认当该草原出现降雨时，牧草会统一摇摆并发出“沙沙”的声响。\n* 黑龙江省哈尔滨市郊的一处人工湖。已确认当该地温度低于零下二十摄氏度时，冰面会变得完全透明并大范围龟裂。\n* 广东省汕头市以东的一处面积约为一平方千米的海面。已确认当有九级以上台风途径时，大黄花鱼会大面积浮出水面，持续约一小时后消失。\n* 曾于山东省青岛市北墅监狱服刑的对象-1，其曾因多起盗窃罪被判刑。每年的4月17日，他会哭泣一整日。\n* 供职于Area-CN-15的研究员-1，她接连数次未能通过情绪稳定测试，现处于休假状态。\n* 荒原上的城堡。十二年前由对象-2与对象-3共同搭建。如今两人早已消失不见，荒原上无休无止的寒风侵蚀着城堡的外壳，积年累月之后它坍塌四散，硕大的石块上纹路冷峻鲜明。有一天它会彻底倒下，随后被完全遗忘。\n* 废弃站点-[隐藏编号]。据已有资料解明，该站点中会不定期出现已于二十年前转移的异常影像。分管特遣队员拒绝进入调查。他们每次清洗防弹衣上的污痕时，一半人极为果决，另一半人极为犹豫。暗红色的血渍似乎能联通他们和不知多久前漆黑的夜晚，一只又一只手彼此相连的情景。\n* 一只雄鹰。它日复一日地飞向远处的山脉，却始终停留在原地。高空的风凄厉无比，它的羽毛经常飘零落下。研究员-2曾经捡拾到它掉落的羽毛，眼前浮现了潮汐般的山脉。他于次日辞职，随后不知所踪。有报告称，基金会人员在南美洲安第斯山见到过他的身影。那时他穿着当地的土著服饰，举止粗莽，眼神清澈见底。\n* 风刮过空洞时发出的回响。\n* [查阅权限限制]",
+  "tags": [
+    "safe",
+    "scp",
+    "原创",
+    "移情作用",
+    "精神影响"
+  ],
+  "author": "Nightingale_FZ",
+  "created_at": "2024-12-09T12:10:23+00:00",
+  "updated_at": "2024-12-10T15:06:53+00:00",
+  "rating": 4,
+  "_site": "scp-wiki-cn",
+  "_fullname": "scp-cn-3533"
+}

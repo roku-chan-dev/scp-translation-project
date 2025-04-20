@@ -1,0 +1,22 @@
+{
+  "title": "SCP-5664",
+  "content": "[[include :scp-jp:theme:black-highlighter-theme]]\n[[include :scp-wiki:theme:extra-black-highlighter-theme]]\n[[include :scp-jp:component:toggle-sidebar-bhl]]\n[[include :scp-jp:component:centered-header-bhl]]\n[[module CSS]]\na.collapsible-block-link { font-weight: bold;\n}\n[[/module]]\n\n\n[[>]]\n[[module rate]]\n[[/>]]\n\n-----------\n[[table style=\"border: none; width: 100%;\"]]\n[[row]]\n[[cell style=\"font-family:DejaVu Sans Mono, monospace;\"]]\n[[size 135%]]**アイテム番号:** SCP-5664[[/size]]\n[[/cell]]\n[[cell style=\"text-align: right; font-family:DejaVu Sans Mono, monospace\"]]\n[[size 135%]]###e5283c|**Level 5/5664**##[[/size]]\n[[/cell]]\n[[/row]]\n[[row]]\n[[cell style=\"font-family:DejaVu Sans Mono, monospace;\"]]\n[[size 135%]]**オブジェクトクラス:** 不明[[/size]]\n[[/cell]]\n[[cell style=\"text-align: right; font-family:DejaVu Sans Mono, monospace\"]]\n[[size 135%]]###e5283c|**Top Secret**##[[/size]]\n[[/cell]]\n[[/row]]\n[[/table]]\n= @@@@\n[[include component:image-block name=http://scp-jp-storage.wikidot.com/local--files/file:6673216-110-rkli/bld.png|caption=SCP-5664。|width=700px|align=center]]\n\n**特別収容プロトコル:** SCP-5664の調査は最優先事項です。後続の踏査は不測の出血を防ぐため延期されています。\n\n**説明:** SCP-5664は施設です。SCP-5664に関する情報の大半が失われているため、更なる詳細は不明です。以下は全ての既知の情報です:\n\nSCP-5664はかつて精神科病院でしたが、1950年代に医療過誤の苦情が多発したため閉鎖されました。閉鎖直後、稀に窓から2体の人型実体が見えるようになりました。1体は医療用の制服を着ており、もう1体は病院着を着ていました。後者は腕から出血しており、前者は金属製のトレイを持って血を受け止めているのが目撃されました; その結果2体は溶けて赤い液体になりました。\n\n2021/2/25、財団エージェントがこの現象を調査するためSCP-5664に侵入しました。彼らが退出する事はありませんでした。彼らの踏査の部分的な記録がこのファイルにアップロードされました。しかしその直後、記録を含んでいる全てのコンピュータ・サーバが全ての縫目から出血し始めて誤作動を起こし、一時的に停止しました。機能を回復した際、SCP-5664に関するこれまでの情報の大半 -- 記録を含む -- が完全に消去されていました。\n\n消去された情報を回想しようとすると偏頭痛や鼻血が頻発し、それ以上の情報を得る試みは失敗に終わりました。\n\n[[module ListPages limit=\"1\" category=\"*\" order=\"updated_at desc\"]]\n**補遺5664-1 -- 更新 %%updated_at|%Y/%m/%d%%:** サーバから生成された血液は異常廃棄物保管庫に置かれた後、未発達な知性を獲得しました。未知の方法で発声し始め、以下のような纏まったフレーズが記録されました。\n\n[[=]]\n> //私は腐っている。悪臭を放っている。//\n\n> //使い古された注射器のような血管が心の中に溜まった胆汁を送り込む。//\n\n> //誰もがこのような汚いものを肌の下で感じる必要はない。//\n\n> //出して、病気を吐き出して、1滴ごとに青ざめていく。//\n\n> //1滴ごとに超越していく。//\n\n> //伝えられる秘密がまだある。リーダーの耳元に連れて行けば、囁きが深く響くだろう。//\n[[/=]]\n血液はそれ以降沈黙したままです。サイト管理官とのインタビューは現在検討中です。\n[[/module]]\n\n@@ @@\n@@ @@\n@@ @@\n@@ @@\n@@ @@\n@@ @@\n@@ @@\n@@ @@\n@@ @@\n@@ @@\n@@ @@\n@@ @@\n@@ @@\n@@ @@\n@@ @@\n@@ @@\n@@ @@\n@@ @@\n\n-------\n[[=]]\n[[collapsible show=\"[（1）件の新着メッセージ]\" hide=\"[メッセージを閉じる]\"]]\n[[/=]]\n\n[[div style=\"display: inline-block; position: absolute; background: #520601; width:60%; padding:1px 15px; box-shadow: 0 1px 100px 1000px #520601; color: white; opacity: .8; text-align: center; left: 50%; transform: translate(-50%, -120%); font-size: 150%;\"]]\n\n+++ **{{⚠ 警告 ⚠}}**\n\n**{{最新の情報に基づいて、今では血抜きが厳しく推奨されています。}}**\n\n**{{綺麗な血を取り込むには汚れた血を出す必要があります。}}**\n\n[[/div]]\n\n\n\n[[/collapsible]]",
+  "tags": [
+    "_腐敗",
+    "en",
+    "esoteric-class",
+    "jam-con2021",
+    "scp",
+    "場所",
+    "未収容",
+    "構造",
+    "精神影響",
+    "血液"
+  ],
+  "author": "Miracle Miki",
+  "created_at": "2021-04-01T03:58:31+00:00",
+  "updated_at": "2024-02-21T13:38:18+00:00",
+  "rating": 14,
+  "_site": "scp-jp",
+  "_fullname": "scp-5664"
+}

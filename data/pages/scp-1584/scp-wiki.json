@@ -1,0 +1,20 @@
+{
+  "title": "SCP-1584",
+  "content": "[[>]]\n[[module Rate]]\n[[/>]]\n\n**Item #:** SCP-1584\n\n**Object Class:** Euclid\n\n**Special Containment Procedures:** SCP-1584's domain is to be blocked from all major internet service providers through Foundation agents in various world governments. Access to the website is to be granted to Level 3 personnel.\n\n**Description:** SCP-1584 is a website formerly accessible from the domain 'www.floatationdevice.███' at IP address 18.2.███.███. The only information on the webpage, when loaded, is safety.jpg, an image of an unmarked life preserver.\n\nAs long as SCP-1584 is loaded on a device's browser, the device will lose a varying amount of mass so as to provide approximately 73.5 newtons of buoyant force in fresh water. How the mass is removed and subsequently returned is completely unknown; molecular analysis shows that the molecule densities of the materials that make up the computer do not change. Additionally, the webpage will automatically call local emergency services through internet or cellular reception. Both effects of SCP-1584 immediately cease when the webpage is closed. SCP-1584 does not waterproof the objects it is loaded onto; in many cases, the object will quickly cease to function from water damage after being submerged, deactivating the effect.\n\nWhen loaded on devices too small to normally become this buoyant (equal to or less than 7500 cm^^3^^), the webpage will instead display the message \"The mobile version of this service is still in development.\"\n\n**Addendum 1584-1:** SCP-1584 was discovered on █ ███ 20██ by a Foundation web-crawler on www.██████████.███, ranked #4 on the post \"Top Ten Weirdest Technology Websites\". The blog post was removed, but was not deemed a security risk due to its relative lack of popularity.\n\n[[footnoteblock]]\n\n[[div class=\"footer-wikiwalk-nav\"]]\n[[=]]\n<< [[[SCP-1583]]] | SCP-1584 | [[[SCP-1585]]] >>\n[[/=]]\n[[/div]]\n[[include :scp-wiki:component:license-box]]\n[[include :scp-wiki:component:license-box-end]]",
+  "tags": [
+    "_licensebox",
+    "computer",
+    "document",
+    "electronic",
+    "euclid",
+    "online",
+    "scp",
+    "transfiguration"
+  ],
+  "author": "llama66613",
+  "created_at": "2013-10-01T22:34:56+00:00",
+  "updated_at": "2022-10-21T08:47:35+00:00",
+  "rating": 506,
+  "_site": "scp-wiki",
+  "_fullname": "scp-1584"
+}

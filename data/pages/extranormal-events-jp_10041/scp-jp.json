@@ -1,0 +1,14 @@
+{
+  "title": "10041",
+  "content": "overview: '2016/05/██の13:22、山形県███市の交番に「ヒツジに自宅を包囲された」という通報が入りました。当時の音声記録には背景音としてヒツジの鳴き声を粗雑に真似る不特定多数の人間の声と、金物を打ち鳴らす音が記録されています。通話は住所以上の有用な情報を聞き出すことが出来ないまま、2分ほどで歯軋りのような音とともに途切れました。警察が駆け付けたところ、通報者の住所は更地となっており、近隣住民は警官に指摘されるまで住宅の消失に気付いていませんでした。'\nswdate: '1'\ndate: 2016年05月██日\nswplace: '1'\nplace: 山形県███市\nswchaseprocedure: '1'\nchaseprocedure: 関係者にクラスA記憶処理が施され、カバーストーリー“住宅火災”が流布されました。エリアは2018/01/01まで監視されます。\nswaddendum: '0'\naddendum: ''\ntf2: '1'\nauthor: C-dives\nredirect-b: '[[module Redirect destination=\"/log-of-extranormal-events-jp'\nredirect-e: '\"]]'",
+  "tags": [
+    "jp",
+    "剪定対象-子"
+  ],
+  "author": "machikawa",
+  "created_at": "2020-07-23T13:17:49+00:00",
+  "updated_at": "2021-05-24T13:20:53+00:00",
+  "rating": 33,
+  "_site": "scp-jp",
+  "_fullname": "extranormal-events-jp:10041"
+}

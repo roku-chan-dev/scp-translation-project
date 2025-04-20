@@ -1,0 +1,24 @@
+{
+  "title": "SCP-5523",
+  "content": "[[include theme:black-highlighter-theme]]\n\n[[module CSS]]\n:root:lang(ko) {\n    --header-title: \"초상동물학과\";\n    --header-subtitle: \"Parazoology Division\";\n        --logo-image: url(\"https://scp-wiki.wdfiles.com/local--files/scp-4347/1572269486726.png\");\n    --pale-accent: 40, 230, 60;\n    /* light red, for visited links */\n    --bright-accent: 0, 133, 5;\n    /* bright green */\n    --medium-accent: 46, 100, 44;\n    /* medium green - the \"default\" accent color */\n    --dark-accent: 3, 100, 15;\n    /* dark green */\n    --alt-accent: 102, 221, 17;\n    /* pale green, for newpage links */\n}\n[[/module]]\n\n[[include info:start]]\n**SCP-5523:** 내일이면, 숲이 자라나리, 향기로이 너의 뼈로부터(Tomorrow, when the Forests grow, sweetly from your bones)\n**원작:** https://scp-wiki.wikidot.com/scp-5523\n**저자:** [[*user Amelia Wright]]\n**역자:** [[*user salamander724]]\n\n> **파일명:** 800px-Starr-100901-8979-Wikstroemia_monticola-habitat_and_goat_skeleton-Kanaio_Natural_Area_Reserve-Maui_%2824755353650%29.jpg\n> **원본:** Cow_Skeleton_-_geograph.org.uk_-_26234.jpg\n> **저작권자:** Barnowl\n> **라이선스:** CC-BY-SA 2.0\n> **출처:** [https://commons.m.wikimedia.org/wiki/File:Cow_Skeleton_-_geograph.org.uk_-_26234.jpg 위키미디어 커먼즈]\n\n[[include info:end]]\n\n[[include :scpko:component:info-ayers\n|lang=ko\n|page=scp-5523\n|authorPage=http://www.scp-wiki.net/yourAuthorPage[!-- link to your author page --]\n|comments=\n\nAny additional comments (image sources, crit credits, whatever)\n\n]]\n\n[[include component:acs-peppo-lite\n\n|item-number= 5523\n|clearance= 1\n|container-class= 난해\n|secondary-class= 터미널\n|secondary-icon= https://scp-wiki.wdfiles.com/local--files/calibri-s-mega-cool-art-page-it-s-mostly-just-icons-but-what/Terminal.svg\n|disruption-class= 암흑\n|risk-class= 주목\n\n]]\n\n[[include component:acs-peppo-split\n|object= 안전\n|object-image= https://scp-wiki.wdfiles.com/local--files/component%3Aanomaly-class-bar/safe-icon.svg\n|object-color= 안전\n|esoteric-color= 안전\n]]\n\n---------\n\n**격리 개정:** [[span class=\"ruby\"]]시드 로덴버그[[span class=\"rt\"]]Sid Rothenberg[[/span]][[/span]][[footnote]] SCP-5523과 접촉한 이후 로덴버그는 SCP-5523-2로 지칭된다. [[/footnote]] 사건 이후, 재단과 제휴한 각국 정부들은 사슴과 동물종의 수렵 및 섭식에 대한 무기한 금지법령을 제정했다. 로덴버그는 재단에 구금되어 집중치료를 받고 있다.\n\n**특수 격리 절차:** SCP-5523의 생태학적 틈새로 인하여, 삼림이 우거진 지역에서 SCP-5523-1 표본을 제거하는 것은 금지된다. SCP-5523-1 개체수가 압도적인 지역은 공중 접근을 차단하고, SCP-5523 영향지역 주변에는 저보안 울타리를 설치했다.\n\n\n[[include component:image-block\n    name= https://scp-wiki.wdfiles.com/local--files/scp-5523/800px-Starr-100901-8979-Wikstroemia_monticola-habitat_and_goat_skeleton-Kanaio_Natural_Area_Reserve-Maui_(24755353650).jpg |\n    caption= SCP-5523과 관련된 백골사체.|\n    width=300px\n]]\n\n**설명:** SCP-5523은 [[span class=\"ruby\"]]터미널[[span class=\"rt\"]]Terminal[[/span]][[/span]][[footnote]] 원래 인간의 죽음 이후 그 인간을 포섭하게 되는 존재자 또는 변칙성을 가리켰다. SCP-5523의 발견 이후, 동물종도 터미널 변칙성에 포섭될 수 있음이 확인되었다. [[/footnote]] 등급 환경변화군으로, 사슴과(Cervidae)[[footnote]] 사슴들로 이루어진 생물분류군. [[/footnote]] 동물종에게 영향을 미치는 행동교정 및 생물학적 돌연변이로 구성된다. SCP-5523 사태들은 산불이나 가뭄 같은 심각한 환경피해 기간이 지나간 후 발생하는 것으로 관찰된다. SCP-5523은 주어진 면적 안의 모든 사슴과 생물종 개체들에게 영향을 미치는 것은 아니다. 늙은 개체, 또는 질병을 앓는 개체들이 젊거나 건강한 개체에 비해 SCP-5523이 진행되기 쉽다. SCP-5523은 월귤(//Vaccinium vitis-idae//)[[footnote]] 링곤베리, 파트리지베리, 카우베리 등 별명이 다양하다. [[/footnote]] 열매를 섭취하는 것으로 시작된다. 월귤은 일반적으로 독성물질 때문에 사슴과 동물들이 섭취하지 않는다.\n\nSCP-5523의 영향을 받은 개체들[[footnote]] 이하 SCP-5523-1 개체들이라고 한다. [[/footnote]]은 엄청난 양의 월귤을 섭취하며, 그 결과 독성물질이 개체의 혈류 안에 축적되게 된다. 약 24시간 내에 SCP-5523-1 개체는 죽게 되며, 구더기 등 분해자 생물의 도움 없이 급속한 부패를 거친다. 백골화된 사체에서 월귤 묘목이 발생하며, 월귤과 함께 청미래덩굴, 옻담쟁이, 사슴풀 등 아한대 식물들을 필두로 하여 사슴과 동물이 즐겨 먹는 모든 식물종이 발아한다. 지속적인 연구 결과, SCP-5523으로 인한 전세계적 삼림증가율이 ██ 퍼센트를 초과하는 것으로 드러났다.\n\n**부록 No. 1:** 로덴버그 사건\n\n캐나다인 민간인 시드 로덴버그는 아웃도어맨 겸 생물학자였는데, SCP-5523-1에서 수확한 사슴고기를 섭취한 뒤  혼란과 섬망을 경험했다. 그가 섬망 상태에서 기록한 야외 일기장이 회수되었다. 아래 내용은 그 발췌본이다.\n\n> 아프다. 몸 안에 병기가 있다. 내 안에 있음이 느껴진다. 간단한 설명은 구더기나 고기 조리를 잘못한 것이다. 하지만 그 이상의 무언가가 있음이 느껴진다. 지금 내 정신이 ‘청미래덩굴’, ‘옻담쟁이’, ‘사슴풀’ 이런 말을 반복해서 되뇌이는 것도 그 무언가 때문일 것이다. 왜 이 단어들이 자꾸 떠오르는 걸까? 모두 추측일 뿐이다, 지금으로서는.\n>[[size 0%]]...[[/size]]\n> \n> 불 곁에서 구조를 기다리며 쉬고 있다. 주변의 숲이 눈에 들어온다. 발정난 엘크 우는 소리, 까마귀 짖는 소리, 늑대의 하울링. 뭔가 선명해진다. 지구는 죽어가고 있는데, 우리는 그것을 알지 못하고 있다.\n> [[size 0%]]...[[/size]]\n> \n> 달빛 아래 잠에 들었고, 꿈결에 내 죽음, 내 해골, 내 뼈다귀가 숲으로 자라는 것을 보았다. 마치 내 뼈가 나무의 뿌리가 되는 것처럼. 내 죽음이 숲에 녹음을 가져오고, 흙은 최초의 인간들처럼 건강한 갈색이 되는 꿈이었다.\n\n[[footnoteblock]]",
+  "tags": [
+    "2020-즉흥경연-en",
+    "en",
+    "scp",
+    "나무",
+    "난해한-등급",
+    "동물",
+    "뼈",
+    "사슴",
+    "사체",
+    "생물",
+    "생물학",
+    "안전"
+  ],
+  "author": "Salamander724",
+  "created_at": "2021-05-08T05:36:53+00:00",
+  "updated_at": "2024-12-09T10:33:38+00:00",
+  "rating": 9,
+  "_site": "scpko",
+  "_fullname": "scp-5523"
+}

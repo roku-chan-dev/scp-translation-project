@@ -1,0 +1,14 @@
+{
+  "title": "페이지목록 표",
+  "content": "[[table style=\"width: 100%;\"]][[row style=\"font-weight: bold; color: #fff;\"]][[cell style=\"padding: 0 2px; width: 50%;\"]][[/cell]][[cell style=\"padding: 0 2px; width: 25%; text-align: center;\"]][[/cell]][[cell style=\"padding: 0 2px; text-align: center;\"]][[/cell]][[/row]]",
+  "tags": [
+    "en",
+    "구성요소"
+  ],
+  "author": "Dr Devan",
+  "created_at": "2014-12-13T15:11:38+00:00",
+  "updated_at": "2021-03-28T01:20:35+00:00",
+  "rating": 0,
+  "_site": "scpko",
+  "_fullname": "component:listpages-table"
+}

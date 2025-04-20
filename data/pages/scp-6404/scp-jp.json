@@ -1,0 +1,21 @@
+{
+  "title": "SCP-6404",
+  "content": "[[>]]\n[[module Rate]]\n[[/>]]\n@@@@\n\n[[include :scp-jp:component:anomaly-class-bar-source\n\n|item-number= 6404\n\n|clearance= 4\n\n|container-class= esoteric\n\n|secondary-class= decommissioned\n\n|secondary-icon= https://scp-wiki.wikidot.com/local--files/component:anomaly-class-bar/decommissioned-icon.svg\n\n|disruption-class= amida\n\n|risk-class= notice\n\n]]\n\n------\n\n**特別収容プロトコル:** 財団職員は国際的な出生記録の監視を続け、\"[[span class=\"ruby\"]]タラカント[[span class=\"rt\"]]Tallakant[[/span]][[/span]]\" と名付けられた人物がいないか確認します。タラカントの名前を有すると特定された人物は、標準解体プロトコルに則って対処します。\n\nSCP-6404は2007年10月4日をもって[[span class=\"ruby\"]]解体[[span class=\"rt\"]]decommissioned[[/span]][[/span]]に成功しました。タラカントと名付けられた人物に関わる歴史的記録および市民の記録は全て、歴史上の大きな出来事の要因を新たな人物に置き換えるか、元のタラカントの身元を消去するよう適宜改められています。タラカントに由来する名前や言い習わし[[footnote]]例: タリーマーク、カント計数器、[[span class=\"ruby\"]]タリーホー[[span class=\"rt\"]]Tally-ho[[/span]][[/span]]、[[span class=\"ruby\"]]タリーワッカー[[span class=\"rt\"]]Tallywacker[[/span]][[/span]]など。[[/footnote]]は異常性を示していないものの、タラカントの名前が再び現れる可能性を防ぐべく、同様に由来を置き換えるか、一般向けの辞書から削除します。\n\n**説明:** SCP-6404は、生後のある時点で \"タラカント\" と名付けられた人物[[footnote]]出生時に名付けられた場合や、タラカントに改名した場合、単にタラカントと呼ばれた場合も含みます。[[/footnote]]が集合意識の一部となる現象でした。SCP-6404実例になった時点で、集合意識から切り離すことはできませんでした。SCP-6404実例はいずれも個々人での活動が可能でしたが、同一の思考、感情、信念を積極的に共有していました。SCP-6404実例は概ね以下の分野での勤め口を探し求めていました。\n\n* 教育\n* 研究、特に感染症の蔓延や治療に関わる分野\n* 視覚・舞台芸術\n* 官職、特に雇用、福祉、国際関係に関わるもの\n* 慈善活動\n* 社会運動\n\n記録によれば、タラカントという名前は5世紀初頭から存在し、数人の著名人がこの名前を有していたようです。SCP-6404実例は歴史を通して探査や社会発展、文化交流に顕著に関わってきました。\n\n歴史上の著名人やポップカルチャーを代表する人物の多くがタラカントの名前を使用していたため、タラカントは新生児に付ける名前として男女問わず極めて人気の高いものであり続けました。SCP-6404の解体時点で、タラカントと名付けられた人物は約10億人いたと考えられています。",
+  "tags": [
+    "decommissioned",
+    "en",
+    "scp",
+    "テレパシー",
+    "歴史",
+    "生命",
+    "知性",
+    "精神影響",
+    "集団意識"
+  ],
+  "author": "walksoldi",
+  "created_at": "2021-08-22T10:43:06+00:00",
+  "updated_at": "2024-04-21T11:42:21+00:00",
+  "rating": 42,
+  "_site": "scp-jp",
+  "_fullname": "scp-6404"
+}

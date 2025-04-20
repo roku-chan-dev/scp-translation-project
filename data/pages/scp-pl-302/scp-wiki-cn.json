@@ -1,0 +1,21 @@
+{
+  "title": "SCP-PL-302",
+  "content": "[[module CSS]]\n .creditButtonStandalone p a{\n    background: #101d2e !important;\n}\n[[/module]]\n\n[[div style=\"display: none;\"]]\n[[include :scp-wiki:theme:flopstyle]]\n[[/div]]\n[[include :scp-wiki-cn:theme:ad-astra]]\n[[include :scp-wiki:component:centered-header-sigma-9]]\n\n[[module CSS]]\n/* HEADER */\n :root{\n     --header-title: \"AD ASTRA PER ASPERA\";\n     --header-subtitle: \"循此苦旅，直抵群星\";\n     --titleColor: hsl(0, 0%, 93%);\n     --subtitleColor: hsl(34, 100%, 75%);\n[[/module]]\n\n[[include :scp-wiki-cn:credit:start-standalone]]\n**标题：**SCP-PL-302：死寂\n**作者：**[[*user KubKac]]\n\n[[div id=\"author_block\"]]\n= [http://scp-pl.wikidot.com/kopalnia-wegla-kubkaca ▸ 该作者的更多作品 ◂]\n\n[[/div]]\n----\n[[include :scp-wiki-cn:credit:end-standalone]]\n\n[[div class=\"anchor\"]]\n[[div class=\"authorbox\"]]\n\n[[module ListPages name=\"=\"]]\n||~ %%title%% ||\n||= **作者：**[[*user KubKac]] ||\n||~ 原文发表于2022年12月5日 ||\n||~ 英译版发表于2023年1月5日 ||\n[[/module]]\n\n[[/div]]\n[[/div]]\n\n[[include component:image-block\n    name=http://czyesperanza.wikidot.com/local--files/pictures/Sonic_visualiser_less_than_zero.jpg|\n    caption=通过可视化观察仪看到的SCP-PL-302。|\n]]\n\n[[span class=\"h-span\"]]项目编号：[[/span]]SCP-PL-302\n\n[[span class=\"h-span\"]]项目等级：[[/span]]Safe\n\n[[span class=\"h-span\"]]特殊收容措施：[[/span]]根据附录PL-302/2中的信息，禁止[[span class=\"h-span\"]]肯尼迪-3848-XK号[[/span]]回应任何无线电传讯。\n\n[[span class=\"h-span\"]]描述：[[/span]]SCP-PL-302是[[span class=\"h-span\"]]肯尼迪-3848-XK号[[/span]]船舰组成员多次尝试在深空建立通讯以寻找地外智慧生命时接收到的无线电传讯回应。\n\nSCP-PL-302以一种未知语言编码，因此当前正在尝试翻译该信息，以及追踪该信息来源的确切行星系统。在记录到的信息中无可用于推断发送者的特征。\n\n其异常效应将在被人类听到后出现。当此之时，听者将在短时间内无法发声，但测试者的声带未以任何方式损伤。\n\n[[span class=\"h-span\"]]附录PL-302/1：[[/span]]接收\n\nSCP-PL-302发现于基金会殖民船舰[[span class=\"h-span\"]]肯尼迪-3848-XK号[[/span]]对太阳系外可支持生命行星进行探索和殖民任务的过程中。随时间推移，他们开始尝试与任何外星文明建立联系以补充食品供应。该信息受到异常修改，可即时译为听者的母语。以下是一名[[span class=\"h-span\"]]肯尼迪-3848-XK号[[/span]]船员发送的讯息的文字抄录。\n\n[[div style=\"color: #ccc; font-family: Courier; font-weight: bold; background:#192845 url(http://scp-wiki.wdfiles.com/local--files/the-great-hippo/scp_trans.png) center no-repeat; float: center; border: solid 1px #ffb961; padding: 15px 15px; box-shadow: 0 1px 3px rgba(0,0,0,.2); width: 84%; margin: 4% 4% 4% 4%\"]]\n\n\n[[=]]\n+++ [[span class=\"h-span\"]]来自肯尼迪-3848-XK号的紧急信息[[/span]]\n[[/=]]\n----\n致任何信息接收者。我的名字是George Mallory，我是殖民舰肯尼迪-3848-XK号的船长。收到信息后请立即回复。我们的食物和水储备正在减少。船上有妇女和儿童。我们请求帮助和立即回复信息。\n----\n[[>]]\n-- George Mallory\n肯尼迪-3848-XK号船长\n[[/>]]\n[[/div]]\n\n信息传送24小时后，[[span class=\"h-span\"]]肯尼迪-3848-XK号[[/span]]人员报告称他们接收到了含有异常性质且来源未知的回复信息。\n\n[[span class=\"h-span\"]]附录PL-302/2：[[/span]]已完成译文\n\n2045年11月28日，语言学部完成了对SCP-PL-302内容的翻译。由于该信息令人恐慌的背景，[[span class=\"h-span\"]]肯尼迪-3848-XK号[[/span]]的研究指挥部决定改变航线，且不回应信息。以下是SCP-PL-302的内容。\n\n[[div class=\"centered\"]]\n[[collapsible show=\"SCP-PL-302译文\" hide=\"关闭。\"]]\n[[/div]]\n\n[[div class=\"blockquote\"]]\n= [[size 120%]]{{安静，不然他们会听见你。}}[[/size]]\n[[/div]]\n\n[[/collapsible]]\n\n[[div class=\"footer-wikiwalk-nav\"]]\n[[=]]\n<< [[[SCP-PL-301]]] | SCP-PL-302 | [[[SCP-PL-303]]] >>\n[[/=]]\n[[/div]]",
+  "tags": [
+    "ad-astra",
+    "pl",
+    "safe",
+    "scp",
+    "二次翻译",
+    "听觉影响",
+    "星际",
+    "认知危害",
+    "通讯"
+  ],
+  "author": "Esperanza_Cai",
+  "created_at": "2023-01-13T09:04:15+00:00",
+  "updated_at": "2023-01-13T09:11:06+00:00",
+  "rating": 5,
+  "_site": "scp-wiki-cn",
+  "_fullname": "scp-pl-302"
+}

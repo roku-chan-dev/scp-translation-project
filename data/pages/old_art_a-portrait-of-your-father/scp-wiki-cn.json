@@ -1,0 +1,14 @@
+{
+  "title": "父像映画",
+  "content": "[[include :scp-wiki-cn:theme:basalt darkmode=a]]\n[[module CSS]]\n/* centers page title */\n#page-title {\n  text-align: center;\n}\n\n/* destroys the second brazil in the page */\n#page-content p br:nth-child(2) {\n  display: none;\n}\n\n.related-flex {\n    display: flex;\n    justify-content: center;\n}\n.related {\n    box-shadow: 0px 0px 8px 4px rgba(0, 0, 0, 0.7);\n    background: #191919;\n    padding: 0 1em;\n    margin: 1em 0;\n}\n[[/module]]\n[[div style=\"display: none;\"]]\n[[include component:image-block name=https://imglf6.lf127.net/img/21eff2ada5a1f27e/K1UwdXJJY2hFWmhWTTlwRW5DZlZOOG5BejllQ1NFQ045ZWV2UzVxUVdpVT0.png?imageView&thumbnail=1680x0&quality=96&stripmeta=0|caption=.]]\n[[/div]]\n\n------\n[[image http://czyesperanza.wikidot.com/local--files/pictures/poyf link=\"http://czyesperanza.wikidot.com/local--files/pictures/poyf\"]]\n------\n> **一幅你父亲的肖像：**\n> \n> 眼前的画面朦胧而虚幻。二月郊野天气阴沉，场地里却很温暖，运转中的风扇卷出微湿的气流。地板开裂，油毡破旧，绿色的苔藓爬满盆栽边缘，一路蜿蜒至温室的天花板上。工业荧光灯垂吊着，散发出某种不甚熟悉的白光；要不是下雨，他们早就离开了。父亲不喜欢那些用以取代自然光的工业荧光，它们僵冷又麻木。雨滴落在树脂玻璃顶罩的声音如同鼓点，他回忆起幼时自己曾躺在这块地板上，看着那些人啪嗒啪嗒地冲进收容室里，再从排水沟流走。\n> \n> [[[portraits-of-your-father |而父亲站在那里。]]][[footnote]]**搬运注：**本段译文译者为[[*user Koorilock]]。[[/footnote]]\n[[=]]\n《父像映画》是基于[[*user thefriendlyvandal]]所作的同名Kondraki中心故事而创作的艺术作品。\n\n若您喜欢我的艺术作品，请查看我的[https://twitter.com/anafabulaic 推特]和[[[artpage-fartpage|艺作页]]]\n[[/=]]\n\n\n------\n[[div class=\"related-flex\"]]\n[[div class=\"related\"]]\n**__另请参阅__：**\n* **[[[portraits-of-your-father |]]]**\n* **[[[scp-408|SCP-408]]]**\n[[/div]]\n[[/div]]\n\n[[div]]\n[[=]]\n[[footnoteblock]]\n[[include :scp-wiki-cn:component:license-box\nauthor=stephlynch]]\n=====\n[[<]]\n> **文件名：**zm23AGT.png\n> **图像作者：**[[*user stephlynch]]\n> **授权协议：**CC BY-SA 3.0\n[[/<]]\n=====\n[[include :scp-wiki-cn:component:license-box-end]]\n[[/=]]\n[[/div]]",
+  "tags": [
+    "旧页面",
+    "艺术作品"
+  ],
+  "author": "Esperanza_Cai",
+  "created_at": "2021-09-29T05:41:19+00:00",
+  "updated_at": "2023-04-14T11:25:33+00:00",
+  "rating": 6,
+  "_site": "scp-wiki-cn",
+  "_fullname": "old:art:a-portrait-of-your-father"
+}

@@ -1,0 +1,13 @@
+{
+  "title": "8000contestdrclef 0",
+  "content": "[[module CSS]]\n.fakeprot .mailform-box .buttons{display:none;}\n.fakeprot + .collapsible-block .collapsible-block-link {padding: 0.1em 0.5em;text-decoration: none;background-color: #F4F4F4;border: 1px solid #AAA;color: #000;}\n.fakeprot + .collapsible-block .collapsible-block-link:hover {background-color: #DDD;color: #000;}\n.fakeprot + .collapsible-block .collapsible-block-link:active {background-color: #DDD;color: #000;}\n.fakeprot + .collapsible-block .collapsible-block-unfolded-link{margin:0.5em 0;text-align: center;}\n.fakeprot + .collapsible-block .collapsible-block-folded{margin:0.5em 0;text-align: center;}\n.fakeprot .passw input[type=text] {text-security:disc;-webkit-text-security:disc;-mox-text-security:disc;}\n.mailform-box td:first-child {width: 80px;}\n[[/module]]\n\n[[div class=\"fakeprot\"]]\n[[module MailForm to=\"aaaa (DUMMY)\" button=\"\"]]\n# name\n * title: ID\n * default: <你的ID>\n * type: text\n * rules:\n  * required: true\n  * maxLength:10\n  * minLength: 100\n[[/module]]\n[[div class=\"passw\"]]\n[[module MailForm to=\"aaaa (DUMMY)\" button=\"\"]]\n# affiliation\n * title: 密码\n * default: ・・・・・・・・・\n * rules:\n  * required: true\n  * maxLength:10\n  * minLength: 100\n[[/module]]\n[[/div]]\n[[/div]]\n[[collapsible show=\"登入\" hide=\"登出\"]]\n[[div style=\"border:solid 1px #999999; background:#f2f2c2; padding:5px; margin-bottom: 10px;\"]]\n[[=]]\n++++ 来自基金会记录与信息安全管理部的通知\n\n此文档目前正受到一多元宇宙信息异常的影响。可能会发生视觉、文本和听觉上的损坏。这并非因基金会数据库出现故障而导致的结果。\n\n**RAISA目前无法修正此多元宇宙信息异常。**对于所有关于此文档损坏的报告都将被忽视。\n\n感谢您的谅解。\n\n**[[[https://scp-wiki-cn.wikidot.com/scp-8009/offset/1|点击此处继续]]]**\n\n-- Maria Jones，RAISA主管\n[[/=]]\n[[/div]]\n[[/collapsible]]",
+  "tags": [
+    "段落"
+  ],
+  "author": "Aegnus",
+  "created_at": "2024-04-14T04:43:14+00:00",
+  "updated_at": "2024-04-14T04:43:31+00:00",
+  "rating": 0,
+  "_site": "scp-wiki-cn",
+  "_fullname": "fragment:8000contestdrclef-0"
+}

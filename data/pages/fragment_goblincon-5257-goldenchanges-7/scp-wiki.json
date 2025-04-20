@@ -1,0 +1,13 @@
+{
+  "title": "Liberty Through Cessation - GoldenChanges - 7",
+  "content": "[[include :scp-wiki:theme:black-highlighter-theme]]\n[[include :scp-wiki:theme:raisa]]\n[[include :scp-wiki:component:betterfootnotes]]\n\n++ **Addendum 5257-4: Final Update**\n\nFrom the 3rd of June to the 9th of July, 2029, researchers working on SCP-5257 in the RAISA ran a full-scale research project into SCP-5257, and accessed the Data and Infohazard Deletion System, creating copies of numerous files corrupted by SCP-5257-1 without prerequisite permission. The project was led by Dr. Erin Parker, with the support of Spec. Eric Collins, who did not inform anybody regarding the project.\n\nThe project aimed to uncover numerous aspects regarding SCP-5257, including:\n* the reasoning behind Incident 5257-A, and the sudden shift in SCP-5257-1's behaviour, \n* whether or not SCP-5257-1 has been truthful regarding its identity,\n* how exactly SCP-5257-1 voluntarily corrupts and deletes data, and \n* the motives behind SCP-5257-1's actions.\n\nWhile the first three points were unable to be properly resolved or answered, the project was able to enlighten the RAISA regarding SCP-5257-1's motives.\n\nIt was determined that if SCP-5257-1 were to fully consume all data in its slot, it would be unable to transfer itself to other sections of the database, meaning that it is effectively stuck in the 5257 slot. It was also determined that if such a case were to happen, SCP-5257-1 would actually end up deleting the slot, effectively terminating and neutralising itself, and SCP-5257 as a whole.\n\nFollowing this discovery, Spec. Eric Collins retracted his original proposal to the RAISA regarding the DIDS, and submitted a new proposal to the same departments, advising the RAISA to shut down the DIDS project, and to allow SCP-5257-1 to neutralise.\n\nCollins' proposal was **denied.**\n@@ @@\n@@ @@\n@@ @@\n@@ @@\n@@ @@\n@@ @@\n[[div style=\"border:solid 3px #e0dc74; background:#222200; padding:5px; margin-bottom: 10px;\"]]\n[[=]]\n+++++ ##e0dc74|Update to DIDS Detected!##\n\n##e0dc74|New system announcement has been posted.##\n\n##e0dc74|[[[https://scp-wiki.wikidot.com/goblincon-5257-goldenchanges/offset/8|View?]]]\n##\n[[/=]]\n[[/div]]",
+  "tags": [
+    "fragment"
+  ],
+  "author": "GoldenChanges",
+  "created_at": "2023-05-25T19:51:33+00:00",
+  "updated_at": "2023-06-01T16:12:55+00:00",
+  "rating": 0,
+  "_site": "scp-wiki",
+  "_fullname": "fragment:goblincon-5257-goldenchanges-7"
+}

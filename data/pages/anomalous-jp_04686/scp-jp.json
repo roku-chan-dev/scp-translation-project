@@ -1,0 +1,14 @@
+{
+  "title": "04686",
+  "content": "content: \"**説明:** 書道用A4半紙80枚。毛筆によってこのオブジェクトへ筆記された文字は、即座に当該文字のUTF-8コードをShift_JISとして解読した場合の文字へと改変される。\\n**回収日:** 20██/██/██\\n**回収場所:** ██市立███小学校書道室。\\n**現状:** 低脅威度物品ロッカーに保存。\\n**追記:** 改変後の文字はかなり上手です。ここの\\\"繧\\\"とか、特に達筆ですね。 -██研究員\\nこれほどダイナミックに書かれた半角カタカナを見る機会もそうないでしょう -███博士\"\ntf2: '0'\nauthor: ''\nredirect-b: '[[module Redirect destination=\"http://ja.scp-wiki.net/log-of-anomalous-items-jp'\nredirect-e: '\"]]'",
+  "tags": [
+    "jp",
+    "剪定対象-子"
+  ],
+  "author": "Snowy-Yukinko",
+  "created_at": "2024-07-03T07:40:37+00:00",
+  "updated_at": "2024-07-03T07:42:46+00:00",
+  "rating": 34,
+  "_site": "scp-jp",
+  "_fullname": "anomalous-jp:04686"
+}

@@ -1,0 +1,14 @@
+{
+  "title": "10079",
+  "content": "overview: 'JR███線・███駅23:39発の普通列車が運行中に線路上から外れ、太陽系外縁へ向かいました。車両は火星・ケレス・土星などに接近した後、海王星軌道近傍の一点を経由して地球へ帰還。真空および事実上の光速超過は車両や乗客に影響を及ぼさず、次の███駅着に遅れもありませんでした。'\nswdate: '1'\ndate: '2018/10/04　23:41～23:44'\nswplace: '1'\nplace: 長野県██市\nswchaseprocedure: '1'\nchaseprocedure: 乗客および関係者にはクラスA記憶処理が施されました。地上からの観測に実効的なものは少なく、車両内からの記録についてもすべて編集が完了しています。\nswaddendum: '0'\naddendum: ''\ntf2: '1'\nauthor: furabbit\nredirect-b: '[[module Redirect destination=\"/log-of-extranormal-events-jp'\nredirect-e: '\"]]'",
+  "tags": [
+    "jp",
+    "剪定対象-子"
+  ],
+  "author": "machikawa",
+  "created_at": "2020-07-24T04:29:43+00:00",
+  "updated_at": "2021-05-24T13:21:06+00:00",
+  "rating": 21,
+  "_site": "scp-jp",
+  "_fullname": "extranormal-events-jp:10079"
+}

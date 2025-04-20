@@ -1,0 +1,19 @@
+{
+  "title": "SCP-6343",
+  "content": "[[>]]\n[[module Rate]]\n[[/>]]\n\n**Item #:** SCP-6343\n\n**Object Class:** Neutralized \n\n**Special Containment Procedures:** SCP-6343's containment cell is to be monitored by one guard at all times. Changes in the behavior of SCP-6343 are to be reported to site staff.\nNo attempts to open or otherwise access SCP-6343 are to be made until further notice.\n\nAs of 16/2/21, SCP-6343 is considered neutralized.\n\n**Description:** SCP-6343 is a large rectangular container composed of an anomalously strong form of glass and a wooden base. A small locked hatch is located on the back of SCP-6343, although all attempts to open it have failed. A metal plaque is attached to the base of SCP-6343, with the words 'The Amazing Non-Existing Beast' present on its surface.\n\nSeveral objects are contained within SCP-6343:\n\n* A wooden chair.\n* A pair of shackles, both bolted to the floor. \n* Two metal bowls, both exhibiting signs of previously containing unidentified forms of meat and water, respectively. \n* A key, thought to be used to open the hatch on the back of SCP-6343, although this cannot be tested due to the key's currently unreachable location.\n \nThe objects within SCP-6343 are commonly moved and struck against the walls in a violent manner, and all show signs of severe damage. Notably, the shackles are in motion near the floor at most times. Noise regularly originates from SCP-6343, including muffled vocalizations and banging on its glass walls.\n\n**Recovery:** SCP-6343 was recovered in a recently-abandoned pawn shop in Halifax, Nova Scotia. A note was found taped onto the object's exterior, which read as follows:\n\n[[code]]\nNot sure how the hell this thing works, but it's been \ngoing apeshit since I dropped the key in yesterday. \nNo wonder that guy was in such a hurry to get rid of it. \n\nFor some reason the door-thingy locked itself automatically. \nCould you call someone to get it open?\n\nThanks.\n[[/code]]\n\n \n\nThe following is a log of all reported behavior of SCP-6343 during its period of containment: \n\n\n||11/2/21|| Object is first contained.||\n|| 11/2/21 || Muffled yelling, banging on glass. Noises cease at 11:37 PM.||\n|| 12/2/21 || Previous day's behavior resumes. Metal bowls are interacted with; food waste and water droplets within the bowls appear to de-manifest via unknown means. All behavior ceases at 10:49 PM.||\n|| 13/2/21 || Previous day's behavior resumes.  Objects now being violently thrown and struck against walls. Behavior ceases at 8:21 PM.||\n|| 14/2/21 || Behavior resumes, with much less frequency. Vocalizations are reported to sound much less aggressive in tone. Ceases at 5:44 PM. ||\n|| 15/2/21 || Behavior resumes later than normal, now exclusively consists of infrequent moaning. Ceases at 1:30 PM.  ||\n|| 16/2/21 || No activity until 9:29 AM, when a loud thump is heard from SCP-6343. Shackles and chair are moved from their prior position. ||\n\nAll anomalous activity from within SCP-6343 has ceased since 16/2/21, and the glass comprising its walls was able to be easily broken the following day. With the exception of the previously mentioned objects, nothing was found inside.\n\n@@ @@\n@@ @@\n\n[[include component:wikimodule |normal= --]]]\n\n[[div class=\"footer-wikiwalk-nav\"]]\n[[=]]\n<< [[[SCP-6342]]] | SCP-6343 | [[[SCP-6344]]] >>\n[[/=]]\n[[/div]]\n@@ @@\n@@ @@\n[[include :scp-wiki:component:license-box\n|author=DukeCrusty]]\n=====\n[[include :scp-wiki:component:license-box-end]]",
+  "tags": [
+    "_licensebox",
+    "acoustic",
+    "artifact",
+    "inscription",
+    "miniature",
+    "neutralized",
+    "scp"
+  ],
+  "author": "DukeCrusty",
+  "created_at": "2021-08-20T22:00:58+00:00",
+  "updated_at": "2023-12-09T14:44:05+00:00",
+  "rating": 75,
+  "_site": "scp-wiki",
+  "_fullname": "scp-6343"
+}

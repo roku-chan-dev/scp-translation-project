@@ -1,0 +1,18 @@
+{
+  "title": "Klakkr's Artwork",
+  "content": "[[module css]]\n\n.main {\n    background-image: url(\"https://inspirationhut.net/wp-content/uploads/2014/09/grey-paper-texture.jpg\");\n    background-color: #ededed;\n    border: 0px solid black;\n    margin: 1em;\n    padding: 2.1em;\n    font-size: 100%;\n    box-shadow: 0px 0px 5px;\n}\n\n.cadre {\n    border: 1px solid black;\n    box-shadow: 0px 0px 2px;\n    margin: 2em 0em;\n}\n\n.soustexte {\n    font-size: 80%;\n    color: #828282;\n}\n\n[[/module]]\n\n[[>]]\n[[module Rate]]\n[[/>]]\n\n[[div class=\"main\"]]\n\n[[=]]\n**Welcome ! I'm a CGI Artist.**\n[[/=]]\n\n[[div class=\"soustexte\"]]\n[[=]]\n//click to enlarge image//\n[[/=]]\n[[/div]]\n\n[[div class=\"cadre\"]]\n[[image https://i.redd.it/41g9hyl72be71.png link=\"https://i.redd.it/41g9hyl72be71.png\" ]]\n[[/div]]\n\n[[div class=\"cadre\"]]\n[[image https://i.redd.it/zd6yme9yq4s51.png link=\"https://i.redd.it/zd6yme9yq4s51.png\" ]]\n[[/div]]\n\n[[div class=\"cadre\"]]\n[[image https://i.redd.it/43500myibcr51.png link=\"https://i.redd.it/43500myibcr51.png\" ]]\n[[/div]]\n\n[[div class=\"cadre\"]]\n[[image https://i.redd.it/q1tc96ntgcq51.png link=\"https://i.redd.it/q1tc96ntgcq51.png\" ]]\n[[/div]]\n\n[[div class=\"cadre\"]]\n[[image https://i.redd.it/w70tfoqicym51.png link=\"https://i.redd.it/w70tfoqicym51.png\" ]]\n[[/div]]\n\n[[div class=\"cadre\"]]\n[[image https://i.redd.it/x7rpn8hjhzl51.png link=\"https://i.redd.it/x7rpn8hjhzl51.png\" ]]\n[[/div]]\n\n[[div class=\"cadre\"]]\n[[image https://i.redd.it/qvmw5otludl31.png link=\"https://i.redd.it/qvmw5otludl31.png\" ]]\n[[/div]]\n\n[[/div]]\n\n[[include :scp-wiki:component:license-box\n|author=Klakkr]]\n=====\n\n> **Filename:** SCP-4158\n> **Name:** SCP-4158\n> **Author:** [[*user Klakkr]]\n> **License:** CC BY-SA 3.0\n> **Source Link:** http://scp-wiki.wikidot.com/klakkr-art\n\n> **Filename:** SCP-049\n> **Name:** SCP-049\n> **Author:** [[*user Klakkr]]\n> **License:** CC BY-SA 3.0\n> **Source Link:** http://scp-wiki.wikidot.com/klakkr-art\n\n> **Filename:** SCP-939\n> **Name:** SCP-939\n> **Author:** [[*user Klakkr]]\n> **License:** CC BY-SA 3.0\n> **Source Link:** http://scp-wiki.wikidot.com/klakkr-art\n\n> **Filename:** SCP-1762\n> **Name:** SCP-1762\n> **Author:** [[*user Klakkr]]\n> **License:** CC BY-SA 3.0\n> **Source Link:** http://scp-wiki.wikidot.com/klakkr-art\n\n> **Filename:**  SCP-738\n> **Name:** SCP-738\n> **Author:** [[*user Klakkr]]\n> **License:** CC BY-SA 3.0\n> **Source Link:** http://scp-wiki.wikidot.com/klakkr-art\n\n> **Filename:** SCP-682\n> **Name:** SCP-682\n> **Author:** [[*user Klakkr]]\n> **License:** CC BY-SA 3.0\n> **Source Link:** http://scp-wiki.wikidot.com/klakkr-art\n\n> **Filename:** SCP-173\n> **Name:** SCP-173\n> **Author:** [[*user Klakkr]]\n> **License:** CC BY-SA 3.0\n> **Source Link:** http://scp-wiki.wikidot.com/klakkr-art\n\n=====\n[[include :scp-wiki:component:license-box-end]]",
+  "tags": [
+    "_cc",
+    "_licensebox",
+    "artist",
+    "plague-doctor",
+    "scp-art",
+    "the-sculpture"
+  ],
+  "author": "Klakkr",
+  "created_at": "2020-10-13T07:55:39+00:00",
+  "updated_at": "2024-03-28T17:36:05+00:00",
+  "rating": 85,
+  "_site": "scp-wiki",
+  "_fullname": "klakkr-art"
+}

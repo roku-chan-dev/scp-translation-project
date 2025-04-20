@@ -1,0 +1,14 @@
+{
+  "title": "10146",
+  "content": "overview: 日本国内で発生した病死を除く全ての死亡の瞬間が何らかの映像機器によって偶発的に撮影されました。財団によって確認された全3568名の死亡自体に異常性は確認されていません。\nswdate: '1'\ndate: '2020/10/16 00:00～23:59（JST）'\nswplace: '1'\nplace: 日本各地\nswchaseprocedure: '1'\nchaseprocedure: ネット上に投稿された映像記録は全て財団によって回収され、カバーストーリー「合成映像」が適応されました。\nswaddendum: '1'\naddendum: '**追記:** 回収された映像記録を財団が調査した結果、死亡対象の表情を確認できた全ての事例で対象が笑っていた事が判明しています。現在、EE-1146-JPのオブジェクト指定が審議されています。'\ntf2: '0'\nauthor: ''\nredirect-b: '[[module Redirect destination=\"/log-of-extranormal-events-jp'\nredirect-e: '\"]]'",
+  "tags": [
+    "jp",
+    "剪定対象-子"
+  ],
+  "author": "Hoojiro_san",
+  "created_at": "2023-01-31T15:42:17+00:00",
+  "updated_at": "2023-01-31T19:27:33+00:00",
+  "rating": 22,
+  "_site": "scp-jp",
+  "_fullname": "extranormal-events-jp:10146"
+}

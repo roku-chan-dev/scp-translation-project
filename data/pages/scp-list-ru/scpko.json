@@ -1,0 +1,14 @@
+{
+  "title": "SCP-RU 목록",
+  "content": "[[div class=\"content-panel standalone series\"]]\n\n[[div class=\"content-toc\"]]\n**목차**\n[/scp-series-ru#operational SCP 관련 정보]\n[/scp-series-ru#list SCP 목록]\n[/scp-series-ru#1000 1001 - 1099]\n[/scp-series-ru#1100 1100 - 1199]\n[/scp-series-ru#1200 1200 - 1299]\n[/scp-series-ru#1300 1300 - 1399]\n[/scp-series-ru#1400 1400 - 1499]\n[/scp-series-ru#1500 1500 - 1599]\n[/scp-series-ru#1600 1600 - 1699]\n[/scp-series-ru#1700 1700 - 1799]\n[/scp-series-ru#1800 1800 - 1899]\n[/scp-series-ru#1900 1900 - 1999]\n[/scp-series-ru#content 자료 보관]\n\n[[/div]]\n\n[[# operational]]\n+ SCP 관련 정보\n\n* [[[Security Clearance Levels|보안 인가 등급]]]\n* [[[Object Classes|등급]]]\n* [[[Secure Facilities Locations|보안 시설 위치]]]\n* [[[Task Forces|특무부대]]]\n\n[[# list]]\n+ SCP 목록\n[[# 1000]]\n+ 1001 – 1099\n* [[[SCP-1003-RU]]] - 시간 축전지\n* [[[SCP-1038-RU]]] - 우리를 잊지 말아줘\n* [[[SCP-1040-RU]]] - 업그레이드된 SVD\n\n[[# 1100]]\n+ 1100 - 1199\n\n[[# 1200]]\n+ 1200 - 1299\n\n[[# 1300]]\n+ 1300 - 1399\n* [[[SCP-1393-RU]]] - 잔잔한 바다\n* [[[SCP-1399-RU]]] - 다시, 깨어나다\n\n[[# 1400]]\n+ 1400 - 1499\n\n[[# 1500]]\n+ 1500 - 1599\n\n[[# 1600]]\n+ 1600 - 1699\n\n[[# 1700]]\n+ 1700 - 1799\n* [[[SCP-1711-RU|]]] - 대상의 이름은 무엇인가? 문답 카드다.\n\n[[# 1800]]\n+ 1800 - 1899\n\n[[# 1900]]\n+ 1900 - 1999\n\n[[/div]]\n[[div class=\"content-panel standalone series\"]]\n[[# content]]\n+ 자료 보관\n* [[[joke-scps-ru|농담 SCP-RU]]] - 작성하기 전에 기발하고 재밌는 요소가 들어 있는지 확인하세요.\n* [[[archived-scps-ru|보존 SCP-RU]]] - 재단 이야기에 필요하거나 운영진 권한으로 보존된 항목입니다.\n* [[[scp-ru-ex|해명 SCP-RU]]] - 여기에는 더 이상 이상하거나 초자연적이거나 비범하지 않은 항목이 들어가야 함을 염두에 두고 작성해야합니다.\n* [[[log-of-anomalous-items-ru|러시아 변칙 항목 기록]]] - SCP는 아니지만 여전히 변칙적인 대상입니다. 자유롭게 추가할 수 있지만 정기적으로 질 나쁜 항목은 잘라냅니다.\n* [[[log-of-extranormal-events-ru|러시아 이상 징후 기록]]] - 설명하기 어려운 이상한 일이 잠깐 벌어졌으나 재단이 격리하기 전에 너무 빨리 나타났다 사라진 사건입니다. 자유롭게 추가할 수 있지만 정기적으로 질 나쁜 항목은 잘라냅니다.\n[[/div]]",
+  "tags": [
+    "ru",
+    "허브"
+  ],
+  "author": "Elfen_mathL",
+  "created_at": "2018-09-05T19:14:11+00:00",
+  "updated_at": "2024-11-24T05:09:39+00:00",
+  "rating": 1,
+  "_site": "scpko",
+  "_fullname": "scp-list-ru"
+}

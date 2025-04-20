@@ -1,0 +1,13 @@
+{
+  "title": "",
+  "content": "如未跳转请关闭浏览器重定向拦截\n[[html]]\n<head>\n</head>\n<body>\n<script>\nwindow.top.location.href = 'http://scpsandboxcn.wikidot.com/local--files/scp-cn-2460/SCP-CN-2460-1.html';\n</script>\n</body>\n[[/html]]",
+  "tags": [
+    "段落"
+  ],
+  "author": "Doctor HHZ",
+  "created_at": "2022-07-24T09:29:18+00:00",
+  "updated_at": "2024-04-29T11:16:11+00:00",
+  "rating": 0,
+  "_site": "scp-wiki-cn",
+  "_fullname": "fragment:scp-cn-2460-1"
+}

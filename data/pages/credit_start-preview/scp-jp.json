@@ -1,0 +1,14 @@
+{
+  "title": "クレジット付き評価モジュール：start(プレビュー用)",
+  "content": "[[module css]]\n@import url('https://scp-jp.github.io/files/util/common/credit/style/style.css');\n\n.creditRate.no-rate .page-rate-widget-box {\n    visibility:hidden;\n}\n\n.creditRate.creditModule.no-rate ~ #u-credit-view .creditBottomRate > div:nth-of-type(2) {\n    display; none;\n}\n[[/module]]\n\n[[div_ class=\"creditRate creditModule {$mode}\"]]\n[[div_ class=\"rateBox\"]]\n[[div_ class=\"rate-box-with-credit-button\"]]\n[[module Rate]]\n[[div_ class=\"creditButton\"]]\n[[a href=\"#u-credit-view\" class=\"fa fa-info\" style=\"position:relative;\"]][[image http://scp-jp.wikidot.com/local--files/nav:side/blank.png title=\"クレジットを表示する\" style=\"position:absolute;height:100%;width:100%;top:0;left:0;\"]][[/a]]\n[[/div]]\n[[/div]]\n[[/div]]\n[[/div]]\n\n[[div_ style=\"clear:both;\"]]\n[[/div]]\n\n[[div_ id=\"credit-view\"]]\n[[div_ class=\"fader\"]]\n[[iframe https://scp-jp.github.io/files/util/common/credit/backmodule/start.html ]]\n[[/div]]\n\n[[div_ class=\"modalcontainer\"]]\n[[div_ class=\"modalbox\"]]\n[[div_ class=\"modalbox-title\"]]\n++* クレジット\n[[/div]]\n[[div class=\"credit\"]]",
+  "tags": [
+    "jp",
+    "コンポーネント"
+  ],
+  "author": "ukwhatn",
+  "created_at": "2020-10-08T08:26:41+00:00",
+  "updated_at": "2022-01-08T10:15:44+00:00",
+  "rating": 13,
+  "_site": "scp-jp",
+  "_fullname": "credit:start-preview"
+}

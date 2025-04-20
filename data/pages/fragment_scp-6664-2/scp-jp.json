@@ -1,0 +1,14 @@
+{
+  "title": "SCP-6664 2",
+  "content": "[[include :scp-jp:theme:blankstyle]]\n[[include :scp-jp:component:fade-in speed=1]]\n[[module css]]\n:root{\n  --header-title: \"Site-87\";\n  --header-subtitle: \"物語とネクサス理論の研究\";\n}\n\ndiv#extra-div-1 {\n    background-image: url(http://scp-jp-storage.wikidot.com/local--files/file:5881921-4-z4kl/C7D5345D-D1D3-4BCA-9E35-DCC44750AC00.png);\n    filter: opacity(20%);\n}\n[[/module]]\n\n\n[[div class=\"blockquote\"]]\n//最初の文書からの変更点は##blue|青字##で強調表示されています。//\n[[/div]]\n\n[[include :scp-jp:component:anomaly-class-bar-source\n\n    |item-number= SCP-6664\n\n    |clearance= 1\n\n    |container-class= safe\n\n    |secondary-class= none\n\n    |disruption-class= dark\n\n    |risk-class= caution\n\n    ]]\n\n-----\n\n[[include component:image-block name=http://scp-jp-storage.wikidot.com/local--files/file:2375337-1202-w35s/treeIII.jpg|align=center|width=100%|caption=収容以前のSCP-6664。]]\n\n-----\n\n**特別収容プロトコル:** SCP-6664は##blue|サイト-87##の温室に収容されます。枝を傷付ける恐れがあるため、SCP-6664に登ることは許可されません。\n\n**説明:** SCP-6664は //##blue|Malus domestica##// 、より一般的には##blue|セイヨウリンゴ##と呼ばれる植物種の樹木であり、現在は##blue|サイト-87##に位置しています。その異常性を除いて、SCP-6664は同種の樹木と同一です。\n\nSCP-6664の異常性は、##blue|キング博士が接近する##時に活性化します。##blue|キング博士がSCP-6664の樹下に入ると##、通常予想されるように##blue|何も起こらない##代わりに、##blue|SCP-6664の全ての果実が同時に消失します。果実が内包する全ての種子は地面に落下します。これらの種子##はSCP-6664-1と指定されています。\n\nSCP-6664-1は##blue|SCP-6664によって生成された自律運動するリンゴの種子##です。SCP-6664-1##blue|は自らの着地点を操作することが可能であり、一貫して落下時にキング博士に命中する目的でこの能力を使用します。##\n\n-----\n\n[[=]]\n+ **補遺6664.01: 発見**\n[[/=]]\n\nSCP-6664は2014年1月28日、##blue|財団の上席研究員##である##blue|エヴァレット・キング博士##が、##blue|SCP-6664の下を歩いた際にリンゴの種を数個ぶつけられたと##報告した後に発見されました。##blue|数日後に再びSCP-6664の下を通り掛かったキング博士は、もう一度数個の##SCP-6664-1##blue|実例をぶつけられ##、潜在的アノマリーとして報告しました。SCP-6664はその後、##blue|サイト-87##に植え替えられました。\n\n[[div class=\"blockquote\"]]\n//誰がこれを書いたんですか？ この資料は明らかに事実と異なります。私が自分で修正することにしました。//\n\n//- ロングキャッスル博士//\n\n**添付ファイル:** [[[http://scp-jp.wikidot.com/scp-6664/offset/3| SCP-6664-amended-documentation.pdf]]]\n\n[[/div]]",
+  "tags": [
+    "en",
+    "フラグメント"
+  ],
+  "author": "C-Dives",
+  "created_at": "2025-01-16T16:35:04+00:00",
+  "updated_at": "2025-01-16T16:35:32+00:00",
+  "rating": 0,
+  "_site": "scp-jp",
+  "_fullname": "fragment:scp-6664-2"
+}

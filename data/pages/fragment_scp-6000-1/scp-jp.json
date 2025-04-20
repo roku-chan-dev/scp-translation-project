@@ -1,0 +1,14 @@
+{
+  "title": "6000contestyurt-1 -- \"FLASHES\"",
+  "content": "[[include :scp-jp:component:centered-header-bhl]]\n[[include :scptestwiki:rso6k]]\n[[module CSS]]\n@import url('https://fonts.googleapis.com/css2?family=Staatliches&display=swap');\n@import url('https://fonts.googleapis.com/css2?family=Oxanium&display=swap');\n\ndiv.revs {\nborder: solid 3px lightgray;\nbackground: rgb(var(--dark-gray-monochrome));\npadding:0.5rem 1rem;\nfont-weight: bold;\n}\n\n.revs a:visited, .revs a {\n     color:red;\n     filter: drop-shadow(0px 0px 0.05rem red);\n     font-family: 'Oxanium', cursive;\n}\n[[/module]]\n\n\n\n[[div style=\"background: url(http://kaktuskontainer.wdfiles.com/local--files/format-hell/scp_trans.png) bottom center no-repeat; text-align: center; width: 600px; margin: 0 auto; font-size: 20px; padding: 0px;\"]]\n\n@@ @@\n@@ @@\n\n@@ @@\n\n@@ @@\n\n[[=]]\n++* ##black|BY ORDER OF THE OVERSEER COUNCIL##\n##black|以下のファイルはレベル4/6000に指定されています。許可なきアクセスは禁じられています。##\n[[/=]]\n= **##black| >> 網膜ID認証を実行する << ##**\n\n@@ @@\n\n@@ @@\n\n[[/div]]\n\n@@ @@\n@@ @@\n@@ @@\n@@ @@\n= [[span style=\"font-family: 'Oxanium', cursive; font-size: 1.25rem; background: rgb(var(--black-monochrome)); color: red; padding: 6px 6px; border-radius: 5px;\"]]おかえりなさいませ、ムース管理官。[[/span]]\n@@ @@\n@@ @@\n@@ @@\n@@ @@\n\n[[div style=\"border:solid 3px #444; background:#f2f2c2 url('http://kaktuskontainer.wdfiles.com/local--files/format-hell/scp_trans.png') center center no-repeat; padding: 1.5rem; margin-bottom: 10px;font-family: 'Oxanium', cursive;\"]]\n[[=]]\n++++ 記録情報セキュリティ管理室より通達\n以下の二つのファイルは2022年6月25日SCiPnetによりSCP-6000のスロットがプレースホルダーとして自動作成された際に発見されました。ファイルの履歴は残されていませんでした。\n\nその内容及び疑問の残る発見状況に鑑み、O5評議会は当該ファイルを変更せずに残すよう決定しました。**以下に記述されるいかなる事象も実際には発生していません。SCP-6000の所在と記述されている座標地点には、特筆すべきものは何もありません。**\n\n//-- マリア・ジョーンズ管理官，RAISA//\n[[/=]]\n[[/div]]\n@@ @@\n[[div class=\"revs\"]]\n[http://scp-jp.wikidot.com/scp-6000/offset/1 ▶/scp-6000/revision-0235/jan-07-2030]\n[http://scp-jp.wikidot.com/scp-6000/offset/2 ▶/scp-6000/revision-0894/feb-28-2030]\n[[/div]]",
+  "tags": [
+    "en",
+    "フラグメント"
+  ],
+  "author": "RAY_AFT",
+  "created_at": "2021-05-28T18:57:07+00:00",
+  "updated_at": "2023-01-20T11:19:33+00:00",
+  "rating": 0,
+  "_site": "scp-jp",
+  "_fullname": "fragment:scp-6000-1"
+}

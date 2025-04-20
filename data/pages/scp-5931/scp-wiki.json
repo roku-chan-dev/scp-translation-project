@@ -1,0 +1,23 @@
+{
+  "title": "SCP-5931",
+  "content": "[[>]]\n[[module Rate]]\n[[/>]]\n\n[!--\nFragments:\nhttp://scp-wiki.wikidot.com/fragment:scp-5931-1\nhttp://scp-wiki.wikidot.com/fragment:scp-5931-2\n--]\n\n[[module ListPages category=\"fragment\" parent=\".\" order=\"created_at\" limit=\"1\" offset=\"@URL|0\"]]\n%%content%%\n[[/module]]\n\n[[footnoteblock]]\n[[div class=\"footer-wikiwalk-nav\"]]\n[[=]]\n<< [[[SCP-5930]]] | SCP-5931 | [[[SCP-5932]]] >>\n[[/=]]\n[[/div]]\n\n[[include component:license-box\n|author=PortDanceWavers]]\n=====\n> **Filename:** Time-Gun\n> **Name:** Colt Official Police .22lr circa 1938 (4).jpg\n> **Author:** Stephen Z\n> **License:** CC BY-SA 2.0\n> **Source Link:** [http://w.wiki/7Jgm Wikimedia Commons]\n=====\n[[include component:license-box-end]]",
+  "tags": [
+    "5000",
+    "_cc",
+    "_licensebox",
+    "_listpages",
+    "historical",
+    "paradox",
+    "safe",
+    "scp",
+    "teleportation",
+    "temporal",
+    "weapon"
+  ],
+  "author": "Hydrails-EPSILON",
+  "created_at": "2020-01-20T02:26:43+00:00",
+  "updated_at": "2025-01-06T03:21:20+00:00",
+  "rating": 174,
+  "_site": "scp-wiki",
+  "_fullname": "scp-5931"
+}

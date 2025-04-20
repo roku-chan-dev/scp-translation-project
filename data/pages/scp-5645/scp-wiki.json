@@ -1,0 +1,18 @@
+{
+  "title": "SCP-5645",
+  "content": "[[module CSS]]\nsup {\nvertical-align: top; position: relative; top: -0.5em;\n}\n[[/module]]\n\n[[include :topia:credit:start]]\n\n[[=]]\n\n**SCP-5645** The End of Nothing Special\n\n[[/=]]\n\n------\n\n**Author:** [[*user Crashington]]\n\n**More from this author:** http://www.scp-wiki.net/poi-3181-198-file\n\n[[include :topia:credit:end]]\n------\n\n[[include :scp-wiki:component:classified-decoration\n|lv=2\n|item=5645\n|oc=Safe\n|lang=EN\n]]\n\n------\n\n**Special Containment Procedures:** SCP-5645 is stored in a standard cryogenic storage unit in Site-345. No tests are currently scheduled for it. Nils Wendler is to stay under surveillance and any possible anomalous events surrounding him are to be documented in this article.\n\n**Description:** SCP-5645 is a corpse of a child that is a biological clone of Nils Wendler, a 35-year-old unmarried office worker from Cologne, Germany. SCP-5645 is genetically identical to Wendler, as well as sharing several phenotypical traits such as a large birthmark on its right-hand wrist. While SCP-5645 anatomically resembles an 8-year-old male, it has been chemically dated to the year 1992, thus apparently having not chemically aged for 27 years.\n\n**Discovery:** SCP-5645 was found on the 24th of February, 2019 in the garbage disposal bin behind the apartment complex in which Nils Wendler resides. When local investigators conducted an autopsy on it, its chronological discrepancy was discovered, upon which the Foundation became alert to it. In the following investigation, nearby residents were interviewed for possible sightings of the body being placed in its place of discovery. During these, the visual resemblance to Nils Wendler was noticed and subsequent tests led to the SCP-Object designation. Wendler appears to be oblivious to the origin of SCP-5645. When confronted with it seemingly being his own corpse at a different age he initially appeared shocked, though he regained his composure quickly and expressed a desire to be left alone. \n\nWendler was provisionally taken into custody and encouraged to give out any information that might be relevant to SCP-5645's appearance. Even after repeated interviews, Wendler refused to say anything about SCP-5645 and his unusual reaction upon its discovery. Upon being told of soon being amnestised and released back into his home, he only made one comment:\n\n> Look, that thing out there? I lost it a long time ago, so it's no real surprise to see it turn up dead. But this is a personal issue. And honestly, at this point, it would be a great relief if you guys could make me forget about it having been me.\n\n[[footnoteblock]]\n\n[[div class=\"footer-wikiwalk-nav\"]]\n[[=]]\n<< [[[SCP-5644]]] | SCP-5645 | [[[SCP-5646]]] >>\n[[/=]]\n[[/div]]\n\n[[include :scp-wiki:component:license-box]]\n[!-- N/A (No Images)  --]\n[[include :scp-wiki:component:license-box-end]]",
+  "tags": [
+    "_licensebox",
+    "biological",
+    "cadaver",
+    "humanoid",
+    "safe",
+    "scp"
+  ],
+  "author": "Crashington",
+  "created_at": "2021-03-13T05:52:55+00:00",
+  "updated_at": "2022-04-19T12:13:30+00:00",
+  "rating": 14,
+  "_site": "scp-wiki",
+  "_fullname": "scp-5645"
+}

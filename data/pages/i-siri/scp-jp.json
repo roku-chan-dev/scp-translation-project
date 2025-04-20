@@ -1,0 +1,14 @@
+{
+  "title": "私はSiri、あなたの…",
+  "content": "[[module css]]\n.footnoteref{\ncolor: #FF5555;\n}\n.danke{\npadding: 5px 5px 5px 15px;\nmargin-bottom:10px;\nwidth: 100%;\nfont-family: monospace;\nfont-size: 1.1em; }\n\n.agent{\nbackground-color:#002200;\nborder: 3px solid #55AA55;\ncolor: #77CC77;\n}\n\n.site{\nbackground-color:#222200;\nborder: 3px solid #AAAA55;\ncolor: #DDDD77;\n}\n[[/module]]\n\n[[include :scp-jp:credit:start]]\n**タイトル:** 私はSiri、あなたの…\n**著者:** [[*user nekuraneko]]\n**作成年:** 2023\n[[include :scp-jp:credit:end]]\n\n\n[[div class=\"danke agent\"]]\n私は\n　　\n　　　　　　　　サメ人間\n　　　　　　　　　　　　　　　すみません、聞き取れませんでした\n　　　　\n私はSiri、あなたのバーチャル鮫アシスタントです。\n[[/div]]\n\n\n[[image http://scp-jp-storage.wikidot.com/local--files/file:8595522-3-4yvi/ooooo.png]]\n\n[[div class=\"danke agent\"]]\n@@@@\n@@@@\n[[collapsible show=\"+ スマホ人間シャーク\" hide=\"-こちらが見つかりました \"]]\n[[*user Mitan]]様の著作[[[scp-3073-jp |SCP-3073-JP]]]より\n[[/collapsible]]\n\n[!-- 上はクレジット付き評価モジュールです。下書きページを新規に作成したら、まず[[include]]の左端に挿入されている☆を消去し、あなたの下書きのクレジット情報を適切に記入してください。その後モジュールとこのテキストとの間に下書きの本文を入力してください。\n本投稿の際はこのテキストより上の部分をコピー&ペーストしてください。 --]\n\n[[footnoteblock]]\n[!-- これは脚注をコメント欄の上に表示するために必要な構文です。不要な場合は削除してください。 --]\n@@@@\n@@@@\n[[collapsible show=\"+ 使用画像のライセンス表示を開いて\" hide=\"- こちらが見つかりました\"]]\n[[div class=\"blockquote\"]]\n\n**ファイルページ:** [*http://scp-jp-storage.wikidot.com/file:8595522-3-4yvi 無題のファイル(3)]\n\n**ソース:**\n**ライセンス:** CC BY-SA 3.0\n\n**タイトル:** サメ\n**著作権者:** [[*user nekuraneko]]\n**公開年:** 2023\n**補足:**\n\n[[/div]]\n\n[[/collapsible]]\n@@@@\n@@@@\n@@@@\n[[/div]]",
+  "tags": [
+    "jp",
+    "アートワーク"
+  ],
+  "author": "nekuraneko ",
+  "created_at": "2023-08-01T06:59:01+00:00",
+  "updated_at": "2023-08-01T06:59:18+00:00",
+  "rating": 68,
+  "_site": "scp-jp",
+  "_fullname": "i-siri"
+}

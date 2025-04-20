@@ -1,0 +1,20 @@
+{
+  "title": "SCP-7404",
+  "content": "[[include theme:broken-masquerade]]\n[[module CSS]]\n\n.body-text {\n    margin: 2% 13% 2% 9%;\n    padding: 5px 20px 5px 20px;\n    background-color: #f2f2f2;\n    color: #111;\n}\n\n.text4desk {\n    width: 70%;\n    margin: auto;\n}\n\n@media only screen and (max-width: 600px) {\n\n    .body-text {\n        margin: 0% 4% 0% 4%;\n    }\n\n    .text4desk {\n        width:100%;\n    }\n\n}\n\n\n[[/module]]\n[[include :scp-wiki:component:cd-ver2\n|lv=0\n|item=SCP-7404\n|class=Neutralized\n|site-responsible=INTRANET-1\n|director=ASE.aic\n|research-head=%CE%B8u-7404\n|assigned-task-force=N/A\n]]\n[[a href=\"*http://scp-int.wikidot.com/niveaux-de-menace-des-objets-scp\" style=\"font-size: 18px; color: white; text-shadow: 1px 3px 1px rgba(0,0,0,0.3); text-decoration: none;\"]]\n[[span_ style=\"display: inline-block; width: 100%; background-color: green; text-align: center; border: 1px none #000; margin: 1px; padding-top: 8px; padding-bottom: 8px;\"]]\n**威胁等级：**绿色\n[[/span]]\n[[/a]]\n----\n**特殊收容措施：**SCP-7404的位置已被指派为SCP-7404的埋葬地，并已完成相应安置。为此，SCP-7404已面向公众解密。 \n\n**描述：**SCP-7404是一只以信息为食的敌意实体，能在文本及电子数据系统中穿行。在遭遇时，它一般会显现为一张神话中地狱犬的图画。\n\nSCP-7404在2010年2月13日被SCP基金会首次遭遇，当时发现它正在进食USNVBR-Site-56数据库备份的内容。从当时起直至04/01/2022，SCP-7404会周期性地以基金会数据中心为目标，尽其所能吞食信息直至被侦测到。它曾被六次收容，每次平均维持6个月后便会逃脱。\n\n与大部分食信体不同，SCP-7404会受衰老和疾病影响。 SCP-7404的图画会随时间消褪，在2021年12月之后，检查图画后发现它患有血管肉瘤。[[footnote]]影响血管内层的癌症，在犬类中常见。[[/footnote]]\n\n2022年1月4日，SCP-7404自愿进入到收容中，与SCP基金会建立其交流。SCP-7404对其病症知情，为交换临终关怀和今后的埋葬，它同意停止敌对。上述条件在06/01/2022被接受。\n\nSCP-7404于2022年2月13日去世。根据其请求，它被埋葬于这篇文件中。\n----\n[[size 150%]]\n= **附录**\n[[/size]]\nSCP-7404构想，它的坟墓要在一座郁郁葱葱的花园中，满是罂粟、开花的仙人掌、无花果树以及尼罗河百合。它想象花园里到处有蝴蝶与蜜蜂翩飞，小鸟可能停在枝头，对来访者唱出愉快歌曲。花园间有一座小池塘横跨，锦鲤与水黾在其间悠游自得。\n\n这花园将有篱笆和走道；足以让客人放松，但不能抢占自然之美。来客总受欢迎，只要不打扰此地与世隔绝的平静。\n\n花园中央会立起一座陵墓，从内侧锁闭。访客可以透过它门上的铁栏杆看到里面的棺椁，上面是SCP-7404的石制雕像与一名未知男性同坐；此外，他们也可以阅读刻在坟墓四面上的诗[[footnote]] 译注：该诗为美国诗人罗伯特·弗罗斯特诗作《Nothing Gold Can Stay》（有翻译为《韶华易逝》）[[/footnote]]： \n[[div class=\"body-text\"]]\n[[=]]\n//自然初绿便是金辉,//\n//此色世间最难留全。//\n//她的早叶发作花朵；//\n//然则不过一时之间。//\n//而后华叶交替纷落，//\n//伊甸如是陷入悲伤，//\n//朝晖匆匆竟已白天。//\n//世间金辉不久全。//\n[[/=]]\n[[/div]]\n[[div class=\"scp-image-block block-center\" style=\"width:100%;\"]]\n[[image https://scp-wiki.wdfiles.com/local--files/scp-7404/entomb.PNG style=\"width:100%;\" link=#]]\n[[div class=\"scp-image-caption\" style=\"width:100%;\"]]\nSCP-7404选择以巴切柯之墓作为其墓碑的模型。在被问及用意时，SCP-7404拒绝回答。\n[[/div]]\n[[/div]]\n\n[[footnoteblock]]\n\n[[div class=\"footer-wikiwalk-nav\"]]\n[[=]]\n<< [[[SCP-7403]]] | SCP-7404 | [[[SCP-7405]]] >>\n[[/=]]\n[[/div]]",
+  "tags": [
+    "scp",
+    "感知力",
+    "敌意",
+    "无效化",
+    "智能",
+    "曝光",
+    "犬类",
+    "线上"
+  ],
+  "author": "ashausesall",
+  "created_at": "2022-09-17T15:11:05+00:00",
+  "updated_at": "2025-03-23T10:19:33+00:00",
+  "rating": 9,
+  "_site": "scp-wiki-cn",
+  "_fullname": "scp-7404"
+}

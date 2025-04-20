@@ -1,0 +1,13 @@
+{
+  "title": "Lowest-Rated ListPages Header",
+  "content": "[[table style=\"width: 100%;\"]]\n[[row style=\"font-weight: bold; color: #fff; background-color: #666;\"]]\n[[cell style=\"padding: 0 2px; width: 50%;\"]]\nPage\n[[/cell]]\n[[cell style=\"padding: 0 2px; width: 25%; text-align: center;\"]]\nDate Created\n[[/cell]]\n[[cell style=\"padding: 0 2px; text-align: center;\"]]\nRating\n[[/cell]]\n[[/row]]\n[[/table]]",
+  "tags": [
+    "component"
+  ],
+  "author": "aismallard",
+  "created_at": "2020-08-07T07:24:33+00:00",
+  "updated_at": "2021-09-24T06:38:02+00:00",
+  "rating": 4,
+  "_site": "scp-wiki",
+  "_fullname": "component:listpages-header"
+}

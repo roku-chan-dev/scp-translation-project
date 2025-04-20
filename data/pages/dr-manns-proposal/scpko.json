@@ -1,0 +1,18 @@
+{
+  "title": "만 박사의 제안",
+  "content": "[[include info:start]]\n+* SCP-001: Dr. Mann's Proposal\n**원작:** http://www.scp-wiki.net/dr-manns-proposal\n**저자:** [[*user DrEverettMann]]\n**역자:** [[*user Dr Devan]]\n**화상 저작권:**\n> **파일명:** path005.png\n> **저작자:** Bill Henderson [original], S D Locke [edits]\n> **라이선스:** CC BY-SA 2.0\n> **출처 링크:** https://commons.wikimedia.org/wiki/File:Track_through_the_woods_leading_down_from_Lounds_Hill_-_geograph.org.uk_-_282372.jpg\n[[include info:end]]\n\n[[include component:image-block name=https://scp-wiki.wdfiles.com/local--files/dr-manns-proposal/path005.png|caption=SCP-001의 한 부분|width=300px]]\n\n**일련번호:** SCP-001\n\n**등급:** 엠블라(Embla)\n\n**격리 절차:** SCP-001은 [편집됨]의 제0기지에 격리되어 있다. SCP-001을 볼 수 있는 영역 밖에 철조망이 둘러쳐져 있다. 제0기지의 보안을 위해 최소 5인의 무장 경비원이 허가받지 않은 인원의 침입을 막는다. 부속 연구실이 설치되어 있으며, SCP-001의 모든 특이현상에 관해 연구한다.\n\n작은 철제 명패는 상태를 좋게 유지해야 한다. 명패의 손상은 반드시 즉시 보고해야 한다.\n\n**설명:** SCP-001은 숲 속으로 난 원형의 자갈길이다. 반시계 방향으로 도는 사람은 계속해서 오르막길을 오르게 된다. 시계방향으로 도는 사람은 일반적인 오르막과 내리막이 공존하는 길을 걷게 된다.\n\nSCP-001에 대한 실험 기록은 5등급 이상의 인원만이 열람할 수 있다.\n\nO5 평의회의 새로운 구성원은 반드시 [[[Document 001-O5|문서 001-O5]]]를 읽어야 한다.",
+  "tags": [
+    "001-제안",
+    "en",
+    "scp",
+    "공간",
+    "난해한-등급",
+    "위치"
+  ],
+  "author": "Dr Devan",
+  "created_at": "2012-09-18T03:11:02+00:00",
+  "updated_at": "2024-11-02T12:01:07+00:00",
+  "rating": 16,
+  "_site": "scpko",
+  "_fullname": "dr-manns-proposal"
+}

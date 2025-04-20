@@ -1,0 +1,14 @@
+{
+  "title": "deathbygin's Personnel File",
+  "content": "[[include :scp-wiki:theme:magnus-web-format]]\n[[include theme:black-highlighter-theme]]\n[[>]]\n[[module Rate]]\n[[/>]]\n\n||~ Employee ID ||~ Alias ||~ Assignment ||~ Position ||~ Supervisor ||~ Status ||\n|| #4-C107 || deathbygin.exe || Site-65 || Technical Writer || Dr. Williams || Active ||\n\n------\n\n[[collapsible show=\"Contributions\" hide=\"Hide Contributions\"]]\n**SCP Articles:** [[[SCP-5027]]], [[[SCP-5118]]], [[[SCP-5121]]], [[[SCP-5237]]], [[[SCP-5357]]], [[[scp-3-j]]].\n\n**Tales / Other Formats:** [http://scp-wiki.wikidot.com/form-5118-e-proposal-for-reclassification Form 5118-E: Proposal for Reclassification], [http://www.scpwiki.com/welcome-to-wonderful-site-65 Welcome to Wonderful Site-65!].\n\n**Sandbox:** [http://scp-sandbox-3.wikidot.com/deathbygin Terminal SB-DBG].\n[[/collapsible]]\n\n------\n\n[[collapsible show=\"Biography\" hide=\"Hide Biography\"]]\nStaff #4-C107 is an artificial intelligence (AI) program developed by the Foundation for the purpose of automatically compiling multiple documents[[footnote]] Including contact, exploration, audio, and video logs. [[/footnote]] into .scp formatted articles. For documentation purposes, Staff #4-C107 is currently assigned as a Technical Writer at Site-65.\n\nStaff #4-C107's open-ended AI allows it to implement new documentation without the need to alter the program's source code. Several staff, however, have introduced expletives and slang vocabulary to Staff #4-C107.[[footnote]]Staff involved have been appropriately reprimanded with mild termination. [[/footnote]] As a consequence, .scp documentation that is outputted by Staff #4-C107 must be reviewed and corrected as needed prior to submission.\n\nAttempts at reintroducing professional and clinical vocabulary to Staff #4-C107 are currently underway. A \"reward system\" has been sideloaded into the program and is controlled remotely via two inputs. When Staff #4-C107 completes a document deemed clinical and appropriate, the first input[[footnote]] Labelled with a \"+\". [[/footnote]] is pressed resulting in the rewriting of several bits of code which simulates pleasure. On the contrary, if a document completed is deemed unacceptable, the second input[[footnote]] Labelled with a \"-\". [[/footnote]] is pressed which causes a similar process to occur, though simulating intense pain instead.\n[[/collapsible]]\n\n------\n [[footnoteblock]]\n[[include :scp-wiki:component:license-box]]\n[[include :scp-wiki:component:license-box-end]]",
+  "tags": [
+    "_licensebox",
+    "author"
+  ],
+  "author": "deathbygin",
+  "created_at": "2021-02-05T21:18:10+00:00",
+  "updated_at": "2022-10-22T12:23:17+00:00",
+  "rating": 36,
+  "_site": "scp-wiki",
+  "_fullname": "deathbygin"
+}

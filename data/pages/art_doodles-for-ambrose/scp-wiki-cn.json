@@ -1,0 +1,15 @@
+{
+  "title": "更多的安布罗斯涂鸦，我猜",
+  "content": "[[module CSS]]\n/*\n    制作于2023/10/10 12:46:24\n    [2023 Wikidot 版式]\n    由PiNKpePpER创作\n    CC BY-SA 3.0\n*/\n\n\n\nbody {\n    color: #7b876f;\n}\na,a:visited {\n    color: #D97050;\n}\nh1,h2,h3,h4,h5,h6 {\n    color: #CC914E;\n}\nblockquote {\n    #E3CCB3\n}\ndiv#side-bar div.side-block div.heading,\ndiv#side-bar div.collapsible-block-unfolded-link,\ndiv#side-bar div.collapsible-block-unfolded-link div.collapsible-block-link {\n    color: #854F2B;\n    border-color: #854F2B;\n}\ndiv.yui-navset ul.yui-nav a,\ndiv.yui-navset div.yui-navset-top ul.yui-nav a {\n    background: #D97050;\n    color: #503e2a;\n    border: #939B62;\n}\ndiv.yui-navset ul.yui-nav .selected a,\ndiv.yui-navset ul.yui-nav .selected a:focus,\ndiv.yui-navset ul.yui-nav .selected a:hover {\n    background: #939B62;\n    border: #C1B2A3;\n}\ndiv.page-rate-widget-box,\ndiv.page-rate-widget-box span.rate-points,\ndiv.page-rate-widget-box span.cancel {\n    background-color: #D97050!important;\n    border: solid #D97050 1px!important;\n}\ndiv.page-rate-widget-box span.rateup,\ndiv.page-rate-widget-box span.ratedown {\n    border: solid #D97050!important;\n    border-width: 1px 0!important;\n}\ndiv.page-rate-widget-box span.rateup,\ndiv.page-rate-widget-box span.ratedown {\n    background-color: #D97050!important;\n}\ndiv.page-rate-widget-box span.cancel a:hover,\ndiv.page-rate-widget-box span.rateup a:hover,\ndiv.page-rate-widget-box span.ratedown a:hover {\n    background: transparent!important;\n    color: transparent!important;\n}\ndiv.open-menu a {\n    color: #7b876f!important;\n    border-color: #7b876f!important;\n}\n\n[[/module]]\n\n[[image https://z1.ax1x.com/2023/10/09/pPxUjUO.jpg]]\n\n[[div class=\"blockquote\"]]\n[[=]]\n[[[/article-slug|安布罗斯三波特兰店]]] [[*user PiNKpePpER]] 著\n\n//{{南瓜杀手Chaz！我不知道它能不能放在三波特兰标签下，所以我就放在这里了。希望这90年代的风格能行得通。}}//\n[[/=]]\n[[/div]]\n\n[[image https://z1.ax1x.com/2023/10/10/pPzF6AO.jpg]]\n\n[[div class=\"blockquote\"]]\n[[=]]\n[[[/article-slug|逼近猎物]]] [[*user PiNKpePpER]] 著\n\n//{{易如反掌。}}//\n[[/=]]\n[[/div]]\n\n[[image https://z1.ax1x.com/2023/10/10/pPzFfgA.jpg]]\n\n[[div class=\"blockquote\"]]\n[[=]]\n[[[/article-slug|食用一个概念……]]] [[*user PiNKpePpER]] 著\n\n//{{……的感觉就好像被它食用一样。}}//\n[[/=]]\n[[/div]]",
+  "tags": [
+    "chaz-ambrose",
+    "安布罗斯餐厅",
+    "艺术作品"
+  ],
+  "author": "LeeBr",
+  "created_at": "2023-10-10T17:13:12+00:00",
+  "updated_at": "2023-10-13T14:16:49+00:00",
+  "rating": 4,
+  "_site": "scp-wiki-cn",
+  "_fullname": "art:doodles-for-ambrose"
+}

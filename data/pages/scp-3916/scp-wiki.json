@@ -1,0 +1,23 @@
+{
+  "title": "SCP-3916",
+  "content": "[[>]]\n[[module Rate]]\n[[/>]]\n\n[!--\nFragments:\nhttp://scp-wiki.wikidot.com/fragment:scp-3916-1\nhttp://scp-wiki.wikidot.com/fragment:scp-3916-2\nhttp://scp-wiki.wikidot.com/fragment:scp-3916-3\nhttp://scp-wiki.wikidot.com/fragment:scp-3916-4\n--]\n\n[[module ListPages category=\"fragment\" parent=\".\" limit=\"1\" order=\"created_at\" offset=\"@URL|0\"]]\n%%content%%\n[[/module]]\n\n[[include component:earthworm\n  first=false | last=false | hub=yes |\n  previous-url=/critter-profile-genghis | previous-title=Critter Profile: Genghis! |\n  next-url=/arbh-class-debrief-file | next-title=ARBH-Class Debrief File |\n  hub-url=/arbh-class-hub | hub-title=Insect Hell |\n]]\n\n[[footnoteblock]]\n\n[[div class=\"footer-wikiwalk-nav\"]]\n[[=]]\n<< [[[SCP-3915]]] | SCP-3916 | [[[SCP-3917]]] >>\n[[/=]]\n[[/div]]",
+  "tags": [
+    "_listpages",
+    "alive",
+    "doomsday2018",
+    "insect",
+    "insect-hell",
+    "keter",
+    "scp",
+    "self-replicating",
+    "species",
+    "swarm",
+    "wilsons-wildlife"
+  ],
+  "author": "DrMorris",
+  "created_at": "2018-06-13T19:39:37+00:00",
+  "updated_at": "2023-08-22T01:34:36+00:00",
+  "rating": 161,
+  "_site": "scp-wiki",
+  "_fullname": "scp-3916"
+}

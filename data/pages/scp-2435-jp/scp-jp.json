@@ -1,0 +1,22 @@
+{
+  "title": "SCP-2435-JP",
+  "content": "[[module css]]\n@import url('http://scp-jp.wikidot.com/buried-hub/code/1');\n\n#html-body {\n  -webkit-filter: unset;\n  filter: unset;\n}\n\n#header,\n#side-bar,\n#footer,\n#license-area,\n.wrap,\n.footnotes-footer,\n#page-options-container,\n#action-area,\n#page-title,\n#page-content .page-rate-widget-box,\n#page-content .creditButton,\n#page-content .modalbox>div,\n#breadcrumbs,\n.page-tags {\n  filter: grayscale(100%);\n}\n\ndiv#container-wrap {\n    --c-header: linear-gradient(180deg, black 45%, #616161 100%);\n    --c-topbar: linear-gradient(180deg, #535353 0%, #3c3c3c 53%);\n    background: var(--c-header) top left repeat-x;\n    background-size: 100px 141px;\n}\n\ndiv#container-wrap::after {\n    content: \"\";\n    display: block;\n    position: absolute;\n    top: 140px;\n    left: 0;\n    width: 100%;\n    height: 23px;\n    box-shadow: 3px 2px 25px -2px rgba(0,0,0,0.75);\n    background: var(--c-topbar) top left repeat-x;\n}\n[[/module]]\n\n[[include credit:start]]\n**タイトル:**  SCP-2435-JP - Another One Rides The Hearse !\n**著者:** ©︎[[*user VideoGameMonkeyMONO]]\n**作成年:** 2020\n[[include credit:end]]\n[[div class=\"wrap\"]]\n[[include component:image-block\nname=boti.png|\ncaption=ドローンにより撮影したSCP-2435-JP-1]]\n\n**アイテム番号:** SCP-2435-JP\n\n**オブジェクトクラス:** Safe\n\n**特別収容プロトコル:** SCP-2435-JPはエリア-81██内部に存在しており機密保持の性質上、民間人の立ち入る可能性がないため特別な収容措置を取る必要はありません。SCP-2435-JP-1は現在墓地として使用されておらず、SCP-2435-JP-1に侵入する際は担当研究員の許可が必要です。\n\n**説明:** SCP-2435-JPはエリア-81██における共同墓地(SCP-2435-JP-1)で発生する異常な現象です。SCP-2435-JPの異常性は人間(以下被験者と明記する）が既存の墓所に訪れる目的でSCP-2435-JP-1内に侵入した際に発生し、被験者に対して『目的の墓石には生きた人間が埋まっている』という認識を想起させます。調査の結果、SCP-2435-JP-1における全ての遺体の腐敗進行が発生していない[[footnote]]SCP-2435-JP-1に埋葬される遺体は葬儀を執り行う手順を省略するため土葬が選択される。[[/footnote]]事象が確認されました。\n\n**実験記録:** 以下はSCP-2435-JP-1を用いた実験記録です。\n\n||~ 対象者 ||~ 結果 ||\n|| D-5589 || 墓所に生存している状態のD-1586[[footnote]]D-1586は別オブジェクトの実験により、SCP-2435-JP-1に埋葬された。[[/footnote]]が埋葬されており自身のことを呼んでいると発言。管理小屋に収納されているスコップを用いて、墓所を掘り返したため全身が土で汚れ、何者かと争った形跡と擦過傷を負った状態で帰還した。 ||\n|| D-8698 || 墓所に生存している状態のD-5589[[footnote]]D-5589はオブジェクトの実験により、SCP-2435-JP-1に埋葬された。[[/footnote]]が埋葬されており自身のことを呼んでいると発言。事前に呼び声が聞こえても無視して帰還するよう指示を出しておいたため、D-8698は即座に帰還した。D-8698の全身が土で汚れており、何者かと争った形跡及び手の爪が剥離していることが確認されたが、原因は不明。 ||\n|| 機動部隊隊員 井澤 洋 || D-8698[[footnote]]D-8698は別オブジェクト収容に急行した際の事故により、SCP-2435-JP-1に土葬されている。[[/footnote]]が生存している状態で埋葬されており自身のことを呼んでいると発言。墓所を無視して帰還したものの、全身は土で汚れ、何者かと争った形跡及び腕部を負傷していた。実験に機動部隊隊員を起用した経緯については不詳。 ||\n|| 機動部隊隊長 栗田 智宏 || D-9103[[footnote]]D-9103は別オブジェクト収容違反した際再収容担当したことにより死亡し、SCP-2435-JP-1に土葬されている。予期せぬオブジェクトによる影響が発生する可能性を考慮してD-9103は他の遺体と比較して特に深く埋葬されている。[[/footnote]]が生存している状態で埋葬されており自身のことを呼んでいると発言。その後墓所には触れず帰還した。帰還した栗田 智宏氏は全身土で汚れ、著しい疲労及び手の爪の剥離、擦過傷が腕を中心にみられた。また、頭部には何度も踏みつけられた跡が存在し多量の出血が確認されたため、SCP-2435-JPに発見されていない異常性があるものと推測される。実験に機動部隊隊長を起用した経緯については不詳。帰還した栗田 智宏氏はその後意識を喪失し、搬送された。 ||\n|| 機動部隊隊長 栗田 智宏 || 墓所に生存している状態のD-7593[[footnote]]D-7593は実験中の事故による出血多量により救急搬送先で死亡、実験のためSCP-2435-JP-1に埋葬された。[[/footnote]]が埋葬されており自身のことを呼んでいると発言。その後墓所には触れず帰還した。栗田 智宏氏は全身土で汚れ、腕部にヒトの歯形が確認された。歯型はD-7593のものと一致した。実験に機動部隊隊長を起用した経緯については不詳。 ||\n\n栗田 智宏氏からSCP-2435-JP-1に対し引き続きDクラス職員を用いた実験が必要であるとして申請が行われていますが、これ以上の調査は不要と判断、SCP-2435-JP-1を墓地として使用することを禁止し、現在は閉鎖、収容されています。栗田 智宏氏には精神鑑定が実施される予定です。\n\n[[collapsible show=\"+ 補遺\" hide=\"- 閉じる\"]]\n伊勢研究員[[footnote]]栗田 智宏氏と交際していたことが確認されている。[[/footnote]]がSCP-2435-JP-1内部に存在する栗田 智宏氏の墓地前まで侵入し帰還したことが確認されています。[[footnote]]伊勢研究員はSCP-2435-JP-1をどうしても研究する必要があるという強い強迫観念の元、SCP-2435-JP-1へ侵入したことが確認されている。現在はカウンセリングによって快復した。[[/footnote]]\n[[/collapsible]]\n[[/div]]",
+  "tags": [
+    "jp",
+    "safe",
+    "scp",
+    "嘘コン20",
+    "場所",
+    "強制力",
+    "死体",
+    "現実改変",
+    "記憶影響",
+    "財団製"
+  ],
+  "author": "VideoGameMonkeyMONO",
+  "created_at": "2020-08-24T18:37:19+00:00",
+  "updated_at": "2022-12-25T13:56:18+00:00",
+  "rating": 70,
+  "_site": "scp-jp",
+  "_fullname": "scp-2435-jp"
+}

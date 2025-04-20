@@ -1,0 +1,19 @@
+{
+  "title": "SCP-885-J",
+  "content": "[[>]]\n[[module Rate]]\n[[/>]]\n\n[[include component:image-block name=dirty-dishes-new.jpg|caption=Instance f-284 of SCP-885-J. Taken 02/10/2012 at 12:45.]]\n\n\n**Item #:** SCP-885-J\n\n**Object Class:** Euclid\n\n**Special Containment Procedures:** At present, SCP-885-J is located at Site 13, although Foundation personnel speculate that there may be additional instances at the residence of Researcher Jacobs. Investigations into how an actual human being could live like that are ongoing. \n\nAttempts to end the phenomenon through direct communications with the source have repeatedly failed. Individual instances of SCP-885-J may be temporarily prevented by enactment of Protocol Lambda-8 (\"Revoking Jacobs' Break Room Privileges Until He Stops Leaving His Dirty Dishes Everywhere\") or Delta-9 (\"Leaving Jacobs' Dirty Dishes On His Desk Until He Gets The Message\"). Should Event Zeta-4 (\"Jacobs Cleaning Up After Himself Like A Human Fucking Being\") occur, SCP-885-J is to be considered neutralized. However, this eventuality is seen as being highly unlikely.\n\n**Description:** SCP-885-J is a phenomenon that occurs following Researcher Darryl Jacobs' preparation of food in the Site 13 break room. Regardless of the food prepared, a large number of dishes[[footnote]]Usually three, but instances involving up to seven dishes have been observed[[/footnote]] will be left uncleaned in the break room sink. Unlike normal dishes produced by someone who has a concept of responsibility and who does not expect everyone else to clean up after them like they're eight years old, these dishes will go uncleaned for an indefinite period of time, usually between one to three days, before other Foundation personnel grow tired of looking at them and clean the dishes themselves.\n\n**Addendum 885-J-e34:** As of 07/09/2012, Researcher Jacobs has acquiesced to the requests of his hippie boyfriend to begin \"eating right.\" Incidences of smelly-ass herbal teas, weird pastes, and vegetable scraps have begun to manifest in instances of SCP-885-J. As a result, Site 13 break room has become infested with fruit flies. Reclassification to Keter pending. \n\n[[include component:image-block name=dirty-dishes-new.jpg|caption=Instance f-284 of SCP-885-J. Taken 02/11/2012 at 14:26. Note the lack of change in the status of the dishes.]]",
+  "tags": [
+    "_cc",
+    "artifact",
+    "biohazard",
+    "ectoentropic",
+    "euclid",
+    "joke",
+    "scp"
+  ],
+  "author": null,
+  "created_at": "2012-09-23T18:16:39+00:00",
+  "updated_at": "2022-10-01T19:42:40+00:00",
+  "rating": 319,
+  "_site": "scp-wiki",
+  "_fullname": "scp-885-j"
+}

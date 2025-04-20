@@ -1,0 +1,14 @@
+{
+  "title": "Cthulhu Corner",
+  "content": "[[>]]\n[[module Rate]]\n[[/>]]\n\n[[=]]\n\n[[image me-but-in-a-box]]\n _\nMe, in my natural habitat.\n _\n _\n[[image me-and-rufus]]\n _\nMe and my good pal Rufus.\n _\n _\n[[image lilguy]]\n _\nMe when I was just a little guy.\n _\n _\n[[image council]]\n _\nThe council.\n[[/=]]\n _\n\nHello! My name's Cthulhu, and I like writing SCPs. :>\n _\n\n[[tabview]]\n[[tab SCP Articles]]\n\n+++ SCPs:\n\n[[module ListPages created_by=\"whoiscthulhu\" order=\"created_at\" separate=\"no\" tags=\"scp\" perPage=\"250\" prependLine=\"||~ Item # ||~ Rating ||~ Length ||~ Comments ||~ Last Comment ||\"]]\n|| %%title_linked%% || ##green|+ %%rating%%## || %%size%% || %%comments%% || %%commented_at%% ||\n[[/module]]\n\n[[/tab]]\n[[tab Tales & GOI Formats]]\n\n+++ Tales:\n\n[[module ListPages created_by=\"whoiscthulhu\" order=\"created_at\" separate=\"no\" tags=\"tale\" perPage=\"250\" prependLine=\"||~ Item # ||~ Rating ||~ Length ||~ Comments ||~ Last Comment ||\"]]\n|| %%title_linked%% || ##green|+ %%rating%%## || %%size%% || %%comments%% || %%commented_at%% ||\n[[/module]]\n+++ Poetry:\n\n[[module ListPages created_by=\"whoiscthulhu\" order=\"created_at\" separate=\"no\" tags=\"poetry\" perPage=\"250\" prependLine=\"||~ Item # ||~ Rating ||~ Length ||~ Comments ||~ Last Comment ||\"]]\n|| %%title_linked%% || ##green|+ %%rating%%## || %%size%% || %%comments%% || %%commented_at%% ||\n[[/module]]\n\n[[/tab]]\n[[/tabview]]\n\n------\n\n++ SCP Book Club\n\n> [https://www.youtube.com/playlist?list=PLGXW8727iSrXfz_PbzDYc0p96_LUVZOOH SCP Book Club] is a weekly[[footnote]] aka whatever weeks i feel like it [[/footnote]] livestream series where I delve into various SCP Articles, Tales, Canons, and GOIs, in an effort to analyze them through a lens of literary analysis.",
+  "tags": [
+    "_cc",
+    "author"
+  ],
+  "author": "WhoIsCthulhu",
+  "created_at": "2023-11-05T20:11:52+00:00",
+  "updated_at": "2025-02-20T05:14:46+00:00",
+  "rating": 22,
+  "_site": "scp-wiki",
+  "_fullname": "cthulhu-corner"
+}

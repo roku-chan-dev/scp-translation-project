@@ -1,0 +1,14 @@
+{
+  "title": "10019",
+  "content": "overview: \"深度約8700mの超深海層より発生していると考えられる、3回に分けた低周波音波によるモールス信号が受信されました。これは和文モールス符号により送信されており、内容は以下の通りです。\\n送信内容: 1回目「まだそこにいますか？」(16:01:31) / 2回目「私は平気です」(16:04:25) / 3回目「もし無事なら電話をください」(16:18:03)\"\nswdate: '1'\ndate: '2004年10月29日に海上自衛隊の運用する水中固定聴音装置LQO-7によって捉えられました。その後、海上自衛隊内で通称\"Voice\"と呼ばれていたこの現象は、重要機密扱いで財団の監視下に入りました。'\nswplace: '1'\nplace: 北緯25度、東経145度の地点、太平洋\nswchaseprocedure: '1'\nchaseprocedure: '2004年10月29日より現在に至るまで、新たな信号の受信は確認されていません。海洋開発機構 (JAMSTEC)の開発した無人探査船「かいこう」の設計をベースに、財団が独自に改良を加えた無人探査船による調査も検討されていましたが、現在は中止されています。'\nswaddendum: '0'\naddendum: ''\ntf2: '1'\nauthor: grejum\nredirect-b: '[[module Redirect destination=\"/log-of-extranormal-events-jp'\nredirect-e: '\"]]'",
+  "tags": [
+    "jp",
+    "剪定対象-子"
+  ],
+  "author": "machikawa",
+  "created_at": "2020-07-22T16:38:47+00:00",
+  "updated_at": "2021-05-24T13:20:45+00:00",
+  "rating": 23,
+  "_site": "scp-jp",
+  "_fullname": "extranormal-events-jp:10019"
+}

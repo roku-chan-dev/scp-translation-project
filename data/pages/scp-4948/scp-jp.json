@@ -1,0 +1,20 @@
+{
+  "title": "SCP-4948",
+  "content": "[[>]]\n[[module Rate]]\n[[/>]]\n\n[[div style=\"float:right; margin:0 2em 1em 2em; width:321px; border:0;\"]]\n[[html]]\n<style type=\"text/css\">\nbody\n{\n    font-family: verdana,arial,helvetica,sans-serif;\n    font-size: 0.82em;\n}\ntable.wiki-content-table{\n    border-collapse: collapse;\n    border-spacing: 0;\n    margin: 0.5em auto;\n}\ntable.wiki-content-table td{\n    border: 1px solid #888;\n    padding: 0.3em 0.7em;\n}\ntable.wiki-content-table th{\n    border: 1px solid #888;\n    padding: 0.3em 0.7em;\n    background-color: #EEE;\n}\n</style>\n<table class=\"wiki-content-table\">\n<tbody><tr>\n<td colspan=\"2\">\n<script language=\"JavaScript\">\nvar imgs = [\n  \"http://www.scp-wiki.net/local--files/scp-4948/door.png\",\n  \"http://www.scp-wiki.net/local--files/scp-4948/door2.png\"\n];\nvar index = 0;\nvar rand = Math.round(Math.random() * 10);\nif (rand === 2 || rand === 3) index = 1;\nfunction show() {\n  document.write('<img src=\"' + imgs[index] + '\" alt=\"image\" class=\"image\" width=\"300px\">');\n}\nshow();\n</script></td>\n</tr>\n<tr>\n<th colspan=\"2\"><sup>もしこの画像を閲覧した後に恐怖や不安を感じたり予期せぬ実体を視認した場合、施設内の精神科医に相談してください。</sup></th>\n</tr>\n</tbody>\n</table>\n[[/html]]\n[[/div]]\n\n**アイテム番号:** SCP-4948\n\n**オブジェクトクラス:** Neutralized\n\n**特別収容プロトコル(廃止):** SCP-4948の影響を受けた民間人は、付属サイト-4948のテストチャンバー#127に搬送されなければなりません。テストチャンバー#127への扉を僅かに開いたまま2分間放置した後、治癒を確認し住民に帰宅指示を出してください。\n\n**説明:** SCP-4948は閉じた扉に突然且つ不条理に発生するパラノイア的現象です。SCP-4948の発生原因は不明ですが、SCP-4948の影響者の接近が要因の一つであると強く疑われています。\n\nSCP-4948は閉じた扉を視認することで、説明し難い僅かな恐怖と共に始まります。やがてこれは完全な恐怖となり、可能であれば部屋から脱出せねばならないという感情になります。\n\n閉じた扉や半開きの扉を有する部屋から離れることが不可能な場合、影響を受けた人物は部屋の暗闇の増加と鋸歯状の攻撃的な幾何学模様を報告します。おおよそ2分後、被験者は落ち着きSCP-4948の影響は終了します。\n\n**発見:** SCP-4948は、地元家族の失踪後に調査を受けたミネソタ州ナイトフォード市の小さな森林集落の住民に影響を及ぼし始めたことで、最初の注目を受けました。失踪した家族の家中の扉が取り外されていることが発見され、当の家族の痕跡は発見出来ませんでした。\n\n地元のホテルは、SCP-4948の症状を示し始めた民間人と財団職員を治療する為、付属サイト-4948へと改装されました。治療中、殆どの被験者はSCP-4948の影響が停止するまでテストチャンバー内の隅に自身の体を潜めます。この期間中、録音機器は被験者の啜り泣きに加えて、僅かに聞き取れる囁き声を拾いました。2018年8月31日から2018年9月20日までに300人以上の人間がSCP-4948の治療を受け、全ての治療が成功したと見做されています。そのような治療可能な物として、SCP-4948はNeutralized宣言されています。\n\n最後の無力化となったワーナー博士のケースは注目に値します。この無力化は2分の代わりに5分間続き、ワーナー博士が扉に接近して跪き、扉に\"[彼]から奪い去らないでくれ\"と訴え始めることで終了しました。 これに伴い2時間の無意識状態が続いた後、ワーナー博士は回復したと報告しました。\n\n付属サイト-4948の職員は、テストチャンバー#127から腐肉臭がすると報告しています。これは、チャンバー内に出現した有機物で構成された複数の扉による物だと判明しました。これらの扉をチャンバーから取り除く試みは失敗しています。チャンバーはその後コンクリートで満たされました。",
+  "tags": [
+    "en",
+    "neutralized",
+    "scp",
+    "伝染性",
+    "幻覚",
+    "生物学",
+    "精神影響",
+    "視覚"
+  ],
+  "author": "Hutu-nohito",
+  "created_at": "2018-09-21T07:14:48+00:00",
+  "updated_at": "2024-06-14T15:41:26+00:00",
+  "rating": 44,
+  "_site": "scp-jp",
+  "_fullname": "scp-4948"
+}

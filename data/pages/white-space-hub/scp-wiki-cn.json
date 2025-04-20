@@ -1,0 +1,14 @@
+{
+  "title": "空白（中心页）",
+  "content": "[[module CSS]]\n/* 更多的空白 */\n.main-text > p {\n  font-size: 105%;\n  margin: 40px auto;\n}\n\n/* 超链接 */\n.main-text a {\n  background: #dedede;\n  border: 4px solid #aaa;\n  margin: 60px 0;\n  transition: 0.75s;\n  display: block;\n  padding: 15px 10px;\n  text-align: center;\n}\n.main-text a:hover {\n  background: rgb(0,0,0,0);\n  border: 4px solid rgb(0,0,0,0);\n}\n[[/module]]\n\n[[div class=\"blockquote\" style=\"padding-top: 10px; margin-bottom: 100px;\"]]\n[[=]]\n+++ “为了生长而生长是癌细胞的思考方式。”\n[[/=]]\n[[>]]\n//**— Edward Abbey**//，无政府主义者与环境保护论者，**1977年**。\n[[/>]]\n[[/div]]\n\n[[div class=\"main-text\"]]\n\n\n\n很久以前，人类参与基金会事务的必要性就开始逐步消失。坦率的说，我们现在只会象征性地雇佣很少几个有血有肉的人类。先前并不是这样的——很久之前，人类//意味着//一些事物——但这才是我们所生活的世界。\n\n一个后人类世界。人们被诗行间的空白统治着、消耗着。\n\n在自动化倡议后，我们也一直把那些东西锁在盒子里，因为这就是我们所擅长的，也因我们喜爱安静地统治世界，但其他的一切对这感到//麻木//。不再颁发荣誉勋章，不再有食堂中的笑声，不再认为我们所做的事真的很重要。\n\n只有空中停滞的滴落声——存留在我们脑海中的死信道使我们在空谈中思考。\n\n那些负责管理我们的站点的机器人告诉我们，杂音中埋入了一些形而上学陶罐。但因为那些陶罐所使用的语言与我们不同，会使我们的头脑泄漏，所以我们也逐步淘汰了语言。我们深挖以探寻更多，在这条路上不断修改我们对常态的理解，直到我们变成了人类以外的事物。\n\n这是一个由钢铁与混凝土构成的世界，顽强而深受磨难，由那些变为外星人而后变为主神的人类管理。在神圣的自我吞噬中，我们仰望那死寂的天空，祈求领会、实现、实质、形体、真理、//本质//。\n\n[[div style=\"margin: 80px auto; text-align: center\"]]\n**而后那滞啸者将亚斯他录给了我们。**\n[[/div]]\n\n有人曾说，基金会没有结局。但如果我们有——如果我们对世界上每个问题都有一个答案的话——那时你会相信我们吗？\n\n@@ @@\n@@ @@\n@@ @@\n\n+ [[[Slipping Away | 来世之蛇 /// 天堂之上的基金会]]]\n\n+ [[[The Eschaton | 蛇之束缚 \\\\\\ 提供证据]]]\n\n+ [[[SCP-4736 | 重担 ≡ 勿煞风景]]]\n\n+ [[[Nagiros' Proposal | ¦狂¦怒¦]]]\n[[/div]]\n\n[[div style=\"height: 25px\"]]\n[[/div]]",
+  "tags": [
+    "中心",
+    "深井目录"
+  ],
+  "author": "joke3579",
+  "created_at": "2020-12-26T06:27:33+00:00",
+  "updated_at": "2023-10-26T14:18:02+00:00",
+  "rating": 10,
+  "_site": "scp-wiki-cn",
+  "_fullname": "white-space-hub"
+}

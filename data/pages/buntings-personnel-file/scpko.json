@@ -1,0 +1,14 @@
+{
+  "title": "Bunting의 작가 페이지",
+  "content": "[[>]]\n[[module rate]]\n[[/>]]\n\n**닉네임:**Bunting\n\n작성한 SCP:\n[[module ListPages created_by=\"Bunting\" separate=\"no\" limit=\"250\" perPage=\"250\" tags=\"scp, ko, -농담, -이야기, -en, -작가\" order=\"title\"]]\n* %%title_linked%%\n[[/module]]\n\n작성한 이야기:\n[[module ListPages created_by=\"Bunting\" separate=\"no\" limit=\"250\" perPage=\"250\" tags=\"이야기, ko, -scp, -en, -작가\" order=\"title\"]]\n* %%title_linked%%\n[[/module]]\n\n번역 SCP:\n[[module ListPages created_by=\"Bunting\" separate=\"no\" limit=\"250\" perPage=\"250\" tags=\"scp, -이야기, -ko, -작가\" order=\"title\"]]\n* %%title_linked%%\n[[/module]]\n\n번역 이야기:\n[[module ListPages created_by=\"Bunting\" separate=\"no\" limit=\"250\" perPage=\"250\" tags=\"이야기, -ko, -작가\" order=\"title\"]]\n* %%title_linked%%\n[[/module]]",
+  "tags": [
+    "ko",
+    "작가"
+  ],
+  "author": "Bunting",
+  "created_at": "2017-02-26T10:04:16+00:00",
+  "updated_at": "2020-06-11T13:06:54+00:00",
+  "rating": 6,
+  "_site": "scpko",
+  "_fullname": "buntings-personnel-file"
+}

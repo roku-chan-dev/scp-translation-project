@@ -1,0 +1,21 @@
+{
+  "title": "HOPE -- SCP-5956 Comic",
+  "content": "[[include :scp-wiki:theme:foxtrot\ndark=a|\ncanada=a|\nhidetitle=a]]\n\n[[module css]]\n:root {\n  --header-title: \"R\\0026 C SITE-43\";\n  --header-subtitle: \"SURVIVE ● CONSERVE ● PERSIST\";\n\n  --accent: 255, 34, 67;\n  --head-font: var(--ui-font);\n\n  --timeDelay: 1s;\n}\n[[/module]]\n\n\n\n[[>]]\n[[module Rate]]\n[[/>]]\n[[=]]\n[[image thereisnohope1.png]]\n[[image thereisnohope2.png]]\n[[image thereisnohope3.png]]\n[[image thereisnohope4.png]]\n[[image thereisnohope5.png]]\n[[image thereisnohope6.png]]\n\n[[div class=\"blockquote\"]]\n\"There's always hope,\" Nhung? Do you still feel that way?\nFor my part, I hope you can't feel anything.\n\n//— Reuben Wirth, Archives and Revision//\n[[/div]]\n-----\n[[collapsible show=\"+ Bonus REISNO Art\" hide=\"- Enjoy!\"]]\n[[image https://i.imgur.com/I1pgTXx.png]]\n[[image https://i.imgur.com/N7HLFzW.png]]\n[[image https://i.imgur.com/epVbacY.png]]\n-----\n[[image https://i.imgur.com/fa5E5eq.png]]\n[[image https://i.imgur.com/99BWE9p.png]]\n[[image https://i.imgur.com/4P36TCg.png]]\n[[/collapsible]]\n-----\n[[/=]]",
+  "tags": [
+    "artwork",
+    "comic",
+    "doctor-blank",
+    "doctor-lillihammer",
+    "doctor-mcdoctorate",
+    "on-guard-43",
+    "personnel-art",
+    "scp-art",
+    "sketched"
+  ],
+  "author": "Dino--Draws",
+  "created_at": "2024-06-13T20:05:24+00:00",
+  "updated_at": "2024-06-13T21:19:02+00:00",
+  "rating": 35,
+  "_site": "scp-wiki",
+  "_fullname": "art:thereisnohope"
+}

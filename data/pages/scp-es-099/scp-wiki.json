@@ -1,0 +1,20 @@
+{
+  "title": "SCP-ES-099",
+  "content": "[[module css]]\n.footer-wikiwalk-nav { display: none; }\n[[/module]]\n[[include :scp-int:scp-es-099]]",
+  "tags": [
+    "_cc",
+    "_es",
+    "compulsion",
+    "international",
+    "mind-affecting",
+    "performance",
+    "safe",
+    "scp"
+  ],
+  "author": "INT_Translator",
+  "created_at": "2018-10-19T06:26:48+00:00",
+  "updated_at": "2022-05-04T14:21:01+00:00",
+  "rating": 33,
+  "_site": "scp-wiki",
+  "_fullname": "scp-es-099"
+}

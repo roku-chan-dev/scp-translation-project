@@ -1,0 +1,17 @@
+{
+  "title": "SCP-6552",
+  "content": "[[include component:ratio-bar base=-- |ex=--]]\n\n[[include :scp-wiki:component:author-label-source start=--\n|name=Tstaffor\n|no-right-margin=*]]\n你可以在这儿查看我更多的作品：\n[http://scp-wiki.wikidot.com/tstaffor-s-author-page Tstaffor's Isolated Containment Terminal]\n[[include :scp-wiki:component:author-label-source end=--]]\n\n[[include component:image-block name=http://scpsandboxcn.wikidot.com/local--files/iceredtea/tidalwav.png|caption=SCP-6552.|width=200px]]\n\n**项目编号：** SCP-6552\n\n**项目等级：** Safe\n\n**特殊收容措施：** SCP-6552储存在异常-文件-文件夹-47目录内。目前对于SCP-6552的所有测试均已停止，任何人在任何情况下不得重新命名或者播放SCP-6552\n\n**描述：** SCP-6552是一个.wav格式文件，由水拍打海岸的声音组成。当文件命名中含有可以与.wav构成复合名词的名称，并且播放该文件时，其与复合词相对应的异常事件将会发生。\n\n[[=]]\n[[include :snippets:html5player\n|type=audio\n|url=https://scp-wiki.wdfiles.com/local--files/scp-6552/wav.wav\n]]\n[[/=]]\n\n**附录6552.1 测试日志：**\nHenderson博士指导D-41897如何给SCP-6552命名。D-41897随后循环播放该文件3-10次，Henderson博士记录下其异常现象。\n||~ SCP-6552的名称 ||~ 异常事件 ||\n|| 声.wav || SCP-6552的音频并未从连接播放该音频的计算机扬声器中发出。而是从构成该.wav文件本身的像素播放出。 ||\n|| 温度.wav || 播放SCP-6552音频的房间以每秒钟1°C的速度升温。 ||\n|| 水蒸气.wav || 在播放过程中，在播放该音频的电脑上所有用户界面都进行了重排以符合“蒸汽波”美学。 ||\n|| 脑.wav || 在98号测试站点的所有人都能够听到播放SCP-6552的声音，但没有录音设备可以记录到任何声音。 ||\n|| 微.wav || 播放时，SCP-6552的播放设备发出集中辐射，导致D-41897播放3次音频后死亡。||\n|| 潮汐.wav ||  98号测试站点的洪水导致有关异常效应结果的记录无法修复。重建与将新的接替人员转移到98号测试站点的工作正在进行中。 ||\n\n[[footnoteblock]]\n----\n[[div class=\"footer-wikiwalk-nav\"]]\n[[=]]\n<< [[[SCP-6551]]] | SCP-6552 | [[[SCP-6553]]] >>\n[[/=]]\n[[/div]]\n----\n\n[[div]]\n[[=]]\n[[include :scp-wiki-cn:component:license-box\n|author=Tstaffor\n|translator=\n]]\n=====\n[[<]]\n> **图像名：** tidalwav.png\n> **图像作者：** Wilfredor\n> **授权协议：** CC BY-SA 4.0\n> **来源链接：** https://commons.wikimedia.org/wiki/File:Heraldic_waves.svg\n[[/<]]\n=====\n[[<]]\n> **文件名：** wav.wav\n> **文件作者：** apsbin\n> **授权协议：** CC BY 3.0\n> **来源链接：** https://commons.wikimedia.org/wiki/File:Pyramidal_waves,_It%C5%8D,_Shizuoka,_-Jan._2012_a.ogv\n[[/<]]\n=====\n[[include :scp-wiki-cn:component:license-box-end]]\n[[/=]]\n[[/div]]",
+  "tags": [
+    "safe",
+    "scp",
+    "声音",
+    "媒体",
+    "音频"
+  ],
+  "author": "Ice  Red Tea",
+  "created_at": "2022-06-05T07:06:26+00:00",
+  "updated_at": "2022-06-06T08:31:10+00:00",
+  "rating": 1,
+  "_site": "scp-wiki-cn",
+  "_fullname": "scp-6552"
+}

@@ -1,0 +1,22 @@
+{
+  "title": "SCP-CN-188-J",
+  "content": "[[module CSS]]\n.orderwrapper {position: relative;width: auto;text-align: center;}.council1 {position: relative;top: 0;bottom: 0;left: 0;right: 0;width: 295px;height: 295px;margin: auto;background-image: url( \"http://kaktuskontainer.wdfiles.com/local--files/format-hell/scp_trans.png\" );background-size: 295px 295px;background-repeat: no-repeat;background-position: center;}.ordertitle {position: absolute;left: 0;right: 0;top: 38px;}.ordertitle h1 {font-size: 220%;color: #555;}.orderdescription {position: absolute;left: 0;right: 0;top: 85px;width: 100%;}.orderdescription p {font-size: 90%;color: #555;}.orderdescription h1 {font-size: 120%;color: #555;}.itemno {position: absolute;left: 0;right: 0;bottom: 27px;}.itemno h1 {font-size: 170%;color: #555;}\n[[/module]]\n\n@@ @@\n\n@@ @@\n\n@@ @@\n\n@@ @@\n\n@@ @@\n\n@@ @@\n[[div style=\"class:desktop-only; position:fixed; RIGHT: 10pt; BOTTOM: 10pt; display: inline-block; float:top; padding:0 0 0 0; overflow: auto\"]]\n[[module rate]]\n[[/div]]\n\n[[=]]\n[[div class=\"orderwrapper\"]]\n[[div class=\"council1\"]]\n[[/div]]\n[[div class=\"ordertitle\"]]\n+* ! 警告 !\n[[/div]]\n[[div class=\"orderdescription\"]]\n _\n+* - 根据监督者议会指示 -\n本文件仅4级权限/CN-188-J权限可访问\n\n请不要泄露任何……信息，感谢您的配合\n[[/div]]\n[[/div]]\n[[/=]]\n\n@@ @@\n\n@@ @@\n\n@@ @@\n\n@@ @@\n\n@@ @@\n\n@@ @@\n\n@@ @@\n\n@@ @@\n\n@@ @@\n\n@@ @@\n\n@@ @@\n\n@@ @@\n\n@@ @@\n\n@@ @@\n\n@@ @@\n\n[[include component:image-block\n| name=http://pokm.wikidot.com/local--files/scp-cn-188-j/area\n| caption=站点俯视图]]\n**归档项目编号：**SCP-CN-188-J\n\n**归档项目等级：**Keter\n\n**归档特殊收容措施：**目前已将该人员转移至秘密站点Site-CN-[根据隐私协议已隐藏]。周边一百平方公里以内地区禁止任何人进入。\n\n**归档描述：**SCP-CN-188-J是原特外站点十号员工A██ H███。在一次事故中表现出了其最主要的异常特征，A██ H███为一特殊高级现实扭曲实体，且其现实扭曲作用只对自己有效。初步表现为无需呼吸氧气、进食和摄入水分、也不需要维持常规大气压和环境温度，即可在任何条件下生存。其胃部类似于一个非欧拓扑异常空间。因心理原因，SCP-CN-188-J保持积极进食，直至目前无排遗记录。\n\n@@ @@\n\n@@ @@\n\n@@ @@\n\n@@ @@\n\n@@ @@\n\n@@ @@\n\n@@ @@\n\n@@ @@\n\n@@ @@\n\n@@ @@\n\n@@ @@\n\n@@ @@\n\n@@ @@\n\n@@ @@\n\n@@ @@\n\n[[include component:image-block\n| name=http://pokm.wikidot.com/local--files/scp-cn-188-j/space\n| caption=事故发生前10s]]\n> **Area-CN-07 深空探索部空间站 事故记录**\n> \n> //警告：尊重深空探索部前辈英灵，不准笑。//\n> \n> 2020年3月7日，深空探索部的成员们在结束了一天的空间站维护工作后进入了梦乡。\n> \n> **事故发生前8s：**雷达发现不明飞行物\n> \n> **事故发生前6s：**智能计算机判断了物体飞行方向和飞行速度，紧急激活了跃迁装置。\n> \n> **事故发生前4s：**系统进入预热。\n> \n> **事故发生前2s：**全体工作人员集合。\n> \n> **事故发生**\n\n@@ @@\n\n@@ @@\n\n@@ @@\n\n@@ @@\n\n@@ @@\n\n@@ @@\n\n@@ @@\n\n@@ @@\n\n@@ @@\n\n@@ @@\n\n@@ @@\n\n@@ @@\n\n@@ @@\n\n@@ @@\n\n@@ @@\n\n@@ @@\n\n@@ @@\n\n@@ @@\n\n[[include component:image-block\n| name=http://pokm.wikidot.com/local--files/scp-cn-188-j/break\n| caption=收容失效]]\n**项目编号：**SCP-CN-188-J\n\n**项目等级：**[[[http://scp-wiki-cn.wikidot.com/scp-k2-jp-j|Uncontained]]]\n\n**特殊收容措施：**项目本体正在失效过程中，在定位仪器失效前应与之保持通话并记录其探索报告。建立了前台公司以处理SCP-CN-188-J生产的生物肥料。\n\n**当前状态：**星际航行。\n\n@@ @@\n\n@@ @@\n\n@@ @@\n\n@@ @@",
+  "tags": [
+    "_cc",
+    "scp",
+    "不可摧毁",
+    "人形生物",
+    "原创",
+    "天空",
+    "搞笑",
+    "星际",
+    "机密分级",
+    "活物"
+  ],
+  "author": "pokm",
+  "created_at": "2020-03-08T20:37:31+00:00",
+  "updated_at": "2020-03-11T12:09:17+00:00",
+  "rating": 66,
+  "_site": "scp-wiki-cn",
+  "_fullname": "scp-cn-188-j"
+}

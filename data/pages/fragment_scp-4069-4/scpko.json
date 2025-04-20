@@ -1,0 +1,14 @@
+{
+  "title": "SCP-4069-4",
+  "content": "[[module css]]\n#page-title {\n  display: none;\n}\n[[/module]]\n\n[[div style=\"background-color: #600; border: solid 1px #600; border-radius: 20px; color: #fff; width: 450px; margin: 0 auto; font-size: 100%; text-align: center; box-shadow: 0 2px 6px rgba(0,0,0,.5), inset 0 1px rgba(255,255,255,.5), inset 0 10px rgba(255,204,204,.5), inset 0 10px 20px rgba(255,204,204,.3), inset 0 -15px 30px rgba(48,0,0,.5); line-height: 100%; padding: 0 7px;\"]]\n**III 단계** IntSCPFN 보안 허가 액세스 포인트에서 두 개의 파일이 이 페이지에 익명으로 업로드되었습니다.\n[[/div]]\n\n@@ @@\n\n[[=]]\n[[image https://scp-wiki.wdfiles.com/local--files/fragment:scp-4069-4/1.png]]\n\n//ID# C-51174//\n\n//IntSCPFN 접속이 가능한 외부차원 변칙존재에 갇혔음//\n\n//제발 제 사용자 계정 편집 권한 좀 재활성화시켜주세요//\n[[/=]]\n\n@@ @@\n\n[[=]]\n[[image https://scp-wiki.wdfiles.com/local--files/fragment:scp-4069-4/2.png]]\n\n//인증번호 & 시각적 신원 증명//\n\n//51174-A-42//\n[[/=]]\n\n------\n\n[[=]]\n**,,[/scp-4069/offset/4 페이지 새로고침],,**\n[[/=]]",
+  "tags": [
+    "en",
+    "조각문서"
+  ],
+  "author": "Cubic72",
+  "created_at": "2019-07-03T15:34:01+00:00",
+  "updated_at": "2025-01-06T00:01:34+00:00",
+  "rating": 0,
+  "_site": "scpko",
+  "_fullname": "fragment:scp-4069-4"
+}

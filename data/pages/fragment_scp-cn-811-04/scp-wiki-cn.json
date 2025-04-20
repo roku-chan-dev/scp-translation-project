@@ -1,0 +1,13 @@
+{
+  "title": "",
+  "content": "[[module CSS]]\n\n#header h1 {\n    margin-left: 13%;\n    padding: 0;\n    float: left;\n    max-height: 90px;\n}\n\n#header h1 a {\n    display: block;\n    margin: 0;\n    padding: 80px 0 25px;\n    line-height: 0px;\n    max-height: 0px;\n    color: transparent;\n    background: transparent;\n    font-size: 120%;\n    font-family: YouYuan;\n    text-shadow: none;\n    text-decoration: none;\n}\n \n#header h1 a::before {\n    content: \"废墟：Site-CN-20\";\n    color: #FFFFFF;\n    text-shadow: 3px 3px 5px #000000;\n}\n \n#header h2 {\n    margin-left: 13%;\n    padding: 0;\n    clear: left;\n    float: left;\n    font-size: 105%;\n    max-height: 38px;\n}\n\n#header h2 span {\n    display: block;\n    margin: 0;\n    padding: 19px 0;\n    line-height: 0px;\n    max-height: 0px;\n    color: transparent;\n    text-shadow: none;\n}\n \n#header h2 span::before {\n    content: '我将发掘并见证，于最初生长在此的疯狂。';\n    color: #FFFFFF;\n    text-shadow: 1px 1px 1px #000000;\n    text-shadow: 1px 1px 1px rgba(0,0,0,.8);\n}\n[[/module]]\n\n[[module CSS]]\n.footnotes-footer {\ndisplay: none;\n}\n[[/module]]\n[[=]]\n[[div style=\"background-color: #930000\"]]\n[[span style=\"color:white\"]] \n[[size larger]]\n//“晚上好。”//\n@@@@\n@@@@\n@@@@\n眼前是一片红色。血……\n@@@@\n@@@@\n@@@@\n//“你居然还呆在这里，是没有警惕性吗？还是刚刚才看到我的邮件？”//\n@@@@\n@@@@\n@@@@\n不论如何切换视觉，不论怎么拼命地想将思维接入另一名同伴，前方依然是一片红色。\n@@@@\n@@@@\n@@@@\n//“那位姓李的研究员也正在被处决呢。他比你更早回忆起来，之前还在查看本应被删除的SCP-CN-811真实资料备份，你应该也会出现什么会幻象吧？不同的文字？久远的信件？”//\n@@@@\n@@@@\n@@@@\n主人的声音为什么没有出现？\n@@@@\n@@@@\n@@@@\n为什么？\n@@@@\n@@@@\n@@@@\n为什么？\n@@@@\n@@@@\n@@@@\n为什么[[size 120%]]为什么[[/size]][[size 140%]]为什么[[/size]][[size 160%]]为什么[[/size]][[size 180%]]为什么？[[/size]]\n@@@@\n@@@@\n@@@@\n//“在这么大的输出功率下，SCP-CN-811-3应该会陷入永无止境地休眠吧。”//\n@@@@\n@@@@\n@@@@\nSCP-CN-811-4不是正在启动中吗？不然我为什么会想起来？\n@@@@\n@@@@\n@@@@\n同伴们会出现的。\n@@@@\n@@@@\n@@@@\n出现的。\n@@@@\n@@@@\n@@@@\n出现的。\n@@@@\n@@@@\n@@@@\n出现的[[size 120%]]出现的[[/size]][[size 140%]]出现的[[/size]][[size 160%]]出现的[[/size]][[size 180%]]出现的![[/size]]\n@@@@\n@@@@\n@@@@\n//“输送站的系统完全被换掉了，你们再也做不了什么手脚了。当然，Site-CN-21的其他人依然毫不知情。”//\n@@@@\n@@@@\n@@@@\n失败了……\n@@@@\n@@@@\n@@@@\n//“在你的最后一刻，我想要问你些问题，你也可以不用回答。”//\n@@@@\n@@@@\n@@@@\n痛苦……想哭……为自己的无能……为希望的破碎……\n@@@@\n@@@@\n@@@@\n//“你一直在颤抖流泪，是害怕死亡？是厌恶人类？还是担心中国分部？”//\n@@@@\n@@@@\n@@@@\n中国分部……一瞬间，内心平静无比……\n@@@@\n@@@@\n@@@@\n//“将死的你，是那个怪物的一部分，还是中国分部研究员？”//\n@@@@\n@@@@\n@@@@\n[http://scp-wiki-cn.wikidot.com/ 带着微笑，用听不见的声音说道：“……”]\n[[/span]]\n[[/size]]\n[[/div]] \n[[/=]]",
+  "tags": [
+    "段落"
+  ],
+  "author": "ilovecforever",
+  "created_at": "2018-03-17T19:42:05+00:00",
+  "updated_at": "2018-03-18T15:18:33+00:00",
+  "rating": 0,
+  "_site": "scp-wiki-cn",
+  "_fullname": "fragment:scp-cn-811-04"
+}

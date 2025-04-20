@@ -1,0 +1,22 @@
+{
+  "title": "SCP-8425",
+  "content": "[!-- https://scp-wiki-cn.wikidot.com/fragment:scp-8425-0--]\n[!-- https://scp-wiki-cn.wikidot.com/fragment:scp-8425-1--]\n\n[[module ListPages  category=\"fragment\" parent=\".\" limit=\"1\" order=\"created_at\" offset=\"@URL|0\"]]\n%%content%%\n[[/module]]\n\n\n[[div class=\"footer-wikiwalk-nav\"]]\n[[=]]\n<< [[[SCP-8424]]] | SCP-8425 | [[[SCP-8426]]] >>\n[[/=]]\n[[/div]]\n\n[[include :scp-wiki:component:license-box]]\n\n=====\n> **Filename:** Starfallen\n> **Name:** Starfall\n> **Author:** Dawid Zawiła\n> **Source:** https://commons.m.wikimedia.org/wiki/File:Purple_starry_sky_(Unsplash).jpg\n> **License:** Creative Commons CC0 1.0\n\n=====\n\n[[include :scp-wiki:component:license-box-end]]",
+  "tags": [
+    "scp",
+    "信息危害",
+    "合著",
+    "地平线倡议",
+    "宗教",
+    "战术神学部",
+    "模因",
+    "第五教会",
+    "等待分级",
+    "精神影响"
+  ],
+  "author": "SADoS",
+  "created_at": "2024-06-27T12:24:50+00:00",
+  "updated_at": "2024-12-06T06:22:18+00:00",
+  "rating": 2,
+  "_site": "scp-wiki-cn",
+  "_fullname": "scp-8425"
+}

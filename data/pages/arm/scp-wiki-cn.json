@@ -1,0 +1,14 @@
+{
+  "title": "三思而后行",
+  "content": "[[>]]\n[[module Rate]]\n[[/>]]\n[[include :scp-wiki:component:ratio-bar base=--]]\n[[module CSS]]\n.email-example .collapsible-block-folded a.collapsible-block-link {\n    animation: blink 0.8s ease-in-out infinite alternate;\n}\n@keyframes blink {\n    0% { color: transparent; }\n    50%, 100% { color: #b01; }\n}\n.email {border: solid 2px #000000; width: 88%; padding: 1px 15px; margin: 10px; box-shadow: 0 1px 3px rgba(0,0,0,.5)}\n.email-example a.collapsible-block-link {font-weight: bold;}\n.tofrom {margin-left: 10px; margin-top: 5px; padding: 1px 15px; border-left: solid 3px maroon}\n[[/module]]\n\n我瘫坐在沙发上，盯着那把送来的手枪——我很清楚那是什么亦或者说代表着什么，它代表着一个指令，一个请求，一个体面的结局。\n\n我的确并不算最廉洁的那种高层，但我自估也不算是最腐败的那一等，我曾经热血过，奋斗过，也曾灰心过，意冷过。是的，我确实贪污了一些站点翻修经费，但是难道其他人就没有贪污过吗？\n\n我无力再去思考，退出弹匣向里面填入一颗子弹，反手推上弹匣，让枪在我的食指上转了几圈，随即握定打开保险，将枪口顶在了自己的太阳穴上。\n\n门被敲了两声，扣动扳机的食指放松开来，我直起身来大声道：“你们连这点耐心都没有吗？”\n\n敲门声停止了，一种不甘和恼怒的感觉夹杂在我的心头，我决定利用我所能做的最后一件事来恶心一下清洁工。\n\n我把枪口抵在下巴上，扣动了扳机。\n\n我感受着那颗9mm子弹底火爆发出的推力，沿着膛线开始高速旋转冲出枪口，火焰灼伤了我的皮肤，巨大的动能穿透了表皮，肌肉与脂肪。\n\n它在我的舌头中滑行，穿越食道气管的交汇处撕裂了腭垂，毫不费力的穿过诸多软骨进入了柔软的大脑，在翻滚中桀骜不驯地搅碎尝试阻挠它的脑组织，带着碎片与鲜血冲出颅腔，大脑在空气中挥洒绽放，粉色与白色的柔软组织在墙壁上泼洒成画，鲜血汩汩流出，带走了体温也带走了生命。\n\n[[div class=\"email-example\"]]\n[[=]]\n------\n[[collapsible show=\"访问SCiPNET邮件？一 (1) 封新邮件！\" hide=\"回复：关于为所有高层人员配备自卫武器的邮件通知\"]]\n[[<]]\n[[div class=\"email\"]]\n[[div class=\"tofrom\"]]\n**至：**全站点4级及以上职工\n**自：**SITE-CN-10086指挥部\n**主题：**关于为所有高层人员配备自卫武器的邮件通知\n[[/div]]\n------\n尊敬的全站点4级及以上职工，鉴于本站点设施老化严重，翻修资金不足，考虑到可能的收容失效问题，现从站点武器库拨出一批武器，供自卫用，以上。\n[[/div]]\n[[/<]]\n[[/collapsible]]\n[[/=]]\n[[/div]]",
+  "tags": [
+    "原创",
+    "故事"
+  ],
+  "author": "lopprt",
+  "created_at": "2025-02-21T11:33:48+00:00",
+  "updated_at": "2025-03-01T12:19:46+00:00",
+  "rating": 50,
+  "_site": "scp-wiki-cn",
+  "_fullname": "arm"
+}

@@ -1,0 +1,11 @@
+{
+  "title": "랜덤 이야기",
+  "content": "[[module ListPages category=\"*\" order=\"random\" limit=\"1\" tag=\"이야기\"]]\n랜덤 이야기: %%title_linked%%\n\n[[include :snippets:redirect url=%%link%%]]\n[[/module]]",
+  "tags": [],
+  "author": "Salamander724",
+  "created_at": "2014-07-03T14:09:26+00:00",
+  "updated_at": "2022-08-24T12:00:38+00:00",
+  "rating": 0,
+  "_site": "scpko",
+  "_fullname": "random:random-tale"
+}

@@ -1,0 +1,25 @@
+{
+  "title": "SCP-4134",
+  "content": "[[include info:start]]\n**SCP-4134:** Claymore Anti-Personnel Mimes\n**Author:** [[*user devonmartin]]\n\n[[include :scp-sandbox-3:devonmartin-plug]]\n\n[[include info:end]]\n\n[[include theme:black-highlighter-theme]]\n\n[[div style=\"background: gray; padding: 1px 15px; border: solid 3px lightgray; margin: 10px; border-radius: 30px 15px;\"]]\n\n++ SCiPNet Terminal #418\n\n[[div style=\"background: white; padding: 1px 15px; border: solid 3px lightgray; margin: 10px; border-radius: 30px 15px;\"]]\n\n[[module ListUsers users=\".\"]]\nWelcome, Researcher %%name%%. Your current SCP-4134 clearance level is: **2**. \n[[/module]]\nThere are currently **3** versions of SCP-4134 documentation available at your security clearance.\n\n[[collapsible show=\"[11.28.1940] Original Documentation\" hide=\"[11.28.1940] Original Documentation\"]]\n[[include fragment:scp-4134-0]]\n[[/collapsible]]\n\n[[collapsible show=\"[09.01.1944] Revision 04\" hide=\"[09.01.1944] Revision 04\"]]\n[[include fragment:scp-4134-1]]\n[[/collapsible]]\n\n[[collapsible show=\"[02.24.2008] Current Containment Procedures\" hide=\"[02.24.2008] Current Containment Procedures\"]]\n[[include fragment:scp-4134-2]]\n[[/collapsible]]\n@@@@\n[[/div]]\n[[/div]]\n\n[[footnoteblock]]\n[[div class=\"footer-wikiwalk-nav\"]]\n[[=]]\n<< [[[SCP-4133]]] | SCP-4134 | [[[SCP-4135]]] >>\n[[/=]]\n[[/div]]",
+  "tags": [
+    "_listpages",
+    "building",
+    "clown",
+    "ectoentropic",
+    "euclid",
+    "extremity",
+    "historical",
+    "mimetic",
+    "mind-affecting",
+    "predictive",
+    "scp",
+    "thermal",
+    "weapon"
+  ],
+  "author": "devonmartin",
+  "created_at": "2019-04-11T18:35:59+00:00",
+  "updated_at": "2024-04-02T09:06:36+00:00",
+  "rating": 96,
+  "_site": "scp-wiki",
+  "_fullname": "scp-4134"
+}

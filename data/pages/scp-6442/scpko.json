@@ -1,0 +1,22 @@
+{
+  "title": "SCP-6442",
+  "content": "[[include :scpko:theme:black-highlighter-theme]]\n[[include :scpko:theme:penumbra-bhl]]\n[[include :scpko:component:acs-animation]]\n[[include :scpko:component:fade-in speed=2]]\n\n[[include info:start]]\n**SCP-6442:** 미미르, 미미르\n**저자:** [[*user Dr Shoulder]] & [[*user Yossipossi]]\n**원작:** https://scp-wiki.wikidot.com/scp-6442\n**역자:** [[*user Aiken Drum]]\n\n> **파일명:** scp-6442.jpg\n> **원본:** Swinging Valve for Supersonic Wind Tunnel - GPN-2000-001474.jpg\n> **저작권자:** NASA/GRC\n> **라이선스:** Public Domain\n> **출처:** [http://commons.wikimedia.org/wiki/file:swinging_Valve_for_Supersonic_Wind_Tunnel_-_GPN-2000-001474.jpg Wikimedia Commons]\n[[include info:end]]\n\n[[div]]\n\n[[include :scpko:component:anomaly-class-bar-source\n|item-number= 6442\n|clearance= 5\n|container-class= 타우미엘\n|secondary-class=\n|secondary-icon=\n|disruption-class= 플람\n|risk-class= 치명\n]]\n[[include :scpko:component:customizable-acs\n|containment-class= 타우미엘\n|containment-image= https://scp-wiki.wikidot.com/local--files/component:anomaly-class-bar/thaumiel-icon.svg\n|containment-color= 98, 69, 120\n|inc-containment = --]]]\n[[include :scpko:component:customizable-acs\n|accent-one= 33, 37, 46\n|inc-color-accent = --]]]\n\n----\n\n[[/div]]\n[[div]]\n\n[[div class=\"scp-image-block block-right\" style=\"width: 270px\"]]\n[[image https://scp-wiki.wikidot.com/local--files/scp-6442/scp-6442.jpg style=\"width:100%;\" link=#]]\n[[div class=\"scp-image-caption\" style=\"width:100%;\"]]\n[데이터 말소]격리시설의 일부분\n[[/div]]\n[[/div]]\n\n**특수 격리 절차:** SCP-6442가 예방격리 작업 및 재단 비밀 유지에 큰 역할을 하고 있기 때문에 본 변칙개체는 필요한 수단을 총동원하여 보호해야 한다.\n\n[데이터 말소]격리시설에 대한 접근은 오직 오직 SCP 재단 방첩국만 허가할 수 있다. 시설의 지리적 위치를 은폐하기 위해, 기지에 배정된 인원은 위치추적 도구를 이용할 수 없으며, 도착하는 즉시 D급 기억소거제를 투여한다. 현장의 인원들은 격리에 위협이 될 수 있기에, 시설에 구조배치에 익숙해지지 않아도 되며, 익숙해지지도 않아야 한다. 예외는 지정된 대피구역과 기지 유지보수 작업을 위해 필요한 곳뿐이다.\n\n허가 없이 시설을 떠나거나 접근하려 한다면 즉시 구금되고, 해당 범인은 차후 기억소거 및 강등되며, 처분될 수도 있다.\n\n[데이터 말소]격리시설의 외부는 재단이 만든 은밀 대침투전략 특화 자동장치들이 경비한다. 일반 은폐 규약에 따라, 이 자동장치들은 침투자를 은밀하게 처분하고, 조용히 적 항공기를 파괴하며, 변칙적 무기류에 대응하여 기적술 반주문을 수행할 수 있도록 설계되었다.\n\n----\n\nSCP-6442 자체는 16개의 동일하게 생긴 구형 격리실 중 하나에 위치한다. 이 격리실은 서로 최소 50미터 떨어져 있으며, 길을 찾기 어렵도록 설계된 미로 형태의 좁은 구조물로 연결되어 있다. 각 격리실엔 아무런 특징도 없고 출입구는 하나뿐이며, 다른 격리실과 구별할 수 있는 차이점이 없다. SCP-6442의 정확한 위치는 어떤 재단 인원도 알지 못한다.\n\n각 격리실 내부에는 SCP-6442 혹은 대부분 똑같은 (하지만 비변칙적인) 모조품이 들어있는 텅스텐 합금 구체가 들어있다. 각 구체는 해당하는 격리실의 정중앙에 매달려 있어 접근하려면 상당한 협력과 노력이 필요하다. 또한 격리시설의 내부에는 무력으로 SCP-6442를 무력화하거나 회수하려 하는 인원들로부터 보호하기 위한 다중 보호장치가 있다. 현재 취해진 방안은 다음이 있으며, 이에 한정되진 않는다.\n\n* 반핵무기 및 고유무기 방어 규약 다수.\n* 각 격리실 전체에 뿌려진 에어로졸 [[[updated-amnestics-guide|I급 기억소거제]]].\n* SCP-6442가 존재론적 공격인한 피해를 방지하기 위한 격리실 당 6개의 스크랜턴 현실성 닻 (Scranton Reality Anchors; SRA).\n* 시간조작을 방지하기 위한 격리실 당 1개의 크샹크/아나스타사코스 지속성 시간침강.\n* 신격 개입을 방지하기 위해 격리실 당 36개의 실험적 랜달/요사리안 아키바 무효화장치.\n* 위의 절차로 부족하거나, 현장의 경비가 적대적 세력에 의해 제압당했을 때를 위해 각 격리실 당 기동특무부대 [[[task-forces#tau-5|타우-5 (\"윤회\")]]] 생성 탱크 한 세트.\n\n그럴 일은 없을 것으로 보이나, 예측할 수 없는 어떠한 이유로 SCP-6442를 꺼낼 필요가 있다면, 시설에서 SCP-6442와 모든 미끼를 함께 꺼낸다. 문제가 해결된다면, SCP-6442를 [[[scp-4559|무작위]]]로 16개의 격리실 중 하나에 반환한다.\n\n국제연합의 [[[goc-hub-page|세계 오컬트 연합]]]이 성공적으로 SCP-6442를 회수한다면, 이 단체가 가설 상으로만 존재하는 예방접종을 개발하는 걸 방지하기 위해 본 개체를 무력화하기 위해 모든 시도를 해야 한다.[[footnote]]SCP-6442에 대한 밈적 예방접종은 첩보와 비밀전의 측면에서 SCP 재단에 심각한 불리함을 겪게 할 것이다.[[/footnote]] SCP-6442의 모든 훈련 데이터 및 구성 물질은 역설계를 방지하기 위해 모두 소각되었으며, 이 개체를 보호하는 것은 최우선으로 여겨져야 한다.\n\n----\n\n광범위한 변칙 공동체 내부의 긴장, 단계적 축소 회의의 부족한 성과로 인해  위의 특수 격리 절차는 무기한 계속된다. 절차는 O5 평의회의 명령에 따라 3달의 한 번 방첩국이 재승인하거나 개정해야 한다.\n\n본 문서는 보안 우려로 전체 격리 절차 중 비확정된 부분은 제하도록 수정되었다.\n\n@@ @@\n@@ @@\n\n**설명:** SCP-6442는 SCP 재단 방첩국과 밈학과에서 만든 글귀이다. SCP-6442는 기밀 탄소섬유 기반 탄성중합체로 만들어진 구체 내부에 새겨져 있다.\n\n글귀의 최소 73%를 인지하면, 노출된 대상은 즉각 모든 신경기능이 완전히 정지된다. 이는 모든 지성을 가진 존재에게서 발생하며, 비유기 생명체에도 포함된다. 현재, 이는 단체에 의해 제작된 것 중 가장 강력한 인식재해이다. 이를 접하고도 생존하기 위해선 인식저항수치(Cognitive Resistance Value; CRV)가 724 이상이어야 할 것이다.[[footnote]]참고:  CRV 값은 로그 스케일을 따름.[[/footnote]] 그에 따라 접종은 실현이 불가하거나 잠재적으로 불가능하다고 여겨진다.\n\n2023년 대상이 만들어지고 격리된 후, SCP-6224는 성공적으로 8천 개체 이상의 전지성 독립체를 무력화했으며, 이 중 최소 2천 개체는 세계 오컬트 연합에 고용되어 있었다.\n\n@@ @@\n\n[[footnoteblock]]\n\n[[/div]]\n\n[[module CSS]]\n:root {\n    --timeScale: 1.35;\n    --timeDelay: 1.25s;\n}\n[[/module]]",
+  "tags": [
+    "en",
+    "scp",
+    "공저",
+    "명문",
+    "세계-오컬트-연합",
+    "시각",
+    "신경학",
+    "인식재해",
+    "재단이-만듦",
+    "타우미엘"
+  ],
+  "author": "Aiken Drum",
+  "created_at": "2022-06-27T07:06:42+00:00",
+  "updated_at": "2025-02-02T13:49:17+00:00",
+  "rating": 12,
+  "_site": "scpko",
+  "_fullname": "scp-6442"
+}

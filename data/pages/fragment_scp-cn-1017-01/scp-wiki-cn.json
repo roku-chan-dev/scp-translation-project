@@ -1,0 +1,13 @@
+{
+  "title": "SCP-CN-1017",
+  "content": "[[div class=\"danke agent\"]]\n| Establishing link with device BD4-Fk......\n\n| Ready. Logical pattern synchronization complete.\n\n| Voice and Keyboard input are now abailable. Activating Chinese interface.\n\n| 站點資料庫復原作業完成。未檢測到錯誤，系統恢復到通常模式。\n\n| 請輸入身分驗證。\n\n@@> @@ID：##00FFFF|XLJ-0451##\n@@> @@PASSWORD：##00FFFF|1ncidit1nSCYLLAMcupiensVitareCHARYBDIM##\n\n| 身分認證通過，歡迎，Site-CN-77站點主管。請輸入指示。\n\n@@> @@##00FFFF|載入SCP-CN-1017相關檔案。##\n\n| 載入中......\n\n| 站點資料庫內未發現相關檔案。於外部資料庫發現更新檔案，是否要同步化(Y/N)？\n\n@@> @@##00FFFF|Y##\n\n| 連接站點資料庫與基金會資料庫......\n\n| 同步化進行中......\n\n| 同步化作業完成，SCP-CN-1017相關檔案已更新至2018/09/07版本並下載到您的終端。\n\n@@> @@##00FFFF|開啟日期最早之檔案。##\n\n| [http://scp-wiki-cn.wikidot.com/scp-cn-1017/offset/1 發現53個檔案日期標籤於2018/03/24，開啟中。]\n\n[[/div]]",
+  "tags": [
+    "段落"
+  ],
+  "author": "EDGE_chi",
+  "created_at": "2018-12-09T08:45:32+00:00",
+  "updated_at": "2019-03-24T08:12:41+00:00",
+  "rating": 0,
+  "_site": "scp-wiki-cn",
+  "_fullname": "fragment:scp-cn-1017-01"
+}

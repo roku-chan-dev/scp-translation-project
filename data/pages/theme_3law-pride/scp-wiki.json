@@ -1,0 +1,13 @@
+{
+  "title": "Third Law Pride CSS Theme",
+  "content": "[[iftags +theme]]\n[[module CSS]]\n@import url('https://scp-wiki.wdfiles.com/local--code/theme%3A3law/1');\n[[/module]]\n\n[[>]]\n[[module Rate]]\n[[/>]]\n\nThis is a variant theme for the [[[third-law-hub|Third Law]]] canon. Using this theme requires the base Third Law Theme. To use this theme, put the following on any page:\n\n> @@[[include theme:3law]]@@\n> @@[[include theme:3law-pride]]@@\n\n[[code type=\"css\"]]\n/*\n    Third Law Canon Pride Theme Variant\n    [2021 Wikidot Theme Component]\n    Created by GreenWolf.\n    The Prometheus Labs/Third Law Flame Logo was created by GreenWolf and is licensed under CC-BY-SA 3.0.\n*/\n \n/* HEADER */\n#header {\n    background-image: url('https://scp-wiki.wdfiles.com/local--files/theme%3A3law-pride/PL_3Law_Logo_Pride_Gradient3.png');\n}\n \n#header h2 span::before {\n    content: 'Be Gay, Do Crimes ';\n}\n[[/code]]\n[[/iftags]]\n\n[[module CSS]]\n@import url('https://scp-wiki.wdfiles.com/local--code/theme%3A3law-pride/1');\n[[/module]]",
+  "tags": [
+    "theme"
+  ],
+  "author": "GreenWolf",
+  "created_at": "2021-11-29T03:43:37+00:00",
+  "updated_at": "2021-11-29T03:50:30+00:00",
+  "rating": 32,
+  "_site": "scp-wiki",
+  "_fullname": "theme:3law-pride"
+}

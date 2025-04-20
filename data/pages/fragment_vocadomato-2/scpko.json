@@ -1,0 +1,14 @@
+{
+  "title": "vocadomato-test-2",
+  "content": "[[div class=\"page-information\"]]\n[[module ListPages category=\"_default\" separate=\"no\" limit=\"250\" perPage=\"30\" fullname=\"@URL\"]]\n[[span class=\"page-fullname\"]]%%fullname%%[[/span]]  %%title_linked%%  [[span class=\"page-created-by\"]]%%created_by%%[[/span]]\n[[/module]]\n[[/div]]",
+  "tags": [
+    "ko",
+    "조각문서"
+  ],
+  "author": "vocadomato",
+  "created_at": "2022-10-06T05:56:15+00:00",
+  "updated_at": "2022-10-06T12:11:10+00:00",
+  "rating": 0,
+  "_site": "scpko",
+  "_fullname": "fragment:vocadomato-2"
+}

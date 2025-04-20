@@ -1,0 +1,13 @@
+{
+  "title": "fragment:scp-6226-2",
+  "content": "[[include :scp-wiki-cn:theme:wilderness]]\n[[module css]]\n#page-title {\n    display: none;\n[[/module]]\n\n[[div class=\"wilson-border\" style=\"margin-top: 7em;\"]]\n[[div class=\"wilson-subtitle\"]]\n发件人：Tim Wilson\n收件人：Dr. Jerimiah Greene\n日期：11/12/2021\n[[/div]]\n[[div class=\"wilson-body\"]]\nDr. Greene，\n\n这可不是什么动物。这就是一艘船。我们不是你们该死的储藏设施。\n\n[[>]]\nTim Wilson\nWWS\n[[/>]]\n[[/div]]\n[[/div]]",
+  "tags": [
+    "段落"
+  ],
+  "author": "Esperanza_Cai",
+  "created_at": "2021-09-12T08:20:06+00:00",
+  "updated_at": "2024-05-18T18:48:37+00:00",
+  "rating": 0,
+  "_site": "scp-wiki-cn",
+  "_fullname": "fragment:scp-6226-2"
+}

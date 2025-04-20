@@ -1,0 +1,14 @@
+{
+  "title": "SCP-8231",
+  "content": "[[include :scp-wiki-cn:theme:foxtrot]]\n\n@@ @@\n\n[[include :scp-wiki:component:image-block name=https://scp-sandbox-3.wdfiles.com/local--files/frownscp3/flower.png|caption=发现时的SCP-8231，摄于约2021年。|width=250px]]\n\n**项目编号：**SCP-8231\n\n**项目等级：**Anomalous\n\n**特殊收容措施：**SCP-8231被安置于Site-231地下一层的一间安保收容室内。鉴于项目有利于士气的提升，将每日指派一名站内人员在机动特遣队Alpha-1（“红右手”）的武装护送下为SCP-8231浇水。\n\n**描述：**SCP-8231是一支形似帝王花（//Protea cynaroides//）的花朵样本，但其反常地呈现了在该物种中并不常见的红色。已知面对SCP-8231的人员将对异常的某些特征做出评论，包括其鲜艳的颜色或不均匀的花瓣长度。与SCP-8231共度较长时间的人员有时会描述一种类似怀旧的不明情感。\n\n上述对SCP-8231做出的反应是非异常的，因为在观看常规植物图像的人员间也观察到了类似症状。然而，过度暴露于该异常并产生此类反应往往会扰乱管理部门有关维持工作环境稳定的目标。\n\n除反常色彩外，SCP-8231的显著特征还包括：极长的寿命、适应力与[[[tuftos-proposal|唯一性]]]；该异常自最初被发现以来一直保持着健康状态，这一过程截至撰写时已长达650年。当前，它是地球上仅存的植物实例。\n\n@@ @@\n\n[[include :scp-wiki-cn:component:license-box\n| author = MisterFrown\n]]\n=====\n> **图像名：**File:Protea_P1010885.JPG\n> **图像作者：**Winfried Bruenken\n> **授权协议：**CC BY-SA 2.5\n> **来源链接：**[https://commons.wikimedia.org/wiki/File:Protea_P1010885.JPG https://commons.wikimedia.org/wiki/File:Protea_P1010885.JPG]\n=====\n[[include :scp-wiki-cn:component:license-box-end]]\n\n[[module CSS]]\n\n@import url(\"https://fonts.googleapis.com/css2?family=Orbitron:wght@400..900&display=swap\");\n\n:root{\n  --header-title: \"监督者\";\n  --header-subtitle: \"牺牲 赋予 力量\";\n  --head-font: var(--ui-font);\n  --page-font-size: 0.89rem;\n  --link-txt-color: rgba(var(--accent), 0.75);\n\n  --accent: 124, 10, 2;\n  --fnColor: rgb(var(--accent));\n\n}\n\n#page-content hr {\n  height: 1px;\n  background-color: rgb(var(--accent));\n  margin-top: 1.5em;\n  margin-bottom: 1.5em;\n}\n\n#page-content a {\n  font-weight: bold;\n}\n\n#page-content .scp-image-block img {\n  border: solid 1px rgba(var(--accent), 0.66);\n}\n\n#page-content .scp-image-block.block-left {\n  margin: 0.5em 1.5em 1em 0em;\n}\n\n#page-content .scp-image-block.block-right {\n  margin: 0.5em 0em 1em 1.5em;\n}\n\n#page-content .scp-image-caption {\n  border: solid 1px rgba(var(--accent), 0.66);\n  border-radius: 0px;\n  margin-top: 7px;\n}\n\n.footnotes-footer {\ndisplay:none;\n}\n\n[[/module]]",
+  "tags": [
+    "scp",
+    "机密分级"
+  ],
+  "author": "LeeBr",
+  "created_at": "2025-02-07T10:50:52+00:00",
+  "updated_at": "2025-02-07T10:51:11+00:00",
+  "rating": 6,
+  "_site": "scp-wiki-cn",
+  "_fullname": "scp-8231"
+}

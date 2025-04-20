@@ -1,0 +1,28 @@
+{
+  "title": "SCP-7100",
+  "content": "[[module ListPages  category=\"fragment\" parent=\".\" limit=\"1\" order=\"name\" offset=\"@URL|0\"]]\n%%content%%\n[[/module]]\n\n[!-- 感谢作者将这些迭代页给潜在的译者放出。 --]\n[!-- https://scp-wiki-cn.wikidot.com/fragment:scp-7100-1 --]\n[!-- https://scp-wiki-cn.wikidot.com/fragment:scp-7100-2 --]\n[!-- https://scp-wiki-cn.wikidot.com/fragment:scp-7100-3 --]\n[!-- https://scp-wiki-cn.wikidot.com/fragment:scp-7100-4 --]\n[!-- https://scp-wiki-cn.wikidot.com/fragment:scp-7100-5 --]\n[!-- https://scp-wiki-cn.wikidot.com/fragment:scp-7100-6 --]\n[!-- https://scp-wiki-cn.wikidot.com/fragment:scp-7100-7 --]\n[!-- https://scp-wiki-cn.wikidot.com/fragment:scp-7100-8 --]\n[!-- https://scp-wiki-cn.wikidot.com/fragment:scp-7100-9 --]\n\n[[include :scp-wiki-cn:component:license-box\n|author=Captain Kirby\n|translator=highlightningman\n]]\n=====\n> **文件名：**3323224931_b21f33308a_b.jpg\n> **图像名：**Rainbow\n> **图像作者：**[[[*https://www.flickr.com/photos/st3ph3n/ | Stephen Hynds]]]\n> **授权协议：**CC-BY-SA 2.0\n> **来源链接：**@@@@https://www.flickr.com/photos/25293698@N02/3323224931\n\n> **文件名：**Rainbow1.svg\n> **图像作者：**[[[*https://commons.wikimedia.org/wiki/User:KES47 | KES47]]]\n> **授权协议：**公有领域\n> **来源链接：**@@@@https://commons.wikimedia.org/wiki/File:Rainbow1.svg\n=====\n[[include :scp-wiki-cn:component:license-box-end]]",
+  "tags": [
+    "7000",
+    "keter",
+    "scp",
+    "光照影响",
+    "敌意",
+    "昆虫",
+    "智能",
+    "概率性",
+    "气象",
+    "活物",
+    "液体",
+    "睡眠",
+    "种群",
+    "观察影响",
+    "超维度",
+    "门径"
+  ],
+  "author": "highlightingman",
+  "created_at": "2023-12-13T12:09:49+00:00",
+  "updated_at": "2024-02-22T15:09:09+00:00",
+  "rating": 11,
+  "_site": "scp-wiki-cn",
+  "_fullname": "scp-7100"
+}

@@ -1,0 +1,14 @@
+{
+  "title": "SCP-6664 0",
+  "content": "[[include :scp-jp:theme:black-highlighter-theme]]\n\n[[module CSS]]\n:root {\n    --header-title: \"超常植物学部門\";\n    --header-subtitle: \"アノマリーの根源を探る\";\n    --logo-image: url(\"http://scp-jp-storage.wikidot.com/local--files/file:2375337-1199-0anh/parazoo_downsideup.png\");\n\n    --pale-accent: 40, 230, 60;\n    /* light red, for visited links */\n    --bright-accent: 0, 133, 5;\n    /* bright red */\n    --medium-accent: 46, 100, 44;\n    /* medium red - the \"default\" accent color */\n    --dark-accent: 3, 100, 15;\n    /* dark red */\n    --alt-accent: 102, 221, 17;\n    /* pale orange, for newpage links */\n}\n[[/module]]\n\n[[include :scp-jp:component:bhl-dark-sidebar]]\n\n[[include :scp-jp:component:toggle-sidebar-bhl]]\n\n[[include :scp-jp:component:acs-animation]]\n\n[[include :scp-jp:component:anomaly-class-bar-source\n\n    |item-number= 6664\n\n    |clearance= 1\n\n    |container-class= safe\n\n    |secondary-class= none\n\n    |disruption-class= dark\n\n    |risk-class= notice\n\n    ]]\n\n-----\n\n[[include component:image-block name=http://scp-jp-storage.wikidot.com/local--files/file:2375337-1200-xuo8/treeI.jpg|align=center|width=100%|caption=収容以前のSCP-6664。]]\n\n-----\n\n**特別収容プロトコル:** SCP-6664は生物収容サイト-103の温室に収容されます。枝を傷付ける恐れがあるため、SCP-6664に登ることは許可されません。\n\n**説明:** SCP-6664は //Quercus robur// 、より一般的にはヨーロッパナラと呼ばれる植物種の樹木であり、現在はサイト-103に位置しています。その異常性を除いて、SCP-6664は同種の樹木と同一です。\n\nSCP-6664の異常性は、思春期前の人間が木登りをする時に活性化します。SCP-6664に登った児童は、通常予想されるように木の頂上に辿り着く代わりに、現時点で未知の場所へと転送されます。この空間はSCP-6664-1と指定されています。\n\nSCP-6664-1は廃墟化した倉庫であり、SCP-6664に登ることで到達可能です。SCP-6664-1には幾つかの大きな瓦礫の山、天井から吊り下げられた白熱電球2個、建造物最奥にある1枚のドア以外には何もありません。他のドアや窓は発見されていません。SCP-6664-1の内部にいる人物は、郷愁や安らぎを感じると報告します。建造物最奥のドアを開けた人物は、個人的に極めて重要であり、かつ過去に失われたと見做されていた物品1個を収めた小さなクローゼットを発見します。\n\nSCP-6664-1はこの物品を回収し、クローゼットのドアを閉めることによって退出可能であり、その時点で対象者はSCP-6664の枝の上に帰還します。\n\n-----\n\n[[=]]\n+ **補遺6664.01: 発見**\n[[/=]]\n\nSCP-6664は2014年1月28日、地元の児童であるネイサン・テラノが、SCP-6664-1に入った体験を、友人のヴァレリー・マーシュに報告した後に発見されました。ヴァレリー・マーシュの母親であったエージェント マリア・マーシュは、SCP-6664-1の話を聞き、潜在的アノマリーとして報告しました。SCP-6664はその後、サイト-103に植え替えられました。\n\n[[div class=\"blockquote\"]]\n//このファイルが一部不正確であることに気付いたので、適宜修正した。//\n\n//- ウェンドバー博士//\n\n**添付ファイル:** [[[http://scp-jp.wikidot.com/scp-6664/offset/1| SCP-6664-updated-documentation.pdf]]]\n\n[[/div]]",
+  "tags": [
+    "en",
+    "フラグメント"
+  ],
+  "author": "C-Dives",
+  "created_at": "2025-01-16T16:32:57+00:00",
+  "updated_at": "2025-01-16T16:33:23+00:00",
+  "rating": 0,
+  "_site": "scp-jp",
+  "_fullname": "fragment:scp-6664-0"
+}

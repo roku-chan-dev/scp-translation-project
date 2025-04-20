@@ -1,0 +1,14 @@
+{
+  "title": "行の装飾",
+  "content": "||~ 構文 ||~ 表示 ||\n|| @@//イタリック体//@@ || //イタリック体//[[footnote]] 全角文字に対してはブラウザによっては対応していません。[[span class=\"br\"]]**サンプル:** //Italic type//[[/span]] [[/footnote]] ||\n|| @@**太字**@@ || **太字** ||\n|| @@//**イタリック体と太字の併用**//@@ || **イタリック体と太字の併用**[[footnote]] 全角文字に対してはブラウザによっては対応していません。[[span class=\"br\"]]**サンプル:** //**italic and bold**//[[/span]] [[/footnote]] ||\n|| @@__下線文字__@@ || __下線文字__ ||\n|| @@--打ち消し線--@@ || --打ち消し線-- ||\n|| @@{{テレタイプ (等幅) 文字}}@@ || {{テレタイプ (等幅) 文字}}*[[footnote]] 全角文字には対応していません。[[span class=\"br\"]]**サンプル:** {{teletype (monospaced) text}}[[/span]] [[/footnote]] ||\n|| @@通常文^^上付き文字^^@@ || 通常文^^上付き文字^^ ||\n|| @@通常分,,下付き文字,,@@ || 通常分,,下付き文字,, ||\n|| @@[!-- コメントアウト --]@@[[footnote]]この構文で囲われた文章はhtml構文としても出力されません [[/footnote]] || [!-- コメントアウト --] ||\n|| @@[[span style=\"color:red\"]]任意の //span// 要素[[/span]]@@ || [[span style=\"color:red\"]]任意の //span// 要素[[/span]]||\n|| @@##blue|予約語## もしくは ##44FF88|任意の色コード## の色@@ || ##blue|予約語## もしくは ##44FF88|任意の色コード## の色 ||\n\nspanに下線を引いた要素（@@[[span_]]@@）を任意の新規行及び新しいパラグラフ（段落）を作る直前に置くとHTML出力時に自動改行がされなくなります。これによってBootstrapの様な複雑なHTML構文を簡単に書く事ができます。\n\n**構文**\n> @@**オブジェクトクラス:** [[span_]][[/span]]@@\n> Euclid\n\n**出力**\n**オブジェクトクラス:** [[span_]][[/span]]\nEuclid\n\n[[div class=\"alert alert-info\"]]\n@@[[span]]...[[/span]] @@要素にはユーザーが任意のIDをつける事ができます。この機能はBootstrapを使う上で非常に有用です。ただし、セキュリティ上の関係でユーザーが定義したIDには\"u-\"という接頭語がつく事に注意してください。\nソースの可読性を上げる為に、自分で\"u-\"の接頭語をつける事もできます。例えば下の2つのWiki構文は同じHTMLを出力します。\n------\nページを保存した際、下記コードのmySpanに自動的に\"u-\"という接頭語がつきます。\n> @@[[span id=\"mySpan\"]]My span element[[/span]]@@\n@@@@\n\"u-\"という接頭語が既に存在している場合は追加されません。\n> @@[[span id=\"u-mySpan\"]]My span element[[/span]]@@\n@@@@\n上記2つのHTML出力時のサンプルです。\n> <span id=\"u-mySpan\">My span element</span>\n[[/div]]\n[[module css]]\n.wiki-content-table {\nwidth:100%;\ntable-layout:fixed;\n}\n.wiki-content-table tr th{\nfont-weight:bold;\ncolor:#000;\ntext-align:left;\nborder:none;\nbackground-color:#EEE;\n}\n\n\n.wiki-content-table tr td{\npadding:3px;\nborder-top:none;\nborder-left:none;\nborder-right:none;\nborder-bottom:solid #CCC 1px;\ntext-align:left;\n}\n\nspan.br{\ndisplay:block;\n}\n[[/module]]",
+  "tags": [
+    "jp",
+    "リファレンス"
+  ],
+  "author": "C-take",
+  "created_at": "2018-04-09T12:05:49+00:00",
+  "updated_at": "2023-01-13T12:06:54+00:00",
+  "rating": 15,
+  "_site": "scp-jp",
+  "_fullname": "wiki-syntax:inline-formatting"
+}

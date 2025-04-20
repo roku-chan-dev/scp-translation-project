@@ -1,0 +1,22 @@
+{
+  "title": "SCP-4163",
+  "content": "[[include :scp-wiki-cn:theme:black-highlighter-theme]]\n[[module CSS]]\n@media (max-width: 767px) {\n    span {\n        word-break: unset;\n    }\n}\n[[/module]]\n\n[[include :scp-wiki-cn:component:author-label-source start=--\n|name=LiterallyMechanical\n|no-right-margin=*]]\n**俄罗斯方块天才**，by [[*user literallymechanical]]\n\n我其他的作品见[[[literallymechanical-s-author-page |LiterallyMechanical的作者页]]]\n\n一些我喜欢的作品\n\n* [[[SCP-5236]]] -- 伦理委员会的讯问\n* [[[SCP-4170]]] -- 黑暗\n* [[[SCP-4357]]] -- 黏液房东\n[[include :scp-wiki-cn:component:author-label-source end=--]]\n\n[!-- 随意编辑这个页面的内容可能造成文档迭代系统的彻底崩溃。请绝对不要编辑这个页面。 --]\n[!-- 如果您在阅读过程中发现需要勘误或修改之处，请用站内信与译者（LeafJensen）联系。 --]\n[!-- ListPages 教程: http://www.scp-wiki.net/listpages-magic-and-you --]\n\n[[module ListPages category=\"fragment\" parent=\".\" limit=\"1\" order=\"name\" offset=\"@URL|0\"]]\n\n%%content%%\n[[/module]]\n\n[!-- 每个迭代的页面地址如下 --]\n[!-- http://scp-wiki-cn.wikidot.com/fragment:scp-4163-0/noredirect/true --]\n[!-- http://scp-wiki-cn.wikidot.com/fragment:scp-4163-1/noredirect/true --]\n[!-- http://scp-wiki-cn.wikidot.com/fragment:scp-4163-2/noredirect/true --]\n[!-- http://scp-wiki-cn.wikidot.com/fragment:scp-4163-3/noredirect/true --]\n[!-- 建立 ListPages 文档迭代系统时，应先建立这个主页面。随后依次建立子页面，并将每个子页面的父页面设为此主页面。 --]\n\n[[footnoteblock]]\n@@@@\n[[div class=\"footer-wikiwalk-nav\"]]\n[[=]]\n<< [[[SCP-4162]]] | SCP-4163 | [[[SCP-4164]]] >>\n[[/=]]\n[[/div]]",
+  "tags": [
+    "keter",
+    "k级情景",
+    "scp",
+    "交换",
+    "人形生物",
+    "感知力",
+    "智能",
+    "活物",
+    "电子",
+    "电脑"
+  ],
+  "author": "LeafJensen",
+  "created_at": "2019-04-16T14:12:57+00:00",
+  "updated_at": "2023-12-07T22:37:56+00:00",
+  "rating": 26,
+  "_site": "scp-wiki-cn",
+  "_fullname": "scp-4163"
+}

@@ -1,0 +1,15 @@
+{
+  "title": "A Word From The Dominator - “统治者”的话",
+  "content": "[[module css]]\n.content-panel.standalone {\nfont-family: Courier New, Courier, monospace; \nwidth: 575px; \npadding: 10px 30px; \nmargin: 20px auto; \nbackground: url(/local--files/about-the-scp-foundation/bg-marble.png) repeat; \ntext-shadow: 1px 1px 1px rgba(0,0,0,.25);\n}\n\n@media (max-width: 1029px) {\n.content-panel.standalone {\npadding: 0.5em 0;\nmargin: 0 auto;\n}\n}\n[[/module]]\n[[div class=\"content-panel standalone\"]]\n[[size 130%]]**人类文明自繁荣以来，至少经过了4000多年的时间。只有最近显著发展的200年是有意义的。**\n\n所以，我们在将近4000年中在干嘛？许多人只是追求眼前的金钱，被一些微不足道的名义所吸引，相互竞争，继续无意义的浪费。那些只拥有与野兽一样的欲望、不知道伟大遗产价值的人把书扔进火里，破坏建筑物。他们使用“神”或“恶魔”的标签来理解这个世界。\n\n之后，智慧逐渐积累，其产物照亮了未知的事物。许多未知的事物被不断发现，许多技术取得了成果，人类对世界开始表现出更加合理的理解。然而，人类认为不合理、无逻辑的事物并没有消失。好像无知的野兽披着人类的面孔一样。\n\n**人类不能停止智慧的步伐。**没有谁能阻止人类的脚步，我们必须为前进而选择。\n\n为了让人类用智慧继续对抗未知，我们会作为尖兵战斗，同时也会作为督战队保护其背后。\n\n[[image http://scp-jp.wdfiles.com/local--files/about-the-scp-foundation/scp-logo-signature.png style=\"width: 63px; margin: 12px 15px 0 42px; float: left;\"]]\n**我们控制，我们收容，我们保护。**\n\n**-- The Dominator**[[/size]]\n[[/div]]",
+  "tags": [
+    "jp",
+    "故事",
+    "邪恶基金会"
+  ],
+  "author": "Mint chocolate",
+  "created_at": "2018-08-12T14:32:50+00:00",
+  "updated_at": "2018-08-12T14:33:32+00:00",
+  "rating": 2,
+  "_site": "scp-wiki-cn",
+  "_fullname": "holy-nova-tale-wordfromdominator"
+}

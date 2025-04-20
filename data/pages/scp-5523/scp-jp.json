@@ -1,0 +1,24 @@
+{
+  "title": "SCP-5523",
+  "content": "[[include :scp-jp:theme:black-highlighter-theme]]\n\n[[module CSS]]\n:root {\n    --header-title: \"Parazoology \";\n    --header-subtitle: \"Division\";\n        --logo-image: url(\"http://www.scp-wiki.net/local--files/scp-4347/1572269486726.png\");\n    --pale-accent: 40, 230, 60;\n    /* light red, for visited links */\n    --bright-accent: 0, 133, 5;\n    /* bright green */\n    --medium-accent: 46, 100, 44;\n    /* medium green - the \"default\" accent color */\n    --dark-accent: 3, 100, 15;\n    /* dark green */\n    --alt-accent: 102, 221, 17;\n    /* pale green, for newpage links */\n}\n[[/module]]\n\n[[module CSS]]\nsup {\nvertical-align: top; position: relative; top: -0.5em;\n}\n[[/module]]\n\n[[include :scp-jp:info:start]]\n**タイトル:** SCP-5523 - 明日、汝が骨より木々甘然と出づる刻\n**著者:** ©︎[[*user Amelia Wright]]\n**原題:** SCP-5523 - Tomorrow, when the Forests grow, sweetly from your bones\n**作成年:** 2020\n[[include :scp-jp:info:end]]\n\n[[include :scp-jp:component:acs-peppo-lite\n|item-number= 5523\n|clearance= 1\n|container-class= esoteric\n|secondary-class= Terminal\n|secondary-icon= https://usercontent.irccloud-cdn.com/file/w200/YsukCPNI\n|disruption-class= dark\n|risk-class= notice\n]]\n\n[[include :scp-jp:component:acs-peppo-split\n|object= safe\n|object-image= http://scp-wiki.wdfiles.com/local--files/component%3Aanomaly-class-bar/safe-icon.svg\n|object-color= safe\n|esoteric-color= safe\n]]\n\n---------\n\n**特別収容プロトコル:** SCP-5523が促進する生態的地位のため、カナナスキス・カントリー[[footnote]]カナダのアルバータ州にある地域で、カナディアン・ロッキー山脈に近いことで有名です。[[/footnote]]からのSCP-5523-1標本の除去は現在禁止されています。重要なSCP-5523-1個体群を含む領域はSCP-5523の影響範囲の境界線周囲に設けられた低空警備フェンスにより公衆から遮断されています。\n\n**説明:** SCP-5523はカナダのカナナスキス・カントリー内のシカ科の群れ[[footnote]]シカで構成される生物群。[[/footnote]]のメス個体に影響を及ぼす、Terminal[[footnote]][http://scp-int.wikidot.com/forum/t-7855061/scp-es-145 更なる情報はDr. ReachのTerminalクラスSCPの理論を参照してください。][[/footnote]]-クラスの生物学的挙動変化です。SCP-5523は//Vaccinium vitis-idaea//[[footnote]]Lingonberry, Partridgeberry, Mountain cranberry, Cowberryなどとして多岐に知られています。[[/footnote]]の実の摂食で成ります。個々の実が有毒物質を含んでいるため、シカ科の生物種は通常//Vaccinium vitis-idaea//を食すことはできません。\n\nSCP-5523が影響した育児中の個体は大量の//Vaccinium vitis-idaea//を摂食し、母乳に毒性物質と微量の//Vaccinium vitis-idaea//の種子が蓄積します。SCP-5523が生産する母乳を与えられた小ジカは母親の死に続き、摂取から24時間以内に死亡します。ウジや分解生物の助力を必要とせず、死後に急速な腐敗が起こります。白骨死体は亜寒帯植物の成長の先駆けとなるGreenbrier, Posion Ivy, Buckweedを含むシカが好む植物種とともに、//Vaccinium vitis-idaea//の若木を発現させます。\n\n継続されている調査に続き、SCP-5523によるカナナスキス・カントリー領域内での森林の成長が82%を超えるにまで発達したことが判明し、拡散は継続すると考えられています。\n\n[[footnoteblock title=\"脚注\"]]",
+  "tags": [
+    "_美味しい",
+    "en",
+    "esoteric-class",
+    "jam-con2020",
+    "scp",
+    "シカ",
+    "動物",
+    "樹木",
+    "死体",
+    "生命",
+    "画像差し止め",
+    "要翻訳"
+  ],
+  "author": "Fennecist",
+  "created_at": "2020-03-15T10:27:21+00:00",
+  "updated_at": "2023-01-27T13:13:22+00:00",
+  "rating": -20,
+  "_site": "scp-jp",
+  "_fullname": "scp-5523"
+}

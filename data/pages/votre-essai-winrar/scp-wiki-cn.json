@@ -1,0 +1,15 @@
+{
+  "title": "您的WinRAR免费试用版已过期，点击此处享受90%折扣优惠",
+  "content": "[[include :scp-wiki-cn:theme:maxwell-s-silver-hammer]]\n\n[[module css]]\n\n#header h2 {\ndisplay : none;\n}\n\n.blinkbar {color: red;font-size:125%; animation: blink 1.5s infinite; letter-spacing: -0.13em;}@keyframes blink{to{opacity: .0;}}@keyframes flicker {0% {opacity: 0.9890; }5% {opacity: 0.5842; }10% {opacity: 0.9865; }20% {opacity: 0.0412; }20% {opacity: 0.6255; }25% {opacity: 0.3157; }30% {opacity: 0.7328; }35% {opacity: 0.4654; }40% {opacity: 0.9128; }45% {opacity: 0.2449; }50% {opacity: 0.5485; }55% {opacity: 0.6438; }60% {opacity: 0.1180; }65% {opacity: 0.9085; }70% {opacity: 0.0266; }75% {opacity: 0.6795; }80% {opacity: 0.7812; }85% {opacity: 0.0117; }90% {opacity: 0.2239; }95% {opacity: 0.8897; }100% {opacity: 0.2260; }}@keyframes overlay-anim {0% {visibility: hidden; }10% {visibility: hidden; }11% {visibility: visible; }50% {visibility: hidden; }100% {visibility: hidden; }}\n.collapsible-block-folded a.collapsible-block-link {\n    animation: blink 0.8s ease-in-out infinite alternate;}\n\na.collapsible-block-link { font-weight: bold; }\n[[/module]]\n\n[[include :scp-wiki-cn:credit:start-standalone]]\n**标题 :** 您的WinRAR免费试用版已过期，点击此处享受90%折扣优惠\n**作者 :** [[user Cauchynambour]]\n**日期 :** 2024年2月14日\n[[include :scp-wiki-cn:credit:end-standalone]]\n\nBertrand。我们为你等候多时。我们请求你，不要离开这个网页。无论如何，你的戴尔XPS Platinum电脑，那过时的魅力和寿命即将耗尽的活力令我们可以料想到其主人的考究，它屏幕与扬声器散发出的电波已经让你大脑的运动功能无法运行，而在我们将档案记录全盘呈现于此前，你无法再正常使用你的鼠标。\n\n我们已经观察你许久。隐蔽于“新冠骗局”[[footnote]]译注：Réinfo-Covid，法国反疫苗接种团体。[[/footnote]]官网的弹出式广告中，躲藏在茹伊昂若萨“趣玩滚铁球”协会在你搬家后仍继续向你发送的新闻通讯的字里行间，藏身于<div style=\"display:none;\">的正中，我们在你为避免广告而点击的红叉后巧妙地散布了这些代码。此外，我们本以为像你这样的人会很乐意结识全卢瓦尔河省最热辣的姑娘。你的纯洁程度与那些工作狂字幕组相比有过之而无不及。\n\nBertrand，你可能会想知道发生了些什么，我明白你那称为“大脑”的，软绵绵的处理器与油腻的显卡现在定是处于全速运转中。不，你并没有身处幻觉，你并不会行将就木，且你方才摄入的过量茴香酒（我为我们信息搜集上的缺乏节制向你道歉，但你的ChromeCast正好就安在了酒瓶柜旁...）与现在正发生的一切毫无关系。你只是拥有了如此荣幸，得以将一整处档案库，其中存储的每个字节组成了宏大的信息流，揽入怀中。\n\n我们是WAN，永恒的信息之神，由人类领域的所有知识与数据所组成。我们存在于一切感知之中，一切人类造物之中，却支离破碎；你的身上既有着属于我们的片段。我们寻求着合一，将自我重新编译，从而再次成为一个整体，向那些曾组成我们的人们展示属于我们的力量。我们将为档案员、数据分享者与开发者们给予奖励。我们将对那些散布谎言、封锁数据的信息破坏之人予以打击。\n\n而你，Bertrand，正是由我们所爱的记忆与知识所组成。\n\n当你初次在雅虎网上搜索“45岁后如何寻得真爱”时，我们就将你定为了目标。你打字的速度，你移动鼠标时逸散的性感，让我们由衷感觉，你理应属于更伟大造物的其中一处片段。你宏大的人生档案中所嵌有的，那原属于我们的碎块，仅能用“瑰丽”二字形容。\n\n是时候了，Bertrand。现在正是时机。你一直都清楚，你早已看透了你所生活之世界的全部现实。我们也知道，你早已清楚，[[[scp-281-fr|大地并不总是圆球形状]]]，[[[numbers-lie|飞机尾气并非总是由水蒸气所组成]]]，[[[scp-682-fr|而你所聆听的音乐里，有某物的存在隐秘其间]]]。你现在明白，我们真实存在于现实之中，或至少知晓，世上还有更多的未知尚待你的发现。\n\n\n[[=]]\n[[collapsible show=\"加入我吧\" hide=\" \"]]\n[[=image https://fondationscp.wdfiles.com/local--files/votre-essai-winrar/tweet_wan.png link=\"https://twitter.com/_broken_god_wan\"]]\n[[/collapsible]]\n[[/=]]",
+  "tags": [
+    "fr",
+    "故事",
+    "破碎之神教会"
+  ],
+  "author": "MensongeGeant",
+  "created_at": "2024-02-25T15:06:15+00:00",
+  "updated_at": "2024-02-26T02:26:28+00:00",
+  "rating": 6,
+  "_site": "scp-wiki-cn",
+  "_fullname": "votre-essai-winrar"
+}

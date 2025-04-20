@@ -1,0 +1,17 @@
+{
+  "title": "SCP-3794",
+  "content": "[[include :scp-wiki-cn:theme:classic]]\n[[include component:image-block\n    name=http://scp-wiki.wdfiles.com/local--files/scp-3794/rule.jpg|\n    caption=SCP-3794\n]]\n\n**项目编号：**SCP-3794\n\n**项目等级：**Safe\n\n**特殊收容措施：**SCP-3794保存于一标准物品储存柜。实验当前暂时搁置。\n\n**描述：**SCP-3794是一把长柄大锤，当以足够的力量挥动时，能把活体组织转变为[[span class=\"ruby\"]]公鸡嘴[[span class=\"rt\"]]//pico de gallo//[[/span]][[/span]]莎莎酱。此种莎莎酱在成分、营养价值或味道上与普通莎莎酱没有明显差别。\n\n被SCP-3794直接击打的区域周围~3-8 cm半径的组织会瞬间被转换。转换的莎莎酱不会黏附于对象，并从对象身上产生的凹陷或孔洞滑落。血管及其余结构在转变边缘处突然停止，如同被烧灼。\n\n如果莎莎酱的转变导致对象身体一部分被分开，只要对象维持生命，该部分将维持生命功能。\n\n**附录：**SCP-3794曾被用于测试对象的头骨，导致整个大脑跟大部分头骨转变成莎莎酱。尽管如此，对象在用流出的莎莎酱粗略写下“[[span class=\"ruby\"]]救[[span class=\"rt\"]]HELP[[/span]][[/span]]”前继续疯狂地移动。\n\n莎莎酱的消耗导致对象最终在30分钟内死亡。实验终止。\n\n[[footnoteblock]]\n\n[[div class=\"footer-wikiwalk-nav\"]]\n[[=]]\n<< [[[SCP-3793]]] | SCP-3794 | [[[SCP-3795]]] >>\n[[/=]]\n[[/div]]",
+  "tags": [
+    "safe",
+    "scp",
+    "变形",
+    "工具",
+    "食物"
+  ],
+  "author": "M Element",
+  "created_at": "2019-01-10T07:11:57+00:00",
+  "updated_at": "2020-08-11T04:02:27+00:00",
+  "rating": 3,
+  "_site": "scp-wiki-cn",
+  "_fullname": "scp-3794"
+}

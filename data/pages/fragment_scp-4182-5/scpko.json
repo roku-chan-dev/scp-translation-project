@@ -1,0 +1,14 @@
+{
+  "title": "SCP-4182-5",
+  "content": "----\n[[include component:classified-decoration\n|lv=4\n|item=4182-EX\n|oc=해명\n|lang=KO\n|trans-level=등급\n|trans-classified=보안인가 필요\n]]\n----\n**특수 격리 절차:** 재단 운영 봇 (I/O-SILVER)이 SCP-4182에 제5기지에 대한 언급을 찾기 위해 IntSCPFN 서버를 검토한다. 해당하는 파일은 격리한 뒤 근무 중인 서버 관리자에게 보고해 수정한다.\n\n**설명:** SCP-4182는 내부 재단 문서가 존재하지 않는 기지 (\"제5기지\")에 대한 언급이 포함되도록 정기적으로 변경되는 현상이었다. 초기에는 변칙성이 원인으로 여겨졌지만, 이후 IntSCPFN의 소스코드에서 발견되지 않은 예외 때문에 발생한 것으로 밝혀졌다. 2019년 현재 이 오류는 수정되었다. SCP-4182는 해명(Explained)으로 지정되었다.\n\n\n\n@@ @@\n\n@@ @@\n\n@@ @@\n\n@@ @@\n\n\n@@ @@\n\n@@ @@\n\n@@ @@\n\n@@ @@\n\n\n@@ @@\n\n@@ @@\n\n@@ @@\n\n@@ @@\n\n@@ @@\n\n@@ @@\n\n@@ @@\n\n@@ @@\n\n@@ @@\n\n@@ @@\n\n@@ @@\n\n@@ @@\n\n----\n[[=]]\n[[collapsible show=\"(1)개의 새 메시지가 있습니다\" hide=\" \"]]\n[[<]]\n[[div style=\"color: black; background:#DFFFF3 url(http://scp-wiki.wdfiles.com/local--files/the-great-hippo/scp_trans.png) center no-repeat; float: center; border: solid 1px #000000; padding: 15px 15px; box-shadow: 0 1px 3px rgba(0,0,0,.2); width: 84%; margin: 4% 4% 4% 4%\"]]\n**발신:** J. 다비스 <##red|@@jdavis@scp.foundation.int@@##>\n**제목:** 그들은 거짓말을 하고 있어. \n----\n이건 진짜야.\n\n[[html]]\n<video style=\"width:100%;height:100%\" controls>\n<source src=\"https://scp-wiki.wdfiles.com/local--files/fragment%3Ascp-4182-5/welcome_back.mp4\" type=\"video/mp4\">\n</video>\n[[/html]]\n\n@@ @@\n\n@@ @@\n\n@@ @@\n\n@@ @@\n\n@@ @@\n\n@@ @@\n\n거기서 보자. ~:)\n\n[[/div]] \n\n\n\n[[/<]]\n[[/collapsible]]\n[[/=]]\n\n----",
+  "tags": [
+    "en",
+    "조각문서"
+  ],
+  "author": "Aiken Drum",
+  "created_at": "2019-07-10T11:35:45+00:00",
+  "updated_at": "2024-11-19T14:54:28+00:00",
+  "rating": 0,
+  "_site": "scpko",
+  "_fullname": "fragment:scp-4182-5"
+}

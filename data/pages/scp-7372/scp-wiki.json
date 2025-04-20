@@ -1,0 +1,28 @@
+{
+  "title": "EE-7372",
+  "content": "[[module ListPages  category=\"fragment\" parent=\".\" limit=\"1\" order=\"created_at\" offset=\"@URL|0\"]]\n%%content%%\n[[/module]]\n\n[!-- For translators, here is a direct link to each iteration:\nhttps://scp-wiki.wikidot.com/fragment:scp-7372-1\nhttps://scp-wiki.wikidot.com/fragment:scp-7372-1 \n--]\n\n[[div class=\"footer-wikiwalk-nav\"]]\n[[=]]\n<< [[[SCP-7371]]] | EE-7372 | [[[SCP-7373]]] >>\n[[/=]]\n[[/div]]\n\n[[include :scp-wiki:component:license-box]]\n=====\n> **Filename:** sudan.jpg\n> **Name:** ISS048-E-485 - View of Sudan.jpg\n> **Author:** \tEarth Science and Remote Sensing Unit, Lyndon B. Johnson Space Center\n> **License:** Public Domain\n> **Source Link:** [https://commons.wikimedia.org/wiki/File:ISS048-E-485_-_View_of_Sudan.jpg Wikimedia Commons]\n=====\n[[include :scp-wiki:component:license-box-end]]",
+  "tags": [
+    "_cc",
+    "_licensebox",
+    "_listpages",
+    "anomalous-event",
+    "antimemetic",
+    "broken-god",
+    "esoteric-class",
+    "etdp",
+    "from-120s-archives",
+    "horizon-initiative",
+    "location",
+    "lombardi",
+    "mechanical",
+    "oria",
+    "scp",
+    "weapon"
+  ],
+  "author": "Ralliston",
+  "created_at": "2023-01-27T17:23:38+00:00",
+  "updated_at": "2024-02-18T19:53:15+00:00",
+  "rating": 50,
+  "_site": "scp-wiki",
+  "_fullname": "scp-7372"
+}

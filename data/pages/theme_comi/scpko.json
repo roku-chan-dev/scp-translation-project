@@ -1,0 +1,14 @@
+{
+  "title": "CES 테마",
+  "content": "[[iftags +테마]]\n[[/iftags]]\n[[div [[iftags -테마]]style=\"display: none\"[[/iftags]]]]\n[[module CSS show=\"true\"]]\n@import url('https://lafundacionscp.wdfiles.com/local--code/theme%3Acomi/1');\n\n@font-face {\n    font-family: 'HS두꺼비';\n    src: url('https://cdn.jsdelivr.net/gh/projectnoonnu/noonfonts_three@1.0/HS두꺼비체.woff') format('woff');\n    font-weight: normal;\n    font-style: normal;\n}\n\n/*\n    SCP Sigma 9\n    [2014 Wikidot Theme]\n    Created for the SCP Foundation by Aelanna\n    Edited for SCP Foundation by Dr Devan\n    Imported and edited for Lasagneception LazyLasagne\n    Logo made by Fan de Iván. Page in SCP Foundation Wikia: https://es.scp.wikia.com/wiki/Usuario:Fan_de_Iván\n*/\n\n \n#header h1 a {\n    font-family: BauhausLTDemi, 'HS두꺼비', Arial, sans-serif;\n}\n \n/* Keycap */\n \n.keycap {\n    font-family: inherit;\n}\n \n/* For FireFox */\n@-moz-document url-prefix() {\n.emph {\n    /* For the environments which comply with CSS3. */\n    font-family: monospace;\n}\n}\n \n/* For IE10 */\n@media screen and (-ms-high-contrast: active), (-ms-high-contrast: none) {\n.emph {\n    /* For the environments which comply with CSS3. */\n    font-family: monospace;\n}\n}\n \n/* off-canvas */\n \n@media (max-width: 767px) {\n \n#navi-bar, #navi-bar-shadow {\n    display: none;\n}\n \n.open-menu a {\n    font-family: 'Nanum Gothic', san-serif;\n}\n}\n\n#header h1 a {\n    content: \"안보특수판무처\";\n    font-family: 'BauhausLTDemi', 'HS두꺼비', Arial, sans-serif;\n}\n \n#header h1 a::before {\n    content: \"안보특수판무처\";\n}\n \n#header h2 span::before {\n    content: '¡상승하라 에스파냐!';\n}\n[[/module]]\n[[/div]]",
+  "tags": [
+    "es",
+    "테마"
+  ],
+  "author": "Salamander724",
+  "created_at": "2021-07-27T17:33:11+00:00",
+  "updated_at": "2022-11-16T13:02:28+00:00",
+  "rating": 0,
+  "_site": "scpko",
+  "_fullname": "theme:comi"
+}

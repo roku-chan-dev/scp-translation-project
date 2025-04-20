@@ -1,0 +1,14 @@
+{
+  "title": "另一翻译版本 组件",
+  "content": "[[module css]]\n.alt-block-0 {\n display:none;\n}\n\n.alt-block {\n color: black;\n border: solid 1px #000000;\n background:#f2f2c2;\n padding:5px;\n margin-bottom: 10px;\n}\n[[/module]]\n\n[[iftags -样版]]\n\n[[module ListPages name=\"{$name}\" category=\"-deleted -old\" limit=\"1\" range=\"others\" tags=\"==\"]]\n\n[[div class=\"alt-block alt-block-%%total%%\"]]\n= 该页面有另一翻译版本可供阅览，[[[%%fullname%%|点此查看]]]。\n[[/div]]\n\n[[/module]]\n\n[[/iftags]]\n\n[[iftags 样版]]\n\n这是一个用于提示当前页面有另一翻译版本的组件，它看起来是这样的。\n\n[[div class=\"alt-block \"]]\n= 该页面有另一翻译版本可供阅览，##AA0000|点此查看##。\n[[/div]]\n\n除非遇到特殊情形，不然您**并不需要**在任何地方手动包括这个组件。如果某个页面有不同的翻译版本，而且在两者标签完全相同的情况下，它应该会自动显示。\n\n该组件的CSS类名为{{alt-block}}。您可以通过在文档内添加以下代码来修改该组件的样式。请注意您需要确保该组件位于文档开头的醒目位置，不能以任何方式隐藏或折叠本组件。\n\n[[code]]\n.alt-block {\n /* 您的样式…… */\n}\n[[/code]]\n\n[[/iftags]]",
+  "tags": [
+    "原创",
+    "样版"
+  ],
+  "author": "W Asriel",
+  "created_at": "2023-03-21T06:35:29+00:00",
+  "updated_at": "2024-07-27T03:54:29+00:00",
+  "rating": 1,
+  "_site": "scp-wiki-cn",
+  "_fullname": "component:alternate-block"
+}

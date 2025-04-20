@@ -1,0 +1,20 @@
+{
+  "title": "SCP-1159",
+  "content": "[[include info:start]]\n**SCP-1159:** 풍명금\n**원작:** https://scp-wiki.wikidot.com/scp-1159\n**저자:** [[*user CityToast]]\n**역자:** [[*user ssoda]]\n**녹음:** [[*user thd-glasses]]\n[[include info:end]]\n\n**정보 재해 경고: 이 문서에 있는 모든 정보는 반드시 오디오 형식으로 기록되어야 합니다.**\n\nSCP-1159(음성 파일)기록: 모든 정보를 이 녹음 파일로 기록한 점에 대해 유감스럽게 생각합니다. 이 개체를 글로 기록할 수 없었습니다.-레이시스 박사\n\n[[include :snippets:html5player\n|type=audio\n|url=\thttp://scpko.wikidot.com/local--files/scp-1159/1159-B-1.mp3\n]]\n\nSCP-1159(부록 1159-A): 실험 1\n\n[[include :snippets:html5player\n|type=audio\n|url=http://scpko.wikidot.com/local--files/scp-1159/1159-B-2.mp3\n]]\n\nSCP-1159(부록 1159-B): 실험 2\n\n[[include :snippets:html5player\n|type=audio\n|url=\thttp://scpko.wikidot.com/local--files/scp-1159/1159-B-3.mp3\n]]\n\nSCP-1159(부록1159-C): 실험 2 이후 안드로우스키 박사와 진행한 면담.\n\n[[include :snippets:html5player\n|type=audio\n|url=\thttp://scpko.wikidot.com/local--files/scp-1159/1159-B-4.mp3\n]]\n\nSCP-1159 첨부파일 1(오디오 파일): SCP-1159의 소리\n\n[[include :snippets:html5player\n|type=audio\n|url=https://scp-wiki.wdfiles.com/local--files/scp-1159/1159-2.mp3]]",
+  "tags": [
+    "en",
+    "scp",
+    "도구",
+    "메타",
+    "안전",
+    "음성첨부",
+    "인공물",
+    "정보재해"
+  ],
+  "author": "ssoda",
+  "created_at": "2022-10-03T01:07:15+00:00",
+  "updated_at": "2022-10-03T02:30:09+00:00",
+  "rating": 10,
+  "_site": "scpko",
+  "_fullname": "scp-1159"
+}

@@ -1,0 +1,13 @@
+{
+  "title": "Darkartists Sciptember Hub 6",
+  "content": "[[include :scp-wiki:theme:black-highlighter-theme]]\n[[include :scp-wiki:theme:isolated-terminal]]\n[[module CSS]]\n:root {\n  --accentColor: 224, 248, 208;\n  --darkColor: 10, 52, 41;\n}\n\ndiv#extrac-div-1, div#extrac-div-2 {\ndisplay: none;\n}\n\n#page-title {\n    display: none;\n}\n[[/module]]\n\n[[=]]\n[[module Rate]]\n[[/=]]\n[[include :scp-wiki:component:author-label-source start=--\n|name=TheDarkArtist\n|center=*]]\nWhen the tattle is tale\n[[include :scp-wiki:component:author-label-source end=--]]\n\n[[div class=\"expoblock\"]]\n[[=]]\n++ [[span class=\"hilighter\"]]PLEASE LOGIN AGAIN TO CONFIRM.[[/span]]\n++ [[span class=\"hilighter\"]]**LOGIN:**[[/span]] WMiller119\n++ [[span class=\"hilighter\"]]**PASSWORD:**[[/span]] @<*************>@\n[[collapsible show=\"CLICK TO LOGIN\" hide=\"!error! unable to log out\"]]\n----\n[[image tattletale.png]]\n[[span class=\"hilighter\"]]{{fig 1.1.:}} [caption not found][[/span]]\n----\n[[/collapsible]]\n[[/=]]\n[[/div]]\n----\n\n[[div class=\"footer-wikiwalk-nav\"]]\n[[=]]\n<< [https://scp-wiki.wikidot.com/art:darkartists-sciptember-hub/offset/5 PRIOR] | [[[art:darkartists-sciptember-hub|HOME]]] | [https://scp-wiki.wikidot.com/art:darkartists-sciptember-hub/offset/7 NEXT] >>\n[[/=]]\n[[/div]]\n\n----",
+  "tags": [
+    "fragment"
+  ],
+  "author": "TheDarkArtist",
+  "created_at": "2022-09-11T17:22:15+00:00",
+  "updated_at": "2022-09-12T09:30:26+00:00",
+  "rating": 0,
+  "_site": "scp-wiki",
+  "_fullname": "fragment:darkartists-sciptember-hub-6"
+}

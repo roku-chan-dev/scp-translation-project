@@ -1,0 +1,14 @@
+{
+  "title": "Page Tags",
+  "content": "[[module TagCloud limit=\"200\" target=\"system:page-tags\"]]\n\n[!--\n\nYou can edit parameters of the TagCloud module as described in http://www.wikidot.com/doc:tagcloud-module \nBut if you want to keep the tag functionality working - do not remove these modules.\n\n--]",
+  "tags": [
+    "jp",
+    "管理"
+  ],
+  "author": "Dr Devan",
+  "created_at": "2013-07-08T11:09:45+00:00",
+  "updated_at": "2021-01-10T15:42:53+00:00",
+  "rating": 3,
+  "_site": "scp-jp",
+  "_fullname": "system:page-tags-list"
+}

@@ -1,0 +1,19 @@
+{
+  "title": "SCP-1646-JP",
+  "content": "[!-- \nこのページではフラグメントページを用いています。以下がその一覧です。\n* http://scp-jp.wikidot.com/scp-1646-jp-1\n* http://scp-jp.wikidot.com/scp-1646-jp-2\n--]\n\n[[include credit:start]]\n**タイトル:** SCP-1646-JP - 全ては夢の中で[!--、貴方を繰り返し最後まで美味しくいただくための名案--]\n**著者:** ©︎[[*user amamiel]]\n**作成年:** 2018\n[[include credit:end]]\n\n[[module ListPages parent=\".\" limit=\"1\" order=\"created_at\" offset=\"@URL|0\"]]\n%%content%%\n[[/module]]",
+  "tags": [
+    "euclid",
+    "jp",
+    "scp",
+    "ループ",
+    "捕食",
+    "睡眠",
+    "知性"
+  ],
+  "author": "amamiel",
+  "created_at": "2018-03-11T12:36:01+00:00",
+  "updated_at": "2023-02-21T15:11:57+00:00",
+  "rating": 272,
+  "_site": "scp-jp",
+  "_fullname": "scp-1646-jp"
+}

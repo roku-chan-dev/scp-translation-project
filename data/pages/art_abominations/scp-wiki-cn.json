@@ -1,0 +1,13 @@
+{
+  "title": "憎恶",
+  "content": "[[include :scp-wiki-cn:theme:black-highlighter-theme]]\n[[include :scp-wiki:theme:redtape\n|dark=--]\n|years=3000\n]]\n\n[[module CSS]]\n:root:lang(cn) {\n     --header-title: \"REDTAPE\";\n     --header-subtitle: \"离午夜还有3000分钟\";\n}\n[[/module]]\n\n@@ @@\n\n[[=]]\n+++ [[span style=\"color:red\"]] **扭曲的月亮一屈一伸，俯视着他，红光弥漫。** [[/span]]\n[[/=]]\n\n[[div class=\"blockquote\"]]\n\n\n\n\n[[image http://scp-sandbox-3.wikidot.com/local--files/blackstar-fan-art/Black%20Moon%20%26%20BLACKSTAR]]\n\n\n[[/div]]\n\n= 基于 [[*user Rounderhouse]] 所著 [[[interregnum-blackstar|间奏：黑星在阿摩尼-赖姆]]]\n\n= 更多艺作，请见我的**[[[strange-matter-art-hub|艺术中心]]]**\n\n\n\n[[include :scp-wiki-cn:component:license-box\n|author = Strange Matter\n]]\n=====\n> **文件名：**Black Moon & BLACKSTAR.jpeg\n> **图像作者：**[[*user Strange Matter]]\n> **授权协议：**CC BY-SA 3.0\n> **来源链接：**http://scp-sandbox-3.wikidot.com/local--files/blackstar-fan-art/Black%20Moon%20%26%20BLACKSTAR\n=====\n[[include :scp-wiki-cn:component:license-box-end]]",
+  "tags": [
+    "艺术作品"
+  ],
+  "author": "LeeBr",
+  "created_at": "2023-10-29T06:19:37+00:00",
+  "updated_at": "2023-10-29T06:19:45+00:00",
+  "rating": 1,
+  "_site": "scp-wiki-cn",
+  "_fullname": "art:abominations"
+}

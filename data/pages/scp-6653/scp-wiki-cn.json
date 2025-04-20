@@ -1,0 +1,17 @@
+{
+  "title": "SCP-6653",
+  "content": "[[include :scp-wiki-cn:theme:black-highlighter-theme]]\n[[include :scp-wiki:component:bhl-dark-sidebar]]\n[[include :scp-wiki-cn:component:betterfootnotes]]\n[[include :scp-wiki:component:collapsible-sidebar]]\n[[module CSS]]\n#page-title {\n    display: none;\n}\n[[/module]]\n\n**项目编号：**SCP-6653\n\n**项目等级：**Safe\n\n**特殊收容措施：**包含着SCP-6653的建筑已经被基金会购得，并以房屋结构失修这一掩盖故事为由，依法驱逐了剩余的所有房客。\n\n**描述：**SCP-6653是一所房屋的楼上房间，位于弗吉尼亚州的里士满，房间内的物品无论如何施力都无法移动。有关于SCP-6653的完整细节正待探索。\n\n**附录1：**SCP-6653内的物品。\n@@ @@\n2021年11月14日，一支探索小队受命调查SCP-6653，并提供了内部物品的完整清单。以下汇报被提交：\n@@ @@\n[[div class=\"blockquote\"]]\n[[=]]\n++ SCP-6653初步探索记录\n[[/=]]\n@@ @@\n||~ 物品 ||~ 位置 ||~ 描述 ||\n||= SCP-6653 ||= N/A ||= 肮脏的，凌乱的，错误的 ||\n||= T恤 ||= 地板 ||= 丑的，简单的 ||\n||= 床 ||= 房间的角落 ||= 没铺的，恶心的 ||\n||= 百叶窗 ||= 窗外 ||= 关好的，安全的 ||\n||= 桌子 ||= 窗下 ||= 杂乱的 ||\n||= 米氮平片[[footnote]]**译注：**一种药物。主要用于治疗抑郁症。[[/footnote]] ||= 桌子 ||= 无用的 ||\n||= 笔记本电脑 ||= 桌子 ||= 棒的 ||\n||= 铅笔盒 ||= 桌子 ||= 费劲的，困倦的 ||\n||= 纸，共53张，被揉成一团 ||= 垃圾桶 ||= 无用的 ||\n@@ @@\n= SCP-6653收容团队一致表决认为，尝试辨认纸张的内容毫无意义。\n@@ @@\n[[/div]]\n@@ @@\n@@ @@\n经过收容专家的评审，该汇报被认为并不充分。但后续探索行动所产出的汇报完全相同。SCP-6653的状态被认为不太可能发生变化。\n@@ @@\n---------\n[[size 80%]]\n= 感谢GremlinGroup。\n[[/size]]\n[[div class=\"footer-wikiwalk-nav\"]]\n[[=]]\n<< [[[SCP-6652]]] | SCP-6653 | [[[SCP-6654]]] >>\n[[/=]]\n[[/div]]",
+  "tags": [
+    "safe",
+    "scp",
+    "不可移动",
+    "建筑",
+    "强迫性"
+  ],
+  "author": null,
+  "created_at": "2021-11-19T13:33:56+00:00",
+  "updated_at": "2021-11-27T01:21:35+00:00",
+  "rating": 13,
+  "_site": "scp-wiki-cn",
+  "_fullname": "scp-6653"
+}

@@ -1,0 +1,14 @@
+{
+  "title": "05268",
+  "content": "content: \"**説明:** テキストエディタなどで単語の一括置換をすると、1箇所以上置換漏れをするパソコン\\n**回収日:** 20██/██/██\\n**回収場所:** サイト-81██備品。越河博士が使用中に異常が発覚\\n**現状:** 越河博士が引き続き使用\\n**追記:** 博士、実験記録にSCP-XXXX-JPが残ってますよ。 -██研究員\"\ntf2: '0'\nauthor: ''\nredirect-b: '[[module Redirect destination=\"http://ja.scp-wiki.net/log-of-anomalous-items-jp'\nredirect-e: '\"]]'",
+  "tags": [
+    "jp",
+    "剪定対象-子"
+  ],
+  "author": "se_tsu_na",
+  "created_at": "2024-11-18T06:11:56+00:00",
+  "updated_at": "2025-04-02T15:17:24+00:00",
+  "rating": 5,
+  "_site": "scp-jp",
+  "_fullname": "anomalous-jp:05268"
+}

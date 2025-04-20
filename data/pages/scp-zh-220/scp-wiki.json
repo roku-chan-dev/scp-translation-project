@@ -1,0 +1,20 @@
+{
+  "title": "SCP-ZH-220",
+  "content": "[[module CSS]]\n.notice{\n    border: 1px solid #f9e24d;\n    outline: 4px solid #b54d3b;\n    color: #f9e24d;\n    background: #b54d3b;\n    padding: 10px;\n    text-align: center;\n}\n[[/module]]\n\n[[include info:start]]\n**Title:** SCP-ZH-220 H.K.'s Everhome\n**Orginal Title:** [http://scp-zh-tr.wikidot.com/scp-zh-220 SCP-ZH-220 - H.K.永遠的家]\n**Author:** [[*user ting129]]\n**Translator:** [[*user Mang Gwan]]\n----\n[[=]]\n[http://scp-zh-tr.wikidot.com/ting129 Author Page (ZH)]\n[[/=]]\n\n[[include info:end]]\n[[div class=\"notice\"]]\n[[=]]\n\n++++ NOTICE FROM THE FOUNDATION DEPARTMENT OF MISCOMMUNICATIONS\n\nHaren Kolva is not a member of the Foundation.\n\n— Eli Forkley, Director, DoMC\n\n\n[[/=]]\n[[/div]]\n\n----\n\n**Item #:** SCP-ZH-220\n\n**Object Class:** Safe\n\n**Special Containment Procedure:** Haren Kolva is prohibited from transferring the ownership of SCP-ZH-220 to anyone through gift, sale, or other legal methods. The location and condition of Haren Kolva must be tightly monitored to ensure his personal safety.\n\n**Description:** SCP-ZH-220 is the house of the Foundation agent Haren Kolva located on Golden Avenue, Pine Grove Villa Area, Minnesota, USA. It contains a living room, a dining room, a kitchen, two washrooms, and three bedrooms. At the front door, there is a doorplate with the words 'Home of Haren Kolva' on it which cannot be removed by any known method. Despite SCP-ZH-220 having undergone several ownership transfers, Haren Kolva still holds ownership of SCP-ZH-220 and the associated land. The records of ownership transfer can be found in Appendix ZH-220.A.\n\nHaren Kolva had lived in SCP-ZH-220 from 2006 to 2009 and stopped residing regularly and continuously afterwards. Currently, Haren Kolva has no living relatives[[footnote]]refer to the record on 2018/12/26, Appendix ZH-220.A.[[/footnote]].\n\n**Addendum ZH-220.A：**\n\nThe following is the record of the transfer of ownership of SCP-ZH-220 between 2006 and 2018.\n\n||~ Time||~ The Reason of Transfer of Ownership||\n|| 2009/04/11|| Haren Kolva hit Andrew Pinch in a car accident, resulting in Andrew Pinch's death. The ownership of SCP-ZH-220 was transferred to Haren Kolva when Andrew Pinch died.||\n|| 2010/08/20|| Carl Pinch died in the hospital due to acute hepatitis, the ownership of SCP-ZH-220 transferred from Carl Pinch to Haren Kolva according to the order of inheritance succession.||\n|| 2011/01/12|| Morry Fragle sold SCP-ZH-220 to Haren Kolva after confirmed his ownership of SCP-ZH-220.||\n||~ ［OMITTED］||~ ［OMITTED］||\n|| 2016/10/03|| Kate Lehman died of natural causes at home. The ownership of SCP-ZH-220 transferred from Kate Lehman to Haren Kolva according to the order of inheritance succession.||\n|| 2018/12/28|| Haren Kolva broke into Miles Chen's house, and killed Miles Chen with his knife in the fight. The ownership of SCP-ZH-220 transferred to Haren Kolva.||\n|| 2018/12/28|| Haren Kolva shot and killed George Lehman who broke into his house with a handgun, then the ownership of SCP-ZH-220 transferred to Haren Kolva.||\n\nHaren Kolva is punished on 2018/12/29 due to the violation of the Foundation Regulations [[footnote]]Foundation agents must not harm any non-anomalous entities with the distributed weapons under unnecessary situations.[[/footnote]], then the anomalous effect of SCP-ZH-220 was confirmed and being contained.",
+  "tags": [
+    "_zh",
+    "building",
+    "cognitohazard",
+    "exchange",
+    "international",
+    "miscommunications",
+    "safe",
+    "scp"
+  ],
+  "author": "Mang Gwan",
+  "created_at": "2023-05-30T06:51:47+00:00",
+  "updated_at": "2024-09-10T14:20:27+00:00",
+  "rating": 12,
+  "_site": "scp-wiki",
+  "_fullname": "scp-zh-220"
+}

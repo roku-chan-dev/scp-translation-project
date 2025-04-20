@@ -1,0 +1,14 @@
+{
+  "title": "エージェント・魚住の人事ファイル",
+  "content": "[[image http://scp-jp-sandbox2.wdfiles.com/local--files/tvfish/deadfishstamp width=\"700px\"]]\n[[module ListUsers users=\".\"]]\nTo:%%title%%；先の件ではお世話になりました。例の件は覚えていますか。また電話します。\nー魚住映司\n[[/module]] \n+++++ 以下の書類を作成しました\n\n__SCP-JP__:\n[[module ListPages created_by=\"TVfish\" separate=\"no\" limit=\"250\" perPage=\"250\" tags=\"+scp +jp\" order=\"created_at\"　category=\"*\" ]]\n# (%%created_at|%y/%m/%d%%) %%title_linked%% (評価: %%rating%%)\n[[/module]]\n\n__Tale-JP__:\n[[module ListPages created_by=\"TVfish\" separate=\"no\" limit=\"250\" perPage=\"250\" tags=\"tale +jp\" order=\"created_at\"　category=\"*\" ]]\n# (%%created_at|%y/%m/%d%%) %%title_linked%% (評価: %%rating%%)\n[[/module]]\n\n+++++ 以下の記事の画像提供に協力しました。\n* [*http://ja.scp-wiki.net/scp-030-jp SCP-030-JP]:[[*user tokage-otoko]]\n* [*http://ja.scp-wiki.net/scp-293-jp SCP-293-JP]:[[*user dr_toraya]]\n* [*http://ja.scp-wiki.net/scp-175-jp SCP-175-JP]:[[*user nekomiya_guu]]\n* [*http://ja.scp-wiki.net/SCP-444-jp SCP-444-JP]:[[*user locker]]\n* [*http://ja.scp-wiki.net/scp-420-jp  SCP-420-JP]:[[*user locker]]\n* [*http://ja.scp-wiki.net/scp-777-jp SCP-777-JP]:[[*user tokage-otoko]]\n* [*http://ja.scp-wiki.net/scp-595-jp SCP-595-JP]:[[*user ukarayakara]]\n\n\n* [*http://ja.scp-wiki.net/author:seafield13 エージェント・海野の人事ファイル]内 KTE-3317:[[*user seafield13]]",
+  "tags": [
+    "jp",
+    "著者ページ"
+  ],
+  "author": "TVfish",
+  "created_at": "2014-10-06T15:20:51+00:00",
+  "updated_at": "2021-01-10T15:58:46+00:00",
+  "rating": 4,
+  "_site": "scp-jp",
+  "_fullname": "author:tvfish"
+}

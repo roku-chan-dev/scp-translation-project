@@ -1,0 +1,20 @@
+{
+  "title": "SCP-6263",
+  "content": "[[include :scp-wiki-cn:theme:blankstyle]]\n\n[[module CSS]]\n:root {\n    --timeDelay: 0.5s;\n[[/module]]\n\n[[module css]]\n:root {\n--thaumiel: 0, 135, 189\n}\n[[/module]]\n\n[[div]]\n[[include :scp-wiki-cn:credit:start-standalone]]\n[[=]]\n**SCP-6263：“瞬时报应”**\nno u\n\n[[image http://scp-wiki.wdfiles.com/local--files/this-page-intentionally-left-blank/Tyop.png]]\n\n**[[[this-page-intentionally-left-blank|该作者的更多作品！]]]**\n[[/=]]\n[[include :scp-wiki-cn:credit:end-standalone]]\n[[/div]]\n\n[[div]]\n[[include :scp-wiki-cn:component:anomaly-class-bar-source\n|lang=cn\n|item-number= SCP-6263\n|clearance= 1\n|container-class= esoteric\n|secondary-class= simpatico\n|secondary-icon= http://scp-sandbox-3.wdfiles.com/local--files/harry-blank-6/simpatico-icon.svg\n|disruption-class= dark\n|risk-class= 待观察\n]]\n[[include :scp-wiki-cn:component:acs-peppo-split\n|object= keter\n|object-image= https://scp-wiki.wdfiles.com/local--files/component%3Aanomaly-class-bar/keter-icon.svg\n|object-color= keter\n|esoteric-color= thaumiel\n]]\n[[/div]]\n\n----\n\n[[include component:image-block\n    name=https://scp-wiki.wdfiles.com/local--files/scp-5382/Clio.png|\n    caption=文献与修缮部，[/secure-facility-dossier-site-43 Site-43] |\n    width=200px\n]]\n\n**特殊收容措施：**SCP-6263存在的证据每日都会通过社交媒体生成，但事实证明其尚不足以向公众曝光该异常的存在。[[span class=\"fnnum\"]].[[/span]][[span class=\"fncon\"]]Simpatico级异常存在无法预测的收容挑战，但除此之外不具有威胁。[[/span]]鼓励人员公开羞辱过分的错别字纠正行为，以此防止进一步证据的产生。\n----\n**描述：**SCP-6263是一种由纠正他人拼写或语法错误的行为而引发的现象。上述行为具有导致纠错者立刻犯下相同错误的风险，其数据在统计上是不可能的，此类错误通常是在做出纠正的句子中出现，且犯错的可能性与严重性与其做出纠正时得激烈态度成正比。\n----\n//这是什么鬼？根本就不是真正的异常。你的证据在哪里？测试记录在哪里？你个蠢蛋还把“的”给打错了，错的真离谱！——W. Wettle//\n\n//谢谢你的证据，Wille！就知道你靠得住——H. Blank//\n\n[[div class=\"footer-wikiwalk-nav\"]]\n[[=]]\n<< [[[SCP-6262]]] | SCP-6263 | [[[SCP-6264]]] >>\n[[/=]]\n[[/div]]\n\n[[div]]\n[[=]]\n[[include :scp-wiki-cn:component:license-box\nauthor=HarryBlank]]\n=====\n[[<]]\n> **文件名：**Clio.png\n> **图像作者：**[[*user HarryBlank]]\n> **授权协议：**CC BY-SA 3.0\n[[/<]]\n=====\n[[include :scp-wiki-cn:component:license-box-end]]\n[[/=]]\n[[/div]]",
+  "tags": [
+    "blank博士",
+    "scp",
+    "wettle博士",
+    "值守43",
+    "机密分级",
+    "概率性",
+    "线上",
+    "语言"
+  ],
+  "author": "Esperanza_Cai",
+  "created_at": "2021-12-15T01:16:02+00:00",
+  "updated_at": "2022-04-22T08:48:19+00:00",
+  "rating": 20,
+  "_site": "scp-wiki-cn",
+  "_fullname": "scp-6263"
+}

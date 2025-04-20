@@ -1,0 +1,15 @@
+{
+  "title": "Test Log 471-931",
+  "content": "[[>]]\n[[module Rate]]\n[[/>]]\n\nFor the length of each test, Observation Probe Delta-2 remained within the transmission cone, so as to observe any changes in the signal.\n\n**Date:** January ██, 200█\n\nDescription: A [REDACTED] model probe was launched towards SCP-471. It was to use a passive scanning system in order to more closely examine SCP-471, in the hope of better understanding its purpose and technology present. 19 minutes after activating, however, the probe experienced an electrical malfunction, causing its thrusters to misfire. It subsequently fell into a decaying orbit and was lost upon re-entry.\n\n**Date:** February █, 200█\n\nDescription: A second [REDACTED] model probe was launched in an identical path to the first, and experienced an identical malfunction at approximately the same distance from SCP-471. It is theorized that SCP-471 possesses a defense mechanism to re-direct any artificial objects from approaching it, as the probability of the malfunctions being coincidental is effectively zero.\n\n**Date:** April ██, 200█\n\nDescription: A [REDACTED] model probe was launched towards SCP-471. It was equipped with specialized systems in order to make it more difficult to detect and more resilient to any malicious software infiltration attempts. The probe was launched in a path that brought it within 500 km of SCP-471, but not directly towards it, at which point the probe was to turn and head directly towards SCP-471. This appeared initially successful; however, once it came within 300 km of SCP-471, [DATA EXPUNGED], resulting in the complete destruction of the probe and corruption of [REDACTED] database. Additionally, at the time of the incident, the signal emanating from SCP-471 changed. The encrypted signal ceased, and instead a series of 23 phonemes began repeating. The meaning behind the altered signal is unclear, and remains under investigation. The changed signal persisted for 13 minutes before reverting to the usual encrypted signal.\n\nFollowing this incident, by order of O5-█, no Foundation vessels may attempt contact with SCP-471 until a method is discovered of approaching it without causing [DATA EXPUNGED].\n[[include :scp-wiki:component:license-box]]\n[[include :scp-wiki:component:license-box-end]]",
+  "tags": [
+    "_licensebox",
+    "experiment",
+    "supplement"
+  ],
+  "author": "DrSevere",
+  "created_at": "2010-12-07T15:44:25+00:00",
+  "updated_at": "2022-10-22T12:51:29+00:00",
+  "rating": 28,
+  "_site": "scp-wiki",
+  "_fullname": "test-log-471-931"
+}

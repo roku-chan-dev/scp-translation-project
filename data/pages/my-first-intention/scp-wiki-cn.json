@@ -1,0 +1,16 @@
+{
+  "title": "献给将被遗忘之人的诗",
+  "content": "[[module CSS arguments...]]\n#page-title {\n  display: none;\n}\n.fake_title {\n  font-size: 200%;\n  color: #990011;\n  padding: 0 0 0.25em;\n  margin: 0 0 0.6em;\n  border-bottom: 1px solid #bbb;\n  font-weight: normal;\n}\n.fake_title p {\n  padding: 0;\n  margin: 0;\n}\n[[/module]]\n\n[[module css]]\na {\n  color: black;\n}\n[[/module]]\n\n= [[[fennecist-s-proposal|一份文书]]]写着：\n\n= 「永不忘记爱」\n\n= ・\n\n= ・\n\n= ・\n\n= 忘不掉，不可能忘掉。\n\n[[div class=\"fake_title\"]]\n献给将被遗忘之人的诗\n[[/div]]\n\n[[include :scp-wiki-cn:credit:start-standalone]]\n**标题:** 献给将被遗忘之人的诗\n**作者:** ©︎[[*user meshiochislash]]\n**创作年份:** 2023\n**译者:**[[*user xiaohuihui1217]]\n[[include :scp-wiki-cn:credit:end-standalone]]\n[http://scp-wiki-cn.wikidot.com/document-recovered-from-the-marianas-trench 在终结的世界]中有人写下。\n\n= 请不要忘记我们。\n\n[[[scp-3000|鳗鱼]]]边的博士说道。\n\n= 最终一切都将被遗忘。\n\n[[[scp-8900-ex|蓝天]]]曾经宣告。\n\n= 我们曾遗忘的事情。\n\n[[[scp-544-jp|广播室的少女]]]哭泣着。\n\n= 无法阻止遗忘的泪水。\n\n[[[scp-055|未知记录]]]拒绝理解。\n\n= 即使理解也终将遗忘。\n\n[[[antimemetics-division-hub|最后的部门]]]冷冷地说道。\n\n= 记忆并不可靠。\n\n[[[notyetdr-nowherenowhereyesterday|记录官]]]相信明天。\n\n= 但昨日却无法记起。\n\n[http://scp-wiki-cn.wikidot.com/ 基金会]曾经依赖很久。\n\n= 遗忘所有异常的办法。\n\n他们曾传达给我们。\n\n= 一切都将[[[scp-3309|消散]]]。\n\n\n= 若誓言不忘。\n\n那只是无知且自私的──\n\n[[>]]\n──傲慢罢了。\n[[/>]]\n\n= 即便如此，\n\n[[[making-2000-hub|在终结的世界]]]有人呼喊。\n\n= “绝不允许被遗忘”。\n\n{{[[[scp-1281|先驱]]]^^Harbinger^^}}继承飞翔。\n\n= 不让最终被遗忘。\n\n仰望蓝天回应。\n\n= [[[scp-1607-jp|并非完全遗忘]]]\n\n[http://scp-wiki-cn.wikidot.com/system:page-tags/tag/%E9%85%A9%E9%85%8A%E8%A1%97 酩酊之民]满怀爱意。\n\n= 遗忘后接受一切。\n\n[[[scp-5000|Pietro Wilson]]]仅是记录下。\n\n= 即便记不得确切事实。\n\n[[[champions-of-nothing|逆模因部门]]]仍然存在。\n\n= 即使被遗忘也未曾屈服。\n\n[[[the-posthumous-writings|玻璃笔]]]留下墨迹。\n\n= 因知晓终将被遗忘。\n\n[http://www.scp-wiki-cn.wikidot.com/ 我们]不断前行。\n\n= 描绘世界的全貌。\n\n[[[scp-series|他们]]]终将被遗忘。\n\n= 但确曾赐予力量。\n\n= 所以。\n\n现在在此献上这首诗。\n\n= 无法做到不忘记。\n\n= 若我们誓言不忘，\n\n= 只是自私的傲慢。\n\n= 但这是我愿意爱的傲慢。\n\n= [http://scp-wiki-cn.wikidot.com/scp-1682-jp 也有人愿被遗忘]。\n\n= [http://scp-wiki-cn.wikidot.com/scp-612-jp 也有应当遗忘之事]。\n\n= 不忘记只是美丽的谎言。\n\n= 但我们不愿遗忘。\n\n= 胸怀坦荡地坚持。\n\n= [[[scp-1699-jp|离去的所有人]]]，\n\n= [[[ode-to-the-unknown-author|我们已遗忘的人]]]，\n\n= 这些我们都不想遗忘，\n\n= 没有依据却愿如此誓言，\n\n= 这些愿望都献给，\n\n[[>]]\n将被遗忘之人。\n[[/>]]\n[[include :scp-jp:component:jstyles]]",
+  "tags": [
+    "2023短文竞赛",
+    "jp",
+    "故事",
+    "诗歌"
+  ],
+  "author": "xiaohuihui1217",
+  "created_at": "2024-05-22T17:10:57+00:00",
+  "updated_at": "2024-05-22T17:22:28+00:00",
+  "rating": 1,
+  "_site": "scp-wiki-cn",
+  "_fullname": "my-first-intention"
+}

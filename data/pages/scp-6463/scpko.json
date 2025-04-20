@@ -1,0 +1,24 @@
+{
+  "title": "SCP-6463",
+  "content": "[[include theme:paperstack]]\n[[include component:toggle-sidebar]]\n[[module CSS]]\ndiv#header-extra-div-1 {\n    height: 180px;\n    width: 100%;\n    top: 6px;\n    left: -10px;\n    position: absolute;\n    background: url(\"https://scp-wiki.wdfiles.com/local--files/theme%3Apaperstack/lgtrans.png\");\n    background-size: contain;\n    background-repeat: no-repeat;\n    background-position: 0 50%;\n    z-index: -1;\n    pointer-events: none;\n}\n@media (max-width: 880px) {\n    div#header-extra-div-1 {\n         height: 184px;\n         top: -3px;\n         left: 0;\n         background-position: 50% 50%;\n    }\n}\n\n#side-bar {\n    background-color: #fff;\n    box-shadow: 0px 0px 7px #949494;\n}\n[[/module]]\n\n[[include info:start]]\n**SCP-6463:** 어떤 결말\n**원작:** https://scp-wiki.wikidot.com/scp-6463\n**저자:** [[*user EstrellaYoshte]]\n**역자:** [[*user Denevola]]\n\n> **파일명:** treelake.png\n> **저작권자:** [[*user EstrellaYoshte]]\n> **라이선스:** CC BY-SA 3.0\n> **출처:** This page\n> **Derivative Of:**\n> ------\n> **원본:** tree\n> **저작권자:** Sheila in Moonducks\n> **라이선스:** CC BY 2.0\n> **출처:** [https://openverse.org/image/440a57fd-3229-4e18-a844-9daec5613e89 Openverse]\n> ------\n> **원본:** Salar de Uyuni 2013\n> **저작권자:** Kuroiniisan\n> **라이선스:** CC BY-SA 3.0\n> **출처:** [https://commons.wikimedia.org/wiki/File:Salar_de_Uyuni_2013.jpg Wikimedia Commons]\n\n[[include info:end]]\n\n[[div class=\"header-container\"]]\n[[div class=\"text-item\"]]\n[[size 90%]]##grey|**일련번호:**##[[/size]]\n \n[[size 220%]]**SCP-6463**[[/size]]\n[[/div]]\n \n[[div class=\"text-item\"]]\n[[size 90%]]##grey|**등급:**##[[/size]]\n \n[[size 220%]]**보류**[[/size]]\n[[/div]]\n[[/div]]\n@@ @@\n[[include component:image-block name=https://scp-wiki.wdfiles.com/local--files/scp-6463/treelake.png|align=center|width=700px|caption=SCP-6463-A]]\n[[div style=\"height: 0.8rem\"]]\n[[/div]]\n++++ __특수 격리 절차__\n\n--찰스 기어스 박사는 SCP-6463의 위상기하학적 또는 차원 간 불규칙성을 감독하고 연구한다. 재단과의 연락망 재구축을 최고 우선순위로 둔다.--\n\n##blue|N/A.##\n\n[[div style=\"height: 0.8rem\"]]\n[[/div]]\n\n++++ __설명__\n\nSCP-6463은 알 수 없는 크기의 외부차원적 평면인 차원-882R53의 --임시-- 명칭이다. SCP-6463은 소금 평원과 유사하여, 지표면이 단단하며 100%에 근접한 반사율을 보인다. 지표면에서는 짠맛도 나는 것으로 보고되었다.\n\nSCP-6463 내부의 독립체들은 어떤 형태의 에너지 소비나 부패에도 영향을 받지 않는 것으로 여겨진다. SCP-6463에 반입된 전자기기들은 296,516년 동안 이상 없이 작동했으며, 안에 있는 사람들은 나이를 먹거나 음식물이 필요하지 않게 되어 생물학적인 불멸을 얻는 것으로 보인다.\n\nSCP-6463은, 관찰자가 거리 및 가시성과 무관하게 그 위치를 항시 인식하게 만드는 인식재해적 효과를 띠는 나무 한 그루(이하 SCP-6463-A) 외에는 대체로 특별한 점이 없다.\n\n##blue|찰스 기어스 박사의 시신이 SCP-6463-A의 밑동에 기대어진 채로 발견되었다. 이 파일의 마지막 업데이트 시점, 사후 부검 보고서와 박사의 드라이브에서 복구된 1,799,095개의 영상 기록에 따르면 그는 약 450,000세에 자연사하였다.##",
+  "tags": [
+    "6000",
+    "en",
+    "scp",
+    "기어스-박사",
+    "나무",
+    "보류",
+    "시각",
+    "식물",
+    "엔트로피",
+    "외부차원",
+    "인식재해",
+    "지식"
+  ],
+  "author": "Denevola",
+  "created_at": "2021-07-01T10:37:46+00:00",
+  "updated_at": "2025-02-02T13:53:33+00:00",
+  "rating": 15,
+  "_site": "scpko",
+  "_fullname": "scp-6463"
+}

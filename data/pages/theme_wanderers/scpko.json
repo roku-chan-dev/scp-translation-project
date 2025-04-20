@@ -1,0 +1,15 @@
+{
+  "title": "방랑자 테마",
+  "content": "[[module CSS]]\n@import url(https://scpko.wdfiles.com/local--code/theme%3Awanderers/1);\n[[/module]]\n\n[[include :scp-wiki:component:interwiki-style\n| priority=1\n| theme=https://scpko.wdfiles.com/local--code/theme%3Awanderers/1\n]]\n\n[[iftags +테마]]\n[[>]]\n**Rating:**\n[[module Rate]]\n[[/>]]\n\n[[>]]\n**Rating w/ Info Pane:**\n[[/>]]\n\n[[include info:start]]\nInfo about your page.\n[[include info:end]]\n[[module CSS]]\n.unmargined, .unmargined + hr { filter: hue-rotate(130deg); }\n\n.unmargined[style=\"margin: 20px 0; font-size: 300%; color: #fff; font-weight: bold; text-shadow: 1px 2px 3px rgba(0,0,0,.5);\"] { display: none; }\n\n.creditRate .heritage-rating-module { display: none }\n[[/module]]\n[*https://wanderers-library-ko.wikidot.com 방랑자의 도서관]의 옛날 테마입니다. 현행 테마는 [[[theme:dustjacket|이쪽]]]을 참조하세요.\n\n이 테마를 사용하려면 작품 상단에 다음 구문을 복붙하세요.\n~~~~\n> @@[[include :scpko:theme:wanderers]]@@\n\n+ 제목 1단계\n\n++ 제목 2단계\n\n[https://scpko.wikidot.com 링크]\n\n[[collapsible show=\"＋ 접기 구문\" hide=\"－ 접기 구문\"]]\n접힌 문장\n[[/collapsible]]\n\n[[tabview]]\n[[tab 탭 1]]\n첫번째 탭.\n[[/tab]]\n[[tab 탭 2]]\n두번째 탭.\n[[/tab]]\n[[/tabview]]\n\n[[code type=\"css\"]]\n@import url(https://scp-wiki.wdfiles.com/local--code/theme%3Awanderers/1);\n@font-face {\n    font-family: '망고빙수';\n    src: url('https://cdn.jsdelivr.net/gh/projectnoonnu/noonfonts_2106@1.1/SF_IceMango.woff') format('woff');\n    font-weight: normal;\n    font-style: normal;\n}\n\n#header h1 a {\n    font-family: 'BauhausLTDemi', '망고빙수', san-serif;\n    font-weight: 100;\n}\n\n#header h1 a::before {\n    content: \"방랑자의 도서관\";\n    position: relative;\n    bottom: -0.25em;\n}\n \n#header h2 span::before {\n    content: \"동산은 뱀의 곳이고, 우리는 뱀의 손이다.\";\n}\n\n#side-bar a,\n#interwiki a { \n    color: #059400;\n}\n\n.ko-footer hr {\n  background-color: #059400;\n  margin: 1em 0;\n}\n[[/code]]\n[[/iftags]]",
+  "tags": [
+    "en",
+    "뱀의-손",
+    "테마"
+  ],
+  "author": "Salamander724",
+  "created_at": "2017-12-11T07:47:02+00:00",
+  "updated_at": "2024-11-18T21:20:18+00:00",
+  "rating": 4,
+  "_site": "scpko",
+  "_fullname": "theme:wanderers"
+}

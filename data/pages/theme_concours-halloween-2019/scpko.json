@@ -1,0 +1,14 @@
+{
+  "title": "할로윈 경연 테마",
+  "content": "[[iftags +테마]]\n\n[[div style=\"padding:1em;margin:0.6em;background-color:white;border-radius:1em;\"]]\n[[[concours-halloween-2019|2019년 할로윈 경연]]]을 위한 테마입니다. 작품에서 사용하려면 아래 코드를 복사해서 맨 위에 붙여넣으세요.\n\n[[div style=\"border: 1px dashed #999;background-color: #f4f4f4;padding: 0 1em;margin: 1em 3em\"]]\n@@[[include theme:concours-halloween]]@@\n[[/div]]\n\n[# 방문하지 않은 링크] ([[[theme:concours-halloween|방문한 링크]]])\n\n+ 제목 1단계\n\n[[/div]]\n\n[[/iftags]]\n\n[[div [[iftags -테마]]style=\"display: none\"[[/iftags]]]]\n[[include :fondationscp:theme:concours-halloween-2019]]\n[[module CSS show=\"true\"]]\n\t@font-face {\n    font-family: '양진체';\n    src: url('https://cdn.jsdelivr.net/gh/supernovice-lab/font@0.9/yangjin.woff') format('woff');\n    font-weight: normal;\n    font-style: normal;\n}\n\n/* Titres orange */\nh1, #page-title {\n    font-family: '양진체';\n    color: var(--ct_col_h1-txt);\n}\nh1 {\n    font-family: '양진체';\n}\n\ndiv#container-wrap {\t\n    background: url(https://scpkrsandbox.wdfiles.com/local--files/theme%3Aconcours-halloween/body_bg.png) top left repeat-x;\t\n}\n\nbody {\n     background-color: var(--ct_bg_body);\n}\n\n[[/module]]\n[[/div]]",
+  "tags": [
+    "fr",
+    "테마"
+  ],
+  "author": "XCninety",
+  "created_at": "2021-01-21T13:56:11+00:00",
+  "updated_at": "2022-08-17T03:47:59+00:00",
+  "rating": 0,
+  "_site": "scpko",
+  "_fullname": "theme:concours-halloween-2019"
+}

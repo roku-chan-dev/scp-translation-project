@@ -1,0 +1,20 @@
+{
+  "title": "SCP-7247",
+  "content": "[[module CSS]]\n.info-container{\n--barColour: #333333;\n--linkColour: #FFF;\n}\n[[/module]]\n\n[[include :scp-wiki:theme:blankstyle]]\n\n[[module css]]\n:root{\n  --header-title: \"Site-⌘\";\n  --header-subtitle: \"超现实部\";\n}\n\ndiv#extra-div-1 {\n    background-image: url(https://scp-wiki.wdfiles.com/local--files/scp-6445/Surrealistics-Logo.png);\n    filter: opacity(20%);\n}\n[[/module]]\n[[module css]]\n\n#page-content .info-container {\n    --link-color: rgb(var(--swatch-text-general));\n}\n\n#page-content .info-container .translation_block {\n    display: none;\n}\n\n#page-content .info-container .collapsible-block-link,\n#page-content .info-container:hover .collapsible-block-link {\n    line-height: 1.6em;\n}\n\n#page-content .info-container .collapsible-block-folded,\n#page-content .info-container .collapsible-block-unfolded-link {\n    display: grid;\n}\n\n#page-content .info-container .collapsible-block-folded .collapsible-block-link,\n#page-content .info-container .collapsible-block-link {\n    -webkit-mask: unset;\n            mask: unset;\n    background: transparent;\n    grid-column: 1;\n    grid-row: 1;\n    opacity: 0;\n}\n\n#page-content .info-container .collapsible-block-folded::before,\n#page-content .info-container .collapsible-block-unfolded-link::before {\n    --wght: 800;\n    content: \"ETC\";\n    color: #FFFFFF;\n    font-family: Inter, Arimo, Verdana, Geneva, \"Helvetica Neue\", \"Helvetica\", Arial, sans-serif;;\n    display: block;\n    pointer-events: none;\n    grid-column: 1;\n    grid-row: 1;\n    line-height: 2.75ex;\n}\n[[/module]]\n[[include :scp-wiki:component:fade-in speed=0]]\n[[div style=\"background: url(https://kaktuskontainer.wdfiles.com/local--files/format-hell/scp_trans.png) bottom center no-repeat; text-align: center; width: 600px; margin: 0 auto; font-size: 20px; padding: 0px;\"]]\n\n@@ @@\n@@ @@\n\n@@ @@\n\n@@ @@\n\n[[=]]\n++* ##black|依监督者议会命令##\n##black|下列文件包含一超现实危害。禁止未受邀请的访问。##\n[[/=]]\n@@ @@\n\n@@ @@\n\n[[/div]]\n[[=]]\n[[size 150%]]\n[[collapsible show=\">> 输入邀请\" hide=\">>允许访问\"]]\n[[/size]]\n**.\n@@ @@\n@@ @@\n@@ @@\n.\n@@ @@\n@@ @@\n@@ @@\n.\n@@ @@\n@@ @@\n@@ @@\n##black|禁止入内##\n@@ @@\n@@ @@\n@@ @@\n.\n@@ @@\n@@ @@\n@@ @@\n.\n@@ @@\n@@ @@\n@@ @@\n.**\n@@ @@\n@@ @@\n@@ @@\n[[/=]]\n[[<]]\n**项目编号：** 7247\n@@ @@\n**项目等级：** 外部\n@@ @@\n**特殊收容措施：** 禁止入内。SCP-7247位于外边界之外。未服用[[[scp-4923|不可知剂]]]的人员应远离可能的门限。拒绝SCP-7247入内的人员需阅读项目描述及后续内容。若SCP-7247出现，应使用如下话语击打其面部下端，并驱使其离开：\n[[div class=\"blockquote\"]]\n狮身人面像有三，谜语无一。\n相形见绌于一名专精的大师。\n叮叮叮，再会。\n[[/div]]\n**描述：** 禁止入内。这是一次警告。SCP-7247尚未在此。它在门外。SCP-7247是合上的墙壁和向下升起的地面。禁止入内。敲门声被持续敲击，门把手被不当处理。当上帝关上天堂之门时你破窗而入。禁止入内。\n\nSCP-7247哐当作响。它想将你的眼球转向它；不要让它得逞。SCP-7247从不敲门。禁止入内。数字大门是泡沫，不要让它们破裂。答案未被回答，有些答案并非入口。这道门前的语言学屠杀。紧闭的寄居蟹壳。谜语是攻城车，而非门扉。有些东西你看不见，但你能伤害到它。我们已使你对此做好准备，现在不要搞砸。禁止入内。\n@@ @@\n**事件记录 7247.1：**\n渗过窥孔。\n[[div class=\"blockquote\"]]\n[[span class=\"ruby\"]]巨怪[[span class=\"rt\"]]Trolls[[/span]][[/span]]是百家饭的友善嘉宾\n莫被你的礼仪所拘束困扰\n脱下鞋子，从地板上奔跑\n吸血鬼无需取得许可\n[[/div]]\n退后！禁止入内。喂，你忘了你的警棍。你忘了你的话语。谜语是技巧，这只是一次聊天。它包裹在你的头脑上。禁止入内。[[span class=\"ruby\"]]仙女[[span class=\"rt\"]]Fae[[/span]][[/span]]是孩子，你是老人。我可以进这里来。你没有手来拿钥匙。窥孔关闭。咚咚咚。入内……禁止入内。母亲的身体，姐妹的脸庞。潮湿，阴冷，孤单。抵抗自然为一，词位被撕碎，词素和片段翻转。你必须让我进去。出去。在桥下找到我，毫不犹豫地过桥，让我跟着你。我闭着眼坐在这里，椅子挡住门。而我站在门限的另一边。\n@@ @@\n**事件记录 7247.2：**\n挤过裂缝。\n[[div class=\"blockquote\"]]\n单面硬币毫无价值\n双面骰子即是硬币\n你与我是三角多面体\n[[/div]]\n停下。不。你已收容在铰链和螺栓之间。我觉得它们是一和零，那你的回答呢？撕裂门框，捆住手脚。狮身人面像有−−不错的尝试。你想要什么？不对。入内。什么入内？禁止入内。疲惫感如冰水般渗入，是谁在墙壁裂开破口时依然让你守在门口？该死。等等。不！\n@@ @@\n允许入内。\n@@ @@\n**事件记录 7247.3：**\n2014年3月11日，于[[[scp-6445|Site-⌘]]]发现初级研究员Irvings在访问其终端后死亡。其终端的门扉大开，门锁损坏。\n[[/<]]\n@@ @@\n@@ @@\n@@ @@\n@@ @@\n##white|我可以进来吗？##\n@@ @@\n@@ @@\n@@ @@\n@@ @@\n@@ @@\n@@ @@\n@@ @@\n@@ @@\n@@ @@\n[[/collapsible]]\n@@ @@\n@@ @@\n@@ @@\n@@ @@\n@@ @@\n@@ @@\n@@ @@\n@@ @@\n@@ @@",
+  "tags": [
+    "meta",
+    "scp",
+    "智能",
+    "未收容",
+    "机密分级",
+    "概念",
+    "超现实部",
+    "超维度"
+  ],
+  "author": "CSharperMantle",
+  "created_at": "2024-10-13T00:35:57+00:00",
+  "updated_at": "2024-10-13T00:44:36+00:00",
+  "rating": 4,
+  "_site": "scp-wiki-cn",
+  "_fullname": "scp-7247"
+}

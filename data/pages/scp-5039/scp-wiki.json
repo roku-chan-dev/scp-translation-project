@@ -1,0 +1,26 @@
+{
+  "title": "SCP-5039",
+  "content": "[[include info:start]]\n**SCP-5039:**  //Where Did You Go?//\n**Author:** [[*user Hexick]]\n**Image Sources:**\n\nhttps://commons.wikimedia.org/wiki/File:View_of_a_suburban_home,_by_James_G._Lock.jpg\n----\nhttps://commons.wikimedia.org/wiki/File:2011-12-17_12.06.08OldPC.jpg\n\nAll modifications to these images were done by me.\n[[include info:end]]\n\n[[module ListPages category=\"fragment\" parent=\".\" order=\"created_at\" limit=\"1\" offset=\"@URL|0\"]]\n%%content%%\n[[/module]]\n\n[!-- Fragments--]\n[!-- http://scp-wiki.wikidot.com/fragment:scp-5039-1--]\n[!-- http://scp-wiki.wikidot.com/fragment:scp-5039-2--]\n\n[[footnoteblock]]\n\n[[div class=\"footer-wikiwalk-nav\"]]\n[[=]]\n<< [[[SCP-5038]]] | SCP-5039 | [[[SCP-5040]]] >>\n[[/=]]\n[[/div]]\n\n[[include component:license-box]]\n=====\n> **Filename:** still\n> **Name:** View of a suburban home, by James G. Lock.jpg\n> **Author:** James G. Lock\n> **License:** Public Domain\n> **Source Link:** [https://commons.wikipedia.org/wiki/file:view_of_a_suburban_home,_by_James_G._Lock.jpg Wikimedia Commons]\n\n> **Filename:** comp\n> **Name:** 2011-12-17 12.06.08OldPC.jpg\n> **Author:** Mattruffoni\n> **License:** CC BY-SA 4.0\n> **Source Link:** [https://commons.wikipedia.org/wiki/file:2011-12-17_12.06.08OldPC.jpg Wikimedia Commons]\n=====\n[[include component:license-box-end]]",
+  "tags": [
+    "_cc",
+    "_licensebox",
+    "_listpages",
+    "_meets-the-eye",
+    "class-of-76",
+    "jam-con2020",
+    "keter",
+    "memetic",
+    "memory-affecting",
+    "meta",
+    "sapient",
+    "scp",
+    "temporal",
+    "transfiguration"
+  ],
+  "author": "Hexick",
+  "created_at": "2020-03-15T02:38:55+00:00",
+  "updated_at": "2023-12-09T13:58:30+00:00",
+  "rating": 57,
+  "_site": "scp-wiki",
+  "_fullname": "scp-5039"
+}

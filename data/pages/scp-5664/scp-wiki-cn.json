@@ -1,0 +1,23 @@
+{
+  "title": "SCP-5664",
+  "content": "[[include :scp-wiki-cn:theme:black-highlighter-theme]]\n[[include :scp-wiki-cn:theme:extra-black-highlighter-theme]]\n[[include :scp-wiki:component:toggle-sidebar-bhl]]\n[[include :scp-wiki:component:centered-header-bhl]]\n[[module CSS]]\na.collapsible-block-link { font-weight: bold;\n}\n[[/module]]\n\n-----------\n[[table style=\"border: none; width: 100%;\"]]\n[[row]]\n[[cell style=\"font-family:DejaVu Sans Mono, monospace;\"]]\n[[size 135%]]**项目编号：**SCP-5664[[/size]]\n[[/cell]]\n[[cell style=\"text-align: right; font-family:DejaVu Sans Mono, monospace\"]]\n[[size 135%]]###e5283c|**5/5664级**##[[/size]]\n[[/cell]]\n[[/row]]\n[[row]]\n[[cell style=\"font-family:DejaVu Sans Mono, monospace;\"]]\n[[size 135%]]**项目等级：**未知[[/size]]\n[[/cell]]\n[[cell style=\"text-align: right; font-family:DejaVu Sans Mono, monospace\"]]\n[[size 135%]]###e5283c|**最高机密**##[[/size]]\n[[/cell]]\n[[/row]]\n[[/table]]\n= @@@@\n[[include component:image-block name=http://scp-wiki.wdfiles.com/local--files/scp-5664/bld.png|caption=SCP-5664。|width=700px|align=center]]\n\n**特殊收容措施：**当前首要任务是调查SCP-5664。为防止意外出血，已推迟随后的探索。\n\n**描述：**SCP-5664为一处设施。由于与SCP-5664相关的大部分信息都已遗失，更多细节不明。以下为全部已知信息：\n\nSCP-5664曾是一家精神病医院，在20世纪50年代因频繁的医疗事故投诉而关闭。关闭之后，偶尔可在其窗内看到成对的人形身影。其中一个身影穿着医护制服，另一个穿着病号服。可观察到后者双臂流血，前者拿着金属托盘接血；该现象以两者都融化成红色液体结束。\n\n2021/2/25，一队基金会特工进入SCP-5664以调查该现象。他们没有返回。部分探索记录已上传到该文件。然而，很快，包含该记录的全部计算机服务器都开始从所有接缝处渗血，导致它们故障并暂时无法使用。恢复功能后，之前收集的大部分有关SCP-5664的信息，包括探索记录，都已完全消失。\n\n尝试回忆被消除的信息导致了频繁的偏头痛和流鼻血，因此无法获得进一步信息。\n\n[[module ListPages limit=\"1\" category=\"*\" order=\"updated_at desc\"]]\n**附录 5664-1 -- 更新于 %%updated_at|%Y/%m/%d%%：**服务器产生的血液在置于异常废料储存仓库后具有了初步智能。它开始以未知方式发声，以下是记录到的连贯语段：\n\n[[=]]\n> //我在发烂。发臭。//\n\n> //静脉如同用过的针管，将胆汁注入灵魂。//\n\n> //没有人应该感觉到皮肤下这等的污秽。//\n\n> //把它吐出来，呕出疾病，一滴一滴变得更加苍白。//\n\n> //每一滴都让你升华。//\n\n> //我有更多的秘密。带我去找领导者，让耳语深深地切入。//\n[[/=]]\n血液从此保持沉默。其与站点主管的访谈仍待定。\n[[/module]]\n\n@@ @@\n@@ @@\n@@ @@\n@@ @@\n@@ @@\n@@ @@\n@@ @@\n@@ @@\n@@ @@\n@@ @@\n@@ @@\n@@ @@\n@@ @@\n@@ @@\n@@ @@\n@@ @@\n@@ @@\n@@ @@\n\n-------\n[[=]]\n[[collapsible show=\"[（1）新信息]\" hide=\"[关闭信息]\"]]\n[[/=]]\n\n[[div style=\"display: inline-block; position: absolute; background: #520601; width:60%; padding:1px 15px; box-shadow: 0 1px 100px 1000px #520601; color: white; opacity: .8; text-align: center; left: 50%; transform: translate(-50%, -120%); font-size: 150%;\"]]\n\n+++ **{{⚠ 警告 ⚠}}**\n\n**{{根据最新信息的启示，当前完全鼓励放血。}}**\n\n**{{我们必须先放空脏血，才能让干净的新血进来。}}**\n\n[[/div]]\n\n\n\n[[/collapsible]]\n-------\n@@ @@\n\n[[div class=\"footer-wikiwalk-nav\"]]\n[[=]]\n<< [[[SCP-5663]]] | SCP-5664 | [[[SCP-5665]]] >>\n[[/=]]\n[[/div]]",
+  "tags": [
+    "2021连写竞赛",
+    "_腐败",
+    "scp",
+    "声音",
+    "建筑",
+    "智能",
+    "未收容",
+    "机密分级",
+    "生物性",
+    "精神影响",
+    "血"
+  ],
+  "author": "Esperanza_Cai",
+  "created_at": "2021-03-25T13:27:44+00:00",
+  "updated_at": "2024-05-15T14:52:47+00:00",
+  "rating": 3,
+  "_site": "scp-wiki-cn",
+  "_fullname": "scp-5664"
+}

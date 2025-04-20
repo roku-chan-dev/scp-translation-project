@@ -1,0 +1,15 @@
+{
+  "title": "phlegmbrick melted over bread etc etc",
+  "content": "[[>]]\n[[module Rate]]\n[[/>]]\n[[include :scp-wiki:theme:flopstyle-dark witching-hour=a]]\n\n[[module CSS]]\n :root{\n   /* -- COLORS -- /\n     --accentColor: hsl(0, 89%, 41%);\n     --accentColorLite: hsla(0, 89%, 51%, .5);\n     --hue: 0deg;\n\n   / -- LOGO -- /\n     --lgurl: url(https://scp-wiki.wdfiles.com/local--files/nightfall-hub/moon1.png);\n\n   / -- TITLES -- /\n     --header-title: \"NIGHTFALL\";\n     --header-subtitle: \"heehee hoohoo\";\n\n   / -- STATIC COLORS -- */\n     --textColor: hsl(212, 3%, 75%);\n     --bgColor: hsl(220, 20%, 10%);\n}\n\n #extra-div-1{\n     filter: opacity(.2) saturate(1.25) brightness(1.25);\n}\n[[/module]]\n\n[[div style=\"border: solid white 2px;\"]]\n[[image phlegmfood]]\n[[/div]]",
+  "tags": [
+    "artwork",
+    "nightfall",
+    "painted"
+  ],
+  "author": "RuraScarlet",
+  "created_at": "2024-09-11T23:18:00+00:00",
+  "updated_at": "2024-09-11T23:34:25+00:00",
+  "rating": 24,
+  "_site": "scp-wiki",
+  "_fullname": "art:phlegmbrick-melted-over-bread-etc-etc"
+}

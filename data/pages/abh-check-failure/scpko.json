@@ -1,0 +1,14 @@
+{
+  "title": "검문 실패",
+  "content": "[[include :scpko:theme:black-highlighter-theme]]\n[[include :scpko:theme:scp-offices-theme]]\n[[include :scpko:component:rso]]\n\n[[module CSS]]\n@font-face {\n    font-family: 'IBMPlexSansKR-Regular';\n    src: url('https://cdn.jsdelivr.net/gh/projectnoonnu/noonfonts_20-07@1.0/IBMPlexSansKR-Regular.woff') format('woff');\n    font-weight: normal;\n    font-style: normal;\n}\n\nsup {\nvertical-align: top; position: relative; top: -0.5em;\n}\n:root{\n--cutColour: #fafafa;\n--barColour: #590505;\n}\n.translation_block{\ndisplay:none;}\n\n.info-container .collapsible-block-folded a{\ncolor: #FFF;}\n.info-container .collapsible-block-unfolded-link a{\ncolor: #FFF;}\n\n.info-container .collapsible-block-link,\n.info-container:hover .collapsible-block-link {\nline-height: 1.6em;\n}\n\n.pulsate {\n    -webkit-animation: pulsate 1s linear;\n    -webkit-animation-iteration-count: infinite;\n}\n@-webkit-keyframes pulsate {\n  0% {\n    opacity:1;\n  }\n  25% {\n    opacity:.20;\n  }\n  50% {\n    opacity:.9;\n  }\n  70% {\n    opacity:.05;\n  }\n  85% {\n    opacity:.05;\n  }\n}\n\n.danke{\npadding: 5px 5px 5px 15px;\nmargin-bottom:10px;\nwidth: 100%;\nfont-family: IBMPlexSansKR-Regular;\nfont-size: 1.1em; }\n\n.agent{\nbackground-color:#002200;\nborder: 3px solid #55AA55;\ncolor: #77CC77;\n}\n\n:root:lang(ko) {\n    --header-subtitle: \"긴급상황 - 중대한 보안 위반상황!\";\n}\n[[/module]]\n\n[[div style=\"border:solid 3px #444; background:url('http://kaktuskontainer.wdfiles.com/local--files/format-hell/scp_trans.png') center center no-repeat; padding: 1.5rem; margin-bottom: 10px;font-family: 'IBMPlexSansKR-Regular', cursive;\"]]\n[[=]]\n++++ 검문 실패!\n아르투어-베너타-홀 규약에 의해, SCP-682-KO에 대한 정보는 오직 규약을 통해 선별된 인원에게만 주어집니다.\n\n만일 귀하가 아르투어-베너타-홀 규약의 존재를 인지하지 못했다면, 중대한 데이터베이스 오류 또는 기밀의 부적절한 유출 상황에 속합니다. 이 경우 고의로 데이터베이스에 무단 침입하는지의 여부, 또는 재단의 기밀 유출 여부를 확인하기 위해 귀하를 즉시 억류하여 심문을 진행한 후, 규약에 따라 후속 처분을 진행할 것입니다.\n\n만일 귀하가 아르투어-베너타-홀 규약의 대상자임에도 불구하고 규약의 준수 사항을 동의하지 않을 경우, 규약에 따라 말소 처분이 진행될 것입니다.\n\n현재 규약 위반자가 위치한 장소는 검문 실패 직후 봉쇄되었으며, 경비 병력이 위반자 대응 절차를 실시하기 위해 이 장소로 신속하게 접근 중입니다. ##red|**절대로 저항하지 마시고, 모든 절차에 순응하십시오.**##\n\n//-- SCP 재단 기록정보보안행정처//\n[[/=]]\n\n[[/div]]\n[[=]]\n[[size 1.5em]]##red|[http://scpko.wikidot.com/ 처분 대기]##[[/size]]\n[[/=]]\n\n[[footnoteblock]]",
+  "tags": [
+    "ko",
+    "보충"
+  ],
+  "author": "Crssk",
+  "created_at": "2022-02-15T14:29:36+00:00",
+  "updated_at": "2022-02-21T10:15:05+00:00",
+  "rating": 1,
+  "_site": "scpko",
+  "_fullname": "abh-check-failure"
+}

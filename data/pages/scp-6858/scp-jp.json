@@ -1,0 +1,21 @@
+{
+  "title": "SCP-6858",
+  "content": "[[module css]]\nspan, a { word-break: normal !important }\n[[/module]]\n\n[[module CSS]]\n:root {\n    --thaumiel: 0, 135, 189\n[[/module]]\n\n[!--\nフラグメント:\nhttps://scp-jp.wikidot.com/fragment:scp-6858-offset-0\nhttps://scp-jp.wikidot.com/fragment:scp-6858-offset-1\n--]\n\n[[module ListPages category=\"fragment\" parent=\".\" order=\"created_at\" limit=\"1\" offset=\"@URL|0\"]]\n%%content%%\n[[/module]]\n\n[[=]]\n<< **[[[SCP-6721]]]** | **[/on-guard-43-hub 力と毒の言葉]** | **TBD** >>\n[[/=]]",
+  "tags": [
+    "en",
+    "esoteric-class",
+    "on-guard-43",
+    "scp",
+    "イヌ",
+    "スカウト管理官",
+    "人間型",
+    "動物",
+    "生命"
+  ],
+  "author": "C-Dives",
+  "created_at": "2023-01-27T15:31:33+00:00",
+  "updated_at": "2023-06-30T17:25:34+00:00",
+  "rating": 11,
+  "_site": "scp-jp",
+  "_fullname": "scp-6858"
+}

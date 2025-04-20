@@ -1,0 +1,20 @@
+{
+  "title": "SCP-CN-40K：Oi.aic",
+  "content": "[[include :scp-wiki-cn:theme:sci-fi inc-css=--]]]\n\n[[module CSS]]\n:root {\n    --title: \"AREA-CN-22\";\n    --subtitle: \"设施内部网络\";\n    --icon: url(\"https://scpsandboxcn.wikidot.com/local--files/testing-zone/Area-CN-22-logo-first-bai\");\n}\n[[/module]]\n\n[[module CSS]]\n.email-example .collapsible-block-folded a.collapsible-block-link {\n    animation: blink 0.8s ease-in-out infinite alternate;\n}\n@keyframes blink {\n    0% { color: transparent; }\n    50%, 100% { color: #b01; }\n}\n.email {border: solid 2px #000000; width: 88%; padding: 1px 15px; margin: 10px; box-shadow: 0 1px 3px rgba(0,0,0,.5)}\n.email-example a.collapsible-block-link {font-weight: bold;}\n.tofrom {margin-left: 10px; margin-top: 5px; padding: 1px 15px; border-left: solid 3px maroon}\n[[/module]]\n\n[[>]]\n[[module rate]]\n[[/>]]\n\n**项目编号：**SCP-CN-40K\n\n**项目等级：**--Safe-- Thaumiel\n\n**特殊收容措施：**SCP-CN-40K标准副本当前储存于Area-CN-22的一台台式计算机中。其余副本将分发至有需求的基金会设施。\n\n目前已将项目接入SCiPNet当中以发挥作用。先前[[[kobe-bryant|调职]]]至Site-CN-106的基金会初级研究员Samuel Henry已被再次调职至Area-CN-22配合项目对抗**##B22222|Skippy.aic##**。\n\n**描述：**SCP-CN-40K是一个由[[[SCP-914]]]以“1:1”模式加工基金会人工智能操作员**##B22222|Skippy.aic##**物理副本所得的产物[[footnote]]进行该操作的基金会高级研究员████在此之后因涉嫌传播危害项目被降为D级人员。在证明SCP-CN-40K的价值后，该人员被恢复职位。[[/footnote]]，当前命名为**##4169E1|Oi.aic##**。\n\n[[include component:image-block name=https://scpsandboxcn.wdfiles.com/local--files/grassy-comic/%E8%8B%A5%E8%87%B3logo |caption=Oi.aic图标|width=150px]]\n\n项目在性质上与常规文书型AIC一致，可以进行基础的文书工作；但项目极其热衷于处理项目等级方面的工作。期间，项目曾多次提出将部分项目的常规项目等级更改为机密分级，但全部被拒绝。\n\n20██/12/31，项目在基金会中国分部年终总结大会上意外得知**##B22222|Skippy.aic##**的存在。随后，项目与其进行了长达1小时38分钟29秒的聊天。聊天内容已被后者销毁，因而无法得知内容。但根据对多名人工智能应用部（AIAD）部门员工的访谈证明后者显然对项目产生了极大的厌恶心理，并避免与项目接触。\n\n考虑到相对于**##B22222|Skippy.aic##**，项目具备良好的可控性且受到员工的喜爱与尊敬[[footnote]]原因未知。[[/footnote]]，正在考虑使**##4169E1|Oi.aic##**代替前者位置主持每年年末的基金会年终总结大会。届时废除部将联合AIAD部使其废除。\n\n> [[div class=\"email-example\"]]\n> [[=]]\n> \n> [[collapsible show=\"访问SCiPNET？您有一（1）封新的邮件！\" hide=\"回复：衷心祝贺看到这封邮件的你\"]]\n> [[<]]\n> @@ @@\n> [[div class=\"email\"]]\n> [[div class=\"tofrom\"]]\n> **收信人：**Samuel Henry\n> **寄信人：**Skippy.aic\n> **主题：**操你妈[[image https://scpsandboxcn.wdfiles.com/local--files/semimonth/angry width=\"50px\"]]\n> [[/div]]\n> ------\n> \n> [[image https://scpsandboxcn.wdfiles.com/local--files/aegnuspicture/skippy2.png]]\n> \n> **##B22222|金鱼S，就那么喜欢你那傻逼希腊语以及各种不知所谓的你妈中立立陶宛语书面挪威语巽他语组成的傻屌机密分级？？敢让我下台就[[span style=\"filter: blur(5.5555px);\"]]给你全站点扬了个逼样的，还有那个傻逼Oi.aic，再说机密分级连你赛博亲妈都杀了[[/span]]##**\n> \n> [[=]]\n> [SCiPNET提醒：邮件加载失败，请点击@#！%&*@@]\n> [[/=]]\n> \n> @@ @@\n> \n> @@ @@\n> @@ @@\n> \n> @@ @@\n> @@ @@\n> \n> @@ @@\n> @@ @@\n> \n> @@ @@\n> @@ @@\n> \n> @@ @@\n> @@ @@\n> \n> @@ @@\n> @@ @@\n> \n> @@ @@\n> @@ @@\n> \n> @@ @@\n>  \n> **收信人：**Samuel Henry\n> **寄信人：**Oi.aic\n> **主题：**Oi，小鬼！\n> ----\n> \n> **##4169E1|脏话帮你屏蔽了，一定要带着机密分级的希望写一辈子文档啊！##**\n> \n> \n> [[<image https://scpsandboxcn.wdfiles.com/local--files/grassy-comic/%E8%8B%A5%E8%87%B3o5 width=\"150px\"]]\n> \n> [[/div]]\n> [[/<]]\n> [[/collapsible]]\n> [[/=]]\n> [[/div]]",
+  "tags": [
+    "2025愚人竞赛",
+    "area-cn-22",
+    "scp",
+    "thaumiel",
+    "人造物品",
+    "原创",
+    "搞笑",
+    "电子"
+  ],
+  "author": "AceAttackAssassin",
+  "created_at": "2025-04-04T12:16:06+00:00",
+  "updated_at": "2025-04-04T12:47:07+00:00",
+  "rating": 9,
+  "_site": "scp-wiki-cn",
+  "_fullname": "cn-40kaceattackassassin"
+}

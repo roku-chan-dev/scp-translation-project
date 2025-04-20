@@ -1,0 +1,18 @@
+{
+  "title": "SCP-3644",
+  "content": "[[include :scp-wiki-cn:theme:black-highlighter-theme]]\n\n[[include :scp-wiki:component:bhl-dark-sidebar]]\n\n[[include :scp-wiki:component:toggle-sidebar-bhl]]\n\n[[include :scp-wiki:component:pride-highlighter |inc-bi= --]]]\n\n[[include :scp-wiki:component:acs-animation]]\n\n[[include :scp-wiki-cn:component:anomaly-class-bar-source\n|lang= cn\n|item-number= 3644\n|clearance=  待定\n|container-class= 待定\n|disruption-class= 待定\n|risk-class= 待定\n]]\n\n[[include :scp-wiki-cn:component:customizable-acs\n|containment-class= 待定\n|containment-image= https://scp-wiki.wdfiles.com/local--files/scp-3644/tbd.png\n|containment-color= 0, 0, 0\n|inc-containment = --]]]\n\n[[include :scp-wiki-cn:component:customizable-acs\n|disruption-class= 待定\n|disruption-image= https://scp-wiki.wdfiles.com/local--files/scp-3644/tbd.png\n|disruption-color= 0, 0, 0\n|inc-disruption = --]]]\n\n[[include :scp-wiki-cn:component:customizable-acs\n|risk-class= 待定\n|risk-image= https://scp-wiki.wdfiles.com/local--files/scp-3644/tbd.png\n|risk-color= 0, 0, 0\n|inc-risk = --]]]\n\n-----\n\n**特殊收容措施：**若发现任何实体符合Salem-Orden博士提供的物理描述，需将其置于[[[scp-6664|Site-86]]]的标准人形收容间内。收容后，SCP-3644需交由时间异常部监管。\n\n**描述：**SCP-3644在基金会数据库中的空位为Salem-Orden博士[[footnote]][http://scp-wiki-cn.wikidot.com/scp-1780 时间异常部]在Site-86的区域主管。[[/footnote]]在2021年9月2日目击的一个尚未发现的实体保留。\n\n根据Salem-Orden博士的说法，该实体于2021年9月2日12:58出现在她办公室内。该实体出现后不久，另一个戴有基金会时间异常部徽章的实体（编为SCP-3644-1）出现在办公室内并逮捕了实体。两个实体很快消失。\n\n由于实体出现和消失之间的时间短暂，仅有少量关于实体物理外观的细节可以确定。Salem-Orden博士在她关于该实体的最初报告中描述了以下物理特征：\n* 实体的外表类似于一名成年人类女性。\n* 实体与Salem-Orden博士相似，但外表大约年长十岁。\n* 实体身着类似于基金会时间异常部特工所穿的制服。\n* 实体使用一把标准基金会配置的枪支，在被逮捕之前指向Salem-Orden博士。\n\n[[div class=\"footer-wikiwalk-nav\"]]\n[[=]]\n<< [[[SCP-3643]]] | SCP-3644 | [[[SCP-3645]]] >>\n[[/=]]\n[[/div]]\n[[footnoteblock]]\n[[include :scp-wiki-cn:component:license-box\nauthor=Rhineriver]]\n[[include :scp-wiki-cn:component:license-box-end]]",
+  "tags": [
+    "delta-t",
+    "scp",
+    "人形生物",
+    "时间影响",
+    "未来",
+    "机密分级"
+  ],
+  "author": "Esperanza_Cai",
+  "created_at": "2021-09-06T05:31:33+00:00",
+  "updated_at": "2024-05-09T17:07:42+00:00",
+  "rating": 3,
+  "_site": "scp-wiki-cn",
+  "_fullname": "scp-3644"
+}

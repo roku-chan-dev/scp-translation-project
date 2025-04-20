@@ -1,0 +1,23 @@
+{
+  "title": "SCP-6089",
+  "content": "[[>]]\n[[module Rate]]\n[[/>]]\n\n[[include :scp-wiki:component:anomaly-class-bar-source\n\n|item-number= 6089\n\n|clearance= 1\n\n|container-class= safe\n\n|secondary-class= none\n\n|secondary-icon= http://acsurlexample.com/image.svg\n\n|disruption-class= dark\n\n|risk-class= notice\n\n]]\n\n------\n\n[[include component:image-block name=chapel|caption=Site-132 chapel prior to SCP classification|width=300px]]\n\n**Special Containment Procedures:** SCP-6089 is self-contained within Site-132. [[span style=\"color:royalblue\"]]//NOTICE:// By request of the Site Director, personnel are not to pray near SCP-6089.[[/span]]\n\nPending review, Site-132 Researcher and Chaplain Dr. Josiah Lopez has suggested building unique chapels for the various faiths reflected by Site-132 staff.\n\n**Description:** SCP-6089 designates the former Site-132 chapel. As of 06/21/2019, the chapel is surrounded by an impenetrable barrier, which prevents entry or exit. Every Sunday at 9:33 AM, two humanoid entities materialize within the chapel. The first entity (resembling former staff Mark ████████) is seated on the front row facing the altar; the second entity is directly in front of it. The first entity then approaches the second and assaults them.\n\nBoth entities fight each other. After several minutes, the second entity falls to the ground, with the first standing over their body. Both entities then look to the ceiling. Shortly after, the chapel becomes engulfed with flames, and will burn for an indeterminate amount of time. Note that noises and smells associated with fire burning are absent. Sounds, including banging, groaning, beeping, and ringing emanate from the chapel; the sounds are unique with each event. A sample is included below:\n\n[[include :snippets:html5player\n| type=audio\n| url=https://scp-wiki.wdfiles.com/local--files/scp-6089/spook\n]]\n\nThe frequency of sounds increases if personnel [[[SCP-6183 |pray]]] near SCP-6089. These sounds cease when the chapel stops burning. At 9:30 AM the following Sunday, SCP-6089 is restored to its original state.\n\n**Addendum:** Prior to 06/21/2019 and SCP designation, an individual desecrated an idol placed within the chapel. The former staff, Mark ████████, was terminated after security footage identified him as the perpetrator. Due to related altercations, religious services in Site-132's East Wing are forbidden.\n\n[[span style=\"color:royalblue\"]]UPDATE: Site-132 has been notified that interpersonal religious concerns should be escalated to local Ethics Committee officials and/or HR Department for investigation.[[/span]]\n\n[[footnoteblock]]\n\n[[div class=\"footer-wikiwalk-nav\"]]\n[[=]]\n<< [[[SCP-6088]]] | SCP-6089 | [[[SCP-6090]]] >>\n[[/=]]\n[[/div]]",
+  "tags": [
+    "_cc",
+    "acoustic",
+    "audio",
+    "building",
+    "fire",
+    "humanoid",
+    "loop",
+    "religious",
+    "safe",
+    "scp",
+    "vibration"
+  ],
+  "author": "MrRonin",
+  "created_at": "2021-08-20T01:55:49+00:00",
+  "updated_at": "2021-09-23T06:30:18+00:00",
+  "rating": 49,
+  "_site": "scp-wiki",
+  "_fullname": "scp-6089"
+}

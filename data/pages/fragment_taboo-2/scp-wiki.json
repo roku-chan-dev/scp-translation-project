@@ -1,0 +1,13 @@
+{
+  "title": "Taboo 2",
+  "content": "[[module css]]\n.width {\n    width: 80%;\n    margin: auto;\n}\n[[/module]]\n\n[[>]]\n[[module Rate]]\n[[/>]]\n[[div class=\"width\"]]\n[[=]]\n[[size 200%]]{{[begin transcript]}}[[/size]]\n[[/=]]\n@@@@\n@@@@\nGood evening. This is a recording.\n\nIf you're hearing this, it means you are a member of the O5 council, and you are about to vote on an issue which will determine the future of not only the Foundation, but also the world at large. \n\nSince your elevation to Level-5 status, the full extent of the SCP database has been made available for your perusal. You've read hundreds, if not thousands of documents by this point. If you've been paying attention, then you've noticed a couple of patterns. \n\nMore than 93% of anomalies were created in the last 100 years, and just as many come from North America. \n\nIf you've done your homework, you'll know that in 1911, the Foundation began systematically killing a race of anomalous beings. And, if you know anything about human history, you know that genocide is never without consequences. \n\nThe number of anomalies discovered in 1912 were double that of the previous year. In 1913, that number doubled again. By the time we realized what was happening, it was too late. Anomalies may have existed since the beginning of time, but the world as you know it, this world where monsters lurk around every corner, where reality seems to break at the slightest touch? It exists solely due to our negligence and cruelty. \n\nDecades of research have yielded no conclusive answers. No causal link has been proven, but the correlation is indisputable. Something fundamental to the balance of the anomalous ecosystem was destroyed, and the ecosystem adjusted itself to compensate. We've spent the last century trying to undo the damage of this mistake. \n\nWe secure. We contain. Most importantly, we protect. We protect the world from anomalies, yes, but the inverse is equally true. GOC, Obskuracorps, Foundation—whatever name you align yourself with, if you choose death, you will be stopped. We made that choice once, and we will not see it repeated. \n\nPlace your vote, and remember who you are protecting. \n\n@@@@\n[[=]]\n[[size 200%]]{{[end transcript]}}[[/size]]\n[[/=]]\n[[/div]]",
+  "tags": [
+    "fragment"
+  ],
+  "author": "PeppersGhost",
+  "created_at": "2018-07-02T03:35:28+00:00",
+  "updated_at": "2021-10-30T21:26:16+00:00",
+  "rating": 28,
+  "_site": "scp-wiki",
+  "_fullname": "fragment:taboo-2"
+}

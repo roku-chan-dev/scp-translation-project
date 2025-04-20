@@ -1,0 +1,19 @@
+{
+  "title": "SCP-5826",
+  "content": "[[include :scp-jp:component:betterfootnotes]]\n[[include :scp-jp:theme:magnus-web-format]]\n[[include :scp-jp:credit:start]]\n**タイトル:** SCP-5826 - 大惨事ディープダイビング\n**著者:** ©︎[[*user Cremo]]\n**原題:** SCP-5826 - Deadly Deep Diving\n**作成年:** 2022\n[[include :scp-jp:credit:end]]\n[[include :scp-jp:component:anomaly-class-bar-source\n\n|item-number= 5826\n\n|clearance= 2\n\n|container-class= safe\n\n|secondary-class= none\n\n|disruption-class= dark\n\n|risk-class= notice\n\n]]\n\n**特別収容プロトコル:**  SCP-5826はサイト-228の標準異常物品ロッカーに収容されています。\n\n**説明:** SCP-5826はわずかに損傷したニュースーツ(大気圧潜水服の一種)であり、色は黄色です。液体物質と物理的相互作用をすると、SCP-5826は透過しますが、液体物質にのみ透過します。\n\nSCP-5826を着用した人物は、軽度の不快感、悪臭、原因不明のこもった発声、//高所恐怖症//[[footnote]]落下恐怖感。[[/footnote]]、40秒間に及ぶ一時的な失明を経験していることが判明しました。\n\n\n[[collapsible show=\"● 実験ログ ●\" hide=\"○ 閉じる ○\"hideLocation=\"both\"]]\n\n\n**番号:** 01\n**対象:** 2Lの水\n**結果:** 水は直ぐにSCP-5826を通過しました。\n\n\n**番号:** 03\n**対象:** 角氷1個\n**結果:** 角氷はSCP-5826の表面に残りましたが、氷から融解した液体はSCP-5826を通過しました。\n\n\n**番号:** 06\n**対象:** 2Lの牛乳\n**結果:** 実験01と同様ですが、今回はSCP-5826を液体が通過する時間が0.5秒遅くなりました。これは、牛乳の密度が高いためと推定されます。\n\n\n**番号:** 09\n**対象:** 14kgの溶鉄\n**結果:** この過程は、前回の実験よりも大幅に遅く、少なくとも20秒続きました。\n\n\n**番号:** 13\n**対象:** サイト-228の生物研究所から提供された様々な微生物を含む2Lの水。\n**結果:** 10μmを超える微生物がSCP-5826の表面に残った一方で、他の微生物は水とともに通過しました。\n\n\n**番号:** 22\n**対象:** 水で満たされた1つのプール(深さ2メートル)\n**追記:** SCP-5826には、さらなる損傷を防ぐための安全帯が取り付けられていました。\n**結果:** SCP-5826は直ぐに水没し、プールの底に衝突しかけました。\n[[/collapsible]]\n\n**発見:** SCP-5826は2017年に太平洋の底で発見されました。SCP-5826内では、不明な男性の白骨化した遺体が発見されました。死因は100m以上からの落下でした。",
+  "tags": [
+    "en",
+    "safe",
+    "scp",
+    "衣類",
+    "視覚",
+    "非実体",
+    "音波"
+  ],
+  "author": "MikuKaneko",
+  "created_at": "2022-01-26T11:42:41+00:00",
+  "updated_at": "2023-02-10T02:03:09+00:00",
+  "rating": 24,
+  "_site": "scp-jp",
+  "_fullname": "scp-5826"
+}

@@ -1,0 +1,23 @@
+{
+  "title": "Liz The GM的提案",
+  "content": "[[module ListPages  category=\"fragment\" parent=\".\" limit=\"1\" order=\"created_at\" offset=\"@URL|0\"]]\n%%content%%\n[[/module]]\n\n[!--\n\n若要编辑文字，请至以下页面：\nhttp://scp-wiki-cn.wikidot.com/fragment:jim-scp-001-1\nhttp://scp-wiki-cn.wikidot.com/fragment:jim-scp-001-2\nhttp://scp-wiki-cn.wikidot.com/fragment:jim-scp-001-3\nhttp://scp-wiki-cn.wikidot.com/fragment:jim-scp-001-4\nhttp://scp-wiki-cn.wikidot.com/fragment:jim-scp-001-5\nhttp://scp-wiki-cn.wikidot.com/fragment:jim-scp-001-6\n\n--]",
+  "tags": [
+    "001提案",
+    "isabel-v",
+    "scp",
+    "wondertainment博士",
+    "人形生物",
+    "工厂",
+    "无效化",
+    "智能",
+    "未收容",
+    "活物",
+    "现实扭曲"
+  ],
+  "author": "W Asriel",
+  "created_at": "2018-06-15T07:06:04+00:00",
+  "updated_at": "2024-03-22T02:24:41+00:00",
+  "rating": 50,
+  "_site": "scp-wiki-cn",
+  "_fullname": "liz-the-gm-s-proposal"
+}

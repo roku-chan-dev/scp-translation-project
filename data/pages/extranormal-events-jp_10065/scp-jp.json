@@ -1,0 +1,14 @@
+{
+  "title": "10065",
+  "content": "overview: サイト-████のDクラスを含む全ての職員の寝室にラッピングされたプレゼントボックスが出現しました。目撃者は「空中から突然現れたように見えた」と話しました。全てのセキュリティシステムは異常を検知していませんでした。\nswdate: '1'\ndate: '2017/12/25 0時頃'\nswplace: '1'\nplace: サイト-████\nswchaseprocedure: '1'\nchaseprocedure: サイト-████と時差のあるサイトの職員の寝室に監視カメラの設置を指示しました。検査の結果プレゼントボックスの内容に異常性は見られませんでしたが、全て没収しAnomalousアイテムとして保管されています。\nswaddendum: '0'\naddendum: ''\ntf2: '1'\nauthor: kugi_8\nredirect-b: '[[module Redirect destination=\"/log-of-extranormal-events-jp'\nredirect-e: '\"]]'",
+  "tags": [
+    "jp",
+    "剪定対象-子"
+  ],
+  "author": "machikawa",
+  "created_at": "2020-07-23T16:13:47+00:00",
+  "updated_at": "2021-05-24T13:21:02+00:00",
+  "rating": 9,
+  "_site": "scp-jp",
+  "_fullname": "extranormal-events-jp:10065"
+}

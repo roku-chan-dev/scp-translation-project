@@ -1,0 +1,22 @@
+{
+  "title": "SCP-4456-D",
+  "content": "[[include :scp-wiki-cn:theme:decom-dept]]\n[[include :scp-wiki-cn:component:info-ayers\n|page=scp-4456\n|authorPage=calibri-bold-s-mega-cool-author-page\n|comments=废除部门的首作！\n]]\n\n[[include :scp-wiki-cn:component:anomaly-class-bar-source\n|lang= cn\n|item-number= 4456-D\n|clearance= 1\n|container-class= 被废除\n|secondary-class= 无效化\n]]\n\n[[module css]]\n.anom-bar-container.neutralized .danger-diamond > .top-icon::before,\n.anom-bar-container.无效化 .danger-diamond > .top-icon::before,\n.anom-bar-container.無效化 .danger-diamond > .top-icon::before {\n    background-image: url(\"https://scp-wiki.wdfiles.com/local--files/calibri-s-mega-cool-art-page-it-s-mostly-just-icons-but-what/Decommissioned.svg\");\n    background-size: contain;\n}\n[[/module]]\n@@ @@\n\n[[include component:image-block\n| name=https://scp-wiki.wdfiles.com/local--files/scp-4456/I%20ship%20it\n| caption=SCP-4456-D在最初被发现和调查时\n| width=400px]]\n\n**特殊收容措施（已归档）：**SCP-4456收容于Site-45的4尺寸异常水上载具存储单元 (S4-AAVSU)。每次复制事件发生后，新的SCP-4456个体将被提供以2500磅纯银。\n\n**描述（已归档）：**SCP-4456是一无人搭乘的16世纪西班牙大帆船，名为“//Soy Mi Amante//”[[footnote]]“我是我爱”[[/footnote]]。在外观上，SCP-4456与1500年代的同型号船只没有差别。\n\n每隔4到6天，SCP-4456的一艘复制体会在可承载之的最近水域内出现。若SCP-4456新个体被提供以价值约$519,000[[footnote]]约为2500磅银。[[/footnote]]的金银或宝石，它将瞬间消失。\n\n若SCP-4456个体没有在显现后的二十四小时内获得足够量的资源，它将自主活动并变得具有敌意，试图通过撞击和船上火炮突破收容。\n\n**附录4456.1：**在调查SCP-4456的起源时，基金会研究员发现了下列可追溯到公元1500年的文件：\n\n[[collapsible show=\"+ 展开文件4456-A\" hide=\"- 收起文件4456-A\"]]\n\n//备注：下列文件翻译自西班牙文//\n\n> 我的女王，\n> \n> 我满怀悲怆地向您报告，//Soy Mi Amante//被不明力量击沉了。她和她的船员将作为我们神圣帝国的非凡财源被铭记。\n> \n> 不过，我必须对它此前的状况表示关切。她英勇的船员们从不透露战利品来自何处，我们只知道它每次返航都满载而归。我恐怕她的覆灭是某种强大而未知的力量在放出先兆，它一直接纳着我们的盗拿，此情已然拖延许久。又或许是更为强大的力量在此掌局 - 毕竟如//Soy Mi Amante//这般强大的舰船，应该没有哪个凡物能在数秒间让它灰飞烟灭。\n> \n> 愿我们祈求上帝不要将怒火降于我等，愿我们继续凭他的恩宠繁荣昌盛。\n> \n> 您卑微的仆从，但丁。\n\n[[/collapsible]]\n\n**附录4456.2：**为确认SCP-4456上安置的物品去向何处，基金会制造了十枚被设计为完全相同的银币，并为每个银币植入了微型追踪器。在银币被装进SCP-4456个体后，追踪接收器激活，且立即侦测到全部基金会银币位于普拉多国家博物馆。调查发现博物馆自1827年起就已持有这些银币。\n\n异常年代学部展开进一步研究后发现，每次有新SCP-4456个体被装入足够资源并消失，西班牙政府的财富将回溯性地发生增长，且数额等于船上资源的价值量。虽然基金会行为的具体影响尚不明确，大致猜测基金会至少要为西班牙价格革命[[footnote]]16到17世纪之间的一次经济衰退，理论认为是由美洲白银输入所致[[/footnote]]负责。\n\n由于有大额金钱损失于SCP-4456，且此举可能有违FIR公约[[footnote]]《基金会国际关系公约》；为基金会与君主国家间的交往做出了规定，包括，在大部分情形下，将与异常收容无关的对他国捐助规定为非法。[[/footnote]]，SCP-4456被提议进行废除[[footnote]]由于基金会现已专注于收容异常而非销毁之，“已废除”分级数年间从未被使用。但废除部的设立改变了这一情况（由[[[A Bold Choice|Dr. C. Bold]]]担任主管）：创立该部门是为主动销毁被认定为难以收容的项目。应注意，“已废除”分级不同于“无效化”分级，后者是指项目在非故意情形下、或是未经废除部同意之下遭到摧毁或失去异常。[[/footnote]]。\n\n下列提议被提交至新创立的废除部：\n\n[[collapsible show=\"+ 展开废除提案4456\" hide=\"- 收起废除提案4456\"]]\n\n> [[=]]\n> ++ __**SCP项目废除提案表**__\n> [[/=]]\n> **项目编号：**SCP-4456\n> \n> **首席研究员：**[[[A Bold Choice|Dr. C. Bold]]]\n> \n> **支持人员：**\n> * //Dr. D. Eon - 代表异常年代学部//\n> * //A. Ferril - 代表基金会库务与财政部//\n> * //Dr. R. Raegis - 代表基金会法律部//\n> \n> **请对您申请理由对应的方框进行打勾或填选：**\n> ☑ 揭开面纱情景风险极高\n> ☐ 极度危险\n> ☐ 有能力废除的Apollyon级项目\n> ☑ 昂贵\n> ☐ 伦理顾虑超出收容必要\n> ☑ 法律顾虑\n> ☐ K级情景风险高（若是如此，请说明具体类型（多种类型）：@@____@@）\n> ☑ 其他（请说明）：因果悖论造成的时间现象，有未知且极可能不利的影响。//- Dr. D. Eon//\n> \n> **概要：**收容SCP-4456的巨额成本以及在这麽做之后的延伸法律后果，使得持续收容过于昂贵和无效率。此外，项目的收容失效可能导致其的指数复制，且很快变得不可收拾，最终引起注意。最后，我们已知晓根据文件4456-A，SCP-4456最终会被销毁，且如果其未被销毁，可能会造成一些形式的因果悖论。//- Dr. C. Bold//\n> \n> ^^*必须有3级以上权限。^^\n\n[[/collapsible]]\n\n**附录4456.3：**SCP-4456被批准进行废除。废除程序以彻底焚化SCP-4456来进行；所有灰烬或焦痕形式的残骸在瞬间消失。对SCP-4456的废除被正式宣布为成功。\n\n[[footnoteblock]]\n\n[[div class=\"footer-wikiwalk-nav\"]]\n[[=]]\n<< [[[Responsible Promotion|负责任的晋升]]] | SCP-4456-D - 没人期望西班牙废除！ | [[[Mission Decommission|任务：废除]]] >>\n[[/=]]\n[[/div]]\n\n[[div class=\"footer-wikiwalk-nav\"]]\n[[=]]\n<< [[[SCP-4455]]] | SCP-4456-D | [[[SCP-4457]]] >>\n[[/=]]\n[[/div]]\n\n[[include :scp-wiki-cn:component:license-box\n|author=Calibold\n|translator=\n]]\n=====\n> **文件名：** https://scp-wiki.wdfiles.com/local--files/scp-4456/I%20ship%20it\n> **图片名：** DSC08443 - El Galeón - THE END\n> **作者：** Dennis Jarvis\n> **授权协议：** CC-by-SA 2.0\n> **来源链接：** https://www.flickr.com/photos/22490717@N02/36286967086/\n=====\n[[include :scp-wiki-cn:component:license-box-end]]",
+  "tags": [
+    "bold主管",
+    "scp",
+    "交换",
+    "军事",
+    "历史性",
+    "废除部",
+    "悖论",
+    "敌意",
+    "时间影响",
+    "被废除"
+  ],
+  "author": "ashausesall",
+  "created_at": "2019-11-09T13:37:46+00:00",
+  "updated_at": "2023-07-13T06:57:55+00:00",
+  "rating": 19,
+  "_site": "scp-wiki-cn",
+  "_fullname": "scp-4456"
+}

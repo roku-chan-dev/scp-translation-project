@@ -1,0 +1,14 @@
+{
+  "title": "fragment:scp-5045b",
+  "content": "[[module css]]\n@import url('https://fonts.googleapis.com/css?family=Caveat&display=swap');\n@import url('https://fonts.googleapis.com/css?family=Didact+Gothic&display=swap');\n\n\ndiv#container-wrap {\n     background: url(\"https://scpko.wdfiles.com/local--files/scp-5045/light_bg2.png\") top left repeat-x;\n}\n\n#side-bar .side-block {\n    background: #000000;\n}\n\n#side-bar div.side-block:nth-child(7) > div:nth-child(1) > div:nth-child(1) img {\n    filter: none;\n    -webkit-filter: none;\n}\n\n#side-bar .scpnet-interwiki-wrapper {\n    width: 0em;\n}\n\nbody {\n    background-color: #000000;\n    font-family: 'Didact Gothic', monospace;\n    color: #000000;\n}\n\n#page-title {\n  text-align: center;\n}\n\n#header h1 span {\n    color: transparent;\n    text-shadow: none;\n}\n \n#header h1 span::before {\n     content: '농부의 농가';\n     color: #32CD32;\n     text-shadow: 1px 1px 1px rgba(0,0,0,.8);\n}\n\n#header {background-image: url()}\n#header h2 span {\n    color: transparent;\n    text-shadow: none;\n}\n \n#header h2 span::before {\n     content: '나는 묻지 않았어';\n     color: #FF00FF;\n     text-shadow: 1px 1px 1px rgba(0,0,0,.8);\n}\n[[/module]]\n\n@@ @@\n> **이반 셰브 연구원:** (울음소리)\n@@ @@\n\n@@ @@\n\n@@ @@\n\n> **농부:** 이제 된 것 같군, 파트너.\n\n@@ @@\n\n@@ @@\n\n@@ @@\n@@ @@\n\n\n@@ @@\n\n@@ @@\n\n@@ @@\n\n@@ @@\n\n@@ @@\n\n@@ @@\n\n@@ @@\n\n@@ @@\n@@ @@\n\n\n@@ @@\n\n@@ @@\n\n@@ @@\n\n@@ @@\n\n@@ @@\n\n@@ @@\n\n@@ @@\n\n@@ @@\n@@ @@\n\n\n@@ @@\n\n@@ @@\n\n@@ @@\n\n@@ @@\n\n@@ @@\n\n@@ @@\n\n@@ @@\n\n@@ @@\n\n@@ @@\n@@ @@\n\n\n@@ @@\n\n@@ @@\n\n@@ @@\n\n@@ @@\n\n@@ @@\n\n@@ @@\n\n@@ @@\n\n@@ @@\n@@ @@\n\n\n@@ @@\n\n@@ @@\n\n@@ @@\n\n@@ @@\n\n@@ @@\n\n@@ @@\n\n@@ @@\n\n@@ @@\n@@ @@\n\n\n@@ @@\n\n@@ @@\n\n@@ @@\n\n@@ @@\n\n@@ @@\n\n@@ @@\n\n> **농부:** 오? 이건 또 뭘까...\n@@ @@\n\n@@ @@\n\n@@ @@\n\n@@ @@\n\n@@ @@\n\n@@ @@\n\n@@ @@\n\n\n@@ @@\n\n@@ @@\n\n@@ @@\n\n@@ @@\n\n@@ @@\n\n@@ @@\n\n@@ @@\n@@ @@\n\n@@ @@\n\n@@ @@\n\n@@ @@\n\n@@ @@\n\n@@ @@\n\n@@ @@\n\n@@ @@\n\n@@ @@\n\n@@ @@\n\n@@ @@\n\n@@ @@\n\n@@ @@\n\n@@ @@\n\n@@ @@\n\n@@ @@\n\n@@ @@\n\n@@ @@\n\n@@ @@\n\n@@ @@\n\n@@ @@\n@@ @@\n\n@@ @@\n\n@@ @@\n\n@@ @@\n\n@@ @@\n\n@@ @@\n\n@@ @@\n\n@@ @@\n\n@@ @@\n\n@@ @@\n\n@@ @@\n\n@@ @@\n\n@@ @@\n\n@@ @@\n\n\n@@ @@\n\n[[image http://scpko.wdfiles.com/local--files/scp-5045/uhoh.png link=\"http://scpko.wdfiles.com/local--files/scp-5045/theend.png\"]]\n\n[[include :scpko:component:earthworm\n| first=false | last=false | hub=no\n| previous-url=/michael-the-kiler | previous-title= 살인자 마이클\n| next-url=/erics-mega-zine-vol-50-the-cutout-room | next-title=에릭의 메가 진 50호\n| hub-url=/ | hub-title=그저 꿈일 뿐]]",
+  "tags": [
+    "en",
+    "조각문서"
+  ],
+  "author": "quilt",
+  "created_at": "2024-02-01T06:46:32+00:00",
+  "updated_at": "2024-02-02T01:03:55+00:00",
+  "rating": 0,
+  "_site": "scpko",
+  "_fullname": "fragment:scp-5045b"
+}

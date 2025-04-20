@@ -1,0 +1,14 @@
+{
+  "title": "Monkeysky's Author Page",
+  "content": "[[>]]\n[[module Rate]]\n[[/>]]\n\nHi, I'm Monkeysky (AKA Schuyler, Sky or September). I'm a neurobiologist. \n\nAs of now, I have written a few SCPs and non-SCP articles, and haven't added much information since I first realized I should make an author page. Feel free to leave a comment if there's something you'd like explained or talked about.\n\nMore of my stuff can be found at [https://september-xyzx.neocities.org/ my personal site].\n\n[[module ListPages created_by=\"monkeysky\" order=\"commented on desc\" separate=\"no\" tags=\"scp\" perPage=\"250\" prependLine=\"||~ SCP Number ||~ Rating ||~ Comments ||~ Created ||~ Commented On ||\"]] \n|| %%title_linked%% || %%rating%% || %%comments%% || %%created_at|%D%% || %%commented_at|%D%% ||\n[[/module]]\n\n[[module ListPages created_by=\"monkeysky\" order=\"commented on desc\" separate=\"no\" tags=\"-scp\" perPage=\"250\" prependLine=\"||~ Title ||~ Rating ||~ Comments ||~ Created ||~ Commented On ||\"]] \n|| %%title_linked%% || %%rating%% || %%comments%% || %%created_at|%D%% || %%commented_at|%D%% ||\n[[/module]]\n\nFun Facts:\n\n* I once found a forum posts stating that someone had been roleplaying as [[[SCP-1163]]] on a Gary's Mod server. I have never been able to find more information about this.\n* My friend Ratking made [https://scp-wiki.wikidot.com/art:ratking666-s-art-exchange-gift-2022 this awesome artwork of 1163] for the 2022 secret santa gift exchange.\n* I am the actual owner and creator of the stuffed animal photographed in [[[SCP-7071]]], but it isn't actually named Wiggly.\n\n[[include :scp-wiki:component:license-box]]\n[[include :scp-wiki:component:license-box-end]]",
+  "tags": [
+    "_licensebox",
+    "author"
+  ],
+  "author": "Monkeysky",
+  "created_at": "2017-06-11T21:33:07+00:00",
+  "updated_at": "2024-10-29T02:25:50+00:00",
+  "rating": 32,
+  "_site": "scp-wiki",
+  "_fullname": "monkeysky-s-author-page"
+}

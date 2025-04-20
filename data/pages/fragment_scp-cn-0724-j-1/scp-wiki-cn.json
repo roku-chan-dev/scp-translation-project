@@ -1,0 +1,13 @@
+{
+  "title": "异常文档",
+  "content": "+ 警告\n\n##darkred|//此文档已被O5议会指定归档，即将从数据库删除，禁止编辑此页内容。//##\n\n[[include :scp-wiki-cn:component:anomaly-class-bar-source\n|lang= cn\n|item-number= 0724-j\n|clearance= 4\n|container-class= keter\n|secondary-class= none\n|disruption-class= ekhi\n|risk-class= 危险\n]]\n\n[[include component:image-block name= http://ayicefish.wdfiles.com/local--files/main/tai%20na%20ka%20ritsu|caption=收容中的SCP-CN-0724-J]]\n\n**特殊收容措施：**SCP-CN-0724-J被收容于Site-CN-02的一间标准人形收容室，需要随时有至少两名安保人员进行看守，且不能与项目视线接触，防止收容失效。项目应尽快被转移至其它站点，以免威胁周围居民安全。\n\n**描述：**SCP-CN-0724-J是一个在Site-CN-02发现的一个异常生物，起源未知。其外观与人类十分相似。项目对人类具有极高的敌意，其肌肉力量异常巨大，可以轻松对接触到的物体施加5000N以上的力，奔跑速度高达50km/h。它具有强大的机体恢复能力，很难被常规弹药、电击、炸弹等伤害；也不受到任何化学药剂的作用。项目不需要进食和休息。\n\n项目会试图杀死、破坏一切发现的人类以及阻碍其前行的物体。目前已知项目的攻击方式有：\n\n* 勒颈。\n* 撕碎人类个体。\n* 用拳砸碎人类个体的头部。\n* 用随手抓取的建筑材料等重物砸向受害者。\n* [数据删除]\n\nSCP-CN-0724-J似乎听觉、嗅觉、触觉失灵，它仅仅依靠视力寻找并杀死发现的人类；在未发现任何人类个体时则会变得温和。利用该性质可以从项目的背后袭击并捕获、收容。\n\n项目最开始于24/07/2023在Site-CN-02被发现。其攻击了大量站点员工、安保人员，破坏了大量设施并离开站点。--站点主管Icefish及时呼叫并率领机动特遣小队MTF-fake-01收容了项目--基金会高级管理人员Dr.ZR及时呼叫并率领机动特遣小队MTF-fake-02，采用灵活战术控制并收容了该异常，避免其进入附近的城市威胁居民生命安全。目前项目正在被等待转移。",
+  "tags": [
+    "段落"
+  ],
+  "author": "Ice_fish",
+  "created_at": "2023-07-27T14:36:15+00:00",
+  "updated_at": "2023-11-13T06:34:19+00:00",
+  "rating": -2,
+  "_site": "scp-wiki-cn",
+  "_fullname": "fragment:scp-cn-0724-j-1"
+}

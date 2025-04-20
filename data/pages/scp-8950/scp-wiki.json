@@ -1,0 +1,19 @@
+{
+  "title": "SCP-8950",
+  "content": "[[include :scp-wiki:theme:dark]]\n\n[[include :scp-wiki:component:bhl-dark-sidebar]]\n[[include :scp-wiki:component:toggle-sidebar-bhl]]\n[[module CSS]]\n[[include :scp-wiki:component:fade-in speed=1.5]]\n\n[[include :scp-wiki:info:start]]\n[[=]]\n**SCP-8950 - Itsy**\n\n//”Can you read between the Morse code lines?” - Will Wood//\n[[/=]]\n@@ @@\nImage can be found [[[https://upload.wikimedia.org/wikipedia/commons/6/60/Bedroom_with_marine_puzzles_on_wall.jpg|here]]].\n\n**Author:** Doctor Scrappy\n[[include :scp-wiki:info:end]]\n[[include :scp-wiki:component:ratio-bar base=--]]\n\n@@ @@\n\n[[include :scp-wiki:component:acs-animation]]\n[[include :scp-wiki:component:anomaly-class-bar-source\n|item-number=8950\n|clearance=2\n|container-class=pending\n|secondary-class=N/A\n|secondary-icon=pending\n|disruption-class=dark\n|risk-class=notice\n]]\n\n------\n[[=]]\n__**{{SPECIAL CONTAINMENT PROCEDURES}}**__\n[[/=]]\n------\n@@ @@\nSCP-8950 is under the jurisdiction of the [[[SCP-8255|Department of Unconfirmed Anomalies]]]. Due to the nature of the event, containment is not feasible, nor required. Efforts are to focus on the distribution of misinformation of a quadruple homicide.\n@@ @@\n------\n[[=]]\n__**{{DESCRIPTION}}**__\n[[/=]]\n\n------\n@@ @@\nSCP-8950 designates the murder of the Raikō family. Further information is in [APPENDIX 8950-002].\n@@ @@\n------\n[[=]]\n**{{APPENDIX [8950-001] - HISTORY}}**\n[[/=]]\n------\n@@ @@\nOn 11/18/2024, 09:13 JST, neighbor Hakari ██████[[footnote]] Surname redacted per civilian privacy protocols. [[/footnote]] discovered the members of the Raikō family deceased in their apartment.\n\nDue to the unexplainable nature of the event, Foundation operatives embedded within local law enforcement investigated the situation. The incident was subsequently designated as an extranormal event. //(See APPENDIX [8950-002] for further information.)//\n@@ @@\n------\n[[=]]\n**{{APPENDIX [8950-002]}}**\n[[/=]]\n------\n@@ @@\nThe following is a list of the members of the Raikō family upon discovery.\n\n[[include component:image-block name=https://upload.wikimedia.org/wikipedia/commons/6/60/Bedroom_with_marine_puzzles_on_wall.jpg|caption=Bedroom (closet not visible).]]\n\n[[=]]\n||~ NAME ||~ DESCRIPTION ||~ LOCATION ||~ STATUS ||\n|| //Akira Raikō// || //Male, 12// || //Bedroom// || //Found in closet. Body partially dissolved by unidentified substance.// ||\n|| //Mai Raikō// || //Female, 19// || //Bathroom// || //Located on ceiling. Fixed to the ceiling by unidentified silk-like material. Facial orifices display signs of breach from inside.// ||\n|| //Chyio Raikō// || //Female, 47// || //Dining Room// || //Self-inflicted gunshot wound to the back of the throat. Traces of earth on subject’s clothes.// ||\n|| //Akihiko Raikō// || //Male, 46// || //Kitchen// || //Lying on the floor. Laceration wound in chest. Kitchen knife coated in same unidentified substance. 21 skulls strewn near subject. Analysis identified each of the skulls to belong to children gone missing in the last 10 years.//  ||\n[[/=]]\n@@ @@\nUpon further questioning of Hakari ██████, an unidentified individual wearing long robes had reportedly entered the Raikō family’s residence prior. Statement transcribed as follows:\n\n> **//”[...] and he-- she-- was wearing long robes. Like [...] a monk, of sorts [...]”//**\n@@ @@\n------\n\n@@ @@\n\n[[=]]\n[[include :scp-wiki:component:license-box]]\n[[include :scp-wiki:component:license-box-end]]\n[[/=]]\n\n[[div class=\"footer-wikiwalk-nav\"]]\n[[=]]\n<< [[[SCP-8949]]] | SCP-8950 | [[[SCP-8951]]] >>\n[[/=]]\n[[/div]]",
+  "tags": [
+    "arachnid",
+    "body-horror",
+    "murder-monster",
+    "mystery",
+    "pending",
+    "phenomenon",
+    "scp"
+  ],
+  "author": "Doctor Scrappy ",
+  "created_at": "2024-11-17T23:40:06+00:00",
+  "updated_at": "2024-11-17T23:51:53+00:00",
+  "rating": 6,
+  "_site": "scp-wiki",
+  "_fullname": "scp-8950"
+}

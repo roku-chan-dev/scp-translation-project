@@ -1,0 +1,19 @@
+{
+  "title": "SCP-1565-KO",
+  "content": "[[module ListPages  category=\"fragment\" parent=\".\" limit=\"1\" order=\"created_at\" offset=\"@URL|0\"]]\n%%content%%\n[[/module]]\n\n[!--\n\nhttp://scpko.wikidot.com/fragment:scp-1565-ko-0\nhttp://scpko.wikidot.com/fragment:scp-1565-ko-1\n\n\n--]",
+  "tags": [
+    "ko",
+    "scp",
+    "곤충",
+    "열",
+    "외부차원",
+    "유클리드",
+    "종"
+  ],
+  "author": "POI_Damgi",
+  "created_at": "2025-02-14T07:39:39+00:00",
+  "updated_at": "2025-02-14T07:46:08+00:00",
+  "rating": 7,
+  "_site": "scpko",
+  "_fullname": "scp-1565-ko"
+}

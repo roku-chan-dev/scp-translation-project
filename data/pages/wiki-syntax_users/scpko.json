@@ -1,0 +1,14 @@
+{
+  "title": "사용자",
+  "content": "||~ 이렇게 쓰면 ||~ 이렇게 나옵니다 ||~ 비고 ||\n|| {{@@[[user@@ //사용자명//]]}} _\n e.g. {{@@[[user shfoakdls]]@@}} ||  [[user shfoakdls]] || 사용자 정보 (사용자 아이콘 없음)||\n|| {{@@[[*user@@ //사용자명//]]}} _\n e.g. {{@@[[*user shfoakdls]]@@}} ||  [[*user shfoakdls]] || 사용자 정보 (사용자 아이콘 있음)||",
+  "tags": [
+    "관리",
+    "안내"
+  ],
+  "author": "Dr Devan",
+  "created_at": "2014-12-25T10:35:33+00:00",
+  "updated_at": "2014-12-25T10:36:24+00:00",
+  "rating": 0,
+  "_site": "scpko",
+  "_fullname": "wiki-syntax:users"
+}

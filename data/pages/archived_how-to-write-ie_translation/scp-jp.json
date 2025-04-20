@@ -1,0 +1,16 @@
+{
+  "title": "翻訳投稿ガイド（IE用）-ARC",
+  "content": "[[include how-to-write:post-translation]]\n------\n[[=]]\n**[[[how-to-write-ie:index|]]]**\n**投稿ガイド**\n[[[how-to-write-ie:scp|]]] | [[[how-to-write-ie:tale|]]] | [[[how-to-write-ie:translation|]]]\n[[/=]]\n[[module css]]\n.footnav{\ndisplay:none;\n}\n[[/module]]",
+  "tags": [
+    "jp",
+    "アーカイブ済み",
+    "ガイド",
+    "執筆"
+  ],
+  "author": "Nanimono Demonai",
+  "created_at": "2019-01-03T03:50:42+00:00",
+  "updated_at": "2021-10-08T10:25:03+00:00",
+  "rating": 5,
+  "_site": "scp-jp",
+  "_fullname": "archived:how-to-write-ie:translation"
+}

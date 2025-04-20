@@ -1,0 +1,18 @@
+{
+  "title": "SCP-6285",
+  "content": "[[include :scp-wiki:theme:black-highlighter-theme]]\n\n[[include :scp-wiki:component:bhl-dark-sidebar]]\n\n[[include :scp-wiki:component:pride-highlighter |inc-bi-alt= --]]]\n**项目编号：**SCP-6285\n\n**项目等级：**Safe\n\n**特殊收容措施：**基金会在地质机构与新闻组织内部安插的的卧底将进行针对多佛白崖的虚假信息宣传；对外宣称受腐蚀的悬崖面是水力侵蚀造成的。 公共卫生指南还将建议在悬崖朝向大海的一侧设立500米的禁区，原因是存在落石与危险水体等风险。\n\n多佛白崖的受腐蚀部分将被仿真材料填充孔洞以修复。[[footnote]]目前，基金会正在使用树脂改良型玻璃离子粘固剂，正在对其他可行的材料进行研究。[[/footnote]]并使用过氧化氢对褪色部分进行漂白处理。\n\n[[>]]\n[[include component:image-block\n| name=https://scp-wiki.wdfiles.com/local--files/scp-6285/Streptococcus_mutans_01.jpg\n| caption=//变异链球菌//\n| width=300px\n]]\n[[/>]]\n\n**描述：**SCP-6285是由//变异链球菌//和//乳酸杆菌//组成的异常种群。SCP-6285并不生存在某个宿主的唾液中，而是主要栖息于英格兰东南部多佛白崖和周围海域的高盐度液滴中，尽管在其他海岸线的悬崖峭壁上也发现了少量该种群；这使得基金会科学家将SCP-6285实例的出现年代追溯到30亿年前。\n\n[[>]]\n[[include component:image-block\n| name=https://scp-wiki.wdfiles.com/local--files/scp-6285/white_cliffs.jpg\n| caption=//多佛白崖//\n| width=300px\n]]\n[[/>]]\n\nSCP-6285实例将悬崖及附近地区的许多动植物群当作食物来源。进食过程中，它们会发酵食物中的糖分，释放出大量乳酸。这导致悬崖面逐渐被大量侵蚀。 一年内，侵蚀量大约为22厘米到30厘米，通常集中在小范围内。[[footnote]]近年来侵蚀速度不断加快。[[/footnote]]\n\n**附录6285-001：**2021年7月12日，一支研究海底地质的潜水队在英吉利海峡法国海岸附近发现了未经记录的海底悬崖。进一步调查发现，该海底悬崖上栖息着多个SCP-6285种群。此外，该悬崖线的形状和大小与多佛白崖大致相同。\n\n**附录6285-002：**在2022年10月20日至2023年6月8日期间，基金会注意到，在距离多佛白崖最西端约5公里的一个300米x110米的区域内，SCP-6285的密度突然增加。此外，悬崖面的腐蚀和褪色速度已经上升至每年5米。基金会对此的遏制措施以失败告终。\n\n2023年9月27日，英吉利海峡发生了里氏7级地震。英吉利海峡两侧的英国和法国海岸都进行了群众疏散，随后，高达20米的海啸袭击了两岸。[[footnote]]两岸总共约有5000人死亡，60000人受伤。[[/footnote]]\n\n基金会成员返回多佛白崖时，前文提到的腐蚀加剧的区域已被海啸完全清除。\n\n**附录6285-003：**2024年1月10日，一艘在英吉利海峡研究SCP-6285的基金会研究船从雷达上消失，失去了联系。与此同时，英吉利海峡发生了里氏9级地震。[[footnote]]两岸总共约有8000人死亡，100000人受伤。[[/footnote]]海岸线上的目击者表示，英吉利海峡似乎在一瞬间“消失”了，同时，在英吉利海峡工作的一些船舶工人声称目睹了天空突然被黑暗笼罩的景象。[[footnote]]对可能产生的精神作用的调查正在进行中。[[/footnote]]对失联船只的搜寻仍在进行中。\n\n[[footnoteblock]]\n\n[[div class=”footer-wikiwalk-nav”]]\n[[=]]\n<< [[[SCP-6284]]] | SCP-6285 | [[[SCP-6286]]] >>\n[[/=]]\n[[/div]]\n[[include :scp-wiki-cn:component:license-box\n|author=OCuin]]\n=====\n**图像 1**\n> **文件名：**Streptococcus_mutans_01\n> **作者：**Dominic Byrd-McDevitt\n> **协议：**Public Domain\n> **来源链接：**https://commons.wikimedia.org/wiki/File:Streptococcus_mutans_01.jpg\n\n**图像 2**\n> **文件名：**white_cliffs.jpg\n> **名称：**White Cliffs of Dover 07\n> **作者：**Immanuel Giel\n> **协议：**CC BY-SA 3.0\n> **来源链接：**https://commons.wikimedia.org/wiki/File:White_Cliffs_of_Dover_07.JPG\n=====\n[[include :scp-wiki-cn:component:license-box-end]]",
+  "tags": [
+    "safe",
+    "scp",
+    "地质",
+    "水生",
+    "细菌",
+    "腐蚀性"
+  ],
+  "author": "Skywalkerjoke",
+  "created_at": "2024-01-20T22:20:05+00:00",
+  "updated_at": "2024-01-20T22:23:54+00:00",
+  "rating": 4,
+  "_site": "scp-wiki-cn",
+  "_fullname": "scp-6285"
+}

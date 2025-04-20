@@ -1,0 +1,20 @@
+{
+  "title": "SCP-1542",
+  "content": "[[module ListPages category=\"fragment\" parent=\".\" order=\"created_at\" limit=\"1\" offset=\"@URL|0\"]]\n%%content%%\n[[/module]]\n\n\n[!-- https://scp-wiki-cn.wikidot.com/fragment:scp-1542-1\nhttps://scp-wiki-cn.wikidot.com/fragment:scp-1542-2\nhttps://scp-wiki-cn.wikidot.com/fragment:scp-1542-3 --]\n\n\n[[include :scp-wiki-cn:component:license-box\n|author=Uncle Nicolini\n|translator=Ryan Jam\n]]\n=====\n> **文件名：** cat-1.jpg\n> **图像名：** Kitty Bims - a member of the expedition of the icebreaker Sibiryakov 1932\n> **图像作者：** Pyotr Novitsky\n> **授权协议：**公有领域\n> **来源链接：**[https://commons.wikimedia.org/wiki/File:Kitty_Bims_-_a_member_of_the_expedition_of_the_icebreaker_Sibiryakov_1932.jpg Wikimedia Commons]\n\n> **文件名：**cat-2.jpg\n> **图像名：**Panama Canal construction LCCN2006680089\n> **图像作者：**Miscellaneous Items in High Demand, PPOC, Library of Congress\n> **授权协议：**公有领域\n> **来源链接：**[https://commons.wikimedia.org/wiki/File:Panama_Canal_construction_LCCN2006680089.jpg Wikimedia Commons]\n\n> **文件名：**cat-3.jpg\n> **图像名：**Cat illness 2\n> **图像作者：**Francesco Canu\n> **授权协议：**CC BY-SA 4.0\n> **来源链接：**[https://commons.wikimedia.org/wiki/File:Cat_illness_2.jpg Wikimedia Commons]\n\n> **文件名：**cat-4.jpg\n> **图像名：**Cat's eyes glowing in the dark\n> **图像作者：**Nemesis Inferno\n> **授权协议：**CC BY-SA 4.0\n> **来源链接：**[https://commons.wikimedia.org/wiki/File:Cat%27s_eyes_glowing_in_the_dark.jpg Wikimedia Commons]\n\n> **文件名：**cat-5.png\n> **图像名：**cat-5.png\n> **图像作者：**[[*user DC_Yerko]]\n> **授权协议：**CC BY-SA 3.0\n> **来源链接：**[https://scp-wiki.wikidot.com/scp-1542 SCP Wiki]\n\n> **文件名：**cat-6.jpg\n> **图像名：**in the dark\n> **图像作者：**Jochen Spalding\n> **授权协议：**CC BY-SA 3.0\n> **来源链接：**[https://www.flickr.com/photos/b_lumenkraft/9799828104/in/photolist-fVYFtw-6YwU6b-47JtUU-b4XYqt-4ebBvW-71V45g-a1XsvZ-7rQhi6-8HBq4A-7CgvBM-JbPMt7-dtMpXU-2nSEtUq-4UyHww-4U7Wbe-iZHSgA-8wLNVa-26RyFvM-8i3Sz-2oKHYmC-2oKHYcz-9ZR9sx-dSuk2-2hbPBih-73eaUT-2jFhtK1-5kDmGz-2iJ7FgK-5HwZ1W-2juv7ap-fEpspY-7zvZfY-6pyVfJ-rroEsT-2mCgY1V-2gViCB8-ByV8y9-2mPYpDT-2mRtGTQ-6R9foE-oLB7T3-bUmfND-5rSQoJ-BTL84g-B4wZmQ-8KCeuS-cj4Ets-4FTrq5-hHBV2w-coidn7/ Flickr]\n\n[[include :scp-wiki-cn:component:license-box-end]]\n[[div class=\"footer-wikiwalk-nav\"]]\n[[=]]\n<< [[[SCP-1541]]] | SCP-1542 | [[[SCP-1543]]] >>\n[[/=]]\n[[/div]]",
+  "tags": [
+    "marw",
+    "scp",
+    "动物",
+    "反熵",
+    "已解明",
+    "活体",
+    "猫科",
+    "鬼魂"
+  ],
+  "author": "Ryan Jam",
+  "created_at": "2024-10-11T12:25:31+00:00",
+  "updated_at": "2024-10-11T12:33:31+00:00",
+  "rating": 2,
+  "_site": "scp-wiki-cn",
+  "_fullname": "scp-1542"
+}

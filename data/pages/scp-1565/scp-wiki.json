@@ -1,0 +1,20 @@
+{
+  "title": "SCP-1565",
+  "content": "[[include :scp-wiki:theme:classic]]\n[[>]]\n[[module Rate]]\n[[/>]]\n\n[[include component:image-block\n    name=kingdomcome.jpg|\n    caption=SCP-1565 in the Hellas Planitia\n]]\n\n**Item #:** SCP-1565\n\n**Object Class:** Safe\n\n**Special Containment Procedures:** Due to their isolated location and self-containing nature, direct containment of SCP-1565 has been deemed infeasible and unnecessary. \n\nFoundation elements embedded in space agencies are to redirect all planned Martian exploration missions at least 10 km from SCP-1565. Any satellite images possibly revealing the existence of SCP-1565 are to be edited accordingly.\n\n**Description:** SCP-1565 denotes a group of 37 common snapping turtles (//Chelydra serpentina//) residing within an irregularly shaped area on Hellas, the largest impact crater on Mars. SCP-1565 instances are visually indistinguishable from nonanomalous snapping turtles, but exhibit several differences in behavior:\n\n* SCP-1565 instances neither require nutrition, nor excrete waste. \n* SCP-1565 instances show no signs of aging.\n* SCP-1565 instances are capable of 'swimming' into and beneath the Martian surface.\n* Every 119 days, SCP-1565 instances arrange themselves in an inward-facing triangular array, then disperse.\n* SCP-1565 instances are nearly impervious to damage, except from SCP-1565-A (see Addendum).\n\nSCP-1565-A is a translucent green barrier surrounding the area containing the SCP-1565 instances. SCP-1565-A is impervious to gases and maintains an internal atmosphere of 65% sulfur dioxide, 29% carbon dioxide, and 6% argon. SCP-1565-A fluctuates in shape, and has been shrinking by approximately 0.012% per decade. \n\nSCP-1565 instances have been recorded diving as deep as 600 m beneath the Martian surface. Sensors attached to these instances detected the presence of large corroded subterranean metal structures.\n\nInitial attempts to further examine these ruins were hampered by SCP-1565 instances diving down and blocking probes with their shells. Following restraint of the SCP-1565 instances, probes determined the metal structures to be the remains of large spires carved with intricate reliefs of turtle-like shapes. Electronic interference caused by high amounts of radiation emitted from below the spires' bases prevented further exploration.\n\n**Addendum 1565-01:** After applying a force exceeding 100 kN to an instance of SCP-1565 (as part of an attempt to remove it from SCP-1565-A), its shell was shattered and its body dismembered. \n\nAnalysis revealed that the SCP-1565 instance contained a secondary internal casing underneath its shell, housing the vital organs. This casing is designated SCP-1565-B, and replaces the spine and ribs expected in nonanomalous turtles. SCP-1565-B is composed of a lead-cadmium-beryllium layered composite, designed to block ionizing radiation. It includes several electronic components, some of which are responsible for SCP-1565's preservation, as well as a receiver antenna and a green, crystalline great dodecahedron acting as data storage. \n\nDuring routine testing, illuminating one specific face of the crystal with X-rays generated a holographic image depicting the surface of Mars in detail (albeit inaccurately; the image was missing most of Mars' impact craters) with 47 bright points scattered across its surface. One point corresponds to SCP-1565-A's location; exploration of the remaining locations is pending approval.\n\n[[div class=\"footer-wikiwalk-nav\"]]\n[[=]]\n<< [[[SCP-1564]]] | SCP-1565 | [[[SCP-1566]]] >>\n[[/=]]\n[[/div]]",
+  "tags": [
+    "_cc",
+    "animal",
+    "biological",
+    "electrical",
+    "extraterrestrial",
+    "rewrite",
+    "safe",
+    "scp"
+  ],
+  "author": "Weryllium",
+  "created_at": "2018-07-28T06:02:10+00:00",
+  "updated_at": "2022-10-02T07:44:10+00:00",
+  "rating": 86,
+  "_site": "scp-wiki",
+  "_fullname": "scp-1565"
+}

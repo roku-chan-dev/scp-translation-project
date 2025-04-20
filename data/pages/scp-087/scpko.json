@@ -1,0 +1,20 @@
+{
+  "title": "SCP-087",
+  "content": "[[include info:start]]\n**SCP-087:** 계단통\n**저자:** [[*user Zaeyde]]\n**원작:** http://scp-wiki.net/scp-087\n**역자:** [[*user Salamander724]]\n[[include info:end]]\n\n[[div class=\"scp-image-block block-right\" style=\"width: 300px;]]\n[[html]]\n<img id=\"stairs\" src=\"https://scp-wiki.wdfiles.com/local--files/scp-087/087stair.png\" alt=\"\" class=\"image\" width=\"300\">\n<script language=\"JavaScript\">\nif (Math.random() < 0.5) {\n  document.getElementById(\"stairs\").src = \"https://scp-wiki.wdfiles.com/local--files/scp-087/087stairface.png\";\n}\n</script>\n[[/html]]\n[[div class=\"scp-image-caption\" style=\"width:300px;\"]]\n사진 A: 탐사 I의 비디오 영상에서 골라낸 정지 영상\n[[/div]]\n[[/div]]\n\n**일련번호:** SCP-087\n\n**등급:** 유클리드\n\n**특수 격리 절차:**  SCP-087은 [편집됨] 대학교 캠퍼스에 위치해 있다. SCP-087로 통하는 문은 전자 자물쇠가 달려 있는 강화 강철로 만들어져 있다. 이 문은 건물의 건축 양식과 비슷한 수위실 문으로 위장되어 있다. 자물쇠는 열쇠를 반시계 방향으로 돌리면서 ██ 볼트의 전압을 걸어주지 않으면 열리지 않는다. 문 안쪽에는 산업용 발포 고무 충전재를 6 센티미터 두께로 붙여 놓았다.\n\n마지막 탐사(문서 087-IV 참고) 이후 SCP-087에 접근하는 것은 금지되고 있다.\n\n\n**설명:**  SCP-087은 불이 켜져 있지 않은 층계참식 계단이다. 38도 각도로 내려가는 13칸의 계단을 내려가면 지름 약 3미터의 반원형 층계참이 나타난다. 각 층계참마다 계단이 내려가는 방향은 180도씩 반대로 꺾인다. 안이 어둡기 때문에 SCP-087은 층계참 1.5개 밑으로는 육안 관측이 불가능하다. 내부에 조명 기구나 창문이 존재하지 않기 때문에, SCP-087 내부를 탐사할 시 광원이 필수적이다. 빛은 75와트보다 더 밝을 필요가 없는데, SCP-087이 여분의 빛을 흡수하는 것으로 보이기 때문이다.\n\n탐사자들의 보고서와 녹음 기록으로 보아, 첫 번째 층계참에서 약 200 미터 아래로 내려간 지점에서 울면서 애원하는 어린이의 목소리가 들리는 것이 확인된다. 그러나 그 소리의 근원에 가까이 가려는 시도는 모두 실패했다. 가장 긴 탐사였던 탐사 IV 당시, 하강 깊이는 건물의 구조와 지질 환경상 절대 불가능한 깊이였다. 그러므로 SCP-087에 끝 지점이 있는지는 밝혀지지 않았다.\n\n[[include component:image-block name=https://scp-wiki.wdfiles.com/local--files/scp-087/087face.jpg|caption=사진 B: SCP-087-1; 탐사 I에서 찍은 사진을 확대한 것. (사진 A 참조)|width=150px|align=left]]\n\nD계급 인원을 이용한 SCP-087 탐사는 총 네 번에 걸쳐 이루어졌다. 매 탐사마다 탐사자는 SCP-087-1이라는 존재와 조우했는데, 이 존재는 눈동자, 콧구멍 또는 입이 없었다. SCP-087-1의 정체는 완전히 불확실하지만, 애원하는 목소리의 원인이 아니라는 것은 확실하다. 탐사자들은 SCP-087-1을 맞닥뜨렸을 때 강렬한 피해망상과 공포의 감정을 표출했으나, 이 감정이 비정상적인 원인에 의한 것인지, 아니면 자연스러운 반응인지는 밝혀지지 않았다.\n\n**부록:**\n탐사 IV 이후 2주동안 [편집됨] 대학의 교직원들과 학생들이 SCP-087 안에서 1 ~ 2초 주기의 문 두드리는 소리가 난다고 주장했다. 재단 측에서는 문 안쪽에 산업용 충전재를 6 센티미터 두께로 발라 넣었다. 이후 문 두드리는 소리가 난다는 얘기들은 없어졌다.\n\n허가된 인원은 탐사 I ~ IV의 녹취물인 문서 087-I ~ 087-IV를 열람할 수 있다.\n[[[document-087-i|문서 087-I]]]\n[[[document-087-ii |문서 087-II]]]\n[[[document-087-iii |문서 087-III]]]\n[데이터 말소]",
+  "tags": [
+    "en",
+    "scp",
+    "건물",
+    "공간",
+    "빛",
+    "위치",
+    "유클리드",
+    "음향"
+  ],
+  "author": "Salamander724",
+  "created_at": "2012-11-22T06:48:52+00:00",
+  "updated_at": "2024-11-27T02:08:11+00:00",
+  "rating": 48,
+  "_site": "scpko",
+  "_fullname": "scp-087"
+}

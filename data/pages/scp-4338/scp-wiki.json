@@ -1,0 +1,25 @@
+{
+  "title": "SCP-4338",
+  "content": "[[>]]\n[[module Rate]]\n[[/>]]\n\n[[module ListPages  category=\"fragment\" parent=\".\" limit=\"1\" order=\"created_at\" offset=\"@URL|0\"]]\n%%content%%\n[[/module]]\n\n[!-- http://scp-wiki.wikidot.com/fragment:scp-4338-1 --]\n[!-- http://scp-wiki.wikidot.com/fragment:scp-4338-2 --]\n[!-- http://scp-wiki.wikidot.com/fragment:scp-4338-3 --]\n\n[[footnoteblock]]\n[[div class=\"footer-wikiwalk-nav\"]]\n[[=]]\n<< [[[SCP-4337]]] | SCP-4338 | [[[SCP-4339]]] >>\n[[/=]]\n[[/div]]",
+  "tags": [
+    "_cc",
+    "_listpages",
+    "alive",
+    "ethics-committee",
+    "geological",
+    "hostile",
+    "ritual",
+    "safe",
+    "sapient",
+    "scp",
+    "sphere",
+    "subterranean",
+    "telepathic"
+  ],
+  "author": "T Rutherford",
+  "created_at": "2019-07-02T15:55:00+00:00",
+  "updated_at": "2022-10-01T18:13:00+00:00",
+  "rating": 471,
+  "_site": "scp-wiki",
+  "_fullname": "scp-4338"
+}

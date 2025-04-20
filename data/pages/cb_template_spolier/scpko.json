@@ -1,0 +1,14 @@
+{
+  "title": "cb:틀:스포일러",
+  "content": "[[div class=\"spoiler\"]]\n[[span style=\"color:#f57900\"]]경고:[[/span]] 이하 내용은 게임 진행상의 스포일러를 포함할 수 있음.\n[[/div]]\n\n{$content}\n\n[[div class=\"spoiler\"]]\n스포일러 끝.\n[[/div]]\n\n[[module css]]\n.spoiler {\n    margin: 1em 0 1em 2em;\n    background-color: transparent;\n    clear: both;\n    text-align: left;\n    font-size: 95%;\n    font-weight: bold;\n}\n[[/module]]",
+  "tags": [
+    "cb",
+    "템플릿"
+  ],
+  "author": "Dr Devan",
+  "created_at": "2014-12-14T04:30:23+00:00",
+  "updated_at": "2015-06-12T06:48:09+00:00",
+  "rating": 0,
+  "_site": "scpko",
+  "_fullname": "cb:template:spolier"
+}

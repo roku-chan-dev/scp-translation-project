@@ -1,0 +1,14 @@
+{
+  "title": "PORA 版式",
+  "content": "[[module css]]\n\n@import url(\"https://nu-scptheme.github.io/Black-Highlighter/css/min/normalize.min.css\");\n@import url(\"https://nu-scptheme.github.io/Black-Highlighter/css/min/black-highlighter.min.css\");\n@import url('https://fonts.googleapis.com/css2?family=Russo+One&display=swap');\n\n\n:root:lang(cn) {\n  --header-title: \"“阿格里夫”运动组织\";\n  --header-subtitle: \"战斗即胜利\";\n  --logo-image: url(\"http://scp-ukrainian.wdfiles.com/local--files/theme%3Apora/GOI_PORA.png\");\n  --header-font: 'Russo One', sans-serif;\n  --gradient-header: url(\"http://scp-ukrainian.wdfiles.com/local--files/theme%3Apora/pora-head.png\");\n}\n\n#header h2 span {\n  line-height: 2;\n}\n:is(div.rate-box-with-credit-button div.page-rate-widget-box,div.page-rate-widget-box) .rate-points {\n    background-color: transparent !important;\n}\n\n[[/module]]\n\n[[iftags +版式]]\n[[>]]\n[[module Rate]]\n[[/>]]\n> 本版式基于[[[theme:black-highlighter-theme|黑色标记笔]]]开发。此变体由[[*user Dasgot]]改编。[http://scp-ukrainian.wdfiles.com/local--files/theme%3Apora/GOI_PORA.png “阿格里夫”运动组织的LOGO]作者为[[*user Comrade Xander]]。\n\n要在文章中使用此版式，请在页面顶部添加以下代码：\n[[code]][[include :scp-wiki-cn:theme:pora]][[/code]]\n[[/iftags]]",
+  "tags": [
+    "ua",
+    "版式"
+  ],
+  "author": "Hppp",
+  "created_at": "2025-03-12T08:50:26+00:00",
+  "updated_at": "2025-03-12T08:50:37+00:00",
+  "rating": 1,
+  "_site": "scp-wiki-cn",
+  "_fullname": "theme:pora"
+}

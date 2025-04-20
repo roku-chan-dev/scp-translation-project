@@ -1,0 +1,19 @@
+{
+  "title": "SCP-4107",
+  "content": "[[module CSS]]\n\nul li {\nmargin-bottom:5px;\n}\n\n.pictures4mobile {\n    height: 0px;\n    overflow: hidden;\n}\n\n.pictures4desk {\n    height: auto;\n}\n\n@media only screen and (max-width: 600px) {\n\n    .journal-logs {\n        margin: 0% 4% 0% 4%;\n    }\n\n    .pictures4mobile {\n        height: auto;\n    }\n\n    .pictures4desk {\n        height: 0px;\n        overflow: hidden;\n    }\n\n}\n\n[[/module]]\n\n------\n\n[[table style=\"border: none; width : 100%;\"]]\n[[row]]\n[[cell]]\n[[size 125%]]**项目编号：**SCP-4107[[/size]]\n[[/cell]]\n[[cell style=\"text-align: right; padding-right:25px;\"]]\n[[size 125%]]###990000|**3/4107级**##[[/size]]\n[[/cell]]\n[[/row]]\n[[row]]\n[[cell]]\n[[size 125%]]**项目等级：**Euclid[[/size]]\n[[/cell]]\n[[cell style=\"text-align: right;padding-right:25px;\"]]\n[[size 125%]]###990000|**机密**##[[/size]]\n[[/cell]]\n[[/row]]\n[[/table]]\n\n------\n[[div class=\"pictures4desk\"]]\n[[include component:image-block name=http://scp-wiki.wdfiles.com/local--files/scp-4107/dead.jpg|width=250px|align=right|caption=已知最早的SCP-4107尸体照片。]]\n[[/div]]\n\n[[div class=\"pictures4mobile\"]]\n[[include component:image-block name=http://scp-wiki.wdfiles.com/local--files/scp-4107/dead.jpg|width=250px|align=center|caption=已知最早的SCP-4107尸体照片。]]\n[[/div]]\n\n**特殊收容措施：**二十四具SCP-4107已被防腐保存，展示于Site-14以供更多研究及未来版本的比对。若发现有其他SCP-4107出现，应分析其独特特点，若无则将其焚化处置。人员在从执法机构处取得尸体时应使用标准反情报程序。\n\n**描述：**SCP-4107是一系列人类尸体，表现为同一名美国女性的多具遗体。SCP-4107个体自20世纪早期开始在美国大陆地区被断续发现，均有相同的伤口、基因构成和死亡年龄。成功进行的鉴证调查中均会相近似的死亡情景。到2019年1月，已确认到311个版本的SCP-4107。\n\n目前，研究无法确认原本的死亡发生于何时，或这样一个原本事件到底是否存在。已知最早的SCP-4107记录来自一份1902年的亚拉巴马州验尸官报告，其中将死者列为女无名氏。\n\n在SCP-4107相关案例中未发现凶杀嫌疑人。对其中任何死亡均无可信目击证词，也未有人在死亡前见到被害人。SCP-4107的身份仍然未知。 \n\n伤害包括如下：\n\n* 左前臂内侧有一用锯齿刃留下的切口。伤口长8.9厘米，一直延伸到尺骨深处。在暴露的骨骼上可见刮擦痕迹。刮擦与制造切口的刀刃不符，确信是由人类指甲留下。\n* 所有非外来牙齿已被强行拔除，但在下颌内仍有若干牙根留存，推测是在拔除时断裂。周边牙龈被锯齿刃片从上下颌骨上刮除。\n* 松散的乳牙和牙齿残片在其口中和食道内被发现。牙齿在基因上匹配SCP-4107，且在牙齿年龄上表现为从儿童时期就属于受害者。 \n* 每根手指、脚趾的指甲基底处都有两道平行切口。外皮沿切口被剥去，指甲在根处被撕裂。\n* 大部分头皮毛发被编在一起缝在上背部，令其颈部和头部向后弯曲成固定姿势。缝合没有明显规律。 \n\n死因被归为失血。所有伤口确信是在死前留下。所有案例中，证据均表明受害者在受到大部分伤害的时间到死亡时刻间曾更换衣物。偶尔也会在周边发现其他受害者死前活动的痕迹，诸如脚印和未吃完的食物。\n\nSCP-4107具有另一次要异常，其无法以任何方式与//某一特定行动//一同描述。在任何交流媒介、用以描述SCP-4107的专门术语、通过暗示和潜台词来进行的规避尝试中，此效应均会持续。因此，//所指行动//的具体性质在概念上与SCP-4107文件不相容，且无法在此处或其他任何文件中加以解释。 \n\n鼓励指派到SCP-4107的人员从上文的特定信息缺失中对//前述行动//进行推测。\n\n[[div class=\"footer-wikiwalk-nav\"]]\n[[=]]\n<< [[[SCP-4106]]] | SCP-4107 | [[[SCP-4108]]] >>\n[[/=]]\n[[/div]]",
+  "tags": [
+    "euclid",
+    "meta",
+    "scp",
+    "人形生物",
+    "尸体",
+    "循环",
+    "逆模因"
+  ],
+  "author": "ashausesall",
+  "created_at": "2019-04-07T14:07:46+00:00",
+  "updated_at": "2019-04-08T01:56:00+00:00",
+  "rating": 7,
+  "_site": "scp-wiki-cn",
+  "_fullname": "scp-4107"
+}

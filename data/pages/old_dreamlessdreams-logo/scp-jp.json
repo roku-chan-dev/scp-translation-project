@@ -1,0 +1,16 @@
+{
+  "title": "物理少年—ロゴ＆区切り線（記録用:http://scp-zh-tr.wikidot.com/dreamlessdreams-logo-logo）",
+  "content": "[[include :scp-jp:theme:penumbra]]\n[[module css]]\n:root: {\n  --header-title: \"\";\n  --header-subtitle: \" \";\n  --lgurl: url(\"http://scp-jp-storage.wikidot.com/local--files/file:3266034-409-nygk/bslogo2.png\");\n  --accentColor: #ADD8E6;\n}\n\n[[/module]]\n[[>]]\n[[module rate]]\n[[/>]]\n[[div style=\"margin-top: 6px;\"]]\n[[/div]]\n[[include :scp-zh-tr:component:author-label-source start=--\n|name= LuLu_Lucifelle\n|no-right-margin=*]]\n[[*user Dr V Valentine]]のイメージ提供に感謝\n\n[[include :scp-zh-tr:component:author-label-source end=--]]\n\n\n[[=]]\n\n　[[footnote]]訳注: 原文ではここに『[https://w.atwiki.jp/hmiku/pages/36233.html ドリームレス・ドリームス]』の中国語版歌詞が引用されている。[[/footnote]]\n\n[[/=]]\n\n[[=image http://scp-jp-storage.wikidot.com/local--files/file:3266034-413-rijw/bsline3.png height=\"120px\"]]\n\n\n> はい、こちらは物理少年カノンの付属ページです。物理少年にまつわる作品を書く際は、これらの小道具を使って作品を飾り立てることができます。\n\n\n@@ @@\n\n[[include component:image-block name=http://scp-jp-storage.wikidot.com/local--files/file:3266034-408-qn2p/bslogo1.png|caption=ミーヤロゴ(黒) |width=400px |align=center]]\n\n@@ @@\n\n[[include component:image-block name=http://scp-jp-storage.wikidot.com/local--files/file:3266034-409-nygk/bslogo2.png|caption=ミーヤロゴ(白) |width=400px |align=center]]\n\n@@ @@\n\n[[include component:image-block name=http://scp-jp-storage.wikidot.com/local--files/file:3266034-410-ot4g/bsline1.png|caption=ミーヤ区切り線(黑) |width=800px |align=center]]\n\n@@ @@\n\n[[include component:image-block name=http://scp-jp-storage.wikidot.com/local--files/file:3266034-411-q0gx/bsline2.png|caption=ミーヤ区切り線(黒) (赤眼)|width=800px |align=center]]\n\n@@ @@\n\n[[include component:image-block name=http://scp-jp-storage.wikidot.com/local--files/file:3266034-412-37gb/bsline4.png|caption=ミーヤ区切り線(白)|width=800px |align=center]]\n\n@@ @@\n\n[[include component:image-block name=http://scp-jp-storage.wikidot.com/local--files/file:3266034-413-rijw/bsline3.png|caption=ミーヤ区切り線(白)(赤眼)|width=800px |align=center]]\n\n------",
+  "tags": [
+    "zh",
+    "アートワーク",
+    "元記事削除",
+    "物理少年"
+  ],
+  "author": "snoj",
+  "created_at": "2022-09-28T20:46:04+00:00",
+  "updated_at": "2022-10-27T11:23:31+00:00",
+  "rating": -6,
+  "_site": "scp-jp",
+  "_fullname": "old:dreamlessdreams-logo"
+}

@@ -1,0 +1,20 @@
+{
+  "title": "SCP-3099-JP",
+  "content": "[[module css]]\n.fa-info:before {\n    content: \"\\f091\";\n}\n.contest {\nbackground-image: linear-gradient(349deg, rgba(229,138,61,.9), rgba(217,139,43,.9), rgba(168,80,21,.9), rgba(260,164,79,.9));\nborder: 1px solid transparent;\nborder-radius: 1px;\ntext-shadow: 1px 2px 3px rgba(0,0,0,0.35);\nborder-radius: 2px;\nborder-width: 2px;\ncolor: #fff;\nfont-family: BauhausLTDemi,Arial,sans-serif;\nfont-size: 110%;\nmargin: 0 0.3em;\ntext-align: center;\ntext-shadow: 3px 3px 5px #000;\ncursor: pointer;\n}\n\n.contest a {\nbackground-color: transparent!important;\ncolor: #fff!important;\nfont-weight: bold;\ntransition: text-shadow 0.3s;\n}\n\n.contest a:hover {\ntext-decoration: none;\ntext-shadow: 1px 2px 5px rgba(255,255,255,0.9);\n}\n\n.contest span:before, .contest span:after {\ncontent: \"\\f091\";\ndisplay: inline-block;\nfont: normal normal normal 14px/1 FontAwesome;\ntext-rendering: auto;\n-webkit-font-smoothing: antialiased;\n-moz-osx-font-smoothing: grayscale;\nmargin: 0.3em;\n}\n.contest p span {\ntransition: font-size 0.6s 0.2s;\ntext-rendering: auto;\n-webkit-font-smoothing: antialiased;\n-moz-osx-font-smoothing: grayscale;\ncursor: auto;\n}\n.contest p a, .contest:hover p span {\nfont-size: 1.1em;\n}\n\n#u-credit-view .modalbox {\n    box-sizing: border-box;\n    border: 2ex solid rgba(0,0,0,0.5);\n    border-image: url(\"https://scp-jp.wdfiles.com/local--files/component%3Acredit-top-sp/gold.png\") 475 round;\n    border-image-width: 6;\n    background: radial-gradient(rgba(205, 205, 165, 0.95) 0, #fff 100%);\n    background: -webkit-radial-gradient(rgba(205, 205, 165, 0.95) 0, #fff 100%);\n    filter: grayscale(45%);\n}\n[[/module]]\n\n[[include :scp-wiki-cn:credit:start-standalone]]\n**标题：**SCP-3099-JP - 经常把人当对手的家伙\n**作者：**[[*user OwlCat]]\n**译者：**[[*user Backlight SH]]\n**校对：**[[*user Mint Chocolate]]\n**发布年份：**2023年\n\n[[div class=\"contest\"]]\n[*http://scp-jp.wikidot.com/xcontest2023-hub 2023X之竞赛]\n[[span]]SCP部门 铜奖[[/span]]\n[[/div]]\n[[include :scp-wiki-cn:credit:end-standalone]]\n\n**项目编号：**SCP-3099-JP\n\n**项目等级：**Euclid\n\n**特殊收容措施：**SCP-3099-JP目前收容于Site-8123的专用饲育区划内。投喂和处理排泄物等工作均需使用D级人员，且工作结束后立即对其执行A级记忆删除。\n\n**描述：**SCP-3099-JP为37头年龄各不相同的杂种犬，其中22头是年龄不详的高龄犬只，6头年龄在5~10岁左右，其余9头则是产后数月左右。项目是基金会前台组织[[footnote]]作为动物保护团体活动。[[/footnote]]在多所住宅内回收，发现个体的住宅中原本的居住者均下落不明。进一步调查表明失踪人员均在经济上较为困窘，且由于脱离社会无法判断失踪的具体时间，目前尚不明确其与SCP-3099-JP存在怎样的直接关联。\n\nSCP-3099-JP可以引发多种认知危害，其目的是为了让自身引起注意。上述的认知危害可通过A级记忆删除消除。认知危害随项目个体的行动而有所不同，但至少已经发现个体的下述行为可以引发特定的认知危害。\n\n* **发出叫声：**认知到该行为的人员会增加对SCP-3099-JP的关心。\n\n* **伸出舌头：**认知到该行为的人员不肯舍弃SCP-3099-JP。\n\n* **露出肚子：**认知到该行为的人员对SCP-3099-JP产生依恋。\n\n* **排泄：**认知到该行为的人员会积极处理SCP-3099-JP的排泄物。\n\n* **蹦跳：**认知到该行为的人员会对SCP-3099-JP进行过誉的称赞。\n\n* **在人膝上睡觉：**认知到该行为的人员会抚摸SCP-3099-JP头部。\n\n* **盯着人眼看：**认知到该行为的人员会认为SCP-3099-JP本性善良。\n\n* **杀死昆虫或小动物：**认知到该行为的人员会认为SCP-3099-JP比自己更优。\n\n* **骑跨行为：**认知到该行为的人员会因此想象SCP-3099-JP至今为止受到的痛苦。\n\n* **睡眠：**认知到该行为的人员会抱有“想和它一起待着”的欲望。\n\n* **饮食：**认知到该行为的人员会对饮食是否符合SCP-3099-JP口味而不安。\n\n* **交配：**认知到该行为的人员会尝试对SCP-3099-JP提供性服务。\n\n* **咬指甲：**认知到此行为的人员将SCP-3099-JP认知为犬，与债务问题无关。\n\n* **吠叫：**认知到此行为的人员将对SCP-3099-JP极力称赞，并反复对高收入者进行侮辱。\n\n* **舔脸：**认知到此行为的人员将称赞SCP-3099-JP的智慧，同时对大学毕业生和硕士生进行批评。\n\n* **摇尾巴：**认知到此行为的人员将称赞SCP-3099-JP的美，并反复出现诋毁艺人容貌的言词。[[footnote]]此时可观察到SCP-3099-JP出现“满足”的表情。[[/footnote]]\n\n* **露齿笑：**认知到此行为的人员将SCP-3099-JP认知为犬，与《日本国宪法》第26条第二款、第27条第一款、第30条[[footnote]]第26条第二款：一切国民，按照法律规定，都负有使受其保护的子女接受普通教育的义务。义务教育为免费教育。\n第27条第一款：一切国民都享有劳动的权利，承担劳动的义务。\n第30条：国民有按照法律规定纳税的义务。 _\n以上即日本国民三大义务。[[/footnote]]无关。\n\n* **啮咬他人：**被咬者会声称SCP-3099-JP是一只好狗狗，并仰躺露出肚皮。\n@@ @@\n**附录：**SCP-3099-JP被基金会发现以前一直由当地的居民饲养，它们因此获得了丰富的饮食，亦经常受到一定程度的关心和爱护。项目被基金会收容时对当地的居民执行了记忆删除，但随后的跟进调查发现当地的大学升学率、离职率、离婚率略有增加。虽然尚不明确与项目的关联，目前仍在研究对居民执行持续监视。",
+  "tags": [
+    "2023x竞赛",
+    "euclid",
+    "jp",
+    "scp",
+    "动物",
+    "拟态",
+    "犬类",
+    "认知危害"
+  ],
+  "author": "Backlight SH",
+  "created_at": "2023-10-03T08:37:23+00:00",
+  "updated_at": "2024-11-17T07:42:26+00:00",
+  "rating": 3,
+  "_site": "scp-wiki-cn",
+  "_fullname": "scp-3099-jp"
+}

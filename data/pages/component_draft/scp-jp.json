@@ -1,0 +1,15 @@
+{
+  "title": "Draft maintenance by Nanimono_Demonai",
+  "content": "[!--\n/*\nDraft Markup like GitHub\nby ikr_4185\nthanks Nanimono-Demonai\nhttp://sugoi-chirimenjako-pain.wikidot.com/component:draft\n*/\n\n// LESS\n// used http://winless.org/online-less-compiler\n\n.mixin_b_a(@content, @color){\n  @darken: darken(@color, 60%);\n  @saturate: saturate(@darken, 10%);\n  &::before {\n    padding-left: 5px;\n    content: @content;\n    color: @saturate;\n    font-weight: bold;\n  }\n  &::after {\n    content: \" \";\n    padding-right: 5px;\n  }\n}\n.mixin_n_o(@content, @color){\n  display: inline-block;\n  background: @color;\n  .mixin_b_a(@content,@color);\n}\n#page-content{\n  span{\n    &[style$=\"new\"] {\n      .mixin_n_o(\"+ \",#eaffea);\n    }\n    &[style$=\"old\"] {\n      .mixin_n_o(\"- \",#ffecec);\n    }\n  }\n  .new {\n    margin-right: 5px;\n    .mixin_n_o(\"+ \",#eaffea);\n  }\n  .old {\n    margin-right: 5px;\n    .mixin_n_o(\"- \",#ffecec);\n  }\n}\n--]\n[[module CSS]]\n#page-content span[style$=\"new\"] {\n  display: inline-block;\n  background: #eaffea;\n}\n#page-content span[style$=\"new\"]::before {\n  padding-left: 5px;\n  content: \"+ \";\n  color: #00b700;\n  font-weight: bold;\n}\n#page-content span[style$=\"new\"]::after {\n  content: \" \";\n  padding-right: 5px;\n}\n#page-content span[style$=\"old\"] {\n  display: inline-block;\n  background: #ffecec;\n}\n#page-content span[style$=\"old\"]::before {\n  padding-left: 5px;\n  content: \"- \";\n  color: #b90000;\n  font-weight: bold;\n}\n#page-content span[style$=\"old\"]::after {\n  content: \" \";\n  padding-right: 5px;\n}\n#page-content .new {\n  margin-right: 5px;\n  display: inline-block;\n  background: #eaffea;\n}\n#page-content .new::before {\n  padding-left: 5px;\n  content: \"+ \";\n  color: #00b700;\n  font-weight: bold;\n}\n#page-content .new::after {\n  content: \" \";\n  padding-right: 5px;\n}\n#page-content .old {\n  margin-right: 5px;\n  display: inline-block;\n  background: #ffecec;\n}\n#page-content .old::before {\n  padding-left: 5px;\n  content: \"- \";\n  color: #b90000;\n  font-weight: bold;\n}\n#page-content .old::after {\n  content: \" \";\n  padding-right: 5px;\n}\n\n[[/module]]\n\n[!--\n//thank you 遠野司書\n--]\n\n[[module css]]\n\ndiv.p-tags ul {\n    font-size: 85%;\n    border-top: 1px solid #BBB;\n    display: inline-block;\n    margin: 10px 0 0;\n    padding: 0 2px;\n    list-style: none;\n}\n\ndiv.p-tags li {\n    color: #b01;\n    text-decoration: none;\n    display: inline-block;\n    margin: 0 1px;\n    cursor: pointer;\n}\n\ndiv.p-tags li:hover {\n    text-decoration: underline;\n}\n\n[[/module]]",
+  "tags": [
+    "jp",
+    "コンポーネント",
+    "管理"
+  ],
+  "author": "Nanimono Demonai",
+  "created_at": "2016-10-16T11:38:16+00:00",
+  "updated_at": "2021-12-24T16:56:09+00:00",
+  "rating": 4,
+  "_site": "scp-jp",
+  "_fullname": "component:draft"
+}

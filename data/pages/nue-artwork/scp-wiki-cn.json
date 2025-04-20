@@ -1,0 +1,17 @@
+{
+  "title": "日本分部理事“鵺”",
+  "content": "[[include credit:start-standalone]]\n**标题：**日本分部理事“鵺”\n**作画：** [[*user hitsujikaip]]\n**创作年份：**2020、2022\n[[include credit:end-standalone]]\n\n[[module CSS]]\n@import url('https://fonts.googleapis.com/css2?family=Zen+Antique+Soft&display=swap');\n.vtitle {\n    -webkit-writing-mode: vertical-rl;\n    writing-mode: vertical-rl;\n    margin: 3em auto;\n    height: 12em;\n    font-size: 2.5em;\n    font-family: 'Zen Antique Soft', serif;\n}\n[[/module]]\n\n[[div class=\"vtitle\"]]\n「射干玉の\n　　黒き月か吼ゆる」と\n　　　[http://scp-wiki-cn.wikidot.com/nue-hub 奴延鳥]の\n　　　　のどよひ居るを\n　　　　　よすかと思ふ\n[[/div]]\n\n[[image http://scp-jp-storage.wdfiles.com/local--files/file:6611312-104-i4of/logo.png]]\n\n[[image http://scp-jp-storage.wdfiles.com/local--files/file:6611312-105-2nqw/nue.png]]\n\n[[div style=\"height: 50vh\"]]\n[[/div]]\n\n[[collapsible show=\"归档-1\" hide=\"关闭\"]]\n----\n[http://scp-wiki-cn.wikidot.com/japanese-area-directors 日本分部与日本分部理事会指导手册]\n**作者：**©︎[[*user Kwana]]\n**创作年份：**2014\n----\n[http://scp-wiki-cn.wikidot.com/mishary-s-proposal 禦舍利の提言　第〇〇〇八番]\n**作者：**©︎[[*user Mishary]]\n**创作年份：**2020\n----\n[http://scp-wiki-cn.wikidot.com/scp-1111-jp SCP-1111-JP] - 国体护持\n**作者：**©︎[[*user hannyahara]]\n**创作年份：**2016\n----\n[[image http://scp-jp.wdfiles.com/local--files/nue-artwork/01.png]]\n[[/collapsible]]\n\n[[collapsible show=\"归档-2\" hide=\"关闭\"]]\n[[image http://scp-jp-storage.wikidot.com/local--files/file:6611312-1-tzfa/nue.png]]\n[[/collapsible]]",
+  "tags": [
+    "jp",
+    "扶桑纪",
+    "艺术作品",
+    "蒐集院",
+    "鵺-斋宫"
+  ],
+  "author": "la kanro",
+  "created_at": "2020-08-01T01:40:53+00:00",
+  "updated_at": "2024-05-16T13:16:22+00:00",
+  "rating": 8,
+  "_site": "scp-wiki-cn",
+  "_fullname": "nue-artwork"
+}

@@ -1,0 +1,13 @@
+{
+  "title": "SCP-4069-1",
+  "content": "[[module css]]\n#page-title {\n  display: none;\n}\n[[/module]]\n\n[[=]]\n+ This entry doesn't exist yet!\n[[/=]]\n\n----\n\n[[div style=\"background-color: #600; border: solid 1px #600; border-radius: 20px; color: #fff; width: 450px; margin: 0 auto; font-size: 150%; text-align: center; box-shadow: 0 2px 6px rgba(0,0,0,.5), inset 0 1px rgba(255,255,255,.5), inset 0 10px rgba(255,204,204,.5), inset 0 10px 20px rgba(255,204,204,.3), inset 0 -15px 30px rgba(48,0,0,.5); line-height: 100%; padding: 0 10px;\"]]\n**Do you have approval from IntSCPFN database listings managers?**\n[[/div]]\n\n[[div style=\"background-color: #fff0f0; border: solid 1px #600; border-radius: 20px; color: #300; width: 450px; margin: 20px auto 0; text-align: center; box-shadow: 0 2px 6px rgba(0,0,0,.5); padding: 0 10px;\"]]\nSCP objects may not be formally documented in the International SCP Foundation Network's database until the document has been reviewed by the appropriate personnel. In order to create an SCP document without breaching publications protocols, your Site Director must first approve the object for inclusion on the database and listings managers must review and approve your draft.\n-----\nThis slot is **out of range.** This Item # cannot yet be used for an SCP document. This page has **semi-protected** editing restrictions.\n[[/div]]\n\n[[div style=\"background-color: #fffff0; border: solid 1px #660; border-radius: 20px; color: #330; width: 450px; margin: 20px auto 0; text-align: center; box-shadow: 0 2px 6px rgba(0,0,0,.5); padding: 0 10px;\"]]\nText cannot be uploaded to this page unless full user account permissions are active. Uploading files to this page will automatically notify database screening personnel.\n[[/div]]\n\n------\n\n[[=]]\n**,,[http://www.scp-wiki.net/scp-4069/offset/1 refresh this page],,**\n[[/=]]",
+  "tags": [
+    "fragment"
+  ],
+  "author": null,
+  "created_at": "2018-07-11T19:35:29+00:00",
+  "updated_at": "2021-03-04T22:06:56+00:00",
+  "rating": 1,
+  "_site": "scp-wiki",
+  "_fullname": "fragment:scp-4069-1"
+}

@@ -1,0 +1,25 @@
+{
+  "title": "SCP-6989",
+  "content": "[[module CSS]]\n#page-title {\n    display: none;\n}\n\ndiv.notice-box {\n    background: url(https://scp-wiki.wikidot.com/local--files/theme:basalt/RAISA_LIGHTLOGO.png) #faf2c3;\n    background-size: contain;\n    background-position: top center;\n    background-repeat: no-repeat;\n    border: 1px solid #ccc;\n    padding: 0 10px 12px;\n    margin: 7px 4px 12px;\n    overflow: hidden;\n}\n\ndiv.notice-box div.image-container img {\n    margin: 5px;\n    padding: 2px;\n    border: 1px solid #999;\n}\n[[/module]]\n[[include :scp-wiki-cn:credit:start-standalone]]\nSCP-6989 -- 云啊云啊，无处不在\n由[[*user Jack Waltz]]与[[*user Machen2]]所著。\n\n花了一两个小时打磨出来的东西，我们知道它很短，而且是我流系列，但依然期待你能喜欢它！特别鸣谢 [[*user Ethagon]]，[[*user MoreMuffins]]，[[*user MirageTD]] 和[[*user Doctor Fullham]]！他们在创作过程中提供了很大的帮助。\n\n灵感来自于Tyranids，要是看不出来的话;）\n\n------\n\n[[=]]\n\n+++++ 想了解更多，请瞧一瞧[[[jack-waltz|Jack's]]]和[[[machen2|Machen's]]]！\n[[/=]]\n[[include :scp-wiki-cn:credit:end-standalone]]\n\n[[=]]\n[[div class=\"notice-box\"]]\n[[size 90%]]\n[[size 110%]]**来自记录与信息安全管理部的通知**[[/size]]\n\n[[size 95%]]此文档为过期版本。对该异常进行跟进研究后，两份事故及发现记录已添加。新版本目前由记录与信息安全管理部撰写中。[[/size]]\n[[/size]]\n[[/div]]\n[[/=]]\n\n[[include :scp-wiki-cn:component:image-block\n| name=https://scp-wiki.wdfiles.com/local--files/scp-6989/cumulonimbus-cloud.jpg\n| caption=SCP-6989，由DTF λ-10所摄。\n| width=]]\n**项目编号：**SCP-6989\n**安保许可等级：**3级（机密）\n\n**项目等级：**Keter\n**扰动等级：**1/Dark\n**风险等级：**1/需注意\n\n**特殊收容措施：**由于其规模及其性质，SCP-6989无法以物理方式收容。\n\n已派出机动特遣队λ-10（“观云者”）[[footnote]]该特遣队专攻空中或飞行类异常，此类异常被认为无法按基金会传统方式收容。其主要职能并非收容异常，而是倾向于观察异常、对大众实施记忆清除、以及抹除异常相关数据。[[/footnote]]对SCP-6989进行追踪，并在必要情况下启动记忆清除程序。这一异常的研究工作目前由该特遣队负责。\n\n**描述：**SCP-6989为一独立积雨云，其基线长约2km，高约1km，持椭圆形，且在任何已知环境下均未改变。经λ-10多次观察，该实体似乎已融合了大量云层，但其尺寸并未出现任何增长。\n\nSCP-6989均由水滴及冰晶构成，但未观察到其以任何形式降雨[[footnote]]已证实人工促雨无效。[[/footnote]]，且始终处于运动状态。据λ-10观察报告所述，SCP-6989似乎趋向于大气湿度较高的地区。\n\nSCP-6989可激活强大的局部异常电磁脉冲效应，甚至屏蔽电子设备。该影响只作用于云自身，而不影响任何云外区域。这使得对云的内部分析不可进行。雷达扫描同样受到SCP-6989内部一未知来源的阻碍。\n\n**发现：**2021年1月22日，一不明物体侵入大气层，随后探测到了SCP-6989。与此同时，气象雷达系统定位到了当地出现的非自然积雨云。这两件事之间的关联并未被当作巧合，对此仍在进行调查中。\n\n**事故6989.01（2021/02/26)：**在佛罗里达州迈阿密上空的暴雨天气非正常消失之后，SCP-6989引起了全球超自然联盟的关注。SCP-6989已进入毗邻地区，吸收了产生暴雨的积雨云。“忘川”行动[[footnote]]该行动包括对当地及全球普通民众的大规模记忆清除，只用于因资源要求过多，掩盖内容难以使用的实例。[[/footnote]]迅速在该城市展开。\n\nGOC抵达后，立即着手清除该异常的准备工作。DTF λ-10无法阻止对方部队，其全体成员因而遭到逮捕及拘留。\n\nGOC利用经改装的导弹[[footnote]]接收电磁脉冲而引爆。[[/footnote]]对SCP-6989进行打击。其中前三枚在SCP-6989内部成功引爆，而第四、五枚似与云体内部一坚硬面相触碰。紧接着，SCP-6989中传出一种尖锐刺耳的噪音，并伸出数条似头足类动物的附肢，降落并攻击下方的GOC部队。由稠密生物物质组成的弹丸从SCP-6989处以极大重力势能落下。此次交战后，SCP-6989呈现浅蓝色泽，不久便消失了。\n\n此次事件发生后，基金会与全球超自然联盟很快发起了一场联合行动，助其无效化该异常。\n\n**事故6989.02（2021/02/28)：**据目击者称，SCP-6989试图将另一片积雨云纳入其中。在重击炮的准备过程中，该积雨云试图吸收SCP-6989释放出的多条附肢，并刺穿了SCP-6989。后者似乎在苦苦挣扎，很快被该云融合并吸收。\n\n[[footnoteblock]]\n[[div class=\"footer-wikiwalk-nav\"]]\n[[=]]\n<< [[[SCP-6988]]] | SCP-6989 | [[[SCP-6990]]] >>\n[[/=]]\n[[/div]]\n\n[[include :scp-wiki-cn:component:license-box\n| author=Jack Waltz 与 Machen2]]\n=====\n> **文件名：**cumulonimbus-cloud.jpg\n> **图像名：**Cumulonimbus * una grandiosa nube\n> **图像作者：**jacilluch\n> **授权协议：**CC BY-SA 2.0\n> **来源链接：**[https://search.creativecommons.org/photos/7fdd9e19-819f-47f1-bc4e-aa418aae7eef CC Search]\n=====\n[[include :scp-wiki-cn:component:license-box-end]]",
+  "tags": [
+    "keter",
+    "scp",
+    "全球超自然联盟",
+    "合著",
+    "天空",
+    "头足类动物",
+    "感知力",
+    "无定形",
+    "星际",
+    "未收容",
+    "气象",
+    "生物性",
+    "电磁"
+  ],
+  "author": "Hg-lab",
+  "created_at": "2021-10-21T03:52:48+00:00",
+  "updated_at": "2022-02-10T14:50:23+00:00",
+  "rating": 0,
+  "_site": "scp-wiki-cn",
+  "_fullname": "scp-6989"
+}

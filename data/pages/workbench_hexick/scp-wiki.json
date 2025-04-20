@@ -1,0 +1,13 @@
+{
+  "title": "Hexick's Workbench",
+  "content": "= **She working on my bench 'til I'm CC compliant.**\n-----\n[[module ListPages category=\"_default theme component\" order=\"created_at desc\" tags=\"_image\" \nperPage=\"20\" separate=\"false\" prependLine=\"||~ Page ||~ User ||~ Date ||\"]]\n|| %%title_linked%% || %%created_by_linked%% || %%created_at%% ||\n[[/module]]",
+  "tags": [
+    "workbench"
+  ],
+  "author": "Hexick",
+  "created_at": "2023-02-19T22:38:44+00:00",
+  "updated_at": "2023-02-20T22:46:55+00:00",
+  "rating": 4,
+  "_site": "scp-wiki",
+  "_fullname": "workbench:hexick"
+}

@@ -1,0 +1,22 @@
+{
+  "title": "SCP-5552",
+  "content": "[[module ListPages category=\"fragment\" parent=\".\" limit=\"1\" order=\"created_at\" offset=\"@URL|0\"]]\n%%content%%\n[[/module]]\n\n[[footnoteblock]]\n\n[[div class=\"footer-wikiwalk-nav\"]]\n[[=]]\n<< [[[SCP-5551]]] | SCP-5552 | [[[SCP-5553]]] >>\n[[/=]]\n[[/div]]",
+  "tags": [
+    "meta",
+    "safe",
+    "scp",
+    "全球超自然联盟",
+    "变形",
+    "悖论",
+    "文件",
+    "时间影响",
+    "电子",
+    "超维度"
+  ],
+  "author": "ashausesall",
+  "created_at": "2020-04-19T04:03:00+00:00",
+  "updated_at": "2020-04-19T16:36:05+00:00",
+  "rating": 7,
+  "_site": "scp-wiki-cn",
+  "_fullname": "scp-5552"
+}

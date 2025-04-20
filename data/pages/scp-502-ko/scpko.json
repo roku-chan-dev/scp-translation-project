@@ -1,0 +1,20 @@
+{
+  "title": "SCP-502-KO",
+  "content": "[[include info:start]]\n**##black|SCP-502-KO:##** ##black|--[접근거부]-- Wikidot 메세지가 도착했습니다##\n**##black|저자:##** [[*user blackmagpie]]\n-----\n##black|1판 fragment 링크-## http://scpko.wikidot.com/fragment:scp-502-ko-1\n##black|1판 fragment 편집 전용 링크-## http://scpko.wikidot.com/fragment:scp-502-ko-1/norender/true\n##black|2판 fragment 링크-## http://scpko.wikidot.com/fragment:scp-502-ko-2\n[[include info:end]]\n[[module ListPages category=\"fragment\" parent=\".\" order=\"created_at\" limit=\"1\" offset=\"@URL|0\"]]\n%%content%%\n[[/module]]",
+  "tags": [
+    "ko",
+    "k급-시나리오",
+    "scp",
+    "삼천리-경남",
+    "시간",
+    "역설적",
+    "재단이-만듦",
+    "케테르"
+  ],
+  "author": "Kkachi",
+  "created_at": "2021-08-10T06:18:48+00:00",
+  "updated_at": "2021-08-10T14:20:37+00:00",
+  "rating": 26,
+  "_site": "scpko",
+  "_fullname": "scp-502-ko"
+}

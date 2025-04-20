@@ -1,0 +1,13 @@
+{
+  "title": "Blackdot 1",
+  "content": "[[include :scp-wiki:theme:minimal]]\n\n[[module css]]\n#page-title {\n  display: none;\n}\n\n#header {\n    background: url(https://upload.wikimedia.org/wikipedia/commons/1/13/U%2B25CF.svg) 10px 40px no-repeat;\n}\n\n#header h1 a::before, #header h2 span::before { content: \"\";}\n\nhtml {\n   -webkit-filter: grayscale(1) invert(1); /* Older Webkit */\n  -webkit-filter: grayscale(100%) invert(100%);\n  -moz-filter: grayscale(100%) invert(100%);\n  -ms-filter: grayscale(100%) invert(100%);\n  -o-filter: grayscale(100%) invert(100%);\n  filter: grayscale(100%) invert(100%);\n}\n[[/module]]\n\n= [/art:itsalwaysmeitsalwaysmeitsalwaysmeitsalwaysmeitsalwaysme ●]",
+  "tags": [
+    "fragment"
+  ],
+  "author": "NewFoundDanger",
+  "created_at": "2024-11-11T02:15:37+00:00",
+  "updated_at": "2024-11-11T10:04:11+00:00",
+  "rating": 0,
+  "_site": "scp-wiki",
+  "_fullname": "fragment:blackdot-1"
+}

@@ -1,0 +1,19 @@
+{
+  "title": "SCP-3753",
+  "content": "[[include :scp-wiki-cn:theme:classic]]\n\n[[include component:image-block\n    name=http://scp-wiki.wdfiles.com/local--files/scp-3753/daledalecolitaderana.jpg|\n    caption=SCP-3753\n]]\n**项目编号：**SCP-3753\n\n**项目等级：**Safe\n\n**特殊收容措施：**SCP-3753实体被收容于密封盒内，储藏于适温储物柜中。\n\n**描述：**SCP-3753指代一手工木盒中的119个无商标洋甘菊茶包。\n\n当一名感染疾患或存在躯体病变的人使用SCP-3753泡茶并将产生的茶饮下后，会进入深度睡眠状态。当其苏醒时，对象的病原体或患病器官会从某个适当的孔洞中强制但无痛地排出。排出的物质，编号为SCP-3753-A，将不断增长直到达到对象的大致身高，并生出两条手臂。\n\n此后可听到来源不明的拳击铃声。SCP-3753-A将对对象发起拳击战斗，直到二者中的任一投降或失败出局。目前未知对象如何在维持生命所需的器官被排出时仍保持身体功能。对象会直觉性地意识到SCP-3753的效应，并通常选择与之交战。若对象尝试使用武器攻击SCP-3753-A，SCP-3753-A会简单地消失，而对象的身体将回到原本的状态。\n\n* 若对象胜利，SCP-3753-A会收缩直到化为一团蒸汽消失。对象将再次睡眠，所有消失的器官会重新在其体内出现。在苏醒后，对象会报告称其病情有显著的（通常是完全的）恢复。\n* 若对象未能击败SCP-3753-A，SCP-3753-A将强行重新进入身体，且对象的状态不会改变。\n\n盒子在每天早晨会自发生成一个新的SCP-3753实体。\n\n**已删节SCP-3753测试记录：**\n||~ 编号||~ 对象||~ 疾病||~ SCP-3753-A||~ 胜利者||~ 备注||\n||01||Emma Lister||急性支气管炎||增大的病毒||Lister||基准测试。Lister击昏了SCP-3753-A，后者消散不见。Lister报告了其症状在8小时内完全消失。||\n||03||Rivka Yarkoni博士||应激性溃疡||胃||SCP-3753-A||SCP-3753-A使用“十字固”[[footnote]]**译注：**Armbar，柔术术语。双腿固定敌方胸部和脖颈，然后把敌方的手反关节固定，使敌方屈服。[[/footnote]]制服了Yarkoni博士，之后从嘴部重新进入。Yarkoni报告称溃疡病情没有变化。||\n||08||Rosie主任||脊椎间盘突出||脊椎||Rosie||SCP-3753-A佯败，明显地是在试图突然发动袭击，但仍然被击败。Rosie主任的突出仍然存在，但疼痛大幅减弱。||\n||11||特工Ursula Nunez||高血压和抑郁症。||呈人形的血管系统、大脑[[footnote]]首个有两个单独的SCP-3753-A出现的案例。[[/footnote]]||Nunez||Nunez与两名个体战斗并呼喊各类谩骂。血管系统在被Nunez击败之后消失，此后Nunez对她的大脑施以猛烈的拳打脚踢，甚至在它投降之后依然如此。后续随访报告称，她的高血压明显缓和，5-羟色胺水平增高，抑郁期频率降低。Nunez申请重复使用SCP-3753。||\n||16||Henrik Sturmatem||III期肺癌||癌细胞||SCP-3753-A||Sturmatem与SCP-3753-A进行了22分钟的缠斗与扭打，拒绝投降直到力竭倒下。病情无变化。||\n\n[[footnoteblock]]\n\n[[div class=\"footer-wikiwalk-nav\"]]\n[[=]]\n<< [[[SCP-3752]]] | SCP-3753 | [[[SCP-3754]]] >>\n[[/=]]\n[[/div]]\n\n[[include :scp-wiki-cn:component:license-box\n|author=Weryllium]]\n> **文件名：** daledalecolitaderana.jpg\n> **图像名：** Mugicha Tea bag by CR 01.jpg\n> **图像作者：** Corpse Reviver\n> **授权协议：** CC BY-SA 3.0\n> **来源链接：** [https://commons.wikimedia.org/wiki/File:Mugicha_Tea_bag_by_CR_01.jpg Wikimedia Commons]\n[[include :scp-wiki-cn:component:license-box-end]]",
+  "tags": [
+    "safe",
+    "scp",
+    "医学性",
+    "睡眠",
+    "自我复制",
+    "隔地促动",
+    "食物"
+  ],
+  "author": "W Asriel",
+  "created_at": "2019-02-16T01:37:14+00:00",
+  "updated_at": "2024-05-17T13:12:40+00:00",
+  "rating": 2,
+  "_site": "scp-wiki-cn",
+  "_fullname": "scp-3753"
+}

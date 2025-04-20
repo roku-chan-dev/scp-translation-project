@@ -1,0 +1,11 @@
+{
+  "title": "특집 서식 상자 베이스",
+  "content": "[[div class=\"shadow-panel\"]]\n[[div class=\"content-panel\"]]\n[[div class=\"panel-heading\"]]\n서식\n[[/div]]\n[[div class=\"panel-body\"]]\n\n[[div class=\"feature-title\"]]\n[[[{$link1}|{$title1}]]]\n[[/div]]\n\n[[div class=\"feature-subtitle wide\"]]\n{$author1} 글 / {$translator} 옮김\n[[/div]]\n\n[[/div]]\n[[/div]]\n\n[[div class=\"content-panel button mobile\"]]\n[[/div]]\n\n[[div class=\"content-panel\"]]\n[[div class=\"panel-heading\"]]\n서식 KO\n[[/div]]\n[[div class=\"panel-body\"]]\n\n[[div class=\"feature-title\"]]\n[[[{$link2}|{$title2}]]]\n[[/div]]\n\n[[div class=\"feature-subtitle wide\"]]\n{$author2} 글\n[[/div]]\n\n[[/div]]\n[[/div]]\n\n[[div class=\"content-panel button\"]]\n[[/div]]\n[[/div]]\n\n[[div class=\"button\" style=\"align-self: flex-end;\"]]\n\n[[collapsible show=\"▼\" hide=\"▲\"]]\n\n[[div class=\"content-panel\"]]\n[[div class=\"panel-heading mobile\"]]\n번역 GOI 서식 특집\n[[/div]]\n[[div class=\"panel-body\"]]\n[[div class=\"feature-title mobile\"]]\n[[[{$link1}|{$title1}]]]\n[[/div]]\n\n[[div class=\"feature-subtitle mobile\"]]\n{$author1} 글 / {$translator} 옮김\n[[/div]]\n\n//{$caption1}//\n\n[[div_ style=\"text-align: center; width: 100%; margin: 5px;\"]]\n[[[featured-goi-format-archive|특집 GOI 서식 보관소]]]\n[[/div]]\n[[/div]]\n[[/div]]\n\n[[div class=\"wide\" style=\"width: 15px\"]]\n[[/div]]\n\n[[div class=\"content-panel\"]]\n[[div class=\"panel-heading mobile\"]]\n창작 GOI 서식 특집\n[[/div]]\n[[div class=\"panel-body\"]]\n[[div class=\"feature-title mobile\"]]\n[[[{$link2}|{$title2}]]]\n[[/div]]\n\n[[div class=\"feature-subtitle mobile\"]]\n{$author2} 글\n[[/div]]\n\n//{$caption2}//\n\n[[div_ style=\"text-align: center; width: 100%; margin: 5px;\"]]\n[[[featured-goi-format-ko-archive|특집 한국어 GOI 서식 보관소]]]\n[[/div]]\n[[/div]]\n[[/div]]\n[[/collapsible]]\n\n[[/div]]",
+  "tags": [],
+  "author": "thd-glasses",
+  "created_at": "2024-10-08T11:51:53+00:00",
+  "updated_at": "2024-10-31T14:22:06+00:00",
+  "rating": 0,
+  "_site": "scpko",
+  "_fullname": "component:featured-format-box-base"
+}

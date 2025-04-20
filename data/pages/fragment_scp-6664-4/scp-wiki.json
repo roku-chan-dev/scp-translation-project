@@ -1,0 +1,13 @@
+{
+  "title": "SCP-6664 4",
+  "content": "[[include :scp-wiki:theme:blankstyle acs=a]]\n\n[[include :scp-wiki:component:acs-animation]]\n\n[[div class=\"blockquote\"]]\n//Changes from the original document are highlighted in ##blue|blue##.//\n\n[[/div]]\n\n[[include :scp-wiki:component:anomaly-class-bar-source\n\n    |item-number= SCP-6664\n\n    |clearance= 1\n\n    |container-class= safe\n\n    |secondary-class= none\n\n    |disruption-class= vlam\n\n    |risk-class= warning\n\n    ]]\n\n-----\n\n[[include component:image-block name=treeV.png|align=center|width=100%|caption=SCP-6664 prior to containment.]]\n\n-----\n\n**Special Containment Procedures:** SCP-6664 is to be contained in a greenhouse at ##blue|Site-43##. SCP-6664 is not to be climbed, for fear of damaging its branches.\n\n**Description:** SCP-6664 is a tree of the species //##blue|Pinus banksiana##//, more commonly known as the ##blue|jack pine##, currently located at ##blue|Site-43##. SCP-6664 is identical to other trees of its species, save for its anomalous effects.\n\nSCP-6664's anomalous effects activate whenever ##blue|one of its cones is touched## by ##blue|fire##. When ##blue|fire makes contact with a cone from## SCP-6664, instead of ##blue|opening and dropping its seeds## as expected, ##blue|the cone will violently detonate, releasing a number of seeds not physically able to fit inside the cone at high speeds. Cones produced by SCP-6664 have## been designated SCP-6664-1.\n\nSCP-6664-1 ##blue|are the cones produced by SCP-6664##. SCP-6664-1 ##blue|contain seeds that grow anomalously fast, growing to full size in approximately 4 days. Trees produced from SCP-6664 are otherwise non-anomalous.##\n\n-----\n\n[[=]]\n+ **Addendum 6664.01: Discovery**\n[[/=]]\n\nSCP-6664 was discovered on January 28, 2014, after ##blue|Isabelle Diana##, a ##blue|local teenager##, reported ##blue|lighting sparklers near SCP-6664, and being hit with several seeds at high speed. A nearby off-duty Foundation agent saw the detonation of## SCP-6664-1 and reported it as a possible anomaly. SCP-6664 was subsequently moved to ##blue|Site-43##.\n\n[[div class=\"blockquote\"]]\n//**This file has been locked.**//\n\n//No more edits are being allowed on this page until you all can agree on something. I don't care what SCP-6664 is, just leave the damn file alone. Report back to me when you finally [[[http://scp-wiki.wikidot.com/scp-6664/offset/5| talk it out]]].//\n\n//-Technical Researcher Rosen//\n\n[[/div]]",
+  "tags": [
+    "fragment"
+  ],
+  "author": "Rhineriver",
+  "created_at": "2021-07-02T01:59:40+00:00",
+  "updated_at": "2024-11-16T18:43:00+00:00",
+  "rating": 0,
+  "_site": "scp-wiki",
+  "_fullname": "fragment:scp-6664-4"
+}

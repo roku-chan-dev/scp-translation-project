@@ -1,0 +1,22 @@
+{
+  "title": "SCP-PL-355",
+  "content": "[[include :scp-wiki-cn:theme:pataphysics]]\n\n[[module CSS]]\n .div{margin:0.5em 0;padding:0 1em;background:hsl(0,0%,100%);border:1px solid hsl(000, 000%, 75%)}\n[[/module]]\n\n[[div class=\"div\"]]\n\n[[include :scp-wiki-cn:component:flops-header\n|lang=cn\n|item=PL-355\n|containment=thaumiel\n|level=4\n|security=最高机密\n|disruption=叙事性amida\n|disruption-bg-color=hsl(268, 040%, 25%)\n]]\n\n[[/div]]\n\n[[div class=\"div\"]]\n\n[[size 115%]][[span style=\"color: hsl(268, 040%, 25%); font-weight: bold\"]]特殊收容措施[[/span]][[/size]]\n\n-----\n\n目前，[[span style=\"color: hsl(268, 040%, 25%); font-weight: bold\"]]防火墙计划[[/span]]的重点在于重现SCP-PL-355的效果并在基金会主要设施中安装项目复制品。任何关于[[span style=\"color: hsl(268, 040%, 25%); font-weight: bold\"]]防火墙计划[[/span]]或SCP-PL-355的会议或讨论须在项目中进行。\n\nSCP-PL-355的收容和研究任务被分配给超形上学部和异常建筑部。除O5议会外，只有上述部门人员能够被告知SCP-PL-355的存在。\n\n[[/div]]\n\n[[div class=\"div\"]]\n\n[[size 115%]][[span style=\"color: hsl(268, 040%, 25%); font-weight: bold\"]]描述[[/span]][[/size]]\n\n-----\n\nSCP-PL-355为Site-PL-07内的一间会议室，也是基金会波兰分部超形上学部总部。SCP-PL-355包含标准会议室设施和额外的材料，使得会议时间延长。\n\nSCP-PL-355作为[[span style=\"color: hsl(268, 040%, 25%); font-weight: bold\"]]防火墙计划[[/span]]的一部分由超形上学部和异常建筑部共同建造，目标是创造一个安全区域，从而不受更高叙事层实体的观察。在设计上，SCP-PL-355利用了这一事实，即此类实体需要附着点以观察下层叙事现实，通常称为“第四面墙现象”。\n\n在经过广泛的实验与研究后，异常建筑部人员成功将SCP-PL-355所在区域从概念上与三维几何法则切断，而不产生任何长期的空间异常。因此，SCP-PL-355为一长方体密闭三维空间，不具有第四面墙。这一异常成功阻碍了更高叙事层实体观察SCP-PL-355内部，极大缩小了此类实体的视野。\n\n[[/div]]\n\n[[div class=\"div\"]]\n\n[[size 115%]][[span style=\"color: hsl(268, 040%, 25%); font-weight: bold\"]]附加材料[[/span]][[/size]]\n\n-----\n\n以下为SCP-PL-355进行的第一次会议记录及对其异常性质初步测试的转录。与会者包括超形上学部、异常建筑部与监督者议会的代表。\n\n[[=]]\n[[collapsible show=\"»打开文件«\" hide=\"«文件已打开»\"]]\n\n[[div class=\"div\" style=\"background: rgb(250, 250, 250); font-weight: bold\"]]\n\n会议记录\n\n-----\n\n«记录开始»\n\n[[=image http://z-klant.wikidot.com/local--files/scp-pl-355/White_wall.jpg style=\"width: 100%; border: 1px solid hsl(000, 000%, 75%)\"]]\n\n«记录结束»\n\n[[/div]]\n\n[[/collapsible]]\n[[/=]]\n\n[[div style=\"height: 1em\"]]\n[[/div]]\n\n[[/div]]\n\n[[div class=\"footer-wikiwalk-nav\"]]\n= << [[[SCP-PL-354]]] | SCP-PL-355 | [[[SCP-PL-356]]] >>\n[[/div]]",
+  "tags": [
+    "meta",
+    "pl",
+    "scp",
+    "thaumiel",
+    "二次翻译",
+    "叙述性",
+    "基金会制",
+    "建筑",
+    "概念",
+    "超形上学部"
+  ],
+  "author": "DKande",
+  "created_at": "2023-01-21T04:52:49+00:00",
+  "updated_at": "2023-02-01T13:59:43+00:00",
+  "rating": 7,
+  "_site": "scp-wiki-cn",
+  "_fullname": "scp-pl-355"
+}

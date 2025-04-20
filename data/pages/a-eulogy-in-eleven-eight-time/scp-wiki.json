@@ -1,0 +1,23 @@
+{
+  "title": "A Eulogy In 11/8 Time",
+  "content": "[[>]]\n[[module Rate]]\n[[/>]]\n\n[[module ListPages category=\"fragment\" parent=\".\" order=\"created_at\" limit=\"1\" offset=\"@URL|0\"]]\n%%content%%\n[[/module]]\n\n[!-- For translators, here is a direct link to each iteration. --]\n[!-- https://scp-wiki.wikidot.com/fragment:a-eulogy-in-eleven-eight-time-0/noredirect/true --]\n[!-- https://scp-wiki.wikidot.com/fragment:a-eulogy-in-eleven-eight-time-1/noredirect/true --]\n\n[!-- To make ListPages work correctly, make this main page first, then upload the first iteration and set its parent to the first page. Repeat that for each iteration. Remember to change the offset links at the bottom of each iteration to the the correct link for your site. --]\n\n[[include :scp-wiki:component:license-box]]\n=====\n> **Filename:** FadedGuitar.png\n> **Name:** Bass guitar silhouette\n> **Author:** N/A\n> **License:** Public domain\n> **Source Link:** [https://publicdomainvectors.org/en/free-clipart/Bass-guitar-silhouette/75472.html Public domain vectors]\n=====\n[[include :scp-wiki:component:license-box-end]]",
+  "tags": [
+    "_cc",
+    "_licensebox",
+    "_listpages",
+    "art-exchange",
+    "backdoor-soho",
+    "bittersweet",
+    "fantasy",
+    "slice-of-life",
+    "tale",
+    "the-trashfire",
+    "veronica-fitzroy"
+  ],
+  "author": "Captain Kirby",
+  "created_at": "2022-01-12T19:05:43+00:00",
+  "updated_at": "2024-11-02T09:29:50+00:00",
+  "rating": 54,
+  "_site": "scp-wiki",
+  "_fullname": "a-eulogy-in-eleven-eight-time"
+}

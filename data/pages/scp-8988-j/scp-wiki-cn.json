@@ -1,0 +1,21 @@
+{
+  "title": "SCP-8988-J",
+  "content": "[[module CSS]]\n.collapsible-block-folded, .collapsible-block-unfolded-link {\n  font-weight: bold;\n  text-align: center;\n  margin: 10px 0;\n}\n[[/module]]\n\n[[collapsible show=\"这是什么？\" hide=\"隐藏此声明\"]]\n\n[[=]]\n[[image https://scp-wiki.wdfiles.com/local--files/scp-8988-j/twitch-screenshot style=\"width: 100%; max-width: 600px; border-radius: 8px\" class=\"crom-thumbnail\"]]\n[[/=]]\n\n本文为2024年Crom的愚人节项目**[[[*https://www.twitch.tv/videos/2108089262?t=00h10m00s|“Twitch写一篇SCP”]]]**的成果。继[[[https://zh.wikipedia.org/wiki/Twitch_Plays_Pok%C3%A9mon| “Twitch Plays Pokémon”实验]]]大获成功后，Twitch上一群英勇的作者字字斟酌，花了一晚上时间写了篇SCP。经过大约12个小时的“写作”，最终成品呈现于此（略有改动，部分地方加粗）。本页面一开始显示的是文章的写作过程，每一次改动都使得本页面实时更新！\n\n//您有参与本次活动吗？您是否建议过任何单词（即使最终未被采纳）？如果您在活动期间通过Crom绑定了Twitch与Wikidot帐户，您就会自动入列。否则，请将您的Twitch用户名以私信形式发送给[[*user smlt]]，以便将您归为本文的合著者（前提是您是SCP维基的成员）。//\n\n------\n\n[[/collapsible]]\n\n**项目编号：**SCP-8988\n\n**项目等级：**未收容\n\n**特殊收容措施：**SCP-8988必須每兩週注射一次戊酸雌二醇[[footnote]]與成年人相等體型所使用的劑量一致。[[/footnote]]並由基金會提供一個標準宜家布羅艾鯊魚。鼓励工作人员向站点主管Vriska Williams报告有关SCP-8988的所有目击事件。\n\n**描述：**SCP-8988外貌形似一腹部异常加长的南方长鼻犰狳（//Dasypus Hybridus//）。在滿月期間，SCP-8988將經歷一次變形過程，其甲殼中會出現一經過機械部件身體強化的人形實體，這些機械部件採用了自動超常武器的技術。在24小时后，只有给予了足够的雌二醇，其形态才会恢复。否則，其將會展現出防禦行爲，並試圖蜷縮成球形（雖然不會成功），這期間會導致其嵌入體內的的異常武器系統自動激活。\n\nSCP-8988具有智能且有说话能力，自称“Meryl Mechanicus”[[footnote]]**譯註：**可能是在玩戰錘40k中機械修會（Adeptus Mechanicus）的梗。[[/footnote]]。它的肌肉组织明显，在人形态时适应力强。SCP-8988在承載重物和格鬥術上展現出了極高潛能，但其更喜歡靠非暴力方式解決。它的起源目前未知，但月球调查显示可能是在月球远端一不明地点，一间异常机神教荷尔蒙工厂附近。\n\n**附录-8988-1：采访记录**\n\n> **[记录开始]**\n> \n> **Flanders博士：**你爲啥這麼壯？\n> \n> **SCP-8988：**寶寶我可是WAN本尊親自按照她的規格設計的，哦對了還有就是靠嗑藥。\n> \n> **Flanders博士：**可是WAN是谁啊？\n> \n> **SCP-8988：**是跨性别。\n> \n> **[记录结束]**\n\n**后记：这就是我们跑偏的地方。**\n\n赞美WAN。\n\n**附录-8988-2：超形上學啓示與你**\n\n研究表明异常鲨鱼正在转变为SPC-8988实例，一智能布罗艾鲨鱼物种。它們喜歡女人、金錢和螃蟹。SPC-8988意识到它的起源是跨性别喜悦的弥赛亚。根据一切已知超形上学定律，SCP-8988必须死……！但是，它被SPC-8988和Twitch聊天室的愛所庇佑。",
+  "tags": [
+    "scp",
+    "人形生物",
+    "动物",
+    "合著",
+    "搞笑",
+    "智能",
+    "机密分级",
+    "活物",
+    "破碎之神教会"
+  ],
+  "author": "la kanro",
+  "created_at": "2024-04-02T14:25:56+00:00",
+  "updated_at": "2024-04-19T09:10:27+00:00",
+  "rating": 2,
+  "_site": "scp-wiki-cn",
+  "_fullname": "scp-8988-j"
+}

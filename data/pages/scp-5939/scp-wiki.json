@@ -1,0 +1,22 @@
+{
+  "title": "SCP-5939",
+  "content": "[[>]]\n[[module Rate]]\n[[/>]]\n\n[[module ListPages category=\"fragment\" parent=\".\" order=\"created_at\" limit=\"1\" offset=\"@URL|0\"]]\n%%content%%\n[[/module]]\n\n[!-- http://scp-wiki.wikidot.com/fragment:scp-5939-1 --]\n[!-- http://scp-wiki.wikidot.com/fragment:scp-5939-2 --]\n\n[[footnoteblock]]\n\n[[div class=\"footer-wikiwalk-nav\"]]\n[[=]]\n<< [[[SCP-5938]]] | SCP-5939 | [[[SCP-5940]]] >>\n[[/=]]\n[[/div]]\n\n[[include :scp-wiki:component:license-box]]\n\n> **Image source:** [https://commons.wikimedia.org/wiki/File:Rosa_Precious_platinum.jpg Rose]\n> **Original name:** Rosa Precious platinum\n> **License:** CC 0.10 (public domain is also mentioned)\n> **Original by:** Bernard Spragg on 29 April 2018\n> **Additional note:** I edited the image to resemble a (mostly) black rose.\n\n> **Image source:** [https://commons.wikimedia.org/wiki/File:JNU_White_Rose.jpg SecondRose]\n> **Original name:** JNU White Rose\n> **License:** Creative Commons Attribution-Share Alike 4.0 International\n> **Original by:** [https://commons.wikimedia.org/wiki/User:Pallav.journo Pallav.journo] on 11 September 2009\n\n[[include :scp-wiki:component:license-box-end]]",
+  "tags": [
+    "_cc",
+    "_cc4",
+    "_licensebox",
+    "_listpages",
+    "alive",
+    "liquid",
+    "plant",
+    "safe",
+    "sapient",
+    "scp"
+  ],
+  "author": "Sirslash47",
+  "created_at": "2021-02-26T11:49:28+00:00",
+  "updated_at": "2024-09-09T23:12:50+00:00",
+  "rating": 38,
+  "_site": "scp-wiki",
+  "_fullname": "scp-5939"
+}

@@ -1,0 +1,13 @@
+{
+  "title": "警告板 样版",
+  "content": "[[module css]]\nh1, h2 {\n    text-align: center;\n}\n\n.help {\n    display: flex;\n    align-content: stretch;\n    padding-top: 1em;\n}\n\n.help blockquote {\n    margin: 0;\n    font-size: 85%;\n}\n\n.help blockquote > p {\n    display: flex;\n    flex-wrap: wrap;\n    align-items: center;\n    align-content: center;\n    margin-right: 0;\n    min-height: 2rem;\n    margin: 0;\n}\n\n.help blockquote > p * {\n    margin: 0 0.1rem;\n    height: 100%;\n}\n\n.help blockquote:nth-of-type(1) {\n    background: transparent;\n    border: unset;\n    box-shadow: unset;\n    text-align: right;\n    margin-right: 0;\n    padding: 0;\n}\n\n.help blockquote:nth-of-type(1) > p {\n    justify-content: flex-end;\n}\n\n.help blockquote:nth-of-type(2) {\n    margin-left: 1em;\n    width: 50%;\n}\n[[/module]]\n\n[[include :scp-wiki-cn:component:object-warning-box-source\n|bg-image=http://www.scp-wiki.net/local--files/component:object-warning-box-source/scp-logo.svg\n|bg-opacity=0.15\n|bg-size=contain\n|text-top=根据监督者议会的命令 \n|text-bottom=以下文档为4/2935级机密 \n**禁止未经授权的访问** \n|object-number=2935\n]]\n\n[[iftags +组件]]\n+ 使用方法\n\n++ 1. 复制以下代码。\n++ 2. 跟随底部的指导。\n\n> @@[[include :scp-wiki-cn:component:object-warning-box-source@@\n> @@|bg-image=http://thisisaurl.com@@\n> @@|bg-opacity=0.15@@\n> @@|bg-size=105% 105%@@\n> @@|text-top=根据监督者议会的命令 @@\n> @@|text-bottom=以下文档为4/2935级机密 @@\n> @@**禁止未经授权的访问 **@@\n> @@|object-number=2935@@\n> @@]]@@\n\n[[div_ class=\"help\"]]\n> include组件代码块的起始，**需完整地黏贴在开头** ↦\n> \n> 背景图片 //(默认是SCP标志)// ↦\n> \n> 背景图片透明度 //(SCP标志建议值为0.15)// ↦\n> \n> 背景图片尺寸（默认是完全拉伸//Contain//）↦\n> \n> 顶头文本 //(允许分行)//  ↦\n> \n> 底部文本  //(允许分行)// ↦\n> \n> 还是底部文本 //(注意： 每一行的末尾都需要打上空格)// ↦\n> \n> 项目序列文本 ↦\n> \n> 结束引用块 ↦\n> \n\n> [[include :scp-wiki-cn:component:object-warning-box-source\n> \n> |bg-image=http://thisisaurl.com\n> \n> |bg-opacity=0.15\n> \n> |bg-size=105% 105%\n> \n> |text-top=文本\n> \n> |text-bottom=文本\n> \n> @@**文本**@@\n> \n> |object-number=文本\n> \n> ]]\n> \n[[/div]]\n[[/iftags]]",
+  "tags": [
+    "组件"
+  ],
+  "author": "Etinjat",
+  "created_at": "2019-04-26T04:45:40+00:00",
+  "updated_at": "2023-05-02T09:55:54+00:00",
+  "rating": 6,
+  "_site": "scp-wiki-cn",
+  "_fullname": "component:object-warning-box"
+}

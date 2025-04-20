@@ -1,0 +1,19 @@
+{
+  "title": "SCP-030-J",
+  "content": "[[include :scp-wiki:theme:magnus-web-format]]\n\n[[div class=\"material-box\" style=\"margin-bottom: 5px;\"]]\n[[html]]\n<img src=\"https://upload.wikimedia.org/wikipedia/commons/thumb/e/ec/SCP_Foundation_%28emblem%29.svg/480px-SCP_Foundation_%28emblem%29.svg.png\" style=\"height:75px; width:75px; padding-left: 42.5%;\">\n[[/html]]\n[[div class=\"scp-header\"]]\n**__异常物品条目__**\n[[/div]]\n[[div class=\"scp-info\"]]\n[[div]]\n__**项目编号：**__ SCP-030-J\n[[/div]]\n[[div]]\n__**项目等级：**__ 未收容\n[[/div]]\n[[/div]]\n[[/div]]\n------\n[[div class=\"material-box\"]]\n[[div class=\"title-style\"]]\n++++ __**特殊收容措施**__\n[[/div]]\n目前，由于SCP-030-J的广泛文化性影响，收容行动被认为是不明智的。就其而论，SCP-030-J在进一步通知前被认为未收容，而如果其特定的传染媒介可被隔离的话，等级可被改为Euclid。\n\n直至载体死亡，即在1990年5月16日前目击到SCP-030-J的传染媒介的人类全部死亡后，SCP-030-J将被认为已无效化。\n------\n[[div class=\"title-style\"]]\n++++ __**描述**__\n[[/div]]\nSCP-030-J为一种特殊的声音组合，其将使听者在随后听到触发短语时产生轻微的强制性效应。此种强制性效应为呼唤并回应数个短语，且无其他明显的认知影响。\n\n目前，基金会科学家无法确定SCP-030-J是最初载体的一种模因影响，或是一个简单的信息危害。由于SCP-030-J的影响在其原传染媒介PoI-2844死亡后急剧下降，信息指向了其形成者。\n\n由于PoI-2844于1969年展开的行动，SCP-030-J达到了近乎流行的程度所有受影响人类个体都成为了SCP-030-J的载体，并将影响传播得更广。这些载体进行的二次影响未产生相同的载体效应。这显示出SCP-030-J将会在2090年无效化。\n\n基金会特工仍在探索PoI-2844中SCP-030-J的产生原因，但收效甚微。\n[[/div]]\n[[div class=\"addenda-header\"]]\n+++ **附录**\n[[/div]]\n[[div class=\"material-box \"]]\n[[div class=\"title-style\"]]\n++++ __**附录1：采访记录，PoI-2844**__\n[[/div]]\n[[collapsible show=\"▶ 特工Joaqin Kasim与PoI-2844间访谈的文字记录\" hide=\"关闭文字记录\"]]\n\n下方的采访于1971年记录，由特工Joaqin Kasim与PoI-2844进行。基金会特工注意到，PoI-2844蓄意传播SCP-030-J。由于PoI-2844的名人性，根据当时基金会的科技水平与记忆消除可用性，认为对PoI-2844的收容无法维持。\n\n> **特工Kasim：**“所以，在你感染数百万人时，你认识到了SCP-030-J是异常的吗？”\n> \n> **PoI-2844：**“实际上，认识到了。我也不觉得十分难过，在我做之前，这对我来说就是地狱。”\n> \n> **特工Kasim：**“你这是什么意思？”\n> \n> **PoI-2844：**“所以说，这对你们来说不算什么大事，如果我这么——”\n> \n> **PoI-2844说出了触发短语。特工Kasim重复了反驳短语，并表现出少许烦恼。**\n> \n> **特工Kasim：**“请不要再这么做了，我不喜欢被强迫。”\n> \n> **PoI-2844：**“抱歉，只是因为我发现这么样好玩。之前，我会低声说出——”\n> \n> **特工Kasim举起手** \n> \n> **PoI-2844：**“抱歉。这个短语，很常说。我正要从我的葫芦瓢里出来，我猜我最后会被关进一间软垫病房。”\n> \n> **特工Kasim：**“所以你决定要感染数百万人。”\n> \n> **PoI-2844：**“额，每次别人回复我，我就会感到好点儿。但结果人越来越少了。我猜如果有一百万或更多的人能回复我的话，我就能得到一点安宁。”\n> \n> **特工Kasim：**“好吧，最后一个问题。那个电视节目是在SCP-030-J影响你之前就开始的，还是在影响你之后？”\n> \n> **PoI-2844轻笑**\n> \n> **PoI-2844：**“实际上，是在之前。”\n[[/collapsible]]\n[[/div]]\n[[div class=\"material-box \"]]\n[[div class=\"title-style\"]]\n++++ __**附录：SCP-030-J词语表述的录音**__\n[[/div]]\n\n[[collapsible show=\"▶ 建议采用模因抵抗 - 认知危害\" hide=\"已采取反模因措施\"]]\n[[include :snippets:html5player\n|type=audio\n|url=http://www.scp-wiki.net/local--files/dr-magnus-personnel-file/Recording.mp3]]\n[[/collapsible]]\n[[/div]]",
+  "tags": [
+    "scp",
+    "合著",
+    "搞笑",
+    "未收容",
+    "机密分级",
+    "认知危害",
+    "音频"
+  ],
+  "author": "joke3579",
+  "created_at": "2021-02-07T03:21:53+00:00",
+  "updated_at": "2021-02-07T03:22:31+00:00",
+  "rating": 1,
+  "_site": "scp-wiki-cn",
+  "_fullname": "scp-030-j"
+}

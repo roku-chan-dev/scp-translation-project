@@ -1,0 +1,17 @@
+{
+  "title": "An ASCII Egg That Kills You For No Reason",
+  "content": "[[include :scp-wiki:theme:black-highlighter-theme]]\n[[include :scp-wiki:theme:isolated-terminal]]\n[[module css]]\n:root {\n  --accentColor: 255, 10, 35;\n  --darkColor: 5, 5, 5;\n}\n[[/module]]\n\n[[div style=\"display: none;\"]]\n[[include component:image-block\nname=scp-egg.png\n|caption=YOU BETTER FIND THIS CROM!!!\n|width=100%\n|align=center]]\n[[/div]]\n\n[[>]]\n[[module rate]]\n[[/>]]\n\n[[include :scp-wiki:component:author-label-source start=--\n|name=Tstaffor\n|no-right-margin=*]]\n= [[[tstaffor-s-author-page|Author Page]]] | [[[the-scip-squad-podcast-hub|Podcast]]] | [[[https://scp-wiki.wikidot.com/random:random-page|Feeling Lucky?]]]\n\n**Tstaffor's Best of:**\n* [[[SCP-6557]]] - Annihilation From a Cross Across Time\n* [[[SCP-5846]]] - The One-Stop Shop\n* [[[SCP-6547]]] - Worlds Within Worlds Within Worlds...\n[[include :scp-wiki:component:author-label-source end=--]]\n\n[[div class=\"expoblock\"]]\n[[=image scp-egg.png width=\"1000px\" ]]\n----\n[[[SCP-4162]]] is a perfectly done \"thing what kills you!\" I read it and immediately fell in love with it. I've narrated it to friends multiple times over. Go read it!\n[[/div]]\n----\n[[include :scp-wiki:more-by:tstaffor]]\n----\n[[=]]\n[[include :scp-wiki:component:license-box]]\n====\n[[<]]\n> **Filename:** scp-egg.png\n> **Author:** [[*user Tstaffor]]\n> **License:** CC BY-SA 3.0\n> **Source Link:** This Page\n[[/<]]\n====\n[[include :scp-wiki:component:license-box-end]]\n[[/=]]",
+  "tags": [
+    "_cc",
+    "_licensebox",
+    "artwork",
+    "cel-shaded",
+    "scp-art"
+  ],
+  "author": "Tstaffor",
+  "created_at": "2022-07-11T02:31:05+00:00",
+  "updated_at": "2024-03-28T07:55:20+00:00",
+  "rating": 40,
+  "_site": "scp-wiki",
+  "_fullname": "art:an-ascii-egg-that-kills-you-for-no-reason"
+}

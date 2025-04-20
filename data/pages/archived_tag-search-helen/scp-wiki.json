@@ -1,0 +1,15 @@
+{
+  "title": "Tag Search (Archived)",
+  "content": "Below is a function to allow you to search articles using multiple tags via a dropdown list. \n You can find a simple user's guide to tags at [[[a-laymen-s-guide-to-tagging|this page]]]. The extensive lists of tags can also be found [https://05command.wikidot.com/tech-hub-tag-list here].\n\n[[iframe https://home.helenbot.com/tools/tagSearch.php style=\"border: 0;\" width=\"100%\" height=\"800\"]]\n\n[[size 70%]] Developed by [[*user DrMagnus]], hosted by [https://home.helenbot.com/index.html HelenBot] [[/size]]",
+  "tags": [
+    "admin",
+    "archived",
+    "rewrite"
+  ],
+  "author": "Crayne",
+  "created_at": "2015-02-25T12:47:07+00:00",
+  "updated_at": "2022-08-31T10:23:07+00:00",
+  "rating": 60,
+  "_site": "scp-wiki",
+  "_fullname": "archived:tag-search-helen"
+}

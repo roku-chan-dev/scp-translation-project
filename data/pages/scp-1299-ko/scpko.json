@@ -1,0 +1,22 @@
+{
+  "title": "SCP-1299-KO",
+  "content": "[[>]]\n[[module Rate]]\n[[/>]]\n\n[[module ListPages  category=\"fragment\" parent=\".\" limit=\"1\" order=\"created_at\" offset=\"@URL|0\"]]\n%%content%%\n[[/module]]\n\n[!-- https://scpko.wikidot.com/fragment:scp-1299-ko-0 --]\n[!-- https://scpko.wikidot.com/fragment:scp-1299-ko-1 --]\n[!-- https://scpko.wikidot.com/fragment:scp-1299-ko-2 --]\n[!-- https://scpko.wikidot.com/fragment:scp-1299-ko-3 --]",
+  "tags": [
+    "2024-별칭경연",
+    "ko",
+    "scp",
+    "노래마인-관리이사관",
+    "매체",
+    "자가복제",
+    "재단이-만듦",
+    "전염성",
+    "컴퓨터",
+    "케테르"
+  ],
+  "author": "Alexandreo",
+  "created_at": "2024-09-24T04:42:06+00:00",
+  "updated_at": "2024-12-24T11:34:57+00:00",
+  "rating": 9,
+  "_site": "scpko",
+  "_fullname": "scp-1299-ko"
+}

@@ -1,0 +1,15 @@
+{
+  "title": "Creepy-Pasta",
+  "content": "++ 以下是 SCP 基金会收集的 creepypasta！\n\n-----\n\n+++ EN独立故事\n\n[[module ListPages tags=\"+creepypasta,-原创, -中心, -合作\" separate=\"false\" perPage=\"50\" order=\"date desc\" prependLine=\"||~ 作品标题 ||~ 翻译发布日期 ||~ 翻译页面发布者 ||\"]]\n|| **%%linked_title%%** || %%created_at|%Y.%m.%e%% || %%created_by_linked%% ||\n[[/module]]\n\n+++ EN已删除的独立故事\n\n[[module ListPages tags=\"+creepypasta,-原创, -中心, -合作, +旧页面\" category=\"old\" separate=\"false\" perPage=\"50\" order=\"date desc\" prependLine=\"||~ 作品标题 ||~ 翻译发布日期 ||~ 翻译页面发布者 ||\"]]\n|| **%%linked_title%%** || %%created_at|%Y.%m.%e%% || %%created_by_linked%% ||\n[[/module]]\n\n+++ 子集图书馆\n[[[dr-gears-storytime-entries|Gears故事集]]]\n[[[surprise happy birthday|惊喜！生日快乐！]]]\n[[[surprise-happy-birthday-2|惊喜！生日快乐！再来一碗！]]]\n[[[surprise-happy-birthday-3|惊喜！生日快乐！欢迎回来！]]]\n[[[surprise-happy-birthday-4|惊喜！生日快乐！我回来了……]]]\n[[[surprise happy birthday 5|惊喜！生日快乐！现在，来看看这儿……]]]\n[[[surprise-happy-birthday-6|惊喜！生日快乐！现在，仔细听听这些……]]]\n[[[surprise-happy-birthday-7|惊喜！生日快乐！我们来了……]]]\n[[[The Works of Doc Burns|Burns博士作品集 ]]]\n------\n\n+++ 中国分部原创故事\n\n[[module ListPages tags=\"+creepypasta,+原创, -中心, -合作\" separate=\"false\" perPage=\"50\" order=\"date desc\" prependLine=\"||~ 作品标题 ||~ 发布日期 ||~ 页面建立者 ||\"]]\n|| **%%linked_title%%** || %%created_at|%Y.%m.%e%% || %%created_by_linked%% ||\n[[/module]]\n\n+++ 中国分部子集图书馆\n\n[[module ListPages tags=\"+creepypasta,+原创, +中心,\" perPage=\"500\" separate=\"yes\" order=\"created_at\"]]\n%%title_linked%%\n[[/module]]\n\n------\n\n+++ 其他分部翻译故事\n\n[[module ListPages tags=\"+creepypasta,-原创, -中心, -合作, int, ru, ko, fr, pl, es, th, jp, de, it, ua, pt, cs, vn \" separate=\"false\" perPage=\"50\" order=\"date desc\" prependLine=\"||~ 作品标题 ||~ 翻译发布日期 ||~ 翻译页面发布者 ||\"]]\n|| **%%linked_title%%** || %%created_at|%Y.%m.%e%% || %%created_by_linked%% ||\n[[/module]]",
+  "tags": [
+    "_故事中心",
+    "creepypasta",
+    "中心"
+  ],
+  "author": "Archibald1",
+  "created_at": "2017-06-10T09:50:07+00:00",
+  "updated_at": "2025-03-22T13:50:15+00:00",
+  "rating": 11,
+  "_site": "scp-wiki-cn",
+  "_fullname": "creepy-pasta"
+}

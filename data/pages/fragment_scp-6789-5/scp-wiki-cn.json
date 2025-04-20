@@ -1,0 +1,13 @@
+{
+  "title": "fragment:scp-6789-5",
+  "content": "[[module CSS]]\ndiv#header h1 a span {\n    font-size: 0px;\n}\ndiv#header h1 a:before {\n    content: \"Site-120\";\n    color: #eee;\n\n}\ndiv#header h2 span {\n    font-size:0px;\n    padding: 4px;\n}\ndiv#header h2:after {\n    content: \"以火灭火\";\n    font-weight: bold;\n    color: #f0f0c0;\n    padding: 19px 0;\n    text-shadow: 1px 1px 1px rgba(0, 0, 0, .8);\n    white-space: pre;\n}\n#header {\n  background-image: url(http://scp-wiki.wdfiles.com/local--files/inadvertent-neolinguistics/Ontotop.png)\n}\n[[/module]]\n\n{{> O5-1发送给您一封私信。查看私信？}}\n\n{{是}}\n\n{{> “今天，RAISA检测到有人申请将下附草稿上传至SCiPNet。我想让你做这个决定吧。”}}\n\n{{> O5-1发送给您一个附件。查看附件？}}\n\n{{是}}\n\n{{> 正在打开文件：SCP-6789草稿}}\n-----\n\n**项目编号：**SCP-6789\n\n**收容等级：**Safe\n\n**特殊收容措施：**禁止Rollander钢铁厂雇员及一般群众接近或知晓SCP-6789所在房间及邻近房间。工厂地下二层将被封锁，并丛建筑蓝图册中抹消。通向SCP-6789的唯一通道将被置于武装人员的严密监视之下。鉴于能够通过SCP-6789获得科学知识，一只长期研究小队及相关配套设施将被置于现场。重大研究进展需向[[[secure-facility-dossier-site-120|Site-120]]]管理层汇报。\n\n**描述：**SCP-6789是一块位于波兰，琴斯托霍瓦，Rollander钢铁厂总部地下二层锅炉房的约20米见方的空间，空间内的有机物生长速度大为加快。\n\n虽然既无阳光照射又缺乏足够水源，SCP-6789内仍存在五脏俱全的动植物生态。经观察确认，异常内的有机生物能够借助未知手段永续存活，而不受外界状况影响。异常显现前，SCP-6789所在房间曾被作为Rollander钢铁厂总部的主要动力来源。自植被萌发以来，该房间便被荒置不用。\n\n数名目击者称，曾在位于SCP-6789附近时感受到其内部传来有节律的跳动；这些说法未经确认，正在调查。",
+  "tags": [
+    "段落"
+  ],
+  "author": "lan_muda",
+  "created_at": "2021-08-05T08:29:57+00:00",
+  "updated_at": "2021-12-11T11:46:42+00:00",
+  "rating": 0,
+  "_site": "scp-wiki-cn",
+  "_fullname": "fragment:scp-6789-5"
+}

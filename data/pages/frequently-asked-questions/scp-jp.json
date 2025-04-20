@@ -1,0 +1,14 @@
+{
+  "title": "よくある質問とその回答",
+  "content": "[[include credit:start |mode=no-rate]]\n\n**タイトル:** よくある質問とその回答\n**著者:** SCP財団\n**作成年:** 2018\n----\n本ページはSCPコミュニティのために作成され、SCP財団に帰属します。本ページの管理は[[[meet-the-staff-jp|サイトスタッフ]]]に委任されています。\n\n[[include credit:end]]\n\n[[toc]]\n\n++ Q.記事を投稿するタイミングは？\n人によって判断基準は様々ですが、最低限フォーマットのミスや誤字脱字がないか確認できた事を前提とし、概ね下記の傾向があるようです。\n\n* 自分の中で「これは誰が読んでもおもしろい」と判断できた時\n* 最終レスがついてから2日以上経った時\n\nまた[http://ja.scp-wiki.net/chat-guide チャット]を利用し、そこで多くの批評を貰う事をおすすめします。\n@@@@\n@@@@\n----\n@@@@\n++ Q.「アクセス拒否」を変えるには\n下記の画像を見て表記を変更してください。\n\n画像は[[*user Nimono-oishi]]氏作成のものを使用しています。\n[[collapsible show=\"+ 画像を開く\" hide=\"- 画像を閉じる\"]]\n**1.SCP-JP一覧等のページ下にある「編集」をクリックしてください**\n[[image accessdenied-1.png width=\"100%\" height=\"auto\"]]\n@@@@\n**2.該当箇所の「@@[アクセス拒否]@@」を書き換え、表示を確認した後に保存を押してください**\n[[image accessdenied-2.png width=\"100%\" height=\"auto\"]]\n[[/collapsible]]\n@@@@\n@@@@\n----\n@@@@\n++ Q.画像を貼りつけるには？\n下記の構文をご使用ください。\n> @@[[include component:image-block@@\n> @@|name=URL-アドレスは-ここに-書いて-ください@@\n> @@|caption=写真の説明@@\n> @@]]@@\n\n> @@[[include component:image-block@@\n> @@|name=URL-アドレスは-ここに-書いて-ください@@\n> @@|caption=写真の説明@@\n> @@|width=350px@@ ##bbb|幅指定, この行はオプション##\n> @@|link=http://example.com@@ ##bbb|リンク指定, 同上##\n> @@|align=right@@ ##bbb|寄せ, {right, center, left}のいずれか, 同上##\n> @@]]@@\n上記の構文でalignの値を変える事で画像の寄せ方（右、真ん中、左）を変える事ができます。\n\n（例）\n> @@[[include component:image-block@@\n> @@|name=image.jpg@@\n> @@|caption=収容初期のSCP-XXX-JP@@\n> @@|width=300px@@\n> @@]]@@\n\n\n+++ Q.構文を使用したのに画像が表示されない\n\n画像をアップロードしましたか？していない場合は下記の操作を行い画像をアップロードしてください。\n\n#   ページ下の「ファイル」をクリック\n# 「コンピュータからファイルをアップロードする」をクリック\n# 「ファイルを選択」をクリックし、アップロードする画像を選択\n# 「アップロード」をクリック\n\n+++ Q.アップロードした画像が表示されない\n\nファイルをアップロードする前に画像を貼りつける構文を使用した場合、あなたのコンピュータに画像読み込みエラーのキャッシュ（一時保存データ）が残ってしまい、そのせいで画像が表示されなくなる事があります。\n\nお使いのブラウザに合わせてキャッシュの削除方法を調べ、キャッシュを削除してからページを再度読み込んでください。\n@@@@\n@@@@\n----\n@@@@\n++ Q.評価モジュールって何？\n[[>]]\n[[module Rate]]\n[[/>]]\n上にあるボタンです。これは読者が記事の評価を行う際に使用します。\n\n下記の構文で設置します。\n\n> @@[[>]]@@\n> @@[[module Rate]]@@\n> @@[[/>]]@@\n\n評価モジュールを忘れて投稿した場合は、該当ページの編集ボタンを押し、上記の構文を貼り付けてから「保存」を押してください。\n@@@@\n@@@@\n----\n@@@@\n++ Q.折りたたみの中に折りたたみを入れるには？\n\n下記のページに方法が書かれています。ご参照ください。\n\n[[div style=\"font-size:120%;\"]]\n[*http://ja.scp-wiki.net/forum/t-1754505#post-3917316 Colmod]\n[[/div]]\n\n[[collapsible show=\"+ HTMLブロック版\" hide=\"- 閉じる\"]]\n[*http://ja.scp-wiki.net/esoteric-syntax#toc0 htmlブロックを拡張しよう！]\n\nこちらはjavascriptによる演出等、Wikidotの機能だけでは難しいギミックを使う際に使用してください。\n\n**参考:** [*http://ja.scp-wiki.net/wiki-syntax:html-blocks Wikidotシンタックス HTMLブロック]\n[[/collapsible]]",
+  "tags": [
+    "jp",
+    "管理"
+  ],
+  "author": "C-take",
+  "created_at": "2018-04-25T12:48:41+00:00",
+  "updated_at": "2023-01-13T11:43:13+00:00",
+  "rating": 68,
+  "_site": "scp-jp",
+  "_fullname": "frequently-asked-questions"
+}

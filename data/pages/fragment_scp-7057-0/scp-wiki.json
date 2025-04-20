@@ -1,0 +1,13 @@
+{
+  "title": "Site-549 Database",
+  "content": "[[module css]]\n.danke {\n    padding: 5px;\n    margin-bottom:10px;\n    font-family: monospace;\n    font-size: 1.1em;\n}\n\n.agent {\n    background-color:#002200;\n    border: 3px solid #55AA55;\n    color: #77CC77;\n}\n\n.site {\n    background-color:#222200;\n    border: 3px solid #AAAA55;\n    color: #DDDD77;\n}\n.blink {animation: blink 1s infinite;}@keyframes blink{to{opacity: .0;}}\n[[/module]]\n\n[[div class=\"danke agent\"]]\n[[=]]\n++ __SITE-549 TERMINAL__\n[[/=]]\n[[size 150%]]\nLogin required.\n[[/size]]\n[[size 150%]]\nPlease insert username and password:\n[[module ListUsers users=\".\"]]\n[[div class=\"sitemember\"]]\n||= Dr. %%name%% ||\n||= ••••••••••••••• ||\n@@@@\nCredentials accepted. Welcome, Dr. %%name%%.\n[[/div]]\n[[/module]]\nAccessing Site-549 database... Database reached. (Time elapsed: 19.32s)\n@@@@\n@@@@\nSearching for \"SCP-7057\"...\n@@@@\n@@@@\n__3 Items Found:__\n[[/size]]\n[[size 130%]]\n* {{ARCHIVED}} - [https://scp-wiki.wikidot.com/scp-7057/offset/1 SCP-7057] (Last updated: 7/6/2016)\n* {{ARCHIVED}} - [https://scp-wiki.wikidot.com/scp-7057/offset/2 SCP-7057 (Declassified)] (Last updated: 6/12/2022)\n* {{CURRENT VERSION}} - [https://scp-wiki.wikidot.com/scp-7057/offset/3 SCP-7057] (Last updated: 25/2/2023)\n[[/size]]\n@@@@\n@@@@\n[[span class=\"blink\"]]__[[/span]]\n@@@@\n@@@@\n@@@@\n@@@@\n[[/div]]",
+  "tags": [
+    "fragment"
+  ],
+  "author": "FacelessPolarBear",
+  "created_at": "2022-09-17T07:34:44+00:00",
+  "updated_at": "2022-09-19T06:29:36+00:00",
+  "rating": 0,
+  "_site": "scp-wiki",
+  "_fullname": "fragment:scp-7057-0"
+}

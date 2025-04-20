@@ -1,0 +1,14 @@
+{
+  "title": "전체화면 포지셔닝 구성요소",
+  "content": "[[module CSS]]\n\n:root {\n  --topbar-height: var(--topbar-height-{$alt});\n  --sidebar-margin-top: var(--sidebar-margin-top-{$alt});\n  --sidebar-margin-left: var(--sidebar-margin-left-{$alt})\n  --topbar-height-1: {$th};\n  --sidebar-margin-top-1: {$smt};\n  --sidebar-margin-left-1: {$sml};\n}\n\n#page-contnet, #main-content, #content-wrap {\n  position: static;\n}\n\n@media (min-width: 768px) {\n  #side-bar {\n    top: calc(var(--topbar-height, 150px) + var(--sidebar-margin-top, 3.5em));\n    left: unset;\n    transform: translateX(var(--sidebar-margin-left, 2em));\n  }\n}\n\n[[/module]]",
+  "tags": [
+    "ko",
+    "구성요소"
+  ],
+  "author": "thd-glasses",
+  "created_at": "2025-03-31T14:58:33+00:00",
+  "updated_at": "2025-04-03T21:53:05+00:00",
+  "rating": 0,
+  "_site": "scpko",
+  "_fullname": "component:fullscreen-position"
+}

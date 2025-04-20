@@ -1,0 +1,22 @@
+{
+  "title": "SCP-4673",
+  "content": "[[>]]\n[[module rate]]\n[[/>]]\n\n[!--\nFragments:\nhttp://scp-wiki.wikidot.com/fragment:scp-4673-0\nhttp://scp-wiki.wikidot.com/fragment:scp-4673-1\n--]\n[[module listpages parent=\".\" category=\"fragment\" limit=\"1\" order=\"created_at desc desc\" offset=\"@URL|0\"]]\n%%content%%\n[[/module]]\n\n[[div class=\"footer-wikiwalk-nav\"]]\n[[=]]\n<< [[[SCP-4672]]] | SCP-4673 | [[[SCP-4674]]] >>\n[[/=]]\n[[/div]]\n\n[[include :scp-wiki:component:license-box\n|author=Sam Swicegood (CityToast)]]\n[[include :scp-wiki:component:license-box-end]]",
+  "tags": [
+    "_listpages",
+    "concept",
+    "euclid",
+    "hostile",
+    "humanoid",
+    "infohazard",
+    "memetic",
+    "memory-affecting",
+    "military",
+    "scp"
+  ],
+  "author": "CityToast",
+  "created_at": "2020-04-08T23:02:35+00:00",
+  "updated_at": "2021-07-30T18:05:40+00:00",
+  "rating": 127,
+  "_site": "scp-wiki",
+  "_fullname": "scp-4673"
+}

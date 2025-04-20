@@ -1,0 +1,18 @@
+{
+  "title": "설부화용",
+  "content": "[[module ListPages  category=\"fragment\" parent=\".\" limit=\"1\" order=\"created_at\" offset=\"@URL|0\"]]\n%%content%%\n[[/module]]\n\n[!--\n\nhttp://scpko.wikidot.com/fragment:snowflowerandserpent-1\nhttp://scpko.wikidot.com/fragment:snowflowerandserpent-2\n\n\n\n\n--]",
+  "tags": [
+    "ko",
+    "뱀의-손",
+    "삼천리-강원",
+    "엔트로피를-넘어서",
+    "이야기",
+    "이자메아"
+  ],
+  "author": "POI_Damgi",
+  "created_at": "2024-02-20T14:57:07+00:00",
+  "updated_at": "2024-02-20T15:01:42+00:00",
+  "rating": 11,
+  "_site": "scpko",
+  "_fullname": "snowflowerandserpent"
+}

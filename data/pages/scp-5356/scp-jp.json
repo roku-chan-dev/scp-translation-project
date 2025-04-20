@@ -1,0 +1,21 @@
+{
+  "title": "SCP-███",
+  "content": "[[module CSS]]\n\n/* Japanese Localizing */\n\n.creditRate{\nmargin-bottom: -32px !important;\n}\n\n[[/module]]\n\n[[include :scp-jp:credit:start]]\n**タイトル:** SCP-5356 - [削除済]\n**翻訳責任者:** [[*user Witherite]]\n**翻訳年:** 2021\n**原題/リンク:** [https://scp-wiki.wikidot.com/scp-5356 SCP-5356 - [DELETED]]\n**著作権者:** [[*user Kothardarastrix]]\n**作成年:** 2021\n**初訳時参照リビジョン:** rev.4\n[[include :scp-jp:credit:end]]\n\n[[div style=\"text-align: right; margin-right: 2em; margin-top: -20px; display: inline;\"]]\n\n[[[Koths Korner| ███████████████]]]著\n\n[[/div]]\n\n[[module ListPages  category=\"fragment\" parent=\".\" limit=\"1\" order=\"name\" offset=\"@URL|0\"]]\n%%content%%\n[[/module]]\n\n[!-- http://scp-jp.wikidot.com/fragment:scp-5356-1 --]\n[!-- http://scp-jp.wikidot.com/fragment:scp-5356-2 --]",
+  "tags": [
+    "en",
+    "scp",
+    "thaumiel",
+    "岩石",
+    "怪奇部門",
+    "構造",
+    "死体",
+    "記述",
+    "財団製"
+  ],
+  "author": "Witherite",
+  "created_at": "2021-10-17T07:13:26+00:00",
+  "updated_at": "2024-04-20T14:23:27+00:00",
+  "rating": 15,
+  "_site": "scp-jp",
+  "_fullname": "scp-5356"
+}

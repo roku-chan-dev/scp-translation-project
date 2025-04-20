@@ -1,0 +1,13 @@
+{
+  "title": "7K涂鸦",
+  "content": "[[include :scp-wiki-cn:theme:black-highlighter-theme]]\n[[include :scp-wiki:theme:minimalist-bhl]]\n[[include :scp-wiki:component:fade-in speed=3]]\n\n[[module CSS]]\n:root:lang(cn) {\n     --header-title: \"WINKWONK涂鸦集\";\n     --header-subtitle: \"7K版\";\n}\n[[/module]]\n\n[[=image https://scp-wiki.wikidot.com/local--files/art:7k-doodles/Rat width=\"500px\"]]\n@@ @@\n= [[[7000contestmriverson|“我最棒，最久远，最崭新的挚友”]]]\n@@ @@\n[[=image https://scp-wiki.wikidot.com/local--files/art:7k-doodles/Television width=\"500px\"]]\n@@ @@\n= [[[7000contestfelixou|“翻越感知”]]]\n@@ @@\n[[=image https://scp-wiki.wikidot.com/local--files/art:7k-doodles/LoL width=\"500px\"]]\n@@ @@\n= [[[7000contestsherfcalibold|“我自首，我玩英雄联盟”]]]\n@@ @@\n[[=image https://scp-wiki.wikidot.com/local--files/art:7k-doodles/ButterflyPlug width=\"500px\"]]\n@@ @@\n= [[[7000contestwinkwonkboi|“帮助我们，感谢自己”]]]\n@@ @@\n[[=]]\n\n[[include :scp-wiki-cn:component:license-box\n|author=winkwonkboi\n|translator=Wind Sleeper\n]]\n=====\n> **文件名：**All Files\n> **作者：**[[*user winkwonkboi]]\n> **授权于：**CC-BY-SA 3.0\n> **源链接：**SCP Foundation\n=====\n[[include :scp-wiki-cn:component:license-box-end]]\n[[/=]]",
+  "tags": [
+    "艺术作品"
+  ],
+  "author": null,
+  "created_at": "2022-08-08T00:17:29+00:00",
+  "updated_at": "2022-08-08T00:20:35+00:00",
+  "rating": 3,
+  "_site": "scp-wiki-cn",
+  "_fullname": "art:7k-doodles"
+}

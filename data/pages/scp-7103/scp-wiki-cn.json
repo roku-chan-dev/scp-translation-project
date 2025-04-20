@@ -1,0 +1,22 @@
+{
+  "title": "SCP-7103",
+  "content": "**项目编号：**SCP-7103\n\n**项目等级：**Euclid\n\n**特殊收容措施：**SCP-7103目前被安置于Site-19的一间标准收容室。通向室内的观察窗应始终保持隐蔽。SCP-7103在最初被发现时身处的容器将被储存于现场仓库中。\n\n**描述：**SCP-7103为一尊人形雕像，高1.6米。该异常明显受损，具有不同严重程度的空洞和裂缝。此外，在SCP-7103的躯干部分似乎雕刻有研究制服。[[footnote]]这种设计与基金会研究制服相似。[[/footnote]]当SCP-7103发现观察者时，其将展现出惊慌与恐惧的表情。\n\nSCP-7103表现出了环境意识，具备自主运动能力，且能够通过异常手段发生移动。\n\n[[include component:image-block\n| name=http://scpdsandbox.wdfiles.com/local--files/ananomalouswriter-1/statued%20temp%20logo\n| caption=图A\n|width=250px]]\n\n尽管SCP-7103缺乏视觉器官，但其拥有两个位置上近似于人类眼腔的空洞。当受试者处于异常视觉感知范围内时，该受试者将无法作出任何移动。受到上述影响的受试者将被一直固定于当前位置，直至离开SCP-7103的视野范围。该异常利用此种能力以逃避与基金会人员的直接接触。撰写本文时，其它异常性质仍在研究当中。\n\n**发现：**2022/06/22，SCP-7103自发出现于Site-19的一个木箱内。来自人员与监测仪器的初步报告表明，一场空间现实扭曲事件于该地点发生。值得注意的是，该容器上标有字样“Lab-19”，侧面还有一个与基金会会徽相似的徽章。[[footnote]]见图A。[[/footnote]]\n\n在SCP-7103处于最初容器内时，自其胸袋中发现了一张金属卡片。卡片的可识别特征如下：\n\n> * SCP-7103的面部图像\n>\n> * 姓名：Gyggel Gleokg[[footnote]]在基金会名册中，无法匹配到有关人员“Gyggel Gleokg”的记录。[[/footnote]]\n>\n> * 权限等级：3\n>\n> * 生物人类学[[footnote]]对于人类这一生物的科学研究。[[/footnote]]部\n\n应当注意的是，发现SCP-7103时，于其附近偶然发现了两个相似实体。然而由于最初回收小组处理不当，它们遭到了销毁。两尊雕像因颈部意外受损而毁坏，无法修复。在目睹其它雕像的残骸后，SCP-7103似乎表达出了恐慌。[[footnote]]对于回收小组异常表现的调查正在进行当中。[[/footnote]]\n\n在收容后的最初数小时内，SCP-7103开始发射无线电求救信号。两小时后，SCP-7103不再进行这一活动。目前正在对SCP-7103送出的消息进行解密。这份信号的接收人仍然未知。\n\n[[footnoteblock]]\n\n[[div class=\"footer-wikiwalk-nav\"]]\n[[=]]\n<< [[[SCP-7102]]] | SCP-7103 | [[[SCP-7104]]] >>\n[[/=]]\n[[/div]]\n\n[[include :scp-wiki-cn:component:license-box\n|author=Karathh与AnAnomalousWriter]]\n\n> **文件名：**  statued%20temp%20logo\n> **图像作者：** [[*user Karathh]] and [[*user AnAnomalousWriter]]\n> **授权协议：** CC-BY-SA 3.0\n> **来源链接：** http://scpdsandbox.wdfiles.com/local--files/ananomalouswriter-1/statued%20temp%20logo\n\n[[include :scp-wiki-cn:component:license-box-end]]",
+  "tags": [
+    "euclid",
+    "scp",
+    "人形生物",
+    "合著",
+    "智能",
+    "未收容",
+    "机器人",
+    "通讯",
+    "铭文",
+    "雕塑"
+  ],
+  "author": "Enterark_D",
+  "created_at": "2022-09-13T04:57:37+00:00",
+  "updated_at": "2025-03-06T16:16:50+00:00",
+  "rating": 22,
+  "_site": "scp-wiki-cn",
+  "_fullname": "scp-7103"
+}

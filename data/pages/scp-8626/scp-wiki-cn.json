@@ -1,0 +1,19 @@
+{
+  "title": "SCP-8626",
+  "content": "[[module css]]\n@media only screen and (max-width: 600px) {\n    .scp-image-block.block-right{\n        float: none;\n        margin: auto;\n    }\n}\n[[/module]]\n\n**项目编号：**SCP-8626     \n\n**项目等级：**Keter\n\n**特殊收容措施：**由于所有已知受害者均是在幼年[[footnote]]3至12岁。[[/footnote]]且无监控的情况下遭遇SCP-8626，达成收容的可能性极低。\n\n在缺乏靶向措施的情况下，应针对SCP-8626调整标准文化压制策略，以降低所有自称受害者的发言之可信度，同时提升异常现象得以与非异常情况混淆的概率。\n\n[[include component:image-block name=https://scp-wiki.wdfiles.com/local--files/scp-8626/TennisEdit2.png|caption=以梦境图像捕捉技术得到的SCP-8626。|width=300px|align=right|alt-text:一张细节模糊的网球比赛图像]]\n\n**描述：**据称，SCP-8626是一段广播节目，内容为预先录制的网球友谊赛，参赛双方身份不明[[footnote]]常被辨别为一名男性与一名女性。[[/footnote]]，比赛地点位于温布尔登体育馆的中央球馆。赛事总体上遵循此类活动的标准程序，但在以下方面存在偏差：\n* 球缺失；\n* 主裁判缺失；\n* 观众完全由儿童组成，且在观看过程中保持沉默。\n在每起报告中，比赛都会进入决胜局，双方选手将陷入僵局。随着他们击打一个看不见的球[[footnote]]不清楚选手们如何得知是否得分。[[/footnote]]，选手们的喘息声将越发刺耳、嘶哑或尖锐。这一过程将持续到其中一名选手因明显的疲惫而倒下。此后画面会逐渐褪去，变为白噪声。新的广播节目将在1小时至1周之间开始。[[footnote]]大多数情况下，只会听到广播声音。[[/footnote]]\n\n观看了SCP-8626的对象将经历持续的侵入性听幻觉，无论与广播设备实际距离多远，都将能够听到广播的声音。以手、耳机、枕头或其他外部工具减弱噪声的尝试均会失败。此类效应将无限期持续，但可能随时间推移而减弱。[[footnote]]但从未完全消失。[[/footnote]]\n\n[[div class=\"footer-wikiwalk-nav\"]]\n[[=]]\n<< [[[SCP-8625]]] | SCP-8626 | [[[SCP-8627]]] >>\n[[/=]]\n[[/div]]",
+  "tags": [
+    "keter",
+    "scp",
+    "体育",
+    "听觉影响",
+    "媒体",
+    "幻觉",
+    "视觉性"
+  ],
+  "author": "LeeBr",
+  "created_at": "2025-02-09T05:00:57+00:00",
+  "updated_at": "2025-02-09T05:01:07+00:00",
+  "rating": 0,
+  "_site": "scp-wiki-cn",
+  "_fullname": "scp-8626"
+}

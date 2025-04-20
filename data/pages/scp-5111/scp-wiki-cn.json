@@ -1,0 +1,23 @@
+{
+  "title": "SCP-5111",
+  "content": "[[module ListPages  category=\"fragment\" parent=\".\" limit=\"1\" order=\"created_at\" offset=\"@URL|0\"]]\n%%content%%\n[[/module]]\n\n[!-- http://scp-wiki-cn.wikidot.com/fragment:scp5000oakwinter-1 --]\n[!-- http://scp-wiki-cn.wikidot.com/fragment:scp5000oakwinter-2 --]",
+  "tags": [
+    "5000",
+    "keter",
+    "scp",
+    "合著",
+    "感知力",
+    "敌意",
+    "星际",
+    "电磁",
+    "自主",
+    "被放逐者之图书馆",
+    "通讯"
+  ],
+  "author": "joke3579",
+  "created_at": "2020-06-28T03:00:23+00:00",
+  "updated_at": "2020-06-28T03:00:48+00:00",
+  "rating": 7,
+  "_site": "scp-wiki-cn",
+  "_fullname": "scp-5111"
+}

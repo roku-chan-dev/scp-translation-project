@@ -1,0 +1,20 @@
+{
+  "title": "SCP-5983",
+  "content": "[[include :scp-jp:theme:black-highlighter-theme]]\n[[>]]\n[[module Rate]]\n[[/>]]\n[[include component:info-ayers\n|lang=jp[!-- EN/RU/KO/CN/FR/PL/ES/TH/JP/DE/IT/UA/PTBR --]\n|page=scp-5983[!-- url of your page on the scp wiki --]\n|authorPage=http://scp-jp.wikidot.com/rounderhouse-s-author-page[!-- link to your author page --]\n|comments=Coming Soon - Rounderhouse\n]]\n[[include :scptestwiki:component:rounderformat]]\n[[include :scp-wiki:component:classified-bar-woed\n|lv=4\n|item=5983\n|oc=Thaumiel\n|lang=JP\n]]\n----\n[[include :scp-sandbox-3:image-zoom name=splosion.jpg|caption=SCP-5983の試験で保存された画像。 |width=300px|align=right]]\n\n**特別収容プロトコル:** SCP-5983の試験は現在、O5指令によって禁止されています（補遺5983.2を参照）。\n\n**説明:** SCP-5983はワイオミング州ドローイング郡での爆発力とニューヨーク市地下鉄の効率との異常な関係です。この関係の特定の方程式はまだ推定されていませんが、比例的であると理解されています。爆発の威力が大きければ大きいほど、その日の地下鉄はよりスムーズに機能します。2016年6月に発見された後、SCP-5983を使用したいくつかの試験でその効果を確認することが許可されました。\n@@ @@\n@@ @@\n@@ @@\n@@ @@\n@@ @@\n@@ @@\n@@ @@\n@@ @@\n**補遺5983.1:**\n\n||~ 日付 ||~ 爆発量 (kt TNT) ||~ 結果 ||\n|| 2016.6.27 || 0.05 || 統計的な効率の大幅上昇はなかった。しかし、研究員らはMTAのウェブサイトに寄せられた苦情の数が異常に少ないことを指摘した。 ||\n|| 2016.7.2 || 0.5 || 機器の損傷が原因で発生した1つの路線での遅延は、予想よりもはるかに早く解消され、運行の復旧がより早くなった。 ||\n|| 2016.7.13 || 1 || 列車は予定時刻通りに正確に運行され、遅延や前倒しはなかった。||\n|| 2016.7.23 || 2 || 列車が数分前倒しになった。MTAスタッフはこれを維持するため、ある従業員が自殺しそうな人物を線路から引き離したという積極的な行動をとった。SCP-5983がこの決定に影響したかどうかは不明である。||\n|| 2016.8.1 || 3.5 || 列車は定期的に現実や物理法則を無視し、目的地に素早く到着するように見えた。ある例では、列車は単純に駅と駅の間をテレポートし始めた。その地域の正確なヒューム測定値をカント計数機で取ることが出来なかったが、これは地下鉄の効果による可能性がある。||\n||||||= [292行省略] ||\n\n**補遺5983.2:** 2018年、O5司令部によってSCP-5983が発見されて以来、297回、時には一日に複数回試験が行われていることが判明しました。SCP-5983の試験廃止のため、公式のO5投票が予定されていました。\n\n[[div style=\"color: black; font-weight: bold; background:#fff url(http://scp-wiki.wdfiles.com/local--files/the-great-hippo/scp_trans.png) center no-repeat; float: center; border: solid 1px #000000; padding: 15px 15px; box-shadow: 0 1px 3px rgba(0,0,0,.2); width: 84%; margin: 4% 4% 4% 4%\"]]\n\n= 監督評議会投票概要:\n||~ 是  ||~ 棄権  ||~ 否 ||\n|| O5-01 ||   ||       ||\n|| O5-02 ||   ||       ||\n|| O5-03 ||   ||       ||\n|| O5-04 ||   ||       ||\n|| O5-05 ||   ||          ||\n|| O5-06 ||   ||          ||\n|| O5-07 ||   ||          ||\n|| O5-08 ||   ||          ||\n|| O5-09 ||       ||          ||\n|| O5-10 ||       ||          ||\n|| O5-11 ||   ||       ||\n||  ||  ||   O5-12   ||\n|| O5-13 ||   ||       ||\n@@ @@\n||~ 結果 ||\n||= ##057800|承認## ||\n\n= コメント:\n\n> O5-12\n>> 言わせてもらうと、ブロードウェイへの8:30の地下鉄を使ったことがあるなら、君たちも何かを爆破したいと思うだろうよ。\n[[/div]]",
+  "tags": [
+    "_大爆発",
+    "en",
+    "jam-con2020",
+    "scp",
+    "thaumiel",
+    "交換",
+    "儀式",
+    "確率"
+  ],
+  "author": "Extra3002",
+  "created_at": "2020-03-11T03:14:33+00:00",
+  "updated_at": "2023-04-04T04:45:56+00:00",
+  "rating": 102,
+  "_site": "scp-jp",
+  "_fullname": "scp-5983"
+}

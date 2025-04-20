@@ -1,0 +1,23 @@
+{
+  "title": "SCP-CRAB-JP-J",
+  "content": "[[module css]]\n@import url('http://scp-jp.wdfiles.com/local--code/component%3Aaf2018theme');\n[[/module]]\n\n[[include :scp-jp-sandbox2:inc:changepagetitle |\nTITLE=SCP蟹金会|\nCOLOR=#EEE]]\n[[include :scp-jp-sandbox2:inc:headsubtitle | title=控制，收蟹，保护]]\n\n**蟹目编号：** SCP-CRAB-JP-J\n\n**蟹目等级：** Eucrab\n\n**特殊收蟹措施：**SCP-CRAB-JP-J收容于Site-81X,,i,,E的专用水槽之中。一日需投放2蟹饵料。与SCP-CRAB-JP-J进行蟹话时需要3级人员在场。查看SCP-CRAB-JP-J的蟹照时将会蟹制时间，并在查看后自动进行A蟹记忆删除。\n\n**描述：**SCP-CRAB-JP-J是一具有异常性质的蟹(//Paguroidea//)。SCP-CRAB-JP-J能够以不明方式发声，且可以与人进行蟹话。\n\n在描述SCP-CRAB-JP-J时，若不在文档中以尽量自然的蟹式加入“蟹”这一文字，或者将SCP-CRAB-JP-J描述为并非蟹类的某种生物[[footnote]]该蟹果就算离SCP-CRAB-JP-J较远也会发动。[[/footnote]]，以SCP-CRAB-JP-J为中心半径10m之类将会产生某种蟹叫的声音并持续10分钟。就算立刻修改这些描述，也不能够停止这种蟹叫。\n\nSCP-CRAB-JP-J是在对海岸生息的蟹物的调查过程中由谢博士发现的。蟹目原本被饲养在谢博士房间，并起名“蟹隆二世”。后经谢博士上报蟹目异常性质，蟹目最终得以被收蟹。\n\n**附蟹：**蟹访记录SCP-CRAB-JP-J\n\n> **对蟹：**SCP-CRAB-JP-J\n>  \n> **采访者：**谢博士\n>  \n> **<录音开蟹>**\n>  \n> **谢博士：**还精神吗？蟹隆二世！ \n>  \n> **SCP-CRAB-JP-J：**蟹很健康，蟹蟹。\n>  \n> **谢博士：**今天我想问问你是怎么来的。\n>  \n> **SCP-CRAB-JP-J：**蟹是蟹麻麻生的蟹蟹。\n>  \n> **谢博士：**也就是说你的蟹妈妈也是蟹对吗？ \n>  \n> **SCP-CRAB-JP-J：**那自然蟹蟹。\n>  \n> **谢博士：**你一开始就会说话吗？ \n>  \n> **SCP-CRAB-JP-J：**遇见你之前都不知道的蟹蟹。海里又没有会说话的蟹蟹。\n>  \n> **谢博士：**我明白了。我们换个话题，你知道自己长什么样子吗？ \n>  \n> **SCP-CRAB-JP-J：**没有蟹蟹。不过蟹长着蟹钳，而且遍体通红，蟹一定是蟹啦蟹蟹。\n>  \n> (谢博士拿出镜子给SCP-CRAB-JP-J看)\n> \n> (此后，据信由SCP-CRAB-JP-J发出的蟹叫在Site-81XE持续20分钟)\n> **<录音结束>**\n>  \n> **后记：**此后禁止给SCP-CRAB-JP-J看镜子。谢博士已经受到降蟹处分。\n\n[[collapsible show=\"+ 打开SCP-CRAB-JP-J蟹照\" hide=\"- 5秒后将会进行A蟹记忆删除。\"]]\n\n[[include component:image-block\n|name= http://scp-jp.wdfiles.com/local--files/scp-crab-jp-j/HermitCrab_NOAA.jpg\n|caption=SCP-CRAB-JP-J\n]]\n\n[[/collapsible]]",
+  "tags": [
+    "2018愚人节",
+    "jp",
+    "meta",
+    "scp",
+    "感知力",
+    "搞笑",
+    "智能",
+    "机密分级",
+    "水生",
+    "活物",
+    "节肢动物"
+  ],
+  "author": "BenjaminChong",
+  "created_at": "2019-09-16T05:33:44+00:00",
+  "updated_at": "2020-02-14T09:26:53+00:00",
+  "rating": 7,
+  "_site": "scp-wiki-cn",
+  "_fullname": "scp-crab-jp-j"
+}

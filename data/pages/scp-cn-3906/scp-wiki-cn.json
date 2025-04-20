@@ -1,0 +1,23 @@
+{
+  "title": "SCP-CN-3906",
+  "content": "====\n[[div class=\"preview\"]]\n于深邃江水的褶皱中，我看见了掱神，看见了命运之道。\n[[/div]]\n[[module CSS]]\ndiv.preview {display: none;}\n[[/module]]\n====\n\n[[>]]\n[[module rate]]\n[[/>]]\n\n\n[[module ListPages category=\"fragment\" parent=\".\" limit=\"1\" order=\"created_at\" offset=\"@URL|0\"]]\n%%content%%\n[[/module]]\n\n[[module CSS]]\n\n/* 第一迭代：\nhttps://commons.wikimedia.org/wiki/File:Lightning_Storm_%28115334089%29.jpeg\nhttps://commons.wikimedia.org/wiki/File:Landscape_MET_DP136056.jpg\nhttps://commons.wikimedia.org/wiki/File:Halifax_after_the_Halifax_Explosion,_looking_toward_the_Dartmouth_side_of_the_harbour,_1917.jpg\nhttps://commons.wikimedia.org/wiki/File:A.E._Barker_Wellcome_M0017962.jpg\nhttps://commons.wikimedia.org/wiki/File:Samoa_CIA_map_PL.png\nhttps://commons.wikimedia.org/wiki/File:2019-03-19_02_CNS_ALMIRANTE_CONDELL_(FF-06)_-_IMO_8949616.jpg\n\n第三迭代：\n\nForestar摄像\nForestar摄像\nhttps://commons.wikimedia.org/wiki/File:Kingsland_munitions_disaster._Flaming_buildings_of_the_Canadian_Car_%26_Foundry_Co.,_Kingsland,_New_Jersey_-_NARA_-_31478100.jpg\nhttps://commons.wikimedia.org/wiki/File:NightoftheLivingDeadCorpse.png\nhttps://commons.wikimedia.org/wiki/File:Horror_(15423421559).jpg\n*/\n\n[[/module]]",
+  "tags": [
+    "2024新秀竞赛",
+    "k级情景",
+    "scp",
+    "不可摧毁",
+    "仪式性",
+    "原创",
+    "无定形",
+    "智能",
+    "机密分级",
+    "活物",
+    "精神影响"
+  ],
+  "author": "Black Whate",
+  "created_at": "2024-10-21T15:10:36+00:00",
+  "updated_at": "2024-10-21T15:17:11+00:00",
+  "rating": 11,
+  "_site": "scp-wiki-cn",
+  "_fullname": "scp-cn-3906"
+}

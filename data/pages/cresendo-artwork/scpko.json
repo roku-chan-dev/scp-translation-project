@@ -1,0 +1,14 @@
+{
+  "title": "크레센도의 갤러리",
+  "content": "[[>]]\n[[module rate]]\n[[/>]]\n\n[[tabview]]\n\n[[tab 갤러리]]\n[[gallery size=\"thumbnail\" order=\"name\"]]\n: SCP-079.png\t   link=\"*/SCP-079\"\n: SCP-1079.png\t   link=\"*/SCP-1079\"\n: SCP-303.png\t   link=\"*/SCP-303\"\n: SCP-2639.png\t   link=\"*/SCP-2639\"\n: SCP-963.png\t   link=\"*/SCP-963\"\n: SCP-504.png      link=\"*/SCP-504\"\n: SCP-609.png      link=\"*/SCP-609\"\n: SCP-256-ko.png  link=\"*/SCP-256-ko\"\n: SCP-860.png      link=\"*/SCP-860\"\n: HX                     link=\"*/dinodon-s hand\"\n[[/gallery]]\n\n[[/tab]]\n\n[[tab 그림]]\n\n[[collapsible show=\"SCP-3125\" hide=\"기타 출연자: SCP-055, SCP-2828, 그리고 폴킴...\"]]\n\n[[image antimeme]]\n\n[[/collapsible]]\n\n@@@@\n@@@@\n\n[[collapsible show=\"SCP-5404\" hide=\"단어를 빵1빵 터뜨리고 있어요\"]]\n\n[[image bword]]\n\n[[/collapsible]]\n\n[[/tab]]\n\n[[/tabview]]",
+  "tags": [
+    "ko",
+    "아트워크"
+  ],
+  "author": "Cresendo",
+  "created_at": "2020-06-13T14:30:53+00:00",
+  "updated_at": "2025-02-13T13:46:02+00:00",
+  "rating": 23,
+  "_site": "scpko",
+  "_fullname": "cresendo-artwork"
+}

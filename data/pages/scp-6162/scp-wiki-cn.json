@@ -1,0 +1,24 @@
+{
+  "title": "SCP-6162",
+  "content": "[[include :scp-wiki-cn:component:info-ayers\n|page=SCP-6162[!-- url of your page on the scp wiki --]\n|authorPage=djkaktus[!-- link to your author page --]\n|comments=\n= **SCP-6162** - //虫洞//\n\n-----\n\n-----\n\n= **图片归属**\nhttps://upload.wikimedia.org/wikipedia/commons/thumb/d/d0/Wormhole_Gamma_27062019.png/1024px-Wormhole_Gamma_27062019.png\nvertical.png 由我 djkaktus 制作，于 CC by SA 3.0 协议下发布。\nhttps://flickr.com/photos/chad_sparkes/40125986191\n\n所有图片编辑都由我 djkaktus 所作。\n]]\n\n[[include :scp-wiki-cn:component:anomaly-class-bar-source\n|lang= cn\n|item-number= 6162\n|clearance= 3\n|container-class= euclid\n|secondary-class=\n|secondary-icon=\n|disruption-class= ekhi\n|risk-class= 警告\n]]\n\n-----\n\n[[include component:image-block name=https://scp-wiki.wdfiles.com/local--files/scp-6162/wormhole.png|align=center|width=100%|caption=红外摄像机所摄的 SCP-6162-A。图片摄自 KNKO-3 太空探测器。]]\n[[include :scp-wiki-cn:component:customizable-acs\n|category-count= 4\n|class-color-1= 15, 15, 15\n|class-category-1=负责站点：\n|class-text-1=Site-4\n|class-color-2= 15, 15, 15\n|class-category-2=站点主管：\n|class-text-2=Eduardo Beurgher\n|class-color-3= 15, 15, 15\n|class-category-3=首席研究员：\n|class-text-3=Theodore Galbyc 博士\n|class-color-4= 15, 15, 15\n|class-category-4=指派特遣队：\n|class-text-4=E-7 \"Bob and Co.\"\n|inc-extra-categories= --]]]\n\n**特殊收容措施：**负责近地现象的基金会站点需对与 SCP-6162 的几何特征相符的其它地外空间入侵迹象进行监控。基金会[[span class=\"ruby\"]]月面公司[[span class=\"rt\"]]LUNACORPS[[/span]][[/span]]工程师需继续于[[span class=\"ruby\"]]安科计划[[span class=\"rt\"]]Project ANKS[[/span]][[/span]]中工作，以评估若 SCP-6162-A 在未来出现时将其溃解的方式——然而，由于 SCP-6162-A 中观察到存在跨维度物质矩阵，目前仍未出现有能够将其溃解的科技。\n\n**描述：**SCP-6162 为于 2021 年 10 月 19 日观察到的数个异常地外现象的总代称。\n\nSCP-6162-A 为一在世界标准时间 2021/10/19 16:23[[footnote]]**译注：**即北京时间 2021/10/20 00:23。[[/footnote]] 于距地球约 384,000 千米处出现的空间异常。SCP-6162-A 最初被[[span class=\"ruby\"]]远智[[span class=\"rt\"]]FARMIND[[/span]][[/span]]号地外摄像阵列所观察到。在首次观察后不久所提交的一份论文中，Mortimer Dekala 博士将该异常描述为：\n\n[[div class=\"blockquote\"]]\n……是正沿着一条穿过我们太阳系的未知轨道行进的一种未知质量的反常游荡天体。这是一种完全不透明的物质，不会反射光或者其它更高能级的波形。它是突然出现的，且出现时只消耗了一小部分的能量。[[span class=\"ruby\"]]库鲁希安[[span class=\"rt\"]]Kurushian[[/span]][[/span]]物理学证明了任何穿越空间裂隙的能量都应造成异常内部的介构全面对数性溃落；尽管如此，该异常自其初次被发现以来仍在继续以未知方式再生物质。\n[[/div]]\n\nSCP-6162-B 与 SCP-6162-C 为于 SCP-6162-A 的空间裂隙远端处发现的机械实体或舰体。更多信息参见//附录 6162.1//。\n\n[[include component:image-block name=https://scp-wiki.wdfiles.com/local--files/scp-6162/KNKO.png|align=right|caption=发射时的 KNKO-3 探测器。]]\n\n在初次发现之后不久，基金会月面公司授权了 KNKO-3 的发射以收集异常相关的其它信息。\n\n**附录 6162.1：**KNKO-3 观察记录\n\nKNKO-3 在经历约 11 小时的行进后来到了 SCP-6162-A 周边 20,000km 的范围内。探测器确认 SCP-6162-A 拥有大约三十亿千克的质量，大致呈球状且在极点处略微收缩，且正在经历通过异常中心的潮汐漂移。在 KNKO-3 被吸入 SCP-6162-A 的引力井时，其于靠近异常的一侧弹射出了一条无线电系链以保证数据能够越过潮汐平面进行传输。\n\nKNKO-3 穿越异常后，立即被从靠近 SCP-6162-A 远端的三处巨型机械结构（后确定为 SCP-6162-B）传出的强力电磁脉冲击中，几乎立即失去了活动能力，但仍可使用所载推进器做出机动并远离 SCP-6162-A。从 KNKO-3 处所接受到的视频未能确定，但似乎显示有三个 SCP-6162-B 实例正与另一个更小的光滑黑色舰体（后确定为 SCP-6162-C）交战。每一个 SCP-6162-B 的实例高度都远超 5km，主要由严重生锈的钢板组成，且似乎拥有由多个高速发射贫铀弹的大口径全自动加农炮所组成的武器系统，每一门炮的口径都至少为 2500mm。SCP-6162-C 似乎正被某种所有 SCP-6162-B 上都有列装的能量发射器所空间性纠缠，正使用前所未见的未知功能的武器回击 SCP-6162-B。\n\n在其抵达后，KNKO-3 观察到其中两个 SCP-6162-B 示例开始改变形态，将其大型加农炮组收叠进其上部主要构造中。随后其点燃了自身搭载的大型推进器，对准空间中的某点，然后达到了极高的速度并完全消失在了此空间中。剩余的一个 SCP-6162-B 实例继续对 SCP-6162-C 开火，直至其被完全摧毁。\n\n在摧毁了那较小的舰体后，KNKO-3 探测器被之前所观察到用于固定 SCP-6162-C 的同样的空间纠缠阵列捕获。KNKO-3 所搭载的无线电随后被噪声淹没，剩余的那个 SCP-6162-B 示例开始发出重复的信号。KNKO-3 捕获了从 SCP-6162-B 的枪炮阵列处传来的最后一次压力读数，随后停止回应无线电广播，推测其已被摧毁。\n\n[[include component:image-block name=https://scp-wiki.wdfiles.com/local--files/scp-6162/vertical.png|align=right|caption=SCP-6162-B 的两个实例。图像由于严重的电磁干扰而失真。]]\n\n在失去 KNKO-3 后，月面公司授权了 KNKO-4 的发射以对异常做出进一步的分析；然而，在初次显现的约十五小时后，SCP-6162-A 的物质矩阵开始显现出结构性退化，并在初次发现后的 16 小时 23 分钟后完全塌缩。\n\n**附录 6162.2：**解密后的传输数据\n\n以下为解密后的 KNKO-3 探测器被明显摧毁前接受到的信息。该由前所未知的子控件频率所传输的信息被 KNKO-3 的无线电传输系统当做静电而拾获——然而，人工智能对之前假定为噪声的信号分析确定其实际上为一段信息，以现代俄语传输，在 KNKO-3 被摧毁前八秒重复了十一次。此次传输的文本如下：\n\n[[div class=\"blockquote\"]]\nПошел ты, сука с фрегатом. Я посадил семя в вашем доме. теперь вас выселят.[[footnote]]**译注：**去你妈的，你个傻逼护卫舰。我在你家里种了颗种子。现在你们得被驱逐出去了。[[/footnote]]\n[[/div]]\n\n该信息及其来源相关的意义都是未知的。对 KNKO-3 所收集到的信息的进一步分析正在进行中。\n[[include :scp-wiki-cn:component:djk]]",
+  "tags": [
+    "euclid",
+    "scp",
+    "卫星",
+    "反熵",
+    "建筑",
+    "敌意",
+    "时空",
+    "星际",
+    "机械",
+    "电磁",
+    "通讯",
+    "门径"
+  ],
+  "author": "hoah2333",
+  "created_at": "2022-01-05T04:42:01+00:00",
+  "updated_at": "2022-04-07T02:44:57+00:00",
+  "rating": 6,
+  "_site": "scp-wiki-cn",
+  "_fullname": "scp-6162"
+}

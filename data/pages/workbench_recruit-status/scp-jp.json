@@ -1,0 +1,14 @@
+{
+  "title": "通年募集 募集状況",
+  "content": "+ 現在の募集状況\n\n###c12115|◉## - 人手不足\n###3580bd|**◯**## - 募集中\n△ - 人手が足りているため現在応募は要相談としています\n× - 応募は原則受け付けていません\n\n||~ モデレーター・チーム ||~ 募集状況 ||\n|| ウィキ運営 || ###c12115|◉## ||\n|| タグ専任 || ###3580bd|**◯**## ||\n|| テクニカル || ###c12115|◉## ||\n|| グローバル || ###c12115|◉## ||\n|| 渉外 || ###c12115|◉## ||\n|| チャット運営 || ###3580bd|**◯**## ||\n|| 広報 || ###3580bd|**◯**## ||\n\n||~ コントリビューター・チーム ||~ 募集状況 ||\n|| 注目記事選定委員 || × ||\n|| 合作剪定委員 || × ||\n|| イベント常任委員 || × ||\n|| サンドボックスオペレーター || ###c12115|◉## ||\n|| テクニカルコントリビューター || ###c12115|◉## ||\n|| 定例会オペレーター || ###c12115|◉## ||\n|| 財団新聞編集委員 || ###3580bd|**◯**## ||\n\n\n※ 募集を行っているチームに関して、応募いただいても確実に任用されるとは限らないことを予めご了承ください。\n\n[[module ThemePreviewer noUi=\"true\"]]\n\n\n[[module CSS]]\n/* table調整用 */\ntable.wiki-content-table {\n  width: 100%;\n}\ntable.wiki-content-table th:first-child {\n  width: 70%;\n}\ntable.wiki-content-table td:last-child {\n  text-align: center;\n}\n[[/module]]\n\n[[iftags]]\n\n[[code type=\"CSS\"]]\n#navi-bar,\n#navi-bar-shadow,\n#header,\n#side-bar,\n#page-title,\n#breadcrumbs,\n#page-info,\n.page-watch-options,\n.page-options-bottom,\n.page-tags,\n#footer,\n#license-area,\n#footer-bar,\n.odialog-shader,\n.hide-embed,\n.hiddenDisclaimer,\n.wikisys--template-dialog {display: none !important;}\n\n#main-content {\n  margin: 0!important;\n  padding: 0!important;\n  width: 100%!important;\n}\nbody{\nmargin:0!important;\npadding:0!important;\n}\n[[/code]]\n\n[[/iftags]]",
+  "tags": [
+    "jp",
+    "ワークベンチ"
+  ],
+  "author": "R74",
+  "created_at": "2025-01-13T19:32:02+00:00",
+  "updated_at": "2025-01-13T19:34:36+00:00",
+  "rating": 0,
+  "_site": "scp-jp",
+  "_fullname": "workbench:recruit-status"
+}

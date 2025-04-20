@@ -1,0 +1,14 @@
+{
+  "title": "접히는 상단바",
+  "content": "[[iftags +구성요소]]\n\n[[>]]\n[[module Rate]]\n[[/>]]\n\n상단바를 한번 더 접어 숨기는 컴포넌트입니다. 테마 제작시 PC나 모바일 환경에서 상단바 항목이 너무 길어 불편이 있을 경우 사용하면 좋습니다. 사용하려는 문서에 아래 구문을 복사해 붙여넣으세요.\n\n> @@[[include :scpko:component:collapsible-topbar]]@@\n\n필요하다면 아래의 인수를 적절히 재선언해주세요.\n\n* **maxw**\n * 이 값 이상의 화면폭을 가진 PC 환경에선 상단바를 접지 않습니다.\n * 767px ~ 10000px\n * 아래 인수들을 작동시키려면 maxw 인수를 수동 입력해야 합니다.\n* **top-color**\n * 상단바를 펼치는 버튼의 텍스트 색상을 바꿉니다.\n * 기본값: #FFF\n* **top-bg**\n * 펼쳐졌을 때 상단바의 배경 색상을 바꿉니다.\n * 기본값: 투명\n[[/iftags]]\n\n[[module CSS]]\n.mobile-top-bar {\n  max-width: 100% !important;\n}\n\n#top-bar {\n  color: #FFF;\n}\n\n@media (max-width: {$maxw}) and (min-width: 768px) {\n  #top-bar {\n    visibility: hidden;\n  }\n  #top-bar > div > ul::before {\n    content: \"둘러보기\";\n    color: {$top-color};\n    text-align: right;\n    visibility: visible;\n    display: block;\n  }\n\n  #top-bar:hover {\n    width: 100%;\n    visibility: visible;\n    background-color: {$top-bg};\n    border-left: 300px solid {$top-bg};\n  }\n  #top-bar:hover > div > ul::before {\n    visibility: hidden;\n    display: none;\n  }\n}\n\n@media (max-width: 767px) {\n  .mobile-top-bar {\n    width: 100%;\n  }\n\n  #top-bar {\n    visibility: hidden;\n  }\n  #top-bar .open-menu a {\n    visibility: visible;\n    display: block;\n  }\n  #top-bar > div > ul::after {\n    content: \"◀\";\n    color: {$top-color};\n    text-align: right;\n    visibility: visible;\n    display: block;\n  }\n\n  #top-bar:hover {\n    visibility: visible;\n    width: 100%;\n    background-color: {$top-bg};\n    border-left: 300px solid {$top-bg};\n  }\n  #top-bar:hover > div > ul::after {\n    visibility: hidden;\n    display: none;\n  }\n}\n\n@media (max-width: 385px) {\n  .mobile-top-bar {\n    width: 97%;\n  }\n}\n[[/module]]\n\n[[div style=\"display:none;\"]]\n[[include :scpko:component:collapsible-topbar maxw={$maxw}|maxw=10000px]]\n[[/div]]",
+  "tags": [
+    "ko",
+    "구성요소"
+  ],
+  "author": "thd-glasses",
+  "created_at": "2023-10-15T04:08:30+00:00",
+  "updated_at": "2023-10-18T14:32:37+00:00",
+  "rating": 4,
+  "_site": "scpko",
+  "_fullname": "component:collapsible-topbar"
+}

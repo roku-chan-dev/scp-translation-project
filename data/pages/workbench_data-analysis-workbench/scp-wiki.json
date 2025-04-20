@@ -1,0 +1,13 @@
+{
+  "title": "Data Analysis Workbench",
+  "content": "[[=]]\nThis page is the Data Analysis Workbench for the Community Outreach Staff Team.\n[[/=]]\n\n\n\n------\n\n[[include fragment:data-analysis-tables created_at=2024.10]]\n\n------",
+  "tags": [
+    "workbench"
+  ],
+  "author": "WhiteGuard",
+  "created_at": "2022-08-27T04:58:02+00:00",
+  "updated_at": "2024-11-02T00:42:09+00:00",
+  "rating": 9,
+  "_site": "scp-wiki",
+  "_fullname": "workbench:data-analysis-workbench"
+}

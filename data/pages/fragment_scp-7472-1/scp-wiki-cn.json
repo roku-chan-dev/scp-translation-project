@@ -1,0 +1,13 @@
+{
+  "title": "fragment:scp-7472-1",
+  "content": "[[include :scp-wiki:component:scp-pride]]\n\n[[module CSS]]\n#page-content { text-align: justify; }\n.hovertip { max-width: 400px; }\n.avatar-hover { display: none !important; }\n\n.special a {\n    animation: blink 0.8s ease-in-out infinite alternate;\n    font-weight: bold;\n}\n@keyframes blink {\n    0% { color: transparent; }\n    50%, 100% { color: #7E2520; }\n}\n[[/module]]\n\n\n\n[[div style=\"text-align: right; margin-top: -20px; font-size:80%; color: #757575;\"]]\n原作者 [[[AnActualCrow]]] 及 [[[ralliston-s-authorpage|Ralliston]]]\n[[/div]]\n\n[[include :scp-wiki-cn:component:anomaly-class-bar-source\n|lang= cn\n|item-number= 7472\n|clearance= 2\n|container-class= 等待分级\n|secondary-class= none\n|disruption-class= none\n|risk-class= none\n]]\n\n----\n\n[[include component:image-block\n|name=https://scp-wiki.wdfiles.com/local--files/scp-7472/prg3oWY.png\n|caption=波兰的树（图内没有松鼠）。\n|width=100%\n|align=center\n]]\n\n**特殊收容措施：** ###00658d|待定。##\n\n**描述：**SCP-7472是波兰，波兹南及其附近地区约4,0000-28,0000只松鼠消失的现象。调查仍在进行。\n\n _\n _\n\n~~~~\n[[div class=\"special\" style=\"text-align: center; font-size:1em; max-width:400px; margin:auto; opacity:0.7;\"]]\n您目前正在浏览的文档版本已过期。点击[/scp-7472/offset/1 此处]以查看最新迭代。\n[[/div]]\n\n@@ @@\n@@ @@",
+  "tags": [
+    "段落"
+  ],
+  "author": "lan_muda",
+  "created_at": "2023-12-03T08:48:55+00:00",
+  "updated_at": "2023-12-03T09:26:59+00:00",
+  "rating": 0,
+  "_site": "scp-wiki-cn",
+  "_fullname": "fragment:scp-7472-1"
+}

@@ -1,0 +1,16 @@
+{
+  "title": "Cole's Logo Emporium",
+  "content": "[[include :scp-wiki:theme:word-processor]]\n\n[[module css]]\n#header h1 a::before {\n    content: \"Cole's Logo Emporium\";\n    color: #333;\n    font-family: 'Baloo Bhaina 2', cursive;\n}\n #header h2 span {\n   color: transparent;\n   text-shadow: none;\n}\n#header h2 span::before {\n    content: '\"Insert Logo Here\"';\n    color: #0F4699;\n    font-family: 'Baloo Bhaina 2', cursive;\n}\n[[/module]]\n[[>]]\n[[module Rate]]\n[[/>]]\n[[=]]\nHello! I'm [[*user Cole 13]]. I've been playing around with making logos so here they are! If you want, feel free to use the logos! Just PM me so I know where to look!\n[[/=]]\n@@ @@\n@@ @@\n@@ @@\n@@ @@\n[[include :scp-wiki:component:image-features-source |hover-enlarge=--]\n|enlarge-amount=3\n|speed=200\n|float=true\n|align=center\n|width=300px\n|url= https://scp-wiki.wikidot.com/local--files/art:cole-s-logo-emporium/COLESTYLE.png\n|add-caption=true\n|caption= This is a logo that might be on my future COLESTYLE theme!\n]]\n@@ @@\n@@ @@\n@@ @@\n@@ @@\n[[include :scp-wiki:component:image-features-source |hover-enlarge=--]\n|enlarge-amount=3\n|speed=200\n|float=true\n|align=center\n|width=300px\n|url= https://scp-wiki.wikidot.com/local--files/art%3Acole-s-logo-emporium/MERICA.png\n|add-caption=true\n|caption= I made this somewhere around July 4th, just because.\n]]\n@@ @@\n@@ @@\n@@ @@\n@@ @@\n[[include :scp-wiki:component:image-features-source |hover-enlarge=--]\n|enlarge-amount=3\n|speed=200\n|float=true\n|align=center\n|width=300px\n|url= https://scp-wiki.wikidot.com/local--files/art%3Acole-s-logo-emporium/WANDPNG%20.png\n|add-caption=true\n|caption= I made this for my words of wisdom theme, a theme for the GOI the Wandsmen.\n]]\n@@ @@\n@@ @@\n@@ @@\n@@ @@\n[[include :scp-wiki:component:image-features-source |hover-enlarge=--]\n|enlarge-amount=3\n|speed=200\n|float=true\n|align=center\n|width=300px\n|url=\t https://scp-wiki.wikidot.com/local--files/art%3Acole-s-logo-emporium/wegg.png\n|add-caption=true\n|caption= This is kinda my vision of a AWCY logo!\n]]\n@@ @@\n@@ @@\n@@ @@\n@@ @@\n[[include :scp-wiki:component:image-features-source |hover-enlarge=--]\n|enlarge-amount=3\n|speed=200\n|float=true\n|align=center\n|width=300px\n|url= https://scp-wiki.wikidot.com/local--files/art%3Acole-s-logo-emporium/SPC.png\n|add-caption=true\n|caption= This is my version of the SPC logo!\n]]",
+  "tags": [
+    "_cc",
+    "artwork",
+    "goi-art",
+    "logo"
+  ],
+  "author": "Cole 13",
+  "created_at": "2021-10-10T16:44:02+00:00",
+  "updated_at": "2024-03-28T19:19:58+00:00",
+  "rating": 16,
+  "_site": "scp-wiki",
+  "_fullname": "art:cole-s-logo-emporium"
+}

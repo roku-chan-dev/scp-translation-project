@@ -1,0 +1,13 @@
+{
+  "title": "SCP-3939-58",
+  "content": "[[div class=\"scp-image-block block-right\" style=\"width: 300px;\"]]\n[[image https://scp-wiki.wdfiles.com/local--files/scp-3939/scp.jpg style=\"width: 300px;\"]]\n[[div class=\"scp-image-caption\" style=\"width: 300px;\"]]\nIMG_201802280039.JPG\n[[/div]]\n[[/div]]\n\n**Item #:** SCP-3939\n\n[[include :scp-wiki:fragment:util-scp-3939-object-class]]\n\n**Special Containment Procedures:** Object is kept in standard pre-containment holding cell. A researcher is to be assigned to classify it as soon as possible.\n\n**Description:** None yet available.\n\n[[div class=\"story\"]]\nAn hour and a half passes.\n\nA sharp beep from your communicator pulls you out of your haze. You pull it out of your pocket and take a look at what the notification was.\n\n> **3939-Gamma:** scp-3939.ftml (SCP Documentation File, 408 B)\n\nCarlos has uploaded the document draft.\n\n[[div class=\"choices\"]]\n[/scp-3939/offset/43 Download the file.]\n[[/div]]\n\n[[/div]]",
+  "tags": [
+    "fragment"
+  ],
+  "author": "Croquembouche",
+  "created_at": "2018-03-15T03:26:37+00:00",
+  "updated_at": "2024-12-09T23:22:45+00:00",
+  "rating": 1,
+  "_site": "scp-wiki",
+  "_fullname": "fragment:scp-3939-58"
+}

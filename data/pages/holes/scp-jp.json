@@ -1,0 +1,15 @@
+{
+  "title": "穴",
+  "content": "[[include :scp-jp:component:preview\ntext=There is a hole at the center of Everything.]]\n\n[[include :scp-wiki:theme:basalt darkmode=a | wide=a]]\n\n[[module CSS]]\n@import url('https://fonts.googleapis.com/css2?family=Zen+Kaku+Gothic+Antique:wght@300;400;500;700;900&display=swap');\n@import url('https://fonts.googleapis.com/css2?family=Poppins:wght@700&display=swap');\n:root {\n--header-logo: url('http://blightbox.wikidot.com/local--files/box/aye.png');\n--title:\"ホール\";\n--subtitle:\"フラッシュ・フィクション部門\";\n--sidesubtitle: \"ホール\";\n--sidelogo: url('http://blightbox.wikidot.com/local--files/box/aye.png');\n--header-font-primary: 'Poppins';\n--body-font-primary: 'Zen Kaku Gothic Antique', sans-serif;\n--basalt-undertone: 18, 18, 18;\n--swatch-menubg-black-color: 10,10,10;\n--swatch-menutxt-dark-color: 69, 69, 69;\n--UI-font-primary: 'Poppins';\n--basalt-main-text-color: 224, 219, 220 ;\n--selection-background-color: 197, 119, 41;\n--basalt-bright-element-color: var(--basalt-alternate-color);\n}\n\n\n[[/module]]\n\n\n[[=]]\n\n\n\n[[include :scp-jp:info:start]]\n**翻訳責任者:** [[*user MAKOdot-]]\n**翻訳年:** 2022\n**著作権者:** ©︎[[*user Billith]]\n**原題:** Holes\n**作成年:** 2022\n**初訳時参照リビジョン:** 11\n**元記事リンク:** https://scp-wiki.wikidot.com/holes\n[[include :scp-jp:info:end]]\n\n\n[[/=]]\n\n\n[[div class=\"notation\"]]\n全ての中心には穴がある。一度見たら二度と引き返すことは出来ず、君の心は永遠に変わってしまう。\n[[/div]]\n[[div class=\"notation\"]]\n宇宙の根本的な真実を定義するこの恐ろしい秘密を明らかにしても、静かな時間に慰めをもたらすことはできない。それを知っていようがぐっすりと眠ることはできない。代わりに、私がこれを説明すると、君は精神に傷を負ったまま取引を残すことになる—魂に課せられる賞罰。そして君は主張し続けるたびにそれに耐えなければならない、私のように。私より前に、この世界を本来の姿で見るよう教えてくれたすべての人たちと同じように—彼らが意図したかどうかに関わらず—そしてこれから知る人たちのように、盲目的に従い、答えを出すよりも多くの質問を提起する以外に彼らは頭を使わない。\n[[/div]]\n[[div class=\"notation\"]]\n穴は全ての中心に存在する。割れ目は、存在するものと存在しないものの間の空間を占める空虚を満たす。ほとんどの人間は、これらの空虚を作話や、肩をすくめ勝手なコメントで繋ぎ合わせる。納得できる嘘と、半分妥当な半分の真実で空間に落書きをする、私たちの生来の性向のように。物語はまとまり、オッカムの剃刀[[footnote]] **訳注:** [https://ja.wikipedia.org/wiki/オッカムの剃刀 「ある事柄を説明するためには、必要以上に多くを仮定するべきでない」とする指針。] [[/footnote]]の刃は永遠に研ぎ澄まされ、私たちは皆幸せに暮らしている。他に何ができるのか？\n[[/div]]\n[[div class=\"notation\"]]\nそれでも、残っているのは穴だけ。\n[[/div]]\n[[div class=\"notation\"]]\n今からそう遠くないうちに、君はその中にいることに気付くだろう。君はしばらくもがくかもしれない、そして君の爪はかつて考えられていたよりも強いことが証明されるかもしれない。悲鳴を上げると君の下に溜まっていく泥は、その点ではややメリットはあるだろうが、いずれ我々は皆沈み、それらの穴が埋められることはない。\n[[/div]]\n[[div class=\"notation\"]]\nそれが教訓であり、正解は存在しない。\n[[/div]]\n[[div class=\"notation\"]]\n穴底で君を待っているよ。\n[[/div]]",
+  "tags": [
+    "en",
+    "tale",
+    "クリーピーパスタ"
+  ],
+  "author": "MAKOdot-",
+  "created_at": "2022-12-23T13:02:18+00:00",
+  "updated_at": "2024-05-12T14:28:26+00:00",
+  "rating": 14,
+  "_site": "scp-jp",
+  "_fullname": "holes"
+}

@@ -1,0 +1,22 @@
+{
+  "title": "SCP-CN-2221",
+  "content": "[[include :scp-wiki-cn:credit:start]]\n**SCP-CN-2221：**凝华\n**作者：**[[*user All things are one]]\n感谢[[*user FHBNB]]，[[*user Drwaterbottle]]，[[*user DASHIdashi]]的帮助！\n----\n图像来源：https://pixabay.com/zh/photos/purple-mandala-fractal-glass-935012/\n\n------\n特别鸣谢[[*user beiguo]]提供了本文的最初点子！\n\n------\n\n[[[all-things-are-one-personnel-page |该作者的更多作品]]] \n[[include :scp-wiki-cn:credit:end]]\n[[module ListPages category=\"fragment\" parent=\".\" limit=\"1\" order=\"name\" offset=\"@URL|0\"]]\n\n%%content%%\n[[/module]]\n[[div class=\"footer-wikiwalk-nav\"]]\n[[=]]\n<< [[[SCP-CN-2220]]] | SCP-CN-2221 | [[[SCP-CN-2222]]] >>\n[[/=]]\n[[/div]]\n[[module CSS]]\n:root:lang(cn) {\n --header-title: \"SCP基金会\";\n --header-subtitle: \"控制，收容，保护\";\n}\n[[/module]]",
+  "tags": [
+    "k级情景",
+    "scp",
+    "原创",
+    "反物理定律",
+    "幻觉",
+    "机密分级",
+    "概念",
+    "现实扭曲",
+    "精神影响",
+    "认知危害"
+  ],
+  "author": "All things are one",
+  "created_at": "2021-05-29T12:14:12+00:00",
+  "updated_at": "2023-03-19T15:11:56+00:00",
+  "rating": 29,
+  "_site": "scp-wiki-cn",
+  "_fullname": "scp-cn-2221"
+}

@@ -1,0 +1,26 @@
+{
+  "title": "Three Farewells",
+  "content": "[[>]]\n[[module Rate]]\n[[/>]]\n\n[!--\nFragments:\nhttp://scp-wiki.wikidot.com/fragment:three-farewells-aktus\nhttp://scp-wiki.wikidot.com/fragment:three-farewells-navarro\nhttp://scp-wiki.wikidot.com/fragment:three-farewells-conwell\n--]\n\n[[module ListPages category=\"fragment\" parent=\".\" order=\"random\" limit=\"1\" ]]\n\n[[div style=\"border: solid 1px #999999; width: 95%; background: #DAFAD9; padding:  5px; float: center; margin-bottom: 4px;\"]]\n[[=]]\nYou are currently reading **%%title%%**'s perspective of this tale. To view another perspective, reload the page after sixty seconds. \n[[/=]]\n[[/div]]\n\n%%content%%\n\n[[/module]]\n\n[[include :scp-wiki:component:license-box\n|author=djkaktus, Jacob Conwell, and TwistedGears]]\n[[include :scp-wiki:component:license-box-end]]",
+  "tags": [
+    "_licensebox",
+    "_listpages",
+    "action",
+    "agent-navarro",
+    "bittersweet",
+    "breakout",
+    "co-authored",
+    "comedy",
+    "director-aktus",
+    "fantasy",
+    "researcher-conwell",
+    "slice-of-life",
+    "tale",
+    "twisted-pines"
+  ],
+  "author": "Jacob Conwell",
+  "created_at": "2014-08-22T06:35:05+00:00",
+  "updated_at": "2024-10-11T19:58:24+00:00",
+  "rating": 93,
+  "_site": "scp-wiki",
+  "_fullname": "three-farewells"
+}

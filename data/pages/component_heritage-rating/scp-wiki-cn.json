@@ -1,0 +1,13 @@
+{
+  "title": "传承评分栏",
+  "content": "[[>]]\n[[div class=\"heritage-rating-module\"]]\n[!--[[module Rate]]--]\n[[div class=\"heritage-emblem\"]]\n[[image http://scp-wiki-cn.wdfiles.com/local--files/component%3Aheritage-rating/scp-heritage-v3.png [[iftags +jp]]link=\"/heritage-collection-jp\"[[/iftags]][[iftags +fr]]link=\"/patrimoine-francais-de-la-fondation-scp\"[[/iftags]]]]\n[[/div]]\n[[/div]]\n[[/>]]",
+  "tags": [
+    "组件"
+  ],
+  "author": "Areyoucrazytom",
+  "created_at": "2016-03-08T03:31:12+00:00",
+  "updated_at": "2021-04-05T10:40:08+00:00",
+  "rating": 6,
+  "_site": "scp-wiki-cn",
+  "_fullname": "component:heritage-rating"
+}

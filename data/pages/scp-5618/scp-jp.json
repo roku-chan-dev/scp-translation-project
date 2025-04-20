@@ -1,0 +1,18 @@
+{
+  "title": "SCP-5618",
+  "content": "[[include :scp-jp:theme:blankstyle acs=a|fade=a]]\n\n[[module CSS]]\n#header {\n  background-image: url('http://scp-jp-storage.wikidot.com/local--files/file:6085604-13-yal4/OC.png')\n}\n[[/module]]\n\n[!--\nFragments:\nhttp://scp-jp.wikidot.com/fragment:scp-5618-offset-0\nhttp://scp-jp.wikidot.com/fragment:scp-5618-offset-1\n--]\n\n[[module ListPages category=\"fragment\" parent=\".\" order=\"created_at\" limit=\"1\" offset=\"@URL|0\"]]\n%%content%%\n[[/module]]",
+  "tags": [
+    "en",
+    "esoteric-class",
+    "k-クラスシナリオ",
+    "on-guard-43",
+    "scp",
+    "時間"
+  ],
+  "author": "Voila",
+  "created_at": "2021-04-19T14:43:13+00:00",
+  "updated_at": "2022-10-31T22:55:40+00:00",
+  "rating": 51,
+  "_site": "scp-jp",
+  "_fullname": "scp-5618"
+}

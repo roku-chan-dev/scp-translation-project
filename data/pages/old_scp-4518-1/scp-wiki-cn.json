@@ -1,0 +1,19 @@
+{
+  "title": "SCP-4791",
+  "content": "[[module CSS]]\n#page-title {display: ;}\n.footnotes-footer {display:none;}\n[[/module]]\n[[include :scp-wiki-cn:credit:start-standalone]]\n[[=]]\n++++ SCP-4791\n+++ 慢慢飘浮穿过天空，我说声再见\n由[[*user jack waltz]]写作\n------\n+++++ [[[jack-waltz |看看我的作者页！]]]\n[[/=]]\n[[include :scp-wiki-cn:credit:end-standalone]]\n\n**项目编号：**SCP-4791\n\n**项目等级：**Euclid\n\n**特殊收容措施：**由于SCP-4791高度惰性且无扰动性，对其进行物理收容是不必要的。Site-228将负责进一步研究。\n\n**描述：**SCP-4791是一只完全充气的破旧蓝色橡胶气球，上有生日蛋糕图案。气球线上系着一张写在卡纸上的笔记，似乎不受湿度和风化的影响//（见附录）//。\n\n对象以缓慢的速度穿过对流层，在10千米以下海拔上下飘移。发现SCP-4791避开了极端的天气情况，仅出现在无风的区域，有时会在有大片云层之处。\n\n当前未知SCP-4791如何获得其异常性质，但其发现于2022年3月13日，Tina Walles的葬礼之后，Site-228在Walles住宅中探测到了奇术活动的残余。对其住所的搜查未发现与SCP-4791或其来源相关的项目。该处房产当前属于Jakob Walles[[footnote]]现处于基金会监视下。[[/footnote]]，后者将其作为遗产从母亲Tina Walles处继承而来。但房屋当前无人居住。\n\n**附录：**附在气球上的笔记抄录如下。\n\n[[div class=\"blockquote\"]]\n对不起，我没能在你需要的时候陪在你身边。要是我知道的话，我就不会走了。\n\n你给了我你的一切。我很高兴可以得到你所有的关爱与温暖。\n\n这个气球就是你在我最后一个生日上送给我的那个。我一直都拿着它，哪怕它没气了。现在，我用它来向你传递这条信息。\n\n我希望你能找到它，无论你在天上的哪里。谢谢你，我爱你，妈妈。\n[[/div]]\n[[size 2em]]@@ @@[[/size]]\n[[footnoteblock]]\n------\n[[div class=\"footer-wikiwalk-nav\"]]\n[[=]]\n<< [[[SCP-4790]]] | SCP-4791 | [[[SCP-4792]]] >>\n[[/=]]\n[[/div]]\n\n[[include :scp-wiki-cn:component:license-box\n| author=Jack Waltz]]\n[[include :scp-wiki-cn:component:license-box-end]]",
+  "tags": [
+    "euclid",
+    "scp",
+    "天空",
+    "异常移动",
+    "文件",
+    "未收容",
+    "玩具"
+  ],
+  "author": "Esperanza_Cai",
+  "created_at": "2022-04-17T05:57:38+00:00",
+  "updated_at": "2024-11-11T13:53:26+00:00",
+  "rating": 2,
+  "_site": "scp-wiki-cn",
+  "_fullname": "old:scp-4518-1"
+}

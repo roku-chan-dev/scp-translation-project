@@ -1,0 +1,18 @@
+{
+  "title": "SCP-7122",
+  "content": "[[=]]\n[[module Rate]]\n[[/=]]\n------\n\n[[module ListPages  category=\"fragment\" parent=\".\" limit=\"1\" order=\"created_at\" offset=\"@URL|0\"]]\n%%content%%\n[[/module]]\n\n[!-- https://scp-wiki.wikidot.com/fragment:scp-7122-0 --]\n[!-- https://scp-wiki.wikidot.com/fragment:scp-7122-1 --]",
+  "tags": [
+    "_cc",
+    "_listpages",
+    "photographic",
+    "reanimation",
+    "safe",
+    "scp"
+  ],
+  "author": "Dr Emil J Svensson",
+  "created_at": "2022-12-05T17:04:42+00:00",
+  "updated_at": "2023-03-15T14:54:44+00:00",
+  "rating": 107,
+  "_site": "scp-wiki",
+  "_fullname": "scp-7122"
+}

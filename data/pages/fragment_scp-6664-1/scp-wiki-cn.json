@@ -1,0 +1,13 @@
+{
+  "title": "SCP-6664 1",
+  "content": "[[include :scp-wiki-cn:theme:black-highlighter-theme]]\n\n[[include :scp-wiki:component:bhl-dark-sidebar]]\n\n[[include :scp-wiki:component:toggle-sidebar-bhl]]\n\n[[include :scp-wiki:component:acs-animation]]\n\n[[div class=\"blockquote\"]]\n//对原文档的改动以##blue|蓝色##突出显示。//\n[[/div]]\n\n[[include :scp-wiki-cn:component:anomaly-class-bar-source\n\n    | lang=cn\n\n    |item-number= 6664\n\n    |clearance= 1\n\n    |container-class= safe\n\n    |secondary-class= none\n\n    |disruption-class= dark\n\n    |risk-class= 需谨慎\n\n    ]]\n\n-----\n\n[[include component:image-block name=http://scp-wiki.wikidot.com/local--files/fragment:scp-6664-1/treeII.png|align=center|width=100%|caption=收容前的SCP-6664。]]\n\n-----\n\n**特殊收容措施：**SCP-6664应被收容于##blue|Site-86##生物收容区的温室中。 为防止对SCP-6664的枝叶造成损坏，应禁止攀爬之。\n\n**描述：**SCP-6664为一目前位于##blue|Site-86##的##blue|北美翠柏（//Calocedrus decurrens//）##，俗称##blue|加州香松##。除其异常性质外，其与同树种树木无异。\n\nSCP-6664将在为人类所##blue|伤害##时表现出其异常性质。当一##blue|人类伤害##SCP-6664时，攻击并不会如预期般##blue|对SCP-6664造成影响## ，，##blue| SCP-6664也不会受到损伤。相反，攻击者将受到一次弱化伤害，并于其身上发现一份文字说明。##该##blue|说明##称为SCP-6664-1。\n\nSCP-6664-1##blue|为向伤害SCP-6664的人所发出的书面说明##。SCP-6664-1##blue|以铅笔写于纸上，写有以下文本，“现在你知道它的感受了？请不要伤害树”，同时附有一画着笑脸的简笔画。尚不明确SCP-6664-1作者的身份，前提是其存在的话。##\n\n-----\n\n[[=]]\n+ **附录6664.1：发现记录**\n[[/=]]\n\nSCP-6664被发现于2014年1月18日，##blue|基金会初级研究员Stephanie Mulberry##，声称##blue|在散步时踢了SCP-6664之后，她身体的一侧立即感到疼痛。当她再多踢几下时，她发现了##SCP-6664-1并且报告其可能为一种异常。随后SCP-6664被移至##blue|Site-86##.\n\n[[div class=\"blockquote\"]]\n//我注意到该文件的几个部分存在错误，因此对其进行了相应的修改。//\n\n//——King博士//\n\n**附件：**[[[http://scp-wiki-cn.wikidot.com/scp-6664/offset/2| SCP-6664-修订文档.pdf]]]\n\n[[/div]]",
+  "tags": [
+    "段落"
+  ],
+  "author": "EvkesraRe",
+  "created_at": "2022-02-11T14:27:23+00:00",
+  "updated_at": "2022-02-11T14:35:28+00:00",
+  "rating": 0,
+  "_site": "scp-wiki-cn",
+  "_fullname": "fragment:scp-6664-1"
+}

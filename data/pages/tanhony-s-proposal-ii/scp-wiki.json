@@ -1,0 +1,28 @@
+{
+  "title": "Tanhony's Proposal II",
+  "content": "[[>]]\n[[module Rate]]\n[[/>]]\n\n[!--\nFragments:\nhttp://scp-wiki.wikidot.com/fragment:tanhony-s-proposal-ii-1\nhttp://scp-wiki.wikidot.com/fragment:tanhony-s-proposal-ii-2\nhttp://scp-wiki.wikidot.com/fragment:tanhony-s-proposal-ii-3\nhttp://scp-wiki.wikidot.com/fragment:tanhony-s-proposal-ii-4\nhttp://scp-wiki.wikidot.com/fragment:tanhony-s-proposal-ii-5\nhttp://scp-wiki.wikidot.com/fragment:tanhony-s-proposal-ii-6\nhttp://scp-wiki.wikidot.com/fragment:tanhony-s-proposal-ii-7\n--]\n\n[[module ListPages category=\"fragment\" parent=\".\" limit=\"1\" order=\"created_at\" offset=\"@URL|0\"]]\n%%content%%\n[[/module]]\n\n[[include :scp-wiki:component:license-box]]\n[!-- N/A (No Images)  --]\n[[include :scp-wiki:component:license-box-end]]",
+  "tags": [
+    "001-proposal",
+    "_licensebox",
+    "_listpages",
+    "concept",
+    "entropic",
+    "extraterrestrial",
+    "historical",
+    "hostile",
+    "keter",
+    "meta",
+    "observational",
+    "phenomenon",
+    "scp",
+    "the-administrator",
+    "the-sculpture",
+    "transfiguration"
+  ],
+  "author": "Tanhony",
+  "created_at": "2020-05-27T15:13:00+00:00",
+  "updated_at": "2024-04-17T21:45:45+00:00",
+  "rating": 652,
+  "_site": "scp-wiki",
+  "_fullname": "tanhony-s-proposal-ii"
+}

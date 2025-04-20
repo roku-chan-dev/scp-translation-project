@@ -1,0 +1,21 @@
+{
+  "title": "SCP-CN-2918",
+  "content": "[[include :scp-wiki-cn:theme:minimal\n|title=SCP基金会\n|subtitle=控制，收容，保护]]\n\n[[include :scp-wiki-cn:credit:start]]\nSCP-CN-2918：雨韵\n\n**作者：**[[*user Unnamed life]]\n\n**作者页：**[[[Dr Unna | Dr.Unna的人事档案]]]\n\n音乐可以治愈人心，一场透彻的大雨也是。\n\n图源：https://www.pexels.com/zh-cn/photo/1529360/\n\n谢谢[[*user 5M7]]对草稿的帮助。\n\n[[include :scp-wiki-cn:credit:end]]\n\n[[include component:image-block name=雨|caption=一次“演奏”事件正在发生|width=275px]]\n\n**项目编号：**SCP-CN-2918\n\n**收容等级：**Keter\n\n**特殊收容措施：**目前认为SCP-CN-2918无法被收容，特殊收容措施以追踪项目，及尽量消除其影响为主。\n\nSCP-CN-2918的追踪工作由MTF-丙申-17“听雨眠”负责，当一次“演奏”事件发生后，应立即报告就近站点。\n\n一次“演奏”事件发生后，相关站点应立即准备掩盖故事，并随时准备对有关人员进行记忆删除。\n\n**描述：**SCP-CN-2918为一片积雨云，推测其具有一定的自主意识。因缺乏有效的沟通方式，尚无法确定其具体智能水平。\n\nSCP-CN-2918能够进行降雨。由SCP-CN-2918引发的降雨称为“演奏”事件。\n\n“演奏”事件发生时，其降雨区域内除雨声外的声音将减弱至10dB以下。其雨声通常被描述为“富于韵律的”、“动听的”。“演奏”事件一般符合以下规律：\n* 发生地点中心为一个高度现代化的城市，常住人口一般超过50万；\n* 发生时间在傍晚或凌晨；\n* 持续时间不超过一个小时，降雨量不超过10mm。\n\n自SCP-CN-2918被发现以来，共发生392次“演奏”事件，其中约56%的“演奏”事件中有部分时段的雨声与某一有记录的旋律高度相似[[footnote]] 包括音色、音高、节奏、频谱等。 [[/footnote]]，这些旋律类型不定。值得注意的是，其中部分为已收容的异常。\n\n“演奏”事件发生后一个月内，其覆盖地区的自杀率将大幅下降，二者之间的联系尚不明确。\n\n[[footnoteblock]]\n\n[[=]]\n[[div class=\"footer-wikiwalk-nav\"]]\n<<[[[SCP-CN-2917]]] | SCP-CN-2918 | [[[SCP-CN-2919]]]>>\n[[/div]]\n[[/=]]",
+  "tags": [
+    "keter",
+    "scp",
+    "原创",
+    "声音",
+    "感知力",
+    "无定形",
+    "智能",
+    "气象",
+    "音乐性"
+  ],
+  "author": "Unnamed life",
+  "created_at": "2021-06-06T15:58:57+00:00",
+  "updated_at": "2021-06-06T16:00:09+00:00",
+  "rating": 18,
+  "_site": "scp-wiki-cn",
+  "_fullname": "scp-cn-2918"
+}

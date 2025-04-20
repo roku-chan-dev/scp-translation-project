@@ -1,0 +1,14 @@
+{
+  "title": "成人向けコンテンツ警告見出し",
+  "content": "[[module CSS]]\n#page-title {\n    display: none;\n}\n\na#pagerate-button,\n.page-rate-widget-box {\n    display: none;\n}\n[[/module]]\n\n[[div_ class=\"wikisys--template-dialog\"]]\n[[div_ class=\"wikisys--template-dialog-header\"]]\n成人向けコンテンツを含むページです\n[[/div]]\n[[div_ class=\"wikisys--template-dialog-content\"]]\n**このページには成人向けコンテンツが含まれています。**\n**あなたが18歳以上であり、これらのコンテンツの閲覧を希望される場合は、ご自身の責任で閲覧してください。**\n\n[[module listpages separate=\"no\" wrapper=\"no\" range=\".\"]]\n**[/adult:%%name%%/noredirect/true このページの内容を閲覧するには、ここをクリックしてください。]**\n[[/module]]\n[[/div]]\n[[div_ class=\"wikisys--template-dialog-footer\"]]\nこのページについて、詳しくは[[[adult-guide|]]]を確認してください。\n[[/div]]\n[[/div]]",
+  "tags": [
+    "en",
+    "コンポーネント"
+  ],
+  "author": "islandsmaster",
+  "created_at": "2022-09-03T16:45:18+00:00",
+  "updated_at": "2022-09-03T16:48:21+00:00",
+  "rating": 1,
+  "_site": "scp-jp",
+  "_fullname": "component:adult-splash"
+}

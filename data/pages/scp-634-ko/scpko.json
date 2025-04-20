@@ -1,0 +1,20 @@
+{
+  "title": "SCP-634-KO",
+  "content": "[[include :scpko:theme:flopstyle]]\n\n[[include :scpko:theme:anniversary\n|custom=1|ip=#E7340C|font=#FFF|shadow=#000\n|subtitle=우리가 살아가는 곳\n]]\n\n[[module CSS]]\n:root {\n  --header-logo: url(http://scpko.wdfiles.com/local--files/samcheonri-contest-gwangju/gw-logo.png) 0px 35px no-repeat;\n\n  --color-bg: repeat-x center/100% url(\"http://scpko.wdfiles.com/local--files/samcheonri-contest-gwangju/gw.png\");\n}\n\n#breadcrumbs {\n  display: none;\n}\n\n #search-top-box-input, #search-top-box-input:hover, #search-top-box-input:focus {\n     background: #FFF;\n}\n\n h2, h3 {\n     font-family: 'GowunBatang-Bold', Arial, sans-serif;\n}\n\n #header h1 a::before {\n     color: #FFF;\n     text-shadow: 0 -3px #E7340C, 0 3px #E7340C, 3px 0 #E7340C, -3px 0 #E7340C, 2px 2px #E7340C, 2px -2px #E7340C, -2px 2px #E7340C, -2px -2px #E7340C;\n}\n\n.rate-box-with-credit-button, .page-rate-widget-box {\n  --color-bg: #A41;\n}\n\n@media (max-width: 676px) {\n  :root {\n    --color-bg: no-repeat center/auto 100% url(\"http://scpko.wdfiles.com/local--files/samcheonri-contest-gwangju/gw.png\");\n  }\n}\n[[/module]]\n\n[[>]]\n[[module Rate]]\n[[/>]]\n\n**일련번호:** SCP-634-KO\n\n**등급:** 안전 (Safe)\n\n**특수 격리 절차:** SCP-634-KO는 제05K기지의 식물형 SCP 격리 동에 격리한다. SCP-634-KO를 대상으로 한 관리는 표준 식물형 SCP 관리 절차를 따른다.\n\n**설명:** SCP-634-KO는 대한민국 전라남도 광주광역시 [편집됨]에서 발견된 동백나무(//C. japonica//)이다. SCP-634-KO는 조선 중기에 심어진 것으로 추정되며, 아래에는 9구의 시신이 매장되어있다.\n\nSCP-634-KO에 접촉한 대상은 SCP-634-KO-A를 목격하게 된다.\n\nSCP-634-KO-A는 정주성 심령 독립체로, 일반적으로는 지박령(地縛霊)이라 일컬어진다. SCP-634-KO-A는 성인 여성의 형상을 띄며, 조선 시대의 기녀복(妓女服)을 착용하고 있다. SCP-634-KO-A는 SCP-634-KO와 접촉자를 제외한 모든 대상과 물리적인 상호작용이 불가능하며, 접촉자에 한정하여 음성을 통한 의사소통이 가능하다.\n-----\n**부록 634ko/A:** 다음은 SCP-634-KO-A를 대상으로 실시된 면담 기록의 발췌본이다.\n\n[[collapsible show=\"▷ SCP-634-KO 면담 기록\" hide=\"▽ SCP-634-KO 면담 기록\"]]\n\n[[include :scpko:component:cbone-scp-block-1\n|title-display=1\n|fir-display=1\n|title=면담 기록 634ko\n|fircap=//비고: SCP-634-KO-A의 발언은 신재우 박사와 함께 SCP-634-KO에 접촉하고 있었던 재단 서기에 의해 기록됨.//\n|capstyle=1\n]]\n= (중략)\n\n**신재우 박사:** 여기서 뭐하고 계십니까?\n\n**SCP-634-KO-A:** 자리를 지키지요.\n\n**신재우 박사:** 자리를 지킨다 하심은?\n\n**SCP-634-KO-A:** 말 그대로요. 이곳에서 재회하기로 하였기에.\n\n**신재우 박사:** 누구와 재회한다는 말씀이시죠?\n\n**SCP-634-KO-A:** 그야 물론 저의 소중한 임 아니겠습니까.\n\n= (중략)\n\n**신재우 박사:** 실례지만, 그러면 귀하는 스스로가 어떤 상태인지 알고 계신다는 말씀이십니까?\n\n**SCP-634-KO-A:** 당연한거 아니겠소. 소녀의 몸이 어찌 산 자의 몸이겠습니까. 이리 봐도 저리 봐도 망자임이 분명커늘.\n\n**신재우 박사:** 그렇다면 어째서 이곳에 계시는 겁니까?\n\n**SCP-634-KO-A:** 재회하고자 약조하였으니까.\n\n**신재우 박사:** 약조라 함은, 이전에 말씀하셨던 '임' 말씀이신가요?\n\n**SCP-634-KO-A:** 그러하오.\n\n**신재우 박사:** 어떤 약조를 하셨는지 여쭤봐도 되겠습니까?\n\n**SCP-634-KO-A:** 제가 사정이 생겨 먼저 절명하고 말았으니, 이 동백나무 아래서 그이를 영원토록 기다리겠다. 하는 약조이지요.\n\n**신재우 박사:** 그분을 굉장히 사랑하셨나봅니다.\n\n**SCP-634-KO-A:** 한낱 기생 나부랭이였던 저를 사모하여 이름과 삶을 주시고, 몽매하던 저를 손수 일깨워주시고, 황천을 헤메이고 있던 저를 마지막까지 걱정해주신 그이을 어찌 애정치 않으리오.\n\n= (중략)\n\n**신재우 박사:** 그럼 그 '임'은 만나셨습니까?\n\n**SCP-634-KO-A:** 사실 옛저녁에 몇번 만나긴 했소만, 매번 사정이 있어 돌려보냈지요.\n\n**신재우 박사:** 어째서죠?\n\n**SCP-634-KO-A:** 임께서 오랜 세월에 그만 바람이 든건지, 저를 잊고 다른 것을 품는 것 아니겠습니까.\n\n**신재우 박사:** 그럼 귀하는 어떻게 하셨나요?\n\n**SCP-634-KO-A:** 남의 임을 탐하는 어리석은 것들은 죄로 다스려야 마땅치 않겠습니까.\n\n**신재우 박사:** 자세히 말씀해주세요.\n\n**SCP-634-KO-A:** 그이를 유혹했을 그 입술과 혀를 도려내고, 그이를 붙잡았을 그 더러운 손을 잘라내고, 그이와 정을 나눴을 그 성기를 뽑아버려 산채로 묻어버렸지요.\n\n**신재우 박사:** 이 나무(SCP-634-KO) 아래에 말씀이신가요?\n\n**SCP-634-KO-A:** 그러하오.\n\n**신재우 박사:** 시신이 9구가 발견되었습니다만.\n\n**SCP-634-KO-A:** 난(蘭)을 탐하는 충(蟲)이 많아 달리 어찌 할 도리가 없었지요.\n\n= (하략)\n[[include :scpko:component:cbone-scp-block-2]]\n\n[[/collapsible]]",
+  "tags": [
+    "ko",
+    "scp",
+    "나무",
+    "사체",
+    "삼천리-광주",
+    "식물",
+    "안전",
+    "인간형"
+  ],
+  "author": null,
+  "created_at": "2022-04-18T17:14:47+00:00",
+  "updated_at": "2023-11-14T07:28:19+00:00",
+  "rating": 4,
+  "_site": "scpko",
+  "_fullname": "scp-634-ko"
+}

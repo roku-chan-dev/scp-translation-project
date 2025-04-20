@@ -1,0 +1,18 @@
+{
+  "title": "Eco-Sabotage (S-67789)",
+  "content": "[[>]]\n[[module Rate]]\n[[/>]]\n\n[!--\nFragment list:\nhttp://scp-wiki.wikidot.com/fragment:eco-sabotage-0\nhttp://scp-wiki.wikidot.com/fragment:eco-sabotage-1\n--]\n\n[[module ListPages category=\"fragment\" parent=\".\" order=\"created_at\" limit=\"1\" offset=\"@URL|0\"]]\n%%content%%\n[[/module]]",
+  "tags": [
+    "_factory",
+    "_listpages",
+    "corporate",
+    "factory",
+    "fantasy",
+    "goi-format"
+  ],
+  "author": "torcsandantlers",
+  "created_at": "2020-03-08T05:01:48+00:00",
+  "updated_at": "2024-10-17T19:17:46+00:00",
+  "rating": 34,
+  "_site": "scp-wiki",
+  "_fullname": "eco-sabotage-s-67789"
+}

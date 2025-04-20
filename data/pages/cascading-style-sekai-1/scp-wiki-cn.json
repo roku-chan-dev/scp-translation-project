@@ -1,0 +1,20 @@
+{
+  "title": "层叠漾世歌（其一）：酩酊街上初逢酬赠忘忧人",
+  "content": "[[include :scp-wiki-cn:theme:black-highlighter-theme]]\n[[include :scp-wiki-cn:theme:swirling-ashes]]\n[[include :scp-wiki:component:bhl-dark-sidebar]]\n[[include :scpsandboxcn:etinjat-wanderers-bhl-css]]\n\n[[module css]]\n:root:lang(cn){\n  --header-title: \"链接时代\";\n--header-subtitle: \"错误！错误！错误！\";\n}\n\n@media (max-width: 479px) {\n.poem-7 {\n  font-size:120% ;\n}\n}\n[[/module]]\n\n[[>]]\n[[module Rate]]\n[[/>]]\n\n@@@@\n\n[[div class=\"ej-outbox\"]]\n[[div class=\"ej-innerbox\"]]\n[[div class=\"poem-7\"]]\n\n\n盘砌虫儿肥，或生或死眼馀悲\n\n觥摇浮世浪，时起时沉旧影微\n\n个中辛苦不能饮，饮罢浓愁塞哑言\n\n却顾六龙回日处，丛楼涌刺[[[dummy-html|曙何年]]]\n\n玄穹时落尘，入地生迷魂\n\n千岁徘徊叠道上，惶惶车兽呕朦云\n\n云深光死尸斑乱，五色霓灯令眼盲\n\n犹恨斗魁杳​，不能指十方\n\n犹恨秋槎小，不承万代浮棺​没苍苍\n\n@@@@\n@@@@\n\n酒千斤，涤锈心\n\n谁人为我沽​，任我楚歌更楚舞\n\n凤兮凤兮夜孤飞，一辞百鸟向天姥\n\n迮见界下赤缆蛇，急浪排空长啸促\n\n伪星阵列张硅瞳，艾字节中逃大数\n\n才脱万维磁电网，却惊神矢掣灵台\n\n蟠红总落银河水，析作乱雨洒幽霾\n\n或谓贞血暖世寒，铁钩常拾楚门骸\n\n久久歌哭须臾忘，谁扶空棺​独徘徊\n\n\n@@@@\n@@@@\n\n[!--巨鼸--]\n团鼠穴神丘，慄众躬幽深\n\n唯恐一时牺牲少，剖肝输胆奉天人\n\n乃囚其身众栅格，乃隐其恨矬病骨\n\n乃佩魌面步傩戏，彩装空向人前舞\n\n骷髅何必驱骷髅？牵肠勾作吉他鬼\n\n空鸣浮软声艰涩，犹喜腐鼠成滋味\n\n千仞城上迷离眼，醉瞥歌入铁林寒\n\n轻敲尘柱朽成碑，碑铭死者造生棺\n\n\n@@@@\n@@@@\n\n六识灭，萤光销溶酸液\n\n灵魂解构编译深，幻变虚拟界\n\n寻光遇光竟化光，光落深渊共其彰\n\n欲举燧火照今古，难抵寒风侵废土\n\n吹落但知身在水，空仰影视迭天幕\n\n河汉倾淋薄日稀，或观浊浪识屠体\n\n洋流层上多游子，酩酊街边孰醉死\n\n固晓断肠难殢酒，相忘江湖淡沫哀\n\n大梦迷觉逃我形，此界叠棺敛我怀\n\n\n@@@@\n@@@@\n\n\n[[/div]]\n[[/div]]\n[[/div]]",
+  "tags": [
+    "linkage",
+    "pangloss",
+    "原创",
+    "故事",
+    "文言文",
+    "破碎之神教会",
+    "诗歌",
+    "酩酊街"
+  ],
+  "author": "Etinjat",
+  "created_at": "2020-02-01T16:32:43+00:00",
+  "updated_at": "2023-01-10T16:51:50+00:00",
+  "rating": 33,
+  "_site": "scp-wiki-cn",
+  "_fullname": "cascading-style-sekai-1"
+}

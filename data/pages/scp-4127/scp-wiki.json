@@ -1,0 +1,21 @@
+{
+  "title": "SCP-4127",
+  "content": "[[include :scp-wiki:info:start]]\n**SCP-4127:** Heads or Tails\n**Author:** [[*user the great hippo]]\n**Images:** [https://commons.wikimedia.org/wiki/File:Buffalo_nickles.jpg Link].\n\n**Music:** [https://youtu.be/I2RXgHfqYx0 Right Back Where We Started From] (Sinitta)\n----\n[[include :scpsandbox2:hippo]]\n[[include :scp-wiki:info:more]]\n[[include :scp-wiki:info:end]]\n\n\n\n[!-- Editing this page may royally mess up the code for displaying the iterations. If you notice an error that needs to be fixed, message the author (me) or comment on the discussion page. --]\n\n[[module ListPages category=\"fragment\" parent=\".\" limit=\"1\" order=\"random\"]]\n%%content%%\n[[/module]]\n\n[!-- For translators, here is a direct link to each iteration. --]\n[!-- https://scp-wiki.wikidot.com/fragment:scp-4127-1 --]\n[!-- https://scp-wiki.wikidot.com/fragment:scp-4127-2 --]\n[!-- To make ListPages work correctly, make this main page first, then upload the first iteration and set its parent to the first page. Repeat that for each iteration. Remember to change the offset links at the bottom of each iteration to the the correct link for your site. --]\n\n\n[[footnoteblock]]\n[[div class=\"footer-wikiwalk-nav\"]]\n[[=]]\n<< [[[SCP-4126]]] | SCP-4127 | [[[SCP-4128]]] >>\n[[/=]]\n[[/div]]\n[[include :scp-wiki:component:license-box]]\n=====\n> **Filename:** nickel.png //(Fragment 1)//\n> **Author:** [[*user the great hippo]]\n> **License:** CC BY-SA 3.0\n> **Source Link:** [/scp-4127 SCP Foundation Wiki]\n> **Derivative Of:**\n> ----\n> **Name:** Buffalo nickles.jpg\n> **Author:** Danthoms\n> **License:** CC BY-SA 4.0\n> **Source Link:** [https://commons.wikimedia.org/wiki/file:buffalo_nickles.jpg Wikimedia Commons]\n\n> **Filename:** nickel.png //(Fragment 2)//\n> **Author:** [[*user the great hippo]]\n> **License:** CC BY-SA 3.0\n> **Source Link:** [/scp-4127 SCP Foundation Wiki]\n> **Derivative Of:**\n> ----\n> **Name:** RIP Hobo Coin Series I.jpg\n> **Author:** Codesigned\n> **License:** CC BY-SA 4.0\n> **Source Link:** [https://commons.wikimedia.org/wiki/file:rIP_Hobo_Coin_Series_I.jpg Wikimedia Commons]\n=====\n[[include :scp-wiki:component:license-box-end]]",
+  "tags": [
+    "_cc",
+    "_licensebox",
+    "_listpages",
+    "currency",
+    "inscription",
+    "loop",
+    "neutralized",
+    "probability",
+    "scp"
+  ],
+  "author": "The Great Hippo",
+  "created_at": "2019-04-15T08:51:28+00:00",
+  "updated_at": "2024-02-16T06:32:03+00:00",
+  "rating": 284,
+  "_site": "scp-wiki",
+  "_fullname": "scp-4127"
+}

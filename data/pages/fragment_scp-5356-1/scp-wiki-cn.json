@@ -1,0 +1,13 @@
+{
+  "title": "fragment:scp-5356-1",
+  "content": "[[include :scp-wiki-cn:theme:black-highlighter-theme]]\n[[include :scp-wiki-cn:component:anomaly-class-bar-source\n|lang=cn\n|item-number= 错误\n|clearance= #\n|container-class= 错误\n|secondary-class= 错误\n|disruption-class= 错误\n|risk-class= 错误\n]]\n[[include :scp-wiki:component:acs-animation]]\n[[include :scp-wiki:component:fade-in speed=2]]\n\n> 文件“[[[SCP-5356]]]”不存在。文件所述对象有可能[[[archived-scps |已归档]]]、[[[scp-ex | 已解明]]]、或[[[archived:decommissioned-scps | 已废除]]]，并从主数据库中移除。若否，你可能遭遇了数据库错误，应联系RAISA寻求帮助。\n> \n> 若你不认为情况如此，你可以[[[http://scp-wiki-cn.wikidot.com/scp-5356/offset/1  | 输入5级权限认证]]]以获取更多信息。",
+  "tags": [
+    "段落"
+  ],
+  "author": null,
+  "created_at": "2021-10-16T05:05:07+00:00",
+  "updated_at": "2022-03-27T09:16:46+00:00",
+  "rating": 0,
+  "_site": "scp-wiki-cn",
+  "_fullname": "fragment:scp-5356-1"
+}

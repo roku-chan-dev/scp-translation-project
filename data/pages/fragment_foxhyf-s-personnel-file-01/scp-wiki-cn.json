@@ -1,0 +1,13 @@
+{
+  "title": "迭代01",
+  "content": "[[module ListUsers users=\".\"]]\n**欢迎，%%title%%**\n[[/module]]\n\n\n[[tabview]]\n\n\n[[tab Index]]\n\n[[image http://scp-wiki-cn.wikidot.com/local--files/foxhyf-s-personnel-file/Snow.jpg]]\n\n[[/tab]]\n\n\n[[tab 英文翻译]]\n\n\t[[[SCP-2661]]] （于2018/12/3重译）\n\t[[[SCP-3031]]]\n\t[[[SCP-3211]]]\n\t[[[SCP-3213]]]\n\t[[[SCP-3240]]] （于2018/11/27重译）\n\t[[[SCP-3383]]]\n\t[[[SCP-3555]]]\n\t[[[SCP-3633]]]\n\t[[[SCP-3789]]]\n\t[[[SCP-4647]]]\n\t[[[SCP-4821]]]\n\t[[[SCP-V1L3-J]]]\n\t[[[SCP-Big-egg-j | SCP-大蛋]]]\n\t[[[Hypnotraline | '眠曲林' (TR7K2/2UD9X/53GN8)]]]\n\t[[[Phoenix-a-la-mode | '时令烹火鸟' (KEN46/FRI98/PNX72)]]]\n\t[[[Weissman-model-assistance-clones | '魏氏克隆忠仆' (ET796/IH249/W3336)]]]\n\t[[[A Second Chance At Today | '今日后悔药' (IZ229/AN78A/GI753)]]]\n\t[[[He-sees-you | He sees you]]]\n\t[[[time-travel-ch1 | Time-travel-ch1]]]\n\t[[[time-travel-ch2 | Time-travel-ch2]]]\n\t\n[[/tab]]\n\n\n[[tab 其他翻译]]\n\n\t[[[SCP-ES-028]]]\n\t[[[SCP-ES-083]]]\n\t[[[SCP-ES-099]]]\n\t[[[SCP-ES-101-J]]]\n\t[[[SCP-586-FR]]]\n\t[[[SCP-017-IT]]]\n\t[[[Cogito | 我思]]]\n\t\n[[/tab]]\n\n\n[[tab 统计]]\n\n3555: 1110/1809, 1.629\n3240: 3631/6120, 1.685\n2661: 1874/3254, 1.736\n3031: 1749/2914, 1.666\n3213: 838/1321, 1.576\n3633: 712/~1100, 1.545\n3383: 827/1290, 1.560\n3789: 423/684, 1.617\n3211: 11392/17463, 1.533\nV1L3-J: 1090/1932, 1.772 \nHypnotraline: 2254/3696, 1.397 \n4647: 394/644, 1.634\n4821: 596/884, 1.483\nPhoenix à La Mode: 1261/2025, 1.606\nHe sees you: 731/1117, 1.528\nBig-egg-J: 682/1245, 1.825 \n\nSum: 29564/47498, 1.607\n\n[[/tab]]\n\n\n[[tab 留言板]]\n\n[[module MailForm title=\"留言\" to=\"Foxhyf\" button=\"发送\"]]\n# content\n * title: 留言\n * type: text\n * rules:\n  * required: true\n\n# other\n * title: By\n * type: text\n\n[[/module]]\n\n[[/tab]]\n\n\n[[/tabview]]\n\n[[[http://scpsandboxcn.wikidot.com/foxhyf | 中文沙盒]]]\n[[[http://scpsandboxcn.wikidot.com/css-trial | 杂物]]]\n[[[http://scp-sandbox-3.wikidot.com/foxhyf-s-sandbox | 英文沙盒]]]\n[[[http://scpsandboxcn.wikidot.com/harvest | 新沙盒]]]",
+  "tags": [
+    "段落"
+  ],
+  "author": "Foxhyf",
+  "created_at": "2018-10-25T06:43:43+00:00",
+  "updated_at": "2025-01-20T06:33:25+00:00",
+  "rating": 1,
+  "_site": "scp-wiki-cn",
+  "_fullname": "fragment:foxhyf-s-personnel-file-01"
+}

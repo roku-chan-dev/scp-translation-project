@@ -1,0 +1,23 @@
+{
+  "title": "SCP-1012-KO",
+  "content": "[[include :scpko:info:start]]\n**SCP-1012-KO:** 여명의 수문장\n\n**저자:** [[*user Xrosiam]]        \n  \n**이미지 Huitzilopochtli:** [https://ko.wikipedia.org/wiki/%EC%9A%B0%EC%9D%B4%EC%B9%A0%EB%A1%9C%ED%8F%AC%EC%B9%98%ED%8B%80%EB%A6%AC 위키백과]\n\n**이미지 Maxico.jpg:** [https://ko.wikipedia.org/wiki/%EB%A9%95%EC%8B%9C%EC%BD%94 위키백과]\n\n\n[[include :scpkosb3:xrosiam-list]]\n\n[[include :scpko:info:end]]\n\n\n\n\n\n\n\n\n[[module ListPages  category=\"fragment\" parent=\".\" limit=\"1\" order=\"created_at\" offset=\"@URL|0\"]]\n%%content%%\n[[/module]]\n\n\n[!-- https://scpko.wikidot.com/fragment:scp-1012-ko-1 --]\n[!-- https://scpko.wikidot.com/fragment:scp-1012-ko-2 --]",
+  "tags": [
+    "ko",
+    "scp",
+    "극한",
+    "비격리",
+    "역사적",
+    "유클리드",
+    "의식",
+    "전술신학부",
+    "종교",
+    "타우미엘",
+    "항성"
+  ],
+  "author": "Xrosiam",
+  "created_at": "2024-09-02T14:02:20+00:00",
+  "updated_at": "2024-10-01T19:55:22+00:00",
+  "rating": 17,
+  "_site": "scpko",
+  "_fullname": "scp-1012-ko"
+}

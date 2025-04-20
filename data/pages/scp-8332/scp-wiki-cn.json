@@ -1,0 +1,20 @@
+{
+  "title": "SCP-8332",
+  "content": "[[include :scp-wiki-cn:theme:black-highlighter-theme]]\n[[include :scp-wiki-cn:theme:isolated-terminal]]\n[[module css]]\n:root {\n  --accentColor: 235, 198, 96;\n  --darkColor: 40, 26, 8;\n}\n[[/module]]\n[[module css]]\n.footnotes-footer {\n    visibility: hidden;\n    height: 0;\n    padding: 0;\n    margin: 0;\n}\n[[/module]]\n\n[[include component:preview\ntext=\n不存在可维持的对SCP-8332进行干涉的策略。这是不可避免的。\n]]\n\n[[include component:image-block\n| name=http://scp-wiki.wikidot.com/local--files/scp-8332/archive1\n| caption=档案。\n| width=45%\n]]\n\n**项目编号：**8332\n\n**项目等级：**Apollyon\n\n**特殊收容措施：**SCP-8332-A和SCP-8332-B都已死亡。此文件之所以存在主要是为了用于存档，并没有描述需要或曾需要进行主动收容的异常。\n\n不存在可维持的对SCP-8332进行干涉的策略。这是不可避免的。\n\n**描述：**在美国东部时间2024年12月1日09:37:16，33岁的初级研究员John Mahler（SCP-8332-A）突然遭受完全的心脏衰竭，同时全身上下都遭受了严重的自发性钝性创伤。受到的伤害包括：骨盆粉碎性骨折、股骨和胫骨粉碎性骨折、左股动脉破裂、大肠、左肾、胃和膀胱穿孔（骨盆骨碎片所致）、颅骨骨折、左臂骨折、左肺塌陷以及左脚部分断裂。\n\n------\n\nSCP-8332-A的死亡是瞬间发生的，且与其直接因果背景不符，因此在进一步的调查之前，其被暂时指定为一次异常事件。\n\n\n\n[[include component:image-block name=\nhttp://scp-wiki.wikidot.com/local--files/scp-8332/archive2|align=center|width=100%|caption=档案。]]\n\n在日本标准时间2024年1月12日22:37:16，34岁的Declan Yuu Ramirez在日本大阪公寓外被一名醉驾司机撞死，受到的伤害包括左臂骨折、左肺塌陷、股骨和胫骨粉碎性骨折、左股动脉破裂、胃、大肠、膀胱和左肾穿孔、骨盆粉碎性骨折、颅骨骨折以及左脚部分断裂。Ramirez随后被指定为SCP-8332-B。\n\n在此之后，一项半综合性的研究被执行，交叉审查了SCP-8332-A和SCP-8332-B在医疗、职业以及记录的个人事件&经历方面的共同点。（摘要&进行中）\n\n2024年1月12日 - 死亡。\n2023年12月31日 - 亲吻了一个陌生人（Photodump）。[[footnote]]**译者注：**Photodump指的是将大量的照片一次性上传或发布的行为。[[/footnote]]\n2023年12月17日 - 患支气管炎。\n2023年10月18日 - 因意外的酒精中毒而住院。\n2023年10月16日 - 更换手机供应商（T-Mobile →）。\n2023年10月15日 - 删除并重新安装Instagram[[footnote]]**译者注：**国外的一款免费提供在线图片及视频分享的社群应用软件。[[/footnote]]共计十一次。\n2023年10月12日 - 搬进新的单间公寓。\n2023年9月23日 - 进行个人贷款查询。\n2023年6月16日 - 进行联合贷款查询。\n2023年3月3日 - 申请更改税务身份。\n2022年8月29日 - 因腿部骨折而住院。\n2022年6月13日 - 搬进单一卧室公寓（有1位共同申请人）。\n2022年2月7日 - 父母中的一名去世（母系）。\n2021年9月25日 - 因意外的酒精中毒而住院。\n\n------\n\nSCP-8332-A和SCP-8332-B在2016年至2021年的活动显示出高度一致的心理健康治疗模式和不稳定的就业模式。2016年之前的数据是不规则且不完整的（尚待处理）。\n\n[[include component:image-block name=http://scp-wiki.wikidot.com/local--files/scp-8332/archive3|align=left|width=45%|caption=档案。]]\n\n从SCP-8332-A和SCP-8332-B的个人物品中回收的文件表明，他们对极端事例的认知考虑是浅薄或不稳定的，Harman Waters博士将其通俗地称为“片面”\n\n\n\n从1994年至2000年，SCP-8332-A和SCP-8332-B都曾就读于榕溪小学。研究表明，这段时间是这两个异常唯一有着持续的直接人际交往的时间，这一点通过2000年版的学校年刊中的条目和一句最高级的评语[[footnote]]“永远的最好的朋友！”[[/footnote]]得到了证实。\n\n@@ @@\n\n@@ @@\n\n\n[[include component:image-block name=http://scp-wiki.wikidot.com/local--files/scp-8332/archive4|align=center|width=55%|caption=档案。[[footnote]]**译者注：**图中文字从左到右分别是“你还记得吗？”、“两个身体，一个生命”、“结拜兄弟”。[[/footnote]]]]\n\n\n@@ @@\n\n@@ @@\n\n@@ @@\n\n@@ @@\n\n[[footnoteblock]]",
+  "tags": [
+    "apollyon",
+    "scp",
+    "人形生物",
+    "仪式性",
+    "无形",
+    "现象",
+    "精神影响",
+    "超形上学部"
+  ],
+  "author": "Aegnus",
+  "created_at": "2024-05-22T22:07:02+00:00",
+  "updated_at": "2025-02-18T19:39:29+00:00",
+  "rating": 5,
+  "_site": "scp-wiki-cn",
+  "_fullname": "scp-8332"
+}

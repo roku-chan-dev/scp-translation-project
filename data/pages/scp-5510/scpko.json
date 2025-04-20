@@ -1,0 +1,19 @@
+{
+  "title": "SCP-5510",
+  "content": "[[include theme:black-highlighter-theme]]\n\n[[module CSS]]\n.notice {\n    border: solid 1px #999;\n    background: #f2f2c2;\n    padding: 1em;\n    margin-bottom: 0.5em;\n}\n[[/module]]\n\n[[include info:start]]\n**SCP-5510:** 전세계 리모\n**작가:** [[*user aismallard]] ([[[aismallard|작가 페이지]]])\n**원본:** http://www.scpwiki.com/scp-5510\n**역자:** [[*user Aiken Drum]]\n\n**감사하는 분들:**\n* wctaiwan\n* [[*user rounderhouse]]\n* [[*user The Great Hippo]]\n* [[*user Uncle Nicolini]]\n* [[*user Yossipossi]]\n* [[*user Captain Kirby]]\n\n> **파일명:** blank.png\n> **원본:** default.png\n> **저작권자:** [[*user djkaktus]]\n> **라이선스:** CC BY-SA 3.0\n> **출처:** [/scp-3930 SCP Foundation Wiki]\n> ----\n> **원본:** logo.png\n> **저작권자:** [[*user far2]]\n> **라이선스:** CC BY-SA 3.0\n> **출처:** [/ SCP Foundation Wiki]\n\n> **파일명:** cursor.png\n> **저작권자:** [[*user aismallard]]\n> **라이선스:** CC BY-SA 3.0\n> **출처:** [/scp-5510 SCP Foundation Wiki]\n[[include info:end]]\n\n[[div_ class=\"notice\"]]\n**환영합니다, 아치발드 박사님.**\n현재 SCP-5510을 편집 중입니다. 세션은 **118**초 동안 아무것도 하지 않으면 종료됩니다.\n[[/div]]\n\n[[include component:image-block\n    name=http://scp-wiki.wdfiles.com/local--files/fragment:scp-4182-1/blank.png |\n    caption={{[파일 선택되지 않음]}} |\n    width=100px\n]]\n\n**일련번호:** SCP-5510\n\n**등급:** 안전 (임시)\n\n**특수 격리 절차:** SCP-5510은 소형 물품 보관함에 둔다. 확인 실험이 현재 진행 중이다.\n\n**설명:** SCP-5510은 TV 리모컨이다. 개체는 일반적으로 작동하지만 대상의 영상 탐색 버튼 4개는 다르게 작동한다. 버튼을 누르면 변칙개체가 겪는 주관적 시간이 변한다.\n\n**부록 5510-1:** 실험 기록\n\n||~ 버튼 ||~ 결과 ||\n|| 빨리감기 || SCP-5510은 절반의 속도로 시간을 겪었다. ||\n|| 되감기 || SCP-5510은 두 배의 속도로 시간을 겪었다.||\n|| 재생 || 확인된 효과 없음. ||\n|| 일시정지 || [[image http://scp-wiki.wdfiles.com/local--files/scp-5510/cursor.png alt=\"𝖨\" width=\"10px\"]] ||",
+  "tags": [
+    "en",
+    "scp",
+    "가전",
+    "메타",
+    "시간",
+    "안전",
+    "특집"
+  ],
+  "author": "Aiken Drum",
+  "created_at": "2020-11-27T09:53:26+00:00",
+  "updated_at": "2025-01-31T17:07:18+00:00",
+  "rating": 25,
+  "_site": "scpko",
+  "_fullname": "scp-5510"
+}

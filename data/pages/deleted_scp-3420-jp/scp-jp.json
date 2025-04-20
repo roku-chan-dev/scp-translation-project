@@ -1,0 +1,11 @@
+{
+  "title": "SCP-3420-JP",
+  "content": "[[include :scp-jp:credit:start]]\n**タイトル:** SCP-XXXX-JP - Smash Corrupt Piracy\n**著者:** [[*user lemonsyrup]]\n**作成年:** 2025\n[[include :scp-jp:credit:cc4]]\n[[include :scp-jp:credit:end]]\n\n[[module ListPages category=\"fragment\" parent=\".\" order=\"created_at\" limit=\"1\" offset=\"@URL|0\"]]\n%%content%%\n[[/module]]",
+  "tags": [],
+  "author": "lemonsyrup",
+  "created_at": "2025-03-16T14:17:31+00:00",
+  "updated_at": "2025-03-21T04:07:52+00:00",
+  "rating": -14,
+  "_site": "scp-jp",
+  "_fullname": "deleted:scp-3420-jp"
+}

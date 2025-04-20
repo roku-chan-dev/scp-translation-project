@@ -1,0 +1,17 @@
+{
+  "title": "Foundation Toons Presents: RUBBERHOSE STYLE",
+  "content": "[[include :scp-wiki:theme:black-highlighter-theme]]\n[[include :scp-wiki:theme:penumbra-bhl]]\n\n[[module CSS]]\n:root {\n --header-title: \"FOUNDATION TOONS\";\n --accentColor: #bdbbbb;\n}\n[[/module]]\n[[>]]\n[[module Rate]]\n[[/>]]\n@@ @@ \n@@ @@\n[[include component:image-block name= http://scp-wiki.wikidot.com/local--files/art:foundation-toons/59E8B927-6A78-4F6A-8CEC-E31636C61CCB.png  |caption= //Dr. Cole Thereven in \"Coffee Troubles\"//|width=400px|align=center]]\n\n@@ @@\n@@ @@\n\n[[include component:image-block name= http://scp-wiki.wikidot.com/local--files/art:foundation-toons/F01447D7-5C0C-4D3C-A75F-509B726D992C.png |caption= //Dr. Cole Thereven and Skippy in \"April Fool's Shenanigans\"//|width=400px|align=center]]\n\n@@ @@\n@@ @@\n[[include :scp-wiki:component:license-box]]\n=====\n> **Filename:** 59E8B927-6A78-4F6A-8CEC-E31636C61CCB.png\n> **Author:** [[*user Cole 13]]\n> **License:** CC BY-SA 3.0\n> **Source Link:** [https://scp-wiki.wikidot.com/art:foundation-toons SCP Foundation Wiki]\n=====\n> **Filename:** F01447D7-5C0C-4D3C-A75F-509B726D992C.png\n> **Author:** [[*user Cole 13]]\n> **License:** CC BY-SA 3.0\n> **Source Link:** [https://scp-wiki.wikidot.com/art:foundation-toons SCP Foundation Wiki]\n[[include :scp-wiki:component:license-box-end]]",
+  "tags": [
+    "_cc",
+    "_licensebox",
+    "artwork",
+    "cel-shaded",
+    "scp-art"
+  ],
+  "author": "Cole 13",
+  "created_at": "2022-06-11T01:02:38+00:00",
+  "updated_at": "2024-03-28T17:46:14+00:00",
+  "rating": 24,
+  "_site": "scp-wiki",
+  "_fullname": "art:foundation-toons"
+}

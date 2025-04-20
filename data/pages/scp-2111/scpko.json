@@ -1,0 +1,23 @@
+{
+  "title": "SCP-2111",
+  "content": "[!--오타를 찾았을 때 직접 고치고 싶다면, URL \"http://scpko.wikidot.com/fragment:scp-2111-*/noredirect/true\" 로 들어가서 적당한 페이지를 찾아주세요. *는 1 ~ 5 의 숫자입니다. (경고 페이지가 1, RED TALISMAN이 2, …, READ THIS가 5) 비고: \"기억제/mnestics\"는 오타가 아니라 기억소거제/amnestics의 반대말입니다.--]\n[[include info:start]]\n이 글을 읽을 수 있다면...\n**원문:** [http://www.scp-wiki.net/scp-2111 SCP-2111] \"If You Can Read This…\" by [[*user sirpudding]]\n**번역:** [[*user XCninety]]\n[[include info:end]]\n[[module ListPages category=\"fragment\" parent=\".\" limit=\"1\" order=\"created_at\" offset=\"@URL|0\"]]\n%%content%%\n[[/module]]\n\n[4.63%] ls -la\n@@-rwx2r--- MEME 2/2111 18 KB Jul 14 2015@@ [[[http://scpko.wikidot.com/scp-2111/offset/1|SCP-2111(RED TALISMAN)]]]\n@@-rwx2r--- AMEM 2/2111 20 KB Jan 17 2015@@ [[[http://scpko.wikidot.com/scp-2111/offset/2|SCP-2111(RIDDEN TONGUE)]]]\n@@-rwx2r--- AMEM 2/2111 36 KB Jan 17 2015 SCP-2111appA@@\n@@-rwx2r--- CCON 2/2111 21 KB Aug 13 2015@@ [[[http://scpko.wikidot.com/scp-2111/offset/3|SCP-2111(REVENANT THEORY)]]]\n@@-rwx2r--- OZER 2/2111 21 KB Nov 1 2015@@ [[[http://scpko.wikidot.com/scp-2111/offset/4| SCP-2111(READ THIS)]]]\n@@drwx3RTrwx--- MEME 3/2111/RT 10 GB Nov 1 2015@@  scp-2111.datafiles.warningcoghaz\n\n[4.63%] [[[http://scpko.wikidot.com/scp-2111/offset/0|cd..]]]\n\n[[footnoteblock]]\n\n[[=]]\n,,**<<** ##blue|SCP-2111## | [[[In the Trenches with the Dead|]]] **>>**,,\n[[/=]]",
+  "tags": [
+    "en",
+    "scp",
+    "난해한-등급",
+    "메타",
+    "밈적",
+    "사후",
+    "유령",
+    "인식재해",
+    "재단이-만듦",
+    "항밈적",
+    "항밈학과"
+  ],
+  "author": null,
+  "created_at": "2017-11-14T06:51:45+00:00",
+  "updated_at": "2024-09-28T15:21:53+00:00",
+  "rating": 20,
+  "_site": "scpko",
+  "_fullname": "scp-2111"
+}

@@ -1,0 +1,14 @@
+{
+  "title": "귀하는 해당 문서를 편집할 권한을 가지고 있습니다.",
+  "content": "[[include credit:start]]\n**제목:** 귀하는 해당 문서를 편집할 권한을 가지고 있습니다.\n**저자:** [[*user AiliceHershey]]\n**원본:** http://ja.scp-wiki.net/7h25m39s\n**역자:** [[*user Elfen_mathL]]\n[[include credit:end]]\n@@@@\n@@@@\n[[div class=\"content-panel standalone series  centered\"]]\n[[size large]]##AA0000|**경고**##[[/size]]\n\n이하 문서는 보안 등급 3/K를 제시한 자만이 편집할 수 있습니다.\n문서를 편집하시겠습니까?\n\n[[/div]]\n@@@@\n@@@@\n@@@@\n@@@@\n@@@@\n##dc143c|편집을 종료하였습니다.##\n@@@@\n@@@@\n@@@@\n@@@@\n@@@@\n[[module ListUsers users=\".\"]]\n##dc143c|수고하셨습니다, %%title%% 연구원 님. 편집 후의 문서를 열람하시겠습니까?##\n[[/module]]\n@@@@\n@@@@\n@@@@\n@@@@\n@@@@\n##dc143c|알겠습니다.##\n@@@@\n@@@@\n@@@@\n@@@@\n@@@@\n##dc143c|현재 편집 후의 문서를 불러오고 있습니다.......##\n@@@@\n@@@@\n@@@@\n@@@@\n@@@@\n[[collapsible show=\"+ 준비가 완료되었습니다. 여기에서 열람하여 주십시오.\" hide=\"- 열람을 종료하기\"]]\n\n##blue|변경된 점은 파란색으로 표시됩니다.##\n@@@@\n@@@@\n@@@@\n##blue|이는 사건입니다.##\n@@@@\n##blue|[[[SCP-779-KO]]]의 격리에 관한 사건 기록 및 그에 관한 요주의 단체와 재단의 쟁투, 인간 관계가 적혀 있습니다.##\n[[module ListUsers users=\".\"]]\n##blue|%%title%% 연구원의 7시간 25분 39초에 걸친 모든 노력은 허사로 돌아갔습니다.##\n[[/module]] \n\n[[/collapsible]]",
+  "tags": [
+    "jp",
+    "이야기"
+  ],
+  "author": "Elfen_mathL",
+  "created_at": "2018-05-30T12:34:51+00:00",
+  "updated_at": "2018-09-22T01:17:56+00:00",
+  "rating": 11,
+  "_site": "scpko",
+  "_fullname": "7h25m39s"
+}

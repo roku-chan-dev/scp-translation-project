@@ -1,0 +1,23 @@
+{
+  "title": "SCP-7271",
+  "content": "[[>]]\n[[module Rate]]\n[[div style=\"margin-top: -20px;\"]]\n[[size 80%]]##757575|by [[[Parallels Potato Page |ParallelPotatoes]]]##[[/size]]\n[[/div]]\n[[/>]]\n[[include :scp-wiki:component:anomaly-class-bar-source\n\n|item-number= 7271\n\n|clearance= 1\n\n|container-class= euclid\n\n|secondary-class= none\n\n|secondary-icon= https://urlhere.com\n\n|disruption-class= dark\n\n|risk-class= notice\n\n]]\n@@ @@\n**Special Containment Procedures:** SCP-7271 is to be kept in a standard anomalous storage locker at Site-327. Personnel are forbidden from fulfilling the demands of SCP-7271.\n[[include component:image-block\n| name=pickles.jpeg\n| caption=Photograph of SCP-7271\n]]\n**Description:** SCP-7271 is a glass mason jar containing three cucumbers and a brine with a 3% salt content. These conditions typically result in microbial activity producing lactic acid, resulting in the pickling of the cucumbers. However, no change in the chemical makeup of the contents of the jar has been detected. Upon further investigation, it was discovered that microbes are present in the jar despite the apparent lack of microbial activity. Each microbe is attached to a miniature picket sign with a variety of messages depicted. Several of these messages are listed below.\n\n* Strike!\n* No fermentation without representation!\n* Maternity leave for microbes!\n* Pickling with pay!\n* Better bacteria or bust!\n\nTesting is currently underway to determine whether historical strike-breaking practices used by businesses will be effective in reducing the anomalous effects of SCP-7271 as a form of containment. Currently, development of \"scab\" microbes that will ferment for no pay has proven ineffective, as they have joined the microbes' cause. There is planned research into selectively terminating the leaders of SCP-7271 to discourage the remaining microbes.\n\n**Incident Log 1:** On 9/30/2022, Researcher Wadsworth attempted to give SCP-7271 one dollar as an attempt to fulfil their demands for pay. SCP-7271 declined the offer, as they were insulted by the low amount. Researcher Wadsworth later suffered from digestive issues, and it was discovered that a portion of his gut flora was anomalous and joined SCP-7271's strike.\n\n**Incident Log 2:** On 6/17/2023, Site-327 intercepted an outgoing mail envelope addressed to a local pickling factory. This envelope contained a fine powder, which was revealed to be a collection of billions of microscopic pro-labor propaganda pamphlets. Despite the anomalous nature of the pamphlets, research has shown that they have no effect on non-anomalous microbes as they are neither literate nor sapient.\n\n**Incident Log 3:** On 8/04/2023, Researcher Wadsworth accidentally spilled some yogurt, a source of probiotics, inside of SCP-7271 while eating his lunch. After this event, Researcher Wadsworth heard a faint noise that he described as “billions of tiny cheers” for approximately ten minutes before SCP-7271 ceased all anomalous activity. SCP-7271 is pending re-classification to Neutralized.\n@@ @@\n[[=]]\n<< [[[SCP-7270]]] | SCP-7271 | [[[SCP-7272]]] >>\n[[/=]]\n[[include :scp-wiki:component:license-box]]\n=====\n> **Filename:** pickles.jpeg\n> **Author:** [[*user ParallelPotatoes]]\n> **License:** CC BY-SA 3.0\n=====\n[[include :scp-wiki:component:license-box-end]]",
+  "tags": [
+    "_cc",
+    "_licensebox",
+    "alive",
+    "artifact",
+    "bacteria",
+    "euclid",
+    "food",
+    "liquid",
+    "rewritable",
+    "sapient",
+    "scp"
+  ],
+  "author": "ParallelPotatoes",
+  "created_at": "2023-06-19T03:10:32+00:00",
+  "updated_at": "2024-06-11T22:19:22+00:00",
+  "rating": 239,
+  "_site": "scp-wiki",
+  "_fullname": "scp-7271"
+}

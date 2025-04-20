@@ -1,0 +1,14 @@
+{
+  "title": "Black Highlighter Theme Dev",
+  "content": "[[include :scp-wiki-cn:theme:black-highlighter-theme]]\n\n[[iftags +_源代码]]\n[[module Redirect destination=\"http://scp-wiki-cn.wikidot.com/theme:black-highlighter-theme\"]]\n[[/iftags]]",
+  "tags": [
+    "_源代码",
+    "掩藏页"
+  ],
+  "author": "Sekai_s",
+  "created_at": "2020-06-05T17:06:36+00:00",
+  "updated_at": "2021-01-14T14:52:20+00:00",
+  "rating": 0,
+  "_site": "scp-wiki-cn",
+  "_fullname": "component:black-highlighter-theme-dev"
+}

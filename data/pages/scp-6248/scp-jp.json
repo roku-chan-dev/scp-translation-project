@@ -1,0 +1,20 @@
+{
+  "title": "SCP-6248",
+  "content": "[[include :scp-wiki:theme:flopstyle-dark witching-hour=a]]\n[[module CSS]]\n/* ローカライズがまだなので微調整 */\n#top-bar .open-menu a{\n     color: var(--accentColor) !important;\n     background: var(--fgColor) !important;\n     border: thin solid var(--accentColor) !important;\n     border-radius: 0;\n     box-shadow: none;\n}\n #top-bar .open-menu a:hover{\n     padding: 0;\n \n     color: var(--fgColor) !important;\n     background: var(--accentColor) !important;\n}\n[[/module]]\n\n[[>]]\n[[module rate]]\n[[/>]]\n\n**アイテム番号:** SCP-6248\n\n**クラス:** Thaumiel\n\n[[include component:image-block name=http://scp-jp-storage.wdfiles.com/local--files/file%3A3995762-102-3r9s/tor.jpeg|caption=神聖拠点-6248|align=right]]\n\n**[[span class=\"ruby\"]]神聖事由手続[[span class=\"rt\"]]Sacrae Causā Prōcēdendae[[/span]][[/span]]:** 神聖拠点-6248がSCP-6248周辺に建造されたり。本拠点を訪るるゼロフィラの巡礼する者は皆歓待し、SCP-6248-αの摂取を勧むるものとす。\n\nSCP-6248-αの摂取に耐えし者には、月ごろ一度は巡礼続け、この慣わしを子孫代々伝ふべく告ぐ。SCP-6248-αの摂取に有害なるさまの出でし者につかば、感染のわたらぬやう処刑するものとす。\n\n[[span class=\"ruby\"]]《基構》[[span class=\"rt\"]]Fundamentum[[/span]][[/span]]最上位階よりの指令により、SCP-6248-αの摂取に関する研究は禁ぜらる。\n\n**説明:** SCP-6248はグラストンベリー・トーに在する呪はれし泉なり。泉の口は、直角に交差する二つの直線状の地面の割れ目といふ形を取る。縦かたの割れ目は北より南へ6メートル走り、横かたの割れ目は東より西へ4メートル走る。横かたの割れ目は、縦かたの割れ目と北際より2メートルの点に交差す。\n\nSCP-6248-αは、SCP-6248より湧きいづる[[span class=\"ruby\"]]《イヴィスの白漿》[[span class=\"rt\"]]White Phlegm of Yvith[[/span]][[/span]]なり。その物質組成は知れたらず。対象は液状に、水よりは濃く油よりは薄く、白妙に舐むと甘し。SCP-6248より離すと、3日のうちに異臭・酸味持つべくなる。かくならば、もはや何人にとりても摂取は全からずなるならむ。\n\n《イヴィスの白漿》を摂ると、3名中2名には即座の影響は現れず。残る1名は腹の不調に悩むことになる。腹部の痛み、胆汁の逆流、腹の膨満、臀部よりの排気、なほいみじき事例には、液化せる排泄物の排出など、方々なるさま知らせられたり。こは白漿の摂取を防ぐとともに、ゼロフィラ全土に感染を広ぐるためにイヴィスの齎しし呪ひと考へられたり。\n\n処刑されることなく《イヴィスの白漿》生き延びし者の多くは、繰り返しSCP-6248から飲み上げむと戻りく。特筆さるる点にて、SCP-6248繰り返し訪れし者は、大衆よりも頑健に背丈に優れ、良き歯を有せり。\n\n《イヴィスの白漿》生き延びし者は監視下に置かるるものとし、またそれ故に彼らとその血族は終はらぬ[[span class=\"ruby\"]]《エウロパの闇》[[span class=\"rt\"]]Darkness of Evropa[[/span]][[/span]]と戦うべく、《基盤》の[[span class=\"ruby\"]]《漿之軍》[[span class=\"rt\"]]Phlegm Troopers[[/span]][[/span]]に徴用すともよひならむ。\n\n[[include :scp-jp:component:earthworm\n| first=true | last=false | hub=yes| previous-url=/| previous-title=/\n| next-url=/the-phlegmfont| next-title=The Phlegmfont\n| hub-url=/nightfall-hub| hub-title=ナイトフォール\n]]",
+  "tags": [
+    "en",
+    "scp",
+    "thaumiel",
+    "ナイトフォール",
+    "味覚",
+    "場所",
+    "液体",
+    "食物"
+  ],
+  "author": "Kasugai_Kanagu",
+  "created_at": "2023-03-12T06:24:07+00:00",
+  "updated_at": "2025-03-17T07:29:48+00:00",
+  "rating": 12,
+  "_site": "scp-jp",
+  "_fullname": "scp-6248"
+}

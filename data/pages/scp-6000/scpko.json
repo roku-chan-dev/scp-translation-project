@@ -1,0 +1,32 @@
+{
+  "title": "SCP-6000",
+  "content": "[[include component:retranslate]]\n====\n||[[user Dr Sagan]]||2024.01.29.||2025.02.28||\n||||||= [http://scpkosb3.wikidot.com/scp-6000 초안 샌드박스]||\n====\n@@@@\n@@@@\n\n[[include :scpko:theme:black-highlighter-theme]]\n[[include :scp-wiki:component:toggle-sidebar-bhl]]\n\n[[include info:start]]\n**SCP-6000:** 뱀, 무스, 방랑자의 도서관(The Serpent, the Moose, and the Wanderers' Library)\n**원작:** http://www.scpwiki.com/scp-6000\n**저자:** [[*user Rounderhouse]]\n**역자:** [[*user Crssk]]\n[[include info:end]]\n\n\n[[module ListPages  category=\"fragment\" parent=\".\" limit=\"1\" order=\"created_at\" offset=\"@URL|0\"]]\n%%content%%\n[[/module]]\n\n[!--http://scpko.wikidot.com/fragment:SCP-6000-1--]\n[!-- http://scpko.wikidot.com/fragment:SCP-6000-2 --]\n[!-- http://scpko.wikidot.com/fragment:SCP-6000-3 --]\n[!-- http://scpko.wikidot.com/fragment:SCP-6000-4 --]\n[!-- http://scpko.wikidot.com/fragment:SCP-6000-5 --]\n----\n[[=]]\n[[include :scp-wiki:component:license-box\n|author=**ROUNDERHOUSE**]]\n=====\n[[<]]\n----\n> **Filename:** center.png, centerred.png\n> **Name:** Fusillade Logo\n> **Author:** [[*user Aethris]]\n> **License:** CC BY-SA 3.0\n\n> **Filename:** 6k.jpg\n> **Author:** [[*user ROUNDERHOUSE]]\n> **License:** CC BY-SA 3.0\n> **Note:** Composite of smallsnek.jpg and bubble4.png\n\n> **Filename:** bubble3.png\n> **Name:** Borneo rainforest.jpg\n> **Author:** Dukeabruzzi/edited by [[*user ROUNDERHOUSE]]\n> **License:** CC BY-SA 4.0\n> **Source:** [https://commons.wikimedia.org/wiki/File:Borneo_rainforest.jpg Wikimedia Commons]\n\n> **Filename:** smallsnek.jpg, bigsnek.png\n> **Author:** [[*user Valdevia]] / [https://scp-wiki.wikidot.com/valdevia Art Page]\n> **License:** CC BY 4.0\n\n> **Filename:** library.png\n> **Name:** County Dublin - Long Room-Trinity College - 20180703092642.jpg\n> **Author:** MichaelMaggs/edited by [[*user ROUNDERHOUSE]]\n> **License:** CC BY-SA 4.0\n> **Source:** [https://commons.wikimedia.org/wiki/File:County_Dublin_-_Long_Room-Trinity_College_-_20180703092642.jpg Wikimedia Commons]\n\n> **Filename:** tilly.png\n> **Name:** Blanche Lincoln, 2007.jpg\n> **Author:**   Office of Senator Blanche Lincoln/edited by [[*user ROUNDERHOUSE]]\n> **License:** Public Domain\n> **Source:** [https://commons.wikimedia.org/wiki/File:Blanche_Lincoln,_2007.jpg Wikimedia Commons]\n\n> **Filename:** bubble4.png\n> **Name:** Aerial view of the Amazon Rainforest.jpg\n> **Author:**   lubasi/edited by [[*user ROUNDERHOUSE]]\n> **License:** CC BY SA 2.0\n> **Source:** [https://commons.wikimedia.org/wiki/File:Aerial_view_of_the_Amazon_Rainforest.jpg Wikimedia Commons]\n\n> **Filename:** forest2.png\n> **Name:** Flickr - Israel Defense Forces - IDF Elite Units' Soldiers Take Cover in the Elyakim Combat Training Base (14).jpg\n> **Author:**   Israel Defense Forces/edited by [[*user stephlynch]]\n> **License:** Public Domain\n> **Source:** [https://commons.wikimedia.org/wiki/File:Flickr_-_Israel_Defense_Forces_-_IDF_Elite_Units'_Soldiers_Take_Cover_in_the_Elyakim_Combat_Training_Base_(14).jpg Wikimedia Commons]\n\n> **Filename:** jungleman.png\n> **Author:**   Pixabay\n> **License:** Public Domain\n> **Source:** [https://pixabay.com/photos/soldier-the-war-the-army-conflict-4768760/ Pixabay]\n\n> **Filename:** bubble5.png\n> **Name:**working on it\n> **Author:**   working on it\n> **License:** working on it\n> **Source:** working on it\n\n> **Filename:** earth.png\n> **Name:**\n> **Author:**   NASA/edited by [[*user rounderhouse]]\n> **License:** Public Domain\n> **Source:** [https://commons.wikimedia.org/wiki/File:Sun_Over_Earth%27s_Horizon.jpg Wikimedia Commons]\n\n> **Filename:** interior.png\n> **Name:** Long Room Interior, Trinity College Dublin, Ireland - Diliff.jpg\n> **Author:**   Diliff\n> **License:** CC BY-SA 4.0\n> **Source:** [https://commons.wikimedia.org/wiki/File:Long_Room_Interior,_Trinity_College_Dublin,_Ireland_-_Diliff.jpg Wikimedia Commons]\n[[/<]]\n=====\n[[include :scp-wiki:component:license-box-end]]\n[[/=]]",
+  "tags": [
+    "6000",
+    "en",
+    "k급-시나리오",
+    "scp",
+    "건물",
+    "공간",
+    "무스-이사관",
+    "방랑자의-도서관",
+    "뱀의-손",
+    "비격리",
+    "비정형",
+    "서지학",
+    "세계-오컬트-연합",
+    "아폴리온",
+    "역사적",
+    "위치",
+    "재번역-중",
+    "지식",
+    "통로",
+    "파괴불가능"
+  ],
+  "author": "Crssk",
+  "created_at": "2021-06-06T16:11:57+00:00",
+  "updated_at": "2025-02-28T13:08:28+00:00",
+  "rating": 31,
+  "_site": "scpko",
+  "_fullname": "scp-6000"
+}

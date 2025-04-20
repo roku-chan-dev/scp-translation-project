@@ -1,0 +1,16 @@
+{
+  "title": "SCP-6313",
+  "content": "[[include theme:black-highlighter-theme]]\n[[module CSS]]\n:root{\n--cutColour: #fafafa;\n--barColour: #590505;\n}\n\n.info-container .collapsible-block-folded a{\ncolor: #FFF;}\n.info-container .collapsible-block-unfolded-link a{\ncolor: #FFF;}\n\n.translation_block{\ndisplay:none;}\n[[/module]]\n[[module css]]\n#side-bar {\n    background: rgb(var(--white-monochrome));\n}\n\n#side-bar div.menu-item a, #side-bar div.menu-item .text {\n    color: rgb(var(--black-monochrome));\n}\n\n#side-bar>div:nth-child(5) {\n    background-color: rgba(var(--dark-accent),0.25)!important;\n}\n[[/module]]\n\n[[include component:image-block name=http://scp-wiki.wdfiles.com/local--files/scp-6313/SCP-6313.jpg|caption= 由Dr. Foster拍摄的SCP-6313]]\n\n**项目编号：** SCP-6313\n\n**项目等级：** Euclid\n\n**特殊收容措施：** 全体Site-88员工将被告知SCP-6313的异常性质。关于SCP-6313当前位置的信息仅限于当前持有它的人员知晓。\n\nSite-88人员被指示回绝关于SCP-6313当前拥有者或下落的信息请求。任何情况下不得对此类信息进行猜测。\n\n每六个月将在全站范围进行一次通知，以便确认SCP-6313的当前状态。若能在任何程度上肯定确认SCP-6313不再为SCP基金会持有，本文件将被更新，并警告SCP-6313项目领导人。\n\n**描述：** SCP-6313是一堆干制百里香叶。SCP-6313的当前位置和速度在同一时间内不能被多于一名人员（在本文件中称为SCP-6313-1）知晓。由于难以获得SCP-6313进行研究，此异常影响SCP-6313及SCP-6313-1的具体机制尚未完全明确。不过，有理论认为SCP-6313具有某种类似于量子粒子的宏观特质。\n\n一旦有两名或更多人员了解到SCP-6313的位置或速度，该项目将无法在其最后已知地点被找到。对移位事件拍摄的视频记录显示，它会在瞬间从之前的已知地点移位消失。SCP-6313一般会在此后被其他人员发现。据此前转移事件的记录显示，SCP-6313不会出现在知晓其位置人员的一定距离[[footnote]]该距离的确切情况有潜在的可变性，已从文件中移除此信息。[[/footnote]]外。\n\n下列记录展示了此前已知的SCP-6313持有者，以及触发该项目转移的事件。从Dobson女士丢失该项目到Dr. Foster获得该项目之间，有13个月长的信息缺口。\n\n||~ 前主人||~ 职位||~ 事件记录||\n|| Mark Reinhart || Bay Minnette的平民厨师 || 试图将SCP-6313加入到他正在制作的菜品中。在将其从包装中取出时，因有其他厨房员工在场发生移位。||\n|| Phyllis Dobson || 南方横切菠萝（Southern Crosscut Pines） [[footnote]]一家基金会前台公司[[/footnote]]中层经理 || 在到家后从她的钱包中发现了SCP-6313。在她试图将其存在告知给丈夫时，移位发生。两人将此事故报告给SCP基金会。||\n|| Dr. Phillip Foster || SCP基金会高级研究员 || 在来到Site-88工作时从他的手套盒内发现了SCP-6313。由于当时对SCP-6313缺少了解，他试图将该物带给站点的研究领导人，但在展示时发生移位。||\n|| Kay June || SCP基金会看守人员 || Ms. June并不知晓SCP-6313的异常性质，将其用作看守储物柜的装饰和气味改良。它在此地停留了大约34个月。此后Ms. June调任到Site-43。 SCP-6313被她的接任者发现，引起该项目移位。||\n|| Dr. Lillian Una || SCP基金会的SCP-2343收容监督员 || Dr. Una是少数被完整告知过SCP-6313潜在移位性的SCP员工。她持有SCP-6313达17天时间，而后该项目在当前收容程序下被刻意移位。||\n\n2021年8月，发起全站通知以确认SCP-6313的收容状态。当前，没有基金会人员提交关于SCP-6313的情报。确信收容仍将维持，但不适合对其本身的成功或失败做出评估。\n\n直至SCP-6313的状态被确定前，应将下列通知每周重复一次。 \n\n> 这是一则关于SCP-6313的通知。任何持有百里香的人员应立即前往观察间C进行报告。\n\n正在对SCP-6313的收容程序进行重新设计。\n\n[[footnoteblock]]\n\n[[div class=\"footer-wikiwalk-nav\"]]\n[[=]]\n<< [[[SCP-6312]]] | SCP-6313 | [[[SCP-6314 ]]] >>\n[[/=]]\n[[/div]]",
+  "tags": [
+    "euclid",
+    "scp",
+    "传送",
+    "植物"
+  ],
+  "author": "ashausesall",
+  "created_at": "2021-09-08T11:10:20+00:00",
+  "updated_at": "2021-09-08T11:13:23+00:00",
+  "rating": 6,
+  "_site": "scp-wiki-cn",
+  "_fullname": "scp-6313"
+}

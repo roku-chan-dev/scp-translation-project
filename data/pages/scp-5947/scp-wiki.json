@@ -1,0 +1,28 @@
+{
+  "title": "SCP-5947",
+  "content": "[[>]]\n[[module rate]]\n[[/>]]\n[[module CSS]]\n#page-title {\n  display: none;\n}\n\n.meta-title {\n  border-bottom: solid 1px #bbbbbb;\n  color: #990011;\n  font-weight: normal;\n  margin: 0 0 0.6em;\n  padding: 0 0 0.25em;\n  font-size: 200%;\n}\n\n.meta-title p {\n  margin: 0;\n}\n[[/module]]\n\n[[module ListPages category=\"fragment\" parent=\".\" order=\"created_at\" limit=\"1\" offset=\"@URL|0\"]]\n[[div class=\"meta-title\"]]\n%%title%%\n[[/div]]\n%%content%%\n[[/module]]\n\n[[footnoteblock]]\n[[div class=\"footer-wikiwalk-nav\"]]\n[[=]]\n<< [[[SCP-5946]]] | SCP-5947 | [[[SCP-5948]]] >>\n[[/=]]\n[[/div]]\n\n[!--Pages in use:\nhttp://www.scp-wiki.net/fragment:scp-5947-1\nhttp://www.scp-wiki.net/fragment:scp-5947-2\nhttp://www.scp-wiki.net/fragment:scp-5947-3--]",
+  "tags": [
+    "_cc",
+    "_listpages",
+    "animal",
+    "cadaver",
+    "co-authored",
+    "deepwell-catalog",
+    "ectoentropic",
+    "exquisite-corpse2020",
+    "fish",
+    "food",
+    "indestructible",
+    "marshall-carter-and-dark",
+    "nobody",
+    "scp",
+    "self-replicating",
+    "thaumiel"
+  ],
+  "author": "UraniumEmpire",
+  "created_at": "2020-06-07T22:02:55+00:00",
+  "updated_at": "2022-10-08T19:18:10+00:00",
+  "rating": 98,
+  "_site": "scp-wiki",
+  "_fullname": "scp-5947"
+}

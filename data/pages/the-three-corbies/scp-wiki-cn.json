@@ -1,0 +1,20 @@
+{
+  "title": "《贡扎罗王》节选：三只乌鸦",
+  "content": "[[>]]\n[[module Rate]]\n[[/>]]\n\n[[div class=\"main-body-div poem\"]]\n[[[about-the-serpent|三只饥饿的乌鸦盘旋在天空]]]\n目光扫过被烈焰围困的皇宫\n看呐{{，}}有个戴着金冠的家伙\n[[[scp-701|静静吊死在后山的古林之中]]]\n[[[history-drowned-in-the-ash-of-memories|他曾高坐于狄瓦的王位]]]\n想必吃遍天下一切名贵\n其尸体可以当作晚餐的肥虫\n\n[[[nobody-would-sing-the-rhythm-in-the-wing-again-and-again|可是王有万千横扫世界的军团]]]\n[[[the-lost-book-of-documents-in-shang-that-golden-declaration|他们早已在里外的战乱中逃退]]]\n可是王有无数受神赐福的圣贤\n如今只剩个弄臣还肯为其流泪\n可是王有如此多的血脉住于宫庭\n在阿拉卡达里举火的便是其后辈\n看呐{{，}}这个戴着金冠的孤独之人\n他的勇士{{、}}他的奴仆还有血亲们\n连同众民{{，}}一同将其抛弃于煌燬\n\n\n那我们快去吧{{，}}今日将大饱口福\n你和他齐心抓下繁重的王袍\n如此便能品尝被遮掩的嫩部\n我则落在肩上{{，}}啄破眚翳的眼珠\n也一并将那贪婪难定的舌头扯出\n之后我们带走那闪光的帝冕\n向漂亮姑娘夸耀我们的品味\n叼走[[[theology-of-a-snake|他亡妻]]]留下的温暖手绢\n铺在巢穴里便能舒适地入睡\n看呐{{，}}眼泪流干的小丑没力站起\n却还想抬手{{，}}将木偶向我们投掷\n但也随后如主人般陨落倒地\n[[[and-so-the-crows-laughed|见状群鸦讪笑不已]]]\n\n\n黑星在聒噪溶入云后渐起\n火焰余光被幽冥寸寸吞噬\n[[[the-clock-shall-strike-again|迷城也伴晚钟尽没于烟霾]]]\n看呐{{，}}残阳为残躯披上\n最后一层薄薄的裹尸布\n而深红的长风将其久久吹拂\n直到在摇曳之中崩解{{、}}[[[wanderers:the-court-of-the-hanged-king|破开]]]\n\n[[div style=\"text-align:right !important;font-size: 70% !important\"]]\n[[/div]]\n\n[[/div]]\n\n[[div class=\"scp-image-block block-center\" style=\"width:100%;height: auto;\"]]\n[[image http://scpsandboxcn.wikidot.com/local--files/gallery/Hanged-King.png style=\"width:100%;\" link=#]]\n[[div class=\"scp-image-caption\" style=\"width:100%;\"]]\n王缢而死\n[[/div]]\n[[/div]]\n\n@@@@\n@@@@\n@@@@\n\n[[include :etinjat:typeface-cn\n|Huiwen-mincho=true\n]]\n\n[[include :scp-wiki-cn:theme:alexylva-university]]\n\n[[module CSS]]\n\n\n.poem {\nfont-size: 200%;\nline-height:2.1rem;\n    text-align:center;\n    letter-spacing:0.05rem;\n    font-family:  Huiwen-mincho, sans-serif;\n}\n\ntt {\nfont-size: 100%;\nfont-family: initial;\n}\n\n@media (max-width: 1500px){\n.poem  {\n    font-size: 150%;\n    line-height:1.8rem;\n\n}\n}\n\n\n.main-body-div {\n    padding: 10px 25px;\n    background: url(\"http://scp-wiki.wdfiles.com/local--files/theme%3Aalexylva-university/3.jpg\");\n        background-repeat: repeat;\n        background-size: auto;\n    background-repeat: repeat;\n    background-size: contain;\nmargin-bottom: 25px;\ntransition: all .7s;\nborder: 3px double #BC4123;\n}\n\n#header h1 a {\n    content: \"缢王悲歌\";\n}\n\n#header h1 a::before {\n    content: \"缢王悲歌\";\n}\n\n#header h2 span::before {\n    content: \"如是群鸦笑不已\";\n}\n\n\n[[/module]]",
+  "tags": [
+    "alagadda",
+    "万劫历数",
+    "原创",
+    "故事",
+    "死之兄弟",
+    "狄瓦",
+    "缢王",
+    "诗歌"
+  ],
+  "author": "Etinjat",
+  "created_at": "2021-09-24T16:59:56+00:00",
+  "updated_at": "2022-06-14T10:10:42+00:00",
+  "rating": 19,
+  "_site": "scp-wiki-cn",
+  "_fullname": "the-three-corbies"
+}

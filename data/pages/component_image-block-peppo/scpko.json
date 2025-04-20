@@ -1,0 +1,14 @@
+{
+  "title": "이미지 블록 Peppo",
+  "content": "[[iftags +구성요소]]\n[[include info:start-standalone]]\n**이미지 블록 Peppo**\n**원작:** https://scp-wiki.wikidot.com/component:image-block-peppo\n**저자:** [[*user PeppersGhost]], [[*user Stormbreath]]\n**역자:** [[*user Denevola]]\n------\n> 본 구성요소는 원문에 맞추어 자동 업데이트되지 않습니다.\n> 문제가 발생하거나 업데이트가 필요한 경우 포럼에 알려주세요.\n> **마지막 업데이트:** {{원문의 15번째 판 기준}}\n[[include info:end-standalone]]\n\n개량된 이미지 블록 모듈입니다.\n* 이미지의 오른쪽 모서리가 평가 모듈 기준선 대신 전체 콘텐츠 가장자리에 맞닿도록 정렬합니다.\n* 사용자의 창 크기가 600px 이하인 경우 float 설정을 제거하고 가운데로 정렬합니다.\n\nPeppersGhost와 Stormbreath가 제작했습니다.\n\n[https://scp-wiki.wikidot.com/scp-4703 여기서 예시를 살펴보세요!]\n\nTo use, copy and paste the following code to your page and adjust the name, caption, and width fields as needed.사용하려면 다음 코드를 복사해 여러분의 페이지에 붙여넣고, 이름, 캡션, 너비(선택 사항) 항목을 입력하세요.\n\n> [[include component:image-block-peppo\n> |name=https://scp-wiki.wdfiles.com/local--files/scp-4703/4703.jpg\n> |caption= 여기에 캡션을 넣으세요!\n> |width=300px\n> ]]\n\n\n[[=]]\n+ 코드는 페이지 소스를 참조하세요\n[[/=]]\n[[/iftags]]\n[[iftags -구성요소]]\n[[include component:image-block\n|name={$name}\n|caption={$caption}\n|width={$width}|width=300px\n|link={$link}|link=#\n|align=right\n]]\n\n[[module CSS]]\n/* Aligns image to right edge */\n.scp-image-block.block-right {\n    margin: 0em 0em 1em 2em;\n}\n\n/* Visually centers image block */\n@media only screen and (max-width: 600px) {\n    .scp-image-block.block-right{\n        float: none;\n        margin: 10px auto;\n    }\n}\n[[/module]]\n[[/iftags]]",
+  "tags": [
+    "en",
+    "구성요소"
+  ],
+  "author": "Denevola",
+  "created_at": "2021-09-28T14:33:39+00:00",
+  "updated_at": "2021-09-28T14:33:48+00:00",
+  "rating": 0,
+  "_site": "scpko",
+  "_fullname": "component:image-block-peppo"
+}

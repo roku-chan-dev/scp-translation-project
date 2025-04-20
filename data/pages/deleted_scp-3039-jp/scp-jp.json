@@ -1,0 +1,11 @@
+{
+  "title": "SCP-3039-JP",
+  "content": "[[include :scp-jp:credit:start]]\n**タイトル:** SCP-3039-JP - 陥穽溺水\n**著者:** [[*user iti119]]\n**作成年:** 2023\n[[include :scp-jp:credit:end]]\n\n[[include :scp-jp:user-component:classification-header-iti\n|item-number= 3039-JP\n|object-class= Keter\n|clearance= 2\n|hralt= true\n]]\n----\n\n**特別収容プロトコル:** SCP-3039-JPは収容されていません。SCP-3039-JPの詳細な性質が明らかになるまで、WATCHDOG国際異常監視ネットワークにSCP-3039-JP専用のフラグが設定されます。SCP-3039-JPである疑いのある現象が発見され次第、最寄りのサイトから調査班が派遣され、現場の記録、犠牲者の行方調査・--救助・支援-- [[footnote]] 事後的に救助および支援を行うことは不可能であると判断されました。 [[/footnote]]、および目撃者への記憶処理が行われます。\n\n**説明:** SCP-3039-JPは路上を移動中の物品や生物が消失する現象です。SCP-3039-JPの対象に有意な傾向はなく、歩行中の人間やその他の動物が無差別に対象となります。再現性に乏しく直接の観測事例がないため、SCP-3039-JPの具体的な性質は本稿執筆時点で未解明です。現在までに観測されたSCP-3039-JP発生事例はいずれも民間の監視カメラから発見されており、回収された映像には歩行者が路面を通り抜けて落下するように地中へと消失する様子が記録されていました。\n\n犠牲者は数時間から数日の期間を経て、消失地点の周辺に位置する河川や湖沼などに死亡した状態で再出現します。周辺にこれらの地形が存在しない事例での犠牲者の遺体は現在まで発見されていません。\n\n[[include :1119s:carousel\n|images=\nhttp://scp-jp-storage.wdfiles.com/local--files/file%3A5722815-121-e1me/30391.jpg,\nhttp://scp-jp-storage.wdfiles.com/local--files/file%3A5722815-122-stzx/30392.jpg,\nhttp://scp-jp-storage.wdfiles.com/local--files/file%3A5722815-123-3be4/30393.jpg,\nhttp://scp-jp-storage.wdfiles.com/local--files/file%3A5722815-124-uobm/30394.jpg,\nhttp://scp-jp-storage.wdfiles.com/local--files/file%3A5722815-125-jc0t/30395.jpg\n|caption= 急行した調査班により撮影された、SCP-3039-JPが発生したと推測される地点。\n|interval= 10\n|width= 500px\n|height= 300px\n|position= center\n|no-caption= false\n|background= white\n|options= yes\n]]\n\n[[module CSS]]\n.creditRate {\n    margin: 0 0 1em 0;\n}\n.classification-header .right-box {\n    --level0: 102,51,51;\n    font-weight: bold;\n}\n@media (min-width: 580px) and (max-width: 766px), (min-width: 840px) {\n    .classification-header {\n        font-size: 1.25em;\n    }\n}\n[[/module]]",
+  "tags": [],
+  "author": "iti119",
+  "created_at": "2023-06-23T14:00:10+00:00",
+  "updated_at": "2023-06-28T15:50:40+00:00",
+  "rating": -12,
+  "_site": "scp-jp",
+  "_fullname": "deleted:scp-3039-jp"
+}

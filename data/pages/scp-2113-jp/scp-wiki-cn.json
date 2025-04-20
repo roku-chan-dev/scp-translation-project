@@ -1,0 +1,21 @@
+{
+  "title": "SCP-2113-JP",
+  "content": "[[include :scp-jp:component:jstyles]]\n[[include :sendoh-oroka:theme:blank]]\n[[module css]]\n:root {\n    --header-title: \"SCP基金会\";\n    --header-subtitle: \"控制 - 收容 - 保护\";\n}\ndiv#extra-div-1 {\n    background-image: url(http://scp-wiki.wdfiles.com/local--files/theme%3Apaperstack/lgtrans.png);\n}\n[[/module]]\n\n[[include :scp-wiki-cn:credit:start-standalone]]\n**标题：**SCP-2113-JP - 然后闭上了双眼\n**作者：**©︎[[*user Sendoh-Oroka]]\n**译者：**[[*user Backlight SH]]\n**发布年份：**2020年\n----\n= [[[http://scp-jp.wikidot.com/author:sendoh-oroka|查看作者其他作品]]]\n[[include :scp-wiki-cn:credit:end-standalone]]\n\n**项目编号：**SCP-2113-JP\n\n**项目等级：**--Euclid-- Kušum[[footnote]][[[esoteric-classes-complete-list#toc0|项目的收容措施被无限期搁置。]]][[/footnote]]\n\n**特殊收容措施：**不适用。\n\n[[collapsible show=\"旧特殊收容措施[2020年12月21日]\"hide=\"[close]\"]]\n**特殊收容措施：**PoI-8291将被指定为E级监视对象，预定于2020年12月24日对其进行收容。PoI-8291死亡后，应对其遗体进行解剖并将相关信息通过Para-Archive[[footnote]]基金会为共享不同平行宇宙的情报信息建立的信息共享平台，由基金会与其他宇宙中地位相当于基金会的常态维护组织共同运营。[[/footnote]]提供给其他宇宙。\n[[/collapsible]]\n\n**描述：**SCP-2113-JP为一存在于平行宇宙当中的、[[[are-we-cool-yet-hub|Are We Cool Yet?]]]成员{{堂园了^^Douzono Ryou^^}}（以下将其指定为SCP-2113-JP-A-1）自杀时击发的手枪子弹。SCP-2113-JP会在不同平行宇宙间跳跃，并出现在SCP-2113-JP-A-1位于其他宇宙的的同位体（以下指定为SCP-2113-JP-A）的脑组织内。\n\nSCP-2113-JP会出现在SCP-2113-JP-A的右脑，自其左侧头骨射出后，将跳跃到与其最近的平行宇宙的SCP-2113-JP-A体内。项目本身的速度由于不明原因不会发生变化，预计最终结果是所有SCP-2113-JP-A死亡。\n\nSCP-2113-JP-A是堂园了（SCP-2113-JP-A-1）在其他平行宇宙的同位体。全部SCP-2113-JP-A的大脑枕叶中存在一空间型异常，会与最接近自身的SCP-2113-JP-A的脑枕叶相重合。基金会根据回收到的文件推测，SCP-2113-JP-A-1能够获取其他SCP-2113-JP-A的视觉信号。目前为止的调查中尚未发现其他SCP-2113-JP-A具备相同的异常性质。\n\nSCP-2113-JP-A-1是某一平行宇宙的基金会在2020年12月18日调查发生于日本北阳县弓滨市[[footnote]]其地理位置对应本宇宙的日本鸟取县米子市。[[/footnote]]发生的本质性降低事件时发现的。该人在被发现时已经死亡，死因根据解剖结果判断为开枪自杀。在发现SCP-2113-JP-A-1的异常性质与SCP-2113-JP的存在后，上述消息被传达给各宇宙的基金会。\n\n**附录1：**以下是在SCP-2113-JP-A-1居住的房屋中回收到的文件：\n\n[[div class=\"blockquote\"]]\n**标题：**从这操蛋境遇解脱\n\n**需要材料：**\n\n* 一把手枪（什么型号都行，酒吧里就买得到）\n* 我自己\n\n**概要：**一瞬间就会完事。我把手枪抵在太阳穴上，扣下扳机，这些就足矣。\n\n**含义：**这就是所有的“我”的终焉了。没有我的酷世界将自此拉开帷幕。\n\n我从小的时候，如果把视线移到别处就能看见另外的世界。当时我把它当做是不得了的宝物，尤其是被关在漆黑的废弃房屋当中的时候（虽然说往别处看的时候总是会看见有人被殴打或者遭受各种残忍的待遇）。\n\n靠着这种才能，我进了一所不错的大学，不过终究也是无意义。退学以后，我就把在“别处”看见的画作依样描摹下来然后拿去售卖，我就是靠着这个为生。也许我本来对于艺术就没有兴趣，往别处看的时候其实很少看画作。于是又接着看向别处，找一些新的东西来模仿。\n\n不停地看别处、看别处、还是看别处，每次这么干都让我觉得我的人生简直是一堆狗屎，然而还是忍不住继续这么干。出售画作带来的钱财数目还算可观，但是评价跟那些真货相比又是云泥之别。我这个已经过了三十岁的、不被谁所崇拜的、即使作为画家也像个废物的人，还是把视线从自己身上移开。我这么一直往别处看，甚至搞不清楚我到底待在哪个世界。我做的只有移开我的视线、移开我的视线、还有移开我的视线。\n\n然后在某一天我注意到了。我终于注意到不管哪个我都过的是那种废物般的生活。当然别的“我”似乎没有我这一双眼，他们活在世上几乎就只是在给别人带来麻烦，倒不如死了的好，毕竟他们的脑子没那么聪明，这也是理所当然吧。\n\n我最初以为那是骗人的，还稍微抱有一些希望。所以我又接着看向别处，然后闭上了双眼。我再次睁开双眼时已经看清现实，除此之外无路可走了。\n\n把这些最不酷的“我”杀死的话，这个世界也会稍微酷一些吧。\n\n“Are We Cool Yet?”啥的还真是讲不出口啊。\n[[/div]]\n\n[[include component:image-block\nname=http://scp-jp.wdfiles.com/local--files/scp-2113-jp/HosomiKeigo.jpg|\ncaption=PoI-8291|\nwidth=180px|\nalign=right|\n]]\n\n**附录2：**位于本宇宙的SCP-2113-JP-A为一名为{{细见惠吾^^Hosomi Keigo^^}}（以下指定PoI-8291）的日籍男子。PoI-8291是日本千叶县舟桥市公所职员，目前与其的三名家人[[footnote]]妻子：细见{{洋子^^Youko^^}} _\n长子：细见{{圭一^^Keiichi^^}} _\n次子：细见{{阳太^^Youta^^}}[[/footnote]]一同居住于千叶县舟桥市唐品町8号。未确认到PoI-8291与AWCY?以及涉及该组织的一切异常项目存在关联。\n因此，基金会将其指定为警戒程度最低的E级监视对象，并将在预计死亡时间前6小时对其执行收容。\n\n目前，预计PoI-8291将在2020年12月24日20:12因SCP-2113-JP而死亡。\n\n**更新[2020/12/25]：**PoI-8291被收容于[[[secure-facility-dossier-site-81ka|Site-81KA]]]，在其预测将死亡的时刻死亡。对与PoI-8291相关的人员实施了A级记忆删除，并散播掩盖故事“肇事逃逸”。此后不再在基础宇宙进行SCP-2113-JP的收容活动。\n\n[[include :sendoh-oroka:footnote]]",
+  "tags": [
+    "2020谎言竞赛",
+    "are-we-cool-yet",
+    "jp",
+    "scp",
+    "时空",
+    "未收容",
+    "机密分级",
+    "武器",
+    "超维度"
+  ],
+  "author": "Backlight SH",
+  "created_at": "2021-07-21T00:30:17+00:00",
+  "updated_at": "2024-07-14T13:27:21+00:00",
+  "rating": 4,
+  "_site": "scp-wiki-cn",
+  "_fullname": "scp-2113-jp"
+}

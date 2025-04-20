@@ -1,0 +1,13 @@
+{
+  "title": "Components Intro",
+  "content": "+ Introduction\nWelcome to the Components Hub! This is a hub meant for all pages under the {{component:}} category. Components are defined, by the [http://05command.wikidot.com/tech-hub-tag-list 05 Command Tech Hub Tag List], as \"A page that is designed to be imported onto other pages via the [[include]] syntax in order to add new design, style or functionality.\" This doesn't include themes (which modify the look and feel of a page), or more-by pages (which are pages that lists works by certain authors).\n\n----\n+ Table of Contents\n[[toc]]\n\nThis page has been split into the four following categories:\n\n------\n[[=]]\n@@ @@\n[[size 127%]]- **General** -[[/size]]\n\nThese are components that can work on any page, regardless of the theme being used.\n@@ @@\n[[size 127%]]- **Sigma-9** -[[/size]]\n\nThese are components meant for use //only// on Sigma-9 pages, and would more than likely break on Black Highlighter or BASALT.\n@@ @@\n[[size 127%]]- **Black Highlighter** - [[/size]]\n\nThese are components meant for use //only// on Black Highlighter pages, and would more than likely break on Sigma-9 or BASALT.\n@@ @@\n[[size 127%]]- **Technical/Staff** -[[/size]]\n\nThese are components that are for more technical work or meant only for staff processes. It's unlikely you'll be using these in any articles.\n[[/=]]\n----",
+  "tags": [
+    "fragment"
+  ],
+  "author": "Cole 13",
+  "created_at": "2021-11-07T15:15:24+00:00",
+  "updated_at": "2024-04-25T18:45:39+00:00",
+  "rating": 0,
+  "_site": "scp-wiki",
+  "_fullname": "fragment:components-intro"
+}

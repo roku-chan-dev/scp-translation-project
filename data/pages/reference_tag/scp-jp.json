@@ -1,0 +1,14 @@
+{
+  "title": "リファレンス: 疑似タグ",
+  "content": "[[include :scp-jp:credit:start]]\n**タイトル:** 疑似タグ\n**著者:** [[*user R74]]\n**作成年:** 2023\n[[include :scp-jp:credit:end]]\n[[include :scp-jp:component:tag-modal]]\n+ What is this?\nこれは，偽装タグを表示させることを目的としたコンポーネントです．使用の際は[[[component:tag-modal|]]]をRateモジュールもしくはクレジット付き評価モジュールの直下に置く必要があります．\n[[div class=\"code\"]]\n##blue|@@[[include@@ :scp-jp:component:tag-modal]]##\n[[/div]]\n\n+ 使い方\n++++* Minimal code\n[[div class=\"code\"]]\n##blue|@@[[include@@ :scp-jp:user-component:tag-top]]##\n##blue|@@[/system:page-tags/tag/jp#pages jp]@@##\n##blue|@@[/system:page-tags/tag/scp#pages scp]@@##\n##blue|@@[/system:page-tags/tag/en#pages en]@@##\n##blue|@@[/system:page-tags/tag/tale#pages tale]@@##\n##blue|@@[[include@@ :scp-jp:user-component:tag-end]]##\n[[/div]]\n++++* Example\n[[include :scp-jp:user-component:tag-top]]\n[/system:page-tags/tag/jp#pages jp]\n[/system:page-tags/tag/scp#pages scp]\n[/system:page-tags/tag/en#pages en]\n[/system:page-tags/tag/tale#pages tale]\n[[include :scp-jp:user-component:tag-end]]\nこのようにリンク付けされた偽装タグを実装できます．\n----\n----\n++ リンク先を偽造したい場合\n++++* Minimal code\n[[div class=\"code\"]]\n##blue|@@[[include@@ :scp-jp:user-component:tag-top]]##\n##blue|@@[/system:page-tags/tag/jp#pages SCP財団]@@##\n##blue|@@[/system:page-tags/tag/en#pages SCP Foundation]@@##\n##blue|@@[[include@@ :scp-jp:user-component:tag-end]]##\n[[/div]]\n++++* Example\n[[include :scp-jp:user-component:tag-top]]\n[/system:page-tags/tag/jp#pages SCP財団]\n[/system:page-tags/tag/en#pages SCP Foundation]\n[[include :scp-jp:user-component:tag-end]]\nとリンク先を偽造することができます．",
+  "tags": [
+    "jp",
+    "リファレンス"
+  ],
+  "author": "R74",
+  "created_at": "2023-01-27T10:32:01+00:00",
+  "updated_at": "2023-10-16T16:52:25+00:00",
+  "rating": 14,
+  "_site": "scp-jp",
+  "_fullname": "reference:tag"
+}

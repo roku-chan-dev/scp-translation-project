@@ -1,0 +1,15 @@
+{
+  "title": "評価の高い記事その2-ARC",
+  "content": "> [[size 150%]]このページは古くなって保存されました。[[/size]]\n> \n> このページの新しいバージョンは[[[top-rated-pages|こちら]]]へ。このバージョンは参照用のために一時的に保存されています。\nここではサイトで最も好まれているSCP記事,Tale記事を見ることができます。組織票や多重投票を避けるため、投票はサイトメンバーに限定されます。今月作成された中で最も支持されたページを見るには[[[Top Rated Pages This Month|評価の高い記事(今月)]]]を参照してください。\n\nそれぞれのタグで評価の高い記事を確認したい際は[[[archived:top-rated-scp|評価の高いSCP]]]、[[[archived:top-rated-tale|評価の高いTale]]]、[[[archived:top-rated-other|その他の評価の高い記事]]]を参照してください。\n\n[[module ListPages rating=\">5\" order=\"rating desc\" separate=\"false\" limit=\"400\" category=\"_default\" perPage=\"100\" tags=\"scp tale\"]]\n%%title_linked%% (評価: %%rating%%, コメント: %%comments%%)\n[[/module]]\n\n\n-----\n\n[[=]]\n**<<  [[[archived:top-rated-scp|評価の高いSCP]]] | [[[archived:top-rated-tale|評価の高いTale]]] | [[[archived:top-rated-other|その他の評価の高い記事]]] >>**\n[[/=]]",
+  "tags": [
+    "jp",
+    "アーカイブ済み",
+    "管理"
+  ],
+  "author": "Dr Devan",
+  "created_at": "2013-08-23T12:43:39+00:00",
+  "updated_at": "2021-10-08T10:36:44+00:00",
+  "rating": 9,
+  "_site": "scp-jp",
+  "_fullname": "archived:top-rated-pages-2"
+}

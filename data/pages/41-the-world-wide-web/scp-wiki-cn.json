@@ -1,0 +1,22 @@
+{
+  "title": "万-维-网",
+  "content": "[[include :scp-wiki-cn:theme:blankstyle fade=a]]\n\n[[module CSS]]\n@import url('https://fonts.googleapis.com/css2?family=Caveat:wght@700&family=Lobster&display=swap');\n[[/module]]\n\n[[module CSS]]\n.Ngo {\n    padding: 4px 16px 4px 16px;\n    box-shadow: 0px 0px 3px rgba(0, 0, 0, 0.3);\n    width: 75%;\n    margin: auto;\n    margin-bottom: 28px;\n    margin-top: 28px;\n    background: #FBF9F3;\n    border: dashed 0.1rem #5D5D5D;\n[[/module]]\n\n[[include :scp-wiki-cn:credit:start-standalone]]\n[[=]]\n**万维网**\n一头摔入我的客厅。\n\n**[[[http://www.scp-wiki-cn.wikidot.com/this-page-intentionally-left-blank|该作者的更多作品！]]]**\n[[/=]]\n[[include :scp-wiki-cn:credit:end-standalone]]\n\n[[=]]\n+ 万维网\n[[/=]]\n\n[[=]]\n@@ @@\n[[image https://scp-wiki.wdfiles.com/local--files/the-b-b-decommission/Asterisk43.png]]\n@@ @@\n\n+ ##990011|2007年##\n++ 9月8日\n[[span style=\"font-family: BauhausLTDemi; font-size: 120%;\"]]**[http://www.scp-wiki-cn.wikidot.com/secure-facility-dossier-site-43 Site-43]：加拿大，安大略省，兰布顿县**[[/span]]\n[[/=]]\n\n----\n\nWilliam Wettle深吸了一口气。\n\n他看了看手表。下午6:24。他检查了复现研究实验室门上的时钟。下午6:24。他检查了另一只手表——当牵涉到他的运气的时候，彻底的检查是值得的——秒针刚好过了12，新的一分钟开始了。\n\n6:25。好戏登场。\n\n他飞奔到门口。\n\n他绊倒了。\n\n[[=]]\n@@ @@\n[[image https://scp-wiki.wdfiles.com/local--files/the-b-b-decommission/Asterisk43.png]]\n@@ @@\n\n+ ##990011|2008年##\n++ 9月9日\n[[/=]]\n\n----\n\n[[div class=\"Ngo\"]]\n**汇报日志：5243-B**\n\n**对象：**Harold R. Blank（Site-43文献与修缮部主席）；Delfina M. Ibanez（Site-43控制与收容部部长）；Lillian S. Lillihammer（Site-43模因与反模因部主席）；Allan J. McInnis（Site-43主管）；Noè Nascimbeni（Site-43保洁与维修部部长）；Udo A. Okorie（Site-43应用神秘学部研究员）；William W. Wettle（Site-43复现研究副主席）\n\n**记录员：**Nhung T. Ngo（Site-43心理学与超心理学部高级研究员）\n\n**SCP偏差：**Wettle博士在抵达走廊之前被绊倒，没有与S&C特工相撞。他们随后得以在气闸被密封之前冲刷AAF-D并逃脱。\n\n----\n\n//Blank博士、Lillihammer博士、McInnis博士以及Okorie博士看上去非常专注。Ibanez部长的表情凶狠而憔悴。Nascimbeni部长拒绝进行眼神交流。Wettle博士抱着自己，不能自制地抓挠着胳膊。//\n\n**Ngo博士：**你们还好吗？你们似乎都很……焦虑。\n\n**Blank博士：**蜘蛛。\n\n**Ngo博士：**蜘蛛？\n\n**Lillihammer博士：**蜘蛛。\n\n**Ibanez部长：**//天杀的//蜘蛛。\n\n**Ngo博士：**你们能详细说说吗？\n\n**Blank博士：**不。\n\n**Okorie博士：**不。\n\n**Ibanez部长：**操你妈。不。\n\n**McInnis博士：**我会……进行报告，以私人形式。\n\n----\n\n**附录：**Wettle博士与Nascimbeni部长完全拒绝说话。McInnis博士向O5指挥部提交了报告；它被归类为5级：最高机密。所有七个人都在75%的█████ █████上接受了多重的█████████ ████治疗。\n[[/div]]\n\n@@ @@\n\n[[include :scp-wiki-cn:component:earthworm\n| first=false | last=false | hub=yes\n| previous-url=https://scp-wiki-cn.wikidot.com/40-waiting-to-happen| previous-title=等候降临\n| next-url=https://scp-wiki-cn.wikidot.com/42-life-cycled | next-title=循环的生活\n| hub-url=https://scp-wiki-cn.wikidot.com/wrong-tomorrow-hub | hub-title=突破不断继续：错误的明天\n]]\n\n[[=]]\n[[include :scp-wiki-cn:component:license-box\n|author=HarryBlank]]\n=====\n[[<]]\n\n> **文件名：**所有图片！\n> **图像作者：**[[*user HarryBlank]]\n> **授权协议：**CC BY-SA 3.0\n[[/<]]\n=====\n[[include :scp-wiki-cn:component:license-box-end]]\n[[/=]]",
+  "tags": [
+    "blank博士",
+    "ibanez部长",
+    "lillihammer博士",
+    "mcinnis主管",
+    "okorie博士",
+    "wettle博士",
+    "值守43",
+    "悬疑",
+    "故事",
+    "错误的明天"
+  ],
+  "author": "highlightingman",
+  "created_at": "2023-10-27T16:31:50+00:00",
+  "updated_at": "2025-01-20T05:26:53+00:00",
+  "rating": -2,
+  "_site": "scp-wiki-cn",
+  "_fullname": "41-the-world-wide-web"
+}

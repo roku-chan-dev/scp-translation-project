@@ -1,0 +1,14 @@
+{
+  "title": "00459",
+  "content": "content: \"**説明:** 手にしている時限定で念動力を行使できる鉄製のスプーン。ただし自身に接触し、全長20cmを下回る棒状で一部に凹みがあるものにしか影響を与えられない。\\n**回収日:** 20██/██/██\\n**回収場所:** 長野県██市内の喫茶店で、店主が客に見せるマジックに使用していた。\\n**現状:** 3回目の実験の際に念動力により破損、無力化された。\"\ntf2: '1'\nauthor: solvex\nredirect-b: '[[module Redirect destination=\"http://ja.scp-wiki.net/log-of-anomalous-items-jp'\nredirect-e: '\"]]'",
+  "tags": [
+    "jp",
+    "剪定対象-子"
+  ],
+  "author": "7happy7",
+  "created_at": "2020-03-14T14:26:48+00:00",
+  "updated_at": "2021-05-24T13:13:01+00:00",
+  "rating": 10,
+  "_site": "scp-jp",
+  "_fullname": "anomalous-jp:00459"
+}

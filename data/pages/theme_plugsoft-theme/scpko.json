@@ -1,0 +1,15 @@
+{
+  "title": "플러그소프트 테마",
+  "content": "[[iftags +테마]]\n이 테마를 사용하려면 다음 구문을 문서에 붙여넣으세요.\n> @@[[include theme:plugsoft-theme]]@@\n[[/iftags]]\n\n[[module CSS]]\n@import url(https://scpko.wdfiles.com/local--code/theme%3Aplugsoft-theme/1);\n[[/module]]\n[[code type=\"css\"]]\n/*\n    Powered on 2019/07/18 00:18:31\n    [2019 Wikidot Theme]\n    Created by Nareum\n    CC BY-SA 3.0\n*/\n\n\n\n\nbody {\n    background: #ecfaf6;\n    color: #000000;\n}\na,a:visited {\n    color: #7f928d;\n}\ndiv#header h1 a span {\n    font-size: 0px;\n}\ndiv#header h1 a:before {\n    content: \"플러그소프트\";\n    color: #ffffff;\n    text-shadow: 3px 3px 3px #000000;\n}\ndiv#header h2 span {\n    font-size:0px;\n    padding: 4px;\n}\ndiv#header h2:after {\n    content: \"우주에서 단 하나의 재미\";\n    font-weight: bold;\n    color: #ffffff;\n    padding: 19px 0;\n    text-shadow: 1px 1px 1px #000000;\n    white-space: pre;\n}\ndiv#side-bar div.side-block {\n    background: #cdf1e6;\n    border: 1px solid #333333;\n}\ndiv.yui-navset div.yui-content {\n    background: #c1e5da;\n}\ndiv.page-rate-widget-box,\ndiv.page-rate-widget-box span.rate-points,\ndiv.page-rate-widget-box span.cancel {\n    background-color: #cbcecd!important;\n    border: solid #cbcecd 1px!important;\n}\ndiv.page-rate-widget-box span.rateup,\ndiv.page-rate-widget-box span.ratedown {\n    border: solid #cbcecd!important;\n    border-width: 1px 0!important;\n}\ndiv.page-rate-widget-box span.rate-points,\ndiv.page-rate-widget-box span.cancel a,\ndiv.page-rate-widget-box span.cancel a:hover {\n    color: #0000000;\n}\ndiv.page-rate-widget-box span.rateup,\ndiv.page-rate-widget-box span.ratedown {\n    background-color: #dfe0e0!important;\n}\ndiv.page-rate-widget-box span.rateup a,\ndiv.page-rate-widget-box span.ratedown a {\n    color: #0000000!important;\n}\ndiv.page-rate-widget-box span.cancel a:hover,\ndiv.page-rate-widget-box span.rateup a:hover,\ndiv.page-rate-widget-box span.ratedown a:hover {\n    background: transparent!important;\n    color: transparent!important;\n}\ndiv.open-menu a {\n    color: #888888!important;\n    border-color: #888888!important;\n}\ndiv#header {\n    background: url(https://scpko.wdfiles.com/local--files/theme%3Aplugsoft-theme/PlugSoft.png) no-repeat;\n    background-position: -5px 30px;\n}\ndiv#container-wrap {\n    background: url(https://scpko.wdfiles.com/local--files/theme%3Aplugsoft-theme/222.png) top left repeat-x;\n}\nblockquote {\n    border: 1px dashed #999; \n    background: #e3f0ed\n}\nh1 {\n    color: #596e72;\n}\ndiv#page-title {\n    color: rgb(89, 110, 114);\n}\n[[/code]]",
+  "tags": [
+    "_cc",
+    "ko",
+    "테마"
+  ],
+  "author": "Nareum",
+  "created_at": "2019-08-27T06:13:05+00:00",
+  "updated_at": "2022-05-18T13:27:47+00:00",
+  "rating": 2,
+  "_site": "scpko",
+  "_fullname": "theme:plugsoft-theme"
+}

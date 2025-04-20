@@ -1,0 +1,15 @@
+{
+  "title": "붉은 복도",
+  "content": "[[div style=\"background: url(http://ko.scp-wiki.net/local--files/scp-185-ko-red-hallway/DarkHall.jpg) top center no-repeat ; float: center; border: solid 1px #006c00; width: 600px; padding: 1px 15px; margin: 10px 10px 10px 0px; background-color: #fff; box-shadow: 0 1px 3px rgba(0,0,0,.2);\"]]\n[[div style=\"color:#C0C0C0\"]]\n당신은 어딘지 모를 장소에서 일어났습니다. 목이 심하게 아프고, 뭔가에 머리를 얻어맞은 기억만이 남아 있습니다. 당신은 자신이 누군지 기억하지 못합니다. 당신은 누군가에게 납치되었다고 생각합니다. 다행히 몸은 구속되어 있지 않습니다. \n@@ @@\n@@ @@\n\n당신은 주위를 둘러봅니다. 그러던 중 몇개의 문을 발견합니다. \n\n [[[scp-185-ko-first-door|첫번째 문]]]\n\n [[[scp-185-ko-second-door|두번째 문]]]\n\n [[collapsible show=\"세번째 문\" hide=\"문이 잠겨있습니다.\"]][[/collapsible]]\n\n [[[scp-185-ko-fourth-door|네번째 문]]]\n\n [[[scp-185-ko-front-door|정면의 문으로 들어간다]]]\n@@ @@\n@@ @@\n@@ @@\n@@ @@\n@@ @@\n@@ @@\n@@ @@\n@@ @@\n@@ @@\n@@ @@\n@@ @@\n[[/div]]\n[[/div]]",
+  "tags": [
+    "_이미지",
+    "ko",
+    "보충"
+  ],
+  "author": "lanlanmag",
+  "created_at": "2014-12-14T04:19:58+00:00",
+  "updated_at": "2020-05-21T05:45:07+00:00",
+  "rating": 1,
+  "_site": "scpko",
+  "_fullname": "scp-185-ko-red-hallway"
+}

@@ -1,0 +1,18 @@
+{
+  "title": "SCP-002-VN",
+  "content": "[[include component:image-block\n    name=http://scp-vn.wdfiles.com/local--files/scp-002-vn/funeral.jpg|\n    caption=首次SCP-002-VN记录，1937年。|\n    width=300px\n]]\n\n**项目编号：**SCP-002-VN\n\n**项目等级：**Safe\n\n**特殊收容措施：**由于26号墓园处于基金会持有状态之下，故无需采取进一步安保措施。\n\n已在SCP-002-VN-1附近安装录音机以清晰记录其在SCP-002-VN期间发出的声音。\n\n**描述：**SCP-002-VN是一个每年3月19日于26号墓园出现的现象[[footnote]] 过去基金会成员必须在加入之前假死以保密。过世成员将被火化并埋葬在工作地点。在双盲协议以及掩饰协议施行后，已不再在工作地点掩埋人员。 [[/footnote]]。\n\nSCP-002-VN-1为Darwin Hardwick的坟墓，Darwin Hardwick生前为1级人员，于1936年3月19日过世。Darwin Hardwick任26号墓园管理一职，并在生前因在工作上鞠躬尽瘁而颇有美名。\n\n[[include component:image-block\n    name=http://scp-vn.wdfiles.com/local--files/scp-002-vn/oldman.jpg|\n    caption=Darwin Hardwick，约1930年。|\n    width=150px|\n    align=left\n]]\n\nSCP-002-VN-2指代每次SCP-002-VN事件中出现的诸多实体。SCP-002-VN-2没有物质形态，其外表呈透明水汽状，且其面部经鉴定无法与任何活人相匹配。\n\n每个SCP-002-VN-2对象外貌都与一名在双盲协议施行前死亡的基金会成员相类似[[footnote]] 需注意，成员在死亡时身上存在的创伤在相应SCP-002-VN-2对象身上并未出现。 [[/footnote]]。SCP-002-VN-2出现时的数量约在13-21名左右，其中包括多名基金会高级别成员以及其他低级别人员。SCP-002-VN-2各对象通常会穿着参加葬礼人员所穿着的暗色服装，且若SCP-002-VN当天下雨，这些对象会撑一把黑伞。\n\n@@@@\n@@@@\n@@@@\n@@@@\n@@@@\n\n以下为SCP-002-VN事件期间各部分工作程序。\n\n|| 0700 || SCP-002-VN-1附近出现浓雾。能见度明显降低。 ||\n|| 0705 || 浓雾逐步散开，诸SCP-002-VN-2对象出现并站在SCP-002-VN-1附近。SCP-002-VN-1已被挖开，Darwin Hardwick的棺木被放在SCP-002-VN-1旁[[footnote]] 对棺木扫描结构显示，Darwin的遗骸并不具有异常性质。 [[/footnote]]。 ||\n|| 0705-0740 || 每个SCP-002-VN-2个体都会在棺木边跪下并表达对Darwin的感激之情。每次事件中个体所发表的言论都会有所不同，但宗旨通常保持一致。 ||\n|| 0740-0750 || 一名SCP-002-VN-2对象将棺木放入SCP-002-VN-1内。所有对象从上衣中取出一把铲子并开始往棺木上培土。 || \n|| 0750-0755 || 每名SCP-002-VN-2对象走向他们自己的坟墓并创造出一朵白蔷薇。随后他们会回来，并将这朵花放在Darwin的坟墓上。 ||\n|| 0755 || 浓雾再次出现并遮住所有SCP-002-VN-2对象与SCP-002-VN-1。 ||\n|| 0800 || 浓雾逐步散开，SCP-002-VN-2消失。SCP-002-VN结束。 ||\n\n**附录 002-VN-01：**将位于26号墓园的遗骸转移至特别存储区并对26号墓园进行重规划的提案仍在审查中。",
+  "tags": [
+    "safe",
+    "scp",
+    "vn",
+    "人形生物",
+    "循环",
+    "无形"
+  ],
+  "author": "Hueyacuetzpali",
+  "created_at": "2018-06-19T11:39:44+00:00",
+  "updated_at": "2019-08-21T15:25:24+00:00",
+  "rating": 4,
+  "_site": "scp-wiki-cn",
+  "_fullname": "scp-002-vn"
+}

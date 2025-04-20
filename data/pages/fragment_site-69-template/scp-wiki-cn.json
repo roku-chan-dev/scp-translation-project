@@ -1,0 +1,13 @@
+{
+  "title": "Site-69样板",
+  "content": "[[include :scp-wiki-cn:fragment:site-69-template-base\n| - = -\n| dead-personnel = {$dead-personnel}\n| mtf-arrival-hours = {$mtf-arrival-hours}\n| pantry = {$pantry} | pantry = 无重大情况。\n| storage = {$storage} | storage = 无重大情况。\n| foyer = {$foyer} | foyer = 无重大情况。\n| hangar = {$hangar} | hangar = 无重大情况。\n| server = {$server} | server =几排服务器机架布置在站点的数据中心中。机架中大约一半的空位被填满——总共有大约50台服务器。几个有线连接器从每个连接器的后部伸出，以数百根电缆束的形式拖到地板上，这些电缆终止在房间周围的随机点。没有一盏闪烁的灯。\n| cafe = {$cafe} | cafe = 无重大情况。\n| d1 = {$d1} | d1 =1号次要收容间已被改造成两人居住区。\n| d2 = {$d2} | d2 =2号次要收容间已被改造成三人居住区。\n| d3 = {$d3} | d3 =一张便签贴在相机镜头上，遮住了3号次要收容间的内部画面。\n| d4 = {$d4} | d4 =4号次要收容间已被改造成三人居住区。\n| d5 = {$d5} | d5 =5号次要收容间已被改造成两人居住区。\n| d6 = {$d6} | d6 =6号次要收容间已被改造成两人居住区。\n| armoury = {$armoury} | armoury =一系列防护设备，房间区域设计用于环境和战斗目的。有6种标准环境防护服、31套战斗防护装甲，其设计与机动特遣队中使用的装甲相似。有足够的枪支来提供给那些愿意穿上装甲的人。一些弹药储物柜一直敞开，而那些既敞开又面向摄像机的储物柜里都是空的。\n| bay = {$bay} | bay =停车场是空的。\n| containment = {$containment} | containment = 主要收容室很安静。\n| airlock = {$airlock} | airlock = 主要收容室气闸既安静又空旷。\n| a4 = {$a4} | a4 =办公室里没一个人。 一些工作站的显示器一直处于打开状态，活动灯闪烁着，但屏幕变暗了。\n| a3 = {$a3} | a3 = 无重大情况。\n| a1 = {$a1} | a1 = 无重大情况。\n| office-corridor = {$office-corridor} | office-corridor = 连接行政室和收容区的走廊内没有什么东西。\n| server-corridor = {$server-corridor} | server-corridor = 连接机库、服务器室和收容区域与收容区的走廊内没有什么东西。\n| d-corridor = {$d-corridor} | d-corridor = 连接次要收容间和主收容区的走廊内没有什么东西。\n| ring-north = {$ring-north} | ring-north = 走廊-北侧没有什么东西。\n| ring-east = {$ring-east} | ring-east = 走廊-东侧没有什么东西。\n| ring-south = {$ring-south} | ring-south = 走廊-南侧没有什么东西。\n| ring-west = {$ring-west} | ring-west =走廊-西侧没有什么东西。\n| armoury-corridor = {$armoury-corridor} | armoury-corridor = 连接军械库、储藏室和厕所与收容区的走廊内没有什么东西。\n| outside = {$outside} | outside = 在相机分辨率允许的范围内，一片冰冷的平原一直延伸，覆满雪和石头，偶尔有几棵树点缀着。持续的雾气遮住了大约300米外的任何东西。\n]]",
+  "tags": [
+    "段落"
+  ],
+  "author": "AceAttackAssassin",
+  "created_at": "2024-07-19T07:05:01+00:00",
+  "updated_at": "2024-07-22T13:49:19+00:00",
+  "rating": 0,
+  "_site": "scp-wiki-cn",
+  "_fullname": "fragment:site-69-template"
+}

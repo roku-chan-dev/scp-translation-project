@@ -1,0 +1,16 @@
+{
+  "title": "Area-CN-05",
+  "content": "[[>]]\n[[module Rate]]\n[[/>]]\n[[<]]\n[[/<]]\n[[div style=\"text-align: center; color: #600;\"]]\n[[div class=\"unmargined\"]]\n警告：基金会资料库属于\n[[/div]]\n[[div class=\"unmargined\" style=\"font-size: 400%; font-weight: bold; margin: 2px 0 5px;\"]]\n高度机密\n[[/div]]\n[[div class=\"unmargined\"]]\n严禁未经授权的人员进行访问\n肇事者将被监控，定位并处理\n[[/div]]\n[[/div]]\n\n[[=]]\n\n欢迎来到Area-CN-05站点资料库，在进行访问之前可能需要进行权限验证，请登陆您的基金会ID进行权限验证\n------\n[[module ListUsers users=\".\"]]\n欢迎您，尊敬的**%%title%%**，您已获得授权\n存取密码：**微微风簇浪，散作满河星**\n[[/module]]\n[[/=]]\n[[html]]\n<center>\n<head>\n<style>\n#aa { \n    border-style: solid;\n\t\t\tborder-color: black;\n\t\t\tborder-width: thin;\n\t\t\tbackground-color: white;\n\t\t\theight: 35px;\n\t\t\twidth: 200px;\n}\n\n</style>\n<script language=\"javascript\">\n\nfunction LogIn(){\nloggedin=false;\npassword=\"\";\npassword=prompt(\"密碼：\",\"\");\npassword=password.toLowerCase();\n\n// Add password-->\nif (password==\"微微风簇浪，散作满河星\") {\nloggedin=true;\nwindow.open('/area-cn-05');\n}\n\n// Add password-->\nif (password==\"情人怨遥夜，竟夕起相思\") {\nloggedin=true;\nwindow.open('/hidden data');\n}\n\n// Add password-->\nif (password==\"随机页\") {\nloggedin=true;\nwindow.open('/dududu');\n}\n\n// If login incorrect -->\nif (loggedin==false) {\nalert(\"请离开访问界面并将双手放在头上。您没有权限访问文件，安保人员正在前往你的位置，请勿试图抵抗。\");\n}\n}\n\n</script>\n\n</head>\n\n<body>\n<form><input type=button id=\"aa\" value=\"存取Area-CN-05详细资料\" onClick=\"LogIn()\"></form>\n</body>\n[[/html]]\n[[=]]\n++ ·\n++ ·\n++ ·\n++ ·\n++ ·\n++ ·\n++ ·\n++ ·\n++ ·\n++++ [[[http://scp-wiki-cn.wikidot.com/jihu | 进入基乎]]]\n[[/=]]",
+  "tags": [
+    "中心",
+    "互动性",
+    "原创",
+    "站点"
+  ],
+  "author": null,
+  "created_at": "2017-10-11T04:33:19+00:00",
+  "updated_at": "2021-06-04T11:43:47+00:00",
+  "rating": 80,
+  "_site": "scp-wiki-cn",
+  "_fullname": "area-05"
+}

@@ -1,0 +1,14 @@
+{
+  "title": "Fragment REDTAPE Light",
+  "content": "[[module CSS]]\n@import url(\"https://scp-jp.wdfiles.com/local--code/theme%3Aredtape/1\")\n[[/module]]",
+  "tags": [
+    "en",
+    "フラグメント"
+  ],
+  "author": "nebula2700",
+  "created_at": "2024-12-07T14:24:06+00:00",
+  "updated_at": "2024-12-07T14:24:41+00:00",
+  "rating": 0,
+  "_site": "scp-jp",
+  "_fullname": "fragment:redtape-light"
+}

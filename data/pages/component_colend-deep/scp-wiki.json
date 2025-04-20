@@ -1,0 +1,13 @@
+{
+  "title": "Nested Collapsibles: End Deep",
+  "content": "[[/div]][[div [[#if {$nohide} |  | class=\"colmod-link-end\" ]] ]]\n[[div_ class=\"foldable-list-container\"]]\n[[#if {$nohide} |  | [# {$hide}] ]][[/div]][[/div]][[/li]][[/ul]][[/div]]",
+  "tags": [
+    "component-backend"
+  ],
+  "author": "stormbreath",
+  "created_at": "2021-01-30T00:28:10+00:00",
+  "updated_at": "2021-03-07T05:57:51+00:00",
+  "rating": 3,
+  "_site": "scp-wiki",
+  "_fullname": "component:colend-deep"
+}

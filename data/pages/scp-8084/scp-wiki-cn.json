@@ -1,0 +1,19 @@
+{
+  "title": "SCP-8084",
+  "content": "[!-- https://scp-wiki-cn.wikidot.com/fragment:scp-8084-0 --]\n[!-- https://scp-wiki-cn.wikidot.com/fragment:scp-8084-1 --]\n\n=====\n[[include component:preview\ntext=\n里根：求求你，接手这件事吧。如果你能解决这件事，我将感激不尽。\n]]\n=====\n[[include :scp-wiki-cn:theme:black-highlighter-theme]]\n[[include :scp-wiki-cn:theme:twin-files]]\n[[module CSS]]\n#header h1 a {\n \n    background-image: none;\n\n}\n\n#header h1 a::before {\n    text-shadow: none;\n    color: white;\n}\n \n#header h2 {\n    display: flex;\n}\n\n#header h1 {\n    margin-top: 5.7rem;\n    margin-left: 2.5rem;\n}\n\n@media (max-width: 768px) {\n\n#header h1 {\n    margin-left: 1.3rem;\n}\n\n}\n\n:root {\n\n    --header-title: \"SCP基金会\";\n    --header-subtitle: \"控制，收容，保护\";\n\n}\n\n.footnotes-footer {\ndisplay:none;\n}\n[[/module]]\n\n[[module ListPages category=\"fragment\" parent=\".\" order=\"title\" limit=\"1\" offset=\"@URL|0\"]]\n%%content%%\n[[/module]]\n\n[[=]]\n[[div class=\"series-nav\"]]\n« [[[SCP-8083]]] | SCP-8084 | [[[SCP-8085]]] »\n[[/div]]\n@@ @@\n[[include :scp-wiki:component:earthworm\n| previous-url = https://scp-wiki-cn.wikidot.com/scp-8339\n| previous-title = 光亮恐惧症\n| next-url = https://scp-wiki-cn.wikidot.com/scp-8876\n| next-title = 人类恐惧症\n| hub-url = https://scp-wiki-cn.wikidot.com/scp-anthology-2024\n| hub-title = 核武恐惧症\n| class = earthworm--anth24 {$class}\n]]\n[[/=]]\n[[include :scp-wiki-cn:component:license-box\n|author=basirskipreader和FLOORBOARDS]]\n[!-- N/A (No Images)  --]\n[[include :scp-wiki-cn:component:license-box-end]]",
+  "tags": [
+    "keter",
+    "scp",
+    "合著",
+    "恐怖",
+    "恐惧症文选",
+    "武器",
+    "热力学"
+  ],
+  "author": "Aegnus",
+  "created_at": "2024-10-10T01:32:17+00:00",
+  "updated_at": "2024-11-01T12:19:37+00:00",
+  "rating": 8,
+  "_site": "scp-wiki-cn",
+  "_fullname": "scp-8084"
+}

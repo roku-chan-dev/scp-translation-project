@@ -1,0 +1,19 @@
+{
+  "title": "SCP-CN-1263",
+  "content": "[[include :scp-wiki-cn:theme:black-highlighter-theme]]\n[[include :scp-wiki:component:bhl-dark-sidebar]]\n\n[[>]]\n[[module rate]]\n[[/>]]\n\n[[include :scp-wiki-cn:component:info-ayers\n|page=SCP-CN-1244[!-- url of your page on the scp wiki --]\n|authorPage=shineshadowd[!-- link to your author page --]\n|comments=**SCP-CN-1263：**祂看着凝固的海难，然后背离了我\n\n**作者：**[[*user ShineShadowD]] \n\n**图片信息：** \nhttps://pixabay.com/zh/photos/waves-water-surf-ocean-sea-spray-3374897/\n\n----\n@@@@\n@@@@\n余火中重新站起的人会将背信者杀死。\n@@@@\n@@@@\n]]\n----\n[[include :scp-wiki-cn:component:anomaly-class-bar-source\n|lang= cn\n|item-number= CN-1263\n|clearance= 1\n|container-class= safe\n|disruption-class= dark\n|risk-class= 待观察\n]]\n----\n[[=]]\n[[include component:image-block name=SEASEA.jpg|align=center|width=700px|caption=SCP-CN-1263]]\n[[/=]]\n----\n**特殊收容措施：**基金会前台组织将以“开采石油”的名义封锁SCP-CN-1263，数支武装部队将被部署以防备可能存在的外来风险。\n----\n**描述：**SCP-CN-1263是位于北纬N28°█′，东经E125°█′的一处海域。项目的异常性质表现为区域内固有的事物（如海水、生物）处于一种完全静止的凝固态，无法被外力作用产生形变或被摧毁。\n\nSCP-CN-1263-1是区域中央的一处漩涡。其上涡壁具有异常的作用力，使人员可以站立在涡壁上方行走。在SCP-CN-1263-1可以观察到大量人类实体，一般表现为惊恐状。部分实体已沉入SCP-CN-1263-1，仅可通过项目涡壁观察。\n\nSCP-CN-1263-2是SCP-CN-1263-1中的一艘沉船。其主体部分已经断裂为两截，一截扎在水下，一截露出表面，呈向漩涡中心移动的姿态。项目的部分碎片与船载物漂浮在SCP-CN-1263-1上，少部分已经沉入水中。\n\nSCP-CN-1263-3是一个最接近漩涡中央的人类实体，男性。关于项目具体身份已无法考究，仅可通过其衣襟上的罗马领推测其为一名天主教神职人员。项目的异常性质表现为双目始终有液体分泌，且液体不受SCP-CN-1263的异常性质影响。项目伸出的右臂指向了空中的一只海鸟，海鸟的喙中衔着一个断裂的银质十字架项链，背面镌刻着: //\"He said, 'whoever serves god will be eternal with me. ' \"//[[footnote]]祂说：“凡事奉神的，必是同我永恒。”[[/footnote]]\n@@@@\n@@@@\n[[footnoteblock]]\n\n[[div class=\"footer-wikiwalk-nav\"]]\n[[=]]\n<< [[[SCP-CN-1262]]] | SCP-CN-1263 | [[[SCP-CN-1264]]] >>\n[[/=]]\n[[/div]]",
+  "tags": [
+    "safe",
+    "scp",
+    "不可摧毁",
+    "不可移动",
+    "原创",
+    "地点",
+    "宗教"
+  ],
+  "author": "ShineShadowD",
+  "created_at": "2020-03-20T08:08:52+00:00",
+  "updated_at": "2021-01-28T03:28:37+00:00",
+  "rating": 42,
+  "_site": "scp-wiki-cn",
+  "_fullname": "scp-cn-1263"
+}

@@ -1,0 +1,18 @@
+{
+  "title": "Sentient Supervillain Stop-Sign",
+  "content": "[[=]]\n[[module Rate]]\n[[/=]]\n\n\n\n[[include :scp-wiki:theme:black-highlighter-theme]]\n[[include :scp-wiki:theme:jakstyle]]\n\n[[module CSS]]\n:root {\n--header-title: \"RemixCon2023\";\n--header-subtitle: \"Remix, Remix, Remix Again\";\n--lgurl: url(https://scp-wiki.wdfiles.com/local--files/component:pride-highlighter/tg_logo.svg);\n}\n[[/module]]\n\n[[=image http://scp-wiki.wikidot.com/local--files/art:sentient-supervillain-stop-sign/SynthRemix2023]]\n\n[[=]]\n[[size 200%]][https://scp-wiki.wikidot.com/synthpanda More by SynthPanda_][[/size]]\n\n[[include :scp-wiki:component:license-box]]\n[[<]]\n=====\n> **Filename:** SynthRemix2023.png\n> **Author:** [[*user SynthPanda_]]\n> **License:** CC BY-SA 3.0\n> **Source Link:** https://imgur.com/a/Ty4unyI\n=====\n[[/<]]\n[[include :scp-wiki:component:license-box-end]]\n[[/=]]",
+  "tags": [
+    "_cc",
+    "_licensebox",
+    "artwork",
+    "cel-shaded",
+    "remixcon2023",
+    "scp-art"
+  ],
+  "author": "SynthPanda_",
+  "created_at": "2023-09-04T03:46:09+00:00",
+  "updated_at": "2024-03-28T07:54:57+00:00",
+  "rating": 64,
+  "_site": "scp-wiki",
+  "_fullname": "art:sentient-supervillain-stop-sign"
+}
